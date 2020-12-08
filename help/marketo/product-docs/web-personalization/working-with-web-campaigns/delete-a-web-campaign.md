@@ -1,0 +1,36 @@
+---
+unique-page-id: 4719410
+description: Excluir uma Campanha da Web - Documentos do Marketing - Documentação do produto
+title: Excluir uma Campanha da Web
+translation-type: tm+mt
+source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+workflow-type: tm+mt
+source-wordcount: '74'
+ht-degree: 0%
+
+---
+
+
+# Excluir uma Campanha da Web {#delete-a-web-campaign}
+
+1. Vá para Campanhas **da Web**.
+
+   ![](assets/web-campaigns-hand-3.jpg)
+
+   >[!NOTE]
+   >
+   >Para facilitar a localização da campanha da Web desejada, use o recurso [de](filter-web-campaigns.md)filtro.
+
+1. Na página Campanhas da Web, clique em **Excluir **na campanha que deseja excluir.
+
+   ![](assets/web-campaigns-1-delete-hand-1.png)
+
+1. Uma mensagem de confirmação é exibida para confirmar se você deseja excluir a campanha da Web.
+
+>[!NOTE]
+>
+>**Artigos relacionados**
+>
+>* [Editar uma Campanha da Web](edit-an-existing-web-campaign.md)
+>* [Iniciar/pausar uma Campanha da Web](launch-pause-a-web-campaign.md)
+
