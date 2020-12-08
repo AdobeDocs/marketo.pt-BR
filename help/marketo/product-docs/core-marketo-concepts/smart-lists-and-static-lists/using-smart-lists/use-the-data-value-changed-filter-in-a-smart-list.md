@@ -1,0 +1,55 @@
+---
+unique-page-id: 557324
+description: Usar o filtro Valor dos Dados Alterado em uma Lista Inteligente - Documentos do Marketing - Documentação do Produto
+title: Usar o filtro Valor de dados alterado em uma Lista inteligente
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '157'
+ht-degree: 0%
+
+---
+
+
+# Usar o filtro Valor de dados alterado em uma Lista inteligente {#use-the-data-value-changed-filter-in-a-smart-list}
+
+Os valores estão constantemente mudando e sendo atualizados no banco de dados do Marketing to. Às vezes, em vez de procurar um valor específico, você quer procurar pessoas que tiveram uma mudança de valor. Veja como.
+
+>[!NOTE]
+>
+>**Pré-requisitos**
+>
+>* [Criar uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+
+>
+
+
+
+1. Vá para a área **Atividades de marketing **i.
+
+   ![](assets/ma.png)
+
+1. Selecione a lista inteligente e clique na guia Lista **** inteligente.
+
+   ![](assets/two-1.png)
+
+1. Encontre o filtro Valor **de dados alterado** e arraste-o para a tela.
+
+   ![](assets/three-1.png)
+
+1. Defina **Atributo** para o campo no qual deseja procurar alterações no valor dos dados.
+
+   ![](assets/four.png)
+
+Esse filtro procurará todas as pessoas que tiveram uma alteração (qualquer alteração) em seu Status. Se quiser ficar ainda mais sofisticado, tente [adicionar uma restrição a um filtro](add-a-constraint-to-a-smart-list-filter.md)de lista inteligente.
+
+>[!NOTE]
+>
+>**Artigos relacionados**
+>
+>* [Adicionar uma restrição a um filtro de Lista inteligente](add-a-constraint-to-a-smart-list-filter.md)
+
+>
+
+
+
