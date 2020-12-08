@@ -1,0 +1,51 @@
+---
+unique-page-id: 1147328
+description: Rejeições rígidas e suaves no e-mail - Documentos do Marketing - Documentação do produto
+title: Rejeições rígidas e suaves no email
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '340'
+ht-degree: 0%
+
+---
+
+
+# Rejeições rígidas e suaves no email {#hard-and-soft-bounces-in-email}
+
+Uma rejeição em disco pode tornar inválido o endereço de email de uma pessoa quando um servidor de email informa ao Marketo que o email da pessoa não pode ser entregue. Uma rejeição suave significa que algo deu errado ao entregar o email para a pessoa; isso é resolvido automaticamente e às vezes pode levar dias. As rejeições de hardware e software consistem em [várias categorias](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
+
+>[!NOTE]
+>
+>**FYI**
+>
+>O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+
+## Classificação de rejeição {#bounce-classification}
+
+Há cinco strings no Marketo relacionadas ao delivery de email com problemas.
+
+1. **Email suspenso** - defina como true quando ocorrer um determinado tipo de rejeição.
+1. **Causa** suspensa por email - pode haver muitos motivos. Este campo tenta explicar a causa.
+1. **E-mail suspenso em **- Quando ocorrer a rejeição ofensiva, o Marketo suspenderá o envio de mensagens para a pessoa por 24 horas a partir desse carimbo de data e hora.
+1. **Email inválido** - defina como Verdadeiro quando ocorrer um determinado tipo de rejeição.
+1. **Causa** inválida do email - o motivo para a rejeição.
+
+>[!NOTE]
+>
+>Depois que uma pessoa chega ao status suspenso **do** email, não há como limpar a caixa de seleção suspensa do email. No entanto, a pessoa continuará a poder ser enviada 24 horas após a suspensão inicial.
+>
+>Quando uma pessoa é marcada como inválida **por** email, ela só pode ser redefinida manualmente (o que recomendamos que você faça somente se tiver certeza de que seu email é válido) desmarcando a caixa &quot;Email inválido&quot; na guia Informações da pessoa de seu registro.
+
+>[!NOTE]
+>
+>**Pré-requisitos**
+>
+>Siga [estas etapas](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) para criar um Relatório de desempenho de email que gerará dados de rejeição.
+
+Depois de criar seu Relatório de desempenho de email, sua tela deve se parecer com o seguinte: ![](assets/soft-hard-bounce.png)
+
+>[!NOTE]
+>
+>Filtros de spam às vezes criam rejeições. Esses &quot;falsos positivos&quot; não são uma indicação da verdadeira validade do endereço de email da pessoa.
+
