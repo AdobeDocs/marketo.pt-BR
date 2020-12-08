@@ -1,0 +1,67 @@
+---
+unique-page-id: 2359491
+description: Adicionar um teste A/B - Documentos do Marketing - Documentação do produto
+title: Adicionar um teste A/B
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '194'
+ht-degree: 0%
+
+---
+
+
+# Adicionar um teste A/B {#add-an-a-b-test}
+
+>[!NOTE]
+>
+>**Pré-requisitos**
+>
+>* [Criar um Programa por email](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Definir uma Audiência com uma Lista](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) inteligente ou [Definir uma Audiência Importando uma Lista](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+
+   >
+   >
+* [Escolha um email](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) existente ou [crie um email para um Programa de email](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+
+>
+
+
+
+Testar é uma excelente maneira de otimizar seus e-mails para um melhor envolvimento. Aqui está como começar.
+
+1. Vá para **Marketing Atividade**.
+
+   ![](assets/login-marketing-activities.png)
+
+1. Selecione seu programa de email.
+
+   ![](assets/selectemailprogram.jpg)
+
+1. No bloco **Email** , clique em **Adicionar teste** A/B.
+
+   ![](assets/image2014-9-12-14-3a39-3a29.png)
+
+   >[!NOTE]
+   >
+   >Ao adicionar um teste A/B, o e-mail selecionado não estará mais disponível para uso em qualquer outro programa.
+
+1. Uma nova janela será aberta com tipos **de** teste diferentes para serem escolhidos. Explore um dos artigos relacionados abaixo para continuar.
+
+   >[!CAUTION]
+   >
+   >Se você tiver registros de duplicados em seu banco de dados, esses registros receberão **tanto** o teste quanto os emails vencedores. Para evitar que isso aconteça, verifique se você [encontra e mescla pessoas](http://docs.marketo.com/x/G4EI) duplicados em seu banco de dados.
+
+>[!NOTE]
+>
+>**Artigos relacionados**
+>
+>* [Usar teste A/B de &quot;Linha de assunto&quot;](use-subject-line-a-b-testing.md)
+>* [Usar teste A/B &quot;Email completo&quot;](use-whole-email-a-b-testing.md)
+>* [Use o teste A/B &quot;De Endereço&quot;](use-from-address-a-b-testing.md)
+>* [Usar teste A/B &quot;Data/hora&quot;](use-date-time-a-b-testing.md)
+
+>
+
+
+
