@@ -1,0 +1,104 @@
+---
+unique-page-id: 7504739
+description: Instale o Marketo para o Dynamics 2015 On-Prem e 2016 365 On-Prem Step 2 de 3 - Marketing to Docs - Documentação do produto
+title: Instale o Marketo para o Dynamics 2015 On-Prem e 2016 365 On-Prem Etapa 2 de 3
+translation-type: tm+mt
+source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+workflow-type: tm+mt
+source-wordcount: '328'
+ht-degree: 0%
+
+---
+
+
+# Etapa 2 de 3
+
+<!--Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3-->
+
+Excelente trabalho ao concluir as etapas anteriores. Vamos continuar a mexer nisto.
+
+>[!NOTE]
+>
+>**Pré-requisitos**
+>
+>* [Instale o Marketo para o Dynamics 2015 On-Prem e 2016 365 On-Prem Etapa 1 de 3](step-1-of-3-install.md)
+
+>
+
+
+
+## Atribuir função de usuário de sincronização {#assign-sync-user-role}
+
+Atribua a função Usuário de sincronização de marketing somente ao usuário de sincronização de marketing. Não é necessário atribuí-lo a nenhum outro usuário.
+
+>[!NOTE]
+>
+>Isso se aplica à versão 4.0.0.14 e posterior do Marketo. Para versões anteriores, todos os usuários devem ter a função de usuário de sincronização. Para atualizar seu Marketo, consulte [Atualizar a solução de marketing para Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+
+1. Em **Configurações**, clique em **Segurança**.
+
+   ![](assets/assign1.png)
+
+1. Clique em **Usuários**.
+
+   ![](assets/assign2.png)
+
+1. Você verá uma lista de usuários aqui. Selecione o usuário dedicado de Sincronização de Marketing ou entre em contato com o administrador do [Ative Diretory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS) para criar um usuário dedicado para o Marketing.
+
+   ![](assets/image2015-3-26-10-3a39-3a35.png)
+
+1. Selecione o usuário de sincronização. Clique em **Gerenciar funções**.
+
+   ![](assets/assign4.png)
+
+   Marque Marketo Sync User (Usuário de sincronização de marketing) e clique em OK.
+
+   ![](assets/assign5.png)
+
+   >[!TIP]
+   >
+   >Se você não vir a função, volte para a [etapa 1 da 3](step-1-of-3-install.md) e importe a solução.
+
+   >[!NOTE]
+   >
+   >Todas as atualizações feitas em seu CRM pelo usuário de sincronização **não** serão sincronizadas de volta ao Marketo.
+
+## Configuração da solução de marketing {#configure-marketo-solution}
+
+Quase pronto! Temos apenas algumas últimas configurações antes de passar para o próximo artigo.
+
+1. Em **Configurações**, clique em **Configuração** de marketing.
+
+   ![](assets/configure1.png)
+
+   >[!NOTE]
+   >
+   >Se a configuração de Marketo estiver ausente, tente atualizar a página. Se o problema persistir, [publique a solução](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) Marketo ou tente fazer logoff e login novamente.
+
+1. Clique em **Padrão**.
+
+   ![](assets/configure2.png)
+
+1. Clique no campo **Marketo User (Usuário** de marketing) e selecione o usuário de sincronização.
+
+   ![](assets/configure3.png)
+
+1. Clique no ícone salvar no canto inferior direito.
+
+   ![](assets/configure4.png)
+
+1. Clique em **Publicar todas as personalizações**.
+
+   ![](assets/publish-all-customizations1.png)
+
+## Antes de prosseguir para a etapa 3 {#before-proceeding-to-step}
+
+* Se você quiser restringir o número de registros sincronizados, [configure um filtro](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) de sincronização personalizado agora.
+* Execute o processo [Validar Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) . Ele verifica se as configurações iniciais foram feitas corretamente.
+* Faça logon no usuário de sincronização de marketing no Microsoft Dynamics CRM.
+
+>[!NOTE]
+>
+>**Artigos relacionados**
+>
+>[Instale o Marketo para o Dynamics 2015 On-Prem e 2016 365 On-Prem Etapa 3 de 3](step-3-of-3-connect.md)
