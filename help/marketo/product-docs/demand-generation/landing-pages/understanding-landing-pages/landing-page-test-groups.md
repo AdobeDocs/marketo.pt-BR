@@ -1,0 +1,61 @@
+---
+unique-page-id: 2949904
+description: Grupos de teste de landing page - Documentos do Marketing - Documentação do produto
+title: Grupos de teste de landing page
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '202'
+ht-degree: 0%
+
+---
+
+
+# Grupos de teste de landing page {#landing-page-test-groups}
+
+O Marketo rastreia o número de visualizações de página e conclusões de formulário em cada página testada em um Grupo de teste. Você pode usar os resultados do grupo de teste para decidir qual Landing page é a mais convincente. Veja como criar um grupo de teste.
+
+>[!NOTE]
+>
+>**Pré-requisitos**
+>
+>[Crie duas ou mais landings page](../../../../getting-started/quick-wins/landing-page-with-a-form.md), de preferência com um formulário.
+
+1. No Design Studio, clique em **Novo**. Na lista suspensa, selecione **Novo grupo** de teste.
+
+   ![](assets/image2015-8-5-13-3a32-3a50.png)
+
+   >[!NOTE]
+   >
+   >As outras maneiras de criar um grupo de teste são:
+   >
+   >    
+   >    
+   >    * Clique com o botão direito do mouse em uma landing page na árvore e selecione **Converter em grupo de teste**
+   >    * Crie um grupo de teste de Landing page em um programa escolhendo Grupo **de teste** AB no menu **Novo ativo** local
+
+
+1. Insira um nome e uma descrição opcional. Selecione as Landings page que deseja testar e clique em **Criar**.
+
+   ![](assets/image2015-8-5-13-3a39-3a10.png)
+
+   >[!NOTE]
+   >
+   >Somente Landings page não aprovadas estarão disponíveis para escolha.
+
+1. Clique com o botão direito do mouse em cada Landing page e selecione **Aprovar**.
+
+   ![](assets/three-1.png)
+
+1. Clique na lista suspensa Opções **do grupo de** teste e selecione **Aprovar grupo** de teste.
+
+   ![](assets/four-1.png)
+
+   É isso! Agora você poderá comparar as estatísticas das Landings page selecionadas.
+
+   ![](assets/five.png)
+
+   >[!TIP]
+   >
+   >Se desejar excluir o Grupo de teste, basta clicar em **Testar ações** do grupo e selecionar **Excluir grupo** de teste.
+
