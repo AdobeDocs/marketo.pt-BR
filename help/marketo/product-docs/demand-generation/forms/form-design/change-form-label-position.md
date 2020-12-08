@@ -1,0 +1,69 @@
+---
+unique-page-id: 2359612
+description: Alterar posição da etiqueta do formulário - Documentos do marketing - Documentação do produto
+title: Alterar posição do rótulo do formulário
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 0%
+
+---
+
+
+# Alterar posição do rótulo do formulário {#change-form-label-position}
+
+Ao [criar um formulário](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md), é possível alterar o posicionamento dos rótulos dos campos de formulário com facilidade. Veja como.
+
+1. Vá para **Marketing** **Atividade**.
+
+   ![](assets/login-marketing-activities-2.png)
+
+1. Selecione o formulário e clique em **Editar** **formulário**.
+
+   ![](assets/image2014-9-15-16-3a16-3a9.png)
+
+1. Selecione **Configurações**.
+
+   ![](assets/image2014-9-15-16-3a16-3a26.png)
+
+1. Selecione a **Etiqueta** **Posição** desejada.
+
+   ![](assets/image2014-9-15-16-3a16-3a39.png)
+
+   No momento, você tem duas opções:
+
+   * Left (padrão)
+   * Acima
+
+1. Clique em **Concluir**.
+
+   ![](assets/image2014-9-15-16-3a16-3a49.png)
+
+1. Clique em **Aprovar e fechar**.
+
+   >[!NOTE]
+   >
+   >O formulário deve ser aprovado para uso no landing page.
+
+   ![](assets/image2014-9-15-16-3a17-3a12.png)
+
+   >[!NOTE]
+   >
+   >**Lembrete**
+   >
+   >
+   >Lembre-se de aprovar o rascunho de landing page criado pelas alterações de formulário.
+
+Muito bem! Veja como foi fácil alterar as posições das etiquetas em um formulário? Vamos ver o que podemos fazer para mudar a fonte dos rótulos dos formulários.
+
+>[!NOTE]
+>
+>**Artigos relacionados**
+>
+>* [Alterar a família de fontes de formulário](change-the-form-font-family.md)
+
+>
+
+
+
