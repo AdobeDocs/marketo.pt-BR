@@ -1,0 +1,49 @@
+---
+unique-page-id: 2359930
+description: Arquivar e desarquivar conteúdo de fluxo - Documentos do Marketing - Documentação do produto
+title: Arquivar e desarquivar conteúdo de fluxo
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 0%
+
+---
+
+
+# Arquivar e desarquivar conteúdo de fluxo {#archive-and-unarchive-stream-content}
+
+Se não quiser mais usar um conteúdo em um fluxo, você pode [removê](remove-stream-content.md) -lo ou arquivá-lo. Veja como arquivar conteúdo.
+
+>[!TIP]
+>
+>A remoção destrói toda a história associada; o arquivamento o preserva.
+
+## Arquivar conteúdo de fluxo {#archive-stream-content}
+
+1. Selecione seu programa de envolvimento e vá para a guia **Streams** .
+
+   ![](assets/cloneasteam-4.jpg)
+
+1. Passe o mouse sobre o e-mail que deseja arquivar e, em seguida, sob o ícone de engrenagem, clique em **Arquivar**.
+
+   ![](assets/image2014-9-15-17-3a42-3a7.png)
+
+   É isso! Lembre-se, arquive se quiser preservar o histórico.
+
+## Desarquivar conteúdo de fluxo {#unarchive-stream-content}
+
+1. Selecione seu programa de envolvimento e vá para a guia Streams.
+
+   ![](assets/image2014-9-15-17-3a42-3a11.png)
+
+1. Clique no ícone de engrenagem do seu fluxo e clique em Mostrar conteúdo arquivado.
+
+   ![](assets/image2014-9-15-17-3a42-3a15.png)
+
+1. Agora que você pode ver o conteúdo arquivado, clique no ícone de engrenagem do conteúdo que deseja desarquivar e clique em **Desarquivar**.
+
+   ![](assets/image2014-9-15-17-3a42-3a24.png)
+
+   Perfeito! Agora, esse conteúdo está disponível para priorização e ativação.
+
