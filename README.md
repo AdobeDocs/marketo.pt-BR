@@ -1,16 +1,12 @@
 ---
-source-git-commit: f8b0acbfd8d43ce002997edf071049421516c532
+source-git-commit: 1a5afcec16cdfa18be647db3a87f3e504f60c223
 workflow-type: tm+mt
 translation-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
 # Artigo do Contribute
-
-| EXL-PR | EXL | Pré-visualização | Ativar | Publicado | Ajuda |
-|--- |--- |--- |--- |--- |--- |
-| [![Status da compilação](https://docs.ci.corp.adobe.com/view/exl-pr/job/marketo.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/marketo.en_pr-exl/lastBuild/) | [![Status da compilação](https://docs.ci.corp.adobe.com/view/exl-pr/job/marketo.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/marketo.en_exl/lastBuild/lastBuild) | [URL de pré-visualização](https://experienceleague.corp.adobe.com/docs/marketo/sky/home.html?lang=en) | [ativate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [Live URL](https://experienceleague.adobe.com/docs/marketo/sky/home.html?lang=en) | [Guia de criação](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
 
 Saudamos as contribuições de nossa comunidade, bem como de funcionários do Adobe de fora das equipes de documentação.
 
@@ -20,13 +16,13 @@ Este projeto adotou o Código de Conduta [de Origem Aberta do](code-of-conduct.m
 
 ## Sobre suas contribuições para o conteúdo de Adobe
 
-Consulte o Guia [do colaborador de](https://docs.adobe.com/help/en/contributor/contributor-guide/introduction.html)Adobe Docs.
+Consulte o Guia [do colaborador de](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)Adobe Docs.
 
 A forma como você contribui depende de quem você é e do tipo de mudanças que você gostaria de contribuir:
 
 ### Alterações menores
 
-Se você estiver contribuindo com atualizações secundárias devido à bondade de seu coração, visite o artigo e clique no link **Editar** no artigo que vai para a fonte GitHub do artigo. Em seguida, use a interface do usuário do GitHub para fazer suas atualizações. Consulte o guia [geral do colaborador de](https://docs.adobe.com/help/en/contributor/contributor-guide/introduction.html) Adobe Docs para obter mais informações.
+Se você estiver contribuindo com atualizações secundárias devido à bondade de seu coração, visite o artigo e clique no link **Editar** no artigo que vai para a fonte GitHub do artigo. Em seguida, use a interface do usuário do GitHub para fazer suas atualizações. Consulte o guia [geral do colaborador de](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) Adobe Docs para obter mais informações.
 
 Pequenas correções ou esclarecimentos que você submete para documentação e exemplos de código neste acordo de recompra são cobertos pelos termos de uso do Adobe.
 
@@ -40,7 +36,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Grandes mudanças dos funcionários do Adobe
 
-Se você for um gravador técnico, gerente de programas ou desenvolvedor da equipe de produtos para uma solução da [!UICONTROL Adobe Experience Cloud] e sua tarefa for contribuir ou criar artigos técnicos, você deverá usar o repositório privado em `https://git.corp.adobe.com/AdobeDocs`.
+Se você for um escritor técnico, gerente de programas ou desenvolvedor da equipe de produtos para uma solução Adobe Experience Cloud e seu trabalho for contribuir com ou criar artigos técnicos, você deverá usar o repositório privado em `https://git.corp.adobe.com/AdobeDocs`.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
@@ -48,7 +44,7 @@ Se você for um gravador técnico, gerente de programas ou desenvolvedor da equi
 
 Os contribuidores comunitários podem usar a interface do usuário do GitHub para a edição básica ou garfo do acordo de recompra para dar contribuições importantes.
 
-Consulte o Guia [do colaborador de](https://docs.adobe.com/help/en/contributor/contributor-guide/introduction.html) Adobe Docs para obter detalhes.
+Consulte o Guia [do colaborador de](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) Adobe Docs para obter detalhes.
 
 ## Como usar a marcação para formatar seu tópico
 
