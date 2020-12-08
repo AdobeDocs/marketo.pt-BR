@@ -1,0 +1,135 @@
+---
+unique-page-id: 2950549
+description: Configuração do fluxo recomendado pelo Social - Documentos do Marketing - Documentação do produto
+title: Configurar o fluxo recomendado pelo Social
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '489'
+ht-degree: 0%
+
+---
+
+
+# Configurar o fluxo recomendado pelo Social {#configure-social-recommend-flow}
+
+Ao criar um aplicativo social, você pode configurar as opções de rede social e solicitar que um usuário se encontre enquanto se inscreve.
+
+## Selecionar redes para compartilhamento {#select-networks-for-sharing}
+
+>[!NOTE]
+>
+>Isso é muito parecido com a [configuração do fluxo](configure-social-sign-up-share-flow.md)de inscrição/compartilhamento em redes sociais, mas é para os links de compartilhamento *sob* o aplicativo social.
+
+1. Vá para **Marketing Atividade**.
+
+   ![](assets/login-marketing-activities-1.png)
+
+1. Selecione o aplicativo e clique em **Editar rascunho****.**
+
+   ![](assets/image2014-9-22-11-3a51-3a6.png)
+
+1. No editor de aplicativos sociais, vá para **Recommend Flow** > **Social Networks****.**
+
+   ![](assets/recommendedflow.png)
+
+1. Selecione as redes nas quais um usuário pode compartilhar.
+
+   ![](assets/socialnetworkschoose.png)
+
+## Configurar a mensagem do Facebook {#configure-the-facebook-message}
+
+1. Configure a mensagem que será exibida nas postagens do Facebook.
+
+   ![](assets/image2014-9-22-11-3a53-3a21.png)
+
+   >[!NOTE]
+   >
+   >Em um compartilhamento de vídeo, a miniatura é gerada automaticamente.
+
+   **Adicionar** conteúdo dinâmicoSe você escolher** Adicionar conteúdo estático**, insira o título, a legenda e a descrição e faça upload de uma imagem. Veja as próximas duas etapas.
+
+1. Na janela Visualização e edição, clique em **Mostrar edições** para personalizar o prompt de compartilhamento e a mensagem que aparecerão nas postagens do Facebook.
+
+   >[!TIP]
+   >
+   >Para obter mais informações, consulte [Editar configurações](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)de postagens avançadas do Facebook.
+
+   ![](assets/image2014-9-22-11-3a54-3a36.png)
+
+   >[!NOTE]
+   >
+   >O URL [de](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) compartilhamento é adicionado automaticamente a todas as mensagens de compartilhamento.
+
+1. Se você escolher **Adicionar** conteúdo **estático** acima, edite o título, a legenda e a descrição e faça upload de uma imagem personalizada (de Imagens e arquivos de marketing).
+
+   ![](assets/image2014-9-22-11-3a55-3a14.png)
+
+   Consulte [Adicionar imagens e arquivos ao Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+
+   >[!NOTE]
+   >
+   >Se você carregar uma imagem, ela não será exibida aqui até que você feche e abra novamente o editor de aplicativos sociais.
+
+1. Clique em **Avançar**.
+
+Se você escolher , os valores das tags OpenGraph da página (og:title, og:caption e og:description) e a miniatura são adicionados automaticamente às publicações do Facebook. Consulte a próxima etapa.
+
+## Configurar a mensagem do Twitter {#configure-the-twitter-message}
+
+1. Clique para editar o prompt de compartilhamento e a mensagem que aparecerão nos tweets do Twitter.
+
+   ![](assets/image2014-9-22-12-3a2-3a40.png)
+
+   >[!TIP]
+   >
+   >Use {html_title} no texto do tweet para exibir o título da página automaticamente.
+
+1. Clique em **Avançar**.
+
+## Configurar a mensagem do LinkedIn {#configure-the-linkedin-message}
+
+1. Configure a mensagem que será exibida nas publicações do LinkedIn.
+
+   ![](assets/image2014-9-22-12-3a3-3a21.png)
+
+   Se você escolher **Adicionar conteúdo dinâmico** , os valores das tags de páginas (título e descrição) e a miniatura serão adicionados automaticamente às publicações do LinkedIn. Consulte a próxima etapa.
+
+   Se você escolher **Adicionar conteúdo estático** , insira o título, a legenda e a descrição e faça upload de uma imagem. Veja as próximas duas etapas.
+
+1. Na janela **Visualização** e **edição** , clique em **Mostrar edições** e edite o prompt e a mensagem de compartilhamento que aparecerão nas publicações do LinkedIn.
+
+   ![](assets/image2014-9-22-12-3a3-3a38.png)
+
+   >[!TIP]
+   >
+   >Use {html_title} no texto da postagem para exibir o título da página automaticamente.
+
+1. Se você escolher **Adicionar conteúdo estático** acima, edite o título e a descrição e faça upload de uma imagem personalizada (de suas Imagens e arquivos de **** marketing).
+
+   ![](assets/image2014-9-22-12-3a4-3a43.png)
+
+   Consulte [Adicionar imagens e arquivos ao Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+
+   >[!NOTE]
+   >
+   >Se você carregar uma imagem, ela não será exibida aqui até que você feche e abra novamente o editor de aplicativos sociais.
+
+1. Clique em **Avançar**.
+
+## Configurar a mensagem de confirmação {#configure-the-confirmation-message}
+
+1. Edite o texto da confirmação de compartilhamento.
+
+   ![](assets/image2014-9-22-12-3a5-3a30.png)
+
+1. Clique em **Concluir** > **Aprovar** e **fechar****.**
+
+   ![](assets/image2014-9-22-12-3a5-3a45.png)
+
+>[!NOTE]
+>
+>**Artigos relacionados**
+>
+>A próxima etapa é [adicionar seu compartilhamento](customize-video-share-flow.md) de vídeo ou [pesquisa](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) a uma landing page, Facebook ou site próprio.
+
