@@ -1,0 +1,81 @@
+---
+unique-page-id: 2359467
+description: Relatório de desempenho de e-mail - Documentos de marketing - Documentação do produto
+title: Relatório de desempenho de email
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '439'
+ht-degree: 0%
+
+---
+
+
+# Relatório de desempenho de email {#email-performance-report}
+
+Para ver o desempenho de seus e-mails com estatísticas como entregues, abertas, clicadas etc., crie um Relatório de desempenho de e-mail.
+
+1. [Crie um relatório em um Programa](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o Tipo **de** relatório de desempenho [de](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)email.
+1. [Altere o Quadro](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) de tempo do relatório e clique na guia **Relatório** .
+1. Você está aí! Agora, explore o relatório para ver como seus e-mails foram executados.
+
+   >[!NOTE]
+   >
+   >O filtro Data de envio é baseado na primeira data em que o email foi enviado.
+
+   ![](assets/email-performance-report.png)
+
+   >[!TIP]
+   >
+   >Clique no nome de um email para abri-lo no Visualizador de email.
+
+   >[!NOTE]
+   >
+   >
+   >Um relatório de desempenho de email inclui atividades para todas as pessoas, incluindo aquelas que foram excluídas desde que o email foi enviado. Às vezes, você quer ver atividades somente para pessoas ativas. Nesse caso, é necessário filtrar as pessoas excluídas do seu relatório. Use a guia Lista **** inteligente para [criar uma lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) inteligente para o relatório. Se você não estiver filtrando em nenhum campo específico, defina o filtro Endereço de email como: **não está vazio**.
+
+   [A seleção de Colunas](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) de relatório para um relatório de Desempenho de email inclui:
+
+   | Coluna | Descrição |
+   |---|---|
+   | Disparado intenso | O email foi rejeitado devido a uma condição permanente, como endereço de email inexistente. |
+   | Rejeitado macio | O email foi rejeitado devido a uma condição temporária, como um servidor que estava inativo ou uma caixa de entrada completa. |
+   | Pendente | Esse número é calculado subtraindo o número de emails entregues, retorcidos e retorcidos suaves do número total de Enviados. |
+   | Link clicado | Número de recipient de email que clicaram em um link no email. |
+   | Inscrito | Número de recipient de email que clicaram no link **Cancelar inscrição** no email e preencheram o formulário. |
+
+   >[!NOTE]
+   >
+   >Os links de cancelamento de assinatura e os endereços de email que estão sendo clicados em um email não se registram em Links clicados no relatório.
+
+Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por exemplo, se alguém clicou em um link em um email, obviamente eles abriram o email primeiro. Seguimos estas regras específicas para o Relatório de desempenho de email:
+
+* **Regra 1**: Cada registro de atividade de email é definido como um dos seguintes: *Entregues*, *com salto* intenso, *com salto suave* ou *pendentes*.
+
+* **Regra 2**: Se o registro de email mostrar *Aberto*, ele será contado como *Entregue*.
+
+* **Regra 3**: Se o registro de email mostrar Email ** clicado ou *Cancelado*, ele será contado como *Entregue* e *Aberto*.
+
+* **Regra 4**: Se o email estiver *aberto*, as rejeições serão ignoradas. Se o e-mail não foi aberto, o *Hard Bained* terá precedência sobre o *Soft Bained* e o *Delivered*.
+
+>[!NOTE]
+>
+>Vários envios da mesma campanha para a mesma pessoa são contados apenas uma vez.
+
+>[!NOTE]
+>
+>**Artigos relacionados**
+>
+>* [Filtrar ativos em relatórios de e-mail de Campanha](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [Relatório de desempenho do link de email](email-link-performance-report.md)
+
+>
+
+
+
+>[!NOTE]
+>
+>**Mergulho profundo**
+>
+>Saiba mais sobre o Relatórios [básico](http://docs.marketo.com/display/docs/basic+reporting).
+
