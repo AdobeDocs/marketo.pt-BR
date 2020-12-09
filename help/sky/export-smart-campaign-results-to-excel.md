@@ -2,7 +2,7 @@
 title: resultados de campanha inteligente de exportação para o Excel
 description: Exportar resultados da Campanha inteligente para o Excel
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Exporte os resultados da campanha inteligente para o Excel para uso fora do [!DNL Marketo].
 
-1. Na guia [!UICONTROL Visão geral] da sua campanha inteligente, clique na guia [!UICONTROL **Relatórios**] .
+1. Na guia [!UICONTROL Visão geral] da sua campanha inteligente, clique na guia **[!UICONTROL Relatórios]** .
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/export-smart-campaign-results-to-excel/export-smart-campaign-results-to-excel-1.png)
 
