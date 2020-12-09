@@ -3,9 +3,9 @@ unique-page-id: 2360240
 description: Configurar um analisador de influência de oportunidade - Documentos do marketing - Documentação do produto
 title: Configurar um analisador de influência de oportunidade
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Depois de [criar um Analisador](create-an-opportunity-influence-analyzer.md)de influência de oportunidade, você pode configurar os tipos de momentos [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) interessantes incluídos.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar um analisador de influência de oportunidade](create-an-opportunity-influence-analyzer.md)
 
