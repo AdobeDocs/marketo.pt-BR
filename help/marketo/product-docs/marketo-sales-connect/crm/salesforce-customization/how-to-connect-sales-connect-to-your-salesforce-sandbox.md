@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Como conectar o setor de vendas ao seu Salesforce Sandbox - Documentos do Marketing Cloud - Documentação do produto
 title: Como conectar o setor de Vendas ao seu Salesforce Sandbox
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Como conectar o setor de Vendas ao seu Salesforce Sandbox {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Sua conta do Sales Connect já não pode ser conectada ao Salesforce ao estabelecer uma conexão com a caixa de proteção. Se estiver, [desconecte](http://docs.marketo.com/x/FoDq) -se antes de seguir as etapas neste artigo.
 
