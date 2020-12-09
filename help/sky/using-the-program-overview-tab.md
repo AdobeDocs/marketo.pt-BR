@@ -2,7 +2,7 @@
 title: guia usar-o-programa-visão geral
 description: Uso da guia Visão geral do Programa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Há três seções na guia Visão geral [!UICONTROL do] Programa: [!UICONTROL **Detalhes**], [!UICONTROL **Programação**] e [!UICONTROL **Relatórios**]. Aqui está uma rápida olhada em cada um.
+Há três seções na guia Visão geral [!UICONTROL do] Programa: **[!UICONTROL Detalhes]**, **[!UICONTROL Programação]** e **[!UICONTROL Relatórios]**. Aqui está uma rápida olhada em cada um.
 
 ## Detalhes
 
@@ -22,7 +22,7 @@ A página principal de detalhes exibe informações gerais sobre seu programa.
 
 ![Imagem Um](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Na parte inferior da página estão duas seções: [!UICONTROL **Estatísticas**] do programa e [!UICONTROL **usadas por**]. [!UICONTROL **As Estatísticas**] de programas mostram as métricas principais sobre o desempenho do programa, e [!UICONTROL **Usado por**] é uma maneira fácil de ver onde seu programa está sendo usado no Marketo.
+Na parte inferior da página estão duas seções: **[!UICONTROL Estatísticas]** do programa e **[!UICONTROL usadas por]**. **[!UICONTROL As Estatísticas]** de programas mostram as métricas principais sobre o desempenho do programa, e **[!UICONTROL Usado por]** é uma maneira fácil de ver onde seu programa está sendo usado no Marketo.
 
 ![Imagem dois](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
