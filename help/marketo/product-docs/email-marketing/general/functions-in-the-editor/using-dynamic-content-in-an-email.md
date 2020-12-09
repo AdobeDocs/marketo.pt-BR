@@ -3,9 +3,9 @@ unique-page-id: 2950617
 description: Uso de conteúdo dinâmico em um email - Documentos do Marketing - Documentação do produto
 title: Usar conteúdo dinâmico em um email
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Usar conteúdo dinâmico em um email {#using-dynamic-content-in-an-email}
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar uma segmentação](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
