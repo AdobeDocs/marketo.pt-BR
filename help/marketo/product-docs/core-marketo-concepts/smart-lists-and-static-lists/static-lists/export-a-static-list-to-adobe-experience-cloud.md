@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: Exportar uma Lista estática para Adobe Experience Cloud - Documentos do Marketing - Documentação do produto
 title: Exportar uma Lista estática para Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >Uma implantação pronta para HIPAA de uma instância de Marketo não pode usar esse recurso.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >[Configurar o compartilhamento de Audiências da Adobe Experience Cloud](http://docs.marketo.com/x/D4GMAg)
 
