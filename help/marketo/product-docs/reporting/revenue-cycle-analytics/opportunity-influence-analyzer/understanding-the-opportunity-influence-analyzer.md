@@ -3,9 +3,9 @@ unique-page-id: 4718648
 description: Noções básicas sobre o Analisador de influência de oportunidade - Documentos do marketing - Documentação do produto
 title: Noções básicas sobre o analisador de influência de oportunidade
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Se desejar manter esse comportamento, considere desduplicar seus dados no sistem
 >
 >Cada vez que fecham um negócio, encontram-no neste analisador no dia seguinte. Compartilhe-o com o representante de vendas. Eles vão realizar todo o trabalho árduo que você faz - além disso, você pode perguntar por que certas pessoas &quot;parecem&quot; influentes, mas não têm uma função atribuída no CRM.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Informe a história de marketing com um analisador de influência de oportunidade](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Criar um analisador de influência de oportunidade](create-an-opportunity-influence-analyzer.md)
