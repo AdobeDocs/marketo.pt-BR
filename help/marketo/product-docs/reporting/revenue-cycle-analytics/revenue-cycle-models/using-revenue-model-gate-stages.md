@@ -3,9 +3,9 @@ unique-page-id: 4718670
 description: Uso de etapas do portão do modelo de receita - Documentos do Marketo - Documentação do produto
 title: Usando Estágios de Portas de Modelo de Receita
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Edite o Nome, a Descrição e ajuste o estágio Tipo do portão. Você também p
 
 Parabéns! Agora vocês entendem o maravilhoso mundo dos Gate Stages.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usando Estágios de Inventário do Modelo de Receita](using-revenue-model-inventory-stages.md)
 >* [Usando Estágios de SLA de Modelo de Receita](using-revenue-model-sla-stages.md)
