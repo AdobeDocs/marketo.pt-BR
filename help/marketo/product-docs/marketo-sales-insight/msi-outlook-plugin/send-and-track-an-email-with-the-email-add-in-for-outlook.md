@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: Enviar e rastrear um email com o suplemento de email para Outlook - Documentos do Marketing - Documentação do produto
 title: Enviar e rastrear um email com o suplemento de email para Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Caso ainda não o tenha feito, instale o suplemento de email [Marketo para Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
