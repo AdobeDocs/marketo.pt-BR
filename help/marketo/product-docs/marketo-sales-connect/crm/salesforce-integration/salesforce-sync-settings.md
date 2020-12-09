@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Configurações de sincronização do Salesforce - Documentos do Marketing - Documentação do produto
 title: Configurações de Sincronização do Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 Esta funcionalidade exige que você esteja na edição Enterprise/Unlimited do Salesforce ou na edição Professional se você adquiriu a Integração por meio da API de serviços da Web.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >O Salesforce e o Sales Engage devem estar conectados.
 
@@ -47,9 +45,7 @@ Esta funcionalidade exige que você esteja na edição Enterprise/Unlimited do S
 
 Depois de ativar &quot;Email to Salesforce (BCC)&quot;, você receberá uma Cco dos emails de vendas e seus emails serão registrados como atividades sobre oportunidades, clientes potenciais e contatos.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >O Salesforce e o Sales Engage devem estar conectados.
 
