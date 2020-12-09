@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: Excluir Entradas Diretamente No Calendário De Marketing - Documentos Do Marketing - Documentação Do Produto
 title: Excluir entradas diretamente no calendário de marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Além de [criar](create-entries-directly-in-the-marketing-calendar.md) e [editar
 
 Dependendo da entrada, talvez seja necessário confirmar a exclusão. Mas é isso! Calma.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Confirmar entradas diretamente no calendário de marketing](confirm-entries-directly-in-the-marketing-calendar.md)
 
