@@ -3,9 +3,9 @@ unique-page-id: 2359880
 description: Organize suas imagens e arquivos usando pastas - documentos do Marketo - documentação do produto
 title: Organize suas imagens e arquivos usando pastas
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ A criação de pastas permite que você mova imagens e arquivos, veja apenas o c
 
 Alto cinco! Estão prontos para a utopia de pastas.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Pesquisar imagens e arquivos carregados](search-uploaded-images-and-files.md)
 
