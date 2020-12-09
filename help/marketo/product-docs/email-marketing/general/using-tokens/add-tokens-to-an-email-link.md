@@ -3,9 +3,9 @@ unique-page-id: 1147360
 description: Adicionar tokens a um link de email - Documentos do Marketing - Documentação do produto
 title: Adicionar tokens a um link de email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Para inserir parâmetros extras e específicos da pessoa em seus links, você po
 
    E é isso!
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar URLs em Meus Tokens](using-urls-in-my-tokens.md)
 
