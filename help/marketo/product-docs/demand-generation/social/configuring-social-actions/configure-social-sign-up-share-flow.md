@@ -3,9 +3,9 @@ unique-page-id: 2950530
 description: Configurar o fluxo de inscrição/compartilhamento do Social - Documentos do Marketing - Documentação do produto
 title: Configurar o fluxo de inscrição/compartilhamento do Social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -113,9 +113,7 @@ Se você escolher os valores das tags da página (og:title, og:caption e og:desc
 >
 >Se você carregar uma imagem, ela não será exibida aqui até que você feche e abra novamente o editor de aplicativos sociais.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Em seguida, você pode clicar em **Concluir > Aprovar e fechar** e colocar seu aplicativo social em uma landing page. Você também pode configurar a captura [de](configure-person-capture-for-a-social-app.md) pessoas ou o prompt [de](configure-re-share-email-and-prompt-for-a-social-app.md)compartilhamento novamente.
 
