@@ -3,9 +3,9 @@ unique-page-id: 7504180
 description: Usar uma Lista de marketing ou uma Lista inteligente como um segmento de Audiência do LinkedIn - Documentos de marketing - Documentação do produto
 title: Usar uma Lista de marketing ou uma Lista inteligente como um segmento de Audiência do LinkedIn
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Integre suas pessoas do Marketing com suas audiências do LinkedIn.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Adicionar Audiências Correspondentes do LinkedIn como um Serviço do LaunchPoint](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
