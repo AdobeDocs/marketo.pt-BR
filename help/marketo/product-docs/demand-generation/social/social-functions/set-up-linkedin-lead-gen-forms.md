@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: Configurar o LinkedIn Lead Gen Forms - Documentos do Marketing - Documentação do produto
 title: Configurar o LinkedIn Lead Gen Forms
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,7 @@ Muito bem! As pessoas que enviam formulários do LinkedIn Lead Gen serão start 
 >
 >Você só pode autorizar uma única conta de usuário do LinkedIn. Se você tiver várias contas comerciais que deseja vincular ao Marketo, verifique se a conta do LinkedIn do usuário que está sendo autorizada tem permissões de gerente de formulário principal para a conta comercial no LinkedIn.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar Filtros e acionadores de formulário do LinkedIn em uma Campanha inteligente](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
 
