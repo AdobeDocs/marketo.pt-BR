@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Criar uma pesquisa - Documentos do Marketing - Documentação do produto
 title: Criar uma pesquisa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Envolva pessoas com uma pesquisa em que possam votar e compartilhar com seus ami
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Se quiser usar imagens em sua pesquisa, adicione-as à sua biblioteca de Imagens e Arquivos do Marketo antes de começar. Adicione uma imagem de 60x60px para cada entrada de pesquisa. Consulte [Adicionar imagens e arquivos ao Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
