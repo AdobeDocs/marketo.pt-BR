@@ -3,9 +3,9 @@ unique-page-id: 7504047
 description: Criar um relatório do Revenue Explorer - Documentos do Marketing - Documentação do produto
 title: Criar um relatório do Explorador de Receita
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ O relatório do Revenue Explorer permite que você rastreie o ROI em suas inicia
 
    ![](assets/image2015-3-24-13-3a26-3a8.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Adicionar campos a um relatório do Explorador de receita](adding-fields-to-a-revenue-explorer-report.md)
 >* [Adicionando medidas personalizadas a um relatório do Explorador de Receita](adding-custom-measures-to-a-revenue-explorer-report.md)
