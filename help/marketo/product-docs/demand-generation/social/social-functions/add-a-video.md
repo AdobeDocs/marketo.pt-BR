@@ -3,9 +3,9 @@ unique-page-id: 2359761
 description: Adicionar um vídeo - Documentos do Marketing - Documentação do produto
 title: Adicionar um vídeo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Coloque vídeos com opções de compartilhamento em redes sociais em suas landin
 
 Parabéns! Você adicionou um compartilhamento de vídeo à sua landing page. Aprove a landing page e seu compartilhamento de vídeo esteja ao vivo. Você também pode [publicar a landing page no Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [colocar o compartilhamento de vídeo em seu site](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Você terminou, mas pode alterar as configurações do compartilhamento de vídeo, se necessário. Start com a [personalização do fluxo](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) de compartilhamento (quando e onde o prompt de compartilhamento é aberto).
 
