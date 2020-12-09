@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: Criar um filtro personalizado de sincronização dinâmica - Documentos do marketing - Documentação do produto
 title: Criar um filtro personalizado de sincronização dinâmica
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ O Marketo procura esse campo durante a sincronização automática em segundo pl
 >
 >A única maneira de dizer ao Marketo para ignorar um registro é definir o valor do campo explicitamente como **Não**. O Marketo ainda sincroniza registros mesmo se os valores de campo estiverem vazios.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Instale a versão mais recente do Plug-in do Marketo (3.0.0.1 ou posterior). Acesse Marketo > Admin > Microsoft Dynamics > Baixar solução de marketing.
 
