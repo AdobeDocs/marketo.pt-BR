@@ -2,7 +2,7 @@
 title: delete-a-programa
 description: Excluir um Programa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Veja como excluir um programa.
 
-1. Localize o programa que deseja excluir e selecione [!UICONTROL **Excluir**] no menu suspenso Ações [!UICONTROL do] Programa.
+1. Localize o programa que deseja excluir e selecione **[!UICONTROL Excluir]** no menu suspenso Ações [!UICONTROL do] Programa.
 
    ![Imagem Um](/help/sky/assets/programs/delete-a-program/delete-a-program-1.png)
 
-1. Revise os efeitos colaterais da exclusão do programa e marque [!UICONTROL **Excluir todos os itens listados acima**]. Clique em [!UICONTROL **Enviar**].
+1. Revise os efeitos colaterais da exclusão do programa e marque **[!UICONTROL Excluir todos os itens listados acima]**. Clique em **[!UICONTROL Enviar]**.
 
    ![Imagem dois](/help/sky/assets/programs/delete-a-program/delete-a-program-2.png)
 
