@@ -2,7 +2,7 @@
 title: save-flow-actions
 description: Salvar ações de fluxo
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -22,7 +22,7 @@ As etapas de fluxo informam ao Marketo o que você deseja que aconteça com um g
 
    ![Imagem Um](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. Depois de definir sua lista inteligente, clique em [!UICONTROL **Fluxo**].
+1. Depois de definir sua lista inteligente, clique em **[!UICONTROL Fluxo]**.
 
    ![Imagem dois](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
@@ -32,11 +32,11 @@ As etapas de fluxo informam ao Marketo o que você deseja que aconteça com um g
 
    ![Imagem quatro](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. Quando terminar de adicionar filtros/acionadores, clique no menu suspenso Ações [!UICONTROL **de Campanha**] inteligente e selecione [!UICONTROL **Salvar novo fluxo**].
+1. Quando terminar de adicionar filtros/acionadores, clique no menu suspenso Ações **[!UICONTROL de Campanha]** inteligente e selecione **[!UICONTROL Salvar novo fluxo]**.
 
    ![Imagem cinco](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. Dê um nome ao seu fluxo e clique em [!UICONTROL **Salvar**].
+1. Dê um nome ao seu fluxo e clique em **[!UICONTROL Salvar]**.
 
    ![Imagem seis](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
@@ -48,11 +48,11 @@ E você terminou. Na próxima vez que você criar uma campanha inteligente, ter�
 
    ![Imagem sete](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. Clique em [!UICONTROL **Fluxo**].
+1. Clique em **[!UICONTROL Fluxo]**.
 
    ![Imagem Oito](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. Clique no menu suspenso Fluxos [!UICONTROL **salvos**] .
+1. Clique no menu suspenso Fluxos **[!UICONTROL salvos]** .
 
    ![Imagem Nove](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
