@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: Visão geral do seletor de modelo de e-mail - Documentos de marketing - Documentação do produto
 title: Visão Geral do Seletor de Modelos de Email
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Você também pode clicar com o botão direito do mouse em uma miniatura de mode
 
 Muito legal!
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Sintaxe do modelo de email](email-template-syntax.md)
 >* [Criar um email](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
