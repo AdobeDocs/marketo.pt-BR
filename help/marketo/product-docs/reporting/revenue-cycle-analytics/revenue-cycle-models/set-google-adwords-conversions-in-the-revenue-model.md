@@ -3,9 +3,9 @@ unique-page-id: 6095029
 description: Definir conversões do Google AdWords no modelo de receita - Documentos do marketing - Documentação do produto
 title: Definir conversões do Google AdWords no modelo de receita
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Saiba mais sobre o recurso [de importação de conversão offline do](https://su
 
 Você pode criar uma nova conversão offline AdWords de Marketo se usar a Ação do palco.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Adicionar Google AdWords como um Serviço LaunchPoint](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
