@@ -3,9 +3,9 @@ unique-page-id: 2359781
 description: Criar uma Oferta de referência - Documentos do marketing - Documentação do produto
 title: Criar uma Oferta de referência
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ Se houver algum problema na oferta de referência, você será solicitado a solu
 
 Parabéns! Você criou sua oferta de referência.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >O próximo passo é [publicar sua oferta](publish-a-referral-offer.md) de referência em uma landing page, em seu site ou no Facebook.
 
