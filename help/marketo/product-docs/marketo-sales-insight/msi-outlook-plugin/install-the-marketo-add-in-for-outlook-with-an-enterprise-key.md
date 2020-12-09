@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Instale o add-in Marketo para Outlook com uma chave corporativa - Documentos do marketing - Documentação do produto
 title: Instalar o suplemento de marketing para Outlook com uma chave corporativa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Muitas vezes, os representantes de vendas não têm privilégios administrativos em seus laptops, e suas equipes de TI são responsáveis pela instalação remota de todos os softwares. O Complemento de marketing para Outlook pode ser instalado dessa forma usando sua chave corporativa, que pode ser encontrada na seção Informações de vendas de Admin.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >O administrador deve ter [emitido uma Licença](issue-a-marketo-email-add-in-license.md)de suplemento por email do Marketo.
 
