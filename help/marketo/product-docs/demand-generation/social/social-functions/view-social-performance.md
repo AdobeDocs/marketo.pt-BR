@@ -3,9 +3,9 @@ unique-page-id: 2359763
 description: Desempenho social da visualização - Documentos do Marketing - Documentação do produto
 title: Desempenho social visualização
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Veja as atividades sociais geradas pelos seus aplicativos sociais. O Painel do S
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Você também pode usar acionadores e filtros para ver quem está compartilhando seu conteúdo e interagindo com seus aplicativos sociais, para que você possa agir com essas interações. Consulte [Usar acionadores e Filtros para Atividades](triggers-and-filters-for-social-activities.md)sociais.
 
