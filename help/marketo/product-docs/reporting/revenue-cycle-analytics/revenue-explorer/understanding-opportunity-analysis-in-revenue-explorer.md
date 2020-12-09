@@ -3,9 +3,9 @@ unique-page-id: 2951884
 description: Noções Gerais da Análise de Oportunidade no Revenue Explorer - Documentos do Marketing - Documentação do Produto
 title: Noções Gerais da Análise de Oportunidade no Gerenciador de Receita
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
@@ -149,9 +149,7 @@ A Análise de oportunidade oferece acesso a todas as dimensões de oportunidade 
    | Quantia da Oportunidade (Aberta) | Valor total para oportunidades abertas. Se mais de um cliente potencial estiver associado a uma oportunidade, a quantia de alocação será baseada na pontuação do cliente potencial. |
    | Quantidade de Oportunidade (Ganho) | Valor total para oportunidades vencidas. Se mais de um cliente potencial estiver associado a uma oportunidade, a quantia de alocação será baseada na pontuação do cliente potencial. |
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar um relatório do Explorador de Receita](create-a-revenue-explorer-report.md)
 >* [Adicionar campos a um relatório do Explorador de receita](adding-fields-to-a-revenue-explorer-report.md)
