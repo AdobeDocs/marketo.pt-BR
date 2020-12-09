@@ -3,9 +3,9 @@ unique-page-id: 2949180
 description: Como entender o Painel SEO - SEO Recommendations - Documentos do Marketing - Documentação do produto
 title: Noções básicas sobre o Painel SEO - SEO Recommendations
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Ter sites respeitáveis vinculados ao seu conteúdo pode aumentar a classificaç
 
 Vamos! Mergulhe mais fundo aqui.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Detalhamento de detalhes da página](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
 
