@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Gerenciar dados do Perfil social - Documentos do marketing - Documentação do produto
 title: Gerenciar dados do Perfil social
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ Dependendo das configurações de privacidade da rede e do usuário, um ou mais 
 >
 >O preenchimento do formulário social captura o endereço de email *somente* se a pessoa o digitar no formulário. Se você precisar do endereço de email, [torne-o um campo obrigatório no formulário](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Para capturar essas informações dos formulários, ative o preenchimento [do formulário](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)social.
 
