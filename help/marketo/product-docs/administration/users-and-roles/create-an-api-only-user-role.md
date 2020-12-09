@@ -3,9 +3,9 @@ unique-page-id: 2360203
 description: Criar uma função de usuário somente da API - Documentos do marketing - Documentação do produto
 title: Criar uma função de usuário somente de API
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Se você quiser integrar-se ao Marketo por meio da API [](http://developers.mark
 >
 >É sempre uma boa ideia conceder apenas as permissões mínimas necessárias.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Muito bem! Agora, vamos [criar um usuário](create-an-api-only-user.md)Somente API.
 
