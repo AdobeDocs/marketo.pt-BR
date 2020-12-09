@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: Uso de uma sobreposição global - Documentos do marketing - Documentação do produto
 title: Uso de uma sobreposição global
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 A sobreposição global na visualização do cronograma do programa permite que você veja seu programa em relação a outros ativos agendados.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >É necessário ter uma licença [do Calendário](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) de marketing para utilizar esse recurso.
 
