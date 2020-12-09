@@ -3,9 +3,9 @@ unique-page-id: 3571800
 description: Etapa 3 de 3 - Connect Marketo e Salesforce (Professional) - Documentos do Marketing - Documentação do produto
 title: Etapa 3 de 3 - Connect Marketing e Salesforce (Professional)
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Neste artigo, você configurará o Marketo para sincronizar com a instância configurada do Salesforce.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Etapa 1 de 3: Adicionar campos de marketing ao Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 >* [Etapa 2 de 3: Criar um usuário do Salesforce para marketing (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
