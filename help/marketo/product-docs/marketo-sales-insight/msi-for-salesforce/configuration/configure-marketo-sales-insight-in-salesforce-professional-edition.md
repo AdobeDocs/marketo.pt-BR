@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Configuração do Marketing to Sales Insight no Salesforce Professional Edition - Documentos do Marketing - Documentação do produto
 title: Configurar o Marketing Sales Insight no Salesforce Professional Edition
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '921'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Estas são as etapas necessárias para configurar o Marketing to Sales Insight no Salesforce Professional Edition. Vamos começar.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >[Instale o Marketing em seu Salesforce Professional Edition](http://docs.marketo.com/display/docs/professional+edition)
 >
