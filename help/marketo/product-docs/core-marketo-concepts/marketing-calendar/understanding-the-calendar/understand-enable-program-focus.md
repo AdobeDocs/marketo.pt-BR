@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: Entender/Ativar foco do Programa - Documentos do Marketing - Documentação do produto
 title: Entender/ativar foco do Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ O Calendário de marketing oferece uma visualização de pássaros, mas também 
 
 Incrível! Agora vá em frente e aprenda a interagir com entradas.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar entradas diretamente no calendário de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
 >* [Editar entradas diretamente no calendário de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
