@@ -3,9 +3,9 @@ unique-page-id: 2359608
 description: Alterar a família de fontes de formulário - Documentos do marketing - Documentação do produto
 title: Alterar a família de fontes de formulário
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ O Google Fonts é fantástico, e nós os inserimos diretamente no editor de form
 
 Veja como foi fácil alterar a família de fontes em um formulário? Legal, agora que está pronto, vamos aprender a mudar o tamanho da fonte do formulário.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Alterar o tamanho da fonte do formulário](change-the-form-font-size.md)
 
