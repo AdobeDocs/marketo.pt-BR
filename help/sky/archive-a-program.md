@@ -2,7 +2,7 @@
 title: arquivamento-a-programa
 description: Arquivar um Programa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 Para arquivar um programa, é necessário movê-lo para uma pasta de arquivamento separada.
 
-1. Crie uma nova pasta de campanha clicando com o botão direito do mouse no mundo do local de trabalho e selecionando [!UICONTROL **Nova pasta**] de campanha.
+1. Crie uma nova pasta de campanha clicando com o botão direito do mouse no mundo do local de trabalho e selecionando **[!UICONTROL Nova pasta]** de campanha.
 
    ![Imagem Um](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. Insira um nome para a sua nova pasta e, em seguida, adicione uma descrição opcional. Clique em [!UICONTROL **Criar**].
+1. Insira um nome para a sua nova pasta e, em seguida, adicione uma descrição opcional. Clique em **[!UICONTROL Criar]**.
 
    ![Imagem dois](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
-1. Para arquivar um programa, primeiro adicione-o à pasta recém-criada, clicando com o botão direito do mouse nele na árvore e selecionando [!UICONTROL **Mover**].
+1. Para arquivar um programa, primeiro adicione-o à pasta recém-criada, clicando com o botão direito do mouse nele na árvore e selecionando **[!UICONTROL Mover]**.
 
    ![Imagem Três](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. Digite para procurar sua nova pasta e selecione-a no menu suspenso. Clique em [!UICONTROL **Mover**].
+1. Digite para procurar sua nova pasta e selecione-a no menu suspenso. Clique em **[!UICONTROL Mover]**.
 
    ![Imagem quatro](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. Clique com o botão direito do mouse na pasta e selecione [!UICONTROL **Converter em pasta**] de arquivamento.
+1. Clique com o botão direito do mouse na pasta e selecione **[!UICONTROL Converter em pasta]** de arquivamento.
 
    ![Imagem cinco](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
