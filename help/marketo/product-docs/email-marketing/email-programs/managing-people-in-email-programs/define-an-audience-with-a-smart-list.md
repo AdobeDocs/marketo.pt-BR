@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: Definir uma Audiência com uma Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Definir uma Audiência com uma Lista inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Depois de [criar um programa](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)de e-mail, você deverá informar a ele para quem enviar o e-mail. Você pode fazer isso [importando uma lista de pessoas](define-an-audience-by-importing-a-list.md) ou com uma lista inteligente. Veja como fazer isso com uma lista inteligente.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar um Programa por email](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
