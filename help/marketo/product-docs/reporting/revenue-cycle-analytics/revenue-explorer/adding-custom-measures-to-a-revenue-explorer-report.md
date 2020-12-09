@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: Adicionar medidas personalizadas a um relatório do Gerenciador de receitas - Documentos do marketing - Documentação do produto
 title: Adicionando medidas personalizadas a um relatório do Explorador de Receita
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 No exemplo abaixo, você está criando uma medida calculada para rejeições suaves, que utiliza métricas já presentes no relatório e usa matemática básica para criar uma nova métrica. Você também pode criar outros tipos de medidas.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Você precisa de pelo menos uma métrica em seu relatório, mas não precisa ser uma das medidas que você usa para definir sua medida personalizada.
 
