@@ -3,9 +3,9 @@ unique-page-id: 7514009
 description: Entendendo a área de Análise do Estágio da Receita do Programa - Documentos do Marketing - Documentação do produto
 title: Como entender a área de Análise do Estágio da Receita do Programa
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -151,8 +151,6 @@ Para visualização de dimensões ou medidas disponíveis em uma categoria, cliq
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Criar um relatório do Explorador de Receita](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
