@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: Detalhes da alteração na trilha de auditoria - Documentos do Marketing - Documentação do produto
 title: Alterar detalhes na trilha de auditoria
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1903'
+source-wordcount: '1901'
 ht-degree: 0%
 
 ---
@@ -799,9 +799,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Filtragem na trilha de auditoria](filtering-in-audit-trail.md)
 
