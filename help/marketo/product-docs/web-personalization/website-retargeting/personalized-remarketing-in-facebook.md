@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Comentários personalizados no Facebook - Documentos de marketing - Documentação do produto
 title: Comentários personalizados no Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 A recomercialização personalizada permite que você se envolva novamente com seus usuários usando os dados RTP e o poder da recomercialização do Facebook.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* Conclua a [redefinição de metas com a configuração de dados](retargeting-with-web-personalization-data.md) de personalização da Web
 >* Revise a documentação do [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook em [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Públicos-alvo personalizados e Comentários
