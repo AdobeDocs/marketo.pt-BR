@@ -3,9 +3,9 @@ unique-page-id: 2360323
 description: Editar uma partição de pessoa existente - Documentos de marketing - Documentação do produto
 title: Editar uma partição de pessoa existente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Uma partição de pessoa é como ter um segundo (ou terceiro) banco de dados. Um
 >
 >**Permissões de administrador necessárias**
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar uma partição de pessoa](create-a-person-partition.md)
 
