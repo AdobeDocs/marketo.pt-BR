@@ -3,9 +3,9 @@ unique-page-id: 2359873
 description: Excluir uma imagem ou um arquivo carregado - Documentos do Marketing - Documentação do produto
 title: Excluir uma imagem ou um arquivo carregado
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
 Muito bem!
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Substituir uma imagem ou um arquivo carregado](replace-an-uploaded-image-or-file.md)
 >* [Pesquisar imagens e arquivos carregados](search-uploaded-images-and-files.md)
