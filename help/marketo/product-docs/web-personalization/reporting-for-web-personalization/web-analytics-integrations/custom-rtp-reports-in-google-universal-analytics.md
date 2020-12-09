@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Relatórios RTP personalizados no Google Universal Analytics - Documentos do Marketing - Documentação do produto
 title: Relatórios RTP personalizados no Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Relatórios RTP personalizados no Google Universal Analytics {#custom-rtp-reports-in-google-universal-analytics}
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >[Integrar RTP ao Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 
