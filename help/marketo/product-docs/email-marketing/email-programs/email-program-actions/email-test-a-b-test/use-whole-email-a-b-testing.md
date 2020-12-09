@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: Usar teste A/B "Email completo" - Documentos do Marketing - Documentação do produto
 title: Usar teste A/B "Email completo"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Você pode testar facilmente seus e-mails A/B. Um grande teste é o **teste de Email** Inteiro. Veja como configurar.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Adicionar um teste A/B](add-an-a-b-test.md)
 
