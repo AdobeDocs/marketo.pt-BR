@@ -3,9 +3,9 @@ unique-page-id: 2949720
 description: Visão geral de momentos interessantes - Documentos do Marketing - Documentação do produto
 title: Visão geral dos momentos interessantes
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Você pode usar a etapa de fluxo de momento interessante para dar visibilidade �
 
 Você também pode usar tokens em momentos interessantes para fazer descrições dinâmicas realmente úteis.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usando momentos interessantes](using-interesting-moments.md)
 >* [Tokens para momentos interessantes](tokens-for-interesting-moments.md)
