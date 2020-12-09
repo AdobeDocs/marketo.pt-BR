@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Redefinição de metas com dados de personalização da Web - Documentos de marketing - Documentação do produto
 title: Redefinição de metas com dados de personalização da Web
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ Uma Audiência segmentada permite selecionar um segmento existente como uma audi
 
    Agora você concluiu a Configuração de redefinição de metas na Personalização da Web, faz logon em suas plataformas de redefinição de metas e cria suas audiências com base nesses dados e configura seu redirecionamento de campanhas de publicidade.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Comentários personalizados no Google](personalized-remarketing-in-google.md)
 >* [Comentários personalizados no Facebook](personalized-remarketing-in-facebook.md)
