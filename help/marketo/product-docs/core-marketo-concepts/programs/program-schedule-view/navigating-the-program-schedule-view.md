@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: Navegação na Visualização do Cronograma do programa - Documentos do Marketing - Documentação do produto
 title: Navegação na Visualização do Cronograma do programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ Estas são as noções básicas para ajudá-lo a navegar pela visualização do 
 
 Ótimo! Agora que você sabe como visualização seu programa, vamos aprender outras coisas legais que ele pode fazer.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criação de uma entrada na Visualização do Cronograma do programa](creating-an-entry-in-the-program-schedule-view.md)
 
