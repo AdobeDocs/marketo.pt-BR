@@ -3,9 +3,9 @@ unique-page-id: 2359803
 description: Habilitar URLs personalizados para uma Landing page - Documentos de marketing - Documentação do produto
 title: Ativar URLs personalizados para uma Landing page
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 URLs personalizados são ótimos para campanhas de e-mail de impressão.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Habilitar URLs personalizados para sua conta](enable-personalized-urls-for-your-account.md)
 
