@@ -3,9 +3,9 @@ unique-page-id: 2950553
 description: Fluxo de compartilhamento de vídeo personalizado - Documentos do marketing - Documentação do produto
 title: Personalizar o fluxo de compartilhamento de vídeo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Ao [criar um compartilhamento](../../../../product-docs/demand-generation/landin
 
    ![](assets/image2014-9-22-16-3a41-3a20.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >A próxima etapa é [configurar o que acontece após o compartilhamento](configure-after-share-prompts.md)de vídeo.
 
