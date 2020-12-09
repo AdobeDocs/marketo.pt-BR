@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Adicionar campos de link de objeto personalizado do Marketo - Documentos do Marketo - Documentação do produto
 title: Adicionar campos de link de objeto personalizado de marketing
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Veja como criar um campo de link em um objeto personalizado para uma estrutura u
 
 Veja como criar um campo de link em um objeto intermediário para uso em uma estrutura muitas para muitas.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Você já deve ter criado o objeto intermediário e todos os objetos personalizados aos quais deseja vinculá-lo.
 
