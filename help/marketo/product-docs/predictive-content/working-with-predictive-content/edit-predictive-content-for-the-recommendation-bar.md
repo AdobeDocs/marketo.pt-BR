@@ -3,9 +3,9 @@ unique-page-id: 11385942
 description: Editar conteúdo previsível para a barra de recomendações - Documentos do marketing - Documentação do produto
 title: Editar conteúdo previsível para a barra de recomendações
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Veja como configurar seu conteúdo preditivo para a Barra de recomendações.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >O conteúdo deve ser [aprovado para conteúdo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) preditivo na página Todo o conteúdo.
 
