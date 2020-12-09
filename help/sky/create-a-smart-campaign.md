@@ -2,7 +2,7 @@
 title: create-a-smart-campanha
 description: Criar uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Campanhas inteligentes são a ferramenta mais importante em [!DNL Marketo]. Eles
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-1.png)
 
-1. Clique com o botão direito do mouse na sua seleção e escolha [!UICONTROL **Criar Campanha**] inteligente.
+1. Clique com o botão direito do mouse na sua seleção e escolha **[!UICONTROL Criar Campanha]** inteligente.
 
    ![Imagem dois](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-2.png)
 
@@ -28,6 +28,6 @@ Campanhas inteligentes são a ferramenta mais importante em [!DNL Marketo]. Eles
 >
 >Você pode criar campanhas inteligentes como ativos locais de qualquer programa.
 
-1. Dê um nome à sua campanha inteligente (e adicione uma descrição/rótulos opcionais) e clique em [!UICONTROL **Criar**].
+1. Dê um nome à sua campanha inteligente (e adicione uma descrição/rótulos opcionais) e clique em **[!UICONTROL Criar]**.
 
    ![Imagem Três](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-3.png)
