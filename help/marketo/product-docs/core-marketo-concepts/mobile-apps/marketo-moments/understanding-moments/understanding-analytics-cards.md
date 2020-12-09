@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Noções básicas sobre os cartões do Analytics - Documentos do Marketing - Documentação do produto
 title: Como entender os cartões do Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ O cartão de **Cancelamento de inscrição** mostra um relatório de tendência 
 
 Agora você sabe.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Como entender os momentos de marketing](understanding-marketo-moments.md)
 >* [Como entender as placas de Evento](understanding-event-cards.md)
