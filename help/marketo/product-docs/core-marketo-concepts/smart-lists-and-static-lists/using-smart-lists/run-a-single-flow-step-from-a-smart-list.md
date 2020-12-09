@@ -3,9 +3,9 @@ unique-page-id: 557322
 description: Execute uma única etapa de fluxo a partir de uma Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Executar uma única etapa de fluxo a partir de uma Lista inteligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Se quiser executar uma etapa de fluxo única, você pode usar uma única etapa de fluxo em uma lista inteligente em vez de criar uma campanha inteligente inteira.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
