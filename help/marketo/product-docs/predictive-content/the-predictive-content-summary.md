@@ -3,9 +3,9 @@ unique-page-id: 11384634
 description: Resumo do conteúdo preditivo - Documentos do marketing - Documentação do produto
 title: O Resumo do conteúdo preditivo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Quais categorias de conteúdo são mais envolventes? Veja-o neste gráfico.
 >
 >Se você clicar em um link de categoria (exemplos na imagem acima: liderança, email etc.) abre a página de conteúdo Todos com a categoria em que você clicou adicionada ao filtro, exibindo a análise de conteúdo nessa categoria.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Trabalhar com todo o conteúdo](http://docs.marketo.com/display/docs/working+with+all+content)
 >* [Trabalhar com conteúdo preditivo](http://docs.marketo.com/display/docs/working+with+predictive+content)
