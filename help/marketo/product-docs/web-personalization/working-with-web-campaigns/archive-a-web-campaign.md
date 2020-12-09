@@ -3,9 +3,9 @@ unique-page-id: 12978938
 description: Arquivar uma Campanha da Web - Documentos do Marketing - Documentação do produto
 title: Arquivar uma Campanha da Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
    >
    >Campanhas da Web arquivadas não serão exibidas no filtro padrão. Para vê-los, clique no ícone Filtro e, em **Status**, marque a caixa de seleção **Arquivado** e clique em **Aplicar**.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Excluir uma Campanha da Web](delete-a-web-campaign.md)
 
