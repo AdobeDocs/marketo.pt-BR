@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: Insira suas credenciais ON24 no Marketo - Documentos do Marketing - Documentação do produto
 title: Insira suas credenciais ON24 no Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Você pode editar suas credenciais se sua senha expirar ou precisar fazer uma al
 
 O próximo passo é [criar seu evento webinar no ON24](create-your-webinar-event-in-on24.md).
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Noções Gerais dos Eventos do adaptador do Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
