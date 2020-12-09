@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Campos personalizados de membros do programa - Documentos do Marketing - Documentação do produto
 title: Campos personalizados de membro do programa
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -71,9 +71,7 @@ Você pode aproveitar esses dados específicos do programa em listas inteligente
 * Importar e exportar por meio de [](http://docs.marketo.com/x/egAk)listagem e [](http://developers.marketo.com/)APIs são suportados.
 * Quando duas pessoas forem unidas, os dados de campo personalizado do membro Programa vencedor serão usados. Mas se o vencedor não tiver nenhum, o valor do perdedor será usado.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Criar um campo personalizado no Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
