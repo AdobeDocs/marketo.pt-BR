@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: Noções básicas sobre Campanhas inteligentes - Documentos do marketing - Documentação do produto
 title: Como entender as Campanhas inteligentes
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Finalmente, isso controla quando você executa sua campanha inteligente. Você t
 
 Há uma enorme quantidade de coisas que a campanhas inteligente pode fazer. Pegue o jeito disso e você encontrará tudo em Marketo se torna muito mais simples de entender.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar uma nova Campanha inteligente](creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
