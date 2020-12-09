@@ -3,9 +3,9 @@ unique-page-id: 13795727
 description: Anule o Delivery de Programas de e-mail agendados com o fuso horário do Recipient - Documentos de marketing - Documentação do produto
 title: Cancelar Delivery de Programas de e-mail agendados com fuso horário do Recipient
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Como os programas de e-mail programados com Fuso horário do Recipient podem ser
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Noções básicas sobre o fuso horário do Recipient](understanding-recipient-time-zone.md)
 >* [Agendar Programas de e-mail com fuso horário do Recipient](schedule-email-programs-with-recipient-time-zone.md)
