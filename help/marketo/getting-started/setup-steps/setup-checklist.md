@@ -3,9 +3,9 @@ unique-page-id: 2949471
 description: Lista de verificação da configuração - Documentos do marketing - Documentação do produto
 title: Lista de verificação da configuração
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verifica
 
 1. Trabalhar com um desenvolvedor da Web para adicionar código de rastreamento ao seu site
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Etapas de configuração](../../getting-started/setup-steps.md)
 
