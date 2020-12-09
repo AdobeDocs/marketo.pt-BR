@@ -3,9 +3,9 @@ unique-page-id: 2359732
 description: Usar conteúdo dinâmico em uma Landing page de forma livre - Documentos do marketing - Documentação do produto
 title: Usar conteúdo dinâmico em uma Landing page de forma livre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Usar conteúdo dinâmico no Landing page envolve sua audiência com informações direcionadas.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar uma segmentação](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Criar uma Landing page de forma livre](create-a-free-form-landing-page.md)
