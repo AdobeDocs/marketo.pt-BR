@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Configurar atribuição de receita para Campanhas de publicidade digital - Documentos do marketing - Documentação do produto
 title: Configurar atribuição de receita para Campanhas de publicidade digital
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Depois de configurar seu primeiro programa de anúncio no Marketo, você pode cl
 
 Com programas separados, você pode rastrear o número de conversões de cada um e ver seus programas no Programa Analyzer, no Opportunity Influence Analyzer e em outros recursos do Marketing Cloud Analytics.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* Configure uma tag de canal com valores de status e sucesso de programa (por exemplo, Anúncio digital ou Publicidade social paga e PPC)
 >* Criar ou editar um formulário para passar uma sequência de query com a pessoa
