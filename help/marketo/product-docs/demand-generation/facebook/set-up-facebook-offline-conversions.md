@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Configurar conversões offline do Facebook - Documentos do Marketing - Documentação do produto
 title: Configurar conversões offline do Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Ao enviar dados de conversão offline de volta ao Facebook para pessoas criadas por meio de Anúncios de venda, sua equipe de publicidade pode otimizar seus gastos com publicidade melhor do que nunca. Veja como configurar.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* Você deve [configurar os Anúncios](set-up-facebook-lead-ads.md)de venda do Facebook.
 >* Você deve ter um modelo aprovado no [Revenue Cycle Modeler](http://docs.marketo.com/display/docs/revenue+cycle+models).
