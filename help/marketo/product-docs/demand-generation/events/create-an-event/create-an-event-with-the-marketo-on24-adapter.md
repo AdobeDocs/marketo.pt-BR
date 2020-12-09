@@ -3,9 +3,9 @@ unique-page-id: 10096656
 description: Crie um Evento com o adaptador Marketo ON24 - Documentos do Marketing Cloud - Documentação do produto
 title: Crie um Evento com o adaptador Marketo ON24
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Siga estas etapas para criar um Evento com o adaptador Marketo On24:
 1. [Entendendo os status dos Programas do webinar](create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 1. [Atualizações de registro do Evento ON24](create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Noções Gerais dos Eventos do adaptador do Marketo ON24](create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
