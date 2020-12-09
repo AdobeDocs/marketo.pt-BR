@@ -3,9 +3,9 @@ unique-page-id: 2359890
 description: Noções básicas sobre a pontuação de envolvimento - Documentos de marketing - Documentação do produto
 title: Como entender a pontuação de envolvimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ As pontuações de envolvimento são universais para todos os clientes. Você po
 >
 >O algoritmo proprietário também se aplica à pontuação de envolvimento em programas de email.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Noções básicas sobre Programas de envolvimento](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
 
