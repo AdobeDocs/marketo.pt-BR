@@ -3,9 +3,9 @@ unique-page-id: 3571816
 description: Etapa 2 de 3 - Configurar usuário de sincronização para Marketo (2013 nas instalações) - Documentação do produto - Documentação do produto
 title: Etapa 2 de 3 - Configurar usuário de sincronização para o Marketo (locais 2013)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Excelente trabalho ao completar os passos anteriores, vamos continuar a avançar nisto.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Etapa 1 de 3: Instalar a solução Marketo no Dynamics (2013 On-Premise)](step-1-of-3-install.md)
 
