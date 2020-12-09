@@ -3,9 +3,9 @@ unique-page-id: 2360243
 description: Habilitar restrições de pessoa para Campanhas inteligentes - Documentos de marketing - Documentação do produto
 title: Ativar restrições de pessoa para Campanhas inteligentes
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Há um recurso em Marketo para limitar o ***máximo ***número de pessoas que po
 
 Bingo! Você acabou de ligar o interruptor de segurança. Boa ideia, certo?
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Substituir restrições de pessoa em uma Campanha inteligente](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 
