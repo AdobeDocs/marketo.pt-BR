@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: Etapa 1 de 3 - Instalar a solução Marketo (nas instalações 2011) - Documentação do produto - Documentação do produto
 title: Etapa 1 de 3 - Instalar a solução Marketo (2011 no local)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Antes de poder sincronizar o Microsoft Dynamics On-Premise e o Marketing, é nec
 >
 >Depois de sincronizar o Marketo com um CRM, não é possível executar uma nova sincronização sem substituir a instância.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Tem de ter a Implantação [Virada para a](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) Internet (IFD) com os Serviços [de Federação do](https://msdn.microsoft.com/en-us/library/bb897402.aspx) Ative Diretory 2.0, 2.1 ou 3.0 (ADFS) configurados. **Observação**: O documento IFD é baixado automaticamente quando você clica no link.
 >
