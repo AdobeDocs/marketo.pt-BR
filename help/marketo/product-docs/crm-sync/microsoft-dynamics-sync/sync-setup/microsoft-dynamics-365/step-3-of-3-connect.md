@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Etapa 3 de 3 - Conectar o Microsoft Dynamics com o Marketing (Online) - Documentos do Marketing - Documentação do produto
 title: Etapa 3 de 3 - Conectar o Microsoft Dynamics com o Marketing (Online)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 Esta é a última etapa da sincronização. Estamos quase lá!
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Etapa 1 de 3: Instalar a solução Marketing (Online)](step-1-of-3-install.md)
    >
