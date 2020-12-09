@@ -3,9 +3,9 @@ unique-page-id: 3571735
 description: Instalar e configurar o Marketingto Sales Insight no Microsoft Dynamics 2011 - Documentos do Marketing - Documentação do produto
 title: Instalar e configurar o Marketingto Sales Insight no Microsoft Dynamics 2011
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 O Marketing to Sales Insight é uma ferramenta fantástica para sua equipe de vendas. Esta é a instrução passo a passo de como instalá-la e configurá-la no Microsoft Dynamics 2011 On-Premise.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Conclua sua integração [com a](http://docs.marketo.com/x/DoA2)Marketo-Microsoft.
 >
