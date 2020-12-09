@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Visão geral do Sales Connect - Documentos do Marketing - Documentação do produto
 title: Visão geral do Sales Connect
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,7 @@ Crie uma campanha inteligente simples para dar aos usuários de vendas acesso ao
 
 Pronto para começar? Para obter instruções de configuração, clique no link abaixo.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Introdução ao Sales Connect](http://docs.marketo.com/x/coTS)
 
