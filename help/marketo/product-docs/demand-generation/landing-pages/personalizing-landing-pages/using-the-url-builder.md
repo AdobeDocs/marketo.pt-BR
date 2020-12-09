@@ -3,9 +3,9 @@ unique-page-id: 2359801
 description: Uso do Construtor de URL - Documentos do Marketing - Documentação do produto
 title: Uso do Construtor de URL
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ O Construtor de URL ajuda a construir URLs que podem preencher campos de formul�
 >
 >O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Saiba como criar campos ocultos em formulários e editar suas configurações em [Definir um campo de formulário como oculto](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
