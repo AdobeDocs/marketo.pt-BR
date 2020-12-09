@@ -3,9 +3,9 @@ unique-page-id: 7511725
 description: Como entender meus relatórios e relatórios de grupo - documentos do Marketing - Documentação do produto
 title: Como entender meus relatórios e relatórios de grupo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Você pode criar **Meus relatórios **e **Relatórios de grupo **na página inic
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Salvar um relatório](save-a-report.md)
 >* [Clonar um relatório para agrupar relatórios](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
