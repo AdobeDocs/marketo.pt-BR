@@ -3,9 +3,9 @@ unique-page-id: 11377640
 description: Autorizar o plug-in do Marketing to Outlook - Documentos do Marketo - Documentação do produto
 title: Autorizar o plug-in do Marketing to Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Para usar o plug-in MSI do Marketo no Outlook, é necessário autorizá-lo.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >O plug-in já deve estar instalado e você deve ser autorizado como um usuário de plug-in pelo Administrador do Marketing.
 
