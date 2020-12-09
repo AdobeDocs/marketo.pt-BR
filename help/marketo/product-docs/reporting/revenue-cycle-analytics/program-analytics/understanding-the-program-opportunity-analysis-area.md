@@ -3,9 +3,9 @@ unique-page-id: 2951877
 description: Como entender a área de Análise da oportunidade do Programa - Documentos do Marketing - Documentação do produto
 title: Como entender a área de Análise da oportunidade do Programa
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -188,8 +188,6 @@ Enquanto as medidas (pontos azuis) são calculadas e exigem algum pensamento e e
 
 **Todas as Oportunidades que deram qualquer tipo de atribuição de crédito a um Programa. As oportunidades podem ser influenciadas por um ou mais clientes potenciais e por um ou mais Programas.*
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Criar um relatório do Explorador de Receita](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
