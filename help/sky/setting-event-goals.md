@@ -2,7 +2,7 @@
 title: definição de metas de evento
 description: Como configurar objetivos de Evento
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Dê a seus eventos objetivos específicos e veja como eles funcionam.
 
    ![Imagem dois](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. Insira a meta para [!UICONTROL Registrado] e [!UICONTROL Participado]e clique em [!UICONTROL **Criar**] ([!UICONTROL Descrição] e [!UICONTROL Rótulos] são opcionais).
+1. Insira a meta para [!UICONTROL Registrado] e [!UICONTROL Participado]e clique em **[!UICONTROL Criar]** ([!UICONTROL Descrição] e [!UICONTROL Rótulos] são opcionais).
 
    ![Imagem Um](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
