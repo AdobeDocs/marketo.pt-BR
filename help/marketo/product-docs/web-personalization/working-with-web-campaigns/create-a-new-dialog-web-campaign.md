@@ -3,15 +3,15 @@ unique-page-id: 4719398
 description: Criar uma nova Campanha da Web da caixa de diálogo - Documentos do Marketing - Documentação do produto
 title: Criar uma nova Campanha da Web de diálogo
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '762'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
 
 
-# Criar uma nova Campanha da Web de diálogo {#create-a-new-dialog-web-campaign}
+# Criar uma nova Campanha da Web de caixa de diálogo {#create-a-new-dialog-web-campaign}
 
 ## Criar uma Campanha da Web de diálogo {#create-a-dialog-web-campaign}
 
@@ -158,9 +158,7 @@ Consulte [Clonar uma Campanha](clone-a-web-campaign.md)da Web.
 
 1. Uma mensagem de confirmação é exibida para confirmar se você deseja excluir a campanha da Web.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar uma nova Campanha da Web na zona](create-a-new-in-zone-web-campaign.md)
 >* [Criar uma nova Campanha Web de widget](create-a-new-widget-web-campaign.md)
