@@ -3,9 +3,9 @@ unique-page-id: 1147068
 description: Filtrar resultados da Campanha inteligente - Documentos do marketing - Documentação do produto
 title: Filtrar resultados de Campanha inteligente
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Filtrar resultados de Campanha inteligente {#filter-smart-campaign-results}
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Resultados da Campanha inteligente da visualização](view-smart-campaign-results.md)
 
