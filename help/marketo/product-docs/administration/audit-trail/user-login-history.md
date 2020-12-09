@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: Histórico de logon do usuário - Documentos do marketing - Documentação do produto
 title: Histórico de logon do usuário
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 O Histórico de logon do usuário ajuda a manter a responsabilidade e a segurança, mostrando exatamente quem está fazendo logon em sua subscrição, incluindo tentativas de login com falha.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Você deve ter uma função com a permissão Histórico de logon de acesso ativada para visualização do Histórico de logon do usuário.
 
