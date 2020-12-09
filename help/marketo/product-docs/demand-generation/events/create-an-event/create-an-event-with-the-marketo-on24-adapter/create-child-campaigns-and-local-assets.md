@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: Criar Campanhas secundárias e ativos locais - Documentos de marketing - Documentação do produto
 title: Criar Campanhas secundárias e ativos locais
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,7 @@ A etapa **Enviar fluxo de email** DEVE ser a segunda etapa. O e-mail de confirma
 
 O próximo passo é [testar a integração](test-your-on24-event-integration.md)do evento ON24.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Noções Gerais dos Eventos do adaptador do Marketo ON24](understanding-marketo-on24-adapter-events.md)
 >* [Exemplo de integração de Evento ON24](example-on24-event-integration.md)
