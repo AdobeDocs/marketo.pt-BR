@@ -3,9 +3,9 @@ unique-page-id: 2359416
 description: Resposta automática por email - Documentos de marketing - Documentação do produto
 title: Resposta automática por email
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Configurar e adicionar uma pessoa](get-set-up-and-add-a-person.md)
 >* [landing page com um formulário](landing-page-with-a-form.md)
