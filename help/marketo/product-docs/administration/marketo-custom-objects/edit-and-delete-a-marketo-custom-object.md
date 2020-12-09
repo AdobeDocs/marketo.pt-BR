@@ -3,9 +3,9 @@ unique-page-id: 10093690
 description: Editar e excluir um objeto personalizado de marketing - Documentos de marketing - Documentação do produto
 title: Editar e excluir um objeto personalizado de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ Use o menu Ações de objeto personalizadas para editar ou excluir um objeto per
    >
    >Se o objeto personalizado estiver vinculado a um objeto intermediário, você deverá excluir o objeto intermediário primeiro.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Aprovar um objeto personalizado](approve-a-custom-object.md)
 
