@@ -3,9 +3,9 @@ unique-page-id: 10100434
 description: Escolha um layout para sua mensagem no aplicativo - Documentos do marketing - Documentação do produto
 title: Escolha um layout para sua mensagem no aplicativo
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ O terceiro layout de tela cheia é o mesmo do segundo, exceto pelo segundo botã
 
 Agora que você sabe sobre os modelos, é hora de escolher um ao [criar suas imagens](add-in-app-message-images.md)de mensagem no aplicativo.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar uma mensagem no aplicativo](http://docs.marketo.com/display/docs/create+an+in-app+message)
 >* [Como entender as mensagens no aplicativo](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
