@@ -3,9 +3,9 @@ unique-page-id: 11380734
 description: Acionadores de conta - Documentos do marketing - Documentação do produto
 title: Acionadores de conta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Acionadores de conta {#account-triggers}
 
-Ouça e aja em atividades comportamentais importantes em nível de conta em diferentes canais (por exemplo, email, Web, anúncios) usando acionadores em nível de conta.
+Ouça e aja em atividades comportamentais importantes em nível de conta em canais diferentes (por exemplo, email, Web, anúncios) usando acionadores em nível de conta.
 
-Selecione sua campanha inteligente e clique em Lista inteligente.
+Selecione sua campanha inteligente e clique em Lista **[!UICONTROL inteligente]**.
 
 ![](assets/one-1.png)
 
@@ -23,13 +23,14 @@ Digite &quot;Conta nomeada&quot; na caixa de pesquisa para localizar os acionado
 
 ![](assets/two-1.png)
 
-Arraste o acionador desejado até a tela de desenho. Neste exemplo, estamos usando *Adicionado à conta* nomeada.
+Arraste o acionador desejado até a tela de desenho. Neste exemplo, estamos usando _Adicionado à conta_ nomeada.
 
 ![](assets/three-1.png)
 
 Escolha um qualificador.
 
-![](assets/four-1.png)\
+![](assets/four-1.png)
+
 Clique no menu suspenso da conta nomeada...
 
 ![](assets/five-1.png)
@@ -40,13 +41,7 @@ Clique no menu suspenso da conta nomeada...
 
 É isso! Depois de terminar o resto da campanha inteligente, lembre-se de ativá-la.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Filtros de conta](account-filters.md)
-
->
-
-
 
