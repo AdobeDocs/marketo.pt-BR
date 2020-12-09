@@ -2,7 +2,7 @@
 title: editar-qualificação-regras em uma campanha inteligente
 description: Editar regras de qualificação em uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 As regras de qualificação controlam quantas vezes alguém pode executar o fluxo em uma campanha inteligente. Por padrão, mesmo se alguém acionar uma campanha inteligente várias vezes, eles só serão enviados pelo fluxo uma vez. Veja como modificar essas configurações.
 
-1. Selecione a campanha e vá para a guia [!UICONTROL **Agendamento**] .
+1. Selecione a campanha e vá para a guia **[!UICONTROL Agendamento]** .
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
-1. Clique em [!UICONTROL **Editar recorrência**].
+1. Clique em **[!UICONTROL Editar recorrência]**.
 
    ![Imagem dois](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-2.png)
 
-1. Escolha a frequência com que as pessoas podem ser executadas pelo fluxo de campanha inteligente: [!UICONTROL **diariamente**], [!UICONTROL **semanalmente**], [!UICONTROL **mensalmente**] ou [!UICONTROL **uma vez a cada # dias**].
+1. Escolha a frequência com que as pessoas podem ser executadas pelo fluxo de campanha inteligente: **[!UICONTROL diariamente]**, **[!UICONTROL semanalmente]**, **[!UICONTROL mensalmente]** ou **[!UICONTROL uma vez a cada # dias]**.
 
    ![Imagem Três](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-3.png)
 
@@ -34,7 +34,7 @@ As regras de qualificação controlam quantas vezes alguém pode executar o flux
    >
    >Essa lógica também se aplica ao uso de semanas ou meses. Um mês é sempre contado como 30 dias.
 
-1. Clique em [!UICONTROL **Confirmar**] quando concluído.
+1. Clique em **[!UICONTROL Confirmar]** quando concluído.
 
    ![Imagem quatro](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-4.png)
 
