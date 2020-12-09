@@ -3,9 +3,9 @@ unique-page-id: 7504739
 description: Instale o Marketo para o Dynamics 2015 On-Prem e 2016 365 On-Prem Step 2 de 3 - Marketing to Docs - Documentação do produto
 title: Instale o Marketo para o Dynamics 2015 On-Prem e 2016 365 On-Prem Etapa 2 de 3
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 Excelente trabalho ao concluir as etapas anteriores. Vamos continuar a mexer nisto.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Instale o Marketo para o Dynamics 2015 On-Prem e 2016 365 On-Prem Etapa 1 de 3](step-1-of-3-install.md)
 
