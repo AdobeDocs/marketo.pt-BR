@@ -2,7 +2,7 @@
 title: adicionar-a-flow-step-to-a-smart-campanha
 description: Adicionar uma Etapa de fluxo a uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -16,7 +16,7 @@ As etapas de fluxo informam ao Marketo o que você deseja que aconteça a um gru
 
 ## Adicionar uma Etapa de Fluxo
 
-1. No [!UICONTROL Marketing Atividade], selecione sua campanha inteligente e clique em [!UICONTROL **Fluxo**].
+1. No [!UICONTROL Marketing Atividade], selecione sua campanha inteligente e clique em **[!UICONTROL Fluxo]**.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
