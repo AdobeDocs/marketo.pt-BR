@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: Adicionar código de rastreamento Munchkin ao seu site - Documentos do Marketing - Documentação do produto
 title: Adicionar código de rastreamento Munchkin ao seu site
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 O código de rastreamento personalizado JavaScript do Marketo, chamado Munchkin, rastreia todos os indivíduos que visitam seu site para que você possa reagir às visitas com campanhas de marketing automatizadas. Até visitantes anônimos são rastreados juntamente com seus endereços IP e outras informações. ** Sem este código de rastreamento, você não poderá rastrear visitas ou outras atividades em seu site!**
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Verifique se você tem acesso a um desenvolvedor JavaScript experiente. O suporte técnico Marketo não está configurado para auxiliar na solução de problemas do JavaScript personalizado.
 
