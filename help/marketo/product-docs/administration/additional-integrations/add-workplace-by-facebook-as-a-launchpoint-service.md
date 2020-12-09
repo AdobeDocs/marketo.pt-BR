@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: Adicionar local de trabalho pelo Facebook como um serviço do LaunchPoint - Documentos do Marketing - Documentação do produto
 title: Adicionar local de trabalho pelo Facebook como um serviço do LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ Há dois tipos de notificação incluídos na integração Local de trabalho:
 >
 >**Permissões de administrador necessárias**
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Se você ainda não tiver as Notificações do Local de Trabalho ativadas, [entre em contato com o Suporte](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
 
