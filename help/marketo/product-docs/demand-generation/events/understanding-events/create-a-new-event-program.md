@@ -3,9 +3,9 @@ unique-page-id: 2949844
 description: Criar um novo Programa de Evento - Documentos do Marketing - Documentação do produto
 title: Criar um novo Programa de Evento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Eventos permitem automatizar eventos online e offline! Capture o status do seu p
 
 Ta-da! Seu novo evento agora aparecerá na árvore. Depois que seu evento for criado, crie as [landings page](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), os [formulários](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)e os e- [mails](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) para convidar seus convidados! Você também vai querer se familiarizar com a visualização [do](http://docs.marketo.com/display/docs/program+schedule+view)cronograma do programa.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Calendário de marketing](http://docs.marketo.com/display/docs/marketing+calendar)
 >* [Uso dos custos do período em um Programa](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
