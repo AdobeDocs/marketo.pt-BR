@@ -2,7 +2,7 @@
 title: aplicar-comunicação-limites a uma campanha inteligente
 description: Aplicar limites de comunicação a uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -22,11 +22,11 @@ Não é uma boa ideia enviar emails várias vezes por dia, ou muitas vezes por s
 >
 >Quando qualquer pessoa excede os limites de comunicação definidos, o Marketo bloqueia emails não operacionais (emails operacionais sempre enviados).
 
-1. Selecione sua campanha inteligente e clique na guia [!UICONTROL **Agendamento**] .
+1. Selecione sua campanha inteligente e clique na guia **[!UICONTROL Agendamento]** .
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-1.png)
 
-1. Abra Regras [!UICONTROL de] qualificação e marque a caixa de seleção [!UICONTROL **Bloquear emails**] não operacionais.
+1. Abra Regras [!UICONTROL de] qualificação e marque a caixa de seleção **[!UICONTROL Bloquear emails]** não operacionais.
 
    ![Imagem dois](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-2.png)
 
