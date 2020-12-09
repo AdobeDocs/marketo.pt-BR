@@ -3,9 +3,9 @@ unique-page-id: 2359398
 description: Criar um formulário - Documentos do marketing - Documentação do produto
 title: Criar um formulário
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Crie e use um formulário em uma landing page para gerar novos nomes. É muito f
 
 Doce! Agora que o formulário é criado, vamos em frente e veste-lo.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Selecionar um tema de formulário](select-a-form-theme.md)
 >* [Adicionar um conjunto de campos a um formulário](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
