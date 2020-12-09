@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: Páginas da Web Visualizadas, Relatório de Atividade da Página da Web - Documentos do Marketing - Documentação do produto
 title: Páginas da Web Visualizadas, Relatório de Atividade de Página da Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Em um relatório [de Atividade de página](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)da Web, é possível visualizar as páginas específicas que foram visualizadas pelas pessoas no relatório.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Para capturar atividades de seu site em Marketo, primeiro é necessário [configurar Munchkin em seu site](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
