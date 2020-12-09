@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: Ativar trilha de auditoria - Documentos do marketing - Documentação do produto
 title: Ativar Trilha de Auditoria
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
 
 ## Atribuir função de trilha de auditoria a um usuário {#assign-audit-trail-role-to-a-user}
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >[Crie](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) ou [habilite](#Enable) uma função existente, concedendo a ela permissões de Trilha de auditoria.
 
