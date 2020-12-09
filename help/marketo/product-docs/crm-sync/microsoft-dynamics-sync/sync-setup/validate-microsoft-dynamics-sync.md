@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Validar Microsoft Dynamics Sync - Documentos do Marketing - Documentação do produto
 title: Validar Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ ht-degree: 0%
    >
    >No momento, não oferecemos suporte à atualização da caixa de proteção para a Sincronização Dinâmica do Marketing. Se precisar atualizar sua caixa de proteção do Dynamics CRM, uma nova caixa de proteção do Marketo será necessária. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Corrigir problemas de sincronização de validação do Dynamics](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
 
