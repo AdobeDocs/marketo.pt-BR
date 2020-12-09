@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: Criar uma apresentação - Documentos do Marketing - Documentação do produto
 title: Criar uma apresentação
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Crie uma apresentação para projetar as visualizações e metas do calendário 
 
    Bom trabalho! Agora você está pronto para personalizar sua apresentação.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Personalizar uma apresentação](customize-a-presentation.md)
 
