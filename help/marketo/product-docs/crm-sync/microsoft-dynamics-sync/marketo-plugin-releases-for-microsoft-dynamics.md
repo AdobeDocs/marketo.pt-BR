@@ -3,9 +3,9 @@ unique-page-id: 10099389
 description: Versões de plug-in do Marketo para Microsoft Dynamics - Documentos do Marketing - Documentação do produto
 title: Versões de plug-in do Marketo para Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '346'
 ht-degree: 7%
 
 ---
@@ -100,13 +100,7 @@ A tabela abaixo exibe as versões mais recentes.
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Download da solução de gerenciamento líder de marketing](sync-setup/download-the-marketo-lead-management-solution.md)
-
->
-
-
 
