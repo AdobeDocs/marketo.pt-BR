@@ -3,9 +3,9 @@ unique-page-id: 2949904
 description: Grupos de teste de landing page - Documentos do Marketing - Documentação do produto
 title: Grupos de teste de landing page
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 O Marketo rastreia o número de visualizações de página e conclusões de formulário em cada página testada em um Grupo de teste. Você pode usar os resultados do grupo de teste para decidir qual Landing page é a mais convincente. Veja como criar um grupo de teste.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >[Crie duas ou mais landings page](../../../../getting-started/quick-wins/landing-page-with-a-form.md), de preferência com um formulário.
 
