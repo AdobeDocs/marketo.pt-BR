@@ -3,9 +3,9 @@ unique-page-id: 2360317
 description: Atribuir partições de pessoa a espaços de trabalho - Documentos do marketing - Documentação do produto
 title: Atribuir Partições de Pessoa a Espaços de Trabalho
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Veja como editar as atribuições de partição de pessoa / espaço de trabalho:
 >
 >**Permissões de administrador necessárias**
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >[Criar um novo espaço de trabalho](create-a-new-workspace.md)
 
