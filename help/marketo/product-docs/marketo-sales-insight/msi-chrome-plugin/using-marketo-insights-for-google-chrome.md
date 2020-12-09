@@ -3,9 +3,9 @@ unique-page-id: 7512944
 description: Uso do Marketing Insights para o Google Chrome - Documentos do Marketing - Documentação do produto
 title: Uso do Marketing Insights para o Google Chrome
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Envie e rastreie qualquer email do Google com o Marketing Insights para o Google Chrome.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Instalar o Marketing Insights para o Google Chrome](install-marketo-insights-for-google-chrome.md)
 
