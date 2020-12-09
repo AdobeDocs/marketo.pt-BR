@@ -2,7 +2,7 @@
 title: create-my-token-folders
 description: Criar minhas pastas de token
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Veja como classificar seus Meus Tokens em pastas.
 
    ![Imagem Um](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Digite um nome para a nova pasta e selecione Tokens [!UICONTROL ****] locais ou Tokens [!UICONTROL ****] substituídos no menu suspenso de destino. Clique em [!UICONTROL **Salvar**].
+1. Digite um nome para a nova pasta e selecione Tokens **** locais ou Tokens **** substituídos no menu suspenso de destino. Clique em **[!UICONTROL Salvar]**.
 
    ![Imagem dois](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ Veja como classificar seus Meus Tokens em pastas.
 
 >[!TIP]
 >
->Para renomear uma pasta, clique com o botão direito do mouse nela e clique em [!UICONTROL **Renomear**].
+>Para renomear uma pasta, clique com o botão direito do mouse nela e clique em **[!UICONTROL Renomear]**.
