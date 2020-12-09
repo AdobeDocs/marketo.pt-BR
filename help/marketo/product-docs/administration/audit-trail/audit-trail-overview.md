@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Visão geral da trilha de auditoria - Documentos do marketing - Documentação do produto
 title: Visão geral da trilha de auditoria
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Você só pode visualização 30 dias de dados em sua instância. Para obter (at
 >
 >**Desconhecido:** Na trilha de auditoria, você pode ver o nome e o email de um usuário listados como &quot;Desconhecido&quot;. Isso acontece quando você altera os valores da lista de opções no CRM. Esses valores aparecem nos formulários e landings page do Marketo. Ao fazer essa atualização no lado do CRM, as landings page serão automaticamente projetadas com referência ao formulário. Na trilha de auditoria, capturaremos que a landing page foi redigida, mas o nome e o email do usuário serão exibidos como &quot;Desconhecido&quot;, pois não conseguimos capturar as informações do usuário do lado do CRM.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Ativar Trilha de Auditoria](enable-audit-trail.md)
 
