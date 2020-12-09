@@ -2,7 +2,7 @@
 title: ativate-and-deactivate-stream-content
 description: Ativar e desativar conteúdo de fluxo
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -20,7 +20,7 @@ O conteúdo de fluxo está desativado por padrão. Ative o conteúdo para enviá
 
    ![Imagem Um](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-1.png)
 
-1. Clique na guia [!UICONTROL **Streams**] .
+1. Clique na guia **[!UICONTROL Streams]** .
 
    ![Imagem dois](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-2.png)
 
@@ -28,7 +28,7 @@ O conteúdo de fluxo está desativado por padrão. Ative o conteúdo para enviá
 
    ![Imagem Três](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-3.png)
 
-1. Selecione [!UICONTROL **Ativar**].
+1. Selecione **[!UICONTROL Ativar]**.
 
    ![Imagem quatro](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-4.png)
 
@@ -38,7 +38,7 @@ O conteúdo de fluxo está desativado por padrão. Ative o conteúdo para enviá
 
 >[!TIP]
 >
->Você também pode ativar todo o conteúdo em um stream clicando no ícone de engrenagem na parte superior e selecionando [!UICONTROL **Ativar tudo**].
+>Você também pode ativar todo o conteúdo em um stream clicando no ícone de engrenagem na parte superior e selecionando **[!UICONTROL Ativar tudo]**.
 
 ## Desativar conteúdo de fluxo
 
@@ -46,7 +46,7 @@ O conteúdo de fluxo está desativado por padrão. Ative o conteúdo para enviá
 
    ![Imagem cinco](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-5.png)
 
-1. Clique na guia [!UICONTROL **Streams**] .
+1. Clique na guia **[!UICONTROL Streams]** .
 
    ![Imagem seis](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
 
@@ -54,6 +54,6 @@ O conteúdo de fluxo está desativado por padrão. Ative o conteúdo para enviá
 
    ![Imagem sete](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-7.png)
 
-1. Selecione [!UICONTROL **Desativar**].
+1. Selecione **[!UICONTROL Desativar]**.
 
    ![Imagem Oito](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-8.png)
