@@ -3,9 +3,9 @@ unique-page-id: 11377406
 description: Edite seu domínio de marca padrão com espaços de trabalho - Documentos de marketing - Documentação do produto
 title: Edite seu domínio de marca padrão com espaços de trabalho
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 Agora, você pode [adicionar outros domínios](add-an-additional-branding-domain-with-workspaces.md) de marca necessários para os espaços de trabalho.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Adicionar um domínio de marca adicional com espaços de trabalho](add-an-additional-branding-domain-with-workspaces.md)
 
