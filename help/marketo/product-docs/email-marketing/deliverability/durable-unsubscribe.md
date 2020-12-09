@@ -3,9 +3,9 @@ unique-page-id: 10094576
 description: Cancelamento de assinatura durável - Documentos do Marketing - Documentação do produto
 title: Cancelamento de assinatura durável
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Da mesma forma que cancelar a inscrição faria com que todas as pessoas com o m
 
 As definições de Alteração do valor de dados para *updateLeadEmailStatus* e *resetLeadEmailStatus* podem ser encontradas [neste artigo](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688)da Comunidade.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Noções Gerais de Cancelamento de Assinatura](understanding-unsubscribe.md)
 
