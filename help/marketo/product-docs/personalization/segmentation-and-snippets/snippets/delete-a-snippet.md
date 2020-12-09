@@ -3,9 +3,9 @@ unique-page-id: 2359518
 description: Excluir um trecho - Documentos do Marketing - Documentação do produto
 title: Excluir um trecho
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Excluir um trecho {#delete-a-snippet}
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Cancelar a aprovação de um trecho](unapprove-a-snippet.md)
 
