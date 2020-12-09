@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Adicionar campos de objeto personalizados de marketing - Documentos de marketing - Documentação do produto
 title: Adicionar campos de objeto personalizados de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Os campos definem as informações específicas usadas por um objeto personaliza
    >
    >Se estiver criando uma estrutura um para muitos, é necessário adicionar um campo Link ao objeto personalizado. Para uma estrutura muitas para muitas, você não precisa de um campo de link no objeto personalizado, mas precisa adicionar dois campos de link no objeto intermediário. Consulte [Adicionar campos](add-marketo-custom-object-link-fields.md) de link de objeto personalizado de marketing para criar os campos de link e [Compreender objetos](understanding-marketo-custom-objects.md) personalizados de marketing para obter mais informações sobre tipos de objetos personalizados.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Adicionar campos de link de objeto personalizado de marketing](add-marketo-custom-object-link-fields.md)
 >* [Editar e excluir um objeto personalizado de marketing](edit-and-delete-a-marketo-custom-object.md)
