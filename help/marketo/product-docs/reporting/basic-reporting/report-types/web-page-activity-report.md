@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: Relatório de Atividade da página da Web - Documentos do Marketing - Documentação do produto
 title: Relatório de Atividade da página da Web
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Neste relatório, você pode ver quem está visitando seu site e até mesmo se i
 
 Você pode optar por exibir pessoas conhecidas ou pessoas anônimas, mas não os dois tipos no mesmo relatório.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Adicionar código de rastreamento Munchkin ao seu site](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
