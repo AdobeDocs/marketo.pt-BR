@@ -3,9 +3,9 @@ unique-page-id: 11385940
 description: Editar conteúdo previsível para mídias avançadas - Documentos do marketing - Documentação do produto
 title: Editar conteúdo previsível para mídias avançadas
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Veja como configurar seu conteúdo preditivo para Rich Media.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >O conteúdo deve ser [aprovado para conteúdo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) preditivo na página Todo o conteúdo.
 
