@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: Adicionar um domínio de marca adicional com espaços de trabalho - Documentos do marketing - Documentação do produto
 title: Adicionar um domínio de marca adicional com espaços de trabalho
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Se você tiver espaços de trabalho, poderá adicionar outros domínios de marca.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Primeiro, você deve [editar seu domínio](edit-your-default-branding-domain.md) de marca padrão.
 >
