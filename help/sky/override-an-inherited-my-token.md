@@ -2,7 +2,7 @@
 title: override-an-herited-my-token
 description: Substituir um token herdado
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Veja como substituir um token herdado em um programa filho ou pasta de campanha.
 
    ![Imagem Um](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-1.png)
 
-1. Clique no token [!UICONTROL **Value**] e altere-o. A alteração do valor desse token o moverá automaticamente para a seção Tokens  substituídos.
+1. Clique no token **[!UICONTROL Value]** e altere-o. A alteração do valor desse token o moverá automaticamente para a seção Tokens  substituídos.
 
    ![Imagem dois](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-2.png)
 
