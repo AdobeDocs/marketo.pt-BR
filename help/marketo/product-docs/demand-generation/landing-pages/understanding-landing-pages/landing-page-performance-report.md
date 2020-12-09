@@ -3,9 +3,9 @@ unique-page-id: 2359713
 description: Relatório de desempenho da landing page - Documentos do Marketing - Documentação do produto
 title: Relatório de desempenho de landing page
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Veja quantas pessoas preencheram os seus `forms` arquivos `landing pages`, e qua
 >
 >Saiba mais sobre outros relatórios interessantes no aprofundamento do Relatórios [](http://docs.marketo.com/display/docs/basic+reporting) Basic.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Filtre seu relatório](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) de desempenho de landing page por ativos locais ou globais.
 
