@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Localizar e mesclar pessoas do Duplicado - Documentos do Marketing - Documentação do produto
 title: Localizar e mesclar pessoas do Duplicado
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Marketo cancela automaticamente os duplicados quando novas pessoas entram no sis
 >
 >O Marketo não eliminará automaticamente a duplicação em uma sincronização do Salesforce ou do Microsoft Dynamics, ou quando você inserir pessoas manualmente.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Encontrar e mesclar duplicados envolverá o uso de listas [inteligentes](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)incorporadas/do sistema.
 
