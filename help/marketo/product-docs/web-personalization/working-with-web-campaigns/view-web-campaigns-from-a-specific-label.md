@@ -3,9 +3,9 @@ unique-page-id: 4720075
 description: Visualizações da Web de uma etiqueta específica - Documentos do Marketing - Documentação do produto
 title: Visualizações da Web de uma etiqueta específica
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Você está procurando visualização e filtrar suas campanhas de acordo com uma
 
    ![](assets/web-campaigns-label-showing-1.jpg)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Rotule suas Campanhas da Web](label-your-web-campaigns.md)
 >* [Visualização de segmentos a partir de um rótulo específico](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
