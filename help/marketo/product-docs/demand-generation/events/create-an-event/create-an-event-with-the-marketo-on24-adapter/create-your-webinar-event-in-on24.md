@@ -3,9 +3,9 @@ unique-page-id: 10096712
 description: Crie seu Evento de Webinar no ON24 - Documentos do Marketing - Documentação do produto
 title: Criar seu Evento de Webinar no ON24
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Há certas configurações na criação do webinar ON24 usadas pelo Marketo e ou
 
 O próximo passo é [criar um evento no Marketo](create-an-event-in-marketo.md).
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Noções Gerais dos Eventos do adaptador do Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
