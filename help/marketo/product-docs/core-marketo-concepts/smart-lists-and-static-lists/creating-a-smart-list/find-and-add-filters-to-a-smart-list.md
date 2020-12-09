@@ -3,9 +3,9 @@ unique-page-id: 557273
 description: Localizar e adicionar Filtros a uma Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Localizar e adicionar Filtros a uma Lista inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Neste exemplo, vamos encontrar todas as pessoas na Califórnia com uma pontuaç�
 
 Perfeito! Vamos prosseguir e definir esses filtros.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar uma Lista inteligente](create-a-smart-list.md)
 >* [Definir Filtros de Lista inteligente](define-smart-list-filters.md)
