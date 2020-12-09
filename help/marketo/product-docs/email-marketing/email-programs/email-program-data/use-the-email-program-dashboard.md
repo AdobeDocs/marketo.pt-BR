@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: Use o Painel Programa de e-mail - Documentos do Marketing - Documentação do produto
 title: Usar o Painel Programa de e-mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -75,9 +75,7 @@ Para ver os dados mais atualizados, basta clicar no ícone de atualização no p
 
 ![](assets/refreshicon.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Use o Painel de Programa de e-mail - Visualização de teste A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 
