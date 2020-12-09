@@ -3,9 +3,9 @@ unique-page-id: 7504923
 description: Definir conversões do Google AdWords no modelo de receita com uma conta do gerente - documentos do marketing - documentação do produto
 title: Definir conversões do Google AdWords no modelo de receita com uma conta de gerente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ Se você tiver várias contas do Google Adwords, poderá usar uma conta [do](htt
 * Ação de estágio
 * Mapeamento de AdWords
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Adicionar o Google AdWords como um serviço Launchpoint com uma conta de gerente](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
