@@ -3,9 +3,9 @@ unique-page-id: 45417460
 description: Atribuição de Tarefas a membros da equipe - Documentos do Marketing - Documentação do produto
 title: Atribuindo Tarefas aos membros da equipe
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 
    ![](assets/nine.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Como compartilhar um grupo](http://docs.marketo.com/x/fwDb)
 
