@@ -3,9 +3,9 @@ unique-page-id: 11373011
 description: Transição para o Editor de e-mail 2.0 - Documentos do Marketing - Documentação do produto
 title: Transição para o Editor de email 2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ Observações
 
 * Em alguns casos **raros** , um e-mail v1.0 não pode ser aberto no Editor de e-mail 2.0. Se isso ocorrer, descarte o rascunho e entre em contato com o suporte do Marketo.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Visão geral do Editor de email 2.0](email-editor-v2-0-overview.md)
 >* [Sintaxe do modelo de email](email-template-syntax.md)
