@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: Criar uma nova Lista de conta - Documentos do Marketing - Documentação do produto
 title: Criar uma nova Lista de conta
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ O arquivo CSV substituirá o arquivo existente. A lista existente permanecerá a
 
    ![](assets/delete-notification-hand.jpg)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar um segmento usando uma Lista de conta](create-a-segment-using-an-account-list.md)
 >* [Visualização de uma Lista de conta nomeada](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
