@@ -3,9 +3,9 @@ unique-page-id: 2953471
 description: Sincronização SFDC - Sincronização de objetos personalizados - Documentos do Marketing - Documentação do produto
 title: Sincronização SFDC - Sincronização de Objeto Personalizado
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 >
 >**Permissões de administrador necessárias**
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Para usar um objeto personalizado, ele deve estar associado a um objeto [de cliente potencial](sfdc-sync-lead-sync.md), [](sfdc-sync-contact-sync.md)contador [](sfdc-sync-account-sync.md)contador no Salesforce.
 
