@@ -3,9 +3,9 @@ unique-page-id: 2359791
 description: Especificar meta para a Oferta de referência - Documentos do marketing - Documentação do produto
 title: Especificar meta para a Oferta de referência
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Objetivos de exemplo:
 >
 >Há novos filtros e acionadores disponíveis em campanhas inteligentes para monitorar a atividade social. Consulte [usar acionadores e filtros para atividades](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)sociais.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Em seguida, você pode [selecionar os emails](send-referral-offer-fulfillment-email.md) de inscrição e preenchimento a serem enviados da sua oferta de referência.
 
