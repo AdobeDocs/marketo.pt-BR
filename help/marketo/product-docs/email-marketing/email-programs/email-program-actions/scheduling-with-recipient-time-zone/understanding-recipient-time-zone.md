@@ -3,9 +3,9 @@ unique-page-id: 12983291
 description: Noções sobre o fuso horário do Recipient - Documentos do Marketing - Documentação do produto
 title: Noções básicas sobre o fuso horário do Recipient
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Se ainda não for possível determinar o fuso horário de alguém a partir de qu
 >
 >O Marketo calcula novamente o fuso horário de uma pessoa quando qualquer um dos campos de entrada acima é alterado.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Agendar Programas de e-mail com fuso horário do Recipient](schedule-email-programs-with-recipient-time-zone.md)
 >* [Start principal para Programas de e-mail](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
