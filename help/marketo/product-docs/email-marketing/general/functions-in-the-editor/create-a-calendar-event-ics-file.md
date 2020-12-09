@@ -3,9 +3,9 @@ unique-page-id: 1900563
 description: Criar um arquivo de Evento do calendário (.ics) - Documentos do marketing - Documentação do produto
 title: Criar um arquivo de Evento de calendário (.ics)
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Um token de Arquivo de calendário permite que você adicione um link de evento 
 
 Missão cumprida! Certifique-se de testá-la.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Incluir um Evento de calendário (.ics) em um email](include-a-calendar-event-ics-in-an-email.md)
 >* [Incluir um arquivo ICS de Evento de calendário em uma Landing page](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
