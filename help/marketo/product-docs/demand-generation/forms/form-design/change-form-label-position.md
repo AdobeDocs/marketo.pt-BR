@@ -3,9 +3,9 @@ unique-page-id: 2359612
 description: Alterar posição da etiqueta do formulário - Documentos do marketing - Documentação do produto
 title: Alterar posição do rótulo do formulário
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Ao [criar um formulário](../../../../product-docs/demand-generation/forms/creat
 
 Muito bem! Veja como foi fácil alterar as posições das etiquetas em um formulário? Vamos ver o que podemos fazer para mudar a fonte dos rótulos dos formulários.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Alterar a família de fontes de formulário](change-the-form-font-family.md)
 
