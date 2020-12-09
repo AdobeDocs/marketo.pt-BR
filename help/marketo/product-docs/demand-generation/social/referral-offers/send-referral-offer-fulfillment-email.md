@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: Enviar Email de Preenchimento da Oferta de Referência - Documentos do Marketing - Documentação do Produto
 title: Enviar Email de Preenchimento da Oferta de Referência
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Recompense seus clientes com cupons e códigos de desconto usando o email de preenchimento da oferta.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Usar emails em promoções sociais](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [Criar uma Oferta de referência](create-a-referral-offer.md)
