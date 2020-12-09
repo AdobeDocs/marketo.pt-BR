@@ -3,9 +3,9 @@ unique-page-id: 10096683
 description: Atualizações de registro do Evento ON24 - Documentos do marketing - Documentação do produto
 title: Atualizações de registro do Evento ON24
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Se uma pessoa acabar não sendo registrada, mas sim definida como o status Erro 
 
 O Marketo coleta automaticamente as informações de presença às 11h do Pacífico por noite. Para atualizar manualmente as informações de participação, clique em **Atualizar do provedor** de webinar em Ações **de** Evento.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Noções Gerais dos Eventos do adaptador do Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
