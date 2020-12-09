@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: Noções básicas sobre os modelos de receita - Documentos de marketing - Documentação do produto
 title: Noções Gerais dos Modelos de Receita
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ Esclareça exatamente como um cliente potencial se move de um estágio para outr
 
 Aqui estão alguns links que podem ser úteis para ter esperança. (ou, esperamos, útil - tome sua escolha!)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Criar um novo modelo de receita](create-a-new-revenue-model.md)
 >
@@ -105,9 +103,7 @@ Adicionar um Palco do caminho de sucesso feliz   ![](assets/image2015-6-12-10-3a
 
 Perdido é bom adicionar, mas reparem que não está no caminho verde. Isso porque não é um &quot;sucesso&quot;.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Relatório sobre seu modelo de receita](report-on-your-revenue-model.md)
 >
