@@ -3,9 +3,9 @@ unique-page-id: 8783141
 description: Enviar uma amostra de notificação por push - Documentos do Marketing - Documentação do produto
 title: Enviar uma amostra de notificação por push
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Você pode enviar uma amostra para verificar se sua notificação por push está funcionando corretamente!
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Verifique se o aplicativo está instalado no dispositivo para o qual você está enviando a amostra.
 
