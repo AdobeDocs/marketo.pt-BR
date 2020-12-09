@@ -3,9 +3,9 @@ unique-page-id: 2360394
 description: Exportar dados do analisador de influência da oportunidade - documentos do marketing - documentação do produto
 title: Exportar dados do analisador de influência da oportunidade
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Para receber atualizações dos relatórios do [Revenue Cycle Explorer](http://d
 
    ![](assets/image2014-9-17-12-3a42-3a53.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Saiba como [gerenciar todas as subscrições](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) de relatório em um único lugar.
 
