@@ -3,9 +3,9 @@ unique-page-id: 2359705
 description: Adicionar um novo formulário a uma Landing page de forma livre - Documentos do marketing - Documentação do produto
 title: Adicionar um novo formulário a uma Landing page de forma livre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Formulário, conheça a landing page. Landing page, formulário.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar um formulário](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Criar uma Landing page de forma livre](create-a-free-form-landing-page.md)
