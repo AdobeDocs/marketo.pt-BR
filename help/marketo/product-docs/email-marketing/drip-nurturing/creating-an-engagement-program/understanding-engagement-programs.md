@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: Noções básicas sobre Programas de envolvimento - Documentos de marketing - Documentação do produto
 title: Noções básicas sobre Programas de envolvimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ Uma vez que uma pessoa recebe cada pedaço de conteúdo em um stream, nós chama
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Pessoas que têm conteúdo esgotado](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
@@ -108,9 +106,7 @@ Uma vez que uma pessoa recebe cada pedaço de conteúdo em um stream, nós chama
 
 O Nível de envolvimento do conteúdo é uma pontuação de 0 a 100 pontos que o Marketo fornecerá ao seu conteúdo. Esse número é determinado por uma fórmula sofisticada usando abrir, clicar, cancelar a inscrição, sucesso do programa e outros fatores.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Como entender a pontuação de envolvimento](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
 
