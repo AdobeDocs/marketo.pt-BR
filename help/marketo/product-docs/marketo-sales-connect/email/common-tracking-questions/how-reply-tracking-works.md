@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: Como o rastreamento de resposta funciona - Documentos de marketing - Documentação do produto
 title: Como o rastreamento de resposta funciona
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 O rastreamento de resposta é feito observando uma ID de mensagem que está em cada email enviado. Cada email contém uma ID de mensagem exclusiva que nos permite ter alguns dos melhores rastreamentos de resposta.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >**Conexão com o Servidor de email:** O Sales Connect deve estar conectado à sua caixa de entrada para que possamos saber quando uma nova resposta chegou. Você precisará ter sua conta do Sales Connect [conectada ao Gmail](http://docs.marketo.com/x/kYMOAQ). Se você estiver usando o Outlook, precisaremos fazer a integração com seu servidor [](http://toutapp.com/next#settings/exchange_settings)Exchange.
 
