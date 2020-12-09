@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Uso de ações em massa no Salesforce Lightning - Documentos do Marketing - Documentação do produto
 title: Uso de ações em massa no Salesforce Lightning
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Saiba como executar ações em massa, como adicionar clientes potenciais a uma campanha, enviar um email em massa ou enviar clientes potenciais do Salesforce para o Sales Connect.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Atualize para a versão mais recente do pacote do Sales Connect e instale os botões de ação em massa na sua visualização de cliente potencial/contato. [Clique aqui para obter instruções](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
