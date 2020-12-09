@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Configuração do Marketing to Sales Insight no Salesforce Enterprise/Unlimited - Documentos do Marketing - Documentação do produto
 title: Configurar o Marketing to Sales Insight no Salesforce Enterprise/Unlimited
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Estas são as etapas necessárias para configurar o Marketing to Sales Insight no Salesforce Enterprise/Unlimited Editions. Vamos começar.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Configurar a sincronização de campos do Marketing em seu Salesforce Enterprise/Unlimited Edition](http://docs.marketo.com/pages/viewpage.action?pageid=2360372)
 >* [Instalar o pacote de insight de vendas do Marketing Cloud na AppExchange do Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
