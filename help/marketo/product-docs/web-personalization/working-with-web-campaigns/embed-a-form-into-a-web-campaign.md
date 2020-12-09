@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Incorporar um formulário a uma Campanha da Web - Documentos do Marketing - Documentação do produto
 title: Incorporar um formulário a uma Campanha da Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -84,9 +84,7 @@ Para adicionar o código CSS ao script:
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Editar o CSS de um tema de formulário](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
 >* [Mostrar mensagem de agradecimento sem uma Landing page de acompanhamento](http://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
