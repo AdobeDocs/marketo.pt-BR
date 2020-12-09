@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: Adicionar um aplicativo móvel - Documentos do marketing - Documentação do produto
 title: Adicionar um aplicativo móvel
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Os aplicativos normalmente são start em um ambiente sandbox, onde o desenvolvim
 
    Legal! Agora vamos configurar seu aplicativo para funcionar com dispositivos Android e iOS.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Configurar o Mobile App Android Push Access](configure-mobile-app-android-push-access.md)
 >* [Configurar o acesso por push do iOS para aplicativos móveis](configure-mobile-app-ios-push-access.md)
