@@ -3,9 +3,9 @@ unique-page-id: 557337
 description: Criar e alterar Visualizações para Listas e Listas inteligentes - Documentos de marketing - Documentação do produto
 title: Criar e alterar Visualizações para Listas e Listas inteligentes
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que pode
 
 Somente você pode ver as visualizações personalizadas que você cria no menu suspenso Visualização, portanto, diga aos seus amigos que eles precisam criar seus próprios!
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar Listas integradas/inteligentes do sistema](use-built-in-system-smart-lists.md)
 >* [Criar uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
