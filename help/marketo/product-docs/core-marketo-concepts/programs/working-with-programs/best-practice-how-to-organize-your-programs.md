@@ -28,35 +28,31 @@ No Marketing Atividade, você deve usar pastas para organizar seus programas. A 
 >**Exemplo**
 >
 >* Programas ativos de marketing
-   >
-   >    
-   * Emails
-   >    * Eventos
-
-      >
-      >        
-      * Eventos ao vivo / apresentações de roadeiras
-      >        * shows de vendas
-      >        * Webinars
-   >
-   * Newsletters
-   * Enfermidade
-   * Conteúdo da Web
-   * formulários web
-* Aprendizagem
-* Operacional
-
-   * Ciclo
-   * Pontuação
-   * gestão de dados
-* Insight de vendas >
-   * Momentos interessantes
-   * E-mails de vendas
-   * Campanhas de vendas solicitadas
-* **Arquivar** >
-   * Eventos de arquivamento >
-      * Arquivo 2012
-      * Arquivo 2013
+>
+>    * Emails
+>    * Eventos
+>
+>        * Eventos ao vivo / apresentações de roadeiras
+>        * shows de vendas
+>        * Webinars
+>   * Newsletters
+>   * Enfermidade
+>   * Conteúdo da Web
+>   * formulários web
+>* Aprendizagem
+>* Operacional
+>
+>   * Ciclo
+>   * Pontuação
+>   * gestão de dados
+>* Insight de vendas
+>   * Momentos interessantes
+>   * E-mails de vendas
+>   * Campanhas de vendas solicitadas
+>* **Arquivar**
+>   * Eventos de arquivamento
+>      * Arquivo 2012
+>      * Arquivo 2013
 
 
 
