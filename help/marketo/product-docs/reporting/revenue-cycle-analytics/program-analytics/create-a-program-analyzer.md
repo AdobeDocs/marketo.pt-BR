@@ -3,9 +3,9 @@ unique-page-id: 2360399
 description: Criar um analisador de Programas - Documentos do Marketing - Documentação do produto
 title: Criar um analisador de Programas
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Descubra quais programas e canais estão lhe dando o maior incentivo para seu in
 
 ![](assets/november-custom-report.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Compare a eficácia do Canal com o analisador de Programas](compare-channel-effectiveness-with-the-program-analyzer.md)
 >* [Compare a eficácia do Programa com o analisador de Programas](compare-program-effectiveness-with-the-program-analyzer.md)
