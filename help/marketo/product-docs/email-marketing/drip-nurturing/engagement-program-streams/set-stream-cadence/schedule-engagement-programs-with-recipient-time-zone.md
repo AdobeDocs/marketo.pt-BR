@@ -3,9 +3,9 @@ unique-page-id: 12982909
 description: Agende Programas de envolvimento com fuso horário do Recipient - Documentos do Marketing - Documentação do produto
 title: Agendar Programas de envolvimento com fuso horário do Recipient
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Quando você [agenda um fluxo](https://docs.marketo.com/display/DOCS/Schedule+En
 
    ![](assets/image2017-12-5-13-3a56-3a21.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Noções básicas sobre o fuso horário do Recipient](../../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Definir cadência de fluxo](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
