@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: Prioridade do pedido de segmentação - Documentos do marketing - Documentação do produto
 title: Prioridade da ordem de segmentação
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 É importante entender como a **ordem** define a prioridade para a avaliação das pessoas em uma segmentação.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar uma segmentação](create-a-segmentation.md)
 >* [Definir regras de segmento](define-segment-rules.md)
