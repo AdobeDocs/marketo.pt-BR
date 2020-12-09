@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: Navegação no calendário de marketing - Documentos de marketing - Documentação do produto
 title: Navegação no calendário de marketing
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Navegar ao redor do Calendário de marketing é fácil como um, dois, três!
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Certifique-se de ter uma licença [do Calendário de](issue-revoke-a-marketing-calendar-license.md) marketing; caso contrário, o bloco do Calendário de marketing não aparecerá em Meu marketing.
 
