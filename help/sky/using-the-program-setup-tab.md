@@ -2,7 +2,7 @@
 title: guia using-the-programa-setup
 description: Usando a guia Configuração do Programa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -30,11 +30,11 @@ Para alterar o canal do programa, selecione um diferente no menu suspenso na par
 
 ## Adicionar tags
 
-1. Na seção [!UICONTROL Tags] , clique no menu suspenso [!UICONTROL **Atributo**] e escolha um atributo de tag nas opções disponíveis.
+1. Na seção [!UICONTROL Tags] , clique no menu suspenso **[!UICONTROL Atributo]** e escolha um atributo de tag nas opções disponíveis.
 
    ![Imagem Três](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Clique no menu suspenso [!UICONTROL **Valor**] e escolha um valor de tag nas opções disponíveis. Clique em [!UICONTROL **Adicionar**].
+1. Clique no menu suspenso **[!UICONTROL Valor]** e escolha um valor de tag nas opções disponíveis. Clique em **[!UICONTROL Adicionar]**.
 
    ![Imagem quatro](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ Para alterar o canal do programa, selecione um diferente no menu suspenso na par
 
 ## Adicionar Custos do Período
 
-1. Na seção Custos [!UICONTROL do] Período, selecione um mês, informe um custo e adicione um nome ou descrição abreviados. Clique em [!UICONTROL **Adicionar**].
+1. Na seção Custos [!UICONTROL do] Período, selecione um mês, informe um custo e adicione um nome ou descrição abreviados. Clique em **[!UICONTROL Adicionar]**.
 
    ![Imagem seis](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
