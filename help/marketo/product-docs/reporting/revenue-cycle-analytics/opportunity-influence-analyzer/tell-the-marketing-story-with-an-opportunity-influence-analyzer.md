@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Conte a história de marketing com um analisador de influência de oportunidade - Documentos de marketing - Documentação do produto
 title: Informe a história de marketing com um analisador de influência de oportunidade
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Use um Analisador de influência de oportunidade para ilustrar o papel do marketing em oportunidades importantes. Mostre como o marketing influenciou uma oportunidade, do primeiro contato à criação de oportunidade e venceu, e além disso.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar um analisador de influência de oportunidade](create-an-opportunity-influence-analyzer.md)
 
