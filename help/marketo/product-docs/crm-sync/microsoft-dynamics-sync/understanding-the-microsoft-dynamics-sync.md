@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Noções Gerais da Microsoft Dynamics Sync - Documentos do Marketing - Documentação do produto
 title: Como entender o Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Há muitas nuances e recursos sobre a sincronização do Dynamics. Confira os de
 >
 >No momento, não oferecemos suporte à atualização da caixa de proteção para a Sincronização Dinâmica do Marketing. Se precisar atualizar sua caixa de proteção do Dynamics CRM, uma nova caixa de proteção do Marketo será necessária. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Sincronizar configuração](http://docs.marketo.com/display/docs/sync+setup)
    >
