@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: Adicionar um campeão/desafio de email - Documentos do marketing - Documentação do produto
 title: Adicionar um campeão/desafiador de e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 O e-mail existente que você está testando é considerado o campeão. Quaisquer variantes que você criar em um teste serão consideradas os desafiantes. Você determina a porcentagem de pessoas que recebem o conteúdo campeão ou o conteúdo desafiador. Se você tiver definido vários desafios, eles serão igualmente distribuídos entre o grupo desafiante.\
 Aqui está como começar.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar um Programa](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Criar um email](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
