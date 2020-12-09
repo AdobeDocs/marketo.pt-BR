@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: Agendar Programas de e-mail com fuso horário do Recipient - Documentos do Marketing - Documentação do produto
 title: Agendar Programas de e-mail com fuso horário do Recipient
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ Resumindo, programas de e-mail programados com o Fuso horário do Recipient prec
 >
 >Qualquer pessoa que cancelar a inscrição entre o momento em que você start seu email e quando ele for realmente entregue ainda receberá o email. Recomendamos o ajuste da sua notificação de cancelamento de assinatura para refletir que as cancelar a assinatura podem levar de 1 a 2 dias úteis para serem processadas.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Noções básicas sobre o fuso horário do Recipient](understanding-recipient-time-zone.md)
 >* [Start principal para Programas de e-mail](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
