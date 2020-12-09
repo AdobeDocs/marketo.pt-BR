@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Comentários personalizados no Google - Documentos do Marketing - Documentação do produto
 title: Comentários personalizados no Google
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 A recomercialização personalizada permite que você se envolva novamente com seus usuários usando dados RTP e o poder dos Google Analytics com o alcance do Google Display Network.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* Conclua a [redefinição de metas com a configuração de dados](retargeting-with-web-personalization-data.md) de personalização da Web
 >* Revise a documentação [de recomercialização com a Ajuda](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) do Google Analytics
