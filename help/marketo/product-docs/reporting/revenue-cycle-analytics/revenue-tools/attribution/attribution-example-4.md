@@ -3,9 +3,9 @@ unique-page-id: 7514151
 description: Exemplo de atribuição 4 - Documentos de marketing - Documentação do produto
 title: Exemplo de atribuição 4
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ Leia o seguinte cenário e tente determinar os números que devem estar na grade
 
 Experimente todos os exemplos e você será um pro atribuição!
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Exemplo de atribuição 1](attribution-example-1.md)
 >* [Exemplo de atribuição 2](attribution-example-2.md)
