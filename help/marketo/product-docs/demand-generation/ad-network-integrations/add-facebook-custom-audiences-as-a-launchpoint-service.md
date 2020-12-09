@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: Adicionar Audiências personalizadas do Facebook como um serviço do LaunchPoint - Documentos do Marketing - Documentação do produto
 title: Adicionar Audiências personalizadas do Facebook como um Serviço do LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Com essa integração, você pode enviar dados de audiência do Marketing para l
    >
    >Oh, antes de ir, [aceite os Termos](https://www.facebook.com/ads/manage/customaudiences/tos.php) de Audiências Personalizados do Facebook em sua conta do Facebook! Sem isso, as atualizações de audiência falharão.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar uma Audiência personalizada no Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
