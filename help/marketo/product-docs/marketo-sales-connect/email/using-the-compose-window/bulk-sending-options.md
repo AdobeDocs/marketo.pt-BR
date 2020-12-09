@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: Opções de envio em massa - Documentos do Marketing - Documentação do produto
 title: Opções de envio em massa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Usando Selecionar e Enviar
 
 Por padrão, você estará editando para todos os recipient. Mas você também pode selecionar cada email individual para fazer edições personalizadas. Isso pode ser ótimo para adicionar uma ou mais linhas exclusivas de personalização a recipient com os quais você deseja adotar uma abordagem mais personalizada.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Composição de emails em massa com Selecionar e Enviar](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 >* [Envio de emails por email do grupo](http://docs.marketo.com/x/KAQ6Ag)
