@@ -3,9 +3,9 @@ unique-page-id: 2949966
 description: Adicionar uma lista de países ao seu formulário - Documentos de marketing - Documentação do produto
 title: Adicionar uma lista de seleção de país ao formulário
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Siga estas instruções para converter o campo country em um menu suspenso com u
 
 Como isso foi tão fácil, por que não fazer mais? Que tal mostrar dinamicamente o campo Estado quando um usuário seleciona Estados Unidos como o país da lista? Confira o artigo relacionado abaixo para descobrir como fazer isso.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Alternar dinamicamente a visibilidade de um campo de formulário](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
 
