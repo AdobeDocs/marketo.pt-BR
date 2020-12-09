@@ -2,7 +2,7 @@
 title: my-token-email-script
 description: Script de e-mail do meu token
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Para desenvolvedores avançados, você pode usar scripts [](http://velocity.apache.org/engine/1.7/user-guide.html) Velocity em seus emails configurando um token de Script de email. Aqui está como fazer isso.
 
-1. Na guia [!UICONTROL Meus tokens] do seu programa ou pasta, arraste um token de Script [!UICONTROL **de**] email para a tela Tokens  locais.
+1. Na guia [!UICONTROL Meus tokens] do seu programa ou pasta, arraste um token de Script **[!UICONTROL de]** email para a tela Tokens  locais.
 
    ![Imagem Um](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
@@ -39,6 +39,6 @@ Para desenvolvedores avançados, você pode usar scripts [](http://velocity.apac
    * [Guia de referência de velocidade](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Documentação do VelocityTools 2.0](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Quando o script is estiver concluído, clique em [!UICONTROL **Salvar**].
+1. Quando o script is estiver concluído, clique em **[!UICONTROL Salvar]**.
 
    ![Imagem quatro](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-4.png)
