@@ -3,9 +3,9 @@ unique-page-id: 2360327
 description: Atribuindo Partições de Pessoas com Regras de Atribuição - Documentos do Marketing - Documentação do Produto
 title: Atribuindo Partições de Pessoa com Regras de Atribuição
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar uma partição de pessoa](create-a-person-partition.md)
 
