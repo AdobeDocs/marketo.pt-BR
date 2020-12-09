@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Visão geral dos recursos do MSI - Documentos do Marketing - Documentação do produto
 title: Visão geral dos recursos do MSI
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Salesforce Classic: Adicione aos botões de ação em massa Lista de observaçã
 * Configuração MSI: Inclui a configuração da guia Marketo e do painel MSI visual force
 * Redefinir insight de vendas de marketing: Inclui a capacidade de limpar todas as configurações
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Guia Configuração do Marketing Insight Sales no Salesforce](http://docs.marketo.com/x/UoCMAg)
 
