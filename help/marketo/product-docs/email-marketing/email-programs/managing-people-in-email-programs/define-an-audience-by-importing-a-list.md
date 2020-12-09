@@ -3,9 +3,9 @@ unique-page-id: 1900597
 description: Definir uma Audiência importando uma Lista - Documentos do Marketing - Documentação do produto
 title: Definir uma Audiência importando uma Lista
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Definir uma Audiência importando uma Lista {#define-an-audience-by-importing-a-list}
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >[Criar um email para um Programa de email](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
