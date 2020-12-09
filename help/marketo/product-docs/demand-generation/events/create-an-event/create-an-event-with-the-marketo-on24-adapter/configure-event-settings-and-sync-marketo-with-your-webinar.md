@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: Configure as configurações do Evento e sincronize o marketing com seu webinar - Documentos do Marketing - Documentação do produto
 title: Configure as configurações do Evento e sincronize o marketing com seu webinar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Quando você configura um evento associado a um Webinar ON24, o agendamento do e
 
 Agora você pode ir para a próxima etapa: .
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Noções Gerais dos Eventos do adaptador Marketo On24](understanding-marketo-on24-adapter-events.md)
 >* [Criar Campanhas secundárias e ativos locais](create-child-campaigns-and-local-assets.md)
