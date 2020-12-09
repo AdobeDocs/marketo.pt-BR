@@ -3,9 +3,9 @@ unique-page-id: 1147239
 description: Adicionar colunas de status de Programa a um relatório de Programa - Documentos do Marketing - Documentação do produto
 title: Adicionar colunas de status de Programa a um relatório de Programas
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Adicione estatísticas sobre o status do programa ao seu relatório [de desempen
 >
 >Se você não vir uma coluna para cada status no programa, certifique-se de ter [selecionado as colunas para mostrar](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) no relatório.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Filtrar um relatório de Programa por tag](filter-a-program-report-by-tag.md)
 
