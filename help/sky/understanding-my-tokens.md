@@ -2,7 +2,7 @@
 title: entender-meus-tokens
 description: Como entender meus tokens
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Quando você cria um novo token, ele pode ser referenciado por outros objetos na
 * **[Token substituído:](/help/sky/override-an-inherited-my-token.md)** O token foi herdado, mas foi feita uma exceção neste programa ou pasta.
 * **Token herdado:** O token foi criado na árvore em algum lugar em um programa ou pasta de nível superior.
 
-Você pode encontrar esses três tipos na guia [!UICONTROL **Meus tokens**] em sua pasta programa ou campanha.
+Você pode encontrar esses três tipos na guia **[!UICONTROL Meus tokens]** em sua pasta programa ou campanha.
 
 ![Imagem dois](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
