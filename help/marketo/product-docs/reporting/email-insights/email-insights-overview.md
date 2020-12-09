@@ -3,9 +3,9 @@ unique-page-id: 10099408
 description: Visão geral do Email Insights - Documentos do Marketing - Documentação do produto
 title: Visão geral dos insights de email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Clique nas barras Métricas para traduzir as cores em números.
 
 Todas as dimensões padrão do Marketing estão incluídas, mas você tem a opção de adicionar até 10 dimensões personalizadas. [As dimensões](custom-dimensions-for-email-insights.md) personalizadas consistem em segmentações e tags de programa.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Visão geral do email Insights do Analytics](email-insights-analytics-overview.md)
 >* [Visão geral de envios de insights de email](email-insights-sends-overview.md)
