@@ -3,9 +3,9 @@ unique-page-id: 10092730
 description: Pré-visualização de uma notificação por push - Documentos do Marketing - Documentação do produto
 title: Pré-visualização de uma notificação por push
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Na tela Central de Notificações, fica perto do topo.
 
 Assim, com a pré-visualização de notificação por push, você sempre sabe o que seus clientes verão!
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar uma notificação por push](create-a-push-notification.md)
 >* [Configurar notificação por push móvel](configure-mobile-push-notification.md)
