@@ -3,9 +3,9 @@ unique-page-id: 11370892
 description: Testar os principais anúncios do Facebook para integração de desktop com o Marketing - Documentos do Marketing - Documentação do produto
 title: Testar os principais anúncios do Facebook para integração de desktop com o Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Depois de criar seu Anúncio principal, você deve testá-lo! Veja como fazer isso no seu desktop.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Você deve [configurar a integração](set-up-facebook-lead-ads.md)de Anúncios de venda do Facebook.
 
