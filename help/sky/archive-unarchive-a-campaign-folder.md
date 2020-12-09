@@ -2,7 +2,7 @@
 title: archive-unarchive-a-campanha-folder
 description: 'Arquivar/Desarquivar uma pasta de Campanha '
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Converter em pasta de arquivo
 
-Clique com o botão direito do mouse em qualquer pasta e selecione [!UICONTROL **Converter em pasta**] de arquivamento.
+Clique com o botão direito do mouse em qualquer pasta e selecione **[!UICONTROL Converter em pasta]** de arquivamento.
 
 ![Imagem Um](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
