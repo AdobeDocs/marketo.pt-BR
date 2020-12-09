@@ -3,9 +3,9 @@ unique-page-id: 7512289
 description: Adicionar GoToWebinar como um Serviço LaunchPoint - Documentos do Marketing - Documentação do produto
 title: Adicionar GoToWebinar como um Serviço LaunchPoint
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ O Marketo gerencia sua inscrição e participação no GoToWebinar.
 >
 >Ao atualizar sua senha no GoToWebinar, você também deve atualizar sua senha no Marketo.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Saiba como [criar um evento com o GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
 
