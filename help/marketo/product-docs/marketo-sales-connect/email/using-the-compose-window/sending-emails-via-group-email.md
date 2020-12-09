@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: Envio de emails por email do grupo - Documentos do marketing - Documentação do produto
 title: Envio de emails por email do grupo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ Veja como enviar/editar emails usando a opção Agrupar email.
    >
    >Você pode fazer edições em massa para o email/modelo ao enviar um email de grupo, mas não pode fazer edições exclusivas para recipient específicos na lista.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Opções de envio em massa](http://docs.marketo.com/x/HwQ6Ag)
 >* [Uso de um modelo na janela Compor](http://docs.marketo.com/x/MQQ6Ag)
