@@ -3,9 +3,9 @@ unique-page-id: 557318
 description: Atualizar uma Lista ou Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Atualizar uma Lista ou Lista inteligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Se você tiver uma lista inteligente e alguns minutos tiverem passado, os result
 >
 >Às vezes, quando você executa uma lista inteligente e retorna a ela mais tarde, você pode ver a palavra &quot;Sobre&quot; na frente da contagem de pessoas no canto inferior direito. Isso indica que o número é aproximado - clique na contagem propriamente dita para atualizá-la e obter uma contagem atualizada e precisa.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Exportar pessoas para o Excel de uma Lista ou Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
 
