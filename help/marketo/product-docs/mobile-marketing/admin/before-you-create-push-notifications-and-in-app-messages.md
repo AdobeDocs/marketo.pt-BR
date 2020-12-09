@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: Antes de criar notificações por push e mensagens no aplicativo - Documentos do Marketing - Documentação do produto
 title: Antes de criar notificações por push e mensagens no aplicativo
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ Para mensagens no aplicativo, o acionador de exibição é definido como **App O
 
 Depois de concluir toda a preparação para mensagens no aplicativo e notificações por push, é hora de começar!
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar uma mensagem no aplicativo](http://docs.marketo.com/display/docs/create+an+in-app+message)
    >
