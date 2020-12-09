@@ -3,9 +3,9 @@ unique-page-id: 7504520
 description: Exclusão de um campo em um relatório do Explorer de receita - Documentos do marketing - Documentação do produto
 title: Excluindo um campo em um relatório do Explorador de Receita
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
    >
    >A lata de lixo fica oculta até você start arrastar um campo.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Salvar um relatório do Explorador de Receita](saving-a-revenue-explorer-report.md)
 
