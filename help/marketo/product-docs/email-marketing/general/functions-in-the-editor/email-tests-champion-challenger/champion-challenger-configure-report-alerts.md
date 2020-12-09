@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: Campeão/Desafiador - Configurar Alertas de Relatório - Documentos do Marketing - Documentação do Produto
 title: Campeão/Desafiador - Configurar Alertas de Relatório
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo enviará relatórios sobre como o teste de email está indo. Veja como agendar isso.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Campeão/Desafiador: Definir critérios de campeão](champion-challenger-define-champion-criteria.md)
 
