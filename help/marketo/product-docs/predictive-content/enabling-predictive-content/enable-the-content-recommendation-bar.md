@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Ativar a barra de recomendação de conteúdo - Documentos de marketing - Documentação do produto
 title: Ativar a barra de recomendação de conteúdo
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 O mecanismo de recomendação de conteúdo usa análises preditivas e algoritmos de aprendizado de máquina para fornecer conteúdo relevante a cada visitante da Web. O mecanismo de recomendação prevê qual conteúdo teria melhor desempenho por visitante. O conteúdo do mecanismo é monitorado e controlado na página do Recommendations, ajudando a otimizar o retorno sobre o investimento do seu conteúdo.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Antes de ativar o conteúdo preditivo, você deve:
 >
