@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Emita uma licença do complemento por email do Marketo - Documentos do marketing - Documentação do produto
 title: Emitir uma licença do complemento por e-mail do Marketo
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Qualquer pessoa que quiser usar o Suplemento do Outlook por email deve receber u
    >
    >Se os seus representantes de vendas tiverem acesso de administrador aos seus computadores, marque a caixa e pronto!
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Instalar o suplemento de marketing para Outlook com uma chave corporativa](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [Instale o suplemento de email do Marketo para Outlook com um código de registro](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
