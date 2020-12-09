@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: Script de conversão para Eventos personalizados - Documentos de marketing - Documentação do produto
 title: Script de conversão para Eventos personalizados
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Neste exemplo, há um botão na página da Web com uma ID de &quot;#myButtonId&q
 
 Incrível! Seu site agora está capturando metas personalizadas de promoção social com o Marketo.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Especificar meta para a Oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [Criar uma Oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
