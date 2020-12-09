@@ -3,9 +3,9 @@ unique-page-id: 2950559
 description: Configurar e-mail de recompartilhamento e prompt para um aplicativo social - Documentos do Marketing - Documentação do produto
 title: Configurar e-mail de compartilhamento repetido e Solicitar um aplicativo do Social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Ao criar uma oferta [de](../../../../product-docs/demand-generation/social/refer
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Em seguida, você pode configurar o fluxo de [rastreamento de progresso em uma oferta](configure-track-progress-flow-for-a-referral-offer.md)de referência ou clicar em **Concluir > Aprovar e fechar** para [publicar sua oferta](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) de referência ou [sorteios](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
 
