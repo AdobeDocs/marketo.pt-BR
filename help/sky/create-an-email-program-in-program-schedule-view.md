@@ -2,7 +2,7 @@
 title: create-an-email-programa-em-programa-agendamento-visualização
 description: Criar um Programa de email na Visualização do Cronograma do programa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Você pode criar novos programas de email diretamente na visualização do cronograma do programa.
 
-1. Selecione seu programa na árvore e vá para a guia [!UICONTROL **Agendamento**] em [!UICONTROL **Visão geral**].
+1. Selecione seu programa na árvore e vá para a guia **[!UICONTROL Agendamento]** em **[!UICONTROL Visão geral]**.
 
    ![Imagem Um](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-1.png)
 
-1. Passe o mouse sobre o dia em que deseja adicionar uma entrada e clique em [!UICONTROL **Adicionar**].
+1. Passe o mouse sobre o dia em que deseja adicionar uma entrada e clique em **[!UICONTROL Adicionar]**.
 
    ![Imagem dois](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ Você pode criar novos programas de email diretamente na visualização do crono
    >
    >Você também pode seguir etapas semelhantes para criar um programa de email a partir das visualizações Dia, Semana ou Agenda.
 
-1. Digite um nome para a sua nova campanha inteligente e, em seguida, altere [!UICONTROL **Tipo**] para Programa [!UICONTROL de]email. Você também pode modificar a Data [!UICONTROL **do**] Start e desmarcar [!UICONTROL **Abrir na Visualização**] da Agenda se quiser permanecer no calendário após a criação da entrada. Clique em [!UICONTROL **Salvar**].
+1. Digite um nome para a sua nova campanha inteligente e, em seguida, altere **[!UICONTROL Tipo]** para Programa [!UICONTROL de]email. Você também pode modificar a Data **[!UICONTROL do]** Start e desmarcar **[!UICONTROL Abrir na Visualização]** da Agenda se quiser permanecer no calendário após a criação da entrada. Clique em **[!UICONTROL Salvar]**.
 
    ![Imagem Três](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-3.png)
 
