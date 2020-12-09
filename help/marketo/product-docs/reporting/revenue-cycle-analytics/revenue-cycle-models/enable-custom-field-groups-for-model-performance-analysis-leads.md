@@ -3,9 +3,9 @@ unique-page-id: 3571890
 description: Ativar grupos de campos personalizados para Análise de desempenho do modelo (clientes potenciais) - Documentos do marketing - Documentação do produto
 title: Ativar grupos de campos personalizados para Análise de desempenho do modelo (clientes potenciais)
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Ativar grupos de campos personalizados para Análise de desempenho do modelo (clientes potenciais) {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Categorize campos padrão ou personalizados em grupos para relatórios por meio do Organizador de campos no Marketing. Para obter detalhes, consulte [Criar grupos de campos personalizados por meio do Organizador](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)de campos.
 
