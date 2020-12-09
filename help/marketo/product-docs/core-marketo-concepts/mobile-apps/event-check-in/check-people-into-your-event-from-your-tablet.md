@@ -3,9 +3,9 @@ unique-page-id: 2949839
 description: Verifique as pessoas no seu Evento no tablet - Documentos do Marketing - Documentação do produto
 title: Verifique as pessoas no seu Evento a partir do seu tablet
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '866'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ O aplicativo funciona da mesma forma no iPad e no Android, exceto pequenas difer
 >
 >O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* Crie um evento no Marketo e preencha-o com pessoas convidadas e registradas.
 >* Baixe o aplicativo tablet para [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) ou [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
