@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: Campeão/Desafiador - Definir critérios de campeão - Documentos do marketing - Documentação do produto
 title: Campeão/Desafiador - Definir Critérios de Campeão
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Depois de configurar seu tipo de teste, é necessário definir o critério de campeão. Veja como.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Adicionar um campeão/desafiador de e-mail](add-an-email-champion-challenger.md)
 
