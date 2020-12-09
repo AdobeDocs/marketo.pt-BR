@@ -3,9 +3,9 @@ unique-page-id: 7514985
 description: Reagende uma Campanha inteligente em lote na Visualização do Cronograma do programa - Documentos do marketing - Documentação do produto
 title: Reprogramar uma Campanha inteligente em lote na Visualização do Cronograma do programa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Deseja reprogramar uma execução de campanha inteligente em lote? Arraste e sol
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Reprogramando um Programa inteiro a partir da Visualização Programar](rescheduling-an-entire-program-from-the-schedule-view.md)
 
