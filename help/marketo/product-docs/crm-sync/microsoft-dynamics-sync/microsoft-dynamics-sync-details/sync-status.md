@@ -3,9 +3,9 @@ unique-page-id: 10097584
 description: Status da sincronização - Documentos do marketing - Documentação do produto
 title: Status da sincronização
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Procure, pesquise ou exporte clientes potenciais (e outros objetos) que não ten
 
 ![](assets/image2016-5-19-10-3a26-3a35.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Tipos de notificação](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
 
