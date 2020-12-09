@@ -3,9 +3,9 @@ unique-page-id: 2360364
 description: Etapa 2 de 3 - Criar um usuário do Salesforce para o Marketing (Enterprise/Unlimited) - Documentação do produto - Documentação do produto
 title: Etapa 2 de 3 - Criar um usuário do Salesforce para o Marketing (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >Essas etapas devem ser concluídas por um administrador do Salesforce
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Etapa 1 de 3: Adicionar campos de marketing ao Salesforce (Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
