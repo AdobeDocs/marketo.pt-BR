@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: Visão geral do Editor de email v2.0 - Documentos do Marketing - Documentação do produto
 title: Visão geral do Editor de email v2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -107,9 +107,7 @@ Muitos novos recursos! Divirta-se!
 >
 >Se você quiser se aprofundar ainda mais, dê uma olhada neste vídeo [](https://nation.marketo.com/videos/1463)útil.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Sintaxe do modelo de email](email-template-syntax.md)
 
