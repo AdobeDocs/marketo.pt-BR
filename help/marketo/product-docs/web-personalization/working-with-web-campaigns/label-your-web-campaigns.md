@@ -3,9 +3,9 @@ unique-page-id: 2949154
 description: Rotule suas Campanhas da Web - Documentos do Marketing - Documentação do produto
 title: Rotule suas Campanhas da Web
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Legal! Agora você sabe como criar rótulos e atribuí-los a campanhas.
 
    ![](assets/web-campaigns-label-showing.jpg)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Atribuir um](create-a-new-in-zone-web-campaign.md) [rótulo a um segmento](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
