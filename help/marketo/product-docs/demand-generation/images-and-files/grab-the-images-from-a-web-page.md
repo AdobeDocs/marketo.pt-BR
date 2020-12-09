@@ -3,9 +3,9 @@ unique-page-id: 2359866
 description: Obtenha as imagens de uma página da Web - Documentos do Marketing - Documentação do produto
 title: Obter as imagens de uma página da Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Para adicionar imagens de uma página da Web, copie o endereço da Web (URL) da 
 
 Bom trabalho, imagem principal!
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Adicionar imagens e arquivos ao Marketo](add-images-and-files-to-marketo.md)
 >* [Organize suas imagens e arquivos usando pastas](organize-your-images-and-files-using-folders.md)
