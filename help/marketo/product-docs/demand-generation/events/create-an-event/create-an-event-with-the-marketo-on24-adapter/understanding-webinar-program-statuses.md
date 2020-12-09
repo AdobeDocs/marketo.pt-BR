@@ -3,9 +3,9 @@ unique-page-id: 10096681
 description: Entendendo os status do Programa do Webinar - Documentos do Marketing - Documentação do produto
 title: Entendendo os status dos Programas do webinar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Esta é uma breve descrição dos status dos programas associados ao canal do We
 >
 >Para que o Marketo obtenha o status No Show, as pessoas devem ter se registrado *no Marketo*. Não conseguimos capturar Nenhuma Mostra proveniente do feed de dados On24.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Noções Gerais dos Eventos do adaptador do Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
