@@ -3,9 +3,9 @@ unique-page-id: 2953572
 description: Noções básicas sobre Programas de email - Documentos de marketing - Documentação do produto
 title: Como entender Programas de email
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ Use um programa de email dentro de um programa padrão para manter as coisas org
 
 Agora que você entende Programas por email, comece com um dos artigos relacionados abaixo!
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar um Programa por email](create-an-email-program.md)
    >
