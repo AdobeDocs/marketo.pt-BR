@@ -2,7 +2,7 @@
 title: import-assets-with-adobe-experience-manager
 description: Importação de ativos com o Adobe Experience Manager
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -26,15 +26,15 @@ O Seletor de ativos permite que [!DNL Marketo] os clientes acessem, selecionem e
 >
 >Atualmente, esse recurso é totalmente compatível apenas com o Firefox. Ele não é suportado no Safari e pode não funcionar na versão mais recente do Chrome, dependendo das configurações de cookie do SameSite.
 
-1. No [!UICONTROL Design Studio], selecione [!UICONTROL **Imagens e arquivos**].
+1. No [!UICONTROL Design Studio], selecione **[!UICONTROL Imagens e arquivos]**.
 
    ![Imagem Um](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Clique no menu suspenso [!UICONTROL Imagens e arquivos] e selecione [!UICONTROL **Importar imagem ou arquivo**].
+1. Clique no menu suspenso [!UICONTROL Imagens e arquivos] e selecione **[!UICONTROL Importar imagem ou arquivo]**.
 
    ![Imagem dois](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-2.png)
 
-1. Clique no botão de opção ao lado de [!DNL Adobe Experience Manager] e clique em [!UICONTROL **Avançar**].
+1. Clique no botão de opção ao lado de [!DNL Adobe Experience Manager] e clique em **[!UICONTROL Avançar]**.
 
    ![Imagem Três](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-3.png)
 
@@ -42,7 +42,7 @@ O Seletor de ativos permite que [!DNL Marketo] os clientes acessem, selecionem e
 
    ![Imagem quatro](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Escolha sua pasta. Selecione as imagens desejadas (você pode escolher até 10) e clique em [!UICONTROL **Selecionar**].
+1. Escolha sua pasta. Selecione as imagens desejadas (você pode escolher até 10) e clique em **[!UICONTROL Selecionar]**.
 
    ![Imagem cinco](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ O Seletor de ativos permite que [!DNL Marketo] os clientes acessem, selecionem e
    >
    >As imagens não podem exceder 100 MB.
 
-1. Verifique as imagens escolhidas, selecione a pasta de destino ([!UICONTROL Imagens e arquivos] é o padrão) e clique em [!UICONTROL **Avançar**].
+1. Verifique as imagens escolhidas, selecione a pasta de destino ([!UICONTROL Imagens e arquivos] é o padrão) e clique em **[!UICONTROL Avançar]**.
 
    ![Imagem seis](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-6.png)
 
-E é isso! Clique em [!UICONTROL **Fechar**] para voltar para Imagens e Arquivos.
+E é isso! Clique em **[!UICONTROL Fechar]** para voltar para Imagens e Arquivos.
 
 ![Imagem sete](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-7.png)
 
