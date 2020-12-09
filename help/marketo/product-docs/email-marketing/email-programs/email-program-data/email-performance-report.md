@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: Relatório de desempenho de e-mail - Documentos de marketing - Documentação do produto
 title: Relatório de desempenho de email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por ex
 >
 >Vários envios da mesma campanha para a mesma pessoa são contados apenas uma vez.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Filtrar ativos em relatórios de e-mail de Campanha](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [Relatório de desempenho do link de email](email-link-performance-report.md)
