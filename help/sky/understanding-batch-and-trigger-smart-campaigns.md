@@ -2,7 +2,7 @@
 title: campanhas inteligentes de compreensão de lote e acionador
 description: Noções básicas sobre Campanhas inteligentes em lote e acionador
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Campanhas inteligentes em lote terão apenas filtros na seção lista inteligent
 
 ![Imagem Um](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Clicar na guia [!UICONTROL **Agendamento**] confirmará que a campanha inteligente está definida como &quot;Lote&quot;.
+Clicar na guia **[!UICONTROL Agendamento]** confirmará que a campanha inteligente está definida como &quot;Lote&quot;.
 
 ![Imagem dois](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -42,7 +42,7 @@ Se uma campanha inteligente usar pelo menos um acionador na seção lista inteli
 
 ![Imagem Três](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Clicar na guia [!UICONTROL **Agendamento**] confirmará que a campanha inteligente está definida como &quot;Acionador&quot;.
+Clicar na guia **[!UICONTROL Agendamento]** confirmará que a campanha inteligente está definida como &quot;Acionador&quot;.
 
 ![Imagem quatro](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
