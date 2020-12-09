@@ -2,7 +2,7 @@
 title: entendimento-objetivo-rastreamento-e-projetado-registros
 description: Compreensão do rastreamento de metas e registros projetados
 translation-type: tm+mt
-source-git-commit: 1231bc32a3abdf66c10864d6605234763618dbe0
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 0%
@@ -22,11 +22,11 @@ Depois de [definir as metas](/help/sky/setting-event-goals.md)do evento e enviar
 
 ## Rastreamento de metas e registros projetados
 
-1. Você pode encontrar detalhes de rastreamento de meta na guia [!UICONTROL **Relatórios**] do programa do evento. Neste exemplo em particular, há 150 membros registrados até agora contra uma meta de 200 (75%).
+1. Você pode encontrar detalhes de rastreamento de meta na guia **[!UICONTROL Relatórios]** do programa do evento. Neste exemplo em particular, há 150 membros registrados até agora contra uma meta de 200 (75%).
 
    ![Imagem Um](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Você também verá seus registros [!UICONTROL **Projetados**] . Passe o mouse sobre o ícone de informações para ver um detalhamento desse número por segmento de Probabilidade.
+Você também verá seus registros **[!UICONTROL Projetados]** . Passe o mouse sobre o ícone de informações para ver um detalhamento desse número por segmento de Probabilidade.
 
 ![Imagem dois](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -69,7 +69,7 @@ Na parte superior da página Relatórios, você pode encontrar recomendações o
 
 ## previsões de nível de pessoa
 
-Clique na guia [!UICONTROL **Membros**] para visualização de todos os membros do programa. Passe o cursor do mouse sobre as barras [!UICONTROL **de Probabilidade**] de registro ou [!UICONTROL **Probabilidade**] de participação para ver as porcentagens exatas e as categorizações. Em seguida, você pode agir com os membros em uma categoria específica (por exemplo, todos na categoria &quot;Menos provável&quot; para registrar a categoria) e especificamente público alvo-os para aumentar seus números de registro.
+Clique na guia **[!UICONTROL Membros]** para visualização de todos os membros do programa. Passe o cursor do mouse sobre as barras **[!UICONTROL de Probabilidade]** de registro ou **[!UICONTROL Probabilidade]** de participação para ver as porcentagens exatas e as categorizações. Em seguida, você pode agir com os membros em uma categoria específica (por exemplo, todos na categoria &quot;Menos provável&quot; para registrar a categoria) e especificamente público alvo-os para aumentar seus números de registro.
 
 ![Imagem sete](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
