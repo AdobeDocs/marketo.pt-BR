@@ -3,9 +3,9 @@ unique-page-id: 1146976
 description: Usar uma data específica em uma etapa de fluxo de espera - Documentos do Marketing - Documentação do produto
 title: Usar uma data específica em uma etapa de fluxo de espera
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ Você pode usar a etapa de fluxo de **Espera** para pausar a jornada de uma pess
    Especifique a hora (opcional) e clique em Salvar.
    ![](assets/image2014-9-22-11-3a51-3a13.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar uma duração em uma etapa do fluxo de espera](use-a-duration-in-a-wait-flow-step.md)
 >* [Usar um token de data em uma etapa de fluxo de espera](use-a-date-token-in-a-wait-flow-step.md)
