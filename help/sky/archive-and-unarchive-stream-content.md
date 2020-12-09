@@ -2,7 +2,7 @@
 title: archive-and-unarchive-stream-content
 description: Arquivar e desarquivar conteúdo de fluxo
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Se não quiser mais usar um conteúdo em um fluxo, você pode [removê](/help/sk
 
    ![Imagem Um](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Clique na guia [!UICONTROL **Fluxos**]
+1. Clique na guia **[!UICONTROL Fluxos]**
 
    ![Imagem dois](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -33,7 +33,7 @@ Se não quiser mais usar um conteúdo em um fluxo, você pode [removê](/help/sk
 
    ![Imagem Três](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-3.png)
 
-1. Selecione [!UICONTROL **Arquivar**].
+1. Selecione **[!UICONTROL Arquivar]**.
 
    ![Imagem quatro](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-4.png)
 
@@ -45,11 +45,11 @@ Se não quiser mais usar um conteúdo em um fluxo, você pode [removê](/help/sk
 
    ![Imagem cinco](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Clique na guia [!UICONTROL **Streams**] .
+1. Clique na guia **[!UICONTROL Streams]** .
 
    ![Imagem seis](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Clique no ícone de engrenagem do seu stream e clique em [!UICONTROL **Mostrar conteúdo**] arquivado.
+1. Clique no ícone de engrenagem do seu stream e clique em **[!UICONTROL Mostrar conteúdo]** arquivado.
 
    ![Imagem sete](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
@@ -57,7 +57,7 @@ Se não quiser mais usar um conteúdo em um fluxo, você pode [removê](/help/sk
 
    ![Imagem Oito](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-8.png)
 
-1. Selecione [!UICONTROL **Desarquivar**].
+1. Selecione **[!UICONTROL Desarquivar]**.
 
    ![Imagem Nove](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-9.png)
 
