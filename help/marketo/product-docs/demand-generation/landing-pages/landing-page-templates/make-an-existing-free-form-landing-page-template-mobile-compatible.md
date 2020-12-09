@@ -3,9 +3,9 @@ unique-page-id: 5472348
 description: Tornar um modelo de Landing page de forma livre compatível com dispositivos móveis - Documentos do marketing - Documentação do produto
 title: Tornar um modelo de Landing page de forma livre existente compatível com dispositivos móveis
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ Ao editar uma landing page e clicar na guia móvel, você às vezes perceberá q
 
 Incrível! Agora você pode [personalizar a visualização](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) móvel de todas as landings page que usam este modelo.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Personalize a Visualização móvel para sua Landing page de forma livre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 
