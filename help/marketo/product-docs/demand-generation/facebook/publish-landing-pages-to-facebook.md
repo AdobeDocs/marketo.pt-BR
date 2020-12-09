@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Publicar Landings page no Facebook - Documentos do Marketing - Documentação do produto
 title: Publicar Landings page no Facebook
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Você pode publicar suas landings page no Facebook, encontrar sua audiência ond
 >
 >SMB Spark, Standard e Select. Enterprise com recurso licenciado separadamente.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Sua página deve ter pelo menos 2.000 curtidas antes de poder publicar no Facebook.
 
