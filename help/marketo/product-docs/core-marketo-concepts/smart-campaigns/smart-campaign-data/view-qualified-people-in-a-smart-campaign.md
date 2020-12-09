@@ -3,9 +3,9 @@ unique-page-id: 1146966
 description: Visualização de pessoas qualificadas em uma Campanha inteligente - Documentos do marketing - Documentação do produto
 title: Visualização de pessoas qualificadas em uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Visualização de pessoas que se qualificam para passar pelo fluxo quando você 
 
 Doce! Você pode usar essa lista para verificar quais pessoas podem passar pelo fluxo antes de executar uma campanha inteligente.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Membros da Campanha inteligente da visualização](view-smart-campaign-members.md)
 >* [Visualização de pessoas bloqueadas em uma Campanha inteligente](view-blocked-people-in-a-smart-campaign.md)
