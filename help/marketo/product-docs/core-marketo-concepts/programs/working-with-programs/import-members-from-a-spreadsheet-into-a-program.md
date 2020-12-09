@@ -3,9 +3,9 @@ unique-page-id: 1147120
 description: Importar membros de uma planilha para um Programa - Documentos do Marketing - Documentação do produto
 title: Importar membros de uma planilha para um Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,7 @@ Você pode importar uma lista de pessoas que automaticamente se tornam membros d
 
    ![](assets/image2014-9-18-15-3a45-3a16.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Gerenciar e Visualização membros](manage-and-view-members.md)
 
