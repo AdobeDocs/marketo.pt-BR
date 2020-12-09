@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Campos obrigatórios para sincronização de marketing com dinâmicas - Documentos do marketing - Documentação do produto
 title: Campos necessários para sincronizar o marketing com o Dynamics
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Veja como verificar e adicionar campos de sincronização.
 >
 >Aguarde pelo menos 10 minutos para que uma sincronização seja executada antes de verificar se você corrigiu o problema.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Configuração de estrelas e chamas para registros de cliente potencial/contato](http://docs.marketo.com/x/BICMAg)
 
