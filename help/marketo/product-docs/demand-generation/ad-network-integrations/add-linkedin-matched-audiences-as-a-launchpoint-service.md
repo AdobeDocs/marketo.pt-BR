@@ -3,9 +3,9 @@ unique-page-id: 7504163
 description: Adicionar Audiências Correspondentes do LinkedIn como um Serviço do LaunchPoint - Documentos do Marketing - Documentação do produto
 title: Adicionar Audiências Correspondentes do LinkedIn como um Serviço do LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Conecte sua conta de marketing com Audiências correspondentes do LinkedIn para 
 
    ![](assets/bartholomew2.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar uma Lista de marketing ou uma Lista inteligente como um segmento de Audiência do LinkedIn](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
