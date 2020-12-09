@@ -2,7 +2,7 @@
 title: set-stream-cadence
 description: Definir cadência de fluxo
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -22,11 +22,11 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
 
    ![Imagem Um](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. Clique na guia [!UICONTROL **Streams**] e, em seguida, clique em [!UICONTROL **Set Cadence (Definir cadência**]).
+1. Clique na guia **[!UICONTROL Streams]** e, em seguida, clique em **[!UICONTROL Set Cadence (Definir cadência]**).
 
    ![Imagem dois](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
-1. Selecione a frequência com que deseja que a cadência ocorra novamente. Você pode escolher [!UICONTROL **Semanal**], [!UICONTROL **Mensal**] ou [!UICONTROL **Nenhum**].
+1. Selecione a frequência com que deseja que a cadência ocorra novamente. Você pode escolher **[!UICONTROL Semanal]**, **[!UICONTROL Mensal]** ou **[!UICONTROL Nenhum]**.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
 
 ## Semanalmente
 
-1. Selecione [!UICONTROL **Semanalmente**].
+1. Selecione **[!UICONTROL Semanalmente]**.
 
    ![Imagem Três](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-3.png)
 
@@ -52,9 +52,9 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
 
    >[!TIP]
    >
-   >Você pode definir sua cadência para ser executada todos os dias selecionando [!UICONTROL **Repetir: Semanalmente**] / [!UICONTROL **A cada: 1 Semana**] / [!UICONTROL **Em:**] todos os dias.
+   >Você pode definir sua cadência para ser executada todos os dias selecionando **[!UICONTROL Repetir: Semanalmente]** / **[!UICONTROL A cada: 1 Semana]** / **[!UICONTROL Em:]** todos os dias.
 
-1. Agora escolham o Time. Marque a caixa se desejar usar o Fuso horário [do](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) Recipient (isto é, entregar de acordo com os fusos horários locais) e clique em [!UICONTROL **Salvar**].
+1. Agora escolham o Time. Marque a caixa se desejar usar o Fuso horário [do](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) Recipient (isto é, entregar de acordo com os fusos horários locais) e clique em **[!UICONTROL Salvar]**.
 
    ![Imagem sete](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-7.png)
 
@@ -74,7 +74,7 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
 
 ## Mensal
 
-1. Selecione [!UICONTROL **Mensalmente**] para saber com que frequência ele se repete.
+1. Selecione **[!UICONTROL Mensalmente]** para saber com que frequência ele se repete.
 
    ![Imagem Nove](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-9.png)
 
@@ -94,7 +94,7 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
    >
    >Como alternativa, você pode escolher o dia da semana.
 
-1. Escolha uma [!UICONTROL Hora] e clique em [!UICONTROL **Salvar**].
+1. Escolha uma [!UICONTROL Hora] e clique em **[!UICONTROL Salvar]**.
 
    ![Imagem Treze](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 
