@@ -3,9 +3,9 @@ unique-page-id: 2359734
 description: Pré-visualização de uma Landing page com conteúdo dinâmico - Documentos do Marketing - Documentação do produto
 title: Pré-visualização de uma Landing page com conteúdo dinâmico
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Pré-visualização sua landing page depois de adicionar conteúdo dinâmico para garantir que tudo fique como deveria.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Usar conteúdo dinâmico em uma Landing page](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [Pré-visualização de uma Landing page](preview-a-landing-page.md)
