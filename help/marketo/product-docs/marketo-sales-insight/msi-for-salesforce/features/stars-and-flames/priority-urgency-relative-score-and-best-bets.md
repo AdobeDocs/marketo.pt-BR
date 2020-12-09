@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: Prioridade, urgência, pontuação relativa e melhores propostas - Documentos do Marketing - Documentação do produto
 title: Prioridade, urgência, pontuação relativa e melhores propostas
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Para calcular o número de estrelas e chamas, seus clientes em potencial e conta
 >
 >A contagem de Urgência relativa (chamas) e Pontuação relativa (estrelas) são inteiros no Marketo. Os valores possíveis para cada um são de 0 a 3.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Visão geral de vendas do Marketing](http://docs.marketo.com/display/docs/marketo+sales+insight)
 
