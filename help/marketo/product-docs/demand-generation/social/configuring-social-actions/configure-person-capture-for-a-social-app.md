@@ -3,9 +3,9 @@ unique-page-id: 2950547
 description: Configurar a captura de pessoa para um aplicativo social - Documentos do Marketing - Documentação do produto
 title: Configurar captura de pessoa para um aplicativo social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -54,9 +54,7 @@ Ao criar uma oferta [de](../../../../product-docs/demand-generation/social/refer
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Agora você pode [configurar o fluxo](configure-social-sign-up-share-flow.md) de inscrição social e editar as mensagens de compartilhamento que serão publicadas em cada rede social.
 
