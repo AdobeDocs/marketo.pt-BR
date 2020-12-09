@@ -3,9 +3,9 @@ unique-page-id: 2359826
 description: Redirecionar um caminho de URL - Documentos do Marketing - Documentação do produto
 title: Redirecionar um caminho de URL
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Marketo facilita redirecionar um caminho de URL para qualquer página escolhida.
 
 Parabéns!  Redirecionou com êxito o caminho do URL.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Redirecionar uma Landing page de marketing para outra página](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
 
