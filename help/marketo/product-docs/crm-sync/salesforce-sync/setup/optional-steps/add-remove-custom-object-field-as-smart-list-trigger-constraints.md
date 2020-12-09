@@ -3,9 +3,9 @@ unique-page-id: 4719300
 description: Adicionar/remover campo de objeto personalizado como restrições de Lista inteligente/acionador - Documentos de marketing - Documentação do produto
 title: Adicionar/remover campo de objeto personalizado como restrições de Lista inteligente/acionador
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ O Marketo fornece controle de granulação sobre a sincronização de objetos pe
 
 Uau! Agora suas listas inteligentes e campanhas inteligentes têm ainda mais poder.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Ativar/desativar sincronização de objetos personalizados](enable-disable-custom-object-sync.md)
 
