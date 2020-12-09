@@ -2,7 +2,7 @@
 title: definição-a-smart-lista-para-uma-campanha em lote
 description: Definir uma Lista inteligente para uma Campanha em lote
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Listas inteligentes são o mecanismo em todo o mercado para definir &quot;quem&quot; (quais pessoas) incluir, seja um relatório, uma lista ou uma campanha inteligente. Veja como definir uma lista inteligente para uma campanha em lote.
 
-1. Escolha uma campanha inteligente e clique em Lista [!UICONTROL **inteligente**].
+1. Escolha uma campanha inteligente e clique em Lista **[!UICONTROL inteligente]**.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-1.png)
 
@@ -32,7 +32,7 @@ Listas inteligentes são o mecanismo em todo o mercado para definir &quot;quem&q
    >
    >É possível fazer com que uma campanha inteligente seja executada em uma pessoa de cada vez, com base em eventos ao vivo, adicionando acionadores, o que coloca a campanha inteligente no modo Acionador.
 
-1. Clique na lista suspensa e escolha um operador de filtro (por exemplo, [!UICONTROL **é**], não [!UICONTROL ****]&#x200B;é etc.) para o filtro escolhido.
+1. Clique na lista suspensa e escolha um operador de filtro (por exemplo, **[!UICONTROL é]**, não ****&#x200B;é etc.) para o filtro escolhido.
 
    ![Imagem Três](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 
