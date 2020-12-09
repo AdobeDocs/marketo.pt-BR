@@ -3,9 +3,9 @@ unique-page-id: 7512654
 description: Ver o feed principal no Salesforce1 - Documentos do Marketing - Documentação do produto
 title: Visualizando o feed principal no Salesforce1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ O principal feed é uma lista de eventos interessantes atualizada feita pelos cl
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Momentos interessantes em Salesforce1](interesting-moments-in-salesforce1.md)
 >* [Enviar ações de Campanha e email para marketing e lista de vigias no Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
