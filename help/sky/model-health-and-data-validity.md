@@ -2,7 +2,7 @@
 title: modelo-integridade e validade de dados
 description: Integridade do modelo e validade dos dados
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 O desempenho de seus modelos depende da qualidade e integridade dos dados de entrada. Aqui está como avaliar sua saúde modelo.
 
-Navegue até a seção [!UICONTROL **Modelos e integridade**] de dados em Audiências [!UICONTROL ****] preditivas na área [!UICONTROL **Admin**] do Marketo Classic. Aqui vocês verão todos os seus modelos e seus status.
+Navegue até a seção **[!UICONTROL Modelos e integridade]** de dados em Audiências **** preditivas na área **[!UICONTROL Admin]** do Marketo Classic. Aqui vocês verão todos os seus modelos e seus status.
 
 ![Imagem Um](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
