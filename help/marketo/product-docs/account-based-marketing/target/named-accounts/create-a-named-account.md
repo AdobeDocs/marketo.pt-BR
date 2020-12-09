@@ -3,9 +3,9 @@ unique-page-id: 12615781
 description: Criar uma conta nomeada - Documentos de marketing - Documentação do produto
 title: Criar uma conta nomeada
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Siga estas etapas para criar manualmente uma conta nomeada.
    >
    >Clique diretamente em uma conta nomeada para ver seu painel.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Adicionar pessoas a uma conta nomeada](add-people-to-a-named-account.md)
 
