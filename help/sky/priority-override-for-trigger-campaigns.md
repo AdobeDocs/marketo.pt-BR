@@ -2,7 +2,7 @@
 title: priority-override-for-trigger-campanha
 description: Substituição de prioridade para Campanhas de acionador
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Os administradores podem sobrepor a prioridade determinada do Marketo para dispa
 
 ## Prioridade de substituição
 
-1. Na campanha do acionador, clique na guia [!UICONTROL **Agendamento**] e, em seguida, clique em [!UICONTROL **Substituir prioridade**].
+1. Na campanha do acionador, clique na guia **[!UICONTROL Agendamento]** e, em seguida, clique em **[!UICONTROL Substituir prioridade]**.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Escolha um novo nível de prioridade no menu suspenso. Clique em [!UICONTROL **Confirmar**].
+1. Escolha um novo nível de prioridade no menu suspenso. Clique em **[!UICONTROL Confirmar]**.
 
    ![Imagem dois](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -44,11 +44,11 @@ Os administradores podem sobrepor a prioridade determinada do Marketo para dispa
 
 ## Redefinir prioridade
 
-1. Para redefinir a prioridade da campanha de volta ao padrão do sistema, vá para a guia [!UICONTROL **Agendamento**] na campanha de disparo e clique em [!UICONTROL **Redefinir prioridade**].
+1. Para redefinir a prioridade da campanha de volta ao padrão do sistema, vá para a guia **[!UICONTROL Agendamento]** na campanha de disparo e clique em **[!UICONTROL Redefinir prioridade]**.
 
    ![Imagem quatro](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
-1. Clique em [!UICONTROL **Redefinir**] para confirmar.
+1. Clique em **[!UICONTROL Redefinir]** para confirmar.
 
    ![Imagem cinco](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-5.png)
 
@@ -62,21 +62,21 @@ Os administradores podem sobrepor a prioridade determinada do Marketo para dispa
 >
 >Somente Administradores ou usuários com responsabilidades administrativas devem ter acesso de substituição de prioridade campanha.
 
-1. Na área [!UICONTROL Admin] , clique em [!UICONTROL **Usuários e funções**].
+1. Na área [!UICONTROL Admin] , clique em **[!UICONTROL Usuários e funções]**.
 
    ![Imagem seis](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-6.png)
 
-1. Clique na guia [!UICONTROL **Funções**] , selecione o usuário ao qual deseja conceder acesso e clique em [!UICONTROL **Editar função**].
+1. Clique na guia **[!UICONTROL Funções]** , selecione o usuário ao qual deseja conceder acesso e clique em **[!UICONTROL Editar função]**.
 
    ![Imagem sete](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. Em [!UICONTROL Acesso ao Marketing Atividade], marque [!UICONTROL **Editar prioridade**] de Campanha do acionador. Clique em [!UICONTROL **Salvar**].
+1. Em [!UICONTROL Acesso ao Marketing Atividade], marque **[!UICONTROL Editar prioridade]** de Campanha do acionador. Clique em **[!UICONTROL Salvar]**.
 
    ![Imagem Oito](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
 ## Prioridade de Campanha de visualização no Marketing Clássico
 
-Você pode visualização a prioridade da campanha na [!DNL Classic] experiência clicando na guia [!UICONTROL **Agendamento**] em uma campanha de disparo.
+Você pode visualização a prioridade da campanha na [!DNL Classic] experiência clicando na guia **[!UICONTROL Agendamento]** em uma campanha de disparo.
 
 ![Imagem Nove](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
