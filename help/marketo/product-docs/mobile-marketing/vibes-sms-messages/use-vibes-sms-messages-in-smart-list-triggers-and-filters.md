@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: Usar mensagens SMS Vibes em Filtros e acionadores de Lista inteligente - Documentos do marketing - Documentação do produto
 title: Usar mensagens SMS Vibes em Filtros e acionadores de Lista inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Por outro lado, o **filtro** de Lista **Membro do Vibes **encontra** **qualquer 
 
 Depois de configurar acionadores e filtros Vibes na lista inteligente, você pode [definir o fluxo](add-a-flow-step-for-sms.md).
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Definir Lista inteligente para Campanhas inteligentes | Disparador](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Localizar e adicionar Filtros a uma Lista inteligente](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
