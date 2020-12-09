@@ -3,9 +3,9 @@ unique-page-id: 7512292
 description: Adicionar Reunião Web de Nível 3 como um Serviço LaunchPoint - Documentos do Marketing - Documentação do produto
 title: Adicionar Reunião Web de Nível 3 como um Serviço do LaunchPoint
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ O Marketo gerencia sua participação e inscrição de nível 3 na Web Meeting.
 
    ![](assets/level-3-web-meeting.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Saiba como [criar um evento com uma Reunião](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)na Web de Nível 3.
 
