@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Habilitar conteúdo preditivo para mídias avançadas da Web - Documentos do marketing - Documentação do produto
 title: Ativar conteúdo preditivo para mídias avançadas da Web
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 O conteúdo preditivo envolve seus visitantes da Web com o conteúdo mais relevante, capacitado pelo aprendizado da máquina e análises preditivas. Com a Rich Media da Web, você pode aprimorar seu conteúdo com descrições e imagens de texto e incorporar várias recomendações de conteúdo preditivo em seu site.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Antes de ativar o Conteúdo preditivo, você deve:
 >
