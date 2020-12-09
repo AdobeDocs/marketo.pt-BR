@@ -3,9 +3,9 @@ unique-page-id: 2949178
 description: Noções básicas sobre o Painel SEO - Instantâneo SEO - Documentos do Marketing - Documentação do produto
 title: Noções básicas sobre o Painel SEO - Instantâneo SEO
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ O gráfico de Tendências de Classificação de Palavras-Chave puxa suas palavra
 
 Fácil, certo? Agora vamos dar uma olhada na seção do Recommendations deste painel.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Como entender o Painel: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
 
