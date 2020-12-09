@@ -3,9 +3,9 @@ unique-page-id: 7512457
 description: Enviar uma notificação por push móvel - Documentos do Marketing - Documentação do produto
 title: Enviar uma notificação por push móvel
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Envie uma notificação por push para as pessoas que usam seu aplicativo móvel.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar uma nova Campanha inteligente](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Criar uma notificação por push](create-a-push-notification.md)
