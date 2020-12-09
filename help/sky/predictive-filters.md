@@ -2,7 +2,7 @@
 title: filtros preditivos
 description: Filtros preditivos
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Isso filtros a audiência se eles têm uma probabilidade alta ou baixa de cancel
 
 Esses dois filtros ajudam a expandir sua audiência atual, direcionando clientes potenciais adicionais que são semelhantes aos membros de outro programa ou Lista inteligente. Os filtros Looklike consideram mais de 50 fatores, incluindo atributos de cliente potencial, atividade de email, atividade da Web e envolvimento.
 
-Clique em [!UICONTROL **Adicionar restrição**] para escolher critérios de sucesso para os membros do(s) programa(s) selecionado(s).
+Clique em **[!UICONTROL Adicionar restrição]** para escolher critérios de sucesso para os membros do(s) programa(s) selecionado(s).
 
 Clique no ícone + ao lado do menu suspenso programa para adicionar facilmente vários programas/listas inteligentes a um filtro.
 
