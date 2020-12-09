@@ -3,9 +3,9 @@ unique-page-id: 10096400
 description: Criar um modelo de e-mail - Documentos do Marketing - Documentação do produto
 title: Criar um modelo de email
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Se você criou um email que gostaria de salvar como modelo para uso futuro, siga
 
 Para personalizar seu modelo de e-mail, confira o artigo abaixo.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Sintaxe do modelo de email](email-template-syntax.md)
 
