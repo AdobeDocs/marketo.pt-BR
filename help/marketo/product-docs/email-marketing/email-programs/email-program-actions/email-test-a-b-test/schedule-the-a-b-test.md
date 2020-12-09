@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Programe o teste A/B - Documentos do Marketing - Documentação do produto
 title: Programe o teste A/B
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Depois de adicionar um teste A/B a um programa de email e definir os critérios vencedores, você precisará agendar quando o teste for iniciado. Veja como.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Adicionar um teste A/B](add-an-a-b-test.md)
 
