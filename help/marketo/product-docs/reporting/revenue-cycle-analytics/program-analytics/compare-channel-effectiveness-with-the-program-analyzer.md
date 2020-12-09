@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Compare a eficácia do Canal com o analisador de Programas - Documentos de marketing - Documentação do produto
 title: Compare a eficácia do Canal com o analisador de Programas
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Use o Analisador de Programas para comparar os custos de canais, aquisição de membros, pipeline, receita e muito mais, para identificar seus canais mais eficazes e menos eficazes.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Criar um analisador de Programas](create-a-program-analyzer.md)
 
