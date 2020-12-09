@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: Etapa 3 de 3 - Connect Marketing and Dynamics (2013 On-Premise) - Marketing to Docs - Documentação do produto
 title: Etapa 3 de 3 - Conectar marcas e dinâmicas (locais 2013)
 translation-type: tm+mt
-source-git-commit: ce8b67b8549d23ff4ddd1d341632c6c5ff33990d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 Tudo bem! Instalamos a solução e configuramos o usuário de sincronização. Em seguida, precisamos conectar o Marketing e o Dynamics.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Etapa 1 de 3: Instalar a solução Marketo no Dynamics (2013 On-Premise)](step-1-of-3-install.md)
 >* [Etapa 2 de 3: Configurar usuário de sincronização para o Marketing (2013 On-Premise)](step-2-of-3-configure.md)
