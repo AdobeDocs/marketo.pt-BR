@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: Champion/Challenger - Linha de assunto - Documentos do marketing - Documentação do produto
 title: Campeão/Desafiador - Linha de assunto
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 É possível testar facilmente várias linhas de assunto. Quando o teste terminar, envie emails com o mais eficaz. Aqui está como fazer isso.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Adicionar um campeão/desafiador de e-mail](add-an-email-champion-challenger.md)
 
