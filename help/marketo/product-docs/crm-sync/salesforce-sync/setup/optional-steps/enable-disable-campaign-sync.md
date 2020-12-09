@@ -3,9 +3,9 @@ unique-page-id: 4719289
 description: Ativar/Desativar sincronização de Campanha - Documentos do Marketing - Documentação do produto
 title: Ativar/desativar sincronização de Campanha
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Essa opção permite que o Marketo sincronize sua associação ao programa e seu
 
 Aí está. Basta dar à sincronização algum tempo para obter os dados do Salesforce e você pode ir.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Sincronização SFDC: Sincronização de campanha](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 >* [Definir o sobrenome do cliente potencial padrão e os valores de Empresa](set-default-person-last-name-and-company-name.md)
