@@ -3,9 +3,9 @@ unique-page-id: 2359951
 description: Remover um membro de um Programa de envolvimento - Documentos do marketing - Documentação do produto
 title: Remover um membro de um Programa de envolvimento
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Oops! Como é que essas pessoas entraram lá? Você pode remover membros de um p
 
 Às vezes você só quer pausar pessoas em um programa de envolvimento e não removê-las. Isso é feito com a **Change Engagement Programa Cadence**.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Pausar pessoas em um Programa de envolvimento](pause-people-in-an-engagement-program.md)
 
