@@ -3,9 +3,9 @@ unique-page-id: 10095636
 description: Ativar o No-Draft para Snippets - Documentos do Marketing - Documentação do produto
 title: Ativar Sem rascunho para trechos
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ No-Draft é ativado automaticamente para todas as funções de Administrador. Um
 >
 >Para desativar Sem rascunho, siga as etapas 1 a 4 acima, desmarque a caixa de seleção Sem rascunho e clique em **Salvar**.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Aprovar um trecho sem rascunho](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
 
