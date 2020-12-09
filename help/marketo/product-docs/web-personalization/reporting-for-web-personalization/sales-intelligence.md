@@ -3,9 +3,9 @@ unique-page-id: 10096420
 description: Inteligência de vendas - Documentos do marketing - Documentação do produto
 title: Inteligência de vendas
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Em Configurações [do](/help/marketo/product-docs/web-personalization/getting-s
 >
 >Recomendamos que você configure executivos de vendas com permissão somente para visualização na Personalização da Web do Marketing. Isso significa que eles podem visualização em todas as páginas, mas não podem criar, editar ou excluir nenhum recurso.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Relatórios de email](email-reports.md)
 
