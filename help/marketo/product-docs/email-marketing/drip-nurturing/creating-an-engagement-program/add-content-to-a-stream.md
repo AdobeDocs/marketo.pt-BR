@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: Adicionar conteúdo a um fluxo - Documentos de marketing - Documentação do produto
 title: Adicionar conteúdo a um fluxo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -116,9 +116,7 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
 Ótimo trabalho! Agora você conhece diferentes maneiras de adicionar conteúdo aos seus fluxos de programa. Adicione o máximo que precisar para sua criação. Consulte o artigo relacionado abaixo para obter mais detalhes.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Adicionando um Programa a um fluxo de Programa de envolvimento](adding-a-program-to-an-engagement-program-stream.md)
 
