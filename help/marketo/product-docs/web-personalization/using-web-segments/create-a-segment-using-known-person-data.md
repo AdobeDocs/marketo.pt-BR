@@ -3,9 +3,9 @@ unique-page-id: 7504343
 description: Criar um segmento usando dados de pessoa conhecida - documentos de marketing - documentação do produto
 title: Criar um segmento usando dados de pessoa conhecida
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Veja como criar um segmento usando valores de Dados de pessoa conhecida.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >[Gerenciar dados da pessoa](manage-person-data.md)
 
