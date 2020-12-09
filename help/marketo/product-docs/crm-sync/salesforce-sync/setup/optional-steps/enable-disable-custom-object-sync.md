@@ -3,9 +3,9 @@ unique-page-id: 4719297
 description: Ativar/Desativar sincronização de objetos personalizados - Documentos de marketing - Documentação do produto
 title: Ativar/desativar sincronização de objetos personalizados
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    Excelente! Agora você pode usar os dados desse objeto personalizado em campanhas inteligentes e listas inteligentes.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Adicionar/remover campo de objeto personalizado como restrições de Lista inteligente/acionador](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
