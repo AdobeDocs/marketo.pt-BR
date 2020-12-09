@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: Visão geral do centro de comando - Documentos do marketing - Documentação do produto
 title: Visão geral do centro de comando
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ Por exemplo, se você adicionar 100 pessoas a uma campanha no MSC, talvez você 
 
 Bônus: Se você salvar sua pesquisa avançada, ela funcionará como uma lista dinâmica e adicionará emails que atendem aos critérios de envolvimento assim que o recipient for visualização ou clicar em seu email.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Tarefas](http://docs.marketo.com/x/qwDb)
 >* [Visão geral da pesquisa avançada](http://docs.marketo.com/x/KQM6Ag)
