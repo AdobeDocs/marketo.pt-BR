@@ -3,9 +3,9 @@ unique-page-id: 1147326
 description: Instalar o Marketing Insights para o Google Chrome - Documentos do Marketing - Documentação do produto
 title: Instalar o Marketing Insights para o Google Chrome
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Siga estas etapas para começar a usar o poderoso suplemento do Chrome.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Uso do Marketing Insights para o Google Chrome](using-marketo-insights-for-google-chrome.md)
 
