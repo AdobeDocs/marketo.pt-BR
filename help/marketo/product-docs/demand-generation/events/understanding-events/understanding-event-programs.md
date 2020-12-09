@@ -3,9 +3,9 @@ unique-page-id: 2949841
 description: Noções básicas sobre Programas de Eventos - Documentos do Marketing - Documentação do produto
 title: Noções básicas sobre Programas de Eventos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,7 @@ Os eventos podem se conectar automaticamente ao seu provedor [de](launchpoint-ev
 
 `<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Comece hoje mesmo com estes links úteis:
 >
