@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Segmentos da Web - Documentos do Marketing - Documentação do produto
 title: Segmentos da Web
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '2033'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,7 @@ Na página **Segmentos** , clique em **Criar novo** no gráfico. A tela a seguir
 
 Defina parâmetros gerais para o seu segmento:
 
-1. &#x200B;
+1. 
 
    * **Nome:**  Dê um nome ao seu segmento.
    * **Descrição:**  Forneça uma explicação mais detalhada dos critérios de segmento.
@@ -109,22 +109,24 @@ Defina parâmetros gerais para o seu segmento:
 >
 >1. Usar todos os Filtros (1 e 2 e 3...)
 >1. Usar quaisquer Filtros (1 ou 2 ou 3...)
->1. Filtros avançados (usando e/ou expressão)
->    1. &#x200B;
->
->       Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.
->       * 1 e 2 e 3
->       * 1 ou 2 ou 3
->
->       Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:
->       * 1 e (2 ou 3)
->       * (1 e 2) ou 3
->
->       Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.
->       * (1 e 2) ou (3 e 4)
->       * 1 e 2 ou 3 e 4)
->
->       Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
+>1. Filtros avançados (usando e/ou expressão) >
+   >    1. >    
+   >       
+
+      >Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.  >
+      >        * 1 e 2 e 3
+      >        * 1 ou 2 ou 3
+
+      >
+      Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:  >
+      * 1 e (2 ou 3)
+      * (1 e 2) ou 3
+
+      Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.  >
+      * (1 e 2) ou (3 e 4)
+      * 1 e 2 ou 3 e 4)
+
+      Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
 
 
 
@@ -340,10 +342,9 @@ Não é possível excluir um segmento associado a uma campanha. Primeiro, é nec
 
 Ótimo! Agora que você entende a seção Segmentos, vamos aprender sobre campanhas.
 
->[!NOTE]
-**Artigos relacionados**
+>[!MORELIKETHIS]
 * [Criar um segmento básico da Web](create-a-basic-web-segment.md)
-* [Criar uma nova Campanha da Web de diálogo](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Criar uma nova Campanha da Web de caixa de diálogo](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 * [Criar uma nova Campanha da Web na zona](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 * [Criar uma nova Campanha Web de widget](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
