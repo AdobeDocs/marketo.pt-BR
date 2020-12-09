@@ -2,7 +2,7 @@
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: Minhas ações de token Editar, Excluir, Clonar e Copiar nomes de token
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ## Editar um token
 
-Na guia [!UICONTROL Meus tokens] da pasta ou programa da campanha, clique no [!UICONTROL **Valor**] do token que deseja editar. Isso abrirá a janela do editor.
+Na guia [!UICONTROL Meus tokens] da pasta ou programa da campanha, clique no **[!UICONTROL Valor]** do token que deseja editar. Isso abrirá a janela do editor.
 
 ![Imagem Um](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->Os tokens de texto não têm uma janela de editor separada. Clique no [!UICONTROL **Valor**] para fazer edições em linha.
+>Os tokens de texto não têm uma janela de editor separada. Clique no **[!UICONTROL Valor]** para fazer edições em linha.
 
 ![Imagem dois](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
 ## Excluir um token
 
-1. Clique com o botão direito do mouse no token e selecione [!UICONTROL **Excluir**].
+1. Clique com o botão direito do mouse no token e selecione **[!UICONTROL Excluir]**.
 
    ![Imagem Três](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
-1. Clique em [!UICONTROL **Confirmar**].
+1. Clique em **[!UICONTROL Confirmar]**.
 
    ![Imagem quatro](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-4.png)
 
@@ -40,11 +40,11 @@ Na guia [!UICONTROL Meus tokens] da pasta ou programa da campanha, clique no [!U
 
 ## Clonar um token
 
-1. Para clonar um Meu token, clique nele com o botão direito do mouse e selecione [!UICONTROL **Clonar**].
+1. Para clonar um Meu token, clique nele com o botão direito do mouse e selecione **[!UICONTROL Clonar]**.
 
    ![Imagem cinco](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-5.png)
 
-1. Digite um novo nome para o token de clone, edite se necessário e clique em [!UICONTROL **Salvar**].
+1. Digite um novo nome para o token de clone, edite se necessário e clique em **[!UICONTROL Salvar]**.
 
    ![Imagem seis](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-6.png)
 
