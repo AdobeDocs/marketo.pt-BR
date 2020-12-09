@@ -3,9 +3,9 @@ unique-page-id: 2360389
 description: Tornar um Programa sem um custo por período disponível no Gerenciador de receitas e nos Analisadores - Documentos de marketing - Documentação do produto
 title: Tornar um Programa sem um custo por período disponível no Gerenciador de receita e nos Analisadores
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Alguns programas podem precisar ser incluídos mesmo se não tiverem um custo de
 
 Bom trabalho! Agora, qualquer programa que usa o canal modificado será incluído no explorador de receita e nos analisadores sem a necessidade de um custo por período.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Substituir o comportamento do Analytics no nível do Programa](override-analytics-behavior-at-the-program-level.md)
 
