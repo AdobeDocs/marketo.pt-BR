@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: Enviar alerta - Documentos do marketing - Documentação do produto
 title: Enviar alerta
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ O Marketo pode enviar um alerta por e-mail com informações pessoais para qualq
 
 É isso! Agora você sabe como usar a etapa de fluxo **Enviar alerta** .
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Criar um email](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
