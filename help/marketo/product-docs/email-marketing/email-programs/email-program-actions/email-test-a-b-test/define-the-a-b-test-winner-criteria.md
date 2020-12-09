@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: Defina o critério do vencedor do teste A/B - Documentos do marketing - Documentação do produto
 title: Definir o critério do vencedor do teste A/B
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Ao [adicionar um teste](add-an-a-b-test.md) A/B ao seu programa de email, você precisará selecionar um tipo de teste, [agendar o teste](schedule-the-a-b-test.md)A/B e definir os critérios vencedores. Aqui está como decidir qual e-mail vence.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* [Adicionar um teste A/B](add-an-a-b-test.md)
 
