@@ -3,9 +3,9 @@ unique-page-id: 10095644
 description: Aprovar um trecho sem rascunho - Documentos do marketing - Documentação do produto
 title: Aprovar um trecho sem rascunho
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ Nenhum rascunho é acionado sempre que um snippet é aprovado. Isso inclui um tr
 >
 >Este recurso foi criado para economizar tempo com o fluxo de trabalho de aprovação de fragmento. No entanto, há algumas limitações para se ter em mente. Consulte [este documento](https://nation.marketo.com/docs/DOC-4415) para obter detalhes. O documento também contém informações sobre manipulação e solução de problemas de erros.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Ativar Sem rascunho para trechos](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
 
