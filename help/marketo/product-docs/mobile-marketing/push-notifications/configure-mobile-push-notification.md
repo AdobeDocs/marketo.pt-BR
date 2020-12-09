@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: Configurar notificação por push móvel - Documentos do Marketing - Documentação do produto
 title: Configurar notificação por push móvel
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -101,9 +101,7 @@ Um URI de deep link é composto de três partes: nome do esquema, caminho e iden
 
 Dito isso, a estrutura de deep link do aplicativo pode ser diferente do exemplo acima. Seu desenvolvedor tem muitas opções para definir URIs de deep link, portanto peça ao desenvolvedor para enviar os URIs (links) das páginas que você está interessado em usar. Isso garantirá que os URIs inseridos nas mensagens de push apontem para os locais corretos. Seu desenvolvedor pode [encontrar mais informações aqui](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Enviar uma notificação por push móvel](send-a-mobile-push-notification.md)
 
