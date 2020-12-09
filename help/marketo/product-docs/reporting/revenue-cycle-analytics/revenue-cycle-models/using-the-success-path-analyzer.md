@@ -3,9 +3,9 @@ unique-page-id: 3571886
 description: Usando o Analisador de caminho de sucesso - Documentos de marketing - Documentação do produto
 title: Uso do Analisador de caminho de sucesso
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Use um Analisador de caminho de sucesso para explorar os detalhes específicos que refletem o fluxo (quantidade) e a velocidade (velocidade, em termos de dias) das pessoas nos estágios do Modelo [de ciclo de](understanding-revenue-models.md)receita.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >[Criar um analisador de caminho bem-sucedido](create-a-success-path-analyzer.md)
 
