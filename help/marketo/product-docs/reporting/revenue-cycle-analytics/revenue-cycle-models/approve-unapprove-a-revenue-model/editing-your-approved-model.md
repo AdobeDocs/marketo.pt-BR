@@ -3,9 +3,9 @@ unique-page-id: 5472402
 description: Edição do modelo aprovado - Documentos do marketing - Documentação do produto
 title: Editando o modelo aprovado
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 Você só pode ter um modelo aprovado por vez. Se quiser aprovar um modelo, mas já tiver um aprovado, você precisará cancelar a aprovação do modelo atual primeiro. Se possível, tente editar seu modelo em vez de criar um novo.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Criar um novo modelo de receita](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
