@@ -3,9 +3,9 @@ unique-page-id: 2359665
 description: Definir cadência de fluxo - Documentos do marketing - Documentação do produto
 title: Definir cadência de fluxo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
 
 Agora você sabe como configurar uma cadência de córrego!
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Noções básicas sobre o fuso horário do Recipient](../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Agendar Programas de envolvimento com fuso horário do Recipient](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
