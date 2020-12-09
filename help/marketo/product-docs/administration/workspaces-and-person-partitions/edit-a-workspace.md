@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Editar um espaço de trabalho - Documentos do marketing - Documentação do produto
 title: Editar um espaço de trabalho
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
    >
    >Não é possível alterar a linguagem do espaço de trabalho.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar um novo espaço de trabalho](create-a-new-workspace.md)
 >* [Como entender espaços de trabalho e partições de pessoas](understanding-workspaces-and-person-partitions.md)
