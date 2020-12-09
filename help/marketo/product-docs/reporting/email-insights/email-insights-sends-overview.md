@@ -3,9 +3,9 @@ unique-page-id: 10099413
 description: Visão geral de envios de insights de email - Documentos de marketing - Documentação do produto
 title: Visão geral de envios de insights de email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Se você quiser visualização as estatísticas de seu email no Analytics, passe
 
 Coisa legal!
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Visão geral do email Insights do Analytics](email-insights-analytics-overview.md)
 
