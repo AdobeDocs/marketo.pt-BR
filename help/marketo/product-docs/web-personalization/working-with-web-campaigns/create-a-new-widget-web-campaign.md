@@ -3,9 +3,9 @@ unique-page-id: 4719402
 description: Criar uma nova Campanha da Web de widget - Documentos do Marketing - Documentação do produto
 title: Criar uma nova Campanha Web de widget
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---
@@ -125,9 +125,7 @@ Na página Campanhas da Web, clique em **Pré-visualização** na campanha da We
 
 1. Uma mensagem de confirmação é exibida para confirmar se você deseja excluir a campanha da Web.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar uma nova Campanha da Web na zona](create-a-new-in-zone-web-campaign.md)
 >* [Criar uma nova Campanha da Web de caixa de diálogo](create-a-new-dialog-web-campaign.md)
