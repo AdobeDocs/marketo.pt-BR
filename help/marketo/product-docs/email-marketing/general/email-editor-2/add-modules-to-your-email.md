@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: Adicionar módulos ao seu email - Documentos do Marketing - Documentação do produto
 title: Adicionar módulos ao seu email
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Há duas maneiras de mover um módulo.
 
 Isso é tudo o que há a fazer.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Sintaxe do modelo de email](email-template-syntax.md)
 
