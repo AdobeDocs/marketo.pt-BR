@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Nova descoberta de conta - Documentos do Marketing - Documentação do produto
 title: Nova descoberta de conta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 A Nova Detecção de Conta pode ajudá-lo a encontrar novas contas para o público alvo, usando as recomendações do seu perfil de cliente ideal, alimentadas por AI.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >[Configurar o perfil da conta](http://docs.marketo.com/x/FgAKAQ)
 
