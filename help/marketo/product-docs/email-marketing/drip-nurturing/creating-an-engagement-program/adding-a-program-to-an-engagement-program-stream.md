@@ -3,9 +3,9 @@ unique-page-id: 10098134
 description: Adicionar um Programa a um fluxo de Programa de envolvimento - Documentos do marketing - Documentação do produto
 title: Adicionando um Programa a um fluxo de Programa de envolvimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Alterações no relatórios com o local do email. Assim, por exemplo, se o email
 >
 >Se você quiser reenviar algo, é mais seguro criar um novo programa e campanha inteligente.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Adicionar conteúdo a um fluxo](add-content-to-a-stream.md)
 >* [Como entender Programas](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
