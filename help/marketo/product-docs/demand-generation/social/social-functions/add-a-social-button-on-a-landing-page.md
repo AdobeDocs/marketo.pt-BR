@@ -3,9 +3,9 @@ unique-page-id: 2359757
 description: Adicionar um botão Social em uma Landing page - Documentos do Marketing - Documentação do produto
 title: Adicionar um botão Social em uma Landing page
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ Parabéns! Você adicionou um botão social à sua landing page. Certifique-se d
 >
 >Para economizar tempo, use a opção **Clonar de** para copiar todas as configurações de um botão social existente.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >Você terminou, mas pode alterar as configurações do seu botão social, se necessário. Start de [personalizar o estilo](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) do botão e [editar as mensagens](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) de compartilhamento que ele apresenta.
