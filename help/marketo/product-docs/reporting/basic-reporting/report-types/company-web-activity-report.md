@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Relatório de Atividade da Web de empresa - Documentos do Marketing - Documentação do produto
 title: Relatório de Atividade da Web de empresa
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Veja quais empresas estão visitando seu site. Você pode optar por exibir visit
 
 Crie um relatório [de Atividade de página](web-page-activity-report.md) da Web para ver as pessoas individuais que estão visitando seu site.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >Para capturar atividades de seu site em Marketo, primeiro é necessário configurar [Munchkin em seu site](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
