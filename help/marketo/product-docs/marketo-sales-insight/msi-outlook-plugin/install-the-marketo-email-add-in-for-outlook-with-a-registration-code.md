@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Instale o suplemento de email do Marketo para Outlook com um código de registro - documentos do Marketo - documentação do produto
 title: Instale o suplemento de email do Marketo para Outlook com um código de registro
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Se os usuários puderem acessar as configurações de administrador em seus lapt
 
 Se você não recebeu um email de convite, peça ao administrador do Marketing para convidá-lo.
 
->[!NOTE]
->
->**Pré-requisitos**
+>[!PREREQUISITES]
 >
 >* Você deve receber uma [Licença](issue-a-marketo-email-add-in-license.md)de suplemento por email do Marketo.
 
