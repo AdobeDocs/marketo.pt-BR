@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: Configurar o botão Mensagem no aplicativo - Documentos do marketing - Documentação do produto
 title: Configurar o botão Mensagem no aplicativo
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Você pode usar o design de botão padrão, modificá-lo ou fazer upload de sua 
 
 Quase lá. Seu último passo é para .
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Como entender as mensagens no aplicativo](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Escolha um layout para sua mensagem no aplicativo](choose-a-layout-for-your-in-app-message.md)
