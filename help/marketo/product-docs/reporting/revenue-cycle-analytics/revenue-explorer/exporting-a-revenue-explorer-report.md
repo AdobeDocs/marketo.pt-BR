@@ -3,9 +3,9 @@ unique-page-id: 7504749
 description: Exportar um relatório do Explorer de receita - Documentos do marketing - Documentação do produto
 title: Exportar um relatório do Explorador de Receita
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,7 @@ Você pode exportar qualquer relatório do explorador de receita e compartilhá-
 
    Doce! Envie este arquivo e impressione seus colegas com suas habilidades de marketing semelhantes a ninja.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Inscrever-se em um Relatório do Gerenciador de Receita](subscribe-to-a-revenue-explorer-report.md)
 
