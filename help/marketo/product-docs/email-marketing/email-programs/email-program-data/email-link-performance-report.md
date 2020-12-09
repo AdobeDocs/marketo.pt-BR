@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: Relatório de desempenho do link de email - Documentos do marketing - Documentação do produto
 title: Relatório de desempenho do link de email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
 >
 >Se quiser saber exatamente o que uma pessoa fez, abra o Log [de](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) Atividades na página Detalhes [da](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) pessoa na guia Membros do programa.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Relatório de desempenho de email](email-performance-report.md)
 >* [Filtrar ativos em um relatório de email](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
