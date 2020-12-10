@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: Lista de verificação da configuração - Documentos do marketing - Documentação do produto
 title: Lista de verificação da configuração
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lista de verificação da configuração {#setup-checklist}
 
-Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verificação como uma lista visual para fazer as coisas começarem. Detalhes podem ser encontrados em Etapas [de configuração](../../getting-started/setup-steps.md).
+Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verificação como uma lista visual para fazer as coisas começarem. Detalhes podem ser encontrados em Etapas [de configuração](/help/marketo/getting-started/setup-steps.md).
 
 ## Faça logon no Marketo e crie usuários adicionais {#log-in-to-marketo-and-create-additional-users}
 
@@ -34,7 +34,7 @@ Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verifica
 1. Solicitar que a TI configure um registro DNS para seu CNAME de email
 1. Solicite à TI que lista de permissões o Marketing
 1. Configurar DKIM e SPF na área de administração
-1. Configurar MX para [FromDomain1]
+1. Configurar MX para `[FromDomain1]`
 1. Quando terminar de usar o e-mail CNAME, configure seu e-mail CNAME no Marketo
 
 ## Enviar um URL para modelos de Landing page e email {#submit-a-url-for-landing-page-and-email-templates}
@@ -51,5 +51,4 @@ Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verifica
 
 >[!MORELIKETHIS]
 >
->[Etapas de configuração](../../getting-started/setup-steps.md)
-
+>[Etapas de configuração](/help/marketo/getting-started/setup-steps.md)
