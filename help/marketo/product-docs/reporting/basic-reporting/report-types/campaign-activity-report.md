@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: Relatório de Atividade de campanha - Documentos do Marketing - Documentação do produto
 title: Relatório de Atividade de campanha
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Relatório de Atividade de campanha {#campaign-activity-report}
 
 Veja o desempenho de suas campanhas [](http://docs.marketo.com/display/docs/smart+campaigns) inteligentes.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. [Crie um relatório](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o tipo de **relatório de Atividade** de [Campanha](report-type-overview.md).
 1. [Defina o período do relatório](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **Relatório** .
