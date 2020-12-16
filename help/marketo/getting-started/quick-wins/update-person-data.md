@@ -3,9 +3,9 @@ unique-page-id: 2359426
 description: Atualizar dados da pessoa - Documentos do marketing - Documentação do produto
 title: Atualizar dados da pessoa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## Missão: Atualizar informações de contato de uma pessoa ou outros dados {#mission-update-a-persons-contact-info-or-other-data}
 
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](get-set-up-and-add-a-person.md)
->* [Importar uma Lista de pessoas](import-a-list-of-people.md)
-
->
-
+>* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Importar uma Lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 Vamos imaginar que na sua apresentação comercial recente, uma pessoa lhe deu algumas informações de contato adicionais. Veja como atualizar os dados pessoais.
@@ -52,7 +43,7 @@ Vamos imaginar que na sua apresentação comercial recente, uma pessoa lhe deu a
 
    >[!TIP]
    >
-   >Há muitas maneiras de atualizar os dados pessoais no Marketo. Consulte [Importar uma Lista de Pessoas](import-a-list-of-people.md) e [Alterar valor](../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)de dados.
+   >Há muitas maneiras de atualizar os dados pessoais no Marketo. Consulte [Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) e [Alterar valor](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)de dados.
 
 ## Atualizar os dados da pessoa {#update-the-person-data}
 
@@ -70,4 +61,6 @@ Bom trabalho! Você atualizou seus dados pessoais.
 
 <br> 
 
-[◄ Missão 8: Alerte a](alert-the-sales-rep.md) Missão do Representante [de Vendas 10: Redirecionar uma Landing page ►](redirect-a-landing-page.md)
+[◄ Missão 8: Alertar o representante de vendas](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+
+[Missão 10: Redirecionar uma Landing page ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
