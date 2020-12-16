@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: Editar regras de qualificação em uma Campanha inteligente - Documentos de marketing - Documentação do produto
 title: Editar regras de qualificação em uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Editar regras de qualificação em uma Campanha inteligente {#edit-qualification-rules-in-a-smart-campaign}
 
 As regras de qualificação controlam quantas vezes alguém pode executar o fluxo em uma campanha inteligente. Por padrão, mesmo se alguém acionar uma campanha inteligente várias vezes, eles só serão enviados pelo fluxo uma vez. Veja como modificar essas configurações.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Na sua campanha inteligente, clique na guia **Agendamento** e em **Editar configurações**.
 
