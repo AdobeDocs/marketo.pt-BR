@@ -3,21 +3,15 @@ unique-page-id: 1146950
 description: Espera - Documentos do Marketing - Documentação do produto
 title: Aguardar
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # Aguardar {#wait}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 ## Visão geral {#overview}
 
