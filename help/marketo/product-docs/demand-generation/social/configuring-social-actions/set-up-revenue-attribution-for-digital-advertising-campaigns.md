@@ -3,21 +3,15 @@ unique-page-id: 10098812
 description: Configurar atribuição de receita para Campanhas de publicidade digital - Documentos do marketing - Documentação do produto
 title: Configurar atribuição de receita para Campanhas de publicidade digital
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
 
 
 # Configurar atribuição de receita para Campanhas de publicidade digital {#set-up-revenue-attribution-for-digital-advertising-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Veja como configurar a atribuição de receita para canais e campanhas de publicidade digital. Depois de configurá-lo, você pode fazer a atribuição de receita de primeiro toque e multitoque para anúncios digitais da mesma forma que em outros programas de marketing.
 
