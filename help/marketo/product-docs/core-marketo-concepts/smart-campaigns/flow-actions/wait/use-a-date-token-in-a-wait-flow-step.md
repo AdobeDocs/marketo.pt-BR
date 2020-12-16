@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: Usar um token de data em uma etapa de fluxo de espera - Documentos do Marketing - Documentação do produto
 title: Usar um token de data em uma etapa de fluxo de espera
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Usar um token de data em uma etapa de fluxo de espera {#use-a-date-token-in-a-wait-flow-step}
 
 Você pode usar a etapa de fluxo de Espera para pausar a jornada de uma pessoa por uma campanha inteligente até uma data específica que usa um token de data. Você também pode modificar a data final em alguns dias.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
