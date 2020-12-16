@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Noções básicas sobre Campanhas inteligentes em lote e acionador - Documentos do Marketing - Documentação do produto
 title: Noções básicas sobre Campanhas inteligentes em lote e acionador
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Noções básicas sobre Campanhas inteligentes em lote e acionador {#understanding-batch-and-trigger-smart-campaigns}
 
 Há dois tipos de campanhas inteligentes: Lote e Acionador.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Campanha inteligente em lote {#batch-smart-campaign}
 
