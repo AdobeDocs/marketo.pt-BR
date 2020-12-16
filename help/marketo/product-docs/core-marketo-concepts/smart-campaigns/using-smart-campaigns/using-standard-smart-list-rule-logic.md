@@ -3,9 +3,9 @@ unique-page-id: 1147001
 description: Usando a lógica padrão da regra de Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Usando a lógica da regra de Lista inteligente padrão
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Usando a lógica da regra de Lista inteligente padrão {#using-standard-smart-list-rule-logic}
 
 Você pode ter notado a opção &quot;Usar filtros&quot; ao criar listas inteligentes de campanha. Essa configuração permite que você decida se os filtros precisam ser avaliados com um operador E ou OU.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ![](assets/image2014-9-22-14-3a12-3a42.png)
 
