@@ -3,21 +3,15 @@ unique-page-id: 2953465
 description: Sincronização SFDC - Converter um cliente potencial em um contato no Salesforce - Documentos do Marketing - Documentação do produto
 title: Sincronização SFDC - Convertendo um cliente potencial em um contato no Salesforce
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
 
 # Sincronização SFDC: Convertendo um cliente potencial em um contato no Salesforce {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Imaginem três cenários diferentes em Salesforce: (não está usando a etapa [de fluxo](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) Converter pessoa em Marketo)
 
