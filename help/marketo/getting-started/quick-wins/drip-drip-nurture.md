@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Drip, Ensino - Documentos do Marketing - Documentação do produto
 title: Derramamento, Derramamento, Enfermeira
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,10 @@ ht-degree: 0%
 
 Você pode criar facilmente um sistema de criação avançado e sofisticado em Marketo. Veja como!
 
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](get-set-up-and-add-a-person.md)
->* [Importar uma Lista de pessoas](import-a-list-of-people.md)
-
->
-
+>* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Importar uma Lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 ## Etapa 1: Criar um Programa de envolvimento {#step-create-an-engagement-program}
@@ -68,7 +59,7 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    >[!NOTE]
    >
-   >Não vê o editor de email? Seu navegador provavelmente bloqueou a janela. Ative pop-ups de [app.marketo.com](http://app.marketo.com) no seu navegador e clique em **Editar rascunho** na barra de menus superior.
+   >Não vê o editor de email? Seu navegador provavelmente bloqueou a janela. Ative pop-ups de [app.marketo.com](https://app.marketo.com) no seu navegador e clique em **Editar rascunho** na barra de menus superior.
 
 1. Insira um assunto.
 
@@ -92,9 +83,6 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
    >Não se esqueça de aprovar seus emails ou não poderá ativá-los mais tarde.
 
 1. Agora, crie outro email repetindo as ações da Etapa 2.
@@ -104,6 +92,7 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 ## Etapa 3: Adicionar conteúdo ao seu fluxo {#step-add-content-to-your-stream}
 
 1. Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento usando os emails criados.
+
 1. Selecione seu programa de envolvimento e clique na guia **Streams** .
 
    ![](assets/fourteen-2.png)
@@ -114,11 +103,11 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    >[!TIP]
    >
-   >Você também pode usar o botão **Adicionar conteúdo** ou o ícone de fluxo **+ **.
+   >Você também pode usar o botão **Adicionar conteúdo** ou o ícone de fluxo **+** .
 
 ## Etapa 4: Ativar conteúdo de fluxo {#step-activate-stream-content}
 
-1. Ative todo o conteúdo de uma só vez clicando no ícone de engrenagem de fluxo e, em seguida, clique em **Ativar todo o conteúdo** .
+1. Ative todo o conteúdo de uma só vez clicando no ícone de engrenagem de fluxo e, em seguida, clique em **Ativar todo o conteúdo**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -134,7 +123,7 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    ![](assets/seventeen.png)
 
-1. Edite as configurações para que correspondam ao agendamento desejado e clique em **SALVAR**.
+1. Edite as configurações para que correspondam ao agendamento desejado e clique em **Salvar**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -167,15 +156,15 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
    ![](assets/twenty-two.png)
 
 1. Missão concluída!
+
 1. Você deve receber e-mail no momento e cadência especificados.
 
    >[!NOTE]
    >
-   >**Mergulho profundo**
-   >
-   >
-   >Saiba mais sobre os Programas [de](http://docs.marketo.com/display/docs/drip+nurturing)envolvimento.
+   >Saiba mais sobre os Programas [de](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)envolvimento.
 
 <br> 
 
-[◄ Missão 5: Importe uma Lista da](import-a-list-of-people.md) Missão Principal [7: Personalizar um email ►](personalize-an-email.md)
+[◄ Missão 5: Importar uma Lista de clientes potenciais](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+
+[Missão 7: Personalizar um email ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
