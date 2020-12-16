@@ -3,9 +3,9 @@ unique-page-id: 1146968
 description: Resultados da Campanha inteligente da visualização - Documentos do marketing - Documentação do produto
 title: Resultados da Campanha inteligente da visualização
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Resultados da Campanha inteligente da visualização {#view-smart-campaign-results}
 
 Quer ver um detalhamento de tudo que aconteceu em uma campanha inteligente? É fácil, é assim.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Em sua campanha inteligente, clique em **Resultados**.
 
