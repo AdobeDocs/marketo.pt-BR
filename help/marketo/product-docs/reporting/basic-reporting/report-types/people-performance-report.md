@@ -3,9 +3,9 @@ unique-page-id: 2360014
 description: Relatório de desempenho de pessoas - Documentos de marketing - Documentação do produto
 title: Relatório de desempenho de pessoas
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Relatório de desempenho de pessoas {#people-performance-report}
 
 Use um Relatório de desempenho de pessoas para medir o crescimento do banco de dados ao longo do tempo. Você pode ver quantas pessoas você adicionou e quando. Saiba mais sobre as pessoas e avalie seus programas. Agrupe os resultados por qualquer pessoa ou atributo de empresa ou por [segmentação](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. [Crie um relatório](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o tipo de **relatório Desempenho** de [pessoas](report-type-overview.md).
 1. [Defina o período do relatório](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **Relatório** .
