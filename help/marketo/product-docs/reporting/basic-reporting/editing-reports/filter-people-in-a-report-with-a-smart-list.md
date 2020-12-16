@@ -3,9 +3,9 @@ unique-page-id: 2360016
 description: Filtrar pessoas em um relatório com uma Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Filtrar pessoas em um relatório com uma Lista inteligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Filtrar pessoas em um relatório com uma Lista inteligente {#filter-people-in-a-report-with-a-smart-list}
 
 Use listas inteligentes para filtrar seus relatórios por atributos de pessoa específicos.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Você pode usar listas inteligentes com estes tipos de relatório:
 
