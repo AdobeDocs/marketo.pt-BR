@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: Limpeza automática da Campanha do acionador - Documentos do marketing - Documentação do produto
 title: Limpeza automática da Campanha do acionador
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Limpeza automática da Campanha do acionador {#automatic-trigger-campaign-cleanup}
 
 O Marketo tem um serviço legal/gratuito para desativar campanhas inteligentes acionadas que não têm mais atividade. Isso acelera o desempenho geral do sistema e economiza tempo.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## O que acontece? {#what-happens}
 
