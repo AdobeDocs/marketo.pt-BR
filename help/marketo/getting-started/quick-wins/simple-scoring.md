@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: Pontuação simples - Documentos do marketing - Documentação do produto
 title: Pontuação simples
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,10 @@ ht-degree: 0%
 
 # Pontuação simples {#simple-scoring}
 
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
 >* [Configurar e adicionar uma pessoa](get-set-up-and-add-a-person.md)
 >* [landing page com um formulário](landing-page-with-a-form.md)
-
->
-
 
 
 ## Etapa 1: Criar uma Campanha de Pontuação {#step-create-a-scoring-campaign}
@@ -68,11 +59,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se você concluiu a [Landing page com uma vitória rápida do formulário](landing-page-with-a-form.md) , é necessário ter o formulário. Se você usou um nome diferente para o formulário, selecione-o.
+   >Se você concluiu a [Landing page com uma vitória rápida do formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) , é necessário ter o formulário. Se você usou um nome diferente para o formulário, selecione-o.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Clique na guia **Fluxo **guia.
+1. Clique na guia **Fluxo** .
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
@@ -86,7 +77,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Boas campanhas de pontuação são fundamentais para fornecer pessoas de alta qualidade para o setor de Vendas. Leia [**o Guia Definitivo para Pontuação**](http://www.marketo.com/definitive-guides/lead-scoring/)de Chumbo.
+   >Boas campanhas de pontuação são fundamentais para fornecer pessoas de alta qualidade para o setor de Vendas. Leia [**o Guia Definitivo para Pontuação**](https://www.marketo.com/definitive-guides/lead-scoring/)de Chumbo.
 
 1. Clique na guia **Agendamento** e no botão **Ativar** .
 
@@ -102,7 +93,7 @@ ht-degree: 0%
 
 ## Etapa 2: Preencha o formulário {#step-fill-out-the-form}
 
-1. Selecione a landing page criada na [Landing page com uma vitória rápida do formulário](landing-page-with-a-form.md) .
+1. Selecione a landing page criada na [Landing page com uma vitória rápida do formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
 
    ![](assets/fourteen-1.png)
 
@@ -110,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. Preencha o formulário com seu nome, sobrenome e endereço de email e clique em **Enviar** .
+1. Preencha o formulário com seu nome, sobrenome e endereço de email e clique em **Enviar**.
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 
@@ -137,4 +128,6 @@ Os detalhes pessoais serão abertos em uma nova guia ou janela. Veja como sua po
 ![](assets/twenty.png)
 
 **Parabéns!** Você criou uma campanha de pontuação.
-[◄ Missão 2: landing page com uma](landing-page-with-a-form.md) Missão de Formulários [4: Resposta automática por email ►](email-auto-response.md)
+[◄ Missão 2: landing page com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+
+[Missão 4: Resposta automática por email ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
