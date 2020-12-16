@@ -3,9 +3,9 @@ unique-page-id: 5472615
 description: Entendendo os campos gerenciados pelo sistema - Documentos do Marketing - Documentação do produto
 title: Noções básicas sobre campos gerenciados pelo sistema
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Noções básicas sobre campos gerenciados pelo sistema {#understanding-system-managed-fields}
 
 Você pode ter notado que a página [de detalhes da](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) pessoa tem uma série de campos não editáveis criados pelo Marketo. Esses dados vêm de várias fontes, e há inúmeros valores que podem ser exibidos.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Tipos de campo {#field-types}
 
