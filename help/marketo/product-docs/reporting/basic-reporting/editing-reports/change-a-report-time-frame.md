@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: Alterar um período de relatório - Documentos do marketing - Documentação do produto
 title: Alterar um período de tempo de relatório
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Alterar um período de tempo de relatório {#change-a-report-time-frame}
 
 Altere o período coberto pelo relatório para focar em um horário específico da atividade.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Vá para a área **Atividades** de marketing (ou **Analytics**).
 
