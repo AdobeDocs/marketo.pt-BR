@@ -3,9 +3,9 @@ unique-page-id: 2953417
 description: Como entender o conteúdo dinâmico - documentos do Marketing - Documentação do produto
 title: Como entender o conteúdo dinâmico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Como entender o conteúdo dinâmico {#understanding-dynamic-content}
 
 Há muito mais para personalização do que apenas &quot;Oi `{{First Name}}`&quot;. Com o conteúdo dinâmico do Marketo, você pode personalizar o modo como pessoas diferentes veem uma landing page ou email.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ![](assets/artboard-1.png)
 
