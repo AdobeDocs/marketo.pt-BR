@@ -3,21 +3,15 @@ unique-page-id: 1146987
 description: Excluir uma etapa de fluxo - Documentos do marketing - Documentação do produto
 title: Excluir uma Etapa de Fluxo
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
 
 # Excluir uma Etapa de Fluxo {#delete-a-flow-step}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!CAUTION]
 >
