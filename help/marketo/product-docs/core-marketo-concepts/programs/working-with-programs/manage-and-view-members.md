@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: Gerenciar e Visualização membros - Documentos do Marketing - Documentação do produto
 title: Gerenciar e Visualização membros
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Gerenciar e Visualização membros {#manage-and-view-members}
 
 Você pode gerenciar e visualização seus membros em seus programas usando a guia Membros.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
