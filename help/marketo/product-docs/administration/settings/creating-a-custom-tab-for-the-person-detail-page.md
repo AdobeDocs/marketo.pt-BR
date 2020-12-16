@@ -3,21 +3,15 @@ unique-page-id: 2360305
 description: Criar uma guia personalizada para a página de detalhes da pessoa - Documentos de marketing - Documentação do produto
 title: Criando uma guia personalizada para a página Detalhes da pessoa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Criando uma guia personalizada para a página Detalhes da pessoa {#creating-a-custom-tab-for-the-person-detail-page}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Se você encontrar um conjunto específico de campos nos detalhes da pessoa repetidamente, considere criar um layout personalizado para facilitar as coisas.
 
