@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossário do Marketo - Documentos do Marketo - Documentação do produto
 title: Glossário de marketing
 translation-type: tm+mt
-source-git-commit: ca1f8ba28b3e3c096a86fe4c1ba8c96529b97b84
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -482,7 +482,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   </tr> 
   <tr> 
    <td><strong>Chumbo</strong></td> 
-   <td>No <strong>Marketo Engage</strong>, o lead é o termo anterior (<a href="/help/marketo/getting-started/updates-to-marketo-terminology.md" rel="nofollow">substituído por <strong>pessoa</strong></a>) usado para descrever um indivíduo em seu <strong>banco de dados</strong> do Marketo com o qual você está se relacionando por meio de suas campanhas de marketing. Em seu <strong>CRM</strong>, um cliente potencial pode representar um conceito diferente (ou seja, um indivíduo associado a uma <strong>oportunidade</strong>) independentemente da funcionalidade do Marketo.</td> 
+   <td>No <strong>Marketo Engage</strong>, o lead é o termo anterior (substituído por <strong>pessoa</strong>) usado para descrever um indivíduo no seu <strong>banco de dados</strong> do Marketo com o qual você está se relacionando por meio de suas campanhas de marketing. Em seu <strong>CRM</strong>, um cliente potencial pode representar um conceito diferente (ou seja, um indivíduo associado a uma <strong>oportunidade</strong>) independentemente da funcionalidade do Marketo.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Banco de dados principal</strong></td> 
