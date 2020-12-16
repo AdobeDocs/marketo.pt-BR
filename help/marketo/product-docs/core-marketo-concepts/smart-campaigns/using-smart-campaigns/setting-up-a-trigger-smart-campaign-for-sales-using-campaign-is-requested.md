@@ -3,9 +3,9 @@ unique-page-id: 7514898
 description: Configuração de uma Campanha inteligente de acionador para vendas usando "Campanha é solicitada" - Documentos de marketing - Documentação do produto
 title: Configurando uma Campanha inteligente de acionador para vendas usando "Campanha é solicitada"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Configurando uma Campanha inteligente de acionador para vendas usando &quot;Campanha é solicitada&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 Um dos recursos mais interessantes do Marketo é a capacidade de permitir que as pessoas de vendas participem do esforço de marketing. Eles estão nas linhas de frente, interagindo com as pessoas. Os representantes de vendas devem ter a capacidade de direcionar o marketing na direção certa.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
