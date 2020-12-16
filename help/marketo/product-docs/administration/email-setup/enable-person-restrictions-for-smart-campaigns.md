@@ -3,21 +3,15 @@ unique-page-id: 2360243
 description: Habilitar restrições de pessoa para Campanhas inteligentes - Documentos de marketing - Documentação do produto
 title: Ativar restrições de pessoa para Campanhas inteligentes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
 
 # Ativar restrições de pessoa para Campanhas inteligentes {#enable-person-restrictions-for-smart-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Há um recurso em Marketo para limitar o ***máximo ***número de pessoas que podem se qualificar para uma campanha inteligente. Isso evita enviar acidentalmente seu banco de dados por email.
 
