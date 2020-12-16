@@ -3,9 +3,9 @@ unique-page-id: 2359416
 description: Resposta automática por email - Documentos de marketing - Documentação do produto
 title: Resposta automática por email
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## Missão: Enviar um email de agradecimento quando uma pessoa preencher um formulário {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](get-set-up-and-add-a-person.md)
->* [landing page com um formulário](landing-page-with-a-form.md)
-
->
-
+>* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [landing page com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
 ## Etapa 1: Criar um email {#step-create-an-email}
@@ -48,13 +39,13 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   Um editor de email será aberto em uma nova janela ou guia. Se as pop-ups estiverem bloqueadas, clique em** Editar rascunho** na página de resumo do ativo para acessar o e-mail.
+   Um editor de email será aberto em uma nova janela ou guia. Se as pop-ups estiverem bloqueadas, clique em **Editar rascunho** na página de resumo do ativo para acessar o email.
 
 1. Digite uma linha de assunto e clique com o duplo na área editável do e-mail.
 
    ![](assets/five-2.png)
 
-   Um editor de Rich Text será aberto sobre o editor de email.
+   _Um editor de Rich Text será aberto sobre o editor de email._
 
 1. Realce o conteúdo do email existente.
 
@@ -82,39 +73,41 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Vá para a guia **Lista inteligente **I.
+1. Vá para a guia **Lista** inteligente.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Estamos configurando essa campanha para ser executada sempre que uma pessoa preencher o formulário criado em [**Landing page com um Formulário**](landing-page-with-a-form.md).
+   Estamos configurando essa campanha para ser executada sempre que uma pessoa preencher o formulário criado em [**Landing page com um Formulário**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
 1. Localize e arraste o acionador de formulário **** Preenchimentos para fora até a tela esquerda.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Selecione **Meu formulário** no menu suspenso. Clique na guia **Fluxo **guia.
+1. Selecione **Meu formulário** no menu suspenso. Clique na guia **Fluxo** .
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Arraste a ação **Enviar email **fluxo para a tela esquerda.
+1. Arraste a ação de fluxo de **Enviar e-mail** para a tela esquerda.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Selecione seu Email **de resposta** automática e vá para a guia **Agendamento **s.
+1. Selecione seu Email **de resposta** automática e vá para a guia **Agendamento** .
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
 1. Clique em **Editar**.
 
    ![](assets/8.png)
-Selecione sempre e clique em Salvar.
+
+1. Selecione **sempre** e clique em **Salvar**.
+
    ![](assets/9.png)
 
 1. Clique em **Ativar**.
 
    ![](assets/10.png)
 
-1. Clique em **Ativar **na tela de confirmação.
+1. Clique em **Ativar** na tela de confirmação.
 
    ![](assets/11.png)
 
@@ -124,7 +117,7 @@ Selecione sempre e clique em Salvar.
 
 ## Etapa 3: Preencha o formulário {#step-fill-out-the-form}
 
-1. Selecione **Minha página**. Isso foi criado na [Landing page com uma vitória rápida do Formulário](landing-page-with-a-form.md) .
+1. Selecione **Minha página**. Isso foi criado na [Landing page com uma vitória rápida do Formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -148,4 +141,6 @@ Em apenas alguns minutos você deverá ver o e-mail de resposta automática na s
 
 <br> 
 
-[◄ Missão 3: Simple Scoring](simple-scoring.md) [Mission 5: Importe uma Lista de clientes potenciais ►](import-a-list-of-people.md)
+[◄ Missão 3: Pontuação simples](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+
+[Missão 5: Importe uma Lista de clientes potenciais ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
