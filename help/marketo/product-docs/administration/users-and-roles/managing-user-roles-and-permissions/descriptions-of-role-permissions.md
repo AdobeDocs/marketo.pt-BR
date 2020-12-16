@@ -3,21 +3,15 @@ unique-page-id: 6848747
 description: Descrições de permissões de função - Documentos de marketing - Documentação do produto
 title: Descrições de permissões de função
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1154'
 ht-degree: 0%
 
 ---
 
 
 # Descrições de permissões de função {#descriptions-of-role-permissions}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Abaixo está uma lista de todas as permissões disponíveis que você pode atribuir às suas funções. As permissões são geralmente associadas a áreas funcionais específicas dentro do Marketo e podem ajudá-lo a controlar as áreas e funcionalidades às quais os diferentes usuários têm acesso.
 
