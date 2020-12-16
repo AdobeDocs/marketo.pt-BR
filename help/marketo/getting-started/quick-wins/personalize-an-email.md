@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: Personalizar um e-mail - Documentos do Marketing - Documentação do produto
 title: Personalizar um email
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,16 @@ ht-degree: 0%
 
 ## Missão: Torne seus emails pessoais adicionando tokens de dados {#mission-make-your-emails-personal-by-adding-data-tokens}
 
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](get-set-up-and-add-a-person.md)
->* [Enviar uma Explosão de Email](send-an-email.md)
->* [Derramamento, Derramamento, Enfermeira](drip-drip-nurture.md)
+>* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Enviar uma Explosão de Email](/help/marketo/getting-started/quick-wins/send-an-email.md)
+>* [Derramamento, Derramamento, Enfermeira](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
 ## Etapa 1: Selecione um email para personalizar {#step-select-an-email-to-personalize}
 
-1. Selecione um dos emails de criação criados na vitória [rápida](drip-drip-nurture.md) anterior e clique em **Editar rascunho**.
+1. Selecione um dos emails de criação criados na vitória [rápida](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) anterior e clique em **Editar rascunho**.
 
    ![](assets/one-4.png)
 
@@ -38,9 +32,7 @@ ht-degree: 0%
    >
    >Isso cria uma cópia do email como rascunho. Você deve aprovar o rascunho para que as alterações entrem em vigor.
 
-   **Editar rascunho**
-
-Se você não tiver ativado um bloqueador de pop-ups, o editor de e-mail será aberto em uma nova guia/janela. Caso contrário, clique duas vezes.
+Se você não tiver ativado um bloqueador de pop-ups, o editor de e-mail será aberto em uma nova guia/janela. Caso contrário, clique duas vezes em **Editar rascunho** .
 
 ## Etapa 2: Transformar o vendedor no remetente {#step-make-the-salesperson-the-sender}
 
@@ -108,11 +100,7 @@ Se você não tiver ativado um bloqueador de pop-ups, o editor de e-mail será a
 
 >[!TIP]
 >
->Precisa de uma atualização rápida sobre como enviar o e-mail para você mesmo? Consulte [Enviar uma explosão](send-an-email.md)de email.
-
-### Assistir a um vídeo {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/iRnqxMyJg6VKyuPeuxmHFb.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>Precisa de uma atualização rápida sobre como enviar o e-mail para você mesmo? Consulte [Enviar uma explosão](/help/marketo/getting-started/quick-wins/send-an-email.md)de email.
 
 ### Missão concluída {#mission-complete}
 
@@ -120,4 +108,6 @@ Parabéns, você personalizou seu email!
 
 <br> 
 
-[◄ Missão 6: Unidade, Perfuração,](drip-drip-nurture.md) Missão de Enfermeira [8: Alerte o representante de vendas ►](alert-the-sales-rep.md)
+[◄ Missão 6: Derramamento, Derramamento, Enfermeira](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+
+[Missão 8: Alerte o representante de vendas ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
