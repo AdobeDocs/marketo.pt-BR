@@ -3,9 +3,9 @@ unique-page-id: 4718687
 description: Aprovar/Cancelar a aprovação de um modelo de receita - Documentos do marketing - Documentação do produto
 title: Aprovar/Cancelar aprovação de um modelo de receita
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Aprovar/Cancelar aprovação de um modelo de receita {#approve-unapprove-a-revenue-model}
 
 Você pode ter apenas um modelo aprovado em um determinado momento.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!CAUTION]
 >
