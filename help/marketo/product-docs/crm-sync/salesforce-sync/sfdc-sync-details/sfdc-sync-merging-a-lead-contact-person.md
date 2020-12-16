@@ -3,21 +3,15 @@ unique-page-id: 7515133
 description: Sincronização SFDC - Mesclando um cliente potencial/contato/pessoa - Documentos do Marketing - Documentação do produto
 title: Sincronização SFDC - Mesclando um cliente potencial/contato/pessoa
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
 
 # Sincronização SFDC: Mesclando um cliente potencial/contato/pessoa {#sfdc-sync-merging-a-lead-contact-person}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Às vezes é melhor simplesmente lista as regras. Aqui vamos nós:
 
