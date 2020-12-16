@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Configuração e adição de uma pessoa - Documentos do Marketing - Documentação do produto
 title: Configurar e adicionar uma pessoa
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Há algumas coisas a fazer antes de começar as missões.
 
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Etapa 1: Fazer logon no Marketo {#step-log-in-to-marketo}
 
-1. [Faça logon no Marketo](http://app.marketo.com) usando as credenciais recebidas por email.
+1. [Faça logon no Marketo](https://app.marketo.com) usando as credenciais recebidas por email.
 
    ![](assets/one.png)
 
@@ -59,7 +53,7 @@ Adicione-se como uma pessoa no Marketo para que você possa enviar emails de tes
 
    ![](assets/seven.png)
 
-1. Digite seu nome e sobrenome, endereço de email e nome da empresa e clique em **Criar **para adicionar a si mesmo como uma pessoa.
+1. Digite seu nome e sobrenome, endereço de email e nome da empresa e clique em **Criar** para adicionar a si mesmo como uma pessoa.
 
    ![](assets/eight.png)
 
@@ -67,7 +61,7 @@ Adicione-se como uma pessoa no Marketo para que você possa enviar emails de tes
 
    ![](assets/nine.png)
 
-1. Clique na guia **Pessoas **pessoas. Você deveria se ver no banco de dados.
+1. Clique na guia **Pessoas** . Você deveria se ver no banco de dados.
 
    ![](assets/ten.png)
 
@@ -77,4 +71,4 @@ Você está pronto para começar sua primeira missão!
 
 <br> 
 
-[Missão 1: Enviar uma explosão de email ►](send-an-email.md)
+[Missão 1: Enviar uma explosão de email ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
