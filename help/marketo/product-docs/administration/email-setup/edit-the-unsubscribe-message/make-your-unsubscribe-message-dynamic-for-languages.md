@@ -3,21 +3,15 @@ unique-page-id: 6848782
 description: Torne a sua mensagem de cancelamento de assinatura dinâmica para idiomas - documentos de marketing - documentação do produto
 title: Tornar sua mensagem de cancelamento de assinatura dinâmica para idiomas
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
 
 
 # Tornar sua mensagem de cancelamento de assinatura dinâmica para idiomas {#make-your-unsubscribe-message-dynamic-for-languages}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Você pode usar o conteúdo dinâmico para exibi-lo em idiomas diferentes.
 
