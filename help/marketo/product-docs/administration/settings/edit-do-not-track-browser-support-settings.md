@@ -3,21 +3,15 @@ unique-page-id: 6095047
 description: Editar as configurações de suporte do navegador "Não rastrear" - Documentos do Marketo - Documentação do produto
 title: Editar as configurações de suporte do navegador "Não rastrear"
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 
 # Editar as configurações de suporte do navegador &quot;Não rastrear&quot; {#edit-do-not-track-browser-support-settings}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 &quot;Não rastrear&quot; é uma solicitação de navegador para não ser rastreada em sistemas como o Marketo. Você pode atender a solicitação com as etapas a seguir.
 
