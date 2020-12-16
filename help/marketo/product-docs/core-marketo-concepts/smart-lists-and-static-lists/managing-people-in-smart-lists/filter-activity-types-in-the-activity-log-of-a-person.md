@@ -3,9 +3,9 @@ unique-page-id: 2952402
 description: Filtrar tipos de Atividade no registro de Atividades de uma pessoa - Documentos do Marketing - Documentação do produto
 title: Filtrar tipos de Atividade no registro de Atividades de uma pessoa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Filtrar tipos de Atividade no registro de Atividades de uma pessoa {#filter-activity-types-in-the-activity-log-of-a-person}
 
 Procure atividades que mais lhe interessam no registro de atividades.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
