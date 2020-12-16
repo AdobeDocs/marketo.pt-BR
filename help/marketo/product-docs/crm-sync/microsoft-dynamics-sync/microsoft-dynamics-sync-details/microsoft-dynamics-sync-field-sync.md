@@ -3,21 +3,15 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync - Sincronização de campo - Documentos do Marketing - Documentação do produto
 title: Microsoft Dynamics Sync - Sincronização de campo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
 
 
 # Microsoft Dynamics Sync: Sincronização de campo {#microsoft-dynamics-sync-field-sync}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 A sincronização de marketing com o Dynamics é super poderosa. Aqui estão os detalhes.
 
