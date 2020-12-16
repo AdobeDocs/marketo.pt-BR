@@ -3,21 +3,15 @@ unique-page-id: 2359782
 description: Adicionar pessoas a um Programa de envolvimento - Documentos do marketing - Documentação do produto
 title: Adicionar pessoas a um Programa de envolvimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
 
 # Adicionar pessoas a um Programa de envolvimento {#add-people-to-an-engagement-program}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Há várias maneiras de as pessoas se tornarem membros de um programa de envolvimento:
 
