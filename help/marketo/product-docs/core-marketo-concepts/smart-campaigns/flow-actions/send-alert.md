@@ -3,21 +3,15 @@ unique-page-id: 1146958
 description: Enviar alerta - Documentos do marketing - Documentação do produto
 title: Enviar alerta
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
 
 # Enviar alerta {#send-alert}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Visão geral {#overview}
 
