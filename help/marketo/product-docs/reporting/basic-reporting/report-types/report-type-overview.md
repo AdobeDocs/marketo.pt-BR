@@ -3,9 +3,9 @@ unique-page-id: 2359965
 description: Visão geral do tipo de relatório - Documentos do marketing - Documentação do produto
 title: Visão geral do tipo de relatório
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Visão geral do tipo de relatório {#report-type-overview}
 
 Ao [criar um relatório em um programa](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), escolha o tipo de relatório desejado.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Relatórios mais usados {#most-used-reports}
 
