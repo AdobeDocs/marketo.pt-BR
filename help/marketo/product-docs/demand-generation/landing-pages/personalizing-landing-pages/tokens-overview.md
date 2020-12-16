@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Visão geral dos tokens - Documentos do Marketing - Documentação do produto
 title: Visão geral dos tokens
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Visão geral dos tokens {#tokens-overview}
 
 Um token é uma variável que pode ser usada em etapas de fluxo de campanha [inteligente do Marketo,](http://docs.marketo.com/display/DOCS/Smart+Campaigns) emails [,](http://docs.marketo.com/display/DOCS/General)landings page [,](http://docs.marketo.com/display/DOCS/Landing+Pages)trechos [e campanhas](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)[](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)da Web.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Como entender os valores padrão {#understanding-default-values}
 
