@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: Rejeições rígidas e suaves no e-mail - Documentos do Marketing - Documentação do produto
 title: Rejeições rígidas e suaves no email
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rejeições rígidas e suaves no email {#hard-and-soft-bounces-in-email}
 
 Uma rejeição em disco pode tornar inválido o endereço de email de uma pessoa quando um servidor de email informa ao Marketo que o email da pessoa não pode ser entregue. Uma rejeição suave significa que algo deu errado ao entregar o email para a pessoa; isso é resolvido automaticamente e às vezes pode levar dias. As rejeições de hardware e software consistem em [várias categorias](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Classificação de rejeição {#bounce-classification}
 
