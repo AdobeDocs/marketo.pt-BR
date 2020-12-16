@@ -3,9 +3,9 @@ unique-page-id: 1147322
 description: Compreensão da Atividade anônima e das pessoas - Documentos do Marketing - Documentação do produto
 title: Entendendo Atividades anônimas e pessoas
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Entendendo Atividades anônimas e pessoas {#understanding-anonymous-activity-and-people}
 
 Na primeira vez que alguém visita um Marketo [l `anding page`](http://docs.marketo.com/display/DOCS/Personalizing+Landing+Pages) (ou uma página em seu site que tem o Código [de rastreamento](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)Munchkin), o Marketo cria uma **atividade* *anônima e usa um cookie de navegador para rastreá-la. Depois de identificado, ele se torna uma pessoa e o histórico associado ao cookie do navegador é mesclado.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 **Uma atividade Anônima** é criada quando alguém:
 
