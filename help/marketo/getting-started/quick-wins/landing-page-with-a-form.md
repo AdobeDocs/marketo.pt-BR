@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: landing page com um formulário - Documentos do marketing - Documentação do produto
 title: landing page com um formulário
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,9 @@ ht-degree: 0%
 
 ## Missão: Crie uma landing page com um formulário para adquirir novas pessoas. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](get-set-up-and-add-a-person.md)
-
+>[Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## ETAPA 1: Criar um Programa {#step-create-a-program}
 
@@ -32,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/ma.png)
 
-1. Selecione a pasta** Learning* criada na vitória [rápida](send-an-email.md)anterior.
+1. Selecione a pasta **Learning** criada na vitória [rápida](/help/marketo/getting-started/quick-wins/send-an-email.md)anterior.
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
@@ -40,12 +33,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Digite um **Nome** de programa, selecione um Canal**** e clique em** Criar**.
+1. Digite um **Nome** de programa, selecione um **Canal** e clique em **Criar**.
 
    >[!NOTE]
-   >
-   >**Lembrete**
-   >
    >
    >Inclua suas iniciais no final do Nome do programa para torná-lo exclusivo.
 
@@ -53,10 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Definição**
-   >
-   >
-   >Um programa é uma iniciativa de marketing específica. O **canal** deve ser o mecanismo do delivery, como Webinar, Patrocínio ou Anúncio online. Você pode ver diferentes opções de canal no menu suspenso, dependendo do que está disponível em sua própria instância. Você também pode [criar seu próprio canal.](../../product-docs/administration/tags/create-a-program-channel.md)
+   >Um programa é uma iniciativa de marketing específica. O **canal** deve ser o mecanismo do delivery, como Webinar, Patrocínio ou Anúncio online. Você pode ver diferentes opções de canal no menu suspenso, dependendo do que está disponível em sua própria instância. Você também pode [criar seu próprio canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
@@ -64,7 +51,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
 ## ETAPA 2: Criar um formulário {#step-create-a-form}
 
-1. Com o seu programa selecionado, clique em **Novo** e depois** Novo ativo local**.
+1. Com o programa selecionado, clique em **Novo** e em **Novo ativo** local.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
@@ -78,13 +65,13 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
    >[!NOTE]
    >
-   >Verifique se a caixa **Abrir no editor** está marcada. Caso contrário, você precisará clicar na **guia****Editar formulário.**
+   >Verifique se a caixa **Abrir no editor** está marcada. Caso contrário, você precisará clicar na guia **Editar formulário** .
 
    >[!TIP]
    >
-   >Não vê o editor de formulários? Seu navegador provavelmente bloqueou a janela. Ative os pop-ups de [app.marketo.com](http://app.marketo.com/) em seu navegador e clique em Editar rascunho na barra de menus superior.
+   >Não vê o editor de formulários? Seu navegador provavelmente bloqueou a janela. Ative os pop-ups de [app.marketo.com](https://app.marketo.com/) em seu navegador e clique em Editar rascunho na barra de menus superior.
 
-1. Selecione o campo** Endereço de email** e marque É **obrigatório**.
+1. Selecione o campo Endereço **de** email e marque **É obrigatório**.
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
@@ -96,7 +83,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. Clique em** Avançar**.
+1. Clique em **Avançar**.
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
@@ -110,9 +97,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
    >[!NOTE]
    >
-   >**Definição**
-   >
-   >A Página de acompanhamento é o local em que o visitante é redirecionado após o preenchimento do formulário. O URL externo é uma opção, mas há mais. Consulte [Definir uma página](../../product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)de agradecimento do formulário.
+   >A Página de acompanhamento é o local em que o visitante é redirecionado após o preenchimento do formulário. O URL externo é uma opção, mas há mais. Consulte [Definir uma página](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)de agradecimento do formulário.
 
 1. Clique em **Concluir**.
 
@@ -136,7 +121,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Insira uma página** Nome**, selecione um modelo e clique em **Criar**.
+1. Insira um **Nome** de página, selecione um modelo e clique em **Criar**.
 
    >[!NOTE]
    >
@@ -168,9 +153,6 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
    >[!NOTE]
    >
-   >**Definição**
-   >
-   >
    >A aprovação da landing page a tornará ativa e disponível para acesso à Internet.
 
    ![](assets/image2014-9-24-11-3a9-3a37.png)
@@ -181,7 +163,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
 ## ETAPA 5: Testar seu formulário {#step-test-your-form}
 
-1. Selecione sua landing page e clique em** Visualização página aprovada**.
+1. Selecione sua landing page e clique em **Visualização da página** aprovada.
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
@@ -205,4 +187,6 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
 <br> 
 
-[◄ Enviar uma pontuação](send-an-email.md) simples de Explosão [por email ►](simple-scoring.md)
+[◄ Enviar uma Explosão de Email](/help/marketo/getting-started/quick-wins/send-an-email.md)
+
+[Pontuação simples ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
