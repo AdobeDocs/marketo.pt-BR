@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Enviar um exemplo de e-mail - Documentos do Marketing - Documentação do produto
 title: Enviar um e-mail de amostra
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Enviar um e-mail de amostra {#send-a-sample-email}
 
 É rápido e fácil enviar amostras de um email. Para enviar um email de conteúdo dinâmico, consulte [Pré-visualização de um email com conteúdo](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)dinâmico.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
