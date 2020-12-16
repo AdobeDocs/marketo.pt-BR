@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Encaminhar para um link de amigo em emails - Documentos de marketing - Documentação do produto
 title: Encaminhar para um link de amigo em emails
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 Adicionar o link &quot;Encaminhar para o Amigo&quot; aos seus emails permite rastrear pessoas que receberam um email encaminhado por meio desse link e adicioná-las automaticamente como uma nova pessoa se ainda não estiverem no banco de dados.
 
 Por exemplo, digamos que Keith use o link &quot;Encaminhar para o amigo&quot; para encaminhar o email para uma pessoa desconhecida, Mark. Mark é automaticamente adicionado como uma nova pessoa, recebe seu próprio cookie e qualquer um de seus emails e atividades da Web é vinculado a ele. Entretanto, se Keith usar o botão de avanço em seu cliente de email, Mark recebe um cookie incorreto como Keith, e sua atividade é registrada como Keith.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Adicionar o link a um modelo de email {#add-the-link-to-an-email-template}
 
