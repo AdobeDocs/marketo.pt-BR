@@ -3,21 +3,15 @@ unique-page-id: 4719304
 description: Ações Implementadas Do Salesforce - Documentos Do Marketing - Documentação Do Produto
 title: Ações Implícitas do Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
 
 # Ações Implícitas do Salesforce {#implied-salesforce-actions}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Quando uma etapa de fluxo específica do Salesforce é executada, às vezes as etapas extras são executadas automaticamente. Estas são as regras, então você sabe:
 
