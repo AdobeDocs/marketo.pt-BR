@@ -3,21 +3,15 @@ unique-page-id: 2953457
 description: Sincronização SFDC - Sincronização de Contato - Documentos do Marketing - Documentação do produto
 title: Sincronização SFDC - Sincronização de Contato
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
 
 # Sincronização SFDC: Sincronização de contato {#sfdc-sync-contact-sync}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Você sabia que o Marketo sincroniza todo seu banco de dados com o Salesforce? Sincroniza, então aguarda 5 minutos e sincroniza novamente, o dia todo, todos os dias. Estes são alguns detalhes sobre como o Marketing trata especificamente os Contatos do Salesforce.
 
