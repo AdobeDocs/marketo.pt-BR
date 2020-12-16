@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: Prepare-se para seu Evento - Documentos do Marketing - Documentação do produto
 title: Prepare-se para o seu Evento
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Prepare-se para o seu Evento {#prepare-for-your-event}
 
 Há várias coisas que você tem que fazer para se preparar para o evento.
-
->[!NOTE]
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 ## Criar uma nova função de marketing {#create-a-new-marketo-role}
 
