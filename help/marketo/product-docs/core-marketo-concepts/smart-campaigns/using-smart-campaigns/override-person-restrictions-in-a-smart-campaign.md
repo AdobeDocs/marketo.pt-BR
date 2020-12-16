@@ -3,9 +3,9 @@ unique-page-id: 1147066
 description: Substituir restrições de pessoa em uma Campanha inteligente - Documentos do marketing - Documentação do produto
 title: Substituir restrições de pessoa em uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Substituir restrições de pessoa em uma Campanha inteligente {#override-person-restrictions-in-a-smart-campaign}
 
 Marketo permite definir o número máximo* *de pessoas que podem se qualificar para uma campanha inteligente; isso ajuda a evitar enviar acidentalmente e-mails para o banco de dados inteiro. Se você quiser *substituir* esse limite, veja como.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!PREREQUISITES]
 >
