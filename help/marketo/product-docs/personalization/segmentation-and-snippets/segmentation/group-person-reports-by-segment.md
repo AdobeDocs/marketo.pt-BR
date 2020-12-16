@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: Relatórios de pessoa de grupo por segmento - Documentos de marketing - Documentação do produto
 title: Relatórios de pessoa de grupo por segmento
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Relatórios de pessoa de grupo por segmento {#group-person-reports-by-segment}
 
 Você pode agrupar seus relatórios [de](http://docs.marketo.com/display/docs/basic+reporting) pessoa por qualquer [segmento](http://docs.marketo.com/display/docs/basic+reporting) que você tenha [definido em suas segmentações](create-a-segmentation.md).
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Vá para a seção **Marketing Atividade** (ou **Analytics**).
 
