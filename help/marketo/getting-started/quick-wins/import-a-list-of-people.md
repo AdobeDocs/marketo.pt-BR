@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: Importar uma Lista de pessoas - Documentos do Marketing - Documentação do produto
 title: Importar uma Lista de pessoas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -15,35 +15,21 @@ ht-degree: 0%
 
 ## Missão: Importe uma lista de planilha de participantes do programa comercial para seu banco de dados {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](get-set-up-and-add-a-person.md)
+>[Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
->
-
-
-
-`   
-`  Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha para o Marketo.
+Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha para o Marketo.
 
 ## Etapa 1: Baixar e editar uma planilha {#step-download-and-edit-a-spreadsheet}
 
-1. Para o start, descarregue nosso arquivo de planilha (*** [tradeshow-attendees.csv](http://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)**) em seu computador.
+1. Para o start, baixe nosso arquivo de planilha de práticas ([**tradeshow-attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) no seu computador.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Ao importar uma data, use este formato: **21/9/15** (Mês/Dia/Ano).
+   >Ao importar uma data, use este formato: **21/9/20** (Mês/Dia/Ano).
 
    >[!NOTE]
    >
@@ -67,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Nomeie** o programa como &quot;Meu Programa de shows de vendas&quot; e selecione &quot;Evento&quot; para o Tipo de **Programa.**
+1. **Nomeie** o programa como &quot;Meu Programa de shows de vendas&quot; e selecione &quot;Evento&quot; para o Tipo **de** Programa.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -77,9 +63,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Programas de eventos ocorrem em datas específicas. Saiba mais sobre [**Eventos**](http://docs.marketo.com/display/docs/events).
+>Programas de eventos ocorrem em datas específicas. Saiba mais sobre [**Eventos**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
 ## Etapa 3: Importar sua planilha para o Marketing {#step-import-your-spreadsheet-into-marketo}
 
@@ -115,11 +99,9 @@ ht-degree: 0%
    >
    >No Modo de importação de Lista, escolher **Ignorar novas pessoas e atualizações** significa que você não afetará os registros pessoais existentes ou registrará quaisquer atividades. Use este modo se desejar uma lista estática rápida e pré-filtrada de pessoas existentes para uso em suas atividades de marketing. Selecionar este modo irá:
    >
-   >    
-   >    
-   >    * Ignorar a criação de nova pessoa
-   >    * Ignorar atualizações de campo de pessoa
-   >    * Ignorar registro de atividades
+   > * Ignorar a criação de nova pessoa
+   > * Ignorar atualizações de campo de pessoa
+   > * Ignorar registro de atividades
 
 
 1. Mapeie os campos Coluna da Lista para o respectivo Campo de marketing e clique em **Avançar**.
@@ -128,7 +110,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Os cabeçalhos de coluna devem sempre corresponder ao campo exatamente (diferenciando maiúsculas de minúsculas) para obter os melhores resultados de mapeamento automático. Se você estiver usando campos personalizados e não os vir no menu suspenso, volte e [crie-os](http://docs.marketo.com/display/DOCS/Create+a+Custom+Field+in+Marketo) para que eles se tornem opções.
+   >Os cabeçalhos de coluna devem sempre corresponder ao campo exatamente (diferenciando maiúsculas de minúsculas) para obter os melhores resultados de mapeamento automático. Se você estiver usando campos personalizados e não os vir no menu suspenso, volte e [crie-os](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para que eles se tornem opções.
 
    >[!NOTE]
    >
@@ -148,9 +130,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Você pode analisar o sucesso do seu programa rastreando a associação ao programa. Saiba mais sobre [**Programas**](http://docs.marketo.com/display/docs/programs).
+>Você pode analisar o sucesso do seu programa rastreando a associação ao programa. Saiba mais sobre [**Programas**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Missão concluída {#mission-complete}
 
@@ -158,4 +138,6 @@ Seus participantes de shows de negócios agora são membros do seu programa de m
 
 <br> 
 
-[◄ Missão 4: Enviar](email-auto-response.md) Missão de Resposta [Automática por Email 6: Depressão, Depressão, Enfermagem ►](drip-drip-nurture.md)
+[◄ Missão 4: Resposta automática por email](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+
+[Missão 6: Depressão, Depressão, Enfermagem ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
