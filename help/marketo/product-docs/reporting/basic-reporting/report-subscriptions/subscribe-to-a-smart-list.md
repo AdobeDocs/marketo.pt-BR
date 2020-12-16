@@ -3,9 +3,9 @@ unique-page-id: 7505310
 description: Assine uma Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Assine uma Lista inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Assine uma Lista inteligente {#subscribe-to-a-smart-list}
 
 Assinar listas inteligentes é uma excelente maneira de rastrear as pessoas, com relatórios enviados diretamente para sua caixa de entrada.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Você pode criar uma subscrição de lista inteligente em dois locais separados:
 
