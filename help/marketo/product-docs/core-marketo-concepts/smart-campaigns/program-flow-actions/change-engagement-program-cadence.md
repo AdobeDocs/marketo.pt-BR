@@ -3,21 +3,15 @@ unique-page-id: 1147013
 description: Alterar a cadência do Programa de envolvimento - Documentos do Marketo - Documentação do produto
 title: Alterar a cadência do Programa de envolvimento
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 
 # Alterar a cadência do Programa de envolvimento {#change-engagement-program-cadence}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Visão geral
 
