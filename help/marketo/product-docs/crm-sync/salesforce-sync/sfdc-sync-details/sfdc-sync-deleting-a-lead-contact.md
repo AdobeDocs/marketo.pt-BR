@@ -3,21 +3,15 @@ unique-page-id: 7515131
 description: Sincronização SFDC - Excluindo um cliente potencial/contato - Documentos do Marketing - Documentação do produto
 title: Sincronização SFDC - Excluindo um cliente potencial/contato
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Sincronização SFDC: Excluindo um cliente potencial/contato {#sfdc-sync-deleting-a-lead-contact}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Estes são alguns dos detalhes:
 
