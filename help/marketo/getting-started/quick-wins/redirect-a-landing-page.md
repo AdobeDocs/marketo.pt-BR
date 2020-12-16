@@ -3,9 +3,9 @@ unique-page-id: 2359428
 description: Redirecionar uma Landing page - Documentos do Marketing - Documentação do produto
 title: Redirecionar uma Landing page
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,12 +21,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](get-set-up-and-add-a-person.md)
->* [landing page com um formulário](landing-page-with-a-form.md)
->* [Personalizar o URL da sua Landing page com um CNAME](../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
-
->
-
+>* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [landing page com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [Personalizar o URL da sua Landing page com um CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
 
 ## Etapa 1: Start de uma nova regra de redirecionamento {#step-start-a-new-redirect-rule}
@@ -35,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/admin.png)
 
-1. Vá para** Landing page**.
+1. Vá para **Landing page**.
 
    ![](assets/image2014-9-24-13-3a28-3a43.png)
 
@@ -45,22 +42,19 @@ ht-degree: 0%
 
 ## Etapa 2: Definir a regra de redirecionamento {#step-define-the-redirect-rule}
 
-1. Clique no primeiro menu suspenso **URL original ** e selecione seu CNAME de marketing.
+1. Clique no primeiro menu suspenso URL **** original e selecione seu CNAME de marketing.
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Lembre-se, você só pode redirecionar landings page que start com seu [CNAME](../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)de marketing.
+   >Lembre-se, você só pode redirecionar landings page que start com seu [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)de marketing.
 
-1. Clique no segundo menu suspenso **URL original **e selecione a landing page que deseja redirecionar.
+1. Clique no segundo menu suspenso URL **** original e selecione a landing page que deseja redirecionar.
 
    ![](assets/image2014-9-24-13-3a30-3a50.png)
 
-1. Para URL **de** redirecionamento, selecione a página para a qual deseja redirecionar e clique em **CRIAR**.
+1. Para URL **de** redirecionamento, selecione a página para a qual deseja redirecionar e clique em **Criar**.
 
    ![](assets/image2014-9-24-13-3a31-3a10.png)
 
@@ -70,4 +64,4 @@ Parabéns! Redirecionou uma landing page com êxito.
 
 <br> 
 
-[◄ Missão 9: Atualizar dados de cliente potencial](update-person-data.md)
+[◄ Missão 9: Atualizar dados de cliente potencial](/help/marketo/getting-started/quick-wins/update-person-data.md)
