@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: Alertar o representante de vendas - Documentos do marketing - Documentação do produto
 title: Alertar o representante de vendas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,9 @@ ht-degree: 0%
 
 Para enviar emails de alerta automaticamente aos representantes de vendas, basta enviar um email de alerta e uma campanha de email. Aqui está como fazer isso.
 
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [landing page com um formulário](landing-page-with-a-form.md)
-
->
-
-
+>[landing page com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## Etapa 1: Criar um email de alerta {#step-create-an-alert-email}
 
@@ -37,7 +27,7 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
 
    ![](assets/one-5.png)
 
-1. Selecione **Meu Programa** que você criou na [Landing page com uma vitória rápida de Formulário](landing-page-with-a-form.md) e, em **Novo** , clique em **Novo ativo** local.
+1. Selecione **Meu Programa** que você criou na [Landing page com uma vitória rápida de Formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) e, em **Novo** , clique em **Novo ativo** local.
 
    ![](assets/two-6.png)
 
@@ -71,7 +61,7 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} é um token especial para emails de alerta. Consulte [Usar o token](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Enviar informações de alerta para saber mais.
+   >{{SP_Send_Alert_Info}} é um token especial para emails de alerta. Consulte [Usar o token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Enviar informações de alerta para saber mais.
 
 1. Clique em **Salvar**.
 
@@ -87,7 +77,7 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
 
 ## Etapa 2: Criar uma Campanha de Acionador de Alerta {#step-create-an-alert-trigger-campaign}
 
-1. Selecione **Meu Programa** criado anteriormente e, em **Nova **clique em **Nova Campanha** inteligente.
+1. Selecione **Meu Programa** criado anteriormente e, em **Nova** , clique em **Nova Campanha** inteligente.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -115,12 +105,11 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
 
    ![](assets/nineteen-2.png)
 
-1. Vá para a guia **Agendamento** e clique no botão **Ativar **i.
+1. Vá para a guia **Agendamento** e clique no botão **Ativar** .
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
-   >
    >
    >Defina as Regras **de** qualificação **sempre** (editando a Campanha inteligente) para permitir que a mesma pessoa dispare alertas várias vezes.
 
@@ -135,9 +124,6 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
-   >
-   >**Lembrete**
-   >
    >
    >Não se esqueça de aprovar landings page; eles não vão ao vivo até serem aprovados.
 
@@ -155,4 +141,6 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
 
 <br> 
 
-[◄ Missão 7: Personalize uma](personalize-an-email.md) Missão de Correio Eletrônico [9: Atualizar dados de cliente potencial ►](update-person-data.md)
+[◄ Missão 7: Personalizar um email](personalize-an-email.md)
+
+[Missão 9: Atualizar dados de cliente potencial ►](update-person-data.md)
