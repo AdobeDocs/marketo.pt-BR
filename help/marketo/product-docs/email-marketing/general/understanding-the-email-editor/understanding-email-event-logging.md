@@ -3,9 +3,9 @@ unique-page-id: 1147356
 description: Como entender o registro de Eventos por email - Documentos do Marketing - Documentação do produto
 title: Como entender o registro de Eventos por email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Como entender o registro de Eventos por email {#understanding-email-event-logging}
 
 Ao enviar emails, o Marketo registra diferentes pontos de dados nos registros de atividades da pessoa. Aqui estão os mais básicos.
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 | Evento | Descrição |
 |---|---|
