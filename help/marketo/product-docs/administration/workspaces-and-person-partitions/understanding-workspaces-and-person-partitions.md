@@ -3,21 +3,15 @@ unique-page-id: 2360309
 description: Noções básicas sobre espaços de trabalho e partições pessoais - Documentos do Marketing - Documentação do produto
 title: Como entender espaços de trabalho e partições de pessoas
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
 
 
 # Como entender espaços de trabalho e partições de pessoas {#understanding-workspaces-and-person-partitions}
-
->[!NOTE]
->
->**FYI**
->
->O Marketo agora está padronizando o idioma em todas as subscrições, portanto você pode ver o lead/lead na sua subscrição e a pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa. isso não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Áreas de trabalho {#workspaces}
 
