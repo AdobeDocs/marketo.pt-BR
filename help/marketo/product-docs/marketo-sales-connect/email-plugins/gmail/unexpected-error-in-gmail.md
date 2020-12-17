@@ -17,7 +17,7 @@ Se você estiver recebendo um &quot;Erro inesperado&quot; no Gmail ao tentar env
 
 1. Vá para **Configurações** > **Tracking de email** > **Gerenciar**.
 1. Clique em **Desconectar do Gmail**.
-1. Depois de desconectar, clique em **Conectar ao Google**.
+1. Depois de desconectar, clique em **Conectar-se ao Google**.
 
    Depois de reconectar, volte ao Gmail e atualize sua página e tente enviar seu email novamente. Se ainda não funcionar, [envie um ticket](http://nation.marketo.com/community/support_solutions) para nossa equipe de suporte.
 
