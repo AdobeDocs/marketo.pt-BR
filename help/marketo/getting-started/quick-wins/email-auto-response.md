@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Resposta automática por email {#email-auto-response}
+# Resposta automática de email {#email-auto-response}
 
-## Missão: Enviar um email de agradecimento quando uma pessoa preencher um formulário {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
+## Missão: Envie um email de agradecimento quando uma pessoa preencher um formulário {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
 >[!PREREQUISITES]
 >
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   Um editor de email será aberto em uma nova janela ou guia. Se as pop-ups estiverem bloqueadas, clique em **Editar rascunho** na página de resumo do ativo para acessar o email.
+   Um editor de email será aberto em uma nova janela ou guia. Se os pop-ups estiverem bloqueados, clique em **Editar rascunho** na página de resumo do ativo para acessar o email.
 
 1. Digite uma linha de assunto e clique com o duplo na área editável do e-mail.
 
@@ -65,33 +65,33 @@ ht-degree: 0%
 
 ## Etapa 2: Criar uma Campanha inteligente {#step-create-a-smart-campaign}
 
-1. Clique com o botão direito do mouse em **Meu Programa** e clique em **Nova Campanha** inteligente.
+1. Clique com o botão direito do mouse em **Meu Programa** e clique em **Nova Campanha inteligente**.
 
    ![](assets/image2014-9-24-11-3a56-3a13.png)
 
-1. **Dê um nome** à sua campanha inteligente &quot;Campanha de resposta automática&quot; e clique em **Criar**.
+1. **Nomeie** a campanha inteligente como &quot;Campanha de resposta automática&quot; e clique em  **Criar**.
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Vá para a guia **Lista** inteligente.
+1. Vá para a guia **Lista inteligente**.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
    Estamos configurando essa campanha para ser executada sempre que uma pessoa preencher o formulário criado em [**Landing page com um Formulário**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
-1. Localize e arraste o acionador de formulário **** Preenchimentos para fora até a tela esquerda.
+1. Localize e arraste o acionador **Preencher formulário** para a tela esquerda.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Selecione **Meu formulário** no menu suspenso. Clique na guia **Fluxo** .
+1. Selecione **Meu formulário** no menu suspenso. Clique na guia **Fluxo**.
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Arraste a ação de fluxo de **Enviar e-mail** para a tela esquerda.
+1. Arraste a ação de fluxo **Enviar email** para a tela esquerda.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Selecione seu Email **de resposta** automática e vá para a guia **Agendamento** .
+1. Selecione seu **Email de resposta automática** e vá para a guia **Agendamento**.
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/8.png)
 
-1. Selecione **sempre** e clique em **Salvar**.
+1. Selecione **sempre** e clique em **Guardar**.
 
    ![](assets/9.png)
 
@@ -117,11 +117,11 @@ ht-degree: 0%
 
 ## Etapa 3: Preencha o formulário {#step-fill-out-the-form}
 
-1. Selecione **Minha página**. Isso foi criado na [Landing page com uma vitória rápida do Formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
+1. Selecione **Minha página**. Isso foi criado na Landing page [com uma vitória rápida Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
-1. Clique em **Visualização da página** aprovada.
+1. Clique em **Visualização página aprovada**.
 
    ![](assets/image2014-9-24-12-3a0-3a18.png)
 
