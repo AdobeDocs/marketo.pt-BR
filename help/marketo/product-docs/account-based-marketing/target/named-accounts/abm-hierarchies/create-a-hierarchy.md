@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Criar uma hierarquia {#create-a-hierarchy}
+# Criar uma Hierarquia {#create-a-hierarchy}
 
 As hierarquias devem ser criadas em CRMs. No entanto, se você não tiver um CRM, siga estas etapas para criar uma hierarquia manualmente.
 
-1. Em Contas nomeadas, clique na caixa de seleção **Agrupar por hierarquia** .
+1. Em Contas nomeadas, clique na caixa de seleção **Agrupar por hierarquia**.
 
    ![](assets/one.png)
 
@@ -30,15 +30,15 @@ As hierarquias devem ser criadas em CRMs. No entanto, se você não tiver um CRM
 
    ![](assets/two.png)
 
-1. Clique no menu suspenso Ações **de conta** nomeada e selecione **Vincular à conta** nomeada.
+1. Clique no menu suspenso **Ações de conta nomeada** e selecione **Vincular à conta nomeada**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Se quiser desvincular contas, siga as etapas acima, mas escolha **Desvincular da conta** nomeada.
+   >Se quiser desvincular contas, siga as etapas acima, mas escolha **Desvincular da conta nomeada**.
 
-1. Selecione uma conta nomeada pai no menu suspenso e clique em **Vincular**.
+1. Selecione uma Conta Nomeada Pai no menu suspenso e clique em **Link**.
 
    ![](assets/four.png)
 
