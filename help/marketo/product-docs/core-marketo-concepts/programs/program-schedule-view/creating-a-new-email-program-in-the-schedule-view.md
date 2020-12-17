@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Criação de um novo Programa de email na Visualização Schedule {#creating-a-new-email-program-in-the-schedule-view}
+# Criando um novo Programa de email na Visualização Agendar {#creating-a-new-email-program-in-the-schedule-view}
 
 Você pode criar um programa de email a partir da visualização do cronograma do programa. Veja como.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -35,9 +35,9 @@ Você pode criar um programa de email a partir da visualização do cronograma d
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Configure seu programa](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) de e-mail e clique em **Aprovar Programa**.
+1. [Configure seu ](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) programa de email e clique em  **Aprovar Programa**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Além do painel detalhado, a vantagem de usar um programa [de](http://docs.marketo.com/display/docs/email+programs) email em vez de uma campanha inteligente é a capacidade de implementar facilmente um teste [](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)A/B. Aproveite!
+   Além do painel detalhado, a vantagem de usar um [programa de email](http://docs.marketo.com/display/docs/email+programs) em vez de uma campanha inteligente é a capacidade de implementar facilmente um [teste A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Aproveite!
 
