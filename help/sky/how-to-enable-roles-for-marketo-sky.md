@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-[!DNL Marketo] Os administradores podem ativar funções para [!DNL Sky] na área [!UICONTROL Administrador] de [!DNL Marketo Classic].
+[!DNL Marketo] Os administradores podem ativar funções para  [!DNL Sky] na   área de administração de  [!DNL Marketo Classic].
 
 1. Em [!DNL Marketo Classic], clique em **[!UICONTROL Admin]**.
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![Imagem Três](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-3.png)
 
-1. As funções selecionadas agora poderão ser acessadas [!DNL Marketo Sky] por meio do bloco em **[!UICONTROL Meu marketing]**.
+1. As funções selecionadas agora poderão acessar [!DNL Marketo Sky] pelo bloco em seus **[!UICONTROL My Marketo]**.
 
    ![Imagem quatro](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-4.png)
