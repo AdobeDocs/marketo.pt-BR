@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Movimentação de entradas na Visualização do Cronograma do programa {#moving-entries-in-the-program-schedule-view}
+# Movendo entradas na Visualização do Cronograma do programa {#moving-entries-in-the-program-schedule-view}
 
 Mover entradas na visualização de agendamento automaticamente as reagendará.
 
