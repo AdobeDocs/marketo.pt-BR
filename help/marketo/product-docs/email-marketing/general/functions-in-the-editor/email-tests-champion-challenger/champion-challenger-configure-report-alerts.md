@@ -35,11 +35,11 @@ Marketo enviará relatórios sobre como o teste de email está indo. Veja como a
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
-1. Verifique se todas as informações estão corretas e clique em **Fechar**.
+1. Verifique se todas as informações estão corretas e clique em **Close**.
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
