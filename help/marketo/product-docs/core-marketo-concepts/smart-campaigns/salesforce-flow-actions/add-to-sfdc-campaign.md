@@ -35,13 +35,13 @@ Essa etapa de fluxo pode ser usada no Marketing campanha ou como uma única etap
    >
    >    
    >    
-   >    1. Verifique se a sincronização de [campanhas está ativada](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-   >    1. Confirme se seu usuário [de sincronização de](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) marketing é um usuário [de](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) marketing no Salesforce.
+   >    1. Certifique-se de que [sincronização de campanha esteja ativada](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+   >    1. Confirme se seu [usuário de sincronização de marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) é um [usuário de marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) no Salesforce.
 
 
    >[!TIP]
    >
-   >Você pode usar o Salesforce campanha [My Tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) para facilitar a clonagem de programas.
+   >Você pode usar a campanha do Salesforce [Meus tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) para facilitar a clonagem de programas.
 
 1. Selecione o status do membro da campanha do Salesforce que você deseja atribuir aos clientes potenciais quando eles forem adicionados.
 
@@ -49,5 +49,5 @@ Essa etapa de fluxo pode ser usada no Marketing campanha ou como uma única etap
 
    >[!CAUTION]
    >
-   >Se uma pessoa já for um membro líder da campanha Salesforce, ela será ignorada e seu status NÃO será atualizado. Em vez disso, você pode usar [alterar seu status em uma campanha](change-status-in-sfdc-campaign.md) SFDC.
+   >Se uma pessoa já for um membro líder da campanha Salesforce, ela será ignorada e seu status NÃO será atualizado. Você pode usar [alterar seu status em uma campanha SFDC](change-status-in-sfdc-campaign.md).
 
