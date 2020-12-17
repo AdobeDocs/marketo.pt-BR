@@ -27,7 +27,7 @@ Você pode criar novas campanhas inteligentes e [executar novamente as existente
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Clique na lista suspensa **Tipo** e escolha **Smart** **Campaign**.
+1. Clique na lista suspensa **Tipo** e escolha **Inteligente** **Campanha**.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ Você pode criar novas campanhas inteligentes e [executar novamente as existente
 
    ![](assets/four.png)
 
-1. Escolha suas regras de campanha [](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) inteligente.
+1. Escolha suas regras de [campanha inteligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
    ![](assets/changeprogramstatus-hands.png)
 
