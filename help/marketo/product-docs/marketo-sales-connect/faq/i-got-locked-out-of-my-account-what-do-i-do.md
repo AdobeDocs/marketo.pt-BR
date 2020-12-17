@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Eu fui Bloqueado em Minha Conta. O Que Eu Faço? {#i-got-locked-out-of-my-account-what-do-i-do}
 
-Se você excedeu o número de tentativas de logon, você ficará bloqueado para fora de sua conta. Entre em contato com o [](http://nation.marketo.com/community/support_solutions)Suporte para obter ajuda para desbloqueá-la.
+Se você excedeu o número de tentativas de logon, você ficará bloqueado para fora de sua conta. Entre em contato com [Support](http://nation.marketo.com/community/support_solutions)para obter ajuda para desbloqueá-la.
