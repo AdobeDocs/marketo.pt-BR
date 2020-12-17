@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Adicionar**** **não funciona até que você edite o domínio genérico.** Excluir ******não funciona até que você adicione um segundo domínio.
+   >**Adicionar****  **não funciona até que você edite o domínio genérico.** Excluir ******não funciona até que você adicione um segundo domínio.
    >
    >Não é possível adicionar um domínio adicional até que você edite o domínio genérico pela primeira vez.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 >
 >Ao adicionar outros domínios de marca, você pode optar por tornar esse domínio primário para um ou mais espaços de trabalho, e todos os emails não enviados existentes definidos como &quot;Padrão&quot; e todos os emails recém-criados serão definidos como padrão para o domínio primário. É possível substituir isso por email.
 
-Agora, você pode [adicionar outros domínios](add-an-additional-branding-domain-with-workspaces.md) de marca necessários para os espaços de trabalho.
+Agora, você pode [adicionar outros domínios de marca](add-an-additional-branding-domain-with-workspaces.md) necessários para os espaços de trabalho.
 
 >[!MORELIKETHIS]
 >
