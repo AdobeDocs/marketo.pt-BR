@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Presença local do telefone de vendas {#sales-phone-local-presence}
+# Presença local do telefone comercial {#sales-phone-local-presence}
 
-Quando quiser parecer que você está ligando do mesmo código de área de alguém, basta marcar a caixa Presença **** local antes de fazer a chamada.
+Quando quiser parecer que você está ligando do mesmo código de área de alguém, basta marcar a caixa **Presença local** antes de fazer a chamada.
 
 ## Perguntas frequentes sobre presença local {#local-presence-faq}
 
