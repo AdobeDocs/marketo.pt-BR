@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cancelar assinatura do grupo {#unsubscribe-group}
+# Cancelar inscrição do grupo {#unsubscribe-group}
 
 Veja e gerencie todas as pessoas que não se inscreveram em um único lugar.
 
