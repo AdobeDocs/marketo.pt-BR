@@ -17,7 +17,7 @@ Clonar um programa clona *tudo*. Às vezes, você só quer clonar um ativo. Veja
 
 >[!NOTE]
 >
->Você precisará executar etapas adicionais para [clonar um grupo](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)de teste de landing page.
+>Você precisará executar etapas adicionais para [clonar um grupo de teste de landing page](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
 ## Clonar um ativo local {#clone-a-local-asset}
 
@@ -39,7 +39,7 @@ Clonar um programa clona *tudo*. Às vezes, você só quer clonar um ativo. Veja
 
    >[!TIP]
    >
-   >Você também pode clonar um ativo para um programa diferente. Use o menu suspenso **Programas** para fazer a seleção.
+   >Você também pode clonar um ativo para um programa diferente. Use o menu suspenso **Programa** para fazer sua seleção.
 
 1. Ótimo! Agora você deve ver o novo ativo clonado.
 
