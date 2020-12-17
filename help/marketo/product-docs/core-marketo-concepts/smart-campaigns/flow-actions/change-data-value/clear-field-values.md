@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Limpar valores de campo {#clear-field-values}
 
-** [Alterar valor](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)de dados** é ótimo, mas como você *remove* o valor completamente? Boa pergunta!
+** [Alterar valor de dados](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** é ótimo, mas como você *remove* o valor completamente? Boa pergunta!
 
 1. Na etapa de fluxo, escolha o campo que deseja limpar e digite **NULL **(todas as maiúsculas) como o **Novo valor**.
 
