@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Por que nenhum de meus contatos está sendo encaminhado para o Sales Connect? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-Se nenhum contato foi empurrado, é possível que você tenha uma conexão inválida do Salesforce. Vá para suas configurações [do](http://toutapp.com/next#settings/crm/salesforce/configure) Salesforce, desconecte e reconecte. Aguarde cerca de 20 minutos para reiniciar completamente. Se ainda for zero depois disso, [envie um caso](http://nation.marketo.com/community/support_solutions) ao Suporte.
+Se nenhum contato foi empurrado, é possível que você tenha uma conexão inválida do Salesforce. Vá para suas [configurações do Salesforce](http://toutapp.com/next#settings/crm/salesforce/configure) e desconecte-se e reconecte-se. Aguarde cerca de 20 minutos para reiniciar completamente. Se ainda for zero depois disso, [envie um caso](http://nation.marketo.com/community/support_solutions) para o Suporte.
