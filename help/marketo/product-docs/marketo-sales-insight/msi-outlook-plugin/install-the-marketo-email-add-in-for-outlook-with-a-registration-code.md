@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Instale o suplemento de email do Marketo para Outlook com um código de registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Instale o suplemento de e-mail Marketo para Outlook com um código de registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Se os usuários puderem acessar as configurações de administrador em seus laptops, você poderá enviar um código de registro diretamente para eles.
 
@@ -19,15 +19,15 @@ Se você não recebeu um email de convite, peça ao administrador do Marketing p
 
 >[!PREREQUISITES]
 >
->* Você deve receber uma [Licença](issue-a-marketo-email-add-in-license.md)de suplemento por email do Marketo.
+>* Você deve receber [uma Licença do Suplemento por Email do Marketing](issue-a-marketo-email-add-in-license.md).
 
 >
 
 
 
-## Baixar instalador {#download-installer}
+## Baixar o instalador {#download-installer}
 
-1. Identificar a versão do [Microsoft Outlook](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identifique a sua [versão do Microsoft Outlook](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 1. Clique no link para baixar o instalador apropriado para sua versão do Microsoft Outlook.
 
    >[!NOTE]
@@ -67,11 +67,11 @@ Se você não recebeu um email de convite, peça ao administrador do Marketing p
    >
    >Se receber um aviso de segurança, não se preocupe! Basta clicar em **Executar**.
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Preencha o **Nome**, **Sobrenome**, Endereço **de** email, copie e cole o **Código de registro **do email no formulário e clique em **Avançar**.
+1. Preencha **Nome**, **Sobrenome**, **Endereço de email**, copie e cole o **Código de registro **do email para o formulário e clique em **Próximo**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -83,15 +83,15 @@ Se você não recebeu um email de convite, peça ao administrador do Marketing p
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Se você receber um prompt de segurança sobre um editor desconhecido, clique em **Sim**.
+   >Se você receber um prompt de segurança sobre um editor desconhecido, clique em **Yes**.
 
-1. A instalação está concluída e clique em **Fechar**.
+1. A instalação agora está concluída, clique em **Fechar**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
