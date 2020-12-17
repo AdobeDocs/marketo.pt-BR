@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Às vezes, você vai querer remover links de entrada. Veja como:
 
-1. Vá para a seção Links **de** entrada.
+1. Vá para a seção **Links de entrada**.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
