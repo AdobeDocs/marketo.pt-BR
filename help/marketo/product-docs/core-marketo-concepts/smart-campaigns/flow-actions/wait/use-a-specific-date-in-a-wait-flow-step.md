@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Usar uma data específica em uma etapa de fluxo de espera {#use-a-specific-date-in-a-wait-flow-step}
+# Usar uma Data Específica em uma Etapa de Fluxo de Espera {#use-a-specific-date-in-a-wait-flow-step}
 
-Você pode usar a etapa de fluxo de **Espera** para pausar a jornada de uma pessoa por uma campanha inteligente até uma data específica.
+Você pode usar a etapa de fluxo **Wait** para pausar a jornada de uma pessoa por uma campanha inteligente até uma data específica.
 
-1. Na guia **Fluxo** de campanha inteligente, arraste sobre a etapa **Fluxo de espera** .
+1. Na guia **Fluxo** da campanha inteligente, arraste sobre a etapa de fluxo **Aguarde**.
 
    ![](assets/image2014-9-22-11-3a50-3a55.png)
 
