@@ -17,7 +17,7 @@ A visualização de detalhes da pessoa fornece um perfil detalhado de cada pesso
 
 ## Como acessar {#how-to-access}
 
-1. Para acessar a visualização de detalhes da pessoa, clique na guia **Pessoas** .
+1. Para acessar a visualização de detalhes da pessoa, clique na guia **Pessoas**.
 
    ![](assets/people-tab.png)
 
@@ -29,7 +29,7 @@ A visualização de detalhes da pessoa fornece um perfil detalhado de cada pesso
    >
    >Em qualquer lugar que você veja o nome de uma pessoa, você pode clicar nele e acessar a Visualização de detalhes da pessoa.
 
-## Guia Sobre {#about-tab}
+## Sobre a guia {#about-tab}
 
 Inclui todas as informações de contato da pessoa.
 
