@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Uso de HTML {#using-html}
+# Usando HTML {#using-html}
 
 1. Copie o código fonte de seus emails na ferramenta que você usa para criar emails em HTML (por exemplo, Editor de email do Marketo)
-1. Clique no botão **Origem** no editor de modelos.
+1. Clique no botão **Source** no editor de modelos.
 1. Cole o código-fonte aqui.
 1. Clique em **Salvar**.
 
 >[!NOTE]
 >
->Se aparecer o erro &quot;Erro - para remover as tags style/java/html&quot;, isso significa que você tem algum estilo que não oferecemos suporte. Você deve pesquisar o código-fonte pelo estilo de palavra e excluir tudo de `<style>` até `</style>`.
+>Se aparecer o erro &quot;Erro - para remover as tags style/java/html&quot;, isso significa que você tem algum estilo que não oferecemos suporte. Você deve pesquisar o código fonte pelo estilo de palavra e excluir tudo de `<style>` a `</style>`.
 
