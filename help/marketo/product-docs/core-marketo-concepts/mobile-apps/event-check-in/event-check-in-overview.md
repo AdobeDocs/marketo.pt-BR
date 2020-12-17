@@ -10,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# Visão geral de check-in do evento {#event-check-in-overview}
+# Visão geral do check-in do evento {#event-check-in-overview}
 
 O aplicativo Eventos de marketing para iPad ou tablet Android facilita a verificação de pessoas imediatamente quando elas chegam ao seu evento.
 
@@ -24,8 +24,8 @@ Tenham uma grande evento!
 
 Antes do evento:
 
-* [Criar uma nova função](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) de marketing para usuários de iPad ou Android para o evento
-* [Convidar novos usuários de tablet para o evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) e atribuir a eles a nova função
+* [Criar uma nova ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) função de marketing para usuários de iPad ou Android para o evento
+* [Convidar novos usuários de tablet para o ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) evento e atribuir a eles a nova função
 * [Criar um novo programa de evento de marketing](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 * Especificar as datas do evento
 * Adicionar pessoas ao seu evento
