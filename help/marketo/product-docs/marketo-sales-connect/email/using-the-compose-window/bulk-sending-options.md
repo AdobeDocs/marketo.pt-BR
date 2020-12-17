@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opções de envio em massa {#bulk-sending-options}
 
-Enviar emails em massa é uma excelente maneira de acelerar seu envolvimento com o prospecto. O Sales Connect oferta duas maneiras de enviar emails em massa: **Agrupar emails** e **selecionar e enviar**. Os emails de grupos são uma excelente maneira de enviar rapidamente centenas de emails para um grupo direcionado. Usar Selecionar e enviar significa reduzir os limites de email, mas oferta mais oportunidades de personalização para o usuário.
+Enviar emails em massa é uma excelente maneira de acelerar seu envolvimento com o prospecto. O Sales Connect oferta duas maneiras de enviar emails em massa: **Agrupar e-mails** e **Selecione e envie**. Os emails de grupos são uma excelente maneira de enviar rapidamente centenas de emails para um grupo direcionado. Usar Selecionar e enviar significa reduzir os limites de email, mas oferta mais oportunidades de personalização para o usuário.
 
 Agrupar email vs. selecionar e enviar
 
@@ -28,25 +28,25 @@ Agrupar email vs. selecionar e enviar
  </colgroup> 
  <tbody> 
   <tr> 
-   <th><p><span>Tipo de envio</span><span></span> </p></th> 
-   <th><p><span>Número máximo de </span><span></span><span>emails</span> </p></th> 
-   <th><p><span>Iniciado </span><span>Enviar por</span></p></th> 
-   <th><p><span>Emails de </span><span>edição em massa</span> </p></th> 
-   <th><p><span>Editar</span><span> cada email </span><span>exclusivamente</span> </p></th> 
-   <th><p><span>Suporte a modelo e campo </span><span>dinâmico</span> </p></th> 
+   <th><p><span></span><span> SendType</span> </p></th> 
+   <th><p><span>Número máximo de  </span><span></span><span>emails</span> </p></th> 
+   <th><p><span>Iniciado  </span><span>Enviar por</span></p></th> 
+   <th><p><span>Emails de  </span><span>edição em massa</span> </p></th> 
+   <th><p><span></span><span> Editar cada email  </span><span>exclusivamente</span> </p></th> 
+   <th><p><span>Suporte a modelo e campo  </span><span>dinâmico</span> </p></th> 
   </tr> 
   <tr> 
    <td><p><span>Email do grupo</span> </p></td> 
-   <td><p><span>1,000</span> </p></td> 
-   <td><p><span>Selecione um grupo e clique</span><span> no botão </span><span></span><span>"Ações do grupo" ou digite o nome do grupo no campo Para. </span> </p></td> 
+   <td><p><span>1 000</span> </p></td> 
+   <td><p><span>Selecione um grupo e </span><span> clique no botão </span><span> </span><span>"Ações do grupo" ou digite o nome do grupo no campo Para.  </span> </p></td> 
    <td><p><span>Sim</span> </p></td> 
    <td><p><span>Não</span> </p></td> 
    <td><p><span>Sim</span> </p></td> 
   </tr> 
   <tr> 
-   <td><p><span>Selecionar </span><span>e </span><span>enviar</span> </p></td> 
+   <td><p><span>Selecionar  </span><span>e  </span><span>enviar</span> </p></td> 
    <td><p><span>200</span> </p></td> 
-   <td><p><span>Selecione pessoas na grade e clique no botão "E-mail selecionado" na barra</span><span>de ações</span><span>ou digite recipient na </span><span>barra lateral</span><span>do e-mail em massa.</span></p></td> 
+   <td><p><span>Selecione pessoas na grade e clique no botão "E-mail selecionado" na barra</span><span> de ações </span><span>ou digite recipient na  </span><span>barra lateral</span><span> do e-mail em massa.</span></p></td> 
    <td><p><span>Sim</span> </p></td> 
    <td><p><span>Sim</span> </p></td> 
    <td><p><span>Sim</span> </p></td> 
