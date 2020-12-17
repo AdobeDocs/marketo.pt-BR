@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Um token de Arquivo [!UICONTROL de] calendário permite que você adicione um link de evento de calendário (.ics) a seus emails e landings page do Marketo. Veja como configurar um para usar nas pastas programas e campanhas.
+Um token [!UICONTROL Arquivo de calendário] permite que você adicione um link de evento de calendário (.ics) aos emails e landings page do Marketo. Veja como configurar um para usar nas pastas programas e campanhas.
 
-1. Na guia [!UICONTROL Meus tokens] do seu programa ou pasta, arraste um token de Arquivo **[!UICONTROL de]** calendário para a tela Tokens  locais.
+1. Na guia [!UICONTROL Meus tokens] do seu programa ou pasta, arraste um token **[!UICONTROL Arquivo de Calendário]** para a tela [!UICONTROL Tokens Locais].
 
    ![Imagem Um](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-1.jpg)
 
