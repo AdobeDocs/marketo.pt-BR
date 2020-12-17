@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Resultados do Programa por email da visualização {#view-email-program-results}
+# Resultados do Programa de e-mail de visualização {#view-email-program-results}
 
 Assim como a guia Resultados em campanhas inteligentes, você pode ver as mesmas informações em programas de e-mail.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -31,7 +31,7 @@ Assim como a guia Resultados em campanhas inteligentes, você pode ver as mesmas
 
    ![](assets/controlpanelview.jpg)
 
-1. No bloco **Audiência** , clique em Resultados **da** Visualização.
+1. No bloco **Audiência**, clique em **Resultados da Visualização**.
 
    ![](assets/audiencetile.jpg)
 
@@ -43,5 +43,5 @@ Assim como a guia Resultados em campanhas inteligentes, você pode ver as mesmas
 >
 >**Mergulho profundo**
 >
->Quer saber mais sobre Programas [de](http://docs.marketo.com/display/docs/email+program+actions)email?
+>Quer saber mais sobre [Programas de e-mail](http://docs.marketo.com/display/docs/email+program+actions)?
 
