@@ -19,9 +19,9 @@ Os seguintes recursos estão incluídos na versão do verão de 16. Verifique su
 
 O Marketing baseado em conta de marketing fornece todos os recursos básicos em uma única plataforma unificada:
 
-* **Público alvo** - Detecção de conta, Correspondência de cliente a conta e Listas de conta nomeada
-* **Envolvimento** - Personalização baseada em conta, envolvimento entre canais e Workflows específicos da conta
-* **Medida** - insights em nível de conta e Lista, Pontuação de envolvimento de conta e Impacto de pipeline e receita
+* **Público alvo**  - Detecção de conta, Correspondência entre contas e Listas de conta nomeada
+* **Mobilizar**  - Personalização baseada em conta, envolvimento entre canais e Workflows específicos da conta
+* **Medida**  - insights de conta e nível de Lista, Pontuação de envolvimento de conta e Impacto do pipeline e da receita
 
 ![](assets/abm-5-acme.png)
 
@@ -60,7 +60,7 @@ Anteriormente, todas as variáveis especificadas em Modelos do Email 2.0 eram &q
 **Atualizações de sintaxe**
 
 * Agora você pode usar &quot;mktoAddByDefault&quot; em módulos especificados em Modelos de e-mail 2.0 para indicar quais módulos devem ser exibidos em novos e-mails por padrão. Isso é muito mais conveniente se você estiver criando um modelo de email com um grande número de módulos.
-* Em elementos de imagem, agora é possível especificar se as propriedades &quot;height&quot; e &quot;width&quot; do elemento `<img>` HTML subjacente devem ser bloqueadas ou editáveis para o usuário final. mktoLockImgSize=&quot;true&quot; fará com que a altura/largura sejam bloqueadas (mesmo que a imagem seja alterada). Da mesma forma, mktoLockImgStyle=&quot;true&quot; fará com que a propriedade &quot;style&quot; seja bloqueada.
+* Em elementos de imagem, agora é possível especificar se as propriedades subjacentes `<img>` de &quot;altura&quot; e &quot;largura&quot; do elemento HTML devem ser bloqueadas ou editáveis para o usuário final. mktoLockImgSize=&quot;true&quot; fará com que a altura/largura sejam bloqueadas (mesmo que a imagem seja alterada). Da mesma forma, mktoLockImgStyle=&quot;true&quot; fará com que a propriedade &quot;style&quot; seja bloqueada.
 
 **Pesquisa de código**
 
@@ -70,7 +70,7 @@ Use a nova funcionalidade de pesquisa para localizar e substituir conteúdo com 
 
 **Suporte a token em elementos de imagem**
 
-Tokens agora podem ser usados na área &quot;URL externo&quot; da experiência de inserção de imagem! Caso tenha especificado imagens com `{{my.tokens}}`, agora é possível fazer referência a esses tokens no Editor de email 2.0. Observe que a imagem ainda aparecerá quebrada na tela do Editor de email 2.0. Mas você verá eles renderizados na Pré-visualização e Enviar amostra antes de enviar seu email.
+Tokens agora podem ser usados na área &quot;URL externo&quot; da experiência de inserção de imagem! Se você especificou imagens com `{{my.tokens}}`, agora é possível fazer referência a esses tokens no Editor de email 2.0. Observe que a imagem ainda aparecerá quebrada na tela do Editor de email 2.0. Mas você verá eles renderizados na Pré-visualização e Enviar amostra antes de enviar seu email.
 
 ## [Vários domínios de marca](http://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
 
