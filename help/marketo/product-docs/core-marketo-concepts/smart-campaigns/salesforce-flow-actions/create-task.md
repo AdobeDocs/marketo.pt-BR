@@ -19,7 +19,7 @@ Como comerciante, você tem informações que podem auxiliar as vendas a fechar 
 
 >[!NOTE]
 >
->Quando o usuário de sincronização de marketing está criando o tarefa, o campo **Vencimento** é obrigatório para a tarefa ser criada no Salesforce. Por padrão, o Marketo inserirá cinco dias se não houver valor.
+>Quando o usuário de sincronização de marketing está criando o tarefa, **Vencimento em** é um campo obrigatório para a tarefa ser criada no Salesforce. Por padrão, o Marketo inserirá cinco dias se não houver valor.
 
 Por padrão, a etapa de fluxo terá a seguinte aparência:   ![](assets/image2014-9-22-14-3a54-3a49.png)
 
@@ -29,5 +29,5 @@ Personalize todos os campos para criar a tarefa da maneira que desejar.
 
 >[!TIP]
 >
->Você pode usar `{{lead.tokens}}`, `{{company.tokens}}`e `{{campaign.tokens}}` no `{{system.tokens}}` Assunto **e** Descrição ****. Consulte [Tokens para Etapas](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) de Fluxo para obter mais detalhes.
+>Você pode usar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` nas **Assunto** e **Descrição**. Consulte [Tokens para Etapas de Fluxo](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) para obter mais detalhes.
 
