@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ouça e aja em atividades comportamentais importantes em nível de conta em canais diferentes (por exemplo, email, Web, anúncios) usando acionadores em nível de conta.
 
-Selecione sua campanha inteligente e clique em Lista **[!UICONTROL inteligente]**.
+Selecione sua campanha inteligente e clique em **[!UICONTROL Lista inteligente]**.
 
 ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ Digite &quot;Conta nomeada&quot; na caixa de pesquisa para localizar os acionado
 
 ![](assets/two-1.png)
 
-Arraste o acionador desejado até a tela de desenho. Neste exemplo, estamos usando _Adicionado à conta_ nomeada.
+Arraste o acionador desejado até a tela de desenho. Neste exemplo, estamos usando _Adicionado à Conta Nomeada_.
 
 ![](assets/three-1.png)
 
