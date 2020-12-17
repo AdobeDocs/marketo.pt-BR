@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Adicionar um anexo {#add-an-attachment}
+# Adicionar um Anexo {#add-an-attachment}
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 Para adicionar anexos ao modelo, abra o editor de modelos e clique em **Anexar arquivos** acima do editor de texto. Em seguida, basta localizar e carregar o anexo do seu computador.
 
-Se desejar que seus anexos sejam [rastreados quando abertos](http://docs.marketo.com/display/TEST/How+to+Track+Your+Email+Attachments), clique em **Adicionar** **conteúdo** e selecione um arquivo .doc, PDF ou .ppt.
+Se desejar que seus anexos sejam [acompanhados quando forem abertos](http://docs.marketo.com/display/TEST/How+to+Track+Your+Email+Attachments), clique em **Adicionar** **Conteúdo** e selecione um arquivo .doc, PDF ou .ppt.
 
-Depois de carregados em um modelo, esses arquivos são armazenados no seu Conteúdo do Sales Connect. Você pode adicioná-los rapidamente a emails do seu navegador da Web ou do aplicativo [](http://toutapp.com/login) da Web clicando em **Adicionar conteúdo** no editor de modelos.
+Depois de carregados em um modelo, esses arquivos são armazenados no seu Conteúdo do Sales Connect. Você pode adicioná-los rapidamente a emails do seu navegador da Web ou da [aplicação Web](http://toutapp.com/login) clicando em **Adicionar conteúdo** no editor de modelos.
 
 >[!NOTE]
 >
->O limite de tamanho para os botões **Conteúdo** ou **Anexar arquivos** é de 5mb.
+>O limite de tamanho para os botões **Content** ou **Anexar arquivos** é 5mb.
 
