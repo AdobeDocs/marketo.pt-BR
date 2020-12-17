@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Admin**, clique em Limites **de** comunicação.
+1. Em **Admin**, clique em **Limites de Comunicação**.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
 Clique em Editar.
@@ -30,7 +30,7 @@ Clique em Editar.
    >
    >Por dia é baseado no dia de calendário no fuso horário da subscrição (meia-noite-meia-noite).
 
-1. Clique no menu suspenso **Por dia** e selecione o limite desejado. Neste exemplo, estamos escolhendo 1.
+1. Clique na lista suspensa **Por dia** e selecione o limite desejado. Neste exemplo, estamos escolhendo 1.
 
    ![](assets/three.png)
 
@@ -38,17 +38,17 @@ Clique em Editar.
    >
    >Você também pode escolher **Personalizado** se nenhuma das opções predefinidas funcionar para você.
 
-1. Clique no menu suspenso **Por 7 dias** e selecione o limite desejado. Neste exemplo, estamos escolhendo 5.
+1. Clique na lista suspensa **Por 7 dias** e selecione o limite desejado. Neste exemplo, estamos escolhendo 5.
 
    ![](assets/four.png)
 
-1. Selecione **Bloquear emails** não operacionais.
+1. Selecione **Bloquear e-mails não operacionais**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Saiba mais sobre o que são emails [](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) operacionais.
+   >Saiba mais sobre o que são [e-mails operacionais](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational).
 
 1. Clique em **Salvar**.
 
@@ -59,7 +59,7 @@ Clique em Editar.
    >**Exemplo**
    >
    >
-   >As configurações acima significam que as pessoas não receberão mais de **1 email por dia** ou mais de **5 em nenhum período** de sete dias.
+   >As configurações acima significam que as pessoas não receberão mais de **1 email por dia** ou mais de **5 em nenhum período de sete dias**.
 
    >[!NOTE]
    >
