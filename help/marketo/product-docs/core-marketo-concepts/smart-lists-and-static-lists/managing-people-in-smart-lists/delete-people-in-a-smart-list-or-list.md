@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/ma-1.png)
 
-1. Selecione a lista/lista inteligente que contém todas as pessoas que você deseja excluir e vá para a guia **Pessoas** .
+1. Selecione a lista/lista inteligente que contém todas as pessoas que você deseja excluir e vá para a guia **Pessoas**.
 
    ![](assets/two-1.png)
 
@@ -35,19 +35,19 @@ ht-degree: 0%
    >
    >Ao excluir uma pessoa, você não está apenas removendo-a da lista, eles serão completamente removidos do banco de dados.
 
-1. Clique em **Selecionar** **tudo**. Você também pode selecionar alguns registros manualmente usando Ctrl/Cmd e clicando em.
+1. Clique em **Select** **All**. Você também pode selecionar alguns registros manualmente usando Ctrl/Cmd e clicando em.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Se os resultados se expandirem em várias páginas, clicar em **Selecionar** **tudo** selecionará todas as pessoas em todas as páginas.
+   >Se os resultados se expandirem em várias páginas, clicar em **Selecionar** **Todos** selecionará todas as pessoas em todas as páginas.
 
-1. Para remover completamente as pessoas do Marketo, clique em **Excluir** **pessoa**.
+1. Para remover completamente as pessoas do Marketo, clique em **Excluir** **Pessoa**.
 
    ![](assets/four-1.png)
 
-1. Defina **Remover** **do** CRM **para** verdadeiro **** se também quiser excluir os registros do CRM.
+1. Defina **Remove** **de** **CRM** para **true** se também pretender eliminar os registros do CRM.
 
    ![](assets/five.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >Se o seu Marketo não estiver vinculado ao seu CRM, a opção ficará esmaecida como na captura de tela.
 
-1. Clique em **Executar** **agora**.
+1. Clique em **Executar** **Agora**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Para visualização dos resultados da exclusão em massa, clique em Resultados **da** Visualização na caixa pop-up Ação de fluxo único, no canto superior direito da tela. Os tempos de exclusão podem variar muito, dependendo de vários fatores.
+   >Para visualização dos resultados da exclusão em massa, clique em **Resultados da Visualização** na caixa pop-up Ação de fluxo único, no canto superior direito da tela. Os tempos de exclusão podem variar muito, dependendo de vários fatores.
 
    Esta é uma grande característica, tenha cuidado ao usá-la!
 
