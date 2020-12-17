@@ -17,25 +17,25 @@ Ao start usando o Marketing to Sales Connect, você precisará configurar um ser
 
 >[!NOTE]
 >
->Além de configurar seu servidor SMTP, sua identidade de [email precisa ser verificada](http://docs.marketo.com/x/ewPh) antes de enviar emails.
+>Além de configurar seu servidor SMTP, sua [identidade de e-mail deve ser verificada](http://docs.marketo.com/x/ewPh) antes que você possa enviar e-mails.
 
 Você pode optar por enviar emails usando um Servidor SMTP Personalizado, um Servidor SMTP de Equipe ou Gmail como canal de delivery. Vamos analisar cada opção.
 
 ## SMTP personalizado {#custom-smtp}
 
-1. Faça logon no aplicativo [da](http://toutapp.com/login)Web, clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo da Web](http://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
    ![](assets/one.png)
 
-1. Em Minha conta, clique em Configurações **de** email.
+1. Em Minha conta, clique em **Configurações de e-mail**.
 
    ![](assets/two.png)
 
-1. Selecione Servidor **** SMTP.
+1. Selecione **Servidor SMTP**.
 
    ![](assets/three.png)
 
-1. Digite suas credenciais do Servidor SMTP e clique em **Conectar**.
+1. Insira suas credenciais do Servidor SMTP e clique em **Connect**.
 
    ![](assets/four.png)
 
@@ -47,7 +47,7 @@ Você pode optar por enviar emails usando um Servidor SMTP Personalizado, um Ser
 
    ![](assets/five.png)
 
-1. Localize a identidade do e-mail para o qual você deseja escolher um canal de delivery e clique em **Escolher Canal** de Delivery.
+1. Localize a identidade de e-mail para a qual você deseja escolher um canal de delivery e clique em **Escolher Canal de Delivery**.
 
    ![](assets/six.png)
 
@@ -71,15 +71,15 @@ Você pode optar por enviar emails usando um Servidor SMTP Personalizado, um Ser
 >
 >**Permissões de administrador necessárias**
 
-1. Faça logon no aplicativo [da](http://toutapp.com/login)Web, clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo da Web](http://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
    ![](assets/nine.png)
 
-1. Em Configurações de administrador, clique em Servidor **SMTP de** equipe.
+1. Em Configurações administrativas, clique em **Team SMTP Server**.
 
    ![](assets/ten.png)
 
-1. Digite suas credenciais do Servidor SMTP e clique em **Conectar**.
+1. Insira suas credenciais do Servidor SMTP e clique em **Connect**.
 
    ![](assets/eleven.png)
 
@@ -91,15 +91,15 @@ Você pode optar por enviar emails usando um Servidor SMTP Personalizado, um Ser
 
 ## Gmail {#gmail}
 
-1. Faça logon no aplicativo [da](http://toutapp.com/login)Web, clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo da Web](http://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
    ![](assets/twelve.png)
 
-1. Em Minha conta, clique em Configurações **de** email.
+1. Em Minha conta, clique em **Configurações de e-mail**.
 
    ![](assets/thirteen.png)
 
-1. Clique em **Sincronização** por email.
+1. Clique em **Sincronização de e-mail**.
 
    ![](assets/fourteen.png)
 
