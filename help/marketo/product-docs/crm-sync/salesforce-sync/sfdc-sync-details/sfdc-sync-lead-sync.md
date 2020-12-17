@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você sabia que o Marketo sincroniza com seu banco de dados Salesforce? Sincroniza, aguarda 5 minutos e sincroniza novamente. O dia todo, todos os dias. Aqui estão alguns detalhes sobre como o Marketo trata o Salesforce especificamente.
 
-## Sincronizar direção {#sync-direction}
+## Sincronizar Direção {#sync-direction}
 
 O cliente potencial (pessoa) e a sincronização de contato são bidirecionais. Se você fizer alterações em um registro no Salesforce ou no Marketo, suas atualizações serão refletidas em ambos os sistemas.
 
@@ -25,7 +25,7 @@ Marketo ganha. É raro que esse tipo de colisão de dados ocorra.
 
 ## Posso criar uma perspectiva de venda no Salesforce usando o Marketo? {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-Sim, use a ação de fluxo [Sincronizar Pessoa com SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) . Isso criará uma oportunidade potencial no Salesforce se a oportunidade não existir.
+Sim, use a ação de fluxo [Sincronizar Pessoa com SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md). Isso criará uma oportunidade potencial no Salesforce se a oportunidade não existir.
 
 ## Posso forçar manualmente uma sincronização de uma pessoa em Marketo para uma liderança em Salesforce? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
