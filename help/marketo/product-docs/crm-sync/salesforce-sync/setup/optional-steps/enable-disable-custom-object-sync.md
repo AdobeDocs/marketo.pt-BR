@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Ativar/desativar sincronização de objetos personalizados {#enable-disable-custom-object-sync}
+# Ativar/Desativar Sincronização de Objeto Personalizado {#enable-disable-custom-object-sync}
 
 Os objetos personalizados criados na instância do Salesforce também podem fazer parte do Marketing. Veja como configurar.
 
-## Ativar/desativar sincronização de objetos personalizados {#enable-disable-custom-object-sync-1}
+## Ativar/Desativar Sincronização de Objeto Personalizado {#enable-disable-custom-object-sync-1}
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    **
 
-1. No menu Gerenciamento de banco de dados, clique em **Sincronização** de **objetos do Salesforce**.
+1. No menu Gerenciamento de banco de dados, clique em **Salesforce** **Sincronização de objetos**.
 
    ![](assets/two-2.png)
 
-1. Se este for seu primeiro Objeto personalizado, clique em **Sincronizar schema.** Caso contrário, clique em **Atualizar Schema** para garantir que você tenha a versão mais recente.
+1. Se este for seu primeiro Objeto personalizado, clique em **Sincronizar schema.** Caso contrário, clique em  **Atualizar** Schemato para garantir que você tenha a versão mais recente.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
@@ -55,7 +55,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Clique em **Ativar sincronização** novamente.
+1. Clique novamente em **Ativar Sincronização**.
 
    ** ![](assets/image2014-12-10-10-3a15-3a40.png)
 
@@ -65,13 +65,13 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
-## Como usar seus objetos personalizados {#using-your-custom-objects}
+## Usando seus objetos personalizados {#using-your-custom-objects}
 
 >[!NOTE]
 >
 >Não é possível usar objetos personalizados em campanhas inteligentes com acionadores.
 
-1. Na sua lista inteligente, arraste sobre o **filtro** Tem oportunidade e defina como **verdadeiro**.
+1. Na sua lista inteligente, arraste sobre o filtro **Tem oportunidade** e defina como **true**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
