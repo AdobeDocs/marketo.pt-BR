@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verificar seu email {#verify-your-email}
+# Verifique seu email {#verify-your-email}
 
 Se você tiver uma identidade de e-mail não verificada, siga as etapas abaixo.
 
@@ -19,11 +19,11 @@ Se você tiver uma identidade de e-mail não verificada, siga as etapas abaixo.
 
    ![](assets/verify-your-email-1.png)
 
-1. Em Minha conta, clique em Configurações **de** email.
+1. Em Minha conta, clique em **Configurações de e-mail**.
 
    ![](assets/verify-your-email-2.png)
 
-1. Em Endereço e assinatura, localize a identidade do e-mail que deseja verificar e clique em **Reenviar verificar e-mail**. Um novo email de verificação será enviado.
+1. Em Endereço e assinatura, localize a identidade do e-mail que deseja verificar e clique em **Reenviar verificação de e-mail**. Um novo email de verificação será enviado.
 
    ![](assets/verify-your-email-3.png)
 
