@@ -34,7 +34,7 @@ No mundo complexo dos processos de compra B2B, é raro que um único indivíduo 
 >
 >**Explicação**
 >
->Para calcular as pontuações da conta, primeiro é necessário criar pontuações de lead. O Marketing ABM automaticamente agregação as pontuações de clientes potenciais para as pontuações da conta. Por exemplo, nós usaremos dois dos exemplos acima (*Account **Product Interest Score* e *Account Web Engagement Score*).
+>Para calcular as pontuações da conta, primeiro é necessário criar pontuações de lead. O Marketing ABM automaticamente agregação as pontuações de clientes potenciais para as pontuações da conta. Por exemplo, nós pegaremos dois dos exemplos acima (*Account **Pontuação de interesse do produto* e *Pontuação de envolvimento da Web na conta*).
 >
 >Primeiro, crie campos de pontuação de cliente potencial que capturem detalhes relevantes de cada cliente potencial de uma conta de público alvo.\
 >Em seguida, atribua essas pontuações de lead às respectivas pontuações de conta:\
@@ -63,7 +63,7 @@ Depois de configurar a pontuação de cliente potencial, siga as etapas abaixo.
    >
    >Você pode escolher até **cinco **campos para calcular a Pontuação da conta.
 
-1. Digite o nome da Pontuação da conta, clique no menu suspenso **Selecionar pontuação** da pessoa e selecione a pontuação correspondente.
+1. Digite o nome da Pontuação da conta, clique no menu suspenso **Selecionar Pontuação da Pessoa** e selecione a pontuação correspondente.
 
    ![](assets/four.png)
 
@@ -71,7 +71,7 @@ Depois de configurar a pontuação de cliente potencial, siga as etapas abaixo.
 
    ![](assets/five.png)
 
-1. Adicione todas as pontuações desejadas. Clique em **Salvar** quando concluído.
+1. Adicione todas as pontuações desejadas. Clique em **Salvar** quando terminar.
 
    ![](assets/six.png)
 
