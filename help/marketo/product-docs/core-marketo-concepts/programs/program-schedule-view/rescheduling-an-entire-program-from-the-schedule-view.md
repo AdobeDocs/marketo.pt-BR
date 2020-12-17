@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Reprogramando um Programa inteiro a partir da Visualização Programar {#rescheduling-an-entire-program-from-the-schedule-view}
+# Reprogramando um Programa inteiro da Visualização Agendar {#rescheduling-an-entire-program-from-the-schedule-view}
 
 Ao clonar um programa ou evento com datas, provavelmente você desejará reprogramar todas as datas de uma vez. Veja como.
 
