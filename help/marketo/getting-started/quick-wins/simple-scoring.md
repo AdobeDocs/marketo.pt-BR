@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Pontuação simples {#simple-scoring}
+# Pontuação Simples {#simple-scoring}
 
 >[!PREREQUISITES]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Etapa 1: Criar uma Campanha de Pontuação {#step-create-a-scoring-campaign}
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/ma-1.png)
 
-1. Clique com o botão direito do mouse na pasta **Learning** e clique em **Nova pasta** de campanha.
+1. Clique com o botão direito do mouse na pasta **Learning** e clique em **Nova pasta de campanha**.
 
    ![](assets/two-2.png)
 
@@ -37,21 +37,21 @@ ht-degree: 0%
    >
    >Se você já tiver uma pasta de Pontuação, nomeie essa pasta como algo diferente, como Pontuação 1. Os nomes das pastas devem ser exclusivos.
 
-1. Em seguida, clique com o botão direito do mouse na nova pasta **Pontuação** e selecione **Nova Campanha** inteligente.
+1. Em seguida, clique com o botão direito do mouse na nova pasta **Scoring** e selecione **Nova Campanha inteligente**.
 
    ![](assets/four.png)
 
-1. **Nomeie** a campanha como &quot;Alterar pontuação&quot; e clique em **Criar**.
+1. **Nomeie** a campanha &quot;Alterar pontuação&quot; e clique em  **Criar**.
 
    ![](assets/five-1.png)
 
-1. Clique na guia **Lista** inteligente.
+1. Clique na guia **Lista inteligente**.
 
    ![](assets/six-1.png)
 
-   Queremos que essa campanha seja executada sempre que uma pessoa preencher seu Formulário **de solicitação de** avaliação.
+   Queremos que essa campanha seja executada sempre que uma pessoa preencher seu **Formulário de solicitação de avaliação**.
 
-1. Encontre e arraste o acionador de formulário **** Preenchimentos para fora para a tela esquerda.
+1. Encontre e arraste o acionador **Preencher formulário** para a tela esquerda.
 
    ![](assets/image2014-9-24-11-3a43-3a35.png)
 
@@ -59,11 +59,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se você concluiu a [Landing page com uma vitória rápida do formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) , é necessário ter o formulário. Se você usou um nome diferente para o formulário, selecione-o.
+   >Se você concluiu a Landing page [com uma vitória rápida Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), deverá ter o formulário. Se você usou um nome diferente para o formulário, selecione-o.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Clique na guia **Fluxo** .
+1. Clique na guia **Fluxo**.
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
@@ -71,15 +71,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a44-3a45.png)
 
-1. Você pode digitar qualquer valor para adicionar à pontuação da pessoa. Insira &quot;+5&quot; no campo **Alterar** .
+1. Você pode digitar qualquer valor para adicionar à pontuação da pessoa. Insira &quot;+5&quot; no campo **Alterar**.
 
    ![](assets/eleven-1.png)
 
    >[!TIP]
    >
-   >Boas campanhas de pontuação são fundamentais para fornecer pessoas de alta qualidade para o setor de Vendas. Leia [**o Guia Definitivo para Pontuação**](https://www.marketo.com/definitive-guides/lead-scoring/)de Chumbo.
+   >Boas campanhas de pontuação são fundamentais para fornecer pessoas de alta qualidade para o setor de Vendas. Leia [**O Guia Definitivo para Pontuação de Chumbo**](https://www.marketo.com/definitive-guides/lead-scoring/).
 
-1. Clique na guia **Agendamento** e no botão **Ativar** .
+1. Clique na guia **Schedule** e no botão **Ativate**.
 
    ![](assets/twelve-1.png)
 
@@ -93,11 +93,11 @@ ht-degree: 0%
 
 ## Etapa 2: Preencha o formulário {#step-fill-out-the-form}
 
-1. Selecione a landing page criada na [Landing page com uma vitória rápida do formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
+1. Selecione a landing page criada na Landing page [com uma vitória rápida Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
    ![](assets/fourteen-1.png)
 
-1. Clique em **Visualização da página** aprovada. A landing page será aberta em uma nova guia.
+1. Clique em **Visualização página aprovada**. A landing page será aberta em uma nova guia.
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
@@ -109,7 +109,7 @@ ht-degree: 0%
    >
    >Use o mesmo nome e endereço de email que você usou quando se inseriu pela primeira vez como pessoa para aplicar o aumento de pontuação &quot;+5&quot;.
 
-## Etapa 3: Visualização das informações da pessoa {#step-view-the-person-info}
+## Etapa 3: Visualização nas Informações da pessoa {#step-view-the-person-info}
 
 1. Vá para a área Banco de Dados.
 
