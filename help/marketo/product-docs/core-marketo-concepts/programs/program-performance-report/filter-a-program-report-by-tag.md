@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Filtrar um relatório de Programa por tag {#filter-a-program-report-by-tag}
 
-Focalize seu relatório de desempenho [de](create-a-program-performance-report.md)programa em [tags](http://docs.marketo.com/display/docs/tags)específicas.
+Focalize seu [relatório de desempenho do programa](create-a-program-performance-report.md)em [tags](http://docs.marketo.com/display/docs/tags) específicas.
 
 1. Vá para **Marketing** **Atividade** (ou **Analytics**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu relatório Desempenho **do** Programa.
+1. Selecione seu relatório **Desempenho do Programa**.
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. Clique na guia **Configuração** e arraste sobre um dos filtros de **Tags** .
+1. Clique na guia **Configuração** e arraste sobre um dos filtros **Tags**.
 
    ![](assets/prospects.jpg)
 
@@ -35,7 +35,7 @@ Focalize seu relatório de desempenho [de](create-a-program-performance-report.m
 
    ![](assets/prospect2.jpg)
 
-1. Concluído! Clique na guia **Relatório** para ver *apenas* os programas que correspondem às tags selecionadas em seu relatório.
+1. Concluído! Clique na guia **Relatório** para ver *apenas* os programas que correspondem às tags selecionadas no seu relatório.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
@@ -53,5 +53,5 @@ Focalize seu relatório de desempenho [de](create-a-program-performance-report.m
    >**Mergulho profundo**
    >
    >
-   >Saiba tudo sobre os relatórios no Relatórios [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+   >Saiba tudo sobre os relatórios em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
