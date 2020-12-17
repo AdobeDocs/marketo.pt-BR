@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Criar uma função de usuário somente de API {#create-an-api-only-user-role}
 
-Se você quiser integrar-se ao Marketo por meio da API [](http://developers.marketo.com/documentation/rest/)REST, a prática recomendada é [atribuir a um usuário a função](create-an-api-only-user.md) Somente API e, em seguida, [criar um serviço personalizado para uso com a API](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)ReST. Veja como criar a função de usuário somente da API.
+Se você deseja integrar com o Marketo por meio da [REST API](http://developers.marketo.com/documentation/rest/), a melhor prática é [atribuir a função Somente API](create-an-api-only-user.md) a um usuário e, em seguida, [criar um serviço personalizado para uso com a ReST API](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Veja como criar a função de usuário somente da API.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Em Meu Marketo, clique em **Admin**.
+1. Em Meu marketing, clique em **Admin**.
 
    ![](assets/adminhand-1.png)
 
@@ -27,7 +27,7 @@ Se você quiser integrar-se ao Marketo por meio da API [](http://developers.mark
 
    ![](assets/two.png)
 
-1. Clique na guia **Funções **e em **Nova função**.
+1. Clique na guia **Funções **e, em seguida, **Nova função**.
 
    ![](assets/image2014-9-16-13-3a47-3a12.png)
 
@@ -41,5 +41,5 @@ Se você quiser integrar-se ao Marketo por meio da API [](http://developers.mark
 
 >[!MORELIKETHIS]
 >
->Muito bem! Agora, vamos [criar um usuário](create-an-api-only-user.md)Somente API.
+>Muito bem! Agora vamos [criar um usuário Somente API](create-an-api-only-user.md).
 
