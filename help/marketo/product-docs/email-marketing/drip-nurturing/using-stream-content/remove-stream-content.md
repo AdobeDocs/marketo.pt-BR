@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Remover conteúdo de fluxo {#remove-stream-content}
 
-Você pode remover ou arquivar um conteúdo. Ao contrário da remoção do conteúdo de fluxo, o [arquivamento](archive-and-unarchive-stream-content.md) preserva todo o histórico associado ao conteúdo. Se você não se importa de perder as estatísticas históricas de algum conteúdo e quiser removê-lo, aqui está como fazê-lo.
+Você pode remover ou arquivar um conteúdo. Ao contrário da remoção do conteúdo de fluxo, [arquivar](archive-and-unarchive-stream-content.md) preserva todo o histórico associado ao conteúdo. Se você não se importa de perder as estatísticas históricas de algum conteúdo e quiser removê-lo, aqui está como fazê-lo.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu programa de envolvimento e clique na guia **Streams** .
+1. Selecione seu programa de envolvimento e clique na guia **Streams**.
 
    ![](assets/cloneasteam-3.jpg)
 
@@ -29,7 +29,7 @@ Você pode remover ou arquivar um conteúdo. Ao contrário da remoção do conte
 
    >[!CAUTION]
    >
-   >Remova o conteúdo somente se você não se importar com o histórico. Se quiser preservar o histórico, [arquive](archive-and-unarchive-stream-content.md) -o.
+   >Remova o conteúdo somente se você não se importar com o histórico. Se quiser preservar o histórico, [arquive](archive-and-unarchive-stream-content.md) no lugar disso.
 
    É isso! Agora você sabe como remover um pedaço de conteúdo.
 
