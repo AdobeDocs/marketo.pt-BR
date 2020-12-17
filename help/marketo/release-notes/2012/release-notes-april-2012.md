@@ -19,18 +19,18 @@ ht-degree: 0%
 >
 >**Mergulho profundo**
 >
->Para outras versões, consulte as [Notas](http://docs.marketo.com/display/docs/release+notes) de versão em profundidade.
+>Para outras versões, consulte as [Notas de versão](http://docs.marketo.com/display/docs/release+notes) profundas.
 
 Você público alvo o mesmo grupo de clientes potenciais de forma consistente? Em caso afirmativo, use a segmentação em suas listas inteligentes para direcionar clientes potenciais. Com a segmentação, todo o banco de dados principal é sempre segmentado e pode ser reutilizado em todos os programas para garantir a consistência. Os resultados da segmentação são obtidos rapidamente porque não exigem que a lista inteligente seja executada no momento da solicitação.
 
 ![](assets/image2014-9-23-10-3a3-3a57.png)
 
-## Inserir valores externos em conteúdo de email e outras etapas de fluxo, por meio de recursos de API expandidos {#insert-external-values-into-email-content-and-other-flow-steps-through-expanded-api-capabilities}
+## Insira valores externos no conteúdo de email e outras etapas de fluxo, por meio de recursos de API expandidos {#insert-external-values-into-email-content-and-other-flow-steps-through-expanded-api-capabilities}
 
 * A API de Campanha de solicitação agora permite que você envie valores para Meus tokens para aquela execução específica da campanha - isso é particularmente útil para preencher conteúdo de email por meio da API
 * As novas APIs de Lista de upload para  e Campanha agendada suportam o acima para listas de clientes potenciais e campanhas em lote.
 
-## E-mails de confirmação mais fáceis para GoToWebinar e WebEx (Adobe Connect e ON24 em breve!) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
+## Emails de confirmação mais fáceis para GoToWebinar e WebEx (Adobe Connect e ON24 em breve!) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
 
 Simplificamos o URL de confirmação criando um token de membro que exibe o URL de confirmação de registro exclusivo para cada cliente potencial. Não será mais necessário criar esse URL usando tokens diferentes. Isso está disponível atualmente para clientes GoToWebinar e WebEx e estará disponível para Adobe Connect e ON24 em nossa próxima versão.
 
@@ -56,7 +56,7 @@ Observação: No momento, esse recurso não é compatível com o Internet Explor
 
 Se não estiver sincronizando sua subscrição com o Salesforce, você observará que todas as pastas e ações de fluxo que fazem referência ao Salesforce serão removidas.
 
-## Análise do ciclo de receita do marketing {#marketo-revenue-cycle-analytics}
+## Análise do ciclo de receita do Marketo {#marketo-revenue-cycle-analytics}
 
 **Estágios de Portas Avançadas no Modelador do Ciclo de Receita**
 
