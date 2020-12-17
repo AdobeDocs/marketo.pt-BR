@@ -17,8 +17,8 @@ Os seguintes recursos foram incluídos na versão de junho de 2015. Verifique a 
 
 ## [Relatório de email de atribuição](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)  {#attribution-email-report}
 
-Veja a personalização de valor e o conteúdo recomendado para suas atividades de marketing. [O Relatório](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) de e-mail de atribuição exibe os clientes potenciais diretos e assistidos atribuídos à personalização do RTP e às campanhas de conteúdo recomendadas. Em RTP, Configurações do usuário e Relatório de email, adicione o Relatório de email de atribuição para receber emails mensais ou trimestrais.
+Veja a personalização de valor e o conteúdo recomendado para suas atividades de marketing. [O ](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Relatório de e-mail de atribuição exibe os clientes potenciais diretos e assistidos atribuídos à personalização do RTP e às campanhas de conteúdo recomendadas. Em RTP, Configurações do usuário e Relatório de email, adicione o Relatório de email de atribuição para receber emails mensais ou trimestrais.
 
 ## Quer influenciar nosso roteiro? {#want-to-influence-our-roadmap}
 
-Mercado de notas com este cartão [de relatório](https://www.surveymonkey.com/s/VG9YCT5)rápido. Estamos usando seu input para ajudar a planejar 2016 e mais!
+Faça o mercado de nível com este [cartão de relatório rápido](https://www.surveymonkey.com/s/VG9YCT5). Estamos usando seu input para ajudar a planejar 2016 e mais!
