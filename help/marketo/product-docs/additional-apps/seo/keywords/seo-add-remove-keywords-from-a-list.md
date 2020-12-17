@@ -17,7 +17,7 @@ Você pode manter todas as suas palavras-chave agradáveis e organizadas usando 
 
 ## Adicionar a uma Lista {#add-to-a-list}
 
-1. Vá para a seção **Palavras-chave** .
+1. Vá para a seção **Palavras-chave**.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
@@ -41,7 +41,7 @@ Uau! Selecione sua lista para ver as novas palavras-chave.
 
 Também é possível remover palavras-chave de uma lista.
 
-1. Vá para a seção **Palavras-chave** .
+1. Vá para a seção **Palavras-chave**.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
