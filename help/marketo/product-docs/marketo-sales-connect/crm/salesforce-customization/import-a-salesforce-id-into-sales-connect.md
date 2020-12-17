@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Importar uma ID do Salesforce para o Sales Connect {#import-a-salesforce-id-into-sales-connect}
+# Importar um ID do Salesforce no Sales Connect {#import-a-salesforce-id-into-sales-connect}
 
 O Sales Connect usa a ID de contato ou de cliente potencial (também conhecida como ID do Salesforce) para ajudar a registrar as informações corretamente no Salesforce. Há algumas maneiras de anexar sua ID do Salesforce aos seus contatos no Sales Connect.
 
