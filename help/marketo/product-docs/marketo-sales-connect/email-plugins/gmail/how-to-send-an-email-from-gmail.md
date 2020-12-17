@@ -17,5 +17,5 @@ ht-degree: 0%
 1. Insira o endereço de email do recipient.
 1. Insira o assunto do email.
 1. Selecione um modelo de email ou escreva uma nova mensagem.
-1. Quando seu email estiver pronto para ser enviado, clique no botão **Enviar e conectar** . Clique nesse botão em vez do botão normal enviar `will ensure your email is sent with tracking applied`. O Sales Connect rastreará quando seu email for aberto e quando alguém clicar em qualquer link.
+1. Quando seu email estiver pronto para ser enviado, clique no botão **Enviar e conectar**. Clique nesse botão em vez do botão normal de envio `will ensure your email is sent with tracking applied`. O Sales Connect rastreará quando seu email for aberto e quando alguém clicar em qualquer link.
 
