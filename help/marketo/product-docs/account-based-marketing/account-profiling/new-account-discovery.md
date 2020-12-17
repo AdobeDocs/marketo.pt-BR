@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Nova descoberta de conta {#new-account-discovery}
+# Nova Detecção de Conta {#new-account-discovery}
 
 A Nova Detecção de Conta pode ajudá-lo a encontrar novas contas para o público alvo, usando as recomendações do seu perfil de cliente ideal, alimentadas por AI.
 
@@ -21,17 +21,17 @@ A Nova Detecção de Conta pode ajudá-lo a encontrar novas contas para o públi
 
 >[!TIP]
 >
->É recomendável pressionar o botão **Atualizar contas** existentes antes de executar uma nova pesquisa de conta para garantir que você esteja olhando para os dados mais recentes. Esta atualização pode levar até 24 horas.
+>É recomendável pressionar o botão **Atualizar contas existentes** antes de executar uma nova pesquisa de conta para garantir que você esteja olhando para os dados mais recentes. Esta atualização pode levar até 24 horas.
 
 1. Em Meu Marketo, clique em **ABM**.
 
    ![](assets/one-1.png)
 
-1. Clique na guia Perfil **da** conta.
+1. Clique na guia **Perfil da conta**.
 
    ![](assets/two-2.png)
 
-1. Clique na guia **Novas contas** .
+1. Clique na guia **Novas contas**.
 
    ![](assets/three-1.png)
 
@@ -49,7 +49,7 @@ A Nova Detecção de Conta pode ajudá-lo a encontrar novas contas para o públi
 
    >[!NOTE]
    >
-   >Se você visualizar apenas algumas contas desejadas, terá a opção de clicar em contas individuais e clicar em **Salvar contas** selecionadas quando terminar.
+   >Se você visualizar apenas algumas contas desejadas, terá a opção de clicar em **Salvar contas selecionadas** quando terminar.
 
 1. Você pode fazer da sua lista sua própria Lista Conta ou adicioná-la a uma existente. Neste exemplo, criaremos um novo.
 
@@ -57,7 +57,7 @@ A Nova Detecção de Conta pode ajudá-lo a encontrar novas contas para o públi
 
    >[!NOTE]
    >
-   >Para salvá-la em uma Lista de conta existente, selecione essa opção, clique na lista suspensa e selecione a Lista de conta desejada e clique em **Avançar**.
+   >Para salvá-la em uma Lista de conta existente, selecione essa opção, clique na lista suspensa e selecione a Lista de conta desejada e clique em **Próximo**.
 
 1. Clique em **Salvar**.
 
@@ -65,7 +65,7 @@ A Nova Detecção de Conta pode ajudá-lo a encontrar novas contas para o públi
 
    >[!NOTE]
    >
-   >Você só pode salvar até 5.000 contas por vez. Se a sua pesquisa produzir 10.000 resultados, você terá que salvar os primeiros (principais) 5.000, redefinir os filtros e salvar os próximos 5.000. O limite **total** da conta é de um milhão.
+   >Você só pode salvar até 5.000 contas por vez. Se a sua pesquisa produzir 10.000 resultados, você terá que salvar os primeiros (principais) 5.000, redefinir os filtros e salvar os próximos 5.000. O limite de conta **total** é de um milhão.
 
 1. Clique em **OK**.
 
