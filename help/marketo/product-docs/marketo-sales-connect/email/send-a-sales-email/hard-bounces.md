@@ -23,7 +23,7 @@ Ocorre uma forte rejeição quando um email falhou devido a um endereço de emai
 
 >[!NOTE]
 >
->Deseja configurar o Sales Connect para percorrer seu próprio provedor SMTP? Vá [aqui](http://docs.marketo.com/x/zYTS).
+>Deseja configurar o Sales Connect para percorrer seu próprio provedor SMTP? Basta ir [aqui](http://docs.marketo.com/x/zYTS).
 
 ## Lista de e-mails enviados {#list-of-bounced-emails}
 
