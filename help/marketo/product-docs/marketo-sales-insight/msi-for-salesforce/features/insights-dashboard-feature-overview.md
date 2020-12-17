@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Visão geral dos recursos do Painel Insights {#insights-dashboard-feature-overview}
+# Visão geral dos recursos do Painel do Insights {#insights-dashboard-feature-overview}
 
 Saiba mais sobre os recursos disponíveis no painel Sales Insights.
 
 >[!PREREQUISITES]
 >
->Você deve ter o pacote MSI SFDC e a [configuração](http://docs.marketo.com/x/F4GMAg)mais recentes.
+>Você deve ter o pacote MSI SFDC mais recente e [configuração](http://docs.marketo.com/x/F4GMAg).
 
 ![](assets/one.png)
 
@@ -156,7 +156,7 @@ guia evento:
 * A barra Resumo semanal mostrará Momentos interessantes, Email e Atividade da Web para essa semana. Cada ícone é clicável e pode ser usado como filtros para mostrar atividades específicas
 * Visualização padrão: Esta é uma lista de atividades da visualização atual
 
-**Guia Campanhas de e-mail e Eventos** futuros:
+**Campanhas de e-mail e** eventos futurosGuia Campanhas de e-mail:
 
 * Inclui campanhas que fazem parte de programas de e-mail ou programas padrão programados nos próximos 90 dias
 * Não específico do contato/cliente potencial (ou seja, a lista de campanhas é uma lista genérica de todas as campanhas de email agendadas na instância de Marketo). A lista de campanhas em todos os painéis de cliente potencial, contato, conta e oportunidade será a mesma
