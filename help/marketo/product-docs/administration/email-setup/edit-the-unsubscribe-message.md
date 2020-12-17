@@ -36,7 +36,7 @@ Ao enviar emails de marketing (não [operacionais](../../../product-docs/email-m
    >    * **mkt_unsubscribe=1&amp;mkt_tok=##MKT_TOK##**
 
 
-1. Edite as versões **Cancelar inscrição em HTML** e **Cancelar inscrição em texto** de sua preferência e clique em **Salvar alterações**.
+1. Edite as versões **Cancele a assinatura de HTML** e **Cancele a assinatura das versões de Texto** ao seu gosto e clique em **Salvar alterações**.
 
    ![](assets/image2016-8-26-13-3a40-3a55.png)
 
@@ -44,9 +44,9 @@ Ao enviar emails de marketing (não [operacionais](../../../product-docs/email-m
 
 >[!TIP]
 >
->Você pode personalizar a posição do HTML de cancelamento de inscrição em seu email usando [tokens](../../../product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>Você pode personalizar a posição do HTML de cancelamento de assinatura em seu email usando [tokens](../../../product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
-## Texto padrão para cancelar a assinatura {#default-unsubscribe-text}
+## Texto padrão de cancelamento de assinatura {#default-unsubscribe-text}
 
 Se você precisar reverter para o cancelamento de assinatura padrão do sistema, copie/cole o seguinte:
 
