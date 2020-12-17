@@ -16,11 +16,11 @@ ht-degree: 0%
 
 É possível criar novas entradas básicas diretamente da visualização do cronograma do programa.
 
-1. Selecione seu programa na árvore e vá para a guia **[!UICONTROL Agendamento]** em **[!UICONTROL Visão geral]**.
+1. Selecione seu programa na árvore e vá para a guia **[!UICONTROL Schedule]** em **[!UICONTROL Overview]**.
 
    ![Imagem Um](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-1.png)
 
-1. Passe o mouse sobre o dia em que deseja adicionar uma entrada e clique em **[!UICONTROL Adicionar]**.
+1. Passe o cursor do mouse sobre o dia em que deseja adicionar uma entrada e clique em **[!UICONTROL Adicionar]**.
 
    ![Imagem dois](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >Você também pode seguir etapas semelhantes para criar uma entrada básica a partir das visualizações Dia, Semana ou Agenda.
 
-1. Insira um nome para a nova entrada básica e, em seguida, altere **[!UICONTROL Tipo]** para Entrada  básica, se necessário. Você também pode modificar a Data **[!UICONTROL de]** Start e término e desmarcar **[!UICONTROL Abrir na Visualização]** da Agenda se quiser permanecer no calendário após a criação da entrada. Clique em **[!UICONTROL Salvar]**.
+1. Digite um nome para a nova entrada básica e, em seguida, altere **[!UICONTROL Type]** para [!UICONTROL Entrada básica], se necessário. Você também pode modificar o **[!UICONTROL Start e data final]** e desmarcar **[!UICONTROL Abrir na Visualização da Agenda]** se quiser permanecer no calendário após a criação da entrada. Clique em **[!UICONTROL Salvar]**.
 
    ![Imagem Três](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ ht-degree: 0%
 
 **Artigos relacionados**
 
-Você também pode criar uma campanha [inteligente em](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) lote ou programa [de](/help/sky/create-an-email-program-in-program-schedule-view.md) email a partir da visualização agendada.
+Você também pode criar uma [campanha inteligente em lote](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) ou [programa de email](/help/sky/create-an-email-program-in-program-schedule-view.md) a partir da visualização agendada.
