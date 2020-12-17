@@ -39,7 +39,7 @@ Tags são atributos que descrevem seus programas e são usados para agrupar tipo
 
 ## Editar uma tag {#edit-a-tag}
 
-1. Vá até a guia **Configuração** . Clique com o botão direito do mouse na tag . Selecione **Editar**.
+1. Vá para a guia **Setup**. Clique com o botão direito do mouse na tag . Selecione **Editar**.
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -55,9 +55,9 @@ Tags são atributos que descrevem seus programas e são usados para agrupar tipo
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## Excluir uma tag  {#delete-a-tag}
+## Excluir uma tag {#delete-a-tag}
 
-1. Vá até a guia **Configuração** . Clique com o botão direito do mouse na tag e selecione **Excluir**.
+1. Vá para a guia **Setup**. Clique com o botão direito do mouse na tag e selecione **Excluir**.
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
