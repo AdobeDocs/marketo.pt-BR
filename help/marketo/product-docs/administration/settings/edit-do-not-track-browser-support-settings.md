@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Em Rastreamento **de** pessoas, clique em **Editar**.
+1. Em **Rastreamento de pessoa**, clique em **Editar**.
 
    ![](assets/three-2.png)
 
