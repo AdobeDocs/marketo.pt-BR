@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Registrar e-mails de entrada dos seus clientes potenciais no Marketo {#log-inbound-mail-from-your-leads-in-marketo}
+# Registre emails de entrada de seus clientes potenciais no Marketo {#log-inbound-mail-from-your-leads-in-marketo}
 
 Você pode registrar respostas de seus clientes potenciais diretamente no Outlook com o suplemento de email Marketing.
 
-## Do aplicativo principal do Outlook {#from-the-main-outlook-application}
+## Do Aplicativo principal do Outlook {#from-the-main-outlook-application}
 
 1. Selecione o e-mail que deseja registrar e clique em Registrar com o Marketo.
 
