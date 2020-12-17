@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Entender/ativar foco do Programa {#understand-enable-program-focus}
 
-O Calendário de marketing oferece uma visualização de pássaros, mas também permite algumas interações. Você pode [criar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [editar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [excluir](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)e [confirmar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entradas. Para interagir com entradas, é necessário focar primeiro em um programa.
+O Calendário de marketing oferece uma visualização de pássaros, mas também permite algumas interações. Você pode [criar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [editar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [excluir](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) e [confirmar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entradas. Para interagir com entradas, é necessário focar primeiro em um programa.
 
-1. Vá para o **Marketing** **Calendar**.
+1. Vá para **Marketing** **Calendário**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Selecione uma entrada e clique em **Mostrar foco** do Programa.
+1. Selecione uma entrada e clique em **Mostrar foco do Programa**.
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
