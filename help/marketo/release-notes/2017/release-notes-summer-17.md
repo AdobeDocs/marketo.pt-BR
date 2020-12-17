@@ -35,17 +35,17 @@ Garanta a consistência de mensagens e conteúdo, impedindo as edições nos mod
 
 Combine as pessoas aos nomes das empresas japonesas no idioma local.
 
-** Integração [ABM e LeanData](https://docs.marketo.com/x/pKmt)**
+** [Integração ABM e LeanData](https://docs.marketo.com/x/pKmt)**
 
 A integração do LeanData agora permite a correspondência de cliente a conta no Marketing. Mantenha o marketing e as vendas alinhados por ter os mesmos clientes potenciais associados às contas nos sistemas de vendas e marketing do registro. Opções mais flexíveis oferecem às Operações de marketing e vendas mais controle sobre as regras de correspondência lead-to-account, para que possam atingir o nível de precisão desejado.
 
 ## Aprimoramentos de personalização da Web {#web-personalization-enhancements}
 
-** Aprimoramentos [da Pré-visualização](https://docs.marketo.com/x/fQGa)da Campanha**
+** [Aprimoramentos de Pré-visualização de Campanha](https://docs.marketo.com/x/fQGa)**
 
-Os profissionais de marketing agora podem garantir que suas campanhas da Web fiquem excelentes em qualquer dispositivo *antes* de iniciá-las. Com esses aprimoramentos, veja como suas campanhas da Web serão renderizadas no desktop, nos dispositivos móveis e nos tablets. O novo plug-in do Chrome também oferta pré-visualizações mais consistentes e precisas.
+Os profissionais de marketing agora podem garantir que suas campanhas da Web fiquem excelentes em qualquer dispositivo *antes de* iniciá-las. Com esses aprimoramentos, veja como suas campanhas da Web serão renderizadas no desktop, nos dispositivos móveis e nos tablets. O novo plug-in do Chrome também oferta pré-visualizações mais consistentes e precisas.
 
-** Aprimoramentos [de Campanha de](https://docs.marketo.com/x/KgNI)widget**
+** [Aprimoramentos de Campanha de widget](https://docs.marketo.com/x/KgNI)**
 
 Novas opções para Campanhas de widget estão disponíveis, incluindo:
 
@@ -55,7 +55,7 @@ Novas opções para Campanhas de widget estão disponíveis, incluindo:
 
 ## Conteúdo`<sup>AI</sup>` {#contentai}
 
-** [`<sup>AI </sup>`ContentAnalytics e sugestões](https://docs.marketo.com/x/1BPG)**
+** [Conteúdo`<sup>AI </sup>`Análises e Sugestões](https://docs.marketo.com/x/1BPG)**
 
 Aumente o retorno sobre o marketing de conteúdo com análises mais profundas e sugestões de conteúdo com recursos de AI para aumentar o envolvimento.***Análises poderosas mostram o desempenho do conteúdo recomendado, incluindo visualizações populares, baseadas em tendências e audiências. Você também verá sugestões para conteúdo adicional a ser incluído.
 
