@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Importar uma Lista de pessoas {#import-a-list-of-people}
+# Importar uma Lista de Pessoas {#import-a-list-of-people}
 
 ## Missão: Importe uma lista de planilha de participantes do programa comercial para seu banco de dados {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha para o Marketo.
 
-## Etapa 1: Baixar e editar uma planilha {#step-download-and-edit-a-spreadsheet}
+## Etapa 1: Baixe e edite uma planilha {#step-download-and-edit-a-spreadsheet}
 
 1. Para o start, baixe nosso arquivo de planilha de práticas ([**tradeshow-attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) no seu computador.
 
@@ -45,11 +45,11 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 ## Etapa 2: Criar um Programa {#step-create-a-program}
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/ma-2.png)
 
-1. Selecione sua pasta **Learning** e, em **New (Novo** ), clique em **New (Novo Programa**).
+1. Selecione sua pasta **Learning** e, em **New**, clique em **Novo Programa**.
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
@@ -57,7 +57,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
-1. Selecione **Transmissão** para o **Canal** e clique em **Criar**.
+1. Selecione **Transmissão** para o Canal **e clique em** Criar **.**
 
    ![](assets/image2014-9-24-12-3a21-3a39.png)
 
@@ -67,7 +67,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 ## Etapa 3: Importar sua planilha para o Marketing {#step-import-your-spreadsheet-into-marketo}
 
-1. Em **Meu Programa** de shows de vendas, clique em **Novo** e selecione **Novo ativo** local.
+1. Em **Meu Programa de shows de vendas**, clique em **Novo** e selecione **Novo ativo local**.
 
    ![](assets/seven-3.png)
 
@@ -75,11 +75,11 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **Nomeie** a lista como &quot;Participantes da apresentação comercial&quot; e clique em **Criar**.
+1. **Nomeie** a lista &quot;Participantes da apresentação comercial&quot; e clique em  **Criar**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
-1. Na sua lista de **Participantes** da apresentação comercial, clique em Ações **de** Lista e selecione **Importar Lista**.
+1. Na sua lista **Participantes de show comercial**, clique em **Ações de Lista** e selecione **Importar Lista**.
 
    ![](assets/ten-2.png)
 
@@ -91,20 +91,20 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
    >
    >O limite de tamanho para arquivos CSV é de 100 MB.
 
-1. **Navegue** até o arquivo de planilha **tradeshow-attendees.csv** no computador e clique em **Avançar**.
+1. **Navegue** até o arquivo  **tradeshow-attendees.** csvspreadsheet no computador e clique em  **Avançar**.
 
    ![](assets/eleven-2.png)
 
    >[!NOTE]
    >
-   >No Modo de importação de Lista, escolher **Ignorar novas pessoas e atualizações** significa que você não afetará os registros pessoais existentes ou registrará quaisquer atividades. Use este modo se desejar uma lista estática rápida e pré-filtrada de pessoas existentes para uso em suas atividades de marketing. Selecionar este modo irá:
+   >No Modo de importação de Lista, escolher **Ignorar novas pessoas e atualizações** significa que você não afetará os registros pessoais existentes nem registrará quaisquer atividades. Use este modo se desejar uma lista estática rápida e pré-filtrada de pessoas existentes para uso em suas atividades de marketing. Selecionar este modo irá:
    >
    > * Ignorar a criação de nova pessoa
    > * Ignorar atualizações de campo de pessoa
    > * Ignorar registro de atividades
 
 
-1. Mapeie os campos Coluna da Lista para o respectivo Campo de marketing e clique em **Avançar**.
+1. Mapeie os campos Coluna de Lista para o respectivo Campo de marketing e clique em **Próximo**.
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
@@ -116,7 +116,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
    >
    >Se houver campos que você não deseja importar, selecione **Ignorar** no menu suspenso Campo de marketing.
 
-1. Selecione **Meu Programa** de show de vendas para o Programa **de** aquisição e clique em **Importar**.
+1. Selecione **Meu Programa de apresentação de vendas** para o **Programa de aquisição** e clique em **Importar**.
 
    ![](assets/image2014-9-24-12-3a25-3a1.png)
 
@@ -124,7 +124,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
    ![](assets/image2014-9-24-12-3a25-3a13.png)
 
-1. De volta ao **Meu Programa** de shows de vendas, clique na guia **Membros** . Você verá todas as pessoas que acabou de importar.
+1. De volta a **O meu Programa de apresentação comercial**, clique na guia **Membros**. Você verá todas as pessoas que acabou de importar.
 
    ![](assets/fifteen-1.png)
 
