@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Emitir uma licença {#issue-a-license}
+# Emita uma licença {#issue-a-license}
 
 Você precisará configurar os usuários com uma licença para usar o ABM. Aqui está como fazer isso.
 
@@ -23,7 +23,7 @@ Você precisará configurar os usuários com uma licença para usar o ABM. Aqui 
 
    ![](assets/one.png)
 
-1. Clique em **Usuários e funções**. Selecione o usuário para o qual emitir a licença, clique no menu suspenso **Emitir licença** e selecione Marketing **baseado em** conta.
+1. Clique em **Usuários e funções**. Selecione o usuário para o qual emitir a licença, clique no menu suspenso **Emitir licença** e selecione **Marketing baseado em conta**.
 
    ![](assets/two.png)
 
@@ -33,5 +33,5 @@ Você precisará configurar os usuários com uma licença para usar o ABM. Aqui 
 
    >[!NOTE]
    >
-   >Para remover uma licença de usuário, siga a etapa 1, ** desmarque a caixa de seleção e clique em **Salvar**.
+   >Para remover uma licença de usuário, siga a etapa 1, em seguida *un* marque a caixa de seleção e clique em **Salvar**.
 
