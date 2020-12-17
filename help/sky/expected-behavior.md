@@ -26,10 +26,10 @@ Neste artigo, você encontrará informações sobre o comportamento esperado ass
 * O PA pode ser acessado tanto no Marketo Sky quanto na experiência do Marketo Classic. A disponibilidade de recursos específicos é a seguinte:
    * Filtros preditivos - [!DNL Sky/Classic]
    * Registros projetados - [!DNL Sky/Classic]
-   * Previsões de probabilidade de nível de cliente potencial - [!DNL Sky/Classic]
-   * Metas e rastreamento - [!DNL Sky] somente
-   * Insights e recomendações - [!DNL Sky] somente
-* [A ativação](/help/sky/getting-started-with-predictive-audiences.md) inicial leva de **24 a 48 horas** para que todos os processos sejam concluídos após a ativação do PA. Você verá todos os recursos de Audiências preditivas e Filtros preditivos na interface, mas pode levar até 24 horas para que esses recursos comecem a funcionar.
+   * Previsões de probabilidade em nível de cliente potencial - [!DNL Sky/Classic]
+   * Metas e rastreamento - somente [!DNL Sky]
+   * Insights e recomendações - somente [!DNL Sky]
+* [A ](/help/sky/getting-started-with-predictive-audiences.md) ativação inicial leva de **24 a 48** horas para que todos os processos sejam concluídos após a ativação do PA. Você verá todos os recursos de Audiências preditivas e Filtros preditivos na interface, mas pode levar até 24 horas para que esses recursos comecem a funcionar.
 * **As previsões serão geradas somente para novas campanhas que são criadas após o recurso ser ativado.**
 
 ## Há algumas considerações adicionais específicas para filtros preditivos:
@@ -40,8 +40,8 @@ Neste artigo, você encontrará informações sobre o comportamento esperado ass
 * Para executar uma campanha inteligente, filtros de probabilidade precisam ser usados em conjunto com outros filtros regulares.
 * O recurso Regras salvas não está disponível para uso em campanhas que contêm filtros preditivos.
 * Você pode usar **até 5** filtros preditivos em uma lista inteligente.
-* Filtros preditivos podem processar um **máximo de 1 milhão de clientes potenciais** qualificados.
-* Você pode ter **até 50 programas** ativos com filtros preditivos. Um programa ativo é qualquer programa que usa filtros preditivos e foi agendado pelo menos uma vez.
+* Filtros preditivos podem processar um **máximo de 1 milhão de clientes potenciais qualificados**.
+* Você pode ter **até 50 programas ativos** com filtros preditivos. Um programa ativo é qualquer programa que usa filtros preditivos e foi agendado pelo menos uma vez.
 
 ## Quando os registros projetados não estão disponíveis?
 
