@@ -23,11 +23,11 @@ Mas ao importá-lo para o Marketo, você pode ver que os caracteres que não sã
 
 Isso ocorre porque o arquivo não é salvo corretamente para que o Marketo reconheça todos os caracteres não latinos. A boa notícia é que há alguns passos simples a serem seguidos para consertá-lo.
 
-1. Selecione **Salvar como...** no menu **Arquivo** no Excel.
+1. Selecione **Salvar como...** do menu **Arquivo** no Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Escolha Texto Unicode **UTF-16 (.txt)** como a opção **Formato** . Isso codificará o arquivo da maneira que o Marketo pode exibi-los.
+1. Escolha **UTF-16 Texto Unicode (.txt)** como a opção **Format**. Isso codificará o arquivo da maneira que o Marketo pode exibi-los.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ Isso ocorre porque o arquivo não é salvo corretamente para que o Marketo recon
 
    >[!TIP]
    >
-   >Você pode abrir o arquivo de texto usando o **Bloco de notas** se estiver usando o Windows ou o **TextEdit** se estiver usando um Mac.
+   >Você pode abrir o Arquivo de texto usando **Bloco de notas** se estiver usando o Windows ou **TextEdit** se estiver usando um Mac.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,7 +47,7 @@ Isso ocorre porque o arquivo não é salvo corretamente para que o Marketo recon
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Selecione **Localizar e substituir...** no menu **Editar** .
+1. Selecione **Localizar e Substituir...** no menu **Editar**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
@@ -55,7 +55,7 @@ Isso ocorre porque o arquivo não é salvo corretamente para que o Marketo recon
    >
    >A ação equivalente para usuários do Windows é: **Editar > Substituir...**
 
-1. Cole a guia copiada na etapa 4 na primeira caixa (a ser substituída) e digite uma vírgula na segunda caixa (substituir por). E clique em **Todos**.
+1. Cole a guia copiada na etapa 4 na primeira caixa (a ser substituída) e digite uma vírgula na segunda caixa (substituir por). E clique em **All**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 
