@@ -21,4 +21,4 @@ Normalmente, qualquer arquivo acima de 20 MB será muito grande para ser entregu
 >
 >Ao usar Tout como canal de delivery de email, recomendamos que os arquivos de 19 MB ou menos sejam enviados por email.
 
-Se precisar enviar um arquivo grande, tente compactá-lo primeiro ou carregá-lo como um anexo [](http://docs.marketo.com/x/3oPS) rastreável no aplicativo [](http://toutapp.com/login)da Web.
+Se precisar enviar um arquivo grande, tente compactá-lo primeiro ou carregá-lo como um [anexo rastreável](http://docs.marketo.com/x/3oPS) no [aplicativo da Web](http://toutapp.com/login).
