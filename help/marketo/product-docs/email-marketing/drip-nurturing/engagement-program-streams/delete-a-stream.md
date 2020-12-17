@@ -37,5 +37,5 @@ Se você precisar excluir um fluxo do seu programa de envolvimento, siga estas e
 
    >[!NOTE]
    >
-   >Se o fluxo tiver pessoas nele, você será solicitado a [movê](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) -las para fora primeiro.
+   >Se o fluxo tiver pessoas nele, você será solicitado a [movê-las](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) para fora primeiro.
 
