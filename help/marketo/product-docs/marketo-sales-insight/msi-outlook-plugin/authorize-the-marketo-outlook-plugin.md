@@ -23,7 +23,7 @@ Para usar o plug-in MSI do Marketo no Outlook, é necessário autorizá-lo.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Quando a caixa de diálogo Autorizar plug-in de marketing for exibida, clique em **Solicitar código**.
+1. Quando a caixa de diálogo Autorizar plug-in de marketing for exibida, clique em **Código de solicitação**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
