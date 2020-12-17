@@ -21,7 +21,7 @@ Adicione uma identidade quando tiver vários endereços de email para enviar.
 
    >[!NOTE]
    >
-   >Saiba mais sobre como [adicionar assinaturas às suas identidades](https://docs.marketo.com/x/6BnG).
+   >Saiba mais sobre [Adicionar assinaturas às suas identidades](https://docs.marketo.com/x/6BnG).
 
 1. Digite suas informações (e-mail e nome são campos obrigatórios) e clique em **Criar** quando terminar.
 1. Clique no link no e-mail de verificação recebido.
