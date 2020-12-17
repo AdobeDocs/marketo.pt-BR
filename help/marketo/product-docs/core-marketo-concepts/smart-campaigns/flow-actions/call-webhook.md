@@ -31,7 +31,7 @@ Os webhooks permitem que você interaja com serviços de terceiros. Envie/receba
 >
 >**Mergulho profundo**
 >
->Saiba mais sobre as muitas coisas fascinantes que [Webhooks](http://developers.marketo.com/documentation/webhooks/) pode fazer por você.
+>Saiba mais sobre as muitas coisas fascinantes que [Webhooks](http://developers.marketo.com/documentation/webhooks/) podem fazer por você.
 
 ## Uso {#usage}
 
