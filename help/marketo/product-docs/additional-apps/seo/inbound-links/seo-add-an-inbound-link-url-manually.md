@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode adicionar links de entrada manualmente. Veja como:
 
-1. Vá para a seção Links **de** entrada.
+1. Vá para a seção **Links de entrada**.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
@@ -23,13 +23,13 @@ Você pode adicionar links de entrada manualmente. Veja como:
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. Digite o URL. Clique em **ADICIONAR**.
+1. Digite o URL. Clique em **ADD**.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >Você sabia que pode [adicionar seu link de entrada a uma lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)nova ou existente? Confira!
+   >Você sabia que pode [adicionar seu link de entrada a uma lista nova ou existente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Confira!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
