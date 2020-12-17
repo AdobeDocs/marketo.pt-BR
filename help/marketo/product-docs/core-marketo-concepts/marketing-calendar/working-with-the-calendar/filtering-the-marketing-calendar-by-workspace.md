@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Filtrar o calendário de marketing por área de trabalho {#filtering-the-marketing-calendar-by-workspace}
+# Filtrar o calendário de marketing pelo Workspace {#filtering-the-marketing-calendar-by-workspace}
 
 O Calendário de marketing pode ser filtrado por objetos em espaços de trabalho específicos.
 
-1. Vá para o **Calendário**.
+1. Vá para **Calendar**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. No painel de filtros, selecione o menu suspenso **Espaço de trabalho** . Escolha o espaço de trabalho desejado.
+1. No painel de filtros, selecione o menu suspenso **Workspace**. Escolha o espaço de trabalho desejado.
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
