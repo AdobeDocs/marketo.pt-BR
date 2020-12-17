@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Excluir um grupo {#delete-a-group}
 
-1. Acesse o grupo que deseja excluir e clique em **Ações**.
+1. Vá para o grupo que deseja excluir e clique em **Ações**.
 1. Selecione **Excluir grupo** no menu suspenso.
 1. Clique no botão amarelo **Excluir** no pop-up.
 
