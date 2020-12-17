@@ -17,13 +17,13 @@ O Marketo permite sincronizar seus programas com as campanhas do Salesforce para
 
 >[!PREREQUISITES]
 >
->Será necessário [ativar a sincronização](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) de campanha do Salesforce primeiro.
+>Será necessário [ativar a sincronização de campanha do Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) primeiro.
 
 >[!CAUTION]
 >
 >Ao sincronizar uma campanha SFDC com um programa Marketo, as ações SFDC implícitas (por exemplo, adicionar à Campanha SFDC, Sincronizar com SFDC) serão desativadas para campanhas filhas do programa.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -31,7 +31,7 @@ O Marketo permite sincronizar seus programas com as campanhas do Salesforce para
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Clique em Ações **de** Programa e selecione Sincronização **de Campanha do** Salesforce.
+1. Clique em **Ações de Programa** e selecione **Sincronização de Campanha do Salesforce**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
@@ -39,7 +39,7 @@ O Marketo permite sincronizar seus programas com as campanhas do Salesforce para
 
    >[!TIP]
    >
-   >Se você selecionar uma campanha Salesforce existente, certifique-se de [corresponder aos status do programa da campanha do Salesforce e do programa](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)Marketo.
+   >Se você selecionar uma campanha Salesforce existente, certifique-se de [corresponder aos status do programa da campanha Salesforce e do programa Marketo](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 1. Digite um nome para a nova campanha e clique em **Salvar**.
 
