@@ -17,7 +17,7 @@ Ao utilizar a pesquisa avançada para prospectos de públicos alvos que visualiz
 
 ## Como acessar a pesquisa avançada {#how-to-access-advanced-search}
 
-1. Clique em Central **de comando**.
+1. Clique em **Centro de Comando**.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ Ao utilizar a pesquisa avançada para prospectos de públicos alvos que visualiz
 
    ![](assets/three.png)
 
-1. Clique em Pesquisa **** avançada.
+1. Clique em **Pesquisa avançada**.
 
    ![](assets/four.png)
 
