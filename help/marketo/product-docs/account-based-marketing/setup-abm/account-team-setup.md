@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configuração da equipe da conta {#account-team-setup}
+# Configuração da equipe de conta {#account-team-setup}
 
 Uma equipe de conta é um grupo de participantes que trabalham juntos em uma conta nomeada. Siga estas etapas para escolher quais funções de conta do CRM devem ser adicionadas.
 
@@ -31,7 +31,7 @@ Uma equipe de conta é um grupo de participantes que trabalham juntos em uma con
    >
    >Para Função da conta, atribua um nome e corresponda ao campo de pesquisa do usuário desejado em seu CRM.
 
-1. Digite o nome da função da conta e selecione o campo **CRM** . Adicione até 10.
+1. Digite o nome da função da conta e selecione o campo **CRM**. Adicione até 10.
 
    ![](assets/four-2.png)
 
@@ -39,7 +39,7 @@ Uma equipe de conta é um grupo de participantes que trabalham juntos em uma con
    >
    >Você não pode selecionar Proprietário da conta. É escolhido por padrão a partir do nível da conta em seu CRM.
 
-1. Clique em **Salvar** quando concluído.
+1. Clique em **Salvar** quando terminar.
 
    ![](assets/five-2.png)
 
