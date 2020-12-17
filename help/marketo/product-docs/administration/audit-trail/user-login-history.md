@@ -33,7 +33,7 @@ Para visualização do Histórico de logon do usuário:
 
    ![](assets/image2016-7-12-9-3a2-3a31.png)
 
-1. Clique na guia Histórico **de** logon. A lista mostra os logons mais recentes.
+1. Clique na guia **Histórico de login**. A lista mostra os logons mais recentes.
 
    ![](assets/login-history-tab.jpg)
 
@@ -49,13 +49,13 @@ Para visualização do Histórico de logon do usuário:
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. Selecione os usuários no menu suspenso **Usuários** .*** **
+1. Selecione os usuários no menu suspenso **Usuários**.*** **
 
    ** ![](assets/user-dropdown.jpg)
 
    **
 
-1. Marque a caixa **Somente logons** com falha para exibir somente logons com falha na sua pesquisa.
+1. Marque a caixa **Somente logons com falha** para exibir somente os logons com falha em sua pesquisa.
 
    ![](assets/only-failed-logins.jpg)
 
