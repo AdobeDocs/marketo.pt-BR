@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ativar uma campanha inteligente do acionador é como ativá-la. Aqui está o que fazer.
 
-1. Na guia Smart campanha **Schedule** (Programação **inteligente), clique em** Ativate (Ativar).
+1. Na guia Smart campanha **Schedule**, clique em **Ativate**.
 
    ![](assets/activateprogram-hands.png)
 
