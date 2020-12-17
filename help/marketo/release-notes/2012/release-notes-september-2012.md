@@ -53,7 +53,7 @@ Um Webhook é um retorno de chamada HTTP definido pelo usuário. É uma excelent
 
 Exemplos de como você pode usar Webhooks incluem: envio de informações de nome de usuário e senha para outro sistema para criar uma conta de avaliação; enviando uma mensagem de texto SMS quando você obtém um novo cliente potencial.
 
-## Atualização para a API getMultipleLeads {#update-to-getmultipleleads-api}
+## Atualização da API getMultipleLeads {#update-to-getmultipleleads-api}
 
 Adicionamos novos critérios de filtragem à chamada da API getMultipleLeads. Além da filtragem por data, agora oferecemos suporte a critérios adicionais:
 
