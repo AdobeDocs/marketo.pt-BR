@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Navegadores suportados {#supported-browsers}
+# Navegadores compatíveis {#supported-browsers}
 
 O Marketo suporta atualmente os seguintes navegadores:
 
@@ -22,4 +22,4 @@ O Marketo suporta atualmente os seguintes navegadores:
 | [Apple Safari](http://support.apple.com/downloads/#safari) | mais recente |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) | mais recente |
 
-Para obter a melhor experiência, **mantenha o navegador atualizado**!
+Para obter a melhor experiência, **mantenha seu navegador atualizado**!
