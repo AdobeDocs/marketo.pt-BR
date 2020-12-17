@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Etapa 2 de 3: Configurar usuário de sincronização para o Marketing (2013 On-Premise) {#step-of-configure-sync-user-for-marketo-on-premises}
+# Etapa 2 de 3: Configurar o usuário de sincronização para o Marketing (2013 On-Premise) {#step-of-configure-sync-user-for-marketo-on-premises}
 
 Excelente trabalho ao completar os passos anteriores, vamos continuar a avançar nisto.
 
@@ -36,47 +36,47 @@ Atribua a função Usuário de sincronização de marketing somente ao usuário 
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. Você verá uma lista de usuários aqui. Selecione seu usuário dedicado de Sincronização de Marketing ou entre em contato com seu [administrador do](https://msdn.microsoft.com/en-us/library/bb897402.aspx) Ative Diretory Federation Services (AFDS) [para criar um novo usuário dedicado ao Marketo.](http://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
+1. Você verá uma lista de usuários aqui. Selecione seu usuário dedicado de Sincronização de Marketing ou entre em contato com seu [administrador do Ative Diretory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [para criar um novo usuário dedicado ao Marketo.](http://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. Selecione o usuário de sincronização. Clique ![](assets/image2015-3-26-11-3a16-3a22.png)e selecione **Gerenciar funções**
+1. Selecione o usuário de sincronização. Clique em ![](assets/image2015-3-26-11-3a16-3a22.png)e selecione **Gerenciar funções**
 
    ![](assets/image2015-3-26-11-3a18-3a6.png)
 
-1. Marque **Marketo Sync User (Usuário** de sincronização de marketing) e clique em **OK**.
+1. Marque **Usuário de sincronização de marketing** e clique em **OK**.
 
    ![](assets/image2014-12-11-11-3a14-3a52.png)
 
    >[!TIP]
    >
-   >Se você não vir a função, volte para a [etapa 1 da 3](step-1-of-3-install.md) e importe a solução.
+   >Se você não vir a função, volte para [etapa 1 de 3](step-1-of-3-install.md) e importe a solução.
 
    >[!NOTE]
    >
-   >Todas as atualizações feitas em seu CRM pelo usuário de sincronização **não** serão sincronizadas de volta ao Marketo.
+   >Todas as atualizações feitas em seu CRM pelo Usuário de sincronização serão **e não** sincronizadas de volta ao Marketo.
 
-## Configuração da solução de marketing {#configure-marketo-solution}
+## Configurar a solução de marketing {#configure-marketo-solution}
 
 Quase pronto! Temos apenas algumas últimas configurações antes de passar para o próximo artigo.
 
-1. Em **Configurações**, clique em **Configuração** de marketing.
+1. Em **Configurações**, clique em **Configuração do Marketing**.
 
    ![](assets/image2014-12-11-11-3a15-3a1.png)
 
    >[!NOTE]
    >
-   >Se **Marketo Config** estiver ausente, tente atualizar a página. Se o problema persistir, [publique a solução](https://docs.marketo.com/pages/viewpage.action?pageId=3571813#Step1of3:InstalltheMarketoSolutioninDynamics(2013On-Premises)-PublishAllCustomizations) Marketo novamente ou tente fazer logoff e login novamente.
+   >Se **Configuração do Marketing** estiver ausente, tente atualizar a página. Se o problema persistir, [publique a solução Marketo](https://docs.marketo.com/pages/viewpage.action?pageId=3571813#Step1of3:InstalltheMarketoSolutioninDynamics(2013On-Premises)-PublishAllCustomizations) novamente ou tente fazer logoff e login novamente.
 
 1. Clique em **Padrão**.
 
    ![](assets/image2015-3-26-11-3a30-3a20.png)
 
-1. Clique no campo **Marketo User (Usuário** de marketing) e selecione o usuário de sincronização.
+1. Clique no campo **Usuário do Marketing** e selecione o usuário de sincronização.
 
    ![](assets/image2015-3-26-11-3a29-3a13.png)
 
-1. Clique ![](assets/image2015-3-13-15-3a10-3a11.png) no canto inferior direito para salvar as alterações.
+1. Clique em ![](assets/image2015-3-13-15-3a10-3a11.png) no canto inferior direito para salvar as alterações.
 
    ![](assets/image2014-12-11-11-3a15-3a32.png)
 
@@ -84,10 +84,10 @@ Quase pronto! Temos apenas algumas últimas configurações antes de passar para
 
    ![](assets/publish-all-customizations1.png)
 
-## Antes de prosseguir para a etapa 3 {#before-proceeding-to-step}
+## Antes de prosseguir para a Etapa 3 {#before-proceeding-to-step}
 
-* Se você quiser restringir o número de registros sincronizados, [configure um filtro](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) de sincronização personalizado agora.
-* Execute o processo [Validar Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) . Ele verifica se as configurações iniciais foram feitas corretamente.
+* Se você quiser restringir o número de registros sincronizados, [configure um filtro de sincronização personalizado](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) agora.
+* Execute o processo [Validar Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Ele verifica se as configurações iniciais foram feitas corretamente.
 * Faça logon no usuário de sincronização de marketing no Microsoft Dynamics CRM.
 
 Ótimo trabalho!
