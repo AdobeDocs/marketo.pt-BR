@@ -21,7 +21,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
 
    ![](assets/one-edited.png)
 
-1. O editor de email será aberto. Selecione Rich text (Rich text), clique no ícone de engrenagem e selecione **Edit (Editar**).
+1. O editor de email será aberto. Selecione Rich text (Texto formatado), clique no ícone de engrenagem e selecione **Editar**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
 
    ![](assets/three.png)
 
-1. Adicione/edite o texto e pressione **Salvar**.
+1. Adicione/edite seu texto e pressione **Salvar**.
 
    ![](assets/four.png)
 
@@ -38,7 +38,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
    >**Lembrete**
    >
    >
-   >Também é possível adicionar imagens, tokens, tabelas e outros elementos. Consulte [Uso do Editor](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)de Rich Text.
+   >Também é possível adicionar imagens, tokens, tabelas e outros elementos. Consulte [Usando o Editor de Rich Text](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -88,7 +88,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
 
    >[!NOTE]
    >
-   >Se você estiver substituindo uma imagem, precisará marcar a caixa **Substituir imagem** existente que aparece abaixo do URL/nome da imagem.
+   >Se você estiver substituindo uma imagem, precisará marcar a caixa **Substituir imagem existente** que aparece abaixo do URL/nome da imagem.
 
    **Design** StudioPara inserir uma imagem do Design Studio, basta localizá-la...
 
