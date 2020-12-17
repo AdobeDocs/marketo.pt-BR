@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Como entender Programas {#understanding-programs}
 
-Os programas representam uma única iniciativa de marketing. Você pode pensar nele como um container com todas as coisas que você precisa para fazer o programa funcionar - são chamados de ativos locais e incluem **landings page**, **email**, campanhas **** inteligentes e muito mais. Programas fazem muito, mas é fácil começar.
+Os programas representam uma única iniciativa de marketing. Você pode pensar nele como um container com tudo o que precisa para fazer o programa funcionar - são chamados de ativos locais e incluem **landing page**, **email**, **campanhas inteligentes** e muito mais. Programas fazem muito, mas é fácil começar.
 
 Há quatro tipos de programas:
 
 **Programas eventos**
 
-**[Os eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** têm uma data e hora específicas. Eles ajudam você a coordenar, facilitar e rastrear seus eventos online e ao vivo.
+**[Os](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** eventos têm uma data e hora específicas. Eles ajudam você a coordenar, facilitar e rastrear seus eventos online e ao vivo.
 
 **Programas de envolvimento**
 
-**[A Depuração](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** é usada para alimentar pessoas em um agendamento periódico definido.
+**[O Depurador](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** Nurturingé usado para alimentar pessoas em um agendamento periódico definido.
 
 **Programas de e-mail**
 
-A **[clássica explosão](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)** de correio. Ele tem recursos internos interessantes, como testes A/B e Start **[de cabeçalho de](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)** email.
+A **[lance de correio clássico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Ele tem recursos internos interessantes, como testes A/B e **[Start do cabeçalho do email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
 
 **Programas padrão**
 
