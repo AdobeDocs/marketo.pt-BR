@@ -16,9 +16,9 @@ ht-degree: 0%
 O cabeçalho do email no Marketo é totalmente personalizável. É composto por quatro campos:
 
 * **De** - O nome do remetente como você deseja que ele apareça
-* **Endereço** de origem - O endereço de email do remetente como você deseja que ele apareça
-* **Responder** - o endereço de email para o qual você deseja que a resposta de uma pessoa seja enviada (pode ser diferente de Endereço de origem)
-* **Assunto** - A linha de assunto do email
+* **Endereço**  de origem - O endereço de email do remetente como você deseja que ele apareça
+* **Responder** - O endereço de email para o qual você deseja que a resposta de uma pessoa seja enviada (pode ser diferente de Endereço de origem)
+* **Assunto**  - A linha de assunto do email
 
 Para editar esses valores, clique em cada campo e insira suas informações.
 
@@ -26,7 +26,7 @@ Para editar esses valores, clique em cada campo e insira suas informações.
 
 >[!TIP]
 >
->Para definir um nome padrão de E/S e de E-mail, consulte [Alterar o padrão de E-mail e Rótulo](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)de De.
+>Para definir um nome padrão de E-mail de De e-mail, consulte [Alterar o padrão de e-mail e Rótulo de ](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
 
 Se quiser usar um token, clique primeiro no campo desejado e, em seguida, clique no ícone de token.
 
