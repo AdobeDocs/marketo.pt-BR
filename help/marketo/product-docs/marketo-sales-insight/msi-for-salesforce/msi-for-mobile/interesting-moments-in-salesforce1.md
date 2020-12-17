@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Momentos interessantes em Salesforce1 {#interesting-moments-in-salesforce}
+# Momentos interessantes no Salesforce1 {#interesting-moments-in-salesforce}
 
-[Usar momentos](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) interessantes é a chave para se comunicar com sua equipe de vendas por meio do aplicativo Marketing Cloud Sales Insight. Agora, com o Marketing Sales Insight for Salesforce1, você pode fazer o mesmo com seu smartphone!
+[Usar o Interessante ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) Momentis é a chave para se comunicar com sua equipe de vendas através do aplicativo Marketing Insight de vendas. Agora, com o Marketing Sales Insight for Salesforce1, você pode fazer o mesmo com seu smartphone!
 
 >[!AVAILABILITY]
 >
