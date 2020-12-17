@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Etapa 2 de 3: Criar um usuário do Salesforce para marketing (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Etapa 2 de 3: Criar um usuário do Salesforce para o Marketing (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Neste artigo, você personalizará as permissões de campo com um Layout de pág
 
 O Salesforce Professional define a acessibilidade no nível do campo com Layouts de página, em vez dos Perfis do Salesforce Enterprise/Unlimited. Estas etapas permitirão que o usuário de sincronização de marketing atualize os campos personalizados.
 
-1. Digite layouts **de** página na barra de pesquisa Navegar sem pressionar **Enter** e clique em Layout **de** página em **Leads**.
+1. Digite **layouts de página** na barra de pesquisa Navegação sem pressionar **Enter** e clique em **Layout de página** em **Leads**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
@@ -43,11 +43,11 @@ O Salesforce Professional define a acessibilidade no nível do campo com Layouts
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Digite &quot;Marketo&quot; para Nome **da** seção e clique em **OK**.
+1. Digite &quot;Marketo&quot; para **Nome da seção** e clique em **OK**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Clique e arraste o campo Data **de** aquisição para a seção **Marketo** .
+1. Clique e arraste o campo **Data de aquisição** para a seção **Marketing**.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -82,11 +82,11 @@ O Salesforce Professional define a acessibilidade no nível do campo com Layouts
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Repita todas as etapas acima para o layout **da página de** contato do Salesforce.
+1. Repita todas as etapas acima para o Salesforce **Contact Page Layout**.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Lembre-se de clicar em **Salvar** quando terminar o layout **da página de** contato.
+1. Lembre-se de clicar em **Salvar** quando terminar com o **Layout de página de contato**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
@@ -95,7 +95,7 @@ O Salesforce Professional define a acessibilidade no nível do campo com Layouts
    >**Lembrete**
    >
    >
-   >Verifique se o campo Evento **para** todos os dias foi adicionado ao Layout **da página do** Evento.
+   >Certifique-se de que o campo **Evento de todos os dias** foi adicionado ao **Layout de página do Evento**.
 
 ## Criar usuário de sincronização {#create-sync-user}
 
@@ -103,9 +103,9 @@ O Marketo requer credenciais para acessar o Salesforce. Isso é feito melhor com
 
 >[!NOTE]
 >
->Se sua organização não tiver licenças adicionais do Salesforce, você poderá usar um usuário **existente do** Marketing com o perfil **Administrador** do sistema.
+>Se sua organização não tiver licenças adicionais do Salesforce, você poderá usar um usuário de marketing **com o perfil** Administrador do sistema **existente.**
 
-1. Digite &quot;users&quot; na barra de pesquisa Navegar e clique em **Usuários** em **Gerenciar usuários**.
+1. Digite &quot;users&quot; na barra de pesquisa Navegador e clique em **Users** em **Gerenciar usuários**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
@@ -113,7 +113,7 @@ O Marketo requer credenciais para acessar o Salesforce. Isso é feito melhor com
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Preencha os campos obrigatórios e selecione a Licença **do usuário: Salesforce**, defina o **Perfil: Administrador** do sistema, marque Usuário **** de marketing e clique em **Salvar**.
+1. Preencha os campos obrigatórios e selecione **Licença de usuário: Salesforce**, defina o Perfil **: Administrador do sistema**, marque **Usuário de marketing** e clique em **Salvar**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
