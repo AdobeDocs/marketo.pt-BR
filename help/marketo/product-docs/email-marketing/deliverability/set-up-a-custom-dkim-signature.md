@@ -21,7 +21,7 @@ Para garantir o melhor fornecimento, assinamos automaticamente todos os emails d
 
 Você pode personalizar a assinatura DKIM para refletir os domínios de sua escolha. Veja como.
 
-1. Vá para a seção **Admin** .
+1. Vá para a seção **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -30,7 +30,7 @@ Você pode personalizar a assinatura DKIM para refletir os domínios de sua esco
    >
    >Se você configurar uma assinatura DKIM personalizada da maneira antiga, ela continuará funcionando e deverá aparecer aqui.
 
-1. Clique em **Email**, na guia **DKIM** e, finalmente, em **Adicionar domínio**.
+1. Clique em **Email**, na guia **DKIM** e, por fim, **Adicionar domínio**.
 
    ![](assets/image2014-9-18-15-3a39-3a30.png)
 
@@ -43,7 +43,7 @@ Você pode personalizar a assinatura DKIM para refletir os domínios de sua esco
 
    ![](assets/image2014-9-18-15-3a40-3a28.png)
 
-1. Envie o registro **do** host e o valor **** TXT para sua TI. Solicite que eles criem o registro para você e verifique se ele se propaga para todos os servidores de nomes associados ao domínio from. A verificação DKIM do Marketo requer que a chave DKIM seja propagada para todos os servidores de nomes associados ao domínio que está sendo assinado pelo DKIM.
+1. Envie **Registro do host** e **Valor TXT** para a sua TI. Solicite que eles criem o registro para você e verifique se ele se propaga para todos os servidores de nomes associados ao domínio from. A verificação DKIM do Marketo requer que a chave DKIM seja propagada para todos os servidores de nomes associados ao domínio que está sendo assinado pelo DKIM.
 
    ![](assets/image2014-9-18-15-3a40-3a44.png)
 
