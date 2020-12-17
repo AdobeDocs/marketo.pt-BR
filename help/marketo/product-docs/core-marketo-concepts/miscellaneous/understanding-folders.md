@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Como entender pastas {#understanding-folders}
+# Compreensão das pastas {#understanding-folders}
 
-As pastas dentro de um programa podem ser usadas para organizar campanhas e ativos inteligentes. Elas são diferentes das pastas [de](create-new-campaign-folder.md)campanha.
+As pastas dentro de um programa podem ser usadas para organizar campanhas e ativos inteligentes. Elas são diferentes das pastas [de campanha](create-new-campaign-folder.md).
 
 ## Criar uma pasta {#create-a-folder}
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -70,7 +70,7 @@ Ao arquivar uma pasta:
 * Modelos arquivados não estão disponíveis ao criar um email ou landing page no Design Studio
 * As páginas arquivadas não podem ser usadas em grupos de teste de landing page
 
-Funcionalidade que **não** será alterada ao arquivar:
+A funcionalidade que **não** mudará ao arquivar:
 
 * A pesquisa global ainda encontra resultados em pastas arquivadas
 * Um ativo que está em uso continuará a funcionar mesmo depois que for arquivado
