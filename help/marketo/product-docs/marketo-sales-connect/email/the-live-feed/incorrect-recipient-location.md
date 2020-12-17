@@ -19,4 +19,4 @@ Se erramos na localização de seus recipient, há três possibilidades para o q
 
 -Se seu email foi encaminhado ou aberto por alguém no campo CC ou Cco, tentamos exibir com precisão a localização dessas pessoas.
 
-Em geral, vamos determinar os locais com a maior precisão possível, com base no rastreamento de IP, mas infelizmente `isn't an exact science`.
+Em geral, determinaremos locais com a maior precisão possível, com base no rastreamento de IP, mas infelizmente `isn't an exact science`.
