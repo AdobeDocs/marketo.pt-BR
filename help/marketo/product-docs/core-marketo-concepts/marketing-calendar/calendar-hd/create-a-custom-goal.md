@@ -15,9 +15,9 @@ ht-degree: 0%
 
 As metas são maneiras de rastrear o progresso e motivar sua equipe. Depois de criados, eles devem ser atualizados manualmente.
 
-Como as apresentações, as metas são específicas do [espaço de trabalho](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Como as apresentações, os objetivos são [espaço de trabalho](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) específicos.
 
-1. Vá para o **Calendário**.
+1. Vá para **Calendar**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -29,7 +29,7 @@ Como as apresentações, as metas são específicas do [espaço de trabalho](../
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
-1. Arraste e solte o Objetivo **personalizado** na tela.
+1. Arraste e solte **Objetivo personalizado** na tela.
 
    ![](assets/image2015-3-24-12-3a32-3a45.png)
 
@@ -41,7 +41,7 @@ Como as apresentações, as metas são específicas do [espaço de trabalho](../
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. Insira um valor para o Público alvo **** Meta e o Valor **** Atual (se não houver um, **insira 0**). Em seguida, clique em **Criar**.
+1. Insira um valor para o **Público alvo de meta** e **Valor atual** (se não houver um, **digite 0**). Em seguida, clique em **Criar**.
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 
