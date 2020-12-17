@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Visão geral do Editor de email v2.0 {#email-editor-v-overview}
+# Visão Geral do Editor de Email v2.0 {#email-editor-v-overview}
 
 Ao decidir ativar o Editor de email v2.0, você notará vários novos recursos.
 
 **Seletor de modelo de email**
 
-Ao criar um novo e-mail, você será direcionado para o Seletor [de modelos de](email-template-picker-overview.md)e-mail.
+Ao criar um novo e-mail, você é direcionado para o [Seletor de modelo de e-mail](email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -73,7 +73,7 @@ A visualização padrão ali é desktop...
 
 **Ações de email**
 
-Em Ações **de** email, você notará alguns novos recursos. **Carregue uma imagem ou um arquivo** e **obtenha imagens da Web**. Você também pode salvar o e-mail como um novo modelo de e-mail. Tudo o que você tem que fazer é dar um nome e um destino.
+Em **Ações de e-mail**, você notará alguns novos recursos. **Carregue uma imagem ou um arquivo** e  **obtenha imagens da Web**. Você também pode salvar o e-mail como um novo modelo de e-mail. Tudo o que você tem que fazer é dar um nome e um destino.
 
 ![](assets/nine-3.png)
 
@@ -83,9 +83,9 @@ Em Ações **de** email, você notará alguns novos recursos. **Carregue uma ima
 
 >[!NOTE]
 >
->** [Capturar imagens da Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funciona exatamente como no Design Studio.
+>** [Capturar imagens da Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)*** funciona exatamente como no Design Studio.
 
-**Desative a opção Abrir rastreamento** em Configurações **de** email, você pode desativar o rastreamento aberto, se necessário.
+**Desabilite a opção Abrir** rastreamentoEm Configurações **de** email, você pode desabilitar o rastreamento aberto, se necessário.
 
 ![](assets/thirteen-1.png)
 
@@ -105,7 +105,7 @@ Muitos novos recursos! Divirta-se!
 >
 >**Mergulho profundo**
 >
->Se você quiser se aprofundar ainda mais, dê uma olhada neste vídeo [](https://nation.marketo.com/videos/1463)útil.
+>Se você quiser ir mais fundo ainda, dê uma olhada neste [vídeo útil](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
