@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # SEO - Obter sugestões de links de entrada {#seo-get-inbound-link-suggestions}
 
-O Marketo pode sugerir quais links de entrada são valiosos para sua otimização [](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)fora da página.
+O Marketo pode sugerir quais links de entrada são valiosos para sua [otimização fora da página](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
-1. Vá para a seção Links **de** entrada.
+1. Vá para a seção **Links de entrada**.
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
-1. Clique em **SUGESTÕES** DE GET.
+1. Clique em **SUGESTÕES DE GET**.
 
    ![](assets/image2014-9-18-13-3a21-3a8.png)
 
-1. Digite uma palavra-chave. Clique em **SUGERIR LINKS**.
+1. Digite uma palavra-chave. Clique em **SUGEST LINKS**.
 
    ![](assets/image2014-9-18-13-3a21-3a31.png)
 
@@ -33,7 +33,7 @@ O Marketo pode sugerir quais links de entrada são valiosos para sua otimizaçã
 
    >[!TIP]
    >
-   >Você sabia que pode [adicionar seu link a uma lista](seo-add-remove-an-inbound-link-url-from-a-list.md)nova ou existente? Confira!
+   >Você sabia que pode [adicionar seu link a uma lista nova ou existente](seo-add-remove-an-inbound-link-url-from-a-list.md)? Confira!
 
 1. Incrível! Esses links adicionados agora serão rastreados.
 
