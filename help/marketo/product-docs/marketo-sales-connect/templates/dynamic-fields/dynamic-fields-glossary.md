@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Glossário de Campos Dinâmicos {#dynamic-fields-glossary}
 
-Ao criar um modelo no Sales Connect, recomendamos sempre a integração de campos dinâmicos usando o botão Campos **dinâmicos do** MSE.
+Ao criar um modelo no Sales Connect, recomendamos sempre a integração de campos dinâmicos usando o botão **MSE Dynamic Fields**.
 
-Esta ferramenta é usada para `auto-personalize your email` salvar você e economizar muito tempo por `pulling information from the People page`.
+Esta ferramenta é usada para `auto-personalize your email` e economiza tempo em `pulling information from the People page`.
 
 | Campo dinâmico | Exemplo do que aparece no seu email |
 |---|---|
@@ -30,12 +30,12 @@ Esta ferramenta é usada para `auto-personalize your email` salvar você e econo
 
 **Observação**:
 
-* Se um contato estiver ausente `information is entered incorrectly` ou estiver faltando na página Pessoas, ele será usado `will not pull over correctly` no modelo.
+* Se um contato for `information is entered incorrectly` ou estiver faltando na página Pessoas, ele será `will not pull over correctly` inserido em seu modelo.
 
-* A diferença entre `{{company}}` e `{{company_friendly}}` é que `{{company_friendly}}` irá `remove any formal title`, como Inc., LLC., etc., do nome da empresa do seu contato.
-* Ao usar `{{company_friendly}}`, separe Inc. ou Co. com uma vírgula nos detalhes do contato. É assim que o Sales Connect sabe o que remover ao obter o valor.
+* A diferença entre `{{company}}` e `{{company_friendly}}` é que `{{company_friendly}}` irá `remove any formal title`, como Inc., LLC., etc., a partir do nome da empresa do seu contato.
+* Ao usar `{{company_friendly}}`, certifique-se de separar Inc. ou Co. com uma vírgula nos detalhes do contato. É assim que o Sales Connect sabe o que remover ao obter o valor.
 
 >[!TIP]
 >
->Você pode criar seu próprio campo [dinâmico](http://docs.marketo.com/x/fADb) personalizado para qualquer item que você gostaria de ter inserido automaticamente em seus emails
+>Você pode criar seu próprio [campo dinâmico personalizado](http://docs.marketo.com/x/fADb) para qualquer item que você gostaria de ter inserido automaticamente em seus emails
 
