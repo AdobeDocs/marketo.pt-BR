@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Se você tiver uma lista inteligente e alguns minutos tiverem passado, os resultados poderão ser diferentes agora - atualize para descobrir.
 
-## Atualizar resultados {#refresh-results}
+## Atualizar Resultados {#refresh-results}
 
-1. Para atualizar os dados na guia **Pessoas** de uma lista inteligente, clique no ícone atualizar.
+1. Para atualizar os dados na guia **Pessoas** de uma lista inteligente, clique no ícone de atualização.
 
    ![](assets/refreshbutton.png)
 
