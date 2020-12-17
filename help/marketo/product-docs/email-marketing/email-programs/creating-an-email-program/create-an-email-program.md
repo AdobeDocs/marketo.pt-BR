@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Criar um Programa por email {#create-an-email-program}
+# Criar um Programa de email {#create-an-email-program}
 
 Use programas de e-mail para enviar um e-mail de forma rápida e fácil para um grupo de pessoas.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/one.png)
 
-1. Selecione a pasta na qual deseja criar o programa, clique na lista suspensa **Novo** e selecione **Novo Programa**.
+1. Selecione a pasta na qual deseja criar o programa, clique no menu suspenso **Novo** e selecione **Novo Programa**.
 
    ![](assets/two.png)
 
@@ -29,13 +29,13 @@ Use programas de e-mail para enviar um e-mail de forma rápida e fácil para um 
 
    >[!NOTE]
    >
-   >Ao selecionar **Email** como Tipo de Programa, o Canal será automaticamente definido como Enviar **por** email. Você pode alterá-la se quiser.
+   >Ao selecionar **Email** como Tipo de Programa, o Canal será automaticamente definido como **Enviar por email**. Você pode alterá-la se quiser.
 
    ![](assets/four.png)
 
 Legal! Observe que o programa está agora na árvore e pronto para ser usado. O próximo passo será definir sua audiência. Consulte os artigos relacionados ao marketing abaixo.
 
-## Assistir a um vídeo {#watch-a-video}
+## Assista a um vídeo {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
