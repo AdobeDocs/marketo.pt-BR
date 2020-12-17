@@ -14,7 +14,7 @@ ht-degree: 0%
 # Criar um novo modelo {#create-a-new-template}
 
 1. Navegue até a guia **Modelos **e clique em **Criar modelo**.
-1. Escolha uma **Categoria** e um **Nome***** ***para o seu modelo de e-mail e clique em** Criar ***.*
+1. Escolha uma **Categoria** e **Nome****** ***para o modelo de correio eletrônico, em seguida, clique em** Criar ***.*
 1. No editor de modelo, crie uma linha de assunto para seu email e digite a mensagem desejada. Use as ferramentas de edição (fonte, tamanho do texto etc.) para personalizar a aparência.
 1. Clique em **Salvar** para finalizar as alterações.
 
