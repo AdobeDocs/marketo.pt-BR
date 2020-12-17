@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Definir Lista inteligente para Campanhas inteligentes | Disparador {#define-smart-list-for-smart-campaign-trigger}
+# Definir Lista inteligente para Campanhas inteligentes | Acionador {#define-smart-list-for-smart-campaign-trigger}
 
 Faça uma campanha inteligente executar em uma pessoa de cada vez com base em eventos ao vivo adicionando acionadores.
 
@@ -25,7 +25,7 @@ Faça uma campanha inteligente executar em uma pessoa de cada vez com base em ev
 
    >[!NOTE]
    >
-   >Uma campanha inteligente com acionadores é executada no modo **Acionador** . Ele é executado em uma pessoa de cada vez com base em eventos acionados e filtros adicionais.
+   >Uma campanha inteligente com acionadores é executada no modo **Acionador**. Ele é executado em uma pessoa de cada vez com base em eventos acionados e filtros adicionais.
 
 1. Clique na lista suspensa e escolha um operador.
 
@@ -45,7 +45,7 @@ Faça uma campanha inteligente executar em uma pessoa de cada vez com base em ev
 
    >[!NOTE]
    >
-   >Com vários acionadores, uma pessoa passa pelo fluxo se **QUALQUER** um dos acionadores for ativado.
+   >Com vários acionadores, uma pessoa passa pelo fluxo se **ANY** um dos acionadores for ativado.
 
    [Definir Lista inteligente para Campanhas inteligentes | Lote](define-smart-list-for-smart-campaign-batch.md)
 
