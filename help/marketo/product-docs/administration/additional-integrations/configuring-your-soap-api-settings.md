@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para **Admin** e clique em Serviços **da Web**.
+1. Vá para **Admin** e clique em **Serviços Web**.
 
    ![](assets/image2014-9-19-10-3a58-3a11.png)
 
-1. Defina uma chave **de** criptografia apropriada, clique em **Salvar alterações** e transmita todas as informações para o desenvolvedor.
+1. Defina uma **Chave de criptografia** apropriada, clique em **Salvar alterações** e passe todas as informações para o seu desenvolvedor.
 
    ![](assets/image2014-9-19-11-3a0-3a46.png)
 
