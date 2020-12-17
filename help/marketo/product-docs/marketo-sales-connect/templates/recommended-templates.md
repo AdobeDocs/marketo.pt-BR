@@ -17,15 +17,15 @@ Os modelos recomendados do Sales Connect ajudam você a receber as mensagens cer
 
 1. Vá para a guia Modelos.
 1. Selecione o modelo que deseja recomendar e clique em **Editar**.
-1. Para ativar a funcionalidade Modelo recomendado no modelo, verifique a opção Sugerir **automaticamente este modelo quando**.
+1. Para ativar a funcionalidade Modelo recomendado no modelo, verifique **Sugerir automaticamente este modelo quando**.
 
 ## Todos vs. Qualquer {#all-vs-any}
 
-Agora é hora de selecionar suas configurações de critérios. Selecione **Todos** se desejar que seu modelo seja recomendado quando todos os critérios forem atendidos. Selecione **Qualquer** caso deseje que seu modelo seja recomendado quando qualquer um dos critérios for atendido.
+Agora é hora de selecionar suas configurações de critérios. Selecione **Todos** se desejar que seu modelo seja recomendado quando todos os critérios forem atendidos. Selecione **Qualquer** se desejar que seu modelo seja recomendado quando qualquer um dos critérios for atendido.
 
-## Critérios de definição {#setting-criteria}
+## Critérios de configuração {#setting-criteria}
 
-Seus critérios definirão as condições para as quais os modelos serão recomendados. É possível definir um máximo de três partes de critérios. Primeiro, selecione os campos [](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) dinâmicos nos quais você deseja ser apontado no modelo.
+Seus critérios definirão as condições para as quais os modelos serão recomendados. É possível definir um máximo de três partes de critérios. Primeiro selecione os [Campos dinâmicos](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) nos quais você gostaria de ser apontado no modelo.
 
 ## Condições {#conditions}
 
@@ -39,7 +39,7 @@ Agora, selecione sua condição. Quando suas condições para o campo dinâmico 
 
 **Não contém**: O valor não deve estar no campo dinâmico (por exemplo, Marketo Rocks! não contém Admirável)
 
-## Como É Um Modelo Recomendado {#what-a-recommended-template-looks-like}
+## Como é um modelo recomendado {#what-a-recommended-template-looks-like}
 
 Agora que seus Critérios estão definidos, salve o modelo. Desse ponto em diante, o Sales Connect trabalhará com sua magia para exibir os melhores modelos para você.\
 Agora que você mapeou seu primeiro modelo, é hora de mapear o restante. Analise seus modelos mais bem-sucedidos e recomende-os. Não se esqueça de compartilhar o modelo com sua equipe também. Suas configurações recomendadas para qualquer modelo também serão compartilhadas entre sua equipe.
