@@ -18,13 +18,13 @@ O Sales Connect fornece a você a capacidade de registrar automaticamente as res
 ## Requisitos {#requirements}
 
 * Deve estar registrando emails por meio do registro de API
-* Deve ser possível [rastrear uma resposta](http://docs.marketo.com/x/BYPS)
+* Deve ser possível rastrear [uma resposta](http://docs.marketo.com/x/BYPS)
 * Deve estar conectado ao Salesforce
-* Deve haver chamadas [](http://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) de API do Salesforce disponíveis
+* Deve ter chamadas de API [Salesforce ](http://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) disponíveis
 
-## Ativar o registro de resposta {#enable-reply-logging}
+## Habilitar Registro de Resposta {#enable-reply-logging}
 
-1. Para ativar o registro de respostas, você pode ir até a página de configurações [do](http://docs.marketo.com/pages/assets/external-link.jspa) Salesforce. Depois que o registro em log da API for desligado, você verá a opção para marcar *Respostas de log.\
+1. Para ativar o registro de respostas, você pode ir até a página [Configurações do Salesforce](http://docs.marketo.com/pages/assets/external-link.jspa). Depois que o registro em log da API for desligado, você verá a opção para marcar *Respostas de log.\
    *
 
    >[!NOTE]
@@ -33,12 +33,12 @@ O Sales Connect fornece a você a capacidade de registrar automaticamente as res
 
 ## Configuração do tipo para resposta no Salesforce {#setting-type-to-reply-in-salesforce}
 
-É importante obter dados significativos de seus relatórios do Salesforce. Ter a capacidade de deixar o campo Tipo preenchido como &quot;Responder&quot; permite que você obtenha esses dados por meio de seus relatórios. Faça uma parceria com `Salesforce admin` a sua empresa para obter essa configuração.
+É importante obter dados significativos de seus relatórios do Salesforce. Ter a capacidade de deixar o campo Tipo preenchido como &quot;Responder&quot; permite que você obtenha esses dados por meio de seus relatórios. Faça uma parceria com seu `Salesforce admin` para obter essa configuração.
 
-1. Vá para **Configuração **> **Personalizar **> **Atividades **> Campos **de** Tarefa.
+1. Vá para **Configuração **> **Personalizar **> **Atividade **> **Campos de Tarefa**.
 1. Clique em **Tipo**.
-1. Em Valores da lista de opções de tipo de Tarefa, clique em **Novo**.
-1. Digite &quot;Reply&quot; na caixa vazia. Certifique-se de colocar a letra &#39;R&#39; em maiúsculas e clique em **Salvar**.
+1. Em Valores da Lista de opções de tipo de Tarefa, clique em **Novo**.
+1. Digite &quot;Reply&quot; na caixa vazia. Certifique-se de colocar a letra &#39;R&#39; em maiúsculas e clique em **Guardar**.
 
    >[!NOTE]
    >
