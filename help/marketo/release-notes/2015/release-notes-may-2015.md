@@ -29,7 +29,7 @@ Estamos lançando um novo modo de edição de landing page e uma nova sintaxe de
 
 Você apertou o botão Enviar antes que um programa de e-mail estivesse pronto para sair? Puxe os freios com o novo botão abortar programa de email. Isto irá parar os programas de e-mail em voo mesmo em seus trilhos.
 
-## Disponibilidade de email  {#email-deliverability}
+## Disponibilidade de email {#email-deliverability}
 
 O Marketo agora executará verificações semanais de SPF e DKIM automatizadas em seus domínios adicionados. Fique por dentro disso verificando suas notificações.
 
@@ -37,9 +37,9 @@ O Marketo agora executará verificações semanais de SPF e DKIM automatizadas e
 
 A partir desta versão, comentários HTML válidos agora são permitidos e não são descartados ao criar novos emails.
 
-## RTP: Editor de segmentos de arrastar e soltar {#rtp-drag-and-drop-segment-editor}
+## RTP: Arrastar e soltar editor de segmento {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Editor de segmentos de arrastar e soltar](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
+RTP: [Arrastar e soltar o Editor de segmentos](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
 
 Arraste e solte seus critérios no construtor de segmentos, defina o valor e você está bem no caminho para criar um segmento em tempo real.
 
