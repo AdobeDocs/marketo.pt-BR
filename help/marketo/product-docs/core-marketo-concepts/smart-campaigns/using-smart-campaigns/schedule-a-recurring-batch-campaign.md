@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Agendar uma Campanha em lote recorrente {#schedule-a-recurring-batch-campaign}
+# Agendar uma Campanha em Lote Recorrente {#schedule-a-recurring-batch-campaign}
 
 A recorrência permite que você execute uma campanha inteligente em lote em uma programação regular. Por exemplo - uma vez por semana, segunda-feira às 12:00.
 
