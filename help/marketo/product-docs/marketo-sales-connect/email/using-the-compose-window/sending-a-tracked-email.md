@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Envio de um email rastreado {#sending-a-tracked-email}
+# Enviando um email rastreado {#sending-a-tracked-email}
 
 Ao enviar um email com o Marketing Connect Sales, as visualizações (e-mail aberto) e os cliques (links clicados) serão rastreados.
 
@@ -20,7 +20,7 @@ Ao enviar um email com o Marketing Connect Sales, as visualizações (e-mail abe
 >Você precisará ter uma identidade verificada e um canal de delivery de email configurado antes de enviar um email rastreado.
 >
 >* [Verifique seu endereço de email](http://docs.marketo.com/x/ewPh)
->* Configurar um Canal de Delivery para [Outlook](http://docs.marketo.com/x/Z4AOAQ) ou [Gmail](http://docs.marketo.com/x/kYMOAQ)
+>* Configure um Canal de Delivery para [Outlook](http://docs.marketo.com/x/Z4AOAQ) ou [Gmail](http://docs.marketo.com/x/kYMOAQ)
 
 >
 
@@ -30,7 +30,7 @@ Ao enviar um email com o Marketing Connect Sales, as visualizações (e-mail abe
 
    ![](assets/one.png)
 
-1. Digite o nome ou email de um recipient no campo **Para** .
+1. Digite o nome ou email de um recipient no campo **To**.
 
    ![](assets/two.png)
 
@@ -44,7 +44,7 @@ Ao enviar um email com o Marketing Connect Sales, as visualizações (e-mail abe
 
    >[!NOTE]
    >
-   >Se alguém que tenha sido CC’d ou Cco’d abrir o email, ele será gravado como uma visualização no registro da pessoa no campo **Para** .
+   >Se alguém que tenha sido CC’d ou BCC’d abrir o email, ele será gravado como uma visualização no registro da pessoa no campo **To**.
 
 1. Adicionar uma linha de assunto.
 
@@ -52,7 +52,7 @@ Ao enviar um email com o Marketing Connect Sales, as visualizações (e-mail abe
 
    >[!NOTE]
    >
-   >Uma linha de assunto e um recipient são necessários para enviar o email. Salvamos **automaticamente seu rascunho** depois que uma linha de assunto e um recipient forem adicionados.
+   >Uma linha de assunto e um recipient são necessários para enviar o email. Iremos **salvar automaticamente seu rascunho** depois que uma linha de assunto e um recipient forem adicionados.
 
 1. Componha seu email usando o editor. Clique em **Enviar** (ou [Agendar](http://docs.marketo.com/x/GAQ6Ag), se preferir) quando terminar.
 
