@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrar um Relatório de Programa por Programa {#filter-a-program-report-by-program}
 
-Concentre seu relatório [de desempenho do](create-a-program-performance-report.md) programa em programas específicos para comparar seu desempenho.
+Focalize seu [relatório de desempenho do programa](create-a-program-performance-report.md) em programas específicos para comparar seu desempenho.
 
 1. Vá para **Marketing** **Atividade** (ou **Analytics**).
 
@@ -35,7 +35,7 @@ Concentre seu relatório [de desempenho do](create-a-program-performance-report.
    >
    >Se você selecionar uma pasta, seu relatório incluirá tudo o que essa pasta contém no momento em que o relatório é executado.
 
-1. Isso é tudo! Clique na guia **Relatório** para ver *apenas* os programas selecionados em seu relatório.
+1. Isso é tudo! Clique na guia **Relatório** para ver *apenas* os programas selecionados no seu relatório.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
@@ -53,5 +53,5 @@ Concentre seu relatório [de desempenho do](create-a-program-performance-report.
    >**Mergulho profundo**
    >
    >
-   >Saiba tudo sobre os relatórios no Relatórios [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+   >Saiba tudo sobre os relatórios em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
