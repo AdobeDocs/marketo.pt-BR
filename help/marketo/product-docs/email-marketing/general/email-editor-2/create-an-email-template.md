@@ -25,7 +25,7 @@ Siga estas etapas para criar um novo modelo de email.
 
    ![](assets/designstudio.png)
 
-1. Clique em **Novo** e selecione **Novo modelo** de e-mail.
+1. Clique em **Novo** e selecione **Novo modelo de e-mail**.
 
    ![](assets/ds-two.png)
 
@@ -41,11 +41,11 @@ Siga estas etapas para criar um novo modelo de email.
    >
    >Embora não haja um limite rígido, uma vez que um modelo de email é usado por mais de 500 emails, a reaprovação desse modelo após uma atualização pode resultar em problemas de desempenho. Recomendamos que, uma vez que um modelo de e-mail tenha 500 e-mails associados a ele, crie um novo modelo.
 
-## Salvar um email como modelo {#save-an-email-as-a-template}
+## Salvar um email como um modelo {#save-an-email-as-a-template}
 
 Se você criou um email que gostaria de salvar como modelo para uso futuro, siga estas etapas simples.
 
-1. Clique em **Atividades** de marketing.
+1. Clique em **Atividades de marketing**.
 
    ![](assets/one.png)
 
@@ -53,11 +53,11 @@ Se você criou um email que gostaria de salvar como modelo para uso futuro, siga
 
    ![](assets/two-1.png)
 
-1. Clique no menu suspenso Ações **de** email e selecione **Salvar como modelo**.
+1. Clique no menu suspenso **Ações de e-mail** e selecione **Salvar como modelo**.
 
    ![](assets/four-1.png)
 
-1. Clique no menu suspenso **Pasta** , selecione onde deseja que o modelo viva e clique em **Salvar**.
+1. Clique no menu suspenso **Pasta**, selecione onde deseja que o modelo viva e clique em **Salvar**.
 
    ![](assets/five-1.png)
 
