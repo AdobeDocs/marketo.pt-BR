@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Correspondência de cliente potencial para conta {#lead-to-account-matching}
+# Cliente Potencial para Correspondência de Conta {#lead-to-account-matching}
 
 O direito de correspondência leva a contas com nome certo usando a correspondência entre o cliente potencial e a conta.
 
 >[!NOTE]
 >
->**Correspondência** cliente a conta é um recurso incorporado do Marketing baseado em conta do Marketing. Ela usa lógica difusa para automaticamente corresponder clientes potenciais às contas nomeadas certas em tempo quase real. Essas contas nomeadas podem ser contas CRM ou empresas de marketing.
+>**A** Correspondência entre contas é um recurso incorporado do Marketing baseado em conta do Marketing. Ela usa lógica difusa para automaticamente corresponder clientes potenciais às contas nomeadas certas em tempo quase real. Essas contas nomeadas podem ser contas CRM ou empresas de marketing.
 
 A Correspondência de cliente potencial para conta segue um processo de 4 etapas:
 
@@ -39,7 +39,7 @@ Como a correspondência entre o cliente em potencial e a conta é um recurso inc
 
 >[!NOTE]
 >
->Se você usar o LeanData no Salesforce para fazer a correspondência de cliente potencial para conta, o Marketo terá uma integração que sincronizará essas correspondências com a sua instância do Marketo. Para habilitar esse recurso, entre em contato com o suporte [](https://nation.marketo.com/t5/Support/ct-p/Support)Marketo.
+>Se você usar o LeanData no Salesforce para fazer a correspondência de cliente potencial para conta, o Marketo terá uma integração que sincronizará essas correspondências com a sua instância do Marketo. Para habilitar esse recurso, entre em contato com o [Suporte de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!MORELIKETHIS]
 >
