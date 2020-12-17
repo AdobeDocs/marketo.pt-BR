@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Uma lista de conta é uma coleção de contas nomeadas que podem ser direcionadas juntas. As listas de conta permitem que você público alvo contas nomeadas por setor, local ou tamanho da empresa.
 
-Além das listas de conta, você também pode criar listas de conta dinâmicas que são geradas a partir de Visualizações de conta CRM públicas. Uma Visualização de conta CRM é um conjunto de regras que funciona como um filtro ao exibir contas. Por exemplo, você pode usá-lo para encontrar contas nas quais a Indústria é de Saúde *e a Receita é acima de US$ 100 milhões* .
+Além das listas de conta, você também pode criar listas de conta dinâmicas que são geradas a partir de Visualizações de conta CRM públicas. Uma Visualização de conta CRM é um conjunto de regras que funciona como um filtro ao exibir contas. Por exemplo, você pode usá-lo para localizar contas nas quais a Indústria é de Saúde *e* a Receita é superior a $100M.
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->Listas de conta criadas no Marketing baseado em conta de marketing ficam automaticamente disponíveis ao criar listas inteligentes e campanhas da Web na Personalização [da](http://docs.marketo.com/display/DOCS/RTP+Segments)Web.
+>As listas de conta criadas no Marketing baseado em conta do Marketing estão automaticamente disponíveis ao criar listas inteligentes e campanhas da Web em [Personalização da Web](http://docs.marketo.com/display/DOCS/RTP+Segments).
 
 ## Criar uma nova Lista de conta {#create-a-new-account-list}
 
-1. Clique na lista suspensa **Nova** e selecione **Criar nova Lista** de conta.
+1. Clique no menu suspenso **Novo** e selecione **Criar nova Lista de conta**.
 
    ![](assets/1a.png)
 
@@ -33,7 +33,7 @@ Além das listas de conta, você também pode criar listas de conta dinâmicas q
 
    ![](assets/three-0.png)
 
-1. Depois de criar sua lista de conta, comece a [adicionar contas nomeadas a ela](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. Depois de criar sua lista de conta, comece em [adicionar contas nomeadas a ela](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
 
    >[!NOTE]
    >
@@ -41,11 +41,11 @@ Além das listas de conta, você também pode criar listas de conta dinâmicas q
 
 ## Criar uma nova Lista de conta dinâmica {#create-a-new-dynamic-account-list}
 
-1. Clique na lista suspensa **Novo** e selecione **Criar nova Lista** dinâmica.
+1. Clique na lista suspensa **Novo** e selecione **Criar nova Lista dinâmica**.
 
    ![](assets/1.png)
 
-1. Na caixa de diálogo, selecione uma Visualização **de conta** CRM no menu suspenso ou digite o nome a ser pesquisado.
+1. Na caixa de diálogo, selecione uma **Visualização de Conta CRM** no menu suspenso ou digite o nome a ser procurado.
 
    ![](assets/image2017-7-18-9-48-23.png)
 
@@ -61,9 +61,9 @@ Além das listas de conta, você também pode criar listas de conta dinâmicas q
 
 >[!NOTE]
 >
->Essas etapas se aplicam somente às listas de conta. *As listas de conta dinâmicas* usam o nome de suas Visualizações de conta CRM associadas.
+>Essas etapas se aplicam somente às listas de conta. *O* Dynamicaccount lista usa o nome de suas Visualizações de conta do CRM associadas.
 
-1. Selecione a conta que deseja renomear, clique no menu suspenso Ações **de Lista da** conta e selecione **Renomear Lista** da conta.
+1. Selecione a conta que deseja renomear, clique no menu suspenso **Ações de Lista da conta** e selecione **Renomear Lista da conta**.
 
    ![](assets/three.png)
 
@@ -81,7 +81,7 @@ Além das listas de conta, você também pode criar listas de conta dinâmicas q
 >
 >Essas etapas são as mesmas para listas de conta e listas de conta dinâmicas.
 
-1. Selecione a conta que deseja excluir, clique no menu suspenso Ações **de Lista da** conta e selecione **Excluir Lista** da conta.
+1. Selecione a conta que deseja excluir, clique no menu suspenso **Ações de Lista da conta** e selecione **Excluir Lista da conta**.
 
    ![](assets/five.png)
 
