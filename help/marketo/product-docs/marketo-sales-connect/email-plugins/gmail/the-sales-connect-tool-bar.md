@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Cinco botões do Sales Connect serão adicionados à parte superior da sua página do Gmail quando você fizer logon.
 
-| **Botão de feed ao vivo** | Abre seu Feed [ao vivo do Connect de vendas](http://toutapp.com/next#live) , onde você pode obter informações de rastreamento em tempo real em seus emails. |
+| **Botão de feed ao vivo** | Abre o seu Connect de vendas [Feed ao vivo](http://toutapp.com/next#live), onde você pode obter informações de rastreamento em tempo real em seus emails. |
 |---|---|
 | **Botão tarefas** | Mostra uma lista suspensa de todas as suas tarefas. |
-| **Botões Modelos e **conversas** | Abre a página Modelos e as páginas de Conversações do aplicativo [](http://toutapp.com/login)da Web, respectivamente. Tudo dentro da sua página do Gmail. |
+| **Botões Modelos **e conversas** | Abre a página Modelos e as páginas Conversações da [aplicação Web](http://toutapp.com/login), respectivamente. Tudo dentro da sua página do Gmail. |
 | **Botão Ventilador de vendas ** | Permite que você celebre seus acordos fechados/vencidos com seus colegas de equipe. |
 
