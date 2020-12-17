@@ -28,13 +28,13 @@ Esses métodos podem afetar o valor e a funcionalidade do Marketo em áreas espe
 
 Os visitantes da Web podem definir seu navegador para impedir o rastreamento por qualquer site escolhendo &quot;Não rastrear&quot; (DNT). Isso impede o rastreamento desse navegador e dispositivo em particular. Consulte as configurações de privacidade do navegador para obter detalhes completos.
 
-Em Munchkin, um profissional de marketing pode [decidir se suporta ou ignora a configuração](edit-do-not-track-browser-support-settings.md)DNT do navegador.
+Em Munchkin, um profissional de marketing pode [decidir se deseja suportar ou ignorar a configuração de DNT do navegador](edit-do-not-track-browser-support-settings.md).
 
-Na Personalização da Web, um profissional de marketing pode decidir se deseja [suportar ou ignorar a configuração](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)DNT do navegador.
+Na Personalização da Web, um comerciante pode decidir se [suporta ou ignorar a configuração DNT do navegador](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
 ## opt out de um site específico {#opt-out-from-a-specific-website}
 
-Você também pode permitir que visitantes do site opt out o rastreamento do site do seu site, independentemente de as configurações **Navegador não rastrear** estarem ou não definidas. Isso permite que o visitante do site especifique suas preferências de rastreamento diretamente do site.
+Você também pode permitir que os visitantes do site opt out o rastreamento do site do seu site, independentemente de as configurações **Navegador não rastrear** estarem ou não configuradas. Isso permite que o visitante do site especifique suas preferências de rastreamento diretamente do site.
 
 Para fazer isso, você deve adicionar um parâmetro a um link de opt out em uma página da Web que tenha o rastreamento de deslocamento ativado. Pode ser qualquer página da Web, mas o link da página da Web deve conter o seguinte parâmetro:
 
@@ -72,7 +72,7 @@ Os profissionais de marketing podem preservar a privacidade rastreando usuários
 
    >[!NOTE]
    >
-   >O uso deste parâmetro requer que Munchkin V2 seja ativado. Para habilitá-lo para sua subscrição, entre em contato com o suporte [do](http://nation.marketo.com/community/support_solutions)Marketo.
+   >O uso deste parâmetro requer que Munchkin V2 seja ativado. Para ativá-lo para sua subscrição, entre em contato com [Suporte do Marketing](http://nation.marketo.com/community/support_solutions).
 
 * Para personalização da Web (RTP), adicione isso ao javascript:
 
