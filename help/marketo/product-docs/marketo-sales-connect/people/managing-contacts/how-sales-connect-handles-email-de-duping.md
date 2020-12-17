@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Como o Sales Connect lida com a remoção de mensagens por email {#how-sales-connect-handles-email-de-duping}
+# Como o Sales Connect lida com a remoção de e-mail {#how-sales-connect-handles-email-de-duping}
 
-Quando você está [fazendo upload de um arquivo CSV](http://docs.marketo.com/x/VADb) no Sales Connect, nós mesclamos todos os contatos semelhantes no CSV antes da importação.
+Quando você estiver [carregando um arquivo CSV](http://docs.marketo.com/x/VADb) no Sales Connect, nós unimos todos os contatos semelhantes no CSV antes que a importação ocorra.
 
 Fazemos isso com base em endereços de email similares. Portanto, se houver dois endereços de email idênticos, nós os mesclamos em um único contato.
 
