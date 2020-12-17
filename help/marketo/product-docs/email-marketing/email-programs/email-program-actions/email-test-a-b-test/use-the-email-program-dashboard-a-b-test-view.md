@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Use o Painel de Programa de e-mail - Visualização de teste A/B {#use-the-email-program-dashboard-a-b-test-view}
+# Use o Painel Programa de e-mail - Visualização de teste A/B {#use-the-email-program-dashboard-a-b-test-view}
 
-Veja como seu teste [A/B do programa de e-](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) mail está sendo executado com este painel.
+Veja como seu [teste A/B do programa de email](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) está se saindo com esse painel.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
-## Enviar teste {#send-test}
+## Enviar Teste {#send-test}
 
 Aqui você pode ver o total entregue e os detalhamentos por variantes.
 
 ![](assets/image2014-9-12-16-3a16-3a2.png)
 
-## Cliques {#clicks}
+## Cliques em {#clicks}
 
 Aqui você pode ver quantos cliques cada variante possui.
 
 ![](assets/image2014-9-12-16-3a16-3a20.png)
 
-## Clique para abrir {#click-to-open}
+## Clique para Abrir {#click-to-open}
 
 Este gráfico mostra a razão de clique para abrir. (# cliques / # abre).
 
