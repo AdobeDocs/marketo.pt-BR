@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode clonar rápida e facilmente um programa inteiro e todos os seus ativos em vez de reconstruir tudo manualmente. Veja como.
 
-1. Localize e selecione o programa que deseja clonar e, em Ações **do** Programa, clique em **Clonar.**
+1. Localize e selecione o programa que deseja clonar e, em **Ações do Programa**, clique em **Clonar.**
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,7 +23,7 @@ Você pode clonar rápida e facilmente um programa inteiro e todos os seus ativo
 
    >[!NOTE]
    >
-   >Programas podem ser clonados em [campanhas](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [pastas](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) ou [espaços de trabalho](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Certifique-se de compartilhar todos os ativos dependentes subjacentes (emails, trechos, modelos de landing page etc.) com o espaço de trabalho de destino antes da clonagem.
+   >Programas podem ser clonados em [campanha](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [pastas](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) ou [espaços de trabalho](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Certifique-se de compartilhar todos os ativos dependentes subjacentes (emails, trechos, modelos de landing page etc.) com o espaço de trabalho de destino antes da clonagem.
 
    ![](assets/cloneto.png)
 
