@@ -20,7 +20,7 @@ Você pode definir um período para que o conteúdo esteja ativo no seu fluxo.
 
    ![Imagem Um](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Clique na guia **[!UICONTROL Streams]** .
+1. Clique na guia **[!UICONTROL Streams]**.
 
    ![Imagem dois](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -32,7 +32,7 @@ Você pode definir um período para que o conteúdo esteja ativo no seu fluxo.
 
    ![Imagem quatro](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
-1. Selecione a data de [!UICONTROL Ativar] e as datas de [!UICONTROL Ativar até] .
+1. Selecione a data [!UICONTROL Ativo de] e as datas [!UICONTROL Ativo até].
 
    ![Imagem cinco](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
@@ -42,7 +42,7 @@ Você pode definir um período para que o conteúdo esteja ativo no seu fluxo.
 
 >[!TIP]
 >
->Você pode deixar o [!UICONTROL Ative Through] em branco para tornar o conteúdo disponível para sempre.
+>Você pode deixar [!UICONTROL Ativo até] em branco para tornar o conteúdo disponível para sempre.
 
 Perfeito! Você verá um ícone de relógio ao lado do conteúdo programado. Ele ficará ativo e inativo de acordo com o cronograma definido.
 
