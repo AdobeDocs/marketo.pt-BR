@@ -30,19 +30,19 @@ Você pode encontrar as pessoas exatas de que precisa aplicando a lógica da reg
 
 ## Adicionar lógica a uma Lista inteligente {#add-logic-to-a-smart-list}
 
-Por padrão, sua lista inteligente encontrará as pessoas que correspondem a **TODOS** os filtros (filtros 1 *e* 2 *e* 3). Você pode alterar a lógica da regra para encontrar pessoas que correspondam a **QUALQUER** um dos filtros definidos (filtros 1 *ou* 2 *ou 3) ou usar filtros avançados (filtros 1* e ** 2 *ou *3).
+Por padrão, sua lista inteligente encontrará as pessoas que correspondem aos filtros **ALL** (filtros 1 *e* 2 *e* 3). Você pode alterar a lógica da regra para encontrar pessoas que correspondam a **ANY** dos filtros definidos (filtros 1 *ou* 2 *ou* 3), ou usar filtros avançados (filtros 1 *e* 2 *ou *3).
 
 Neste exemplo, digamos que você queira encontrar pessoas na Califórnia *e* com uma pontuação de pelo menos 50 pontos *ou* com um status de &quot;Vendas qualificadas&quot;.
 
-1. Selecione **Usar** **filtros** **avançados** no menu suspenso.
+1. Selecione **Use** **Advanced** **filtros** no menu suspenso.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >O uso de filtros **avançados** reduz a necessidade de criar listas inteligentes com o membro do filtro Lista inteligente. Isso ajuda a otimizar o desempenho.
+   >Usar listas **Avançadas** reduz a necessidade de criar filtros inteligentes com o membro do filtro Lista inteligente. Isso ajuda a otimizar o desempenho.
 
-1. A caixa de texto **filtros** avançados **** exibirá &quot;e&quot; como o valor padrão entre todos os seus filtros.
+1. A caixa de texto **Advanced** **filtros** exibirá &quot;e&quot; como o valor padrão entre todos os seus filtros.
 
    ![](assets/two-2.png)
 
@@ -64,7 +64,7 @@ Misturar a lógica &quot;e&quot; e &quot;ou&quot; requer parênteses para tornar
 
 ![](assets/advancedfilters-parent.png)
 
-## Usar parênteses aninhados para quatro ou mais Filtros, se necessário {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+## Use parênteses aninhados para quatro ou mais Filtros se necessário {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Dependendo de sua intenção, talvez seja necessário adicionar parênteses aninhados ao usar quatro ou mais filtros.
 
