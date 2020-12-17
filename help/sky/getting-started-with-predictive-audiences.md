@@ -29,8 +29,8 @@ O desempenho dos modelos AI/ML depende dos dados da sua subscrição. Quanto mai
 
 Audiências preditivas são incluídas e ativadas automaticamente para instâncias que utilizam pacotes de preços Prime ou Ultimate. Para saber mais sobre como obter acesso a este recurso, entre em contato com o Gerente de sucesso do cliente.
 
-1. Depois que o recurso for adicionado à sua instância, navegue até a página Audiências **** preditivas na área **[!UICONTROL Administrador]** de [!DNL Marketo Classic].
+1. Depois que o recurso for adicionado à sua instância, navegue até a página **[!UICONTROL Audiências preditivas]** na área **[!UICONTROL Admin]** de [!DNL Marketo Classic].
 
-1. Marque **[!UICONTROL Ativar Audiências]** preditivas para ativar o recurso. Observe que pode levar até 24 horas para que todos os processos concluam a configuração.
+1. Marque **[!UICONTROL Ativar Audiências preditivas]** para ativar o recurso. Observe que pode levar até 24 horas para que todos os processos concluam a configuração.
 
    ![Imagem Um](/help/sky/assets/predictive-audiences/getting-started-with-predictive-audiences/getting-started-with-predictive-audiences-1.png)
