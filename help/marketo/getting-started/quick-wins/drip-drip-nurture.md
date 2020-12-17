@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Derramamento, Derramamento, Enfermeira {#drip-drip-nurture}
+# Unidade, Depuração, Enfermagem {#drip-drip-nurture}
 
 ## Missão: Enfermeira as pessoas que compareceram à sua apresentação comercial recente {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
@@ -25,19 +25,19 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
 ## Etapa 1: Criar um Programa de envolvimento {#step-create-an-engagement-program}
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/one-3.png)
 
-1. Selecione a pasta **Learning** , clique no menu suspenso **New (Novo** ) e selecione **New Programa**(Novo).
+1. Selecione a pasta **Learning**, clique no menu suspenso **New** e selecione **Novo Programa**.
 
    ![](assets/two-4.png)
 
-1. Digite um **Nome** e selecione **Envolvimento** para o Tipo **de** Programa.
+1. Digite um **Nome** e selecione **Envolvimento** para o **Tipo de Programa**.
 
    ![](assets/three-3.png)
 
-1. Verifique se o campo **Canal** é **Nurture** e clique em **Create (Criar)**.
+1. Verifique se o campo **Canal** é **Ambiente** e clique em **Criar**.
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
 ## Etapa 2: Criar um email {#step-create-an-email}
 
-1. Selecione seu programa de envolvimento, clique em **Novo** e selecione **Novo ativo** local.
+1. Selecione seu programa de envolvimento, clique em **Novo** e selecione **Novo ativo local**.
 
    ![](assets/five-3.png)
 
@@ -53,13 +53,13 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    ![](assets/six-3.png)
 
-1. Insira um **Nome**, selecione o **Modelo** que deseja usar e clique em **Criar**.
+1. Digite um **Nome**, selecione o **Modelo** que deseja usar e clique em **Criar**.
 
    ![](assets/seven-4.png)
 
    >[!NOTE]
    >
-   >Não vê o editor de email? Seu navegador provavelmente bloqueou a janela. Ative pop-ups de [app.marketo.com](https://app.marketo.com) no seu navegador e clique em **Editar rascunho** na barra de menus superior.
+   >Não vê o editor de email? Seu navegador provavelmente bloqueou a janela. Ative os pop-ups de [app.marketo.com](https://app.marketo.com) no seu navegador e clique em **Editar rascunho** na barra de menus superior.
 
 1. Insira um assunto.
 
@@ -77,7 +77,7 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    ![](assets/eleven-3.png)
 
-1. Em Ações **de** email, clique em **Aprovar**.
+1. Em **Ações de e-mail**, clique em **Aprovar**.
 
    ![](assets/twelve-2.png)
 
@@ -93,7 +93,7 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
 1. Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento usando os emails criados.
 
-1. Selecione seu programa de envolvimento e clique na guia **Streams** .
+1. Selecione seu programa de envolvimento e clique na guia **Streams**.
 
    ![](assets/fourteen-2.png)
 
@@ -103,7 +103,7 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    >[!TIP]
    >
-   >Você também pode usar o botão **Adicionar conteúdo** ou o ícone de fluxo **+** .
+   >Você também pode usar o botão **Adicionar conteúdo** ou o ícone de fluxo **+**.
 
 ## Etapa 4: Ativar conteúdo de fluxo {#step-activate-stream-content}
 
@@ -117,9 +117,9 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    Ótimo trabalho! Mais uma etapa e o programa de envolvimento está pronto.
 
-## Etapa 5: Definir a cadência do fluxo {#step-set-the-stream-cadence}
+## Etapa 5: Defina a Cadência de fluxo {#step-set-the-stream-cadence}
 
-1. Clique em **Definir cadência** de fluxo.
+1. Clique em **Definir cadência de fluxo**.
 
    ![](assets/seventeen.png)
 
@@ -135,7 +135,7 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
 ## Etapa 6: Adicionar uma pessoa de teste ao seu Programa de envolvimento {#step-add-a-test-person-to-your-engagement-program}
 
-1. Vá para a área **Banco de Dados** .
+1. Vá para a área **Banco de Dados**.
 
    ![](assets/nineteen-1.png)
 
@@ -151,7 +151,7 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    ![](assets/twenty-one.png)
 
-1. Selecione seu **Programa** e **Stream** e clique em **Executar agora**.
+1. Selecione seu **Programa** e **Fluxo**, em seguida, clique em **Executar agora**.
 
    ![](assets/twenty-two.png)
 
@@ -161,7 +161,7 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    >[!NOTE]
    >
-   >Saiba mais sobre os Programas [de](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)envolvimento.
+   >Saiba mais sobre [Programas de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
 
 <br> 
 
