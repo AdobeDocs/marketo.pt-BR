@@ -19,11 +19,11 @@ Os links em seus emails de subscrição de relatório expiram após três dias. 
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Admin**, clique em Configurações **** de logon.
+1. Em **Admin**, clique em **Definições de Início de Sessão**.
 
    ![](assets/image2014-9-24-11-3a33-3a31.png)
 
-1. Clique em **Editar expiração** de URL.
+1. Clique em **Editar expiração do URL**.
 
    ![](assets/image2014-9-24-11-3a33-3a43.png)
 
