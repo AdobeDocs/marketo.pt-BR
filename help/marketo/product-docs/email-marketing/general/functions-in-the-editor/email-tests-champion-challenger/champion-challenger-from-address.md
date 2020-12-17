@@ -23,13 +23,13 @@ Quer experimentar um endereço diferente do From sem nenhum problema? Veja como.
 
 
 
-1. No editor de teste de email, selecione **Do endereço** na lista suspensa **Tipo de teste **I.
+1. No editor de teste de e-mail, selecione **Do endereço** no menu suspenso **Tipo de teste **1.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >O primeiro endereço de origem é designado como **campeão**. Os endereços subsequentes são chamados de **Challengers**.
+   >O primeiro endereço de origem é designado como **Champion**. Os endereços subsequentes de são chamados **Challengers**.
 
 1. Digite o nome de origem (à esquerda) e o endereço de origem**** (à direita) para os desafiantes.
 
@@ -50,9 +50,9 @@ Quer experimentar um endereço diferente do From sem nenhum problema? Veja como.
    >
    >Na distribuição mostrada acima, 15% da audiência total especificada na lista inteligente recebe um dos emails com um desafiante Do Endereço e 85% recebem o email com o campeão Do Endereço. Os emails para vários adversários de endereços compartilham os 15% igualmente. Quando o teste terminar, você pode declarar um vencedor manualmente. A partir daí, todas as pessoas futuras receberão o conteúdo com melhor desempenho.
 
-   Para ganhar confiança estatística, certifique-se de escolher uma porcentagem que inclua pessoas suficientes para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos.  [Mais informação do que você já quis sobre confiança](http://en.wikipedia.org/wiki/Confidence_interval)estatística.
+   Para ganhar confiança estatística, certifique-se de escolher uma porcentagem que inclua pessoas suficientes para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos.  [Mais informação do que você já quis sobre confiança](http://en.wikipedia.org/wiki/Confidence_interval) estatística.
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
