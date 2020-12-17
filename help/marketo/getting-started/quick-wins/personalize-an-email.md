@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## Etapa 1: Selecione um email para personalizar {#step-select-an-email-to-personalize}
 
-1. Selecione um dos emails de criação criados na vitória [rápida](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) anterior e clique em **Editar rascunho**.
+1. Selecione um dos emails de criação criados na [vitória rápida anterior](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) e clique em **Editar rascunho**.
 
    ![](assets/one-4.png)
 
@@ -32,35 +32,35 @@ ht-degree: 0%
    >
    >Isso cria uma cópia do email como rascunho. Você deve aprovar o rascunho para que as alterações entrem em vigor.
 
-Se você não tiver ativado um bloqueador de pop-ups, o editor de e-mail será aberto em uma nova guia/janela. Caso contrário, clique duas vezes em **Editar rascunho** .
+Se você não tiver ativado um bloqueador de pop-ups, o editor de e-mail será aberto em uma nova guia/janela. Caso contrário, clique duas vezes em **Editar rascunho**.
 
-## Etapa 2: Transformar o vendedor no remetente {#step-make-the-salesperson-the-sender}
+## Etapa 2: Transformar o Vendedor no Remetente {#step-make-the-salesperson-the-sender}
 
-1. Selecione o campo **De** , realce e **exclua** o nome atual.
+1. Selecione o campo **De**, realce e **delete** o nome atual.
 
    ![](assets/two-5.png)
 
-1. Clique no ícone **Token** à direita do campo **De** .
+1. Clique no ícone **Token** à direita do campo **From**.
 
    ![](assets/three-4.png)
 
-1. Localize e selecione o **`{{lead.Lead Owner First Name}}`** token.
+1. Localize e selecione o token **`{{lead.Lead Owner First Name}}`**.
 
    ![](assets/four-3.png)
 
-1. Digite o nome da empresa e um traço para o Valor **** padrão para garantir que algo seja exibido caso o nome do representante de vendas não esteja disponível. Clique em **Inserir**.
+1. Digite o nome da empresa e um traço para o **Valor padrão** para garantir que algo seja exibido caso o nome do representante de vendas não esteja disponível. Clique em **Inserir**.
 
    ![](assets/five-4.png)
 
-1. Pressione a barra de espaço no campo **De** , certificando-se de que o cursor esteja piscando um espaço após o token inserido. Em seguida, clique novamente no ícone **Token** .
+1. Pressione a barra de espaço no campo **De**, certificando-se de que o cursor esteja piscando um espaço após o token inserido. Em seguida, clique novamente no ícone **Token**.
 
    ![](assets/six-4.png)
 
-1. Localize e selecione o **`{{lead.Lead Owner Last Name}}`** token.
+1. Localize e selecione o token **`{{lead.Lead Owner Last Name}}`**.
 
    ![](assets/seven-5.png)
 
-1. Digite &quot;Sales&quot; para o Valor **** padrão e clique em **Insert**.
+1. Digite &quot;Sales&quot; para **Default Value** e clique em **Inserir**.
 
    ![](assets/eight-3.png)
 
@@ -70,15 +70,15 @@ Se você não tiver ativado um bloqueador de pop-ups, o editor de e-mail será a
 
    ![](assets/nine-2.png)
 
-1. Adicione um espaço depois de &quot;Hello&quot;, posicione o cursor na frente da vírgula e clique no ícone **Inserir token** .
+1. Adicione um espaço depois de &quot;Hello&quot; e posicione o cursor na frente da vírgula e clique no ícone **Inserir token**.
 
    ![](assets/ten-4.png)
 
-1. Localize e selecione o **`{{lead.First Name}}`** token.
+1. Localize e selecione o token **`{{lead.First Name}}`**.
 
    ![](assets/eleven-4.png)
 
-1. Digite &quot;Friend&quot; (ou qualquer rótulo que você gostaria) no campo Valor **** padrão e clique em **Inserir**.
+1. Digite &quot;Friend&quot; (ou qualquer rótulo desejado) no campo **Valor padrão** e clique em **Inserir**.
 
    ![](assets/twelve-3.png)
 
@@ -94,13 +94,13 @@ Se você não tiver ativado um bloqueador de pop-ups, o editor de e-mail será a
 
    ![](assets/fourteen-3.png)
 
-1. Em Ações **de** email, selecione **Aprovar rascunho**.
+1. Em **Ações de e-mail**, selecione **Aprovar rascunho**.
 
    ![](assets/fifteen-3.png)
 
 >[!TIP]
 >
->Precisa de uma atualização rápida sobre como enviar o e-mail para você mesmo? Consulte [Enviar uma explosão](/help/marketo/getting-started/quick-wins/send-an-email.md)de email.
+>Precisa de uma atualização rápida sobre como enviar o e-mail para você mesmo? Consulte [Enviar uma Explosão de Email](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 ### Missão concluída {#mission-complete}
 
