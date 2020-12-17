@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visualizar um email {#previewing-an-email}
+# Visualizando um email {#previewing-an-email}
 
 Clique com o botão direito do mouse em um cartão de e-mail para pré-visualização-lo, antes de puxar o acionador.
 
@@ -19,7 +19,7 @@ Clique com o botão direito do mouse em um cartão de e-mail para pré-visualiza
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. Toque em Email **de** Pré-visualização.
+1. Toque em **Email de Pré-visualização**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
