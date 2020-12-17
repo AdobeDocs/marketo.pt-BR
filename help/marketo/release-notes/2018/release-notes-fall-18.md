@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Notas de versão: outono de 18 {#release-notes-fall}
+# Notas de versão: Último trimestre de 2018 {#release-notes-fall}
 
 Os seguintes recursos foram incluídos na versão lançada no último trimestre de 2018. Verifique sua edição de marketing para ver a disponibilidade de recursos.
 
@@ -23,7 +23,7 @@ Clique nos links de título para artigos detalhados de visualização para cada 
 
 A personalização da Web agora suporta vários espaços de trabalho.
 
-## Envolvimento de vendas de marketing {#marketo-sales-engage}
+## Marketing to Sales Engate {#marketo-sales-engage}
 
 * **Suporte** a raios SFDC: Os usuários que migram para ou usam atualmente o Lightning podem aproveitar o MSE para obter um envolvimento mais inteligente na jornada do comprador.
 
@@ -38,7 +38,7 @@ A personalização da Web agora suporta vários espaços de trabalho.
 
 ## Marketo Sky {#marketo-sky}
 
-Para obter mais detalhes e atualizações, consulte as notas [de versão do](https://help.marketo.com)Sky.
+Para obter mais detalhes e atualizações, verifique nossas [Notas de versão do Sky](https://help.marketo.com).
 
 * **Atualizações do sistema de design**
 
@@ -56,7 +56,7 @@ Para obter mais detalhes e atualizações, consulte as notas [de versão do](htt
 * Visualizações de Lista do Design Studio: Os usuários agora têm a capacidade de visualização de modelos de landing page e de e-mail em formato de visualização-lista, permitindo a navegação rápida e ações em massa em um único tipo de ativo.
 * Páginas de detalhes do ativo do Design Studio: Economize tempo e dores de cabeça ao visualizar, organizar e executar ações em massa em todos os ativos em um único local.
 * **Programas padrão agora disponíveis no Marketo Sky**: Agora, o Marketo Sky suporta programas padrão, o estilo de programa versátil que permite criar qualquer campanha que você possa imaginar.
-* **Programas de e-mail - Fase 1**: Agora você pode visualização programas de e-mail no Sky. Dê uma olhada no novo design e [nos informe o que você acha](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Programas de e-mail - Fase 1**: Agora você pode visualização programas de e-mail no Sky. Dê uma olhada no novo design e [avise-nos o que você acha](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analytics {#analytics}
 
@@ -86,7 +86,7 @@ Para obter mais detalhes e atualizações, consulte as notas [de versão do](htt
 * **Participação por data** de Atividade: Os usuários podem optar por visualização nas métricas de Envolvimento por data de atividade ou período de custo.
 * **FILTROS** de conta com nome ABM: Filtre os painéis Pipeline e Revenue por Contas Nomeadas específicas.
 
-## Redes de anúncios {#ad-networks}
+## Ad Networks {#ad-networks}
 
 **[Atualizar token](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
