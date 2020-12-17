@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Munchkin é o trecho de JavaScript que você coloca em seu site. Rastreia visitas, cliques e preenchimentos de formulários. Ele também tem uma rica API para fazer todo tipo de truques legais.
 
-Confira a página do [desenvolvedor em Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+Confira a página do desenvolvedor [em Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
