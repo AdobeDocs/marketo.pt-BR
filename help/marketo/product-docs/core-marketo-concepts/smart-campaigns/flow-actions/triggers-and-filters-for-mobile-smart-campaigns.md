@@ -27,7 +27,7 @@ Há apenas filtros para esta atividade:
 
 * Notificação por push enviada - filtro e filtro de inatividade
 
-Procure aplicativos **** móveis no painel direito para lista de todos os filtros e acionadores do aplicativo móvel.
+Procure **aplicativo móvel** no painel direito para lista de todos os filtros e acionadores do aplicativo móvel.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
@@ -57,7 +57,7 @@ Alguns acionadores e filtros oferta restrições adicionais, como:
 
 * Duração da sessão (segundos) - Tempo da sessão quando o aplicativo está em primeiro plano
 
-* Is Push Enabled - **True** significa que notificações por push podem ser enviadas. **False** significa que não podem. por exemplo, a pessoa pode ter opt out de receber notificações por push
+* Está ativado para push - **Verdadeiro** significa que notificações por push podem ser enviadas. **Os** Falsemeanos que não podem; por exemplo, a pessoa pode ter opt out de receber notificações por push
 
 ## Acionadores e Filtros {#triggers-and-filters}
 
@@ -129,7 +129,7 @@ As restrições de Ação permitem que você use o acionador e os filtros para a
 >
 >**Exemplo**
 >
->Sob o tipo de ação de *Compras*, aqui está uma ação muito específica, com as outras restrições que a definem:
+>Sob o tipo de ação de *Shopping*, há uma ação muito específica, com as outras restrições que a definem:
 >
 >* Comprou uma camisa
 >  * Era vermelho
@@ -180,7 +180,7 @@ Notificação por push com toques/toques
 >
 >Use o filtro de inatividade Notificação por push sem toque para encontrar pessoas que não tocaram em uma notificação por push enviada recentemente para elas, para que você possa acompanhar por email.
 
-**Notificação** por push enviada Esta atividade está disponível somente como filtro.
+**Foi enviada a** notificação por pushEssa atividade está disponível somente como filtro.
 
 * Notificação por push enviada - filtro
 
