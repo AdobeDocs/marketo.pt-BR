@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Reenvio de uma Cancelamento de assinatura {#resubscribing-an-unsubscribe}
+# Reenviando uma Cancelamento de assinatura {#resubscribing-an-unsubscribe}
 
 Às vezes, as pessoas querem recusar receber e-mails. Aqui está como tornar os cancelamentos de assinaturas possíveis novamente.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >Se a sincronização de cancelamento de assinatura estiver ativada, você deverá remover a cancelamento de assinatura do ToutApp e desmarcar o opt out no Salesforce para que o registro da pessoa não seja sincronizado novamente.
 
-1. Vá para o aplicativo [da](http://toutapp.com/login) Web e clique em **Pessoas**.
+1. Vá para [aplicação Web](http://toutapp.com/login) e clique em **Pessoas**.
 1. Selecione a pessoa para abrir a visualização de detalhes da pessoa.
 
    ![](assets/two.png)
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. Selecione o motivo pelo qual a pessoa está sendo devolvida para receber emails e clique em **Remover Cancelar inscrição**.
+1. Selecione o motivo pelo qual a pessoa está sendo devolvida para receber emails e clique em **Remover Cancelamento de Assinatura**.
 
    ![](assets/four.png)
 
