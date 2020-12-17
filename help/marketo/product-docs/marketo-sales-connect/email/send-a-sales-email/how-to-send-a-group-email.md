@@ -30,17 +30,17 @@ Clique [aqui](http://docs.marketo.com/x/JITS) para obter um guia passo a passo s
    >Se você estiver usando o plug-in do Gmail ou Outlook, precisará navegar até o aplicativo da Web para enviar um email de grupo.
 
 1. Selecione o grupo a ser enviado por email.
-1. Clique no botão Grupo **de** email.
+1. Clique no botão **Email Group**.
 1. Escolha um modelo de email.
 
    >[!TIP]
    >
-   >Cada membro do grupo receberá o mesmo email, portanto, verifique se o modelo inclui campos [](http://docs.marketo.com/x/QITS) dinâmicos para personalizar cada mensagem de recipient.
+   >Cada membro do grupo receberá o mesmo email, portanto, certifique-se de que o modelo inclui [campos dinâmicos](http://docs.marketo.com/x/QITS) para personalizar cada mensagem de recipient.
 
 1. Clique em **Pré-visualização** para revisar o email antes de enviá-lo.
 1. Quando o email estiver pronto, clique em **Enviar**.
 
-Agora, abra o seu Feed [ao vivo](http://toutapp.com/next#live) do Sales Connect e veja como seus start se envolvem com seu email.
+Agora, abra o seu Connect de vendas [Feed ao vivo](http://toutapp.com/next#live) e veja como seus recipient se envolvem com seu e-mail.
 
 >[!NOTE]
 >
