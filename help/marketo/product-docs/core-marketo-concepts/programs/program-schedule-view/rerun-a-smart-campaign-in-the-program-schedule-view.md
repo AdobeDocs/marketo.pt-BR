@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode criar facilmente novas execuções de uma campanha inteligente existente diretamente da visualização do cronograma do programa.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ Você pode criar facilmente novas execuções de uma campanha inteligente existe
 
    >[!TIP]
    >
-   >Você também pode fazer isso pelo foco [do](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)programa.
+   >Você também pode fazer isso a partir do foco do programa [](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boom! Assim, você agendou outra corrida para aquela campanha inteligente. Se essa campanha inteligente continha etapas de envio de email, você também verá!
