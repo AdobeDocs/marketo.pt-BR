@@ -19,17 +19,17 @@ ht-degree: 0%
 >
 >[Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-## Criar um Programa por email {#create-an-email-program}
+## Criar um Programa de email {#create-an-email-program}
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/one-1.png)
 
-1. Selecione sua pasta **Learning** . Clique na lista suspensa **Novo** e selecione **Novo Programa**.
+1. Selecione sua pasta **Learning**. Clique no menu suspenso **Novo** e selecione **Novo Programa**.
 
    ![](assets/two-1.png)
 
-1. Digite um **Nome** e selecione **Email** para Tipo de **Programa.**
+1. Digite um **Nome** e selecione **Email** para **Tipo de Programa.**
 
    >[!TIP]
    >
@@ -37,13 +37,13 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. Em **Canal**, selecione Enviar **** email e clique em **Criar**.
+1. Em **Canal**, selecione **Enviar por email** e clique em **Criar**.
 
    ![](assets/image2015-3-2-16-3a25-3a18.png)
 
-## Definir sua Audiência {#define-your-audience}
+## Defina sua Audiência {#define-your-audience}
 
-1. Clique em **Editar Lista** inteligente no bloco Audiência.
+1. Clique em **Editar Lista inteligente** no bloco Audiência.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Use **Pesquisar** na parte superior da lista de Filtros para encontrar o filtro mais facilmente.
+   >Use **Pesquise** na parte superior da lista de Filtros para encontrar o filtro mais facilmente.
 
 1. Localize e selecione seu endereço de email.
 
@@ -61,13 +61,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se o seu email não for preenchido automaticamente, talvez você tenha esquecido de [Configurar e Adicionar um cliente potencial.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+   >Se o seu email não for preenchido automaticamente, você pode ter esquecido de [Configurar e Adicionar um cliente potencial.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
    >Neste exemplo, você está mandando o email para você mesmo, mas pode personalizar a audiência como quiser.
 
-1. Volte para a guia programa principal e clique no ícone de atualização da **Pessoa**.
+1. Volte para a guia programa principal e clique no ícone de atualização para **Pessoa**.
 
    ![](assets/refresh-icon.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. Insira um **Nome**, selecione um **Modelo** e clique em **Criar**.
+1. Digite um **Nome**, selecione um **Modelo** e clique em **Criar**.
 
    ![](assets/ten-1.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se você tiver um bloqueador de pop-ups, clique em **Editar rascunho** para inserir o editor de e-mail.
+   >Se você tiver um bloqueador de pop-ups, clique em **Editar rascunho** para entrar no editor de e-mail.
 
 1. Selecione a área que deseja editar, clique no ícone de engrenagem à direita e selecione **Editar** (você também pode clicar com o duplo na seção editável para editar).
 
@@ -103,19 +103,19 @@ ht-degree: 0%
 
    ![](assets/fourteen.png)
 
-1. Clique no menu suspenso Ações **de** email e selecione **Aprovar**.
+1. Clique no menu suspenso **Ações de e-mail** e selecione **Aprovar**.
 
    ![](assets/fifteen.png)
 
    >[!TIP]
    >
-   >Quer enviar uma amostra rápida para ver a aparência do seu email antes de iniciar? Selecione **Enviar amostra** no menu acima ou clique em Ações **de** email e [**Enviar amostra**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
+   >Quer enviar uma amostra rápida para ver a aparência do seu email antes de iniciar? Selecione **Enviar amostra** no menu acima, ou clique em **Ações de e-mail** e em [**Enviar amostra**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
 
 1. Selecione o Programa Email na árvore esquerda.
 
    ![](assets/sixteen.png)
 
-1. No bloco Agendar, defina o dia de inicialização do email como **Hoje.**
+1. No bloco Agendamento, defina o dia de inicialização do email como **Hoje.**
 
    ![](assets/image2014-9-8-15-3a13-3a11.png)
 
@@ -127,7 +127,7 @@ ht-degree: 0%
    >
    >O fuso horário padrão não é seu? Saiba como [atualizá-lo aqui](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
 
-1. Clique em **Aprovar Programa** , abaixo do bloco Aprovação, e pronto!
+1. Clique em **Aprovar Programa** no bloco Aprovação e você está pronto!
 
    ![](assets/image2014-9-8-15-3a13-3a34.png)
 
