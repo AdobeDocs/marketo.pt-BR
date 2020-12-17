@@ -19,11 +19,11 @@ A guia Conteúdo trata do envolvimento do email da sua equipe ao usar um modelo.
 
 Este é um modelo de e-mail que ainda não foi compartilhado com a equipe, mas está recebendo um alto nível de envolvimento. Mostramos a linha de assunto do modelo e o criador do modelo. Esta é uma grande oportunidade para alcançar este representante e recomendar que ele ou ela compartilhe o modelo!
 
-## Maior envolvimento {#highest-engagement}
+## Participação mais alta {#highest-engagement}
 
 Este é o modelo compartilhado que está obtendo o mais alto nível de envolvimento em todos os setores.
 
-## Participação menor {#lowest-engagement}
+## Participação mais baixa {#lowest-engagement}
 
 Pode ser compartilhado ou não, este é o modelo com a menor quantidade de envolvimento.
 
