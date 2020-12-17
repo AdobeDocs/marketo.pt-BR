@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Atribuindo Tarefas aos membros da equipe {#assigning-tasks-to-team-members}
+# Atribuindo Tarefas a membros da equipe {#assigning-tasks-to-team-members}
 
 Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode ser uma excelente forma de coordenar seus esforços de prospecção.
 
@@ -19,7 +19,7 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 >
 >Você só pode atribuir tarefas para contatos compartilhados. Você desejará [compartilhar um grupo de contatos](http://docs.marketo.com/x/fwDb) com os membros da sua equipe antes de colaborar com tarefas compartilhadas.
 
-1. Clique em Central **de comando**.
+1. Clique no **Centro de Comando**.
 
    ![](assets/one-1.png)
 
@@ -51,7 +51,7 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 
    ![](assets/eight.png)
 
-1. Adicione todos os detalhes importantes que sejam relevantes para seu colega de equipe (opcional) e clique em **Criar**.
+1. Adicione todos os detalhes importantes que sejam relevantes para seu companheiro de equipe (opcional) e clique em **Criar**.
 
    ![](assets/nine.png)
 
