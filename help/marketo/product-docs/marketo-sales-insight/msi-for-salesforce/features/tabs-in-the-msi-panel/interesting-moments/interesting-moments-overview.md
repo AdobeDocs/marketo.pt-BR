@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visão geral dos momentos interessantes {#interesting-moments-overview}
+# Visão geral de momentos interessantes {#interesting-moments-overview}
 
 Você pode usar a etapa de fluxo de momento interessante para dar visibilidade à sua equipe de vendas sobre as coisas legais que seus clientes potenciais estão fazendo em uma Campanha inteligente.
 
