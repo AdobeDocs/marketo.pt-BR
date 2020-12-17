@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Glossário de Atalhos de Teclado {#keyboard-shortcuts-glossary}
+# Glossário de atalhos do teclado {#keyboard-shortcuts-glossary}
 
 Você é uma pessoa com atalhos do teclado? Nós te cobrimos!
 
