@@ -17,7 +17,7 @@ O telefone de vendas lhe dá a capacidade de gravar e salvar suas gravações de
 
 ## Copiar link de gravação dos detalhes da pessoa na Aplicação web {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. Navegue até o aplicativo [da](http://toutapp.com/login)Web.
+1. Navegue até [aplicação Web](http://toutapp.com/login).
 1. Abra os detalhes da pessoa.
 1. Localize a Atividade Call (Chamada) na lista da atividade.
 1. Clique com o botão direito do mouse na gravação da chamada e copie o URL do link.
