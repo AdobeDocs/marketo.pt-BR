@@ -31,16 +31,16 @@ Você pode adicionar facilmente clientes potenciais ou contatos a campanhas inte
 
    ![](assets/three.png)
 
-1. No registro, role para baixo até a área do Marketing Insight de vendas, clique no menu suspenso **Ações** , selecione **Adicionar à Campanha de marketing** e clique **em Ir.**
+1. No registro, role para baixo até a área do Marketing Insight de Vendas, clique no menu suspenso **Ações**, selecione **Adicionar à Campanha de Marketo,** e clique em **Ir.**
 
    ![](assets/four.png)
 
-1. Clique no menu suspenso Nome **da** Campanha, selecione a campanha de marketing desejada e clique em **Adicionar à Campanha** de marketing.
+1. Clique no menu suspenso **Nome da Campanha**, selecione a campanha de marketing desejada e clique em **Adicionar à Campanha de marketing**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Para que a campanha apareça na lista suspensa, use o acionador [**Campanha is Requested** (Solicitada](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)), com o **Sales Insight** (Insight de vendas) como a fonte, ao configurar a campanha.
+   >Para que a campanha apareça na lista suspensa, use a Campanha [**is Requested** trigger](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), com **Sales Insight** como fonte, quando você configurar a campanha.
 
 E é isso! A pessoa é adicionada à sua campanha de marketing.
