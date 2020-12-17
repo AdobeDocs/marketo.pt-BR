@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-A pontuação de envolvimento facilita a visualização da eficácia do conteúdo em seu programa de envolvimento. A pontuação varia de 0 a 100. Confira [o Painel](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) Envolvimento para ver como você pode acompanhar o desempenho do seu conteúdo.
+A pontuação de envolvimento facilita a visualização da eficácia do conteúdo em seu programa de envolvimento. A pontuação varia de 0 a 100. Confira [o Painel Envolvimento](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) para ver como você pode acompanhar o desempenho do seu conteúdo.
 
 ![Imagem Um](/help/sky/assets/engagement-programs/understanding-the-engagement-score/understanding-the-engagement-score-1.png)
 
