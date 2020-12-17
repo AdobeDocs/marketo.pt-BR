@@ -17,7 +17,7 @@ Você quer gerenciar suas páginas? Você pode fazer isso facilmente criando uma
 
 ## Adicionar página a uma Lista {#add-page-to-a-list}
 
-1. Vá para a seção **Páginas** .
+1. Vá para a seção **Páginas**.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
