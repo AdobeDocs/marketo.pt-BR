@@ -46,7 +46,7 @@ Verifique rapidamente sua lista para fazer diretamente do Feed ao vivo.
 
 Crie novas tarefas ou gerencie-as.
 
-Filtre hoje, amanhã, hoje *e amanhã,* ou os próximos 7 dias.
+Filtre hoje, amanhã, hoje *e* amanhã, ou nos próximos 7 dias.
 
 >[!NOTE]
 >
@@ -75,28 +75,28 @@ Veja as pessoas de nível superior (ordenadas da mais alta para a mais baixa) cl
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Alguém visualizou seu email</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Alguém clicou em um link em seu email</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Alguém respondeu ao seu email</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td colspan="1">Qualquer notificação listada em Momentos interessantes, incluindo Email, Web e Marcos</td> 
   </tr> 
