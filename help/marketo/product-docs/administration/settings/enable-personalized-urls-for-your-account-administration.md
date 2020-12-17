@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ativar URLs personalizados para sua conta (Administração) {#enable-personalized-urls-for-your-account-administration}
+# Habilitar URLs personalizados para sua conta (Administração) {#enable-personalized-urls-for-your-account-administration}
 
 URLs personalizados são ótimos para campanhas de e-mail de impressão.
 
@@ -27,11 +27,11 @@ URLs personalizados são ótimos para campanhas de e-mail de impressão.
 
    ![](assets/image2014-9-24-11-3a39-3a6.png)
 
-1. Marque a caixa **Habilitar URLs** personalizados e clique em **S****ave**.
+1. Marque a caixa **Ativar URLs personalizados** e clique em **S****ave**.
 
    ![](assets/image2014-9-24-11-3a39-3a41.png)
 
-Ótimo trabalho! Agora que você habilitou os PURLs para sua conta, é possível [habilitá-los para landings page](../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)individuais.
+Ótimo trabalho! Agora que você habilitou os PURLs para sua conta, é possível [ativá-los para landings page individuais](../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >
