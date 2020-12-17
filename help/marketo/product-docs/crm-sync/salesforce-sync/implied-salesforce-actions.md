@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Quando uma etapa de fluxo específica do Salesforce é executada, às vezes as etapas extras são executadas automaticamente. Estas são as regras, então você sabe:
 
-Essas regras serão aplicadas *quando a pessoa não estiver atualmente em [Salesforce.com](http://Salesforce.com)* como contato ou cliente potencial.
+Essas regras serão aplicadas *quando a pessoa não estiver atualmente em [Salesforce.com](http://Salesforce.com)* como um contato ou cliente potencial.
 
 <table> 
  <thead> 
@@ -31,7 +31,7 @@ Essas regras serão aplicadas *quando a pessoa não estiver atualmente em [Sales
   </tr> 
   <tr> 
    <td>Alterar status na Campanha SFDC</td> 
-   <td>Sincronizar pessoa com a Campanha<br>SFDCAdd com SFDC</td> 
+   <td>Sincronizar Pessoa com SFDC<br>Adicionar à Campanha SFDC</td> 
   </tr> 
   <tr> 
    <td>Alterar proprietário</td> 
@@ -48,8 +48,8 @@ Essas regras serão aplicadas *quando a pessoa não estiver atualmente em [Sales
  </tbody> 
 </table>
 
-Você pode filtrar os registros SFDC em uma Lista inteligente usando o Filtro de tipo **** SFDC com o operador definido como &quot;não está vazio&quot;. Todos os registros SFDC têm um valor neste campo.
+Você pode filtrar registros SFDC em uma Lista inteligente usando o filtro **SFDC Type** com o operador definido como &quot;não está vazio&quot;. Todos os registros SFDC têm um valor neste campo.
 
-Lembre-se, essas ações automáticas só acontecem se o cliente potencial não estiver no [Salesforce.com](http://Salesforce.com)
+Lembre-se, essas ações automáticas só acontecem se o cliente potencial não estiver em [Salesforce.com](http://Salesforce.com)
 
 A sincronização do Salesforce é legal, certo?
