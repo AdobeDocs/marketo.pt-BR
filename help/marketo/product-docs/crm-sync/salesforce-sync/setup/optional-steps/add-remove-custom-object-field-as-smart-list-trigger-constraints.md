@@ -23,11 +23,11 @@ O Marketo fornece controle de granulação sobre a sincronização de objetos pe
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Clique em **Admin** e, em seguida, em Sincronizar objetos do **Salesforce.**
+1. Clique em **Admin** e **Sincronização de Objetos do Salesforce.**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **A Sincronização** de objetos do Salesforce aparece na coluna esquerda.
+1. **O Salesforce Objects** Syncappears na coluna esquerda.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,15 +35,15 @@ O Marketo fornece controle de granulação sobre a sincronização de objetos pe
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Clique em **Editar campos** visíveis.
+1. Clique em **Editar campos visíveis**.
 
    >[!TIP]
    >
-   >Se o botão **Editar campos** visíveis estiver acinzentado, o objeto está sendo usado em uma lista inteligente ou campanha inteligente. Remova todas as associações para continuar.
+   >Se o botão **Editar campos visíveis** estiver acinzentado, o objeto está atualmente em uso em uma lista inteligente ou campanha inteligente. Remova todas as associações para continuar.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. Se a sincronização global estiver ativada, clique em **Desativar sincronização** global.
+1. Se a sincronização global estiver ativada, clique em **Desativar Sincronização Global**.
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
