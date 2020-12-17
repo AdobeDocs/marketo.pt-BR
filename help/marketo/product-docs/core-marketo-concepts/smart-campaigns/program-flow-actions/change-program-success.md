@@ -29,7 +29,7 @@ Se você tiver um grupo de pessoas marcado com Programa bem-sucedido acidentalme
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Selecione **Êxito** ou** Data de sucesso** como o Atributo.
+1. Selecione **Data de sucesso** ou*** Data de sucesso** como o Atributo.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +37,7 @@ Se você tiver um grupo de pessoas marcado com Programa bem-sucedido acidentalme
    >
    >Definir a data de sucesso para qualquer item define automaticamente o sucesso como verdadeiro. Configurar o sucesso como verdadeiro define automaticamente a Data de sucesso como a data atual.
 
-1. Defina o **novo valor** como **Verdadeiro** ou **Falso**.
+1. Defina **Novo valor** como **Verdadeiro** ou **Falso**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 
