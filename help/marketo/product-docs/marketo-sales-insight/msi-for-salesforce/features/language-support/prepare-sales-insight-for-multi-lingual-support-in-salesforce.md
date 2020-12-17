@@ -32,11 +32,11 @@ O Marketing Cloud Sales Insight é armazenado por idioma. Portanto, se você qui
 Qualquer outro idioma assume o padrão de inglês.
 
 1. Adicionar um novo idioma para o Marketing Sales Insight
-1. Faça logon no Salesforce. Na lista suspensa sob seu nome, no canto superior direito, clique em **Configuração**.
+1. Faça logon no Salesforce. Na lista suspensa sob seu nome no canto superior direito, clique em **Configuração**.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Em** Minhas informações pessoais**, clique em Informações **** pessoais.
+1. Em** Minhas informações pessoais**, clique em **Informações pessoais**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
@@ -56,7 +56,7 @@ Qualquer outro idioma assume o padrão de inglês.
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Vá para Marketo. Localize seus detalhes [de configuração **da**](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) API Marketing Insight Sales Insight.
+1. Vá para Marketo. Localize seu [Marketing to Sales Insight **Configuração da API** detalhes](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
@@ -76,7 +76,7 @@ Quando você terminar de personalizar sua organização Salesforce, veja como re
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Clique em Informações **** pessoais em **Minhas informações** pessoais.
+1. Clique em **Informações Pessoais** em **Minhas Informações Pessoais**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
