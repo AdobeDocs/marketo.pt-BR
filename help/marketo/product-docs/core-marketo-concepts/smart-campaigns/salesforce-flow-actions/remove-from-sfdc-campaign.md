@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Visão geral {#overview}
 
-Assim como você pode [Adicionar à](add-to-sfdc-campaign.md)campanha SFDC e [alterar o status na Campanha](change-status-in-sfdc-campaign.md)SFDC, também é possível remover pessoas ou clientes potenciais de uma campanha Salesforce.
+Assim como você pode [Adicionar à Campanha SFDC](add-to-sfdc-campaign.md)e [Alterar status na Campanha SFDC](change-status-in-sfdc-campaign.md), também é possível remover pessoas ou clientes potenciais de uma campanha Salesforce.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
