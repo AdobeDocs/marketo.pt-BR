@@ -16,7 +16,7 @@ ht-degree: 0%
 
 As pastas de campanha ajudam você a manter um espaço de trabalho arrumado. Siga estes passos simples e você está a caminho da magia da automação.
 
-1. Clique com o botão direito do mouse no globo da área de trabalho ou em uma pasta existente e selecione **[!UICONTROL Nova pasta]** de campanha.
+1. Clique com o botão direito do mouse no globo da área de trabalho ou em uma pasta existente e selecione **[!UICONTROL Nova pasta de campanha]**.
 
    ![Imagem Um](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-1.png)
 
