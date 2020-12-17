@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Usando personas {#using-personas}
+# Uso de Personas {#using-personas}
 
 As pessoas são uma excelente maneira de segmentar sua audiência e mercado do ABM para um subconjunto específico de pessoas.
 
-## Adicionar uma pessoa {#add-a-persona}
+## Adicionar uma Pessoa {#add-a-persona}
 
 1. Em Meu Marketo, clique em **Admin**.
 
@@ -33,11 +33,11 @@ As pessoas são uma excelente maneira de segmentar sua audiência e mercado do A
    >
    >A persona Cargo é incluída por padrão. Não pode ser modificada ou excluída.
 
-1. Para adicionar outras pessoas, clique em **+Adicionar**.
+1. Para adicionar outras personas, clique em **+Adicionar**.
 
    ![](assets/four.png)
 
-1. Dê um nome à sua pessoa e selecione o campo correspondente no menu suspenso. Você pode adicionar até duas personas adicionais. Clique em **Salvar** quando concluído.
+1. Dê um nome à sua pessoa e selecione o campo correspondente no menu suspenso. Você pode adicionar até duas personas adicionais. Clique em **Salvar** quando terminar.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ Visualização de suas pessoas visitando uma conta nomeada específica.
 
    ![](assets/one-a.png)
 
-1. Clique na guia **Personas** .
+1. Clique na guia **Personas**.
 
    ![](assets/two-a.png)
 
