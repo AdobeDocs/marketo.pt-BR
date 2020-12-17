@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notas de versão: Junho de 2013 {#release-notes-june}
 
-Os seguintes recursos estão incluídos na versão de junho. Verifique a disponibilidade de recursos do [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Os seguintes recursos estão incluídos na versão de junho. Verifique sua [Edição de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
 
 Após o lançamento, verifique a guia [Nova versão](release-notes-december-2013.md) na Comunidade para obter artigos detalhados da Base de conhecimento para cada recurso!
 
@@ -23,7 +23,7 @@ Visualização a interface de gerenciamento líder do mercado em seu idioma pref
 
 ![](assets/image2014-9-22-16-3a25-3a54.png)
 
-## Interface do usuário do Cobalt {#cobalt-user-interface}
+## Interface de usuário cobalta {#cobalt-user-interface}
 
 Durante os próximos meses, será detectado um novo tema que será lançado em diferentes partes do pedido; afetando janelas modais, por exemplo.
 
