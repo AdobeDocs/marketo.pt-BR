@@ -20,7 +20,7 @@ Você pode desativar um programa de envolvimento com o movimento de um interrupt
 
    ![Imagem Um](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. Clique na guia **[!UICONTROL Configuração]** .
+1. Clique na guia **[!UICONTROL Configuração]**.
 
    ![Imagem dois](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ Você pode desativar um programa de envolvimento com o movimento de um interrupt
    >
    >Por padrão, os programas de envolvimento ficam ATIVADOS, a menos que você ultrapasse o limite de subscrição.
 
-1. Há um botão de [!UICONTROL Programa] à direita. Selecione **[!UICONTROL Ligado]** ou **[!UICONTROL Desligado]**.
+1. Há um botão [!UICONTROL Programa] à direita. Selecione **[!UICONTROL On]** ou **[!UICONTROL Off]**.
 
    ![Imagem Três](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
