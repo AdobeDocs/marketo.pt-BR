@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notas de versão: Maio de 2013 {#release-notes-may}
 
-Os seguintes recursos foram incluídos na versão de maio. Verifique sua [Marketing](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php) para ver a disponibilidade de recursos.
+Os seguintes recursos foram incluídos na versão de maio. Verifique sua [Marketing](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
 
 Após o lançamento, verifique a guia [Nova versão](release-notes-december-2013.md) na Comunidade para obter artigos detalhados da Base de conhecimento para cada recurso!
 
@@ -23,7 +23,7 @@ Crie um arquivo de calendário como Meu token que pode ser adicionado à sua lan
 
 ![](assets/image2014-9-22-16-3a3-3a18.png)
 
-## Guia Associação de Modelo {#model-membership-tab}
+## Guia Associação do Modelo {#model-membership-tab}
 
 Visualização todos os dados do membro do modelo em um local para monitorar e solucionar problemas com facilidade. A nova guia Membros é uma visualização somente leitura disponível quando você seleciona um Modelo de Ciclo de Receita aprovado.
 
@@ -35,7 +35,7 @@ Encontre ações de fluxo mais rapidamente com a árvore de ação de fluxo rec�
 
 ![](assets/image2014-9-22-16-3a3-3a58.png)
 
-## Ações de fluxo renomeadas {#renamed-flow-actions}
+## Ações de Fluxo Renomeadas {#renamed-flow-actions}
 
 Alterar status de progressão agora é Alterar status do Programa. Alterar dados do Programa agora é Alterar sucesso do Programa
 
