@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Reordenar as etapas de fluxo em uma Campanha inteligente {#reorder-the-flow-steps-in-a-smart-campaign}
+# Reordene as etapas de fluxo em uma Campanha inteligente {#reorder-the-flow-steps-in-a-smart-campaign}
 
 As etapas de fluxo são executadas de cima para baixo. Veja como reorganizar os passos de fluxo para atender às suas necessidades.
 
