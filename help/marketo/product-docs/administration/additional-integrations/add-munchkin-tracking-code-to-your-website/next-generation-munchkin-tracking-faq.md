@@ -46,7 +46,7 @@ Se você já estiver usando esse filtro em uma Lista inteligente (por exemplo, e
 >**Exemplo**
 >
 >**Acionador**: Visitas à Página da Web, Página da Web é Página de Preços\
->**Fluxo**: Mude a pontuação +10 e o momento interessante, **Web**: Página de Preços Exibida
+>**Fluxo**: Mude a pontuação +10 e o momento interessante,  **Web**: Página de Preços Exibida
 >
 >Com Munchkin V2, se uma pessoa anônima visitar a página de preços, ela não entra na campanha imediatamente. Quando a pessoa anônima se tornar conhecida, nós vamos colocar essa campanha nela. Ela irá:
 >
@@ -98,4 +98,4 @@ Confira estes links:
 
 ## Tenho mais perguntas! Como obtenho respostas? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Por favor, entre em contato com a [comunidade](https://nation.marketo.com/welcome). Você também pode enviar um e-mail para [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) Eles ficarão felizes em responder suas perguntas.
+Entre em contato com a [comunidade](https://nation.marketo.com/welcome). Você também pode enviar um email para [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) Eles terão todo o prazer em responder suas perguntas.
