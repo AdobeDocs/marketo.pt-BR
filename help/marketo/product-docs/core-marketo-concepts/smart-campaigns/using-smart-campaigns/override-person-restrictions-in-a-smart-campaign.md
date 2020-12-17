@@ -17,9 +17,9 @@ Marketo permite definir o número máximo* *de pessoas que podem se qualificar p
 
 >[!PREREQUISITES]
 >
->Certifique-se de [ativar as restrições de pessoas para campanhas](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) inteligentes no Administrador de marketing.
+>Certifique-se de [ativar restrições de pessoa para campanhas inteligentes](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) no Administrador de marketing.
 
-1. Nas Atividades de marketing, vá para sua** **campanha inteligente e clique em **Agendar**.
+1. Nas Atividades de marketing, vá para sua** **campanha inteligente e clique em **Agendamento**.
 
    ![](assets/one.png)
 
