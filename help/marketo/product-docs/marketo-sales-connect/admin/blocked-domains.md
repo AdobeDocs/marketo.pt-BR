@@ -27,11 +27,11 @@ Ajude a sua equipe de vendas a obter sucesso, impedindo-a de enviar concorrentes
 
    ![](assets/two-3.png)
 
-1. Insira o domínio que deseja bloquear e clique em **Bloquear domínio**.
+1. Insira o domínio que deseja bloquear e clique em **Bloquear Domínio**.
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >Os emails que fazem parte de um envio de email [do](http://docs.marketo.com/x/KAQ6Ag) grupo que falhar devido ao envio para um domínio de email bloqueado falharão silenciosamente e não aparecerão na pasta de email com falha.
+   >Os emails que fazem parte de um envio [Email do Grupo](http://docs.marketo.com/x/KAQ6Ag) que falhar devido ao envio para um domínio de email bloqueado falharão silenciosamente e não aparecerão na pasta de email que falhou.
 
