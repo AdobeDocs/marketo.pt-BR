@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Notas de versão: Dezembro de 2012 {#release-notes-december}
 
-A versão de dezembro inclui o muito esperado recurso **Encaminhar para o Amigo** , bem como vários outros bens! Observe que os recursos marcados com um asterisco (*) estão disponíveis somente na edição Select e na RCA (Revenue Cycle Analytics).
+A versão de dezembro inclui o muito esperado recurso **Encaminhar para o amigo**, bem como vários outros bens! Observe que os recursos marcados com um asterisco (*) estão disponíveis somente na edição Select e na RCA (Revenue Cycle Analytics).
 
-## Encaminhar para Amigo {#forward-to-friend}
+## Encaminhar para o amigo {#forward-to-friend}
 
-Ative o compartilhamento de conteúdo com outras pessoas, incluindo um link **Encaminhar para o amigo** em seus emails. A adição de novos filtros e acionadores o ajudará a identificar seus influenciadores, identificando os usuários que encaminharam um email, bem como aqueles que receberam os emails encaminhados.
+Ative o compartilhamento de conteúdo com outras pessoas incluindo um link **Encaminhar para o amigo** em seus emails. A adição de novos filtros e acionadores o ajudará a identificar seus influenciadores, identificando os usuários que encaminharam um email, bem como aqueles que receberam os emails encaminhados.
 
-Para incluir um convite de **Encaminhamento para Amigo** em seu email, abra-o no editor e insira o `{{system.forwardToFriendLink}}` token.
+Para incluir um convite **Encaminhar para o Amigo** no seu email, abra-o no editor e insira o token `{{system.forwardToFriendLink}}`.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Use os acionadores e filtros correspondentes para identificar os usuários que usaram o link **Encaminhar para o amigo** e aqueles que receberam o email.
+Use os acionadores e filtros correspondentes para identificar os usuários que usaram o link **Encaminhar para o amigo** e os que receberam o email.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -47,13 +47,13 @@ O adaptador Marketo BrightTALK permite capturar informações de presença de um
 
 O Sales Insight está disponível para clientes do Microsoft Dynamics!
 
-## Sincronização de Oportunidade Dinâmica {#dynamics-opportunity-sync}
+## Dynamics Opportunity Sync {#dynamics-opportunity-sync}
 
 Sincronizar dados de oportunidade entre o Marketing e o Microsoft Dynamics.
 
-## Relatório de Oportunidades Influenciadas de Marketing* {#marketing-influenced-opportunities-report}
+## Relatório de oportunidades influenciadas por marketing* {#marketing-influenced-opportunities-report}
 
-Visualização qual porcentagem do pipeline e da receita da sua empresa foi influenciada pelos programas de marketing. No **Revenue Explorer**, agora você pode criar relatórios personalizados com o novo ponto amarelo &quot;Oportunidade Influenciada de Marketing&quot; na Análise Oportunity. Você também pode usar os dois relatórios a seguir na pasta Padrão:
+Visualização qual porcentagem do pipeline e da receita da sua empresa foi influenciada pelos programas de marketing. Em **Explorador de Receita**, agora você pode criar relatórios personalizados com o novo ponto amarelo &quot;Oportunidade Influenciada de Marketing&quot; na Análise Oportunidade. Você também pode usar os dois relatórios a seguir na pasta Padrão:
 
 * Influência de marketing nas oportunidades criadas
 * Influência de marketing em oportunidades vencidas
@@ -66,11 +66,11 @@ Adicione campos de oportunidade personalizados para aprimorar seus relatórios d
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
-## Inspetor de campanha {#campaign-inspector}
+## Inspetor de campanhas {#campaign-inspector}
 
 Você já se perguntou quais campanhas estão usando uma ação de fluxo específica, como Alterar pontuação ou Solicitar Campanha? Ou onde um determinado filtro está sendo usado? O novo Inspetor de Campanhas (disponível no Treasure Chest) permite identificar essas campanhas, assim como campanhas e campanhas ativas com erros.
 
-Acesse **Admin** > **Treasure Chest** para ativar o Inspetor de Campanhas***.
+Vá para **Admin** > **Treasure Chest** para ativar o Inspetor de Campanhas***.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
 
