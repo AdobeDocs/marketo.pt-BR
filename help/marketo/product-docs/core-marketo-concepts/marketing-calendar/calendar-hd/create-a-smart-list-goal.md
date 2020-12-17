@@ -15,9 +15,9 @@ ht-degree: 0%
 
 As metas são maneiras de rastrear o progresso e motivar sua equipe. Eles podem ser combinados com listas inteligentes para rastrear todo o tipo de coisas no Marketo. Além disso, depois de configurar uma meta de lista inteligente, ela será atualizada automaticamente a cada 2 horas quando for usada em uma apresentação.
 
-Como as apresentações, as metas são específicas do [espaço de trabalho](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Como as apresentações, os objetivos são [espaço de trabalho](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) específicos.
 
-1. Vá para o **Calendário**.
+1. Vá para **Calendar**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -29,15 +29,15 @@ Como as apresentações, as metas são específicas do [espaço de trabalho](../
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Arraste e solte a Meta **de Lista** inteligente na tela.
+1. Arraste e solte **Objetivo de Lista inteligente** na tela de desenho.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Insira um nome para a meta e um Público alvo **** Meta. Em seguida, clique em **Criar**.
+1. Insira um nome para a meta e um **Público alvo da meta**. Em seguida, clique em **Criar**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [Defina a lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)inteligente. As possibilidades são infinitas!
+1. [Defina a lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) inteligente. As possibilidades são infinitas!
 
    ![](assets/mql.png)
 
