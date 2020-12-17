@@ -15,19 +15,19 @@ ht-degree: 0%
 
 É possível combinar valores de vários campos ou criar um valor condicional usando um campo Fórmula de marketing.
 
-1. Vá para **Admin** e clique em Gerenciamento **** de campo.
+1. Vá para **Admin** e clique em **Gerenciamento de campo**.
 
    ![](assets/image2014-9-19-9-3a44-3a58.png)
 
-1. Clique em **Novo campo** personalizado.
+1. Clique em **Novo campo personalizado**.
 
    ![](assets/image2014-9-19-9-3a45-3a8.png)
 
-1. Selecione **Fórmula** para o **Tipo**.
+1. Selecione **Fórmula** para **Tipo**.
 
    ![](assets/image2014-9-19-9-3a45-3a17.png)
 
-1. Digite um **Nome** para o seu campo e clique em **Criar**.
+1. Digite um **Nome** para seu campo e clique em **Criar**.
 
    ![](assets/image2014-9-19-9-3a46-3a0.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Saiba mais sobre [tokens para etapas](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)de fluxo.
+   Saiba mais sobre [tokens para etapas de fluxo](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Agora você pode adicionar o campo de fórmula como um token em um email.
 
