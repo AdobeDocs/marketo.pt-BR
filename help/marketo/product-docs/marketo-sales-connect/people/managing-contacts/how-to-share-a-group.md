@@ -15,7 +15,7 @@ ht-degree: 0%
 
 O compartilhamento de um grupo de clientes potenciais ou contatos com sua equipe é muito simples no Sales Connect.
 
-1. Vá para a guia **Pessoas** .
+1. Vá para a guia **Pessoas**.
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ O compartilhamento de um grupo de clientes potenciais ou contatos com sua equipe
 
    ![](assets/two-1.png)
 
-1. Clique no botão** Ações de grupo** e selecione **Compartilhar grupo**.
+1. Clique no botão** Group Actions** e selecione **Compartilhar grupo**.
 
    ![](assets/three-1.png)
 
