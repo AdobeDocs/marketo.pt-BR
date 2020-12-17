@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Desligar uma Campanha {#turn-off-a-campaign}
+# Desativar uma Campanha {#turn-off-a-campaign}
 
 Precisa encerrar automaticamente uma Campanha quando um recipient responder? Veja como.
 
 >[!NOTE]
 >
->Isso só está disponível para clientes que estão integrados ao [Gmail ou ao Exchange](https://toutapp.com/next#settings/email-tracking) e têm o rastreamento de resposta ativado.
+>Isso só está disponível para clientes que estão integrados com [Gmail ou Exchange](https://toutapp.com/next#settings/email-tracking) e têm o rastreamento de respostas ativado.
 
 ## Desativar uma Campanha para uma Pessoa {#turn-off-a-campaign-for-one-person}
 
-Depois de criar sua campanha, vá para a guia **Configurações** e escolha como deseja que a campanha se comporte se alguém responder.
+Depois de criar sua campanha, vá para a guia **Settings** e escolha como deseja que a campanha se comporte se alguém responder.
 
 Ambas as opções terminarão a campanha e o recipient não receberá mais nenhum e-mail seu.
 
