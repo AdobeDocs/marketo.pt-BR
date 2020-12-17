@@ -25,11 +25,11 @@ Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomea
 
    ![](assets/two.png)
 
-1. Clique na pessoa para selecioná-la. Clique no menu suspenso Ações **da** pessoa, clique em **Marketing** e selecione **Adicionar à conta** nomeada.
+1. Clique na pessoa para selecioná-la. Clique no menu suspenso **Ações da pessoa**, clique em **Marketing** e selecione **Adicionar à conta nomeada**.
 
    ![](assets/three.png)
 
-1. Clique no menu suspenso Conta **** nomeada, selecione a Conta nomeada desejada e clique em **Executar agora**.
+1. Clique no menu suspenso **Conta nomeada**, selecione a Conta nomeada desejada e clique em **Executar agora**.
 
    ![](assets/four.png)
 
@@ -47,7 +47,7 @@ Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomea
 
    ![](assets/seven.png)
 
-1. Clique no menu suspenso Conta **** nomeada e selecione a Conta nomeada desejada.
+1. Clique na lista suspensa **Conta nomeada** e selecione a Conta nomeada desejada.
 
    ![](assets/eight.png)
 
@@ -55,15 +55,15 @@ Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomea
 
 ## Importação de lista {#list-import}
 
-1. Selecione sua lista, clique no menu suspenso Ações **de** Lista e selecione **Importar Lista**.
+1. Selecione sua lista, clique no menu suspenso **Ações de Lista** e selecione **Importar Lista**.
 
    ![](assets/nine.png)
 
-1. Depois de escolher o arquivo e as configurações, clique em **Avançar**.
+1. Depois de escolher o arquivo e as configurações, clique em **Próximo**.
 
    ![](assets/ten.png)
 
-1. Mapeie os campos desejados. Verifique se o campo Conta **** nomeada está mapeado.
+1. Mapeie os campos desejados. Verifique se o campo **Conta nomeada** está mapeado.
 
    ![](assets/eleven.png)
 
