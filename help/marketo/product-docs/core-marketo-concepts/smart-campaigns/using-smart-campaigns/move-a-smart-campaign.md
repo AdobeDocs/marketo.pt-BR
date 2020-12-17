@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Mova uma campanha inteligente entre programas ou pastas diferentes usando o recurso de arrastar e soltar ou o recurso de mover na árvore.
 
-## Usar arrastar e soltar {#use-drag-and-drop}
+## Usar Arrastar e Soltar {#use-drag-and-drop}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -39,7 +39,7 @@ Campanhas inteligentes também podem ser movidas usando o recurso de mover na á
 
    ![](assets/rockclimbing2.jpg)
 
-1. Escolha entre mover-se para um **Programa** ou uma **pasta**.
+1. Escolha entre mover para um **Programa** ou para uma **Pasta**.
 
    ![](assets/image2015-2-25-13-3a34-3a20.png)
 
