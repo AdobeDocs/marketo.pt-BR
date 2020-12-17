@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Há muitas maneiras de levar uma pessoa ao Marketo. Se você precisa criar um manualmente, veja como fazê-lo.
 
-1. Vá para o **Banco de Dados**.
+1. Vá para **Banco de Dados**.
 
    ![](assets/db-1.png)
 
-1. Em **Nova** pessoa, clique em **Nova pessoa**.
+1. Em **Nova**, clique em **Nova Pessoa**.
 
    ![](assets/two-2.png)
 
