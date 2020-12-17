@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Saiba como criar um relatório de prioridade/lista de chamada usando os dados de envolvimento de email do ToutApp para focar seu tempo nas pessoas ou oportunidades com dinamismo.
 
-1. Vá para sua conta no aplicativo [da](http://toutapp.com/login)Web. Depois de concluir as etapas abaixo, você terá uma &quot;Lista de chamada prioritária&quot; salva no seu Connect de vendas para priorizar suas contas/clientes potenciais mais quentes, reativar clientes potenciais/contas que escureceram, capturar os frutos mais baixos e diminuir o tempo de conexão entre os toques de sua campanha.
+1. Vá para sua conta no [aplicativo da Web](http://toutapp.com/login). Depois de concluir as etapas abaixo, você terá uma &quot;Lista de chamada prioritária&quot; salva no seu Connect de vendas para priorizar suas contas/clientes potenciais mais quentes, reativar clientes potenciais/contas que escureceram, capturar os frutos mais baixos e diminuir o tempo de conexão entre os toques de sua campanha.
 1. Complete as etapas a seguir.
 
    * Clique em &quot;Opções de Visualização&quot;
