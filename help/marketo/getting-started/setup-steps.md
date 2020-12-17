@@ -26,27 +26,27 @@ Essas etapas incluem:
 
 >[!NOTE]
 >
->Você só precisará fazer essas etapas se sua empresa for **nova no Marketo**. Caso contrário, a configuração pode já estar concluída.
+>Você só precisará fazer essas etapas se sua empresa for **new to Marketo**. Caso contrário, a configuração pode já estar concluída.
 
 Algumas etapas exigem ajuda da sua equipe de TI.
 
 >[!TIP]
 >
->Se você [imprimir essa lista](/help/marketo/getting-started/setup-steps/setup-checklist.md)de verificação, poderá desmarcar os itens ao concluí-los.
+>Se você [imprimir essa lista de verificação](/help/marketo/getting-started/setup-steps/setup-checklist.md), poderá desmarcar os itens ao concluí-los.
 
 1. Fazer logon e criar usuários adicionais do Marketing
 
-1. Faça logon no Marketo [aqui](https://app.marketo.com/) usando as credenciais recebidas por email.
+1. Faça logon no Marketo [here](https://app.marketo.com/) usando as credenciais recebidas por email.
 
    ![](assets/new-login-screen-hand.jpg)
 
 Parabéns! Agora você está no Marketo e pode explorar start. Talvez você queira convidar seus colegas da equipe de marketing a se juntar a você. Você pode fazer isso adicionando novos usuários.
 
-Vá para a área **Admin** .
+Vá para a área **Admin**.
 
 >[!TIP]
 >
->Enquanto estiver aqui, você pode clicar em **Minha conta** para alterar as configurações de sua conta e local, bem como definir um novo nome de subscrição.
+>Enquanto estiver aqui, você pode clicar em **Minha conta** para alterar suas configurações de conta e local, bem como definir um novo nome de subscrição.
 
 ![](assets/admin.png)
 
@@ -70,7 +70,7 @@ Opcionalmente, informe um motivo para o convite e uma data de expiração de ace
 
 ![](assets/image2016-5-24-10-3a13-3a9.png)
 
-Clique em **Avançar**.
+Clique em **Próximo**.
 
 ![](assets/image2016-5-24-10-3a14-3a9.png)
 
@@ -82,13 +82,13 @@ Clique em **Avançar**.
 >
 >Quando a data de expiração chegar, o usuário receberá uma notificação de expiração e a conta será bloqueada.
 
-Selecione uma função e clique em **Avançar**. Usuários padrão têm acesso a todas as áreas, exceto Administrador.
+Selecione uma função e clique em **Próximo**. Usuários padrão têm acesso a todas as áreas, exceto Administrador.
 
 ![](assets/image2016-5-24-10-3a14-3a51.png)
 
 >[!NOTE]
 >
->Além das cinco funções incorporadas, você também pode criar funções personalizadas. Saiba mais sobre como [gerenciar funções e permissões](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)do usuário.
+>Além das cinco funções incorporadas, você também pode criar funções personalizadas. Saiba mais sobre [Gerenciamento de funções e permissões do usuário](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 Sinta-se à vontade para ajustar o texto do convite. Clique em **Enviar**.
 
@@ -100,7 +100,7 @@ O novo usuário agora está listado na guia Usuários e deve receber um email co
 
 1. Configure seus contatos de suporte autorizados
 
-   Você pode ter recebido um e-mail do Suporte de marketing afirmando que é o Administrador de suporte ao cliente de marketing para sua empresa. Em caso afirmativo, você pode configurar contatos **de suporte** autorizados para a sua equipe. Somente contatos de suporte autorizados podem entrar em contato com o Suporte ao cliente do Marketing Cloud diretamente pelo Portal [de suporte do](https://support.marketo.com)Marketingto.
+   Você pode ter recebido um e-mail do Suporte de marketing afirmando que é o Administrador de suporte ao cliente de marketing para sua empresa. Em caso afirmativo, você pode configurar **contatos de suporte autorizados** para sua equipe. Somente contatos de suporte autorizados podem entrar em contato com o Suporte ao cliente do Marketing por meio do [Portal de suporte do Marketing](https://support.marketo.com).
 
    >[!NOTE]
    >
@@ -132,7 +132,7 @@ O novo usuário agora está listado na guia Usuários e deve receber um email co
    >
    >Seja breve! URLs mais curtos são mais fáceis de lembrar. Sugerimos &quot;ir&quot; como domínio.
 
-   A primeira parte (a negrito) é a `[LandingPageCNAME]`. Você precisará dele na Etapa 5.
+   A primeira parte (em negrito) é o `[LandingPageCNAME]`. Você precisará dele na Etapa 5.
 
    Para recuperar a sequência de caracteres da conta que você substituirá por seu CNAME de landing page, vá para a área Admin.
 
@@ -160,7 +160,7 @@ Configure suas configurações de domínio para que o landing page use o domíni
 
    1. **Marque seus links** de rastreamento. Você pode escolher um CNAME para usar seu próprio domínio (em vez de Marketo) nos links que você incluir nos emails do Marketo. Isso reforça a marca de seu domínio e aumenta a confiança e a capacidade de entrega com seus recipient.
    1. **Adicione o Marketing à sua lista de permissões de email corporativo.** É uma prática recomendada comum enviar emails de teste para suas contas de teste antes de enviar emails para pessoas reais. Ao incluir na lista de permissões do Marketo, você pode impedir que os emails de teste sejam bloqueados ou sinalizados como spam.
-   1. **Configure SPF e DKIM.** Essas tecnologias garantem aos seus recipient que seus emails do Marketo não são spam. Para ajudar a impedir que os filtros de spam dos recipient rejeitem seus emails do Marketo, siga estas etapas para [Configurar um SPF e DKIM para sua entregabilidade](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)de email.
+   1. **Configure SPF e DKIM.** Essas tecnologias garantem aos seus recipient que seus emails do Marketo não são spam. Para ajudar a impedir que os filtros de spam dos recipient rejeitem seus emails do Marketo, siga estas etapas para [Configurar um SPF e DKIM para sua capacidade de entrega de email](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
    1. **Configure um registro MX para seu domínio.** Um registro MX permite que você receba emails para o domínio do qual você está enviando emails para processar respostas e respondedores automáticos. Se você estiver enviando de seu domínio corporativo, provavelmente já está configurado. Caso contrário, você pode configurar para mapear para o registro MX do domínio corporativo.
    1. **Configurações recomendadas para o endereço de origem.** Você deve usar um domínio de email válido, existente e em funcionamento no Endereço de origem em todas as campanhas de email. Pode ser útil configurar um subdomínio do seu domínio corporativo em vez de enviar do seu domínio corporativo. Isso garantirá que os problemas do seu fluxo de correio corporativo não afetem o seu fluxo de correio do Marketo e vice-versa. Além disso, o envio de emails de something@nonexistentdomain.com fará com que o email seja filtrado ou bloqueado. Qualquer domínio usado no Endereço de origem do remetente deve ter um postmaster@ válido e funcionando e uma conta de abuso@.
 Se você estiver usando o Google Apps para hospedar seu email corporativo, não será possível criar emails abusivos@ ou postmaster@ sob seu domínio. Para contornar isso, você precisa criar grupos chamados &quot;abuso&quot; e &quot;postmaster&quot;. Os usuários que forem membros desses grupos receberão emails enviados para esses endereços (por exemplo, postmaster@domain.com). Instruções detalhadas para a criação de grupos podem ser encontradas [aqui](https://support.google.com/a/answer/33343#adminconsole).
@@ -177,7 +177,7 @@ Se você estiver usando o Google Apps para hospedar seu email corporativo, não 
    >
    >CNAMEs de email e Landing page devem ser diferentes. Além disso, evite CNAMEs como &quot;track&quot; ou &quot;link&quot;. Geralmente é sinalizado como spam
 
-   Para localizar o link de rastreamento do Marketing to, vá para a área **Admin** .
+   Para localizar o link de rastreamento do Marketing to, vá para a área **Admin**.
 
    ![](assets/admin.png)
 
@@ -191,11 +191,11 @@ Se você estiver usando o Google Apps para hospedar seu email corporativo, não 
 
    ![](assets/email-tracking-link-hand.jpg)
 
-   Este é o seu `[MktoTrackingLink]`. Salve-o. Você precisará dá-lo à TI na Etapa 5.
+   Este é seu `[MktoTrackingLink]`. Salve-o. Você precisará dá-lo à TI na Etapa 5.
 
    Colete domínios &quot;De&quot;. Faça uma lista de todos os domínios &quot;De&quot; (como em, `[Sender]@[FromDomain].com`) que você planeja usar para enviar emails do Marketo. Para a maioria, há apenas um.
 
-   Por exemplo, &#39;marketo.com&#39;, &#39;info.marketo.com,&#39;. Estes são `[FromDomain1]`,`[FromDomain2]`etc. Salve-os. Você precisará fornecê-los à TI na Etapa 5.
+   Por exemplo, &#39;marketo.com&#39;, &#39;info.marketo.com,&#39;. Estes são `[FromDomain1]`,`[FromDomain2]`, etc. Salve-os. Você precisará fornecê-los à TI na Etapa 5.
 
    Agora você tem todas as informações necessárias para enviar sua solicitação à TI!
 
@@ -213,7 +213,7 @@ Se você estiver usando o Google Apps para hospedar seu email corporativo, não 
 
    >[!NOTE]
    >
-   >Consulte as Etapas 3 e 4 acima para determinar o texto para substituir os espaços reservados. Lembre-se disso `[LandingPageCNAME]` e `[EmailTrackingCNAME]` deve ser diferente.
+   >Consulte as Etapas 3 e 4 acima para determinar o texto para substituir os espaços reservados. Lembre-se de que `[LandingPageCNAME]` e `[EmailTrackingCNAME]` devem ser diferentes.
 
 `---------------------------------------------`
 
@@ -221,9 +221,9 @@ Prezado administrador de TI,
 
 Nossa equipe de marketing agora está usando a plataforma de marketing para se comunicar com nosso pessoal. Para garantir excelente entrega por email, precisamos fazer as seguintes alterações:
 
-`1)` Para nossas landings page, adicione uma entrada DNS (CNAME) para **[LandingPageCNAME]**.**[CompanyDomain]**.com, apontando para **[AccountString]**.mktoweb.com.
+`1)` Para nossas landings page, adicione uma entrada DNS (CNAME) para  **[LandingPageCNAME]**.**[CompanyDomain]**.com, apontando para  **[AccountString]**.mktoweb.com.
 
-`2)` Para nossos links de rastreamento no email, adicione uma entrada DNS (CNAME) para **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, apontando para **[MktoTrackingLink]**.
+`2)` Para nossos links de rastreamento no email, adicione uma entrada DNS (CNAME) para  **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, apontando para  **[MktoTrackingLink]**.
 
 `3)` lista de permissões Marketo.
 
@@ -255,23 +255,24 @@ NOTA: Entre em contato com o suporte de marketing se desejar uma lista abreviada
 
 `a.` Para configurar o SPF, adicione a seguinte linha às nossas entradas DNS:
 
-NO TXT **[Do Domínio]**:  v=spf1 mx ip4:IP(s)**[corporativo(s)]**<br/>incluem: mktomail.com ~all
+IN TXT **[Do Domínio]**:  v=spf1 mx ip4:**[IP(s) corporativo(s)]**
+<br/>incluir: mktomail.com ~all
 
 Se já tivermos um registro SPF existente em nossa entrada DNS, basta adicionar o seguinte:
 
 include:mktomail.com
 
-`[`Substituir **do domínio** pelo seu email do domínio (ex: empresa.com) e **CorpIP** com o endereço IP do seu servidor de e-mail corporativo (por exemplo: 255.255.255.255).  Se você for enviar emails de vários domínios por meio do Marketo, sua equipe de TI deverá adicionar esta linha para cada domínio (em uma linha).`]`
+`[`Substitua  **do** domínio por seu email do domínio (por exemplo: empresa.com) e  **** CorpIP com o endereço IP do seu servidor de e-mail corporativo (por exemplo: 255.255.255.255).  Se você vai enviar emails de vários domínios por meio do Marketo, é necessário que sua equipe de TI adicione essa linha para cada domínio (em uma linha).`]`
 
 `b.` Para o DKIM, crie Registros de recursos de DNS para cada domínio que gostaríamos de configurar. Abaixo estão os Registros do host e os Valores TXT para cada domínio que assinaremos:
 
-**`[DKIMDomain1]`**: O Registro do host é **`[HostRecord1]`** e o Valor TXT é **[TXTValue1]**.
+**`[DKIMDomain1]`**: O Registro do host é  **`[HostRecord1]`** e o Valor TXT é  **[TXTValue1]**.
 
-**`[DKIMDomain2]`**: O Registro de host é **`[HostRecord2]`** e o Valor TXT é **`[TXTValue2]`**.
+**`[DKIMDomain2]`**: O Registro do host é  **`[HostRecord2]`** e o Valor TXT é  **`[TXTValue2]`**.
 
-`[`Copie o **HostRecord** e o **TXTValue** para cada **DKIMDomain** que você configurou depois de seguir as [instruções aqui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Não se esqueça de verificar cada domínio em **Admin > Email > DKIM** depois que sua equipe de TI concluir esta etapa.`]`
+`[`Copie o  **** HostRecordand  **** TXTValuepara cada  **** DKIMDomaindi que você configurou depois de seguir as  [instruções aqui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Não se esqueça de verificar cada domínio em **Admin > Email > DKIM** depois que sua equipe de TI concluir esta etapa.`]`
 
-`5)` Precisamos garantir que haja um registro MX válido para nossos domínios FROM **[FromDomain1]**, **[FromDomain2]** etc. Você pode confirmar? Caso contrário, configure para mapear para nosso registro MX de domínio corporativo. Isso garantirá que possamos processar respostas/autorrespondedores para nossas correspondências do Marketing.
+`5)` Precisamos garantir que haja um registro MX válido para nossos domínios FROM  **[FromDomain1]**,  **[FromDomain2]** etc. Você pode confirmar? Caso contrário, configure para mapear para nosso registro MX de domínio corporativo. Isso garantirá que possamos processar respostas/autorrespondedores para nossas correspondências do Marketing.
 
 Avise-me quando você tiver concluído essas etapas, para que eu possa concluir o processo de configuração com o Marketo.
 
@@ -329,7 +330,7 @@ Envie o email para TI. Entendemos que pode levar algum tempo para que a TI concl
    >
    >Esses modelos personalizados estão disponíveis somente para clientes do Launch Pack.
 
-   Vá para o design do modelo de [marketing e para o formulário de criação](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html) . Preencha suas informações de empresa.
+   Vá para o [Design de modelo de marketing e para o formulário Build](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Preencha suas informações de empresa.
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 
