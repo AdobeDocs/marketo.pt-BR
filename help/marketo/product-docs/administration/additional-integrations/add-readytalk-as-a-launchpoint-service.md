@@ -29,19 +29,19 @@ O Marketo gerencia sua inscrição e participação no webinário ReadyTalk.
 
    ![](assets/image2015-4-23-10-3a50-3a23.png)
 
-1. Selecione **Novo** e **Novo** **serviço**.
+1. Selecione **Novo** e **Novo** **Serviço**.
 
    ![](assets/readytalk-new-service.png)
 
-1. Insira um **Nome para exibição** ****. Em **Serviço**, selecione** ReadyTalk**.
+1. Digite um **Display** **Name**. Em **Service**, selecione** ReadyTalk**.
 
    ![](assets/new-service-readytalk.png)
 
-1. Insira o número **de** acesso e o **código** de **acesso**.
+1. Digite seu **Número de Acesso** e **Acesso** **Código**.
 
    ![](assets/image2015-4-24-18-3a53-3a2.png)
 
-1. Conclua o processo digitando seu **Senha** e clique em **Criar**.
+1. Conclua o processo digitando **Senha** e clique em **Criar**.
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 
@@ -51,5 +51,5 @@ O Marketo gerencia sua inscrição e participação no webinário ReadyTalk.
 
 >[!MORELIKETHIS]
 >
->Saiba como [criar um evento com o ReadyTalk](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
+>Saiba como [criar um evento com ReadyTalk](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
 
