@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Estas são as noções básicas para ajudá-lo a navegar pela visualização do cronograma do programa.
 
-## Localizar a Visualização Agendar {#find-the-schedule-view}
+## Localizar a Visualização Agendamento {#find-the-schedule-view}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu programa. Clique no menu suspenso **Visualização** . Selecione **Agendamento**.
+1. Selecione seu programa. Clique no menu suspenso **Visualização**. Selecione **Agendamento**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -49,7 +49,7 @@ Estas são as noções básicas para ajudá-lo a navegar pela visualização do 
 
 ## Alteração entre modos {#changing-between-modes}
 
-1. Clicar em **3 semanas** ou **mês** alterará as datas visíveis na sua exibição.
+1. Clicar em **3 Semanas** ou **Mês** alterará as datas visíveis na sua exibição.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
