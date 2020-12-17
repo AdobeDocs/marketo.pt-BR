@@ -21,11 +21,11 @@ Siga as etapas abaixo para visualização do envolvimento do modelo.
 
    Abaixo, sua visualização é dividida em três seções:
 
-   **Arma** secreta - Um modelo `not yet shared` em toda a equipe que está recebendo muitos envolvimentos
+   **Arma**  secreta - Um modelo  `not yet shared` em toda a equipe que está recebendo muitos envolvimentos
 
-   **Envolvimento** mais alto - um modelo `already shared` em toda a equipe que está matando-o no envolvimento
+   **Envolvimento**  mais alto - um modelo  `already shared` em toda a equipe que está matando-o no envolvimento
 
-   **Participação** mais baixa - um modelo que precisa ser redimensionado para sua taxa de envolvimento (este modelo `can either be shared or unshared` em toda a equipe)
+   **Participação**  mais baixa - um modelo que precisa ser redimensionado para sua taxa de envolvimento (este modelo  `can either be shared or unshared` em toda a equipe)
 
    A partir daí, role para baixo e veja todos os modelos criados em sua equipe com base nas taxas de visualização dentro daquele intervalo de datas selecionado. Em um nível de modelo individual você pode ver: quem o criou, seja compartilhado ou não, número de emails usados com ele e dados de rastreamento (visualizações, cliques, respostas).
 
