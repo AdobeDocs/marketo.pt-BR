@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Definir campos de pontuação a serem usados para estrelas e chamas no insight de vendas {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# Definir campos de pontuação a serem usados para estrelas e chamas no Sales Insight {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-Por padrão, o Marketing Cloud Sales Insight usa o campo Pontuação **de** venda para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
+Por padrão, o Marketing Cloud Sales Insight usa o campo **Pontuação principal** para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
 
 >[!TIP]
 >
->Se você ainda não tiver seus campos de pontuação personalizados, veja como [](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)criá-los.
+>Se você ainda não tiver seus campos de pontuação personalizados, veja como [criar](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)os.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ Por padrão, o Marketing Cloud Sales Insight usa o campo Pontuação **de** vend
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Em Configurações **de pontuação de** cliente potencial, clique em **Editar**.
+1. Em **Definições de Pontuação de Chumbo**, clique em **Editar**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
@@ -46,7 +46,7 @@ Por padrão, o Marketing Cloud Sales Insight usa o campo Pontuação **de** vend
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Selecione o campo que deseja usar para as **chamas**.
+1. Selecione o campo que deseja usar para **Chamadas**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
