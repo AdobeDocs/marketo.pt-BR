@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ferramenta de entrega por email {#email-deliverability-tool}
+# Ferramenta de entrega de email {#email-deliverability-tool}
 
 A Ferramenta de entrega de email da Marketo fornece um único aplicativo para avaliar a capacidade de entrega de um email antes de enviá-lo.
 
@@ -27,5 +27,5 @@ Para obter mais informações sobre esse recurso, consulte o [Email Deliverabili
 >
 >**Mergulho profundo**
 >
->Para obter instruções específicas, consulte o Guia [do](https://250ok.com/guides/marketo/)usuário para entrega no mercado.
+>Para obter instruções específicas, consulte o Guia do Usuário [do Marketing Deliverability ](https://250ok.com/guides/marketo/).
 
