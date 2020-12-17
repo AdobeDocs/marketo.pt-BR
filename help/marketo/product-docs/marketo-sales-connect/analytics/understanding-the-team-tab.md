@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Na guia Grupo, destacamos três métricas importantes.
 
-## Emails enviados com modelo {#emails-sent-with-template}
+## Emails enviados com o modelo {#emails-sent-with-template}
 
 Dos emails que foram enviados, quantos deles utilizaram um modelo.
 
@@ -23,7 +23,7 @@ Dos emails que foram enviados, quantos deles utilizaram um modelo.
 
 No quadro, aumentamos o tempo de pico de envolvimento, que indica a hora do dia em que sua equipe está obtendo mais atividade (visualizações, cliques, respostas). Sua equipe pode agendar emails ou planejar enviar emails estrategicamente por essa vez.
 
-## Negociações encerradas {#deals-closed}
+## Negociações fechadas {#deals-closed}
 
 Isso se baseia no ciclo de vendas e em quantos negócios foram fechados dentro do mês atual.
 
