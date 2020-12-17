@@ -27,15 +27,15 @@ A filtragem é uma excelente maneira de restringir rapidamente os dados.
    >
    >Há várias combinações de parâmetros de pesquisa. Neste exemplo, localizamos: *Indústria = Bancária, País = Estados Unidos, Máximo de Funcionários = 10000*.
 
-1. Clique na lista suspensa **Indústria** e selecione **Bancária**.
+1. Clique no menu suspenso **Industry** e selecione **Banking**.
 
    ![](assets/filter-2.png)
 
-1. Clique na lista suspensa **País** e selecione Estados **Unidos**.
+1. Clique na lista suspensa **País** e selecione **Estados Unidos**.
 
    ![](assets/filter-3.png)
 
-1. Em **Funcionários**, digite &quot;0&quot; no campo **Mín** , &quot;10000&quot; no campo **Máx** e clique em **Aplicar**.
+1. Em **Funcionários**, digite &quot;0&quot; no campo **Min**, &quot;10000&quot; no campo **Max**, em seguida, clique em **Aplicar**.
 
    ![](assets/four-2.png)
 
