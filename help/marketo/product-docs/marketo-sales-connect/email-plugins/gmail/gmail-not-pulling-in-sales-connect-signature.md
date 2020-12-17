@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # O Gmail Não Está Sendo Publicado Na Assinatura Do Sales Connect {#gmail-not-pulling-in-sales-connect-signature}
 
-Na verdade, usamos sua assinatura do Gmail no Gmail, em vez de inserir sua assinatura [do](http://toutapp.com/next#settings)Sales Connect.
+Na verdade, usamos sua assinatura do Gmail no Gmail, em vez de inserir sua [assinatura do Sales Connect](http://toutapp.com/next#settings).
 
-Você pode editar sua assinatura no Gmail [aqui](http://mail.google.com/mail/u/0/#settings/general).
+Você pode editar sua assinatura no Gmail [here](http://mail.google.com/mail/u/0/#settings/general).
