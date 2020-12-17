@@ -23,7 +23,7 @@ Envie e rastreie qualquer email do Google com o Marketing Insights para o Google
 
 
 
-## Enviar um email com insights de marketing {#send-an-email-with-marketo-insights}
+## Enviar um email com os insights do Marketing {#send-an-email-with-marketo-insights}
 
 1. Na janela Compor, clique no ícone Marketo.
 
@@ -45,7 +45,7 @@ Envie e rastreie qualquer email do Google com o Marketing Insights para o Google
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Selecione um modelo **** disponível e clique em **Ok.**
+1. Selecione um **Modelo disponível** e clique em **Ok.**
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -55,17 +55,17 @@ Envie e rastreie qualquer email do Google com o Marketing Insights para o Google
 
    >[!NOTE]
    >
-   >As mensagens são rastreadas somente quando o botão **Enviar** está roxo.
+   >As mensagens são rastreadas somente quando o botão **Send** é violeta.
 
 1. O e-mail será exibido em breve em seu Marketing to Sales Insight, e todas as aberturas e cliques serão rastreados.
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
-## Registrar respostas de e-mail com o Marketo {#log-email-replies-with-marketo}
+## Registrar respostas de e-mail com Marketo {#log-email-replies-with-marketo}
 
 Você pode registrar respostas e atividades antigas no histórico de atividades de uma oportunidade potencial.
 
-1. No painel de pré-visualização do Google Mail, clique em **Registrar com Marketing**.
+1. No painel de pré-visualização do Google Mail, clique em **Registrar com Marketo**.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
