@@ -20,7 +20,7 @@ Veja como configurar um token de Campanha do CRM para uso em suas pastas de prog
 >
 >CAMPANHA CRM Meus tokens estão disponíveis somente para integrações Salesforce.
 
-1. Na guia Meus tokens do seu programa ou pasta, arraste um token de Campanha **[!UICONTROL do]** CRM para a tela Tokens locais.
+1. Na guia Meus tokens do seu programa ou pasta, arraste um token **[!UICONTROL Campanha do CRM]** para a tela Tokens locais.
 
    ![Imagem Um](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
