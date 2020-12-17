@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Criar um token de script de email {#create-an-email-script-token}
 
-Para desenvolvedores avançados, você pode usar scripts [](http://velocity.apache.org/engine/1.7/user-guide.html) Velocity em seus emails. Aqui está como fazer isso.
+Para desenvolvedores avançados, você pode usar [scripts Velocity](http://velocity.apache.org/engine/1.7/user-guide.html) em seus emails. Aqui está como fazer isso.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -23,7 +23,7 @@ Para desenvolvedores avançados, você pode usar scripts [](http://velocity.apac
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Na guia **Meus tokens** , arraste um token de script **de** email.
+1. Na guia **Meus tokens**, arraste um token **Script de e-mail**.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
@@ -31,7 +31,7 @@ Para desenvolvedores avançados, você pode usar scripts [](http://velocity.apac
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Use a árvore à direita para arrastar os tokens **Pessoa, Oportunidade** ou Objeto **** personalizado.
+1. Use a árvore à direita para arrastar os tokens **Pessoa, Oportunidade** ou **Objeto Personalizado**.
 
    ![](assets/five-2.png)
 
@@ -57,7 +57,7 @@ Para desenvolvedores avançados, você pode usar scripts [](http://velocity.apac
    * [Guia de referência de velocidade](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Quando o script for concluído, clique em **Salvar**.
+1. Depois que o script for concluído, clique em **Salvar**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
