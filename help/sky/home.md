@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![banner](/help/sky/assets/images/alt-sky-banner.png)
 
-A [!DNL Marketo Sky] interface utiliza novos designs, workflows e recursos para ajudá-lo a aproveitar ao máximo [!DNL Marketo].
+A interface [!DNL Marketo Sky] utiliza novos designs, workflows e recursos para ajudá-lo a aproveitar ao máximo [!DNL Marketo].
 
 ## Introdução
 
