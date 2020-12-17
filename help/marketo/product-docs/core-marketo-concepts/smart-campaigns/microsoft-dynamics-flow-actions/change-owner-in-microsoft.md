@@ -17,7 +17,7 @@ Se você tiver pessoas já atribuídas a um proprietário, poderá usar essa eta
 
 >[!NOTE]
 >
->Essa etapa de fluxo **só funcionará quando usada com acionadores**, não filtros, em sua campanha inteligente.
+>Esta etapa de fluxo **só funcionará quando for usada com acionadores**, não filtros, na sua campanha inteligente.
 
 ![](assets/one-1.png)
 
