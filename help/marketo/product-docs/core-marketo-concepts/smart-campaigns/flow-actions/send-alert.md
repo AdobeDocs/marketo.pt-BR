@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Visão geral {#overview}
 
-O Marketo pode enviar um alerta por e-mail com informações pessoais para qualquer pessoa - o proprietário da venda, um parceiro ou outra pessoa. Use a etapa de fluxo **Enviar alerta** .
+O Marketo pode enviar um alerta por e-mail com informações pessoais para qualquer pessoa - o proprietário da venda, um parceiro ou outra pessoa. Use a etapa de fluxo **Enviar alerta**.
 
 ![](assets/one-1.png)
 
@@ -29,7 +29,7 @@ O Marketo pode enviar um alerta por e-mail com informações pessoais para qualq
    >
    >**Lembrete**
    >
-   >Seu alerta de email deve conter todas as informações do cabeçalho e estar no estado **Aprovado** .
+   >Seu alerta de email deve conter todas as informações do cabeçalho e estar no estado **Aprovado**.
 
 1. Você pode clicar no ícone pré-visualização para garantir que selecionou o email correto.
 
@@ -39,7 +39,7 @@ O Marketo pode enviar um alerta por e-mail com informações pessoais para qualq
    >
    >**Lembrete**
    >
-   >Certifique-se de usar o token **Enviar informações** de alerta em seu email.
+   >Certifique-se de usar o token **Enviar informações de alerta** no seu email.
 
 1. Selecione o recipient de alerta. Você pode selecionar Proprietário de Vendas ou Proprietário de Conta.
 
@@ -51,9 +51,9 @@ O Marketo pode enviar um alerta por e-mail com informações pessoais para qualq
 
    >[!TIP]
    >
-   >Em campanhas de disparo, você pode usar tokens em **Para outros e-mails** , como `{{lead.Territory Owner}}` ou `{{my.Alert Recipient}}` desde que os valores sejam endereços de e-mail válidos. Os tokens em **Para outros e-mails** não funcionarão em uma campanha em lote.
+   >Nas campanhas de disparo, você pode usar tokens em **Para outros e-mails**, como `{{lead.Territory Owner}}` ou `{{my.Alert Recipient}}`, desde que os valores sejam endereços de e-mail válidos. Os tokens em **Para outros e-mails** não funcionarão em uma campanha em lote.
 
-É isso! Agora você sabe como usar a etapa de fluxo **Enviar alerta** .
+É isso! Agora você sabe como usar a etapa de fluxo **Enviar alerta**.
 
 >[!MORELIKETHIS]
 >
