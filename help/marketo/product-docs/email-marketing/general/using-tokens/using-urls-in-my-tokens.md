@@ -19,7 +19,7 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus e-mails.
 
    ![](assets/one-4.png)
 
-1. Selecione o **Texto** Meu token, arraste e solte-o na tela de desenho.
+1. Selecione **Texto** Meu token, arraste e solte-o na tela de desenho.
 
    ![](assets/two-4.png)
 
@@ -29,7 +29,7 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus e-mails.
 
    >[!CAUTION]
    >
-   >Para garantir que os cliques sejam rastreados em seu email, **não** digite http:// dentro do valor do token.
+   >Para garantir que os cliques sejam rastreados em seu email, insira http:// dentro do valor do token.****
 
 1. Selecione o email em seu programa.
 
