@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Notas de versão: Fev de 20 {#release-notes-feb}
+# Notas de versão: Fev &#39;20 {#release-notes-feb}
 
 Os seguintes recursos estão incluídos na versão de fevereiro de 2010. Verifique sua edição de marketing para ver a disponibilidade de recursos.
 
@@ -19,9 +19,9 @@ Os seguintes recursos estão incluídos na versão de fevereiro de 2010. Verifiq
 >
 >**Disponibilidade**
 >
->Os recursos indicados por uma estrela ( ![(estrela)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
+>Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
-***Versões*** trimestrais Os seguintes recursos foram lançados em 21 **de fevereiro de 2020**.
+***Versões trimestraisOs seguintes recursos foram lançados em 21*** de fevereiro de 2020 ****.
 
 ## Marketo Engage Core {#core-marketo-engage}
 
@@ -38,7 +38,7 @@ Os seguintes recursos estão incluídos na versão de fevereiro de 2010. Verifiq
 ***Lançamento no Trimestre***
 
 Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos próximos meses.
-**Bizível ![(estrela)](assets/star-yellow.svg)
+**Bizible ![(star)](assets/star-yellow.svg)
 
 **
 
@@ -46,7 +46,7 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 * **Salvando Filtros**: Salve filtros específicos de painéis exclusivos a cada usuário para analisar seus painéis de forma rápida e consistente.
 * **Exportar para PDF**: Compartilhe insights valiosos em sua organização exportando Painéis Bizible como PDFs.
 
-## Conexão de vendas  {#sales-connect}
+## Conexão de vendas {#sales-connect}
 
 * **Atualizações** da janela Compor: Simplificamos o processo de seleção de modelos e envio de emails pelo Sales Connect. Use a janela Compor em nosso cliente Web e Salesforce como um ponto único para vendedores, com a capacidade de salvar categorias de modelo, agendar emails, enviar emails em massa e enviar emails com visualização e acompanhamento de cliques.
 * **Atualizações** do Centro de Comando: Estamos reconstruindo o Centro de comando do Sales Connect para fornecer aos vendedores informações sobre todos os emails, chamadas e Tarefas que foram iniciados no Sales Connect. Eles também podem visualização informações como envolvimento por e-mail e capacidade de entrega, tudo a partir do Centro de Comando.
@@ -57,9 +57,9 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 * **Centro** de sucesso do Marketo Engage: Estamos lançando o Centro de Sucesso de Mercado em fevereiro de 2020. O Centro de sucesso é um centro de ajuda no produto que permite pesquisar Documentos de produto e a Comunidade, lançar guias passo a passo, acessar conteúdo de adoção, como a Universidade de Marketing e vídeos de práticas recomendadas dos colegas, e muito mais - diretamente da sua instância do Marketo Engage. **Observação**: Este recurso será lançado como um beta na ANZ e será lançado para a América do Norte mais tarde no trimestre.
 
-## Desaprovações {#deprecations}
+## Obstáculos {#deprecations}
 
-* **Parâmetro**&quot;_method&quot; da API de ativos: Depois de setembro de 2020, os Pontos finais da API de ativos não aceitarão mais &quot;_method&quot; para passar os Parâmetros de Query em um corpo de POST para ignorar as limitações de comprimento de URI. Para acomodar solicitações que exigem esse parâmetro, o limite de URI para APIs de ativos será aumentado de 6 KiB para 65 KiB, de modo que URIs de solicitações longas possam ser enviadas.
+* **Parâmetro** &quot;_method&quot; da API de ativos: Depois de setembro de 2020, os Pontos finais da API de ativos não aceitarão mais &quot;_method&quot; para passar os Parâmetros de Query em um corpo de POST para ignorar as limitações de comprimento de URI. Para acomodar solicitações que exigem esse parâmetro, o limite de URI para APIs de ativos será aumentado de 6 KiB para 65 KiB, de modo que URIs de solicitações longas possam ser enviadas.
 * **Substituição** do suporte do Internet Explorer: A partir de nosso lançamento de julho, em 31 de julho de 2020, a interface do usuário do Marketo Engage não será mais compatível com o Internet Explorer.
 
-***Webinar*** da versão do produto [Junte-se a nós](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) em 3 de março, às 11:00AM PT / 2:00PM ET, para obter um webinar ao vivo hospedado pela nossa equipe de produtos, e saiba mais sobre os recursos incluídos nesta versão.
+***Webinar*** [de lançamento de produtoAssocie-se ao ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) uso em 3 de março, às 11:00AM PT / 2:00PM ET, para obter um webinar ao vivo hospedado pela equipe de produtos, e saiba mais sobre os recursos incluídos nesta versão.
