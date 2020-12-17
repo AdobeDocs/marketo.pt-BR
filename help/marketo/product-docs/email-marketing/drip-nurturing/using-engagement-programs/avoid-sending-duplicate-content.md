@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Evitar o envio de conteúdo de Duplicado {#avoid-sending-duplicate-content}
+# Evite enviar conteúdo do Duplicado {#avoid-sending-duplicate-content}
 
 Você já recebeu o mesmo email duas vezes? Irritante, não é?
 
@@ -25,9 +25,9 @@ Uma pessoa recebe um email enviado pelo Mecanismo de envolvimento do cliente.
 |---|---|---|
 | Uma campanha em um programa separado, independente e padrão | Não é membro do programa padrão | Sim |
 | Uma campanha em um programa separado, independente e padrão | Um membro do programa padrão | Não |
-| Uma campanha dentro de um programa padrão que é acionada a partir de um elenco dentro do **mesmo** programa CEE | Um membro do programa padrão | Não |
-| Uma campanha dentro de um programa padrão que é acionada a partir de um elenco dentro do **mesmo** programa CEE | Não é membro do programa padrão | Sim |
-| Uma campanha dentro de um programa padrão que é acionada a partir de um elenco dentro de um programa CEE **diferente** | Um membro do programa padrão | Não |
-| Uma campanha dentro de um programa padrão que é acionada a partir de um elenco dentro de um programa CEE **diferente** | Não é membro do programa padrão | Sim |
-| Um programa CEE **diferente** usando um fluxo inteligente | Um membro de ambos os programas CEE | Não |
+| Uma campanha dentro de um programa padrão que é acionada a partir de um elenco dentro do programa **same** CEE | Um membro do programa padrão | Não |
+| Uma campanha dentro de um programa padrão que é acionada a partir de um elenco dentro do programa **same** CEE | Não é membro do programa padrão | Sim |
+| Uma campanha dentro de um programa padrão que é acionada a partir de um elenco dentro de um programa **diferente** CEE | Um membro do programa padrão | Não |
+| Uma campanha dentro de um programa padrão que é acionada a partir de um elenco dentro de um programa **diferente** CEE | Não é membro do programa padrão | Sim |
+| Um programa **diferente** CEE usando um fluxo inteligente | Um membro de ambos os programas CEE | Não |
 
