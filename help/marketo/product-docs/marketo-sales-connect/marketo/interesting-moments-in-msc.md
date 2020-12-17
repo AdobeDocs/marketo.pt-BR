@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Momentos interessantes na MSC {#interesting-moments-in-msc}
+# Momentos interessantes em MSC {#interesting-moments-in-msc}
 
 Momentos interessantes são a chave para se comunicar com sua equipe de vendas por meio do Marketing to Sales Connect.
 
@@ -19,7 +19,7 @@ Momentos interessantes são a chave para se comunicar com sua equipe de vendas p
 >
 >**Disponibilidade**
 >
->Eles estão disponíveis somente para clientes do Marketing [to Sales Insight](http://docs.marketo.com/x/2Akt) e Marketing to Sales Connect.
+>Eles estão disponíveis somente para [Marketing to Sales Insight](http://docs.marketo.com/x/2Akt) e clientes do Marketing to Sales Connect.
 
 ## Qual é o momento interessante?  {#what-is-an-interesting-moment}
 
@@ -31,11 +31,11 @@ Isso depende de você! Você decide quais informações são relevantes para sua
 
 ## Como eu crio um momento interessante? {#how-do-i-create-an-interesting-moment}
 
-1. Escolha uma campanha [](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) s [](http://docs.marketo.com/display/docs/smart+campaigns)mart, de preferência uma que sua equipe de vendas acharia interessante se acionasse.
+1. Escolha uma [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [campanha inteligente](http://docs.marketo.com/display/docs/smart+campaigns), preferencialmente uma que a sua equipe de vendas acharia interessante se fosse acionada.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Arraste sobre a etapa de fluxo Momentos **interessantes** .
+1. Arraste sobre a etapa de fluxo **Momentos interessantes**.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
@@ -43,7 +43,7 @@ Isso depende de você! Você decide quais informações são relevantes para sua
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Escreva uma mensagem para sua equipe de vendas no campo **Descrição** , que explica por que essa ação é importante.
+1. Escreva uma mensagem para sua equipe de vendas no campo **Description** que explica por que essa ação é importante.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -53,7 +53,7 @@ Isso depende de você! Você decide quais informações são relevantes para sua
 
 ## Como se parece um momento interessante em Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Os momentos interessantes serão exibidos no registro [de atividades de um](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)cliente potencial.
+Os momentos interessantes serão exibidos em um [registro de atividades do cliente potencial](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
