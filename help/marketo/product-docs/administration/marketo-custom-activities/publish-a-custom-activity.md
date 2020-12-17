@@ -19,7 +19,7 @@ Você tem sua atividade personalizada exatamente como você quer. Agora, é hora
 
    ![](assets/one-2.png)
 
-1. Em Gerenciamento **de** banco de dados, clique em **Atividades** personalizadas de marketing.
+1. Em **Gerenciamento de banco de dados**, clique em **Atividades personalizadas de marketing**.
 
    ![](assets/two-2.png)
 
@@ -27,7 +27,7 @@ Você tem sua atividade personalizada exatamente como você quer. Agora, é hora
 
    ![](assets/three-2.png)
 
-1. Clique no menu suspenso Ações **de Atividade** personalizadas e selecione **Publicar Atividade**.
+1. Clique no menu suspenso **Ações de Atividade personalizadas** e selecione **Publicar Atividade**.
 
    ![](assets/four-2.png)
 
