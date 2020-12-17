@@ -25,7 +25,7 @@ Adicione várias pessoas a um grupo ao mesmo tempo.
 
 ![](assets/add-to-group.png)
 
-## Fonte {#source}
+## Origem {#source}
 
 Atribuímos automaticamente uma fonte a cada contato que entrar no banco de dados. Use esta etapa para atualizar essa fonte.
 
@@ -37,11 +37,11 @@ Atribuímos automaticamente uma fonte a cada contato que entrar no banco de dado
 
 ## Autorização {#authorization}
 
-Em conformidade com o [RGPD](http://eugdpr.org/), utilize a autorização para indicar como recebeu a autorização para iniciar contatos.
+Em conformidade com [RGPD](http://eugdpr.org/), utilize a autorização para indicar como recebeu permissão para iniciar contatos.
 
 ![](assets/authorization.png)
 
-## Cancelar inscrição {#unsubscribe}
+## Cancelar assinatura {#unsubscribe}
 
 Realize uma anulação de inscrição em massa em contatos que não desejam mais receber a sua correspondência.
 
