@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Se Marketo é um carro poderoso, a campanha inteligente é realmente o motor. É simples começar, mas pode fazer quase tudo que você pedir.
 
-A campanha inteligente tem três áreas principais: As guias Lista [](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)inteligente, [Fluxo](http://docs.marketo.com/display/DOCS/Flow+Actions) e [Programação](using-smart-campaigns/schedule-a-recurring-batch-campaign.md) .
+A campanha inteligente tem três áreas principais: As guias [Lista inteligente](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Fluxo](http://docs.marketo.com/display/DOCS/Flow+Actions) e [Agendamento](using-smart-campaigns/schedule-a-recurring-batch-campaign.md).
 
 ## Lista inteligente {#smart-list}
 
@@ -49,7 +49,7 @@ A lista inteligente é como você define QUEM você quer público alvo com sua c
 
 O fluxo inclui as etapas que você deseja que a campanha inteligente execute, incluindo as etapas de espera e as opções divididas.
 
-## Agendamento {#schedule}
+## Agendar {#schedule}
 
 Finalmente, isso controla quando você executa sua campanha inteligente. Você também pode configurar a recorrência para que seja executada em uma programação repetitiva.
 
