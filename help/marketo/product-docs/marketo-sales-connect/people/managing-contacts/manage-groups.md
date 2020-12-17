@@ -17,11 +17,11 @@ Saiba como gerenciar seus grupos no Sales Connect.
 
 ## Criar um grupo {#create-a-group}
 
-1. Na página Pessoas, clique no sinal de **mais** ao lado de Grupos.
+1. Na página Pessoas, clique no **sinal de mais** ao lado de Grupos.
 
    ![](assets/one-4.png)
 
-1. Dê um nome ao seu grupo e clique em **Criar**.
+1. Nomeie seu grupo e clique em **Criar**.
 
    ![](assets/two-3.png)
 
@@ -33,7 +33,7 @@ Saiba como gerenciar seus grupos no Sales Connect.
 
    ![](assets/three-3.png)
 
-1. Clique em Ações **do** grupo e selecione **Criar contato**.
+1. Clique em **Ações do grupo** e selecione **Criar contato**.
 
    ![](assets/four-3.png)
 
@@ -41,7 +41,7 @@ Saiba como gerenciar seus grupos no Sales Connect.
    >
    >Isso adicionará um contato de cada vez. Para adicionar vários contatos ao mesmo tempo, siga [estas etapas](http://docs.marketo.com/x/VADb).
 
-1. Preencha as informações do contato e clique em **Criar** (ou em **Criar e adicionar novo** para adicionar outro).
+1. Preencha as informações do contato e clique em **Criar** (ou **Criar e Adicionar Novo** para adicionar outro).
 
    ![](assets/five-3.png)
 
@@ -71,7 +71,7 @@ Saiba como gerenciar seus grupos no Sales Connect.
 
    Você ainda é o proprietário do grupo, mas ele será exibido em Grupos de grupos.
 
-## Descompartilhar um grupo {#unshare-a-group}
+## Cancelar compartilhamento de um grupo {#unshare-a-group}
 
 1. Na página Pessoas, localize e selecione o grupo que deseja não compartilhar.
 
