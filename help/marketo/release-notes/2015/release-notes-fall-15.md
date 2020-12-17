@@ -42,11 +42,11 @@ Crie facilmente objetos personalizados da interface do usuário do administrador
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Insights de marketing para o Google Chrome {#marketo-insights-for-google-chrome}
+## Insights do Marketing para o Google Chrome {#marketo-insights-for-google-chrome}
 
 [Insights de marketing para o Google Chrome](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Estamos animados em anunciar o lançamento de uma atualização para nossa extensão do Google Mail Sales Insight! Visualização-o na Loja [Chrome](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Estamos animados em anunciar o lançamento de uma atualização para nossa extensão do Google Mail Sales Insight! Visualização-o em [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Esta atualização inclui muitos novos recursos e funcionalidades:
 
@@ -56,7 +56,7 @@ Esta atualização inclui muitos novos recursos e funcionalidades:
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Envolvimento móvel do Marketo - Tokens, Enviar amostra e Pré-visualização {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Envolvimento móvel do Marketo - Tokens, Send Sample e Pré-visualização {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Tokens](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Enviar amostra](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
@@ -66,7 +66,7 @@ Personalize facilmente notificações por push com [tokens](https://docs.marketo
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Você também pode [pré-visualização](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) ou enviar uma notificação por push de [amostra](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) antes de implantá-la para os clientes.
+Você também pode [pré-visualização](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) ou enviar uma [amostra](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) notificação por push antes de implantá-la para os clientes.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -87,7 +87,7 @@ As estatísticas de e-mails enviados por meio de Campanhas inteligentes agora es
 
 ## RTP - Análise de conteúdo e Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Análise](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) de conteúdo e Recommendations
+[Análise ](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) de conteúdo e Recommendations
 
 A análise de conteúdo RTP mostra o desempenho de seus ativos de conteúdo da Web de visitas regulares e também visitas geradas pelo mecanismo de recomendação de conteúdo da RTP.
 
@@ -97,12 +97,12 @@ A análise de conteúdo RTP mostra o desempenho de seus ativos de conteúdo da W
 
 A página Ativos da RTP agora é dividida em Análise de conteúdo e Recommendations de conteúdo.
 
-* **Análise de conteúdo:** Mostra as visualizações e leads diretos de todo o conteúdo da Web descoberto e definido, ajudando a analisar seu conteúdo com melhor desempenho
-* **Recommendations** de conteúdo: Mostra impressões e cliques do conteúdo recomendado do RTP e atribuição de lead associada. Você também pode editar e ativar as recomendações de conteúdo desta página para as recomendações da [barra](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) e da mídia [](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) avançada.
+* **Análises de conteúdo:** mostra as visualizações e leads diretos de todo o conteúdo da Web descoberto e definido, ajudando a analisar seu conteúdo de melhor desempenho
+* **Recommendations** de conteúdo: Mostra impressões e cliques do conteúdo recomendado do RTP e atribuição de lead associada. Você também pode editar e ativar as recomendações de conteúdo desta página para as recomendações [bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) e [rich media](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine).
 
 * Todos os dados de lead direto nessas duas páginas foram atualizados retrospectivamente desde start do ano (1º de janeiro de 2015).
 
-## RTP - clone e Campanha RTP {#rtp-clone-an-rtp-campaign}
+## RTP - clone uma Campanha RTP {#rtp-clone-an-rtp-campaign}
 
 [RTP - clone e Campanha RTP](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
