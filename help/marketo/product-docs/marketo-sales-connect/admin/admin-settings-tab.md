@@ -15,9 +15,9 @@ ht-degree: 0%
 
 A guia Configurações do administrador permitirá que o administrador em qualquer conta veja as configurações da equipe (em relação aos limites do plano), bem como o controle de massa da maneira como os e-mails da equipe são registrados no Salesforce.
 
-Se você marcar a caixa de seleção **Substituir todas as configurações de sincronização do Salesforce para minha equipe** , verá a opção de permitir somente o registro via BCC ou somente por API.
+Se você marcar a caixa de seleção **Substituir todas as configurações de sincronização do Salesforce para minha equipe**, você verá a opção de permitir somente o registro via BCC ou somente por API.
 
-Se você escolher o registro **da** API, todas as configurações selecionadas para Oportunidades, Clientes potenciais, Contatos `will be set for the entire team after you click **Save Changes**.`
+Se você escolher **Log de API**, todas as configurações serão selecionadas para Oportunidades, Clientes potenciais, Contatos `will be set for the entire team after you click **Save Changes**.`
 
 Daqui, você também poderá ativar em massa Oportunidades e Sincronização de Tarefas em toda a equipe.
 
