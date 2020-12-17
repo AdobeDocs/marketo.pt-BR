@@ -19,15 +19,15 @@ Se você precisar remover um conjunto específico de clientes potenciais do Sale
 >
 >Disponível somente quando integrado ao Salesforce.
 
-1. No Banco de Dados, clique na pessoa que deseja remover do Salesforce. Em seguida, clique em Ações **da** pessoa e selecione **Salesforce**.
+1. No Banco de Dados, clique na pessoa que deseja remover do Salesforce. Em seguida, clique em **Ações da pessoa** e selecione **Salesforce**.
 
    ![](assets/person-actions-salesforce.png)
 
-1. Selecione **Excluir pessoa do SFDC**.
+1. Selecione **Excluir Pessoa do SFDC**.
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Verifique se a configuração **Excluir no Marketo** é **falsa** e clique em **Executar agora**.
+1. Verifique se a configuração **Excluir no Marketo** é **false** e clique em **Executar agora**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
@@ -35,5 +35,5 @@ Se você precisar remover um conjunto específico de clientes potenciais do Sale
 
    >[!CAUTION]
    >
-   >Se você definir **Excluir no Marketo** para **verdadeiro** e excluir as pessoas do Marketo e as informações do Salesforce, elas desaparecerão para sempre. Isto não pode ser desfeito.
+   >Se você definir **Excluir no Marketo** como **true** e excluir as pessoas do Marketo e os clientes potenciais do Salesforce, elas desaparecerão para sempre. Isto não pode ser desfeito.
 
