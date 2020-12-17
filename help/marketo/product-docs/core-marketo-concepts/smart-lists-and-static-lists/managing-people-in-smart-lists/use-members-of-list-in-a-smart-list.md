@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Você pode adicionar pessoas a uma lista usando a etapa [Importar](../../../../getting-started/quick-wins/import-a-list-of-people.md) ou [Adicionar à Lista](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
+>Você pode adicionar pessoas a uma lista usando [Importar](../../../../getting-started/quick-wins/import-a-list-of-people.md) ou [Adicionar à etapa de fluxo de Lista](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
 Com esse filtro, você pode retirar membros de outra lista fazendo referência a ela nas regras de lista inteligente. Veja como.
 
-1. Selecione uma lista inteligente e clique na guia Lista **** inteligente.
+1. Selecione uma lista inteligente e clique na guia **Lista inteligente**.
 
    ![](assets/smartlist-sltab.png)
 
