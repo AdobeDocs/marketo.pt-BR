@@ -21,7 +21,7 @@ Sempre permitimos que as equipes personalizassem suas mensagens de link para can
 
 ## Personalizar mensagens para si mesmo {#customize-messaging-for-yourself}
 
-1. Faça logon no aplicativo [da](http://toutapp.com/login)Web, clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo da Web](http://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
    ![](assets/one.png)
 
@@ -45,9 +45,9 @@ Sempre permitimos que as equipes personalizassem suas mensagens de link para can
 
    ![](assets/five.png)
 
-## Definir as mensagens de cancelamento de inscrição para sua equipe {#set-unsubscribe-messaging-for-your-team}
+## Defina as mensagens de cancelamento de assinatura para sua equipe {#set-unsubscribe-messaging-for-your-team}
 
-1. Faça logon no aplicativo [da](http://toutapp.com/login)Web, clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo da Web](http://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
    ![](assets/six.png)
 
@@ -59,7 +59,7 @@ Sempre permitimos que as equipes personalizassem suas mensagens de link para can
 
    ![](assets/seven.png)
 
-1. Selecione **Estou configurando as mensagens padrão para que minha equipe** tenha as mensagens aplicáveis a todos os usuários.
+1. Selecione **Estou configurando as mensagens padrão para minha equipe** para que as mensagens se apliquem a todos os usuários.
 
    ![](assets/eleven.png)
 
