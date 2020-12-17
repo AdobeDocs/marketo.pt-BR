@@ -19,8 +19,8 @@ Adicionar pessoas à sua Lista de bloqueios impede que elas recebam sua correspo
 >
 >O Marketo está mudando termos como Blacklist e Whitelist para Lista de bloqueios e Lista de permissões em nosso produto. Durante esta atualização, você pode ver os termos antigos em nossa interface do usuário e nas capturas de tela da documentação, bem como os novos termos em nosso texto de documentação. Pedimos desculpas por qualquer confusão.
 
-1. [Crie um novo programa](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) padrão e nomeie-o como **Adicionar à Lista de bloqueios**.
-1. Clique em **Novo** e selecione **Novo ativo** local.
+1. [Crie um novo ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) programa padrão e nomeie-o como  **Adicionar à Lista de bloqueios**.
+1. Clique em **Novo** e selecione **Novo ativo local**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
 
@@ -28,7 +28,7 @@ Adicionar pessoas à sua Lista de bloqueios impede que elas recebam sua correspo
 
    ![](assets/image2015-8-14-11-3a2-3a26.png)
 
-1. Adicione todas as pessoas à sua Lista **** inteligente que deseja adicionar à sua Lista de bloqueios.
+1. Adicione todas as pessoas à sua **Lista inteligente** que deseja adicionar à sua Lista de bloqueios.
 
    >[!NOTE]
    >
@@ -36,15 +36,15 @@ Adicionar pessoas à sua Lista de bloqueios impede que elas recebam sua correspo
 
    ![](assets/three-6.png)
 
-1. Clique em **Nova** e selecione **Nova Campanha** inteligente.
+1. Clique em **Novo** e selecione **Nova Campanha inteligente**.
 
    ![](assets/image2015-8-14-11-3a12-3a35.png)
 
-1. Nomeie a **nova Campanha** inteligente. Clique em **Criar**.
+1. Nomeie a **Nova Campanha inteligente**. Clique em **Criar**.
 
    ![](assets/image2015-8-14-11-3a13-3a36.png)
 
-1. Arraste e solte o **membro da Lista** inteligente.
+1. Arraste e solte **Membro da Lista inteligente**.
 
    ![](assets/image2015-8-14-11-3a16-3a34.png)
 
@@ -52,15 +52,15 @@ Adicionar pessoas à sua Lista de bloqueios impede que elas recebam sua correspo
 
    ![](assets/image2015-8-14-11-3a17-3a5.png)
 
-1. Arraste e solte **Alterar valor** de dados.
+1. Arraste e solte **Alterar valor de dados**.
 
    ![](assets/image2015-8-14-11-3a18-3a41.png)
 
-1. Para o **Fluxo**, informe **Bloquear Listado** para o **Atributo** e defina **Novo Valor** como **true**.
+1. Para o **Fluxo**, digite **Bloquear Listado** para o **Atributo** e defina **Novo Valor** como **true**.
 
    ![](assets/image2015-8-14-11-3a21-3a1.png)
 
-1. Na guia **Agendamento** , selecione **Executar uma vez**.
+1. Na guia **Schedule**, selecione **Run Once**.
 
    ![](assets/ten.png)
 
@@ -72,5 +72,5 @@ Adicionar pessoas à sua Lista de bloqueios impede que elas recebam sua correspo
 
    >[!TIP]
    >
-   >Criar uma campanha [inteligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) acionadora usando **Alterar valor** de dados com **Bloco listado é verdadeiro** para todas as pessoas no futuro que tenham atributos lista de bloqueios.
+   >Crie uma [campanha inteligente de acionamento](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) usando **Alterar valor de dados** com **Bloqueio listado é verdadeiro** para todas as pessoas que no futuro têm atributos que podem ser  lista de bloqueios.
 
