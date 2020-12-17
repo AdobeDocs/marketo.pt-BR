@@ -20,7 +20,7 @@ Se você precisar excluir um fluxo do seu programa de envolvimento, siga estas e
 
    ![Imagem Um](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. Clique na guia **[!UICONTROL Streams]** .
+1. Clique na guia **[!UICONTROL Streams]**.
 
    ![Imagem dois](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
