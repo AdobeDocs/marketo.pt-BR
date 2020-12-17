@@ -22,19 +22,19 @@ ht-degree: 0%
 
 
 
-Agora que você [criou uma lista](create-a-smart-list.md) inteligente e [adicionou filtros](find-and-add-filters-to-a-smart-list.md) a ela, vamos definir os filtros. Veja como.
+Agora que você [criou uma lista inteligente](create-a-smart-list.md) e [adicionou filtros](find-and-add-filters-to-a-smart-list.md) a ela, vamos definir os filtros. Veja como.
 
 Continuando nosso exemplo, vamos definir esses filtros para encontrar todas as pessoas na Califórnia com uma pontuação acima de 50.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione a lista inteligente e clique na guia Lista **** inteligente.
+1. Selecione a lista inteligente e clique na guia **Lista inteligente**.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Localize e selecione **CA** para o filtro **Estado** .
+1. Localize e selecione **CA** para o filtro **Estado**.
 
    ![](assets/smartlistdefinefilters.png)
 
@@ -43,7 +43,7 @@ Continuando nosso exemplo, vamos definir esses filtros para encontrar todas as p
    >**Lembrete**
    >
    >
-   >Você pode estar armazenando a **Califórnia** e a **CA**. Para filtrar por ambos os valores e incluir *todos *as pessoas da Califórnia, saiba como [adicionar vários valores a um filtro](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md)de lista inteligente.
+   >Você pode estar armazenando **California** e **CA**. Para filtrar por ambos os valores e incluir *todas as *pessoas da Califórnia, saiba como [adicionar vários valores a um filtro de lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
 
 1. Escolha o operador **maior que** e digite **50**.
 
@@ -55,5 +55,5 @@ Continuando nosso exemplo, vamos definir esses filtros para encontrar todas as p
 >
 >**Mergulho profundo**
 >
->Saiba mais sobre listas [inteligentes e listas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)estáticas.
+>Saiba mais sobre [listas inteligentes e listas estáticas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
