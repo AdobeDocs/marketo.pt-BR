@@ -21,11 +21,11 @@ O Marketo sincroniza tanto Eventos quanto Tarefas associadas a um cliente potenc
 
 ## Como os detalhes da atividade são mantidos em sincronia entre os dois sistemas? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-A sincronização é de uma maneira, de Salesforce a Marketo. Mas é possível criar uma tarefa no Salesforce usando a etapa [Criar fluxo de Tarefa](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ou [Personalizar sincronização](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) do Atividade para o Salesforce.
+A sincronização é de uma maneira, de Salesforce a Marketo. Mas você pode criar uma tarefa no Salesforce usando a etapa [Criar Tarefa](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de fluxo ou [Personalizar Atividade Sync](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) no Salesforce.
 
 ## Posso criar uma tarefa usando o Marketo? {#can-i-create-a-task-using-marketo}
 
-Sim, você pode usar a ação [](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)Criar fluxo de Tarefa.
+Sim, você pode usar a ação [Criar fluxo de Tarefa](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
 
 ## Quais são os acionadores/filtros relacionados à atividade? {#what-are-the-triggers-filters-related-to-activity}
 
@@ -41,5 +41,5 @@ Filtros
 
 >[!TIP]
 >
->Não tem certeza sobre essa redação &quot;não Atividade&quot;? O &quot;não&quot; refere-se a um Filtro de inatividade. Saiba mais sobre eles aqui: [Usar Filtros de inatividade em uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>Não tem certeza sobre essa redação &quot;não Atividade&quot;? O &quot;não&quot; refere-se a um Filtro de inatividade. Saiba mais sobre eles aqui: [Utilizar Filtros de inatividade numa Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
