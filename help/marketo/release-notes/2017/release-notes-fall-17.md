@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Notas de versão: outono de 17 {#release-notes-fall}
+# Notas de versão: Último trimestre de 2017 {#release-notes-fall}
 
 Os seguintes recursos foram incluídos na versão lançada no último trimestre de 2017. Verifique sua edição de marketing para ver a disponibilidade de recursos.
 
@@ -60,11 +60,11 @@ Nós lançamos dois recursos como parte de nossa nova integração com o Slack:
 
 O Marketing ABM agora sincroniza e exibe contas CRM sem contatos. Inclua novas contas sem vendas ou históricos de marketing anteriores e rastreie o progresso ao corresponder clientes potenciais subsequentes às contas.
 
-## `<sup>AI </sup>`ContentAnalytics {#contentai-analytics}
+## Conteúdo`<sup>AI </sup>`Analytics {#contentai-analytics}
 
-** [Novo filtro](https://docs.marketo.com/x/1BPG) de Lista de conta ABM **
+** [Novo Filtro de Lista de Conta ABM](https://docs.marketo.com/x/1BPG) **
 
-Visualização e compare o desempenho do conteúdo nas Listas da conta ABM para otimizar o conteúdo existente. O conteúdo`<sup>AI</sup>` mostra:
+Visualização e compare o desempenho do conteúdo nas Listas da conta ABM para otimizar o conteúdo existente. Content`<sup>AI</sup>` mostra:
 
 * conteúdo superior exibido
 * conteúdo mais alto convertido
@@ -72,24 +72,24 @@ Visualização e compare o desempenho do conteúdo nas Listas da conta ABM para 
 
 ## Aprimoramentos de personalização da Web {#web-personalization-enhancements}
 
-** [Tokens para Campanha](https://docs.marketo.com/x/SwJI)**
+** [Tokens para Campanhas Web](https://docs.marketo.com/x/SwJI)**
 
 Tokens agora estão disponíveis para uso em campanhas da Web. Utilize tokens para fornecer mensagens e conteúdo personalizados para aumentar o envolvimento em suas campanhas da Web.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-** Imagens [do Design Studio no editor](https://docs.marketo.com/x/SwJI)de Campanha da Web**
+** [Imagens do Design Studio no Editor de Campanhas Web](https://docs.marketo.com/x/SwJI)**
 
 Economize tempo reutilizando ativos e imagens criativas em vários canais do Marketo.
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Integração  {#integration}
+## Integração {#integration}
 
-** API [](https://developers.marketo.com/rest-api/assets/emails/)de Pré-visualização por email**
+** [API de Pré-visualização de email](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Agora você pode pré-visualização remotamente emails fora do Marketo, simplificando o processo de localização de conteúdo de email e reduzindo erros.
 
-** [Substituir API](https://developers.marketo.com/rest-api/assets/emails/)HTML**
+** [Substituir API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Os desenvolvedores podem atualizar remotamente o conteúdo HTML de ativos de email, permitindo que eles trabalhem em um único sistema para manter ativos.
