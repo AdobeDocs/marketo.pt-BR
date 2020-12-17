@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gerenciamento de valores de tag {#managing-tag-values}
 
-[As tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) são usadas para descrever programas. Você pode fazer o máximo que precisar, cada um com valores únicos. Aqui está como gerenciar esses valores.
+[As ](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) tags são usadas para descrever programas. Você pode fazer o máximo que precisar, cada um com valores únicos. Aqui está como gerenciar esses valores.
 
 >[!NOTE]
 >
@@ -29,15 +29,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Clique em** Novo* e, em seguida, em **Novo valor** da tag.
+1. Clique em** Novo* e, em seguida, **Novo valor da tag**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
-1. Selecione o Tipo **de** tag.
+1. Selecione **Tipo de tag**.
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
-1. Insira um **Valor** e clique em **Adicionar outro**. Você pode adicionar quantos valores desejar.
+1. Digite um **Valor** e clique em **Adicionar outro**. Você pode adicionar quantos valores desejar.
 
    ![](assets/image2014-9-24-12-3a26-3a27.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 As tags podem ser usadas por programas antigos. É possível substituí-los para uso futuro ocultando o tipo de tag.
 
-1. Selecione a **tag** **** e selecione o **valor** que deseja ocultar.
+1. Selecione a ******Tag** e selecione o **Valor** que pretende ocultar.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
-1. Em Ações **de** tag, selecione **Ocultar**.
+1. Em **Ações de tag**, selecione **Ocultar**.
 
    ![](assets/image2014-9-24-12-3a29-3a4.png)
 
