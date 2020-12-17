@@ -21,11 +21,11 @@ As campanhas inteligentes são a ferramenta mais importante no Marketing. Eles p
 >
 >Campanhas inteligentes são super legais. Saiba mais sobre eles [aqui](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Escolha um **Programa** e, em **Novo** , clique em **Novo ativo** local.
+1. Escolha um **Programa** e, em **Novo**, clique em **Novo ativo local**.
 
    ![](assets/program-localassethands.png)
 
@@ -33,7 +33,7 @@ As campanhas inteligentes são a ferramenta mais importante no Marketing. Eles p
    >
    >Você pode criar campanhas inteligentes como ativos locais de qualquer programa.
 
-1. Clique em **Campanha** inteligente.
+1. Clique em **Campanha inteligente**.
 
    ![](assets/image2014-9-19-15-3a9-3a51.png)
 
