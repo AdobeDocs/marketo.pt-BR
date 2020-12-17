@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Usar uma duração em uma etapa do fluxo de espera {#use-a-duration-in-a-wait-flow-step}
+# Usar uma Duração em uma Etapa de Fluxo de Espera {#use-a-duration-in-a-wait-flow-step}
 
 Você pode usar a etapa de fluxo de espera para pausar a jornada de uma pessoa através de uma campanha inteligente por um certo período de tempo. Você também pode especificar critérios para o dia da semana e a hora em que ela termina.
 
-1. Na guia **Fluxo** de campanha inteligente, arraste sobre a etapa **Fluxo de espera** .
+1. Na guia **Fluxo** da campanha inteligente, arraste sobre a etapa de fluxo **Aguarde**.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -43,7 +43,7 @@ Você pode usar a etapa de fluxo de espera para pausar a jornada de uma pessoa a
    >Uma pessoa dispara uma campanha inteligente na sexta-feira às 17h. A etapa de espera está avançada: 48 horas e deve terminar de manhã às 9h00.
    >
    >
-   >O resultado seria que a pessoa continuaria no fluxo na **segunda-feira, às 9h**. Esta é a primeira data M-F após 48 horas.
+   >O resultado seria que a pessoa continuaria no fluxo em **segunda-feira, 9h**. Esta é a primeira data M-F após 48 horas.
 
    >[!NOTE]
    >
