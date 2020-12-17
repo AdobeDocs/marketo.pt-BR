@@ -23,17 +23,17 @@ O Marketing to Sales Connect é uma solução de suporte a vendas multifacetada 
 
 ## O feed ao vivo {#the-live-feed}
 
-Os representantes de vendas podem visualização o envolvimento [em tempo](http://docs.marketo.com/x/d4TS) real do conteúdo de marketing e vendas.
+Os representantes de vendas podem visualização [envolvimento em tempo real](http://docs.marketo.com/x/d4TS) do conteúdo de marketing e vendas.
 
 ![](assets/engagement.jpg)
 
 ## Visualização de detalhes da pessoa {#person-detail-view}
 
-Acesse estatísticas de pessoas [detalhadas](http://docs.marketo.com/x/e4TS).
+Acesse [estatísticas de pessoas detalhadas](http://docs.marketo.com/x/e4TS).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## Veja os resultados no seu registro de Atividades do marketing {#see-results-in-your-marketo-activity-log}
+## Consulte Resultados em seu registro de Atividades de marketing {#see-results-in-your-marketo-activity-log}
 
 Veja como seus prospectos estão se envolvendo com seus esforços de vendas.
 
@@ -63,7 +63,7 @@ Veja como seus prospectos estão se envolvendo com seus esforços de vendas.
   </tr> 
   <tr> 
    <td colspan="1"><p>Receber Chamada de Vendas</p></td> 
-   <td colspan="1"><p>O cliente potencial recebeu uma chamada de um vendedor usando o Telefone <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">de</a>vendas.</p></td> 
+   <td colspan="1"><p>O cliente potencial recebeu uma chamada de um vendedor usando o <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">Telefone de Vendas</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Adicionar à Campanha de Vendas</p></td> 
@@ -82,7 +82,7 @@ Veja como seus prospectos estão se envolvendo com seus esforços de vendas.
 
 ## Compartilhar Campanhas de marketing {#share-marketing-campaigns}
 
-Crie uma campanha inteligente simples para dar aos usuários de vendas acesso aos dados [da campanha](http://docs.marketo.com/x/NwDh)Marketingto.
+Crie uma campanha inteligente simples para dar aos usuários de vendas acesso aos [dados de campanha do Marketing](http://docs.marketo.com/x/NwDh).
 
 ![](assets/campaign-is-requested.jpg)
 
