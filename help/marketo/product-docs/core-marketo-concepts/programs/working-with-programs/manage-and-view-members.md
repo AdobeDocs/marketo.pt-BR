@@ -19,13 +19,13 @@ Você pode gerenciar e visualização seus membros em seus programas usando a gu
 >
 >**Mergulho profundo**
 >
-> Mergulhe mais fundo na associação [ao](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)programa.
+> Mergulhe mais fundo em [associação ao programa](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Procurar um Membro {#search-for-a-member}
 
 Na parte inferior da seção Membros, use o campo de pesquisa para procurar membros do programa por nome, email, cargo ou empresa.
 
-1. Clique na guia **Membros** do seu programa.
+1. Clique na guia **Members** do seu programa.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -33,7 +33,7 @@ Na parte inferior da seção Membros, use o campo de pesquisa para procurar memb
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## Exportar a grade de membros {#export-the-members-grid}
+## Exportar a Grade de Membros {#export-the-members-grid}
 
 É possível exportar a lista de membro clicando no ícone do Excel ao lado do campo de pesquisa.
 
@@ -51,11 +51,11 @@ Na parte inferior da seção Membros, use o campo de pesquisa para procurar memb
 
 ## Escolha quais colunas estão visíveis na grade {#choose-which-columns-are-visible-in-the-grid}
 
-1. Clique no menu suspenso **Visualização **e selecione **Criar Visualização**.
+1. Clique na lista suspensa **Visualização **e selecione **Criar Visualização**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Dê um nome à sua visualização personalizada. Selecione os títulos das colunas. Clique em** Adicionar **e remover **** para mover colunas e criar uma visualização.
+1. Dê um nome à sua visualização personalizada. Selecione os títulos das colunas. Clique em** Adicionar **e** Remover **para mover colunas e criar uma visualização.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -63,9 +63,9 @@ Na parte inferior da seção Membros, use o campo de pesquisa para procurar memb
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Filtrar a grade de membros  {#filter-the-members-grid}
+## Filtrar a Grade de Membros {#filter-the-members-grid}
 
-1. Clique na lista suspensa **Filtro** e selecione uma etapa de progressão para classificar.
+1. Clique no menu suspenso **Filter** e selecione uma etapa de progressão para classificar.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
