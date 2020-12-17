@@ -18,7 +18,7 @@ Estas são as noções básicas para ajudá-lo a navegar pela visualização do 
 
 ## Localizar a Visualização Agendar
 
-Selecione seu programa na árvore. Na guia [!UICONTROL Detalhes] , clique em [!UICONTROL Agendar].
+Selecione seu programa na árvore. Na guia [!UICONTROL Details], clique em [!UICONTROL Schedule].
 
 ![Imagem Um](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-1.png)
 
@@ -34,6 +34,6 @@ A Agenda mostra todas as entradas de um mês específico.
 
 ## Configurações de visualização
 
-No canto superior direito da visualização do cronograma do programa, clique em Configurações [!UICONTROL de] Visualização para filtrar suas entradas por [!UICONTROL Tentativa], [!UICONTROL Confirmada]e/ou [!UICONTROL Concluída].
+No canto superior direito da visualização do cronograma do programa, clique em [!UICONTROL Configurações de Visualização] para filtrar suas entradas por [!UICONTROL Tentativa], [!UICONTROL Confirmada] e/ou [!UICONTROL Concluída].
 
 ![Imagem quatro](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-4.png)
