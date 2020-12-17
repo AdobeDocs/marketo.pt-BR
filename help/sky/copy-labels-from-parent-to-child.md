@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Para copiar rótulos de um ativo pai para um ativo filho, navegue até a página [!UICONTROL Detalhes] do ativo na guia [!UICONTROL Visão geral] .
+Para copiar rótulos de um ativo pai para um ativo filho, navegue até a página [!UICONTROL Detalhes] do ativo na guia [!UICONTROL Visão geral].
 
-Na seção [!UICONTROL Rótulos] , clique em **[!UICONTROL Copiar Rótulos do Pai]**.
+Na seção [!UICONTROL Etiquetas], clique em **[!UICONTROL Copiar etiquetas do pai]**.
 
 ![Imagem Um](/help/sky/assets/labels/copy-labels-from-parent-to-child/copy-labels-from-parent-to-child-1.jpg)
 
