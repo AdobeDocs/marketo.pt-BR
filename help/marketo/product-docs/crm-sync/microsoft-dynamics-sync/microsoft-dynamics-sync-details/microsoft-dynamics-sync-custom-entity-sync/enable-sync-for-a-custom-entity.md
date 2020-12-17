@@ -19,11 +19,11 @@ Se você precisar que os dados de entidade personalizados do Dynamics estejam di
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a seção **Admin** .
+1. Vá para a seção **Admin**.
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
-1. Selecione **Microsoft Dynamics** e clique em **Desativar sincronização**.
+1. Selecione **Microsoft Dynamics** e clique em **Desativar Sincronização**.
 
    Você deve desativar temporariamente a sincronização global para ativar ou desativar uma entidade personalizada.
    ![](assets/image2015-11-10-9-3a0-3a6.png)
@@ -32,11 +32,11 @@ Se você precisar que os dados de entidade personalizados do Dynamics estejam di
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Clique no link **Sincronizar schema** .
+1. Clique no link **Sincronizar schema**.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Selecione a entidade que deseja sincronizar e clique em **Ativar sincronização**.
+1. Selecione a entidade que deseja sincronizar e clique em **Ativar Sincronização**.
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
