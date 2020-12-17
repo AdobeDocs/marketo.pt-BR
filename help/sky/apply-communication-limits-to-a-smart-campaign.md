@@ -16,22 +16,22 @@ Não é uma boa ideia enviar emails várias vezes por dia, ou muitas vezes por s
 
 >[!IMPORTANT]
 >
->Lembre-se de [ativar os limites de comunicação](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)
+>Lembre-se de [ativar limites de comunicação](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)
 
 >[!NOTE]
 >
 >Quando qualquer pessoa excede os limites de comunicação definidos, o Marketo bloqueia emails não operacionais (emails operacionais sempre enviados).
 
-1. Selecione sua campanha inteligente e clique na guia **[!UICONTROL Agendamento]** .
+1. Selecione sua campanha inteligente e clique na guia **[!UICONTROL Agendamento]**.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-1.png)
 
-1. Abra Regras [!UICONTROL de] qualificação e marque a caixa de seleção **[!UICONTROL Bloquear emails]** não operacionais.
+1. Abra [!UICONTROL Regras de qualificação] e marque a caixa de seleção **[!UICONTROL Bloquear e-mails não operacionais]**.
 
    ![Imagem dois](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-2.png)
 
 >[!TIP]
 >
->Para tornar isso o padrão, edite seus limites [de](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits) comunicação na seção Admin.
+>Para tornar isso o padrão, edite seus [limites de comunicação](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits) na seção Admin.
 
 Agora você pode ter certeza de que não está enviando muitos e-mails acidentalmente para sua audiência.
