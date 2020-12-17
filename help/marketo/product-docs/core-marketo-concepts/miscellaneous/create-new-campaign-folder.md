@@ -15,7 +15,7 @@ ht-degree: 0%
 
 As pastas de campanha ajudam você a manter um espaço de trabalho arrumado. Siga estes passos simples e você está a caminho da magia da automação.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,11 +23,11 @@ As pastas de campanha ajudam você a manter um espaço de trabalho arrumado. Sig
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. Selecione **Nova pasta** de campanha.
+1. Selecione **Nova pasta de campanha**.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Digite um **Nome** para a pasta de campanha.
+1. Digite um **Name** para a pasta de campanha.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
@@ -43,7 +43,7 @@ As pastas de campanha ajudam você a manter um espaço de trabalho arrumado. Sig
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Agora, ao [criar um novo programa](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), você verá essa pasta de campanha como uma opção.
+   Agora, quando [criar um novo programa](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), você verá essa pasta de campanha como uma opção.
 
 >[!MORELIKETHIS]
 >
