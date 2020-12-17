@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Prepare-se para o seu Evento {#prepare-for-your-event}
+# Prepare-se para seu Evento {#prepare-for-your-event}
 
 Há várias coisas que você tem que fazer para se preparar para o evento.
 
 ## Criar uma nova função de marketing {#create-a-new-marketo-role}
 
-O Marketo tem uma função de usuário especial para o aplicativo de check-in do evento.  [Crie uma nova função](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) de marketing para usuários de iPad ou Android, com permissão para acessar o aplicativo móvel.
+O Marketo tem uma função de usuário especial para o aplicativo de check-in do evento.  [Crie uma nova ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) função de marketing para usuários de iPad ou Android, com permissão para acessar o aplicativo móvel.
 
 ## Convidar novos usuários do tablet para o Evento {#invite-new-tablet-users-to-the-event}
 
-[Convide novos usuários de tablet para o evento](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) e atribua a eles a nova função.
+[Convide novos usuários de tablet para o ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) evento e atribua a eles a nova função.
 
 ## Criar um novo Programa de Evento de marketing {#create-a-new-marketo-event-program}
 
-[Crie um novo programa](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) de evento de marketing para capturar o status de suas pessoas à medida que elas avançam em diferentes estágios e obtenham medidas precisas do ROI para suas iniciativas de marketing.
+[Crie um novo ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) programa de eventos de marketing para capturar o status de suas pessoas à medida que elas avançam em diferentes estágios e obtenham medidas precisas do ROI para suas iniciativas de marketing.
 
 ## Especificar as datas do Evento {#specify-the-event-dates}
 
@@ -35,7 +35,7 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in do
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Deslize para cima para alterar **Tentativa** para **Confirmada**.
+1. Deslize para alterar **Tentativa** para **Confirmada**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -45,21 +45,21 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in do
 
 ## Adicionar pessoas ao seu Evento {#add-people-to-your-event}
 
-Agora que você sabe o *quando*, é hora de adicionar o *quem*.
+Agora que você conhece o *when*, é hora de adicionar o *who*.
 
-1. Se você já tiver uma lista de pessoas, em Meu Marketo, clique no bloco **Banco de dados** .
+1. Se você já tiver uma lista de pessoas, em Meu Marketo, clique no bloco **Banco de Dados**.
 
    ![](assets/db.png)
 
-1. Selecione uma lista com pessoas e clique na guia **Pessoas** .
+1. Selecione uma lista com pessoas e clique na guia **Pessoas**.
 
    ![](assets/four.png)
 
-1. Selecione as pessoas para seu evento na lista. Use **Ctrl** (ou **Command** em um Mac) para clicar em várias pessoas ou **Selecionar tudo** para marcá-las todas.
+1. Selecione as pessoas para seu evento na lista. Use **Ctrl** (ou **Command** em um Mac) para clicar em várias pessoas, ou **Selecione Tudo** para marcar todas.
 
    ![](assets/five.png)
 
-1. Clique em Ações **da** pessoa, passe o mouse sobre **Programas** e selecione **Alterar status** do Programa.
+1. Clique em **Ações da pessoa**, passe o mouse sobre **Programas** e selecione **Alterar status do Programa**.
 
    ![](assets/six.png)
 
@@ -67,7 +67,7 @@ Agora que você sabe o *quando*, é hora de adicionar o *quem*.
 
    ![](assets/seven.png)
 
-1. Clique na lista suspensa **Novo status** e selecione **Apresentação > Registrada**. Clique em **Executar agora**.
+1. Clique na lista suspensa **Novo status** e selecione **Apresentação de estradas > Registrada**. Clique em **Executar agora**.
 
    ![](assets/eight.png)
 
