@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Adicionar/remover colunas da sua Visualização de palavras-chave {#seo-add-remove-columns-from-your-keywords-view}
+# SEO - Adicionar/remover colunas da Visualização de suas palavras-chave {#seo-add-remove-columns-from-your-keywords-view}
 
 Você pode ajustar a visualização da sua palavra-chave para exibir os dados em que está mais interessado.
 
-1. Vá para a seção **Palavras-chave** .
+1. Vá para a seção **Palavras-chave**.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
