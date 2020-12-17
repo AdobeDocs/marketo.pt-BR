@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Localizar e adicionar Filtros a uma Lista inteligente {#find-and-add-filters-to-a-smart-list}
 
-Depois de [criar uma lista](create-a-smart-list.md)inteligente, é necessário adicionar e [definir](define-smart-list-filters.md) filtros. Veja como encontrar e adicionar filtros.
+Depois de [criar uma lista inteligente](create-a-smart-list.md), é necessário adicionar e [definir](define-smart-list-filters.md) filtros. Veja como encontrar e adicionar filtros.
 
 Neste exemplo, vamos encontrar todas as pessoas na Califórnia com uma pontuação acima de 50.
 
@@ -21,19 +21,19 @@ Neste exemplo, vamos encontrar todas as pessoas na Califórnia com uma pontuaç�
 >
 >Explore a árvore à direita - os filtros são muito poderosos e têm uma grande variedade de funções possíveis.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Selecione a lista inteligente à qual deseja adicionar filtros e clique na guia Lista **** inteligente.
+1. Selecione a lista inteligente à qual deseja adicionar filtros e clique na guia **Lista inteligente**.
 
    ![](assets/two.png)
 
-1. Localize e arraste o filtro **Estado** até a tela de desenho.
+1. Localize e arraste o filtro **Estado** para a tela de desenho.
 
    ![](assets/three.png)
 
-1. Encontre e arraste também o filtro **Pontuação** .
+1. Localize e arraste também o filtro **Pontuação** para cima.
 
    ![](assets/four.png)
 
