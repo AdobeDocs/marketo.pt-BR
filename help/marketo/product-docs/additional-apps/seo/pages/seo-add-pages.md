@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você tem páginas! A SEO do Marketo rastreará automaticamente seu site e os rastreará. Caso tenha perdido alguns, coloque-os no aplicativo SEO desta forma:
 
-1. Vá para a seção **Páginas** .
+1. Vá para a seção **Páginas**.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
@@ -23,13 +23,13 @@ Você tem páginas! A SEO do Marketo rastreará automaticamente seu site e os ra
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Digite os URLs que deseja adicionar. Clique em **ADICIONAR**.
+1. Digite os URLs que deseja adicionar. Clique em **ADD**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
    >[!TIP]
    >
-   >Você sabia que pode [adicionar sua página a uma lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)nova ou existente? Confira!
+   >Você sabia que pode [adicionar sua página a uma lista nova ou existente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Confira!
 
    Pode levar algum tempo para que os dados da página sejam carregados. Aguarde a mensagem de alerta verde e atualize sua página para atualizar a exibição.
    ![](assets/image2014-9-18-12-3a57-3a10.png)
