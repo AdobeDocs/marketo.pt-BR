@@ -17,7 +17,7 @@ Um programa pode ser importado de uma subscrição de marketing para outra. Por 
 
 ## Importar um Programa {#import-a-program-1}
 
-1. Vá para Atividades **de marketing.**
+1. Vá para **Atividades de marketing.**
 
    ![](assets/ma.png)
 
@@ -27,22 +27,22 @@ Um programa pode ser importado de uma subscrição de marketing para outra. Por 
 
    >[!NOTE]
    >
-   >A Importação de programa só está disponível para usuários que têm funções com a permissão Importar Programa ativada. Saiba mais sobre como [gerenciar funções e permissões](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)do usuário.
+   >A Importação de programa só está disponível para usuários que têm funções com a permissão Importar Programa ativada. Saiba mais sobre [como gerenciar funções e permissões do usuário](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
    >
-   >Para conectar uma conta de caixa de proteção à sua subscrição ao vivo, entre em contato com o Suporte [do](http://www.marketo.com/services/support/)Marketo.
+   >Para conectar uma conta de caixa de proteção à sua subscrição ao vivo, entre em contato com [Suporte de marketing](http://www.marketo.com/services/support/).
 
-1. Selecione uma **Subscrição** de marketing e um programa para importar. Clique em **Avançar**.
+1. Selecione uma Subscrição Marketo **e um programa para importar.** Clique em **Próximo**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
-1. Especifique uma pasta **de Campanha** para o programa importado. Clique em **Avançar.**
+1. Especifique uma **Pasta de Campanha** para o programa importado. Clique em **Próximo.**
 
    ![](assets/image2014-9-17-12-3a20-3a44.png)
 
    >[!NOTE]
    >
-   >Verifique se *** ****Usar regras de conflito** padrão está selecionado. As regras de conflito são necessárias quando você importa programas para uma instância que tenham ativos com o mesmo nome.
+   >Verifique se *** ****Usar as regras de conflito** padrão está selecionado. As regras de conflito são necessárias quando você importa programas para uma instância que tenham ativos com o mesmo nome.
 
 1. Detalhes da pré-visualização e **Importar** o programa.
 
@@ -58,7 +58,7 @@ Você receberá uma confirmação por email assim que a importação for conclu�
 >
 >Você precisará reprogramar campanhas em lote importadas e ativar campanhas de disparo. O sistema desativa automaticamente as programações de campanha e aciona campanhas no programa importado.
 
-## Identificar Programas pré-criados na biblioteca de Programas do Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
+## Identificar Programas pré-criados na Biblioteca de Programas do Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
 
 A Biblioteca de Programas do Marketing Cloud contém programas pré-criados e testados que podem ser importados para a sua subscrição. Os programas disponíveis incluem:
 
@@ -77,13 +77,13 @@ A Biblioteca de Programas do Marketing Cloud contém programas pré-criados e te
 1. **Sincronizar novas pessoas com o CRM.** A campanha que sincroniza novas pessoas com seu sistema CRM. Ela atribui um status de pessoa de forma que seja reconhecida como não estando pronta para venda.
 1. **Webinar com adaptador de Evento.** Um conjunto completo de emails - como convites e lembretes - além de landings page com formulários e campanhas para mover pessoas pelo programa. Este programa recebe atualizações sobre inscrição, presença etc. de provedores de eventos online, como WebEx.
 1. **Webinar sem adaptador de Evento.** O mesmo que acima, mas com processos manuais de registro, presença, etc.
-1. **Sirius Decide Pontuar Programa**. Este programa foi criado para suportar o Modelo de Pontuação de Decisões Sirius padrão, incluindo as regras de pontuação implícitas e explícitas e a atribuição de pessoa matrixada. Visualização [neste](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)PDF para obter detalhes.
+1. **Sirius Decide Pontuar Programa**. Este programa foi criado para suportar o Modelo de Pontuação de Decisões Sirius padrão, incluindo as regras de pontuação implícitas e explícitas e a atribuição de pessoa matrixada. Visualização [este PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)para obter detalhes.
 
 >[!CAUTION]
 >
 >Você deve criar dois campos personalizados (&quot;Pontuação demográfica&quot; e &quot;Pontuação de comportamento&quot;) antes de importar o programa Pontuação - Padrão e Selecionar edições.
 
-## Impacto nos ativos externos durante as importações de Programas {#impact-on-external-assets-during-program-imports}
+## Impacto em ativos externos durante importações de Programas {#impact-on-external-assets-during-program-imports}
 
 Os programas usam ativos externos como modelos de e-mail, modelos de landing page, imagens, formulários, tokens e tags de programa. Você pode configurar como os modelos de landing page e as tags de programa são manipulados e o Marketo gerencia automaticamente o restante.
 
@@ -103,8 +103,8 @@ Os programas usam ativos externos como modelos de e-mail, modelos de landing pag
 
 >[!CAUTION]
 >
->Ao importar um programa, landings page/emails que contêm conteúdo [](http://docs.marketo.com/x/yRAt) dinâmico serão ignorados.
+>Ao importar um programa, landings page/emails que contêm [conteúdo dinâmico](http://docs.marketo.com/x/yRAt) serão ignorados.
 
-## Assistir a um vídeo {#watch-a-video}
+## Assista a um vídeo {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
