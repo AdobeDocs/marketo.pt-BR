@@ -35,7 +35,7 @@ Siga estas etapas fáceis para agendar um email.
 
    ![](assets/four-1.png)
 
-1. Agora que a data/hora agendada está selecionada, clique em **Enviar** para agendar o email.
+1. Agora que sua data/hora agendada está selecionada, clique em **Enviar** para agendar o email.
 
    ![](assets/five-1.png)
 
