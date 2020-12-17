@@ -29,5 +29,5 @@ Se você tiver uma campanha de disparo antiga que precisa ser desativada, siga e
 
 >[!NOTE]
 >
->Isso impedirá que *novas* pessoas entrem no fluxo, mas as pessoas em etapas de espera ou qualquer outra etapa do fluxo continuarão se movendo pelo fluxo até que concluído.
+>Isso impedirá que as pessoas *novas* entrem no fluxo, mas as pessoas em etapas de espera ou qualquer outra etapa do fluxo continuarão se movendo pelo fluxo até que concluído.
 
