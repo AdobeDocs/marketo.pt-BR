@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Para arquivar um programa, é necessário movê-lo para uma pasta de arquivamento separada.
 
-1. Crie uma nova pasta de campanha clicando com o botão direito do mouse no mundo do local de trabalho e selecionando **[!UICONTROL Nova pasta]** de campanha.
+1. Crie uma nova pasta de campanha clicando com o botão direito do mouse no globo do local de trabalho e selecionando **[!UICONTROL Nova pasta de campanha]**.
 
    ![Imagem Um](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
@@ -30,7 +30,7 @@ Para arquivar um programa, é necessário movê-lo para uma pasta de arquivament
 
    ![Imagem quatro](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. Clique com o botão direito do mouse na pasta e selecione **[!UICONTROL Converter em pasta]** de arquivamento.
+1. Clique com o botão direito do mouse na pasta e selecione **[!UICONTROL Converter em pasta de arquivamento]**.
 
    ![Imagem cinco](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
@@ -44,12 +44,12 @@ O ícone de pasta será alterado para um gabinete de arquivos, como mostrado aba
 >
 >* Os ativos não estão mais visíveis nos resultados da pesquisa. Se você pesquisar por um programa ou evento que esteja dentro de uma pasta arquivada, os resultados retornarão uma visualização recolhida da pasta arquivada.
 >* Os ativos não aparecem mais na sugestão automática.
->* Modelos arquivados não estão disponíveis ao criar um email ou landing page no [!UICONTROL Design Studio].
+>* Modelos arquivados não estão disponíveis ao criar um email ou landing page em [!UICONTROL Design Studio].
 >* As páginas arquivadas não podem ser usadas em grupos de teste de landing page.
 
 >
 >
-As seguintes funcionalidades **não** são alteradas ao arquivar:
+As seguintes funcionalidades são alteradas **e não** ao arquivar:
 >
 >* A pesquisa global ainda encontra resultados em pastas arquivadas.
 >* Um ativo que está em uso continuará a funcionar mesmo depois de ser arquivado.
