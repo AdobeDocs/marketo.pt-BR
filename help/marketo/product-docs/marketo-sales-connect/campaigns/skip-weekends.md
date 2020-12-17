@@ -27,7 +27,7 @@ Ao automatizar uma campanha, você provavelmente não quer que seus emails saiam
 
    ![](assets/three-2.png)
 
-1. Marque a caixa de seleção **Ignorar finais de semana** .
+1. Marque a caixa de seleção **Ignorar finais de semana**.
 
    ![](assets/four-2.png)
 
