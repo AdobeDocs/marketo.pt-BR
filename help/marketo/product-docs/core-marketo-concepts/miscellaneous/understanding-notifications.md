@@ -25,7 +25,7 @@ As notificações mantêm você atualizado sobre os eventos do sistema que ocorr
 
    ![](assets/image2014-10-10-11-3a55-3a44.png)
 
-## Assinar notificações {#subscribe-to-notifications}
+## Inscrever-se em Notificações {#subscribe-to-notifications}
 
 Você pode assinar notificações para recebê-las em seu email.
 
@@ -43,5 +43,5 @@ Você pode assinar notificações para recebê-las em seu email.
 
 >[!TIP]
 >
->Deseja cancelar a inscrição de emails de notificação? Sem problemas. Basta clicar no link **cancelar a inscrição das Notificações** na parte inferior do email.
+>Deseja cancelar a inscrição de emails de notificação? Sem problemas. Basta clicar no link **cancelar a inscrição de Notificações** na parte inferior do email.
 
