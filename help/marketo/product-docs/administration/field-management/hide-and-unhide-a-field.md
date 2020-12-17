@@ -21,11 +21,11 @@ Se você não tiver mais uso para um campo no Marketo, poderá ocultá-lo da int
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para **Admin** e clique em Gerenciamento **** de campo.
+1. Vá para **Admin** e clique em **Gerenciamento de campo**.
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. Localize o campo, selecione-o e, em Ações **de** campo, clique em **Ocultar campo**.
+1. Localize o campo, selecione-o e, em **Ações de campo**, clique em **Ocultar campo**.
 
    ![](assets/fieldmanagement-hidefield-.png)
 
@@ -42,13 +42,13 @@ Se você não tiver mais uso para um campo no Marketo, poderá ocultá-lo da int
 
    ![](assets/image2014-9-18-13-3a10-3a45.png)
 
-## Mostrar um campo {#unhide-a-field}
+## Mostrar um Campo {#unhide-a-field}
 
-1. Vá para **Admin** e clique em Gerenciamento **** de campo.
+1. Vá para **Admin** e clique em **Gerenciamento de campo**.
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. Localize e selecione o campo e, em Ações **de** campo, clique em **`Unhide Field`**.
+1. Localize e selecione o campo e, em **Ações de campo**, clique em **`Unhide Field`**.
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
