@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Criar um Programa por email](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir uma Audiência com uma Lista](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) inteligente ou [Definir uma Audiência Importando uma Lista](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir uma Audiência com uma ](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista inteligente ao  [definir uma Audiência importando uma Lista](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Escolha um email](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) existente ou [crie um email para um Programa de email](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+* [Escolha um ](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) email existente  [Criar um email para um Programa de email](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 >
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Testar é uma excelente maneira de otimizar seus e-mails para um melhor envolvimento. Aqui está como começar.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -36,7 +36,7 @@ Testar é uma excelente maneira de otimizar seus e-mails para um melhor envolvim
 
    ![](assets/selectemailprogram.jpg)
 
-1. No bloco **Email** , clique em **Adicionar teste** A/B.
+1. No bloco **Email**, clique em **Adicionar teste A/B**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 
@@ -44,11 +44,11 @@ Testar é uma excelente maneira de otimizar seus e-mails para um melhor envolvim
    >
    >Ao adicionar um teste A/B, o e-mail selecionado não estará mais disponível para uso em qualquer outro programa.
 
-1. Uma nova janela será aberta com tipos **de** teste diferentes para serem escolhidos. Explore um dos artigos relacionados abaixo para continuar.
+1. Uma nova janela será aberta com **Tipos de teste** diferentes para serem escolhidos. Explore um dos artigos relacionados abaixo para continuar.
 
    >[!CAUTION]
    >
-   >Se você tiver registros de duplicados em seu banco de dados, esses registros receberão **tanto** o teste quanto os emails vencedores. Para evitar que isso aconteça, verifique se você [encontra e mescla pessoas](http://docs.marketo.com/x/G4EI) duplicados em seu banco de dados.
+   >Se você tiver registros de duplicados em seu banco de dados, esses registros receberão **ambos** os emails de teste e vencedores. Para evitar que isso aconteça, certifique-se de [localizar e unir as pessoas do duplicado](http://docs.marketo.com/x/G4EI) no banco de dados.
 
 >[!NOTE]
 >
