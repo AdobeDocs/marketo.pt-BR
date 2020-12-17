@@ -27,7 +27,7 @@ Os filtros de oportunidade permitem que você detalhe seus clientes potenciais d
 * Oportunidade removida
 * A oportunidade foi atualizada
 
-Se você estiver procurando seus campos de Oportunidade (personalizado ou padrão), use o filtro **Tem oportunidade** ou **Oportunidade foram`[Added/Removed/Updated]`** filtros ou acionadores.
+Se você estiver procurando seus campos de Oportunidade (personalizado ou padrão), use o filtro **Tem oportunidade** ou **A oportunidade foi`[Added/Removed/Updated]`** filtros ou acionadores.
 
 **Número de Opções, Quantia Total de Opções, Receita Total Esperada de Opções**
 
@@ -37,7 +37,7 @@ Com esses filtros, você pode encontrar clientes potenciais com base no número 
 
 **Tem oportunidade, foi adicionada à oportunidade, foi removida da oportunidade**
 
-Se você estiver procurando clientes potenciais que tenham oportunidades com base em uma combinação de critérios, use o filtro **Tem oportunidade**, **Foi adicionado à oportunidade** ou **Foi removido do filtro Oportunidade** . Eles lhe dizem:
+Se você estiver procurando clientes potenciais que tenham oportunidades com base em uma combinação de critérios, use o filtro **Tem oportunidade**, **Foi adicionado à oportunidade** ou **Foi removido do filtro Oportunidade**. Eles lhe dizem:
 
 * **Tem Oportunidade**: Se este cliente potencial tiver uma oportunidade correspondente
 * **Foi adicionado à Oportunidade**: Se esse cliente potencial tiver sido adicionado a uma oportunidade correspondente
@@ -49,7 +49,7 @@ Adicione os critérios de pesquisa como **Restrições** no filtro. As restriç�
 
 ![](assets/image2015-6-11-12-3a31-3a46.png)
 
-Por exemplo, digamos que queiram encontrar clientes potenciais que tenham oportunidades abertas de pelo menos 5.000 dólares. Arraste o filtro **Tem oportunidade** e use as restrições **É fechado** e **Quantia** :
+Por exemplo, digamos que queiram encontrar clientes potenciais que tenham oportunidades abertas de pelo menos 5.000 dólares. Arraste no filtro **Tem oportunidade** e use as restrições **Está fechado** e **Valor**:
 
 ![](assets/image2015-6-11-12-3a32-3a0.png)
 
@@ -65,7 +65,7 @@ Por exemplo, este filtro mostrará todos os clientes potenciais que tiveram sua 
 
 ![](assets/image2015-6-11-12-3a33-3a7.png)
 
-## Disparadores de oportunidade {#opportunity-triggers}
+## Acionadores de oportunidade {#opportunity-triggers}
 
 Os seguintes acionadores de oportunidade estão disponíveis. Eles funcionam exatamente como seus filtros correspondentes (descritos anteriormente), exceto que podem disparar campanhas quando o evento acontece:
 
@@ -77,7 +77,7 @@ Por exemplo, você pode usar essa Lista inteligente para disparar quando qualque
 
 ![](assets/image2015-6-11-12-3a33-3a48.png)
 
-Para acionar seus campos personalizados de oportunidade, use o acionador **Oportunidade Atualizada** e escolha o campo no menu suspenso:
+Para acionar seus campos personalizados de oportunidade, use o acionador **Oportunidade é Atualizada** e selecione o campo no menu suspenso:
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
 
