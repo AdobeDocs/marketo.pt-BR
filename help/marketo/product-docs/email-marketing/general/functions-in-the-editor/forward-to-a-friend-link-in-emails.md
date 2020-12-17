@@ -42,9 +42,9 @@ Por exemplo, digamos que Keith use o link &quot;Encaminhar para o amigo&quot; pa
 
    >[!CAUTION]
    >
-   >Não recomendamos usar a **posição de estilização:relative** no seu modelo de email. Pode criar problemas com a posição e a exibição da caixa &quot;Encaminhar para o amigo&quot;.
+   >Não recomendamos usar o estilo **position:relative** no seu modelo de email. Pode criar problemas com a posição e a exibição da caixa &quot;Encaminhar para o amigo&quot;.
 
-1. Clique em Rascunho **da** Pré-visualização para verificar se o modelo tem a aparência desejada.
+1. Clique em **Rascunho de Pré-visualização** para verificar se o modelo tem a aparência desejada.
 
    ![](assets/four-5.png)
 
@@ -65,11 +65,11 @@ Você também pode adicionar o link &quot;Encaminhar para o amigo&quot; diretame
 
    ![](assets/five-4.png)
 
-1. Coloque o cursor onde deseja que o link apareça e clique no botão **Inserir token** .
+1. Coloque o cursor onde deseja que o link apareça e clique no botão **Inserir token**.
 
    ![](assets/six-2.png)
 
-1. Selecione o **`{{system.forwardToFriendLink}}`** token.
+1. Selecione o token **`{{system.forwardToFriendLink}}`**.
 
    ![](assets/seven-1.png)
 
@@ -81,11 +81,11 @@ Você também pode adicionar o link &quot;Encaminhar para o amigo&quot; diretame
 
    ![](assets/seven-1.png)
 
-1. Recorte o **`{{system.forwardToFriendLink}}`** token usando Ctrl+X (Windows) ou Cmd+X (Mac). Realce &quot;Encaminhar para um amigo&quot; e clique no botão **Inserir/Editar link** .
+1. Recorte o token **`{{system.forwardToFriendLink}}`** usando Ctrl+X (Windows) ou Cmd+X (Mac). Realce &quot;Encaminhar para um amigo&quot; e clique no botão **Inserir/Editar link**.
 
    ![](assets/eight-1.png)
 
-1. Cole o **`{{system.forwardToFriendLink}}`** token na caixa **URL** usando Ctrl/Cmd+V e clique em** Inserir**.
+1. Cole o token **`{{system.forwardToFriendLink}}`** na caixa **URL** usando Ctrl/Cmd+V e clique em** Inserir**.
 
    ![](assets/nine.png)
 
@@ -101,7 +101,7 @@ Você também pode adicionar o link &quot;Encaminhar para o amigo&quot; diretame
 
 Você pode ver quem encaminhou e recebeu os emails no Registro de Atividades da pessoa.
 
-1. Vá para o **`Database`**.
+1. Vá para **`Database`**.
 
    ![](assets/db.png)
 
@@ -109,7 +109,7 @@ Você pode ver quem encaminhou e recebeu os emails no Registro de Atividades da 
 
    ![](assets/fourteen.png)
 
-1. Vá até a guia Log de **Atividades** . Duplo clique em **Recebido e encaminhado para o email** do amigo ou **Enviado para o email** do amigo para ver os detalhes.
+1. Vá para a guia **Log de Atividades**. Clique no duplo **Enviado para o Amigo e-mail** ou **Enviado para o Amigo e-mail** para ver os detalhes.
 
    ![](assets/fifteen.png)
 
@@ -131,16 +131,16 @@ Você pode ver quem encaminhou e recebeu os emails no Registro de Atividades da 
 
    >[!NOTE]
    >
-   >Nós tornaremos a ID **da** pessoa clicável e vincularemos diretamente à pessoa em um patch futuro.
+   >Nós tornaremos a **ID da pessoa** clicável e vincularemos diretamente à pessoa em um patch futuro.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Se o amigo que recebe o encaminhamento for uma pessoa desconhecida, uma nova pessoa será criada com a opção &quot;Encaminhar para o amigo&quot; marcada como a **Fonte** da pessoa.\
-   >Se o e-mail for um ativo local de um programa, o programa será marcado como o Programa **de** aquisição da pessoa.
+   >Se o amigo que recebe o encaminhamento for uma pessoa desconhecida, uma nova pessoa será criada com a opção &quot;Encaminhar para o Amigo&quot; marcada como a **Fonte** da pessoa.\
+   >Se o e-mail for um ativo local de um programa, o programa será marcado como o **Programa de aquisição** da pessoa.
 
-## Acionador ou filtro usando Atividade de encaminhamento {#trigger-or-filter-using-forwarding-activity}
+## Acionar ou filtrar usando a Atividade de encaminhamento {#trigger-or-filter-using-forwarding-activity}
 
 Existem seis acionadores/filtros que você pode usar para acionar ações de fluxo ou filtrar pessoas enviando e recebendo a atividade &quot;Encaminhar para o Amigo&quot;.
 
@@ -148,6 +148,6 @@ Em uma lista inteligente de campanha inteligente, se você pesquisar por &quot;a
 
 ![](assets/nineteen.png)
 
-## Testar encaminhamento para amigo {#test-forward-to-friend}
+## Testar encaminhamento para o amigo {#test-forward-to-friend}
 
-Para testar &quot;Encaminhar para Amigo&quot;, envie um email para você mesmo com o link de encaminhamento. Certifique-se de enviá-lo pela etapa de fluxo de **Enviar e-mail** , *não* por meio do **Enviar e-mail** de teste.
+Para testar &quot;Encaminhar para Amigo&quot;, envie um email para você mesmo com o link de encaminhamento. Certifique-se de enviá-lo pela etapa de fluxo **Enviar email**, *não* por **Enviar email de teste**.
