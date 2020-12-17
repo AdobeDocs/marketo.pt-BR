@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Solicitar Campanha {#request-campaign}
 
-É possível colocar pessoas em uma campanha específica usando a etapa de fluxo único **Solicitar Campanha** .
+Você pode colocar pessoas em uma campanha específica usando a etapa **Solicitar Campanha** de fluxo único.
 
 >[!NOTE]
 >
->A campanha na qual você está colocando a pessoa deve estar ativa e o acionador ** [Campanha é Solicitado](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
+>A campanha na qual você está colocando a pessoa deve estar ativa e ter o acionador ** [Campanha é Solicitada](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
 
 1. No **Banco de Dados**, localize e selecione a(s) pessoa(s) desejada(s).
 
    ![](assets/one-5.png)
 
-1. Clique em Ações **da** pessoa, passe o mouse sobre **Especial** e selecione **Solicitar Campanha**.
+1. Clique em **Ações da pessoa**, passe o mouse sobre **Especial** e selecione **Campanha de solicitação**.
 
    ![](assets/two-5.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-4.png)
 
-1. No canto superior direito da tela, você verá quando terminar. Clique em Resultados da **Visualização**.
+1. No canto superior direito da tela, você verá quando terminar. Clique em **Resultados da Visualização**.
 
    ![](assets/four-4.png)
 
@@ -43,5 +43,5 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Use o **disparador ou filtro Solicitado** para localizar pessoas afetadas por essa etapa de fluxo.
+>Use o acionador ou filtro **Campanha is Requested** para localizar pessoas afetadas por essa etapa de fluxo.
 
