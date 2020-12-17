@@ -24,14 +24,14 @@ Campanhas inteligentes em lote terão apenas filtros na seção lista inteligent
 
 ![Imagem Um](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Clicar na guia **[!UICONTROL Agendamento]** confirmará que a campanha inteligente está definida como &quot;Lote&quot;.
+Clicar na guia **[!UICONTROL Schedule]** confirmará que a campanha inteligente está definida como &quot;Batch&quot;.
 
 ![Imagem dois](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Campanhas inteligentes em lote**
 
 * Pode ser agendado para recorrências, como diário, semanal e mensal. Você também pode fazê-los funcionar apenas uma vez.
-* São visíveis na visualização [do](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View)cronograma do programa.
+* Estão visíveis na visualização [do cronograma do programa](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View).
 * Qualquer coisa depois de uma etapa de &quot;Espera&quot; dentro da campanha inteligente não será incluída na visualização.
 
 ## Acionar Campanha inteligente
@@ -42,15 +42,15 @@ Se uma campanha inteligente usar pelo menos um acionador na seção lista inteli
 
 ![Imagem Três](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Clicar na guia **[!UICONTROL Agendamento]** confirmará que a campanha inteligente está definida como &quot;Acionador&quot;.
+Clicar na guia **[!UICONTROL Schedule]** confirmará que a campanha inteligente está definida como &quot;Trigger&quot;.
 
 ![Imagem quatro](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Acionar Campanhas inteligentes**
 
 * Não pode ser agendado para recursões. Eles só podem ser definidos como ativos ou inativos.
-* É possível definir mais de um acionador. No entanto, se _algum_ acionador for acionado, as ações de campanha serão executadas.
+* É possível definir mais de um acionador. No entanto, se _qualquer_ disparar, as ações de campanha serão executadas.
 
 >[!TIP]
 >
->Use o log [de](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) atividades para ver o que ocorreu passo a passo dentro das campanhas inteligentes. Você pode encontrar o log de atividades na última guia da página de detalhes de uma pessoa.
+>Use o [registro de atividades](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) para ver o que ocorreu passo a passo nas campanhas inteligentes. Você pode encontrar o log de atividades na última guia da página de detalhes de uma pessoa.
