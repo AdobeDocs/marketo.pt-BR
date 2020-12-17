@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Adicionar Google AdWords como um Serviço LaunchPoint {#add-google-adwords-as-a-launchpoint-service}
 
-Vincule sua conta do Google AdWords ao Marketo para fazer upload automático de dados de conversão offline do Marketo para o Google AdWords. Em seguida, na interface do usuário do AdWords, você poderá ver com facilidade quais cliques resultaram em clientes potenciais qualificados, oportunidades e novos clientes (ou quaisquer estágios de receita que deseja rastrear) depois de [adicionar colunas](https://support.google.com/adwords/answer/3073556) personalizadas no AdWords. Essas informações não aparecem na interface do usuário do Marketo.
+Vincule sua conta do Google AdWords ao Marketo para fazer upload automático de dados de conversão offline do Marketo para o Google AdWords. Em seguida, na interface do usuário do AdWords, você poderá ver com facilidade quais cliques resultaram em clientes qualificados de vendas, oportunidades e novos clientes (ou quaisquer estágios de receita que deseja rastrear) depois de adicionar [colunas personalizadas](https://support.google.com/adwords/answer/3073556) no AdWords. Essas informações não aparecem na interface do usuário do Marketo.
 
-Saiba mais sobre o recurso [de importação de conversão offline do](https://support.google.com/adwords/answer/2998031?hl=en)Google.
+Saiba mais sobre o [recurso de importação de conversão offline do Google](https://support.google.com/adwords/answer/2998031?hl=en).
 
 >[!NOTE]
 >
@@ -23,9 +23,9 @@ Saiba mais sobre o recurso [de importação de conversão offline do](https://su
 
 >[!NOTE]
 >
->Você também pode integrar um [Google AdWords como um serviço Launchpoint com uma conta](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)de gerente.
+>Você também pode integrar um [Google AdWords como um serviço do Launchpoint com uma conta de gerente](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
 
-1. Vá para a seção **Admin** .
+1. Vá para a seção **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -33,7 +33,7 @@ Saiba mais sobre o recurso [de importação de conversão offline do](https://su
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecione **Novo** e **Novo serviço**.
+1. Selecione **Novo** e **Novo Serviço**.
 
    ![](assets/image2015-2-23-14-3a54-3a50.png)
 
@@ -57,15 +57,15 @@ Saiba mais sobre o recurso [de importação de conversão offline do](https://su
 
    ![](assets/image2015-2-23-16-3a32-3a45.png)
 
-1. O status será exibido como **Sucesso**. Selecione **Próximo**.
+1. O status será exibido como **Success**. Selecione **Próximo**.
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Carregue suas conversões offline de Marketo para Google AdWords **Semanal **ou **Diariamente**.
+1. Carregue suas conversões offline de Marketo para Google AdWords **Weekly **or **Diariamente**.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
-1. Conversão de atributo para o **Primeiro clique** ou **Último clique**.
+1. Conversão de atributo para **Primeiro clique** ou **Último clique**.
 
    | Tipo | Definição |
    |---|---|
@@ -84,7 +84,7 @@ Saiba mais sobre o recurso [de importação de conversão offline do](https://su
 
    >[!NOTE]
    >
-   >[A marcação](https://support.google.com/adwords/answer/1752125?hl=en) automática deve ser selecionada para que esse recurso funcione. A desativação deve ser feita dentro do AdWords.
+   >[A ](https://support.google.com/adwords/answer/1752125?hl=en) marcação automática deve ser selecionada para que esse recurso funcione. A desativação deve ser feita dentro do AdWords.
 
    >[!NOTE]
    >
