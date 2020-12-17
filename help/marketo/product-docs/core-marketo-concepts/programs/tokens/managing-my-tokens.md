@@ -17,11 +17,11 @@ O uso de tokens pode simplificar seus esforços no Marketo. Você pode usar [Meu
 
 >[!TIP]
 >
->Saiba mais sobre quais tokens já estão disponíveis na Visão geral [de](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)tokens.
+>Saiba mais sobre quais tokens já estão disponíveis em [Visão Geral de Tokens](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
 
 ## Criar um Meu Token {#create-a-my-token}
 
-1. Vá para Atividades **de marketing.**
+1. Vá para **Atividades de marketing.**
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ O uso de tokens pode simplificar seus esforços no Marketo. Você pode usar [Meu
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Selecione um tipo de **Meu token** . Arraste e solte na tela.
+1. Selecione um tipo **Meu token**. Arraste e solte na tela.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -41,13 +41,13 @@ O uso de tokens pode simplificar seus esforços no Marketo. Você pode usar [Meu
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
-   Sim! Você fez um **Meu Token.**
+   Sim! Você fez um **Meu token.**
 
    ![](assets/image2014-9-18-12-3a5-3a15.png)
 
 ## Editar um Meu Token {#edit-a-my-token}
 
-1. Clique com o duplo no **Meu token** e faça as alterações. Clique em **Salvar.**
+1. Clique no duplo **Meu token** e faça as alterações. Clique em **Salvar.**
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -57,7 +57,7 @@ O uso de tokens pode simplificar seus esforços no Marketo. Você pode usar [Meu
 >
 >Ao excluir um Meu token, certifique-se de não estar fazendo referência a ele em nenhum ativo. Um espaço em branco será exibido em qualquer lugar em que for referenciado, se excluído.
 
-1. Clique com o botão direito do mouse em **Meu token.** Selecione **Excluir token.**
+1. Clique com o botão direito do mouse em **Meu token.** Selecione  **Excluir token.**
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
