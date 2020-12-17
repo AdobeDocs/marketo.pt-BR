@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Noções sobre datas não confirmadas/confirmadas {#understanding-tentative-confirmed-dates}
+# Compreensão das datas não confirmadas/confirmadas {#understanding-tentative-confirmed-dates}
 
-Campanhas inteligentes e programas de e-mail têm uma capacidade poderosa de ser marcados como **Provisórios** ou **Confirmados**. É assim que eles funcionam.
+Campanhas inteligentes e programas de e-mail têm um recurso poderoso para ser marcado como **Tentativo** ou **Confirmado**. É assim que eles funcionam.
 
 ## Tentativa {#tentative}
 
@@ -25,7 +25,7 @@ Datas provisórias transmitem intenção. Pense nisso como *lápis *algo no cale
 >
 >Somente campanhas inteligentes em lote e programas de e-mail podem ser preliminares.
 
-## Confirmação de entradas {#confirming-entries}
+## Confirmando entradas {#confirming-entries}
 
 Isso é semelhante à aprovação de um ativo, portanto, as entradas precisam ser totalmente configuradas antes que você possa confirmá-las. Assim que todos os seus patos estiverem em fileira, você poderá confirmar as entradas deslizando a guia tentativa para a direita.
 
@@ -41,9 +41,9 @@ Entradas confirmadas serão executadas definitivamente. Eles têm regras, ativos
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## Concluído  {#finished}
+## {#finished} concluído
 
-As entradas concluídas já foram executadas. Eles só podem estar no passado (obviamente). Depois que uma entrada for executada e **Concluída**, você não poderá movê-la ou torná-la tentativa. (Sem mudar a realidade e interromper o contínuo de fluxo de tempo.)
+As entradas concluídas já foram executadas. Eles só podem estar no passado (obviamente). Depois que uma entrada for executada e for **Concluída**, você não poderá movê-la ou torná-la tentativa. (Sem mudar a realidade e interromper o contínuo de fluxo de tempo.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
