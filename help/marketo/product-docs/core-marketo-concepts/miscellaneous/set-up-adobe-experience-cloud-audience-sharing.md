@@ -23,7 +23,7 @@ Para compartilhar dados de audiência em seus aplicativos de Adobe, você deve p
 
    ![](assets/one-2.png)
 
-1. Em Integração, clique em Compartilhamento **de Audiência de** Experience Cloud.
+1. Em Integração, clique em **Compartilhamento de Audiência de Experience Cloud**.
 
    ![](assets/two-2.png)
 
@@ -31,7 +31,7 @@ Para compartilhar dados de audiência em seus aplicativos de Adobe, você deve p
 
    ![](assets/three-2.png)
 
-1. Digite sua ID organizacional Adobe IMS (saiba como encontrá-la [aqui](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)) e clique em **OK**.
+1. Digite sua ID organizacional Adobe IMS (saiba como localizar [aqui](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)) e clique em **OK**.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,7 @@ Para compartilhar dados de audiência em seus aplicativos de Adobe, você deve p
    >
    >Por motivos de segurança, você deve ser um Administrador de organização para a Organização de Adobe que deseja mapear. Se você não estiver, a ação falhará.
 
-1. Se você *ainda não* estiver conectado, uma pop-up será exibida em uma nova guia/janela. Efetue logon na organização do Adobe (esta ação valida o acesso da organização).
+1. Se você *não* já estiver conectado, um pop-up será exibido em uma nova guia/janela. Efetue logon na organização do Adobe (esta ação valida o acesso da organização).
 
-   E é isso! Agora você pode começar a [compartilhar dados](http://docs.marketo.com/x/ogI6Ag)de audiência.
+   E é isso! Agora você pode começar a [compartilhar dados de audiência](http://docs.marketo.com/x/ogI6Ag).
 
