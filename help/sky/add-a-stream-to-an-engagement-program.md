@@ -18,7 +18,7 @@ Os programas de envolvimento podem conter mais de um fluxo.
 
    ![Imagem Um](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-1.png)
 
-1. Clique na guia **[!UICONTROL Streams]** .
+1. Clique na guia **[!UICONTROL Streams]**.
 
    ![Imagem dois](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-2.png)
 
