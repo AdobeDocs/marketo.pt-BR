@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Uso do feed principal {#using-the-lead-feed}
+# Usando o feed principal {#using-the-lead-feed}
 
 O principal feed é uma lista de eventos interessantes atualizada feita pelos clientes potenciais. Você o encontrará no lado direito ao clicar na guia Marketo. É como um RSS ou feed do Twitter - as atualizações mais recentes estão no topo da lista. Use isto para saltar em pistas enquanto você ainda está fresco em suas mentes.
 
@@ -82,7 +82,7 @@ Você também pode obter atualizações do feed principal por feed RSS.  Um feed
 
 >[!NOTE]
 >
->Seu administrador do empresa Marketo deve [habilitar os feeds](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) RSS para que isso funcione.
+>Seu administrador do empresa Marketo deve [ativar os feeds RSS](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) para que isso funcione.
 
 Para obter atualizações de RSS, você precisará de duas coisas: o link RSS e um leitor de feed RSS. Você pode obter o link RSS clicando no ícone RSS no feed principal:   ![](assets/three.png)
 
