@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Visão geral do centro de comando {#command-center-overview}
+# Visão Geral do Centro de Comando {#command-center-overview}
 
 O Centro de comentários é uma visualização única e unificada que ajuda você a descobrir seu próximo passo, garantindo que nada caiba nas rachaduras.
 
-## Gerenciar e-mails {#manage-emails}
+## Gerenciar emails {#manage-emails}
 
 A seção de email do Centro de comando é onde você pode gerenciar toda a sua atividade de email. Considere isso como sua caixa de saída de email para revisar emails que foram enviados do Sales Connect. Gerencie seus e-mails agendados, veja quem está se relacionando com seus e-mails, verifique se houve problemas com a entrega de e-mails e muito mais.
 
@@ -53,7 +53,7 @@ A seção de e-mail fornece uma visualização de olho em pássaros em todos os 
   <tr> 
    <td title="Cor do fundo : Cinza"><br></td> 
    <td title="Cor do fundo : Cinza">Rascunho</td> 
-   <td title="Cor do fundo : Cinza"><p>Emails que foram salvos como rascunho.<br><strong>Observação:</strong> Somente emails únicos podem ser salvos como rascunhos. Os emails em massa (Selecionar e enviar emails e emails de grupo) não serão salvos como rascunhos.</p></td> 
+   <td title="Cor do fundo : Cinza"><p>Emails que foram salvos como rascunho.<br><strong>Observação: </strong> somente emails únicos podem ser salvos como rascunhos. Os emails em massa (Selecionar e enviar emails e emails de grupo) não serão salvos como rascunhos.</p></td> 
   </tr> 
   <tr> 
    <td title="Cor do fundo : Cinza"><br></td> 
@@ -68,17 +68,17 @@ A seção de e-mail fornece uma visualização de olho em pássaros em todos os 
   <tr> 
    <td title="Cor do fundo : Azul"><br></td> 
    <td title="Cor do fundo : Azul">Rejeitado</td> 
-   <td title="Cor do fundo : Azul"><p>Emails que foram rejeitados do servidor de e-mail de recipient. <br><strong>Observação:</strong> Isso só é detectado se você for um usuário herdado do ToutApp e tiver acesso aos Servidores MSC como um canal de delivery.</p></td> 
+   <td title="Cor do fundo : Azul"><p>Emails que foram rejeitados do servidor de e-mail de recipient. <br><strong>Observação: </strong> isso só é detectado se você for um usuário herdado do ToutApp e tiver acesso aos Servidores MSC como um canal de delivery.</p></td> 
   </tr> 
   <tr> 
    <td title="Cor do fundo : Azul"><br></td> 
    <td title="Cor do fundo : Azul">Spam</td> 
-   <td title="Cor do fundo : Azul"><p>Emails que foram marcados manualmente como spam pelo recipient.<br><strong>Observação:</strong> Isso só é detectado se você for um usuário herdado do ToutApp e tiver acesso aos Servidores MSC como um canal de delivery.</p></td> 
+   <td title="Cor do fundo : Azul"><p>Emails que foram marcados manualmente como spam pelo recipient.<br><strong>Observação: </strong> isso só é detectado se você for um usuário herdado do ToutApp e tiver acesso aos Servidores MSC como um canal de delivery.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Gerenciar Tarefas {#manage-tasks}
+## Gerenciar Tarefa {#manage-tasks}
 
 A seção tarefa é o seu ponto de partida único para gerenciar e concluir tarefas. Aqui você pode gerenciar suas tarefas sem problemas para aumentar a produtividade e se concentrar nos itens mais relevantes.
 
