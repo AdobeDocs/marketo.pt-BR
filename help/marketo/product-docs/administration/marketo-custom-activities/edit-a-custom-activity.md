@@ -19,7 +19,7 @@ Precisa fazer alterações em uma atividade personalizada que você já criou? V
 
    ![](assets/one-1.png)
 
-1. Em Gerenciamento **de** Banco de Dados, clique em Atividades **** Personalizadas.
+1. Em **Gerenciamento de banco de dados**, clique em **Atividades personalizadas**.
 
    ![](assets/two-1.png)
 
@@ -27,7 +27,7 @@ Precisa fazer alterações em uma atividade personalizada que você já criou? V
 
    ![](assets/three-1.png)
 
-1. Clique em Ações **de Atividade** personalizadas e selecione **Editar Atividade**.
+1. Clique em **Ações de Atividade personalizadas** e selecione **Editar Atividade**.
 
    ![](assets/four-1.png)
 
@@ -35,7 +35,7 @@ Precisa fazer alterações em uma atividade personalizada que você já criou? V
 
    ![](assets/five-1.png)
 
-1. Digite suas novas informações e clique em **Enviar**.
+1. Insira suas novas informações e clique em **Enviar**.
 
    ![](assets/six-1.png)
 
