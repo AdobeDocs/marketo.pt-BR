@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Há três seções na guia Visão geral [!UICONTROL do] Programa: **[!UICONTROL Detalhes]**, **[!UICONTROL Programação]** e **[!UICONTROL Relatórios]**. Aqui está uma rápida olhada em cada um.
+Há três seções na guia [!UICONTROL Visão geral do Programa]: **[!UICONTROL Detalhes]**, **[!UICONTROL Agendamento]** e **[!UICONTROL Relatórios]**. Aqui está uma rápida olhada em cada um.
 
 ## Detalhes
 
@@ -22,7 +22,7 @@ A página principal de detalhes exibe informações gerais sobre seu programa.
 
 ![Imagem Um](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Na parte inferior da página estão duas seções: **[!UICONTROL Estatísticas]** do programa e **[!UICONTROL usadas por]**. **[!UICONTROL As Estatísticas]** de programas mostram as métricas principais sobre o desempenho do programa, e **[!UICONTROL Usado por]** é uma maneira fácil de ver onde seu programa está sendo usado no Marketo.
+Na parte inferior da página estão duas seções: **[!UICONTROL Estatísticas do Programa]** e **[!UICONTROL Utilizadas por]**. **[!UICONTROL O]** Status do programa mostra as métricas principais sobre o desempenho do programa, e o  **[!UICONTROL Usado]** por é uma maneira fácil de ver onde seu programa está sendo usado no Marketo.
 
 ![Imagem dois](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
@@ -34,10 +34,10 @@ A visualização do cronograma do programa é um recurso poderoso que permite cr
 
 **Mergulho profundo**
 
-* Saiba como [usar a visualização](/help/sky/navigating-program-schedule-view.md)do cronograma do programa.
+* Saiba como [usar a visualização do cronograma do programa](/help/sky/navigating-program-schedule-view.md).
 
 ## Relatórios
 
-A guia [!UICONTROL Relatórios] mostra as métricas principais sobre o desempenho do seu programa, incluindo tendências e status de associação.
+A guia [!UICONTROL Relatórios] mostra as métricas principais sobre o desempenho do seu programa, incluindo tendências e estatísticas de associação.
 
 ![Imagem quatro](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-4.png)
