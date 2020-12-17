@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Visão geral {#overview}
 
-Normalmente, você usaria regras [de transição de](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) fluxo para conseguir isso, mas se você quiser mover manualmente as pessoas de um fluxo para outro, esta é a etapa de fluxo a ser usada.
+Normalmente, você usaria [regras de transição de fluxo](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para conseguir isso, mas se quiser mover manualmente as pessoas de um fluxo para outro, esta é a etapa de fluxo a ser usada.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
