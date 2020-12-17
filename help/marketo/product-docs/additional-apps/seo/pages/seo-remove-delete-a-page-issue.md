@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Nem todos os problemas de página podem ser úteis para você. Veja como remover um:
 
-1. Vá para a seção **Páginas** .
+1. Vá para a seção **Páginas**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Na seção Páginas, clique em **Problemas**.
+1. Na seção de páginas, clique em **Problemas**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
