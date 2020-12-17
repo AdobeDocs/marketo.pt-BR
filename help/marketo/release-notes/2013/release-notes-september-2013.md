@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notas de versão: Setembro de 2013 {#release-notes-september}
 
-Os seguintes recursos foram incluídos na versão de setembro. Verifique a disponibilidade de recursos do [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Os seguintes recursos foram incluídos na versão de setembro. Verifique sua [Edição de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
 
 Após o lançamento, verifique a guia [Nova versão](release-notes-december-2013.md) na Comunidade para obter artigos detalhados da Base de conhecimento para cada recurso!
 
@@ -49,11 +49,11 @@ Ao enviar uma amostra de email, você pode selecionar o nome de um cliente poten
 
 Configure o subscrição para permitir que os usuários do Marketing somente façam logon por SSO e não pela tela normal de logon
 
-## Varredura de vírus de arquivos carregados {#virus-scan-of-uploaded-files}
+## Verificação de vírus de arquivos carregados {#virus-scan-of-uploaded-files}
 
 Os arquivos carregados no Design Studio agora são automaticamente digitalizados e bloqueados se os arquivos contiverem vírus
 
-## Analisador de influência da oportunidade de exportação {#export-opportunity-influence-analyzer}
+## Analisador de influência de oportunidade de exportação {#export-opportunity-influence-analyzer}
 
 Agora você pode exportar os dados no Analisador de influência de oportunidade para o Excel. Cada arquivo Excel exportado contém todas as interações de marketing para todos os clientes potenciais (incluindo aqueles sem uma função na oportunidade), bem como todas as oportunidades sob a conta selecionada no analisador. As linhas de oportunidade são destacadas em verde. Você pode usar os recursos nativos de filtragem de dados do Excel se precisar se concentrar em clientes potenciais ou atividades de marketing específicos.
 
@@ -69,12 +69,12 @@ A configuração Explícita examinará somente contatos com funções (comportam
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## Informações sobre vendas disponíveis em francês e alemão (somente Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
+## Sales Insight disponível em francês e alemão (somente Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
 
 Baixe a versão mais recente do Marketing to Lead Management e do Marketing to Sales Insight da AppExchange para que seus vendedores franceses e alemães possam ver o conteúdo do Sales Insight em seu idioma preferido.
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 
-## Interface do usuário do Cobalt {#cobalt-user-interface}
+## Interface de usuário cobalta {#cobalt-user-interface}
 
 Nos próximos meses, um novo tema será lançado em diferentes partes da aplicação. Este mês, você poderá notar mais janelas modais azuis novas.
