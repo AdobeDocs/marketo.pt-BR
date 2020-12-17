@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personalizações do Sales Connect para CRM {#sales-connect-customizations-for-crm}
 
-Os campos e botões abaixo são criados pela API Metadados no Salesforce CRM. Depois que os campos são criados, os administradores devem configurar os layouts de página em seu CRM para expô-los. Instruções podem ser encontradas [aqui](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
+Os campos e botões abaixo são criados pela API Metadados no Salesforce CRM. Depois que os campos são criados, os administradores devem configurar os layouts de página em seu CRM para expô-los. As instruções podem ser encontradas [aqui](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Os campos e botões abaixo são criados pela API Metadados no Salesforce CRM. De
 
    ![](assets/two.png)
 
-1. Clique em Personalizações **do Marketing** to Sales Connect.
+1. Clique em **Personalizações do Marketing Connect**.
 
    ![](assets/three.png)
 
@@ -43,7 +43,7 @@ Os campos e botões abaixo são criados pela API Metadados no Salesforce CRM. De
 
 ## Campos de Atividade personalizados {#custom-activity-fields}
 
-O Marketo detectará a criação dos novos campos e, em seguida, fará um preenchimento retroativo único de dados, um novo mapeamento e uma sincronização contínua de valores somente nos **novos** campos. Os campos antigos não serão atualizados.
+O Marketo detectará a criação dos novos campos e, em seguida, fará um preenchimento retroativo único de dados, um novo mapeamento e uma sincronização contínua de valores somente nos campos **new**. Os campos antigos não serão atualizados.
 
 | **Nome do campo** | **Descrição** |
 |---|---|
@@ -61,7 +61,7 @@ O Marketo detectará a criação dos novos campos e, em seguida, fará um preenc
 | URL de email do MSE | Clicar neste URL abrirá o Centro de comando no MSE e puxa a guia do histórico de Visualizações de detalhes de pessoas, onde é possível visualizar o email enviado. |
 | Email do MSE exibido | Registra uma marca de seleção quando o recipient visualização um email. |
 
-## Campos de Registro de Rolagem {#roll-up-logging-fields}
+## Campos de Registro de Roll-Up {#roll-up-logging-fields}
 
 <table> 
  <colgroup> 
@@ -142,5 +142,6 @@ O Marketo detectará a criação dos novos campos e, em seguida, fará um preenc
 
 ## Vídeos relacionados {#related-videos}
 
-**Como instalar personalizações no Salesforce**`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** A vantagem de usar personalizações no Salesforce**
+**Como instalar personalizações no Salesforce**
+`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** A vantagem de usar personalizações no Salesforce** 
 `<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
