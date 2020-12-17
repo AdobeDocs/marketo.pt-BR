@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Criando uma guia personalizada para a página Detalhes da pessoa {#creating-a-custom-tab-for-the-person-detail-page}
+# Criando uma guia personalizada para a página de detalhes da pessoa {#creating-a-custom-tab-for-the-person-detail-page}
 
 Se você encontrar um conjunto específico de campos nos detalhes da pessoa repetidamente, considere criar um layout personalizado para facilitar as coisas.
 
-1. Vá para **Admin** e clique em Gerenciamento **** de campo.
+1. Vá para **Admin** e clique em **Gerenciamento de campo**.
 
    ![](assets/image2014-9-16-16-3a41-3a41.png)
 
-1. Clique na guia Designer **de layout** personalizado.
+1. Clique na guia **Designer de layout personalizado**.
 
    ![](assets/image2014-9-16-16-3a41-3a55.png)
 
