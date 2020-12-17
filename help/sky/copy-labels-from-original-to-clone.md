@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Ao clonar um ativo, você pode copiar todos os rótulos do ativo original. Veja como.
 
-1. Clique com o botão direito do mouse no ativo que deseja clonar na árvore e clique em **[!UICONTROL Clonar]** na lista suspensa.
+1. Clique com o botão direito do mouse no ativo que deseja clonar na árvore e clique em **[!UICONTROL Clonar]** no menu suspenso.
 
    ![Imagem Um](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-1.jpg)
 
-1. Insira as informações do novo ativo clone. Em [!UICONTROL Rótulos], clique em **[!UICONTROL Copiar rótulos do original]**.
+1. Insira as informações do novo ativo clone. Em seguida, em [!UICONTROL Etiquetas], clique em **[!UICONTROL Copiar etiquetas do original]**.
 
    ![Imagem dois](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-2.jpg)
 
@@ -30,4 +30,4 @@ Ao clonar um ativo, você pode copiar todos os rótulos do ativo original. Veja 
 
 >[!NOTE]
 >
->Este é o único local onde você pode copiar etiquetas originais em um ativo clone. Depois que o ativo clone for criado, você só poderá [copiar rótulos do ativo](/help/sky/copy-labels-from-parent-to-child.md)pai.
+>Este é o único local onde você pode copiar etiquetas originais em um ativo clone. Depois que o ativo clone for criado, você só poderá [copiar rótulos do ativo pai](/help/sky/copy-labels-from-parent-to-child.md).
