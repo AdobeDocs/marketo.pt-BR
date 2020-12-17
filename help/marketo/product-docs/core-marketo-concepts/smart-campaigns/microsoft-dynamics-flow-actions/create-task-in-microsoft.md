@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Criar Tarefa na Microsoft {#create-task-in-microsoft}
+# Criar Tarefa no Microsoft {#create-task-in-microsoft}
 
 Como comerciante, você tem informações que podem auxiliar as vendas a fechar negócios. Você pode criar tarefas para informá-los sobre o que eles devem fazer e quando eles devem fazer isso.
 
@@ -19,7 +19,7 @@ Criar Tarefa na Microsoft cria uma tarefa em Atividades relacionadas à Pessoa (
 
 >[!NOTE]
 >
->Essa etapa de fluxo **só funcionará quando usada com acionadores**, não filtros, em sua campanha inteligente.
+>Esta etapa de fluxo **só funcionará quando for usada com acionadores**, não filtros, na sua campanha inteligente.
 
 Por padrão, a etapa de fluxo terá a seguinte aparência:   ![](assets/msd1.png)
 
@@ -35,5 +35,5 @@ Personalize todos os campos para criar a tarefa da maneira que desejar.   ![](as
 
 >[!TIP]
 >
->Você pode usar `{{lead.tokens}}`, `{{company.tokens}}`e `{{campaign.tokens}}` no `{{system.tokens}}` Assunto **e** Descrição ****. Consulte [Tokens para Etapas](http://docs.marketo.com/x/c4AR) de Fluxo para obter mais detalhes.
+>Você pode usar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` nas **Assunto** e **Descrição**. Consulte [Tokens para Etapas de Fluxo](http://docs.marketo.com/x/c4AR) para obter mais detalhes.
 
