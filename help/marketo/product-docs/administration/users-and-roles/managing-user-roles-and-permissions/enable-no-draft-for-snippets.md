@@ -29,19 +29,19 @@ No-Draft é ativado automaticamente para todas as funções de Administrador. Um
 
    ![](assets/usersandroles.png)
 
-1. Vá para a guia **Funções** , selecione uma função e clique em **Editar função**.
+1. Vá para a guia **Funções**, selecione uma função e clique em **Editar função**.
 
    ![](assets/editrole2.png)
 
-1. Expanda a opção **Access Design Studio** .
+1. Expanda a opção **Access Design Studio**.
 
    ![](assets/expanddesignstudio.png)
 
-1. Expanda a opção **Acessar fragmento** .
+1. Expanda a opção **Snippet de acesso**.
 
    ![](assets/expandsnippet.png)
 
-1. Expanda a permissão **Aprovar fragmento** e marque a caixa **Sem rascunho** . Em seguida, clique em **Salvar**.
+1. Expanda a permissão **Aprovar fragmento** e marque a caixa **No-Draft**. Em seguida, clique em **Salvar**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
