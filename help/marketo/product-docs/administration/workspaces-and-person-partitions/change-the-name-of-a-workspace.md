@@ -27,7 +27,7 @@ Os usuários podem alterar o nome de um espaço de trabalho. É bem simples.
 >
 >**Mergulho profundo**
 >
->Compreenda primeiro com [Compreensão de espaços de trabalho e partições](understanding-workspaces-and-person-partitions.md)pessoais.
+>Compreenda primeiro com [Compreensão de espaços de trabalho e partições pessoais](understanding-workspaces-and-person-partitions.md).
 
 1. Em **Admin**, clique em **Espaços de trabalho e partições.**
 
@@ -37,7 +37,7 @@ Os usuários podem alterar o nome de um espaço de trabalho. É bem simples.
 
    ![](assets/two-4.png)
 
-1. Insira um novo **Nome** para a Workspace e clique em **Salvar.**
+1. Digite um novo **Nome** para o Espaço de trabalho e clique em **Salvar.**
 
    ![](assets/three-4.png)
 
