@@ -19,7 +19,7 @@ Ter contatos na página de Pessoas é importante porque é de onde passamos para
 
    ![](assets/one.png)
 
-1. Clique em Ações **do** grupo e selecione **Importar CSV**.
+1. Clique em **Ações do grupo** e selecione **Importar CSV**.
 
    ![](assets/two.png)
 
@@ -33,11 +33,11 @@ Ter contatos na página de Pessoas é importante porque é de onde passamos para
    >
    >Os grupos estão limitados a 1000 contatos.
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/four.png)
 
-1. Mapeie as colunas em seu CSV para seus respectivos campos no Sales Connect. Clique em **Avançar** quando terminar.
+1. Mapeie as colunas em seu CSV para seus respectivos campos no Sales Connect. Clique em **Próximo** quando terminar.
 
    ![](assets/five.png)
 
