@@ -23,12 +23,12 @@ A diferença entre uma Lista estática e inteligente é crucial para entender.
 
 | Tipo | Lógica |
 |---|---|
-| Lista inteligente | Com base em regras **definidas** |
-| Lista estática | Com base na **adição/remoção de cada pessoa** |
+| Lista inteligente | Com base em **regras definidas** |
+| Lista estática | Com base em **adicionar/remover cada pessoa** |
 
 >[!CAUTION]
 >
->Um dos erros mais comuns é pensar que você pode remover uma pessoa de uma lista simplesmente &quot;excluindo a pessoa&quot;. **Isto está errado.** A exclusão da pessoa os excluirá de todo **o banco de dados**, não apenas da lista.
+>Um dos erros mais comuns é pensar que você pode remover uma pessoa de uma lista simplesmente &quot;excluindo a pessoa&quot;. **Isto está errado.** A exclusão da pessoa os excluirá de todo  **o banco de dados**, não apenas da lista.
 
 ## Maneiras de adicionar/remover pessoas de uma Lista {#ways-to-add-remove-people-from-a-list}
 
