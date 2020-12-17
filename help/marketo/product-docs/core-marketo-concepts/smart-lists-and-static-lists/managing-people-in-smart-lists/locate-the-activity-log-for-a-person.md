@@ -23,11 +23,11 @@ O registro de atividades é a fonte definitiva da verdade. Esta é a história c
 
    ![](assets/two-6.png)
 
-1. Clique na guia **Pessoas** . Selecione um número de **ID** de pessoa.
+1. Clique na guia **Pessoas**. Selecione um número de pessoa **Id**.
 
    ![](assets/three-5.png)
 
-1. Clique em Log de **Atividades**.
+1. Clique em **Log de Atividades**.
 
    ![](assets/four-3.png)
 
@@ -40,5 +40,5 @@ O registro de atividades é a fonte definitiva da verdade. Esta é a história c
    >**Artigos relacionados**
    >
    >
-   >Saiba mais sobre como [filtrar o](filter-activity-types-in-the-activity-log-of-a-person.md)log de atividades para ver atividades de pessoas específicas.
+   >Saiba mais sobre [filtrar o registro de atividades](filter-activity-types-in-the-activity-log-of-a-person.md)para ver atividades pessoais específicas.
 
