@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cancelar assinatura do cartão do histórico {#unsubscribe-history-card}
+# Cancelar inscrição no cartão do histórico {#unsubscribe-history-card}
 
 O Cartão de Histórico de Cancelamento de Inscrição ajuda administradores e usuários a obter informações contextuais sobre o histórico de cancelamento de inscrição de seus contatos.
 
