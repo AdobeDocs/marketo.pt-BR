@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notas de versão: Julho de 2013 {#release-notes-july}
 
-Os recursos a seguir estão incluídos na versão de julho, que está agendada para o lançamento da sexta-feira, 26 de julho.  Verifique a disponibilidade de recursos do [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Os recursos a seguir estão incluídos na versão de julho, que está agendada para o lançamento da sexta-feira, 26 de julho.  Verifique sua [Edição de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
 
 Após o lançamento, verifique a guia [Nova versão](release-notes-december-2013.md) na Comunidade para obter os artigos de ajuda detalhados para cada recurso!
 
@@ -29,7 +29,7 @@ Quer parar de enviar e-mails em excesso? Agora é fácil limitar automaticamente
 
 ![](assets/image2014-9-22-16-3a31-3a13.png)
 
-## Interface do usuário do Cobalt {#cobalt-user-interface}
+## Interface de usuário cobalta {#cobalt-user-interface}
 
 Nos próximos meses, você notará mais do nosso novo tema sendo lançado em diferentes partes do aplicativo. Nenhuma funcionalidade será movida ou removida.
 
