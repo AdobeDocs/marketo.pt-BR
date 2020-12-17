@@ -19,7 +19,7 @@ Filtre por período, tipo de ativo, usuários, ação executada e muito mais.
 
    ![](assets/one-1.png)
 
-1. Em **Segurança**, selecione **Trilha** de auditoria.
+1. Em **Security**, selecione **Trilha de auditoria**.
 
    ![](assets/two-1.png)
 
@@ -29,17 +29,17 @@ Filtre por período, tipo de ativo, usuários, ação executada e muito mais.
 
    >[!NOTE]
    >
-   >Há várias combinações possíveis de parâmetros de pesquisa. Neste exemplo, localizamos: *todos os emails - editados por qualquer pessoa - nos últimos sete dias*.
+   >Há várias combinações possíveis de parâmetros de pesquisa. Neste exemplo, localizamos: *todos os emails - editados por qualquer pessoa - nos sete dias anteriores*.
 
-1. Clique na lista suspensa **Período** e selecione **Últimos 7 dias**.
+1. Clique no menu suspenso **Period** e selecione **Últimos 7 dias**.
 
    ![](assets/four.png)
 
-1. Clique no menu suspenso Tipo **de** ativo e selecione **Email**.
+1. Clique na lista suspensa **Tipo de ativo** e selecione **Email**.
 
    ![](assets/five.png)
 
-1. Clique no menu suspenso **Ações** e selecione **Editar**.
+1. Clique na lista suspensa **Ações** e selecione **Editar**.
 
    ![](assets/six.png)
 
