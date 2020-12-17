@@ -25,7 +25,7 @@ Os administradores podem [visualização todas as campanhas](http://docs.marketo
 
 ![](assets/campaigns.jpg)
 
-Os administradores podem [visualização em todas as atividades](http://docs.marketo.com/x/SYAXAQ)de email.
+Os administradores podem [visualização todas as atividades de e-mail](http://docs.marketo.com/x/SYAXAQ).
 
 ![](assets/email-activity.png)
 
