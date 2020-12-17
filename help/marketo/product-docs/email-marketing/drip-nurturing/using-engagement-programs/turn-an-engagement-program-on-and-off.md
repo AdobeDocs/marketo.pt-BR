@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Ligar e desativar um Programa de envolvimento {#turn-an-engagement-program-on-and-off}
+# Ligar e desligar o Programa de envolvimento {#turn-an-engagement-program-on-and-off}
 
 Você pode desativar um programa de envolvimento com o movimento de um interruptor. Isso impedirá que qualquer conteúdo seja enviado. Veja como.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione o programa de envolvimento e clique em **Configurar**.
+1. Selecione o programa de envolvimento e clique em **Setup**.
 
    >[!NOTE]
    >
@@ -27,11 +27,11 @@ Você pode desativar um programa de envolvimento com o movimento de um interrupt
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Clique em Status **do** Programa com o duplo pressionado.
+1. Clique com o duplo **Status do Programa**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Selecione **Desativado** e clique em **Salvar**.
+1. Selecione **Off** e clique em **Salvar**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
