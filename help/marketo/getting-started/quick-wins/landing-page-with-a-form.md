@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## ETAPA 1: Criar um Programa {#step-create-a-program}
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Selecione a pasta **Learning** criada na vitória [rápida](/help/marketo/getting-started/quick-wins/send-an-email.md)anterior.
+1. Selecione a pasta **Learning** criada na [vitória rápida anterior](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Digite um **Nome** de programa, selecione um **Canal** e clique em **Criar**.
+1. Insira um programa **Nome**, selecione um **Canal** e clique em **Criar**.
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Um programa é uma iniciativa de marketing específica. O **canal** deve ser o mecanismo do delivery, como Webinar, Patrocínio ou Anúncio online. Você pode ver diferentes opções de canal no menu suspenso, dependendo do que está disponível em sua própria instância. Você também pode [criar seu próprio canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+   >Um programa é uma iniciativa de marketing específica. O **canal** destina-se a ser o mecanismo de delivery, como Webinar, Patrocínio ou Anúncio online. Você pode ver diferentes opções de canal no menu suspenso, dependendo do que está disponível em sua própria instância. Você também pode [criar seu próprio canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
@@ -51,7 +51,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
 ## ETAPA 2: Criar um formulário {#step-create-a-form}
 
-1. Com o programa selecionado, clique em **Novo** e em **Novo ativo** local.
+1. Com o programa selecionado, clique em **Novo** e em **Novo ativo local**.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
@@ -59,23 +59,23 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
    ![](assets/image2014-9-24-11-3a4-3a42.png)
 
-1. Digite um **Nome** de formulário e clique em **Criar**.
+1. Insira um formulário **Nome** e clique em **Criar**.
 
    ![](assets/image2014-9-24-11-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Verifique se a caixa **Abrir no editor** está marcada. Caso contrário, você precisará clicar na guia **Editar formulário** .
+   >Verifique se a caixa **Abrir no editor** está marcada. Caso contrário, você precisará clicar na guia **Editar formulário**.
 
    >[!TIP]
    >
-   >Não vê o editor de formulários? Seu navegador provavelmente bloqueou a janela. Ative os pop-ups de [app.marketo.com](https://app.marketo.com/) em seu navegador e clique em Editar rascunho na barra de menus superior.
+   >Não vê o editor de formulários? Seu navegador provavelmente bloqueou a janela. Ative os pop-ups de [app.marketo.com](https://app.marketo.com/) no seu navegador e clique em Editar rascunho na barra de menus superior.
 
-1. Selecione o campo Endereço **de** email e marque **É obrigatório**.
+1. Selecione o campo **Endereço de e-mail** e marque **Is Required**.
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2014-9-24-11-3a5-3a44.png)
 
@@ -83,11 +83,11 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
-1. Na seção Página de agradecimento, selecione URL **** externo para **acompanhamento**.
+1. Na seção Página de agradecimento, selecione **URL externo** para **Acompanhamento com**.
 
    ![](assets/image2014-9-24-11-3a6-3a35.png)
 
@@ -97,13 +97,13 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
    >[!NOTE]
    >
-   >A Página de acompanhamento é o local em que o visitante é redirecionado após o preenchimento do formulário. O URL externo é uma opção, mas há mais. Consulte [Definir uma página](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)de agradecimento do formulário.
+   >A Página de acompanhamento é o local em que o visitante é redirecionado após o preenchimento do formulário. O URL externo é uma opção, mas há mais. Consulte [Definir uma página de agradecimento do formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
 
 1. Clique em **Concluir**.
 
    ![](assets/image2014-9-24-11-3a7-3a3.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-24-11-3a7-3a15.png)
 
@@ -113,7 +113,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
 ## ETAPA 3: Crie uma Landing page e adicione seu formulário {#step-create-a-landing-page-and-add-your-form}
 
-1. Com o programa selecionado, clique em **Novo** e em **Novo ativo** local.
+1. Com o programa selecionado, clique em **Novo** e **Novo ativo local**.
 
    ![](assets/image2014-9-24-11-3a7-3a51.png)
 
@@ -121,7 +121,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Insira um **Nome** de página, selecione um modelo e clique em **Criar**.
+1. Insira uma página **Nome**, selecione um modelo e clique em **Criar**.
 
    >[!NOTE]
    >
@@ -133,7 +133,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
    ![](assets/twentyone.png)
 
-1. Localize e selecione o formulário e clique em **Inserir**.
+1. Localize e selecione seu formulário e clique em **Inserir**.
 
    ![](assets/image2014-9-24-11-3a8-3a53.png)
 
@@ -149,7 +149,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
 ## ETAPA 4: Aprovar sua Landing page {#step-approve-your-landing-page}
 
-1. Selecione sua landing page, em Ações **de** Landing page, clique em **Aprovar**.
+1. Selecione sua landing page, em **Ações de Landing page**, clique em **Aprovar**.
 
    >[!NOTE]
    >
@@ -163,7 +163,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
 ## ETAPA 5: Testar seu formulário {#step-test-your-form}
 
-1. Selecione sua landing page e clique em **Visualização da página** aprovada.
+1. Selecione sua landing page e clique em **Visualização página aprovada**.
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
@@ -171,7 +171,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar algum conteúd
 
    ![](assets/image2014-9-24-11-3a10-3a23.png)
 
-1. Vá para a área **Banco de Dados** .
+1. Vá para a área **Banco de Dados**.
 
    ![](assets/db-1.png)
 
