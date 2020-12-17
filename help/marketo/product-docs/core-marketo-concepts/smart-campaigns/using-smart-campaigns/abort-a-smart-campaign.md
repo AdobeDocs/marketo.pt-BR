@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Às vezes você lança uma campanha inteligente e imediatamente percebe que foi um erro. Aqui está como puxar o freio de emergência e parar a campanha inteligente no meio da corrida.
 
-1. Em Atividades **de marketing**, selecione sua campanha inteligente e vá para a guia **Agendamento** .
+1. Em **Atividades de marketing**, selecione sua campanha inteligente e vá para a guia **Agendamento**.
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
@@ -42,10 +42,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Observe a guia **Resultados** da campanha inteligente para ver quais ações ocorreram antes da anulação. Você também encontrará uma [notificação](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) com detalhes adicionais.
+   >Observe a guia **Results** da campanha inteligente para ver quais ações ocorreram antes da anulação. Você também encontrará uma [notificação](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) com detalhes adicionais.
 
    >[!TIP]
    >
-   >Deseja remover uma pessoa do fluxo em uma campanha de disparo? Verifique [Remover do fluxo](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >Deseja remover uma pessoa do fluxo em uma campanha de disparo? Verifique [Remover do Fluxo](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
 Verifique sempre o seu trabalho com o duplo, mas este travão de emergência poderá vir a ser útil no futuro.
