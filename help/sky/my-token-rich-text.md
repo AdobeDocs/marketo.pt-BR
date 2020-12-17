@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Veja como configurar um token Rich Text para usar nas pastas programas e campanhas.
 
-1. Na guia [!UICONTROL Meus tokens] do seu programa ou pasta, arraste um token de **Rich Text** para a tela Tokens  locais.
+1. Na guia [!UICONTROL Meus tokens] do seu programa ou pasta, arraste um token **Rich Text** para a tela [!UICONTROL Tokens locais].
 
    ![Imagem Um](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-1.png)
 
