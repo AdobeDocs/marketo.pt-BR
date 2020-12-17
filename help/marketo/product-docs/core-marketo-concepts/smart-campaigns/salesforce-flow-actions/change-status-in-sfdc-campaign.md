@@ -27,11 +27,11 @@ Se um cliente potencial ainda não existir no Salesforce ou não for membro da c
 
 ## Uso {#usage}
 
-1. Primeiro, localize e selecione a **Campanha** do Salesforce em que o registro está.
+1. Primeiro, localize e selecione a Campanha **Salesforce** em que o registro está.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Em seguida, selecione o **Novo** **status** que deseja definir e pronto!
+1. Em seguida, selecione o **Novo** **Estado** que pretende definir e está pronto!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
 
