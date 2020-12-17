@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Visão geral {#overview}
 
-Se você tiver o [Marketing Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php), você pode usar a etapa de fluxo de Momento **** Interessante para dar à sua equipe de vendas visibilidade sobre as coisas legais que seus funcionários estão fazendo.
+Se você tiver [Marketing to Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php), poderá usar a etapa de fluxo **Interessante Momento** para dar visibilidade à sua equipe de vendas sobre as coisas legais que suas pessoas estão fazendo.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
 ## Uso {#usage}
 
-1. Selecione o **tipo** de momento interessante que deseja usar.
+1. Selecione o momento interessante **type** que deseja usar.
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
