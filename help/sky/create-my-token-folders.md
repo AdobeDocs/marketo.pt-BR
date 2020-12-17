@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Veja como classificar seus Meus Tokens em pastas.
 
-1. Na guia [!UICONTROL Meus tokens] da pasta ou programa da campanha, clique no ícone [!UICONTROL Criar pasta] no canto superior direito.
+1. Na guia [!UICONTROL Meus tokens] da sua pasta ou programa de campanha, clique no ícone [!UICONTROL Criar pasta] no canto superior direito.
 
    ![Imagem Um](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Digite um nome para a nova pasta e selecione Tokens **** locais ou Tokens **** substituídos no menu suspenso de destino. Clique em **[!UICONTROL Salvar]**.
+1. Digite um nome para a nova pasta e selecione **[!UICONTROL Tokens locais]** ou **[!UICONTROL Tokens substituídos]** no menu suspenso de destino. Clique em **[!UICONTROL Salvar]**.
 
    ![Imagem dois](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
