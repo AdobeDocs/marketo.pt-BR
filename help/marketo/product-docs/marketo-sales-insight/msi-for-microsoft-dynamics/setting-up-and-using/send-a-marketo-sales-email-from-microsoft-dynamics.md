@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Sua equipe de vendas pode enviar emails e fazer com que eles sejam rastreados para abrir e clicar diretamente no Microsoft Dynamics. Veja como.
 
-1. Em Dinâmico, vá para a área **Vendas** .
+1. No Dynamics, vá para a área **Sales**.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Selecione uma Visualização **do sistema**.
+1. Selecione uma **Visualização do sistema**.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,7 +27,7 @@ Sua equipe de vendas pode enviar emails e fazer com que eles sejam rastreados pa
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Clique no **...** e, em seguida, clique em **Enviar email** para o Marketo.
+1. Clique em **...**, em seguida, clique em **Enviar e-mail para o comerciante**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
@@ -39,7 +39,7 @@ Sua equipe de vendas pode enviar emails e fazer com que eles sejam rastreados pa
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
-   Você pode clicar em **Enviar e-mail** de teste primeiro e o e-mail será enviado a você (endereço de e-mail principal no Microsoft Dynamics) antes de enviar o e-mail real.
+   Você pode clicar em **Enviar e-mail de teste** primeiro e o e-mail será enviado a você (endereço de e-mail principal no Microsoft Dynamics) antes de enviar o e-mail real.
 
 Muito bem! Agora você sabe como enviar e-mails rastreados do Marketo diretamente do Microsoft Dynamics.
 
