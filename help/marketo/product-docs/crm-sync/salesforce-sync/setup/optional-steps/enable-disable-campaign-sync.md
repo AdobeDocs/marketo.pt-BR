@@ -25,11 +25,11 @@ Essa opção permite que o Marketo sincronize sua associação ao programa e seu
 
    **
 
-1. Clique em **Editar configurações** de sincronização.
+1. Clique em **Editar configurações de sincronização**.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Marque **Ativar sincronização** de Campanha do Salesforce e clique em **SALVAR**.
+1. Marque **Habilitar sincronização de Campanha do Salesforce** e clique em **SALVAR**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
