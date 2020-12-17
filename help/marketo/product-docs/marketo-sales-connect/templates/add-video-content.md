@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Infelizmente, adicionar conteúdo de vídeo a um modelo e fazer com que ele seja reproduzido em linha na mensagem enviada não está disponível no momento.
 
-Entretanto, você pode inserir uma imagem em linha (GIFs incluídos) em seus modelos clicando no botão **Inserir imagem** . Uma sugestão seria inserir uma imagem estática do vídeo desejado, tornando-a clicável ao realçá-la e clicando no ícone de hiperlink para inserir o URL do vídeo.
+No entanto, você pode inserir uma imagem em linha (GIFs incluídos) em seus modelos clicando no botão **Inserir imagem**. Uma sugestão seria inserir uma imagem estática do vídeo desejado, tornando-a clicável ao realçá-la e clicando no ícone de hiperlink para inserir o URL do vídeo.
