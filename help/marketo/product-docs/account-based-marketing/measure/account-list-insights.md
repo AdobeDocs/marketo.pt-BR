@@ -44,15 +44,15 @@ Para ver um painel de conta, basta clicar no seu nome...
 
 ## Guia Contas Nomeadas {#named-accounts-tab}
 
-Clique na guia Contas **** nomeadas para ver quais contas nomeadas pertencem a essa lista de Conta.
+Clique na guia **Contas nomeadas** para ver quais contas nomeadas pertencem a essa lista de Conta.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->Você pode remover uma conta nomeada nesta guia selecionando-a e clicando em **Remover contas** nomeadas.
+>Você pode remover uma conta nomeada nesta guia selecionando-a e clicando em **Remover Contas Nomeadas**.
 
-## Usado por guia {#used-by-tab}
+## Usado pela guia {#used-by-tab}
 
 Clique na guia **Usado por** para ver quais ativos estão fazendo referência a essa Lista de Conta.
 
