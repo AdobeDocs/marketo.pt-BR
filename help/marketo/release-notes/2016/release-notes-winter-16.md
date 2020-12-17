@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Notas de versão: Inverno de 16 {#release-notes-winter}
+# Notas de versão: Inverno &#39;17 {#release-notes-winter}
 
 Os seguintes recursos estão incluídos na versão de inverno de 16. Clique nos links de título para artigos detalhados de visualização para cada recurso.
 
 ## [É Filtro Anônimo](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-O filtro Is Anonymous foi removido para Listas inteligentes. Consulte o documento de perguntas frequentes [sobre o rastreamento Munchkin da](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) próxima geração para obter detalhes. Essa alteração não afeta a Personalização da Web (RTP), que continua a identificar visitantes da Web anônimos e conhecidos e a personalizar o conteúdo em tempo real nesses visitantes.
+O filtro Is Anonymous foi removido para Listas inteligentes. Consulte as Perguntas frequentes sobre o rastreamento Munchkin da próxima geração[ para obter detalhes. ](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) Essa alteração não afeta a Personalização da Web (RTP), que continua a identificar visitantes da Web anônimos e conhecidos e a personalizar o conteúdo em tempo real nesses visitantes.
 
 ## [Painel do banco de dados](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -27,7 +27,7 @@ O banco de dados líder tem um Painel de resumo atualizado que inclui o tamanho 
 
 ## [Microsoft Edge Browser](../../product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Adicionamos o Microsoft Edge à [lista de navegadores](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) suportados pelo Marketo.
+Adicionamos o Microsoft Edge à lista [de navegadores](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) suportada pelo Marketo.
 
 ## [Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
@@ -49,7 +49,7 @@ Para usar esse recurso, o programa de email deve ser agendado com pelo menos 12 
 
 ## [Aprimoramentos de marketing móvel](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Suporte para PhoneGap:** Agora oferta o suporte do PhoneGap para seu aplicativo móvel. [Saiba mais](http://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**Suporte para PhoneGap:** agora oferta o suporte para PhoneGap para seu aplicativo móvel. [Saiba mais](http://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Suporte para aplicativos** Sandbox:
 
@@ -61,7 +61,7 @@ Crie, atualize e clone programas por meio da REST API. Isso não inclui a criaç
 
 ## [Aprimoramentos do Microsoft Dynamics](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-** Status [](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)de sincronização:** Mantenha as guias na saída atual e no backlog do processo de sincronização. Detalhe-o pela contagem de inserções e atualizações por objeto.
+** [Sincronizar status](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):** Mantenha as guias na saída atual e no backlog do processo de sincronização. Detalhe-o pela contagem de inserções e atualizações por objeto.
 
 ![](assets/pending-backog-cropped.png)
 
@@ -77,7 +77,7 @@ Agora você pode criar relações muitas para muitas entre Clientes potenciais/C
 
 ## [Anúncios de venda do Facebook](../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Anúncios](https://www.facebook.com/business/a/lead-ads) principais do Facebook são uma forma mais direta de uma empresa administrar campanhas de geração de leads no Facebook. As pessoas preenchem um formulário para expressar interesse em um produto ou serviço, para que a empresa possa acompanhá-los. A integração do Marketing com os Anúncios de venda do Facebook captura automaticamente as informações fornecidas pelo cliente potencial no formulário Anúncio de venda. As ações de acompanhamento e notificações podem ser automatizadas usando o novo acionador Preencher Anúncios de venda do Facebook.
+[O líder do Facebook ](https://www.facebook.com/business/a/lead-ads) adere uma maneira mais direta de uma empresa administrar campanhas de geração de leads no Facebook. As pessoas preenchem um formulário para expressar interesse em um produto ou serviço, para que a empresa possa acompanhá-los. A integração do Marketing com os Anúncios de venda do Facebook captura automaticamente as informações fornecidas pelo cliente potencial no formulário Anúncio de venda. As ações de acompanhamento e notificações podem ser automatizadas usando o novo acionador Preencher Anúncios de venda do Facebook.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
