@@ -15,12 +15,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->O suplemento .Net não é mais suportado a partir de 19 de maio de 2019. [Clique aqui](http://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) para saber mais.
+>O suplemento .Net não é mais suportado a partir de 19 de maio de 2019. [Clique ](http://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) aqui para saber mais.
 
-1. Clique no menu **Start** .
-1. Encontre **ToutApp** na lista Programas.
+1. Clique no menu **Start**.
+1. Localize **ToutApp** na lista Programas.
 1. Clique nele e escolha **Cancelar registro**.
 1. Navegue até o Painel de controle do Campaign.
 1. Puxe para cima &quot;Adicionar/remover um Programa&quot;.
-1. Selecione ToutApp na lista e escolha **Remover**.
+1. Selecione ToutApp na lista e escolha **Remova**.
 
