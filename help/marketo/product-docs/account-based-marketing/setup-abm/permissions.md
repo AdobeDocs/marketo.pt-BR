@@ -35,7 +35,7 @@ Você precisará configurar permissões para que os usuários possam usar o ABM.
 
    ![](assets/four-1.png)
 
-1. Para selecionar *todas* as permissões, basta marcar a caixa de seleção **Acessar marketing** baseado em conta.
+1. Para selecionar *todas* as permissões, basta marcar a caixa de seleção **Acessar Marketing Baseado em Conta**.
 
    ![](assets/five-1.png)
 
@@ -43,10 +43,10 @@ Você precisará configurar permissões para que os usuários possam usar o ABM.
    >
    >Você também tem a opção de selecionar apenas algumas das opções. Faça isso marcando cada caixa de seleção individualmente.
 
-1. Clique em **+** para abrir o menu Admin de acesso. Marque a caixa de seleção **Access ABM Admin (Acessar administrador** ABM).
+1. Clique em **+** para abrir o menu Admin de acesso. Marque a caixa de seleção **Acessar o ABM Admin**.
 
    ![](assets/six-1.png)\
-   Sua nova função do ABM está pronta para ser [atribuída a um usuário](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)!
+   Sua nova função ABM está pronta para ser [atribuída a um usuário](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)!
 
    ![](assets/seven.png)
 
