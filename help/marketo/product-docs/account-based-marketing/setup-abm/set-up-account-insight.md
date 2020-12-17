@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configurar insight da conta {#set-up-account-insight}
+# Configurar Insight da Conta {#set-up-account-insight}
 
 Veja como configurar o Insight da conta.
 
@@ -23,7 +23,7 @@ Veja como configurar o Insight da conta.
 
    ![](assets/admin-1.png)
 
-1. Clique em **ABM** na árvore e, em seguida, na guia **ABM Sales** .
+1. Clique em **ABM** na árvore e, em seguida, na guia **ABM Sales**.
 
    ![](assets/two-5.png)
 
@@ -37,7 +37,7 @@ Veja como configurar o Insight da conta.
 
    >[!NOTE]
    >
-   >Se as configurações [de Pontuação da](http://docs.marketo.com/display/DOCS/Account+Score) conta forem atualizadas a qualquer momento, a configuração em Vendas ABM precisa ser atualizada por um administrador para garantir que as pontuações reflitam com precisão as preferências do usuário. O usuário precisa fazer logout e login novamente para ver as alterações.
+   >Se [Configurações de Pontuação de Conta](http://docs.marketo.com/display/DOCS/Account+Score) forem atualizadas a qualquer momento, a configuração em Vendas ABM precisa ser atualizada por um Administrador para garantir que as pontuações reflitam com precisão as preferências do usuário. O usuário precisa fazer logout e login novamente para ver as alterações.
 
 1. Clique em **Salvar**.
 
