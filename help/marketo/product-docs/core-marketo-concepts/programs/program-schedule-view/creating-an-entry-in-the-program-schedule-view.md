@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Criação de uma entrada na Visualização do Cronograma do programa {#creating-an-entry-in-the-program-schedule-view}
+# Criando uma entrada na Visualização do Cronograma do programa {#creating-an-entry-in-the-program-schedule-view}
 
 É possível criar entradas a partir da visualização do cronograma do programa para complementar um programa existente.
 
 ## Criar uma entrada básica {#create-a-basic-entry}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu programa. Clique no menu suspenso **Visualização** . Selecione **Agendamento**.
+1. Selecione seu programa. Clique no menu suspenso **Visualização**. Selecione **Agendamento**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a51.png)
 
-## Alterar tipo de entrada {#change-entry-type}
+## Alterar Tipo de Entrada {#change-entry-type}
 
-1. Selecione uma entrada básica na visualização **Agenda** .
+1. Selecione uma entrada básica na visualização **Agenda**.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Selecione o menu suspenso **Tipo** . Escolha um novo tipo de entrada.
+1. Selecione o menu suspenso **Tipo**. Escolha um novo tipo de entrada.
 
    >[!NOTE]
    >
-   >A ação a fazer é uma entrada [](create-custom-entry-types.md)personalizada. Você pode fazer uma ação a fazer e outras entradas personalizadas para ajudar a rastrear itens de agenda que não sejam de marketing.
+   >O item a fazer é uma [entrada personalizada](create-custom-entry-types.md). Você pode fazer uma ação a fazer e outras entradas personalizadas para ajudar a rastrear itens de agenda que não sejam de marketing.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Você também pode criar uma campanha [](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) inteligente ou programa [de](creating-a-new-email-program-in-the-schedule-view.md) email a partir da visualização agendada.
+> Você também pode criar uma [campanha inteligente](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) ou [programa de email](creating-a-new-email-program-in-the-schedule-view.md) a partir da visualização agendada.
 
