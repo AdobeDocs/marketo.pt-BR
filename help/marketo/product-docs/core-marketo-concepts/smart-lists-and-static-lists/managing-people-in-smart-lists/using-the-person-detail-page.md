@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Usando a página Detalhes da pessoa {#using-the-person-detail-page}
+# Usando a Página de Detalhes da Pessoa {#using-the-person-detail-page}
 
 A página de detalhes da pessoa contém todas as informações que Marketo conhece sobre uma pessoa. Você pode editar dados diretamente desta página.
 
@@ -23,10 +23,10 @@ Há muitas maneiras de abrir pessoas específicas. Alguns exemplos estão listad
 >
 >**Exemplo**
 >
->* No **Banco de Dados**, é possível pesquisar na Localização Rápida
->* Qualquer **lista** ou lista inteligente
->* **Guia Membros** de um programa
->* **Membros** da Campanha de visualização em uma Campanha inteligente
+>* No **Banco de Dados**, você pode pesquisar na Localização Rápida
+>* Qualquer lista ou lista inteligente ****
+>* **Tabulação de** membros de um programa
+>* **Visualização** Membros da Campanha em uma Campanha inteligente
 >* Alguns **relatórios**
 
 >
@@ -71,7 +71,7 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## Campos padrão de marketing antes da sincronização do CRM {#marketo-default-fields-prior-to-crm-sync}
+## Campos padrão de marketing antes da sincronização de CRM {#marketo-default-fields-prior-to-crm-sync}
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 >
 >**Mergulho profundo**
 >
->Alguns campos *não* são editáveis:
+>Alguns campos são editáveis *e não*:
 >
 >* Informações de empresa
 >* Oportunidades de Contatos SFDC
@@ -107,7 +107,7 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 
 >
 >
-Saiba mais sobre os Campos [gerenciados pelo](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)sistema.
+Saiba mais sobre [Campos gerenciados pelo sistema](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
