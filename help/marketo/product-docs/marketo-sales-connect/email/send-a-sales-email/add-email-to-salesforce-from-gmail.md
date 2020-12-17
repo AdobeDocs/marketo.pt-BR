@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Adicionar email ao Salesforce permite que você envie todos os emails recebidos no Gmail para sua conta do Salesforce. Fazemos a busca com base no remetente do email, de modo que atualmente só podemos usar esse botão para emails recebidos.
 
-Estamos trabalhando em alterar a funcionalidade para permitir que você registre e-mails que já enviou. Enquanto isso, se não tiver feito o logon automaticamente quando enviado ou aparecer em suas atividades com falha no registro [de](http://toutapp.com/next#settings/crm/salesforce/activity)atividades, você poderá encaminhá-lo para seu endereço de email CCO do [Salesforce.](http://docs.marketo.com/x/soLS)
+Estamos trabalhando em alterar a funcionalidade para permitir que você registre e-mails que já enviou. Enquanto isso, se ele não tiver feito logon automaticamente quando enviado, ou aparecer em suas atividades com falha no [log de atividades](http://toutapp.com/next#settings/crm/salesforce/activity), você poderá encaminhá-lo para seu [endereço de email do Salesforce BCC.](http://docs.marketo.com/x/soLS)
