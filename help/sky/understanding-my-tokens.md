@@ -21,7 +21,7 @@ Meus tokens são variáveis personalizadas que você pode criar e usar em suas p
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-Para acessar e criar Meus tokens, selecione sua pasta programa ou campanha e vá para a guia [!UICONTROL Meus tokens] . Arraste e solte qualquer token na tela Tokens  locais.
+Para acessar e criar Meus tokens, selecione sua pasta programa ou campanha e vá para a guia [!UICONTROL Meus Tokens]. Arraste e solte qualquer token na tela [!UICONTROL Tokens locais].
 
 ![Imagem Um](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-1.png)
 
@@ -41,11 +41,11 @@ Para acessar e criar Meus tokens, selecione sua pasta programa ou campanha e vá
 
 Quando você cria um novo token, ele pode ser referenciado por outros objetos na árvore. É possível substituir variáveis globais em níveis mais baixos na árvore. Há uma estrutura de nomenclatura para a qual o token foi criado para facilitar o gerenciamento.
 
-* **Token local:** O token foi criado diretamente nesse programa ou pasta.
-* **[Token substituído:](/help/sky/override-an-inherited-my-token.md)** O token foi herdado, mas foi feita uma exceção neste programa ou pasta.
-* **Token herdado:** O token foi criado na árvore em algum lugar em um programa ou pasta de nível superior.
+* **Token local:** o token foi criado diretamente nesse programa ou pasta.
+* **[Token substituído:](/help/sky/override-an-inherited-my-token.md)** o token foi herdado, mas foi feita uma exceção neste programa ou pasta.
+* **Token herdado:** o token foi criado na árvore em algum lugar em um programa ou pasta de nível superior.
 
-Você pode encontrar esses três tipos na guia **[!UICONTROL Meus tokens]** em sua pasta programa ou campanha.
+Você pode encontrar esses três tipos na guia **[!UICONTROL Meus tokens]** na pasta programa ou campanha.
 
 ![Imagem dois](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
