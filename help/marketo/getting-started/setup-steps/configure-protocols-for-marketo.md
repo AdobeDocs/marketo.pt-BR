@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# Configurar protocolos para o Marketing {#configure-protocols-for-marketo}
+# Configurar protocolos para Marketo {#configure-protocols-for-marketo}
 
 Seu grupo de marketing está usando o Marketo para criar landings page de campanha com marca e e-mails. Para garantir que essas landings page e emails funcionem, eles precisam de uma pequena ajuda da TI. Configure os seguintes protocolos, com as informações que seu grupo de marketing deve ter enviado por email.
 
@@ -35,16 +35,16 @@ Sua equipe de marketing deve ter enviado duas solicitações para novos registro
 
 `1` **Adicionar CNAME para Landing page**
 
-Adicione o CNAME da landing page que eles enviaram para seu registro DNS, de modo que `[YourLandingPageCNAME]` aponte para a sequência exclusiva de caracteres da conta atribuída às landings page de marketing. Faça logon no site do registrador de domínio e digite a landing page CNAME e a Sequência de caracteres da conta. Normalmente, isso envolve três campos:
+Adicione o CNAME da landing page que eles enviaram para seu registro DNS, de modo que `[YourLandingPageCNAME]` aponte para a sequência de caracteres exclusiva da conta atribuída às landings page de marketing. Faça logon no site do registrador de domínio e digite a landing page CNAME e a Sequência de caracteres da conta. Normalmente, isso envolve três campos:
 
-* Alias: Enter `[YourLandingPageCNAME]` (fornecido pelo marketing)
+* Alias: Digite `[YourLandingPageCNAME]` (fornecido pelo marketing)
 * Tipo: CNAME
-* Aponte para: Enter `[MarketoAccountString].mktoweb.com` (fornecido pelo marketing)
+* Aponte para: Digite `[MarketoAccountString].mktoweb.com` (fornecido pelo marketing)
 
 `2` **Adicionar CNAME para links de Tracking de email**
 
-Adicione o email de marketing CNAME enviado para você, de modo que `[YourEmailCNAME]` aponte para [MktoTrackingLink], o link de rastreamento padrão atribuído pelo Marketo, no formato:\
-`[YourEmailCNAME].[YourDomain].com` NO CNAME `[MktoTrackingLink]`
+Adicione o email de marketing CNAME que lhe enviou, para que `[YourEmailCNAME]` aponte para [MktoTrackingLink], o link de rastreamento padrão atribuído pelo Marketo, no formato:\
+`[YourEmailCNAME].[YourDomain].com` NO CNAME  `[MktoTrackingLink]`
 
 Por exemplo:
 
@@ -91,12 +91,12 @@ Sua equipe de marketing também deve ter enviado informações do DKIM para adic
 
 1. Para o DKIM, crie Registros de recursos de DNS para cada domínio que gostaríamos de configurar. Abaixo estão os Registros do host e os Valores TXT para cada domínio que assinaremos:
 
-   `[DKIMDomain1]`: O Registro de host é `[HostRecord1]` e o Valor TXT é `[TXTValue1]`.
+   `[DKIMDomain1]`: O Registro do host é  `[HostRecord1]` e o Valor TXT é  `[TXTValue1]`.
 
-   `[DKIMDomain2]`: O Registro de host é `[HostRecord2]` e o Valor TXT é `[TXTValue2]`.
+   `[DKIMDomain2]`: O Registro do host é  `[HostRecord2]` e o Valor TXT é  `[TXTValue2]`.
 
    Copie o HostRecord e o TXTValue para cada DKIMDomain que você configurou depois de seguir as [instruções aqui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Não se esqueça de verificar cada domínio em Admin > Email > DKIM depois que sua equipe de TI concluir esta etapa.
 
-## Etapa 4: Configurar registros MX para o seu domínio {#step-set-up-mx-records-for-your-domain}
+## Etapa 4: Configurar registros MX para seu domínio {#step-set-up-mx-records-for-your-domain}
 
 Um registro MX permite que você receba emails para o domínio do qual você está enviando emails para processar respostas e respondedores automáticos. Se você estiver enviando de seu domínio corporativo, provavelmente já está configurado. Caso contrário, você pode configurá-lo para mapear para o registro MX do domínio corporativo.
