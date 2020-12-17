@@ -27,11 +27,11 @@ Precisa alterar o endereço de email, o nome ou o número de telefone da conta? 
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
-1. Selecione **Editar configurações** da conta.
+1. Selecione **Editar configurações da conta**.
 
    ![](assets/image2015-6-23-15-3a21-3a41.png)
 
-1. Faça as edições e clique em **Salvar**.
+1. Faça suas edições e clique em **Salvar**.
 
    ![](assets/image2015-6-23-15-3a20-3a16.png)
 
