@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Uso dos custos do período em um Programa {#using-period-costs-in-a-program}
+# Usando Custos de Período em um Programa {#using-period-costs-in-a-program}
 
-O custo [de um](understanding-period-costs.md) período é a quantia que você gasta em um programa. Pode ser por um ou mais meses e é usado para o ROI do relatórios.
+Um [custo do período](understanding-period-costs.md) é a quantia que você gasta em um programa. Pode ser por um ou mais meses e é usado para o ROI do relatórios.
 
 >[!NOTE]
 >
 >**Mergulho profundo**
 >
-> Saiba mais sobre o [Revenue Cycle Analytics](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+> Saiba mais sobre [Análises do ciclo de receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
-## Adicionar um Custo de Período  {#add-a-period-cost}
+## Adicionar um Custo de Período {#add-a-period-cost}
 
-1. Vá até a guia **Configuração** do seu programa.
+1. Vá para a guia **Setup** do seu programa.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Arraste e solte o Custo **do** Período na tela.
+1. Arraste e solte **Custo do Período** na tela.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
@@ -35,7 +35,7 @@ O custo [de um](understanding-period-costs.md) período é a quantia que você g
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Informe um Custo **do** Período (sem decimais ou vírgulas). Clique em **Salvar**.
+1. Insira um **Custo do Período** (sem decimais ou vírgulas). Clique em **Salvar**.
 
    >[!NOTE]
    >
@@ -58,7 +58,7 @@ O custo [de um](understanding-period-costs.md) período é a quantia que você g
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Clique com o botão direito do mouse em Custo do **Período**. Selecione **Editar**.
+1. Clique com o botão direito do mouse em **Custo do Período**. Selecione **Editar**.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
@@ -68,11 +68,11 @@ O custo [de um](understanding-period-costs.md) período é a quantia que você g
 
 ## Excluir um Custo de Período {#delete-a-period-cost}
 
-1. Vá até a guia **Configuração** do seu programa.
+1. Vá para a guia **Setup** do seu programa.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Clique com o botão direito do mouse em Custo do **Período**. Selecione **Excluir**.
+1. Clique com o botão direito do mouse em **Custo do Período**. Selecione **Eliminar**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
