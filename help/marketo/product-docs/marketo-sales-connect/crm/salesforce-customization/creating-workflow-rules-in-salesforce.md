@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Criação de regras de fluxo de trabalho no Salesforce {#creating-workflow-rules-in-salesforce}
+# Criando regras de fluxo de trabalho no Salesforce {#creating-workflow-rules-in-salesforce}
 
 Ao usar o Marketing Cloud Sales Insight (MSI) e o Markto Sales Connect (MSC) em paralelo, o recurso de Melhores Apostas MSI no Salesforce não será atualizado. Todos os outros recursos MSI funcionam como de costume (exibindo momentos interessantes no iFrame, enviando e-mail, adicionando ao campanha etc.). Este artigo oferta uma solução alternativa para que as Melhores Propostas funcionem novamente.
 
 >[!NOTE]
 >
->Isso só afeta os clientes que estão usando **MSI e MSE, e que desejam usar o recurso Melhores** propostas no MSI. Se você não precisar/usar as Melhores Apostas, poderá ignorar.
+>Isso só afeta os clientes que estão usando **tanto** MSI quanto MSE, e que desejam usar o recurso Melhores propostas no MSI. Se você não precisar/usar as Melhores Apostas, poderá ignorar.
 
 ## Introdução {#getting-started}
 
@@ -33,26 +33,26 @@ Abaixo estão os nomes recomendados das regras de fluxo de trabalho e a descriç
  <tbody> 
   <tr> 
    <td>Atualizar Campo Desc de Momento Interessante</td> 
-   <td><p>Copiar de: Último<br>DescCopy de Envolvimento do Marketing para: Desc do último momento interessante</p></td> 
+   <td><p>Copiar de: Desc. de envolvimento do último marketing<br>Copiar para: Desc do último momento interessante</p></td> 
   </tr> 
   <tr> 
    <td>Atualizar campo Tipo de Momento Interessante</td> 
-   <td><p>Copiar de: Último<br>Tipo de Envolvimento do Marketing para: Último Tipo de Momento Interessante</p></td> 
+   <td><p>Copiar de: Tipo de envolvimento do último marketing<br>Copiar para: Último Tipo de Momento Interessante</p></td> 
   </tr> 
   <tr> 
    <td>Atualizar campo Fonte de Momento Interessante</td> 
-   <td><p>Copiar de: Último<br>Cópia de Envolvimento do Marketing para: Origem do Último Momento Interessante</p></td> 
+   <td><p>Copiar de: Origem do Último Envolvimento do Marketing<br>Copiar para: Origem do Último Momento Interessante</p></td> 
   </tr> 
   <tr> 
    <td>Atualizar campo Data de Momento Interessante</td> 
-   <td><p>Copiar de: Última<br>Data de Envolvimento do Marketing para: Data do Último Momento Interessante</p></td> 
+   <td><p>Copiar de: Data de envolvimento do último marketing<br>Copiar para: Data do Último Momento Interessante</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Instruções {#instructions}
 
-1. Depois de clicar em **Configurar**, procure **Fluxo de trabalho** e selecione Regras **** de fluxo de trabalho.
+1. Depois de clicar em **Configuração**, procure **Fluxo de Trabalho** e selecione **Regras de Fluxo de Trabalho**.
 
    ![](assets/one-1.png)
 
@@ -60,35 +60,35 @@ Abaixo estão os nomes recomendados das regras de fluxo de trabalho e a descriç
 
    ![](assets/two-1.png)
 
-1. Clique na lista suspensa Objeto e selecione **Cliente potencial** e clique em **Avançar**.
+1. Clique na lista suspensa Objeto e selecione **Cliente potencial**, em seguida, clique em **Próximo**.
 
    ![](assets/three-1.png)
 
-1. Digite &quot;Atualizar campo de descrição de momento interessante&quot; como o nome da regra. Selecione o botão de opção **criado e sempre que ele for editado**. Na lista suspensa Critérios da regra, selecione a **fórmula avaliada como true**. Procure e selecione a função ISCHANGED. Em seguida, realce o valor do campo padrão e clique em **Inserir campo**.
+1. Digite &quot;Atualizar campo de descrição de momento interessante&quot; como o nome da regra. Selecione o botão de opção **criado e sempre que ele for editado**. Na lista suspensa Critérios da regra, selecione **fórmula avaliada como true**. Procure e selecione a função ISCHANGED. Em seguida, realce o valor do campo padrão e clique em **Inserir campo**.
 
    ![](assets/four-1.png)
 
-1. No pop-up &quot;Inserir campo&quot;, escolha **Último segmento de marketing para a descrição** de envolvimento e clique em **Inserir**.
+1. No pop-up &quot;Inserir campo&quot;, escolha **Desc de envolvimento do último marketing** e clique em **Inserir**.
 
    ![](assets/five-1.png)
 
-1. Clique em **Salvar e próximo**.
+1. Clique em **Salvar e Próximo**.
 
    ![](assets/6.png)
 
-1. Na lista suspensa Adicionar ação do fluxo de trabalho, selecione **Nova atualização** de campo.
+1. Na lista suspensa Adicionar ação do fluxo de trabalho, selecione **Nova atualização de campo**.
 
    ![](assets/seven.png)
 
-1. No campo Nome, digite &quot;Atualizar campo de descrição de momento interessante&quot; (o nome exclusivo será gerado automaticamente). No menu suspenso Campo para atualizar, escolha Desc. **Último momento interessante**. Selecione o botão de opção **Usar uma fórmula para definir um novo valor** e clique em **Mostrar editor** de fórmulas.
+1. No campo Nome, digite &quot;Atualizar campo de descrição de momento interessante&quot; (o nome exclusivo será gerado automaticamente). Na lista suspensa Campo para atualização, escolha **Desc do último momento interessante**. Selecione o botão de opção **Use uma fórmula para definir um novo valor** e clique em **Mostrar editor de fórmulas**.
 
    ![](assets/eight.png)
 
-1. Clique no botão **Inserir campo** .
+1. Clique no botão **Inserir campo**.
 
    ![](assets/9a.png)
 
-1. Selecione **Último segmento de marketing** e clique em **Inserir**. Na próxima página, clique em **Salvar**.
+1. Selecione **Desc de envolvimento do último marketing** e clique em **Inserir**. Na próxima página, clique em **Salvar**.
 
    ![](assets/nine.png)
 
