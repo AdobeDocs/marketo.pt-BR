@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Pré-visualização seu email após adicionar conteúdo dinâmico para verificá-lo.
 
-1. Selecione seu email e clique em Email **de** Pré-visualização.
+1. Selecione seu email e clique em **Email de Pré-visualização**.
 
    ![](assets/one-3.png)
 
@@ -32,7 +32,7 @@ Pré-visualização seu email após adicionar conteúdo dinâmico para verificá
 
 Você também pode pré-visualização conteúdo dinâmico diretamente no editor de email.
 
-1. Em **Conteúdo**, clique na guia **Dinâmico** .
+1. Em **Content**, clique na guia **Dinâmico**.
 
    ![](assets/five-1.png)
 
