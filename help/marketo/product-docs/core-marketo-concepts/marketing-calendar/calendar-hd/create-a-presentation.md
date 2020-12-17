@@ -29,7 +29,7 @@ Crie uma apresentação para projetar as visualizações e metas do calendário 
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Clique em Ações **de** apresentação e selecione **Nova apresentação**.
+1. Clique em **Ações de apresentação** e selecione **Nova apresentação**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
