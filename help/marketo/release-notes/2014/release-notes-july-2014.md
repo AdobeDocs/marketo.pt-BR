@@ -17,7 +17,7 @@ Os seguintes recursos foram incluídos na versão de julho de 2014. Verifique a 
 
 ## Calendário de marketing {#marketing-calendar}
 
-Veja todos os seus eventos, e-mails e muito mais entre programas. [Este novo produto](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) estará disponível gratuitamente para clientes com 10 ou menos usuários de Gerenciamento líder de mercado ou de diálogo.
+Veja todos os seus eventos, e-mails e muito mais entre programas. [Esse novo ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) produto estará disponível gratuitamente para clientes com 10 ou menos usuários de Gerenciamento líder de mercado ou de diálogo.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -31,13 +31,13 @@ O Gerenciamento líder de marketing será atualizado com uma nova aparência mod
 
 ## Operadores de data {#date-operators}
 
-[Filtros](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) avançados para &quot;no passado antes&quot;, &quot;no futuro&quot; e &quot;no futuro depois&quot;. Por exemplo, localize clientes potenciais que tenham uma data de nascimento nos próximos 3 meses, ou um contrato que expira após 6 meses.
+[Filtros avançados ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) para &quot;no passado antes&quot;, &quot;no futuro&quot; e &quot;no futuro depois&quot;. Por exemplo, localize clientes potenciais que tenham uma data de nascimento nos próximos 3 meses, ou um contrato que expira após 6 meses.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
 ![](assets/image2014-9-22-14-3a24-3a39.png)
 
-## visualização cronograma do programa {#program-schedule-view}
+## visualização do cronograma do programa {#program-schedule-view}
 
 Além do calendário de marketing com o qual você gerencia seus eventos e programas padrão, uma nova visualização de agendamento está localizada diretamente no programa.
 
@@ -56,7 +56,7 @@ Adicionamos as chamadas abaixo relacionadas às operações de lista no ReST. Co
 
 ## Importação de Lista rápida {#fast-list-import}
 
-Mais de **50 vezes mais rápido**, seus arquivos serão ampliados para o Marketo! As antigas opções de importação &quot;Normal&quot; e &quot;Otimizado para novos clientes potenciais&quot; foram substituídas por &quot;Padrão (Importação rápida)&quot;.
+Por mais **50x mais rápido**, seus arquivos serão ampliados para o Marketo! As antigas opções de importação &quot;Normal&quot; e &quot;Otimizado para novos clientes potenciais&quot; foram substituídas por &quot;Padrão (Importação rápida)&quot;.
 
 A opção &quot;Ignorar novos clientes potenciais e atualizações&quot; permanece inalterada.
 
@@ -70,7 +70,7 @@ A implantação será encenada a partir de meados de julho e continuará nos pr�
 
 ## RTP: Templates de campanha de personalização em tempo real {#rtp-real-time-personalization-campaign-templates}
 
-A página Campanha de Conjunto RTP agora [inclui modelos](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)prontos. Escolha entre uma variedade de estilos, incluindo webinars, estudos de caso, ebooks.
+A página Campanha do Conjunto RTP agora [inclui modelos prontos](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Escolha entre uma variedade de estilos, incluindo webinars, estudos de caso, ebooks.
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
@@ -78,7 +78,7 @@ A página Campanha de Conjunto RTP agora [inclui modelos](/help/marketo/product-
 
 ## RTP: Aprimoramentos da API JavaScript {#rtp-javascript-api-enhancements}
 
-Nova chamada à API RTP para obter dados de visitante em tempo real, como organização, setor, localização e correspondência de códigos de segmento. Além disso, passar o mouse sobre um nome de segmento na página Segmentos revelará uma dica de ferramenta que mostra o código de segmento. Consulte nosso site [de](http://developers.marketo.com/documentation/websites/rtp-js-api/) desenvolvedores para obter a documentação completa.
+Nova chamada à API RTP para obter dados de visitante em tempo real, como organização, setor, localização e correspondência de códigos de segmento. Além disso, passar o mouse sobre um nome de segmento na página Segmentos revelará uma dica de ferramenta que mostra o código de segmento. Consulte nosso [site de desenvolvedores](http://developers.marketo.com/documentation/websites/rtp-js-api/) para obter a documentação completa.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
