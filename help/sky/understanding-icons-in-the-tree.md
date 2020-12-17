@@ -20,6 +20,6 @@ Os ícones na árvore podem fornecer muitas informações sobre suas campanhas e
 
 ## Carregamento sob demanda
 
-Um ícone de pasta vazio indica que a pasta contém ativos que não foram modificados dentro do intervalo [de datas](/help/sky/configuring-the-tree.md) selecionado e, portanto, estão ocultos. Para visualização desses ativos, passe o mouse sobre o ícone de pasta, que será alterado para o ícone de atualização mostrado abaixo. Clique em para atualizar e carregar todos os ativos.
+Um ícone de pasta vazio indica que a pasta contém ativos que não foram modificados dentro do [intervalo de datas selecionado](/help/sky/configuring-the-tree.md) e que estão, portanto, ocultos. Para visualização desses ativos, passe o mouse sobre o ícone de pasta, que será alterado para o ícone de atualização mostrado abaixo. Clique em para atualizar e carregar todos os ativos.
 
 ![Imagem dois](/help/sky/assets/tree/understanding-icons-in-the-tree/understanding-icons-in-the-tree-2.png)
