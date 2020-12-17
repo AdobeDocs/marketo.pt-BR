@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Na guia [!UICONTROL Configuração] do seu programa, é possível selecionar um canal, adicionar tags e custos de período e alterar configurações.
+Na guia [!UICONTROL Configuração] do seu programa, você pode selecionar um canal, adicionar tags e custos de período e alterar configurações.
 
 ![Imagem Um](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)
 
@@ -30,7 +30,7 @@ Para alterar o canal do programa, selecione um diferente no menu suspenso na par
 
 ## Adicionar tags
 
-1. Na seção [!UICONTROL Tags] , clique no menu suspenso **[!UICONTROL Atributo]** e escolha um atributo de tag nas opções disponíveis.
+1. Na seção [!UICONTROL Tags], clique no menu suspenso **[!UICONTROL Atributo]** e escolha um atributo de tag nas opções disponíveis.
 
    ![Imagem Três](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
@@ -44,11 +44,11 @@ Para alterar o canal do programa, selecione um diferente no menu suspenso na par
 
 >[!NOTE]
 >
->Saiba como [criar tags de programa no Marketo Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) e disponibilizá-las nas opções suspensas.
+>Saiba como [criar tags de programa no Marketo Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) e disponibilizar as opções no menu suspenso.
 
 ## Adicionar Custos do Período
 
-1. Na seção Custos [!UICONTROL do] Período, selecione um mês, informe um custo e adicione um nome ou descrição abreviados. Clique em **[!UICONTROL Adicionar]**.
+1. Na seção [!UICONTROL Custos do Período], selecione um mês, informe um custo e adicione um nome ou descrição abreviados. Clique em **[!UICONTROL Adicionar]**.
 
    ![Imagem seis](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
@@ -58,6 +58,6 @@ Para alterar o canal do programa, selecione um diferente no menu suspenso na par
 
 ## Alterar configurações
 
-Na seção [!UICONTROL Configurações] , você pode escolher uma campanha CRM para sincronizar (se a subscrição tiver integração CRM) e/ou alterar o comportamento de análise do programa.
+Na seção [!UICONTROL Configurações], você pode escolher uma campanha do CRM para sincronizar (se sua subscrição tiver integração com o CRM) e/ou alterar o comportamento do Analytics para seu programa.
 
 ![Imagem Oito](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)
