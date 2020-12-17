@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Criar e alterar Visualizações para Listas e Listas inteligentes {#create-and-change-views-for-lists-and-smart-list}
+# Criar e alterar Visualizações para Lista e Lista inteligente {#create-and-change-views-for-lists-and-smart-list}
 
 Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que poderia editar essas colunas no conteúdo do seu coração? Veja como.
 
 ## Criar uma Visualização {#create-a-view}
 
-1. Vá para uma lista ou lista inteligente, clique na guia **Pessoas** e clique em **Criar** **Visualização** no menu suspenso **Visualização** .
+1. Vá para uma lista ou lista inteligente, clique na guia **Pessoas** e clique em **Criar** **Visualização** no menu suspenso **Visualização**.
 1. ![](assets/smartlist-createview.png)
 
 1. Nomeie a visualização e localize a coluna que deseja adicionar ou remover.
@@ -30,9 +30,9 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que pode
 
 >[!TIP]
 >
->Para pesquisar rapidamente, use a caixa **Localizar** .
+>Para pesquisar rapidamente, use a caixa **Localizar**.
 
-## Visualizações de comutação {#switch-views}
+## Alternar Visualizações {#switch-views}
 
 1. Clique no menu suspenso **Visualização** e selecione a visualização desejada. Alterne entre o visualização conforme necessário.
 
@@ -44,11 +44,11 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que pode
 
 ## Editar uma Visualização {#edit-a-view}
 
-1. Verifique se a visualização que deseja editar está selecionada no menu suspenso **Visualização** .
+1. Certifique-se de que a visualização que deseja editar esteja selecionada no menu suspenso **Visualização**.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Clique na opção **Editar** .
+1. Clique na opção **Editar**.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -60,7 +60,7 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que pode
 
 ## Excluir uma Visualização {#delete-a-view}
 
-1. Selecione a opção **Editar** para a visualização que deseja excluir do menu suspenso **Visualização** .
+1. Selecione a opção **Editar** para a visualização que deseja excluir do menu suspenso **Visualização**.
 
    ![](assets/smartlist-editcustomview.png)
 
