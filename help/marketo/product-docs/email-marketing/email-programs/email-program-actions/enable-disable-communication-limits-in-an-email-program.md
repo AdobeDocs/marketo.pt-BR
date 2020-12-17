@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Ativar/desativar limites de comunicação em um Programa de email {#enable-disable-communication-limits-in-an-email-program}
 
-Ao executar um programa de email, você pode optar por ignorar ou respeitar os limites [de comunicação de nível de](../../../../product-docs/administration/email-setup/enable-communication-limits.md) administrador [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Aqui está como fazer isso.
+Ao executar um programa de email, você pode optar por ignorar ou respeitar o [limite de comunicação de nível de administrador](../../../../product-docs/administration/email-setup/enable-communication-limits.md) [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Aqui está como fazer isso.
 
 >[!NOTE]
 >
 >**Definição**
 >
->Os limites de comunicação são [definidos na seção](../../../../product-docs/administration/email-setup/enable-communication-limits.md) Admin e ajudam a evitar o envio de emails em excesso para uma pessoa.
+>Os limites de comunicação são [definidos na seção Admin](../../../../product-docs/administration/email-setup/enable-communication-limits.md) e ajudam a evitar o envio de emails em excesso para uma pessoa.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -29,7 +29,7 @@ Ao executar um programa de email, você pode optar por ignorar ou respeitar os l
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Na guia **Configuração** , clique com o duplo do mouse no item de linha de limite de comunicação.
+1. Na guia **Setup**, clique com o duplo no item de linha de limite de comunicação.
 
    ![](assets/blockoperational.png)
 
@@ -37,5 +37,5 @@ Ao executar um programa de email, você pode optar por ignorar ou respeitar os l
 
    ![](assets/ifaperson.jpg)
 
-   Deixar **Bloquear e-mails** não operacionais marcados impedirá o envio do e-mail para qualquer pessoa que recebeu mais e-mails do que as configurações de administrador permitem.
+   Deixar **Bloquear e-mails não operacionais** marcados impedirá o envio do e-mail para qualquer pessoa que recebeu mais e-mails do que as configurações de administrador permitem.
 
