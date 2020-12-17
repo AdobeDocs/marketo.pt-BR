@@ -29,5 +29,5 @@ Siga estas etapas simples para desativar a sincronização do MS Dynamics.
 
    >[!NOTE]
    >
-   >Se você não vir um botão Desativar sincronização em sua instância, entre em contato com o suporte [](http://nation.marketo.com/community/support_solutions)do Marketing.
+   >Se você não vir um botão Desativar sincronização em sua instância, entre em contato com [Suporte de marketing](http://nation.marketo.com/community/support_solutions).
 
