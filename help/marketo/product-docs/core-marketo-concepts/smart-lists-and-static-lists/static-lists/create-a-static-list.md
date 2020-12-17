@@ -15,11 +15,11 @@ ht-degree: 0%
 
 As listas estáticas são um grupo de pessoas que já estão em seu banco de dados. Aqui está como criar um.
 
-1. Ir para **Banco de Dados**.
+1. Vá para **Banco de Dados**.
 
    ![](assets/db.png)
 
-1. Clique na lista suspensa **Nova** e selecione **Nova Lista**.
+1. Clique no menu suspenso **Novo** e selecione **Nova Lista**.
 
    ![](assets/two.png)
 
