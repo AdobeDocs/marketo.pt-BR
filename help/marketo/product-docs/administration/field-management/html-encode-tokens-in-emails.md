@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Codificação de tokens HTML em e-mails {#html-encode-tokens-in-emails}
+# Tokens de codificação HTML em emails {#html-encode-tokens-in-emails}
 
 Ative/desative tokens de empresa e pessoa usados em emails.
 
@@ -29,7 +29,7 @@ Ative/desative tokens de empresa e pessoa usados em emails.
 
    ![](assets/admin.png)
 
-1. Selecione Gerenciamento **de** campos.
+1. Selecione **Gerenciamento de campo**.
 
    ![](assets/two-2.png)
 
@@ -37,7 +37,7 @@ Ative/desative tokens de empresa e pessoa usados em emails.
 
    ![](assets/five.png)
 
-1. Marque a caixa Tokens de codificação **HTML em Emails** para ativar, desmarque para desativar.
+1. Marque a caixa **Tokens de codificação HTML em Emails** para ativar, desmarque para desativar.
 
    ![](assets/six.png)
 
