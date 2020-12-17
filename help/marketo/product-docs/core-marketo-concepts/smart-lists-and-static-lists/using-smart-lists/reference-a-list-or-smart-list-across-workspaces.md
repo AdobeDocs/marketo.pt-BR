@@ -17,11 +17,11 @@ Listas e listas inteligentes podem ser compartilhadas e referenciadas em espaço
 
 >[!NOTE]
 >
->As regras de partição da pessoa se aplicam (listas inteligentes e listas estáticas em um espaço de trabalho mostram apenas pessoas que são membros da lista *e membros* do espaço de trabalho atual).
+>As regras de partição da pessoa se aplicam (listas inteligentes e listas estáticas em um espaço de trabalho mostram apenas as pessoas que são membros dos membros da lista *e* do espaço de trabalho atual).
 
-## Compartilhar uma Lista ou uma Lista inteligente  {#share-a-list-or-smart-list}
+## Compartilhar uma Lista ou Lista inteligente {#share-a-list-or-smart-list}
 
-1. Vá para o **Banco de Dados**.
+1. Vá para **Banco de Dados**.
 
    ![](assets/db-1.png)
 
