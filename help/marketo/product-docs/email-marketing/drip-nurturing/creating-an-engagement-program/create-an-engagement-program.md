@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Você pode usar programas de envolvimento no Marketo para realizar a criação de emails com facilidade.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 1. ![](assets/login-marketing-activities.png)
 
 1. Selecione a pasta na qual deseja criar o programa de envolvimento e clique em **Novo** e **Novo Programa**.
 1. ![](assets/newprogramlifecycle.jpg)
 
-1. Digite um **Nome**, selecione **Envolvimento** para Tipo **de** Programa e clique em **Criar**.
+1. Digite um **Nome**, selecione **Envolvimento** para **Tipo de Programa** e clique em **Criar**.
 1. ![](assets/image2014-9-15-15-3a35-3a32.png)
 
 1. Certo, agora que você tem um programa de noivado, vamos seguir em frente e veste-lo.
