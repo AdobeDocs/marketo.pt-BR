@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Pasta de campanha: Guia Atividade
 
-Encontre informações importantes sobre suas campanhas na guia **[!UICONTROL Atividade]** .
+Encontre informações importantes sobre suas campanhas na guia **[!UICONTROL Atividade]**.
 
 ![Imagem Um](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
