@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Crie um relatório de Desempenho do link de email para ver o desempenho dos links em seus emails.
 
-1. [Crie um relatório em um programa](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione Desempenho **do link de** email como o tipo de relatório.
+1. [Crie um relatório em um ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa e selecione  **Email Link** Performance como o tipo de relatório.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -23,7 +23,7 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. Duplo-clique em **Data da Atividade** em **Configurações**.
+1. Clique com o duplo em **Data da Atividade** em **Configurações**.
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
@@ -39,7 +39,7 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[As colunas disponíveis](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para um relatório de Desempenho do link de email incluem:
+[As colunas ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) disponíveis para um relatório de Desempenho do link de email incluem:
 
 <table> 
  <thead> 
@@ -74,7 +74,7 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
 
 >[!TIP]
 >
->Se quiser saber exatamente o que uma pessoa fez, abra o Log [de](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) Atividades na página Detalhes [da](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) pessoa na guia Membros do programa.
+>Se quiser saber exatamente o que uma pessoa fez, abra o [Log de Atividades](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) na página [Detalhes da pessoa](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) na guia Membros do programa.
 
 >[!MORELIKETHIS]
 >
@@ -89,5 +89,5 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
 >
 >**Mergulho profundo**
 >
->Saiba mais sobre o Relatórios [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+>Saiba mais sobre [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
