@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Atribuir Partições de Pessoa a Espaços de Trabalho {#assign-person-partitions-to-workspaces}
+# Atribuir Partições de Pessoas a Espaços de Trabalho {#assign-person-partitions-to-workspaces}
 
 Veja como editar as atribuições de partição de pessoa / espaço de trabalho:
 
@@ -25,13 +25,13 @@ Veja como editar as atribuições de partição de pessoa / espaço de trabalho:
 
 >[!CAUTION]
 >
->Espaços de trabalho e Partições de pessoa podem ser complexos. Entre em contato com o suporte [da](http://support.marketo.com/) Marketo para obter ajuda sobre como configurá-los.
+>Espaços de trabalho e Partições de pessoa podem ser complexos. Entre em contato com [Suporte ao Marketing](http://support.marketo.com/) para obter ajuda na configuração.
 
 1. Em Admin, clique em Espaços de trabalho e partições.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
-1. Selecione a área de trabalho e clique em **Editar área de trabalho**.
+1. Selecione o espaço de trabalho e clique em **Editar espaço de trabalho**.
 
    ![](assets/two-3.png)
 
@@ -43,7 +43,7 @@ Veja como editar as atribuições de partição de pessoa / espaço de trabalho:
 
    ![](assets/three-3.png)
 
-   As partições de pessoa primária são o padrão onde todos os povos serão inseridos. Use etapas [de](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) fluxo ou regras [de](assigning-person-partitions-with-assignment-rules.md) atribuição para mover as pessoas.
+   As partições de pessoa primária são o padrão onde todos os povos serão inseridos. Use [etapas de fluxo](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou [regras de atribuição](assigning-person-partitions-with-assignment-rules.md) para mover as pessoas.
 
 1. Clique em **Salvar**.
 
@@ -59,5 +59,5 @@ Veja como editar as atribuições de partição de pessoa / espaço de trabalho:
 >
 >**Mergulho profundo**
 >
->[Como entender os espaços de trabalho e as partições](understanding-workspaces-and-person-partitions.md)da pessoa.
+>[Como entender os espaços de trabalho e as partições](understanding-workspaces-and-person-partitions.md) da pessoa.
 
