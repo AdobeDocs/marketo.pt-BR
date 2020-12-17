@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Categorias de mesclagem e remoção de Duplicados {#merge-and-de-duplicate-categories}
+# Mesclar e remover Duplicados Categorias {#merge-and-de-duplicate-categories}
 
 Quando sua conta do Sales Connect é atualizada para a versão mais recente dos Modelos, você pode notar ícones de alerta vermelhos ao lado de algumas de suas categorias de modelo. Isso indica que você tem várias categorias com o mesmo nome. Ao abrir o menu à direita da sua categoria, você pode unir essas categorias de duplicado ao clique de um botão.
 
