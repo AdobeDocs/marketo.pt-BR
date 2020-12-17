@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Personalização de momentos de marketing {#personalizing-marketo-moments}
+# Personalizando momentos de marketing {#personalizing-marketo-moments}
 
 Quando você tem muitos programas de marketing e campanhas inteligentes funcionando, é ótimo ver tudo, mas você pode querer se concentrar apenas no seu próprio trabalho.
 
-Ative **Mostrar somente meus momentos** para exibir somente seus próprios programas de e-mail e campanhas inteligentes.
+Ative **Mostrar apenas os meus momentos** para apresentar apenas os seus próprios programas de correio eletrônico e campanhas inteligentes.
 
 ![](assets/image2015-7-16-15-3a53-3a24.png)
 
