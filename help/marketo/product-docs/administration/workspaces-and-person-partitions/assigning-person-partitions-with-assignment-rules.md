@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Atribuindo Partições de Pessoa com Regras de Atribuição {#assigning-person-partitions-with-assignment-rules}
+# Atribuindo Partições de Pessoas com Regras de Atribuição {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Ao usar partições de pessoa, configure regras de atribuição para rotear as p
 
 ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. Na guia **Partições de pessoas ** **, clique em Regras de** atribuição.
+1. Na guia **Partições de pessoas **s, clique em **Regras de atribuição**.
 
    ![](assets/two-6.png)
 
