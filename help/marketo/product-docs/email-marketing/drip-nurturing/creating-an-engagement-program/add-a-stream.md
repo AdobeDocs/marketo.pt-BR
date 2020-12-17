@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Os programas de envolvimento podem conter mais de um fluxo. Aqui está como adicionar um novo.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione seu programa de envolvimento e clique na guia **Streams** .
+1. Selecione seu programa de envolvimento e clique na guia **Streams**.
 
    ![](assets/streamstablifecycle.jpg)
 
