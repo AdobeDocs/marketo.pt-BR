@@ -31,7 +31,7 @@ Depois de adicionar um teste A/B a um programa de email e definir os critérios 
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Selecione a hora **Enviar teste** .
+1. Selecione a hora **Enviar teste**.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -39,7 +39,7 @@ Depois de adicionar um teste A/B a um programa de email e definir os critérios 
    >
    >Enviar vencedor do teste e enviar vencedor deve ter pelo menos 4 horas de intervalo. No entanto, para envios maiores, você pode esperar 24 horas para permitir tempo suficiente para obter bons resultados.
 
-1. Faça a mesma coisa pelo **Send Winner**. Insira recipient de notificação (opcional) e clique em **Avançar**.
+1. Faça o mesmo para **Enviar vencedor**. Insira recipient de notificação (opcional) e clique em **Próximo**.
 
    >[!NOTE]
    >
@@ -52,12 +52,12 @@ Depois de adicionar um teste A/B a um programa de email e definir os critérios 
 
    >[!NOTE]
    >
-   >Se você escolher declarar um vencedor manualmente, definirá a data/hora de envio **do** relatório em vez de **Finalizar data/hora de envio** .
+   >Se você escolher declarar um vencedor manualmente, definirá **Data/hora do Envio de Relatório** em vez de **Finalizar Envio** data/hora.
 
    Super! Concluído, basta revisar o resumo e clicar em Fechar.
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Você notará que o bloco **Agendamento** foi atualizado.
+   Você notará que o bloco **Schedule** foi atualizado.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
