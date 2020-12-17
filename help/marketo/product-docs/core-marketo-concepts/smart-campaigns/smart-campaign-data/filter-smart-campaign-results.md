@@ -35,7 +35,7 @@ Filtre os resultados da campanha inteligente para ver atividades específicas im
 
 ## Criar um filtro personalizado {#create-a-custom-filter}
 
-1. Clique em **Filtro** e, em seguida, em **Personalizado**.
+1. Clique em **Filtro** e em **Personalizado**.
 
    ![](assets/filterscustom-hands.png)
 
@@ -47,7 +47,7 @@ Filtre os resultados da campanha inteligente para ver atividades específicas im
    >
    >Clique em **Aplicar** para aplicar diretamente um filtro personalizado aos resultados sem salvá-lo.
 
-1. Digite um nome de filtro e clique em **Salvar**.
+1. Insira um nome de filtro e clique em **Salvar**.
 
    ![](assets/saveasfilter-hands.png)
 
