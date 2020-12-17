@@ -18,7 +18,7 @@ As etapas de fluxo informam ao Marketo o que você deseja que aconteça com um g
 
 ## Salvando ações de Fluxo
 
-1. No [!UICONTROL Marketing Atividade], selecione sua campanha inteligente (ou crie uma nova).
+1. Em [!UICONTROL Atividades de marketing], selecione sua campanha inteligente (ou crie uma nova).
 
    ![Imagem Um](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
@@ -32,7 +32,7 @@ As etapas de fluxo informam ao Marketo o que você deseja que aconteça com um g
 
    ![Imagem quatro](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. Quando terminar de adicionar filtros/acionadores, clique no menu suspenso Ações **[!UICONTROL de Campanha]** inteligente e selecione **[!UICONTROL Salvar novo fluxo]**.
+1. Quando terminar de adicionar filtros/acionadores, clique no menu suspenso **[!UICONTROL Ações de Campanha inteligente]** e selecione **[!UICONTROL Salvar novo fluxo]**.
 
    ![Imagem cinco](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
@@ -44,7 +44,7 @@ E você terminou. Na próxima vez que você criar uma campanha inteligente, ter�
 
 ## Uso de ações de fluxo salvas
 
-1. No [!UICONTROL Marketing Atividade], selecione sua campanha inteligente (ou crie uma nova).
+1. Em [!UICONTROL Atividades de marketing], selecione sua campanha inteligente (ou crie uma nova).
 
    ![Imagem sete](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
@@ -52,7 +52,7 @@ E você terminou. Na próxima vez que você criar uma campanha inteligente, ter�
 
    ![Imagem Oito](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. Clique no menu suspenso Fluxos **[!UICONTROL salvos]** .
+1. Clique no menu suspenso **[!UICONTROL Fluxos salvos]**.
 
    ![Imagem Nove](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
