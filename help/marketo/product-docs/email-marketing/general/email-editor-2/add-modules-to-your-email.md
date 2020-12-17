@@ -59,7 +59,7 @@ Há duas maneiras de mover um módulo.
 
    ![](assets/nine-2.png)
 
-1. Clique no ícone de engrenagem e selecione **Mover para cima** ou **Mover para baixo**, dependendo de onde você deseja que o módulo vá.
+1. Clique no ícone de engrenagem e selecione **Mover para cima** ou **Mover para baixo**, dependendo de para onde deseja que o módulo vá.
 
    ![](assets/ten-2.png)
 
