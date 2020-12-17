@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode adicionar clientes potenciais/contatos de forma rápida e fácil ao Marketing Smart campanha diretamente do Microsoft Dynamics. Veja como.
 
-1. Em Dinâmico, vá para a área **Vendas** .
+1. No Dynamics, vá para a área **Sales**.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,7 +27,7 @@ Você pode adicionar clientes potenciais/contatos de forma rápida e fácil ao M
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Clique em** ...** e selecione **Adicionar à Campanha** de marketing.
+1. Clique em** ...** e selecione **Adicionar à Campanha de marketing**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +37,6 @@ Você pode adicionar clientes potenciais/contatos de forma rápida e fácil ao M
 
    >[!NOTE]
    >
-   >Para que a campanha apareça na lista suspensa, use o acionador [**Campanha is Requested** (Solicitada](http://docs.marketo.com/pages/viewpage.action?pageId=7514898)), com o Sales Insight como a fonte, quando configurar a campanha.
+   >Para que a campanha apareça na lista suspensa, use a Campanha [**is Requested** trigger](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), com o Sales Insight como a fonte, quando você configurar a campanha.
 
 E isso é tudo, pessoal! Agora você tem o poder das campanhas inteligentes de marketing em suas mãos diretamente da Dinâmica.
