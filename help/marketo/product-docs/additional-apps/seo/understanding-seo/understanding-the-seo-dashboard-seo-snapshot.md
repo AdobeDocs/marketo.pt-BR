@@ -21,7 +21,7 @@ Para descobrir o que se concentrar para melhorar seus esforços de SEO, use a se
 
 ## Resumo da classificação da palavra-chave {#keyword-rank-summary}
 
-Esta seção mostra como o site é classificado para as [palavras-chave que você está definindo](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Esta seção mostra como o site está classificado para as [palavras-chave que você está definindo como meta](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ Esta seção mostra como o site é classificado para as [palavras-chave que voc�
 
 >[!TIP]
 >
->Você também pode visualização o desempenho de uma lista [](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) específica de palavras-chave. Clique na lista suspensa e selecione a que deseja interessar você.
+>Você também pode visualização o desempenho de uma [lista específica](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de palavras-chave. Clique na lista suspensa e selecione a que deseja interessar você.
 
 Agite! Vamos continuar.
 
