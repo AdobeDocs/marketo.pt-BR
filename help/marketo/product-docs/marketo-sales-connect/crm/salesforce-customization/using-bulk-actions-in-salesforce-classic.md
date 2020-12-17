@@ -25,11 +25,11 @@ Saiba como executar ações em massa, como adicionar clientes potenciais a uma c
 
 ## Email em massa {#bulk-email}
 
-1. No Salesforce, clique na guia **Clientes** e, em seguida, no botão **Ir** .
+1. No Salesforce, clique na guia **Clientes potenciais** e, em seguida, no botão **Ir**.
 
    ![](assets/one-5.png)
 
-1. Escolha os clientes potenciais desejados e clique no botão **Email com MSC (Clássico)** .
+1. Escolha os clientes potenciais desejados e clique no botão **Enviar por email com MSC (Clássico)**.
 
    ![](assets/two-5.png)
 
@@ -45,29 +45,29 @@ Saiba como executar ações em massa, como adicionar clientes potenciais a uma c
 
 ## Adicionar à Campanha {#add-to-campaign}
 
-1. No Salesforce, clique na guia **Clientes** e, em seguida, no botão **Ir** .
+1. No Salesforce, clique na guia **Clientes potenciais** e, em seguida, no botão **Ir**.
 
    ![](assets/four-3.png)
 
-1. Escolha os clientes potenciais desejados e clique no botão **Adicionar à Campanha MSC (Clássica)** .
+1. Escolha os clientes potenciais desejados e clique no botão **Adicionar à Campanha MSC (Clássica)**.
 
    ![](assets/five-3.png)
 
-1. Um pop-up &quot;Adicionar pessoas à sua Campanha&quot; será exibido. Clique em **Avançar** e percorra o fluxo de campanha típico para acionar uma campanha do MSC.
+1. Um pop-up &quot;Adicionar pessoas à sua Campanha&quot; será exibido. Clique em **Avançar** e percorra o fluxo de campanha típico para acionar uma campanha MSC.
 
    ![](assets/six.png)
 
 ## Encaminhar para o Marketing Sales Connect {#push-to-marketo-sales-connect}
 
-1. No Salesforce, clique na guia **Clientes** e, em seguida, no botão **Ir** .
+1. No Salesforce, clique na guia **Clientes potenciais** e, em seguida, no botão **Ir**.
 
    ![](assets/seven-1.png)
 
-1. Escolha os clientes potenciais desejados e clique no botão **Enviar para MSC (Clássico)** .
+1. Escolha os clientes potenciais desejados e clique no botão **Enviar para MSC (Clássico)**.
 
    ![](assets/eight-1.png)
 
-1. Uma nova guia chamada &quot;Salesforce Bridge&quot; será aberta. Clique no botão **Prosseguir para o Grupo** .
+1. Uma nova guia chamada &quot;Salesforce Bridge&quot; será aberta. Clique no botão **Prosseguir para Grupo →**.
 
    ![](assets/nine-1.png)
 
