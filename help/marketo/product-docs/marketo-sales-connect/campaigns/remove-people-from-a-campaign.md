@@ -21,7 +21,7 @@ Além disso, você pode remover pessoas da própria campanha, remover pessoas de
 
 ## Remover uma pessoa diretamente de uma Campanha {#remove-a-person-directly-from-a-campaign}
 
-1. No Sales Connect, clique na guia **Campanha** .
+1. No Sales Connect, clique na guia **Campanha**.
 
    ![](assets/one.png)
 
@@ -43,7 +43,7 @@ Além disso, você pode remover pessoas da própria campanha, remover pessoas de
 
 ## Remover uma pessoa de uma Campanha na página Pessoas {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. No Sales Connect, clique na guia **Pessoas** .
+1. No Sales Connect, clique na guia **Pessoas**.
 
    ![](assets/one-a.png)
 
@@ -51,13 +51,13 @@ Além disso, você pode remover pessoas da própria campanha, remover pessoas de
 
    ![](assets/two-a.png)
 
-1. O painel Visualização Detalhes da pessoa é aberto à direita. Clique na guia **Histórico** seguida pelo botão **Remover** .
+1. O painel Visualização Detalhes da pessoa é aberto à direita. Clique na guia **Histórico** seguida pelo botão **Remover**.
 
    ![](assets/three-a.png)
 
 ## Remover um grupo de pessoas de uma Campanha {#remove-a-group-of-people-from-a-campaign}
 
-1. No Sales Connect, clique na guia **Pessoas** .
+1. No Sales Connect, clique na guia **Pessoas**.
 
    ![](assets/one-b.png)
 
