@@ -21,11 +21,11 @@ Marketo cancela automaticamente os duplicados quando novas pessoas entram no sis
 
 >[!PREREQUISITES]
 >
->Encontrar e mesclar duplicados envolverá o uso de listas [inteligentes](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)incorporadas/do sistema.
+>Encontrar e mesclar duplicados envolverá o uso de [listas inteligentes do sistema / incorporadas](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
 ## Localizar Duplicados {#find-duplicates}
 
-1. Vá para a área **Banco de Dados** .
+1. Vá para a área **Banco de Dados**.
 
    ![](assets/db.png)
 
@@ -33,19 +33,19 @@ Marketo cancela automaticamente os duplicados quando novas pessoas entram no sis
    >
    >A mesclagem de pessoas no Marketo pode não funcionar se você usar uma conta pessoal do Salesforce. Por favor, mescle os registros no Salesforce, se possível.
 
-1. Selecione a lista inteligente do sistema **Possíveis** **Duplicados** e clique na guia **Pessoas** .
+1. Selecione a lista inteligente do sistema **Possível** **Duplicados** e clique na guia **Pessoas**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Você também pode [Localizar pessoas do Duplicado com lógica](find-duplicate-people-with-custom-logic.md)personalizada.
+   >Você também pode [Localizar pessoas do Duplicado com lógica personalizada](find-duplicate-people-with-custom-logic.md).
 
 ## Unir pessoas manualmente {#merge-people-manually}
 
 >[!CAUTION]
 >
->Ao mesclar pessoas, se a pessoa perdedora tiver um objeto personalizado Marketo, ele **não** será associado novamente à pessoa vencedora. Recoloque o objeto personalizado antes de executar a mesclagem.
+>Ao unir pessoas, se a pessoa perdedora tiver um objeto personalizado Marketo, **e não** será reassociada à pessoa vencedora. Recoloque o objeto personalizado antes de executar a mesclagem.
 
 Selecione os duplicados mantendo Ctrl/Cmd pressionado e clicando em e, em seguida, em Mesclar pessoas.
 ![](assets/three.png)
@@ -54,7 +54,7 @@ Selecione os duplicados mantendo Ctrl/Cmd pressionado e clicando em e, em seguid
 >
 >Você pode ter dois ou mais duplicados para a mesma pessoa - selecione-os todos ao mesmo tempo.
 
-1. Você verá os valores entre os registros que *não* correspondem. Selecione o valor que deseja manter para cada campo. Clique em **Mesclar** quando concluído. Se você não quiser nenhum dos valores, marque **Personalizado** e insira um valor de sua escolha.
+1. Você verá os valores entre os registros que *não* correspondem. Selecione o valor que deseja manter para cada campo. Clique em **Unir** quando terminar. Se não quiser nenhum dos valores, você pode marcar **Personalizado** e inserir um valor de sua escolha.
 
    ![](assets/four.png)
 
