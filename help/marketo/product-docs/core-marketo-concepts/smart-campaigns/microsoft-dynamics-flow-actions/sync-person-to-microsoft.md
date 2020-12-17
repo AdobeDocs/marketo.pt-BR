@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sincronizar Pessoa com a Microsoft {#sync-person-to-microsoft}
+# Sincronizar Pessoa com o Microsoft {#sync-person-to-microsoft}
 
 Este recurso é somente para aqueles que integram o Marketo ao Microsoft Dynamics.
 
