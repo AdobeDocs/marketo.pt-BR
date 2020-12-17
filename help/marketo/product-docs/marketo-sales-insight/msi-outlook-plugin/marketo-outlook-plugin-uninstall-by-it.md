@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Desinstalação do plug-in do Marketo Outlook por TI {#marketo-outlook-plugin-uninstall-by-it}
+# Desinstalação do plug-in do Marketo Outlook por IT {#marketo-outlook-plugin-uninstall-by-it}
 
 Veja como a TI pode desinstalar remotamente o plug-in do Marketo Outlook.
 
@@ -41,4 +41,4 @@ Para especificar um local dos arquivos de log, você pode especificar o caminho 
 >
 >Desinstalar o plug-in remotamente fechará o Outlook com força na máquina do usuário.
 
-Consulte a lista completa de switches [da](https://support.microsoft.com/en-us/kb/227091) Microsoft se você quiser tentar níveis de log ou níveis de interface do usuário diferentes.
+Consulte [a lista completa de switches](https://support.microsoft.com/en-us/kb/227091) da Microsoft se desejar experimentar níveis de log ou níveis de interface do usuário diferentes.
