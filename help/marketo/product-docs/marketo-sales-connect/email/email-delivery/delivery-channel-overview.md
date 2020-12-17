@@ -17,21 +17,21 @@ Analisaremos os três canais diferentes que você pode aproveitar, como selecion
 
 >[!NOTE]
 >
->Essas informações só são relevantes se você estiver enviando seus emails do aplicativo [da](http://toutapp.com/login)Web. Se você estiver usando o Sales Connect no Gmail ou Outlook, seus e-mails serão entregues por meio desses servidores de e-mail.
+>Essas informações só são relevantes se você estiver enviando seus emails do [aplicativo da Web](http://toutapp.com/login). Se você estiver usando o Sales Connect no Gmail ou Outlook, seus e-mails serão entregues por meio desses servidores de e-mail.
 
 ## Servidores de e-mail MSC (padrão) {#msc-email-servers-default}
 
 Por padrão, esse método será selecionado para o delivery de seus emails. Os servidores de email MSC são uma excelente opção para usuários que não usam o Gmail ou o Outlook. Além disso, como eles são nossos servidores, temos a capacidade de receber mensagens de erro relacionadas a rejeições ou delivery com falha e de exibi-las até você na seção &quot;Delivery com falha&quot; da guia Conversações.
 
-Outro benefício de usar os servidores MSC é que, ao usar uma Identidade [de](https://help.toutapp.com/hc/en-us/articles/215371427)email, o recipient visualizará o endereço de email da identidade que você criou.
+Outro benefício de usar os servidores MSC é que, ao usar uma [Identidade de E-mail](https://help.toutapp.com/hc/en-us/articles/215371427), o recipient verá o endereço de e-mail da identidade que você criou.
 
 Ao usar servidores MSC, seus recipient podem ver uma tag &quot;via toutapp.com&quot;. Esse é o cliente de e-mail deles informando que o e-mail foi enviado usando o Sales Connect.
 
-Para obter mais detalhes, consulte este artigo [da Ajuda do](https://support.google.com/mail/answer/1311182?hl=en)Gmail.
+Para obter mais detalhes, consulte este [artigo de Ajuda do Gmail](https://support.google.com/mail/answer/1311182?hl=en).
 
 >[!NOTE]
 >
->Nossos servidores MSC não têm um registro [](https://dmarc.org/) DMARC disponibilizado. Eles não podem ser listados em whitelist em seus próprios servidores.
+>Nossos servidores MSC não têm um [registro DMARC](https://dmarc.org/) disponível. Eles não podem ser listados em whitelist em seus próprios servidores.
 
 ## Servidor Gmail {#gmail-server}
 
@@ -45,7 +45,7 @@ No aplicativo da Web, sua identidade será exibida conforme você a criou (acima
 >
 >Como o Sales Connect não gerencia diretamente seus servidores Gmail, não gravamos eventos de email ocultos no aplicativo da Web.
 
-## Servidor SMTP Personalizado  {#custom-smtp-server}
+## Servidor SMTP Personalizado {#custom-smtp-server}
 
 Pague pelo seu próprio servidor? Usar um ambiente do Microsoft Exchange? Esta é uma opção para você. Confira [estas instruções](http://docs.marketo.com/x/zYTS) sobre como configurar. Como os servidores Gmail, como o Sales Connect não gerencia diretamente seu servidor, não gravamos eventos de email ocultos no aplicativo da Web.
 
