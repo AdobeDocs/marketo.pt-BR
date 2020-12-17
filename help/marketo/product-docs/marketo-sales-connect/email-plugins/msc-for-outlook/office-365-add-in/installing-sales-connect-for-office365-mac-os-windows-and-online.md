@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Instalação do Sales Connect para Office365 Mac OS, Windows e Online {#installing-sales-connect-for-office-mac-os-windows-and-online}
 
-Criamos uma integração com o Outlook Web Apps. O Outlook Web Apps é uma versão do Outlook fornecida com a subscrição do Office 365. Como é baseada em navegador, a integração funcionará no Mac e no Windows. [Clique aqui para obter o guia](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)de instalação completo.
+Criamos uma integração com o Outlook Web Apps. O Outlook Web Apps é uma versão do Outlook fornecida com a subscrição do Office 365. Como é baseada em navegador, a integração funcionará no Mac e no Windows. [Clique aqui para obter o guia](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf) de instalação completo.
 
-Como administrador, você pode [instalá-lo em nome de toda a sua equipe](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
+Como administrador, você pode [instalar em nome de toda a sua equipe](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
 
 >[!NOTE]
 >
