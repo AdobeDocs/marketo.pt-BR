@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Clique em Ações da **pessoa** e Microsoft,**e selecione** Sincronizar pessoa com a Microsoft ****.
+1. Clique em **Ações da pessoa** e **Microsoft,** e selecione **Sincronizar pessoa com a Microsoft**.
 
    ![](assets/two.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. Agora, você pode selecionar **Contato** ao usar a restrição Sincronizar como em um filtro de campanha inteligente.
+1. Agora, você pode selecionar **Contact** ao usar a restrição Sincronizar como em um filtro de campanha inteligente.
 
    ![](assets/five.png)
 
