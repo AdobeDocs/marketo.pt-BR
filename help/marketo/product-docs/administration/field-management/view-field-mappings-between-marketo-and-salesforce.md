@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mapeamentos de campo de visualização entre o Marketing e o Salesforce {#view-field-mappings-between-marketo-and-salesforce}
+# Mapeamentos de campo de visualização entre o Marketo e o Salesforce {#view-field-mappings-between-marketo-and-salesforce}
 
 Talvez você queira saber a quais campos do Salesforce um campo de marketing específico está vinculado. Aqui está como fazer isso.
 
@@ -19,11 +19,11 @@ Talvez você queira saber a quais campos do Salesforce um campo de marketing esp
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para **Admin** e clique em Gerenciamento **** de campo.
+1. Vá para **Admin** e clique em **Gerenciamento de campo**.
 
    ![](assets/image2014-9-19-9-3a54-3a26.png)
 
-1. Localize o campo que você está interessado em ver e clique no botão **+** para expandir o mapeamento.
+1. Encontre o campo que está interessado em ver e clique em **+** para expandir o mapeamento.
 
    ![](assets/image2014-9-19-9-3a54-3a34.png)
 
