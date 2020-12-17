@@ -20,11 +20,11 @@ Clonar um fluxo por vários motivos, incluindo o teste de diferentes pedidos e c
 
    ![Imagem Um](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-1.png)
 
-1. Clique na guia **[!UICONTROL Streams]** .
+1. Clique na guia **[!UICONTROL Streams]**.
 
    ![Imagem dois](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-2.png)
 
-1. Clique no ícone de engrenagem do stream e selecione **[!UICONTROL Clonar]**.
+1. Clique no ícone de engrenagem do fluxo e selecione **[!UICONTROL Clonar]**.
 
    ![Imagem Três](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-3.png)
 
