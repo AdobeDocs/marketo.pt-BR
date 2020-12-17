@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Alterar a senha do seu comerciante {#change-your-marketo-password}
+# Altere a senha do Marketing {#change-your-marketo-password}
 
 Altere sua senha do Marketo com estas etapas simples.
 
-1. Qualquer usuário do Marketo pode clicar em seu nome e em **Minha conta**.
+1. Qualquer usuário do Marketo pode clicar em seu nome e **Minha conta**.
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
-1. Os administradores também podem clicar em **Admin** e, em seguida, **alterar a senha** para alterar sua senha de administrador.
+1. Os administradores também podem clicar em **Admin** e em **Alterar senha** para alterar a senha de administrador.
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
@@ -31,5 +31,5 @@ Altere sua senha do Marketo com estas etapas simples.
 
    >[!TIP]
    >
-   >Qual é uma boa senha? Algo longo com muitas letras, números e símbolos como &quot; [[protegido por email]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[protegido por email]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Exceto, não aquele. Seja criativo e faça o seu.
+   >Qual é uma boa senha? Algo longo com muitas letras, números e símbolos como &quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protegido]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Exceto, não aquele. Seja criativo e faça o seu.
 
