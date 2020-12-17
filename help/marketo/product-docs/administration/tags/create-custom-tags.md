@@ -19,7 +19,7 @@ As tags ajudarão você a organizar seus programas, enquanto os canais ajudarão
 >
 >**Mergulho profundo**
 >
->Consulte [Como entender as tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para obter mais informações.
+>Consulte [Entendendo Tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para obter mais informações.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ As tags ajudarão você a organizar seus programas, enquanto os canais ajudarão
 
 Para criar um novo tipo de tag:
 
-1. Vá para a seção **Admin** .
+1. Vá para a seção **Admin**.
 
    ![](assets/image2015-4-23-14-3a37-3a48.png)
 
@@ -41,7 +41,7 @@ Para criar um novo tipo de tag:
 
    ![](assets/image2015-4-23-14-3a42-3a45.png)
 
-1. Digite um nome para o Tipo **de** tag.
+1. Digite um nome para o **Tipo de tag**.
 
    ![](assets/image2015-4-23-14-3a48-3a58.png)
 
@@ -55,7 +55,7 @@ Para criar um novo tipo de tag:
 
    >[!NOTE]
    >
-   >Selecione **Obrigatório para todos os programas** para adicionar essa tag sempre que um novo programa for criado.
+   >Selecione **Obrigatório para todos os programas** para adicionar esta tag sempre que um novo programa for criado.
 
 1. Clique em **Criar** para salvar.
 
