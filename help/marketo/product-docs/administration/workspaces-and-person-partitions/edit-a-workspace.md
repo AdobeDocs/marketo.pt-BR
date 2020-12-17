@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >**Mergulho profundo**
 >
->Escove os espaços de trabalho com [Compreensão dos espaços de trabalho e das partições](understanding-workspaces-and-person-partitions.md)de pessoas.
+>Escove os espaços de trabalho com [Compreensão dos espaços de trabalho e das partições pessoais](understanding-workspaces-and-person-partitions.md).
 
 1. Em **Admin**, clique em **Espaços de trabalho e partições**.
 
@@ -40,13 +40,13 @@ ht-degree: 0%
    >**Lembrete**
    >
    >
-   >Você pode [criar mais partições](create-a-person-partition.md) de pessoas se precisar.
+   >Você pode [criar mais partições de pessoa](create-a-person-partition.md) se precisar delas.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >A caixa de seleção **All Person Partitions***** **significa que essa área de trabalho pode usar todas as partições de lead no sistema.
+   >A caixa de seleção **Todas as partições de pessoa****** significa que esta área de trabalho pode usar todas as partições de cliente potencial no sistema.
 
    >[!NOTE]
    >
