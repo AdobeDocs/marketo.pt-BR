@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Excluindo um filtro no Calendário de marketing {#deleting-a-filter-in-the-marketing-calendar}
+# Excluindo um Filtro no Calendário de marketing {#deleting-a-filter-in-the-marketing-calendar}
 
 Se você deseja excluir um filtro no Calendário de marketing, você chegou ao lugar certo.
 
@@ -19,7 +19,7 @@ Se você deseja excluir um filtro no Calendário de marketing, você chegou ao l
 
    ![](assets/image2014-9-24-11-3a27-3a32.png)
 
-1. Clique no **x** vermelho.
+1. Clique no sinal vermelho **x**.
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 
