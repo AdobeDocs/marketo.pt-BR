@@ -41,6 +41,6 @@ Não é uma boa ideia enviar emails várias vezes por dia ou muitas vezes por se
 
 >[!TIP]
 >
->Para tornar isso o padrão, edite seus limites [de](../../../../product-docs/administration/email-setup/enable-communication-limits.md) comunicação na seção Admin.
+>Para tornar isso o padrão, edite seus [limites de comunicação](../../../../product-docs/administration/email-setup/enable-communication-limits.md) na seção Admin.
 
 Doce. Agora você pode ter certeza de que não está enviando muitos e-mails acidentalmente para sua audiência.
