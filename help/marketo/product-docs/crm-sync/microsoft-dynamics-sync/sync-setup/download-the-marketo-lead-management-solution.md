@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Download da solução de gerenciamento líder de marketing {#download-the-marketo-lead-management-solution}
+# Baixe a solução de gerenciamento líder de marketing {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Você precisará baixar e instalar uma Solução de marketing na sua conta do Mi
 
 >[!CAUTION]
 >
->É imperativo que você baixe a solução de marketing mais recente *antes* de executar qualquer atualização.
+>É imperativo que você faça o download da mais recente solução Marketing *antes de* fazer qualquer atualização.
 
 >[!NOTE]
 >
 >O Marketo suporta somente certificados SSL compatíveis com o Java 7 no momento.
 
-1. Vá para a área **Admin** .
+1. Vá para a área **Admin**.
 
    ![](assets/admin.png)
 
@@ -39,7 +39,7 @@ Você precisará baixar e instalar uma Solução de marketing na sua conta do Mi
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. Selecione **Baixar solução** de marketing.
+1. Selecione **Baixar solução de marketing**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
