@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SEO - Adicionar ou remover o problema de página de uma Lista {#seo-add-remove-page-issue-from-a-list}
+# SEO - Adicionar/remover problema de página de uma Lista {#seo-add-remove-page-issue-from-a-list}
 
 Você pode organizar os problemas de sua página no lista. Você também pode remover problemas de página de uma lista.
 
 ## Adicionar problemas de página a uma Lista {#add-page-issues-to-a-list}
 
-1. Vá para a seção **Páginas** .
+1. Vá para a seção **Páginas**.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
