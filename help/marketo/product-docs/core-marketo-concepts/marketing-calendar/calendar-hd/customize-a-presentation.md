@@ -23,7 +23,7 @@ Configure sua apresentação de calendário para refletir as metas e atividades 
 
 >[!PREREQUISITES]
 >
->* [Criar metas](create-a-custom-goal.md) personalizadas ou metas de Lista [inteligente](create-a-smart-list-goal.md)
+>* [Criar ](create-a-custom-goal.md) objetivos personalizados ou metas de Lista  [inteligente](create-a-smart-list-goal.md)
    >
    >
 * [Criar uma apresentação](create-a-presentation.md)
@@ -32,9 +32,9 @@ Configure sua apresentação de calendário para refletir as metas e atividades 
 
 
 
-## Como escolher as Visualizações {#choosing-the-views}
+## Escolhendo as Visualizações {#choosing-the-views}
 
-O Presentations percorre diferentes definições [de](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) filtro escolhidas. Retire quantas visualizações quiser e personalize a frequência.
+O Presentations percorre [definições de filtro](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) diferentes escolhidas. Retire quantas visualizações quiser e personalize a frequência.
 
 1. Na árvore direita, arraste as diferentes visualizações que deseja girar na apresentação.
 
@@ -42,7 +42,7 @@ O Presentations percorre diferentes definições [de](../../../../product-docs/c
 
 ## Adicionar uma meta {#add-a-goal}
 
-A Presentations é a mais incrível quando mostra as metas de sua equipe. Basta arrastar sobre diferentes objetivos [](create-a-custom-goal.md) personalizados ou metas [de listas](create-a-smart-list-goal.md)inteligentes. Você pode usar até 10.
+A Presentations é a mais incrível quando mostra as metas de sua equipe. Basta arrastar sobre diferentes [metas personalizadas](create-a-custom-goal.md) ou [metas de lista inteligente](create-a-smart-list-goal.md). Você pode usar até 10.
 
 1. Na árvore direita, arraste metas diferentes que deseja exibir na apresentação.
 
@@ -64,11 +64,11 @@ Depois de puxar as visualizações desejadas na apresentação, defina a frequê
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
-## Definir a exibição de calendário {#set-the-calendar-display}
+## Definir a Exibição de Calendário {#set-the-calendar-display}
 
 A exibição do calendário pode ser alterada para uma visualização mensal ou de 3 semanas.
 
-1. Selecione o menu suspenso Exibição **de** calendário e escolha entre **3 semanas** ou um **mês**.
+1. Selecione o menu suspenso **Calendar Display** e escolha entre **3 semanas** ou um **Mês**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
@@ -76,7 +76,7 @@ A exibição do calendário pode ser alterada para uma visualização mensal ou 
 
 >[!TIP]
 >
->Defina uma imagem [de](add-a-background-image-to-a-presentation.md) plano de fundo para sua apresentação. Sugerimos gatinhos ou arco-íris.
+>Defina uma [imagem de fundo](add-a-background-image-to-a-presentation.md) para a sua apresentação. Sugerimos gatinhos ou arco-íris.
 
 ## Pré-visualização de uma apresentação {#preview-a-presentation}
 
