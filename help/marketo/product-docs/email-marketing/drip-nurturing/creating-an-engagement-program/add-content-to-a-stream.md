@@ -17,11 +17,11 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
 ## Adicionar um email a um fluxo {#add-an-email-to-a-stream}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu programa de envolvimento e vá para a guia **Streams** .
+1. Selecione seu programa de envolvimento e vá para a guia **Streams**.
 
    ![](assets/streamstab.jpg)
 
@@ -29,11 +29,11 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
 **Botão Adicionar conteúdo**
 
-1. Clique no botão **Adicionar conteúdo** .
+1. Clique no botão **Adicionar conteúdo**.
 
    ![](assets/addcontentbutton.jpg)
 
-1. Deixe o **Tipo** definido como **Email** e selecione o email que deseja adicionar.
+1. Deixe **Type** definido como **Email** e selecione o email que deseja adicionar.
 
    ![](assets/image2014-9-15-15-3a44-3a58.png)
 
@@ -43,7 +43,7 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
 **Fluxo + Ícone**
 
-1. Clique no ícone de fluxos **+** , deixe **Tipo** como **Email** e selecione o email que deseja adicionar.
+1. Clique no ícone de fluxos **+**, deixe **Type** como **Email** e selecione o email que deseja adicionar.
 
    ![](assets/image2014-9-15-15-3a45-3a25.png)
 
@@ -53,13 +53,13 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
    ![](assets/dragstreamcontent.jpg)
 
-## Adicionar um Programa a um fluxo {#add-a-program-to-a-stream}
+## Adicionar um Programa a um Fluxo {#add-a-program-to-a-stream}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu programa de envolvimento e vá para a guia **Streams** .
+1. Selecione seu programa de envolvimento e vá para a guia **Streams**.
 
    ![](assets/streamstab.jpg)
 
@@ -71,7 +71,7 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
    ![](assets/image2014-9-15-15-3a45-3a51.png)
 
-1. Alterar **Tipo** para Programa.
+1. Altere **Type** para Programa.
 
    ![](assets/image2014-9-15-15-3a46-3a0.png)
 
@@ -88,11 +88,11 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
    >**Lembrete**
    >
    >
-   >A campanha inteligente deve ter o filtro **Membro do Programa** Envolvimento nele para que isso funcione corretamente.
+   >A campanha inteligente deve ter o filtro **Membro do Programa de envolvimento** nele para que isso funcione corretamente.
 
 **Fluxo + Ícone**
 
-1. Clique no ícone de fluxo **+** e, em seguida, altere **Tipo** para Programa.
+1. Clique no ícone de fluxo **+** e, em seguida, altere **Type** para Programa.
 
    ![](assets/image2014-9-15-15-3a46-3a43.png)
 
