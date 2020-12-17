@@ -23,7 +23,7 @@ O Account Insight é um plug-in do Chrome que apresenta informações acionávei
 
 >[!CAUTION]
 >
->O plug-in Insight da conta não funcionará em subscrições que tenham somente [](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) SSO (logon único) ativado.
+>O plug-in Insight da conta não funcionará em subscrições com [SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (logon único) ativado.
 >
 >O contexto do CRM funciona para o Salesforce ao iniciar o plug-in de uma conta, cliente potencial ou contato. O contexto do CRM não funcionará para o Dynamics ao iniciar o plug-in a partir de uma conta, cliente potencial ou contato. Para usuários do Dynamics, recomendamos usar o plug-in Account Insight.
 
@@ -71,7 +71,7 @@ O feed da atividade mostra a atividade recente, voltando sete dias atrás.
 
 ![](assets/af1.png)
 
-Clique na lista suspensa **Filtro** para filtrar por tipos de atividade diferentes.\
+Clique no menu suspenso **Filter** para filtrar por tipos de atividade diferentes.\
 ![](assets/af2.png)
 
 Vários itens podem ser clicados. Clique na conta nomeada para ver seus detalhes. Clique no nome do usuário para ver sua atividade. Clique em Mais Atividades para ver, bem, mais atividades.
