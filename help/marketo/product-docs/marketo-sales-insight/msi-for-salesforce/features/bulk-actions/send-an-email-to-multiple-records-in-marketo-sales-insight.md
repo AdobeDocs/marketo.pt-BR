@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Enviar um email para vários registros no Marketing Insight de vendas {#send-an-email-to-multiple-records-in-marketo-sales-insight}
+# Enviar um e-mail para vários registros no Marketing Cloud Sales Insight {#send-an-email-to-multiple-records-in-marketo-sales-insight}
 
 É muito fácil enviar um email de marketing para várias pessoas usando o Marketing Insight de vendas. Vamos começar.
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se você estiver usando o Salesforce Lightning, o botão exibirá **Send Marketo Email (lightning)**.
+   >Se você estiver usando o Salesforce Lightning, o botão dirá **Enviar e-mail para o Marketo (relâmpago)**.
 
    >[!TIP]
    >
-   >Não vê o botão? Verifique se você [adicionou os botões de marketing à visualização](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)da lista.
+   >Não vê o botão? Certifique-se de que [adicionou os Botões de marketing à visualização da lista](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
 
 1. Vá em frente e componha seu e-mail. Clique em **Enviar com marketing **ao terminar.
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Você pode [publicar emails no Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) e escolher um desses emails.
+   >Você pode [publicar emails no Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) e escolher entre esses emails.
 
    >[!NOTE]
    >
