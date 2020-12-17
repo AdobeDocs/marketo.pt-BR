@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# Remover um membro de um Programa de envolvimento {#remove-a-member-from-an-engagement-program}
+# Remover um membro de um Programa de Envolvimento {#remove-a-member-from-an-engagement-program}
 
-Oops! Como é que essas pessoas entraram lá? Você pode remover membros de um programa de envolvimento com a etapa de fluxo **Alterar status** do Programa.
+Oops! Como é que essas pessoas entraram lá? Você pode remover membros de um programa de envolvimento com a etapa de fluxo **Alterar status do Programa**.
 
 >[!TIP]
 >
->Não use isso para pausar conteúdo para uma pessoa. Isso eliminará todas as atribuições na análise.  Saiba mais sobre como [pausar pessoas em um programa](pause-people-in-an-engagement-program.md)de envolvimento.
+>Não use isso para pausar conteúdo para uma pessoa. Isso eliminará todas as atribuições na análise.  Saiba mais sobre como [pausar pessoas em um programa de envolvimento](pause-people-in-an-engagement-program.md).
 
-## Etapa do fluxo {#flow-step}
+## Etapa de fluxo {#flow-step}
 
-1. Arraste a etapa de fluxo **Alterar status** do Programa.
+1. Arraste na etapa de fluxo **Alterar status do Programa**.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   Escolha o status, **Não no Programa**.
+   Escolha o status, **Not in Programa**.
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Groovy. Todos os membros que você definiu na lista [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) inteligente não estarão mais neste programa de envolvimento.
+   Groovy. Todos os membros que você definiu na programa inteligente [lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) não estarão mais neste  de envolvimento.
 
-## Pausar pessoas  {#pause-people}
+## Pausar pessoas {#pause-people}
 
-Às vezes você só quer pausar pessoas em um programa de envolvimento e não removê-las. Isso é feito com a **Change Engagement Programa Cadence**.
+Às vezes você só quer pausar pessoas em um programa de envolvimento e não removê-las. Isso é feito com a **Alterar cadência do Programa de envolvimento**.
 
 >[!MORELIKETHIS]
 >
