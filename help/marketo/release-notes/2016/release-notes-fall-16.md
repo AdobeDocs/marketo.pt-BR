@@ -53,7 +53,7 @@ Agora, você pode atribuir equipes de conta a contas nomeadas no ABM (Account Ba
 
 **REST API**
 
-Esta versão também permite que você gerencie atributos de conta nomeados e pontuações de contas no ABM usando a API REST de marketing. Para obter mais detalhes sobre as operações da API, visite o site [Desenvolvedores de](http://developers.marketo.com/rest-api/lead-database/named-accounts)marketing.
+Esta versão também permite que você gerencie atributos de conta nomeados e pontuações de contas no ABM usando a API REST de marketing. Para obter mais detalhes sobre as operações da API, visite o [site de desenvolvedores de marketing](http://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Aprimoramentos da trilha de auditoria](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ Foram-se os dias em que você teve que se preocupar com usuários enviando email
 
 **Editar restrições de Campanha**
 
-Por que definir restrições [de](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) campanha se você não pode aplicá-las? Quando você define Configurações de limite de Campanha para restringir o número de pessoas no banco de dados que podem ser direcionadas a uma única campanha, agora você tem a capacidade de restringir quais usuários podem substituir essas configurações ao agendar uma campanha.
+Por que definir [restrições de campanha](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) se você não conseguir aplicá-las? Quando você define Configurações de limite de Campanha para restringir o número de pessoas no banco de dados que podem ser direcionadas a uma única campanha, agora você tem a capacidade de restringir quais usuários podem substituir essas configurações ao agendar uma campanha.
 
 ## [Som para notificações por push móveis](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -86,7 +86,7 @@ Dê mais riqueza à sua notificação por push do iOS ao ativar o som. Esse novo
 
 ## [Insight de vendas compatível com a criptografia do Salesforce](../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-O Marketing Sales Insight agora é compatível com a Encriptação Salesforce Shield. Todos os clientes do Sales Insight devem atualizar para este pacote gerenciado mais recente (versão 1.4359.2), que está [disponível no Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+O Marketing Sales Insight agora é compatível com a Encriptação Salesforce Shield. Todos os clientes do Sales Insight devem atualizar para este pacote gerenciado mais recente (versão 1.4359.2), que é [disponível no Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
 ## [APIs de contas nomeadas](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
