@@ -16,9 +16,9 @@ ht-degree: 0%
 Há várias maneiras de as pessoas se tornarem membros de um programa de envolvimento:
 
 * [Adicionar ao Programa de envolvimento](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [Alterar etapa do fluxo de Cadência](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) do Programa de envolvimento
-* [Alterar etapa do fluxo de fluxo de Programa](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) de envolvimento
-* [Alterar etapa do fluxo de status](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) do Programa
+* [Alterar etapa de Fluxo de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) cadenciado do Programa de envolvimento
+* [Alterar etapa de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) fluxo contínuo do Programa de envolvimento
+* [Alterar etapa de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) fluxo de status do Programa
 * Se uma pessoa preencher um formulário local para um programa de envolvimento
 * Importação de membros para um programa de envolvimento (por meio da guia Membros dentro do programa)
 * Se você estiver usando o Salesforce como seu CRM e tiver uma campanha do Salesforce vinculada ao seu programa de envolvimento, adicionar alguém à campanha do Salesforce no CRM também os tornará um membro do programa de envolvimento.
