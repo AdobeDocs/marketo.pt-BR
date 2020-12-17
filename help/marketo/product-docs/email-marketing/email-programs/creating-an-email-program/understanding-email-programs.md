@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Como entender Programas de email {#understanding-email-programs}
+# Noções básicas sobre Programas de email {#understanding-email-programs}
 
 Diga olá para seu novo amigo Marketo, o programa de e-mail. Envie emails, crie testes A/B e rastreie seus resultados em um único lugar.
 
 ## Painel de controle do Campaign {#control-panel}
 
-Quatro caixas mantêm você focado. **A audiência** define o &quot;quem&quot;, o **Email** fornece o &quot;o quê&quot;, o **Agendamento** define &quot;quando&quot; e a **Aprovação** o prepara para ir.
+Quatro caixas mantêm você focado. **O** Audience define o &quot;quem&quot;, o  **** e-mail fornece o &quot;o quê&quot;, o  **** Agendamento define &quot;quando&quot; e o  **** Aprovaltorna pronto para ser aceito.
 
 ![](assets/emailprogram.png)
 
@@ -62,7 +62,7 @@ Use um programa de email dentro de um programa padrão para manter as coisas org
 
 >[!NOTE]
 >
->Programas de e-mail não podem ser aninhados em programas [de](../../../../getting-started/quick-wins/drip-drip-nurture.md)envolvimento. Eles também não podem ser reenviados e só podem executar um teste de cada vez.
+>Programas de email não podem ser aninhados em [programas de envolvimento](../../../../getting-started/quick-wins/drip-drip-nurture.md). Eles também não podem ser reenviados e só podem executar um teste de cada vez.
 
 ## Configurações de agendamento {#schedule-settings}
 
