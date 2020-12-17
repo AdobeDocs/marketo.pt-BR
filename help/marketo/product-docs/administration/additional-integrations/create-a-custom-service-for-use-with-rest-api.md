@@ -32,13 +32,13 @@ Se você quiser se integrar ao Marketo por meio da API ReST, será necessário c
 >
 >**Mergulho profundo**
 >
->Consulte a documentação de nossos desenvolvedores para obter detalhes sobre a API [](http://developers.marketo.com/documentation/rest/)ReST. Também temos a API [](http://developers.marketo.com/documentation/soap/) SOAP, se for isso que você precisa.
+>Consulte a documentação de nossos desenvolvedores para obter detalhes sobre a [API ReST](http://developers.marketo.com/documentation/rest/). Também temos a [API SOAP](http://developers.marketo.com/documentation/soap/) se for isso que você precisa.
 
 >[!NOTE]
 >
 >Não é possível criar um serviço personalizado se você tiver o nível de Faísca de Marketo.
 
-## Criar serviço personalizado {#create-custom-service}
+## Criar Serviço Personalizado {#create-custom-service}
 
 1. Vá para **Admin** e clique em **LaunchPoint**.
 
@@ -48,7 +48,7 @@ Se você quiser se integrar ao Marketo por meio da API ReST, será necessário c
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. Insira um Nome **de** exibição para o serviço. Selecione a opção Somente usuário **da** API [criada](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)anteriormente.
+1. Digite um **Nome de exibição** para o serviço. Selecione **Usuário Somente API** [criado anteriormente](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    >[!NOTE]
    >
@@ -64,13 +64,13 @@ Se você quiser se integrar ao Marketo por meio da API ReST, será necessário c
 
    Oh, sim! O serviço agora é criado, vamos continuar e obter todas as credenciais para fornecer acesso.
 
-## Credenciais para acesso à API {#credentials-for-api-access}
+## Credenciais para Acesso à API {#credentials-for-api-access}
 
 1. Vá para **Admin** e clique em **LaunchPoint**.
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. Clique em Detalhes **da** Visualização para o serviço personalizado LaunchPoint criado acima.
+1. Clique em **Detalhes da Visualização** para obter o serviço personalizado do LaunchPoint criado acima.
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
@@ -78,7 +78,7 @@ Se você quiser se integrar ao Marketo por meio da API ReST, será necessário c
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. Forneça a** Client Id**, **Client Secret**, Usuário **** autorizado e **Token** à pessoa responsável pela conexão.
+1. Forneça a** ID do cliente**, **Segredo do cliente**, **Usuário autorizado** e **Token** à pessoa responsável pelo estabelecimento da conexão.
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
