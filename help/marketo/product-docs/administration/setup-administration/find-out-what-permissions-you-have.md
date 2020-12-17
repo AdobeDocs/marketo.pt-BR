@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Descubra Quais Permissões Você Tem {#find-out-what-permissions-you-have}
+# Descubra quais permissões você tem {#find-out-what-permissions-you-have}
 
 Se você está se perguntando que permissões tem ou não em Marketo, há uma maneira fácil de descobrir.
 
@@ -19,7 +19,7 @@ Se você está se perguntando que permissões tem ou não em Marketo, há uma ma
 
    ![](assets/login-marketing-activities.png)
 
-1. Clique em Acesso **total** para ver as permissões que você possui.
+1. Clique em **Acesso Completo** para ver as permissões que tem.
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
