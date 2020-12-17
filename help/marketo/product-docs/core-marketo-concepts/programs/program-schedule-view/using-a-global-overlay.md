@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Uso de uma sobreposição global {#using-a-global-overlay}
+# Usando uma sobreposição global {#using-a-global-overlay}
 
 A sobreposição global na visualização do cronograma do programa permite que você veja seu programa em relação a outros ativos agendados.
 
 >[!PREREQUISITES]
 >
->É necessário ter uma licença [do Calendário](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) de marketing para utilizar esse recurso.
+>Você deve ter uma [licença do Calendário de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esse recurso.
 
 ## Usar a sobreposição global {#use-the-global-overlay}
 
@@ -39,9 +39,9 @@ A sobreposição global na visualização do cronograma do programa permite que 
 
 ## Usar um filtro salvo como uma sobreposição {#use-a-saved-filter-as-an-overlay}
 
-Se você tiver [salvo um filtro no Calendário](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)de marketing, poderá usá-lo como uma sobreposição na visualização do cronograma do programa.
+Se você [salvou um filtro no Calendário de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), poderá usá-lo como uma sobreposição na visualização do cronograma do programa.
 
-1. Clique no menu suspenso **Sobreposição** e selecione a definição do filtro.
+1. Clique na lista suspensa **Sobreposição** e selecione a definição do filtro.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
