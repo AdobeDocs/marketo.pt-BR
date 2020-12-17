@@ -19,7 +19,7 @@ A razão? O Sales Connect é inteligente, e nossos usuários ativos nunca nos pe
 
 Aqui está como chegar ao único lugar onde mostraremos o autorastreamento.
 
-1. Vá para o Centro [de Comando](http://toutapp.com/next#emails/command_center).
+1. Vá para o [Centro de Comando](http://toutapp.com/next#emails/command_center).
 1. Localize o e-mail enviado na pasta Enviados e selecione-o.
-1. Clique no botão **Detalhes** . Você deveria ver suas próprias visualizações aparecendo lá.
+1. Clique no botão **Detalhes**. Você deveria ver suas próprias visualizações aparecendo lá.
 
