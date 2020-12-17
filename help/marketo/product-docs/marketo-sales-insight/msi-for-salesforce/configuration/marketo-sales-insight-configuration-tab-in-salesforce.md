@@ -53,7 +53,7 @@ As configurações são aplicáveis a todos os usuários de MSI e não são espe
 * A atividade (Momento Interessante, Atividade da Web, E-mail) é definida como 1000 por padrão. Por padrão, campanhas e Eventos de e-mail são definidos como 200
 * Caso observe problemas de tempo limite na sua organização, você pode reduzir o limite
 
-## Redefinir insight de vendas de marketing {#reset-marketo-sales-insight}
+## Redefinir insight de vendas do Marketing to {#reset-marketo-sales-insight}
 
 A opção de fazer isso limpará todas as suas configurações no SFDC e elas não poderão ser restauradas. Você terá que reconfigurar tudo novamente.
 
