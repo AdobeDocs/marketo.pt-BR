@@ -5,13 +5,13 @@ title: Ativação de funções para Marketo Sky
 translation-type: tm+mt
 source-git-commit: b155f630dfba14a7e1fc2606ca998709f9f29392
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# Ativação de funções para Marketo Sky {#enabling-roles-for-marketo-sky}
+# Habilitando funções para Marketo Sky {#enabling-roles-for-marketo-sky}
 
 Para utilizar o Marketo Sky, as funções para os usuários desejados devem ser ativadas.
 
