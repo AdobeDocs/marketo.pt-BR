@@ -23,7 +23,7 @@ Visualização de pessoas que se qualificam para passar pelo fluxo quando você 
 >
 >Campanhas inteligentes acionadoras não exibem pessoas qualificadas, pois são executadas com base em eventos ao vivo.
 
-1. A guia Pessoas **** qualificadas lista as pessoas que se qualificam para passar pelo fluxo quando a campanha é executada.
+1. A guia **Pessoas qualificadas** lista as pessoas que se qualificam para passar pelo fluxo quando a campanha é executada.
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,7 +33,7 @@ Visualização de pessoas que se qualificam para passar pelo fluxo quando você 
 
    >[!NOTE]
    >
-   >O número de pessoas qualificadas também depende das regras de qualificação da campanha inteligente. Saiba como [editar regras](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)de qualificação.
+   >O número de pessoas qualificadas também depende das regras de qualificação da campanha inteligente. Saiba como [editar regras de qualificação](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
 Doce! Você pode usar essa lista para verificar quais pessoas podem passar pelo fluxo antes de executar uma campanha inteligente.
 
