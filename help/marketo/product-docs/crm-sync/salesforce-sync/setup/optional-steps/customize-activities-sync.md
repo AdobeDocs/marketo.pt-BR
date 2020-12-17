@@ -5,7 +5,7 @@ title: Personalizar Atividade Sync
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Personalizar Atividade Sync {#customize-activities-sync}
 
-Se você não usar o [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), o Marketo poderá criar Registros do Histórico de Atividades do Salesforce para determinados eventos. Aqui está como ativá-los.
+Se você não usar [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), o Marketo poderá criar Registros do Histórico de Atividades do Salesforce para determinados eventos. Aqui está como ativá-los.
 
 1. Vá para **Admin. **
 
    ![](assets/admin.png)
 
-1. Clique em **Salesforce** e, em seguida, clique em **Editar opções** de sincronização.
+1. Clique em **Salesforce** e, em seguida, clique em **Editar opções de sincronização**.
 
    ![](assets/two-1.png)
 
@@ -99,9 +99,9 @@ Se você não usar o [Sales Insight](http://docs.marketo.com/display/DOCS/Market
 >**Lembrete**
 >
 >
->&quot;E-mail de vendas recebido&quot; **não** significa entregue. O status entregue não é capturado para emails enviados via Sales Insight.
+>&quot;Email de vendas recebido&quot; significa **não** entregue. O status entregue não é capturado para emails enviados via Sales Insight.
 
 >[!TIP]
 >
->Se você estiver interessado em obter mais informações sobre marketing no Salesforce, verifique nosso produto [Marketing Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) .
+>Se você estiver interessado em obter mais informações sobre marketing no Salesforce, verifique nosso [produto Marketing to Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
 
