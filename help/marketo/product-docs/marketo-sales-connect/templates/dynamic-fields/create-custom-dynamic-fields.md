@@ -25,8 +25,8 @@ Há duas maneiras de criar campos dinâmicos personalizados.
 ## Salvando campos personalizados para muitos contatos {#saving-custom-fields-for-many-contacts}
 
 1. Crie uma planilha CSV com seus campos personalizados em sua própria coluna.
-1. Siga o processo [](http://docs.marketo.com/x/HIPS)normal de upload de CSV, parando na tela de mapeamento de campo.
-1. Em vez de um dos campos predefinidos, escolha **Adicionar um novo campo** personalizado no menu suspenso.
+1. Siga o [processo de carregamento CSV normal](http://docs.marketo.com/x/HIPS), parando na tela de mapeamento de campo.
+1. Em vez de um dos campos predefinidos, escolha **Adicionar um novo campo personalizado** no menu suspenso.
 1. Digite o nome do campo desejado e clique em **OK**.
 1. Conclua o upload do CSV. Seus contatos aparecerão com o campo personalizado adicionado.
 
@@ -38,7 +38,7 @@ Há duas maneiras de criar campos dinâmicos personalizados.
 
 Depois que seus campos personalizados forem armazenados usando os métodos acima, você poderá referenciá-los em seus modelos.
 
-1. [Crie um modelo](http://docs.marketo.com/x/OCDG) e clique no botão Campos **** dinâmicos como você normalmente faria.
-1. Selecione Campos **** personalizados no menu suspenso exibido.
+1. [Crie um ](http://docs.marketo.com/x/OCDG) modelo e clique no botão Campos  **** dinâmicos, como você normalmente faria.
+1. Selecione **Campos personalizados** no menu suspenso exibido.
 1. Você verá seus campos personalizados pré-armazenados e poderá selecionar um para preencher em seu modelo.
 
