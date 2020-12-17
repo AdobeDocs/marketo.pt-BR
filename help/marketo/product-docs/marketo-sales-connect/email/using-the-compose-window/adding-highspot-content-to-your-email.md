@@ -23,7 +23,7 @@ Se você for um cliente do Highspot, poderá inserir facilmente o conteúdo do H
 
    ![](assets/two-5.png)
 
-1. Clique no ponto no email onde deseja inserir o conteúdo do Realce. Clique na seta suspensa (ao lado do ícone de anexo) e selecione **Realçar**.
+1. Clique no ponto no email onde deseja inserir o conteúdo do Realce. Clique na seta suspensa (ao lado do ícone de anexo) e selecione **Realce**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ Se você for um cliente do Highspot, poderá inserir facilmente o conteúdo do H
 
    ![](assets/four-5.png)
 
-1. Selecione o conteúdo desejado e clique no botão **Adicionar conteúdo** .
+1. Selecione o conteúdo desejado e clique no botão **Adicionar conteúdo**.
 
    ![](assets/five-3.png)
 
