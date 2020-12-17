@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Adicionar local de trabalho pelo Facebook como um serviço do LaunchPoint {#add-workplace-by-facebook-as-a-launchpoint-service}
+# Adicionar local de trabalho pelo Facebook como um Serviço LaunchPoint {#add-workplace-by-facebook-as-a-launchpoint-service}
 
 Há dois tipos de notificação incluídos na integração Local de trabalho:
 
@@ -24,13 +24,13 @@ Há dois tipos de notificação incluídos na integração Local de trabalho:
 
 >[!PREREQUISITES]
 >
->Se você ainda não tiver as Notificações do Local de Trabalho ativadas, [entre em contato com o Suporte](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
+>Se as Notificações do Local de Trabalho já não estiverem ativadas, [entre em contato com o Suporte](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
 
-1. Vá para **LaunchPoint** e, em **New (Novo** ), clique em **New Service (Novo serviço**).
+1. Vá para **LaunchPoint** e, em **Novo**, clique em **Novo Serviço**.
 
    ![](assets/image2017-11-27-14-3a13-3a18-1.png)
 
-1. Insira um nome para exibição para a integração do Local de trabalho. Na lista suspensa **Serviço** , selecione **Local de trabalho por Facebook**. Clique em **Criar**.
+1. Insira um nome para exibição para a integração do Local de trabalho. Na lista suspensa **Service**, selecione **Local de trabalho pelo Facebook**. Clique em **Criar**.
 
    ![](assets/newservice.png)
 
@@ -42,7 +42,7 @@ Há dois tipos de notificação incluídos na integração Local de trabalho:
 
    ![](assets/authorize.png)
 
-1. Na nova guia Local de trabalho, digite seu nome de usuário para e-mail comercial ou Local de trabalho e clique em **Continuar**.
+1. Na nova guia Local de trabalho, digite seu nome de usuário de e-mail comercial ou Local de trabalho e clique em **Continuar**.
 
    ![](assets/workplacelogin.png)
 
