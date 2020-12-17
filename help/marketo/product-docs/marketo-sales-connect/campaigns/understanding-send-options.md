@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Compreensão das opções de envio {#understanding-send-options}
+# Noções Gerais das Opções de Envio {#understanding-send-options}
 
 Ao criar uma Campanha, você tem várias opções sobre como suas etapas de email são criadas no Sales Connect. E, dependendo de onde o seu e-mail cai na sua Campanha, suas opções também diferem.
 
