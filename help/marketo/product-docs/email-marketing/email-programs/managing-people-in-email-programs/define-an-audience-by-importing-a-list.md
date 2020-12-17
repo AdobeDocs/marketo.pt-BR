@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >[Criar um email para um Programa de email](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Depois de criar um programa de e-mail, você desejará dizer a ele para quem enviar o e-mail. Você pode fazer isso [criando uma lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) inteligente ou importando uma lista. Veja como fazer isso importando uma lista.
+Depois de criar um programa de e-mail, você desejará dizer a ele para quem enviar o e-mail. Você pode fazer isso ao [criar uma lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ou importando uma lista. Veja como fazer isso importando uma lista.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Depois de criar um programa de e-mail, você desejará dizer a ele para quem env
 >
 >Todos os campos de data/hora que estão sendo importados são tratados como Hora Central. Se você tiver campos de data/hora em um fuso horário diferente, poderá usar uma fórmula do Excel para transformá-la em Hora Central (América/Chicago).
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -70,7 +70,7 @@ Depois de criar um programa de e-mail, você desejará dizer a ele para quem env
 >
 Clique no número para obter uma lista detalhada de pessoas bloqueadas de correspondências.
 >
->Use o botão ![—](assets/image2014-10-23-16-3a32-3a36-1.png) no bloco **Audiência** para ver quantas pessoas se qualificaram para receber o email com base em critérios de lista inteligente. Subtraia o número Bloqueado do número de Pessoas para obter o número total de pessoas que receberão o email.
+>Use o botão ![—](assets/image2014-10-23-16-3a32-3a36-1.png) no bloco **Audiência** para ver quantas pessoas estão qualificadas para receber o email com base em critérios de lista inteligente. Subtraia o número Bloqueado do número de Pessoas para obter o número total de pessoas que receberão o email.
 
 >[!TIP]
 >
