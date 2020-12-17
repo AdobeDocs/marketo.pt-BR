@@ -19,7 +19,7 @@ Os seguintes recursos estão incluídos na versão de janeiro/fevereiro. Verifiq
 >
 >**Mergulho profundo**
 >
->Para outras versões, consulte as [Notas](http://docs.marketo.com/display/docs/release+notes) de versão em profundidade.
+>Para outras versões, consulte as [Notas de versão](http://docs.marketo.com/display/docs/release+notes) profundas.
 
 ## Conteúdo dinâmico avançado {#advanced-dynamic-content}
 
@@ -29,7 +29,7 @@ Com conteúdo dinâmico avançado, você pode criar landings page e comunicaçõ
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## Segmentação  {#segmentation}
+## Segmentação {#segmentation}
 
 *Disponível para versões Pro e Enterprise*
 
@@ -73,7 +73,7 @@ Uma visualização de texto e HTML lado a lado
 
 O Nome - De, Email, Responder (NOVO) e Assunto são exibidos no editor. Todas as outras configurações podem ser acessadas pelo botão Editar configurações.
 
-## Suporte ao navegador {#browser-support}
+## Suporte a navegador {#browser-support}
 
 * Mozilla Firefox 9.0
 * Google Chrome 16
@@ -86,11 +86,11 @@ O gerenciamento simplificado de programas melhora a praticidade com a exclusão 
 
 ![](assets/image2014-9-23-9-3a52-3a11.png)
 
-## Cancelar inscrição no relatório de Subscrição {#unsubscribe-from-subscription-report}
+## Cancelar inscrição no Relatório de Subscrição {#unsubscribe-from-subscription-report}
 
 Agora você pode cancelar a inscrição da subscrição diretamente do relatório!
 
-## Atualizações de Munchkin {#munchkin-updates}
+## Atualizações Munchkin {#munchkin-updates}
 
 As novas chamadas Munchkin reduzem o tempo de carregamento da página da Web e proporcionam um desempenho mais consistente para eventos de link de cliques.
 
@@ -100,7 +100,7 @@ Compreender a contribuição de marketing para a receita de oportunidade individ
 
 ![](assets/image2014-9-23-9-3a52-3a30.png)
 
-## Análise de Estágio da Receita do programa {#program-revenue-stage-analysis}
+## Análise de Estágio de Receita do programa {#program-revenue-stage-analysis}
 
 Saiba mais sobre a velocidade de chumbo do programa, entendendo quais programas adquiriram os motores rápidos
 
