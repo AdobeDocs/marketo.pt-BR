@@ -19,7 +19,7 @@ Queremos enviar emails do Sales Connect para nos sentirmos como uma experiência
 
    ![](assets/add-your-email-signature-1.png)
 
-1. Em Minha conta, selecione Configurações **de** email.
+1. Em Minha conta, selecione **Configurações de e-mail**.
 
    ![](assets/add-your-email-signature-2.png)
 
@@ -31,7 +31,7 @@ Queremos enviar emails do Sales Connect para nos sentirmos como uma experiência
 
    ![](assets/add-your-email-signature-4.png)
 
-1. Digite o texto desejado (ou imagens) e clique em **Salvar**.
+1. Insira o texto desejado (ou imagens) e clique em **Salvar**.
 
    ![](assets/add-your-email-signature-5.png)
 
