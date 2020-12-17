@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Alterar o padrão do rótulo de e-mail e de {#change-the-default-from-email-and-from-label}
+# Alterar o padrão do e-mail e do rótulo {#change-the-default-from-email-and-from-label}
 
-Cada usuário administrador tem a capacidade de alterar os valores padrão para **De e-mail** e **De rótulo** para que, ao criar novos e-mails, esses padrões sejam usados.
+Cada usuário administrador tem a capacidade de alterar os valores padrão para **Do e-mail** e **Do rótulo** para que, ao criar novos e-mails, esses padrões sejam usados.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a seção **Admin** .
+1. Vá para a seção **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -27,7 +27,7 @@ Cada usuário administrador tem a capacidade de alterar os valores padrão para 
 
    ![](assets/image2014-9-18-16-3a27-3a19.png)
 
-1. Digite os valores padrão desejados para **De e-mail** e **De rótulo** e clique em **Salvar alterações**.
+1. Digite os valores padrão que deseja para **Do e-mail** e **Do rótulo** e clique em **Salvar alterações**.
 
    ![](assets/change-default-hands.png)
 
