@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Campeão/Desafiador: Emails completos {#champion-challenger-whole-emails}
+# Campeão/Desafiador: Emails Inteiros {#champion-challenger-whole-emails}
 
 Teste emails inteiros uns contra os outros. Quando o teste terminar, envie o melhor desempenho.
 
@@ -23,7 +23,7 @@ Teste emails inteiros uns contra os outros. Quando o teste terminar, envie o mel
 
 
 
-1. No editor de teste de email, selecione Emails **** inteiros na lista suspensa **Tipo de teste **Tipo de teste.
+1. No editor de teste de e-mail, selecione **Emails inteiros** na lista suspensa **Tipo de teste **1.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -31,7 +31,7 @@ Teste emails inteiros uns contra os outros. Quando o teste terminar, envie o mel
    >
    >Lembre-se: O e-mail original é o campeão. Os adversários competem contra isso.
 
-1. Localize e selecione os emails **Challengers** e clique em **Clonar**.
+1. Localize e selecione os e-mails **Challengers** e clique em **Clonar**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -50,9 +50,9 @@ Teste emails inteiros uns contra os outros. Quando o teste terminar, envie o mel
    >
    >Na distribuição mostrada acima, 15% da audiência total especificada na lista inteligente recebe um dos emails desafiantes e 85% recebem o email campeão. Vários emails desafiadores compartilham os 15% igualmente. Quando o teste terminar, você pode declarar um vencedor manualmente. A partir daí, todas as pessoas futuras receberão o conteúdo com melhor desempenho.
 
-   [Mais informação do que você já quis sobre confiança](http://en.wikipedia.org/wiki/Confidence_interval)estatística.
+   [Mais informação do que você já quis sobre confiança](http://en.wikipedia.org/wiki/Confidence_interval) estatística.
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 
