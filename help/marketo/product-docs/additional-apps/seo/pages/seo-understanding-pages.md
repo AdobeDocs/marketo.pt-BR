@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# SEO - Compreensão de páginas {#seo-understanding-pages}
+# SEO - Compreensão das páginas {#seo-understanding-pages}
 
-## Pontuação de otimização de página / Widget de fazer {#page-optimization-score-to-do-widget}
+## Pontuação de otimização de página / Widget de tarefa {#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
