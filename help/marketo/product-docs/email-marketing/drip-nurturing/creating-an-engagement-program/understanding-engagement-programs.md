@@ -17,11 +17,11 @@ Os programas de envolvimento são projetados para comercializar novas pessoas, a
 
 >[!NOTE]
 >
->Há um limite de 100 programas de envolvimento **ativos** por subscrição.
+>Há um limite de 100 **programas de envolvimento ativos** por subscrição.
 
 ## Programa de envolvimento {#engagement-program}
 
-Um **envolvimento por****grama** é um tipo de programa que pode realizar com facilidade nutrição complexa.
+Um **envolvimento pr***ograma** é um tipo de programa que pode realizar nutrição complexa com facilidade.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
@@ -31,7 +31,7 @@ Artigo relacionado:
 
 ## Fluxo {#stream}
 
-Um **fluxo** é um pool de conteúdo priorizado que o programa de envolvimento usará para nutrir as pessoas.
+Um **stream** é um pool de conteúdo priorizado que o programa de envolvimento usará para nutrir pessoas.
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -42,7 +42,7 @@ Artigos relacionados:
 
 ## Conteúdo {#content}
 
-Existem dois tipos de **conteúdo** que você pode adicionar aos fluxos de programas de envolvimento: e-mails e programas. Os emails serão enviados às pessoas no momento da transmissão.
+Há dois tipos de **content** que você pode adicionar aos fluxos de programas de envolvimento: emails e programas. Os emails serão enviados às pessoas no momento da transmissão.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
@@ -54,9 +54,9 @@ Artigos relacionados:
 * [Remover conteúdo de fluxo](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 * [Arquivar e desarquivar conteúdo de fluxo](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-## Cast {#cast}
+## Converter {#cast}
 
-Um **elenco** é a evento de enviar emails de um Programa de Envolvimento.
+Um **cast** é a evento de enviar emails de um Programa de Envolvimento.
 
 >[!NOTE]
 >
@@ -64,9 +64,9 @@ Um **elenco** é a evento de enviar emails de um Programa de Envolvimento.
 
 ## Cadência de fluxo {#stream-cadence}
 
-Você decide quando um elenco acontece ao configurar a cadência **de** fluxo. É assim que você agenda o conteúdo para sair em intervalos regulares.
+Você decide quando um elenco acontece configurando **cadência de fluxo**. É assim que você agenda o conteúdo para sair em intervalos regulares.
 
-` ![](assets/image2014-9-15-15-3a25-3a27.png)
+&#39; ![](assets/image2014-9-15-15-3a25-3a27.png)
 
 `
 
@@ -74,17 +74,17 @@ Artigo relacionado:
 
 * [Definir cadência de fluxo](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
-## Cadência pessoal {#person-cadence}
+## Cadência da pessoa {#person-cadence}
 
-Uma cadência **de** pessoa é um status que define sua capacidade de receber conteúdo de um programa de envolvimento. Você pode usar a etapa **Alterar cadência** do Programa de envolvimento para alterar isso para Pausado ou Normal.
+Uma **cadência de pessoa** é um status que define sua capacidade de receber conteúdo de um programa de envolvimento. Você pode usar a etapa de fluxo **Alterar cadência do Programa de envolvimento** para alterar isso para Pausado ou Normal.
 
-` ![](assets/image2014-9-15-15-3a25-3a55.png)
+&#39; ![](assets/image2014-9-15-15-3a25-3a55.png)
 
 `
 
 ## Esgotado {#exhausted}
 
-Uma vez que uma pessoa recebe cada pedaço de conteúdo em um stream, nós chamamos a pessoa **Exausta**.
+Depois que uma pessoa recebe cada pedaço de conteúdo em um fluxo, chamamos a pessoa **Exhausted**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
@@ -96,7 +96,7 @@ Uma vez que uma pessoa recebe cada pedaço de conteúdo em um stream, nós chama
 
 
 
-## Nível de envolvimento do conteúdo {#content-engagement-level}
+## Nível de envolvimento de conteúdo {#content-engagement-level}
 
 O Nível de envolvimento do conteúdo é uma pontuação de 0 a 100 pontos que o Marketo fornecerá ao seu conteúdo. Esse número é determinado por uma fórmula sofisticada usando abrir, clicar, cancelar a inscrição, sucesso do programa e outros fatores.
 
