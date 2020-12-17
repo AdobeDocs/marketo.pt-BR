@@ -19,8 +19,8 @@ Tudo o que você precisa fazer é escolher quando gostaria que seus emails fosse
 
 Se você não agendou sua primeira etapa ou não precisou escolher uma hora de &quot;Enviar em&quot;, será solicitado que você escolha quando sua Campanha deve ser enviada, toda vez que você adicionar uma pessoa ou um grupo.
 
-Abra o modal Adicionar à Campanha, adicionando indivíduos, um grupo ou pessoas selecionadas e clique em **Avançar**.
+Abra o modal Adicionar à Campanha, adicionando indivíduos, um grupo ou pessoas selecionadas e clique em **Próximo**.
 
-Depois de clicar em **Avançar**, você pode pré-visualização o primeiro email.
+Depois de clicar em **Próximo**, você pode pré-visualização o primeiro email.
 
 Depois de clicar em **Próximo **novamente, você será levado para uma opção para quando quiser que sua campanha saia. Você pode ter start agora ou agendar um horário para mais tarde começar a campanha.
