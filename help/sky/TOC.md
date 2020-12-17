@@ -20,7 +20,7 @@ ht-degree: 0%
 + Introdução {#getting-started}
    + [Recursos do Marketo Sky](marketo-sky-features.md)
    + [Como começar](how-to-enable-roles-for-marketo-sky.md)
-+ Programas eventos {#event-programs}
++ Programas de evento {#event-programs}
    + [Definição de uma tampa de Evento](setting-an-event-cap.md)
    + [Definição de metas de Evento](setting-event-goals.md)
 + Pastas de campanha {#campaign-folders}
@@ -53,11 +53,11 @@ ht-degree: 0%
    + [Noções básicas sobre Programas de envolvimento](understanding-engagement-programs.md)
    + [Como entender a pontuação de envolvimento](understanding-the-engagement-score.md)
    + [Uso de um Programa em um fluxo de Programa de envolvimento](using-a-program-in-an-engagement-program-stream.md)
-+ Etiquetas {#labels}
++ Rótulos {#labels}
    + [Adicionar e remover etiquetas](add-and-remove-labels.md)
    + [Copiar rótulos do original para o clone](copy-labels-from-original-to-clone.md)
    + [Copiar rótulos de pai para filho](copy-labels-from-parent-to-child.md)
-+ Meus Tokens {#my-tokens}
++ Meus tokens {#my-tokens}
    + [Criar minhas pastas de token](create-my-token-folders.md)
    + [Minhas ações de token: Editar, excluir, clonar e copiar nomes de token](my-token-actions-edit-delete-clone-and-copy-token-names.md)
    + [Meu token: Arquivo de calendário](my-token-calendar-file.md)
@@ -87,7 +87,7 @@ ht-degree: 0%
    + [Ativos locais: Ações em massa](local-assets-mass-actions.md)
    + [Uso da guia Visão geral do Programa](using-the-program-overview-tab.md)
    + [Usando a guia Configuração do Programa](using-the-program-setup-tab.md)
-+ visualização cronograma do programa {#program-schedule-view}
++ visualização do cronograma do programa {#program-schedule-view}
    + [Criar uma entrada básica na Visualização do Cronograma do programa](create-a-basic-entry-in-program-schedule-view.md)
    + [Criar uma Campanha inteligente em lote na Visualização do Cronograma do programa](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [Criar um Programa de email na Visualização do Cronograma do programa](create-an-email-program-in-program-schedule-view.md)
