@@ -23,11 +23,11 @@ As páginas de fallback são a última linha de defesa se sua landing page estiv
 
    ![](assets/image2014-9-10-12-3a7-3a22.png)
 
-1. Na guia **Landing page** , clique em **Editar**.
+1. Na guia **Landing page**, clique em **Editar**.
 
    ![](assets/image2014-9-10-12-3a7-3a5.png)
 
-1. Digite uma página **de** fallback na caixa de diálogo e clique em **Salvar**.
+1. Digite uma **página de fallback** na caixa de diálogo e clique em **Salvar**.
 
    ![](assets/image2014-9-10-12-3a6-3a2.png)
 
