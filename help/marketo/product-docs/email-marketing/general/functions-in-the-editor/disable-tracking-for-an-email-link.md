@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Desativar o rastreamento para um link de email {#disable-tracking-for-an-email-link}
+# Desabilitar rastreamento para um link de email {#disable-tracking-for-an-email-link}
 
-Às vezes, você não quer ativar o URL **de rastreamento de** marketing em um link em um email. Isso é útil quando a página de destino não suporta parâmetros de URL e pode resultar em um link quebrado.
+Às vezes, você não deseja ativar o **URL de rastreamento de marketing** em um link em um email. Isso é útil quando a página de destino não suporta parâmetros de URL e pode resultar em um link quebrado.
 
-1. Selecione seu email e clique em **Editar** **rascunho**.
+1. Selecione seu email e clique em **Editar** **Rascunho**.
 
    ![](assets/one-7.png)
 
@@ -23,21 +23,21 @@ ht-degree: 0%
 
    ![](assets/two-6.png)
 
-1. Clique no link em questão e, em seguida, clique no botão **Inserir/Editar link** .
+1. Clique no link em questão e, em seguida, clique no botão **Inserir/Editar link**.
 
    ![](assets/three-6.png)
 
-1. No pop-up Editar link, desmarque a caixa de seleção **Rastrear link** .
+1. No pop-up Editar link, desmarque a caixa de seleção **Rastrear link**.
 
    ![](assets/four-4.png)
 
-1. Você notará que a caixa **Incluir mkt_tok** desaparece. Clique em **Aplicar**.
+1. Você notará que **Incluir mkt_tok box** desaparece. Clique em **Aplicar**.
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >Desmarcar apenas **Incluir mkt_tok** permitirá que o link seja rastreado, mas após o redirecionamento, o URL de destino não incluirá o parâmetro de string de query mkt_tok. Este parâmetro é usado pelo Marketo Landing page e Munchkin para garantir o rastreamento correto das atividades pessoais (como quando uma pessoa se cancela a assinatura de um email). Evite usar esse recurso, a menos que você veja um comportamento estranho em seu site devido ao parâmetro estar presente.
+   >Desmarcar apenas **Incluir mkt_tok** ainda permitirá que o link seja rastreado, mas, após o redirecionamento, o URL de destino não incluirá o parâmetro de string de query mkt_tok. Este parâmetro é usado pelo Marketo Landing page e Munchkin para garantir o rastreamento correto das atividades pessoais (como quando uma pessoa se cancela a assinatura de um email). Evite usar esse recurso, a menos que você veja um comportamento estranho em seu site devido ao parâmetro estar presente.
 
 1. Clique em **Salvar**.
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Deseja desativar o rastreamento de cliques para um link em um **modelo**de email? Use este formato:
+   >Deseja desativar o rastreamento de cliques para um link em um e-mail **template**? Use este formato:
    >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`\
    >Se precisar de ajuda para implementar isso, consulte seu desenvolvedor da Web.
 
