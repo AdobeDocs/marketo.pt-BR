@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Definir uma Audiência com uma Lista inteligente {#define-an-audience-with-a-smart-list}
 
-Depois de [criar um programa](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)de e-mail, você deverá informar a ele para quem enviar o e-mail. Você pode fazer isso [importando uma lista de pessoas](define-an-audience-by-importing-a-list.md) ou com uma lista inteligente. Veja como fazer isso com uma lista inteligente.
+Depois que você [criar um programa de e-mail](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), você desejará informá-lo para quem enviar o e-mail. Você pode fazer isso importando [uma lista de pessoas](define-an-audience-by-importing-a-list.md) ou com uma lista inteligente. Veja como fazer isso com uma lista inteligente.
 
 >[!PREREQUISITES]
 >
@@ -29,11 +29,11 @@ Depois de [criar um programa](../../../../product-docs/email-marketing/email-pro
 >
 >A definição da sua audiência só funcionará quando o programa de e-mail não for aprovado.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu programa de e-mail e clique em **Editar Lista** inteligente abaixo do bloco **Audiência** .
+1. Selecione seu programa de email e clique em **Editar Lista inteligente** no bloco **Audiência**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
@@ -54,13 +54,13 @@ Depois de [criar um programa](../../../../product-docs/email-marketing/email-pro
    >**Mergulho profundo**
    >
    >
-   >Veja listas [inteligentes e listas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) estáticas para saber mais sobre como usar e definir filtros.
+   >Confira [listas inteligentes e listas estáticas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) para saber mais sobre como usar e definir filtros.
 
 1. Quando terminar de adicionar e definir filtros, volte para a guia programa principal. Você verá quantas pessoas se qualificam.
 
    ![](assets/myemailprogram.jpg)
 
-   Excelente trabalho! Agora é hora de [escolher um email](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) existente ou [criar um email](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) para essas pessoas.
+   Excelente trabalho! Agora é hora de [escolher um email existente](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou [criar um email](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) para enviar a essas pessoas.
 
 >[!NOTE]
 >
@@ -76,7 +76,7 @@ Depois de [criar um programa](../../../../product-docs/email-marketing/email-pro
 
 >
 >
-Clique no número para obter uma lista detalhada de pessoas bloqueadas de correspondências. **Observe que:** Os emails operacionais ainda serão enviados para pessoas marcadas como não assinadas e o marketing suspenso.
+Clique no número para obter uma lista detalhada de pessoas bloqueadas de correspondências. **Observe que os emails** operacionais ainda serão enviados para as pessoas marcadas como não assinadas e o marketing suspenso.
 >
 >Use o botão ![—](assets/image2014-10-23-16-3a32-3a36.png) no bloco Audiência para ver quantas pessoas receberão o email.
 
