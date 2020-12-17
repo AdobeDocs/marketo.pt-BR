@@ -122,7 +122,7 @@ Você pode configurar seu layout seguindo estas etapas.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Selecione a seção **Emails** .
+1. Selecione a seção **Emails**.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
