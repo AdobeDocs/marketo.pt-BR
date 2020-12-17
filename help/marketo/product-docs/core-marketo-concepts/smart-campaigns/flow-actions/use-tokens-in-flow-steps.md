@@ -18,7 +18,7 @@ ht-degree: 0%
 >* [Adicionar uma Etapa de fluxo a uma Campanha inteligente](add-a-flow-step-to-a-smart-campaign.md)
 
 
-Um token é uma variável. Você o usa em [emails](https://docs.marketo.com/pages/viewpage.action?pageId=557076), [landings page](https://docs.marketo.com/pages/viewpage.action?pageId=2359689)e campanhas [](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists) inteligentes para facilitar sua vida. Você pode usar [Meus tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (tokens personalizados) em etapas de fluxo, webhooks, e-mails e landings page.  Você pode usar tokens para incluir conteúdo variável nessas etapas de fluxo:
+Um token é uma variável. Use-o em [e-mails](https://docs.marketo.com/pages/viewpage.action?pageId=557076), [landing page](https://docs.marketo.com/pages/viewpage.action?pageId=2359689) e [campanhas inteligentes](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists) para facilitar sua vida. Você pode usar [Meus tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (tokens personalizados) em etapas de fluxo, webhooks, e-mails e landings page.  Você pode usar tokens para incluir conteúdo variável nessas etapas de fluxo:
 
 * Alterar valor de dados
 * Momento interessante
@@ -32,13 +32,13 @@ Um token é uma variável. Você o usa em [emails](https://docs.marketo.com/page
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
-1. Na etapa de fluxo, digite o start `{{` para obter categorias de token. ![](assets/image2014-9-22-14-3a3-3a17.png)>
+1. Na etapa de fluxo, start digitando `{{` para obter categorias de token. ![](assets/image2014-9-22-14-3a3-3a17.png)>
 
    >[!NOTE]
    >
    >**Mergulho profundo**
    >
-   >Consulte Visão geral [dos](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) tokens para obter uma lista de vários tokens disponíveis.
+   >Verifique [Visão geral dos tokens](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para obter uma lista de vários tokens disponíveis.
 
 1. Continue digitando até encontrar o token desejado e clique para selecionar.
 
