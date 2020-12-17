@@ -33,10 +33,10 @@ Se você estiver [usando SSO](add-single-sign-on-to-a-portal.md) e quiser garant
 
 >[!TIP]
 >
->Se você selecionar **Exigir SSO**, poderá excluir uma função [de](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) usuário dessa restrição marcando a opção **Ignorar logon** único ao configurar a função. Isso permitirá que os usuários façam logon normalmente. Por exemplo, os usuários administradores ainda podem precisar fazer logon no Marketo pela tela de logon.
+>Se você selecionar **Exigir SSO**, poderá excluir uma [função de usuário](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) desta restrição, marcando a opção **Ignorar logon único** ao configurar a função. Isso permitirá que os usuários façam logon normalmente. Por exemplo, os usuários administradores ainda podem precisar fazer logon no Marketo pela tela de logon.
 
 >[!CAUTION]
 >
->Quando novos usuários são convidados, eles recebem e-mails de convite. No entanto, se **Exigir SSO** estiver selecionado, eles não receberão esses emails, a menos que sejam atribuídos a uma função definida como **Ignorar logon**&#x200B;único.
+>Quando novos usuários são convidados, eles recebem e-mails de convite. Entretanto, se **Exigir SSO** for selecionado, eles não receberão esses emails, a menos que sejam atribuídos a uma função definida como **Ignorar logon único**.
 
 É isso! Agora, todos os usuários (exceto os usuários com permissão para ignorar o logon único) estarão restritos ao uso apenas do logon SSO.
