@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Notas de versão: Inverno de 17 {#release-notes-winter}
+# Notas de versão: Inverno &#39;17 {#release-notes-winter}
 
 Os seguintes recursos estão incluídos na versão de inverno de 17. Verifique sua edição de marketing para ver a disponibilidade de recursos.
 
