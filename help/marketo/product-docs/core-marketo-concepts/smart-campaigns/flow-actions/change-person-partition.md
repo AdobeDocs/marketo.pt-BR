@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Visão geral {#overview}
 
-Se você estiver usando [espaços de trabalho e partições](http://docs.marketo.com/x/9QMk), será necessário criar campanhas inteligentes para mover pessoas de uma partição para outra.
+Se estiver usando [espaços de trabalho e partições](http://docs.marketo.com/x/9QMk), você desejará criar campanhas inteligentes para mover pessoas de uma partição para outra.
 
 ![](assets/one-3.png)
 
