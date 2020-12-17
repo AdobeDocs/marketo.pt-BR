@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Depois de executar um programa de email e ter alguns dados no painel, você poderá exportar esses dados brutos para se destacar para obter mais análises. Veja como.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -40,5 +40,5 @@ Depois de executar um programa de email e ter alguns dados no painel, você pode
 >
 >**Mergulho profundo**
 >
->Quer saber mais sobre Programas [de e-](http://docs.marketo.com/display/docs/email+programs)mail?
+>Quer aprender mais sobre [Programas de e-mail](http://docs.marketo.com/display/docs/email+programs)?
 
