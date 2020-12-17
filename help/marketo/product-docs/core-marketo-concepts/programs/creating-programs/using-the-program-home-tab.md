@@ -5,19 +5,19 @@ title: Uso da guia Início do Programa
 translation-type: tm+mt
 source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
 
-# Uso da guia Início do Programa {#using-the-program-home-tab}
+# Usando a guia Início do Programa {#using-the-program-home-tab}
 
 A guia inicial do programa oferece uma visualização de alto nível do que está acontecendo no seu programa.
 
 ## Visualização de resumo {#summary-view}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,13 +37,13 @@ A guia inicial do programa oferece uma visualização de alto nível do que est�
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
-## Usado por Visualização {#used-by-view}
+## Usado pela Visualização {#used-by-view}
 
 1. Nas Atividades de marketing, selecione um programa.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Clique no menu suspenso **Visualização** . Selecione **Usado por**.
+1. Clique no menu suspenso **Visualização**. Selecione **Utilizado por**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -57,7 +57,7 @@ A guia inicial do programa oferece uma visualização de alto nível do que est�
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Clique no menu suspenso **Visualização** . Selecione **Associação**.
+1. Clique no menu suspenso **Visualização**. Selecione **Associação**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ A guia inicial do programa oferece uma visualização de alto nível do que est�
 
    >[!NOTE]
    >
-   >**O histórico** significa qualquer um que já passou pelo programa, enquanto o **Current** só inclui pessoas que estão no programa.
+   >**O** Histórico significa qualquer um que já passou pelo programa, enquanto o  **** atual inclui apenas pessoas que estão no programa.
 
    >[!NOTE]
    >
