@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Converter em pasta de arquivo
 
-Clique com o botão direito do mouse em qualquer pasta e selecione **[!UICONTROL Converter em pasta]** de arquivamento.
+Clique com o botão direito do mouse em qualquer pasta e selecione **[!UICONTROL Converter em pasta de arquivamento]**.
 
 ![Imagem Um](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
@@ -32,7 +32,7 @@ Depois que você arquivar uma pasta, seu ícone mudará para um arquivo, como mo
    >pasta.
 >* Os ativos na pasta não aparecem mais na sugestão automática.
 >* Modelos arquivados não estão disponíveis ao criar um email
-   >ou landing page no [!UICONTROL Design Studio].
+   >ou landing page em [!UICONTROL Design Studio].
 >* As páginas arquivadas não podem ser usadas em grupos de teste de landing page.
 
 >
