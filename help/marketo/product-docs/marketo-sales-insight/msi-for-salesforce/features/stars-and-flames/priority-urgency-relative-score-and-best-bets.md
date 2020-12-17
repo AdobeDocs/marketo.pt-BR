@@ -43,7 +43,7 @@ Suas Melhores Apostas são seus clientes potenciais e contatos com maior urgênc
 
 >[!NOTE]
 >
->Se suas melhores apostas não corresponderem às melhores clientes potenciais e contatos que você possui, fale com alguém na sua empresa que tem acesso ao Marketo sobre como atualizar suas Regras [de](../../../../../getting-started/quick-wins/simple-scoring.md)Pontuação.
+>Se suas melhores apostas não corresponderem às melhores clientes potenciais e contatos que você possui, fale com alguém na sua empresa que tenha acesso ao Marketo sobre como atualizar suas [Regras de Pontuação](../../../../../getting-started/quick-wins/simple-scoring.md).
 
 ### Como a urgência e a pontuação relativa são calculadas
 
