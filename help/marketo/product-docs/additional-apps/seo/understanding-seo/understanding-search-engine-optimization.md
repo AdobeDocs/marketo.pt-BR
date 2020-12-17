@@ -19,17 +19,23 @@ Primeiro, você deve aprender o básico com este glossário prático.
 
 ## Glossário SEO {#seo-glossary}
 
-**Otimização do mecanismo de pesquisa (SEO)** Uma combinação de estratégias e técnicas usadas para aumentar o tráfego do site, obtendo uma colocação em alta classificação nas páginas de resultados do mecanismo de pesquisa (SERP).
+**Otimização do mecanismo de pesquisa (SEO)**
+Uma combinação de estratégias e técnicas usadas para aumentar o tráfego do site, obtendo uma colocação em alta classificação nas páginas de resultados do mecanismo de pesquisa (SERP).
 
-**Palavra-chave** Uma palavra-chave é a palavra ou frase que as pessoas digitam em mecanismos de pesquisa como Google, Yahoo ou Bing.
+**Palavra-**
+chaveUma palavra-chave é a palavra ou frase que as pessoas digitam em mecanismos de pesquisa como Google, Yahoo ou Bing.
 
-**Links** de entrada em outros sites que direcionam o tráfego para o site. Quanto maior for a reputação do site de vinculação, mais valioso será esse link de entrada.
+**Links**
+de entrada em outros sites que direcionam o tráfego para o site. Quanto maior for a reputação do site de vinculação, mais valioso será esse link de entrada.
 
-**A classificação** SERP significa a página de resultado do mecanismo de pesquisa. Os mecanismos de pesquisa retornam várias páginas de resultados. A classificação SERP é a página que seu link exibe. Geralmente, há 10 resultados por página.
+**SERP**
+rankingSignifica a Página de Resultado do Mecanismo de Pesquisa. Os mecanismos de pesquisa retornam várias páginas de resultados. A classificação SERP é a página que seu link exibe. Geralmente, há 10 resultados por página.
 
-**Visualização** do mecanismo de pesquisa A maneira como um computador do mecanismo de pesquisa percebe seu site em oposição à forma como um ser humano o faz.
+**Modo de**
+exibição do mecanismo de pesquisaA forma como um computador com mecanismo de pesquisa percebe seu site em oposição à forma como um ser humano o faz.
 
-**Termos** de pesquisa de cabeça gorda Palavras-chave genéricas que lançam uma rede muito grande. Eles respondem por cerca de 19% de todos os termos de pesquisa usados.
+**Palavras-chave**
+Termos de pesquisa de cabeça gordaPalavras-chave genéricas que lançam uma rede muito grande. Eles respondem por cerca de 19% de todos os termos de pesquisa usados.
 
 >[!NOTE]
 >
@@ -61,7 +67,8 @@ Palavras-chave super específicas. Eles são usados cerca de 70% do tempo.
 
 A Pontuação de otimização é uma pontuação de marketing proprietária que mede todas as páginas do site em uma escala de 1 a 100. Baseia-se numa compilação de dezenas de melhores práticas. Uma pontuação de 70 ou mais indica um site bastante otimizado.
 
-**Otimização** na páginaMedidas que podem ser tomadas diretamente no seu site para melhorar sua posição nas páginas de resultados do mecanismo de pesquisa.
+**Otimização na páginaMedidas que podem ser tomadas diretamente no seu site para melhorar sua posição nas páginas de resultados do mecanismo de pesquisa.**
+
 
 >[!NOTE]
 >
@@ -83,8 +90,8 @@ Isso não foi tão ruim.
 
 ## Como começar? {#how-do-i-get-started}
 
-1. Desenvolver sua estratégia com [palavras-chave](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-1. Correção de problemas existentes em [Compreensão de páginas](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-1. Estenda seu alcance [Compreendendo links de entrada](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+1. Desenvolver sua estratégia com [Entendendo as palavras-chave](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+1. Corrigir problemas existentes em [Compreensão de páginas](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+1. Estenda seu alcance por [Entendendo links de entrada](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
 Sua meta é estar o mais próximo da primeira página (e do primeiro resultado) para palavras-chave que importam para a sua empresa.
