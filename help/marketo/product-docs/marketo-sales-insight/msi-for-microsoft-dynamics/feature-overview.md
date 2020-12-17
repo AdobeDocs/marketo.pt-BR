@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Os seguintes recursos estão disponíveis na nova MSI MSD Solution.
 
-## Painel de informações de vendas do Marketing Cloud no layout de clientes potenciais  {#marketo-sales-insight-panel-in-lead-layout}
+## Painel de informações de vendas do Marketing Cloud {#marketo-sales-insight-panel-in-lead-layout}
 
 * Estrelas e chamas
 * Momento interessante
@@ -23,24 +23,24 @@ Os seguintes recursos estão disponíveis na nova MSI MSD Solution.
 * Pontuação
 * Email (abrir e clicar)
 
-## Campos personalizados do Insight de Vendas do Marketing no Layout principal  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## Campos personalizados do Insight de Vendas do Marketing em Layout principal {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * Pontuação principal
 * Pontuação relativa
 * Prioridade
 * Urgência
 
-## Chamada de insight de vendas de marketing para botão de ação no layout de cliente potencial  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## Chamada de insight de vendas do Marketo para o botão de ação no layout de cliente potencial {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Adicionar à Campanha de marketing
 * Enviar email para o Marketo
 
-## Botão de ação em massa do Marketing Insight de Vendas no Lead lista visualização  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## Botão de ação em massa do Insight de Vendas do Marketing na visualização de lista de cliente em potencial {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * Adicionar à Campanha de marketing
 * Enviar email para o Marketo
 
-## Painel de informações de vendas do Marketing Cloud no layout Contato  {#marketo-sales-insight-panel-in-contact-layout}
+## Painel de informações de vendas do Marketing Cloud {#marketo-sales-insight-panel-in-contact-layout} no layout de contato
 
 * Estrelas e chamas
 * Momento interessante
@@ -48,24 +48,24 @@ Os seguintes recursos estão disponíveis na nova MSI MSD Solution.
 * Pontuação
 * Email (abrir e clicar)
 
-## Campos personalizados do Marketing to Sales Insight no layout Contato  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## Campos personalizados do Insight de Vendas do Marketing em Layout de contato {#marketo-sales-insight-custom-fields-in-contact-layout}
 
 * Pontuação principal
 * Pontuação relativa
 * Prioridade
 * Urgência
 
-## Chamada de insight de vendas de marketing para botão de ação no layout Contato  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## Chamada de insight de vendas do Marketo para o botão de ação no layout Contato {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * Adicionar à Campanha de marketing
 * Enviar email para o Marketo
 
-## Botão de ação em massa do Marketing Insight de Vendas no Contato visualização de lista  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## Botão de ação em massa do Marketing Insight de Vendas no Contato visualização de lista {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * Adicionar à Campanha de marketing
 * Enviar email para o Marketo
 
-## Página Melhores Melhores Propostas do Marketing  {#marketo-best-bets-page}
+## Página Melhores Propostas do Marketing {#marketo-best-bets-page}
 
 * Prioridade (estrelas e chamas)
 * Nome (Hipervinculado à página Cliente Potencial/Contato)
