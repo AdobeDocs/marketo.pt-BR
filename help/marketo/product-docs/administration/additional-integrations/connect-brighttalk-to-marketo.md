@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Conexão BrightTALK ao Marketo {#connect-brighttalk-to-marketo}
+# Ligar BrightTALK a Marketo {#connect-brighttalk-to-marketo}
 
 Saiba como conectar seu canal BrightTALK à sua instância do Marketo. Para fazer isso, você deve ser um Administrador para ambos.
 
@@ -22,7 +22,7 @@ Saiba como conectar seu canal BrightTALK à sua instância do Marketo. Para faze
 ## Etapas no BrightTALK {#steps-in-brighttalk}
 
 1. Faça logon em [business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login) e clique em **Conectar agora**.
-1. Em Conector de marketing avançado, clique em **Conectar**.
+1. Em Conector de marketing avançado, clique em **Connect**.
 1. Você verá a tela de credenciais, solicitando: ID do cliente, segredo do cliente, URL do serviço de identidade e URL do serviço de restauração. Para obter essas informações, faça logon no Marketo.
 
 ## Etapas no Marketo {#steps-in-marketo}
@@ -31,8 +31,8 @@ Saiba como conectar seu canal BrightTALK à sua instância do Marketo. Para faze
 >
 >Nesse ponto, você será solicitado a configurar uma função de usuário somente API e um usuário de API para restringir quais permissões BrightTALK terá na sua instância de Marketo. Como já temos artigos para essas etapas, conectaremos você a elas.
 
-1. Criar uma função [de usuário somente](http://docs.marketo.com/x/iwMk)API.
-1. [Crie um usuário](http://docs.marketo.com/x/jwMk)da API usando a Função da API BrightTALK criada durante a Etapa 4.
+1. Crie uma função de usuário somente [API](http://docs.marketo.com/x/iwMk).
+1. [Crie um usuário](http://docs.marketo.com/x/jwMk) da API usando a Função da API BrightTALK criada durante a Etapa 4.
 1. Volte para a área Admin.
 
    ![](assets/one.png)
@@ -41,11 +41,11 @@ Saiba como conectar seu canal BrightTALK à sua instância do Marketo. Para faze
 
    ![](assets/two.png)
 
-1. Clique na lista suspensa **Novo** e selecione **Novo serviço**.
+1. Clique no menu suspenso **Novo** e selecione **Novo serviço**.
 
    ![](assets/three.png)
 
-1. Insira um Nome de exibição de sua escolha. Clique na lista suspensa Serviço e selecione **Personalizado** ( **não** selecione BrightTALK).
+1. Insira um Nome de exibição de sua escolha. Clique na lista suspensa Serviço e selecione **Personalizado** (do **not** selecione BrightTALK).
 
    ![](assets/four.png)
 
@@ -57,19 +57,19 @@ Saiba como conectar seu canal BrightTALK à sua instância do Marketo. Para faze
 
    ![](assets/five.png)
 
-1. Clique em Detalhes **da** Visualização para obter o serviço personalizado que você acabou de criar.
+1. Clique em **Detalhes da Visualização** para obter o serviço personalizado que você acabou de criar.
 
    ![](assets/six.png)
 
-1. Copie (e salve) a ID **do** cliente e o segredo do **cliente**. Clique em **Fechar**.
+1. Copie (e salve) a **ID do cliente** e **Segredo do cliente**. Clique em **Fechar**.
 
    ![](assets/eight-1.png)
 
-1. Em Integração, selecione Serviços **da Web**.
+1. Em Integração, selecione **Serviços Web**.
 
    ![](assets/nine-1.png)
 
-1. Em Restaurar API, copie (e salve) o **Ponto de extremidade** e a **identidade**.
+1. Em Restaurar API, copie (e salve) o **Endpoint** e **Identity**.
 
    ![](assets/ten.png)
 
@@ -77,5 +77,5 @@ Saiba como conectar seu canal BrightTALK à sua instância do Marketo. Para faze
 
 1. Retorne à tela de configuração do conector BrightTALK da Etapa 3 e insira as credenciais salvas das Etapas 12 e 14.
 
-   Depois que as credenciais forem autenticadas, você conectou oficialmente o BrightTALK ao Marketo. A próxima etapa é determinar [quais campos de dados você deseja sincronizar](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
+   Depois que as credenciais forem autenticadas, você conectou oficialmente o BrightTALK ao Marketo. A próxima etapa é determinar [quais campos de dados você gostaria de sincronizar](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
 
