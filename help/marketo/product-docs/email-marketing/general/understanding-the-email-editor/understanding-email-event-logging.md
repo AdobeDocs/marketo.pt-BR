@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Como entender o registro de Eventos por email {#understanding-email-event-logging}
+# Como entender o registro de Eventos de email {#understanding-email-event-logging}
 
 Ao enviar emails, o Marketo registra diferentes pontos de dados nos registros de atividades da pessoa. Aqui estão os mais básicos.
 
