@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Como enviar um e-mail do envolvimento de vendas {#how-to-send-an-email-from-sales-engage}
+# Como enviar um e-mail do contrato de vendas {#how-to-send-an-email-from-sales-engage}
 
-1. Clique no botão **Compor** no canto superior direito do Centro de comando.
+1. Clique no botão **Compor** no canto superior direito do Centro de Comando.
 1. Digite o endereço de e-mail e o nome do recipient.
 1. Insira o assunto do email.
 1. Selecione um modelo de email ou escreva uma nova mensagem.
