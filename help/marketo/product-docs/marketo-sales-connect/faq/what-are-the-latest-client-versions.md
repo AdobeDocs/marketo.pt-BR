@@ -19,11 +19,11 @@ Abaixo estão as versões mais recentes para todos os clientes do Sales Connect.
  <tbody> 
   <tr> 
    <td><strong>Gmail</strong></td> 
-   <td><p>8.6.19</p></td> 
+   <td><p>8,6,19</p></td> 
   </tr> 
   <tr> 
    <td><strong>Cromo</strong></td> 
-   <td><p>8.6.19</p></td> 
+   <td><p>8,6,19</p></td> 
   </tr> 
   <tr> 
    <td><strong>Windows do Outlook</strong></td> 
