@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Desconecte O Salesforce Da Sua Conta Do Sales Connect {#disconnect-salesforce-from-your-sales-connect-account}
+# Desconecte O Salesforce De Sua Conta Do Sales Connect {#disconnect-salesforce-from-your-sales-connect-account}
 
 Às vezes, talvez seja necessário desconectar sua conta do Salesforce da conta do Sales Connect. Veja como.
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/seven-1.png)
 
-## Como se desconectar do Salesforce como um não administrador {#how-to-disconnect-from-salesforce-as-a-non-admin}
+## Como se desconectar do Salesforce como um {#how-to-disconnect-from-salesforce-as-a-non-admin} não administrador
 
 1. No Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
