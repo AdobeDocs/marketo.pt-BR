@@ -17,7 +17,7 @@ O Azure Ative Diretory estende seus diretórios locais para a nuvem, fornecendo 
 
 ## Registrando um novo aplicativo {#registering-a-new-app}
 
-1. [Faça logon](http://manage.windowsazure.com/) no portal de gerenciamento do Microsoft Azure usando uma conta com permissões de administrador. Você também pode acessar o portal do Microsoft Azure pelo Centro de Administração do Office 365, expandindo o item **Admin** no painel de navegação esquerdo e selecionando **Azure AD**.
+1. [Efetue logon ](http://manage.windowsazure.com/) no portal de gerenciamento do Microsoft Azure usando uma conta com permissões de administrador. Você também pode acessar o portal do Microsoft Azure pelo Centro de Administração do Office 365 expandindo o item **Admin** no painel de navegação esquerdo e selecionando **Azure AD**.
 
    >[!CAUTION]
    >
@@ -25,7 +25,7 @@ O Azure Ative Diretory estende seus diretórios locais para a nuvem, fornecendo 
 
    >[!NOTE]
    >
-   >Se você não tiver uma conta do Azure, poderá [se inscrever](https://azure.microsoft.com/en-us/free/) para uma. Consulte a documentação da Microsoft ou entre em contato com seu representante da Microsoft para obter mais informações. Depois de criar uma conta do Azure, você pode registrar um ou mais aplicativos usando o procedimento descrito abaixo.
+   >Se você não tiver uma conta do Azure, poderá [inscrever-se](https://azure.microsoft.com/en-us/free/) para uma. Consulte a documentação da Microsoft ou entre em contato com seu representante da Microsoft para obter mais informações. Depois de criar uma conta do Azure, você pode registrar um ou mais aplicativos usando o procedimento descrito abaixo.
    >
    >
    >Se você tiver uma conta do Azure, mas sua subscrição do Office 365 com o Microsoft Dynamics 365 não estiver disponível na subscrição do Azure, siga [estas instruções](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) para associar as duas contas.
@@ -34,7 +34,7 @@ O Azure Ative Diretory estende seus diretórios locais para a nuvem, fornecendo 
 
    ![](assets/two.png)
 
-1. Em Gerenciar, clique em Registros **do** aplicativo.
+1. Em Gerenciar, clique em **Registros do aplicativo**.
 
    ![](assets/three.png)
 
@@ -42,25 +42,25 @@ O Azure Ative Diretory estende seus diretórios locais para a nuvem, fornecendo 
 
    ![](assets/four.png)
 
-1. Insira um nome para o aplicativo, escolha o tipo de conta aplicável e insira um URL de redirecionamento. Em seguida, clique em **Registrar** na parte inferior da página.
+1. Insira um nome para o aplicativo, escolha o tipo de conta aplicável e insira um URL de redirecionamento. Em seguida, clique em **Register** na parte inferior da página.
 
    ![](assets/five.png)
 
-1. Agora você deve ver seu aplicativo na guia Registros **do** aplicativo.
+1. Agora você deve ver seu aplicativo na guia **Registros do aplicativo**.
 
    ![](assets/six.png)
 
-## Configuração de permissões do aplicativo {#configuring-app-permissions}
+## Configuração das permissões do aplicativo {#configuring-app-permissions}
 
-1. Na guia Registros **do** aplicativo no Ative Diretory, clique no aplicativo para o qual deseja configurar permissões.
+1. Na guia **Registros do aplicativo** no Ative Diretory, clique no aplicativo para o qual deseja configurar permissões.
 
    ![](assets/seven.png)
 
-1. Em Gerenciar, clique em Permissões **de** API.
+1. Em Gerenciar, clique em **permissões da API**.
 
    ![](assets/eight.png)
 
-1. Clique no botão **Adicionar uma permissão** .
+1. Clique no botão **Adicionar uma permissão**.
 
    ![](assets/nine.png)
 
@@ -68,7 +68,7 @@ O Azure Ative Diretory estende seus diretórios locais para a nuvem, fornecendo 
 
    ![](assets/ten.png)
 
-1. Marque a caixa **Access Common Data Service as Organization user****s** (Acessar serviço de dados comuns como usuário da organização) e clique em **Add permissions (Adicionar permissões).**
+1. Marque a caixa **Acessar o Serviço de Dados Comuns como usuário da organização****s** e clique em **Adicionar permissões.**
 
    ![](assets/eleven.png)
 
@@ -76,11 +76,11 @@ O Azure Ative Diretory estende seus diretórios locais para a nuvem, fornecendo 
 
    ![](assets/twelve.png)
 
-1. Clique no botão **Conceder consentimento** do administrador.
+1. Clique no botão **Conceder consentimento admin**.
 
    ![](assets/thirteen.png)
 
-1. Clique em **Sim** para confirmar.
+1. Clique em **Yes** para confirmar.
 
    ![](assets/fourteen.png)
 
