@@ -17,10 +17,10 @@ Teste seus emails para melhorar a pontuação de envolvimento. Há dois tipos de
 
 ## Teste A/B {#a-b-testing}
 
-Isso é para emails únicos usando programas [de](http://docs.marketo.com/display/docs/email+programs)email. Adicione testes [](add-an-a-b-test.md) A/B e um grupo pequeno receberá o teste e o restante receberá o vencedor.
+Isso é para emails únicos usando [programas de email](http://docs.marketo.com/display/docs/email+programs). Adicione [Teste A/B](add-an-a-b-test.md) e um pequeno grupo receberá o teste e o restante receberá o vencedor.
 
-## Campeão/Desafiador de e-mail {#email-champion-challenger}
+## Campeão de e-mail/Desafiador {#email-champion-challenger}
 
-Para e-mails contínuos usados em campanhas inteligentes ou programas [de](http://docs.marketo.com/display/docs/drip+nurturing)envolvimento, você pode adicionar [e-mail campeão/teste de desafiador](http://docs.marketo.com/pages/viewpage.action?pageid=2359551) . Isso introduzirá variações em uma porcentagem contínua dos recipient.
+Para e-mails contínuos usados em campanhas inteligentes acionadores ou programas de envolvimento [, você pode adicionar [campeão/desafiador de e-mail](http://docs.marketo.com/pages/viewpage.action?pageid=2359551) testes. ](http://docs.marketo.com/display/docs/drip+nurturing) Isso introduzirá variações em uma porcentagem contínua dos recipient.
 
 Feliz Teste!
