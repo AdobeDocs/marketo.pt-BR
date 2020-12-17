@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# Lista de verificação da configuração {#setup-checklist}
+# Lista de verificação da instalação {#setup-checklist}
 
-Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verificação como uma lista visual para fazer as coisas começarem. Detalhes podem ser encontrados em Etapas [de configuração](/help/marketo/getting-started/setup-steps.md).
+Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verificação como uma lista visual para fazer as coisas começarem. Detalhes podem ser encontrados em [Etapas de configuração](/help/marketo/getting-started/setup-steps.md).
 
 ## Faça logon no Marketo e crie usuários adicionais {#log-in-to-marketo-and-create-additional-users}
 
 1. Fazer logon no Marketo
 1. Criar usuários adicionais
 
-## Configurar um contato de suporte autorizado {#set-up-an-authorized-support-contact}
+## Configurar um Contato de Suporte Autorizado {#set-up-an-authorized-support-contact}
 
 1. Configurar um contato de suporte autorizado
 1. Personalizar URLs de Landing page
@@ -28,7 +28,7 @@ Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verifica
 1. Solicite que a TI crie um registro DNS para sua Landing page CNAME
 1. Quando a TI terminar, configure seu nome de domínio de landing page no Marketo
 
-## Garantir a entrega por email {#ensure-email-deliverability}
+## Garantir a entregabilidade por email {#ensure-email-deliverability}
 
 1. Selecione um CNAME de email para links de rastreamento de marca
 1. Solicitar que a TI configure um registro DNS para seu CNAME de email
@@ -37,7 +37,7 @@ Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verifica
 1. Configurar MX para `[FromDomain1]`
 1. Quando terminar de usar o e-mail CNAME, configure seu e-mail CNAME no Marketo
 
-## Enviar um URL para modelos de Landing page e email {#submit-a-url-for-landing-page-and-email-templates}
+## Enviar um URL para Landings page e modelos de e-mail {#submit-a-url-for-landing-page-and-email-templates}
 
 1. Preencha o formulário para enviar um URL para novos modelos
 
