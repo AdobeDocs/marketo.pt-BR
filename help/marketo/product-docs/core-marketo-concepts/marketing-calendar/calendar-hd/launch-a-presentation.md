@@ -32,7 +32,7 @@ Depois de definir as visualizações e a frequência de rotação para sua apres
 
 >[!TIP]
 >
->Certifique-se de **Pré-visualização de uma apresentação** antes de iniciar.
+>Certifique-se de **Pré-visualização uma apresentação** antes de iniciar.
 
 1. Clique em **Iniciar**.
 
