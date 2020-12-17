@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você sabia que pode adicionar notas a problemas de página como lembretes pessoais ou mensagens de equipe?
 
-## Adicionar notas na seção Problemas de página {#adding-notes-in-page-issues-section}
+## Adicionar notas na seção de problemas de página {#adding-notes-in-page-issues-section}
 
 1. Vá para a seção Páginas.
 
@@ -37,7 +37,7 @@ Você sabia que pode adicionar notas a problemas de página como lembretes pesso
 >
 >Você pode excluir sua nota clicando no pequeno x no canto superior esquerdo.
 
-## Adicionar notas na Detalhamento de detalhes da página {#add-notes-in-page-detail-drill-down}
+## Adicione anotações na busca detalhada da página {#add-notes-in-page-detail-drill-down}
 
 1. Vá para a seção Páginas.
 
