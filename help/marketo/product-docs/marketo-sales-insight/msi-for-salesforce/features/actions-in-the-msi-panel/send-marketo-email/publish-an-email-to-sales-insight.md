@@ -19,11 +19,11 @@ Ative a configuração Publicar no insight de vendas para disponibilizar um emai
 
    ![](assets/one.png)
 
-1. Quando o editor abrir, clique em Configurações **de** email.
+1. Quando o editor abrir, clique em **Configurações de e-mail**.
 
    ![](assets/two.png)
 
-1. Marque **Publicar no Marketing Sales Insight**.
+1. Marque **Publicar no Marketing Cloud Sales Insight**.
 
    ![](assets/three.png)
 
@@ -43,7 +43,7 @@ Bom trabalho! Agora você sabe como disponibilizar emails para sua equipe de ven
 
 >[!NOTE]
 >
->[Meus tokens](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) não serão resolvidos ao enviar um email do Sales Insight no Microsoft Dynamics ou no Salesforce; somente os tokens padrão serão preenchidos (cliente potencial, Empresa etc.). No entanto, os valores padrão para tokens funcionarão.
+>[Meus ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) Tokenss não serão resolvidos ao enviar um email do Sales Insight no Microsoft Dynamics ou no Salesforce; somente os tokens padrão serão preenchidos (cliente potencial, Empresa etc.). No entanto, os valores padrão para tokens funcionarão.
 
 >[!TIP]
 >
