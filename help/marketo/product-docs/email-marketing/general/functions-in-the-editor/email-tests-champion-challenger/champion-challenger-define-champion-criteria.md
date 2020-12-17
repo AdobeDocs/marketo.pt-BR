@@ -25,7 +25,7 @@ Depois de configurar seu tipo de teste, é necessário definir o critério de ca
 
 ## Critérios padrão de campeão {#standard-champion-criteria}
 
-1. Escolha um dos Critérios **de** campeão disponíveis.
+1. Escolha um dos **Critérios de Campeão** disponíveis.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,11 +33,11 @@ Depois de configurar seu tipo de teste, é necessário definir o critério de ca
    >
    >Monitoraremos essa métrica e enviaremos um relatório com os dados por email.
 
-1. Se você escolheu um dos **Critérios** de campeão padrão, vá em frente e vá para [Campeão/Desafiador: Configurar Alertas](champion-challenger-configure-report-alerts.md)de Relatório!
+1. Se você escolheu um dos **Critérios de campeão** padrão, vá em frente e vá para [Campeão/Desafiador: Configurar Alertas de Relatório](champion-challenger-configure-report-alerts.md)!
 
 ## Critérios personalizados de campeão {#custom-champion-criteria}
 
-1. Se você quiser se destacar, poderá personalizar selecionando Conversão **** personalizada e clicando em **Editar**.
+1. Se você quiser se destacar, poderá personalizar selecionando **Conversão personalizada** e clicando em **Editar**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
