@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Algumas palavras-chave vão muito bem com certas páginas. É assim que você combina a palavra-chave perfeita com a página perfeita. Isso fornecerá os dados mais precisos e as melhores recomendações para melhorias.
 
-1. Vá para a seção **Páginas** .
+1. Vá para a seção **Páginas**.
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)a)
 
@@ -23,7 +23,7 @@ Algumas palavras-chave vão muito bem com certas páginas. É assim que você co
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Selecione para qual palavra-chave você está tentando otimizar sua página. Clique em **ATUALIZAR**.
+1. Selecione para qual palavra-chave você está tentando otimizar sua página. Clique em **UPDATE**.
 
    >[!TIP]
    >
