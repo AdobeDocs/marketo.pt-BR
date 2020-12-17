@@ -16,23 +16,23 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Criar um Programa por email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir uma Audiência com uma Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) inteligente ou [Definir uma Audiência importando uma Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir uma Audiência com uma ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista inteligente  [Definir uma Audiência importando uma Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-Depois de criar seu programa de e-mail e definir sua audiência, você precisará decidir que e-mail está enviando. Você pode [escolher um email](choose-an-existing-email.md) existente ou criar um do zero. Veja como criar um novo email.
+Depois de criar seu programa de e-mail e definir sua audiência, você precisará decidir que e-mail está enviando. Você pode [escolher um email existente](choose-an-existing-email.md) ou criar um do zero. Veja como criar um novo email.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/one.png)
 
-1. Selecione seu programa de email. No bloco **Email** , clique em **Novo email**.
+1. Selecione seu programa de email. No bloco **Email**, clique em **Novo email**.
 
    ![](assets/newemaildashboard.png)
 
-1. Insira um **Nome**, selecione o modelo de sua escolha e clique em **Criar**.
+1. Digite um **Nome**, selecione o modelo de sua escolha e clique em **Criar**.
 
    ![](assets/three.png)
 
@@ -48,7 +48,7 @@ Depois de criar seu programa de e-mail e definir sua audiência, você precisar�
 
    ![](assets/five.png)
 
-Ótimo! Agora que criamos um e-mail que queremos enviar, vamos [adicionar um teste](email-test-a-b-test/add-an-a-b-test.md) A/B ou pular para [agendar seu programa](schedule-your-email-program.md)de e-mail.
+Ótimo! Agora que criamos um email que queremos enviar, vamos [adicionar um teste A/B](email-test-a-b-test/add-an-a-b-test.md) ou ir direto para [agendar seu programa de email](schedule-your-email-program.md).
 
 >[!MORELIKETHIS]
 >
