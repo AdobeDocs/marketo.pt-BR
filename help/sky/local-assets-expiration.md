@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Defina uma data/hora de expiração para cancelar a publicação de landings page, desativar campanhas de disparo ou parar campanhas em lote recorrentes. Esse recurso pode ser encontrado na seção **[!UICONTROL Expiração]** na guia **[!UICONTROL Ativos]** .
+Defina uma data/hora de expiração para cancelar a publicação de landings page, desativar campanhas de disparo ou parar campanhas em lote recorrentes. Você pode encontrar esse recurso na seção **[!UICONTROL Expiração]** na guia **[!UICONTROL Ativos]**.
 
 ![Imagem Um](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
@@ -34,7 +34,7 @@ Defina uma data/hora de expiração para cancelar a publicação de landings pag
 
 >[!NOTE]
 >
->Para editar uma data de expiração existente, basta verificar os ativos e clicar em **[!UICONTROL Definir expiração]**.
+>Para editar uma data de expiração existente, basta verificar o(s) ativo(s) e clicar em **[!UICONTROL Definir expiração]**.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Defina uma data/hora de expiração para cancelar a publicação de landings pag
 
 ## Remover uma data de expiração
 
-1. Para remover uma data de expiração, verifique o(s) ativo(s) e clique em **[!UICONTROL Remover expiração]**.
+1. Para remover uma data de expiração, verifique o(s) ativo(s) e clique em **[!UICONTROL Remover Expiração]**.
 
    ![Imagem cinco](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-5.png)
 
