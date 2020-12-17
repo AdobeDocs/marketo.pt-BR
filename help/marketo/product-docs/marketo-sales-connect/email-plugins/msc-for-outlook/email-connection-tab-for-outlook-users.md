@@ -19,7 +19,7 @@ Saiba como conectar sua conta do Sales Connect com o Outlook.
 >
 >Cada usuário precisa se conectar ao Outlook a partir de sua conta do Sales Connect.
 
-## Conectando-se ao Outlook Online {#connecting-to-outlook-online}
+## Conexão com o Outlook Online {#connecting-to-outlook-online}
 
 Conectar-se ao Outlook significa que você receberá o rastreamento de respostas, o acesso ao canal de delivery do Outlook, a capacidade de programar e-mails no Outlook e enviar conformidade.
 
@@ -27,11 +27,11 @@ Conectar-se ao Outlook significa que você receberá o rastreamento de respostas
 
    ![](assets/one.png)
 
-1. Em Minha conta, selecione Configurações **de** email.
+1. Em Minha conta, selecione **Configurações de e-mail**.
 
    ![](assets/two.png)
 
-1. Clique na guia Conexão **de** email.
+1. Clique na guia **Ligação de Correio Eletrônico**.
 
    ![](assets/three.png)
 
@@ -39,11 +39,11 @@ Conectar-se ao Outlook significa que você receberá o rastreamento de respostas
 
    ![](assets/four.png)
 
-1. Selecione **Eu uso o Outlook para enviar emails** e clique em **Avançar**.
+1. Selecione **Eu uso o Outlook para enviar emails** e clique em **Próximo**.
 
    ![](assets/five-a.png)
 
-1. Selecione a versão do Outlook que você está usando e clique em **Avançar**. Neste exemplo, estamos escolhendo o Outlook Online.
+1. Selecione a versão do Outlook que você está usando e clique em **Próximo**. Neste exemplo, estamos escolhendo o Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -55,7 +55,7 @@ Conectar-se ao Outlook significa que você receberá o rastreamento de respostas
 
    ![](assets/seven-a.png)
 
-1. Se você não estiver conectado ao Outlook, insira suas informações de logon e clique em **Avançar**. Se estiver, escolha a conta à qual deseja se conectar e clique em **Avançar**. Neste exemplo, já estamos conectados.
+1. Se você não estiver conectado ao Outlook, insira suas informações de logon e clique em **Próximo**. Se estiver, escolha a conta à qual deseja se conectar e clique em **Próximo**. Neste exemplo, já estamos conectados.
 
    ![](assets/eight-a.png)
 
@@ -63,7 +63,7 @@ Conectar-se ao Outlook significa que você receberá o rastreamento de respostas
 
    ![](assets/nine-a.png)
 
-   Você pode usar essa conexão para rastrear e-mails e também [como canal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)de delivery.
+   Você pode usar essa conexão para rastrear emails e também [como um canal delivery](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
 
    >[!NOTE]
    >
@@ -77,11 +77,11 @@ Conectar-se ao Exchange no local significa que você receberá o rastreamento de
 
    ![](assets/one.png)
 
-1. Em Minha conta, selecione Configurações **de** email.
+1. Em Minha conta, selecione **Configurações de e-mail**.
 
    ![](assets/two.png)
 
-1. Clique na guia Conexão **de** email.
+1. Clique na guia **Ligação de Correio Eletrônico**.
 
    ![](assets/three.png)
 
@@ -89,11 +89,11 @@ Conectar-se ao Exchange no local significa que você receberá o rastreamento de
 
    ![](assets/four.png)
 
-1. Selecione **Eu uso o Outlook para enviar emails** e clique em **Avançar**.
+1. Selecione **Eu uso o Outlook para enviar emails** e clique em **Próximo**.
 
    ![](assets/five-a.png)
 
-1. Selecione a versão do Outlook que você está usando e clique em **Avançar**. Neste exemplo, estamos escolhendo Exchange no local.
+1. Selecione a versão do Outlook que você está usando e clique em **Próximo**. Neste exemplo, estamos escolhendo Exchange no local.
 
    ![](assets/six-b.png)
 
@@ -101,7 +101,7 @@ Conectar-se ao Exchange no local significa que você receberá o rastreamento de
    |---|---|
    | **Exchange no local** | Inclui o Exchange 2013 e 2016 |
 
-1. Digite suas credenciais e clique em **Connect (Conectar**).
+1. Digite suas credenciais e clique em **Connect**.
 
    ![](assets/seven-b.png)
 
