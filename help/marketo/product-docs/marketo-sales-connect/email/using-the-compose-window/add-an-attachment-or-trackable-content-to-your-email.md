@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Adicionar um anexo ou conteúdo rastreável ao seu email {#add-an-attachment-or-trackable-content-to-your-email}
+# Adicione um anexo ou conteúdo rastreável ao seu email {#add-an-attachment-or-trackable-content-to-your-email}
 
 Ao enviar um email pelo Sales Connect, você tem a opção de adicionar um arquivo como anexo ou tornar um arquivo um link baixável (e rastreável).
 
-## Adicionar um anexo {#add-an-attachment}
+## Adicionar um Anexo {#add-an-attachment}
 
 1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
 
