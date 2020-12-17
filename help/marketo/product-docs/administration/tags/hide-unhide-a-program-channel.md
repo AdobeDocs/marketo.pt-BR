@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-Você pode [excluir um canal](delete-a-program-channel.md) de programa se ele não estiver sendo usado por nenhum programa.  No entanto, uma vez utilizado, temos de o manter por perto.  No entanto, você pode ocultá-lo se não precisar mais dele.
+Você pode [excluir um canal de programa](delete-a-program-channel.md) se ele não estiver sendo usado por nenhum programa.  No entanto, uma vez utilizado, temos de o manter por perto.  No entanto, você pode ocultá-lo se não precisar mais dele.
 
 ## Ocultar um Canal de Programa {#hide-a-program-channel}
 
@@ -29,7 +29,7 @@ Você pode [excluir um canal](delete-a-program-channel.md) de programa se ele n�
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
-1. Em Ações **de** tag, clique em **Ocultar**.
+1. Em **Ações de tag**, clique em **Ocultar**.
 
    ![](assets/image2014-9-24-15-3a46-3a22.png)
 
