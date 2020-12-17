@@ -27,7 +27,7 @@ Você pode arquivar um programa, mas às vezes você só quer se livrar dele per
 
 >[!TIP]
 >
->**O arquivamento de Programas** mantém os dados do programa, mas coloca o programa fora de seu caminho. Selecione essa opção e clique em **Avançar** para ver mais detalhes sobre o arquivamento.
+>**O arquivamento de** programas ignora os dados do programa, mas coloca o programa fora do seu caminho. Selecione essa opção e clique em **Avançar** para ver mais detalhes sobre o arquivamento.
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -43,7 +43,7 @@ Para corrigir o problema, talvez seja necessário detalhar e cancelar a aprovaç
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Clique em **Usado** **por** para ver onde o ativo está em uso.
+1. Clique em **Usado** **Por** para ver onde o ativo está em uso.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
