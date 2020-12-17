@@ -36,11 +36,11 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Clique no menu suspenso Ações **de** Lista e selecione **Enviar para Experience Cloud**.
+1. Clique no menu suspenso **Ações de Lista** e selecione **Enviar para Experience Cloud**.
 
    ![](assets/two-1.png)
 
-1. Clique no menu suspenso **Audience Manager Folder (Pasta** de) e selecione a pasta de destino desejada no Experience Cloud.
+1. Clique na lista suspensa **Pasta de Audience Manager** e selecione a pasta de destino desejada no Experience Cloud.
 
    ![](assets/three-1.png)
 
@@ -56,7 +56,7 @@ ht-degree: 0%
    >
    >Pode levar de 6 a 8 horas para que a associação à audiência seja totalmente preenchida no Adobe.
 
-## Observações {#things-to-note}
+## Observação {#things-to-note}
 
 **Compartilhamento no Adobe Analytics**
 
