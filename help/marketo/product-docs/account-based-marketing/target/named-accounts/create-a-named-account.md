@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Siga estas etapas para criar manualmente uma conta nomeada.
 
-1. Em Contas nomeadas, clique no menu suspenso **Novo** e selecione **Criar conta** nomeada.
+1. Em Contas nomeadas, clique no menu suspenso **Novo** e selecione **Criar Conta Nomeada**.
 
    ![](assets/two-1.png)
 
