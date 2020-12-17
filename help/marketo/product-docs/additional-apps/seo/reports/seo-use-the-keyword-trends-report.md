@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - Usar o Relatório de tendências de palavra-chave {#seo-use-the-keyword-trends-report}
+# SEO - Usar o Relatório de Tendências de Palavra-Chave {#seo-use-the-keyword-trends-report}
 
 Neste relatório, você pode ver como é classificado em palavras-chave ao longo do tempo.
 
@@ -21,7 +21,7 @@ Neste relatório, você pode ver como é classificado em palavras-chave ao longo
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Clique em Tendências **de classificação de** palavras-chave.
+1. Clique em **Tendências de classificação de palavra-chave**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -38,7 +38,7 @@ Neste relatório, você pode ver como é classificado em palavras-chave ao longo
    | Média classificação | A classificação média de palavras-chave no intervalo definido. |
    | Média pesquisas | O número médio de pesquisas nas palavras-chave que ocorreram durante o intervalo definido (nos últimos 30 dias, na pesquisa do Google US |
 
-## Filtrar dados {#filtering-data}
+## Filtrando dados {#filtering-data}
 
 1. Clique na lista suspensa e selecione o período desejado.
 
@@ -48,7 +48,7 @@ Neste relatório, você pode ver como é classificado em palavras-chave ao longo
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Exportação de dados  {#exporting-data}
+## Exportando dados {#exporting-data}
 
 >[!TIP]
 >
