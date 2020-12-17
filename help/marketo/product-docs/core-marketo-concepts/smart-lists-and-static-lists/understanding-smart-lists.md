@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Como entender as Listas inteligentes {#understanding-smart-lists}
 
-As listas inteligentes permitem que você localize grupos específicos de pessoas usando filtros simples. Eles são usados em todo o mercado, como em campanhas [](http://docs.marketo.com/display/docs/smart+campaigns)inteligentes, [programas](http://docs.marketo.com/display/docs/programs), [relatórios](http://docs.marketo.com/display/docs/basic+reporting), [segmentações](http://docs.marketo.com/display/docs/segmentation+and+snippets), modelos [de](http://docs.marketo.com/display/docs/revenue+cycle+models)[](http://docs.marketo.com/display/docs/drip+nurturing)[](http://docs.marketo.com/display/docs/segmentation+and+snippets)negócios, programas de envolvimento, conteúdo dinâmico e muito mais. Dependendo de suas necessidades, listas inteligentes podem ser criadas em dois lugares no Marketo:
+As listas inteligentes permitem que você localize grupos específicos de pessoas usando filtros simples. Eles são usados em todo o mercado, como em [campanhas inteligentes](http://docs.marketo.com/display/docs/smart+campaigns), [programas](http://docs.marketo.com/display/docs/programs), [relatórios](http://docs.marketo.com/display/docs/basic+reporting), [segmentações](http://docs.marketo.com/display/docs/segmentation+and+snippets), [modelos de negócios](http://docs.marketo.com/display/docs/revenue+cycle+models), [programas de envolvimento](http://docs.marketo.com/display/docs/drip+nurturing), &lt;a conteúdo dinâmico](http://docs.marketo.com/display/docs/segmentation+and+snippets) e muito mais. [ Dependendo de suas necessidades, listas inteligentes podem ser criadas em dois lugares no Marketo:
 
-1. No **Banco de Dados**, onde eles estão disponíveis para uso compartilhado/global (por exemplo, &quot;Todas as pessoas sem assinatura&quot;).
+1. No **Banco de Dados**, onde estão disponíveis para uso compartilhado/global (por exemplo, &quot;Todas as pessoas sem assinatura&quot;).
 1. Em **programas **como ativos locais, onde encontram um grupo de pessoas relevantes para esse programa específico (por exemplo, &quot;Apresentação de vendas participada&quot;).
 
 As principais etapas para criar uma lista inteligente são:
@@ -28,7 +28,7 @@ Aqui está um exemplo de como uma lista inteligente se parece.
 
 ## Guia Principal {#main-tab}
 
-Aqui você pode [editar o nome](../../../product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md) da lista inteligente e ver informações sobre a lista inteligente.
+Aqui você pode [editar o nome da lista inteligente](../../../product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md) e ver informações sobre a lista inteligente.
 
 ![](assets/smartlist.png)
 
