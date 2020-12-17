@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Recentemente, o Marketing Sales Engage foi renomeado como Marketing to Sales Connect. Estamos atualizando todos os vídeos, mas alguns ainda podem mostrar o nome antigo.
 
-## Habilitar Marketing Insights {#enabling-marketing-insights}
+## Habilitando Marketing Insights {#enabling-marketing-insights}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 `<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
-## Visão geral do Salesforce {#salesforce-overview}
+## Visão Geral do Salesforce {#salesforce-overview}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
