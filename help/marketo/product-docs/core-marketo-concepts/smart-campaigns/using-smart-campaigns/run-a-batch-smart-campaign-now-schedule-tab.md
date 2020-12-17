@@ -19,7 +19,7 @@ Quando terminar de criar a campanha em lote, você poderá optar por executá-la
 
    ![](assets/runcampaignnow-hands.png)
 
-1. Verifique se **Executar agora **está selecionado e clique em **Executar**.
+1. Certifique-se de que **Executar agora **esteja selecionado e clique em **Executar**.
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
@@ -27,7 +27,7 @@ Quando terminar de criar a campanha em lote, você poderá optar por executá-la
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   Calma, calma! Você também pode [agendar execuções para mais tarde](schedule-a-batch-smart-campaign-to-run-later.md) , se preferir.
+   Calma, calma! Você também pode [programar execuções para mais tarde](schedule-a-batch-smart-campaign-to-run-later.md), se preferir.
 
    >[!NOTE]
    >
