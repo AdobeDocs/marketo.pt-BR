@@ -21,7 +21,7 @@ Enviar de um ou mais IP dedicados dá a você controle total sobre a reputação
 >
 >Um IP dedicado é um produto complementar. Nem todos terão direito a adicionar um IP dedicado ao seu programa. Você precisaria enviar mais de 100.000 emails por mês e ter uma cadência de campanha estável para manter um IP dedicado. Entre em contato com seu CSM para obter mais informações sobre como adicionar um IP dedicado ao seu programa de marketing.
 >
->Se você enviar menos de 100.000 emails por mês e/ou tiver volumes de campanha variáveis e/ou for um remetente sazonal, não será possível manter um IP dedicado. O Marketo mantém um pool compartilhado de IP confiável separado para clientes que cumprem as práticas recomendadas rigorosas. Se estiver interessado, preencha [este questionário](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) para ser aplicado ao Programa IP confiável da Marketo.
+>Se você enviar menos de 100.000 emails por mês e/ou tiver volumes de campanha variáveis e/ou for um remetente sazonal, não será possível manter um IP dedicado. O Marketo mantém um pool compartilhado de IP confiável separado para clientes que cumprem as práticas recomendadas rigorosas. Se estiver interessado, preencha [este questionário](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) para se aplicar ao Programa IP confiável do Marketo.
 
 Todos os start de contas do Marketing Cloud em um IP compartilhado, permitindo que você start imediatamente o correio. Se você adicionar um IP dedicado, trabalhará com consultores de entrega para agendar o provisionamento do IP.
 
@@ -32,7 +32,7 @@ Um consultor dedicado para entrega fornece:
 * Configuração e ativação do IP dedicado
 * Um check-in durante a fase de aquecimento para suportar o seu sucesso
 
-## IP Ramp Dedicado para Cima {#dedicated-ip-ramp-up}
+## Ramp de IP dedicado para cima {#dedicated-ip-ramp-up}
 
 Para maximizar a capacidade de entrega a longo prazo, os Consultores de entrega ofertas enviam recomendações personalizadas para aumentar lentamente o volume de campanha de email no seu IP dedicado. Nós chamamos isso de &quot;aquecer seu IP&quot;. Ele start frio, e o envio de emails aquece. Os IPs frios que enviam um grande volume de e-mails geralmente veem suas velocidades de envio diminuídas e geralmente são classificados como spam.
 
@@ -40,9 +40,9 @@ Para maximizar a capacidade de entrega a longo prazo, os Consultores de entrega 
 
 >[!TIP]
 >
->Mantenha o banco de dados limpo para manter a capacidade de entrega alta. [O Adobe exige](http://www.adobe.com/legal/terms/aup.html) que os clientes só enviem comunicações de marketing para pessoas que opt in/solicitaram o recebimento de emails. Não spam.
+>Mantenha o banco de dados limpo para manter a capacidade de entrega alta. [O Adobe ](http://www.adobe.com/legal/terms/aup.html) exige que os clientes enviem somente comunicações de marketing para pessoas que opt in/solicitaram o recebimento de email. Não spam.
 
 >[!CAUTION]
 >
->Se você encontrar um número alto de rejeições, ou qualquer outro problema, entre em contato com o suporte [do](http://nation.marketo.com/t5/Support/ct-p/Support)Marketing. Se você quiser suporte mais focado para saber como manter um banco de dados limpo e aumentar o envolvimento com seu programa, os consultores de entrega de email do Marketo podem ser envolvidos em um pacote de Serviços personalizados.
+>Se você encontrar um número alto de rejeições, ou qualquer outro problema, entre em contato com [Suporte ao Marketing](http://nation.marketo.com/t5/Support/ct-p/Support). Se você quiser suporte mais focado para saber como manter um banco de dados limpo e aumentar o envolvimento com seu programa, os consultores de entrega de email do Marketo podem ser envolvidos em um pacote de Serviços personalizados.
 
