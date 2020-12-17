@@ -23,7 +23,7 @@ O Seletor de ativos permite que os clientes do Marketing Acesse, selecione e imp
 
 >[!PREREQUISITES]
 >
->Verifique se você já executou a Configuração [do](https://docs.marketo.com/x/FwPLAQ)AEM.
+>Certifique-se de que já realizou a [AEM Configuration](https://docs.marketo.com/x/FwPLAQ).
 
 >[!CAUTION]
 >
@@ -45,7 +45,7 @@ O Seletor de ativos permite que os clientes do Marketing Acesse, selecione e imp
 
    ![](assets/four-1.png)
 
-1. Escolha sua pasta. Em seguida, selecione as imagens desejadas clicando na miniatura (você pode escolher até 10). Clique em **Selecionar** quando concluído.
+1. Escolha sua pasta. Em seguida, selecione as imagens desejadas clicando na miniatura (você pode escolher até 10). Clique em **Selecionar** quando terminar.
 
    ![](assets/five.png)
 
@@ -61,7 +61,7 @@ O Seletor de ativos permite que os clientes do Marketing Acesse, selecione e imp
 
    ![](assets/seven-1.png)
 
-## Observações {#things-to-note}
+## Observação {#things-to-note}
 
 Atualmente, o Marketo é compatível com as versões 6.4 e 6.5 do Adobe Experience Manager.
 
