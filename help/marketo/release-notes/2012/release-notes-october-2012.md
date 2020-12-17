@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A versão de outubro inclui novos recursos interessantes! Os recursos sociais estão disponíveis como um suplemento ou como parte de pacotes selecionados.
 
-## Importar Programas e troca de Programas {#import-programs-and-program-exchange}
+## Importar Programas e Programa Exchange {#import-programs-and-program-exchange}
 
 Um programa pode ser importado de uma subscrição de marketing para outra. Por exemplo, você pode criar um programa em uma caixa de proteção e depois importá-lo para sua subscrição ativa. Além disso, você pode importar um programa pré-criado da Biblioteca de Programas do Marketing Cloud.
 
@@ -49,7 +49,7 @@ Descubra quem tem compartilhado seu conteúdo e votado em suas pesquisas criando
 
 Agora você pode coletar informações sobre seus clientes potenciais quando eles compartilham conteúdo ou preenchem formulários usando seus perfis sociais. Isso inclui o Facebook, o LinkedIn e os identificadores do Twitter, o número de amigos que eles têm e muito mais.
 
-## Subscrições de relatório do Explorador de Receita {#revenue-explorer-report-subscriptions}
+## Subscrições de relatório do Revenue Explorer {#revenue-explorer-report-subscriptions}
 
 Crie subscrições de relatório e envie relatórios do Explorador de Receita periodicamente para seus principais participantes, incluindo usuários que não fazem parte do mercado. O email contém uma pré-visualização da tabela de dados do relatório ou gráficos e uma planilha do Excel com todos os dados do relatório.
 
