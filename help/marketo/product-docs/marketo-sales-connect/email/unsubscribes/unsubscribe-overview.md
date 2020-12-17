@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cancelar assinatura da visão geral {#unsubscribe-overview}
+# Cancelar inscrição na visão geral {#unsubscribe-overview}
 
 É cada vez mais importante que as organizações estejam em conformidade com as leis de privacidade de e-mail. Para ajudar nisso, fizemos algumas melhorias na nossa experiência de cancelamento de assinatura.
 
