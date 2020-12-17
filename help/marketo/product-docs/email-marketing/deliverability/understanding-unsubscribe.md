@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Noções Gerais de Cancelamento de Assinatura {#understanding-unsubscribe}
+# Noções Básicas de Cancelamento de Assinatura {#understanding-unsubscribe}
 
 Há, na verdade, vários tipos diferentes de cancelamentos incorporados no Marketo. Todos eles são representados por campos no objeto da pessoa, assim como o Nome.
 
@@ -19,13 +19,13 @@ Há, na verdade, vários tipos diferentes de cancelamentos incorporados no Marke
 >
 >O Marketo está mudando termos como Blacklist e Whitelist para Lista de bloqueios e Lista de permissões em nosso produto. Durante esta atualização, você pode ver os termos antigos em nossa interface do usuário e nas capturas de tela da documentação, bem como os novos termos em nosso texto de documentação. Pedimos desculpas por qualquer confusão.
 
-Todos esses campos estão incorporados à sua subscrição de marketing. Todos eles são do tipo booleano (caixa de seleção). Eles podem ser usados nas etapas de fluxo do Forms ou [Alterar valor](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) de dados.
+Todos esses campos estão incorporados à sua subscrição de marketing. Todos eles são do tipo booleano (caixa de seleção). Eles podem ser usados nas etapas de fluxo do Forms ou [Alterar valor de dados](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
-## Inscrito {#unsubscribed}
+## Assinatura cancelada {#unsubscribed}
 
-Isso é usado na página de cancelamento de inscrição padrão. Se uma pessoa marcar essa caixa ou clicar no link para cancelar a inscrição em um email, ela não receberá mais emails de marketing. No entanto, receberão e-mails [](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)operacionais.
+Isso é usado na página de cancelamento de inscrição padrão. Se uma pessoa marcar essa caixa ou clicar no link para cancelar a inscrição em um email, ela não receberá mais emails de marketing. No entanto, eles receberão [emails operacionais](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
-## Suspenso de marketing {#marketing-suspended}
+## Marketing Suspenso {#marketing-suspended}
 
 Este campo é definido pelo usuário para colocar pessoas em uma anulação temporária de assinatura. As pessoas só poderão atingir esse status se forem manualmente alteradas ou se uma etapa de fluxo de valores de dados de alteração for utilizada.
 
@@ -39,7 +39,7 @@ Esse status impede que uma pessoa envie mensagens por correio por 24 horas após
 
 ## incluir na lista de bloqueios {#blocklisted}
 
-[Use isso para pessoas como concorrentes](http://docs.marketo.com/x/uwOQ). Qualquer pessoa que você quiser que **não receba** e-mails — operacionais, de marketing etc. Eles não recebem nada!
+[Use isso para pessoas como concorrentes](http://docs.marketo.com/x/uwOQ). Qualquer pessoa que você quiser receber **no** e-mails — operacionais, de marketing etc. Eles não recebem nada!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)
 
