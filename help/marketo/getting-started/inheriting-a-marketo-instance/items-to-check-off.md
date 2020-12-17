@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Itens a Serem Desligados {#items-to-check-off}
+# Itens a serem retirados {#items-to-check-off}
 
 ![](assets/life-preserver.jpg)
 
@@ -19,12 +19,12 @@ Verifique se você está configurado corretamente com os tipos certos de acesso 
 
 * Assista a uma breve visão geral do [**que o Marketo faz**](https://pages2.marketo.com/demoFull.html).
 
-* **Configure seu perfil** na comunidade da [**Marketing Nation**](https://nation.marketo.com/) (nome de usuário e senha necessários).
+* **Configure seu** perfil na  [**Marketing**](https://nation.marketo.com/) Nationcommunity (nome de usuário e senha necessários).
 
-* Saiba como se envolver com a comunidade da [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community) para obter respostas para suas perguntas.
+* Saiba como se envolver com a comunidade [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community) para obter respostas para suas perguntas.
 
-* Clique em **Seus locais** em seu perfil da comunidade da Nação de marketing para conferir sua página de conta do empresa.
+* Clique em **Seus locais** no perfil da comunidade da Nação de marketing para verificar sua página de conta do empresa.
 
-* Saiba como [**enviar um caso**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201) de suporte (e confirme se você está [**configurado como um contato**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)de suporte autorizado).
+* Saiba como [**enviar um caso de suporte**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201) (e confirme se você está [**configurado como um contato de suporte autorizado**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)).
 
-* [**Gerencie usuários**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) e exclua aqueles que deixaram sua empresa.
+* [**Gerencie**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) usuários e exclua aqueles que deixaram sua empresa.
