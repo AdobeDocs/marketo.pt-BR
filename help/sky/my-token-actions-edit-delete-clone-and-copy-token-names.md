@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ## Editar um token
 
-Na guia [!UICONTROL Meus tokens] da pasta ou programa da campanha, clique no **[!UICONTROL Valor]** do token que deseja editar. Isso abrirá a janela do editor.
+Na guia [!UICONTROL Meus tokens] da sua pasta ou programa de campanha, clique no **[!UICONTROL Valor]** do token que deseja editar. Isso abrirá a janela do editor.
 
 ![Imagem Um](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->Os tokens de texto não têm uma janela de editor separada. Clique no **[!UICONTROL Valor]** para fazer edições em linha.
+>Os tokens de texto não têm uma janela de editor separada. Clique em **[!UICONTROL Valor]** para fazer edições em linha.
 
 ![Imagem dois](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
@@ -50,6 +50,6 @@ Na guia [!UICONTROL Meus tokens] da pasta ou programa da campanha, clique no **[
 
 ## Copiar um nome de token
 
-Para copiar o nome de um token para a área de transferência (isto é, `{{my.Event Calendar File}}`), clique com o botão direito do mouse no token e selecione **Copiar nome** do token.
+Para copiar o nome de um token para a área de transferência (ou seja, `{{my.Event Calendar File}}`), clique com o botão direito do mouse no token e selecione **Copiar nome do token**.
 
 ![Imagem sete](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
