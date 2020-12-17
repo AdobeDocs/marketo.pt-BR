@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Notas de versão: Primavera de 18 {#release-notes-spring}
+# Notas de versão: Primavera &#39;18 {#release-notes-spring}
 
 Os seguintes recursos estão incluídos na versão do primeiro trimestre de 2018. Verifique sua edição de marketing para ver a disponibilidade de recursos.
 
@@ -35,7 +35,7 @@ Incentive mais pipeline e receita ao capacitar vendas com inteligência, conteú
 * **Atualização** da política de senha: Mantenha seus dados mais seguros com requisitos mais rigorosos para a criação, redefinição e expiração de senha (atende aos requisitos de conformidade Soc II - Tipo 1).
 * **Experiência** de configuração de conta simplificada: Configure sua conta e conecte-se mais rapidamente ao Gmail, Outlook e outros sistemas.
 
-## Marketo Sky Open Beta {#marketo-sky-open-beta}
+## Marketo Sky Abrir Beta {#marketo-sky-open-beta}
 
 [Marketo Sky Open Beta](https://help.marketo.com/hc/en-us)
 
@@ -69,11 +69,11 @@ Compartilhe facilmente seus Gráficos Rápidos com outros usuários do Performan
 
 Navegação otimizada e workflows aprimorados dão visibilidade aos critérios de sucesso do Programa e acesso aos detalhes do Programa.
 
-## <sup>ContentAI</sup>  {#contentai}
+## Conteúdo<sup>AI</sup> {#contentai}
 
 [Configuração de meta](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Defina o objetivo do algoritmo de otimização<sup>ContentAI</sup> para direcionar mais visualizações, cliques ou conversões.
+Defina o objetivo do algoritmo de otimização Content<sup>AI</sup> para direcionar mais visualizações, cliques ou conversões.
 
 ## Integração e APIs {#integration-and-apis}
 
