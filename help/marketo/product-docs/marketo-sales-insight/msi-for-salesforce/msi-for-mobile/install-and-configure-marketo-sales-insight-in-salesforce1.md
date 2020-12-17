@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Lembrete**
 >
->Clientes existentes, [atualize seu pacote](http://docs.marketo.com/x/_gU6Ag) MSI antes de continuar!
+>Clientes existentes, [Atualize seu pacote MSI](http://docs.marketo.com/x/_gU6Ag) antes de continuar!
 
 >[!PREREQUISITES]
 >
@@ -43,7 +43,7 @@ Se você tiver o Salesforce Professional:
 >O Marketing to Sales Insight no Salesforce1 inclui: Melhores apostas, feed principal, momentos interessantes e Campanha Adicionar ao marketing.
 
 1. Ativar o aplicativo móvel Salesforce1
-1. Clique em **Configuração** e em Administração **** móvel.
+1. Clique em **Configuração** e em **Administração Móvel**.
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
@@ -51,11 +51,11 @@ Se você tiver o Salesforce Professional:
 
    ![](assets/image2015-4-21-15-3a30-3a51.png)
 
-1. Clique em Configurações **do** Salesforce1.
+1. Clique em **Configurações do Salesforce1**.
 
    ![](assets/image2015-4-21-15-3a32-3a21.png)
 
-1. Clique em **Ativar o aplicativo** do navegador móvel Salesforce1.
+1. Clique em **Ativar o aplicativo do navegador móvel Salesforce1**.
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
@@ -63,11 +63,11 @@ Se você tiver o Salesforce Professional:
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
-1. Selecione Administração **** móvel.
+1. Selecione **Administração móvel**.
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
-1. Clique em **Gerenciar o menu** de navegação móvel.
+1. Clique em **Gerenciar o menu de navegação móvel**.
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
@@ -75,7 +75,7 @@ Se você tiver o Salesforce Professional:
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. Selecione **Marketo**, mova-o **Up **para a área desejada e clique em **Salvar**.
+1. Selecione **Marketo**, mova-o **Up **para uma área desejada e clique em **Salvar**.
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
@@ -96,13 +96,13 @@ Se você tiver o Salesforce Professional:
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. Em Configurações **de** guia, selecione o *primeiro* **Comerciante**.
+1. Em **Configurações de tabulação**, selecione *first* **Marketo**.
 
    ** ![](assets/image2015-5-5-13-3a55-3a36.png)
 
    **
 
-1. Selecione **Guia oculta**.
+1. Selecione **Tabulação oculta**.
 
    ** ![](assets/image2015-5-5-14-3a2-3a29.png)
 
@@ -125,7 +125,7 @@ Se você tiver o Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. Selecione **Marketo**, mova-o **Up **para a área desejada e clique em **Salvar**.
+1. Selecione **Marketo**, mova-o **Up **para uma área desejada e clique em **Salvar**.
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
@@ -134,7 +134,7 @@ Se você tiver o Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
-1. Clique em **Configuração**, digite Layouts **de** página e clique em Layouts **de** página em Clientes potenciais.
+1. Clique em **Configuração**, digite **Layouts de página** e clique em **Layouts de página** em Clientes potenciais.
 
    >[!NOTE]
    >
@@ -146,7 +146,7 @@ Se você tiver o Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. Clique em **Forçar páginas **e arraste** o Lead Mobile **para a seção Cartões móveis.
+1. Clique em **Visualforce Pages **e arraste** Lead Mobile **para a seção Mobile Cards.
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
@@ -154,7 +154,7 @@ Se você tiver o Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. Clique em **Campos** e arraste **Adicionar à Campanha de marketing **para a seção Marketing** to Sales Insight **s.
+1. Clique em **Campos** e arraste **Adicionar à Campanha de marketing **para a seção** Marketing to Sales Insight **s.
 
    ![](assets/configure-step-6.png)
 
