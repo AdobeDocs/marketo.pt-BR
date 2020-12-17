@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Filtros Inferiores {#inferred-filters}
+# Filtros inferidos {#inferred-filters}
 
-Quando alguém visita seu site, [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) os cozinha e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todo tipo de informação boa. Confira.
+Quando alguém visita seu site, o [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) os cria um cookie e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todo tipo de informação boa. Confira.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -34,7 +34,7 @@ Quando você usa qualquer um desses filtros em uma lista inteligente, os resulta
 >Use esses filtros em um relatório de atividade da Web. Use os territórios dos representantes de vendas e assine-os em um relatório diário personalizado com visitantes de sites nas últimas 24 horas. Eles vão adorar!
 >
 >* Página da Web Visitada - Últimas 24 horas
->* Estado inferido é [selecionado seu território]
+>* O Estado Inferido é [selecione o seu território]
 
 >
 
@@ -46,5 +46,5 @@ Esses visitantes anônimos são convertidos automaticamente em pessoas quando cl
 >
 >**Mergulho profundo**
 >
->Saiba mais sobre atividades [anônimas e clientes potenciais](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Saiba mais sobre [atividade anônima e clientes potenciais](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
 
