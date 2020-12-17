@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Editar seu domínio de marca padrão {#edit-your-default-branding-domain}
+# Edite seu domínio de marca padrão {#edit-your-default-branding-domain}
 
 Editar seu domínio de marca padrão é a primeira etapa para trabalhar com domínios de marca.
 
 >[!PREREQUISITES]
 >
->Certifique-se de [configurar um CNAME no DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) antes de adicionar seus domínios de marca no Marketo.
+>Certifique-se de [configurar um CNAME no DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) antes de adicionar os domínios de marca no Marketo.
 
 1. Vá para **Admin** e clique em **Email**.
 
@@ -35,5 +35,5 @@ Editar seu domínio de marca padrão é a primeira etapa para trabalhar com dom�
 
    ![](assets/edit-branding-domain-hands.png)e
 
-Agora, você pode [adicionar outros domínios](add-an-additional-branding-domain.md) de marca necessários.
+Agora, você pode [adicionar outros domínios de marca](add-an-additional-branding-domain.md) de que precisa.
 
