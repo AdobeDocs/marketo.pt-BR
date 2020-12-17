@@ -23,7 +23,7 @@ Os tipos de tags identificam o tipo de informação pela qual você deseja class
 
 >[!TIP]
 >
->Entre em contato com o administrador [do](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) Marketing se desejar criar tags personalizadas.
+>Fale com seu [Administrador do Marketing](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) se quiser criar tags personalizadas.
 
 >[!NOTE]
 >
