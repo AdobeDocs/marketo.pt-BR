@@ -23,11 +23,11 @@ Você pode restringir ou permitir que os usuários acessem o Marketing com base 
 >
 >As informações neste artigo se aplicam somente aos logons diretos em login.marketo.com. Não é possível impor restrições de IP em logons de logon único (SSO) no momento.
 
-1. Em **Admin**, clique em Configurações **** de logon.
+1. Em **Admin**, clique em **Definições de Início de Sessão**.
 
    ![](assets/image2014-9-16-12-3a57-3a56.png)
 
-1. Clique em **Editar restrições** de IP.
+1. Clique em **Editar restrições de IP**.
 
    ![](assets/image2014-9-16-12-3a58-3a13.png)
 
