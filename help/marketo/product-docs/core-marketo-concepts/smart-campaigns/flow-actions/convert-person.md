@@ -25,7 +25,7 @@ Use essa etapa de fluxo para converter uma pessoa em um contato no Salesforce. V
 
 ## Uso {#usage}
 
-1. Selecione a quem deseja **atribuir** o contato, a conta e a oportunidade resultantes.
+1. Selecione quem você deseja **atribuir** o contato, a conta e a oportunidade resultantes.
 
    ![](assets/two-2.png)
 
@@ -37,7 +37,7 @@ Use essa etapa de fluxo para converter uma pessoa em um contato no Salesforce. V
 
    ![](assets/three-2.png)
 
-1. Selecione o status **** convertido.
+1. Selecione **status convertido**.
 
    ![](assets/four-3.png)
 
