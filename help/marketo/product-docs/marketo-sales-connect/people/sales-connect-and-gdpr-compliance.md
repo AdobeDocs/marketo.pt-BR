@@ -34,14 +34,14 @@ Além disso, há um novo requisito de responsabilidade para ser capaz de demonst
 
 O RGPD aplica-se a qualquer organização dentro ou fora da UE que comercialize bens ou serviços e/ou rastreie os comportamentos das pessoas em causa na UE e no EEE. Se você negociar com pessoas de dados na Europa que envolvam o processamento dos seus dados pessoais, esta legislação se aplica a você. As sanções por incumprimento são significativas, com multas elevadas para os infratores do regulamento; a coima máxima por uma única infração é de 20 milhões de euros ou 4% do volume de negócios anual a nível mundial, consoante o que for maior.
 
-## Implicações para marketing {#implications-for-marketing}
+## Implicações para Marketing {#implications-for-marketing}
 
 Os profissionais de marketing buscam criar experiências de clientes que se sintam pessoais e humanas, baseadas em confiança e fornecidas com cuidado. Embora o RGPD não use esses termos, os objetivos são os mesmos — respeitar os direitos dos clientes e ganhar sua confiança. Para construir e manter essa confiança, os profissionais de marketing devem estar atentos ao modo, quando e por que seus clientes querem se envolver. É fundamental que as preferências do cliente sejam respeitadas, não apenas como requisito legal, mas como a base de práticas de envolvimento voltadas para o cliente.
 
 Como os profissionais de marketing atendem a essas expectativas mais altas em torno da coleta, do uso e da segurança dos dados pessoais que são rotineiramente usados durante seu trabalho é fundamental, e o Marketo pode ajudar a atender a essas expectativas.\
 Existem dois aspectos fundamentais do RGPD em que os profissionais de marketing precisam de rever as práticas passadas, atuais e futuras. A primeira é o consentimento do indivíduo para processar os seus dados pessoais, e a segunda é a responsabilidade, nomeadamente, poder demonstrar como os princípios do RGPD estão a ser seguidos.
 
-Fornecemos informações abrangentes sobre consentimento e responsabilidade dentro da plataforma Marketo em nosso e-book, [RGPD e The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). No entanto, neste artigo, nos concentraremos especificamente nos novos recursos no Marketing Sales Connect que ajudarão sua organização a seguir as regras do RGPD.
+Fornecemos informações abrangentes sobre consentimento e responsabilidade dentro da plataforma Marketo em nosso e-book, [GDPR e The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). No entanto, neste artigo, nos concentraremos especificamente nos novos recursos no Marketing Sales Connect que ajudarão sua organização a seguir as regras do RGPD.
 
 ## Conformidade com o RGPD no Marketing Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -172,17 +172,17 @@ Para exportar informações de contato, clique nos três pontos verticais no Cab
 >
 >O RGPD também exige a capacidade de excluir contatos da interface do usuário, mas o Marketing to Sales Connect já possui essa funcionalidade.
 
-## Cancelar inscrição {#unsubscribes}
+## Cancela a assinatura {#unsubscribes}
 
 Uma área geralmente mal compreendida do RGPD envolve contatos que cancelam a inscrição na base de dados da organização. Para aderir às novas regras sobre proteção de dados de quem optar por cancelar a assinatura, a seguinte funcionalidade foi incluída no Marketing to Sales Connect:
 
-**Cancelar assinatura de links:** Os links para cancelamento de assinatura serão anexados automaticamente a todos os e-mails enviados do aplicativo Web Sales Connect para garantir que os contatos recebam uma maneira acessível de recusa.\
-**Cancelar assinatura da sincronização:** Os usuários podem sincronizar os cancelamentos de inscrição de e para seu CRM (Salesforce) para garantir que as opções estejam atualizadas.\
-**Cancelar inscrição no histórico:** Os usuários podem ver opções de não participação e não participação históricas na Visualização Detalhes da pessoa.\
-**Cancelar assinatura:** A opção de retornar um contato sem assinatura exige que o usuário tenha privilégios de administrador e demonstre que o contato deu novo consentimento para contatá-lo.
+**Cancelar assinatura de links:** os links para cancelamento de assinatura serão anexados automaticamente a todos os e-mails enviados do aplicativo Web Sales Connect para garantir que os contatos recebam uma maneira acessível de recusa.\
+**Cancelar a assinatura da sincronização:** os usuários podem sincronizar as cancelações de inscrição de e para seu CRM (Salesforce) para garantir que as opções de não participação estejam atualizadas.\
+**Histórico de cancelamento de inscrição:** os usuários podem ver opções de não participação e não participação históricas na Visualização Detalhes da pessoa.\
+**Remoção de Cancelamento de Assinatura:** Optar por retornar um contato sem assinatura requer que o usuário tenha privilégios de administrador e demonstre que o contato deu novo consentimento para contatá-los.
 
 ## Atualizações futuras {#future-updates}
 
 Como um defensor entusiasmado do poder e da centralidade do cliente na economia de envolvimento, Marketo entende a importância de colocar a privacidade e a proteção de dados nas mãos do sujeito dos dados. Assim como com outras leis de proteção de dados, a conformidade com o RGPD exige compromisso tanto do Marketing quanto de nossos clientes. Este artigo destina-se a ajudá-lo a usar o Marketo de forma adequada para respaldar a conformidade do RGPD de sua organização.
 
-Continuaremos a acompanhar de perto as orientações aplicáveis do RGPD emitidas pelas autoridades reguladoras e legislação relacionada. As atualizações serão publicadas em nosso Centro de confiança em [trust.marketo.com](http://trust.marketo.com).
+Continuaremos a acompanhar de perto as orientações aplicáveis do RGPD emitidas pelas autoridades reguladoras e legislação relacionada. As atualizações serão publicadas em nosso Centro de Confiança em [trust.marketo.com](http://trust.marketo.com).
