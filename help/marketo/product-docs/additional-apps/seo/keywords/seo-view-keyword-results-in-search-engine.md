@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Se você quiser ver a aparência do seu conteúdo em um mecanismo de pesquisa, adicionamos um pequeno atalho prático.
 
-1. Vá para a seção **Palavras-chave** .
+1. Vá para a seção **Palavras-chave**.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. Passe o mouse sobre uma palavra-chave. Clique em Resultados da **visualização**.
+1. Passe o mouse sobre uma palavra-chave. Clique em **Resultados da visualização**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 
