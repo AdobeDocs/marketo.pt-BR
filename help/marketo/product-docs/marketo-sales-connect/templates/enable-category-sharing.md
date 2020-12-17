@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Ativar compartilhamento de Categoria {#enable-category-sharing}
+# Habilitar compartilhamento de Categorias {#enable-category-sharing}
 
 Por padrão, sua equipe não poderá compartilhar conteúdo em toda a sua subscrição. Você pode desativar isso a qualquer momento e restringir equipes (ou apenas administradores de equipe) ao conteúdo em categorias específicas. Isso não adiciona ou remove o acesso da visualização a essas categorias de modelo, apenas a capacidade de compartilhar novo conteúdo em uma categoria.
 
-Você pode ativar/desativar o compartilhamento de categorias nas Configurações **de** administração.
+Você pode habilitar/desabilitar o compartilhamento de categorias de **Configurações do administrador**.
