@@ -35,7 +35,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo eliminar um campo de at
 
    >[!TIP]
    >
-   >Não tem certeza do que selecionar? Nós te cobrimos! Todos os tipos de dados disponíveis são definidos [neste artigo](../../../product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Não tem certeza do que selecionar? Nós te cobrimos! Todos os tipos de dados disponíveis estão definidos em [este artigo](../../../product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Nomeie o campo. O Nome da Api é preenchido automaticamente. Quando terminar, clique em **Salvar**.
 
@@ -53,7 +53,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo eliminar um campo de at
 
    ![](assets/seven.png)
 
-1. Selecione o campo que deseja editar, clique no menu suspenso Ações **de** campo e selecione **Editar campo**.
+1. Selecione o campo que deseja editar, clique no menu suspenso **Ações de campo** e selecione **Editar campo**.
 
    ![](assets/eight.png)
 
@@ -89,7 +89,7 @@ Seu campo agora é editado!
 
    ![](assets/twelve.png)
 
-1. Selecione o campo que deseja excluir, clique no menu suspenso Ações **de** campo e selecione **Excluir campo**.
+1. Selecione o campo que deseja excluir, clique no menu suspenso **Ações de campo** e selecione **Excluir campo**.
 
    ![](assets/thirteen.png)
 
