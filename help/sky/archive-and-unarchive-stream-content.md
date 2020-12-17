@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Arquivar e desarquivar conteúdo de fluxo
 
-Se não quiser mais usar um conteúdo em um fluxo, você pode [removê](/help/sky/remove-stream-content.md) -lo ou arquivá-lo.
+Se não quiser mais usar um conteúdo em um fluxo, você pode [removê-lo](/help/sky/remove-stream-content.md) ou arquivá-lo.
 
 >[!TIP]
 >
@@ -25,7 +25,7 @@ Se não quiser mais usar um conteúdo em um fluxo, você pode [removê](/help/sk
 
    ![Imagem Um](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Clique na guia **[!UICONTROL Fluxos]**
+1. Clique na guia **[!UICONTROL Streams]**
 
    ![Imagem dois](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -45,11 +45,11 @@ Se não quiser mais usar um conteúdo em um fluxo, você pode [removê](/help/sk
 
    ![Imagem cinco](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Clique na guia **[!UICONTROL Streams]** .
+1. Clique na guia **[!UICONTROL Streams]**.
 
    ![Imagem seis](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Clique no ícone de engrenagem do seu stream e clique em **[!UICONTROL Mostrar conteúdo]** arquivado.
+1. Clique no ícone de engrenagem do seu fluxo e clique em **[!UICONTROL Mostrar conteúdo arquivado]**.
 
    ![Imagem sete](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
