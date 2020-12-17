@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Adicionar um token do sistema como link em um email {#add-a-system-token-as-a-link-in-an-email}
+# Adicionar um token do sistema como um link em um email {#add-a-system-token-as-a-link-in-an-email}
 
 Você pode usar esses tokens do sistema para personalizar a posição de links especiais em seus e-mails.
 
@@ -23,7 +23,7 @@ Os seguintes tokens podem ser usados como links em um modelo de email ou de emai
 
 >[!NOTE]
 >
->Esses tokens **não** poderão ser clicados a menos que estejam dentro de um link de âncora. Além disso, eles **não** podem ser incorporados ao Meu token.
+>Esses tokens **não** poderão ser clicados, a menos que estejam dentro de um link de âncora. Além disso, eles podem **e não** ser incorporados em um Meu token.
 
 Veja como adicioná-los a um email:
 
@@ -35,7 +35,7 @@ Veja como adicioná-los a um email:
 
    ![](assets/two-1.png)
 
-1. Realce o texto que deseja converter em um link que terá o token e clique no botão **Inserir/Editar link** .
+1. Realce o texto que deseja converter em um link que terá o token e clique no botão **Inserir/Editar link**.
 
    ![](assets/three-1.png)
 
