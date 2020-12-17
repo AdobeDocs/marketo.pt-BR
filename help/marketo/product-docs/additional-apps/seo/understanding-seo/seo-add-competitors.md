@@ -19,11 +19,11 @@ A adição de concorrentes permitirá rastrear o desempenho das mesmas palavras-
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a seção **Admin** .
+1. Vá para a seção **Admin**.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Clique na guia **Concorrentes** .
+1. Clique na guia **Concorrentes**.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
@@ -31,7 +31,7 @@ A adição de concorrentes permitirá rastrear o desempenho das mesmas palavras-
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Digite o **Nome** e o **URL** do seu concorrente.
+1. Digite **Name** e **URL** do seu concorrente.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
