@@ -33,7 +33,7 @@ Neste artigo, você configurará permissões de usuário no perfil Salesforce e 
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Digite &quot;perfis&quot; na barra de pesquisa Navegador e clique no link **Perfis** .
+1. Digite &quot;perfis&quot; na barra de pesquisa Navegador e clique no link **Perfis**.
 
    ![](assets/sfdc-profiles-hands.png)
 
@@ -41,17 +41,17 @@ Neste artigo, você configurará permissões de usuário no perfil Salesforce e 
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Selecione Usuário **** padrão, nomeie o perfil como &quot;Sincronização de Marketo-Salesforce&quot; e clique em **Salvar**.
+1. Selecione **Usuário Padrão**, nomeie o perfil como &quot;Sincronização de Marketo-Salesforce&quot; e clique em **Salvar**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
-## Definir permissões do Perfil {#set-profile-permissions}
+## Definir permissões de Perfil {#set-profile-permissions}
 
 1. Clique em **Editar** para definir as permissões de segurança.
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Na seção Permissões **** administrativas, verifique se as seguintes caixas estão marcadas:
+1. Na seção **Permissões administrativas**, verifique se as seguintes caixas estão marcadas:
 
    * API ativada
    * Editar modelos HTML
@@ -62,7 +62,7 @@ Neste artigo, você configurará permissões de usuário no perfil Salesforce e 
 
    >[!TIP]
    >
-   >Certifique-se de marcar a caixa **Senha que nunca expira** .
+   >Certifique-se de marcar a caixa **Senha Nunca expira**.
 
 1. Na seção Permissões gerais de usuário, verifique se as seguintes caixas estão marcadas:
 
@@ -98,7 +98,7 @@ Neste artigo, você configurará permissões de usuário no perfil Salesforce e 
    >
    >Esta etapa evitará que os campos que você não precisa sejam exibidos no Marketo, o que reduzirá a desorganização e agilizará a sincronização.
 
-1. Na página de detalhes do perfil, vá para a seção Segurança **no nível do** campo. Clique em **Visualização** para editar a acessibilidade dos objetos:
+1. Na página de detalhes do perfil, vá para a seção **Segurança no nível do campo**. Clique em **Visualização** para editar a acessibilidade dos objetos:
 
    * `Lead`
    * `Contact`
@@ -115,7 +115,7 @@ Neste artigo, você configurará permissões de usuário no perfil Salesforce e 
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Localize os campos desnecessários, verifique se **Acesso de leitura **e Acesso de edição **** estão desmarcados. Clique em **Salvar** quando terminar.
+1. Localize os campos desnecessários, verifique se **Read Access **and** Edit Access **estão desmarcados. Clique em **Salvar** quando terminar.
 
    >[!NOTE]
    >
@@ -151,17 +151,17 @@ Neste artigo, você configurará permissões de usuário no perfil Salesforce e 
 
 ![](assets/sfdc-check-the-boxes.png)
 
-## Criar conta de sincronização do Marketing-Salesforce {#create-marketo-salesforce-sync-account}
+## Criar conta de sincronização do Marketing para Salesforce {#create-marketo-salesforce-sync-account}
 
 >[!TIP]
 >
->Criar uma conta exclusiva do Salesforce (por exemplo, [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4)) para diferenciar as alterações feitas pelo Marketo em relação a outros usuários do Salesforce.
+>Criar uma conta exclusiva do Salesforce (por exemplo, [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4)) para distinguir as alterações feitas pelo Marketing versus outros usuários do Salesforce.
 
 1. Digite &quot;Gerenciar usuários&quot; na barra de pesquisa Navegador e clique em **Usuários**. Clique em **Novo usuário**.
 
    ![](assets/sfdc-new-users.png)
 
-1. Preencha os campos obrigatórios. Em seguida, selecione a Licença de **usuário: O Salesforce** e o Perfil criado anteriormente. Clique em **Salvar** quando terminar.
+1. Preencha os campos obrigatórios. Em seguida, selecione a **Licença de usuário: Salesforce** e o Perfil criado anteriormente. Clique em **Salvar** quando terminar.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
