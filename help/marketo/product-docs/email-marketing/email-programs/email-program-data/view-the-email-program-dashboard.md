@@ -17,7 +17,7 @@ Veja como seu programa de e-mail (com ou sem um teste A/B) está se saindo com e
 
 ## Selecione seu Programa de email {#select-your-email-program}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
