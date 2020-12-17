@@ -22,6 +22,6 @@ Se você estiver se perguntando o que precisa fazer logon e usar o Marketo, veja
 * Computador ou laptop executando Windows, OS X ou Linux
 * Teclado e mouse
 * Monitor com resolução mínima de 1280 x 768
-* Navegador atualizado, consulte Navegadores [](supported-browsers.md) suportados para obter detalhes
+* Navegador atualizado, consulte [Navegadores suportados](supported-browsers.md) para obter detalhes
 * Conexão com a Internet
 
