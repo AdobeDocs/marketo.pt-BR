@@ -17,13 +17,13 @@ Palavras-chave são frases que as pessoas digitam em mecanismos de pesquisa. Adi
 
 >[!NOTE]
 >
->Se você tiver muitas palavras-chave, poderá [importá-las com um arquivo](seo-importing-keywords-with-a-csv.md)CSV.
+>Se você tiver muitas palavras-chave, poderá [importá-las com um arquivo CSV](seo-importing-keywords-with-a-csv.md).
 
-1. Vá para a seção **Palavras-chave** .
+1. Vá para a seção **Palavras-chave**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Digite as palavras-chave que deseja público alvo e clique em **SALVAR**.
+1. Digite as palavras-chave que deseja público alvo e clique em **SAVE**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
