@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Filtrar um Relatório de Programa por Custo de Período {#filter-a-program-report-by-period-cost}
+# Filtrar um Relatório de Programa por Custo do Período {#filter-a-program-report-by-period-cost}
 
-Focalize seu relatório [de desempenho do](create-a-program-performance-report.md) programa em um período específico de tempo de custo.
+Focalize seu [relatório de desempenho do programa](create-a-program-performance-report.md) em um período de tempo específico.
 
 1. Vá para **Marketing** **Atividade** (ou **Analytics**).
 
@@ -23,15 +23,15 @@ Focalize seu relatório [de desempenho do](create-a-program-performance-report.m
 
    ![](assets/image2014-9-23-16-3a22-3a52.png)
 
-1. Clique na guia **Configuração** e arraste sobre Custo **do** Período.
+1. Clique na guia **Configuração** e arraste sobre **Custo do Período**.
 
    ![](assets/lm-86194-1.png)
 
-1. Informe as datas **De** e **Até** para os custos incorridos e clique em **Aplicar**.
+1. Insira as datas **De** e **Até** para os custos incorridos e clique em **Aplicar**.
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. Você terminou! Clique na guia **Relatório** para ver apenas os programas que se encaixam dentro do período especificado.
+1. Você terminou! Clique na guia **Relatório** para ver apenas os programas que se encaixam no período especificado do tempo de custo.
 
    ![](assets/lm-86194-report-tab.png)
 
@@ -49,5 +49,5 @@ Focalize seu relatório [de desempenho do](create-a-program-performance-report.m
    >**Mergulho profundo**
    >
    >
-   >Saiba tudo sobre os relatórios no Relatórios [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+   >Saiba tudo sobre os relatórios em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
