@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Uso de um modelo na janela Compor {#using-a-template-in-the-compose-window}
+# Usando um modelo na janela Compor {#using-a-template-in-the-compose-window}
 
-## Como encontrar e usar modelos {#finding-and-using-templates}
+## Localizando e usando Modelos {#finding-and-using-templates}
 
 1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
 
@@ -39,9 +39,9 @@ ht-degree: 0%
    >
    >Selecionar outro modelo substituirá todas as informações atualmente no editor. Se você fizer quaisquer alterações, certifique-se de copiá-las antes de selecionar outro modelo.
 
-## Fixar Categorias de modelo na janela Compor {#pinning-template-categories-in-the-compose-window}
+## Categorias de fixação de modelo na janela Compor {#pinning-template-categories-in-the-compose-window}
 
-Marque como favorito **até cinco** categorias de modelo específicas para obter acesso rápido aos modelos mais usados.
+Categorias de modelo específicas favoritas **até cinco** para obter acesso rápido aos modelos mais usados.
 
 1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
 
@@ -55,7 +55,7 @@ Marque como favorito **até cinco** categorias de modelo específicas para obter
 
    ![](assets/pinning-three.png)
 
-1. Clique em **Salvar alterações** ao concluir (opcional: repita a Etapa 3 para adicionar mais).
+1. Clique em **Salvar alterações** quando concluir (opcional: repita a Etapa 3 para adicionar mais).
 
    ![](assets/pinning-four.png)
 
@@ -67,7 +67,7 @@ Marque como favorito **até cinco** categorias de modelo específicas para obter
 
    >[!NOTE]
    >
-   >**Os favoritos** estão lá por padrão. Ele contém modelos de e-mail favoritos, não categoria.
+   >**Por padrão,** favorita aqui. Ele contém modelos de e-mail favoritos, não categoria.
 
    >[!NOTE]
    >
