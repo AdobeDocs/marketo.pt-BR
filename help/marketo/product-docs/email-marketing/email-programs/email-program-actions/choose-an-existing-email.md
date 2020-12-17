@@ -11,20 +11,20 @@ ht-degree: 0%
 ---
 
 
-# Escolher um email existente {#choose-an-existing-email}
+# Escolha um email existente {#choose-an-existing-email}
 
 >[!PREREQUISITES]
 >
 >* [Criar um Programa por email](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir uma Audiência com uma Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) inteligente ou [Definir uma Audiência importando uma Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir uma Audiência com uma ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista inteligente  [Definir uma Audiência importando uma Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-Depois de [criar um programa](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) de e-mail e definir sua audiência, você deverá decidir qual e-mail está enviando. Você pode [criar um email para um programa](create-an-email-for-an-email-program.md) de email do zero ou selecionar um que já existe. Aqui está como escolher um que já existe.
+Depois que você [criar um programa de e-mail](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) e definir sua audiência, será necessário decidir que e-mail está enviando. Você pode [criar um email para um programa de email](create-an-email-for-an-email-program.md) do zero ou selecionar um que já existe. Aqui está como escolher um que já existe.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,9 +32,9 @@ Depois de [criar um programa](../../../../product-docs/email-marketing/email-pro
 
    ![](assets/selectemailprogram.jpg)
 
-1. No bloco **Email** , selecione o que deseja enviar.
+1. No bloco **Email**, selecione o que deseja enviar.
 
-   ` ![](assets/image2014-9-12-11-3a28-3a10.png)
+   &#39; ![](assets/image2014-9-12-11-3a28-3a10.png)
 
    `
 
