@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Exportando resultados de palavra-chave {#seo-exporting-keyword-results}
+# SEO - Exportando resultados de palavras-chave {#seo-exporting-keyword-results}
 
 Você pode exportar os resultados de sua palavra-chave para compartilhar com sua equipe ou para criar um relatório.
 
-1. Vá para a seção **Palavras-chave** .
+1. Vá para a seção **Palavras-chave**.
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
