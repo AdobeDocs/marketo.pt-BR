@@ -29,9 +29,9 @@ Todos esses campos personalizados são opcionais e não precisam sincronizar o M
 
 Adicione três campos personalizados nos objetos de cliente potencial e contato no Salesforce listados acima. Se desejar adicionar mais, consulte a tabela de campos disponíveis no final desta seção.
 
-Execute as seguintes etapas para cada um dos três campos personalizados para adicioná-los. Start com **pontuação**.
+Execute as seguintes etapas para cada um dos três campos personalizados para adicioná-los. Start com **Pontuação**.
 
-1. Faça logon no Salesforce e clique em **Configurar.**
+1. Faça logon no Salesforce e clique em **Configuração.**
 
    ** ![](assets/image2016-5-23-13-3a15-3a21.png)
 
@@ -45,11 +45,11 @@ Execute as seguintes etapas para cada um dos três campos personalizados para ad
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Escolha o tipo de campo apropriado (para Pontuação — **número**; Programa de aquisição — **texto**; Data de aquisição — **Data/hora**).
+1. Escolha o tipo de campo apropriado (para Pontuação — **number**; Programa de aquisição — **text**; Data de aquisição — **Data/Hora**).
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -81,7 +81,7 @@ Execute as seguintes etapas para cada um dos três campos personalizados para ad
    <td>Pontuação</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Número</td> 
-   <td>Comprimento 10 Casas<br>Decimais 0 </td> 
+   <td>Extensão 10<br>Casas decimais 0 </td> 
   </tr> 
   <tr> 
    <td>Data de aquisição</td> 
@@ -108,19 +108,19 @@ Execute as seguintes etapas para cada um dos três campos personalizados para ad
 >
 >Os campos de texto e número exigem um comprimento, mas os campos de Data/Hora não o exigem. Uma descrição é opcional.
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Especifique as configurações de acesso e clique em **Avançar**:
+1. Especifique as configurações de acesso e clique em **Próximo**:
 
-   * Defina todas as funções como **Visível **e Somente **leitura**
+   * Defina todas as funções como **Visível **e **Somente leitura**
 
-   * Desmarque a caixa de seleção Somente **** leitura para o perfil do usuário de sincronização:
+   * Desmarque a caixa de seleção **Somente leitura** para o perfil do usuário de sincronização:
 
-      * Se você tiver um usuário com o perfil de um Administrador *de* sistema como o usuário de sincronização, desmarque a caixa de seleção Somente **** leitura do perfil Administrador de sistema (como mostrado abaixo)
+      * Se você tiver um usuário com o perfil de um *Administrador do sistema* como o usuário de sincronização, desmarque a caixa de seleção **Somente leitura** para o perfil Administrador do sistema (conforme mostrado abaixo)
 
-      * Se você criou um perfil ** personalizado para o usuário de sincronização, desmarque a caixa de seleção Somente **** leitura para esse perfil personalizado
+      * Se você criou um *perfil personalizado* para o usuário de sincronização, desmarque a caixa de seleção **Somente leitura** desse perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -148,7 +148,7 @@ Execute as seguintes etapas para cada um dos três campos personalizados para ad
    <td>ID do Programa de aquisição</td> 
    <td>mkto71_Acquisition_Programa_Id</td> 
    <td>Número</td> 
-   <td>Extensão 18<br>Casas Decimais 0 </td> 
+   <td>Extensão 18<br>Casas decimais 0 </td> 
   </tr> 
   <tr> 
    <td>Quem indicou original</td> 
@@ -225,7 +225,7 @@ Execute as seguintes etapas para cada um dos três campos personalizados para ad
  </tbody> 
 </table>
 
-## Mapear campos personalizados para conversões  {#map-custom-fields-for-conversions}
+## Mapear campos personalizados para conversões {#map-custom-fields-for-conversions}
 
 Um campo personalizado no objeto de cliente potencial no Salesforce deve ser mapeado para um campo de contato no objeto de contato para que os dados sejam transmitidos quando ocorrer uma conversão.
 
@@ -258,7 +258,7 @@ Fácil o suficiente, certo?
 >
 >**Mergulho profundo**
 >
->Aqui está um [vídeo de todo o processo](https://nation.marketo.com/videos/1475) que deveria deixar tudo bem claro!
+>Aqui está um vídeo [de todo o processo](https://nation.marketo.com/videos/1475) que deve torná-lo cristalino!
 
 >[!NOTE]
 >
