@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Desativar notificações por email para proprietário potencial {#turn-off-email-notifications-to-lead-owner}
+# Desativar notificações por email para o proprietário líder {#turn-off-email-notifications-to-lead-owner}
 
 Você pode desativar as notificações automáticas por email enviadas aos Proprietários Potenciais no Salesforce na Atribuição de Cliente Potencial. Veja como.
 
@@ -19,15 +19,15 @@ Você pode desativar as notificações automáticas por email enviadas aos Propr
 
    ![](assets/admin-1.png)
 
-1. Clique em **Salesforce (Salesforce)**.
+1. Clique em **Salesforce**.
 
    ![](assets/adminsalesforce.png)
 
-1. Em Opções **de** sincronização, clique em **Editar**.
+1. Em **Opções de sincronização**, clique em **Editar**.
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Desmarque a caixa **Enviar notificação por e-mail ao proprietário no Salesforce na atribuição** do cliente potencial. Clique em **Salvar**.
+1. Desmarque a caixa **Enviar notificação por e-mail ao proprietário no Salesforce na atribuição do cliente potencial**. Clique em **Salvar**.
 
    ![](assets/new-screen.png)
 
