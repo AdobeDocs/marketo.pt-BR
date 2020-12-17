@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Conexão com um grupo {#connecting-with-a-group}
+# Conexão com um Grupo {#connecting-with-a-group}
 
 Saiba como enviar um email para um grupo inteiro ou adicionar um grupo a uma campanha.
 
@@ -21,7 +21,7 @@ Saiba como enviar um email para um grupo inteiro ou adicionar um grupo a uma cam
 
    ![](assets/one-6.png)
 
-1. Clique no botão Ações **do** grupo e selecione Grupo **de** email.
+1. Clique no botão **Ações de grupo** e selecione **Grupo de email**.
 
    ![](assets/two-5.png)
 
@@ -37,23 +37,23 @@ Saiba como enviar um email para um grupo inteiro ou adicionar um grupo a uma cam
 
    ![](assets/one-6.png)
 
-1. Clique no botão Ações **do** grupo e selecione **Adicionar grupo à Campanha**.
+1. Clique no botão **Ações do grupo** e selecione **Adicionar grupo à Campanha**.
 
    ![](assets/four-4.png)
 
-1. Confirme se as pessoas certas foram selecionadas e clique em **Avançar**.
+1. Confirme se as pessoas certas foram selecionadas e clique em **Próximo**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Você pode ver uma opção para adicionar a uma Campanha de marketing. [Esse é um artigo](http://docs.marketo.com/x/CwDh)diferente.
+   >Você pode ver uma opção para adicionar a uma Campanha de marketing. [Esse é um artigo](http://docs.marketo.com/x/CwDh) diferente.
 
-1. Selecione uma campanha (você pode selecionar uma categoria para restringir os resultados) e clique em **Avançar**.
+1. Selecione uma campanha (você pode selecionar uma categoria para restringir seus resultados) e clique em **Próximo**.
 
    ![](assets/seven-1.png)
 
-1. Faça as edições desejadas e clique em **Avançar**.
+1. Faça as edições que desejar e clique em **Próximo**.
 
    ![](assets/eight-1.png)
 
