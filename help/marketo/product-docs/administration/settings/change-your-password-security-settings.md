@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Alterar suas configurações de segurança de senha {#change-your-password-security-settings}
+# Altere suas configurações de segurança de senha {#change-your-password-security-settings}
 
 Controlar a política de senha da sua subscrição. Veja como.
 
@@ -19,15 +19,15 @@ Controlar a política de senha da sua subscrição. Veja como.
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Admin**, clique em Configurações **** de logon.
+1. Em **Admin**, clique em **Definições de Início de Sessão**.
 
    ![](assets/image2014-9-16-12-3a41-3a40.png)
 
-1. Em Configurações **de** segurança, clique em **Editar**.
+1. Em **Configurações de segurança**, clique em **Editar**.
 
    ![](assets/passwordsettings-hand.png)
 
-1. Selecione um **modelo**. Para opções avançadas, clique no menu suspenso **Avançado** .
+1. Selecione um **Modelo**. Para opções avançadas, clique no menu suspenso **Avançado**.
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ Controlar a política de senha da sua subscrição. Veja como.
    >
    >Em **Personalizado**, marque as caixas para indicar quais características você deseja que os usuários incluam ao criar senhas.
 
-1. Defina a **Expiração**.** **Este recurso exige automaticamente que os usuários redefinam suas senhas após um determinado período de tempo. Isso inclui o usuário administrador também.
+1. Defina **Expiração**.** **Este recurso exige automaticamente que os usuários redefinam suas senhas após um determinado período de tempo. Isso inclui o usuário administrador também.
 
    >[!CAUTION]
    >
@@ -50,7 +50,7 @@ Controlar a política de senha da sua subscrição. Veja como.
 
    ![](assets/expiration.png)
 
-1. Defina o tempo limite da sessão **inativa**. Isso determina por quanto tempo um usuário pode ficar inativo antes de ter que fazer login novamente no Marketo.
+1. Defina **Tempo limite da sessão inativa**. Isso determina por quanto tempo um usuário pode ficar inativo antes de ter que fazer login novamente no Marketo.
 
    ![](assets/inactivesession.png)
 
