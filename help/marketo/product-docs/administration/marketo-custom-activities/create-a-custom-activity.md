@@ -23,15 +23,15 @@ Siga estas etapas para criar uma nova atividade personalizada.
 
    ![](assets/one.png)
 
-1. Em Gerenciamento **de** Banco de Dados, clique em Atividades **** Personalizadas.
+1. Em **Gerenciamento de banco de dados**, clique em **Atividades personalizadas**.
 
    ![](assets/two.png)
 
-1. Clique em **Nova Atividade** personalizada.
+1. Clique em **Nova Atividade personalizada**.
 
    ![](assets/three.png)
 
-1. Digite um nome e uma descrição opcional e clique em **Avançar**. O Nome da API é preenchido automaticamente, mas pode ser personalizado.
+1. Digite um nome e uma descrição opcional e clique em **Next**. O Nome da API é preenchido automaticamente, mas pode ser personalizado.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Siga estas etapas para criar uma nova atividade personalizada.
    >
    >Se você decidir alterar o nome da API, verifique se o nome não está em conflito com campos em outras atividades personalizadas.
 
-1. Defina o **Filtro** e o **Acionador** e clique em **Avançar**.
+1. Defina **Filtro** e **Acionador** e clique em **Seguinte**.
 
    ![](assets/five.png)
 
