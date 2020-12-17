@@ -33,7 +33,7 @@ O telefone de vendas facilita a comunicação internacional. Para clientes que l
   </tr> 
   <tr> 
    <td colspan="1">Áustria</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 436 9989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -61,7 +61,7 @@ O telefone de vendas facilita a comunicação internacional. Para clientes que l
   </tr> 
   <tr> 
    <td>Grécia </td> 
-   <td>30, 3021</td> 
+   <td>30 3021</td> 
   </tr> 
   <tr> 
    <td>Hungria</td> 
@@ -69,7 +69,7 @@ O telefone de vendas facilita a comunicação internacional. Para clientes que l
   </tr> 
   <tr> 
    <td colspan="1">Irlanda </td> 
-   <td colspan="1">353, 3531</td> 
+   <td colspan="1">353 3531</td> 
   </tr> 
   <tr> 
    <td>Israel</td> 
@@ -113,7 +113,7 @@ O telefone de vendas facilita a comunicação internacional. Para clientes que l
   </tr> 
   <tr> 
    <td colspan="1">Polônia </td> 
-   <td colspan="1">48, 4832</td> 
+   <td colspan="1">48 4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">Portugal </td> 
