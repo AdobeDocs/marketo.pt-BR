@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Os status dos programas são os pontos de verificação por meio de um caminho de programas (canal). Se você fizer um status por engano ou não precisar mais dele, sinta-se à vontade para excluí-lo.
 
-1. Vá para a seção **Admin** .
+1. Vá para a seção **Admin**.
 
    ![](assets/admin.png)
 
@@ -23,7 +23,7 @@ Os status dos programas são os pontos de verificação por meio de um caminho d
 
    ![](assets/image2014-9-24-15-3a51-3a24.png)
 
-1. Selecione o canal do qual deseja remover um status e, em Ações **de** tag, clique em **Editar**.
+1. Selecione o canal do qual deseja remover um status e, em **Ações de tag**, clique em **Editar**.
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
@@ -35,4 +35,4 @@ Os status dos programas são os pontos de verificação por meio de um caminho d
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-Muito bem! Você também pode [excluir um canal](delete-a-program-channel.md) inteiro, se necessário.
+Muito bem! Você também pode [excluir um canal inteiro](delete-a-program-channel.md), se necessário.
