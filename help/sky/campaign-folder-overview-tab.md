@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Pasta de campanha: Guia Visão geral
 
-Há duas seções na guia [!UICONTROL Visão geral] da pasta de campanha: **[!UICONTROL Detalhes]** e **[!UICONTROL relatórios]**.
+Há duas seções na guia da pasta de campanha [!UICONTROL Visão geral]: **[!UICONTROL Detalhes]** e **[!UICONTROL Relatórios]**.
 
 ![Imagem Um](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
@@ -28,7 +28,7 @@ Clique no menu suspenso Ações da pasta na parte superior direita para obter ac
 
 [!UICONTROL ## Relatórios]
 
-Na seção [!UICONTROL Relatórios] , você pode encontrar informações importantes sobre as diferentes campanhas dentro da sua pasta.
+Na seção [!UICONTROL Relatórios], você pode encontrar informações importantes sobre as diferentes campanhas dentro da sua pasta.
 
 ![Imagem Um](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-3.png)
 
