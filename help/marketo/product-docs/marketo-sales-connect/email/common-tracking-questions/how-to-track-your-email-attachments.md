@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Como rastrear seus anexos de email {#how-to-track-your-email-attachments}
 
-Ofertas do Sales Connect rastreando seus anexos (.doc, .ppt, .pdf) para que você possa ver quando eles foram `opened/` e quando foram `downloaded``see what pages your recipient is looking through`. Vamos permitir que você use nosso recurso de anexos rastreáveis do aplicativo [da](http://toutapp.com/login) Web e do Gmail (ou do Google Apps).
+Ofertas do Sales Connect rastreando seus anexos (.doc, .ppt, .pdf) para que você possa ver quando eles foram `opened/` `downloaded` e `see what pages your recipient is looking through`. Vamos permitir que você use nosso recurso de anexos rastreáveis do [aplicativo da Web](http://toutapp.com/login) e do Gmail (ou do Google Apps).
 
 >[!NOTE]
 >
@@ -21,10 +21,10 @@ Ofertas do Sales Connect rastreando seus anexos (.doc, .ppt, .pdf) para que voc�
 
 ## Como enviar seu primeiro anexo rastreável {#how-to-send-your-first-trackable-attachment}
 
-1. Componha um email ou edite um modelo e clique no botão **Conteúdo** .
+1. Componha um email ou edite um modelo e clique no botão **Conteúdo**.
 1. Carregue seu anexo e envie-o para fora. Oferecemos suporte a PDFs, documentos do Word e apresentações do Powerpoint.
 1. Selecione **Adicionar ao email**.
-1. Clique em **Enviar** e acione seu Feed ao vivo. Você verá seus recipient enquanto eles são abertos e percorrerão seus anexos.* *
+1. Clique em **Enviar** e acenda seu Feed ao vivo. Você verá seus recipient enquanto eles são abertos e percorrerão seus anexos.* *
 
    >[!TIP]
    >
