@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Exportar resultados da Campanha inteligente para o Excel {#export-smart-campaign-results-to-excel}
+# Exportar resultados de Campanha inteligente para o Excel {#export-smart-campaign-results-to-excel}
 
 Exporte os resultados da campanha inteligente para o Excel para uso fora do Marketing.
 
-1. Na sua campanha inteligente, clique em **Resultados** e, em seguida, no ícone de exportação na parte inferior.
+1. Na sua campanha inteligente, clique em **Results** e, em seguida, no ícone de exportação na parte inferior.
 
    ![](assets/exportexcel-hands.png)
 
