@@ -29,25 +29,25 @@ O Marketing Sales Insight usa estrelas e chamas para priorizar clientes potencia
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Na seção Configurações **de pontuação de** cliente potencial, clique em **Editar**.
+1. Na seção **Definições de Pontuação de Chumbo**, clique em **Editar**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. Selecione o Método **de** Pontuação de sua escolha.
+1. Selecione o **Método de Pontuação** de sua escolha.
 
    >[!NOTE]
    >
    >**Definição**
    >
    >
-   >**Dinâmico** - é um valor percentual derivado de dados [](priority-urgency-relative-score-and-best-bets.md)relativos. Coisas incríveis. Este método é recomendado.
+   >**Dinâmico**  - é um valor percentual que é derivado de dados [ ](priority-urgency-relative-score-and-best-bets.md)relativos. Coisas incríveis. Este método é recomendado.
    >
    >
-   >**Estático** - Permite definir números exatos de pontuação - não há mais porcentagens, não há mais molhos secretos.
+   >**Estático**  - Permite definir números exatos de pontuação - não há mais porcentagens, não há mais molhos secretos.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. Edite os colchetes de porcentagem de acordo com sua preferência e **Salve**.
+1. Edite os colchetes de acordo com sua preferência e **Salvar**.
 
    >[!TIP]
    >
