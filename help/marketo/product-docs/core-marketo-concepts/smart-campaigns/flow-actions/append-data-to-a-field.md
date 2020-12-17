@@ -23,7 +23,7 @@ Há uma maneira fácil de anexar dados a um campo. Veja como.
 
 
 
-1. Na guia **Fluxo** , arraste a etapa de fluxo **Alterar valor** de dados.
+1. Na guia **Fluxo**, arraste a etapa de fluxo **Alterar valor de dados**.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
