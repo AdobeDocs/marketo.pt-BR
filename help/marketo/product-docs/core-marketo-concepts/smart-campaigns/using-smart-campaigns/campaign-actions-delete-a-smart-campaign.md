@@ -19,15 +19,15 @@ Se você tiver uma campanha inteligente antiga que não precisa mais, você pode
 >
 >Certifique-se antes de excluir. Depois de excluir uma campanha inteligente, ela não poderá ser restaurada.
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Navegue até sua campanha inteligente inativa. Em **Campanha** **Ações**, clique em **Excluir**.
+1. Navegue até sua campanha inteligente inativa. Em **Campanha** **Ações**, clique em **Eliminar**.
 
    >[!TIP]
    >
-   >Para cancelar o processamento de uma campanha inteligente ativa sem excluí-la completamente, aprenda a [abortar uma campanha](abort-a-smart-campaign.md)inteligente.
+   >Para cancelar o processamento de uma campanha inteligente ativa sem excluí-la completamente, aprenda a [abortar uma campanha inteligente](abort-a-smart-campaign.md).
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
@@ -37,6 +37,6 @@ Se você tiver uma campanha inteligente antiga que não precisa mais, você pode
 
    >[!CAUTION]
    >
-   >Não **** exclua uma campanha inteligente ativa com pessoas nas etapas de fluxo. A campanha provavelmente ainda será executada.
+   >Não exclua **NOT** uma campanha inteligente ativa com pessoas nas etapas de fluxo. A campanha provavelmente ainda será executada.
 
 Legal!
