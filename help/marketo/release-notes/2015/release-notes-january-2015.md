@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Os seguintes recursos estão incluídos na versão de janeiro de 2015. Verifique a disponibilidade de recursos do Marketing Edition. Após o lançamento, volte a encontrar links para artigos detalhados para cada recurso!
 
-## Atualizações da automação de marketing {#marketing-automation-updates}
+## Atualizações da Marketing Automation {#marketing-automation-updates}
 
 **Novas fotos de Rick DeCosta!**
 
-Rick é um cliente do Marketo do SmartBear e tem uma coleção [inacreditável de fotos](https://www.flickr.com/photos/rickdecosta). Dê uma olhada!
+Rick é um cliente do Marketo do SmartBear e tem uma [coleção inacreditável de fotos](https://www.flickr.com/photos/rickdecosta). Dê uma olhada!
 
 ## Landings page amigáveis para dispositivos móveis {#mobile-friendly-landing-pages}
 
@@ -59,13 +59,13 @@ As melhorias no módulo Contas nomeadas melhorarão as taxas de correspondência
 
 Opções de tag RTP atualizadas
 
-[As opções de etiqueta](http://docs.marketo.com/display/docs/rtp+tag+implementation) RTP em Configurações da conta foram atualizadas para incluir:
+[As opções de ](http://docs.marketo.com/display/docs/rtp+tag+implementation) Tags RTP em Configurações de conta foram atualizadas para incluir:
 
 1. CDN e assíncrono (tag recomendada)
 1. CDN e síncrono (alta velocidade)
 1. Tag assíncrona sem CDN
 1. Tag síncrona sem CDN
 
-Para obter o melhor desempenho, é recomendável colocar a tag na parte superior do cabeçalho na sua página da Web após `<head>`. Todas as tags permitem o uso da API [](http://developers.marketo.com/documentation/websites/rtp-js-api/)RTP. Para obter informações sobre como implantar a tag RTP, consulte [aqui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para melhor desempenho, é recomendável colocar a tag na parte superior do cabeçalho na sua página da Web depois de `<head>`. Todas as tags permitem o uso da [API RTP](http://developers.marketo.com/documentation/websites/rtp-js-api/). Para obter informações sobre como implantar a tag RTP, consulte [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
