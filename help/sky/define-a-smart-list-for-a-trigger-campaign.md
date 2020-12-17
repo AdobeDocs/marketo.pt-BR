@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Faça uma campanha inteligente executar em uma pessoa de cada vez com base em eventos ao vivo adicionando acionadores.
 
-1. Escolha uma campanha inteligente e clique em Lista **[!UICONTROL inteligente]**.
+1. Escolha uma campanha inteligente e clique em **[!UICONTROL Lista inteligente]**.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ Faça uma campanha inteligente executar em uma pessoa de cada vez com base em ev
    >
    >Uma campanha inteligente com acionadores é executada no modo Acionador. Ele é executado em uma pessoa de cada vez com base em eventos acionados e filtros adicionais.
 
-1. Clique na lista suspensa e escolha um operador (por exemplo, **[!UICONTROL está]**, não **[!UICONTROL está]**, etc.) para o acionador que você escolheu.
+1. Clique na lista suspensa e escolha um operador (por exemplo, **[!UICONTROL is]**, **[!UICONTROL não é]**, etc.) para o acionador que você escolheu.
 
    ![Imagem Três](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
