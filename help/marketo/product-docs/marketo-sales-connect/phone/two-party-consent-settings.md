@@ -17,7 +17,7 @@ Para garantir a conformidade com as leis de consentimento de duas partes dos EUA
 
 >[!PREREQUISITES]
 >
->Antes de seguir as etapas abaixo, você deve primeiro [ativar a gravação de chamadas.](http://docs.marketo.com/x/dAC1Ag)
+>Antes de seguir as etapas abaixo, você deve primeiro [ativar a gravação de chamada.](http://docs.marketo.com/x/dAC1Ag)
 
 1. Clique no ícone Configurações e selecione **Configurações**.
 
@@ -27,7 +27,7 @@ Para garantir a conformidade com as leis de consentimento de duas partes dos EUA
 
    ![](assets/two-1.png)
 
-1. Role para baixo até Configurações do telefone do Connect de vendas e clique em **Gerenciar aviso** de gravação.
+1. Role para baixo até Configurações de telefone do Connect de vendas e clique em **Gerenciar aviso de gravação**.
 
    ![](assets/three-1.png)
 
@@ -43,7 +43,7 @@ Para garantir a conformidade com as leis de consentimento de duas partes dos EUA
 
    ![](assets/five.png)
 
-1. Quando o upload estiver concluído, selecione o dota (três pontos) no gerenciador de arquivos e clique em **Selecionar como aviso** de consentimento. Clique em **OK** quando concluído.
+1. Quando o upload estiver concluído, selecione os dados (três pontos) no gerenciador de arquivos e clique em **Selecionar como Aviso de Consentimento**. Clique em **OK** quando terminar.
 
    ![](assets/six.png)
 
