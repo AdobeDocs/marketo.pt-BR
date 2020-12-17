@@ -21,7 +21,7 @@ Você também pode descobrir como melhorar usando a seção Recommendations. Vam
 
 ## Principais problemas de otimização de página {#top-page-optimization-issues}
 
-Isso mostrará cinco maneiras de otimizar o seu site de start imediatamente! Basta clicar em qualquer um dos links para visualização da Detalhamento [da página completa](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
+Isso mostrará cinco maneiras de otimizar o seu site de start imediatamente! Basta clicar em qualquer um dos links para visualização de [Detalhamento completo da página](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
 
 >[!TIP]
 >
