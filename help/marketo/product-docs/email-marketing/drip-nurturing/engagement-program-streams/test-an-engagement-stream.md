@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Depois de adicionar todo o seu conteúdo a um fluxo, você pode testá-lo uma peça de cada vez.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ Depois de adicionar todo o seu conteúdo a um fluxo, você pode testá-lo uma pe
 
    ![](assets/two.png)
 
-1. Clique em** Ações do Programa** e selecione **Testar fluxo contínuo**.
+1. Clique em** Ações do Programa** e selecione **Testar fluxo**.
 
    ![](assets/three.png)
 
@@ -42,7 +42,7 @@ Depois de adicionar todo o seu conteúdo a um fluxo, você pode testá-lo uma pe
    Clique em Fluxo inicial, selecione o fluxo que deseja testar e clique em Executar transmissão.
    ![](assets/five-rubiks.png)
 
-1. Depois que a pessoa passar pelas regras [de](transition-people-between-engagement-streams.md) transição configuradas anteriormente, clique no ícone Atualizar.
+1. Depois que a pessoa passar pelas [regras de transição](transition-people-between-engagement-streams.md) configuradas anteriormente, clique no ícone Atualizar.
 
    ![](assets/six-rubiks.png)
 
