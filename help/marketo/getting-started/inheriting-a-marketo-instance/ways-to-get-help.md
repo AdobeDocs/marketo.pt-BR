@@ -19,6 +19,6 @@ Ainda não consegue encontrar o que você precisa? Não sabe o que você não sa
 
 ![—](assets/seo-29.png) Para obter assistência técnica com algo que não está funcionando, entre em contato com o Suporte [**ao cliente do**](https://nation.marketo.com/t5/Support/ct-p/Support)Marketing Cloud.
 
-![—](assets/seo-30.png) Para conectar-se com nossa equipe de serviços profissionais, entre em contato com **marketoservices@adobe.com**.
+![—](assets/seo-30.png) Para conectar-se com nossa equipe de serviços profissionais, entre em contato com  **marketoservices@adobe.com**.
 
-![—](assets/education-science-08.png) Para desenvolver suas habilidades de marketing, visite a [**Universidade**](https://learn.marketo.com)de Marketo.
+![—](assets/education-science-08.png) Para desenvolver suas habilidades de marketing, visite a  [**Universidade**](https://learn.marketo.com) de Marketo.
