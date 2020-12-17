@@ -17,11 +17,11 @@ Verifique sua edição de marketing para ver a disponibilidade de recursos. A do
 
 ## Foco do programa no calendário de marketing {#program-focus-in-marketing-calendar}
 
-[Crie e edite entradas](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) diretamente do calendário de marketing.
+[Crie e edite ](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) entradas diretamente do calendário de marketing.
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
-## Novas chamadas da API ReST {#new-rest-api-calls}
+## Novas chamadas de API ReST {#new-rest-api-calls}
 
 Use a API para obter novas atividades ou alterações nos clientes potenciais:
 
@@ -34,17 +34,17 @@ Os detalhes completos estarão disponíveis após o lançamento em [developers.m
 
 ## MSI - Enviar email de marketing para o Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[Envie e rastreie emails](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) de vendas para clientes potenciais e contatos do Microsoft Dynamics.
+[Envie e rastreie ](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) emails de vendas para clientes potenciais e contatos do Microsoft Dynamics.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI - Adicionar às Campanhas de marketing do Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
+## MSI - Adicionar às Campanhas de marketing para Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Adicione clientes em potencial e contatos a campanhas](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) inteligentes do Marketing diretamente do Microsoft Dynamics. O Marketing pode escolher quais campanhas de marketing estão disponíveis para vendas.
+[Adicione clientes em potencial e contatos a ](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) campanhas inteligentes do Marketing diretamente do Microsoft Dynamics. O Marketing pode escolher quais campanhas de marketing estão disponíveis para vendas.
 
 ## Suporte a entidade personalizada para Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[Use dados](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) de objetos personalizados do Microsoft Dynamics para filtrar e acionar listas inteligentes, campanhas inteligentes e programas...
+[Use ](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) dados de objetos personalizados do Microsoft Dynamics para filtrar e acionar listas inteligentes, campanhas inteligentes e programas...
 
 ## Suporte a Acionistas para Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -60,7 +60,7 @@ O painel agora é aprimorado para incluir mais dados instantâneos:
 
 ## RTP - Novos modelos móveis para Campanha {#rtp-new-mobile-templates-for-campaigns}
 
-Crie campanhas [](../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) móveis com rapidez e facilidade com esses novos modelos.
+Com rapidez e facilidade [crie campanha](../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) móveis com estes novos modelos.
 
 ## RTP - API de contexto do usuário {#rtp-user-context-api}
 
