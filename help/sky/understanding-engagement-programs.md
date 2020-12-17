@@ -18,7 +18,7 @@ Os programas de envolvimento são projetados para comercializar novas pessoas, a
 
 >[!NOTE]
 >
->Há um limite de 100 programas de envolvimento _ativos_ por subscrição.
+>Há um limite de 100 _programas de envolvimento ativos_ por subscrição.
 
 ## Programa de envolvimento
 
