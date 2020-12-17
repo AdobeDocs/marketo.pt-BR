@@ -30,15 +30,15 @@ Neste exemplo, estamos escolhendo uma vez por semana, terças às 8:00 da manhã
 
    ![Imagem Três](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-3.png)
 
-1. Clique no ícone de calendário ao lado de Data **[!UICONTROL do Start de]** recorrência e selecione o dia para a primeira execução e a hora. Neste exemplo, estamos usando a próxima terça-feira disponível. Clique fora do calendário quando terminar.
+1. Clique no ícone de calendário ao lado de **[!UICONTROL Data do Start de recorrência]** e selecione o dia para a primeira execução e a hora. Neste exemplo, estamos usando a próxima terça-feira disponível. Clique fora do calendário quando terminar.
 
    ![Imagem quatro](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-4.png)
 
-1. Defina **[!UICONTROL Repetir a cada]** 1 e selecione **[!UICONTROL Terça-feira]**.
+1. Defina **[!UICONTROL Repita cada]** como 1 e selecione **[!UICONTROL Terça-feira]**.
 
    ![Imagem cinco](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-5.png)
 
-1. Clique no ícone de calendário ao lado de **[!UICONTROL Terminar em]** e escolha uma data de término. Clique em **[!UICONTROL Confirmar]** quando concluído.
+1. Clique no ícone de calendário ao lado de **[!UICONTROL Terminando em]** e escolha uma data de término. Clique em **[!UICONTROL Confirmar]** quando terminar.
 
    ![Imagem seis](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-6.png)
 
