@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Tornar sua mensagem de cancelamento de assinatura dinâmica para idiomas {#make-your-unsubscribe-message-dynamic-for-languages}
+# Torne a mensagem de cancelamento de inscrição dinâmica para idiomas {#make-your-unsubscribe-message-dynamic-for-languages}
 
 A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Você pode usar o conteúdo dinâmico para exibi-lo em idiomas diferentes.
 
@@ -20,23 +20,23 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 >Configuramos este belo tutorial abaixo para você. Representa uma prática recomendada, mas isso pode ser feito de outras formas.
 
 1. Preparar seus dados
-1. [Crie um](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)campo personalizado chamado &quot;Idioma preferencial&quot;. (Configure-o no CRM se desejar que esse campo seja sincronizado).
+1. [Crie um ](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)campo personalizado chamado &quot;Idioma preferencial&quot;. (Configure-o no CRM se desejar que esse campo seja sincronizado).
 
    >[!TIP]
    >
-   >No futuro, use esse campo ao [criar um formulário](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) para capturar a preferência de idioma.
+   >No futuro, use esse campo quando [criar um formulário](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) para capturar a preferência de idioma.
 
 1. Criar segmentação
-1. Vá para o **Banco de Dados**.
+1. Vá para **Banco de Dados**.
 ** ![](assets/db.png)
 
    **
 
-1. Na lista suspensa **Novo** , clique em **Nova segmentação**.
+1. Na lista suspensa **Novo**, clique em **Nova segmentação**.
 
    ![](assets/two.png)
 
-1. Nomeie o Idioma **** preferencial da segmentação. Clique em **Adicionar segmento**. Digite um idioma.
+1. Nomeie a segmentação **Idioma preferencial**. Clique em **Adicionar segmento**. Digite um idioma.
 
    ![](assets/image2015-3-9-8-3a33-3a44.png)
 
@@ -52,7 +52,7 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    ![](assets/image2015-3-9-8-3a38-3a17.png)
 
-1. Vá para a guia **Lista** inteligente. Insira o Idioma **preferencial** no campo de pesquisa. Arraste e solte o filtro na tela.
+1. Vá para a guia **Lista inteligente**. Digite **Idioma preferencial** no campo de pesquisa. Arraste e solte o filtro na tela.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    ![](assets/seven.png)
 
-1. Repita o procedimento para todos os idiomas diferentes. Em seguida, selecione o menu suspenso Ações **de** segmentação e clique em **Aprovar**.
+1. Repita o procedimento para todos os idiomas diferentes. Em seguida, selecione o menu suspenso **Ações de segmentação** e clique em **Aprovar**.
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
@@ -69,13 +69,13 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    ![](assets/ds.png)
 
-1. Na lista suspensa **Novo** , clique em **Novo trecho**.
+1. Na lista suspensa **Novo**, clique em **Novo trecho**.
 
    ** ![](assets/ten.png)
 
    **
 
-1. Nomeie o snippet **Unsubscribe Message (Cancelar inscrição)**. Clique em **Criar**.
+1. Nomeie o snippet **Cancelar assinatura da mensagem**. Clique em **Criar**.
 
    ![](assets/image2015-3-9-8-3a40-3a54.png)
 
@@ -83,7 +83,7 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Copie e cole este token: **`{{system.unsubscribeLink}}`** no campo URL **do** link. Clique em **Inserir**.
+1. Copie e cole este token: **`{{system.unsubscribeLink}}`** no campo **Vincular URL**. Clique em **Inserir**.
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
@@ -91,7 +91,7 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    ![](assets/image2015-3-9-8-3a44-3a16.png)
 
-1. No menu suspenso Segmentação, digite **Preferencial** e selecione Idioma **preferencial**. Clique em **Salvar**.
+1. No menu suspenso Segmentação, digite **Preferencial** e selecione **Idioma preferencial**. Clique em **Salvar**.
 
    ![](assets/image2015-3-9-8-3a44-3a32.png)
 
@@ -99,11 +99,11 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Copie e cole o mesmo token: **`{{system.unsubscribeLink}}`** no campo URL **do** link. Clique em **Inserir**.
+1. Copie e cole o mesmo token: **`{{system.unsubscribeLink}}`** no campo **Vincular URL**. Clique em **Inserir**.
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
-1. Repita o procedimento para todos os seus segmentos. Em seguida, volte para o Design Studio, clique no menu suspenso **Snippet Actions (Ações** de trecho) e clique em **Aprovar**.
+1. Repita o procedimento para todos os seus segmentos. Em seguida, volte para o Design Studio, clique no menu suspenso **Ações de trecho** e clique em **Aprovar**.
 
    ![](assets/image2015-3-9-8-3a47-3a34.png)
 
@@ -114,7 +114,7 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    ![](assets/4.1.png)
 
-1. Localize e selecione seu trecho na lista suspensa e clique em **Salvar**.
+1. Localize e selecione seu trecho no menu suspenso e clique em **Salvar**.
 
    ![](assets/image2015-3-9-8-3a50-3a16.png)
 
@@ -122,7 +122,7 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    ![](assets/4.3.png)
 
-1. ...em seguida, a guia **Dinâmico** .
+1. ...em seguida, a guia **Dinâmico**.
 
    ![](assets/4.4.png)
 
@@ -165,5 +165,5 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
    >**Mergulho profundo**
    >
    >
-   >Saiba mais sobre o conteúdo [](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) dinâmico e todas as coisas legais que você pode fazer.
+   >Saiba mais sobre [conteúdo dinâmico](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) e todas as coisas legais que você pode fazer.
 
