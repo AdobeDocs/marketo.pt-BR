@@ -21,7 +21,7 @@ Para que o Marketo obtenha dados (links de entrada e recomendações) relevantes
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
-## Adicionar um site {#add-a-site}
+## Adicionar um Site {#add-a-site}
 
 1. Clique na lista suspensa Admin e selecione **Admin**.
 
@@ -31,15 +31,15 @@ Para que o Marketo obtenha dados (links de entrada e recomendações) relevantes
 
    ![](assets/one.png)
 
-1. Clique em **Adicionar site**.
+1. Clique em **Adicionar Site**.
 
    ![](assets/two.png)
 
-1. Digite o **Nome, o URL** do site e clique em **Salvar**.
+1. Digite o **Nome, URL do site** e clique em **Salvar**.
 
    >[!TIP]
    >
-   >Você também pode adicionar um URL **** **** Blog se tiver um.
+   >Você também pode adicionar um** ****URL do blog** se tiver um.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -47,7 +47,7 @@ Para que o Marketo obtenha dados (links de entrada e recomendações) relevantes
 
    ![](assets/four.png)
 
-## Excluir um site {#delete-a-site}
+## Excluir um Site {#delete-a-site}
 
 Se você estiver rastreando mais de um site, também poderá excluir um site que não esteja mais interessado em otimizar.
 
@@ -67,5 +67,5 @@ Confirme que deseja excluir.
 
    >[!NOTE]
    >
-   >Você só pode excluir um site se tiver mais de um. Se você tiver apenas um, poderá executar uma redefinição selecionando o site e clicando em **Redefinir**. Redefinir um site irá *eliminar todos os dados* do site e recriá-lo.
+   >Você só pode excluir um site se tiver mais de um. Se você tiver apenas um, poderá executar uma redefinição selecionando o site e clicando em **Redefinir**. Redefinir um site excluirá *todos os dados do site* e recriará o site.
 
