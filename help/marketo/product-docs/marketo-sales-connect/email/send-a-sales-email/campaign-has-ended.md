@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# A campanha terminou {#campaign-has-ended}
+# A campanha terminou em {#campaign-has-ended}
 
 Se você vir um email na pasta Delivery com falha dizendo &quot;A campanha terminou&quot;, isso significa que esse email em particular era um email programado em sua campanha.
 
