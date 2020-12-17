@@ -21,7 +21,7 @@ Há duas formas principais de criar um email no Marketo. Vamos olhar para ambos.
 
    ![](assets/one-4.png)
 
-1. Clique na lista suspensa **Novo** e selecione **Novo email**.
+1. Clique no menu suspenso **Novo** e selecione **Novo e-mail**.
 
    ![](assets/two-4.png)
 
@@ -31,13 +31,13 @@ Há duas formas principais de criar um email no Marketo. Vamos olhar para ambos.
 
 Simples! Agora, pelo contrário...
 
-## Criar um email nas Atividades de marketing {#create-an-email-in-marketing-activities}
+## Criar um email no Marketing Atividade {#create-an-email-in-marketing-activities}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/three-3.png)
 
-1. Selecione o programa ao qual deseja adicionar o email, clique no menu suspenso **Novo** e selecione **Novo ativo** local.
+1. Selecione o programa ao qual deseja adicionar o email, clique no menu suspenso **Novo** e selecione **Novo ativo local**.
 
    ![](assets/four-3.png)
 
