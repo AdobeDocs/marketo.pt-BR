@@ -20,13 +20,13 @@ Como parte das Audiências preditivas, o Marketo oferta um grupo de filtros base
 
 ## Probabilidade de participação
 
-Esse filtro é usado para restringir efetivamente sua audiência. Isso ajuda você a público alvo e convidar clientes potenciais com maior probabilidade de **participar** de seu webinar ou evento. Observe que sua &quot;[!UICONTROL Probabilidade de participar do programa]&quot; será seu programa atual do evento.
+Esse filtro é usado para restringir efetivamente sua audiência. Isso ajuda você a público alvo e convidar clientes potenciais com maior probabilidade de participar **do seu webinar ou evento.** Observe que sua &quot;[!UICONTROL Probabilidade de participar do programa]&quot; será seu programa atual do evento.
 
 ![Imagem dois](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Probabilidade de registro
 
-Semelhante ao filtro [!UICONTROL _Probabilidade de participação_], use esse filtro para restringir seus clientes potenciais de audiência e público alvo que têm maior probabilidade de **se registrar** para seu webinar ou evento.
+Semelhante ao filtro [!UICONTROL _Probabilidade de participar_], use esse filtro para restringir seus clientes potenciais de audiência e público alvo que têm maior probabilidade de **se registrar** para seu webinar ou evento.
 
 ![Imagem Três](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
@@ -44,7 +44,7 @@ Isso filtros a audiência se eles têm uma probabilidade alta ou baixa de cancel
 
 Esses dois filtros ajudam a expandir sua audiência atual, direcionando clientes potenciais adicionais que são semelhantes aos membros de outro programa ou Lista inteligente. Os filtros Looklike consideram mais de 50 fatores, incluindo atributos de cliente potencial, atividade de email, atividade da Web e envolvimento.
 
-Clique em **[!UICONTROL Adicionar restrição]** para escolher critérios de sucesso para os membros do(s) programa(s) selecionado(s).
+Clique em **[!UICONTROL Adicionar restrição]** para escolher os critérios de sucesso para os membros dos programas selecionados.
 
 Clique no ícone + ao lado do menu suspenso programa para adicionar facilmente vários programas/listas inteligentes a um filtro.
 
