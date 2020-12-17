@@ -17,7 +17,7 @@ Os links de entrada indicam aos mecanismos de pesquisa que seu site merece refer
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
-## Definição de colunas {#definition-of-columns}
+## Definição das colunas {#definition-of-columns}
 
 | Título da coluna | Descrição |
 |---|---|
