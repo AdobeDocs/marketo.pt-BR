@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo Unsubscrition Check {#marketo-unsubscribe-check}
+# Marketo Unsubscribe Check {#marketo-unsubscribe-check}
 
 A verificação de cancelamento de inscrição do Marketo usa a conexão da sua equipe com o Marketo para impedir que emails sejam enviados para pessoas que não se inscrevem no sistema de gerenciamento de clientes potenciais do Marketo. Quando um usuário de vendas envia um email com o Sales Connect, uma chamada de API é feita para o Marketo para verificar se a ID do email está cancelada. Se estiver, impediremos o envio do email.
 
@@ -19,7 +19,7 @@ A verificação de cancelamento de inscrição do Marketo usa a conexão da sua 
 >
 >**Permissões de administrador necessárias**
 
-## Ligar {#turning-it-on}
+## Ativando {#turning-it-on}
 
 1. No aplicativo da Web, clique no ícone de engrenagem e selecione **Configurações**.
 
