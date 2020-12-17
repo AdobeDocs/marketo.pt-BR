@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Veja excelentes estatísticas dos seus programas com este relatório.
 
-1. [Crie um relatório em um programa](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o tipo **de** relatório Desempenho [do](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Programa.
-1. Clique na guia **Relatório** .
+1. [Crie um relatório em um ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa e selecione o tipo **** [Programa ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Performance.
+1. Clique na guia **Relatório**.
 1. Você está aí! Explore seu relatório para ver como seus programas estão indo.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
@@ -58,5 +58,5 @@ As colunas em um relatório de Desempenho do Programa incluem:
 >
 >**Mergulho profundo**
 >
->Saiba mais sobre o Relatórios [básico](http://docs.marketo.com/display/docs/basic+reporting).
+>Saiba mais em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
