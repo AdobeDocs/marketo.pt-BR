@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Usar teste A/B &quot;Data/hora&quot; {#use-date-time-a-b-testing}
+# Usar &quot;Data/hora&quot; de teste A/B {#use-date-time-a-b-testing}
 
 Você pode testar facilmente seus e-mails A/B. Um teste é o **teste de data/hora **data/hora. Isso testa qual hora do dia ou dia da semana é melhor para enviar emails. Veja como configurar.
 
@@ -23,11 +23,11 @@ Você pode testar facilmente seus e-mails A/B. Um teste é o **teste de data/hor
 
 
 
-1. No bloco **Email** , clique em **Adicionar teste** A/B.
+1. No bloco **Email**, clique em **Adicionar teste A/B**.
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
-1. Uma nova janela é aberta. Selecione **Data/hora** para Tipo **de** teste.
+1. Uma nova janela é aberta. Selecione **Date/Time** para **Tipo de Teste**.
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
@@ -57,7 +57,7 @@ Você pode testar facilmente seus e-mails A/B. Um teste é o **teste de data/hor
 
    >[!CAUTION]
    >
-   >**Recomendamos que você evite definir o tamanho da amostra como 100%**. Se estiver usando uma lista estática, definir o tamanho da amostra como 100% envia o email para todos na audiência e o vencedor não vai para ninguém. Se você estiver usando uma lista **inteligente** , definir o tamanho da amostra como 100% envia o email para todos na audiência *naquele momento. *Quando o programa de e-mail for executado novamente em uma data posterior, qualquer pessoa nova que se qualificar para a lista inteligente também receberá o e-mail, já que agora está incluída na audiência.
+   >**Recomendamos que você evite definir o tamanho da amostra como 100%**. Se estiver usando uma lista estática, definir o tamanho da amostra como 100% envia o email para todos na audiência e o vencedor não vai para ninguém. Se você estiver usando uma lista **smart**, definir o tamanho da amostra como 100% envia o email para todos na audiência *naquele momento. *Quando o programa de e-mail for executado novamente em uma data posterior, qualquer pessoa nova que se qualificar para a lista inteligente também receberá o e-mail, já que agora está incluída na audiência.
 
    [definir os critérios do vencedor do teste A/B](define-the-a-b-test-winner-criteria.md)
 
