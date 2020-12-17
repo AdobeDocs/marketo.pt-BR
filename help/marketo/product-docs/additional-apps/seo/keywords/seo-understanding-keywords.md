@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Compreensão das palavras-chave {#seo-understanding-keywords}
+# SEO - Compreensão de palavras-chave {#seo-understanding-keywords}
 
 As palavras-chave são a espinha dorsal de sua estratégia de SEO. Sua meta é estar na primeira página, o mais próximo possível das palavras-chave relevantes para a sua empresa.
 
-A seção de palavras-chave mostrará o sucesso do seu site ao atingir esse objetivo e como você empilhar para [sua concorrência.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+A seção de palavras-chave mostrará o sucesso do seu site ao alcançar isso e como você empilha até [sua concorrência.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
 
 ## Palavras-chave - Visualização de resumo {#keywords-summary-view}
 
@@ -35,7 +35,7 @@ A seção de palavras-chave mostrará o sucesso do seu site ao atingir esse obje
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Classificação e tendência</td> 
-   <td colspan="1" rowspan="1"><p>A classificação do seu site para esta palavra-chave. As setas mostram a classificação da sua palavra-chave em relação à semana anterior </p><p><img alt="--" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = classificação para cima</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = classificação baixa</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= classificação igual</p></td> 
+   <td colspan="1" rowspan="1"><p>A classificação do seu site para esta palavra-chave. As setas mostram a classificação da sua palavra-chave em relação à semana anterior </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  = classificação para cima</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> = classificação baixa</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">= classificação igual</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Nível da concorrência</td> 
