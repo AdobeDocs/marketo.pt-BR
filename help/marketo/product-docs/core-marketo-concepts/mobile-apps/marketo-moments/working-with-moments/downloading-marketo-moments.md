@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Download de momentos de marketing {#downloading-marketo-moments}
+# Baixando Momentos de marketing {#downloading-marketo-moments}
 
 Baixe os momentos de marketing da App Store ou do Google Play e voila! Magia de marca na palma da mão.
 
@@ -28,7 +28,7 @@ Baixe os momentos de marketing da App Store ou do Google Play e voila! Magia de 
 
 ## Para Android {#for-android}
 
-1. Vá para o [Google Play](https://play.google.com/store?hl=en).
+1. Vá para [Google Play](https://play.google.com/store?hl=en).
 1. Procure por momentos de marketing e toque para baixar.\
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
