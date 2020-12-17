@@ -23,9 +23,9 @@ Antes de poder sincronizar o Microsoft Dynamics 2015 On-Premise ou 2016 (Dynamic
 
 >[!PREREQUISITES]
 >
->Se você estiver usando o Microsoft Dynamics On-Premise, precisará ter o IFD ( [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) ) com o ADFS ( [Ative Diretory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+) configurado. Observação: O documento IFD é baixado automaticamente quando você clica no link.
+>Se estiver usando o Microsoft Dynamics On-Premise, você deverá ter [Implantação do Internet Facing](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) com [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configurado. Observação: O documento IFD é baixado automaticamente quando você clica no link.
 >
->[Baixe a solução](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) de gerenciamento líder de marketing antes do start.
+>[Baixe a ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) solução de gerenciamento líder de marketing antes do start.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Antes de poder sincronizar o Microsoft Dynamics 2015 On-Premise ou 2016 (Dynamic
 >
 >Você precisa de privilégios de administrador do CRM para executar essa sincronização.
 
-1. Faça logon no **Dynamics.** Clique no menu suspenso **do Microsoft Dynamics CRM** e selecione **Configurações**.
+1. Faça logon em **Dinâmicas.** Clique no menu suspenso  **do Microsoft Dynamics** CRM e selecione  **Configurações**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -45,11 +45,11 @@ Antes de poder sincronizar o Microsoft Dynamics 2015 On-Premise ou 2016 (Dynamic
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. Clique em **Procurar** e selecione a solução que você [baixou](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **Avançar**.
+1. Clique em **Procurar** e selecione a solução que [baixou](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **Próximo**.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. Visualização as Informações da solução e clique em Detalhes **do pacote da solução de** Visualização.
+1. Visualização as Informações da solução e clique em **Detalhes do pacote da solução de Visualização**.
 
    ![](assets/image2015-11-18-11-12-8.png)
 
@@ -57,7 +57,7 @@ Antes de poder sincronizar o Microsoft Dynamics 2015 On-Premise ou 2016 (Dynamic
 
    ![](assets/step6.png)
 
-1. Na página Informações da solução, clique em **Avançar**.
+1. Na página Informações da solução, clique em **Próximo**.
 
    ![](assets/image2015-3-19-9-21-50.png)
 
@@ -81,7 +81,7 @@ Antes de poder sincronizar o Microsoft Dynamics 2015 On-Premise ou 2016 (Dynamic
 
    ![](assets/image2015-3-13-9-54-39.png)
 
-1. O Gerenciamento líder de marketing agora será exibido na página **Todas as soluções** .
+1. O Gerenciamento líder de marketing agora será exibido na página **Todas as soluções**.
 
    ![](assets/image2015-3-19-8-40-38.png)
 
