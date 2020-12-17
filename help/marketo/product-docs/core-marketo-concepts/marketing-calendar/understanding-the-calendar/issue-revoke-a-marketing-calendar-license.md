@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-Para usar suas licenças do Calendário [de marketing](http://docs.marketo.com/display/docs/marketing+calendar) , é necessário emitir licenças para usuários que precisam de acesso. Veja como.
+Para usar suas [cadeiras do Calendário de marketing](http://docs.marketo.com/display/docs/marketing+calendar), é necessário emitir licenças para usuários que precisam de acesso. Veja como.
 
-1. Vá para a seção **Admin** .
+1. Vá para a seção **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -35,7 +35,7 @@ Para usar suas licenças do Calendário [de marketing](http://docs.marketo.com/d
 
    ![](assets/3.png)
 
-1. Marque **Ativar licença** e clique em **Salvar.**
+1. Marque **Ativar Licença** e clique em **Guardar.**
 
    >[!NOTE]
    >
