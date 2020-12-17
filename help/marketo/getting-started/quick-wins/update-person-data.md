@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Atualizar dados da pessoa {#update-person-data}
+# Atualizar Dados da Pessoa {#update-person-data}
 
 ## Missão: Atualizar informações de contato de uma pessoa ou outros dados {#mission-update-a-persons-contact-info-or-other-data}
 
@@ -43,7 +43,7 @@ Vamos imaginar que na sua apresentação comercial recente, uma pessoa lhe deu a
 
    >[!TIP]
    >
-   >Há muitas maneiras de atualizar os dados pessoais no Marketo. Consulte [Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) e [Alterar valor](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)de dados.
+   >Há muitas maneiras de atualizar os dados pessoais no Marketo. Consulte [Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) e [Alterar Valor de Dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Atualizar os dados da pessoa {#update-the-person-data}
 
