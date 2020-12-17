@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Visão geral {#overview}
 
-Como você tem a habilidade de ** [Adicionar à Lista](add-to-list.md)**, você também precisa de uma maneira de remover pessoas do lista.
+Como você tem a capacidade de ** [Adicionar à Lista](add-to-list.md)***, você também precisa de uma maneira de remover pessoas do lista.
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
