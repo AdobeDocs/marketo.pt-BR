@@ -17,7 +17,7 @@ Ao criar um email, talvez você queira que a versão do texto seja redigida de f
 
 >[!NOTE]
 >
->Este não é um artigo sobre como criar um email somente texto. Para obter informações sobre isso, consulte [Criar um email](create-a-text-only-email.md)somente texto.
+>Este não é um artigo sobre como criar um email somente texto. Para obter informações sobre isso, consulte [Criar um email somente texto](create-a-text-only-email.md).
 
 1. No editor de email, clique na guia **Texto** na parte inferior do email.
 
