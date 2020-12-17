@@ -19,11 +19,11 @@ Você pode criar tipos de entrada personalizados para usar na Visualização do 
 
    ![](assets/admintags.png)
 
-1. Clique em Tipo **de entrada do** calendário.
+1. Clique em **Tipo de entrada do calendário**.
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. Clique na lista suspensa **Novo** e selecione Tipo **** de entrada.
+1. Clique no menu suspenso **Novo** e selecione **Tipo de entrada**.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,7 +31,7 @@ Você pode criar tipos de entrada personalizados para usar na Visualização do 
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. Selecione uma cor **de** entrada.
+1. Selecione uma **Cor de entrada**.
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 
