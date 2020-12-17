@@ -19,7 +19,7 @@ Crie audiências correspondentes de suas Listas de conta ABM para direcionamento
 >
 >[Adicionar Audiências Correspondentes do LinkedIn como um Serviço do LaunchPoint](http://docs.marketo.com/x/I4Fy)
 
-1. No ABM, clique na guia **Lista** da conta.
+1. No ABM, clique na guia **Listas de conta**.
 
    ![](assets/one-1.png)
 
@@ -27,19 +27,19 @@ Crie audiências correspondentes de suas Listas de conta ABM para direcionamento
 
    ![](assets/two.png)
 
-1. Clique no menu suspenso Ações **de Lista da** conta e selecione **Enviar pelo AdBridge**.
+1. Clique no menu suspenso **Ações de Lista da conta** e selecione **Enviar via AdBridge**.
 
    ![](assets/three-1.png)
 
-1. Escolha **LinkedIn** e clique em **Avançar**.
+1. Escolha **LinkedIn** e clique em **Próximo**.
 
    ![](assets/four-1.png)
 
-1. Clique no menu suspenso **Audiência** . Você pode selecionar uma audiência existente ou criar uma nova. Neste exemplo, criaremos uma nova (se você selecionar uma audiência existente, pule para a Etapa 7).
+1. Clique no menu suspenso **Audiência**. Você pode selecionar uma audiência existente ou criar uma nova. Neste exemplo, criaremos uma nova (se você selecionar uma audiência existente, pule para a Etapa 7).
 
    ![](assets/five-1.png)
 
-1. Clique no menu suspenso **Ad Account (Conta** de anúncio) e selecione a conta do anúncio do público alvo.
+1. Clique no menu suspenso **Ad Account** e selecione a conta de anúncio do público alvo.
 
    ![](assets/six-1.png)
 
