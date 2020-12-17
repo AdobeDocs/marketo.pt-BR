@@ -19,11 +19,11 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
    ![](assets/one.png)
 
-1. Em Minha conta, selecione Configurações **de** email.
+1. Em Minha conta, selecione **Configurações de e-mail**.
 
    ![](assets/two.png)
 
-1. Clique na guia Conexão **de** email.
+1. Clique na guia **Ligação de Correio Eletrônico**.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
    ![](assets/four.png)
 
-1. Selecione **Eu uso o Gmail para enviar emails** e clique em **Avançar**.
+1. Selecione **Uso o Gmail para enviar emails** e clique em **Próximo**.
 
    ![](assets/five.png)
 
@@ -39,11 +39,11 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
    ![](assets/six.png)
 
-1. Se você já tiver feito logon no Gmail, escolha a conta à qual deseja se conectar. Caso contrário, insira seu endereço Gmail e clique em **Avançar**. Neste exemplo, ainda não estamos conectados.
+1. Se você já tiver feito logon no Gmail, escolha a conta à qual deseja se conectar. Caso contrário, insira seu endereço Gmail e clique em **Próximo**. Neste exemplo, ainda não estamos conectados.
 
    ![](assets/seven.png)
 
-1. Digite sua senha e clique em **Avançar**.
+1. Digite sua senha e clique em **Next**.
 
    ![](assets/eight.png)
 
@@ -51,5 +51,5 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
    ![](assets/nine.png)
 
-   Você pode usar essa conexão para rastrear e-mails e também [como canal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)de delivery.
+   Você pode usar essa conexão para rastrear emails e também [como um canal delivery](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
 
