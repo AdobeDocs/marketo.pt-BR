@@ -17,7 +17,7 @@ Há algumas coisas a fazer antes de começar as missões.
 
 ## Etapa 1: Fazer logon no Marketo {#step-log-in-to-marketo}
 
-1. [Faça logon no Marketo](https://app.marketo.com) usando as credenciais recebidas por email.
+1. [Efetue logon no ](https://app.marketo.com) Marketing usando as credenciais recebidas por email.
 
    ![](assets/one.png)
 
@@ -25,15 +25,15 @@ Há algumas coisas a fazer antes de começar as missões.
 
 Vamos criar uma pasta para guardar tudo que você fará nas missões.
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/two.png)
 
-1. Clique na lista suspensa **Nova** e selecione **Nova pasta** de campanha.
+1. Clique na lista suspensa **Novo** e selecione **Nova pasta de campanha**.
 
    ![](assets/image2014-9-24-10-3a53-3a38.png)
 
-1. Nomeie a pasta &quot;Aprendendo&quot; e clique em **Criar**.
+1. Nomeie a pasta &quot;Learning&quot; e clique em **Create**.
 
    ![](assets/image2014-9-24-10-3a53-3a55.png)
 
@@ -41,11 +41,11 @@ Vamos criar uma pasta para guardar tudo que você fará nas missões.
 
    ![](assets/image2014-9-24-10-3a54-3a9.png)
 
-## Etapa 3: Adicionar a si mesmo como uma pessoa {#step-add-yourself-as-a-person}
+## Etapa 3: Adicione-se como uma Pessoa {#step-add-yourself-as-a-person}
 
 Adicione-se como uma pessoa no Marketo para que você possa enviar emails de teste para si mesmo mais tarde.
 
-1. Vá para a área **Banco de Dados** .
+1. Vá para a área **Banco de Dados**.
 
    ![](assets/db.png)
 
@@ -61,7 +61,7 @@ Adicione-se como uma pessoa no Marketo para que você possa enviar emails de tes
 
    ![](assets/nine.png)
 
-1. Clique na guia **Pessoas** . Você deveria se ver no banco de dados.
+1. Clique na guia **Pessoas**. Você deveria se ver no banco de dados.
 
    ![](assets/ten.png)
 
