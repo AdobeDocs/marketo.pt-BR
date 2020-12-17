@@ -19,7 +19,7 @@ Siga estas etapas para fornecer aos usuários acesso ao Account Insight.
 
    ![](assets/admin-1.png)
 
-1. Clique em **Usuários e funções** na árvore. Em seguida, clique na guia Usuários **de** vendas e em **Convidar novo usuário** de vendas.
+1. Clique em **Usuários e funções** na árvore. Em seguida, clique na guia **Usuários de vendas** e **Convidar novo usuário de vendas**.
 
    ![](assets/two-6.png)
 
@@ -29,23 +29,23 @@ Siga estas etapas para fornecer aos usuários acesso ao Account Insight.
    >
    >Ao convidar novos usuários (que não sejam de marketing) por meio da lista de usuários do CRM, você pode convidar várias pessoas de cada vez. Convidar por email é 1 para 1.
 
-1. Clique na lista suspensa Usuário **do** CRM e selecione o usuário desejado.
+1. Clique na lista suspensa **Usuário do CRM** e selecione o usuário desejado.
 
    ![](assets/three-5.png)
 
    >[!NOTE]
    >
-   >Se você escolher **Convidar usuário por email**, basta digitar seu nome, sobrenome e endereço de email e continuar com a etapa 4.
+   >Se você escolher **Convidar usuário por e-mail**, basta digitar seu nome, sobrenome e endereço de e-mail e continuar com a etapa 4.
 
 1. Para definir uma data de expiração para o acesso do usuário (opcional), clique no ícone de calendário. Está definido como &quot;nunca&quot; por padrão.
 
    ![](assets/four-5.png)
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/five-5.png)
 
-1. Marque a caixa de seleção **Account Insight** e clique em **Next (Avançar)**.
+1. Marque a caixa de seleção **Insight da conta** e clique em **Próximo**.
 
    ![](assets/six-3.png)
 
