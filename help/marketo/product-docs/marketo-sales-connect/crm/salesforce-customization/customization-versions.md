@@ -15,6 +15,8 @@ ht-degree: 0%
 
 Veja a seguir detalhes sobre atualizações feitas em suas Personalizações do Marketing para Sales Connect para Salesforce.
 
-**Campos de** Atividade da versão 1, Campos de contato, Campos de cliente potencial, Campos de conta, Campos de oportunidade, Botões, [esses Campos](http://docs.marketo.com/x/wQDh)de marketing.
+**Campos de**
+Atividade da versão 1, Campos de contato, Campos de cliente potencial, Campos de conta, Campos de oportunidade, Botões,  [esses Campos](http://docs.marketo.com/x/wQDh) de marketing.
 
-**Campos de** Atividade da versão 1.1, Campos de contato, Campos de cliente potencial, Campos de conta, Campos de oportunidade, Botões e Campos de marketing agora estão disponíveis no layout de página para o Salesforce Lightning.
+**Campos de**
+Atividade da versão 1.1, Campos de contato, Campos de cliente potencial, Campos de conta, Campos de oportunidade, Botões e Campos de marketing agora estão disponíveis no layout de página para o Salesforce Lightning.
