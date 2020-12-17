@@ -16,7 +16,7 @@ ht-degree: 0%
 
 As regras de qualificação controlam quantas vezes alguém pode executar o fluxo em uma campanha inteligente. Por padrão, mesmo se alguém acionar uma campanha inteligente várias vezes, eles só serão enviados pelo fluxo uma vez. Veja como modificar essas configurações.
 
-1. Selecione a campanha e vá para a guia **[!UICONTROL Agendamento]** .
+1. Selecione a campanha e vá para a guia **[!UICONTROL Agendamento]**.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ As regras de qualificação controlam quantas vezes alguém pode executar o flux
 
    ![Imagem dois](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-2.png)
 
-1. Escolha a frequência com que as pessoas podem ser executadas pelo fluxo de campanha inteligente: **[!UICONTROL diariamente]**, **[!UICONTROL semanalmente]**, **[!UICONTROL mensalmente]** ou **[!UICONTROL uma vez a cada # dias]**.
+1. Escolha a frequência com que as pessoas podem ser executadas pelo fluxo de campanha inteligente: **[!UICONTROL diariamente]**, **[!UICONTROL semanalmente]**, **[!UICONTROL mensais]** ou **[!UICONTROL uma vez a cada # dias]**.
 
    ![Imagem Três](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-3.png)
 
@@ -34,7 +34,7 @@ As regras de qualificação controlam quantas vezes alguém pode executar o flux
    >
    >Essa lógica também se aplica ao uso de semanas ou meses. Um mês é sempre contado como 30 dias.
 
-1. Clique em **[!UICONTROL Confirmar]** quando concluído.
+1. Clique em **[!UICONTROL Confirmar]** quando terminar.
 
    ![Imagem quatro](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-4.png)
 
@@ -42,4 +42,4 @@ As regras de qualificação controlam quantas vezes alguém pode executar o flux
 
 **Lembrete**
 
-Os limites de comunicação não são aplicados às campanhas inteligentes por padrão. Saiba como [aplicar limites de comunicação a uma campanha](https://docs.marketo.com/display/DOCS/Apply+Communication+Limits+to+Smart+Campaign)inteligente.
+Os limites de comunicação não são aplicados às campanhas inteligentes por padrão. Saiba mais sobre como [aplicar limites de comunicação a uma campanha inteligente](https://docs.marketo.com/display/DOCS/Apply+Communication+Limits+to+Smart+Campaign).
