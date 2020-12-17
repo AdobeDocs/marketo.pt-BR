@@ -27,15 +27,15 @@ O Marketo gerencia sua participação e registro no webinário ON24.
 
    ![](assets/image2015-4-23-10-3a15-3a50.png)
 
-1. Selecione **Novo** e **Novo** **serviço**.
+1. Selecione **Novo** e **Novo** **Serviço**.
 
    ![](assets/on24-new-service.png)
 
-1. Insira um **Nome para exibição** ****. Em **Serviço**, selecione **ON24**.
+1. Digite um **Display** **Name**. Em **Service**, selecione **ON24**.
 
    ![](assets/new-service-on24.png)
 
-1. Conclua o processo digitando sua **Client** **Key** e **Client** **ID** em **Settings (Configurações** ****) e clique em Create (Criar).
+1. Conclua o processo inserindo seu **Client** **Key** e **Client** **ID** em **Settings** e clique em **Create**.
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
@@ -45,5 +45,5 @@ O Marketo gerencia sua participação e registro no webinário ON24.
 
 >[!MORELIKETHIS]
 >
->Saiba como [criar seu evento webinar no ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
+>Saiba mais sobre como [criar seu evento webinar em ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 
