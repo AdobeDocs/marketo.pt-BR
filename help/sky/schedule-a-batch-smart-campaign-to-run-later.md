@@ -18,17 +18,17 @@ Quando terminar de criar a campanha em lote, você poderá optar por executá-la
 
 >[!TIP]
 >
->Você também pode [reprogramar uma campanha inteligente em lote na visualização](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)do cronograma do programa.
+>Você também pode [reprogramar uma campanha inteligente em lote na visualização do cronograma do programa](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View).
 
 1. Selecione a campanha inteligente de lote que deseja executar.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. Vá para a guia **[!UICONTROL Agendamento]** e clique em **[!UICONTROL Adicionar execução]**.
+1. Vá para a guia **[!UICONTROL Agendamento]** e clique em **[!UICONTROL Adicionar Execução]**.
 
    ![Imagem dois](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. Selecione **[!UICONTROL Definir data/hora]** de execução, clique no ícone de calendário e selecione a data em que deseja que a campanha inteligente seja executada.
+1. Selecione **[!UICONTROL Definir data/hora de execução]**, clique no ícone de calendário e selecione a data em que deseja que a campanha inteligente seja executada.
 
    ![Imagem Três](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
