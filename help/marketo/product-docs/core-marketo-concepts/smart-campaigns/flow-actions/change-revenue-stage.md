@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Alterar estágio de receita {#change-revenue-stage}
+# Alterar Estágio de Receita {#change-revenue-stage}
 
 ## Visão geral {#overview}
 
@@ -25,7 +25,7 @@ Se você estiver usando o Revenue Cycle Modeler (Modelador do Ciclo de Receita) 
 
    ![](assets/image2014-9-22-17-3a5-3a4.png)
 
-1. Selecione o **novo estágio** que deseja atribuir e você está pronto!
+1. Selecione o **Novo Palco** que deseja atribuir e você está pronto!
 
    ![](assets/image2014-9-22-17-5-8.png)
 
