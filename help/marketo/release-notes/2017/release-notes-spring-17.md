@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Notas de versão: Primavera de 17 {#release-notes-spring}
+# Notas de versão: Primavera &#39;17 {#release-notes-spring}
 
 Os seguintes recursos estão incluídos na versão do primeiro trimestre de 2017. Verifique sua edição de marketing para ver a disponibilidade de recursos.
 
@@ -19,9 +19,9 @@ Clique nos links de título para artigos detalhados de visualização para cada 
 
 ## [Forms da Gen do LinkedIn](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-forms}
 
-[O LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) é uma maneira mais direta de uma empresa administrar campanhas de geração de leads no LinkedIn. As pessoas podem preencher formulários para expressar interesse em um produto ou serviço, permitindo que a empresa capture os detalhes da pessoa e sincronize-os com o Marketing, onde podem ocorrer processos de acompanhamento automatizados e atividades de roteamento de lead.
+[Os ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Fórmulas de geração do LinkedIn são uma forma mais direta de uma empresa executar campanhas de geração de leads no LinkedIn. As pessoas podem preencher formulários para expressar interesse em um produto ou serviço, permitindo que a empresa capture os detalhes da pessoa e sincronize-os com o Marketing, onde podem ocorrer processos de acompanhamento automatizados e atividades de roteamento de lead.
 
-A integração do Marketing com o LinkedIn Lead Gen Forms captura automaticamente as informações fornecidas por um cliente potencial no formulário Lead Gen. As ações e notificações de acompanhamento podem ser automatizadas usando o novo acionador e filtro **Preencher formulário** principal do LinkedIn.
+A integração do Marketing com o LinkedIn Lead Gen Forms captura automaticamente as informações fornecidas por um cliente potencial no formulário Lead Gen. As ações de acompanhamento e notificações podem ser automatizadas usando o novo acionador e filtro **Preencher Formulário Gerente do LinkedIn**.
 
 ![](assets/release-notes-image.png)
 
@@ -41,15 +41,15 @@ Transfira facilmente grandes quantidades de dados pessoais e de atividade do Mar
 
 ## Aprimoramentos de ABM {#abm-enhancements}
 
-** Campos [personalizados em contas](https://docs.marketo.com/x/1wnG)com nome ABM**
+** [Campos Personalizados em Contas Nomeadas do ABM](https://docs.marketo.com/x/1wnG)**
 
 O Marketo ABM agora permite que você crie até 10 campos personalizados em suas Contas Nomeadas. Você pode mapear esses campos personalizados para campos em seu objeto de conta CRM e o ABM de marketing sincronizará os dados, permitindo que você estenda suas contas nomeadas ABM e ajude a direcionar seu marketing.
 
-** Pontuação [de percentual em contas](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)nomeadas ABM**
+** [Pontuação de Percentual em Contas Nomeadas do ABM](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 As pontuações de conta nomeada podem variar muito. O Marketing ABM agora calcula automaticamente um percentil para cada uma de suas pontuações, para que você possa ver rapidamente onde cada Conta nomeada está classificada entre suas outras Contas Nomeadas.
 
-** APIs [de Lista de conta](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)ABM**
+** [APIs de Lista de conta ABM](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Tire proveito das integrações avançadas e robustas de parceiros ABM com suporte aprimorado à API para Listas de conta nomeada.
 
@@ -57,7 +57,7 @@ Tire proveito das integrações avançadas e robustas de parceiros ABM com supor
 
 ![](assets/dialogoptions.png)
 
-** Campanha [da Web com rolagem](https://docs.marketo.com/x/2grG)**
+** [Campanha Web com rolagem](https://docs.marketo.com/x/2grG)**
 
 Os novos efeitos de Campanha na Web fornecem aos visitantes da Web uma experiência mais personalizada. Defina suas Campanhas personalizadas da Web para serem exibidas somente quando um visitante da Web rolar para baixo em sua página da Web. Você pode definir suas Campanhas da Web da caixa de diálogo para mostrar ao rolar com base em:
 
@@ -65,23 +65,23 @@ Os novos efeitos de Campanha na Web fornecem aos visitantes da Web uma experiên
 * pixel atingido
 * rolagem abaixo da dobra da página
 
-** Campanha [Web Ao Sair](https://docs.marketo.com/x/2grG)**
+** [Campanha da Web na intenção de saída](https://docs.marketo.com/x/2grG)**
 
 Capture a atenção de seu visitante antes que eles fechem sua página. Defina suas Campanhas personalizadas da Web para exibir somente quando um gesto de mouse indicar que o visitante está saindo da página.
 
-** Efeitos [de animação para Campanha](https://docs.marketo.com/x/JgNI)**
+** [Efeitos de animação para Campanhas da Web](https://docs.marketo.com/x/JgNI)**
 
 Defina os efeitos de animação para sua Campanha da Web da caixa de diálogo para personalizar como uma campanha é exibida ao entrar ou sair de sua página da Web. Você pode selecionar entre 6 efeitos diferentes e controlar o tempo e a direção da caixa de diálogo.
 
 ![](assets/animationoptins.png)
 
-** Personalização [do botão Fechar da](https://docs.marketo.com/x/JgNI)caixa de diálogo**
+** [Personalização do botão Fechar caixa de diálogo](https://docs.marketo.com/x/JgNI)**
 
 Personalize o botão Fechar para caixas de diálogo. Selecione de uma variedade de opções usadas em Campanhas da Web de Estilo de caixa de diálogo transparente. Selecione o ícone, a cor e o posicionamento do botão Fechar. Você também pode adicionar sua própria imagem de botão.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-** [Arquivar Campanha](https://docs.marketo.com/x/_grG)**
+** [Arquivar Campanhas Web](https://docs.marketo.com/x/_grG)**
 
 O arquivamento é um novo status de Campanha da Web que permite arquivar Campanhas da Web e ocultá-las da visualização de Campanha da Web padrão. Isso permite que você se concentre em suas campanhas mais relevantes e ativas e recupere campanhas arquivadas mais antigas sob demanda.
 
