@@ -21,13 +21,13 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
 >
 >[landing page com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-## Etapa 1: Criar um email de alerta {#step-create-an-alert-email}
+## Etapa 1: Criar um e-mail de alerta {#step-create-an-alert-email}
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/one-5.png)
 
-1. Selecione **Meu Programa** que você criou na [Landing page com uma vitória rápida de Formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) e, em **Novo** , clique em **Novo ativo** local.
+1. Selecione **Meu Programa** que você criou na Landing page [com uma vitória rápida Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) e, em **Novo**, clique em **Novo ativo local**.
 
    ![](assets/two-6.png)
 
@@ -35,11 +35,11 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
 
    ![](assets/three-5.png)
 
-1. **Nomeie** o e-mail &quot;Meu alerta de e-mail&quot;, selecione um modelo e clique em **Criar**.
+1. **Nomeie** o e-mail &quot;Meu alerta de e-mail&quot;, selecione um modelo e clique em  **Criar**.
 
    ![](assets/four-4.png)
 
-1. Digite o nome **** de origem, **de e-mail**, **resposta** e **assunto** que deseja que sua equipe de vendas veja.
+1. Digite as **From Name**, **From Email**, **reply-to** e **Subject** que deseja que sua equipe de vendas veja.
 
    ![](assets/five-5.png)
 
@@ -51,17 +51,17 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
 
    ![](assets/seven-6.png)
 
-1. Posicione o cursor no local em que deseja inserir as informações de contato da pessoa e clique no ícone **Inserir token** .
+1. Posicione o cursor no local em que deseja inserir as informações de contato da pessoa e clique no ícone **Inserir token**.
 
    ![](assets/eight-4.png)
 
-1. Localize e selecione o `{{SP_Send_Alert_Info}}` Token **e clique em** Inserir ****.
+1. Localize e selecione o `{{SP_Send_Alert_Info}}` **Token** e clique em **Inserir**.
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} é um token especial para emails de alerta. Consulte [Usar o token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Enviar informações de alerta para saber mais.
+   >{{SP_Send_Alert_Info}} é um token especial para emails de alerta. Consulte [Use o token Enviar informações de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) para saber mais.
 
 1. Clique em **Salvar**.
 
@@ -71,21 +71,21 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
 
    ![](assets/eleven-5.png)
 
-1. Em Ações **de** email, clique em **Aprovar**.
+1. Em **Ações de e-mail**, clique em **Aprovar**.
 
    ![](assets/twelve-4.png)
 
 ## Etapa 2: Criar uma Campanha de Acionador de Alerta {#step-create-an-alert-trigger-campaign}
 
-1. Selecione **Meu Programa** criado anteriormente e, em **Nova** , clique em **Nova Campanha** inteligente.
+1. Selecione **Meu Programa** criado anteriormente e, em **Novo**, clique em **Nova Campanha inteligente**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **Nomeie** a campanha como &quot;Minha Campanha de alerta&quot; e clique em **Criar**.
+1. **Nomeie** a campanha &quot;Minha Campanha de alerta&quot; e clique em  **Criar**.
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. Na guia Lista **** inteligente, localize e arraste o acionador **Preencher formulário** para fora até a tela de desenho.
+1. Na guia **Lista inteligente**, localize e arraste o acionador **Preencher formulário** para a tela de desenho.
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -93,25 +93,25 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. Na guia **Fluxo** , localize e arraste a ação de fluxo **Enviar alerta** para a tela.
+1. Na guia **Fluxo**, localize e arraste a ação de fluxo **Enviar alerta** para a tela de desenho.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. Selecione **Meu Email** de Alerta criado anteriormente e deixe **Enviar para** como Proprietário **** de Vendas.
+1. Selecione **Meu Email de Alerta** criado anteriormente e deixe **Enviar para** como **Proprietário de Vendas**.
 
    ![](assets/eighteen-1.png)
 
-1. Digite seu endereço de email no campo **Para outros emails** .
+1. Digite seu endereço de email no campo **Para outros emails**.
 
    ![](assets/nineteen-2.png)
 
-1. Vá para a guia **Agendamento** e clique no botão **Ativar** .
+1. Vá para a guia **Schedule** e clique no botão **Ativate**.
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >Defina as Regras **de** qualificação **sempre** (editando a Campanha inteligente) para permitir que a mesma pessoa dispare alertas várias vezes.
+   >Defina **Regras de qualificação** como **todas as vezes** (editando a Campanha inteligente) para permitir que a mesma pessoa dispare alertas várias vezes.
 
 1. Clique em **Ativar** na tela de confirmação.
 
@@ -119,7 +119,7 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
 
 ## Etapa 3: Teste-O! {#step-test-it-out}
 
-1. Selecione sua landing page e clique em **Visualização da página** aprovada.
+1. Selecione sua landing page e clique em **Visualização página aprovada**.
 
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
@@ -135,7 +135,7 @@ Para enviar emails de alerta automaticamente aos representantes de vendas, basta
 
    >[!NOTE]
    >
-   >Clique na guia Informações **da** pessoa em Marketo para ver as informações de contato.
+   >Clique na guia **Informações da pessoa** em Marketo para ver as informações de contato.
 
 ## Missão concluída! {#mission-complete}
 
