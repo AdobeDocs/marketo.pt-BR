@@ -17,7 +17,7 @@ Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
 
 >[!PREREQUISITES]
 >
->Caso ainda não o tenha feito, instale o suplemento de email [Marketo para Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Caso ainda não o tenha feito, instale o [suplemento de email do Marketo para Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 1. Abra o Microsoft Outlook e crie um novo email.
 
