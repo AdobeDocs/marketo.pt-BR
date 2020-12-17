@@ -23,7 +23,7 @@ Como administrador, você pode visualização modelos como qualquer usuário.
 
    ![](assets/one.png)
 
-1. Clique na lista suspensa **Visualização como** e selecione o usuário desejado.
+1. Clique no menu suspenso **Visualização como** e selecione o usuário desejado.
 
    ![](assets/two.png)
 
