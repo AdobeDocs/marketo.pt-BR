@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Pasta de campanha: Guia Meus tokens
 
-A guia [!UICONTROL Meus tokens] lista todos os Meus Tokens dentro da pasta campanha.
+A guia [!UICONTROL Meus tokens] lista todos os Meus Tokens dentro da pasta de campanha.
 
 ![Imagem Um](/help/sky/assets/campaign-folders/campaign-folder-my-tokens-tab/campaign-folder-my-tokens-tab-1.png)
 
