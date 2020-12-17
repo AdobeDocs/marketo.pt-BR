@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Você pode alterar a forma como o Marketo vincula os contatos a oportunidades para atribuição de primeiro e multitoque, métricas de conversão de lead e o sinalizador de oportunidade influenciado pelo marketing.
 
-Essas configurações afetarão os relatórios do Explorador de Receita nas áreas Análise [Oportunidade de](../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)Programa, Análise [de](../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)Oportunidade e Análise de cliente potencial. Isso também afetará o relatório do Analisador de Programas.
+Essas configurações afetarão os relatórios do Revenue Explorer nas áreas [Análise de oportunidade de Programa](../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Análise de oportunidade](../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) e Análise de cliente potencial. Isso também afetará o relatório do Analisador de Programas.
 
-1. Na seção **Admin** , clique em Análise **do ciclo de** receita.
+1. Na seção **Admin**, clique em **Análises do ciclo de receita**.
 
    ![](assets/image2014-9-24-11-3a55-3a19.png)
 
