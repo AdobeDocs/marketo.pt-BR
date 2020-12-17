@@ -21,7 +21,7 @@ Essas credenciais são usadas para conectar sua conta do Salesforce à sua inst�
 
 ![](assets/one-1.png)
 
-## Restaurar configuração da API {#rest-api-configuration}
+## Restaurar Configuração da API {#rest-api-configuration}
 
 Essas credenciais são usadas para conectar sua conta do Salesforce à sua instância do Marketo, a fim de usar o Painel MSI Insights no Salesforce.
 
@@ -31,7 +31,7 @@ Você pode optar por remover as credenciais da Rest API no SFDC e usar somente a
 
 ![](assets/three-1.png)
 
-## Configurações da pontuação da pessoa {#person-score-settings}
+## Configurações da pontuação pessoal {#person-score-settings}
 
 | **Estrelas:** | As estrelas representam a pontuação total de chumbo em comparação a outros clientes potenciais. |
 |---|---|
@@ -89,4 +89,4 @@ Quando ativados, os usuários MSI não poderão editar modelos ao enviar emails 
 
 **Ativar feed RSS:**
 
-Quando ativados, os usuários MSI podem visualização seus Feed de cliente potencial em um feed RSS (além do Feed de cliente potencial no Salesforce)**.**
+Quando ativados, os usuários do MSI podem visualização seus Feed de cliente potencial em um feed RSS (além do Feed de cliente potencial no Salesforce)**.**
