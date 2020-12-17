@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Adicionar código de rastreamento Munchkin ao seu site {#add-munchkin-tracking-code-to-your-website}
+# Adicione o código de rastreamento Munchkin ao seu site {#add-munchkin-tracking-code-to-your-website}
 
 O código de rastreamento personalizado JavaScript do Marketo, chamado Munchkin, rastreia todos os indivíduos que visitam seu site para que você possa reagir às visitas com campanhas de marketing automatizadas. Até visitantes anônimos são rastreados juntamente com seus endereços IP e outras informações. ** Sem este código de rastreamento, você não poderá rastrear visitas ou outras atividades em seu site!**
 
@@ -49,7 +49,7 @@ O código de rastreamento personalizado JavaScript do Marketo, chamado Munchkin,
    >
    >Coloque o código de rastreamento nas páginas da Web que deseja rastrear. Esta pode ser cada página para sites menores, ou apenas páginas chave em sites que têm muitas páginas da Web geradas dinamicamente, fóruns de usuários, etc.
 
-   Para obter melhores resultados, use o código Munchkin assíncrono e coloque-o dentro dos `<head>` elementos de suas páginas. Se você estiver usando o código simples (não recomendado), isso ocorrerá antes da `</body>` tag .
+   Para obter melhores resultados, use o código Munchkin assíncrono e coloque-o dentro dos elementos `<head>` de suas páginas. Se você estiver usando o código simples (não recomendado), isso ocorre logo antes da tag `</body>`.
    ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!TIP]
@@ -84,7 +84,7 @@ Se você estiver usando espaços de trabalho em sua conta de marketing, provavel
 >
 >Não use o código mostrado nesta captura de tela. Você deve usar o código exclusivo que aparece em sua conta!
 
-1. Coloque o código de rastreamento em suas páginas da Web no `<head>` elemento. As novas pessoas que visitarem esta página serão atribuídas a esta partição.
+1. Coloque o código de rastreamento em suas páginas da Web no elemento `<head>`. As novas pessoas que visitarem esta página serão atribuídas a esta partição.
 
 ![](assets/image2015-8-25-16-3a5-3a20.png)
 
@@ -113,15 +113,15 @@ Para verificar se o código Munchkin está funcionando depois de adicioná-lo:
 
    ![](assets/mainnav-analytics-hand.png)
 
-1. Clique em Atividade **da página** da Web.
+1. Clique em **Atividade de página da Web**.
 
    ![](assets/webanalytics.png)
 
-1. Clique na guia **Configuração** , clique em Fonte **de** Atividade e altere-a para Visitantes **Anônimos (incluindo ISPs)**.
+1. Clique na guia **Configuração**, clique no duplo **Origem da Atividade** e altere-o para **Visitantes anônimos (incluindo ISPs)**.
 
    ![](assets/analytics-activity-source.png)
 
    ![](assets/activitysource.png)
 
-1. Clique na guia **Relatório** . Se não vir nenhum dado, aguarde alguns minutos e clique no ícone de atualização na parte inferior.
+1. Clique na guia **Relatório**. Se não vir nenhum dado, aguarde alguns minutos e clique no ícone de atualização na parte inferior.
 
