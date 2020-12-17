@@ -18,7 +18,7 @@ ht-degree: 0%
 É fácil adicionar um email a um stream em um programa de envolvimento, e funciona bem. No entanto, se suas necessidades de negócios forem mais complexas, pode fazer sentido colocar o email dentro de um programa. Por exemplo, talvez você queira:
 
 * Enviar um email para um subgrupo de pessoas no stream
-* Enviar emails *diferentes* para subgrupos no fluxo
+* Enviar emails *diferentes* para subgrupos dentro do fluxo
 * Incluir landings page, formulários ou outros ativos na criação
 * Ativar atribuição multitoque
 * Adicionar etapas de fluxo extras, como emails de alerta
@@ -31,17 +31,17 @@ Ao usar um programa aninhado, a decisão de enviar um email para uma pessoa é b
 * Se você for membro do programa, não receberá o email
 * Se você não for mais um membro, mas tiver recebido o email mais cedo por meio desse programa, você não receberá o email
 
-Quando você usa um programa em um fluxo, não importa se você já recebeu esse email específico antes. Desde que o e-mail não tenha sido enviado antes *no programa* específico, você pode recebê-lo novamente.
+Quando você usa um programa em um fluxo, não importa se você já recebeu esse email específico antes. Desde que o email não tenha sido enviado antes de *no programa específico*, você poderá recebê-lo novamente.
 
 Pode tornar-se complicado misturar emails e programas em um programa de envolvimento. Você pode querer usar um ou o outro.
 
 >[!TIP]
 >
->Certifique-se de usar um filtro **Membro de Programa** de envolvimento em sua lista inteligente.
+>Certifique-se de usar um filtro **Membro do Programa de envolvimento** na sua lista inteligente.
 
 ## O que acontece com pessoas que não atendem aos critérios de lista inteligente? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-No evento de que alguém é filtrado da lista inteligente da campanha inteligente de um programa aninhado, ele não move para a próxima parte do conteúdo durante a transmissão atual. Eles seguirão para o próximo pedaço de conteúdo no stream para o *seguinte* cast.
+No evento de que alguém é filtrado da lista inteligente da campanha inteligente de um programa aninhado, ele não move para a próxima parte do conteúdo durante a transmissão atual. Eles irão para a próxima parte do conteúdo no fluxo para a conversão *seguinte*.
 
 ## O que um programa aninhado contém? {#what-does-a-nested-program-contain}
 
