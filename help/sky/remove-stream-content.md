@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Você pode remover ou arquivar um conteúdo. Ao contrário da remoção do conteúdo de fluxo, o [arquivamento](/help/sky/archive-and-unarchive-stream-content.md) preserva todo o histórico associado ao conteúdo. Se você não se importa de perder as estatísticas históricas de algum conteúdo e apenas de removê-lo, aqui está como fazê-lo.
+Você pode remover ou arquivar um conteúdo. Ao contrário da remoção do conteúdo de fluxo, [arquivar](/help/sky/archive-and-unarchive-stream-content.md) preserva todo o histórico associado ao conteúdo. Se você não se importa de perder as estatísticas históricas de algum conteúdo e apenas de removê-lo, aqui está como fazê-lo.
 
 1. Selecione seu programa de envolvimento.
 
    ![Imagem Um](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. Clique na guia **[!UICONTROL Streams]** .
+1. Clique na guia **[!UICONTROL Streams]**.
 
    ![Imagem dois](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
