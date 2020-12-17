@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Colunas da página de pessoas {#people-page-columns}
+# Colunas de página de pessoas {#people-page-columns}
 
 Você tem a opção de personalizar quais informações de contato você vê escolhendo quais colunas são exibidas.
 
@@ -21,11 +21,11 @@ Você tem a opção de personalizar quais informações de contato você vê esc
 
    ![](assets/one-5.png)
 
-1. Percorra e selecione as colunas desejadas (você também pode clicar em **Selecionar tudo** se desejar cada coluna). Clique fora da lista quando terminar.
+1. Percorra e selecione as colunas desejadas (você também pode clicar em **Selecionar tudo** se quiser cada coluna). Clique fora da lista quando terminar.
 
    ![](assets/two-4.png)
 
-## Descrições de colunas {#column-descriptions}
+## Descrições da coluna {#column-descriptions}
 
 <table> 
  <colgroup> 
