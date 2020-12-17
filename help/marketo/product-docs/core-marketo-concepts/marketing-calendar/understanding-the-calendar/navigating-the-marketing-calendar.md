@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Navegação no calendário de marketing {#navigating-the-marketing-calendar}
+# Navegação no Calendário de marketing {#navigating-the-marketing-calendar}
 
 Navegar ao redor do Calendário de marketing é fácil como um, dois, três!
 
 >[!PREREQUISITES]
 >
->Certifique-se de ter uma licença [do Calendário de](issue-revoke-a-marketing-calendar-license.md) marketing; caso contrário, o bloco do Calendário de marketing não aparecerá em Meu marketing.
+>Certifique-se de ter uma [licença do Calendário de marketing](issue-revoke-a-marketing-calendar-license.md); caso contrário, o mosaico do Calendário de marketing não aparecerá em Meu Marketo.
 
-1. Vá para o Calendário **de marketing**.
+1. Vá para **Calendário de marketing**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -39,11 +39,11 @@ A visualização da agenda exibe todas as suas entradas como uma lista.
 
 1. Clique no menu suspenso **Filtro**.
 
-   ` ![](assets/image2014-9-26-10-3a29-3a6.png)
+   &#39; ![](assets/image2014-9-26-10-3a29-3a6.png)
 
    `
 
-1. Selecione a visualização **Agenda** .
+1. Selecione a visualização **Agenda**.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
