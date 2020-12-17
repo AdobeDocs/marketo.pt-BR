@@ -23,7 +23,7 @@ Se você quiser se manter organizado, poderá renomear seus fluxos. Aqui está c
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Digite o novo **Nome** do fluxo e clique em **Salvar**.
+1. Insira o novo fluxo **Nome** e clique em **Salvar**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 
