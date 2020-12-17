@@ -17,7 +17,7 @@ Os campos dinâmicos só funcionarão quando você estiver usando um modelo. Os 
 
 ## O que verificar {#what-to-check}
 
-Há três tipos de campos dinâmicos no Sales Connect: Básico, Personalizado e Salesforce. Básico e Personalizado parecem obter informações do aplicativo [da](http://toutapp.com/login)Web. Se as informações não existirem no aplicativo da Web, os campos ficarão em branco. Os campos do Salesforce extraem informações do [Salesforce.com](http://salesforce.com).
+Há três tipos de campos dinâmicos no Sales Connect: Básico, Personalizado e Salesforce. Básico e Personalizado parecem obter informações do [aplicativo da Web](http://toutapp.com/login). Se as informações não existirem no aplicativo da Web, os campos ficarão em branco. Os campos do Salesforce extraem informações de [Salesforce.com](http://salesforce.com).
 
 `**Troubleshooting Salesforce Fields**`
 
@@ -31,7 +31,7 @@ Campos básicos de texto explicativo: por exemplo, `{{company}}`
 
 Campos personalizados de tempo limite: por exemplo, `{{custom_field_favorite_movie}}`
 
-* T `he corresponding field needs to be saved for your contact` na página [](http://toutapp.com/next#relationships) Pessoas para referência do nosso campo dinâmico. Por exemplo, se você estiver enviando um email para Mary e usando o `{{company}}` campo, mas o registro de contato dela não lista uma empresa, nós não seremos capazes de preencher isso.
+* T `he corresponding field needs to be saved for your contact` na [página de Pessoas](http://toutapp.com/next#relationships) para que nosso campo dinâmico faça referência. Por exemplo, se você estiver enviando um e-mail para Mary e usando o campo `{{company}}`, mas o registro de contato dela não lista uma empresa, nós não seremos capazes de preencher isso.
 
 ## Por Que Meu Email Foi Enviado Sem Preencher Todos Os Campos Dinâmicos? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
@@ -49,5 +49,5 @@ O Sales Connect impedirá que seus e-mails sejam enviados se não for possível 
 
 >[!NOTE]
 >
->O `{{first_name}}` campo procurará no Sales Connect e no Salesforce para tentar obter informações. Todos os outros campos nesta lista estão apenas procurando no Sales Connect para preencher o campo.
+>O campo `{{first_name}}` observará o Sales Connect e o Salesforce para tentar obter informações. Todos os outros campos nesta lista estão apenas procurando no Sales Connect para preencher o campo.
 
