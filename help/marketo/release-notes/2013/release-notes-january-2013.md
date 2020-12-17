@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Notas de versão: Janeiro de 2013 {#release-notes-january}
 
-A versão de janeiro expande nossa oferta social com as Ofertas **de referência**. Além disso, os usuários do Gerenciamento líder de marketing podem definir sua preferência de fuso horário, idioma e localidade. Observe que os recursos marcados com * estão disponíveis somente na Edição selecionada.
+A versão de janeiro expande nossa oferta social com **Ofertas de referência**. Além disso, os usuários do Gerenciamento líder de marketing podem definir sua preferência de fuso horário, idioma e localidade. Observe que os recursos marcados com * estão disponíveis somente na Edição selecionada.
 
 ## Ofertas de referência {#referral-offers}
 
-Uma Oferta **de referência** dá a você um incentivo para encaminhar seus amigos. Crie metas e recompensas para referências bem-sucedidas. Você pode usá-lo no landing page, seu site e até mesmo no Facebook.
+Uma **Oferta de referência** dá aos clientes potenciais um incentivo para referenciarem os seus amigos. Crie metas e recompensas para referências bem-sucedidas. Você pode usá-lo no landing page, seu site e até mesmo no Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 
@@ -29,7 +29,7 @@ Você pode alterar o fuso horário padrão da sua conta pessoal de Marketing. Po
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## Selecione seu Linguagem de Gerenciamento de Clientes Potenciais {#select-your-marketo-lead-management-language}
+## Selecione seu Linguagem de Gerenciamento Líder do Marketing {#select-your-marketo-lead-management-language}
 
 Você pode alterar o idioma padrão de sua conta de usuário do Marketo. Mesmo que o padrão para a subscrição seja em inglês, você pode alterá-lo para alemão ou francês para seu próprio uso.
 
@@ -45,7 +45,7 @@ Um exemplo de um formulário em francês:
 
 ![](assets/image2014-9-22-15-3a22-3a2.png)
 
-## Selecione seu Idioma do insight de vendas (somente Salesforce) {#select-your-sales-insight-language-salesforce-only}
+## Selecione seu Linguagem de Informações de Vendas (somente Salesforce) {#select-your-sales-insight-language-salesforce-only}
 
 Se sua preferência de idioma do Salesforce estiver definida como francês ou alemão, o Marketing Insight de vendas respeitará essa preferência. Baixe o pacote MSI mais recente para obter essa funcionalidade (disponível na semana de 14 de janeiro).
 
@@ -57,7 +57,7 @@ Os Nomes de exibição de campo podem exibir texto em idiomas diferentes (por ex
 
 ![](assets/image2014-9-22-15-3a22-3a56.png)
 
-## Alterar dados do Programa {#change-program-data}
+## Alterar Dados do Programa {#change-program-data}
 
 A etapa Alterar fluxo de dados do Programa permite alterar manualmente o status de Sucesso e a Data de Sucesso de um membro do programa por meio de uma campanha. Você pode usar essa etapa de fluxo para corrigir um erro ou para alterar manualmente um membro que pode não ter participado do programa conforme desejado.
 
