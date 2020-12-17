@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Para agendar um email do Gmail, siga estas etapas.
 
-1. Ao compor um email, clique no botão **Agendar** .
+1. Ao compor um email, clique no botão **Agendar**.
 1. Uma janela aparecerá permitindo que você escolha um horário para enviar seu email.
 1. Se você optar por enviá-lo posteriormente, o botão será atualizado para a hora selecionada.
-1. Depois de programar o email, ele aparecerá na pasta **Rascunhos** no Gmail com o rótulo **Tout Scheduled Emails**.
-1. Se você abrir o rascunho, poderá editar o conteúdo do e-mail, mas não se esqueça de clicar em **Agendar** novamente, selecionar seu horário agendado e clicar em **Tout It**!
+1. Depois de programar o e-mail, ele aparecerá na pasta **Rascunhos** no Gmail com o rótulo **Emails agendados do Tout**.
+1. Se você abrir o rascunho, poderá editar o conteúdo do email, mas certifique-se de clicar em **Agendar** novamente, selecione novamente o horário agendado e clique em **Classificar**!
 
    >[!NOTE]
    >
-   >Você sempre pode verificar o e-mail agendado na sua pasta **Agendado **no aplicativo [Web](http://toutapp.com/login)
+   >Você sempre pode verificar o e-mail agendado na sua pasta **Agendado **na [aplicação Web](http://toutapp.com/login)
 
