@@ -13,16 +13,16 @@ ht-degree: 0%
 
 # Como inserir campos dinâmicos {#how-to-insert-dynamic-fields}
 
-Nós permitimos que você personalize seus modelos de e-mail com atributos predefinidos, como `{{first_name}}` ou `{{company}}`. Esses campos permitem que você envie vários contatos por email e preencha automaticamente esses campos sem precisar digitar separadamente para cada contato.
+Nós permitimos que você personalize seus modelos de e-mail com atributos predefinidos como `{{first_name}}` ou `{{company}}`. Esses campos permitem que você envie vários contatos por email e preencha automaticamente esses campos sem precisar digitar separadamente para cada contato.
 
 >[!TIP]
 >
->Os campos &quot;first_name&quot; e &quot;empresa&quot; são o `only fields that will look to both Sales Connect and Salesforce.` que significa que, se um contato não existir no aplicativo [](http://toutapp.com/login)Web, procuramos no Salesforce para ver se conseguimos encontrar um contato/registro de cliente potencial com um endereço de email correspondente. Em seguida, usamos informações desse registro para preencher o campo.
+>Os campos &quot;first_name&quot; e &quot;empresa&quot; são `only fields that will look to both Sales Connect and Salesforce.` Ou seja, se um contato não existir na [aplicação Web](http://toutapp.com/login), procuramos no Salesforce para ver se conseguimos encontrar um registro de contato/cliente potencial com um endereço de correio eletrônico correspondente. Em seguida, usamos informações desse registro para preencher o campo.
 
 ## Inserir um campo dinâmico em um modelo {#insert-a-dynamic-field-into-a-template}
 
 1. Em **Modelos e Campanhas**, localize o modelo que deseja editar e clique em **Editar modelo**.
-1. Clique em Campos dinâmicos **de flutuação**.
+1. Clique em **Campos dinâmicos de flutuação**.
 
    >[!NOTE]
    >
