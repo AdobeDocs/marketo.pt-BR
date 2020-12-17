@@ -5,7 +5,7 @@ title: Configurar os rodapés de cancelamento de assinatura no Marketing Insight
 translation-type: tm+mt
 source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ Os emails de vendas colocam automaticamente o rodapé de cancelamento de assinat
 >
 >**Definição**
 >
->**E-mails** de vendas são aqueles enviados do Sales Insight. (Ela não inclui os enviados do Plug-in Marketo Outlook.)
+>**Os** emails de vendas são enviados do Sales Insight. (Ela não inclui os enviados do Plug-in Marketo Outlook.)
 
-1. Vá para a área **Admin** .
+1. Vá para a área **Admin**.
 
    ![](assets/one-1.png)
 
-1. Clique em **Sales Insight, **em seguida, **Editar configurações**.
+1. Clique em **Sales Insight, **em seguida **Editar configurações**.
 
    ![](assets/two-1.png)
 
@@ -38,8 +38,8 @@ Os emails de vendas colocam automaticamente o rodapé de cancelamento de assinat
    ![](assets/three-1.png)
 
    * **Nenhum modelo **- Composto manualmente pelo usuário de vendas.
-   * **Email** padrão - Emails com base em um modelo.
-   * **E-mail** operacional - e-mails que ignoram os limites de não assinatura, de suspensão de marketing e de comunicação (eles enviam independentemente do que for).
+   * **Email**  padrão - Emails com base em um modelo.
+   * **E-mail**  operacional: os e-mails que ignoram os Limites de não assinatura, de suspensão de marketing e de comunicação (eles enviam independentemente do que for).
 
    Você tem a opção de definir um comportamento diferente para cada tipo.
 
@@ -48,7 +48,7 @@ Os emails de vendas colocam automaticamente o rodapé de cancelamento de assinat
    >**Respeite as configurações de cancelamento de inscrição: **clientes potenciais não inscritos NÃO receberão o email, mesmo se o email publicado for &quot;operacional&quot;
    >
    >
-   >**Ignorar configurações de cancelamento de inscrição:** clientes potenciais não inscritos receberão o email
+   >**Ignorar configurações de cancelamento de inscrição:clientes em potencial** cancelados receberão o email
 
    Faça as alterações desejadas e clique em Salvar.
 
@@ -64,5 +64,5 @@ Uuu! Um pouco complicado, mas bastante flexível, certo?
 >
 >**Mergulho profundo**
 >
->Saiba mais sobre o [Marketing Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight).
+>Saiba mais sobre [Marketing to Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight).
 
