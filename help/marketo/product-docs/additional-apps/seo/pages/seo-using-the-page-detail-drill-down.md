@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - Usando a Detalhamento de Página {#seo-using-the-page-detail-drill-down}
+# SEO - Usando o Detalhamento de Página {#seo-using-the-page-detail-drill-down}
 
 Você pode ver muitas informações sobre suas páginas usando o detalhamento da página.
 
@@ -44,9 +44,9 @@ Você pode ver muitas informações sobre suas páginas usando o detalhamento da
 | Curtir do Facebook | Número de vezes que esse compartilhamento de página foi curtido no Facebook. |
 | Cliques do Facebook | Número de cliques do compartilhamento do Facebook. |
 
-## Palavras-chave para as quais a página é otimizada  {#keyword-s-that-page-is-optimized-for}
+## Palavra(s)-chave que a página é otimizada para {#keyword-s-that-page-is-optimized-for}
 
-É aqui que você [seleciona para qual palavra-chave está tentando otimizar sua página](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+É aqui que você [seleciona qual palavra-chave você está tentando otimizar sua página para](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ Você pode ver muitas informações sobre suas páginas usando o detalhamento da
 
 ![](assets/image2014-9-17-21-3a56-3a35.png)
 
-## Resultados da otimização de página {#page-optimization-results}
+## Resultados de otimização de página {#page-optimization-results}
 
 Os Resultados da otimização de página informarão as etapas exatas que você precisa seguir para aumentar sua pontuação de otimização/realizar melhor na pesquisa por esta página.
 
