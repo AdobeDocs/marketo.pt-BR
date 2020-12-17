@@ -17,11 +17,11 @@ Uma vez no modo de foco do programa, é possível fazer alterações rapidamente
 
 ## Ativar foco do Programa {#enable-program-focus}
 
-1. Vá para o **Calendário**.
+1. Vá para **Calendar**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Selecione uma entrada que pertence ao programa em que deseja se concentrar e clique em **Mostrar foco** do Programa.
+1. Selecione uma entrada que pertence ao programa em que deseja se concentrar e clique em **Mostrar foco do Programa**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -31,7 +31,7 @@ Uma vez no modo de foco do programa, é possível fazer alterações rapidamente
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
-## Editar nome da entrada {#edit-entry-name}
+## Editar nome de entrada {#edit-entry-name}
 
 1. Selecione a entrada que deseja renomear.
 
@@ -46,7 +46,7 @@ Uma vez no modo de foco do programa, é possível fazer alterações rapidamente
    >Você também pode editar a descrição.
    >
    >
-   >![--](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
 
 ## Converter tipo de entrada {#convert-entry-type}
 
@@ -56,7 +56,7 @@ Depois que você clicar rapidamente em suas entradas básicas, poderá convertê
 
    ![](assets/image2014-10-20-13-3a18-3a38.png)
 
-## Editar detalhes da entrada {#edit-entry-details}
+## Editar detalhes de entrada {#edit-entry-details}
 
 Você pode obter acesso rápido a diferentes áreas de suas entradas para edição.
 
