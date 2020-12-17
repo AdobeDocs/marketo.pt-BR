@@ -23,12 +23,12 @@ Dê a seus eventos objetivos específicos e veja como eles funcionam.
 
    ![Imagem Um](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-1.png)
 
-1. Dê um [!UICONTROL nome]ao seu evento, selecione a pasta [!UICONTROL Destino] e o [!UICONTROL Canal].
+1. Dê ao seu evento um [!UICONTROL Nome], selecione a pasta [!UICONTROL Destino] e [!UICONTROL Canal].
 
    ![Imagem dois](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. Insira a meta para [!UICONTROL Registrado] e [!UICONTROL Participado]e clique em **[!UICONTROL Criar]** ([!UICONTROL Descrição] e [!UICONTROL Rótulos] são opcionais).
+1. Insira a meta para [!UICONTROL Registrado] e [!UICONTROL Participado], em seguida, clique em **[!UICONTROL Criar]** ([!UICONTROL Descrição] e [!UICONTROL Etiquetas] são opcionais).
 
    ![Imagem Um](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
-E é isso! Verifique o status da meta do evento clicando na guia [!UICONTROL Relatórios] .
+E é isso! Verifique o status da meta do evento clicando na guia [!UICONTROL Relatórios].
