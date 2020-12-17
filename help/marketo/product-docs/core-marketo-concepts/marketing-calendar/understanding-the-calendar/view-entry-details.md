@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Detalhes da entrada da visualização {#view-entry-details}
+# Detalhes da entrada de visualização {#view-entry-details}
 
 Ao visualização dos detalhes de entrada no Calendário de marketing, você pode ver todos os tipos de coisas legais sobre uma entrada.
 
