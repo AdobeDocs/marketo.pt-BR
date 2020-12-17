@@ -17,11 +17,11 @@ Identifique e envolva as Contas Nomeadas e as pessoas dentro delas usando novos 
 
 ## FILTROS ABM {#abm-filters}
 
-1. Selecione sua campanha inteligente e clique em Lista **inteligente**.
+1. Selecione sua campanha inteligente e clique em **Lista inteligente**.
 
    ![](assets/one.png)
 
-1. Clique em **+** para expandir a pasta Filtros **** de conta.
+1. Clique em **+** para expandir a pasta **Filtros de conta**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Identifique e envolva as Contas Nomeadas e as pessoas dentro delas usando novos 
 
    ![](assets/three.png)
 
-## Lista do membro da conta {#member-of-account-list}
+## Membro da Lista de conta {#member-of-account-list}
 
 Para usar esse filtro, clique no menu suspenso lista da conta...
 
@@ -43,7 +43,7 @@ Para usar esse filtro, clique no menu suspenso lista da conta...
 >
 >Para o filtro Lista Membro da Conta, há apenas um qualificador: &quot;is&quot; - qualificadores adicionais (como &quot;is not&quot; e &quot;is any&quot;) não estão disponíveis.
 
-## Membro da conta nomeada {#member-of-named-account}
+## Membro da Conta Nomeada {#member-of-named-account}
 
 1. Escolha um qualificador. É para uma conta nomeada específica ou é qualquer conta nomeada.
 
