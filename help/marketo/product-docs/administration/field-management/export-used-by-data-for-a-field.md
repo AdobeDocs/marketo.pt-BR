@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Exportar dados usados por um campo {#export-used-by-data-for-a-field}
+# Exportar dados usados por para um campo {#export-used-by-data-for-a-field}
 
 Como Administrador, você pode exportar ativos relacionados de um campo para poder delegar seus links para sua equipe.
 
@@ -23,7 +23,7 @@ Como Administrador, você pode exportar ativos relacionados de um campo para pod
 
    ![](assets/one.png)
 
-1. Clique em Gerenciamento **de** campos.
+1. Clique em **Gerenciamento de campo**.
 
    ![](assets/two-3.png)
 
@@ -31,7 +31,7 @@ Como Administrador, você pode exportar ativos relacionados de um campo para pod
 
    ![](assets/three.png)
 
-1. Clique no menu suspenso Ações **de** campo e selecione **Exportar usando por**.
+1. Clique no menu suspenso **Ações de campo** e selecione **Exportar usadas por**.
 
    ![](assets/four.png)
 
