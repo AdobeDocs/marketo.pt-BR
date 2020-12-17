@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Você pode usar programas de envolvimento para realizar [!DNL Marketo] a criação de emails com facilidade.
+Você pode usar programas de envolvimento em [!DNL Marketo] para realizar a criação de emails com facilidade.
 
 1. Em [!DNL Marketing Activities], selecione a pasta na qual deseja criar o programa de envolvimento.
 
    ![Imagem Um](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-1.png)
 
-1. Clique no menu suspenso Ações **[!UICONTROL da]** pasta e selecione **[!UICONTROL Novo Programa]**.
+1. Clique no menu suspenso **[!UICONTROL Ações da pasta]** e selecione **[!UICONTROL Novo Programa]**.
 
    ![Imagem dois](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-2.png)
 
@@ -28,10 +28,10 @@ Você pode usar programas de envolvimento para realizar [!DNL Marketo] a criaç�
    >
    >Você também pode clicar com o botão direito do mouse na pasta e selecionar Novo Programa.
 
-1. Digite um **[!UICONTROL Nome]** e, no menu suspenso [!UICONTROL Tipo] , selecione **[!UICONTROL Envolvimento]**.
+1. Digite um **[!UICONTROL Nome]** e, no menu suspenso [!UICONTROL Tipo], selecione **[!UICONTROL Envolvimento]**.
 
    ![Imagem Três](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-3.png)
 
-1. Escolha um [!UICONTROL Espaço de Trabalho] e um [!UICONTROL Destino]. Adicionar [!UICONTROL descrição] e [!UICONTROL rótulos]opcionais. Clique em **[!UICONTROL Adicionar]** quando concluído.
+1. Escolha um [!UICONTROL Workspace] e [!UICONTROL Destino]. Adicione [!UICONTROL Descrição] e [!UICONTROL Etiquetas] opcionais. Clique em **[!UICONTROL Adicionar]** quando terminar.
 
    ![Imagem quatro](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-4.png)
