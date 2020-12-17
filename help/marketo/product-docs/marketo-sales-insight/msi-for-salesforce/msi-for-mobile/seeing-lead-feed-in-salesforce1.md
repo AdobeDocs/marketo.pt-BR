@@ -15,7 +15,7 @@ ht-degree: 0%
 
 O principal feed é uma lista de eventos interessantes atualizada feita pelos clientes potenciais.
 
-1. Vá para a área de **Marketo** em Salesforce1.
+1. Vá para a área **Marketo** no Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ O principal feed é uma lista de eventos interessantes atualizada feita pelos cl
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Toque em **Alimentação** de cliente potencial.
+1. Toque em **Feed de cliente potencial**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
