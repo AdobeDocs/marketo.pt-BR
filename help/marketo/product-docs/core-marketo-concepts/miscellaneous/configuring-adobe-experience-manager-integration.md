@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configuração da integração Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
+# Configurando a integração do Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
 
 Configure AEM para que você possa acessar, selecionar e importar ativos AEM no Design Studio do Marketo.
 
@@ -31,7 +31,7 @@ Configure AEM para que você possa acessar, selecionar e importar ativos AEM no 
 
    ![](assets/two.png)
 
-1. Em **Ferramentas**, clique em **Operações** e selecione Console **da Web**.
+1. Em **Ferramentas**, clique em **Operações** e selecione **Console Web**.
 
    ![](assets/2a.png)
 
@@ -39,19 +39,19 @@ Configure AEM para que você possa acessar, selecionar e importar ativos AEM no 
 
    ![](assets/three.png)
 
-1. Clique no **+** sinal à direita.
+1. Clique no sinal de **+** à direita.
 
    ![](assets/four.png)
 
-1. Na caixa de texto Origens **permitidas (Regexp)** , digite &quot;https://.*\.marketo\.com&quot; (sem as aspas) e clique em **Salvar**.
+1. Na caixa de texto **Origens permitidas (Regexp)**, digite &quot;https://.*\.marketo\.com&quot; (sem as aspas) e clique em **Salvar**.
 
    ![](assets/five-psd.png)
 
-1. No cabeçalho na parte superior da página, clique em Console **da** Web e selecione Informações **** do sistema.
+1. No cabeçalho na parte superior da página, clique em **Console da Web** e selecione **Informações do Sistema**.
 
    ![](assets/six.png)
 
-1. Em Informações do servidor, clique no botão **Reiniciar** .
+1. Em Informações do servidor, clique no botão **Reiniciar**.
 
    ![](assets/seven.png)
 
@@ -75,5 +75,5 @@ Configure AEM para que você possa acessar, selecionar e importar ativos AEM no 
 
    ![](assets/twelve.png)
 
-   Vocês estão prontos! Agora você pode [importar ativos AEM para o Design Studio no Marketo Sky](http://help.marketo.com/hc/en-us/articles/360036765993).
+   Vocês estão prontos! Agora você pode [importar ativos AEM para o Design Studio em Marketo Sky](http://help.marketo.com/hc/en-us/articles/360036765993).
 
