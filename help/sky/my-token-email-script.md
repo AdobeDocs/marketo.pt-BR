@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Para desenvolvedores avançados, você pode usar scripts [](http://velocity.apache.org/engine/1.7/user-guide.html) Velocity em seus emails configurando um token de Script de email. Aqui está como fazer isso.
+Para desenvolvedores avançados, você pode usar [scripts Velocity](http://velocity.apache.org/engine/1.7/user-guide.html) em seus emails configurando um token de Script de email. Aqui está como fazer isso.
 
-1. Na guia [!UICONTROL Meus tokens] do seu programa ou pasta, arraste um token de Script **[!UICONTROL de]** email para a tela Tokens  locais.
+1. Na guia [!UICONTROL Meus tokens] do seu programa ou pasta, arraste um token **[!UICONTROL Script de e-mail]** para a tela [!UICONTROL Tokens locais].
 
    ![Imagem Um](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
