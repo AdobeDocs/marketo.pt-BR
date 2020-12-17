@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Quando uma pessoa recebe cada pedaço de conteúdo em um fluxo, ele esgotou todas as possibilidades e aguardará ociosidade até que mais sejam adicionadas. Você pode encontrar pessoas que estão &quot;exaustas&quot; de várias maneiras.
 
-## Membro do filtro Programa Envolvimento {#member-of-engagement-program-filter}
+## Membro do filtro de Programa Envolvimento {#member-of-engagement-program-filter}
 
-1. Crie uma nova lista inteligente e localize e arraste o filtro **Membro do Programa** Envolvimento.
+1. Crie uma nova lista inteligente e localize e arraste o filtro **Membro do Programa de envolvimento**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ Quando uma pessoa recebe cada pedaço de conteúdo em um fluxo, ele esgotou toda
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Em **Adicionar restrição**, selecione Conteúdo **esgotado**.
+1. Em **Adicionar restrição**, selecione **Conteúdo esgotado**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Defina Conteúdo **esgotado** como **verdadeiro**.
+1. Defina **Conteúdo Esgotado** como **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,15 +37,15 @@ Quando uma pessoa recebe cada pedaço de conteúdo em um fluxo, ele esgotou toda
 
 ## Guia Membros {#members-tab}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Selecione seu programa de envolvimento e vá para a guia **Membros** .
+1. Selecione seu programa de envolvimento e vá para a guia **Membros**.
 
    ![](assets/memberstab.jpg)
 
-1. Observe a coluna chamada Conteúdo **esgotado**.
+1. Observe a coluna chamada **Conteúdo Esgotado**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
