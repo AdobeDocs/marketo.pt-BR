@@ -16,7 +16,7 @@ Ativar/desativar uma campanha inteligente de disparo é basicamente ligá-la ou 
 
 ## Ativar uma Campanha do acionador
 
-1. Na sua campanha inteligente, clique na guia **[!UICONTROL Agendamento]** .
+1. Na sua campanha inteligente, clique na guia **[!UICONTROL Agendamento]**.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -36,7 +36,7 @@ A partir desse momento, qualquer pessoa que se qualificar para a lista inteligen
 
 ## Desativar uma Campanha de acionador
 
-1. Na sua campanha inteligente, clique na guia **[!UICONTROL Agendamento]** .
+1. Na sua campanha inteligente, clique na guia **[!UICONTROL Agendamento]**.
 
    ![Imagem Três](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
@@ -46,4 +46,4 @@ A partir desse momento, qualquer pessoa que se qualificar para a lista inteligen
 
 >[!NOTE]
 >
->Isso impedirá que _novas_ pessoas entrem no fluxo, mas as pessoas em etapas de espera ou qualquer outra etapa do fluxo continuarão se movendo pelo fluxo até que concluído.
+>Isso impedirá que as pessoas _novas_ entrem no fluxo, mas as pessoas em etapas de espera ou qualquer outra etapa do fluxo continuarão se movendo pelo fluxo até que concluído.
