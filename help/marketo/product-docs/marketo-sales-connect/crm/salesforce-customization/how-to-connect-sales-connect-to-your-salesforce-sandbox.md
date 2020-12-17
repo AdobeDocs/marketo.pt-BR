@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Sua conta do Sales Connect já não pode ser conectada ao Salesforce ao estabelecer uma conexão com a caixa de proteção. Se estiver, [desconecte](http://docs.marketo.com/x/FoDq) -se antes de seguir as etapas neste artigo.
+>Sua conta do Sales Connect já não pode ser conectada ao Salesforce ao estabelecer uma conexão com a caixa de proteção. Se estiver, [certifique-se de desconectar](http://docs.marketo.com/x/FoDq) antes de seguir as etapas neste artigo.
 
 1. No Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. Na parte inferior da página, clique em **Conectar-se à caixa de proteção**.
+1. Na parte inferior da página, clique em **Conectar-se ao Sandbox**.
 
    ![](assets/four-2.png)
 
