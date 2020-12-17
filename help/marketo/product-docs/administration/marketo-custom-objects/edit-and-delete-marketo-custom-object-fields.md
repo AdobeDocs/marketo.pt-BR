@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-2-10-3a55-3a1.png)
 
-1. Na guia Campos, clique em Ações **de** campo e em **Editar campo**.
+1. Na guia Campos, clique em **Ações de campo** e **Editar campo**.
 
    ![](assets/image2015-10-2-10-3a53-3a26.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 Quando você não precisa mais de um campo em um objeto personalizado, é possível excluí-lo.
 
-1. Na guia Campos, clique em Ações **de** campo e em **Excluir campo**.
+1. Na guia Campos, clique em **Ações de campo** e **Excluir campo**.
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
