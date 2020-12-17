@@ -28,7 +28,7 @@ O relatório compartilha:
 
 ![](assets/one-4.png)
 
-## Chave do Relatório de Vendas {#sales-report-key}
+## Chave do relatório de vendas {#sales-report-key}
 
 | **Pontuação da conta** | Tendência semanal por pontuação da conta (selecionada na configuração), seguida pela pontuação da conta atual |
 |---|---|
