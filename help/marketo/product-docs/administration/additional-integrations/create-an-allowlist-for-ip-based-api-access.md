@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para **Admin** e clique em Serviços **da Web**.
+1. Vá para **Admin** e clique em **Serviços Web**.
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. Na área Restrições de IP, clique em **Editar **ou clique** em Editar restrições de IP **no canto superior esquerdo.
+1. Na área Restrições de IP, clique em **Editar, **ou clique em** Editar restrições de IP **no canto superior esquerdo.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
-1. Marque a caixa **Habilitar restrições** de IP e digite os endereços IP que deseja lista de permissões.
+1. Marque a caixa **Ativar restrições de IP** e digite os endereços IP que deseja lista de permissões.
 
    ![](assets/image2016-2-25-9-3a18-3a28.png)
 
