@@ -47,13 +47,13 @@ O **Leads Adquiridos **cartão mostra um relatório mensal de tendência do núm
 
 ## Novos clientes potenciais {#new-leads}
 
-O **novo cartão de Clientes Potenciais** mostra um relatório mensal de tendências do número total de novos clientes potenciais em sua instância nos últimos seis meses.
+O cartão **Novos clientes potenciais** mostra um relatório mensal de tendência do número total de novos clientes potenciais em sua instância nos últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Cancelar inscrição {#unsubscribes}
+## Cancela a assinatura {#unsubscribes}
 
-O cartão de **Cancelamento de inscrição** mostra um relatório de tendência mensal sobre mês da sua taxa de cancelamento de inscrição nos últimos seis meses.
+O cartão **Cancelar inscrição** mostra um relatório de tendência mensal em mês da sua taxa de cancelamento de inscrição nos últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
