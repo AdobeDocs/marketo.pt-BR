@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Não fez logon no histórico de Atividades {#didnt-log-to-activity-history}
+# Não Efetuou Log no Histórico de Atividades {#didnt-log-to-activity-history}
 
 Se você não estiver vendo o registro de chamadas para o Salesforce, isso pode ocorrer porque não é possível localizar um cliente potencial/Contato no Salesforce.
 
-Para chamadas para fazer logon no cliente potencial/contato correto, o Sales Connect precisa ter a ID do Salesforce. A melhor maneira de adicionar a ID do Salesforce ao Sales Connect é usando nosso recurso [Enviar para o Sales Connect](http://docs.marketo.com/x/XQDb) . Quando você usa o Push to Sales Connect, incluímos a ID do Salesforce na migração do contato.
+Para chamadas para fazer logon no cliente potencial/contato correto, o Sales Connect precisa ter a ID do Salesforce. A melhor maneira de adicionar a ID do Salesforce ao Sales Connect é usando nosso recurso [Enviar para o Sales Connect](http://docs.marketo.com/x/XQDb). Quando você usa o Push to Sales Connect, incluímos a ID do Salesforce na migração do contato.
