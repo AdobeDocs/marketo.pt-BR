@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Veja como enviar/editar emails usando a opção Agrupar email.
 
-## Envio de um email de grupo {#sending-a-group-email}
+## Enviando um email de grupo {#sending-a-group-email}
 
-1. Clique na guia **Pessoas** .
+1. Clique na guia **Pessoas**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ Veja como enviar/editar emails usando a opção Agrupar email.
 
    ![](assets/two-3.png)
 
-1. Clique no botão Ações do grupo e selecione Grupo **de** email.
+1. Clique no botão Ações do grupo e selecione **Grupo de email**.
 
    ![](assets/three-3.png)
 
@@ -35,7 +35,7 @@ Veja como enviar/editar emails usando a opção Agrupar email.
 
 ## Editando um email de grupo {#editing-a-group-email}
 
-1. Crie um email de grupo usando as [Etapas 1 a 3 acima](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Crie um email de grupo usando [Etapas 1-3 acima](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
 1. Escolha um modelo ou preencha seu e-mail.
 
    ![](assets/edit-two.png)
@@ -48,7 +48,7 @@ Veja como enviar/editar emails usando a opção Agrupar email.
 
    ![](assets/edit-four.png)
 
-1. Clique em Campos **dinâmicos de** Pré-visualização e visualização a pré-visualização à direita.
+1. Clique em **Pré-visualização Campos dinâmicos** e visualização a pré-visualização à direita.
 
    ![](assets/edit-five.png)
 
