@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Emitir uma licença do complemento por e-mail do Marketo {#issue-a-marketo-email-add-in-license}
+# Emitir uma licença do complemento de email do Marketo {#issue-a-marketo-email-add-in-license}
 
 Qualquer pessoa que quiser usar o Suplemento do Outlook por email deve receber uma licença primeiro. Há duas maneiras de fornecer a licença.
 
@@ -32,7 +32,7 @@ Qualquer pessoa que quiser usar o Suplemento do Outlook por email deve receber u
 
 ![](assets/image2015-7-20-17-3a48-3a17.png)
 
-1. Na guia **Add-in por email **, clique em **Emitir licença**.
+1. Na guia **Add-in de email **, clique em **Emitir licença**.
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 
@@ -46,7 +46,7 @@ Qualquer pessoa que quiser usar o Suplemento do Outlook por email deve receber u
 
    >[!NOTE]
    >
-   >Para instalar o plug-in remotamente, deixe a caixa de seleção desmarcada e envie sua equipe de TI para sua chave [empresarial](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
+   >Para instalar o plug-in remotamente, deixe a caixa de seleção desmarcada e envie para sua equipe de TI a [Enterprise Key](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
    >
    >Se os seus representantes de vendas tiverem acesso de administrador aos seus computadores, marque a caixa e pronto!
 
