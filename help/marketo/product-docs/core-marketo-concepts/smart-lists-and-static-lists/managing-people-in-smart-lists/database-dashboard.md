@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Painel do banco de dados {#database-dashboard}
+# Painel de banco de dados {#database-dashboard}
 
 O Painel de Banco de Dados serve como um instantâneo para ajudá-lo a determinar rapidamente os principais atributos sobre suas pessoas em um espaço de trabalho.
 
@@ -21,7 +21,7 @@ O Painel de Banco de Dados serve como um instantâneo para ajudá-lo a determina
 
 Para chegar lá, você pode clicar no bloco **Banco de Dados** em sua tela inicial...   ![](assets/db-3.png)
 
-Ou clique no logotipo do Marketo e selecione **Banco de dados**.
+Ou clique no logotipo do Marketo e selecione **Banco de Dados**.
 
 ![](assets/db2.png)
 
@@ -31,7 +31,7 @@ Os gráficos indicam o número total de pessoas, o número de pessoas comerciali
 
 >[!TIP]
 >
->Quer obter informações mais específicas ou atualizadas sobre o seu pessoal? Tente um relatório [de desempenho de](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)pessoas.
+>Quer obter informações mais específicas ou atualizadas sobre o seu pessoal? Experimente um [Relatório de desempenho de pessoas](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Total de Pessoas:** O número de pessoas em tempo integral para esse espaço de trabalho.  **Pessoas Comercializáveis:** O número de pessoas de tempo integral para o espaço de trabalho, *menos o seguinte*: pessoas sem um endereço de e-mail, pessoas cujo e-mail retornou, pessoas que estão incluir na lista de bloqueios, pessoas que cancelaram a inscrição, pessoas que estão definidas como Suspensas de Marketing.
+**Total de pessoas:** o número de pessoas que trabalham a tempo inteiro para esse espaço de trabalho.  **Pessoas comercializáveis:** O número de pessoas que trabalham o tempo todo no espaço de trabalho,  *menos o seguinte*: pessoas sem um endereço de e-mail, pessoas cujo e-mail retornou, pessoas que estão incluir na lista de bloqueios, pessoas que cancelaram a inscrição, pessoas que estão definidas como Suspensas de Marketing.
 
