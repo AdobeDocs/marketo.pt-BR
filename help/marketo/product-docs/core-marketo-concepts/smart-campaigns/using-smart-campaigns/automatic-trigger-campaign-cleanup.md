@@ -23,11 +23,11 @@ Uma vez por trimestre, o Marketo encontrará campanhas inteligentes que ficam do
 
 Claro! Uma vez por trimestre, você receberá uma notificação uma semana antes mostrando cada campanha que planejamos desativar.
 
-1. Vá até a guia **Notificações** .
+1. Vá para a guia **Notificações**.
 
    ![](assets/notifications.png)
 
-1. Clique em Limpeza de Campanha do Acionador **Ocioso Agendada**. Em seguida, clique no **link **Essas Campanhas de acionador ocioso serão desativadas.** **
+1. Clique em **Limpeza de Campanha do Acionador Inativo Agendada**. Em seguida, clique em **Essas Campanhas de acionador ocioso serão desativadas **link.** **
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
@@ -52,7 +52,7 @@ Qualquer um dos dois redefinirá o contador de 6 meses.
 
 Absolutamente - uma semana após a notificação original, desativaremos as campanhas listadas (menos qualquer que tenha qualificado pelo menos uma pessoa ou tenha sido desativado/reativado) e publicaremos uma notificação de confirmação.
 
-1. Selecione a notificação **Limpeza de Campanha do Acionador Ocioso Agendada **1. Clique no link **Essas Campanhas** de acionador ocioso.
+1. Selecione a notificação **Limpeza de Campanha do Acionador Ocioso Agendada **1. Clique no link **Essas Campanhas de acionador ocioso**.
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 
