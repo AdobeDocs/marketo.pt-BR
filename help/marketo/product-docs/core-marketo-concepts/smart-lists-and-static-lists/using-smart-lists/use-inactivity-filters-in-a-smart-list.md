@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Você sabia que pode procurar pessoas em uma Lista inteligente que *não* fizeram algo? Confira esses filtros de inatividade.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecione a lista inteligente que deseja editar e clique na guia Lista **** inteligente.
+1. Selecione a lista inteligente que deseja editar e clique na guia **Lista inteligente**.
 
    ![](assets/smartlist-choose.png)
 
@@ -29,9 +29,9 @@ Você sabia que pode procurar pessoas em uma Lista inteligente que *não* fizera
 
    >[!TIP]
    >
-   >Há muitos filtros na pasta Filtros **de** inatividade. Procure por **Not** (Não) e dê uma olhada neles.
+   >Há muitos filtros na pasta **Filtros de inatividade**. Procure **Not** e dê uma olhada neles.
 
-1. Selecione a opção **é qualquer** operador. Isso encontrará todas as pessoas que não visitaram nenhuma página nos últimos 30 dias.
+1. Selecione o operador **is any**. Isso encontrará todas as pessoas que não visitaram nenhuma página nos últimos 30 dias.
 
    ![](assets/mysmartlist-people.jpg)
 
