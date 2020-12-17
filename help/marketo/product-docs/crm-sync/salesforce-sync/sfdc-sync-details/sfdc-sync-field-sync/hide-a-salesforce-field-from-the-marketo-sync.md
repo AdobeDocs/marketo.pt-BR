@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ocultar um campo do Salesforce da sincronização de marketing para {#hide-a-salesforce-field-from-the-marketo-sync}
+# Ocultar um campo do Salesforce da sincronização de marketing {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Nem todos os campos no Salesforce são úteis para Marketing. Você pode otimiza
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Na seção Segurança **em nível de** campo, clique em **Visualização** ao lado do objeto que contém o campo público alvo.
+1. Na seção **Field-Level Security**, clique em **Visualização** ao lado do objeto que contém o campo público alvo.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
