@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtrar o calendário de marketing {#filtering-the-marketing-calendar}
+# Filtrando o calendário de marketing {#filtering-the-marketing-calendar}
 
 Use tipos de entrada, marcas de programa ou espaços de trabalho para filtrar as informações exibidas no calendário.
 
@@ -19,11 +19,11 @@ Use tipos de entrada, marcas de programa ou espaços de trabalho para filtrar as
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Clique no menu suspenso **Tipo** de **entrada** .
+1. Clique no menu suspenso **Entry** **Type**.
 
    >[!NOTE]
    >
-   >Os tipos de entrada padrão serão **Programas** de e-mail **e** Campanhas **** inteligentes **** com **** **** e-mail.
+   >Os tipos de entrada padrão serão **Email** **Programas** e **Smart** **Campanha** **com** **Email**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ Use tipos de entrada, marcas de programa ou espaços de trabalho para filtrar as
 
    >[!TIP]
    >
-   >Para obter descrições dos tipos de entrada padrão, verifique os Tipos [de entrada de Visualização do](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)Cronograma do programa.
+   >Para obter descrições dos tipos de entrada padrão, verifique [Tipos de entrada de Visualização de Cronograma do programa](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Selecione as tags de programa que lhe interessam.
 
