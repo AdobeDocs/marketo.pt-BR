@@ -33,19 +33,19 @@ O Marketo gerencia sua inscrição e participação no webinário do Adobe Conne
 
    ![](assets/image2015-4-22-11-3a33-3a51.png)
 
-1. Selecione **Novo** e **Novo serviço**.
+1. Selecione **Novo** e **Novo Serviço**.
 
    ![](assets/image2015-4-22-11-3a40-3a19.png)
 
-1. Digite um Nome para **exibição**. Em **Serviço**, selecione Adobe Connect.
+1. Digite um **Nome de exibição**. Em **Service**, selecione Adobe Connect.
 
    ![](assets/new-service-adobe-connect.png)
 
-1. Insira seu **Nome** de usuário e Código **de** acesso.
+1. Digite seu **Nome de usuário** e **Código de acesso**.
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. Conclua o processo digitando o URL **da pasta da** reunião e a **senha** do **participante,**** e clique **** em Criar.**
+1. Conclua o processo digitando o **URL da pasta de reunião** e **Participante** **Senha**,** **em seguida, clique em** Criar.**
 
    ** ![](assets/image2015-4-22-11-3a55-3a36.png)
 
@@ -60,9 +60,9 @@ O Marketo gerencia sua inscrição e participação no webinário do Adobe Conne
    >**Exemplo**
    >
    >
-   >Depois de se conectar à sua conta Adobe Connect, selecione a guia **Seminários** . Sem fazer drill-down em qualquer seminário específico, copie o URL da barra do navegador para a **configuração** do URL da pasta **de reunião.**
+   >Depois de se conectar à sua conta Adobe Connect, selecione a guia **Seminars**. Sem fazer drill-down em qualquer seminário específico, copie o URL da barra do navegador para o **URL da pasta de reunião** configuração **.**
 
-1. Fenomenal! Seu serviço **** Adobe Connect agora é sincronizado com o Marketo.
+1. Fenomenal! Seu **Adobe Connect Service** agora está sincronizado com o Marketo.
 
    ![](assets/adobe-connect-service.png)
 
