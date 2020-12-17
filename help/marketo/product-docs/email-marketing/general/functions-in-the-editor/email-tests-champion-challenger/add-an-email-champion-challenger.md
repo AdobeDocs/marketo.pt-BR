@@ -28,9 +28,9 @@ Aqui está como começar.
 
 >[!CAUTION]
 >
->Os emails de campeão/desafiador funcionam somente com campanhas de disparo e fluxos de programa de envolvimento. Para as correspondências em lote, use a funcionalidade [de teste](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)A/B do programa de email.
+>Os emails de campeão/desafiador funcionam somente com campanhas de disparo e fluxos de programa de envolvimento. Para as correspondências em lote, use a funcionalidade de teste [A/B do programa de email](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -43,9 +43,9 @@ Aqui está como começar.
    >**Mergulho profundo**
    >
    >
-   >Para publicações de correio único, saiba mais sobre programas [de](http://docs.marketo.com/display/docs/email+programs)email.
+   >Para publicações de correio único, saiba mais sobre [programas de correio eletrônico](http://docs.marketo.com/display/docs/email+programs).
 
-1. Em Ações **de** email, clique em **Novo teste**.
+1. Em **Ações de e-mail**, clique em **Novo teste**.
 
    ![](assets/chmapion2.jpg)
 
