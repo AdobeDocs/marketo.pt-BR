@@ -21,21 +21,21 @@ Você pode confiar nos dados em algumas listas mais do que em outras. Às vezes,
 
 ## Bloquear atualizações de campo de fontes não confiáveis {#blocking-field-updates-from-untrusted-sources}
 
-1. Vá para **Admin** e clique em Gerenciamento **** de campo.
+1. Vá para **Admin** e clique em **Gerenciamento de campo**.
 
    ![](assets/image2014-9-19-9-3a38-3a38.png)
 
-1. Localize o campo desejado, selecione-o e, em Ações **de** campo, clique em **Bloquear atualizações** de campo.
+1. Localize o campo desejado, selecione-o e, em **Ações de campo**, clique em **Bloquear atualizações de campo**.
 
    ![](assets/image2014-9-19-9-3a39-3a40.png)
 
-1. Marque Importação de **Lista de fonte** não confiável e clique em **Aplicar**.
+1. Marque **Importação de Lista de fonte não confiável** e clique em **Aplicar**.
 
    ![](assets/blockupdates.png)
 
 >[!TIP]
 >
->Você pode manter os campos seguros de todas as listas, confiáveis e não confiáveis, verificando também a origem **confiável Importar** Lista.
+>Você pode manter os campos seguros de todas as listas, confiáveis e não confiáveis, verificando também **Origem confiável de Importação de Lista**.
 
 Repita as etapas acima para quaisquer outros campos que você deseja manter seguros contra listas não confiáveis.
 
