@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Adicionar uma Etapa de fluxo a uma Campanha inteligente {#add-a-flow-step-to-a-smart-campaign}
+# Adicionar uma Etapa de Fluxo a uma Campanha Inteligente {#add-a-flow-step-to-a-smart-campaign}
 
 As etapas de fluxo informam ao Marketo o que você deseja que aconteça a um grupo de pessoas que se qualificam. São suas instruções, e a campanha inteligente fará o seu lance!
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ Digite para procurar uma etapa de fluxo e arraste e solte-a na tela de desenho. 
 >**Mergulho profundo**
 >
 >
->Saiba mais sobre as diferentes etapas [de](http://docs.marketo.com/display/DOCS/Flow+Actions)fluxo.
+>Saiba mais sobre as diferentes [etapas de fluxo](http://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Clique na lista suspensa e escolha uma opção apropriada.
 
@@ -47,7 +47,7 @@ Digite para procurar uma etapa de fluxo e arraste e solte-a na tela de desenho. 
    >**Lembrete**
    >
    >
-   >As etapas de fluxo são executadas na ordem em que são listadas.  [Reordene as etapas](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) de fluxo para garantir que estejam na sequência correta.
+   >As etapas de fluxo são executadas na ordem em que são listadas.  [Reordene as ](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) etapas de fluxo para garantir que estejam na sequência correta.
 
    >[!TIP]
    >
