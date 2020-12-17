@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Instalar a personalização do Salesforce para clientes da Professional Edition {#install-salesforce-customization-for-professional-edition-customers}
+# Instalar a personalização do Salesforce para clientes Professional Edition {#install-salesforce-customization-for-professional-edition-customers}
 
 Os clientes com o Salesforce Professional Edition precisarão seguir essas etapas para instalar a personalização.
 
@@ -40,7 +40,7 @@ Os clientes com o Salesforce Professional Edition precisarão seguir essas etapa
    >
    >Se estiver conectado, você verá um botão verde &quot;Instalar&quot;. **NÃO** clique nesse botão, vá para a etapa 4.
 
-1. Faça logon na conta do Salesforce à qual você está conectado e clique [neste link](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Faça logon na conta do Salesforce à qual você está conectado e clique em [este link](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. Você será enviado para a página Instalação do Sales Connect.
 
    ![](assets/install-package.png)
@@ -48,7 +48,7 @@ Os clientes com o Salesforce Professional Edition precisarão seguir essas etapa
 1. Escolha os usuários para os quais deseja instalar personalizações: Somente administrador, todos os usuários ou perfis específicos.
 1. Clique no botão **Instalar** para instalar a personalização.
 1. Para confirmar a instalação bem-sucedida, faça logon em sua conta Salesforce.
-1. Clique em **Configuração**, procure &quot;Pacotes instalados&quot; na barra de pesquisa e clique em Pacotes **instalados**.
+1. Clique em **Configuração**, procure &quot;Pacotes instalados&quot; na barra de pesquisa e clique em **Pacotes instalados**.
 
    Você verá as Personalizações do Marketing Connect para Vendas.
 
