@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Usar Listas integradas/inteligentes do sistema {#use-built-in-system-smart-lists}
+# Usar Listas inteligentes incorporadas/do sistema {#use-built-in-system-smart-lists}
 
 Marketo tem algumas listas inteligentes incorporadas muito úteis. Vamos dar uma olhada!
 
@@ -23,11 +23,11 @@ Marketo tem algumas listas inteligentes incorporadas muito úteis. Vamos dar uma
 
    ![](assets/db.png)
 
-1. Abra a pasta Listas **inteligentes do** sistema para revelar a coleção.
+1. Abra a pasta **Listas inteligentes do sistema** para revelar a coleção.
 
    ![](assets/two.png)
 
-1. Para ver um exemplo: Selecione **Todas as pessoas** e clique na guia **Pessoas** .
+1. Para ver um exemplo: Selecione **Todas as pessoas** e clique na guia **Pessoas**.
 
    ![](assets/three.png)
 
