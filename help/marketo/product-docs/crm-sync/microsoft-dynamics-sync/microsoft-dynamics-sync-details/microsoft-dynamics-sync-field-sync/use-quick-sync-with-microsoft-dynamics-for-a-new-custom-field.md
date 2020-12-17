@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketing ou Vendas querem um novo campo. Ou, talvez você tenha esquecido um na sua seleção inicial de campo. Ou suas necessidades mudaram. Em qualquer caso, você pode usar a Sincronização rápida para ressincronizar campos específicos.
 
-Normalmente, você usa a sincronização rápida para adicionar um novo campo e atualizar os valores. No entanto, há casos em que você pode querer sincronizar um campo existente. É possível restringir a sincronização de campos com base em um intervalo de datas atualizado ou criado. Consulte Opções [de sincronização](#Advanced_Sync_Options) avançadas abaixo para obter detalhes.
+Normalmente, você usa a sincronização rápida para adicionar um novo campo e atualizar os valores. No entanto, há casos em que você pode querer sincronizar um campo existente. É possível restringir a sincronização de campos com base em um intervalo de datas atualizado ou criado. Consulte [Opções de sincronização avançadas](#Advanced_Sync_Options) abaixo para obter detalhes.
 
 A sincronização rápida pode sincronizar valores nulos. Por exemplo, se você estiver usando os valores A e B e alterar um valor B no Dynamics para nulo, ele sincronizará o valor nulo para Marketo.
 
@@ -63,7 +63,7 @@ E se você quiser sincronizar um campo existente, mas somente para um conjunto l
 
    ![](assets/select-field-reselect-hand.png)
 
-1. Clique em **Sincronização** avançada.
+1. Clique em **Sincronização avançada**.
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
