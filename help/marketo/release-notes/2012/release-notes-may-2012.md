@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Mergulho profundo**
 >
->Para outras versões, consulte as [Notas](http://docs.marketo.com/display/docs/release+notes) de versão em profundidade.
+>Para outras versões, consulte as [Notas de versão](http://docs.marketo.com/display/docs/release+notes) profundas.
 
 ## Redesign de relatório de desempenho de email {#email-performance-report-redesign}
 
@@ -57,9 +57,9 @@ Figura 4. Check-in do evento: Selecione seu Evento!
 
 Figura 5. Verifique-os
 
-## URL de confirmação de webinar aprimorado {#enhanced-webinar-confirmation-url}
+## URL de confirmação de Webinar aprimorado {#enhanced-webinar-confirmation-url}
 
-Agora disponível para ON24 e Adobe Connect! Inclua um link exclusivo no email de confirmação para cada participante registrado usando o novo `{{member.webinar URL}}` token. As melhorias da Adobe Connect também incluem a capacidade de ativar/desativar o e-mail de informações da conta do Adobe que inclui a ID de login e a senha do usuário.
+Agora disponível para ON24 e Adobe Connect! Inclua um link exclusivo no email de confirmação para cada participante registrado usando o novo token `{{member.webinar URL}}`. As melhorias da Adobe Connect também incluem a capacidade de ativar/desativar o e-mail de informações da conta do Adobe que inclui a ID de login e a senha do usuário.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -101,7 +101,7 @@ Sincronize contas, contatos e clientes potenciais entre o Marketo e o Microsoft 
 
 Figura 11. Configuração do Microsoft Dynamics
 
-## Aprimoramentos de insight de vendas de marketing {#marketo-sales-insight-enhancements}
+## Aprimoramentos de informações de vendas de marketing {#marketo-sales-insight-enhancements}
 
 **Opções de Cancelar assinatura do rodapé**
 
@@ -111,7 +111,7 @@ Configure quando e se o rodapé para cancelar a inscrição for exibido para ema
 
 Figura 12. Configurações de insight de vendas na Administração
 
-## Pastas para modelos de e-mail de vendas {#folders-for-sales-email-templates}
+## Pastas para Modelos de Email de Vendas {#folders-for-sales-email-templates}
 
 Agora você pode organizar os modelos de e-mail compartilhados com o Marketing Insight de vendas em pastas especificadas, facilitando aos representantes de vendas encontrar o e-mail certo.
 
@@ -123,7 +123,7 @@ Figura 13. Escolha uma pasta para seus emails
 
 Forneça aos representantes de vendas informações sobre quais atividades de marketing estão liderando o envolvimento, usando o acesso direto ao Analisador de oportunidades do Marketing Insight. Nota. Requer licença do Revenue Cycle Analytics.
 
-## Campo personalizado para Status do contato {#custom-field-for-contact-status}
+## Campo personalizado para Status do Contato {#custom-field-for-contact-status}
 
 Agora é possível mapear um campo personalizado no Salesforce para preencher o campo Status dos Contatos nas Melhores Opções, Melhores Opções da Minha Equipe e visualizações personalizadas.
 
