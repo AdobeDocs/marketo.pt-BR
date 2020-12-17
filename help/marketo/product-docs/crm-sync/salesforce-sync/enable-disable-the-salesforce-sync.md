@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Ativar/desativar a sincronização do Salesforce {#enable-disable-the-salesforce-sync}
+# Ativar/Desativar a Sincronização do Salesforce {#enable-disable-the-salesforce-sync}
 
 Ao fazer alterações importantes nas configurações de sincronização ou de campo, você deve desativar a sincronização enquanto configura. Veja como:
 
-1. Vá para a seção **Admin** .
+1. Vá para a seção **Admin**.
 
    ** ![](assets/image2014-12-10-13-3a24-3a35.png)
 
    **
 
-1. Em **Salesforce**, clique em **Desativar sincronização**.
+1. Em **Salesforce**, clique em **Desativar Sincronização**.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 
