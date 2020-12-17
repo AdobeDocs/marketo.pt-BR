@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Status da sincronização {#sync-status}
+# Sincronizar status {#sync-status}
 
 É possível manter as guias na saída atual e no backlog do processo de sincronização nas guias Status da sincronização e Erros de sincronização.
 
-## Guia Sincronizar status {#sync-status-tab}
+## Guia Status de sincronização {#sync-status-tab}
 
 1. Clique em **Admin** e **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Clique na guia **Sincronizar status** .
+1. Clique na guia **Sincronizar status**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Clique na **Visualização: **suspensa** **e selecione **Última hora **para visualização das informações de throughput.
+1. Clique na **Visualização: **menu suspenso** **e selecione **Última hora **para visualização das informações de throughput.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
