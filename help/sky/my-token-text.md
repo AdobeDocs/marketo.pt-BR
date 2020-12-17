@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Veja como configurar um token de texto para usar nas pastas programas e campanhas.
 
-1. Na guia [!UICONTROL Meus tokens] do seu programa ou pasta, arraste um token de **texto** para a tela Tokens  locais.
+1. Na guia [!UICONTROL Meus tokens] do seu programa ou pasta, arraste um token **Texto** para a tela [!UICONTROL Tokens Locais].
 
    ![Imagem Um](/help/sky/assets/my-tokens/my-token-text/my-token-text-1.png)
 
