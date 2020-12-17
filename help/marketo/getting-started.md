@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Introdução {#getting-started}
 
-## ETAPA 1 O que é o Marketing {#what-is-marketo}
+## ETAPA 1 O que é Marketo {#what-is-marketo}
 
 O que Marketo você pergunta? Grande pergunta!
 
@@ -33,23 +33,23 @@ Conclua essas missões para conhecer os principais recursos do Marketo.
 
 [![](/help/marketo/getting-started/assets/getting-started-2.png) 2. Enviar um email](getting-started/quick-wins/send-an-email.md)
 
-[![](/help/marketo/getting-started/assets/getting-started-3.png) 3. landing page com um formulário](getting-started/quick-wins/landing-page-with-a-form.md)
+[![](/help/marketo/getting-started/assets/getting-started-3.png) 3. landing page com um Formulário](getting-started/quick-wins/landing-page-with-a-form.md)
 
-[![](/help/marketo/getting-started/assets/getting-started-4.png) 4. Pontuação simples](getting-started/quick-wins/simple-scoring.md)
+[![](/help/marketo/getting-started/assets/getting-started-4.png) 4. Pontuação Simples](getting-started/quick-wins/simple-scoring.md)
 
 [![](/help/marketo/getting-started/assets/getting-started-5.png) 5. Resposta automática por email](getting-started/quick-wins/email-auto-response.md)
 
-[![](/help/marketo/getting-started/assets/getting-started-6.png) 6. Importar uma Lista de pessoas](getting-started/quick-wins/import-a-list-of-people.md)
+[![](/help/marketo/getting-started/assets/getting-started-6.png) 6. Importar uma Lista de Pessoas](getting-started/quick-wins/import-a-list-of-people.md)
 
-[![](/help/marketo/getting-started/assets/getting-started-7.png) 7. Depuração da Curva](getting-started/quick-wins/drip-drip-nurture.md)
+[![](/help/marketo/getting-started/assets/getting-started-7.png) 7. Depuração da Nurtura](getting-started/quick-wins/drip-drip-nurture.md)
 
 [![](/help/marketo/getting-started/assets/getting-started-8.png) 8. Personalizar um email](getting-started/quick-wins/personalize-an-email.md)
 
 [![](/help/marketo/getting-started/assets/getting-started-9.png) 9. Alertar o representante de vendas](getting-started/quick-wins/alert-the-sales-rep.md)
 
-[![](/help/marketo/getting-started/assets/getting-started-10.png) 10. Atualizar dados da pessoa](getting-started/quick-wins/update-person-data.md)
+[![](/help/marketo/getting-started/assets/getting-started-10.png) 10. Atualizar Dados da Pessoa](getting-started/quick-wins/update-person-data.md)
 
-## PASSO 4 Parabéns! Você está pronto para a Nação  {#congrats-youre-ready-for-the-nation}
+## PASSO 4 Parabéns! Você está pronto para a Nação {#congrats-youre-ready-for-the-nation}
 
 É hora de entrar na Marketing Nation!
 
