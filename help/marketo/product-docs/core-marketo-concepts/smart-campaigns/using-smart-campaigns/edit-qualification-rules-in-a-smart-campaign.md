@@ -23,7 +23,7 @@ As regras de qualificação controlam quantas vezes alguém pode executar o flux
    >
    >Você também pode clicar em **Editar** à direita de &quot;Configurações de Campanha inteligente&quot;.
 
-1. Escolha a frequência com que as pessoas podem ser executadas pelo fluxo de campanha inteligente: **somente uma vez**, **toda vez** ou **uma vez a cada # dias**/**semanas**/**meses**.
+1. Escolha a frequência com que as pessoas podem ser executadas pelo fluxo de campanha inteligente: **apenas uma vez**, **cada vez**, ou **uma vez a cada # dias**/**semanas**/**meses**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
@@ -36,7 +36,7 @@ As regras de qualificação controlam quantas vezes alguém pode executar o flux
    >**Lembrete**
    >
    >
-   >Os limites de comunicação não são aplicados às campanhas inteligentes por padrão. Saiba como [aplicar limites de comunicação a uma campanha](apply-communication-limits-to-smart-campaign.md)inteligente.
+   >Os limites de comunicação não são aplicados às campanhas inteligentes por padrão. Saiba mais sobre como [aplicar limites de comunicação a uma campanha inteligente](apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
