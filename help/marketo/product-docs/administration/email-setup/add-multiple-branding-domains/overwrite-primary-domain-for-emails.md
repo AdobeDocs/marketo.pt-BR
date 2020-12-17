@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Substituir domínio primário por e-mails {#overwrite-primary-domain-for-emails}
+# Substituir Domínio Principal por Emails {#overwrite-primary-domain-for-emails}
 
 Você pode substituir o domínio da marca principal por email. Isso mudará a forma como os links são marcados quando o email é enviado.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
