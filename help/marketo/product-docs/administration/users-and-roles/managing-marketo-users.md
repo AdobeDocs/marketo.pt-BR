@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Insira o endereço **de** email, o **nome** e o **sobrenome. **
+1. Insira **Endereço de email**, **Nome** e **Sobrenome. **
 
    ** ![](assets/image2016-5-24-9-3a45-3a30.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2016-6-29-15-3a52-3a18.png)
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2016-5-24-9-3a58-3a10.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >Quando a data de expiração chegar, o usuário receberá uma notificação de expiração e sua conta será bloqueada.
 
-1. Selecione a **Função **de sua escolha e clique em **Avançar**.
+1. Selecione a **Função **de sua escolha e clique em **Próximo**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
@@ -79,7 +79,7 @@ O novo usuário agora está listado na guia Usuários e receberá um email com i
 
    ![](assets/image2014-9-9-11-3a36-3a51.png)
 
-## Redefinir senhas do usuário {#reset-user-passwords}
+## Redefinir senhas de usuário {#reset-user-passwords}
 
 1. Vá para Admin e clique em Usuários e funções.
 
