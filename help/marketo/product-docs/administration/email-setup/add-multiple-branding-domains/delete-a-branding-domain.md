@@ -5,7 +5,7 @@ title: Excluir um domínio de marca
 translation-type: tm+mt
 source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
