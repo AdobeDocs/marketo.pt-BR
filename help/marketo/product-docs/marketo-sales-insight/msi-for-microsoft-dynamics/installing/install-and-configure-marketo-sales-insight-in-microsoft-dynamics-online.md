@@ -17,15 +17,15 @@ O Marketing Insight de vendas é uma ferramenta fantástica para dar à sua equi
 
 >[!PREREQUISITES]
 >
->Conclua sua integração [com a](http://docs.marketo.com/x/E4A2)Marketo-Microsoft.
+>Conclua sua [integração com a Microsoft do Marketing](http://docs.marketo.com/x/E4A2).
 >
->[Baixe a solução](http://docs.marketo.com/x/LoJo) correta para sua versão do Microsoft Dynamics CRM.
+>[Baixe a ](http://docs.marketo.com/x/LoJo) solução correta para a sua versão do Microsoft Dynamics CRM.
 
 ## Importar solução {#import-solution}
 
 >[!NOTE]
 >
->Se você estiver usando a interface unificada, antes da Etapa 1 abaixo, clique no ícone Configurações no canto superior direito e selecione Configurações **** avançadas.
+>Se estiver usando a Interface Unificada, antes da Etapa 1 abaixo, clique no ícone Configurações no canto superior direito e selecione **Configurações avançadas**.
 
 1. Em Microsoft Dynamics CRM, clique em **Configurações**.
 
@@ -55,11 +55,11 @@ O Marketing Insight de vendas é uma ferramenta fantástica para dar à sua equi
    ![](assets/image2014-12-12-9-3a5-3a36-1.png)
 
 1. No computador, encontre e instale a solução que acabou de baixar.
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/seven.png)
 
-1. A solução será carregada. Você pode visualização o conteúdo do pacote, se desejar. Clique em **Avançar**.
+1. A solução será carregada. Você pode visualização o conteúdo do pacote, se desejar. Clique em **Próximo**.
 
    ![](assets/image2014-12-12-9-3a6-3a10-1.png)
 
@@ -81,7 +81,7 @@ O Marketing Insight de vendas é uma ferramenta fantástica para dar à sua equi
    >
    >Certifique-se de ativar a sincronização Global do MS Dynamics.
 
-## Marketing e insight de vendas do Connect {#connect-marketo-and-sales-insight}
+## Connect Marketing e insights de vendas {#connect-marketo-and-sales-insight}
 
 Vinculemos sua instância de Marketo ao Sales Insight in Dynamics. Veja como:
 
@@ -93,11 +93,11 @@ Vinculemos sua instância de Marketo ao Sales Insight in Dynamics. Veja como:
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
-1. Na seção Sales Insight (Informações de vendas), clique em **Edit API Configuration (Editar configuração** da API).
+1. Na seção Sales Insight, clique em **Editar configuração da API**.
 
    ![](assets/image2014-12-12-9-3a7-3a0-1.png)
 
-1. Copie o Host **do** Marketo, o URL **da** API e a ID **do usuário da** API para uso em uma etapa posterior. Digite uma chave secreta da API de sua escolha e clique em **Salvar**.
+1. Copie as **ID de usuário da API**, **URL da API** e **ID de usuário da API** para uso em uma etapa posterior. Digite uma chave secreta da API de sua escolha e clique em **Salvar**.
 
    >[!CAUTION]
    >
@@ -107,7 +107,7 @@ Vinculemos sua instância de Marketo ao Sales Insight in Dynamics. Veja como:
 
    >[!NOTE]
    >
-   >Os campos a seguir devem ser sincronizados com o Marketing para que *tanto o Lead quanto o Contact* for Sales Insight funcionem:
+   >Os campos a seguir devem ser sincronizados com o Marketo para *lead e Contact* para que o Sales Insight funcione:
    >
    >    
    >    
@@ -119,11 +119,11 @@ Vinculemos sua instância de Marketo ao Sales Insight in Dynamics. Veja como:
    >    
    >Se algum desses campos estiver ausente, você verá uma mensagem de erro no Marketo com o nome dos campos ausentes. Para corrigir isso, execute [este procedimento](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. De volta ao Microsoft Dynamics, vá para **Configurações**.
+1. De volta ao Microsoft Dynamics, vá para **Settings**.
 
    ![](assets/image2014-12-12-9-3a7-3a25-1.png)
 
-1. Em **Configurações**, clique em Configuração **da API de** marketing.
+1. Em **Configurações**, clique em **Configuração da API do Marketing**.
 
    ![](assets/image2014-12-12-9-3a7-3a34-1.png)
 
@@ -131,7 +131,7 @@ Vinculemos sua instância de Marketo ao Sales Insight in Dynamics. Veja como:
 
    ![](assets/image2014-12-12-9-3a8-3a8-1.png)
 
-1. Digite as informações que você tirou de Marketo anteriormente e clique em **Salvar**.
+1. Digite as informações que você tirou do Marketo anteriormente e clique em **Salvar**.
 
    ![](assets/image2014-12-12-9-3a8-3a17-1.png)
 
@@ -153,7 +153,7 @@ Vinculemos sua instância de Marketo ao Sales Insight in Dynamics. Veja como:
 
    ![](assets/enable-four.png)
 
-1. Isso selecionará *automaticamente* os campos MSI que foram desativados anteriormente (Urgência, Pontuação relativa e Prioridade). Basta clicar em **Salvar** nos dados de sincronização do start.
+1. Isso *selecionará automaticamente* os campos MSI que foram desativados anteriormente (Urgência, Pontuação relativa e Prioridade). Basta clicar em **Salvar** para que o start sincronize os dados.
 
    ![](assets/enable-five.png)
 
@@ -165,7 +165,7 @@ Por fim, é necessário conceder a usuários específicos acesso para usar o Mar
 
    ![](assets/image2014-12-12-9-3a8-3a34-1.png)
 
-1. Vá para **Segurança**.
+1. Vá para **Security**.
 
    ![](assets/image2015-4-29-14-3a56-3a33-1.png)
 
@@ -177,7 +177,7 @@ Por fim, é necessário conceder a usuários específicos acesso para usar o Mar
 
    ![](assets/image2015-4-29-14-3a59-3a31-1.png)
 
-1. Selecione a função Informações sobre vendas de marketing e clique em **OK**.
+1. Selecione a função Informações de vendas de marketing e clique em **OK**.
 
    ![](assets/image2014-12-12-9-3a9-3a22-1.png)
 
