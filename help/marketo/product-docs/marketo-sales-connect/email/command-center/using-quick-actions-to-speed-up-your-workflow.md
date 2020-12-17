@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Uso de ações rápidas para acelerar seu fluxo de trabalho {#using-quick-actions-to-speed-up-your-workflow}
+# Usando ações rápidas para acelerar seu fluxo de trabalho {#using-quick-actions-to-speed-up-your-workflow}
 
 Há dois tipos de colunas de ação rápida que existem na grade de email. Ações de e-mail, que permitem executar ações por e-mail e Ações de acompanhamento, o que permite que você realize ações de envolvimento com alguns cliques rápidos.
 
@@ -39,7 +39,7 @@ As ações rápidas por email são dinâmicas e atualizadas dependendo das açõ
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td><p>Excluirá o email.<br><strong>Observação:</strong> Os emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
+   <td><p>Excluirá o email.<br><strong>Observação: </strong> os emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -58,7 +58,7 @@ As ações rápidas por email são dinâmicas e atualizadas dependendo das açõ
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td><p>Excluirá o email.<br><strong>Observação:</strong> Os emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
+   <td><p>Excluirá o email.<br><strong>Observação: </strong> os emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -77,7 +77,7 @@ As ações rápidas por email são dinâmicas e atualizadas dependendo das açõ
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td><p>Excluirá o email.<br><strong>Observação:</strong> Os emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
+   <td><p>Excluirá o email.<br><strong>Observação: </strong> os emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
   </tr> 
  </tbody> 
 </table>
