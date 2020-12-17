@@ -33,11 +33,11 @@ O ABM Sales Report é um email semanal personalizado enviado à equipe da conta.
 
    ![](assets/four-4.png)
 
-1. Para determinar o layout de seu email, clique no menu suspenso **Classificar por** e faça uma seleção.
+1. Para determinar o layout do seu email, clique no menu suspenso **Classificar por** e faça uma seleção.
 
    ![](assets/five-3.png)
 
-1. Marque a caixa de seleção **Usuários** , clique na lista suspensa e selecione quem você deseja receber o email.
+1. Marque a caixa de seleção **Usuários**, clique na lista suspensa e selecione quem deseja receber o email.
 
    ![](assets/six-2.png)
 
@@ -53,7 +53,7 @@ E é isso!
 
 ## Como cancelar a inscrição {#how-to-unsubscribe}
 
-Cada relatório tem a opção de opt out. Para fazer isso, basta clicar em **Cancelar inscrição** na parte inferior do email.
+Cada relatório tem a opção de opt out. Para fazer isso, basta clicar em **Cancelar assinatura** na parte inferior do email.
 
 ![](assets/eight-1.png)
 
@@ -75,7 +75,7 @@ Cada relatório tem a opção de opt out. Para fazer isso, basta clicar em **Can
 
    ![](assets/ten.png)
 
-1. Selecione o usuário que deseja receber emails novamente e clique em **Redigitar**.
+1. Selecione o usuário que deseja receber emails novamente e clique em **Resubscribe**.
 
    ![](assets/eleven.png)
 
