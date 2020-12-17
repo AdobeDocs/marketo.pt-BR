@@ -27,17 +27,17 @@ Siga estas etapas para começar a usar o poderoso suplemento do Chrome.
 
    ![](assets/two.png)
 
-1. Digite seu código **** Reg, Endereço **de** email, **Nome** e **Sobrenome**. Clique em **Verificar e salvar**.
+1. Digite seu **Código Reg**, **Endereço de email**, **Nome** e **Sobrenome**. Clique em **Verificar e Salvar**.
 
    ![](assets/three.png)
 
    >[!CAUTION]
    >
-   >Certifique-se de usar sua conta **de email** principal ao se registrar, pois não oferecemos suporte ao uso de aliases para este plug-in.
+   >Certifique-se de usar sua **conta de email primária** ao se registrar, pois não oferecemos suporte ao uso de aliases para este plug-in.
 
    >[!NOTE]
    >
-   >O código Reg estará no e-mail enviado depois que um Administrador do Marketing [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [emitir uma Licença](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) de Suplemento por e-mail do Marketo [.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Ela expira após 14 dias.**
+   >O código Reg estará no e-mail enviado após um Administrador do Marketing [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [emite uma Licença do Suplemento do Marketing para Email](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Ela expira após 14 dias.**
 
 1. Clique em** Permitir **para permitir acesso offline.
 
