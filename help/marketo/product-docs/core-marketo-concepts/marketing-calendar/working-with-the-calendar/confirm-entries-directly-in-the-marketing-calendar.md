@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Campanhas inteligentes e programas de e-mail podem ser criados como entradas preliminares e devem ser confirmados para que qualquer coisa realmente aconteça. Veja como.
 
-1. Vá para o **Calendário**.
+1. Vá para **Calendar**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 
-1. Selecione a entrada que deseja confirmar e clique em **Mostrar foco** do Programa.
+1. Selecione a entrada que deseja confirmar e clique em **Mostrar foco do Programa**.
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
