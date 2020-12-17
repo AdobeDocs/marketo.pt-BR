@@ -79,7 +79,7 @@ Execute as seguintes etapas para cada um dos três campos personalizados para ad
    <td>Pontuação</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Número</td> 
-   <td>Comprimento 10 Casas<br>Decimais 0 </td> 
+   <td>Extensão 10<br>Casas decimais 0 </td> 
   </tr> 
   <tr> 
    <td>Data de aquisição</td> 
@@ -112,12 +112,12 @@ Execute as seguintes etapas para cada um dos três campos personalizados para ad
 
 1. Especifique as configurações de acesso e clique em Avançar:
 
-   * Defina todas as funções como **Visível **e Somente **leitura**
+   * Defina todas as funções como **Visível **e **Somente leitura**
 
-   * Desmarque a caixa de seleção Somente **** leitura para o perfil do usuário de sincronização:
+   * Desmarque a caixa de seleção **Somente leitura** para o perfil do usuário de sincronização:
 
-      * Se você tiver um usuário com o perfil de um Administrador *de* sistema como o usuário de sincronização, desmarque a caixa de seleção Somente **** leitura do perfil Administrador de sistema (como mostrado abaixo)
-      * Se você criou um perfil ** personalizado para o usuário de sincronização, desmarque a caixa de seleção Somente **** leitura para esse perfil personalizado
+      * Se você tiver um usuário com o perfil de um *Administrador do sistema* como o usuário de sincronização, desmarque a caixa de seleção **Somente leitura** para o perfil Administrador do sistema (conforme mostrado abaixo)
+      * Se você criou um *perfil personalizado* para o usuário de sincronização, desmarque a caixa de seleção **Somente leitura** desse perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -159,7 +159,7 @@ Execute as seguintes etapas para cada um dos três campos personalizados para ad
    <td>ID do Programa de aquisição</td> 
    <td>mkto71_Acquisition_Programa_Id</td> 
    <td>Número</td> 
-   <td>Extensão 18<br>Casas Decimais 0 </td> 
+   <td>Extensão 18<br>Casas decimais 0 </td> 
   </tr> 
   <tr> 
    <td>Quem indicou original</td> 
@@ -248,7 +248,7 @@ Um campo personalizado no objeto de cliente potencial no Salesforce deve ser map
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Vá para a seção Campos personalizados de cliente potencial e Relações e clique em **Mapear campos** de pontilhado.
+1. Vá para a seção Campos personalizados de cliente potencial e Relações e clique em **Mapear campos de cliente potencial**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -269,7 +269,7 @@ Um campo personalizado no objeto de cliente potencial no Salesforce deve ser map
 >
 >**Mergulho profundo**
 >
->Aqui está um link para um [vídeo de todo o procedimento](https://nation.marketo.com/videos/1475) que deveria deixar isso bem claro!
+>Aqui está um link para um [vídeo de todo o procedimento](https://nation.marketo.com/videos/1475) que deve deixar isso bem claro!
 
 >[!NOTE]
 >
