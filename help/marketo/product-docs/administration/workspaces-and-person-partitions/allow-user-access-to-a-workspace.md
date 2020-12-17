@@ -29,11 +29,11 @@ Os espaços de trabalho podem ser por qualquer motivo (como unidade de negócios
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. Na guia **Usuários **, selecione o usuário e clique em **Editar usuário**.
+1. Na guia **Usuários **usuários, selecione o usuário e clique em **Editar usuário**.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
-1. Selecione a **função e o espaço de trabalho** ao qual deseja que o usuário tenha acesso.
+1. Selecione as **Função e Workspace** às quais deseja que o usuário tenha acesso.
 
    >[!NOTE]
    >
