@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Veja como alterar o tipo de campo de um Campo personalizado.
 
-1. Vá para **Admin **e clique em Gerenciamento **** de campo.
+1. Vá para **Admin **e clique em **Gerenciamento de campo**.
 
    ![](assets/image2014-9-18-13-3a4-3a39.png)
 
@@ -23,7 +23,7 @@ Veja como alterar o tipo de campo de um Campo personalizado.
 
    ![](assets/image2014-9-18-13-3a4-3a48.png)
 
-1. Na lista suspensa Ações **de** campo, clique em **Alterar tipo**.
+1. Na lista suspensa **Ações de campo**, clique em **Alterar tipo**.
 
    ![](assets/image2014-9-18-13-3a4-3a57.png)
 
