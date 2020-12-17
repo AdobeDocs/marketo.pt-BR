@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Se a Autenticação Multifator (MFA) estiver ativada para sua Sincronização Dinâmica, você deverá desativá-la para que a Dinâmica seja sincronizada corretamente com o Marketo. Para obter informações adicionais, entre em contato com o suporte [do](http://nation.marketo.com/community/support_solutions)Marketing.
+>Se a Autenticação Multifator (MFA) estiver ativada para sua Sincronização Dinâmica, você deverá desativá-la para que a Dinâmica seja sincronizada corretamente com o Marketo. Para obter informações adicionais, entre em contato com o [Suporte do Marketing](http://nation.marketo.com/community/support_solutions).
 
 ## Executar Validar sincronização no Marketo {#run-validate-sync-in-marketo}
 
@@ -29,23 +29,23 @@ ht-degree: 0%
 
    ![](assets/image2015-9-28-16-3a10-3a47.png)
 
-1. Clique na guia **Validar configuração** de sincronização.
+1. Clique na guia **Validar configuração de sincronização**.
 
    ![](assets/image2015-9-28-16-3a11-3a45.png)
 
-1. Digite seu nome de usuário, senha e URL (a ID do cliente e o segredo do cliente são opcionais). Clique em **Avançar** quando terminar.
+1. Digite seu nome de usuário, senha e URL (a ID do cliente e o segredo do cliente são opcionais). Clique em **Próximo** quando terminar.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >Se você já tiver sincronizado antes, o **CRM** na árvore esquerda lerá o **Microsoft Dynamics** e os dados no formulário acima poderão ser pré-preenchidos.
+   >Se você tiver sincronizado antes, o **CRM** na árvore esquerda exibirá **Microsoft Dynamics**, e os dados no formulário acima poderão ser pré-preenchidos.
 
 1. Se tudo estiver bem, a opção Validar sincronização gerará uma lista de verificação cheia de marcas de seleção verdes ![—](assets/check.png).
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Se você vir um ![—](assets/delete.png), então essa etapa tem um problema. Consulte [Corrigir problemas](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) de sincronização de validação dinâmica para identificar e corrigir o problema. Em seguida, execute novamente as etapas de validação de sincronização até que o resultado se pareça com a imagem acima.
+1. Se você vir um ![—](assets/delete.png), essa etapa apresenta um problema. Consulte [Corrigir problemas de sincronização de validação dinâmica](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) para identificar e corrigir o problema. Em seguida, execute novamente as etapas de validação de sincronização até que o resultado se pareça com a imagem acima.
 
    >[!CAUTION]
    >
