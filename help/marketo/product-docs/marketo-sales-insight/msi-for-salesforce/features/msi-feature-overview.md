@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visão geral dos recursos do MSI {#msi-feature-overview}
+# Visão geral do recurso MSI {#msi-feature-overview}
 
 O MSI tem os seguintes recursos disponíveis no Salesforce Lightning e Classic.
 
@@ -97,7 +97,7 @@ Campos:
 
 * Insight de vendas - Abre a página de lista completa do contato
 
-Os seguintes recursos **não estão disponíveis** na página Layout da conta:
+Os seguintes recursos estão **indisponíveis** na página Layout da conta:
 
 * Ações: Adicionar à Campanha de marketing, Enviar email de marketing, Adicionar/Remover da Lista de monitoramento
 * Estrelas e chamas
@@ -115,7 +115,7 @@ Campos:
 * Insight de vendas - Abre a página de lista completa do contato
 * Análise de oportunidade de marketing - abre o Analisador de influência de oportunidade no Marketo
 
-Os seguintes recursos **não estão disponíveis** na página Layout de oportunidade:
+Os seguintes recursos estão **indisponíveis** na página Layout de oportunidade:
 
 * Ações: Adicionar à Campanha de marketing, Enviar email de marketing, Adicionar/Remover da Lista de monitoramento
 * Estrelas e chamas
@@ -126,7 +126,7 @@ Relâmpago Salesforce: Adicione à lista de monitoramento, adicione à Campanha 
 
 Salesforce Classic: Adicione aos botões de ação em massa Lista de observação, Adicionar à Campanha de marketing e Enviar por email para marketing na visualização de lista de cliente potencial e contato.
 
-## Guia de marketing {#marketo-tab}
+## Guia Marketo {#marketo-tab}
 
 * Melhores propostas
 
@@ -162,7 +162,7 @@ Salesforce Classic: Adicione aos botões de ação em massa Lista de observaçã
    * opção Assinar para receber uma notificação por email para esse tipo de evento
    * O ícone de alta prioridade para mostrar a esta pessoa é a melhor aposta
 
-## Guia Configuração do Marketing para Sales Insight {#marketo-sales-insight-configuration-tab}
+## Guia Configuração do Marketing to Sales Insight {#marketo-sales-insight-configuration-tab}
 
 * Configurações operacionais: Inclui as credenciais da API Soap &amp; Rest necessárias para configurar o MSI no SFDC
 * Configuração MSI: Inclui a configuração da guia Marketo e do painel MSI visual force
