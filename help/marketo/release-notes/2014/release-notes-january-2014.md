@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Notas de versão: Janeiro de 2014 {#release-notes-january}
 
-Os seguintes recursos estão incluídos na versão de janeiro de 2014. Verifique a disponibilidade de recursos do [Marketing Edition](http://www.marketo.com/pricing/) .
+Os seguintes recursos estão incluídos na versão de janeiro de 2014. Verifique sua [Edição de marketing](http://www.marketo.com/pricing/) para obter informações sobre a disponibilidade de recursos.
 
 ## Forms 2.0 {#forms}
 
-Atenção: A documentação do Forms 2.0 estará disponível em breve. Enquanto isso, aprenda mais abaixo, e no vídeo [de introdução](http://docs.marketo.com/display/docs/forms)!
+Atenção: A documentação do Forms 2.0 estará disponível em breve. Enquanto isso, saiba mais abaixo e no [vídeo de introdução](http://docs.marketo.com/display/docs/forms)!
 
 Assuma o controle do processo de criação de formulários e dê uma pausa aos desenvolvedores da Web. [O Forms](http://docs.marketo.com/display/docs/forms) 2.0 foi projetado para capacitar os profissionais de marketing a criar formulários visualmente e funcionalmente robustos sem precisar de conhecimento de programação.
 
@@ -38,17 +38,17 @@ Foram-se os dias de levantamento do código html de formulários colocados em la
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Saiba mais com o vídeo [de introdução do](http://docs.marketo.com/display/docs/forms)Forms 2.0. (A documentação que chega ao mergulho profundo da [Forms](http://docs.marketo.com/display/docs/forms) em breve!)
+Saiba mais sobre o [vídeo de introdução do Forms 2.0](http://docs.marketo.com/display/docs/forms). (A documentação chegando ao aprofundamento [Forms](http://docs.marketo.com/display/docs/forms) em breve!)
 
 ## Limites de comunicação para Programa de email {#communication-limits-for-email-program}
 
-[Defina Limites de comunicação em um programa](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) de email para garantir que você não se comunique demais com seu banco de dados. Se uma pessoa estiver acima do limite definido, ela não receberá o email.
+[Defina Limites de comunicação em um ](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) programa de email para garantir que você não se comunique demais com seu banco de dados. Se uma pessoa estiver acima do limite definido, ela não receberá o email.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Campos adicionais na Análise de associação ao Programa {#additional-fields-in-program-membership-analysis}
 
-Agora você pode adicionar e agrupar suas métricas de Análise [de associação ao](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) Programa por atributos de cliente potencial e empresa. Por exemplo, você pode adicionar o campo Indústria para ver a divisão dos membros e sucessos do programa.
+Agora você pode adicionar e agrupar suas métricas [Análise de associação ao Programa](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) por atributos de cliente potencial e empresa. Por exemplo, você pode adicionar o campo Indústria para ver a divisão dos membros e sucessos do programa.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)
 
