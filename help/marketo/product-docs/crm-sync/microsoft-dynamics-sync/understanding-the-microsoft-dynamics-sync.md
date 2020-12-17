@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Como entender o Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
+# Noções Gerais da Sincronização do Microsoft Dynamics {#understanding-the-microsoft-dynamics-sync}
 
 O Marketo e o Microsoft Dynamics estão juntos. Mantemos seus dados de vendas e marketing sincronizados.
 
@@ -41,9 +41,9 @@ A sincronização entre o Marketing e o Dynamics é bidirecional para clientes p
 
 >[!NOTE]
 >
->As [credenciais inseridas no Marketo para Dinâmicas](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) são usadas para sincronizar dados.
+>As credenciais [inseridas no Marketo para Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) são usadas para sincronizar dados.
 
-Há muitas nuances e recursos sobre a sincronização do Dynamics. Confira os detalhes na seção [Detalhes da Sincronização do](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)Microsoft Dynamics.
+Há muitas nuances e recursos sobre a sincronização do Dynamics. Confira os detalhes na seção [Detalhes do Microsoft Dynamics Sync](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details).
 
 >[!CAUTION]
 >
