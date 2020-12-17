@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Deseja excluir uma página? Sem suor, eis como:
 
-1. Vá para a seção **Páginas** .
+1. Vá para a seção **Páginas**.
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
