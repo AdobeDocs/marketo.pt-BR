@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Membros da Campanha inteligente da visualização {#view-smart-campaign-members}
+# Membros de Campanha inteligente de visualização {#view-smart-campaign-members}
 
 Visualizações que já passaram pelo fluxo de campanhas inteligente; ou seja, membros de campanhas inteligentes.
 
@@ -27,7 +27,7 @@ Visualizações que já passaram pelo fluxo de campanhas inteligente; ou seja, m
 >
 >Você pode visualização membros da campanha de qualquer lugar em uma campanha inteligente.
 
-1. A guia Membros **da** Campanha mostra as pessoas que já passaram pelo fluxo da campanha inteligente.
+1. A guia **Membros da Campanha** mostra as pessoas que já foram executadas pelo fluxo de campanha inteligente.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
@@ -40,7 +40,7 @@ Visualizações que já passaram pelo fluxo de campanhas inteligente; ou seja, m
    >**Mergulho profundo**
    >
    >
-   >Saiba mais sobre o que você pode fazer com o [lista](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Saiba mais sobre o que você pode fazer com [lista](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
    >[!NOTE]
    >
