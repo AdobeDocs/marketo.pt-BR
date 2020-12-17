@@ -21,7 +21,7 @@ A sincronização é bidirecional. Se você fizer alterações em um cliente pot
 
 >[!NOTE]
 >
->As exclusões nem sempre são sincronizadas automaticamente em ambas as direções. Consulte [Excluindo um Cliente Potencial ou Contato](http://docs.marketo.com/x/agO1Ag).
+>As exclusões nem sempre são sincronizadas automaticamente em ambas as direções. Consulte [Excluindo um cliente potencial ou Contato](http://docs.marketo.com/x/agO1Ag).
 
 ## E se forem feitas alterações no mesmo campo em ambos os sistemas ao mesmo tempo? (Colisão de dados) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -29,7 +29,7 @@ Embora seja raro, o Marketo ganhará por pessoas (clientes potenciais) e o Dynam
 
 ## Posso criar uma perspectiva de venda no Dynamics usando o Marketo? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Sim, use a ação de fluxo [Sincronizar Pessoa com Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) . Isso criará um cliente potencial no Dynamics se o cliente potencial não existir. Se o cliente potencial existir, a etapa de fluxo não executará nenhuma ação.
+Sim, use a ação de fluxo [Sincronizar Pessoa com Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Isso criará um cliente potencial no Dynamics se o cliente potencial não existir. Se o cliente potencial existir, a etapa de fluxo não executará nenhuma ação.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Não, a sincronização em segundo plano automatizada é a única maneira de sin
 
 ## Quais campos serão sincronizados com o Marketo? {#what-fields-will-sync-to-marketo}
 
-É possível [selecionar campos para sincronização](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) durante a configuração.
+Você pode [selecionar campos para sincronizar](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) durante a configuração.
 
 ## O Marketo respeitará as regras de validação do Dynamics? {#will-marketo-respect-the-dynamics-validation-rules}
 
