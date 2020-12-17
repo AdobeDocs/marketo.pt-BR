@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Os programas são um dos elementos mais importantes do mercado. Você vai usá-los muito!
 
-1. Vá para Atividades **de marketing.**
+1. Vá para **Atividades de marketing.**
 
    ![](assets/login-marketing-activities.png)
 
