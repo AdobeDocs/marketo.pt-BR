@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# PAINEL principal ABM {#abm-main-dashboard}
+# PAINEL principal do ABM {#abm-main-dashboard}
 
 O painel principal fornece um resumo dos esforços de Marketing baseado em conta. Você pode ver as contas do público alvo ou listas de conta que estão mostrando sucesso, e aquelas que precisam de mais atenção.
 
@@ -25,7 +25,7 @@ Para filtrar por lista de conta, clique no menu suspenso Visualização...
 
 ![](assets/three.png)
 
-Para visualização do Painel [da Lista da](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)Conta, clique no nome da lista da conta selecionada...
+Para visualização do [Painel de Lista de conta](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard), clique no nome da lista de conta selecionada...
 
 ![](assets/four.png)
 
@@ -37,7 +37,7 @@ Se, em vez de exibir o Painel Lista Conta que deseja detalhar em uma conta nomea
 
 ![](assets/six.png)
 
-...e visualização os insights [da conta](http://docs.marketo.com/display/DOCS/Named+Account+Insights)nomeada.
+...e visualização os [insights da conta nomeada](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
 
 ![](assets/seven.png)
 
