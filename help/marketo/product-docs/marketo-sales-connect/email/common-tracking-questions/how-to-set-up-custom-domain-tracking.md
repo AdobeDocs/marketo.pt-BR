@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Damos a você a opção de configurar o rastreamento de domínio personalizado para seus links. Assim, quando alguém passar o mouse sobre um link, ele lerá &quot;go.suaempresa.com&quot; em vez de &quot;go.toutapp.com&quot;.
 
-Para configurar isso, o administrador de TI precisa seguir as etapas listadas em nossa página [de](http://toutapp.com/custom_tracking_domain)configurações.
+Para configurar isso, o administrador de TI precisa seguir as etapas listadas em nossa [página de configurações](http://toutapp.com/custom_tracking_domain).
 
 Depois de configurada, lista de permissões qualquer link que você tiver no seu email será exibido como &quot;go.suaempresa.com&quot;.
