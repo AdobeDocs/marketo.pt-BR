@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Para ver o desempenho de seus e-mails com estatísticas como entregues, abertas, clicadas etc., crie um Relatório de desempenho de e-mail.
 
-1. [Crie um relatório em um Programa](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o Tipo **de** relatório de desempenho [de](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)email.
-1. [Altere o Quadro](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) de tempo do relatório e clique na guia **Relatório** .
+1. [Crie um relatório em um ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa e selecione o Tipo **de relatório** [Desempenho ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)de email.
+1. [Altere o ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) Quadro de tempo do relatório e clique na guia  **** Relatório.
 1. Você está aí! Agora, explore o relatório para ver como seus e-mails foram executados.
 
    >[!NOTE]
@@ -32,9 +32,9 @@ Para ver o desempenho de seus e-mails com estatísticas como entregues, abertas,
    >[!NOTE]
    >
    >
-   >Um relatório de desempenho de email inclui atividades para todas as pessoas, incluindo aquelas que foram excluídas desde que o email foi enviado. Às vezes, você quer ver atividades somente para pessoas ativas. Nesse caso, é necessário filtrar as pessoas excluídas do seu relatório. Use a guia Lista **** inteligente para [criar uma lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) inteligente para o relatório. Se você não estiver filtrando em nenhum campo específico, defina o filtro Endereço de email como: **não está vazio**.
+   >Um relatório de desempenho de email inclui atividades para todas as pessoas, incluindo aquelas que foram excluídas desde que o email foi enviado. Às vezes, você quer ver atividades somente para pessoas ativas. Nesse caso, é necessário filtrar as pessoas excluídas do seu relatório. Use a guia **Lista inteligente** para [criar uma lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para o relatório. Se você não estiver filtrando em nenhum campo específico, defina o filtro Endereço de email como: **não está vazio**.
 
-   [A seleção de Colunas](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) de relatório para um relatório de Desempenho de email inclui:
+   [Selecionar ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) colunas de relatório para um relatório de desempenho de email incluem:
 
    | Coluna | Descrição |
    |---|---|
@@ -42,7 +42,7 @@ Para ver o desempenho de seus e-mails com estatísticas como entregues, abertas,
    | Rejeitado macio | O email foi rejeitado devido a uma condição temporária, como um servidor que estava inativo ou uma caixa de entrada completa. |
    | Pendente | Esse número é calculado subtraindo o número de emails entregues, retorcidos e retorcidos suaves do número total de Enviados. |
    | Link clicado | Número de recipient de email que clicaram em um link no email. |
-   | Inscrito | Número de recipient de email que clicaram no link **Cancelar inscrição** no email e preencheram o formulário. |
+   | Inscrito | Número de recipient de e-mail que clicaram no link **Cancelar assinatura** no e-mail e preencheram o formulário. |
 
    >[!NOTE]
    >
@@ -50,13 +50,13 @@ Para ver o desempenho de seus e-mails com estatísticas como entregues, abertas,
 
 Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por exemplo, se alguém clicou em um link em um email, obviamente eles abriram o email primeiro. Seguimos estas regras específicas para o Relatório de desempenho de email:
 
-* **Regra 1**: Cada registro de atividade de email é definido como um dos seguintes: *Entregues*, *com salto* intenso, *com salto suave* ou *pendentes*.
+* **Regra 1**: Cada registro de atividade de email é definido como um dos seguintes:  *Entregues*,  *com salto* intenso,  *com salto suave* ou  *pendentes*.
 
-* **Regra 2**: Se o registro de email mostrar *Aberto*, ele será contado como *Entregue*.
+* **Regra 2**: Se o registro de email mostrar  *Aberto*, ele será contado como  *Entregue*.
 
-* **Regra 3**: Se o registro de email mostrar Email ** clicado ou *Cancelado*, ele será contado como *Entregue* e *Aberto*.
+* **Regra 3**: Se o registro de e-mail mostrar  *Clicked* Emailor  *Unsubscription*, ele será contado como  ** Deliveredand  *Open (Entregue e aberto*).
 
-* **Regra 4**: Se o email estiver *aberto*, as rejeições serão ignoradas. Se o e-mail não foi aberto, o *Hard Bained* terá precedência sobre o *Soft Bained* e o *Delivered*.
+* **Regra 4**: Se o email estiver  *aberto*, as rejeições serão ignoradas. Se o e-mail não foi aberto, *Ritmo Rígido* tem precedência sobre *Ritmo Comprado* e *Entregue*.
 
 >[!NOTE]
 >
@@ -75,5 +75,5 @@ Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por ex
 >
 >**Mergulho profundo**
 >
->Saiba mais sobre o Relatórios [básico](http://docs.marketo.com/display/docs/basic+reporting).
+>Saiba mais em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
