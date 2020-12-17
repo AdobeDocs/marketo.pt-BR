@@ -29,11 +29,11 @@ Os emails operacionais ignoram os status Cancelado e Suspenso de Marketing. Eles
 >
 >Você deve usar somente emails operacionais para emails críticos e respondedores automáticos. Eles não são feitos para e-mails de marketing.
 
-1. Quando o editor abrir, clique em Configurações **de** email.
+1. Quando o editor abrir, clique em **Configurações de e-mail**.
 
    ![](assets/two-1.png)
 
-1. Marque Email **** operacional e clique em **Salvar**.
+1. Marque **Email Operacional** e clique em **Salvar**.
 
    ![](assets/three.png)
 
