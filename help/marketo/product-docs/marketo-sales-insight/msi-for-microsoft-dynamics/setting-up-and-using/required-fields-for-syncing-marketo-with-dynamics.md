@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Campos necessários para sincronizar o marketing com o Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
+# Campos obrigatórios para sincronização de marketing com o Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-Esses campos *devem* ser sincronizados com o Marketo para clientes potenciais e para que o Contact for Sales Insight funcione:
+Esses campos *devem* ser sincronizados com o Marketing para clientes potenciais e para que o Contato para o Sales Insight funcione:
 
 * Prioridade
 * Urgência
