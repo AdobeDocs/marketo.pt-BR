@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Precisa mover um email de um programa para outro? Veja como.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/one-2.png)
 
@@ -23,7 +23,7 @@ Precisa mover um email de um programa para outro? Veja como.
 
    ![](assets/leadperformance.jpg)
 
-1. Clique no menu suspenso **Mover para** e selecione **Atividades** de marketing.
+1. Clique no menu suspenso **Mover para** e selecione **Atividades de marketing**.
 
    ![](assets/three-2.png)
 
@@ -31,7 +31,7 @@ Precisa mover um email de um programa para outro? Veja como.
    >
    >Neste exemplo, estamos movendo um email para outro programa, mas você também pode mover um email para uma pasta no Design Studio.
 
-1. Clique na lista suspensa **Programa** , localize e selecione o programa de destino e clique em **Mover**.
+1. Clique na lista suspensa **Programa**, localize e selecione o programa de destino e clique em **Mover**.
 
    ![](assets/four-2.png)
 
