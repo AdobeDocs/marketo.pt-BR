@@ -28,34 +28,34 @@ Veja como criar um novo espaço de trabalho.
 >
 >**Mergulho profundo**
 >
->Compreenda primeiro com [Compreensão de espaços de trabalho e partições](understanding-workspaces-and-person-partitions.md)pessoais.
+>Compreenda primeiro com [Compreensão de espaços de trabalho e partições pessoais](understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Para saber mais sobre as práticas recomendadas do Workspace, entre em contato com o [Marketing Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38)Professional.
+>Para saber mais sobre as práticas recomendadas do Workspace, entre em contato com [Serviços profissionais do Marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
 
 1. Em **Admin**, clique em **Espaços de trabalho e partições**.
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
-1. Clique em **Novo espaço de trabalho**.
+1. Clique em **Nova Workspace**.
 
    ![](assets/two-1.png)
 
-1. Insira um** Nome** e selecione as Partições de **Pessoa que deseja usar** . Escolha uma Partição **de Pessoa** Principal.
+1. Digite um** Name** e selecione as **Partições da Pessoa** que deseja usar. Escolha uma **Partição de Pessoa Principal**.
 
    >[!NOTE]
    >
    >**Lembrete**
    >
    >
-   >Certifique-se de [criar partições](create-a-person-partition.md) de pessoa, caso ainda não o tenha feito.
+   >Certifique-se de [criar partições de pessoa](create-a-person-partition.md), caso ainda não o tenha feito.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >A caixa de seleção **All Person Partitions***** **significa que essa área de trabalho pode usar todas as partições de pessoa no sistema.
+   >A caixa de seleção **Todas as partições de pessoa****** significa que esta área de trabalho pode usar todas as partições de pessoa no sistema.
 
    >[!NOTE]
    >
