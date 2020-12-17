@@ -20,7 +20,7 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
    ![Imagem Um](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. Clique na guia **[!UICONTROL Streams]** .
+1. Clique na guia **[!UICONTROL Streams]**.
 
    ![Imagem dois](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
@@ -28,7 +28,7 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
    ![Imagem Três](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
-1. Deixe o [!UICONTROL Tipo] definido como Email e localize/selecione o email que deseja adicionar.
+1. Deixe [!UICONTROL Tipo] definido como Email e localize/selecione o email que deseja adicionar.
 
    ![Imagem quatro](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-4.png)
 
@@ -42,7 +42,7 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
    ![Imagem cinco](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. Clique na guia **[!UICONTROL Streams]** .
+1. Clique na guia **[!UICONTROL Streams]**.
 
    ![Imagem seis](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
@@ -50,7 +50,7 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
    ![Imagem sete](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
-1. Alterar [!UICONTROL Tipo] para Programa.
+1. Altere [!UICONTROL Type] para Programa.
 
    ![Imagem Oito](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-8.png)
 
