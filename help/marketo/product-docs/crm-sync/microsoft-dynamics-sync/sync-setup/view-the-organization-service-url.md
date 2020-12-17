@@ -15,7 +15,7 @@ ht-degree: 0%
 
 O Marketo precisa do URL do Serviço da Organização para sincronizar com as instâncias locais do Dynamics. Veja como encontrá-lo no Dynamics.
 
-1. Faça logon no Dynamics. Clique no ícone Configurações e selecione Configurações **** avançadas.
+1. Faça logon no Dynamics. Clique no ícone Configurações e selecione **Configurações avançadas**.
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ O Marketo precisa do URL do Serviço da Organização para sincronizar com as in
 
    ![](assets/two.png)
 
-1. Clique em Recursos **do** desenvolvedor.
+1. Clique em **Recursos do desenvolvedor**.
 
    ![](assets/three.png)
 
