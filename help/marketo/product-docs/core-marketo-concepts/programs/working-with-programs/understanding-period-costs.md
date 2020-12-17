@@ -23,7 +23,7 @@ Os custos do período se referem ao dinheiro que você gasta em um mês específ
 >
 >Se você gastar US$ 1.000 para contratar um ilustrador para um eBook que será lançado em julho - o programa do eBook terá um custo de US$ 1.000 em julho.
 >
->Se você gastar 200 dólares por mês no Google Adwords - o programa Google Adwords terá um custo de 200 dólares por período **todos os meses**.
+>Se você gastar $200 por mês no Google Adwords - o programa Google Adwords terá um custo de período de $200 **a cada mês**.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Imagine um evento, como um webinar, que ocorre em março. Novas pessoas são adq
 
    ![](assets/graph1.png)
 
-   ...os contatos adicionados nos meses anteriores e posteriores *só* contarão até março.
+   ...os contatos adicionados nos meses anteriores e posteriores serão contados *somente* até março.
 
    ![](assets/graph2.png)
 
@@ -66,7 +66,7 @@ Imagine um evento, como um webinar, que ocorre em março. Novas pessoas são adq
    >**Lembrete**
    >
    >
-   >Resumindo, os meses sem um período definido serão revertidos para trás até ao último que foi definido. Se não houver custo do período anterior, os meses serão encaminhados &quot;para a frente&quot; para o próximo que tiver sido definido. Se um custo de período não tiver sido definido por *nenhum* mês, o relatórios em RCE não estará disponível para o programa.
+   >Resumindo, os meses sem um período definido serão revertidos para trás até ao último que foi definido. Se não houver custo do período anterior, os meses serão encaminhados &quot;para a frente&quot; para o próximo que tiver sido definido. Se um custo de período não tiver sido definido para *qualquer* meses, o relatórios em RCE não estará disponível para o programa.
 
    >[!NOTE]
    >
