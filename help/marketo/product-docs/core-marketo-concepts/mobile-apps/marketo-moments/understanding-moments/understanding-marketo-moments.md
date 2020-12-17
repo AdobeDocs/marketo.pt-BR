@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Como entender os momentos de marketing {#understanding-marketo-moments}
+# Entendendo os momentos de marketing {#understanding-marketo-moments}
 
 O poder do Marketo está agora em suas mãos, literalmente! Pré-visualização e reagende emails diretamente do seu telefone ou iPad.
 
@@ -21,11 +21,11 @@ O poder do Marketo está agora em suas mãos, literalmente! Pré-visualização 
 >
 >A permissão Acessar aplicativos móveis é necessária. Entre em contato com seu Administrador de marketing para [atualizar sua função](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-## Apresentando momentos {#introducing-moments}
+## Apresentando Momentos {#introducing-moments}
 
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
 
-## Fluxos {#streams}
+## Streams {#streams}
 
 Aqui estão os diferentes fluxos em Moments.
 
@@ -49,15 +49,15 @@ Ok, agora que temos isso fora do caminho, vamos dar uma espiada no Marketo Momen
 
 O Marketo Moments oferece três cartões diferentes para acompanhar o progresso de seu email:
 
-**No-Deck** - Este e-mail está prestes a sair. É a sua última chance de pré-visualização, enviar uma amostra ou, mesmo, cancelá-la, se for necessário.
+**No-Deck**  - Este e-mail está prestes a sair. É a sua última chance de pré-visualização, enviar uma amostra ou, mesmo, cancelá-la, se for necessário.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**pulsação** - Ei - este e-mail está sendo entregue agora! E aqui estão as estatísticas também. Vá em frente e compartilhe-o.
+**pulsação**  - Ei - este e-mail está sendo entregue agora! E aqui estão as estatísticas também. Vá em frente e compartilhe-o.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Resultados** - Veja como o email foi feito. Depois que o e-mail terminar de ser executado, o cartão Resultados exibirá a pontuação de envolvimento e outras estatísticas.
+**Resultados**  - Veja como o email foi feito. Depois que o e-mail terminar de ser executado, o cartão Resultados exibirá a pontuação de envolvimento e outras estatísticas.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -105,7 +105,7 @@ A seção Mais tarde mostra as atividades futuras.
 
    >[!NOTE]
    >
-   >De acordo com o [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger), o maior hambúrguer do mundo pesava 2.014 lbs.
+   >De acordo com o Livro Guinness da World Records[, o maior hambúrguer do mundo pesava 2.014 lbs.](http://www.guinnessworldrecords.com/world-records/largest-hamburger)
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -123,7 +123,7 @@ Cartões de programa por email mostram coisas importantes como agendamento, audi
 
 ![](assets/image2015-6-29-15-3a31-3a57.png)
 
-## Placas de evento {#event-cards}
+## Cartões de evento {#event-cards}
 
 Para eventos, você verá o número total de membros e seu status.
 
@@ -147,7 +147,7 @@ Os cartões de campanha inteligente representam uma única execução de uma cam
 
 ## Confirmar ou Cancelar uma ação {#confirm-or-cancel-an-action}
 
-A cada etapa do caminho, você pode confirmar ou cancelar uma ação. Se você mudar de ideia, basta tocar em **Nunca se importar**.
+A cada etapa do caminho, você pode confirmar ou cancelar uma ação. Se você mudar de ideia, basta tocar em **Nunca menos**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -164,7 +164,7 @@ Pronto para aprender mais?
 
 
 
-## Versões suportadas  {#supported-versions}
+## Versões suportadas {#supported-versions}
 
 Marketo Moments suporta estas versões de sistema operacional:
 
