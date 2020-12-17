@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Uso da guia Ativos {#using-the-assets-tab}
+# Usando a guia Ativos {#using-the-assets-tab}
 
 A tela do ativo é uma representação visual do seu programa. É possível usá-lo para adicionar ativos locais, bem como interagir com os existentes.
 
 ## Adicionar ativos {#adding-assets}
 
-Na área **Atividades** de marketing, clique na guia **Ativos** . Escolha qualquer um dos ativos abaixo e adicione-os ao seu programa.
+Na área **Atividades de marketing**, clique na guia **Ativos**. Escolha qualquer um dos ativos abaixo e adicione-os ao seu programa.
 
 ![](assets/programassets.png)
 
-## Gerenciar seu Programa  {#manage-your-program}
+## Gerenciar seu Programa {#manage-your-program}
 
 Quando houver ativos em seu programa, você os verá listados aqui.
 
