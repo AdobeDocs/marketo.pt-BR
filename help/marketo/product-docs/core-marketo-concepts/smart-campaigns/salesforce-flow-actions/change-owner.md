@@ -27,7 +27,7 @@ Se você tiver pessoas já atribuídas a um proprietário, poderá usar essa eta
    >
    >O Salesforce não permite que contatos sejam atribuídos a filas de cliente potencial. Para um registro que seja um contato com a SFDC:
    >
-   >1. O Marketo criará um cliente potencial de duplicado **somente** quando o contato for sincronizado com o Salesforce. Em outras palavras, se você usar a etapa de fluxo **[Sincronizar pessoa com SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** `AssignTo=<a lead queue>`, o Marketo criará uma perspectiva de duplicado potencial no Salesforce e a atribuirá à fila de cliente potencial.
+   >1. O Marketo criará um cliente potencial de duplicado **only** quando o contato for sincronizado com o Salesforce. Em outras palavras, se você usar a etapa de fluxo **[Sincronizar Pessoa com SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** com `AssignTo=<a lead queue>`, o Marketo criará um cliente potencial de duplicado no Salesforce e o atribuirá à fila de cliente potencial.
       >
       >
    2. Se você tentar usar a etapa de fluxo **Alterar proprietário** em um contato, nenhum duplicado será criado no Salesforce.
