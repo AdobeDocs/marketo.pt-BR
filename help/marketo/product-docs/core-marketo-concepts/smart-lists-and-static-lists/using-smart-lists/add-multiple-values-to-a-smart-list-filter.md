@@ -22,17 +22,17 @@ ht-degree: 0%
 
 
 
-Digamos que você queira encontrar todos na Califórnia, mas você pode estar armazenando tanto a **Califórnia** quanto a **CA** em seu banco de dados. Para incluir todas as pessoas aplicáveis, você pode usar dois filtros **Estadual** , mas é mais fácil com um.
+Digamos que você queira encontrar todos na Califórnia, mas você pode estar armazenando ambos **Califórnia** e **CA** em seu banco de dados. Para incluir todas as pessoas aplicáveis, você pode usar dois filtros **State**, mas é mais fácil com um.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Localize e selecione uma lista inteligente e clique na guia Lista **** inteligente.
+1. Localize e selecione uma lista inteligente e clique na guia **Lista inteligente**.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Clique no sinal de **mais** no filtro.
+1. Clique no sinal de mais **** no filtro.
 
    ![](assets/smartlist-plussignhand-.png)
 
