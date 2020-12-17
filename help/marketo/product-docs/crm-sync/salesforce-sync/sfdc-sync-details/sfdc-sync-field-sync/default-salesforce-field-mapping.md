@@ -94,7 +94,7 @@ Quando você sincroniza inicialmente sua conta do Marketo com o Salesforce, o Ma
 | Tipo de conta | Tipo de SFDC |
 | Site | Site |
 
-## Campos de sistema relacionados ao Salesforce no Marketing (somente leitura) {#salesforce-related-system-fields-in-marketo-read-only}
+## Campos de sistema relacionados ao Salesforce no Marketo (somente leitura) {#salesforce-related-system-fields-in-marketo-read-only}
 
 Esses campos são criados no Marketo, mas não podem ser ajustados pelos clientes.
 
