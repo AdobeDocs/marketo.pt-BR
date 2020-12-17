@@ -23,15 +23,15 @@ ht-degree: 0%
 
 >
 >
-Entre em contato com o suporte [do](http://support.marketo.com) Marketo para ativar os Acionadores de alteração de objeto personalizados.
+Entre em contato com [Suporte a marketing](http://support.marketo.com) para ativar os Acionadores de alteração de objeto personalizados.
 
-Em uma lista inteligente de campanha inteligente, é possível acionar uma ação de fluxo quando um objeto personalizado é adicionado a uma pessoa ou empresa. Você também pode criar uma lista inteligente que usa uma *alteração* em um objeto personalizado como disparador. Por exemplo, use-o para enviar um email quando o nome de um curso for atualizado.
+Em uma lista inteligente de campanha inteligente, é possível acionar uma ação de fluxo quando um objeto personalizado é adicionado a uma pessoa ou empresa. Você também pode criar uma lista inteligente que usa *change* em um objeto personalizado como disparador. Por exemplo, use-o para enviar um email quando o nome de um curso for atualizado.
 
 >[!NOTE]
 >
 >Uma entrada de registro de atividades não é criada quando um registro de objeto personalizado é alterado.
 
-1. No Marketo, vá para Atividades **de marketing.**
+1. No Marketo, vá para **Atividades de marketing.**
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 
