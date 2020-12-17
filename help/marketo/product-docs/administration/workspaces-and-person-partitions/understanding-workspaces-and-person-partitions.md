@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Como entender espaços de trabalho e partições de pessoas {#understanding-workspaces-and-person-partitions}
+# Noções Gerais de Espaços de Trabalho e Partições de Pessoa {#understanding-workspaces-and-person-partitions}
 
-## Áreas de trabalho {#workspaces}
+## Espaços de trabalho {#workspaces}
 
 >[!CAUTION]
 >
->Os espaços de trabalho podem ser complexos de configuração.  Entre em contato com o suporte [da](http://support.marketo.com/) Marketo para saber se eles são adequados para você.
+>Os espaços de trabalho podem ser complexos de configuração.  Entre em contato com o [Suporte do Marketing](http://support.marketo.com/) para descobrir se eles são adequados para você.
 
 Os espaços de trabalho são áreas separadas no Marketing que contêm ativos de marketing, como programas, landings page, e-mails e muito mais. Eles podem ser usados por várias pessoas. Cada usuário tem acesso a um ou mais espaços de trabalho.
 
@@ -38,9 +38,9 @@ Em cada caso, a separação ocorre porque os ativos de marketing são completame
 >
 >**Mergulho profundo**
 >
->Saiba como criar um [novo espaço de trabalho](create-a-new-workspace.md).
+>Saiba como criar [um novo espaço de trabalho](create-a-new-workspace.md).
 
-## Compartilhamento em espaços de trabalho {#sharing-across-workspaces}
+## Compartilhamento entre espaços de trabalho {#sharing-across-workspaces}
 
 Veja como compartilhar ativos entre áreas de trabalho. Funciona da mesma forma para qualquer coisa que você queira compartilhar. este exemplo mostra segmentações.
 
@@ -82,7 +82,7 @@ Você pode compartilhar esses itens em áreas de trabalho.
 * [Segmentações](share-segmentations-across-workspaces-and-partitions.md)
 * Trechos
 
-## Clonagem em espaços de trabalho {#cloning-across-workspaces}
+## Clonagem entre espaços de trabalho {#cloning-across-workspaces}
 
 Para ativos que não são modelos, é melhor cloná-los como ativos locais dentro de um programa.  Com o nível de acesso adequado, você pode arrastar e soltar esses ativos em outro espaço de trabalho:
 
@@ -103,11 +103,11 @@ Para mover ativos para um novo espaço de trabalho, coloque-os em uma pasta e ar
 >
 >Não é possível mover um programa que contenha membros de um espaço de trabalho para outro.
 
-## Partições de Pessoa {#person-partitions}
+## Partições de Pessoas {#person-partitions}
 
-As partições de pessoa atuam como bancos de dados separados. Cada partição tem seu próprio povo que não desduplica nem se mistura com outras partições. Se achar que você tem um caso de uso comercial que pode exigir a existência de registros de duplicados com o mesmo endereço de email, entre em contato com o suporte [do](http://support.marketo.com)Marketing Cloud.
+As partições de pessoa atuam como bancos de dados separados. Cada partição tem seu próprio povo que não desduplica nem se mistura com outras partições. Se achar que você tem um caso de uso comercial que pode exigir a existência de registros de duplicados com o mesmo endereço de email, entre em contato com o [Suporte do Marketing](http://support.marketo.com).
 
-Você pode atribuir partições de pessoas a [espaços de trabalho](create-a-new-workspace.md) nas seguintes configurações:
+Você pode atribuir partições de pessoa a [espaços de trabalho](create-a-new-workspace.md) nas seguintes configurações:
 
 * um espaço de trabalho para uma partição de pessoa (1:1)
 * um espaço de trabalho para muitas partições de pessoa (1:x)
@@ -134,5 +134,5 @@ Você pode atribuir partições de pessoas a [espaços de trabalho](create-a-new
 >
 >**Mergulho profundo**
 >
-> Saiba como [criar uma partição](create-a-person-partition.md)de pessoa.
+> Saiba como [criar uma partição de pessoa](create-a-person-partition.md).
 
