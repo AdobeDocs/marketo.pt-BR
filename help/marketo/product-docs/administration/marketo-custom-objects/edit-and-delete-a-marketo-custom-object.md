@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Use o menu Ações de objeto personalizadas para editar ou excluir um objeto personalizado.
 
-1. Clique em **Admin** e, em Gerenciamento **de** banco de dados, selecione **Marketo Custom Objects**.
+1. Clique em **Admin** e, em **Gerenciamento de banco de dados**, selecione **Objetos personalizados de marketing**.
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
@@ -29,7 +29,7 @@ Use o menu Ações de objeto personalizadas para editar ou excluir um objeto per
 
    ![](assets/image2016-1-18-13-3a33-3a11.png)
 
-1. Clique na guia Ações **de objeto** personalizado e clique em **Editar objeto**.
+1. Clique na guia **Ações de objeto personalizado** e clique em **Editar objeto**.
 
    ![](assets/image2015-9-23-11-3a37-3a44.png)
 
@@ -41,7 +41,7 @@ Use o menu Ações de objeto personalizadas para editar ou excluir um objeto per
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. Certifique-se de aprovar [o objeto](approve-a-custom-object.md)editado.
+1. Certifique-se de aprovar [o objeto editado](approve-a-custom-object.md).
 
 ## Excluir um objeto personalizado {#delete-a-custom-object}
 
@@ -51,7 +51,7 @@ Use o menu Ações de objeto personalizadas para editar ou excluir um objeto per
 >
 >Não é possível restaurar um objeto personalizado após excluí-lo.
 
-1. Clique em **Admin** e, em Gerenciamento **de** banco de dados, selecione **Marketo Custom Objects**.
+1. Clique em **Admin** e, em **Gerenciamento de banco de dados**, selecione **Objetos personalizados de marketing**.
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
@@ -59,7 +59,7 @@ Use o menu Ações de objeto personalizadas para editar ou excluir um objeto per
 
    ![](assets/image2015-9-23-16-3a29-3a5.png)
 
-1. Clique em Ações **de objeto** personalizado e selecione **Excluir objeto**.
+1. Clique em **Ações de objeto personalizado** e selecione **Excluir objeto**.
 
    ![](assets/image2015-9-23-11-3a39-3a5.png)
 
@@ -71,7 +71,7 @@ Use o menu Ações de objeto personalizadas para editar ou excluir um objeto per
 
    ![](assets/image2015-9-23-16-3a31-3a2.png)
 
-1. Se o objeto personalizado já estiver aprovado, há maior risco se você excluí-lo. Então, você vai receber esse aviso mais forte. Digite **I learn**(Compreendo), marque a caixa de seleção **Cannot Undo (Não é possível desfazer** ) e clique em **Delete (Excluir**).
+1. Se o objeto personalizado já estiver aprovado, há maior risco se você excluí-lo. Então, você vai receber esse aviso mais forte. Digite **Entendo**, marque a caixa de seleção **Não é possível desfazer** e clique em **Excluir**.
 
    ![](assets/image2016-1-15-9-3a49-3a38.png)
 
