@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Excluir um modelo {#delete-a-template}
+# Excluir um Modelo {#delete-a-template}
 
 Siga estas etapas simples para excluir um modelo.
 
@@ -20,6 +20,6 @@ Siga estas etapas simples para excluir um modelo.
 >A exclusão de um modelo também excluirá TODOS os rastreamentos e análises associados a ele.
 
 1. Selecione o modelo que deseja remover.
-1. Clique no menu suspenso na parte superior direita e clique em **Excluir**.
+1. Clique no menu suspenso na parte superior direita e, em seguida, clique em **Excluir**.
 1. Clique em **Excluir** para confirmar.
 
