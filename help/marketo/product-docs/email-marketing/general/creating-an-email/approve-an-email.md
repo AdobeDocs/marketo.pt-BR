@@ -15,14 +15,14 @@ ht-degree: 0%
 
 Emails de start no estado de rascunho. Eles geralmente ficam indisponíveis no sistema até que você os aprove. Há algumas maneiras de aprovar um email.
 
-## Aprovar usando o menu Ações de e-mail {#approve-it-using-the-email-actions-menu}
+## Aprove-o usando o menu Ações de e-mail {#approve-it-using-the-email-actions-menu}
 
-1. Localize e selecione seu email, clique no menu suspenso Ações **de** email e selecione **Aprovar**.
+1. Localize e selecione seu email, clique no menu suspenso **Ações de email** e selecione **Aprovar**.
 
    ` ![](assets/one.png)  
 `
 
-## Aprová-lo diretamente na árvore {#approve-it-directly-in-the-tree}
+## Aprove-o diretamente na árvore {#approve-it-directly-in-the-tree}
 
 1. Localize e selecione seu e-mail, clique com o botão direito do mouse nele e selecione **Aprovar**.
 
@@ -30,7 +30,7 @@ Emails de start no estado de rascunho. Eles geralmente ficam indisponíveis no s
 
 ## Aprove seu email no Editor de email {#approve-your-email-in-the-email-editor}
 
-1. Em seu email, clique no menu suspenso Ações **de** email e selecione **Aprovar e fechar**.
+1. Em seu email, clique no menu suspenso **Ações de email** e selecione **Aprovar e fechar**.
 
    ![](assets/three.png)
 
