@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Download do registro de Atividades do GoogleAdwords {#download-googleadwords-activity-log}
+# Baixar o log de Atividades do GoogleAdwords {#download-googleadwords-activity-log}
 
 Coisas acontecem. Às vezes, é necessário baixar o registro de atividades para solucionar problemas.
 
@@ -19,7 +19,7 @@ Coisas acontecem. Às vezes, é necessário baixar o registro de atividades para
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. Localize o serviço Google AdWords e clique em **Baixar log** de Atividades.
+1. Localize o serviço Google AdWords e clique em **Baixar log de Atividades**.
 
    ![](assets/image2015-4-22-17-3a49-3a49.png)
 
