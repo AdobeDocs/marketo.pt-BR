@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sincronização SFDC: Fila de cliente potencial {#sfdc-sync-lead-queue}
 
-O Marketo permite que você adicione pessoas às filas [de clientes potenciais do](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) Salesforce para ajudar na distribuição de clientes potenciais. Aqui estão os detalhes.
+O Marketo permite que você adicione pessoas a [filas de clientes potenciais do Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) para ajudar na distribuição de clientes potenciais. Aqui estão os detalhes.
 
 ## Como atribuir uma pessoa a uma fila no Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
