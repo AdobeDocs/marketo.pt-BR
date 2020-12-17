@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Configuração de perfil de conta {#setting-up-account-profiling}
+# Configurando a criação de perfil de conta {#setting-up-account-profiling}
 
 Siga estas etapas para start usando a Definição de perfil de conta.
 
-1. Em Meu mercado, abra Marketing **baseado em** conta.
+1. Em Meu Marketo, abra **Marketing baseado em conta**.
 
    ![](assets/one.png)
 
@@ -35,7 +35,7 @@ Siga estas etapas para start usando a Definição de perfil de conta.
 
    ![](assets/five.png)
 
-1. Para ver os resultados do modelo, clique em **Ver Resultado** do Modelo.
+1. Para ver os resultados do modelo, clique em **Consulte Resultado do modelo**.
 
    ![](assets/six.png)
 
@@ -45,5 +45,5 @@ Siga estas etapas para start usando a Definição de perfil de conta.
 
    >[!TIP]
    >
-   >Agora que seu modelo foi criado, saiba como ajustá-lo na Visão geral [de criação de perfil de](http://docs.marketo.com/x/NIDv)conta.
+   >Agora que seu modelo foi criado, aprenda a ajustá-lo na [Visão geral de criação de perfil de conta](http://docs.marketo.com/x/NIDv).
 
