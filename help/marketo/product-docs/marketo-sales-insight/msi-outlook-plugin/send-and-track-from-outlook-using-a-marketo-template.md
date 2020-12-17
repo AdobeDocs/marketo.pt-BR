@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se sua equipe de marketing disponibilizou modelos para você, veja como usá-los para economizar tempo ao compor seus emails.
 
-1. Abra o Microsoft Outlook e clique em Mensagem **de** marketing.
+1. Abra o Microsoft Outlook e clique em **Mensagem de Marketo**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
