@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# O Painel de envolvimento {#the-engagement-dashboard}
+# O Painel Envolvimento {#the-engagement-dashboard}
 
-O Painel de envolvimento é a maneira mais fácil de ver o desempenho do conteúdo em seus programas [de](http://docs.marketo.com/display/docs/drip+nurturing) envolvimento.
+O Painel Envolvimento é a maneira mais fácil de ver o desempenho do conteúdo em seus [programas de envolvimento](http://docs.marketo.com/display/docs/drip+nurturing).
 
 >[!NOTE]
 >
->A pontuação de envolvimento é calculada 72 horas após cada conversão. Saiba mais sobre a pontuação [de](understanding-the-engagement-score.md)envolvimento.
+>A pontuação de envolvimento é calculada 72 horas após cada conversão. Saiba mais sobre a [pontuação de envolvimento](understanding-the-engagement-score.md).
 
-## Visualização do Painel de envolvimento {#view-the-engagement-dashboard}
+## Visualização do Painel Envolvimento {#view-the-engagement-dashboard}
 
 Selecione seu programa de envolvimento e clique em **Visualização > Painel**.
 
@@ -27,7 +27,7 @@ Selecione seu programa de envolvimento e clique em **Visualização > Painel**.
 
 >[!TIP]
 >
->Consulte o relatório [de desempenho do fluxo de](engagement-stream-performance-report.md) envolvimento para obter estatísticas mais detalhadas.
+>Consulte o [relatório de desempenho de fluxo de envolvimento](engagement-stream-performance-report.md) para obter estatísticas mais detalhadas.
 
 ## Entenda o Widget de exaustão {#understand-the-exhaustion-widget}
 
@@ -37,13 +37,13 @@ Este widget ajuda você a antecipar quando os clientes em potencial terão esgot
 
 >[!NOTE]
 >
->Você deve acessar a guia Configuração e verificar se as Notificações de conteúdo esgotadas estão **ativadas** para ver o gráfico acima. Se estiverem fora, o gráfico parecerá diferente.
+>Você deve acessar a guia Configuração e verificar se as Notificações de conteúdo esgotadas estão **Ativadas** para ver o gráfico acima. Se estiverem fora, o gráfico parecerá diferente.
 
 >[!CAUTION]
 >
 >As pessoas que estão &quot;exaustas&quot; não receberão nenhuma comunicação no próximo elenco.
 
-## Entender o widget Envolvimento ao longo do tempo {#understand-the-engagement-over-time-widget}
+## Entenda o Widget Envolvimento ao longo do tempo {#understand-the-engagement-over-time-widget}
 
 Mostra a pontuação de envolvimento média ao longo do tempo e o impacto das edições de conteúdo.
 
@@ -59,7 +59,7 @@ Para mostrar um único conteúdo em vez de uma média, clique no ícone de engre
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## Entenda o widget de maior envolvimento {#understand-the-highest-engagement-widget}
+## Entenda o Widget de maior envolvimento {#understand-the-highest-engagement-widget}
 
 Uma lista de todo o conteúdo, ordenada pela pontuação de envolvimento mais alta.
 
@@ -69,11 +69,11 @@ Para alterar a classificação, clique no ícone de engrenagem e selecione a ord
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*Mais recentes* e *mais antigos* são baseados na hora da última aprovação.
+** Novo e  ** Oldestare com base na hora da última aprovação.
 
 >[!NOTE]
 >
 >**Mergulho profundo**
 >
->Saiba mais no [aprofundamento de Criar um Programa](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) de envolvimento.
+>Saiba mais no mergulho profundo [Crie um Programa de envolvimento](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md).
 
