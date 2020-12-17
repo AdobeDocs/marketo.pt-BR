@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Atualize a solução Marketing Insight para Vendas do Microsoft Dynamics {#update-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Atualize a solução Marketing Insight para vendas do Microsoft Dynamics {#update-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 Quando uma nova solução do Microsoft Dynamics for lançada para o Sales Insight, você poderá baixar a atualização da área Admin em sua conta.
 
@@ -19,7 +19,7 @@ Quando uma nova solução do Microsoft Dynamics for lançada para o Sales Insigh
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a área **Admin** .
+1. Vá para a área **Admin**.
 
    ![](assets/mainnavhand.png)
 
@@ -27,7 +27,7 @@ Quando uma nova solução do Microsoft Dynamics for lançada para o Sales Insigh
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Selecione **Baixar solução** de marketing.
+1. Selecione **Baixar solução de marketing**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
