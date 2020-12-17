@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Às vezes é melhor simplesmente lista as regras. Aqui vamos nós:
 
-* Quando você mescla dois clientes potenciais no **Salesforce**, a sincronização normal informa ao Marketo e os clientes potenciais são mesclados automaticamente como pessoas no Marketo.
-* A fusão de duas pessoas no **Marketo** na verdade chama o mesmo processo de mesclagem que as lideranças no Salesforce. Ainda funciona automaticamente.
+* Quando você mescla dois clientes potenciais em **Salesforce**, a sincronização normal informa ao Marketo e os clientes potenciais são mesclados automaticamente como pessoas no Marketo.
+* A mesclagem de duas pessoas em **Marketo** chama o mesmo processo que mesclá-las como clientes potenciais no Salesforce. Ainda funciona automaticamente.
 * Mesclar um **cliente potencial (pessoa) em um contato** funciona da mesma maneira. Você acaba com um único contato de ambos os lados.
 * Ao mesclar, a pontuação padrão é resumida.
 
@@ -34,5 +34,5 @@ ht-degree: 0%
 >
 >**Mergulho profundo**
 >
->Mergulhe fundo para obter mais informações sobre como [unir pessoas no Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>Mergulhe fundo para obter mais informações sobre a união de [pessoas no Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
 
