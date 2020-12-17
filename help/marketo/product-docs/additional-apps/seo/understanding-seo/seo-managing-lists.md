@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - Gerenciamento de Listas {#seo-managing-lists}
+# SEO - Gerenciar Lista {#seo-managing-lists}
 
 Você pode adicionar coisas ao lista ao adicionar palavras-chave, páginas, problemas de página ou links de entrada. O Lista ajuda você a se manter organizado e permite que você filtre relatórios para ver somente os dados dessa lista. Veja como fazê-los:
 
@@ -29,7 +29,7 @@ Você pode adicionar coisas ao lista ao adicionar palavras-chave, páginas, prob
 
    >[!TIP]
    >
-   >Você pode criar uma nova lista no menu suspenso. Insira um título e pressione a tecla de retorno.  ![—](assets/image2014-9-18-13-3a25-3a8.png) >
+   >Você pode criar uma nova lista no menu suspenso. Insira um título e pressione a tecla de retorno.  ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
 
 1. Clique em **SALVAR**.
 
