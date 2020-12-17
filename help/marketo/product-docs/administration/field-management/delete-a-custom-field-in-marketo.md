@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Excluir um campo personalizado no Marketing {#delete-a-custom-field-in-marketo}
+# Excluir um campo personalizado em Marketo {#delete-a-custom-field-in-marketo}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Você pode querer se livrar de um campo criado no passado se não tiver mais uso para ele. Infelizmente, não é possível excluir campos no Marketo, mas você *pode* ocultá-los da interface do usuário.
 
-1. Em **Administrador**, vá para **Gerenciamento de campo **e selecione seu campo. Em Ações **de** campo, clique em **Ocultar campo**.
+1. Em **Admin**, vá para **Field Management **e selecione seu campo. Em **Ações de campo**, clique em **Ocultar campo**.
 
    ![](assets/image2014-9-19-9-3a49-3a10.png)
 
