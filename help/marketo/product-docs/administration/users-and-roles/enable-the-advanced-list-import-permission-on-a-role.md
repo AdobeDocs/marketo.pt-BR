@@ -31,7 +31,7 @@ O Modo de importação de lista só está disponível para usuários com uma fun
 
    ![](assets/image2014-9-17-11-3a51-3a49.png)
 
-1. Em Banco de dados de acesso, marque Importação **de Lista** avançada e clique em **Salvar**.
+1. Em Access Database, marque **Advanced Lista Import** e clique em **Save**.
 
    ![](assets/four-1.png)
 
