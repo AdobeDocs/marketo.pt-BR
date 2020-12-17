@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Adicionar colunas de status de Programa a um relatório de Programas {#add-program-status-columns-to-a-program-report}
+# Adicionar colunas de status de Programa a um relatório de Programa {#add-program-status-columns-to-a-program-report}
 
-Adicione estatísticas sobre o status do programa ao seu relatório [de desempenho do](create-a-program-performance-report.md)programa.
+Adicione estatísticas sobre o status do programa ao seu [relatório de desempenho do programa](create-a-program-performance-report.md).
 
 1. Vá para Atividades de marketing (ou Analytics).
 
@@ -45,7 +45,7 @@ Adicione estatísticas sobre o status do programa ao seu relatório [de desempen
 
 >[!NOTE]
 >
->Se você não vir uma coluna para cada status no programa, certifique-se de ter [selecionado as colunas para mostrar](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) no relatório.
+>Se você não vir uma coluna para cada status no programa, certifique-se de que [selecionou as colunas para mostrar](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) no relatório.
 
 >[!MORELIKETHIS]
 >
@@ -59,5 +59,5 @@ Adicione estatísticas sobre o status do programa ao seu relatório [de desempen
 >
 >**Mergulho profundo**
 >
->Saiba mais sobre o Relatórios [básico](http://docs.marketo.com/display/docs/basic+reporting).
+>Saiba mais em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
