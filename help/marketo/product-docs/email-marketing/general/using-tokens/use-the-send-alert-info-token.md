@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Usar o token Enviar informações de alerta {#use-the-send-alert-info-token-sp-send-alert-info}
 
-O `{{SP_Send_Alert_Info}}` token é um token especial a ser usado ao criar emails de alerta para sua equipe de vendas.
+O token `{{SP_Send_Alert_Info}}` é um token especial a ser usado ao criar emails de alerta para sua equipe de vendas.
 
 >[!TIP]
 >
->Este token só funciona conforme pretendido ao enviar o email que o contém com a etapa de fluxo de [Enviar alerta](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) . Ele não funcionará quando usado em uma etapa de fluxo Enviar e-mail.
+>Este token só funciona como esperado ao enviar o email que o contém com a etapa de fluxo [Enviar alerta](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Ele não funcionará quando usado em uma etapa de fluxo Enviar e-mail.
 
 Exemplo de alerta:   ![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->Atenção! Os URLs em alertas têm datas de expiração, portanto, verifique se eles têm uma cadência compatível com esses tipos de mensagens. As datas de expiração são [configuradas por um Administrador](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Atenção! Os URLs em alertas têm datas de expiração, portanto, verifique se eles têm uma cadência compatível com esses tipos de mensagens. As datas de expiração são [configuradas por um Admin](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
-As seguintes informações são incluídas como parte do `{{SP_Send_Alert_Info}}`:
+As seguintes informações estão incluídas como parte do `{{SP_Send_Alert_Info}}`:
 
 * Nome e sobrenome como um link para os detalhes da pessoa no Marketo
 * Um link para a pessoa em seu CRM
@@ -36,7 +36,7 @@ As seguintes informações são incluídas como parte do `{{SP_Send_Alert_Info}}
 >
 >O link para o CRM só será exibido se a pessoa estiver no sistema CRM (atualmente não disponível no Dynamics CRM). O link pode ser acessado por usuários do Marketing e não do Marketing.
 
-## Adicionar o token SP_Send_Alert_Info a um email {#add-the-sp-send-alert-info-token-to-an-email}
+## Adicione o token SP_Send_Alert_Info a um email {#add-the-sp-send-alert-info-token-to-an-email}
 
 1. Selecione o email e clique em **Editar rascunho**.
 
@@ -46,11 +46,11 @@ As seguintes informações são incluídas como parte do `{{SP_Send_Alert_Info}}
 
    ![](assets/two-3.png)
 
-1. Posicione o cursor no local desejado para o token e clique no botão **Inserir token** .
+1. Posicione o cursor no local desejado para o token e clique no botão **Inserir token**.
 
    ![](assets/three-3.png)
 
-1. Localize e selecione o **`{{SP_Send_Alert_Info}}`** token e clique em **Inserir**.
+1. Localize e selecione o token **`{{SP_Send_Alert_Info}}`** e clique em **Inserir**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
