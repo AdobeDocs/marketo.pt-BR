@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# SEO - Usar o Relatório de Tendências do KW do Concorrente {#seo-use-the-competitor-kw-trends-report}
+# SEO - Usar o Relatório de Tendências KW do Concorrente {#seo-use-the-competitor-kw-trends-report}
 
 Neste relatório, você pode ver como você e seus concorrentes são classificados em palavras-chave ao longo do tempo.
 
-## Localizar relatórios {#find-reports}
+## Localizar Relatórios {#find-reports}
 
 1. Vá para **Relatórios**.
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Clique em Tendências **de classificação KW** competitivas.
+1. Clique em **Tendências de classificação KW competitivas**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
-## Gráfico de tendências de classificação do KW {#kw-rank-trends-graph}
+## Gráfico de tendências da classificação KW {#kw-rank-trends-graph}
 
 Este gráfico pode mostrar a porcentagem de suas palavras-chave classificadas em um intervalo especificado e como seus concorrentes são empilhados.
 
@@ -38,7 +38,7 @@ Este gráfico pode mostrar a porcentagem de suas palavras-chave classificadas em
 | % na classificação | A porcentagem de palavras-chave na classificação no intervalo que você definiu. |
 | Média pesquisas | O número médio de pesquisas nas palavras-chave que ocorreram durante o intervalo definido (nos últimos 30 dias, na pesquisa do Google US) |
 
-## Filtrar dados {#filtering-data}
+## Filtrando dados {#filtering-data}
 
 1. Clique na lista suspensa e selecione o período desejado.
 
@@ -48,7 +48,7 @@ Este gráfico pode mostrar a porcentagem de suas palavras-chave classificadas em
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exportação de dados  {#exporting-data}
+## Exportando dados {#exporting-data}
 
 >[!TIP]
 >
