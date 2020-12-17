@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Adicionar um campo do Salesforce existente à sincronização de marketing {#add-an-existing-salesforce-field-to-the-marketo-sync}
+# Adicionar um campo Salesforce existente à sincronização de marketing {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Normalmente, os novos campos personalizados no Salesforce são sincronizados aut
 
    ![](assets/image2015-6-30-14-3a20-3a6.png)
 
-1. Digite o **perfil** na barra de pesquisa esquerda e clique em **Perfis** em **Gerenciar usuários**.
+1. Digite **perfil** na barra de pesquisa esquerda e clique em **Perfis** em **Gerenciar usuários**.
 
    ![](assets/image2015-6-30-14-3a20-3a52.png)
 
@@ -31,7 +31,7 @@ Normalmente, os novos campos personalizados no Salesforce são sincronizados aut
 
    ![](assets/image2015-6-30-14-3a23-3a41.png)
 
-1. Na seção Segurança **no nível do** campo, clique em **Visualização** ao lado do objeto que contém o campo.
+1. Na seção **Field-Level Security**, clique em **Visualização** ao lado do objeto que contém o campo.
 
    ![](assets/image2015-6-30-14-3a23-3a59.png)
 
