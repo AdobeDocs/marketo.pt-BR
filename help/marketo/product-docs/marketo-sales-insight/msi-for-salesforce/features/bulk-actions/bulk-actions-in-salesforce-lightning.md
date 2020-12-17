@@ -19,11 +19,11 @@ Veja como configurar ações em massa no Salesforce Lightning.
 
    ![](assets/one.png)
 
-1. Clique na guia Gerenciador **de** objetos.
+1. Clique na guia **Gerenciador de objetos**.
 
    ![](assets/two.png)
 
-1. Localize e selecione o rótulo **Lead** .
+1. Localize e selecione o rótulo **Lead**.
 
    ![](assets/three-2.png)
 
@@ -35,7 +35,7 @@ Veja como configurar ações em massa no Salesforce Lightning.
 
    ![](assets/five.png)
 
-1. Em Botões personalizados, localize e selecione **Adicionar à Campanha de marketing (relâmpagos)** e **Enviar e-mail de Marketo (relâmpagos)**. Clique no botão **Adicionar** .
+1. Em Botões personalizados, localize e selecione **Adicionar à Campanha de Marketo (relâmpago)** e **Enviar email de Marketo (relâmpago)**. Clique no botão **Adicionar**.
 
    ![](assets/six.png)
 
