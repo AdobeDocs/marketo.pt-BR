@@ -22,7 +22,7 @@ Configure a seguinte configuração para começar a usar o novo Painel do Insigh
 ## Configurar insight de vendas no Marketing {#configure-sales-insight-in-marketo}
 
 1. Abra uma nova guia no navegador para obter as credenciais do Marketing Sales Insights de sua conta de Marketing.
-1. Vá para a área **Admin** .
+1. Vá para a área **Admin**.
 
    ![](assets/configure-1.png)
 
@@ -38,15 +38,15 @@ Configure a seguinte configuração para começar a usar o novo Painel do Insigh
 
 ## Configurar insight de vendas no Salesforce {#configure-sales-insight-in-salesforce}
 
-1. No Salesforce, clique em **Configuração**.
+1. No Salesforce, clique em **Setup**.
 
    ![](assets/sfdc-1.png)
 
-1. Procure e selecione Configurações **de site** remoto.
+1. Procure e selecione **Configurações de site remoto**.
 
    ![](assets/sfdc-2.png)
 
-1. Clique em **Novo site** remoto.
+1. Clique em **Novo Site Remoto**.
 
    ![](assets/sfdc-3.png)
 
@@ -60,7 +60,7 @@ Configure a seguinte configuração para começar a usar o novo Painel do Insigh
 
    Agora você criou a configuração de site remoto para a Rest API.
 
-## Acessar informações de vendas de marketing {#access-marketo-sales-insight}
+## Acessar o Marketing to Sales Insight {#access-marketo-sales-insight}
 
 1. Copie as credenciais do painel da Rest API na página Admin do Marketing Insight de vendas. Cole-os na seção Rest API na página Sales Insight Configuration do Salesforce.
 1. Insira a chave secreta da API.
