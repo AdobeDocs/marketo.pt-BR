@@ -19,19 +19,19 @@ Com a ID universal, você ainda cria tíquetes de suporte para cada uma de suas 
 
 As configurações de nível de subscrição são respeitadas para usuários que usam a ID universal, por exemplo, funções, permissões e políticas de senha. As alterações no nível do perfil do usuário são refletidas em todas as subscrições, por exemplo, nome, sobrenome e endereço de email.
 
-## Configuração de uma ID universal {#setting-up-a-universal-id}
+## Configurando uma ID universal {#setting-up-a-universal-id}
 
-De cada instância individual, seu administrador do Marketo deve convidá-lo para cada uma de suas subscrições diferentes com o mesmo logon. O Marketo não pode unir seus logons existentes automaticamente. Após ativar a ID universal, **sua instância do Marketo estará indisponível** por até 30 minutos. Se você tiver uma base de usuários maior, pode ser um pouco mais.
+De cada instância individual, seu administrador do Marketo deve convidá-lo para cada uma de suas subscrições diferentes com o mesmo logon. O Marketo não pode unir seus logons existentes automaticamente. Depois que você ativar a ID universal, **sua instância do Marketo estará indisponível** por até 30 minutos. Se você tiver uma base de usuários maior, pode ser um pouco mais.
 
 >[!CAUTION]
 >
->Se a ID única ou a ID universal estiver ativada para um usuário, suas funções e espaços de trabalho **não** poderão ser editados após sua configuração inicial.
+>Se a ID única ou a ID universal estiver ativada para um usuário, suas funções e espaços de trabalho poderão **não** ser editados após sua configuração inicial.
 
 >[!NOTE]
 >
 >Se você tiver várias IDs de login de subscrição, também é possível ter vários perfis da comunidade. Certifique-se de escolher a ID da Universal que está conectada ao perfil que você deseja usar e que é para a instância de produção, não para a caixa de proteção.
 
-## Logon {#logging-in}
+## Logon em {#logging-in}
 
 Ao fazer logon para aceitar um convite para uma segunda subscrição usando uma ID universal, você verá a página de logon de aceitação. Aqui, você deve marcar uma caixa de seleção para aceitar os termos e condições. Depois de aceitar, você verá a página de redefinição normal, não esta, para quaisquer logons subsequentes. Ao aceitar os termos e condições, você está permitindo que o Marketo distribua seus dados básicos de perfil (como nome, sobrenome e endereço de email) para os data centers em diferentes locais onde sua subscrição está hospedada.
 
@@ -51,7 +51,7 @@ Com uma ID universal para várias subscrições, somente você pode alterar a se
 >
 >O Marketo solicitará aos usuários que desejam usar a ID universal que redefinam sua senha se a senha da subscrição atual não estiver em conformidade com a política de senha da segunda subscrição para a qual estão sendo convidados.
 
-## Alternar entre Subscrições {#switching-between-subscriptions}
+## Alternar entre Subscrição {#switching-between-subscriptions}
 
 Usando uma ID universal, é possível ver a subscrição na qual você está conectado e selecionar outras subscrições às quais você tem acesso de logon. Na maioria dos casos, você pode alternar entre eles sem precisar fazer logout e voltar a fazer logon.
 
@@ -63,7 +63,7 @@ Quando você faz logout e volta a fazer login, o Marketo automaticamente faz log
 
 Se você tiver várias subscrições, poderá ter vários perfis da comunidade. Recomendamos que você escolha o logon que está vinculado ao seu perfil mais ativo da comunidade.
 
-## Plataforma portátil {#mobile-platform}
+## Plataforma móvel {#mobile-platform}
 
 Os usuários com a ID universal podem ver seus dados em Momentos de marketing e no aplicativo de check-in do evento iPad a partir da subscrição em que fizeram logon pela última vez. Não é possível alterar as subscrições da plataforma móvel em si.
 
