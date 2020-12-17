@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Veja como configurar um token de Pontuação para usar nas pastas programas e campanhas.
 
-1. Na guia [!UICONTROL Meus tokens] do seu programa ou pasta, arraste um token de **Pontuação** para a tela Tokens  locais.
+1. Na guia [!UICONTROL Meus tokens] do seu programa ou pasta, arraste um token **Pontuação** para a tela [!UICONTROL Tokens locais].
 
    ![Imagem Um](/help/sky/assets/my-tokens/my-token-score/my-token-score-1.png)
 
