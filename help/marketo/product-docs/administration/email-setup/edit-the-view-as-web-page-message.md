@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Editar a mensagem &quot;Visualização como página da Web&quot; {#edit-the-view-as-web-page-message}
 
-Se você precisar editar a &quot; [Visualização como uma página](../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)da Web&quot;, veja como.
+Se precisar editar a Visualização &quot; [como uma página da Web](../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;, veja como.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Se você precisar editar a &quot; [Visualização como uma página](../../../pro
    >    
    >A segunda parte ##MKT_TOK## é o cookie de maschkin daquela pessoa. Certifique-se de que eles recebem cookies apropriadamente quando clicam no link.
 
-1. Edite a **Visualização como HTML** da página da Web e **Visualização como texto da página da Web **versões de seu gosto e clique em **Salvar alterações**.
+1. Edite a **Visualização como HTML** e **Visualização como Texto da página da Web **versões de seu gosto e clique em **Salvar alterações**.
 
    ![](assets/image2016-8-26-14-3a40-3a29.png)
 
@@ -58,7 +58,7 @@ Aí está. Envie emails de teste para garantir a formatação.
 Se precisar reverter para o sistema padrão &quot;Visualização como página da Web&quot;, copie/cole o seguinte:
 
 **Visualização como HTML da página da Web:**
-`<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>` **Visualização como texto da página da Web:**
+`<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>` **Visualização como Texto da página da Web:**
 
 Para visualização deste email como uma página da Web, vá para o seguinte endereço:
 `<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` Boom! Você terminou.
