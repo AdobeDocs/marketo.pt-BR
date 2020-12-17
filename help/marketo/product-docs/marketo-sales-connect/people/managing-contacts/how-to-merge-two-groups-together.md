@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Como mesclar dois grupos {#how-to-merge-two-groups-together}
+# Como unir dois grupos {#how-to-merge-two-groups-together}
 
 1. Entre em um dos grupos que deseja mesclar e selecione todos os contatos.
 1. Selecione **Adicionar pessoas ao grupo**.
