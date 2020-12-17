@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Cancelar uma Execução Programada de Campanha de Lote Recorrente {#cancel-a-scheduled-recurring-batch-campaign-run}
+# Cancelar uma Execução Agendada de Campanha de Lote Recorrente {#cancel-a-scheduled-recurring-batch-campaign-run}
 
 Se você tiver uma campanha em lote recorrente que não deseja mais, poderá cancelar as execuções futuras. Veja como.
 
-1. Clique na campanha inteligente e na guia **Agendamento** .
+1. Clique na campanha inteligente e na guia **Agendamento**.
 
    ![](assets/image2014-9-22-16-3a44-3a51.png)
 
-1. Clique em **Agendar** **recorrência**.
+1. Clique em **Schedule** **Recurrence**.
 
    ![](assets/image2014-9-22-16-3a44-3a55.png)
 
    >[!TIP]
    >
-   >Você pode cancelar uma única execução clicando em ![—](assets/image2014-9-22-16-3a45-3a42.png) ao lado dela. Saiba como [cancelar uma execução](cancel-a-scheduled-batch-campaign-run.md)de campanha em lote agendada.
+   >Você pode cancelar uma única execução clicando em ![—](assets/image2014-9-22-16-3a45-3a42.png) ao lado dela. Saiba como [cancelar uma execução de campanha em lote agendada](cancel-a-scheduled-batch-campaign-run.md).
 
-1. Defina Agendamento como **Nenhum** e, em seguida, **Salvar**.
+1. Defina Agendamento como **Nenhum** e **Salvar**.
 
    ![](assets/image2014-9-22-16-3a45-3a56.png)
 
