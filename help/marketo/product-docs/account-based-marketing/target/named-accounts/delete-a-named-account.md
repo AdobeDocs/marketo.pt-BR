@@ -5,7 +5,7 @@ title: Excluir uma conta nomeada
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Siga estas etapas rápidas para excluir uma conta nomeada.
    >
    >Clique com a tecla Ctrl pressionada (Windows) ou Cmd pressionada (Mac) para selecionar várias contas nomeadas.
 
-1. Clique no menu suspenso Ações **de conta** nomeada e selecione **Excluir conta** nomeada.
+1. Clique no menu suspenso **Ações de conta nomeada** e selecione **Excluir conta nomeada**.
 
    ![](assets/eight-1.png)
 
