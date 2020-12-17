@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Agendar Programas de envolvimento com fuso horário do Recipient {#schedule-engagement-programs-with-recipient-time-zone}
 
-Quando você [agenda um fluxo](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) de programa de envolvimento e o fuso horário do recipient está ativo, o elenco do programa será executado à meia-noite no primeiro fuso horário (UTC +14:00). Exigimos que você agende o primeiro elenco pelo **menos 25 horas** no futuro porque pode haver pessoas que se qualificam para o elenco em cada fuso horário ao redor do globo. Iniciar o processamento neste momento no primeiro fuso horário garante que enviaremos o email na data e hora agendadas para cada recipient.
+Quando você [programar um fluxo de programa de envolvimento](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) e o fuso horário do recipient estiver ativo, o programa cast será executado à meia-noite no primeiro fuso horário (UTC +14:00). Exigimos que você agende o primeiro elenco **pelo menos 25 horas** no futuro, pois pode haver pessoas que se qualificam para o elenco em todos os fusos horários do mundo. Iniciar o processamento neste momento no primeiro fuso horário garante que enviaremos o email na data e hora agendadas para cada recipient.
 
 1. No programa de envolvimento, navegue até a guia **Streams** e clique no agendamento de cadência de um fluxo para editá-lo.
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Defina as configurações](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) de cadência como você faria normalmente e marque a caixa **Fuso horário do Recipient **box. Lembre-se de que seu primeiro elenco deve ter pelo menos 25 horas no futuro. Clique em **Salvar**.
+1. [Defina as ](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) configurações de cadência como você normalmente faria, em seguida, marque a caixa **fuso horário do Recipient **box. Lembre-se de que seu primeiro elenco deve ter pelo menos 25 horas no futuro. Clique em **Salvar**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
