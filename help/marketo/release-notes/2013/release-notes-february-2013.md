@@ -19,7 +19,7 @@ A versão de fevereiro inclui um recurso altamente solicitado, suporte para o Ap
 
 As versões mais recentes do Apple Safari para Mac e Windows são totalmente suportadas para uso com o Gerenciamento líder de marketing. Observação: O Safari no iOS não é totalmente compatível.
 
-## Aprimoramentos de webhooks {#webhooks-enhancements}
+## Aprimoramentos do Webhooks {#webhooks-enhancements}
 
 Os webhooks são aprimorados para obter tokens de escape no URL/carga e também podem atualizar os campos de cliente potencial de marketing analisando as respostas XML/JSON de sistemas de terceiros (não disponível no Spark SMB Edition).
 
@@ -33,4 +33,4 @@ As guias do Facebook publicadas do Marketo detectarão dispositivos móveis e os
 
 ## Em breve: Suporte para vários modelos {#coming-soon-support-for-multiple-models}
 
-Estamos preparando o terreno para suportar vários modelos de ciclo de receita, votamos a ideia nº 1 para a RCA na Comunidade, em uma versão futura. Nesta versão, você observará algumas alterações, incluindo filtros de Lista [inteligente e Adicionar opções em etapas](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) de fluxo para suportar a seleção de um modelo e estágio. Também estamos movendo os campos Estágio de receita potencial e Modelo de ciclo de receita potencial para fora da guia de grade Lead de Lista inteligente.
+Estamos preparando o terreno para suportar vários modelos de ciclo de receita, votamos a ideia nº 1 para a RCA na Comunidade, em uma versão futura. Nesta versão, você observará algumas alterações, incluindo [filtros de Lista inteligente e Adicionar opções em etapas de fluxo](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) para suportar a seleção de um modelo e estágio. Também estamos movendo os campos Estágio de receita potencial e Modelo de ciclo de receita potencial para fora da guia de grade Lead de Lista inteligente.
