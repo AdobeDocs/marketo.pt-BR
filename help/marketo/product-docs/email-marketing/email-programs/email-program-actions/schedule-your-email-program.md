@@ -16,19 +16,19 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Criar um Programa por email](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir uma Audiência com uma Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) inteligente ou [Definir uma Audiência importando uma Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir uma Audiência com uma ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista inteligente  [Definir uma Audiência importando uma Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Escolha um email](choose-an-existing-email.md) existente ou [crie um email para um Programa de email](create-an-email-for-an-email-program.md)
+* [Escolha um ](choose-an-existing-email.md) email existente  [Criar um email para um Programa de email](create-an-email-for-an-email-program.md)
 
 >
 
 
 
-Com o programa de email criado, a audiência definida e o email selecionado, você desejará informar ao programa *quando* enviar o email. Veja como.
+Com seu programa de e-mail criado, definido pela audiência e selecionado, você desejará informar ao seu programa *when* para enviar o e-mail. Veja como.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -36,7 +36,7 @@ Com o programa de email criado, a audiência definida e o email selecionado, voc
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. No bloco **Agendar** , defina a data.
+1. No bloco **Schedule**, defina a data.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -44,11 +44,11 @@ Com o programa de email criado, a audiência definida e o email selecionado, voc
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Você também pode optar por usar os recursos Fuso horário [do](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) Recipient e/ou Start [do](head-start-for-email-programs.md) cabeçalho.
+1. Você também pode optar por usar os recursos [Fuso horário do Recipient](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) e/ou [Start de cabeçalho](head-start-for-email-programs.md).
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   Quão fácil foi isso? A única coisa que resta é [aprovar um programa](approve-unapprove-an-email-program.md) de e-mail e você pode ir.
+   Quão fácil foi isso? A única coisa que resta é [aprovar um programa de e-mail](approve-unapprove-an-email-program.md) e você pode ir.
 
 >[!NOTE]
 >
