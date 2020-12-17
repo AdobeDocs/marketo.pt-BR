@@ -15,7 +15,7 @@ ht-degree: 0%
 
 É importante monitorar a tendência de sua palavra-chave [SERP Ranks](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) ao longo do tempo. Verifique este gráfico legal para monitorar o progresso.
 
-1. Vá para a seção **Palavras-chave** .
+1. Vá para a seção **Palavras-chave**.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Veem? Mostra sua classificação [](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) SERP nos últimos 30 dias:
+   Veem? Mostra sua [Classificação SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) nos últimos 30 dias:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
