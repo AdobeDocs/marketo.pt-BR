@@ -22,7 +22,7 @@ Ao criar objetos personalizados, você deve fornecer campos de link para conecta
 
 Veja como criar um campo de link em um objeto personalizado para uma estrutura um para muitos.
 
-1. Clique em **Admin** e, em Gerenciamento **de** banco de dados, selecione **Marketo Custom Objects**.
+1. Clique em **Admin** e, em **Gerenciamento de banco de dados**, selecione **Objetos personalizados de marketing**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -30,7 +30,7 @@ Veja como criar um campo de link em um objeto personalizado para uma estrutura u
 
    ![](assets/image2016-1-14-15-3a6-3a2.png)
 
-1. Na guia **Campos** , clique em **Novo campo**.
+1. Na guia **Campos**, clique em **Novo campo**.
 
    ![](assets/image2015-9-17-14-3a9-3a19.png)
 
@@ -73,7 +73,7 @@ Veja como criar um campo de link em um objeto intermediário para uso em uma est
 >
 >Você já deve ter criado o objeto intermediário e todos os objetos personalizados aos quais deseja vinculá-lo.
 
-1. Clique em **Admin** e, em Gerenciamento **de** banco de dados, selecione **Marketo Custom Objects**.
+1. Clique em **Admin** e, em **Gerenciamento de banco de dados**, selecione **Objetos personalizados de marketing**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -81,7 +81,7 @@ Veja como criar um campo de link em um objeto intermediário para uso em uma est
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. Na guia **Campos ** **Novo campo**.
+1. Na guia **Campos **, clique em **Novo campo**.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
