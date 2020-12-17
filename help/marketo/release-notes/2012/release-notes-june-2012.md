@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**Mergulho profundo**
 >
->Para outras versões, consulte as [Notas](http://docs.marketo.com/display/docs/release+notes) de versão em profundidade.
+>Para outras versões, consulte as [Notas de versão](http://docs.marketo.com/display/docs/release+notes) profundas.
 
-## Melhorias no gerenciamento de clientes potenciais de marketing {#marketo-lead-management-enhancements}
+## Melhorias no gerenciamento líder de marketing {#marketo-lead-management-enhancements}
 
 ### Renomear {#rename}
 
@@ -55,7 +55,7 @@ Adicionamos uma nova guia às nossas Páginas de resumo de ativos, chamadas Usad
 
 Exemplo: Usado por para Listas estáticas
 
-## Linhas de grade de landing page {#landing-page-gridlines}
+## Linhas de Grade de landing page {#landing-page-gridlines}
 
 A adição de linhas de grade landings page facilita muito o alinhamento de textos, gráficos e formulários na sua landing page. Ligue e desligue para qualquer landing page específica e ajuste a largura entre as linhas!
 
@@ -63,15 +63,15 @@ A adição de linhas de grade landings page facilita muito o alinhamento de text
 
 ![](assets/image2014-9-23-10-3a24-3a33.png)
 
-## Clientes potenciais bloqueados por correspondências {#leads-blocked-from-mailings}
+## Clientes potenciais bloqueados nas correspondências {#leads-blocked-from-mailings}
 
 Ao agendar uma campanha, você pode clicar no link para ver a lista de clientes potenciais bloqueados de sua correspondência.
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## Etapa de espera - Token principal e meu token {#wait-step-lead-token-and-my-token}
+## Etapa de espera - Token principal e Meu token {#wait-step-lead-token-and-my-token}
 
-Na nossa versão de maio, adicionamos opções avançadas à etapa de fluxo de espera. Com essas alterações, você pode especificar um dia útil, uma data e uma hora. Nesta versão, adicionamos a capacidade de usar um token na etapa de espera. Por exemplo, você pode querer usar `{{lead.Birthday}}` para enviar um email no aniversário ou usar `{{my.Event Date}}` para enviar um lembrete final do webinar.
+Na nossa versão de maio, adicionamos opções avançadas à etapa de fluxo de espera. Com essas alterações, você pode especificar um dia útil, uma data e uma hora. Nesta versão, adicionamos a capacidade de usar um token na etapa de espera. Por exemplo, você pode usar `{{lead.Birthday}}` para enviar um email no aniversário ou usar `{{my.Event Date}}` para enviar um lembrete de webinar final.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
@@ -87,7 +87,7 @@ Lembrete: Atualização do relatório de desempenho de email em andamento!
 
 ## Aprimoramentos do Marketing Revenue Cycle Analytics {#marketo-revenue-cycle-analytics-enhancements}
 
-### Novas métricas na Análise de oportunidades do Programa  {#new-metrics-in-program-opportunity-analysis}
+### Novas métricas na Análise de oportunidade do Programa {#new-metrics-in-program-opportunity-analysis}
 
 Agora você pode obter insights sobre o número médio de toques de marketing antes que as oportunidades sejam criadas ou fechadas, bem como sobre o valor médio de um toque de marketing.
 
@@ -101,13 +101,13 @@ O recurso de vários gráficos permite exibir vários gráficos em um único rel
 
 ![](assets/image2014-9-23-10-3a27-3a41.png)
 
-## Tipo de gráfico de grade de calor  {#heat-grid-chart-type}
+## Tipo de Gráfico de Grade de Calor {#heat-grid-chart-type}
 
 Grades de calor permitem visualizar dados para que você possa identificar padrões de desempenho de Marketing. Esse tipo de visualização codificará os resultados em cores para que você visualização análises comerciais complexas em uma visualização fácil de entender.
 
 ![](assets/image2014-9-23-10-3a28-3a21.png)
 
-## Tipo de Gráfico de Dispersão  {#scatter-chart-type}
+## Tipo de Gráfico de Dispersão {#scatter-chart-type}
 
 Gráficos de dispersão ajudam a visualizar dados em várias dimensões em um gráfico. Esse tipo de visualização plotará uma bolha em um gráfico com base nos atributos usados. Em seguida, é possível usar uma medida para codificar a bolha com cores e/ou usar uma medida para especificar o tamanho da bolha.
 
