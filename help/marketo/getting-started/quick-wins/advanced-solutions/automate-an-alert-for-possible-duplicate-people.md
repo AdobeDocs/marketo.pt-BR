@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Deseja um alerta sempre que um duplicado for criado? Veja como configurar uma Campanha inteligente para fazer isso.
 
-1. [Crie uma nova campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)inteligente. Defina a seguinte lista inteligente:
+1. [Crie uma nova campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) inteligente. Defina a seguinte lista inteligente:
 
 * Acionador: **A pessoa foi criada**
-* Filtro: **Campos de duplicado.** Nome completo **do campo**
+* Filtro: **Campos de Duplicado.** Nome completo  **do campo**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -26,13 +26,13 @@ Deseja um alerta sempre que um duplicado for criado? Veja como configurar uma Ca
    >
    >Seja criativo. Experimente campos diferentes para obter melhores resultados de filtragem.
 
-1. Na etapa de fluxo, escolha [Enviar fluxo de alerta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) .
+1. Na etapa de fluxo, escolha [Enviar alerta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) ação de fluxo.
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >Usar o token [](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Enviar informações de alerta para incluir um link para a pessoa em seu CRM.
+   >Usar o token [Enviar informações de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) para incluir um link para a pessoa em seu CRM.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Deseja um alerta sempre que um duplicado for criado? Veja como configurar uma Ca
    >
    >Além disso, duas pessoas com o mesmo nome não significa automaticamente que elas sejam a mesma pessoa.
 
-1. Ative a campanha na guia **Agendamento** .
+1. Ative a campanha na guia **Schedule**.
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
