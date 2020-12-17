@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Tipos de etapas de campanha {#campaign-step-types}
+# Tipos de Etapas de campanha {#campaign-step-types}
 
 Ao adicionar uma etapa à sua campanha, você tem quatro opções.
 
@@ -31,9 +31,9 @@ Componha um novo email ou use um modelo pré-existente.
 
 >[!TIP]
 >
->Saiba mais detalhes sobre suas opções [de](http://docs.marketo.com/x/7QDb)envio.
+>Saiba mais detalhes sobre suas [opções de envio](http://docs.marketo.com/x/7QDb).
 
-## Chamada {#call}
+## Chamar {#call}
 
 Configure um lembrete para acompanhar um contato via telefone. Você também pode salvar notas para serem usadas como um rastreamento de fala durante a chamada.
 
