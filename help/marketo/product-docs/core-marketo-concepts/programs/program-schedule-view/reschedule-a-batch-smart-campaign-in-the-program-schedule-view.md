@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Reprogramar uma Campanha inteligente em lote na Visualização do Cronograma do programa {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
+# Reagende uma Campanha inteligente em lote na Visualização do Cronograma do programa {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
 Deseja reprogramar uma execução de campanha inteligente em lote? Arraste e solte-os no futuro na visualização do cronograma do programa.
 
@@ -21,7 +21,7 @@ Deseja reprogramar uma execução de campanha inteligente em lote? Arraste e sol
 
 1. Arraste e solte para a nova data na qual deseja que a campanha seja executada. ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Ótimo! A campanha inteligente foi remarcada. A hora também pode ser alterada do menu suspenso **Data** nos detalhes da entrada.
+1. Ótimo! A campanha inteligente foi remarcada. A hora também pode ser alterada do menu suspenso **Date** nos detalhes da entrada.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
