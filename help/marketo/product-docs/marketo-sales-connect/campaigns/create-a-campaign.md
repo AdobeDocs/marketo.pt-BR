@@ -24,7 +24,7 @@ Com o Campanha você pode:
 
 Então, como montar uma Campanha?
 
-1. Clique na guia **Campanha** .
+1. Clique na guia **Campanha**.
 
    ![](assets/one-1.png)
 
@@ -34,13 +34,13 @@ Então, como montar uma Campanha?
 
    >[!NOTE]
    >
-   >Crie uma nova categoria clicando em** +** ao lado do **Categoria**.
+   >Crie uma nova categoria clicando em** +** ao lado de **Categoria**.
 
 1. A categoria escolhida será selecionada. Se você mudar de ideia, clique na lista suspensa e selecione uma diferente. Quando terminar, clique em **Continuar**.
 
    ![](assets/three-1.png)
 
-1. Clique em **Adicionar uma etapa**.
+1. Clique em **Adicionar uma Etapa**.
 
    ![](assets/four-1.png)
 
@@ -56,7 +56,7 @@ Então, como montar uma Campanha?
    >
    >&quot;Dias&quot; não é o número de dias entre ações, mas o dia dentro da sequência. Por exemplo, se sua campanha durar 7 dias, inserir &#39;3&#39; significa que a ação será executada no dia 3 de 7, **não **3 dias depois.
 
-1. Certifique-se de personalizar as opções de agendamento e resposta, como ignorar os finais de semana (o que é incrível), visitando a guia **Configurações** para sua Campanha.
+1. Certifique-se de personalizar as opções de agendamento e resposta, como ignorar fins de semana (o que é incrível) visitando a **guia Configurações** para sua Campanha.
 
    ![](assets/seven.png)
 
