@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Se você estiver usando uma de nossas contas de equipe, todos os seus modelos ainda serão privados por padrão. Clique no botão verde **Compartilhar** na parte superior do modelo para compartilhá-lo com o restante da equipe.
 
-## Como localizar modelos compartilhados  {#how-to-find-shared-templates}
+## Como localizar modelos compartilhados {#how-to-find-shared-templates}
 
 Os modelos que foram compartilhados com você serão exibidos no cabeçalho **Modelos de equipe **no lado esquerdo da página Modelos.
 
