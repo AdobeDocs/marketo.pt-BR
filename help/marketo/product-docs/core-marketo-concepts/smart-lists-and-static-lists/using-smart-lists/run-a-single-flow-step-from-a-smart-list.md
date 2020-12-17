@@ -23,11 +23,11 @@ Se quiser executar uma etapa de fluxo única, você pode usar uma única etapa d
 
 
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione uma lista ou lista inteligente com as pessoas nela inseridas e vá para a guia **Pessoas** .
+1. Selecione uma lista ou lista inteligente com pessoas nela e vá para a guia **Pessoas**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -43,7 +43,7 @@ Se quiser executar uma etapa de fluxo única, você pode usar uma única etapa d
    >
    >Se os resultados se expandirem em várias páginas, clicar em **Selecionar tudo** selecionará todas as pessoas em todas as páginas.
 
-1. Em **Ações** da pessoa ****, selecione a etapa de fluxo de sua escolha. Neste exemplo, usaremos [Alterar valor](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)de dados.
+1. Em **Pessoa** **Ações**, selecione a etapa de fluxo de sua escolha. Neste exemplo, usaremos [Alterar valor de dados](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
@@ -55,7 +55,7 @@ Se quiser executar uma etapa de fluxo única, você pode usar uma única etapa d
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Se você estiver alterando valores de dados para um grande número de pessoas, talvez seja necessário confirmar a alteração digitando o número. Clique Em **Ir Em Busca**.
+1. Se você estiver alterando valores de dados para um grande número de pessoas, talvez seja necessário confirmar a alteração digitando o número. Clique em **Ir para ele**.
 
    ![](assets/changedatavalue.jpg)
 
