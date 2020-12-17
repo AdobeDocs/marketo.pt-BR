@@ -27,7 +27,7 @@ Para desinstalar o MSI da sua instância do MS Dynamics, é necessário executar
 
    ![](assets/six.png)
 
-1. Clique em **Editar sincronização** de campo.
+1. Clique em **Editar sincronização de campo**.
 
    ![](assets/seven.png)
 
@@ -38,15 +38,15 @@ Para desinstalar o MSI da sua instância do MS Dynamics, é necessário executar
    >**Lembrete**
    >
    >
-   >Certifique-se de [desativar a Sincronização](http://docs.marketo.com/x/TAA6Ag) Global do MS Dynamics antes de desativar a sincronização de campos.
+   >Certifique-se de [desativar a Sincronização do MS Dynamics Global](http://docs.marketo.com/x/TAA6Ag) antes de desativar a sincronização de campos.
 
    ![](assets/eight.png)
 
 ## As etapas a seguir ocorrem em sua instância do MS Dynamics: {#the-following-steps-take-place-in-your-ms-dynamics-instance}
 
-1. Clique em Configurações **** avançadas.
+1. Clique em **Configurações avançadas**.
 1. Clique em **Soluções**.
-1. Selecione **Marketing to Sales Insight** e clique no ícone excluir.
+1. Selecione **Marketing to Sales Insight** e clique no ícone de exclusão.
 1. Quando o modal Uninstall Solution for exibido, clique em **OK**.
 
    Normalmente, a desinstalação da solução MS Dynamics demora cerca de 20 minutos. No entanto, se você tiver uma instância grande do MS Dynamics, isso pode levar um pouco mais.
