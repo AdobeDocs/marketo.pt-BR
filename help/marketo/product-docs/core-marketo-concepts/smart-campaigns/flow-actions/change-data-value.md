@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Alterar valor de dados {#change-data-value}
+# Alterar Valor de Dados {#change-data-value}
 
 ## Visão geral {#overview}
 
@@ -21,7 +21,7 @@ Você pode usar o Marketo para atualizar o valor de um campo. Para isso, você u
 
 >[!NOTE]
 >
->Também é possível bloquear a atualização de um campo. Consulte Atualizações de [bloqueio para um campo](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) para obter detalhes.
+>Também é possível bloquear a atualização de um campo. Consulte [Bloquear atualizações de um campo](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) para obter detalhes.
 
 ## Uso {#usage}
 
@@ -42,7 +42,7 @@ Você pode usar o Marketo para atualizar o valor de um campo. Para isso, você u
 
    >[!TIP]
    >
-   >Você pode digitar &quot;NULL&quot; (sem aspas, todas as aspas) em **Novo valor** para limpar o campo. Consulte [Limpar valores](change-data-value/clear-field-values.md) de campo para obter detalhes.
+   >Você pode digitar &#39;NULL&#39; (sem aspas, todas as aspas) em **Novo valor** para limpar o campo. Consulte [Limpar valores de campo](change-data-value/clear-field-values.md) para obter detalhes.
 
    >[!NOTE]
    >
