@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Veja como excluir um programa.
 
-1. Localize o programa que deseja excluir e selecione **[!UICONTROL Excluir]** no menu suspenso Ações [!UICONTROL do] Programa.
+1. Localize o programa que deseja excluir e selecione **[!UICONTROL Excluir]** no menu suspenso [!UICONTROL Ações do Programa].
 
    ![Imagem Um](/help/sky/assets/programs/delete-a-program/delete-a-program-1.png)
 
@@ -30,4 +30,4 @@ Veja como excluir um programa.
 
 >[!CAUTION]
 >
->A exclusão de um programa se livrará de todos os dados associados. Para preservar quaisquer dados, talvez você queira [colocar o programa em uma pasta](/help/sky/archive-a-program.md) de arquivamento.
+>A exclusão de um programa se livrará de todos os dados associados. Para preservar quaisquer dados, é possível [colocar o programa em uma pasta de arquivamento](/help/sky/archive-a-program.md).
