@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Em vez de criar uma lista inteligente do zero, economize tempo clonando uma semelhante e fazendo alterações. Veja como.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,7 +23,7 @@ Em vez de criar uma lista inteligente do zero, economize tempo clonando uma seme
 
    ![](assets/smartlist-find.png)
 
-1. Em Ações **de** Lista, clique em **Clonar Lista** inteligente.
+1. Em **Ações de Lista**, clique em **Clonar Lista inteligente**.
 
    ![](assets/clonesmartlist-hands.png)
 
