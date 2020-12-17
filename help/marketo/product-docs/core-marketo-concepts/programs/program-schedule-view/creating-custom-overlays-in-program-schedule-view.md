@@ -15,7 +15,7 @@ ht-degree: 0%
 
 É possível criar sobreposições personalizadas para entradas de visualização relevantes às suas necessidades.
 
-1. Clique no menu suspenso **Agenda** .
+1. Clique no menu suspenso **Agenda**.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Também é possível filtrar por tags [de](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)programa.
+1. Você também pode filtrar por [tags de programa](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
