@@ -25,15 +25,15 @@ Marketo é ótimo em escolher as pessoas certas para um programa ou campanha int
 >
 >**Mergulho profundo**
 >
->Saiba [como criar segmentações](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Saiba mais sobre [como criar segmentações](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Depois de configurar essas pessoas (**e usar os espaços de trabalho** ), você desejará compartilhá-las em seus espaços de trabalho. Aqui estão algumas coisas boas para se saber:
+Depois de configurar essas personas (**e** você usa espaços de trabalho), você desejará compartilhá-las em seus espaços de trabalho. Aqui estão algumas coisas boas para se saber:
 
 ## Regras e dicas {#rules-tips}
 
-* Cada subscrição de marketing pode conter até 20 Segmentações &quot;no total&quot; em vários espaços de trabalho (**não 20 por espaço de trabalho**).
+* Cada subscrição de marketing pode conter até 20 Segmentações &quot;total&quot; em vários espaços de trabalho (**e não 20 por espaço de trabalho**).
 * Você só pode compartilhar uma Segmentação com espaços de trabalho aos quais você tem acesso.
-* Certifique-se de criar e utilizar um espaço de trabalho **padrão que tenha visibilidade em todas as partições**.
+* Certifique-se de criar e utilizar um **espaço de trabalho padrão que tenha visibilidade em todas as partições**.
 
 * O processamento de segmentação só é executado nas pessoas no espaço de trabalho onde a Segmentação é criada.
 
