@@ -23,11 +23,11 @@ Os emails têm recursos limitados (CSS limitado e nenhum JavaScript ou formulár
 
    ![](assets/one-5.png)
 
-1. No editor de email, clique em Configurações **de** email.
+1. No editor de email, clique em **Configurações de email**.
 
    ![](assets/two-5.png)
 
-1. Marque a caixa **Incluir Visualização como página** da Web e clique em **Salvar**.
+1. Marque a caixa **Incluir Visualização como página da Web** e clique em **Salvar**.
 
    ![](assets/three-4.png)
 
@@ -39,4 +39,4 @@ Aqui está um exemplo de como ele se parece:
 >
 >Você não verá a Visualização como um link de Página da Web até enviar o email. Envie um teste para a visualizações.
 
-Para alterar o texto padrão, consulte [Editar a mensagem](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)&quot;Visualização como página da Web&quot;.
+Para alterar o texto padrão, consulte [Editar a mensagem &quot;Visualização como página da Web&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
