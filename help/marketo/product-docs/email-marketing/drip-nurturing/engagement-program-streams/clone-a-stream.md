@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Clonar um fluxo por vários motivos, incluindo o teste de diferentes pedidos e cadências diferentes.
 
-1. Selecione seu programa de envolvimento e vá para a guia **Streams** .
+1. Selecione seu programa de envolvimento e vá para a guia **Streams**.
 
    ![](assets/cloneasteam.jpg)
 
 1. Clique no ícone de engrenagem de fluxo e clique em **Clonar**.
 
-   ` ![](assets/image2014-9-15-17-3a0-3a23.png)
+   &#39; ![](assets/image2014-9-15-17-3a0-3a23.png)
 
    `
 
@@ -29,7 +29,7 @@ Clonar um fluxo por vários motivos, incluindo o teste de diferentes pedidos e c
    >
    >Você pode ter até 25 fluxos por programa de envolvimento.
 
-   Muito bem! Você não ama coisas que tornam sua vida mais fácil?  ` ![](assets/image2014-9-15-17-3a1-3a20.png)
+   Muito bem! Você não ama coisas que tornam sua vida mais fácil?  &#39; ![](assets/image2014-9-15-17-3a1-3a20.png)
 
    `
 
