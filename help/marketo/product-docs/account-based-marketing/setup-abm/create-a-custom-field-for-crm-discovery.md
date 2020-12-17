@@ -19,23 +19,23 @@ Adicione campos personalizados a contas, mapeie-os para seu CRM e use-os para a 
 
    ![](assets/admin.png)
 
-1. Clique em Gerenciamento **de** campo e em **Novo campo** personalizado.
+1. Clique em **Gerenciamento de campo**, em seguida, **Novo campo personalizado**.
 
    ![](assets/two-4.png)
 
-1. Clique na lista suspensa **Objeto** e selecione Conta **nomeada**.
+1. Clique no menu suspenso **Object** e selecione **Conta nomeada**.
 
    ![](assets/three-3.png)
 
-1. Clique no menu suspenso **Tipo** e selecione um tipo.
+1. Clique na lista suspensa **Tipo** e selecione um tipo.
 
    ![](assets/four-3.png)
 
-1. Digite um **Nome** (o Nome da API será preenchido automaticamente) e clique em **Criar**.
+1. Insira um **Nome** (o Nome da API será preenchido automaticamente) e clique em **Criar**.
 
    ![](assets/five-3.png)
 
-1. Depois que o campo for criado, selecione-o na árvore à direita. Clique no menu suspenso Ações **de** campo e selecione **Mapear para o campo** CRM.
+1. Depois que o campo for criado, selecione-o na árvore à direita. Clique no menu suspenso **Ações de campo** e selecione **Mapear para o campo CRM**.
 
    ![](assets/six-2.png)
 
