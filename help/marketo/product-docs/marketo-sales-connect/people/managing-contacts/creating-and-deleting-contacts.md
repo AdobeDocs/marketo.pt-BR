@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Criando e Excluindo Contatos {#creating-and-deleting-contacts}
+# Criando e Deletando Contatos {#creating-and-deleting-contacts}
 
 ## Criando Contatos {#creating-contacts}
 
-1. Na página Pessoas, clique no botão Ações **do** grupo e selecione **Criar contato**.
+1. Na página Pessoas, clique no botão **Ações do grupo** e selecione **Criar contato**.
 
    ![](assets/one-2.png)
 
-1. Digite o nome/sobrenome e o endereço de email, juntamente com quaisquer outras informações que desejar. Clique em **Criar** quando terminar ou em **Criar e adicionar novo** para adicionar mais contatos.
+1. Digite o nome/sobrenome e o endereço de email, juntamente com quaisquer outras informações que desejar. Clique em **Criar** quando terminar, ou em **Criar e Adicionar Novo** para adicionar mais contatos.
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >Deseja adicionar vários contatos ao mesmo tempo? [Clique aqui](http://docs.marketo.com/x/VADb) para saber como importar contatos via CSV.
+   >Deseja adicionar vários contatos ao mesmo tempo? [Clique ](http://docs.marketo.com/x/VADb) aqui para saber como importar contatos via CSV.
 
 ## Excluindo Contatos {#deleting-contacts}
 
