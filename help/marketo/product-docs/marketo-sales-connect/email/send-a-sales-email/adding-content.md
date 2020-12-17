@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adicionar conteúdo {#adding-content}
 
-Para adicionar conteúdo rastreável aos seus emails, abra uma nova janela Compor. Clique em **Conteúdo**.
+Para adicionar conteúdo rastreável aos seus emails, abra uma nova janela Compor. Clique em **Content**.
 
 Se você adicionou conteúdo anteriormente, verá esses arquivos. Caso contrário, clique em **Carregar** para adicionar conteúdo do computador.
 
