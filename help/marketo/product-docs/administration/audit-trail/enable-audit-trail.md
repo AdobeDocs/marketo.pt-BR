@@ -19,7 +19,7 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
 >
 >Por padrão, todas as funções de administrador do sistema têm permissões habilitadas.
 
-## Ativar Trilha de Auditoria para uma Função {#enable-audit-trail-for-a-role}
+## Habilitar Trilha de Auditoria para uma Função {#enable-audit-trail-for-a-role}
 
 1. Clique em **Admin**.
 
@@ -29,7 +29,7 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
 
    ![](assets/two-2.png)
 
-1. Selecione a função para a qual deseja ativar a Trilha de auditoria e clique em **Editar função**.
+1. Selecione a função para a qual deseja habilitar a Trilha de auditoria e clique em **Editar função**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
    >
    >Você também tem a opção de criar uma nova função e conceder a ela acesso à Trilha de auditoria.
 
-1. Expanda a permissão **de Admin** de acesso. Selecione **Acessar trilha** de auditoria e/ou **Acessar histórico** de logon, dependendo de suas necessidades. Clique em **Salvar**.
+1. Expanda a permissão **Access Admin**. Selecione **Acessar Trilha de Auditoria** e/ou **Acessar Histórico de Logon**, dependendo de suas necessidades. Clique em **Salvar**.
 
    ![](assets/four-1.png)
 
@@ -46,16 +46,16 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
    >**Definição**
    >
    >
-   >**Caminho de auditoria de acesso:** Fornece aos usuários acesso à Trilha de auditoria de ativos e à Trilha de auditoria administrativa.
+   >**Trilha de auditoria de acesso:** concede aos usuários acesso à Trilha de auditoria de ativos e à Trilha de auditoria de administração.
    >
    >
-   >**Histórico de logon de acesso:** Fornece aos usuários acesso ao Histórico [de logon do](user-login-history.md)usuário.
+   >**Histórico de logon de acesso:** concede aos usuários acesso ao Histórico [ de logon de ](user-login-history.md)usuário.
 
 ## Atribuir função de trilha de auditoria a um usuário {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[Crie](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) ou [habilite](#Enable) uma função existente, concedendo a ela permissões de Trilha de auditoria.
+>[Crie ](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) ou  [](#Enable) ative a função existente, dando a ela permissões de Trilha de auditoria.
 
 1. Em **Usuários e funções**, clique em **Usuários**.
 
@@ -75,7 +75,7 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
 
    >[!CAUTION]
    >
-   >Se você tiver espaços de trabalho ativados, verifique a caixa de seleção da função, que seleciona todos os espaços de trabalho. Desmarcar um espaço de trabalho individual ocultará a Trilha de auditoria. Isso significa que você verá os dados de Trilha de auditoria para cada espaço de trabalho. Você tem a opção de ocultar espaços de trabalho ao [filtrar](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
+   >Se você tiver espaços de trabalho ativados, verifique a caixa de seleção da função, que seleciona todos os espaços de trabalho. Desmarcar um espaço de trabalho individual ocultará a Trilha de auditoria. Isso significa que você verá os dados de Trilha de auditoria para cada espaço de trabalho. Você tem a opção de ocultar espaços de trabalho quando [filtrar](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
 
 1. Clique em **Salvar**.
 
