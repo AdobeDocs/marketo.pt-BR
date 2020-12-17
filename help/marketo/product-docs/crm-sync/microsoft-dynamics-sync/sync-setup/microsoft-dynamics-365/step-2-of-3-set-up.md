@@ -21,7 +21,7 @@ Vamos começar criando uma conta de usuário.
 
 ## Criar um novo usuário {#create-a-new-user}
 
-1. Faça logon no Dynamics. Clique no ícone Configurações e selecione Configurações **** avançadas.
+1. Faça logon no Dynamics. Clique no ícone Configurações e selecione **Configurações avançadas**.
 
    ![](assets/one.png)
 
@@ -57,7 +57,7 @@ Vamos começar criando uma conta de usuário.
    >
    >Esse nome deve ser um usuário de sincronização dedicado e não uma conta de usuário do CRM existente. Não precisa ser um endereço de email real.
 
-1. Digite o email para receber as novas credenciais de usuário e clique em **Enviar email e fechar**.
+1. Digite o email para receber as novas credenciais do usuário e clique em **Enviar email e fechar**.
 
    ![](assets/nine.png)
 
@@ -81,35 +81,35 @@ Atribua a função Usuário de sincronização de marketing somente ao usuário 
 
    ![](assets/twelve.png)
 
-1. Marque **Marketo Sync User (Usuário** de sincronização de marketing) e clique em **OK**.
+1. Marque **Usuário de sincronização de marketing** e clique em **OK**.
 
    ![](assets/thirteen.png)
 
    >[!NOTE]
    >
-   >Todas as atualizações feitas em seu CRM pelo usuário de sincronização **não** serão sincronizadas de volta ao Marketo.
+   >Todas as atualizações feitas em seu CRM pelo Usuário de sincronização serão **e não** sincronizadas de volta ao Marketo.
 
-## Configuração da solução de marketing {#configure-marketo-solution}
+## Configurar a solução de marketing {#configure-marketo-solution}
 
 Quase lá! Tudo o que nos resta é informar a Solução de marketing sobre o novo usuário criado.
 
-1. Retorne à seção Configurações avançadas, clique no ![](assets/image2015-5-13-15-3a49-3a19.png)ícone ao lado de Configurações e selecione Configuração **de marketing**.
+1. Volte para a seção Configurações avançadas e clique no ícone ![](assets/image2015-5-13-15-3a49-3a19.png)ao lado de Configurações e selecione **Configuração do marketing**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Se você não vir **Marketo Config** no menu Configurações, atualize a página. Se isso não funcionar, tente [publicar a solução](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) Marketo [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) novamente ou faça logout e volte a fazer logon.
+   >Se você não vir **Configuração do Marketing** no menu Configurações, atualize a página. Se isso não funcionar, tente [publicar novamente a solução Marketo](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) ou faça logout e volte a fazer logon.
 
 1. Clique em **Padrão**.
 
    ![](assets/fifteen.png)
 
-1. Clique no botão de pesquisa no campo Usuário **do** Marketing e selecione o usuário de sincronização que você criou.
+1. Clique no botão de pesquisa no campo **Usuário do Marketing** e selecione o usuário de sincronização que você criou.
 
    ![](assets/sixteen.png)
 
-1. Clique no ![](assets/image2015-3-13-15-3a10-3a11.png)ícone no canto inferior direito para salvar as alterações.
+1. Clique no ícone ![](assets/image2015-3-13-15-3a10-3a11.png)no canto inferior direito para salvar as alterações.
 
    ![](assets/image2015-3-13-15-3a3-3a3.png)
 
@@ -117,15 +117,15 @@ Quase lá! Tudo o que nos resta é informar a Solução de marketing sobre o nov
 
    ![](assets/seventeen.png)
 
-1. Clique no ![](assets/image2015-5-13-15-3a49-3a19-1.png)ícone ao lado de Configurações e selecione **Soluções**.
+1. Clique no ícone ![](assets/image2015-5-13-15-3a49-3a19-1.png)ao lado de Configurações e selecione **Soluções**.
 
    ![](assets/eighteen.png)
 
-1. Clique no botão **Publicar todas as personalizações** .
+1. Clique no botão **Publicar todas as personalizações**.
 
    ![](assets/nineteen.png)
 
-## Antes de prosseguir para a etapa 3 {#before-proceeding-to-step}
+## Antes de prosseguir para a Etapa 3 {#before-proceeding-to-step}
 
     * Se você quiser restringir o número de registros que sincronizar, [configure um filtro de sincronização personalizado](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) agora.
     * Execute o processo [Validar Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Ele verifica se as configurações iniciais foram feitas corretamente.
