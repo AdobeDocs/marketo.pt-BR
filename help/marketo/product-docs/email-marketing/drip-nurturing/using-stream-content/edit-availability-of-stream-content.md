@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode definir um período para que o conteúdo esteja ativo no seu fluxo. Veja como.
 
-1. Selecione seu programa de envolvimento e vá para a guia **Streams** .
+1. Selecione seu programa de envolvimento e vá para a guia **Streams**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -23,13 +23,13 @@ Você pode definir um período para que o conteúdo esteja ativo no seu fluxo. V
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Selecione sua data **Ativa de** , **Data **Ativa Até **e clique em **Salvar**.
+1. Selecione a data **Ativo de**, a data **Ativo Até **e clique em **Salvar**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
    >[!TIP]
    >
-   >Você pode deixar o **Ative Through** em branco para tornar o conteúdo disponível para sempre.
+   >Você pode deixar **Ativo até** em branco para tornar o conteúdo disponível para sempre.
 
    Perfeito! Você verá o ícone de relógio ao lado do conteúdo programado. Ele ficará ativo e inativo de acordo com o cronograma definido.   ![](assets/image2014-9-15-17-3a36-3a4.png)
 
