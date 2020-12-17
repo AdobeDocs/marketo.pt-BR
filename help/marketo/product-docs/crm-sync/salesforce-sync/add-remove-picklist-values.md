@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Estas são algumas informações sobre como adicionar e remover valores de lista de opções no Salesforce.
 
-## Adicionar valores da lista de opções {#adding-picklist-values}
+## Adicionando valores da lista de opções {#adding-picklist-values}
 
 1. Se um valor adicional for adicionado no Salesforce a um tipo de campo de lista de opções, você receberá uma [notificação](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identificando quais formulários isso afetará.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Vá para o editor de formulários e [adicione o valor](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) adicional à sua lista de sugestões.
+1. Vá para o editor de formulários e [adicione o valor adicional](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) à sua lista de sugestões.
 
-## Remover valores da lista de opções {#remove-picklist-values}
+## Remover Valores da Lista de Opções {#remove-picklist-values}
 
 Quando um valor de lista de seleção é removido de um campo no Salesforce, é necessário remover manualmente esse valor de todos os formulários que hospedam esse campo.
 
