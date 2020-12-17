@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Depois de [definir as metas](/help/sky/setting-event-goals.md)do evento e enviar convites por meio de uma campanha [](/help/sky/create-a-smart-campaign.md)inteligente, veja como rastrear o progresso de suas metas e entender as previsões de Marketo.
+Depois de [definir objetivos de evento](/help/sky/setting-event-goals.md) e enviar convites por meio de uma [campanha inteligente](/help/sky/create-a-smart-campaign.md), veja como rastrear o progresso de sua meta e entender as previsões de Marketo.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Depois de [definir as metas](/help/sky/setting-event-goals.md)do evento e enviar
 
    ![Imagem Um](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Você também verá seus registros **[!UICONTROL Projetados]** . Passe o mouse sobre o ícone de informações para ver um detalhamento desse número por segmento de Probabilidade.
+Você também verá seus registros **[!UICONTROL Projetados]**. Passe o mouse sobre o ícone de informações para ver um detalhamento desse número por segmento de Probabilidade.
 
 ![Imagem dois](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -44,11 +44,11 @@ Todos os membros (registrados e ainda não registrados) são classificados com b
 
 >[!NOTE]
 >
->Os números de previsão são atualizados a cada 24 horas até o dia do evento. Todos os membros listados como _Processamento_ serão incluídos no próximo ciclo de cálculo.
+>Os números de previsão são atualizados a cada 24 horas até o dia do evento. Todos os membros listados como _Processando_ serão incluídos no próximo ciclo de cálculo.
 
 ## Programas semelhantes
 
-Você pode obter algum insight sobre o seu evento atual, observando o desempenho de programas similares no passado. Esta seção mostra até 5 programas similares dos últimos 6 meses, com o número/porcentagem de membros que foram _registrados_ ou superiores.
+Você pode obter algum insight sobre o seu evento atual, observando o desempenho de programas similares no passado. Esta seção mostra até 5 programas semelhantes dos últimos 6 meses, com o número/porcentagem de membros que foram _Registrados_ ou superiores.
 
 Ao calcular programas semelhantes, incluímos os seguintes fatores, entre outros:
 
@@ -69,7 +69,7 @@ Na parte superior da página Relatórios, você pode encontrar recomendações o
 
 ## previsões de nível de pessoa
 
-Clique na guia **[!UICONTROL Membros]** para visualização de todos os membros do programa. Passe o cursor do mouse sobre as barras **[!UICONTROL de Probabilidade]** de registro ou **[!UICONTROL Probabilidade]** de participação para ver as porcentagens exatas e as categorizações. Em seguida, você pode agir com os membros em uma categoria específica (por exemplo, todos na categoria &quot;Menos provável&quot; para registrar a categoria) e especificamente público alvo-os para aumentar seus números de registro.
+Clique na guia **[!UICONTROL Members]** para visualização de todos os membros do programa. Passe o cursor do mouse sobre as barras **[!UICONTROL Probabilidade de registro]** ou **[!UICONTROL Probabilidade de participação]** para ver as percentagens exatas e as categorizações. Em seguida, você pode agir com os membros em uma categoria específica (por exemplo, todos na categoria &quot;Menos provável&quot; para registrar a categoria) e especificamente público alvo-os para aumentar seus números de registro.
 
 ![Imagem sete](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
@@ -89,7 +89,7 @@ Colocamos valores de probabilidade em três segmentos:
 * Probabilidade de registrar > 25% a &lt;50% = Segmento provável
 * Probabilidade de registrar &lt;25% = Segmento menos provável
 
-Quando uma pessoa tem probabilidade de se registrar, a previsão cairá em um desses segmentos (cada pessoa que é membro de um programa cairá em um deles). Por exemplo, se um programa evento tiver 1000 membros com base nas previsões de probabilidade, esses 1000 serão distribuídos nos segmentos _Altamente Prováveis_, _Prováveis_ ou _Menos Prováveis_ .
+Quando uma pessoa tem probabilidade de se registrar, a previsão cairá em um desses segmentos (cada pessoa que é membro de um programa cairá em um deles). Por exemplo, se um programa de eventos tiver 1000 membros com base nas previsões de probabilidade, esses 1000 serão distribuídos nos segmentos _Highly Probely_, _Provavelmente_ ou _Menos Provável_.
 
 Portanto, as pessoas que caírem no segmento Altamente Provável terão maiores chances de se inscrever no evento.
 
@@ -103,7 +103,7 @@ A: As melhores práticas implicam o seguinte:
 
 i. Você cria um programa e, em seguida, uma Campanha inteligente usa filtros preditivos com &quot;maior que X&quot;, o que resultaria em uma certa quantidade de pessoas (digamos 1000) e você executa a campanha.
 
-ii. Após 24 horas, na guia [!UICONTROL Relatórios] , é possível visualizar os registros projetados que são calculados com base na probabilidade de registrar valores de todas as pessoas que estão atualmente convidadas.
+ii. Após 24 horas, na guia [!UICONTROL Relatórios], é possível ver os registros projetados que são calculados com base na probabilidade de registrar valores de todas as pessoas que estão atualmente convidadas.
 
 iii. Se os registros projetados forem menores que a meta, você precisará convidar mais pessoas. Neste ponto, você pode ver os insights que nos dizem qual era o limiar que funcionava em programas passados.
 
@@ -117,9 +117,9 @@ v. A qualquer momento, se você quiser entender por que um número projetado est
 
 A: Três barras, cada uma representando um segmento (Altamente provável, provável, menos provável).
 
-**Linha pontilhada violeta:** Taxa média de conversação para registro nesse segmento, com base em programas similares passados.
+**Linha pontilhada violeta:taxa** média de conversação para registro nesse segmento, com base em programas similares passados.
 
-**Barra azul:** Porcentagem de registro de todas as pessoas nesse segmento.
+**Barra azul:porcentagem** de registro de todas as pessoas nesse segmento.
 
 ![Imagem Nove](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-9.png)
 
