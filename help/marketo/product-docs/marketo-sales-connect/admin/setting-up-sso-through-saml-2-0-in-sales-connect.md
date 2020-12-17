@@ -19,7 +19,7 @@ Oferecemos suporte ao SSO através da especificação SAML 2.0. No entanto, não
 >
 >**Lembrete**
 >
->Isso só se aplica aos clientes do **Marketing** Sales Connect. Se você não tiver o Sales Connect, mas quiser saber mais, entre em contato com seu Gerente de sucesso do cliente.
+>Isso só se aplica aos clientes **Marketing to Sales Connect**. Se você não tiver o Sales Connect, mas quiser saber mais, entre em contato com seu Gerente de sucesso do cliente.
 
 ## Requisitos {#requirements}
 
@@ -33,6 +33,6 @@ O arquivo metadata.xml da instância SSO da sua equipe deve conter o URL do emis
 
 Também será necessário que a Localização SSO da sua conta SSO do empresa seja um domínio exclusivo. Por exemplo, nós `require a unique subdomain` gostamos de &quot;toutapp.pingidentity.com&quot; ou similar. Sem esse tipo de identificador exclusivo, não será possível configurar o SAML a partir do painel.
 
-Um logon e o Okta nem sempre fornecem identificadores únicos ao atribuir um URL. Se você estiver usando Okta ou One Login, isso significa que não poderemos configurar um logon a partir do botão painel. Ainda assim, poderemos configurá-lo a partir do botão Logon único no aplicativo [da](http://toutapp.com/login)Web.
+Um logon e o Okta nem sempre fornecem identificadores únicos ao atribuir um URL. Se você estiver usando Okta ou One Login, isso significa que não poderemos configurar um logon a partir do botão painel. Ainda assim, poderemos configurá-lo a partir do botão Logon único no [aplicativo Web](http://toutapp.com/login).
 
 Assim que tivermos essas informações, trabalharemos com nossa equipe de engenharia para configurar isso para sua subscrição.
