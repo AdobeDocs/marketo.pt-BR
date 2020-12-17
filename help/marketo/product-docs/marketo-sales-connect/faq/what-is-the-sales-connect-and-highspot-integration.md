@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # O que é a integração do Sales Connect e do Highspot? {#what-is-the-sales-connect-and-highspot-integration}
 
-O Sales Connect oferece suporte à integração com o [Highspot](https://www.highspot.com/), um sistema de gestão de conteúdo. Os clientes do Sales Connect que também são clientes do Highspot podem acessar seu conteúdo do Highspot no aplicativo da Web.
+O Sales Connect oferece suporte à integração com [Highspot](https://www.highspot.com/), um sistema de gestão de conteúdo. Os clientes do Sales Connect que também são clientes do Highspot podem acessar seu conteúdo do Highspot no aplicativo da Web.
 
 ## Requisitos {#requirements}
 
@@ -31,7 +31,7 @@ Além de trabalhar no Sales Connect em um navegador, a integração do Highspot 
 
 ## Habilitando a integração entre o Sales Connect e o Highspot {#enabling-the-sales-connect-and-highspot-integration}
 
-Se você estiver interessado em habilitar a Integração de Realce para sua equipe, entre em contato com o Suporte [do](http://support.marketo.com)Marketing.
+Se você estiver interessado em habilitar a Integração de Realce para sua equipe, entre em contato com [Suporte de Marketing](http://support.marketo.com).
 
 ## Como usar a integração {#how-to-use-the-integration}
 
