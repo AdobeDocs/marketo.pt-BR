@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Campos personalizados de membro do programa {#program-member-custom-fields}
+# Campos personalizados de membros do programa {#program-member-custom-fields}
 
 Campos personalizados de membros do programa permitem coletar dados específicos do programa para cada membro. Eles podem ser usados em: Formulários de marketing, filtros e acionadores de Lista inteligente e ações de fluxo de Campanha inteligente. Os dados podem ser visualizados na guia Membros do programa.
 
@@ -21,11 +21,11 @@ Campos personalizados de membros do programa permitem coletar dados específicos
 
    ![](assets/one.png)
 
-1. Clique em Gerenciamento **de** campos.
+1. Clique em **Gerenciamento de campo**.
 
    ![](assets/two.png)
 
-1. Clique em **Novo campo** personalizado.
+1. Clique em **Novo campo personalizado**.
 
    ![](assets/three.png)
 
@@ -43,7 +43,7 @@ Campos personalizados de membros do programa permitem coletar dados específicos
 
    >[!NOTE]
    >
-   >Os tipos suportados para campos personalizados de membros do Programa são: booleano, data, datetime, float, integer, string, URL. [Saiba mais sobre tipos](http://docs.marketo.com/x/Wwgt)de campos.
+   >Os tipos suportados para campos personalizados de membros do Programa são: booleano, data, datetime, float, integer, string, URL. [Saiba mais sobre tipos](http://docs.marketo.com/x/Wwgt) de campos.
 
 ## Descrições do objeto {#object-descriptions}
 
@@ -56,7 +56,7 @@ Campos personalizados de membros do programa permitem coletar dados específicos
 
 ## Acionadores e Filtros {#triggers-and-filters}
 
-Você pode aproveitar esses dados específicos do programa em listas inteligentes por meio de [](http://docs.marketo.com/x/PoAR)disparos e/ou [filtros](http://docs.marketo.com/x/2YAI).
+Você pode aproveitar esses dados específicos do programa em listas inteligentes por meio de [acionadores](http://docs.marketo.com/x/PoAR)e/ou [filtros](http://docs.marketo.com/x/2YAI).
 
 ![](assets/six.png)
 
@@ -68,7 +68,7 @@ Você pode aproveitar esses dados específicos do programa em listas inteligente
 * O objeto Membro do Programa pode ter até 20 campos personalizados. Esses campos estão disponíveis para qualquer programa.
 * Quando você remove um membro de um programa, se ele tiver dados em seu campo personalizado Membro do Programa, os dados serão depurados desse campo.
 * Para visualização dos dados, clique na guia Membros no programa e crie uma visualização personalizada que inclua os campos mencionados.
-* Importar e exportar por meio de [](http://docs.marketo.com/x/egAk)listagem e [](http://developers.marketo.com/)APIs são suportados.
+* Importar e exportar por meio de [lista](http://docs.marketo.com/x/egAk)e [API](http://developers.marketo.com/)são suportados.
 * Quando duas pessoas forem unidas, os dados de campo personalizado do membro Programa vencedor serão usados. Mas se o vencedor não tiver nenhum, o valor do perdedor será usado.
 
 >[!MORELIKETHIS]
