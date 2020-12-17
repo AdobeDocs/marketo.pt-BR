@@ -23,7 +23,7 @@ Há um recurso em Marketo para limitar o ***máximo ***número de pessoas que po
 >
 >Isso se aplica somente a campanhas em lote e programas de e-mail.
 
-1. Clique em **Admin **e, em seguida, em **Campanha** inteligente.
+1. Clique em **Admin **e em **Campanha inteligente**.
 
    ![](assets/image2014-9-18-15-3a58-3a29.png)
 
@@ -48,7 +48,7 @@ Há um recurso em Marketo para limitar o ***máximo ***número de pessoas que po
    >[!CAUTION]
    >
    >
-   >Esse limite é aplicado a todas as campanhas inteligentes, mas pode ser substituído no nível da campanha. Saiba como [substituir restrições de pessoa em uma campanha](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)inteligente.
+   >Esse limite é aplicado a todas as campanhas inteligentes, mas pode ser substituído no nível da campanha. Saiba como [substituir as restrições de pessoa em uma campanha inteligente](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 Bingo! Você acabou de ligar o interruptor de segurança. Boa ideia, certo?
 
