@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Emails indo para spam {#emails-going-to-spam}
+# Emails indo para Spam {#emails-going-to-spam}
 
 Trabalhamos muito para garantir que as nossas taxas de entrega continuem a ser elevadas. Ainda assim, há determinados comportamentos de usuário que podem receber emails roteados para a pasta Spam.
 
