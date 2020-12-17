@@ -17,9 +17,9 @@ O Marketing Insight de vendas é uma ferramenta fantástica para dar à sua equi
 
 >[!PREREQUISITES]
 >
->Conclua sua integração [com a](http://docs.marketo.com/x/ZwBd)Marketo-Microsoft.
+>Conclua sua [integração com a Microsoft do Marketing](http://docs.marketo.com/x/ZwBd).
 >
->[Baixe a solução](http://docs.marketo.com/x/LoJo) correta para sua versão do Microsoft Dynamics CRM.
+>[Baixe a ](http://docs.marketo.com/x/LoJo) solução correta para a sua versão do Microsoft Dynamics CRM.
 
 ## Importar solução {#import-solution}
 
@@ -56,11 +56,11 @@ Ok, agora é hora de importar a solução Marketing to Sales Insight para o Micr
 
    ![](assets/image2014-12-12-9-3a5-3a45.png)
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2014-12-12-9-3a5-3a55.png)
 
-1. A solução será carregada. Você pode visualização o conteúdo do pacote, se desejar. Clique em **Avançar**.
+1. A solução será carregada. Você pode visualização o conteúdo do pacote, se desejar. Clique em **Próximo**.
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 
@@ -76,7 +76,7 @@ Ok, agora é hora de importar a solução Marketing to Sales Insight para o Micr
 
    ![](assets/image2014-12-12-9-3a6-3a40.png)
 
-## Marketing e insight de vendas do Connect {#connect-marketo-and-sales-insight}
+## Connect Marketing e insights de vendas {#connect-marketo-and-sales-insight}
 
 Vinculemos sua instância de Marketo ao Sales Insight in Dynamics. Veja como:
 
@@ -88,11 +88,11 @@ Vinculemos sua instância de Marketo ao Sales Insight in Dynamics. Veja como:
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Na seção Sales Insight (Informações de vendas), clique em **Edit API Configuration (Editar configuração** da API).
+1. Na seção Sales Insight, clique em **Editar configuração da API**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Copie o Host **do** Marketo, o URL **da** API e a ID **do usuário da** API para uso em uma etapa posterior. Digite uma chave secreta da API de sua escolha e clique em **Salvar**.
+1. Copie as **ID de usuário da API**, **URL da API** e **ID de usuário da API** para uso em uma etapa posterior. Digite uma chave secreta da API de sua escolha e clique em **Salvar**.
 
    >[!CAUTION]
    >
@@ -102,7 +102,7 @@ Vinculemos sua instância de Marketo ao Sales Insight in Dynamics. Veja como:
 
    >[!NOTE]
    >
-   >Os campos a seguir devem ser sincronizados com o Marketing para que *tanto o Lead quanto o Contact* for Sales Insight funcionem:
+   >Os campos a seguir devem ser sincronizados com o Marketo para *lead e Contact* para que o Sales Insight funcione:
    >
    >    
    >    
@@ -114,11 +114,11 @@ Vinculemos sua instância de Marketo ao Sales Insight in Dynamics. Veja como:
    >    
    >Se algum desses campos estiver ausente, você verá uma mensagem de erro no Marketo com o nome dos campos ausentes. Para corrigir isso, execute [este procedimento](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. De volta ao Microsoft Dynamics, vá para **Configurações**.
+1. De volta ao Microsoft Dynamics, vá para **Settings**.
 
    ![](assets/image2014-12-12-9-3a7-3a25.png)
 
-1. Em **Configurações**, clique em Configuração **da API de** marketing.
+1. Em **Configurações**, clique em **Configuração da API do Marketing**.
 
    ![](assets/image2014-12-12-9-3a7-3a34.png)
 
@@ -126,7 +126,7 @@ Vinculemos sua instância de Marketo ao Sales Insight in Dynamics. Veja como:
 
    ![](assets/image2014-12-12-9-3a8-3a8.png)
 
-1. Digite as informações que você tirou de Marketo anteriormente e clique em **Salvar**.
+1. Digite as informações que você tirou do Marketo anteriormente e clique em **Salvar**.
 
    ![](assets/image2014-12-12-9-3a8-3a17.png)
 
@@ -138,7 +138,7 @@ Por fim, é necessário conceder a usuários específicos acesso para usar o Mar
 
    ![](assets/image2014-12-12-9-3a8-3a34.png)
 
-1. Vá para **Segurança**.
+1. Vá para **Security**.
 
    ![](assets/image2015-4-29-14-3a56-3a33.png)
 
@@ -150,7 +150,7 @@ Por fim, é necessário conceder a usuários específicos acesso para usar o Mar
 
    ![](assets/image2015-4-29-14-3a59-3a31.png)
 
-1. Selecione a função Informações sobre vendas de marketing e clique em **OK**.
+1. Selecione a função Informações de vendas de marketing e clique em **OK**.
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
