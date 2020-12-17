@@ -41,7 +41,7 @@ Atribua a função Usuário de sincronização de marketing somente ao usuário 
 
    ![](assets/assign2.png)
 
-1. Você verá uma lista de usuários aqui. Selecione o usuário dedicado de Sincronização de Marketing ou entre em contato com o administrador do [Ative Diretory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS) para criar um usuário dedicado para o Marketing.
+1. Você verá uma lista de usuários aqui. Selecione o usuário dedicado de Sincronização de Marketing ou entre em contato com o administrador do [Ative Diretory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS) para criar um usuário dedicado para o Marketo.
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -55,29 +55,29 @@ Atribua a função Usuário de sincronização de marketing somente ao usuário 
 
    >[!TIP]
    >
-   >Se você não vir a função, volte para a [etapa 1 da 3](step-1-of-3-install.md) e importe a solução.
+   >Se você não vir a função, volte para [etapa 1 de 3](step-1-of-3-install.md) e importe a solução.
 
    >[!NOTE]
    >
-   >Todas as atualizações feitas em seu CRM pelo usuário de sincronização **não** serão sincronizadas de volta ao Marketo.
+   >Todas as atualizações feitas em seu CRM pelo Usuário de sincronização serão **e não** sincronizadas de volta ao Marketo.
 
-## Configuração da solução de marketing {#configure-marketo-solution}
+## Configurar a solução de marketing {#configure-marketo-solution}
 
 Quase pronto! Temos apenas algumas últimas configurações antes de passar para o próximo artigo.
 
-1. Em **Configurações**, clique em **Configuração** de marketing.
+1. Em **Configurações**, clique em **Configuração do Marketing**.
 
    ![](assets/configure1.png)
 
    >[!NOTE]
    >
-   >Se a configuração de Marketo estiver ausente, tente atualizar a página. Se o problema persistir, [publique a solução](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) Marketo ou tente fazer logoff e login novamente.
+   >Se a configuração de Marketo estiver ausente, tente atualizar a página. Se o problema persistir, [publique a solução Marketo](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) ou tente fazer logoff e login novamente.
 
 1. Clique em **Padrão**.
 
    ![](assets/configure2.png)
 
-1. Clique no campo **Marketo User (Usuário** de marketing) e selecione o usuário de sincronização.
+1. Clique no campo **Usuário do Marketing** e selecione o usuário de sincronização.
 
    ![](assets/configure3.png)
 
@@ -89,10 +89,10 @@ Quase pronto! Temos apenas algumas últimas configurações antes de passar para
 
    ![](assets/publish-all-customizations1.png)
 
-## Antes de prosseguir para a etapa 3 {#before-proceeding-to-step}
+## Antes de prosseguir para a Etapa 3 {#before-proceeding-to-step}
 
-* Se você quiser restringir o número de registros sincronizados, [configure um filtro](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) de sincronização personalizado agora.
-* Execute o processo [Validar Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) . Ele verifica se as configurações iniciais foram feitas corretamente.
+* Se você quiser restringir o número de registros sincronizados, [configure um filtro de sincronização personalizado](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) agora.
+* Execute o processo [Validar Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Ele verifica se as configurações iniciais foram feitas corretamente.
 * Faça logon no usuário de sincronização de marketing no Microsoft Dynamics CRM.
 
 >[!NOTE]
