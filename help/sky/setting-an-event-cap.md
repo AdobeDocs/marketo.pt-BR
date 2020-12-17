@@ -29,19 +29,19 @@ Limite a quantidade de pessoas que podem se registrar para o seu evento com um l
 
    ![Imagem Um](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. Na Visão geral, localize a Tampa [!UICONTROL do] Evento e clique em **[!UICONTROL Não definido]**.
+1. Na Visão geral, localize [!UICONTROL Cap do Evento] e clique em **[!UICONTROL Não definido]**.
 
    ![Imagem dois](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. Digite a quantidade máxima de pessoas que você deseja registrar para o seu evento e clique em **[!UICONTROL Avançar]**.
+1. Digite a quantidade máxima de pessoas que você deseja registrar para o seu evento e clique em **[!UICONTROL Próximo]**.
 
    ![Imagem Três](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
-1. Clique no menu suspenso Página  de registro e selecione a landing page que atuará como sua página de registro.
+1. Clique no menu suspenso [!UICONTROL Página de registro] e selecione a landing page que atuará como sua página de registro.
 
    ![Imagem quatro](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. Clique no menu suspenso **[!UICONTROL Registration Full Page (Página]** completa de registro) e selecione a landing page que atuará como sua página de registro cheia. Clique em **[!UICONTROL Definir e ativar]** quando concluído.
+1. Clique no menu suspenso **[!UICONTROL Registration Full Page]** e selecione a landing page que atuará como sua página de registro cheia. Clique em **[!UICONTROL Definir e Ativar]** quando terminar.
 
    ![Imagem cinco](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
