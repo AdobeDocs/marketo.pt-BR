@@ -27,11 +27,11 @@ Os valores estão constantemente mudando e sendo atualizados no banco de dados d
 
    ![](assets/ma.png)
 
-1. Selecione a lista inteligente e clique na guia Lista **** inteligente.
+1. Selecione a lista inteligente e clique na guia **Lista inteligente**.
 
    ![](assets/two-1.png)
 
-1. Encontre o filtro Valor **de dados alterado** e arraste-o para a tela.
+1. Localize o filtro **Valor de dados alterado** e arraste-o para a tela de desenho.
 
    ![](assets/three-1.png)
 
@@ -39,7 +39,7 @@ Os valores estão constantemente mudando e sendo atualizados no banco de dados d
 
    ![](assets/four.png)
 
-Esse filtro procurará todas as pessoas que tiveram uma alteração (qualquer alteração) em seu Status. Se quiser ficar ainda mais sofisticado, tente [adicionar uma restrição a um filtro](add-a-constraint-to-a-smart-list-filter.md)de lista inteligente.
+Esse filtro procurará todas as pessoas que tiveram uma alteração (qualquer alteração) em seu Status. Se quiser ficar ainda mais sofisticado, tente [adicionar uma restrição a um filtro de lista inteligente](add-a-constraint-to-a-smart-list-filter.md).
 
 >[!NOTE]
 >
