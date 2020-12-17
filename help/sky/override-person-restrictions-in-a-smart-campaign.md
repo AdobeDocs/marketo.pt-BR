@@ -18,13 +18,13 @@ Marketo permite definir o número máximo de pessoas que podem se qualificar par
 
 >[!IMPORTANT]
 >
->Certifique-se de [ativar as restrições de pessoas para campanhas](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) inteligentes no [!UICONTROL Administrador]de marketing.
+>Certifique-se de [ativar as restrições de pessoa para campanhas inteligentes](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) no Marketo [!UICONTROL Admin].
 
 1. Localize sua campanha inteligente e clique em **[!UICONTROL Agendar]**.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. Clique em Regras **[!UICONTROL de qualificação]**.
+1. Clique em **[!UICONTROL Regras de qualificação]**.
 
    ![Imagem dois](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
@@ -32,7 +32,7 @@ Marketo permite definir o número máximo de pessoas que podem se qualificar par
    >
    >O limite padrão é aquele definido em Admin.
 
-1. Ao lado de **[!UICONTROL Abortar campanha se os clientes potenciais qualificados excederem]**, insira um novo limite.
+1. Ao lado de **[!UICONTROL Abortar campanha se os clientes em potencial qualificados excederem]**, insira um novo limite.
 
    ![Imagem Três](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-3.png)
 
