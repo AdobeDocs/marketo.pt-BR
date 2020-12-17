@@ -25,7 +25,7 @@ Saiba como executar ações em massa, como adicionar clientes potenciais a uma c
 
 ## Email em massa {#bulk-email}
 
-1. No Salesforce, clique na guia **Clientes potenciais** e escolha a lista dos clientes potenciais desejados.
+1. No Salesforce, clique na guia **Clientes potenciais** e escolha a lista de clientes potenciais desejados.
 
    ![](assets/one-6.png)
 
@@ -33,7 +33,7 @@ Saiba como executar ações em massa, como adicionar clientes potenciais a uma c
    >
    >Se você já estiver na lista que estará usando, será necessário executá-la novamente escolhendo-a na lista suspensa para garantir que os botões de ação em massa do MSC apareçam. Esse é o comportamento do Salesforce que não pode ser alterado.
 
-1. Clique no menu suspenso de seta (na extremidade direita da tela) e selecione **Email com MSC**.
+1. Clique na seta suspensa (na extremidade direita da tela) e selecione **Email com MSC**.
 
    ![](assets/two-6.png)
 
@@ -48,21 +48,21 @@ Saiba como executar ações em massa, como adicionar clientes potenciais a uma c
 
 ## Adicionar à Campanha {#add-to-campaign}
 
-1. No Salesforce, clique na guia **Clientes potenciais** e escolha a lista dos clientes potenciais desejados.
+1. No Salesforce, clique na guia **Clientes potenciais** e escolha a lista de clientes potenciais desejados.
 
    ![](assets/four-4.png)
 
-1. Clique na seta suspensa (na extremidade direita da tela) e selecione **Adicionar à Campanha** MSC.
+1. Clique na seta suspensa (na extremidade direita da tela) e selecione **Adicionar à Campanha MSC**.
 
    ![](assets/five-4.png)
 
-1. Um pop-up &quot;Adicionar pessoas à sua Campanha&quot; será exibido. Clique em **Avançar** e percorra o fluxo de campanha típico para acionar uma campanha do MSC.
+1. Um pop-up &quot;Adicionar pessoas à sua Campanha&quot; será exibido. Clique em **Avançar** e percorra o fluxo de campanha típico para acionar uma campanha MSC.
 
    ![](assets/six-1.png)
 
 ## Encaminhar para o Marketing Sales Connect {#push-to-marketo-sales-connect}
 
-1. No Salesforce, clique na guia **Clientes potenciais** e escolha a lista dos clientes potenciais desejados.
+1. No Salesforce, clique na guia **Clientes potenciais** e escolha a lista de clientes potenciais desejados.
 
    ![](assets/seven-2.png)
 
@@ -70,7 +70,7 @@ Saiba como executar ações em massa, como adicionar clientes potenciais a uma c
 
    ![](assets/eight-2.png)
 
-1. Uma nova guia chamada &quot;Salesforce Bridge&quot; será aberta. Clique no botão **Prosseguir para o Grupo** .
+1. Uma nova guia chamada &quot;Salesforce Bridge&quot; será aberta. Clique no botão **Prosseguir para Grupo →**.
 
    ![](assets/nine-2.png)
 
