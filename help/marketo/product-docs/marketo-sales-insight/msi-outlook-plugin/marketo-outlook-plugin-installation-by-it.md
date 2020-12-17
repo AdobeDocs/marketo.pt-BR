@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Configure](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) a chave corporativa.
+>[Configure ](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) a chave corporativa.
 
 Execute a seguinte linha de comando como &quot;Sistema&quot; ou uma conta de usuário administrativo com a opção /i a ser instalada.  `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
@@ -44,7 +44,7 @@ Para especificar um local dos arquivos de log, você pode especificar o caminho 
 >
 >O local do armazenamento do arquivo de log deve existir ou a instalação será abortada.
 
-Consulte a lista completa de switches [da](https://support.microsoft.com/en-us/kb/227091) Microsoft se desejar tentar níveis de log ou níveis de interface do usuário diferentes.
+Consulte [a lista completa de switches](https://support.microsoft.com/en-us/kb/227091) da Microsoft se você quiser tentar níveis de log ou níveis de interface do usuário diferentes.
 
 >[!NOTE]
 >
