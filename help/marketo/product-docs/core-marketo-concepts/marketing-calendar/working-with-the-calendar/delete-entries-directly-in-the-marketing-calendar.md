@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Excluir entradas diretamente no calendário de marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Além de [criar](create-entries-directly-in-the-marketing-calendar.md) e [editar](edit-entries-directly-in-the-marketing-calendar.md) entradas, você pode excluí-las diretamente no Calendário de marketing. Veja como.
+Além das entradas [criar](create-entries-directly-in-the-marketing-calendar.md) e [editar](edit-entries-directly-in-the-marketing-calendar.md), você pode excluí-las diretamente no Calendário de marketing. Veja como.
 
-1. Vá para o **Calendário**.
+1. Vá para **Calendar**.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. Selecione a entrada que deseja excluir e clique em **Mostrar foco** do Programa.
+1. Selecione a entrada que deseja excluir e clique em **Mostrar foco do Programa**.
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
