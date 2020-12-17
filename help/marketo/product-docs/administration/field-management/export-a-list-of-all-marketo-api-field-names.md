@@ -19,11 +19,11 @@ Se você estiver usando nossa API SOAP ou API Munchkin, precisará de uma lista 
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para **Admin** e clique em Gerenciamento **** de campo.
+1. Vá para **Admin** e clique em **Gerenciamento de campo**.
 
    ![](assets/image2014-9-24-14-3a4-3a54.png)
 
-1. Clique em **Exportar nomes** de campo para baixar a planilha.
+1. Clique em **Exportar nomes de campo** para baixar a planilha.
 
    ![](assets/image2014-9-24-14-3a5-3a6.png)
 
