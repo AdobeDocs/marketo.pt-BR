@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Criar um arquivo de Evento de calendário (.ics) {#create-a-calendar-event-ics-file}
+# Criar um Evento de calendário (.ics) Arquivo {#create-a-calendar-event-ics-file}
 
 Um token de Arquivo de calendário permite que você adicione um link de evento de calendário (.ics) aos seus emails e landings page do Marketo.
 
-1. Dentro do seu programa, vá para a guia **Meus Tokens** .
+1. Dentro do seu programa, vá para a guia **Meus tokens**.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Arraste um token de Arquivo **** de calendário para a tela.
+1. Arraste um token **Arquivo de calendário** para a tela de desenho.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Insira um Nome **de** token e **Editar**.
+1. Insira um **Nome do token** e **Editar**.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
-1. Digite os detalhes e clique em **Salvar**.
+1. Insira os detalhes e clique em **Salvar**.
 
    ![](assets/image2014-9-11-15-3a34-3a16.png)
 
