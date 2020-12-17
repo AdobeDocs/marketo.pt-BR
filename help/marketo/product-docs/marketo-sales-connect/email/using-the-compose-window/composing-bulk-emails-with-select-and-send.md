@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Composição de emails em massa com Selecionar e Enviar {#composing-bulk-emails-with-select-and-send}
+# Composição de emails em massa com Select e Send {#composing-bulk-emails-with-select-and-send}
 
 Veja como enviar/editar emails usando a opção Selecionar e enviar.
 
-## Envio de emails {#sending-emails}
+## Enviando emails {#sending-emails}
 
 1. Navegue até a página Pessoas.
 
@@ -29,23 +29,23 @@ Veja como enviar/editar emails usando a opção Selecionar e enviar.
    >
    >É possível selecionar no máximo 200 pessoas ao usar Selecionar e enviar.
 
-1. Clique no botão **Email selecionado** .
+1. Clique no botão **Email selecionado**.
 
    ![](assets/three-2.png)
 
-1. Insira uma linha de assunto, selecione um modelo (ou componha o e-mail do zero) e envie/ [](http://docs.marketo.com/x/GAQ6Ag)agende o e-mail.
+1. Insira uma linha de assunto, selecione um modelo (ou componha o email do zero) e envie/ [agendar](http://docs.marketo.com/x/GAQ6Ag)o email.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Se você selecionou um modelo e gostaria de verificar se todos os campos dinâmicos estão sendo preenchidos corretamente antes do envio, clique em **Pré-visualização Dynamic Fields (Campos** dinâmicos). Verifique se todos os recipient na barra lateral em massa estão selecionados para pré-visualização para todos os emails. Se você selecionar um e-mail e clicar em **Pré-visualização Dynamic Fields (Campos** dinâmicos de ), somente esse e-mail será visualizado.
+   >Se você selecionou um modelo e gostaria de verificar se todos os campos dinâmicos estão sendo preenchidos corretamente antes de enviar, clique em **Pré-visualização Campos dinâmicos**. Verifique se todos os recipient na barra lateral em massa estão selecionados para pré-visualização para todos os emails. Se você selecionar um e-mail e clicar em **Campos dinâmicos de Pré-visualização**, apenas esse e-mail será visualizado.
 
-## Editar e-mails {#editing-emails}
+## Editando e-mails {#editing-emails}
 
 **Edições em massa**
 
-1. Siga as Etapas 1 a 3 da seção [](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)Enviando e-mails.
+1. Siga as Etapas 1 a 3 da seção [Enviando e-mails](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Veja como enviar/editar emails usando a opção Selecionar e enviar.
    >
    >Você pode clicar em um recipient de email específico para ver as alterações propagadas para esse email.
 
-1. Clique em **Enviar** (ou [Agendar](http://docs.marketo.com/x/GAQ6Ag)) para enviar para todos os recipient com as atualizações de email em massa feitas.
+1. Clique em **Enviar** (ou [Agendar](http://docs.marketo.com/x/GAQ6Ag)) para enviar a todos os recipient as atualizações de email em massa efetuadas.
 
    ![](assets/bulk-four.png)
 
@@ -89,7 +89,7 @@ Conclua Atualizações em massa antes de personalizar cada email, já que fazer 
    >
    >Você pode clicar em outros recipient para ver se as alterações feitas no recipient selecionado anteriormente não estão sendo exibidas.
 
-1. Clique em **Enviar** (ou [Agendar](http://docs.marketo.com/x/GAQ6Ag)) para enviar para todos os recipient com as atualizações de email em massa feitas.
+1. Clique em **Enviar** (ou [Agendar](http://docs.marketo.com/x/GAQ6Ag)) para enviar a todos os recipient as atualizações de email em massa efetuadas.
 
    ![](assets/each-four.png)
 
