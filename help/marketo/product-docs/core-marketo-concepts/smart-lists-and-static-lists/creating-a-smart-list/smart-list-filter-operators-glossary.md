@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Glossário de operadores de filtro de Lista inteligente {#smart-list-filter-operators-glossary}
 
-Um operador é parte da lista [](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) inteligente que ajuda você a obter informações específicas. Ele permite que você descreva seu filtro ou acionador em um idioma simples. Os operadores disponíveis são diferentes para cada tipo de campo.\
+Um operador faz parte da [lista inteligente](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) que ajuda você a obter informações específicas. Ele permite que você descreva seu filtro ou acionador em um idioma simples. Os operadores disponíveis são diferentes para cada tipo de campo.\
 Aqui está um glossário descrevendo cada conjunto de operadores.
 
 ## Campos de data {#date-fields}
@@ -51,11 +51,11 @@ Basta digitar o número e a unidade juntos e vai funcionar!
 
 >[!NOTE]
 >
->No passado **inclui** o dia (até a hora, não depois) em que você cria sua lista inteligente.
+>No passado, **inclui** o dia (até a hora, não depois) que você cria sua lista inteligente.
 
 >[!CAUTION]
 >
->Ao criar uma lista inteligente usando um filtro de campo de data (por exemplo, Data de nascimento, Data de criação do SFDC) e usar as restrições **antes** ou **sobre ou antes** , a lista inteligente também incluirá pessoas que não têm valor nesse campo de data.
+>Ao criar uma lista inteligente usando um filtro de campo de data (por exemplo, Data de nascimento, Data de criação SFDC) e usar as restrições **before** ou **em ou antes de**, a lista inteligente também incluirá pessoas que não têm valor nesse campo de data.
 
 Use o diagrama a seguir para entender a diferença entre os operadores de data.
 
@@ -75,7 +75,7 @@ Use o diagrama a seguir para entender a diferença entre os operadores de data.
 >
 >Diga que você quer ver os clientes que estão prontos para renovação em 90 dias. Você usaria dois filtros separados. Primeira utilização &quot;No futuro após 90 dias&quot; e segunda, &quot;No futuro, 91 dias&quot;. Isso capturaria quem tiver uma data daqui a 90 dias.
 
-## Campos de string {#string-fields}
+## Campos de cadeia de caracteres {#string-fields}
 
 ![](assets/image2014-9-10-17-3a16-3a6.png)
 
@@ -136,7 +136,7 @@ Use o diagrama a seguir para entender a diferença entre os operadores de data.
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">está vazio</td> 
-   <td colspan="1" rowspan="1">Registros sem valor (NULL) - zero é um número, <em>não</em> é NULL</td> 
+   <td colspan="1" rowspan="1">Registros sem valor (NULL) - zero é um número, é <em>not</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">não está vazio</td> 
