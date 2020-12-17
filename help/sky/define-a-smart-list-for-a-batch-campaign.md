@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Listas inteligentes são o mecanismo em todo o mercado para definir &quot;quem&quot; (quais pessoas) incluir, seja um relatório, uma lista ou uma campanha inteligente. Veja como definir uma lista inteligente para uma campanha em lote.
 
-1. Escolha uma campanha inteligente e clique em Lista **[!UICONTROL inteligente]**.
+1. Escolha uma campanha inteligente e clique em **[!UICONTROL Lista inteligente]**.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-1.png)
 
@@ -32,7 +32,7 @@ Listas inteligentes são o mecanismo em todo o mercado para definir &quot;quem&q
    >
    >É possível fazer com que uma campanha inteligente seja executada em uma pessoa de cada vez, com base em eventos ao vivo, adicionando acionadores, o que coloca a campanha inteligente no modo Acionador.
 
-1. Clique na lista suspensa e escolha um operador de filtro (por exemplo, **[!UICONTROL é]**, não ****&#x200B;é etc.) para o filtro escolhido.
+1. Clique na lista suspensa e escolha um operador de filtro (por exemplo, **[!UICONTROL is]**, **[!UICONTROL não é]**, etc.) para o filtro que escolheu.
 
    ![Imagem Três](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 
@@ -47,6 +47,6 @@ Listas inteligentes são o mecanismo em todo o mercado para definir &quot;quem&q
 >[!NOTE]
 >
 >Por padrão, as pessoas que atendem TODAS as regras de lista inteligente são
->qualificado. Isso pode ser modificado para atender às suas necessidades de campanha. Consulte Regras de Lista [inteligente para obter mais informações sobre Lógica](https://docs.marketo.com/display/DOCS/Using+Advanced+Smart+List+Rule+Logic) complexa.
+>qualificado. Isso pode ser modificado para atender às suas necessidades de campanha. Verifique [Regras de Lista inteligente para Lógica complexa](https://docs.marketo.com/display/DOCS/Using+Advanced+Smart+List+Rule+Logic) para saber mais.
 >
->Para acionar eventos ao vivo, uma pessoa de cada vez, aprenda a [Definir Lista inteligente para Campanha inteligente | Acionador](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Trigger).
+>Para acionar em eventos ao vivo uma pessoa de cada vez, aprenda a [Definir Lista inteligente para Campanha inteligente | Acionador](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Trigger).
