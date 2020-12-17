@@ -31,11 +31,11 @@ Você pode criar [tags](../../../product-docs/core-marketo-concepts/programs/wor
 
    ![](assets/image2014-9-24-12-3a10-3a32.png)
 
-1. Clique em **Novo** e selecione **Novo tipo** de tag.
+1. Clique em **Novo** e selecione **Novo tipo de tag**.
 
    ![](assets/image2014-9-24-12-3a12-3a43.png)
 
-1. Insira o Tipo **de** tag e um **Valor** de tag. Em seguida, clique em **Adicionar outro**.
+1. Digite o **Tipo de tag** e uma tag **Valor**. Em seguida, clique em **Adicionar outro**.
 
    ![](assets/image2014-9-24-12-3a16-3a55.png)
 
