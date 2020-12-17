@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Criar um Programa por email](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir uma Audiência com uma Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) inteligente ou [Definir uma Audiência Importando uma Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir uma Audiência com uma ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista inteligente ao  [definir uma Audiência importando uma Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Escolha um email](choose-an-existing-email.md) existente ou [crie um email para um Programa de email](create-an-email-for-an-email-program.md)
+* [Escolha um ](choose-an-existing-email.md) email existente  [Criar um email para um Programa de email](create-an-email-for-an-email-program.md)
    >
    >
 * [Agendar seu Programa de email](schedule-your-email-program.md)
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 
 
-## Aprovar seu Programa de email {#approve-your-email-program}
+## Aprove seu Programa de e-mail {#approve-your-email-program}
 
 Agora que seu programa está pronto, o passo final é aprová-lo. Veja como:
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -44,7 +44,7 @@ Agora que seu programa está pronto, o passo final é aprová-lo. Veja como:
    >
    >Se você não aprovar seu programa de email, o email não sairá.
 
-1. Em **Aprovação** , vá em frente e clique em **Aprovar Programa**.
+1. No bloco **Aprovação**, vá em frente e clique em **Aprovar Programa**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -56,11 +56,11 @@ Agora que seu programa está pronto, o passo final é aprová-lo. Veja como:
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
-## Cancelar aprovação do Programa de email {#unapprove-your-email-program}
+## Cancelar aprovação do Programa de e-mail {#unapprove-your-email-program}
 
 Se você mudar de ideia e decidir que não quer que ela saia, você pode cancelar a aprovação do programa de email.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -68,7 +68,7 @@ Se você mudar de ideia e decidir que não quer que ela saia, você pode cancela
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. No bloco **Aprovação** , basta clicar em **Cancelar aprovação de Programa**.
+1. No bloco **Aprovação**, basta clicar em **Programa não aprovado**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 
