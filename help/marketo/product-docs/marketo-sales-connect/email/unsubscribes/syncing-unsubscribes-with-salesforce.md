@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sincronização de Cancelamentos de Assinatura com o Salesforce {#syncing-unsubscribes-with-salesforce}
+# Sincronizando as assinaturas com o Salesforce {#syncing-unsubscribes-with-salesforce}
 
 ## Requisitos para Cancelar a assinatura da sincronização com o Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
@@ -31,11 +31,11 @@ Ao ativar a sincronização de cancelamento de assinatura (Etapa 3 abaixo), voc�
 
 Os usuários podem decidir se desejam sincronizar seus cancelamentos de assinatura com o campo Opt out de email padrão com o qual o Marketo também pode sincronizar, ou se podem sincronizar com o campo Opt out de vendas do Marketing para que eles cancelem a assinatura do setor de Vendas e o cancelamento da assinatura do Marketing possa ser diferenciado.
 
-1. Vá para o aplicativo [da](http://toutapp.com/login)Web, clique no ícone de engrenagem e selecione **Configurações**.
+1. Vá para [aplicação Web](http://toutapp.com/login), clique no ícone de engrenagem e selecione **Definições**.
 
    ![](assets/one-1.png)
 
-1. Em Configurações administrativas, selecione **Cancelar inscrição**.
+1. Em Configurações administrativas, selecione **Cancela a assinatura**.
 
    ![](assets/two-2.png)
 
@@ -49,9 +49,9 @@ Os usuários podem decidir se desejam sincronizar seus cancelamentos de assinatu
 
    | **Sincronizar com o campo Opt out do Salesforce** | Selecionado por padrão, só atualiza o campo Opt out do Salesforce. |
    |---|---|
-   | **Sincronizar com o campo Opt out de Vendas do Marketing** | Se você quiser separar as cancelações de vendas e de marketing, escolha esta opção para atualizar o campo de Opt out de vendas [do Marketing.](#msoo) |
+   | **Sincronizar com o campo Opt out de Vendas do Marketing** | Se você quiser separar as cancelamentos de vendas e marketing, escolha esta opção para atualizar o campo adicional [Opt out de vendas do Marketing to.](#msoo) |
 
-## Instalação do campo Opt out no layout da página {#installing-the-opt-out-field-in-the-page-layout}
+## Instalação do campo Opt out no Layout da página {#installing-the-opt-out-field-in-the-page-layout}
 
 **Opt out de email**
 
@@ -69,7 +69,7 @@ O Opt out de email é um campo padrão no Salesforce que está disponível para 
 
    ![](assets/seven-1.png)
 
-1. Selecione Layouts **de página**.
+1. Selecione **Layouts de página**.
 
    ![](assets/eight-1.png)
 
@@ -89,7 +89,7 @@ O Opt out de email é um campo padrão no Salesforce que está disponível para 
 
    ![](assets/twelve.png)
 
-## Opt out de Vendas do Marketing to {#marketo-sales-opt-out}
+## Opt out de Vendas do Marketing {#marketo-sales-opt-out}
 
 O campo Opt out de Vendas do Marketing to é um campo personalizado que está disponível para usuários que instalaram as Personalizações do Marketing to Sales Connect.
 
