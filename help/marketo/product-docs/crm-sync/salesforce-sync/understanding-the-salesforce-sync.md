@@ -40,9 +40,9 @@ A sincronização entre Salesforce e Marketo é bidirecional somente para client
 
 >[!NOTE]
 >
->As [credenciais inseridas no Marketo para Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) são usadas para sincronizar os dados. Somente os dados aos quais essas credenciais têm acesso serão incluídos.
+>As credenciais [inseridas no Marketo para Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) são usadas para sincronizar dados. Somente os dados aos quais essas credenciais têm acesso serão incluídos.
 
-Há muitas nuances e recursos sobre a sincronização do Salesforce. Confira os detalhes na seção [de detalhes de sincronização do](http://docs.marketo.com/display/docs/sfdc+sync+details)SFDC.
+Há muitas nuances e recursos sobre a sincronização do Salesforce. Confira os detalhes na seção [Detalhes de sincronização SFDC](http://docs.marketo.com/display/docs/sfdc+sync+details).
 
 >[!MORELIKETHIS]
 >
