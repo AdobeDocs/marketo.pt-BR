@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Reordenar &quot;Adicionar escolha&quot; em uma etapa de fluxo {#reorder-add-choice-in-a-flow-step}
+# Reordene &quot;Adicionar escolha&quot; em uma Etapa de fluxo {#reorder-add-choice-in-a-flow-step}
 
 Como somente a primeira escolha correspondente se aplica a uma pessoa, o pedido é importante. Se você quiser alterar a ordem das condições definidas em uma etapa de fluxo, veja como.
 
@@ -19,15 +19,15 @@ Como somente a primeira escolha correspondente se aplica a uma pessoa, o pedido 
 
    ![](assets/one.png)
 
-1. Vamos mover a escolha 3 acima da escolha 2. Clique em **Escolha 3** e em **Mover para cima**.
+1. Vamos mover a escolha 3 acima da escolha 2. Clique em **Escolha 3** e, em seguida, clique em **Mover para cima**.
 
    >[!NOTE]
    >
-   >Ao reorganizar, você pode **Mover para** cima, **Mover para baixo** ou **Mover para**.
+   >Ao reordenar, você pode **Mover para cima**, **Mover para baixo** ou **Mover para**.
 
    ![](assets/two.png) ![](assets/three.png)
 
-1. Se você tiver muitas opções e precisar mover vários níveis para cima ou para baixo, poderá usar esse método alternativo para economizar tempo. Clique na escolha que deseja mover e, em **Mover para**, arraste o controle deslizante para a posição na qual deseja mover a escolha.
+1. Se você tiver muitas opções e precisar mover vários níveis para cima ou para baixo, poderá usar esse método alternativo para economizar tempo. Clique na escolha que deseja mover e, em **Mover para**, arraste o controle deslizante para a posição para a qual deseja mover a escolha.
 
    ![](assets/four.png)
 
