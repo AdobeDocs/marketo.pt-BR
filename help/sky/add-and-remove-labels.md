@@ -12,14 +12,14 @@ ht-degree: 0%
 
 # Adicionar e remover etiquetas
 
-Você pode atribuir rótulos a qualquer ativo no [!UICONTROL Marketing Atividade], tornando a organização e localização de ativos uma grande vantagem.
+Você pode atribuir rótulos a qualquer ativo em [!UICONTROL Atividades de marketing], tornando a organização e localização de ativos uma breeze.
 
 ## Adicionar etiquetas
 
-Para adicionar novos rótulos a um ativo, navegue até a página [!UICONTROL Detalhes] do ativo na guia [!UICONTROL Visão geral] .
+Para adicionar novos rótulos a um ativo, navegue até a página [!UICONTROL Detalhes] do ativo na guia [!UICONTROL Visão geral].
 <br> 
 
-Na seção [!UICONTROL Rótulos] , clique em **[!UICONTROL Adicionar novos rótulos]**.
+Na seção [!UICONTROL Etiquetas], clique em **[!UICONTROL Adicionar novos rótulos]**.
 
 ![Imagem Um](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
@@ -37,6 +37,6 @@ Se você estiver adicionando um rótulo que já foi criado em outro lugar, digit
 
 ## Remover etiquetas
 
-Você pode remover qualquer rótulo clicando no **[!UICONTROL X]**.
+Você pode remover qualquer rótulo clicando em **[!UICONTROL X]**.
 
 ![Imagem quatro](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
