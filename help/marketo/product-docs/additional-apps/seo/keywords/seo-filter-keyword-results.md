@@ -17,7 +17,7 @@ Você pode ter muitas [palavras-chave](seo-understanding-keywords.md). Estas sã
 
 ## Filtrar por lista {#filter-by-list}
 
-1. Vá para a seção **Palavras-chave** .
+1. Vá para a seção **Palavras-chave**.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -27,7 +27,7 @@ Você pode ter muitas [palavras-chave](seo-understanding-keywords.md). Estas sã
 
    >[!NOTE]
    >
-   >Se você não vir nenhuma lista, [eu](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [ganho como fazer uma lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)de palavra-chave.
+   >Se você não vir nenhuma lista, [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [aprenda como fazer uma lista de palavra-chave](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 Doce! Agora você só estará olhando para palavras-chave nessa lista.
 
@@ -37,7 +37,7 @@ Doce! Agora você só estará olhando para palavras-chave nessa lista.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   Os quadrados laranja definem seus limites superior (esquerdo) e inferior (direito). O filtro funciona na classificação [SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)da palavra-chave.
+   Os quadrados laranja definem seus limites superior (esquerdo) e inferior (direito). O filtro funciona na classificação SERP [da palavra-chave](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. Deslize os quadrados laranja para a esquerda/direita para filtrar os resultados.
 
@@ -47,7 +47,7 @@ Doce! Agora você só estará olhando para palavras-chave nessa lista.
 
 Você também pode encontrar as palavras-chave que está procurando usando o campo de pesquisa no canto superior direito.
 
-1. Vá para a seção **Palavras-chave** .
+1. Vá para a seção **Palavras-chave**.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
