@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Instalar campos de Evento do Sales Connect no histórico de Atividades {#install-sales-connect-event-fields-on-activity-history}
+# Instalar campos de Evento do Sales Connect no Histórico de Atividades {#install-sales-connect-event-fields-on-activity-history}
 
 Depois de instalar o pacote Enterprise no Salesforce, você poderá instalar os campos de evento do Sales Connect na seção de histórico de atividades. Os campos de evento do Sales Connect incluem informações como visualizações, cliques e campanhas. Isso permite que você tenha informações sobre seus e-mails diretamente importados para o Salesforce.
 
-Certifique-se de associar o administrador do Salesforce ao executar essas etapas. Neste exemplo, instalaremos os campos no **Layout** de página de clientes potenciais. Você também pode instalar os campos nos Layouts de Página Contato, Conta e Oportunidade. Lembre-se de que, ao registrar emails em Contas e Oportunidades, você precisará do contato que está associando por email como função de contato.
+Certifique-se de associar o administrador do Salesforce ao executar essas etapas. Neste exemplo, instalaremos os campos em **Layout de página principal**. Você também pode instalar os campos nos Layouts de Página Contato, Conta e Oportunidade. Lembre-se de que, ao registrar emails em Contas e Oportunidades, você precisará do contato que está associando por email como função de contato.
 
 1. Clique em **Configuração**.
 1. Clique em **Personalizar**.
 1. Clique em **Clientes potenciais**.
-1. Clique em Layouts **de página**.
-1. Clique em **Editar** ao lado do layout da página que você deseja alterar.
+1. Clique em **Layouts de página**.
+1. Clique em **Editar** ao lado do layout de página que você deseja alterar.
 
    >[!NOTE]
    >
