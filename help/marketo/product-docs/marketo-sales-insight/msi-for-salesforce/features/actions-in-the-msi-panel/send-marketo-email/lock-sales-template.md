@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bloquear modelo de vendas {#lock-sales-template}
+# Bloquear Modelo de Vendas {#lock-sales-template}
 
 Para impedir que usuários do CRM editem modelos de vendas, os administradores podem habilitar a capacidade de bloquear modelos, o que permite que os usuários bloqueiem modelos individualmente do editor de email.
 
@@ -19,7 +19,7 @@ Para impedir que usuários do CRM editem modelos de vendas, os administradores p
 >
 >Este recurso funciona somente para o Salesforce e não é compatível com o Microsoft Dynamics ou outros CRMs. Os modelos acessados pelo Outlook ou pelos plug-ins do Gmail não serão bloqueados, pois o editor não é controlado pelo Marketo.
 
-## Ativar Modelo de Bloqueio {#enable-lock-template}
+## Ativar Bloquear Modelo {#enable-lock-template}
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Para impedir que usuários do CRM editem modelos de vendas, os administradores p
 
    ![](assets/2.png)
 
-1. Marque **Ativar a capacidade de bloquear modelos**. Clique em **Salvar**.
+1. Marque **Habilite a capacidade de bloquear modelos**. Clique em **Salvar**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -43,19 +43,19 @@ Para impedir que usuários do CRM editem modelos de vendas, os administradores p
 
 >[!NOTE]
 >
->Alterar essa configuração como administrador **não** afetará retroativamente os modelos existentes; ou seja, não os bloqueia automaticamente.
+>Alterar essa configuração como um administrador **não** afetará retroativamente os modelos existentes; ou seja, não os bloqueia automaticamente.
 
-## Bloquear modelo no Editor de email {#lock-template-in-the-email-editor}
+## Bloquear modelo no editor de email {#lock-template-in-the-email-editor}
 
 1. Selecione o email que deseja bloquear e clique em **Editar rascunho**.
 
    ![](assets/5.png)
 
-1. No editor de email, clique em Configurações **de** email.
+1. No editor de email, clique em **Configurações de email**.
 
    ![](assets/6.png)
 
-1. Marque **Publicar no Marketing Sales Insight** se ainda não estiver marcado. Agora você pode desmarcar **Permitir que o usuário do CRM edite emails** para bloquear o modelo. Clique em **Salvar**.
+1. Marque **Publicar no Marketing Insight de Vendas** se ainda não estiver marcado. Agora você pode desmarcar **Permitir que o usuário do CRM edite email** para bloquear o modelo. Clique em **Salvar**.
 
    ![](assets/7.png)
 
