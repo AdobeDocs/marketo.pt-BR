@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Criar um subgrupo {#create-a-sub-team}
+# Criar um Sub-grupo {#create-a-sub-team}
 
-## Criar um subgrupo {#create-a-sub-team-1}
+## Criar um Sub-grupo {#create-a-sub-team-1}
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/one-1.png)
 
-1. Em Configurações de administrador, selecione Gerenciamento **de** grupo.
+1. Em Configurações administrativas, selecione **Gerenciamento de equipe**.
 
    ![](assets/two-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Insira um nome de equipe (e uma descrição opcional) e clique em **Criar**.
+1. Insira um nome de equipe (e descrição opcional) e clique em **Criar**.
 
    ![](assets/four-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Adicionar pessoas ao seu subgrupo {#add-people-to-your-sub-team}
 
-1. Ainda no Gerenciamento de grupos, selecione o grupo **Todos** .
+1. Ainda no Gerenciamento de grupos, selecione o grupo **Todos**.
 
    ![](assets/five-1.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Clique em **Adicionar às equipes** quando terminar.
+1. Clique em **Adicionar a equipes** quando terminar.
 
    ![](assets/nine.png)
 
