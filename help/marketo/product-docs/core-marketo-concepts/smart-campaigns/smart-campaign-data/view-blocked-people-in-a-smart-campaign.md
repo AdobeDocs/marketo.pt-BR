@@ -19,13 +19,13 @@ As pessoas bloqueadas no banco de dados do Marketo são marcadas como incluir na
 >
 >O Marketo está mudando termos como Blacklist e Whitelist para Lista de bloqueios e Lista de permissões em nosso produto. Durante esta atualização, você pode ver os termos antigos em nossa interface do usuário e nas capturas de tela da documentação, bem como os novos termos em nosso texto de documentação. Pedimos desculpas por qualquer confusão.
 
-1. Na sua campanha inteligente, clique em **Agendar**. Em Status **da Lista** inteligente, clique no segundo link.
+1. Na sua campanha inteligente, clique em **Schedule**. Em **Status da Lista inteligente**, clique no segundo link.
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
    >[!NOTE]
    >
-   >As pessoas que tenham atingido os seus limites de comunicação também podem ser impedidas de receber emails. Saiba como [editar limites](../../../../product-docs/administration/email-setup/enable-communication-limits.md) de comunicação na seção Admin.
+   >As pessoas que tenham atingido os seus limites de comunicação também podem ser impedidas de receber emails. Saiba como [editar limites de comunicação](../../../../product-docs/administration/email-setup/enable-communication-limits.md) na seção Admin.
 
    A guia Pessoas bloqueadas mostra pessoas que podem não receber mensagens.
 
