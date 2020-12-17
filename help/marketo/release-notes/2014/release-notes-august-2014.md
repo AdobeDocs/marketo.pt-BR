@@ -17,9 +17,9 @@ Os seguintes recursos estão incluídos na versão de agosto de 2014. Verifique 
 
 ## Licenças do calendário de marketing {#marketing-calendar-licenses}
 
-Após 5 de setembro de 2014, apenas 5 usuários poderão ter acesso gratuito ao calendário de marketing. Certifique-se de [emitir/revogar uma Licença](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) de calendário de marketing para os usuários de sua escolha antes, para acesso ininterrupto.
+Após 5 de setembro de 2014, apenas 5 usuários poderão ter acesso gratuito ao calendário de marketing. Certifique-se de [Emitir/Revogar uma Licença de Calendário de Marketing](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para os usuários de sua escolha antes, para acesso ininterrupto.
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Novas permissões de usuário {#new-user-permissions}
 
@@ -33,7 +33,7 @@ As novas permissões de usuário a seguir foram adicionadas:
 | Ativar Campanha do acionador | Controle quem pode e não pode ativar campanhas de acionamento. |
 | Agendar Campanha em lote | Controle quem pode e não pode programar execuções de campanha em lote. |
 
-## Exportar usuários e funções do administrador {#export-users-and-roles-from-admin}
+## Exportar usuários e funções de Admin {#export-users-and-roles-from-admin}
 
 Agora você pode [Exportar uma Lista de usuários e funções](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) do Marketing. Você também pode incluir um carimbo de data e hora &quot;Último logon&quot; para ser incluído na exportação.
 
@@ -63,7 +63,7 @@ Adicionamos rótulos à página de campanha para que você possa marcar o conte�
 
 ![](assets/image2014-9-16-12-3a23-3a28.png)
 
-## Direcionamento móvel {#mobile-targeting}
+## Definição de metas móvel {#mobile-targeting}
 
 Você perguntou à comunidade e nós entregamos! Agora você pode incluir, excluir ou definir uma chamada específica para ação para usuários móveis e tablets.
 
@@ -81,7 +81,7 @@ Agora você pode compartilhar de forma rápida e fácil um link de pré-visualiz
 
 ![](assets/image2014-9-16-12-3a24-3a22.png)
 
-## Relatório de mecanismo de recomendação de conteúdo {#content-recommendation-engine-report}
+## Relatório do mecanismo de recomendação de conteúdo {#content-recommendation-engine-report}
 
 Adicionamos um novo relatório de mecanismo de recomendação de conteúdo para que você possa ver um bom resumo.
 
