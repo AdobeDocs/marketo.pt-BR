@@ -17,7 +17,7 @@ Ao ativar o bloqueio de conteúdo, restrinja usuários não administradores à e
 
 >[!NOTE]
 >
->Os usuários ainda **poderão** editar o conteúdo de um email no momento do envio ou ao iniciar uma campanha.
+>Os usuários **ainda poderão** editar o conteúdo de um email no momento do envio ou ao iniciar uma campanha.
 
 1. No Sales Connect, clique no ícone de configurações e selecione **Configurações**.
 
@@ -27,7 +27,7 @@ Ao ativar o bloqueio de conteúdo, restrinja usuários não administradores à e
 
    ![](assets/two-4.png)
 
-1. Role para baixo até Content Lockdown (Bloqueio de conteúdo). A ativação de qualquer controle deslizante *desativará* a capacidade dos membros da equipe de criar/editar modelos e/ou campanhas.
+1. Role para baixo até Content Lockdown (Bloqueio de conteúdo). A ativação de qualquer controle deslizante *disable* a capacidade dos membros da equipe de criar/editar modelos e/ou campanhas.
 
    ![](assets/three-4.png)
 
