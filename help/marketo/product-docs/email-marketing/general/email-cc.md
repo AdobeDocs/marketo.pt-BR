@@ -15,7 +15,7 @@ ht-degree: 0%
 
 O Email CC permite que emails especificados sejam enviados pelo Marketo para incluir recipient CC.
 
-Este recurso está disponível em todos os ativos de email do Marketing para, independentemente de como o email é enviado (campanha de lote ou acionador). O recipient CC receberá uma cópia exata do e-mail enviado à pessoa selecionada do Marketing Cloud. Dessa forma, qualquer atividade de envolvimento (abre, clica etc.) será registrado no registro de atividades da Pessoa de marketing na linha &quot;Para&quot; do email. No entanto, a atividade do delivery (enviada, entregue, rejeição em disco, etc.) *diferente de &quot;salto suave&quot;* **não** será registrado, pois o Marketo não é capaz de distinguir eventos de delivery para a Pessoa de marketing dos recipient CC. O Marketo só contará com até 100 mil pessoas por vez. Se sua lista inteligente exceder 100 mil e for imperativo que cada pessoa nela tenha CC&#39;d, recomendamos quebrar sua lista.
+Este recurso está disponível em todos os ativos de email do Marketing para, independentemente de como o email é enviado (campanha de lote ou acionador). O recipient CC receberá uma cópia exata do e-mail enviado à pessoa selecionada do Marketing Cloud. Dessa forma, qualquer atividade de envolvimento (abre, clica etc.) será registrado no registro de atividades da Pessoa de marketing na linha &quot;Para&quot; do email. No entanto, a atividade do delivery (enviada, entregue, rejeição em disco, etc.) *além de &quot;salto suave&quot;,* não  **** será registrado, pois o Marketo não é capaz de distinguir eventos de delivery para a Pessoa de marketing dos recipient CC. O Marketo só contará com até 100 mil pessoas por vez. Se sua lista inteligente exceder 100 mil e for imperativo que cada pessoa nela tenha CC&#39;d, recomendamos quebrar sua lista.
 
 >[!NOTE]
 >
@@ -31,25 +31,25 @@ Este recurso está disponível em todos os ativos de email do Marketing para, in
 
    ![](assets/two.png)
 
-1. Clique em **Editar configurações** de e-mail CC.
+1. Clique em **Editar configurações de e-mail CC**.
 
    ![](assets/three.png)
 
-1. Selecione até 25 campos de venda ou Empresa (do tipo &quot;Email&quot;) para disponibilizar para uso como endereços CC em emails. Clique em **Salvar** quando concluído.
+1. Selecione até 25 campos de venda ou Empresa (do tipo &quot;Email&quot;) para disponibilizar para uso como endereços CC em emails. Clique em **Salvar** quando terminar.
 
    ![](assets/four.png)
 
-## Uso do Email CC {#using-email-cc}
+## Usando o Email CC {#using-email-cc}
 
 1. Selecione seu email e clique em **Editar rascunho**.
 
    ![](assets/five.png)
 
-1. Clique em Configurações **de** email.
+1. Clique em **Configurações de e-mail**.
 
    ![](assets/six.png)
 
-1. Selecione até cinco campos que deseja usar para CCs. Neste exemplo, só queremos a CC do proprietário principal. Clique em **Salvar** quando concluído.
+1. Selecione até cinco campos que deseja usar para CCs. Neste exemplo, só queremos a CC do proprietário principal. Clique em **Salvar** quando terminar.
 
    ![](assets/seven.png)
 
@@ -70,15 +70,15 @@ Este recurso está disponível em todos os ativos de email do Marketing para, in
    >
    >Você também verá o erro acima na seção Configurações de e-mail do rascunho do e-mail.
 
-## Após o envio {#after-the-send}
+## Depois de Enviar {#after-the-send}
 
 * Se um recipient CC clicar em um link rastreado no email, clique em atividade (como toda a atividade de envolvimento) será associado ao recipient principal do email. Além disso, eles podem clicar até uma página com o código de rastreamento da Web do Marketo (munchkin.js), fazendo com que eles sejam cookies como o recipient principal.
 
 >[!TIP]
 >
->Você tem a opção de [desativar alguns ou todos os links](http://docs.marketo.com/x/IwAd) de rastreamento em um email.
+>Você tem a opção de [desativar alguns ou todos os links de rastreamento](http://docs.marketo.com/x/IwAd) em um email.
 
 * Depois que uma campanha de email é executada, a atividade Enviar email incluirá uma lista de todos os endereços CC que foram incluídos para cada recipient do correio. Se algum endereço CC foi ignorado devido ao cancelamento da inscrição, ele também será anotado na atividade.
 * Os links e páginas de cancelamento de assinatura funcionam normalmente em emails CC&#39;d. Isso permite que os recipient da CC cancelem a assinatura com êxito se desejarem (em conformidade com as regulamentações antisspam), e um registro dessa ação será armazenado no Banco de Dados do Marketing.
-* As pessoas que estão listadas como não assinadas no seu Banco de Dados de Marketing **não** receberão emails via CC.
+* As pessoas listadas como não assinadas no seu Banco de Dados do Marketo **e não** receberão emails via CC.
 
