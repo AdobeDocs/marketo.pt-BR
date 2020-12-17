@@ -29,7 +29,7 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in do
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Insira um nome para a nova função e uma descrição opcional. Marque a caixa **Acessar aplicativo** móvel e clique em **Criar**.
+1. Insira um nome para a nova função e uma descrição opcional. Marque a caixa **Acessar aplicativo móvel** e clique em **Criar**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -37,7 +37,7 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in do
 
 ## Convidar novos usuários para o aplicativo de check-in {#invite-new-users-for-the-check-in-app}
 
-1. Clique na guia **Usuários** .
+1. Clique na guia **Usuários**.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
