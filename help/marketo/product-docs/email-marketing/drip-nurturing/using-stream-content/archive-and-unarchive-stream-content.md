@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Arquivar e desarquivar conteúdo de fluxo {#archive-and-unarchive-stream-content}
 
-Se não quiser mais usar um conteúdo em um fluxo, você pode [removê](remove-stream-content.md) -lo ou arquivá-lo. Veja como arquivar conteúdo.
+Se não quiser mais usar um conteúdo em um fluxo, você pode [removê-lo](remove-stream-content.md) ou arquivá-lo. Veja como arquivar conteúdo.
 
 >[!TIP]
 >
@@ -21,17 +21,17 @@ Se não quiser mais usar um conteúdo em um fluxo, você pode [removê](remove-s
 
 ## Arquivar conteúdo de fluxo {#archive-stream-content}
 
-1. Selecione seu programa de envolvimento e vá para a guia **Streams** .
+1. Selecione seu programa de envolvimento e vá para a guia **Streams**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Passe o mouse sobre o e-mail que deseja arquivar e, em seguida, sob o ícone de engrenagem, clique em **Arquivar**.
+1. Passe o cursor do mouse sobre o e-mail que deseja arquivar e, em seguida, no ícone de engrenagem, clique em **Arquivar**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
    É isso! Lembre-se, arquive se quiser preservar o histórico.
 
-## Desarquivar conteúdo de fluxo {#unarchive-stream-content}
+## Desarquivar Conteúdo de Fluxo {#unarchive-stream-content}
 
 1. Selecione seu programa de envolvimento e vá para a guia Streams.
 
