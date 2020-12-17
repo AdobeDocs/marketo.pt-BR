@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Definir preferências de alerta de email {#seo-set-your-email-alert-preferences}
+# SEO - Definir as preferências de alerta de email {#seo-set-your-email-alert-preferences}
 
 Você pode personalizar suas preferências de email para determinar quando será atualizado sobre seus esforços de SEO.
 
-1. Na barra de navegação superior, clique no seu nome de usuário. Clique em Preferências **de** email.
+1. Na barra de navegação superior, clique no seu nome de usuário. Clique em **Preferências de e-mail**.
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
