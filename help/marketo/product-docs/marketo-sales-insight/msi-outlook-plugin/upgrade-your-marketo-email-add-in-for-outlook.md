@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Atualizar seu Suplemento de Email do Marketing para Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
+# Atualize seu Suplemento de Email do Marketing para Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Quando uma nova versão do Complemento de e-mail do Marketo para Outlook estiver disponível, siga estas instruções para atualizar.
 
-## Baixar instalador {#download-installer}
+## Baixar o instalador {#download-installer}
 
 Baixe o instalador apropriado para a sua versão do Microsoft Outlook.
 
@@ -113,7 +113,7 @@ Baixe o instalador apropriado para a sua versão do Microsoft Outlook.
  </tbody> 
 </table>
 
-## Atualização {#upgrade}
+## Atualizar {#upgrade}
 
 1. Execute o instalador.
 
@@ -130,7 +130,7 @@ Baixe o instalador apropriado para a sua versão do Microsoft Outlook.
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. Você notará que todas as suas informações estão pré-preenchidas. Basta clicar em **Avançar**.
+1. Você notará que todas as suas informações estão pré-preenchidas. Basta clicar em **Next**.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -142,7 +142,7 @@ Baixe o instalador apropriado para a sua versão do Microsoft Outlook.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
