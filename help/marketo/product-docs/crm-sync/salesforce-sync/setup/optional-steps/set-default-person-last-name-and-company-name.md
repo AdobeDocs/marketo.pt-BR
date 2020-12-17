@@ -19,11 +19,11 @@ O Salesforce requer (mínimo) sobrenome e nome da empresa para seus Clientes pot
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Clique em **Editar opções** de sincronização.
+1. Clique em **Editar opções de sincronização**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Insira um sobrenome **de pessoa** padrão e uma **Padrão **empresa **de** pessoa e clique em **Salvar**.
+1. Digite um **sobrenome de pessoa padrão** e um **Padrão ****empresa de pessoa** e clique em **Salvar**.
 
    ![](assets/sync-options-hands.png)
 
