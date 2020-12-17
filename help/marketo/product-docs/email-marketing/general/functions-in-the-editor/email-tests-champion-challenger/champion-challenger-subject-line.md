@@ -23,15 +23,15 @@ ht-degree: 0%
 
 
 
-1. No editor de teste de email, selecione **Assunto Linha** no menu suspenso **Tipo de teste **I.
+1. No editor de teste de email, selecione **Linha do assunto** no menu suspenso **Tipo de teste **I.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Em um teste de assunto, a primeira linha de assunto inserida é designada como **campeão**. As linhas de assunto subsequentes são chamadas **Challengers**.
+   >Em um teste de assunto, a primeira linha de assunto inserida é designada como **Champion**. As linhas de assunto subsequentes são chamadas **Challengers**.
 
-1. Digite as linhas de assunto dos **Desafiadores**.
+1. Digite as linhas de assunto para **Challengers**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -50,9 +50,9 @@ ht-degree: 0%
    >
    >Na distribuição mostrada acima, 10% da audiência total especificada na lista inteligente recebe um dos emails com a linha de assunto desafiante e 90% recebem emails com a linha de assunto campeã. Emails com várias linhas de assunto desafiadoras compartilham os 10% igualmente. Quando o teste terminar, você pode declarar um vencedor manualmente. A partir daí, todas as pessoas futuras receberão o conteúdo com melhor desempenho.
 
-   Para ganhar confiança estatística, verifique se a porcentagem escolhida inclui pessoas suficientes, para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos.  [Mais informação do que você já quis sobre confiança](http://en.wikipedia.org/wiki/Confidence_interval)estatística.
+   Para ganhar confiança estatística, verifique se a porcentagem escolhida inclui pessoas suficientes, para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos.  [Mais informação do que você já quis sobre confiança](http://en.wikipedia.org/wiki/Confidence_interval) estatística.
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
