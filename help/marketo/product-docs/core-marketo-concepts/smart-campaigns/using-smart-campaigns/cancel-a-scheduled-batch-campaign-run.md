@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cancelar uma execução de Campanha em lote agendada {#cancel-a-scheduled-batch-campaign-run}
+# Cancelar uma Execução de Campanha em Lote Agendada {#cancel-a-scheduled-batch-campaign-run}
 
 Se você agendou uma execução para uma de suas campanhas em lote e gostaria de cancelá-la, veja como.
 
