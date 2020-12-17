@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Instalar o pacote de insight de vendas do Marketing Cloud na AppExchange do Salesforce {#install-marketo-sales-insight-package-in-salesforce-appexchange}
+# Instale o Pacote de informações de vendas do Marketo na AppExchange do Salesforce {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 
 Você precisa instalar o aplicativo Marketing Insight de vendas na subscrição do Salesforce antes de poder desfrutar de todas as informações de vendas. Veja como.
 
@@ -23,12 +23,12 @@ Você precisa instalar o aplicativo Marketing Insight de vendas na subscrição 
 >
 >O Marketing to Sales Insight é compatível com a Criptografia da plataforma Salesforce (Shield).
 
-1. Vá para a página de [AppExchange do Marketing](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) Sales Insight e clique em **Obter agora**.
+1. Vá para a página [AppExchange do Marketing Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) e clique em **Obter agora**.
 
    ![](assets/one.png)
 
-1. Clique em **Fazer logon no botão AppExchange** e faça logon com suas credenciais do Salesforce.
-1. Insira o logon da conta do Salesforce conectado e clique em **Instalar no Production**.
+1. Clique em **Faça logon no botão AppExchange** e faça logon com suas credenciais do Salesforce.
+1. Insira o logon da conta do Salesforce conectado e clique em **Instalar em Production**.
 
    ![](assets/three.png)
 
@@ -44,7 +44,7 @@ Você precisa instalar o aplicativo Marketing Insight de vendas na subscrição 
 
    ![](assets/five.png)
 
-1. Você poderá ver a seguinte mensagem ao start do processo de instalação. Você receberá um e-mail assim que a instalação for concluída. Clique em **Concluído** para rejeitar.
+1. Você poderá ver a seguinte mensagem ao start do processo de instalação. Você receberá um e-mail assim que a instalação for concluída. Clique em **Concluído** para fechar.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ Você precisa instalar o aplicativo Marketing Insight de vendas na subscrição 
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
-1. Verifique se a opção **Implantado** está marcada para todos os itens do Marketing to Sales Insight.
+1. Verifique se **Implantado** está marcada para todos os itens do Marketing to Sales Insight.
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
@@ -68,7 +68,7 @@ Você precisa instalar o aplicativo Marketing Insight de vendas na subscrição 
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
-1. Na seção Status **de** implantação, selecione **Implantado** e clique em **Salvar**.
+1. Na seção **Status da Implantação**, selecione **Implantado** e clique em **Salvar**.
 
    ![](assets/image2014-9-24-17-3a24-3a0.png)
 
