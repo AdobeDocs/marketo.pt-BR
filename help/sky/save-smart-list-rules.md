@@ -18,11 +18,11 @@ Salvar regras de listas inteligentes é uma excelente maneira de economizar temp
 
 ## Como salvar regras de Lista inteligente
 
-1. No [!UICONTROL Marketing Atividade], selecione sua campanha inteligente (ou crie uma nova).
+1. Em [!UICONTROL Atividades de marketing], selecione sua campanha inteligente (ou crie uma nova).
 
    ![Imagem Um](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. Clique em **[!UICONTROL Lista]** inteligente.
+1. Clique em **[!UICONTROL Lista inteligente]**.
 
    ![Imagem dois](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -32,7 +32,7 @@ Salvar regras de listas inteligentes é uma excelente maneira de economizar temp
 
    ![Imagem quatro](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. Quando terminar de adicionar filtros/acionadores, clique no menu suspenso Ações **[!UICONTROL de Campanha]** inteligente e selecione **[!UICONTROL Salvar regra]** de Lista inteligente.
+1. Quando terminar de adicionar filtros/acionadores, clique no menu suspenso **[!UICONTROL Ações de Campanha inteligente]** e selecione **[!UICONTROL Salvar regra de Lista inteligente]**.
 
    ![Imagem cinco](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
@@ -44,15 +44,15 @@ E é isso! Na próxima vez que você criar uma campanha inteligente, terá acess
 
 ## Usando regras de Lista inteligente salvas
 
-1. No [!UICONTROL Marketing Atividade], selecione sua campanha inteligente (ou crie uma nova).
+1. Em [!UICONTROL Atividades de marketing], selecione sua campanha inteligente (ou crie uma nova).
 
    ![Imagem sete](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. Clique em **[!UICONTROL Lista]** inteligente.
+1. Clique em **[!UICONTROL Lista inteligente]**.
 
    ![Imagem Oito](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. Clique no menu suspenso Regra **** salva.
+1. Clique no menu suspenso **[!UICONTROL Regra salva]**.
 
    ![Imagem Nove](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
