@@ -27,27 +27,27 @@ Você pode importar uma lista de pessoas que automaticamente se tornam membros d
 
 ## Importar seu CSV para o Marketing {#import-your-csv-into-marketo}
 
-1. No seu programa, vá para a seção **Deputados** .
+1. No seu programa, vá para a seção **Membros**.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Clique em **Importar membros**.
+1. Clique em **Importar Membros**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Selecione o CSV e clique em **Avançar**.
+1. Selecione o CSV e clique em **Próximo**.
 
    ![](assets/importlist1.png)
 
-1. Mapeie os valores de dados da lista para os campos de marketing correspondentes e clique em **Avançar**.
+1. Mapeie os valores de dados da lista para os campos de marketing correspondentes e clique em **Next**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >Se houver campos que você não deseja importar, selecione **IGNORAR** no menu suspenso Campo de marketing.
+   >Se houver campos que você não deseja importar, selecione **IGNORE** no menu suspenso Campo de marketing.
 
-1. Selecione o Status **do** Membro para sua lista.
+1. Selecione **Member Status** para sua lista.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
