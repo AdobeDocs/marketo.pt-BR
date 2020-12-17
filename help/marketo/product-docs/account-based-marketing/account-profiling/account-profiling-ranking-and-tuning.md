@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Classificação e Ajuste da Definição de Perfil da Conta {#account-profiling-ranking-and-tuning}
+# Classificação e Ajuste de Definição de Perfil de Conta {#account-profiling-ranking-and-tuning}
 
 A criação de perfil de conta identifica seu Perfil de cliente ideal (ICP), classifica empresas no banco de dados com base no ICP e adiciona dados de Indicador ICP a contas promovidas como Contas nomeadas.
 
-## Resultados do modelo {#model-results}
+## Resultados do Modelo {#model-results}
 
 Os resultados mostram todas as suas contas conhecidas divididas por grau. A é a nota mais alta, D é a mais baixa.
 
 ![](assets/results.png)
 
-Embora opcional, recomendamos selecionar a caixa de seleção Promover automaticamente, pois isso economizará muito tempo. Entretanto, se você quiser percorrer cada conta e [adicioná-la manualmente](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts), deixe a caixa desmarcada.
+Embora opcional, recomendamos selecionar a caixa de seleção Promover automaticamente, pois isso economizará muito tempo. Entretanto, se você quiser percorrer cada conta e [adicioná-las manualmente](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts), deixe a caixa desmarcada.
 
 <table> 
  <tbody> 
@@ -89,13 +89,13 @@ Clique no menu suspenso Adicionar indicador ICP para inserir outros indicadores 
 
 ![](assets/add-icp.png)
 
-Marcar a caixa Exportar permite que você veja o indicador ICP na página Detalhes da conta nomeada, bem como usar o indicador ICP selecionado como restrições em filtros [de conta](http://docs.marketo.com/display/DOCS/Account+Filters)nomeados.
+Marcar a caixa Exportar permite que você veja o indicador ICP na página Detalhes da conta nomeada, bem como usar o indicador ICP selecionado como restrições em [filtros de conta nomeados](http://docs.marketo.com/display/DOCS/Account+Filters).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Os indicadores de ICP são incluídos como restrições no **Membro de Filtros e acionadores de conta** nomeados.
+>Os indicadores de ICP são incluídos como restrições em **Membro de Filtros e acionadores da conta nomeada**.
 
 O Indicador de peso é o que controla o nível de importância que cada indicador recebe no seu modelo.
 
