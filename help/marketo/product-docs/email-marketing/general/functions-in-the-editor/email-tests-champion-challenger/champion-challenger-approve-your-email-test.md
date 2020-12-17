@@ -23,11 +23,11 @@ A etapa final para configurar seu teste de email para aprová-lo. Veja como.
 
 
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Localize e clique com o botão direito do mouse no Teste **de** email e clique em **Aprovar teste**.
+1. Localize e clique com o botão direito do mouse em **Teste de e-mail**, em seguida, clique em **Aprovar teste**.
 
    ![](assets/champion3.jpg)
 
@@ -36,11 +36,11 @@ A etapa final para configurar seu teste de email para aprová-lo. Veja como.
    >**Lembrete**
    >
    >
-   >Ao aprovar um **teste de Email** Inteiro*** **teste, aprove o email do desafiante primeiro.
+   >Ao aprovar um **Email Inteiro****** teste, aprove o email do desafiante primeiro.
 
    >[!NOTE]
    >
-   >Para enviar o teste para fora, escolha o e-mail ao qual você adicionou o teste na etapa de fluxo de **Enviar e-mail** da campanha do acionador. Você também tem a opção de inserir esse email em um fluxo de um programa de envolvimento. Os emails de campeão/desafio não funcionarão em campanhas de lote.
+   >Para enviar o teste para fora, escolha o e-mail ao qual você adicionou o teste na etapa de fluxo **Enviar e-mail** da campanha do acionador. Você também tem a opção de inserir esse email em um fluxo de um programa de envolvimento. Os emails de campeão/desafio não funcionarão em campanhas de lote.
 
    Não foi tão fácil? Depois de receber alguns relatórios, você vai querer declarar um campeão.
 
