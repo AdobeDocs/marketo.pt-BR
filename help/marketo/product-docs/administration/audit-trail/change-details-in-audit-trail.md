@@ -32,7 +32,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   <tr> 
    <td rowspan="15">Programa padrão<br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Criar</td> 
-   <td>Tipo de canal "Tipo de canal"<br><br>ouClonado de "Nome do programa"</td> 
+   <td>Tipo de canal "Tipo de canal"<br>ou<br>Clonado de "Nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Renomear</td> 
@@ -40,7 +40,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Local "pasta de Campanha" ou "programa de envolvimento" Nome do programa <br>clonado "novo nome"</td> 
+   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Localização "pasta de Campanha" ou "programa de envolvimento" <br>Nome do programa clonado "novo nome"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -93,7 +93,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   <tr> 
    <td rowspan="18">Email<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Criar</td> 
-   <td>Criado usando o modelo "nome do modelo" <br>ou <br>clonado de "nome do ativo"</td> 
+   <td>Criado usando o modelo "nome do modelo" <br>ou <br>Clonado de "nome do ativo"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -101,11 +101,11 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Atualização de "De email" para "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[protegido por email]</a>"</td> 
+   <td>Atualização de "De email" para "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protegido]</a>"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Atualização de "Responder a" para "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[protegido por email]</a>"</td> 
+   <td>Atualização de "Responder a" para "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protegido]</a>"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -145,11 +145,11 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Design studio" na pasta "nome da pasta" Nome do ativo <br>clonado "nome"<br><br>ouClonado para "Atividades de marketing" no programa "nome do programa" Nome do ativo<br>clonado "nome"</td> 
+   <td>Clonado para "Design studio" na pasta "nome da pasta" <br>Nome do ativo clonado "nome"<br>ou<br>Clonado para "Atividades de marketing" no programa "nome do programa"<br>Nome do ativo clonado "nome"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Movido para "Design studio" para a pasta "nome da pasta"<br><br>ou movido para "atividades de marketing" para "nome do programa"</td> 
+   <td>Movido para "Design studio" para a pasta "nome da pasta"<br>ou<br>Movido para "atividades de marketing" para o programa "nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Aprovar</td> 
@@ -161,12 +161,12 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Rascunho</td> 
-   <td>O email foi redigido porque o snippet "snippet name" foi<br><br>aprovado ou o email foi redigido porque o modelo "template name" foi aprovado</td> 
+   <td>O email foi redigido porque o snippet "snippet name" foi aprovado<br>ou<br>E-mail foi redigido porque o modelo "template name" foi aprovado</td> 
   </tr> 
   <tr> 
    <td rowspan="17">Programa de email</td> 
    <td>Criar</td> 
-   <td>Tipo de canal "Tipo de canal"<br><br>ouClonado de "Nome do programa"</td> 
+   <td>Tipo de canal "Tipo de canal"<br>ou<br>Clonado de "Nome do programa"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Renomear</td> 
@@ -174,7 +174,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Local "pasta de Campanha ou programa de envolvimento" Nome do programa <br>clonado "novo nome"</td> 
+   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Localização "pasta de Campanha ou programa de envolvimento" <br>Nome do programa clonado "novo nome"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -255,7 +255,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "nome da pasta" Nome do ativo <br> clonado "nome"</td> 
+   <td>Clonado para "nome da pasta" <br> Nome do ativo clonado "nome"</td> 
   </tr> 
   <tr> 
    <td>Aprovar</td> 
@@ -268,7 +268,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   <tr> 
    <td rowspan="23">Programa de envolvimento</td> 
    <td>Criar</td> 
-   <td>Tipo de canal "Tipo de canal"<br> ou Clonado<br> de "Nome do programa"</td> 
+   <td>Tipo de canal "tipo de canal"<br> ou<br> Clonado de "nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Renomear</td> 
@@ -276,7 +276,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Local "pasta de Campanha ou programa de envolvimento" Nome do programa <br>clonado "novo nome"</td> 
+   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Localização "pasta de Campanha ou programa de envolvimento" <br>Nome do programa clonado "novo nome"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -300,19 +300,19 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Modificar fluxo de programas</td> 
-   <td>Adicionar<br>contentNome do fluxo "nome do fluxo"<br>Tipo "Email" ou "Programa"<br>Nome "nome do email" ou "nome do programa" Campanha<br>inteligente "nome da campanha inteligente"</td> 
+   <td>Adicione conteúdo<br>Nome do fluxo "nome do fluxo"<br>Digite "Email" ou "Programa"<br>Nomeie "nome do email" ou "nome do programa"<br>Campanha inteligente "nome da campanha inteligente"</td> 
   </tr> 
   <tr> 
    <td>Modificar fluxo de programas</td> 
-   <td>Ativar o nome do<br>contentStream "nome do fluxo"Nome do<br>conteúdo "nome do email" ou "nome do programa"</td> 
+   <td>Ativar content<br>Nome do fluxo "nome do fluxo"<br>Nome do conteúdo "nome do email" ou "nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Modificar fluxo de programas</td> 
-   <td>Desativar<br>contentNome do fluxo "nome do fluxo"Nome do<br>conteúdo "nome do email" ou "nome do programa"</td> 
+   <td>Desativar conteúdo<br>Nome do fluxo "nome do fluxo"<br>Nome do conteúdo "nome do email" ou "nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Modificar fluxo de programas</td> 
-   <td>Remover<br>contentNome do fluxo "nome do fluxo"Nome do<br>conteúdo "nome do email" ou "nome do programa"</td> 
+   <td>Remover conteúdo<br>Nome do fluxo "nome do fluxo"<br>Nome do conteúdo "nome do email" ou "nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
@@ -361,7 +361,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   <tr> 
    <td rowspan="18">Programa evento</td> 
    <td>Criar</td> 
-   <td>Tipo de canal "Tipo de canal"<br><br>ouClonado de "Nome do programa"</td> 
+   <td>Tipo de canal "Tipo de canal"<br>ou<br>Clonado de "Nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Renomear</td> 
@@ -373,7 +373,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Local "pasta de campanha" ou "programa de envolvimento" Nome do programa <br>clonado "novo nome"</td> 
+   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Localização "pasta de campanha" ou "programa de envolvimento" <br>Nome do programa clonado "novo nome"</td> 
   </tr> 
   <tr> 
    <td>Editar canal</td> 
@@ -479,11 +479,11 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Design studio" na pasta "nome da pasta" Nome do ativo <br>clonado "nome"<br><br>ouClonado para "Atividades de marketing" no programa "nome do programa" Nome do ativo<br>clonado "nome"</td> 
+   <td>Clonado para "Design studio" na pasta "nome da pasta" <br>Nome do ativo clonado "nome"<br>ou<br>Clonado para "Atividades de marketing" no programa "nome do programa"<br>Nome do ativo clonado "nome"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Movido para "Design studio" para a pasta "nome da pasta"<br><br>ou movido para "atividades de marketing" para "nome do programa"</td> 
+   <td>Movido para "Design studio" para a pasta "nome da pasta"<br>ou<br>Movido para "atividades de marketing" para o programa "nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -493,7 +493,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   <tr> 
    <td rowspan="9">landing page</td> 
    <td>Criar</td> 
-   <td>Criado usando o modelo "nome do modelo" <br>ou <br>clonado de "nome do ativo"</td> 
+   <td>Criado usando o modelo "nome do modelo" <br>ou <br>Clonado de "nome do ativo"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -509,11 +509,11 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Design studio" na pasta "nome da pasta"Nome do ativo<br>clonado "nome"URL do ativo<br>clonado "www.url.com"<br><br>ouClonado para "Atividades de marketing" no programa "nome do programa" Nome do ativo <br>clonado "nome"URL do ativo<br>clonado "www.url.com"</td> 
+   <td>Clonado para "Design studio" na pasta "nome da pasta"<br>Nome do ativo clonado "nome"<br>URL do ativo clonado "www.url.com"<br>ou<br>Clonado para "Atividades de marketing" no programa "nome do programa" <br>Nome do ativo clonado "nome"<br>URL do ativo clonado "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Movido para "Design studio" para a pasta "nome da pasta"<br> ou<br> movido para "atividades de marketing" para "nome do programa"</td> 
+   <td>Movido para "Design studio" para a pasta "nome da pasta"<br> ou<br> Movido para "Marketing atividade" para o programa "nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Aprovar</td> 
@@ -530,7 +530,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   <tr> 
    <td rowspan="8">Modelo de landing page</td> 
    <td>Criar</td> 
-   <td><p><br><br>BlankorCloned de "nome do ativo"</p></td> 
+   <td><p>Em branco<br>ou<br>Clonado de "nome do ativo"</p></td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -546,7 +546,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "nome da pasta" Nome do ativo <br>clonado "nome"</td> 
+   <td>Clonado para "nome da pasta" <br>Nome do ativo clonado "nome"</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
@@ -571,7 +571,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Banco de dados da pessoa" na pasta "nome da pasta" Nome do ativo <br>clonado "nome"<br><br>ouClonado para "Atividades de marketing" no programa "nome do programa" Nome do ativo<br>clonado "nome"</td> 
+   <td>Clonado para "Banco de Dados de Pessoa" na pasta "nome da pasta" <br>Nome do ativo clonado "nome"<br>ou<br>Clonado para "Atividades de Marketing" no programa "nome do programa"<br>Nome do ativo clonado "nome"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -600,7 +600,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Movido para "Programas" no programa "nome do programa"<br><br>ou movido para "Pastas" para a pasta "nome da pasta"</td> 
+   <td>Movido para "Programas" para o programa "nome do programa"<br>ou<br>Movido para "Pastas" para a pasta "nome da pasta"</td> 
   </tr> 
   <tr> 
    <td>Renomear</td> 
@@ -616,7 +616,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Programas" no programa "nome do programa" Nome do ativo <br>clonado "nome"<br><br>ouClonado para "Pasta" na pasta "nome da pasta"Nome do ativo<br>clonado "nome"</td> 
+   <td>Clonado para "Programas" no programa "nome do programa" <br>Nome do ativo clonado "nome"<br>ou<br>Clonado para "Pasta" na pasta "nome da pasta"<br>Nome do ativo clonado "nome"</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração de lista inteligente</td> 
@@ -653,7 +653,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Banco de dados da pessoa" na pasta "nome da pasta" Nome do ativo <br>clonado "nome"<br><br>ouClonado para "Atividades de marketing" no programa "nome do programa" Nome do ativo <br>clonado "nome"</td> 
+   <td>Clonado para "Banco de dados de pessoa" na pasta "nome da pasta" <br>Nome do ativo clonado "nome"<br>ou<br>Clonado para "Atividades de marketing" no programa "nome do programa" <br>Nome do ativo clonado "nome"</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração de lista inteligente</td> 
@@ -662,7 +662,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   <tr> 
    <td rowspan="11">Trecho</td> 
    <td>Criar</td> 
-   <td><p><br><br>BlankorCloned de "nome do fragmento"</p></td> 
+   <td><p>Em branco<br>ou<br>Clonado de "nome do fragmento"</p></td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -690,7 +690,7 @@ A Trilha de Auditoria oferta uma grande variedade de ideias sobre quem está faz
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "nome da pasta" Nome do trecho <br>clonado "nome"</td> 
+   <td>Clonado para "nome da pasta" <br>Nome do fragmento clonado "nome"</td> 
   </tr> 
   <tr> 
    <td>Aprovar</td> 
