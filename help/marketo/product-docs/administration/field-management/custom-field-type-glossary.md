@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Glossário de tipo de campo personalizado {#custom-field-type-glossary}
+# Glossário de Tipo de Campo Personalizado {#custom-field-type-glossary}
 
 Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para escolher.
 
@@ -25,15 +25,15 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 >[!TIP]
 >
->Dependendo do tipo de campo, [os operadores](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary) de filtro/acionador serão diferentes.
+>Dependendo do tipo de campo, os operadores [filter/trigger](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary) serão diferentes.
 
 >[!NOTE]
 >
->A maioria dos campos não atinge o limite máximo em número de caracteres, mas sim em quantidade de bytes. Por causa disso, não é possível fornecer um limite de caracteres definitivo para cada campo. A exceção é **String**, que atinge 255 caracteres.
+>A maioria dos campos não atinge o limite máximo em número de caracteres, mas sim em quantidade de bytes. Por causa disso, não é possível fornecer um limite de caracteres definitivo para cada campo. A exceção é **String**, que chega a 255 caracteres.
 
 ## Booleano {#boolean}
 
-**Nome do exemplo:** É cliente - Marque suas pessoas como clientes
+**Nome do exemplo:** é cliente - Marque suas pessoas como clientes
 
 **Valores de exemplo:** True (marcado) / False (desmarcado)
 
@@ -41,7 +41,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Moeda {#currency}
 
-**Nome do exemplo:** Orçamento - Armazenar um valor numérico para um orçamento de empresa
+**Nome do exemplo:** Orçamento - Armazena um valor numérico para um orçamento de empresa
 
 **Valores de exemplo:** 100
 
@@ -49,23 +49,23 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Data {#date}
 
-**Nome do exemplo:** Data de renovação - Armazene as datas de renovação dos clientes
+**Nome do exemplo:Data** de renovação - Armazenar as datas de renovação dos clientes
 
-**Valores de exemplo:** 19/08/14
+**Valores de exemplo:19/** 8/14
 
 **Operadores**: é, não é, entre, no passado, no passado, no futuro, no futuro, depois, no futuro, depois, no tempo, depois, antes, depois, em ou antes, está vazio, não está vazio
 
-## Data e hora {#datetime}
+## Datetime {#datetime}
 
-**Nome do exemplo:** Data de criação - Armazena a data e a hora em que uma pessoa é criada
+**Nome do exemplo:Data de** criação - Armazena a data e a hora em que uma pessoa é criada
 
-**Valores de exemplo:** 19/08/14 2:00
+**Exemplo de valores:19/** 8/14 2:00
 
 **Operadores**: é, não é, entre, no passado, no passado, no futuro, no futuro, depois, no futuro, depois, no tempo, depois, antes, depois, em ou antes, está vazio, não está vazio
 
 ## Email {#email}
 
-**Nome do exemplo:** E-mail alternativo - Mantenha um endereço de e-mail alternativo para seu pessoal (não é possível enviar e-mails para esse campo como o campo de endereço de e-mail padrão, este é especial)
+**Nome do exemplo:Email** alternativo - Mantenha um endereço de email alternativo para sua pessoa (não é possível enviar emails para esse campo como o campo de endereço de email padrão, este é especial)
 
 **Valores de exemplo:** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
 
@@ -73,17 +73,17 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Flutuar {#float}
 
-**Nome do exemplo:** Média de Ponto de Grau - Mantenha a média de ponto de grade de uma pessoa ou qualquer outro valor numérico que tenha decimais
+**Nome do exemplo:Média do ponto de** nível - Manter média do ponto de nível de uma pessoa ou qualquer outro valor numérico que tenha decimais
 
-**Valores de exemplo:** 2,47
+**Valores de exemplo:** 2.47
 
 **Operadores**: entre, maior que, menor que, pelo menos, no máximo, está vazio, não está vazio
 
 ## Fórmula {#formula}
 
-**Nome do exemplo:** Saudações - use este campo especial em uma [solução para obter a saudação](create-and-use-a-concatenated-string-formula-field.md) correta com base no gênero
+**Nome do exemplo:** Salutations - use esse campo especial em uma  [solução para obter a ](create-and-use-a-concatenated-string-formula-field.md) saudação correta com base no gênero
 
-**Valores de exemplo:** verifique a solução vinculada
+**Valores de exemplo:** verificar a solução vinculada
 
 ## Número inteiro {#integer}
 
@@ -103,7 +103,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Telefone {#phone}
 
-**Nome do exemplo:** Telefone alternativo - armazene um número de telefone adicional para a sua pessoa
+**Nome do exemplo:Telefone** alternativo - armazene um número de telefone adicional para sua pessoa
 
 **Exemplo de valor:** 650-555-5555
 
@@ -111,7 +111,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Pontuação {#score}
 
-**Nome do exemplo:** Pontuação comportamental / Pontuação demográfica - crie vários campos de pontuação para acompanhar atributos diferentes.
+**Nome do exemplo:Pontuação** comportamental / Pontuação demográfica - crie vários campos de pontuação para acompanhar atributos diferentes.
 
 **Exemplo de valor:** 14
 
@@ -119,9 +119,9 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## String {#string}
 
-**Nome do exemplo:** Nome do meio - armazene um atributo de texto adicional
+**Nome do exemplo:Nome do** meio - armazene um atributo de texto adicional
 
-**Exemplo de valor:** Rosa
+**Exemplo de valor:** Rose
 
 **Operadores**: is, is not, start com, not start com, contém, não contém, está vazio, não está vazio
 
@@ -129,13 +129,13 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 **Nome do exemplo:** Comentários - adicione um campo de comentários aos formulários para permitir a entrada de texto de várias linhas
 
-**Exemplo de valor:** Este artigo é fantástico!
+**Exemplo de valor:** este artigo é fantástico!
 
 **Operadores**: is, is not, start com, not start com, contém, não contém, está vazio, não está vazio
 
 ## URL {#url}
 
-**Nome do exemplo:** Blog - crie um campo para armazenar urls de blog de pessoas
+**Exemplo de nome:** Blog - crie um campo para armazenar URLs de blog de pessoas
 
 **Exemplo de valor:** www.myblog.com
 
