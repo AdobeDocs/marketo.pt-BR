@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-4.png)
 
-1. Faça quaisquer alterações. Clique em **Salvar** quando concluído.
+1. Faça quaisquer alterações. Clique em **Salvar** quando terminar.
 
    ![](assets/three-3.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
    >
    >Mude o que quiser. Você pode substituir o HTML inteiro ou fazer pequenos ajustes.
 
-1. Clique no menu suspenso Ações **de** código para baixar o código como um arquivo .html, embutir seu CSS ou validar o HTML.
+1. Clique no menu suspenso **Ações de código** para baixar o código como um arquivo .html, embutir seu CSS ou validar o HTML.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >A melhor prática para emails é tornar todos os seus estilos em linha. Vários clientes de email não suportam CSS na `<head>` seção.
+   >A melhor prática para emails é tornar todos os seus estilos em linha. Vários clientes de email não suportam CSS na seção `<head>`.
 
 ## Quebrando um email de seu modelo {#breaking-an-email-from-its-template}
 
-Essas alterações de código não **** quebrarão um email do modelo:
+Essas alterações de código **não** quebrarão um email de seu modelo:
 
 * Editar o conteúdo de qualquer módulo (incluindo a adição de novos elementos dentro do módulo)
 * Adicionando um novo módulo ao Container
@@ -52,7 +52,7 @@ Essas alterações de código não **** quebrarão um email do modelo:
 * Alteração de atributos específicos de mkto (por exemplo, &quot;mktoName&quot; ou &quot;mktoImgUrl&quot;) de qualquer Elemento fora de um Módulo
 * Editar o conteúdo de qualquer Elemento (rich text, imagem, vídeo etc.) fora de um módulo
 
-Esses itens que você pode fazer no editor de código **quebrarão** o email do modelo:
+Esses itens que você pode fazer no editor de código **vão** separar o email do modelo:
 
 * Alteração de qualquer item no código fora de um elemento ou módulo
 * Adicionar ou alterar atributos não mkto (por exemplo, &quot;id&quot; ou &quot;style&quot;) de qualquer Elemento fora de um Módulo
@@ -62,11 +62,11 @@ Esses itens que você pode fazer no editor de código **quebrarão** o email do 
 
 Use a funcionalidade Pesquisar código para localizar e substituir conteúdo com eficiência dentro do código HTML do seu email.
 
-1. No código do seu email, clique em Código **de** pesquisa.
+1. No código do seu email, clique em **Código de pesquisa**.
 
    ![](assets/five-2.png)
 
-1. Digite o que deseja localizar e clique em **Localizar próximo** para pesquisar para frente ou em **Localizar anterior** para pesquisar para trás. Você também tem a opção de **Substituir** e **Substituir tudo**.
+1. Digite o que deseja localizar e clique em **Localizar Próximo** para pesquisar para frente ou em **Localizar Anterior** para pesquisar para trás. Você também tem a opção de **Substituir** e **Substituir tudo**.
 
    ![](assets/six-1.png)
 
@@ -76,6 +76,6 @@ Use a funcionalidade Pesquisar código para localizar e substituir conteúdo com
 
    >[!NOTE]
    >
-   >O Código de pesquisa também está disponível no editor [de modelo de](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template)email.
+   >O Código de pesquisa também está disponível no [Editor de modelo de e-mail](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template).
 
 Recomendamos que você continue editando seus emails usando a funcionalidade integrada do Marketo, mas esse editor de código oferece flexibilidade se você precisar.
