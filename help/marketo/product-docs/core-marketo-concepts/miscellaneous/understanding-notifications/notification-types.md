@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Há vários tipos de notificação.
 
-## Falha na campanha  {#campaign-failure}
+## Falha de campanha {#campaign-failure}
 
 As falhas de campanha notificam você de erros em suas campanhas inteligentes.
 
@@ -47,7 +47,7 @@ Se você tentar enviar clientes potenciais para o Facebook sem aceitar os Termos
 
 Limpeza da Campanha do acionador ocioso
 
-Desative Campanhas inteligentes acionadas que não têm mais atividade. Saiba mais sobre a limpeza [](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)automática da campanha de disparo.
+Desative Campanhas inteligentes acionadas que não têm mais atividade. Saiba mais sobre [limpeza automática de campanha de disparo](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,5 @@ Você será notificado quando atingir sua cota diária. A cota é redefinida tod
 
 >[!NOTE]
 >
->Alguns dos códigos de erro que você pode receber são descritos em nossa Documentação [do](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)desenvolvedor.
+>Alguns dos códigos de erro que você pode receber estão descritos em nossa [Documentação do desenvolvedor](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
 
