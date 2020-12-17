@@ -28,7 +28,7 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Pasta</span></td> 
   </tr> 
@@ -56,16 +56,16 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="25" src="assets/share-to.png"> 
+     <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">A pasta de origem que você compartilhou com outra área de trabalho</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" width="25" src="assets/share-from.png"> 
+     <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Pasta de destino que foi compartilhada de outro espaço de trabalho <br>(o cadeado indica que as edições não podem ser feitas)</td> 
+   <td colspan="1">Pasta de destino que foi compartilhada de outro espaço de trabalho <br> (o cadeado indica que as edições não podem ser feitas)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -91,7 +91,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
+     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
    <td colspan="1">Acionador</td> 
   </tr> 
@@ -312,7 +312,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Ícones de Atividades de marketing {#marketing-activities-icons}
+### Ícones das Atividades de marketing {#marketing-activities-icons}
 
 <table> 
  <tbody> 
@@ -414,7 +414,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" src="assets/hs-icon.png" title="--"> 
+     <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
    <td colspan="1">Programa de e-mail agendado com Start principal</td> 
   </tr> 
@@ -975,7 +975,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Ícones Meus Tokens {#my-tokens-icons}
+### Os meus ícones de tokens {#my-tokens-icons}
 
 <table> 
  <tbody> 
