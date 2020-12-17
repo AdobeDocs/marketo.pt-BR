@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Para inserir parâmetros extras e específicos da pessoa em seus links, você pode usar tokens. Veja como.
 
-1. Selecione seu email e clique na guia **Editar rascunho** .
+1. Selecione seu email e clique na guia **Editar rascunho**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Para inserir parâmetros extras e específicos da pessoa em seus links, você po
 
    ![](assets/two.png)
 
-1. Localize ou escreva o texto do link. Realce-o e clique no ícone **Inserir/Editar link** .
+1. Localize ou escreva o texto do link. Realce-o e clique no ícone **Inserir/Editar link**.
 
    ![](assets/three.png)
 
-1. Digite os token(s) desejados no **URL** e clique em **Inserir**.
+1. Digite os token(s) desejados em **URL** e clique em **Inserir**.
 
    ![](assets/four.png)
 
