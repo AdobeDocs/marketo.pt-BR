@@ -21,10 +21,10 @@ Da nossa experiência, há algumas coisas para tentar se sua barra de ferramenta
 
 - Isso pode ser óbvio, mas tente sair do seu navegador e abrir uma janela totalmente nova.
 
-- Vá até o aplicativo [da](http://toutapp.com/login) Web e verifique se você está conectado lá.
+- Vá para a [aplicação Web](http://toutapp.com/login) e certifique-se de que está conectado lá.
 
 - Verifique se os cookies estão ativados. Se estiver usando o Chrome, vá para Configurações > Mostrar configurações avançadas > Configurações de conteúdo > Desmarcar &quot;Bloquear cookies de terceiros e dados do site&quot;.
 
 - Tente desconectar e reconectar a extensão do navegador do Sales Connect.
 
-Se nenhuma das dicas acima ajudou, [envie um caso](http://nation.marketo.com/community/support_solutions) ao Suporte.
+Se nenhuma das dicas acima ajudou, [envie um caso](http://nation.marketo.com/community/support_solutions) para o Suporte.
