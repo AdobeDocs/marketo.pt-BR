@@ -22,7 +22,7 @@ O Marketo permite que você crie entradas diretamente no seu Calendário de mark
 
 Veja como.
 
-1. Vá para o **Calendário**.
+1. Vá para **Calendar**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -39,7 +39,7 @@ Veja como.
 
    >[!TIP]
    >
-   >Observe que você também pode criar Campanhas **** inteligentes, Programas **de** email e entradas **** básicas da mesma maneira.
+   >Observe que você também pode criar **Campanhas inteligentes**, **Programas de e-mail** e **Entradas básicas** da mesma maneira.
 
 1. Ao concluir a edição, feche o modo de foco do programa.
 
