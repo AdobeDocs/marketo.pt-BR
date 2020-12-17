@@ -35,7 +35,7 @@ Usando hierarquia
 >
 >A interface do Marketo só mostrará até 10 níveis abaixo (contas-filho e netas da conta-pai), no entanto, não há limite para o número de contas-filho que você pode criar.
 
-Público alvo e relatório sobre hierarquias inteiras com [um clique](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
+Público alvo e relatório de hierarquias inteiras com [um clique](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
 
 ![](assets/member.png)
 
