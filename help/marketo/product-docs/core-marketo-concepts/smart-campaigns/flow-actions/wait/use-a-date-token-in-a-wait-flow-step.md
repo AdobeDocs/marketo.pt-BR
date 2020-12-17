@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Usar um token de data em uma etapa de fluxo de espera {#use-a-date-token-in-a-wait-flow-step}
+# Usar um token de data em uma Etapa de fluxo de espera {#use-a-date-token-in-a-wait-flow-step}
 
 Você pode usar a etapa de fluxo de Espera para pausar a jornada de uma pessoa por uma campanha inteligente até uma data específica que usa um token de data. Você também pode modificar a data final em alguns dias.
 
@@ -19,7 +19,7 @@ Você pode usar a etapa de fluxo de Espera para pausar a jornada de uma pessoa p
 >
 >Isso se aplica somente às campanhas de acionamento. Não é possível usar esse recurso em campanhas em lote.
 
-1. Na guia **Fluxo** de campanha inteligente, arraste sobre a etapa **Fluxo de espera** .
+1. Na guia **Fluxo** da campanha inteligente, arraste sobre a etapa de fluxo **Aguarde**.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
@@ -27,7 +27,7 @@ Você pode usar a etapa de fluxo de Espera para pausar a jornada de uma pessoa p
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. Na lista suspensa **Tipo** , selecione Token **de data**.
+1. Na lista suspensa **Tipo**, selecione **Token de data**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -54,7 +54,7 @@ Você pode usar a etapa de fluxo de Espera para pausar a jornada de uma pessoa p
 
    >[!NOTE]
    >
-   >Você também pode especificar o número de dias usando um `{{lead.` ou `{{company.` token que representa um campo inteiro ou um `{{my.` token do tipo de número.
+   >Você também pode especificar o número de dias usando um token `{{lead.` ou `{{company.` que representa um campo inteiro ou um token `{{my.` do tipo de número.
 
 1. Clique em Salvar.
 
