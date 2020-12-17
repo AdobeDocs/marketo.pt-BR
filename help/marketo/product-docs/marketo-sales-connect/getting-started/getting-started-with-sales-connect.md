@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Introdução ao Sales Connect {#getting-started-with-sales-connect}
 
-Se preferir assistir a essas etapas do que lê-las, pule para as Instruções [de vídeo abaixo](#video).
+Se preferir observar essas etapas do que lê-las, pule para as [Instruções de vídeo abaixo](#video).
 
 >[!NOTE]
 >
@@ -51,13 +51,13 @@ Opcionalmente, você também pode:
 
 ## Conecte sua conta do Sales Connect ao Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Para conectar sua conta do Sales Connect à sua conta do Salesforce, como um Administrador ou não-Administrador, siga as etapas [deste artigo](http://docs.marketo.com/x/JwDb).
+Para conectar sua conta do Sales Connect à sua conta do Salesforce, como um Administrador ou não-Administrador, siga as etapas em [este artigo](http://docs.marketo.com/x/JwDb).
 
 >[!NOTE]
 >
 >A instância do Salesforce à qual você se conecta deve ser a mesma que está (ou será) conectada ao Marketo.
 
-## Aquisição de credenciais antes de conectar o Sales Connect com o Marketing {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Adquirir credenciais antes de conectar o Sales Connect com o Marketing {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 Você precisará obter um conjunto de credenciais de dentro de Marketo. Essas credenciais serão usadas posteriormente pelo administrador do Sales Connect para conectar o Marketing ao Sales Connect.
 
@@ -65,7 +65,7 @@ Você precisará obter um conjunto de credenciais de dentro de Marketo. Essas cr
 
    ![](assets/one.png)
 
-1. Na árvore, clique em **Sales Connect**.
+1. Na árvore, clique em **Ligação de Vendas**.
 
    ![](assets/two.png)
 
@@ -93,15 +93,15 @@ Você precisará obter um conjunto de credenciais de dentro de Marketo. Essas cr
 
 ## Convidar/provisionar usuários {#invite-provision-users}
 
-Se algum usuário já existir em sua conta (anteriormente do ToutApp), ele será exibido na guia Acesso **a** equipe da seção Marketo do Sales Connect.
+Se algum usuário já existir em sua conta (anteriormente do ToutApp), ele será exibido na guia **Team Access** da seção Marketo do Sales Connect.
 
-Você pode provisionar sua equipe como um usuário do Marketing to Sales Connect desta página. Se você nunca usou o ToutApp ou ainda não convidou usuários, siga as etapas [deste artigo](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
+Você pode provisionar sua equipe como um usuário do Marketing to Sales Connect desta página. Se você nunca usou o ToutApp ou ainda não convidou usuários, siga as etapas em [este artigo](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
 
 >[!CAUTION]
 >
 >Aguarde dez minutos após conectar o Sales Connect com o Marketo antes de executar essas etapas.
 
-1. Selecione um ou mais usuários e clique em **Connect (Conectar**).
+1. Selecione um ou mais usuários e clique em **Connect**.
 
    >[!NOTE]
    >
@@ -113,17 +113,17 @@ Você pode provisionar sua equipe como um usuário do Marketing to Sales Connect
 
    ![](assets/nine.jpg)
 
-1. Clique na lista suspensa Espaço de trabalho, selecione os espaços de trabalho desejados e clique em **Conectar**.
+1. Clique na lista suspensa Espaço de trabalho, selecione os espaços de trabalho desejados e clique em **Connect**.
 
    ![](assets/ten.png)
 
    >[!NOTE]
    >
-   >Se quiser adicionar novos usuários, vá para a seção Gerenciamento de equipe de Configurações de administrador e clique no botão **Convidar usuários** .
+   >Se quiser adicionar novos usuários, vá para a seção Gerenciamento de equipe de Configurações de administrador e clique no botão **Convidar usuários**.
 
 Você pode incluir usuários adicionais na página Gerenciamento de equipe e seguir as etapas acima para conectá-los.
 
-## Testar o Sales Connect em sua caixa de proteção {#test-sales-connect-in-your-sandbox}
+## Testar conexão de vendas em sua caixa de proteção {#test-sales-connect-in-your-sandbox}
 
 Para equipes que desejam testar o Marketing to Sales Connect com sua Marketo Sandbox, uma conta adicional do Sales Connect pode ser provisionada mediante solicitação. Isso se aplica somente aos clientes que compraram uma Marketo Sandbox, ou àqueles que a tiverem como parte de seu pacote Marketo. Se você estiver interessado em adquirir um Sandbox, entre em contato com seu Gerente de conta do Marketing Cloud.
 
