@@ -27,7 +27,7 @@ O Treasure Chest contém recursos experimentais divertidos que não são totalme
 
    ![](assets/image2014-9-16-16-3a53-3a42.png)
 
-1. Marque a caixa **Ativado** para ativar ou desmarque para desativar e clique em **Salvar**.
+1. Marque a caixa **Enabled** para ativar ou desmarque para desativar e clique em **Salvar**.
 
    ![](assets/image2014-9-16-16-3a53-3a53.png)
 
