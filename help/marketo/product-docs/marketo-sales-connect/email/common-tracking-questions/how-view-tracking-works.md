@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Como o rastreamento de Visualizações funciona {#how-view-tracking-works}
+# Como o rastreamento de Visualização funciona {#how-view-tracking-works}
 
 Nós rastreamos a abertura de emails colocando uma imagem invisível nos emails enviados.
 
-Se alguém responder ao seu email, mas o Sales Connect estiver dizendo que ele não foi exibido, é provável que o recipient tenha respondido `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
+Se alguém responder ao seu email, mas o Sales Connect disser que ele não foi exibido, há probabilidades de o recipient ter `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
 
 Algumas dicas para obter melhores estatísticas de rastreamento em seus emails:
 
