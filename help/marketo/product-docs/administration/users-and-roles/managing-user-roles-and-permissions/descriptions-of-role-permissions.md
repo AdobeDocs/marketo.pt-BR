@@ -23,11 +23,11 @@ Algumas informações adicionais sobre permissões:
 
 ## Permissões disponíveis {#available-permissions}
 
-Ao [criar ou editar uma função](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), você pode selecionar qual das seguintes permissões permite essa função marcando as caixas apropriadas.
+Ao [criar ou editar uma função](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), você pode selecionar qual das seguintes permissões permitir essa função marcando as caixas apropriadas.
 
 ![](assets/createnewrole.png)
 
-## Administrador de acesso  {#access-admin}
+## Administrador de acesso {#access-admin}
 
 Visualização e faça alterações nas configurações na seção Minha conta de Administrador.
 
@@ -35,7 +35,7 @@ Visualização e faça alterações nas configurações na seção Minha conta d
 * Canais de acesso - concede aos usuários acesso somente para modificar a tag do Canal, não outras tags personalizadas
 * Limite de comunicação de acesso - concede aos usuários acesso para habilitar um limite de comunicação em Administrador
 * Access CRM - concede aos usuários acesso ao CRM, como Salesforce ou Microsoft Dynamics, em Admin
-* Access [Data.com](http://Data.com) - concede aos usuários acesso à ação de fluxo Data.com
+* Access [Data.com](http://Data.com) - Concede aos usuários acesso à ação de fluxo Data.com
 * Access Email Admin - Concede aos usuários o Administrador de email para alterar as configurações padrão, como cancelar a assinatura e domínios de marca
 * Parceiros de Evento de acesso - concede aos usuários acesso ao LaunchPoint em Admin
 * Gerenciamento de campo de acesso - concede aos usuários acesso ao Gerenciamento de campo na Administração
@@ -59,9 +59,9 @@ Visualização e faça alterações nas configurações na seção Minha conta d
 * Acessar webhooks - concede usuários a webhooks em Admin, para configurar detalhes e mapeamentos de resposta
 * Acessar espaços de trabalho e partições - concede aos usuários acesso para criar, editar e excluir espaços de trabalho e partições em Administração
 
-## API de acesso  {#access-api}
+## API de acesso {#access-api}
 
-Fornece aos usuários com a **API Acesso Somente** **função** às APIs individuais listadas abaixo.
+Concede aos usuários com a **API apenas** **Função** acesso às APIs individuais listadas abaixo.
 
 * Aprovar ativos
 * Campanha Execute
@@ -94,7 +94,7 @@ Concede aos usuários acesso às guias do Analytics, aos Insights de email, aos 
 * Excluir relatório - Desmarcar remove a capacidade do usuário de excluir relatórios
 * Exportar dados do Analytics - A desverificação remove a capacidade do usuário de exportar dados do Analytics
 
-## Acesse o calendário Presentations {#access-calendar-presentations}
+## Acesse o Calendário Presentations {#access-calendar-presentations}
 
 Dá aos usuários acesso às apresentações do calendário?- permite a exibição do botão Presentations na parte inferior?
 
@@ -172,7 +172,7 @@ Visualização o banco de dados e visualização e edite listas inteligentes/est
 * Importar objeto personalizado
 * Importar Lista
 * Unir pessoas
-* Executar ações de fluxo único - permite que os usuários executem a etapa de fluxo **Alterar valor** de dados em pessoas do banco de dados
+* Executar ações de fluxo único - permite que os usuários executem a etapa de fluxo **Alterar valor de dados** nas pessoas do banco de dados
 
 * Dados da oportunidade de visualização - Oculta as informações da oportunidade na página de detalhes da pessoa
 
@@ -208,7 +208,7 @@ Acessar SEO
 * Administrar SEO
 * SEO padrão
 
-## Direcionamento e personalização {#targeting-and-personalization}
+## Definição de metas e personalização {#targeting-and-personalization}
 
 * Administrar personalização da Web
 * Editor de Campanhas CRE
