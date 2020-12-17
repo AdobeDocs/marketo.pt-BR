@@ -18,7 +18,7 @@ Instale facilmente a opção Chamar com o Marketing Connect, enviar e-mail de ve
 1. Faça logon em [Salesforce.com.](http://Salesforce.com)
 1. Clique em **Personalizar**.
 1. Clique em **Clientes potenciais**.
-1. Clique em Layouts **de página**.
+1. Clique em **Layouts de página**.
 1. Clique em **Editar **ao lado do Layout principal ao qual você gostaria de adicionar os botões.
 1. Clique em **Botões**.
 1. Arraste e solte os botões do Sales Connect na seção Detalhes do cliente potencial.
