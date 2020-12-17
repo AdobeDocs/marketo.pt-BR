@@ -15,7 +15,7 @@ ht-degree: 0%
 
 O Sales Connect permite que você crie grupos de contatos para que possa enviar emails personalizados a vários recipient.
 
-Para criar um grupo, basta selecionar **N****Novo grupo**.
+Para criar um grupo, basta selecionar **N****ew Group**.
 
 Aqui você pode adicionar contatos [manualmente](http://docs.marketo.com/x/IYTS) ou [via CSV](http://docs.marketo.com/x/VADb).
 
