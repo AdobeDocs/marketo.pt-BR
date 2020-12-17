@@ -17,17 +17,17 @@ Adicionar uma conta nomeada a uma lista de conta é simples.
 
 >[!NOTE]
 >
->Isso se aplica somente às Listas de conta, **não** às Listas de conta dinâmicas.
+>Isso se aplica somente às Listas de conta, **não** Listas de conta dinâmicas.
 
 1. Selecione a linha da conta nomeada à qual deseja adicionar.
 
    ![](assets/four-1.png)
 
-1. Clique no menu suspenso Ações **de conta** nomeadas e selecione **Adicionar à Lista** de conta.
+1. Clique no menu suspenso **Ações de conta nomeada** e selecione **Adicionar à Lista de conta**.
 
    ![](assets/five-1.png)
 
-1. Clique no menu suspenso **Lista** da conta, selecione a lista da conta desejada e clique em **Adicionar**.
+1. Clique no menu suspenso **Lista de conta**, selecione a lista de conta desejada e clique em **Adicionar**.
 
    ![](assets/six-1.png)
 
