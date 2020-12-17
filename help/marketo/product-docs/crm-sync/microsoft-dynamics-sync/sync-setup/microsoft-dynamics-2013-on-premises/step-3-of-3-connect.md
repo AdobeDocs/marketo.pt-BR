@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Etapa 3 de 3: Connect Marketing e Dynamics (2013 no local) {#step-of-connect-marketo-and-dynamics-on-premises}
+# Etapa 3 de 3: Connect Marketing and Dynamics (On-Premise 2013) {#step-of-connect-marketo-and-dynamics-on-premises}
 
 Tudo bem! Instalamos a solução e configuramos o usuário de sincronização. Em seguida, precisamos conectar o Marketing e o Dynamics.
 
@@ -42,7 +42,7 @@ Tudo bem! Instalamos a solução e configuramos o usuário de sincronização. E
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Clique em **EDITAR** na **Etapa 1: Insira credenciais**.
+1. Clique em **EDIT** em **Etapa 1: Insira Credenciais**.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -50,23 +50,23 @@ Tudo bem! Instalamos a solução e configuramos o usuário de sincronização. E
    >
    >Verifique se suas credenciais estão corretas, pois não é possível reverter as alterações subsequentes no schema após o envio. Se as credenciais incorretas forem salvas, será necessário obter uma nova subscrição de marketing.
 
-1. Digite o **Nome** de usuário, a **Senha** e o **URL** do Microsoft Dynamics e clique em **SALVAR**.
+1. Digite **Nome de usuário**, **Senha** e Microsoft Dynamics **URL** e clique em **SAVE**.
 
    ![](assets/image2015-3-26-11-3a47-3a59.png)
 
    >[!NOTE]
    >
-   >O Nome de usuário no Marketo deve corresponder ao Nome de usuário para o usuário de sincronização no CRM. O formato pode ser [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#631610061123070c0e020a0d4d000c0e) DOMAIN\user.
+   >O Nome de usuário no Marketo deve corresponder ao Nome de usuário para o usuário de sincronização no CRM. O formato pode ser [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#631610061123070c0e020a0d4d000c0e) ou DOMÍNIO\usuário.
 
    >[!TIP]
    >
-   >Não sabe o URL? Mostraremos como localizar o URL [do Serviço de Organização](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) Dinâmica aqui.
+   >Não sabe o URL? Mostraremos como localizar o [URL do Serviço de Organização Dinâmica](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) aqui.
 
-## Selecionar campos a serem sincronizados {#select-fields-to-sync}
+## Selecionar campos para sincronizar {#select-fields-to-sync}
 
 Agora precisamos selecionar os campos nos quais queremos sincronizar.
 
-1. Clique em **EDIT **na **Etapa 2: Selecione Campos para sincronização**.
+1. Clique em **EDIT **in **Etapa 2: Selecione Campos para sincronização**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -92,7 +92,7 @@ Se você criou um filtro personalizado, certifique-se de entrar e selecionar os 
 
 ## Ativar sincronização {#enable-sync}
 
-1. Clique em **EDIT **na **Etapa 3: Ative Sincronizar**.
+1. Clique em **EDIT **in **Etapa 3: Ative Sync**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
