@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notas de versão: Abril de 2013 {#release-notes-april}
 
-Os seguintes recursos estão incluídos na versão de abril. Verifique a disponibilidade de recursos do [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Os seguintes recursos estão incluídos na versão de abril. Verifique sua [Edição de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
 
 Após o lançamento, verifique a guia [Nova versão](release-notes-december-2013.md) na Comunidade para obter artigos detalhados da Base de conhecimento para cada recurso!
 
