@@ -47,7 +47,7 @@ Vamos te preparar!
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. Na guia **Landing page** , copie a string de conta na seção Configurações.
+1. Na guia **Landing page**, copie a string de conta da seção Configurações.
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
@@ -55,9 +55,9 @@ Vamos te preparar!
 
 1. Envie a solicitação para TI.
 
-1. Solicite à equipe de TI que configure o CNAME a seguir (substitua a palavra [CNAME] e [ACCOUNT STRING] pelo texto da etapa anterior):
+1. Peça à equipe de TI para configurar o CNAME a seguir (substitua as palavras [CNAME] e [STRING DE CONTAS] pelo texto da etapa anterior):
 
-   [CNAME].YourCompany.com > STRING [de]CONTA.mktoweb.com
+   [CNAME].YourCompany.com > STRING [ de ]CONTA.mktoweb.com
 
 1. Conclua a configuração CNAME.
 
@@ -65,11 +65,11 @@ Vamos te preparar!
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
-1. Na seção **Configurações** , clique em **Editar**.
+1. Na seção **Configurações**, clique em **Editar**.
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. Insira seu CNAME no nome **do domínio para Landing page**, digite sua página **** de Fallback, digite sua **Página inicial** e clique em **Salvar**.
+1. Insira seu CNAME em **Nome do domínio para Landing page**, digite sua **página de fallback**, digite sua **Página inicial** e clique em **Salvar**.
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
