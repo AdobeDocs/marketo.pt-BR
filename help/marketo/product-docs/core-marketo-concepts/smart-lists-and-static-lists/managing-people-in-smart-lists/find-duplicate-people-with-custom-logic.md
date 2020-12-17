@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Localizar pessoas com Duplicados com lógica personalizada {#find-duplicate-people-with-custom-logic}
+# Localizar pessoas do Duplicado com lógica personalizada {#find-duplicate-people-with-custom-logic}
 
 A Marketo tem uma lista inteligente do sistema que encontra duplicados ao corresponder seus endereços de email. Se você quiser usar outro campo para encontrar duplicados, veja como.
 
