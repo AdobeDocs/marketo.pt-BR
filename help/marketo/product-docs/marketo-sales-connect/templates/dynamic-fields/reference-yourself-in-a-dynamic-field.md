@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# Fazer referência a si mesmo em um campo dinâmico {#reference-yourself-in-a-dynamic-field}
+# Faça referência a si mesmo em um campo dinâmico {#reference-yourself-in-a-dynamic-field}
 
 Campos dinâmicos são nossa forma de mala direta.
 
-Nós permitimos que você personalize seus modelos de e-mail com atributos predefinidos, como `{{my_name}}` ou `{{my_title}}`. Esses campos permitem que você se referencie rapidamente em seus modelos de e-mail.
+Nós permitimos que você personalize seus modelos de e-mail com atributos predefinidos como `{{my_name}}` ou `{{my_title}}`. Esses campos permitem que você se referencie rapidamente em seus modelos de e-mail.
 
-Para adicionar um campo dinâmico de referência automática a um modelo, basta selecionar aquele que você deseja usar no botão Campos **dinâmicos do** MSE no editor de modelo.
+Para adicionar um campo dinâmico de referência automática a um modelo, basta selecionar aquele que você deseja usar do botão **Campos dinâmicos do MSE** no editor de modelos.
