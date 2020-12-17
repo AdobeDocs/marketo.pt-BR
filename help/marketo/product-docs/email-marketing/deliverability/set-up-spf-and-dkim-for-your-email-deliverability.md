@@ -11,20 +11,20 @@ ht-degree: 0%
 ---
 
 
-# Configure o SPF e o DKIM para sua entrega de email {#set-up-spf-and-dkim-for-your-email-deliverability}
+# Configure o SPF e o DKIM para sua capacidade de entrega de email {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-Um método rápido para melhorar as taxas de delivery de email é incorporar o **SPF** (Sender Policy Framework) e o **DKIM** (Domain Keys Identified Mail) às configurações de DNS. Com essa adição às entradas de DNS, você informa aos recipient que autorizou o Marketo a enviar emails em seu nome. Sem essa alteração, seu email tem mais chances de ser marcado como spam desde que o email foi endereçado de seu domínio, mas enviado de um endereço IP com um domínio Marketo.
+Um método rápido para melhorar as taxas de delivery de email é incorporar **SPF** (Sender Policy Framework) e **DKIM** (Domain Keys Identified Mail) nas configurações de DNS. Com essa adição às entradas de DNS, você informa aos recipient que autorizou o Marketo a enviar emails em seu nome. Sem essa alteração, seu email tem mais chances de ser marcado como spam desde que o email foi endereçado de seu domínio, mas enviado de um endereço IP com um domínio Marketo.
 
 >[!CAUTION]
 >
 >Você precisará do administrador da rede para fazer essa alteração no registro DNS.
 
-## Configurar SPF {#set-up-spf}
+## Configurar o SPF {#set-up-spf}
 
 **Se você não tiver um registro SPF em seu domínio**
 
-Peça ao administrador da rede para adicionar a seguinte linha às entradas DNS. Substitua o [domínio] pelo domínio principal do seu site (por exemplo, &quot;empresa.com&quot;) e [corpIP] com o endereço IP do seu servidor de e-mail corporativo (por exemplo, &quot;255.255.255.255&quot;). Se você enviar emails de vários domínios por meio do Marketo, deverá adicioná-los a cada domínio (em uma linha).
-[domínio] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all\
+Peça ao administrador da rede para adicionar a seguinte linha às entradas DNS. Substitua [domain] pelo domínio principal do seu site (por exemplo, &quot;empresa.com&quot;) e [corpIP] com o endereço IP do seu servidor de correio eletrônico corporativo (por exemplo, &quot;255.255.255.255&quot;). Se você enviar emails de vários domínios por meio do Marketo, deverá adicioná-los a cada domínio (em uma linha).
+[] domainIN TXT v=spf1 mx ip4:[] corpIPinclude:mktomail.com ~all\
 Se você TEM um registro SPF em seu domínio
 
 Se você já tiver um registro SPF em sua entrada DNS, adicione o seguinte a ele:
@@ -45,7 +45,7 @@ Depois que você configurar a chave pública no seu registro DNS e ativar o dom�
 
 Como configurar o DKIM?
 
-Consulte [Configurar uma assinatura](set-up-a-custom-dkim-signature.md)DKIM personalizada.
+Consulte [Configurar uma assinatura DKIM personalizada](set-up-a-custom-dkim-signature.md).
 
 >[!MORELIKETHIS]
 >
