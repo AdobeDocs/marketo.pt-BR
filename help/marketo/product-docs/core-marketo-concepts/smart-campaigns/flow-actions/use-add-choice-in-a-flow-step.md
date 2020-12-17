@@ -21,7 +21,7 @@ ht-degree: 0%
 
 
 
-**Adicionar escolha** permite que você use uma etapa de fluxo e diga &quot;Depende&quot; ao escolher os detalhes.
+**Adicione** Choicelets para usar uma etapa de fluxo e dizer &quot;Depende&quot; ao escolher os detalhes.
 
 1. Na guia **Fluxo** da campanha inteligente, adicione qualquer etapa de fluxo e clique em **Adicionar escolha**.
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Tokens **não** funcionarão na parte da condição de uma etapa de fluxo de escolha.
+   >Os tokens **não** funcionarão na condição parte de uma etapa de fluxo de escolha.
 
 1. Repita as etapas acima para adicionar várias opções e depois adicione/ajuste o valor padrão.
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Somente a primeira opção correspondente é aplicada à etapa de fluxo. Saiba como [reorganizar &quot;Adicionar escolha&quot; em uma ação](reorder-add-choice-in-a-flow-step.md)de fluxo.
+   >Somente a primeira opção correspondente é aplicada à etapa de fluxo. Saiba como reordenar &quot;Adicionar escolha&quot; em uma ação de fluxo[.](reorder-add-choice-in-a-flow-step.md)
 
    >[!NOTE]
    >
