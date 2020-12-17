@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visualização Campanha Lista como outro usuário {#view-campaigns-list-as-another-user}
+# Lista do Visualização Campanha como outro usuário {#view-campaigns-list-as-another-user}
 
 Como administrador, você pode visualização campanhas como qualquer usuário.
 
@@ -23,7 +23,7 @@ Como administrador, você pode visualização campanhas como qualquer usuário.
 
    ![](assets/one-5.png)
 
-1. Clique na lista suspensa **Visualização como** e selecione o usuário desejado.
+1. Clique no menu suspenso **Visualização como** e selecione o usuário desejado.
 
    ![](assets/two-4.png)
 
