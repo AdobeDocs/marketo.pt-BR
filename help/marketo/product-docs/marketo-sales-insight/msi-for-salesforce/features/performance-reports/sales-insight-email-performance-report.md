@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Visualização do desempenho de emails enviados pelo Salesforce, Microsoft Dynamics ou por um plug-in do Gmail ou Outlook.
 
-## Gerar um relatório {#generate-a-report}
+## Gerar um Relatório {#generate-a-report}
 
 1. Clique em **Analytics**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Clique em Desempenho **de email do** Sales Insight.
+1. Clique em **Desempenho do Email do Sales Insight**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
@@ -29,7 +29,7 @@ Visualização do desempenho de emails enviados pelo Salesforce, Microsoft Dynam
 
    ![](assets/three.png)
 
-1. Clique na guia **Relatório** .
+1. Clique na guia **Relatório**.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -47,11 +47,11 @@ Visualização do desempenho de emails enviados pelo Salesforce, Microsoft Dynam
 
 É possível visualização esse relatório agrupado por representante de vendas alterando suas configurações.
 
-1. Clique em **Configuração**. Duplo clique em **Email**.
+1. Clique em **Configuração**. Clique no duplo **Email**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Selecione Agrupar emails por representante **de vendas**.
+1. Selecione Agrupar emails por **Representante de vendas**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
@@ -59,7 +59,7 @@ Visualização do desempenho de emails enviados pelo Salesforce, Microsoft Dynam
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Clique na guia **Relatório** .
+1. Clique na guia **Relatório**.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
