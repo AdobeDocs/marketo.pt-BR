@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se você tiver acesso a várias subscrições de marketing e quiser ter certeza de qual delas está usando, tente fornecer a cada uma um um nome exclusivo. Esse nome é exibido na parte superior da página de subscrição.
 
-Por exemplo, se você trabalha em instâncias de produção e de sandbox, é possível nomear uma subscrição de **Marketing Production** e a outra de **Marketing Sandbox**.
+Por exemplo, se você trabalha em instâncias de produção e de sandbox, é possível nomear uma subscrição **Produção de Marketing** e outra **Caixa de proteção de marketing**.
 
 ![](assets/image2016-4-8-14-3a34-3a28.png)
 
@@ -27,11 +27,11 @@ Por exemplo, se você trabalha em instâncias de produção e de sandbox, é pos
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
-1. Clique em **Editar informações** de Subscrição.
+1. Clique em **Editar informações de Subscrição**.
 
    ![](assets/image2016-5-24-10-3a34-3a32.png)
 
-1. Faça as edições e clique em **Salvar**.
+1. Faça suas edições e clique em **Salvar**.
 
    ![](assets/image2016-5-24-10-3a40-3a6.png)
 
