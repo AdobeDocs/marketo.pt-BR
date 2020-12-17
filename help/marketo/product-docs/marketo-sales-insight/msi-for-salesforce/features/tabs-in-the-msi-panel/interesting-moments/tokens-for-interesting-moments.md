@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Tokens para momentos interessantes {#tokens-for-interesting-moments}
+# Tokens para Momentos Interessantes {#tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->* Aprenda a usar a etapa [Interessante de fluxo de Momento](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>* Saiba como usar a [Etapa de fluxo de Momento Interessante](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 >* Saiba mais sobre [tokens](http://docs.marketo.com/display/docs/tokens).
 
 >
@@ -24,9 +24,9 @@ ht-degree: 0%
 
 ## Tokens disponíveis {#available-tokens}
 
-Consulte Visão geral [dos](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) tokens para ver todos os tokens que você pode colocar em um momento interessante.
+Confira [Visão geral dos tokens](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos os tokens que você pode colocar em um momento interessante.
 
-## Tokens do acionador {#trigger-tokens}
+## Tokens de acionamento {#trigger-tokens}
 
 Com base no acionador usado em uma campanha inteligente, tokens de acionador adicionais são disponibilizados.
 
@@ -236,9 +236,9 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
 
 >[!NOTE]
 >
->Se não tiver uma marca de verificação ![(marca de verificação)](assets/check.svg) , ela retornará uma sequência vazia (nada) no momento interessante.
+>Se ele não tiver uma marca ![(tick)](assets/check.svg), retornará uma sequência vazia (nada) no momento interessante.
 
-*A página **da Web** Visitas de Acionador tem alguns tokens adicionais:
+*O acionador **Visitas à página da Web** tem alguns tokens adicionais:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
