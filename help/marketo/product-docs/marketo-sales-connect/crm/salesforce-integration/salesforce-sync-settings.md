@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configurações de Sincronização do Salesforce {#salesforce-sync-settings}
+# Configurações de sincronização do Salesforce {#salesforce-sync-settings}
 
 ## Registrando Atividade de email no Salesforce por meio da API {#logging-email-activity-to-salesforce-via-api}
 
@@ -29,7 +29,7 @@ Esta funcionalidade exige que você esteja na edição Enterprise/Unlimited do S
 
    ![](assets/two-2.png)
 
-1. Clique na guia **Sincronizar configurações** .
+1. Clique na guia **Sincronizar configurações**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ Esta funcionalidade exige que você esteja na edição Enterprise/Unlimited do S
 
    ![](assets/four-1.png)
 
-1. Clique na guia API **do** Salesforce. Neste cartão, você pode configurar sua preferência para registrar informações no Salesforce. Clique em **Salvar** quando concluído.
+1. Clique na guia **API do Salesforce**. Neste cartão, você pode configurar sua preferência para registrar informações no Salesforce. Clique em **Salvar** quando terminar.
 
    ![](assets/five.png)
 
@@ -59,11 +59,11 @@ Depois de ativar &quot;Email to Salesforce (BCC)&quot;, você receberá uma Cco 
 
    ![](assets/two-3.png)
 
-1. Clique na guia **Sincronizar configurações** .
+1. Clique na guia **Sincronizar configurações**.
 
    ![](assets/three-1.png)
 
-1. Clique na guia **Email para Salesforce (BCC)** e clique em **Ativar**.
+1. Clique na guia **E-mail para Salesforce (BCC)** e clique em **Ativar**.
 
    ![](assets/six-2.png)
 
@@ -87,7 +87,7 @@ Se você não vir Meu email para o Salesforce em suas Configurações, seu admin
 >Você precisará de privilégios de administrador para configurar isso.
 
 1. Clique em **Configuração *.* **
-1. Clique em Administração **de *email.* **
+1. Clique em **Administração de Correio Eletrônico *.* **
 1. Clique em **Email para Salesforce *.* **
 1. Clique em **Editar**.
 1. Marque a caixa ao lado de &quot;Ative*&quot;.*
@@ -103,7 +103,7 @@ Se você não vir Meu email para o Salesforce em suas Configurações, seu admin
 
    ![](assets/two-2.png)
 
-1. Clique na guia **Sincronizar configurações** .
+1. Clique na guia **Sincronizar configurações**.
 
    ![](assets/three-1.png)
 
