@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Use o teste A/B &quot;De Endereço&quot; {#use-from-address-a-b-testing}
+# Use &quot;De Endereço&quot; Teste A/B {#use-from-address-a-b-testing}
 
-Você pode testar facilmente seus e-mails A/B. Um teste interessante é o teste **De Endereço** . Veja como configurar.
+Você pode testar facilmente seus e-mails A/B. Um teste interessante é o teste **From Address**. Veja como configurar.
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ Você pode testar facilmente seus e-mails A/B. Um teste interessante é o teste 
 
 
 
-1. No bloco **Email** , com seu email selecionado, clique em **Adicionar teste** A/B.
+1. No bloco **Email**, com seu email selecionado, clique em **Adicionar teste A/B**.
 
    ![](assets/image2014-9-12-15-3a32-3a8.png)
 
-1. Uma nova janela é aberta e selecione **De endereço** para Tipo **de** teste.
+1. Uma nova janela é aberta, selecione **Do Endereço** para **Tipo de Teste**.
 
    ![](assets/image2014-9-12-15-3a32-3a22.png)
 
@@ -35,7 +35,7 @@ Você pode testar facilmente seus e-mails A/B. Um teste interessante é o teste 
 
    ![](assets/image2014-9-12-15-3a32-3a28.png)
 
-1. Digite as informações do segundo endereço **** de origem que deseja testar.
+1. Digite a segunda informação **Do Endereço** que você deseja testar.
 
    >[!NOTE]
    >
@@ -45,7 +45,7 @@ Você pode testar facilmente seus e-mails A/B. Um teste interessante é o teste 
 
    >[!TIP]
    >
-   >Você pode clicar no sinal **de** mais para adicionar quantos endereços de formulário desejar.
+   >Você pode clicar no **sinal de mais** para adicionar quantos endereços forem desejados.
 
 1. Use o controle deslizante para escolher a porcentagem da audiência desejada no teste A/B e clique em **Avançar**.
 
@@ -57,9 +57,9 @@ Você pode testar facilmente seus e-mails A/B. Um teste interessante é o teste 
 
    >[!CAUTION]
    >
-   >**Recomendamos que você evite definir o tamanho da amostra como 100%**. Se estiver usando uma lista estática, definir o tamanho da amostra como 100% envia o email para todos na audiência e o vencedor não vai para ninguém. Se você estiver usando uma lista **inteligente** , definir o tamanho da amostra como 100% envia o email para todos na audiência *naquele momento. *Quando o programa de e-mail for executado novamente em uma data posterior, qualquer pessoa nova que se qualificar para a lista inteligente também receberá o e-mail, já que agora está incluída na audiência.
+   >**Recomendamos que você evite definir o tamanho da amostra como 100%**. Se estiver usando uma lista estática, definir o tamanho da amostra como 100% envia o email para todos na audiência e o vencedor não vai para ninguém. Se você estiver usando uma lista **smart**, definir o tamanho da amostra como 100% envia o email para todos na audiência *naquele momento. *Quando o programa de e-mail for executado novamente em uma data posterior, qualquer pessoa nova que se qualificar para a lista inteligente também receberá o e-mail, já que agora está incluída na audiência.
 
-   Ok, estamos quase lá. Agora precisamos [definir os critérios](define-the-a-b-test-winner-criteria.md)de vencedor do teste A/B.
+   Ok, estamos quase lá. Agora precisamos [definir os critérios vencedores do teste A/B](define-the-a-b-test-winner-criteria.md).
 
    >[!NOTE]
    >
