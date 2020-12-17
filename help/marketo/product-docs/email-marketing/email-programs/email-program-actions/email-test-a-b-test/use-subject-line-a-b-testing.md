@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Usar teste A/B de &quot;Linha de assunto&quot; {#use-subject-line-a-b-testing}
+# Usar o teste A/B de &quot;Linha de assunto&quot; {#use-subject-line-a-b-testing}
 
-Você pode testar facilmente seus e-mails A/B. Um dos testes mais comuns é o teste **Subject Line** .
+Você pode testar facilmente seus e-mails A/B. Um dos testes mais comuns é o teste **Linha de assunto**.
 
 >[!PREREQUISITES]
 >
@@ -37,9 +37,9 @@ Você pode testar facilmente seus e-mails A/B. Um dos testes mais comuns é o te
 
    >[!TIP]
    >
-   >Você pode clicar no sinal de **mais****** para adicionar mais linhas de assunto.
+   >Você pode clicar no sinal de **mais******* para adicionar mais linhas de assunto.
 
-1. Use o controle deslizante para escolher qual porcentagem da audiência você deseja receber o teste A/B e clique em **Avançar**.
+1. Use o controle deslizante para escolher qual porcentagem da audiência você deseja receber seu teste A/B e clique em **Avançar**.
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 
@@ -51,7 +51,7 @@ Você pode testar facilmente seus e-mails A/B. Um dos testes mais comuns é o te
    >
    >As diferentes variações de assunto terão partes iguais do Tamanho de amostra de teste selecionado.
 
-   Ok, estamos quase lá. Agora precisamos [definir os critérios](define-the-a-b-test-winner-criteria.md)de vencedor do teste A/B.
+   Ok, estamos quase lá. Agora precisamos [definir os critérios vencedores do teste A/B](define-the-a-b-test-winner-criteria.md).
 
    >[!NOTE]
    >
