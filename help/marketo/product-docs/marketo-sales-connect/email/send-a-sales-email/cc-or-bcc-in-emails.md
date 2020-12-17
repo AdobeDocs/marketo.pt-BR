@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# CC ou BCC em e-mails {#cc-or-bcc-in-emails}
+# CC ou BCC em emails {#cc-or-bcc-in-emails}
 
 Você pode CC e Cco indivíduos como você normalmente faria em seus e-mails.
 
