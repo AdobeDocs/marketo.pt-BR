@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Criar, excluir, editar e alterar uma função de usuário {#create-delete-edit-and-change-a-user-role}
 
-**As funções** agrupam um monte de permissões. **Permissões** permitem fazer coisas no Marketo. Você atribui uma **função** a um usuário. Fácil como torta.
+**O** Rolesgroup reúne um monte de permissões. **Permissão** permita que você faça coisas em Marketo. Você atribui uma **função** a um usuário. Fácil como torta.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Vá para a guia** Atribuições** e clique em **Nova função**.
+1. Vá para a guia** Atribuições* e clique em **Nova função**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
