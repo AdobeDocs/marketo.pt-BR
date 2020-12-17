@@ -17,21 +17,21 @@ A SEO do Marketo pode sugerir quais palavras-chave você deve estar rastreando. 
 
 ## Obter sugestões de palavra-chave usando uma palavra-chave {#get-keyword-suggestions-using-a-keyword}
 
-1. Vá para a seção **Palavras-chave** .
+1. Vá para a seção **Palavras-chave**.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Clique em **SUGESTÕES** DE GET.
+1. Clique em **SUGESTÕES DE GET**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Digite uma **palavra-chave**. Clique em **SUGERIR PALAVRAS-CHAVE**.
+1. Digite uma **Palavra-chave**. Clique em **SUGEST KEYWORDS**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Você sabia que pode [adicionar sua palavra-chave a uma lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) nova ou existente aqui?
+   >Você sabia que pode [adicionar sua palavra-chave a uma lista nova ou existente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) aqui?
 
 1. Selecione a(s) palavra(s)-chave sugerida(s). Clique em **ADICIONAR SELECIONADO**.
 
@@ -43,13 +43,13 @@ A SEO do Marketo pode sugerir quais palavras-chave você deve estar rastreando. 
 
    Sim! Agora que você sabe como obter sugestões de palavras-chave com base em uma palavra-chave, tente obter sugestões com base em um URL.
 
-## Obter sugestões de palavra-chave de um URL  {#get-keyword-suggestions-from-a-url}
+## Obter sugestões de palavra-chave de um URL {#get-keyword-suggestions-from-a-url}
 
-1. Vá para a seção **Palavras-chave** .
+1. Vá para a seção **Palavras-chave**.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Clique em **SUGESTÕES** DE GET.
+1. Clique em **SUGESTÕES DE GET**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
@@ -63,7 +63,7 @@ A SEO do Marketo pode sugerir quais palavras-chave você deve estar rastreando. 
 
    >[!TIP]
    >
-   >Você sabia que pode [adicionar sua palavra-chave a uma lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) nova ou existente aqui?
+   >Você sabia que pode [adicionar sua palavra-chave a uma lista nova ou existente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) aqui?
 
 1. Selecione a(s) palavra(s)-chave sugerida(s). Clique em **ADICIONAR SELECIONADO**.
 
