@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visão geral de marketing baseado em conta {#account-based-marketing-overview}
+# Visão Geral de Marketing Baseada em Conta {#account-based-marketing-overview}
 
 Comerciante, conheça o Marketing baseado em conta. Marketing baseado em conta, conheça o comerciante.
 
@@ -27,19 +27,19 @@ O Marketo unifica o ABM e o gerenciamento de lead em uma solução, facilitando 
 
 A Marketing ABM consiste em três componentes:
 
-**1) [Público alvo](http://docs.marketo.com/display/docs/target)**
+**1)  [Público alvo](http://docs.marketo.com/display/docs/target)**
 
 * Detecção de conta
 * Correspondência cliente a conta
 * Listas de conta nomeada
 
-**2) [Mobilizar](http://docs.marketo.com/display/docs/engage)**
+**2)  [Mobilizar](http://docs.marketo.com/display/docs/engage)**
 
 * Personalização baseada em conta
 * Envolvimento entre Canais
 * Workflows específicos da conta
 
-**3) [Medida](http://docs.marketo.com/display/docs/measure)**
+**3)  [Medida](http://docs.marketo.com/display/docs/measure)**
 
 * Insights de conta e nível de Lista
 * Pontuação de envolvimento da conta
@@ -47,11 +47,11 @@ A Marketing ABM consiste em três componentes:
 
 O Marketing baseado em conta de marketing também oferta várias ferramentas para personalizar a experiência de conta nomeada entre canais.
 
-* Email e [personalização da Landing page](http://docs.marketo.com/display/DOCS/Personalization)
-* Web [Personalization](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* [Personalização de URL](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* [Personalização do anúncio](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [Comentários personalizados](http://docs.marketo.com/display/DOCS/Website+Retargeting)
+* E-mail e Landing page [Personalização](http://docs.marketo.com/display/DOCS/Personalization)
+* Web [Personalização](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
+* URL [Personalização](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
+* Ad [Personalização](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
+* [](http://docs.marketo.com/display/DOCS/Website+Retargeting) PersonalizedRemarketing
 
 Estou dentro! Como começar?
 
