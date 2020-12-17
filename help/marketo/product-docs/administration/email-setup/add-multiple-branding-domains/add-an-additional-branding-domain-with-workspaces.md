@@ -17,9 +17,9 @@ Se você tiver espaços de trabalho, poderá adicionar outros domínios de marca
 
 >[!PREREQUISITES]
 >
->Primeiro, você deve [editar seu domínio](edit-your-default-branding-domain.md) de marca padrão.
+>Primeiro, você deve [editar seu domínio de marca padrão](edit-your-default-branding-domain.md).
 >
->Primeiro, você deve [substituir o link](edit-your-default-branding-domain-with-workspaces.md) de rastreamento genérico por um domínio de marca antes de adicionar outros domínios de marca.
+>Primeiro, você deve [substituir o link de rastreamento genérico](edit-your-default-branding-domain-with-workspaces.md) por um domínio de marca antes de adicionar outros domínios de marca.
 
 1. Vá para **Admin **e clique em **Email**.
 
@@ -29,7 +29,7 @@ Se você tiver espaços de trabalho, poderá adicionar outros domínios de marca
 
    ![](assets/branding-domains-add-workspaces.png)
 
-1. Insira um novo domínio de marca. Clique em **Avançar**.
+1. Insira um novo domínio de marca. Clique em **Próximo**.
 
    ![](assets/new-branding-domain-8-31.png)
 
