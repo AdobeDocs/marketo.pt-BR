@@ -18,5 +18,5 @@ Se você quiser adicionar uma imagem ou GIF ao seu email, siga estas etapas.
 1. Abra o editor de modelo e clique no ícone de imagem na barra de ferramentas.
 1. Arraste e solte ou carregue sua imagem.
 1. Clique na imagem com o duplo do mouse para editar o dimensionamento ou adicionar um hiperlink.
-1. Clique em **Atualizar** quando concluído.
+1. Clique em **Atualizar** quando terminar.
 
