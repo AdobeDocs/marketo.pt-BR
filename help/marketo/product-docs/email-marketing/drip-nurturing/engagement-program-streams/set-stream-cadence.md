@@ -17,15 +17,15 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
 
 ## Definir cadência {#set-cadence}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Localize e selecione seu programa de envolvimento, clique na guia **Streams **e, em seguida, clique em **Definir cadência** de fluxo contínuo.
+1. Localize e selecione seu programa de envolvimento, clique na guia **Streams **e, em seguida, clique em **Definir cadência de fluxo**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Selecione a frequência com que deseja que a cadência ocorra novamente. Você pode escolher *** Semanal** ou **Mensal**.
+1. Selecione a frequência com que deseja que a cadência ocorra novamente. Você pode escolher** Semanal** ou **Mensalmente**.
 
 ## Semanalmente {#weekly}
 
@@ -51,9 +51,9 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
 
    >[!TIP]
    >
-   >Você pode definir sua cadência para ser executada todos os dias selecionando **Repetir: Semanalmente** /** A cada: 1 Semana** /** ****Em**: todos os dias.
+   >Você pode definir sua cadência para ser executada todos os dias selecionando **Repetir: Semanalmente** /** A cada: 1 semana** /** ****Em**: todos os dias.
 
-   Agora escolham o Time. Marque a caixa se desejar usar o Fuso horário [do](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)Recipient (isto é, entregar de acordo com os fusos horários locais) e clique em Salvar.
+   Agora escolham o Time. Marque a caixa se quiser usar [Fuso horário do Recipient](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (isto é, entregar de acordo com os fusos horários locais) e clique em Salvar.
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -70,7 +70,7 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
 
 É isso! Continue lendo se quiser configurar uma cadência mensal.
 
-## Mensal {#monthly}
+## Mensalmente {#monthly}
 
 1. Selecione **Mensalmente **para saber com que frequência ela se repete.
 
@@ -92,7 +92,7 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
    >
    >Como alternativa, você pode escolher o dia da semana.
 
-1. Escolha uma **Hora** e clique em **Salvar**.
+1. Escolha um **Hora** e clique em **Salvar**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
