@@ -23,23 +23,23 @@ ht-degree: 0%
 
 ## Localizar Todos os Membros de uma Etapa de Receita Específica {#find-all-members-of-a-specific-revenue-stage}
 
-1. Em uma lista inteligente, clique na guia **Lista inteligente **, localize o filtro Estágio **da** receita e arraste-o para a tela.
+1. Em uma lista inteligente, clique na guia **Lista inteligente **, localize o filtro **Estágio da receita** e arraste-o para a tela.
 
    ![](assets/draginrevenuefilter.png)
 
-1. Selecione um Estágio **de** Receita.
+1. Selecione um **Estágio da Receita**.
 
    ![](assets/two.jpg)
 
-1. Vá até a guia **Pessoas** para visualização dos resultados.
+1. Vá para a guia **Pessoas** para visualização dos resultados.
 
    ![](assets/peopleresults.jpg)
 
 ## Executar uma Etapa de Fluxo nos Membros de uma Etapa de Receita {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-Agora que você sabe quais pessoas estão em quais estágios de receita, você pode comercializar diretamente para eles. Além de escolher a Etapa **da** receita como um filtro de lista inteligente, você também pode escolhê-la como um filtro &quot;if&quot; no fluxo.
+Agora que você sabe quais pessoas estão em quais estágios de receita, você pode comercializar diretamente para eles. Além de escolher **Estágio de receita** como filtro de lista inteligente, também é possível escolhê-lo como um filtro &quot;if&quot; no fluxo.
 
-1. Na etapa de fluxo desejada, clique em **Adicionar escolha** e selecione **Estágio** de receita no menu suspenso.
+1. Na etapa de fluxo desejada, clique em **Adicionar escolha** e selecione **Estágio de receita** no menu suspenso.
 
    ![](assets/six.png)
 
