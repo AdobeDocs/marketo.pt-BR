@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Relatório de desempenho de fluxo de envolvimento {#engagement-stream-performance-report}
+# Relatório de desempenho do fluxo de envolvimento {#engagement-stream-performance-report}
 
 Quer saber como o conteúdo de seu envolvimento está funcionando? Experimente o relatório de desempenho do fluxo de envolvimento.
 
 ## Criar o relatório {#create-the-report}
 
-1. Localize e selecione seu programa de envolvimento e, em **Novo** , clique em **Novo ativo** local.
+1. Localize e selecione seu programa de envolvimento e, em **Novo**, clique em **Novo ativo local**.
 
    ![](assets/localassetnutring.jpg)
 
@@ -44,7 +44,7 @@ Quer saber como o conteúdo de seu envolvimento está funcionando? Experimente o
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Na guia **Configuração** , clique com o duplo no filtro Email **do Programa de** envolvimento.
+1. Na guia **Setup**, clique com o duplo no filtro **Email do Programa de envolvimento**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
@@ -52,16 +52,16 @@ Quer saber como o conteúdo de seu envolvimento está funcionando? Experimente o
 
    ![](assets/engagementfilter.jpg)
 
-## Executar relatório {#run-report}
+## Executar Relatório {#run-report}
 
-1. Para executar o relatório, basta clicar na guia **Relatório** .
+1. Para executar o relatório, basta clicar na guia **Relatório**.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
    >
-   >Embora não esteja ilustrado, a Pontuação de envolvimento é uma coluna neste relatório. Consulte [Compreensão da pontuação](understanding-the-engagement-score.md) de envolvimento para obter detalhes sobre o que é.
+   >Embora não esteja ilustrado, a Pontuação de envolvimento é uma coluna neste relatório. Consulte [Entendendo a Pontuação de envolvimento](understanding-the-engagement-score.md) para obter detalhes sobre o que ela é.
 
    Ótimo trabalho! Observe que o relatório é agrupado por programa de envolvimento.
 
