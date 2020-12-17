@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Definir um prefixo de campo personalizado padrão {#set-a-default-custom-field-prefix}
 
-O prefixo padrão do Microsoft Dynamics para campos personalizados deve ser **novo** para que os campos proprietários do Marketing sejam sincronizados corretamente. Veja como alterar o prefixo padrão.
+Seu prefixo padrão do Microsoft Dynamics para campos personalizados deve ser **new** para que os campos proprietários do Marketing sejam sincronizados corretamente. Veja como alterar o prefixo padrão.
 
 1. Vá para Configurações e selecione **Personalizações.**
 
@@ -29,7 +29,7 @@ O prefixo padrão do Microsoft Dynamics para campos personalizados deve ser **no
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. Altere o prefixo para **novo**. Clique em **Salvar e fechar**.
+1. Altere o prefixo para **new**. Clique em **Salvar e Fechar**.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
