@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Adicionar a guia de insight de vendas e botões do Marketing Cloud ao Salesforce {#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
+# Adicionar a guia Marketing to Sales Insight e botões ao Salesforce {#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
 
 Você pode adicionar a guia Marketing to Sales Insight e os botões personalizados à sua visualização do Salesforce para fácil acesso. Interessado? Veja como.
 
-## Adicionar a guia Marketo  {#adding-the-marketo-tab}
+## Adicionar a guia Marketo {#adding-the-marketo-tab}
 
-1. Clique em** + **e clique em **Personalizar minhas guias**.
+1. Clique em** + **e em **Personalizar minhas guias**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
-1. Selecione Marketo na lista esquerda. Em seguida, clique em **Adicionar** para adicioná-lo às guias **** Selecionadas.
+1. Selecione Marketo na lista esquerda. Em seguida, clique em **Adicionar** para adicioná-lo às **Guias Selecionadas**.
 
    >[!TIP]
    >
-   >Use as setas para **cima** e para **baixo** para reordenar suas guias.
+   >Use a seta **Para cima** e **Para baixo** para reordenar as guias.
 
    ![](assets/image2015-5-27-13-3a42-3a59.png)
 
@@ -47,7 +47,7 @@ Você pode adicionar botões de marketing aos seus layouts do Salesforce. Veja u
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
-1. Adicione **Adicionar à Campanha** de Marketo, **Enviar email** de Marketo e **Adicionar à Lista** de observação aos botões **** Selecionados e **Salvar**.
+1. Adicione **Adicionar à Campanha do Marketo**, **Enviar email do Marketo** e **Adicionar à Lista do Watch** aos botões **Selecionados** e **Salvar**.
 
    ![](assets/image2015-5-26-16-3a59-3a34.png)
 
