@@ -21,9 +21,9 @@ Este artigo descreve como um Administrador faria a visualização e editaria as 
 
 ## Definir configurações de localização padrão para uma Subscrição {#set-default-location-settings-for-a-subscription-1}
 
-Quando um Administrador altera as configurações de localização padrão, os usuários recém-criados herdam essas configurações. Os usuários sempre podem [alterar suas preferências](select-your-language-locale-and-time-zone.md) de idioma, localidade e fuso horário em suas contas individuais.
+Quando um Administrador altera as configurações de localização padrão, os usuários recém-criados herdam essas configurações. Os usuários sempre podem [alterar o idioma, a localidade e as preferências de fuso horário](select-your-language-locale-and-time-zone.md) em suas contas individuais.
 
-1. Em **Admin**, *** **clique em **Local**.
+1. Em **Admin**,*** **clique em **Localização**.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
@@ -33,19 +33,19 @@ Quando um Administrador altera as configurações de localização padrão, os u
 
    Esta subscrição foi criada em inglês. Digamos que você estava em Londres e queria alterar a localidade padrão e o fuso horário. A localidade determina a formatação de números, datas e horas.
 
-1. Selecione a **Localidade** e altere-a para **Inglês** (Reino Unido).
+1. Selecione **Locale** e altere para **English** (Reino Unido).
 
    ![](assets/image2014-11-7-11-3a51-3a26.png)
 
-1. Finalmente, escolha o Fuso **horário** apropriado.
+1. Finalmente, escolha o **Fuso horário** apropriado.
 
    ![](assets/image2014-11-7-14-3a42-3a34.png)
 
    >[!NOTE]
    >
-   >O Marketing Sales Insight for [Salesforce.com](http://salesforce.com/) é compatível com francês, alemão, japonês, português e espanhol.
+   >O Marketing Insight Sales para [Salesforce.com](http://salesforce.com/) é compatível com francês, alemão, japonês, português e espanhol.
 
-## Definir as configurações de moeda padrão para uma Subscrição {#set-the-default-currency-settings-for-a-subscription}
+## Defina as configurações de moeda padrão para uma Subscrição {#set-the-default-currency-settings-for-a-subscription}
 
 Se você estiver alterando a localidade padrão para seus usuários, talvez você também queira alterar as configurações de formato de moeda.
 
