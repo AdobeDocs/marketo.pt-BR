@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ao criar listas inteligentes, alguns filtros têm opções avançadas chamadas de restrições *. *Essas são condições adicionais que você pode adicionar a filtros e acionadores para ajudar a restringir ainda mais sua pesquisa.
 
-Neste exemplo, vamos adicionar algumas restrições a um filtro ** [Data Value Changed](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** para encontrar pessoas que tiveram uma mudança de status do MQL para o SQL.
+Neste exemplo, vamos adicionar algumas restrições a um filtro ** [Valor de dados alterado](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)*** para localizar pessoas que tiveram uma alteração de status de MQL para SQL.
 
 >[!PREREQUISITES]
 >
@@ -26,19 +26,19 @@ Neste exemplo, vamos adicionar algumas restrições a um filtro ** [Data Value C
 
 
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma-1.png)
 
-1. Selecione a lista inteligente com um filtro ao qual você adicionará uma restrição e clique na guia Lista **** inteligente.
+1. Selecione a lista inteligente com um filtro ao qual você adicionará uma restrição e clique na guia **Lista inteligente**.
 
    ![](assets/two-3.png)
 
-1. Em **Adicionar restrição**, selecione Valor **** anterior.
+1. Em **Adicionar restrição**, selecione **Valor anterior**.
 
    ![](assets/three-3.png)
 
-1. Informe o Valor **** Anterior. Neste exemplo, estamos usando o MQL.
+1. Digite o **Valor anterior**. Neste exemplo, estamos usando o MQL.
 
    ![](assets/four-2.png)
 
@@ -46,9 +46,9 @@ Neste exemplo, vamos adicionar algumas restrições a um filtro ** [Data Value C
 
    ![](assets/five.png)
 
-1. Informe o **Novo Valor**. Neste exemplo, estamos usando SQL.
+1. Insira **Novo Valor**. Neste exemplo, estamos usando SQL.
 
    ![](assets/six.png)
 
-1. Muito bem! Clique na guia **Pessoas** para ver todas as pessoas que tiveram um **Status** mudando de **MQL** para **SQL** nos últimos 30 dias.
+1. Muito bem! Clique na guia **Pessoas** para ver todas as pessoas que tiveram uma alteração **Status** de **MQL** para **SQL** nos últimos 30 dias.
 
