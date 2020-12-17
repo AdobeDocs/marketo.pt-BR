@@ -19,14 +19,14 @@ Você pode ter notado a opção &quot;Usar filtros&quot; ao criar listas intelig
 
 >[!NOTE]
 >
->A alteração da lógica da regra de lista inteligente aplica-se somente a filtros, **não** acionadores.
+>A alteração da lógica da regra de lista inteligente só se aplica a filtros, **e não** acionadores.
 
 Os acionadores são sempre avaliados como OU mesmo se a configuração acima estiver definida como ALL.  Veja um exemplo:
 
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
 A lista inteligente acima em palavras:
-`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Assim, se uma pessoa preencher o formulário **ou** visitar a página, a campanha avaliará essa pessoa com base em **todos **ou **qualquer **qualquer **um dos filtros subsequentes, dependendo da configuração usada.
+`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Portanto, se uma pessoa preencher o formulário **ou** visitar a página, a campanha avaliará essa pessoa com base em **todos **ou **qualquer **qualquer um dos filtros subsequentes, dependendo da configuração usada.
 
 >[!MORELIKETHIS]
 >
