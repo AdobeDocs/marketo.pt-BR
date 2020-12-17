@@ -19,11 +19,11 @@ E se você quiser enviar um email para um cliente potencial em nome do Propriet�
 
    ![](assets/one.png)
 
-1. Clique no campo **De** (exclua qualquer nome existente) e clique no botão **Inserir token** .
+1. Clique no campo **De** (exclua qualquer nome existente) e clique no botão **Inserir token**.
 
    ![](assets/two.png)
 
-1. Start digitando &quot;`{{lead.Lead Owner`&quot; e selecione o **`{{lead.Lead Owner First Name}}`** token.
+1. Start digitando &quot;`{{lead.Lead Owner`&quot; e selecione o token **`{{lead.Lead Owner First Name}}`**.
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
@@ -31,11 +31,11 @@ E se você quiser enviar um email para um cliente potencial em nome do Propriet�
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
-1. Clique depois do primeiro token, adicione um espaço e clique no botão **Inserir token** .
+1. Clique depois do primeiro token, adicione um espaço e clique no botão **Inserir token**.
 
    ![](assets/five.png)
 
-1. Start digitando &quot;`{{lead.Lead Owner`&quot; e selecione o **`{{lead.Lead Owner Last Name}}`** token.
+1. Start digitando &quot;`{{lead.Lead Owner`&quot; e selecione o token **`{{lead.Lead Owner Last Name}}`**.
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
@@ -50,7 +50,7 @@ E se você quiser enviar um email para um cliente potencial em nome do Propriet�
    Clique no campo De email (exclua qualquer endereço de email existente) e clique no botão Inserir token.
    ![](assets/eight.png)
 
-1. Start digitando &quot;`{{lead.Lead Owner`&quot; e selecione o **`{{lead.Lead Owner Email Address}}`** token.
+1. Start digitando &quot;`{{lead.Lead Owner`&quot; e selecione o token **`{{lead.Lead Owner Email Address}}`**.
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
@@ -58,7 +58,7 @@ E se você quiser enviar um email para um cliente potencial em nome do Propriet�
 
    ![](assets/ten.png)
 
-1. Verifique se os campos **Responder** e **Assunto** estão preenchidos e se você está pronto!
+1. Certifique-se de que os campos **Responder** e **Assunto** estejam preenchidos e que você esteja pronto!
 
    ![](assets/eleven.png)
 
