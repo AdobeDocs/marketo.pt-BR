@@ -33,5 +33,5 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   Em seguida, siga as etapas de instalação da personalização da mesma forma que faria em uma conta regular do Salesforce. Vá para a marca de um minuto [deste vídeo](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) para obter mais informações.
+   Em seguida, siga as etapas de instalação da personalização da mesma forma que faria em uma conta regular do Salesforce. Pule para a marca de um minuto de [este vídeo](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) para obter mais informações.
 
