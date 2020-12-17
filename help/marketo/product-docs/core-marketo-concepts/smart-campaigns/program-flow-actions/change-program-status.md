@@ -23,11 +23,11 @@ Os status dos programas ajudam você a acompanhar o progresso das pessoas em um 
 
 ## Uso {#usage}
 
-1. Arraste a etapa de fluxo **Alterar status** do Programa.
+1. Arraste na etapa de fluxo **Alterar status do Programa**.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Selecione o **Novo status** que deseja definir. A pessoa também se tornará membro do programa se ainda não o foram.
+1. Selecione o **Novo Estado** que pretende definir. A pessoa também se tornará membro do programa se ainda não o foram.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
