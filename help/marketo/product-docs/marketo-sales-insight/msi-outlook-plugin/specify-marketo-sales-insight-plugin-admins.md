@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Especificar Administradores de Plug-in do Marketing Insight de Vendas {#specify-marketo-sales-insight-plugin-admins}
+# Especificar Admins. do Plug-in Marketing Insight de Vendas {#specify-marketo-sales-insight-plugin-admins}
 
 Você pode especificar quais contatos deseja que apareçam no aviso de email enviado aos usuários quando os convidar para configurar o MSI no Outlook.
 
-1. Em Meu mercado, clique em **Admin** e, em seguida **, em Sales Insight.**
+1. Em Meu Marketo, clique em **Admin** e, em seguida, **Sales Insight.**
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Clique na guia Add-in **por** email.
+1. Clique na guia **Add-In de email**.
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Clique em **Especificar contato** de plug-in.
+1. Clique em **Especificar contato de plug-in**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
