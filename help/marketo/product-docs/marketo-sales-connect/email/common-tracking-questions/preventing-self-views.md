@@ -37,19 +37,19 @@ As visualizações são rastreadas baixando um pequeno pixel de imagem invisíve
 
    ![](assets/win-2.png)
 
-1. Na caixa de diálogo Opções do Outlook, clique em Central de **Confiança**.
+1. Na caixa de diálogo Opções do Outlook, clique em **Central de Confiança**.
 
    ![](assets/win-3.png)
 
-1. Em Centro de Confiança do Microsoft Outlook, clique em Configurações **da Central de** Confiança.
+1. Em Central de Confiança do Microsoft Outlook, clique em **Configurações da Central de Confiança**.
 
    ![](assets/win-4.png)
 
-1. Clique em Download automático no menu à esquerda e marque a caixa de seleção **Não baixar imagens automaticamente em e-mail HTML ou itens** RSS.
+1. Clique em Download automático no menu à esquerda e marque a caixa de seleção **Não baixar imagens automaticamente em e-mail HTML ou itens RSS**.
 
    ![](assets/win-5.png)
 
-1. Clique em **OK** na caixa de diálogo Central de confiança.
+1. Clique em **OK** na caixa de diálogo Central de Confiança.
 
    ![](assets/win-6.png)
 
@@ -69,7 +69,7 @@ As visualizações são rastreadas baixando um pequeno pixel de imagem invisíve
 
    ![](assets/mac-2.png)
 
-1. Em Segurança, clique no botão de opção **Nunca** .
+1. Em Segurança, clique no botão de opção **Nunca**.
 
    ![](assets/mac-3.png)
 
