@@ -11,32 +11,32 @@ ht-degree: 0%
 ---
 
 
-# Painéis relatórios no Salesforce {#reporting-dashboards-in-salesforce}
+# Painéis de relatórios no Salesforce {#reporting-dashboards-in-salesforce}
 
 Saiba como configurar painéis abaixo.
 
 ## Abrir e clicar em Relatório {#open-and-click-report}
 
-1. Selecione o tipo de registro de **Tarefas e Eventos** .
+1. Selecione o tipo de registro **Tarefas e Eventos**.
 1. Defina os parâmetros do relatório com base no período desejado e na estrutura hierárquica.
 1. Adicione um filtro para remover emails internos registrados no Salesforce (por exemplo, Empresa/Conta diferente do Marketing).
-1. Selecione o formato de relatório **Resumo** .
+1. Selecione o formato de relatório **Resumo**.
 1. Adicione ao relatório os campos Assunto, Atribuído e Vendas de marketing Clicadas/Vendas de marketing visualizadas.
-1. Clique com o duplo do mouse em **Adicionar fórmula** no painel Campos.
+1. Clique com o duplo em **Adicionar Fórmula** no painel Campos.
 1. Adicione um nome à fórmula, selecione **Porcentagem **no formato e selecione** Agrupamento 1 *.***
-1. Selecione Vendas **de marketing clicadas/Vendas de marketing visualizadas,** em seguida **Soma** nos campos de resumo.
-1. Adicione um sinal de divisão à fórmula e selecione Contagem **de** registros nos campos Resumo - *Salvar como*.
+1. Selecione **Vendas do Marketing Clicadas/Vendas do Marketing Visualizadas,** em seguida **Soma** nos Campos de resumo.
+1. Adicione um sinal de divisão à fórmula e selecione **Contagem de registros** nos campos Resumo - *Salvar como*.
 
-## Relatório de desempenho do modelo {#template-performance-report}
+## Relatório de desempenho de modelo {#template-performance-report}
 
 1. Personalize o relatório Abrir e Clicar para incluir os seguintes campos - *Salvar como.*
 
 ## Relatório de volume de modelo {#template-volume-report}
 
 1. Modifique o Relatório de Desempenho do Modelo e inclua o filtro, &quot;Modelo de Vendas de Marketing não igual a em branco&quot;.
-1. Remova o campo Marketo Sales Clicked (Cliquado em vendas do Marketo) - *Salvar como*.
+1. Remova o campo Marketo Sales Clicked (Cliquado no setor de vendas do Marketo) - *Salvar como*.
 
-## Relatório de Contas de Tendência {#trending-accounts-report}
+## Relatório de contas de tendência {#trending-accounts-report}
 
 1. Selecione o tipo de registro Atividades com contas.
 1. Configure os parâmetros e campos do relatório conforme indicado abaixo - *Salvar como.
