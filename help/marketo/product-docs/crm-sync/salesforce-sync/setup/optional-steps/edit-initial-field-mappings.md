@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Editar Mapeamentos de Campo Inicial {#edit-initial-field-mappings}
+# Editar Mapeamentos de Campo Iniciais {#edit-initial-field-mappings}
 
 >[!NOTE]
 >
 >**Lembrete**
 >
->Esse recurso só pode ser acessado antes da sincronização inicial com o Salesforce! Quando o botão **Sincronizar agora** é pressionado, isso não pode mais ser feito.
+>Esse recurso só pode ser acessado antes da sincronização inicial com o Salesforce! Depois que o botão **Sincronizar agora** é pressionado, isso não pode mais ser feito.
 
 Durante a sincronização inicial com o Salesforce, o Marketo combina automaticamente os campos personalizados com nomes semelhantes em um único campo no lado do Marketing para garantir que os dados possam ser trocados com os objetos Lead e Contact no CRM. Este artigo explica como personalizar esses mapeamentos.
 
@@ -29,7 +29,7 @@ Quando um campo é exibido na pasta Campos não mapeados, isso significa que ele
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Abra a pasta Campos **personalizados** não mapeados.
+1. Abra a pasta **Campos personalizados não mapeados**.
 
    ![](assets/two.png)
 
@@ -65,7 +65,7 @@ Se você tiver campos com nomes semelhantes no cliente potencial e o objeto de c
 
 ## Redefinir Schema {#reset-schema}
 
-1. Se você fizer algumas alterações no schema no Salesforce ao trabalhar nos mapeamentos, você poderá fazer as alterações clicando em **Redefinir Schema**.
+1. Se você fizer algumas alterações no schema no Salesforce ao trabalhar nos mapeamentos, poderá fazer as alterações clicando em **Redefinir Schema**.
 
    * Todas as alterações de mapeamento serão redefinidas!
    * A redefinição do schema apenas adicionará campos, não removerá (mesmo se você os ocultar do usuário de sincronização).
