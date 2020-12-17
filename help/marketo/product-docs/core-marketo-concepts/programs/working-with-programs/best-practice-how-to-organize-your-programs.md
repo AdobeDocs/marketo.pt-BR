@@ -28,31 +28,35 @@ No Marketing Atividade, você deve usar pastas para organizar seus programas. A 
 >**Exemplo**
 >
 >* Programas ativos de marketing
->
->    * Emails
->    * Eventos
->
->        * Eventos ao vivo / apresentações de roadeiras
->        * shows de vendas
->        * Webinars
->   * Newsletters
->   * Enfermidade
->   * Conteúdo da Web
->   * formulários web
->* Aprendizagem
->* Operacional
->
->   * Ciclo
->   * Pontuação
->   * gestão de dados
->* Insight de vendas
->   * Momentos interessantes
->   * E-mails de vendas
->   * Campanhas de vendas solicitadas
->* **Arquivar**
->   * Eventos de arquivamento
->      * Arquivo 2012
->      * Arquivo 2013
+   >
+   >    
+   * Emails
+   >    * Eventos
+
+      >
+      >        
+      * Eventos ao vivo / apresentações de roadeiras
+      >        * shows de vendas
+      >        * Webinars
+   >
+   * Newsletters
+   * Enfermidade
+   * Conteúdo da Web
+   * formulários web
+* Aprendizagem
+* Operacional
+
+   * Ciclo
+   * Pontuação
+   * gestão de dados
+* Insight de vendas >
+   * Momentos interessantes
+   * E-mails de vendas
+   * Campanhas de vendas solicitadas
+* **Arquivar** >
+   * Eventos de arquivamento >
+      * Arquivo 2012
+      * Arquivo 2013
 
 
 
@@ -64,15 +68,15 @@ Cada um desses mencionados no exemplo é uma pasta. Notem como eles são todos e
 
 >[!TIP]
 >
->A pasta &quot;Arquivar&quot; é um tipo especial de pasta projetada para remover itens de listas selecionadas e relatórios. Isso ajudará o seu sistema a funcionar mais rapidamente. Saiba [mais sobre pastas](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>A pasta &quot;Arquivar&quot; é um tipo especial de pasta projetada para remover itens de listas selecionadas e relatórios. Isso ajudará o seu sistema a funcionar mais rapidamente. Saiba mais sobre as pastas[.](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
 
 Você certamente pode adicionar mais pastas conforme desejar. Lembre-se de que as futuras gerações de profissionais de marketing na sua empresa vão viver com suas decisões sobre como nomear/organizar as coisas.
 
-## Nomear esquemas {#naming-schemes}
+## Nomeando Esquemas {#naming-schemes}
 
 O nome é essencial, já que os recursos do Marketo usam uma linguagem comum para se comunicar. Para programas, você deve dar um nome exclusivo a eles. **Nenhum programa pode ter o mesmo nome**. A prática recomendada é usar o seguinte formato:
 
-[Abreviação de Programa tipo] [AAAA]-[MM]-[Opcional Descrição] [resumida]
+[Abreviação de Programa ] [TypeYYY]-[MM]-[Optional ] [DDBrief Descrição]
 
 >[!NOTE]
 >
@@ -88,11 +92,11 @@ O nome é essencial, já que os recursos do Marketo usam uma linguagem comum par
 
 
 
-Os nomes dos programas precisam ser exclusivos na subscrição, mesmo em diferentes [espaços](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)de trabalho.  Para os ativos locais dentro dos programas, a regra é **manter o nome simples**. Basta citar um convite como &quot;Convite&quot;, em oposição ao &quot;Convite Webinar de 2015&quot;. Como eles estão em um programa, o programa pai faz automaticamente parte do nome ao selecioná-lo em outro lugar. Em outras palavras, os ativos locais precisam ser exclusivos apenas dentro do programa. Você pode ter centenas de ativos chamados &quot;Convidar&quot;, cada um em um programa diferente e isso não vai atrapalhar você.
+Os nomes de programas precisam ser exclusivos na subscrição, mesmo em espaços de trabalho diferentes [](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Para os ativos locais dentro dos programas, a regra é **manter o nome simples**. Basta citar um convite como &quot;Convite&quot;, em oposição ao &quot;Convite Webinar de 2015&quot;. Como eles estão em um programa, o programa pai faz automaticamente parte do nome ao selecioná-lo em outro lugar. Em outras palavras, os ativos locais precisam ser exclusivos apenas dentro do programa. Você pode ter centenas de ativos chamados &quot;Convidar&quot;, cada um em um programa diferente e isso não vai atrapalhar você.
 
 ## Tokens {#tokens}
 
-Tokens usam pastas e programas como um veículo para definir variáveis a serem usadas por landings page, emails e outros ativos. Saiba [tudo sobre tokens](http://docs.marketo.com/display/docs/tokens).
+Tokens usam pastas e programas como um veículo para definir variáveis a serem usadas por landings page, emails e outros ativos. Saiba mais sobre os tokens [.](http://docs.marketo.com/display/docs/tokens)
 
 A organização mencionada acima permite que você coloque tokens na pasta do Evento para que ela caia em todos os eventos.
 
@@ -110,7 +114,7 @@ Um Evento geralmente tem muitas partes móveis, incluindo: convites, landings pa
 
 ## Programas de envolvimento {#engagement-programs}
 
-Saiba [tudo sobre programas](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)de envolvimento. A melhor maneira de organizar seu programa de envolvimento é com pastas. Crie uma pasta para cada fluxo e, em seguida, coloque os emails ou programas nessa pasta. Inclua uma pasta de arquivamento em cada fluxo quando o conteúdo ficar obsoleto e você quiser removê-lo.
+Saiba mais [tudo sobre programas de envolvimento](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). A melhor maneira de organizar seu programa de envolvimento é com pastas. Crie uma pasta para cada fluxo e, em seguida, coloque os emails ou programas nessa pasta. Inclua uma pasta de arquivamento em cada fluxo quando o conteúdo ficar obsoleto e você quiser removê-lo.
 
 ## Programas operacionais {#operational-programs}
 
@@ -118,7 +122,7 @@ Eles são usados para fins de limpeza de dados. Tem pastas para as datas em que 
 
 ## Aninhamento de Programas de e-mail {#nesting-email-programs}
 
-Os Programas de e-mail são projetados para serem sua ferramenta de explosão de e-mail. Você pode colocá-los em Eventos ou outros programas para promoções, convites e lembretes. Eles vêm com um painel legal e outros recursos de teste A/B. Além disso, são facilmente manipulados na visualização [do](http://docs.marketo.com/display/docs/program+schedule+view)cronograma do programa.
+Os Programas de e-mail são projetados para serem sua ferramenta de explosão de e-mail. Você pode colocá-los em Eventos ou outros programas para promoções, convites e lembretes. Eles vêm com um painel legal e outros recursos de teste A/B. Além disso, eles são facilmente manipulados na visualização [do cronograma do programa](http://docs.marketo.com/display/docs/program+schedule+view).
 
 Você também pode fazer um programa de email como um programa independente. Programas de e-mail não são permitidos em outros programas de e-mail. Isso seria loucura!
 
@@ -134,4 +138,4 @@ Algumas pessoas até mesmo abstraem a maior parte do texto nos emails e landings
 
 ## Resumo {#summary}
 
-Como podem ver, há muito poder em Marketo. Abordamos aqui as noções básicas, mas considere alguns serviços [adicionais de Especialistas](http://www.marketo.com/services/) em Marketing para afinar e se preparar para o sucesso.
+Como podem ver, há muito poder em Marketo. Abordamos aqui as noções básicas, mas considere alguns [serviços adicionais de Especialistas em Marketing](http://www.marketo.com/services/) para afinar e se preparar para o sucesso.
