@@ -21,7 +21,7 @@ Imagine que você tem um fluxo de campanha inteligente que usa &quot;Enviar aler
 
 ## Visão geral {#overview}
 
-Você pode remover pessoas de um fluxo de campanha usando a etapa **Remover do fluxo de fluxo** .
+Você pode remover pessoas de um fluxo de campanha usando a etapa de fluxo **Remover do Fluxo**.
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
