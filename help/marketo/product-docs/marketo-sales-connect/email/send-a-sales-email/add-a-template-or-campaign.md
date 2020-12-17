@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Adicionar um modelo ou Campanha {#add-a-template-or-campaign}
 
-Para adicionar um Modelo ou Campanha a um email, abra uma nova janela Compor. Modelos e Campanhas estão do lado direito. Clique no menu suspenso **Categoria** .
+Para adicionar um Modelo ou Campanha a um email, abra uma nova janela Compor. Modelos e Campanhas estão do lado direito. Clique no menu suspenso **Categoria**.
 
 Para adicionar um modelo, clique em **Modelo** e selecione o modelo que deseja enviar.
 
-Se você adicionar uma campanha, clique na guia **Campanha** .
+Se adicionar uma campanha, clique na guia **Campanha** em vez disso.
 
-Se você acabou de adicionar/editar suas mensagens no aplicativo [da](http://toutapp.com/login)Web, certifique-se de clicar no botão **Atualizar** para garantir que você esteja puxando a versão mais recente.
+Se você acabou de adicionar/editar suas mensagens no [aplicativo da Web](http://toutapp.com/login), certifique-se de clicar no botão **Atualizar** para garantir que você esteja puxando a versão mais recente.
