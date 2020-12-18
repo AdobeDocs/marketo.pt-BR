@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Definir requisito de compartilhamento em redes sociais {#set-social-share-requirement}
 
-Ao [criar uma oferta](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)de referência, você pode exigir que as pessoas compartilhem a oferta para se inscreverem ou torná-la opcional.
+Ao [criar uma oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), você pode exigir que as pessoas compartilhem a oferta para se inscreverem ou torná-la opcional.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma-1.png)
 
@@ -23,7 +23,7 @@ Ao [criar uma oferta](../../../../product-docs/demand-generation/social/referral
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. No editor de oferta de referência, vá para Configurações **do** aplicativo e, em seguida, **Inscreva-se em Etapas** de fluxo.
+1. No editor de oferta de referência, vá para **Configurações do aplicativo** e, em seguida, **Etapas de fluxo de inscrição**.
 
    ![](assets/three.png)
 
@@ -34,7 +34,7 @@ Ao [criar uma oferta](../../../../product-docs/demand-generation/social/referral
    * **Captura de pessoa > Compartilhar**: A pessoa pode ignorar o compartilhamento e apenas se inscrever.
    * **Compartilhar > Captura** de pessoa: A pessoa deve compartilhar para se inscrever.
 
-1. Para cada opção, consulte a pré-visualização na janela **Visualização e edição** .
+1. Para cada opção, consulte a pré-visualização na janela **Visualização &amp; Editar**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
 
