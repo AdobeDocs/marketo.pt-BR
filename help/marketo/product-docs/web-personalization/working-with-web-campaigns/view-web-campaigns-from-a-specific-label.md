@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visualizações da Web de uma etiqueta específica {#view-web-campaigns-from-a-specific-label}
+# Visualização de Campanhas da Web de um Rótulo Específico {#view-web-campaigns-from-a-specific-label}
 
 Você está procurando visualização e filtrar suas campanhas de acordo com uma etiqueta específica?
 
