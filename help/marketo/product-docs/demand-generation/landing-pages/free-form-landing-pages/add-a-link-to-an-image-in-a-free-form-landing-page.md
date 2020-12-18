@@ -27,7 +27,7 @@ Deseja tornar uma imagem na sua landing page um link para outra página/site? Ve
 
    ![](assets/click-on-image.png)
 
-1. Expanda a folha **de propriedades**.
+1. Expanda a **Folha de Propriedades**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
@@ -35,7 +35,7 @@ Deseja tornar uma imagem na sua landing page um link para outra página/site? Ve
 
    ![](assets/add-link.png)
 
-   Parabéns! Agora você adicionou com êxito um link a uma imagem na sua landing page. Agora você pode [pré-visualização a página](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) para vê-la em ação.
+   Parabéns! Agora você adicionou com êxito um link a uma imagem na sua landing page. Agora você pode [pré-visualização na página](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) para vê-la em ação.
 
 >[!TIP]
 >
