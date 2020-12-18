@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Marketing na Web baseado em conta com ABM {#account-based-web-marketing-with-abm}
+# Marketing Web baseado em conta com ABM {#account-based-web-marketing-with-abm}
 
-O Marketo introduziu um novo aplicativo de [marketing](http://docs.marketo.com/display/docs/account+based+marketing) baseado em conta (ABM).
+O Marketo introduziu um novo aplicativo [Marketing baseado em conta](http://docs.marketo.com/display/docs/account+based+marketing) (ABM).
 
 Ao usar a Personalização da Web do Marketing e o novo ABM (Account Based Marketing):
 
@@ -23,7 +23,7 @@ Ao usar a Personalização da Web do Marketing e o novo ABM (Account Based Marke
 
    * **Observação**: A sincronização pode levar até 5 minutos
 
-* Na Personalização da Web, é possível criar contas de definição de metas de [segmentos a partir da Lista](create-a-segment-using-an-account-list.md) Conta que você criou no ABM e personalizar o conteúdo dessas contas
+* Na Personalização da Web, você pode criar [segmentos direcionando contas da Lista Conta](create-a-segment-using-an-account-list.md) que você criou no ABM e personalizar o conteúdo dessas contas
 
 ## Para clientes Web ABM existentes {#for-existing-web-abm-customers}
 
@@ -35,6 +35,6 @@ Se você já estiver usando o Web ABM:
 
    * **Observação**: A sincronização pode levar até 5 minutos
 
-* Na Personalização da Web, você pode criar contas de segmentação de segmentos a partir de Listas de conta criadas em ** Web ABM e ABM e personalizar o conteúdo dessas contas
+* Na Personalização da Web, você pode criar contas de segmentação de segmentos a partir de Listas de conta criadas em *Web ABM e ABM e personalizar o conteúdo dessas contas*
 * Você pode fazer upload de arquivos CSV na página Lista da conta de personalização da Web
 
