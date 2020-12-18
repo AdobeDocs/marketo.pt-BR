@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Como entender o conteúdo dinâmico {#understanding-dynamic-content}
 
-Há muito mais para personalização do que apenas &quot;Oi `{{First Name}}`&quot;. Com o conteúdo dinâmico do Marketo, você pode personalizar o modo como pessoas diferentes veem uma landing page ou email.
+Há muito mais para personalização do que apenas &quot;Hi `{{First Name}}`&quot;. Com o conteúdo dinâmico do Marketo, você pode personalizar o modo como pessoas diferentes veem uma landing page ou email.
 
 ![](assets/artboard-1.png)
 
 ## Segmentação {#segmentation}
 
-Primeiro, você precisará dividir seu povo em subgrupos. Isso é chamado de [segmentação](create-a-segmentation.md).
+Primeiro, você precisará dividir seu povo em subgrupos. Isso é chamado [segmentation](create-a-segmentation.md).
 
 >[!NOTE]
 >
 >**Definição**
 >
->A segmentação categoriza sua audiência em diferentes subgrupos com base em um [Smart](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)List. Esses grupos são chamados de segmentos.
+>A segmentação categoriza sua audiência em diferentes subgrupos com base em uma regra [Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Esses grupos são chamados de segmentos.
 
 Por exemplo, se tivermos uma segmentação chamada Indústria, alguns dos segmentos podem ser: Saúde, tecnologia, finanças, bens de consumo, etc.   ![](assets/artboard-2.png)
 
@@ -37,7 +37,7 @@ Depois de criar segmentos diferentes, você pode adicionar blocos de conteúdo d
 
 ## Trechos {#snippets}
 
-[Os trechos](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) são uma ferramenta útil no Marketo. Crie-o uma vez e use-o em vários lugares! Se você atualizar o snippet, todos os ativos (landing page ou e-mails) que usam o snippet serão atualizados automaticamente.
+[Os ](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) fragmentos são uma ferramenta útil no Marketo. Crie-o uma vez e use-o em vários lugares! Se você atualizar o snippet, todos os ativos (landing page ou e-mails) que usam o snippet serão atualizados automaticamente.
 
 >[!NOTE]
 >
