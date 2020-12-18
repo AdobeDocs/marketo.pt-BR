@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ativar conteúdo preditivo para mídias avançadas da Web {#enable-predictive-content-for-web-rich-media}
+# Habilitar conteúdo previsível para mídias avançadas da Web {#enable-predictive-content-for-web-rich-media}
 
 O conteúdo preditivo envolve seus visitantes da Web com o conteúdo mais relevante, capacitado pelo aprendizado da máquina e análises preditivas. Com a Rich Media da Web, você pode aprimorar seu conteúdo com descrições e imagens de texto e incorporar várias recomendações de conteúdo preditivo em seu site.
 
@@ -28,21 +28,21 @@ O conteúdo preditivo envolve seus visitantes da Web com o conteúdo mais releva
 
 Depois de preparar o título, a descrição e a imagem do conteúdo para Rich Media, é possível ativar conteúdos individuais ou múltiplos.
 
-1. Para ativar um título individual, clique em um título para abrir o editor. Clique em Rich Media (Mídia avançada), marque a caixa **Enabled for Predictive Content (Ativado para conteúdo preditivo) em Rich Media (Mídia avançada)** e clique em **Save (Salvar**).
+1. Para ativar um título individual, clique em um título para abrir o editor. Clique em Mídia avançada, marque a caixa **Ativado para conteúdo preditivo em Mídia avançada** e clique em **Salvar**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Para vários conteúdos, na página Conteúdo **** preditivo, marque as caixas ao lado dos títulos.
+1. Para vários conteúdos, na página **Conteúdo preditivo**, marque as caixas ao lado dos títulos.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Clique no menu suspenso Ações **de** conteúdo e selecione **Ativar para mídia** avançada da Web.
+1. Clique na lista suspensa **Ações de conteúdo** e selecione **Ativar para Mídia rica da Web**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
-## Personalize o código Javascript e incorpore-o ao seu site  {#customize-the-javascript-code-and-embed-it-into-your-website}
+## Personalize o código Javascript e incorpore-o ao seu site {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulte a documentação do modelo de Recomendação de mídia rica [no site de desenvolvedores do Marketing Cloud.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Isso explica como personalizar o modelo para seu site.
+Consulte a documentação do modelo de recomendação de mídias avançadas [no site de desenvolvedores de marketing.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Isso explica como personalizar o modelo para seu site.
 
 Cole o código JavaScript no seu site na localização em que deseja que o modelo seja exibido.
 
