@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Perguntas frequentes sobre o preenchimento de formulários do LinkedIn Social {#linkedin-social-form-fill-faqs}
+# Perguntas frequentes sobre o preenchimento de formulário do LinkedIn Social {#linkedin-social-form-fill-faqs}
 
 A política de API revisada do LinkedIn exigia que removêssemos o Preenchimento de formulário do LinkedIn Social do nosso produto.
 
-## Coisas importantes a saber {#important-things-to-know}
+## Coisas importantes para saber {#important-things-to-know}
 
 * Os botões de preenchimento de formulário do LinkedIn Social não são mais uma opção para adicionar ao Marketo a partir de 28 de abril de 2016
 
@@ -61,11 +61,11 @@ Não, seus formulários que removemos essa funcionalidade permaneceram publicado
 
 Não, apenas removeremos o botão do LinkedIn do formulário. Sempre que o Preenchimento de formulário social é aplicado a um formulário, há um container criado acima dele que contém os botões Preenchimento de formulário social. Antes de 28 de abril de 2016, se o LinkedIn era a única opção, a aparência do container se assemelhava a esta imagem:
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Após 28 de abril de 2016, há um container vazio deixado na parte superior de qualquer formulário no qual o Preenchimento de formulário do LinkedIn Social foi removido:
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >
