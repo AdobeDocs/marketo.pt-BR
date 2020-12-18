@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Você pode exportar qualquer relatório para um arquivo Excel para trabalhar com os dados em outro software.
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Selecione seu relatório na árvore de navegação e clique na guia **Relatório** .
+1. Selecione seu relatório na árvore de navegação e clique na guia **Relatório**.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Clique no botão **Exportar** .
+1. Clique no botão **Exportar**.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -34,12 +34,12 @@ Você pode exportar qualquer relatório para um arquivo Excel para trabalhar com
    >**Artigos relacionados**
    >
    >
-   >Se o arquivo baixado for muito grande, é possível [alterar o tamanho](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) do relatório.
+   >Se o arquivo baixado for muito grande, você poderá [alterar o tamanho do relatório](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
 
    >[!NOTE]
    >
    >**Mergulho profundo**
    >
    >
-   >Veja todas as outras coisas úteis que você pode fazer com relatórios no aprofundamento do Relatórios [básico](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Veja todas as outras coisas úteis que você pode fazer com relatórios no aprofundamento do [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
