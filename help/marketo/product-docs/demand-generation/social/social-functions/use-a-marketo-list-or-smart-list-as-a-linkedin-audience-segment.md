@@ -31,11 +31,11 @@ Integre suas pessoas do Marketing com suas audiências do LinkedIn.
 
    ![](assets/two.png)
 
-1. Clique na guia **Pessoas** .
+1. Clique na guia **Pessoas**.
 
    ![](assets/three-1.png)
 
-1. Clique no ícone** Send Via Ad Bridge ** ![—](assets/image2015-4-20-18-3a18-3a41.png) na parte inferior da lista.
+1. Clique no ícone** Send Via Ad Bridge **ícone ![—](assets/image2015-4-20-18-3a18-3a41.png) na parte inferior da lista.
 
    ![](assets/four-1.png)
 
@@ -43,11 +43,11 @@ Integre suas pessoas do Marketing com suas audiências do LinkedIn.
    >
    >Ao usar integrações de rede de publicidade para enviar uma audiência ao LinkedIn, o Marketo envia somente o endereço de email.
 
-1. Selecione** LinkedIn** e clique em **Avançar**.
+1. Selecione** LinkedIn** e clique em **Próximo**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Selecione uma Audiência **do LinkedIn**.
+1. Selecione uma Audiência **LinkedIn**.
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Integre suas pessoas do Marketing com suas audiências do LinkedIn.
    >
    >O LinkedIn substituiu as APIs usadas para o tipo de push &quot;Limpar audiência e adicionar clientes em potencial&quot; em março de 2018. Essa opção não está mais disponível a partir da versão do primeiro trimestre de 2018 do Marketo.
 
-1. Selecione um Tipo de **push**. Clique em **Atualizar**.
+1. Selecione um **Tipo de push**. Clique em **Atualizar**.
 
    ![](assets/7.png)
 
