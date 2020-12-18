@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Rotular seu segmento {#label-your-segment}
+# Rotule seu segmento {#label-your-segment}
 
 Você tem tantos segmentos que a rolagem está se tornando complicada? Use rótulos para marcar seus segmentos para que você possa encontrá-los rapidamente.
 
 ## Marcar um segmento {#tag-a-segment}
 
-1. Faça logon na Personalização da Web e vá para **Segmentos**.
+1. Faça logon na Web Personalization (Personalização da Web) e vá para **Segments**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
