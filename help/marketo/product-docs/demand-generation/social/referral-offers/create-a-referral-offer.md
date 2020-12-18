@@ -21,11 +21,11 @@ Ofertas de referência dão às pessoas um incentivo para encaminhar seus amigos
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
-1. Em seu programa, selecione **Novo** > **Novo ativo local.**
+1. No seu programa, selecione **Novo** > **Novo ativo local.**
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. Na Galeria de ativos **locais,** clique em Oferta **de referência.**
+1. Na **Galeria de ativos locais,** clique em **Oferta de referência.**
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -39,17 +39,17 @@ Ofertas de referência dão às pessoas um incentivo para encaminhar seus amigos
 
    O editor de oferta de referência é aberto em uma nova janela. As configurações padrão estão todas boas, mas é necessário adicionar um link às regras de sua oferta (termos e condições). O link aparecerá na parte inferior das telas de mensagem compartilhada. Mostraremos como na próxima etapa.
 
-1. Clique em Opções **avançadas.**
+1. Clique em **Opções avançadas.**
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. Adicione um link às regras de sua oferta. Insira o **URL.**
+1. Adicione um link às regras de sua oferta. Insira o URL **.**
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >Nessa tela, você também pode adicionar um link de política de privacidade. Consulte [Adicionar sua política de privacidade a um aplicativo](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)social.
+   >Nessa tela, você também pode adicionar um link de política de privacidade. Consulte [Adicionar sua política de privacidade a um aplicativo do Social](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. Clique em **Concluir.**
 
@@ -69,7 +69,7 @@ Parabéns! Você criou sua oferta de referência.
 
 >[!MORELIKETHIS]
 >
->O próximo passo é [publicar sua oferta](publish-a-referral-offer.md) de referência em uma landing page, em seu site ou no Facebook.
+>A próxima etapa é [publicar sua oferta de referência](publish-a-referral-offer.md) em uma landing page, em seu site ou no Facebook.
 
 >[!NOTE]
 >
