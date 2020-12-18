@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Arquivar uma Campanha da Web {#archive-a-web-campaign}
 
-1. Vá para Campanhas **da Web**.
+1. Vá para **Campanha**.
 
    ![](assets/one.jpg)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Campanhas da Web arquivadas não serão exibidas no filtro padrão. Para vê-los, clique no ícone Filtro e, em **Status**, marque a caixa de seleção **Arquivado** e clique em **Aplicar**.
+   >Campanhas da Web arquivadas não serão exibidas no filtro padrão. Para vê-los, clique no ícone Filtro e, em **Status**, selecione a caixa de seleção **Arquivado** e clique em **Aplicar**.
 
 >[!MORELIKETHIS]
 >
