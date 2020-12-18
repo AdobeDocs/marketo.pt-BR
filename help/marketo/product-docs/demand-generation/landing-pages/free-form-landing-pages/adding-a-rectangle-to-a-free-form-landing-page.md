@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Como adicionar um retângulo a uma Landing page de forma livre {#adding-a-rectangle-to-a-free-form-landing-page}
+# Adicionar um retângulo a uma Landing page de forma livre {#adding-a-rectangle-to-a-free-form-landing-page}
 
 Os retângulos nas landings page são ótimos para destacar uma área do texto.
 
-1. Selecione uma landing page de forma livre e clique em **Editar** **rascunho**.
+1. Selecione uma landing page de forma livre e clique em **Editar** **Rascunho**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -23,11 +23,11 @@ Os retângulos nas landings page são ótimos para destacar uma área do texto.
    >
    >O designer de landings page de forma livre é aberto em uma nova janela.
 
-1. Arraste sobre o elemento **Retângulo** .
+1. Arraste sobre o elemento **Retângulo**.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Selecione o retângulo e use a **Propriedade** **Sheet** para fazer as alterações necessárias.
+1. Selecione o retângulo e use a **Propriedade** **Folha** para fazer as alterações necessárias.
 
    >[!TIP]
    >
