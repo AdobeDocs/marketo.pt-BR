@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Criar um segmento usando uma Lista estática {#create-a-segment-using-a-static-list}
 
-Segmente visitantes da Web conhecidos quando eles visitam seu site com base em se eles estão ou não em uma de suas listas [](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists)estáticas de marketing.
+Segmente visitantes da Web conhecidos quando eles visitam seu site com base em se eles estão ou não em um de seus listas comerciais [estáticos](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists).
 
-1. Ir para **Segmentos**.
+1. Vá para **Segmentos**.
 
    ![](assets/1.jpg)
 
@@ -31,11 +31,11 @@ Segmente visitantes da Web conhecidos quando eles visitam seu site com base em s
 
    ![](assets/four-2.png)
 
-1. Clique na lista suspensa para selecionar se **está** ou não **está** (dependendo do que você deseja) e digite o nome da sua lista estática.
+1. Clique na lista suspensa para selecionar **is** ou **is not** (dependendo do que desejar) e digite o nome da sua lista estática.
 
    ![](assets/five-2.png)
 
-1. Se quiser adicionar várias listas, é necessário criar uma nova linha para cada uma clicando em **+**. Se quiser apenas uma lista, pule para a [Etapa 8](#eight).
+1. Se quiser adicionar várias listas, é necessário criar uma nova linha para cada uma clicando em **+**. Se quiser apenas uma lista, pule para [Etapa 8](#eight).
 
    ![](assets/six-1.png)
 
@@ -45,9 +45,9 @@ Segmente visitantes da Web conhecidos quando eles visitam seu site com base em s
 
    >[!NOTE]
    >
-   >O menu suspenso e/ou é só isso. Clique para selecionar **e**, **ou**, **e/ou**.
+   >O menu suspenso e/ou é só isso. Clique para selecionar **e**, **ou**, ou **e/ou**.
 
-1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir Campanha **para salvar e ir para a página Campanhas.
+1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir Campanha **para salvar e ir para a página Campanha.
 
    ![](assets/eight-1.png)
 
