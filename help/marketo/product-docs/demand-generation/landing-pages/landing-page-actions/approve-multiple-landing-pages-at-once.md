@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Aprovar várias Landings page de uma só vez {#approve-multiple-landing-pages-at-once}
+# Aprovar várias Landings page ao mesmo tempo {#approve-multiple-landing-pages-at-once}
 
-1. Vá para o **Design Studio.**
+1. Vá para **Design Studio.**
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Não clique no nome da landing page real, eles são links e o levarão para a própria página.
 
-1. Com suas landings page selecionadas, vá para Ações **de** Landing page e clique em **Aprovar.**
+1. Com suas landings page selecionadas, vá para **Ações de Landing page** e clique em **Aprovar.**
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
