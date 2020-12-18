@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Classificar Campanhas da Web por último ou superior desempenho {#sort-web-campaigns-by-latest-or-top-performing}
+# Classificar Campanhas da Web por mais recente ou melhor desempenho {#sort-web-campaigns-by-latest-or-top-performing}
 
 Você pode classificar suas campanhas da Web de duas maneiras diferentes.
 
-1. Vá para Campanhas **da Web.**
+1. Vá para **Campanhas Web.**
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -26,10 +26,10 @@ Você pode classificar suas campanhas da Web de duas maneiras diferentes.
    >**Definição**
    >
    >
-   >**Mais recente** - será classificada com base na data em que a campanha foi criada. A mais nova campanha no topo.
+   >**Mais recente**  - será classificada com base na data em que a campanha foi criada. A mais nova campanha no topo.
    >
    >
-   >**Top** **Performing** - classificará campanhas com base na taxa de cliques. Clique mais alto na parte superior.
+   >**** **TopPerforming**  - classificará campanhas com base na taxa de cliques. Clique mais alto na parte superior.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 
