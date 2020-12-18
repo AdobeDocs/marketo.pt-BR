@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Excluindo um campo em um relatório do Explorador de Receita {#deleting-a-field-in-a-revenue-explorer-report}
+# Excluindo um campo em um relatório do Revenue Explorer {#deleting-a-field-in-a-revenue-explorer-report}
 
 Às vezes, você pode arrastar um campo errado para o relatório. Veja como removê-lo:
 
-1. Arraste o campo que deseja remover para o ícone de **lixeira** na parte inferior direita do relatório.
+1. Arraste o campo que deseja remover para o ícone **lixeira** na parte inferior direita do relatório.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
