@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou<sup>ContentAI</sup>. Para aqueles que usam o Predictive Content, o Marketo está habilitando os recursos do<sup>ContentAI</sup> Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing<sup>ContentAI</sup>.
+>Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo<sup>AI</sup>. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content<sup>AI</sup> Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content<sup>AI</sup>.
 
 Veja como configurar seu conteúdo preditivo para a Barra de recomendações.
 
 >[!PREREQUISITES]
 >
->O conteúdo deve ser [aprovado para conteúdo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) preditivo na página Todo o conteúdo.
+>O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página Todo o conteúdo.
 
-1. Na página Conteúdo **** previsível, clique em um título para abrir o editor.
+1. Na página **Conteúdo previsível**, clique em um título para abrir o editor.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
