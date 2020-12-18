@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A Personalização da Web tem vários relatórios úteis que são enviados por email. Aqui está como se inscrever neles.
 
-1. Faça logon na Web Personalization (Personalização da Web). Em seu nome de login, clique em Configurações **** do usuário.
+1. Faça logon na Web Personalization (Personalização da Web). Em seu nome de logon, clique em **Configurações do usuário**.
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
