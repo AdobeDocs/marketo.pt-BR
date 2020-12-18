@@ -17,19 +17,19 @@ Use o recurso clone na página Campanhas da Web para copiar as configurações d
 
 ## Criar uma Campanha de clone {#create-a-clone-campaign}
 
-1. Vá para Campanhas **da Web**.
+1. Vá para **Campanha**.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >Para facilitar a localização da campanha da Web desejada, use o recurso [de](filter-web-campaigns.md)filtro.
+   >Para facilitar a localização da campanha da Web desejada, use o recurso [filter](filter-web-campaigns.md).
 
 1. Para a campanha da Web, clique em **Clonar**.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. O processo de clonagem de campanhas copia todo o conteúdo da campanha da Web existente para a nova campanha clonada. A nova campanha da Web clonada é intitulada &quot;Cópia do NOME[da] CAMPANHA&quot;.
+1. O processo de clonagem de campanhas copia todo o conteúdo da campanha da Web existente para a nova campanha clonada. A nova campanha da Web clonada tem o título &quot;[NOME DA CAMPANHA] Copiar&quot;.
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
@@ -41,7 +41,7 @@ Use o recurso clone na página Campanhas da Web para copiar as configurações d
 >
 >* [Criar uma nova Campanha da Web na zona](create-a-new-in-zone-web-campaign.md)
 >* [Criar uma nova Campanha Web de widget](create-a-new-widget-web-campaign.md)
->* [Criar uma nova Campanha da Web de caixa de diálogo](create-a-new-dialog-web-campaign.md)
+>* [Criar uma nova Campanha da Web de diálogo](create-a-new-dialog-web-campaign.md)
 
 >
 
