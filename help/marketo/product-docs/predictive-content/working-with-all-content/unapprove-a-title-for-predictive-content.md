@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Cancelar a aprovação de um título para conteúdo previsível {#unapprove-a-title-for-predictive-content}
+# Cancelar a aprovação de um título para conteúdo preditivo {#unapprove-a-title-for-predictive-content}
 
 >[!NOTE]
 >
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para os usuários do Predictive Content, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Conteúdo`<sup>AI</sup>`do Marketing.
+>Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
 Você pode cancelar a aprovação de qualquer título para conteúdo preditivo na página Todo o conteúdo ou na pop-up Editar conteúdo.
 
-## Página Todos os Conteúdos {#all-content-page}
+## Todas as páginas de conteúdo {#all-content-page}
 
 1. Na página Todo o conteúdo, marque a caixa ao lado do conteúdo para selecioná-lo.
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Clique no menu suspenso Ações **de** conteúdo e selecione **Cancelar aprovação para conteúdo** preditivo.
+1. Clique no menu suspenso **Ações de conteúdo** e selecione **Cancelar aprovação para conteúdo previsível**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
@@ -37,7 +37,7 @@ Você pode cancelar a aprovação de um título enquanto o estiver editando.
 
    ![](assets/click-icon-hand.png)
 
-1. Desmarque a caixa **Aprovar conteúdo** previsível e clique em **Salvar**.
+1. Desmarque a caixa **Aprovar conteúdo previsível** e clique em **Salvar**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
