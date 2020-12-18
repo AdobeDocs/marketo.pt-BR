@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Selecionar um tema de formulário {#select-a-form-theme}
+# Selecione um tema de formulário {#select-a-form-theme}
 
 Fizemos um monte de temas bonitos para seus formulários. De qual você mais gosta?
 
@@ -19,15 +19,15 @@ Fizemos um monte de temas bonitos para seus formulários. De qual você mais gos
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/editform.png)
 
-1. Vá para **Configurações** de formulário ****.
+1. Vá para **Formulário** **Definições**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Alterne para frente e para trás para escolher o **Formulário** do **Tema** de sua preferência.
+1. Alterne para frente e para trás para escolher o **Formulário** **Tema** do seu gosto.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -43,9 +43,9 @@ Fizemos um monte de temas bonitos para seus formulários. De qual você mais gos
 
    >[!TIP]
    >
-   >Também é possível [editar o CSS do tema](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)do formulário.
+   >Você também pode [editar o CSS do tema do formulário](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. Clique em **Avançar** para configurar outras opções de formulário, ou clique em **Concluir** se desejar alterar o tema do formulário.
+1. Clique em **Próximo** para configurar outras opções de formulário, ou clique em **Concluir** se quiser alterar apenas o Tema de formulário.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
