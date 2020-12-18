@@ -120,7 +120,7 @@ Abaixo está um cenário que descreve como as Unidades de Oportunidade são calc
 
 O Marketo dá crédito adequadamente sem oportunidades de contagem de duplos entre Programas. Assim, neste caso, cada Programa recebe 0,5 Unidades de Oportunidade. Ou seja, cada Programa recebe metade do crédito pela Oportunidade gerada. Além disso, metade da receita associada à Oportunidade é atribuída a cada Programa.
 
-## Diversas medidas relacionadas com os Programas {#miscellaneous-program-related-measures}
+## Diversas medidas relacionadas com Programas {#miscellaneous-program-related-measures}
 
 As outras medidas disponíveis refletem o desempenho global do Programa.
 
@@ -157,7 +157,7 @@ As outras medidas disponíveis refletem o desempenho global do Programa.
  </tbody> 
 </table>
 
-## Dimension de Análise da oportunidade do programa (pontos amarelos) {#program-opportunity-analysis-dimensions-yellow-dots}
+## Dimension de Análise de oportunidade do programa (pontos amarelos) {#program-opportunity-analysis-dimensions-yellow-dots}
 
 Enquanto as medidas (pontos azuis) são calculadas e exigem algum pensamento e explicação para usar, as dimensões (pontos amarelos) são descritivas. Estas são as dimensões disponíveis.
 
@@ -169,15 +169,15 @@ Enquanto as medidas (pontos azuis) são calculadas e exigem algum pensamento e e
   </tr> 
   <tr> 
    <td>Atributos de oportunidade</td> 
-   <td><p>Nome<br>Fechado da Oportunidade*<br>Nome do Proprietário da Oportunidade<br>NomeOportunidade<br>StageOpportunity Tipo</p></td> 
+   <td><p>Nome da Oportunidade Fechada<br>Nome da Oportunidade*<br>Nome do Proprietário da Oportunidade<br>Estágio da Oportunidade<br>Tipo de Oportunidade</p></td> 
   </tr> 
   <tr> 
    <td>Cronograma da oportunidade</td> 
-   <td><p>Oportunidade Fechada Ano/Trimestre/<br>Mês Oportunidade Criada Ano/Trimestre/Mês</p></td> 
+   <td><p>Ano/Trimestre/Mês Fechado da Oportunidade<br>Ano/Trimestre/Mês Criado pela Oportunidade</p></td> 
   </tr> 
   <tr> 
    <td>Atributos do programa</td> 
-   <td><p>Nome<br>do programa do canal do programa</p></td> 
+   <td><p>Nome do Canal do programa<br>Nome do Programa</p></td> 
   </tr> 
   <tr> 
    <td>Cronograma do custo do programa</td> 
