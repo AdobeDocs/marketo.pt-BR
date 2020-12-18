@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Mesclando duas etapas no Modelador de receita {#merging-two-stages-in-the-revenue-modeler}
+# Mesclando duas etapas no Modelador de Receita {#merging-two-stages-in-the-revenue-modeler}
 
 Depois de aprovar o modelo, não é possível excluir estágios ao editar um rascunho. Em vez disso, você pode mesclar esse palco com outro.
 
-1. Clique em **Marketo Home** e selecione **Analytics**.
+1. Clique em **Inicial de marketing** e selecione **Analytics**.
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
@@ -37,7 +37,7 @@ Depois de aprovar o modelo, não é possível excluir estágios ao editar um ras
 
 1. `You can re-approve the model by selecting`**`Approve Model Draft`**` in the **Model Actions** menu.`
 
-   ` ![](assets/image2015-4-29-16-3a5-3a53.png)
+   &#39; ![](assets/image2015-4-29-16-3a5-3a53.png)
 
    `
 
