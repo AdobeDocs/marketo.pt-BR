@@ -25,7 +25,7 @@ Você provavelmente quer ver como sua landing page se parece antes de fazê-la v
    >
    >O rascunho é a versão em que você está trabalhando, não a versão ao vivo que os clientes veem.
 
-1. Você também pode clicar com o botão direito do mouse na sua landing page e selecionar **Pré-visualização**.
+1. Você também pode clicar com o botão direito do mouse em sua landing page e selecionar **Pré-visualização**.
 
    ![](assets/image2014-9-17-10-3a9-3a49.png)
 
@@ -37,11 +37,11 @@ Você provavelmente quer ver como sua landing page se parece antes de fazê-la v
 
 ## Pré-visualização de um rascunho de Landing page ao editar {#preview-a-landing-page-draft-while-editing}
 
-1. Selecione uma landing page e clique em **Editar** **rascunho**.
+1. Selecione uma landing page e clique em **Editar** **Rascunho**.
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. A qualquer momento durante o trabalho no editor de landings page, você pode clicar em Rascunho de **Pré-visualização.**
+1. A qualquer momento durante o trabalho no editor de landings page, você pode clicar em **Rascunho de Pré-visualização.**
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 
