@@ -17,7 +17,7 @@ Quando um visitante da Web é conhecido (cookie), os formulários do Marketo pr�
 
 >[!NOTE]
 >
->**O Preenchimento** do formulário é ativado por padrão. As configurações de pré-preenchimento de nível de landing page e as configurações de pré-preenchimento de nível de administrador superam a configuração de nível de formulário:
+>**Pré-** arquivo de formulário ativado por padrão. As configurações de pré-preenchimento de nível de landing page e as configurações de pré-preenchimento de nível de administrador superam a configuração de nível de formulário:
 >
 >Formulário &lt; Landing page &lt; Admin
 
@@ -25,7 +25,7 @@ Quando um visitante da Web é conhecido (cookie), os formulários do Marketo pr�
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ Quando um visitante da Web é conhecido (cookie), os formulários do Marketo pr�
    >
    >O Preenchimento prévio do formulário não funciona ao incorporar um formulário em suas próprias páginas. Só funciona nas landings page de marketing.
 
-1. Selecione um dos campos e defina **Formulário** **Pré**-**preenchimento** como **Desativado**.
+1. Selecione um dos campos e defina **Formulário** **Pre**-**fill** como **Desativado**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -45,7 +45,7 @@ Quando um visitante da Web é conhecido (cookie), os formulários do Marketo pr�
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
