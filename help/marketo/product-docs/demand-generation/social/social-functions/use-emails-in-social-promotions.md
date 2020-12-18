@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Usar emails em promoções sociais {#use-emails-in-social-promotions}
 
-Ao criar uma oferta [de](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) referência ou um [sorteio](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode incluir emails para enviar quando a pessoa se inscrever e, novamente, quando a pessoa ganhar a recompensa.
+Ao criar uma [oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sorteios](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode incluir emails para enviar quando a pessoa se inscrever e novamente quando a pessoa tiver ganho a recompensa.
 
 >[!TIP]
 >
->Para criar um email, consulte [Enviar uma explosão](../../../../getting-started/quick-wins/send-an-email.md)de email.
+>Para criar um email, consulte [Enviar uma Explosão de Email](../../../../getting-started/quick-wins/send-an-email.md).
 
 Nos emails, use estes tokens:
 
-* **E-mail** de inscrição: Use **`{{social.Share Url}}`** para enviar a cada pessoa participante um link de compartilhamento personalizado.
+* **E-mail** de inscrição: Use  **`{{social.Share Url}}`** para enviar a cada pessoa participante um link de compartilhamento personalizado.
 
-* **E-mail** de disponibilização: Use **`{{social.Promo Code}}`** para enviar a cada vencedor um código [promocional](use-promo-codes-for-offer-fulfillment.md).
+* **E-mail** de disponibilização: Use  **`{{social.Promo Code}}`** para enviar a cada vencedor um código  [promocional](use-promo-codes-for-offer-fulfillment.md).
 
 >[!PREREQUISITES]
 >
->Antes de adicionar um email a um aplicativo social, ele deve estar *operacional* e *aprovado*. Consulte [Editar configurações para um email](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>Antes de adicionar um email a um aplicativo social, ele deve ser *operacional* e *aprovado*. Consulte [Editar configurações para um email](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -37,7 +37,7 @@ Nos emails, use estes tokens:
 
    ![](assets/image2014-9-19-16-3a12-3a33.png)
 
-1. No editor de aplicativos sociais, vá até Configurações do **aplicativo > Detalhes** da Oferta (ou Detalhes **do** Sorteio).
+1. No editor de aplicativos sociais, vá para **Configurações do aplicativo > Detalhes da Oferta** (ou **Detalhes do Sorteio**).
 
    ![](assets/image2014-9-19-16-3a12-3a41.png)
 
@@ -66,7 +66,7 @@ Nos emails, use estes tokens:
 >**Definição**
 >
 >* **auto na meta**: O e-mail de disponibilização é enviado automaticamente conforme cada participante atinge a meta.
->* **enviar** manualmente: Quando as pessoas start atingirem a meta, retorne à sua oferta de referência para [enviar manualmente o e-mail](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)de conclusão.
+>* **enviar** manualmente: Quando as pessoas start atingirem a meta, retorne à sua oferta de referência para  [enviar manualmente o e-mail](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) de conclusão.
 
 >
 
@@ -76,5 +76,5 @@ Nos emails, use estes tokens:
 >
 >**Artigos relacionados**
 >
->Em seguida, você pode [escolher o URL](choose-the-share-url-for-a-social-app.md) de compartilhamento ou, na sua oferta de referência, pode [carregar os códigos](use-promo-codes-for-offer-fulfillment.md) promocionais que você enviará.
+>Em seguida, você pode [escolher o URL de compartilhamento](choose-the-share-url-for-a-social-app.md) ou, na sua oferta de referência, você pode [carregar os códigos promocionais](use-promo-codes-for-offer-fulfillment.md) que você enviará.
 
