@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Classificar relatório em colunas {#sort-report-on-columns}
+# Classificar relatório nas colunas {#sort-report-on-columns}
 
 Use colunas para classificar os dados em seu relatório e facilitar a localização das figuras mais importantes.
 
-1. Vá para **Analytics** (ou **Marketing Atividade**).
+1. Vá para **Analytics** (ou **Atividades de marketing**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu relatório na árvore de navegação e clique na guia **Relatório** .
+1. Selecione seu relatório na árvore de navegação e clique na guia **Relatório**.
 
    ![](assets/reports2.jpg)
 
@@ -45,5 +45,5 @@ Use colunas para classificar os dados em seu relatório e facilitar a localizaç
    >**Mergulho profundo**
    >
    >
-   >Aprenda todo o poder de trabalhar com relatórios no [Basic Relatórios](http://docs.marketo.com/display/docs/basic+reporting).
+   >Conheça todo o poder de trabalhar com relatórios em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
