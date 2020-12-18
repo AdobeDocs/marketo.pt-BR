@@ -21,7 +21,7 @@ Para ativar as IDs, é necessário adquirir os códigos e fornecê-los ao depart
 >
 >Para ativar este recurso, entre em contato com o Suporte e solicite &quot;Vespa Secure Mode&quot;.
 
-1. Em Marketo, selecione **Admin **e clique em Aplicativos e dispositivos **móveis**.
+1. Em Marketo, selecione **Admin **e clique em **Aplicativos e dispositivos móveis**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -29,7 +29,7 @@ Para ativar as IDs, é necessário adquirir os códigos e fornecê-los ao depart
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Role para baixo e, na seção Access Security (Segurança de acesso), clique em **Edit (Editar**).
+1. Role para baixo e, na seção Access Security (Segurança de acesso), clique em **Edit**.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
