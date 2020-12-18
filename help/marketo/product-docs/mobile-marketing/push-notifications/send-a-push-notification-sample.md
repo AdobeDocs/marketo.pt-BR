@@ -25,7 +25,7 @@ Você pode enviar uma amostra para verificar se sua notificação por push está
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Ou, no menu de ações Notificações por push, clique em **Enviar amostra**.\
+   Ou, no menu de ações de notificação por push, clique em **Enviar amostra**.\
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
    Ou, no Editor de notificações por push, clique em **Enviar amostra**.
@@ -36,13 +36,13 @@ Você pode enviar uma amostra para verificar se sua notificação por push está
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Ou clique em **Adicionar dispositivo** para [adicionar um novo dispositivo](adding-a-new-test-device.md) de teste para enviar a amostra.
+   Ou clique em **Adicionar dispositivo** para [adicionar um novo dispositivo de teste](adding-a-new-test-device.md) para enviar a amostra.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Você tem duas maneiras de conectar seu dispositivo ao aplicativo.
 
-   Com a primeira opção, clique no botão **Visitar URL com dispositivo** , copie o URL do campo e envie-o por email ou mensagem de texto para seu dispositivo. No dispositivo, toque no URL. Quando o status mostrar a conexão, clique em **Enviar**.
+   Com a primeira opção, clique no botão **Visitar URL com dispositivo**, copie o URL do campo e envie-o por email ou mensagem de texto para o dispositivo. No dispositivo, toque no URL. Quando o status mostrar a conexão, clique em **Enviar**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
@@ -52,7 +52,7 @@ Você pode enviar uma amostra para verificar se sua notificação por push está
 
    >[!TIP]
    >
-   >Você adicionou com êxito um dispositivo de teste, mas não o vê listado no campo **Enviar para** ? Verifique estes para solucionar problemas:
+   >Você adicionou com êxito um dispositivo de teste, mas não o vê listado no campo **Enviar para**? Verifique estes para solucionar problemas:
    >
    >    
    >    
