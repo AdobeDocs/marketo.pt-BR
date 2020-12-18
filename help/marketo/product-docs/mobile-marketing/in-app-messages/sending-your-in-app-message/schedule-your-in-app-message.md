@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Envie sua mensagem agora ou agende-a para mais tarde.
 
-1. Para agendar uma mensagem no aplicativo, selecione **Definir data** futura e escolha uma data de start no calendário suspenso.
+1. Para agendar uma mensagem no aplicativo, selecione **Definir data futura** e escolha uma data de start no calendário suspenso.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -31,4 +31,4 @@ Envie sua mensagem agora ou agende-a para mais tarde.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Calma! A última, mas não menos importante, é a etapa [Aprovação](approve-your-in-app-message.md) .
+Calma! A última, mas não menos importante, é a etapa [Approval](approve-your-in-app-message.md).
