@@ -22,11 +22,11 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
 * RTP B2B
 * Participação no RTP
 
-## Configuração de um relatório personalizado {#setting-up-a-custom-report}
+## Configuração de um Relatório Personalizado {#setting-up-a-custom-report}
 
 1. Efetue login em Google Analytics.
 1. Clique em **Personalização **no menu superior.
-1. Clique em **+Novo relatório personalizado.**
+1. Clique em **+Novo Relatório Personalizado.**
 
 ** ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -34,7 +34,7 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
 
 ## Relatório RTP B2B {#rtp-b-b-report}
 
-1. Nomeie o relatório **RTP B2B**.
+1. Nomeie o relatório **Relatório RTP B2B**.
 1. Nomear a 1ª guia **Indústria **
 
    1. (Observação: você **Duplicado essa guia** e cria outros semelhantes - etapa 5)
@@ -44,7 +44,7 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
 
    **
 
-1. Na seção Grupos **de** métricas, selecione as métricas relevantes para seu negócio.
+1. Na seção **Grupos de métricas**, selecione as métricas relevantes para seu negócio.
 
    1. Recomendamos o seguinte:\
       ** ![](assets/image2015-3-22-16-3a16-3a40.png)
@@ -61,7 +61,7 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Na seção Drill-downs **de** Dimension, defina as dimensões relevantes para cada guia, como abaixo.
+1. Na seção **Detalhamentos do Dimension** defina as dimensões relevantes para cada guia, como abaixo.
 
 <table> 
  <thead> 
@@ -104,14 +104,14 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
 1. Clique em **Salvar**.\
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
-## Relatório de envolvimento do RTP {#rtp-engagement-report}
+## Relatório de envolvimento RTP {#rtp-engagement-report}
 
-1. Nomeie o relatório de envolvimento do **RTP.**
-1. Defina o nome da primeira guia como **Todos os envolvimentos**
+1. Nomeie o relatório **Relatório de Envolvimento RTP.**
+1. Defina o nome da primeira guia como **Todo o envolvimento**
 
    1. (Observação: você vai Duplicado essa guia e criar outras semelhantes - etapa 5)
 
-1. Selecione o tipo de relatório do **Explorer** .\
+1. Selecione o tipo de relatório **Explorer**.\
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
 1. Na seção Grupos de métricas, selecione as métricas relevantes para seu negócio. Esta é uma recomendação:\
@@ -127,7 +127,7 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
 
    ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
 
-1. Na seção Drill-downs **de** Dimension, defina as dimensões relevantes para cada guia, como a seguir:
+1. Na seção **Detalhamentos do Dimension** defina as dimensões relevantes para cada guia, como a seguir:
 
 <table> 
  <thead> 
