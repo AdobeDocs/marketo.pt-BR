@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Adicione Audiências personalizadas do Facebook como um Serviço](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) LaunchPoint na seção Admin.
->* [Aceite os termos](https://www.facebook.com/ads/manage/customaudiences/tos.php) de Audiências personalizadas do Facebook em sua conta do Facebook.
+>* [Adicione Audiências personalizadas do Facebook como um ](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) Serviço LaunchPoint na seção Admin.
+>* [Aceite os ](https://www.facebook.com/ads/manage/customaudiences/tos.php) termos personalizados de Audiências do Facebook em sua conta do Facebook.
 
 >
 
@@ -24,17 +24,17 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Saiba mais sobre audiências [personalizadas no Facebook](https://www.facebook.com/help/341425252616329).
+>Saiba mais sobre [audiências personalizadas no Facebook](https://www.facebook.com/help/341425252616329).
 
 1. Localize e selecione a lista inteligente ou estática que contém os clientes potenciais dos quais você deseja criar a audiência.
 
    ![](assets/1.png)
 
-1. Selecione a guia **Clientes potenciais** e clique no ícone **Enviar por ponte de anúncio **na parte inferior.
+1. Selecione a guia **Leads** e clique no ícone **Send Via Ad Bridge **na parte inferior.
 
    ![](assets/222.png)
 
-1. Selecione **Facebook **e clique em **Avançar**.
+1. Selecione **Facebook **e clique em **Próximo**.
 
    ![](assets/two.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. Digite um Nome de **Audiência**. Clique em **Atualizar**.
+1. Digite um **Nome da Audiência**. Clique em **Atualizar**.
 
    ![](assets/five.png)
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Deseja trocar uma nova audiência por uma existente que esteja atualmente associada a um conjunto de anúncios ou grupo? Marque a caixa de seleção **Substituir uma audiência** existente. Isso **não** excluirá a audiência que está sendo substituída.
+   >Deseja trocar uma nova audiência por uma existente que esteja atualmente associada a um conjunto de anúncios ou grupo? Marque a caixa de seleção **Substituir uma audiência existente**. Ao fazer isso, **not** excluirá a audiência que está sendo substituída.
 
 1. Quando concluído, a caixa de diálogo de status será atualizada.
 
    ![](assets/six.png)
 
-   E é isso! No Facebook, você verá a nova audiência no Gerenciador de **anúncios > Audiência**.
+   E é isso! No Facebook você verá a nova audiência em **Gerenciador de publicidade > Audiência**.
 
    ![](assets/image2014-12-10-11-3a38-3a32.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Consulte o caminho de aprendizado do [Facebook para clientes](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi)do Marketing. Ele abrange tudo o que você precisa saber, desde a criação de uma página do Facebook até a definição de metas para seus anúncios do Facebook usando integrações de rede de anúncios do Marketo.
+   >Consulte o [caminho de aprendizado do Facebook para clientes do Marketing](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Ele abrange tudo o que você precisa saber, desde a criação de uma página do Facebook até a definição de metas para seus anúncios do Facebook usando integrações de rede de anúncios do Marketo.
 
    >[!NOTE]
    >
