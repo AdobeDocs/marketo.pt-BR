@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Uso de organizadores de campo {#using-field-organizers}
+# Uso de Organizadores de campo {#using-field-organizers}
 
 Os organizadores de campo ajudam a especificar determinados campos de todos os valores possíveis. Por exemplo, você pode criar agrupamentos significativos, como Costa Oeste e Costa Leste, para o campo Território. Isso ajuda a executar relatórios mais rapidamente.
 
@@ -29,11 +29,11 @@ Os Organizadores de campo são usados na Análise de desempenho do modelo.
 
    ![](assets/db.png)
 
-1. Em **Novo**, selecione **Novo organizador** de campos.
+1. Em **Novo**, selecione **Novo Organizador de Campos**.
 
    ![](assets/two-1.png)
 
-1. Em **Campo**, selecione um atributo. A descrição é opcional.
+1. Em **Field**, selecione um atributo. A descrição é opcional.
 
    ![](assets/three-1.png)
 
