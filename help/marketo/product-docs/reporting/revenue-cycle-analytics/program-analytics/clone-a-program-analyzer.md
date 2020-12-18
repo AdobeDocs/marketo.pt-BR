@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Clonar um analisador de Programas {#clone-a-program-analyzer}
+# Clonar um Analisador de Programas {#clone-a-program-analyzer}
 
 Depois de salvar um analisador, é fácil cloná-lo para criar um novo. Em seguida, entre e edite o novo se precisar de alterações.
 
@@ -19,15 +19,15 @@ Depois de salvar um analisador, é fácil cloná-lo para criar um novo. Em segui
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Clique no título Analisador de **Programas** .
+1. Clique no bloco **Analisador de Programas**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Enquanto o analisador salvo estiver aberto, abra o menu suspenso Ações do Analyzer e selecione **Clone Analyzer**.
+1. Enquanto o analisador salvo estiver aberto, abra o menu suspenso Ações do analisador e selecione **Analisador de clones**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Selecione o local do analisador clonado nos menus **clone to** e **Folder** .
+1. Selecione o local do analisador clonado nos menus suspensos **Clonar para** e **Pasta**.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
