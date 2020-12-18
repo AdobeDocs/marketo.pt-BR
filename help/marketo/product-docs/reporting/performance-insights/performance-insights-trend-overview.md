@@ -23,7 +23,7 @@ Clique na guia **Tendência** para acessar essa visualização.
 
 ![](assets/2-1.png)
 
-Selecione a métrica pela qual deseja visualização do desempenho. Neste exemplo, vamos ver as oportunidades ganhas pelo [First Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Selecione a métrica pela qual deseja visualização do desempenho. Neste exemplo, vamos ver as oportunidades ganhas por [Primeiro toque](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 ![](assets/3-2.png)
 
