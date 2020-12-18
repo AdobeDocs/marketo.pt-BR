@@ -19,11 +19,11 @@ Procurando o endereço da Web (URL) de uma imagem ou arquivo que você carregou?
 
    ![](assets/designstudio-4.png)
 
-1. Clique em **Imagens** **e** Arquivos **** no menu esquerdo e selecione o arquivo para o qual deseja obter o URL.
+1. Clique em **Imagens** **e** **Arquivos** no menu esquerdo e selecione o arquivo para o qual deseja obter o URL.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
-1. O **URL** é exibido na página de detalhes. Clique com o botão direito do mouse no **URL** e clique em **Copiar** no menu exibido.
+1. O **URL** é exibido na página de detalhes. Clique com o botão direito do mouse em **URL** e clique em **Copiar** no menu exibido.
 
    ![](assets/image2014-9-25-14-3a48-3a16.png)
 
