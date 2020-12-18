@@ -23,15 +23,15 @@ Antes de publicar, você pode ver o formulário neste visualizador de formulári
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Em **Ações** de formulário **, clique em** Pré-visualização ****.
+1. Em **Formulário** **Ações**, clique em **Pré-visualização**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. O editor de formulários será aberto no modo de **pré-visualização** .
+1. O editor de formulários será aberto no modo **pré-visualização**.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Clique em **Editar** **rascunho** para voltar ao modo de **edição** .
+1. Clique em **Editar** **Rascunho** para voltar ao modo **editar**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
@@ -42,7 +42,7 @@ Antes de publicar, você pode ver o formulário neste visualizador de formulári
    >
    >Saiba mais sobre [formulários](http://docs.marketo.com/display/docs/forms).
 
-1. Alterne facilmente ao clicar em **Pré-visualização** **Rascunho**.
+1. Volte facilmente clicando em **Pré-visualização** **Rascunho**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 
