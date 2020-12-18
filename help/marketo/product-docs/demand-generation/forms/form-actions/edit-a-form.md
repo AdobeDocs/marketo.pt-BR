@@ -19,7 +19,7 @@ Se desejar fazer alterações em um formulário existente, veja como começar o 
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/editform.png)
 
