@@ -17,36 +17,36 @@ Ao enviar dados de conversão offline de volta ao Facebook para pessoas criadas 
 
 >[!PREREQUISITES]
 >
->* Você deve [configurar os Anúncios](set-up-facebook-lead-ads.md)de venda do Facebook.
->* Você deve ter um modelo aprovado no [Revenue Cycle Modeler](http://docs.marketo.com/display/docs/revenue+cycle+models).
+>* Você deve [configurar os Anúncios de venda do Facebook](set-up-facebook-lead-ads.md).
+>* Você deve ter um modelo aprovado em [Modelador de Ciclo de Receita](http://docs.marketo.com/display/docs/revenue+cycle+models).
 
 >
 
 
 
-## Configuração do administrador {#admin-configuration}
+## Configuração administrativa {#admin-configuration}
 
-1. Vá para **Administrador** do Marketo.
+1. Vá para Marketo **Admin**.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. Acesse **LaunchPoint** e clique com o duplo no serviço de Anúncios de venda do Facebook criado anteriormente.
+1. Acesse **LaunchPoint** e clique com o duplo no serviço Anúncios de venda do Facebook criado anteriormente.
 
    >[!NOTE]
    >
-   >Se você não fez isso, vá em frente e [Configure os Anúncios](set-up-facebook-lead-ads.md)de venda do Facebook, então volte aqui.
+   >Se você não tiver feito isso, vá em frente e [Configure os principais anúncios do Facebook](set-up-facebook-lead-ads.md), então volte aqui.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Se desejar, edite o Nome **de** exibição para incluir Conversões off-line. Clique em **Avançar**.
+1. Se desejar, edite **Nome de exibição** para incluir Conversões off-line. Clique em **Próximo**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Marque **Ativar conversões** offline e clique em **Avançar**.
+1. Marque **Ativar conversões offline** e clique em **Seguinte**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
@@ -58,7 +58,7 @@ Ao enviar dados de conversão offline de volta ao Facebook para pessoas criadas 
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## Configuração do Modelador do Ciclo de Receita {#revenue-cycle-modeler-configuration}
+## Configuração do modelo do ciclo de receita {#revenue-cycle-modeler-configuration}
 
 1. Vá para **Analytics**.
 
@@ -86,7 +86,7 @@ Ao enviar dados de conversão offline de volta ao Facebook para pessoas criadas 
    >    * Visualizações de conteúdo
 
 
-1. Selecione o estágio que deseja mapear e, no menu suspenso Conversão **do** Facebook, selecione o Evento do Facebook para o qual deseja mapear. Repita esta etapa para mapear todos os estágios no RCM para estágios de conversão offline no Facebook.
+1. Selecione o estágio que deseja mapear e, no menu suspenso **Conversão do Facebook**, selecione o Evento do Facebook para o qual deseja mapear. Repita esta etapa para mapear todos os estágios no RCM para estágios de conversão offline no Facebook.
 
    ![](assets/1-1.png)
 
@@ -102,7 +102,7 @@ Ao enviar dados de conversão offline de volta ao Facebook para pessoas criadas 
 
    >[!CAUTION]
    >
-   >Verifique sua conta do Facebook e certifique-se de que todos os [anúncios estejam associados](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) ao Conjunto de Eventos de Conversões Offline do Marketing. Se não estiverem, a atribuição pode não funcionar.
+   >Verifique sua conta do Facebook e certifique-se de que todos os [anúncios estejam associados](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) ao Conjunto de Eventos de Conversões Offline do Marketo. Se não estiverem, a atribuição pode não funcionar.
 
    >[!NOTE]
    >
