@@ -31,7 +31,7 @@ A visualização móvel de sua landing page de forma livre é, na maioria das ve
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Clique na guia **Móvel** .
+1. Clique na guia **Mobile**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
@@ -86,15 +86,15 @@ Por padrão, tudo na visualização de desktop é mostrado na visualização mó
 
 >[!TIP]
 >
->A visualização móvel também pode ter uma organização diferente de elementos de página. Mova as coisas para a landing page de forma livre ou reordene os objetos listados em Elementos **de** página usando o arrastar e soltar.
+>A visualização móvel também pode ter uma organização diferente de elementos de página. Mova as coisas para a landing page de forma livre ou reordene os objetos listados em **Elementos da página** usando arrastar e soltar.
 
-## Visualização móvel pré-visualização {#preview-mobile-view}
+## Visualização móvel da pré-visualização {#preview-mobile-view}
 
-1. Clique em Rascunho **da** Pré-visualização.
+1. Clique em **Rascunho de Pré-visualização**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Quer ver algo legal? Selecione **Lado a lado**.
+1. Quer ver algo legal? Selecione **Lado a Lado**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
