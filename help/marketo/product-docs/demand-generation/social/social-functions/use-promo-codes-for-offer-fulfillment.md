@@ -17,7 +17,7 @@ Ao criar uma oferta de referência ou sorteios, você pode enviar um código pro
 
 ## Carregar códigos promocionais {#upload-promo-codes}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -25,11 +25,11 @@ Ao criar uma oferta de referência ou sorteios, você pode enviar um código pro
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. No editor de oferta de referência, vá para Configurações **do** aplicativo e Detalhes da **Oferta.**
+1. No editor de oferta de referência, vá para **Configurações do aplicativo** e **Detalhes da Oferta.**
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
-1. Em Emails, selecione **Usar códigos** promocionais e, em Carregar códigos, clique em **Procurar** para selecionar o arquivo de códigos promocionais do seu sistema.
+1. Em Emails, selecione **Usar códigos promocionais** e, em Carregar códigos, clique em **Procurar** para selecionar o arquivo de códigos promocionais do seu sistema.
 
    ![](assets/image2015-4-22-12-3a52-3a43.png)
 
@@ -52,16 +52,16 @@ Assim que os participantes receberem seu start de recompensa por oferta, você p
 
 >[!NOTE]
 >
->Somente os usuários com permissão de *acesso a prêmios* têm acesso a essas informações. Consulte [Gerenciamento de funções e permissões](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)do usuário.
+>Somente usuários com permissão *Access Awards* têm acesso a essas informações. Consulte [Gerenciando Funções e Permissões do Usuário](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione sua oferta de referência ou sorteios e clique na guia **Participantes** .
+1. Selecione sua oferta de referência ou sorteios e clique na guia **Participantes**.
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. Aqui você deve ver algumas entradas. Clique no número na coluna Códigos **** promocionais para ver os códigos promocionais que foram enviados para esse participante e quando.
+1. Aqui você deve ver algumas entradas. Clique no número na coluna **Códigos promocionais** para ver os códigos promocionais que foram enviados para esse participante e quando.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)
