@@ -25,5 +25,5 @@ ht-degree: 0%
 >
 >**Mergulho profundo**
 >
->Saiba mais sobre como [configurar notificações](configure-mobile-push-notification.md) por push aqui.
+>Saiba mais sobre [configurar notificações por push](configure-mobile-push-notification.md) aqui.
 
