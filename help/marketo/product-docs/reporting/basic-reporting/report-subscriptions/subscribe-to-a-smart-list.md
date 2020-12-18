@@ -36,19 +36,19 @@ As subscrições são específicas do espaço de trabalho. Por exemplo, essa lis
 
 ## Criar uma Subscrição de Lista inteligente {#create-a-smart-list-subscription}
 
-1. Vá para o **Banco de Dados** ou **Atividades** de Marketing.
+1. Vá para o **Banco de Dados** ou **Marketing Atividade**.
 
    ![](assets/db.png)
 
-1. Selecione a lista inteligente para a qual deseja criar uma subscrição. Clique em Ações **de** Lista e selecione** Nova Subscrição inteligente**.
+1. Selecione a lista inteligente para a qual deseja criar uma subscrição. Clique em **Ações de Lista** e selecione** Nova Subscrição de Lista inteligente**.
 
    ![](assets/three.png)
 
-1. Dê um **nome**&#x200B;à sua subscrição e, em seguida, selecione ou insira os endereços de email dos **Recipient**.
+1. Dê a sua subscrição um **Nome**, em seguida, selecione ou insira os endereços de email dos **Recipient**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Clique na lista **Frequency (Frequência** ) e selecione uma frequência.
+1. Clique na lista **Frequency** e selecione uma frequência.
 
    ** ![](assets/image2015-9-14-13-3a21-3a21.png)
 
@@ -58,7 +58,7 @@ As subscrições são específicas do espaço de trabalho. Por exemplo, essa lis
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Clique em **Formatar** e escolha na lista.
+1. Clique em **Format** e escolha entre a lista.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
@@ -66,7 +66,7 @@ As subscrições são específicas do espaço de trabalho. Por exemplo, essa lis
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Sua nova subscrição de lista inteligente é exibida na parte superior da lista, na guia Subscrições. Clique em **Enviar** se desejar enviar agora e não aguarde até o delivery de email agendado.
+1. Sua nova subscrição de lista inteligente é exibida na parte superior da lista, na guia Subscrições. Clique em **Enviar** se quiser enviar agora, e não aguarde até o delivery de email agendado.
 
    ![](assets/eight.png)
 
@@ -82,7 +82,7 @@ Os recipient receberão um email com uma opção para baixar o relatório, bem c
 
 >[!NOTE]
 >
->Se a configuração Administrador [de Subscrição](secure-the-subscription-admin-setting.md) segura estiver definida como **Sim**, somente as pessoas com acesso à instância de Marketo poderão baixar o relatório.
+>Se a configuração [Administrador de Subscrição segura](secure-the-subscription-admin-setting.md) estiver definida como **Sim**, somente as pessoas com acesso à instância de Marketo poderão baixar o relatório.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
