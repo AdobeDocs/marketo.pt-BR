@@ -21,25 +21,25 @@ A sincronização com a Adobe Connect permite gerenciar sua inscrição no webin
 >* [Criar um novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-Primeiro, certifique-se de ter criado sua reunião ou seminário no Adobe Connect. Se precisar de ajuda, dê uma olhada no Guia [do usuário da](http://help.adobe.com/en_US/connect/9.0/using/index.html)Adobe Connect. As reuniões e os seminários criados no Adobe Connect devem ser criados na pasta especificada ao inserir suas credenciais no Marketo. Depois de criar a reunião ou seminário, anote quaisquer informações logísticas relevantes (como o número de telefone) para usar no email de confirmação e no arquivo ICS.
+Primeiro, certifique-se de ter criado sua reunião ou seminário no Adobe Connect. Se precisar de ajuda, confira o [Guia do Usuário do Adobe Connect](http://help.adobe.com/en_US/connect/9.0/using/index.html). As reuniões e os seminários criados no Adobe Connect devem ser criados na pasta especificada ao inserir suas credenciais no Marketo. Depois de criar a reunião ou seminário, anote quaisquer informações logísticas relevantes (como o número de telefone) para usar no email de confirmação e no arquivo ICS.
 
 >[!NOTE]
 >
->No momento, **não** oferecemos suporte ao Adobe Connect On-site.
+>No momento, **não** oferecemos suporte ao Adobe Connect On-Site.
 
-1. Na página inicial de um novo evento, selecione Ações **do** Evento e, em seguida, Configurações **do** Evento.
+1. Na página inicial de um novo evento, selecione **Ações do Evento** e **Configurações do Evento**.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >Se não vir Configurações **do** Evento no menu suspenso, verifique se o canal do evento tem **Evento com Webinar** selecionado em &quot;Aplica-se a&quot;.
+   >Se você não vir **Configurações do Evento** no menu suspenso, verifique se o canal do evento tem **Evento com Webinar** selecionado em &quot;Aplica-se a&quot;.
 
-1. Em Parceiro **de** Evento, selecione **Adobe Connect**.
+1. Em **Parceiro de Evento**, selecione **Adobe Connect**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Selecione sua ID **de login** e selecione seu **Evento**.
+1. Selecione sua ID de **Login** e selecione seu Evento **a3/>.**
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
@@ -67,7 +67,7 @@ Primeiro, certifique-se de ter criado sua reunião ou seminário no Adobe Connec
 
    >[!TIP]
    >
-   >Pode levar até 48 horas para que os dados apareçam no Marketo. Se, depois de aguardar tanto tempo, você ainda não vir nada, selecione **Atualizar no provedor** de webinar no menu Ações do Evento na guia Resumo do evento.
+   >Pode levar até 48 horas para que os dados apareçam no Marketo. Se, depois de aguardar tanto tempo, você ainda não vir nada, selecione **Atualizar do provedor de webinar** no menu Ações do Evento na guia Resumo do evento.
 
    >[!MORELIKETHIS]
    >
