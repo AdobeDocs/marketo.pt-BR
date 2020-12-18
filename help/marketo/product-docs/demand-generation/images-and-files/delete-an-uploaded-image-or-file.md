@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Excluir uma imagem ou um arquivo carregado {#delete-an-uploaded-image-or-file}
 
-1. Vá para o **Design** **Studio**.
+1. Vá para **Design** **Studio**.
 
    ![](assets/designstudio-5.png)
 
-1. Selecione **Imagens** e **arquivos** no menu esquerdo e clique em ao lado do nome do arquivo que deseja excluir.
+1. Selecione **Imagens** e **Arquivos** no menu esquerdo e clique em ao lado do nome do arquivo que deseja excluir.
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Clique em **Arquivo** **Ações** e **Excluir**.
+1. Clique em **File** **Actions** e **Delete**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Imagens e arquivos excluídos são completamente removidos do Marketo e não podem ser recuperados.  Eles não serão mais exibidos em nenhuma landing page ou e-mail em que estiverem em uso.
 
-1. Você será redirecionado para a página **Imagens** e **Arquivos** , onde você verá que seu arquivo foi excluído.
+1. Você será retornado para as páginas **Imagens** e **Arquivos**, onde você verá que seu arquivo foi excluído.
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 
