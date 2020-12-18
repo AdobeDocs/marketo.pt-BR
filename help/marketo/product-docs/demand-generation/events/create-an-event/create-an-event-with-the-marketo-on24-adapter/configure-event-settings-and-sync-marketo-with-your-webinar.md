@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Siga estas etapas para definir as configurações do evento de marketing e conectar Marketo e ON24.
 
-## Definir o Evento {#set-the-event}
+## Defina o Evento {#set-the-event}
 
-1. Escolha o evento que deseja associar a um webinar ON24, clique no menu suspenso Ações **do** Evento e selecione Configurações **do** Evento.
+1. Escolha o evento que deseja associar a um webinar ON24, clique no menu suspenso **Ações do Evento** e selecione **Configurações do Evento**.
 
    ![](assets/one.png)
 
@@ -41,17 +41,17 @@ Siga estas etapas para definir as configurações do evento de marketing e conec
 
 Quando você configura um evento associado a um Webinar ON24, o agendamento do evento é preenchido com dados do ON24. Para acessar a caixa de diálogo Agendamento do Evento, siga estas etapas.
 
-1. Selecione o evento. Clique no menu suspenso Ações **do** Evento e selecione **Agendar.**
+1. Selecione o evento. Clique no menu suspenso **Ações do Evento** e selecione **Agendamento.**
 
    ![](assets/five.png)
 
-1. Escolha a Data do **Start, a Data** Final e o Fuso **Horário**. Clique em **Salvar**.
+1. Escolha **Data do Start, Data Final** e **Fuso Horário**. Clique em **Salvar**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Se você atualizar qualquer informação de evento no ON24, deverá clicar em **Atualizar do provedor** de webinar no menu Ações do Evento para ver os novos dados serem preenchidos.
+   >Se você atualizar qualquer informação de evento no ON24, clique em **Atualizar do provedor de webinar** no menu Ações de Evento para ver os novos dados preenchidos.
 
    [criação de campanhas secundárias e ativos locais](create-child-campaigns-and-local-assets.md)
 
