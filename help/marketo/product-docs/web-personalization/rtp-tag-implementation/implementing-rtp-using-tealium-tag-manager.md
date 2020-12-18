@@ -26,7 +26,7 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo.
 
 1. Depois que o perfil for salvo, clique no seu nome/endereço de email no canto superior direito do console do Tealium iQ.
 1. No menu Admin, clique em **Gerenciar modelos** em Administrador de contas.
-1. Selecione o Container personalizado **Tealium: Marque para RTP** na lista suspensa para abrir o modelo de Tag.
+1. Selecione **Container Personalizado do Tealium: Marque para RTP** da lista suspensa para abrir o modelo de tag.
 1. Faça logon na sua conta RTP.
 1. Vá para Configurações da conta.
 
@@ -43,7 +43,7 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo.
    >
    >Remova as tags `<!-- RTP tag -->` e `<!-- End of RTP tag -->` do código inserido neste arquivo.
    >
-   >Remova quaisquer `<script type='text/javascript'>` tags e `</script>` do código inserido neste arquivo.
+   >Remova as tags `<script type='text/javascript'>` e `</script>` do código inserido neste arquivo.
 
-1. **Clique em Salvar modelo** de Perfil e publique seu novo perfil.
+1. **Clique em Salvar** modelo de Perfil e publique seu novo perfil.
 
