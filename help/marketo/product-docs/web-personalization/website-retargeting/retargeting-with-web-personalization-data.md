@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Disponibilidade**
 >
->A redefinição de metas do site agora se enquadra no bloco Personalização da Web. Se você só comprou o Redirecionamento, verá este bloco e acessa o produto Personalização da Web com **apenas** os recursos de Redirecionamento ativados. Isso fornece acesso às configurações da conta, à página de redefinição de metas, aos segmentos e às páginas de rastreamento adicionais.
+>A redefinição de metas do site agora se enquadra no bloco Personalização da Web. Se você só comprou o Redirecionamento, verá este bloco e acessa o produto de Personalização da Web com **only** Recursos de redirecionamento ativados. Isso fornece acesso às configurações da conta, à página de redefinição de metas, aos segmentos e às páginas de rastreamento adicionais.
 
 Públicos alvos de remarketing prospectos que visitaram seu site no passado com anúncios de exibição com base em quem eles são e o que eles fizeram. Audiências de redefinição de metas personalizadas específicas com anúncios relevantes baseados no setor, contas nomeadas e dados pessoais conhecidos.
 
@@ -56,7 +56,7 @@ A Personalização da Web envia os seguintes dados para as plataformas de remark
 
 ## Configuração de recomercialização {#remarketing-configuration}
 
-1. Vá para **Redefinição de metas**.
+1. Vá para **Redirecionamento**.
 
    ![](assets/one.png)
 
@@ -79,11 +79,11 @@ A Personalização da Web envia os seguintes dados para as plataformas de remark
 
    >[!NOTE]
    >
-   >É necessário ter o [Facebook Custom Audiência](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Pixelinstalled no seu site para que esse recurso funcione.
+   >Você precisa ter [Pixel de Audiência personalizada do Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)instalado seu site para que esse recurso funcione.
 
    ![](assets/three.png)
 
-## Criação de Audiências segmentadas {#creating-segmented-audience}
+## Criando Audiência segmentada {#creating-segmented-audience}
 
 Uma Audiência segmentada permite selecionar um segmento existente como uma audiência a ser usada para redirecionar campanhas. Por exemplo, selecione os segmentos de Pessoa conhecida.
 
@@ -91,7 +91,7 @@ Uma Audiência segmentada permite selecionar um segmento existente como uma audi
 >
 >Não há necessidade de criar uma Audiência segmentada para o setor ou outros dados que já tenham sido enviados na Configuração do domínio. É melhor usar Audiências segmentadas para segmentos com base em dados pessoais conhecidos.
 
-1. Clique em **Criar Audiência** segmentada.
+1. Clique em **Criar Audiência segmentada**.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
