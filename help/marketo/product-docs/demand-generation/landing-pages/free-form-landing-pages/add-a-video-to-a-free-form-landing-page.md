@@ -25,7 +25,7 @@ Coloque vídeos com opções de compartilhamento em redes sociais em suas landin
 
    ![](assets/image2014-9-17-11-3a28-3a51.png)
 
-1. Arraste sobre **Vídeo** dos elementos à direita.
+1. Arraste **Video** dos elementos à direita.
 
    ![](assets/image2015-5-21-15-3a46-3a34.png)
 
@@ -35,19 +35,19 @@ Coloque vídeos com opções de compartilhamento em redes sociais em suas landin
 
    >[!NOTE]
    >
-   >O recurso **Criar novo** aparece somente nas Atividades de marketing; não está disponível no Design Studio. Somente vídeos já criados estão disponíveis no Design Studio. Entretanto, você pode criar um compartilhamento de vídeo *dentro de um programa* selecionando **Novo** > **Novo ativo local.** Você pode selecioná-lo na lista suspensa, como mostrado aqui.
+   >O recurso **Criar novo** aparece somente no Marketing Atividade; não está disponível no Design Studio. Somente vídeos já criados estão disponíveis no Design Studio. No entanto, você pode criar um compartilhamento de vídeo *dentro de um programa* selecionando **Novo** > **Novo ativo local.** Você pode selecioná-lo na lista suspensa, como mostrado aqui.
 
-1. Digite o URL do vídeo do YouTube e nomeie o vídeo. Na lista suspensa Clonar de, selecione **Nenhum,** em seguida, clique em **Inserir.**
+1. Digite o URL do vídeo do YouTube e nomeie o vídeo. Na lista suspensa Clonar de selecione **Nenhum,** e clique em **Inserir.**
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
 >[!TIP]
 >
->Para economizar tempo, use a opção **Clonar de** para copiar todas as configurações de um compartilhamento de vídeo existente.
+>Para economizar tempo, você pode usar a opção **Clonar de** para copiar todas as configurações de um compartilhamento de vídeo existente.
 
 Parabéns! Você adicionou um compartilhamento de vídeo à sua landing page de forma livre. Aprove a landing page e seu compartilhamento de vídeo esteja ao vivo. Você também pode [publicar a landing page no Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [colocar o compartilhamento de vídeo em seu site](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!MORELIKETHIS]
 >
->Você terminou, mas pode alterar as configurações do compartilhamento de vídeo, se necessário. Start com a [personalização do fluxo](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) de compartilhamento (quando e onde o prompt de compartilhamento é aberto).
+>Você terminou, mas pode alterar as configurações do compartilhamento de vídeo, se necessário. Start com [personalizando o fluxo de compartilhamento](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quando e onde o prompt de compartilhamento é aberto).
 
