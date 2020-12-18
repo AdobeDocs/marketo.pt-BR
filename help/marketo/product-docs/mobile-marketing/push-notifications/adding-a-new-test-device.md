@@ -19,10 +19,10 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-1. Clique em **Admin **e, em seguida, no link Aplicativos **** móveis.\
+1. Clique em **Admin **e no link **Aplicativos móveis**.\
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Clique na guia **Testar dispositivos** e **Novo dispositivo** de teste.
+1. Clique na guia **Testar dispositivos** e **Novo dispositivo de teste**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. O aplicativo é aberto. Nomeie o dispositivo e toque em **Sim**.
+1. O aplicativo é aberto. Nomeie o dispositivo e toque em **Yes**.
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 
