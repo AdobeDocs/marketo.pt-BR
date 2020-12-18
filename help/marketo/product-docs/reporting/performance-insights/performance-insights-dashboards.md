@@ -39,7 +39,7 @@ O objetivo de um programa é criar uma interação significativa com a pessoa ou
 
 Avaliação da aquisição de novo nome
 
-Escolha a métrica **Novos nomes** para medir a eficácia dos programas de aquisição de novos nomes.
+Escolha a métrica **Novos nomes** para medir a eficácia dos seus programas de aquisição de novos nomes.
 
 ![](assets/4-3.png)
 
