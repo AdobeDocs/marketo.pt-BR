@@ -21,11 +21,11 @@ Aplicativos sociais no Marketo têm seus próprios acionadores e filtros especia
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
-1. Para usar *acionadores* sociais, selecione sua campanha inteligente e clique na guia Lista **** inteligente. À direita, clique no sinal + para expandir **Acionadores** e, em seguida, no **Social**.
+1. Para usar *acionadores sociais*, selecione sua campanha inteligente e clique na guia **Lista inteligente**. À direita, clique em + para expandir **Acionadores**, em seguida **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Para usar *filtros* sociais, clique nas **+** para expandir os **Filtros**.
+1. Para usar Filtros sociais *a1/>, clique em **+**para expandir os **filtros**.*
 
    ![](assets/two-282-29.png)
 
