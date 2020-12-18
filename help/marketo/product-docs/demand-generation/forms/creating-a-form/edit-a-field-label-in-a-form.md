@@ -19,7 +19,7 @@ Você pode alterar o rótulo de um formulário para qualquer item - você pode a
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
@@ -29,7 +29,7 @@ Você pode alterar o rótulo de um formulário para qualquer item - você pode a
 
    >[!TIP]
    >
-   >Se você quiser entrar em contato, clique em ![](assets/image2014-9-15-17-3a27-3a7.png) >
+   >Se você quiser se destacar, clique no botão   ![](assets/image2014-9-15-17-3a27-3a7.png)   >
    >
    > . Isso abrirá um editor de rich text e permitirá que você vá para a cidade com imagens, links e muito mais!
 
@@ -37,7 +37,7 @@ Você pode alterar o rótulo de um formulário para qualquer item - você pode a
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 
@@ -45,7 +45,7 @@ Você pode alterar o rótulo de um formulário para qualquer item - você pode a
 >
 >**Lembrete**
 >
->Não se esqueça de [aprovar o rascunho](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de landing page criado pelas alterações de formulário.
+>Não se esqueça de [aprovar o rascunho de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
 Aqui está! Aos poucos você está se tornando um campeão de designer de forma.
 
