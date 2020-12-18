@@ -23,19 +23,19 @@ O Google Fonts é fantástico, e nós os inserimos diretamente no editor de form
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Em **Configurações de** formulário ****, selecione **Configurações**.
+1. Em **Formulário** **Definições**, selecione **Definições**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Selecione a família **de** fontes desejada.
+1. Selecione a **Família de Fontes** desejada.
 
    >[!TIP]
    >
-   >Um monte de fontes [do](http://www.google.com/fonts) Google estão disponíveis para uso.
+   >Um monte de [Fontes do Google](http://www.google.com/fonts) estão disponíveis para uso.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -43,7 +43,7 @@ O Google Fonts é fantástico, e nós os inserimos diretamente no editor de form
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    >[!NOTE]
    >
