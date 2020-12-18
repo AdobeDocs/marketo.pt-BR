@@ -19,8 +19,8 @@ Leia o seguinte cenário e tente determinar os números que devem estar na grade
 * 15 de abril | Participantes do John (Webinar) - Êxito
 * 22 de abril | (Oportunidade 1) criada para $3,000
 * 24 de abril | (Oportunidade 2) criada para $5.000
-* 25 de abril | John e Michelle estão associados a **ambas** as empresas Optys
-* 29 de abril | [A opção 1] está fechada
+* 25 de abril | John e Michelle estão associados a **Optys**
+* 29 de abril | [A opção 1] está fechada-vencedora
 
 | Nome do programa | (Conteúdo) | (Webinar) |
 |---|---|---|
