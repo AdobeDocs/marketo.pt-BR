@@ -17,11 +17,11 @@ Landings page de forma livre podem ser criadas como ativos locais de um programa
 
 >[!NOTE]
 >
->Os modos de landing page são definidos pelo modelo. [Saiba mais](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) sobre os modelos de landing page de forma livre e guiada.
+>Os modos de landing page são definidos pelo modelo. [Saiba ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) mais sobre os modelos de landing page de forma livre e guiada.
 
 ## Criar uma Landing page de forma livre em um Programa {#create-a-free-form-landing-page-in-a-program}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ Landings page de forma livre podem ser criadas como ativos locais de um programa
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Clique em **Novo**. Selecione **Novo ativo** local.
+1. Clique em **Novo**. Selecione **Novo ativo local**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
@@ -51,15 +51,15 @@ Landings page de forma livre podem ser criadas como ativos locais de um programa
 
 >[!TIP]
 >
->O URL é construído automaticamente a partir dos nomes de programa e landing page. Para alterar o URL, edite o campo URL **da** página.
+>O URL é construído automaticamente a partir dos nomes de programa e landing page. Para alterar o URL, edite o campo **URL da página**.
 
 ## Criar uma Landing page de forma livre no Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Vá para o **Design** **Studio**.
+1. Vá para **Design** **Studio**.
 
    ![](assets/designstudio.png)
 
-1. Clique em **Nova** e em **Nova Landing page.**
+1. Clique em **Nova**, em seguida, **Nova Landing page.**
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -73,5 +73,5 @@ Landings page de forma livre podem ser criadas como ativos locais de um programa
 
 >[!TIP]
 >
->Desmarque &quot;Abrir editor de landing page para nova página&quot; se não quiser que o editor abra imediatamente após clicar em **Criar**.
+>Desmarque &quot;Abrir editor de landing page para nova página&quot; se não quiser que o editor abra imediatamente depois de clicar em **Criar**.
 
