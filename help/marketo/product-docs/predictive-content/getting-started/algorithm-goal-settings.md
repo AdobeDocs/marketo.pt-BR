@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Configurações de meta do algoritmo {#algorithm-goal-settings}
+# Configurações de metas do algoritmo {#algorithm-goal-settings}
 
 As Configurações de meta de algoritmo permitem definir a meta final do algoritmo de inteligência artificial de Conteúdo preditivo para alinhar-se às suas metas comerciais.
 
-1. Em Conteúdo previsível, clique no nome de logon e selecione Configurações **** de conteúdo.
+1. Em Conteúdo previsível, clique no nome de logon e selecione **Configurações do conteúdo**.
 
    ![](assets/1.png)
 
-1. Em Configurações de conteúdo, selecione **Algoritmo**.
+1. Em Configurações de conteúdo, selecione **Algorithm**.
 
    ![](assets/two-1.png)
 
@@ -31,7 +31,7 @@ As Configurações de meta de algoritmo permitem definir a meta final do algorit
    |---|---|
    | **`Conversions`** | Exibir o conteúdo com maior probabilidade de fazer com que a pessoa que exibe o conteúdo envie um formulário |
 
-1. Clique em **Salvar** quando concluído.
+1. Clique em **Salvar** quando terminar.
 
    ![](assets/four.png)
 
