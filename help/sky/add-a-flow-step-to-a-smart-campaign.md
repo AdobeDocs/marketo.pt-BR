@@ -16,7 +16,7 @@ As etapas de fluxo informam ao Marketo o que você deseja que aconteça a um gru
 
 ## Adicionar uma Etapa de Fluxo
 
-1. No [!UICONTROL Marketing Atividade], selecione sua campanha inteligente e clique em **[!UICONTROL Fluxo]**.
+1. Em [!UICONTROL Atividades de marketing], selecione sua campanha inteligente e clique em **[!UICONTROL Fluxo]**.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
@@ -26,7 +26,7 @@ As etapas de fluxo informam ao Marketo o que você deseja que aconteça a um gru
 
 **Mergulho profundo**
 
-Saiba mais sobre as diferentes etapas [de](http://docs.marketo.com/display/DOCS/Flow+Actions)fluxo.
+Saiba mais sobre as diferentes [etapas de fluxo](http://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Clique na lista suspensa e escolha uma opção apropriada.
 
@@ -38,13 +38,13 @@ Saiba mais sobre as diferentes etapas [de](http://docs.marketo.com/display/DOCS/
 
 **Lembrete**
 
-As etapas de fluxo são executadas na ordem em que são listadas. [Reordene as etapas](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) de fluxo para garantir que estejam na sequência correta.
+As etapas de fluxo são executadas na ordem em que são listadas. [Reordene as ](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) etapas de fluxo para garantir que estejam na sequência correta.
 
 >[!TIP]
 >
 >Uma linha vermelha é exibida no caso de uma entrada inválida. Passe o mouse sobre a linha para ver como corrigi-la.
 >
->Certifique-se de [revisar e validar a campanha](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) inteligente antes de agendá-la ou ativá-la.
+>Certifique-se de [revisar e validar a campanha inteligente](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) antes de agendá-la ou ativá-la.
 
 ## Reordenar etapas de fluxo
 
