@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Quem votou em quê em sua pesquisa? Vamos descobrir.
 
-1. No **Marketing Atividade**, selecione a pesquisa e clique na guia **Participantes** .
+1. Em **Atividades de marketing**, selecione a pesquisa e clique na guia **Participantes**.
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Clique no número na coluna **Votos** .
+1. Clique no número na coluna **Votos**.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
@@ -32,5 +32,5 @@ Quem votou em quê em sua pesquisa? Vamos descobrir.
    >**Artigos relacionados**
    >
    >
-   >Saiba mais sobre o alcance social e o impacto de seus aplicativos na [Visualização Social Performance](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   >Saiba mais sobre o alcance social e o impacto de seus aplicativos em [Desempenho social Visualização](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
