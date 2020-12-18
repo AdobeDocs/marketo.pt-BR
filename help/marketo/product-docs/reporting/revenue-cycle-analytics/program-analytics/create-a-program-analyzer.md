@@ -19,11 +19,11 @@ Descubra quais programas e canais estão lhe dando o maior incentivo para seu in
 >
 >**Lembrete**
 >
->Para obter bons dados de um analisador de programas, verifique se seus contatos do CRM têm funções nas oportunidades e se os programas de marketing estão totalmente configurados, com custos [de](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)período, status de programa e sucesso definidos.
+>Para obter bons dados de um analisador de programas, verifique se seus contatos do CRM têm funções nas oportunidades e se os programas do Marketing estão totalmente configurados, com [custos do período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), status dos programas e sucesso definidos.
 
 >[!TIP]
 >
->Para que programas sem custo apareçam no analisador de programas, [defina o custo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) do período para $0.
+>Para que programas sem custo apareçam no analisador de programas, [defina o custo do período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) como $0.
 
 1. Clique no bloco Analytics.
 
@@ -51,7 +51,7 @@ Descubra quais programas e canais estão lhe dando o maior incentivo para seu in
 
    >[!TIP]
    >
-   >Para selecionar um intervalo específico, selecione **Personalizado** e use os campos **De** e **Para** .
+   >Para selecionar um intervalo específico, selecione **Personalizado** e use os campos **De** e **Para**.
 
 1. Se quiser salvar seu novo analisador personalizado, no menu suspenso Ações do Analyzer, selecione Salvar como.
 
@@ -61,7 +61,7 @@ Descubra quais programas e canais estão lhe dando o maior incentivo para seu in
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 
-1. Você fez isso! Clique na guia principal para explorar e comparar os programas e canais.
+1. Você fez isso! Clique na guia principal para explorar e comparar os programas e canais do start.
 
 ![](assets/november-custom-report.png)
 
@@ -75,8 +75,8 @@ Descubra quais programas e canais estão lhe dando o maior incentivo para seu in
 
 >[!NOTE]
 >
->Muitas das métricas que você pode escolher no analisador de programas estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante compreender a [diferença entre a atribuição](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT e MT.
+>Muitas das métricas que você pode escolher no analisador de programas estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante entender a diferença [entre a atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!NOTE]
 >
->Saiba mais sobre o Relatórios [básico e o](http://docs.marketo.com/display/docs/basic+reporting) Revenue Cycle Explorer [](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Saiba mais em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting) e [Explorador do ciclo de receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
