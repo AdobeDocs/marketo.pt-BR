@@ -17,25 +17,25 @@ As formas curtas são boas! Quando alguém volta a um formulário, é possível 
 
 >[!NOTE]
 >
->Para que esse recurso funcione corretamente, verifique se o Preenchimento prévio do formulário está ativado para campos visíveis e [desativado](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) para campos ocultos.
+>Para que esse recurso funcione corretamente, verifique se o Preenchimento prévio do formulário está ativado para campos visíveis e [disabled](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) para campos ocultos.
 
 1. Vá para **Marketing** **Atividade**.
 
    ![](assets/ma-1.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Em **Configurações de** formulário ****, clique em **Configurações**.
+1. Em **Formulário** **Definições**, clique em **Definições**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Defina a **criação de perfil** progressiva **como** Ativada ****.
+1. Defina **Progressivo** **Definição de perfil** como **Ativado**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Ok, agora vamos configurá-lo. Vá para **Campo** **Detalhes**.
+1. Ok, agora vamos configurá-lo. Vá para **Field** **Details**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 Arraste e solte todos os campos que fazem parte do conjunto de perfis progressivos.
@@ -47,9 +47,9 @@ Arraste e solte todos os campos que fazem parte do conjunto de perfis progressiv
 
    >[!NOTE]
    >
-   >Os campos fora da caixa **Perfil** progressivo **** sempre serão exibidos no formulário, mesmo se forem preenchidos.
+   >Os campos fora da caixa **Progressivo** **Definição de perfil** sempre serão exibidos no formulário, mesmo que estejam preenchidos.
 
-1. Selecione a caixa **Definição** de perfil **** progressiva.
+1. Selecione a caixa **Progressivo** **Definição de perfil**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -57,7 +57,7 @@ Arraste e solte todos os campos que fazem parte do conjunto de perfis progressiv
    >
    >Tenha cuidado ao usar os campos obrigatórios na criação de perfil progressiva. Esses campos ainda podem ser deixados em branco se o visitante digitar um novo endereço de email (o que criaria uma nova pessoa) depois de enviar dados anteriormente para os outros campos, como seriam suprimidos no formulário mais recente.
 
-1. Agora, escolha quantos campos em branco você deseja que as pessoas vejam na caixa **Definição de** perfil **** progressiva a qualquer momento.
+1. Agora, escolha quantos campos em branco você deseja que as pessoas vejam na caixa **Progressivo** **Criação de perfil** a qualquer momento.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
@@ -66,7 +66,7 @@ Arraste e solte todos os campos que fazem parte do conjunto de perfis progressiv
    >**Exemplo**
    >
    >
-   >Se você escolher **Número** **de** **campos** **** em branco como 1, o visitante verá o seguinte na primeira vez que ele visualizar este formulário:
+   >Se você escolher **Number** **de** **Em branco** **Fields** como 1, o visitante verá o seguinte na primeira vez que vir este formulário:
    >
    >    
    >    
@@ -102,7 +102,7 @@ Arraste e solte todos os campos que fazem parte do conjunto de perfis progressiv
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
