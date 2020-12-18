@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Salvar um relatório do Explorador de Receita {#saving-a-revenue-explorer-report}
+# Salvando um Relatório do Explorador de Receita {#saving-a-revenue-explorer-report}
 
 Os relatórios do Explorador de Receita podem ser salvos no arquivo de sua escolha.
 
