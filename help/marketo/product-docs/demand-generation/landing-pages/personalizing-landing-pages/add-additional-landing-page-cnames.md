@@ -21,20 +21,20 @@ Você pode adicionar CNAMEs de landing page para permitir URLs diferentes para a
 
 >[!TIP]
 >
->**Mesmo domínio de nível superior - Bom! Os cookies são shared.go**.mycompany.com > **info**.mycompany.**comDomínios de nível superior diferentes - Ruins! Os cookies não são compartilhados.**
+>**Mesmo domínio de nível superior - Bom! Os cookies são compartilhados.go**.mycompany.com > **info**.mycompany.com **Domínios de nível superior diferentes - Ruins! Os cookies não são compartilhados.**
 >vá.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-## Encontre a sequência da sua conta {#find-your-account-string}
+## Encontre a sequência de caracteres da sua conta {#find-your-account-string}
 
 1. Vá para a área **Admin** e clique em **Landing page**.
 
    ![](assets/image2014-9-16-15-3a19-3a54.png)
 
-1. Copie a string **da** conta na seção **Configurações** .
+1. Copie a **Cadeia de Conta** da seção **Definições**.
 
    ![](assets/image2014-9-16-15-3a20-3a2.png)
 
@@ -42,9 +42,9 @@ Você pode adicionar CNAMEs de landing page para permitir URLs diferentes para a
 
 ## Enviar solicitação para TI {#send-request-to-it}
 
-1. Solicite ao departamento de TI que configure o seguinte CNAME: (Substitua a palavra [CNAME] pelo CNAME de sua escolha e pela STRING [de] CONTA pelo texto da etapa anterior).
+1. Solicite ao departamento de TI que configure o seguinte CNAME: (Substitua a palavra [CNAME] pelo CNAME de sua escolha e [STRING DE CONTAS] pelo texto da etapa anterior).
 
-   [CNAME].YourCompany.com > STRING [de]CONTA.mktoweb.com
+   [CNAME].YourCompany.com > STRING [ de ]CONTA.mktoweb.com
 
 ## Adicionar um novo CNAME {#add-a-new-cname}
 
@@ -52,11 +52,11 @@ Você pode adicionar CNAMEs de landing page para permitir URLs diferentes para a
 
    ![](assets/image2014-9-16-15-3a20-3a20.png)
 
-1. Clique em **Novo** e selecione **Novo alias** de domínio.
+1. Clique em **Novo** e selecione **Novo Alias de Domínio**.
 
    ![](assets/image2014-9-16-15-3a20-3a28.png)
 
-1. Insira seu alias **de domínio.** A Página **** padrão será exibida se o visitante não colocar um URL. Digite para onde eles devem ir nesse caso.
+1. Insira seu alias de domínio **.** A  **Página** padrão será exibida se o visitante não colocar um URL. Digite para onde eles devem ir nesse caso.
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ Você pode adicionar CNAMEs de landing page para permitir URLs diferentes para a
 
    ![](assets/image2014-9-16-15-3a20-3a36.png)
 
-1. Digite sua Página **** padrão e clique em **Criar**.
+1. Digite sua **Página padrão** e clique em **Criar**.
 
    ![](assets/image2014-9-16-15-3a20-3a43.png)
 
