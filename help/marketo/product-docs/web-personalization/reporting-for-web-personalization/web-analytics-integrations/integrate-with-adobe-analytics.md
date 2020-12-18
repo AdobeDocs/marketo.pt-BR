@@ -51,8 +51,8 @@ Impressões e conversões de campanha RTP de visualização em Links personaliza
 
 Este relatório de Link personalizado mostrará impressões e conversões de campanhas no seguinte formato de nomeação:
 
-* Impressão ISegment: [Nome]do segmento RTP, ICampaign: [Nome da Campanha RTP]
-* ISegment de conversão: [Nome]do segmento RTP, ICampaign: [Nome da Campanha RTP]
+* Impressão ISegment: [Nome do segmento RTP], ICampaign: [Nome da Campanha RTP]
+* ISegment de conversão: [Nome do segmento RTP], ICampaign: [Nome da Campanha RTP]
 
 ![](assets/custom-links-report.png)
 
@@ -62,10 +62,10 @@ A integração usa a API JavaScript que a Adobe Analytics oferta. As variáveis 
 
 Complete as etapas a seguir para configurar essas variáveis no AA:
 
-1. Vá para **Ferramentas** administrativas em sua conta AA.
-1. Selecione o Conjunto de **relatórios** a ser usado com a integração.
-1. Em **Editar configurações,** vá até **Conversão** e selecione ** Variáveis [de](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)conversão**.\
-   Selecione o número da variável [de](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) conversão (recomendamos):
+1. Vá para **Ferramentas administrativas** na sua conta AA.
+1. Selecione o **Conjunto de relatórios** a ser usado com a integração.
+1. Em **Editar configurações,** vá para **Conversão** e selecione ** [Variáveis de conversão](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
+   Selecione o número [Variável de conversão](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (recomendamos):
 
    1. 
 
@@ -78,11 +78,11 @@ Complete as etapas a seguir para configurar essas variáveis no AA:
 
       1. Alterar status para* ativado*
 
-         1. Altere o nome para **Indústria** e **Organização**. (É assim que será exibido no Conjunto de relatórios.)
+         1. Altere o Nome para **Setor** e **Organização**. (É assim que será exibido no Conjunto de relatórios.)
 
          1. Altere o campo Expirar após para **Visita.**
 
-1. Em **Editar configurações **vá para** Conversão **e selecione ** Eventos [](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)** bem-sucedidos.
+1. Em **Editar configurações **vá para** Conversão **e selecione ** [Eventos bem-sucedidos](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
 1. Selecione o número do Evento Eventos de sucesso personalizados (recomendamos):
 
@@ -93,11 +93,11 @@ Complete as etapas a seguir para configurar essas variáveis no AA:
       >
       >Se esses números forem tomados, selecione outro número disponível. Alinhe esse número com o número do slot nas Configurações da conta RTP.
 
-   1. Altere os nomes dos dois eventos para Campanhas **** RTP e Segmentos **** RTP. Esse é o nome que será exibido no Conjunto de relatórios.
+   1. Altere os nomes dos dois eventos para **Campanhas RTP** e **Segmentos RTP**. Esse é o nome que será exibido no Conjunto de relatórios.
 
 1. Selecione o campo Tipo* *para ser **Contador (sem sub-relações)**
 
-1. Em **Editar configurações** vá para ** [Tráfego](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **e selecione ** Variáveis [](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)** de tráfego.
+1. Em **Editar configurações** vá para ** [Tráfego](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **e selecione ** [Variáveis de tráfego](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Selecione a propriedade da variável de tráfego # (recomendamos):
 
@@ -112,19 +112,19 @@ Complete as etapas a seguir para configurar essas variáveis no AA:
 
       1. Altere os nomes das propriedades 4. Esse é o nome que será exibido no Conjunto de relatórios.
    1. Selecionar campo Ativado para **Ativado**
-   1. Selecionar campo Relatórios de caminho para **ativado**
+   1. Selecione o campo Relatórios de caminho para **Ativado**
 
 
 ## Configurar no Marcador para personalização em tempo real (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
-1. Na plataforma RTP, vá para Configurações **da** conta.
+1. Na plataforma RTP, vá para **Configurações da conta**.
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Em Configurações **da** conta, clique em **Domínio**.
-1. Em **Analytics, clique** em **Adobe Analytics**.
+1. Em **Configurações da conta**, clique em **Domínio**.
+1. Em **Analytics, clique em** **Adobe Analytics**.
 1. Ative **On **as variáveis Conversão, Personalizado e Tráfego alternam.
-1. Atribua os números de **slot de Conversão, Evento e Variáveis de tráfego** para que correspondam aos números de slot criados em AA
+1. Atribua as Variáveis de conversão, Evento e tráfego **números de slot** para corresponder aos números de slot criados em AA
 1. Clique em **SALVAR**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
@@ -183,35 +183,35 @@ Exemplos de relatórios e painéis personalizados em AA incluem:
 
 **Criação do Painel RTP**
 
-Crie um [novo painel](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), chamado Painel **** RTP. Esse painel ajudará a entender o detalhamento dos visitantes de acordo com segmentos verticais e RTP.
+Crie um [novo painel](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), chamado **Painel RTP**. Esse painel ajudará a entender o detalhamento dos visitantes de acordo com segmentos verticais e RTP.
 
-1. Clique em **Painel,** clique em Adicionar Painel**
+1. Clique em **Painel,** clique em** Adicionar Painel**
 
-1. Dê um nome ao Painel **RTP do Painel**
-1. Selecione o tamanho **do** painel 3 x 2, 2 x 2
+1. Nomeie o Painel **Painel RTP**
+1. Selecione **tamanho do painel** 3 x 2, 2 x 2
 1. Crie o [reportlet](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) e adicione [conteúdo ao painel](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
 
 Adicionando o reportlet Setores ao Painel
 
-1. Vá para Conversões **** personalizadas, clique em **Indústria**
+1. Vá para **Conversões personalizadas**, clique em **Setor**
 
-1. Configurar gráfico para gráfico de **pizza**
-1. Clique no **Painel** e adicione **Reportlet**
+1. Configurar gráfico para **Gráfico de pizza**
+1. Clique em **Painel**, adicione **Reportlet**
 
-1. Nomear o relatório **Principais setores**
-1. Local no Painel **RTP**
-1. Criar **novo**.
+1. Nomeie o relatório **Principais setores**
+1. Local no Painel **Painel RTP**
+1. Crie **Novo**.
 
 Adicionar o reportlet Segmentos ao Painel
 
-1. Ir para **Métricas do site, **Clique em Eventos **personalizados, segmentos**
+1. Ir para **Métricas do site, **Clique em **Eventos personalizados, segmentos**
 
-1. Configurar gráfico para barra **vertical**
-1. Clique no **Painel** e adicione **Reportlet**
+1. Configurar gráfico para **barra vertical**
+1. Clique em **Painel**, adicione **Reportlet**
 
-1. Nomear os **principais segmentos do relatório**
-1. Local no Painel **RTP**
-1. Criar **novo.**
+1. Nomeie o relatório **Principais segmentos**
+1. Local no Painel **Painel RTP**
+1. Criar **Novo.**
 
 Seus reportlets serão exibidos no painel.
 
