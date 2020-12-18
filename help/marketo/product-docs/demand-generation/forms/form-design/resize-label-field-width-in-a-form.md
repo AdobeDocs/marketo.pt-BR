@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Há duas maneiras de redimensionar a largura do rótulo do campo, bem como a própria largura do campo.
 
-## Arrastar e soltar a largura {#drag-and-drop-the-width}
+## Arraste e solte a largura {#drag-and-drop-the-width}
 
-1. No editor [de](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)formulários, selecione o campo que deseja redimensionar.
+1. No [editor de formulários](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md), selecione o campo que deseja redimensionar.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
