@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Visão geral dos tokens {#tokens-overview}
 
-Um token é uma variável que pode ser usada em etapas de fluxo de campanha [inteligente do Marketo,](http://docs.marketo.com/display/DOCS/Smart+Campaigns) emails [,](http://docs.marketo.com/display/DOCS/General)landings page [,](http://docs.marketo.com/display/DOCS/Landing+Pages)trechos [e campanhas](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)[](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)da Web.
+Um token é uma variável que pode ser usada em etapas de fluxo do Marketo [campanha inteligente](http://docs.marketo.com/display/DOCS/Smart+Campaigns), [emails](http://docs.marketo.com/display/DOCS/General), [landing page](http://docs.marketo.com/display/DOCS/Landing+Pages), [snippets](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets) e [campanha](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor).
 
 ## Como entender os valores padrão {#understanding-default-values}
 
@@ -122,7 +122,7 @@ Neste exemplo, o e-mail dirá &quot;Saudações, (nome)&quot; ou &quot;Saudaçõ
 
 >[!NOTE]
 >
->Saiba mais sobre esses tokens no Glossário [de Tokens do Sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Saiba mais sobre esses tokens no Glossário [Tokens do Sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -131,7 +131,7 @@ Neste exemplo, o e-mail dirá &quot;Saudações, (nome)&quot; ou &quot;Saudaçõ
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## Tokens do acionador {#trigger-tokens}
+## Tokens de acionamento {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -149,7 +149,7 @@ Neste exemplo, o e-mail dirá &quot;Saudações, (nome)&quot; ou &quot;Saudaçõ
 
 >[!NOTE]
 >
->Encontre mais detalhes sobre [tokens para momentos](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) interessantes com base em acionadores usados em uma campanha inteligente.
+>Encontre mais detalhes sobre os tokens [para momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) com base nos acionadores usados em uma campanha inteligente.
 
 ## Tokens de programa {#program-tokens}
 
@@ -159,16 +159,16 @@ Neste exemplo, o e-mail dirá &quot;Saudações, (nome)&quot; ou &quot;Saudaçõ
 
 * `{{program.id}}`
 
-## Meus Tokens {#my-tokens}
+## Meus tokens {#my-tokens}
 
-Meus tokens são definidos em um programa e começam com `{{my.` o nome que você criou para o token. Saiba mais sobre [Meus tokens em um programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+Meus tokens são definidos em um programa e começam com `{{my.` seguido do nome que você criou para o token. Saiba mais sobre [Meus tokens em um programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
-## Token de membro {#member-token}
+## Token de Membro {#member-token}
 
-Tokens de membros são usados para inserir valores únicos de parceiros de serviços integrados. Um uso comum dos Tokens de Membro é para URLs exclusivos para participantes de webinar. Cada pessoa tem um URL exclusivo para acessar o webinar que pode ser inserido usando um `{{member.webinar url}}` token. O `{{member.webinar url}}` token resolve automaticamente o URL de confirmação exclusivo da pessoa gerado pelo provedor de serviço.
+Tokens de membros são usados para inserir valores únicos de parceiros de serviços integrados. Um uso comum dos Tokens de Membro é para URLs exclusivos para participantes de webinar. Cada pessoa tem um URL exclusivo para acessar o webinar que pode ser inserido usando um token `{{member.webinar url}}`. O token `{{member.webinar url}}` resolve automaticamente o URL de confirmação exclusivo da pessoa gerado pelo provedor de serviço.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->O `{{member.webinar url}}` token só será preenchido se a campanha inteligente que envia o email for um ativo filho do Programa do Evento.
+>O token `{{member.webinar url}}` só será preenchido se a campanha inteligente que envia o email for um ativo filho do Programa do Evento.
