@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrar ativos em um relatório de email {#filter-assets-in-an-email-report}
 
-Focalize seu relatório Desempenho [de](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) email ou Desempenho [de link de](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) email em emails em seus programas (&#39;ativos locais&#39;), no Design Studio (&#39;ativos globais&#39;) ou naqueles que foram arquivados.
+Focalize seu relatório [Desempenho do email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [Desempenho do link de email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sobre emails em seus programas (&#39;ativos locais&#39;), nos relatórios do Design Studio (&#39;ativos globais&#39;) ou nos que foram arquivados.
 
-1. Vá para a área **Analytics** (ou **Marketing Atividade**).
+1. Vá para a área **Analytics** (ou **Atividades de marketing**).
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)
 
@@ -55,5 +55,5 @@ Focalize seu relatório Desempenho [de](../../../../product-docs/email-marketing
 >
 >**Mergulho profundo**
 >
->Saiba tudo sobre os relatórios no Relatórios [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+>Saiba tudo sobre os relatórios em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
