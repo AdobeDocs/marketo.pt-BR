@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Tipos de Relatório do Explorador de Receitas {#revenue-explorer-report-types}
+# Tipos de relatórios do Revenue Explorer {#revenue-explorer-report-types}
 
 Estes são os tipos de relatórios que você encontrará se utilizar o Revenue Cycle Analytics.
 
