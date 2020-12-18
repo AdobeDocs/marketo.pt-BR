@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Tornar um campo de formulário obrigatório {#make-a-form-field-required}
 
-Ao [adicionar campos a um formulário](add-a-field-to-a-form.md) , talvez você queira tornar alguns deles obrigatórios para o usuário que os preencheu. Veja como.
+Quando [adicionar campos a um formulário](add-a-field-to-a-form.md), talvez você queira tornar alguns deles obrigatórios para a pessoa que os preenche. Veja como.
 
 1. Vá para **Marketing** **Atividade**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/editform-2.png)
 
@@ -31,7 +31,7 @@ Ao [adicionar campos a um formulário](add-a-field-to-a-form.md) , talvez você 
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
@@ -39,6 +39,6 @@ Ao [adicionar campos a um formulário](add-a-field-to-a-form.md) , talvez você 
 >
 >**Lembrete**
 >
->Não se esqueça de [aprovar nenhuma landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) em que este formulário esteja para que as mudanças entrem em vigor.
+>Não se esqueça de [aprovar quaisquer landings page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) em que este formulário se encontra para que as alterações entrem em vigor.
 
-É necessário [reordenar os campos adicionados ao formulário](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+Você precisa [reordenar os campos adicionados ao formulário](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
