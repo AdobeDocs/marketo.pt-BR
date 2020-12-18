@@ -25,17 +25,17 @@ Vamos começar com a integração do evento ON24. Se você precisar editar ou ex
 
    ![](assets/image2015-12-22-13-3a15-3a38.png)
 
-1. Em Serviços instalados, clique em **Novo** e, em seguida, em **Novo serviço**.
+1. Em Serviços instalados, clique em **Novo** e **Novo serviço**.
 
    ![](assets/image2015-12-22-13-3a18-3a54.png)
 
 1. Na caixa de diálogo Novo serviço, digite estas informações:
 
-   * **Nome** de exibição - insira um nome para uso no Marketo. Esse pode ser o seu nome ou o nome do seu grupo se você compartilhar credenciais.
-   * **Serviço** - Selecione **On24** no menu suspenso.
+   * **Nome**  de exibição - insira um nome para uso no Marketo. Esse pode ser o seu nome ou o nome do seu grupo se você compartilhar credenciais.
+   * **Serviço**  - Selecione  **On24** no menu suspenso.
 
-   * **Chave** do cliente - insira a Chave do cliente ON24 que você usa para fazer logon. A chave do cliente é uma string de 32 dígitos contendo uma mistura de letras e números.
-   * **ID** do cliente - insira a ID do cliente ON24 de 4 dígitos que você usa para fazer logon. Você pode obter a ID do cliente e a chave do cliente diretamente do seu Gerente de conta ON24.
+   * **Chave**  do cliente: insira a Chave do cliente ON24 que você usa para fazer logon. A chave do cliente é uma string de 32 dígitos contendo uma mistura de letras e números.
+   * **ID**  do cliente: insira a ID do cliente ON24 de 4 dígitos que você usa para fazer logon. Você pode obter a ID do cliente e a chave do cliente diretamente do seu Gerente de conta ON24.
 
    ![](assets/image2015-12-22-13-3a38-3a52.png)
 
@@ -57,9 +57,9 @@ Você pode editar suas credenciais se sua senha expirar ou precisar fazer uma al
 
    ![](assets/seven.png)
 
-## Excluir um serviço {#delete-a-service}
+## Excluir um Serviço {#delete-a-service}
 
-1. Na guia Serviços instalados, selecione o serviço que deseja excluir, clique no menu suspenso Ações **** de serviço e selecione **Excluir serviço**.
+1. Na guia Serviços instalados, selecione o serviço que deseja excluir, clique no menu suspenso **Ações do serviço** e selecione **Excluir serviço**.
 
    ![](assets/eight.png)
 
@@ -67,7 +67,7 @@ Você pode editar suas credenciais se sua senha expirar ou precisar fazer uma al
 
    ![](assets/nine.png)
 
-O próximo passo é [criar seu evento webinar no ON24](create-your-webinar-event-in-on24.md).
+A próxima etapa é [criar seu evento webinar em ON24](create-your-webinar-event-in-on24.md).
 
 >[!MORELIKETHIS]
 >
