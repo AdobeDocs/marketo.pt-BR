@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Noções Gerais do Caminho de Sucesso do Modelo de Receita {#understanding-revenue-model-success-path}
+# Entendendo o Caminho de Sucesso do Modelo de Receita {#understanding-revenue-model-success-path}
 
 ## Caminho de sucesso {#success-path}
 
-No modelo, o caminho verde conhecido como Caminho **de** sucesso é o caminho ideal de como um cliente potencial transição linearmente a um negócio fechado/ganho.
+No modelo, o caminho verde conhecido como **Caminho de sucesso** é o caminho ideal de como um cliente potencial transição linearmente a um negócio fechado/ganho.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 Exemplo de etapas em um caminho de sucesso:
 
@@ -31,9 +31,9 @@ Exemplo de etapas em um caminho de sucesso:
 
 >[!TIP]
 >
->Verde é por dinheiro. Tudo no caminho do verde está no caminho do sucesso! É por isso que existem apenas setas verdes no Analisador [de caminho de](using-the-success-path-analyzer.md)sucesso.
+>Verde é por dinheiro. Tudo no caminho do verde está no caminho do sucesso! É por isso que há apenas setas verdes no [Analisador de caminho de sucesso](using-the-success-path-analyzer.md).
 
-## Detours {#detours}
+## Detenções {#detours}
 
 Reconhecendo que nem todas as clientes potenciais seguem um &quot;caminho de sucesso&quot; linear, você também deve definir seus &quot;estágios de desvio&quot; para capturar clientes potenciais que não estejam qualificados ou que exijam algumas rodadas de nutrição antes de se tornarem prontos. Por exemplo:
 
