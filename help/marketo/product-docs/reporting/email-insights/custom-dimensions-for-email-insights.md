@@ -21,7 +21,7 @@ Todas as dimensões padrão do Marketing estão incluídas, mas você tem a opç
 
 >[!CAUTION]
 >
->As dimensões personalizadas NÃO **PODEM** ser excluídas ou substituídas, portanto escolha suas 10 com cuidado.
+>As dimensões personalizadas **NÃO PODEM** ser excluídas ou substituídas, portanto, escolha suas 10 com cuidado.
 
 1. No Email Insights, clique no ícone de engrenagem no canto superior direito da página.
 
