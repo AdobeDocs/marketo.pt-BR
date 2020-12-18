@@ -17,13 +17,13 @@ Os visitantes da Web podem definir seu navegador para impedir o rastreamento por
 
 Em Personalização da Web e Conteúdo previsível, um comerciante pode definir uma alternância para indicar se suporta ou ignora a configuração Não rastrear (DNT) do navegador. A alternância de contas está definida como desativada como padrão, o que significa que o DNT não é respeitado pelo aplicativo.
 
-## Ativar ou desativar a opção Alternar {#enable-or-disable-the-toggle}
+## Ative ou desative a opção Alternar {#enable-or-disable-the-toggle}
 
-1. Vá para Configurações **da** conta.
+1. Vá para **Configurações da conta**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Em Configuração de domínio e domínio, selecione **Ativado** para ativar a alternância Honorável DNT.
+1. Em Configuração de domínio e domínio, selecione **On** para ativar a alternância Honorável DNT.
 
    ![](assets/two-1.png)
 
@@ -33,5 +33,5 @@ Em Personalização da Web e Conteúdo previsível, um comerciante pode definir 
    >
    >Definir a alternância como On pode afetar o valor e a funcionalidade do Marketo em áreas específicas.
 
-1. Para desativar o botão Honor DNT e ignorar a configuração Do No Track (DNT) do navegador, selecione **Off (Desativado** ) em Honor DNT (Honrar DNT).
+1. Para desativar o botão Honor DNT e ignorar a configuração Do No Track (DNT) do navegador, selecione **Off** em Honor DNT.
 
