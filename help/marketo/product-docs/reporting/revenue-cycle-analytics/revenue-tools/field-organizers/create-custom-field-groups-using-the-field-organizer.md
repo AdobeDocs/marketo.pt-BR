@@ -36,11 +36,11 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
 ## Criar grupo de campos personalizado - Editor de sequências de caracteres {#create-custom-field-group-string-editor}
 
-1. Clique em Banco de Dados **Principal**.
+1. Clique em **Banco de Dados Principal**.
 
    ![](assets/one.png)
 
-1. Clique em **Novo** e selecione **Novo organizador** de campos.
+1. Clique em **Novo** e selecione **Novo Organizador de Campos**.
 
    ![](assets/two.png)
 
@@ -60,7 +60,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    ![](assets/five.png)
 
-1. Por padrão, todos os valores de dados são colocados no subgrupo &quot;Outros&quot;. Para categorizar os valores de dados, clique em **Adicionar grupo** para criar um subgrupo e dar um nome a ele.
+1. Por padrão, todos os valores de dados são colocados no subgrupo &quot;Outros&quot;. Para categorizar os valores de dados, clique em **Adicionar Grupo** para criar um subgrupo e dar-lhe um nome.
 
    >[!NOTE]
    >
@@ -92,11 +92,11 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
 ## Criar grupo de campos personalizado - Editor de números inteiros {#create-custom-field-group-integer-editor}
 
-1. Clique em Banco de Dados **Principal**.
+1. Clique em **Banco de Dados Principal**.
 
    ![](assets/one.png)
 
-1. Clique em **Novo** e selecione **Novo organizador** de campos.
+1. Clique em **Novo** e selecione **Novo Organizador de Campos**.
 
    ![](assets/two.png)
 
@@ -118,7 +118,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    O editor de números inteiros permite que você crie vários subgrupos para definir cada subgrupo por tamanho. Neste exemplo, três grupos serão criados para pequenas, médias e empresas.
 
-1. Para adicionar seu primeiro grupo, digite um nome no campo Nome **do** grupo (por exemplo: Pequeno) e insira um valor máximo no campo Intervalo de **grupo** (por exemplo: 200000). Clique em **Adicionar grupo**.
+1. Para adicionar seu primeiro grupo, digite um nome no campo **Nome do grupo** (por exemplo: Pequeno) e insira um valor máximo no campo **Intervalo de grupo** (por exemplo: 200000). Clique em **Adicionar grupo**.
 
    ![](assets/twelve.png)
 
@@ -146,11 +146,11 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
 ## Criar grupo de campos personalizado - Editor de datas {#create-custom-field-group-date-editor}
 
-1. Clique em Banco de Dados **Principal**.
+1. Clique em **Banco de Dados Principal**.
 
    ![](assets/one.png)
 
-1. Clique em **Novo** e selecione **Novo organizador** de campos.
+1. Clique em **Novo** e selecione **Novo Organizador de Campos**.
 
    ![](assets/two.png)
 
@@ -172,7 +172,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    O editor de datas permite que você crie vários subgrupos e defina cada subgrupo por data. Neste exemplo, três grupos serão criados: T1-15 Clientes potenciais, T2-15 clientes potenciais e T3-15 clientes potenciais.
 
-1. Para adicionar seu primeiro grupo, digite um nome no campo Nome **do** grupo (por exemplo: T1-15 Clientes potenciais) e insira uma data no campo de data que representa a data em que o cliente potencial foi adquirido em ou antes (por exemplo: 31/03/2015 para o último dia do T1-15). Clique em **Adicionar grupo**.
+1. Para adicionar seu primeiro grupo, digite um nome no campo **Nome do grupo** (por exemplo: T1-15 Clientes potenciais) e insira uma data no campo de data que representa a data em que o cliente potencial foi adquirido em ou antes (por exemplo: 31/03/2015 para o último dia do T1-15). Clique em **Adicionar grupo**.
 
    ![](assets/sixteen.png)
 
