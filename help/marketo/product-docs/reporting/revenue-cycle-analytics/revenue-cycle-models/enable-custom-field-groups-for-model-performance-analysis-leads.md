@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Categorize campos padrão ou personalizados em grupos para relatórios por meio do Organizador de campos no Marketing. Para obter detalhes, consulte [Criar grupos de campos personalizados por meio do Organizador](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)de campos.
+>Categorize campos padrão ou personalizados em grupos para relatórios por meio do Organizador de campos no Marketing. Para obter detalhes, consulte [Criar grupos de campos personalizados através do Organizador de campos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
 
 <table> 
  <tbody> 
@@ -35,7 +35,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>O que acontece quando você ativa um grupo de campos personalizado associado a uma pessoa ou campo de empresa personalizado?</strong></p></td> 
    <td colspan="1" rowspan="1"><p>O grupo de campos personalizado está habilitado para relatórios na área Análise de desempenho do modelo (clientes potenciais)</p></td> 
-   <td colspan="1" rowspan="1"><p>O próprio campo personalizado está ativado para relatórios na Análise de cliente potencial, Análise de Campanha e Áreas de Análise de oportunidade.</p><p><strong>NOTA:</strong> Os grupos de campos personalizados NÃO são suportados nessas áreas de análise, portanto, as associações de grupos não são exibidas no Explorador do Ciclo de Receita -<em>somente</em> o campo personalizado.</p></td> 
+   <td colspan="1" rowspan="1"><p>O próprio campo personalizado está ativado para relatórios na Análise de cliente potencial, Análise de Campanha e Áreas de Análise de oportunidade.</p><p><strong>OBSERVAÇÃO: grupos de campos </strong> personalizados NÃO são suportados nessas áreas de análise, portanto, as associações de grupos não são exibidas no Explorador do Ciclo de Receita — <em></em> somente o campo personalizado.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -46,7 +46,7 @@ Siga estas etapas para ativar um grupo de campos personalizado para relatórios 
 
    ![](assets/one-1.png)
 
-1. Clique em Análise **do ciclo de** receita.
+1. Clique em **Análises do ciclo de receita**.
 
    ![](assets/two-1.png)
 
@@ -54,7 +54,7 @@ Siga estas etapas para ativar um grupo de campos personalizado para relatórios 
 
    ![](assets/three.png)
 
-1. Clique na lista suspensa **Campo** e selecione o que deseja.
+1. Clique no menu suspenso **Field** e selecione o que deseja.
 
    ![](assets/four-1.png)
 
