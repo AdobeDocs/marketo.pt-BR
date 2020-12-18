@@ -51,13 +51,13 @@ Se você estiver lançando um novo livro, você pode chegar a algumas de suas au
    >
    >Você precisará usar uma conta que tenha permissões de administrador para a página do Facebook na qual deseja publicar sua landing page de marketing.
 
-1. Selecione a página **do** Facebook na qual deseja publicar a landing page e insira o nome pelo qual sua landing page de marketing deve aparecer.
+1. Selecione **Página do Facebook** onde deseja publicar a landing page e insira o nome pelo qual sua landing page de marketing deve aparecer.
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >Para substituir landings page de marketing publicadas anteriormente no Facebook, selecione **Substituir guia** existente e escolha a guia a ser substituída na lista suspensa. Observe que isso não substituirá guias que não sejam de marketing.
+   >Para substituir landings page de marketing publicadas anteriormente no Facebook, selecione **Substituir guia existente** e escolha a guia a ser substituída na lista suspensa. Observe que isso não substituirá guias que não sejam de marketing.
 
 1. Os clientes potenciais agora podem visitar sua landing page diretamente na sua página do Facebook. Basta clicar no nome da guia abaixo da imagem da capa.
 
