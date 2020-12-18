@@ -34,7 +34,7 @@ Com a etapa de fluxo adequada adicionada à campanha de registro, as pessoas ser
 >
 >Para uma integração bem-sucedida, é necessário usar um formulário Marketo para registrar as pessoas para o Evento ou um formulário que não seja de marketing com a integração de API adequada para enviar dados de registro para o Marketo.
 
-## Emails e tokens de URL {#emails-and-url-tokens}
+## Tokens de Emails e URL {#emails-and-url-tokens}
 
 Crie o convite, a confirmação, o acompanhamento e os e-mails de agradecimento usando o Marketo.
 
@@ -48,11 +48,11 @@ Use o Marketo para enviar o e-mail de confirmação para o seu evento. Quando um
 >
 >Para preencher seu email de confirmação com este URL exclusivo, use o seguinte token no email: `{{member.webinar url}}`. Quando você envia o URL de confirmação, esse token resolve automaticamente o URL de confirmação exclusivo da pessoa.
 >
->Defina o tipo de seu email de confirmação como **Operacional** para garantir que as pessoas que se registram recebam suas informações de confirmação, mesmo que elas não estejam assinadas.
+>Defina o tipo do seu email de confirmação como **Operacional** para garantir que as pessoas que se registram recebam suas informações de confirmação, mesmo que elas sejam canceladas.
 
 >[!TIP]
 >
->Você pode configurar o ON24 para enviar e-mails de confirmação, lembrete ou acompanhamento. Consulte o Site [de Ajuda do](http://webcastelitehelp.on24.com) ON24 para obter mais informações.
+>Você pode configurar o ON24 para enviar e-mails de confirmação, lembrete ou acompanhamento. Consulte o [Site de Ajuda do ON24](http://webcastelitehelp.on24.com) para obter mais informações.
 
 ## Requisitos de Campanha para filho de inscrição {#registration-child-campaign-requirements}
 
@@ -67,7 +67,7 @@ Exemplos de campanhas secundárias são uma campanha de convite, uma campanha de
 **Registro/confirmação (Campanha do acionador)**
 
 * Lista inteligente
-* Acionador com base no formulário **** Preencher. Certifique-se de incluir a landing page em que o formulário permanece usando **Adicionar restrição**, especialmente se o mesmo formulário for usado em várias landings page.
+* Acionador com base em **Preenche o Formulário**. Certifique-se de incluir a landing page na qual o formulário permanece usando **Adicionar restrição**, especialmente se o mesmo formulário for usado em várias landings page.
 
 >[!CAUTION]
 >
@@ -81,23 +81,23 @@ Exemplos de campanhas secundárias são uma campanha de convite, uma campanha de
 
 **Fluxo**
 
-* **Alterar status** do Programa - Definir como Webinar -> Registrado.
+* **Alterar status**  do Programa - Defina como Webinar -> Registrado.
 
 Esta etapa de fluxo é necessária como a PRIMEIRA ETAPA DE FLUXO ao configurar a campanha secundária. Quando o status do programa de uma pessoa muda para Registrado, Marketo envia as informações de registro para ON24. Nenhum outro status empurrará a pessoa.
 
-* **Enviar e-mail** - e-mail de confirmação. Defina este email como **Operacional** para que as pessoas que se inscreveram ainda o recebam.
+* **Enviar email**  - email de confirmação. Defina este email como **Operacional** para que as pessoas que se inscreveram ainda o recebam.
 
-A etapa **Enviar fluxo de email** DEVE ser a segunda etapa. O e-mail de confirmação contém o `{{member.webinar url}}`, que é preenchido com informações enviadas de volta para o Marketo a partir do ON24.
+A etapa de fluxo **Enviar email** DEVE ser a segunda etapa. O e-mail de confirmação contém o `{{member.webinar url}}`, que é preenchido com informações enviadas de volta ao Marketing a partir do ON24.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->A ordem dessas etapas de fluxo é importante devido à ordem em que as ações são executadas no Marketo. A etapa **Alterar status** do Programa envia a pessoa para ON24 para se registrar e um URL exclusivo é gerado. Depois que isso ocorrer, você poderá enviar o email de confirmação que inclui esse URL exclusivo usando o `{{member.webinar URL}}` token.
+>A ordem dessas etapas de fluxo é importante devido à ordem em que as ações são executadas no Marketo. A etapa **Alterar status do Programa** envia a pessoa para ON24 para se registrar e um URL exclusivo é gerado. Depois que isso ocorrer, você poderá enviar o email de confirmação que inclui esse URL exclusivo usando o token `{{member.webinar URL}}`.
 >
 >Se a pessoa for devolvida com um erro de registro, ela não receberá a confirmação do email.
 
-O próximo passo é [testar a integração](test-your-on24-event-integration.md)do evento ON24.
+A próxima etapa é [testar a integração do evento ON24](test-your-on24-event-integration.md).
 
 >[!MORELIKETHIS]
 >
