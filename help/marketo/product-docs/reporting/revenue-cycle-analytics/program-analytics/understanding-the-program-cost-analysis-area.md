@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Como entender a área de Análise de custo do Programa {#understanding-the-program-cost-analysis-area}
+# Entendendo a Área de Análise de Custo do Programa {#understanding-the-program-cost-analysis-area}
 
 A área Análise de custo do Programa permite analisar a eficácia de programas individuais ou ver resultados resumidos por canal em um determinado período de tempo.
 
@@ -79,7 +79,7 @@ Quanto eu gastei por programa por mês?
 | Canal programa | Canal programa |
 | Nome do programa | Nome do programa |
 
-## Cronograma do custo do programa {#program-cost-timeframe}
+## Cronograma de custo do programa {#program-cost-timeframe}
 
 | Dimension | Descrição |
 |---|---|
@@ -96,7 +96,7 @@ Quanto eu gastei por programa por mês?
 | Proprietário do programa | Tag programa |
 | Região | Tag programa |
 
-## Sucesso {#success}
+## Êxito {#success}
 
 | Medida | Descrição |
 |---|---|
