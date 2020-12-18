@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Página Definir um formulário de agradecimento {#set-a-form-thank-you-page}
+# Definir uma página de agradecimento do formulário {#set-a-form-thank-you-page}
 
 O que acontece quando alguém preenche um formulário? Para onde eles são encaminhados? Aqui está como configurá-lo.
 
@@ -25,17 +25,17 @@ O que acontece quando alguém preenche um formulário? Para onde eles são encam
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Em **Configurações de** formulário **** , clique em **Configurações**.
+1. Em **Formulário** **Definições**, clique em **Definições**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Role para baixo até a seção **Obrigado** por **você** **Página** .
+1. Role para baixo até a seção **Obrigado** **Você** **Página**.
 
 ## Permanecer na página {#stay-on-page}
 
 A opção Permanecer na página manterá o visitante na mesma página quando o formulário for enviado.
 
-1. Selecione **Permanecer** **na** **página** para **acompanhar** **até** 20102222223222222222232 **** para Carrinho.
+1. Selecione **Keep** **On** **Página** para **Seguir** **Para cima** **Com**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ A opção Permanecer na página manterá o visitante na mesma página quando o f
 
 A configuração URL externo permite definir qualquer URL como página de acompanhamento. Depois que o usuário enviar o formulário, ele será direcionado para o URL especificado.
 
-1. Selecione **Externo** **URL** para **Acompanhamento** **Acima** **com**.
+1. Selecione **Externo** **URL** para **Seguir** **Para Cima** **Com**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -59,7 +59,7 @@ A configuração URL externo permite definir qualquer URL como página de acompa
 
 Você pode selecionar qualquer landing page de marketing aprovada como acompanhamento.
 
-1. Configure o **acompanhamento com** a **Landing page**.
+1. Defina **Seguir com** como **Landing page**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -71,7 +71,7 @@ Você pode selecionar qualquer landing page de marketing aprovada como acompanha
 
 Você pode adicionar várias opções e criar opções para mostrar às pessoas diferentes acompanhamentos, dependendo de suas respostas.
 
-1. Clique em **Adicionar** **escolha**.
+1. Clique em **Adicionar** **Escolha**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ Você pode adicionar várias opções e criar opções para mostrar às pessoas 
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Escolha a página apropriada para o tipo **Seguir** **até** **com** .
+1. Escolha a página apropriada para o tipo **Seguir** **Para cima** **Com**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -106,7 +106,7 @@ Você pode adicionar várias opções e criar opções para mostrar às pessoas 
    >
    >Você deve ter criado/aprovado essas landings page antecipadamente.
 
-1. Clique no sinal **+** para adicionar outra escolha.
+1. Clique no sinal **+** para adicionar outra opção.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
@@ -114,7 +114,7 @@ Você pode adicionar várias opções e criar opções para mostrar às pessoas 
    >
    >Você pode adicionar várias opções. No entanto, se você adicionar muitos, isso pode afetar a velocidade de carregamento do formulário, portanto, adicione apenas o que você precisa.
 
-1. Vá e configure a **Escolha** **2**.
+1. Vá em frente e configure **Choice** **2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -138,7 +138,7 @@ Você pode adicionar várias opções e criar opções para mostrar às pessoas 
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
