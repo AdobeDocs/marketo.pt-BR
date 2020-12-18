@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Aprovar um título para conteúdo previsível {#approve-a-title-for-predictive-content}
+# Aprovar um Título para Conteúdo Preditivo {#approve-a-title-for-predictive-content}
 
 >[!NOTE]
 >
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para os usuários do Predictive Content, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Conteúdo`<sup>AI</sup>`do Marketing.
+>Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
 Você pode adicionar qualquer título na página Todo o conteúdo para conteúdo preditivo, aprovando-o na página Todo o conteúdo ou no pop-up Editar conteúdo.
 
-## Página Todos os Conteúdos {#all-content-page}
+## Todas as páginas de conteúdo {#all-content-page}
 
 1. Marque a caixa ao lado do conteúdo.
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Clique no menu suspenso Ações **de** conteúdo e selecione **Aprovar para conteúdo** previsível.
+1. Clique no menu suspenso **Ações de conteúdo** e selecione **Aprovar para conteúdo previsível**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
@@ -37,7 +37,7 @@ Você também pode aprovar títulos para conteúdo preditivo diretamente na pop-
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Marque a caixa **Aprovar conteúdo** previsível no pop-up Editar conteúdo e clique em **Salvar**.
+1. Marque a caixa **Aprovar conteúdo previsível** no pop-up Editar conteúdo e clique em **Salvar**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
