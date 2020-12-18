@@ -23,11 +23,11 @@ A atribuição ajuda a medir o sucesso do programa. Alguns programas são destin
 
 ## Atribuição de primeiro toque (FT) {#first-touch-ft-attribution}
 
-A atribuição First-Touch (FT) responde a uma pergunta **comercial** simples, &quot;Que programas são bons para adquirir novos nomes lucrativos?&quot;
+A atribuição First-Touch (FT) responde a uma **pergunta simples de negócios**, &quot;Que programas são bons para adquirir novos nomes lucrativos?&quot;
 
 ## Atribuição multitoque {#multi-touch-attribution}
 
-Multi-Touch responde a uma questão **de negócios** complicada, &quot;Que programas são mais influentes para levar as pessoas para frente no ciclo de vendas ao longo do tempo?&quot;
+O Multi-Touch responde a **perguntas complicadas de negócios**, &quot;Que programas são mais influentes para levar as pessoas para frente no ciclo de vendas ao longo do tempo?&quot;
 
 ## Regras de atribuição {#rules-of-attribution}
 
