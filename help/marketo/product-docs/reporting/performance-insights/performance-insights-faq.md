@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Perguntas frequentes sobre Performance Insights {#performance-insights-faq}
+# Perguntas frequentes sobre o Performance Insights {#performance-insights-faq}
 
 ## Qual é a definição de &quot;sucesso&quot; na guia Envolvimento? {#what-is-the-definition-of-success-in-the-engagement-tab}
 
@@ -59,11 +59,11 @@ Você também pode estar perdendo oportunidades devido ao custo do Programa ause
 
 1. Padrão - O comportamento padrão é o programa que seria incluído APENAS no MPI se houvesse pelo menos um custo do período, mesmo um com zero dólares atribuídos.
 1. Inclusivo - Essa opção garantirá que o programa esteja disponível em MPI, independentemente de você ter incluído ou não um custo do período.
-1. [Operacional](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms) - Essa opção resulta na não exibição do programa no MPI.
+1. [Operacional](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  - Essa opção resulta na não exibição do programa no MPI.
 
 >[!NOTE]
 >
->O Custo do Período **deve** ser configurado para relatórios Bem-sucedido e Novos Nomes no painel Envolvimento. Este painel utiliza dados de Custo do Período para obter agregações bem-sucedidas e novos nomes. Se o Custo do período não estiver configurado, o painel de envolvimento não informará corretamente independentemente das configurações de comportamento do Analytics acima.
+>O Custo do Período **tem** para ser configurado para relatórios Bem-sucedido e Novos Nomes no painel Envolvimento. Este painel utiliza dados de Custo do Período para obter agregações bem-sucedidas e novos nomes. Se o Custo do período não estiver configurado, o painel de envolvimento não informará corretamente independentemente das configurações de comportamento do Analytics acima.
 
 ## Por que estou perdendo algumas oportunidades no MPI? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +82,7 @@ Campos personalizados, Tipo de oportunidade e Filtros ABM são todos atributos r
 
 ## Desejo usar um campo Oportunidade do Salesforce personalizado para relatórios de receita em vez do campo Quantia de Oportunidade do Salesforce. O MPI me permitirá fazer isso? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Sim. [O suporte](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) a marketing pode remapear o campo Quantia de Oportunidade do Marketo para um campo de Oportunidade do Salesforce personalizado, desde que o tipo de campo seja moeda. Como o MPI aponta para o campo de valor da Oportunidade de marketing, o MPI pode usar os dados do campo remapeado personalizado do Salesforce.
+Sim. [O ](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) suporte de marketing pode remapear o campo Quantia de Oportunidade do Marketo para um campo de Oportunidade do Salesforce personalizado, desde que o tipo de campo seja moeda. Como o MPI aponta para o campo de valor da Oportunidade de marketing, o MPI pode usar os dados do campo remapeado personalizado do Salesforce.
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ A MPI foi projetada para permitir que você avalie o desempenho do programa da p
 
 ## Posso medir o sucesso de estratégias baseadas em conta no MPI? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Sim. A MPI se integra ao [Marketing ABM](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) para colocar listas de conta ABM no MPI sem problemas. Você pode usar o filtro Lista de conta do ABM para escolher a lista do ABM desejada para filtrar os dados.
+Sim. O MPI integra-se com [Marketing ABM](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) para inserir listas de conta ABM no MPI sem problemas. Você pode usar o filtro Lista de conta do ABM para escolher a lista do ABM desejada para filtrar os dados.
 
 ## A atribuição está disponível instantaneamente quando eu compro MPI? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Os recursos de Atribuição de marketing estão disponíveis para nossos clientes quando eles compram MPI. No entanto, é necessária a configuração [](http://docs.marketo.com/x/mRPG) correta para garantir que as oportunidades e os dados do programa fluam corretamente para a MPI.
+Os recursos de Atribuição de marketing estão disponíveis para nossos clientes quando eles compram MPI. No entanto, [é necessária a configuração adequada](http://docs.marketo.com/x/mRPG) para garantir que as oportunidades e os dados do programa fluam corretamente para o MPI.
 
 ## O que devo fazer para configurar a atribuição? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ Os recursos de Atribuição de marketing estão disponíveis para nossos cliente
 
 >[!TIP]
 >
->Todas as etapas de configuração necessárias estão detalhadas [neste artigo](http://docs.marketo.com/x/mRPG).
+>Todas as etapas de configuração necessárias estão detalhadas em [este artigo](http://docs.marketo.com/x/mRPG).
 
 ## Qual é a diferença entre a MPI e o Analisador de Programas? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 
