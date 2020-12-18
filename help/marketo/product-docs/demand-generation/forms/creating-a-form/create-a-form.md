@@ -27,7 +27,7 @@ Crie e use um formulário em uma landing page para gerar novos nomes. É muito f
 
    ![](assets/programseelct.png)
 
-1. Em **Novo**, clique em **Novo** **ativo** local ****.
+1. Em **Novo**, clique em **Novo** **Local** **Ativo**.
 
    ![](assets/newlocalasset.png)
 
@@ -35,7 +35,7 @@ Crie e use um formulário em uma landing page para gerar novos nomes. É muito f
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Digite um **Nome** de formulário e clique em **Criar**.
+1. Insira um formulário **Nome** e clique em **Criar**.
 
    ![](assets/newformwithhands.png)
 
