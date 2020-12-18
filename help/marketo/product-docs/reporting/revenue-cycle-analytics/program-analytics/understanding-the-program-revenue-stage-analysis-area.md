@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Como entender a área de Análise do Estágio da Receita do Programa {#understanding-the-program-revenue-stage-analysis-area}
+# Entendendo a Área de Análise do Estágio da Receita do Programa {#understanding-the-program-revenue-stage-analysis-area}
 
 Essa área de análise permite analisar a eficácia de programas individuais ou ver resultados resumidos por canal. Ele fornece informações sobre quantos dos novos nomes gerados alcançaram estágios de caminho de sucesso específicos dentro do modelo de ciclo de receita.
 
