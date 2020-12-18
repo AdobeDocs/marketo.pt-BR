@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Configurar o fluxo de progresso do rastreamento para uma Oferta de referência {#configure-track-progress-flow-for-a-referral-offer}
+# Configurar o fluxo de progresso de rastreamento para uma Oferta de referência {#configure-track-progress-flow-for-a-referral-offer}
 
-Ao [criar uma oferta](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)de referência, é possível configurar os prompts que mostram aos participantes o progresso em direção à recompensa.
+Ao [criar uma oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), você pode configurar os prompts que mostram aos participantes o progresso em direção à recompensa.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,11 +23,11 @@ Ao [criar uma oferta](../../../../product-docs/demand-generation/social/referral
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. No editor de oferta de referência, vá para **Rastrear fluxo** de progresso > Redes **** sociais.
+1. No editor de oferta de referência, vá para **Rastrear fluxo de progresso** > **Redes sociais**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. Na janela **Visualização** **&amp;** **Editar** , edite o prompt que faz lembrar os participantes de fazer logon na mesma rede social que eles usaram para se inscrever na sua oferta.
+1. Na janela **Visualização** **&amp;** **Editar**, edite o prompt que faz lembrar os participantes de fazerem logon na mesma rede social que usaram para se inscreverem em sua oferta.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -49,5 +49,5 @@ Ao [criar uma oferta](../../../../product-docs/demand-generation/social/referral
 
 >[!MORELIKETHIS]
 >
->Em seguida, clique em **Concluir > Aprovar e fechar** e [publique sua oferta](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)de referência.
+>Em seguida, clique em **Concluir > Aprovar e fechar** e [publique sua oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
 
