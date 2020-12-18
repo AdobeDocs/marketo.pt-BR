@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ativar conteúdo preditivo em emails {#enable-predictive-content-in-emails}
+# Ativar conteúdo previsível em emails {#enable-predictive-content-in-emails}
 
 Faça uma ou mais imagens em seu email preditivas, personalizando a experiência de cada recipient.
 
@@ -27,9 +27,9 @@ Faça uma ou mais imagens em seu email preditivas, personalizando a experiência
 >* [Aprovar um título para conteúdo previsível](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
-## Adicionar conteúdo previsível usando o Editor de e-mail 2.0 {#adding-predictive-content-using-the-email-editor}
+## Adicionar conteúdo preditivo usando o Editor de e-mail 2.0 {#adding-predictive-content-using-the-email-editor}
 
-1. Clique em **Atividades** de marketing.
+1. Clique em **Atividades de marketing**.
 
    ![](assets/one.png)
 
@@ -41,7 +41,7 @@ Faça uma ou mais imagens em seu email preditivas, personalizando a experiência
 
    ![](assets/three.png)
 
-1. Para selecionar uma ou mais categorias, clique no menu suspenso **Categoria** , faça suas seleções e clique em **Aplicar**.
+1. Para selecionar uma ou mais categorias, clique no menu suspenso **Categoria**, faça suas seleções e clique em **Aplicar**.
 
    ![](assets/four.png)
 
@@ -63,9 +63,9 @@ Faça uma ou mais imagens em seu email preditivas, personalizando a experiência
 
    >[!NOTE]
    >
-   >A imagem não é selecionada **_até que o recipient abra o email_**. Então o que vocês veem na pré-visualização é apenas um exemplo, e não será necessariamente a imagem que o recipient vê.
+   >A imagem não é selecionada **_até que o recipient abra o e-mail_**. Então o que vocês veem na pré-visualização é apenas um exemplo, e não será necessariamente a imagem que o recipient vê.
 
-1. Quando terminar de visualizar seu email, clique no menu suspenso Ações **de** Pré-visualização e selecione **Aprovar e fechar**. Ou, se ainda tiver que editar, clique em **Editar rascunho** à direita.
+1. Quando terminar de visualizar seu email, clique no menu suspenso **Ações de Pré-visualização** e selecione **Aprovar e Fechar**. Ou, se ainda tiver edição para fazer, clique em **Editar rascunho** à direita.
 
    ![](assets/eight.png)
 
@@ -81,9 +81,9 @@ Depois que você aprovar seu email, ele será equipado com Conteúdo previsível
 
 ## Adicionar conteúdo preditivo quando não estiver usando o Editor de e-mail 2.0 {#adding-predictive-content-when-not-using-the-email-editor}
 
-Se você não estiver usando um modelo de [Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) , a adição de Conteúdo preditivo ao seu email pode ser feita simplesmente marcando uma imagem no modelo como um elemento de imagem editável Marketo.
+Se você não estiver usando um modelo de [Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md), a adição de Conteúdo previsível ao seu email pode ser feita simplesmente marcando uma imagem no seu modelo como um elemento de imagem editável Marketo.
 
-Saiba mais sobre a sintaxe específica de [marketing aqui](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements).
+Saiba mais sobre a [sintaxe específica do Marketing aqui](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements).
 
 Este é um exemplo de como o código deve ser exibido (este é apenas um exemplo, não copie exatamente o código abaixo).
 
