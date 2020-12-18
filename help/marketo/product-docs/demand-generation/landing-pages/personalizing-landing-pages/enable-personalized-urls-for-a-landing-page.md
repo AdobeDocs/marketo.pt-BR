@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ativar URLs personalizados para uma Landing page {#enable-personalized-urls-for-a-landing-page}
+# Habilitar URLs personalizados para uma Landing page {#enable-personalized-urls-for-a-landing-page}
 
 URLs personalizados são ótimos para campanhas de e-mail de impressão.
 
@@ -23,11 +23,11 @@ URLs personalizados são ótimos para campanhas de e-mail de impressão.
 
 
 
-1. Selecione uma landing page e clique nas configurações para URL **** personalizado.
+1. Selecione uma landing page e clique nas configurações para **URL personalizado**.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Agora você pode marcar **Ativar URLs** personalizados e clicar em **Salvar**.
+1. Agora você pode marcar **Ativar URLs personalizados** e clicar em **Salvar**.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
