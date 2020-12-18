@@ -33,7 +33,7 @@ Com programas separados, você pode rastrear o número de conversões de cada um
 
 Ao contrário de alguns programas (como e-mail) que podem ser executados periodicamente por um período específico, os programas padrão estão sempre ativados.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -41,7 +41,7 @@ Ao contrário de alguns programas (como e-mail) que podem ser executados periodi
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Se você já tiver um programa no lugar, você pode [cloná-lo](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Se já tiver um programa no lugar, você pode [cloná-lo](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -73,19 +73,19 @@ Ao contrário de alguns programas (como e-mail) que podem ser executados periodi
 
    >[!NOTE]
    >
-   >A string de query usada nos dois acionadores e o filtro **Programa que captou o nome** é exclusivo para você. As strings de query mostradas aqui são apenas por exemplo. Se você clonou o campo, basta substituir esses campos.
+   >A string de query usada nos dois acionadores e o filtro **Programa que capturou o nome** é exclusivo para você. As strings de query mostradas aqui são apenas por exemplo. Se você clonou o campo, basta substituir esses campos.
 
-1. Crie uma etapa de fluxo para alterar o atributo para Programa **de** aquisição e defina o Novo valor como o valor definido para campanhas sociais pagas.
+1. Crie uma etapa de fluxo para alterar o atributo para **Programa de aquisição** e defina o Novo valor como o valor definido para campanhas sociais pagas.
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
 1. Agende e ativa a campanha.
 
-## Criar uma Campanha inteligente para o status/Programa bem-sucedido {#create-a-smart-campaign-for-status-program-success}
+## Criar uma Campanha inteligente para o sucesso de status/Programa {#create-a-smart-campaign-for-status-program-success}
 
 Você precisa de uma segunda campanha inteligente para alterar o status das pessoas, de modo que elas possam alcançar o sucesso do Programa e sejam incluídas nos cálculos de atribuição de receita.
 
-1. No acionador **Preencher formulário** , insira o nome do programa na string do query. Se você estiver clonando o programa, substitua o nome da sequência de query antigo pelo novo.
+1. No acionador **Preenche o formulário**, insira o nome do programa na cadeia de caracteres do query. Se você estiver clonando o programa, substitua o nome da sequência de query antigo pelo novo.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -121,9 +121,9 @@ Depois de configurar o programa e o campanha, crie o novo anúncio.
    >    
    >    
    >    * **fonte** é a Fonte da Pessoa usada como um identificador de canal
-   >    * **comment** é o identificador exclusivo criado para cada programa
-   >    * **camp** é a campanha no Facebook, LinkedIn ou Google
-   >    * **kk** é a palavra-chave ou o nome do ativo que você deseja capturar
+   >    * **** recomenda o identificador exclusivo criado para cada programa
+   >    * **** acampamento é a campanha no Facebook, LinkedIn ou Google
+   >    * **** coloca em questão a palavra-chave ou o nome do ativo que deseja capturar
 
    >    
    >    
