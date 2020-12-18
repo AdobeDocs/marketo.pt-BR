@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Configurar captura de pessoa para um aplicativo social {#configure-person-capture-for-a-social-app}
 
-Ao criar uma oferta [de](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) referência ou um [sorteio](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode configurar as informações solicitadas e as informações necessárias para que as pessoas possam participar.
+Ao criar uma [oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sorteios](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode configurar quais informações solicita e quais informações são necessárias para que as pessoas possam participar.
 
 >[!NOTE]
 >
 >As pessoas só serão solicitadas a fornecer essas informações se elas não as tiverem fornecido anteriormente.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma-2.png)
 
@@ -27,7 +27,7 @@ Ao criar uma oferta [de](../../../../product-docs/demand-generation/social/refer
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. No editor de aplicativos sociais, acesse Fluxo **de** inscrição > Captura **pessoal.**
+1. No editor de aplicativos sociais, vá para **Fluxo de inscrição** > **Captura de pessoa.**
 
    ![](assets/three-1.png)
 
@@ -42,7 +42,7 @@ Ao criar uma oferta [de](../../../../product-docs/demand-generation/social/refer
 
    >[!NOTE]
    >
-   >De qualquer forma, os participantes ainda receberão emails [*operacionais* de sua oferta](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) .
+   >De qualquer forma, os participantes ainda receberão [*operacionais* e-mails](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) da sua oferta.
 
 1. Na janela Visualização e edição, clique em **Mostrar edições** e edite as mensagens no prompt de compartilhamento.
 
@@ -50,5 +50,5 @@ Ao criar uma oferta [de](../../../../product-docs/demand-generation/social/refer
 
 >[!MORELIKETHIS]
 >
->Agora você pode [configurar o fluxo](configure-social-sign-up-share-flow.md) de inscrição social e editar as mensagens de compartilhamento que serão publicadas em cada rede social.
+>Agora você pode [configurar o fluxo de inscrição social](configure-social-sign-up-share-flow.md) e editar as mensagens de compartilhamento que serão publicadas em cada rede social.
 
