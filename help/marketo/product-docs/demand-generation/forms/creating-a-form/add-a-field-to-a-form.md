@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Adicionar um campo a um formulário {#add-a-field-to-a-form}
 
-Depois de [criar o formulário](create-a-form.md) e [selecionar um tema](select-a-form-theme.md), adicione campos adicionais para que as pessoas possam preenchê-lo. Veja como.
+Depois que [criar seu formulário](create-a-form.md) e [selecionar um tema](select-a-form-theme.md), talvez você queira adicionar campos adicionais para que as pessoas preencham. Veja como.
 
 1. Vá para **Marketing** **Atividade**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/editform-1.png)
 
-1. Clique no sinal **+** .
+1. Clique no sinal **+**.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -49,4 +49,4 @@ Depois de [criar o formulário](create-a-form.md) e [selecionar um tema](select-
 >
 >Certifique-se de aprovar os rascunhos de landing page criados devido às alterações no formulário.
 
-Nada mal. Continue com o bom trabalho! Que tal aprendermos a [tornar um campo de formulário necessário](make-a-form-field-required.md) a seguir?
+Nada mal. Continue com o bom trabalho! Que tal aprendermos a [tornar um campo de formulário necessário](make-a-form-field-required.md) em seguida?
