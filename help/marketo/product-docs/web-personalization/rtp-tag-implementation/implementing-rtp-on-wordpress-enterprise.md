@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Implementação da RTP na Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
+# Implementando RTP no Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
 Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
@@ -27,7 +27,7 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 1. Copie a tag RTP JavaScript.
 1. Faça logon na sua conta do WordPress como Usuário administrador
 
-   1. Em **Aparência**, vá para JavaScript **** personalizado.
+   1. Em **Aparência**, vá para **JavaScript personalizado**.
    1. Cole a tag RTP Javascript logo após o código existente.
 
       ![](assets/image2014-12-3-17-3a51-3a46.png)
