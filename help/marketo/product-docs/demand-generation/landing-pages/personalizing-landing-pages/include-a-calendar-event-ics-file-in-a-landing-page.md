@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Incluir um arquivo ICS de Evento de calendário em uma Landing page {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-Um token de Arquivo **de** calendário permite que você adicione um link de evento de calendário (.ics) às landings page de marketing.
+Um token **Arquivo de calendário** permite adicionar um link de evento de calendário (.ics) às landings page de marketing.
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ Um token de Arquivo **de** calendário permite que você adicione um link de eve
 
 
 
-1. No editor de landings page, clique em **{..}** para inserir um token.
+1. No editor de landings page, clique em **{...}** para inserir um token.
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. Selecione o token Arquivo **de** calendário e clique em **Inserir**.
+1. Selecione o token **Arquivo de calendário** e clique em **Inserir**.
 
    >[!CAUTION]
    >
