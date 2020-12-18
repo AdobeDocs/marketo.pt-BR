@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >Isso se aplica somente às landings page de forma livre.
 
-1. Selecione a imagem adicionada à landing page e expanda a Folha **de propriedades.**
+1. Selecione a imagem adicionada à sua landing page e expanda a **Folha de Propriedades.**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Digite o link mailto no URL do **link.**
+1. Digite o link mailto no **URL do link.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
