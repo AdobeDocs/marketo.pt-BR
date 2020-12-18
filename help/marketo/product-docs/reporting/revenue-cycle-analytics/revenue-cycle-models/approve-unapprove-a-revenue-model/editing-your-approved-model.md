@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. Quando terminar de fazer alterações no modelo, aprove-o novamente selecionando **Aprovar rascunho** do modelo no menu Ações **** do modelo.
+1. Quando terminar de fazer alterações no modelo, reaprove-o selecionando **Aprovar rascunho do modelo** no menu **Ações do modelo**.
 
    ![](assets/four.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 >
 >Se você não aprovar seu modelo, todos os clientes potenciais serão removidos e seu histórico no modelo será excluído. Considere editar seu modelo em vez de cancelar sua aprovação.
 
-1. Selecione o modelo que deseja cancelar a aprovação. No menu Ações **do** modelo, selecione **Desaprovar modelo**.
+1. Selecione o modelo que deseja cancelar a aprovação. No menu **Ações do modelo**, selecione **Desaprovar modelo**.
 
    ![](assets/five.png)
 
