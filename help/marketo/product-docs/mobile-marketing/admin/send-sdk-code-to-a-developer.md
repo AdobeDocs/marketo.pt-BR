@@ -38,7 +38,7 @@ Antes de criar mensagens no aplicativo ou notificações por push, é necessári
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Clique em Ações **do aplicativo** móvel e selecione **Enviar para o desenvolvedor**.
+1. Clique em **Ações do aplicativo móvel** e selecione **Enviar para o desenvolvedor**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
