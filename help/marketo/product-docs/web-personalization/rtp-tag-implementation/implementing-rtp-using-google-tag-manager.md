@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Implementação do RTP usando o Google Tag Manager {#implementing-rtp-using-google-tag-manager}
 
-Para implementar o RTP, `tag please` siga as instruções de instalação abaixo.
+Para implementar o RTP `tag please`, siga as instruções de instalação abaixo.
 
 1. Faça logon em sua conta do Google Tag Manager.
 
-1. Adicione uma nova tag > Configurações de tag > Tag HTML personalizada**.** Chame de **RTP**.
+1. Adicione uma nova tag > Configurações de tag > Tag HTML personalizada**.** Chame **RTP**.
 
 1. Faça logon na sua conta RTP**.**
 
@@ -33,13 +33,13 @@ Para implementar o RTP, `tag please` siga as instruções de instalação abaixo
 
    **
 
-1. Copie a tag RTP JavaScript e cole-a na nova tag **HTML** personalizada criada (Etapa 1).
+1. Copie a tag RTP JavaScript e cole-a na nova **Tag HTML personalizada** que você criou (Etapa 1).
 
-1. Clique em **+Adicionar regra à tag** Fire. Selecione **Todas as páginas**.
+1. Clique em **+Adicionar regra à tag Fire**. Selecione **Todas as páginas**.
 
-1. Clique em **Salvar **e [publique a nova versão](https://support.google.com/tagmanager/answer/2699097?hl=en).
+1. Clique em **Salvar **e [publicar a nova versão](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
-1. Verifique se ele aparece em todas as `pages, including` landings page e subdomínios.
+1. Verifique se ele aparece em todas as landings page e subdomínios `pages, including`.
 
-   1. Você pode fazer isso clicando com o botão direito do mouse em sua `website’s` página. Vá para **Elemento Inspect. **Procure **RTP **para localizar a tag.
+   1. Você pode fazer isso clicando com o botão direito do mouse na sua página `website’s`. Vá para **Elemento Inspect. **Procure **RTP **para localizar a tag.
 
