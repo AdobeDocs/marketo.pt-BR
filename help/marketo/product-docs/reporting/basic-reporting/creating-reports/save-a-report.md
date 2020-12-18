@@ -15,22 +15,22 @@ ht-degree: 0%
 
 Às vezes, talvez seja necessário salvar um relatório padrão para a visualização novamente mais tarde. Veja como você pode fazer isso:
 
-1. Vá para a área **do Analytics** .
+1. Vá para a área **Analytics**.
 1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Selecione um tipo de [relatório](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Selecione um tipo de relatório [a1/>.](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. Clique em **Ações do relatório **e selecione **Salvar como**.
+1. Clique em **Ações de relatório **e selecione **Salvar como**.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Salvar em** um local e selecione uma **pasta**.
+1. **Salve** em um local e selecione uma  **pasta**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Nomeie** o relatório e clique em **Salvar**.
+1. **Nomeie** o relatório e clique em  **Salvar**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
