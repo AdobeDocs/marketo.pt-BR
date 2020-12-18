@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Ao criar um aplicativo social, você pode configurar as opções de rede social e solicitar que um usuário se encontre enquanto se inscreve.
 
-## Selecionar redes para compartilhamento {#select-networks-for-sharing}
+## Selecione Redes para Compartilhamento {#select-networks-for-sharing}
 
 >[!NOTE]
 >
->Isso é muito parecido com a [configuração do fluxo](configure-social-sign-up-share-flow.md)de inscrição/compartilhamento em redes sociais, mas é para os links de compartilhamento *sob* o aplicativo social.
+>Isso é muito semelhante a [configurar o fluxo de inscrição/compartilhamento em redes sociais](configure-social-sign-up-share-flow.md), mas é para os links de compartilhamento *em* o aplicativo social.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -29,7 +29,7 @@ Ao criar um aplicativo social, você pode configurar as opções de rede social 
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. No editor de aplicativos sociais, vá para **Recommend Flow** > **Social Networks****.**
+1. No editor de aplicativos sociais, vá para **Fluxo recomendado** > **Redes sociais****.**
 
    ![](assets/recommendedflow.png)
 
@@ -53,15 +53,15 @@ Ao criar um aplicativo social, você pode configurar as opções de rede social 
 
    >[!TIP]
    >
-   >Para obter mais informações, consulte [Editar configurações](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)de postagens avançadas do Facebook.
+   >Para obter mais informações, consulte [Editar configurações de postagens avançadas do Facebook](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >O URL [de](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) compartilhamento é adicionado automaticamente a todas as mensagens de compartilhamento.
+   >O [URL de compartilhamento](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) é adicionado automaticamente a todas as mensagens de compartilhamento.
 
-1. Se você escolher **Adicionar** conteúdo **estático** acima, edite o título, a legenda e a descrição e faça upload de uma imagem personalizada (de Imagens e arquivos de marketing).
+1. Se você escolher **Adicionar estático** **conteúdo** acima, edite o título, a legenda e a descrição e faça upload de uma imagem personalizada (de suas Imagens e Arquivos do Marketing para ).
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
@@ -71,7 +71,7 @@ Ao criar um aplicativo social, você pode configurar as opções de rede social 
    >
    >Se você carregar uma imagem, ela não será exibida aqui até que você feche e abra novamente o editor de aplicativos sociais.
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
 Se você escolher , os valores das tags OpenGraph da página (og:title, og:caption e og:description) e a miniatura são adicionados automaticamente às publicações do Facebook. Consulte a próxima etapa.
 
@@ -85,7 +85,7 @@ Se você escolher , os valores das tags OpenGraph da página (og:title, og:capti
    >
    >Use {html_title} no texto do tweet para exibir o título da página automaticamente.
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
 ## Configurar a mensagem do LinkedIn {#configure-the-linkedin-message}
 
@@ -93,11 +93,11 @@ Se você escolher , os valores das tags OpenGraph da página (og:title, og:capti
 
    ![](assets/image2014-9-22-12-3a3-3a21.png)
 
-   Se você escolher **Adicionar conteúdo dinâmico** , os valores das tags de páginas (título e descrição) e a miniatura serão adicionados automaticamente às publicações do LinkedIn. Consulte a próxima etapa.
+   Se você escolher **Adicionar conteúdo dinâmico**, os valores das tags de páginas (título e descrição) e da miniatura são adicionados automaticamente às publicações do LinkedIn. Consulte a próxima etapa.
 
-   Se você escolher **Adicionar conteúdo estático** , insira o título, a legenda e a descrição e faça upload de uma imagem. Veja as próximas duas etapas.
+   Se você escolher **Adicionar conteúdo estático**, insira o título, a legenda e a descrição e faça upload de uma imagem. Veja as próximas duas etapas.
 
-1. Na janela **Visualização** e **edição** , clique em **Mostrar edições** e edite o prompt e a mensagem de compartilhamento que aparecerão nas publicações do LinkedIn.
+1. Na janela **Visualização** &amp; **Editar**, clique em **Mostrar edições** e edite o prompt de compartilhamento e a mensagem que aparecerão nas publicações do LinkedIn.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -105,7 +105,7 @@ Se você escolher , os valores das tags OpenGraph da página (og:title, og:capti
    >
    >Use {html_title} no texto da postagem para exibir o título da página automaticamente.
 
-1. Se você escolher **Adicionar conteúdo estático** acima, edite o título e a descrição e faça upload de uma imagem personalizada (de suas Imagens e arquivos de **** marketing).
+1. Se você escolher **Adicionar conteúdo estático** acima, edite o título e a descrição e faça upload de uma imagem personalizada (de Mark **e** para Imagens e Arquivos).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
@@ -115,7 +115,7 @@ Se você escolher , os valores das tags OpenGraph da página (og:title, og:capti
    >
    >Se você carregar uma imagem, ela não será exibida aqui até que você feche e abra novamente o editor de aplicativos sociais.
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
 ## Configurar a mensagem de confirmação {#configure-the-confirmation-message}
 
@@ -123,11 +123,11 @@ Se você escolher , os valores das tags OpenGraph da página (og:title, og:capti
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. Clique em **Concluir** > **Aprovar** e **fechar****.**
+1. Clique em **Concluir** > **Aprovar** e **Fechar****.**
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
 >[!MORELIKETHIS]
 >
->A próxima etapa é [adicionar seu compartilhamento](customize-video-share-flow.md) de vídeo ou [pesquisa](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) a uma landing page, Facebook ou site próprio.
+>A próxima etapa é [adicionar o compartilhamento de vídeo](customize-video-share-flow.md) ou [pesquisa](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) a uma landing page, Facebook ou site próprio.
 
