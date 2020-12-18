@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ativar o preenchimento de formulário social em um formulário {#enable-social-form-fill-on-a-form}
+# Ativar o preenchimento do formulário social em um formulário {#enable-social-form-fill-on-a-form}
 
 Permita que seus visitantes preencham o formulário usando sua rede social. Você receberá automaticamente dados extras e eles terão uma experiência mais rápida.
 
@@ -25,11 +25,11 @@ Permita que seus visitantes preencham o formulário usando sua rede social. Voc�
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Em **Configurações** do formulário **, clique em** Configurações ****.
+1. Em **Formulário** **Definições**, clique em **Definições**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -39,7 +39,7 @@ Permita que seus visitantes preencham o formulário usando sua rede social. Voc�
 
    >[!TIP]
    >
-   >Veja quais [dados o Marketo capturará](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) se as pessoas usarem os botões sociais.
+   >Veja o que [o Data Marketo capturará](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) se as pessoas usarem os botões sociais.
 
 1. Clique em **Concluir**.
 
