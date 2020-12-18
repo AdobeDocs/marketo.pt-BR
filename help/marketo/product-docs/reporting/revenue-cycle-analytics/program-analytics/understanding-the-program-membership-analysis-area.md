@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Como entender a área de Análise da associação ao Programa {#understanding-the-program-membership-analysis-area}
+# Entendendo a área de Análise da associação ao Programa {#understanding-the-program-membership-analysis-area}
 
 A área de Análise Associação ao Programa permite analisar a eficácia de programas individuais ou ver resultados resumidos por canal durante um determinado período de tempo.
 
@@ -29,7 +29,7 @@ Quantos novos nomes cada programa/canal gerou por mês?
 
 ![](assets/three-2.png)
 
-## Dimension e medidas para membros do programa {#program-membership-analysis-dimensions-and-measures}
+## Dimension e medidas da Análise de associação ao programa {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ Quantos novos nomes cada programa/canal gerou por mês?
 | Semana | Período de tempo da associação ao programa |
 | Data | Período de tempo da associação ao programa |
 
-### Sucesso {#success}
+### Êxito {#success}
 
 | Medida | Descrição |
 |---|---|
