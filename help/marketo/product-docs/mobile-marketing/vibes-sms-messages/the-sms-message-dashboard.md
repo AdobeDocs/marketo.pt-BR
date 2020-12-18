@@ -17,7 +17,7 @@ O Painel de Mensagens SMS exibe informações úteis sobre sua mensagem SMS.
 
 ![](assets/converted-dashboard-image.png)
 
-O gráfico de Progressão **do** SMS exibe o total enviado e o total entregue. As quantias estão à direita e se você passar o mouse sobre uma barra, a porcentagem será exibida.
+O gráfico **Progressão do SMS** exibe o total enviado e o total entregue. As quantias estão à direita e se você passar o mouse sobre uma barra, a porcentagem será exibida.
 
 ![](assets/sms-progression-hand-border.png)
 
@@ -25,7 +25,7 @@ O gráfico **Resumo** mostra a Taxa de Rejeição calculada como uma porcentagem
 
 ![](assets/hover-over-summary-hands-thin-border.png)
 
-O gráfico **Atividade ao longo do tempo** permite que você selecione Total Enviado ou Total Entregue. Selecione um intervalo apropriado no seletor de intervalo de datas.
+O gráfico **Atividade ao longo do tempo** permite selecionar Total Enviado ou Total Entregue. Selecione um intervalo apropriado no seletor de intervalo de datas.
 
 ![](assets/activity-over-time-hands.png)
 
