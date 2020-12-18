@@ -39,7 +39,7 @@ Especifique um atraso (no total de segundos) para que as campanhas da Web reajam
 
    ![](assets/s1.png)
 
-1. Clique no menu suspenso **Quando** e selecione quando deseja que a campanha da Web seja exibida.
+1. Clique na lista suspensa **Quando** e selecione quando deseja que a campanha da Web seja exibida.
 
    ![](assets/s2.png)
 
@@ -64,7 +64,7 @@ Especifique um atraso (no total de segundos) para que as campanhas da Web reajam
 
 O propósito de saída exibirá a campanha da Web quando o cursor do mouse sair do navegador.
 
-1. Clique no menu suspenso **Exibir em** e selecione **Propósito** de saída.
+1. Clique no menu suspenso **Exibir em** e selecione **Propósito de saída**.
 
    ![](assets/ei1.png)
 
@@ -74,5 +74,5 @@ O propósito de saída exibirá a campanha da Web quando o cursor do mouse sair 
 
 >[!TIP]
 >
->Quer ver como serão os efeitos escolhidos com antecedência? Confira-os através de uma Pré-visualização [de Campanha da](preview-and-test-a-web-campaign.md)Web.
+>Quer ver como serão os efeitos escolhidos com antecedência? Confira-os por meio de uma Pré-visualização [Campanha da Web](preview-and-test-a-web-campaign.md).
 
