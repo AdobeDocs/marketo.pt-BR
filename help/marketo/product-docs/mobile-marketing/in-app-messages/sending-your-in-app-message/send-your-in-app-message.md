@@ -26,7 +26,7 @@ Depois de criar sua mensagem no aplicativo, é hora de enviá-la. Estas são as 
 
    ![Imagem dois](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-2.png)
 
-1. Selecione o tipo de programa no aplicativo na lista suspensa e clique em **Criar**.
+1. Selecione o tipo de programa no aplicativo no menu suspenso e clique em **Criar**.
 
    ![Imagem Três](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
 
@@ -34,4 +34,4 @@ Depois de criar sua mensagem no aplicativo, é hora de enviá-la. Estas são as 
 
    ![Imagem quatro](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Prontos? Start com a [configuração da audiência](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Prontos? Start com [definindo a audiência](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
