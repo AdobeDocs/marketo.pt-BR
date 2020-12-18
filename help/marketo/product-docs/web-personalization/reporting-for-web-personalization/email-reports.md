@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Relatórios de email {#email-reports}
 
-Para personalizar qual relatório de email automático o usuário recebe, consulte a seção [Configurações do](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)usuário.
+Para personalizar qual relatório de email automático o usuário recebe, consulte a seção [Configurações do usuário](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Relatórios de email de personalização da Web {#web-personalization-email-reports}
 
@@ -33,7 +33,7 @@ O relatório diário/semanal envia ao usuário um email das 50 principais organi
 
 O Relatório de Pessoas diário/semanal envia ao usuário um email com as 100 pessoas mais recentes do site, de acordo com: endereço de email da pessoa, nome da organização, local, estado, data de captura da pessoa e segmentos aos quais a pessoa pertence.
 
-## Campanhas em tempo real de melhor desempenho {#top-performing-real-time-campaigns}
+## Principais Campanhas em tempo real {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
@@ -69,4 +69,4 @@ O relatório Resumo envia ao usuário um email (mensal ou trimestral) de todas a
 >
 >A Personalização da Web de marketing captura o endereço de email do visitante da Web para qualquer formulário concluído no site. Essa é visualizada na página Personalização da Web de Pessoas e é a pessoa usada no relatório Resumo.
 
-Para personalizar qual relatório de email automático o usuário recebe, consulte a seção [Configurações do](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)usuário.
+Para personalizar qual relatório de email automático o usuário recebe, consulte a seção [Configurações do usuário](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
