@@ -23,13 +23,13 @@ No Marketo, encontrar imagens e arquivos é uma brisa.
 
    ![](assets/image2014-9-16-11-3a44-3a4.png)
 
-1. Na caixa Localização **** rápida na parte inferior da tela, digite o nome do arquivo que você está procurando e clique em **Inserir**.
+1. Na caixa **Localização Rápida** na parte inferior da tela, digite o nome do arquivo que você está procurando e clique em **Enter**.
 
    ![](assets/image2014-9-16-11-3a46-3a32.png)
 
 >[!TIP]
 >
->Para start de uma nova pesquisa, clique no **x** na caixa **Quick** **Find (Localizar** rápida).
+>Para start de uma nova pesquisa, clique na caixa **x** na caixa **Rápido** **Localizar**.
 
 Levantem os pés - acabaram!
 
