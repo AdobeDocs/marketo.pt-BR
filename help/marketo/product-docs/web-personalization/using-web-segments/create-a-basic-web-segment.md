@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Criar um segmento básico da Web {#create-a-basic-web-segment}
+# Criar um segmento da Web básico {#create-a-basic-web-segment}
 
 Vamos criar um segmento básico direcionando todos os visitantes da Web dos EUA e do setor de serviços financeiros.
 
-1. Ir para **Segmentos**.
+1. Vá para **Segmentos**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
@@ -31,7 +31,7 @@ Vamos criar um segmento básico direcionando todos os visitantes da Web dos EUA 
 
    ![](assets/location-drag-hand.jpg)
 
-1. Selecione um país para adicionar no menu suspenso. Selecione os Estados **Unidos**.
+1. Selecione um país para adicionar no menu suspenso. Selecione **Estados Unidos**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -49,7 +49,7 @@ Vamos criar um segmento básico direcionando todos os visitantes da Web dos EUA 
 
    Agora você configura um segmento básico para todos os prospectos que visitam seu site dos EUA e da Indústria de Finanças.
 
-1. Clique em** Salvar **para salvar o segmento ou **Salvar e definir a Campanha** para ir para a página Campanha.
+1. Clique em** Salvar **para salvar o segmento ou **Salvar e definir Campanha** para ir para a página Campanha.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
