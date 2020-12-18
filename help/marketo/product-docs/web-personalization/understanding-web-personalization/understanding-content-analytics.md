@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Noções básicas sobre análise de conteúdo {#understanding-content-analytics}
+# Noções Gerais do Content Analytics {#understanding-content-analytics}
 
 A página Análises de conteúdo exibe o conteúdo existente descoberto (estudos de caso, publicações em blog, vídeos, comunicados etc.) do seu site. Ele também exibe o desempenho do seu conteúdo e das pessoas geradas quando os visitantes se envolvem com eles.
 
-## Análise de conteúdo da visualização {#view-content-analytics}
+## Análise de conteúdo de visualização {#view-content-analytics}
 
-Vá para Análises **de conteúdo**.
+Vá para **Análise de conteúdo**.
 
 ![](assets/one.png)
 
@@ -48,8 +48,8 @@ A tabela do Analytics fornece os seguintes detalhes:
    <td colspan="1" rowspan="1">Nome do ativo de conteúdo digital. Clique em <strong>Título</strong> para abrir o URL do conteúdo em uma nova guia.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Ícone </strong><strong>de recomendação</strong></p><p><strong><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">Indica se o conteúdo foi adicionado ao <a href="#">Content Recommendations</a>.</td> 
+   <td colspan="1"><p><strong>Ícone  </strong><strong>de recomendação</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
+   <td colspan="1">Indica se o conteúdo foi adicionado para <a href="#">Content Recommendations</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Visualizações</strong></p></td> 
@@ -60,11 +60,11 @@ A tabela do Analytics fornece os seguintes detalhes:
    <td colspan="1" rowspan="1">Visitantes da Web que visualizaram o conteúdo e preencheram um formulário na mesma visita</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Ícone do Analytics</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Ícone do Analytics</strong></p><p><strong><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">Veja mais análises sobre o conteúdo</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Ícone Excluir</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
+   <td colspan="1"><p><strong>Ícone Excluir</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
    <td colspan="1">Exclui o conteúdo do Content Analytics</td> 
   </tr> 
  </tbody> 
@@ -90,7 +90,7 @@ As análises de conteúdo adicionais incluem:
 
 **Tendências**
 
-* Um gráfico de **Tendências** que mostra os últimos 30 dias de visualizações do conteúdo específico. Passe o cursor do mouse sobre o gráfico de linhas para ver o número de visualizações de conteúdo de um dia específico
+* Um gráfico de **Tendências** mostrando os últimos 30 dias de visualizações do conteúdo específico. Passe o cursor do mouse sobre o gráfico de linhas para ver o número de visualizações de conteúdo de um dia específico
 
 ## Excluir conteúdo {#delete-content}
 
