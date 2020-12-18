@@ -23,11 +23,11 @@ Para cada modelo de ciclo de receita, você pode gerar um relatório sobre quant
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Clique em **Clientes potenciais por estágio** de receita.
+1. Clique em **Clientes potenciais por estágio de receita**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Clique na guia **Configuração** e, abaixo da seção de filtro, clique em duplo-clique em Modelo **de ciclo de** receita.
+1. Clique na guia **Configuração** e, em seguida, sob o duplo da seção de filtro, clique em **Modelo de Ciclo de Receita**.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
@@ -39,7 +39,7 @@ Para cada modelo de ciclo de receita, você pode gerar um relatório sobre quant
    >
    >Para estar disponível nesse menu suspenso, o modelo deve ser aprovado ou, pelo menos, ter etapas aprovadas.
 
-1. Clique na guia **Relatório** para ver quantos clientes em potencial estão em cada estágio do seu modelo de ciclo de receita.
+1. Clique na guia **Relatório** para ver quantos clientes potenciais estão em cada estágio do seu modelo de ciclo de receita.
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
