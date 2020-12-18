@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Os modelos do Landing page criados antes do lançamento [de janeiro de 2015](../../../../release-notes/2015/release-notes-january-2015.md)precisam ser atualizados para serem compatíveis com dispositivos móveis.
+>Os modelos do Landing page criados antes da versão [de janeiro de 2015](../../../../release-notes/2015/release-notes-january-2015.md)precisam ser atualizados para serem compatíveis com dispositivos móveis.
 
 Isso pode ser feito em dois lugares, o Editor de modelos e o Editor de Landings page.
 
-## Atualizar do Editor de modelos {#upgrade-from-the-template-editor}
+## Atualizar do Editor de Modelos {#upgrade-from-the-template-editor}
 
 1. Vá para o **Design Studio**.
 
@@ -29,7 +29,7 @@ Isso pode ser feito em dois lugares, o Editor de modelos e o Editor de Landings 
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Selecione um modelo no qual **Mobile Compatible** é **No**.
+1. Selecione um modelo em que **Compatível com dispositivos móveis** seja **Não**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
@@ -41,7 +41,7 @@ Isso pode ser feito em dois lugares, o Editor de modelos e o Editor de Landings 
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Clique em **Atualizar**.
+1. Clique em **Upgrade**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -67,15 +67,15 @@ Se algo estiver errado, uma mensagem de erro será exibida, clique em reparar pa
 
 Se você fizer alterações no modelo, clique em Ações do modelo e selecione Validar compatibilidade móvel.
 
-## Atualização de um modelo do editor de Landings page de forma livre {#upgrading-a-template-from-the-free-form-landing-page-editor}
+## Atualização de um modelo do editor de Landing page de forma livre {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
 Ao editar uma landing page e clicar na guia móvel, você às vezes perceberá que o modelo não foi atualizado. Não tenha medo! Você pode atualizá-lo aqui mesmo.
 
-1. Clique na guia **Móvel** .
+1. Clique na guia **Mobile**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Clique na caixa de seleção e clique em **Ativar**.
+1. Clique na caixa de seleção e em **Ativar**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -83,7 +83,7 @@ Ao editar uma landing page e clicar na guia móvel, você às vezes perceberá q
    >
    >A ativação da versão móvel de um modelo criará rascunhos de qualquer landing page que o utilize.
 
-Incrível! Agora você pode [personalizar a visualização](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) móvel de todas as landings page que usam este modelo.
+Incrível! Agora você pode [personalizar a visualização móvel](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas as landings page que usam este modelo.
 
 >[!MORELIKETHIS]
 >
