@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Procurando campanhas da Web que usam um segmento específico?
 
-1. Ir para **Segmentos**.\
+1. Vá para **Segmentos**.\
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Procurar um **segmento**. Selecione o Nome **do** segmento. No painel direito, clique em Campanhas **** associadas para visualização das campanhas associadas a esse segmento específico.\
+1. Procure por um **Segmento**. Selecione **Nome do segmento**. No painel direito, clique em **Campanhas associadas** para visualização as campanhas associadas a esse segmento específico.\
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. Visualização das **Campanhas** associadas ao segmento selecionado.\
+1. Visualização as **Campanhas** associadas ao segmento selecionado.\
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 
 >[!NOTE]
 >
 >**Mergulho profundo**
 >
->Saiba mais sobre [segmentos](web-segments.md) e como [criar um segmento](create-a-basic-web-segment.md)básico.
+>Saiba mais sobre [segmentos](web-segments.md) e como [criar um segmento básico](create-a-basic-web-segment.md).
 
