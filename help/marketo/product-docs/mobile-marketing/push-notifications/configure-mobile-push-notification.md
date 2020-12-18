@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
-1. Selecione o ativo de push e clique em **Editar rascunho**.
+1. Selecione seu ativo de push e clique em **Editar rascunho**.
 
    ![](assets/image2016-8-23-16-3a49-3a48.png)
 
@@ -53,15 +53,15 @@ ht-degree: 0%
    >Há três tipos de** Ações de toque:**
    >
    >
-   >**Iniciar aplicativo** - **Este aplicativo** abre o home page do aplicativo quando a notificação é tocada. **O Custom** usa um deep link para abrir outras áreas do aplicativo ou de qualquer outro aplicativo ao qual você tenha o link (consulte URIs [do](#Deeplink) Deep Link abaixo para obter detalhes).
+   >**Iniciar aplicativo** :  **isso** anexa o home page do aplicativo quando a notificação é tocada. **O** cliente usa um deep link para abrir outras áreas do aplicativo ou de qualquer outro aplicativo ao qual você tenha o link (consulte  [Deep Link ](#Deeplink) URIs abaixo para obter detalhes).
    >
    >
-   >**landing page** - leva você para uma landing page de marketing especificada.
+   >**landing page**  - leva você para uma landing page de marketing especificada.
    >
    >
-   >**URL** externo - leva você para uma landing page que não é de marketing.
+   >**URL**  externo - leva você para uma landing page que não é de marketing.
 
-   Para inserir um link profundo para uma ação de toque personalizada, clique em Personalizado e insira o URI [do link](#Deeplink) profundo no campo.
+   Para inserir um deep link para uma ação de toque personalizada, clique em Personalizado e insira [deep link URI](#Deeplink) no campo.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Clique em **APROVAR e FECHAR**.
+1. Clique em **APROVAR E FECHAR**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
