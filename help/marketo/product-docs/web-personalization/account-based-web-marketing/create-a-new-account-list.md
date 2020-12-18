@@ -17,19 +17,19 @@ Crie e carregue uma lista de nomes de organizações e domínios para público a
 
 >[!NOTE]
 >
->Este artigo aplica-se somente aos clientes Web ABM herdados. Se você adquiriu o Web ABM após setembro de 2016, siga as etapas [deste artigo](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) .
+>Este artigo aplica-se somente aos clientes Web ABM herdados. Se você adquiriu o Web ABM após setembro de 2016, siga as etapas em [este artigo](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList).
 
 ## Criar uma nova Lista de conta {#create-a-new-account-list-1}
 
-1. Vá para Listas **de conta**.
+1. Vá para **Listas de conta**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Selecione **Criar novo**.
+1. Selecione **Criar Novo**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Selecione **Procurar** e carregue seu arquivo CSV (verifique se o arquivo csv atende aos critérios). Adicione um **Nome** e uma **Descrição**. Clique em **Salvar**.
+1. Selecione **Procurar** e carregue seu arquivo CSV (verifique se o arquivo csv atende aos critérios). Adicione um **Nome** e **Descrição**. Clique em **Salvar**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -71,11 +71,11 @@ Crie e carregue uma lista de nomes de organizações e domínios para público a
 
 ## Editar uma Lista de conta {#edit-an-account-list}
 
-Na página Listas **da** conta, clique no ícone **Editar **na lista.
+Na página **Listas de conta**, clique no ícone **Editar **na lista.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Selecione **Procurar** e carregue seu novo arquivo CSV. Este arquivo substituirá o arquivo original. Clique em **Salvar**. O novo arquivo carregado estará em um estado pendente até ser aprovado pelo suporte do Marketo, quando em um estado pendente o arquivo original permanecerá ativo.
+Selecione **Procurar** e faça upload do novo arquivo CSV. Este arquivo substituirá o arquivo original. Clique em **Salvar**. O novo arquivo carregado estará em um estado pendente até ser aprovado pelo suporte do Marketo, quando em um estado pendente o arquivo original permanecerá ativo.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
