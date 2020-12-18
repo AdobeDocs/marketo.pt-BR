@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Logon e gerenciamento de usuários {#login-and-user-management}
+# Gerenciamento de logon e usuário {#login-and-user-management}
 
 ## Criar uma função de usuário de personalização da Web {#create-a-web-personalization-user-role}
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Insira um Nome de função e selecione Permissões. Clique em **Criar** (essa função deve [se aplicar a todos os espaços de trabalho](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Insira um Nome de função e selecione Permissões. Clique em **Criar** (esta função deve ser [aplicável a todos os espaços de trabalho](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Para conceder aos usuários permissão para acessar tudo em Definição de metas e personalização, marque *todas* as caixas de seleção.
+   >Para conceder aos usuários permissão para acessar tudo em Definição de metas e personalização, marque *all* as caixas de seleção.
 
 ## Personalização da Web e permissões de usuário de conteúdo preditivo {#web-personalization-and-predictive-content-user-permissions}
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. Os usuários recém-habilitados verão o mosaico Personalização **** da Web em Meu mercado para a próxima vez que fizerem logon.
+1. Os usuários recém-habilitados verão o bloco **Personalização da Web** em Meu mercado na próxima vez que fizerem logon.
 
    ![](assets/eight.png)
