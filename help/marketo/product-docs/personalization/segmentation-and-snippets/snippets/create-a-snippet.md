@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Criar um trecho {#create-a-snippet}
+# Criar um fragmento {#create-a-snippet}
 
-Os trechos podem ser usados como blocos de conteúdo dinâmico em **emails** e **landings page.**
+Os trechos podem ser usados como blocos de conteúdo dinâmico em **emails** e **landing page.**
 
 1. Vá para o **Design Studio.**
 
@@ -23,7 +23,7 @@ Os trechos podem ser usados como blocos de conteúdo dinâmico em **emails** e *
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. Digite os detalhes necessários e clique em **Criar**.
+1. Insira os detalhes necessários e clique em **Create**.
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
