@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Adicionar Vibes como um Serviço do LaunchPoint {#add-vibes-as-a-launchpoint-service}
+# Adicionar Vibes como um Serviço LaunchPoint {#add-vibes-as-a-launchpoint-service}
 
 Você pode enviar mensagens SMS para as pessoas em suas listas Vibes e usar a atividade SMS para acionar e filtrar campanhas. Primeiro, é necessário adicionar Vibes como um serviço do LaunchPoint.
 
@@ -23,7 +23,7 @@ Você pode enviar mensagens SMS para as pessoas em suas listas Vibes e usar a at
 >
 >Você precisa de permissões de Administrador do Marketing e de uma conta ativa do Vibes para concluir esta configuração. As credenciais solicitadas na Etapa 4 abaixo são as credenciais da sua conta Vibes.
 
-1. Em Meu Marketo, clique em **Admin** e, em seguida, em **LaunchPoint**.
+1. Em Meu Marketo, clique em **Admin** e **LaunchPoint**.
 
    ![](assets/image2016-7-27-9-3a31-3a17.png)
 
@@ -31,7 +31,7 @@ Você pode enviar mensagens SMS para as pessoas em suas listas Vibes e usar a at
 
    ![](assets/image2016-7-27-9-3a34-3a25.png)
 
-1. Digite um nome para exibição e, na lista suspensa, selecione **Vibes**.
+1. Digite um nome para exibição e, no menu suspenso, selecione **Vibes**.
 
    ![](assets/new-service-vibes.png)
 
