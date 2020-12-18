@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visão geral dos insights de email {#email-insights-overview}
+# Visão geral do Email Insights {#email-insights-overview}
 
 O Email Insights fornece insights avançados de dados históricos para profissionais de marketing de email. Ele consiste em duas seções separadas, mas associadas: Analytics e envios.
 
@@ -23,25 +23,25 @@ Para acessar o Email Insights, basta clicar em seu bloco em Meu marketing (ou na
 
 ## Analytics {#analytics}
 
-Use o [Analytics](email-insights-analytics-overview.md) para explorar os dados da série de tempo de agregação para delivery de e-mail e métricas de envolvimento.
+Use [Analytics](email-insights-analytics-overview.md) para explorar os dados de agregação das séries de tempo para delivery de e-mail e métricas de envolvimento.
 
 ![](assets/emailanalytics.jpg)
 
 **Filtros **
 
-Usados [filtros](filtering-in-email-insights.md) avançados para analisar os resultados por Audiência, Conteúdo ou Plataforma. Os mesmos filtros se aplicam ao Analytics e aos Envios.
+Usado [filtros](filtering-in-email-insights.md) avançados para analisar os resultados por Audiência, Conteúdo ou Plataforma. Os mesmos filtros se aplicam ao Analytics e aos Envios.
 
 ![](assets/filter.png)
 
 **Gráficos rápidos**
 
-[Os Gráficos](email-insights-quick-charts.md) Rápidos são miniaturas que você cria e salva, fornecendo uma visualização rápida de gráficos importantes para você.
+[Os ](email-insights-quick-charts.md) gráficos rápidos são miniaturas que você cria e salva, fornecendo uma visualização rápida de gráficos importantes para você.
 
 ![](assets/three.png)
 
-## Envio {#sends}
+## Envia {#sends}
 
-Na página [Envios](email-insights-sends-overview.md) , examine as características da recente comunicação por email.
+Na página [Envia](email-insights-sends-overview.md), examine as características da comunicação recente por email.
 
 ![](assets/two.png)
 
@@ -57,7 +57,7 @@ Clique nas barras Métricas para traduzir as cores em números.
 
 ## Dimension personalizados {#custom-dimensions}
 
-Todas as dimensões padrão do Marketing estão incluídas, mas você tem a opção de adicionar até 10 dimensões personalizadas. [As dimensões](custom-dimensions-for-email-insights.md) personalizadas consistem em segmentações e tags de programa.
+Todas as dimensões padrão do Marketing estão incluídas, mas você tem a opção de adicionar até 10 dimensões personalizadas. [As ](custom-dimensions-for-email-insights.md) dimensões personalizadas consistem em segmentações e tags de programa.
 
 >[!MORELIKETHIS]
 >
