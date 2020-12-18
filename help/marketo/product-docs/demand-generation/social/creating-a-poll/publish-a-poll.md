@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Publicar uma pesquisa {#publish-a-poll}
 
-Depois de [criar uma pesquisa](create-a-poll.md), você pode publicá-la em suas landings page de marketing, no Facebook e em seu site.
+Depois que você [criar uma pesquisa](create-a-poll.md), poderá publicá-la em suas landings page de marketing, no Facebook e em seu site.
 
 1. Navegue até sua landing page e abra-a para edição.
 
    ![](assets/image2014-9-19-10-3a45-3a23.png)
 
-1. Arraste sobre **Pesquisa** da paleta à direita.
+1. Arraste **Pesquisa** da paleta à direita.
 
    ![](assets/image2014-9-19-10-3a45-3a50.png)
 
