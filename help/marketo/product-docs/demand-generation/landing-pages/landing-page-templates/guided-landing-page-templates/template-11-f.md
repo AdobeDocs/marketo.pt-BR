@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437571
-description: Modelo 11-F - Documentos do Marketing - Documentação do produto
+description: Modelo 11-B - Documentos do Marketing - Documentação do produto
 title: Modelo 11-F
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
