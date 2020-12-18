@@ -15,7 +15,7 @@ ht-degree: 0%
 
 É fácil ver como as notificações por push estão indo.
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >A métrica **Enviados** pode refletir mais envios do que o número exato de pessoas para as quais a notificação por push foi enviada. Isso acontece porque é calculado com base no *número de dispositivos* que se qualificam para receber seu push. Por exemplo, se uma única pessoa tem três dispositivos, o painel registra três envios, não um.
+   >A métrica **Enviada** pode refletir mais envios do que o número exato de pessoas para as quais a notificação por push foi enviada. Isso ocorre porque é calculado com base no *número de dispositivos* que se qualificam para receber seu push. Por exemplo, se uma única pessoa tem três dispositivos, o painel registra três envios, não um.
 
    >[!NOTE]
    >
