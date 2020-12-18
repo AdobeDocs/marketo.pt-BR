@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Noções Gerais das Integrações de Rede de Anúncios {#understanding-ad-network-integrations}
+# Noções Gerais das Integrações de Rede de Publicidade {#understanding-ad-network-integrations}
 
 ![](assets/hith-golden-gate-144833144-e.jpeg)
 
@@ -36,7 +36,7 @@ Os recursos incluem:
 
    * Por exemplo, uma pessoa pesquisa, visualiza e clica em um anúncio e, em seguida, preenche um formulário online. Depois disso, ele recebe uma demonstração off-line e se torna uma oportunidade de CRM. É aí que o anunciante o público alvo
 
-* Redefinição de metas de visitantes do site, usando a Personalização [da](http://docs.marketo.com/display/docs/web+personalization)Web, para direcioná-los de volta ao seu site
+* Redefinição de metas de visitantes do site, usando [Personalização da Web](http://docs.marketo.com/display/docs/web+personalization), para direcioná-los de volta ao seu site
 
    * Personalizar por segmento ou vertical
 
@@ -52,11 +52,11 @@ Você pode usar integrações para:
 
 |  | Dados de audiência | ingestão de chumbo | Conversão offline |
 |---|---|---|---|
-| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
-| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
-| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |
+| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
+| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
+| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
 
-## Assistir a um vídeo {#watch-a-video}
+## Assista a um vídeo {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
