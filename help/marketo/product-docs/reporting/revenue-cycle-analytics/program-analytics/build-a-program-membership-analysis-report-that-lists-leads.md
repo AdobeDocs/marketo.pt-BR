@@ -49,7 +49,7 @@ Percebe como isso foi fácil?
 
 ![](assets/seven.png)
 
-Você pode adicionar rapidamente um atributo de lead, como Nome **completo** , para ver quem são os membros.
+Você pode adicionar rapidamente um atributo de cliente potencial, como **Nome completo** para ver quem são os membros.
 
 >[!TIP]
 >
