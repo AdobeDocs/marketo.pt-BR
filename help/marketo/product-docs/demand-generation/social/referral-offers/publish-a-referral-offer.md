@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Publicar uma Oferta de referência {#publish-a-referral-offer}
 
-Depois de [criar uma oferta](create-a-referral-offer.md)de referência, você pode publicá-la em suas landings page de marketing, no Facebook e em seu site.
+Depois de [criar uma oferta de referência](create-a-referral-offer.md), você pode publicá-la em suas landings page de marketing, no Facebook e em seu site.
 
 1. Navegue até sua landing page e abra-a para edição.
 
    ![](assets/image2014-9-19-11-3a15-3a30.png)
 
-1. Arraste sobre a Oferta **de referência** da paleta à direita.
+1. Arraste **Oferta de referência** da paleta à direita.
 
    ![](assets/image2014-9-19-11-3a15-3a42.png)
 
