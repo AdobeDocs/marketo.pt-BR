@@ -19,15 +19,15 @@ Se você atualizar o URL de uma página e quiser que o URL antigo continue funci
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Admin**, clique em **Página inicial** **Páginas**.
+1. Em **Admin**, clique em **Início** **Páginas**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. Na guia **Regras** , clique em **Novo** e em **Nova** **regra** de redirecionamento ****.
+1. Na guia **Regras**, clique em **Novo** e em **Novo** **Redirecionar** **Regra**.
 
    ![](assets/two-1.png)
 
-1. Clique no **primeiro** menu suspenso **Original** **URL** e selecione Marketo [CNAME](customize-your-landing-page-urls-with-a-cname.md).
+1. Clique no menu suspenso **first** **Original** **URL** e selecione Marketo [CNAME](customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
@@ -36,9 +36,9 @@ Se você atualizar o URL de uma página e quiser que o URL antigo continue funci
    >**Lembrete**
    >
    >
-   >Lembre-se, você só pode redirecionar URLs que start com seu [CNAME](customize-your-landing-page-urls-with-a-cname.md)de marketing.
+   >Lembre-se, você só pode redirecionar URLs que start com seu Marketo [CNAME](customize-your-landing-page-urls-with-a-cname.md).
 
-1. Escolha a landing page que deseja redirecionar no **segundo campo URL** original.
+1. Escolha a landing page que deseja redirecionar no campo **segundo URL original**.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -46,7 +46,7 @@ Se você atualizar o URL de uma página e quiser que o URL antigo continue funci
    >
    >Você pode inserir qualquer caminho de URL, mesmo se a página ou o diretório não existir.
 
-1. Clique no menu suspenso **Redirecionar** **URL** e selecione a página para a qual deseja redirecionar os visitantes.
+1. Clique no menu suspenso **Redirecionar** **URL** e selecione a página para a qual deseja redirecionar visitantes.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
@@ -56,7 +56,7 @@ Se você atualizar o URL de uma página e quiser que o URL antigo continue funci
 
    >[!TIP]
    >
-   >Para redirecionar para uma página da Web fora do Marketo, clique em **Usar Landing page** que não seja de marketing.
+   >Para redirecionar para uma página da Web fora do Marketo, clique em **Usar Landing page não-Marketo**.
 
    >[!NOTE]
    >
