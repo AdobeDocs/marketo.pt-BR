@@ -30,7 +30,7 @@ Use a segmentação em Snippets para gerenciar facilmente o conteúdo dinâmico 
 
    ![](assets/designstudio-1.png)
 
-1. Clique em seu **Snippet **e, em seguida, em **Editar rascunho**.
+1. Clique em seu **Snippet **e depois **Editar rascunho**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
