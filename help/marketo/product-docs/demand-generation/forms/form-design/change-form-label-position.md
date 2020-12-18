@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Alterar posição do rótulo do formulário {#change-form-label-position}
 
-Ao [criar um formulário](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md), é possível alterar o posicionamento dos rótulos dos campos de formulário com facilidade. Veja como.
+Quando [criar um formulário](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md), é possível alterar o posicionamento dos rótulos dos campos de formulário com muita facilidade. Veja como.
 
 1. Vá para **Marketing** **Atividade**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
@@ -27,7 +27,7 @@ Ao [criar um formulário](../../../../product-docs/demand-generation/forms/creat
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Selecione a **Etiqueta** **Posição** desejada.
+1. Selecione a **Etiqueta** **Posição** que pretende.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -40,7 +40,7 @@ Ao [criar um formulário](../../../../product-docs/demand-generation/forms/creat
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    >[!NOTE]
    >
