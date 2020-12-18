@@ -31,7 +31,7 @@ Ao contrário das landings page de forma livre, as landings page guiadas têm es
 
    >[!NOTE]
    >
-   >A forma como a imagem é redimensionada depende do modelo. Saiba mais sobre Modelos [de Landing page](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)guiada.
+   >A forma como a imagem é redimensionada depende do modelo. Saiba mais sobre [Modelos de Landing page guiada](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
