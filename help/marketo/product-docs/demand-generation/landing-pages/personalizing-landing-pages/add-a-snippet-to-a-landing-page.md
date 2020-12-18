@@ -27,7 +27,7 @@ Trechos são pequenos trechos de HTML que podem seguir regras e manter conteúdo
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. No editor de landings page, arraste sobre o elemento **Snippet** .
+1. No editor de landings page, arraste sobre o elemento **Snippet**.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
@@ -41,6 +41,6 @@ Trechos são pequenos trechos de HTML que podem seguir regras e manter conteúdo
 
    >[!NOTE]
    >
-   >Se você deseja adicionar um trecho a uma Landing page guiada, consulte [este artigo](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template).
+   >Se você deseja adicionar um snippet a uma Landing page guiada, consulte [este artigo](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template).
 
 Trabalho incrível! Agora você sabe como adicionar trechos às suas landings page.
