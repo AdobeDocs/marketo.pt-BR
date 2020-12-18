@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Criar um analisador de caminho bem-sucedido {#create-a-success-path-analyzer}
+# Criar um Analisador de Caminho Bem-sucedido {#create-a-success-path-analyzer}
 
-Obtenha uma representação visual da velocidade e do fluxo através do seu Modelo [de Ciclo de](http://docs.marketo.com/display/docs/revenue+cycle+analytics)Receita.
+Obtenha uma representação visual da velocidade e do fluxo através do [Modelo de Ciclo de Receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
 >[!PREREQUISITES]
 >
@@ -29,7 +29,7 @@ Obtenha uma representação visual da velocidade e do fluxo através do seu Mode
 
    >[!NOTE]
    >
-   >Se você receber um aviso de que nenhum dado foi encontrado no período especificado, basta clicar em **Fechar** para alterar o período. Se você não for solicitado, mas quiser alterar seu período de tempo, vá para **Configuração** e clique com o duplo do mouse** ****Período de tempo**.
+   >Se você receber um aviso informando que nenhum dado foi encontrado no intervalo de tempo especificado, basta clicar em **Fechar** para alterar seu intervalo de tempo. Se você não for solicitado, mas quiser alterar seu intervalo de tempo, vá para **Configuração** e clique com o duplo** ****Período**.
 
 1. Se você não tiver dados ou estiver alterando seu período, selecione um no menu suspenso e clique em Salvar.
 
@@ -37,7 +37,7 @@ Obtenha uma representação visual da velocidade e do fluxo através do seu Mode
 
    >[!TIP]
    >
-   >Para selecionar um intervalo específico, selecione **Personalizado** e use os campos **De** e **Para** .
+   >Para selecionar um intervalo específico, selecione **Personalizado** e use os campos **De** e **Para**.
 
 1. Se você tiver mais de um Modelo de Ciclo de Receita, selecione o que deseja na guia Configuração.
 
@@ -55,7 +55,7 @@ Agora você pode explorar o movimento de cada estágio para o próximo!
 
 >[!TIP]
 >
->Quer salvar seu relatório? Clique no menu suspenso Ações **do** Analyzer e selecione **Salvar como**.
+>Quer salvar seu relatório? Clique no menu suspenso **Ações do Analyzer** e selecione **Salvar como**.
 
 >[!NOTE]
 >
