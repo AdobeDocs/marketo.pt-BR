@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Mapear campos personalizados para o Marketo {#map-custom-fields-to-marketo}
+# Mapear campos personalizados para o Marketing {#map-custom-fields-to-marketo}
 
-Você pode desejar coletar mais informações do que as informações padrão das lojas do Facebook por padrão, como a frequência com que alguém usa seu serviço de delivery online. Você pode fazer isso [criando perguntas](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) personalizadas em seus anúncios principais do Facebook.
+Você pode desejar coletar mais informações do que as informações padrão das lojas do Facebook por padrão, como a frequência com que alguém usa seu serviço de delivery online. Você pode fazer isso criando [perguntas personalizadas](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) em seus principais anúncios do Facebook.
 
-No entanto, o **Marketo não start automaticamente a coleta desses dados**.** **Para que o Marketo possa capturar valores de campo personalizados, você **deve** mapear esses campos personalizados para um campo no Marketo.
+No entanto, **O Marketo não irá automaticamente start a coleta desses dados**.** **Para que o Marketo possa capturar start de valores de campo personalizados, você **deve** mapear esses campos personalizados para um campo no Marketo.
 
 Veja como configurar isso na área LaunchPoint de Admin.
 
@@ -23,19 +23,19 @@ Veja como configurar isso na área LaunchPoint de Admin.
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a área Admin e clique em **LaunchPoint**. Em Serviços instalados, localize e edite Anúncios **de venda do** Facebook.
+1. Vá para a área Admin e clique em **LaunchPoint**. Em Serviços instalados, localize e edite **Anúncios de venda do Facebook**.
 
    ![](assets/image2017-10-24-9-3a32-3a16.png)
 
-1. Clique em **Avançar**.
+1. Clique em **Próximo**.
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. Deixe a conta autorizada como está— **não** faça alterações. Clique em **Avançar**.
+1. Deixe a conta autorizada como está—faça **e não** nenhuma alteração. Clique em **Próximo**.
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. Como antes, deixe as páginas selecionadas como estão; **não** faça alterações. Clique em **Avançar**.
+1. Como antes, deixe as páginas selecionadas como estão; faça **não** quaisquer alterações. Clique em **Próximo**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
@@ -53,15 +53,15 @@ Veja como configurar isso na área LaunchPoint de Admin.
    >
    >Somente os campos que foram salvos em modelos de formulário do Facebook serão exibidos como opções aqui.
 
-1. Clique na coluna Campo **de marketing** . Digite para procurar o campo para o qual deseja mapear. Depois de selecionar um campo, clique em **Salvar**.
+1. Clique na coluna **Campo de marketing**. Digite para procurar o campo para o qual deseja mapear. Depois de selecionar um campo, clique em **Salvar**.
 
    ![](assets/image2017-10-24-11-3a16-3a42.png)
 
    >[!NOTE]
    >
-   >Se você ainda não tiver um campo no Marketo para mapear o campo do Facebook, saiba como [criar campos](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)personalizados.
+   >Se você ainda não tiver um campo no Marketo para mapear o campo do Facebook, saiba como [criar campos personalizados](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!CAUTION]
 >
->Você **deve** passar por esse processo para qualquer novo campo do Facebook para que o Marketo possa coletar os dados.
+>Você **deve** passar por esse processo para qualquer novo campo do Facebook para que o Marketo colete os dados.
 
