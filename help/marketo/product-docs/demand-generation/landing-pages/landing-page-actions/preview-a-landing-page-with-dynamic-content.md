@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Pré-visualização de uma Landing page com conteúdo dinâmico {#preview-a-landing-page-with-dynamic-content}
+# Pré-visualização de uma Landing page com Conteúdo dinâmico {#preview-a-landing-page-with-dynamic-content}
 
 Pré-visualização sua landing page depois de adicionar conteúdo dinâmico para garantir que tudo fique como deveria.
 
@@ -24,11 +24,11 @@ Pré-visualização sua landing page depois de adicionar conteúdo dinâmico par
 
 
 
-1. Selecione uma landing page e clique em Página de **Pré-visualização.**
+1. Selecione uma landing page e clique em **Página de Pré-visualização.**
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. Clique na lista suspensa e selecione um **segmento** para pré-visualização-lo.
+1. Clique na lista suspensa e selecione um **Segmento** para pré-visualização.
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
