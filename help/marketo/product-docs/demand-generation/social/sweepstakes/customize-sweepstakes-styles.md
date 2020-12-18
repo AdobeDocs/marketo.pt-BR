@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personalizar estilos de sorteio {#customize-sweepstakes-styles}
 
-Ao [criar sorteios](create-sweepstakes.md), você pode personalizar a aparência dele em sua landing page.
+Ao [criar sorteios](create-sweepstakes.md), você pode personalizar a aparência dela na landing page.
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Ao [criar sorteios](create-sweepstakes.md), você pode personalizar a aparência
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Selecione os sorteios e clique em **Editar** **rascunho**.
+1. Selecione os sorteios e clique em **Editar** **Rascunho**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. No editor Sorteios, vá para **App** **Settings** **>** **Appearance**.
+1. No editor Sorteios, vá para **App** **Configurações** **** **Aparência**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -40,13 +40,13 @@ Ao [criar sorteios](create-sweepstakes.md), você pode personalizar a aparência
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Exemplo de CSS para o botão **Enter**:
-   `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>` Exemplo de imagem para o botão **Enter**:
+   Exemplo de CSS para **Botão Enter**:
+   `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>` Exemplo de imagem para o botão  **Enter**:
    `<pre>background:url(http://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >Se você usar uma imagem com texto nela, lembre-se de remover o texto do campo **Inserir** **Botão **no campo Texto acima.
+   >Se você usar uma imagem com texto nela, lembre-se de remover o texto do campo **Enter** **Button **sob Texto acima.
 
 1. À medida que você faz cada alteração, o resultado é exibido na pré-visualização Visualização e edição.
 
@@ -64,5 +64,5 @@ Ao [criar sorteios](create-sweepstakes.md), você pode personalizar a aparência
    >**Artigos relacionados**
    >
    >
-   >O próximo passo é adicionar emails de [inscrição e cumprimento aos seus sorteios](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >A próxima etapa é adicionar [emails de inscrição e cumprimento aos sorteios](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
