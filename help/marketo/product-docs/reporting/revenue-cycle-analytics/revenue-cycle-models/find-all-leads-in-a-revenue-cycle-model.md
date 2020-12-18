@@ -19,11 +19,11 @@ Usando listas inteligentes, você pode encontrar facilmente todos os membros do 
 >
 >[Criar uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Com a lista inteligente selecionada, clique na guia **Lista** inteligente.
+1. Com a lista inteligente selecionada, clique na guia **Lista inteligente**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Localize o filtro **Membro do Modelo** de receita e arraste-o para a tela.
+1. Localize o filtro **Membro do Modelo de Receita** e arraste-o para a tela.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
@@ -37,17 +37,17 @@ Usando listas inteligentes, você pode encontrar facilmente todos os membros do 
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Selecione um **Palco.**
+1. Selecione um **Estágio.**
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Vá até a guia **Clientes potenciais** para visualização dos resultados.
+1. Vá para a guia **Clientes potenciais** para visualização dos resultados.
 
    ![](assets/2.png)
 
    >[!TIP]
    >
-   >Você não precisa dos dois filtros, basta escolher o que precisa. Estamos apenas a mostrar-vos que são meticulosos. ![(sorriso)](assets/smile.svg) >
+   >Você não precisa dos dois filtros, basta escolher o que precisa. Estamos apenas a mostrar-vos que são meticulosos. ![(sorriso)](assets/smile.svg)   >
 
    >[!CAUTION]
    >
