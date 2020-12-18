@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Criar uma nova Campanha da Web de caixa de diálogo {#create-a-new-dialog-web-campaign}
+# Criar uma nova Campanha da Web da caixa de diálogo {#create-a-new-dialog-web-campaign}
 
-## Criar uma Campanha da Web de diálogo {#create-a-dialog-web-campaign}
+## Criar uma Campanha da Web de Diálogo {#create-a-dialog-web-campaign}
 
 Crie uma campanha da Web para personalizar seu conteúdo da Web em tempo real e fornecer a mensagem certa ao usuário certo no momento certo.
 
-Uma campanha da Web é uma reação personalizada associada a um segmento específico. A reação pode ser uma caixa de diálogo em seu site, uma substituição [de zona](create-a-new-in-zone-web-campaign.md)interna, um [recurso](create-a-new-widget-web-campaign.md)de widget ou um alerta de email.
+Uma campanha da Web é uma reação personalizada associada a um segmento específico. A reação pode ser uma caixa de diálogo em seu site, um [em substituição de zona](create-a-new-in-zone-web-campaign.md), um [recurso de widget](create-a-new-widget-web-campaign.md)ou um alerta de email.
 
-1. Vá para Campanhas **da Web**.
+1. Vá para **Campanha**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Selecione **Criar nova Campanha** da Web.
+1. Selecione **Criar nova Campanha da Web**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Selecione o tipo de campanha da Web da **caixa de diálogo** . Projete e adicione seu anúncio ao editor. Clique em **Pré-visualização** para ver como a campanha da Web reagirá em seu site.
+1. Selecione o tipo de campanha da Web **Dialog**. Projete e adicione seu anúncio ao editor. Clique em **Pré-visualização** para ver como a campanha da Web reagirá ao seu site.
 
    ![](assets/new-3.png)
 
@@ -41,7 +41,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Exibir ativado</strong></td> 
-   <td colspan="1">Permite <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizar quando e como</a> sua campanha da Web é exibida.</td> 
+   <td colspan="1">Permite que você <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalize quando e como</a> sua campanha da Web é exibida.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Estilo da caixa de diálogo</strong></td> 
@@ -128,31 +128,31 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
 >[!TIP]
 >
->Acelere e simplifique seu processo de criação de campanhas usando nossos modelos [](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) incorporados ou [salvando sua campanha](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) existente como modelo para reutilização.
+>Acelere e simplifique seu processo de criação de campanhas usando nossos [modelos incorporados](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) ou [salvando sua campanha existente](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) como modelo para reutilização.
 
 ## Editar uma Campanha da Web {#edit-a-web-campaign}
 
-1. Na página **Web** **Campanha** , clique em **Editar** na campanha da Web.
+1. Na página **Web** **Campanha**, clique em **Editar** na campanha da Web.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->Para facilitar a localização da campanha da Web desejada, use o recurso [de](filter-web-campaigns.md)filtro.
+>Para facilitar a localização da campanha da Web desejada, use o recurso [filter](filter-web-campaigns.md).
 
 ## Pré-visualização de uma Campanha da Web {#preview-a-web-campaign}
 
-1. Na página Campanhas **** da Web, clique em **Pré-visualização** na campanha da Web que deseja visualização.
+1. Na página **Campanha**, clique em **Pré-visualização** na campanha da Web que deseja visualização.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
 ## Clonar uma Campanha da Web {#clone-a-web-campaign}
 
-Consulte [Clonar uma Campanha](clone-a-web-campaign.md)da Web.
+Consulte [Clonar uma Campanha da Web](clone-a-web-campaign.md).
 
 ## Excluir uma Campanha da Web {#delete-a-web-campaign}
 
-1. Na página Campanhas **da** Web, clique em **Excluir **na campanha da Web que você deseja excluir.
+1. Na página **Campanha**, clique em **Excluir **na campanha da Web que você deseja excluir.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
