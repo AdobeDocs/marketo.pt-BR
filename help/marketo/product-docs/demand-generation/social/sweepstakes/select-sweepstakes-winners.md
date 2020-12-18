@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Selecionar Vencedores de Sorteios {#select-sweepstakes-winners}
 
-Ao [publicar sorteios](publish-a-sweepstakes.md), é necessário selecionar vencedores para cada desenho. Ao fazê-lo, seu e-mail [de](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) preenchimento é automaticamente enviado a eles.
+Ao [publicar sorteios](publish-a-sweepstakes.md), é necessário selecionar os vencedores para cada desenho. Ao fazê-lo, seu [email de preenchimento](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) é automaticamente enviado a eles.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Ao [publicar sorteios](publish-a-sweepstakes.md), é necessário selecionar venc
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ Ao [publicar sorteios](publish-a-sweepstakes.md), é necessário selecionar venc
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Clique em **Selecionar** **vencedores**.
+1. Clique em **Escolher** **Vencedores**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
@@ -37,15 +37,15 @@ Ao [publicar sorteios](publish-a-sweepstakes.md), é necessário selecionar venc
    >
    >Para ver uma lista de pessoas que se inscreveram em seus sorteios, clique na guia **Participantes **s.
 
-1. Escolha o número de vencedores, selecione **Estou pronto para escolher** e clique em **Avançar**.
+1. Escolha o número de vencedores, selecione **Estou pronto para selecionar** e clique em **Próximo**.
 
    ![](assets/image2014-9-25-17-3a49-3a2.png)
 
    >[!NOTE]
    >
-   >Se você escolher 0 vencedores para um desenho específico, essas informações não serão exibidas na guia **Vencedores** .
+   >Se você escolher 0 vencedores para um desenho específico, essas informações não serão exibidas na guia **Vencedores**.
 
-1. Clique em **Finalizar** para enviar o e-mail [de](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) disponibilização aos vencedores listados.
+1. Clique em **Finalizar** para enviar o [email de disponibilização](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) aos vencedores listados.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
