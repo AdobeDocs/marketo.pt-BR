@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Mudar de ideia? Não é um problema. É fácil renomear um estágio no modelador do ciclo de receita.
 
-1. Vá para a área **do Analytics** .
+1. Vá para a área **Analytics**.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
@@ -30,5 +30,5 @@ Mudar de ideia? Não é um problema. É fácil renomear um estágio no modelador
    Clique em Fechar.
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Veem? Calma! Lembre-se de [aprovar seu modelo](approve-unapprove-a-revenue-model.md).
+   Veem? Calma! Lembre-se de [Aprovar seu Modelo](approve-unapprove-a-revenue-model.md).
 
