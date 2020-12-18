@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Detalhar em um relatório de desempenho de pessoas {#drill-down-in-a-people-performance-report}
+# Detalhar em um Relatório de desempenho de pessoas {#drill-down-in-a-people-performance-report}
 
 Faça o detalhamento em um Relatório de desempenho de pessoas para ver informações adicionais de pessoas.
 
@@ -23,11 +23,11 @@ Faça o detalhamento em um Relatório de desempenho de pessoas para ver informa�
 
    ![](assets/two.png)
 
-1. Clique em **Drill-Down**.
+1. Clique em **Detalhamento**.
 
    ![](assets/three.png)
 
-1. No pop-up **Drill-Down** , selecione o atributo no qual você deseja detalhar. Em seguida, clique em** Drill-Down**.
+1. Na pop-up **Detalhamento**, selecione o atributo no qual você deseja detalhar. Em seguida, clique em** Drill-Down**.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Faça o detalhamento em um Relatório de desempenho de pessoas para ver informa�
 
    ![](assets/five.png)
 
-1. Para salvar os resultados (opcional), clique no ícone **Exportar** na parte inferior esquerda.
+1. Para salvar seus resultados (opcional), clique no ícone **Exportar** na parte inferior esquerda.
 
    ![](assets/six.png)
 
