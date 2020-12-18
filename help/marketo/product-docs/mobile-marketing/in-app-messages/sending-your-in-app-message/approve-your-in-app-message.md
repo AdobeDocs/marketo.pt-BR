@@ -41,7 +41,7 @@ Você precisa aprovar o envio antes que a mensagem no aplicativo seja enviada.
 
    Você pode pausar ou parar um programa ativo, mas há uma grande diferença entre essas duas opções.
 
-1. Clique em **Pausar Programa** se precisar parar o programa por um tempo, mas retomá-lo mais tarde. Mudará para o status **Pausado** .
+1. Clique em **Pausar Programa** se precisar parar o programa por um tempo, mas retome-o mais tarde. Ele mudará para o status **Pausado**.
 
    ![](assets/image2016-5-12-13-3a50-3a26.png)
 
@@ -49,7 +49,7 @@ Você precisa aprovar o envio antes que a mensagem no aplicativo seja enviada.
    >
    >Os motivos para pausar podem ser apenas para pará-la por algum tempo, ou se você quiser modificar a mensagem ou ajustar o agendamento. No entanto, você não pode mudar para uma mensagem diferente, apenas editar a existente.
 
-1. Quando quiser que o programa pausado continue em execução, clique em **Retomar** **Programa**.
+1. Quando quiser que o programa pausado continue em execução, clique em **Resume** **Programa**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -65,7 +65,7 @@ Você precisa aprovar o envio antes que a mensagem no aplicativo seja enviada.
 
    >[!NOTE]
    >
-   >Quando você interrompe um programa, ele não é mais executado e não pode ser retomado. Se quiser executá-lo novamente, você terá que reconstruí-lo. Portanto, certifique-se de que terminou com um programa antes de clicar em **Parar Programa**!
+   >Quando você interrompe um programa, ele não é mais executado e não pode ser retomado. Se quiser executá-lo novamente, você terá que reconstruí-lo. Portanto, certifique-se de concluir o programa antes de clicar em **Parar Programa**!
 
 ## Painel no aplicativo {#in-app-dashboard}
 
