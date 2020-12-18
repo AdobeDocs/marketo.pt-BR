@@ -27,7 +27,7 @@ Escolha uma palavra para acessar o início do URL de suas landings page. É apen
 
 A única palavra (mais [YourCompany.com](http://YourCompany.com)) é chamada de CNAME. Você precisará disso mais tarde, então anote isso.
 
-## Encontre sua sequência de caracteres de conta {#find-your-account-string}
+## Localize a sua cadeia de caracteres de conta {#find-your-account-string}
 
 1. Vá para a área **Admin** e clique em **Landing page.**
 
@@ -37,7 +37,7 @@ A única palavra (mais [YourCompany.com](http://YourCompany.com)) é chamada de 
    >
    >**Permissões de administrador necessárias**
 
-1. Na guia **Landing** **Pages** , copie a **Account** **String** da seção **Settings (Configurações)** .
+1. Na guia **Página inicial** **Páginas**, copie a **Conta** **Cadeia** da seção **Definições**.
 
    ![](assets/image2014-9-18-16-3a44-3a12.png)
 
@@ -45,21 +45,21 @@ A única palavra (mais [YourCompany.com](http://YourCompany.com)) é chamada de 
 
 ## Enviar solicitação para TI {#send-request-to-it}
 
-Solicite à equipe de TI que configure o seguinte CNAME: Substitua a palavra [CNAME] e [ACCOUNT STRING] pelo texto da etapa anterior.
+Solicite à equipe de TI que configure o seguinte CNAME: (Substitua as palavras [CNAME] e [STRING DE CONTAS] pelo texto da etapa anterior.)
 
-[CNAME]. [YourCompany.com](http://yourcompany.com/) > STRING [DE CONTA]. [mktoweb.com](http://mktoweb.com/)
+[CNAME]. [YourCompany.com](http://yourcompany.com/) > STRING  [DE CONTA]. [mktoweb.com](http://mktoweb.com/)
 
-## Concluir configuração CNAME {#complete-cname-setup}
+## Concluir Configuração CNAME {#complete-cname-setup}
 
-1. Depois que a TI tiver criado o CNAME, vá para **Admin** e clique em **Páginas** de aterrissagem ****.
+1. Depois que a TI tiver criado o CNAME, vá para **Admin** e clique em **Página inicial** **Páginas**.
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
-1. Na seção **Configurações** , clique em **Editar**.
+1. Na seção **Configurações**, clique em **Editar**.
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. Insira seu CNAME no **nome** do **Domínio** **para** **Páginas** ******** ******** **** de aterrissagem, insira seu Fallbackpágina, insira seu Homepage e clique em Salvar.
+1. Insira seu CNAME em **Domínio** **name** **for** **Página de aterrissagem** **Páginas**, digite seu **Fallback** **página&lt;a13>, digite sua** Página inicial **e clique em** Salvar **.**
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
