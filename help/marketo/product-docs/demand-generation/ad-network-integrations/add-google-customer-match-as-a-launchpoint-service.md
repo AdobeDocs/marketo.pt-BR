@@ -27,11 +27,11 @@ Com essa integração, você pode enviar uma audiência de marketing ao Google p
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecione **New** then** New Service* (Novo serviço).
+1. Selecione **Novo** e, em seguida,** Novo serviço**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Digite um **Nome para exibição **e selecione** Correspondência de cliente do Google **no menu suspenso **Serviço** . Clique em **Criar**.
+1. Digite um **Nome para exibição **e selecione** Correspondência de clientes do Google **no menu suspenso **Service**. Clique em **Criar**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Com essa integração, você pode enviar uma audiência de marketing ao Google p
 
    >[!CAUTION]
    >
-   >Para que o Marketo envie audiências através de várias contas AdWords, o usuário do Google autorizado nas etapas a seguir precisa ter acesso a *todas* essas contas.
+   >Para que o Marketo envie audiências através de várias contas AdWords, o usuário do Google autorizado nas etapas a seguir precisa ter acesso a *todas* dessas contas.
 
    ![](assets/chooseaccount.png)
 
