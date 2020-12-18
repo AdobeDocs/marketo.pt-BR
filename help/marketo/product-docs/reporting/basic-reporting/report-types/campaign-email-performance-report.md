@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Relatório de desempenho de email de campanha {#campaign-email-performance-report}
+# Relatório de Desempenho de Email de campanha {#campaign-email-performance-report}
 
-Para ver suas estatísticas de desempenho de e-mail agrupadas por campanha [](http://docs.marketo.com/display/docs/smart+campaigns)inteligente, execute um relatório de Desempenho de e-mail de Campanha.
+Para ver suas estatísticas de desempenho de e-mail agrupadas por [campanha inteligente](http://docs.marketo.com/display/docs/smart+campaigns), execute um relatório de Desempenho de e-mail de Campanha.
 
-1. [Crie um relatório](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o tipo de **relatório Desempenho** de email da [Campanha](report-type-overview.md).
-1. [Defina o período do relatório](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **Relatório** .
+1. [Crie um ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) relatório e selecione o tipo **** [Campanha Email ](report-type-overview.md)Performancereport.
+1. [Defina o período do seu ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) relatório e clique na guia  **** Relatório.
 1. Agora, explore o relatório para ver como cada email em suas campanhas se comporta.
 
    ![](assets/image2014-9-16-16-3a19-3a59.png)
@@ -25,7 +25,7 @@ Para ver suas estatísticas de desempenho de e-mail agrupadas por campanha [](ht
    >
    >Clique no nome de um email para abri-lo no Visualizador de email.
 
-   [As colunas que você pode selecionar](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)para um relatório de Desempenho de email de Campanha incluem:
+   [As colunas que você pode selecionar ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)para um relatório de Desempenho de email de Campanha incluem:
 
    | Coluna | Descrição |
    |---|---|
@@ -33,11 +33,11 @@ Para ver suas estatísticas de desempenho de e-mail agrupadas por campanha [](ht
    | Rejeitado macio | O email foi rejeitado devido a uma condição temporária, como um servidor que estava inativo ou uma caixa de entrada completa. |
    | Pendente | O email ainda está sendo entregue. |
    | Link clicado | Número de recipient de email que clicaram em um link no email. |
-   | Inscrito | Número de recipient de email que clicaram no link **Cancelar inscrição** no email e preencheram o formulário. |
+   | Inscrito | Número de recipient de e-mail que clicaram no link **Cancelar assinatura** no e-mail e preencheram o formulário. |
 
    >[!NOTE]
    >
-   >Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por exemplo, se alguém clicou em um link em um email, eles obviamente o abriram primeiro. Para obter as regras específicas que seguimos, consulte o Relatório [de desempenho de](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)email.
+   >Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por exemplo, se alguém clicou em um link em um email, eles obviamente o abriram primeiro. Para obter as regras específicas que seguimos, consulte [Relatório de desempenho de email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
    >[!NOTE]
    >
@@ -54,5 +54,5 @@ Para ver suas estatísticas de desempenho de e-mail agrupadas por campanha [](ht
    >**Mergulho profundo**
    >
    >
-   >Saiba mais sobre o Relatórios [básico.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Saiba mais em [Relatórios básico.](http://docs.marketo.com/display/docs/basic+reporting)
 
