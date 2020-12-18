@@ -19,27 +19,27 @@ A Análise do ciclo de receita pode gerar relatórios sobre campos de marketing 
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a seção **Admin** .
+1. Vá para a seção **Admin**.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Selecione Análise **do ciclo de** receita.
+1. Selecione **Análises do ciclo de receita**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Clique na guia Sincronização **de campo** personalizado e selecione a área de análise de sua escolha.
+1. Clique na guia **Sincronização de campo personalizado** e selecione a área de análise de sua escolha.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
-1. Selecione o campo para o qual deseja ativar a sincronização e clique em **Editar opção** de sincronização.
+1. Selecione o campo para o qual deseja habilitar a sincronização e clique em **Editar opção de sincronização**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Altere o Status **de** sincronização para **Ativado**.
+1. Altere **Sincronizar status** para **Ativado**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Selecione o Tipo **** RCA de sua escolha e clique em **Salvar**.
+1. Selecione **Tipo RCA** de sua escolha e clique em **Salvar**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
