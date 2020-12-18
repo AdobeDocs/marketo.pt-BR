@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Alterar o URL da Landing page {#change-the-landing-page-url}
+# Alterar o URL de Landing page {#change-the-landing-page-url}
 
 Você pode modificar um URL de landing page**.** Isso pode ajudar a tornar o URL mais fácil de lembrar e melhorar a SEO.
 
-1. Selecione sua landing page. Clique no menu suspenso Ações **de** Landing page, role até Ferramentas **de** URL e selecione **Editar configurações de URL.**
+1. Selecione sua landing page. Clique no menu suspenso **Ações de Landing page**, vá até **Ferramentas de URL** e selecione **Editar Definições de URL.**
 
    ![](assets/one.png)
 
-1. Insira o **novo URL**, escolha a opção de descartar ou redirecionar o URL antigo e clique em **Salvar.**
+1. Digite o **Novo URL**, escolha a opção de descartar ou redirecionar o URL antigo e clique em **Salvar.**
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Se você decidir manter os dois URLs, uma regra de redirecionamento será criada automaticamente. Saiba mais sobre redirecionamentos [de](http://docs.marketo.com/display/public/DOCS/Redirect+a+URL+Path)URL.
+   >Se você decidir manter os dois URLs, uma regra de redirecionamento será criada automaticamente. Saiba mais sobre [redirecionamentos de URL](http://docs.marketo.com/display/public/DOCS/Redirect+a+URL+Path).
 
