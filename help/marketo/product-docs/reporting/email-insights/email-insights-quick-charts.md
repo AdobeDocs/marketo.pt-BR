@@ -39,11 +39,11 @@ Neste exemplo, nós escolheremos a taxa aberta para as três primeiras semanas d
 
    ![](assets/5.png)
 
-1. No lado direito do gráfico, clique no ícone de exportação e selecione **Salvar como gráfico** rápido.
+1. No lado direito do gráfico, clique no ícone de exportação e selecione **Salvar como Gráfico Rápido**.
 
    ![](assets/six.png)
 
-1. Dê um nome ao seu Gráfico rápido e clique em **Salvar**.
+1. Nomeie seu Gráfico Rápido e clique em **Salvar**.
 
    ![](assets/seven.png)
 
@@ -61,15 +61,15 @@ Neste exemplo, nós escolheremos a taxa aberta para as três primeiras semanas d
    >
    >Para mover qualquer gráfico rápido, basta clicar e arrastá-lo para a posição desejada.
 
-## Excluir um gráfico rápido {#delete-a-quick-chart}
+## Excluir um Gráfico Rápido {#delete-a-quick-chart}
 
 Deseja excluir um de seus Gráficos Rápidos? É fácil!
 
-1. Clique no ícone Gráficos **** Rápidos.
+1. Clique no ícone **Gráficos Rápidos**.
 
    ![](assets/nine.png)
 
-1. Passe o cursor do mouse sobre o gráfico desejado, mas não clique nele. Ao passar o mouse, um X será exibido. Clique no **X**.
+1. Passe o cursor do mouse sobre o gráfico desejado, mas não clique nele. Ao passar o mouse, um X será exibido. Clique em **X**.
 
    ![](assets/ten.png)
 
