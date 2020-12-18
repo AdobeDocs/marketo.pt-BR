@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Clique em seu **Snippet** e, em **Snippet Actions (Ações** de trecho), clique em **Aprovar**.
+1. Clique em **Snippet** e, em **Snippet Actions**, clique em **Aprovar**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
