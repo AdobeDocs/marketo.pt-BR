@@ -21,11 +21,11 @@ ht-degree: 0%
 
 
 
-1. Selecione sua landing page de forma livre e clique em **Editar** **rascunho**.
+1. Selecione sua landing page de forma livre e clique em **Editar** **Rascunho**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. No editor, arraste sobre o elemento **Imagem** .
+1. No editor, arraste sobre o elemento **Image**.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
