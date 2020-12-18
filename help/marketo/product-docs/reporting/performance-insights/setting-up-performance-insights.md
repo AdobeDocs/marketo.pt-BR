@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configurando insights de desempenho {#setting-up-performance-insights}
+# Configurando Insights de Desempenho {#setting-up-performance-insights}
 
 Siga as etapas abaixo para configurar a MPI.
 
@@ -21,13 +21,13 @@ Siga as etapas abaixo para configurar a MPI.
 
    ![](assets/admin.png)
 
-1. Clique em Análise **do ciclo de** receita.
+1. Clique em **Análises do ciclo de receita**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Se você não tiver RCA, será necessário selecionar Análise **de** Programa para a Etapa 2.
+   >Se você não tiver RCA, será necessário selecionar **Análise do Programa** para a Etapa 2.
 
 1. Em Atribuição, clique em **Editar**.
 
@@ -59,7 +59,7 @@ Siga as etapas abaixo para configurar a MPI.
 
 Atualize os custos do programa por pelo menos 12 meses. É possível fazer isso manualmente ou usando a API do programa. Neste exemplo fazemos manualmente.
 
-1. Clique em **Atividades** de marketing.
+1. Clique em **Atividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -67,11 +67,11 @@ Atualize os custos do programa por pelo menos 12 meses. É possível fazer isso 
 
    ![](assets/select-program.png)
 
-1. Clique na guia **Configuração** .
+1. Clique na guia **Configuração**.
 
    ![](assets/setup-tab.png)
 
-1. Arraste o Custo **do** Período para a tela.
+1. Arraste **Custo do Período** para a tela.
 
    ![](assets/period-cost.png)
 
@@ -93,7 +93,7 @@ Em seguida, analise o comportamento do Analytics para indicar se um canal espec�
 
    ![](assets/tags.png)
 
-1. Clique no botão **+** para expandir a lista do Canal.
+1. Clique em **+** para expandir a lista do Canal.
 
    ![](assets/channel.png)
 
@@ -101,7 +101,7 @@ Em seguida, analise o comportamento do Analytics para indicar se um canal espec�
 
    ![](assets/channel-click.png)
 
-1. Clique no menu suspenso Comportamento **do** Analytics e selecione o comportamento desejado.
+1. Clique na lista suspensa **Comportamento do Analytics** e selecione o comportamento desejado.
 
    ![](assets/edit-channel.png)
 
@@ -113,7 +113,7 @@ Em seguida, analise o comportamento do Analytics para indicar se um canal espec�
 
    ![](assets/save.png)
 
-## Vincular o Programa à pessoa {#tie-the-program-to-the-person}
+## Vincule o Programa à Pessoa {#tie-the-program-to-the-person}
 
 1. Verifique se o Programa de aquisição e a Data de aquisição foram definidos para cada pessoa no banco de dados para que a Atribuição de primeiro contato funcione.
 1. Certifique-se de que seus programas estejam configurando estados de sucesso para suas pessoas.
