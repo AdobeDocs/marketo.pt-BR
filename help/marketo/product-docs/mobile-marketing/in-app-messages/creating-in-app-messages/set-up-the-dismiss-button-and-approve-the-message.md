@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configure o botão Dismiss e aprove a mensagem {#set-up-the-dismiss-button-and-approve-the-message}
 
-## Configurar propriedades do botão Dismiss  {#configure-dismiss-button-properties}
+## Configurar Propriedades do Botão Dismiss {#configure-dismiss-button-properties}
 
 O botão Dismiss tem várias opções para permitir que você configure-o da maneira que desejar.
 
@@ -45,11 +45,11 @@ O botão Dismiss tem várias opções para permitir que você configure-o da man
    >
    >Você deve dar ao botão Dismiss uma ação de toque, de modo que não há caixa de seleção para ativá-lo. Dismiss Message é a opção padrão (e óbvia).
 
-## Envolva-o {#wrap-it-up}
+## Encapsule {#wrap-it-up}
 
 Todas as suas seleções para gráficos, texto e botões foram salvas automaticamente. Agora, você está pronto para terminar o trabalho.
 
-1. Para pré-visualização sua mensagem no aplicativo, clique no menu suspenso Ações **da** mensagem e selecione **Pré-visualização**.
+1. Para pré-visualização sua mensagem no aplicativo, clique no menu suspenso **Ações de mensagem** e selecione **Pré-visualização**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -63,7 +63,7 @@ Todas as suas seleções para gráficos, texto e botões foram salvas automatica
 
    >[!NOTE]
    >
-   >Você também pode selecionar **Aprovar e fechar** diretamente no menu suspenso Ações da mensagem (consulte a etapa 1), mas por que não pré-visualização a mensagem primeiro, apenas para ser seguro?
+   >Você também pode selecionar **Aprovar e fechar** diretamente do menu suspenso Ações da mensagem (consulte a etapa 1), mas por que não pré-visualização a mensagem primeiro, apenas para ser seguro?
 
 1. Para fechar o editor sem aprovar, basta fechar a guia. Ele é salvo automaticamente, portanto, você pode retornar e aprová-lo mais tarde.
 
