@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Relatórios de pessoa de grupo por segmento {#group-person-reports-by-segment}
 
-Você pode agrupar seus relatórios [de](http://docs.marketo.com/display/docs/basic+reporting) pessoa por qualquer [segmento](http://docs.marketo.com/display/docs/basic+reporting) que você tenha [definido em suas segmentações](create-a-segmentation.md).
+Você pode agrupar seus [relatórios de pessoa](http://docs.marketo.com/display/docs/basic+reporting) por qualquer [segmento](http://docs.marketo.com/display/docs/basic+reporting) que você tenha [definido em suas segmentações](create-a-segmentation.md).
 
-1. Vá para a seção **Marketing Atividade** (ou **Analytics**).
+1. Vá para a seção **Atividades de marketing** (ou **Analytics**).
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -28,17 +28,17 @@ Você pode agrupar seus relatórios [de](http://docs.marketo.com/display/docs/ba
    >**Mergulho profundo**
    >
    >
-   >Saiba mais sobre os relatórios pessoais e outros tipos de relatórios no aprofundamento do Relatórios [](http://docs.marketo.com/display/docs/basic+reporting) básico.
+   >Saiba mais sobre os relatórios pessoais e outros tipos de relatórios no aprofundamento do [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
-1. Clique na guia **Configuração** e clique com o duplo em **Agrupar pessoas por**.
+1. Clique na guia **Configuração** e clique no duplo **Agrupar pessoas por**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >Você também pode [agrupar seus relatórios de pessoa por atributo](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute)de pessoa ou empresa.
+   >Você também pode [agrupar seus relatórios pessoais por pessoa ou atributo de empresa](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute).
 
-1. Na caixa de diálogo **Agrupar pessoas por** , digite o start &quot;Segmentação&quot; na caixa de texto. Quando o cabeçalho **Segmentações** for exibido, selecione um na lista abaixo do cabeçalho.
+1. Na caixa de diálogo **Agrupar pessoas por**, start digitando &#39;Segmentação&#39; na caixa de texto. Quando o cabeçalho **Segmentações** for exibido, selecione um na lista abaixo do cabeçalho.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
@@ -50,7 +50,7 @@ Você pode agrupar seus relatórios [de](http://docs.marketo.com/display/docs/ba
 >
 >**Mergulho profundo**
 >
->Para saber mais sobre segmentos e como criá-los e gerenciá-los, consulte o mergulho profundo da [segmentação](http://docs.marketo.com/display/docs/segmentation+and+snippets) .
+>Para saber mais sobre os segmentos e como criá-los e gerenciá-los, consulte o aprofundamento de [Segmentação](http://docs.marketo.com/display/docs/segmentation+and+snippets).
 
 >[!MORELIKETHIS]
 >
