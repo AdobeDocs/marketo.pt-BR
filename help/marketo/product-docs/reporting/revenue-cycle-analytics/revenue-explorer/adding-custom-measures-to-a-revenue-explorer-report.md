@@ -21,8 +21,8 @@ No exemplo abaixo, você está criando uma medida calculada para rejeições sua
 >
 >Você precisa de pelo menos uma métrica em seu relatório, mas não precisa ser uma das medidas que você usa para definir sua medida personalizada.
 
-1. Passe o mouse sobre os campos necessários para o seu relatório. Consulte [Adicionar campos a um relatório](adding-fields-to-a-revenue-explorer-report.md) do Explorador de receita para obter detalhes.
-1. Clique com o botão direito do mouse em uma métrica existente (célula azul), clique em Medida **definida pelo** usuário e selecione Medida **** calculada.
+1. Passe o mouse sobre os campos necessários para o seu relatório. Consulte [Adicionar campos a um relatório do Revenue Explorer](adding-fields-to-a-revenue-explorer-report.md) para obter detalhes.
+1. Clique com o botão direito do mouse em uma métrica existente (célula azul), clique em **Medida Definida pelo Usuário** e selecione **Medida Calculada**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
