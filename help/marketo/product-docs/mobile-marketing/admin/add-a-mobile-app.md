@@ -35,7 +35,7 @@ Os aplicativos normalmente são start em um ambiente sandbox, onde o desenvolvim
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Insira um nome. Na lista suspensa **Tipo** , selecione o tipo de ambiente que você está usando: Sandbox ou Production (Produção). Clique em **Salvar**.
+1. Insira um nome. Na lista suspensa **Tipo**, selecione o tipo de ambiente que você está usando — Sandbox ou Production. Clique em **Salvar**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
