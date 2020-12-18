@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Visão geral de envios de insights de email {#email-insights-sends-overview}
+# Insights de Email Envia Visão Geral {#email-insights-sends-overview}
 
 Na página Envios, examine as características da recente comunicação por email.
 
 ![](assets/one.png)
 
-Use a [filtragem](filtering-in-email-insights.md) para especificar quais emails você deseja visualizar.
+Use [filtragem](filtering-in-email-insights.md) para especificar quais emails você deseja ver.
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ No lado direito da página, há várias informações relacionadas aos emails en
 
 ![](assets/two-1.png)
 
-**Tipo** indica o tipo de ativo usado.\
-**O número do recipient** é quantas pessoas foram enviadas ao email.\
-**As métricas** de delivery fornecem uma visualização rápida de quantos e-mails foram entregues, estão pendentes ou foram enviados.\
-**As Métricas** de envolvimento fornecem uma visualização rápida de quantos recipient abriram, clicaram e cancelaram a assinatura de um email.\
-**A pontuação** é a Pontuação de [envolvimento](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)do seu email.
+**** Type indica o tipo de ativo usado.\
+**O** Número do destinatário é quantas pessoas foram enviadas ao email.\
+**As** métricas de delivery fornecem uma visualização rápida de quantos e-mails foram entregues, estão pendentes ou foram enviados.\
+**As** métricas de envolvimento fornecem uma visualização rápida de quantos recipient abriram, clicaram e cancelaram a assinatura de um email.\
+**O** Scorean é a sua  [Pontuação](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) de envolvimento por email.
 
 Por padrão, seus emails são classificados pela mais recente, mas você pode classificá-los por qualquer métrica disponível.
 
