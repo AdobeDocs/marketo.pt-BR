@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# Inscrever-se em um relatório básico {#subscribe-to-a-basic-report}
+# Assine um relatório básico {#subscribe-to-a-basic-report}
 
-Para receber atualizações automáticas de um relatório [](http://docs.marketo.com/display/docs/basic+reporting)básico, ou para compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
+Para receber atualizações automáticas de um [relatório básico](http://docs.marketo.com/display/docs/basic+reporting), ou para compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
 
 >[!NOTE]
 >
->Para subscrições de relatório do [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) , consulte [Assinar um Relatório](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)do Revenue Explorer.
+>Para obter subscrições de relatório do [Explorador do Ciclo de Receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics), consulte [Inscrever-se num Relatório do Explorador de Receitas](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Vá para a área **Atividades de marketing **i.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Selecione seu relatório na árvore de navegação e clique na guia **Subscrição** .
+1. Selecione seu relatório na árvore de navegação e clique na guia **Subscrição**.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >Também é possível assinar relatórios na guia **Analytics** .
+   >Você também pode assinar relatórios da guia **Analytics**.
 
-1. Clique em **Nova Subscrição** de relatório.
+1. Clique em **Nova Subscrição de relatório**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -52,12 +52,12 @@ Para receber atualizações automáticas de um relatório [](http://docs.marketo
    >**Artigos relacionados**
    >
    >
-   >Saiba como [gerenciar todas as subscrições](manage-report-subscriptions.md) de relatório em um único lugar.
+   >Saiba como [gerenciar todas as subscrições de relatório](manage-report-subscriptions.md) em um único lugar.
 
    >[!NOTE]
    >
    >**Mergulho profundo**
    >
    >
-   >Veja o que mais você pode fazer com relatórios no mergulho profundo do Relatórios [](http://docs.marketo.com/display/docs/basic+reporting) Básico.
+   >Veja o que mais você pode fazer com os relatórios no aprofundamento do [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
