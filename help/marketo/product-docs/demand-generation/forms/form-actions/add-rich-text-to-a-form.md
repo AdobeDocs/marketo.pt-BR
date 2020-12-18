@@ -19,11 +19,11 @@ Use Rich Text em um Formulário para adicionar instruções ou outras informaç�
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Clique no sinal **+** .
+1. Clique no sinal **+**.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
@@ -47,7 +47,7 @@ Use Rich Text em um Formulário para adicionar instruções ou outras informaç�
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
@@ -61,4 +61,4 @@ Use Rich Text em um Formulário para adicionar instruções ou outras informaç�
 >
 >Saiba mais sobre [formulários](http://docs.marketo.com/display/docs/forms).
 
-Você sabia que também pode [adicionar regras](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) de visibilidade a um bloco de texto avançado?
+Você sabia que também pode [adicionar regras de visibilidade](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) a um bloco de texto avançado?
