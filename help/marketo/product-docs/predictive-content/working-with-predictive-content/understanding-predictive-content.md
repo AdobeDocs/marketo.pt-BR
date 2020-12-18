@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para os usuários do Predictive Content, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Conteúdo`<sup>AI</sup>`do Marketing.
+>Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
-Depois de [aprovar um título para conteúdo](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)preditivo, você trabalha nele aqui. A página Conteúdo preditivo exibe todos os títulos que você aprovou para conteúdo preditivo.
+Depois de [aprovar um título para conteúdo preditivo](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), você trabalha nele aqui. A página Conteúdo preditivo exibe todos os títulos que você aprovou para conteúdo preditivo.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -50,7 +50,7 @@ A análise de conteúdo habilitado para filtragem permite ver o desempenho de ca
 
 ![](assets/image2017-10-3-9-3a25-3a34.png)
 
-## Exibir análises por data {#display-analytics-by-date}
+## Exibir o Analytics por data {#display-analytics-by-date}
 
 1. selecione as datas de start e término à direita (como mostrado). Clique em **Aplicar**.
 
