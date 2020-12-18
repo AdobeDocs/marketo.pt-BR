@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Clonagem de um grupo de teste de Landing page {#cloning-a-landing-page-test-group}
+# Clonando um grupo de teste de Landing page {#cloning-a-landing-page-test-group}
 
 No Design Studio, você pode encontrar e duplicado um grupo de teste de landing page.
 
@@ -19,19 +19,19 @@ No Design Studio, você pode encontrar e duplicado um grupo de teste de landing 
 
    ![](assets/image2015-4-27-15-3a11-3a24.png)
 
-1. Dê um novo **Nome** a esta página clonada. As páginas clonadas aparecem na parte inferior da pasta atual.
+1. Dê a esta página clonada um novo **Nome**. As páginas clonadas aparecem na parte inferior da pasta atual.
 
    ![](assets/image2015-4-27-16-3a10-3a10.png)
 
-1. Agora, crie um novo grupo de teste clicando em **Novo** e selecionando **Novo grupo** de teste.
+1. Agora, crie um novo grupo de teste clicando em **Novo** e selecionando **Novo grupo de teste**.
 
    ![](assets/image2015-4-27-15-3a49-3a54.png)
 
-1. Na caixa de diálogo Criar novas Landings page, digite o novo **Nome** do grupo de teste.
+1. Na caixa de diálogo Criar novas Landings page, digite o novo grupo de teste **Nome**.
 
    ![](assets/image2015-4-27-15-3a58-3a13.png)
 
-1. Na parte inferior da caixa de diálogo, selecione as páginas clonadas na lista **Landings page** disponíveis e clique na seta que aponta para a direita para incluí-la nas Landings page **** testadas. Faça isso para todas as landings page que desejar neste grupo.
+1. Na parte inferior da caixa de diálogo, selecione as páginas clonadas na lista **Landings page disponíveis** e clique na seta que aponta para a direita para incluí-la nas **Landings page testadas**. Faça isso para todas as landings page que desejar neste grupo.
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
@@ -39,7 +39,7 @@ No Design Studio, você pode encontrar e duplicado um grupo de teste de landing 
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
-1. Quando estiver pronto para iniciar o grupo de teste, clique com o botão direito do mouse no grupo na árvore e selecione **Aprovar grupo** de teste.
+1. Quando estiver pronto para iniciar o grupo de teste, clique com o botão direito do mouse no grupo na árvore e selecione **Aprovar grupo de teste**.
 
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
