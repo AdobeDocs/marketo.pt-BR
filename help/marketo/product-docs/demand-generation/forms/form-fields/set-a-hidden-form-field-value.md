@@ -19,13 +19,13 @@ Campos ocultos normalmente são preenchidos dinamicamente. Elas não são mostra
 >
 >[Definir um campo de formulário como oculto](set-a-form-field-as-hidden.md)
 
-## Selecionar o campo {#select-the-field}
+## Selecione o campo {#select-the-field}
 
-1. No formulário, selecione o campo oculto e clique em **Editar** para preenchimento **automático**.
+1. No formulário, selecione o campo oculto e clique em **Editar** para **Preenchimento automático**.
 
    ![](assets/autofill.png)
 
-## Usar valor padrão {#use-default-value}
+## Usar Valor Padrão {#use-default-value}
 
 Ao selecionar Usar valor padrão, é possível codificar um valor específico para ser sempre usado quando esse formulário for enviado. Insira o Valor padrão e clique em Salvar.
 
@@ -33,17 +33,17 @@ Ao selecionar Usar valor padrão, é possível codificar um valor específico pa
 
 ## Parâmetro de URL {#url-parameter}
 
-Se desejar capturar Parâmetros de URL (Strings de Query) da página em que a pessoa está ao preencher o formulário, você pode usar **Parâmetros** de **URL** para preencher o campo oculto.
+Se desejar capturar Parâmetros de URL (Strings de Query) da página em que a pessoa está ao preencher o formulário, você pode usar **URL** **Parâmetros** para preencher o campo oculto.
 
 >[!NOTE]
 >
->Parâmetros são meio técnicos, não são? Uma vez que você os pega, eles são poderosos. Esta página da [Wikipedia sobre Strings](http://en.wikipedia.org/wiki/Query_string) de Query é útil.
+>Parâmetros são meio técnicos, não são? Uma vez que você os pega, eles são poderosos. Esta [página da Wikipedia sobre Strings de Query](http://en.wikipedia.org/wiki/Query_string) é útil.
 
-1. Selecione Parâmetro **de** URL para Tipo **de** Obtenção de Valor.
+1. Selecione **Parâmetro de URL** para **Obter Tipo de Valor**.
 
    ![](assets/image2014-9-15-13-3a6-3a48.png)
 
-1. Digite o Nome **do** parâmetro e clique em **Salvar**.
+1. Digite o **Nome do parâmetro** e clique em **Salvar**.
 
    ![](assets/image2014-9-15-13-3a7-3a35.png)
 
@@ -53,9 +53,9 @@ Se desejar capturar Parâmetros de URL (Strings de Query) da página em que a pe
 
 ## Valor do cookie {#cookie-value}
 
-Se você estiver armazenando dados em cookies, poderá usar **Cookie** **Value** para coletar dados quando o formulário for enviado.
+Se você estiver armazenando dados em cookies, poderá usar **Cookie** **Valor** para coletar dados quando o formulário for enviado.
 
-1. Selecione **Cookie** **Value** para **Obter** **valor** **de**.
+1. Selecione **Cookie** **Valor** para **Get** **Valor** **De**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,26 +69,26 @@ Se você estiver armazenando dados em cookies, poderá usar **Cookie** **Value**
 
 ## Parâmetro de quem indicou {#referrer-parameter}
 
-Se você quiser capturar dados da página de onde o visitante veio antes de preencher o formulário, use o **Quem indicou** **Parâmetro**.
+Se você quiser capturar dados da página de onde o visitante veio antes de preencher o formulário, use **Quem indicou** **Parâmetro**.
 
-1. Defina **Obter** **valor** **de** para **Quem indicou** **Parâmetro**.
+1. Defina **Get** **Valor** **De** para **Quem indicou** **Parâmetro**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
-1. Digite o Nome **do** parâmetro que você deseja ajustar do URL da quem indicou e clique em **Salvar**.
+1. Digite o **Nome do parâmetro** que você deseja coletar do URL da quem indicou e clique em **Salvar**.
 
    ![](assets/image2014-9-15-13-3a9-3a56.png)
 
    >[!TIP]
    >
-   >Você pode inserir um **Valor** **Padrão** caso o parâmetro de quem indicou não seja encontrado.
+   >Você pode inserir um **Padrão** **Valor** caso o parâmetro de quem indicou não seja encontrado.
 
 1. Clique em **Concluir**.
 
    ![](assets/image2014-9-15-13-3a10-3a26.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
 
-Doce! Você está indo muito bem. Há mais para aprender sobre [formas](http://docs.marketo.com/display/docs/forms).
+Doce! Você está indo muito bem. Há mais informações sobre [formulários](http://docs.marketo.com/display/docs/forms).
