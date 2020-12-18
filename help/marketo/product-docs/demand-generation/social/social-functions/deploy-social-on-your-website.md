@@ -27,11 +27,11 @@ Você pode implantar aplicativos sociais em seu próprio site para engajar sua a
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Selecione **Incorporar** **código***** **em Ações do aplicativo social.
+1. Selecione **Incorporar** **Código***** **nas Ações do aplicativo social.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Copie o código para o cabeçalho (`<head>`) e o corpo (`<body>`) da página do site.
+1. Copie o código para o cabeçalho da página do site (`<head>`) e o corpo (`<body>`).
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -43,7 +43,7 @@ Você pode implantar aplicativos sociais em seu próprio site para engajar sua a
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Se precisar definir o tamanho do aplicativo social para dimensões específicas na página, adicione as opções **outsideHeight** e **externalWidth** ao segundo trecho de código. Por exemplo, você pode adicionar opções=&#39;{&quot;externalHeight&quot;:400, &quot;externalWidth&quot;:600}&#39;, como em:
+1. Se precisar definir o tamanho do aplicativo social para dimensões específicas na página, adicione as opções **externalHeight** e **externalWidth** ao segundo trecho de código. Por exemplo, você pode adicionar opções=&#39;{&quot;externalHeight&quot;:400, &quot;externalWidth&quot;:600}&#39;, como em:
 
    ![](assets/socialonsite-resizewidget2.png)
 
