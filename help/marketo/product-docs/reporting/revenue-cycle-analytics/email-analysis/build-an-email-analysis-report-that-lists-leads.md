@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Criar um relatório de Análise por email que o Lista lidera {#build-an-email-analysis-report-that-lists-leads}
+# Crie um relatório de Análise por email que o Lista lidera {#build-an-email-analysis-report-that-lists-leads}
 
 >[!NOTE]
 >
