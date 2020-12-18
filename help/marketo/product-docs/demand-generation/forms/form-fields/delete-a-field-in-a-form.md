@@ -19,17 +19,17 @@ Se houver um campo desnecessário no formulário, ele poderá ser facilmente exc
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Selecione o campo e clique no ícone **excluir** .
+1. Selecione seu campo e clique no ícone **delete**.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 Clique em Concluir.
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. Clique em **Aprovar e fechar.**
+1. Clique em **Aprovar e Fechar.**
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 
@@ -37,6 +37,6 @@ Clique em Concluir.
 >
 >**Lembrete**
 >
->Não se esqueça de [aprovar o rascunho](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de landing page criado pelas alterações de formulário.
+>Não se esqueça de [aprovar o rascunho de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
 Como você achou difícil excluir um campo?
