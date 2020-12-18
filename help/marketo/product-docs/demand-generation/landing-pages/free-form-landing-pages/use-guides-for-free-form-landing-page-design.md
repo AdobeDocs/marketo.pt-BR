@@ -17,7 +17,7 @@ Ao projetar uma landing page de forma livre, você pode usar guias para ajudar a
 
 >[!NOTE]
 >
->As guias só estão disponíveis no editor de landing page de **forma** livre **** .
+>As guias só estão disponíveis no editor de landings page **Free**-**form**.
 
 1. Selecione uma **Landing page** e clique em **Editar rascunho**.
 
