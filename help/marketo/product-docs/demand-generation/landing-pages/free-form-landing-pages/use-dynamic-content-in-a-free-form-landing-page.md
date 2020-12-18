@@ -27,7 +27,7 @@ Usar conteúdo dinâmico no Landing page envolve sua audiência com informaçõe
 
 ## Adicionar segmentação {#add-segmentation}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -53,11 +53,11 @@ Usar conteúdo dinâmico no Landing page envolve sua audiência com informaçõe
 
 ## Tornar o elemento dinâmico {#make-element-dynamic}
 
-1. Arraste e solte os elementos de conteúdo dinâmico em **Estático** para **Dinâmico.**
+1. Arraste e solte os elementos de conteúdo dinâmico de **Estático** para **Dinâmico.**
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. Você também pode tornar elementos **estáticos** ou **dinâmicos** a partir das **Configurações do elemento.**
+1. Você também pode tornar elementos **Estáticos** ou **Dinâmicos** do elemento **Configurações.**
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
