@@ -23,15 +23,15 @@ O Marketo facilita a personalização da aparência de seus formulários. Uma co
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Em **Configurações** de formulário **, selecione** Configurações ****.
+1. Em **Formulário** **Definições**, selecione **Definições**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Selecione o **Tamanho da fonte** **desejado** .
+1. Selecione **Fonte** **Tamanho** que você deseja.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
@@ -39,7 +39,7 @@ O Marketo facilita a personalização da aparência de seus formulários. Uma co
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    >[!NOTE]
    >
