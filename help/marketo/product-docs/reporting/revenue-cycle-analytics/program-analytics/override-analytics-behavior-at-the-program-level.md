@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Substituir o comportamento do Analytics no nível do Programa {#override-analytics-behavior-at-the-program-level}
 
-Você pode definir o comportamento do [Analytics no nível do administrador em canais](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) , mas também pode substituí-lo no nível do programa. Veja como:
+Você pode definir o comportamento [analytics no nível de administrador em canais](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), mas também pode substituí-lo no nível do programa. Veja como:
 
 1. Vá para a área Atividades de marketing.
 
@@ -33,13 +33,13 @@ Você pode definir o comportamento do [Analytics no nível do administrador em c
    >
    >**Definição**
    >
-   >* **Inclusivo** - Essa opção garantirá que o programa esteja disponível para relatórios no explorador e analisadores de receita, independentemente de você ter incluído um custo de período ou não.
-   >* **Operacional** - Essa opção resulta na não exibição do programa no explorador de receita ou nos analisadores.
+   >* **Inclusivo**  - Essa opção garantirá que o programa esteja disponível para relatórios no explorador e analisadores de receita, independentemente de você ter incluído um custo de período ou não.
+   >* **Operacional**  - Essa opção resulta na não exibição do programa no explorador de receita ou nos analisadores.
 
 
    >[!NOTE]
    >
-   >O comportamento padrão (se essa configuração não for aplicada) é que o programa será incluído no Analytics **SOMENTE se houver pelo menos um custo** de período, mesmo um com zero dólares atribuídos.
+   >O comportamento padrão (se essa configuração não for aplicada) é que o programa será incluído no Analytics **SOMENTE se houver pelo menos um período de custo**, mesmo um com zero dólares atribuídos.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
