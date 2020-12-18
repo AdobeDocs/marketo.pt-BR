@@ -15,26 +15,26 @@ ht-degree: 0%
 
 Qualquer relatório em **Meus relatórios **só é visível para você. E se você quisesse tornar o relatório acessível a todos os outros? Veja como você pode fazer isso:
 
-1. Na área **Analytics **, clique no relatório [](../../../../product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)salvo desejado.
+1. Na área **Analytics **, clique no [relatório salvo](../../../../product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) desejado.
 1. ![](assets/image2015-4-21-11-3a25-3a54.png)
 
    >[!NOTE]
    >
    >Como alternativa, um relatório salvo pode ser clonado para **Relatórios de grupo **arrastando o relatório para a pasta.
 
-1. Clique em **Ações de relatório **e selecione **Clonar relatório**.
+1. Clique em **Ações de relatório **e selecione **Clone Report**.
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. **Clonar para** um **Analytics (Grupo)** e selecionar uma **pasta**.
+1. **Clonar** Toa  **Analytics (Grupo)** e selecionar uma  **Pasta**.
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
-1. **Nomeie** o relatório e clique em **Clonar**.
+1. **Nomeie** o relatório e clique em  **Clonar**.
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
-   Legal! Seu relatório agora será exibido em Relatórios **de grupo.**
+   Legal! Seu relatório será exibido em **Relatórios de grupo.**
 
    ![](assets/image2015-4-21-11-3a37-3a25.png)
 
