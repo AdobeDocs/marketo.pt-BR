@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Clonagem de um modelo de receita de exemplo de marketing {#cloning-a-marketo-example-revenue-model}
+# Clonar um modelo de receita de exemplo de marketing {#cloning-a-marketo-example-revenue-model}
 
 O Marketo tem exemplos de modeladores de receita para ajudar a inspirá-lo. Clonar esses modeladores e torná-los seus. Veja como:
 
-1. Vá para a área **do Analytics** .
+1. Vá para a área **Analytics**.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Selecione a pasta **Revenue Cycle Modeler **e clique em **Exemplos** de marketing.
+1. Selecione a pasta **Revenue Cycle Modeler **e clique em **Exemplos de marketing**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -30,7 +30,7 @@ O Marketo tem exemplos de modeladores de receita para ajudar a inspirá-lo. Clon
    Em Ações do modelo, selecione Modelo de clone.
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Insira um **Nome **e clique em **CLONE**.
+1. Insira um **Name **e clique em **CLONE**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 
