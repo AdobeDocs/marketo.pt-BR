@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >O designer de landings page abre em uma nova janela.
 
-1. Arraste sobre o elemento **Rich Text** .
+1. Arraste sobre o elemento **Rich Text**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
@@ -65,7 +65,7 @@ Tokens são bits dinâmicos de texto que podem personalizar sua landing page.
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Insira um valor **** padrão e clique em **Inserir**.
+1. Insira um **Valor Padrão** e clique em **Inserir**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
