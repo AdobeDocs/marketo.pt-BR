@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Gerenciar dados do Perfil social {#manage-social-profile-data}
+# Gerenciar dados de Perfil do Social {#manage-social-profile-data}
 
-Quando alguém interage com um aplicativo [](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)social Marketo ou autoriza sua rede social a preencher previamente um formulário Marketo com preenchimento [de formulário](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)social, o Marketo captura todos os dados disponíveis de seu perfil social. Você pode visualização essas informações na página [Detalhes da](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)pessoa ou adicioná-las como uma coluna em uma visualização [personalizada de uma lista](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)inteligente.
+Quando alguém interage com um aplicativo social Marketo [ou autoriza sua rede social a preencher previamente um formulário Marketo com [formulário social fill](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), o Marketo captura todos os dados disponíveis de seu perfil social. ](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) Você pode visualização essas informações na página [Detalhes da pessoa](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page) ou adicioná-las como uma coluna em uma [visualização personalizada de uma lista inteligente](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List).
 
 O preenchimento de formulários sociais e os aplicativos sociais capturam conjuntos de campos ligeiramente diferentes; consulte a seção para cada um abaixo.
 
@@ -58,7 +58,7 @@ Dependendo das configurações de privacidade da rede e do usuário, um ou mais 
 
 >[!CAUTION]
 >
->Os dados capturados pelo preenchimento do formulário social substituem os campos correspondentes, a menos que você [bloqueie atualizações para esses campos no nível](../../../../product-docs/administration/field-management/block-updates-to-a-field.md)do formulário.
+>Os dados capturados pelo preenchimento do formulário social substituem os campos correspondentes, a menos que você [bloqueie atualizações desses campos no nível do formulário](../../../../product-docs/administration/field-management/block-updates-to-a-field.md).
 
 ## Do Twitter: {#from-twitter-1}
 
@@ -77,15 +77,15 @@ Dependendo das configurações de privacidade da rede e do usuário, um ou mais 
 
 >[!NOTE]
 >
->O preenchimento do formulário social captura o endereço de email *somente* se a pessoa o digitar no formulário. Se você precisar do endereço de email, [torne-o um campo obrigatório no formulário](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>O preenchimento do formulário social captura o endereço de email *somente* se a pessoa inseri-lo no formulário. Se você precisar do endereço de email, [torne-o um campo obrigatório em seu formulário](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
 >[!MORELIKETHIS]
 >
->Para capturar essas informações dos formulários, ative o preenchimento [do formulário](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)social.
+>Para capturar essas informações de formulários, ative [preenchimento de formulário social](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
 
 >[!NOTE]
 >
 >**Mergulho profundo**
 >
->Saiba mais sobre como trabalhar com formulários no aprofundamento do [Forms](http://docs.marketo.com/display/docs/forms) .
+>Saiba mais sobre como trabalhar com formulários no aprofundamento [Forms](http://docs.marketo.com/display/docs/forms).
 
