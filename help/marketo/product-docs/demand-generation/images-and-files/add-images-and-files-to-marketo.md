@@ -15,11 +15,11 @@ ht-degree: 0%
 
 É fácil adicionar várias imagens e arquivos ao mesmo tempo.
 
-1. Vá para o **Design** **Studio**.
+1. Vá para **Design** **Studio**.
 
    ![](assets/designstudio.png)
 
-1. Em **Novo**, clique em** Carregar imagem*** **ou** **Arquivo**.
+1. Em **Novo**, clique em*** Carregar imagem** **ou** **Ficheiro**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. Expanda Detalhes **do** arquivo para verificar se você selecionou as imagens corretas e clique em **Carregar**.
+1. Expanda **Detalhes do arquivo** para verificar se você selecionou as imagens corretas e clique em **Carregar**.
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
@@ -63,7 +63,7 @@ Muito bem!
 >
 >Embora o Marketo aceite todos os tipos de arquivos para upload, somente os principais tipos de imagem (JPG, PNG, GIF etc.) funcionará em nosso editor de e-mail.
 
-## Assistir a um vídeo {#watch-a-video}
+## Assista a um vídeo {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
