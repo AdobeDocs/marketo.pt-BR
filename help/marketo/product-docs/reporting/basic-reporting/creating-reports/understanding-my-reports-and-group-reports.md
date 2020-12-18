@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Como entender meus relatórios e relatórios de grupo {#understanding-my-reports-and-group-reports}
 
-Você pode criar **Meus relatórios **e **Relatórios de grupo **na página inicial [do](navigating-the-analytics-home-page.md)Analytics.
+Você pode criar **Meus relatórios **e **Relatórios de grupo **a partir de [Página inicial do Analytics](navigating-the-analytics-home-page.md).
 
-**Meus relatórios** estão visíveis apenas para você.
+**Meus** relatórios só são visíveis para você.
 
-**Relatórios** de grupo estão visíveis para todos os usuários nesse espaço de trabalho.
+**Os** Relatórios de grupo estão visíveis para todos os usuários nesse espaço de trabalho.
 
 >[!NOTE]
 >
->Cada área de trabalho tem um conjunto de **Meus relatórios **e Relatórios **de** grupo.
+>Cada área de trabalho tem um conjunto de **Meus relatórios **e **Relatórios de grupo**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
