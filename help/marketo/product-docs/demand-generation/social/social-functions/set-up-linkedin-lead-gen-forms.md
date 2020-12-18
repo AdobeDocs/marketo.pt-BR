@@ -19,15 +19,15 @@ Use o LinkedIn Lead Gen Forms para executar campanhas de publicidade no LinkedIn
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para **Administrador** do Marketo.
+1. Vá para Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Vá para **LaunchPoint**, clique em **Novo** e selecione **Novo serviço**.
+1. Vá para **LaunchPoint**, clique em **Novo** e selecione **Novo Serviço**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Digite um Nome **para** exibição para seu serviço, selecione o serviço **Gen de cliente potencial do LinkedIn **no menu suspenso e clique em **Avançar**.
+1. Digite um **Nome de exibição** para seu serviço, selecione o serviço **Gen de cliente potencial do LinkedIn **no menu suspenso e clique em **Próximo**.
 
    ![](assets/linkedin-lead-gen.png)
 
@@ -47,15 +47,15 @@ Use o LinkedIn Lead Gen Forms para executar campanhas de publicidade no LinkedIn
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. Você vai notar que agora está autorizado. Clique em **Avançar**.
+1. Você vai notar que agora está autorizado. Clique em **Próximo**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
    >[!CAUTION]
    >
-   >O serviço expira automaticamente um ano após a autorização. Para recuperar o acesso, basta clicar em **Reautorizar**. Talvez seja necessário digitar novamente sua senha do LinkedIn, dependendo das configurações do navegador.
+   >O serviço expira automaticamente um ano após a autorização. Para recuperar o acesso, basta clicar em **Autorizar novamente**. Talvez seja necessário digitar novamente sua senha do LinkedIn, dependendo das configurações do navegador.
 
-1. Selecione a(s) conta(s) que você deseja que o LinkedIn Lead Gen entre no Marketing e clique em **Avançar**.
+1. Selecione a(s) conta(s) da qual deseja que o LinkedIn Lead Gen entre no Marketing e clique em **Próximo**.
 
    >[!TIP]
    >
@@ -67,13 +67,13 @@ Use o LinkedIn Lead Gen Forms para executar campanhas de publicidade no LinkedIn
 
    >[!CAUTION]
    >
-   >O Marketo oferece suporte ao mapeamento de dois campos do LinkedIn para um único campo de Marketing, **mas somente quando** os dois campos do LinkedIn não estão no mesmo formulário. Se dois campos forem mapeados do mesmo formulário do LinkedIn para um único campo de marketing, talvez as pessoas não consigam entrar no banco de dados do Marketing to.
+   >O Marketo oferece suporte ao mapeamento de dois campos do LinkedIn para um único campo do Marketo, **mas somente quando** os dois campos do LinkedIn não estão no mesmo formulário. Se dois campos forem mapeados do mesmo formulário do LinkedIn para um único campo de marketing, talvez as pessoas não consigam entrar no banco de dados do Marketing to.
 
    ![](assets/linkedin-lead-gen-mapping.png)
 
    >[!NOTE]
    >
-   >Somente os campos do LinkedIn que já foram salvos em um modelo [de](https://www.linkedin.com/help/lms/answer/79634) formulário no Gerenciador de Campanhas do LinkedIn serão exibidos como campos do LinkedIn que podem ser mapeados para campos do Marketo.
+   >Somente os campos do LinkedIn que já foram salvos em um [modelo de formulário](https://www.linkedin.com/help/lms/answer/79634) no Gerenciador de Campanhas do LinkedIn serão exibidos como Campos do LinkedIn que podem ser mapeados para campos do Marketo.
 
    ![](assets/linkedin-installed-services.png)
 
