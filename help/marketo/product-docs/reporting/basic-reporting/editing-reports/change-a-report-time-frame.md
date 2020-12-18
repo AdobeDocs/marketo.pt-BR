@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Altere o período coberto pelo relatório para focar em um horário específico da atividade.
 
-1. Vá para a área **Atividades** de marketing (ou **Analytics**).
+1. Vá para a área **Atividades de marketing** (ou **Analytics**).
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Selecione seu relatório na árvore de navegação e clique na guia **Configuração** .
+1. Selecione seu relatório na árvore de navegação e clique na guia **Configuração**.
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
@@ -33,7 +33,7 @@ Altere o período coberto pelo relatório para focar em um horário específico 
 
    >[!NOTE]
    >
-   >**Pessoa Criada em** refere-se ao momento em que a pessoa se tornou conhecida em seu banco de dados.
+   >**Pessoa criada** refere-se ao momento em que a pessoa se tornou conhecida no seu banco de dados.
 
 1. Escolha o período de tempo apropriado no menu suspenso.
 
@@ -41,9 +41,9 @@ Altere o período coberto pelo relatório para focar em um horário específico 
 
    >[!TIP]
    >
-   >Para definir datas específicas, selecione **Personalizado** no menu suspenso e insira as datas nos campos **De** e **Para** calendário.
+   >Para definir datas específicas, selecione **Personalizado** no menu suspenso e digite as datas nos campos de calendário **De** e **Até**.
 
-   Clique na guia **Relatório** para ver seu relatório para o período selecionado.\
+   Clique na guia **Relatório** para ver seu relatório do período selecionado.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!NOTE]
@@ -51,12 +51,12 @@ Altere o período coberto pelo relatório para focar em um horário específico 
    >**Artigos relacionados**
    >
    >
-   >Para restringir seu relatório por atributos de pessoa específicos, é possível [Filtrar pessoas em um Relatório com uma Lista](filter-people-in-a-report-with-a-smart-list.md)inteligente.
+   >Para restringir seu relatório por atributos de pessoa específicos, você pode [Filtrar pessoas em um relatório com uma Lista inteligente](filter-people-in-a-report-with-a-smart-list.md).
 
    >[!NOTE]
    >
    >**Mergulho profundo**
    >
    >
-   >Para obter mais maneiras de usar os relatórios, consulte o mergulho profundo do Relatórios [](http://docs.marketo.com/display/docs/basic+reporting) Básico.
+   >Para obter mais maneiras de usar os relatórios, consulte o aprofundamento do [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
