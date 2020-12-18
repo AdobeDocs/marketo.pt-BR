@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Criar um relatório de desempenho de pessoas com colunas de plataforma móvel {#build-a-people-performance-report-with-mobile-platform-columns}
+# Crie um relatório de desempenho de pessoas com colunas de plataforma móvel {#build-a-people-performance-report-with-mobile-platform-columns}
 
 Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas de plataforma móvel (iOS/Android).
 
 ## Criar Listas inteligentes móveis {#create-mobile-smart-lists}
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -25,11 +25,11 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
    ![](assets/two-1.png)
 
-1. Em **Novo**, selecione **Novo ativo** local.
+1. Em **Novo**, selecione **Novo ativo local**.
 
    ![](assets/three-1.png)
 
-1. Clique em **Lista** inteligente.
+1. Clique em **Lista inteligente**.
 
    ![](assets/four-1.png)
 
@@ -41,7 +41,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
    ![](assets/six-1.png)
 
-1. Defina Email como **qualquer**.
+1. Defina Email como **é any**.
 
    ![](assets/seven.png)
 
@@ -65,11 +65,11 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
 ## Criar um relatório de desempenho de pessoas {#create-a-people-performance-report}
 
-1. Em Atividades de marketing, selecione o programa que está hospedando suas listas inteligentes **iOS** e **Android** .
+1. Em Atividades de marketing, selecione o programa que está hospedando suas **listas inteligentes do iOS** e **Android**.
 
    ![](assets/ten.png)
 
-1. Em **Novo**, selecione **Novo ativo** local.
+1. Em **Novo**, selecione **Novo ativo local**.
 
    ![](assets/eleven.png)
 
@@ -77,7 +77,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
    ![](assets/twelve.png)
 
-1. Defina Tipo como Desempenho **** das pessoas.
+1. Defina Tipo como **Desempenho das pessoas**.
 
    ![](assets/thirteen.png)
 
@@ -89,7 +89,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
 ## Adicionar Listas inteligentes móveis como colunas {#add-mobile-smart-lists-as-columns}
 
-1. No relatório que você acabou de criar, clique em **Configuração** e arraste as Colunas **** personalizadas para a tela.
+1. No relatório que você acabou de criar, clique em **Configuração** e arraste **Colunas personalizadas** para a tela.
 
    ![](assets/fifteen.png)
 
