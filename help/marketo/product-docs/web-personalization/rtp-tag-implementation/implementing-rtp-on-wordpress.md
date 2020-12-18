@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# Implementação da RTP no Wordpress {#implementing-rtp-on-wordpress}
+# Implementação do RTP no Wordpress {#implementing-rtp-on-wordpress}
 
 Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
-1. Abra o arquivo **header.php** do seu tema **do** WordPress.
+1. Abra o arquivo **header.php** do tema do WordPress **.**
 
-   Você pode usar um cliente FTP para acessar seu servidor ou editar seus arquivos de tema diretamente do painel do WordPress. O editor de arquivos está localizado na guia **Aparência** no menu da barra lateral.
+   Você pode usar um cliente FTP para acessar seu servidor ou editar seus arquivos de tema diretamente do painel do WordPress. Seu editor de arquivos está localizado na guia **Aparência** no menu da barra lateral.
 
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
 1. Na lista de arquivos de modelo à direita do editor de texto, localize **header.php** e abra-o.
-1. Vá para Configurações **da conta.**
+1. Vá para **Configurações da conta.**
 
    Se você já recebeu sua tag JavaScript do Suporte - continue com a etapa 5.
 
@@ -34,11 +34,11 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
 1. Copie a tag RTP do JavaScript e cole-a nos modelos do site.
 
-   Verifique se é o primeiro script no cabeçalho da página - entre as **`<head> </head>`** tags.
+   Verifique se é o primeiro script no cabeçalho da página - entre as tags **`<head> </head>`**.
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
 1. Clique em **Atualizar arquivo** para o arquivo header.php.
-1. Verifique se ele aparece em todas as `pages including` landings page e subdomínios.
+1. Verifique se ele aparece em todas as landings page e subdomínios `pages including`.
 
-   Você pode fazer isso clicando com o botão direito do mouse na sua `website’s` página. Ir para Fonte de página de **Visualização.** Procure **RTP** para localizar a tag.
+   Você pode fazer isso clicando com o botão direito do mouse na sua página `website’s`. Vá para **Fonte de página de Visualização.** Procure  **** RTP para localizar a tag.
