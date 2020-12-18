@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Reordenar colunas de relatório {#reorder-report-columns}
+# Reordenar Colunas de Relatório {#reorder-report-columns}
 
 É possível alterar a ordem das colunas em um relatório.
 
-1. Vá para a área **Atividades** de marketing (ou **Analytics**).
+1. Vá para a área **Atividades de marketing** (ou **Analytics**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Selecione seu relatório na árvore de navegação e clique na guia **Relatório** .
+1. Selecione seu relatório na árvore de navegação e clique na guia **Relatório**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -47,5 +47,5 @@ ht-degree: 0%
    >**Mergulho profundo**
    >
    >
-   >Aprenda todo o poder de trabalhar com relatórios no [Basic Relatórios](http://docs.marketo.com/display/docs/basic+reporting).
+   >Conheça todo o poder de trabalhar com relatórios em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
