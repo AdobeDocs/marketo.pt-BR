@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para os usuários do Predictive Content, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Conteúdo`<sup>AI</sup>`do Marketing.
+>Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
-Quando você define padrões de conteúdo, o conteúdo é detectado automaticamente quando um visitante da Web clica na página da Web HTML relevante para o padrão de conteúdo. É usado para adicionar páginas HTML (publicações em blog, comunicados à imprensa, artigos de notícias) como partes de conteúdo à página Todo conteúdo. Quando a descoberta automática é baseada em padrões de conteúdo, ela descobre e rastreia páginas HTML que estão relacionadas ao padrão de URL definido quando um visitante da Web visualização ou clica em um link para a página. Esse conteúdo (o URL, o nome da página e os metadados - incluindo o URL da imagem e a descrição) é adicionado à página Todo o conteúdo para preparar o conteúdo preditivo. Para descobrir automaticamente outro conteúdo, como PDFs e vídeo incorporado, é necessário [ativar a descoberta](enable-content-discovery.md)de conteúdo.
+Quando você define padrões de conteúdo, o conteúdo é detectado automaticamente quando um visitante da Web clica na página da Web HTML relevante para o padrão de conteúdo. É usado para adicionar páginas HTML (publicações em blog, comunicados à imprensa, artigos de notícias) como partes de conteúdo à página Todo conteúdo. Quando a descoberta automática é baseada em padrões de conteúdo, ela descobre e rastreia páginas HTML que estão relacionadas ao padrão de URL definido quando um visitante da Web visualização ou clica em um link para a página. Esse conteúdo (o URL, o nome da página e os metadados - incluindo o URL da imagem e a descrição) é adicionado à página Todo o conteúdo para preparar o conteúdo preditivo. Para descobrir automaticamente outro conteúdo, como PDFs e vídeo incorporado, é necessário [ativar a descoberta de conteúdo](enable-content-discovery.md).
 
-1. Vá para Configurações **** de conteúdo.
+1. Vá para **Configurações de conteúdo**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Clique em Padrões **de** URL.
+1. Clique em **Padrões de URL**.
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -37,7 +37,7 @@ Quando você define padrões de conteúdo, o conteúdo é detectado automaticame
 
    >[!NOTE]
    >
-   >Os itens na lista suspensa à direita refletem as categorias que você configurou quando [criou o categoria](set-up-categories.md).
+   >Os itens na lista suspensa à direita refletem as categorias que você configurou ao [criar categoria](set-up-categories.md).
 
 1. Clique em **+ **para adicionar outro caminho.
 
@@ -75,7 +75,7 @@ Para *domain.com*:
    <td><p>Descobre todo o conteúdo que corresponde ao padrão domain.com/article/2017/:</p><p>domain.com/article/2017/5-top-tricks</p></td> 
   </tr> 
   <tr> 
-   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
+   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="—"></td> 
    <td><p>Descobre qualquer URL que contenha a palavra "fichas técnicas:"</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
   </tr> 
   <tr> 
