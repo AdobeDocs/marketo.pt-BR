@@ -25,11 +25,11 @@ Envolva pessoas com uma pesquisa em que possam votar e compartilhar com seus ami
 >
 >Se quiser usar imagens em sua pesquisa, adicione-as à sua biblioteca de Imagens e Arquivos do Marketo antes de começar. Adicione uma imagem de 60x60px para cada entrada de pesquisa. Consulte [Adicionar imagens e arquivos ao Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Em seu programa, selecione **Novo** > **Novo ativo local.**
+1. No seu programa, selecione **Novo** > **Novo ativo local.**
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Na Galeria de ativos **locais,** clique em **Pesquisa.**
+1. Na **Galeria de ativos locais,** clique em **Pesquisa.**
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -39,7 +39,7 @@ Envolva pessoas com uma pesquisa em que possam votar e compartilhar com seus ami
 
    >[!TIP]
    >
-   >Para economizar tempo, use a opção **Clonar de** para copiar todas as configurações de um compartilhamento de vídeo existente.
+   >Para economizar tempo, você pode usar a opção **Clonar de** para copiar todas as configurações de um compartilhamento de vídeo existente.
 
 1. Dê um título à sua pesquisa (normalmente uma pergunta curta).
 
@@ -61,7 +61,7 @@ Envolva pessoas com uma pesquisa em que possam votar e compartilhar com seus ami
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. Depois de definir a miniatura, o título e a descrição de todas as entradas, clique em **Concluir.**
+1. Quando definir a miniatura, o título e a descrição de todas as entradas, clique em **Concluir.**
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
@@ -73,7 +73,7 @@ O editor de pesquisas é aberto em uma nova janela. As configurações padrão s
 
 >[!TIP]
 >
->Para alterar qualquer um dos padrões na pesquisa, clique em **Voltar**. Para salvar seu trabalho para mais tarde sem aprovação, clique em **Fechar**.
+>Para alterar qualquer um dos padrões na pesquisa, clique em **Voltar**. Para salvar seu trabalho para mais tarde sem aprovar, clique em **Fechar**.
 
 Se houver algum problema na pesquisa, você será solicitado a abordá-los antes que a pesquisa seja aprovada. Parabéns! Você criou sua pesquisa.
 
@@ -81,5 +81,5 @@ Se houver algum problema na pesquisa, você será solicitado a abordá-los antes
 >
 >**Artigos relacionados**
 >
->A próxima etapa é [publicar sua pesquisa](publish-a-poll.md), mas você pode alterar as configurações da pesquisa, se necessário. Start com a [personalização das configurações](customize-poll-settings.md)de pesquisa.
+>A próxima etapa é [publicar sua pesquisa](publish-a-poll.md), mas você pode alterar as configurações da pesquisa, se necessário. Start com [personalizando as configurações da pesquisa](customize-poll-settings.md).
 
