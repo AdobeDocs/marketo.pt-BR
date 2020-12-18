@@ -19,7 +19,7 @@ Se você achar o botão de envio padrão vazio ou se precisar de algo mais sofis
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
@@ -51,7 +51,7 @@ Se você achar o botão de envio padrão vazio ou se precisar de algo mais sofis
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 
