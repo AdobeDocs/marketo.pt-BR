@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Aprovar um trecho sem rascunho {#approve-a-snippet-with-no-draft}
 
-## Aprovar o trecho {#approve-the-snippet}
+## Aprove o trecho {#approve-the-snippet}
 
 Nenhum rascunho é acionado sempre que um snippet é aprovado. Isso inclui um trecho que é compartilhado ou referenciado por ativos em outros espaços de trabalho.
 
-1. Vá para o **Design Studio**.
+1. Vá para **Design Studio**.
 
    ![](assets/go-to-design-studio.png)
 
-1. Selecione um snippet e, no menu suspenso Ações **de** snippet, escolha **Aprovar**.
+1. Selecione um snippet e, no menu suspenso **Snippet Actions**, escolha **Aprovar**.
 
    ![](assets/approve-snippet.png)
 
-1. Selecione uma opção na caixa de diálogo Aprovar fragmento e clique em **Aprovar**:
+1. Selecione uma opção na caixa de diálogo Aprovar trecho e clique em **Aprovar**:
 
    * **Atualizar tudo**: Essa opção não criará rascunhos dos ativos aprovados usando o snippet. Todos os ativos obtêm as atualizações e mantêm seus status anteriores. Aparece um módulo de progresso no lado superior direito do ecrã; pode ser fechado a qualquer momento. Para restaurá-lo, clique com o botão direito do mouse no nome do snippet e selecione Mostrar status de aprovação.
    * **Criar rascunhos**: Essa opção criará rascunhos dos ativos aprovados usando o snippet. Selecione essa opção se as alterações no fragmento precisarem ser revisadas primeiro. Todos os rascunhos devem ser aprovados manualmente.
