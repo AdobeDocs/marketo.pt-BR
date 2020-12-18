@@ -22,15 +22,15 @@ ht-degree: 0%
 
 
 
-1. Selecione sua lista ou lista inteligente, clique na guia **Clientes potenciais** para obter os resultados e clique no ícone do Excel. INLINE Verifique se você tem **Código exclusivo de marketing **e **colunas de Nome** exclusivo de marketing visíveis [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Selecione sua lista ou lista inteligente, clique na guia **Clientes potenciais** para obter os resultados e clique no ícone do Excel. INLINE Verifique se você tem **Código exclusivo do Marketo **e **Nome exclusivo do Marketo** [colunas visíveis](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. Marque **Incluir URL** personalizado, localize e selecione a landing page para a qual deseja gerar PURLs.
+1. Marque **Incluir URL personalizado**, localize e selecione a landing page para a qual deseja gerar URLs.
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
-1. Selecione o **URL**.
+1. Selecione **URL**.
 
    ![](assets/image2014-9-18-13-3a36-3a53.png)
 
