@@ -21,7 +21,7 @@ Permita que seus visitantes preencham o formulário usando sua rede social. Voc�
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -39,13 +39,13 @@ Permita que seus visitantes preencham o formulário usando sua rede social. Voc�
 
    >[!TIP]
    >
-   >Veja quais [dados o Marketo capturará](manage-social-profile-data.md) se as pessoas usarem os botões sociais.
+   >Veja o que [o Data Marketo capturará](manage-social-profile-data.md) se as pessoas usarem os botões sociais.
 
 1. Clique em **Concluir**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
