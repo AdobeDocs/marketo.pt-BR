@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Altere configurações como fuso horário ou relatórios de email de Personalização da Web.
 
-## Perfil do usuário / senhas / fuso horário {#user-profile-passwords-time-zones}
+## Perfil do usuário / senhas / fusos horários {#user-profile-passwords-time-zones}
 
-1. Clique no seu nome e selecione Configurações **do usuário.**
+1. Clique em seu nome e selecione **Configurações do usuário.**
 
    ![](assets/one.png)
 
@@ -33,11 +33,11 @@ Altere configurações como fuso horário ou relatórios de email de Personaliza
       * Adicionar detalhes pessoais (nome e sobrenome, número de celular e fuso horário)
       * Selecione o número de linhas que deseja exportar ao exportar tabelas na plataforma. Consulte campo: &quot;Nº máximo de linhas na exportação do Excel (limitado a 10.000)&quot;
       * Selecione suas Notificações móveis para uma nova pessoa ou assista a lista relacionada ao aplicativo móvel
-      * Ajuste as configurações da Região pessoal clicando em **Editar regiões**.
+      * Ajuste as configurações de Região Pessoal clicando em **Editar Regiões**.
       * Alterar sua senha
       * Selecione suas configurações de notificação de relatório de email para relatórios de email sobre organizações, pessoas, Campanha e desempenho de ativos
 
-   Clique em **Salvar** após fazer quaisquer alterações.
+   Clique em **Salvar** depois de fazer quaisquer alterações.
 
    >[!NOTE]
    >
@@ -45,7 +45,7 @@ Altere configurações como fuso horário ou relatórios de email de Personaliza
 
 ## Selecionar relatórios de email {#select-email-reports}
 
-Selecione qual relatório [de](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) email associar ao usuário e a frequência (diário, semanal ou trimestral) quando o relatório será enviado.
+Selecione o [relatório de email](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) a ser associado ao usuário e a frequência (diária, semanal ou trimestral) em que o relatório será enviado.
 
 ![](assets/three.png)
 
