@@ -28,9 +28,9 @@ Esta publicação explica como configurar painéis RTP no Google Universal Analy
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. Selecione Tela de desenho em **branco**, adicione um nome **de** Painel e clique em **Criar Painel**.
+1. Selecione **Área em branco**, adicione **Nome do Painel** e clique em **Criar Painel**.
 
-1. Clique em **Adicionar widget** para criar um novo widget.\
+1. Clique em **Adicionar Widget** para criar um novo widget.\
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## PAINEL RTP B2B {#rtp-b-b-dashboard}
@@ -73,14 +73,14 @@ O painel consiste de 3 colunas
      <li>Crie um gráfico de barras mostrando: Sessão</li> 
      <li>Agrupado por: Etiqueta do evento</li> 
      <li>Tabela dinâmica por: Agrupamento de Canais padrão</li> 
-     <li>Filtro: <br>Mostrar somente | Categoria do Evento (contendo) Segmentos RTP</li> 
+     <li>Filtro: <br>Mostrar apenas | Categoria do Evento (contendo) Segmentos RTP</li> 
     </ul><p><img width="300" src="assets/image2015-3-23-11-3a32-3a13.png" data-linked-resource-id="7504247" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Nome: Nº de usuários segmentados RTP</li> 
      <li>Tipo: Métrica 2.1</li> 
      <li>Mostrar a seguinte métrica: Usuários<br></li> 
-     <li>Filtro: <br>Mostrar somente | Categoria do Evento (contendo) Segmentos RTP</li> 
+     <li>Filtro: <br>Mostrar apenas | Categoria do Evento (contendo) Segmentos RTP</li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
@@ -139,8 +139,8 @@ O painel consiste de 3 colunas
     <ul> 
      <li>Nome: Sessões e metas pelos principais segmentos</li> 
      <li>Tipo: Tabela<br></li> 
-     <li>Exiba as seguintes colunas: <br>Etiqueta do evento | Sessões | Taxa de conversão de objetivos</li> 
-     <li>Filtro: <br>Mostrar somente | Categoria do Evento (contendo) Segmentos RTP</li> 
+     <li>Exiba as seguintes colunas: <br>Rótulo do Evento | Sessões | Taxa de conversão de objetivos</li> 
+     <li>Filtro: <br>Mostrar apenas | Categoria do Evento (contendo) Segmentos RTP</li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
    <th> </th> 
   </tr> 
@@ -157,7 +157,7 @@ Este painel permite que os usuários analisem o desempenho da campanha RTP e os 
    * Envolvido (impressões e cliques em uma campanha personalizada)
    * Cliques no mecanismo de recomendação e no conteúdo recomendado superior
 
-Crie um novo painel chamado Painel **de envolvimento** RTP e defina os seguintes widgets:
+Crie um novo painel chamado **Painel de envolvimento RTP** e defina os seguintes widgets:
 
 ![](assets/image2015-3-22-17-3a7-3a19.png)
 
@@ -179,40 +179,40 @@ Crie um novo painel chamado Painel **de envolvimento** RTP e defina os seguintes
   <tr> 
    <td> 
     <ul> 
-     <li>Nome: <strong>Total de CTA (Envolvimento)</strong></li> 
+     <li>Nome: <strong>Total CTA (Envolvimento)</strong></li> 
      <li>Tipo: <strong>Métrica 2.1 </strong></li> 
      <li>Mostrar a seguinte métrica: <strong>Total de Eventos</strong></li> 
-     <li>Filtros:<br><strong>[só mostrar] Categoria do Evento (contém): Ação do Evento RTP-Campanha</strong><br><strong>[só show] (correspondência exata): Rótulo do Evento de impressão</strong><strong>[não mostrar] (contendo): #</strong></li> 
+     <li>Filtros:<br><strong>[show] Categoria do Evento (contém): RTP-Campanha</strong><br><strong>[só mostrar] Ação do Evento (correspondência exata): Rótulo do Evento Impression</strong><strong>[não mostrar] (contendo): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
-     <li>Nome: <strong>Total de CTA (click-through)</strong></li> 
+     <li>Nome: <strong>CTA Total (Clickthrough)</strong></li> 
      <li>Tipo: <strong>Métrica 2.1 </strong></li> 
      <li>Mostrar a seguinte métrica: <strong>Total de Eventos</strong></li> 
-     <li>Filtros:<br><strong>[só mostrar] Categoria do Evento (contém): Ação do Evento RTP-Campanha</strong><br><strong>[só show] (correspondência exata): Cliques</strong><strong>[não mostrar] Rótulo do Evento (contendo): #</strong></li> 
+     <li>Filtros:<br><strong>[show] Categoria do Evento (contém): RTP-Campanha</strong><br><strong>[só mostrar] Ação do Evento (correspondência exata): Cliques</strong><strong>[não mostrar] Rótulo do Evento (contendo): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
      <li>Nome: <strong>CRE - Total de cliques</strong></li> 
      <li>Tipo: <strong>Métrica 2.1</strong><br></li> 
-     <li>Mostrar a seguinte métrica: <strong>Pageviews</strong></li> 
+     <li>Mostrar a seguinte métrica: <strong>Visualizações de página</strong></li> 
      <li>Filtro: <strong>[só mostrar] Página (contendo): rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a30.png" data-linked-resource-id="7504262" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <ul> 
-     <li>Nome: <strong>Média Duração da sessão (Envolvimento)</strong></li> 
+     <li>Nome: <strong>Média. Duração da sessão (Envolvimento)</strong></li> 
      <li>Tipo: <strong>Métrica 2.1 </strong></li> 
-     <li>Mostrar a seguinte métrica: <strong>Média Duração da sessão</strong></li> 
-     <li>Filtros:<br><strong>[só mostrar] Categoria do Evento (correspondência exata): Ação do Evento RTP-Campanha</strong><br><strong>[só show] (correspondência exata): impressão</strong><strong>[não mostrar] Rótulo do Evento (contendo): #</strong></li> 
+     <li>Mostrar a seguinte métrica: <strong>Média. Duração da sessão</strong></li> 
+     <li>Filtros:<br><strong>[show] Categoria do Evento (correspondência exata): RTP-Campanha</strong><br><strong>[só mostrar] Ação do Evento (correspondência exata): impressão</strong><strong>[não mostrar] Rótulo do Evento (contendo): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
-     <li>Nome: <strong>Média Duração da sessão (click-through)</strong></li> 
+     <li>Nome: <strong>Média. Duração da sessão (click-through)</strong></li> 
      <li>Tipo: <strong>Métrica 2.1 </strong></li> 
-     <li>Mostrar a seguinte métrica: <strong>Média Duração da sessão</strong></li> 
-     <li>Filtros:<br><strong>[só mostrar] Categoria do Evento (correspondência exata): Ação do Evento RTP-Campanha</strong><br><strong>[só show] (correspondência exata): clica</strong><strong>em Rótulo do Evento [não mostrar] (contendo): #</strong></li> 
+     <li>Mostrar a seguinte métrica: <strong>Média. Duração da sessão</strong></li> 
+     <li>Filtros:<br><strong>[show] Categoria do Evento (correspondência exata): RTP-Campanha</strong><br><strong>[só mostrar] Ação do Evento (correspondência exata): click</strong><strong>[não mostrar] Rótulo do Evento (contendo): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
@@ -225,19 +225,19 @@ Crie um novo painel chamado Painel **de envolvimento** RTP e defina os seguintes
   <tr> 
    <td> 
     <ul> 
-     <li>Nome: <strong>Páginas/Sessão (Envolvimento)</strong></li> 
+     <li>Nome: <strong>Páginas / Sessão (Envolvimento)</strong></li> 
      <li>Tipo: <strong>Métrica 2.1 </strong></li> 
      <li>Mostrar a seguinte métrica: <strong>Páginas / Sessão</strong></li> 
-     <li>Filtros:<br><strong>[só mostrar] Categoria do Evento (correspondência exata): CAMPANHAS RTP</strong></li> 
+     <li>Filtros:<br><strong>[show] Categoria do Evento (correspondência exata): CAMPANHAS RTP</strong></li> 
      <li><strong>[show] Ação do Evento (correspondência exata): impressão</strong></li> 
      <li><strong>Rótulo do Evento [não mostrar] (contendo): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>Nome: <strong>Páginas / Sessão (Clickthrough)</strong></li> 
+     <li>Nome: <strong>Páginas / Sessão (Clicar)</strong></li> 
      <li>Tipo: <strong>Métrica 2.1 </strong></li> 
      <li>Mostrar a seguinte métrica: <strong>Páginas / Sessão</strong></li> 
-     <li>Filtros:<br><strong>[só mostrar] Categoria do Evento (correspondência exata): CAMPANHAS RTP</strong></li> 
+     <li>Filtros:<br><strong>[show] Categoria do Evento (correspondência exata): CAMPANHAS RTP</strong></li> 
      <li><strong>[show] Ação do Evento (correspondência exata): cliques</strong></li> 
      <li><strong>Rótulo do Evento [não mostrar] (contendo): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
@@ -246,17 +246,17 @@ Crie um novo painel chamado Painel **de envolvimento** RTP e defina os seguintes
   <tr> 
    <td> 
     <ul> 
-     <li>Nome: <strong>Impressões do CTA</strong></li> 
+     <li>Nome: <strong>Impressões de CTA</strong></li> 
      <li>Tipo: <strong>Tabela</strong></li> 
-     <li>Exiba as seguintes colunas: <strong>Etiqueta do evento | Total de Eventos | Utilizadores</strong></li> 
-     <li>Filtros:<br><strong>[só mostrar] Categoria do Evento (correspondência exata): Ação do Evento RTP-Campanha</strong><br><strong>[só show] (correspondência exata): impressão</strong><strong>[não mostrar] Rótulo do Evento (contendo): #</strong></li> 
+     <li>Exiba as seguintes colunas: <strong>Rótulo do Evento | Total de Eventos | Usuários</strong></li> 
+     <li>Filtros:<br><strong>[show] Categoria do Evento (correspondência exata): RTP-Campanha</strong><br><strong>[só mostrar] Ação do Evento (correspondência exata): impressão</strong><strong>[não mostrar] Rótulo do Evento (contendo): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>Nome: <strong>Click-through do CTA</strong></li> 
+     <li>Nome: <strong>Clicar por CTA</strong></li> 
      <li>Tipo: <strong>Tabela</strong></li> 
-     <li>Exiba as seguintes colunas: <strong>Etiqueta do evento | Total de Eventos | Utilizadores</strong></li> 
-     <li>Filtros:<br><strong>[só mostrar] Categoria do Evento (correspondência exata): Ação do Evento RTP-Campanha</strong><br><strong>[só show] (correspondência exata): cliques</strong></li> 
+     <li>Exiba as seguintes colunas: <strong>Rótulo do Evento | Total de Eventos | Usuários</strong></li> 
+     <li>Filtros:<br><strong>[show] Categoria do Evento (correspondência exata): RTP-Campanha</strong><br><strong>[só mostrar] Ação do Evento (correspondência exata): cliques</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 
