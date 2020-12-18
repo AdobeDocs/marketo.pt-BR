@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ao [criar uma pesquisa](create-a-poll.md), você pode limitar o número de votos permitidos por perfil social.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,15 +23,15 @@ Ao [criar uma pesquisa](create-a-poll.md), você pode limitar o número de votos
 
    ![](assets/image2014-9-19-10-3a56-3a37.png)
 
-1. No editor de pesquisa, vá para Configurações **do** aplicativo > Opções **avançadas.**
+1. No editor de pesquisas, vá para **Configurações do aplicativo** > **Opções avançadas.**
 
    ![](assets/image2014-9-19-10-3a56-3a44.png)
 
-1. Marque a opção para impor um limite de **voto** e insira o número máximo de votos permitidos.
+1. Marque a opção para impor um **Limite de votos** e insira o número máximo de votos permitidos.
 
    ![](assets/image2014-9-19-10-3a56-3a54.png)
 
 >[!TIP]
 >
->Você pode clicar em **Concluir > Aprovar e Fechar** para [publicar sua pesquisa](publish-a-poll.md)ou continuar a personalizá-la. Por exemplo, tente [configurar os prompts](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)de pós-compartilhamento.
+>Você pode clicar em **Concluir > Aprovar e Fechar** para [publicar sua pesquisa](publish-a-poll.md), ou continuar a personalizá-la. Por exemplo, tente [configurar os prompts de pós-compartilhamento](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
 
