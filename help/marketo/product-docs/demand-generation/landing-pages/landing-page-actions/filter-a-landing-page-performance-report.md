@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Filtrar um relatório de desempenho de Landing page {#filter-a-landing-page-performance-report}
+# Filtrar um Relatório de Desempenho de Landing page {#filter-a-landing-page-performance-report}
 
-Focalize seu relatório [de desempenho de](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) landing page nas landings page (ativos locais), no Design Studio (ativos globais) ou naquelas que foram arquivadas.
+Focalize seu [relatório de desempenho de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) em landings page em seus programas (ativos locais), nos do Design Studio (ativos globais) ou naqueles que foram arquivados.
 
-1. Vá para **Analytics** (ou **Marketing Atividade**).
+1. Vá para **Analytics** (ou **Atividades de marketing**).
 
    ![](assets/analyticstile.png)
 
@@ -27,9 +27,9 @@ Focalize seu relatório [de desempenho de](../../../../product-docs/demand-gener
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Landings page do Design Studio:** Ativos globais, gerenciados no Design Studio.
-   * **Landings page de Atividades de marketing:** Ativos locais em programas na guia Atividades de marketing.
-   * **Landings page arquivadas:** Landings page inativas e reformadas.
+   * **Landings page do Design Studio:ativos** globais, gerenciados no Design Studio.
+   * **Landings page de Atividades de marketing:ativos** locais em programas na guia Atividades de marketing.
+   * **Landings page arquivadas:landings page** inativas e descontinuadas.
 
 1. Escolha as pastas e landings page específicas a serem incluídas em seu relatório.
 
@@ -47,5 +47,5 @@ Focalize seu relatório [de desempenho de](../../../../product-docs/demand-gener
 >
 >**Mergulho profundo**
 >
->Saiba tudo sobre os relatórios no relatórios [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+>Saiba tudo sobre os relatórios em [relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
