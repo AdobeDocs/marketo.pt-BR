@@ -40,7 +40,7 @@ Você pode ver as estatísticas detalhadas de programa e canal no Analisador de 
 
    >[!NOTE]
    >
-   >Muitas das métricas que você pode escolher no analisador de programas estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante compreender a [diferença entre a atribuição](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT e MT.
+   >Muitas das métricas que você pode escolher no analisador de programas estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante entender a diferença [entre a atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Para comparar todos os programas em um único canal, clique no nome do canal na caixa de diálogo pop-up.
 
@@ -60,4 +60,4 @@ Você pode ver as estatísticas detalhadas de programa e canal no Analisador de 
 
    >[!NOTE]
    >
-   >Saiba mais sobre análises avançadas no [Revenue Explorer](http://docs.marketo.com/display/docs/revenue+explorer).
+   >Saiba mais sobre análises avançadas no [Explorador de Receita](http://docs.marketo.com/display/docs/revenue+explorer).
