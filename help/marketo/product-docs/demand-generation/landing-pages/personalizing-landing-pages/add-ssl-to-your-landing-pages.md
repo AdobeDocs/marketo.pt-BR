@@ -15,10 +15,10 @@ ht-degree: 0%
 
 A criptografia SSL (Secure Socket Layer) permite tornar todas as suas landings page de uma instância de Marketo seguras.
 
-Quando você preenche um formulário da Web ou visita uma landing page hospedada pelo Marketo, por padrão, as informações são enviadas pelo protocolo não seguro (HTTP). De acordo com a política de sua empresa, convém proteger as informações enviadas ao Marketing over (HTTPS). Por exemplo, quando você visita `http://info.mydomain.com/` ele será `https://info.mydomain.com/`.
+Quando você preenche um formulário da Web ou visita uma landing page hospedada pelo Marketo, por padrão, as informações são enviadas pelo protocolo não seguro (HTTP). De acordo com a política de sua empresa, convém proteger as informações enviadas ao Marketing over (HTTPS). Por exemplo, quando você visita `http://info.mydomain.com/`, agora será `https://info.mydomain.com/`.
 
 O Marketo rastreia &quot;Página da Web Visitada&quot; e &quot;Clique em Link na Página da Web&quot; por padrão em relação ao protocolo HTTP não seguro. Se quiser que seus links de rastreamento estejam protegidos com seu próprio certificado, é necessário que o Markeet crie um servidor não compartilhado separado para habilitá-lo. Proteger todos os aspectos da interação de um contato com você normalmente significa proteger landings page e links de rastreamento.
 
-Para obter perguntas frequentes sobre como adicionar SSL a suas landings page, consulte [este artigo](http://nation.marketo.com/docs/DOC-5612).
+Para obter perguntas frequentes sobre como adicionar SSL às suas landings page, consulte [este artigo](http://nation.marketo.com/docs/DOC-5612).
 
 Se você deseja SSL para suas landings page de marketing, entre em contato com seu representante de vendas do Marketing Cloud.
