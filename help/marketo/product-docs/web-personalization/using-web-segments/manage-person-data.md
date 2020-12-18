@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Aproveite os dados pessoais para personalização na Web selecionando os campos de pessoa a serem usados na segmentação.
 
-1. Vá para Configurações **da** conta.\
+1. Vá para **Configurações da conta**.\
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Ir para **Banco de Dados**.\
+1. Vá para **Banco de Dados**.\
    ![](assets/account-settings-dropdown-database.jpg)
 
-## Adicionando um campo Nova pessoa {#adding-a-new-person-field}
+## Adicionando um campo Nova Pessoa {#adding-a-new-person-field}
 
-1. Selecione **Campo para adicionar** a partir da lista suspensa para adicionar um campo de dados de pessoa à lista.
+1. Selecione **Campo para adicionar** do menu suspenso para adicionar um campo de dados de pessoa à lista.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -37,7 +37,7 @@ Aproveite os dados pessoais para personalização na Web selecionando os campos 
 
 ## Excluindo um campo de pessoa {#deleting-a-person-field}
 
-1. Clique no ícone Excluir ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) para remover um campo da lista. Clique em **Sim** para confirmar que deseja excluir o campo.
+1. Clique no ícone de exclusão ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) para remover um campo da lista. Clique em **Yes** para confirmar que deseja excluir o campo.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
