@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Filtragem em insights de email {#filtering-in-email-insights}
+# Filtragem em Insights de Email {#filtering-in-email-insights}
 
 No Email Insights, há diferentes maneiras de filtrar seus dados.
 
-## Insights de email {#email-insights}
+## Insights de Email {#email-insights}
 
 Clique no sinal + para adicionar filtros ao start. Adicione quantos quiser.
 
@@ -59,11 +59,11 @@ Escolha entre intervalos de datas predefinidos comuns, selecione datas específi
 
 >[!NOTE]
 >
->Os intervalos de datas se aplicam à página Análises e à página Envios. Entretanto, a opção **Comparar** só se aplica à página do Analytics.
+>Os intervalos de datas se aplicam à página Análises e à página Envios. Entretanto, a opção **Comparar** só é aplicável à página do Analytics.
 
 ## Marketing baseado em conta {#account-based-marketing}
 
-Se você usar o Marketing [baseado em](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)conta, há filtros específicos para você.
+Se você usar [Marketing baseado em conta](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), há filtros específicos para você.
 
 ![](assets/abm.png)
 
