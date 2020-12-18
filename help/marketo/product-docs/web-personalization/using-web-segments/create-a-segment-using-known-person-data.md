@@ -19,7 +19,7 @@ Veja como criar um segmento usando valores de Dados de pessoa conhecida.
 >
 >[Gerenciar dados da pessoa](manage-person-data.md)
 
-1. Ir para **Segmentos**.
+1. Vá para **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
@@ -57,7 +57,7 @@ Veja como criar um segmento usando valores de Dados de pessoa conhecida.
 
    ![](assets/nine.png)
 
-1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir Campanha **para salvar e ir para a página Campanhas.
+1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir Campanha **para salvar e ir para a página Campanha.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
