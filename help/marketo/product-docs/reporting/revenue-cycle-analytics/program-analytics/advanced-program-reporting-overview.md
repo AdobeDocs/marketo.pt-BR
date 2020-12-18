@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Visão geral do Relatórios avançado do Programa {#advanced-program-reporting-overview}
+# Visão geral avançada do Relatórios do Programa {#advanced-program-reporting-overview}
 
-**O Revenue Cycle Explorer** inclui várias áreas de análise e uma grande variedade de novas métricas que permitem medir a eficácia do programa.
+**O Revenue Cycle** Explorerinclui várias áreas de análise e uma grande variedade de novas métricas que permitem medir a eficácia do programa.
 
 ![](assets/rev.png)
 
@@ -25,21 +25,21 @@ Há muitos bons aqui. Vamos dar uma olhada!
 
 Áreas de análise cada uma contém diferentes conjuntos de dados e métricas no Gerenciador de Receita. Cada área está relacionada ao relatórios escolhido para visualização.
 
-## Áreas de Análise do programa {#program-analysis-areas}
+## Áreas de Análise de programa {#program-analysis-areas}
 
-* ** Análise [de custo do](understanding-the-program-cost-analysis-area.md) Programa **- Consulte o ROI de todos os seus programas.
+* ** [Análise de custo do Programa](understanding-the-program-cost-analysis-area.md) **- Consulte o ROI de todos os seus programas.
 
-* ** Análise [de associação ao](understanding-the-program-membership-analysis-area.md) Programa **- Veja os resultados por canal, participação, critérios de sucesso etc.
+* ** [Análise de associação ao Programa](understanding-the-program-membership-analysis-area.md) **- Veja os resultados por canal, participação, critérios de sucesso etc.
 
-* ** Análise [Oportunidade de](understanding-the-program-opportunity-analysis-area.md) Programa **- Oportunidades geradas com base na distribuição, receita e ROI.
+* ** [Análise de Oportunidade de Programa](understanding-the-program-opportunity-analysis-area.md) **- Oportunidades geradas com base na distribuição, na receita e no ROI.
 
-* ** Análise [do Estágio da Receita do](understanding-the-program-revenue-stage-analysis-area.md) Programa **- Novos nomes que atingiram estágios de sucesso específicos dentro do modelo do ciclo da receita.
+* ** [Análise do Estágio da Receita do Programa](understanding-the-program-revenue-stage-analysis-area.md) **- Novos nomes que atingiram estágios de sucesso específicos dentro do modelo do ciclo de receita.
 
 ## Analisadores de programas {#program-analyzers}
 
-* **Analisador** de programas - Identifique rapidamente os programas que são bem-sucedidos ou não e concentre-se adequadamente nos recursos.
+* **Analisador**  de programas - Identifique rapidamente os programas que são bem-sucedidos ou não e concentre-se adequadamente nos recursos.
 
-* **Analisador** de influência de oportunidade - prove a contribuição do Marketing ao medir o impacto dos programas e dos principais envolvimentos que geraram oportunidades.
+* **Analisador**  de influência de oportunidade - prove a contribuição do Marketing ao medir o impacto de programas e dos principais envolvimentos que geraram oportunidades.
 
 ## Opções de relatório {#report-options}
 
