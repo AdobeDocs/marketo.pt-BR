@@ -23,7 +23,7 @@ Selecionar um plano de fundo de mensagem é uma etapa importante para finalizar 
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Para definir uma cor, clique em **Cor** e, em seguida, no quadrado de seleção de cores. Selecione a cor clicando nela ou digitando os códigos hexadecimais ou RGB no seletor de cores.
+1. Para definir uma cor, clique em **Color** e, em seguida, no quadrado de seleção de cores. Selecione a cor clicando nela ou digitando os códigos hexadecimais ou RGB no seletor de cores.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,7 +31,7 @@ Selecionar um plano de fundo de mensagem é uma etapa importante para finalizar 
    >
    >Branco comum, o padrão, geralmente é um vencedor.
 
-1. Se quiser usar um plano de fundo, clique em **Imagem** e, em seguida, no link **Selecionar imagem** .
+1. Se quiser usar um plano de fundo, clique em **Imagem** e, em seguida, no link **Selecionar imagem**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
@@ -47,7 +47,7 @@ Selecionar um plano de fundo de mensagem é uma etapa importante para finalizar 
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. Aplique uma borda de imagem opcional. A configuração padrão é **Desativado**. Primeiro, selecione a cor clicando nela ou digitando os números hexadecimais ou RGB no seletor de cores.
+1. Aplique uma borda de imagem opcional. A configuração padrão é **Off**. Primeiro, selecione a cor clicando nela ou digitando os números hexadecimais ou RGB no seletor de cores.
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
