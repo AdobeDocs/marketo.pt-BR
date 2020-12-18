@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para os usuários do Predictive Content, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Conteúdo`<sup>AI</sup>`do Marketing.
+>Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
-Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao definir uma lista inteligente em uma campanha inteligente. Você pode acionar uma ação para qualquer pessoa que clicar em conteúdo preditivo por meio do modelo [](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)Rich Media, da Barra [de recomendação de](enabling-predictive-content/enable-the-content-recommendation-bar.md)conteúdo ou em um email.
+Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao definir uma lista inteligente em uma campanha inteligente. Você pode acionar uma ação para qualquer pessoa que clicar em conteúdo preditivo por meio do [modelo Rich Media](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), da [Barra de recomendação de conteúdo](enabling-predictive-content/enable-the-content-recommendation-bar.md) ou em um email.
 
-1. Na sua campanha inteligente, navegue até a guia Lista **** inteligente.
+1. Na sua campanha inteligente, navegue até a guia **Lista inteligente**.
 
    ![](assets/smart-list-1.png)
 
@@ -28,7 +28,7 @@ Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao de
    >**Mergulho profundo**
    >
    >
-   >Listas inteligentes podem fazer coisas incríveis. Saiba mais no mergulho [profundo da lista](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)inteligente.
+   >Listas inteligentes podem fazer coisas incríveis. Saiba mais no mergulho profundo [lista inteligente](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Procure o acionador e arraste e solte-o na tela.
 
@@ -38,7 +38,7 @@ Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao de
    >
    >Uma campanha inteligente com acionadores é executada no modo Acionador. Ele é executado em uma pessoa de cada vez com base nos eventos acionados e nos filtros adicionados.
 
-1. Clique na lista suspensa **Nome** e selecione um operador.
+1. Clique no menu suspenso **Name** e selecione um operador.
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -46,7 +46,7 @@ Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao de
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Adicione a restrição **Tipo** .
+1. Adicione a restrição **Type**.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -54,7 +54,7 @@ Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao de
 
    ![](assets/pc-add-constraint.png)
 
-1. Se você estiver usando a fonte de email para seu conteúdo preditivo, adicione o **Click Link no acionador Email **1. Selecione seu e-mail e adicione a restrição **Is Predictive** , definida como **true**.
+1. Se você estiver usando a fonte de email para seu conteúdo preditivo, adicione o **Click Link no acionador Email **1. Selecione seu email e adicione a restrição **Is Predictive**, definida como **true**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
