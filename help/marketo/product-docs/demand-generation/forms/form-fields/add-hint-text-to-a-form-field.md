@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # Adicionar texto de dica a um campo de formulário {#add-hint-text-to-a-form-field}
 
-Dicas e [instruções](add-tooltip-instructions-to-a-form-field.md) ajudam as pessoas a preencher formulários. Aqui está como adicionar uma dica.
+As dicas e [instruções](add-tooltip-instructions-to-a-form-field.md) ajudam as pessoas a preencher formulários. Aqui está como adicionar uma dica.
 
 >[!NOTE]
 >
 >**Definição**
 >
->As **dicas** de formulário são o texto dentro do campo que desaparece quando o visitante começa a digitar no campo.
+>Formulário **Dicas** é o texto dentro do campo que desaparece quando o visitante começa a digitar no campo.
 >
->As **Instruções** do formulário são dicas de ferramentas que aparecem quando o visitante passa sobre o campo.
+>Formulário **Instruções** são pequenas dicas de ferramentas que aparecem quando o visitante passa sobre o campo.
 
 1. Vá para **Marketing** **Atividade**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Selecione o campo e insira seu **Dica** de **texto**.
+1. Selecione o campo e digite sua **Dica** **Texto**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
@@ -39,7 +39,7 @@ Dicas e [instruções](add-tooltip-instructions-to-a-form-field.md) ajudam as pe
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 
@@ -48,11 +48,11 @@ Dicas e [instruções](add-tooltip-instructions-to-a-form-field.md) ajudam as pe
    >**Lembrete**
    >
    >
-   >Não se esqueça de [aprovar o rascunho](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de landing page criado pelas alterações de formulário.
+   >Não se esqueça de [aprovar o rascunho de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Confira! Vamos avançar e adicionar algumas [instruções](add-tooltip-instructions-to-a-form-field.md) agora.
+Confira! Vamos adicionar algumas [instruções](add-tooltip-instructions-to-a-form-field.md) agora.
 
 >[!MORELIKETHIS]
 >
