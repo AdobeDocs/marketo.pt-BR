@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# A Obter Resultados Do Explorador De Receitas {#graphing-results-from-revenue-explorer}
+# A Obter Resultados do Explorador de Receitas {#graphing-results-from-revenue-explorer}
 
 Por padrão, os relatórios no Gerenciador de receita são exibidos como uma tabela. Você também tem a opção de exibir resultados como gráfico em vários formatos.
 
-1. Clique na seta no menu suspenso **Visualizações como** do seu relatório. Opções gráficas diferentes serão exibidas.
+1. Clique na seta no menu suspenso **Visualização como** do seu relatório. Opções gráficas diferentes serão exibidas.
 
    ![](assets/one-1.png)
 
