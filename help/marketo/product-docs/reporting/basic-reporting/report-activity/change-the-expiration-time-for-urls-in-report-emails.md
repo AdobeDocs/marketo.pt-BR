@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Os links em seus emails de subscrição de relatório expiram após três dias. Para alterar o tempo de expiração desses links, siga estas etapas.
 
-1. Em **Admin**, clique em Configurações **de** logon.
+1. Em **Admin**, clique em **Definições de Início de Sessão**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
