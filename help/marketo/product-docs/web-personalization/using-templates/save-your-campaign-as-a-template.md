@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Salvar sua Campanha como um modelo {#save-your-campaign-as-a-template}
+# Salvar sua Campanha como um Modelo {#save-your-campaign-as-a-template}
 
 Você já passou algum tempo criando a campanha da web perfeita? Agora você pode salvá-lo como um modelo para fácil reutilização no futuro.
 
