@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Editar título e metadados da Landing page {#edit-landing-page-title-and-metadata}
+# Editar título de Landing page e metadados {#edit-landing-page-title-and-metadata}
 
-O Marketo permite que você edite suas [meta tags de landing page para fins](http://www.w3schools.com/tags/tag_meta.asp) de SEO, bem como personalize a parte `<head>` do HTML.
+O Marketo permite que você edite suas tags meta [de landing page para fins de SEO](http://www.w3schools.com/tags/tag_meta.asp), bem como personalize a parte `<head>` do HTML.
 
-1. Selecione uma landing page e clique em **Editar** **rascunho**.
+1. Selecione uma landing page e clique em **Editar** **Rascunho**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -23,20 +23,20 @@ O Marketo permite que você edite suas [meta tags de landing page para fins](htt
    >
    >O designer de Landings page abrirá em uma nova janela.
 
-1. Em Ações de **Landing page,** clique em **Editar marcas** de meta de página.
+1. Em **Ações de Landing page,** clique em **Editar tags de meta de página**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Digite o **Título,** as **Palavras-chave** e a **Descrição** da sua página. Selecione a opção **Robôs** desejada e insira qualquer conteúdo personalizado desejado para a `<head>` seção HTML. Clique em **Salvar.**
+1. Digite **Título,** **Palavras-chave** e **Descrição** para a sua página. Selecione a opção **Robots** desejada e insira qualquer conteúdo personalizado que desejar para a seção HTML `<head>`. Clique em **Salvar.**
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**O que [robôs](http://www.robotstxt.org/meta.html) significam?**
+   >**O que significa  [](http://www.robotstxt.org/meta.html) robôs?**
    >
    >
-   >**index:** é pesquisável na Web. **siga:** os mecanismos de pesquisa podem seguir links em páginas indexadas.
+   >**index:** page é pesquisável na Web. **siga:os mecanismos** de pesquisa podem seguir links em páginas indexadas.
 
 1. Edite as tags a qualquer momento e aprove a landing page.
 
