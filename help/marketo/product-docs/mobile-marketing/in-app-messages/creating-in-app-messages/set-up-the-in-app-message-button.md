@@ -19,7 +19,7 @@ Você pode usar o design de botão padrão, modificá-lo ou fazer upload de sua 
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Para alterar a cor do botão padrão, clique no botão **Cor** .
+1. Para alterar a cor do botão padrão, clique no botão **Cor**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -35,7 +35,7 @@ Você pode usar o design de botão padrão, modificá-lo ou fazer upload de sua 
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Escolha a imagem e clique em **Selecionar**.
+1. Escolha a imagem e clique em **Select**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
