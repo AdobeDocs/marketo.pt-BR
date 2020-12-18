@@ -17,25 +17,25 @@ Com o Revenue Stage Modeler e o Revenue Explorer, você obtém informações sob
 
 >[!NOTE]
 >
->Verifique se o modelo aprovado tem estágios no caminho de sucesso com Rastreamento de **Start por Conta** marcado
+>Certifique-se de que seu modelo aprovado tenha estágios no caminho de sucesso com **Rastreamento de Start por Conta** marcado
 
-1. Depois de ter passado tempo suficiente para coletar dados úteis, selecione **Receita Explorer** na página inicial **** Meu marketing.
+1. Depois de ter passado tempo suficiente para coletar dados úteis, selecione **Explorador de Receita** em **Início do Meu Marketo**.
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Para criar um novo relatório, clique em **Arquivo** e selecione **Novo** e, em seguida **, Relatório**.
+1. Para criar um novo relatório, clique em **Arquivo** e selecione **Novo** em seguida **Relatório**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
-1. Selecione **Modelo de Análise de Desempenho (Empresa)** como a área de análise e clique em **OK**.
+1. Selecione **Análise de Desempenho do Modelo (Empresa)** como a área de análise e clique em **OK**.
 
    ![](assets/image2015-4-29-16-3a41-3a47.png)
 
-1. Recomendamos que você arraste os campos **Palco**, **Mês** e Saldo **** final para mostrar a progressão das empresas por mês em seu modelo. Use filtros para selecionar os meses que deseja.
+1. Recomendamos que você arraste nos campos **Estágio**, **Mês** e **Saldo Final** para mostrar a progressão das empresas pelo seu modelo por mês. Use filtros para selecionar os meses que deseja.
 
    ![](assets/image2015-4-29-17-3a16-3a1.png)
 
-1. Quando terminar de configurar seu relatório, clique com o botão direito do mouse em **Is Track Empresa** e selecione **Filter**. Usaremos isso para limitar o relatório somente aos estágios nos quais o **Rastreamento por conta** está selecionado.
+1. Quando terminar de configurar seu relatório, clique com o botão direito do mouse em **Is Track Empresa** e selecione **Filter**. Usaremos isso para limitar o relatório a apenas estágios nos quais **Rastreamento por conta** está selecionado.
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
