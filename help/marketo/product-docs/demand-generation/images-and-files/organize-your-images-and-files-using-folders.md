@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A criação de pastas permite que você mova imagens e arquivos, veja apenas o conjunto de imagens desejado e faça upload diretamente para uma pasta específica.
 
-1. Vá para o **Design** **Studio**.
+1. Vá para **Design** **Studio**.
 
    ![](assets/designstudio-7.png)
 
@@ -27,7 +27,7 @@ A criação de pastas permite que você mova imagens e arquivos, veja apenas o c
 
    ![](assets/image2014-9-16-11-3a25-3a53.png)
 
-1. Vá para **Imagens e arquivos**, agora você pode arrastar e soltar na pasta desejada.
+1. Vá para **Imagens e Arquivos**, agora você pode arrastar e soltar na pasta desejada.
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
