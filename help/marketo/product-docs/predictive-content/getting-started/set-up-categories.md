@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para os usuários do Predictive Content, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Conteúdo`<sup>AI</sup>`do Marketing.
+>Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
 Crie categorias em Conteúdo preditivo para agrupar seus resultados preditivos na Web ou no email. Por exemplo, você pode trabalhar somente com blogs ou com conteúdo em um idioma específico. Também permite pesquisar e filtrar a visualização da página.  As categorias são exibidas nas páginas Todo o conteúdo e Conteúdo previsível para facilitar a referência.
 
@@ -33,7 +33,7 @@ Ao adicionar conteúdo, você pode marcá-lo com categorias selecionadas no pop-
 
 Veja como criar tags de categoria.
 
-1. Vá para Configurações **** de conteúdo.
+1. Vá para **Configurações de conteúdo**.
 
    ![](assets/settings-dropdown-hand-1.png)
 
@@ -41,11 +41,11 @@ Veja como criar tags de categoria.
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. Tags de categoria existentes são exibidas. Insira uma nova tag de categoria e clique em **Criar nova**.
+1. Tags de categoria existentes são exibidas. Insira uma nova tag de categoria e clique em **Criar novo**.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. Você pode remover uma tag de categoria clicando no **x** ao lado dela.
+1. Você pode remover uma tag de categoria clicando em **x** ao lado dela.
 
    ![](assets/remove-category-tag-updated.png)
 
