@@ -19,11 +19,11 @@ Para adicionar imagens de uma página da Web, copie o endereço da Web (URL) da 
 
    ![](assets/designstudio-2.png)
 
-1. Clique em **Nova** e **obtenha imagens da Web**.
+1. Clique em **Novo** e **Obter imagens da Web**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Selecione a pasta **Imagens e arquivos** , cole o endereço da Web (URL) na caixa de texto URL e clique em **Avançar.**
+1. Selecione a pasta **Imagens e Arquivos**, cole o endereço da Web (URL) na caixa de texto URL e clique em **Próximo.**
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
