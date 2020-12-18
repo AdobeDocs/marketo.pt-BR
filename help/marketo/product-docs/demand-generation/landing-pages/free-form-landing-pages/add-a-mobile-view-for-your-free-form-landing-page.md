@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Adicionar uma Visualização móvel para sua Landing page de forma livre {#add-a-mobile-view-for-your-free-form-landing-page}
+# Adicione uma Visualização móvel para sua Landing page de forma livre {#add-a-mobile-view-for-your-free-form-landing-page}
 
 É fácil fazer com que suas landings page de forma livre fiquem excelentes em um smartphone.
 
 >[!NOTE]
 >
->A visualização móvel funciona em telas com largura de 480px (ou menos). Em outras palavras, smartphones. Veja mais [informações sobre as resoluções](http://mydevice.io/devices/.)do dispositivo.
+>A visualização móvel funciona em telas com largura de 480px (ou menos). Em outras palavras, smartphones. Veja mais [informações sobre resoluções de dispositivos](http://mydevice.io/devices/.).
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Clique na guia **Móvel** .
+1. Clique na guia **Mobile**.
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Talvez seja necessário atualizar o modelo de forma livre. Se você vir essa mensagem, leia rapidamente sobre como [tornar um modelo de landing page de forma livre existente compatível](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)com dispositivos móveis.
+   >Talvez seja necessário atualizar o modelo de forma livre. Se você vir essa mensagem, leia rapidamente sobre como [tornar um modelo de landing page de forma livre existente compatível](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
 1. Ótimo! Agora você ativou a versão móvel da sua landing page. Clique em **Fechar. **
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   Agora você pode [personalizar sua visualização](customize-mobile-view-for-your-free-form-landing-page.md)móvel.
+   Agora você pode [personalizar sua visualização móvel](customize-mobile-view-for-your-free-form-landing-page.md).
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
 
