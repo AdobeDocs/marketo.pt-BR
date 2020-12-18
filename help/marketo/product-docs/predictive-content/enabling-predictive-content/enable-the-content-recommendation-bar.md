@@ -25,7 +25,7 @@ O mecanismo de recomendação de conteúdo usa análises preditivas e algoritmos
 
 ## Ativar e personalizar a barra de recomendação de conteúdo {#enable-and-customize-the-content-recommendation-bar}
 
-1. Vá para Configurações **** de conteúdo.
+1. Vá para **Configurações de conteúdo**.
 
    ![](assets/settings-dropdown-hand.png)
 
@@ -33,7 +33,7 @@ O mecanismo de recomendação de conteúdo usa análises preditivas e algoritmos
 
    ![](assets/content-settings-bar-hand.png)
 
-1. Para habilitar a Barra de recomendações para um URL, basta clicar em **Ativado** e, em seguida, em **Salvar**.
+1. Para habilitar a Barra de recomendação para um URL, basta clicar em **On** e em **Salvar**.
 
    ![](assets/bar-enable.png)
 
@@ -53,9 +53,9 @@ O mecanismo de recomendação de conteúdo usa análises preditivas e algoritmos
    * Esse campo diferencia maiúsculas de minúsculas
 
 
-## Considerações sobre a barra de recomendações {#recommendation-bar-considerations}
+## Considerações da Barra de Recomendações {#recommendation-bar-considerations}
 
-* É necessário pelo menos um conteúdo para a barra de recomendações definida como **Ativado** na página do Recommendations para que o mecanismo de recomendação funcione. Se nenhum conteúdo estiver ativado e a barra estiver definida como **Ligada**, o efeito Seta será exibido na parte inferior direita da página da Web, mas nenhum conteúdo recomendado será exibido.
+* É necessário pelo menos um conteúdo para que a barra de recomendações seja definida como **On** na página do Recommendations para que o mecanismo de recomendação funcione. Se nenhum conteúdo estiver ativado e a barra estiver definida como **On**, o efeito Seta será exibido na parte inferior direita da página da Web, mas nenhum conteúdo recomendado será exibido.
 
 * Quanto mais conteúdo for executado no mecanismo de recomendação, melhor será para o algoritmo testar e saber qual conteúdo funciona melhor. Recomendamos começar com 10 a 20 itens de conteúdo em execução e ativos e continuar adicionando novos.
 * O conteúdo que você habilita para a recomendação deve incluir a tag RTP Javascript. Isso ajuda o algoritmo a rastrear e otimizar o conteúdo recomendado.
