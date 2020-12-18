@@ -19,7 +19,7 @@ O Marketo rastreia o número de visualizações de página e conclusões de form
 >
 >[Crie duas ou mais landings page](../../../../getting-started/quick-wins/landing-page-with-a-form.md), de preferência com um formulário.
 
-1. No Design Studio, clique em **Novo**. Na lista suspensa, selecione **Novo grupo** de teste.
+1. No Design Studio, clique em **Novo**. Na lista suspensa, selecione **Novo grupo de teste**.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -30,7 +30,7 @@ O Marketo rastreia o número de visualizações de página e conclusões de form
    >    
    >    
    >    * Clique com o botão direito do mouse em uma landing page na árvore e selecione **Converter em grupo de teste**
-   >    * Crie um grupo de teste de Landing page em um programa escolhendo Grupo **de teste** AB no menu **Novo ativo** local
+   >    * Crie um Grupo de Teste de Landing page em um programa escolhendo **Grupo de Teste AB** no menu **Novo Ativo Local**
 
 
 1. Insira um nome e uma descrição opcional. Selecione as Landings page que deseja testar e clique em **Criar**.
@@ -45,7 +45,7 @@ O Marketo rastreia o número de visualizações de página e conclusões de form
 
    ![](assets/three-1.png)
 
-1. Clique na lista suspensa Opções **do grupo de** teste e selecione **Aprovar grupo** de teste.
+1. Clique na lista suspensa **Opções do grupo de teste** e selecione **Aprovar grupo de teste**.
 
    ![](assets/four-1.png)
 
@@ -55,5 +55,5 @@ O Marketo rastreia o número de visualizações de página e conclusões de form
 
    >[!TIP]
    >
-   >Se desejar excluir o Grupo de teste, basta clicar em **Testar ações** do grupo e selecionar **Excluir grupo** de teste.
+   >Se desejar excluir o Grupo de teste, basta clicar em **Ações do grupo de teste** e selecionar **Excluir grupo de teste**.
 
