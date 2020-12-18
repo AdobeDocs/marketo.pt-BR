@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para os usuários do Predictive Content, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Conteúdo`<sup>AI</sup>`do Marketing.
+>Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
 É possível adicionar facilmente conteúdo manualmente à página Todo o conteúdo.
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    ![](assets/all-content-add-hand.png)
 
-1. O novo título agora aparece na página **Todo conteúdo** . Observe que ele ainda não foi aprovado para conteúdo preditivo.
+1. O novo título agora aparece na página **Todo o conteúdo**. Observe que ele ainda não foi aprovado para conteúdo preditivo.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Veja como adicioná-lo ao Conteúdo [preditivo](http://docs.marketo.com/x/Vbet).
+1. Veja como adicioná-lo a [Conteúdo preditivo](http://docs.marketo.com/x/Vbet).
 
