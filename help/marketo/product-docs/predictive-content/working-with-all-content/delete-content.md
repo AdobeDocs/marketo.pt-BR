@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para os usuários do Predictive Content, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Conteúdo`<sup>AI</sup>`do Marketing.
+>Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
 Quando você não precisa mais de um conteúdo, é fácil se livrar dele.
 
@@ -23,7 +23,7 @@ Quando você não precisa mais de um conteúdo, é fácil se livrar dele.
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. Clique no menu suspenso Ações **de** conteúdo e selecione **Excluir conteúdo**.
+1. Clique no menu suspenso **Ações de conteúdo** e selecione **Excluir conteúdo**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 
