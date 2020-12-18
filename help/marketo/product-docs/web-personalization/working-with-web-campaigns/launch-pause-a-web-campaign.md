@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Iniciar/pausar uma Campanha da Web {#launch-pause-a-web-campaign}
 
-Uma campanha da Web é uma reação personalizada associada a um segmento específico e pode ser uma caixa [de](create-a-new-dialog-web-campaign.md) diálogo em seu site, uma substituição [de zona](create-a-new-in-zone-web-campaign.md)interna, um recurso de widget ou um alerta de email.
+Uma campanha da Web é uma reação personalizada associada a um segmento específico e pode ser uma [caixa de diálogo](create-a-new-dialog-web-campaign.md) em seu site, uma [substituição de zona](create-a-new-in-zone-web-campaign.md), um recurso de widget ou um alerta de email.
 
 Você pode iniciar ou pausar uma campanha da Web de duas formas na página Campanhas da Web ou na página Definir Campanhas da Web.
 
-1. Clique em Personalização **da Web**.
+1. Clique em **Personalização da Web**.
 
    ![](assets/one-1.png)
 
-1. Vá para Campanhas **da Web**.
+1. Vá para **Campanha**.
 
    ![](assets/two-1.png)
 
