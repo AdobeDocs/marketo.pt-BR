@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Os modelos de ciclo de receita levam o marketing ao próximo nível. Eles modelam todos os estágios de todo o seu funil de receita — desde quando você interage com um cliente potencial pela primeira vez até que o cliente potencial seja vencido.
 
-## Mental Model (Como pensar sobre esta coisa) {#mental-model-how-to-think-about-this-thing}
+## Modelo mental (Como pensar sobre essa coisa) {#mental-model-how-to-think-about-this-thing}
 
 O Modelador é como uma série de baldes com água dentro deles. Há buracos na parte inferior dos baldes.
 
@@ -37,9 +37,9 @@ Por padrão, um novo modelo o start com seis estágios de receita. Este modelo e
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Notem que estão todos num fundo verde. Isso é chamado de Caminho **de** Sucesso. Entenda mais sobre o caminho de sucesso [aqui](understanding-revenue-model-success-path.md).
+Notem que estão todos num fundo verde. Isso é chamado de **Caminho de sucesso**. Saiba mais sobre o caminho de sucesso [here](understanding-revenue-model-success-path.md).
 
-**As etapas** são os marcos em uma progressão de liderança para suas metas.
+**As** etapas são os marcos em uma progressão da liderança em direção às suas metas.
 
 **Transição **são mostradas como setas e controlam como as pontas se movem entre as etapas.
 
@@ -53,13 +53,13 @@ Cada empresa é diferente. Você pode adicionar coisas ao modelo arrastando de c
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
-## Estágio de inventário {#inventory-stage}
+## Estágio de Inventário {#inventory-stage}
 
 Isto parece uma caixa e é o mais básico dos estágios. O Analytics acompanhará a entrada, a saída e o equilíbrio dessa etapa.
 
-## Estágio do SLA {#sla-stage}
+## SLA Stage {#sla-stage}
 
-Este é o estágio do Contrato **de nível de** serviço. A intenção aqui é que algumas etapas você queira impor um limite de tempo.
+Isso é curto para a etapa **Contrato de nível de serviço**. A intenção aqui é que algumas etapas você queira impor um limite de tempo.
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ Este é o estágio do Contrato **de nível de** serviço. A intenção aqui é q
 >
 >Quando um cliente potencial preenche um formulário &quot;Entre em contato comigo&quot; e você envia um alerta para um representante de vendas, talvez você queira um SLA de 72 horas. Você poderá acompanhar as infrações e repreender o representante por deixar um bom líder incomunicável.
 
-## Fase da porta {#gate-stage}
+## Estágio de portão {#gate-stage}
 
 Um estágio de portão é destinado a situações nas quais você deseja filtrar leva a uma das várias opções. Esta é uma opção avançada. Os iniciantes devem evitar portões.
 
@@ -75,9 +75,9 @@ Um estágio de portão é destinado a situações nas quais você deseja filtrar
 >
 >**Exemplo**
 >
->Uma porta pode ser usada para clientes potenciais que façam parte de uma lista **de conta** nomeada para separá-la do processo normal.
+>Uma porta pode ser usada para clientes potenciais que façam parte de uma **lista de conta nomeada** para separá-la do processo normal.
 
-## Transições {#transitions}
+## Transição {#transitions}
 
 Esclareça exatamente como um cliente potencial se move de um estágio para outro usando campanhas inteligentes e certifique-se de que as informações não fiquem presas em nenhum estágio. Certifique-se de usar filtros de disparo para transições (essa é uma maneira de avaliar).
 
