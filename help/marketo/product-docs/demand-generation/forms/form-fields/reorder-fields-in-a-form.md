@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/editform.png)
 
