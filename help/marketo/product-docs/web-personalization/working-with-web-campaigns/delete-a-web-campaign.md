@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Excluir uma Campanha da Web {#delete-a-web-campaign}
 
-1. Vá para Campanhas **da Web**.
+1. Vá para **Campanha**.
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >Para facilitar a localização da campanha da Web desejada, use o recurso [de](filter-web-campaigns.md)filtro.
+   >Para facilitar a localização da campanha da Web desejada, use o recurso [filter](filter-web-campaigns.md).
 
 1. Na página Campanhas da Web, clique em **Excluir **na campanha que deseja excluir.
 
