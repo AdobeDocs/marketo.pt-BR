@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Incorporar um formulário ao seu site {#embed-a-form-on-your-website}
+# Incorporar um formulário em seu site {#embed-a-form-on-your-website}
 
 O Marketo permite que você incorpore nossos formulários em seu próprio site. Veja como obter acesso ao código incorporado.
 
@@ -23,20 +23,20 @@ O Marketo permite que você incorpore nossos formulários em seu próprio site. 
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. Em **Ações** de formulário **, clique em** Incorporar **** código ****.
+1. Em **Formulário** **Ações**, clique em **Incorporar** **Código**.
 
    >[!NOTE]
    >
    >**Lembrete**
    >
    >
-   >O formulário deve ser aprovado para que o item **Incorporar** **código** esteja visível/utilizável.
+   >O formulário deve ser aprovado para que o item **Embed** **Code** fique visível/utilizável.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >** [O preenchimento](../../../../product-docs/administration/settings/edit-landing-page-settings.md)** do formulário não funciona ao usar o código incorporado do formulário em suas próprias páginas *ou* uma landing page de marketing. O preenchimento prévio do formulário deve funcionar somente quando o formulário for usado em uma landing page de marketing por meio da opção Inserir elemento.
+   >** [O Preenchimento do formulário](../../../../product-docs/administration/settings/edit-landing-page-settings.md)*** não funciona ao usar o código incorporado do formulário em suas próprias páginas *ou* uma landing page de marketing. O preenchimento prévio do formulário deve funcionar somente quando o formulário for usado em uma landing page de marketing por meio da opção Inserir elemento.
 
 1. Selecione/Copie o código incorporado e clique em **Fechar**.
 
@@ -50,6 +50,6 @@ Agora, basta dar o código incorporado ao seu desenvolvedor da Web e fazer com q
 
 >[!NOTE]
 >
->Se o seu desenvolvedor quiser personalizar a aparência ou acessar funções avançadas da API, mostre-lhes a Página [de desenvolvedores do](http://developers.marketo.com/documentation/websites/forms-2-0/)Forms 2.0.
+>Se o seu desenvolvedor quiser personalizar a aparência ou acessar funções avançadas da API, mostre a [Página de desenvolvedores do Forms 2.0](http://developers.marketo.com/documentation/websites/forms-2-0/).
 
-Ótimo trabalho! Deseja que o código [incorporado inclua o código](use-a-form-in-a-lightbox.md)lightbox? Isso também é fácil!
+Ótimo trabalho! Deseja que o [código incorporado inclua o código lightbox](use-a-form-in-a-lightbox.md)? Isso também é fácil!
