@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Alterar a localidade de um formulário {#change-a-forms-locale}
+# Alterar a Localidade de um Formulário {#change-a-forms-locale}
 
 Ao lidar com formulários internacionais, você desejará exibir datas/horas nos formatos corretos. O Marketo fará isso automaticamente para você, tudo o que você precisa fazer é definir a localidade do formulário e nós cuidamos do resto.
 
@@ -19,15 +19,15 @@ Ao lidar com formulários internacionais, você desejará exibir datas/horas nos
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Em **Configurações de** formulário ****, clique em **Configurações**.
+1. Em **Formulário** **Definições**, clique em **Definições**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Selecione a **Localidade** de sua escolha.
+1. Selecione **Locale** de sua escolha.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
@@ -48,7 +48,7 @@ Ao lidar com formulários internacionais, você desejará exibir datas/horas nos
    >**Lembrete**
    >
    >
-   >Lembre-se de [aprovar o rascunho](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de landing page criado pelas alterações de formulário.
+   >Lembre-se de [aprovar o rascunho da landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
 1. 
 1. É isso! As pessoas podem ver a data/hora sendo exibida na localidade correta.
