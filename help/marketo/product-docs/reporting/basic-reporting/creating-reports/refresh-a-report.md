@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Atualizar um relatório {#refresh-a-report}
+# Atualizar um Relatório {#refresh-a-report}
 
 Depois de visualizar um relatório, o Marketo o armazena em seu banco de dados para que seja carregado rapidamente na próxima visualização. Após sua primeira visualização, os relatórios são atualizados automaticamente a cada 24 horas para que estejam sempre atualizados. Mas você pode atualizá-los manualmente sempre que quiser.
 
@@ -23,7 +23,7 @@ Depois de visualizar um relatório, o Marketo o armazena em seu banco de dados p
 
    ![](assets/two.png)
 
-1. Você também pode atualizar o relatório clicando no menu Ações **de** relatório e selecionando **Atualizar relatório**.
+1. Você também pode atualizar o relatório clicando no menu **Ações de relatório** e selecionando **Atualizar relatório**.
 
    ![](assets/three.png)
 
