@@ -21,11 +21,11 @@ Deseja excluir seus próprios funcionários e o nome da organização do rastrea
 >
 >Esse processo pode levar até cinco minutos para ser concluído.
 
-1. Faça logon na Web Personalization (Personalização da Web) e, em seu login, clique em **Account Settings (Configurações** da conta).
+1. Faça logon na Web Personalization (Personalização da Web) e, em seu login, clique em **Configurações da conta**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Role para baixo até a área de exclusão **de** IP. Se estiver excluindo endereços IP pela primeira vez, clique no campo vazio **Excluir endereços** IP.
+1. Role para baixo até a área **IP exclude**. Se estiver excluindo endereços IP pela primeira vez, clique no campo vazio **Excluir endereços IP**.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
