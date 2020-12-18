@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Publicar sorteios {#publish-a-sweepstakes}
 
-Depois de [criar sorteios](create-sweepstakes.md), você pode publicá-los em suas landings page de marketing, em seu site e no Facebook.
+Depois que você [criar sorteios](create-sweepstakes.md), poderá publicá-los em suas landings page de marketing, em seu site e no Facebook.
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ Depois de [criar sorteios](create-sweepstakes.md), você pode publicá-los em su
    >
    >Você precisa aprovar seus sorteios para disponibilizá-los aqui.
 
-   [publique a landing page no Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) para [colocar os sorteios em seu site](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [publique a landing page no ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebook para colocar os sorteios em seu site](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
    >[!TIP]
    >
@@ -54,6 +54,6 @@ Depois de [criar sorteios](create-sweepstakes.md), você pode publicá-los em su
 
    >[!NOTE]
    >
-   >Depois que as pessoas se inscreverem no start, lembre-se de voltar ao aplicativo para [selecionar os vencedores](select-sweepstakes-winners.md)dos sorteios!
+   >Depois que as pessoas se inscreverem no start, lembre-se de voltar ao aplicativo para [selecionar os vencedores do sorteio](select-sweepstakes-winners.md)!
 
 Parabéns! Aprove a landing page e seus sorteios estão vivos. Você também pode ou .
