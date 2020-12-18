@@ -34,7 +34,7 @@ Uma campanha In Zone e uma campanha (Widget ou Diálogo) podem reagir na mesma p
 
    >[!NOTE]
    >
-   >Para facilitar a localização da campanha da Web desejada, use o recurso [de](filter-web-campaigns.md)filtro.
+   >Para facilitar a localização da campanha da Web desejada, use o recurso [filter](filter-web-campaigns.md).
 
 1. Na Página Editar Campanha, defina a Pontuação de prioridade (9999 = Prioridade mais alta 1 = Prioridade mais baixa).
 
