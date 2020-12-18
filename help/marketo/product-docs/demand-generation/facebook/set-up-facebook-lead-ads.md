@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurar Anúncios de venda do Facebook {#set-up-facebook-lead-ads}
 
-Use os Anúncios [de venda do](https://www.facebook.com/business/a/lead-ads) Facebook para executar campanhas de publicidade no Facebook e gerar clientes potenciais para o Marketing.
+Use [Anúncios de venda do Facebook](https://www.facebook.com/business/a/lead-ads) para executar campanhas publicitárias no Facebook e gerar clientes potenciais para o Marketing.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Use os Anúncios [de venda do](https://www.facebook.com/business/a/lead-ads) Fac
 >
 >Para adicionar Anúncios de venda do Facebook à sua instância, entre em contato com o Gerente de sucesso do cliente.
 
-1. Vá para **Administrador** do Marketo.
+1. Vá para Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
@@ -33,7 +33,7 @@ Use os Anúncios [de venda do](https://www.facebook.com/business/a/lead-ads) Fac
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Digite um Nome **para** exibição para o seu serviço, selecione o serviço Anúncios **de venda do** Facebook na lista suspensa e clique em **Criar**.
+1. Digite um **Nome de exibição** para seu serviço, selecione o serviço **Anúncios de venda do Facebook** no menu suspenso e clique em **Criar**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
@@ -45,7 +45,7 @@ Use os Anúncios [de venda do](https://www.facebook.com/business/a/lead-ads) Fac
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Depois de se conectar ao Facebook, volte para o Marketo e clique em **Autorizar**.
+1. Depois que você estiver conectado ao Facebook, volte para Marketo e clique em **Autorizar**.
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
@@ -53,11 +53,11 @@ Use os Anúncios [de venda do](https://www.facebook.com/business/a/lead-ads) Fac
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Você vai notar que agora está autorizado. Clique em **Avançar**.
+1. Você vai notar que agora está autorizado. Clique em **Próximo**.
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. Selecione as páginas das quais você deseja que o Marketo obtenha os Anúncios de venda do Facebook e clique em **Avançar**.
+1. Selecione as páginas das quais deseja que o Marketo obtenha os Anúncios de venda do Facebook e clique em **Próximo**.
 
    >[!TIP]
    >
@@ -69,7 +69,7 @@ Use os Anúncios [de venda do](https://www.facebook.com/business/a/lead-ads) Fac
 
    >[!TIP]
    >
-   >Ao modificar os mapeamentos, você pode personalizar o local em que os dados dos anúncios de cliente potencial são armazenados no Marketing. Você também pode [extrair dados de Perguntas](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)personalizadas de Anúncios de venda.
+   >Ao modificar os mapeamentos, você pode personalizar o local em que os dados dos anúncios de cliente potencial são armazenados no Marketing. Você também pode [extrair dados de Perguntas personalizadas sobre Anúncios de venda em potencial](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
