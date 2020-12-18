@@ -23,7 +23,7 @@ Você pode adicionar scripts personalizados, CSS ou outro HTML ao landing page.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. No editor de landings page, arraste o elemento **HTML** .
+1. No editor de landings page, arraste o elemento **HTML**.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
