@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Adicionar membros a um Programa Evento {#adding-members-to-an-event-program}
+# Adicionar membros a um Programa de Evento {#adding-members-to-an-event-program}
 
 Este artigo se aplica somente aos usuários que utilizam o Evento Cap ou o Evento de Metas.
 
@@ -19,16 +19,16 @@ Este artigo se aplica somente aos usuários que utilizam o Evento Cap ou o Event
 >
 >Importar uma lista de pessoas diretamente para um Programa de Evento impedirá que esses registros sejam contados em registros reais no relatório de Rastreamento de metas e no relatório de Progressão de Evento. Siga as instruções abaixo para garantir que seus registros sejam contados.
 
-1. Crie e [adicione pessoas a uma lista](http://docs.marketo.com/x/ecKt)estática.
-1. [Crie uma campanha](http://docs.marketo.com/x/M4AR)inteligente.
-1. Na Lista inteligente da Campanha inteligente que você criou na Etapa dois, localize e adicione o **membro do filtro Lista** .
+1. Crie e [adicione pessoas a uma lista estática](http://docs.marketo.com/x/ecKt).
+1. [Crie uma campanha](http://docs.marketo.com/x/M4AR) inteligente.
+1. Na Lista inteligente da Campanha inteligente criada na Etapa dois, localize e adicione o filtro **Membro da Lista**.
 
    ![](assets/three.png)
 
 1. Localize e selecione a lista criada na Etapa Um.
 1. ![](assets/four.png)
 
-1. No Fluxo, localize e adicione a etapa de fluxo **Alterar status** do Programa.
+1. No Fluxo, localize e adicione a etapa de fluxo **Alterar status do Programa**.
 1. ![](assets/five.png)
 
 1. Localize e selecione seu Programa de Evento.
