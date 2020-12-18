@@ -18,7 +18,7 @@ Já tem uma audiência personalizada no Facebook e deseja adicionar mais leads a
 >[!PREREQUISITES]
 >
 >* [Criar uma Audiência personalizada no Facebook](create-a-custom-audience-in-facebook.md)
->* [Aceite os termos](https://www.facebook.com/ads/manage/customaudiences/tos.php) de audiências personalizados do Facebook em sua conta do Facebook.
+>* [Aceite os termos de audiências personalizados do Facebook ](https://www.facebook.com/ads/manage/customaudiences/tos.php) em sua conta do Facebook.
 
 >
 
@@ -28,15 +28,15 @@ Já tem uma audiência personalizada no Facebook e deseja adicionar mais leads a
 
    ![](assets/one.png)
 
-1. Selecione a guia **Clientes potenciais** e clique no ícone **Enviar por ponte de anúncio **na parte inferior.
+1. Selecione a guia **Leads** e clique no ícone **Send Via Ad Bridge **na parte inferior.
 
    ![](assets/two-1.png)
 
-1. Selecione **Facebook **e clique em **Avançar**.
+1. Selecione **Facebook **e clique em **Próximo**.
 
    ![](assets/three.png)
 
-1. Clique no menu suspenso **Audiência** , selecione a audiência à qual deseja adicionar os clientes em potencial e clique em **Atualizar**.
+1. Clique no menu suspenso **Audiência**, selecione a audiência à qual deseja adicionar os clientes potenciais e clique em **Atualizar**.
 
    ![](assets/4.png)
 
