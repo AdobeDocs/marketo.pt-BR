@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aplicar máscara de entrada a um campo em um formulário {#apply-input-masking-to-a-field-in-a-form}
+# Aplicar o mascaramento de entrada a um campo em um formulário {#apply-input-masking-to-a-field-in-a-form}
 
 Você pode restringir a entrada do seu visitante usando uma máscara de entrada. Por exemplo, talvez você queira que os visitantes digitem apenas números de telefone em um formato específico.
 
@@ -19,19 +19,19 @@ Você pode restringir a entrada do seu visitante usando uma máscara de entrada.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Selecione o campo e verifique se **Field** **Type** (Tipo de campo **) está definido como** Text(Texto).
+1. Selecione seu campo e verifique se **Field** **Type** está definido como **Text**.
 
    >[!NOTE]
    >
-   >O mascaramento de entrada funciona somente com Tipos **de campo de** texto.
+   >O mascaramento de entrada funciona somente com **Tipos de campo de texto**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Clique no link **Mask** **Input (Entrada de máscara** ).
+1. Clique no link **Máscara** **Entrada**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
@@ -47,7 +47,7 @@ Você pode restringir a entrada do seu visitante usando uma máscara de entrada.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
