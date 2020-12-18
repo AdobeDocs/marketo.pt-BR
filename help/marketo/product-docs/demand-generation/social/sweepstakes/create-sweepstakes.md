@@ -21,7 +21,7 @@ Os sorteios dão às pessoas a chance de ganhar um prêmio em troca de contar ao
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
-1. Em seu programa, selecione **Novo > Novo ativo** local.
+1. No seu programa, selecione **Novo > Novo ativo local**.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
@@ -35,7 +35,7 @@ Os sorteios dão às pessoas a chance de ganhar um prêmio em troca de contar ao
 
    >[!TIP]
    >
-   >Para economizar tempo, use a opção **Clonar de** para copiar todas as configurações de um sorteio existente.
+   >Para economizar tempo, você pode usar a opção **Clonar de** para copiar todas as configurações de um sorteio existente.
 
 1. Clique em **Sorteios** **Detalhes**.
 
@@ -49,7 +49,7 @@ Os sorteios dão às pessoas a chance de ganhar um prêmio em troca de contar ao
    >
    >Para desenhos diários e semanais, os tempos de start e de fim são fixados, respectivamente, às 12h00 e às 11h59. Para um desenho único, você pode escolher seu próprio start e hora de término.
 
-1. Clique em **Advanced** **Options (Opções** avançadas).
+1. Clique em **Avançado** **Opções**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -61,19 +61,19 @@ Os sorteios dão às pessoas a chance de ganhar um prêmio em troca de contar ao
 
    >[!NOTE]
    >
-   >Nessa tela, você também pode adicionar um link de política de privacidade. Consulte [Adicionar sua política de privacidade a um aplicativo](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)social.
+   >Nessa tela, você também pode adicionar um link de política de privacidade. Consulte [Adicionar sua política de privacidade a um aplicativo do Social](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. Clique em **Concluir**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. Clique em **Aprovar** **e** em **Fechar**.
+1. Clique em **Aprovar** **e** **Fechar**.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
    >[!TIP]
    >
-   >Para alterar qualquer um dos padrões em seus sorteios, clique em **Voltar**. Para salvar seu trabalho para mais tarde sem aprovação, clique em **Fechar**.
+   >Para alterar qualquer um dos padrões em seus sorteios, clique em **Voltar**. Para salvar seu trabalho para mais tarde sem aprovar, clique em **Fechar**.
 
    Parabéns! Você criou sorteios.
 
@@ -81,6 +81,6 @@ Os sorteios dão às pessoas a chance de ganhar um prêmio em troca de contar ao
    >
    >**Artigos relacionados**
    >
-   >O próximo passo é [publicar seus sorteios](publish-a-sweepstakes.md), mas você pode alterar a aparência e as configurações de seus sorteios. Start com a [personalização dos estilos](customize-sweepstakes-styles.md)de sorteios.
+   >A próxima etapa é [publicar seus sorteios](publish-a-sweepstakes.md), mas você pode alterar a aparência e as configurações de seus sorteios. Start com [personalização dos estilos de sorteios](customize-sweepstakes-styles.md).
 
 O editor de sorteios abre em uma nova janela. As configurações padrão estão todas boas, mas você ainda precisa configurar alguns detalhes. Mostraremos como nas próximas etapas.                    Se houver algum problema nos sorteios, você será solicitado a solucioná-los antes que os sorteios sejam aprovados.
