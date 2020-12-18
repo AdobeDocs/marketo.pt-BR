@@ -36,9 +36,9 @@ Um programa de evento é um tipo de programa que pode ser usado para automatizar
 
 
 
-Os eventos podem se conectar automaticamente ao seu provedor [de](launchpoint-event-partners.md) webinar, bem como sincronizar com um aplicativo [de check-in do](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)iPad.
+Os eventos podem se conectar automaticamente ao seu [provedor de webinar](launchpoint-event-partners.md), bem como sincronizar com um [aplicativo de check-in do iPad](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
-## Assistir a um vídeo {#watch-a-video}
+## Assista a um vídeo {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
