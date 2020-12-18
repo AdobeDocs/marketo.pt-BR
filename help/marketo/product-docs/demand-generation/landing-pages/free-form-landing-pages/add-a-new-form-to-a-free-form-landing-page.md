@@ -28,7 +28,7 @@ Formulário, conheça a landing page. Landing page, formulário.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Localize sua landing page e clique em **Editar** **rascunho**.
+1. Localize sua landing page e clique em **Editar** **Rascunho**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
@@ -42,7 +42,7 @@ Formulário, conheça a landing page. Landing page, formulário.
 
 1. Você tem três opções ao escolher sua página de acompanhamento:
 
-   * **landing page** - para escolher uma landing page de marketing
+   * **landing page**  - para escolher uma landing page de marketing
    * **URL** externo**** - para escolher qualquer URL que você deseja
 
    * **Formulário**** Definido** - para usar as configurações definidas no nível do formulário
@@ -59,4 +59,4 @@ Formulário, conheça a landing page. Landing page, formulário.
 
    Muito bem!
 
-Feche o editor de landings page e [aprove o rascunho](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)da landing page.
+Basta fechar o editor de landings page e [aprovar o rascunho da landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
