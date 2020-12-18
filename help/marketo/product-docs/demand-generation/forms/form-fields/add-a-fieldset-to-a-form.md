@@ -19,7 +19,7 @@ Campos são legais. Eles agrupam vários campos juntos. Você pode controlar um 
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -27,11 +27,11 @@ Campos são legais. Eles agrupam vários campos juntos. Você pode controlar um 
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. Selecione o **conjunto de campos** e insira um **Rótulo**.
+1. Selecione **fieldset** e introduza um **Rótulo**.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. Arraste os campos que deseja para dentro do **conjunto de campos**.
+1. Arraste os campos que deseja para o conjunto de campos **e**.
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
@@ -43,5 +43,5 @@ Aqui está!
 
 >[!TIP]
 >
->É possível ocultar/mostrar dinamicamente o conjunto de campos inteiro, dependendo de outro campo. Saiba mais sobre regras [de](dynamically-toggle-visibility-of-a-form-field.md)visibilidade.
+>É possível ocultar/mostrar dinamicamente o conjunto de campos inteiro, dependendo de outro campo. Saiba mais sobre [regras de visibilidade](dynamically-toggle-visibility-of-a-form-field.md).
 
