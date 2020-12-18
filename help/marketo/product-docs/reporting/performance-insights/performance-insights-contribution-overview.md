@@ -23,7 +23,7 @@ Selecione a métrica pela qual deseja visualização do desempenho. Neste exempl
 
 >[!NOTE]
 >
->Saiba mais sobre [Primeiro toque e Multi-toque](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Saiba mais sobre [Primeiro toque e multitoque](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Escolha para qual período deseja visualizar as métricas. Neste exemplo, estamos olhando para o ano atual (acumulado do ano).   ![](assets/3-1.png)
 
@@ -43,7 +43,7 @@ O gráfico de barras exibe o desempenho do programa em todos os canais (dez prog
 
 >[!TIP]
 >
->Se desejar que as barras no gráfico aumentem conforme você percorre os grupos, marque a caixa de seleção **Escala Y para ajustar** ao eixo.
+>Se desejar que as barras no gráfico aumentem conforme você percorra os grupos, marque a caixa de seleção **Dimensionar eixo Y para ajustar**.
 
 Passe o mouse sobre uma barra para ver mais detalhes.   ![](assets/seven.png)
 
