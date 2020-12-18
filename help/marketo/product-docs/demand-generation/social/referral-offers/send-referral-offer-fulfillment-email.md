@@ -30,17 +30,17 @@ Recompense seus clientes com cupons e códigos de desconto usando o email de pre
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. Em Configurações **do** aplicativo, selecione Detalhes da **Oferta.**
+1. Em **Configurações do aplicativo**, selecione **Detalhes da Oferta.**
 
    ** ![](assets/image2015-4-23-12-3a53-3a16.png)
 
    **
 
-1. Selecione um email **para** inscrição.
+1. Selecione um **Email de Inscrição**.
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. Selecione um email **de disponibilização**.
+1. Selecione um **Email de Preenchimento**.
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
@@ -49,19 +49,19 @@ Recompense seus clientes com cupons e códigos de desconto usando o email de pre
    >**Mergulho profundo**
    >
    >
-   >Saiba mais sobre como [usar emails em promoções](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)sociais.
+   >Saiba mais sobre [como usar emails em promoções sociais](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
-1. Clique no menu suspenso **Delivery** de disponibilização e selecione **auto on gol**.
+1. Clique no menu suspenso **Delivery de disponibilização** e selecione **auto no objetivo**.
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   A mensagem selecionada no e-mail **de** disponibilização será enviada automaticamente para as pessoas que atingirem a meta.
+   A mensagem selecionada em **Email de disponibilização** será enviada automaticamente para as pessoas que atingirem a meta.
 
 ## Envio manual {#manual-send}
 
 Você pode enviar um e-mail de cumprimento manualmente para uma pessoa depois que ela atingir a meta.
 
-1. Selecione a oferta de referência e clique na guia **Participantes** .
+1. Selecione a oferta de referência e clique na guia **Participantes**.
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
@@ -77,7 +77,7 @@ Você pode enviar um e-mail de cumprimento manualmente para uma pessoa depois qu
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. Clique com o botão direito do mouse e selecione **Enviar e-mail** de disponibilização.
+1. Clique com o botão direito do mouse e selecione **Enviar e-mail de disponibilização**.
 
    ![](assets/2015-04-20-15-54-13.png)
 
