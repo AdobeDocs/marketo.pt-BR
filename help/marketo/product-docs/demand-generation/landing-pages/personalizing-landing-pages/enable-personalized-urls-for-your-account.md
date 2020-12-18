@@ -27,7 +27,7 @@ URLs personalizados são ótimos para campanhas de e-mail de impressão.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Marque a caixa **Ativar URLs** personalizados e clique em **Salvar**.
+1. Marque a caixa **Ativar URLs personalizados** e clique em **Salvar**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
