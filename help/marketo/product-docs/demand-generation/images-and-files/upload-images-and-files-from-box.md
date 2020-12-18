@@ -19,7 +19,7 @@ Você pode carregar arquivos da Caixa para usar em landing page e e-mails.
 
    ![](assets/designstudio-3.png)
 
-1. Vá para** Imagens e arquivos**. Clique em Ações **de** arquivo e selecione **Obter imagens da Web**.
+1. Vá para** Imagens e arquivos**. Clique em **Ações de arquivo** e selecione **Obter imagens da Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
@@ -35,7 +35,7 @@ Você pode carregar arquivos da Caixa para usar em landing page e e-mails.
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Escolha onde deseja salvar os arquivos. Em seguida, selecione a pasta **Caixa** da qual deseja fazer upload. Clique em **Avançar**.
+1. Escolha onde deseja salvar os arquivos. Em seguida, selecione a pasta **Box** da qual deseja fazer upload. Clique em **Próximo**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
