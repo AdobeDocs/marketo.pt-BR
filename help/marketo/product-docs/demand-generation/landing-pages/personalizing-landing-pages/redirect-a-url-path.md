@@ -23,11 +23,11 @@ Marketo facilita redirecionar um caminho de URL para qualquer página escolhida.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Clique na guia **Regras** e, em seguida, clique em **Novo **e em **Nova regra** de redirecionamento.
+1. Clique na guia **Regras** e, em seguida, clique em **Novo **e **Nova regra de redirecionamento**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Clique no primeiro menu suspenso URL **** original e selecione seu CNAME de marketing.
+1. Clique no primeiro menu suspenso **URL original** e selecione seu CNAME de marketing.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
@@ -36,17 +36,17 @@ Marketo facilita redirecionar um caminho de URL para qualquer página escolhida.
    >**Lembrete**
    >
    >
-   >Lembre-se, você só pode redirecionar URLs que start com seu [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)de marketing.
+   >Lembre-se, você só pode redirecionar URLs que start com seu Marketo [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Digite o caminho do URL (ou página específica) que deseja redirecionar no segundo campo URL **** original à direita.
+1. Digite o caminho do URL (ou página específica) que deseja redirecionar no segundo campo **URL original** à direita.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Clique em **Usar Landing page** que não seja de marketing, digite a página para a qual deseja redirecionar os visitantes no campo URL **de** redirecionamento e clique em **Criar**.
+1. Clique em **Usar Landing page não Marketo**, digite a página para a qual deseja redirecionar os visitantes no campo **Redirecionar URL** e clique em **Criar**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   Você também pode [usar landings page](https://docs.marketo.com/x/vAEk) de marketing como destino.
+   Você pode [usar o Marketo landing page](https://docs.marketo.com/x/vAEk) como destino também.
 
 Parabéns!  Redirecionou com êxito o caminho do URL.
 
