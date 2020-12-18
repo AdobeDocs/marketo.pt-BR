@@ -17,11 +17,11 @@ Fazer alterações nas suas segmentações existentes é fácil. Aqui está o ba
 
 ## Criar um rascunho de segmentação {#create-a-segmentation-draft}
 
-1. Vá para o **Banco de Dados**.
+1. Vá para **Banco de Dados**.
 
    ![](assets/db.png)
 
-1. Em sua Segmentação, clique em Ações **de** segmentação e, em seguida, em **Criar rascunho**.
+1. Em sua segmentação, clique em **Ações de segmentação** e **Criar rascunho**.
 
    ![](assets/two.png)
 
@@ -31,7 +31,7 @@ Fazer alterações nas suas segmentações existentes é fácil. Aqui está o ba
 
 ## Adicionar, editar ou excluir segmentos {#add-edit-or-delete-segments}
 
-1. Na segmentação, clique em Ações **de** segmentação e, em seguida, em **Editar segmentos**.
+1. Na segmentação, clique em **Ações de segmentação** e **Editar segmentos**.
 
    ![](assets/four.png)
 
@@ -53,7 +53,7 @@ Fazer alterações nas suas segmentações existentes é fácil. Aqui está o ba
 
 ## Editar regras de segmento {#edit-segment-rules}
 
-1. Em seu **Segmento** de rascunho, vá para **Lista** inteligente. Aplicar regras semelhantes a [Definir regras](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)de segmento.
+1. No Rascunho **Segmento**, vá para **Lista inteligente**. Aplique regras semelhantes a [Definindo regras de segmento](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
