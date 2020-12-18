@@ -43,10 +43,10 @@ O Google Universal Analytics com os dados RTP fornece uma melhor compreensão de
 
 1. Em Google Analytics,
 
-   1. Ir para **Administrador**
+   1. Ir para **Admin**
    1. Selecione a **Conta.**
-   1. Selecione a **Propriedade.**
-   1. Selecione **Definições personalizadas **e Dimension **personalizados.**
+   1. Selecione **Propriedade.**
+   1. Selecione **Definições Personalizadas **e **Dimension Personalizados.**
 
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
@@ -54,7 +54,7 @@ O Google Universal Analytics com os dados RTP fornece uma melhor compreensão de
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. Adicione os seguintes Dimension **personalizados:**
+1. Adicione os seguintes **Dimension personalizados:**
 
 <table> 
  <tbody> 
@@ -66,31 +66,31 @@ O Google Universal Analytics com os dados RTP fornece uma melhor compreensão de
   <tr> 
    <td><p><strong>RTP-Organização</strong></p></td> 
    <td><p>Sessão</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">Satélite</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Indústria</strong></p></td> 
    <td><p>Sessão</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">Satélite</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>CATEGORIA RTP</strong></p></td> 
    <td><p>Sessão</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">Satélite</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Grupo RTP</strong></p></td> 
    <td><p>Sessão</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">Satélite</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->**Os Nomes** de Dimension personalizados devem ser exatamente como definidos na tabela acima (caso contrário, painéis e relatórios RTP personalizados no GUA não serão exibidos corretamente)
+>**Os** nomes personalizados de Dimension devem ser exatamente como definidos na tabela acima (caso contrário, os painéis e relatórios RTP personalizados no GUA não serão exibidos corretamente)
 
-1. Adicione o **Nome. **Selecione o Escopo como **Sessão.** Clique em **Criar.**
+1. Adicione o **Nome. **Selecione o Escopo como **Sessão.** Clique em  **Criar.**
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -102,14 +102,14 @@ Depois de ativar os Dimension personalizados no GUA, vá para a plataforma RTP p
 
 ## Ativar a integração GUA na sua conta RTP {#activate-the-gua-integration-in-your-rtp-account}
 
-1. Na plataforma RTP, vá para Configurações da **conta.**
+1. Na plataforma RTP, vá para **Configurações da conta.**
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Em Configurações **da** conta, clique em **Domínio.**
+1. Em **Configurações da conta**, clique em **Domínio.**
 1. Em **Analytics, **clique em **Google Universal Analytics**.
-1. Ative **** os Dimension personalizados e Eventos relevantes para anexar esses dados do RTP ao Google Universal Analytics.
-1. Informe o número **do** Índice da dimensão alinhado com o número do índice no GUA.
+1. Ative **Dimension e Eventos personalizados relevantes para anexar esses dados do RTP ao Google Universal Analytics.**
+1. Digite o **Número de índice** da dimensão alinhado com o número de índice no GUA.
 1. Clique em **Salvar**.
 
 ![](assets/image2014-11-29-11-31-23-version-2.png)
@@ -122,7 +122,7 @@ Depois de ativar os Dimension personalizados no GUA, vá para a plataforma RTP p
 
 ## Remover Painéis antigos em Google Analytics {#remove-old-dashboards-in-google-analytics}
 
-1. Em Google Analytics. Vá ao **Relatórios.**
+1. Em Google Analytics. Vá para **Relatórios.**
 1. Clique em **Painéis.**
 1. Selecione um **Painel **(Desempenho RTP B2B ou RTP)
 1. Clique em **Excluir Painel**.
