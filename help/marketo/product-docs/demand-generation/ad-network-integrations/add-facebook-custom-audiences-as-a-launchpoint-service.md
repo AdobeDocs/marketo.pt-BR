@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Adicionar Audiências personalizadas do Facebook como um Serviço do LaunchPoint {#add-facebook-custom-audiences-as-a-launchpoint-service}
+# Adicionar Audiências personalizadas do Facebook como um Serviço LaunchPoint {#add-facebook-custom-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Com essa integração, você pode enviar dados de audiência do Marketing para listas estáticas e inteligentes para o Facebook para serem usados como Audiências personalizadas nas Campanhas de anúncios do Facebook. Veja como configurar.
 
-1. Vá para **Administrador** do Marketo.
+1. Vá para Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Vá para **LaunchPoint**, clique em **Novo** e selecione **Novo serviço**.
+1. Vá para **LaunchPoint**, clique em **Novo** e selecione **Novo Serviço**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Digite um Nome **para** exibição para seu serviço e selecione o serviço Audiências **personalizadas do** Facebook no menu suspenso **Serviço** .
+1. Digite um **Nome de exibição** para seu serviço e selecione o serviço **Audiência personalizado do Facebook** no menu suspenso **Service**.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
@@ -35,7 +35,7 @@ Com essa integração, você pode enviar dados de audiência do Marketing para l
 
    >[!CAUTION]
    >
-   >Para que o Marketo envie audiências através de várias contas do Ad Manager, o usuário do Facebook autorizado nas etapas a seguir precisa ter acesso a *todas* essas contas.
+   >Para que o Marketo envie audiências através de várias contas do Ad Manager, o usuário do Facebook autorizado nas etapas a seguir precisa ter acesso a *todas* dessas contas.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
@@ -45,7 +45,7 @@ Com essa integração, você pode enviar dados de audiência do Marketing para l
 
    >[!NOTE]
    >
-   >Você *deve* usar uma conta do Facebook Business Manager para que sua integração com as Audiências personalizadas funcione. Para saber como configurar uma conta do Business Manager, consulte a Ajuda [do](https://www.facebook.com/business/help/1710077379203657)Facebook.
+   >Você *deve* usar uma conta do Facebook Business Manager para que sua integração com o Audiência personalizado funcione. Para saber como configurar uma conta do Business Manager, consulte [Ajuda do Facebook](https://www.facebook.com/business/help/1710077379203657).
 
 1. Se solicitado, clique em **OK **para aceitar a instalação do aplicativo Marketo no Facebook.
 
@@ -55,7 +55,7 @@ Com essa integração, você pode enviar dados de audiência do Marketing para l
 
    >[!NOTE]
    >
-   >**A Correspondência básica** usa somente endereços de email.**A Correspondência** avançada usa sete campos adicionais, o que aumenta a taxa de correspondência, para obter mais conversão. No entanto, se sua política de privacidade do empresa não permitir o compartilhamento de campos adicionais ou se seus dados não os incluírem, selecione Correspondência básica.
+   >**A Correspondência básica** usa somente endereços de email.**A** Correspondência avançada usa sete campos adicionais, o que aumenta a taxa de correspondência para obter mais conversão. No entanto, se sua política de privacidade do empresa não permitir o compartilhamento de campos adicionais ou se seus dados não os incluírem, selecione Correspondência básica.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,7 +63,7 @@ Com essa integração, você pode enviar dados de audiência do Marketing para l
 
    >[!CAUTION]
    >
-   >Oh, antes de ir, [aceite os Termos](https://www.facebook.com/ads/manage/customaudiences/tos.php) de Audiências Personalizados do Facebook em sua conta do Facebook! Sem isso, as atualizações de audiência falharão.
+   >Oh, antes de ir, certifique-se de [Aceitar os Termos de Audiência Personalizados do Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) na sua conta do Facebook! Sem isso, as atualizações de audiência falharão.
 
 >[!MORELIKETHIS]
 >
