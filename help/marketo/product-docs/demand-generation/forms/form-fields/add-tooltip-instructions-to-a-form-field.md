@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Adicionar instruções de dicas de ferramentas a um campo de formulário {#add-tooltip-instructions-to-a-form-field}
+# Adicionar instruções de dica de ferramenta a um campo de formulário {#add-tooltip-instructions-to-a-form-field}
 
-[Dicas](add-hint-text-to-a-form-field.md) e instruções ajudam as pessoas a preencher formulários. Veja como adicionar instruções de dicas de ferramentas.
+[As ](add-hint-text-to-a-form-field.md) instruções ajudam as pessoas a preencher formulários. Veja como adicionar instruções de dicas de ferramentas.
 
 >[!NOTE]
 >
 >**Definição**
 >
->Dicas **de formulário** é o texto dentro do campo que desaparece quando o visitante começa a digitar no campo.
+>Formulário **Dicas** é o texto dentro do campo que desaparece quando o visitante começa a digitar no campo.
 >
->As **Instruções** do formulário são pequenas dicas de ferramentas que aparecem quando o visitante passa sobre o campo.
+>Formulário **Instruções** são pequenas dicas de ferramentas que aparecem quando o visitante passa sobre o campo.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Selecione o **formulário** e clique em **Editar formulário**.
+1. Selecione seu **formulário** e clique em **Editar formulário**.
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**Lembrete**
    >
    >
-   >Não se esqueça de [aprovar o rascunho](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de landing page criado pelas alterações de formulário.
+   >Não se esqueça de [aprovar o rascunho de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
@@ -58,5 +58,5 @@ Trabalho incrível! A dica de ferramenta será exibida quando um visitante passa
 >
 >**Mergulho profundo**
 >
->Há tanto que se pode fazer com [formulários](http://docs.marketo.com/display/docs/forms).
+>Há tanto que você pode fazer com [formulários](http://docs.marketo.com/display/docs/forms).
 
