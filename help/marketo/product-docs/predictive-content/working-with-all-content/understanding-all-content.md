@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para os usuários do Predictive Content, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Conteúdo`<sup>AI</sup>`do Marketing.
+>Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
 A página Todo o conteúdo exibe todo o conteúdo que foi descoberto ou adicionado manualmente.   ![](assets/image2017-10-3-9-3a4-3a56.png)
 
@@ -30,11 +30,11 @@ Os campos de página incluem:
 
 Você pode adicionar um novo conteúdo e rastreá-lo, remover um conteúdo ou aprovar um conteúdo. Depois de aprovar o conteúdo, edite-o na página Conteúdo previsível.
 
-## Filtrar conteúdo por Categorias  {#filter-content-by-categories}
+## Filtrar conteúdo por Categoria {#filter-content-by-categories}
 
 Filtre o conteúdo selecionando uma ou mais categorias. Em seguida, configure a data ou o intervalo de datas para a análise de conteúdo, usando configurações padrão ou personalizadas.
 
-1. Na página **Todo o conteúdo** , clique no ícone de filtro e, em **Categoria**, selecione uma ou mais categorias de conteúdo.
+1. Na página **Todo o conteúdo**, clique no ícone de filtro e, em **Categoria**, selecione uma ou mais categorias de conteúdo.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
