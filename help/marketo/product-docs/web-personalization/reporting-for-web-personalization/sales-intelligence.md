@@ -19,11 +19,11 @@ Acesse-o fazendo logon na plataforma Marketo Web Personalization, por meio de um
 
 ## Definir a região do usuário {#define-the-users-region}
 
-Para definir os dados da Organização e do Visitante que você vê no Marketo Web Personalization para sua região, país ou estado, acesse Configurações [do](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) usuário e selecione os países ou estados.
+Para definir os dados da Organização e do Visitante que você vê no Marketo Web Personalization de acordo com sua região, país ou estado, vá para [Configurações do usuário](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) e selecione os países ou estados.
 
-## Configurar relatórios por email diários ou semanais {#set-up-daily-or-weekly-email-reports}
+## Configurar relatórios diários ou semanais por email {#set-up-daily-or-weekly-email-reports}
 
-Em Configurações [do](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)usuário, você pode configurar para receber relatórios diários ou semanais por email, enviados pela manhã inicial. Os principais relatórios de interesse para um executivo de vendas incluem os relatórios Organizações e Clientes potenciais, que exibem as principais organizações visitadas e enviadas, incluindo seus comportamentos, da região específica do usuário.
+Em [Configurações do usuário](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), você pode configurar para receber relatórios diários ou semanais de email, enviados pela manhã inicial. Os principais relatórios de interesse para um executivo de vendas incluem os relatórios Organizações e Clientes potenciais, que exibem as principais organizações visitadas e enviadas, incluindo seus comportamentos, da região específica do usuário.
 
 >[!NOTE]
 >
