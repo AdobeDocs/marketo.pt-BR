@@ -58,7 +58,7 @@ O terceiro layout de tela cheia é o mesmo do segundo, exceto pelo segundo botã
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Agora que você sabe sobre os modelos, é hora de escolher um ao [criar suas imagens](add-in-app-message-images.md)de mensagem no aplicativo.
+Agora que você sabe sobre os modelos, é hora de escolher um quando você [cria suas imagens de mensagens no aplicativo](add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >
