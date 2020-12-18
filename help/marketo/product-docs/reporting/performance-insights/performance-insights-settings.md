@@ -37,7 +37,7 @@ Saiba mais sobre as diferentes opções de Configurações em MPI.
 |---|---|
 | **Período YOY** | Defina o período anterior para o mesmo mês ou trimestre do ano anterior. |
 
-## Oportunidades influenciadas pelo marketing {#marketing-influenced-opportunities}
+## Oportunidades influenciadas por marketing {#marketing-influenced-opportunities}
 
 **Painel de pipeline - Contribuição e tendência**
 
@@ -69,7 +69,7 @@ Painel de receita - Contribuição e tendência
  </tbody> 
 </table>
 
-## Cálculo de custo {#cost-calculation}
+## Cálculo de Custo {#cost-calculation}
 
 **Pipeline e Painéis de receita - Contribuição e tendência**
 
