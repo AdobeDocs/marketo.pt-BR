@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Noções Gerais da Análise de Oportunidade no Gerenciador de Receita {#understanding-opportunity-analysis-in-revenue-explorer}
+# Noções Gerais da Análise de Oportunidade no Revenue Explorer {#understanding-opportunity-analysis-in-revenue-explorer}
 
 A Análise de oportunidade no Gerenciador de receitas permite examinar suas oportunidades em um nível mais profundo. Divida e corrija os dados com base em qualquer atributo de cliente potencial/empresa, como fonte principal, setor ou geografia. Analise a criação e o fechamento da oportunidade com base no nome, estágio ou probabilidade. Descubra as contribuições de marketing para o pipeline.
 
-## Exemplo de análise {#example-analysis}
+## Análise de exemplo {#example-analysis}
 
 Estes são alguns relatórios que você pode criar na área Análise Oportunidade.
 
