@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Excluir um trecho {#delete-a-snippet}
+# Excluir um fragmento {#delete-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Exclua um snippet de que você não precisa mais.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Vá para o snippet e, em **Snippet Actions (Ações** de trecho), clique em **Delete (Excluir**).
+1. Vá para o snippet e, em **Snippet Actions**, clique em **Delete**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
