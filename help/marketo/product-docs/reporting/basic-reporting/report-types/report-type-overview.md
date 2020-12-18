@@ -47,7 +47,7 @@ Ao [criar um relatório em um programa](../../../../product-docs/reporting/basic
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Relatório de Pessoas por Estágio de Receita</a>  </strong></td> 
-   <td>Relatórios básico para seu modelo <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">de</a>receita. Consulte Análise <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">do ciclo de</a> receita para obter relatórios mais aprofundados.</td> 
+   <td>Relatórios básico para seu <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Modelo de receita</a>. Consulte <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Análises do ciclo de receita</a> para obter mais relatórios.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Desempenho da landing page</a>  </strong></td> 
@@ -55,7 +55,7 @@ Ao [criar um relatório em um programa](../../../../product-docs/reporting/basic
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Desempenho do programa</a>  </strong></td> 
-   <td>Métricas básicas de programa, como membros e sucesso. Consulte Análise <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">do ciclo de</a> receita para obter relatórios mais aprofundados.</td> 
+   <td>Métricas básicas de programa, como membros e sucesso. Consulte <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Análises do ciclo de receita</a> para obter mais relatórios.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">Atividade Empresa Web</a>  </strong></td> 
@@ -71,7 +71,7 @@ Ao [criar um relatório em um programa](../../../../product-docs/reporting/basic
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Relatório de desempenho de fluxo de envolvimento</a> </strong></td> 
-   <td><p>Veja como seu programa <a href="http://docs.marketo.com/display/docs/drip+nurturing">de</a> envolvimento está funcionando.</p></td> 
+   <td><p>Veja como seu <a href="http://docs.marketo.com/display/docs/drip+nurturing">programa de envolvimento</a> está funcionando.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -82,12 +82,12 @@ Não tão útil quanto os tipos de relatório acima, mas ainda disponível.
 
 | Relatório | Descrição |
 |---|---|
-| ** Atividade [Campanha](campaign-activity-report.md) ** | Estatísticas de processamento da Campanha inteligente. |
-| ** Desempenho [do e-mail da](campaign-email-performance-report.md) Campanha ** | Desempenho do email, agrupado por Campanhas inteligentes. |
+| ** [Atividade de Campanha](campaign-activity-report.md) ** | Estatísticas de processamento da Campanha inteligente. |
+| ** [Desempenho de Email de Campanha](campaign-email-performance-report.md) ** | Desempenho do email, agrupado por Campanhas inteligentes. |
 
 >[!NOTE]
 >
 >**Mergulho profundo**
 >
->Para ver todas as coisas que você pode fazer com esses relatórios, consulte o mergulho profundo do Relatórios [](http://docs.marketo.com/display/docs/basic+reporting) básico.
+>Para ver todas as coisas que você pode fazer com esses relatórios, consulte o mergulho profundo [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
