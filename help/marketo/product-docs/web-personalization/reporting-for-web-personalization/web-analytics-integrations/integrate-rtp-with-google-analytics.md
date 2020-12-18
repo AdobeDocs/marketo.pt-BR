@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Este artigo mostra como usar o Google Standard Analytics antigo, mas recomendamos que você passe para o Universal Analytics.
 >
->Se você ainda não estiver usando o código [de rastreamento do](https://developers.google.com/analytics/devguides/collection/analyticsjs/)analytics.js, o Google recomenda que você remarque seu site para usá-lo. Os itens a seguir estão sendo substituídos pelo Google:
+>Se você ainda não estiver usando o [código de rastreamento analytics.js](https://developers.google.com/analytics/devguides/collection/analyticsjs/), o Google recomenda que você remarque seu site para usá-lo. Os itens a seguir estão sendo substituídos pelo Google:
 >
 >* ga.js
 >* urchin.js
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Veja como integrar a personalização [da Web ao Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+Veja como integrar [Personalização da Web com o Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 
 ## Introdução {#introduction}
 
@@ -64,17 +64,17 @@ Meça suas campanhas RTP e correlacione-as com a média geral do site. Saiba com
 
 ![](assets/image2014-11-28-16-3a47-3a0.png)
 
-## Configurando RTP com Google Analytics {#setting-up-rtp-with-google-analytics}
+## Configuração do RTP com Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Adicione o e-mail [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b), como um usuário do Read &amp; Analyze (Leia e analise), à sua conta GA. Para obter mais detalhes, consulte [aqui](https://support.google.com/analytics/answer/2884495?hl=en).
-1. Na sua conta RTP. Vá para Configurações **da** conta.
+1. Adicione o email [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) como um usuário do Read &amp; Analyze à sua conta GA. Para obter mais detalhes, consulte [here](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Na sua conta RTP. Vá para **Configurações da conta**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Em Configurações **de** conta, **Domínio** e **Analytics**
+1. Em **Configurações da conta**, **Domínio** e **Analytics**
 1. Clique em Google Analytics**.**
-1. Ative as Variáveis **e** Eventos **** personalizados relevantes para anexar esses dados de RTP a Google Analytics.
-1. Insira o número do **slot** para enviar dados de variável personalizados (o padrão é 1,2).
+1. Ative as **Variáveis personalizadas** e **Eventos** relevantes para anexar esses dados do RTP a Google Analytics.
+1. Insira o número **Slot** para enviar dados de variável personalizados (o padrão é 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
@@ -82,12 +82,12 @@ Clique em **SALVAR**.
 
 >[!NOTE]
 >
->Para enviar dados de segmento para o GA, na página [](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) Editar segmento na plataforma RTP, marque a caixa de seleção **Enviar Evento para Google Analytics na Correspondência** de segmentos.
+>Para enviar dados de segmento para GA, na [página Editar segmento](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) na plataforma RTP, marque a caixa de seleção **Enviar Evento para Google Analytics na Correspondência de segmentos**.
 
 ## Configuração de relatórios de Google Analytics com dados RTP {#setting-up-google-analytics-reports-with-rtp-data}
 
 Em Google Analytics, você pode usar painéis, segmentação de GA e relatórios para visualização dos dados RTP:
 
-* [Os painéis](https://support.google.com/analytics/answer/1068216?hl=en) fornecem uma visão geral do desempenho do site.
+* [Os ](https://support.google.com/analytics/answer/1068216?hl=en) painéis fornecem uma visão geral do desempenho do site.
 * Um segmento GA é destinado a filtrar visitantes na interface GA e a visualização do tráfego por segmento. Veja como criar um segmento [aqui](https://support.google.com/analytics/answer/3124493?hl=en).
-* Criar relatórios [](https://support.google.com/analytics/answer/1033013?hl=en) personalizados para visualização e/ou configurar e-mails programados. Consulte em Personalização > Novo relatório personalizado.
+* Criar [relatórios personalizados](https://support.google.com/analytics/answer/1033013?hl=en) para visualização e/ou configurar e-mails programados. Consulte em Personalização > Novo relatório personalizado.
