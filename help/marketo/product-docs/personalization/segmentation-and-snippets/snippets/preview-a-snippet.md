@@ -27,7 +27,7 @@ Os trechos são blocos de conteúdo dinâmico que mudam com base nas regras de s
 
    ![](assets/designstudio-3.png)
 
-1. Clique no snippet e depois no snippet da **Pré-visualização**.
+1. Clique no snippet e depois **Snippet de Pré-visualização**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
