@@ -19,9 +19,9 @@ Veja como os dados são trocados:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Ao criar o evento de marketing, selecione **Webinar** como o tipo de Canal. Você pode editar esse canal em Admin, bem como criar um novo canal. Se você criar um novo canal, ele deverá ser do tipo **Evento com Webinar** para que a integração funcione. Consulte [Criar um Canal](../../../../../product-docs/administration/tags/create-a-program-channel.md) de Programa para obter mais informações.
+Ao criar o evento Marketo, selecione **Webinar** como o tipo de Canal. Você pode editar esse canal em Admin, bem como criar um novo canal. Se você criar um novo canal, ele deverá ser do tipo **Evento com Webinar** para que a integração funcione. Consulte [Criar um Canal de Programa](../../../../../product-docs/administration/tags/create-a-program-channel.md) para obter mais informações.
 
-A próxima etapa é [configurar as configurações do evento e sincronizar o Marketo com seu webinar](https://docs.marketo.com/x/IRCa).
+Sua próxima etapa é [configurar as configurações do evento e sincronizar o Marketo com seu webinar](https://docs.marketo.com/x/IRCa).
 
 >[!MORELIKETHIS]
 >
