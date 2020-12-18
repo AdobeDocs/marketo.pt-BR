@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Mergulho profundo:** Cansado de ler? [Assista a este vídeo](https://youtu.be/3O7e4GdZKsM) interessante com instruções passo a passo.
+>**Mergulho profundo:** Cansado de ler? [Assista a este ](https://youtu.be/3O7e4GdZKsM) vídeo interessante com instruções passo a passo.
 
 Os modelos de landing page guiada têm uma sintaxe especial. Use essa sintaxe para especificar o que é personalizável e onde o conteúdo terminará em cada landing page criada a partir do modelo. Somente as regiões ou variáveis especificadas como editáveis estarão disponíveis para personalização no editor de landings page &quot;Guiado&quot;.
 
@@ -34,7 +34,7 @@ Os elementos são declarados adicionando um elemento DOM normal ao modelo e, em 
 
 ## Texto {#text}
 
-Se você definir uma região como Rich Text, os usuários poderão editar seu conteúdo [usando o Editor](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)de Rich Text do Marketo.
+Se você definir uma região como Rich Text, os usuários poderão editar seu conteúdo [usando o Editor de Rich Text do Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Atributos necessários:\
 **classe**: &quot;mktoText&quot;\
@@ -50,7 +50,7 @@ Exemplo:
 
 ### Imagem {#image}
 
-Você tem duas opções para definir elementos de imagem editáveis. Você pode usar um `<div>`, que especifica um container no qual a imagem será inserida, ou uma `<img>` tag.
+Você tem duas opções para definir elementos de imagem editáveis. Você pode usar `<div>`, que especifica um container no qual a imagem será inserida, ou uma tag `<img>`.
 
 ## Opção 1 - Use uma <div> {#option-use-a-div}
 
@@ -61,13 +61,13 @@ id: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e su
 mktoName : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
 
 Opcional:\
-mktoImgClass: String. O valor aqui será adicionado ao atributo class do `<img>` elemento dentro de div.
+mktoImgClass: String. O valor aqui será adicionado ao atributo class do elemento `<img>` dentro do div.
 
 Exemplo:
 
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
 
-## Opção 2 - Use uma `<img>` {#option-use-a-img}
+## Opção 2 - Use um `<img>` {#option-use-a-img}
 
 Atributos necessários:\
 classe: &quot;mktoImg&quot;\
@@ -83,7 +83,7 @@ Exemplo:
 
 >[!NOTE]
 >
->Ao usar a `<img>` versão, o HTML renderizado conterá um invólucro div gerado ao redor da `<img>` tag. Ele será definido como classe.&quot;mktoImg.mktoGen&quot; e será display:inline-block.
+>Ao usar a versão `<img>`, o HTML renderizado conterá um invólucro div gerado ao redor da tag `<img>`. Ele será definido como classe.&quot;mktoImg.mktoGen&quot; e será display:inline-block.
 
 ## Formulário {#form}
 
@@ -123,7 +123,8 @@ Exemplo:
 >Ao usar o elemento de vídeo em uma landing page, o Marketo só oferece suporte a vídeos do YouTube. Se você usar outro serviço, recomendamos utilizar uma caixa Rich Text e colar no código incorporado do vídeo.
 
 Atributos necessários:
-**classe**: &quot;mktoVideo&quot;**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.
+**class**: &quot;mktoVideo&quot;
+**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.
 **mktoName** : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
 
 Exemplo:
@@ -141,7 +142,7 @@ Exemplo:
 
 `<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
 
-## Consulta {#referral}
+## Referência {#referral}
 
 Atributos necessários:\
 **classe**: &quot;mktoReferral&quot;\
@@ -152,7 +153,7 @@ Exemplo:
 
 `<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
 
-## Sorteio {#sweepstakes}
+## Sorteios {#sweepstakes}
 
 Atributos necessários:\
 **classe**: &quot;mktoSweepstakes&quot;\
@@ -173,7 +174,7 @@ Exemplo:
 
 **Declaração:**
 
-As variáveis são declaradas como meta tags dentro do `<head>` elemento do modelo. Há três tipos de variáveis disponíveis para uso: String, Color e Boolean.
+As variáveis são declaradas como meta tags dentro do elemento `<head>` do modelo. Há três tipos de variáveis disponíveis para uso: String, Color e Boolean.
 
 ## String {#string}
 
