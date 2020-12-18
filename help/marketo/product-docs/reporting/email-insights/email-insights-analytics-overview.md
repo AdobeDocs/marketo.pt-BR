@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Visão geral do email Insights do Analytics {#email-insights-analytics-overview}
+# Visão geral da análise do Email Insights {#email-insights-analytics-overview}
 
 No Analytics, explore dados de agregação para delivery e envolvimento de e-mails. Use o gráfico à esquerda para explorar os dados, os insights à direita para obter uma experiência mais guiada.
 
 ![](assets/emailanalytics-1.jpg)
 
-[A filtragem](filtering-in-email-insights.md) está disponível para ajudá-lo a detalhar métricas específicas.
+[A ](filtering-in-email-insights.md) Filtragem está disponível para ajudar você a detalhar métricas específicas.
 
 ![](assets/filter-field.png)
 
@@ -32,7 +32,7 @@ Passe o mouse sobre os blocos KPI para obter detalhes...
 
 ...ou consulte os detalhes sem precisar passar o mouse expandindo sua janela do navegador (em telas maiores).
 
-` ![](assets/kpi-wide.png)
+&#39; ![](assets/kpi-wide.png)
 
 `
 
@@ -50,7 +50,7 @@ O gráfico exibe seus critérios filtrados. Para ocultar um de seus filtros, bas
 ` ![](assets/chart2.png)  
 `
 
-Se você criar um gráfico que gostaria de usar novamente, torne-o um gráfico [](email-insights-quick-charts.md)rápido.
+Se você criar um gráfico que gostaria de usar novamente, torne-o um [gráfico rápido](email-insights-quick-charts.md).
 
 ` ![](assets/quick-chart.png)  
 `
