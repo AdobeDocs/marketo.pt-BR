@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Uso de Painéis no Explorador de Receita {#using-dashboards-in-revenue-explorer}
+# Uso de Painéis no Revenue Explorer {#using-dashboards-in-revenue-explorer}
 
 Um painel é uma combinação de relatórios do Explorador de Receita para obter uma visão geral rápida de seus clientes potenciais, campanhas, oportunidades e/ou modelos.
 
-## Criação de um novo Painel {#creating-a-new-dashboard}
+## Criando um novo Painel {#creating-a-new-dashboard}
 
-1. Clique em **Explorador** de Receita.
+1. Clique em **Explorador de Receitas**.
 
    ![](assets/one.png)
 
-1. Clique em **Criar novo** e, em seguida, em **Painel**.
+1. Clique em **Criar novo**, em seguida, **Painel**.
 
    ![](assets/two.png)
 
@@ -37,11 +37,11 @@ Um painel é uma combinação de relatórios do Explorador de Receita para obter
 
    ![](assets/four.png)
 
-1. Duplo clique em **Revenue Explorer**.
+1. Clique com o duplo **Explorador de Receitas**.
 
    ![](assets/five.png)
 
-1. Duplo clique em **Todos os relatórios e Painéis**.
+1. Clique com o duplo **Todos os relatórios e Painéis**.
 
    ![](assets/six.png)
 
@@ -67,11 +67,11 @@ Um painel é uma combinação de relatórios do Explorador de Receita para obter
 
 ## Edição de um Painel {#editing-a-dashboard}
 
-1. Clique em **Explorador** de Receita.
+1. Clique em **Explorador de Receitas**.
 
    ![](assets/one.png)
 
-1. Clique com o duplo na pasta **Revenue Explorer** . Navegue até onde seu painel mora.
+1. Clique com o duplo na pasta **Explorador de Receitas**. Navegue até onde seu painel mora.
 
    ![](assets/thirteen.png)
 
@@ -81,15 +81,15 @@ Um painel é uma combinação de relatórios do Explorador de Receita para obter
 
 ## Excluindo um Painel {#deleting-a-dashboard}
 
-1. Clique em **Explorador** de Receita.
+1. Clique em **Explorador de Receitas**.
 
    ![](assets/one.png)
 
-1. Clique com o duplo na pasta **Revenue Explorer** . Navegue até onde seu painel mora.
+1. Clique com o duplo na pasta **Explorador de Receitas**. Navegue até onde seu painel mora.
 
    ![](assets/thirteen.png)
 
-1. Selecione o painel que deseja excluir e clique em **Mover para a lixeira**.
+1. Selecione o painel que deseja excluir e clique em **Mover para o lixo**.
 
    ![](assets/fifteen.png)
 
