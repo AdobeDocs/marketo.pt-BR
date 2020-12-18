@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Adicionar colunas de oportunidade a um relatório de oportunidade potencial {#add-opportunity-columns-to-a-lead-report}
 
-Para ver as estatísticas de oportunidades nos relatórios [da](http://docs.marketo.com/display/docs/basic+reporting)pessoa, você pode adicionar colunas de oportunidade.
+Para ver as estatísticas de oportunidades nos [relatórios de pessoa](http://docs.marketo.com/display/docs/basic+reporting), você pode adicionar colunas de oportunidade.
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Selecione seu relatório na árvore de navegação e clique na guia **Configuração** .
+1. Selecione seu relatório na árvore de navegação e clique na guia **Configuração**.
 
    ![](assets/two.png)
 
-1. Duplo-clique em Colunas **de** oportunidade.
+1. Clique com o duplo **Colunas de Oportunidade**.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Para ver as estatísticas de oportunidades nos relatórios [da](http://docs.mark
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Clique na guia **Relatório** para ver seu relatório com métricas de oportunidade.
+1. Clique na guia **Relatório** para ver seu relatório com as métricas de oportunidade.
 
    ![](assets/five.png)
 
@@ -51,8 +51,8 @@ Para ver as estatísticas de oportunidades nos relatórios [da](http://docs.mark
 
    | Coluna | Descrição |
    |---|---|
-   | Nenhuma oportunidade | Número de pessoas que *não* são um contato principal de oportunidade. |
-   | Dias sem oportunidade | Idade média, em dias, de pessoas que *não* são um contato principal. |
+   | Nenhuma oportunidade | Número de pessoas que são *não* um contato de oportunidade principal. |
+   | Dias sem oportunidade | Idade média, em dias, das pessoas que são *e não* um contato principal. |
    | Tem oportunidade | Número de pessoas que são um contato principal de oportunidade. |
    | Possui % de Oportunidade | A porcentagem de pessoas que são um contato principal de oportunidade. |
    | Dias até a oportunidade | Número médio de dias para conversão de pessoa para contato de oportunidade primária. |
@@ -78,5 +78,5 @@ Para ver as estatísticas de oportunidades nos relatórios [da](http://docs.mark
    >**Mergulho profundo**
    >
    >
-   >Veja o que mais você pode fazer com relatórios no mergulho profundo do Relatórios [](http://docs.marketo.com/display/docs/basic+reporting) Básico.
+   >Veja o que mais você pode fazer com os relatórios no aprofundamento do [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
