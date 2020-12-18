@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Adicionar campos a um relatório do Explorador de receita {#adding-fields-to-a-revenue-explorer-report}
+# Adicionando campos a um relatório do Revenue Explorer {#adding-fields-to-a-revenue-explorer-report}
 
 Personalize relatórios do explorador de receita arrastando e soltando campos de dimensão e métrica na tela.
 
