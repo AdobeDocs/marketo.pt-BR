@@ -20,11 +20,11 @@ Use o Analisador de Programas para comparar os custos de canais, aquisição de 
 >* [Criar um analisador de Programas](create-a-program-analyzer.md)
 
 
-1. Clique em **Analytics** em **Meu marketing.**
+1. Clique em **Analytics** em **My Marketo.**
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Selecione seu Analisador de **Programas.**
+1. Selecione o seu Analisador de Programas **.**
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
@@ -32,19 +32,19 @@ Use o Analisador de Programas para comparar os custos de canais, aquisição de 
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. Use o menu suspenso Eixo **** X para escolher uma métrica para o eixo horizontal. Vamos start com o custo **do** Programa.
+1. Use o menu suspenso **Eixo X** para escolher uma métrica para o eixo horizontal. Vamos start com **Custo do Programa**.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Use o menu suspenso Eixo Y para escolher uma métrica para o eixo vertical. Aqui, nós iremos com a **(FT) Pipeline Criada**.
+1. Use o menu suspenso Eixo Y para escolher uma métrica para o eixo vertical. Aqui, iremos com o **(FT) Pipeline Criado**.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Muitas das métricas que você pode escolher no analisador de programas estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante compreender a [diferença entre a atribuição](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT e MT.
+   >Muitas das métricas que você pode escolher no analisador de programas estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante entender a diferença [entre a atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Use o menu suspenso Eixo **Y para escolher** (MT) Pipeline criado ****.
+1. Use o menu suspenso **Eixo Y** para escolher **(MT) Pipeline criado**.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
@@ -52,7 +52,7 @@ Use o Analisador de Programas para comparar os custos de canais, aquisição de 
 
    Agora vamos adicionar mais duas dimensões!
 
-1. Use o menu suspenso Tamanho **da** bolha para selecionar uma medida adicional, como **Novos nomes**.
+1. Use o menu suspenso **Tamanho da bolha** para selecionar uma medida adicional, como **Novos nomes**.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -60,9 +60,9 @@ Use o Analisador de Programas para comparar os custos de canais, aquisição de 
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   Vemos que o canal do Webinar encolhe, conforme medido pelos **Novos Nomes**. Podemos concluir que, apesar de ter muitos membros, é menos eficaz em gerar novas perspectivas do que o canal de feiras.
+   Vemos que o canal do Webinar encolhe, conforme medido por **Novos nomes**. Podemos concluir que, apesar de ter muitos membros, é menos eficaz em gerar novas perspectivas do que o canal de feiras.
 
-1. Por fim, use o menu suspenso Cor para adicionar a quarta dimensão. Vamos selecionar **(FT) Receita** **vencedora**.
+1. Por fim, use o menu suspenso Cor para adicionar a quarta dimensão. Vamos selecionar **(FT) Revenue** **Won**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -72,7 +72,7 @@ Use o Analisador de Programas para comparar os custos de canais, aquisição de 
 
    A partir das cores, aprendemos que o canal de shows de vendas, a bolha mais verde, influenciou a maior receita obtida, medida pela atribuição de primeiro toque.
 
-1. Agora, se mudarmos a métrica Cor para **(MT) Receita vencedora**, veremos que o canal Anúncio online, agora o mais verde, influenciou mais a receita - ao longo do tempo - do que os canais Webinar e tradeshow.
+1. Agora, se mudarmos a métrica Cor para **(MT) Revenue Won**, veremos que o canal de Anúncios online, agora o mais verde, influenciou mais a receita - ao longo do tempo_ do que os canais de Webinar e de shows de vendas.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
@@ -95,4 +95,4 @@ Em nosso exemplo, vemos que o canal de apresentação comercial é o mais caro (
 
 >[!NOTE]
 >
->Saiba mais sobre análises avançadas no [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Saiba mais sobre análises avançadas no [Explorador do Ciclo de Receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
