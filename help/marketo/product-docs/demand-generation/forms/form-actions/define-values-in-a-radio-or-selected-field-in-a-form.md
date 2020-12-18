@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Definir valores em um rádio ou campo selecionado em um formulário {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Depois de [definir um tipo](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) de campo para ser um botão de opção ou um tipo de seleção, defina os valores que o usuário pode escolher. Veja como.
+Depois que você [definir um tipo de campo](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) para ser um botão de opção ou um tipo de seleção, defina os valores que o usuário pode escolher. Veja como.
 
 1. Vá para **Marketing** **Atividade**.
 
    ![](assets/ma.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -43,7 +43,7 @@ Depois de [definir um tipo](../../../../product-docs/administration/field-manage
    >**Valor de exibição:** O que é mostrado ao visitante.
    >
    >
-   >**Valor armazenado:** O que está registrado em Marketo.
+   >**Valor armazenado:** O que é registrado no Marketo.
 
 1. Adicione quantos valores forem necessários e clique em **Salvar**.
 
@@ -55,13 +55,13 @@ Depois de [definir um tipo](../../../../product-docs/administration/field-manage
 
    >[!TIP]
    >
-   >Clique em Editor **** avançado para copiar/colar uma lista de valores, se desejar. Pode ser uma poupança em tempo real.
+   >Clique em **Editor avançado** para copiar/colar uma lista de valores, se desejar. Pode ser uma poupança em tempo real.
 
 1. Clique em **Concluir**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
