@@ -15,7 +15,7 @@ ht-degree: 0%
 
 É possível editar qualquer modelo de landing page no Marketo.
 
-1. Vá para o **Design Studio**.
+1. Vá para **Design Studio**.
 
    ![](assets/designstudio.png)
 
