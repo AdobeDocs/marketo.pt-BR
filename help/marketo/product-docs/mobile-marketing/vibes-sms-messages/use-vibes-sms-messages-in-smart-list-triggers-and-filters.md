@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Usar mensagens SMS Vibes em Filtros e acionadores de Lista inteligente {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Depois de [criar uma mensagem](create-a-vibes-sms-message.md)SMS Vibes, você desejará usar filtros e acionadores de lista inteligente em uma campanha inteligente para obter os benefícios. Veja como.
+Depois que você [criar uma mensagem SMS Vibes](create-a-vibes-sms-message.md), você desejará usar filtros e acionadores de lista inteligente em uma campanha inteligente para obter os benefícios. Veja como.
 
-1. Em Meu marketing, clique em **Atividades** de marketing.
+1. Em Meu marketing, clique em **Atividades de marketing**.
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
-1. Escolha uma campanha inteligente na qual deseja usar seu ativo SMS. Arraste sobre um acionador, como o popular Formulário **de** preenchimento.
+1. Escolha uma campanha inteligente na qual deseja usar seu ativo SMS. Arraste sobre um acionador, como o popular **Preenche o formulário**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
@@ -35,7 +35,7 @@ O acionador de Rejeições de Mensagens SMS inicia um fluxo, como o envio de um 
 
 ![](assets/sms-message-bounces-real.jpg)
 
-O acionador **Assinar Lista** do Vibes inicia um fluxo quando uma pessoa se inscreve.
+O acionador **Subscreve-se à Lista do Vibes** inicia um fluxo quando uma pessoa se inscreve.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
@@ -45,11 +45,11 @@ O disparador** Clica em Link no SMS Message** inicia um fluxo quando uma pessoa 
 
 ## FILTROS SMS {#sms-filters}
 
-Você também pode usar filtros Vibes em listas inteligentes. O filtro **Inscrito na Lista** do Vibes encontra qualquer pessoa que *já* se inscreveu no Vibes. Isso inclui pessoas que não se inscreveram e excluídas, mesmo que as pessoas excluídas sejam omitidas do fluxo. Esse filtro é mais adequado para o relatórios.
+Você também pode usar filtros Vibes em listas inteligentes. O filtro **Inscrito na Lista do Vibes** encontra qualquer pessoa que tenha *alguma vez* inscrito no Vibes. Isso inclui pessoas que não se inscreveram e excluídas, mesmo que as pessoas excluídas sejam omitidas do fluxo. Esse filtro é mais adequado para o relatórios.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Por outro lado, o **filtro** de Lista **Membro do Vibes **encontra** **qualquer pessoa** ***atualmente* inscrito no Vibes e é mais adequado para uso em campanhas inteligentes ou lista.
+Por outro lado, a Lista **Membro de Vibes **filter** **localiza** **qualquer** ***atualmente* inscreveu-se no Vibes e é mais adequada para utilização em campanhas inteligentes ou lista.
 
 ![](assets/image001.png)
 
