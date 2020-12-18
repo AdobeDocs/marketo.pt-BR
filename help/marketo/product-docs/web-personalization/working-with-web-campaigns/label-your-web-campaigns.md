@@ -23,7 +23,7 @@ Você tem tantas campanhas que a rolagem está se tornando pesada? Use rótulos 
 
    >[!NOTE]
    >
-   >Para facilitar a localização da campanha desejada, use o recurso [de](filter-web-campaigns.md)filtro.
+   >Para facilitar a localização da campanha desejada, use o recurso [filter](filter-web-campaigns.md).
 
 1. Selecione as campanhas que deseja marcar com um rótulo.
 
@@ -51,7 +51,7 @@ Legal! Agora você sabe como criar rótulos e atribuí-los a campanhas.
 
 >[!MORELIKETHIS]
 >
->* [Atribuir um](create-a-new-in-zone-web-campaign.md) [rótulo a um segmento](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [](create-a-new-in-zone-web-campaign.md) [Rotular um segmento](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 >
 
