@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Definir um campo de formulário como oculto {#set-a-form-field-as-hidden}
+# Definir um campo de formulário como Oculto {#set-a-form-field-as-hidden}
 
 Campos de formulário ocultos podem capturar dados silenciosamente sem a entrada do visitante. É assim que funciona.
 
@@ -19,11 +19,11 @@ Campos de formulário ocultos podem capturar dados silenciosamente sem a entrada
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Selecione o campo e defina o **Tipo** de **campo** como **Oculto.**
+1. Selecione o campo e defina **Field** **Type** como **Hidden.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
