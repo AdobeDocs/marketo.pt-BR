@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Veja como você pode incorporar um formulário Marketo em uma campanha da Web (Diálogo, Em zona ou Widget).
 
-1. Clique com o botão direito do mouse em um formulário aprovado. Selecione **Incorporar código**.
+1. Clique com o botão direito do mouse em um formulário aprovado. Selecione **Código incorporado**.
 
    ** ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -80,7 +80,7 @@ Para adicionar o código CSS ao script:
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Clique em **Pré-visualização** para ver como ele será renderizado em uma campanha (o formulário não será exibido na visualização do editor). Este é um exemplo de como o código de formulário acima é renderizado em uma campanha com uma imagem de plano de fundo.
+1. Clique em **Pré-visualização** para ver como será renderizada em uma campanha (o formulário não será exibido na visualização do editor). Este é um exemplo de como o código de formulário acima é renderizado em uma campanha com uma imagem de plano de fundo.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
