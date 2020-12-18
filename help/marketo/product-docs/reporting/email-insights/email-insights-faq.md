@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Perguntas frequentes sobre insights de email {#email-insights-faq}
+# Perguntas frequentes do Email Insights {#email-insights-faq}
 
 ## Existem diferenças entre as métricas de proporção com o Email Insights e outros relatórios de Email do Marketing? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
