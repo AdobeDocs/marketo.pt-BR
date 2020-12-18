@@ -19,19 +19,19 @@ Se um visitante estiver com cookies (pessoa conhecida que forneceu um endereço 
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Em **Marketing** **Atividade**, selecione seu formulário e clique em **Editar** **formulário**.
+1. Em **Marketing** **Atividade**, selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Em **Configurações de** formulário ****, clique em **Configurações**.
+1. Em **Formulário** **Definições**, clique em **Definições**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Defina Se **Conhecido** O **Visitante, Mostrar**: para **Personalizar** **HTML**.
+1. Definir se o Visitante **Known** **Mostrar**: para **Personalizado** **HTML**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Clique em ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar o **HTML** **personalizado** que será exibido para pessoas conhecidas.
+1. Clique em ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar o **Custom** **HTML** que será mostrado para pessoas conhecidas.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -45,8 +45,8 @@ Se um visitante estiver com cookies (pessoa conhecida que forneceu um endereço 
    |---|---|
    | `{{lead.FirstName}}` | Isso exibirá o nome da pessoa. |
    | `{{lead.LastName}}` | Isso exibirá o sobrenome da pessoa. |
-   | `{{form.Button:default=Download}}` | Isso exibirá o botão de formulário. Substitua a área depois do botão `=` para alterar o texto do botão. |
-   | `{{form.NotYou:default=Not you?}}` | Isso exibirá um link caso a pessoa seja outra pessoa. Substitua a área depois do link `=` para alterar o texto do link. |
+   | `{{form.Button:default=Download}}` | Isso exibirá o botão de formulário. Substitua a área depois de `=` para alterar o texto do botão. |
+   | `{{form.NotYou:default=Not you?}}` | Isso exibirá um link caso a pessoa seja outra pessoa. Substitua a área depois de `=` para alterar o texto do link. |
 
    >[!CAUTION]
    >
@@ -56,7 +56,7 @@ Se um visitante estiver com cookies (pessoa conhecida que forneceu um endereço 
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ Se um visitante estiver com cookies (pessoa conhecida que forneceu um endereço 
    >**Lembrete**
    >
    >
-   >Lembre-se de [aprovar o rascunho](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de landing page criado pelas alterações de formulário.
+   >Lembre-se de [aprovar o rascunho da landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
