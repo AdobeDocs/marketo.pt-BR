@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Teste AB Sua Campanha na Web {#ab-test-your-web-campaign}
+# AB Teste sua Campanha da Web {#ab-test-your-web-campaign}
 
 Testar é uma excelente maneira de otimizar suas campanhas da Web para um melhor envolvimento. Aqui está como começar.
 
-Para testar suas campanhas personalizadas A/B, você pode selecionar duas ou mais campanhas, associá-las ao mesmo grupo **Dividir teste** e selecionar Ajuste **automático** para continuar automaticamente com a campanha com melhor desempenho.
+Para testar suas campanhas personalizadas A/B, você pode selecionar duas ou mais campanhas, associá-las ao mesmo grupo **Dividir teste** e selecionar **Ajuste automático** para continuar automaticamente com a campanha com melhor desempenho.
 
 >[!TIP]
 >
@@ -29,7 +29,7 @@ Para testar suas campanhas personalizadas A/B, você pode selecionar duas ou mai
 
    >[!NOTE]
    >
-   >Para facilitar a localização da campanha desejada, use o recurso [de](filter-web-campaigns.md)filtro.
+   >Para facilitar a localização da campanha desejada, use o recurso [filter](filter-web-campaigns.md).
 
 1. Selecione a primeira campanha que deseja para o teste A/B. Clique em **Editar**.
 
@@ -39,15 +39,15 @@ Para testar suas campanhas personalizadas A/B, você pode selecionar duas ou mai
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Digite o nome **do grupo de teste** dividido e clique em **Criar.** Selecione **Ajuste automático.**
+1. Digite o **Dividir nome do grupo de teste** e clique em **Criar.****Selecione Ajustar automaticamente.**
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Salve **ou** inicie **a campanha.
+1. **Salve **ou** Iniciar **a campanha.
 
    >[!TIP]
    >
-   >Selecionar Ajuste **Automático** permite que a plataforma Web Personalization reconheça automaticamente a campanha de teste dividido de melhor desempenho e continue com a campanha de conversão mais alta enquanto pausa as outras.
+   >Selecionar **Ajuste automático** permite que a plataforma Web Personalization reconheça automaticamente a campanha de teste dividido de melhor desempenho e continue com a campanha de conversão mais alta enquanto pausa as outras.
 
 1. Repita o processo acima com a segunda campanha.
 1. Selecione a segunda campanha que deseja para o teste A/B. Clique em **Editar**.
@@ -56,13 +56,13 @@ Para testar suas campanhas personalizadas A/B, você pode selecionar duas ou mai
 
    **
 
-1. Na página **Definir Campanha** , selecione **S****plit Testing** e escolha o **Grupo** no menu suspenso. Selecione** Ajuste automático**.
+1. Na página **Definir Campanha**, selecione **S****plit Testing** e escolha **Grupo** no menu suspenso. Selecione** Ajuste automático**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
 1. **Save **or **Launch **the campanha.
 1. Repita esse processo para que uma terceira ou quarta campanha teste.
-1. No **Web** **Campanha** , é possível visualizar as campanhas de teste dividido indicadas pelo ícone A/B.
+1. Em **Web** **Campanha** é possível ver as campanhas de teste dividido indicadas pelo ícone A/B.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
