@@ -38,7 +38,7 @@ Use o Analisador de Programas para identificar seus programas mais eficazes e me
 
    >[!TIP]
    >
-   >Uma maneira rápida de filtrar programas em apenas um canal é selecionar **Visualização > Por Canal**, clique na bolha para esse canal e clique no nome do canal na caixa de diálogo pop-up.
+   >Uma maneira rápida de filtrar programas em apenas um canal é selecionar **Visualização > Por Canal**, clique na bolha do canal e clique no nome do canal na caixa de diálogo pop-up.
 
 1. Use o menu suspenso Eixo X para escolher uma métrica para o eixo horizontal. Vamos start com o custo do Programa.
 
@@ -68,13 +68,13 @@ Use o Analisador de Programas para identificar seus programas mais eficazes e me
 
    >[!NOTE]
    >
-   >Muitas das métricas que você pode escolher no analisador de programas estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante compreender a [diferença entre a atribuição](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT e MT.
+   >Muitas das métricas que você pode escolher no analisador de programas estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante entender a diferença [entre a atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Observe as bolhas mudarem de tamanho no seu gráfico.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   Ao adicionar **(FT) Revenue Won**, vemos rapidamente que, enquanto a Origami Expo adquiriu muitos novos nomes, resulta em relativamente pouca receita. Além disso, vemos que o programa Paper Fest 12 está recebendo menos nomes, mas nomes melhores, já que influencia mais receitas ganhas (maior bolha).
+   Ao adicionar **(FT) Revenue Won**, vemos rapidamente que, embora a Origami Expo tenha adquirido muitos novos nomes, resulta em uma receita comparativamente pequena. Além disso, vemos que o programa Paper Fest 12 está recebendo menos nomes, mas nomes melhores, já que influencia mais receitas ganhas (maior bolha).
 
 1. Use o menu suspenso Cor para adicionar uma quarta métrica. Analisaremos a (FT) Receita para investimento.
 
@@ -88,7 +88,7 @@ Vemos que o programa Paper Fest 12 não só influencia mais receitas (maior bolh
 
 >[!TIP]
 >
->Você pode comparar rapidamente os programas de um canal com os de outro. Basta usar o Filtro **de** Canal na parte superior da janela para adicionar mais canais.
+>Você pode comparar rapidamente os programas de um canal com os de outro. Basta usar o **Filtro de Canal** na parte superior da janela para adicionar mais canais.
 
 >[!NOTE]
 >
@@ -100,4 +100,4 @@ Vemos que o programa Paper Fest 12 não só influencia mais receitas (maior bolh
 
 >[!NOTE]
 >
->Saiba mais sobre análises avançadas no [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Saiba mais sobre análises avançadas no [Explorador do Ciclo de Receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
