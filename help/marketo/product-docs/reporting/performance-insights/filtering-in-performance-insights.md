@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtragem em insights de desempenho {#filtering-in-performance-insights}
+# Filtragem em Insights de Desempenho {#filtering-in-performance-insights}
 
 Filtre facilmente os dados para informações específicas do query.
 
@@ -21,7 +21,7 @@ Clique no sinal + para adicionar filtros ao start.
 
 >[!NOTE]
 >
->No momento, os Atributos personalizados estão disponíveis em filtros somente para clientes com [RCA](http://docs.marketo.com/x/lwIk) ativada.
+>No momento, os Atributos personalizados estão disponíveis em filtros somente para clientes que têm [RCA](http://docs.marketo.com/x/lwIk) ativado.
 
 Clicar em uma categoria revela várias subcategorias.
 
