@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Este artigo mostra diferentes maneiras de pré-visualização de uma campanha da Web e também como testá-la usando um segmento de caixa de proteção ao vivo em seu site.
 
-## Pré-visualização de uma Campanha da Web na página de criação {#preview-a-web-campaign-on-the-creation-page}
+## Pré-visualização de uma Campanha da Web na Página de Criação {#preview-a-web-campaign-on-the-creation-page}
 
 1. Vá para **Web** **Campanha**.
 
@@ -35,9 +35,9 @@ Este artigo mostra diferentes maneiras de pré-visualização de uma campanha da
 
    >[!NOTE]
    >
-   >Você também tem a opção de instalar um plug-in do navegador ( [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) para obter a melhor experiência em visualizar sua campanha. Consulte a seção abaixo.
+   >Você também tem a opção de instalar um plug-in do navegador ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) para obter a melhor experiência em visualizar sua campanha. Consulte a seção abaixo.
 
-## Pré-visualização de uma Campanha da Web na página de criação usando o plug-in do navegador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
+## Pré-visualização uma Campanha da Web na página de criação usando o plug-in do navegador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. Siga as etapas 1 e 2 do `section above`.
 1. Clique no link para o plug-in do navegador (neste caso, estamos usando o Chrome).
@@ -60,9 +60,9 @@ Este artigo mostra diferentes maneiras de pré-visualização de uma campanha da
 
    ![](assets/campaign-preview.png)
 
-## Pré-visualização de uma Campanha da Web na página do Web Campanha {#preview-a-web-campaign-on-the-web-campaigns-page}
+## Pré-visualização de uma Campanha da Web na Página do Web Campanha {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Ao olhar para a lista de suas campanhas da Web, basta escolher uma campanha e clicar no ícone de **Pré-visualização** .
+1. Ao olhar para a lista de suas campanhas da Web, basta escolher uma campanha e clicar no ícone **Pré-visualização**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -72,7 +72,7 @@ Este artigo mostra diferentes maneiras de pré-visualização de uma campanha da
 
 Crie um segmento e uma campanha de sandbox.
 
-1. Ir para **Segmentos**.
+1. Vá para **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -89,7 +89,7 @@ Crie um segmento e uma campanha de sandbox.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Conclua o anúncio da campanha e clique em **Iniciar**.\
+1. Conclua o anúncio de campanha e clique em **Iniciar**.\
    ![](assets/click-launch.jpg)
 
 1. Vá para seu site, adicione o parâmetro de URL &quot;?sandbox=1&quot; no final do URL. Exemplo: [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
