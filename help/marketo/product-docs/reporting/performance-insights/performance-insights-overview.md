@@ -29,7 +29,7 @@ Para acessar o Performance Insights, clique em seu ícone na tela inicial do Ana
 
 ## Contribuição {#contribution}
 
-Avalie a [contribuição da Marketing para](http://docs.marketo.com/x/QAvG)as receitas em função da aquisição, influência, conversão, até mesmo o crescimento básico instalado pelo cliente.
+Avalie a contribuição [da Marketing para a receita](http://docs.marketo.com/x/QAvG)em função da aquisição, influência, conversão, até mesmo do crescimento básico instalado pelo cliente.
 
 ![](assets/two.png)
 
@@ -39,7 +39,7 @@ Por padrão, os dados exibidos refletem o desempenho por Envolvimento. Você pod
 
 ## Tendência {#trend}
 
-Descubra as tendências [de](http://docs.marketo.com/x/QgvG) longo prazo para descobrir estratégias consistentes de vencer.
+Descubra as [tendências de longo prazo](http://docs.marketo.com/x/QgvG) para descobrir estratégias vencedoras consistentes.
 
 ![](assets/4.png)
 
@@ -51,7 +51,7 @@ Nos painéis de Receita e Pipeline, clique no ícone [Configurações](http://do
 
 ## Exportar dados {#export-data}
 
-Você pode exportar os dados e gráficos no PowerPoint ou no Excel. Também é possível salvá-los como um Gráfico [Rápido](https://docs.marketo.com/x/iRLG).
+Você pode exportar os dados e gráficos no PowerPoint ou no Excel. Você também pode salvá-los como um [Gráfico rápido](https://docs.marketo.com/x/iRLG).
 
 ![](assets/6.png)
 
