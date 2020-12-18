@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Gráficos Rápidos de Insights de Desempenho {#performance-insights-quick-charts}
+# Gráficos Rápidos do Performance Insights {#performance-insights-quick-charts}
 
 Os Gráficos Rápidos são miniaturas que você personaliza e salva, fornecendo uma visualização rápida de gráficos que você mais usa.
 
 ## Criar um novo gráfico rápido {#create-a-new-quick-chart}
 
-Os Gráficos Rápidos derivam dos dados especificados. Neste exemplo, escolheremos: **novas oportunidades (primeiro toque), tipo de oportunidade = nova empresa, ano até a data** atual.
+Os Gráficos Rápidos derivam dos dados especificados. Neste exemplo, escolheremos: **novas oportunidades (primeiro toque), tipo de oportunidade = novos negócios, acumulados no ano atual**.
 
-1. Clique no filtro de datas e escolha Ano **Atual (YTD)**.
+1. Clique no filtro de datas e escolha **Ano Atual (YTD)**.
 
    ![](assets/1-2.png)
 
-1. Clique no **+** e selecione seus critérios.
+1. Clique em **+** e selecione seus critérios.
 
    ![](assets/2-2.png)
 
@@ -31,11 +31,11 @@ Os Gráficos Rápidos derivam dos dados especificados. Neste exemplo, escolherem
 
    ![](assets/3-3.png)
 
-1. Clique no ícone Exportar e selecione **Salvar como gráfico** rápido.
+1. Clique no ícone Exportar e selecione **Salvar como Gráfico Rápido**.
 
    ![](assets/4-2.png)
 
-1. Dê um nome ao seu Gráfico rápido e clique em **Salvar**.
+1. Nomeie seu Gráfico Rápido e clique em **Salvar**.
 
    ![](assets/5-3.png)
 
@@ -49,19 +49,19 @@ Seu Gráfico Rápido agora está com os outros.
 
 ## Visualização de Gráficos Rápidos Existentes {#view-existing-quick-charts}
 
-1. Para visualização de seus Gráficos Rápidos existentes, basta clicar no ícone Gráficos **** Rápidos.
+1. Para visualização de seus Gráficos Rápidos existentes, basta clicar no ícone **Gráficos Rápidos**.
 
    ![](assets/7-1.png)
 
-## Excluir um gráfico rápido {#delete-a-quick-chart}
+## Excluir um Gráfico Rápido {#delete-a-quick-chart}
 
 Se precisar excluir um Gráfico rápido, siga estas etapas simples.
 
-1. Clique no ícone Gráficos **** Rápidos.
+1. Clique no ícone **Gráficos Rápidos**.
 
    ![](assets/8-1.png)
 
-1. Passe o cursor do mouse sobre o gráfico desejado, mas não clique nele. Ao passar o mouse, um X será exibido. Clique no **X**.
+1. Passe o cursor do mouse sobre o gráfico desejado, mas não clique nele. Ao passar o mouse, um X será exibido. Clique em **X**.
 
    ![](assets/9-2.png)
 
