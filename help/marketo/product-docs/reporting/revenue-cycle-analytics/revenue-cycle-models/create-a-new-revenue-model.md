@@ -17,11 +17,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Na guia **Analytics** , clique em **Novo** e selecione **Novo modelo** de ciclo de receita.
+1. Na guia **Analytics**, clique em **Novo** e selecione **Novo modelo de ciclo de receita**.
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. Uma janela modal **New Revenue Cycle Model (Novo modelo do ciclo** de receita) é exibida. Digite um nome e clique em **Criar**.
+1. Uma janela modal **Novo Modelo de Ciclo de Receita** é exibida. Digite um nome e clique em **Criar**.
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
@@ -37,5 +37,5 @@ Parece afiado! Vocês acabaram de entrar no maravilhoso mundo da modelagem.
 
 >[!MORELIKETHIS]
 >
->Saiba mais sobre como [usar os estágios](using-revenue-model-inventory-stages.md)de inventário do modelo de receita.
+>Saiba mais sobre [Usando Estágios de Inventário do Modelo de Receita](using-revenue-model-inventory-stages.md).
 
