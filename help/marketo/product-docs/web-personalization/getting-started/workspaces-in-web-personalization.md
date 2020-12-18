@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Espaços de trabalho na personalização da Web {#workspaces-in-web-personalization}
+# Espaços de trabalho na Personalização da Web {#workspaces-in-web-personalization}
 
 A Personalização da Web suporta vários espaços de trabalho para campanhas da Web e segmentos da Web.
 
@@ -21,13 +21,13 @@ Para alternar entre espaços de trabalho na personalização da Web, clique no �
 
 ![](assets/ss7.png)
 
-## Alterar o espaço de trabalho de um segmento {#change-a-segments-workspace}
+## Alterar a área de trabalho de um segmento {#change-a-segments-workspace}
 
-1. Vá para a página **Segmentos** , selecione um segmento e clique no ícone de edição.
+1. Vá para a página **Segmentos**, selecione um segmento e clique no ícone de edição.
 
    ![](assets/ss4.png)
 
-1. Selecione um espaço de trabalho diferente no menu suspenso **Espaço de trabalho** .
+1. Selecione um espaço de trabalho diferente no menu suspenso **Workspace**.
 
    ![](assets/ss6.png)
 
@@ -35,5 +35,5 @@ Para alternar entre espaços de trabalho na personalização da Web, clique no �
 
 >[!NOTE]
 >
->Os usuários só poderão ver campanhas da Web e segmentos associados aos espaços de trabalho aos quais têm acesso. Veja como [dar acesso de usuário a um ou mais espaços de trabalho](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
+>Os usuários só poderão ver campanhas da Web e segmentos associados aos espaços de trabalho aos quais têm acesso. Veja como [conceder a um usuário acesso a um ou mais espaços de trabalho](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
 
