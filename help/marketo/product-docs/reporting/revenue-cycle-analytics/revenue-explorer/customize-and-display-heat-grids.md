@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Personalizar e exibir grades de calor {#customize-and-display-heat-grids}
+# Personalizar e exibir as grades de calor {#customize-and-display-heat-grids}
 
 Uma grade de calor representa visualmente seus dados em uma grade colorida para que você possa identificar padrões bons e ruins com mais facilidade e rapidez.
 
-1. No seu relatório, clique no ícone de gráfico e em **Heat Grid**.
+1. No seu relatório, clique no ícone de gráfico e **Grade de calor**.
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. Para fazer alterações na sua Grade **de** calor, vá para a área **Propriedades **s.
+1. Para fazer alterações em sua **Grade de calor**, vá para a área **Propriedades **I.
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   Incrível! Agora você tem sua **grade** de calor!
+   Incrível! Agora você tem sua **Grade de calor**!
 
