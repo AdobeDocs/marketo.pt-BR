@@ -21,7 +21,7 @@ Ao criar o modelo e selecionar e organizar os estágios de inventário, é hora 
 
 ![](assets/one-2.png)
 
-1. Clique com o botão direito do mouse (você também pode clicar com o duplo) em uma das setas para começar e selecione **Editar Transição**.
+1. Clique com o botão direito do mouse (também é possível clicar com o duplo) em uma das setas para começar e selecione **Editar Transição**.
 
    ![](assets/two-2.png)
 
