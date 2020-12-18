@@ -23,7 +23,7 @@ Veja como criar um segmento usando uma Lista de conta.
 
 
 
-1. Ir para **Segmentos**.
+1. Vá para **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
@@ -31,7 +31,7 @@ Veja como criar um segmento usando uma Lista de conta.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Insira um nome para o segmento. Arraste e solte Listas **de** conta na seção **Firmográficos** .
+1. Insira um nome para o segmento. Arraste e solte **Listas de conta** da seção **Firmográficos**.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -43,7 +43,7 @@ Veja como criar um segmento usando uma Lista de conta.
    >
    >As Listas de conta são sincronizadas de ABM para Web Personalization para uso em Segmentação. Selecione-os no menu suspenso. A sincronização pode levar até cinco minutos. Ela só será sincronizada se houver uma ou mais contas nomeadas na Lista Conta.
 
-1. Clique em **Salvar** ou em **Salvar e definir Campanha** para ir para a página Campanhas.\
+1. Clique em **Salvar** ou em **Salvar e definir Campanha** para ir para a página Campanha.\
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
 Parabéns! Agora você configura um segmento direcionado a uma Lista de conta.
