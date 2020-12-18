@@ -23,7 +23,7 @@ Formulário, conheça a landing page. Landing page, formulário.
 
 
 
-1. Vá para a área **Marketing Atividade** .
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/one.png)
 
@@ -35,7 +35,7 @@ Formulário, conheça a landing page. Landing page, formulário.
    >
    >Os elementos disponíveis nas landings page guiadas são definidos pelo modelo. Se você não vir um formulário no painel de elementos, selecione um novo modelo ou converse com seu criador de modelo.
 
-1. Clique com o duplo do mouse no **Formulário** no painel de elementos.
+1. Clique com o duplo no **Formulário** no painel de elementos.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -61,4 +61,4 @@ Formulário, conheça a landing page. Landing page, formulário.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Agora feche o editor de landings page e [aprove o rascunho](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)da landing page.
+Agora, feche o editor de landings page e [aprove o rascunho da landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
