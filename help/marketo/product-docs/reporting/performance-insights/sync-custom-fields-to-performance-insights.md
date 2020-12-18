@@ -21,29 +21,29 @@ Os painéis de Receita e Pipeline MPI podem filtrar em campos de Marketing perso
 
 >[!NOTE]
 >
->Este artigo é somente para usuários que **não** têm [RCA](http://docs.marketo.com/x/lwIk). Se você tiver RCA, siga as etapas [deste artigo](http://docs.marketo.com/x/FQQk).
+>Este artigo é somente para usuários que **não** têm [RCA](http://docs.marketo.com/x/lwIk). Se você tiver RCA, siga as etapas em [este artigo](http://docs.marketo.com/x/FQQk).
 
-1. Vá para a seção **Admin** .
+1. Vá para a seção **Admin**.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Em Outras coisas, selecione Análise **do Programa**.
+1. Em Outros elementos, selecione **Análise do Programa**.
 
    ![](assets/2-3.png)
 
-1. Clique na guia Sincronização **de campo** personalizado.
+1. Clique na guia **Sincronização de campo personalizado**.
 
    ![](assets/3-5.png)
 
-1. Selecione o campo para o qual deseja ativar a sincronização e clique em **Editar opção** de sincronização.
+1. Selecione o campo para o qual deseja habilitar a sincronização e clique em **Editar opção de sincronização**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Altere o Status **de** sincronização para **Ativado**.
+1. Altere **Sincronizar status** para **Ativado**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Selecione o Tipo **** RCA de sua escolha e clique em **Salvar**.
+1. Selecione **Tipo RCA** de sua escolha e clique em **Salvar**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
