@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verificar configuração de push {#verify-push-configuration}
+# Verifique a configuração de push {#verify-push-configuration}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Verifique a configuração de push para garantir que tudo esteja sincronizado co
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecione Aplicativos **móveis**.
+1. Selecione **Aplicativos móveis**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
