@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Criar seu Evento de Webinar no ON24 {#create-your-webinar-event-in-on}
+# Crie seu Evento de Webinar em ON24 {#create-your-webinar-event-in-on}
 
 Depois de criar seu webinar no ON24, você pode criar um evento Marketo e associá-lo ao webinar ON24. Isso permite que os sistemas compartilhem informações de inscrição e presença. Anote o URL e outras informações para usar em seu email de confirmação e no arquivo ICS.
 
@@ -27,7 +27,7 @@ Há certas configurações na criação do webinar ON24 usadas pelo Marketo e ou
 * Start ao vivo do Evento - A data e a hora do start. Isso será visível em Marketo.
 * Hora de término ao vivo - a data e a hora de término. Isso será visível em Marketo.
 
-O próximo passo é [criar um evento no Marketo](create-an-event-in-marketo.md).
+A próxima etapa é [criar um evento em Marketo](create-an-event-in-marketo.md).
 
 >[!MORELIKETHIS]
 >
