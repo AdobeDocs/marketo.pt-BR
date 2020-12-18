@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Filtrar um relatório de Atividade de Campanha {#filter-a-campaign-activity-report}
+# Filtrar um Relatório de Atividade de Campanha {#filter-a-campaign-activity-report}
 
-Focalize seu Relatório de Atividade de [Campanha](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)campanhas [inteligentes específicas](http://docs.marketo.com/display/docs/smart+campaigns).
+Focalize seu [Relatório de Atividade de Campanha](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)em campanhas inteligentes [específicas](http://docs.marketo.com/display/docs/smart+campaigns).
 
-1. Vá para **Marketing Atividade** (ou **Analytics**) e selecione seu relatório de atividade de campanha.
+1. Vá para **Atividades de marketing** (ou **Analytics**) e selecione seu relatório de atividade de campanha.
 
    ![](assets/image2014-9-16-16-3a13-3a56.png)
 
-1. Clique na guia **Configuração** e clique no duplo em **Campanha.**
+1. Clique na guia **Configuração** e clique em duplo **Campanha.**
 
    ![](assets/image2014-9-16-16-3a14-3a1.png)
 
@@ -31,7 +31,7 @@ Focalize seu Relatório de Atividade de [Campanha](../../../../product-docs/repo
    >
    >Se você selecionar uma pasta, seu relatório incluirá tudo o que essa pasta contém no momento em que o relatório é executado.
 
-1. Você terminou! Clique na guia **Relatório** para ver *apenas* as campanhas inteligentes selecionadas em seu relatório.
+1. Você terminou! Clique na guia **Relatório** para ver *apenas* as campanhas inteligentes selecionadas no seu relatório.
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
@@ -47,5 +47,5 @@ Focalize seu Relatório de Atividade de [Campanha](../../../../product-docs/repo
 >
 >**Mergulho profundo**
 >
->Saiba tudo sobre os relatórios no Relatórios [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+>Saiba tudo sobre os relatórios em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
