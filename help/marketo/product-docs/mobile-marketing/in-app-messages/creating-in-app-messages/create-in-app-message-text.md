@@ -63,7 +63,7 @@ Clique na área de texto para trabalhar no estilo e conteúdo do texto.
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Selecione Meu token na lista suspensa, adicione um valor padrão e clique em **Inserir**.
+1. Selecione Meu token no menu suspenso, adicione um valor padrão e clique em **Inserir**.
 
    ![](assets/mytoken.png)
 
@@ -77,7 +77,7 @@ Clique na área de texto para trabalhar no estilo e conteúdo do texto.
 
    Quaisquer alterações feitas nos tokens usados em um programa de mensagem no aplicativo aprovado não entrarão em vigor na mensagem no aplicativo até que o programa seja pausado e retomado.
 
-Você é dourado. Em seguida, é necessário [configurar o botão](set-up-the-in-app-message-button.md)de mensagem no aplicativo.
+Você é dourado. Em seguida, é necessário [configurar o botão de mensagem no aplicativo](set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
