@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Clonar um trecho {#clone-a-snippet}
+# Clonar um fragmento {#clone-a-snippet}
 
 Clonar um snippet para criar uma cópia dele que pode ser modificada de acordo com suas necessidades.
 
@@ -23,7 +23,7 @@ Clonar um snippet para criar uma cópia dele que pode ser modificada de acordo c
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. Digite os detalhes do snippet e clique em **Clonar**.
+1. Insira os detalhes do snippet e clique em **Clonar**.
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 
