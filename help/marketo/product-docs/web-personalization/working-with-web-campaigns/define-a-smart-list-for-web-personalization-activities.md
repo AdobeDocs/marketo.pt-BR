@@ -17,7 +17,7 @@ Você pode usar atividades de personalização da Web em filtros e acionadores q
 
 Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pontuação com base em visitantes que clicaram e participaram de uma chamada de Personalização da Web para ação. Você também pode filtrar e visualização os clientes potenciais que clicaram em uma chamada de personalização da Web para ação.
 
-1. Na sua campanha inteligente, clique na guia Lista **** inteligente.
+1. Na sua campanha inteligente, clique na guia **Lista inteligente**.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
@@ -26,7 +26,7 @@ Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pont
    >**Mergulho profundo**
    >
    >
-   >Listas inteligentes podem fazer coisas incríveis. Saiba mais na [Smart Lista Deep Dive](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Listas inteligentes podem fazer coisas incríveis. Saiba mais no [Deep Dive da Lista inteligente](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Procure o acionador e arraste e solte o acionador na tela.
 
