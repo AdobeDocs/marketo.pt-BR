@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Criar um relatório do Explorador de Receita {#create-a-revenue-explorer-report}
+# Criar um relatório do Revenue Explorer {#create-a-revenue-explorer-report}
 
 O relatório do Revenue Explorer permite que você rastreie o ROI em suas iniciativas de marketing.
 
