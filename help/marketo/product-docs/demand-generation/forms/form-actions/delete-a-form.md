@@ -23,7 +23,7 @@ Se você tiver um formulário desnecessário e que não esteja sendo usado, pode
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Em **Ações** de formulário **, clique em** Excluir **** formulário ****.
+1. Em **Formulário** **Ações**, clique em **Eliminar** **Formulário**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -34,7 +34,7 @@ Se você tiver um formulário desnecessário e que não esteja sendo usado, pode
    >
    >Lembre-se de remover o formulário de todas/todas as landings page que o usam. Além disso, confirme se o formulário não está sendo usado em um site público.
 
-1. Confirme clicando em **Excluir**.
+1. Confirme clicando em **Delete**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
@@ -44,5 +44,5 @@ Se você tiver um formulário desnecessário e que não esteja sendo usado, pode
 
 >[!CAUTION]
 >
->Se você excluir um formulário que está sendo usado pelo seu site público, você não verá um aviso e o formulário será quebrado. Considere [arquivá-lo](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) .
+>Se você excluir um formulário que está sendo usado pelo seu site público, você não verá um aviso e o formulário será quebrado. Em vez disso, considere [arquivá-lo](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
 
