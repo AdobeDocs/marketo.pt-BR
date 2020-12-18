@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cancelar a aprovação de um trecho {#unapprove-a-snippet}
+# Cancelar a aprovação de um snippet {#unapprove-a-snippet}
 
 Um trecho não aprovado não pode ser usado em emails ou landings page.
 
@@ -19,13 +19,13 @@ Um trecho não aprovado não pode ser usado em emails ou landings page.
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Vá para o Snippet e verifique se não está sendo **usado por** nenhum ativo.
+1. Vá para o Snippet e verifique se não é **Usado por** nenhum ativo.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
    Se o snippet for usado por outros ativos, remova essas associações antes de continuar.
 
-1. Em Ações **de trecho**, clique em **Cancelar aprovação**.
+1. Em **Ações de trecho**, clique em **Cancelar aprovação**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
