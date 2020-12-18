@@ -23,15 +23,15 @@ Na árvore de navegação, clique com o botão direito do mouse no arquivo para 
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Ou, na página visualização de notificação por push, clique em Ações **de notificações por** push e, em seguida, em **Pré-visualização**. Ou clique em **Pré-visualização **na extrema direita.** **
+Ou, na página visualização de notificação por push, clique em **Ações de notificações por push** e **Pré-visualização**. Ou clique em **Pré-visualização **na extremidade direita.** **
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Finalmente, no editor, você pode clicar na guia Rascunho **da** Pré-visualização no canto superior direito enquanto trabalha na notificação.
+Finalmente, no editor, você pode clicar na guia **Rascunho de Pré-visualização** no canto superior direito enquanto trabalha na notificação.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
-## Pré-visualização Android {#android-previews}
+## Android Pré-visualização {#android-previews}
 
 Clique no ícone à esquerda para ver exatamente onde a notificação por push será exibida ao enviá-la. Clique ou use as setas do teclado para alternar entre elas.
 
@@ -47,7 +47,7 @@ Na tela Lock (Bloquear), ela aparece parcialmente para baixo, sob o tempo.
 >
 >Não há uma visualização do Notification Center no Android.
 
-## pré-visualização iOS {#ios-previews}
+## iOS Pré-visualização {#ios-previews}
 
 Assim como no Android, clique ou use setas do teclado para alternar entre o visualização.
 
