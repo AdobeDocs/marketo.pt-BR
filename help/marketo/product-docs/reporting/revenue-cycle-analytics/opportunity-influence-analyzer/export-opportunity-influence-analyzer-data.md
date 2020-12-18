@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Exportar dados do analisador de influência da oportunidade {#export-opportunity-influence-analyzer-data}
+# Exportar dados do analisador de influência de oportunidade {#export-opportunity-influence-analyzer-data}
 
-Para receber atualizações dos relatórios do [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) e compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
+Para receber atualizações dos relatórios do [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) e para compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
 
-1. Vá para **Analytics** e selecione **Novo** **>** **Novo** **relatório** **** Subscrição.
+1. Vá para **Analytics** e selecione **Novo** **** **Novo** **Relatório** **Subscrição**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Para assinar um relatório básico criado em um programa, consulte [Assinar um relatório](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) básico .
+   >Para assinar um relatório básico criado em um programa, consulte [Inscrever-se em um Relatório Básico](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) .
 
-1. Para Origem do Relatório, selecione **Gerenciador de Receita.**
+1. Para Origem do Relatório, selecione **Explorador de Receitas.**
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,11 +45,11 @@ Para receber atualizações dos relatórios do [Revenue Cycle Explorer](http://d
 
 >[!MORELIKETHIS]
 >
->Saiba como [gerenciar todas as subscrições](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) de relatório em um único lugar.
+>Saiba como [gerenciar todas as subscrições de relatório](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) em um único lugar.
 
 >[!NOTE]
 >
 >**Mergulho profundo**
 >
->Veja mais coisas que você pode fazer com as análises avançadas do Marketo no aprofundamento do [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) .
+>Veja mais coisas que você pode fazer com as análises avançadas do Marketo no aprofundamento do [Explorador do Ciclo de Receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
