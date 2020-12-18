@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Criar um relatório de Análise por email que mostre as informações do Programa {#build-an-email-analysis-report-that-shows-program-information}
+# Criar um relatório de Análise por email que mostre informações do Programa {#build-an-email-analysis-report-that-shows-program-information}
 
 Siga estas etapas para criar um Relatório de Análise de email que mostrará informações de email agrupadas por canais de programas.
 
@@ -21,11 +21,11 @@ Siga estas etapas para criar um Relatório de Análise de email que mostrará in
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
-1. Inicie o **Explorador** de Receita.
+1. Inicie **Explorador de Receitas**.
 
    ![](assets/image2014-9-17-19-3a42-3a26.png)
 
-1. Clique em **Novo relatório**.
+1. Clique em **Novo Relatório**.
 
    ![](assets/image2014-9-17-19-3a42-3a32.png)
 
@@ -33,7 +33,7 @@ Siga estas etapas para criar um Relatório de Análise de email que mostrará in
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Localize o ponto amarelo **Enviado (Semana)** e clique nele com o botão direito do mouse. Clique em **Filtro**.
+1. Localize o **Enviado (Semana)** ponto amarelo e clique nele com o botão direito do mouse. Clique em **Filtro**.
 
    >[!NOTE]
    >
@@ -41,7 +41,7 @@ Siga estas etapas para criar um Relatório de Análise de email que mostrará in
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Marque Semana **de envio** atual e clique em **OK**.
+1. Marque **Semana atual enviada** e clique em **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
@@ -49,11 +49,11 @@ Siga estas etapas para criar um Relatório de Análise de email que mostrará in
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Localize e duplo clique no ponto amarelo Nome **de** email.
+1. Localize e clique no duplo **Nome do e-mail** ponto amarelo.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Localize e clique em duplo nos pontos **Enviados**, **Abertos** e **Clicados** em azul.
+1. Localize e duplo clique nos pontos azuis **Enviados**, **Abertos** e **Clicados**.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
@@ -66,5 +66,5 @@ Siga estas etapas para criar um Relatório de Análise de email que mostrará in
    >**Mergulho profundo**
    >
    >
-   >Quer saber mais sobre o [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)?
+   >Deseja saber mais sobre [o Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)?
 
