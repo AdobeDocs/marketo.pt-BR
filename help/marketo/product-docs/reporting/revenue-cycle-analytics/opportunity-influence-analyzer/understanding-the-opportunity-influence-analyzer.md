@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Noções básicas sobre o analisador de influência de oportunidade {#understanding-the-opportunity-influence-analyzer}
+# Noções básicas sobre o Analisador de influência de oportunidade {#understanding-the-opportunity-influence-analyzer}
 
 Cada oportunidade é uma história. Onde você encontrou a pista? Que oportunidades de marketing os afetaram durante o processo de marketing/vendas?
 
@@ -27,7 +27,7 @@ O Analisador de influência de oportunidade permite que você veja toda a histó
 
 Use os controles à direita para adicionar/remover pessoas do gráfico ou alternar para contas ou oportunidades diferentes.
 
-## Como identificar contas exclusivas {#identifying-unique-accounts}
+## Identificando contas exclusivas {#identifying-unique-accounts}
 
 O Marketo usa a ID do CRM para identificar exclusivamente contas.
 
