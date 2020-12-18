@@ -17,8 +17,8 @@ A recomercialização personalizada permite que você se envolva novamente com s
 
 >[!PREREQUISITES]
 >
->* Conclua a [redefinição de metas com a configuração de dados](retargeting-with-web-personalization-data.md) de personalização da Web
->* Revise a documentação do [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook em [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Públicos-alvo personalizados e Comentários
+>* Conclua a configuração [Redefinição de metas com dados de personalização da Web](retargeting-with-web-personalization-data.md)
+>* Revise a documentação do [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook em Audiências personalizadas](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)e Comentários
 
 >
 
@@ -26,16 +26,16 @@ A recomercialização personalizada permite que você se envolva novamente com s
 
 ## Criação de uma Audiência no Facebook {#creating-an-audience-in-facebook}
 
-1. No Facebook, vá para a guia [](https://www.facebook.com/ads/audience_manager) Audiência no Gerenciador de anúncios.
+1. No Facebook, vá para sua [guia Audiência](https://www.facebook.com/ads/audience_manager) no Gerenciador de publicidade.
 1. Clique em **Ferramentas** e selecione **Audiência**.
 
    ![](assets/one-1.png)
 
-1. Clique em **Criar uma Audiência** personalizada.
+1. Clique em **Criar uma Audiência personalizada**.
 
    ![](assets/two-1.png)
 
-1. Selecione Tráfego **do site**.
+1. Selecione **Tráfego do site**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
@@ -51,7 +51,7 @@ A recomercialização personalizada permite que você se envolva novamente com s
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Neste exemplo, selecione Indústria para conter **Educação**. Entre em **Educação** e edite **Nos últimos** 180 dias. Digite o nome da Audiência: **Indústria** educacional. Clique em **Criar Audiência**.
+1. Neste exemplo, selecione Setor para conter **Educação**. Digite **Education** e edite **Nos Últimos** para 180 dias. Digite o nome da Audiência: **Setor de Educação**. Clique em **Criar Audiência**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -106,9 +106,9 @@ A recomercialização personalizada permite que você se envolva novamente com s
 
 ## Público alvo de sua Audiência com um anúncio {#target-your-audience-with-an-ad}
 
-Para obter detalhes adicionais, consulte a documentação [do](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)Facebook.
+Para obter detalhes adicionais, consulte [a documentação do Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
-1. Vá para Gerenciador de publicidade e clique em **Criar anúncio**.
+1. Vá para Gerenciador de publicidade, clique em **Criar anúncio**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
