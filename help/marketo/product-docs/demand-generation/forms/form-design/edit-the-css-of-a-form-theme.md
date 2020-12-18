@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Editar o CSS de um tema de formulário {#edit-the-css-of-a-form-theme}
 
-Você tem alguns [temas pré-criados dos quais pode escolher](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mas se você adora editar o CSS, pode fazer as mudanças que quiser. Veja como.
+Você tem alguns temas [pré-criados dos quais você pode escolher ](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mas se você adora editar o CSS, pode fazer as mudanças que quiser. Veja como.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Você tem alguns [temas pré-criados dos quais pode escolher](../../../../produc
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Vá para **Configurações** de formulário ****.
+1. Vá para **Formulário** **Definições**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -35,7 +35,7 @@ Você tem alguns [temas pré-criados dos quais pode escolher](../../../../produc
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. No ícone de engrenagem, clique em **Visualização do tema CSS**.
+1. No ícone de engrenagem, clique em **Tema de Visualização CSS**.
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
@@ -47,7 +47,7 @@ Você tem alguns [temas pré-criados dos quais pode escolher](../../../../produc
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. No ícone de engrenagem, clique em **Editar** **CSS** **personalizado**.
+1. No ícone de engrenagem, clique em **Editar** **Personalizado** **CSS**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
