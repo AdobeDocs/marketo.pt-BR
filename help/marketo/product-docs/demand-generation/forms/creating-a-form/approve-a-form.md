@@ -27,7 +27,7 @@ Aqui está como aprovar um formulário existente que está pronto para ser usado
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. Em Ações **de** formulário, clique em **Aprovar**.
+1. Em **Ações do formulário**, clique em **Aprovar**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -57,7 +57,7 @@ Se você estiver fazendo alterações em um formulário, poderá aprovar a pági
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)
 
