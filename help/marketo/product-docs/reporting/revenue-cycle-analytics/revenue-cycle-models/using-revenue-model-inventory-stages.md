@@ -21,11 +21,11 @@ Todos os clientes potenciais e contas conhecidos residem inicialmente no Estági
 
 ## Adicionar Uma Etapa De Inventário {#add-an-inventory-stage}
 
-1. Para adicionar uma nova etapa de Inventário do modelo do ciclo de receita, clique no botão **Analytics** na tela inicial **Meu marketing** .
+1. Para adicionar uma nova etapa Inventário do modelo do ciclo de receita, clique no botão **Analytics** na tela inicial **Meu marketing**.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Na seção **Analytics** , selecione o modelo existente ou [crie um novo](create-a-new-revenue-model.md).
+1. Na seção **Analytics**, selecione o modelo existente ou [crie um novo](create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -37,23 +37,23 @@ Todos os clientes potenciais e contas conhecidos residem inicialmente no Estági
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Você pode editar o Nome, adicionar uma Descrição e ajustar o Tipo após adicionar uma etapa. Você também pode selecionar ** Rastreamento de [Start por conta](start-tracking-by-account-in-the-revenue-modeler.md)** neste momento.
+1. Você pode editar o Nome, adicionar uma Descrição e ajustar o Tipo após adicionar uma etapa. Você também pode selecionar ** [Rastreamento de Start por Conta](start-tracking-by-account-in-the-revenue-modeler.md)*** neste momento.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
-## Editar um estágio de inventário {#edit-an-inventory-stage}
+## Editar um Estágio de Inventário {#edit-an-inventory-stage}
 
-Ao selecionar um ícone de Inventário, você pode editar o **Nome**, adicionar uma **Descrição** ou ajustar o **Tipo**. Você também pode selecionar Rastreamento de [Start por conta](start-tracking-by-account-in-the-revenue-modeler.md).
+Ao selecionar um ícone de Inventário, você pode editar o **Nome**, adicionar um **Descrição** ou ajustar o **Tipo**. Você também pode selecionar [Rastreamento de Start por Conta](start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Clique no ícone Inventário.
 
    ![](assets/image2015-4-27-15-3a55-3a10.png)
 
-1. Clique nos campos **Nome** e **Descrição** para editar seu conteúdo.
+1. Clique nos campos **Nome** e **Descrição** para editar o conteúdo.
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. Selecione o menu suspenso **Tipo** para editar.
+1. Selecione o menu suspenso **Type** para editar.
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
@@ -63,7 +63,7 @@ Ao selecionar um ícone de Inventário, você pode editar o **Nome**, adicionar 
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. Você também pode excluir um estágio clicando nele e, em seguida, na lista suspensa Ações **do** palco, selecione **Excluir**.
+1. Você também pode excluir um estágio clicando nele e, em seguida, na lista suspensa **Ações do palco**, selecione **Excluir**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
