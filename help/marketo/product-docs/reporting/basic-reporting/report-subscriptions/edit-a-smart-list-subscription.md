@@ -21,7 +21,7 @@ ht-degree: 0%
 * Delivery final
 * Formato
 
-1. Selecione **Banco de Dados** (estamos usando neste exemplo, mas o Marketing Atividade funciona exatamente da mesma forma).
+1. Selecione **Banco de Dados** (estamos usando-o neste exemplo, mas o Marketing Atividade funciona exatamente da mesma forma).
 
    ![](assets/db-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
-1. Clique na coluna **Frequency (Frequência** ) para escolher ou alterar sua configuração.
+1. Clique na coluna **Frequency** para escolher ou alterar sua configuração.
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
    >
    >As colunas em Colunas de marketing são as colunas de relatório, não as usadas na guia de relatório do Subscrição.
 
-1. Clique na coluna Data **de** término para editar a data de término. Selecione **Nunca** ou **Data**. Para uma data, insira-a ou escolha-a no calendário. Clique em **Aprovar**.
+1. Clique na coluna **Data final** para editar a data final. Selecione **Nunca** ou **Data**. Para uma data, insira-a ou escolha-a no calendário. Clique em **Aprovar**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
-1. A última parte do quebra-cabeça é o formato. Clique na coluna **Formatar** e selecione a que deseja. CSV é o padrão.
+1. A última parte do quebra-cabeça é o formato. Clique na coluna **Format** e selecione a que deseja. CSV é o padrão.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)
 
