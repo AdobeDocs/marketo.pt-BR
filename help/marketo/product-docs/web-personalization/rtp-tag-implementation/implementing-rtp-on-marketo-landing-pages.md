@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Implementação da RTP em Landings page de marketing {#implementing-rtp-on-marketo-landing-pages}
+# Implementação do RTP em Landings page de marketing {#implementing-rtp-on-marketo-landing-pages}
 
 Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
-1. Vá para o **Design Studio.** Abra o item que deseja editar. Selecionar ações **de** modelo, selecione **Editar rascunho**
+1. Vá para o **Design Studio.** Abra o item que deseja editar. Selecione **Ações do modelo**, selecione **Editar rascunho**
 
    ![](assets/image2015-4-26-18-3a27-3a4.png)
 
-1. Faça as alterações no modelo na guia Origem **** HTML.
+1. Faça as alterações no modelo na guia **HTML Source**.
 
    ![](assets/image2015-4-26-18-3a28-3a17.png)
 
@@ -35,15 +35,15 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
    ![](assets/image2014-11-30-15-3a20-3a17-2.png)
 
-1. Copie a tag RTP JavaScript e cole-a em todos os modelos de landing page entre as **`<head> </head>`** tags.
-1. Clique em **Salvar** e **fechar** a janela.
-1. De volta ao **Design Studio**, aprove a landing page de Ações **de** modelo e clique em **Aprovar**.\
+1. Copie a tag RTP JavaScript e cole-a em todos os seus modelos de landing page entre as tags **`<head> </head>`**.
+1. Clique em **Salvar** e **Fechar** na janela.
+1. De volta ao **Design Studio**, aprove a landing page de **Ações de Modelo**, clique em **Aprovar**.\
    ![](assets/image2015-4-26-18-3a28-3a30.png)
 
-1. Por fim, será necessário **reaprovar** quaisquer landings page que usem esse modelo para que as alterações no modelo entrem em vigor. Você pode aprová-los novamente de uma só vez na seção Landings page principal.
+1. Por fim, você precisará **reaprovar** todas as landings page que usam esse modelo para que as alterações de modelo entrem em vigor. Você pode aprová-los novamente de uma só vez na seção Landings page principal.
 
    ![](assets/image2015-4-26-18-3a28-3a49.png)
 
-1. Verifique se ele aparece em todas as `pages including` landings page e subdomínios.
+1. Verifique se ele aparece em todas as landings page e subdomínios `pages including`.
 
-   Você pode fazer isso clicando com o botão direito do mouse na sua `website’s` página. Ir para Fonte de página de **Visualização.** Procure **RTP** para localizar a tag.
+   Você pode fazer isso clicando com o botão direito do mouse na sua página `website’s`. Vá para **Fonte de página de Visualização.** Procure  **** RTP para localizar a tag.
