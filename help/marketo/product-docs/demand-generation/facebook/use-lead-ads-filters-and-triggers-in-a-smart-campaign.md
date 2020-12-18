@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Usar Filtros e acionadores de propagandas em uma Campanha inteligente {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
+# Usar Filtros e acionadores de anúncios de venda em uma Campanha inteligente {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
 
 Ao ativar os Anúncios de venda do Facebook, você pode usá-los em suas campanhas inteligentes para ver o sucesso do programa. Quando as pessoas enviam suas informações em uma unidade de Anúncio principal do Facebook, as informações são enviadas para o Marketo imediatamente.
 
-1. Use o filtro ou acionador **Preencher formulário** de anúncios de venda.
+1. Use o filtro ou acionador **Preenche o formulário de anúncios de cliente potencial**.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 
