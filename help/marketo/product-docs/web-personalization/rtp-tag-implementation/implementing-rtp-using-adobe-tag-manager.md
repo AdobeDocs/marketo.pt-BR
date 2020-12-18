@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Implementação do RTP usando o Adobe Tag Manager {#implementing-rtp-using-adobe-tag-manager}
+# Implementação do RTP usando Adobe Tag Manager {#implementing-rtp-using-adobe-tag-manager}
 
 Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
 1. Faça logon na sua conta RTP.
-1. Vá para Configurações **da conta.**
+1. Vá para **Configurações da conta.**
 
    Se você já tiver recebido sua tag JavaScript do Suporte - continue com a etapa 4.
 
@@ -27,17 +27,17 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
 1. Faça logon em sua conta do Gerenciador dinâmico de tags ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
-1. Vá ao **Painel.** Clique na propriedade da Web relevante.
+1. Vá para **Painel.** Clique na propriedade da Web relevante.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Vá para **Regras,** clique em **Criar nova regra.**
+1. Vá para **Regras,** clique em **Criar Nova Regra.**
 
 1. Preencha o seguinte
 
-   1. Nome: **Marcador RTP**
-   1. Condições (recolher): Regra de acionador em - **Parte superior da página**
-   1. Javascript (recolher): clique em **Adicionar novo script**
+   1. Nome: **Marketo RTP**
+   1. Condições (recolher): Disparar regra em - **Parte superior da página**
+   1. Javascript (recolher): clique em **Adicionar Novo Script**
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
@@ -55,12 +55,12 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
    >
    >Certifique-se de remover todas as tags e deixar somente o próprio script (não `<script type='text/javascript'>` , `</script>` )
 
-1. Clique em **Salvar código** no editor de scripts e em **Salvar regra** no editor de regras.
+1. Clique em **Salvar código** no editor de scripts e **Salvar regra** no editor de regras.
 
-1. No painel Regras, localize a regra de carregamento da página RTP do Marketo e, na lista suspensa **Ações** , selecione **Ativar regras**.
+1. No painel Regras, localize a regra de carregamento da página RTP do Marketo e, na lista suspensa **Ações**, selecione **Ativar regras**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
 1. **Verifique** se ele aparece em todas as páginas, incluindo landings page e subdomínios.
 
-   Você pode fazer isso clicando com o botão direito do mouse nas páginas de seu site. Vá para Elemento **** Inspect, clique em **Rede, **Pesquisar: **RTP**.
+   Você pode fazer isso clicando com o botão direito do mouse nas páginas de seu site. Vá para **Elemento Inspect**, clique em **Rede, **Pesquisar: **RTP**.
