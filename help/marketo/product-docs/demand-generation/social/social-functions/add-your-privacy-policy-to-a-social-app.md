@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Adicionar sua política de privacidade a um aplicativo social {#add-your-privacy-policy-to-a-social-app}
 
-Ao criar um aplicativo [](http://docs.marketo.com/display/docs/social)social, você pode adicionar um link à política de privacidade da sua empresa.
+Ao criar um [aplicativo social](http://docs.marketo.com/display/docs/social), você pode adicionar um link à política de privacidade da sua empresa.
 
-1. Vá para **Marketing Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,7 +23,7 @@ Ao criar um aplicativo [](http://docs.marketo.com/display/docs/social)social, vo
 
    ![](assets/image2014-9-22-10-3a50-3a22.png)
 
-1. No editor de aplicativos sociais, acesse Configurações **do** aplicativo > Opções **** avançadas**.**
+1. No editor de aplicativos sociais, vá para **Configurações do aplicativo** > **Opções avançadas****.**
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
@@ -33,10 +33,10 @@ Ao criar um aplicativo [](http://docs.marketo.com/display/docs/social)social, vo
 
    >[!NOTE]
    >
-   >Nessa tela, você também pode adicionar um link às regras (termos e condições) da sua oferta. Consulte [Criar uma Oferta](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)de referência.
+   >Nessa tela, você também pode adicionar um link às regras (termos e condições) da sua oferta. Consulte [Criar uma Oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
 1. O link da política de privacidade (e o link de regras) será exibido na parte inferior das telas de mensagem de compartilhamento. Por exemplo:
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-Em seguida, você pode [configurar o fluxo](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) de inscrição social e compartilhamento do aplicativo.
+Em seguida, você pode [configurar o fluxo de inscrição social e compartilhamento](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) do aplicativo.
