@@ -21,23 +21,23 @@ ht-degree: 0%
 
 
 
-Um recurso muito interessante dos formulários do Marketing é que é possível ocultar/mostrar dinamicamente campos ou [conjuntos de campos](add-a-fieldset-to-a-form.md).
+Um recurso muito interessante dos formulários do Marketing é que você pode ocultar/mostrar dinamicamente campos de formulário ou [conjuntos de campos](add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
 >**Exemplo**
 >
->Neste exemplo, vamos ocultar o campo **Estado** , a menos que **País** esteja selecionado como &quot;Estados Unidos&quot;.
+>Neste exemplo, vamos ocultar o campo **State** a menos que **Country** esteja selecionado como &quot;Estados Unidos&quot;.
 
 1. Vá para **Marketing** **Atividade**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Selecione o formulário e clique em **Editar** **formulário**.
+1. Selecione o formulário e clique em **Editar** **Formulário**.
 
    ![](assets/editform-1.png)
 
-1. Selecione o campo que deseja ocultar/mostrar dinamicamente e clique no link para **Regras** de visibilidade ****.
+1. Selecione o campo que deseja ocultar/mostrar dinamicamente e clique no link para **Visibility** **Rules**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
