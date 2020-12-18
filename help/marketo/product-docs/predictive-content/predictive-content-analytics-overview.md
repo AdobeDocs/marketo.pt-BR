@@ -45,7 +45,7 @@ Clique no ícone de calendário para alterar as datas dos dados refletidos. Esco
 
 ![](assets/dates.png)
 
-## Conteúdo superior por Visualizações {#top-content-by-views}
+## Conteúdo superior por Visualização {#top-content-by-views}
 
 Exibe as partes principais do conteúdo por número de visualizações por intervalo de datas selecionado.
 
