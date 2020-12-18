@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# Testar os principais anúncios do Facebook para integração móvel com o Marketo {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
+# Teste os principais anúncios do Facebook para integração móvel com o Marketing {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
 
 Depois de criar seu Anúncio principal, você deve testá-lo!
 
 >[!PREREQUISITES]
 >
->Você deve [configurar a integração](set-up-facebook-lead-ads.md)de Anúncios de venda do Facebook.
+>Você deve [Configurar a Integração de Anúncios de Clientes Potenciais do Facebook](set-up-facebook-lead-ads.md).
 
 1. No Editor de energia do Facebook, selecione uma campanha, um anúncio e clique em **Editar**.
-1. Em **Links**, clique no link **Visualização no aplicativo** móvel.
+1. Em **Links**, clique no link **Visualização em aplicativo móvel**.
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
@@ -44,7 +44,7 @@ Depois de criar seu Anúncio principal, você deve testá-lo!
    >
    >Este é apenas um exemplo, que usa uma chamada Learn More Call to Action. A Chamada à Ação da sua Unidade de Anúncio Potencial pode ser diferente.
 
-1. É aqui que a magia acontece! Depois de enviar seu formulário, [crie uma lista inteligente no Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de um programa ou no banco de dados principal que usa o filtro **Preenchido Formulário** de Anúncios de venda do Facebook. Insira o Nome do formulário do anúncio principal do formulário que você acabou de enviar.
+1. É aqui que a magia acontece! Depois de enviar seu formulário, [crie uma lista inteligente no Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de um programa ou no banco de dados principal que usa o filtro **Anúncios de venda do Facebook preenchidos**. Insira o Nome do formulário do anúncio principal do formulário que você acabou de enviar.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
