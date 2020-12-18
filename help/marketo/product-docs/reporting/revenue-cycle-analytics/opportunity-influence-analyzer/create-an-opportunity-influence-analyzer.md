@@ -25,11 +25,11 @@ Use o Analisador de influência de oportunidade para mostrar a contribuição do
 
    ![](assets/analytics.png)
 
-1. Clique em Analisador de influência de **oportunidade**.
+1. Clique em **Analisador de influência de oportunidade**.
 
    ![](assets/two.png)
 
-1. Selecione a conta no painel **Configurações** .
+1. Selecione a conta no painel **Configurações**.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
@@ -41,7 +41,7 @@ Use o Analisador de influência de oportunidade para mostrar a contribuição do
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. Defina o período de tempo. Clique na guia **Configuração** e clique com o duplo em **Intervalo de tempo**.
+1. Defina o período de tempo. Clique na guia **Configuração** e clique no duplo **Período**.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
@@ -52,7 +52,7 @@ Use o Analisador de influência de oportunidade para mostrar a contribuição do
    >[!TIP]
    >
    >
-   >Na maioria dos casos, **All Time** é a escolha mais simples.
+   >Na maioria dos casos, **All Time** é a opção mais simples.
 
 1. Você está aí! Clique na guia principal para ver os momentos interessantes e os sucessos envolvidos na oportunidade.
 
@@ -60,7 +60,7 @@ Use o Analisador de influência de oportunidade para mostrar a contribuição do
 
 >[!TIP]
 >
->Você também pode assistir a um vídeo sobre o Opportunity Influence Analyzer na Universidade [de](https://learn.marketo.com)Marketo. (Parece um pouco diferente agora, mas ainda há muito a aprender!)
+>Você também pode assistir a um vídeo sobre o Opportunity Influence Analyzer na [Universidade de Marketing](https://learn.marketo.com). (Parece um pouco diferente agora, mas ainda há muito a aprender!)
 
 >[!MORELIKETHIS]
 >
@@ -75,5 +75,5 @@ Use o Analisador de influência de oportunidade para mostrar a contribuição do
 >
 >**Mergulho profundo**
 >
->Para outros analisadores, consulte Relatórios [básico](http://docs.marketo.com/display/docs/basic+reporting).
+>Para outros analisadores, consulte [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
 
