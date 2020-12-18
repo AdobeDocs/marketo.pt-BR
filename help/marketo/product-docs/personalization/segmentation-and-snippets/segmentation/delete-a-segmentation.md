@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Uma segmentação pode ser excluída seguindo as etapas abaixo.
 
-1. Vá para o **Banco de Dados**.
+1. Vá para **Banco de Dados**.
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
@@ -25,7 +25,7 @@ Uma segmentação pode ser excluída seguindo as etapas abaixo.
 
    Se a segmentação for usada por outros ativos, remova todas essas associações antes de continuar.
 
-1. Remova todas as associações e, em Ações **de** segmentação, clique em **Cancelar aprovação**.
+1. Remova todas as associações e, em **Ações de segmentação**, clique em **Cancelar aprovação**.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
