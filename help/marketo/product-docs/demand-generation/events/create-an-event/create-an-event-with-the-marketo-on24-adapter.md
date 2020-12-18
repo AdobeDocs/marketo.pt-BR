@@ -17,24 +17,24 @@ ht-degree: 0%
 
 Familiarize-se com os blocos componentes e a sequência recomendada para a criação de Eventos no Marketo. Você também deve ter conhecimento prático dos seguintes conceitos de marketing:
 
-* [Programas](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) de marketing e Eventos e diferenças entre eles
+* [Os ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) programas de marketing, bem como os Eventos, e as diferenças entre eles
 * [Canais](../../../../product-docs/administration/tags/create-a-program-channel.md)
 * [Ativos locais](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
-* [Status de Campanhas](https://docs.marketo.com/x/IRCa) secundárias e [Programas](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
+* [Campanhas secundárias ](https://docs.marketo.com/x/IRCa) e status  [do Programa](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
 
 >[!NOTE]
 >
->Consulte a documentação [da API de](http://developers.marketo.com/documentation/rest/) marketing para obter mais informações sobre as APIs de marketing.
+>Consulte a [documentação da API de marketing](http://developers.marketo.com/documentation/rest/) para obter mais informações sobre as APIs de marketing.
 
 ## Pré-requisitos {#prerequisites}
 
 Os seguintes itens são necessários para usar a integração com o Marketing ON24:
 
-* **Subscrição em webcasts** ON24 - Se você não tiver uma subscrição atual, entre em contato diretamente com a ON24. **NOTA**: ON24 Hosted Edition é necessário. Não é necessário o gerenciamento de Eventos ON24.
+* **Subscrição em webcasts**  ON24 - Se você não tiver uma subscrição atual, entre em contato diretamente com a ON24. **NOTA**: ON24 Hosted Edition é necessário. Não é necessário o gerenciamento de Eventos ON24.
 
-* **Direitos de administrador para ON24** - será necessário usar esse conector e criar convidados no sistema ON24.
-* **Credenciais** de conexão ON24 - É necessário inserir essas informações no Marketo para habilitar a integração: Nome de usuário, Senha, ID do cliente e Chave do cliente. Entre em contato com seu gerente de conta ON24 ou com o suporte ON24 se precisar de ajuda com suas credenciais.
-* **Formulário** de registro - use um formulário Marketo ou não Marketo junto com a API adequada para garantir que os dados de registro e as informações do registrante sejam passados para o Marketo.
+* **Direitos de administrador para ON24**  - será necessário usar esse conector e criar convidados no sistema ON24.
+* **Credenciais**  de conexão ON24 - É necessário inserir essas informações no Marketo para habilitar a integração: Nome de usuário, Senha, ID do cliente e Chave do cliente. Entre em contato com seu gerente de conta ON24 ou com o suporte ON24 se precisar de ajuda com suas credenciais.
+* **Formulário**  de registro - Use um formulário Marketo ou um formulário não Marketo junto com a API adequada para garantir que os dados de registro e as informações do registrante sejam passados para o Marketo.
 * **campanha filho de inscrição - **Uma campanha filho de inscrição em seu Evento de marketing deve ser criada e configurada corretamente para que a integração do Parceiro de Eventos funcione.
 
 ## Fluxo de Processo {#process-flow}
