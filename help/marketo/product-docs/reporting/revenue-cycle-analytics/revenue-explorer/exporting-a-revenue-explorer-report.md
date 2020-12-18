@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Exportar um relatório do Explorador de Receita {#exporting-a-revenue-explorer-report}
+# Exportar um Relatório do Explorador de Receitas {#exporting-a-revenue-explorer-report}
 
 Você pode exportar qualquer relatório do explorador de receita e compartilhá-lo com qualquer pessoa.
 
@@ -30,7 +30,7 @@ Você pode exportar qualquer relatório do explorador de receita e compartilhá-
    >    * CSV
 
 
-1. Selecione o Formato **e a** orientação **da** página desejados e clique em **Exportar**.
+1. Selecione as **Formato de página** e **Orientação** desejadas e clique em **Exportar**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
