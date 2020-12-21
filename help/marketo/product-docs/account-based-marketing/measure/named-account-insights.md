@@ -3,9 +3,9 @@ unique-page-id: 11380785
 description: Insights Nomeados de Conta - Documentos do Marketing - Documentação do Produto
 title: Insights de conta nomeados
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ O Painel Conta nomeada fornece uma visualização de 360 graus de uma conta de p
 
 ## Painel {#dashboard}
 
-As agregações do painel têm informações importantes em nível de conta de todas as pessoas em uma conta nomeada, evitando assim a necessidade de ir a cada pessoa para avaliar seu progresso. Você pode detalhar a atividade de email usando [Insights de email](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing).
+As agregações do painel têm informações importantes em nível de conta de todas as pessoas em uma conta nomeada, evitando assim a necessidade de ir a cada pessoa para avaliar seu progresso. Você pode detalhar a atividade de email usando [Insights de email](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
@@ -52,13 +52,13 @@ As agregações do painel têm informações importantes em nível de conta de t
 
 **Momentos interessantes**
 
-Disponível para usuários de [Marketing to Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), veja os momentos interessantes acumulados em um nível de conta.
+Disponível para usuários do Marketing Insight de Vendas, veja os momentos interessantes acumulados em um nível de conta.
 
 ![](assets/int-mom.png)
 
 **Principais pessoas**
 
-Essas pessoas são calculadas com base em prioridades que são baseadas na recenticidade ou urgência mostradas por pessoas de contas nomeadas (o mesmo que [Melhores Propostas](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) no Sales Insight) ou Pontuações definidas pelo usuário. **A** prioridade está disponível somente para usuários do Marketing Insight de Vendas.
+Essas pessoas são calculadas com base em prioridades que são baseadas na recenticidade ou urgência mostradas por pessoas de contas nomeadas (o mesmo que [Melhores Propostas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) no Sales Insight) ou Pontuações definidas pelo usuário. **A** prioridade está disponível somente para usuários do Marketing Insight de Vendas.
 
 ![](assets/top-ten.png)
 
@@ -112,7 +112,6 @@ Visualização de membros da equipe de conta, adicione/remova membros e até mes
 
 ## Indicadores ICP {#icp-indicators}
 
-Visualização os Indicadores ICP que você selecionou para exportar quando [ajustou seu modelo](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning).
+Visualização os Indicadores ICP que você selecionou para exportar quando [ajustou seu modelo](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)
-
