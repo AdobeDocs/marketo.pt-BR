@@ -3,9 +3,9 @@ unique-page-id: 13795510
 description: Hierarquias ABM - Documentos de marketing - Documentação do produto
 title: Hierarquias ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,6 @@ Usando hierarquia
 >
 >A interface do Marketo só mostrará até 10 níveis abaixo (contas-filho e netas da conta-pai), no entanto, não há limite para o número de contas-filho que você pode criar.
 
-Público alvo e relatório de hierarquias inteiras com [um clique](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
+Público alvo e relatório de hierarquias inteiras com [um clique](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)
-
