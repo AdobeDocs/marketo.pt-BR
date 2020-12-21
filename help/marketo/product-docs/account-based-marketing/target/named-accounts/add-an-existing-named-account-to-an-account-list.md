@@ -3,7 +3,7 @@ unique-page-id: 12615798
 description: Adicionar uma conta nomeada existente a uma Lista de conta - Documentos do Marketing - Documentação do produto
 title: Adicionar uma conta nomeada existente a uma Lista de conta
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -35,9 +35,4 @@ Adicionar uma conta nomeada a uma lista de conta é simples.
 
 >[!MORELIKETHIS]
 >
->* [Criar uma conta nomeada](create-a-named-account.md)
-
->
-
-
-
+>[Criar uma conta nomeada](/help/marketo/product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
