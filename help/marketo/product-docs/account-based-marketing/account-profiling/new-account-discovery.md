@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Nova descoberta de conta - Documentos do Marketing - Documentação do produto
 title: Nova descoberta de conta
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ A Nova Detecção de Conta pode ajudá-lo a encontrar novas contas para o públi
 
 >[!PREREQUISITES]
 >
->[Configurar o perfil da conta](http://docs.marketo.com/x/FgAKAQ)
+>[Configurar o perfil da conta](/help/marketo/product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
@@ -73,5 +73,4 @@ A Nova Detecção de Conta pode ajudá-lo a encontrar novas contas para o públi
 
    >[!TIP]
    >
-   >Depois que suas contas forem salvas, você poderá usar uma audiência [correspondente no LinkedIn](http://docs.marketo.com/x/rYGZAQ) para público alvo-las.
-
+   >Depois que suas contas forem salvas, você poderá usar uma audiência [correspondente no LinkedIn](/help/marketo/product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md) para público alvo-las.
