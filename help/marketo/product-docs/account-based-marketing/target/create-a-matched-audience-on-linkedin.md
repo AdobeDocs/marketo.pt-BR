@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: Criar uma Audiência correspondente no LinkedIn - Documentos do Marketing - Documentação do produto
 title: Criar uma Audiência correspondente no LinkedIn
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Crie audiências correspondentes de suas Listas de conta ABM para direcionamento
 
 >[!PREREQUISITES]
 >
->[Adicionar Audiências Correspondentes do LinkedIn como um Serviço do LaunchPoint](http://docs.marketo.com/x/I4Fy)
+>[Adicionar Audiências Correspondentes do LinkedIn como um Serviço do LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. No ABM, clique na guia **Listas de conta**.
 
@@ -49,13 +49,6 @@ Crie audiências correspondentes de suas Listas de conta ABM para direcionamento
 
    E é isso. Sua audiência foi empurrada para o LinkedIn.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artigos relacionados**
->
->* [Usar uma Lista de marketing ou uma Lista inteligente como um segmento de Audiência do LinkedIn](http://docs.marketo.com/x/NIFy)
-
->
-
-
-
+>[Usar uma Lista de marketing ou uma Lista inteligente como um segmento de Audiência do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
