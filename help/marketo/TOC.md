@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: Guia de marketing
 user-guide-description: Documentação do produto do Marketing to
 translation-type: tm+mt
-source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
+source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -68,7 +68,7 @@ ht-degree: 0%
             + [Filtragem em contas nomeadas](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
             + [Excluir uma conta nomeada](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
             + [Hierarquias ABM](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [Criar uma hierarquia](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
+            + [Criar uma hierarquia](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
          + [Listas de conta](product-docs/account-based-marketing/target/account-lists.md)
          + [Criar uma Audiência correspondente no LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
       + Mobilizar {#engage}
@@ -781,7 +781,7 @@ ht-degree: 0%
                + [Modelo 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modelo 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modelo 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modelo 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modelo 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1624,7 +1624,7 @@ ht-degree: 0%
          + [Adicionar um URL de Público alvo a uma Campanha da Web](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
          + [Arquivar uma Campanha da Web](product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)
          + [Clonar uma Campanha da Web](product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
-         + [Criar uma nova Campanha da Web de diálogo](product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+         + [Criar uma nova Campanha da Web de caixa de diálogo](product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
          + [Criar uma nova Campanha da Web na zona](product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
          + [Criar uma nova Campanha Web de widget](product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
          + [Definir uma Lista inteligente para Atividades de personalização da Web](product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
