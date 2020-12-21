@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: Insights da Lista da conta - Documentos do Marketing - Documentação do produto
 title: Insights da Lista da conta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -57,4 +57,3 @@ Clique na guia **Contas nomeadas** para ver quais contas nomeadas pertencem a es
 Clique na guia **Usado por** para ver quais ativos estão fazendo referência a essa Lista de Conta.
 
 ![](assets/four-2.png)
-
