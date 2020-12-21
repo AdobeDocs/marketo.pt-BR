@@ -3,9 +3,9 @@ unique-page-id: 11381917
 description: Visão geral de marketing baseado em conta - Documentos do marketing - Documentação do produto
 title: Visão geral de marketing baseado em conta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ O Marketo unifica o ABM e o gerenciamento de lead em uma solução, facilitando 
 
 A Marketing ABM consiste em três componentes:
 
-**1)  [Público alvo](http://docs.marketo.com/display/docs/target)**
+**1) Público alvo**
 
 * Detecção de conta
 * Correspondência cliente a conta
 * Listas de conta nomeada
 
-**2)  [Mobilizar](http://docs.marketo.com/display/docs/engage)**
+**2) Mobilizar**
 
 * Personalização baseada em conta
 * Envolvimento entre Canais
 * Workflows específicos da conta
 
-**3)  [Medida](http://docs.marketo.com/display/docs/measure)**
+**3) Medida**
 
 * Insights de conta e nível de Lista
 * Pontuação de envolvimento da conta
@@ -47,18 +47,18 @@ A Marketing ABM consiste em três componentes:
 
 O Marketing baseado em conta de marketing também oferta várias ferramentas para personalizar a experiência de conta nomeada entre canais.
 
-* E-mail e Landing page [Personalização](http://docs.marketo.com/display/DOCS/Personalization)
-* Web [Personalização](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* URL [Personalização](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* Ad [Personalização](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [](http://docs.marketo.com/display/DOCS/Website+Retargeting) PersonalizedRemarketing
+* Personalização de email e Landing page
+* Personalização da Web
+* URL [Personalização](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* Ad [Personalização](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) PersonalizedRemarketing
 
 Estou dentro! Como começar?
 
-Nós pensamos que você nunca perguntaria! O ABM está disponível como um complemento para sua subscrição de marketing, portanto entre em contato com seu representante de vendas para que ele seja implementado. Depois de tê-lo, dê uma olhada neste artigo: [Introdução ao ABM](getting-started-with-abm.md).
+Nós pensamos que você nunca perguntaria! O ABM está disponível como um complemento para sua subscrição de marketing, portanto entre em contato com seu representante de vendas para que ele seja implementado. Depois de tê-lo, dê uma olhada neste artigo: [Introdução ao ABM](/help/marketo/product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md).
 
 >[!NOTE]
 >
->Contas nomeadas gerenciadas no ABM de marketing podem ser acessadas diretamente do Web ABM para necessidades de personalização da Web. Saiba mais [aqui](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM).
+>Contas nomeadas gerenciadas no ABM de marketing podem ser acessadas diretamente do Web ABM para necessidades de personalização da Web. Saiba mais [aqui](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md).
 
 Bem-vindo ao Marketing ABM e aproveite o marketing direcionado!
