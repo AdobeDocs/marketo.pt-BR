@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: Configuração da equipe de conta - Documentos do Marketo - Documentação do produto
 title: Configuração da equipe da conta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,6 @@ Uma equipe de conta é um grupo de participantes que trabalham juntos em uma con
 
    >[!NOTE]
    >
-   >**Explicação**
+   >Quando várias contas CRM com diferentes proprietários de conta forem mescladas em uma conta nomeada, o Marketo escolherá um &quot;Proprietário da conta&quot; e adicionará outros proprietários de conta como &quot;Coproprietários da conta&quot;
    >
-   >    
-   >    
-   >    * Quando várias contas CRM com diferentes proprietários de conta forem mescladas em uma conta nomeada, o Marketo escolherá um &quot;Proprietário da conta&quot; e adicionará outros proprietários de conta como &quot;Coproprietários da conta&quot;
-   >    * Se um campo &quot;Função&quot; do CRM for renomeado ou excluído posteriormente, o ABM do Marketo parará de sincronizar os valores atualizados até que o usuário atualize manualmente a configuração no ABM
-
-
+   >Se um campo &quot;Função&quot; do CRM for renomeado ou excluído posteriormente, o ABM do Marketo parará de sincronizar os valores atualizados até que o usuário atualize manualmente a configuração no ABM
