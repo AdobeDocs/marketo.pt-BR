@@ -3,7 +3,7 @@ unique-page-id: 12615802
 description: Excluir uma conta nomeada - Documentos do Marketing - Documentação do produto
 title: Excluir uma conta nomeada
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Siga estas etapas rápidas para excluir uma conta nomeada.
    >[!NOTE]
    >
    >As contas que foram sincronizadas com seu CRM não podem ser excluídas no ABM. Se a opção de exclusão não estiver disponível, ou se você receber uma mensagem &quot;Essas contas não podem ser excluídas porque uma ou mais contas CRM estão selecionadas&quot;, elas deverão ser excluídas diretamente no CRM.
-
