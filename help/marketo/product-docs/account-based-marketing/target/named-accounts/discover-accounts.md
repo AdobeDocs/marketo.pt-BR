@@ -3,9 +3,9 @@ unique-page-id: 11378812
 description: Contas do Discover - Documentos do Marketing - Documentação do produto
 title: Contas do Discover
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,11 @@ Identifique possíveis contas de público alvo do seu CRM.
 >
 >Depois de conectar seu CRM ao Marketing ABM, **Discover CRM Accounts** mostrará todas as contas CRM e informações relevantes para ajudá-lo a escolher as contas nomeadas certas. O Marketo adiciona informações adicionais sobre o que foi recebido do CRM.
 
-**Pessoas**  (nas Empresas do Discover CRM e do Discover Marketing): Inclui Contatos e Clientes potenciais. Os clientes em potencial podem ser descobertos usando a [correspondência de cliente a conta do Marketo](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching). **Pessoas**  em potencial (nas Empresas do Discover CRM e do Discover Marketing): Mostra quantos clientes em potencial o Marketo encontrou que poderiam pertencer a uma conta do CRM.
+**Pessoas**  (nas Empresas do Discover CRM e do Discover Marketing): Inclui Contatos e Clientes potenciais. Os clientes em potencial podem ser descobertos usando a [correspondência de cliente a conta do Marketo](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md).
 
-**Campo**  CRM personalizado (somente em contas CRM do Discover): Isso o ajudará a alinhar sua organização de vendas e marketing para selecionar as contas de público alvo corretas. Depois que você [mapear o campo CRM personalizado](http://docs.marketo.com/x/1wnG) com o Marketo ABM, mostraremos os dados mapeados para ajudá-lo a identificar suas contas de públicos alvos.
+**Pessoas**  em potencial (nas Empresas do Discover CRM e do Discover Marketing): Mostra quantos clientes em potencial o Marketo encontrou que poderiam pertencer a uma conta do CRM.
+
+**Campo**  CRM personalizado (somente em contas CRM do Discover): Isso o ajudará a alinhar sua organização de vendas e marketing para selecionar as contas de público alvo corretas. Depois que você [mapear o campo CRM personalizado](/help/marketo/product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md) com o Marketo ABM, mostraremos os dados mapeados para ajudá-lo a identificar suas contas de públicos alvos.
 
 1. Em Contas nomeadas, clique no menu suspenso **Novo** e selecione **Discover CRM Accounts**.
 
@@ -63,17 +65,17 @@ Identifique as empresas certas para definição de metas.
    >
    >No Discover Marketing Empresa e no Discover CRM, o Marketing deve ser feito automaticamente:
    >
-   > * Encontra pessoas do banco de dados do Marketo que têm essa empresa listada em seus registros. Se você vir vários valores para alguns dos atributos (por exemplo, Indústria), é porque o Marketo encontrou valores diferentes listados para essas pessoas individuais. O atributo com mais ocorrências vence
+   >* Encontra pessoas do banco de dados do Marketo que têm essa empresa listada em seus registros. Se você vir vários valores para alguns dos atributos (por exemplo, Indústria), é porque o Marketo encontrou valores diferentes listados para essas pessoas individuais. O atributo com mais ocorrências vence
    >
    >Somente em **Discover CRM**, Marketo automaticamente:
    >
-   > * Sincroniza e associa Contatos CRM à Conta Nomeada
+   >* Sincroniza e associa Contatos CRM à Conta Nomeada
    >
    >Somente em **Discover Marketing Empresa**, Marketo automaticamente:
    >
-   > * Filtros a maioria dos Provedores de serviço da Internet e domínios públicos (por exemplo, [Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com)) como nomes de empresa
+   >* Filtros a maioria dos Provedores de serviço da Internet e domínios públicos (por exemplo, yahoo.com, gmail.com) como nomes de empresas
       >
-      > 
+      >
    * Deduz contas CRM. Se você tiver &quot;Acme&quot; em um registro e &quot;Acme Inc&quot; (ou qualquer um dos seguintes sufixos: Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), vamos fundi-los no ABM como apenas &quot;Acme&quot;
    >
    >Se você deseja que o Marketo reduza as contas por ID CRM ou Proprietário da conta em vez de por Nome da Empresa, entre em contato com [Suporte do Marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
@@ -116,5 +118,4 @@ Identifique as empresas certas para definição de metas.
 
 >[!MORELIKETHIS]
 >
->* [Correspondência de cliente potencial para conta](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-
+>[Correspondência de cliente potencial para conta](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
