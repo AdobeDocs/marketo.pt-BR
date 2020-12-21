@@ -3,7 +3,7 @@ unique-page-id: 12615804
 description: Filtragem em contas nomeadas - Documentos do Marketing - Documentação do produto
 title: Filtragem em contas nomeadas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -25,7 +25,7 @@ A filtragem é uma excelente maneira de restringir rapidamente os dados.
 
    >[!NOTE]
    >
-   >Há várias combinações de parâmetros de pesquisa. Neste exemplo, localizamos: *Indústria = Bancária, País = Estados Unidos, Máximo de Funcionários = 10000*.
+   >Há várias combinações de parâmetros de pesquisa. Neste exemplo, localizamos: _Indústria = Bancária, País = Estados Unidos, Máximo de Funcionários = 10000_.
 
 1. Clique no menu suspenso **Industry** e selecione **Banking**.
 
@@ -44,4 +44,3 @@ A filtragem é uma excelente maneira de restringir rapidamente os dados.
    >[!NOTE]
    >
    >Para adicionar mais filtros para escolher, clique em **Adicionar filtro** na parte inferior esquerda do formulário.
-
