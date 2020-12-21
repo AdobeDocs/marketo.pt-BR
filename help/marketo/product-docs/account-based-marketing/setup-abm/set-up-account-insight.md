@@ -3,9 +3,9 @@ unique-page-id: 12979223
 description: Configurar o Insight da conta - Documentos do Marketing - Documentação do produto
 title: Configurar insight da conta
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Veja como configurar o Insight da conta.
 
 >[!PREREQUISITES]
 >
->A pontuação da conta ABM [deve ser configurada](http://docs.marketo.com/display/DOCS/Account+Score) primeiro.
+>A pontuação da conta ABM [deve ser configurada](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md) primeiro.
 
 1. Clique em **Admin**.
 
@@ -37,9 +37,8 @@ Veja como configurar o Insight da conta.
 
    >[!NOTE]
    >
-   >Se [Configurações de Pontuação de Conta](http://docs.marketo.com/display/DOCS/Account+Score) forem atualizadas a qualquer momento, a configuração em Vendas ABM precisa ser atualizada por um Administrador para garantir que as pontuações reflitam com precisão as preferências do usuário. O usuário precisa fazer logout e login novamente para ver as alterações.
+   >Se [Configurações de Pontuação de Conta](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md) forem atualizadas a qualquer momento, a configuração em Vendas ABM precisa ser atualizada por um Administrador para garantir que as pontuações reflitam com precisão as preferências do usuário. O usuário precisa fazer logout e login novamente para ver as alterações.
 
 1. Clique em **Salvar**.
 
    ![](assets/five-4.png)
-
