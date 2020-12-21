@@ -3,7 +3,7 @@ unique-page-id: 12980105
 description: Convidar usuários para acessar o insight da conta - Documentos do Marketing - Documentação do produto
 title: Convidar usuários para acessar o insight da conta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -52,4 +52,3 @@ Siga estas etapas para fornecer aos usuários acesso ao Account Insight.
 1. Examine a mensagem de envio, faça as alterações desejadas (opcional) e clique em **Enviar**.
 
    ![](assets/seven-2.png)
-
