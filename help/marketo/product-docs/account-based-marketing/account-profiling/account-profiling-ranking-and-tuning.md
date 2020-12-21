@@ -3,9 +3,9 @@ unique-page-id: 15695924
 description: Classificação e ajuste do perfil da conta - Documentos do Marketing - Documentação do produto
 title: Classificação e Ajuste da Definição de Perfil da Conta
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Os resultados mostram todas as suas contas conhecidas divididas por grau. A é a
 
 ![](assets/results.png)
 
-Embora opcional, recomendamos selecionar a caixa de seleção Promover automaticamente, pois isso economizará muito tempo. Entretanto, se você quiser percorrer cada conta e [adicioná-las manualmente](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts), deixe a caixa desmarcada.
+Embora opcional, recomendamos selecionar a caixa de seleção Promover automaticamente, pois isso economizará muito tempo. Entretanto, se você quiser percorrer cada conta e [adicioná-las manualmente](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md#discover-crm-accounts), deixe a caixa desmarcada.
 
 <table> 
  <tbody> 
@@ -66,20 +66,89 @@ Há várias guias para escolher, permitindo personalização detalhada.
 
 ![](assets/tuning-page.png)
 
-Categorias do indicador
+**Categorias do indicador**
 
-| **Conformidade** | Certificações, posições de conformidade/contratação. |
-|---|---|
-| **Operações** | Posições/contratação relacionadas com operações. |
-| **HR** | Software de RH ou Folha de Pagamento, posições/contratação relacionadas a RH. |
-| **Engenharia** | Tecnologias, quadros, posições relacionadas com engenharia/contratação. |
-| **Vendas** | Soluções e software para vendas, posições relacionadas a vendas/contratação. |
-| **Propósito** | Indicadores de intenção. |
-| **IT** | Soluções de hardware e software, tecnologias, posições/contratações relacionadas à TI. |
-| **Finanças** | Software financeiro, posições financeiras/contratação. |
-| **Marketing** | Tecnologias de marketing e software, posições relacionadas ao marketing/contratação. |
-| **Negócios** | Listas da Forbes ou Inc ou parcerias comerciais. |
-| **Experiência do cliente e relações** | Sucesso do cliente e posições/contratação de relações com o cliente. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Conformidade</strong></td> 
+   <td> 
+    <div>
+      Certificações, posições de conformidade/contratação. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Operações</strong></td> 
+   <td> 
+    <div>
+      Posições/contratação relacionadas com operações. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>HR</strong></td> 
+   <td> 
+    <div>
+      Software de RH ou Folha de Pagamento, posições/contratação relacionadas a RH.
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Engenharia</strong></td> 
+   <td> 
+    <div>
+      Tecnologias, quadros, posições relacionadas com engenharia/contratação. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Vendas</strong></td> 
+   <td> 
+    <div>
+      Soluções e software para vendas, posições relacionadas a vendas/contratação. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Propósito</strong></td> 
+   <td> 
+    <div>
+      Indicadores de intenção. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>IT</strong></td> 
+   <td> 
+    <div>
+      Soluções de hardware e software, tecnologias, posições/contratações relacionadas à TI.
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Finanças</strong></td> 
+   <td> 
+    <div>
+      Software financeiro, posições financeiras/contratação. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketing</strong></td> 
+   <td> 
+    <div>
+      Tecnologias de marketing e software, posições relacionadas ao marketing/contratação. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Negócios</strong></td> 
+   <td> 
+    <div>
+      Listas da Forbes ou Inc ou parcerias comerciais. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Experiência do cliente e relações</strong></td> 
+   <td> 
+    <div>
+      Sucesso do cliente e posições/contratação de relações com o cliente.
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
 
 Passe o mouse sobre as dicas de ferramenta para obter uma descrição de cada coluna.
 
@@ -89,7 +158,7 @@ Clique no menu suspenso Adicionar indicador ICP para inserir outros indicadores 
 
 ![](assets/add-icp.png)
 
-Marcar a caixa Exportar permite que você veja o indicador ICP na página Detalhes da conta nomeada, bem como usar o indicador ICP selecionado como restrições em [filtros de conta nomeados](http://docs.marketo.com/display/DOCS/Account+Filters).
+Marcar a caixa Exportar permite que você veja o indicador ICP na página Detalhes da conta nomeada, bem como usar o indicador ICP selecionado como restrições em [filtros de conta nomeados](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md).
 
 ![](assets/export.png)
 
@@ -108,4 +177,3 @@ Clique em Atualizar modelo para que essas alterações entrem em vigor.
 Quando terminar de ajustar seu modelo (depois de atualizá-lo), volte para a guia Resultados do modelo e clique em **Salvar e aplicar fileiras**.
 
 ![](assets/ranks.png)
-
