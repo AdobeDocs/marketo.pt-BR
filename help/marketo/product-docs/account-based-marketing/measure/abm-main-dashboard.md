@@ -3,9 +3,9 @@ unique-page-id: 11380783
 description: PAINEL principal do ABM - Documentos do Marketing - Documentação do produto
 title: PAINEL principal ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Para filtrar por lista de conta, clique no menu suspenso Visualização...
 
 ![](assets/three.png)
 
-Para visualização do [Painel de Lista de conta](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard), clique no nome da lista de conta selecionada...
+Para visualização do [Painel de Lista de conta](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md#account-list-dashboard), clique no nome da lista de conta selecionada...
 
 ![](assets/four.png)
 
@@ -37,7 +37,6 @@ Se, em vez de exibir o Painel Lista Conta que deseja detalhar em uma conta nomea
 
 ![](assets/six.png)
 
-...e visualização os [insights da conta nomeada](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
+...e visualização os [insights da conta nomeada](/help/marketo/product-docs/account-based-marketing/measure/named-account-insights.md).
 
 ![](assets/seven.png)
-
