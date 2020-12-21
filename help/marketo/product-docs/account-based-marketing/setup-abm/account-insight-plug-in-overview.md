@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: Visão geral do plug-in Account Insight - Documentos do Marketing - Documentação do produto
 title: Visão geral do plug-in Account Insight
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,13 @@ ht-degree: 0%
 
 O Account Insight é um plug-in do Chrome que apresenta informações acionáveis do ABM e de conta para suas equipes de vendas, permitindo que elas participem de contas com mais eficiência.
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >O Insight da conta é incluído para todos os clientes que possuem ABM e Marketing Insight de vendas. Para clientes que têm apenas ABM, o Account Insight está disponível como um complemento adquirido. Cada cliente está limitado a 250 licenças de Insight de conta. Entre em contato com seu representante de vendas para obter detalhes. Não está disponível para clientes que não têm ABM.
 
 >[!CAUTION]
 >
->O plug-in Insight da conta não funcionará em subscrições com [SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (logon único) ativado.
+>O plug-in Insight da conta não funcionará em subscrições com [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (logon único) ativado.
 >
 >O contexto do CRM funciona para o Salesforce ao iniciar o plug-in de uma conta, cliente potencial ou contato. O contexto do CRM não funcionará para o Dynamics ao iniciar o plug-in a partir de uma conta, cliente potencial ou contato. Para usuários do Dynamics, recomendamos usar o plug-in Account Insight.
 
@@ -71,7 +69,8 @@ O feed da atividade mostra a atividade recente, voltando sete dias atrás.
 
 ![](assets/af1.png)
 
-Clique no menu suspenso **Filter** para filtrar por tipos de atividade diferentes.\
+Clique no menu suspenso **Filter** para filtrar por tipos de atividade diferentes.
+
 ![](assets/af2.png)
 
 Vários itens podem ser clicados. Clique na conta nomeada para ver seus detalhes. Clique no nome do usuário para ver sua atividade. Clique em Mais Atividades para ver, bem, mais atividades.
@@ -82,9 +81,4 @@ Coisa muito legal!
 
 >[!MORELIKETHIS]
 >
->* [Configurar insight da conta](set-up-account-insight.md)
-
->
-
-
-
+>[Configurar insight da conta](/help/marketo/product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
