@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: Guia de marketing
 user-guide-description: Documentação do produto do Marketing to
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -71,21 +71,21 @@ ht-degree: 0%
             + [Criar uma hierarquia](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
          + [Listas de conta](product-docs/account-based-marketing/target/account-lists.md)
          + [Criar uma Audiência correspondente no LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+      + Mobilizar {#engage}
+         + [Filtros de conta](product-docs/account-based-marketing/engage/account-filters.md)
+         + [Acionadores de conta](product-docs/account-based-marketing/engage/account-triggers.md)
+      + Medida {#measure}
+         + [PAINEL principal ABM](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
+         + [Configuração de relatório ABM](product-docs/account-based-marketing/measure/abm-report-setup.md)
+         + [Relatório de Vendas ABM](product-docs/account-based-marketing/measure/abm-sales-report.md)
+         + [Insights da Lista da conta](product-docs/account-based-marketing/measure/account-list-insights.md)
+         + [Dimension de conta nomeada em RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
+         + [Insights de conta nomeados](product-docs/account-based-marketing/measure/named-account-insights.md)
+         + [Usando personas](product-docs/account-based-marketing/using-personas.md)
    + Definição de perfil da conta {#account-profiling}
       + [Configuração de perfil de conta](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
       + [Classificação e Ajuste da Definição de Perfil da Conta](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
       + [Nova descoberta de conta](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
-   + Mobilizar {#engage}
-      + [Filtros de conta](product-docs/account-based-marketing/engage/account-filters.md)
-      + [Acionadores de conta](product-docs/account-based-marketing/engage/account-triggers.md)
-   + Medida {#measure}
-      + [PAINEL principal ABM](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-      + [Configuração de relatório ABM](product-docs/account-based-marketing/measure/abm-report-setup.md)
-      + [Relatório de Vendas ABM](product-docs/account-based-marketing/measure/abm-sales-report.md)
-      + [Insights da Lista da conta](product-docs/account-based-marketing/measure/account-list-insights.md)
-      + [Dimension de conta nomeada em RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-      + [Insights de conta nomeados](product-docs/account-based-marketing/measure/named-account-insights.md)
-      + [Usando personas](product-docs/account-based-marketing/using-personas.md)
    + Aplicativos adicionais {#additional-apps}
       + SEO {#seo}
          + Noções básicas sobre SEO {#understanding-seo}
@@ -783,7 +783,7 @@ ht-degree: 0%
                + [Modelo 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modelo 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modelo 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modelo 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modelo 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1624,7 +1624,7 @@ ht-degree: 0%
          + [Adicionar um URL de Público alvo a uma Campanha da Web](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
          + [Arquivar uma Campanha da Web](product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)
          + [Clonar uma Campanha da Web](product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
-         + [Criar uma nova Campanha da Web de caixa de diálogo](product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+         + [Criar uma nova Campanha da Web de diálogo](product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
          + [Criar uma nova Campanha da Web na zona](product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
          + [Criar uma nova Campanha Web de widget](product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
          + [Definir uma Lista inteligente para Atividades de personalização da Web](product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
