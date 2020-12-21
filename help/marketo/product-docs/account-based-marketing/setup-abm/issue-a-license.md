@@ -3,9 +3,9 @@ unique-page-id: 11380771
 description: Emita uma licença - Documentos do Marketing - Documentação do produto
 title: Emitir uma licença
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,4 @@ Você precisará configurar os usuários com uma licença para usar o ABM. Aqui 
 
    >[!NOTE]
    >
-   >Para remover uma licença de usuário, siga a etapa 1, em seguida *un* marque a caixa de seleção e clique em **Salvar**.
-
+   >Para remover uma licença de usuário, siga a etapa 1, desmarque a caixa de seleção e clique em **Salvar**.
