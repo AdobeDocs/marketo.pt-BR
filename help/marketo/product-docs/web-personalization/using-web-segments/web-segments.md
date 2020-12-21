@@ -90,13 +90,13 @@ Na página **Segmentos**, clique em **Criar novo** no gráfico. A tela a seguir 
 
 Defina parâmetros gerais para o seu segmento:
 
-1. 
+1. &#x200B;
 
-   * **Nome:**  nomeie seu segmento.
-   * **Descrição:**  forneça uma explicação mais detalhada dos critérios de segmento.
-   * **Domínios:**  selecione os domínios que deseja incluir no segmento.
-   * **Lógica da regra de segmento:**  selecione uma lógica E/OU para criar cada atributo de segmentação
-   * **Tempo:** Defina o nível de envolvimento do visitante desejado em sua campanha
+   * **Nome:**  Dê um nome ao seu segmento.
+   * **Descrição:**  Forneça uma explicação mais detalhada dos critérios de segmento.
+   * **Domínios:**  Selecione os domínios que deseja incluir no segmento.
+   * **Lógica da regra de segmento:**  Selecione uma lógica E/OU para criar cada atributo de segmentação
+   * **Tempo:** Defina o nível de envolvimento do visitante desejado na campanha
 
       * **Na Entrada**: Participe da chegada do visitante ao site
       * **Após o 1º a 9º clique**: Envolva o visitante após uma quantidade específica de cliques no site
@@ -109,24 +109,22 @@ Defina parâmetros gerais para o seu segmento:
 >
 >1. Usar todos os Filtros (1 e 2 e 3...)
 >1. Usar quaisquer Filtros (1 ou 2 ou 3...)
->1. Filtros avançados (usando e/ou expressão) >
-   >    1. >    
-   >       
-
-      >Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.  >
-      >        * 1 e 2 e 3
-      >        * 1 ou 2 ou 3
-
-      >
-      Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:  >
-      * 1 e (2 ou 3)
-      * (1 e 2) ou 3
-
-      Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.  >
-      * (1 e 2) ou (3 e 4)
-      * 1 e 2 ou 3 e 4)
-
-      Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
+>1. Filtros avançados (usando e/ou expressão)
+>    1. &#x200B;
+>
+>       Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.
+>       * 1 e 2 e 3
+>       * 1 ou 2 ou 3
+>
+>       Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:
+>       * 1 e (2 ou 3)
+>       * (1 e 2) ou 3
+>
+>       Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.
+>       * (1 e 2) ou (3 e 4)
+>       * 1 e 2 ou 3 e 4)
+>
+>       Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
 
 
 
