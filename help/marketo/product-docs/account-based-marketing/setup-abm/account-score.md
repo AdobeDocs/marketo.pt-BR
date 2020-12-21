@@ -3,9 +3,9 @@ unique-page-id: 11380774
 description: Pontuação da conta - Documentos do marketing - Documentação do produto
 title: Pontuação da conta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ No mundo complexo dos processos de compra B2B, é raro que um único indivíduo 
 
 >[!NOTE]
 >
->**Explicação**
->
->Para calcular as pontuações da conta, primeiro é necessário criar pontuações de lead. O Marketing ABM automaticamente agregação as pontuações de clientes potenciais para as pontuações da conta. Por exemplo, nós pegaremos dois dos exemplos acima (*Account **Pontuação de interesse do produto* e *Pontuação de envolvimento da Web na conta*).
+>Para calcular as pontuações da conta, primeiro é necessário criar pontuações de lead. O Marketing ABM automaticamente agregação as pontuações de clientes potenciais para as pontuações da conta. Como exemplo, nós pegaremos dois dos exemplos acima (_Pontuação de interesse do produto da conta_ e _Pontuação de envolvimento da Web da conta_).
 >
 >Primeiro, crie campos de pontuação de cliente potencial que capturem detalhes relevantes de cada cliente potencial de uma conta de público alvo.\
 >Em seguida, atribua essas pontuações de lead às respectivas pontuações de conta:\
@@ -61,17 +59,16 @@ Depois de configurar a pontuação de cliente potencial, siga as etapas abaixo.
 
    >[!NOTE]
    >
-   >Você pode escolher até **cinco **campos para calcular a Pontuação da conta.
+   >Você pode escolher até **cinco** campos para calcular a Pontuação da conta.
 
 1. Digite o nome da Pontuação da conta, clique no menu suspenso **Selecionar Pontuação da Pessoa** e selecione a pontuação correspondente.
 
    ![](assets/four.png)
 
-1. Clique em **+Adicionar **para adicionar mais pontuações.
+1. Clique em **+Adicionar** para adicionar mais pontuações.
 
    ![](assets/five.png)
 
 1. Adicione todas as pontuações desejadas. Clique em **Salvar** quando terminar.
 
    ![](assets/six.png)
-
