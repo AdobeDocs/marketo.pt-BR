@@ -3,7 +3,7 @@ unique-page-id: 11384438
 description: Configuração de relatório do ABM - Documentos do Marketing - Documentação do produto
 title: Configuração de relatório ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -78,4 +78,3 @@ Cada relatório tem a opção de opt out. Para fazer isso, basta clicar em **Can
 1. Selecione o usuário que deseja receber emails novamente e clique em **Resubscribe**.
 
    ![](assets/eleven.png)
-
