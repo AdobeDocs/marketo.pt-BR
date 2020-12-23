@@ -3,7 +3,7 @@ unique-page-id: 2949180
 description: Como entender o Painel SEO - SEO Recommendations - Documentos do Marketing - Documentação do produto
 title: Noções básicas sobre o Painel SEO - SEO Recommendations
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Você também pode descobrir como melhorar usando a seção Recommendations. Vam
 
 ## Principais problemas de otimização de página {#top-page-optimization-issues}
 
-Isso mostrará cinco maneiras de otimizar o seu site de start imediatamente! Basta clicar em qualquer um dos links para visualização de [Detalhamento completo da página](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
+Isso mostrará cinco maneiras de otimizar o seu site de start imediatamente! Basta clicar em qualquer um dos links para visualização de [Detalhamento completo da página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
 
 >[!TIP]
 >
@@ -43,5 +43,4 @@ Vamos! Mergulhe mais fundo aqui.
 
 >[!MORELIKETHIS]
 >
->* [Detalhamento de detalhes da página](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-
+>[Detalhamento de detalhes da página](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
