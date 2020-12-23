@@ -3,7 +3,7 @@ unique-page-id: 2949186
 description: SEO - Usando o Detalhamento da Página - Documentos do Marketing - Documentação do Produto
 title: SEO - Usando a Detalhamento de Página
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Você pode ver muitas informações sobre suas páginas usando o detalhamento da
 
 ## Palavra(s)-chave que a página é otimizada para {#keyword-s-that-page-is-optimized-for}
 
-É aqui que você [seleciona qual palavra-chave você está tentando otimizar sua página para](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+É aqui que você [seleciona qual palavra-chave você está tentando otimizar sua página para](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
@@ -64,9 +64,4 @@ Muito doce, certo? Saiba mais sobre Páginas aqui.
 
 >[!MORELIKETHIS]
 >
->* [Otimizar páginas específicas com palavras-chave direcionadas](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-
->
-
-
-
+>[Otimizar páginas específicas com palavras-chave direcionadas](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
