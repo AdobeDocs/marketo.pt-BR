@@ -3,9 +3,9 @@ unique-page-id: 2949243
 description: SEO - Adicionar/remover colunas da sua Visualização de palavras-chave - Documentos do Marketing - Documentação do produto
 title: SEO - Adicionar/remover colunas da sua Visualização de palavras-chave
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Você pode ajustar a visualização da sua palavra-chave para exibir os dados em
 
    Estas são as colunas padrão:
 
-1. ![](assets/image2014-9-18-13-3a37-3a36.png)
+   ![](assets/image2014-9-18-13-3a37-3a36.png)
 
 1. Clique no ícone de engrenagem.
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Selecione ou desmarque as colunas que deseja ver. Clique em **SALVAR**.
+1. Selecione ou desmarque as colunas que deseja ver. Clique em **Salvar**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
@@ -35,12 +35,6 @@ Você pode ajustar a visualização da sua palavra-chave para exibir os dados em
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Compreensão de palavras-chave - Visualização de resumo](seo-understanding-keywords.md)
-
-
+   >[Compreensão de palavras-chave - Visualização de resumo](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
