@@ -3,7 +3,7 @@ unique-page-id: 2949212
 description: SEO - Otimizar páginas específicas com palavras-chave direcionadas - Documentos de marketing - Documentação do produto
 title: SEO - Otimizar páginas específicas com palavras-chave direcionadas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Algumas palavras-chave vão muito bem com certas páginas. É assim que você co
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Selecione para qual palavra-chave você está tentando otimizar sua página. Clique em **UPDATE**.
+1. Selecione para qual palavra-chave você está tentando otimizar sua página. Clique em **Atualizar**.
 
    >[!TIP]
    >
@@ -32,4 +32,3 @@ Algumas palavras-chave vão muito bem com certas páginas. É assim que você co
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
    Vamos! Faça isso pelo maior número possível de páginas e palavras-chave.
-
