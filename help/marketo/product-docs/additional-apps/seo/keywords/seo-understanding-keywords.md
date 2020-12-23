@@ -3,7 +3,7 @@ unique-page-id: 2949182
 description: SEO - Entendendo palavras-chave - Documentos do Marketing - Documentação do produto
 title: SEO - Compreensão das palavras-chave
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 As palavras-chave são a espinha dorsal de sua estratégia de SEO. Sua meta é estar na primeira página, o mais próximo possível das palavras-chave relevantes para a sua empresa.
 
-A seção de palavras-chave mostrará o sucesso do seu site ao alcançar isso e como você empilha até [sua concorrência.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+A seção de palavras-chave mostrará o sucesso do seu site ao alcançar isso e como você empilha até [sua concorrência](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## Palavras-chave - Visualização de resumo {#keywords-summary-view}
 
@@ -62,10 +62,6 @@ Você também pode visualização como seus concorrentes estão se saindo usando
 
 >[!MORELIKETHIS]
 >
->* [Como entender páginas](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [Como entender links de entrada](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-
->
-
-
+>* [Como entender páginas](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [Como entender links de entrada](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
