@@ -3,9 +3,9 @@ unique-page-id: 2949220
 description: SEO - Adicionar notas a problemas de página - Documentos do marketing - Documentação do produto
 title: SEO - Adicionar notas a problemas de página
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Você sabia que pode adicionar notas a problemas de página como lembretes pesso
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. Na guia Páginas, clique em Problemas.
+1. Na guia Páginas, clique em **Problemas**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Passe o mouse sobre o problema ao qual você gostaria de adicionar uma nota. Clique em ADICIONAR NOTA ESTREITA.
+1. Passe o mouse sobre o problema ao qual você gostaria de adicionar uma nota. Clique em **Adicionar nota adesiva**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -35,7 +35,7 @@ Você sabia que pode adicionar notas a problemas de página como lembretes pesso
 
 >[!TIP]
 >
->Você pode excluir sua nota clicando no pequeno x no canto superior esquerdo.
+>Você pode excluir sua nota clicando no pequeno **x** no canto superior esquerdo.
 
 ## Adicione anotações na busca detalhada da página {#add-notes-in-page-detail-drill-down}
 
@@ -47,15 +47,14 @@ Você sabia que pode adicionar notas a problemas de página como lembretes pesso
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Passe o mouse sobre o problema de página ao qual você deseja adicionar uma nota e clique em **ADICIONAR NOTA**.
+1. Passe o cursor do mouse sobre o problema de página ao qual você deseja adicionar uma nota e clique em **Adicionar nota**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Insira sua nota. Clique em **SALVAR**.
+1. Insira sua nota. Clique em **Salvar**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
-   Groovy. Sua nota foi adicionada.
+   Sua nota foi adicionada!
 
    ![](assets/image2014-9-18-13-3a14-3a20.png)
-
