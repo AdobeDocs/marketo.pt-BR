@@ -3,9 +3,9 @@ unique-page-id: 2949210
 description: SEO - Exportar resultados de palavras-chave - Documentos do Marketing - Documentação do produto
 title: SEO - Exportando resultados de palavra-chave
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,8 @@ Você pode exportar os resultados de sua palavra-chave para compartilhar com sua
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
-1. Clique em Exportar.
+1. Clique em **Exportar**.
 
    ![](assets/image2014-9-18-12-3a51-3a25.png)
 
    Sim, é muito fácil.
-
