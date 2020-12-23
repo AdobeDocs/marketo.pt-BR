@@ -3,9 +3,9 @@ unique-page-id: 2949678
 description: SEO - Adicionar/remover palavras-chave de uma Lista - Documentos do Marketing - Documentação do produto
 title: SEO - Adicionar/remover palavras-chave de uma Lista
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Você pode manter todas as suas palavras-chave agradáveis e organizadas usando 
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Passe o mouse sobre a palavra-chave que deseja adicionar a uma lista. Clique em **ADICIONAR/REMOVER DA LISTA**.
+1. Passe o mouse sobre a palavra-chave que deseja adicionar a uma lista. Clique em **Adicionar/Remover da lista**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -45,7 +45,7 @@ Também é possível remover palavras-chave de uma lista.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Passe o mouse sobre a palavra-chave que deseja remover de uma lista. Clique em **ADICIONAR/REMOVER DA LISTA**.
+1. Passe o mouse sobre a palavra-chave que deseja remover de uma lista. Clique em **Adicionar/Remover da lista**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -53,15 +53,12 @@ Também é possível remover palavras-chave de uma lista.
 
    >[!NOTE]
    >
-   >Todas as listas às quais a palavra-chave pertence no momento terão uma marca de seleção. Depois de removida da lista, a verificação desaparece. Magia!
+   >Todas as listas às quais a palavra-chave pertence no momento terão uma marca de seleção. Depois de removida da lista, a verificação desaparece.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
    Perfeito, a palavra-chave não está mais nesta lista. Atualize sua página para atualizar a exibição.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >    
-   >* [Como entender palavras-chave (Visualização resumida)](seo-understanding-keywords.md)
-
+   >[Como entender palavras-chave (Visualização resumida)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
