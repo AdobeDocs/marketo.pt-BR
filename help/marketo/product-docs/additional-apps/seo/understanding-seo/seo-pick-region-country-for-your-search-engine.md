@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO - Escolher região/país para seu mecanismo de pesquisa - Documentos do Marketing - Documentação do produto
 title: SEO - Selecionar região/país para o seu mecanismo de pesquisa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Os administradores do SEO poderão escolher a região para o mecanismo de pesqui
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a seção Admin.
+1. Vá para a seção **Admin**.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Clique na guia Mecanismos de pesquisa.
+1. Clique na guia **Mecanismos de pesquisa**.
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. Escolha para qual país/cidade você deseja otimizar e clique em SALVAR.
+1. Escolha para qual país/cidade deseja otimizar e clique em **Salvar**.
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ Excelente trabalho. Agora você verá classificações de palavras-chave para o 
 
 >[!MORELIKETHIS]
 >
->* [Como entender o Painel: Instantâneo SEO](understanding-the-seo-dashboard-seo-snapshot.md)
->* [Como entender o Painel: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
+>* [Como entender o Painel: Instantâneo SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
+>* [Como entender o Painel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
 
