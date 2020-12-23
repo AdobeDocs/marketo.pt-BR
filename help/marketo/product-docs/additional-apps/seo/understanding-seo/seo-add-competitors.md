@@ -3,9 +3,9 @@ unique-page-id: 2949192
 description: SEO - Adicionar Concorrentes - Documentos do Marketing - Documentação do produto
 title: SEO - Adicionar Concorrentes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ A adição de concorrentes permitirá rastrear o desempenho das mesmas palavras-
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Clique em **ADICIONAR CONCORRENTE**.
+1. Clique em **Adicionar Concorrente**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
@@ -41,13 +41,8 @@ A adição de concorrentes permitirá rastrear o desempenho das mesmas palavras-
 
    Parabéns! Você está um passo mais perto de esmagá-lo completamente.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Adicionar palavras-chave](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-   >    * [Como entender palavras-chave (Visualização de Concorrente)](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
+   >* [Adicionar palavras-chave](/help/marketo//product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+   >* [Como entender palavras-chave (Visualização de Concorrente)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
