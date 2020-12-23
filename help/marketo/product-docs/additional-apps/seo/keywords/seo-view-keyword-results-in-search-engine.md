@@ -3,7 +3,7 @@ unique-page-id: 2949238
 description: SEO - Resultados de palavras-chave Visualizações no mecanismo de pesquisa - Documentos do Marketing - Documentação do produto
 title: SEO - Resultados de palavra-chave Visualização no mecanismo de pesquisa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Se você quiser ver a aparência do seu conteúdo em um mecanismo de pesquisa, a
 1. Incrível! Agora, você deve ver os resultados da pesquisa de sua palavra-chave em uma nova janela.
 
    ![](assets/image2014-9-18-13-3a34-3a24.png)
-
