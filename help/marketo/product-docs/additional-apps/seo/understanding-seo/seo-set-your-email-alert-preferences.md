@@ -3,9 +3,9 @@ unique-page-id: 2949196
 description: SEO - Definir as preferências de alerta de email - Documentos do Marketing - Documentação do produto
 title: SEO - Definir preferências de alerta de email
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,6 @@ Você pode personalizar suas preferências de email para determinar quando será
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. Indique o que você deseja que seja alertado por email.
+1. Indique o que você deseja que seja alertado por email e clique em **Salvar**.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)
-
-   Groovy. Suas preferências serão salvas automaticamente.
-
