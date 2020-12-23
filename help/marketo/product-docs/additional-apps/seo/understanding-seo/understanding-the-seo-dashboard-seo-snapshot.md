@@ -3,7 +3,7 @@ unique-page-id: 2949178
 description: Noções básicas sobre o Painel SEO - Instantâneo SEO - Documentos do Marketing - Documentação do produto
 title: Noções básicas sobre o Painel SEO - Instantâneo SEO
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Use o painel para obter uma visualização de alto nível de como a classificação das palavras-chave é a tendência e como o site é otimizado para SEO.
 
-Para descobrir o que se concentrar para melhorar seus esforços de SEO, use a seção [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) deste painel.
+Para descobrir o que se concentrar para melhorar seus esforços de SEO, use a seção [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) deste painel.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## Resumo da classificação da palavra-chave {#keyword-rank-summary}
 
-Esta seção mostra como o site está classificado para as [palavras-chave que você está definindo como meta](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Esta seção mostra como o site está classificado para as [palavras-chave que você está definindo como meta](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ Esta seção mostra como o site está classificado para as [palavras-chave que v
 
 >[!TIP]
 >
->Você também pode visualização o desempenho de uma [lista específica](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de palavras-chave. Clique na lista suspensa e selecione a que deseja interessar você.
+>Você também pode visualização o desempenho de uma [lista específica](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de palavras-chave. Clique na lista suspensa e selecione a que deseja interessar você.
 
 Agite! Vamos continuar.
 
@@ -63,9 +63,4 @@ Fácil, certo? Agora vamos dar uma olhada na seção do Recommendations deste pa
 
 >[!MORELIKETHIS]
 >
->* [Como entender o Painel: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
-
+>[Como entender o Painel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
