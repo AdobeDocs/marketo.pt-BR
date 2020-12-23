@@ -3,9 +3,9 @@ unique-page-id: 2949184
 description: SEO - Entendendo páginas - Documentos do Marketing - Documentação do produto
 title: SEO - Compreensão de páginas
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 A Pontuação de otimização de página é uma classificação geral da otimização da página para pesquisa, em uma escala de 1 a 100. Ele se baseia em dezenas de práticas recomendadas na SEO.
 
-* ~ 00 - 35 = Não otimizado
-* ~ 35 - 70 = No caminho certo
-* ~ 70 - 100 = Muito bom!
+* 0 - 35 = Não bem otimizado
+* 35 - 70 = No caminho certo
+* 70 - 100 = Muito bom!
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ A guia Páginas mostra o quão bem as páginas individuais do site são otimizad
 | Título | Título e URL de todas as páginas em seu domínio. Verifique seu domínio. |
 | Pontuação de otimização | O molho secreto usado para mostrar a você como sua página é otimizada para pesquisa em uma escala de 1 a 100. |
 | Links | Número de domínios diferentes com pelo menos 1 link de entrada para o site. |
-| Palavras-chave do público alvo | As palavras-chave para as quais você decide otimizar cada página. [Isso requer sua entrada](seo-using-the-page-detail-drill-down.md). |
+| Palavras-chave do público alvo | As palavras-chave para as quais você decide otimizar cada página. [Isso requer sua entrada](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
 ## Guia Problemas {#issues-tab}
 
@@ -53,7 +53,4 @@ A guia de problemas identificará quais melhorias você pode fazer para aumentar
 | Categoria | O tipo de problema que está sendo reportado. |
 | Status | A tarefa está concluída ou ainda está aberta. Depois que você e seu webmaster corrigirem o problema no site, o status deverá mudar para resolvido (verificação verde). |
 
-Incrível, agora que você sabe as noções básicas das páginas, verifique o artigo Detalhamento da página para saber mais sobre as coisas legais que você pode fazer.
-
-* [Usando a Detalhamento da Página](seo-using-the-page-detail-drill-down.md)
-
+Incrível, agora que você sabe as noções básicas das páginas, confira o artigo [Detalhe da página Detalhar](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) para saber mais sobre coisas legais que você pode fazer.
