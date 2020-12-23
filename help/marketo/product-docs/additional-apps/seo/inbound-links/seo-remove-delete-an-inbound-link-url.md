@@ -3,9 +3,9 @@ unique-page-id: 2949253
 description: SEO - Remover/Excluir um URL de link de entrada - Documentos do Marketing - Documentação do produto
 title: SEO - Remover/Excluir um URL de link de entrada
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,9 @@ ht-degree: 0%
 1. Passe o cursor do mouse sobre o URL do link de entrada que deseja excluir.
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
-Clique em REMOVER.
+
+1. Clique em **Remover**.
+
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 
-   Alcance! Agora você excluiu este link de entrada.
-
+Agora você excluiu este link de entrada.
