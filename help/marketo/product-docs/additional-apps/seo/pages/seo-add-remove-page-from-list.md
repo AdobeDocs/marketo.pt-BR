@@ -3,9 +3,9 @@ unique-page-id: 2949218
 description: SEO - Adicionar/remover página da Lista - Documentos do Marketing - Documentação do produto
 title: SEO - Adicionar/remover página da Lista
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Você quer gerenciar suas páginas? Você pode fazer isso facilmente criando uma
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Passe o cursor do mouse sobre a página que deseja adicionar a uma lista. Clique em **ADICIONAR/REMOVER DA LISTA**.
+1. Passe o cursor do mouse sobre a página que deseja adicionar a uma lista. Clique em **Adicionar/Remover da Lista**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -37,7 +37,7 @@ Você quer gerenciar suas páginas? Você pode fazer isso facilmente criando uma
 
    ![](assets/image2014-9-18-13-3a3-3a40.png)
 
-1. Sim! Agora você deve ver sua página adicionada à lista.
+Sim! Agora você deve ver sua página adicionada à lista.
 
 ## Remover página de uma Lista {#remove-page-from-a-list}
 
@@ -49,7 +49,7 @@ Você quer gerenciar suas páginas? Você pode fazer isso facilmente criando uma
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Passe o cursor do mouse sobre a página que deseja remover. Clique em **ADICIONAR/REMOVER DA LISTA**.
+1. Passe o cursor do mouse sobre a página que deseja remover. Clique em **Adicionar/Remover da Lista**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
@@ -61,5 +61,4 @@ Você quer gerenciar suas páginas? Você pode fazer isso facilmente criando uma
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-1. Boom. Feito. Sua página é removida da lista.
-
+Feito. Sua página é removida da lista.
