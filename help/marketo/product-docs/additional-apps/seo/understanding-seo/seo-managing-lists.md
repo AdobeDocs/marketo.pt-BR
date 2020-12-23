@@ -3,7 +3,7 @@ unique-page-id: 2949232
 description: SEO - Gerenciamento de Lista - Documentos do Marketing - Documentação do produto
 title: SEO - Gerenciamento de Listas
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode adicionar coisas ao lista ao adicionar palavras-chave, páginas, problemas de página ou links de entrada. O Lista ajuda você a se manter organizado e permite que você filtre relatórios para ver somente os dados dessa lista. Veja como fazê-los:
 
-1. Clique em **ADICIONAR PALAVRAS-CHAVE**.
+1. Clique em **Adicionar palavras-chave**.
 
    >[!NOTE]
    >
@@ -29,11 +29,10 @@ Você pode adicionar coisas ao lista ao adicionar palavras-chave, páginas, prob
 
    >[!TIP]
    >
-   >Você pode criar uma nova lista no menu suspenso. Insira um título e pressione a tecla de retorno.  ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
+   >Você pode criar uma nova lista no menu suspenso. Insira um título e pressione a tecla de retorno.
 
-1. Clique em **SALVAR**.
+1. Clique em **Salvar**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
    Feliz organização!
-
