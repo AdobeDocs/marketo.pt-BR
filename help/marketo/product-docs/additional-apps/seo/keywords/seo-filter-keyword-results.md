@@ -3,9 +3,9 @@ unique-page-id: 2949208
 description: SEO - Filtrar resultados de palavras-chave - Documentos do Marketing - Documentação do produto
 title: SEO - Filtrar resultados de palavras-chave
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Filtrar resultados de palavras-chave {#seo-filter-keyword-results}
 
-Você pode ter muitas [palavras-chave](seo-understanding-keywords.md). Estas são as diferentes maneiras de filtrá-las:
+Você pode ter muitas [palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Estas são as diferentes maneiras de filtrá-las:
 
 ## Filtrar por lista {#filter-by-list}
 
@@ -27,7 +27,7 @@ Você pode ter muitas [palavras-chave](seo-understanding-keywords.md). Estas sã
 
    >[!NOTE]
    >
-   >Se você não vir nenhuma lista, [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [aprenda como fazer uma lista de palavra-chave](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >Se você não vir nenhuma lista, [saiba como fazer uma lista de palavra-chave](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 Doce! Agora você só estará olhando para palavras-chave nessa lista.
 
@@ -37,7 +37,7 @@ Doce! Agora você só estará olhando para palavras-chave nessa lista.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   Os quadrados laranja definem seus limites superior (esquerdo) e inferior (direito). O filtro funciona na classificação SERP [da palavra-chave](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+   Os quadrados laranja definem seus limites superior (esquerdo) e inferior (direito). O filtro funciona na classificação SERP [da palavra-chave](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. Deslize os quadrados laranja para a esquerda/direita para filtrar os resultados.
 
@@ -54,6 +54,3 @@ Você também pode encontrar as palavras-chave que está procurando usando o cam
 1. Insira sua palavra-chave no campo de pesquisa.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)
-
-   Parabéns! Agora você é um guerreiro samurai filtrando palavras-chave!
-
