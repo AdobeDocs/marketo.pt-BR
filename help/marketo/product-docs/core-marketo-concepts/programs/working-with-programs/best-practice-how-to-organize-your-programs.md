@@ -3,7 +3,7 @@ unique-page-id: 6848705
 description: Prática recomendada - Como organizar seus Programas - Documentos do Marketing - Documentação do produto
 title: Prática recomendada - Como organizar seus Programas
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 0%
@@ -28,36 +28,28 @@ No Marketing Atividade, você deve usar pastas para organizar seus programas. A 
 >**Exemplo**
 >
 >* Programas ativos de marketing
->
->    * Emails
->    * Eventos
->
->        * Eventos ao vivo / apresentações de roadeiras
->        * shows de vendas
->        * Webinars
->   * Newsletters
->   * Enfermidade
->   * Conteúdo da Web
->   * formulários web
+   >   * Emails
+   >   * Eventos
+      >      * Eventos ao vivo / apresentações de roadeiras
+      >      * shows de vendas
+      >      * Webinars
+   >   * Newsletters
+   >   * Enfermidade
+   >   * Conteúdo da Web
+   >   * formulários web
 >* Aprendizagem
 >* Operacional
->
->   * Ciclo
->   * Pontuação
->   * gestão de dados
+   >   * Ciclo
+   >   * Pontuação
+   >   * gestão de dados
 >* Insight de vendas
->   * Momentos interessantes
->   * E-mails de vendas
->   * Campanhas de vendas solicitadas
->* **Arquivar**
->   * Eventos de arquivamento
->      * Arquivo 2012
->      * Arquivo 2013
-
-
-
-
-
+   >   * Momentos interessantes
+   >   * E-mails de vendas
+   >   * Campanhas de vendas solicitadas
+>* **Arquivo**
+   >   * Eventos de arquivamento
+      >      * Arquivo 2012
+      >      * Arquivo 2013
 
 
 Cada um desses mencionados no exemplo é uma pasta. Notem como eles são todos exclusivamente nomeados. Você pode ter nomes de duplicados (mais simples) de pastas DENTRO de programas, mas não na raiz da árvore.
