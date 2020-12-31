@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Segmentos da Web - Documentos do Marketing - Documentação do produto
 title: Segmentos da Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -90,16 +90,14 @@ Na página **Segmentos**, clique em **Criar novo** no gráfico. A tela a seguir 
 
 Defina parâmetros gerais para o seu segmento:
 
-1. &#x200B;
+* **Nome:**  nomeie seu segmento.
+* **Descrição:**  forneça uma explicação mais detalhada dos critérios de segmento.
+* **Domínios:**  selecione os domínios que deseja incluir no segmento.
+* **Lógica da regra de segmento:**  selecione uma lógica E/OU para criar cada atributo de segmentação
+* **Tempo:** Defina o nível de envolvimento do visitante desejado em sua campanha
 
-   * **Nome:**  Dê um nome ao seu segmento.
-   * **Descrição:**  Forneça uma explicação mais detalhada dos critérios de segmento.
-   * **Domínios:**  Selecione os domínios que deseja incluir no segmento.
-   * **Lógica da regra de segmento:**  Selecione uma lógica E/OU para criar cada atributo de segmentação
-   * **Tempo:** Defina o nível de envolvimento do visitante desejado na campanha
-
-      * **Na Entrada**: Participe da chegada do visitante ao site
-      * **Após o 1º a 9º clique**: Envolva o visitante após uma quantidade específica de cliques no site
+   * **Na Entrada**: Participe da chegada do visitante ao site
+   * **Após o 1º a 9º clique**: Envolva o visitante após uma quantidade específica de cliques no site
 
 >[!TIP]
 >
@@ -110,21 +108,27 @@ Defina parâmetros gerais para o seu segmento:
 >1. Usar todos os Filtros (1 e 2 e 3...)
 >1. Usar quaisquer Filtros (1 ou 2 ou 3...)
 >1. Filtros avançados (usando e/ou expressão)
->    1. &#x200B;
->
->       Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.
->       * 1 e 2 e 3
->       * 1 ou 2 ou 3
->
->       Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:
->       * 1 e (2 ou 3)
->       * (1 e 2) ou 3
->
->       Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.
->       * (1 e 2) ou (3 e 4)
->       * 1 e 2 ou 3 e 4)
->
->       Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
+
+   >
+   >    
+   Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.
+   >
+   >    
+   * 1 e 2 e 3
+   >    * 1 ou 2 ou 3
+
+   >
+   Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:
+
+   * 1 e (2 ou 3)
+   * (1 e 2) ou 3
+
+   Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.
+
+   * (1 e 2) ou (3 e 4)
+   * 1 e 2 ou 3 e 4)
+
+   Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
 
 
 
@@ -139,12 +143,12 @@ Arraste e solte os atributos do segmento da coluna do lado direito no editor de 
 
 **Localização**
 
-Arraste e solte **Localização **no editor de segmentos.
+Arraste e solte **Location** no editor de segmentos.
 
 * Selecione um dos seguintes parâmetros:
 
-   * **Incluir **- Selecione se deseja que a campanha inclua ou exclua um local.
-   * **Selecione o país a ser adicionado**   - Na caixa suspensa, selecione o país que deseja incluir no segmento. O nome do país é exibido à direita. Você pode escolher vários países.
+   * **Incluir**  - Selecione se deseja que a campanha inclua ou exclua um local.
+   * **Selecione o país a ser adicionado**  - Na caixa suspensa, selecione o país que deseja incluir no segmento. O nome do país é exibido à direita. Você pode escolher vários países.
 
 Depois que o país é adicionado, você também pode especificar o estado, a cidade e o CEP do segmento.
 
@@ -154,7 +158,7 @@ Depois que o país é adicionado, você também pode especificar o estado, a cid
 
 >[!TIP]
 >
->**Quais condições de segmento eu escolho? &quot;AND&quot; ou &quot;OR&quot;? **OU funciona como uma opção adicional em cada campo. Os prospectos precisam apenas atender a um critério dos vários critérios selecionados em cada campo para se qualificarem para o segmento. (Por exemplo, prospectos podem ser dos EUA. *ou* do setor de Defesa). E funciona como um parâmetro obrigatório adicional que deve ser atendido para este segmento. (Por exemplo, os prospectos devem ser dos EUA e da indústria de Defesa). Em cada perfil de segmentação, cada campo separado pode funcionar como ambos, seja &quot;E&quot; ou &quot;OU&quot;, dependendo da Condição do segmento selecionada.
+>**Quais condições de segmento eu escolho? &quot;AND&quot; ou &quot;OR&quot;?** OU funciona como uma opção adicional em cada campo. Os prospectos precisam apenas atender a um critério dos vários critérios selecionados em cada campo para se qualificarem para o segmento. (Por exemplo, prospectos podem ser dos EUA. *ou* do setor de Defesa). E funciona como um parâmetro obrigatório adicional que deve ser atendido para este segmento. (Por exemplo, os prospectos devem ser dos EUA e da indústria de Defesa). Em cada perfil de segmentação, cada campo separado pode funcionar como ambos, seja &quot;E&quot; ou &quot;OU&quot;, dependendo da Condição do segmento selecionada.
 
 **** IndústriasNa seção  **Segmentação** do Perfil, marque a caixa ao lado da  **Indústria**.
 
@@ -179,12 +183,10 @@ Na seção **Segmentação do Perfil**, marque a caixa ao lado de **Grupo da Org
 
 **Organizações**
 
-* 
+* **É dessas empresas (nomes específicos)**
 
-   * **É dessas empresas (nomes específicos)**
-
-      * Selecione empresa a público alvo no menu suspenso &#39;Selecionar empresa para adicionar&#39;.
-      * Você pode digitar o nome exato da organização que deseja público alvo. *É recomendável que *sempre *use Listas de Conta Nomeada em vez de digitar os nomes manualmente para melhores correspondências (consulte abaixo).*
+   * Selecione empresa a público alvo no menu suspenso &#39;Selecionar empresa para adicionar&#39;.
+   * Você pode digitar o nome exato da organização que deseja público alvo. *É recomendável que *sempre *use Listas de Conta Nomeada em vez de digitar os nomes manualmente para melhores correspondências (consulte abaixo).*
 
 **Lista de conta nomeada**
 
@@ -226,10 +228,8 @@ Você pode adicionar ou remover campos de dados de pessoa de Configurações da 
 
 Defina seu segmento de acordo com o status de um prospecto: conhecido ou anônimo.
 
-* 
-
-   * Known - Selecione essa opção na caixa suspensa para visitantes conhecidos. Um visitante é conhecido quando ele envia um formulário para o seu site e aparece na página Pessoas da personalização da Web.
-   * Anônimo - Selecione essa opção na caixa suspensa para visitantes anônimos.
+* Known - Selecione essa opção na caixa suspensa para visitantes conhecidos. Um visitante é conhecido quando ele envia um formulário para o seu site e aparece na página Pessoas da personalização da Web.
+* Anônimo - Selecione essa opção na caixa suspensa para visitantes anônimos.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
@@ -237,41 +237,29 @@ Defina seu segmento de acordo com o status de um prospecto: conhecido ou anônim
 
 **Visitas -** Defina seu segmento de acordo com o comportamento ou a identificação do visitante.
 
-* 
+* Número de visitas - Selecione essa opção na caixa suspensa para especificar o número de visitas para prospectos no site.
 
-   * Número de visitas - Selecione essa opção na caixa suspensa para especificar o número de visitas para prospectos no site.
+   * Selecione Igual, Igual ou Maior que, ou Igual ou Menor que na caixa suspensa.
 
-      * Selecione Igual, Igual ou Maior que, ou Igual ou Menor que na caixa suspensa.
-   * Visitas específicas - Selecione essa opção na caixa suspensa para especificar um visitante específico.
+* Visitas específicas - Selecione essa opção na caixa suspensa para especificar um visitante específico.
 
-      * Na caixa de texto à direita, digite o número do visitante que deseja rastrear. O número exclusivo de identificação do visitante de personalização da Web pode ser encontrado ao clicar em um visitante (na página visitantes) e em Definir Campanha no painel direito. A ID do Visitante está localizada na seção Configurações avançadas. A ID do visitante também pode ser encontrada no URL (por exemplo, VISITANTE=JZJIFNUI60PZ8Y97BHTY9BL8PKWS).
-
+   * Na caixa de texto à direita, digite o número do visitante que deseja rastrear. O número exclusivo de identificação do visitante de personalização da Web pode ser encontrado ao clicar em um visitante (na página visitantes) e em Definir Campanha no painel direito. A ID do Visitante está localizada na seção Configurações avançadas. A ID do visitante também pode ser encontrada no URL (por exemplo, VISITANTE=JZJIFNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Termos**  de pesquisa - Defina um segmento de acordo com os termos de pesquisa de um prospecto.
 
-* 
-
-   * O visitante pesquisado - Na lista suspensa, selecione os termos que deseja rastrear na pesquisa de visitantes ou adicione seus próprios termos de pesquisa. (Não há necessidade do * curinga em termos de pesquisa, pois ele é definido como padrão para incluir frases que contêm o termo de pesquisa).
+* O visitante pesquisado - Na lista suspensa, selecione os termos que deseja rastrear na pesquisa de visitantes ou adicione seus próprios termos de pesquisa. (Não há necessidade do * curinga em termos de pesquisa, pois ele é definido como padrão para incluir frases que contêm o termo de pesquisa).
 
 **Referências**  - Adicione URLs pelas quais o visitante foi referenciado.
 
-* 
-
-   * Selecione as referências a serem adicionadas - na lista suspensa, selecione os sites de referência que deseja rastrear ou adicione sua própria referência. Uma vez selecionadas, as referências aparecerão na caixa abaixo. (É permitido usar * como curinga)
+* Selecione as referências a serem adicionadas - na lista suspensa, selecione os sites de referência que deseja rastrear ou adicione sua própria referência. Uma vez selecionadas, as referências aparecerão na caixa abaixo. (É permitido usar * como curinga)
 
 **Incluir páginas**  - rastreie prospectos de páginas específicas visitados em seu site.
 
-* 
-
-   * Correspondências de URL - adicione o URL de páginas da Web específicas que você deseja rastrear. É possível adicionar vários URLs separando-os com um ponto e vírgula. (É permitido usar * como curinga).
+* Correspondências de URL - adicione o URL de páginas da Web específicas que você deseja rastrear. É possível adicionar vários URLs separando-os com um ponto e vírgula. (É permitido usar * como curinga).
 
 **Excluir páginas**  - exclua páginas específicas que não deseja corresponder no segmento. (É permitido usar * como curinga).
 
-* 
-
-   * 
-
-      * URL não corresponde - Adicione o URL de páginas da Web específicas que você deseja excluir do rastreamento. É possível adicionar vários URLs separando-os com um ponto e vírgula
+* URL não corresponde - Adicione o URL de páginas da Web específicas que você deseja excluir do rastreamento. É possível adicionar vários URLs separando-os com um ponto e vírgula
 
 ![](assets/segment-extra.png)
 
@@ -283,10 +271,11 @@ Arraste e solte o Mobile OS no editor de segmentos
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Tipo de Visitante **
+* **Tipo de visitante**
+
    **Sistema operacional**  móvel - Na caixa suspensa, selecione um ou mais sistemas operacionais móveis listados. O SO móvel selecionado é exibido abaixo.
 
-   * O visitante está usando qualquer dispositivo móvel ** **
+   * O visitante está usando qualquer dispositivo móvel
    * O visitante está usando este dispositivo/SO específico
    * O visitante não está usando nenhum dispositivo móvel
 
@@ -296,10 +285,8 @@ Arraste e solte o Mobile OS no editor de segmentos
 
 Visitante de público alvo que usa tipos e/ou versões de navegadores específicos.
 
-* 
-
-   * Tipo de navegador - Na caixa suspensa, selecione um ou mais navegadores da Internet . Os navegadores selecionados são exibidos abaixo.
-   * Versão do navegador - insira a versão do navegador que deseja adicionar ao segmento. É possível selecionar várias versões separando cada uma com uma vírgula. (É permitido usar * como curinga).
+* Tipo de navegador - Na caixa suspensa, selecione um ou mais navegadores da Internet . Os navegadores selecionados são exibidos abaixo.
+* Versão do navegador - insira a versão do navegador que deseja adicionar ao segmento. É possível selecionar várias versões separando cada uma com uma vírgula. (É permitido usar * como curinga).
 
 ### API {#api}
 
@@ -313,7 +300,7 @@ Chamada da API de personalização da Web [leia mais sobre ela aqui.](http://dev
 
 >[!TIP]
 >
->**Usando curingas - **Quando você deseja incluir qualquer termo de pesquisa ou URL que contenha algo dentro dele, por exemplo: &quot;[google.com](http://google.com)&quot; ou &quot;produto de termo de pesquisa&quot;, chamamos isso de um curinga e ele deve ser digitado com um asterisco - esse carinha* - em cada extremidade. Portanto, qualquer item vindo de [google.com](http://google.com) deve ser inserido como * [google.com](http://google.com)*
+>**Uso de curingas -** quando você deseja incluir qualquer termo de pesquisa ou URL que contenha algo dentro dele, ou seja, &quot;[google.com](http://google.com)&quot; ou &quot;produto de termo de pesquisa&quot;, chamamos isso de curinga e ele deve ser digitado com um asterisco - esse carinha* - em cada extremidade. Portanto, qualquer item vindo de [google.com](http://google.com) deve ser inserido como * [google.com](http://google.com)*
 
 ## Editar segmentos {#edit-segments}
 
@@ -332,7 +319,7 @@ Chamada da API de personalização da Web [leia mais sobre ela aqui.](http://dev
 É possível excluir segmentos criados.
 
 1. Na página **Segmentos** acima, selecione um segmento.
-1. Clique no ícone de exclusão ( ![](assets/segment-delete.png) ) do segmento**** que você deseja excluir.
+1. Clique no ícone de exclusão ( ![](assets/segment-delete.png) ) do segmento que deseja excluir.
 1. Uma mensagem de confirmação é exibida, confirmando que você está prestes a excluir o **Segmento**.
 
 >[!NOTE]
