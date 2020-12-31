@@ -108,27 +108,23 @@ Defina parâmetros gerais para o seu segmento:
 >1. Usar todos os Filtros (1 e 2 e 3...)
 >1. Usar quaisquer Filtros (1 ou 2 ou 3...)
 >1. Filtros avançados (usando e/ou expressão)
-
-   >
-   >    
-   Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.
-   >
-   >    
-   * 1 e 2 e 3
-   >    * 1 ou 2 ou 3
-
-   >
-   Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:
-
-   * 1 e (2 ou 3)
-   * (1 e 2) ou 3
-
-   Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.
-
-   * (1 e 2) ou (3 e 4)
-   * 1 e 2 ou 3 e 4)
-
-   Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
+>
+>    Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.
+>
+>    * 1 e 2 e 3
+>    * 1 ou 2 ou 3
+>
+>    Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:
+>
+>    * 1 e (2 ou 3)
+>    * (1 e 2) ou 3
+>
+>    Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.
+>
+>    * (1 e 2) ou (3 e 4)
+>    * 1 e 2 ou 3 e 4)
+>
+>    Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
 
 
 
