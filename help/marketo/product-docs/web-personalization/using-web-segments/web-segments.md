@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Segmentos da Web - Documentos do Marketing - Documentação do produto
 title: Segmentos da Web
 translation-type: tm+mt
-source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
+source-git-commit: f1fb2de271660904b8504e929f1428831e7188c1
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2024'
 ht-degree: 0%
 
 ---
@@ -101,38 +101,32 @@ Defina parâmetros gerais para o seu segmento:
 
 >[!TIP]
 >
->**Lógica da regra de segmento**
+>**Segmentregellogik**
 >
->Há três opções de filtro:
+>Es gibt drei Filteroptionen:
 >
->1. Usar todos os Filtros (1 e 2 e 3...)
->1. Usar quaisquer Filtros (1 ou 2 ou 3...)
->1. Filtros avançados (usando e/ou expressão)
+>1. Lle Filter Verwenden (1, 2 e 3...)
+>1. Lle Filter Verwenden (1 ordem 2 ordem 3...)
+>1. Filtro Erweiterte (mit und/oder Ausdrücken)
 
    >
    >    
-   Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.
-   >
-   >    
-   * 1 e 2 e 3
-   >    * 1 ou 2 ou 3
+   Mit erweiterten Filtern können Sie die Segmentadornung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot; und &quot;oder&quot; ein.
 
-   >
-   Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:
+   * 1 und 2 und 3
+   * 1 ordem 2 ordem 3
 
-   * 1 e (2 ou 3)
-   * (1 e 2) ou 3
+   Das Mischen von &quot;and&quot; und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. A expressão &quot;1 com 2 e 3&quot; é utilizada para abóbora geschrieben sein:
 
-   Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.
+   * 1 und (2 ordem 3)
+   * (1 e 2) ordem 3
 
-   * (1 e 2) ou (3 e 4)
-   * 1 e 2 ou 3 e 4)
+   Verschachtelte Klammern werden für eine kompliziertere Logik, z.
 
-   Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
+   * (1 e 2) ordem (3 e 4)
+   * 1 e 2 ordens 3 e 4)
 
-
-
-
+   Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
 
 
 Arraste e solte os atributos do segmento da coluna do lado direito no editor de segmentos do lado esquerdo:
@@ -157,8 +151,7 @@ Depois que o país é adicionado, você também pode especificar o estado, a cid
 * **Cidades**  - Entre na cidade ou cidades que deseja incluir. Use ponto-e-vírgula entre cidades.
 
 >[!TIP]
->
->**Quais condições de segmento eu escolho? &quot;AND&quot; ou &quot;OR&quot;?** OU funciona como uma opção adicional em cada campo. Os prospectos precisam apenas atender a um critério dos vários critérios selecionados em cada campo para se qualificarem para o segmento. (Por exemplo, prospectos podem ser dos EUA. *ou* do setor de Defesa). E funciona como um parâmetro obrigatório adicional que deve ser atendido para este segmento. (Por exemplo, os prospectos devem ser dos EUA e da indústria de Defesa). Em cada perfil de segmentação, cada campo separado pode funcionar como ambos, seja &quot;E&quot; ou &quot;OU&quot;, dependendo da Condição do segmento selecionada.
+**Quais condições de segmento eu escolho? &quot;AND&quot; ou &quot;OR&quot;?** OU funciona como uma opção adicional em cada campo. Os prospectos precisam apenas atender a um critério dos vários critérios selecionados em cada campo para se qualificarem para o segmento. (Por exemplo, prospectos podem ser dos EUA. *ou* do setor de Defesa). E funciona como um parâmetro obrigatório adicional que deve ser atendido para este segmento. (Por exemplo, os prospectos devem ser dos EUA e da indústria de Defesa). Em cada perfil de segmentação, cada campo separado pode funcionar como ambos, seja &quot;E&quot; ou &quot;OU&quot;, dependendo da Condição do segmento selecionada.
 
 **** IndústriasNa seção  **Segmentação** do Perfil, marque a caixa ao lado da  **Indústria**.
 
@@ -195,8 +188,7 @@ Selecione de uma [Lista Conta nomeada](../../../product-docs/web-personalization
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
->
->O número entre colchetes ao lado do nome da Lista Conta nomeada é usado como uma referência de índice para a lista de Personalização da Web [Ler API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+O número entre colchetes ao lado do nome da Lista Conta nomeada é usado como uma referência de índice para a lista de Personalização da Web [Ler API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Excluir ISP**
 
@@ -215,10 +207,8 @@ Selecione Banco de dados e selecione um campo de dados de pessoa no menu suspens
 Você pode adicionar ou remover campos de dados de pessoa de Configurações da conta > Banco de dados
 
 >[!TIP]
->
->Crie seus critérios de segmento de acordo com todos os campos de dados pessoais de Marketo para pessoas como Título do trabalho; Pontuação; Papel; etc...
->
->Eg. &quot;Cargo igual a COM&quot; e &quot;A pontuação é menor que ou igual a 50&quot;
+Crie seus critérios de segmento de acordo com todos os campos de dados pessoais de Marketo para pessoas como Título do trabalho; Pontuação; Papel; etc...
+Eg. &quot;Cargo igual a COM&quot; e &quot;A pontuação é menor que ou igual a 50&quot;
 
 **Marketo Email** CampaignSegmente e personalize campanhas por email de referência de um visitante clicando em um email de marketing e chegando ao site. Segmentar por Nome do Programa ou Nome da Campanha do Marketing e continuar a conversa de email para Web. Selecione + para adicionar campos no menu suspenso.
 
@@ -299,8 +289,7 @@ Adicione o valor do Evento que você deseja público alvo. Por exemplo, de fonte
 Chamada da API de personalização da Web [leia mais sobre ela aqui.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
->
->**Uso de curingas -** quando você deseja incluir qualquer termo de pesquisa ou URL que contenha algo dentro dele, ou seja, &quot;[google.com](http://google.com)&quot; ou &quot;produto de termo de pesquisa&quot;, chamamos isso de curinga e ele deve ser digitado com um asterisco - esse carinha* - em cada extremidade. Portanto, qualquer item vindo de [google.com](http://google.com) deve ser inserido como * [google.com](http://google.com)*
+**Uso de curingas -** quando você deseja incluir qualquer termo de pesquisa ou URL que contenha algo dentro dele, ou seja, &quot;[google.com](http://google.com)&quot; ou &quot;produto de termo de pesquisa&quot;, chamamos isso de curinga e ele deve ser digitado com um asterisco - esse carinha* - em cada extremidade. Portanto, qualquer item vindo de [google.com](http://google.com) deve ser inserido como * [google.com](http://google.com)*
 
 ## Editar segmentos {#edit-segments}
 
@@ -329,7 +318,7 @@ Não é possível excluir um segmento associado a uma campanha. Primeiro, é nec
 
 >[!MORELIKETHIS]
 * [Criar um segmento básico da Web](create-a-basic-web-segment.md)
-* [Criar uma nova Campanha da Web de diálogo](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Criar uma nova Campanha da Web de caixa de diálogo](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 * [Criar uma nova Campanha da Web na zona](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 * [Criar uma nova Campanha Web de widget](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
