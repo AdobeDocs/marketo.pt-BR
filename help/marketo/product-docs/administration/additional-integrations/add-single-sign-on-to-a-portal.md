@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: Adicionar logon único a um portal - Documentos do Marketing - Documentação do produto
 title: Adicionar logon único a um portal
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,13 @@ Quando o SSO estiver ativado, o IdP poderá validar as credenciais de um usuári
 
 O SSO está desativado por padrão. Siga estas etapas para habilitar o SAML e configurá-lo.
 
-1. Vá para **Admin **e clique em **Logon único**.
+1. Vá para **Admin** e clique em **Logon único**.
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >Se você não vir **Logon único** em **Admin**, entre em contato com [`[email protected]`](http://mailto:support@marketo.com).
+   >Se você não vir **Logon único** em **Admin**, entre em contato com [[Suporte a marketing]](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Na seção **SAML Settings**, clique em **Editar**.
 
@@ -102,4 +102,3 @@ O SSO está desativado por padrão. Siga estas etapas para habilitar o SAML e co
    >[!NOTE]
    >
    >Ambas as páginas devem estar disponíveis ao público.
-
