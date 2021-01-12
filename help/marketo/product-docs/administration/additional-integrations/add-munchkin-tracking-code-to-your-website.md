@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: Adicionar código de rastreamento Munchkin ao seu site - Documentos do Marketing - Documentação do produto
 title: Adicionar código de rastreamento Munchkin ao seu site
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adicione o código de rastreamento Munchkin ao seu site {#add-munchkin-tracking-code-to-your-website}
 
-O código de rastreamento personalizado JavaScript do Marketo, chamado Munchkin, rastreia todos os indivíduos que visitam seu site para que você possa reagir às visitas com campanhas de marketing automatizadas. Até visitantes anônimos são rastreados juntamente com seus endereços IP e outras informações. ** Sem este código de rastreamento, você não poderá rastrear visitas ou outras atividades em seu site!**
+O código de rastreamento personalizado JavaScript do Marketo, chamado Munchkin, rastreia todos os indivíduos que visitam seu site para que você possa reagir às visitas com campanhas de marketing automatizadas. Até visitantes anônimos são rastreados juntamente com seus endereços IP e outras informações. **Sem esse código de rastreamento, você não poderá rastrear visitas ou outras atividades em seu site**!
 
 >[!PREREQUISITES]
 >
@@ -54,39 +54,39 @@ O código de rastreamento personalizado JavaScript do Marketo, chamado Munchkin,
 
 >[!TIP]
 >
->Para sites que visualizam um grande volume de tráfego (isto é, centenas de milhares de visitas por mês), recomendamos que você opte por não rastrear pessoas anônimas. [Saiba mais.](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)
+>Para sites que visualizam um grande volume de tráfego (isto é, centenas de milhares de visitas por mês), recomendamos que você opte por não rastrear pessoas anônimas. [Saiba mais](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
 
 ## Adicionar código de rastreamento ao usar vários espaços de trabalho {#add-tracking-code-when-using-multiple-workspaces}
 
 Se você estiver usando espaços de trabalho em sua conta de marketing, provavelmente também terá presenças da Web separadas que correspondem aos seus espaços de trabalho. Nesse caso, você pode usar o Javascript de rastreamento Munchkin para atribuir suas pessoas anônimas ao espaço de trabalho e partição corretos.
 
-1. Vá para Admin e clique em Munchkin na árvore à esquerda.
+1. Vá para **Admin** e clique em **Munchkin** na árvore à esquerda.
 
 ![](assets/image2015-8-25-16-3a28-3a41.png)
 
 1. Selecione a área de trabalho apropriada para as páginas da Web que deseja rastrear.
 
-![](assets/image2015-8-25-16-3a30-3a32.png)
+   ![](assets/image2015-8-25-16-3a30-3a32.png)
 
 >[!NOTE]
 >
 >Se você não usar o código Munchkin do espaço de trabalho especial, as pessoas serão atribuídas à partição padrão que foi criada quando sua conta foi configurada. É chamado de &quot;Padrão&quot; inicialmente, mas você pode ter alterado isso em sua própria conta do Marketing.
 
-1. Selecione Assíncrono para Tipo de código de rastreamento.
+1. Selecione **Assíncrono** para Tipo de código de rastreamento.
 
    ![](assets/image2015-8-25-16-3a32-3a42.png)
 
 1. Clique e copie o código de rastreamento JavaScript a ser colocado em seu site.
 
-![](assets/image2015-8-25-16-3a34-3a7.png)
+   ![](assets/image2015-8-25-16-3a34-3a7.png)
 
->[!CAUTION]
->
->Não use o código mostrado nesta captura de tela. Você deve usar o código exclusivo que aparece em sua conta!
+   >[!CAUTION]
+   >
+   >Não use o código mostrado nesta captura de tela. Você deve usar o código exclusivo que aparece em sua conta!
 
 1. Coloque o código de rastreamento em suas páginas da Web no elemento `<head>`. As novas pessoas que visitarem esta página serão atribuídas a esta partição.
 
-![](assets/image2015-8-25-16-3a5-3a20.png)
+   ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!CAUTION]
 >
@@ -109,6 +109,7 @@ Existem três tipos de códigos de rastreamento Munchkin que você pode escolher
 Para verificar se o código Munchkin está funcionando depois de adicioná-lo:
 
 1. Visite sua página da Web.
+
 1. Vá para **Analytics**.
 
    ![](assets/mainnav-analytics-hand.png)
@@ -124,4 +125,3 @@ Para verificar se o código Munchkin está funcionando depois de adicioná-lo:
    ![](assets/activitysource.png)
 
 1. Clique na guia **Relatório**. Se não vir nenhum dado, aguarde alguns minutos e clique no ícone de atualização na parte inferior.
-
