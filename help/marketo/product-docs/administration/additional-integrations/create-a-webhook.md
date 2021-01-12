@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: Criar um Webhook - Documentos do Marketing - Documentação do produto
 title: Criar um Webhook
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 Use webhooks para aproveitar os serviços da Web de terceiros para enviar mensagens de texto, expandir dados de pessoas e muito mais.
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
-1. Vá para **Admin **e clique em **Webhooks**.
+1. Vá para **Admin** e clique em **Webhooks**.
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
@@ -51,7 +49,4 @@ Use webhooks para aproveitar os serviços da Web de terceiros para enviar mensag
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
 >Saiba mais no mergulho profundo [webhooks](http://developers.marketo.com/documentation/webhooks/).
-
