@@ -3,7 +3,7 @@ unique-page-id: 2360352
 description: Configuração das configurações da API SOAP - Documentos do Marketing - Documentação do produto
 title: Configuração das configurações da API SOAP
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Sugerimos usar a REST API. Saiba mais sobre [dev.marketo.com](http://developers.marketo.com/documentation/rest/).
+>Sugerimos usar a REST API. Saiba mais sobre [developers.marketo.com](http://developers.marketo.com/documentation/rest/).
 
 >[!NOTE]
 >
@@ -36,4 +36,3 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >[Documentação da API SOAP](http://developers.marketo.com/documentation/soap/)
-
