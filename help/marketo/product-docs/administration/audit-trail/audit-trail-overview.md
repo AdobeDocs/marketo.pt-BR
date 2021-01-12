@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Visão geral da trilha de auditoria - Documentos do marketing - Documentação do produto
 title: Visão geral da trilha de auditoria
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Quem está fazendo logon em nossa conta?
 
 ## O que nós auditamos {#what-we-audit}
 
-O Marketo irá auditar as ações [criar, editar e eliminar](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail) para:
+O Marketo irá auditar as ações [criar, editar e eliminar](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) para:
 
 * Projetar ativos de estúdio
 * Todos os programas de marketing
@@ -46,27 +46,27 @@ O Marketo irá auditar as ações [criar, editar e eliminar](http://docs.marketo
 
 >[!NOTE]
 >
->O Marketo é **e não** alterações de auditoria feitas na Personalização da Web, Conteúdo Preditivo ou Insight de Vendas no momento.
+>O Marketo é _e não_ alterações de auditoria feitas na Personalização da Web, Conteúdo Preditivo ou Insight de Vendas no momento.
 
 ## Componentes de trilha de auditoria {#audit-trail-components}
 
 A Trilha de auditoria é composta por três componentes.
 
-**1) Trilha de auditoria de  [ativos](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
+**1) Trilha de auditoria de  [ativos](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 Consulte atividade feita para ativos específicos.
 
-**2) Trilha de auditoria  [do administrador](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
+**2) Trilha de auditoria  [do administrador](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
 Monitore detalhes baseados no usuário.
 
-**3) Histórico de logon  [do usuário](http://docs.marketo.com/display/DOCS/User+Login+History)**
+**3) Histórico de logon  [do usuário](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 Veja quem tem feito logon na sua subscrição e quando. Também inclui tentativas de login com falha.
 
 >[!TIP]
 >
->Há tanto que você pode auditar usando a Trilha de auditoria, certifique-se de utilizar [Filtragem](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
+>Há tanto que você pode auditar usando a Trilha de auditoria, certifique-se de utilizar [Filtragem](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
 
 ## Exportando dados {#exporting-data}
 
@@ -82,9 +82,4 @@ Você só pode visualização 30 dias de dados em sua instância. Para obter (at
 
 >[!MORELIKETHIS]
 >
->* [Ativar Trilha de Auditoria](enable-audit-trail.md)
-
->
-
-
-
+>[Ativar Trilha de Auditoria](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
