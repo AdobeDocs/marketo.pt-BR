@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Perguntas frequentes sobre o rastreamento Munchkin da próxima geração - Documentos do Marketing - Documentação do produto
 title: Perguntas frequentes sobre o rastreamento Munchkin da próxima geração
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,9 @@ Se você já estiver usando esse filtro em uma Lista inteligente (por exemplo, e
 
 >[!NOTE]
 >
->**Exemplo**
->
 >**Acionador**: Visitas à Página da Web, Página da Web é Página de Preços\
->**Fluxo**: Mude a pontuação +10 e o momento interessante,  **Web**: Página de Preços Exibida
+>**Fluxo**: Alterar pontuação +10 e momento interessante
+>**Web**: Página de Preços Exibida
 >
 >Com Munchkin V2, se uma pessoa anônima visitar a página de preços, ela não entra na campanha imediatamente. Quando a pessoa anônima se tornar conhecida, nós vamos colocar essa campanha nela. Ela irá:
 >
@@ -60,9 +59,6 @@ Se você já estiver usando esse filtro em uma Lista inteligente (por exemplo, e
    >
    >
 * Ter uma atividade &quot;Nova Pessoa&quot; registrada, como está hoje
-
->
-
 
 
 ## O que acontece com minhas Listas inteligentes que já têm o filtro &quot;É Anônimo&quot;? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -98,4 +94,4 @@ Confira estes links:
 
 ## Tenho mais perguntas! Como obtenho respostas? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Entre em contato com a [comunidade](https://nation.marketo.com/welcome). Você também pode enviar um email para [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) Eles terão todo o prazer em responder suas perguntas.
+Entre em contato com a [comunidade](https://nation.marketo.com/welcome). Você também pode entrar em contato com o [Suporte ao Marketing](https://nation.marketo.com/t5/Support/ct-p/Support). Eles ficarão felizes em responder suas perguntas.
