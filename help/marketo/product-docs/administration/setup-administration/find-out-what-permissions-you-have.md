@@ -3,9 +3,9 @@ unique-page-id: 2359898
 description: Descubra Quais Permissões Você Tem - Documentos Do Marketing - Documentação Do Produto
 title: Descubra Quais Permissões Você Tem
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se você está se perguntando que permissões tem ou não em Marketo, há uma maneira fácil de descobrir.
 
-1. Vá para** Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,9 +23,8 @@ Se você está se perguntando que permissões tem ou não em Marketo, há uma ma
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
-1. Você verá as permissões assim.
+Você verá as permissões listadas.
 
 ![](assets/image2014-9-8-17-3a45-3a23.png)
 
 Se precisar de alguma das permissões ativadas para você, fale com o administrador do Marketing Cloud.
-
