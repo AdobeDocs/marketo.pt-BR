@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: Ativar trilha de auditoria - Documentos do marketing - Documentação do produto
 title: Ativar Trilha de Auditoria
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -45,17 +45,15 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
    >
    >**Definição**
    >
-   >
    >**Trilha de auditoria de acesso:** concede aos usuários acesso à Trilha de auditoria de ativos e à Trilha de auditoria de administração.
    >
-   >
-   >**Histórico de logon de acesso:** concede aos usuários acesso ao Histórico [ de logon de ](user-login-history.md)usuário.
+   >**Histórico de logon de acesso:** concede aos usuários acesso ao Histórico [ de logon de ](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)usuário.
 
 ## Atribuir função de trilha de auditoria a um usuário {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[Crie ](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) ou  [](#Enable) ative a função existente, dando a ela permissões de Trilha de auditoria.
+>[Crie ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) ou  [](#enable-audit-trail) ative a função existente, dando a ela permissões de Trilha de auditoria.
 
 1. Em **Usuários e funções**, clique em **Usuários**.
 
@@ -75,9 +73,8 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
 
    >[!CAUTION]
    >
-   >Se você tiver espaços de trabalho ativados, verifique a caixa de seleção da função, que seleciona todos os espaços de trabalho. Desmarcar um espaço de trabalho individual ocultará a Trilha de auditoria. Isso significa que você verá os dados de Trilha de auditoria para cada espaço de trabalho. Você tem a opção de ocultar espaços de trabalho quando [filtrar](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
+   >Se você tiver espaços de trabalho ativados, verifique a caixa de seleção da função, que seleciona todos os espaços de trabalho. Desmarcar um espaço de trabalho individual ocultará a Trilha de auditoria. Isso significa que você verá os dados de Trilha de auditoria para cada espaço de trabalho. Você tem a opção de ocultar espaços de trabalho quando [filtrar](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Clique em **Salvar**.
 
    ![](assets/eight-1.png)
-
