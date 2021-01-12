@@ -3,7 +3,7 @@ unique-page-id: 2360358
 description: Restringir o logon do usuário somente para SSO - Documentos de marketing - Documentação do produto
 title: Restringir logon de usuário somente para SSO
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -19,21 +19,21 @@ Se você estiver [usando SSO](add-single-sign-on-to-a-portal.md) e quiser garant
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para Admin e clique em Configurações de logon.
+1. Vá para **Admin** e clique em **Definições de Início de Sessão**.
 
 ![](assets/image2014-9-24-14-3a44-3a40.png)
 
-1. Clique em Editar configurações de segurança.
+1. Clique em **Editar configurações de segurança**.
 
    ![](assets/image2014-9-24-14-3a44-3a53.png)
 
-1. Expanda as configurações avançadas, marque Exigir SSO e clique em Salvar.
+1. Expanda as configurações avançadas, marque **Exigir SSO** e clique em **Salvar**.
 
 ![](assets/image2014-9-24-14-3a45-3a6.png)
 
 >[!TIP]
 >
->Se você selecionar **Exigir SSO**, poderá excluir uma [função de usuário](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) desta restrição, marcando a opção **Ignorar logon único** ao configurar a função. Isso permitirá que os usuários façam logon normalmente. Por exemplo, os usuários administradores ainda podem precisar fazer logon no Marketo pela tela de logon.
+>Se você selecionar **Exigir SSO**, poderá excluir uma [função de usuário](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) desta restrição, marcando a opção **Ignorar logon único** ao configurar a função. Isso permitirá que os usuários façam logon normalmente. Por exemplo, os usuários administradores ainda podem precisar fazer logon no Marketo pela tela de logon.
 
 >[!CAUTION]
 >
