@@ -3,9 +3,9 @@ unique-page-id: 6095008
 description: Adicionar Google AdWords como um Serviço LaunchPoint - Documentos do Marketing - Documentação do produto
 title: Adicionar Google AdWords como um Serviço LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Saiba mais sobre o [recurso de importação de conversão offline do Google](htt
 
 >[!NOTE]
 >
->Você também pode integrar um [Google AdWords como um serviço do Launchpoint com uma conta de gerente](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
+>Você também pode integrar um [Google AdWords como um serviço do Launchpoint com uma conta de gerente](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
 
 1. Vá para a seção **Admin**.
 
@@ -61,7 +61,7 @@ Saiba mais sobre o [recurso de importação de conversão offline do Google](htt
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Carregue suas conversões offline de Marketo para Google AdWords **Weekly **or **Diariamente**.
+1. Carregue suas conversões offline de Marketo para Google AdWords **Weekly** ou **Diariamente**.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -86,13 +86,8 @@ Saiba mais sobre o [recurso de importação de conversão offline do Google](htt
    >
    >[A ](https://support.google.com/adwords/answer/1752125?hl=en) marcação automática deve ser selecionada para que esse recurso funcione. A desativação deve ser feita dentro do AdWords.
 
-   >[!NOTE]
-   >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Definir conversões do Google AdWords no modelo de receita](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-
-
 Ótimo! Consulte o artigo relacionado abaixo para saber como mapear as conversões offline do AdWords no modelo de receita.
+
+>[!MORELIKETHIS]
+>
+>[Definir conversões do Google AdWords no modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
