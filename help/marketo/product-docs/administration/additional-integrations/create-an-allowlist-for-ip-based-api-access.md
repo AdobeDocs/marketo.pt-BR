@@ -3,7 +3,7 @@ unique-page-id: 10098433
 description: Criar uma Lista de permissões para acesso à API baseado em IP - Documentos do Marketing - Documentação do produto
 title: Criar uma Lista de permissões para acesso à API baseado em IP
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. Na área Restrições de IP, clique em **Editar, **ou clique em** Editar restrições de IP **no canto superior esquerdo.
+1. Na área Restrições de IP, clique em **Editar,** ou clique em **Editar restrições de IP** no canto superior esquerdo.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 1. Clique em **Salvar**.
 
    ![](assets/image2016-2-25-9-3a28-3a21.png)
-
