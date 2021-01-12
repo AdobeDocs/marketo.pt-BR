@@ -3,9 +3,9 @@ unique-page-id: 7504893
 description: Adicionar Google AdWords como um serviço Launchpoint com uma conta do gerente - Documentos do marketing - Documentação do produto
 title: Adicionar o Google AdWords como um serviço Launchpoint com uma conta de gerente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Saiba mais sobre o [recurso de importação de conversão offline do Google](htt
 
 >[!NOTE]
 >
->Você também pode integrar uma conta do Google AdWords [independente como um serviço do Launchpoint](add-google-adwords-as-a-launchpoint-service.md).
+>Você também pode integrar uma conta do Google AdWords [independente como um serviço do Launchpoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md).
 
 1. Vá para a seção **Admin**.
 
@@ -63,7 +63,7 @@ Saiba mais sobre o [recurso de importação de conversão offline do Google](htt
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Carregue suas conversões offline de Marketo para Google AdWords **Weekly **or **Diariamente**.
+1. Carregue suas conversões offline de Marketo para Google AdWords **Weekly** ou **Diariamente**.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
@@ -88,14 +88,8 @@ Saiba mais sobre o [recurso de importação de conversão offline do Google](htt
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
-   Iuppee! Consulte o artigo relacionado abaixo para saber como mapear as conversões offline do AdWords no modelo de receita.
+   Consulte o artigo relacionado abaixo para saber como mapear as conversões offline do AdWords no modelo de receita.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Definir conversões do Google AdWords no modelo de receita com uma conta de gerente](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-
-
+   >[Definir conversões do Google AdWords no modelo de receita com uma conta de gerente](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
