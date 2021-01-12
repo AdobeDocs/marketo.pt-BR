@@ -3,9 +3,9 @@ unique-page-id: 11378468
 description: Filtragem na trilha de auditoria - Documentos do Marketing - Documentação do produto
 title: Filtragem na trilha de auditoria
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Filtre por período, tipo de ativo, usuários, ação executada e muito mais.
 
    >[!NOTE]
    >
-   >Há várias combinações possíveis de parâmetros de pesquisa. Neste exemplo, localizamos: *todos os emails - editados por qualquer pessoa - nos sete dias anteriores*.
+   >Há várias combinações possíveis de parâmetros de pesquisa. Neste exemplo, localizamos: _todos os emails - editados por qualquer pessoa - nos sete dias anteriores_.
 
 1. Clique no menu suspenso **Period** e selecione **Últimos 7 dias**.
 
@@ -57,12 +57,6 @@ Filtre por período, tipo de ativo, usuários, ação executada e muito mais.
    >
    >Se os espaços de trabalho estiverem ativados, você verá os dados de auditoria de todos os espaços de trabalho. Se você aplicar um filtro de espaço de trabalho, Marketo lembra o valor anterior da área de trabalho sempre que você usa a trilha de auditoria. As permissões do espaço de trabalho no nível do ativo são aplicadas.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Alterar detalhes na trilha de auditoria](change-details-in-audit-trail.md)
-
-
+   >[Alterar detalhes na trilha de auditoria](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
