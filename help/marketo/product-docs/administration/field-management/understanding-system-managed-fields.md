@@ -3,7 +3,7 @@ unique-page-id: 5472615
 description: Entendendo os campos gerenciados pelo sistema - Documentos do Marketing - Documentação do produto
 title: Noções básicas sobre campos gerenciados pelo sistema
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Entendendo os campos gerenciados pelo sistema {#understanding-system-managed-fields}
 
-Você pode ter notado que a [página de detalhes da pessoa](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) tem uma série de campos não editáveis criados pelo Marketo. Esses dados vêm de várias fontes, e há inúmeros valores que podem ser exibidos.
+Você pode ter notado que a [página de detalhes da pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) tem uma série de campos não editáveis criados pelo Marketo. Esses dados vêm de várias fontes, e há inúmeros valores que podem ser exibidos.
 
 ## Tipos de campo {#field-types}
 
@@ -67,4 +67,3 @@ Abaixo estão alguns valores possíveis e o que eles significam.
 | API Munchkin | Tornou-se uma pessoa através da API Munchkin do Marketo |
 | Aplicativo social | Torne-se uma pessoa através de um widget social |
 | Parceiro evento | Tornou-se uma pessoa por meio de um serviço de webinar vinculado |
-
