@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: Glossário de tipo de campo personalizado - Documentos do Marketing - Documentação do produto
 title: Glossário de tipo de campo personalizado
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,11 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 >[!PREREQUISITES]
 >
->* [Criar um campo personalizado no Marketo](create-a-custom-field-in-marketo.md)
-
->
-
-
+>[Criar um campo personalizado no Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->Dependendo do tipo de campo, os operadores [filter/trigger](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary) serão diferentes.
+>Dependendo do tipo de campo, os operadores [filter/trigger](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) serão diferentes.
 
 >[!NOTE]
 >
@@ -67,7 +63,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 **Nome do exemplo:Email** alternativo - Mantenha um endereço de email alternativo para sua pessoa (não é possível enviar emails para esse campo como o campo de endereço de email padrão, este é especial)
 
-**Valores de exemplo:** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
+**Valores de exemplo:** name@company.com
 
 **Operadores**: is, is not, start com, not start com, contém, não contém, está vazio, não está vazio
 
@@ -81,7 +77,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Fórmula {#formula}
 
-**Nome do exemplo:** Salutations - use esse campo especial em uma  [solução para obter a ](create-and-use-a-concatenated-string-formula-field.md) saudação correta com base no gênero
+**Nome do exemplo:** Salutations - use esse campo especial em uma  [solução para obter a ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) saudação correta com base no gênero
 
 **Valores de exemplo:** verificar a solução vinculada
 
