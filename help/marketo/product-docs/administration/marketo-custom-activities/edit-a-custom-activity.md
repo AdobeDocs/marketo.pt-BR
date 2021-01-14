@@ -3,7 +3,7 @@ unique-page-id: 10100269
 description: Editar uma Atividade personalizada - Documentos de marketing - Documentação do produto
 title: Editar uma Atividade personalizada
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -44,4 +44,3 @@ Precisa fazer alterações em uma atividade personalizada que você já criou? V
    >[!NOTE]
    >
    >Se a sua atividade foi um rascunho no momento da edição, ele permanece um rascunho. Se foi publicado, o status muda para Publicado com rascunho.
-
