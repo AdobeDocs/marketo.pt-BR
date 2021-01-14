@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Adicionar campos de link de objeto personalizado do Marketo - Documentos do Marketo - Documentação do produto
 title: Adicionar campos de link de objeto personalizado de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,6 @@ Veja como criar um campo de link em um objeto personalizado para uma estrutura u
    >
    >Se você escolher o cliente potencial, verá ID, endereço de email e quaisquer campos personalizados na lista.
    >
-   >
    >Se você escolher empresa, verá ID e quaisquer campos personalizados na lista.
 
 1. Selecione o campo de link ao qual você deseja se conectar como o pai do novo campo.
@@ -81,7 +80,7 @@ Veja como criar um campo de link em um objeto intermediário para uso em uma est
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. Na guia **Campos **, clique em **Novo campo**.
+1. Na guia **Campos**, clique em **Novo campo**.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
@@ -121,16 +120,10 @@ A próxima etapa é usar esses objetos personalizados em filtros em suas campanh
 
 ![](assets/image2016-1-14-15-3a57-3a59.png)
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artigos relacionados**
->
->* [Adicionar campos de objeto personalizados de marketing](add-marketo-custom-object-fields.md)
->* [Editar e excluir um objeto personalizado de marketing](edit-and-delete-a-marketo-custom-object.md)
->* [Como entender objetos personalizados de marketing](understanding-marketo-custom-objects.md)
->* [Editar e excluir campos de objetos personalizados de marketing](edit-and-delete-marketo-custom-object-fields.md)
-
->
-
-
+>* [Adicionar campos de objeto personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Editar e excluir um objeto personalizado de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Como entender objetos personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Editar e excluir campos de objetos personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 
