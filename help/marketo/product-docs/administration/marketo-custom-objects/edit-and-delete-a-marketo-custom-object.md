@@ -3,7 +3,7 @@ unique-page-id: 10093690
 description: Editar e excluir um objeto personalizado de marketing - Documentos de marketing - Documentação do produto
 title: Editar e excluir um objeto personalizado de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Use o menu Ações de objeto personalizadas para editar ou excluir um objeto per
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. Certifique-se de aprovar [o objeto editado](approve-a-custom-object.md).
+1. Certifique-se de aprovar [o objeto editado](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
 ## Excluir um objeto personalizado {#delete-a-custom-object}
 
@@ -81,5 +81,4 @@ Use o menu Ações de objeto personalizadas para editar ou excluir um objeto per
 
 >[!MORELIKETHIS]
 >
->[Aprovar um objeto personalizado](approve-a-custom-object.md)
-
+>[Aprovar um objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
