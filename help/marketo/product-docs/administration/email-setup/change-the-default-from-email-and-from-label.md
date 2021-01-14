@@ -3,7 +3,7 @@ unique-page-id: 2360247
 description: Altere o padrão do e-mail e da etiqueta - Documentos de marketing - Documentação do produto
 title: Alterar o padrão do rótulo de e-mail e de
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
