@@ -3,9 +3,9 @@ unique-page-id: 6848782
 description: Torne a sua mensagem de cancelamento de assinatura dinâmica para idiomas - documentos de marketing - documentação do produto
 title: Tornar sua mensagem de cancelamento de assinatura dinâmica para idiomas
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,19 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 >
 >Configuramos este belo tutorial abaixo para você. Representa uma prática recomendada, mas isso pode ser feito de outras formas.
 
-1. Preparar seus dados
-1. [Crie um ](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)campo personalizado chamado &quot;Idioma preferencial&quot;. (Configure-o no CRM se desejar que esse campo seja sincronizado).
+## Preparar seus dados {#prepare-your-data}
+
+1. [Crie um ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) campo personalizado chamado &quot;Idioma preferencial&quot;. (Configure-o no CRM se desejar que esse campo seja sincronizado).
 
    >[!TIP]
    >
-   >No futuro, use esse campo quando [criar um formulário](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) para capturar a preferência de idioma.
+   >No futuro, use esse campo quando [criar um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) para capturar a preferência de idioma.
 
-1. Criar segmentação
+## Criar segmentação {#create-segmentation}
+
 1. Vá para **Banco de Dados**.
-** ![](assets/db.png)
 
-   **
+   ![](assets/db.png)
 
 1. Na lista suspensa **Novo**, clique em **Nova segmentação**.
 
@@ -64,16 +65,15 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
-1. Criar um trecho
+## Criar um fragmento {#create-a-snippet}
+
 1. Vá para o **Design Studio**.
 
    ![](assets/ds.png)
 
 1. Na lista suspensa **Novo**, clique em **Novo trecho**.
 
-   ** ![](assets/ten.png)
-
-   **
+   ![](assets/ten.png)
 
 1. Nomeie o snippet **Cancelar assinatura da mensagem**. Clique em **Criar**.
 
@@ -83,7 +83,7 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Copie e cole este token: **`{{system.unsubscribeLink}}`** no campo **Vincular URL**. Clique em **Inserir**.
+1. Copie e cole este token: `{{system.unsubscribeLink}}` no campo **Vincular URL**. Clique em **Inserir**.
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
@@ -99,7 +99,7 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Copie e cole o mesmo token: **`{{system.unsubscribeLink}}`** no campo **Vincular URL**. Clique em **Inserir**.
+1. Copie e cole o mesmo token: `{{system.unsubscribeLink}}` no campo **Vincular URL**. Clique em **Inserir**.
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
@@ -109,7 +109,8 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    Incrível. Quase lá.
 
-1. Usar fragmento em um email
+## Usar trecho em um email {#use-snippet-in-an-email}
+
 1. No editor de email, clique no elemento editável. Em seguida, clique no ícone de engrenagem e selecione **Substituir por trecho**. Se você estiver selecionando um elemento de trecho editável, clique no ícone de engrenagem e selecione **Editar**.
 
    ![](assets/4.1.png)
@@ -134,27 +135,27 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
    >
    >É claro, você também pode editar o restante do seu email para um idioma dinâmico. Enquanto estiver nela, faça a mesma técnica na página de cancelamento de inscrição.
 
-1. Personalizar sua página de cancelamento de assinatura com conteúdo dinâmico
+## Personalizar sua página de cancelamento de assinatura com conteúdo dinâmico {#customizing-your-unsubscribe-page-with-dynamic-content}
 
-   Se você quiser que seu pessoal acesse uma página de cancelamento de inscrição em seu idioma preferido, você poderá usar o conteúdo dinâmico na landing page e na página de confirmação.
+Se você quiser que seu pessoal acesse uma página de cancelamento de inscrição em seu idioma preferido, você poderá usar o conteúdo dinâmico na landing page e na página de confirmação.
 
-   Navegue até o Design Studio.
+1. Navegue até o Design Studio.
 
    ![](assets/ds.png)
 
-   Digite Cancelar inscrição no campo de pesquisa. Você deve encontrar suas páginas Cancelar inscrição.
+1. Digite _Cancelar assinatura_ no campo de pesquisa. Você deve encontrar suas páginas Cancelar inscrição.
 
    ![](assets/image2015-3-9-8-3a51-3a53.png)
 
-   Clique em Editar rascunho.
+1. Clique em **Editar rascunho**.
 
    ![](assets/image2015-3-9-8-3a52-3a23.png)
 
-   Selecione Segmentar por.
+1. Selecione **Segmentar por**.
 
    ![](assets/image2015-3-9-8-3a52-3a57.png)
 
-   Encontre o segmento Idioma preferencial. Clique em Salvar.
+1. Encontre o segmento Idioma preferencial. Clique em **Salvar**.
 
    ![](assets/image2015-3-9-8-3a53-3a54.png)
 
@@ -162,8 +163,4 @@ A mensagem e o link padrão de cancelamento de inscrição estão em inglês. Vo
 
    >[!NOTE]
    >
-   >**Mergulho profundo**
-   >
-   >
-   >Saiba mais sobre [conteúdo dinâmico](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) e todas as coisas legais que você pode fazer.
-
+   >Saiba mais sobre [conteúdo dinâmico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) e todas as coisas legais que você pode fazer.
