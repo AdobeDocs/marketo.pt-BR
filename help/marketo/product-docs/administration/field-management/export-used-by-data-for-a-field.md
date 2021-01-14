@@ -3,7 +3,7 @@ unique-page-id: 45417092
 description: Exportar dados usados por um campo - Documentos do Marketing - Documentação do produto
 title: Exportar dados usados por um campo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Como Administrador, você pode exportar ativos relacionados de um campo para pod
    >[!TIP]
    >
    >Cada ativo relacionado é um link que pode ser clicado e será aberto no Marketo.
-
