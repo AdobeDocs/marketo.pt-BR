@@ -3,7 +3,7 @@ unique-page-id: 2360335
 description: Bloquear atualizações de campo durante importação de Lista de fontes não confiáveis - Documentos do Marketing - Documentação do produto
 title: Bloquear atualizações de campo durante importação de Lista de fontes não confiáveis
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -41,10 +41,10 @@ Repita as etapas acima para quaisquer outros campos que você deseja manter segu
 
 ## Execução de uma Importação de Lista Não Confiável {#running-an-untrusted-list-import}
 
-1. Ao executar sua importação de lista, selecione **Não confiável **se desejar que todos os campos configurados na etapa anterior sejam seguros.
+1. Ao executar a importação de lista, selecione **Não confiável** se quiser que todos os campos configurados na etapa anterior sejam seguros.
 
    ![](assets/importpersondetails.jpg)
 
-Para obter instruções detalhadas sobre como importar listas, consulte [Importar uma Lista de Pessoas](../../../getting-started/quick-wins/import-a-list-of-people.md).
+Para obter instruções detalhadas sobre como importar listas, consulte [Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
 Bom trabalho! Agora você sabe como manter os campos chave seguros contra listas não confiáveis.
