@@ -3,7 +3,7 @@ unique-page-id: 2360337
 description: Criar e usar um campo de string concatenada (Fórmula) - Documentos do marketing - Documentação do produto
 title: Criar e usar um campo de string concatenada (fórmula)
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Saiba mais sobre [tokens para etapas de fluxo](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   Saiba mais sobre [tokens para etapas de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Agora você pode adicionar o campo de fórmula como um token em um email.
 
@@ -50,4 +50,3 @@ Bom trabalho! Agora você tem um campo inteligente que sabe qual saudação incl
 >[!NOTE]
 >
 >Campos de fórmula podem ser usados em landings page, emails e colunas de lista inteligente; não são exportados. Emails com campos de fórmula não podem ser enviados por campanhas em lote
-
