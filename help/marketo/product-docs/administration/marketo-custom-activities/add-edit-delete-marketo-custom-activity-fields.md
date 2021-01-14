@@ -3,7 +3,7 @@ unique-page-id: 10100275
 description: Adicionar/Editar/Excluir campos de Atividade personalizados de marketing - Documentos de marketing - Documentação do produto
 title: Adicionar/editar/excluir campos de Atividade personalizados de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo eliminar um campo de at
 
    >[!TIP]
    >
-   >Não tem certeza do que selecionar? Nós te cobrimos! Todos os tipos de dados disponíveis estão definidos em [este artigo](../../../product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Não tem certeza do que selecionar? Nós te cobrimos! Todos os tipos de dados disponíveis estão definidos em [este artigo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Nomeie o campo. O Nome da Api é preenchido automaticamente. Quando terminar, clique em **Salvar**.
 
@@ -94,4 +94,3 @@ Seu campo agora é editado!
    ![](assets/thirteen.png)
 
    É tão fácil assim!
-
