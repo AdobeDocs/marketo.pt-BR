@@ -3,9 +3,9 @@ unique-page-id: 10095453
 description: Editar e excluir campos de objeto personalizado de marketing - documentos de marketing - documentação do produto
 title: Editar e excluir campos de objetos personalizados de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -49,14 +49,10 @@ Quando você não precisa mais de um campo em um objeto personalizado, é possí
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
-1. Acabou!
+   Acabou!
 
    ![](assets/image2015-10-2-11-3a15-3a48.png)
 
    >[!NOTE]
    >
-   >**Artigos relacionados**
-   >
-   >
-   >[Adicionar campos de objeto personalizados de marketing](add-marketo-custom-object-fields.md)
-
+   >[Adicionar campos de objeto personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
