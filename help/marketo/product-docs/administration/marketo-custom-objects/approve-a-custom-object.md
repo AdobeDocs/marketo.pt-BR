@@ -3,7 +3,7 @@ unique-page-id: 10094188
 description: Aprovar um objeto personalizado - Documentos de marketing - Documentação do produto
 title: Aprovar um objeto personalizado
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -33,16 +33,13 @@ Você criou um novo objeto personalizado. Aqui está como aprová-lo.
 
    >[!NOTE]
    >
-   >Um objeto personalizado usado em uma *estrutura um para muitos* deve ter pelo menos um campo de dedupe, um campo de link, um nome de objeto vinculado e um nome de campo vinculado a ser aprovado.
+   >Um objeto personalizado usado em uma _estrutura um para muitos_ deve ter pelo menos um campo de dedupe, um campo de link, um nome de objeto vinculado e um nome de campo vinculado a ser aprovado.
    >
+   >Um objeto personalizado usado em uma _estrutura muitas para muitas_ **não** precisa de um campo de link, nome de objeto vinculado ou nome de campo vinculado ao aprová-lo (porque eles vivem no objeto intermediário).
    >
-   >Um objeto personalizado usado em uma *estrutura muitas para muitas* **não** precisa de um campo de link, nome de objeto vinculado ou nome de campo vinculado ao aprová-lo (porque eles vivem no objeto intermediário).
+   >Um objeto personalizado usado como um _objeto intermediário_ requer um campo de link, um nome de objeto vinculado e um nome de campo vinculado, mas **não** requer um campo de dedupe.
    >
-   >
-   >Um objeto personalizado usado como um *objeto intermediário* requer um campo de link, um nome de objeto vinculado e um nome de campo vinculado, mas **não** requer um campo de dedupe.
-   >
-   >
-   >Consulte [Entendendo objetos personalizados de marketing](understanding-marketo-custom-objects.md) para obter mais informações.
+   >Consulte [Entendendo objetos personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obter mais informações.
 
 É isso! Agora, você pode selecionar seu objeto personalizado nas restrições de seus filtros e acionadores para usar em suas campanhas.
 
@@ -61,4 +58,3 @@ Depois de editar um objeto personalizado aprovado, você deve aprovar o rascunho
 1. Uma pré-visualização exibe os itens que foram alterados no rascunho. Clique em **Aprovar**.
 
    ![](assets/six-1.png)
-
