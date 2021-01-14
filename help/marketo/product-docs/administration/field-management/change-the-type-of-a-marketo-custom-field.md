@@ -3,9 +3,9 @@ unique-page-id: 2360331
 description: Alterar o tipo de um campo personalizado de marketing - Documentos de marketing - Documentação do produto
 title: Alterar o tipo de um campo personalizado de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Veja como alterar o tipo de campo de um Campo personalizado.
 
-1. Vá para **Admin **e clique em **Gerenciamento de campo**.
+1. Vá para **Admin** e clique em **Gerenciamento de campo**.
 
    ![](assets/image2014-9-18-13-3a4-3a39.png)
 
@@ -35,7 +35,7 @@ Veja como alterar o tipo de campo de um Campo personalizado.
 
    ![](assets/image2015-4-22-9-3a39-3a3.png)
 
-1. Leia o aviso e clique em **Alterar **para confirmar.
+1. Leia o aviso e clique em **Alterar** para confirmar.
 
    ![](assets/image2014-9-18-13-3a5-3a23.png)
 
@@ -43,13 +43,6 @@ Veja como alterar o tipo de campo de um Campo personalizado.
    >
    >A mensagem de aviso que você vê varia dependendo do tipo de campo de/para.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Criar um campo personalizado no Marketo](create-a-custom-field-in-marketo.md)
-
-
-Seu campo personalizado agora é de um tipo diferente. Rápido!
+   >[Criar um campo personalizado no Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
