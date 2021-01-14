@@ -3,7 +3,7 @@ unique-page-id: 10098479
 description: Criar uma Atividade personalizada - Documentos do marketing - Documentação do produto
 title: Criar uma Atividade personalizada
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -51,9 +51,4 @@ Siga estas etapas para criar uma nova atividade personalizada.
 
 >[!MORELIKETHIS]
 >
->* [Como entender Atividades personalizadas](understanding-custom-activities.md)
-
->
-
-
-
+>[Como entender Atividades personalizadas](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
