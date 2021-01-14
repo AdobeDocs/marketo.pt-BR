@@ -3,7 +3,7 @@ unique-page-id: 11378051
 description: Substituir domínio primário para emails - Documentos do marketing - Documentação do produto
 title: Substituir domínio primário por e-mails
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Você pode substituir o domínio da marca principal por email. Isso mudará a fo
    >[!NOTE]
    >
    >Nem todos os usuários têm permissões para definir o domínio de marca por email. Entre em contato com seu administrador se não vir o menu suspenso Domínios da marca.
-
