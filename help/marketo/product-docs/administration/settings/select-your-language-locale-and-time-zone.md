@@ -3,9 +3,9 @@ unique-page-id: 2359904
 description: Selecione seu idioma, localidade e fuso horário - Documentos do Marketing - Documentação do produto
 title: Selecione seu idioma, localidade e fuso horário
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ Inglês não é sua primeira língua? Não se preocupe, nós estamos cobertos. V
 
 ## Alterar o idioma do usuário, a localidade e o fuso horário {#change-user-language-locale-and-time-zone}
 
-1. Faça logon no Marketo e, em seu nome, selecione Minha conta.
+1. Faça logon no Marketo e, em seu nome, selecione **Minha conta**.
 
    ![](assets/myaccount.png)
 
-1. Em Minha conta, clique em Editar configurações de localização.
+1. Em Minha conta, clique em **Editar configurações de localização**.
 
    ![](assets/image2014-9-9-11-3a9-3a47.png)
 
-1. Altere seu idioma.
+1. Altere seu **Idioma**.
 
    ![](assets/image2014-9-9-11-3a10-3a4.png)
 
@@ -42,15 +42,15 @@ Inglês não é sua primeira língua? Não se preocupe, nós estamos cobertos. V
    >
    >Você também tem a opção de alterar apenas seu idioma clicando no menu suspenso do idioma na parte superior da página de logon.
 
-1. Mude a localidade.
+1. Altere **Locale**.
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-1. Altere seu fuso horário.
+1. Altere seu **Fuso Horário**.
 
    ![](assets/image2014-9-9-11-3a10-3a56.png)
 
-1. Clique em Salvar.
+1. Clique em **Salvar**.
 
    ![](assets/image2014-9-9-11-3a11-3a18.png)
 
