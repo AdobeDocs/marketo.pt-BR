@@ -3,9 +3,9 @@ unique-page-id: 2950660
 description: Criar tags personalizadas - Documentos de marketing - Documentação do produto
 title: Criar tags personalizadas
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ As tags ajudarão você a organizar seus programas, enquanto os canais ajudarão
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Consulte [Entendendo Tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para obter mais informações.
+>Consulte [Entendendo Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para obter mais informações.
 
 >[!NOTE]
 >
