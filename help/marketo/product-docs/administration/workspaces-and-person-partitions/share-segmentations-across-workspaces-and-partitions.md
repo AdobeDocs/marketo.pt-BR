@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: Compartilhar segmentações entre espaços de trabalho e partições - Documentos de marketing - Documentação do produto
 title: Compartilhar segmentações entre espaços de trabalho e partições
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Este artigo destina-se apenas aos clientes que possuem espaços de trabalho e partições
+>Este artigo destina-se apenas aos clientes que possuem espaços de trabalho e partições.
 
 ## O que é uma segmentação? {#whats-a-segmentation}
 
@@ -23,11 +23,9 @@ Marketo é ótimo em escolher as pessoas certas para um programa ou campanha int
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Saiba mais sobre [como criar segmentações](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Saiba mais sobre [como criar segmentações](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Depois de configurar essas personas (**e** você usa espaços de trabalho), você desejará compartilhá-las em seus espaços de trabalho. Aqui estão algumas coisas boas para se saber:
+Depois de configurar essas personas (_e_ você usa espaços de trabalho), você desejará compartilhá-las em seus espaços de trabalho. Aqui estão algumas coisas boas para se saber:
 
 ## Regras e dicas {#rules-tips}
 
@@ -38,12 +36,10 @@ Depois de configurar essas personas (**e** você usa espaços de trabalho), voc�
 * O processamento de segmentação só é executado nas pessoas no espaço de trabalho onde a Segmentação é criada.
 
    * Crie a Segmentação que deseja compartilhar dentro da Área de trabalho padrão.
-
       * Aprovar a segmentação
       * O espaço de trabalho compartilhado vê uma pasta bloqueada e a Segmentação é somente leitura.
       * Não é possível editar a versão compartilhada. Você só pode editar a Segmentação original onde ela foi criada.
    * Ao clicar em um Segmento (por exemplo, Saúde) em uma Segmentação compartilhada, as pessoas que você vê serão apenas pessoas na partição associada ao espaço de trabalho que você está visualizando.
-
       * Se você criar uma Segmentação no Workspace 1 (WS1) e compartilhá-la com WS2 e WS1 não tiver acesso à partição para WS2, ela NÃO recalculará a Segmentação.
       * Se você criar uma Segmentação em um espaço de trabalho que tenha partições limitadas e, em seguida, compartilhá-la com outro espaço de trabalho, esse espaço de trabalho que recebeu a Segmentação compartilhada só verá pessoas se elas tiverem sobreposição.
 
@@ -56,21 +52,19 @@ Depois de configurar essas personas (**e** você usa espaços de trabalho), voc�
 
 ![](assets/image2015-5-27-16-3a26-3a25.png)
 
-** ![](assets/image2015-5-27-16-3a26-3a48.png)
-
-**
+![](assets/image2015-5-27-16-3a26-3a48.png)
 
 ## Compartilhar uma segmentação {#share-a-segmentation}
 
-1. Vá para o Banco de Dados.
+1. Vá para **Banco de Dados**.
 
    ![](assets/image2017-3-29-8-3a15-3a40.png)
 
-1. Clique com o botão direito do mouse em Segmentações e selecione Novas pastas.
+1. Clique com o botão direito do mouse em **Segmentações** e selecione **Novas Pastas**.
 
    ![](assets/image2017-3-29-8-3a40-3a31.png)
 
-1. Nomeie a pasta que você vai compartilhar entre as áreas de trabalho (por exemplo: Compartilhar segmentações.)
+1. Nomeie a pasta que você vai compartilhar entre as áreas de trabalho (por exemplo: Compartilhar segmentações).
 
    ![](assets/image2017-3-29-8-3a40-3a45.png)
 
@@ -78,11 +72,11 @@ Depois de configurar essas personas (**e** você usa espaços de trabalho), voc�
 
    ![](assets/image2017-3-29-8-3a41-3a3.png)
 
-1. Clique com o botão direito do mouse na pasta e selecione Compartilhar pasta.
+1. Clique com o botão direito do mouse na pasta e selecione **Compartilhar pasta**.
 
    ![](assets/image2017-3-29-8-3a41-3a19.png)
 
-1. Selecione os espaços de trabalho com os quais deseja compartilhar a pasta. Clique em Salvar.
+1. Selecione os espaços de trabalho com os quais deseja compartilhar a pasta. Clique em **Salvar**.
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 
@@ -91,10 +85,3 @@ Depois de configurar essas personas (**e** você usa espaços de trabalho), voc�
    >A caixa de diálogo exibe os espaços de trabalho aos quais você tem permissão para visualização, e é por isso que Marketo recomenda criar e compartilhar Segmentações a partir do espaço de trabalho Padrão que tem visibilidade em todos os espaços de trabalho e partições.
 
 A pasta de origem é exibida na árvore Banco de Dados com uma seta indicando que ela é compartilhada com outros espaços de trabalho. No espaço de trabalho compartilhado, a pasta é exibida com um bloqueio para indicar que o conteúdo da pasta foi compartilhado de outro espaço de trabalho e é somente leitura.
-
->[!NOTE]
->
->**Artigos relacionados**
->
->[Segmentação e trechos](http://docs.marketo.com/display/docs/segmentation+and+snippets)
-
