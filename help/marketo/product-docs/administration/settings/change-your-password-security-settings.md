@@ -3,9 +3,9 @@ unique-page-id: 2360185
 description: Altere suas configurações de segurança de senha - Documentos de marketing - Documentação do produto
 title: Alterar suas configurações de segurança de senha
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,6 @@ Controlar a política de senha da sua subscrição. Veja como.
 
    >[!NOTE]
    >
-   >**Definição**
-   >
-   >
    >Um modelo é apenas uma configuração predefinida. O padrão é bom. Alta segurança é a mais forte. Personalizado permite que você faça o seu próprio.
 
    ![](assets/passwordstrength.png)
@@ -42,11 +39,11 @@ Controlar a política de senha da sua subscrição. Veja como.
    >
    >Em **Personalizado**, marque as caixas para indicar quais características você deseja que os usuários incluam ao criar senhas.
 
-1. Defina **Expiração**.** **Este recurso exige automaticamente que os usuários redefinam suas senhas após um determinado período de tempo. Isso inclui o usuário administrador também.
+1. Defina **Expiração**. Este recurso exige automaticamente que os usuários redefinam suas senhas após um determinado período de tempo. Isso inclui o usuário administrador também.
 
    >[!CAUTION]
    >
-   >Os usuários existentes não serão notificados das alterações. Defina **Expiração **como 30 dias primeiro para garantir que todos tenham atualizado para as novas configurações e, em seguida, altere isso de volta para sua cadência original.
+   >Os usuários existentes não serão notificados das alterações. Defina **Expiração** como 30 dias primeiro para garantir que todos tenham atualizado para as novas configurações e, em seguida, altere isso de volta para sua cadência original.
 
    ![](assets/expiration.png)
 
@@ -55,4 +52,3 @@ Controlar a política de senha da sua subscrição. Veja como.
    ![](assets/inactivesession.png)
 
    Segurança é um assunto sério. Nós te protegemos.
-
