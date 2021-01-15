@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: Editar expiração de link em relatórios e alertas - Documentos do marketing - Documentação do produto
 title: Editar expiração de link em relatórios e alertas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,4 @@ Legal, você editou suas configurações de expiração de link de email.
 
 >[!NOTE]
 >
->**Lembrete**
->
 >Lembre-se, esses apenas se aplicam a links em relatórios e alertas, não a emails de marketing.
-
