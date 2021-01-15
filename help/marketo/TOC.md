@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guia de marketing
 user-guide-description: Documentação do produto do Marketing to
 translation-type: tm+mt
-source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '7840'
+source-wordcount: '7829'
 ht-degree: 0%
 
 ---
@@ -1120,7 +1120,6 @@ ht-degree: 0%
             + [Testar e-mail não exibido como exibido](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + Delivery de e-mail {#email-delivery}
             + [Visão geral do Canal do delivery](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-            + [Como configurar seu servidor SMTP Outlook365 com o Sales Connect](product-docs/marketo-sales-connect/email/email-delivery/how-to-set-up-your-outlook365-smtp-server-with-sales-connect.md)
             + [Configuração de um servidor SMTP](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
             + [Configuração do Canal do Delivery](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
          + Enviar Um Email De Vendas {#send-a-sales-email}
