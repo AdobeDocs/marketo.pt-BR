@@ -3,7 +3,7 @@ unique-page-id: 2360211
 description: Ativar a permissão de importação de Lista avançada em uma função - Documentos de marketing - Documentação do produto
 title: Ativar a permissão de importação de Lista avançada em uma função
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -27,7 +27,7 @@ O Modo de importação de lista só está disponível para usuários com uma fun
 
    ![](assets/image2014-9-17-11-3a50-3a38.png)
 
-1. Na guia **Funções **, selecione a função que deseja modificar e clique em **Editar função**.
+1. Na guia **Funções**, selecione a função que deseja modificar e clique em **Editar Função**.
 
    ![](assets/image2014-9-17-11-3a51-3a49.png)
 
