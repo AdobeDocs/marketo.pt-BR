@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: Criar um novo espaço de trabalho - Documentos do marketing - Documentação do produto
 title: Criar um novo espaço de trabalho
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,11 @@ Veja como criar um novo espaço de trabalho.
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Compreenda primeiro com [Compreensão de espaços de trabalho e partições pessoais](understanding-workspaces-and-person-partitions.md).
+>Compreenda primeiro com [Compreensão de espaços de trabalho e partições pessoais](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Para saber mais sobre as práticas recomendadas do Workspace, entre em contato com [Serviços profissionais do Marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
+>Para saber mais sobre as práticas recomendadas do Workspace, entre em contato com [Serviços profissionais do Marketing](mailto:services@marketo.com).
 
 1. Em **Admin**, clique em **Espaços de trabalho e partições**.
 
@@ -42,33 +40,25 @@ Veja como criar um novo espaço de trabalho.
 
    ![](assets/two-1.png)
 
-1. Digite um** Name** e selecione as **Partições da Pessoa** que deseja usar. Escolha uma **Partição de Pessoa Principal**.
+1. Insira um **Nome** e selecione as **Partições de Pessoas** que pretende utilizar. Escolha uma **Partição de Pessoa Principal**.
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Certifique-se de [criar partições de pessoa](create-a-person-partition.md), caso ainda não o tenha feito.
+   >Certifique-se de [criar partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md), caso ainda não o tenha feito.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >A caixa de seleção **Todas as partições de pessoa****** significa que esta área de trabalho pode usar todas as partições de pessoa no sistema.
-
-   >[!NOTE]
+   >A caixa de seleção **Todas as partições de pessoa** significa que essa área de trabalho pode usar todas as partições de pessoa no sistema.
    >
-   >**Lembrete**
-   >
-   >
-   >A partição** de pessoa principal** atua como padrão e é onde todas as pessoas serão atribuídas.
+   >A partição **pessoa principal** atua como padrão e é onde todas as pessoas serão atribuídas.
 
    Se você ativou vários domínios de marca, é necessário escolher um domínio de marca primária.
 
    ![](assets/four-1.png)
 
-   Selecione o idioma do espaço de trabalho.
+1. Selecione o idioma do espaço de trabalho.
 
    >[!NOTE]
    >
@@ -85,4 +75,3 @@ Veja como criar um novo espaço de trabalho.
    Depois de criar o espaço de trabalho, você deve ver a atualização!
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)
-
