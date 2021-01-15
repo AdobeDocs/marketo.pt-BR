@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: Excluir um Canal de Programa - Documentos do Marketing - Documentação do produto
 title: Excluir um Canal de Programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Canais de programa são uma coleção de status ou pontos de verificação que d
 
 Se você fizer um por acidente ou não precisar mais de um, você pode excluí-lo.
 
-1. Vá para a seção ** Admin**.
+1. Vá para a seção **Admin**.
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
@@ -33,13 +33,4 @@ Se você fizer um por acidente ou não precisar mais de um, você pode excluí-l
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-Bam! Você também pode [excluir status específicos de canais](delete-a-program-status-from-a-program-channel.md).
-
->[!MORELIKETHIS]
->
->* [Excluir um status de Programa de um Canal de Programa](delete-a-program-status-from-a-program-channel.md)
-
->
-
-
-
+Bam! Você também pode [excluir status específicos de canais](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
