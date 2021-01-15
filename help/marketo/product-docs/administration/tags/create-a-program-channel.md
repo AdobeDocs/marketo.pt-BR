@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: Criar um Canal de Programa - Documentos do Marketing - Documentação do produto
 title: Criar um Canal de Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Um programa é uma iniciativa de marketing específica. O canal deve ser o mecan
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Saiba mais sobre [programas](http://docs.marketo.com/display/docs/programs), o elemento mais importante no Marketo.
+>Saiba mais sobre [programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), o elemento mais importante no Marketo.
 
 1. Na seção **Admin**, clique em **Tags**.
 
@@ -45,27 +43,20 @@ Um programa é uma iniciativa de marketing específica. O canal deve ser o mecan
    >
    >**Exemplo**
    >
-   >
    >Canal: Outdoor
    >
-   >    
-   >    
-   >    * Aplicar a: Padrão
-   >    * Progressão: Membro, Envolvido (em caso de dúvida, estes funcionam bem)
-   >    * Sucesso: Envolvido
+   >* Aplicar a: Padrão
+   >* Progressão: Membro, Envolvido (em caso de dúvida, estes funcionam bem)
+   >* Sucesso: Envolvido
 
-   >    
-   >    
+   >
    >Canal: Parte
    >
-   >    
-   >    
-   >    * Aplicar a: Evento
-   >    * Progressão: Convidado, Registrado, Sem Mostrar e Participante
-   >    * Sucesso: Participante
+   >* Aplicar a: Evento
+   >* Progressão: Convidado, Registrado, Sem Mostrar e Participante
+   >* Sucesso: Participante
 
-   >    
-   >    
+   >
    >Confira as Progressões de canais existentes para ter uma ideia de como usá-los.
 
 1. Vamos ver o exemplo do canal do Partido. Nomeie seu novo **Canal** e selecione o tipo de programa ao qual ele será aplicado.
@@ -113,10 +104,7 @@ Um programa é uma iniciativa de marketing específica. O canal deve ser o mecan
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Somente as pessoas com **Status de check-in móvel**** **de **Registradas** e **Participadas** estarão visíveis nos [Aplicativos de check-in móveis](http://docs.marketo.com/display/docs/events).
+   >Somente pessoas com **Status de check-in móvel** de **Registradas** e **Participadas** estarão visíveis nos [Aplicativos de check-in móveis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
@@ -127,4 +115,3 @@ Um programa é uma iniciativa de marketing específica. O canal deve ser o mecan
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
    Muito bem! Quando você fizer um novo programa desse tipo, esse novo canal será uma das opções.
-
