@@ -3,9 +3,9 @@ unique-page-id: 2360321
 description: Alterar o nome de uma área de trabalho - Documentos do marketing - Documentação do produto
 title: Alterar o nome de uma área de trabalho
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Criar um novo espaço de trabalho](create-a-new-workspace.md)
+>[Criar um novo espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 Os usuários podem alterar o nome de um espaço de trabalho. É bem simples.
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Compreenda primeiro com [Compreensão de espaços de trabalho e partições pessoais](understanding-workspaces-and-person-partitions.md).
+>Compreenda primeiro com [Compreensão de espaços de trabalho e partições pessoais](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Em **Admin**, clique em **Espaços de trabalho e partições.**
 
@@ -44,4 +42,3 @@ Os usuários podem alterar o nome de um espaço de trabalho. É bem simples.
 1. Depois de salvar, você deve ver as alterações!
 
    ![](assets/image2014-9-17-11-3a9-3a9.png)
-
