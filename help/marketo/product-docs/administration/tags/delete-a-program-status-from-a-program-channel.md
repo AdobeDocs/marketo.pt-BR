@@ -3,9 +3,9 @@ unique-page-id: 2360278
 description: Excluir um status de Programa de um Canal - Documentos do Marketing - Documentação do produto
 title: Excluir um status de Programa de um Canal de Programa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Os status dos programas são os pontos de verificação por meio de um caminho d
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. Clique em ![—](assets/image2014-9-24-15-3a52-3a39.png) para remover o status e, em seguida, clique em **SALVAR**.
+1. Clique no ícone ![X](assets/image2014-9-24-15-3a52-3a39.png) para remover o status e, em seguida, clique em **Salvar**.
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ Os status dos programas são os pontos de verificação por meio de um caminho d
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-Muito bem! Você também pode [excluir um canal inteiro](delete-a-program-channel.md), se necessário.
+Muito bem! Você também pode [excluir um canal inteiro](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md), se necessário.
