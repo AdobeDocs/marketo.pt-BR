@@ -3,7 +3,7 @@ unique-page-id: 2359902
 description: Definir configurações de localização padrão para uma Subscrição - Documentos do Marketing - Documentação do produto
 title: Definir configurações de localização padrão para uma Subscrição
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,9 +21,9 @@ Este artigo descreve como um Administrador faria a visualização e editaria as 
 
 ## Definir configurações de localização padrão para uma Subscrição {#set-default-location-settings-for-a-subscription-1}
 
-Quando um Administrador altera as configurações de localização padrão, os usuários recém-criados herdam essas configurações. Os usuários sempre podem [alterar o idioma, a localidade e as preferências de fuso horário](select-your-language-locale-and-time-zone.md) em suas contas individuais.
+Quando um Administrador altera as configurações de localização padrão, os usuários recém-criados herdam essas configurações. Os usuários sempre podem [alterar o idioma, a localidade e as preferências de fuso horário](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) em suas contas individuais.
 
-1. Em **Admin**,*** **clique em **Localização**.
+1. Em **Admin**, clique em **Localização**.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
@@ -43,7 +43,7 @@ Quando um Administrador altera as configurações de localização padrão, os u
 
    >[!NOTE]
    >
-   >O Marketing Insight Sales para [Salesforce.com](http://salesforce.com/) é compatível com francês, alemão, japonês, português e espanhol.
+   >O Marketing Insight Sales para [Salesforce.com](https://salesforce.com/) é compatível com francês, alemão, japonês, português e espanhol.
 
 ## Defina as configurações de moeda padrão para uma Subscrição {#set-the-default-currency-settings-for-a-subscription}
 
@@ -61,9 +61,5 @@ Se você estiver alterando a localidade padrão para seus usuários, talvez voc�
 
 >[!MORELIKETHIS]
 >
->* [Selecione seu idioma, localidade e fuso horário](select-your-language-locale-and-time-zone.md)
-
->
-
-
+>* [Selecione seu idioma, localidade e fuso horário](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
 
