@@ -3,7 +3,7 @@ unique-page-id: 10100311
 description: Uso de uma ID universal para logon de Subscrição - Documentos do Marketing - Documentação do produto
 title: Usando uma ID universal para logon de Subscrição
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -66,4 +66,3 @@ Se você tiver várias subscrições, poderá ter vários perfis da comunidade. 
 ## Plataforma móvel {#mobile-platform}
 
 Os usuários com a ID universal podem ver seus dados em Momentos de marketing e no aplicativo de check-in do evento iPad a partir da subscrição em que fizeram logon pela última vez. Não é possível alterar as subscrições da plataforma móvel em si.
-
