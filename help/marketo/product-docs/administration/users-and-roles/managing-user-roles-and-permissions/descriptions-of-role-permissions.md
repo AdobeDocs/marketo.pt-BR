@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Descrições de permissões de função - Documentos de marketing - Documentação do produto
 title: Descrições de permissões de função
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '1154'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Algumas informações adicionais sobre permissões:
 
 ## Permissões disponíveis {#available-permissions}
 
-Ao [criar ou editar uma função](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), você pode selecionar qual das seguintes permissões permitir essa função marcando as caixas apropriadas.
+Ao [criar ou editar uma função](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), você pode selecionar qual das seguintes permissões permitir essa função marcando as caixas apropriadas.
 
 ![](assets/createnewrole.png)
 
@@ -35,7 +35,7 @@ Visualização e faça alterações nas configurações na seção Minha conta d
 * Canais de acesso - concede aos usuários acesso somente para modificar a tag do Canal, não outras tags personalizadas
 * Limite de comunicação de acesso - concede aos usuários acesso para habilitar um limite de comunicação em Administrador
 * Access CRM - concede aos usuários acesso ao CRM, como Salesforce ou Microsoft Dynamics, em Admin
-* Access [Data.com](http://Data.com) - Concede aos usuários acesso à ação de fluxo Data.com
+* Access [Data.com](https://Data.com) - Concede aos usuários acesso à ação de fluxo Data.com
 * Access Email Admin - Concede aos usuários o Administrador de email para alterar as configurações padrão, como cancelar a assinatura e domínios de marca
 * Parceiros de Evento de acesso - concede aos usuários acesso ao LaunchPoint em Admin
 * Gerenciamento de campo de acesso - concede aos usuários acesso ao Gerenciamento de campo na Administração
@@ -105,14 +105,12 @@ Dá aos usuários acesso às apresentações do calendário?- permite a exibiç�
 Fornece aos usuários acesso à guia Design Studio e à visualização da árvore, mas não aos detalhes.
 
 * Acessar email
-
    * Editar email - concede aos usuários permissão para editar, criar e clonar emails
+      * Tornar o email operacional - Concede aos usuários permissão para tornar o email operacional. Consulte: [Tornar um email operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * Tornar o email operacional - Concede aos usuários permissão para tornar o email operacional. Consulte: [Tornar um email operacional](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
-   * Aprovar email - permite que os usuários aprovem emails.
-   * Excluir email - permite que os usuários excluam emails.
-   * Definir domínio de marca - permite que os usuários trabalhem com domínios de marca. Consulte: [Adicionar vários domínios de marca](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
-
+      * Aprovar email - permite que os usuários aprovem emails.
+      * Excluir email - permite que os usuários excluam emails.
+      * Definir domínio de marca - permite que os usuários trabalhem com domínios de marca. Consulte: [Adicionar um domínio adicional de marca](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Acessar modelo de email
 
@@ -220,5 +218,3 @@ Administração do espaço de trabalho
 
 * Acesso de administrador para um espaço de trabalho específico (somente se você tiver espaços de trabalho ativados)
 * Mover ativos entre espaços de trabalho (somente se você tiver espaços de trabalho ativados)
-
-Acessar aplicativo móvel
