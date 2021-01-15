@@ -3,7 +3,7 @@ unique-page-id: 2359906
 description: Gerenciamento de usuários do Marketing - Documentos do Marketing - Documentação do produto
 title: Gerenciamento de usuários do Marketing
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -23,11 +23,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Insira **Endereço de email**, **Nome** e **Sobrenome. **
+1. Insira **Endereço de email**, **Nome** e **Sobrenome**.
 
-   ** ![](assets/image2016-5-24-9-3a45-3a30.png)
-
-   **
+   ![](assets/image2016-5-24-9-3a45-3a30.png)
 
 1. Opcionalmente, informe um motivo para o convite e selecione uma data de expiração no campo **Acesso expira** usando o seletor de datas.
 
@@ -45,7 +43,7 @@ ht-degree: 0%
    >
    >Quando a data de expiração chegar, o usuário receberá uma notificação de expiração e sua conta será bloqueada.
 
-1. Selecione a **Função **de sua escolha e clique em **Próximo**.
+1. Selecione **Função** de sua escolha e clique em **Próximo**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
@@ -67,29 +65,29 @@ O novo usuário agora está listado na guia Usuários e receberá um email com i
 
 ## Excluir usuários {#delete-users}
 
-1. Vá para Admin e clique em Usuários e funções.
+1. Vá para Admin e clique em **Usuários e funções**.
 
    ![](assets/image2014-9-9-11-3a36-3a21.png)
 
-1. Selecione o usuário que deseja remover e clique em Excluir usuário.
+1. Selecione o usuário que deseja remover e clique em **Excluir usuário**.
 
    ![](assets/image2014-9-9-11-3a36-3a36.png)
 
-1. Confirme clicando em OK.
+1. Confirme clicando em **OK**.
 
    ![](assets/image2014-9-9-11-3a36-3a51.png)
 
 ## Redefinir senhas de usuário {#reset-user-passwords}
 
-1. Vá para Admin e clique em Usuários e funções.
+1. Vá para Admin e clique em **Usuários e funções**.
 
    ![](assets/image2014-9-9-11-3a41-3a0.png)
 
-1. Selecione um usuário e clique em Redefinir senha.
+1. Selecione um usuário e clique em **Redefinir senha**.
 
    ![](assets/image2014-9-9-11-3a41-3a19.png)
 
-1. Clique em Fechar para fechar o prompt.
+1. Clique em **Fechar** para fechar o prompt.
 
    ![](assets/image2014-9-9-11-3a41-3a50.png)
 
