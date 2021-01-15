@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: Criar, excluir, editar e alterar uma função de usuário - Documentos do Marketing - Documentação do produto
 title: Criar, excluir, editar e alterar uma função de usuário
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Criar uma função {#create-a-role}
 
-1. Vá para **Admin **e clique em **Usuários e funções**.
+1. Vá para **Admin** e clique em **Usuários e funções**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Vá para a guia** Atribuições* e clique em **Nova função**.
+1. Vá para a guia **Funções** e clique em **Nova função**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## Excluir uma função {#delete-a-role}
 
-1. Em Admin,** **clique em **Usuários e funções**.
+1. Em **Admin**, clique em **Usuários e funções**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. Na guia **Funções **, selecione uma função e clique em **Excluir função**.
+1. Na guia **Funções**, selecione uma função e clique em **Excluir função**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Clique na guia **Funções **do.
+1. Clique na guia **Funções**.
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. Selecione a função que deseja editar e clique em** Editar função**.
+1. Selecione a função que deseja editar e clique em **Editar função**.
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Você deseja atualizar o endereço de email da conta? [Saiba como aqui](http://docs.marketo.com/x/3wFI).
+   >Você deseja atualizar o endereço de email da conta? [Saiba como aqui](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Alterar a função de um usuário {#change-a-users-role}
 
@@ -98,5 +98,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Se você deixar várias funções selecionadas, o Marketo assumirá como padrão a permissão mais restritiva.
-
-Incrível, agora você está mesmo em um papel!  (Entendeu?)
