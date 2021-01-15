@@ -3,9 +3,9 @@ unique-page-id: 10617187
 description: Noções Gerais das Configurações de Privacidade - Documentos do Marketing - Documentação do Produto
 title: Noções Gerais das Configurações de Privacidade
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Esses métodos podem afetar o valor e a funcionalidade do Marketo em áreas espe
 
 Os visitantes da Web podem definir seu navegador para impedir o rastreamento por qualquer site escolhendo &quot;Não rastrear&quot; (DNT). Isso impede o rastreamento desse navegador e dispositivo em particular. Consulte as configurações de privacidade do navegador para obter detalhes completos.
 
-Em Munchkin, um profissional de marketing pode [decidir se deseja suportar ou ignorar a configuração de DNT do navegador](edit-do-not-track-browser-support-settings.md).
+Em Munchkin, um profissional de marketing pode [decidir se deseja suportar ou ignorar a configuração de DNT do navegador](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
 
 Na Personalização da Web, um comerciante pode decidir se [suporta ou ignorar a configuração DNT do navegador](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
@@ -76,5 +76,4 @@ Os profissionais de marketing podem preservar a privacidade rastreando usuários
 
 * Para personalização da Web (RTP), adicione isso ao javascript:
 
-anonimizar IP : antes de chamar rtp(&#39;send&#39;,&#39;visualização&#39;); add rtp(&#39;set&#39;, &#39;settings&#39;, {&#39;anonimizeIP&#39; : true});
-
+`anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`
