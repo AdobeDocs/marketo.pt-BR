@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Noções básicas sobre espaços de trabalho e partições pessoais - Documentos do Marketing - Documentação do produto
 title: Como entender espaços de trabalho e partições de pessoas
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Os espaços de trabalho podem ser complexos de configuração.  Entre em contato com o [Suporte do Marketing](http://support.marketo.com/) para descobrir se eles são adequados para você.
+>Os espaços de trabalho podem ser complexos de configuração. Entre em contato com o [Suporte do Marketing](https://nation.marketo.com/t5/Support/ct-p/Support) para descobrir se eles são adequados para você.
 
 Os espaços de trabalho são áreas separadas no Marketing que contêm ativos de marketing, como programas, landings page, e-mails e muito mais. Eles podem ser usados por várias pessoas. Cada usuário tem acesso a um ou mais espaços de trabalho.
 
@@ -36,9 +36,7 @@ Em cada caso, a separação ocorre porque os ativos de marketing são completame
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Saiba como criar [um novo espaço de trabalho](create-a-new-workspace.md).
+>Saiba como criar [um novo espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Compartilhamento entre espaços de trabalho {#sharing-across-workspaces}
 
@@ -78,8 +76,8 @@ Você pode compartilhar esses itens em áreas de trabalho.
 * Modelos de landing page
 * Modelos
 * Campanhas inteligentes
-* [Listas inteligentes](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [Segmentações](share-segmentations-across-workspaces-and-partitions.md)
+* [Listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* [Segmentações](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * Trechos
 
 ## Clonagem entre espaços de trabalho {#cloning-across-workspaces}
@@ -105,7 +103,7 @@ Para mover ativos para um novo espaço de trabalho, coloque-os em uma pasta e ar
 
 ## Partições de Pessoas {#person-partitions}
 
-As partições de pessoa atuam como bancos de dados separados. Cada partição tem seu próprio povo que não desduplica nem se mistura com outras partições. Se achar que você tem um caso de uso comercial que pode exigir a existência de registros de duplicados com o mesmo endereço de email, entre em contato com o [Suporte do Marketing](http://support.marketo.com).
+As partições de pessoa atuam como bancos de dados separados. Cada partição tem seu próprio povo que não desduplica nem se mistura com outras partições. Se achar que você tem um caso de uso comercial que pode exigir a existência de registros de duplicados com o mesmo endereço de email, entre em contato com o [Suporte do Marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Você pode atribuir partições de pessoa a [espaços de trabalho](create-a-new-workspace.md) nas seguintes configurações:
 
@@ -115,15 +113,10 @@ Você pode atribuir partições de pessoa a [espaços de trabalho](create-a-new-
 
 >[!NOTE]
 >
->**Exemplo**
->
 >Motivos para usar uma partição de pessoa:
 >
 >* Seus espaços de trabalho não têm apenas ativos diferentes, mas também não compartilham pessoas
 >* Você quer duplicados por outros motivos comerciais
-
->
-
 
 
 >[!CAUTION]
@@ -132,7 +125,4 @@ Você pode atribuir partições de pessoa a [espaços de trabalho](create-a-new-
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
-> Saiba como [criar uma partição de pessoa](create-a-person-partition.md).
-
+>Saiba como [criar uma partição de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
