@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Editar um espaço de trabalho - Documentos do marketing - Documentação do produto
 title: Editar um espaço de trabalho
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Escove os espaços de trabalho com [Compreensão dos espaços de trabalho e das partições pessoais](understanding-workspaces-and-person-partitions.md).
+>Escove os espaços de trabalho com [Compreensão dos espaços de trabalho e das partições pessoais](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Em **Admin**, clique em **Espaços de trabalho e partições**.
 
@@ -37,25 +35,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Você pode [criar mais partições de pessoa](create-a-person-partition.md) se precisar delas.
+   >Você pode [criar mais partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) se precisar delas.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >A caixa de seleção **Todas as partições de pessoa****** significa que esta área de trabalho pode usar todas as partições de cliente potencial no sistema.
+   >A caixa de seleção **Todas as partições de pessoa** significa que esse espaço de trabalho pode usar todas as partições de cliente potencial no sistema.
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >A partição** de pessoa principal** atua como padrão e é onde todas as pessoas serão atribuídas.
+   >A partição **pessoa principal** atua como padrão e é onde todas as pessoas serão atribuídas.
 
-   Se você ativou vários domínios de marca, é possível alterar para um domínio de marca primária diferente. Clique em Salvar.
+   Se você ativou vários domínios de marca, é possível alterar para um domínio de marca primária diferente. Clique em **Salvar**.
 
    ![](assets/four-6.png)
 
@@ -65,10 +57,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Criar um novo espaço de trabalho](create-a-new-workspace.md)
->* [Como entender espaços de trabalho e partições de pessoas](understanding-workspaces-and-person-partitions.md)
-
->
-
-
+>* [Criar um novo espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>* [Como entender espaços de trabalho e partições de pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
 
