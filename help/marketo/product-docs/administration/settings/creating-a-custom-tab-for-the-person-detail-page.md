@@ -3,7 +3,7 @@ unique-page-id: 2360305
 description: Criar uma guia personalizada para a página de detalhes da pessoa - Documentos de marketing - Documentação do produto
 title: Criando uma guia personalizada para a página Detalhes da pessoa
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -35,10 +35,10 @@ Se você encontrar um conjunto específico de campos nos detalhes da pessoa repe
    >
    >Você tem duas colunas para trabalhar.
 
-   Se você decidir que deseja remover um campo, clique com o botão direito do mouse no campo que deseja remover e clique em Excluir.
+   Se você decidir que deseja remover um campo, clique com o botão direito do mouse no campo que deseja remover e clique em **Excluir**.
+
    ![](assets/image2014-9-16-16-3a43-3a56.png)
 
    Trabalho incrível! Agora, ao carregar os detalhes de uma pessoa, você pode usar seu layout personalizado para acessar as informações importantes para você.
 
    ![](assets/six-1.png)
-
