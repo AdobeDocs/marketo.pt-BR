@@ -3,7 +3,7 @@ unique-page-id: 1147042
 description: Anexar dados a um campo - Documentos do Marketing - Documentação do produto
 title: Anexar dados a um campo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Há uma maneira fácil de anexar dados a um campo. Veja como.
 
 >[!PREREQUISITES]
 >
->* [Criar uma Campanha](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>[Criar uma Campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
 1. Na guia **Fluxo**, arraste a etapa de fluxo **Alterar valor de dados**.
 
@@ -39,5 +35,4 @@ Há uma maneira fácil de anexar dados a um campo. Veja como.
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 
-   É isso! Você pode ser criativo e adicionar vários tokens lá.
-
+É isso! Você pode ser criativo e adicionar vários tokens lá.
