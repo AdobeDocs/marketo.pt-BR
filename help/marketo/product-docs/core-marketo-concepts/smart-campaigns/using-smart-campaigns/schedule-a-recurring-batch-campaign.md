@@ -3,7 +3,7 @@ unique-page-id: 1146972
 description: Agendar uma Campanha em lote recorrente - Documentos do Marketing - Documentação do produto
 title: Agendar uma Campanha em lote recorrente
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 A recorrência permite que você execute uma campanha inteligente em lote em uma programação regular. Por exemplo - uma vez por semana, segunda-feira às 12:00.
 
-1. Selecione a campanha, vá para a guia Agendamento e clique em Agendar recorrência.
+1. Selecione a campanha, vá para a guia Agendamento e clique em **Agendar recorrência**.
 
    ![](assets/recurrencehands-sendemail.png)
 
-1. Clique na lista suspensa Agendamento e selecione Semanalmente.
+1. Clique na lista suspensa Agendamento e selecione **Semanalmente**.
 
    ![](assets/image2014-9-22-11-3a41-3a42.png)
 
@@ -31,7 +31,7 @@ A recorrência permite que você execute uma campanha inteligente em lote em uma
 
    ![](assets/image2014-9-22-11-3a41-3a49.png)
 
-1. Deixe Repetir cada como 1, selecione segunda-feira e clique em Salvar.
+1. Deixe Repetir a cada 1, selecione Segunda-feira e clique em **Salvar**.
 
    ![](assets/image2014-9-22-11-3a41-3a53.png)
 
