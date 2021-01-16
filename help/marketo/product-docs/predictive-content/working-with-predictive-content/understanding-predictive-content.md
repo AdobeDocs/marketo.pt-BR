@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: Compreensão do conteúdo preditivo - Documentos do Marketing - Documentação do produto
 title: Compreensão do conteúdo preditivo
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
-Depois de [aprovar um título para conteúdo preditivo](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), você trabalha nele aqui. A página Conteúdo preditivo exibe todos os títulos que você aprovou para conteúdo preditivo.
+Depois de [aprovar um título para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), você trabalha nele aqui. A página Conteúdo preditivo exibe todos os títulos que você aprovou para conteúdo preditivo.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
