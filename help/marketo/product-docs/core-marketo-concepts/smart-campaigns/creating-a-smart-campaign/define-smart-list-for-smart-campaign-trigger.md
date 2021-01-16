@@ -3,9 +3,9 @@ unique-page-id: 1146942
 description: Definir Lista inteligente para Campanhas inteligentes | Disparador - Documentos do Marketing - Documentação do produto
 title: Definir Lista inteligente para Campanhas inteligentes | Disparador
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Faça uma campanha inteligente executar em uma pessoa de cada vez com base em eventos ao vivo adicionando acionadores.
 
-1. Na sua campanha inteligente, clique na guia **Lista inteligente **I.
+1. Na sua campanha inteligente, clique na guia **Lista inteligente**.
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
@@ -47,16 +47,8 @@ Faça uma campanha inteligente executar em uma pessoa de cada vez com base em ev
    >
    >Com vários acionadores, uma pessoa passa pelo fluxo se **ANY** um dos acionadores for ativado.
 
-   [Definir Lista inteligente para Campanhas inteligentes | Lote](define-smart-list-for-smart-campaign-batch.md)
+Para executar a campanha em um conjunto de pessoas ao mesmo tempo, aprenda a [Definir Lista inteligente para Campanhas inteligentes | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
-   >[!NOTE]
-   >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Definir Lista inteligente para Campanhas inteligentes | Lote](define-smart-list-for-smart-campaign-batch.md)
-   >    * [Adicionar uma Etapa de fluxo a uma Campanha inteligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
-
-Para executar a campanha em um grupo de pessoas ao mesmo tempo, aprenda a .
+>[!MORELIKETHIS]
+>
+>[Adicionar uma Etapa de fluxo a uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
