@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: Editar regras de qualificação em uma Campanha inteligente - Documentos de marketing - Documentação do produto
 title: Editar regras de qualificação em uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -33,18 +33,10 @@ As regras de qualificação controlam quantas vezes alguém pode executar o flux
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Os limites de comunicação não são aplicados às campanhas inteligentes por padrão. Saiba mais sobre como [aplicar limites de comunicação a uma campanha inteligente](apply-communication-limits-to-smart-campaign.md).
+   >Os limites de comunicação não são aplicados às campanhas inteligentes por padrão. Saiba mais sobre como [aplicar limites de comunicação a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Aplicar limites de comunicação a Campanhas inteligentes](apply-communication-limits-to-smart-campaign.md)
-
+   >[Aplicar limites de comunicação a Campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
 Missão cumprida! Agora você sabe controlar as regras de qualificação em uma campanha inteligente.
