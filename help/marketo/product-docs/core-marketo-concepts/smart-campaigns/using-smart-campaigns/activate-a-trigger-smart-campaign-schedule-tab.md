@@ -3,7 +3,7 @@ unique-page-id: 1146935
 description: Ativar uma Campanha inteligente do acionador | Guia Agendamento - Documentos do Marketing - Documentação do produto
 title: Ativar uma Campanha inteligente do acionador | Guia Agendamento
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
