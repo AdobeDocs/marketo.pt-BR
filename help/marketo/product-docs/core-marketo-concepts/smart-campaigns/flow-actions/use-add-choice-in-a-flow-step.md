@@ -3,9 +3,9 @@ unique-page-id: 1146980
 description: Usar Adicionar escolha em uma etapa de fluxo - Documentos do marketing - Documentação do produto
 title: Usar Adicionar escolha em uma etapa de fluxo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Adicionar uma Etapa de fluxo a uma Campanha inteligente](add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>[Adicionar uma Etapa de fluxo a uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 **Adicione** Choicelets para usar uma etapa de fluxo e dizer &quot;Depende&quot; ao escolher os detalhes.
 
@@ -53,15 +49,10 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Somente a primeira opção correspondente é aplicada à etapa de fluxo. Saiba como reordenar &quot;Adicionar escolha&quot; em uma ação de fluxo[.](reorder-add-choice-in-a-flow-step.md)
+   >Somente a primeira opção correspondente é aplicada à etapa de fluxo. Saiba como reordenar &quot;Adicionar escolha&quot; em uma ação de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md).[
 
-   >[!NOTE]
+   Ótimo! Agora você pode criar uma única campanha inteligente com opções de etapas de fluxo em vez de criar várias campanhas inteligentes para cada escolha.
+
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Reordenar &quot;Adicionar escolha&quot; em uma etapa de fluxo](reorder-add-choice-in-a-flow-step.md)
-
-
-Ótimo! Agora você pode criar uma única campanha inteligente com opções de etapas de fluxo em vez de criar várias campanhas inteligentes para cada escolha.
+   >[Reordenar Adicionar Escolha em uma Etapa de Fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
