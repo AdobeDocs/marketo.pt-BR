@@ -3,9 +3,9 @@ unique-page-id: 1146970
 description: Agende uma Campanha inteligente em lote para execução posterior - Documentos do marketing - Documentação do produto
 title: Agendar uma Campanha inteligente em lote para execução posterior
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Se você quiser definir uma campanha inteligente em lote para ser executada em a
 
 >[!TIP]
 >
->Você também pode [reprogramar uma campanha inteligente em lote na visualização do cronograma do programa](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
+>Você também pode [reprogramar uma campanha inteligente em lote na visualização do cronograma do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
 
 1. Selecione a campanha inteligente de lote que deseja executar, vá para a guia **Agendamento** e clique em **Executar uma vez**.
 
@@ -41,10 +41,4 @@ Se você quiser definir uma campanha inteligente em lote para ser executada em a
 
    >[!NOTE]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Agendar uma Campanha em lote recorrente](schedule-a-recurring-batch-campaign.md)
-
-
+   >[Agendar uma Campanha em lote recorrente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
