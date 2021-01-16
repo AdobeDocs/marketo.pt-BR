@@ -3,7 +3,7 @@ unique-page-id: 1147049
 description: Renomear uma Campanha inteligente - Documentos do marketing - Documentação do produto
 title: Renomear uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode alterar o nome de uma campanha inteligente existente. Veja como.
 
-1. Vá para Atividades de marketing.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,7 +27,7 @@ Você pode alterar o nome de uma campanha inteligente existente. Veja como.
    >
    >Os nomes das campanhas inteligentes em programas sempre são traduzidos para o formato &#39;ProgramName.CampaignName&#39;.
 
-1. Digite o nome da nova campanha inteligente e clique em Salvar.
+1. Digite o nome da nova campanha inteligente e clique em **Salvar**.
 
    ![](assets/rename-cursorandhand.png)
 
