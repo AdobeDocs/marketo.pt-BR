@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: Ações de campanha - Excluir uma Campanha inteligente - Documentos de marketing - Documentação do produto
 title: Ações de campanha - Excluir uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Se você tiver uma campanha inteligente antiga que não precisa mais, você pode
 
    >[!TIP]
    >
-   >Para cancelar o processamento de uma campanha inteligente ativa sem excluí-la completamente, aprenda a [abortar uma campanha inteligente](abort-a-smart-campaign.md).
+   >Para cancelar o processamento de uma campanha inteligente ativa sem excluí-la completamente, aprenda a [abortar uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
@@ -38,5 +38,3 @@ Se você tiver uma campanha inteligente antiga que não precisa mais, você pode
    >[!CAUTION]
    >
    >Não exclua **NOT** uma campanha inteligente ativa com pessoas nas etapas de fluxo. A campanha provavelmente ainda será executada.
-
-Legal!
