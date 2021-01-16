@@ -3,9 +3,9 @@ unique-page-id: 1147053
 description: Abortar uma Campanha inteligente - Documentos do marketing - Documentação do produto
 title: Abortar uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. Clique no menu suspenso Ações de Campanha***. Selecione **Abortar Campanha**.
+1. Clique no menu suspenso **Ações de Campanha**. Selecione **Abortar Campanha**.
 
    ![](assets/image2014-9-22-16-19-48.png)
 
@@ -33,19 +33,16 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
    >Abortar não desfaz etapas já concluídas, apenas impede que mais aconteçam. (Exemplo: Os emails não podem ser entregues.)
 
    ![](assets/image2014-9-22-16-3a20-3a0.png)
 
    >[!NOTE]
    >
-   >Observe a guia **Results** da campanha inteligente para ver quais ações ocorreram antes da anulação. Você também encontrará uma [notificação](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) com detalhes adicionais.
+   >Observe a guia **Results** da campanha inteligente para ver quais ações ocorreram antes da anulação. Você também encontrará uma [notificação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) com detalhes adicionais.
 
    >[!TIP]
    >
-   >Deseja remover uma pessoa do fluxo em uma campanha de disparo? Verifique [Remover do Fluxo](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >Deseja remover uma pessoa do fluxo em uma campanha de disparo? Verifique [Remover do Fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
 Verifique sempre o seu trabalho com o duplo, mas este travão de emergência poderá vir a ser útil no futuro.
