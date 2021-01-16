@@ -3,9 +3,9 @@ unique-page-id: 1146933
 description: Execute uma Campanha inteligente em lote agora | Guia Agendamento - Documentos do Marketing - Documentação do produto
 title: Execute uma Campanha inteligente em lote agora | Guia Agendamento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Quando terminar de criar a campanha em lote, você poderá optar por executá-la
 
    ![](assets/runcampaignnow-hands.png)
 
-1. Certifique-se de que **Executar agora **esteja selecionado e clique em **Executar**.
+1. Certifique-se de que **Executar agora** esteja selecionado e clique em **Executar**.
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
@@ -27,15 +27,10 @@ Quando terminar de criar a campanha em lote, você poderá optar por executá-la
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   Calma, calma! Você também pode [programar execuções para mais tarde](schedule-a-batch-smart-campaign-to-run-later.md), se preferir.
+   Calma, calma! Você também pode [programar execuções para mais tarde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md), se preferir.
 
    >[!NOTE]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Agendar uma Campanha inteligente em lote para execução posterior](schedule-a-batch-smart-campaign-to-run-later.md)
-   >    * [Agendar uma Campanha em lote recorrente](schedule-a-recurring-batch-campaign.md)
-
+   >* [Agendar uma Campanha inteligente em lote para execução posterior](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
+   >* [Agendar uma Campanha em lote recorrente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
 
