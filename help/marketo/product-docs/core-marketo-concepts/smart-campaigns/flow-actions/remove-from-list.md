@@ -3,9 +3,9 @@ unique-page-id: 1146954
 description: Remover da Lista - Documentos do Marketing - Documentação do produto
 title: Remover da Lista
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Visão geral {#overview}
 
-Como você tem a capacidade de ** [Adicionar à Lista](add-to-list.md)***, você também precisa de uma maneira de remover pessoas do lista.
+Como você tem a capacidade de [Adicionar à Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), também é necessário uma maneira de remover pessoas do lista.
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
@@ -25,5 +25,4 @@ Como você tem a capacidade de ** [Adicionar à Lista](add-to-list.md)***, você
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 
-   É isso! Fácil como torta.
-
+É isso!
