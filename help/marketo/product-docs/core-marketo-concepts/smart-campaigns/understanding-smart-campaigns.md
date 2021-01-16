@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: Noções básicas sobre Campanhas inteligentes - Documentos do marketing - Documentação do produto
 title: Como entender as Campanhas inteligentes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Se Marketo é um carro poderoso, a campanha inteligente é realmente o motor. É simples começar, mas pode fazer quase tudo que você pedir.
 
-A campanha inteligente tem três áreas principais: As guias [Lista inteligente](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Fluxo](http://docs.marketo.com/display/DOCS/Flow+Actions) e [Agendamento](using-smart-campaigns/schedule-a-recurring-batch-campaign.md).
+A campanha inteligente tem três áreas principais: As guias [Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) e [Agendamento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md).
 
 ## Lista inteligente {#smart-list}
 
@@ -53,11 +53,8 @@ O fluxo inclui as etapas que você deseja que a campanha inteligente execute, in
 
 Finalmente, isso controla quando você executa sua campanha inteligente. Você também pode configurar a recorrência para que seja executada em uma programação repetitiva.
 
-<br> 
-
 Há uma enorme quantidade de coisas que a campanhas inteligente pode fazer. Pegue o jeito disso e você encontrará tudo em Marketo se torna muito mais simples de entender.
 
 >[!MORELIKETHIS]
 >
->* [Criar uma nova Campanha inteligente](creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
+>[Criar uma nova Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
