@@ -3,9 +3,9 @@ unique-page-id: 1147023
 description: Ligar para o Webhook - Documentos de marketing - Documentação do produto
 title: Ligar para o Webhook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Criar um Webhook](../../../../product-docs/administration/additional-integrations/create-a-webhook.md)
-
->
-
-
+>[Criar um Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
 ## Visão geral {#overview}
 
@@ -29,9 +25,7 @@ Os webhooks permitem que você interaja com serviços de terceiros. Envie/receba
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Saiba mais sobre as muitas coisas fascinantes que [Webhooks](http://developers.marketo.com/documentation/webhooks/) podem fazer por você.
+>Saiba mais sobre as muitas coisas fascinantes que [Webhooks](https://developers.marketo.com/documentation/webhooks/) podem fazer por você.
 
 ## Uso {#usage}
 
@@ -41,13 +35,6 @@ Selecione um **Webhook** no menu suspenso.
 
 Isso é tudo! Seu webhook agora será chamado sempre que as pessoas entrarem no fluxo de campanha inteligente.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artigos relacionados**
->
->* [Usar um Webhook em uma Campanha inteligente](use-a-webhook-in-a-smart-campaign.md)
-
->
-
-
-
+>[Usar um Webhook em uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
