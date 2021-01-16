@@ -3,7 +3,7 @@ unique-page-id: 2951703
 description: Campanha de solicitação - Documentos do marketing - Documentação do produto
 title: Solicitar Campanha
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Você pode colocar pessoas em uma campanha específica usando a etapa **Solicita
 
 >[!NOTE]
 >
->A campanha na qual você está colocando a pessoa deve estar ativa e ter o acionador ** [Campanha é Solicitada](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
+>A campanha na qual você está colocando a pessoa deve estar ativa e ter o acionador **[Campanha é Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
 
 1. No **Banco de Dados**, localize e selecione a(s) pessoa(s) desejada(s).
 
@@ -44,4 +44,3 @@ Você pode colocar pessoas em uma campanha específica usando a etapa **Solicita
 >[!TIP]
 >
 >Use o acionador ou filtro **Campanha is Requested** para localizar pessoas afetadas por essa etapa de fluxo.
-
