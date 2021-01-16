@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: Acionadores e Filtros para Campanhas inteligentes móveis - Documentos do Marketing - Documentação do produto
 title: Acionadores e Filtros para Campanhas inteligentes móveis
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -103,7 +103,7 @@ O aplicativo móvel é/foi aberto
 
 Tem/Teve Atividade de aplicativo móvel
 
-Eles fornecem uma maneira poderosa de rastrear a atividade móvel personalizada. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento [para Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [para iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Eles fornecem uma maneira poderosa de rastrear a atividade móvel personalizada. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento [para Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [para iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
 * Tem Atividade de aplicativo móvel - acionador
 
@@ -132,12 +132,14 @@ As restrições de Ação permitem que você use o acionador e os filtros para a
 >Sob o tipo de ação de *Shopping*, há uma ação muito específica, com as outras restrições que a definem:
 >
 >* Comprou uma camisa
->  * Era vermelho
->  * Custou US$ 30
->  * Demorou 20 segundos para comprar
+   >   * Era vermelho
+   >   * Custou US$ 30
+   >   * Demorou 20 segundos para comprar
 
 
-Veja a aparência do filtro no Marketo:   ![](assets/image2015-8-17-13-3a16-3a12.png)
+Veja a aparência do filtro no Marketo:
+
+![](assets/image2015-8-17-13-3a16-3a12.png)
 
 >[!NOTE]
 >
@@ -192,6 +194,6 @@ Notificação por push com toques/toques
 
 >[!MORELIKETHIS]
 >
->* [Adicionar uma restrição a um filtro de Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Usar Filtros de inatividade em uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Adicionar uma restrição a um filtro de Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [Usar Filtros de inatividade em uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
