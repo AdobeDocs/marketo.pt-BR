@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Noções básicas sobre Campanhas inteligentes em lote e acionador - Documentos do Marketing - Documentação do produto
 title: Noções básicas sobre Campanhas inteligentes em lote e acionador
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,7 @@ Clicar na guia **Schedule** confirmará que a campanha inteligente está definid
 **Campanhas inteligentes em lote**
 
 * Pode ser agendado para recorrências, como diário, semanal e mensal. Você também pode fazê-los funcionar apenas uma vez.
-* Estão visíveis na visualização [do cronograma do programa](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md).\
-   *Observe que qualquer item depois de uma etapa de &quot;Espera&quot; dentro da campanha inteligente não será incluído na visualização.
+* Estão visíveis na visualização [do cronograma do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Qualquer coisa depois de uma etapa de &quot;Espera&quot; dentro da campanha inteligente não será incluída na visualização.
 
 <br> 
 
@@ -60,11 +59,6 @@ Clicar na guia **Schedule** confirmará que a campanha inteligente está definid
 * Não pode ser agendado para recursões. Eles só podem ser definidos como ativos ou inativos.
 * É possível definir mais de um acionador. No entanto, se qualquer disparador for acionado, as ações de campanha serão executadas.
 
-## Assista a um vídeo sobre como criar Campanhas de e-mail acionadas {#watch-a-video-on-creating-triggered-email-campaigns}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!TIP]
 >
->Use o [registro de atividades](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) para ver o que ocorreu passo a passo nas campanhas inteligentes. Você pode encontrar o log de atividades na última guia da página de detalhes de uma pessoa.
-
+>Use o [registro de atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) para ver o que ocorreu passo a passo nas campanhas inteligentes. Você pode encontrar o log de atividades na última guia da página de detalhes de uma pessoa.
