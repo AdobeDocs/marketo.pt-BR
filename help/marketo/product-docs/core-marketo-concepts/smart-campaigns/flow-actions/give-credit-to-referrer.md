@@ -3,9 +3,9 @@ unique-page-id: 1147040
 description: Dê crédito à Quem indicou - Documentos do Marketing - Documentação do produto
 title: Dê crédito à Quem indicou
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,16 @@ ht-degree: 0%
 
 ## Visão geral {#overview}
 
-Ao executar uma [oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sorteios](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode dar crédito à quem indicou usando diferentes métodos:
+Ao executar uma [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode dar crédito à quem indicou usando diferentes métodos:
 
 * Visitas referenciadas
 * Logotipos referenciados
 * **Acionador da Lista inteligente**
 * Evento JavaScript personalizado
 
-Se você optou por usar a opção **Acionador de Lista inteligente** para especificar uma meta, precisará usar a etapa de fluxo **Fornecer crédito** **para Quem indicou**.   ![](assets/image2014-9-22-15-3a59-3a18.png)
+Se você optou por usar a opção **Acionador de Lista inteligente** para especificar uma meta, precisará usar a etapa de fluxo **Fornecer crédito à Quem indicou**.
+
+![](assets/image2014-9-22-15-3a59-3a18.png)
 
 ## Uso {#usage}
 
@@ -32,9 +34,6 @@ Se você optou por usar a opção **Acionador de Lista inteligente** para especi
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Verifique se o aplicativo social está configurado para usar o Acionador de Lista inteligente. Consulte [Especificar meta para Oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) para obter detalhes.
+   >Verifique se o aplicativo social está configurado para usar o Acionador de Lista inteligente. Consulte [Especificar meta para Oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) para obter detalhes.
 
 Excelente! Qualquer pessoa processada por essa etapa de fluxo agora dará crédito à sua quem indicou.
