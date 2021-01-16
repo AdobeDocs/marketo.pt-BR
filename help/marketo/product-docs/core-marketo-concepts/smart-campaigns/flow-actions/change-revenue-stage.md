@@ -3,7 +3,7 @@ unique-page-id: 1147080
 description: Etapa Alterar receita - Documentos do marketing - Documentação do produto
 title: Alterar estágio de receita
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -32,4 +32,3 @@ Se você estiver usando o Revenue Cycle Modeler (Modelador do Ciclo de Receita) 
    >[!CAUTION]
    >
    >O data warehouse presta muita atenção quando os clientes em potencial se movem entre etapas. Isso pode criar dados incorretos se usados incorretamente.
-
