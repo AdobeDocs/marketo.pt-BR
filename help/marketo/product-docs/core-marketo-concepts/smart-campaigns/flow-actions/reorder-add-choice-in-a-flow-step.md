@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557333
-description: Reordene "Adicionar escolha" em uma etapa de fluxo - Documentos do Marketing - Documentação do produto
-title: Reordenar "Adicionar escolha" em uma etapa de fluxo
+description: Reordenar Adicionar escolha em uma etapa de fluxo - Documentos do Marketing - Documentação do produto
+title: Reordenar Adicionar Escolha em uma Etapa de Fluxo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 
-# Reordene &quot;Adicionar escolha&quot; em uma Etapa de fluxo {#reorder-add-choice-in-a-flow-step}
+# Reordenar Adicionar Escolha em uma Etapa de Fluxo {#reorder-add-choice-in-a-flow-step}
 
 Como somente a primeira escolha correspondente se aplica a uma pessoa, o pedido é importante. Se você quiser alterar a ordem das condições definidas em uma etapa de fluxo, veja como.
 
@@ -25,10 +25,14 @@ Como somente a primeira escolha correspondente se aplica a uma pessoa, o pedido 
    >
    >Ao reordenar, você pode **Mover para cima**, **Mover para baixo** ou **Mover para**.
 
-   ![](assets/two.png) ![](assets/three.png)
+   ![](assets/two.png)
+
+   Bom trabalho! Agora você sabe como mover uma escolha para cima/para baixo em incrementos únicos. É isso! É tão fácil reorganizar a ordem de suas opções de passos de fluxo.
+
+   ![](assets/three.png)
 
 1. Se você tiver muitas opções e precisar mover vários níveis para cima ou para baixo, poderá usar esse método alternativo para economizar tempo. Clique na escolha que deseja mover e, em **Mover para**, arraste o controle deslizante para a posição para a qual deseja mover a escolha.
 
    ![](assets/four.png)
 
-Bom trabalho! Agora você sabe como mover uma escolha para cima/para baixo em incrementos únicos. É isso! É tão fácil reorganizar a ordem de suas opções de passos de fluxo.
+É tão fácil reorganizar a ordem de suas opções de passos de fluxo.
