@@ -3,7 +3,7 @@ unique-page-id: 6094949
 description: Mover uma Campanha inteligente - Documentos do marketing - Documentação do produto
 title: Mover uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Campanhas inteligentes também podem ser movidas usando o recurso de mover na á
    Alto cinco! Esta campanha inteligente foi movida.
 
    ![](assets/image2015-2-25-13-39-51-copy-281-29.png)
-
