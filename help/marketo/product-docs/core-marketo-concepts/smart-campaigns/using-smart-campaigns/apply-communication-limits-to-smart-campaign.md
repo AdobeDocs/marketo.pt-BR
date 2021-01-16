@@ -3,7 +3,7 @@ unique-page-id: 1147064
 description: Aplicar limites de comunicação à Campanha inteligente - Documentos de marketing - Documentação do produto
 title: Aplicar limites de comunicação à Campanha inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -15,10 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Ativar limites de comunicação](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
-
->
-
+>[Ativar limites de comunicação](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
 
 
 Não é uma boa ideia enviar emails várias vezes por dia ou muitas vezes por semana, certo? Felizmente, Marketo tem limites de comunicação para ajudar. É assim que eles funcionam.
@@ -27,11 +24,11 @@ Não é uma boa ideia enviar emails várias vezes por dia ou muitas vezes por se
 >
 >Quando qualquer pessoa excede os limites de comunicação definidos, o Marketo bloqueia emails não operacionais (emails operacionais sempre enviados).
 
-1. Na sua campanha inteligente, clique na guia Agendamento e em Editar configurações.
+1. Na sua campanha inteligente, clique na guia **Agendamento** e em **Editar configurações**.
 
-![](assets/programeditsettings-hands-1.png)
+   ![](assets/programeditsettings-hands-1.png)
 
-1. Marque a caixa de seleção Bloquear e-mails não operacionais e clique em Salvar.
+1. Marque a caixa de seleção **Bloquear e-mails não operacionais** e clique em **Salvar**.
 
    ![](assets/apply-communication-limits-to-smart-campaign.png)
 
@@ -41,6 +38,6 @@ Não é uma boa ideia enviar emails várias vezes por dia ou muitas vezes por se
 
 >[!TIP]
 >
->Para tornar isso o padrão, edite seus [limites de comunicação](../../../../product-docs/administration/email-setup/enable-communication-limits.md) na seção Admin.
+>Para tornar isso o padrão, edite seus [limites de comunicação](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) na seção Admin.
 
 Doce. Agora você pode ter certeza de que não está enviando muitos e-mails acidentalmente para sua audiência.
