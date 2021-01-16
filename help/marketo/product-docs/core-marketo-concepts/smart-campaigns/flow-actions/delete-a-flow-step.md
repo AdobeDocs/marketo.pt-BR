@@ -3,9 +3,9 @@ unique-page-id: 1146987
 description: Excluir uma etapa de fluxo - Documentos do marketing - Documentação do produto
 title: Excluir uma Etapa de Fluxo
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Removendo etapas de fluxo, *especialmente as etapas de espera* de campanhas inteligentes ativas, podem ter resultados inesperados. **Leia este artigo cuidadosamente.**
+>Removendo etapas de fluxo, _especialmente as etapas de espera_ de campanhas inteligentes ativas, podem ter resultados inesperados. **Leia este artigo cuidadosamente.**
 
 Primeiro vamos fazer o básico. Veja como remover um passo de fluxo indesejado de uma campanha inteligente. 1. No Fluxo de campanha inteligente, clique no ícone X para excluir qualquer etapa de fluxo.
 
@@ -40,7 +40,7 @@ Primeiro vamos fazer o básico. Veja como remover um passo de fluxo indesejado d
    1. **Nunca corri.** Faça todas as alterações desejadas. Não afetará ninguém até que você administre essa campanha.
    1. **É uma campanha inteligente recorrente.** As mudanças afetarão as pessoas nas execuções futuras, não nas execuções anteriores.
    1. **Já foi executado SEM passos de espera.** Nenhuma pessoa será afetada porque a campanha está inativa depois de correr.
-   1. **Está correndo agora.** As alterações podem causar comportamento inesperado, dependendo do tempo e dos detalhes da exclusão. Recomendamos NÃO editar uma campanha em lote que esteja sendo executada ativamente. Para casos de emergência, saiba como [abortar uma campanha inteligente em execução](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   1. **Está correndo agora.** As alterações podem causar comportamento inesperado, dependendo do tempo e dos detalhes da exclusão. Recomendamos NÃO editar uma campanha em lote que esteja sendo executada ativamente. Para casos de emergência, saiba como [abortar uma campanha inteligente em execução](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
    1. **Já executou COM passos de espera.** Vários detalhes sobre este.\
       Quando uma pessoa entra em uma etapa de espera, ela diminui a duração e a ETAPA NÚMERO para voltar. Consulte o exemplo abaixo.
@@ -54,13 +54,10 @@ Primeiro vamos fazer o básico. Veja como remover um passo de fluxo indesejado d
    >
    >**Exemplo**
    >
-   >    
-   >    
    >1. Uma campanha inteligente tem três etapas.
-   >
-   >   * ETAPA 1. Enviar email nº 1
-   >   * ETAPA 2. Aguardar 1 semana
-   >   * ETAPA 3. Enviar email nº 2
+      >    * ETAPA 1. Enviar email nº 1
+      >    * ETAPA 2. Aguardar 1 semana
+      >    * ETAPA 3. Enviar email nº 2
    >
    >1. As pessoas que acessaram **Etapa 2** esperarão uma semana antes de passar para **Etapa 3**.
    >1. Você exclui **Etapa 2** durante a semana.
@@ -71,4 +68,4 @@ Primeiro vamos fazer o básico. Veja como remover um passo de fluxo indesejado d
 
 Fazendo alterações em uma Campanha ativa
 
-Entenda este recurso e você principal campanhas inteligentes. Uau!
+Entenda este recurso e você principal campanhas inteligentes.
