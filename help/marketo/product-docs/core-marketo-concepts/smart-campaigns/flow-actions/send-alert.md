@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: Enviar alerta - Documentos do marketing - Documentação do produto
 title: Enviar alerta
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ O Marketo pode enviar um alerta por e-mail com informações pessoais para qualq
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
    >Seu alerta de email deve conter todas as informações do cabeçalho e estar no estado **Aprovado**.
 
 1. Você pode clicar no ícone pré-visualização para garantir que selecionou o email correto.
@@ -36,8 +34,6 @@ O Marketo pode enviar um alerta por e-mail com informações pessoais para qualq
    ![](assets/three-1.png)
 
    >[!NOTE]
-   >
-   >**Lembrete**
    >
    >Certifique-se de usar o token **Enviar informações de alerta** no seu email.
 
@@ -57,5 +53,4 @@ O Marketo pode enviar um alerta por e-mail com informações pessoais para qualq
 
 >[!MORELIKETHIS]
 >
->[Criar um email](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
+>[Criar um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
