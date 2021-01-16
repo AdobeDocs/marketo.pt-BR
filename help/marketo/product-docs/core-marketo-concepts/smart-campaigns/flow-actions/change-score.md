@@ -3,7 +3,7 @@ unique-page-id: 1146962
 description: Pontuação de mudança - Documentos do marketing - Documentação do produto
 title: Alterar Pontuação
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -27,7 +27,7 @@ A pontuação das pessoas é fácil e poderosa para ajudar a sua equipe de venda
 
    >[!TIP]
    >
-   >É possível criar vários campos de pontuação. Consulte [Criar um campo personalizado em Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para obter detalhes.
+   >É possível criar vários campos de pontuação. Consulte [Criar um campo personalizado em Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para obter detalhes.
 
 1. Insira a alteração de pontuação desejada.
 
@@ -39,6 +39,4 @@ A pontuação das pessoas é fácil e poderosa para ajudar a sua equipe de venda
    * **-5** decrementará (números negativos permitidos)
    * **=5** fará com que a pontuação seja o número exato
    * **=-5** fará com que a pontuação do número negativo exato
-
    Obtenha rapidamente algumas pontuações básicas e ajuste os resultados ao longo do tempo. Foi o que fizemos!
-
