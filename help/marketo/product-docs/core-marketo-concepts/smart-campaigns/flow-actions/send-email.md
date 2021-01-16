@@ -3,9 +3,9 @@ unique-page-id: 1146948
 description: Enviar email - Documentos do Marketing - Documentação do produto
 title: Enviar email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Visão geral {#overview}
 
-A etapa **Enviar email **fluxo pode ser usada como parte do campanha ou como uma etapa de fluxo único para enviar emails para suas pessoas.
+A etapa de fluxo **Enviar email** pode ser usada como parte do campanha ou como uma etapa de fluxo único para enviar emails para suas pessoas.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 
@@ -29,14 +29,10 @@ Você pode pré-visualização o email selecionado diretamente da etapa de fluxo
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
    >Seu email deve ser aprovado se você quiser selecioná-lo na etapa de fluxo.
 
 1. Clique no ícone de pré-visualização para ver o email selecionado no momento.
 
    ![](assets/image2014-9-22-10-3a8-3a22.png)
 
-   Uma nova guia/janela abrirá onde você pode ver o email.
-
+Uma nova guia/janela abrirá onde você pode ver o email.
