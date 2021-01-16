@@ -3,9 +3,9 @@ unique-page-id: 1147084
 description: Remover do fluxo - Documentos do marketing - Documentação do produto
 title: Remover do Fluxo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,4 @@ Localize e selecione a campanha inteligente da qual deseja remover as pessoas.
 
 >[!NOTE]
 >
->**Lembrete**
->
 >Essa funcionalidade deve ser usada dentro das etapas de fluxo de uma campanha inteligente.
-
