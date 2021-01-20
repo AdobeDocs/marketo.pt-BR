@@ -3,7 +3,7 @@ unique-page-id: 1147070
 description: Exportar resultados de Campanha inteligente para Excel - Documentos do marketing - Documentação do produto
 title: Exportar resultados da Campanha inteligente para o Excel
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -24,4 +24,3 @@ Exporte os resultados da campanha inteligente para o Excel para uso fora do Mark
    >[!NOTE]
    >
    >A exportação é limitada a 20.000 linhas. O arquivo Excel é salvo na pasta de downloads padrão do seu navegador.
-
