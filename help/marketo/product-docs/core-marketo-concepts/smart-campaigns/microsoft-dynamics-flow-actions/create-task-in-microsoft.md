@@ -3,9 +3,9 @@ unique-page-id: 37356429
 description: Criar Tarefa na Microsoft - Documentos do Marketing - Documentação do produto
 title: Criar Tarefa na Microsoft
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,17 @@ Criar Tarefa na Microsoft cria uma tarefa em Atividades relacionadas à Pessoa (
 >
 >Esta etapa de fluxo **só funcionará quando for usada com acionadores**, não filtros, na sua campanha inteligente.
 
-Por padrão, a etapa de fluxo terá a seguinte aparência:   ![](assets/msd1.png)
+Por padrão, a etapa de fluxo terá a seguinte aparência:
+
+![](assets/msd1.png)
 
 >[!NOTE]
 >
->Quando o usuário de sincronização de marketing estiver criando o tarefa, **Vencimento em **é um campo obrigatório para a tarefa ser criada na Microsoft. Por padrão, o Marketo inserirá cinco dias se nenhum valor for inserido.
+>Quando o usuário de sincronização de marketing está criando o tarefa, **Vencimento em** é um campo obrigatório para a tarefa ser criada na Microsoft. Por padrão, o Marketo inserirá cinco dias se nenhum valor for inserido.
 
-Personalize todos os campos para criar a tarefa da maneira que desejar.   ![](assets/msd2.png)
+Personalize todos os campos para criar a tarefa da maneira que desejar.
+
+![](assets/msd2.png)
 
 >[!NOTE]
 >
@@ -35,5 +39,4 @@ Personalize todos os campos para criar a tarefa da maneira que desejar.   ![](as
 
 >[!TIP]
 >
->Você pode usar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` nas **Assunto** e **Descrição**. Consulte [Tokens para Etapas de Fluxo](http://docs.marketo.com/x/c4AR) para obter mais detalhes.
-
+>Você pode usar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` nas **Assunto** e **Descrição**. Consulte [Tokens para Etapas de Fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) para obter mais detalhes.
