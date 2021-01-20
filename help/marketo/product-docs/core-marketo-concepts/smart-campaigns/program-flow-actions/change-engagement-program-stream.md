@@ -3,9 +3,9 @@ unique-page-id: 1147015
 description: Mudar fluxo de Programa de envolvimento - Documentos do marketing - Documentação do produto
 title: Alterar fluxo de Programa de envolvimento
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Visão geral {#overview}
 
-Normalmente, você usaria [regras de transição de fluxo](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para conseguir isso, mas se quiser mover manualmente as pessoas de um fluxo para outro, esta é a etapa de fluxo a ser usada.
+Normalmente, você usaria [regras de transição de fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para conseguir isso, mas se quiser mover manualmente as pessoas de um fluxo para outro, esta é a etapa de fluxo a ser usada.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
@@ -29,9 +29,8 @@ Normalmente, você usaria [regras de transição de fluxo](../../../../product-d
 
    ![](assets/image2014-9-22-14-3a52-3a50.png)
 
-1. Em seguida, selecione o fluxo ao qual deseja adicionar suas pessoas.
+1. Selecione o fluxo ao qual deseja adicionar as pessoas.
 
    ![](assets/image2014-9-22-14-3a52-3a59.png)
 
-   E é isso!
-
+E é isso!
