@@ -3,7 +3,7 @@ unique-page-id: 1147013
 description: Alterar a cadência do Programa de envolvimento - Documentos do Marketo - Documentação do produto
 title: Alterar a cadência do Programa de envolvimento
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   Você pode redefinir a pessoa para **Normal** se quiser que ela comece a receber conteúdo novamente.
-
+Você pode redefinir a pessoa para **Normal** se quiser que ela comece a receber conteúdo novamente.
