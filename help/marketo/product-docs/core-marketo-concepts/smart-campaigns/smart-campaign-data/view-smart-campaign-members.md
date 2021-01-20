@@ -3,9 +3,9 @@ unique-page-id: 1146937
 description: Membros de Campanha inteligente da visualização - Documentos do Marketing - Documentação do produto
 title: Membros da Campanha inteligente da visualização
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Visualizações que já passaram pelo fluxo de campanhas inteligente; ou seja, membros de campanhas inteligentes.
 
-1. Vá para Atividades de marketing.
+1. Vá para **Atividades de marketing**.
 
 ![](assets/login-marketing-activities.png)
 
-1. Na sua campanha inteligente, clique em Membros da Campanha da Visualização .
+1. Na sua campanha inteligente, clique em **Membros da Campanha da Visualização**.
 
    ![](assets/changescore-hands.png)
 
@@ -35,19 +35,6 @@ Visualizações que já passaram pelo fluxo de campanhas inteligente; ou seja, m
    >
    >A lista Membros da Campanha estará inicialmente vazia quando a campanha inteligente não for executada em nenhuma pessoa.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Mergulho profundo**
-   >
-   >
-   >Saiba mais sobre o que você pode fazer com [lista](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
-   >[!NOTE]
-   >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Visualização de pessoas bloqueadas em uma Campanha inteligente](view-blocked-people-in-a-smart-campaign.md)
-
-
+   >[Visualização de pessoas bloqueadas em uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
