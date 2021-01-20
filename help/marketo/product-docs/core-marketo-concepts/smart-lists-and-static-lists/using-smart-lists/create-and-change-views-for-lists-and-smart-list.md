@@ -3,7 +3,7 @@ unique-page-id: 557337
 description: Criar e alterar Visualizações para Listas e Listas inteligentes - Documentos de marketing - Documentação do produto
 title: Criar e alterar Visualizações para Listas e Listas inteligentes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -18,13 +18,14 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que pode
 ## Criar uma Visualização {#create-a-view}
 
 1. Vá para uma lista ou lista inteligente, clique na guia **Pessoas** e clique em **Criar** **Visualização** no menu suspenso **Visualização**.
-1. ![](assets/smartlist-createview.png)
+
+   ![](assets/smartlist-createview.png)
 
 1. Nomeie a visualização e localize a coluna que deseja adicionar ou remover.
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-   Adicione/remova as colunas desejadas e clique em Criar.
+1. Adicione/remova as colunas desejadas e clique em **Criar**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
@@ -56,8 +57,6 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que pode
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-
-
 ## Excluir uma Visualização {#delete-a-view}
 
 1. Selecione a opção **Editar** para a visualização que deseja excluir do menu suspenso **Visualização**.
@@ -72,10 +71,6 @@ Somente você pode ver as visualizações personalizadas que você cria no menu 
 
 >[!MORELIKETHIS]
 >
->* [Usar Listas integradas/inteligentes do sistema](use-built-in-system-smart-lists.md)
->* [Criar uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>* [Usar Listas integradas/inteligentes do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [Criar uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
