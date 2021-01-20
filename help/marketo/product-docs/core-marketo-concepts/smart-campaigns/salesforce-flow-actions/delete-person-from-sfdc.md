@@ -3,7 +3,7 @@ unique-page-id: 1147031
 description: Excluir pessoa do SFDC - Documentos do Marketing - Documentação do produto
 title: Excluir Pessoa do SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Se você precisar remover um conjunto específico de clientes potenciais do Sale
    >[!CAUTION]
    >
    >Se você definir **Excluir no Marketo** como **true** e excluir as pessoas do Marketo e os clientes potenciais do Salesforce, elas desaparecerão para sempre. Isto não pode ser desfeito.
-
