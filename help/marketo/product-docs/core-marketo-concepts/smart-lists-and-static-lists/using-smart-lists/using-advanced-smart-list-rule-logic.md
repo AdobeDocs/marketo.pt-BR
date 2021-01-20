@@ -3,7 +3,7 @@ unique-page-id: 1146901
 description: Usando a lógica avançada da regra de Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Usando a lógica avançada da regra de Lista inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,11 +17,8 @@ Você pode encontrar as pessoas exatas de que precisa aplicando a lógica da reg
 
 >[!PREREQUISITES]
 >
->* [Localizar e adicionar Filtros a uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Definir Filtros de Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
->
-
+>* [Localizar e adicionar Filtros a uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [Definir Filtros de Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 
 >[!NOTE]
@@ -30,11 +27,11 @@ Você pode encontrar as pessoas exatas de que precisa aplicando a lógica da reg
 
 ## Adicionar lógica a uma Lista inteligente {#add-logic-to-a-smart-list}
 
-Por padrão, sua lista inteligente encontrará as pessoas que correspondem aos filtros **ALL** (filtros 1 *e* 2 *e* 3). Você pode alterar a lógica da regra para encontrar pessoas que correspondam a **ANY** dos filtros definidos (filtros 1 *ou* 2 *ou* 3), ou usar filtros avançados (filtros 1 *e* 2 *ou *3).
+Por padrão, sua lista inteligente encontrará as pessoas que correspondem aos filtros **ALL** (filtros 1 _e_ 2 _e_ 3). Você pode alterar a lógica da regra para encontrar pessoas que correspondam a **ANY** dos filtros definidos (filtros 1 _ou_ 2 _ou_ 3), ou usar filtros avançados (filtros 1 _e_ 2 _ou_ 3).
 
-Neste exemplo, digamos que você queira encontrar pessoas na Califórnia *e* com uma pontuação de pelo menos 50 pontos *ou* com um status de &quot;Vendas qualificadas&quot;.
+Neste exemplo, digamos que você queira encontrar pessoas na Califórnia _e_ com uma pontuação de pelo menos 50 pontos _ou_ com um status de &quot;Vendas qualificadas&quot;.
 
-1. Selecione **Use** **Advanced** **filtros** no menu suspenso.
+1. Selecione **Usar filtros avançados** no menu suspenso.
 
    ![](assets/one.png)
 
@@ -42,7 +39,7 @@ Neste exemplo, digamos que você queira encontrar pessoas na Califórnia *e* com
    >
    >Usar listas **Avançadas** reduz a necessidade de criar filtros inteligentes com o membro do filtro Lista inteligente. Isso ajuda a otimizar o desempenho.
 
-1. A caixa de texto **Advanced** **filtros** exibirá &quot;e&quot; como o valor padrão entre todos os seus filtros.
+1. A caixa de texto **filtros avançados** exibirá &quot;e&quot; como o valor padrão entre todos os seus filtros.
 
    ![](assets/two-2.png)
 
@@ -73,4 +70,3 @@ Dependendo de sua intenção, talvez seja necessário adicionar parênteses anin
 >[!TIP]
 >
 >Se você inserir uma regra inválida, verá uma linha vermelha sendo exibida sob a regra. Role sobre o texto para ver a mensagem de erro relacionada.
-
