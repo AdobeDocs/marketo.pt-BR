@@ -3,9 +3,9 @@ unique-page-id: 7511477
 description: Usar Filtros de inatividade em uma Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Usar Filtros de inatividade em uma Lista inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,3 @@ Você sabia que pode procurar pessoas em uma Lista inteligente que *não* fizera
 1. Selecione o operador **is any**. Isso encontrará todas as pessoas que não visitaram nenhuma página nos últimos 30 dias.
 
    ![](assets/mysmartlist-people.jpg)
-
-   Não foi tão fácil?
-
