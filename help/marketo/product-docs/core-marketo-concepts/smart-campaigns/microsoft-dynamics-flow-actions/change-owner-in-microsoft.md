@@ -3,7 +3,7 @@ unique-page-id: 37356426
 description: Alterar proprietário na Microsoft - Documentos do Marketing - Documentação do produto
 title: Alterar proprietário na Microsoft
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Se você tiver pessoas já atribuídas a um proprietário, poderá usar essa eta
    >[!NOTE]
    >
    >Se o registro ainda não existir em sua conta do Dynamics, ele será sincronizado e atribuído ao usuário selecionado.
-
