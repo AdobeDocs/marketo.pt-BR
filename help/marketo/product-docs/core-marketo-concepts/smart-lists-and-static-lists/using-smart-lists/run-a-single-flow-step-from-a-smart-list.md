@@ -3,7 +3,7 @@ unique-page-id: 557322
 description: Execute uma única etapa de fluxo a partir de uma Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Executar uma única etapa de fluxo a partir de uma Lista inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Se quiser executar uma etapa de fluxo única, você pode usar uma única etapa d
 
 >[!PREREQUISITES]
 >
->* [Criar uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Criar uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Vá para **Atividades de marketing**.
 
@@ -35,7 +31,7 @@ Se quiser executar uma etapa de fluxo única, você pode usar uma única etapa d
    >
    >Listas estáticas e listas inteligentes têm essa funcionalidade.
 
-1. Clique em **Selecionar tudo**. Você também pode usar ** Ctrl/Cmd** e clicar para selecionar alguns registros manualmente.
+1. Clique em **Selecionar tudo**. Você também pode usar **Ctrl/Cmd** e clicar para selecionar alguns registros manualmente.
 
    ![](assets/smartlist-selectallhand.png)
 
@@ -43,7 +39,7 @@ Se quiser executar uma etapa de fluxo única, você pode usar uma única etapa d
    >
    >Se os resultados se expandirem em várias páginas, clicar em **Selecionar tudo** selecionará todas as pessoas em todas as páginas.
 
-1. Em **Pessoa** **Ações**, selecione a etapa de fluxo de sua escolha. Neste exemplo, usaremos [Alterar valor de dados](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. Em **Pessoa** **Ações**, selecione a etapa de fluxo de sua escolha. Neste exemplo, usaremos [Alterar valor de dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
