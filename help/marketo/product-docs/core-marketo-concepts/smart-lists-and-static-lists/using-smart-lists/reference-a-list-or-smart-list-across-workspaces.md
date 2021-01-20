@@ -3,7 +3,7 @@ unique-page-id: 4720377
 description: Referência a uma Lista ou Lista inteligente entre espaços de trabalho - Documentos do marketing - Documentação do produto
 title: Referência a uma Lista ou Lista inteligente em espaços de trabalho
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Listas e listas inteligentes podem ser compartilhadas e referenciadas em espaço
 
    ![](assets/four-3.png)
 
-1. Escolha um **Espaço de trabalho **para compartilhar. Selecione **Salvar**.
+1. Escolha um **Workspace** para compartilhar. Selecione **Salvar**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -50,4 +50,3 @@ Listas e listas inteligentes podem ser compartilhadas e referenciadas em espaço
    >[!NOTE]
    >
    >No Marketing Atividade, você só pode compartilhar pastas de nível superior. No Banco de Dados, você pode compartilhar pastas de nível superior e um nível abaixo.
-
