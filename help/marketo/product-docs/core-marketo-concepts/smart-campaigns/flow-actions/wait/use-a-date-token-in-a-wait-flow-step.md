@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: Usar um token de data em uma etapa de fluxo de espera - Documentos do Marketing - Documentação do produto
 title: Usar um token de data em uma etapa de fluxo de espera
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Usar um token de data em uma Etapa de fluxo de espera {#use-a-date-token-in-a-wait-flow-step}
 
-Você pode usar a etapa de fluxo de Espera para pausar a jornada de uma pessoa por uma campanha inteligente até uma data específica que usa um token de data. Você também pode modificar a data final em alguns dias.
+Você pode usar a etapa de fluxo de Espera para pausar a jornada de uma pessoa por meio de uma campanha inteligente até uma data específica que usa um token de data. Você também pode modificar a data final em alguns dias.
 
 >[!NOTE]
 >
@@ -56,15 +56,12 @@ Você pode usar a etapa de fluxo de Espera para pausar a jornada de uma pessoa p
    >
    >Você também pode especificar o número de dias usando um token `{{lead.` ou `{{company.` que representa um campo inteiro ou um token `{{my.` do tipo de número.
 
-1. Clique em Salvar.
+1. Clique em **Salvar**.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >
-   >* [Usar uma duração em uma etapa do fluxo de espera](use-a-duration-in-a-wait-flow-step.md)
-   >* [Usar uma data específica em uma etapa de fluxo de espera](use-a-specific-date-in-a-wait-flow-step.md)
-
+   >* [Usar uma duração em uma etapa do fluxo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+   >* [Usar uma data específica em uma etapa de fluxo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
 
