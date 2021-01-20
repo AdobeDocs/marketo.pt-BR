@@ -3,9 +3,9 @@ unique-page-id: 1146978
 description: Usar uma duração em uma etapa de fluxo de espera - Documentos do Marketing - Documentação do produto
 title: Usar uma duração em uma etapa do fluxo de espera
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Usar uma Duração em uma Etapa de Fluxo de Espera {#use-a-duration-in-a-wait-flow-step}
 
-Você pode usar a etapa de fluxo de espera para pausar a jornada de uma pessoa através de uma campanha inteligente por um certo período de tempo. Você também pode especificar critérios para o dia da semana e a hora em que ela termina.
+Você pode usar a etapa de fluxo de espera para pausar a jornada de uma pessoa por meio de uma campanha inteligente por um determinado período de tempo. Você também pode especificar critérios para o dia da semana e a hora em que ela termina.
 
 1. Na guia **Fluxo** da campanha inteligente, arraste sobre a etapa de fluxo **Aguarde**.
 
@@ -39,9 +39,7 @@ Você pode usar a etapa de fluxo de espera para pausar a jornada de uma pessoa a
    >
    >**Exemplo**
    >
-   >
    >Uma pessoa dispara uma campanha inteligente na sexta-feira às 17h. A etapa de espera está avançada: 48 horas e deve terminar de manhã às 9h00.
-   >
    >
    >O resultado seria que a pessoa continuaria no fluxo em **segunda-feira, 9h**. Esta é a primeira data M-F após 48 horas.
 
@@ -49,13 +47,8 @@ Você pode usar a etapa de fluxo de espera para pausar a jornada de uma pessoa a
    >
    >A duração, as datas, os horários e os dias usados são todos baseados no fuso horário de sua subscrição.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Usar uma data específica em uma etapa de fluxo de espera](use-a-specific-date-in-a-wait-flow-step.md)
-   >    * [Usar um token de data em uma etapa de fluxo de espera](use-a-date-token-in-a-wait-flow-step.md)
-
+   >* [Usar uma data específica em uma etapa de fluxo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [Usar um token de data em uma etapa de fluxo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
 
