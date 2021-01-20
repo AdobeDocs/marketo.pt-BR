@@ -3,7 +3,7 @@ unique-page-id: 1147021
 description: Alterar proprietário - Documentos do Marketing - Documentação do produto
 title: Alterar proprietário
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Se você tiver pessoas já atribuídas a um proprietário, poderá usar essa eta
    >1. O Marketo criará um cliente potencial de duplicado **only** quando o contato for sincronizado com o Salesforce. Em outras palavras, se você usar a etapa de fluxo **[Sincronizar Pessoa com SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** com `AssignTo=<a lead queue>`, o Marketo criará um cliente potencial de duplicado no Salesforce e o atribuirá à fila de cliente potencial.
       >
       >
-   2. Se você tentar usar a etapa de fluxo **Alterar proprietário** em um contato, nenhum duplicado será criado no Salesforce.
+   1. Se você tentar usar a etapa de fluxo **Alterar proprietário** em um contato, nenhum duplicado será criado no Salesforce.
 
 
    >[!NOTE]
