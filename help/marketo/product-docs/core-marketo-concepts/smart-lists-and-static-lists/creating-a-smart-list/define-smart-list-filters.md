@@ -3,9 +3,9 @@ unique-page-id: 557316
 description: Definir Filtros de Lista Inteligente - Documentos do Marketing - Documentação do Produto
 title: Definir Filtros de Lista inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,8 @@ ht-degree: 0%
 >* [Criar uma Lista inteligente](create-a-smart-list.md)
 >* [Localizar e adicionar Filtros ao Smart Lista](find-and-add-filters-to-a-smart-list.md)
 
->
 
-
-
-Agora que você [criou uma lista inteligente](create-a-smart-list.md) e [adicionou filtros](find-and-add-filters-to-a-smart-list.md) a ela, vamos definir os filtros. Veja como.
+Agora que você [criou uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) e [adicionou filtros](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) a ela, vamos definir os filtros. Veja como.
 
 Continuando nosso exemplo, vamos definir esses filtros para encontrar todas as pessoas na Califórnia com uma pontuação acima de 50.
 
@@ -40,20 +37,10 @@ Continuando nosso exemplo, vamos definir esses filtros para encontrar todas as p
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Você pode estar armazenando **California** e **CA**. Para filtrar por ambos os valores e incluir *todas as *pessoas da Califórnia, saiba como [adicionar vários valores a um filtro de lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
+   >Você pode estar armazenando **California** e **CA**. Para filtrar por ambos os valores e incluir _todas_ pessoas da Califórnia, saiba como [adicionar vários valores a um filtro de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
 
 1. Escolha o operador **maior que** e digite **50**.
 
    ![](assets/smartlistfilter-personscore.png)
 
    Parabéns! Agora você sabe como criar uma lista inteligente e adicionar/definir filtros.
-
->[!NOTE]
->
->**Mergulho profundo**
->
->Saiba mais sobre [listas inteligentes e listas estáticas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
