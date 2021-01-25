@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Usando a página de detalhes da pessoa - Documentos do Marketing - Documentação do produto
 title: Usando a página Detalhes da pessoa
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,15 @@ A página de detalhes da pessoa contém todas as informações que Marketo conhe
 
 ## Página Obtendo Detalhes da Pessoa {#getting-to-person-detail-page}
 
-Há muitas maneiras de abrir pessoas específicas. Alguns exemplos estão listados abaixo.
+Há muitas maneiras de abrir pessoas específicas. Alguns exemplos são:
 
->[!NOTE]
->
->**Exemplo**
->
->* No **Banco de Dados**, você pode pesquisar na Localização Rápida
->* Qualquer lista ou lista inteligente ****
->* **Tabulação de** membros de um programa
->* **Visualização** Membros da Campanha em uma Campanha inteligente
->* Alguns **relatórios**
+* No **Banco de Dados**, você pode pesquisar na Localização Rápida
+* Qualquer lista ou lista inteligente ****
+* **Tabulação de** membros de um programa
+* **Visualização** Membros da Campanha em uma Campanha inteligente
+* Alguns **relatórios**
 
->
-
-
+   <br> 
 
 1. Clique com o duplo do mouse em qualquer pessoa ou clique uma vez na ID à esquerda.
 
@@ -96,9 +90,7 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Alguns campos são editáveis *e não*:
+>Alguns campos são editáveis _e não_:
 >
 >* Informações de empresa
 >* Oportunidades de Contatos SFDC
@@ -107,13 +99,8 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 
 >
 >
-Saiba mais sobre [Campos gerenciados pelo sistema](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
+Saiba mais sobre [Campos gerenciados pelo sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
->* [Criando uma guia personalizada para a página Detalhes da pessoa](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-
->
-
-
-
+>[Criando uma guia personalizada para a página Detalhes da pessoa](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
