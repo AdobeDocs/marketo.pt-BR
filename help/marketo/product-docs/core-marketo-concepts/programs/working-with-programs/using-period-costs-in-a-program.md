@@ -3,9 +3,9 @@ unique-page-id: 1147118
 description: Uso dos custos do período em um Programa - Documentos do marketing - Documentação do produto
 title: Uso dos custos do período em um Programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # Usando Custos de Período em um Programa {#using-period-costs-in-a-program}
 
-Um [custo do período](understanding-period-costs.md) é a quantia que você gasta em um programa. Pode ser por um ou mais meses e é usado para o ROI do relatórios.
-
->[!NOTE]
->
->**Mergulho profundo**
->
-> Saiba mais sobre [Análises do ciclo de receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+Um [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) é a quantia que você gasta em um programa. Pode ser por um ou mais meses e é usado para o ROI do relatórios.
 
 ## Adicionar um Custo de Período {#add-a-period-cost}
 
@@ -54,7 +48,8 @@ Um [custo do período](understanding-period-costs.md) é a quantia que você gas
 ## Editar um Custo de Período {#edit-a-period-cost}
 
 1. Se você gastar mais ou menos dinheiro do que o inicialmente projetado, poderá editar o custo do período.
-1. Vá para a **guia Configuração **do seu programa.
+
+1. Vá para a guia **Setup** do seu programa.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
@@ -76,17 +71,12 @@ Um [custo do período](understanding-period-costs.md) é a quantia que você gas
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Clique em **Excluir **para confirmar.
+1. Clique em **Excluir** para confirmar.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [Noções básicas sobre os custos do período](understanding-period-costs.md)
->* [Análise do ciclo de receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
->* [Filtrar um Relatório de Programa por Custo de Período](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
->
-
-
+>* [Noções básicas sobre os custos do período](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
+>* [Filtrar um Relatório de Programa por Custo de Período](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
