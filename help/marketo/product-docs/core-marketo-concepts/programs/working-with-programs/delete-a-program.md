@@ -3,7 +3,7 @@ unique-page-id: 1147148
 description: Excluir um Programa - Documentos do Marketing - Documentação do produto
 title: Excluir um Programa
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Você pode arquivar um programa, mas às vezes você só quer se livrar dele per
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Clique em Ações do Programa. Clique em Excluir.
+1. Clique em **Ações do Programa**. Clique em **Excluir**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Selecione a opção Excluir tudo. Revise os efeitos colaterais da exclusão do programa e clique em Excluir para confirmar.
+1. Selecione a opção Excluir tudo. Revise os efeitos colaterais da exclusão do programa e clique em **Excluir** para confirmar.
 
 >[!TIP]
 >
@@ -43,9 +43,8 @@ Para corrigir o problema, talvez seja necessário detalhar e cancelar a aprovaç
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Clique em **Usado** **Por** para ver onde o ativo está em uso.
+1. Clique em **Usado por** para ver onde o ativo está em uso.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
    Depois de saber onde seu ativo está sendo usado, vá até ele e cancele a aprovação/exclusão. Em seguida, tente excluir seu programa novamente.
-
