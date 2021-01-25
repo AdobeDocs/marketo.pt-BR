@@ -3,7 +3,7 @@ unique-page-id: 1147154
 description: Sincronizar uma Campanha SFDC com um Programa - Documentos do Marketing - Documentação do produto
 title: Sincronizar uma Campanha SFDC com um Programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -17,7 +17,7 @@ O Marketo permite sincronizar seus programas com as campanhas do Salesforce para
 
 >[!PREREQUISITES]
 >
->Será necessário [ativar a sincronização de campanha do Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) primeiro.
+>Será necessário [ativar a sincronização de campanha do Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) primeiro.
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ O Marketo permite sincronizar seus programas com as campanhas do Salesforce para
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Selecione **Criar novo **ou escolha uma campanha existente do Salesforce.
+1. Selecione **Criar novo** ou escolha uma campanha Salesforce existente.
 
    >[!TIP]
    >
-   >Se você selecionar uma campanha Salesforce existente, certifique-se de [corresponder aos status do programa da campanha Salesforce e do programa Marketo](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Se você selecionar uma campanha Salesforce existente, certifique-se de [corresponder aos status do programa da campanha Salesforce e do programa Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 1. Digite um nome para a nova campanha e clique em **Salvar**.
 
@@ -50,4 +50,3 @@ O Marketo permite sincronizar seus programas com as campanhas do Salesforce para
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
    Excelente! Agora, qualquer alteração no status do programa no Marketo é sincronizada com a campanha SFDC e vice-versa.
-
