@@ -3,7 +3,7 @@ unique-page-id: 2952636
 description: Localizar pessoas de Duplicado com lógica personalizada - Documentos do Marketing - Documentação do produto
 title: Localizar pessoas com Duplicados com lógica personalizada
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -17,21 +17,17 @@ A Marketo tem uma lista inteligente do sistema que encontra duplicados ao corres
 
 >[!PREREQUISITES]
 >
->* [Criar uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Criar uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Vá para a área Atividades de marketing.
+1. Vá para a área **Atividades de marketing**.
 
 ![](assets/ma-2.png)
 
-1. Selecione sua lista inteligente e clique na guia Lista inteligente.
+1. Selecione sua lista inteligente e clique na guia **Lista inteligente**.
 
    ![](assets/two-4.png)
 
-1. Localize e arraste o filtro Campos do Duplicado até a tela.
+1. Localize e arraste o filtro **Campos de Duplicado** para a tela de desenho.
 
    ![](assets/three-4.png)
 
@@ -45,4 +41,3 @@ A Marketo tem uma lista inteligente do sistema que encontra duplicados ao corres
    ![](assets/four-2.png)
 
    Concluído! Execute a lista inteligente para localizar pessoas com o mesmo valor no campo selecionado anteriormente.
-
