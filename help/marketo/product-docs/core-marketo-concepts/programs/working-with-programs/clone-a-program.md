@@ -3,9 +3,9 @@ unique-page-id: 1147110
 description: Clonar um Programa - Documentos do Marketing - Documentação do produto
 title: Clonar um Programa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -23,22 +23,20 @@ Você pode clonar rápida e facilmente um programa inteiro e todos os seus ativo
 
    >[!NOTE]
    >
-   >Programas podem ser clonados em [campanha](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [pastas](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) ou [espaços de trabalho](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Certifique-se de compartilhar todos os ativos dependentes subjacentes (emails, trechos, modelos de landing page etc.) com o espaço de trabalho de destino antes da clonagem.
+   >Programas podem ser clonados em [campanha](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [pastas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) ou [espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Certifique-se de compartilhar todos os ativos dependentes subjacentes (emails, trechos, modelos de landing page etc.) com o espaço de trabalho de destino antes da clonagem.
 
    ![](assets/cloneto.png)
 
    >[!NOTE]
    >
-   >**Explicação**
-   >
-   >
    >Vê essa NOTA na captura de tela acima? Significa que se você clonar um programa com 1000 ou mais pessoas em uma lista, a lista em si será clonada, mas estará vazia. Se você clonar um programa com uma lista que contenha 999 pessoas ou menos, essa lista, juntamente com todos os membros, aparecerá no programa clonado.
 
-   Insira um Nome.
+1. Insira um Nome.
 
    ![](assets/cloneprogramname.png)
 
-   Escolha a pasta para a qual deseja clonar o programa.
+1. Escolha a pasta para a qual deseja clonar o programa.
+
    ![](assets/choosefolderclone.png)
 
 1. Adicione uma descrição opcional e clique em **Criar**. Veja a rapidez com que você conseguiu criar um novo programa com todos os seus ativos prontos!
@@ -47,9 +45,8 @@ Você pode clonar rápida e facilmente um programa inteiro e todos os seus ativo
 
    >[!TIP]
    >
-   >Use essa técnica juntamente com [tokens](http://docs.marketo.com/display/docs/using+tokens) para tornar a criação de novos programas um salto.
+   >Use essa técnica juntamente com tokens para tornar a criação de novos programas um salto.
 
    >[!CAUTION]
    >
    >Os custos do período não serão transferidos, portanto, adicione-os ao seu programa clonado se você tiver um definido no original.
-
