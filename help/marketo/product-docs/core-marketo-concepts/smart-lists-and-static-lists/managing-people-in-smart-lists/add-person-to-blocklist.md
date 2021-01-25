@@ -3,7 +3,7 @@ unique-page-id: 9438139
 description: Adicionar pessoa à Lista de bloqueios - Documentos do Marketing - Documentação do produto
 title: Adicionar pessoa à Lista de bloqueios
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Adicionar pessoas à sua Lista de bloqueios impede que elas recebam sua correspo
 >
 >O Marketo está mudando termos como Blacklist e Whitelist para Lista de bloqueios e Lista de permissões em nosso produto. Durante esta atualização, você pode ver os termos antigos em nossa interface do usuário e nas capturas de tela da documentação, bem como os novos termos em nosso texto de documentação. Pedimos desculpas por qualquer confusão.
 
-1. [Crie um novo ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) programa padrão e nomeie-o como  **Adicionar à Lista de bloqueios**.
+1. [Crie um novo ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) programa padrão e nomeie-o como  **Adicionar à Lista de bloqueios**.
+
 1. Clique em **Novo** e selecione **Novo ativo local**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
@@ -72,5 +73,4 @@ Adicionar pessoas à sua Lista de bloqueios impede que elas recebam sua correspo
 
    >[!TIP]
    >
-   >Crie uma [campanha inteligente de acionamento](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) usando **Alterar valor de dados** com **Bloqueio listado é verdadeiro** para todas as pessoas que no futuro têm atributos que podem ser  lista de bloqueios.
-
+   >Crie uma [campanha inteligente de acionamento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) usando **Alterar valor de dados** com **Bloqueio listado é verdadeiro** para todas as pessoas que no futuro têm atributos que podem ser  lista de bloqueios.
