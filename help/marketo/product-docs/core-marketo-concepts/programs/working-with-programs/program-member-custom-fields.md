@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Campos personalizados de membros do programa - Documentos do Marketing - Documentação do produto
 title: Campos personalizados de membro do programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Campos personalizados de membros do programa permitem coletar dados específicos
 
    >[!NOTE]
    >
-   >Os tipos suportados para campos personalizados de membros do Programa são: booleano, data, datetime, float, integer, string, URL. [Saiba mais sobre tipos](http://docs.marketo.com/x/Wwgt) de campos.
+   >Os tipos suportados para campos personalizados de membros do Programa são: booleano, data, datetime, float, integer, string, URL. [Saiba mais sobre tipos](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md) de campos.
 
 ## Descrições do objeto {#object-descriptions}
 
@@ -56,7 +56,7 @@ Campos personalizados de membros do programa permitem coletar dados específicos
 
 ## Acionadores e Filtros {#triggers-and-filters}
 
-Você pode aproveitar esses dados específicos do programa em listas inteligentes por meio de [acionadores](http://docs.marketo.com/x/PoAR)e/ou [filtros](http://docs.marketo.com/x/2YAI).
+Você pode aproveitar esses dados específicos do programa em listas inteligentes por meio de [acionadores](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) e/ou [filtros](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
 
 ![](assets/six.png)
 
@@ -68,10 +68,9 @@ Você pode aproveitar esses dados específicos do programa em listas inteligente
 * O objeto Membro do Programa pode ter até 20 campos personalizados. Esses campos estão disponíveis para qualquer programa.
 * Quando você remove um membro de um programa, se ele tiver dados em seu campo personalizado Membro do Programa, os dados serão depurados desse campo.
 * Para visualização dos dados, clique na guia Membros no programa e crie uma visualização personalizada que inclua os campos mencionados.
-* Importar e exportar por meio de [lista](http://docs.marketo.com/x/egAk)e [API](http://developers.marketo.com/)são suportados.
+* Importar e exportar por meio de [lista](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)e [API](https://developers.marketo.com/) são suportados.
 * Quando duas pessoas forem unidas, os dados de campo personalizado do membro Programa vencedor serão usados. Mas se o vencedor não tiver nenhum, o valor do perdedor será usado.
 
 >[!MORELIKETHIS]
 >
->[Criar um campo personalizado no Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
-
+>[Criar um campo personalizado no Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
