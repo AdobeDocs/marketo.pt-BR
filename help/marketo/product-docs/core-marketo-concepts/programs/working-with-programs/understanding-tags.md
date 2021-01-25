@@ -3,9 +3,9 @@ unique-page-id: 1147112
 description: Compreensão das tags - Documentos do Marketing - Documentação do produto
 title: Compreensão das tags
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -23,16 +23,13 @@ Os tipos de tags identificam o tipo de informação pela qual você deseja class
 
 >[!TIP]
 >
->Fale com seu [Administrador do Marketing](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) se quiser criar tags personalizadas.
+>Fale com seu [Administrador do Marketing](/help/marketo/product-docs/administration/tags/create-custom-tags.md) se quiser criar tags personalizadas.
 
 >[!NOTE]
 >
 >**Exemplo**
 >
 >* Tipo de tag = proprietário do Programa
-
->
-
 
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
@@ -47,38 +44,26 @@ Cada tipo de tag terá valores para escolher.
 >
 >* Valores de tag = Anna, Arun, Reza
 
->
-
-
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
 ## Canal {#channel}
 
-Canais são usados para relatar como seus [membros](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) se movimentaram pelo seu programa. Cada canal tem um conjunto de status de progressão e um status que é definido para igual sucesso.
+Canais são usados para relatar como seus [membros](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) se movimentaram pelo seu programa. Cada canal tem um conjunto de status de progressão e um status que é definido para igual sucesso.
 
 >[!NOTE]
 >
 >**Exemplo**
 >
 >* Canal = Roadshow
-   >
-   >
-* Status de progressão = Convidado, Registrado, Participado, Sem Mostrar
+>* Status de progressão = Convidado, Registrado, Participado, Sem Mostrar
 >* Sucesso = Participado
-
->
-
 
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
->* [Criar tags personalizadas](../../../../product-docs/administration/tags/create-custom-tags.md)
->* [Criar um Canal de Programa](../../../../product-docs/administration/tags/create-a-program-channel.md)
-
->
-
-
+>* [Criar tags personalizadas](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
+>* [Criar um Canal de Programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
 
