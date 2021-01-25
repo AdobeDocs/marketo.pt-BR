@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importar um Programa - Documentos do Marketing - Documentação do produto
 title: Importar um Programa
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -21,16 +21,15 @@ Um programa pode ser importado de uma subscrição de marketing para outra. Por 
 
    ![](assets/ma.png)
 
-1. Clique **Novo **menu suspenso. Selecione **Importar Programa**.
+1. Clique no menu suspenso **Novo**. Selecione **Importar Programa**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >A Importação de programa só está disponível para usuários que têm funções com a permissão Importar Programa ativada. Saiba mais sobre [como gerenciar funções e permissões do usuário](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >A Importação de programa só está disponível para usuários que têm funções com a permissão Importar Programa ativada. Saiba mais sobre [como gerenciar funções e permissões do usuário](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >
-   >Para conectar uma conta de caixa de proteção à sua subscrição ao vivo, entre em contato com [Suporte de marketing](http://www.marketo.com/services/support/).
+   >Para conectar uma conta de caixa de proteção à sua subscrição ao vivo, entre em contato com [Suporte de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Selecione uma Subscrição Marketo **e um programa para importar.** Clique em **Próximo**.
 
@@ -42,7 +41,7 @@ Um programa pode ser importado de uma subscrição de marketing para outra. Por 
 
    >[!NOTE]
    >
-   >Verifique se *** ****Usar as regras de conflito** padrão está selecionado. As regras de conflito são necessárias quando você importa programas para uma instância que tenham ativos com o mesmo nome.
+   >Certifique-se de que **Utilizar as regras de conflito predefinidas** estejam selecionadas. As regras de conflito são necessárias quando você importa programas para uma instância que tenham ativos com o mesmo nome.
 
 1. Detalhes da pré-visualização e **Importar** o programa.
 
@@ -77,7 +76,7 @@ A Biblioteca de Programas do Marketing Cloud contém programas pré-criados e te
 1. **Sincronizar novas pessoas com o CRM.** A campanha que sincroniza novas pessoas com seu sistema CRM. Ela atribui um status de pessoa de forma que seja reconhecida como não estando pronta para venda.
 1. **Webinar com adaptador de Evento.** Um conjunto completo de emails - como convites e lembretes - além de landings page com formulários e campanhas para mover pessoas pelo programa. Este programa recebe atualizações sobre inscrição, presença etc. de provedores de eventos online, como WebEx.
 1. **Webinar sem adaptador de Evento.** O mesmo que acima, mas com processos manuais de registro, presença, etc.
-1. **Sirius Decide Pontuar Programa**. Este programa foi criado para suportar o Modelo de Pontuação de Decisões Sirius padrão, incluindo as regras de pontuação implícitas e explícitas e a atribuição de pessoa matrixada. Visualização [este PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)para obter detalhes.
+1. **Sirius Decide Pontuar Programa**. Este programa foi criado para suportar o Modelo de Pontuação de Decisões Sirius padrão, incluindo as regras de pontuação implícitas e explícitas e a atribuição de pessoa matrixada.
 
 >[!CAUTION]
 >
@@ -87,24 +86,20 @@ A Biblioteca de Programas do Marketing Cloud contém programas pré-criados e te
 
 Os programas usam ativos externos como modelos de e-mail, modelos de landing page, imagens, formulários, tokens e tags de programa. Você pode configurar como os modelos de landing page e as tags de programa são manipulados e o Marketo gerencia automaticamente o restante.
 
-**Modelos de e-mail: **Os modelos de e-mail são importados e criados automaticamente, a menos que exista um com o mesmo nome.
+**Modelos de e-mail:modelos de** e-mail são importados e criados automaticamente, a menos que exista um com o mesmo nome.
 
-**Modelos de Landing page: **Os modelos de Landing page são importados para o estúdio de design. Você pode usar regras de conflito para configurar o comportamento quando existir um modelo com o mesmo nome. Usando a regra padrão, um número será anexado a um modelo de landing page se houver um com o mesmo nome. Por exemplo, um modelo de landing page chamado Modelo padrão 1 será criado se existir um modelo padrão nomeado.
+**Modelos de landing page:modelos de** Landing page são importados para o estúdio de design. Você pode usar regras de conflito para configurar o comportamento quando existir um modelo com o mesmo nome. Usando a regra padrão, um número será anexado a um modelo de landing page se houver um com o mesmo nome. Por exemplo, um modelo de landing page chamado Modelo padrão 1 será criado se existir um modelo padrão nomeado.
 
-**Imagens: **As imagens usadas pelo landing page são importadas para o estúdio de design, a menos que exista uma com o mesmo nome.
+**Imagens:** as imagens usadas pelo landing page são importadas para o estúdio de design, a menos que exista uma com o mesmo nome.
 
-**Tokens: **Tokens que vivem fora de um programa serão convertidos em tokens locais durante o processo de importação.
-
->[!CAUTION]
->
->O tipo de imagem que meus tokens não são suportados para importações de programas. Se um programa com o tipo de imagem meus tokens for importado, **não **os tokens serão exibidos.
-
-**Tags de Programa: **Você pode usar regras de conflito para controlar como as tags de programa que não existem na conta de destino serão tratadas. O uso da regra padrão criará as tags de programa ou você poderá optar por ignorá-las.  **Forms: **Formulários externos serão importados automaticamente para o estúdio de design, a menos que exista um com o mesmo nome.
+**Tokens:** Tokens que vivem fora de um programa serão convertidos em tokens locais durante o processo de importação.
 
 >[!CAUTION]
 >
->Ao importar um programa, landings page/emails que contêm [conteúdo dinâmico](http://docs.marketo.com/x/yRAt) serão ignorados.
+>O tipo de imagem que meus tokens não são suportados para importações de programas. Se um programa com o tipo de imagem meus tokens for importado, os tokens **no** aparecerão.
 
-## Assista a um vídeo {#watch-a-video}
+**Tags de programa:** Você pode usar regras de conflito para controlar como as tags de programa que não existem na conta de destino serão tratadas. O uso da regra padrão criará as tags de programa ou você poderá optar por ignorá-las. **Forms:Formulários** externos serão importados automaticamente para o estúdio de design, a menos que exista um com o mesmo nome.
 
-`<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>[!CAUTION]
+>
+>Ao importar um programa, landings page/emails que contêm [conteúdo dinâmico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) serão ignorados.
