@@ -3,7 +3,7 @@ unique-page-id: 557329
 description: Exportar pessoas para o Excel de uma Lista ou Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Exportar pessoas para o Excel de uma Lista ou Lista inteligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Se você precisar de resultados de lista ou lista inteligente fora do Marketing,
    >[!TIP]
    >
    >Você pode desfazer o cache da lista simplesmente pressionando o botão de atualização do lista.
-
