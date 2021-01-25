@@ -3,9 +3,9 @@ unique-page-id: 1147152
 description: Clonar um ativo em um Programa - Documentos do marketing - Documentação do produto
 title: Clonar um ativo em um Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Clonar um ativo em um Programa {#clone-an-asset-in-a-program}
 
-Clonar um programa clona *tudo*. Às vezes, você só quer clonar um ativo. Veja como.
+Clonar um programa clona _tudo_. Às vezes, você só quer clonar um ativo. Veja como.
 
 >[!NOTE]
 >
->Você precisará executar etapas adicionais para [clonar um grupo de teste de landing page](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
+>Você precisará executar etapas adicionais para [clonar um grupo de teste de landing page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
 ## Clonar um ativo local {#clone-a-local-asset}
 
@@ -33,7 +33,7 @@ Clonar um programa clona *tudo*. Às vezes, você só quer clonar um ativo. Veja
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Cada tipo de ativo apresenta uma caixa de diálogo diferente. Basta preencher as informações e clicar em **Clonar.**
+1. Cada tipo de ativo apresenta uma caixa de diálogo diferente. Basta preencher as informações e clicar em **Clonar**.
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
@@ -47,10 +47,4 @@ Clonar um programa clona *tudo*. Às vezes, você só quer clonar um ativo. Veja
 
    >[!NOTE]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Clonar um Programa](clone-a-program.md)
-
-
+   >[Clonar um Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
