@@ -3,7 +3,7 @@ unique-page-id: 1147120
 description: Importar membros de uma planilha para um Programa - Documentos do Marketing - Documentação do produto
 title: Importar membros de uma planilha para um Programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Você pode importar uma lista de pessoas que automaticamente se tornam membros d
 
    >[!CAUTION]
    >
-   >Ao importar uma data para um campo de data, use este formato: 23/9/13 (Mês/Dia/Ano).
+   >Ao importar uma data para um campo de data, use este formato: 29/09/13 (Mês/Dia/Ano).
 
 ## Importar seu CSV para o Marketing {#import-your-csv-into-marketo}
 
@@ -65,9 +65,4 @@ Você pode importar uma lista de pessoas que automaticamente se tornam membros d
 
 >[!MORELIKETHIS]
 >
->* [Gerenciar e Visualização membros](manage-and-view-members.md)
-
->
-
-
-
+>[Gerenciar e Visualização membros](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
