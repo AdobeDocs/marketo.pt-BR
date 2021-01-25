@@ -3,7 +3,7 @@ unique-page-id: 1147150
 description: Usar tags em um Programa - Documentos do Marketing - Documentação do produto
 title: Usar tags em um Programa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -61,7 +61,7 @@ Tags são atributos que descrevem seus programas e são usados para agrupar tipo
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
-1. Clique em **Excluir **para confirmar.
+1. Clique em **Excluir** para confirmar.
 
    ![](assets/image2014-9-23-15-3a47-3a8.png)
 
