@@ -3,9 +3,9 @@ unique-page-id: 1147126
 description: Usando a guia Início do Programa - Documentos do Marketing - Documentação do produto
 title: Uso da guia Início do Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ A guia inicial do programa oferece uma visualização de alto nível do que est�
    >
    >Esta é a sua visualização padrão. Ele fornece informações sobre suas Configurações, Programação, Resultados e Status do Programa dos Membros.
 
-   Clique em elementos sublinhados para fazer alterações ou visualização para obter mais informações.
+1. Clique em elementos sublinhados para fazer alterações ou visualização para obter mais informações.
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-   Clique em Exportar na parte inferior do Resumo para baixar o relatório.
+1. Clique em **Exportar** na parte inferior do Resumo para baixar o relatório.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -69,12 +69,6 @@ A guia inicial do programa oferece uma visualização de alto nível do que est�
    >
    >**O** Histórico significa qualquer um que já passou pelo programa, enquanto o  **** atual inclui apenas pessoas que estão no programa.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Compreensão da associação ao Programa](understanding-program-membership.md)
-
-
+   >[Compreensão da associação ao Programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
