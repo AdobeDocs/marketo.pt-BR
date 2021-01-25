@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: Gerenciar e Visualização membros - Documentos do Marketing - Documentação do produto
 title: Gerenciar e Visualização membros
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Você pode gerenciar e visualização seus membros em seus programas usando a gu
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
-> Mergulhe mais fundo em [associação ao programa](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Mergulhe mais fundo em [associação ao programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Procurar um Membro {#search-for-a-member}
 
@@ -41,21 +39,21 @@ Na parte inferior da seção Membros, use o campo de pesquisa para procurar memb
 
 ## Gerenciar colunas na grade de membros {#manage-columns-in-the-members-grid}
 
-* Arraste e solte colunas para alterar sua ordem. O par de setas azuis indica para onde a coluna irá.
+Arraste e solte colunas para alterar sua ordem. O par de setas azuis indica para onde a coluna irá.
 
-   ![](assets/image2014-10-1-16-3a25-3a30.png)
+![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* Clique com o botão direito do mouse no cabeçalho da coluna para classificar alfabeticamente, ascendente ou descendente.
+Clique com o botão direito do mouse no cabeçalho da coluna para classificar alfabeticamente, ascendente ou descendente.
 
-   ![](assets/image2014-10-1-17-3a3-3a28.png)
+![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## Escolha quais colunas estão visíveis na grade {#choose-which-columns-are-visible-in-the-grid}
 
-1. Clique na lista suspensa **Visualização **e selecione **Criar Visualização**.
+1. Clique no menu suspenso **Visualização** e selecione **Criar Visualização**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Dê um nome à sua visualização personalizada. Selecione os títulos das colunas. Clique em** Adicionar **e** Remover **para mover colunas e criar uma visualização.
+1. Dê um nome à sua visualização personalizada. Selecione os títulos das colunas. Clique em **Adicionar** e **Remover** para mover colunas e criar uma visualização.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -89,9 +87,4 @@ Tantas características, mas são todas muito simples. Aproveite!
 
 >[!MORELIKETHIS]
 >
->* [Criar um relatório de desempenho de Programa](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-
->
-
-
-
+>[Criar um relatório de desempenho de Programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
