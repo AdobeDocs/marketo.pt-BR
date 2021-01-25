@@ -3,7 +3,7 @@ unique-page-id: 557331
 description: Localizar todas as pessoas em um estágio de receita - Documentos do marketing - Documentação do produto
 title: Localizar todas as pessoas em um estágio de receita
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Criar uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Criar uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 ## Localizar Todos os Membros de uma Etapa de Receita Específica {#find-all-members-of-a-specific-revenue-stage}
 
-1. Em uma lista inteligente, clique na guia **Lista inteligente **, localize o filtro **Estágio da receita** e arraste-o para a tela.
+1. Em uma lista inteligente, clique na guia **Lista inteligente**, localize o filtro **Estágio da receita** e arraste-o para a tela.
 
    ![](assets/draginrevenuefilter.png)
 
@@ -44,4 +40,3 @@ Agora que você sabe quais pessoas estão em quais estágios de receita, você p
    ![](assets/six.png)
 
    A partir daí, é possível escolher quais membros serão afetados por qual aspecto da etapa de fluxo. Diversão!
-
