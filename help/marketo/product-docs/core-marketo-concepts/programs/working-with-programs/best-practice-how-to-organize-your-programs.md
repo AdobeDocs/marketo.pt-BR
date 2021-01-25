@@ -3,9 +3,9 @@ unique-page-id: 6848705
 description: Prática recomendada - Como organizar seus Programas - Documentos do Marketing - Documentação do produto
 title: Prática recomendada - Como organizar seus Programas
 translation-type: tm+mt
-source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Cada um desses mencionados no exemplo é uma pasta. Notem como eles são todos e
 
 >[!TIP]
 >
->A pasta &quot;Arquivar&quot; é um tipo especial de pasta projetada para remover itens de listas selecionadas e relatórios. Isso ajudará o seu sistema a funcionar mais rapidamente. Saiba mais sobre as pastas[.](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
+>A pasta &quot;Arquivar&quot; é um tipo especial de pasta projetada para remover itens de listas selecionadas e relatórios. Isso ajudará o seu sistema a funcionar mais rapidamente. Saiba mais sobre as pastas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).[
 
 Você certamente pode adicionar mais pastas conforme desejar. Lembre-se de que as futuras gerações de profissionais de marketing na sua empresa vão viver com suas decisões sobre como nomear/organizar as coisas.
 
@@ -76,15 +76,12 @@ O nome é essencial, já que os recursos do Marketo usam uma linguagem comum par
 >1. Newsletter NL 2015-06
 >1. Tópico do Webinar do WBN 2015-12-01 aqui
 
->
 
-
-
-Os nomes de programas precisam ser exclusivos na subscrição, mesmo em espaços de trabalho diferentes [](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Para os ativos locais dentro dos programas, a regra é **manter o nome simples**. Basta citar um convite como &quot;Convite&quot;, em oposição ao &quot;Convite Webinar de 2015&quot;. Como eles estão em um programa, o programa pai faz automaticamente parte do nome ao selecioná-lo em outro lugar. Em outras palavras, os ativos locais precisam ser exclusivos apenas dentro do programa. Você pode ter centenas de ativos chamados &quot;Convidar&quot;, cada um em um programa diferente e isso não vai atrapalhar você.
+Os nomes de programas precisam ser exclusivos na subscrição, mesmo em espaços de trabalho diferentes [](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Para os ativos locais dentro dos programas, a regra é **manter o nome simples**. Basta citar um convite como &quot;Convite&quot;, em oposição ao &quot;Convite Webinar de 2015&quot;. Como eles estão em um programa, o programa pai faz automaticamente parte do nome ao selecioná-lo em outro lugar. Em outras palavras, os ativos locais precisam ser exclusivos apenas dentro do programa. Você pode ter centenas de ativos chamados &quot;Convidar&quot;, cada um em um programa diferente e isso não vai atrapalhar você.
 
 ## Tokens {#tokens}
 
-Tokens usam pastas e programas como um veículo para definir variáveis a serem usadas por landings page, emails e outros ativos. Saiba mais sobre os tokens [.](http://docs.marketo.com/display/docs/tokens)
+Tokens usam pastas e programas como um veículo para definir variáveis a serem usadas por landings page, emails e outros ativos.
 
 A organização mencionada acima permite que você coloque tokens na pasta do Evento para que ela caia em todos os eventos.
 
@@ -102,7 +99,7 @@ Um Evento geralmente tem muitas partes móveis, incluindo: convites, landings pa
 
 ## Programas de envolvimento {#engagement-programs}
 
-Saiba mais [tudo sobre programas de envolvimento](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). A melhor maneira de organizar seu programa de envolvimento é com pastas. Crie uma pasta para cada fluxo e, em seguida, coloque os emails ou programas nessa pasta. Inclua uma pasta de arquivamento em cada fluxo quando o conteúdo ficar obsoleto e você quiser removê-lo.
+Saiba mais [tudo sobre programas de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). A melhor maneira de organizar seu programa de envolvimento é com pastas. Crie uma pasta para cada fluxo e, em seguida, coloque os emails ou programas nessa pasta. Inclua uma pasta de arquivamento em cada fluxo quando o conteúdo ficar obsoleto e você quiser removê-lo.
 
 ## Programas operacionais {#operational-programs}
 
@@ -110,7 +107,7 @@ Eles são usados para fins de limpeza de dados. Tem pastas para as datas em que 
 
 ## Aninhamento de Programas de e-mail {#nesting-email-programs}
 
-Os Programas de e-mail são projetados para serem sua ferramenta de explosão de e-mail. Você pode colocá-los em Eventos ou outros programas para promoções, convites e lembretes. Eles vêm com um painel legal e outros recursos de teste A/B. Além disso, eles são facilmente manipulados na visualização [do cronograma do programa](http://docs.marketo.com/display/docs/program+schedule+view).
+Os Programas de e-mail são projetados para serem sua ferramenta de explosão de e-mail. Você pode colocá-los em Eventos ou outros programas para promoções, convites e lembretes. Eles vêm com um painel legal e outros recursos de teste A/B. Além disso, são facilmente manipulados na visualização do cronograma do programa.
 
 Você também pode fazer um programa de email como um programa independente. Programas de e-mail não são permitidos em outros programas de e-mail. Isso seria loucura!
 
@@ -126,4 +123,4 @@ Algumas pessoas até mesmo abstraem a maior parte do texto nos emails e landings
 
 ## Resumo {#summary}
 
-Como podem ver, há muito poder em Marketo. Abordamos aqui as noções básicas, mas considere alguns [serviços adicionais de Especialistas em Marketing](http://www.marketo.com/services/) para afinar e se preparar para o sucesso.
+Como podem ver, há muito poder em Marketo. Abordamos aqui as noções básicas, mas considere alguns [serviços adicionais de Especialistas em Marketing](https://www.marketo.com/services/) para afinar e se preparar para o sucesso.
