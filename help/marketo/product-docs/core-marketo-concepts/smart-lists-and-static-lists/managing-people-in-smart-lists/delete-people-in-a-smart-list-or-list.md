@@ -3,7 +3,7 @@ unique-page-id: 1146897
 description: Excluir pessoas em uma Lista ou Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Excluir pessoas em uma Lista ou Lista inteligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Criar uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Criar uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Vá para **Marketing** **Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma-1.png)
 
@@ -35,19 +31,19 @@ ht-degree: 0%
    >
    >Ao excluir uma pessoa, você não está apenas removendo-a da lista, eles serão completamente removidos do banco de dados.
 
-1. Clique em **Select** **All**. Você também pode selecionar alguns registros manualmente usando Ctrl/Cmd e clicando em.
+1. Clique em **Selecionar tudo**. Você também pode selecionar alguns registros manualmente usando Ctrl/Cmd e clicando em.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Se os resultados se expandirem em várias páginas, clicar em **Selecionar** **Todos** selecionará todas as pessoas em todas as páginas.
+   >Se os resultados se expandirem em várias páginas, clicar em **Selecionar tudo** selecionará todas as pessoas em todas as páginas.
 
-1. Para remover completamente as pessoas do Marketo, clique em **Excluir** **Pessoa**.
+1. Para remover completamente as pessoas do Marketo, clique em **Excluir pessoa**.
 
    ![](assets/four-1.png)
 
-1. Defina **Remove** **de** **CRM** para **true** se também pretender eliminar os registros do CRM.
+1. Defina **Remover do CRM** para **true** se também quiser eliminar os registros do CRM.
 
    ![](assets/five.png)
 
@@ -59,7 +55,7 @@ ht-degree: 0%
    >
    >Se o seu Marketo não estiver vinculado ao seu CRM, a opção ficará esmaecida como na captura de tela.
 
-1. Clique em **Executar** **Agora**.
+1. Clique em **Executar agora**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
@@ -72,4 +68,3 @@ ht-degree: 0%
    >Para visualização dos resultados da exclusão em massa, clique em **Resultados da Visualização** na caixa pop-up Ação de fluxo único, no canto superior direito da tela. Os tempos de exclusão podem variar muito, dependendo de vários fatores.
 
    Esta é uma grande característica, tenha cuidado ao usá-la!
-
