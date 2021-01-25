@@ -3,7 +3,7 @@ unique-page-id: 2953173
 description: Usar membros da Lista em uma Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Usar membros da Lista em uma Lista inteligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Você pode adicionar pessoas a uma lista usando [Importar](../../../../getting-started/quick-wins/import-a-list-of-people.md) ou [Adicionar à etapa de fluxo de Lista](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
+>Você pode adicionar pessoas a uma lista usando [Importar](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) ou [Adicionar à etapa de fluxo de Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
 Com esse filtro, você pode retirar membros de outra lista fazendo referência a ela nas regras de lista inteligente. Veja como.
 
@@ -31,5 +31,4 @@ Com esse filtro, você pode retirar membros de outra lista fazendo referência a
 
    ![](assets/memberoflist.png)
 
-   **Concluído!** Neste exemplo, a lista inteligente agora público alvo somente os membros dessa lista e os avalia com base em quaisquer outras regras incluídas.
-
+   Concluído! Neste exemplo, a lista inteligente agora público alvo somente os membros dessa lista e os avalia com base em quaisquer outras regras incluídas.
