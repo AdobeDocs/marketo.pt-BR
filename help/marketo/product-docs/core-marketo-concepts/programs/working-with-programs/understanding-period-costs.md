@@ -3,9 +3,9 @@ unique-page-id: 7504676
 description: Entendendo os custos do período - Documentos do marketing - Documentação do produto
 title: Noções básicas sobre os custos do período
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,9 @@ Os custos do período se referem ao dinheiro que você gasta em um mês específ
 
 >[!NOTE]
 >
->**Mergulho profundo**
+>[Como entender Programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Como entender Programas](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
->
->[Compreensão da associação ao Programa](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Compreensão da associação ao Programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Como os custos do período são calculados {#how-period-costs-are-calculated}
 
@@ -63,18 +61,10 @@ Imagine um evento, como um webinar, que ocorre em março. Novas pessoas são adq
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Resumindo, os meses sem um período definido serão revertidos para trás até ao último que foi definido. Se não houver custo do período anterior, os meses serão encaminhados &quot;para a frente&quot; para o próximo que tiver sido definido. Se um custo de período não tiver sido definido para *qualquer* meses, o relatórios em RCE não estará disponível para o programa.
+   >Resumindo, os meses sem um período definido serão revertidos para trás até ao último que foi definido. Se não houver custo do período anterior, os meses serão encaminhados &quot;para a frente&quot; para o próximo que tiver sido definido. Se um custo de período não tiver sido definido para _qualquer_ meses, o relatórios em RCE não estará disponível para o programa.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Uso dos custos do período em um Programa](using-period-costs-in-a-program.md)
-   >    * [Filtrar um Relatório de Programa por Custo de Período](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
+   >* [Uso dos custos do período em um Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [Filtrar um Relatório de Programa por Custo de Período](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
