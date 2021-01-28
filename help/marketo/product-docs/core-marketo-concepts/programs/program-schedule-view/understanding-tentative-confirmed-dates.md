@@ -3,9 +3,9 @@ unique-page-id: 1147140
 description: Noções Gerais das Datas Provisórias/Confirmadas - Documentos do Marketing - Documentação do Produto
 title: Noções sobre datas não confirmadas/confirmadas
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Campanhas inteligentes e programas de e-mail têm um recurso poderoso para ser m
 
 ## Tentativa {#tentative}
 
-Datas provisórias transmitem intenção. Pense nisso como *lápis *algo no calendário. As entradas não serão executadas - são apenas espaços reservados.
+Datas provisórias transmitem intenção. Pense nisso como _penciling_ algo no calendário. As entradas não serão executadas - são apenas espaços reservados.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -29,11 +29,15 @@ Datas provisórias transmitem intenção. Pense nisso como *lápis *algo no cale
 
 Isso é semelhante à aprovação de um ativo, portanto, as entradas precisam ser totalmente configuradas antes que você possa confirmá-las. Assim que todos os seus patos estiverem em fileira, você poderá confirmar as entradas deslizando a guia tentativa para a direita.
 
-![](assets/image2014-9-23-15-3a23-3a2.png)  ![](assets/image2014-9-23-15-3a23-3a8.png) ![](assets/image2014-9-23-15-3a23-3a12.png)
+![](assets/image2014-9-23-15-3a23-3a2.png)
+
+![](assets/image2014-9-23-15-3a23-3a8.png)
+
+![](assets/image2014-9-23-15-3a23-3a12.png)
 
 >[!NOTE]
 >
->Por que o cachorro? Ele é um Golden Retriever. Ele está buscando seus dados.
+>Por que o cachorro? Ele é um Retriever. Ele está buscando seus dados.
 
 ## Confirmado {#confirmed}
 
