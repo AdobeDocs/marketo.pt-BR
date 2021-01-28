@@ -3,7 +3,7 @@ unique-page-id: 2953243
 description: Tipos de notificação - Documentos do Marketing - Documentação do produto
 title: Tipos de notificação
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Se você tentar enviar clientes potenciais para o Facebook sem aceitar os Termos
 
 Limpeza da Campanha do acionador ocioso
 
-Desative Campanhas inteligentes acionadas que não têm mais atividade. Saiba mais sobre [limpeza automática de campanha de disparo](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Desative Campanhas inteligentes acionadas que não têm mais atividade. Saiba mais sobre [limpeza automática de campanha de disparo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,4 @@ Você será notificado quando atingir sua cota diária. A cota é redefinida tod
 
 >[!NOTE]
 >
->Alguns dos códigos de erro que você pode receber estão descritos em nossa [Documentação do desenvolvedor](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
-
+>Alguns dos códigos de erro que você pode receber estão descritos em nossa [Documentação do desenvolvedor](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
