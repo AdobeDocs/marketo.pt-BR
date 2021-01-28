@@ -3,7 +3,7 @@ unique-page-id: 1147102
 description: Criando uma entrada na Visualização do Cronograma do programa - Documentos do Marketing - Documentação do produto
 title: Criação de uma entrada na Visualização do Cronograma do programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Nomeie a entrada. Pressione **Enter **para confirmar o nome.
+1. Nomeie a entrada. Pressione **Enter** para confirmar o nome.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >O item a fazer é uma [entrada personalizada](create-custom-entry-types.md). Você pode fazer uma ação a fazer e outras entradas personalizadas para ajudar a rastrear itens de agenda que não sejam de marketing.
+   >O item a fazer é uma [entrada personalizada](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Você pode fazer uma ação a fazer e outras entradas personalizadas para ajudar a rastrear itens de agenda que não sejam de marketing.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Você também pode criar uma [campanha inteligente](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) ou [programa de email](creating-a-new-email-program-in-the-schedule-view.md) a partir da visualização agendada.
-
+> Você também pode criar uma [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) ou [programa de email](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) a partir da visualização agendada.
