@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Noções básicas sobre os cartões do Analytics - Documentos do Marketing - Documentação do produto
 title: Como entender os cartões do Analytics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ No início de cada mês, o Marketo Moments fornece três cartões de relatório 
 
 ## Cartões do Analytics {#analytics-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` Ao tocar em um cartão do Analytics, você pode:
+Ao tocar em um cartão do Analytics, você pode:
 
-* [Torne-o um favorito](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Marcar como concluído](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Compartilhar](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Torne-o um favorito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Marcar como concluído](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Compartilhar](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Toque em um cartão do Analytics para mostrar:
 
@@ -37,7 +37,7 @@ Neste exemplo, vermelho indica que o valor diminuiu no intervalo de datas seleci
 
 ## Clientes potenciais adquiridos {#acquired-leads}
 
-O **Leads Adquiridos **cartão mostra um relatório mensal de tendência do número de novos clientes potenciais.
+O cartão **Clientes Potenciais Adquiridos** mostra um relatório mensal de tendência do número de novos clientes potenciais.
 
 >[!NOTE]
 >
@@ -61,12 +61,7 @@ Agora você sabe.
 
 >[!MORELIKETHIS]
 >
->* [Como entender os momentos de marketing](understanding-marketo-moments.md)
->* [Como entender as placas de Evento](understanding-event-cards.md)
->* [Como entender os cartões de Programa de email](understanding-email-program-cards.md)
+>* [Como entender os momentos de marketing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Como entender as placas de Evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Como entender os cartões de Programa de email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
->
-
-
-
-Fato divertido: O primeiro e-mail enviado foi de Ray Tomlinson para si mesmo em 1971.
