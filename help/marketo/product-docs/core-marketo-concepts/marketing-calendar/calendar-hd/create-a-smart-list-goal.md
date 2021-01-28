@@ -3,7 +3,7 @@ unique-page-id: 7504128
 description: Criar uma meta de Lista inteligente - Documentos do marketing - Documentação do produto
 title: Criar uma meta de Lista inteligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 As metas são maneiras de rastrear o progresso e motivar sua equipe. Eles podem ser combinados com listas inteligentes para rastrear todo o tipo de coisas no Marketo. Além disso, depois de configurar uma meta de lista inteligente, ela será atualizada automaticamente a cada 2 horas quando for usada em uma apresentação.
 
-Como as apresentações, os objetivos são [espaço de trabalho](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) específicos.
+Como as apresentações, os objetivos são [espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) específicos.
 
 1. Vá para **Calendar**.
 
@@ -25,7 +25,7 @@ Como as apresentações, os objetivos são [espaço de trabalho](../../../../pro
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Selecione a guia** Metas**.
+1. Selecione a guia **Metas**.
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
@@ -37,7 +37,7 @@ Como as apresentações, os objetivos são [espaço de trabalho](../../../../pro
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [Defina a lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) inteligente. As possibilidades são infinitas!
+1. [Defina a lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) inteligente. As possibilidades são infinitas!
 
    ![](assets/mql.png)
 
@@ -48,4 +48,3 @@ Como as apresentações, os objetivos são [espaço de trabalho](../../../../pro
    Olha isso! Sua meta de lista inteligente foi criada.
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)
-
