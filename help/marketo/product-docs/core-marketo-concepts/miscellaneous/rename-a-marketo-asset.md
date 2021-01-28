@@ -3,7 +3,7 @@ unique-page-id: 2952484
 description: Renomear um ativo de marketing - Documentos de marketing - Documentação do produto
 title: Renomear um ativo de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -26,4 +26,3 @@ Pastas, programas e ativos locais podem ser renomeados facilmente.
    >[!NOTE]
    >
    >Não é possível renomear arquivos e imagens que foram carregados ou um ativo que está sendo referenciado em uma Lista inteligente ou Campanha inteligente (em filtros, acionadores, etapas de fluxo etc.).
-
