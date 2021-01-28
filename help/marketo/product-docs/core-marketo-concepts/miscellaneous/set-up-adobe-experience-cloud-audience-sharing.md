@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Configurar o compartilhamento de Audiências da Adobe Experience Cloud - Documentos do Marketing - Documentação do produto
 title: Configurar o compartilhamento de Audiências da Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Para compartilhar dados de audiência em seus aplicativos de Adobe, você deve p
 
    ![](assets/three-2.png)
 
-1. Digite sua ID organizacional Adobe IMS (saiba como localizar [aqui](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)) e clique em **OK**.
+1. Digite sua ID organizacional Adobe IMS (saiba como localizar [aqui](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)) e clique em **OK**.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ Para compartilhar dados de audiência em seus aplicativos de Adobe, você deve p
    >
    >Por motivos de segurança, você deve ser um Administrador de organização para a Organização de Adobe que deseja mapear. Se você não estiver, a ação falhará.
 
-1. Se você *não* já estiver conectado, um pop-up será exibido em uma nova guia/janela. Efetue logon na organização do Adobe (esta ação valida o acesso da organização).
+1. Se você _não_ já estiver conectado, um pop-up será exibido em uma nova guia/janela. Efetue logon na organização do Adobe (esta ação valida o acesso da organização).
 
-   E é isso! Agora você pode começar a [compartilhar dados de audiência](http://docs.marketo.com/x/ogI6Ag).
-
+   E é isso! Agora você pode começar a [compartilhar dados de audiência](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md).
