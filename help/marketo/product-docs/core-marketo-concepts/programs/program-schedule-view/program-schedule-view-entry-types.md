@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: Tipos de entrada de Visualização do cronograma do programa - Documentos do Marketing - Documentação do produto
 title: Tipos de entrada de Visualização de cronograma do programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Tipos de entrada de Visualização de cronograma do programa {#program-schedule-view-entry-types}
 
-Há oito tipos diferentes de entrada incorporados que estarão visíveis e disponíveis para uso na visualização do cronograma do programa. Você também pode [criar tipos de entrada personalizados](create-custom-entry-types.md) na seção Admin.
+Há oito tipos diferentes de entrada incorporados que estarão visíveis e disponíveis para uso na visualização do cronograma do programa. Você também pode [criar tipos de entrada personalizados](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) na seção Admin.
 
 <table> 
  <thead> 
@@ -57,12 +57,3 @@ Há oito tipos diferentes de entrada incorporados que estarão visíveis e dispo
   </tr> 
  </tbody> 
 </table>
-
->[!MORELIKETHIS]
->
->* [Criar um tipo de entrada personalizado](create-custom-entry-types.md)
-
->
-
-
-
