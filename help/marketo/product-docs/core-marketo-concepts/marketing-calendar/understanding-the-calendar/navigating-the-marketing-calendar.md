@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: Navegação no calendário de marketing - Documentos de marketing - Documentação do produto
 title: Navegação no calendário de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Navegar ao redor do Calendário de marketing é fácil como um, dois, três!
 
 >[!PREREQUISITES]
 >
->Certifique-se de ter uma [licença do Calendário de marketing](issue-revoke-a-marketing-calendar-license.md); caso contrário, o mosaico do Calendário de marketing não aparecerá em Meu Marketo.
+>Certifique-se de ter uma [licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md); caso contrário, o mosaico do Calendário de marketing não aparecerá em Meu Marketo.
 
 1. Vá para **Calendário de marketing**.
 
@@ -39,9 +39,7 @@ A visualização da agenda exibe todas as suas entradas como uma lista.
 
 1. Clique no menu suspenso **Filtro**.
 
-   &#39; ![](assets/image2014-9-26-10-3a29-3a6.png)
-
-   `
+   ![](assets/image2014-9-26-10-3a29-3a6.png)
 
 1. Selecione a visualização **Agenda**.
 
@@ -67,9 +65,6 @@ Você também pode usar esses atalhos de teclado.
 
 Incrível! Estes são os fundamentos. Você também pode personalizar sua visualização usando filtros.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artigos relacionados**
->
->* [Filtrar o calendário de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
-
+>[Filtrar o calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
