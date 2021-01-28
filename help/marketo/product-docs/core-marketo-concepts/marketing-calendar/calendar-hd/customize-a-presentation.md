@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: Personalizar uma apresentação - Documentos do Marketing - Documentação do produto
 title: Personalizar uma apresentação
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -23,18 +23,15 @@ Configure sua apresentação de calendário para refletir as metas e atividades 
 
 >[!PREREQUISITES]
 >
->* [Criar ](create-a-custom-goal.md) objetivos personalizados ou metas de Lista  [inteligente](create-a-smart-list-goal.md)
+>* [Criar ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) objetivos personalizados ou metas de Lista  [inteligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
    >
    >
-* [Criar uma apresentação](create-a-presentation.md)
-
->
-
+* [Criar uma apresentação](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 
 ## Escolhendo as Visualizações {#choosing-the-views}
 
-O Presentations percorre [definições de filtro](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) diferentes escolhidas. Retire quantas visualizações quiser e personalize a frequência.
+O Presentations percorre [definições de filtro](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) diferentes escolhidas. Retire quantas visualizações quiser e personalize a frequência.
 
 1. Na árvore direita, arraste as diferentes visualizações que deseja girar na apresentação.
 
@@ -42,7 +39,7 @@ O Presentations percorre [definições de filtro](../../../../product-docs/core-
 
 ## Adicionar uma meta {#add-a-goal}
 
-A Presentations é a mais incrível quando mostra as metas de sua equipe. Basta arrastar sobre diferentes [metas personalizadas](create-a-custom-goal.md) ou [metas de lista inteligente](create-a-smart-list-goal.md). Você pode usar até 10.
+A Presentations é a mais incrível quando mostra as metas de sua equipe. Basta arrastar sobre diferentes [metas personalizadas](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) ou [metas de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). Você pode usar até 10.
 
 1. Na árvore direita, arraste metas diferentes que deseja exibir na apresentação.
 
@@ -52,7 +49,7 @@ A Presentations é a mais incrível quando mostra as metas de sua equipe. Basta 
 
 Depois de puxar as visualizações desejadas na apresentação, defina a frequência com que ela gira entre as diferentes visualizações.
 
-1. Clique** 5 minutos** (esta é a cadência padrão).
+1. Clique em **5 minutos** (esta é a cadência padrão).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
@@ -76,7 +73,7 @@ A exibição do calendário pode ser alterada para uma visualização mensal ou 
 
 >[!TIP]
 >
->Defina uma [imagem de fundo](add-a-background-image-to-a-presentation.md) para a sua apresentação. Sugerimos gatinhos ou arco-íris.
+>Defina uma [imagem de fundo](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md) para a sua apresentação. Sugerimos gatinhos ou arco-íris.
 
 ## Pré-visualização de uma apresentação {#preview-a-presentation}
 
@@ -92,14 +89,8 @@ Depois que a apresentação for configurada, ela estará pronta para ser visuali
 
    Não gosta do que você vê? Retorne e use definições de filtro diferentes para criar a visualização desejada.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artigos relacionados**
->
->* [Adicionar uma imagem de plano de fundo a uma apresentação](add-a-background-image-to-a-presentation.md)
->* [Iniciar uma apresentação](launch-a-presentation.md)
-
->
-
-
+>* [Adicionar uma imagem de plano de fundo a uma apresentação](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
+>* [Iniciar uma apresentação](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
 
