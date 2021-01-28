@@ -3,7 +3,7 @@ unique-page-id: 2953331
 description: Execute novamente uma Campanha inteligente na Visualização do Cronograma do programa - Documentos do marketing - Documentação do produto
 title: Execute novamente uma Campanha inteligente na Visualização do Cronograma do programa
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Você pode criar facilmente novas execuções de uma campanha inteligente existe
 
    >[!TIP]
    >
-   >Você também pode fazer isso a partir do foco do programa [](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >Você também pode fazer isso a partir do foco do programa [](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boom! Assim, você agendou outra corrida para aquela campanha inteligente. Se essa campanha inteligente continha etapas de envio de email, você também verá!
