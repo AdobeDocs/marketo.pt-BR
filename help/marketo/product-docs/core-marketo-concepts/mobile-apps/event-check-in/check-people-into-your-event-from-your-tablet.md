@@ -3,7 +3,7 @@ unique-page-id: 2949839
 description: Verifique as pessoas no seu Evento no tablet - Documentos do Marketing - Documentação do produto
 title: Verifique as pessoas no seu Evento a partir do seu tablet
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -22,13 +22,11 @@ O aplicativo funciona da mesma forma no iPad e no Android, exceto pequenas difer
 >* Crie um evento no Marketo e preencha-o com pessoas convidadas e registradas.
 >* Baixe o aplicativo para tablet para [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) ou [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
->
-
-
 
 ## Convidar Convidados Registrados {#check-in-registered-guests}
 
 1. Toque no ícone do aplicativo no iPad ou no tablet Android.
+
 1. Toque em **Login** para iniciar o aplicativo do Evento Marketo.
 
    ![](assets/1.jpg)
@@ -57,7 +55,9 @@ O aplicativo funciona da mesma forma no iPad e no Android, exceto pequenas difer
    >
    >O processo é o mesmo no iPad e no Android, mas as telas diferem e os itens podem estar em locais diferentes. Este artigo apresenta a interface do iPad. Compare a tela do Android nesta seção para referência.
 
-   **iPad** ![](assets/image2016-4-15-11-3a55-3a11.png)
+   **iPad**
+
+   ![](assets/image2016-4-15-11-3a55-3a11.png)
 
    **Android**
 
@@ -111,7 +111,7 @@ A nova pessoa é registrada como check-in no seu evento e será adicionada ao ba
 
 ## Inverter um check-in {#reverse-a-check-in}
 
-Se você tiver feito check-in em uma pessoa por engano, *antes de sincronizar com Marketo*, você poderá reverter o status Participante.
+Se você tiver feito check-in em uma pessoa por engano, _antes de sincronizar com Marketo_, você poderá reverter o status Participante.
 
 1. Toque no nome na lista e, no registro de pessoa, toque em **Desfazer**.
 
@@ -146,6 +146,7 @@ O aplicativo Eventos de marketing funciona independentemente até que você sinc
 >Depois de sincronizar, não é possível reverter um check-in do aplicativo.
 
 1. No tablet, abra o aplicativo e navegue até o evento.
+
 1. Toque em **Sincronizar**.
 
    Seu evento é atualizado com novos check-ins no banco de dados do Marketo. O contador vermelho no botão Sincronizar apaga, até que você verifique outra pessoa.
@@ -170,4 +171,3 @@ Se estiver preocupado com o acesso à Internet no local, faça logon no aplicati
 >[!NOTE]
 >
 >O aplicativo encerra automaticamente seu aplicativo após oito horas de inatividade.
-
