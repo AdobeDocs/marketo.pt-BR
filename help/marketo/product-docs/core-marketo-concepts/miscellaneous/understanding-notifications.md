@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: Noções Gerais de Notificações - Documentos do Marketing - Documentação do Produto
 title: Noções Gerais de Notificações
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Você pode assinar notificações para recebê-las em seu email.
 
 1. Selecione o Tipo de notificação e insira os endereços de email para os quais deseja que as notificações sejam enviadas.
 
-![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/image2014-10-10-13-3a0-3a37.png)
 
 >[!NOTE]
 >
@@ -44,4 +44,3 @@ Você pode assinar notificações para recebê-las em seu email.
 >[!TIP]
 >
 >Deseja cancelar a inscrição de emails de notificação? Sem problemas. Basta clicar no link **cancelar a inscrição de Notificações** na parte inferior do email.
-
