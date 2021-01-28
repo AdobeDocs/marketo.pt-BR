@@ -3,7 +3,7 @@ unique-page-id: 10099363
 description: Configurar o iPad ou o tablet Android - Documentos do Marketing - Documentação do produto
 title: Configurar o iPad ou o tablet Android
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Se seu iPad ainda não tiver o aplicativo Eventos Marketo instalado, veja como o
 
 Se o seu tablet Android ainda não tiver o aplicativo Eventos Marketo instalado, veja como obtê-lo.
 
-1. Abra o tablet e toque no aplicativo** Google Play Store**.
+1. Abra o tablet e toque no aplicativo **Google Play Store**.
 1. Na caixa Pesquisar, digite **Marketo** e toque em **Return**.
 1. Nos resultados da pesquisa, toque no aplicativo **Eventos de marketing**.
 
@@ -69,7 +69,7 @@ Antes de atribuir iPads ou tablets à equipe de apresentação comercial, confir
 Sincronize para ter certeza de que as pessoas que você adicionou estão lá.
 
 1. Abra o evento no aplicativo iPad ou Android.
-1. Procure as pessoas. Se não os vir, toque em **Sincronizar **para sincronizar o aplicativo e recarregar a lista das pessoas em Eventos.
+1. Procure as pessoas. Se você não os vir, toque em **Sincronizar** para sincronizar o aplicativo e recarregar a lista das pessoas em Eventos.
 
    **iPad**
 
@@ -83,7 +83,7 @@ Sincronize para ter certeza de que as pessoas que você adicionou estão lá.
 
 Certifique-se de confirmar se os check-ins estão funcionando no iPad ou no tablet antes do evento.
 
-1. No aplicativo, [verifique um lead de teste em](check-people-into-your-event-from-your-tablet.md).
+1. No aplicativo, [verifique um lead de teste em](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Toque no ícone **Sincronizar** para sincronizar o aplicativo.
 1. No Marketo, abra seu evento e clique em **Membros**.
 
@@ -96,4 +96,3 @@ Certifique-se de confirmar se os check-ins estão funcionando no iPad ou no tabl
    >[!TIP]
    >
    >Use-se como a pessoa de teste.
-
