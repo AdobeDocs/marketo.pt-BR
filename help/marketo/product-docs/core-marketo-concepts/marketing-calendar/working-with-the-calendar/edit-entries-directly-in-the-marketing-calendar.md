@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: Editar entradas diretamente no calendário de marketing - Documentos do marketing - Documentação do produto
 title: Editar entradas diretamente no calendário de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -45,8 +45,7 @@ Uma vez no modo de foco do programa, é possível fazer alterações rapidamente
    >
    >Você também pode editar a descrição.
    >
-   >
-   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![](assets/image2014-10-20-13-3a16-3a56.png)
 
 ## Converter tipo de entrada {#convert-entry-type}
 
@@ -68,9 +67,4 @@ Você pode obter acesso rápido a diferentes áreas de suas entradas para ediç�
 
 >[!MORELIKETHIS]
 >
->* [Excluir entradas diretamente no calendário de marketing](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
-
->
-
-
-
+>[Excluir entradas diretamente no calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
