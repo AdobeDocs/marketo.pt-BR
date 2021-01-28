@@ -3,7 +3,7 @@ unique-page-id: 7504130
 description: Criar uma meta personalizada - Documentos do marketing - Documentação do produto
 title: Criar uma meta personalizada
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 As metas são maneiras de rastrear o progresso e motivar sua equipe. Depois de criados, eles devem ser atualizados manualmente.
 
-Como as apresentações, os objetivos são [espaço de trabalho](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) específicos.
+Como as apresentações, os objetivos são [espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) específicos.
 
 1. Vá para **Calendar**.
 
@@ -25,7 +25,7 @@ Como as apresentações, os objetivos são [espaço de trabalho](../../../../pro
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Selecione a guia** Metas**.
+1. Selecione a guia **Metas**.
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
@@ -48,4 +48,3 @@ Como as apresentações, os objetivos são [espaço de trabalho](../../../../pro
    Sua meta personalizada foi criada!
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)
-
