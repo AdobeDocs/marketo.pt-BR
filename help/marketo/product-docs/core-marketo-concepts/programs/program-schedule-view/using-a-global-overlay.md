@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: Uso de uma sobreposição global - Documentos do marketing - Documentação do produto
 title: Uso de uma sobreposição global
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ A sobreposição global na visualização do cronograma do programa permite que 
 
 >[!PREREQUISITES]
 >
->Você deve ter uma [licença do Calendário de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esse recurso.
+>Você deve ter uma [licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esse recurso.
 
 ## Usar a sobreposição global {#use-the-global-overlay}
 
@@ -39,7 +39,7 @@ A sobreposição global na visualização do cronograma do programa permite que 
 
 ## Usar um filtro salvo como uma sobreposição {#use-a-saved-filter-as-an-overlay}
 
-Se você [salvou um filtro no Calendário de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), poderá usá-lo como uma sobreposição na visualização do cronograma do programa.
+Se você [salvou um filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), poderá usá-lo como uma sobreposição na visualização do cronograma do programa.
 
 1. Clique na lista suspensa **Sobreposição** e selecione a definição do filtro.
 
@@ -49,12 +49,6 @@ Se você [salvou um filtro no Calendário de marketing](../../../../product-docs
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Criação de Sobreposições personalizadas na Visualização do Cronograma do programa](creating-custom-overlays-in-program-schedule-view.md)
-
-
+   >[Criação de Sobreposições personalizadas na Visualização do Cronograma do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
