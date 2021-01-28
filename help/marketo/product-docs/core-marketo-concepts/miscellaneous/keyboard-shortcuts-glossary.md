@@ -3,7 +3,7 @@ unique-page-id: 1147318
 description: Glossário de atalhos de teclado - Documentos do Marketing Cloud - Documentação do produto
 title: Glossário de Atalhos de Teclado
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -44,4 +44,3 @@ Você é uma pessoa com atalhos do teclado? Nós te cobrimos!
 | ESC | Fechar pop-up |
 | Retorno/Enter | Enviar pop-up |
 | Ctrl + Alt/Opt + H | Ocultar/ocultar um campo no editor de formulários |
-
