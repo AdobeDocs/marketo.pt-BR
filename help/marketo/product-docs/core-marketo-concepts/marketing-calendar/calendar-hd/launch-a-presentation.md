@@ -3,7 +3,7 @@ unique-page-id: 7504120
 description: Iniciar uma apresentação - Documentos do Marketing - Documentação do produto
 title: Iniciar uma apresentação
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,11 +23,8 @@ Depois de definir as visualizações e a frequência de rotação para sua apres
 
 >[!PREREQUISITES]
 >
->* [Criar uma apresentação](create-a-presentation.md)
->* [Personalizar uma apresentação](customize-a-presentation.md)
-
->
-
+>* [Criar uma apresentação](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [Personalizar uma apresentação](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 
 >[!TIP]
@@ -44,5 +41,4 @@ Depois de definir as visualizações e a frequência de rotação para sua apres
 
    >[!TIP]
    >
-   >Sua apresentação será aberta em uma nova guia. Se necessário, mova a guia para um monitor externo ou TV para exibição e clique em **Tela inteira** (ou pressione **F11 **no teclado se estiver usando o Internet Explorer).
-
+   >Sua apresentação será aberta em uma nova guia. Se necessário, mova a guia para um monitor externo ou TV para exibição e clique em **Tela inteira** (ou pressione **F11** no teclado se estiver usando o Internet Explorer).
