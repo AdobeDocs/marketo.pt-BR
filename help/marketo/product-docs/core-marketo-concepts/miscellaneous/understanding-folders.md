@@ -3,7 +3,7 @@ unique-page-id: 4720779
 description: Como entender as pastas - documentos do Marketo - Documentação do produto
 title: Como entender pastas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Compreensão das pastas {#understanding-folders}
 
-As pastas dentro de um programa podem ser usadas para organizar campanhas e ativos inteligentes. Elas são diferentes das pastas [de campanha](create-new-campaign-folder.md).
+As pastas dentro de um programa podem ser usadas para organizar campanhas e ativos inteligentes. Elas são diferentes das pastas [de campanha](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Criar uma pasta {#create-a-folder}
 
@@ -76,4 +76,3 @@ A funcionalidade que **não** mudará ao arquivar:
 * Um ativo que está em uso continuará a funcionar mesmo depois que for arquivado
 * Você pode usar um filtro para selecionar ativos arquivados para uso em relatórios
 * Os ativos arquivados não estão desativados. Eles também devem ser desativados se você quiser que eles parem de funcionar
-
