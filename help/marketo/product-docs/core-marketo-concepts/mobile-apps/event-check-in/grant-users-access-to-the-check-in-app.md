@@ -3,7 +3,7 @@ unique-page-id: 7516639
 description: Conceder aos usuários acesso ao aplicativo de check-in - Documentos do Marketing - Documentação do produto
 title: Conceder aos usuários acesso ao aplicativo de check-in
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -41,7 +41,7 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in do
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Clique em** Convidar novo usuário**.
+1. Clique em **Convidar novo usuário**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
