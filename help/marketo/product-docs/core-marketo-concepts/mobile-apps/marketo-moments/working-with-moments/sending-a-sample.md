@@ -3,7 +3,7 @@ unique-page-id: 8783561
 description: Envio de uma amostra - Documentos do Marketing - Documentação do produto
 title: Envio de uma amostra
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -31,7 +31,8 @@ Você pode compartilhar uma amostra de um momento de email diretamente com algu�
 
 ## O caminho rápido {#the-quick-way}
 
-1. Toque no ícone de avião em papel na tela Pré-visualização de e-mail para enviar uma amostra diretamente da pré-visualização.\
+1. Toque no ícone de avião em papel na tela Pré-visualização de e-mail para enviar uma amostra diretamente da pré-visualização.
+
    ![](assets/image2015-9-25-10-3a28-3a47.png)
 
 Missão cumprida!
