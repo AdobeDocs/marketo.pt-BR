@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: Excluir Entradas Diretamente No Calendário De Marketing - Documentos Do Marketing - Documentação Do Produto
 title: Excluir entradas diretamente no calendário de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Excluir entradas diretamente no calendário de marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Além das entradas [criar](create-entries-directly-in-the-marketing-calendar.md) e [editar](edit-entries-directly-in-the-marketing-calendar.md), você pode excluí-las diretamente no Calendário de marketing. Veja como.
+Além das entradas [criar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) e [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), você pode excluí-las diretamente no Calendário de marketing. Veja como.
 
 1. Vá para **Calendar**.
 
@@ -31,9 +31,4 @@ Dependendo da entrada, talvez seja necessário confirmar a exclusão. Mas é iss
 
 >[!MORELIKETHIS]
 >
->* [Confirmar entradas diretamente no calendário de marketing](confirm-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[Confirmar entradas diretamente no calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
