@@ -3,7 +3,7 @@ unique-page-id: 2953348
 description: Criar entradas diretamente no calendário de marketing - documentos do marketing - Documentação do produto
 title: Criar entradas diretamente no calendário de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -26,7 +26,8 @@ Veja como.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-   Selecione uma entrada anterior e clique em Mostrar foco do Programa.
+1. Selecione uma entrada anterior e clique em **Mostrar foco do Programa**.
+
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
 1. Uma vez no modo de foco do programa, selecione o dia de sua escolha para adicionar uma entrada.
@@ -47,9 +48,4 @@ Veja como.
 
 >[!MORELIKETHIS]
 >
->* [Editar entradas diretamente no calendário de marketing](edit-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[Editar entradas diretamente no calendário de marketing](edit-entries-directly-in-the-marketing-calendar.md)
