@@ -3,7 +3,7 @@ unique-page-id: 1147245
 description: Criar tipos de entrada personalizados - Documentos de marketing - Documentação do produto
 title: Criar tipos de entrada personalizados
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -44,4 +44,3 @@ Você pode criar tipos de entrada personalizados para usar na Visualização do 
 >[!NOTE]
 >
 >Você pode criar até 100 tipos de entrada personalizados.
-
