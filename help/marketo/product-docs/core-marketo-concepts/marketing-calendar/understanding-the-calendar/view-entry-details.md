@@ -3,7 +3,7 @@ unique-page-id: 2953325
 description: Detalhes de entrada da visualização - Documentos do Marketing - Documentação do produto
 title: Detalhes da entrada da visualização
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -23,10 +23,6 @@ Ao visualização dos detalhes de entrada no Calendário de marketing, você pod
 
    ![](assets/image2014-9-26-10-3a31-3a1.png)
 
-   `  
-`
-
 >[!TIP]
 >
 >Tente clicar com o botão direito do mouse nos detalhes à direita. Você pode ver menus para navegar ou exibir os editores. Legal, certo?
-
