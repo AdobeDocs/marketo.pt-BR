@@ -3,9 +3,9 @@ unique-page-id: 8783563
 description: Visualizar um email - Documentos do Marketing - Documentação do produto
 title: Visualizar um email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,8 @@ Clique com o botão direito do mouse em um cartão de e-mail para pré-visualiza
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-1. Você pode visualização o email em seu dispositivo.\
+1. Você pode visualização o email em seu dispositivo.
+
    ![](assets/image2015-9-25-11-3a23-3a42.png)
 
    >[!NOTE]
@@ -31,4 +32,3 @@ Clique com o botão direito do mouse em um cartão de e-mail para pré-visualiza
    >Para enviar uma amostra diretamente da página Pré-visualização de e-mail, toque no ícone de avião em papel no canto superior direito.
 
    Excelente!
-
