@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guia de marketing
 user-guide-description: Documentação do produto do Marketing to
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '7829'
+source-wordcount: '7828'
 ht-degree: 0%
 
 ---
@@ -382,7 +382,7 @@ ht-degree: 0%
             + [Usando a página Detalhes da pessoa](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
          + Listas estáticas {#static-lists}
             + [Criar uma Lista estática](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
-            + [Exportar uma Lista estática para Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/export-a-static-list-to-adobe-experience-cloud.md)
+            + [Enviar uma Lista ao Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
             + [Noções básicas sobre Listas estáticas](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programas {#programs}
          + Criando Programas {#creating-programs}
