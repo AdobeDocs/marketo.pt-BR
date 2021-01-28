@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: Navegação na Visualização do Cronograma do programa - Documentos do Marketing - Documentação do produto
 title: Navegação na Visualização do Cronograma do programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Estas são as noções básicas para ajudá-lo a navegar pela visualização do 
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Groovy. Agora você estará olhando para a visualização do seu programa.
+   Agora você estará olhando para a visualização do seu programa.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -33,7 +33,8 @@ Estas são as noções básicas para ajudá-lo a navegar pela visualização do 
 >
 >A visualização do cronograma do programa está pegajosa. Depois de configurados, todos os programas serão definidos como padrão para a visualização de programação.
 
-1. Alternar entre entradas
+## Alternando entre entradas {#switching-between-entries}
+
 1. Nos detalhes da entrada, clique nas setas para ir para a próxima entrada programada.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
@@ -42,7 +43,8 @@ Estas são as noções básicas para ajudá-lo a navegar pela visualização do 
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
-1. Menu de contexto visualização
+## Menu de contexto de visualização {#view-context-menu}
+
 1. Clique com o botão direito do mouse em qualquer programa para fazer edições no Programa, na Lista inteligente, na Configuração, em Meus tokens ou em Membros.
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
@@ -63,9 +65,4 @@ Estas são as noções básicas para ajudá-lo a navegar pela visualização do 
 
 >[!MORELIKETHIS]
 >
->* [Criação de uma entrada na Visualização do Cronograma do programa](creating-an-entry-in-the-program-schedule-view.md)
-
->
-
-
-
+>[Criação de uma entrada na Visualização do Cronograma do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
