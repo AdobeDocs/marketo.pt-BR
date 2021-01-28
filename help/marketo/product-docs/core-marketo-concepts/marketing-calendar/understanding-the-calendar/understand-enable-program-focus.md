@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: Entender/Ativar foco do Programa - Documentos do Marketing - Documentação do produto
 title: Entender/ativar foco do Programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Entender/ativar foco do Programa {#understand-enable-program-focus}
 
-O Calendário de marketing oferece uma visualização de pássaros, mas também permite algumas interações. Você pode [criar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [editar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [excluir](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) e [confirmar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entradas. Para interagir com entradas, é necessário focar primeiro em um programa.
+O Calendário de marketing oferece uma visualização de pássaros, mas também permite algumas interações. Você pode [criar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [excluir](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) e [confirmar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entradas. Para interagir com entradas, é necessário focar primeiro em um programa.
 
-1. Vá para **Marketing** **Calendário**.
+1. Vá para **Calendário de marketing**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -39,12 +39,8 @@ Incrível! Agora vá em frente e aprenda a interagir com entradas.
 
 >[!MORELIKETHIS]
 >
->* [Criar entradas diretamente no calendário de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
->* [Editar entradas diretamente no calendário de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
->* [Excluir entradas diretamente no calendário de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
->* [Confirmar entradas diretamente no calendário de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
+>* [Criar entradas diretamente no calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
+>* [Editar entradas diretamente no calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
+>* [Excluir entradas diretamente no calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>* [Confirmar entradas diretamente no calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
 
