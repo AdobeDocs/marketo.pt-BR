@@ -3,9 +3,9 @@ unique-page-id: 1147129
 description: Criar um relatório de desempenho de Programa - Documentos do Marketing - Documentação do produto
 title: Criar um relatório de desempenho de Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Veja excelentes estatísticas dos seus programas com este relatório.
 
-1. [Crie um relatório em um ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa e selecione o tipo **** [Programa ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Performance.
+1. [Crie um relatório em um ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa e selecione o tipo **** [Programa ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Performance.
 1. Clique na guia **Relatório**.
 1. Você está aí! Explore seu relatório para ver como seus programas estão indo.
 
@@ -23,7 +23,7 @@ Veja excelentes estatísticas dos seus programas com este relatório.
 
 >[!TIP]
 >
->Para localizar os programas com o menor *Custo por Sucesso*, por exemplo, [classifique seu relatório](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nessa coluna e escolha **Classificar Crescente**.
+>Para localizar os programas com o menor *Custo por Sucesso*, por exemplo, [classifique seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nessa coluna e escolha **Classificar Crescente**.
 
 As colunas em um relatório de Desempenho do Programa incluem:
 
@@ -53,10 +53,3 @@ As colunas em um relatório de Desempenho do Programa incluem:
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->**Mergulho profundo**
->
->Saiba mais em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
-
