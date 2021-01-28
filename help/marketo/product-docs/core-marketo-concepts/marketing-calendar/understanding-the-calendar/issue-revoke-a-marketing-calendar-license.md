@@ -3,9 +3,9 @@ unique-page-id: 1147255
 description: Emitir/Revogar uma licença do calendário de marketing - Documentos do marketing - Documentação do produto
 title: Emitir/Revogar uma licença de calendário de marketing
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-Para usar suas [cadeiras do Calendário de marketing](http://docs.marketo.com/display/docs/marketing+calendar), é necessário emitir licenças para usuários que precisam de acesso. Veja como.
+Para usar suas [cadeiras do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md), é necessário emitir licenças para usuários que precisam de acesso. Veja como.
 
 1. Vá para a seção **Admin**.
 
@@ -43,7 +43,7 @@ Para usar suas [cadeiras do Calendário de marketing](http://docs.marketo.com/di
 
    ![](assets/4.png)
 
-   Muito bem! Consulte a marca de seleção verde em **Calendar**?
+   Muito bem! Consulte a marca de seleção verde em &#39;Calendar?&#39;
 
    ![](assets/5.png)
 
