@@ -3,7 +3,7 @@ unique-page-id: 1147136
 description: Edição de entradas na Visualização do Cronograma do programa - Documentos do Marketing - Documentação do produto
 title: Edição de entradas na Visualização do Cronograma do programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Você é demais! Agora, a data da sua entrada foi movida para uma nova data.
 >[!NOTE]
 >
 > As entradas de campanha inteligente e programa de email que já foram executadas não podem ser movidas para o passado.
-
