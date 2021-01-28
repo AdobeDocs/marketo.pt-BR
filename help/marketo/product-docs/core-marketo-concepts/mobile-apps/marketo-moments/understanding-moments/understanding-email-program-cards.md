@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: Entendendo os cartões de Programa de email - Documentos do Marketing - Documentação do produto
 title: Como entender os cartões de Programa de email
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Use o Marketo Moments para visualização de Programas de e-mail de seu telefone
 
 ## Cartões de Programa de email {#email-program-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` Ao tocar em qualquer Cartão de Programa de email, você pode:
+Ao tocar em qualquer Cartão de Programa de email, você pode:
 
-* [Torne um email favorito](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Marcar um email como concluído](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Compartilhar um cartão de ponto de email](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Torne um email favorito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Marcar um email como concluído](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Compartilhar um cartão de ponto de email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Em um cartão de programa de email para um email que ainda não foi enviado, você encontrará informações sobre o status e a audiência desse programa de email.
 
@@ -41,7 +41,7 @@ Depois que o email é enviado, o cartão exibe outras informações valiosas, in
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Toque em **Confirmar **para concluir o trabalho, ou **Nunca se preocupe** se tiver pensamentos secundários.
+1. Toque em **Confirmar** para concluir a tarefa, ou **Nunca se preocupe** se tiver pensamentos secundários.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -105,7 +105,8 @@ Clique com o botão direito do mouse em um cartão de e-mail para pré-visualiza
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   Desta forma, você sabe que seu e-mail é perfeito antes de puxar o gatilho!\
+   Desta forma, você sabe que seu e-mail é perfeito antes de puxar o gatilho!
+
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
    Excelente!
@@ -114,12 +115,7 @@ E este é o furo na exibição de suas campanhas de e-mail. Agora, você é um p
 
 >[!MORELIKETHIS]
 >
->* [Como entender os momentos de marketing](understanding-marketo-moments.md)
->* [Como entender as placas de Evento](understanding-event-cards.md)
->* [Como entender os cartões do Analytics](understanding-analytics-cards.md)
->* [Programas de e-mail](http://docs.marketo.com/display/docs/email+programs)
-
->
-
-
+>* [Como entender os momentos de marketing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Como entender as placas de Evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Como entender os cartões do Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
