@@ -3,7 +3,7 @@ unique-page-id: 6848922
 description: Download da solução de gerenciamento líder de marketing - documentos do Marketo - Documentação do produto
 title: Download da solução de gerenciamento líder de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Você precisará baixar e instalar uma Solução de marketing na sua conta do Mi
 
 >[!CAUTION]
 >
->É imperativo que você faça o download da mais recente solução Marketing *antes de* fazer qualquer atualização.
+>É imperativo que você faça o download da mais recente solução Marketing _antes de_ fazer qualquer atualização.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Você precisará baixar e instalar uma Solução de marketing na sua conta do Mi
 
 1. Vá para a área **Admin**.
 
-   ![](assets/admin.png)
+   ![](assets/admin-1.png)
 
 1. Clique em **CRM**.
 
@@ -45,7 +45,6 @@ Você precisará baixar e instalar uma Solução de marketing na sua conta do Mi
 
 1. Selecione a solução apropriada para a sua versão do Microsoft Dynamics.
 
-   ![](assets/msd-online.png)
+   ![](assets/msd-online-1.png)
 
    Incrível! Um arquivo zip da solução será baixado para o dispositivo.
-
