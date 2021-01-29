@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: Etapa 2 de 3 - Configurar usuário de sincronização de marketing no Dynamics (2011 no local) - Documentação do produto - Documentação do produto
 title: Etapa 2 de 3 - Configurar usuário de sincronização de marketing no Dynamics (2011 no local)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Atribua a função Usuário de sincronização de marketing somente ao usuário 
 
 >[!NOTE]
 >
->Isso se aplica ao plug-in Marketo versão 4.0.0.14 e posterior. Para versões anteriores, todos os usuários devem ter a função de usuário de sincronização. Para atualizar o Marketo, consulte [Atualizar a solução de marketing para Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Isso se aplica ao plug-in Marketo versão 4.0.0.14 e posterior. Para versões anteriores, todos os usuários devem ter a função de usuário de sincronização. Para atualizar o Marketo, consulte [Atualizar a solução de marketing para Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. No menu inferior esquerdo, selecione **Settings**.
 
