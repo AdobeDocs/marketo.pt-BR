@@ -3,7 +3,7 @@ unique-page-id: 7504739
 description: Instale o Marketo para o Dynamics 2015 On-Prem e 2016 365 On-Prem Step 2 de 3 - Marketing to Docs - Documentação do produto
 title: Instale o Marketo para o Dynamics 2015 On-Prem e 2016 365 On-Prem Etapa 2 de 3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Atribua a função Usuário de sincronização de marketing somente ao usuário 
 
 >[!NOTE]
 >
->Isso se aplica à versão 4.0.0.14 e posterior do Marketo. Para versões anteriores, todos os usuários devem ter a função de usuário de sincronização. Para atualizar seu Marketo, consulte [Atualizar a solução de marketing para Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Isso se aplica à versão 4.0.0.14 e posterior do Marketo. Para versões anteriores, todos os usuários devem ter a função de usuário de sincronização. Para atualizar seu Marketo, consulte [Atualizar a solução de marketing para Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Em **Configurações**, clique em **Segurança**.
 
