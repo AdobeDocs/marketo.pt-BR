@@ -3,9 +3,9 @@ unique-page-id: 10099102
 description: Versões de plug-in para Microsoft Dynamics MSI - Documentos de marketing - Documentação do produto
 title: Versões de plug-in para Microsoft Dynamics MSI
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '203'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Ao sincronizar com o Microsoft Dynamics pela primeira vez, você baixa e instala a versão mais recente dos plug-ins do Marketing Cloud Sales Insight (MSI). Periodicamente, o Marketo atualiza esses plug-ins, para que você possa voltar ao mesmo local para baixar a nova versão.
 
-[faça download do plug-in mais recente](http://docs.marketo.com/x/LoJo) correspondente à sua versão do Dynamics.
+[faça download do plug-in mais recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) correspondente à sua versão do Dynamics.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Ao sincronizar com o Microsoft Dynamics pela primeira vez, você baixa e instala
 
 ## Atualização da sua solução MSI {#updating-your-msi-solution}
 
-1. Importe a versão mais recente da solução para a versão existente do Dynamics CRM (por exemplo: se o Dynamics CRM tiver a versão 1.4 e a versão mais recente for 1.5, você importará *over* versão 1.4).
+1. Importe a versão mais recente da solução para a versão existente do Dynamics CRM (por exemplo: se o Dynamics CRM tiver a versão 1.4 e a versão mais recente for 1.5, você importará _over_ versão 1.4).
 1. Você verá o seguinte pop-up. Selecione as opções **Atualizar** e **Substituir personalização** e clique em **Importar**.
 
    ![](assets/one.png)
@@ -64,9 +64,8 @@ Ao sincronizar com o Microsoft Dynamics pela primeira vez, você baixa e instala
   </tr> 
   <tr> 
    <td colspan="1">28/04/20</td> 
-   <td colspan="1">2.0.0.16</td> 
+   <td colspan="1">4.0.0.16</td> 
    <td colspan="1"><p>Correção de erros: Removendo a dependência de link de configuração do mapa do site do MSD CRM</p></td> 
   </tr> 
  </tbody> 
 </table>
-
