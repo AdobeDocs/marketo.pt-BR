@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: Notas de versão - março de 2015 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - março de 2015
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Agora temos suporte para criar e editar emails, modelos, meus tokens, arquivos e
 
 ## Microsoft Dynamics 2015 No Local {#microsoft-dynamics-on-premise}
 
-Suportado com o instalador mais recente agora [acessível pelo aplicativo](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+Suportado com o instalador mais recente agora [acessível pelo aplicativo](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
