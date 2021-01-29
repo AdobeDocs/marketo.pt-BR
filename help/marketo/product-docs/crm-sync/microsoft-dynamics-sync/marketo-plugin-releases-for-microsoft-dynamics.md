@@ -3,7 +3,7 @@ unique-page-id: 10099389
 description: Versões de plug-in do Marketo para Microsoft Dynamics - Documentos do Marketing - Documentação do produto
 title: Versões de plug-in do Marketo para Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Ao sincronizar com o Microsoft Dynamics pela primeira vez, você baixa a versão mais recente dos plug-ins do Marketing. Periodicamente, o Marketo atualiza esses plug-ins, para que você possa voltar ao mesmo local para baixar a nova versão.
 
-[Baixe o plug-](sync-setup/download-the-marketo-lead-management-solution.md) in mais recente correspondente à sua versão do Dynamics.
+[Baixe o plug-](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) in mais recente correspondente à sua versão do Dynamics.
 
 ![](assets/lead-management-solution.png)
 
@@ -102,5 +102,4 @@ A tabela abaixo exibe as versões mais recentes.
 
 >[!MORELIKETHIS]
 >
->* [Download da solução de gerenciamento líder de marketing](sync-setup/download-the-marketo-lead-management-solution.md)
-
+>[Download da solução de gerenciamento líder de marketing](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
