@@ -3,9 +3,9 @@ unique-page-id: 4719294
 description: Personalizar Atividade Sync - Documentos do Marketing - Documentação do produto
 title: Personalizar Atividade Sync
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Personalizar Atividade Sync {#customize-activities-sync}
 
-Se você não usar [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), o Marketo poderá criar Registros do Histórico de Atividades do Salesforce para determinados eventos. Aqui está como ativá-los.
+Se você não usar o Marketing Insight de vendas, o Marketo poderá criar Registros de histórico de Atividade do Salesforce para determinados eventos. Aqui está como ativá-los.
 
-1. Vá para **Admin. **
+1. Vá para **Admin**.
 
    ![](assets/admin.png)
 
@@ -29,7 +29,7 @@ Se você não usar [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+
 
    >[!NOTE]
    >
-   >Depois de habilitado, Marketo vai impulsionar três meses de história da atividade. Dependendo da quantidade de dados, *isso pode levar vários dias para ser concluído*. As atualizações que ocorrem durante o envio inicial do Atividade podem ser atrasadas até que a sincronização inicial do Atividade seja concluída.
+   >Depois de habilitado, Marketo vai impulsionar três meses de história da atividade. Dependendo da quantidade de dados, _isso pode levar vários dias para ser concluído_. As atualizações que ocorrem durante o envio inicial do Atividade podem ser atrasadas até que a sincronização inicial do Atividade seja concluída.
 
 <table> 
  <colgroup> 
@@ -96,12 +96,8 @@ Se você não usar [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+
 
 >[!NOTE]
 >
->**Lembrete**
->
->
 >&quot;Email de vendas recebido&quot; significa **não** entregue. O status entregue não é capturado para emails enviados via Sales Insight.
 
 >[!TIP]
 >
->Se você estiver interessado em obter mais informações sobre marketing no Salesforce, verifique nosso [produto Marketing to Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
-
+>Se você estiver interessado em obter mais informações sobre marketing no Salesforce, verifique nosso [produto Marketing to Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
