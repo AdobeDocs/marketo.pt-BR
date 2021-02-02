@@ -3,9 +3,9 @@ unique-page-id: 3571822
 description: Etapa 1 de 3 - Instalar a solução Marketo (Online) - Documentação do produto - Documentação do produto
 title: Etapa 1 de 3 - Instalar a solução Marketing (Online)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Antes de sincronizar o Microsoft Dynamics 365 e o Marketo, é necessário instal
 
 >[!CAUTION]
 >
->* `Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.`
->* Se a Autenticação Multifator (MFA) estiver ativada para sua Sincronização Dinâmica, você deverá desativá-la para que a Dinâmica seja sincronizada corretamente com o Marketo. Para obter informações adicionais, entre em contato com o [Suporte do Marketing](http://nation.marketo.com/community/support_solutions).
-
->
-
+>* Não ative a sincronização de entidade personalizada antes da sincronização inicial ser concluída. Você será notificado por email quando a sincronização inicial for concluída.
+>* Se a Autenticação Multifator (MFA) estiver ativada para sua Sincronização Dinâmica, você deverá desativá-la para que a Dinâmica seja sincronizada corretamente com o Marketo. Para obter informações adicionais, entre em contato com o [Suporte do Marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 
 >[!NOTE]
@@ -30,27 +27,25 @@ Antes de sincronizar o Microsoft Dynamics 365 e o Marketo, é necessário instal
 
 >[!PREREQUISITES]
 >
->[Download da solução de gerenciamento líder de marketing](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Download da solução de gerenciamento líder de marketing](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
-1. Efetue login em ** [Microsoft Office 365](https://login.microsoftonline.com/) **.
+1. Faça logon em **[Microsoft Office 365](https://login.microsoftonline.com/)**.
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. Clique no menu ![](assets/image2015-3-16-16-3a1-3a13.png)e selecione **CRM**.
+1. Clique no menu ![](assets/image2015-3-16-16-3a1-3a13.png) e selecione **CRM**.
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. Clique no menu ![](assets/image2015-5-13-10-3a5-3a8.png). No menu suspenso, selecione **Configurações **e, em seguida, selecione **Soluções**.
+1. Clique no menu ![](assets/image2015-5-13-10-3a5-3a8.png). No menu suspenso, selecione **Settings** e selecione **Solutions**.
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
 1. Clique em **Importar.**
 
-   ** ![](assets/image2015-3-19-8-3a34-3a8.png)
+   ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-   **
-
-1. Clique em **Escolher arquivo.** Selecione a solução de Gerenciamento líder de mercado que você  [baixou](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **Próximo**.
+1. Clique em **Escolher arquivo.** Selecione a solução de Gerenciamento líder de mercado que você  [baixou](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **Próximo**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -98,4 +93,4 @@ Antes de sincronizar o Microsoft Dynamics 365 e o Marketo, é necessário instal
 
    >[!MORELIKETHIS]
    >
-   >[Etapa 2 de 3: Configurar usuário de sincronização de marketing no Dynamics](step-2-of-3-set-up.md)
+   >[Etapa 2 de 3: Configurar usuário de sincronização de marketing no Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
