@@ -3,7 +3,7 @@ unique-page-id: 4719291
 description: Definir o sobrenome da pessoa padrão e o nome da Empresa - Documentos de marketing - Documentação do produto
 title: Definir o sobrenome da pessoa padrão e o nome da Empresa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -23,7 +23,7 @@ O Salesforce requer (mínimo) sobrenome e nome da empresa para seus Clientes pot
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Digite um **sobrenome de pessoa padrão** e um **Padrão ****empresa de pessoa** e clique em **Salvar**.
+1. Digite um **sobrenome de pessoa padrão** e um **empresa de pessoa padrão** e clique em **Salvar**.
 
    ![](assets/sync-options-hands.png)
 
