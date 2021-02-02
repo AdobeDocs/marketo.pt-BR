@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: Etapa 1 de 3 - Adicionar campos de marketing ao Salesforce (Professional) - Documentos de marketing - Documentação do produto
 title: Etapa 1 de 3 - Adicionar campos de marketing ao Salesforce (Professional)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Execute as seguintes etapas para cada um dos três campos personalizados para ad
 
 1. Faça logon no Salesforce e clique em **Configuração.**
 
-   ** ![](assets/image2016-5-23-13-3a15-3a21.png)
-
-   **
+   ![](assets/image2016-5-23-13-3a15-3a21.png)
 
 1. No menu Criar à esquerda, clique em **Personalizar** e selecione **Clientes potenciais**. Clique em **Campos**.
 
@@ -114,13 +112,13 @@ Execute as seguintes etapas para cada um dos três campos personalizados para ad
 
 1. Especifique as configurações de acesso e clique em **Próximo**:
 
-   * Defina todas as funções como **Visível **e **Somente leitura**
+   * Defina todas as funções como **Visível** e **Somente Leitura**
 
    * Desmarque a caixa de seleção **Somente leitura** para o perfil do usuário de sincronização:
 
-      * Se você tiver um usuário com o perfil de um *Administrador do sistema* como o usuário de sincronização, desmarque a caixa de seleção **Somente leitura** para o perfil Administrador do sistema (conforme mostrado abaixo)
+      * Se você tiver um usuário com o perfil de um _Administrador do sistema_ como o usuário de sincronização, desmarque a caixa de seleção **Somente leitura** para o perfil Administrador do sistema (conforme mostrado abaixo)
 
-      * Se você criou um *perfil personalizado* para o usuário de sincronização, desmarque a caixa de seleção **Somente leitura** desse perfil personalizado
+      * Se você criou um _perfil personalizado_ para o usuário de sincronização, desmarque a caixa de seleção **Somente leitura** desse perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -132,7 +130,7 @@ Execute as seguintes etapas para cada um dos três campos personalizados para ad
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. No menu Criar à esquerda, clique em **Personalizar **e selecione **Contatos**. Clique em **Campos**.
+1. No menu Criar à esquerda, clique em **Personalizar** e selecione **Contatos**. Clique em **Campos**.
 1. Execute as etapas de 3 a 10 para os campos Pontuação, Data de aquisição e Programa de aquisição no objeto de contato, assim como fez para o objeto de cliente potencial.
 1. Como opção, use o procedimento acima para quaisquer campos personalizados adicionais desta tabela.
 
@@ -256,17 +254,8 @@ Fácil o suficiente, certo?
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
 >Aqui está um vídeo [de todo o processo](https://nation.marketo.com/videos/1475) que deve torná-lo cristalino!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artigos relacionados**
->
->* [Etapa 2 de 3: Criar um usuário do Salesforce para marketing (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-
->
-
-
-
+>[Etapa 2 de 3: Criar um usuário do Salesforce para marketing (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
