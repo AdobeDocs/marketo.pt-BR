@@ -3,7 +3,7 @@ unique-page-id: 4719297
 description: Ativar/Desativar sincronização de objetos personalizados - Documentos de marketing - Documentação do produto
 title: Ativar/desativar sincronização de objetos personalizados
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,11 +23,9 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
 1. Clique em **Admin**.
 
-   ** ![](assets/one.png)
+   ![](assets/one.png)
 
-   **
-
-1. No menu Gerenciamento de banco de dados, clique em **Salesforce** **Sincronização de objetos**.
+1. No menu Gerenciamento de Banco de Dados, clique em **Sincronização de Objetos do Salesforce**.
 
    ![](assets/two-2.png)
 
@@ -57,9 +55,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
 1. Clique novamente em **Ativar Sincronização**.
 
-   ** ![](assets/image2014-12-10-10-3a15-3a40.png)
-
-   **
+   ![](assets/image2014-12-10-10-3a15-3a40.png)
 
 1. Volte para a guia **Salesforce** e clique em **Ativar sincronização**.
 
@@ -71,7 +67,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 >
 >Não é possível usar objetos personalizados em campanhas inteligentes com acionadores.
 
-1. Na sua lista inteligente, arraste sobre o filtro **Tem oportunidade** e defina como **true**.
+1. Na sua lista inteligente, arraste sobre o filtro **Tem oportunidade** e defina para **true**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -83,9 +79,4 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
 >[!MORELIKETHIS]
 >
->* [Adicionar/remover campo de objeto personalizado como restrições de Lista inteligente/acionador](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-
->
-
-
-
+>[Adicionar/remover campo de objeto personalizado como restrições de Lista inteligente/acionador](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
