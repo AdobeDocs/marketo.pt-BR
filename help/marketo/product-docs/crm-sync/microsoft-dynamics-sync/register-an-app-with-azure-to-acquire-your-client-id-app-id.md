@@ -3,9 +3,9 @@ unique-page-id: 12983390
 description: Registre um aplicativo com o Azure para adquirir sua ID do cliente/ID do aplicativo - Documentos do marketing - Documentação do produto
 title: Registre um aplicativo com o Azure para adquirir sua ID do cliente/ID do aplicativo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ O Azure Ative Diretory estende seus diretórios locais para a nuvem, fornecendo 
 
    ![](assets/three.png)
 
-1. Clique em **Novo registro **na parte superior da página.
+1. Clique em **Novo registro** na parte superior da página.
 
    ![](assets/four.png)
 
