@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: Como entender a sincronização do Salesforce - Documentos do Marketing - Documentação do produto
 title: Como entender a sincronização do Salesforce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -29,28 +29,17 @@ A sincronização entre Salesforce e Marketo é bidirecional somente para client
 
 ## O que é sincronizado entre o Marketo e o Salesforce? {#what-is-synced-between-marketo-and-salesforce}
 
-* [Clientes potenciais](sfdc-sync-details/sfdc-sync-lead-sync.md)
-* [Contatos](sfdc-sync-details/sfdc-sync-contact-sync.md)
-* [Contas](sfdc-sync-details/sfdc-sync-account-sync.md)
-* [Usuários](sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-* [Oportunidades](sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-* [Campanhas do Salesforce](sfdc-sync-details/sfdc-sync-campaign-sync.md)
-* [Objetos personalizados](sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-* [Atividade](sfdc-sync-details/sfdc-sync-activity-sync.md)
+* [Clientes potenciais](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+* [Contatos](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+* [Contas](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+* [Usuários](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+* [Oportunidades](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+* [Campanhas do Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+* [Objetos personalizados](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+* [Atividade](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
 
 >[!NOTE]
 >
->As credenciais [inseridas no Marketo para Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) são usadas para sincronizar dados. Somente os dados aos quais essas credenciais têm acesso serão incluídos.
+>As credenciais [inseridas no Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) são usadas para sincronizar dados. Somente os dados aos quais essas credenciais têm acesso serão incluídos.
 
-Há muitas nuances e recursos sobre a sincronização do Salesforce. Confira os detalhes na seção [Detalhes de sincronização SFDC](http://docs.marketo.com/display/docs/sfdc+sync+details).
-
->[!MORELIKETHIS]
->
->* [Configuração de Sincronização do Salesforce](http://docs.marketo.com/display/docs/setup)
->* [Detalhes da Sincronização SFDC](http://docs.marketo.com/display/docs/sfdc+sync+details)
-
->
-
-
-
-A sincronia de Marketo com Salesforce é a mais poderosa do gênero no mundo. Parece mágica - uma mudança é feita e o outro sistema está rapidamente atualizado.
+A sincronia de Marketo com Salesforce é a mais poderosa do gênero no mundo. Parece mágica. é feita uma mudança e o outro sistema estará em breve atualizado.
