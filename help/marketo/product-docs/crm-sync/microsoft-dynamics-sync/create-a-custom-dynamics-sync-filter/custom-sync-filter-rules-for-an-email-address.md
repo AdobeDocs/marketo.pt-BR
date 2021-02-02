@@ -3,7 +3,7 @@ unique-page-id: 10095307
 description: Regras de filtro de sincronização personalizada para um endereço de email - Documentos do marketing - Documentação do produto
 title: Regras de filtro de sincronização personalizada para um endereço de email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -21,4 +21,3 @@ Para impedir a sincronização de registros que não tenham um endereço de emai
 
 * Quando o campo Nome da Empresa do contato (parentcustomerid) for atualizado, verifique se o campo Sincronizar para Mkto do contato é verdadeiro. Se estiver, altere Sync para Mkto na conta para **True** também
 * Quando o campo Cliente potencial (customerid) da oportunidade ou Contato (parentcontactid) for atualizado, verifique se o campo Sincronizar para Mkto da conta é verdadeiro ou se o campo Sincronizar para Mkto do contato é verdadeiro. Se estiver, altere Sync para Mkto na oportunidade para **True** também
-
