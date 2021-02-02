@@ -3,9 +3,9 @@ unique-page-id: 3571813
 description: Etapa 1 de 3 - Instalar a solução Marketo no Dynamics (2013 no local) - Documentação do produto - Documentação do produto
 title: Etapa 1 de 3 - Instalar a solução Marketo no Dynamics (2013 no local)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Antes de poder sincronizar o Microsoft Dynamics On-Premise e o Marketing, é nec
 
 >[!PREREQUISITES]
 >
->Você deve ter [Implantação para Internet](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) com [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 ou 3.0 (ADFS) configurados. Observação: O documento IFD é baixado automaticamente quando você clica no link.
+>Você deve ter [Implantação para Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) com [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 ou 3.0 (ADFS) configurados. Observação: O documento IFD é baixado automaticamente quando você clica no link.
 >
->[Baixe a ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) solução Marketo antes do start.
+>[Baixe a ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) solução Marketo antes do start.
 
 >[!NOTE]
 >
@@ -31,11 +31,11 @@ Antes de poder sincronizar o Microsoft Dynamics On-Premise e o Marketing, é nec
 >
 >Você precisa de privilégios de administrador do CRM para executar essa sincronização.
 
-1. Faça logon em **Dinâmicas**. Clique no menu suspenso **Microsoft Dynamics CRM** e selecione **CONFIGURAÇÕES**.
+1. Faça logon em **Dinâmicas**. Clique no menu suspenso **Microsoft Dynamics CRM** e selecione **Configurações**.
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
-1. Em **CONFIGURAÇÕES**, selecione **SOLUÇÕES**.
+1. Em **Configurações**, selecione **Soluções**.
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
@@ -43,7 +43,7 @@ Antes de poder sincronizar o Microsoft Dynamics On-Premise e o Marketing, é nec
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. Clique em **Procurar** e selecione a [solução baixada](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **Próximo**.
+1. Clique em **Procurar** e selecione a [solução baixada](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **Próximo**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
@@ -93,13 +93,6 @@ Não era tão ruim, certo? Vamos, eu continuarei te guiando pelo resto.
 >
 >A desativação de qualquer um dos processos de mensagens do SDK do Marketo resultará em uma instalação interrompida!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artigos relacionados**
->
->* [Etapa 2 de 3: Configurar usuário de sincronização para o Marketing (2013 On-Premise)](step-2-of-3-configure.md)
-
->
-
-
-
+>[Etapa 2 de 3: Configurar usuário de sincronização para o Marketing (2013 On-Premise)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
