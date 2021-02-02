@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: Etapa 3 de 3 - Connect Marketing e Salesforce (Enterprise/Unlimited) - Documentação do produto - Documentação do produto
 title: Etapa 3 de 3 - Connect Marketing e Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
 
 >[!PREREQUISITES]
 >
->* [Etapa 1 de 3: Adicionar campos de marketing ao Salesforce (Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [Etapa 2 de 3: Criar um usuário do Salesforce para o Marketing (Enterprise/Unlimited)](../../../../../product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) [](https://community.marketo.com/MarketoTutorial?id=kA250000000Kz5rCAC)
-
->
-
+>* [Etapa 1 de 3: Adicionar campos de marketing ao Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [Etapa 2 de 3: Criar um usuário do Salesforce para o Marketing (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 
 
 ## Recuperar o token de segurança do usuário de sincronização {#retrieve-sync-user-security-token}
@@ -52,12 +49,9 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Certifique-se de [ocultar todos os campos de que você não precisa](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) no Marketo do usuário de sincronização antes de clicar em **Sincronizar campos**. Após clicar em Sincronizar campos, todos os campos que o usuário pode ver serão criados permanentemente no Marketo e não poderão ser excluídos.
+   >Certifique-se de [ocultar todos os campos de que você não precisa](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) no Marketo do usuário de sincronização antes de clicar em **Sincronizar campos**. Após clicar em Sincronizar campos, todos os campos que o usuário pode ver serão criados permanentemente no Marketo e não poderão ser excluídos.
 
-1. Digite as credenciais do Usuário de Sincronização do Salesforce criadas na parte 2 da configuração do Salesforce ([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW), [Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW)) e clique em **Sincronizar campos**.
+1. Digite as credenciais do Usuário de Sincronização do Salesforce criadas na parte 2 da configuração do Salesforce ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) e clique em **Sincronizar campos**.
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
@@ -71,7 +65,7 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
 
    >[!CAUTION]
    >
-   >Se você quiser olhar por cima dos [mapeamentos e personalizá-los](https://docs.marketo.com/display/public/DOCS/Edit+Initial+Field+Mappings), esta é sua única chance de fazer isso! Quando você clica em Sincronização do Salesforce de Start, está pronto.
+   >Se você quiser olhar por cima dos [mapeamentos e personalizá-los](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md), esta é sua única chance de fazer isso! Quando você clica em Sincronização do Salesforce de Start, está pronto.
 
 ## Start Salesforce Sync {#start-salesforce-sync}
 
@@ -83,7 +77,7 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
    >
    >O Marketo não eliminará a duplicação automaticamente em relação a uma sincronização do Salesforce ou quando você inserir vendas manualmente.
 
-1. Clique em **SYNC** START.
+1. Clique em **Sincronização de Start**.
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
@@ -109,17 +103,10 @@ O Marketo fornece mensagens de status para a sincronização do Salesforce na á
 
 Nossa, você acabou de configurar um dos recursos mais poderosos do Marketo, vá lá!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artigos relacionados**
->
->* [Etapa 1 de 3: Adicionar campos de marketing ao Salesforce (Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [Etapa 2 de 3: Criar um usuário do Salesforce para o Marketing (Enterprise/Unlimited)](step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [Instalar o pacote de insight de vendas do Marketing Cloud na AppExchange do Salesforce](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Configurar o Marketing to Sales Insight no Salesforce Enterprise/Unlimited](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [Etapas opcionais](http://docs.marketo.com/display/docs/optional+steps)
-
->
-
-
+>* [Etapa 1 de 3: Adicionar campos de marketing ao Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [Etapa 2 de 3: Criar um usuário do Salesforce para o Marketing (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [Instalar o pacote de insight de vendas do Marketing Cloud na AppExchange do Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Configurar o Marketing to Sales Insight no Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
