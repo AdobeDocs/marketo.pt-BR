@@ -3,7 +3,7 @@ unique-page-id: 10092969
 description: Filtro de Sincronização do Microsoft Dynamics - Mesclar - Documentos do Marketing - Documentação do Produto
 title: Filtro de Sincronização do Microsoft Dynamics - Mesclar
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -25,4 +25,3 @@ Os registros de cliente potencial se tornam verdadeiros ou falsos com base nas r
 | Falso | Falso | O registro vencedor continua a **não** sincronizar com o Marketo |
 | Falso | True | O registro vencedor será sincronizado com o Marketo |
 | True | Falso | O registro vencedor não será sincronizado com o Marketo |
-
