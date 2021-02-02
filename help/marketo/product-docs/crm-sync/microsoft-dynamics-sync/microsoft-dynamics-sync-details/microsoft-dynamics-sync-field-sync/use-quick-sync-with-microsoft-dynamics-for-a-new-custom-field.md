@@ -3,7 +3,7 @@ unique-page-id: 10098379
 description: Usar sincronização rápida com o Microsoft Dynamics para um novo campo personalizado - Documentos de marketing - Documentação do produto
 title: Usar sincronização rápida com o Microsoft Dynamics para um novo campo personalizado
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Veja como usar a sincronização rápida para ressincronizar novos campos.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Clique em** Microsoft Dynamics**.
+1. Clique em **Microsoft Dynamics**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -67,7 +67,7 @@ E se você quiser sincronizar um campo existente, mas somente para um conjunto l
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Escolha **Atualizado **e selecione um intervalo de datas usando os seletores de datas. Clique em **Salvar**.
+1. Escolha **Atualizado** e selecione um intervalo de datas usando os seletores de datas. Clique em **Salvar**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -86,4 +86,3 @@ No raro caso em que um campo Dinâmico e de Mercado está fora de sincronia, há
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
    Isso deveria consertar isso!
-
