@@ -3,7 +3,7 @@ unique-page-id: 2359398
 description: Criar um formulário - Documentos do marketing - Documentação do produto
 title: Criar um formulário
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Crie e use um formulário em uma landing page para gerar novos nomes. É muito f
 
 >[!NOTE]
 >
->Saiba o que o Marketo está fazendo para [manter seus formulários seguros](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Saiba o que o Marketo está fazendo para [manter seus formulários seguros](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Vá para **Marketing** **Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -47,10 +47,6 @@ Doce! Agora que o formulário é criado, vamos em frente e veste-lo.
 
 >[!MORELIKETHIS]
 >
->* [Selecionar um tema de formulário](select-a-form-theme.md)
->* [Adicionar um conjunto de campos a um formulário](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-
->
-
-
+>* [Selecionar um tema de formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [Adicionar um conjunto de campos a um formulário](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
 
