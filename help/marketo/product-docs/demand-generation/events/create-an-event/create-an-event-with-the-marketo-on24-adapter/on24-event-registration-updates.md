@@ -3,7 +3,7 @@ unique-page-id: 10096683
 description: Atualizações de registro do Evento ON24 - Documentos do marketing - Documentação do produto
 title: Atualizações de registro do Evento ON24
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -41,9 +41,4 @@ O Marketo coleta automaticamente as informações de presença às 11h do Pacíf
 
 >[!MORELIKETHIS]
 >
->* [Noções Gerais dos Eventos do adaptador do Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Noções Gerais dos Eventos do adaptador do Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
