@@ -3,7 +3,7 @@ unique-page-id: 4719308
 description: Adicionar um campo do Salesforce existente à sincronização de marketing - documentos do marketing - documentação do produto
 title: Adicionar um campo do Salesforce existente à sincronização de marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -48,4 +48,3 @@ Normalmente, os novos campos personalizados no Salesforce são sincronizados aut
    >[!NOTE]
    >
    > Se o campo já tiver valores no Salesforce, esses valores não serão sincronizados com o Marketo até a próxima atualização do registro.
-
