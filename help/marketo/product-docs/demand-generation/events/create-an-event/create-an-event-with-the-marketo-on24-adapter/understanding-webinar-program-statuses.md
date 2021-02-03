@@ -3,7 +3,7 @@ unique-page-id: 10096681
 description: Entendendo os status do Programa do Webinar - Documentos do Marketing - Documentação do produto
 title: Entendendo os status dos Programas do webinar
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -27,9 +27,9 @@ Esta é uma breve descrição dos status dos programas associados ao canal do We
 
 **Não está no Programa**  - Use este status para remover pessoas do evento.
 
-** Convidado** - Use este status para adicionar pessoas ao evento.
+**Convidado**  - Use este status para adicionar pessoas ao evento.
 
-**Aprovação**  pendente - Use este status para suspender o envio de um email de confirmação para seu pessoal. Consulte &quot;Aprovação manual de inscritos&quot; em [Atualizações de registro de Eventos ON24](on24-event-registration-updates.md) para obter mais informações.
+**Aprovação**  pendente - Use este status para suspender o envio de um email de confirmação para seu pessoal. Consulte &quot;Aprovação manual de inscritos&quot; em [Atualizações de registro de Eventos ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) para obter mais informações.
 
 **Lista**  de espera - Use esse status para manter algumas pessoas esperando até que mais lugares fiquem disponíveis.
 
@@ -43,7 +43,7 @@ Esta é uma breve descrição dos status dos programas associados ao canal do We
 >
 >Se ocorrer um erro de registro, você poderá obter informações adicionais para essa pessoa, observando a coluna Motivo do status na guia Membros do seu programa. Após corrigir o erro, é possível alterar manualmente o status do programa do usuário para Registrado no Marketo.
 
-**Participante** - Na conclusão do webinar, o ON24 retorna uma lista de pessoas que participaram. Esse status é automaticamente direcionado para o Marketo.
+**Participante**  - Na conclusão do webinar, o ON24 retorna uma lista de pessoas que participaram. Esse status é automaticamente direcionado para o Marketo.
 
 **Participou sob demanda**  - as pessoas que participaram da versão arquivada do webinar recebem esse status.
 
@@ -55,9 +55,4 @@ Esta é uma breve descrição dos status dos programas associados ao canal do We
 
 >[!MORELIKETHIS]
 >
->* [Noções Gerais dos Eventos do adaptador do Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Noções Gerais dos Eventos do adaptador do Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
