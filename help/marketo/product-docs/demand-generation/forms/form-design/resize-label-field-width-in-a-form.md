@@ -3,7 +3,7 @@ unique-page-id: 2359604
 description: Redimensionar a largura da etiqueta/do campo em um formulário - Documentos de marketing - Documentação do produto
 title: Redimensionar a largura do rótulo/campo em um formulário
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Há duas maneiras de redimensionar a largura do rótulo do campo, bem como a pr�
 
 ## Arraste e solte a largura {#drag-and-drop-the-width}
 
-1. No [editor de formulários](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md), selecione o campo que deseja redimensionar.
+1. No [editor de formulários](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), selecione o campo que deseja redimensionar.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
