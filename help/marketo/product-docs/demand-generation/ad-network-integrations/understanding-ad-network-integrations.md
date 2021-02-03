@@ -3,9 +3,9 @@ unique-page-id: 11382858
 description: Noções Gerais das Integrações de Rede de Anúncios - Documentos do Marketing - Documentação do Produto
 title: Noções Gerais das Integrações de Rede de Anúncios
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Os recursos incluem:
 
    * Por exemplo, uma pessoa pesquisa, visualiza e clica em um anúncio e, em seguida, preenche um formulário online. Depois disso, ele recebe uma demonstração off-line e se torna uma oportunidade de CRM. É aí que o anunciante o público alvo
 
-* Redefinição de metas de visitantes do site, usando [Personalização da Web](http://docs.marketo.com/display/docs/web+personalization), para direcioná-los de volta ao seu site
+* Redefinição de metas de visitantes do site, usando [Personalização da Web](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md), para direcioná-los de volta ao seu site
 
    * Personalizar por segmento ou vertical
 
@@ -44,19 +44,14 @@ Os recursos incluem:
 
 Você pode usar integrações para:
 
-* [Adicionar Google AdWords como um Serviço LaunchPoint](../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [Adicionar clientes em potencial a uma Audiência personalizada no Facebook](../../../product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [Criar uma Audiência personalizada no Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [Configurar conversões offline do Facebook](../../../product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [Usar uma Lista de marketing ou uma Lista inteligente como um segmento de Audiência do LinkedIn](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [Adicionar Google AdWords como um Serviço LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+* [Adicionar clientes em potencial a uma Audiência personalizada no Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [Criar uma Audiência personalizada no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [Configurar conversões offline do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [Usar uma Lista de marketing ou uma Lista inteligente como um segmento de Audiência do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |  | Dados de audiência | ingestão de chumbo | Conversão offline |
 |---|---|---|---|
 | ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
 | ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
 | ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
-
-## Assista a um vídeo {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
