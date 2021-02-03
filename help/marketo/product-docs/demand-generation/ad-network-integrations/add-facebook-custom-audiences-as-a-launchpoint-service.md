@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: Adicionar Audiências personalizadas do Facebook como um serviço do LaunchPoint - Documentos do Marketing - Documentação do produto
 title: Adicionar Audiências personalizadas do Facebook como um Serviço do LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Com essa integração, você pode enviar dados de audiência do Marketing para l
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Abra uma nova guia no mesmo navegador e vá para [www.facebook.com.](http://www.facebook.com./) Faça logon no Facebook usando a conta que deseja usar para a integração.
+1. Abra uma nova guia no mesmo navegador e vá para [facebook.com](http://www.facebook.com/). Faça logon no Facebook usando a conta que deseja usar para a integração.
 
    >[!CAUTION]
    >
@@ -45,9 +45,9 @@ Com essa integração, você pode enviar dados de audiência do Marketing para l
 
    >[!NOTE]
    >
-   >Você *deve* usar uma conta do Facebook Business Manager para que sua integração com o Audiência personalizado funcione. Para saber como configurar uma conta do Business Manager, consulte [Ajuda do Facebook](https://www.facebook.com/business/help/1710077379203657).
+   >Você _deve_ usar uma conta do Facebook Business Manager para que sua integração com o Audiência personalizado funcione. Para saber como configurar uma conta do Business Manager, consulte [Ajuda do Facebook](https://www.facebook.com/business/help/1710077379203657).
 
-1. Se solicitado, clique em **OK **para aceitar a instalação do aplicativo Marketo no Facebook.
+1. Se solicitado, clique em **OK** para aceitar a instalação do aplicativo Marketo no Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -55,7 +55,7 @@ Com essa integração, você pode enviar dados de audiência do Marketing para l
 
    >[!NOTE]
    >
-   >**A Correspondência básica** usa somente endereços de email.**A** Correspondência avançada usa sete campos adicionais, o que aumenta a taxa de correspondência para obter mais conversão. No entanto, se sua política de privacidade do empresa não permitir o compartilhamento de campos adicionais ou se seus dados não os incluírem, selecione Correspondência básica.
+   >**A** Correspondência básica usa somente endereços de email. **A** Correspondência avançada usa sete campos adicionais, o que aumenta a taxa de correspondência para obter mais conversão. No entanto, se sua política de privacidade do empresa não permitir o compartilhamento de campos adicionais ou se seus dados não os incluírem, selecione Correspondência básica.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -67,12 +67,8 @@ Com essa integração, você pode enviar dados de audiência do Marketing para l
 
 >[!MORELIKETHIS]
 >
->* [Criar uma Audiência personalizada no Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Criar uma Audiência personalizada no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
    >
-* [Configurar Anúncios de venda do Facebook](../../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-
->
-
-
+* [Configurar Anúncios de venda do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
