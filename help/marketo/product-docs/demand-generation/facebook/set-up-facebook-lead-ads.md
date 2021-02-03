@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Configurar Anúncios de venda do Facebook - Documentos do Marketing - Documentação do produto
 title: Configurar Anúncios de venda do Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -19,9 +19,7 @@ Use [Anúncios de venda do Facebook](https://www.facebook.com/business/a/lead-ad
 >
 >**Permissões de administrador necessárias**
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >Para adicionar Anúncios de venda do Facebook à sua instância, entre em contato com o Gerente de sucesso do cliente.
 
@@ -37,7 +35,7 @@ Use [Anúncios de venda do Facebook](https://www.facebook.com/business/a/lead-ad
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Abra uma nova guia no mesmo navegador e vá para [www.facebook.com.](http://www.facebook.com.) Faça logon no Facebook usando a conta que deseja usar para a integração.
+1. Abra uma nova guia no mesmo navegador e vá para [facebook.com](http://www.facebook.com). Faça logon no Facebook usando a conta que deseja usar para a integração.
 
    >[!NOTE]
    >
@@ -49,7 +47,7 @@ Use [Anúncios de venda do Facebook](https://www.facebook.com/business/a/lead-ad
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Se solicitado, clique em **Ok** para aceitar a instalação do aplicativo Marketo no Facebook.
+1. Se solicitado, clique em **OK** para aceitar a instalação do aplicativo Marketo no Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -69,7 +67,7 @@ Use [Anúncios de venda do Facebook](https://www.facebook.com/business/a/lead-ad
 
    >[!TIP]
    >
-   >Ao modificar os mapeamentos, você pode personalizar o local em que os dados dos anúncios de cliente potencial são armazenados no Marketing. Você também pode [extrair dados de Perguntas personalizadas sobre Anúncios de venda em potencial](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >Ao modificar os mapeamentos, você pode personalizar o local em que os dados dos anúncios de cliente potencial são armazenados no Marketing. Você também pode [extrair dados de Perguntas personalizadas sobre Anúncios de venda em potencial](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
@@ -83,10 +81,6 @@ Use [Anúncios de venda do Facebook](https://www.facebook.com/business/a/lead-ad
 
 >[!MORELIKETHIS]
 >
->* [Usar Filtros e acionadores de propagandas em uma Campanha inteligente](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [Mapear campos personalizados para o Marketo](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-
->
-
-
+>* [Usar Filtros e acionadores de propagandas em uma Campanha inteligente](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [Mapear campos personalizados para o Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
