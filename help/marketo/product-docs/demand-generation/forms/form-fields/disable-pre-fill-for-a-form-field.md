@@ -3,9 +3,9 @@ unique-page-id: 2359675
 description: Desabilitar Preenchimento para um Campo de Formulário - Documentos do Marketing - Documentação do produto
 title: Desativar Preenchimento Antecipado para um Campo de Formulário
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Quando um visitante da Web é conhecido (cookie), os formulários do Marketo pr�
 >
 >**Pré-** arquivo de formulário ativado por padrão. As configurações de pré-preenchimento de nível de landing page e as configurações de pré-preenchimento de nível de administrador superam a configuração de nível de formulário:
 >
->Formulário &lt; Landing page &lt; Admin
+>Formulário > Landing page > Administrador
 
-1. Vá para **Marketing** **Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Selecione o formulário e clique em **Editar** **Formulário**.
+1. Selecione o formulário e clique em **Editar formulário**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ Quando um visitante da Web é conhecido (cookie), os formulários do Marketo pr�
    >
    >O Preenchimento prévio do formulário não funciona ao incorporar um formulário em suas próprias páginas. Só funciona nas landings page de marketing.
 
-1. Selecione um dos campos e defina **Formulário** **Pre**-**fill** como **Desativado**.
+1. Selecione um dos campos e defina **Preenchimento prévio do formulário** como **Desativado**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -50,10 +50,3 @@ Quando um visitante da Web é conhecido (cookie), os formulários do Marketo pr�
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 Bom trabalho!
-
->[!NOTE]
->
->**Mergulho profundo**
->
->Quer saber mais sobre [formulários](http://docs.marketo.com/display/docs/forms)?
-
