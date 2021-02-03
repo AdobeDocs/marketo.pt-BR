@@ -3,7 +3,7 @@ unique-page-id: 2359661
 description: Definir um campo de formulário como Oculto - Documentos de marketing - Documentação do produto
 title: Definir um campo de formulário como oculto
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Campos de formulário ocultos podem capturar dados silenciosamente sem a entrada do visitante. É assim que funciona.
 
-1. Vá para **Marketing** **Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecione o formulário e clique em **Editar** **Formulário**.
+1. Selecione o formulário e clique em **Editar formulário**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Selecione o campo e defina **Field** **Type** como **Hidden.**
+1. Selecione o campo e defina **Tipo de campo** como **Oculto.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
@@ -33,5 +33,4 @@ Campos de formulário ocultos podem capturar dados silenciosamente sem a entrada
 
 >[!MORELIKETHIS]
 >
->[Definir um valor de campo de formulário oculto](set-a-hidden-form-field-value.md)
-
+>[Definir um valor de campo de formulário oculto](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
