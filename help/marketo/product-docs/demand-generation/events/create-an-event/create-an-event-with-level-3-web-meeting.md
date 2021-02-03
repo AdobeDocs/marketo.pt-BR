@@ -3,9 +3,9 @@ unique-page-id: 7512328
 description: Criar um Evento com o Nível 3 da Web Meeting - Documentos do Marketing - Documentação do produto
 title: Crie um Evento com uma Reunião da Web de Nível 3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ ht-degree: 0%
 >
 >* [Adicionar Reunião Web de Nível 3 como um Serviço do LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Criar um novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Defina as [ações de fluxo](https://docs.marketo.com/x/k8Kt)apropriadas para rastrear o envolvimento
-
->
+>* Defina as [ações de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)apropriadas para rastrear o envolvimento
 
 
-
-Primeiro crie seu Webinar no Nível 3. Se precisar de ajuda, verifique a [Biblioteca de Recursos do Nível 3](http://www.level3.com/en/resource-library/). Você vai achar que é muito parecido com BrightTalk.  O Marketo usa um pequeno subconjunto de campos de Nível 3:
+Primeiro crie seu Webinar no Nível 3. Se precisar de ajuda, verifique a [Biblioteca de Recursos do Nível 3](https://www.level3.com/en/resource-library/). Você vai achar que é muito parecido com BrightTalk.  O Marketo usa um pequeno subconjunto de campos de Nível 3:
 
 * **Nome**  - o nome do webcast.
 * **Data**  do start - A data do start do webcast.
@@ -55,6 +52,6 @@ Primeiro crie seu Webinar no Nível 3. Se precisar de ajuda, verifique a [Biblio
 
 ## Exibindo o Agendamento {#viewing-the-schedule}
 
-Na [visualização do cronograma do programa](http://docs.marketo.com/display/docs/program+schedule+view), clique na entrada do calendário do evento. Você pode ver o cronograma no lado direito da tela!
+Na visualização do cronograma do programa, clique na entrada do calendário do evento. Você pode ver o cronograma no lado direito da tela!
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)
