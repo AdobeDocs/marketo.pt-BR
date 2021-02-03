@@ -3,9 +3,9 @@ unique-page-id: 2949777
 description: Parceiros de Evento do LaunchPoint - Documentos do Marketing - Documentação do produto
 title: Parceiros de Evento do LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '89'
 ht-degree: 1%
 
 ---
@@ -22,9 +22,8 @@ Conecte o Marketing a um parceiro de Evento do LaunchPoint para automatizar seus
 
 Consulte as instruções sobre como integrar seus Eventos de marketing online com seu parceiro de Evento do LaunchPoint:
 
-* [WebEx](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-* [Adobe Connect](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
-* [ON24](http://docs.marketo.com/pages/viewpage.action?pageid=2949868)
-* [ReadyTalk](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-* [GoToWebinar](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
-
+* [WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+* [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
+* [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+* [ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+* [GoToWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
