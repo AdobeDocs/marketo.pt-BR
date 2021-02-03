@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: Criar um Evento com a Adobe Connect - Documentos do Marketing - Documentação do produto
 title: Criar um Evento com o Adobe Connect
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -71,8 +71,8 @@ Primeiro, certifique-se de ter criado sua reunião ou seminário no Adobe Connec
 
    >[!MORELIKETHIS]
    >
-   > * [Adicionar Adobe Connect como um Serviço LaunchPoint](../../../../product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [Editar um Canal de Evento](../../../../product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   > * [Adicionar Adobe Connect como um Serviço LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   > * [Editar um Canal de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
 
 
 As pessoas que se inscreverem no seu webinar serão encaminhadas para o seu provedor de webinar por meio da etapa de fluxo Alterar status do Programa quando o Novo status estiver definido como &quot;Registrado&quot;. Nenhum outro status empurrará a pessoa. Além disso, certifique-se de fazer a etapa 1 do fluxo Alterar status do Programa e a etapa 2 do fluxo de Enviar e-mail.
