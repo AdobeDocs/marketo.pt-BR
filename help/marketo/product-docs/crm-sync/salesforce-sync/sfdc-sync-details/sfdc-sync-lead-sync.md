@@ -3,7 +3,7 @@ unique-page-id: 2953455
 description: Sincronização SFDC - Sincronização líder - Documentos do Marketing - Documentação do produto
 title: Sincronização SFDC - Sincronização de cliente potencial
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Marketo ganha. É raro que esse tipo de colisão de dados ocorra.
 
 ## Posso criar uma perspectiva de venda no Salesforce usando o Marketo? {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-Sim, use a ação de fluxo [Sincronizar Pessoa com SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md). Isso criará uma oportunidade potencial no Salesforce se a oportunidade não existir.
+Sim, use a ação de fluxo [Sincronizar Pessoa com SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md). Isso criará uma oportunidade potencial no Salesforce se a oportunidade não existir.
 
 ## Posso forçar manualmente uma sincronização de uma pessoa em Marketo para uma liderança em Salesforce? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-Sim, use a ação de fluxo [Sincronizar Pessoa com SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) e ela será sincronizada em tempo real.
+Sim, use a ação de fluxo [Sincronizar Pessoa com SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) e ela será sincronizada em tempo real.
 
 ## Cada campo padrão é sincronizado com o Marketo? {#does-every-single-standard-field-sync-to-marketo}
 
