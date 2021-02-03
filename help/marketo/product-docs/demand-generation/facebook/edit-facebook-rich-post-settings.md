@@ -3,9 +3,9 @@ unique-page-id: 2950555
 description: Editar configurações de postagens avançadas do Facebook - Documentos de marketing - Documentação do produto
 title: Editar configurações de postagens avançadas do Facebook
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,13 @@ ht-degree: 0%
 
 # Editar configurações de postagens avançadas do Facebook {#edit-facebook-rich-post-settings}
 
-Personalize postagens quando as pessoas [compartilharem você](http://docs.marketo.com/display/docs/social) no Facebook.
+Personalize publicações quando as pessoas compartilham você no Facebook.
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
-Marketo [aplicativos sociais](http://docs.marketo.com/display/docs/social) permite que seus clientes potenciais compartilhem suas landings page com suas conexões em redes sociais, como Facebook, Twitter etc. As tags OpenGraph do Facebook (tags OG) permitem que você especifique quais informações de sua landing page estão incluídas nas publicações do Facebook.
+Marketo [aplicativos sociais](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) permite que seus clientes potenciais compartilhem suas landings page com suas conexões em redes sociais, como Facebook, Twitter etc. As tags OpenGraph do Facebook (tags OG) permitem que você especifique quais informações de sua landing page estão incluídas nas publicações do Facebook.
 
 ## Selecionar opções avançadas de publicação {#select-rich-post-options}
 
@@ -35,20 +33,19 @@ Você pode especificar os tipos de informações de página a serem usadas nas p
 
    * Adicionar conteúdo estático: Selecione essa opção para inserir o título, a legenda e a descrição manualmente.
 
-      ![](assets/image2014-9-22-16-3a48-3a0.png)
+   ![](assets/image2014-9-22-16-3a48-3a0.png)
 
    * Adicionar conteúdo dinâmico: Seu aplicativo social pode usar as tags `<TITLE>`, `<CAPTION>` e `<DESCRIPTION>` do landing page para preencher sua publicação avançada.
 
-      ![](assets/image2014-9-22-16-3a48-3a9.png)
+   ![](assets/image2014-9-22-16-3a48-3a9.png)
+
    >[!NOTE]
    >
-   >Eles já devem existir na fonte da página, mas para obter mais controle, você pode [adicionar tags OG específicas do Facebook à sua landing page](edit-facebook-rich-post-settings.md).
+   >Eles já devem existir na fonte da página, mas para ter mais controle, você pode adicionar tags OG específicas do Facebook à sua landing page.
 
    * Não adicione conteúdo rico: Limita as publicações do Facebook da sua landing page apenas à mensagem principal e ao link.
 
-      ![](assets/image2014-9-22-16-3a48-3a18.png)
-
-
+   ![](assets/image2014-9-22-16-3a48-3a18.png)
 
 ## Adicionar tags OG do Facebook a uma Landing page {#add-facebook-og-tags-to-a-landing-page}
 
@@ -60,7 +57,7 @@ Para controlar os elementos da página que serão incluídos nos compartilhament
 
    O **Designer de Landing page** é aberto em uma nova janela.
 
-1. Selecione **Ações de Landing page** > **Editar tags de meta de página****.**
+1. Selecione **Ações de Landing page** > **Editar marcas meta de página**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
