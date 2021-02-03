@@ -3,9 +3,9 @@ unique-page-id: 2949863
 description: Criar um Evento com WebEx - Documentos do Marketing - Documentação do produto
 title: Criar um Evento com WebEx
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '927'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [Adicionar WebEx como um Serviço LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Criar um novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Defina as [ações de fluxo](http://docs.marketo.com/display/DOCS/Flow+Actions)apropriadas para rastrear o envolvimento
+>* Defina as [ações de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)apropriadas para rastrear o envolvimento
 
 
-Primeiro, crie um Evento Webex no Centro de Eventos WebEx. O Marketo usa apenas configurações e campos específicos para a sua integração, que passaremos em breve. Outros campos que podem ser configurados para WebEx são explicados no [Guia do Usuário do Centro de Eventos WebEx](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+Primeiro, crie um Evento Webex no Centro de Eventos WebEx. O Marketo usa apenas configurações e campos específicos para a sua integração, que passaremos em breve. Outros campos que podem ser configurados para WebEx são explicados no [Guia do Usuário do Centro de Eventos WebEx](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
 ## Informações básicas {#basic-information}
 
@@ -140,7 +140,7 @@ Doce! Seu evento WebEx agora é sincronizado com seu evento Marketo.  As pessoas
 
 ## Exibindo o Agendamento {#viewing-the-schedule}
 
-Na [visualização do cronograma do programa](http://docs.marketo.com/display/docs/program+schedule+view), clique na entrada do calendário do evento. Você pode ver o cronograma no lado direito da tela!
+Na visualização do cronograma do programa, clique na entrada do calendário do evento. Você pode ver o cronograma no lado direito da tela!
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 
