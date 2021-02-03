@@ -3,7 +3,7 @@ unique-page-id: 10095239
 description: Usar Filtros e acionadores de propaganda em uma Campanha inteligente - Documentos do marketing - Documentação do produto
 title: Usar Filtros e acionadores de propagandas em uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -22,4 +22,3 @@ Ao ativar os Anúncios de venda do Facebook, você pode usá-los em suas campanh
 1. Adicione restrições para personalizá-las.
 
    ![](assets/image2016-8-5-11-3a19-3a27.png)
-
