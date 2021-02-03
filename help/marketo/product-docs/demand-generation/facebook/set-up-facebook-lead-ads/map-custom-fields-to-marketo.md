@@ -3,7 +3,7 @@ unique-page-id: 12983101
 description: Mapear campos personalizados para o Marketo - Documentos do Marketing - Documentação do produto
 title: Mapear campos personalizados para o Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode desejar coletar mais informações do que as informações padrão das lojas do Facebook por padrão, como a frequência com que alguém usa seu serviço de delivery online. Você pode fazer isso criando [perguntas personalizadas](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) em seus principais anúncios do Facebook.
 
-No entanto, **O Marketo não irá automaticamente start a coleta desses dados**.** **Para que o Marketo possa capturar start de valores de campo personalizados, você **deve** mapear esses campos personalizados para um campo no Marketo.
+No entanto, **O Marketo não irá automaticamente start a coleta desses dados**. Para que o Marketo capture start de valores de campo personalizados, você **deve** mapear esses campos personalizados para um campo no Marketo.
 
 Veja como configurar isso na área LaunchPoint de Admin.
 
@@ -41,9 +41,7 @@ Veja como configurar isso na área LaunchPoint de Admin.
 
 1. Aqui é onde você mapeia o campo personalizado do Facebook para seu campo de marketing. Clique em **Adicionar.**
 
-   ** ![](assets/image2017-10-24-9-3a33-3a49.png)
-
-   **
+   ![](assets/image2017-10-24-9-3a33-3a49.png)
 
 1. Na nova linha, digite o nome do seu campo personalizado do Facebook.
 
@@ -59,9 +57,8 @@ Veja como configurar isso na área LaunchPoint de Admin.
 
    >[!NOTE]
    >
-   >Se você ainda não tiver um campo no Marketo para mapear o campo do Facebook, saiba como [criar campos personalizados](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Se você ainda não tiver um campo no Marketo para mapear o campo do Facebook, saiba como [criar campos personalizados](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!CAUTION]
 >
 >Você **deve** passar por esse processo para qualquer novo campo do Facebook para que o Marketo colete os dados.
-
