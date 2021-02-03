@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: Definir um valor de campo de formulário oculto - Documentos de marketing - Documentação do produto
 title: Definir um valor de campo de formulário oculto
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Campos ocultos normalmente são preenchidos dinamicamente. Elas não são mostra
 
 >[!PREREQUISITES]
 >
->[Definir um campo de formulário como oculto](set-a-form-field-as-hidden.md)
+>[Definir um campo de formulário como oculto](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## Selecione o campo {#select-the-field}
 
@@ -33,11 +33,11 @@ Ao selecionar Usar valor padrão, é possível codificar um valor específico pa
 
 ## Parâmetro de URL {#url-parameter}
 
-Se desejar capturar Parâmetros de URL (Strings de Query) da página em que a pessoa está ao preencher o formulário, você pode usar **URL** **Parâmetros** para preencher o campo oculto.
+Se desejar capturar Parâmetros de URL (Strings de Query) da página em que a pessoa está ao preencher o formulário, você pode usar **Parâmetros de URL** para preencher o campo oculto.
 
 >[!NOTE]
 >
->Parâmetros são meio técnicos, não são? Uma vez que você os pega, eles são poderosos. Esta [página da Wikipedia sobre Strings de Query](http://en.wikipedia.org/wiki/Query_string) é útil.
+>Parâmetros são meio técnicos, não são? Uma vez que você os pega, eles são poderosos. Esta [página da Wikipedia sobre Strings de Query](https://en.wikipedia.org/wiki/Query_string) é útil.
 
 1. Selecione **Parâmetro de URL** para **Obter Tipo de Valor**.
 
@@ -53,9 +53,9 @@ Se desejar capturar Parâmetros de URL (Strings de Query) da página em que a pe
 
 ## Valor do cookie {#cookie-value}
 
-Se você estiver armazenando dados em cookies, poderá usar **Cookie** **Valor** para coletar dados quando o formulário for enviado.
+Se você estiver armazenando dados em cookies, poderá usar **Valor do cookie** para coletar dados quando o formulário for enviado.
 
-1. Selecione **Cookie** **Valor** para **Get** **Valor** **De**.
+1. Selecione **Valor do cookie** para **Obter valor de**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,9 +69,9 @@ Se você estiver armazenando dados em cookies, poderá usar **Cookie** **Valor**
 
 ## Parâmetro de quem indicou {#referrer-parameter}
 
-Se você quiser capturar dados da página de onde o visitante veio antes de preencher o formulário, use **Quem indicou** **Parâmetro**.
+Se você quiser capturar dados da página de onde o visitante veio antes de preencher o formulário, use **Parâmetro de Quem indicou**.
 
-1. Defina **Get** **Valor** **De** para **Quem indicou** **Parâmetro**.
+1. Defina **Obter valor de** para **Parâmetro de Quem indicou**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
@@ -81,7 +81,7 @@ Se você quiser capturar dados da página de onde o visitante veio antes de pree
 
    >[!TIP]
    >
-   >Você pode inserir um **Padrão** **Valor** caso o parâmetro de quem indicou não seja encontrado.
+   >Você pode inserir um **Valor padrão** caso o parâmetro de quem indicou não seja encontrado.
 
 1. Clique em **Concluir**.
 
@@ -90,5 +90,3 @@ Se você quiser capturar dados da página de onde o visitante veio antes de pree
 1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
-
-Doce! Você está indo muito bem. Há mais informações sobre [formulários](http://docs.marketo.com/display/docs/forms).
