@@ -3,7 +3,7 @@ unique-page-id: 10096679
 description: Exemplo de integração de Evento ON24 - Documentos do Marketing - Documentação do produto
 title: Exemplo de integração de Evento ON24
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Aqui está um exemplo de evento, incluindo o campanha, para um webinar ON24. Ao 
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Selecione **Evento **como **Tipo de Programa**.
+1. Selecione **Evento** como **Tipo de Programa**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Selecione **Webinar **como o **Canal **para o evento.
+1. Selecione **Webinar** como o **Canal** para o evento.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
@@ -93,9 +93,4 @@ Aqui está um exemplo de evento, incluindo o campanha, para um webinar ON24. Ao 
 
 >[!MORELIKETHIS]
 >
->* [Noções Gerais dos Eventos do adaptador do Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Noções Gerais dos Eventos do adaptador do Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
