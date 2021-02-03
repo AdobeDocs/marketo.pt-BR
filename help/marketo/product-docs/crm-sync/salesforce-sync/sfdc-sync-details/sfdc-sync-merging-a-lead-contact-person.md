@@ -3,9 +3,9 @@ unique-page-id: 7515133
 description: Sincronização SFDC - Mesclando um cliente potencial/contato/pessoa - Documentos do Marketing - Documentação do produto
 title: Sincronização SFDC - Mesclando um cliente potencial/contato/pessoa
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Exemplo**
->
 >A mesclagem de 3 clientes potenciais (pessoas) com pontuações de 10 cada, resultará em um resultado de 1 cliente potencial (pessoa) com uma pontuação de 30.
 
 * Valores de campo conflitantes são extraídos do &quot;registro vencedor&quot;. (Registro = o cliente potencial ou contato resultante)
@@ -32,7 +30,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Mergulhe fundo para obter mais informações sobre a união de [pessoas no Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
-
+>Mergulhe fundo para obter mais informações sobre a união de [pessoas no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
