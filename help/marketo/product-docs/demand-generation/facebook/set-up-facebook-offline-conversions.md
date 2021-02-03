@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Configurar conversões offline do Facebook - Documentos do Marketing - Documentação do produto
 title: Configurar conversões offline do Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Ao enviar dados de conversão offline de volta ao Facebook para pessoas criadas 
 
 >[!PREREQUISITES]
 >
->* Você deve [configurar os Anúncios de venda do Facebook](set-up-facebook-lead-ads.md).
->* Você deve ter um modelo aprovado em [Modelador de Ciclo de Receita](http://docs.marketo.com/display/docs/revenue+cycle+models).
-
->
-
+>* Você deve [configurar os Anúncios de venda do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* Você deve ter um modelo aprovado em [Modelador de Ciclo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 
 ## Configuração administrativa {#admin-configuration}
@@ -34,7 +31,7 @@ Ao enviar dados de conversão offline de volta ao Facebook para pessoas criadas 
 
    >[!NOTE]
    >
-   >Se você não tiver feito isso, vá em frente e [Configure os principais anúncios do Facebook](set-up-facebook-lead-ads.md), então volte aqui.
+   >Se você não tiver feito isso, vá em frente e [Configure os principais anúncios do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), então volte aqui.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -72,18 +69,16 @@ Ao enviar dados de conversão offline de volta ao Facebook para pessoas criadas 
    >
    >Atualmente, existem 10 eventos do Facebook que podem ser mapeados para:
    >
-   >    
-   >    
-   >    * Adiciona informações de pagamento
-   >    * Adiciona ao carrinho
-   >    * Adiciona à Lista de desejos
-   >    * Registros concluídos
-   >    * Check-outs iniciados
-   >    * Pessoa
-   >    * Outros
-   >    * Compra
-   >    * Pesquisas
-   >    * Visualizações de conteúdo
+   >* Adiciona informações de pagamento
+   >* Adiciona ao carrinho
+   >* Adiciona à Lista de desejos
+   >* Registros concluídos
+   >* Check-outs iniciados
+   >* Pessoa
+   >* Outros
+   >* Compra
+   >* Pesquisas
+   >* Visualizações de conteúdo
 
 
 1. Selecione o estágio que deseja mapear e, no menu suspenso **Conversão do Facebook**, selecione o Evento do Facebook para o qual deseja mapear. Repita esta etapa para mapear todos os estágios no RCM para estágios de conversão offline no Facebook.
@@ -108,13 +103,6 @@ Ao enviar dados de conversão offline de volta ao Facebook para pessoas criadas 
    >
    >Os dados de conversão offline são enviados do Marketo para o Facebook várias vezes por dia.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artigos relacionados**
->
->* [Compreensão das conversões offline do Facebook](understanding-facebook-offline-conversions.md)
-
->
-
-
-
+>[Compreensão das conversões offline do Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
