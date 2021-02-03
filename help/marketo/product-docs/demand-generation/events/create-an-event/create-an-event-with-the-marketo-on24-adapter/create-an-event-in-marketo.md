@@ -3,9 +3,9 @@ unique-page-id: 10096725
 description: Criar um Evento no Marketo - Documentos do Marketing - Documentação do produto
 title: Criar um Evento no Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,10 @@ Veja como os dados são trocados:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Ao criar o evento Marketo, selecione **Webinar** como o tipo de Canal. Você pode editar esse canal em Admin, bem como criar um novo canal. Se você criar um novo canal, ele deverá ser do tipo **Evento com Webinar** para que a integração funcione. Consulte [Criar um Canal de Programa](../../../../../product-docs/administration/tags/create-a-program-channel.md) para obter mais informações.
+Ao criar o evento Marketo, selecione **Webinar** como o tipo de Canal. Você pode editar esse canal em Admin, bem como criar um novo canal. Se você criar um novo canal, ele deverá ser do tipo **Evento com Webinar** para que a integração funcione. Consulte [Criar um Canal de Programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) para obter mais informações.
 
-Sua próxima etapa é [configurar as configurações do evento e sincronizar o Marketo com seu webinar](https://docs.marketo.com/x/IRCa).
+Sua próxima etapa é [configurar as configurações do evento e sincronizar o Marketo com seu webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md).
 
 >[!MORELIKETHIS]
 >
->* [Noções Gerais dos Eventos do adaptador do Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Noções Gerais dos Eventos do adaptador do Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
