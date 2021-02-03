@@ -3,9 +3,9 @@ unique-page-id: 2949841
 description: Noções básicas sobre Programas de Eventos - Documentos do Marketing - Documentação do produto
 title: Noções básicas sobre Programas de Eventos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Noções básicas sobre Programas de Eventos {#understanding-event-programs}
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
@@ -32,26 +30,13 @@ Um programa de evento é um tipo de programa que pode ser usado para automatizar
 >* shows de vendas
 >* Encontros
 
->
 
-
-
-Os eventos podem se conectar automaticamente ao seu [provedor de webinar](launchpoint-event-partners.md), bem como sincronizar com um [aplicativo de check-in do iPad](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
-
-## Assista a um vídeo {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+Os eventos podem se conectar automaticamente ao seu [provedor de webinar](launchpoint-event-partners.md), bem como sincronizar com um [aplicativo de check-in do iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >
->Comece hoje mesmo com estes links úteis:
->
->* [Criar um novo Programa de Evento](create-a-new-event-program.md)
+>* [Criar um novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
    >
    >
-* [Parceiros de Evento do LaunchPoint](launchpoint-event-partners.md)
-
->
-
-
+* [Parceiros de Evento do LaunchPoint](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
 
