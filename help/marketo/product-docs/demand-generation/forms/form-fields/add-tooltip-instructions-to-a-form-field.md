@@ -3,9 +3,9 @@ unique-page-id: 2359673
 description: Adicionar instruções de dicas de ferramentas a um campo de formulário - Documentos de marketing - Documentação do produto
 title: Adicionar instruções de dicas de ferramentas a um campo de formulário
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adicionar instruções de dica de ferramenta a um campo de formulário {#add-tooltip-instructions-to-a-form-field}
 
-[As ](add-hint-text-to-a-form-field.md) instruções ajudam as pessoas a preencher formulários. Veja como adicionar instruções de dicas de ferramentas.
+[As ](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) instruções ajudam as pessoas a preencher formulários. Veja como adicionar instruções de dicas de ferramentas.
 
 >[!NOTE]
 >
@@ -45,18 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Não se esqueça de [aprovar o rascunho de landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
+   >Não se esqueça de [aprovar o rascunho de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
 Trabalho incrível! A dica de ferramenta será exibida quando um visitante passar o mouse sobre o campo.
-
->[!NOTE]
->
->**Mergulho profundo**
->
->Há tanto que você pode fazer com [formulários](http://docs.marketo.com/display/docs/forms).
-
