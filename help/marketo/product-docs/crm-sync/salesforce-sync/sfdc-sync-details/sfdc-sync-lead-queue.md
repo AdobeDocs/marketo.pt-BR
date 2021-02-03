@@ -3,7 +3,7 @@ unique-page-id: 7516241
 description: Sincronização SFDC - Fila principal - Documentos do Marketing - Documentação do produto
 title: Sincronização SFDC - Fila de cliente em potencial
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -19,8 +19,8 @@ O Marketo permite que você adicione pessoas a [filas de clientes potenciais do 
 
 Você pode atribuir uma pessoa a uma fila de clientes potenciais do Salesforce usando uma destas ações de fluxo:
 
-* [Sincronizar Pessoa com SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [Alterar proprietário](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [Sincronizar Pessoa com SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [Alterar proprietário](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
@@ -35,4 +35,3 @@ Se um cliente potencial for propriedade de uma fila no Salesforce, esses campos 
 * Título do proprietário de vendas
 * Número de Telefone do Proprietário de Vendas
 * Endereço de email do proprietário de vendas
-
