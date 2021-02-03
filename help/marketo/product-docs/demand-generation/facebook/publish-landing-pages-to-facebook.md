@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Publicar Landings page no Facebook - Documentos do Marketing - Documentação do produto
 title: Publicar Landings page no Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Você pode publicar suas landings page no Facebook, encontrar sua audiência onde eles já estão saindo e gerar mais tráfego para seus programas.
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >SMB Spark, Standard e Select. Enterprise com recurso licenciado separadamente.
 
@@ -65,8 +63,4 @@ Se você estiver lançando um novo livro, você pode chegar a algumas de suas au
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
    >Para remover a landing page do Facebook, desaprove-a no Marketo e, quando solicitado, selecione a opção para remover a guia do Facebook.
-
