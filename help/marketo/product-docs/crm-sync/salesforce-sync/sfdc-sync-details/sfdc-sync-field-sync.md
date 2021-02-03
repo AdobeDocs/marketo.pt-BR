@@ -3,7 +3,7 @@ unique-page-id: 2953461
 description: Sincronização SFDC - Sincronização de campo - Documentos do Marketing - Documentação do produto
 title: Sincronização SFDC - Sincronização de campo
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
