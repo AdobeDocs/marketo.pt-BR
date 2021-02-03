@@ -3,9 +3,9 @@ unique-page-id: 11376700
 description: Adicionar clientes em potencial a uma Audiência personalizada no Facebook - Documentos de marketing - Documentação do produto
 title: Adicionar clientes em potencial a uma Audiência personalizada no Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Já tem uma audiência personalizada no Facebook e deseja adicionar mais leads a
 
 >[!PREREQUISITES]
 >
->* [Criar uma Audiência personalizada no Facebook](create-a-custom-audience-in-facebook.md)
+>* [Criar uma Audiência personalizada no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >* [Aceite os termos de audiências personalizados do Facebook ](https://www.facebook.com/ads/manage/customaudiences/tos.php) em sua conta do Facebook.
 
 >
@@ -28,11 +28,11 @@ Já tem uma audiência personalizada no Facebook e deseja adicionar mais leads a
 
    ![](assets/one.png)
 
-1. Selecione a guia **Leads** e clique no ícone **Send Via Ad Bridge **na parte inferior.
+1. Selecione a guia **Clientes potenciais** e clique no ícone **Enviar via ponte de publicidade** na parte inferior.
 
    ![](assets/two-1.png)
 
-1. Selecione **Facebook **e clique em **Próximo**.
+1. Selecione **Facebook** e clique em **Próximo**.
 
    ![](assets/three.png)
 
@@ -42,7 +42,7 @@ Já tem uma audiência personalizada no Facebook e deseja adicionar mais leads a
 
    >[!NOTE]
    >
-   >**Adicionar clientes em potencial à audiência:** somente audiências do Facebook com um subtipo personalizado estarão disponíveis.\
+   >**Adicionar clientes em potencial à audiência**: somente audiências do Facebook com um subtipo personalizado estarão disponíveis.\
    >**Remova os clientes potenciais da audiência**: remove os clientes potenciais em sua lista estática ou inteligente de uma audiência do Facebook.
 
 1. Quando concluído, o status será atualizado.
@@ -53,10 +53,4 @@ Já tem uma audiência personalizada no Facebook e deseja adicionar mais leads a
 
    >[!NOTE]
    >
-   >**Artigos relacionados**
-   >
-   >    
-   >    
-   >    * [Criar uma Audiência personalizada no Facebook](create-a-custom-audience-in-facebook.md)
-
-
+   >[Criar uma Audiência personalizada no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
