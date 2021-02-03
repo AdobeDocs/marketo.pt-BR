@@ -3,9 +3,9 @@ unique-page-id: 10098759
 description: Testar os principais anúncios do Facebook para integração móvel com o Marketing - Documentos do Marketing - Documentação do produto
 title: Testar os principais anúncios do Facebook para integração móvel com o Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,10 @@ Depois de criar seu Anúncio principal, você deve testá-lo!
 
 >[!PREREQUISITES]
 >
->Você deve [Configurar a Integração de Anúncios de Clientes Potenciais do Facebook](set-up-facebook-lead-ads.md).
+>Você deve [Configurar a Integração de Anúncios de Clientes Potenciais do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. No Editor de energia do Facebook, selecione uma campanha, um anúncio e clique em **Editar**.
+
 1. Em **Links**, clique no link **Visualização em aplicativo móvel**.
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
@@ -44,7 +45,7 @@ Depois de criar seu Anúncio principal, você deve testá-lo!
    >
    >Este é apenas um exemplo, que usa uma chamada Learn More Call to Action. A Chamada à Ação da sua Unidade de Anúncio Potencial pode ser diferente.
 
-1. É aqui que a magia acontece! Depois de enviar seu formulário, [crie uma lista inteligente no Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de um programa ou no banco de dados principal que usa o filtro **Anúncios de venda do Facebook preenchidos**. Insira o Nome do formulário do anúncio principal do formulário que você acabou de enviar.
+1. É aqui que a magia acontece! Depois de enviar seu formulário, [crie uma lista inteligente no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de um programa ou no banco de dados principal que usa o filtro **Anúncios de venda do Facebook preenchidos**. Insira o Nome do formulário do anúncio principal do formulário que você acabou de enviar.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -52,15 +53,8 @@ Depois de criar seu Anúncio principal, você deve testá-lo!
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
-   Isso é legal ou o quê?
+Isso é legal ou o quê?
 
 >[!NOTE]
 >
->**Artigos relacionados**
->
->* [Ativar/Desativar Anúncios de venda do Facebook](set-up-facebook-lead-ads.md)
-
->
-
-
-
+>[Ativar/Desativar Anúncios de venda do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
