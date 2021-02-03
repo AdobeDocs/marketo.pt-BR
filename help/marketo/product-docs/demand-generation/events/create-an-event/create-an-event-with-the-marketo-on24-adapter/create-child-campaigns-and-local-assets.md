@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: Criar Campanhas secundárias e ativos locais - Documentos de marketing - Documentação do produto
 title: Criar Campanhas secundárias e ativos locais
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
@@ -44,15 +44,13 @@ Use o Marketo para enviar o e-mail de confirmação para o seu evento. Quando um
 
 >[!NOTE]
 >
->**Lembrete**
->
 >Para preencher seu email de confirmação com este URL exclusivo, use o seguinte token no email: `{{member.webinar url}}`. Quando você envia o URL de confirmação, esse token resolve automaticamente o URL de confirmação exclusivo da pessoa.
 >
 >Defina o tipo do seu email de confirmação como **Operacional** para garantir que as pessoas que se registram recebam suas informações de confirmação, mesmo que elas sejam canceladas.
 
 >[!TIP]
 >
->Você pode configurar o ON24 para enviar e-mails de confirmação, lembrete ou acompanhamento. Consulte o [Site de Ajuda do ON24](http://webcastelitehelp.on24.com) para obter mais informações.
+>Você pode configurar o ON24 para enviar e-mails de confirmação, lembrete ou acompanhamento. Consulte o [Site de Ajuda do ON24](https://webcastelitehelp.on24.com) para obter mais informações.
 
 ## Requisitos de Campanha para filho de inscrição {#registration-child-campaign-requirements}
 
@@ -97,16 +95,11 @@ A etapa de fluxo **Enviar email** DEVE ser a segunda etapa. O e-mail de confirma
 >
 >Se a pessoa for devolvida com um erro de registro, ela não receberá a confirmação do email.
 
-A próxima etapa é [testar a integração do evento ON24](test-your-on24-event-integration.md).
+A próxima etapa é [testar a integração do evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
 
 >[!MORELIKETHIS]
 >
->* [Noções Gerais dos Eventos do adaptador do Marketo ON24](understanding-marketo-on24-adapter-events.md)
->* [Exemplo de integração de Evento ON24](example-on24-event-integration.md)
->* [Entendendo os status dos Programas do webinar](understanding-webinar-program-statuses.md)
->* [Teste sua integração de Evento ON24](test-your-on24-event-integration.md)
-
->
-
-
+>* [Noções Gerais dos Eventos do adaptador do Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [Exemplo de integração de Evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [Entendendo os status dos Programas do webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 
