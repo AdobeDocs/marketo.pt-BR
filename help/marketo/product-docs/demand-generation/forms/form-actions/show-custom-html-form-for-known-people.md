@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: Mostrar formulário HTML personalizado para pessoas conhecidas - Documentos do marketing - Documentação do produto
 title: Mostrar formulário HTML personalizado para pessoas conhecidas
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Se um visitante estiver com cookies (pessoa conhecida que forneceu um endereço de email no passado), então por que se preocupar com o formulário? Dê a eles o botão de download. Veja como.
 
-1. Vá para **Marketing** **Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Em **Marketing** **Atividade**, selecione o formulário e clique em **Editar** **Formulário**.
+1. Em **Atividades de marketing**, selecione o formulário e clique em **Editar formulário**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Em **Formulário** **Definições**, clique em **Definições**.
+1. Em **Configurações do formulário**, clique em **Configurações**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Definir se o Visitante **Known** **Mostrar**: para **Personalizado** **HTML**.
+1. Definir se **Visitante conhecido, Mostrar**: para **HTML personalizado**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Clique em ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar o **Custom** **HTML** que será mostrado para pessoas conhecidas.
+1. Clique em ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar o **HTML personalizado** que será mostrado para pessoas conhecidas.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -66,15 +66,12 @@ Se um visitante estiver com cookies (pessoa conhecida que forneceu um endereço 
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Lembre-se de [aprovar o rascunho da landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
+   >Lembre-se de [aprovar o rascunho da landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
+
+   Pedaço de bolo! Verifique o que uma pessoa veria se voltasse ao mesmo formulário:
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
    >[!TIP]
    >
    >É possível direcionar o clique do botão para o ativo definindo a página de acompanhamento do formulário para o URL do arquivo.
-
-Pedaço de bolo! Verifique o que uma pessoa veria se voltasse ao mesmo formulário:
