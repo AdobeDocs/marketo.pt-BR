@@ -3,7 +3,7 @@ unique-page-id: 2953473
 description: Sincronização SFDC - Sincronização de Atividade - Documentos do Marketing - Documentação do produto
 title: Sincronização SFDC - Sincronização de Atividade
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -21,11 +21,11 @@ O Marketo sincroniza tanto Eventos quanto Tarefas associadas a um cliente potenc
 
 ## Como os detalhes da atividade são mantidos em sincronia entre os dois sistemas? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-A sincronização é de uma maneira, de Salesforce a Marketo. Mas você pode criar uma tarefa no Salesforce usando a etapa [Criar Tarefa](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de fluxo ou [Personalizar Atividade Sync](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) no Salesforce.
+A sincronização é de uma maneira, de Salesforce a Marketo. Mas você pode criar uma tarefa no Salesforce usando a etapa [Criar Tarefa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de fluxo ou [Personalizar Atividade Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) no Salesforce.
 
 ## Posso criar uma tarefa usando o Marketo? {#can-i-create-a-task-using-marketo}
 
-Sim, você pode usar a ação [Criar fluxo de Tarefa](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
+Sim, você pode usar a ação [Criar fluxo de Tarefa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
 
 ## Quais são os acionadores/filtros relacionados à atividade? {#what-are-the-triggers-filters-related-to-activity}
 
@@ -41,5 +41,4 @@ Filtros
 
 >[!TIP]
 >
->Não tem certeza sobre essa redação &quot;não Atividade&quot;? O &quot;não&quot; refere-se a um Filtro de inatividade. Saiba mais sobre eles aqui: [Utilizar Filtros de inatividade numa Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
-
+>Não tem certeza sobre essa redação &quot;não Atividade&quot;? O &quot;não&quot; refere-se a um Filtro de inatividade. Saiba mais sobre eles aqui: [Utilizar Filtros de inatividade numa Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
