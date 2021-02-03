@@ -3,9 +3,9 @@ unique-page-id: 2359569
 description: Criar um campo de formulário obrigatório - Documentos do marketing - Documentação do produto
 title: Tornar um campo de formulário obrigatório
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Tornar um campo de formulário obrigatório {#make-a-form-field-required}
 
-Quando [adicionar campos a um formulário](add-a-field-to-a-form.md), talvez você queira tornar alguns deles obrigatórios para a pessoa que os preenche. Veja como.
+Quando [adicionar campos a um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md), talvez você queira tornar alguns deles obrigatórios para a pessoa que os preenche. Veja como.
 
-1. Vá para **Marketing** **Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecione o formulário e clique em **Editar** **Formulário**.
+1. Selecione o formulário e clique em **Editar formulário**.
 
    ![](assets/editform-2.png)
 
@@ -37,8 +37,6 @@ Quando [adicionar campos a um formulário](add-a-field-to-a-form.md), talvez voc
 
 >[!NOTE]
 >
->**Lembrete**
->
->Não se esqueça de [aprovar quaisquer landings page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) em que este formulário se encontra para que as alterações entrem em vigor.
+>Não se esqueça de [aprovar quaisquer landings page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) em que este formulário se encontra para que as alterações entrem em vigor.
 
-Você precisa [reordenar os campos adicionados ao formulário](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+Você precisa [reordenar os campos adicionados ao formulário](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
