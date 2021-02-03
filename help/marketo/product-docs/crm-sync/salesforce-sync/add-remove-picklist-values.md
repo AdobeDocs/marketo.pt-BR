@@ -3,7 +3,7 @@ unique-page-id: 4719312
 description: Adicionar/remover valores da lista de opções - Documentos do marketing - Documentação do produto
 title: Adicionar/remover valores da lista de opções
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Estas são algumas informações sobre como adicionar e remover valores de lista
 
 ## Adicionando valores da lista de opções {#adding-picklist-values}
 
-1. Se um valor adicional for adicionado no Salesforce a um tipo de campo de lista de opções, você receberá uma [notificação](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identificando quais formulários isso afetará.
+1. Se um valor adicional for adicionado no Salesforce a um tipo de campo de lista de opções, você receberá uma [notificação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identificando quais formulários isso afetará.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Vá para o editor de formulários e [adicione o valor adicional](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) à sua lista de sugestões.
+1. Vá para o editor de formulários e [adicione o valor adicional](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) à sua lista de sugestões.
 
 ## Remover Valores da Lista de Opções {#remove-picklist-values}
 
