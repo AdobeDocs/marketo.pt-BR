@@ -3,7 +3,7 @@ unique-page-id: 2359870
 description: Encontre o URL de uma imagem ou arquivo carregado - Documentos do Marketing - Documentação do produto
 title: Encontre o URL de uma imagem ou arquivo carregado
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Procurando o endereço da Web (URL) de uma imagem ou arquivo que você carregou?
 
    ![](assets/designstudio-4.png)
 
-1. Clique em **Imagens** **e** **Arquivos** no menu esquerdo e selecione o arquivo para o qual deseja obter o URL.
+1. Clique em **Imagens e arquivos** no menu esquerdo e selecione o arquivo para o qual deseja obter o URL.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
@@ -31,9 +31,4 @@ Dê um tapinha nas costas por um trabalho bem feito!
 
 >[!MORELIKETHIS]
 >
->* [Substituir uma imagem ou um arquivo carregado](replace-an-uploaded-image-or-file.md)
-
->
-
-
-
+>[Substituir uma imagem ou um arquivo carregado](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
