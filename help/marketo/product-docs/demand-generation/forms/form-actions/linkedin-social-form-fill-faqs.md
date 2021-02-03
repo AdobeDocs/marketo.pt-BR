@@ -3,7 +3,7 @@ unique-page-id: 10098238
 description: Perguntas frequentes sobre o preenchimento de formulários do LinkedIn Social - Documentos do Marketing Cloud - Documentação do produto
 title: Perguntas frequentes sobre o preenchimento de formulários do LinkedIn Social
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 0%
@@ -17,7 +17,7 @@ A política de API revisada do LinkedIn exigia que removêssemos o Preenchimento
 
 ## Coisas importantes para saber {#important-things-to-know}
 
-* Os botões de preenchimento de formulário do LinkedIn Social não são mais uma opção para adicionar ao Marketo a partir de 28 de abril de 2016
+* Os botões de preenchimento de formulário do LinkedIn Social não eram mais uma opção para adicionar ao Marketo em 28 de abril de 2016
 
 * Removemos o botão Preenchimento de formulário do LinkedIn Social de todos os formulários que o tinham ativado
 
