@@ -3,9 +3,9 @@ unique-page-id: 2949874
 description: Criar um Evento com o GotoWebinar - Documentos do Marketing - Documentação do produto
 title: Criar um Evento com GotoWebinar
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [Adicionar GoToWebinar como um serviço do LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Criar um novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Defina as [ações de fluxo](http://docs.marketo.com/display/DOCS/Flow+Actions)apropriadas para rastrear o envolvimento
+>* Defina as [ações de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)apropriadas para rastrear o envolvimento
 
 
 Primeiro crie seu webinar em GoToWebinar. Determinadas configurações na criação do GoToWebinar são usadas pelo Marketo e algumas são usadas apenas por GoToWebinar.
 
-Depois de criar um evento de marketing e associar o GoToWebinar a ele, os sistemas poderão compartilhar informações de inscrição e presença. Para obter ajuda sobre como criar um GoToWebinar, consulte o [Guia do Usuário do GoToWebinar](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf).
+Depois de criar um evento de marketing e associar o GoToWebinar a ele, os sistemas poderão compartilhar informações de inscrição e presença.
 
 Abaixo está uma lista das configurações usadas por Marketo.
 
@@ -36,7 +36,7 @@ Abaixo está uma lista das configurações usadas por Marketo.
 
 ## Data e hora {#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`adaptador. Se você fizer alterações nessas informações, deverá clicar no link &quot;**Atualizar do provedor de webinar**&quot; em **Ações de Evento**, para que o Marketo possa ver as alterações.
+Digite as seguintes informações para seu webinar e ele será colocado no Marketo por meio do adaptador. Se você fizer alterações nessas informações, deverá clicar no link &quot;**Atualizar do provedor de webinar**&quot; em **Ações de Evento**, para que o Marketo possa ver as alterações.
 
 **Data**  do start - insira a data do start. Isso será visível em Marketo.
 
@@ -56,7 +56,7 @@ Abaixo está uma lista das configurações usadas por Marketo.
 
 >[!TIP]
 >
->Há campos adicionais que você configurará em GoToWebinar que NÃO afetarão a integração. Consulte [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) para obter informações adicionais sobre esses campos, pois eles não serão abordados neste artigo. Se precisar de ajuda adicional do GoToWebinar, visite o [Site de Ajuda](http://support.logmeininc.com/gotowebinar).
+>Se precisar de ajuda adicional do GoToWebinar, visite o [Site de Ajuda](https://support.logmeininc.com/gotowebinar).
 
 Agora, vamos pular para o Marketo!
 
@@ -68,7 +68,7 @@ Agora, vamos pular para o Marketo!
    >
    >O tipo de canal do evento selecionado deve ser **webinar**.
 
-1. Escolha **GoToWebinar** na Lista **Evento** **Parceiro**.
+1. Escolha **GoToWebinar** na Lista **Parceiro de Eventos**.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -112,7 +112,7 @@ As pessoas que se inscreverem no seu webinar serão encaminhadas para o seu prov
 
 ## Exibindo o Agendamento {#viewing-the-schedule}
 
-Na [visualização do cronograma do programa](http://docs.marketo.com/display/docs/program+schedule+view), clique na entrada do calendário do evento. Você pode ver o cronograma no lado direito da tela.
+Na visualização do cronograma do programa, clique na entrada do calendário do evento. Você pode ver o cronograma no lado direito da tela.
 
 >[!NOTE]
 >
