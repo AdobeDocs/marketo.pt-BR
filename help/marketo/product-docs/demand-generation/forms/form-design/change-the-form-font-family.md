@@ -3,9 +3,9 @@ unique-page-id: 2359608
 description: Alterar a família de fontes de formulário - Documentos do marketing - Documentação do produto
 title: Alterar a família de fontes de formulário
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ O Google Fonts é fantástico, e nós os inserimos diretamente no editor de form
 >
 >Essa configuração afeta o rótulo do formulário, o texto de entrada e qualquer rich text.
 
-1. Vá para **Marketing** **Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione o formulário e clique em **Editar** **Formulário**.
+1. Selecione o formulário e clique em **Editar formulário**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Em **Formulário** **Definições**, selecione **Definições**.
+1. Em **Configurações do formulário**, selecione **Configurações**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
@@ -35,7 +35,7 @@ O Google Fonts é fantástico, e nós os inserimos diretamente no editor de form
 
    >[!TIP]
    >
-   >Um monte de [Fontes do Google](http://www.google.com/fonts) estão disponíveis para uso.
+   >Um monte de [Fontes do Google](https://www.google.com/fonts) estão disponíveis para uso.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -53,9 +53,6 @@ O Google Fonts é fantástico, e nós os inserimos diretamente no editor de form
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
    >Lembre-se de aprovar o rascunho de landing page criado pelas alterações de formulário.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
@@ -64,9 +61,4 @@ Veja como foi fácil alterar a família de fontes em um formulário? Legal, agor
 
 >[!MORELIKETHIS]
 >
->* [Alterar o tamanho da fonte do formulário](change-the-form-font-size.md)
-
->
-
-
-
+>[Alterar o tamanho da fonte do formulário](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
