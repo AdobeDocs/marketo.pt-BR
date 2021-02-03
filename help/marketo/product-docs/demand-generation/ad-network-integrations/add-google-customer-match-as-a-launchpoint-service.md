@@ -3,7 +3,7 @@ unique-page-id: 12980661
 description: Adicionar correspondência de cliente do Google como um serviço do LaunchPoint - Documentos do Marketing - Documentação do produto
 title: Adicionar Correspondência de Cliente do Google como um Serviço LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -27,11 +27,11 @@ Com essa integração, você pode enviar uma audiência de marketing ao Google p
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecione **Novo** e, em seguida,** Novo serviço**.
+1. Selecione **Novo** em seguida **Novo serviço**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Digite um **Nome para exibição **e selecione** Correspondência de clientes do Google **no menu suspenso **Service**. Clique em **Criar**.
+1. Digite um **Nome de exibição** e selecione **Correspondência de clientes do Google** no menu suspenso **Serviço**. Clique em **Criar**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Com essa integração, você pode enviar uma audiência de marketing ao Google p
 
    >[!CAUTION]
    >
-   >Para que o Marketo envie audiências através de várias contas AdWords, o usuário do Google autorizado nas etapas a seguir precisa ter acesso a *todas* dessas contas.
+   >Para que o Marketo envie audiências através de várias contas AdWords, o usuário do Google autorizado nas etapas a seguir precisa ter acesso a _todas_ dessas contas.
 
    ![](assets/chooseaccount.png)
 
@@ -56,4 +56,3 @@ Com essa integração, você pode enviar uma audiência de marketing ao Google p
    ![](assets/authorizesuccess.png)
 
    Incrível! Agora você verá Audiências do Google Matched listadas como um serviço do LaunchPoint na guia Serviços instalados.
-
