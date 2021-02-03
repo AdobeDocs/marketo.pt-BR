@@ -3,9 +3,9 @@ unique-page-id: 2359573
 description: Página Definir um formulário de agradecimento - Documentos do Marketing - Documentação do produto
 title: Página Definir um formulário de agradecimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ O que acontece quando alguém preenche um formulário? Para onde eles são encam
 
 ## Editar formulário {#edit-form}
 
-1. Vá para **Marketing** **Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -25,17 +25,17 @@ O que acontece quando alguém preenche um formulário? Para onde eles são encam
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Em **Formulário** **Definições**, clique em **Definições**.
+1. Em **Configurações do formulário**, clique em **Configurações**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Role para baixo até a seção **Obrigado** **Você** **Página**.
+1. Role para baixo até a seção **Página de agradecimento**.
 
 ## Permanecer na página {#stay-on-page}
 
 A opção Permanecer na página manterá o visitante na mesma página quando o formulário for enviado.
 
-1. Selecione **Keep** **On** **Página** para **Seguir** **Para cima** **Com**.
+1. Selecione **Permanecer na página** para **Acompanhamento com**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ A opção Permanecer na página manterá o visitante na mesma página quando o f
 
 A configuração URL externo permite definir qualquer URL como página de acompanhamento. Depois que o usuário enviar o formulário, ele será direcionado para o URL especificado.
 
-1. Selecione **Externo** **URL** para **Seguir** **Para Cima** **Com**.
+1. Selecione **URL Externo** para **Acompanhamento com**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -71,7 +71,7 @@ Você pode selecionar qualquer landing page de marketing aprovada como acompanha
 
 Você pode adicionar várias opções e criar opções para mostrar às pessoas diferentes acompanhamentos, dependendo de suas respostas.
 
-1. Clique em **Adicionar** **Escolha**.
+1. Clique em **Adicionar Escolha**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ Você pode adicionar várias opções e criar opções para mostrar às pessoas 
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Escolha a página apropriada para o tipo **Seguir** **Para cima** **Com**.
+1. Escolha a página apropriada para o tipo **Acompanhamento com**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -100,9 +100,6 @@ Você pode adicionar várias opções e criar opções para mostrar às pessoas 
    ![](assets/image2014-9-15-17-3a39-3a3.png)
 
    >[!NOTE]
-   >
-   >**Lembrete**
-   >
    >
    >Você deve ter criado/aprovado essas landings page antecipadamente.
 
@@ -114,7 +111,7 @@ Você pode adicionar várias opções e criar opções para mostrar às pessoas 
    >
    >Você pode adicionar várias opções. No entanto, se você adicionar muitos, isso pode afetar a velocidade de carregamento do formulário, portanto, adicione apenas o que você precisa.
 
-1. Vá em frente e configure **Choice** **2**.
+1. Siga em frente e configure **Opção 2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -143,3 +140,4 @@ Você pode adicionar várias opções e criar opções para mostrar às pessoas 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
 Ótimo trabalho!
+
