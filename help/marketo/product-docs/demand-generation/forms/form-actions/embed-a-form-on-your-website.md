@@ -3,9 +3,9 @@ unique-page-id: 2359641
 description: Incorpore um formulário ao seu site - Documentos do Marketing - Documentação do produto
 title: Incorporar um formulário ao seu site
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 O Marketo permite que você incorpore nossos formulários em seu próprio site. Veja como obter acesso ao código incorporado.
 
-1. Vá para **Marketing** **Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,20 +23,17 @@ O Marketo permite que você incorpore nossos formulários em seu próprio site. 
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. Em **Formulário** **Ações**, clique em **Incorporar** **Código**.
+1. Em **Ações de formulário**, clique em **Código incorporado**.
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >O formulário deve ser aprovado para que o item **Embed** **Code** fique visível/utilizável.
+   >O formulário deve ser aprovado para que o item **Código incorporado** fique visível/utilizável.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >** [O Preenchimento do formulário](../../../../product-docs/administration/settings/edit-landing-page-settings.md)*** não funciona ao usar o código incorporado do formulário em suas próprias páginas *ou* uma landing page de marketing. O preenchimento prévio do formulário deve funcionar somente quando o formulário for usado em uma landing page de marketing por meio da opção Inserir elemento.
+   >**[O](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** Preenchimento de formulário não funciona ao usar o código incorporado de formulário em suas próprias páginas  __ ou landing page de marketing. O preenchimento prévio do formulário deve funcionar somente quando o formulário for usado em uma landing page de marketing por meio da opção Inserir elemento.
 
 1. Selecione/Copie o código incorporado e clique em **Fechar**.
 
@@ -50,6 +47,6 @@ Agora, basta dar o código incorporado ao seu desenvolvedor da Web e fazer com q
 
 >[!NOTE]
 >
->Se o seu desenvolvedor quiser personalizar a aparência ou acessar funções avançadas da API, mostre a [Página de desenvolvedores do Forms 2.0](http://developers.marketo.com/documentation/websites/forms-2-0/).
+>Se o seu desenvolvedor quiser personalizar a aparência ou acessar funções avançadas da API, mostre a [Página de desenvolvedores do Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/).
 
-Ótimo trabalho! Deseja que o [código incorporado inclua o código lightbox](use-a-form-in-a-lightbox.md)? Isso também é fácil!
+Ótimo trabalho! Deseja que o [código incorporado inclua o código lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Isso também é fácil!
