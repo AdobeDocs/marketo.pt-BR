@@ -1,11 +1,11 @@
 ---
 unique-page-id: 9437559
-description: Modelo 11-F - Documentos do Marketing - Documentação do produto
+description: Modelo 11-B - Documentos do Marketing - Documentação do produto
 title: Modelo 11-B
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 11-B {#template-b}
 
-[Fazer download do modelo 11-B](http://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
+Clique com o botão direito do mouse em [Baixar modelo 11-B](http://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
 
 ![](assets/image2015-8-4-11-3a2-3a54.png)
 
@@ -27,6 +27,6 @@ Este modelo inclui o seguinte conteúdo:
 * Quatro seções de corpo (opcional)
 * Rodapé (opcional)
 
-Clique abaixo para baixar este modelo:
+Clique com o botão direito do mouse abaixo para baixar este modelo:
 
 [Template11-B.html](http://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
