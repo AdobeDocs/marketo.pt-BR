@@ -3,7 +3,7 @@ unique-page-id: 7515027
 description: Adicionar uma imagem a uma Landing page guiada - Documentos do Marketing - Documentação do produto
 title: Adicionar uma imagem a uma Landing page guiada
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -31,11 +31,10 @@ Ao contrário das landings page de forma livre, as landings page guiadas têm es
 
    >[!NOTE]
    >
-   >A forma como a imagem é redimensionada depende do modelo. Saiba mais sobre [Modelos de Landing page guiada](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >A forma como a imagem é redimensionada depende do modelo. Saiba mais sobre [Modelos de Landing page guiada](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
    >[!TIP]
    >
    >No momento, não há suporte para a especificação de um link para uma imagem no editor. Em vez disso, use um elemento Rich Text.
-
