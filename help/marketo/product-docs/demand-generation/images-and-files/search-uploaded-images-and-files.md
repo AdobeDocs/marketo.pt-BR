@@ -3,7 +3,7 @@ unique-page-id: 2359862
 description: Pesquisar imagens e arquivos carregados - Documentos do Marketo - Documentação do produto
 title: Pesquisar imagens e arquivos carregados
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -29,16 +29,12 @@ No Marketo, encontrar imagens e arquivos é uma brisa.
 
 >[!TIP]
 >
->Para start de uma nova pesquisa, clique na caixa **x** na caixa **Rápido** **Localizar**.
+>Para start de uma nova pesquisa, clique em **x** na caixa **Localização Rápida**.
 
-Levantem os pés - acabaram!
+Levantem os pés, acabaram!
 
 >[!MORELIKETHIS]
 >
->* [Substituir uma imagem ou um arquivo carregado](replace-an-uploaded-image-or-file.md)
->* [Organize suas imagens e arquivos usando pastas](organize-your-images-and-files-using-folders.md)
-
->
-
-
+>* [Substituir uma imagem ou um arquivo carregado](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>* [Organize suas imagens e arquivos usando pastas](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 
