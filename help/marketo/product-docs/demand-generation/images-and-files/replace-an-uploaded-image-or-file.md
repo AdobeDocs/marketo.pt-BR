@@ -3,7 +3,7 @@ unique-page-id: 2359876
 description: Substitua uma imagem ou um arquivo carregado - Documentos do Marketo - Documentação do produto
 title: Substituir uma imagem ou um arquivo carregado
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Substituir uma imagem ou um arquivo carregado {#replace-an-uploaded-image-or-file}
 
-1. Vá para **Design** **Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/designstudio-6.png)
 
-1. Clique em **Imagens** **e** **Ficheiros** e selecione o ficheiro que pretende substituir.
+1. Clique em **Imagens e arquivos** e selecione o arquivo que deseja substituir.
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
    >[!TIP]
    >
-   >Você também pode [pesquisar imagens ou arquivos carregados](search-uploaded-images-and-files.md).
+   >Você também pode [pesquisar imagens ou arquivos carregados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
 
 1. Clique em **Ações de arquivo** e selecione **Substituir imagem ou Arquivo**.
 
@@ -49,10 +49,6 @@ Você conseguiu!
 
 >[!MORELIKETHIS]
 >
->* [Pesquisar imagens e arquivos carregados](search-uploaded-images-and-files.md)
->* [Encontre o URL de uma imagem ou arquivo carregado](find-the-url-of-an-uploaded-image-or-file.md)
-
->
-
-
+>* [Pesquisar imagens e arquivos carregados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>* [Encontre o URL de uma imagem ou arquivo carregado](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 
