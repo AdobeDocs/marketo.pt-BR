@@ -3,9 +3,9 @@ unique-page-id: 4720856
 description: Adicionar uma Visualização móvel para sua Landing page de forma livre - Documentos do marketing - Documentação do produto
 title: Adicionar uma Visualização móvel para sua Landing page de forma livre
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->A visualização móvel funciona em telas com largura de 480px (ou menos). Em outras palavras, smartphones. Veja mais [informações sobre resoluções de dispositivos](http://mydevice.io/devices/.).
+>A visualização móvel funciona em telas com largura de 480px (ou menos). Em outras palavras, smartphones. Veja mais [informações sobre resoluções de dispositivos](https://mydevice.io/devices/).
 
 1. Vá para **Atividades de marketing**.
 
@@ -41,21 +41,12 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Talvez seja necessário atualizar o modelo de forma livre. Se você vir essa mensagem, leia rapidamente sobre como [tornar um modelo de landing page de forma livre existente compatível](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
+   >Talvez seja necessário atualizar o modelo de forma livre. Se você vir essa mensagem, leia rapidamente sobre como [tornar um modelo de landing page de forma livre existente compatível](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. Ótimo! Agora você ativou a versão móvel da sua landing page. Clique em **Fechar. **
+1. Ótimo! Agora você ativou a versão móvel da sua landing page. Clique em **Fechar**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   Agora você pode [personalizar sua visualização móvel](customize-mobile-view-for-your-free-form-landing-page.md).
+   Agora você pode [personalizar sua visualização móvel](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md).
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
-
->[!MORELIKETHIS]
->
->* [Personalize a Visualização móvel para sua Landing page de forma livre](customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
