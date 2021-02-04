@@ -3,9 +3,9 @@ unique-page-id: 2359710
 description: Aprovar, não aprovar ou excluir uma Landing page - Documentos do Marketing - Documentação do produto
 title: Aprovar, Cancelar aprovação ou Excluir uma Landing page
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ O Landing page está no modo de rascunho até que você os aprove. A aprovação
 
    >[!TIP]
    >
-   >Você pode [aprovar várias páginas ao mesmo tempo](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) para facilitar sua vida.
+   >Você pode [aprovar várias páginas ao mesmo tempo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) para facilitar sua vida.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -31,12 +31,10 @@ O Landing page está no modo de rascunho até que você os aprove. A aprovação
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
    >Depois de aprovado, o ícone de landing page terá uma marca de seleção verde.
 
-1. Cancelar aprovação de uma Landing page
+## Cancelar aprovação de uma Landing page {#unapprove-a-landing-page}
+
 1. Selecione uma landing page, vá para **Ações de Landing page** e clique em **Não aprovar**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
@@ -47,7 +45,7 @@ O Landing page está no modo de rascunho até que você os aprove. A aprovação
 
 >[!NOTE]
 >
->Sua landing page não aprovada não é mais publicada na Web e não gerará nenhuma atividade adicional. Visitantes para landings page não aprovadas e suas guias do Facebook verão a [Página de fallback](../../../../product-docs/administration/settings/set-a-fallback-page.md).
+>Sua landing page não aprovada não é mais publicada na Web e não gerará nenhuma atividade adicional. Visitantes para landings page não aprovadas e suas guias do Facebook verão a [Página de fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Excluir uma Landing page {#delete-a-landing-page}
 
