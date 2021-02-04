@@ -3,9 +3,9 @@ unique-page-id: 7515401
 description: Criar um modelo de Landing page guiada - Documentos do Marketing - Documentação do produto
 title: Criar um modelo de Landing page guiada
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Mergulho profundo:** Cansado de ler? [Assista a este ](https://youtu.be/3O7e4GdZKsM) vídeo interessante com instruções passo a passo.
+>Cansado de ler? [Assista a este ](https://youtu.be/3O7e4GdZKsM) vídeo interessante com instruções passo a passo.
 
 Os modelos de landing page guiada têm uma sintaxe especial. Use essa sintaxe para especificar o que é personalizável e onde o conteúdo terminará em cada landing page criada a partir do modelo. Somente as regiões ou variáveis especificadas como editáveis estarão disponíveis para personalização no editor de landings page &quot;Guiado&quot;.
 
@@ -46,13 +46,13 @@ O conteúdo de um elemento com classe mktoText (se fornecido) será usado como v
 
 Exemplo:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
 ### Imagem {#image}
 
 Você tem duas opções para definir elementos de imagem editáveis. Você pode usar `<div>`, que especifica um container no qual a imagem será inserida, ou uma tag `<img>`.
 
-## Opção 1 - Use uma <div> {#option-use-a-div}
+## Opção 1 - Use um `<div>` {#option-use-a-div}
 
 Atributos necessários:
 
