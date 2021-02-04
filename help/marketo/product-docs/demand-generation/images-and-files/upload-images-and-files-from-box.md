@@ -3,7 +3,7 @@ unique-page-id: 2359868
 description: Carregar imagens e arquivos da caixa - Documentos do Marketing - Documentação do produto
 title: Carregar imagens e arquivos da caixa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Você pode carregar arquivos da Caixa para usar em landing page e e-mails.
 
-1. Vá para **Design** **Studio**.
+1. Vá para **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Vá para** Imagens e arquivos**. Clique em **Ações de arquivo** e selecione **Obter imagens da Web**.
+1. Vá para **Imagens e arquivos**. Clique em **Ações de arquivo** e selecione **Obter imagens da Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
