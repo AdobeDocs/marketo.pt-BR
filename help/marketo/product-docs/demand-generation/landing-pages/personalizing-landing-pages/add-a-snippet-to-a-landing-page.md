@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: Adicionar um trecho a uma Landing page - Documentos do Marketing - Documentação do produto
 title: Adicionar um trecho a uma Landing page
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Trechos são pequenos trechos de HTML que podem seguir regras e manter conteúdo
 
 >[!PREREQUISITES]
 >
->* [Criar um trecho](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
->
-
-
+>[Criar um trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 1. Selecione sua landing page e clique em **Editar rascunho**.
 
@@ -41,6 +37,6 @@ Trechos são pequenos trechos de HTML que podem seguir regras e manter conteúdo
 
    >[!NOTE]
    >
-   >Se você deseja adicionar um snippet a uma Landing page guiada, consulte [este artigo](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template).
+   >Se você deseja adicionar um snippet a uma Landing page guiada, consulte [este artigo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 Trabalho incrível! Agora você sabe como adicionar trechos às suas landings page.
