@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: Personalizar a Visualização móvel para sua Landing page de forma livre - Documentos do marketing - Documentação do produto
 title: Personalize a Visualização móvel para sua Landing page de forma livre
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Adicionar uma Visualização móvel para sua Landing page de forma livre](add-a-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
+>[Adicionar uma Visualização móvel para sua Landing page de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 A visualização móvel de sua landing page de forma livre é, na maioria das vezes, automática, mas você pode personalizá-la. Veja como.
 
@@ -49,11 +45,12 @@ Por padrão, tudo na visualização de desktop é mostrado na visualização mó
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Coisas importantes a saber:  {#important-things-to-know}
+## Coisas importantes a saber: {#important-things-to-know}
 
 * As imagens serão expandidas para a largura do seu dispositivo móvel. Se desejar imagens menores, puxe o elemento rich text e adicione a imagem dali.
 * Use apenas formulários Forms 2.0. Eles respondem e se ajustarão automaticamente.
-* Somente um elemento de modelo é editável, BODY#body id (Mobile). Você pode usar isso para alterar a cor do plano de fundo.\
+* Somente um elemento de modelo é editável, BODY#body id (Mobile). Você pode usar isso para alterar a cor do plano de fundo.
+
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## Ocultar um elemento da Visualização móvel {#hide-an-element-from-the-mobile-view}
@@ -112,13 +109,6 @@ Por padrão, tudo na visualização de desktop é mostrado na visualização mó
 
 Divirta-se!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artigos relacionados**
->
->* [Tornar um modelo de Landing page de forma livre existente compatível com dispositivos móveis](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
-
->
-
-
-
+>[Tornar um modelo de Landing page de forma livre existente compatível com dispositivos móveis](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
