@@ -3,9 +3,9 @@ unique-page-id: 4720738
 description: Editar um modelo de Landing page do Marketing - Documentos do Marketing - Documentação do produto
 title: Editar um modelo de Landing page de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Selecione o **Modelo** que deseja editar. Clique em** Editar rascunho**.
+1. Selecione o **Modelo** que deseja editar. Clique em **Editar rascunho**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
@@ -32,4 +32,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >Ao editar um modelo de landing page, ele criará um rascunho de qualquer ativo de landing page usando esse modelo.
-
