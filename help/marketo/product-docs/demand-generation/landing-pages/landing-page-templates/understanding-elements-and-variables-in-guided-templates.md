@@ -3,7 +3,7 @@ unique-page-id: 7515069
 description: Noções básicas sobre elementos e variáveis em modelos guiados - Documentos do Marketing - Documentação do produto
 title: Como entender elementos e variáveis em modelos guiados
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Ao editar uma landing page guiada, os elementos serão exibidos se tiverem sido 
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Sorteios de marketing
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Trecho de marketing
 
-Variáveis
+## Variáveis {#variables}
 
 As variáveis são atributos semelhantes a token que podem ser personalizados no editor de landings page guiada, como mostrado abaixo.
 
@@ -60,5 +60,4 @@ Existem três tipos de variáveis: variáveis de string, variáveis de cor e var
 
 >[!MORELIKETHIS]
 >
->[Criar um modelo de Landing page guiada](create-a-guided-landing-page-template.md)
-
+>[Criar um modelo de Landing page guiada](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
