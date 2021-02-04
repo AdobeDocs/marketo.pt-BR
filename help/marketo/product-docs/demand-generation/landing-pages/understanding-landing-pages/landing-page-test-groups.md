@@ -3,7 +3,7 @@ unique-page-id: 2949904
 description: Grupos de teste de landing page - Documentos do Marketing - Documentação do produto
 title: Grupos de teste de landing page
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -17,7 +17,7 @@ O Marketo rastreia o número de visualizações de página e conclusões de form
 
 >[!PREREQUISITES]
 >
->[Crie duas ou mais landings page](../../../../getting-started/quick-wins/landing-page-with-a-form.md), de preferência com um formulário.
+>[Crie duas ou mais landings page](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), de preferência com um formulário.
 
 1. No Design Studio, clique em **Novo**. Na lista suspensa, selecione **Novo grupo de teste**.
 
@@ -27,10 +27,8 @@ O Marketo rastreia o número de visualizações de página e conclusões de form
    >
    >As outras maneiras de criar um grupo de teste são:
    >
-   >    
-   >    
-   >    * Clique com o botão direito do mouse em uma landing page na árvore e selecione **Converter em grupo de teste**
-   >    * Crie um Grupo de Teste de Landing page em um programa escolhendo **Grupo de Teste AB** no menu **Novo Ativo Local**
+   >* Clique com o botão direito do mouse em uma landing page na árvore e selecione **Converter em grupo de teste**
+   >* Crie um Grupo de Teste de Landing page em um programa escolhendo **Grupo de Teste AB** no menu **Novo Ativo Local**
 
 
 1. Insira um nome e uma descrição opcional. Selecione as Landings page que deseja testar e clique em **Criar**.
@@ -56,4 +54,3 @@ O Marketo rastreia o número de visualizações de página e conclusões de form
    >[!TIP]
    >
    >Se desejar excluir o Grupo de teste, basta clicar em **Ações do grupo de teste** e selecionar **Excluir grupo de teste**.
-
