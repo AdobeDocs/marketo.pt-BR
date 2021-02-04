@@ -3,7 +3,7 @@ unique-page-id: 2359701
 description: Criar uma Landing page de forma livre - Documentos do marketing - Documentação do produto
 title: Criar uma Landing page de forma livre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Landings page de forma livre podem ser criadas como ativos locais de um programa
 
 >[!NOTE]
 >
->Os modos de landing page são definidos pelo modelo. [Saiba ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) mais sobre os modelos de landing page de forma livre e guiada.
+>Os modos de landing page são definidos pelo modelo. [Saiba ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) mais sobre os modelos de landing page de forma livre e guiada.
 
 ## Criar uma Landing page de forma livre em um Programa {#create-a-free-form-landing-page-in-a-program}
 
@@ -55,11 +55,11 @@ Landings page de forma livre podem ser criadas como ativos locais de um programa
 
 ## Criar uma Landing page de forma livre no Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Vá para **Design** **Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Clique em **Nova**, em seguida, **Nova Landing page.**
+1. Clique em **Nova**, em seguida, **Nova Landing page**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -74,4 +74,3 @@ Landings page de forma livre podem ser criadas como ativos locais de um programa
 >[!TIP]
 >
 >Desmarque &quot;Abrir editor de landing page para nova página&quot; se não quiser que o editor abra imediatamente depois de clicar em **Criar**.
-
