@@ -3,7 +3,7 @@ unique-page-id: 2359880
 description: Organize suas imagens e arquivos usando pastas - documentos do Marketo - documentação do produto
 title: Organize suas imagens e arquivos usando pastas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 A criação de pastas permite que você mova imagens e arquivos, veja apenas o conjunto de imagens desejado e faça upload diretamente para uma pasta específica.
 
-1. Vá para **Design** **Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/designstudio-7.png)
 
-1. Clique com o botão direito do mouse em** Imagens e arquivos*** no menu esquerdo e selecione **Nova pasta**.
+1. Clique com o botão direito do mouse em **Imagens e arquivos** no menu esquerdo e selecione **Nova pasta**.
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -35,9 +35,4 @@ Alto cinco! Estão prontos para a utopia de pastas.
 
 >[!MORELIKETHIS]
 >
->* [Pesquisar imagens e arquivos carregados](search-uploaded-images-and-files.md)
-
->
-
-
-
+>[Pesquisar imagens e arquivos carregados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
