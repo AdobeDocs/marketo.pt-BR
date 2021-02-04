@@ -3,19 +3,15 @@ unique-page-id: 5472348
 description: Tornar um modelo de Landing page de forma livre compatível com dispositivos móveis - Documentos do marketing - Documentação do produto
 title: Tornar um modelo de Landing page de forma livre existente compatível com dispositivos móveis
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
 
 # Tornar um modelo de Landing page de forma livre existente compatível com dispositivos móveis {#make-an-existing-free-form-landing-page-template-mobile-compatible}
-
->[!NOTE]
->
->Os modelos do Landing page criados antes da versão [de janeiro de 2015](../../../../release-notes/2015/release-notes-january-2015.md)precisam ser atualizados para serem compatíveis com dispositivos móveis.
 
 Isso pode ser feito em dois lugares, o Editor de modelos e o Editor de Landings page.
 
@@ -57,7 +53,9 @@ Isso pode ser feito em dois lugares, o Editor de modelos e o Editor de Landings 
 
 Grandes perguntas! Seu modelo deve ter as seguintes tags:
 
-`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  Se tudo parecer bem, você verá esta mensagem.
+`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
+
+Se tudo parecer bem, você verá esta mensagem.
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
@@ -83,13 +81,4 @@ Ao editar uma landing page e clicar na guia móvel, você às vezes perceberá q
    >
    >A ativação da versão móvel de um modelo criará rascunhos de qualquer landing page que o utilize.
 
-Incrível! Agora você pode [personalizar a visualização móvel](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas as landings page que usam este modelo.
-
->[!MORELIKETHIS]
->
->* [Personalize a Visualização móvel para sua Landing page de forma livre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
+Incrível! Agora você pode [personalizar a visualização móvel](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas as landings page que usam este modelo.
