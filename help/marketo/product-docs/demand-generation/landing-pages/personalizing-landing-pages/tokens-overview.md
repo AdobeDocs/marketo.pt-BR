@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Visão geral dos tokens - Documentos do Marketing - Documentação do produto
 title: Visão geral dos tokens
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Visão geral dos tokens {#tokens-overview}
 
-Um token é uma variável que pode ser usada em etapas de fluxo do Marketo [campanha inteligente](http://docs.marketo.com/display/DOCS/Smart+Campaigns), [emails](http://docs.marketo.com/display/DOCS/General), [landing page](http://docs.marketo.com/display/DOCS/Landing+Pages), [snippets](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets) e [campanha](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor).
+Um token é uma variável que pode ser usada em etapas de fluxo de campanha inteligente de marketing, emails, landings page, trechos e campanhas da Web.
 
 ## Como entender os valores padrão {#understanding-default-values}
 
@@ -154,9 +154,7 @@ Neste exemplo, o e-mail dirá &quot;Saudações, (nome)&quot; ou &quot;Saudaçõ
 ## Tokens de programa {#program-tokens}
 
 * `{{program.Name}}`
-
 * `{{program.Description}}`
-
 * `{{program.id}}`
 
 ## Meus tokens {#my-tokens}
