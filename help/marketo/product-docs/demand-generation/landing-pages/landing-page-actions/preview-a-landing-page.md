@@ -3,7 +3,7 @@ unique-page-id: 2359716
 description: Pré-visualização de uma Landing page - Documentos do Marketing - Documentação do produto
 title: Pré-visualização de uma Landing page
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Você provavelmente quer ver como sua landing page se parece antes de fazê-la v
 
 ## Pré-visualização de uma Landing page {#preview-a-landing-page-1}
 
-1. Selecione uma landing page e clique em **Pré-visualização** **Página**.
+1. Selecione uma landing page e clique em **Página de Pré-visualização**.
 
    ![](assets/image2014-9-16-16-3a21-3a10.png)
 
@@ -31,21 +31,21 @@ Você provavelmente quer ver como sua landing page se parece antes de fazê-la v
 
 ## Pré-visualização de um rascunho de Landing page {#preview-a-landing-page-draft}
 
-1. Clique com o botão direito do mouse em uma landing page aprovada que tenha uma versão de rascunho e clique em **Pré-visualização** **Rascunho**.
+1. Clique com o botão direito do mouse em uma landing page aprovada que tenha uma versão de rascunho e clique em **Rascunho de Pré-visualização**.
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
 ## Pré-visualização de um rascunho de Landing page ao editar {#preview-a-landing-page-draft-while-editing}
 
-1. Selecione uma landing page e clique em **Editar** **Rascunho**.
+1. Selecione uma landing page e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. A qualquer momento durante o trabalho no editor de landings page, você pode clicar em **Rascunho de Pré-visualização.**
+1. A qualquer momento durante seu trabalho no editor de landings page, você pode clicar em **Rascunho de Pré-visualização**.
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 
-1. Você pode retornar rapidamente à edição clicando em **Editar rascunho.**
+1. Você pode retornar rapidamente à edição clicando em **Editar rascunho**.
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
