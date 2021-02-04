@@ -3,9 +3,9 @@ unique-page-id: 8159325
 description: Modelo 3-B - Documentos do Marketing - Documentação do produto
 title: Modelo 3-B
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 3-B {#template-b}
 
-[Modelo de download 3-B](http://docs.marketo.com/download/attachments/8159325/template3-b.html?version=1&amp;modificationdate=1434063541000&amp;api=v2)
+Clique com o botão direito do mouse em [Baixar modelo 3-B](http://docs.marketo.com/download/attachments/8159325/template3-b.html?version=1&amp;modificationdate=1434063541000&amp;api=v2)
 
 ![](assets/image2015-6-15-11-3a11-3a30.png)
 
@@ -27,6 +27,6 @@ Este modelo inclui o seguinte conteúdo:
 * Três seções de corpo (opcional)
 * Rodapé (opcional)
 
-**Clique abaixo para baixar este modelo:**
+**Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
 [Template3-B.html](http://docs.marketo.com/download/attachments/8159325/template3-b.html?version=1&amp;modificationdate=1434063541000&amp;api=v2)
