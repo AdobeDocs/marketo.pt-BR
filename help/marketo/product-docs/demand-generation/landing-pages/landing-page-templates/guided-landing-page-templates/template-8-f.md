@@ -3,9 +3,9 @@ unique-page-id: 8783975
 description: Modelo 8-F - Documentos do Marketing - Documentação do produto
 title: Modelo 8-F
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 8-F {#template-f}
 
-[Fazer download do modelo 8-F](http://docs.marketo.com/download/attachments/8783975/template-8f.html?version=1&amp;modificationdate=1482175174000&amp;api=v2)
+Clique com o botão direito do mouse em [Baixar modelo 8-F](http://docs.marketo.com/download/attachments/8783975/template-8f.html?version=1&amp;modificationdate=1482175174000&amp;api=v2)
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 
@@ -27,6 +27,6 @@ Este modelo inclui o seguinte conteúdo:
 * Cinco seções do corpo (opcional)
 * Um rodapé (opcional)
 
-Clique abaixo para baixar este modelo:
+Clique com o botão direito do mouse abaixo para baixar este modelo:
 
 [Modelo8-F.html](http://docs.marketo.com/download/attachments/8783975/template-8f.html?version=1&amp;modificationdate=1482175174000&amp;api=v2)
