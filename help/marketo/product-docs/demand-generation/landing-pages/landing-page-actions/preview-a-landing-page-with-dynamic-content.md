@@ -3,7 +3,7 @@ unique-page-id: 2359734
 description: Pré-visualização de uma Landing page com conteúdo dinâmico - Documentos do Marketing - Documentação do produto
 title: Pré-visualização de uma Landing page com conteúdo dinâmico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -17,14 +17,11 @@ Pré-visualização sua landing page depois de adicionar conteúdo dinâmico par
 
 >[!PREREQUISITES]
 >
->* [Usar conteúdo dinâmico em uma Landing page](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [Pré-visualização de uma Landing page](preview-a-landing-page.md)
-
->
+>* [Usar conteúdo dinâmico em uma Landing page](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [Pré-visualização de uma Landing page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 
-
-1. Selecione uma landing page e clique em **Página de Pré-visualização.**
+1. Selecione uma landing page e clique em **Página de Pré-visualização**.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
