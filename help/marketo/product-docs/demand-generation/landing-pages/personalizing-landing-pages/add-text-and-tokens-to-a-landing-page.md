@@ -3,9 +3,9 @@ unique-page-id: 2359530
 description: Adicionar texto e tokens a uma Landing page - Documentos de marketing - Documentação do produto
 title: Adicionar texto e tokens a uma Landing page
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Tokens são bits dinâmicos de texto que podem personalizar sua landing page.
    >
    >O designer de landings page abre em uma nova janela.
 
-1. Duplo clique na caixa Rich Text à qual deseja adicionar o token.
+1. Clique com o duplo na caixa Rich Text à qual deseja adicionar o token.
 
    ![](assets/image2015-5-21-12-3a30-3a5.png)
 
@@ -74,4 +74,3 @@ Tokens são bits dinâmicos de texto que podem personalizar sua landing page.
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
    Missão concluída! Agora você tem um token na sua landing page.
-
