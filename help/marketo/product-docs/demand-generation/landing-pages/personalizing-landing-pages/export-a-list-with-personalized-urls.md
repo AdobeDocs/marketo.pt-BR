@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: Exportar uma Lista com URLs personalizados - Documentos do Marketing - Documentação do produto
 title: Exportar uma Lista com URLs personalizados
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Habilitar URLs personalizados para sua conta](enable-personalized-urls-for-your-account.md)
->* [Ativar URLs personalizados para uma Landing page](enable-personalized-urls-for-a-landing-page.md)
-
->
+>* [Habilitar URLs personalizados para sua conta](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [Ativar URLs personalizados para uma Landing page](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 
-
-1. Selecione sua lista ou lista inteligente, clique na guia **Clientes potenciais** para obter os resultados e clique no ícone do Excel. INLINE Verifique se você tem **Código exclusivo do Marketo **e **Nome exclusivo do Marketo** [colunas visíveis](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Selecione sua lista ou lista inteligente, clique na guia **Clientes potenciais** para obter os resultados e clique no ícone do Excel. INLINE Verifique se você tem **Código exclusivo do Marketo** e **Nome exclusivo do Marketo** [colunas visíveis](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -53,4 +50,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >Se houver clientes potenciais com o mesmo nome e sobrenome, os números serão anexados automaticamente para garantir que os URLs permaneçam exclusivos.
-
