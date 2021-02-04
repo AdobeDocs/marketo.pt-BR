@@ -3,7 +3,7 @@ unique-page-id: 2359705
 description: Adicionar um novo formulário a uma Landing page de forma livre - Documentos do marketing - Documentação do produto
 title: Adicionar um novo formulário a uma Landing page de forma livre
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -17,18 +17,15 @@ Formulário, conheça a landing page. Landing page, formulário.
 
 >[!PREREQUISITES]
 >
->* [Criar um formulário](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [Criar uma Landing page de forma livre](create-a-free-form-landing-page.md)
-
->
+>* [Criar um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+>* [Criar uma Landing page de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
 
-
-1. Vá para **Marketing** **Atividade**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Localize sua landing page e clique em **Editar** **Rascunho**.
+1. Localize sua landing page e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
@@ -43,13 +40,12 @@ Formulário, conheça a landing page. Landing page, formulário.
 1. Você tem três opções ao escolher sua página de acompanhamento:
 
    * **landing page**  - para escolher uma landing page de marketing
-   * **URL** externo**** - para escolher qualquer URL que você deseja
+   * **URL**  externo - para escolher qualquer URL que você deseja
+   * **Definido**  o formulário - para usar as configurações definidas no nível do formulário
 
-   * **Formulário**** Definido** - para usar as configurações definidas no nível do formulário
    >[!NOTE]
    >
    >**Definição**
-   >
    >
    >A página de acompanhamento é a página que as pessoas verão depois de enviarem o formulário.
 
@@ -59,4 +55,4 @@ Formulário, conheça a landing page. Landing page, formulário.
 
    Muito bem!
 
-Basta fechar o editor de landings page e [aprovar o rascunho da landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Basta fechar o editor de landings page e [aprovar o rascunho da landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
