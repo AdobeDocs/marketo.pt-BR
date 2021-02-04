@@ -3,9 +3,9 @@ unique-page-id: 7515993
 description: Modelo 1-C - Documentos do Marketing - Documentação do produto
 title: Modelo 1-C
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 7f1b281d918f8a8c68fc0a3605f88de717b3cf64
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 1-C {#template-c}
 
-[Fazer download do modelo 1-C](http://docs.marketo.com/download/attachments/7515993/template1-c.html?version=1&amp;modificationdate=1432836776000&amp;api=v2)
+Clique com o botão direito do mouse em [Baixar modelo 1-C](https://docs.marketo.com/download/attachments/7515993/Template1-C.html?version=1&amp;modificationDate=1432836776000&amp;api=v2)
 
 ![](assets/image2015-5-28-13-3a18-3a56.png)
 
@@ -26,6 +26,6 @@ Este modelo inclui o seguinte conteúdo:
 * Três seções de corpo (opcional)
 * Rodapé (opcional)
 
-**Clique abaixo para baixar este modelo:**
+**Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Template1-C.html](http://docs.marketo.com/download/attachments/7515993/template1-c.html?version=1&amp;modificationdate=1432836776000&amp;api=v2)
+[Template1-C.html](https://docs.marketo.com/download/attachments/7515993/Template1-C.html?version=1&amp;modificationDate=1432836776000&amp;api=v2)
