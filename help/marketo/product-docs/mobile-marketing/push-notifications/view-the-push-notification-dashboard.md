@@ -3,9 +3,9 @@ unique-page-id: 10096523
 description: Visualização do Painel de notificação por push - Documentos do Marketing - Documentação do produto
 title: Visualização do Painel de notificação por push
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,8 @@ ht-degree: 0%
    >
    >A métrica **Enviada** pode refletir mais envios do que o número exato de pessoas para as quais a notificação por push foi enviada. Isso ocorre porque é calculado com base no *número de dispositivos* que se qualificam para receber seu push. Por exemplo, se uma única pessoa tem três dispositivos, o painel registra três envios, não um.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
