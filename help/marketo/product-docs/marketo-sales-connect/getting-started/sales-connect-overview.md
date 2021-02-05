@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Visão geral do Sales Connect - Documentos do Marketing - Documentação do produto
 title: Visão geral do Sales Connect
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 O Marketing to Sales Connect é uma solução de suporte a vendas multifacetada com várias funções, ajudando você a estimular o envolvimento durante todo o ciclo de vendas.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com o Gerente de sucesso do cliente para obter mais informações.
 
