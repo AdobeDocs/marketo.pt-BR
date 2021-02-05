@@ -3,7 +3,7 @@ unique-page-id: 2359955
 description: Relatório de desempenho do fluxo de envolvimento - Documentos do marketing - Documentação do produto
 title: Relatório de desempenho de fluxo de envolvimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -60,8 +60,6 @@ Quer saber como o conteúdo de seu envolvimento está funcionando? Experimente o
 
    >[!TIP]
    >
-   >
-   >Embora não esteja ilustrado, a Pontuação de envolvimento é uma coluna neste relatório. Consulte [Entendendo a Pontuação de envolvimento](understanding-the-engagement-score.md) para obter detalhes sobre o que ela é.
+   >Embora não esteja ilustrado, a Pontuação de envolvimento é uma coluna neste relatório. Consulte [Entendendo a Pontuação de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) para obter detalhes sobre o que ela é.
 
    Ótimo trabalho! Observe que o relatório é agrupado por programa de envolvimento.
-
