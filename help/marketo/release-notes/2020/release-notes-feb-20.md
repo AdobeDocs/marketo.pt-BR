@@ -3,9 +3,9 @@ unique-page-id: 37355826
 description: Notas de versão - 20 de fevereiro - Documentos do Marketing - Documentação do produto
 title: Notas de versão - Fev de 20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Os seguintes recursos estão incluídos na versão de fevereiro de 2010. Verifique sua edição de marketing para ver a disponibilidade de recursos.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
