@@ -3,9 +3,9 @@ unique-page-id: 2359799
 description: Publicar sorteios - Documentos do Marketing - Documentação do produto
 title: Publicar sorteios
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,13 @@ ht-degree: 0%
 
 # Publicar sorteios {#publish-a-sweepstakes}
 
-Depois que você [criar sorteios](create-sweepstakes.md), poderá publicá-los em suas landings page de marketing, em seu site e no Facebook.
+Depois que você [criar sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), poderá publicá-los em suas landings page de marketing, em seu site e no Facebook.
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
 >[!NOTE]
->
->**Lembrete**
 >
 >Antes de publicar sua oferta, confirme se ela está em conformidade com todas as leis, regras e regulamentos aplicáveis.
 
@@ -41,12 +37,9 @@ Depois que você [criar sorteios](create-sweepstakes.md), poderá publicá-los e
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
    >Você precisa aprovar seus sorteios para disponibilizá-los aqui.
 
-   [publique a landing page no ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebook para colocar os sorteios em seu site](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   Parabéns! Aprove a landing page e seus sorteios estão vivos. Você também pode [publicar a landing page no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [colocar os sorteios em seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >
@@ -54,6 +47,4 @@ Depois que você [criar sorteios](create-sweepstakes.md), poderá publicá-los e
 
    >[!NOTE]
    >
-   >Depois que as pessoas se inscreverem no start, lembre-se de voltar ao aplicativo para [selecionar os vencedores do sorteio](select-sweepstakes-winners.md)!
-
-Parabéns! Aprove a landing page e seus sorteios estão vivos. Você também pode ou .
+   >Depois que as pessoas se inscreverem no start, lembre-se de voltar ao aplicativo para [selecionar os vencedores do sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!
