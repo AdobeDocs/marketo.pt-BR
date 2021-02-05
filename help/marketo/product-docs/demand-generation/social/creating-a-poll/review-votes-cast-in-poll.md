@@ -3,9 +3,9 @@ unique-page-id: 2359777
 description: Revisar as declarações aprovadas na pesquisa - Documentos do Marketing - Documentação do produto
 title: Revisar votos transmitidos na pesquisa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,6 @@ Quem votou em quê em sua pesquisa? Vamos descobrir.
 
    ![](assets/image2015-5-12-14-3a37-3a24.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
-   >
-   >
-   >Saiba mais sobre o alcance social e o impacto de seus aplicativos em [Desempenho social Visualização](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
-
+   >Saiba mais sobre o alcance social e o impacto de seus aplicativos em [Desempenho social Visualização](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
