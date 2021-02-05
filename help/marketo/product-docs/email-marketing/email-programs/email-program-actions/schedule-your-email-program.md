@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: Agende seu Programa de e-mail - Documentos do Marketing - Documentação do produto
 title: Agendar seu Programa de email
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Com seu programa de e-mail criado, definido pela audiência e selecionado, você
 
    Quão fácil foi isso? A única coisa que resta é [aprovar um programa de e-mail](approve-unapprove-an-email-program.md) e você pode ir.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Agendar Programas de e-mail com fuso horário do Recipient](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Start principal para Programas de e-mail](head-start-for-email-programs.md)
