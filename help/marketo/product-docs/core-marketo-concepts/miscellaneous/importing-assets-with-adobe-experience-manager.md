@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Importação de ativos com a Adobe Experience Manager - Documentos do Marketing - Documentação do produto
 title: Importação de ativos com o Adobe Experience Manager
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 O Seletor de ativos permite que os clientes do Marketing Acesse, selecione e importe ativos AEM no Design Studio do Marketing. **Permissões de administrador são necessárias**.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Nem todos os clientes compraram este recurso. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
 
