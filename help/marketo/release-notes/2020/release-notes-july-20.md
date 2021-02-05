@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: Notas de versão - 20 de julho de 2010 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - julho de 2020
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Os seguintes recursos estão incluídos na versão de 20 de julho. Verifique sua edição de marketing para ver a disponibilidade de recursos.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Observe que, dependendo do seu pacote atual, os itens com uma estrela ( ![(star)](assets/star-yellow.svg)) podem exigir a compra de um complemento de valor. Entre em contato com seu representante de Marketo Engage para saber mais.
 
