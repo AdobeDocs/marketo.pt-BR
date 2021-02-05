@@ -3,7 +3,7 @@ unique-page-id: 2359811
 description: Escolha o URL de compartilhamento para um aplicativo social - Documentos do Marketing - Documentação do produto
 title: Escolha o URL de compartilhamento para um aplicativo social
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -35,21 +35,13 @@ Ao criar um aplicativo social, você pode escolher qual URL será compartilhado 
    >
    >**Definição**
    >
-   >
    >As publicações de compartilhamento podem ser vinculadas a três locais:
    >
-   >    
-   >    
-   >    * **Página** de referência: A página que contém o aplicativo.
-   >    * **Outras Landings page**: Uma landing page de marketing diferente das do menu suspenso.
-   >    * **URL** externo: Uma landing page que não é de Marketo.
+   >* **Página** de referência: A página que contém o aplicativo.
+   >* **Outras Landings page**: Uma landing page de marketing diferente das do menu suspenso.
+   >* **URL** externo: Uma landing page que não é de Marketo.
 
 
 >[!MORELIKETHIS]
 >
->* [Adicionar sua política de privacidade a um aplicativo social](add-your-privacy-policy-to-a-social-app.md)
-
->
-
-
-
+>[Adicionar sua política de privacidade a um aplicativo social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
