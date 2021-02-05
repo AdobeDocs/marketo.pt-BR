@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo Sandbox - Documentos do Marketing - Documentação do produto
 title: Área de segurança do Marketo
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Uma caixa de proteção Marketo é uma instância adicional usada para fins de teste antes da implementação no ambiente de produção.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Nem todos os clientes compraram este recurso. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
 
