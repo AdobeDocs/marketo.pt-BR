@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: Criar um analisador de caminho de sucesso - Documentos do marketing - Documentação do produto
 title: Criar um analisador de caminho bem-sucedido
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Agora você pode explorar o movimento de cada estágio para o próximo!
 >
 >Quer salvar seu relatório? Clique no menu suspenso **Ações do Analyzer** e selecione **Salvar como**.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Uso do Analisador de caminho de sucesso](using-the-success-path-analyzer.md)
 
