@@ -3,9 +3,9 @@ unique-page-id: 2950549
 description: Configuração do fluxo recomendado pelo Social - Documentos do Marketing - Documentação do produto
 title: Configurar o fluxo recomendado pelo Social
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ Ao criar um aplicativo social, você pode configurar as opções de rede social 
 
 >[!NOTE]
 >
->Isso é muito semelhante a [configurar o fluxo de inscrição/compartilhamento em redes sociais](configure-social-sign-up-share-flow.md), mas é para os links de compartilhamento *em* o aplicativo social.
+>Isso é muito semelhante a [configurar o fluxo de inscrição/compartilhamento em redes sociais](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md), mas é para os links de compartilhamento _em_ o aplicativo social.
 
 1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione o aplicativo e clique em **Editar rascunho****.**
+1. Selecione o aplicativo e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. No editor de aplicativos sociais, vá para **Fluxo recomendado** > **Redes sociais****.**
+1. No editor de aplicativos sociais, vá para **Fluxo recomendado** > **Redes sociais**.
 
    ![](assets/recommendedflow.png)
 
@@ -47,25 +47,27 @@ Ao criar um aplicativo social, você pode configurar as opções de rede social 
    >
    >Em um compartilhamento de vídeo, a miniatura é gerada automaticamente.
 
-   **Adicionar** conteúdo dinâmicoSe você escolher** Adicionar conteúdo estático**, insira o título, a legenda e a descrição e faça upload de uma imagem. Veja as próximas duas etapas.
+   Se você escolher **Adicionar conteúdo dinâmico**, os valores das tags OpenGraph da página (og:title, og:caption e og:description) e a miniatura serão adicionados automaticamente às publicações do Facebook. Consulte a próxima etapa.
+
+   Se você escolher **Adicionar conteúdo estático**, insira o título, a legenda e a descrição e faça upload de uma imagem. Veja as próximas duas etapas.
 
 1. Na janela Visualização e edição, clique em **Mostrar edições** para personalizar o prompt de compartilhamento e a mensagem que aparecerão nas postagens do Facebook.
 
    >[!TIP]
    >
-   >Para obter mais informações, consulte [Editar configurações de postagens avançadas do Facebook](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
+   >Para obter mais informações, consulte [Editar configurações de postagens avançadas do Facebook](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >O [URL de compartilhamento](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) é adicionado automaticamente a todas as mensagens de compartilhamento.
+   >O [URL de compartilhamento](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) é adicionado automaticamente a todas as mensagens de compartilhamento.
 
-1. Se você escolher **Adicionar estático** **conteúdo** acima, edite o título, a legenda e a descrição e faça upload de uma imagem personalizada (de suas Imagens e Arquivos do Marketing para ).
+1. Se você escolher **Adicionar conteúdo estático** acima, edite o título, a legenda e a descrição e faça upload de uma imagem personalizada (de suas Imagens e arquivos de marketing para ).
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
-   Consulte [Adicionar imagens e arquivos ao Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Consulte [Adicionar imagens e arquivos ao Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
@@ -97,7 +99,7 @@ Se você escolher , os valores das tags OpenGraph da página (og:title, og:capti
 
    Se você escolher **Adicionar conteúdo estático**, insira o título, a legenda e a descrição e faça upload de uma imagem. Veja as próximas duas etapas.
 
-1. Na janela **Visualização** &amp; **Editar**, clique em **Mostrar edições** e edite o prompt de compartilhamento e a mensagem que aparecerão nas publicações do LinkedIn.
+1. Na janela **Visualização e edição**, clique em **Mostrar edições** e edite o prompt de compartilhamento e a mensagem que aparecerão nas publicações do LinkedIn.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -105,11 +107,11 @@ Se você escolher , os valores das tags OpenGraph da página (og:title, og:capti
    >
    >Use {html_title} no texto da postagem para exibir o título da página automaticamente.
 
-1. Se você escolher **Adicionar conteúdo estático** acima, edite o título e a descrição e faça upload de uma imagem personalizada (de Mark **e** para Imagens e Arquivos).
+1. Se você escolher **Adicionar conteúdo estático** acima, edite o título e a descrição e faça upload de uma imagem personalizada (de suas Imagens e arquivos de marketing para ).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
-   Consulte [Adicionar imagens e arquivos ao Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Consulte [Adicionar imagens e arquivos ao Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
@@ -123,11 +125,10 @@ Se você escolher , os valores das tags OpenGraph da página (og:title, og:capti
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. Clique em **Concluir** > **Aprovar** e **Fechar****.**
+1. Clique em **Concluir** > **Aprovar** e **Fechar**.
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
 >[!MORELIKETHIS]
 >
->A próxima etapa é [adicionar o compartilhamento de vídeo](customize-video-share-flow.md) ou [pesquisa](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) a uma landing page, Facebook ou site próprio.
-
+>A próxima etapa é [adicionar o compartilhamento de vídeo](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) ou [pesquisa](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) a uma landing page, Facebook ou site próprio.
