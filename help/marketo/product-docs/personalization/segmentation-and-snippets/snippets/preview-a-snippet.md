@@ -3,9 +3,9 @@ unique-page-id: 2359498
 description: Pré-visualização de um fragmento - Documentos do Marketing - Documentação do produto
 title: Pré-visualização de um fragmento
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Os trechos são blocos de conteúdo dinâmico que mudam com base nas regras de s
 
 A pré-visualização é excelente para garantir que o conteúdo tenha a aparência correta para cada segmento.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Aprovar um trecho](approve-a-snippet.md)
 
