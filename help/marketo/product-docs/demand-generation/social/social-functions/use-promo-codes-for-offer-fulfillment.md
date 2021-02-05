@@ -3,7 +3,7 @@ unique-page-id: 2359819
 description: Usar códigos promocionais para disponibilização de Oferta - Documentos do Marketing - Documentação do produto
 title: Usar códigos promocionais para disponibilização de Oferta
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Ao criar uma oferta de referência ou sorteios, você pode enviar um código pro
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. No editor de oferta de referência, vá para **Configurações do aplicativo** e **Detalhes da Oferta.**
+1. No editor de oferta de referência, vá para **Configurações do aplicativo** e **Detalhes da Oferta**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
@@ -39,7 +39,6 @@ Ao criar uma oferta de referência ou sorteios, você pode enviar um código pro
 
    >[!CAUTION]
    >
-   >
    >Qualquer espaço em branco no arquivo de códigos promocionais é tratado como parte do código daquela linha. Tenha cuidado especial para evitar espaços à direita no final de cada linha.
 
 1. Quando o upload for concluído, o número total de códigos carregados será exibido.
@@ -52,7 +51,7 @@ Assim que os participantes receberem seu start de recompensa por oferta, você p
 
 >[!NOTE]
 >
->Somente usuários com permissão *Access Awards* têm acesso a essas informações. Consulte [Gerenciando Funções e Permissões do Usuário](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Somente usuários com permissão _Access Awards_ têm acesso a essas informações. Consulte [Gerenciando Funções e Permissões do Usuário](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Vá para **Atividades de marketing**.
 
