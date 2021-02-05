@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: Instalação do plug-in do Marketo Outlook por TI - Documentos do Marketing - Documentação do produto
 title: Instalação do plug-in do Marketo Outlook por TI
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Para especificar um local dos arquivos de log, você pode especificar o caminho 
 
 Consulte [a lista completa de switches](https://support.microsoft.com/en-us/kb/227091) da Microsoft se você quiser tentar níveis de log ou níveis de interface do usuário diferentes.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Desinstalação do plug-in do Marketo Outlook por TI](marketo-outlook-plugin-uninstall-by-it.md)
 
