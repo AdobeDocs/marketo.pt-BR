@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Definir campos de pontuação a serem usados para estrelas e chamas no Sales Insight - Documentos do Marketing - Documentação do produto
 title: Definir campos de pontuação a serem usados para estrelas e chamas no insight de vendas
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,8 @@ Por padrão, o Marketing Cloud Sales Insight usa o campo **Pontuação principal
    >
    >O insight de vendas levará algum tempo para recalcular. Você pode verificar seu CRM mais tarde para ver as estrelas e as chamas.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >
    >[Prioridade, urgência, pontuação relativa e melhores propostas](priority-urgency-relative-score-and-best-bets.md)
