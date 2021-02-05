@@ -3,7 +3,7 @@ unique-page-id: 10098134
 description: Adicionar um Programa a um fluxo de Programa de envolvimento - Documentos do marketing - Documentação do produto
 title: Adicionando um Programa a um fluxo de Programa de envolvimento
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -57,10 +57,6 @@ Alterações no relatórios com o local do email. Assim, por exemplo, se o email
 
 >[!MORELIKETHIS]
 >
->* [Adicionar conteúdo a um fluxo](add-content-to-a-stream.md)
->* [Como entender Programas](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
-
->
-
-
+>* [Adicionar conteúdo a um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Como entender Programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 
