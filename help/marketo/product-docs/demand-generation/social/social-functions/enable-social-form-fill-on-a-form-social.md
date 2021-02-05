@@ -3,9 +3,9 @@ unique-page-id: 2359829
 description: Ativar o preenchimento do formulário social em um formulário (Social) - Documentos de marketing - Documentação do produto
 title: Ativar o preenchimento do formulário social em um formulário (Social)
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Permita que seus visitantes preencham o formulário usando sua rede social. Você obtém automaticamente dados extras e eles obtêm uma experiência mais rápida. Veja como.
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
@@ -39,7 +37,7 @@ Permita que seus visitantes preencham o formulário usando sua rede social. Voc�
 
    >[!TIP]
    >
-   >Veja o que [o Data Marketo capturará](manage-social-profile-data.md) se as pessoas usarem os botões sociais.
+   >Veja o que [o Data Marketo capturará](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) se as pessoas usarem os botões sociais.
 
 1. Clique em **Concluir**.
 
