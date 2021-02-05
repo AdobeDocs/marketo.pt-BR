@@ -3,7 +3,7 @@ unique-page-id: 10912085
 description: Endereços IP compartilhados e dedicados - Documentos do Marketing - Documentação do produto
 title: Endereços IP compartilhados e dedicados
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
@@ -31,13 +31,13 @@ Como de costume, há prós e contras para ambas as opções.
 
 **Prós e contras de um IP dedicado**
 
-*Prós*
+_Prós_
 
 **Reputação**  - Você é o dono integral da sua reputação e capacidade de entrega.\
 **Monitoramento**  - O monitoramento do relatórios de entrega permite que você responda rapidamente às alterações nas métricas do delivery.\
 **Resolução**  de problemas - é mais fácil pesquisar, entender e resolver problemas de delivery.
 
-*Cons*
+_Cons_
 
 **Alterações**  no volume - Os picos no volume podem afetar negativamente sua reputação e precisam ser gerenciados.\
 **Processo**  de aquecimento de IP - a reputação é construída ao longo do tempo. Alguns ISPs (Internet Provedores de serviço) reduzem endereços IP sem histórico de volume, portanto, você terá que criar uma reputação nas primeiras semanas (o Marketo pode ajudá-lo a orientá-lo).\
@@ -45,17 +45,17 @@ Como de costume, há prós e contras para ambas as opções.
 
 **Prós e contras de um IP compartilhado**
 
-*Prós*
+_Prós_
 
-**Bons colegas de quarto **- Se as pessoas que você compartilha seu IP seguirem as práticas recomendadas de envio, você se beneficiará.\
-**Frequência de correspondência **- Não há uma frequência de correspondência mínima necessária para se qualificar para um IP compartilhado, ao contrário dos IPs dedicados.\
-**Custo **- Nunca há um encargo adicional para enviar de um IP compartilhado.
+**Bons colegas**  de quarto - Se as pessoas que você compartilha seu IP seguirem as práticas recomendadas de envio, você se beneficiará.\
+**Frequência**  de envio - Não há uma frequência de envio mínima necessária para se qualificar para um IP compartilhado, ao contrário dos IPs dedicados.\
+**Custo**  - nunca há um encargo adicional para enviar de um IP compartilhado.
 
-*Cons*
+_Cons_
 
 **Casos**  ruins - Se as pessoas com quem você compartilha seu IP se envolverem em práticas de envio insatisfatórias, suas campanhas de email poderão ser afetadas negativamente.\
-**Controle **- Você tem muito menos controle sobre sua reputação do remetente.\
-**Resolução de problemas **- Geralmente, pode ser mais difícil resolver um problema ao enviar de IPs compartilhados.
+**Controle**  - você tem muito menos controle sobre sua reputação do remetente.\
+**Resolução**  de problemas - geralmente, pode ser mais difícil resolver um problema ao enviar de IPs compartilhados.
 
 >[!NOTE]
 >
