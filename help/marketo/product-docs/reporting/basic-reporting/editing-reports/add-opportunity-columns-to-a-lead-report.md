@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: Adicionar colunas de oportunidade a um relatório de oportunidade potencial - Documentos de marketing - Documentação do produto
 title: Adicionar colunas de oportunidade a um relatório de oportunidade potencial
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,8 @@ Para ver as estatísticas de oportunidades nos [relatórios de pessoa](http://do
    | Dias para fechar | Número médio de dias para fechar oportunidades. |
    | Dias em Vendas | Duração média do ciclo de vendas (Dias até a oportunidade + Dias para fechar). |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >
    >Saiba como [gerenciar o tamanho do seu relatório](configure-report-size.md).
