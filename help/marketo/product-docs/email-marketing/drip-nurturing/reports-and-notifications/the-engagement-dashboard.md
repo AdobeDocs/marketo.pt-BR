@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: O Painel de envolvimento - Documentos do marketing - Documentação do produto
 title: O Painel de envolvimento
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # O Painel Envolvimento {#the-engagement-dashboard}
 
-O Painel Envolvimento é a maneira mais fácil de ver o desempenho do conteúdo em seus [programas de envolvimento](http://docs.marketo.com/display/docs/drip+nurturing).
+O Painel Envolvimento é a maneira mais fácil de ver como o conteúdo em seu programa de envolvimento está se saindo.
 
 >[!NOTE]
 >
->A pontuação de envolvimento é calculada 72 horas após cada conversão. Saiba mais sobre a [pontuação de envolvimento](understanding-the-engagement-score.md).
+>A pontuação de envolvimento é calculada 72 horas após cada conversão. Saiba mais sobre a [pontuação de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Visualização do Painel Envolvimento {#view-the-engagement-dashboard}
 
-Selecione seu programa de envolvimento e clique em **Visualização > Painel**.
+Selecione seu programa de envolvimento e clique em **Visualização** > **Painel**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Consulte o [relatório de desempenho de fluxo de envolvimento](engagement-stream-performance-report.md) para obter estatísticas mais detalhadas.
+>Consulte o [relatório de desempenho de fluxo de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) para obter estatísticas mais detalhadas.
 
 ## Entenda o Widget de exaustão {#understand-the-exhaustion-widget}
 
@@ -47,9 +47,7 @@ Este widget ajuda você a antecipar quando os clientes em potencial terão esgot
 
 Mostra a pontuação de envolvimento média ao longo do tempo e o impacto das edições de conteúdo.
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >Este recurso está disponível como um complemento para clientes que utilizam o Explorador do Ciclo de Receita do Marketo. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
 
@@ -69,11 +67,8 @@ Para alterar a classificação, clique no ícone de engrenagem e selecione a ord
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-** Novo e  ** Oldestare com base na hora da última aprovação.
+__ Novo e  __ Oldestare com base na hora da última aprovação.
 
 >[!NOTE]
 >
->**Mergulho profundo**
->
->Saiba mais no mergulho profundo [Crie um Programa de envolvimento](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md).
-
+>Saiba mais no mergulho profundo [Crie um Programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md).
