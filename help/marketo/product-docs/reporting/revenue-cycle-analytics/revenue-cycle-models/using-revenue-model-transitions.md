@@ -3,9 +3,9 @@ unique-page-id: 4718672
 description: Usando Transições de Modelo de Receita - Documentos do Marketing - Documentação do Produto
 title: Usando Transições de Modelo de Receita
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -60,8 +60,6 @@ Ao criar o modelo e selecionar e organizar os estágios de inventário, é hora 
 
 Muito bem! As transições de modelo foram modificadas com êxito.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Aprovar/Cancelar aprovação de um modelo de receita](approve-unapprove-a-revenue-model.md)
