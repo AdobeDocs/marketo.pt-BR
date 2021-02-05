@@ -3,7 +3,7 @@ unique-page-id: 2359787
 description: Adicionar um fluxo - Documentos do marketing - Documentação do produto
 title: Adicionar um fluxo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -31,5 +31,6 @@ Os programas de envolvimento podem conter mais de um fluxo. Aqui está como adic
    >
    >Você pode adicionar até 25 fluxos por programa de envolvimento.
 
-   E... concluído!   ![](assets/image2014-9-15-16-3a56-3a27.png)
+   E... concluído!
 
+   ![](assets/image2014-9-15-16-3a56-3a27.png)
