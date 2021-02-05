@@ -3,9 +3,9 @@ unique-page-id: 2360028
 description: Clonar um relatório - Documentos do Marketing - Documentação do produto
 title: Clonar um relatório
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Crie um duplicado do seu relatório para personalizá-lo ainda mais sem alterar 
 
    É isso - você está pronto para start personalizando seu clone!
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
