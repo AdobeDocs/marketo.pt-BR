@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: Verificar a configuração de push - Documentos do Marketo - Documentação do produto
 title: Verificar configuração de push
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Verifique a configuração de push para garantir que tudo esteja sincronizado co
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)   Tudo pronto! Agora você pode start enviando notificações por push ![(sorriso)](assets/smile.svg)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Criar uma notificação por push](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
