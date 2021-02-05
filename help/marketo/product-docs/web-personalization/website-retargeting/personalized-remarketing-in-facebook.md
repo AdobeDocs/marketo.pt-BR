@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Comentários personalizados no Facebook - Documentos de marketing - Documentação do produto
 title: Comentários personalizados no Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -130,9 +130,7 @@ Para obter detalhes adicionais, consulte [a documentação do Facebook](https://
 
 1. Agora todos vocês estão configurados com uma campanha de remarketing personalizada no Facebook.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Redefinição de metas com dados de personalização da Web](retargeting-with-web-personalization-data.md)
 >* [Comentários personalizados no Google](personalized-remarketing-in-google.md)
