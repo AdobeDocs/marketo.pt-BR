@@ -3,7 +3,7 @@ unique-page-id: 2359890
 description: Noções básicas sobre a pontuação de envolvimento - Documentos de marketing - Documentação do produto
 title: Como entender a pontuação de envolvimento
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Como entender a pontuação de envolvimento {#understanding-the-engagement-score}
 
-A pontuação de envolvimento facilita a visualização da eficácia do conteúdo em seu programa de envolvimento. A pontuação varia de 0 a 100. Confira [o Painel Envolvimento](the-engagement-dashboard.md) para ver como você pode acompanhar o desempenho do seu conteúdo.
+A pontuação de envolvimento facilita a visualização da eficácia do conteúdo em seu programa de envolvimento. A pontuação varia de 0 a 100. Confira [o Painel Envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) para ver como você pode acompanhar o desempenho do seu conteúdo.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -33,9 +33,4 @@ As pontuações de envolvimento são universais para todos os clientes. Você po
 
 >[!MORELIKETHIS]
 >
->* [Noções básicas sobre Programas de envolvimento](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
-
->
-
-
-
+>[Noções básicas sobre Programas de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
