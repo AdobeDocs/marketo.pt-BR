@@ -3,7 +3,7 @@ unique-page-id: 10096409
 description: Evite enviar conteúdo do Duplicado - Documentos do Marketing - Documentação do produto
 title: Evitar o envio de conteúdo de Duplicado
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Uma pessoa recebe um email enviado pelo Mecanismo de envolvimento do cliente.
 | Uma campanha dentro de um programa padrão que é acionada a partir de um elenco dentro de um programa **diferente** CEE | Um membro do programa padrão | Não |
 | Uma campanha dentro de um programa padrão que é acionada a partir de um elenco dentro de um programa **diferente** CEE | Não é membro do programa padrão | Sim |
 | Um programa **diferente** CEE usando um fluxo inteligente | Um membro de ambos os programas CEE | Não |
-
