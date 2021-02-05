@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: Visão geral do Performance Insights - Documentos do Marketing - Documentação do produto
 title: Visão geral do Performance Insights
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 O Marketing Performance Insights ajuda você a otimizar sua combinação de canais para obter a máxima eficácia, bem como descobrir tendências de longo prazo para descobrir estratégias vencedoras consistentes.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Nem todos os clientes têm o recurso Performance Insights. Entre em contato com o Gerente de sucesso do cliente para obter mais informações.
 
