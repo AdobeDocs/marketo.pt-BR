@@ -3,9 +3,9 @@ unique-page-id: 37355534
 description: Notas de versão - janeiro de 2020 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - janeiro de 2020
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Os seguintes recursos estão incluídos na versão de 20 de janeiro. Verifique sua edição de marketing para ver a disponibilidade de recursos.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
