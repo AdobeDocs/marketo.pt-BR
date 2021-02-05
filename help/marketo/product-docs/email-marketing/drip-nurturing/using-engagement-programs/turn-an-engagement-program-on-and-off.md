@@ -3,7 +3,7 @@ unique-page-id: 2359856
 description: Ligar e desligar um Programa de envolvimento - Documentos do marketing - Documentação do produto
 title: Ligar e desativar um Programa de envolvimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -35,5 +35,4 @@ Você pode desativar um programa de envolvimento com o movimento de um interrupt
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
-   Aqui está! Você pode ligá-la novamente usando as mesmas etapas.
-
+Aqui está! Você pode ligá-la novamente usando as mesmas etapas.
