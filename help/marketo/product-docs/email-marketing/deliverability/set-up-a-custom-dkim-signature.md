@@ -3,9 +3,9 @@ unique-page-id: 2360219
 description: Configurar uma assinatura DKIM personalizada - Documentos do Marketing - Documentação do produto
 title: Configurar uma assinatura DKIM personalizada
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Você pode personalizar a assinatura DKIM para refletir os domínios de sua esco
 
    >[!NOTE]
    >
-   >
    >Se você configurar uma assinatura DKIM personalizada da maneira antiga, ela continuará funcionando e deverá aparecer aqui.
 
 1. Clique em **Email**, na guia **DKIM** e, por fim, **Adicionar domínio**.
@@ -37,7 +36,6 @@ Você pode personalizar a assinatura DKIM para refletir os domínios de sua esco
 1. Digite o domínio que você usará nos e-mails do Marketo como Endereço de origem e clique em **Adicionar**.
 
    >[!TIP]
-   >
    >
    >Se você usar um domínio diferente em seu Endereço de origem, usaremos a assinatura DKIM compartilhada do Marketo.
 
@@ -53,14 +51,10 @@ Você pode personalizar a assinatura DKIM para refletir os domínios de sua esco
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
    >Se a confirmação falhar e sua TI tiver criado o registro corretamente, isso pode ser uma questão de propagação DNS. Tente novamente mais tarde.
 
    >[!CAUTION]
    >
-   >
    >Modificar/remover o registro DNS correspondente resultará em danos na entrega. Certifique-se de excluir a entrada no Marketo antes de fazer alterações de DNS.
 
    Isso ajudará com a entrega por email. Você deve obter a validação de que o registro está lá e correto.
-
