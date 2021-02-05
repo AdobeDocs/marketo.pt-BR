@@ -3,9 +3,9 @@ unique-page-id: 10100649
 description: Configurar o plano de fundo das mensagens no aplicativo - Documentos do marketing - Documentação do produto
 title: Configurar o plano de fundo das mensagens no aplicativo
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,8 @@ Selecionar um plano de fundo de mensagem é uma etapa importante para finalizar 
 
    [configurar o botão Dismiss](set-up-the-dismiss-button-and-approve-the-message.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
