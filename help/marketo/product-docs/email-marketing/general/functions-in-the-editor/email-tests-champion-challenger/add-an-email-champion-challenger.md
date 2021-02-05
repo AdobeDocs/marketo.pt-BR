@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: Adicionar um campeão/desafio de email - Documentos do marketing - Documentação do produto
 title: Adicionar um campeão/desafiador de e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,8 @@ Aqui está como começar.
 
 1. Uma nova janela é aberta com diferentes opções de tipo de teste. Leia os artigos relacionados abaixo para saber mais sobre cada um.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
