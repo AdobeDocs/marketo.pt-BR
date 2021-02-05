@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: Adicionar colunas personalizadas a um relatório de pessoa - Documentos do marketing - Documentação do produto
 title: Adicionar colunas personalizadas a um relatório de pessoa
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,8 @@ Você pode filtrar ainda mais as métricas em seus [relatórios de pessoa](http:
 
    ![](assets/five-1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >
    >Você também pode [Adicionar colunas de oportunidade a um relatório de oportunidade potencial](add-opportunity-columns-to-a-lead-report.md).
