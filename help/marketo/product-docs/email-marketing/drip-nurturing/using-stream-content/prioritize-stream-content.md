@@ -3,7 +3,7 @@ unique-page-id: 2359834
 description: Priorizar conteúdo de fluxo - Documentos do marketing - Documentação do produto
 title: Priorizar conteúdo de fluxo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -32,4 +32,3 @@ Depois de adicionar conteúdo ao seu fluxo, você pode alterar a prioridade. O c
    >A prioridade sempre será lida de cima para baixo no momento do elenco.
 
    É tão fácil! Agora você sabe como priorizar seu conteúdo de fluxo.
-
