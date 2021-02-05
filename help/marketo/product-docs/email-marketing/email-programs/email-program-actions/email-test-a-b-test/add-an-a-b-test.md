@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: Adicionar um teste A/B - Documentos do Marketing - Documentação do produto
 title: Adicionar um teste A/B
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Testar é uma excelente maneira de otimizar seus e-mails para um melhor envolvim
    >
    >Se você tiver registros de duplicados em seu banco de dados, esses registros receberão **ambos** os emails de teste e vencedores. Para evitar que isso aconteça, certifique-se de [localizar e unir as pessoas do duplicado](http://docs.marketo.com/x/G4EI) no banco de dados.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar teste A/B de &quot;Linha de assunto&quot;](use-subject-line-a-b-testing.md)
 >* [Usar teste A/B &quot;Email completo&quot;](use-whole-email-a-b-testing.md)
