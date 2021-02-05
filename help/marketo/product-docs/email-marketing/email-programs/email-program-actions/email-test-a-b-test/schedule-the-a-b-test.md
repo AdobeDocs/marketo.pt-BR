@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Programe o teste A/B - Documentos do Marketing - Documentação do produto
 title: Programe o teste A/B
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,8 @@ Depois de adicionar um teste A/B a um programa de email e definir os critérios 
 
    Supondo que você já tenha definido sua audiência e selecionado um e-mail, a única etapa restante é aprovar o programa.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
