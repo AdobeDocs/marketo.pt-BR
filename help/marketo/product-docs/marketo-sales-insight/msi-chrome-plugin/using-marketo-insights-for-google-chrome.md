@@ -3,9 +3,9 @@ unique-page-id: 7512944
 description: Uso do Marketing Insights para o Google Chrome - Documentos do Marketing - Documentação do produto
 title: Uso do Marketing Insights para o Google Chrome
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,8 @@ Você pode registrar respostas e atividades antigas no histórico de atividades 
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
