@@ -3,9 +3,9 @@ unique-page-id: 2360405
 description: Criar um relatório de Análise de associação de Programa que o Lista lidera - Documentos do Marketing Cloud - Documentação do produto
 title: Criar um relatório de Análise de associação de Programa que o Lista lidera
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Siga estas etapas para criar um relatório de Análise de associação de Programa que mostrará todos os nomes dos membros do programa.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
