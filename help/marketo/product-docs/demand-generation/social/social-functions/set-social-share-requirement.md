@@ -3,7 +3,7 @@ unique-page-id: 2359821
 description: Definir requisito de compartilhamento em redes sociais - Documentos do Marketing - Documentação do produto
 title: Definir requisito de compartilhamento em redes sociais
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Definir requisito de compartilhamento em redes sociais {#set-social-share-requirement}
 
-Ao [criar uma oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), você pode exigir que as pessoas compartilhem a oferta para se inscreverem ou torná-la opcional.
+Ao [criar uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), você pode exigir que as pessoas compartilhem a oferta para se inscreverem ou torná-la opcional.
 
 1. Vá para **Atividades de marketing**.
 
@@ -31,10 +31,9 @@ Ao [criar uma oferta de referência](../../../../product-docs/demand-generation/
 
    ![](assets/four.png)
 
-   * **Captura de pessoa > Compartilhar**: A pessoa pode ignorar o compartilhamento e apenas se inscrever.
-   * **Compartilhar > Captura** de pessoa: A pessoa deve compartilhar para se inscrever.
+   * **Captura**  da pessoa >  **Compartilhar**: A pessoa pode ignorar o compartilhamento e apenas se inscrever.
+   * **Compartilhar** > Captura  **pessoal**: A pessoa deve compartilhar para se inscrever.
 
 1. Para cada opção, consulte a pré-visualização na janela **Visualização &amp; Editar**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
-
