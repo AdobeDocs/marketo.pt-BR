@@ -3,9 +3,9 @@ unique-page-id: 10097867
 description: Definir uma Lista inteligente para Atividades de personalização da Web - Documentos do Marketing - Documentação do produto
 title: Definir uma Lista inteligente para Atividades de personalização da Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,8 @@ Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pont
 
    [Definir Lista inteligente para Campanhas inteligentes | Lote](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
