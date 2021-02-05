@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: Alterar um período de relatório - Documentos do marketing - Documentação do produto
 title: Alterar um período de tempo de relatório
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ Altere o período coberto pelo relatório para focar em um horário específico 
    Clique na guia **Relatório** para ver seu relatório do período selecionado.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >
    >Para restringir seu relatório por atributos de pessoa específicos, você pode [Filtrar pessoas em um relatório com uma Lista inteligente](filter-people-in-a-report-with-a-smart-list.md).
