@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Noções básicas sobre os momentos de marketing - documentos do Marketo - documentação do produto
 title: Como entender os momentos de marketing
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 O poder do Marketo está agora em suas mãos, literalmente! Pré-visualização e reagende emails diretamente do seu telefone ou iPad.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >A permissão Acessar aplicativos móveis é necessária. Entre em contato com seu Administrador de marketing para [atualizar sua função](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
