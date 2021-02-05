@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: Criar uma apresentação - Documentos do Marketing - Documentação do produto
 title: Criar uma apresentação
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Crie uma apresentação para projetar as visualizações e metas do calendário da sua equipe em uma HDTV. Os Presentations são específicos da Workspace.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
