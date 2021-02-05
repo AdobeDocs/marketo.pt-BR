@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: Agendamento de um e-mail - Documentos do Marketing - Documentação do produto
 title: Agendamento de um email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,8 @@ Siga estas etapas fáceis para agendar um email.
    >
    >Os emails agendados podem ser exibidos/editados na seção de pastas agendadas do Centro de Comando.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >
    >[Visão geral do centro de comando](http://docs.marketo.com/x/kgDb)
