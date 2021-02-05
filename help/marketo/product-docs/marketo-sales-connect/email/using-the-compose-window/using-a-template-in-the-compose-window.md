@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: Uso de um modelo na janela Compor - Documentos do Marketing - Documentação do produto
 title: Uso de um modelo na janela Compor
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,8 @@ Categorias de modelo específicas favoritas **até cinco** para obter acesso rá
    >
    >**Por padrão,** favorita aqui. Ele contém modelos de e-mail favoritos, não categoria.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
