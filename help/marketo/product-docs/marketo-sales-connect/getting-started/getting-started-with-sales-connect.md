@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Introdução ao Sales Connect - Documentos do Marketing - Documentação do produto
 title: Introdução ao Sales Connect
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Se preferir observar essas etapas do que lê-las, pule para as [Instruções de vídeo abaixo](#video).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com o Gerente de sucesso do cliente para obter mais informações.
 
