@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: Notas de versão - Winter '18 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 18
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Estas melhorias serão implementadas em 2018.
 
 ## [Insights de Desempenho do Marketing](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >O Performance Insights é um produto complementar. Entre em contato com o Gerente de sucesso do cliente do Marketing to ou com o Executivo de conta para obter uma cotação.
 
