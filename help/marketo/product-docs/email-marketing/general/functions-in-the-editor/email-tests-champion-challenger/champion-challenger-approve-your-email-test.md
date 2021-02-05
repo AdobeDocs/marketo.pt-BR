@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Campeão/Desafiador - Aprovar seu teste de e-mail - Documentos do Marketing - Documentação do produto
 title: Campeão/Desafiador - Aprove seu teste de e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,8 @@ A etapa final para configurar seu teste de email para aprová-lo. Veja como.
 
    Não foi tão fácil? Depois de receber alguns relatórios, você vai querer declarar um campeão.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
