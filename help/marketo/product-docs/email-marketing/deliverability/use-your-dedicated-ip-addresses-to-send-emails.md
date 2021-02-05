@@ -3,9 +3,9 @@ unique-page-id: 1900587
 description: Use seus endereços IP dedicados para enviar emails - Documentos de marketing - Documentação do produto
 title: Use seus endereços IP dedicados para enviar emails
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 Enviar de um ou mais IP dedicados dá a você controle total sobre a reputação do seu envio.
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >Um IP dedicado é um produto complementar. Nem todos terão direito a adicionar um IP dedicado ao seu programa. Você precisaria enviar mais de 100.000 emails por mês e ter uma cadência de campanha estável para manter um IP dedicado. Entre em contato com seu CSM para obter mais informações sobre como adicionar um IP dedicado ao seu programa de marketing.
 >
->Se você enviar menos de 100.000 emails por mês e/ou tiver volumes de campanha variáveis e/ou for um remetente sazonal, não será possível manter um IP dedicado. O Marketo mantém um pool compartilhado de IP confiável separado para clientes que cumprem as práticas recomendadas rigorosas. Se estiver interessado, preencha [este questionário](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) para se aplicar ao Programa IP confiável do Marketo.
+>Se você enviar menos de 100.000 emails por mês e/ou tiver volumes de campanha variáveis e/ou for um remetente sazonal, não será possível manter um IP dedicado. O Marketo mantém um pool compartilhado de IP confiável separado para clientes que cumprem as práticas recomendadas rigorosas. Se estiver interessado, preencha [este questionário](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) para se aplicar ao Programa IP confiável do Marketo.
 
 Todos os start de contas do Marketing Cloud em um IP compartilhado, permitindo que você start imediatamente o correio. Se você adicionar um IP dedicado, trabalhará com consultores de entrega para agendar o provisionamento do IP.
 
@@ -40,9 +38,8 @@ Para maximizar a capacidade de entrega a longo prazo, os Consultores de entrega 
 
 >[!TIP]
 >
->Mantenha o banco de dados limpo para manter a capacidade de entrega alta. [O Adobe ](http://www.adobe.com/legal/terms/aup.html) exige que os clientes enviem somente comunicações de marketing para pessoas que opt in/solicitaram o recebimento de email. Não spam.
+>Mantenha o banco de dados limpo para manter a capacidade de entrega alta. [O Adobe ](https://www.adobe.com/legal/terms/aup.html) exige que os clientes enviem somente comunicações de marketing para pessoas que opt in/solicitaram o recebimento de email. Não spam.
 
 >[!CAUTION]
 >
->Se você encontrar um número alto de rejeições, ou qualquer outro problema, entre em contato com [Suporte ao Marketing](http://nation.marketo.com/t5/Support/ct-p/Support). Se você quiser suporte mais focado para saber como manter um banco de dados limpo e aumentar o envolvimento com seu programa, os consultores de entrega de email do Marketo podem ser envolvidos em um pacote de Serviços personalizados.
-
+>Se você encontrar um número alto de rejeições, ou qualquer outro problema, entre em contato com [Suporte ao Marketing](https://nation.marketo.com/t5/Support/ct-p/Support). Se você quiser suporte mais focado para saber como manter um banco de dados limpo e aumentar o envolvimento com seu programa, os consultores de entrega de email do Marketo podem ser envolvidos em um pacote de Serviços personalizados.
