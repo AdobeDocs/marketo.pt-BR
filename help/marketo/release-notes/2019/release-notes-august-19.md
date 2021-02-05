@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: Notas de versão - 19 de agosto - Documentos do Marketing - Documentação do produto
 title: Notas de versão - agosto de 2019
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Os seguintes elementos encontram-se num ciclo não trimestral e serão divulgado
 * **Onboard: a apresentação** passo a passo facilita e torna mais eficiente a integração, guiando novos usuários pela configuração da instância.
 * **Aprimoramento do layout da página de pessoas:** gerencie suas pessoas e grupos por meio de importações de listas e ações em massa no novo layout de página de pessoas.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante de marketing para saber mais.
 
