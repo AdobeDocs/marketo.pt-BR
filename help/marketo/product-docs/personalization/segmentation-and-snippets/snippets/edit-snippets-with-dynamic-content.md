@@ -3,9 +3,9 @@ unique-page-id: 2359466
 description: Editar trechos com conteúdo dinâmico - Documentos do Marketing - Documentação do produto
 title: Editar trechos com conteúdo dinâmico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ Use a segmentação em Snippets para gerenciar facilmente o conteúdo dinâmico 
 
 Isso não foi simples? Agora, todos estão prontos para usar esses trechos em Emails e Landings page.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Adicionar um trecho a um email](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [Adicionar um trecho a uma Landing page](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
