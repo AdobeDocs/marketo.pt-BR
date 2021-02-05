@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: Start principal para Programas de e-mail - Documentos do Marketing - Documentação do produto
 title: Start principal para Programas de e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Isso significa que se você estiver na América/Los Angeles e quiser ativar o fu
 
 [Saiba ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) mais sobre como agendar programas de e-mail com fuso horário do Recipient.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Agendar seu Programa de email](schedule-your-email-program.md)
 >* [Agendar Programas de e-mail com fuso horário do Recipient](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
