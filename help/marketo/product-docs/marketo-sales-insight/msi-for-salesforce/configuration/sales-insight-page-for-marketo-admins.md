@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Página de insight de vendas para administradores de marketing - Documentos de marketing - Documentação do produto
 title: Página de insight de vendas para administradores de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,8 @@ Por padrão, o Marketing Cloud Sales Insight usa o campo Pontuação principal p
    >
    >Se você ainda não tiver seus campos de pontuação personalizados, veja como [criá-los](http://docs.marketo.com/x/3wMk).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >
    >[Estrelas e chamas](http://docs.marketo.com/x/qgU6Ag)
