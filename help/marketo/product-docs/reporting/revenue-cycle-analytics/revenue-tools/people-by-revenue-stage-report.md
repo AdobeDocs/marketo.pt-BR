@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: Relatório de Pessoas por estágio de receita - Documentos do marketing - Documentação do produto
 title: Relatório de Pessoas por Estágio de Receita
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Você pode criar um relatório mostrando em qual estágio do seu [Modelo de ciclo de receita](http://docs.marketo.com/display/docs/revenue+cycle+models) seu pessoal está. O relatório inclui qualquer estágio do modelo especificado, desde que exista um equilíbrio de pessoas para o intervalo de datas especificado do relatório.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Nem todas as edições do Marketo incluem essa funcionalidade. Entre em contato com seu Gerente de conta para obter mais detalhes.
 
