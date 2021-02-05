@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: Uso de ações em massa no Salesforce Classic - documentos do Marketo - Documentação do produto
 title: Uso de ações em massa no Salesforce Classic
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ Saiba como executar ações em massa, como adicionar clientes potenciais a uma c
 >
 >Você também pode seguir as mesmas etapas para usar ações em massa na Visualização de Lista de contato.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Envio de emails por email do grupo](http://docs.marketo.com/x/KAQ6Ag)
 >* [Composição de emails em massa com Selecionar e Enviar](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
