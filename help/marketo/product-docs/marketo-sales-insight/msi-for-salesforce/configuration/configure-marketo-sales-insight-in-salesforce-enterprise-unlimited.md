@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Configuração do Marketing to Sales Insight no Salesforce Enterprise/Unlimited - Documentos do Marketing - Documentação do produto
 title: Configurar o Marketing to Sales Insight no Salesforce Enterprise/Unlimited
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -300,9 +300,7 @@ E é isso! Você deve ser capaz de ver os campos do Marketing to Sales Insight p
 
    ![](assets/access-msi.png)
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Prioridade, urgência, pontuação relativa e melhores propostas](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [Adicionar a guia de insight de vendas e botões do Marketing Cloud ao Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
