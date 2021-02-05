@@ -3,7 +3,7 @@ unique-page-id: 2359813
 description: Configurar avisos após o compartilhamento - Documentos de marketing - Documentação do produto
 title: Configurar avisos após compartilhamento
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Em aplicativos de botão social, compartilhamento de vídeo e pesquisa, você po
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. No editor de aplicativos sociais, vá para **Configurações do aplicativo******* e **Opções avançadas**.
+1. No editor de aplicativos sociais, vá para **Configurações do aplicativo** e **Opções avançadas**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -57,4 +57,3 @@ Em aplicativos de botão social, compartilhamento de vídeo e pesquisa, você po
 1. Edite a solicitação de endereço de email e o prompt de marketing (se você o incluiu).
 
    ![](assets/image2015-4-21-12-3a52-3a49.png)
-
