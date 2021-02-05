@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Personalizar estrelas e chamas - Documentos de marketing - Documentação do produto
 title: Personalizar estrelas e chamas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 O Marketing Sales Insight usa estrelas e chamas para priorizar clientes potenciais. O Marketo decide automaticamente quem recebe 1-2-3 estrelas/chamas. Entretanto, é possível modificar a fórmula. Veja como:
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
