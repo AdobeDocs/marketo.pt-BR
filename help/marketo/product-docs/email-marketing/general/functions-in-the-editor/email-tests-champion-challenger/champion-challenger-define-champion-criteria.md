@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: Campeão/Desafiador - Definir critérios de campeão - Documentos do marketing - Documentação do produto
 title: Campeão/Desafiador - Definir Critérios de Campeão
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ Depois de configurar seu tipo de teste, é necessário definir o critério de ca
 
    Ótimo! Agora é hora de agendar o relatório.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
