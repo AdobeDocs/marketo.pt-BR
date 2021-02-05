@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Ativar a barra de recomendação de conteúdo - Documentos de marketing - Documentação do produto
 title: Ativar a barra de recomendação de conteúdo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,6 @@ O mecanismo de recomendação de conteúdo usa análises preditivas e algoritmos
 * Quanto mais conteúdo for executado no mecanismo de recomendação, melhor será para o algoritmo testar e saber qual conteúdo funciona melhor. Recomendamos começar com 10 a 20 itens de conteúdo em execução e ativos e continuar adicionando novos.
 * O conteúdo que você habilita para a recomendação deve incluir a tag RTP Javascript. Isso ajuda o algoritmo a rastrear e otimizar o conteúdo recomendado.
 
->[!NOTE]
-**Artigos relacionados**
+>[!MORELIKETHIS]
 * [Ativar conteúdo preditivo para mídias avançadas da Web](enable-predictive-content-for-web-rich-media.md)
 
