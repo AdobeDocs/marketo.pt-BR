@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: Champion/Challenger - Linha de assunto - Documentos do marketing - Documentação do produto
 title: Campeão/Desafiador - Linha de assunto
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ ht-degree: 0%
 
    Progresso! Vamos continuar com isso.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >
    >[Campeão/Desafiador: Definir critérios de campeão](champion-challenger-define-champion-criteria.md)
