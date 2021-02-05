@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: Noções básicas sobre Programas de envolvimento - Documentos de marketing - Documentação do produto
 title: Noções básicas sobre Programas de envolvimento
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Os programas de envolvimento são projetados para comercializar novas pessoas, a
 
 ## Programa de envolvimento {#engagement-program}
 
-Um **envolvimento pr***ograma** é um tipo de programa que pode realizar nutrição complexa com facilidade.
+Um **programa de envolvimento** é um tipo de programa que pode realizar nutrição complexa com facilidade.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
-Artigo relacionado:
-
-* [Criar um Programa de envolvimento](create-an-engagement-program.md)
+>[!MORELIKETHIS]
+>
+>[Criar um Programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
 ## Fluxo {#stream}
 
@@ -35,10 +35,11 @@ Um **stream** é um pool de conteúdo priorizado que o programa de envolvimento 
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
-Artigos relacionados:
+>[!MORELIKETHIS]
+>
+>* [Adicionar um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+>* [Clonar um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
-* [Adicionar um fluxo](add-a-stream.md)
-* [Clonar um fluxo](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
 ## Conteúdo {#content}
 
@@ -46,13 +47,14 @@ Há dois tipos de **content** que você pode adicionar aos fluxos de programas d
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
-Artigos relacionados:
+>[!MORELIKETHIS]
+>
+>* [Adicionar conteúdo a um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Priorizar conteúdo de fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [Editar disponibilidade de conteúdo de fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
+>* [Remover conteúdo de fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+>* [Arquivar e desarquivar conteúdo de fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-* [Adicionar conteúdo a um fluxo](add-content-to-a-stream.md)
-* [Priorizar conteúdo de fluxo](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
-* [Editar disponibilidade de conteúdo de fluxo](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
-* [Remover conteúdo de fluxo](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
-* [Arquivar e desarquivar conteúdo de fluxo](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 ## Converter {#cast}
 
@@ -66,21 +68,17 @@ Um **cast** é a evento de enviar emails de um Programa de Envolvimento.
 
 Você decide quando um elenco acontece configurando **cadência de fluxo**. É assim que você agenda o conteúdo para sair em intervalos regulares.
 
-&#39; ![](assets/image2014-9-15-15-3a25-3a27.png)
+![](assets/image2014-9-15-15-3a25-3a27.png)
 
-`
-
-Artigo relacionado:
-
-* [Definir cadência de fluxo](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>[!MORELIKETHIS]
+>
+>[Definir cadência de fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
 ## Cadência da pessoa {#person-cadence}
 
 Uma **cadência de pessoa** é um status que define sua capacidade de receber conteúdo de um programa de envolvimento. Você pode usar a etapa de fluxo **Alterar cadência do Programa de envolvimento** para alterar isso para Pausado ou Normal.
 
-&#39; ![](assets/image2014-9-15-15-3a25-3a55.png)
-
-`
+![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## Esgotado {#exhausted}
 
@@ -90,11 +88,7 @@ Depois que uma pessoa recebe cada pedaço de conteúdo em um fluxo, chamamos a p
 
 >[!MORELIKETHIS]
 >
->* [Pessoas que têm conteúdo esgotado](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
-
->
-
-
+>[Pessoas que têm conteúdo esgotado](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
 ## Nível de envolvimento de conteúdo {#content-engagement-level}
 
@@ -102,9 +96,4 @@ O Nível de envolvimento do conteúdo é uma pontuação de 0 a 100 pontos que o
 
 >[!MORELIKETHIS]
 >
->* [Como entender a pontuação de envolvimento](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
-
->
-
-
-
+>[Como entender a pontuação de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
