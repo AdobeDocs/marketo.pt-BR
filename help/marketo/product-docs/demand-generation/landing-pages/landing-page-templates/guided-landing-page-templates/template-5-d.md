@@ -3,9 +3,9 @@ unique-page-id: 8783923
 description: Modelo 5-D - Documentos do Marketing - Documentação do produto
 title: Modelo 5-D
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 5-D {#template-d}
 
-Clique com o botão direito do mouse em [Baixar modelo 5-D](http://docs.marketo.com/download/attachments/8783923/template-5d.html?version=1&amp;modificationdate=1437693023000&amp;api=v2)
+[Modelo de download 5-D](https://docs.marketo.com/download/attachments/8783923/template-5d.html?version=1&amp;modificationdate=1437693023000&amp;api=v2)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
@@ -27,6 +27,6 @@ Este modelo inclui o seguinte conteúdo:
 * Cinco seções do corpo (opcional)
 * Rodapé (opcional)
 
-Clique com o botão direito do mouse abaixo para baixar este modelo:
+**Clique abaixo para baixar este modelo:**
 
-[Template5-D.html](http://docs.marketo.com/download/attachments/8783923/template-5d.html?version=1&amp;modificationdate=1437693023000&amp;api=v2)
+[Template5-D.html](https://docs.marketo.com/download/attachments/8783923/template-5d.html?version=1&amp;modificationdate=1437693023000&amp;api=v2)
