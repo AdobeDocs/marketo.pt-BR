@@ -3,7 +3,7 @@ unique-page-id: 2359669
 description: Ativar e desativar o conteúdo de fluxo - Documentos de marketing - Documentação do produto
 title: Ativar e desativar conteúdo de fluxo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Por padrão, o conteúdo de fluxo está OFF. Ative o conteúdo para enviá-los d
 
    >[!TIP]
    >
-   >Você também pode ativar todo o conteúdo em um fluxo clicando no ícone de engrenagem no nível superior e, em seguida, clicando em **Ativar todo o conteúdo.**
+   >Você também pode ativar todo o conteúdo em um fluxo clicando no ícone de engrenagem no nível superior e, em seguida, clicando em **Ativar todo o conteúdo**.
 
    Bom trabalho! Agora você sabe como ativar o conteúdo em seus fluxos.
 
@@ -45,7 +45,6 @@ Por padrão, o conteúdo de fluxo está OFF. Ative o conteúdo para enviá-los d
 
    ![](assets/cloneasteam.jpg)
 
-1. Passe o cursor do mouse sobre o conteúdo que deseja desativar, clique no ícone de engrenagem e clique em **Desativar.**
+1. Passe o mouse sobre o conteúdo que deseja desativar, clique no ícone de engrenagem e, em seguida, clique em **Desativar**.
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)
-
