@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Envio de um email rastreado - Documentos do Marketing - Documentação do produto
 title: Envio de um email rastreado
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ Ao enviar um email com o Marketing Connect Sales, as visualizações (e-mail abe
 
    ![](assets/five.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
