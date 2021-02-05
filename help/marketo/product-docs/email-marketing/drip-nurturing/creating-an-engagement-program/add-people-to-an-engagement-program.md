@@ -3,7 +3,7 @@ unique-page-id: 2359782
 description: Adicionar pessoas a um Programa de envolvimento - Documentos do marketing - Documentação do produto
 title: Adicionar pessoas a um Programa de envolvimento
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -15,11 +15,10 @@ ht-degree: 0%
 
 Há várias maneiras de as pessoas se tornarem membros de um programa de envolvimento:
 
-* [Adicionar ao Programa de envolvimento](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [Alterar etapa de Fluxo de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) cadenciado do Programa de envolvimento
-* [Alterar etapa de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) fluxo contínuo do Programa de envolvimento
-* [Alterar etapa de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) fluxo de status do Programa
+* [Adicionar ao Programa de envolvimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
+* [Alterar etapa de Fluxo de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) cadenciado do Programa de envolvimento
+* [Alterar etapa de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) fluxo contínuo do Programa de envolvimento
+* [Alterar etapa de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) fluxo de status do Programa
 * Se uma pessoa preencher um formulário local para um programa de envolvimento
 * Importação de membros para um programa de envolvimento (por meio da guia Membros dentro do programa)
 * Se você estiver usando o Salesforce como seu CRM e tiver uma campanha do Salesforce vinculada ao seu programa de envolvimento, adicionar alguém à campanha do Salesforce no CRM também os tornará um membro do programa de envolvimento.
-
