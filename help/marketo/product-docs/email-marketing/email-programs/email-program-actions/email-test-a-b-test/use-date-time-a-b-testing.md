@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: Usar teste A/B "Data/Hora" - Documentos do Marketing - Documentação do produto
 title: Usar teste A/B "Data/hora"
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ Você pode testar facilmente seus e-mails A/B. Um teste é o **teste de data/hor
 
    [definir os critérios do vencedor do teste A/B](define-the-a-b-test-winner-criteria.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
