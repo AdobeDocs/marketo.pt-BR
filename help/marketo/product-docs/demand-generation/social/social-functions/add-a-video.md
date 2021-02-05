@@ -3,9 +3,9 @@ unique-page-id: 2359761
 description: Adicionar um vídeo - Documentos do Marketing - Documentação do produto
 title: Adicionar um vídeo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Coloque vídeos com opções de compartilhamento em redes sociais em suas landings page.
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
@@ -25,7 +23,7 @@ Coloque vídeos com opções de compartilhamento em redes sociais em suas landin
 
    ![](assets/image2014-9-23-16-3a49-3a49.png)
 
-1. Arraste sobre **Vídeo **dos elementos à direita.** **
+1. Arraste **Video** dos elementos à direita.
 
    ![](assets/image2014-9-23-16-3a51-3a0.png)
 
@@ -35,9 +33,9 @@ Coloque vídeos com opções de compartilhamento em redes sociais em suas landin
 
    >[!NOTE]
    >
-   >Você também pode criar um compartilhamento de vídeo *dentro de um programa* selecionando **Novo** > **Novo ativo local.** Você pode selecioná-lo na lista suspensa, como mostrado aqui.
+   >Você também pode criar um compartilhamento de vídeo _dentro de um programa_ selecionando **Novo** > **Novo ativo local**. Você pode selecioná-lo na lista suspensa, como mostrado aqui.
 
-1. Insira o URL do vídeo do YouTube e nomeie seu compartilhamento de vídeo. Na opção **Clonar de** selecione **Nenhum** e clique em **Inserir.**
+1. Insira o URL do vídeo do YouTube e nomeie seu compartilhamento de vídeo. Na opção **Clonar de** selecione **Nenhum** e clique em **Inserir**.
 
    ![](assets/image2014-9-23-16-3a51-3a32.png)
 
@@ -45,9 +43,8 @@ Coloque vídeos com opções de compartilhamento em redes sociais em suas landin
 >
 >Para economizar tempo, você pode usar a opção **Clonar de** para copiar todas as configurações de um compartilhamento de vídeo existente.
 
-Parabéns! Você adicionou um compartilhamento de vídeo à sua landing page. Aprove a landing page e seu compartilhamento de vídeo esteja ao vivo. Você também pode [publicar a landing page no Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [colocar o compartilhamento de vídeo em seu site](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
+Parabéns! Você adicionou um compartilhamento de vídeo à sua landing page. Aprove a landing page e seu compartilhamento de vídeo esteja ao vivo. Você também pode [publicar a landing page no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [colocar o compartilhamento de vídeo em seu site](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
 
 >[!MORELIKETHIS]
 >
->Você terminou, mas pode alterar as configurações do compartilhamento de vídeo, se necessário. Start com [personalizando o fluxo de compartilhamento](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quando e onde o prompt de compartilhamento é aberto).
-
+>Você terminou, mas pode alterar as configurações do compartilhamento de vídeo, se necessário. Start com [personalizando o fluxo de compartilhamento](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quando e onde o prompt de compartilhamento é aberto).
