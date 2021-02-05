@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: Campeão/Desafiador - Configurar Alertas de Relatório - Documentos do Marketing - Documentação do Produto
 title: Campeão/Desafiador - Configurar Alertas de Relatório
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,8 @@ Marketo enviará relatórios sobre como o teste de email está indo. Veja como a
 
    O relatório incluirá detalhes úteis, como: tipo de teste, critérios do vencedor, número de e-mails abertos e muito mais. Também haverá um link direto para o teste em si, permitindo que você declare o vencedor! Coisa legal.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
