@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Compare a eficácia do Canal com o analisador de Programas - Documentos de marketing - Documentação do produto
 title: Compare a eficácia do Canal com o analisador de Programas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ Em nosso exemplo, vemos que o canal de apresentação comercial é o mais caro (
 >
 >Os exemplos nessas etapas avaliam a eficácia com base no pipeline criado. Use o menu suspenso Eixo Y para selecionar outras maneiras de medir a eficácia do canal, como Novos nomes, Membros, Custo por sucesso etc.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explore os detalhes do Programa e Canal com o Analisador de Programas](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Compare a eficácia do Programa com o analisador de Programas](compare-program-effectiveness-with-the-program-analyzer.md)
