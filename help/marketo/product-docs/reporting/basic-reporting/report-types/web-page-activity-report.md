@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: Relatório de Atividade da página da Web - Documentos do Marketing - Documentação do produto
 title: Relatório de Atividade da página da Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,8 @@ Você pode optar por exibir pessoas conhecidas ou pessoas anônimas, mas não os
 >
 >Aprecie seus representantes de vendas! [Filtre o ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)relatório para o seu território e  [assine-o](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artigos relacionados**
 >
 >* [Páginas da Web Visualizadas, Relatório de Atividade de Página da Web](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [Exibir pessoas ou Visitantes anônimos em relatórios da Web](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
