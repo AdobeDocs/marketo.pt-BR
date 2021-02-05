@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: Adicionar conteúdo a um fluxo - Documentos de marketing - Documentação do produto
 title: Adicionar conteúdo a um fluxo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,6 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
    >A campanha inteligente deve ter o filtro **Membro do Programa de envolvimento** nele para que isso funcione corretamente.
 
 **Fluxo + Ícone**
@@ -118,9 +115,4 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
 >[!MORELIKETHIS]
 >
->* [Adicionando um Programa a um fluxo de Programa de envolvimento](adding-a-program-to-an-engagement-program-stream.md)
-
->
-
-
-
+>[Adicionando um Programa a um fluxo de Programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
