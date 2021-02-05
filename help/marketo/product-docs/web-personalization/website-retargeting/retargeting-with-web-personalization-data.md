@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Redefinição de metas com dados de personalização da Web - Documentos de marketing - Documentação do produto
 title: Redefinição de metas com dados de personalização da Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Redefinição de metas com dados de personalização da Web {#retargeting-with-web-personalization-data}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >A redefinição de metas do site agora se enquadra no bloco Personalização da Web. Se você só comprou o Redirecionamento, verá este bloco e acessa o produto de Personalização da Web com **only** Recursos de redirecionamento ativados. Isso fornece acesso às configurações da conta, à página de redefinição de metas, aos segmentos e às páginas de rastreamento adicionais.
 
