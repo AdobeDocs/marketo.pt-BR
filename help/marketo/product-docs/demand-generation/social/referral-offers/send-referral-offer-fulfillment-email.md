@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: Enviar Email de Preenchimento da Oferta de Referência - Documentos do Marketing - Documentação do Produto
 title: Enviar Email de Preenchimento da Oferta de Referência
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Recompense seus clientes com cupons e códigos de desconto usando o email de pre
 
 >[!PREREQUISITES]
 >
->* [Usar emails em promoções sociais](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [Criar uma Oferta de referência](create-a-referral-offer.md)
-
->
-
+>* [Usar emails em promoções sociais](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [Criar uma Oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 
 ## Configurar Delivery de disponibilização {#set-up-fulfillment-delivery}
@@ -30,11 +27,9 @@ Recompense seus clientes com cupons e códigos de desconto usando o email de pre
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. Em **Configurações do aplicativo**, selecione **Detalhes da Oferta.**
+1. Em **Configurações do aplicativo**, selecione **Detalhes da Oferta**.
 
-   ** ![](assets/image2015-4-23-12-3a53-3a16.png)
-
-   **
+   ![](assets/image2015-4-23-12-3a53-3a16.png)
 
 1. Selecione um **Email de Inscrição**.
 
@@ -46,10 +41,7 @@ Recompense seus clientes com cupons e códigos de desconto usando o email de pre
 
    >[!NOTE]
    >
-   >**Mergulho profundo**
-   >
-   >
-   >Saiba mais sobre [como usar emails em promoções sociais](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Saiba mais sobre [como usar emails em promoções sociais](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
 1. Clique no menu suspenso **Delivery de disponibilização** e selecione **auto no objetivo**.
 
@@ -65,7 +57,7 @@ Você pode enviar um e-mail de cumprimento manualmente para uma pessoa depois qu
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. Clique na opção **Filtrar por **e selecione **Meta**.
+1. Clique na opção **Filtrar por** e selecione **Meta**.
 
    >[!NOTE]
    >
