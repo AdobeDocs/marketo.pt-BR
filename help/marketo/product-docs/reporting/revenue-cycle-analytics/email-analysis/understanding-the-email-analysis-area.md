@@ -3,9 +3,9 @@ unique-page-id: 4718651
 description: Entendendo a área de Análise de email - Documentos do Marketing - Documentação do produto
 title: Como entender a área de Análise do email
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 A Área de Análise de email foca em métricas de email. Este artigo apresenta todos os relatórios disponíveis nele.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Isso está disponível para usuários com o complemento Select Edition ou [Análise do ciclo de receita](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Entre em contato com seu representante de vendas para obter detalhes.
 
