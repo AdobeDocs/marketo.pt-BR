@@ -3,9 +3,9 @@ unique-page-id: 37357276
 description: Notas de versão - 20 de junho de 2010 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - junho de 2020
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '1091'
+source-wordcount: '1090'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Os seguintes recursos foram incluídos na versão de 20 de junho. Verifique sua edição de marketing para ver a disponibilidade de recursos.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) podem ser complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
@@ -61,10 +60,10 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 **
 
 * **Integração** de Programas Marketo Engage: Puxe os dados do programa para criar pontos de contato ao longo da jornada de atribuição no Bizible para creditar apropriadamente e-mails e programas de envolvimento. Aprimoramento da nossa integração com o Marketo Engage.
-* **Integração`<sup>BETA</sup>`** do Marketo Engage Atividade: Traga os dados da atividade diretamente para a Bizíblia para criar pontos de contato durante a jornada do cliente e todos os modelos de atribuição. Os exemplos incluem alterações na pontuação de cliente potencial, momentos interessantes, clique por email ou qualquer atividade personalizada. Aprimoramento da nossa integração com o Marketo Engage.
+* **Integração`<sup>BETA</sup>`** do Marketo Engage Atividade: Inclua os dados da atividade diretamente na Bizíblia para criar pontos de contato na jornada do cliente e em todos os modelos de atribuição. Os exemplos incluem alterações na pontuação de cliente potencial, momentos interessantes, clique por email ou qualquer atividade personalizada. Aprimoramento da nossa integração com o Marketo Engage.
 * **Integração`<sup>BETA</sup>`** de atributos do cliente B2B Bizível: Esta é uma integração da Adobe Experience Cloud com a Adobe Analytics que permite trazer dados Bizible selecionados diretamente para a Adobe Analytics para uma análise mais profunda. Os exemplos incluem tráfego de site baseado em conta e análise de conteúdo por nome de empresa, atributos de conta, oportunidades de CRM e indivíduos de alto valor, conforme definido pela receita atribuída à Bizible e estágio de funil.
 * **Aprimoramentos e Filtros Bizible Discover:** analise seus dados com filtros de canal, subcanal, campanha e segmento em painéis. Fortaleça a visibilidade dos dados com mais atributos detalhados. Este é um aprimoramento para nossos Discover Boards.
-* **Atividade Sync para Microsoft Dynamics**: Atribua interações de vendas trazendo atividades do Microsoft Dynamics CRM para a jornada do ponto de contato e rastreie eventos como chamadas, compromissos ou tarefas associados a seus clientes potenciais ou contatos. Aprimoramento da integração do Microsoft Dynamics CRM.
+* **Atividade Sync para Microsoft Dynamics**: Atribua interações de vendas trazendo atividades do Microsoft Dynamics CRM para a jornada de ponto de contato e rastreie eventos como chamadas, compromissos ou tarefas associados a seus clientes potenciais ou contatos. Aprimoramento da integração do Microsoft Dynamics CRM.
 
 **Sales Insight ![(star)](assets/star-yellow.svg)
 
