@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: Adicionar um aplicativo móvel - Documentos do marketing - Documentação do produto
 title: Adicionar um aplicativo móvel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,8 @@ Envie notificações por push para a sua base de clientes ao conectar seu aplica
 
 Os aplicativos normalmente são start em um ambiente sandbox, onde o desenvolvimento e os testes iniciais são executados. Os desenvolvedores usam um ambiente de produção para criar o aplicativo final que será usado pelos clientes. Você deve selecionar o certificado de notificação apropriado ao adicionar um aplicativo móvel (consulte a etapa 4 abaixo).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
