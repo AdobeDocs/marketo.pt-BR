@@ -3,9 +3,9 @@ unique-page-id: 2359987
 description: Inscrever-se em um relatório básico - Documentos do Marketing - Documentação do produto
 title: Inscrever-se em um relatório básico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,8 @@ Para receber atualizações automáticas de um [relatório básico](http://docs.
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >
    >Saiba como [gerenciar todas as subscrições de relatório](manage-report-subscriptions.md) em um único lugar.
