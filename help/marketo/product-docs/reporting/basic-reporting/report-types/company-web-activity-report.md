@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Relatório de Atividade da Web de empresa - Documentos do Marketing - Documentação do produto
 title: Relatório de Atividade da Web de empresa
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Crie um [relatório de Atividade de página da Web](web-page-activity-report.md)
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Exibir pessoas ou Visitantes anônimos em relatórios da Web](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
