@@ -3,9 +3,9 @@ unique-page-id: 3571735
 description: Instalar e configurar o Marketingto Sales Insight no Microsoft Dynamics 2011 - Documentos do Marketing - Documentação do produto
 title: Instalar e configurar o Marketingto Sales Insight no Microsoft Dynamics 2011
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -158,9 +158,7 @@ Configure funções de usuário para conceder acesso a usuários específicos ao
 
    Parabéns. Você agora liberou o poder do Marketing Sales Insight.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >[Configuração de estrelas e chamas para registros de cliente potencial/contato](http://docs.marketo.com/x/BICMAg)
 
