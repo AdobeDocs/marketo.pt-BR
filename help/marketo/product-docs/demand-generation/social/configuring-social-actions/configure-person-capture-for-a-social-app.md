@@ -3,7 +3,7 @@ unique-page-id: 2950547
 description: Configurar a captura de pessoa para um aplicativo social - Documentos do Marketing - Documentação do produto
 title: Configurar captura de pessoa para um aplicativo social
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurar captura de pessoa para um aplicativo social {#configure-person-capture-for-a-social-app}
 
-Ao criar uma [oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sorteios](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode configurar quais informações solicita e quais informações são necessárias para que as pessoas possam participar.
+Ao criar uma [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode configurar quais informações solicita e quais informações são necessárias para que as pessoas possam participar.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Ao criar uma [oferta de referência](../../../../product-docs/demand-generation/
 
    ![](assets/ma-2.png)
 
-1. Selecione o aplicativo e clique em **Editar rascunho.**
+1. Selecione o aplicativo e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. No editor de aplicativos sociais, vá para **Fluxo de inscrição** > **Captura de pessoa.**
+1. No editor de aplicativos sociais, vá para **Fluxo de inscrição** > **Captura de pessoa**.
 
    ![](assets/three-1.png)
 
@@ -42,7 +42,7 @@ Ao criar uma [oferta de referência](../../../../product-docs/demand-generation/
 
    >[!NOTE]
    >
-   >De qualquer forma, os participantes ainda receberão [*operacionais* e-mails](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) da sua oferta.
+   >De qualquer forma, os participantes ainda receberão [_operacionais_ e-mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) da sua oferta.
 
 1. Na janela Visualização e edição, clique em **Mostrar edições** e edite as mensagens no prompt de compartilhamento.
 
@@ -50,5 +50,4 @@ Ao criar uma [oferta de referência](../../../../product-docs/demand-generation/
 
 >[!MORELIKETHIS]
 >
->Agora você pode [configurar o fluxo de inscrição social](configure-social-sign-up-share-flow.md) e editar as mensagens de compartilhamento que serão publicadas em cada rede social.
-
+>Agora você pode [configurar o fluxo de inscrição social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) e editar as mensagens de compartilhamento que serão publicadas em cada rede social.
