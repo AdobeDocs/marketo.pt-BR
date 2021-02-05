@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: Definir uma Audiência com uma Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Definir uma Audiência com uma Lista inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Clique no número para obter uma lista detalhada de pessoas bloqueadas de corres
 >
 >Use o botão ![—](assets/image2014-10-23-16-3a32-3a36.png) no bloco Audiência para ver quantas pessoas receberão o email.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Escolher um email existente](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [Criar um email para um Programa de email](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
