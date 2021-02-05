@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Enviar por email o Power Pack - Como importar uma lista de sementes - Documentos do marketing - Documentação do produto
 title: Enviar por email o Power Pack - Como importar uma lista de sementes
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Uma lista semente é uma lista de contas de email em vários provedores de caixa de correio, incluindo aplicativos do Google, Hotmail, Yahoo! etc., que são usadas para aproximar a taxa de entrega da pasta de entrada contra spam. Veja como inserir essa lista na sua instância do Marketo.
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
@@ -41,9 +39,9 @@ Uma lista semente é uma lista de contas de email em vários provedores de caixa
 
    >[!NOTE]
    >
-   >Escolha **Otimizar Lista** se quiser que 250ok [otimize sua lista](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) para você. Escolha** Personalize a Lista** se quiser selecionar as regiões da lista de sedes que deseja incluir.
+   >Escolha **Otimizar Lista** se quiser que 250ok [otimize sua lista](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) para você. Escolha **Personalizar Lista** se quiser selecionar as regiões da lista de sedes que deseja incluir.
 
-1. Após a exportação, a lista será exibida como um arquivo .txt na pasta de downloads do seu navegador. Recupere-o e [importe](../../../getting-started/quick-wins/import-a-list-of-people.md) para a sua instância do Marketo como uma lista estática.
+1. Após a exportação, a lista será exibida como um arquivo .txt na pasta de downloads do seu navegador. Recupere-o e [importe](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) para a sua instância do Marketo como uma lista estática.
 
    ![](assets/five.png)
 
