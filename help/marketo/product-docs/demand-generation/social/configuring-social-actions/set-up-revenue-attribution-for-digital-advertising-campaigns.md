@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Configurar atribuição de receita para Campanhas de publicidade digital - Documentos do marketing - Documentação do produto
 title: Configurar atribuição de receita para Campanhas de publicidade digital
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Com programas separados, você pode rastrear o número de conversões de cada um
 >* Criar ou editar um formulário para passar uma sequência de query com a pessoa
 >* Verifique se você tem acesso a alguns recursos do Revenue Cycle Analytics para relatar sobre seus canais e campanhas de anúncios
 
->
-
-
 
 ## Criar um Programa padrão {#create-a-default-program}
 
@@ -41,7 +38,7 @@ Ao contrário de alguns programas (como e-mail) que podem ser executados periodi
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Se já tiver um programa no lugar, você pode [cloná-lo](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Se já tiver um programa no lugar, você pode [cloná-lo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -53,15 +50,11 @@ Ao contrário de alguns programas (como e-mail) que podem ser executados periodi
    >
    >**Exemplo**
    >
-   >
    >Uma sequência de caracteres de query transmitida pelo URL ajuda o Marketo a saber em qual campanha de anúncio alguém clicou quando se tornou uma pessoa no Marketo.
-   >
    >
    >Você pode criar uma metodologia de sequência de query que inclua todas as variáveis que deseja medir. O Marketo usa essas variáveis para adicionar pessoas a seus diferentes programas.
    >
-   >
    >Por exemplo, você pode usar o tipo de Canal type_Canal__Asset__Region. Isso pode parecer: SP_FB_NewGuide_US. **Observação**: abreviações economizam espaço.
-   >
    >
    >Ou configure-o como Canal_Adsource_AssetName_Region_UniqueIdNumber. Isso pode parecer: Social-Paid_Facebook_NewGuide_NA_123.
 
@@ -95,7 +88,7 @@ Você precisa de uma segunda campanha inteligente para alterar o status das pess
 
    >[!NOTE]
    >
-   >O exemplo acima mostra **Converted, **mas isso depende de seus valores de status/sucesso.
+   >O exemplo acima mostra **Converted**, mas isso depende de seus valores de status/sucesso.
 
 1. Agende e ativa a campanha.
 
@@ -112,21 +105,16 @@ Depois de configurar o programa e o campanha, crie o novo anúncio.
    >
    >**Exemplo**
    >
-   >
    >Veja como você pode adicionar todas as informações configuradas em um URL real. Os itens são separados por um E comercial (&amp;):
    >
+   >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >[www.marketo.com?**source**=Social-Paid&amp;**comment**=Social-Paid_Facebook_NewGuide_NA&amp;**camp**=abc&amp;**kk=**xyz](http://www.marketo.com?source=Social-Paid&amp;comment=Social-Paid_Facebook_NewGUide_NA&amp;camp=abc&amp;kk+xyz)
-   >
-   >    
-   >    
-   >    * **fonte** é a Fonte da Pessoa usada como um identificador de canal
-   >    * **** recomenda o identificador exclusivo criado para cada programa
-   >    * **** acampamento é a campanha no Facebook, LinkedIn ou Google
-   >    * **** coloca em questão a palavra-chave ou o nome do ativo que deseja capturar
+   >* **fonte** é a Fonte da Pessoa usada como um identificador de canal
+   >* **** recomenda o identificador exclusivo criado para cada programa
+   >* **** acampamento é a campanha no Facebook, LinkedIn ou Google
+   >* **** coloca em questão a palavra-chave ou o nome do ativo que deseja capturar
 
-   >    
-   >    
+   >
    >**Esses quatro termos devem estar em minúsculas e não podem haver espaços no URL para que essas informações sejam capturadas.**
 
 ## Práticas recomendadas {#best-practices}
