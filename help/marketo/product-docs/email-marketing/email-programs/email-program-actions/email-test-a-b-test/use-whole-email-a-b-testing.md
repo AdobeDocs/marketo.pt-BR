@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: Usar teste A/B "Email completo" - Documentos do Marketing - Documentação do produto
 title: Usar teste A/B "Email completo"
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,8 @@ Você pode testar facilmente seus e-mails A/B. Um grande teste é o teste **Emai
 
    Ok, estamos quase lá. Agora precisamos [definir os critérios vencedores do teste A/B](define-the-a-b-test-winner-criteria.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
