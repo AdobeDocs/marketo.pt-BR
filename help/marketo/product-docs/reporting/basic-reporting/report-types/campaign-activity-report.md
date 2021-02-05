@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: Relatório de Atividade de campanha - Documentos do Marketing - Documentação do produto
 title: Relatório de Atividade de campanha
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ Veja o desempenho de suas [campanhas inteligentes](http://docs.marketo.com/displ
    | Disparado (Ativo) | Campanhas acionadas atuais na guia **Atividades de marketing**. |
    | Disparado (Inativo) | Campanhas ativadas inativas na guia **Atividades de marketing**. |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
