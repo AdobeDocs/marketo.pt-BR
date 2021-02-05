@@ -3,7 +3,7 @@ unique-page-id: 2359951
 description: Remover um membro de um Programa de envolvimento - Documentos do marketing - Documentação do produto
 title: Remover um membro de um Programa de envolvimento
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Oops! Como é que essas pessoas entraram lá? Você pode remover membros de um p
 
 >[!TIP]
 >
->Não use isso para pausar conteúdo para uma pessoa. Isso eliminará todas as atribuições na análise.  Saiba mais sobre como [pausar pessoas em um programa de envolvimento](pause-people-in-an-engagement-program.md).
+>Não use isso para pausar conteúdo para uma pessoa. Isso eliminará todas as atribuições na análise. Saiba mais sobre como [pausar pessoas em um programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
 ## Etapa de fluxo {#flow-step}
 
@@ -29,7 +29,7 @@ Oops! Como é que essas pessoas entraram lá? Você pode remover membros de um p
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Groovy. Todos os membros que você definiu na programa inteligente [lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) não estarão mais neste  de envolvimento.
+   Groovy. Todos os membros que você definiu na programa inteligente [lista](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) não estarão mais neste  de envolvimento.
 
 ## Pausar pessoas {#pause-people}
 
@@ -37,5 +37,4 @@ Oops! Como é que essas pessoas entraram lá? Você pode remover membros de um p
 
 >[!MORELIKETHIS]
 >
->* [Pausar pessoas em um Programa de envolvimento](pause-people-in-an-engagement-program.md)
-
+>[Pausar pessoas em um Programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)
