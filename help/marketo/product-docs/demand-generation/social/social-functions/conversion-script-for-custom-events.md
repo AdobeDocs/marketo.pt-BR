@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: Script de conversão para Eventos personalizados - Documentos de marketing - Documentação do produto
 title: Script de conversão para Eventos personalizados
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Você define a meta de realização ao criar uma oferta de referência. Se a aç
 
 ## Recuperar o script de conversão {#retrieve-the-conversion-script}
 
-1. No editor de oferta de referência, clique em **Detalhes da Oferta** e selecione **Evento JavaScript do Cliente** no menu suspenso de objetivo de cumprimento.
+1. No editor de oferta de referência, clique em **Detalhes da Oferta** e selecione **Evento JavaScript do Cliente** no menu suspenso de meta de realização.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
@@ -26,9 +26,6 @@ Você define a meta de realização ao criar uma oferta de referência. Se a aç
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
    >[!NOTE]
-   >
-   >**Lembrete**
-   >
    >
    >Lembre-se de copiar e colar ambos os scripts se eles estiverem em um site que não seja de marketing.
 
@@ -60,7 +57,7 @@ Incrível! Seu site agora está capturando metas personalizadas de promoção so
 
 >[!MORELIKETHIS]
 >
->* [Especificar meta para a Oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [Criar uma Oferta de referência](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [Implantar o Social em seu site](deploy-social-on-your-website.md)
+>* [Especificar meta para a Oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [Criar uma Oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [Implantar o Social em seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
