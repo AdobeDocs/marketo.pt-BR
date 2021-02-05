@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: Escolha um e-mail existente - Documentos de marketing - Documentação do produto
 title: Escolher um email existente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Depois que você [criar um programa de e-mail](../../../../product-docs/email-ma
 
 Agora que decidimos que e-mail enviar, podemos configurar um teste A/B, ou ignorar isso e agendar o programa de e-mail.
 
->[!NOTE]
->
->**Artigos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Adicionar um teste A/B](email-test-a-b-test/add-an-a-b-test.md)
 >* [Agendar seu Programa de email](schedule-your-email-program.md)
