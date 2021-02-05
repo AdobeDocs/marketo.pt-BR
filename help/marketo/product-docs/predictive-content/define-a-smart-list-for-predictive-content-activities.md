@@ -3,9 +3,9 @@ unique-page-id: 10097873
 description: Definir uma Lista inteligente para Atividades de conteúdo preditivo - Documentos do Marketing - Documentação do produto
 title: Definir uma Lista inteligente para Atividades de conteúdo preditivo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -72,9 +72,8 @@ Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao de
 
    [definir uma lista inteligente para uma campanha inteligente em lote](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artigos relacionados**
    >
    >    
    >    
