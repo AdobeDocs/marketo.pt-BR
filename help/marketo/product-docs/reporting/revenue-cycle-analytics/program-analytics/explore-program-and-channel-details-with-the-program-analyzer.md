@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Explore os detalhes do Programa e do Canal com o Programa Analyzer - Documentos do marketing - Documentação do produto
 title: Explore os detalhes do Programa e Canal com o Analisador de Programas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,8 @@ Você pode ver as estatísticas detalhadas de programa e canal no Analisador de 
 >* [Criar um analisador de Programas](create-a-program-analyzer.md)
 
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Nem todas as edições do Marketo incluem essa funcionalidade. Entre em contato com seu gerente de conta para obter mais detalhes.
 
