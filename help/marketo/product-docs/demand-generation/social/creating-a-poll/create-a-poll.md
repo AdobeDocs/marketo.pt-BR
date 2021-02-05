@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Criar uma pesquisa - Documentos do Marketing - Documentação do produto
 title: Criar uma pesquisa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,19 @@ ht-degree: 0%
 
 Envolva pessoas com uma pesquisa em que possam votar e compartilhar com seus amigos nas redes sociais. Você pode adicioná-lo a lugares como suas landings page, seu site e Facebook.
 
->[!NOTE]
->
->**Disponibilidade**
+>[!AVAILABILITY]
 >
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
 >[!PREREQUISITES]
 >
->Se quiser usar imagens em sua pesquisa, adicione-as à sua biblioteca de Imagens e Arquivos do Marketo antes de começar. Adicione uma imagem de 60x60px para cada entrada de pesquisa. Consulte [Adicionar imagens e arquivos ao Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Se quiser usar imagens em sua pesquisa, adicione-as à sua biblioteca de Imagens e Arquivos do Marketo antes de começar. Adicione uma imagem de 60x60px para cada entrada de pesquisa. Consulte [Adicionar imagens e arquivos ao Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. No seu programa, selecione **Novo** > **Novo ativo local.**
+1. No seu programa, selecione **Novo** > **Novo ativo local**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Na **Galeria de ativos locais,** clique em **Pesquisa.**
+1. Na **Galeria de ativos locais**, clique em **Pesquisa**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -57,11 +55,11 @@ Envolva pessoas com uma pesquisa em que possam votar e compartilhar com seus ami
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Selecione a imagem necessária e clique em **Selecionar.**
+1. Selecione a imagem necessária e clique em **Select**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. Quando definir a miniatura, o título e a descrição de todas as entradas, clique em **Concluir.**
+1. Depois de definir a miniatura, o título e a descrição de todas as entradas, clique em **Concluir**.
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
@@ -77,9 +75,6 @@ O editor de pesquisas é aberto em uma nova janela. As configurações padrão s
 
 Se houver algum problema na pesquisa, você será solicitado a abordá-los antes que a pesquisa seja aprovada. Parabéns! Você criou sua pesquisa.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artigos relacionados**
->
->A próxima etapa é [publicar sua pesquisa](publish-a-poll.md), mas você pode alterar as configurações da pesquisa, se necessário. Start com [personalizando as configurações da pesquisa](customize-poll-settings.md).
-
+>A próxima etapa é [publicar sua pesquisa](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), mas você pode alterar as configurações da pesquisa, se necessário. Start com [personalizando as configurações da pesquisa](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
