@@ -3,9 +3,9 @@ unique-page-id: 30082174
 description: Momentos interessantes no MSC - Documentos do Marketing - Documentação do produto
 title: Momentos interessantes na MSC
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Momentos interessantes são a chave para se comunicar com sua equipe de vendas por meio do Marketing to Sales Connect.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidade**
 >
 >Eles estão disponíveis somente para [Marketing to Sales Insight](http://docs.marketo.com/x/2Akt) e clientes do Marketing to Sales Connect.
 
