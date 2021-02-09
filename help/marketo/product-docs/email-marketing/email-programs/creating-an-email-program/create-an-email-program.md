@@ -3,9 +3,9 @@ unique-page-id: 1900591
 description: Criar um Programa de email - Documentos do marketing - Documentação do produto
 title: Criar um Programa por email
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,8 @@ Use programas de e-mail para enviar um e-mail de forma rápida e fácil para um 
 
 Legal! Observe que o programa está agora na árvore e pronto para ser usado. O próximo passo será definir sua audiência. Consulte os artigos relacionados ao marketing abaixo.
 
-## Assista a um vídeo {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!MORELIKETHIS]
 >
->* [Definir uma Audiência com uma Lista inteligente](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Definir uma Audiência importando uma Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
->
-
-
+>* [Definir uma Audiência com uma Lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Definir uma Audiência importando uma Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
