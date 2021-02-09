@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Programe o teste A/B - Documentos do Marketing - Documentação do produto
 title: Programe o teste A/B
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ Depois de adicionar um teste A/B a um programa de email e definir os critérios 
 
 >[!PREREQUISITES]
 >
->* [Adicionar um teste A/B](add-an-a-b-test.md)
-
->
-
-
+>[Adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >Para testes de Data/Hora, é necessário definir somente quando você recebe o resumo dos resultados do teste.
 
-1. Selecione a data Enviar teste.
+1. Selecione a data **Enviar teste**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -43,9 +39,6 @@ Depois de adicionar um teste A/B a um programa de email e definir os critérios 
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
    >Somente o grupo de teste receberá as variantes de teste.
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
@@ -55,6 +48,7 @@ Depois de adicionar um teste A/B a um programa de email e definir os critérios 
    >Se você escolher declarar um vencedor manualmente, definirá **Data/hora do Envio de Relatório** em vez de **Finalizar Envio** data/hora.
 
    Super! Concluído, basta revisar o resumo e clicar em Fechar.
+
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
    Você notará que o bloco **Schedule** foi atualizado.
@@ -69,9 +63,4 @@ Depois de adicionar um teste A/B a um programa de email e definir os critérios 
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Aprovar/Cancelar aprovação de um Programa de email](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-
-
+   >[Aprovar/Cancelar aprovação de um Programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
