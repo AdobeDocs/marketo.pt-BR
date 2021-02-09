@@ -3,9 +3,9 @@ unique-page-id: 2359483
 description: Compreensão das opções de teste de e-mail - Documentos do Marketing - Documentação do produto
 title: Como entender as opções de teste de email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ Teste seus emails para melhorar a pontuação de envolvimento. Há dois tipos de
 
 ## Teste A/B {#a-b-testing}
 
-Isso é para emails únicos usando [programas de email](http://docs.marketo.com/display/docs/email+programs). Adicione [Teste A/B](add-an-a-b-test.md) e um pequeno grupo receberá o teste e o restante receberá o vencedor.
+Isso é para emails únicos usando programas de email. Adicione [Teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) e um pequeno grupo receberá o teste e o restante receberá o vencedor.
 
 ## Campeão de e-mail/Desafiador {#email-champion-challenger}
 
-Para e-mails contínuos usados em campanhas inteligentes acionadores ou programas de envolvimento [, você pode adicionar [campeão/desafiador de e-mail](http://docs.marketo.com/pages/viewpage.action?pageid=2359551) testes. ](http://docs.marketo.com/display/docs/drip+nurturing) Isso introduzirá variações em uma porcentagem contínua dos recipient.
+Para e-mails contínuos usados em campanhas inteligentes acionadores ou programas de envolvimento, você pode adicionar [teste campeão/desafiador de e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md). Isso introduzirá variações em uma porcentagem contínua dos recipient.
 
 Feliz Teste!
