@@ -3,9 +3,9 @@ unique-page-id: 2359462
 description: Aprovar/Cancelar aprovação de um Programa de email - Documentos do Marketing - Documentação do produto
 title: Aprovar/Cancelar aprovação de um Programa de email
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Criar um Programa por email](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir uma Audiência com uma ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista inteligente ao  [definir uma Audiência importando uma Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Criar um Programa por email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Definir uma Audiência com uma ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista inteligente  [Definir uma Audiência importando uma Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Escolha um ](choose-an-existing-email.md) email existente  [Criar um email para um Programa de email](create-an-email-for-an-email-program.md)
+* [Escolha um ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) email existente  [Criar um email para um Programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
    >
    >
-* [Agendar seu Programa de email](schedule-your-email-program.md)
-
->
-
+* [Agendar seu Programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 
 ## Aprove seu Programa de e-mail {#approve-your-email-program}
