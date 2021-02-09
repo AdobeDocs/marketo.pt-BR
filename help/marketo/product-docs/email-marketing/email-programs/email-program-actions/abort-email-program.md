@@ -3,7 +3,7 @@ unique-page-id: 7504840
 description: Cancelar Programa de e-mail - Documentos do Marketing - Documentação do produto
 title: Anular Programa de Correio Eletrônico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Oops! Aperte os freios! Este programa de email não deve sair.
 >
 >Este artigo destina-se a ajudá-lo a impedir que emails sejam enviados antes de serem enviados. Não há como recuperar e-mails enviados.
 
-1. Em um programa de email, clique em **Abortar Programa.**
+1. Em um programa de email, clique em **Abortar Programa**.
 
    ![](assets/dashboardleads.jpg)
 
-1. Clique em **Abortar **para obter confirmação completa.
+1. Clique em **Abortar** para obter confirmação completa.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 
