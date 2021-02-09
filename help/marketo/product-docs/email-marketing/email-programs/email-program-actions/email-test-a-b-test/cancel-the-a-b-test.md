@@ -3,9 +3,9 @@ unique-page-id: 2359600
 description: Cancele o teste A/B - Documentos do Marketing - Documentação do produto
 title: Cancele o teste A/B
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,15 @@ ht-degree: 0%
 
 # Cancele o teste A/B {#cancel-the-a-b-test}
 
-Se você [adicionou um teste A/B](add-an-a-b-test.md) ao seu programa de e-mail e decidiu que não quer mais, ele é facilmente desfeito. Veja como.
+Se você [adicionou um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) ao seu programa de e-mail e decidiu que não quer mais, ele é facilmente desfeito. Veja como.
 
 1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
 1. Selecione seu programa de email.
-1. ![](assets/selectemailprogram-1.jpg)
+
+   ![](assets/selectemailprogram-1.jpg)
 
 1. No bloco **Email**, clique em **Remover teste A/B**.
 
@@ -28,9 +29,6 @@ Se você [adicionou um teste A/B](add-an-a-b-test.md) ao seu programa de e-mail 
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Seu programa de email deve estar desaprovado para que você possa remover o teste A/B. Consulte [Aprovar/Cancelar aprovação de um Programa de e-mail](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) para obter detalhes.
+   >Seu programa de email deve estar desaprovado para que você possa remover o teste A/B. Consulte [Aprovar/Cancelar aprovação de um Programa de e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) para obter detalhes.
 
-Veem? Calma, calma!
+Calma, calma!
