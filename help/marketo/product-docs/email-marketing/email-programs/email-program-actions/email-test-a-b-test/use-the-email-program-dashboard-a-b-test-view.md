@@ -3,9 +3,9 @@ unique-page-id: 2359549
 description: Use o Painel de Programa de e-mail - Visualização de teste A/B - Documentos de marketing - Documentação do produto
 title: Use o Painel de Programa de e-mail - Visualização de teste A/B
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Use o Painel Programa de e-mail - Visualização de teste A/B {#use-the-email-program-dashboard-a-b-test-view}
 
-Veja como seu [teste A/B do programa de email](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) está se saindo com esse painel.
+Veja como seu [teste A/B do programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) está se saindo com esse painel.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -45,9 +45,4 @@ Painel legal, não acha?
 
 >[!MORELIKETHIS]
 >
->* [Usar o Painel Programa de e-mail](../../../../../product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
-
->
-
-
-
+>[Usar o Painel Programa de e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
