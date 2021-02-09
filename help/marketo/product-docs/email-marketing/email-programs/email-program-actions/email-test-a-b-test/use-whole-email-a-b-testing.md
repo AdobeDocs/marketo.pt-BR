@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: Usar teste A/B "Email completo" - Documentos do Marketing - Documentação do produto
 title: Usar teste A/B "Email completo"
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,11 @@ Você pode testar facilmente seus e-mails A/B. Um grande teste é o teste **Emai
 
 >[!PREREQUISITES]
 >
->* [Adicionar um teste A/B](add-an-a-b-test.md)
+>[Adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
->
+1. No bloco Email, com seu email selecionado, clique em **Adicionar teste A/B**.
 
-
-
-1. No bloco Email, com seu email selecionado, clique em Adicionar teste A/B.
-
-&#39; ![](assets/image2014-9-12-15-3a22-3a12.png)
-
-`
+![](assets/image2014-9-12-15-3a22-3a12.png)
 
 1. Uma nova janela é aberta. Clique na lista suspensa **Tipo de teste** e selecione **Emails inteiros**.
 
@@ -43,9 +37,7 @@ Você pode testar facilmente seus e-mails A/B. Um grande teste é o teste **Emai
 
 1. Clique em **Adicionar** para aplicar o e-mail.
 
-   &#39; ![](assets/image2014-9-12-15-3a23-3a20.png)
-
-   `
+   ![](assets/image2014-9-12-15-3a23-3a20.png)
 
    >[!TIP]
    >
@@ -53,15 +45,11 @@ Você pode testar facilmente seus e-mails A/B. Um grande teste é o teste **Emai
 
 1. Selecione seu segundo email.
 
-   &#39; ![](assets/image2014-9-12-15-3a23-3a49.png)
-
-   `
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Clique em **Adicionar** para aplicar o segundo email. Arraste o controle deslizante para escolher qual porcentagem da audiência você deseja receber o teste A/B e clique em **Próximo**.
 
-   &#39; ![](assets/image2014-9-12-15-3a24-3a1.png)
-
-   `
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >
@@ -69,15 +57,6 @@ Você pode testar facilmente seus e-mails A/B. Um grande teste é o teste **Emai
 
    >[!CAUTION]
    >
-   >**Recomendamos que você evite definir o tamanho da amostra como 100%**. Se estiver usando uma lista estática, definir o tamanho da amostra como 100% envia o email para todos na audiência e o vencedor não vai para ninguém. Se você estiver usando uma lista **smart**, definir o tamanho da amostra como 100% envia o email para todos na audiência *naquele momento. *Quando o programa de e-mail for executado novamente em uma data posterior, qualquer pessoa nova que se qualificar para a lista inteligente também receberá o e-mail, já que agora está incluída na audiência.
+   >**Recomendamos que você evite definir o tamanho da amostra como 100%**. Se estiver usando uma lista estática, definir o tamanho da amostra como 100% envia o email para todos na audiência e o vencedor não vai para ninguém. Se você estiver usando uma lista **smart**, definir o tamanho da amostra como 100% envia o email para todos na audiência _no momento_. Quando o programa de e-mail for executado novamente em uma data posterior, qualquer pessoa nova que se qualificar para a lista inteligente também receberá o e-mail, já que agora está incluída na audiência.
 
-   Ok, estamos quase lá. Agora precisamos [definir os critérios vencedores do teste A/B](define-the-a-b-test-winner-criteria.md).
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Definir o critério do vencedor do teste A/B](define-the-a-b-test-winner-criteria.md)
-
-
+   Ok, estamos quase lá. Agora precisamos [definir os critérios vencedores do teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).
