@@ -3,9 +3,9 @@ unique-page-id: 1900593
 description: Criar um e-mail para um Programa de e-mail - Documentos do Marketing - Documentação do produto
 title: Criar um email para um Programa de email
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,8 @@ ht-degree: 0%
 >* [Criar um Programa por email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definir uma Audiência com uma ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) lista inteligente  [Definir uma Audiência importando uma Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
->
 
-
-
-Depois de criar seu programa de e-mail e definir sua audiência, você precisará decidir que e-mail está enviando. Você pode [escolher um email existente](choose-an-existing-email.md) ou criar um do zero. Veja como criar um novo email.
+Depois de criar seu programa de e-mail e definir sua audiência, você precisará decidir que e-mail está enviando. Você pode [escolher um email existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou criar um do zero. Veja como criar um novo email.
 
 1. Vá para **Atividades de marketing**.
 
@@ -48,10 +45,4 @@ Depois de criar seu programa de e-mail e definir sua audiência, você precisar�
 
    ![](assets/five.png)
 
-Ótimo! Agora que criamos um email que queremos enviar, vamos [adicionar um teste A/B](email-test-a-b-test/add-an-a-b-test.md) ou ir direto para [agendar seu programa de email](schedule-your-email-program.md).
-
->[!MORELIKETHIS]
->
->* [Adicionar um teste A/B](email-test-a-b-test/add-an-a-b-test.md)
->* [Agendar seu Programa de email](schedule-your-email-program.md)
-
+Ótimo! Agora que criamos um email que queremos enviar, vamos [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) ou ir direto para [agendar seu programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
