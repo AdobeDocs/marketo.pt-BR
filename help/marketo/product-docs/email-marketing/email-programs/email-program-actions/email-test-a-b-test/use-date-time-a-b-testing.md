@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: Usar teste A/B "Data/Hora" - Documentos do Marketing - Documentação do produto
 title: Usar teste A/B "Data/hora"
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # Usar &quot;Data/hora&quot; de teste A/B {#use-date-time-a-b-testing}
 
-Você pode testar facilmente seus e-mails A/B. Um teste é o **teste de data/hora **data/hora. Isso testa qual hora do dia ou dia da semana é melhor para enviar emails. Veja como configurar.
+Você pode testar facilmente seus e-mails A/B. Um teste é **Date/Time**. Isso testa qual hora do dia ou dia da semana é melhor para enviar emails. Veja como configurar.
 
 >[!PREREQUISITES]
 >
->* [Adicionar um teste A/B](add-an-a-b-test.md)
-
->
-
+>[Adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 
 1. No bloco **Email**, clique em **Adicionar teste A/B**.
@@ -57,16 +54,6 @@ Você pode testar facilmente seus e-mails A/B. Um teste é o **teste de data/hor
 
    >[!CAUTION]
    >
-   >**Recomendamos que você evite definir o tamanho da amostra como 100%**. Se estiver usando uma lista estática, definir o tamanho da amostra como 100% envia o email para todos na audiência e o vencedor não vai para ninguém. Se você estiver usando uma lista **smart**, definir o tamanho da amostra como 100% envia o email para todos na audiência *naquele momento. *Quando o programa de e-mail for executado novamente em uma data posterior, qualquer pessoa nova que se qualificar para a lista inteligente também receberá o e-mail, já que agora está incluída na audiência.
+   >**Recomendamos que você evite definir o tamanho da amostra como 100%**. Se estiver usando uma lista estática, definir o tamanho da amostra como 100% envia o email para todos na audiência e o vencedor não vai para ninguém. Se você estiver usando uma lista **smart**, definir o tamanho da amostra como 100% envia o email para todos na audiência _no momento_. Quando o programa de e-mail for executado novamente em uma data posterior, qualquer pessoa nova que se qualificar para a lista inteligente também receberá o e-mail, já que agora está incluída na audiência.
 
-   [definir os critérios do vencedor do teste A/B](define-the-a-b-test-winner-criteria.md)
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Definir o critério do vencedor do teste A/B](define-the-a-b-test-winner-criteria.md)
-
-
-Ok, estamos um passo mais perto. Agora precisamos .
+   Ok, estamos um passo mais perto. Agora precisamos [definir os critérios vencedores do teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).
