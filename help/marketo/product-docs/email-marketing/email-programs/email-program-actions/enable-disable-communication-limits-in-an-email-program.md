@@ -3,9 +3,9 @@ unique-page-id: 2359596
 description: Ativar/Desativar limites de comunicação em um Programa de email - Documentos do marketing - Documentação do produto
 title: Ativar/desativar limites de comunicação em um Programa de email
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Ativar/desativar limites de comunicação em um Programa de email {#enable-disable-communication-limits-in-an-email-program}
 
-Ao executar um programa de email, você pode optar por ignorar ou respeitar o [limite de comunicação de nível de administrador](../../../../product-docs/administration/email-setup/enable-communication-limits.md) [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Aqui está como fazer isso.
+Ao executar um programa de email, você pode optar por ignorar ou respeitar os [limites de comunicação de nível de administrador](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Aqui está como fazer isso.
 
 >[!NOTE]
 >
->**Definição**
->
->Os limites de comunicação são [definidos na seção Admin](../../../../product-docs/administration/email-setup/enable-communication-limits.md) e ajudam a evitar o envio de emails em excesso para uma pessoa.
+>Os limites de comunicação são [definidos na seção Admin](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) e ajudam a evitar o envio de emails em excesso para uma pessoa.
 
 1. Vá para **Atividades de marketing**.
 
@@ -38,4 +36,3 @@ Ao executar um programa de email, você pode optar por ignorar ou respeitar o [l
    ![](assets/ifaperson.jpg)
 
    Deixar **Bloquear e-mails não operacionais** marcados impedirá o envio do e-mail para qualquer pessoa que recebeu mais e-mails do que as configurações de administrador permitem.
-
