@@ -3,7 +3,7 @@ unique-page-id: 2953419
 description: Uso do Editor de Rich Text - Documentos do Marketing - Documentação do produto
 title: Uso do Editor de Rich Text
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
@@ -17,7 +17,7 @@ O Editor de Rich Text (RTE) é exibido em todo o Marketing e está disponível s
 
 ## Configurações do editor {#editor-settings}
 
-A configuração do elemento de bloco raiz define quais tags vinculam seu conteúdo. Por padrão, o elemento do bloco raiz de email utiliza <p> tags. Você tem a opção de alterar isso seguindo as etapas abaixo.
+A configuração do elemento de bloco raiz define quais tags vinculam seu conteúdo. Por padrão, o elemento de bloco raiz de email utiliza tags `<p>`. Você tem a opção de alterar isso seguindo as etapas abaixo.
 
 >[!TIP]
 >
@@ -35,11 +35,11 @@ A configuração do elemento de bloco raiz define quais tags vinculam seu conte�
 
    ![](assets/three.png)
 
-1. Na lista suspensa **Email / Editor de fragmentos**, selecione <div> ou Nenhum e clique em **Salvar**. <div> é usada neste exemplo.
+1. Na lista suspensa **Email / Editor de trechos**, selecione `<div>` ou Nenhum e clique em **Salvar**. `<div>` é usada neste exemplo.
 
    ![](assets/four.png)
 
-   Se você tiver <div class="&ldquo;mktEditable&rdquo;"></div> em um modelo de e-mail, você verá o seguinte comportamento de Origem HTML ao abrir a seção e digitar &quot;O texto vai para aqui&quot; no editor:
+   Se você tiver `<div class=“mktEditable”></div>` em um Modelo de e-mail, verá o seguinte comportamento de Origem HTML ao abrir a seção e digitar &quot;Texto aqui&quot; no editor:
 
 <table> 
  <tbody> 
@@ -62,7 +62,7 @@ A configuração do elemento de bloco raiz define quais tags vinculam seu conte�
 
 >[!NOTE]
 >
->O elemento de bloco raiz é sempre <p> para tokens de programa Rich Text.
+>O elemento de bloco raiz é sempre `<p>` para tokens de programa Rich Text.
 
 ## Recursos {#features}
 
@@ -109,7 +109,7 @@ Estes são os recursos que você encontrará em um RTE.
 
 ## landing page {#landing-pages}
 
-A configuração do elemento de bloco raiz define quais tags vinculam seu conteúdo. Por padrão, o elemento do bloco raiz da landing page utiliza <div> tags. Você tem a opção de alterar isso seguindo as etapas abaixo.
+A configuração do elemento de bloco raiz define quais tags vinculam seu conteúdo. Por padrão, o elemento do bloco raiz da landing page utiliza tags `<div>`. Você tem a opção de alterar isso seguindo as etapas abaixo.
 
 >[!TIP]
 >
@@ -127,9 +127,8 @@ A configuração do elemento de bloco raiz define quais tags vinculam seu conte�
 
    ![](assets/three.png)
 
-1. Na lista suspensa **Editor de Landings page**, selecione <p> ou Nenhum e clique em **Salvar**. <p> é usada neste exemplo.
+1. Na lista suspensa **Editor de Landings page**, selecione `<p>` ou Nenhum e clique em **Salvar**. `<p>` é usada neste exemplo.
 
    ![](assets/five.png)
 
    E é isso!
-
