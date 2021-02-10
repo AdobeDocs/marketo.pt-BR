@@ -3,7 +3,7 @@ unique-page-id: 2359469
 description: Visualização do Painel de Programa de e-mail - Documentos do Marketing - Documentação do produto
 title: Visualização do Painel Programa de e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -47,10 +47,6 @@ Como alternativa, se você não adicionou um teste A/B *ou* se o teste tiver ter
 
 >[!MORELIKETHIS]
 >
->* [Use o Painel de Programa de e-mail - Visualização de teste A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Usar o Painel Programa de e-mail](use-the-email-program-dashboard.md)
-
->
-
-
+>* [Use o Painel de Programa de e-mail - Visualização de teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [Usar o Painel Programa de e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 
