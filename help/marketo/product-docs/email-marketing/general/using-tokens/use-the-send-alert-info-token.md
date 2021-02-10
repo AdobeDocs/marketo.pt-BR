@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: Usar o token Enviar informações de alerta {{SP_Send_Alert_Info}} - Documentos de marketing - Documentação do produto
 title: Usar o token Enviar informações de alerta
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,15 @@ O token `{{SP_Send_Alert_Info}}` é um token especial a ser usado ao criar email
 
 >[!TIP]
 >
->Este token só funciona como esperado ao enviar o email que o contém com a etapa de fluxo [Enviar alerta](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Ele não funcionará quando usado em uma etapa de fluxo Enviar e-mail.
+>Este token só funciona como esperado ao enviar o email que o contém com a etapa de fluxo [Enviar alerta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Ele não funcionará quando usado em uma etapa de fluxo Enviar e-mail.
 
-Exemplo de alerta:   ![](assets/image2014-9-25-15-3a17-3a58.png)
+Exemplo de alerta:
+
+![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->Atenção! Os URLs em alertas têm datas de expiração, portanto, verifique se eles têm uma cadência compatível com esses tipos de mensagens. As datas de expiração são [configuradas por um Admin](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Atenção! Os URLs em alertas têm datas de expiração, portanto, verifique se eles têm uma cadência compatível com esses tipos de mensagens. As datas de expiração são [configuradas por um Admin](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
 As seguintes informações estão incluídas como parte do `{{SP_Send_Alert_Info}}`:
 
@@ -59,8 +61,6 @@ As seguintes informações estão incluídas como parte do `{{SP_Send_Alert_Info
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 
 >[!NOTE]
->
->**Lembrete**
 >
 >Não se esqueça de aprovar seu email.
 
