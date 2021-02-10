@@ -3,9 +3,9 @@ unique-page-id: 1900558
 description: Editar elementos em um e-mail - Documentos de marketing - Documentação do produto
 title: Editar elementos em um email
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Também é possível adicionar imagens, tokens, tabelas e outros elementos. Consulte [Usando o Editor de Rich Text](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Também é possível adicionar imagens, tokens, tabelas e outros elementos. Consulte [Usando o Editor de Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -70,7 +67,9 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
    >
    >Se você quiser usar um token de marketing, use essa opção. Lembre-se de que, ao usar um token, a imagem aparecerá quebrada no editor, mas será renderizada no modo Pré-visualização e no e-mail Enviar amostra.
 
-   **Trocar** ![](assets/eight.png)
+   Para usar um URL externo, cole primeiro o URL da imagem. Altere as dimensões para atender às suas necessidades e adicione algum Texto alternativo (opcional). Em seguida, pressione **Trocar**.
+
+   ![](assets/eight.png)
 
    **Meu computador**
 
@@ -90,14 +89,15 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
    >
    >Se você estiver substituindo uma imagem, precisará marcar a caixa **Substituir imagem existente** que aparece abaixo do URL/nome da imagem.
 
-   **Design** StudioPara inserir uma imagem do Design Studio, basta localizá-la...
+   **Design Studio**
+
+   Para inserir uma imagem do Design Studio, basta localizá-la...
 
    ![](assets/twelve.png)
 
-   **Trocar**
-   ![](assets/thirteen.png)
+   ...E insira-o. Altere as dimensões para atender às suas necessidades, altere o Texto alternativo (opcional) e pressione **Trocar**.
 
-Para usar um URL externo, cole primeiro o URL da imagem. Altere as dimensões para atender às suas necessidades e adicione algum Texto alternativo (opcional). Em seguida, pressione .               ...E insira-o. Altere as dimensões para atender às suas necessidades, altere o Texto alternativo (opcional) e pressione .
+   ![](assets/thirteen.png)
 
 ## Como editar o elemento de trecho {#how-to-edit-the-snippet-element}
 
