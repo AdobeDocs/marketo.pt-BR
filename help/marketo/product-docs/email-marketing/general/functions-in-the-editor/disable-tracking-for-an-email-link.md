@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: Desabilitar rastreamento para um link de email - Documentos do Marketing - Documentação do produto
 title: Desativar o rastreamento para um link de email
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Às vezes, você não deseja ativar o **URL de rastreamento de marketing** em um link em um email. Isso é útil quando a página de destino não suporta parâmetros de URL e pode resultar em um link quebrado.
 
-1. Selecione seu email e clique em **Editar** **Rascunho**.
+1. Selecione seu email e clique em **Editar rascunho**.
 
    ![](assets/one-7.png)
 
