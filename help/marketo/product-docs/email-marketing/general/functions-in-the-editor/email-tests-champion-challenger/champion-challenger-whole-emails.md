@@ -3,7 +3,7 @@ unique-page-id: 2359555
 description: Campeão/Desafiador - Todos os emails - Documentos do Marketing - Documentação do produto
 title: Campeão/Desafiador - Emails Inteiros
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Teste emails inteiros uns contra os outros. Quando o teste terminar, envie o mel
 
 >[!PREREQUISITES]
 >
->* [Adicionar um campeão/desafiador de e-mail](add-an-email-champion-challenger.md)
+>[Adicionar um campeão/desafiador de e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. No editor de teste de e-mail, selecione **Emails inteiros** na lista suspensa **Tipo de teste **1.
+1. No editor de teste de email, selecione **Emails inteiros** no menu suspenso **Tipo de teste**.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -47,10 +43,11 @@ Teste emails inteiros uns contra os outros. Quando o teste terminar, envie o mel
    >
    >**Exemplo**
    >
-   >
    >Na distribuição mostrada acima, 15% da audiência total especificada na lista inteligente recebe um dos emails desafiantes e 85% recebem o email campeão. Vários emails desafiadores compartilham os 15% igualmente. Quando o teste terminar, você pode declarar um vencedor manualmente. A partir daí, todas as pessoas futuras receberão o conteúdo com melhor desempenho.
 
-   [Mais informação do que você já quis sobre confiança](http://en.wikipedia.org/wiki/Confidence_interval) estatística.
+   Para ganhar confiança estatística, certifique-se de que a porcentagem atribuída aos desafiantes inclui pessoas suficientes para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos.
+
+   [Mais informação do que você já quis sobre confiança](https://en.wikipedia.org/wiki/Confidence_interval) estatística.
 
 1. Clique em **Próximo**.
 
@@ -60,10 +57,4 @@ Teste emails inteiros uns contra os outros. Quando o teste terminar, envie o mel
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campeão/Desafiador: Definir critérios de campeão](champion-challenger-define-champion-criteria.md)
-
-
-Para ganhar confiança estatística, certifique-se de que a porcentagem atribuída aos desafiantes inclui pessoas suficientes para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos.
+   >[Campeão/Desafiador: Definir critérios de campeão](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
