@@ -3,7 +3,7 @@ unique-page-id: 1147340
 description: Enviar emails do proprietário principal - Documentos do marketing - Documentação do produto
 title: Enviar emails do proprietário do cliente potencial
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -47,7 +47,8 @@ E se você quiser enviar um email para um cliente potencial em nome do Propriet�
    >
    >Verifique se você adicionou um espaço entre os tokens de nome e sobrenome.
 
-   Clique no campo De email (exclua qualquer endereço de email existente) e clique no botão Inserir token.
+1. Clique no campo De email (exclua qualquer endereço de email existente) e clique no botão Inserir token.
+
    ![](assets/eight.png)
 
 1. Start digitando &quot;`{{lead.Lead Owner`&quot; e selecione o token **`{{lead.Lead Owner Email Address}}`**.
@@ -61,4 +62,3 @@ E se você quiser enviar um email para um cliente potencial em nome do Propriet�
 1. Certifique-se de que os campos **Responder** e **Assunto** estejam preenchidos e que você esteja pronto!
 
    ![](assets/eleven.png)
-
