@@ -3,7 +3,7 @@ unique-page-id: 1147356
 description: Como entender o registro de Eventos por email - Documentos do Marketing - Documentação do produto
 title: Como entender o registro de Eventos por email
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Ao enviar emails, o Marketo registra diferentes pontos de dados nos registros de
 >[!CAUTION]
 >
 >Se o mesmo email for enviado para a mesma pessoa duas vezes da mesma campanha, o evento **Aberto** será registrado no máximo 1 vez.
-
