@@ -3,9 +3,9 @@ unique-page-id: 1900554
 description: Editar um HTML de email - Documentos do marketing - Documentação do produto
 title: Editar o HTML de um email
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,6 @@ Use a funcionalidade Pesquisar código para localizar e substituir conteúdo com
 
    >[!NOTE]
    >
-   >O Código de pesquisa também está disponível no [Editor de modelo de e-mail](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template).
+   >O Código de pesquisa também está disponível no [Editor de modelo de e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
 
 Recomendamos que você continue editando seus emails usando a funcionalidade integrada do Marketo, mas esse editor de código oferece flexibilidade se você precisar.
