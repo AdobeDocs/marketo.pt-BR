@@ -3,7 +3,7 @@ unique-page-id: 2359562
 description: Campeão/Desafiador - Definir critérios de campeão - Documentos do marketing - Documentação do produto
 title: Campeão/Desafiador - Definir Critérios de Campeão
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Depois de configurar seu tipo de teste, é necessário definir o critério de ca
 
 >[!PREREQUISITES]
 >
->* [Adicionar um campeão/desafiador de e-mail](add-an-email-champion-challenger.md)
-
->
-
-
+>[Adicionar um campeão/desafiador de e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## Critérios padrão de campeão {#standard-champion-criteria}
 
@@ -33,7 +29,7 @@ Depois de configurar seu tipo de teste, é necessário definir o critério de ca
    >
    >Monitoraremos essa métrica e enviaremos um relatório com os dados por email.
 
-1. Se você escolheu um dos **Critérios de campeão** padrão, vá em frente e vá para [Campeão/Desafiador: Configurar Alertas de Relatório](champion-challenger-configure-report-alerts.md)!
+1. Se você escolheu um dos **Critérios de campeão** padrão, vá em frente e vá para [Campeão/Desafiador: Configurar Alertas de Relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## Critérios personalizados de campeão {#custom-champion-criteria}
 
@@ -63,9 +59,4 @@ Depois de configurar seu tipo de teste, é necessário definir o critério de ca
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campeão/Desafiador: Configurar Alertas de Relatório](champion-challenger-configure-report-alerts.md)
-
-
+   >[Campeão/Desafiador: Configurar Alertas de Relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
