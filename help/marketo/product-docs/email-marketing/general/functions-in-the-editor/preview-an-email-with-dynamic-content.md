@@ -3,7 +3,7 @@ unique-page-id: 1900548
 description: Pré-visualização de um e-mail com conteúdo dinâmico - Documentos do Marketing - Documentação do produto
 title: Pré-visualização de um email com conteúdo dinâmico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Pré-visualização seu email após adicionar conteúdo dinâmico para verificá
 
    ![](assets/one-3.png)
 
-   Clique na lista suspensa Visualização por e selecione o tipo de conteúdo dinâmico que deseja pré-visualização.
+1. Clique na lista suspensa Visualização por e selecione o tipo de conteúdo dinâmico que deseja pré-visualização.
+
    ![](assets/two-3.png)
 
 1. Uma nova lista suspensa é exibida. Clique nele e escolha o conteúdo específico.
