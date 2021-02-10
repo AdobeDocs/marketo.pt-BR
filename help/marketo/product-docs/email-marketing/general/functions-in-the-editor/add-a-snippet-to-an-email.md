@@ -3,7 +3,7 @@ unique-page-id: 1147358
 description: Adicionar um trecho a um email - Documentos do Marketing - Documentação do produto
 title: Adicionar um trecho a um email
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -18,7 +18,6 @@ Os trechos são blocos reutilizáveis de rich text e gráficos que você pode us
 >[!PREREQUISITES]
 >
 >[Criar um trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
 
 >[!NOTE]
 >
