@@ -3,7 +3,7 @@ unique-page-id: 1900589
 description: Adicionar links rastreados a um email de texto - Documentos de marketing - Documentação do produto
 title: Adicionar links acompanhados a um email de texto
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
