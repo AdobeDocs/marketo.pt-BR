@@ -3,7 +3,7 @@ unique-page-id: 2359567
 description: Campeão/Desafiador - Configurar Alertas de Relatório - Documentos do Marketing - Documentação do Produto
 title: Campeão/Desafiador - Configurar Alertas de Relatório
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Marketo enviará relatórios sobre como o teste de email está indo. Veja como a
 
 >[!PREREQUISITES]
 >
->* [Campeão/Desafiador: Definir critérios de campeão](champion-challenger-define-champion-criteria.md)
-
->
-
-
+>[Campeão/Desafiador: Definir critérios de campeão](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. Vamos agendar o relatório para enviar uma vez por semana na sexta-feira, às 9h.
 
@@ -47,9 +43,4 @@ Marketo enviará relatórios sobre como o teste de email está indo. Veja como a
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campeão/Desafiador: Aprovar seu teste de e-mail](champion-challenger-approve-your-email-test.md)
-
-
+   >[Campeão/Desafiador: Aprovar seu teste de e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
