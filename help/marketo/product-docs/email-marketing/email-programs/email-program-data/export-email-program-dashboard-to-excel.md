@@ -3,9 +3,9 @@ unique-page-id: 2359598
 description: Exportar Painel de Programa de e-mail para Excel - Documentos do Marketing - Documentação do produto
 title: Exportar Painel de Programa de e-mail para Excel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Depois de executar um programa de email e ter alguns dados no painel, você pode
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
    >Se o seu programa de email ainda não tiver sido iniciado, você não verá um painel porque não há dados para ver.
 
 1. Basta clicar no ícone do Excel e sua exportação começará.
@@ -35,10 +32,3 @@ Depois de executar um programa de email e ter alguns dados no painel, você pode
    ![](assets/lifecycle.jpg)
 
    Muito fácil, certo?
-
->[!NOTE]
->
->**Mergulho profundo**
->
->Quer aprender mais sobre [Programas de e-mail](http://docs.marketo.com/display/docs/email+programs)?
-
