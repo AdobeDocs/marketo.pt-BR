@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: Usando URLs em Meus Tokens - Documentos do Marketing - Documentação do produto
 title: Usar URLs em Meus Tokens
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus e-mails.
    ![](assets/twelve.png)
 
    E você terminou! O URL será preenchido após o envio e, graças à inserção de http:// na frente do token, produzirá um link rastreável.
-
