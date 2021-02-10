@@ -3,9 +3,9 @@ unique-page-id: 14352623
 description: Detalhes de acesso do usuário - Documentos do marketing - Documentação do produto
 title: Detalhes de acesso do usuário
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ A que Administradores e não Administradores têm acesso?
 
 ## Permissões de usuário administrador {#admin-user-permissions}
 
-Os administradores podem [visualização todos os modelos](http://docs.marketo.com/x/OYAXAQ).
+Os administradores podem [visualização todos os modelos](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
 
 ![](assets/templates.jpg)
 
-Os administradores podem [visualização todas as campanhas](http://docs.marketo.com/x/N4AXAQ).
+Os administradores podem [visualização todas as campanhas](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
-Os administradores podem [visualização todas as atividades de e-mail](http://docs.marketo.com/x/SYAXAQ).
+Os administradores podem visualização todas as atividades de e-mail.
 
 ![](assets/email-activity.png)
 
@@ -70,4 +70,3 @@ Os administradores podem parar as campanhas em nome dos usuários.
    * Os usuários podem compartilhar modelos no categoria que seus administradores permitem
    * Quando um usuário é removido de um grupo, seus modelos não são compartilhados com esse grupo
    * Quando um usuário é excluído de um grupo, seus modelos transferem a propriedade para o administrador Principal que excluiu o usuário
-
