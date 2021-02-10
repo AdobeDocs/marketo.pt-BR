@@ -3,7 +3,7 @@ unique-page-id: 14746143
 description: Configurações de compartilhamento - Documentos de marketing - Documentação do produto
 title: Configurações de compartilhamento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Quando as Configurações de compartilhamento estiverem ativadas, somente os adm
 
 ## Configure suas configurações de compartilhamento {#configure-your-sharing-settings}
 
-1. Na [aplicação Web](http://toutapp.com/login), vá para a página Definições.
+1. Na [aplicação Web](https://toutapp.com/login), vá para a página Definições.
 
    ![](assets/one-2.png)
 
@@ -58,4 +58,3 @@ Quando as Configurações de compartilhamento estiverem ativadas, somente os adm
 1. Agora que sua equipe foi adicionada, você pode optar por permitir que somente os administradores da equipe compartilhem ou todos os usuários da equipe. Neste exemplo, demos acesso ao compartilhamento de grupos SDR a todos os usuários.
 
    ![](assets/eight-1.png)
-
