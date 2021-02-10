@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: Criar um token de script de e-mail - Documentos do Marketo - Documentação do produto
 title: Criar um token de script de email
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Criar um token de script de email {#create-an-email-script-token}
 
-Para desenvolvedores avançados, você pode usar [scripts Velocity](http://velocity.apache.org/engine/1.7/user-guide.html) em seus emails. Aqui está como fazer isso.
+Para desenvolvedores avançados, você pode usar [scripts Velocity](https://velocity.apache.org/engine/1.7/user-guide.html) em seus emails. Aqui está como fazer isso.
 
 1. Vá para **Atividades de marketing**.
 
@@ -45,17 +45,14 @@ Para desenvolvedores avançados, você pode usar [scripts Velocity](http://veloc
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
    >Se você estiver digitando tokens de forma livre, verifique/ative todos os tokens correspondentes na árvore ou eles serão tratados como texto sem formatação e não funcionarão.
 
 1. Escreva seu script no Velocity. Estes são alguns recursos úteis:
 
-   * [Documentação de scripts de e-mail para desenvolvedores de marketing](http://developers.marketo.com/email-scripting/)
-   * [Guia do usuário Velocity](http://velocity.apache.org/engine/devel/user-guide.html)
-   * [Guia de referência de velocidade](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Velocity Tools Javadoc](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [Documentação de scripts de e-mail para desenvolvedores de marketing](https://developers.marketo.com/email-scripting/)
+   * [Guia do usuário Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [Guia de referência de velocidade](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. Depois que o script for concluído, clique em **Salvar**.
 
@@ -69,9 +66,4 @@ Agora você pode usar este token em seus emails. Ele executará o script sempre 
 
 >[!MORELIKETHIS]
 >
->* [Adicionar um token de script de email ao seu email](add-an-email-script-token-to-your-email.md)
-
->
-
-
-
+>[Adicionar um token de script de email ao seu email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
