@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: Relatório de desempenho do link de email - Documentos do marketing - Documentação do produto
 title: Relatório de desempenho do link de email
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Crie um relatório de Desempenho do link de email para ver o desempenho dos links em seus emails.
 
-1. [Crie um relatório em um ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa e selecione  **Email Link** Performance como o tipo de relatório.
+1. [Crie um relatório em um ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa e selecione  **Email Link** Performance como o tipo de relatório.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -27,7 +27,7 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Defina um período de tempo apropriado para seu relatório. Clique em **Salvar. **
+1. Defina um período de tempo apropriado para seu relatório. Clique em **Salvar**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
@@ -39,7 +39,7 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[As colunas ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) disponíveis para um relatório de Desempenho do link de email incluem:
+[As colunas ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) disponíveis para um relatório de Desempenho do link de email incluem:
 
 <table> 
  <thead> 
@@ -74,20 +74,10 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
 
 >[!TIP]
 >
->Se quiser saber exatamente o que uma pessoa fez, abra o [Log de Atividades](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) na página [Detalhes da pessoa](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) na guia Membros do programa.
+>Se quiser saber exatamente o que uma pessoa fez, abra o [Log de Atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) na página [Detalhes da pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) na guia Membros do programa.
 
 >[!MORELIKETHIS]
 >
->* [Relatório de desempenho de email](email-performance-report.md)
->* [Filtrar ativos em um relatório de email](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
->[!NOTE]
->
->**Mergulho profundo**
->
->Saiba mais sobre [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+>* [Relatório de desempenho de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [Filtrar ativos em um relatório de email](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
