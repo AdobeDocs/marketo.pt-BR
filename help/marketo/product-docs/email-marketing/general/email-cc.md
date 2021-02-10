@@ -3,9 +3,9 @@ unique-page-id: 17727995
 description: Email CC - Documentos do Marketing Cloud - Documentação do produto
 title: Email CC
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 O Email CC permite que emails especificados sejam enviados pelo Marketo para incluir recipient CC.
 
-Este recurso está disponível em todos os ativos de email do Marketing para, independentemente de como o email é enviado (campanha de lote ou acionador). O recipient CC receberá uma cópia exata do e-mail enviado à pessoa selecionada do Marketing Cloud. Dessa forma, qualquer atividade de envolvimento (abre, clica etc.) será registrado no registro de atividades da Pessoa de marketing na linha &quot;Para&quot; do email. No entanto, a atividade do delivery (enviada, entregue, rejeição em disco, etc.) *além de &quot;salto suave&quot;,* não  **** será registrado, pois o Marketo não é capaz de distinguir eventos de delivery para a Pessoa de marketing dos recipient CC. O Marketo só contará com até 100 mil pessoas por vez. Se sua lista inteligente exceder 100 mil e for imperativo que cada pessoa nela tenha CC&#39;d, recomendamos quebrar sua lista.
+Este recurso está disponível em todos os ativos de email do Marketing para, independentemente de como o email é enviado (campanha de lote ou acionador). O recipient CC receberá uma cópia exata do e-mail enviado à pessoa selecionada do Marketing Cloud. Dessa forma, qualquer atividade de envolvimento (abre, clica etc.) será registrado no registro de atividades da Pessoa de marketing na linha &quot;Para&quot; do email. No entanto, a atividade do delivery (enviada, entregue, rejeição em disco, etc.) _além de &quot;salto suave&quot;,_ não  **** será registrado, pois o Marketo não é capaz de distinguir eventos de delivery para a Pessoa de marketing dos recipient CC. O Marketo só contará com até 100 mil pessoas por vez. Se sua lista inteligente exceder 100 mil e for imperativo que cada pessoa nela tenha CC&#39;d, recomendamos quebrar sua lista.
 
 >[!NOTE]
 >
@@ -57,10 +57,11 @@ Este recurso está disponível em todos os ativos de email do Marketing para, in
 
    >[!NOTE]
    >
-   >
    >Se um endereço de email inválido estiver em um campo CC, ele será ignorado.
 
-   Para uma identificação rápida, a visualização Resumo do email mostra se/quais campos de Email CC foram selecionados.  ![](assets/eight.png)
+   Para uma identificação rápida, a visualização Resumo do email mostra se/quais campos de Email CC foram selecionados.
+
+   ![](assets/eight.png)
 
    Se o email for aprovado, mas o Administrador de marketing desativar um ou mais campos CC antes do email ser enviado, **essas pessoas não receberão um email**. Nesse cenário, a visualização Resumo de email cinza todos os campos que foram desativados após a aprovação, mas pré-enviados:
 
@@ -76,9 +77,8 @@ Este recurso está disponível em todos os ativos de email do Marketing para, in
 
 >[!TIP]
 >
->Você tem a opção de [desativar alguns ou todos os links de rastreamento](http://docs.marketo.com/x/IwAd) em um email.
+>Você tem a opção de [desativar alguns ou todos os links de rastreamento](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) em um email.
 
 * Depois que uma campanha de email é executada, a atividade Enviar email incluirá uma lista de todos os endereços CC que foram incluídos para cada recipient do correio. Se algum endereço CC foi ignorado devido ao cancelamento da inscrição, ele também será anotado na atividade.
 * Os links e páginas de cancelamento de assinatura funcionam normalmente em emails CC&#39;d. Isso permite que os recipient da CC cancelem a assinatura com êxito se desejarem (em conformidade com as regulamentações antisspam), e um registro dessa ação será armazenado no Banco de Dados do Marketing.
 * As pessoas listadas como não assinadas no seu Banco de Dados do Marketo **e não** receberão emails via CC.
-
