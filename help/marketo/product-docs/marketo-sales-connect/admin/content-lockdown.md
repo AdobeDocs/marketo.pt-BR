@@ -3,7 +3,7 @@ unique-page-id: 37355755
 description: Bloqueio de conteúdo - Documentos de marketing - Documentação do produto
 title: Bloqueio de conteúdo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -27,7 +27,6 @@ Ao ativar o bloqueio de conteúdo, restrinja usuários não administradores à e
 
    ![](assets/two-4.png)
 
-1. Role para baixo até Content Lockdown (Bloqueio de conteúdo). A ativação de qualquer controle deslizante *disable* a capacidade dos membros da equipe de criar/editar modelos e/ou campanhas.
+1. Role para baixo até Content Lockdown (Bloqueio de conteúdo). A ativação de qualquer controle deslizante _disable_ a capacidade dos membros da equipe de criar/editar modelos e/ou campanhas.
 
    ![](assets/three-4.png)
-
