@@ -3,7 +3,7 @@ unique-page-id: 1900560
 description: Adicionar uma Visualização como link de página da Web a um email - Documentos do Marketing - Documentação do produto
 title: Adicionar uma Visualização como link de página da Web a um email
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -39,4 +39,4 @@ Aqui está um exemplo de como ele se parece:
 >
 >Você não verá a Visualização como um link de Página da Web até enviar o email. Envie um teste para a visualizações.
 
-Para alterar o texto padrão, consulte [Editar a mensagem &quot;Visualização como página da Web&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Para alterar o texto padrão, consulte [Editar a mensagem &quot;Visualização como página da Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
