@@ -3,9 +3,9 @@ unique-page-id: 14352404
 description: Guia Configurações administrativas - Documentos do marketing - Documentação do produto
 title: Guia Configurações do administrador
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ A guia Configurações do administrador permitirá que o administrador em qualqu
 
 Se você marcar a caixa de seleção **Substituir todas as configurações de sincronização do Salesforce para minha equipe**, você verá a opção de permitir somente o registro via BCC ou somente por API.
 
-Se você escolher **Log de API**, todas as configurações serão selecionadas para Oportunidades, Clientes potenciais, Contatos `will be set for the entire team after you click **Save Changes**.`
+Se você escolher **Registro de API**, todas as configurações selecionadas para Oportunidades, Clientes potenciais, Contatos serão definidas para toda a equipe depois que você clicar em **Salvar alterações**.
 
 Daqui, você também poderá ativar em massa Oportunidades e Sincronização de Tarefas em toda a equipe.
 
@@ -25,12 +25,14 @@ Daqui, você também poderá ativar em massa Oportunidades e Sincronização de 
 >
 >A habilitação em massa dessas configurações usará um grande número de chamadas de API nas configurações do Salesforce da sua equipe.
 
-1 - Habilitar &quot;Definir as configurações da minha equipe&quot;
+1. Ative &quot;Definir as configurações da minha equipe&quot;.
 
-2 - Ativar configurações de sincronização em todo o grupo
+1. Ativar configurações de sincronização em todo o grupo.
 
-3 - Configure como você gostaria que sua atividade de email e a atividade MSE mais recente fossem registradas no SFDC
+1. Configure como você gostaria que sua atividade de email e a atividade MSE mais recente fossem registradas no SFDC.
 
-4 - A opção &quot;Sincronizar Tarefas do Connect Sales&quot; é opcional
+1. Habilitar &quot;Sincronizar Tarefas do Connect Sales&quot; é opcional.
 
-(nota: O MSE permite que você pule o tarefa enquanto o SFDC não o faz - portanto, você precisa decidir como o SFDC lida com a tarefa que pulou)
+>[!NOTE]
+>
+>O MSC permite que você pule tarefas enquanto o SFDC não o faz - então você tem que decidir como o SFDC lida com a tarefa que pulou.
