@@ -3,7 +3,7 @@ unique-page-id: 11373011
 description: Transição para o Editor de e-mail 2.0 - Documentos do Marketing - Documentação do produto
 title: Transição para o Editor de email 2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Transição para o Editor de email 2.0 {#transitioning-to-email-editor}
 
-A partir da versão de [junho de &#39;19](../../../../release-notes/2016/release-notes-spring-16.md), todas as subscrições de marketing foram transferidas para o Editor de email 2.0. [Saiba mais](https://nation.marketo.com/docs/DOC-7038) sobre a desaprovação do Editor de email 1.0.
+A partir da versão de [junho de &#39;19](/help/marketo/release-notes/2016/release-notes-spring-16.md), todas as subscrições de marketing foram transferidas para o Editor de email 2.0. [Saiba mais](https://nation.marketo.com/docs/DOC-7038) sobre a desaprovação do Editor de email 1.0.
 
 Os e-mails e modelos de e-mail na sua subscrição devem ter um número de versão. A versão pode ser encontrada na página de resumo do ativo.
 
@@ -27,13 +27,13 @@ Por padrão, todos os seus e-mails e modelos de e-mail existentes serão marcado
 Se sua subscrição tiver emails v1.0 antes da mudança para o Editor de email 2.0, você experimentará o seguinte comportamento com base no estado atual do ativo:
 
 **Aprovado**  - Clicar em &quot;Editar rascunho&quot; criará um rascunho v2.0 do email aprovado. Se você aprovar o rascunho v2.0, o estado aprovado do email se torna v2.0 e não há como reverter para v1.0.\
-**Rascunho**  - clicar em &quot;Editar rascunho&quot; marcará automaticamente esse rascunho como v2.0. Nesse ponto, não será possível descartar e reverter para v1.0 porque não há uma versão aprovada do ativo.\
+**Rascunho**  - clicar em &quot;Editar rascunho&quot; marcará automaticamente esse rascunho como v2.0. Nesse ponto, não será possível descartar e reverter para v1.0 porque não há uma versão aprovada do ativo.
 **Aprovado com Rascunho**  - Clicar em &quot;Editar rascunho&quot; marcará automaticamente esse rascunho como v2.0. Por isso, também não há como reverter o rascunho de volta para v1.0.
 
 Se sua subscrição tiver modelos de e-mail v1.0 antes de mover para o Editor de e-mail 2.0, você experimentará o seguinte comportamento:
 
-**Aprovado**  - Clicar em &quot;Editar rascunho&quot; criará um rascunho v2.0 do modelo de email existente.\
-**Rascunho**  - clicar em &quot;Editar rascunho&quot; marcará automaticamente esse rascunho como v2.0. Nesse ponto, não seria possível descartar e reverter para v1.0 porque não há uma versão aprovada do ativo.\
+**Aprovado**  - Clicar em &quot;Editar rascunho&quot; criará um rascunho v2.0 do modelo de email existente.
+**Rascunho**  - clicar em &quot;Editar rascunho&quot; marcará automaticamente esse rascunho como v2.0. Nesse ponto, não seria possível descartar e reverter para v1.0 porque não há uma versão aprovada do ativo.
 **Aprovado com Rascunho**  - Clicar em &quot;Editar rascunho&quot; marcará automaticamente esse rascunho como v2.0. Por isso, também não há como reverter o rascunho de volta para v1.0.
 
 Se você aprovar um modelo de e-mail que era anterior à v1.0 (em qualquer um dos estados acima), você verá o seguinte comportamento:
@@ -62,10 +62,6 @@ Observações
 
 >[!MORELIKETHIS]
 >
->* [Visão geral do Editor de email 2.0](email-editor-v2-0-overview.md)
->* [Sintaxe do modelo de email](email-template-syntax.md)
-
->
-
-
+>* [Visão geral do Editor de email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [Sintaxe do modelo de email](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 
