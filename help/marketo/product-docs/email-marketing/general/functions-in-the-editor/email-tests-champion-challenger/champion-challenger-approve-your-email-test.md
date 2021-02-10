@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Campeão/Desafiador - Aprovar seu teste de e-mail - Documentos do Marketing - Documentação do produto
 title: Campeão/Desafiador - Aprove seu teste de e-mail
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ A etapa final para configurar seu teste de email para aprová-lo. Veja como.
 
 >[!PREREQUISITES]
 >
->* [Campeão/Desafiador: Configurar Alertas de Relatório](champion-challenger-configure-report-alerts.md)
-
->
-
-
+>[Campeão/Desafiador: Configurar Alertas de Relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
 1. Vá para **Atividades de marketing**.
 
@@ -33,10 +29,7 @@ A etapa final para configurar seu teste de email para aprová-lo. Veja como.
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
-   >Ao aprovar um **Email Inteiro****** teste, aprove o email do desafiante primeiro.
+   >Ao aprovar um teste de **Email Inteiro**, aprove o email do desafiante primeiro.
 
    >[!NOTE]
    >
@@ -46,10 +39,6 @@ A etapa final para configurar seu teste de email para aprová-lo. Veja como.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campeão/Desafiador: Declarar um campeão](champion-challenger-declare-a-champion.md)
-   >    * [Campeão/Desafiador: Descartar um teste de email](champion-challenger-discard-an-email-test.md)
-
+   >* [Campeão/Desafiador: Declarar um campeão](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [Campeão/Desafiador: Descartar um teste de email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
 
