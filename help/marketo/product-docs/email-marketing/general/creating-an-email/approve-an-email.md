@@ -3,7 +3,7 @@ unique-page-id: 1147342
 description: Aprovar um email - Documentos do Marketing - Documentação do produto
 title: Aprovar um email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -19,8 +19,7 @@ Emails de start no estado de rascunho. Eles geralmente ficam indisponíveis no s
 
 1. Localize e selecione seu email, clique no menu suspenso **Ações de email** e selecione **Aprovar**.
 
-   ` ![](assets/one.png)  
-`
+   ![](assets/one.png)
 
 ## Aprove-o diretamente na árvore {#approve-it-directly-in-the-tree}
 
