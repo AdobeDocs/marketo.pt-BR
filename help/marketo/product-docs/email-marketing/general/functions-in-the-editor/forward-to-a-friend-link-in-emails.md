@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Encaminhar para um link de amigo em emails - Documentos de marketing - Documentação do produto
 title: Encaminhar para um link de amigo em emails
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,10 @@ Por exemplo, digamos que Keith use o link &quot;Encaminhar para o amigo&quot; pa
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
    >Lembre-se de aprovar o rascunho do modelo para aplicar as alterações.
 
    Agora todos os emails que usam esse modelo terão o link &#39;Encaminhar para o amigo&#39;. Quando o recipient de email clicar nele, eles serão direcionados para uma versão da Web do email com a caixa &quot;Encaminhar para um amigo&quot;:
+
    ![](assets/f2afbox.png)
 
 ## Adicionar o link a um email individual {#add-the-link-to-an-individual-email}
@@ -85,7 +84,7 @@ Você também pode adicionar o link &quot;Encaminhar para o amigo&quot; diretame
 
    ![](assets/eight-1.png)
 
-1. Cole o token **`{{system.forwardToFriendLink}}`** na caixa **URL** usando Ctrl/Cmd+V e clique em** Inserir**.
+1. Cole o token **`{{system.forwardToFriendLink}}`** na caixa **URL** usando Ctrl/Cmd+V e clique em **Inserir**.
 
    ![](assets/nine.png)
 
@@ -117,15 +116,13 @@ Você pode ver quem encaminhou e recebeu os emails no Registro de Atividades da 
    >
    >**Definição**
    >
-   >
    >Para email de encaminhamento recebido para amigo, a ID de pessoa é a pessoa que encaminhou o email.
-   >
    >
    >Para Enviado para email de amigo, a ID de pessoa é a pessoa que recebeu o email.
 
    ![](assets/sixteen.png)
 
-1. Para visualização de uma pessoa por ID, copie e cole a ID de pessoa**** até o final do URL (o início desse URL dependerá da sua instância de marketing):
+1. Para visualização de uma pessoa por ID, copie e cole a **ID da pessoa** até o final do URL (o início dessa URL dependerá da sua instância de Marketo):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
@@ -137,7 +134,7 @@ Você pode ver quem encaminhou e recebeu os emails no Registro de Atividades da 
 
    >[!NOTE]
    >
-   >Se o amigo que recebe o encaminhamento for uma pessoa desconhecida, uma nova pessoa será criada com a opção &quot;Encaminhar para o Amigo&quot; marcada como a **Fonte** da pessoa.\
+   >Se o amigo que recebe o encaminhamento for uma pessoa desconhecida, uma nova pessoa será criada com a opção &quot;Encaminhar para o Amigo&quot; marcada como a **Fonte** da pessoa.
    >Se o e-mail for um ativo local de um programa, o programa será marcado como o **Programa de aquisição** da pessoa.
 
 ## Acionar ou filtrar usando a Atividade de encaminhamento {#trigger-or-filter-using-forwarding-activity}
