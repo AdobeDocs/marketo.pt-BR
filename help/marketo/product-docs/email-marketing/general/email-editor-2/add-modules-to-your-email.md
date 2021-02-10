@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: Adicionar módulos ao seu email - Documentos do Marketing - Documentação do produto
 title: Adicionar módulos ao seu email
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ No Editor de e-mail 2.0, um módulo é uma seção do seu e-mail que é definida
 
    >[!NOTE]
    >
-   >A maioria dos modelos iniciais de marketing contém módulos. Você também pode [criar seu próprio](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules).
+   >A maioria dos modelos iniciais de marketing contém módulos. Você também pode [criar seu próprio](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
 1. Na extremidade direita do email, clique em **Módulos**.
 
@@ -67,5 +67,4 @@ Isso é tudo o que há a fazer.
 
 >[!MORELIKETHIS]
 >
->[Sintaxe do modelo de email](email-template-syntax.md)
-
+>[Sintaxe do modelo de email](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
