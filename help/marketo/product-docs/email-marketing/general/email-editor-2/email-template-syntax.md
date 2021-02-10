@@ -3,9 +3,9 @@ unique-page-id: 11371040
 description: Sintaxe do modelo de email - Documentos do marketing - Documentação do produto
 title: Sintaxe do modelo de email
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2395'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Os elementos são regiões de conteúdo que você define como editável no seu m
 
 ## Rich Text {#rich-text}
 
-Se você definir uma região como Rich Text, os usuários poderão editar seu conteúdo [usando o Editor de Rich Text do Marketo](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Há duas maneiras de definir um elemento Rich Text dentro de um modelo de email: mktEditable e mktoText. Lembre-se de que um elemento Rich Text sempre pode ser convertido em um fragmento no editor de email.
+Se você definir uma região como Rich Text, os usuários poderão editar seu conteúdo [usando o Editor de Rich Text do Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Há duas maneiras de definir um elemento Rich Text dentro de um modelo de email: mktEditable e mktoText. Lembre-se de que um elemento Rich Text sempre pode ser convertido em um fragmento no editor de email.
 
 ### Opção 1 - mktEditable {#option-mkteditable}
 
@@ -81,7 +81,7 @@ Exemplo:
 
 Você tem duas opções para definir elementos de Imagem editáveis. Você pode usar `<div>`, que especifica um container no qual `<img>` será inserido, ou uma tag `<img>`. Se você pretende que o usuário final simplesmente escolha uma imagem que retorne o URL da imagem (em vez do DOM), consulte &quot;variáveis de imagem&quot; na seção abaixo. As duas opções a seguir inserirão um elemento HTML `<img>`.
 
-### Opção 1 - Use um \&lt;div\> {#option-use-a-div}
+### Opção 1 - Use um `<div>` {#option-use-a-div}
 
 Atributos necessários
 
@@ -128,7 +128,7 @@ Exemplo:
 
 ## Trechos {#snippets}
 
-Se você definir uma região como um Snippet, os usuários finais poderão escolher o [Snippet](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)que eles desejam inserir nessa região. Embora os elementos Rich Text possam ser convertidos em Snippets no editor de email, quando você define uma região especificamente como um Snippet, ele não pode ser convertido em Rich Text. Você pode especificar uma região Snippet usando um `<div>` com class=&quot;mktoSnippet&quot;
+Se você definir uma região como um Snippet, os usuários finais poderão escolher o [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)que eles desejam inserir nessa região. Embora os elementos Rich Text possam ser convertidos em Snippets no editor de email, quando você define uma região especificamente como um Snippet, ele não pode ser convertido em Rich Text. Você pode especificar uma região Snippet usando um `<div>` com class=&quot;mktoSnippet&quot;
 
 Atributos necessários
 
@@ -351,8 +351,6 @@ Atributos opcionais
 * **mktoAddByDefault:** Determina se este módulo estará na tela de um novo e-mail que usa este modelo após a criação. O padrão é true (se mktoActive for false, esse valor será ignorado).
 
 >[!NOTE]
->
->**Lembrete**
 >
 >Os valores de classe que contêm a sintaxe Marketo (ou seja, mktoModule, mktoContainer, mktoText) fazem distinção entre maiúsculas e minúsculas. Os nomes de atributos personalizados (ou seja, mktoimgwidth, mktoname) não são.
 
