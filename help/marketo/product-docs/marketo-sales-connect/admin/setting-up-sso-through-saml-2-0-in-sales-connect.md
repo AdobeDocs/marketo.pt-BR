@@ -3,9 +3,9 @@ unique-page-id: 14352405
 description: Configurando SSO por meio do SAML 2.0 no Sales Connect - Documentos do Marketing - Documentação do produto
 title: Configurando SSO por meio do SAML 2.0 no Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ ht-degree: 0%
 Oferecemos suporte ao SSO através da especificação SAML 2.0. No entanto, não temos integrações diretas com nenhum provedor no momento. Precisaremos coletar algumas informações do seu provedor SSO para obter essa configuração.
 
 >[!NOTE]
->
->**Lembrete**
 >
 >Isso só se aplica aos clientes **Marketing to Sales Connect**. Se você não tiver o Sales Connect, mas quiser saber mais, entre em contato com seu Gerente de sucesso do cliente.
 
@@ -31,7 +29,7 @@ Oferecemos suporte ao SSO através da especificação SAML 2.0. No entanto, não
 
 O arquivo metadata.xml da instância SSO da sua equipe deve conter o URL do emissor, o terminal para validação e uma chave pública.
 
-Também será necessário que a Localização SSO da sua conta SSO do empresa seja um domínio exclusivo. Por exemplo, nós `require a unique subdomain` gostamos de &quot;toutapp.pingidentity.com&quot; ou similar. Sem esse tipo de identificador exclusivo, não será possível configurar o SAML a partir do painel.
+Também será necessário que a Localização SSO da sua conta SSO do empresa seja um domínio exclusivo. Por exemplo, precisamos de um subdomínio exclusivo como `toutapp.pingidentity.com` ou similar. Sem esse tipo de identificador exclusivo, não será possível configurar o SAML a partir do painel.
 
 Um logon e o Okta nem sempre fornecem identificadores únicos ao atribuir um URL. Se você estiver usando Okta ou One Login, isso significa que não poderemos configurar um logon a partir do botão painel. Ainda assim, poderemos configurá-lo a partir do botão Logon único no [aplicativo Web](http://toutapp.com/login).
 
