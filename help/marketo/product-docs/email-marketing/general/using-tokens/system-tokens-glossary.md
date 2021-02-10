@@ -3,7 +3,7 @@ unique-page-id: 1147344
 description: Glossário de tokens do sistema - Documentos do comerciante - Documentação do produto
 title: Glossário de tokens do sistema
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -25,9 +25,9 @@ O token `{{system.date}}` renderizará a data atual no tempo de execução da se
 
 **Funciona em:**
 
-* [Etapa de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) fluxo de valor dos dados de alteração
-* [Interessante etapa ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) do Momentflow
-* [Etapa Criar ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) fluxo de tarefas
+* [Etapa de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) fluxo de valor dos dados de alteração
+* [Interessante etapa ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) do Momentflow
+* [Etapa Criar ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) fluxo de tarefas
 * O corpo de um email ou modelo
 
 ## system.time {#system-time}
@@ -36,9 +36,9 @@ O token `{{system.time}}` renderizará a hora atual no tempo de execução da se
 
 **Funciona em:**
 
-* [Etapa de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) fluxo de valor dos dados de alteração
-* [Interessante etapa ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) do Momentflow
-* [Etapa Criar ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) fluxo de tarefas
+* [Etapa de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) fluxo de valor dos dados de alteração
+* [Interessante etapa ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) do Momentflow
+* [Etapa Criar ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) fluxo de tarefas
 * O corpo de um email ou modelo
 
 ## system.dateTime {#system-datetime}
@@ -47,18 +47,18 @@ O token `{{system.dateTime}}` renderizará a data e a hora atuais no tempo de ex
 
 **Funciona em:**
 
-* [Etapa de ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) fluxo de valor dos dados de alteração
-* [Interessante etapa ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) do Momentflow
-* [Etapa Criar ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) fluxo de tarefas
+* [Etapa de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) fluxo de valor dos dados de alteração
+* [Interessante etapa ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) do Momentflow
+* [Etapa Criar ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) fluxo de tarefas
 * O corpo de um email ou modelo
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-O token `{{system.forwardToFriendLink}}` permite controlar a colocação do [&#39;Encaminhar para um link de amigo&#39; em Emails](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
+O token `{{system.forwardToFriendLink}}` permite controlar a colocação do [&#39;Encaminhar para um link de amigo&#39; em Emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
 
 **Funciona em:**
 
-* [Adicionar um token do sistema como um link em um modelo de ](add-a-system-token-as-a-link-in-an-email.md) email
+* [Adicionar um token do sistema como um link em um modelo de ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) email
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
@@ -66,7 +66,7 @@ O token `{{system.unsubscribLink}}` permite controlar a colocação do link para
 
 **Funciona em:**
 
-* [Adicionar um token do sistema como um link em um modelo de ](add-a-system-token-as-a-link-in-an-email.md) email
+* [Adicionar um token do sistema como um link em um modelo de ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) email
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
@@ -74,4 +74,4 @@ O token `{{system.viewAsWebpageLink}}` permite controlar a colocação da Visual
 
 **Funciona com:**
 
-* [Adicionar um token do sistema como um link em um modelo de ](add-a-system-token-as-a-link-in-an-email.md) email
+* [Adicionar um token do sistema como um link em um modelo de ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) email
