@@ -3,7 +3,7 @@ unique-page-id: 10912163
 description: Criar um e-mail - Documentos do Marketing - Documentação do produto
 title: Criar um email
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -67,4 +67,4 @@ Seu e-mail agora é criado, então edite-o!
 
 >[!MORELIKETHIS]
 >
->[Editar seu cabeçalho de email](edit-your-email-header.md)
+>[Editar seu cabeçalho de email](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
