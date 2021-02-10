@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Enviar um exemplo de e-mail - Documentos do Marketing - Documentação do produto
 title: Enviar um e-mail de amostra
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Enviar um exemplo de e-mail {#send-a-sample-email}
 
-É rápido e fácil enviar amostras de um email. Para enviar um email de conteúdo dinâmico, consulte [Pré-visualização um email com conteúdo dinâmico](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+É rápido e fácil enviar amostras de um email. Para enviar um email de conteúdo dinâmico, consulte [Pré-visualização um email com conteúdo dinâmico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
@@ -33,9 +33,6 @@ ht-degree: 0%
    ![](assets/two.png)
 
    >[!NOTE]
-   >
-   >**Lembrete**
-   >
    >
    >Para inserir vários endereços de email, use vírgulas para separá-los.
 
@@ -59,13 +56,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >O campo de disparo só é aplicável para aqueles que utilizam [scripts de e-mail](http://developers.marketo.com/documentation/velocity-script/).
+   >O campo de disparo só é aplicável para aqueles que utilizam [scripts de e-mail](https://developers.marketo.com/documentation/velocity-script/).
 
 ## Enviar um email de amostra com base em um segmento {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Aplique segmentação ao seu email](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
+>[Aplique segmentação ao seu email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
 1. Localize seu email, selecione-o e clique na guia **Editar rascunho**.
 
