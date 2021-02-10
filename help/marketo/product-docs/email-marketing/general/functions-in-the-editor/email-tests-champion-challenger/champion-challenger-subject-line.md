@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger - Linha de assunto - Documentos do marketing - Documentação do produto
 title: Campeão/Desafiador - Linha de assunto
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Adicionar um campeão/desafiador de e-mail](add-an-email-champion-challenger.md)
+>[Adicionar um campeão/desafiador de e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. No editor de teste de email, selecione **Linha do assunto** no menu suspenso **Tipo de teste **I.
+1. No editor de teste de email, selecione **Linha do assunto** no menu suspenso **Tipo de teste**.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
@@ -47,10 +43,9 @@ ht-degree: 0%
    >
    >**Exemplo**
    >
-   >
    >Na distribuição mostrada acima, 10% da audiência total especificada na lista inteligente recebe um dos emails com a linha de assunto desafiante e 90% recebem emails com a linha de assunto campeã. Emails com várias linhas de assunto desafiadoras compartilham os 10% igualmente. Quando o teste terminar, você pode declarar um vencedor manualmente. A partir daí, todas as pessoas futuras receberão o conteúdo com melhor desempenho.
 
-   Para ganhar confiança estatística, verifique se a porcentagem escolhida inclui pessoas suficientes, para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos.  [Mais informação do que você já quis sobre confiança](http://en.wikipedia.org/wiki/Confidence_interval) estatística.
+   Para ganhar confiança estatística, verifique se a porcentagem escolhida inclui pessoas suficientes, para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos. [Mais informação do que você já quis sobre confiança](http://en.wikipedia.org/wiki/Confidence_interval) estatística.
 
 1. Clique em **Próximo**.
 
@@ -60,7 +55,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Campeão/Desafiador: Definir critérios de campeão](champion-challenger-define-champion-criteria.md)
-
+   >[Campeão/Desafiador: Definir critérios de campeão](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
