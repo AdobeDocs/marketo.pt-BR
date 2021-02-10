@@ -3,7 +3,7 @@ unique-page-id: 2359453
 description: Editar seu cabeçalho de e-mail - Documentos do Marketing - Documentação do produto
 title: Editar seu cabeçalho de email
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -50,5 +50,4 @@ Se você ultrapassar 50 caracteres, o contador ficará vermelho para alertá-lo.
 
 >[!MORELIKETHIS]
 >
->* [Visão geral do Editor de email v2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
-
+>[Visão geral do Editor de email v2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
