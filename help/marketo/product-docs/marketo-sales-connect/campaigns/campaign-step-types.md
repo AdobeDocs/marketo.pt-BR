@@ -3,9 +3,9 @@ unique-page-id: 14746690
 description: Tipos de etapas de campanha - Documentos do Marketing - Documentação do produto
 title: Tipos de etapas de campanha
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Componha um novo email ou use um modelo pré-existente.
 
 >[!TIP]
 >
->Saiba mais detalhes sobre suas [opções de envio](http://docs.marketo.com/x/7QDb).
+>Saiba mais detalhes sobre suas [opções de envio](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Chamar {#call}
 
@@ -50,4 +50,3 @@ O acompanhamento de vários canais é uma excelente maneira de se conectar com c
 Utilize tarefas personalizadas quando as opções acima não forem aplicáveis. Por exemplo, você pode convidar um colega para acompanhar um cliente potencial por email.
 
 ![](assets/custom.png)
-
