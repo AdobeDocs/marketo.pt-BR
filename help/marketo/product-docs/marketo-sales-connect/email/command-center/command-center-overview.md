@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: Visão geral do centro de comando - Documentos do marketing - Documentação do produto
 title: Visão geral do centro de comando
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -94,11 +94,7 @@ Bônus: Se você salvar sua pesquisa avançada, ela funcionará como uma lista d
 
 >[!MORELIKETHIS]
 >
->* [Tarefas](http://docs.marketo.com/x/qwDb)
->* [Visão geral da pesquisa avançada](http://docs.marketo.com/x/KQM6Ag)
->* [Composição de emails em massa com Selecionar e Enviar](http://docs.marketo.com/x/IgQ6Ag)
-
->
-
-
+>* [Tarefas](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [Visão geral da pesquisa avançada](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [Composição de emails em massa com Selecionar e Enviar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
 
