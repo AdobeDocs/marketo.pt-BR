@@ -3,9 +3,9 @@ unique-page-id: 37357306
 description: Uso de ações rápidas para acelerar seu fluxo de trabalho - Documentos do Marketing - Documentação do produto
 title: Uso de ações rápidas para acelerar seu fluxo de trabalho
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ As ações rápidas por email são dinâmicas e atualizadas dependendo das açõ
 
 **Entregue**
 
-| Arquivo | Adicionará o email à pasta arquivada e interromperá todas as visualizações desativadas e clique no rastreamento do email. |
+| Status | Descrição |
 |---|---|
+| Arquivo | Adicionará o email à pasta arquivada e interromperá todas as visualizações desativadas e clique no rastreamento do email. |
 | Sucesso | Marcará o email como bem-sucedido para ser relatado na análise de modelo. |
 
 **Arquivado**
@@ -84,13 +85,11 @@ As ações rápidas por email são dinâmicas e atualizadas dependendo das açõ
 
 **Ações de acompanhamento**
 
-** ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
+![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-**
-
-| Enviar email de acompanhamento | Abre a janela de composição com o corpo de e-mail em linha selecionado anexado e pronto para ser enviado ao recipient. |
+| Função | Descrição |
 |---|---|
+| Enviar email de acompanhamento | Abre a janela de composição com o corpo de e-mail em linha selecionado anexado e pronto para ser enviado ao recipient. |
 | Efetuar chamada | Abre o telefone comercial para fazer uma chamada para o recipient de email. |
 | Enviar InMail | Redireciona para o LinkedIn para enviar uma mensagem do InMail à pessoa. |
 | Criar Tarefa | Abre o pop-up Criar tarefa para criar uma tarefa de lembrete. |
-
