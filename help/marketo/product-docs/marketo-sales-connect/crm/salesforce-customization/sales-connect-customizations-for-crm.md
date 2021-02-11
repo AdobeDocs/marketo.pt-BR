@@ -3,9 +3,9 @@ unique-page-id: 14745793
 description: Personalizações do Sales Connect para CRM - Documentos do Marketing - Documentação do produto
 title: Personalizações do Sales Connect para CRM
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '626'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personalizações do Sales Connect para CRM {#sales-connect-customizations-for-crm}
 
-Os campos e botões abaixo são criados pela API Metadados no Salesforce CRM. Depois que os campos são criados, os administradores devem configurar os layouts de página em seu CRM para expô-los. As instruções podem ser encontradas [aqui](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
+Os campos e botões abaixo são criados pela API Metadados no Salesforce CRM. Depois que os campos são criados, os administradores devem configurar os layouts de página em seu CRM para expô-los. As instruções podem ser encontradas [aqui](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
 
 >[!NOTE]
 >
@@ -134,14 +134,8 @@ O Marketo detectará a criação dos novos campos e, em seguida, fará um preenc
 
 ## Guias do usuário {#user-guides}
 
-[Relatórios personalizados do MSE no Salesforce](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Relatórios personalizados do MSE no Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[MSE para Salesforce](http://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[MSE para Salesforce](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[MSE for Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
-
-## Vídeos relacionados {#related-videos}
-
-**Como instalar personalizações no Salesforce**
-`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** A vantagem de usar personalizações no Salesforce** 
-`<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+[MSE for Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
