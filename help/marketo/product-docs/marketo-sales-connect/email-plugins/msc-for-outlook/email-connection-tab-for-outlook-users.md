@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Guia Conexão de email para usuários do Outlook - Documentos do Marketing - Documentação do produto
 title: Guia Conexão de email para usuários do Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Conectar-se ao Outlook significa que você receberá o rastreamento de respostas
 
    ![](assets/nine-a.png)
 
-   Você pode usar essa conexão para rastrear emails e também [como um canal delivery](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
+   Você pode usar essa conexão para rastrear e-mails e também como um canal de delivery.
 
    >[!NOTE]
    >
@@ -97,8 +97,9 @@ Conectar-se ao Exchange no local significa que você receberá o rastreamento de
 
    ![](assets/six-b.png)
 
-   | **Outlook Online** | Também conhecido como Office Online |
+   | Versão | Descrição |
    |---|---|
+   | **Outlook Online** | Também conhecido como Office Online |
    | **Exchange no local** | Inclui o Exchange 2013 e 2016 |
 
 1. Digite suas credenciais e clique em **Connect**.
@@ -109,10 +110,8 @@ Conectar-se ao Exchange no local significa que você receberá o rastreamento de
    >
    >Se você desativar o Autodiscover no menu suspenso Versão do Exchange, precisará solicitar ao departamento de TI o URL do Exchange.
 
-   [como canal delivery](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)
+   Você pode usar essa conexão para rastrear e-mails e também como um canal de delivery.
 
    >[!NOTE]
    >
    >Ao usar o Outlook como canal de delivery, não é possível enviar mais de 300 emails em massa de cada vez.
-
-Você pode usar essa conexão para rastrear e-mails e também .
