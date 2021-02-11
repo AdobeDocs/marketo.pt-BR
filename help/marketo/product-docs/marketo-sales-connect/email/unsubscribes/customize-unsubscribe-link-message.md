@@ -3,9 +3,9 @@ unique-page-id: 14746186
 description: Personalizar a mensagem de link de cancelamento de assinatura - Documentos do Marketing - Documentação do produto
 title: Personalizar mensagem de link de cancelamento de assinatura
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Sempre permitimos que as equipes personalizassem suas mensagens de link para can
 
 ## Personalizar mensagens para si mesmo {#customize-messaging-for-yourself}
 
-1. Faça logon no [aplicativo da Web](http://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo da Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ Sempre permitimos que as equipes personalizassem suas mensagens de link para can
 
 ## Defina as mensagens de cancelamento de assinatura para sua equipe {#set-unsubscribe-messaging-for-your-team}
 
-1. Faça logon no [aplicativo da Web](http://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo da Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
    ![](assets/six.png)
 
@@ -62,4 +62,3 @@ Sempre permitimos que as equipes personalizassem suas mensagens de link para can
 1. Selecione **Estou configurando as mensagens padrão para minha equipe** para que as mensagens se apliquem a todos os usuários.
 
    ![](assets/eleven.png)
-
