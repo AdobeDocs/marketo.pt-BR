@@ -3,7 +3,7 @@ unique-page-id: 18317367
 description: Lista do Visualização Campanha como outro usuário - Documentos do Marketing - Documentação do produto
 title: Visualização Campanha Lista como outro usuário
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Como administrador, você pode visualização campanhas como qualquer usuário.
    >[!NOTE]
    >
    >Você também pode usar filtros ou a função de pesquisa junto com a Visualização Quanto à visualização do que é mais relevante para você.
-
