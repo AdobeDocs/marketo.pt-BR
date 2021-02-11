@@ -3,7 +3,7 @@ unique-page-id: 14352464
 description: Painéis de relatórios no Salesforce - Documentos do Marketing - Documentação do produto
 title: Painéis relatórios no Salesforce
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
@@ -23,21 +23,20 @@ Saiba como configurar painéis abaixo.
 1. Selecione o formato de relatório **Resumo**.
 1. Adicione ao relatório os campos Assunto, Atribuído e Vendas de marketing Clicadas/Vendas de marketing visualizadas.
 1. Clique com o duplo em **Adicionar Fórmula** no painel Campos.
-1. Adicione um nome à fórmula, selecione **Porcentagem **no formato e selecione** Agrupamento 1 *.***
-1. Selecione **Vendas do Marketing Clicadas/Vendas do Marketing Visualizadas,** em seguida **Soma** nos Campos de resumo.
-1. Adicione um sinal de divisão à fórmula e selecione **Contagem de registros** nos campos Resumo - *Salvar como*.
+1. Adicione um nome à fórmula, selecione **Porcentagem** no formato e selecione **Agrupamento 1**.
+1. Selecione **Vendas do Marketing Click/Marketing para Vendas Visualizadas,** em seguida **Soma** nos Campos de resumo.
+1. Adicione um sinal de divisão à fórmula e selecione **Contagem de registros** nos campos Resumo - _Salvar como_.
 
 ## Relatório de desempenho de modelo {#template-performance-report}
 
-1. Personalize o relatório Abrir e Clicar para incluir os seguintes campos - *Salvar como.*
+1. Personalize o relatório Abrir e Clicar para incluir os seguintes campos - _Salvar como_.
 
 ## Relatório de volume de modelo {#template-volume-report}
 
 1. Modifique o Relatório de Desempenho do Modelo e inclua o filtro, &quot;Modelo de Vendas de Marketing não igual a em branco&quot;.
-1. Remova o campo Marketo Sales Clicked (Cliquado no setor de vendas do Marketo) - *Salvar como*.
+1. Remova o campo Marketo Sales Clicked (Cliquado no setor de vendas do Marketo) - _Salvar como_.
 
 ## Relatório de contas de tendência {#trending-accounts-report}
 
 1. Selecione o tipo de registro Atividades com contas.
-1. Configure os parâmetros e campos do relatório conforme indicado abaixo - *Salvar como.
-
+1. Configure os parâmetros e campos do relatório conforme indicado abaixo - _Salvar como_.
