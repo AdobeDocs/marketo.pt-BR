@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: Envio de emails por email do grupo - Documentos do marketing - Documentação do produto
 title: Envio de emails por email do grupo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,8 @@ Veja como enviar/editar emails usando a opção Agrupar email.
 
 ## Editando um email de grupo {#editing-a-group-email}
 
-1. Crie um email de grupo usando [Etapas 1-3 acima](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Crie um email de grupo usando [Etapas 1-3 acima](#sending-a-group-email).
+
 1. Escolha um modelo ou preencha seu e-mail.
 
    ![](assets/edit-two.png)
@@ -58,11 +59,6 @@ Veja como enviar/editar emails usando a opção Agrupar email.
 
 >[!MORELIKETHIS]
 >
->* [Opções de envio em massa](http://docs.marketo.com/x/HwQ6Ag)
->* [Uso de um modelo na janela Compor](http://docs.marketo.com/x/MQQ6Ag)
->* [Campos dinâmicos](http://docs.marketo.com/x/wwDb)
-
->
-
-
+>* [Opções de envio em massa](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [Uso de um modelo na janela Compor](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
