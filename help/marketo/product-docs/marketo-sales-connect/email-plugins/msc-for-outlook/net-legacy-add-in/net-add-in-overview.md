@@ -3,9 +3,9 @@ unique-page-id: 14352457
 description: Visão Geral do Suplemento .NET - Documentos do Marketing - Documentação do Produto
 title: Visão geral do suplemento .NET
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Este é o nosso antigo suplemento. Se já tiver instalado, ele continuará a funcionar até 2020. Se você for um novo usuário, instale nosso novo [suplemento do Office 365](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+>Este é o nosso antigo suplemento. Se já tiver instalado, ele continuará a funcionar até 2020. Se você for um novo usuário, instale nosso novo [suplemento do Office 365](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
 ## Anexar um pedaço de conteúdo {#attaching-a-piece-of-content}
 
@@ -33,7 +33,7 @@ Isso extrai o calendário do Outlook e permite que você adicione datas e horas 
 
 Puxe um modelo Tout pré-criado para a mensagem do Outlook pressionando o botão **Modelos**.
 
-Estamos `sync with all of your personal templates and any shared templates` entre a equipe. Também inserimos automaticamente o último modelo usado e o modelo usado com mais frequência para facilitar o acesso.
+Sincronizamos com todos os seus modelos pessoais e todos os modelos compartilhados entre a equipe. Também inserimos automaticamente o último modelo usado e o modelo usado com mais frequência para facilitar o acesso.
 
 ## O botão Tout It {#the-tout-it-button}
 
