@@ -3,9 +3,9 @@ unique-page-id: 45417460
 description: Atribuição de Tarefas a membros da equipe - Documentos do Marketing - Documentação do produto
 title: Atribuindo Tarefas aos membros da equipe
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 
 >[!NOTE]
 >
->Você só pode atribuir tarefas para contatos compartilhados. Você desejará [compartilhar um grupo de contatos](http://docs.marketo.com/x/fwDb) com os membros da sua equipe antes de colaborar com tarefas compartilhadas.
+>Você só pode atribuir tarefas para contatos compartilhados. Você desejará [compartilhar um grupo de contatos](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md) com os membros da sua equipe antes de colaborar com tarefas compartilhadas.
 
 1. Clique no **Centro de Comando**.
 
@@ -57,5 +57,4 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 
 >[!MORELIKETHIS]
 >
->[Como compartilhar um grupo](http://docs.marketo.com/x/fwDb)
-
+>[Como compartilhar um grupo](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
