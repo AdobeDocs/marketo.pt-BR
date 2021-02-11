@@ -3,7 +3,7 @@ unique-page-id: 13796471
 description: Visão geral do feed ao vivo - Documentos do marketing - Documentação do produto
 title: Visão geral do Live Feed
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -33,9 +33,6 @@ As pessoas marcadas com uma linha azul representam o envolvimento com emails env
 >
 >* Se o seu recipient estivesse conectado à rede sem fio para obter uma empresa que tivesse sua sede de TI em outra cidade ou país, registraríamos esse local em vez da localidade atual do recipient.
 >* Se seu email foi encaminhado ou aberto por alguém no campo CC/BCC, tentamos exibir com precisão a localização dessas pessoas.
-
->
-
 
 
 ## Guia Tarefa {#tasks-tab}
@@ -75,28 +72,28 @@ Veja as pessoas de nível superior (ordenadas da mais alta para a mais baixa) cl
   <tr> 
    <td> 
     <div> 
-     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
    <td><p>Alguém visualizou seu email</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
    <td><p>Alguém clicou em um link em seu email</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
    <td><p>Alguém respondeu ao seu email</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
    <td colspan="1">Qualquer notificação listada em Momentos interessantes, incluindo Email, Web e Marcos</td> 
   </tr> 
@@ -106,4 +103,3 @@ Veja as pessoas de nível superior (ordenadas da mais alta para a mais baixa) cl
 >[!NOTE]
 >
 >Se você estiver vendo alguém visualização seu email várias vezes no seu Feed ao vivo, eles poderão ter encaminhado o email para recipient adicionais. Provavelmente, isso ocorrerá se você notar o start de localização a ser alterado para essas visualizações.
-
