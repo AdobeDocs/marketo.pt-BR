@@ -3,9 +3,9 @@ unique-page-id: 14352476
 description: Campo de tipo de atividade no Tarefa (SFDC) - Documentos de marketing - Documentação do produto
 title: Campo de tipo de atividade no Tarefa (SFDC)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Com a ajuda do Sales Connect, você pode receber e-mails e chamadas registradas 
 * Conexão com o Salesforce
 * Nenhum valor de Tipo padrão selecionado na lista de opções Tipo de Tarefa
 * A chamada, a resposta e o e-mail devem existir na lista de opções Tipo de Tarefa (questões de capitalização)
-* Nenhuma ação de `Workflows` ou `Triggers` no valor do campo Tipo
+* Nenhum Workflows ou Acionador executando uma ação no valor do campo Tipo
 
 ## Configuração {#setup}
 
 Primeiro verifique se você tem os valores corretos da lista de seleção em vigor. Você precisará da ajuda do administrador do Salesforce para fazer quaisquer alterações na sua lista de opções.
 
-1. Navegue até [Salesforce.com](http://Salesforce.com) e clique em Configuração no canto superior direito.
+1. Navegue até [Salesforce.com](https://salesforce.com) e clique em Configuração no canto superior direito.
 1. Clique em Personalizar.
 1. Clique em Atividade.
 1. Clique em Campos de Tarefa.
