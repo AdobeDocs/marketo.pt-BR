@@ -3,9 +3,9 @@ unique-page-id: 14745730
 description: Salesforce Diagnostics - Documentos do Marketing - Documentação do produto
 title: Salesforce Diagnostics
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1427'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Parte de nossa integração com o Salesforce inclui uma página de diagnóstico 
 **Categoria:** Outro\
 **Mensagem:** não é possível referenciar cliente potencial convertido\
 **O que está acontecendo:** estamos tentando fazer logon em um cliente potencial convertido durante o logon de Atividade mais recente para Contatos e Clientes potenciais. Também vi alguns desses para pontos.\
-**Etapas de solução de problemas:** Informe todas as instâncias disso à nossa equipe [ de ](http://nation.marketo.com/community/support_solutions)suporte.
+**Etapas de solução de problemas:** Informe todas as instâncias disso à nossa equipe [ de ](https://nation.marketo.com/t5/Support/ct-p/Support)suporte.
 
 <br> 
 
@@ -65,7 +65,7 @@ Parte de nossa integração com o Salesforce inclui uma página de diagnóstico 
 **Erro:** EXPIRED_ACCESS 
 **Categoria:** Authentication 
 **Message:** invalid_Grant: token de acesso/atualização expirado 
-**O que está acontecendo:** o token de acesso ou atualização expirou. Os tokens expiram com base em [configurações de sessão no Salesforce](http://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**O que está acontecendo:** o token de acesso ou atualização expirou. Os tokens expiram com base em [configurações de sessão no Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Etapas de solução de problemas:** será necessário autenticar novamente. Desconecte a conexão do Salesforce e reconecte-se.
 
 <br> 
@@ -129,9 +129,9 @@ Parte de nossa integração com o Salesforce inclui uma página de diagnóstico 
 <br> 
 
 **Erro:** INSUFICIENT_ACCESS_OR_READONLY\
-**Categoria:** Access/Validation*** ** 
-**Mensagem:direitos de acesso** insuficientes no id do objeto*** ** 
-**O que está acontecendo: o registro de Atividades** mais recente não pode editar o registro específico porque o usuário não tem acesso de gravação a ele.\
+**Categoria:** Acesso/
+**Mensagem de validação:direitos de acesso** insuficientes na ID do objeto 
+**O que está acontecendo: o registro de Atividades** mais recente não pode editar o registro específico porque o usuário não tem acesso de gravação a.\
 **Etapas de solução de problemas:** conceda ao usuário acesso no Salesforce OU desative o registro de Atividade mais recente para esse objeto para esse usuário.
 
 **Erro:** INVALID_FIELD\
@@ -142,7 +142,7 @@ Parte de nossa integração com o Salesforce inclui uma página de diagnóstico 
 
 **Erro:** INVALID_FIELD_FOR_INSERT_UPDATE\
 **Categoria:** Acesso/Validação\
-**Mensagem:** Não é possível criar/atualizar campos: ToutApp__Tout_Last_Replied__c. Verifique as configurações de segurança deste campo.\
+**Mensagem:** Não é possível criar/atualizar campos: ToutApp__Tout_Last_Replied__c. Verifique as configurações de segurança deste campo.
 **O que está acontecendo:** os usuários não têm acesso de gravação aos campos personalizados do Tout necessários para executar a transação de registro de Atividade mais recente. O grupo pode ter instalado o pacote, mas não habilitou os campos corretos para os usuários.\
 **Etapas de solução de problemas: o administrador do** Salesforce precisa conceder acesso aos campos personalizados OU desativar o registro de Atividades mais recentes.
 
@@ -154,8 +154,8 @@ Parte de nossa integração com o Salesforce inclui uma página de diagnóstico 
 
 **Erro:** INVALID_TYPE\
 **Categoria:** Acesso/Validação\
-**Mensagem:** CreatedDate, (SELECT Id FROM Tarefa) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sO tipo de objeto &#39;Lead&#39; não é suportado. Se você estiver tentando usar um objeto personalizado, certifique-se de anexar &#39;__c&#39; após o nome da entidade. Consulte seu WSDL ou a chamada de descrição para obter os nomes apropriados\
-**O que está acontecendo:** estamos tentando query um tipo de objeto do Salesforce ao qual o usuário não tem acesso. Provavelmente, isso está relacionado ao usuário que não tem o acesso correto ao Objeto principal.\
+**Mensagem:** CreatedDate, (SELECT Id FROM Tarefa) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sO tipo de objeto &#39;Lead&#39; não é suportado. Se você estiver tentando usar um objeto personalizado, certifique-se de anexar &#39;__c&#39; após o nome da entidade. Consulte seu WSDL ou a chamada de descrição para obter os nomes apropriados
+**O que está acontecendo:** Estamos tentando query um tipo de objeto do Salesforce ao qual o usuário não tem acesso. Provavelmente, isso está relacionado ao usuário que não tem o acesso correto ao Objeto principal.\
 **Etapas de solução de problemas:** conceda acesso de Leitura e Atualização ao objeto de cliente potencial no Salesforce ou desative o registro de e-mail e o registro de Atividades mais recentes para registros de cliente potencial.
 
 **Erro:** QUERY_TIMEOUT\
@@ -179,7 +179,7 @@ Parte de nossa integração com o Salesforce inclui uma página de diagnóstico 
 
 **Erro:** REQUIRED_FIELD_MISSING\
 **Categoria:** Acesso/Validação\
-**Mensagem:campos** obrigatórios estão ausentes:  [Amount_Commited_Private_Capital__c]\
+**Mensagem:campos** obrigatórios estão ausentes:  `[Amount_Committed_Private_Capital__c]`
 **O que está acontecendo:** isso geralmente acontece no registro de Atividades mais recente. Campos personalizados foram configurados para serem obrigatórios, mas têm valores vazios neles. Isso pode acontecer se o registro tiver sido criado com um valor vazio do campo personalizado e, em seguida, for feito como obrigatório. A exigência é imposta quando estamos tentando atualizar o registro, mesmo que não estejamos tocando no campo personalizado.\
 **Etapas de solução de problemas:atualize** manualmente os valores dos campos ausentes. Em seguida, você pode repetir a mensagem do ToutApp.
 
@@ -191,8 +191,8 @@ Parte de nossa integração com o Salesforce inclui uma página de diagnóstico 
 
 **Erro:** TXN_SECURITY_NO_ACCESS\
 **Categoria:** Acesso/Validação\
-**Mensagem:** a operação solicitada não é permitida devido a uma política de segurança em sua organização. Entre em contato com o administrador.\
-**O que está acontecendo:** algum tipo de restrição de segurança foi configurada - consulte  `https://developer.salesforce.com/forums/?id="record` ID&quot;\
+**Mensagem:** a operação solicitada não é permitida devido a uma política de segurança em sua organização. Entre em contato com o administrador.<br/>
+**O que está acontecendo:** algum tipo de restrição de segurança foi configurado - consulte https://developer.salesforce.com/forums/?id=&quot;record ID&quot;\
 **Etapas de solução de problemas:** converse com seu administrador do Salesforce e veja qual restrição específica pode ser.
 
 **Erro:** UNABLE_TO_LOCK_ROW\
@@ -201,7 +201,7 @@ Parte de nossa integração com o Salesforce inclui uma página de diagnóstico 
 **O que está acontecendo:** provavelmente há um acionador que está causando várias tentativas de acessar o mesmo registro, possivelmente no caso de um email de grupo.\
 **Etapas de solução de problemas: a lógica de** nova tentativa deve lidar com isso. Se ainda não estiver funcionando, entre em contato com o administrador do Salesforce para solucionar problemas em um acionador problemático.
 
-**Erro:** UNKNOWN_EXCEPTION\
+**Erro:** UNKNOWN_EXCEPTION 
 **Categoria:** Outro\
 **Mensagem:Exceção** Desconhecida\
 **O que está acontecendo: exceção** sem tratamento no Salesforce.\
