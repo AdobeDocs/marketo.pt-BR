@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: Agendamento de um e-mail - Documentos do Marketing - Documentação do produto
 title: Agendamento de um email
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,4 @@ Siga estas etapas fáceis para agendar um email.
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Visão geral do centro de comando](http://docs.marketo.com/x/kgDb)
-
+   >[Visão geral do centro de comando](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
