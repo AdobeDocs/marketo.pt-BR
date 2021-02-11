@@ -3,7 +3,7 @@ unique-page-id: 14746184
 description: Cancelar inscrição do cartão do histórico - Documentos do marketing - Documentação do produto
 title: Cancelar assinatura do cartão do histórico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -41,4 +41,3 @@ O Cartão de Histórico de Cancelamento de Inscrição ajuda administradores e u
   </tr> 
  </tbody> 
 </table>
-
