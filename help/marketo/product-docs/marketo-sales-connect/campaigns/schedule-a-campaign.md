@@ -3,7 +3,7 @@ unique-page-id: 14352612
 description: Agendar uma Campanha - Documentos do Marketing - Documentação do produto
 title: Agendar uma Campanha
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Abra o modal Adicionar à Campanha, adicionando indivíduos, um grupo ou pessoas
 
 Depois de clicar em **Próximo**, você pode pré-visualização o primeiro email.
 
-Depois de clicar em **Próximo **novamente, você será levado para uma opção para quando quiser que sua campanha saia. Você pode ter start agora ou agendar um horário para mais tarde começar a campanha.
+Depois de clicar em **Próximo** novamente, você será levado para uma opção para quando quiser que sua campanha saia. Você pode ter start agora ou agendar um horário para mais tarde começar a campanha.
