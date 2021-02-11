@@ -3,7 +3,7 @@ unique-page-id: 18317340
 description: Marketo Unsubscribe Check - Marketing to Docs - Documentação do produto
 title: Marketo Unsubscrition Check
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -45,4 +45,3 @@ A verificação Cancelar assinatura do Marketo...
 * Exige que seja estabelecida uma conexão com o Marketing
 * É uma configuração global
 * Bloqueia e-mails enviados do aplicativo da Web, clientes de e-mail e Salesforce
-
