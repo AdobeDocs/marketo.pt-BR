@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: Instalar a personalização do Salesforce para clientes da Professional Edition - Documentos do Marketing - Documentação do produto
 title: Instalar a personalização do Salesforce para clientes da Professional Edition
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,6 @@ Os clientes com o Salesforce Professional Edition precisarão seguir essas etapa
 >
 >* O administrador do Sales Connect precisa conectar suas contas do Salesforce e do Sales Connect.
 >* A instância do Salesforce usada precisa de espaço para instalar treze campos de Atividade personalizados.
-
->
-
 
 
 ## Instalação {#installation}
@@ -40,7 +37,7 @@ Os clientes com o Salesforce Professional Edition precisarão seguir essas etapa
    >
    >Se estiver conectado, você verá um botão verde &quot;Instalar&quot;. **NÃO** clique nesse botão, vá para a etapa 4.
 
-1. Faça logon na conta do Salesforce à qual você está conectado e clique em [este link](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Faça logon na conta do Salesforce à qual você está conectado e clique em [esse link](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. Você será enviado para a página Instalação do Sales Connect.
 
    ![](assets/install-package.png)
@@ -58,7 +55,8 @@ Os clientes com o Salesforce Professional Edition precisarão seguir essas etapa
    >
    >Participação em vendas é o nome anterior do Sales Connect.
 
-   [Guia de instalação do Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+## Guias {#guides}
 
-   [Guia de instalação para o Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Guia de instalação do Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
+[Guia de instalação para o Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
