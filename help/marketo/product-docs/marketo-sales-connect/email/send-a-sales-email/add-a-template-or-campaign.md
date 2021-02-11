@@ -3,7 +3,7 @@ unique-page-id: 14352589
 description: Adicionar um modelo ou Campanha - Documentos do Marketing - Documentação do produto
 title: Adicionar um modelo ou Campanha
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -19,4 +19,4 @@ Para adicionar um modelo, clique em **Modelo** e selecione o modelo que deseja e
 
 Se adicionar uma campanha, clique na guia **Campanha** em vez disso.
 
-Se você acabou de adicionar/editar suas mensagens no [aplicativo da Web](http://toutapp.com/login), certifique-se de clicar no botão **Atualizar** para garantir que você esteja puxando a versão mais recente.
+Se você acabou de adicionar/editar suas mensagens no [aplicativo da Web](https://toutapp.com/login), certifique-se de clicar no botão **Atualizar** para garantir que você esteja puxando a versão mais recente.
