@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Uso de ações em massa no Salesforce Lightning - Documentos do Marketing - Documentação do produto
 title: Uso de ações em massa no Salesforce Lightning
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Saiba como executar ações em massa, como adicionar clientes potenciais a uma c
 
 >[!PREREQUISITES]
 >
->Atualize para a versão mais recente do pacote do Sales Connect e instale os botões de ação em massa na sua visualização de cliente potencial/contato. [Clique aqui para obter instruções](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>Atualize para a versão mais recente do pacote do Sales Connect e instale os botões de ação em massa na sua visualização de cliente potencial/contato. [Clique aqui para obter instruções](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
 >[!NOTE]
 >
@@ -84,10 +84,6 @@ Saiba como executar ações em massa, como adicionar clientes potenciais a uma c
 
 >[!MORELIKETHIS]
 >
->* [Envio de emails por email do grupo](http://docs.marketo.com/x/KAQ6Ag)
->* [Composição de emails em massa com Selecionar e Enviar](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
-
->
-
-
+>* [Envio de emails por email do grupo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Composição de emails em massa com Selecionar e Enviar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 
