@@ -3,7 +3,7 @@ unique-page-id: 14352472
 description: Editar acessibilidade de campo do Salesforce - Documentos do Marketing - Documentação do produto
 title: Editar Acessibilidade de Campo do Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Se você não estiver visualizando o log de atividade por email para o Salesforc
 * Trabalhe com seu administrador do Salesforce para garantir que essas configurações de segurança não estejam interferindo no Sales Connect.
 
 * Se você for um administrador do Salesforce, poderá ver sua Acessibilidade de campo na guia Controles de segurança. Os principais campos com os quais o Sales Connect interagirá são: Conta, Contatos, Oportunidade, Cliente Potencial e Tarefa.
-
