@@ -3,7 +3,7 @@ unique-page-id: 14746167
 description: Cancelar inscrição do grupo - Documentos do marketing - Documentação do produto
 title: Cancelar assinatura do grupo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -24,6 +24,3 @@ Use a barra de pesquisa para pesquisar qualquer pessoa não inscrita.
 Se você for um administrador, poderá acessar o grupo de cancelamento de inscrição para filtrar por Cancelamento de assinatura de conta e ver todas as cancelações de assinaturas que foram coletadas no banco de dados de pessoas.
 
 ![](assets/3.png)
-
-
-
