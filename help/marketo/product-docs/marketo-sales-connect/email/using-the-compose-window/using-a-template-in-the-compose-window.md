@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: Uso de um modelo na janela Compor - Documentos do Marketing - Documentação do produto
 title: Uso de um modelo na janela Compor
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,4 @@ Categorias de modelo específicas favoritas **até cinco** para obter acesso rá
    >
    >**Por padrão,** favorita aqui. Ele contém modelos de e-mail favoritos, não categoria.
 
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Campos dinâmicos](http://docs.marketo.com/x/wwDb)
-   >    * [Uso de modelos](http://docs.marketo.com/display/DOCS/Templates)
-
-
-Sua categoria selecionada agora está fixa.
+   Sua categoria selecionada agora está fixa.
