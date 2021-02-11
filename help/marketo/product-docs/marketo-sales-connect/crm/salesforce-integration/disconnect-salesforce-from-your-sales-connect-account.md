@@ -3,7 +3,7 @@ unique-page-id: 15368214
 description: Desconecte O Salesforce De Sua Conta Do Sales Connect - Documentos Do Marketing - Documentação Do Produto
 title: Desconecte O Salesforce Da Sua Conta Do Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -42,4 +42,3 @@ ht-degree: 0%
 1. Na guia Conexões e personalizações, clique em **Desconectar**.
 
    ![](assets/3333.png)
-
