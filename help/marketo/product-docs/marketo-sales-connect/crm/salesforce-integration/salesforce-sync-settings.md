@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Configurações de sincronização do Salesforce - Documentos do Marketing - Documentação do produto
 title: Configurações de Sincronização do Salesforce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -86,12 +86,12 @@ Se você não vir Meu email para o Salesforce em suas Configurações, seu admin
 >
 >Você precisará de privilégios de administrador para configurar isso.
 
-1. Clique em **Configuração *.* **
-1. Clique em **Administração de Correio Eletrônico *.* **
-1. Clique em **Email para Salesforce *.* **
+1. Clique em **Configuração**.
+1. Clique em **Administração de e-mail**.
+1. Clique em **Enviar email para o Salesforce**.
 1. Clique em **Editar**.
-1. Marque a caixa ao lado de &quot;Ative*&quot;.*
-1. Clique em **Salvar *.* **
+1. Marque a caixa ao lado de &quot;Ativo&quot;.
+1. Clique em **Salvar**.
 
 ## Sincronizar Tarefas/lembretes de envolvimento de vendas com o Salesforce Tarefa {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
@@ -114,4 +114,3 @@ Se você não vir Meu email para o Salesforce em suas Configurações, seu admin
 1. Escolha a opção desejada (&quot;Não sincronizar com o Salesforce tarefa&quot; está selecionada por padrão).
 
    ![](assets/eight.png)
-
