@@ -3,7 +3,7 @@ unique-page-id: 14352442
 description: Anexar um pedaço de conteúdo - Documentos do Marketing - Documentação do produto
 title: Anexar um pedaço de conteúdo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -18,4 +18,3 @@ Adicione conteúdo rastreável clicando no botão **Conteúdo** e fazendo upload
 >[!NOTE]
 >
 >Para rastrear seus anexos de email, é necessário adicioná-los por meio desse botão.
-
