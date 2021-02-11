@@ -3,7 +3,7 @@ unique-page-id: 14746161
 description: Visão geral de cancelamento de assinatura - Documentos de marketing - Documentação do produto
 title: Cancelar assinatura da visão geral
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -20,4 +20,3 @@ ht-degree: 0%
 * As informações de cancelamento de assinatura são armazenadas no PDV
 * Cancelar a assinatura pode ser feito manualmente: Link clicado, Sincronização do Salesforce e Rejeição
 * Nova landing page de link de cancelamento de inscrição
-
