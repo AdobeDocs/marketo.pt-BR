@@ -3,7 +3,7 @@ unique-page-id: 14352475
 description: Instalar campos de Evento do Sales Connect no histórico de Atividades - Documentos do Marketing - Documentação do produto
 title: Instalar campos de Evento do Sales Connect no histórico de Atividades
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -35,4 +35,3 @@ Certifique-se de associar o administrador do Salesforce ao executar essas etapas
 1. Clique em **Salvar**.
 
    Seus usuários agora podem ver informações valiosas e atualizações sobre seus e-mails no Salesforce!
-
