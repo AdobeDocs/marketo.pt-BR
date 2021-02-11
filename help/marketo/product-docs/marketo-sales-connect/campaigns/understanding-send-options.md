@@ -3,7 +3,7 @@ unique-page-id: 14352621
 description: Compreensão das opções de envio - Documentos do marketing - Documentação do produto
 title: Compreensão das opções de envio
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 0%
@@ -59,4 +59,3 @@ Criar uma tarefa; Eu mesmo enviarei este email
 Encaixar este email no email anterior
 
 * Esta opção de envio será um &#39;acompanhamento&#39; do seu email anterior e anexará o corpo do email anterior à parte inferior deste email.
-
