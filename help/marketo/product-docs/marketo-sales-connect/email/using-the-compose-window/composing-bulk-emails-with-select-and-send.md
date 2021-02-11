@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: Composição de emails em massa com Selecionar e Enviar - Documentos do Marketing - Documentação do produto
 title: Composição de emails em massa com Selecionar e Enviar
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Veja como enviar/editar emails usando a opção Selecionar e enviar.
 
    ![](assets/three-2.png)
 
-1. Insira uma linha de assunto, selecione um modelo (ou componha o email do zero) e envie/ [agendar](http://docs.marketo.com/x/GAQ6Ag)o email.
+1. Insira uma linha de assunto, selecione um modelo (ou componha o e-mail do zero) e envie/[agende](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) o e-mail.
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ Veja como enviar/editar emails usando a opção Selecionar e enviar.
 
 **Edições em massa**
 
-1. Siga as Etapas 1 a 3 da seção [Enviando e-mails](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
+1. Siga as Etapas 1 a 3 da seção [Enviando e-mails](#sending-emails).
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Veja como enviar/editar emails usando a opção Selecionar e enviar.
    >
    >Você pode clicar em um recipient de email específico para ver as alterações propagadas para esse email.
 
-1. Clique em **Enviar** (ou [Agendar](http://docs.marketo.com/x/GAQ6Ag)) para enviar a todos os recipient as atualizações de email em massa efetuadas.
+1. Clique em **Enviar** (ou [Agendar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos os recipient as atualizações de email em massa efetuadas.
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +67,7 @@ Veja como enviar/editar emails usando a opção Selecionar e enviar.
 
 Conclua Atualizações em massa antes de personalizar cada email, já que fazer uma atualização em massa substitui as alterações em cada email na barra lateral de composição em massa.
 
-1. Siga as Etapas 1 a 4 da seção [Enviando e-mails.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. Siga as Etapas 1 a 4 da seção [Enviando e-mails](#sending-emails).
 
    >[!NOTE]
    >
@@ -89,17 +89,13 @@ Conclua Atualizações em massa antes de personalizar cada email, já que fazer 
    >
    >Você pode clicar em outros recipient para ver se as alterações feitas no recipient selecionado anteriormente não estão sendo exibidas.
 
-1. Clique em **Enviar** (ou [Agendar](http://docs.marketo.com/x/GAQ6Ag)) para enviar a todos os recipient as atualizações de email em massa efetuadas.
+1. Clique em **Enviar** (ou [Agendar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos os recipient as atualizações de email em massa efetuadas.
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Opções de envio em massa](http://docs.marketo.com/x/HwQ6Ag)
-   >    * [Uso de um modelo na janela Compor](http://docs.marketo.com/x/MQQ6Ag)
-   >    * [Campos dinâmicos](http://docs.marketo.com/x/wwDb)
-
+   >* [Opções de envio em massa](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+   >* [Uso de um modelo na janela Compor](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [Campos dinâmicos](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
 
