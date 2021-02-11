@@ -3,9 +3,9 @@ unique-page-id: 14352523
 description: Envio de anexos de arquivo em seu email - Documentos do Marketing - Documentação do produto
 title: Envio de anexos de arquivo em seu email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Normalmente, qualquer arquivo acima de 20 MB será muito grande para ser entregu
 >
 >Ao usar Tout como canal de delivery de email, recomendamos que os arquivos de 19 MB ou menos sejam enviados por email.
 
-Se precisar enviar um arquivo grande, tente compactá-lo primeiro ou carregá-lo como um [anexo rastreável](http://docs.marketo.com/x/3oPS) no [aplicativo da Web](http://toutapp.com/login).
+Se precisar enviar um arquivo grande, tente compactá-lo primeiro ou carregá-lo como um [anexo rastreável](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md) no [aplicativo da Web](https://toutapp.com/login).
