@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Envio de um email rastreado - Documentos do Marketing - Documentação do produto
 title: Envio de um email rastreado
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,8 @@ Ao enviar um email com o Marketing Connect Sales, as visualizações (e-mail abe
 >
 >Você precisará ter uma identidade verificada e um canal de delivery de email configurado antes de enviar um email rastreado.
 >
->* [Verifique seu endereço de email](http://docs.marketo.com/x/ewPh)
->* Configure um Canal de Delivery para [Outlook](http://docs.marketo.com/x/Z4AOAQ) ou [Gmail](http://docs.marketo.com/x/kYMOAQ)
-
->
-
+>* [Verifique seu endereço de email](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* Configure um Canal de Delivery para [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) ou [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
 
 
 1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
@@ -54,17 +51,12 @@ Ao enviar um email com o Marketing Connect Sales, as visualizações (e-mail abe
    >
    >Uma linha de assunto e um recipient são necessários para enviar o email. Iremos **salvar automaticamente seu rascunho** depois que uma linha de assunto e um recipient forem adicionados.
 
-1. Componha seu email usando o editor. Clique em **Enviar** (ou [Agendar](http://docs.marketo.com/x/GAQ6Ag), se preferir) quando terminar.
+1. Componha seu email usando o editor. Clique em **Enviar** (ou [Agendar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), se preferir) quando terminar.
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Agendamento de um email](http://docs.marketo.com/x/GAQ6Ag)
-   >    * [Campos dinâmicos](http://docs.marketo.com/x/wwDb)
-   >    * [Uso de modelos](http://docs.marketo.com/display/DOCS/Templates)
-
+   >* [Agendamento de um email](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [Modelos](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
 
