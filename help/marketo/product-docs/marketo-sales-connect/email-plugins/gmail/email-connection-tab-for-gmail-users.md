@@ -3,9 +3,9 @@ unique-page-id: 17728401
 description: Guia Conexão de email para usuários do Gmail - Documentos do Marketing - Documentação do produto
 title: Guia Conexão de email para usuários do Gmail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -51,5 +51,4 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
    ![](assets/nine.png)
 
-   Você pode usar essa conexão para rastrear emails e também [como um canal delivery](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
-
+   Você pode usar essa conexão para rastrear e-mails e também como um canal de delivery.
