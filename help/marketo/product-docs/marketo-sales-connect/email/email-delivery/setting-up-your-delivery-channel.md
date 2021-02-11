@@ -3,9 +3,9 @@ unique-page-id: 14746470
 description: Configuração do Canal do Delivery - Documentos do Marketing - Documentação do produto
 title: Configuração do Canal do Delivery
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Ao start usando o Marketing to Sales Connect, você precisará configurar um ser
 
 >[!NOTE]
 >
->Além de configurar seu servidor SMTP, sua [identidade de e-mail deve ser verificada](http://docs.marketo.com/x/ewPh) antes que você possa enviar e-mails.
+>Além de configurar seu servidor SMTP, sua [identidade de e-mail deve ser verificada](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) antes que você possa enviar e-mails.
 
 Você pode optar por enviar emails usando um Servidor SMTP Personalizado, um Servidor SMTP de Equipe ou Gmail como canal de delivery. Vamos analisar cada opção.
 
 ## SMTP personalizado {#custom-smtp}
 
-1. Faça logon no [aplicativo da Web](http://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo da Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
    ![](assets/one.png)
 
@@ -63,15 +63,13 @@ Você pode optar por enviar emails usando um Servidor SMTP Personalizado, um Ser
    >
    >Se o administrador da equipe configurar o Team SMTP Server, ele será automaticamente aplicado somente à sua identidade de email padrão e estará disponível como uma opção para suas outras identidades de email.
 
-   **Assistir a um vídeo**`<iframe width="630" height="470" src="//play.vidyard.com/YWKSgZvBEjUU8FrXZ5hdYR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Servidor SMTP de Equipe {#team-smtp-server}
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Faça logon no [aplicativo da Web](http://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo da Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
    ![](assets/nine.png)
 
@@ -87,11 +85,9 @@ Você pode optar por enviar emails usando um Servidor SMTP Personalizado, um Ser
    >
    >O Team SMTP Server será o canal de delivery padrão da identidade de email padrão para todos os membros da equipe. Além disso, ele estará disponível como uma opção de canal de delivery para todas as outras identidades de email.
 
-   ** Ver um vídeo**`<iframe width="630" height="470" src="//play.vidyard.com/Ky9EwGmLcgvsMpFq3H8Y6n.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Gmail {#gmail}
 
-1. Faça logon no [aplicativo da Web](http://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo da Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
    ![](assets/twelve.png)
 
@@ -108,6 +104,7 @@ Você pode optar por enviar emails usando um Servidor SMTP Personalizado, um Ser
    ![](assets/fifteen.png)
 
 1. Faça logon usando suas credenciais do Google.
+
 1. Quando chegar a esta tela, clique em **Permitir**.
 
    ![](assets/sixteen.png)
@@ -135,4 +132,3 @@ Você pode optar por enviar emails usando um Servidor SMTP Personalizado, um Ser
    >[!NOTE]
    >
    >Se o administrador da equipe configurar o Team SMTP Server, ele será automaticamente aplicado somente à sua identidade de email padrão e estará disponível como uma opção para suas outras identidades de email.
-
