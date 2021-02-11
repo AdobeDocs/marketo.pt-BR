@@ -3,9 +3,9 @@ unique-page-id: 14352543
 description: Localização incorreta do Recipient - Documentos do Marketing - Documentação do produto
 title: Localização incorreta do Recipient
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ Se erramos na localização de seus recipient, há três possibilidades para o q
 
 -Se seu email foi encaminhado ou aberto por alguém no campo CC ou Cco, tentamos exibir com precisão a localização dessas pessoas.
 
-Em geral, determinaremos locais com a maior precisão possível, com base no rastreamento de IP, mas infelizmente `isn't an exact science`.
+Em geral, vamos determinar os locais com a maior precisão possível com base no rastreamento de IP, mas infelizmente não é uma ciência exata.
