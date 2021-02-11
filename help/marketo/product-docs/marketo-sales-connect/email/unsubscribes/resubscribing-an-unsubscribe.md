@@ -3,7 +3,7 @@ unique-page-id: 14746177
 description: Reenvio de uma Cancelamento de assinatura - Documentos do Marketing - Documentação do produto
 title: Reenvio de uma Cancelamento de assinatura
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -27,7 +27,8 @@ ht-degree: 0%
 >
 >Se a sincronização de cancelamento de assinatura estiver ativada, você deverá remover a cancelamento de assinatura do ToutApp e desmarcar o opt out no Salesforce para que o registro da pessoa não seja sincronizado novamente.
 
-1. Vá para [aplicação Web](http://toutapp.com/login) e clique em **Pessoas**.
+1. Vá para [aplicação Web](https://toutapp.com/login) e clique em **Pessoas**.
+
 1. Selecione a pessoa para abrir a visualização de detalhes da pessoa.
 
    ![](assets/two.png)
@@ -39,4 +40,3 @@ ht-degree: 0%
 1. Selecione o motivo pelo qual a pessoa está sendo devolvida para receber emails e clique em **Remover Cancelamento de Assinatura**.
 
    ![](assets/four.png)
-
