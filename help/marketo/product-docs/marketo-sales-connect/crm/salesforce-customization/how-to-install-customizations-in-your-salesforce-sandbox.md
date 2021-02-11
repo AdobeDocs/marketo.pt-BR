@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: Como instalar personalizações em seu Salesforce Sandbox - Documentos do Marketing - Documentação do produto
 title: Como instalar personalizações em sua caixa de proteção do Salesforce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Connect Sales Connect para sua caixa de proteção do Salesforce](http://docs.marketo.com/x/DYDq)
+>[Connect Sales Connect para sua caixa de proteção do Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
 1. No Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   Em seguida, siga as etapas de instalação da personalização da mesma forma que faria em uma conta regular do Salesforce. Pule para a marca de um minuto de [este vídeo](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) para obter mais informações.
-
+   Em seguida, siga as etapas de instalação da personalização da mesma forma que faria em uma conta regular do Salesforce.
