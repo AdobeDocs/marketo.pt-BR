@@ -3,7 +3,7 @@ unique-page-id: 37356587
 description: Adicione um anexo ou conteúdo rastreável ao seu email - Documentos do marketing - Documentação do produto
 title: Adicionar um anexo ou conteúdo rastreável ao seu email
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -70,4 +70,3 @@ O anexo é exibido na parte inferior do email.
    >[!NOTE]
    >
    >Os usuários serão notificados no Feed ao vivo quando as pessoas estiverem visualizando seu conteúdo rastreado. Os usuários também podem ver o conteúdo de maior desempenho na seção de conteúdo da página do Analytics.
-
