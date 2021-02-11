@@ -3,9 +3,9 @@ unique-page-id: 37356329
 description: Visão geral da pesquisa avançada - Documentos do Marketing - Documentação do produto
 title: Visão geral da pesquisa avançada
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,9 @@ Filtre por recipient/remetente de email na seção Quem.
 
 ![](assets/who.png)
 
-| **Visualização como** | Filtrar por um remetente específico na instância do Sales Connect (essa opção está disponível somente para Administradores). |
+| Lista suspensa | Descrição |
 |---|---|
+| **Visualização como** | Filtrar por um remetente específico na instância do Sales Connect (essa opção está disponível somente para Administradores). |
 | **Por grupo** | Filtre emails por um grupo específico de recipient. |
 | **Por Pessoa** | Filtrar por um recipient específico. |
 
@@ -82,8 +83,9 @@ Filtros por sua atividade de e-mail enviada. Você pode escolher visualizações
 
 Filtros por todos os emails pendentes.
 
-| **Agendado** | Emails que foram agendados da janela de composição (Salesforce ou Web App), plug-ins de e-mail ou uma campanha. |
+| Status | Descrição |
 |---|---|
+| **Agendado** | Emails que foram agendados da janela de composição (Salesforce ou Web App), plug-ins de e-mail ou uma campanha. |
 | **Rascunhos** | Emails que estão atualmente em estado de rascunho. Os emails exigem uma linha de assunto e um recipient para serem salvos como rascunho. |
 | **Em andamento** | Emails que estão sendo enviados. Os emails não devem permanecer nesse estado por mais de alguns segundos. |
 
@@ -93,8 +95,9 @@ Filtros por todos os emails pendentes.
 
 Filtros por e-mails que nunca foram entregues.
 
-| **Falha** | Quando um email não é enviado do Sales Connect (motivos comuns incluem: e-mails sendo enviados para contatos cancelados/bloqueados ou se houver um problema ao preencher os campos dinâmicos). |
+| Status | Descrição |
 |---|---|
+| **Falha** | Quando um email não é enviado do Sales Connect (motivos comuns incluem: e-mails sendo enviados para contatos cancelados/bloqueados ou se houver um problema ao preencher os campos dinâmicos). |
 | **Rejeitado** | Um email é marcado como retorcido quando é rejeitado pelo servidor do recipient. Somente emails que foram enviados pelos servidores do Sales Connect serão mostrados aqui. |
 | **Spam** | Quando o email foi marcado como spam (termo comum para email não solicitado) pelo recipient. Somente emails que foram enviados pelos servidores do Sales Connect serão mostrados aqui. |
 
@@ -113,4 +116,3 @@ Veja como criar uma pesquisa salva.
    Suas pesquisas salvas estarão na barra lateral à esquerda.
 
    ![](assets/advanced-search-overview-15.png)
-
