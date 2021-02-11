@@ -3,7 +3,7 @@ unique-page-id: 14352540
 description: Evitar Visualizações Automáticas - Documentos do Marketing - Documentação do Produto
 title: Impedindo Visualizações automáticas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -72,4 +72,3 @@ As visualizações são rastreadas baixando um pequeno pixel de imagem invisíve
 1. Em Segurança, clique no botão de opção **Nunca**.
 
    ![](assets/mac-3.png)
-
