@@ -3,9 +3,9 @@ unique-page-id: 14352609
 description: Desativar uma Campanha - Documentos do Marketing - Documentação do produto
 title: Desligar uma Campanha
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Precisa encerrar automaticamente uma Campanha quando um recipient responder? Vej
 
 >[!NOTE]
 >
->Isso só está disponível para clientes que estão integrados com [Gmail ou Exchange](https://toutapp.com/next#settings/email-tracking) e têm o rastreamento de respostas ativado.
+>Isso só está disponível para clientes que estão integrados ao Gmail ou ao Exchange e têm o rastreamento de respostas ativado.
 
 ## Desativar uma Campanha para uma Pessoa {#turn-off-a-campaign-for-one-person}
 
