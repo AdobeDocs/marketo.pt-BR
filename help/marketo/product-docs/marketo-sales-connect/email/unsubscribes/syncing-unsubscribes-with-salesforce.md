@@ -3,9 +3,9 @@ unique-page-id: 14746188
 description: Sincronização de assinaturas com Salesforce - Documentos do Marketing - Documentação do produto
 title: Sincronização de Cancelamentos de Assinatura com o Salesforce
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Ao ativar a sincronização de cancelamento de assinatura (Etapa 3 abaixo), voc�
 
 Os usuários podem decidir se desejam sincronizar seus cancelamentos de assinatura com o campo Opt out de email padrão com o qual o Marketo também pode sincronizar, ou se podem sincronizar com o campo Opt out de vendas do Marketing para que eles cancelem a assinatura do setor de Vendas e o cancelamento da assinatura do Marketing possa ser diferenciado.
 
-1. Vá para [aplicação Web](http://toutapp.com/login), clique no ícone de engrenagem e selecione **Definições**.
+1. Vá para [aplicação Web](https://toutapp.com/login), clique no ícone de engrenagem e selecione **Definições**.
 
    ![](assets/one-1.png)
 
@@ -47,8 +47,9 @@ Os usuários podem decidir se desejam sincronizar seus cancelamentos de assinatu
 
    ![](assets/4.png)
 
-   | **Sincronizar com o campo Opt out do Salesforce** | Selecionado por padrão, só atualiza o campo Opt out do Salesforce. |
+   | Campo | Descrição |
    |---|---|
+   | **Sincronizar com o campo Opt out do Salesforce** | Selecionado por padrão, só atualiza o campo Opt out do Salesforce. |
    | **Sincronizar com o campo Opt out de Vendas do Marketing** | Se você quiser separar as cancelamentos de vendas e marketing, escolha esta opção para atualizar o campo adicional [Opt out de vendas do Marketing to.](#msoo) |
 
 ## Instalação do campo Opt out no Layout da página {#installing-the-opt-out-field-in-the-page-layout}
@@ -57,7 +58,7 @@ Os usuários podem decidir se desejam sincronizar seus cancelamentos de assinatu
 
 O Opt out de email é um campo padrão no Salesforce que está disponível para instalação a partir do Salesforce. É necessário ser um administrador do Salesforce para instalá-lo.
 
-1. Vá para [Salesforce.com](http://Salesforce.com) e faça logon.
+1. Vá para [Salesforce.com](https://salesforce.com) e faça logon.
 
    ![](assets/five-1.png)
 
