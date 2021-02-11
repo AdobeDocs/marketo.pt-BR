@@ -3,9 +3,9 @@ unique-page-id: 14352416
 description: Visão geral da página do Analytics - Documentos do marketing - Documentação do produto
 title: Visão geral da página do Analytics
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ A página de análise é atualizada a cada dez minutos.
 
 ## O que significam os números? {#what-do-the-numbers-mean}
 
-Os números em `radials` calculam o número total de eventos em todos os emails enviados. Então, se um `single same email is viewed five times, it will add five views`for para este número. A mesma ideia é aplicada aos cliques e às respostas contadas dentro do círculo.
+Os números nos radiais estão calculando o número total de eventos em todos os emails enviados. Assim, se um único e-mail for visualizado cinco vezes, ele adicionará cinco visualizações a esse número. A mesma ideia é aplicada aos cliques e às respostas contadas dentro do círculo.
 
-Todas as estatísticas mantidas dentro do `table` serão calculadas observando as visualizações, cliques e respostas únicas aos seus e-mails. Se `one email is viewed five times, we will count that as one view.` É por isso que você pode ver uma grande diferença nos números nas tabelas versus os números no radial.
+Todas as estatísticas mantidas dentro da tabela serão calculadas observando as visualizações, cliques e respostas únicas aos seus e-mails. Se um e-mail for exibido cinco vezes, contaremos isso como uma visualização. É por isso que vocês podem ver uma grande diferença nos números nas tabelas versus os números no radial.
 
 ## Guias Analíticas {#analytic-tabs}
 
@@ -45,6 +45,6 @@ Aqui podem ver estatísticas e classificações de toda a vossa equipe. Você ta
 
 A guia Conteúdo contém estatísticas em modelos, conteúdo e links. Você pode filtrar por todos ou por equipes criadas por seus administradores.
 
-Se você vir um texto azul na coluna de assunto, isso significa que o modelo é `shared`. Você pode clicar no texto azul a ser levado para esse modelo. Para visualização de seu uso, clique em **Análise de modelo**.
+Se você vir um texto azul na coluna de assunto, isso significa que o modelo é compartilhado. Você pode clicar no texto azul a ser levado para esse modelo. Para visualização de seu uso, clique em **Análise de modelo**.
 
 &quot;Cliques no conteúdo&quot; são contados quando um recipient clica em um link em seu email.
