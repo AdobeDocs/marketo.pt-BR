@@ -3,7 +3,7 @@ unique-page-id: 14352546
 description: Impedindo a integração do endereço de correio eletrônico secundário ao Sales Connect - Documentos do Marketing - Documentação do produto
 title: Impedindo a integração do endereço de correio secundário ao Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -23,7 +23,7 @@ O Sales Connect é integrado ao Gmail por meio de uma extensão instalada no nav
 
 Fazer Logon Como Outro Usuário Do Chrome (Recomendado)
 
-Clique em [este link](http://support.google.com/chrome/answer/2364824?hl=en) para ler como criar outro Perfil do Chrome.
+Clique em [este link](https://support.google.com/chrome/answer/2364824?hl=en) para ler como criar outro Perfil do Chrome.
 
 **Vantagens**: Fazer logon como outro usuário abrirá uma nova instância do Chrome. Esta instância é uma nova janela do Chrome, e nenhuma das suas extensões antigas existirá nesta. Ele também mantém cookies para que você não precise fazer logon no seu Gmail todas as vezes.
 
