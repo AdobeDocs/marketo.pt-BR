@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: Como o rastreamento de resposta funciona - Documentos de marketing - Documentação do produto
 title: Como o rastreamento de resposta funciona
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ O rastreamento de resposta é feito observando uma ID de mensagem que está em c
 
 >[!PREREQUISITES]
 >
->**Conexão com o Servidor de e-mail: o** Sales Connect deve estar conectado à sua caixa de entrada para que possamos saber quando uma nova resposta chegou. Você precisará ter sua conta do Sales Connect [conectada ao Gmail](http://docs.marketo.com/x/kYMOAQ). Se você estiver usando o Outlook, precisaremos fazer a integração com seu [servidor Exchange](http://toutapp.com/next#settings/exchange_settings).
+>**Conexão com o Servidor de e-mail: o** Sales Connect deve estar conectado à sua caixa de entrada para que possamos saber quando uma nova resposta chegou. Você precisará ter sua conta do Sales Connect [conectada ao Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md). Se você estiver usando o Outlook, precisaremos fazer a integração com seu [servidor Exchange](https://toutapp.com/next#settings/exchange_settings).
 
 Se o Sales Connect não conseguir rastrear a resposta do prospecto ao seu email, ele não poderá parar uma campanha com base na detecção de resposta ou registrar a resposta ao Salesforce.  O que queremos dizer com qualquer endereço de email que possa responder?
 
-Isso significa que se você enviar um email [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#783217162b16170f3830170d0b1d2b0c190a13561b1715) e ele responder com [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#c08aafae93aeafb78094a8a58ea9a7a8b4b397a1b4a3a8eea3afad), nós poderemos rastrear a resposta. Além disso, se você enviar emails [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#450f2a2b162b2a32050d2a303620163124372e6b262a28) e CC [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#3e5f525f507e5b505d5153105d5153), e Alan gravar você novamente, ele também detectará a resposta e encerrará a campanha.
+Isso significa que se você enviar um email para flynn@flynnsarcade.com e ele responder com kevinf@flynnsarcade.com, nós poderemos rastrear a resposta. Além disso, se você enviar um e-mail para flynn@flynnsarcade.com e CC alan@encom.com, e Alan escrevê-lo de volta, ele também detectará a resposta e encerrará a campanha.
