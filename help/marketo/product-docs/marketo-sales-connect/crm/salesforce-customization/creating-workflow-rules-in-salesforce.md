@@ -3,7 +3,7 @@ unique-page-id: 14745823
 description: Criação de regras de fluxo de trabalho no Salesforce - Documentos do Marketing - Documentação do produto
 title: Criação de regras de fluxo de trabalho no Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -101,4 +101,3 @@ Abaixo estão os nomes recomendados das regras de fluxo de trabalho e a descriç
    ![](assets/thirteen.png)
 
    Após a última etapa, você pode optar por clonar a regra de fluxo de trabalho para os outros campos listados na seção Introdução: Descrição, Tipo, Origem, Data. Depois de concluir as quatro regras de fluxo de trabalho no objeto Contact, repita o mesmo para o objeto Lead.
-
