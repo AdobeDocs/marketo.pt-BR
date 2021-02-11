@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: Adicionar à Marketing Campanha - Documentos do Marketing - Documentação do produto
 title: Adicionar à Campanha de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Tornar uma Campanha visível para os usuários de vendas](http://docs.marketo.com/x/NwDh)
+>[Tornar uma Campanha visível para os usuários de vendas](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## Adicionar indivíduos a uma Campanha {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Para adicionar uma pessoa a uma Campanha de marketing a partir do Sales Connect, o Sales Connect deve ter a ID de cliente potencial de marketing da pessoa. [Saiba como capturar IDs de marketing aqui](http://docs.marketo.com/x/CQXLAQ).
+>Para adicionar uma pessoa a uma Campanha de marketing a partir do Sales Connect, o Sales Connect deve ter a ID de cliente potencial de marketing da pessoa. [Saiba como capturar IDs de marketing aqui](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. Clique na guia **Pessoas**.
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Para adicionar uma pessoa a uma Campanha de marketing a partir do Sales Connect, o Sales Connect deve ter a ID de cliente potencial de marketing da pessoa. [Saiba como capturar IDs de marketing aqui](http://docs.marketo.com/x/CQXLAQ).
+   >Para adicionar uma pessoa a uma Campanha de marketing a partir do Sales Connect, o Sales Connect deve ter a ID de cliente potencial de marketing da pessoa. [Saiba como capturar IDs de marketing aqui](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. Clique no menu suspenso Espaços de trabalho e escolha o espaço de trabalho que contém a campanha à qual deseja adicionar o grupo.
 
@@ -104,4 +104,3 @@ ht-degree: 0%
 1. São-lhe mostrados os contatos que se qualificam. Clique em **Start** para adicioná-los.
 
    ![](assets/nine.png)
-
