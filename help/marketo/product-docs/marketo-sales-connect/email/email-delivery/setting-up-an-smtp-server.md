@@ -3,9 +3,9 @@ unique-page-id: 14746594
 description: Configuração de um servidor SMTP - Documentos do Marketing - Documentação do produto
 title: Configuração de um servidor SMTP
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,17 @@ Cons
 * A alteração da senha O365 de um usuário resultará em uma conexão interrompida
 
 Se estiver usando o Office365 ou o Exchange Online, você pode se conectar ao servidor SMTP usando um conjunto padrão de credenciais. Lembre-se de que o Office365 não é um serviço de delivery de email em massa, embora isso funcione bem para o envio de emails únicos. Ao enviar emails em massa, o Office 365 pode limitar seus emails, o que pode resultar em delivery com falha. Para saber mais sobre este artigo da Microsoft sobre [como configurar o envio de cliente SMTP](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
-`<blockquote>  <p>“You can only send from one email address unless your device can store login credentials for multiple Office 365 mailboxes. Office 365 imposes a limit of 30 messages sent per minute, and a limit of 10,000 recipients per day.”</p> </blockquote>`\
+
+&quot;Só é possível enviar a partir de um endereço de correio eletrônico, a menos que o dispositivo possa armazenar credenciais de início de sessão para várias caixas de correio do Office 365. O Office 365 impõe um limite de 30 mensagens enviadas por minuto e um limite de 10.000 recipient por dia.&quot;
+
 Se você decidir usar o Office365 como canal de delivery, precisará digitar essas credenciais. As mesmas credenciais não podem ser usadas no grupo porque o Office365 usa o email e a senha do usuário para conexão.
 
 Microsoft e envio em massa
 
-[Clique ](http://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) aqui para saber mais sobre envio em massa no Office365. 
-`<blockquote>  <p>“Exchange Online customers who need to send legitimate bulk commercial email (for example, customer newsletters) should use third-party providers that specialize in these services.”</p> </blockquote>`\
+[Clique ](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) aqui para saber mais sobre envio em massa no Office365.
+
+Os clientes do Exchange Online que precisam enviar emails comerciais em massa legítimos (por exemplo, boletins informativos do cliente) devem usar provedores de terceiros especializados nesses serviços.&quot;
+
 **E se minha empresa usa o Gmail?**
 
 Você não precisará obter quaisquer credenciais SMTP se sua equipe quiser usar o Gmail como seu canal delivery com o Sales Connect. O Sales Connect permite que os usuários tenham acesso ao canal do Gmail por meio de nossa integração OAuth. Os usuários podem habilitar isso integrando sua conta do Sales Connect ao Gmail.
@@ -73,4 +77,3 @@ Isso depende do canal do delivery que você está usando. Por exemplo, serviços
 Se você estiver se conectando ao Office365, as credenciais serão baseadas em endereço de email. Isso significa que somente o endereço de email que estabeleceu a conexão será autenticado para enviar emails por meio desse canal de delivery, portanto, as credenciais devem ser compartilhadas **e não**.
 
 ![](assets/3.png)
-
