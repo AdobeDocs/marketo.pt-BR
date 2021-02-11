@@ -3,7 +3,7 @@ unique-page-id: 14352463
 description: Adicionar botões do Connect de vendas ao Salesforce - Documentos do Marketing - Documentação do produto
 title: Adicionar botões de conexão de vendas ao Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Encaminhar para o Marketing Sales Connect {#push-to-marketo-sales-connect}
 
-1. Vá para **Configuração** em seguida **Personalizar**.
+1. Vá para **Configuração** e **Personalizar**.
 1. Em Contatos/Clientes potenciais/Contas, abra **Pesquisar layouts**.
-1. Edite Visualização de Lista de Clientes Potenciais e arraste **Empurre para MSC **nos Botões Selecionados.
+1. Edite Visualização de Lista de Clientes Potenciais e arraste **Empurre para MSC** para os Botões Selecionados.
 
 ## Enviar email de vendas do Marketing to {#send-marketo-sales-email}
 
@@ -29,11 +29,10 @@ ht-degree: 0%
 
 1. Edite o layout Página para Cliente Potencial/Contato/Conta.
 1. Selecione a seção para Botões.
-1. Agarre o botão **Chamar com MSC **e arraste-o até a seção **Botões Personalizados** dos Detalhes.
+1. Segure o botão **Chamar com MSC** e arraste-o para a seção **Botões Personalizados** dos Detalhes.
 
 ## Adicionar à Campanha {#add-to-campaign}
 
 1. Edite o layout Página para Cliente Potencial/Contato/Conta.
 1. Selecione a seção para Botões.
 1. Segure o botão **Adicionar à Campanha MSC** e arraste-o para a seção **Botões Personalizados** dos Detalhes.
-
