@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: Opções de envio em massa - Documentos do Marketing - Documentação do produto
 title: Opções de envio em massa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Enviar emails em massa é uma excelente maneira de acelerar seu envolvimento com o prospecto. O Sales Connect oferta duas maneiras de enviar emails em massa: **Agrupar e-mails** e **Selecione e envie**. Os emails de grupos são uma excelente maneira de enviar rapidamente centenas de emails para um grupo direcionado. Usar Selecionar e enviar significa reduzir os limites de email, mas oferta mais oportunidades de personalização para o usuário.
 
-Agrupar email vs. selecionar e enviar
+**Agrupar email vs. selecionar e enviar**
 
 <table> 
  <colgroup> 
@@ -54,20 +54,16 @@ Agrupar email vs. selecionar e enviar
  </tbody> 
 </table>
 
-Usando email do grupo
+**Usando email do grupo**
 
 Você pode pré-visualização cada email na lista para ver se os campos dinâmicos estão sendo preenchidos corretamente e pode editar em massa o modelo que deseja enviar. No entanto, não é possível fazer edições &quot;por usuário&quot; exclusivas.
 
-Usando Selecionar e Enviar
+**Usando Selecionar e Enviar**
 
 Por padrão, você estará editando para todos os recipient. Mas você também pode selecionar cada email individual para fazer edições personalizadas. Isso pode ser ótimo para adicionar uma ou mais linhas exclusivas de personalização a recipient com os quais você deseja adotar uma abordagem mais personalizada.
 
 >[!MORELIKETHIS]
 >
->* [Composição de emails em massa com Selecionar e Enviar](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
->* [Envio de emails por email do grupo](http://docs.marketo.com/x/KAQ6Ag)
-
->
-
-
+>* [Composição de emails em massa com Selecionar e Enviar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Envio de emails por email do grupo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 
