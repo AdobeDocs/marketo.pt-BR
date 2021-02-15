@@ -3,9 +3,9 @@ unique-page-id: 14352553
 description: O que é a integração do Sales Connect e do Highspot? - Documentos do Marketing - Documentação do produto
 title: O que é a integração do Sales Connect e do Highspot?
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Você precisará do seguinte para usar a integração do Sales Connect com o Hig
 
 Além de trabalhar no Sales Connect em um navegador, a integração do Highspot está disponível em nosso cliente de email do Outlook .Net. Os requisitos são os seguintes:
 
-* **Outlook .Net e Exchange **- Versão suportada pelo Sales Connect do Outlook .Net, Exchange Online, Exchange 2016
+* **Outlook .Net e Exchange**  - versão compatível com o Sales Connect do Outlook .Net, Exchange Online, Exchange 2016
 
 >[!NOTE]
 >
@@ -31,15 +31,20 @@ Além de trabalhar no Sales Connect em um navegador, a integração do Highspot 
 
 ## Habilitando a integração entre o Sales Connect e o Highspot {#enabling-the-sales-connect-and-highspot-integration}
 
-Se você estiver interessado em habilitar a Integração de Realce para sua equipe, entre em contato com [Suporte de Marketing](http://support.marketo.com).
+Se você estiver interessado em habilitar a Integração de Realce para sua equipe, entre em contato com [Suporte de Marketing](https://nation.marketo.com/t5/Support/ct-p/Support#).
 
 ## Como usar a integração {#how-to-use-the-integration}
 
 Depois de habilitado, veja como acessar seu conteúdo de Realce no Sales Connect.
 
-1. Ao compor um email no Sales Connect ou no Outlook, escolha Adicionar conteúdo.
-1. Selecione Realçar.
-1. Digite seu email de conta do Highspot e clique em Continuar.
-1. Digite a senha da conta do Highspot e clique em Entrar.
-1. Selecione o conteúdo do Realce que deseja inserir no email ou modelo e clique em Adicionar conteúdo.
+1. Ao compor um email no Sales Connect ou no Outlook, escolha **Adicionar conteúdo**.
+
+1. Selecione **Highspot**.
+
+1. Digite seu email de conta do Highspot e clique em **Continuar**.
+
+1. Digite a senha da conta do Highspot e clique em **Entrar**.
+
+1. Selecione o conteúdo do Realce que deseja inserir no email ou modelo e clique em **Adicionar conteúdo**.
+
 1. O conteúdo é inserido no email ou modelo.
