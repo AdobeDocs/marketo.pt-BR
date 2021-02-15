@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: Editar configurações de Landing page - Documentos de marketing - Documentação do produto
 title: Editar configurações de Landing page
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Você pode editar o nome do domínio e a página de fallback, ativar ou desativa
 
    | Termo | Definição |
    |---|---|
-   | Nome de domínio para landing page | Este é o seu CNAME. Um CNAME é a primeira parte do URL que você fornece às pessoas para landings page. Por exemplo, em `http://go.yourCompany.com`, a palavra &quot;go&quot; é CNAME. Você pode ter vários, mas a maioria das pessoas apenas usa um. |
+   | Nome de domínio para landing page | Este é o seu CNAME. Um CNAME é a primeira parte do URL que você fornece às pessoas para landings page. Por exemplo, em `https://go.yourCompany.com`, a palavra &quot;go&quot; é CNAME. Você pode ter vários, mas a maioria das pessoas apenas usa um. |
    | Página de fallback | É para onde ir se a landing page não existe ou está baixa. Saiba mais sobre [páginas de fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Página inicial | Insira o URL do site corporativo. |
 
