@@ -3,7 +3,7 @@ unique-page-id: 2360188
 description: Relatório de desempenho de e-mail da campanha - Documentos do Marketing - Documentação do produto
 title: Relatório de desempenho de email de campanha
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Relatório de Desempenho de Email de campanha {#campaign-email-performance-report}
 
-Para ver suas estatísticas de desempenho de e-mail agrupadas por [campanha inteligente](http://docs.marketo.com/display/docs/smart+campaigns), execute um relatório de Desempenho de e-mail de Campanha.
+Para ver suas estatísticas de desempenho de e-mail agrupadas por [campanha inteligente](https://docs.marketo.com/display/docs/smart+campaigns), execute um relatório de Desempenho de e-mail de Campanha.
 
 1. [Crie um ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) relatório e selecione o tipo **** [Campanha Email ](report-type-overview.md)Performancereport.
 1. [Defina o período do seu ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) relatório e clique na guia  **** Relatório.
@@ -53,5 +53,5 @@ Para ver suas estatísticas de desempenho de e-mail agrupadas por [campanha inte
    >**Mergulho profundo**
    >
    >
-   >Saiba mais em [Relatórios básico.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Saiba mais em [Relatórios básico.](https://docs.marketo.com/display/docs/basic+reporting)
 
