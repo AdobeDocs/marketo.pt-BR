@@ -3,7 +3,7 @@ unique-page-id: 2951050
 description: Notas de versão - janeiro de 2014 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - janeiro de 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Notas de versão: Janeiro de 2014 {#release-notes-january}
 
-Os seguintes recursos estão incluídos na versão de janeiro de 2014. Verifique sua [Edição de marketing](http://www.marketo.com/pricing/) para obter informações sobre a disponibilidade de recursos.
+Os seguintes recursos estão incluídos na versão de janeiro de 2014. Verifique sua [Edição de marketing](https://www.marketo.com/pricing/) para obter informações sobre a disponibilidade de recursos.
 
 ## Forms 2.0 {#forms}
 
-Atenção: A documentação do Forms 2.0 estará disponível em breve. Enquanto isso, saiba mais abaixo e no [vídeo de introdução](http://docs.marketo.com/display/docs/forms)!
+Atenção: A documentação do Forms 2.0 estará disponível em breve. Enquanto isso, saiba mais abaixo e no [vídeo de introdução](https://docs.marketo.com/display/docs/forms)!
 
-Assuma o controle do processo de criação de formulários e dê uma pausa aos desenvolvedores da Web. [O Forms](http://docs.marketo.com/display/docs/forms) 2.0 foi projetado para capacitar os profissionais de marketing a criar formulários visualmente e funcionalmente robustos sem precisar de conhecimento de programação.
+Assuma o controle do processo de criação de formulários e dê uma pausa aos desenvolvedores da Web. [O Forms](https://docs.marketo.com/display/docs/forms) 2.0 foi projetado para capacitar os profissionais de marketing a criar formulários visualmente e funcionalmente robustos sem precisar de conhecimento de programação.
 
 **Dê ao seu Forms o marketing visual que eles merecem:**
 
@@ -38,7 +38,7 @@ Foram-se os dias de levantamento do código html de formulários colocados em la
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Saiba mais sobre o [vídeo de introdução do Forms 2.0](http://docs.marketo.com/display/docs/forms). (A documentação chegando ao aprofundamento [Forms](http://docs.marketo.com/display/docs/forms) em breve!)
+Saiba mais sobre o [vídeo de introdução do Forms 2.0](https://docs.marketo.com/display/docs/forms). (A documentação chegando ao aprofundamento [Forms](https://docs.marketo.com/display/docs/forms) em breve!)
 
 ## Limites de comunicação para Programa de email {#communication-limits-for-email-program}
 
