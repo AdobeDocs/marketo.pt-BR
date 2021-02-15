@@ -3,7 +3,7 @@ unique-page-id: 2359994
 description: Selecionar Colunas de Relatório - Documentos do Marketing - Documentação do Produto
 title: Selecionar colunas de relatório
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -35,5 +35,5 @@ Você pode escolher quais colunas estão e não estão incluídas no seu relató
    >    * [Classificar relatório em colunas](sort-report-on-columns.md)
 
 
-   Faça mais com os relatórios! Consulte [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+   Faça mais com os relatórios! Consulte [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
