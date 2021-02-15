@@ -3,7 +3,7 @@ unique-page-id: 10097199
 description: Notas de versão - Winter '16 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 16
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Notas de versão: Inverno &#39;17 {#release-notes-winter}
+# Notas de versão: Inverno &#39;16 {#release-notes-winter}
 
 Os seguintes recursos estão incluídos na versão de inverno de 16. Clique nos links de título para artigos detalhados de visualização para cada recurso.
 
 ## [É Filtro Anônimo](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-O filtro Is Anonymous foi removido para Listas inteligentes. Consulte as Perguntas frequentes sobre o rastreamento Munchkin da próxima geração[ para obter detalhes. ](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) Essa alteração não afeta a Personalização da Web (RTP), que continua a identificar visitantes da Web anônimos e conhecidos e a personalizar o conteúdo em tempo real nesses visitantes.
+O filtro Is Anonymous foi removido para Listas inteligentes. Consulte as Perguntas frequentes sobre o rastreamento Munchkin da próxima geração](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) para obter detalhes. [ Essa alteração não afeta a Personalização da Web (RTP), que continua a identificar visitantes da Web anônimos e conhecidos e a personalizar o conteúdo em tempo real nesses visitantes.
 
 ## [Painel do banco de dados](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -49,13 +49,13 @@ Para usar esse recurso, o programa de email deve ser agendado com pelo menos 12 
 
 ## [Aprimoramentos de marketing móvel](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Suporte para PhoneGap:** agora oferta o suporte para PhoneGap para seu aplicativo móvel. [Saiba mais](http://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**Suporte para PhoneGap:** agora oferta o suporte para PhoneGap para seu aplicativo móvel. [Saiba mais](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Suporte para aplicativos** Sandbox:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [API do programa](http://developers.marketo.com/documentation/programs/) {#program-api}
+## [API do programa](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 Crie, atualize e clone programas por meio da REST API. Isso não inclui a criação ou atualização de listas inteligentes e campanhas inteligentes em um programa.
 
