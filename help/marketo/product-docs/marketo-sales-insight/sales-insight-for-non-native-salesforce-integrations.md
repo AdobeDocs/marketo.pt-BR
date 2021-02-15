@@ -3,7 +3,7 @@ unique-page-id: 45417125
 description: Insight de vendas para integrações Salesforce não nativas - Documentos do Marketing - Documentação do produto
 title: Insight de vendas para integrações não nativas do Salesforce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Se sua conta do Marketing for conectada ao Salesforce por meio de uma integraç�
 >
 >* Entre em contato com o Gerente de sucesso do cliente para ativar o recurso &quot;MSI não nativo&quot; para a sua instância de Marketo.
 >* Uma conta do Salesforce com a configuração do Pacote MSI.
->* API REST do Marketo [configurado com êxito](http://developers.marketo.com/rest-api/). As APIs CRUD expostas serão a base para executar a sincronização não nativa.
->* Leia [esta postagem de blog](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) para entender o objeto e os relacionamentos.
+>* API REST do Marketo [configurado com êxito](https://developers.marketo.com/rest-api/). As APIs CRUD expostas serão a base para executar a sincronização não nativa.
+>* Leia [esta postagem de blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) para entender o objeto e os relacionamentos.
 >* Configure objetos do Salesforce para exibir o identificador global exclusivo com 18 caracteres que não diferencia maiúsculas e minúsculas em vez do identificador global exclusivo com 15 caracteres.
 
 >
@@ -57,12 +57,12 @@ Se sua conta do Marketing for conectada ao Salesforce por meio de uma integraç�
  </tbody> 
 </table>
 
-Documentação da API para a pessoa de vendas: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](http://developers.marketo.com/rest-api/lead-database/sales-persons/)\
-Documentação da API para sincronizar a Pessoa de vendas: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_People/syncSalesPeopleUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_People/syncSalesPeopleUsingPOST)
+Documentação da API para a pessoa de vendas: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/)\
+Documentação da API para sincronizar a Pessoa de vendas: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_People/syncSalesPeopleUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_People/syncSalesPeopleUsingPOST)
 
 1. Sincronize as contas do Salesforce com o Marketing.
 
-   Será necessário atualizar uma Empresa de marketing para a conta do Salesforce. Os campos *externalCompanyId* e *externalSalesPersonId* são obrigatórios para a atualização da Empresa.
+   Uma Empresa de marketing precisará ser atualizada para a conta do Salesforce. Os campos *externalCompanyId* e *externalSalesPersonId* são obrigatórios para a atualização da Empresa.
 
 <table> 
  <colgroup> 
@@ -89,8 +89,8 @@ Documentação da API para sincronizar a Pessoa de vendas: [https://developers.m
  </tbody> 
 </table>
 
-Documentação da API para Empresa: [https://developers.marketo.com/rest-api/lead-database/companies/](http://developers.marketo.com/rest-api/lead-database/companies/)\
-`API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
+Documentação da API para Empresa: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/)\
+`API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
 
 1. Sincronize os clientes potenciais/contatos do Salesforce com o Marketing.
 
@@ -126,8 +126,8 @@ Documentação da API para Empresa: [https://developers.marketo.com/rest-api/lea
  </tbody> 
 </table>
 
-Documentação da API para clientes potenciais: [`https://developers.marketo.com/rest-api/lead-database/leads/`](http://developers.marketo.com/rest-api/lead-database/leads/)\
-Documentação da API para sincronização de clientes potenciais:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
+Documentação da API para clientes potenciais: [`https://developers.marketo.com/rest-api/lead-database/leads/`](https://developers.marketo.com/rest-api/lead-database/leads/)\
+Documentação da API para sincronização de clientes potenciais:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
 
 1. Sincronizar oportunidades do Salesforce com o Marketing.
 
@@ -163,8 +163,8 @@ Documentação da API para sincronização de clientes potenciais:  [https://dev
  </tbody> 
 </table>
 
-Documentação da API para Oportunidade: [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)\
-`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
+Documentação da API para Oportunidade: [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)\
+`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
 1. Sincronizar funções de contato do Salesforce com o Marketo.
 
@@ -200,8 +200,8 @@ Documentação da API para Oportunidade: [`https://developers.marketo.com/rest-a
  </tbody> 
 </table>
 
-Documentação da API para Oportunidade: [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)\
-`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
+Documentação da API para Oportunidade: [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)\
+`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
 1. Sincronizar campos de Pontuação do Último Momento Interessante/MSI para SFDC.
 
@@ -264,7 +264,7 @@ Documentação da API para Oportunidade: [`https://developers.marketo.com/rest-a
  </tbody> 
 </table>
 
-Documentação da API REST de cliente potencial:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
+Documentação da API REST de cliente potencial:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
 O uso correto dos campos externos é a chave para uma sincronização não nativa bem-sucedida. Se você não conseguir visualizar os dados em algumas visualizações, é provável que um determinado campo não tenha sido sincronizado corretamente. Por exemplo, se atividades de um cliente potencial e momentos interessantes não aparecerem ao procurar no widget MSI sob sua Conta, é provável que a empresa do cliente potencial ou a Conta não tenham sido sincronizadas corretamente. Executar uma solicitação de GET para este cliente potencial ao especificar os campos externos o ajudará a verificar se o cliente potencial foi sincronizado corretamente. Além disso, o email do vendedor externo no Marketo deve corresponder ao email desse usuário no Salesforce. Os dados podem não ser exibidos na guia Marketo no Salesforce se os e-mails não corresponderem.
 
