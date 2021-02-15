@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: Configurações de consentimento de duas partes - Documentos do Marketo - Documentação do produto
 title: Configurações de consentimento de duas partes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Para garantir a conformidade com as leis de consentimento de duas partes dos EUA
 
 >[!PREREQUISITES]
 >
->Antes de seguir as etapas abaixo, você deve primeiro [ativar a gravação de chamada.](http://docs.marketo.com/x/dAC1Ag)
+>Antes de seguir as etapas abaixo, você deve primeiro [ativar a gravação de chamada](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Clique no ícone Configurações e selecione **Configurações**.
 
@@ -50,4 +50,3 @@ Para garantir a conformidade com as leis de consentimento de duas partes dos EUA
 1. Clique na alternância para ativar a mensagem selecionada para ser reproduzida no início das chamadas gravadas.
 
    ![](assets/seven.png)
-
