@@ -3,7 +3,7 @@ unique-page-id: 11385053
 description: Implantar o JavaScript para o Content-AI - Documentos do Marketing - Documentação do produto
 title: Implantar o JavaScript para Content-AI
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -35,8 +35,8 @@ Para usar o Conteúdo preditivo, é necessário gerar e configurar o RTP (Person
 
    >[!NOTE]
    >
-   >Copie a tag JavaScript de personalização da Web e cole-a como o primeiro script no cabeçalho de suas páginas, entre as tags `<head> </head>`. Consulte [instruções de implementação mais detalhadas aqui](http://docs.marketo.com/display/docs/rtp+tag+implementation) [.](http://pages2.marketo.com/rtp-implementation.html)
+   >Copie a tag JavaScript de personalização da Web e cole-a como o primeiro script no cabeçalho de suas páginas, entre as tags `<head> </head>`. Consulte [instruções de implementação mais detalhadas aqui](https://docs.marketo.com/display/docs/rtp+tag+implementation) [.](https://pages2.marketo.com/rtp-implementation.html)
 
-1. Verifique se a tag aparece em todas as páginas, incluindo landings page e subdomínios. Verifique isso clicando com o botão direito do mouse na sua página `website’s`. Vá para **Fonte da página de Visualização** em um navegador da Web. Pesquisar: &quot;RTP&quot;.
+1. Verifique se a tag aparece em todas as páginas, incluindo landings page e subdomínios. Verifique isso clicando com o botão direito do mouse na sua página `website’s`. Vá para **Origem da página de Visualização** em um navegador da Web. Pesquisar: &quot;RTP&quot;.
 1. Confirme se a opção Tag está definida como **ON**.
 
