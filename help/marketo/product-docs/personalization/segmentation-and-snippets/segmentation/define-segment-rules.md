@@ -3,7 +3,7 @@ unique-page-id: 2359449
 description: Definir regras de segmento - Documentos de marketing - Documentação do produto
 title: Definir regras de segmento
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -48,7 +48,7 @@ A definição das Regras de segmento permite que você categorize suas pessoas e
    >**Mergulho profundo**
    >
    >
-   >Listas inteligentes são incríveis. Saiba tudo o que você pode fazer com [Listas inteligentes e Listas estáticas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Listas inteligentes são incríveis. Saiba tudo o que você pode fazer com [Listas inteligentes e Listas estáticas](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
 1. Clique na guia **Pessoas (Rascunho)** para visualização das pessoas que podem se qualificar para serem membros deste segmento.
 
@@ -63,7 +63,7 @@ A definição das Regras de segmento permite que você categorize suas pessoas e
    >O número total de segmentos que você pode criar em uma segmentação depende do número e do tipo de filtros usados e também da complexidade da lógica de seus segmentos. Embora seja possível criar até 100 segmentos usando campos padrão, o uso de outros tipos de filtros pode aumentar a complexidade e sua segmentação pode falhar na aprovação. Alguns exemplos são: campos personalizados, membro da lista, campos do proprietário do cliente potencial e estágios da receita.
    >
    >
-   >Se você receber uma mensagem de erro durante a aprovação e precisar de ajuda para reduzir a complexidade da segmentação, entre em contato com o [Suporte do Marketing](http://nation.marketo.com/t5/Support/ct-p/Support).
+   >Se você receber uma mensagem de erro durante a aprovação e precisar de ajuda para reduzir a complexidade da segmentação, entre em contato com o [Suporte do Marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Verifique o painel para obter uma visão geral rápida dos segmentos em um gráfico de pizza, bem como as regras aplicadas.
 
