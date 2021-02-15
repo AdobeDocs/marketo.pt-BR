@@ -3,7 +3,7 @@ unique-page-id: 4719304
 description: Ações Implementadas Do Salesforce - Documentos Do Marketing - Documentação Do Produto
 title: Ações Implícitas do Salesforce
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Quando uma etapa de fluxo específica do Salesforce é executada, às vezes as etapas extras são executadas automaticamente. Estas são as regras, então você sabe:
 
-Essas regras serão aplicadas _quando a pessoa não estiver atualmente em [Salesforce.com](http://Salesforce.com)_ como um contato ou cliente potencial.
+Essas regras serão aplicadas _quando a pessoa não estiver atualmente em [Salesforce.com](https://Salesforce.com)_ como um contato ou cliente potencial.
 
 <table> 
  <thead> 
