@@ -3,7 +3,7 @@ unique-page-id: 14746594
 description: Configuração de um servidor SMTP - Documentos do Marketing - Documentação do produto
 title: Configuração de um servidor SMTP
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Ele permite que você utilize a reputação do domínio e a capacidade de entreg
 
 **Como o Sales Connect envia com meu servidor SMTP?**
 
-Seguindo [estas etapas](http://docs.marketo.com/x/ZgPh).
+Seguindo [estas etapas](https://docs.marketo.com/x/ZgPh).
 
 ![](assets/1.png)
 
@@ -52,7 +52,7 @@ Cons
 * Cada usuário deve configurar
 * A alteração da senha O365 de um usuário resultará em uma conexão interrompida
 
-Se estiver usando o Office365 ou o Exchange Online, você pode se conectar ao servidor SMTP usando um conjunto padrão de credenciais. Lembre-se de que o Office365 não é um serviço de delivery de email em massa, embora isso funcione bem para o envio de emails únicos. Ao enviar emails em massa, o Office 365 pode limitar seus emails, o que pode resultar em delivery com falha. Para saber mais sobre este artigo da Microsoft sobre [como configurar o envio de cliente SMTP](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
+Se estiver usando o Office365 ou o Exchange Online, você pode se conectar ao servidor SMTP usando um conjunto padrão de credenciais. Lembre-se de que o Office365 não é um serviço de delivery de email em massa, embora isso funcione bem para o envio de emails únicos. Ao enviar emails em massa, o Office 365 pode limitar seus emails, o que pode resultar em delivery com falha. Para saber mais sobre este artigo da Microsoft sobre [como configurar o envio de cliente SMTP](https://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
 
 &quot;Só é possível enviar a partir de um endereço de correio eletrônico, a menos que o dispositivo possa armazenar credenciais de início de sessão para várias caixas de correio do Office 365. O Office 365 impõe um limite de 30 mensagens enviadas por minuto e um limite de 10.000 recipient por dia.&quot;
 
