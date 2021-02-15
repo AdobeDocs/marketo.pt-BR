@@ -3,7 +3,7 @@ unique-page-id: 2951124
 description: Notas de versão - Jan/Fev de 2012 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - Jan/Fev de 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Os seguintes recursos estão incluídos na versão de janeiro/fevereiro. Verifiq
 >
 >**Mergulho profundo**
 >
->Para outras versões, consulte as [Notas de versão](http://docs.marketo.com/display/docs/release+notes) profundas.
+>Para outras versões, consulte as [Notas de versão](https://docs.marketo.com/display/docs/release+notes) profundas.
 
 ## Conteúdo dinâmico avançado {#advanced-dynamic-content}
 
