@@ -3,7 +3,7 @@ unique-page-id: 2951095
 description: Notas de versão - junho de 2013 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - junho de 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notas de versão: Junho de 2013 {#release-notes-june}
 
-Os seguintes recursos estão incluídos na versão de junho. Verifique sua [Edição de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
+Os seguintes recursos estão incluídos na versão de junho. Verifique sua [Edição de marketing](https://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
 
 Após o lançamento, verifique a guia [Nova versão](release-notes-december-2013.md) na Comunidade para obter artigos detalhados da Base de conhecimento para cada recurso!
 
