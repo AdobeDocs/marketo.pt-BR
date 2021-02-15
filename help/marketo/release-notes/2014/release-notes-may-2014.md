@@ -3,7 +3,7 @@ unique-page-id: 2951044
 description: Notas de versão - maio de 2014 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - maio de 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Agora todos têm vários programas, fluxos e limites de comunicação.
 >
 >**Exemplo**
 >
->[[[http://www.marketo.com](http://www.marketo.com)]]
+>[[[https://www.marketo.com](https://www.marketo.com)]]
 
 Por padrão, nenhum link será rastreado na versão de texto de e-mails. Adicione esta nova sintaxe para indicar quando um link deve ser convertido em um link de rastreamento. O comportamento dos links HTML não é alterado.  Para adicionar links rastreados a seus emails:
 
@@ -85,5 +85,5 @@ O Modelador de ciclo de receita e o Analisador de caminho de sucesso agora estã
 
 >[!NOTE]
 >
->Consulte as Notas de versão anteriores [do Marketing ](http://docs.marketo.com/display/docs/release+notes)
+>Confira as notas de versão anteriores [do Marketing ](https://docs.marketo.com/display/docs/release+notes)
 
