@@ -3,7 +3,7 @@ unique-page-id: 14352541
 description: Sincronização das Tarefas do Sales Connect com o Salesforce pela primeira vez - Documentos do Marketing - Documentação do produto
 title: Sincronização de Tarefas do Sales Connect com o Salesforce pela primeira vez
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Veja o que acontece quando você sincroniza o Sales Connect e as tarefas SFDC:
 
 - Assim que você clicar em Salvar na sincronização do tarefa, eles começarão a sincronizar. Isso levará algum tempo inicialmente.
 
-- Todos os lembretes que foram atualizados ou criados no `last 24 hours` serão enviados do SFDC para o Sales Connect. A sincronização é baseada em `due date` e todas essas tarefas serão sincronizadas no back-end, mas no Centro de Comando, você só verá as tarefas vencidas hoje e amanhã.
+- Todos os lembretes que foram atualizados ou criados nas últimas 24 horas serão enviados do SFDC para o Sales Connect. A sincronização é baseada na data de vencimento e todas essas tarefas serão sincronizadas no back-end, mas no Centro de Comando, você só verá as tarefas vencidas hoje e amanhã.
 
 - Se a sincronização tiver sido ativada anteriormente e você excluir qualquer tarefa no SFDC, tudo o que tiver sido excluído nos últimos 15 dias será excluído do Centro de Comando.
 
@@ -27,5 +27,4 @@ Veja o que acontece quando você sincroniza o Sales Connect e as tarefas SFDC:
 
 Após a sincronização inicial, quaisquer tarefas que você criar, editar, concluir ou excluir no Sales Connect serão sincronizadas com sua lista do tarefa no Salesforce. E qualquer item criado, editado, concluído ou excluído no Salesforce atualizará sua lista do tarefa no Sales Connect.
 
-Para ativar essa sincronização, marque a caixa de sincronização na [página de configurações](http://toutapp.com/next#settings/crm/salesforce/configure) no aplicativo da Web.
-
+Para ativar essa sincronização, marque a caixa de sincronização na [página de configurações](https://toutapp.com/login) no aplicativo da Web.
