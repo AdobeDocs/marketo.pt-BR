@@ -3,7 +3,7 @@ unique-page-id: 2951042
 description: Notas de versão - junho de 2014 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - junho de 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Quando você envia um email de teste do Sales Insight, os tokens atuais no email
 
 ## API ReST de cliente potencial {#lead-rest-api}
 
-Crie, leia e atualize clientes em potencial programaticamente por meio da nova API ReST. Para começar a usar o ReST, é necessário [criar um serviço personalizado](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) no Marketo. Em seguida, passe para o [site de desenvolvedores](http://developers.marketo.com/documentation/rest/) para obter detalhes sobre como usar essa API.
+Crie, leia e atualize clientes em potencial programaticamente por meio da nova API ReST. Para começar a usar o ReST, é necessário [criar um serviço personalizado](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) no Marketo. Em seguida, passe para o [site de desenvolvedores](https://developers.marketo.com/documentation/rest/) para obter detalhes sobre como usar essa API.
 
 ## Atualização da Página do Campanha de Personalização em Tempo Real (RTP) do Marketo {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
