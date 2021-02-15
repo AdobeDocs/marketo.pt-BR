@@ -3,7 +3,7 @@ unique-page-id: 2360057
 description: Relatório de Atividade de campanha - Documentos do Marketing - Documentação do produto
 title: Relatório de Atividade de campanha
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Relatório de Atividade de campanha {#campaign-activity-report}
 
-Veja o desempenho de suas [campanhas inteligentes](http://docs.marketo.com/display/docs/smart+campaigns).
+Veja o desempenho de suas [campanhas inteligentes](https://docs.marketo.com/display/docs/smart+campaigns).
 
 1. [Crie um ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) relatório e selecione o tipo de relatório  **Campanha** [Ativity](report-type-overview.md).
 1. [Defina o período do seu ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) relatório e clique na guia  **** Relatório.
@@ -54,5 +54,5 @@ Veja o desempenho de suas [campanhas inteligentes](http://docs.marketo.com/displ
    >    * [Filtrar um relatório de Atividade de Campanha](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
 
 
-   Consulte mais relatórios em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+   Consulte mais relatórios em [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
