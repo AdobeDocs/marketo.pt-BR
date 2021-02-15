@@ -3,7 +3,7 @@ unique-page-id: 12979008
 description: Visão geral da contribuição do Performance Insights - Documentos do Marketing - Documentação do produto
 title: Visão geral da contribuição do Performance Insights
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Selecione a métrica pela qual deseja visualização do desempenho. Neste exempl
 
 >[!NOTE]
 >
->Saiba mais sobre [Primeiro toque e multitoque](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Saiba mais sobre [Primeiro toque e multitoque](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Escolha para qual período deseja visualizar as métricas. Neste exemplo, estamos olhando para o ano atual (acumulado do ano).   ![](assets/3-1.png)
 
