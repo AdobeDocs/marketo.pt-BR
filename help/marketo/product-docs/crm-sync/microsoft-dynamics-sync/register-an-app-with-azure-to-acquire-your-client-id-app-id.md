@@ -3,7 +3,7 @@ unique-page-id: 12983390
 description: Registre um aplicativo com o Azure para adquirir sua ID do cliente/ID do aplicativo - Documentos do marketing - Documentação do produto
 title: Registre um aplicativo com o Azure para adquirir sua ID do cliente/ID do aplicativo
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -17,7 +17,7 @@ O Azure Ative Diretory estende seus diretórios locais para a nuvem, fornecendo 
 
 ## Registrando um novo aplicativo {#registering-a-new-app}
 
-1. [Efetue logon ](http://manage.windowsazure.com/) no portal de gerenciamento do Microsoft Azure usando uma conta com permissões de administrador. Você também pode acessar o portal do Microsoft Azure pelo Centro de Administração do Office 365 expandindo o item **Admin** no painel de navegação esquerdo e selecionando **Azure AD**.
+1. [Efetue logon ](https://manage.windowsazure.com/) no portal de gerenciamento do Microsoft Azure usando uma conta com permissões de administrador. Você também pode acessar o portal do Microsoft Azure pelo Centro de Administração do Office 365 expandindo o item **Admin** no painel de navegação esquerdo e selecionando **Azure AD**.
 
    >[!CAUTION]
    >
