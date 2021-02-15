@@ -3,7 +3,7 @@ unique-page-id: 2360030
 description: Excluir um relatório - Documentos do Marketing - Documentação do produto
 title: Excluir um relatório
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -30,5 +30,5 @@ Depois de start [criar relatórios](../../../../product-docs/reporting/basic-rep
    >**Mergulho profundo**
    >
    >
-   >Veja todas as outras coisas que você pode fazer com os relatórios no mergulho profundo [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Veja todas as outras coisas que você pode fazer com os relatórios no mergulho profundo [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
