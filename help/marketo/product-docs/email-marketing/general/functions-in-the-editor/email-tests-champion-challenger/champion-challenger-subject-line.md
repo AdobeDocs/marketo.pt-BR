@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger - Linha de assunto - Documentos do marketing - Documentação do produto
 title: Campeão/Desafiador - Linha de assunto
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >Na distribuição mostrada acima, 10% da audiência total especificada na lista inteligente recebe um dos emails com a linha de assunto desafiante e 90% recebem emails com a linha de assunto campeã. Emails com várias linhas de assunto desafiadoras compartilham os 10% igualmente. Quando o teste terminar, você pode declarar um vencedor manualmente. A partir daí, todas as pessoas futuras receberão o conteúdo com melhor desempenho.
 
-   Para ganhar confiança estatística, verifique se a porcentagem escolhida inclui pessoas suficientes, para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos. [Mais informação do que você já quis sobre confiança](http://en.wikipedia.org/wiki/Confidence_interval) estatística.
+   Para ganhar confiança estatística, verifique se a porcentagem escolhida inclui pessoas suficientes, para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos. [Mais informação do que você já quis sobre confiança](https://en.wikipedia.org/wiki/Confidence_interval) estatística.
 
 1. Clique em **Próximo**.
 
