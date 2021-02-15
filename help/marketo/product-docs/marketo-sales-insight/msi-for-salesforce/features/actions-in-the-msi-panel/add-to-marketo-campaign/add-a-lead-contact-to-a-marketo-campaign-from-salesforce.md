@@ -3,7 +3,7 @@ unique-page-id: 10099167
 description: Adicionar um cliente potencial/contato a uma Campanha de marketing do Salesforce - Documentos do Marketing - Documentação do produto
 title: Adicionar um cliente potencial/contato a uma Campanha de marketing do Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode adicionar facilmente clientes potenciais ou contatos a campanhas inteligentes do Marketing a partir do Salesforce. Veja como, usando pistas.
 
-1. No Salesforce, clique na guia **Leads **tab.
+1. No Salesforce, clique na guia **Clientes potenciais**.
 
    ![](assets/image2016-3-22-9-3a18-3a36.png)
 
@@ -31,7 +31,7 @@ Você pode adicionar facilmente clientes potenciais ou contatos a campanhas inte
 
    ![](assets/three.png)
 
-1. No registro, role para baixo até a área do Marketing Insight de Vendas, clique no menu suspenso **Ações**, selecione **Adicionar à Campanha de Marketo,** e clique em **Ir.**
+1. No registro, role para baixo até a área do Marketing Cloud Sales Insight, clique no menu suspenso **Ações**, selecione **Adicionar à Campanha de marketing** e clique em **Ir**.
 
    ![](assets/four.png)
 
@@ -41,6 +41,6 @@ Você pode adicionar facilmente clientes potenciais ou contatos a campanhas inte
 
    >[!NOTE]
    >
-   >Para que a campanha apareça na lista suspensa, use a Campanha [**is Requested** trigger](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), com **Sales Insight** como fonte, quando você configurar a campanha.
+   >Para que a campanha apareça na lista suspensa, use a Campanha [**is Requested** trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), com **Sales Insight** como fonte, quando você configurar a campanha.
 
 E é isso! A pessoa é adicionada à sua campanha de marketing.
