@@ -3,7 +3,7 @@ unique-page-id: 2950396
 description: Prioridade, urgência, pontuação relativa e melhores propostas - Documentos do Marketing - Documentação do produto
 title: Prioridade, urgência, pontuação relativa e melhores propostas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -57,5 +57,5 @@ Para calcular o número de estrelas e chamas, seus clientes em potencial e conta
 
 >[!MORELIKETHIS]
 >
->* [Visão geral de vendas do Marketing](http://docs.marketo.com/display/docs/marketo+sales+insight)
+>* [Visão geral de vendas do Marketing](https://docs.marketo.com/display/docs/marketo+sales+insight)
 
