@@ -3,7 +3,7 @@ unique-page-id: 7512944
 description: Uso do Marketing Insights para o Google Chrome - Documentos do Marketing - Documentação do produto
 title: Uso do Marketing Insights para o Google Chrome
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Envie e rastreie qualquer email do Google com o Marketing Insights para o Google
 
 >[!PREREQUISITES]
 >
->* [Instalar o Marketing Insights para o Google Chrome](install-marketo-insights-for-google-chrome.md)
-
->
-
-
+>[Instalar o Marketing Insights para o Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 ## Enviar um email com os insights do Marketing {#send-an-email-with-marketo-insights}
 
@@ -41,11 +37,11 @@ Envie e rastreie qualquer email do Google com o Marketing Insights para o Google
    >
    >Como opção, clique na seta duplo para expandir para uma visualização em tela cheia.
 
-1. Se você quiser preencher previamente seu email com um modelo Marketo publicado, clique em **Mais opções** e selecione **Carregar modelo de marketing.**
+1. Se você quiser preencher previamente seu email com um modelo Marketo publicado, clique em **Mais opções** e selecione **Carregar modelo de marketing**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Selecione um **Modelo disponível** e clique em **Ok.**
+1. Selecione um **Modelo disponível** e clique em **Ok**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -75,10 +71,6 @@ Você pode registrar respostas e atividades antigas no histórico de atividades 
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Instalar o Marketing Insights para o Google Chrome](install-marketo-insights-for-google-chrome.md)
-   >    * [Informações e Atividades da visualização e da conta no Google Mail](view-person-and-account-information-and-activities-in-google-mail.md)
-
+   >* [Instalar o Marketing Insights para o Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Informações e Atividades da visualização e da conta no Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
 
