@@ -3,7 +3,7 @@ unique-page-id: 2949844
 description: Criar um novo Programa de Evento - Documentos do Marketing - Documentação do produto
 title: Criar um novo Programa de Evento
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Eventos permitem automatizar eventos online e offline! Capture o status do seu p
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Depois que seu evento for criado, crie os [landing page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulários](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) e [emails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) para convidar seus convidados! Você também desejará se familiarizar com a visualização [do cronograma do programa](http://docs.marketo.com/display/docs/program+schedule+view).
+Depois que seu evento for criado, crie os [landing page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulários](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) e [emails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) para convidar seus convidados! Você também desejará se familiarizar com a visualização [do cronograma do programa](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >
