@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: Notas de versão - dezembro de 2014 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - dezembro de 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Três novas chamadas para a API ReST de cliente potencial e Atividade:
 
 ・ Intercalar cliente potencial
 
-Os detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](http://developers.marketo.com/)
+Os detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com/)
 
 ## Aprimoramentos de compatibilidade Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
 
