@@ -3,7 +3,7 @@ unique-page-id: 14352468
 description: Importar contatos via CSV - Documentos do Marketing - Documentação do produto
 title: Importar Contatos via CSV
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -40,4 +40,3 @@ Ter contatos na página de Pessoas é importante porque é de onde passamos para
 1. Mapeie as colunas em seu CSV para seus respectivos campos no Sales Connect. Clique em **Próximo** quando terminar.
 
    ![](assets/five.png)
-
