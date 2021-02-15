@@ -3,7 +3,7 @@ unique-page-id: 2360389
 description: Tornar um Programa sem um custo por período disponível no Gerenciador de receitas e nos Analisadores - Documentos de marketing - Documentação do produto
 title: Tornar um Programa sem um custo por período disponível no Gerenciador de receita e nos Analisadores
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Disponibilize um Programa sem um Custo de Período no Revenue Explorer e nos Analisadores {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Os Custos do período do programa permitem que você defina &quot;Quanto dinheiro&quot; e &quot;Quando&quot; para um programa. Isso é exibido em [explorer de ciclo de receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics) e [analisadores](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+Os Custos do período do programa permitem que você defina &quot;Quanto dinheiro&quot; e &quot;Quando&quot; para um programa. Isso é exibido em [explorer de ciclo de receita](https://docs.marketo.com/display/docs/revenue+cycle+analytics) e [analisadores](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
