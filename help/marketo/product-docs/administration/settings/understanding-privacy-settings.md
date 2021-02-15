@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Noções Gerais das Configurações de Privacidade - Documentos do Marketing - Documentação do Produto
 title: Noções Gerais das Configurações de Privacidade
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Os profissionais de marketing podem preservar a privacidade rastreando usuários
 
    >[!NOTE]
    >
-   >O uso deste parâmetro requer que Munchkin V2 seja ativado. Para ativá-lo para sua subscrição, entre em contato com [Suporte do Marketing](http://nation.marketo.com/community/support_solutions).
+   >O uso deste parâmetro requer que Munchkin V2 seja ativado. Para ativá-lo para sua subscrição, entre em contato com [Suporte do Marketing](https://nation.marketo.com/community/support_solutions).
 
 * Para personalização da Web (RTP), adicione isso ao javascript:
 
