@@ -3,9 +3,9 @@ unique-page-id: 14352430
 description: Como registrar emails para outros CRMs - Documentos do Marketing - Documentação do produto
 title: Como registrar emails em outros CRMs
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Se seu CRM fornecer um endereço CCO, você poderá usar a seção &quot;outro&q
 
 ## Os CRMs que integramos a {#crms-we-integrate-with}
 
-**`Almost every CRM`**:
+**Quase todo CRM**:
 
-* Nosso `auto-BCC`* *recurso funciona com quase todos os e-mails de registro de CRMs enviados com o Sales Connect para seus clientes potenciais. Certifique-se de que seu CRM de escolha forneça um endereço CCO para aproveitar isso.
+* Nosso recurso de Cco automático funciona com quase todos os e-mails de registro de CRMs enviados com o Sales Connect para seus clientes potenciais. Certifique-se de que seu CRM de escolha forneça um endereço CCO para aproveitar isso.
 
-**`Salesforce`**:
+**Salesforce**:
 
 * Fazemos tudo o que está acima e mais!
 
@@ -34,4 +34,3 @@ Se seu CRM fornecer um endereço CCO, você poderá usar a seção &quot;outro&q
 1. Clique em **Salvar** e seu endereço Cco será salvo no Sales Connect.
 
    Os e-mails agora serão conectados ao seu CRM via Cco.
-
