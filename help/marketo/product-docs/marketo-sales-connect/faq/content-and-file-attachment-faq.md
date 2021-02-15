@@ -3,7 +3,7 @@ unique-page-id: 14746661
 description: Perguntas frequentes sobre conteúdo e anexo de arquivo - Documentos do Marketing - Documentação do produto
 title: Perguntas frequentes sobre conteúdo e anexo de arquivo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -34,4 +34,3 @@ O conteúdo pode ser carregado no repositório do Sales Connect por qualquer usu
 Os usuários podem criar seus próprios modelos e podem ser organizados pela equipe. Para fazer isso, crie uma equipe por meio da página Gerenciamento de equipe. Em seguida, quando sua equipe for compartilhar modelos/playbooks/grupos, eles poderão compartilhar somente com esses grupos em vez de toda a subscrição de usuários.
 
 O conteúdo pode ser compartilhado na organização.
-
