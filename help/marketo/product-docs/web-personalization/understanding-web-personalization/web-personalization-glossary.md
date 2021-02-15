@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Glossário de personalização da Web - Documentos do Marketing - Documentação do produto
 title: Glossário de personalização da Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Alguns insights sobre o mundo e a linguagem do Marketing Web Personalization.
 
 Estas são três maneiras de usar um curinga na Personalização da Web.
 
-Corresponder todos os visitantes nos URLs de página que terminam com o preço (por exemplo, [www.marketo.com/pricing):](http://www.marketo.com/pricing):)
+Corresponder todos os visitantes nos URLs de página que terminam com o preço (por exemplo, [www.marketo.com/pricing):](https://www.marketo.com/pricing):)
 
 ![](assets/wildcard-example-1.png)
 
