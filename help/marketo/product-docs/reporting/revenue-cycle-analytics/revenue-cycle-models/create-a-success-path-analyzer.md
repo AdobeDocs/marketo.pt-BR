@@ -3,7 +3,7 @@ unique-page-id: 2360411
 description: Criar um analisador de caminho de sucesso - Documentos do marketing - Documentação do produto
 title: Criar um analisador de caminho bem-sucedido
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Criar um Analisador de Caminho Bem-sucedido {#create-a-success-path-analyzer}
 
-Obtenha uma representação visual da velocidade e do fluxo através do [Modelo de Ciclo de Receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+Obtenha uma representação visual da velocidade e do fluxo através do [Modelo de Ciclo de Receita](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
 >[!PREREQUISITES]
 >
