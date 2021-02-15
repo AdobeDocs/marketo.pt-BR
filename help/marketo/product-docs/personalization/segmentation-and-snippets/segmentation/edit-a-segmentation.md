@@ -3,7 +3,7 @@ unique-page-id: 2359474
 description: Editar uma segmentação - Documentos do Marketing - Documentação do produto
 title: Editar uma segmentação
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Fazer alterações nas suas segmentações existentes é fácil. Aqui está o ba
 
 ## Editar regras de segmento {#edit-segment-rules}
 
-1. No Rascunho **Segmento**, vá para **Lista inteligente**. Aplique regras semelhantes a [Definindo regras de segmento](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
+1. No Rascunho **Segmento**, vá para **Lista inteligente**. Aplique regras semelhantes a [Definindo regras de segmento](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
