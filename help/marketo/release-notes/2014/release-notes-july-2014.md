@@ -3,7 +3,7 @@ unique-page-id: 2951040
 description: Notas de versão - julho de 2014 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - julho de 2014
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Além do calendário de marketing com o qual você gerencia seus eventos e progr
 
 ## Operações de lista na API ReST {#list-operations-in-the-rest-api}
 
-Adicionamos as chamadas abaixo relacionadas às operações de lista no ReST. Consulte [developers.marketo.com](http://developers.marketo.com/documentation/rest/) para obter a documentação completa.
+Adicionamos as chamadas abaixo relacionadas às operações de lista no ReST. Consulte [developers.marketo.com](https://developers.marketo.com/documentation/rest/) para obter a documentação completa.
 
 * Obter Lista por ID
 * Obter várias Listas
@@ -78,7 +78,7 @@ A página Campanha do Conjunto RTP agora [inclui modelos prontos](/help/marketo/
 
 ## RTP: Aprimoramentos da API JavaScript {#rtp-javascript-api-enhancements}
 
-Nova chamada à API RTP para obter dados de visitante em tempo real, como organização, setor, localização e correspondência de códigos de segmento. Além disso, passar o mouse sobre um nome de segmento na página Segmentos revelará uma dica de ferramenta que mostra o código de segmento. Consulte nosso [site de desenvolvedores](http://developers.marketo.com/documentation/websites/rtp-js-api/) para obter a documentação completa.
+Nova chamada à API RTP para obter dados de visitante em tempo real, como organização, setor, localização e correspondência de códigos de segmento. Além disso, passar o mouse sobre um nome de segmento na página Segmentos revelará uma dica de ferramenta que mostra o código de segmento. Consulte nosso [site de desenvolvedores](https://developers.marketo.com/documentation/websites/rtp-js-api/) para obter a documentação completa.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
