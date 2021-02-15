@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Atualizações para a terminologia do Marketing - Documentos do Marketing - Documentação do produto
 title: Atualizações na terminologia do Marketing Cloud
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -83,7 +83,7 @@ Os tokens com a palavra lead neles **não estão mudando**. Pedimos desculpas po
 
 ## Gerenciamento de campo {#field-management}
 
-Os campos que continham o termo Lead foram substituídos por Pessoa ou a palavra Lead foi removida. No entanto, uma exceção notável é o campo &quot;Proprietário do cliente potencial&quot;. Agora é conhecido como &quot;Proprietário de vendas&quot;.
+Os campos que continham o termo Chumbo foram substituídos por Pessoa ou a palavra Chumbo foi removida. No entanto, uma exceção notável é o campo &quot;Proprietário do cliente potencial&quot;. Agora é conhecido como &quot;Proprietário de vendas&quot;.
 
 <table> 
  <colgroup> 
@@ -139,11 +139,11 @@ Os campos que continham o termo Lead foram substituídos por Pessoa ou a palavra
 
 Além da alteração de nome, agora ela consiste em quatro aplicativos separados:
 
-| ** [Personalização da Web](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Possui mosaicos próprios em tela inicial |
+| ** [Personalização da Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Possui mosaicos próprios em tela inicial |
 |---|---|
-| ** [Marketing Web baseado em conta](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Acessível via mosaico de personalização da Web |
-| ** [Redirecionamento Personalizado](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | Acessível via mosaico de personalização da Web |
-| ** [Conteúdo preditivo](http://docs.marketo.com/display/DOCS/Predictive+Content)** | Possui mosaicos próprios em tela inicial |
+| ** [Marketing Web baseado em conta](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Acessível via mosaico de personalização da Web |
+| ** [Redirecionamento Personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Acessível via mosaico de personalização da Web |
+| ** [Conteúdo preditivo](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Possui mosaicos próprios em tela inicial |
 
 >[!NOTE]
 >
