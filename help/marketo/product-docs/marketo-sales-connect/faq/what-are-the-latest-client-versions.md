@@ -3,7 +3,7 @@ unique-page-id: 14352422
 description: Quais são as versões mais recentes do cliente? - Documentos do Marketing - Documentação do produto
 title: Quais são as versões mais recentes do cliente?
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 5%
@@ -43,4 +43,3 @@ Abaixo estão as versões mais recentes para todos os clientes do Sales Connect.
 >[!NOTE]
 >
 >No momento, não estamos otimizados para navegadores diferentes do Chrome. Isso é algo que nossa equipe de produtos está ciente e espera abordar no futuro.
-
