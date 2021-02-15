@@ -3,7 +3,7 @@ unique-page-id: 7516390
 description: Instalar o pacote do Marketing Insight em vendas na AppExchange Salesforce - Documentos do Marketing - Documentação do produto
 title: Instalar o pacote de insight de vendas do Marketing Cloud na AppExchange do Salesforce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -23,11 +23,12 @@ Você precisa instalar o aplicativo Marketing Insight de vendas na subscrição 
 >
 >O Marketing to Sales Insight é compatível com a Criptografia da plataforma Salesforce (Shield).
 
-1. Vá para a página [AppExchange do Marketing Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) e clique em **Obter agora**.
+1. Vá para a página [AppExchange do Marketing Insight](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) e clique em **Obter agora**.
 
    ![](assets/one.png)
 
 1. Clique em **Faça logon no botão AppExchange** e faça logon com suas credenciais do Salesforce.
+
 1. Insira o logon da conta do Salesforce conectado e clique em **Instalar em Production**.
 
    ![](assets/three.png)
@@ -36,7 +37,7 @@ Você precisa instalar o aplicativo Marketing Insight de vendas na subscrição 
    >
    >Se quiser testá-la primeiro na sua caixa de proteção, escolha **Instalar na caixa de proteção**.
 
-1. Leia e aceite os termos e condições e clique em** Confirmar e Instalar**.
+1. Leia e aceite os termos e condições e clique em **Confirmar e Instalar**.
 
    ![](assets/four.png)
 
@@ -48,7 +49,7 @@ Você precisa instalar o aplicativo Marketing Insight de vendas na subscrição 
 
    ![](assets/six.png)
 
-1. Verifique se** Marketing to Sales Insight** está nos pacotes instalados.
+1. Verifique se **Marketing to Sales Insight** está nos pacotes instalados.
 
    ![](assets/seven.png)
 
@@ -64,7 +65,7 @@ Você precisa instalar o aplicativo Marketing Insight de vendas na subscrição 
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
-1. Se um objeto não estiver implantado, clique em **Editar **ao lado do item.
+1. Se um objeto não estiver implantado, clique em **Editar** ao lado do item.
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
@@ -76,7 +77,6 @@ Você precisa instalar o aplicativo Marketing Insight de vendas na subscrição 
 
 >[!MORELIKETHIS]
 >
->[Configurar o Marketing Sales Insight no Salesforce Professional Edition](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>[Configurar o Marketing Sales Insight no Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
->[Configurar o Marketing to Sales Insight no Salesforce Enterprise/Unlimited](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-
+>[Configurar o Marketing to Sales Insight no Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
