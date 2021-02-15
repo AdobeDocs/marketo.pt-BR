@@ -3,7 +3,7 @@ unique-page-id: 42762244
 description: Configuração de estrelas e chamas para registros de cliente potencial/contato - Documentos do marketing - Documentação do produto
 title: Configuração de estrelas e chamas para registros de cliente potencial/contato
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -16,7 +16,9 @@ ht-degree: 0%
 As estrelas e as chamas nos registros de contato/lead dependem: Campos Pontuação principal, Pontuação relativa, Urgência e Prioridade. Esses campos estão disponíveis por padrão depois que você instala e configura a solução MSI. Se você não tiver estrelas e chamas, uma configuração/personalização anterior pode ter feito com que elas fossem removidas. Siga as etapas abaixo para adicioná-las.
 
 1. No Microsoft Dynamics, clique no menu suspenso Vendas e selecione **Configurações**. Clique em **Personalizações** e, em seguida, **Personalizar o sistema**.
+
 1. No painel esquerdo, clique em **Entidades**.
+
 1. Localize e clique em **Lead**, **Forms** e selecione o formulário que deseja editar.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
@@ -26,5 +28,5 @@ As estrelas e as chamas nos registros de contato/lead dependem: Campos Pontuaç�
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
 1. Arraste e solte o seguinte: Campos Pontuação principal, Pontuação relativa, Urgência e Prioridade. Organize-os de uma maneira que funcione melhor para você. Você também pode formatar qualquer campo clicando nele com o duplo.
-1. Quando terminar, clique em **Salvar e Fechar**.
 
+1. Quando terminar, clique em **Salvar e Fechar**.
