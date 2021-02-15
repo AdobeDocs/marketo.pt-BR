@@ -3,9 +3,9 @@ unique-page-id: 30081250
 description: Gerenciar grupos - Documentos do Marketing - Documentação do produto
 title: Gerenciar grupos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Saiba como gerenciar seus grupos no Sales Connect.
 
 ## Criar um grupo {#create-a-group}
 
-1. Na página Pessoas, clique no **sinal de mais** ao lado de Grupos.
+1. Na página Pessoas, clique em **+** ao lado de Grupos.
 
    ![](assets/one-4.png)
 
@@ -39,7 +39,7 @@ Saiba como gerenciar seus grupos no Sales Connect.
 
    >[!NOTE]
    >
-   >Isso adicionará um contato de cada vez. Para adicionar vários contatos ao mesmo tempo, siga [estas etapas](http://docs.marketo.com/x/VADb).
+   >Isso adicionará um contato de cada vez. Para adicionar vários contatos ao mesmo tempo, siga [estas etapas](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 1. Preencha as informações do contato e clique em **Criar** (ou **Criar e Adicionar Novo** para adicionar outro).
 
@@ -114,4 +114,3 @@ Saiba como gerenciar seus grupos no Sales Connect.
 1. Clique em **Excluir** para confirmar.
 
    ![](assets/seventeen.png)
-
