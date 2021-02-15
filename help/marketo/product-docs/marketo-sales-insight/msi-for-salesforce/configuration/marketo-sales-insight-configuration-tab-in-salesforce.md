@@ -3,7 +3,7 @@ unique-page-id: 42762322
 description: Guia Configuração do Marketing Insight do setor de Vendas no Salesforce - Documentos do Marketing - Documentação do produto
 title: Guia Configuração do Marketing Insight do setor de Vendas no Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -58,4 +58,3 @@ As configurações são aplicáveis a todos os usuários de MSI e não são espe
 A opção de fazer isso limpará todas as suas configurações no SFDC e elas não poderão ser restauradas. Você terá que reconfigurar tudo novamente.
 
 ![](assets/three.png)
-
