@@ -3,7 +3,7 @@ unique-page-id: 2359987
 description: Inscrever-se em um relatório básico - Documentos do Marketing - Documentação do produto
 title: Inscrever-se em um relatório básico
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Assine um relatório básico {#subscribe-to-a-basic-report}
 
-Para receber atualizações automáticas de um [relatório básico](http://docs.marketo.com/display/docs/basic+reporting), ou para compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
+Para receber atualizações automáticas de um [relatório básico](https://docs.marketo.com/display/docs/basic+reporting), ou para compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
 
 >[!NOTE]
 >
->Para obter subscrições de relatório do [Explorador do Ciclo de Receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics), consulte [Inscrever-se num Relatório do Explorador de Receitas](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Para obter subscrições de relatório do [Explorador do Ciclo de Receita](https://docs.marketo.com/display/docs/revenue+cycle+analytics), consulte [Inscrever-se num Relatório do Explorador de Receitas](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Vá para a área **Atividades de marketing **i.
 
@@ -58,5 +58,5 @@ Para receber atualizações automáticas de um [relatório básico](http://docs.
    >**Mergulho profundo**
    >
    >
-   >Veja o que mais você pode fazer com os relatórios no aprofundamento do [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Veja o que mais você pode fazer com os relatórios no aprofundamento do [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
