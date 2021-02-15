@@ -3,7 +3,7 @@ unique-page-id: 2360002
 description: Configurar tamanho do relatório - Documentos do marketing - Documentação do produto
 title: Configurar tamanho do relatório
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -47,5 +47,5 @@ Por padrão, os relatórios do Marketo estão limitados a um máximo de 5.000 li
    >
    >Agora você pode [exportar seu relatório](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) com o novo limite.
 
-   Veja mais maneiras de configurar seus relatórios no aprofundamento do [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+   Veja mais maneiras de configurar seus relatórios no aprofundamento do [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
