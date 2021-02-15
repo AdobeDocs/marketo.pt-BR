@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Configurar Anúncios de venda do Facebook - Documentos do Marketing - Documentação do produto
 title: Configurar Anúncios de venda do Facebook
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Use [Anúncios de venda do Facebook](https://www.facebook.com/business/a/lead-ad
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Abra uma nova guia no mesmo navegador e vá para [facebook.com](http://www.facebook.com). Faça logon no Facebook usando a conta que deseja usar para a integração.
+1. Abra uma nova guia no mesmo navegador e vá para [facebook.com](https://www.facebook.com). Faça logon no Facebook usando a conta que deseja usar para a integração.
 
    >[!NOTE]
    >
