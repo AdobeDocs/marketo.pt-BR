@@ -3,7 +3,7 @@ unique-page-id: 2359488
 description: Relatórios de e-mail de grupo por segmentações - Documentos de marketing - Documentação do produto
 title: Relatórios de email de grupo por segmentação
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Relatórios de email de grupo por segmentações {#group-email-reports-by-segmentations}
 
-As segmentações não são apenas para conteúdo dinâmico. Você também pode agrupar seu [relatório de desempenho de email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) por [segmentações](http://docs.marketo.com/display/docs/segmentation+and+snippets).
+As segmentações não são apenas para conteúdo dinâmico. Você também pode agrupar seu [relatório de desempenho de email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) por [segmentações](https://docs.marketo.com/display/docs/segmentation+and+snippets).
 
 >[!PREREQUISITES]
 >
