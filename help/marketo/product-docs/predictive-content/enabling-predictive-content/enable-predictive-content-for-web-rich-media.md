@@ -3,7 +3,7 @@ unique-page-id: 7514956
 description: Habilitar conteúdo preditivo para mídias avançadas da Web - Documentos do marketing - Documentação do produto
 title: Ativar conteúdo preditivo para mídias avançadas da Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -19,7 +19,7 @@ O conteúdo preditivo envolve seus visitantes da Web com o conteúdo mais releva
 >
 >Antes de ativar o Conteúdo preditivo, você deve:
 >
->* [Preparar seu conteúdo preditivo](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Preparar seu conteúdo preditivo](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Aprovar um título para conteúdo previsível](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 >
@@ -42,7 +42,7 @@ Depois de preparar o título, a descrição e a imagem do conteúdo para Rich Me
 
 ## Personalize o código Javascript e incorpore-o ao seu site {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulte a documentação do modelo de recomendação de mídias avançadas [no site de desenvolvedores de marketing.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Isso explica como personalizar o modelo para seu site.
+Consulte a documentação do modelo de recomendação de mídias avançadas [no site de desenvolvedores de marketing.](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Isso explica como personalizar o modelo para seu site.
 
 Cole o código JavaScript no seu site na localização em que deseja que o modelo seja exibido.
 
@@ -62,5 +62,5 @@ Este é um exemplo do modelo de recomendação de mídias avançadas2:
 >[!MORELIKETHIS]
 >
 >* [Ativar a barra de recomendação de conteúdo](enable-the-content-recommendation-bar.md)
->* [Ativar conteúdo preditivo em emails](http://docs.marketo.com/x/vLit)
+>* [Ativar conteúdo preditivo em emails](https://docs.marketo.com/x/vLit)
 
