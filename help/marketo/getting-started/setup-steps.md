@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Etapas de configuração - Documentos do marketing - Documentação do produto
 title: Etapas de configuração
 translation-type: tm+mt
-source-git-commit: 0a4050545c5c956001c9c299cfbcf59e9cffd39c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2143'
 ht-degree: 0%
@@ -330,7 +330,7 @@ Envie o email para TI. Entendemos que pode levar algum tempo para que a TI concl
    >
    >Esses modelos personalizados estão disponíveis somente para clientes do Launch Pack.
 
-   Vá para o [Design de modelo de marketing e para o formulário Build](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Preencha suas informações de empresa.
+   Vá para o [Design de modelo de marketing e para o formulário Build](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Preencha suas informações de empresa.
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 
