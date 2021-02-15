@@ -3,7 +3,7 @@ unique-page-id: 12979006
 description: Visão geral do Performance Insights - Documentos do Marketing - Documentação do produto
 title: Visão geral do Performance Insights
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Para acessar o Performance Insights, clique em seu ícone na tela inicial do Ana
 
 ## Contribuição {#contribution}
 
-Avalie a contribuição [da Marketing para a receita](http://docs.marketo.com/x/QAvG)em função da aquisição, influência, conversão, até mesmo do crescimento básico instalado pelo cliente.
+Avalie a contribuição [da Marketing para a receita](https://docs.marketo.com/x/QAvG)em função da aquisição, influência, conversão, até mesmo do crescimento básico instalado pelo cliente.
 
 ![](assets/two.png)
 
@@ -38,13 +38,13 @@ Por padrão, os dados exibidos refletem o desempenho por Envolvimento. Você pod
 
 ## Tendência {#trend}
 
-Descubra as [tendências de longo prazo](http://docs.marketo.com/x/QgvG) para descobrir estratégias vencedoras consistentes.
+Descubra as [tendências de longo prazo](https://docs.marketo.com/x/QgvG) para descobrir estratégias vencedoras consistentes.
 
 ![](assets/4.png)
 
 ## Configurações {#settings}
 
-Nos painéis de Receita e Pipeline, clique no ícone [Configurações](http://docs.marketo.com/x/pIDS) para definir parâmetros adicionais.
+Nos painéis de Receita e Pipeline, clique no ícone [Configurações](https://docs.marketo.com/x/pIDS) para definir parâmetros adicionais.
 
 ![](assets/5.png)
 
