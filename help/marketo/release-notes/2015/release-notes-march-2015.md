@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: Notas de versão - março de 2015 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - março de 2015
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Os seguintes recursos foram incluídos na versão de março de 2015. Verifique a
 
 ## Calendário HD {#calendar-hd}
 
-[Exiba as ](http://docs.marketo.com/display/docs/calendar+hd) atividades de marketing de sua equipe com o novo modo de apresentação do calendário. Estes são ótimos para TVs ou monitores gigantes ao redor do escritório! Defina e exiba metas com base em uma lista inteligente ou métricas personalizadas.
+[Exiba as ](https://docs.marketo.com/display/docs/calendar+hd) atividades de marketing de sua equipe com o novo modo de apresentação do calendário. Estes são ótimos para TVs ou monitores gigantes ao redor do escritório! Defina e exiba metas com base em uma lista inteligente ou métricas personalizadas.
 
 >[!NOTE]
 >
@@ -33,13 +33,13 @@ Vincule sua conta [Google AdWords ao Marketo](../../product-docs/administration/
 
 ## Redesenhar o Explorador de Receitas {#revenue-explorer-redesign}
 
-[O Revenue ](http://docs.marketo.com/display/docs/revenue+explorer) Explorertem uma aparência nova, assim como o novo tipo de gráfico Sunburst! Estaremos lançando isso nas primeiras duas semanas de abril.
+[O Revenue ](https://docs.marketo.com/display/docs/revenue+explorer) Explorertem uma aparência nova, assim como o novo tipo de gráfico Sunburst! Estaremos lançando isso nas primeiras duas semanas de abril.
 
 ## Novas APIs REST de ativos {#new-asset-rest-apis}
 
-[Novas APIs REST de ativos](http://developers.marketo.com/)
+[Novas APIs REST de ativos](https://developers.marketo.com/)
 
-Agora temos suporte para criar e editar emails, modelos, meus tokens, arquivos e trechos [por meio da API](http://developers.marketo.com/documentation/asset-api)!
+Agora temos suporte para criar e editar emails, modelos, meus tokens, arquivos e trechos [por meio da API](https://developers.marketo.com/documentation/asset-api)!
 
 ## Microsoft Dynamics 2015 No Local {#microsoft-dynamics-on-premise}
 
