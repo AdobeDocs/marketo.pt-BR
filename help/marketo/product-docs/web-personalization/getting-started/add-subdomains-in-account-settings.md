@@ -3,7 +3,7 @@ unique-page-id: 17727870
 description: Adicionar subdomínios nas configurações da conta - Documentos do marketing - Documentação do produto
 title: Adicionar subdomínios nas configurações da conta
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -37,5 +37,5 @@ Veja como adicionar subdomínios aos domínios principais em Configurações da 
 
    >[!NOTE]
    >
-   >Se você quiser adicionar *domínios primários* à sua conta, entre em contato com [Suporte a marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
+   >Se você quiser adicionar *domínios primários* à sua conta, entre em contato com [Suporte a marketing](https://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
 
