@@ -3,7 +3,7 @@ unique-page-id: 10912178
 description: Configure o botão Dismiss e aprove a mensagem - Marketing to Docs - Documentação do produto
 title: Configure o botão Dismiss e aprove a mensagem
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '366'
 ht-degree: 0%
@@ -71,12 +71,12 @@ Todas as suas seleções para gráficos, texto e botões foram salvas automatica
 
 Tantas escolhas, mas agora você tem uma excelente mensagem no aplicativo, pronta para ir!
 
-Agora é hora de [enviar sua mensagem](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Agora é hora de [enviar sua mensagem](https://docs.marketo.com/display/docs/send+your+in-app+message).
 
 >[!MORELIKETHIS]
 >
 >* [Como entender as mensagens no aplicativo](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Enviar sua mensagem no aplicativo](http://docs.marketo.com/display/docs/send+your+in-app+message)
+>* [Enviar sua mensagem no aplicativo](https://docs.marketo.com/display/docs/send+your+in-app+message)
 >* [Escolha um layout para sua mensagem no aplicativo](choose-a-layout-for-your-in-app-message.md)
 
 >
