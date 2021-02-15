@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Segmentos da Web - Documentos do Marketing - Documentação do produto
 title: Segmentos da Web
 translation-type: tm+mt
-source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -108,23 +108,27 @@ Defina parâmetros gerais para o seu segmento:
 >1. Usar todos os Filtros (1 e 2 e 3...)
 >1. Usar quaisquer Filtros (1 ou 2 ou 3...)
 >1. Filtros avançados (usando e/ou expressão)
->
->    Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.
->
->    * 1 e 2 e 3
->    * 1 ou 2 ou 3
->
->    Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:
->
->    * 1 e (2 ou 3)
->    * (1 e 2) ou 3
->
->    Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.
->
->    * (1 e 2) ou (3 e 4)
->    * 1 e 2 ou 3 e 4)
->
->    Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
+
+   >
+   >    
+   Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.
+   >
+   >    
+   * 1 e 2 e 3
+   >    * 1 ou 2 ou 3
+
+   >
+   Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:
+
+   * 1 e (2 ou 3)
+   * (1 e 2) ou 3
+
+   Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.
+
+   * (1 e 2) ou (3 e 4)
+   * 1 e 2 ou 3 e 4)
+
+   Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
 
 
 
@@ -192,7 +196,7 @@ Selecione de uma [Lista Conta nomeada](../../../product-docs/web-personalization
 
 >[!NOTE]
 >
->O número entre colchetes ao lado do nome da Lista Conta nomeada é usado como uma referência de índice para a lista de Personalização da Web [Ler API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+>O número entre colchetes ao lado do nome da Lista Conta nomeada é usado como uma referência de índice para a lista de Personalização da Web [Ler API](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Excluir ISP**
 
@@ -292,11 +296,11 @@ Adicione o valor do Evento que você deseja público alvo. Por exemplo, de fonte
 
 **API de contexto do usuário**
 
-Chamada da API de personalização da Web [leia mais sobre ela aqui.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Chamada da API de personalização da Web [leia mais sobre ela aqui.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**Uso de curingas -** quando você deseja incluir qualquer termo de pesquisa ou URL que contenha algo dentro dele, ou seja, &quot;[google.com](http://google.com)&quot; ou &quot;produto de termo de pesquisa&quot;, chamamos isso de curinga e ele deve ser digitado com um asterisco - esse carinha* - em cada extremidade. Portanto, qualquer item vindo de [google.com](http://google.com) deve ser inserido como * [google.com](http://google.com)*
+>**Uso de curingas -** quando você deseja incluir qualquer termo de pesquisa ou URL que contenha algo dentro dele, ou seja, &quot;[google.com](https://google.com)&quot; ou &quot;produto de termo de pesquisa&quot;, chamamos isso de curinga e ele deve ser digitado com um asterisco - esse carinha* - em cada extremidade. Portanto, qualquer item vindo de [google.com](https://google.com) deve ser inserido como * [google.com](https://google.com)*
 
 ## Editar segmentos {#edit-segments}
 
