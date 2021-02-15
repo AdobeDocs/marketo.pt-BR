@@ -3,7 +3,7 @@ unique-page-id: 14352433
 description: Como criar sua Lista de chamada prioritária no Sales Connect - Documentos do Marketing - Documentação do produto
 title: Como criar sua Lista de chamada prioritária no Connect de vendas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -15,7 +15,8 @@ ht-degree: 0%
 
 Saiba como criar um relatório de prioridade/lista de chamada usando os dados de envolvimento de email do ToutApp para focar seu tempo nas pessoas ou oportunidades com dinamismo.
 
-1. Vá para sua conta no [aplicativo da Web](http://toutapp.com/login). Depois de concluir as etapas abaixo, você terá uma &quot;Lista de chamada prioritária&quot; salva no seu Connect de vendas para priorizar suas contas/clientes potenciais mais quentes, reativar clientes potenciais/contas que escureceram, capturar os frutos mais baixos e diminuir o tempo de conexão entre os toques de sua campanha.
+1. Vá para sua conta no [aplicativo da Web](https://toutapp.com/login). Depois de concluir as etapas abaixo, você terá uma &quot;Lista de chamada prioritária&quot; salva no seu Connect de vendas para priorizar suas contas/clientes potenciais mais quentes, reativar clientes potenciais/contas que escureceram, capturar os frutos mais baixos e diminuir o tempo de conexão entre os toques de sua campanha.
+
 1. Complete as etapas a seguir.
 
    * Clique em &quot;Opções de Visualização&quot;
@@ -31,4 +32,3 @@ Saiba como criar um relatório de prioridade/lista de chamada usando os dados de
    >[!NOTE]
    >
    >Você receberá automaticamente seu número de telefone, o número de telefone do seu cliente potencial/contato do Sales Connect ou do Salesforce, registrará automaticamente sua chamada e as notas no Salesforce (se você estiver usando o Salesforce como seu CRM). Você também terá a opção de usar a presença local e a gravação de chamada.
-
