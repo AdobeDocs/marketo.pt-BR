@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Página de insight de vendas para administradores de marketing - Documentos de marketing - Documentação do produto
 title: Página de insight de vendas para administradores de marketing
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Você pode optar por remover as credenciais da Rest API no SFDC e usar somente a
 
 ## Configurações da pontuação pessoal {#person-score-settings}
 
-| **Estrelas:** | As estrelas representam a pontuação total de chumbo em comparação a outros clientes potenciais. |
-|---|---|
-| **Chamas:** | As chamas representam a urgência - quanto a pontuação de um cliente potencial mudou recentemente. |
+* **Estrelas**: As estrelas representam a pontuação total de chumbo em comparação a outros clientes potenciais.
+* **Chamas**: As chamas representam a urgência - quanto a pontuação de um cliente potencial mudou recentemente.
 
 Por padrão, o Marketing Cloud Sales Insight usa o campo Pontuação principal para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
 
@@ -61,19 +60,17 @@ Por padrão, o Marketing Cloud Sales Insight usa o campo Pontuação principal p
 
    >[!TIP]
    >
-   >Se você ainda não tiver seus campos de pontuação personalizados, veja como [criá-los](http://docs.marketo.com/x/3wMk).
+   >Se você ainda não tiver seus campos de pontuação personalizados, veja como [criá-los](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Estrelas e chamas](http://docs.marketo.com/x/qgU6Ag)
+   >[Estrelas e chamas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Configurações {#settings}
 
 ![](assets/nine.png)
 
-**Configurações de cancelamento de assinatura: **
+**Desinscrever configurações:**
 
 Você pode escolher entre as seguintes configurações de cancelamento de inscrição para Sem modelo, e-mails padrão e e e-mails operacionais
 
@@ -82,10 +79,10 @@ Você pode escolher entre as seguintes configurações de cancelamento de inscri
 * Respeitar configurações de cancelamento de inscrição quando mais de 5 recipient
 * Ignorar configurações de cancelamento de inscrição
 
-**Habilitar a capacidade de bloquear modelos: **
+**Habilitar a capacidade de bloquear modelos:**
 
 Quando ativados, os usuários MSI não poderão editar modelos ao enviar emails do Salesforce
 
 **Ativar feed RSS:**
 
-Quando ativados, os usuários do MSI podem visualização seus Feed de cliente potencial em um feed RSS (além do Feed de cliente potencial no Salesforce)**.**
+Quando ativados, os usuários MSI podem visualização seus Feed de cliente potencial em um feed RSS (além do Feed de cliente potencial no Salesforce).
