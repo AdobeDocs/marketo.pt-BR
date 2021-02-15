@@ -3,7 +3,7 @@ unique-page-id: 18874822
 description: Notas de versão - junho de 2019 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - junho de 1919
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Os seguintes recursos foram lançados em 14 de junho de 2019.
 
 >[!CAUTION]
 >
->A partir de 18 de junho de 2019, o Email 1.0 não estará mais disponível. Você pode saber mais sobre o Email 2.0 e a desaprovação do Email 1.0 [aqui](http://nation.marketo.com/docs/DOC-7038).
+>A partir de 18 de junho de 2019, o Email 1.0 não estará mais disponível. Você pode saber mais sobre o Email 2.0 e a desaprovação do Email 1.0 [aqui](https://nation.marketo.com/docs/DOC-7038).
 
 ## Marketing baseado em conta {#account-based-marketing}
 
@@ -66,7 +66,7 @@ Conexão de Vendas do Marketing
 ## Bizível por Marketo {#bizible-by-marketo}
 
 * **Suporte a várias moedas para o Dynamics**: A Bizible agora se adapta às tabelas de moeda do Microsoft Dynamics, para que você possa alternar facilmente entre moedas corporativas e locais. (Observação: O suporte para SFDC foi lançado no primeiro trimestre de 2019.)
-* **Integração** do Drift: Entenda como as conversas de Drift afetam a jornada do cliente. O Bizible também obterá endereços de email de conversas para criar um novo cliente potencial ou conectar o ponto de contato a um cliente potencial existente.
+* **Integração** do Drift: Entenda como as conversas de Drift afetam a jornada de seu cliente. O Bizible também obterá endereços de email de conversas para criar um novo cliente potencial ou conectar o ponto de contato a um cliente potencial existente.
 * **Localização**: A Bizíblia agora está disponível em todos os idiomas compatíveis com o mercado (inglês, japonês, alemão, espanhol, francês e português).
 
 ***Webinar*** de lançamento de produtosAssista à gravação do nosso webinário de inovações de lançamento de junho de 1919  [aqui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
