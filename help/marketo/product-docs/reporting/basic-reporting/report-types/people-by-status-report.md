@@ -3,7 +3,7 @@ unique-page-id: 2360012
 description: Relatório de Pessoas por status - Documentos do Marketing - Documentação do produto
 title: Relatório de Pessoas por Status
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -38,5 +38,5 @@ Verifique se você está movendo as pessoas pelo processo verificando quantas de
    >**Mergulho profundo**
    >
    >
-   >Saiba mais sobre como adicionar colunas e muito mais no profundo Relatórios [Básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Saiba mais sobre como adicionar colunas e muito mais no profundo Relatórios [Básico](https://docs.marketo.com/display/docs/basic+reporting).
 
