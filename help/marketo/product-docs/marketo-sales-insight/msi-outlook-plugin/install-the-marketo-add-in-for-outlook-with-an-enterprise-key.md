@@ -3,7 +3,7 @@ unique-page-id: 11377488
 description: Instale o add-in Marketo para Outlook com uma chave corporativa - Documentos do marketing - Documentação do produto
 title: Instalar o suplemento de marketing para Outlook com uma chave corporativa
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Muitas vezes, os representantes de vendas não têm privilégios administrativos
 
 >[!NOTE]
 >
->Se você não visualizar o botão Visualização da chave corporativa, entre em contato com [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) para ativá-la.
+>Se você não vir o botão Visualização da chave corporativa, entre em contato com [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) para ativá-la.
 
 1. Em Meu Marketo, clique em **Admin** e, em seguida, **Sales Insight.**
 
