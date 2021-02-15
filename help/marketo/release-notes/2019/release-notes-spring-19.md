@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Notas de versão - Primeiro trimestre de 2019 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - Primeiro trimestre de 2019
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Os seguintes recursos foram lançados em 15 de março de 2019.
 
 * **Lista de espera:** Novo status de programa/evento para lista de espera de um membro quando você deseja  [colocá-lo em ](../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) espera até que uma vaga seja aberta. Isso se aplica a canais associados a programas Eventos no Marketo Classic e Eventos e Eventos com programas Webinar no Marketo Sky. Por padrão, a lista de Espera tem o mesmo valor de etapa que a opção Registrado.
 * ** [Limite de Comunicação Personalizada](../../product-docs/administration/email-setup/enable-communication-limits.md)**: Agora, os administradores podem definir limites personalizados de comunicação diária ou semanal.
-* ** [APIs de ativos de Campanha inteligente](http://developers.marketo.com/rest-api/assets/campaigns/)**: Enriqueça suas análises fora do Marketo com a recuperação de registros de campanha inteligente por data e ID atualizadas.
+* ** [APIs de ativos de Campanha inteligente](https://developers.marketo.com/rest-api/assets/campaigns/)**: Enriqueça suas análises fora do Marketo com a recuperação de registros de campanha inteligente por data e ID atualizadas.
 * **Links de rastreamento HTTPS para email:** para clientes que compraram &quot;Domínios seguros para links de rastreamento&quot;, os links de rastreamento com marca podem ser exibidos em seus emails como HTTPS.
 * **Atualizações** do Powerpack de entrega por email: Capacidade de sinalizar e comentar resultados de testes específicos, compartilhar resultados com as partes interessadas por meio de um URL e rastrear alterações para ver a evolução de um email enquanto as partes interessadas editam o conteúdo.
 
