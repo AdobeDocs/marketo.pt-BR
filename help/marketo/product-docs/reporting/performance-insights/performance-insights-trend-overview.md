@@ -3,7 +3,7 @@ unique-page-id: 12979010
 description: Visão geral de tendências do Performance Insights - Documentos do Marketing - Documentação do produto
 title: Visão geral de tendências do Performance Insights
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Clique na guia **Tendência** para acessar essa visualização.
 
 ![](assets/2-1.png)
 
-Selecione a métrica pela qual deseja visualização do desempenho. Neste exemplo, vamos ver as oportunidades ganhas por [Primeiro toque](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Selecione a métrica pela qual deseja visualização do desempenho. Neste exemplo, vamos ver as oportunidades ganhas por [Primeiro toque](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 ![](assets/3-2.png)
 
