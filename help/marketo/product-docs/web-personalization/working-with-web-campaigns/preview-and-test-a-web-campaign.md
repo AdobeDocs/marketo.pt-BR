@@ -3,7 +3,7 @@ unique-page-id: 10092925
 description: Pré-visualização e teste uma Campanha da Web - Documentos do Marketing - Documentação do produto
 title: Pré-visualização e teste uma Campanha da Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Este artigo mostra diferentes maneiras de pré-visualização de uma campanha da
 
    >[!NOTE]
    >
-   >Você também tem a opção de instalar um plug-in do navegador ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) para obter a melhor experiência em visualizar sua campanha. Consulte a seção abaixo.
+   >Você também tem a opção de instalar um plug-in do navegador ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) para obter a melhor experiência em visualizar sua campanha. Consulte a seção abaixo.
 
 ## Pré-visualização uma Campanha da Web na página de criação usando o plug-in do navegador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -92,7 +92,7 @@ Crie um segmento e uma campanha de sandbox.
 1. Conclua o anúncio de campanha e clique em **Iniciar**.\
    ![](assets/click-launch.jpg)
 
-1. Vá para seu site, adicione o parâmetro de URL &quot;?sandbox=1&quot; no final do URL. Exemplo: [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. Vá para seu site, adicione o parâmetro de URL &quot;?sandbox=1&quot; no final do URL. Exemplo: [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
 1. Veja a campanha reagir em seu site.
 
 >[!NOTE]
