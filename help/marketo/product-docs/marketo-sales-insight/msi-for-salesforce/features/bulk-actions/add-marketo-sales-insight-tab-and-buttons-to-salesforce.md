@@ -3,7 +3,7 @@ unique-page-id: 7516419
 description: Adicionar a guia Marketing to Sales Insight e botões ao Salesforce - Documentos do Marketing - Documentação do produto
 title: Adicionar a guia de insight de vendas e botões do Marketing Cloud ao Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Você pode adicionar a guia Marketing to Sales Insight e os botões personalizad
 
 ## Adicionar a guia Marketo {#adding-the-marketo-tab}
 
-1. Clique em** + **e em **Personalizar minhas guias**.
+1. Clique em **+** e clique em **Personalizar minhas guias**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
@@ -43,7 +43,7 @@ Você pode adicionar botões de marketing aos seus layouts do Salesforce. Veja u
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. Clique em **Editar** na **Visualização de Lista principal **linha.
+1. Clique em **Editar** na linha **Visualização de Lista de Clientes Potenciais**.
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
