@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossário do Marketo - Documentos do Marketo - Documentação do produto
 title: Glossário de marketing
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -446,7 +446,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
  </tbody> 
 </table>
 
-## I {#k}
+## K {#k}
 
 <table> 
  <colgroup> 
@@ -456,7 +456,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Pessoa conhecida</strong></a></td> 
-   <td><p>Todos os dados pessoais no Marketo <strong>database</strong> são considerados dados pessoais conhecidos. Há várias maneiras de alguém entrar no seu banco de dados, incluindo: Sincronização de CRM, preenchimento de um formulário, importação de lista/entrada manual, programática (restante integração de API/parceiro) e muito mais. Os visitantes da Web são inicialmente <strong>cookies</strong> (e são anônimos) por meio do rastreamento da Web <strong>Munchkin</strong> do Marketo e são mapeados subsequentemente para o registro de pessoa conhecida correspondente quando uma ação identificável ocorre (por exemplo, clicou em um link rastreado em um email do Marketo, preencheram um formulário com seu endereço de email associado ou são mapeados manualmente pelo Marketo principais APIs em <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> e <a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/linkedLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Todos os dados pessoais no Marketo <strong>banco de dados</strong> são considerados dados pessoais conhecidos. Há várias maneiras de alguém entrar no seu banco de dados, incluindo: Sincronização de CRM, preenchimento de um formulário, importação de lista/entrada manual, programática (restante integração de API/parceiro) e muito mais. Os visitantes da Web são inicialmente <strong>cookies</strong> (e são anônimos) por meio do rastreamento da Web <strong>Munchkin</strong> do Marketo e são mapeados subsequentemente para o registro de pessoa conhecida correspondente quando uma ação identificável ocorre (por exemplo, clicou em um link rastreado em um email do Marketo, preencheram um formulário com seu endereço de email associado ou são mapeados manualmente pelo Marketo principais APIs em <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> e <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/linkedLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -555,7 +555,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
    <td>Também conhecido como MSD. Um dos dois CRMs Marketo tem uma integração nativa com (consulte <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="http://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
    <td>Código de rastreamento JavaScript personalizado do Marketo. Ele rastreia todos os indivíduos que visitam seu site. Isso inclui visitantes anônimos (além de seus endereços IP e outras informações). </td> 
   </tr> 
   <tr> 
@@ -759,7 +759,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
    <td colspan="1"><p>Um mecanismo de autenticação que identifica os servidores de email autorizados a enviar emails para um domínio específico.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="http://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Campanha inteligente</strong></a></td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Campanha inteligente</strong></a></td> 
    <td colspan="1">Uma das ferramentas mais importantes do Marketo. Eles executam ações que você designar com base em critérios que você determinar. (consulte também <strong><a href="#b">Campanha em lote</a></strong> e <strong><a href="#t">Campanha do acionador</a></strong>)</td> 
   </tr> 
   <tr> 
