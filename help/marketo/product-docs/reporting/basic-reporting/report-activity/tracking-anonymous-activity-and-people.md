@@ -3,7 +3,7 @@ unique-page-id: 2360181
 description: Rastreamento de Atividades e pessoas anônimas - Documentos de marketing - Documentação do produto
 title: Rastrear Atividades e pessoas anônimas
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -28,8 +28,8 @@ Na primeira vez que alguém visita um Marketo [landing page](../../../../product
    Uma atividade anônima é fundida em uma pessoa nova ou existente quando alguém:
 
    * Clique em um link [em um email do Marketo](../../../../product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Preenche um formulário Marketo [form](http://docs.marketo.com/display/docs/forms).
-   * Usa a API [REST API](http://developers.marketo.com/rest-api/lead-database/leads/) ou [Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) do Marketo (para desenvolvedores) para associar uma atividade anônima a um registro conhecido.
+   * Preenche um formulário Marketo [form](https://docs.marketo.com/display/docs/forms).
+   * Usa a API [REST API](https://developers.marketo.com/rest-api/lead-database/leads/) ou [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) do Marketo (para desenvolvedores) para associar uma atividade anônima a um registro conhecido.
 
    Um nome no banco de dados pode estar vinculado a muitos cookies, pois as pessoas geralmente usam dispositivos e navegadores diferentes para visitar seu site.
 
@@ -50,5 +50,5 @@ Na primeira vez que alguém visita um Marketo [landing page](../../../../product
    >**Mergulho profundo**
    >
    >
-   >Saiba mais sobre [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Saiba mais sobre [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
