@@ -3,7 +3,7 @@ unique-page-id: 14745959
 description: Notas de versão - Primeiro trimestre de 2018 - Documentos de marketing - Documentação do produto
 title: Notas de versão - Primeiro trimestre de 2018
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Clique nos links de título para artigos detalhados de visualização para cada 
 >
 >A participação em vendas é um produto complementar. Entre em contato com o Gerente de sucesso do cliente do Marketing to ou com o Executivo de conta para obter uma cotação.
 
-Incentive mais pipeline e receita ao capacitar vendas com inteligência, conteúdo, playbooks e análises para converter mais leads em oportunidades de vendas. O Sales Engage fornece às vendas e ao marketing uma plataforma unificada para envolvimento durante a jornada do cliente e permite melhor coordenação por meio de uma visualização compartilhada de pontos de contato do cliente.
+Incentive mais pipeline e receita ao capacitar vendas com inteligência, conteúdo, playbooks e análises para converter mais leads em oportunidades de vendas. O Sales Engage oferece às vendas e ao marketing uma plataforma unificada para envolvimento em toda a jornada do cliente e permite melhor coordenação por meio de uma visualização compartilhada de pontos de contato do cliente.
 
 **ToutApp**
 
@@ -81,12 +81,12 @@ Defina o objetivo do algoritmo de otimização Content<sup>AI</sup> para direcio
 
 Envie notificações do sistema e momentos interessantes para o Facebook Workplace.
 
-[APIs de Lista estática](http://developers.marketo.com/rest-api/assets/static-lists/)
+[APIs de Lista estática](https://developers.marketo.com/rest-api/assets/static-lists/)
 
 Gerencie listas entre o Marketo e outros sistemas com mais facilidade com novas APIs bidirecionais para criar, ler, atualizar e excluir listas estáticas remotamente sem tomar nenhuma ação na interface do usuário do Marketo.
 
 ## Aprimoramentos de privacidade {#privacy-enhancements}
 
-[Privacidade do rastreamento web](http://developers.marketo.com/javascript-api/lead-tracking/)
+[Privacidade do rastreamento web](https://developers.marketo.com/javascript-api/lead-tracking/)
 
 O rastreamento Munchkin aprimorado está em conformidade com as regulamentações locais e internacionais de privacidade, ao tornar anônimos os endereços IP dos visitantes da Web e permitir que eles excluam permanentemente o rastreamento da Web.
