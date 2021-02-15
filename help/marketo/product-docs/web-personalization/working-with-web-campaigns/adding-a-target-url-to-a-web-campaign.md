@@ -3,7 +3,7 @@ unique-page-id: 6094879
 description: Adicionar um URL de Público alvo a uma Campanha da Web - Documentos do Marketing - Documentação do produto
 title: Adicionar um URL de Público alvo a uma Campanha da Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Clicar no ícone de adição (![—](assets/image2015-2-18-8-3a40-3a59.png)) abr
 >
 >
 >* As campanhas da Web de caixa de diálogo e Widget podem usar as opções Qualquer página e Curinga (*).
-* Em casos de uso avançado, nas campanhas da Web da Zona, é possível usar Caracteres curinga no final do caminho do URL. Exemplo: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+* Em casos de uso avançado, nas campanhas da Web da Zona, é possível usar Caracteres curinga no final do caminho do URL. Exemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * O URL faz distinção entre maiúsculas e minúsculas
 
 
@@ -75,12 +75,12 @@ Clicar no ícone de adição (![—](assets/image2015-2-18-8-3a40-3a59.png)) abr
 1. Adicione um** Nome da Campanha**. Selecione um **Segmento de Público alvo**. Adicione **URL do Público alvo**.
 
    >[!NOTE]
-   O URL do público alvo com em zonas deve definir um URL ou URLs específicos. Em casos de uso avançado, nas campanhas da Web da Zona, é possível usar Caracteres curinga no final do caminho do URL. Exemplo: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+   O URL do público alvo com em zonas deve definir um URL ou URLs específicos. Em casos de uso avançado, nas campanhas da Web da Zona, é possível usar Caracteres curinga no final do caminho do URL. Exemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
-* [Criar uma nova Campanha da Web de caixa de diálogo](create-a-new-dialog-web-campaign.md)
+* [Criar uma nova Campanha da Web de diálogo](create-a-new-dialog-web-campaign.md)
 * [Criar uma nova Campanha da Web na zona](create-a-new-in-zone-web-campaign.md)
 * [Criar uma nova Campanha Web de widget](create-a-new-widget-web-campaign.md)
 
