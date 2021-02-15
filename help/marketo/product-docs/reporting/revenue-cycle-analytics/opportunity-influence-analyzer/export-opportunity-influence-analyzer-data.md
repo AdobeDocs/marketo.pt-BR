@@ -3,7 +3,7 @@ unique-page-id: 2360394
 description: Exportar dados do analisador de influência da oportunidade - documentos do marketing - documentação do produto
 title: Exportar dados do analisador de influência da oportunidade
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Exportar dados do analisador de influência de oportunidade {#export-opportunity-influence-analyzer-data}
 
-Para receber atualizações dos relatórios do [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) e para compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
+Para receber atualizações dos relatórios do [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) e para compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
 
 1. Vá para **Analytics** e selecione **Novo** **** **Novo** **Relatório** **Subscrição**.
 
@@ -51,5 +51,5 @@ Para receber atualizações dos relatórios do [Revenue Cycle Explorer](http://d
 >
 >**Mergulho profundo**
 >
->Veja mais coisas que você pode fazer com as análises avançadas do Marketo no aprofundamento do [Explorador do Ciclo de Receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Veja mais coisas que você pode fazer com as análises avançadas do Marketo no aprofundamento do [Explorador do Ciclo de Receita](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
