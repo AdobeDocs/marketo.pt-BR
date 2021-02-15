@@ -3,7 +3,7 @@ unique-page-id: 13795536
 description: Criar um segmento usando uma Lista estática - Documentos do Marketing - Documentação do produto
 title: Criar um segmento usando uma Lista estática
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Criar um segmento usando uma Lista estática {#create-a-segment-using-a-static-list}
 
-Segmente visitantes da Web conhecidos quando eles visitam seu site com base em se eles estão ou não em um de seus listas comerciais [estáticos](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists).
+Segmente visitantes da Web conhecidos quando eles visitam seu site com base em se eles estão ou não em um de seus listas comerciais [estáticos](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists).
 
 1. Vá para **Segmentos**.
 
