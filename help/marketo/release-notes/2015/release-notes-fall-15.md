@@ -3,7 +3,7 @@ unique-page-id: 10094114
 description: Notas de versão - Último trimestre de 2015 - Documentos do marketing - Documentação do produto
 title: Notas de versão - Último trimestre de 2015
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1026'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Várias subscrições podem ser criadas em uma lista inteligente. Há uma limita
 
 ## Objetos personalizados de marketing {#marketo-custom-objects}
 
-[Objetos personalizados de marketing](http://docs.marketo.com/display/docs/marketo+custom+objects)
+[Objetos personalizados de marketing](https://docs.marketo.com/display/docs/marketo+custom+objects)
 
 Crie facilmente objetos personalizados da interface do usuário do administrador. Atualmente, oferecemos suporte à capacidade de criar um objeto personalizado 1:N no Marketo e conectá-lo a um cliente potencial ou empresa.
 
@@ -121,7 +121,7 @@ Estamos fazendo várias melhorias no editor de rich text. Depois que lançamos o
    ```
 
    ```
-   <v:fill type="tile" src="<a href="http://i.imgur.com/YJOX1PC.png" rel="nofollow">http://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
    ```
 
    ```
