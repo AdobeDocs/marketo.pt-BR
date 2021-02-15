@@ -3,7 +3,7 @@ unique-page-id: 4719332
 description: Implantar o JavaScript RTP - documentos do Marketo - Documentação do produto
 title: Implantar o JavaScript RTP
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -45,5 +45,5 @@ Para gerar e configurar sua tag RTP, siga as instruções de instalação abaixo
 
 >[!MORELIKETHIS]
 >
->* [Implementação da tag RTP](http://docs.marketo.com/display/docs/rtp+tag+implementation)
+>* [Implementação da tag RTP](https://docs.marketo.com/display/docs/rtp+tag+implementation)
 
