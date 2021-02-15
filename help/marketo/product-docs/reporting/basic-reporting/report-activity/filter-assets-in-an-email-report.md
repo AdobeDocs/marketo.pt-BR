@@ -3,7 +3,7 @@ unique-page-id: 2360225
 description: Filtrar ativos em um relatório por email - Documentos do Marketing - Documentação do produto
 title: Filtrar ativos em um relatório de email
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -55,5 +55,5 @@ Focalize seu relatório [Desempenho do email](../../../../product-docs/email-mar
 >
 >**Mergulho profundo**
 >
->Saiba tudo sobre os relatórios em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+>Saiba tudo sobre os relatórios em [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
