@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Notas de versão - Winter '17 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 17
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -27,7 +27,7 @@ A Correspondência básica usa somente endereços de email, mas a nova Correspon
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API de importação de objeto personalizado](http://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [API de importação de objeto personalizado](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 Essa API fornece uma interface mais rápida para sincronizar objetos personalizados no Marketo. É possível importar arquivos CSV, TSV ou planilha SSV para o Marketo como objetos personalizados.
 
@@ -37,7 +37,7 @@ Exporte todos os detalhes e análises de sua Campanha da Web em um formato CSV. 
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Localização](http://docs.marketo.com/display/docs/web+personalization) {#localization}
+## [Localização](https://docs.marketo.com/display/docs/web+personalization) {#localization}
 
 Os aplicativos Web Personalization, Predictive Content e Email Insights agora estão disponíveis em japonês, alemão e espanhol. Você [seleciona o idioma e a localidade](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) para visualização do conteúdo nesses idiomas.
 
@@ -71,7 +71,7 @@ Filtrar análise de conteúdo preditivo para fontes específicas — Email, Míd
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Editor de conteúdo preditivo](http://docs.marketo.com/display/docs/edit+predictive+content)**
+**[Editor de conteúdo preditivo](https://docs.marketo.com/display/docs/edit+predictive+content)**
 
 Existe uma experiência e um layout de edição melhorados que divide a preparação do conteúdo por fonte. Email, Mídia avançada ou Barra de recomendações.
 
@@ -81,7 +81,7 @@ Existe uma experiência e um layout de edição melhorados que divide a prepara�
 
 URL da imagem e metadados agora são usados no processo de descoberta automática do conteúdo.
 
-## [Aprimoramentos do SDK](http://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [Aprimoramentos do SDK](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 Os desenvolvedores agora têm controle adicional sobre o delivery das Notificações por push com a adição de uma nova chamada de API SDK que permite que os desenvolvedores removam tokens de push.
 
