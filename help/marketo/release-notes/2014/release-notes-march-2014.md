@@ -3,7 +3,7 @@ unique-page-id: 2951046
 description: Notas de versão - março de 2014 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - março de 2014
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -57,6 +57,6 @@ Selecione o [Idioma do Aplicativo de Marketing](/help/marketo/product-docs/admin
 
 ## Blog do desenvolvedor do Marketo {#marketo-developer-blog}
 
-O [Blog do desenvolvedor do Marketing](http://developers.marketo.com/blog/) é dedicado aos desenvolvedores da Web e engenheiros de software que apóiam as necessidades em rápida evolução do comerciante moderno. Você pode assinar anúncios sobre novas opções de integração, atualizações de versão de API e uma nova série de artigos de procedimentos que incluem exemplos de código e práticas recomendadas de integração com a plataforma Marketo.
+O [Blog do desenvolvedor do Marketing](https://developers.marketo.com/blog/) é dedicado aos desenvolvedores da Web e engenheiros de software que apóiam as necessidades em rápida evolução do comerciante moderno. Você pode assinar anúncios sobre novas opções de integração, atualizações de versão de API e uma nova série de artigos de procedimentos que incluem exemplos de código e práticas recomendadas de integração com a plataforma Marketo.
 
-O [primeiro artigo](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) desta série irá guiá-lo para saber como recuperar com eficiência as informações sobre as pessoas (clientes/contatos/clientes potenciais) que estão armazenadas no Marketing usando a API.
+O [primeiro artigo](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) desta série irá guiá-lo para saber como recuperar com eficiência as informações sobre as pessoas (clientes/contatos/clientes potenciais) que estão armazenadas no Marketing usando a API.
