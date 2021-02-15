@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Notas de versão - Winter '19 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 1919
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Clique nos links de título para artigos detalhados de visualização para cada 
 
 >[!NOTE]
 >
->A Microsoft está forçando todos os clientes online a atualizarem para a versão mais recente do Microsoft Dynamics. Se você estiver integrando sua instância do Marketo ao Dynamics Online, precisará [atualizar para a versão mais recente da solução Marketo](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) antes de **31 de janeiro de 2019** para garantir que sua integração continuará funcionando.
+>A Microsoft está forçando todos os clientes online a atualizarem para a versão mais recente do Microsoft Dynamics. Se você estiver integrando sua instância do Marketo com o Dynamics Online, precisará [atualizar para a versão mais recente da solução Marketo](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) antes de **31 de janeiro de 2019** para garantir que sua integração continuará funcionando.
 
 >[!NOTE]
 >
@@ -40,11 +40,11 @@ Inclua até cinco endereços CC por recipient em emails enviados pelo Marketo.
 * **Suporte a domínio com várias marcas para API de ativos:** a aprovação e clonagem de ativos produzem os mesmos resultados na API e na interface do usuário.
 * **Suporte CC por email para API** de ativos: Os usuários que clonam, aprovam e processam emails por meio da API manterão a paridade com as configurações da interface do usuário.
 
-** [Munchkin v155 (Beta)](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+** [Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Modo** somente API: Agora, os usuários podem determinar quando e como rastrear membros de seu banco de dados permitindo que aplicativos da Web de página única façam uma chamada explícita quando desejam gravar uma visita da página da Web em vez de depender do rastreamento automático do Marketo.
 * **Gerenciamento** de não participação: Gerencie com facilidade as opções de não participação ao combinar o domínio do cookie de opção de não participação com o domínio do cookie de rastreamento Munchkin.
-* **Parâmetro** Decider de Nível de Domínio: Domínios de duas letras (ou seja, &quot;  [website.io](http://website.io)&quot;) será rastreado automaticamente no Marketo sem requisitos adicionais de configuração.
+* **Parâmetro** Decider de Nível de Domínio: Domínios de duas letras (ou seja, &quot;  [website.io](https://website.io)&quot;) será rastreado automaticamente no Marketo sem requisitos adicionais de configuração.
 
 ## Marketing to Sales Engate {#marketo-sales-engage}
 
@@ -103,10 +103,10 @@ Para gerenciar domínios e subdomínios com mais eficiência, os usuários agora
 
 **Kit de desenvolvimento de software (SDK) do MME atualizado para Android**
 
-Atualizamos nosso SDK para Android para uma estrutura mais moderna, estável e escalável que contém mais flexibilidade e novos recursos de engenharia. Os desenvolvedores de aplicativos Android agora podem usar diretamente o [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) do Google com esse novo SDK.
+Atualizamos nosso SDK para Android para uma estrutura mais moderna, estável e escalável que contém mais flexibilidade e novos recursos de engenharia. Os desenvolvedores de aplicativos Android agora podem usar diretamente o [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) do Google com esse novo SDK.
 
-* [Instruções do desenvolvedor](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [Perguntas frequentes do desenvolvedor](http://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [Instruções do desenvolvedor](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [Perguntas frequentes do desenvolvedor](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
