@@ -3,7 +3,7 @@ unique-page-id: 2360401
 description: Compare a eficácia do Canal com o analisador de Programas - Documentos de marketing - Documentação do produto
 title: Compare a eficácia do Canal com o analisador de Programas
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -93,4 +93,4 @@ Em nosso exemplo, vemos que o canal de apresentação comercial é o mais caro (
 
 >[!NOTE]
 >
->Saiba mais sobre análises avançadas no [Explorador do Ciclo de Receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Saiba mais sobre análises avançadas no [Explorador do Ciclo de Receita](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
