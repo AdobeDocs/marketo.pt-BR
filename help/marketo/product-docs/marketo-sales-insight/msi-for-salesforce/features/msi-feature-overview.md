@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Visão geral dos recursos do MSI - Documentos do Marketing - Documentação do produto
 title: Visão geral dos recursos do MSI
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ O Painel MSI Visualforce inclui as seguintes funcionalidades:
 
 * Guias
 
-   * [Painel Insights](http://docs.marketo.com/x/EoGMAg)
+   * [Painel Insights](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * Momento interessante
    * Atividade da Web
    * Email
@@ -170,7 +170,7 @@ Salesforce Classic: Adicione aos botões de ação em massa Lista de observaçã
 
 >[!MORELIKETHIS]
 >
->[Guia Configuração do Marketing Insight Sales no Salesforce](http://docs.marketo.com/x/UoCMAg)
+>[Guia Configuração do Marketing Insight Sales no Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Relatórios de desempenho do Sales Insight {#sales-insight-performance-reports}
 
