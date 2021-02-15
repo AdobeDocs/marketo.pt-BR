@@ -3,7 +3,7 @@ unique-page-id: 10095358
 description: Informações sobre a visualização e a conta e Atividades no Google Mail - Documentos do Marketing - Documentação do produto
 title: Informações e Atividades da visualização e da conta no Google Mail
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -49,5 +49,4 @@ Clique no ícone Marketo para abrir o painel.
 
 >[!MORELIKETHIS]
 >
->[Uso do Marketing Insights para o Google Chrome](using-marketo-insights-for-google-chrome.md)
-
+>[Uso do Marketing Insights para o Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
