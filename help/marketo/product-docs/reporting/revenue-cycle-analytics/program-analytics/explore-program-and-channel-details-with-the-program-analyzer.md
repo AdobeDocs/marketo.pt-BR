@@ -3,7 +3,7 @@ unique-page-id: 2360437
 description: Explore os detalhes do Programa e do Canal com o Programa Analyzer - Documentos do marketing - Documentação do produto
 title: Explore os detalhes do Programa e Canal com o Analisador de Programas
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -59,4 +59,4 @@ Você pode ver as estatísticas detalhadas de programa e canal no Analisador de 
 
    >[!NOTE]
    >
-   >Saiba mais sobre análises avançadas no [Explorador de Receita](http://docs.marketo.com/display/docs/revenue+explorer).
+   >Saiba mais sobre análises avançadas no [Explorador de Receita](https://docs.marketo.com/display/docs/revenue+explorer).
