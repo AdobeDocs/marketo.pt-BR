@@ -3,7 +3,7 @@ unique-page-id: 4720108
 description: Ativar a barra de recomendação de conteúdo - Documentos de marketing - Documentação do produto
 title: Ativar a barra de recomendação de conteúdo
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -19,7 +19,7 @@ O mecanismo de recomendação de conteúdo usa análises preditivas e algoritmos
 >
 >Antes de ativar o conteúdo preditivo, você deve:
 >
->* [Preparar seu conteúdo preditivo](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Preparar seu conteúdo preditivo](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Aprovar um título para conteúdo previsível](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -46,7 +46,7 @@ O mecanismo de recomendação de conteúdo usa análises preditivas e algoritmos
    >**Incluir / Excluir URL de exibição**
    >
    >    * O URL de exibição deve ser o caminho do domínio
-   >    * Não inclua http:// ou https://
+   >    * Não inclua https:// ou https://
    >    * Usar * para curingas
    * Usar ponto e vírgula como separador
    * Exemplo: /contact_us*; *action=logout*
