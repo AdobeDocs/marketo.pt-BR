@@ -3,9 +3,9 @@ unique-page-id: 30081318
 description: Conexão com um grupo - Documentos de marketing - Documentação do produto
 title: Conexão com um grupo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Saiba como enviar um email para um grupo inteiro ou adicionar um grupo a uma cam
 
    >[!NOTE]
    >
-   >Você pode ver uma opção para adicionar a uma Campanha de marketing. [Esse é um artigo](http://docs.marketo.com/x/CwDh) diferente.
+   >Você pode ver uma opção para adicionar a uma Campanha de marketing. [Esse é um artigo](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md) diferente.
 
 1. Selecione uma campanha (você pode selecionar uma categoria para restringir seus resultados) e clique em **Próximo**.
 
@@ -60,4 +60,3 @@ Saiba como enviar um email para um grupo inteiro ou adicionar um grupo a uma cam
 1. Agende a campanha e clique em **Start**.
 
    ![](assets/nine-1.png)
-
