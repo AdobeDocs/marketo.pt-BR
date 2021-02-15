@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Notas de versão - Primeiro trimestre de 2017 - Documentos de marketing - Documentação do produto
 title: Notas de versão - Primeiro trimestre de 2017
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Clique nos links de título para artigos detalhados de visualização para cada 
 
 [Os ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Fórmulas de geração do LinkedIn são uma forma mais direta de uma empresa executar campanhas de geração de leads no LinkedIn. As pessoas podem preencher formulários para expressar interesse em um produto ou serviço, permitindo que a empresa capture os detalhes da pessoa e sincronize-os com o Marketing, onde podem ocorrer processos de acompanhamento automatizados e atividades de roteamento de lead.
 
-A integração do Marketing com o LinkedIn Lead Gen Forms captura automaticamente as informações fornecidas por um cliente potencial no formulário Lead Gen. As ações de acompanhamento e notificações podem ser automatizadas usando o novo acionador e filtro **Preencher Formulário Gerente do LinkedIn**.
+A integração do Marketing com o LinkedIn Lead Gen Forms captura automaticamente as informações fornecidas por um cliente potencial no formulário Lead Gen. As ações de acompanhamento e notificações podem ser automatizadas usando o novo acionador e filtro **Preencher Formulário de Geração de Chumbo do LinkedIn**.
 
 ![](assets/release-notes-image.png)
 
@@ -45,11 +45,11 @@ Transfira facilmente grandes quantidades de dados pessoais e de atividade do Mar
 
 O Marketo ABM agora permite que você crie até 10 campos personalizados em suas Contas Nomeadas. Você pode mapear esses campos personalizados para campos em seu objeto de conta CRM e o ABM de marketing sincronizará os dados, permitindo que você estenda suas contas nomeadas ABM e ajude a direcionar seu marketing.
 
-** [Pontuação de Percentual em Contas Nomeadas do ABM](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+** [Pontuação de Percentual em Contas Nomeadas do ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 As pontuações de conta nomeada podem variar muito. O Marketing ABM agora calcula automaticamente um percentil para cada uma de suas pontuações, para que você possa ver rapidamente onde cada Conta nomeada está classificada entre suas outras Contas Nomeadas.
 
-** [APIs de Lista de conta ABM](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [APIs de Lista de conta ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Tire proveito das integrações avançadas e robustas de parceiros ABM com suporte aprimorado à API para Listas de conta nomeada.
 
