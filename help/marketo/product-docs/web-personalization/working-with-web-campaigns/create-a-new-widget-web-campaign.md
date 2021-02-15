@@ -3,7 +3,7 @@ unique-page-id: 4719402
 description: Criar uma nova Campanha da Web de widget - Documentos do Marketing - Documentação do produto
 title: Criar uma nova Campanha Web de widget
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Exibir ativado</strong></td> 
-   <td colspan="1">Permite que você <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalize quando e como</a> sua campanha da Web é exibida.</td> 
+   <td colspan="1">Permite que você <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalize quando e como</a> sua campanha da Web é exibida.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Animar entrada/saída</strong></td> 
