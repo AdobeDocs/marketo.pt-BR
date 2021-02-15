@@ -3,7 +3,7 @@ unique-page-id: 2360199
 description: Relatórios de Pessoa do Grupo por Atributo - Documentos do Marketing - Documentação do Produto
 title: Relatórios de Pessoa de Grupo por Atributo
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Relatórios de Pessoa do Grupo por Atributo {#group-person-reports-by-attribute}
 
-Você pode agrupar seus [relatórios de pessoa](http://docs.marketo.com/display/docs/basic+reporting) por qualquer atributo de pessoa ou empresa.
+Você pode agrupar seus [relatórios de pessoa](https://docs.marketo.com/display/docs/basic+reporting) por qualquer atributo de pessoa ou empresa.
 
 1. Vá para a área **Atividades de marketing** (ou **Analytics**).
 
@@ -48,7 +48,7 @@ Você pode agrupar seus [relatórios de pessoa](http://docs.marketo.com/display/
    >**Mergulho profundo**
    >
    >
-   >Saiba mais sobre os relatórios pessoais e outros tipos de relatórios no Relatórios básico[profundo.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Saiba mais sobre os relatórios pessoais e outros tipos de relatórios no Relatórios básico[profundo.](https://docs.marketo.com/display/docs/basic+reporting)
 
    >[!MORELIKETHIS]
    >
