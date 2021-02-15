@@ -3,7 +3,7 @@ unique-page-id: 2360055
 description: Email do relatório, desempenho da Campanha em todos os espaços de trabalho - Documentos do marketing - Documentação do produto
 title: E-mail de relatório, desempenho da Campanha em todos os espaços de trabalho
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -48,5 +48,5 @@ Ative o Relatórios Global para incluir dados de todos os seus espaços de traba
    >**Mergulho profundo**
    >
    >
-   >Saiba tudo sobre os relatórios em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Saiba tudo sobre os relatórios em [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
