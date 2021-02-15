@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: Usando URLs em Meus Tokens - Documentos do Marketing - Documentação do produto
 title: Usar URLs em Meus Tokens
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,13 +23,13 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus e-mails.
 
    ![](assets/two-4.png)
 
-1. Dê um nome exclusivo ao token, insira um URL (sem o http://) e clique em **Salvar**.
+1. Dê um nome exclusivo ao token, insira um URL (sem o https://) e clique em **Salvar**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Para garantir que os cliques sejam rastreados em seu email, insira http:// dentro do valor do token.****
+   >Para garantir que os cliques sejam rastreados em seu email, insira https:// dentro do valor do token.****
 
 1. Selecione o email em seu programa.
 
@@ -43,7 +43,7 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus e-mails.
 
    ![](assets/six-1.png)
 
-1. Em qualquer lugar do seu email, digite &quot;http://&quot; (sem sair de um espaço depois) e clique no ícone Inserir token.
+1. Em qualquer lugar do seu email, digite &quot;https://&quot; (sem sair de um espaço depois) e clique no ícone Inserir token.
 
    ![](assets/seven.png)
 
@@ -55,7 +55,7 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus e-mails.
 
    ![](assets/eight.png)
 
-1. Realce http:// e token e pressione Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) para cortar o texto.
+1. Realce https:// e token e pressione Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) para cortar o texto.
 
    ![](assets/nine.png)
 
@@ -71,4 +71,4 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus e-mails.
 
    ![](assets/twelve.png)
 
-   E você terminou! O URL será preenchido após o envio e, graças à inserção de http:// na frente do token, produzirá um link rastreável.
+   E você terminou! O URL será preenchido após o envio e, graças à inserção de https:// na frente do token, produzirá um link rastreável.
