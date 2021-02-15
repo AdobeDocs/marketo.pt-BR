@@ -3,7 +3,7 @@ unique-page-id: 2953338
 description: Enviar um e-mail de vendas de marketing para o Microsoft Dynamics - Documentos de marketing - Documentação do produto
 title: Enviar um e-mail de vendas de marketing para o Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Sua equipe de vendas pode enviar emails e fazer com que eles sejam rastreados pa
 
    >[!TIP]
    >
-   >Você pode [publicar emails como modelos](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) para que sua equipe de vendas use.
+   >Você pode [publicar emails como modelos](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) para que sua equipe de vendas use.
 
 1. Adicione um assunto, componha seu email e clique em **Enviar email**. (Escolha um modelo se precisar.)
 
@@ -45,9 +45,4 @@ Muito bem! Agora você sabe como enviar e-mails rastreados do Marketo diretament
 
 >[!MORELIKETHIS]
 >
->* [Adicionar um cliente potencial/contato a uma Campanha de marketing do Microsoft Dynamics](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
-
->
-
-
-
+>[Adicionar um cliente potencial/contato a uma Campanha de marketing do Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
