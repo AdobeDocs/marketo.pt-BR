@@ -3,7 +3,7 @@ unique-page-id: 2359746
 description: Personalize seus URLs de Landing page com um CNAME - Documentos do Marketing - Documentação do produto
 title: Personalize seus URLs de Landing page com um CNAME
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Embora o Marketo hospede suas landings page, o URL pode ser totalmente personalizado. Como ele se parece sem um CNAME:
 
-`http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
+`https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
 A aparência:
 
-`http://go.YourCompany.com/UnsubscribePage.html`
+`https://go.YourCompany.com/UnsubscribePage.html`
 
 ## Escolha um CNAME {#choose-a-cname}
 
