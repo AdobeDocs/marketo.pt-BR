@@ -3,7 +3,7 @@ unique-page-id: 14352477
 description: Push to Sales Connect - Documentos do Marketing - Documentação do produto
 title: Encaminhar para o Connect de Vendas
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Nosso botão Enviar para o Tout tirará uma lista de seus clientes potenciais/co
 
    >[!NOTE]
    >
-   >O Sales Connect adicionará este grupo intitulado &quot;SFDC-...&quot; para a página Relações na [aplicação Web](http://toutapp.com/login).
+   >O Sales Connect adicionará este grupo intitulado &quot;SFDC-...&quot; para a página Relacionamentos na [aplicação Web](https://toutapp.com/login).
 
 1. Selecione **Enviar email para todo o grupo** para enviar este email de grupo.
