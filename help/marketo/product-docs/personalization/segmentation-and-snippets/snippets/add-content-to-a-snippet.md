@@ -3,7 +3,7 @@ unique-page-id: 2359496
 description: Adicionar conteúdo a um fragmento - Documentos do Marketing - Documentação do produto
 title: Adicionar conteúdo a um fragmento
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Você pode adicionar tokens, imagens, arquivos ou rich text a um snippet.
 
    >[!NOTE]
    >
-   >Você pode adicionar suas próprias imagens ou arquivos ao Marketo. Saiba mais sobre [imagens e arquivos](http://docs.marketo.com/display/docs/images+and+files).
+   >Você pode adicionar suas próprias imagens ou arquivos ao Marketo. Saiba mais sobre [imagens e arquivos](https://docs.marketo.com/display/docs/images+and+files).
 
 1. Selecione a **Imagem** a ser usada e clique em **Inserir**.
 
