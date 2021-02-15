@@ -3,7 +3,7 @@ unique-page-id: 14352407
 description: Visão geral do Canal do delivery - Documentos do Marketing - Documentação do produto
 title: Visão geral do Canal do delivery
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -47,4 +47,4 @@ No aplicativo da Web, sua identidade será exibida conforme você a criou (acima
 
 ## Servidor SMTP Personalizado {#custom-smtp-server}
 
-Pague pelo seu próprio servidor? Usar um ambiente do Microsoft Exchange? Esta é uma opção para você. Confira [estas instruções](http://docs.marketo.com/x/zYTS) sobre como configurar. Como os servidores Gmail, como o Sales Connect não gerencia diretamente seu servidor, não gravamos eventos de email ocultos no aplicativo da Web.
+Pague pelo seu próprio servidor? Usar um ambiente do Microsoft Exchange? Esta é uma opção para você. Confira [estas instruções](https://docs.marketo.com/x/zYTS) sobre como configurar. Como os servidores Gmail, como o Sales Connect não gerencia diretamente seu servidor, não gravamos eventos de email ocultos no aplicativo da Web.
