@@ -3,7 +3,7 @@ unique-page-id: 2360399
 description: Criar um analisador de Programas - Documentos do Marketing - Documentação do produto
 title: Criar um analisador de Programas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -79,4 +79,4 @@ Descubra quais programas e canais estão lhe dando o maior incentivo para seu in
 
 >[!NOTE]
 >
->Saiba mais em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting) e [Explorador do ciclo de receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Saiba mais em [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting) e [Explorador do ciclo de receita](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
