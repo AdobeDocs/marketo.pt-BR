@@ -3,7 +3,7 @@ unique-page-id: 27656223
 description: Instalar a personalização do Salesforce para clientes da Professional Edition - Documentos do Marketing - Documentação do produto
 title: Instalar a personalização do Salesforce para clientes da Professional Edition
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -57,6 +57,6 @@ Os clientes com o Salesforce Professional Edition precisarão seguir essas etapa
 
 ## Guias {#guides}
 
-[Guia de instalação do Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[Guia de instalação do Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[Guia de instalação para o Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Guia de instalação para o Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
