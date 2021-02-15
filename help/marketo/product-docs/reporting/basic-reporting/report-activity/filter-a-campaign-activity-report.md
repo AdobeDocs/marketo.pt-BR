@@ -3,7 +3,7 @@ unique-page-id: 2360184
 description: Filtrar um relatório de Atividade de Campanha - Documentos do Marketing - Documentação do produto
 title: Filtrar um relatório de Atividade de Campanha
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrar um Relatório de Atividade de Campanha {#filter-a-campaign-activity-report}
 
-Focalize seu [Relatório de Atividade de Campanha](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)em campanhas inteligentes [específicas](http://docs.marketo.com/display/docs/smart+campaigns).
+Focalize seu [Relatório de Atividade de Campanha](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)em campanhas inteligentes [específicas](https://docs.marketo.com/display/docs/smart+campaigns).
 
 1. Vá para **Atividades de marketing** (ou **Analytics**) e selecione seu relatório de atividade de campanha.
 
@@ -47,5 +47,5 @@ Focalize seu [Relatório de Atividade de Campanha](../../../../product-docs/repo
 >
 >**Mergulho profundo**
 >
->Saiba tudo sobre os relatórios em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+>Saiba tudo sobre os relatórios em [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
