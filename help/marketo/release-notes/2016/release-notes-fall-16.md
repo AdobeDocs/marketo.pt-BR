@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Notas de versão - Último trimestre de 2016 - Documentos de marketing - Documentação do produto
 title: Notas de versão - Último trimestre de 2016
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Os seguintes recursos foram incluídos na versão do último trimestre de 2016. Verifique sua edição de marketing para ver a disponibilidade de recursos. Clique nos links de título para artigos detalhados de visualização para cada recurso.
 
-## [Conteúdo previsível no email](http://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## [Conteúdo previsível no email](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
 
 Há uma nova experiência do usuário para nosso aplicativo de Conteúdo previsível para rastrear, gerenciar e recomendar seu conteúdo por meio de nosso aprendizado de máquina e algoritmos preditivos na Web e em canais de email.
 
@@ -45,7 +45,7 @@ Uma ID universal permite acessar várias subscrições de marketing com um únic
 >
 >Entre em contato com o Suporte de marketing para ativar este recurso.
 
-## [Aprimoramentos de marketing baseado em conta de marketing](http://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## [Aprimoramentos de marketing baseado em conta de marketing](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
 
 Agora, você pode atribuir equipes de conta a contas nomeadas no ABM (Account Based Marketing), por exemplo, proprietário da conta, representante de desenvolvimento de vendas, representante de desenvolvimento de negócios e gerente de sucesso do cliente. Você também pode criar listas de conta específicas para o proprietário da conta e enviar relatórios ABM semanais personalizados para a equipe da conta.
 
@@ -53,7 +53,7 @@ Agora, você pode atribuir equipes de conta a contas nomeadas no ABM (Account Ba
 
 **REST API**
 
-Esta versão também permite que você gerencie atributos de conta nomeados e pontuações de contas no ABM usando a API REST de marketing. Para obter mais detalhes sobre as operações da API, visite o [site de desenvolvedores de marketing](http://developers.marketo.com/rest-api/lead-database/named-accounts).
+Esta versão também permite que você gerencie atributos de conta nomeados e pontuações de contas no ABM usando a API REST de marketing. Para obter mais detalhes sobre as operações da API, visite o [site de desenvolvedores de marketing](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Aprimoramentos da trilha de auditoria](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ Foram-se os dias em que você teve que se preocupar com usuários enviando email
 
 **Editar restrições de Campanha**
 
-Por que definir [restrições de campanha](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) se você não conseguir aplicá-las? Quando você define Configurações de limite de Campanha para restringir o número de pessoas no banco de dados que podem ser direcionadas a uma única campanha, agora você tem a capacidade de restringir quais usuários podem substituir essas configurações ao agendar uma campanha.
+Por que definir [restrições de campanha](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) se você não conseguir aplicá-las? Quando você define Configurações de limite de Campanha para restringir o número de pessoas no banco de dados que podem ser direcionadas a uma única campanha, agora você tem a capacidade de restringir quais usuários podem substituir essas configurações ao agendar uma campanha.
 
 ## [Som para notificações por push móveis](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -88,11 +88,11 @@ Dê mais riqueza à sua notificação por push do iOS ao ativar o som. Esse novo
 
 O Marketing Sales Insight agora é compatível com a Encriptação Salesforce Shield. Todos os clientes do Sales Insight devem atualizar para este pacote gerenciado mais recente (versão 1.4359.2), que é [disponível no Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [APIs de contas nomeadas](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [APIs de contas nomeadas](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 Com essa versão, os usuários do ABM de marketing podem gerenciar contas nomeadas por meio da API Contas Nomeadas. Os usuários podem criar, atualizar e excluir contas nomeadas, bem como ler e atualizar as pontuações de conta nomeadas do ABM.
 
-## [Suporte à API v2.0 do Editor de email](http://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [Suporte à API v2.0 do Editor de email](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Gerencie variáveis e módulos para e-mails no formato v2.0 usando a API REST de marketing.
 
