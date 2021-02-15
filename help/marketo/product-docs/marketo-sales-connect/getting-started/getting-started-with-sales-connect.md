@@ -3,7 +3,7 @@ unique-page-id: 13796466
 description: Introdução ao Sales Connect - Documentos do Marketing - Documentação do produto
 title: Introdução ao Sales Connect
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Opcionalmente, você também pode:
 
 ## Conecte sua conta do Sales Connect ao Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Para conectar sua conta do Sales Connect à sua conta do Salesforce, como um Administrador ou não-Administrador, siga as etapas em [este artigo](http://docs.marketo.com/x/JwDb).
+Para conectar sua conta do Sales Connect à sua conta do Salesforce, como um Administrador ou não-Administrador, siga as etapas em [este artigo](https://docs.marketo.com/x/JwDb).
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ Você precisará obter um conjunto de credenciais de dentro de Marketo. Essas cr
 
 Se algum usuário já existir em sua conta (anteriormente do ToutApp), ele será exibido na guia **Team Access** da seção Marketo do Sales Connect.
 
-Você pode provisionar sua equipe como um usuário do Marketing to Sales Connect desta página. Se você nunca usou o ToutApp ou ainda não convidou usuários, siga as etapas em [este artigo](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
+Você pode provisionar sua equipe como um usuário do Marketing to Sales Connect desta página. Se você nunca usou o ToutApp ou ainda não convidou usuários, siga as etapas em [este artigo](https://docs.marketo.com/display/TOUT/Invite+Team+Members).
 
 >[!CAUTION]
 >
@@ -123,7 +123,7 @@ Você pode incluir usuários adicionais na página Gerenciamento de equipe e seg
 
 ## Testar conexão de vendas em sua caixa de proteção {#test-sales-connect-in-your-sandbox}
 
-Para equipes que desejam testar o Marketing to Sales Connect com sua Marketo Sandbox, uma conta adicional do Sales Connect pode ser provisionada mediante solicitação. Isso se aplica somente aos clientes que compraram uma Marketo Sandbox, ou àqueles que a tiverem como parte de seu pacote Marketo. Se você estiver interessado em adquirir um Sandbox, entre em contato com seu Gerente de conta do Marketing Cloud.
+Para equipes que desejam testar o Marketing to Sales Connect com sua Marketo Sandbox, uma conta adicional do Sales Connect pode ser provisionada mediante solicitação. Isso se aplica somente aos clientes que compraram uma caixa de proteção Marketo, ou aqueles que a têm como parte de seu pacote Marketo. Se você estiver interessado em adquirir um Sandbox, entre em contato com seu Gerente de conta do Marketing Cloud.
 
 >[!NOTE]
 >
