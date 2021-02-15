@@ -3,7 +3,7 @@ unique-page-id: 2951640
 description: Uso de momentos interessantes - Documentos do Marketing - Documentação do produto
 title: Usando momentos interessantes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Momentos interessantes são a chave para se comunicar com sua equipe de vendas a
 
 >[!AVAILABILITY]
 >
->Eles estão disponíveis somente para clientes do Marketing Insight de vendas e [Marketing to Sales Connect](http://docs.marketo.com/x/fgTLAQ).
+>Eles estão disponíveis somente para clientes do Marketing Insight de vendas e [Marketing to Sales Connect](https://docs.marketo.com/x/fgTLAQ).
 
 ## Qual é o momento interessante?  {#what-is-an-interesting-moment}
 
@@ -65,7 +65,7 @@ Os momentos interessantes serão exibidos em um [registro de atividades do clien
 
 ## Como se parece um momento interessante em Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Depois que você [instalar o aplicativo Marketing Insight](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), momentos interessantes serão exibidos nas páginas de oportunidade, contato, conta ou cliente potencial. Eles também aparecem no painel de insight de vendas no feed principal, nas melhores propostas e na Lista de monitoramento.
+Depois que você [instalar o aplicativo Marketing Insight do setor de vendas](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), momentos interessantes serão exibidos nas páginas de oportunidade, contato, conta ou cliente potencial. Eles também aparecem no painel de insight de vendas no feed principal, nas melhores propostas e na Lista de monitoramento.
 
 ![](assets/six.png)
 
