@@ -3,7 +3,7 @@ unique-page-id: 2360356
 description: Adicionar logon único a um portal - Documentos do Marketing - Documentação do produto
 title: Adicionar logon único a um portal
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
@@ -30,9 +30,9 @@ Quando o SSO estiver ativado, o IdP poderá validar as credenciais de um usuári
 ## Como enviar a solicitação {#how-to-send-the-request}
 
 * Envie a solicitação SSO, que é uma resposta SAML, para `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Como o URL de Audiência da controladora. Usar [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Se você estiver usando o atributo SPNameQualifier, defina o elemento NameID para Subject como [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Se estiver federando várias subscrições de marketing ao mesmo provedor SSO, você poderá usar URLs SP exclusivos para cada submarino de marketing com o formato `http://saml.marketo.com/sp/<munchkin_id>`
+* Como o URL de Audiência da controladora. Usar [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* Se você estiver usando o atributo SPNameQualifier, defina o elemento NameID para Subject como [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* Se estiver federando várias subscrições de marketing ao mesmo provedor SSO, você poderá usar URLs SP exclusivos para cada submarino de marketing com o formato `https://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
