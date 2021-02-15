@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Configuração do Marketing to Sales Insight no Salesforce Enterprise/Unlimited - Documentos do Marketing - Documentação do produto
 title: Configurar o Marketing to Sales Insight no Salesforce Enterprise/Unlimited
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '920'
+source-wordcount: '906'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Estas são as etapas necessárias para configurar o Marketing to Sales Insight n
 
 >[!PREREQUISITES]
 >
->* [Configurar a sincronização de campos do Marketing em seu Salesforce Enterprise/Unlimited Edition](http://docs.marketo.com/pages/viewpage.action?pageid=2360372)
->* [Instalar o pacote de insight de vendas do Marketing Cloud na AppExchange do Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
->
-
+>* [Configurar a sincronização de campos do Marketing em seu Salesforce Enterprise/Unlimited Edition](https://docs.marketo.com/pages/viewpage.action?pageid=2360372)
+>* [Instalar o pacote de insight de vendas do Marketing Cloud na AppExchange do Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 
 >[!NOTE]
@@ -31,6 +28,7 @@ Estas são as etapas necessárias para configurar o Marketing to Sales Insight n
 ## Configurar insight de vendas no Marketing {#configure-sales-insight-in-marketo}
 
 1. Abra uma nova janela do navegador para obter as credenciais do Marketing Insight de vendas da sua conta de Marketing.
+
 1. Vá para a área Admin e selecione **Sales Insight**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
@@ -85,7 +83,7 @@ Estas são as etapas necessárias para configurar o Marketing to Sales Insight n
 
    ![](assets/login-admin.png)
 
-1. Clique em** Sales Insight**.
+1. Clique em **Sales Insight**.
 
    ![](assets/image2015-5-22-15-3a12-3a33.png)
 
@@ -135,7 +133,7 @@ Estas são as etapas necessárias para configurar o Marketing to Sales Insight n
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. Clique em **Páginas de força de visita **à esquerda. Arraste **Seção** para o layout abaixo da seção Links personalizados.
+1. Clique em **Visualforce Pages** à esquerda. Arraste **Seção** para o layout abaixo da seção Links personalizados.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -163,7 +161,7 @@ Estas são as etapas necessárias para configurar o Marketing to Sales Insight n
    >
    >Recomendamos uma altura de 410 pixels para os objetos Contas e Oportunidades.
 
-1. Clique em **Campos **à esquerda. Em seguida, pesquise e arraste o rótulo **Envolvimento** para o layout **Marketing to Sales Insight**.
+1. Clique em **Campos** à esquerda. Em seguida, pesquise e arraste o rótulo **Envolvimento** para o layout **Marketing to Sales Insight**.
 
    ![](assets/image2015-5-22-16-3a32-3a46.png)
 
@@ -200,6 +198,7 @@ Estas são as etapas necessárias para configurar o Marketing to Sales Insight n
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
 1. Repita esse processo para adicionar seções de página do Visualforce e campos do Sales Insight para **Contact**, **Account** e **Oportunity**.
+
 1. Repita as etapas de 5 a 7 para adicionar seções de página de Força de visita para Contato, Conta e Oportunidade. Em seguida, repita as etapas de 8 a 10 para adicionar campos de insight de vendas para **Contact**. Certifique-se de salvar após qualquer alteração.
 
 ## Mapear campos de pessoa personalizada {#map-custom-person-fields}
@@ -216,15 +215,13 @@ Campos de pessoa de marketing precisam ser mapeados para campos de contato do Sa
 
 1. Clique em **Mapear campos de cliente potencial**.
 
-   ** ![](assets/image2015-6-1-9-3a58-3a48.png)
-
-   **
+   ![](assets/image2015-6-1-9-3a58-3a48.png)
 
 1. Clique na lista suspensa à direita para **Envolvimento**.
 
    ![](assets/image2015-6-1-10-3a9-3a53.png)
 
-1. Selecione **Contact.Engagement **na lista.
+1. Selecione **Contact.Engagement** na lista.
 
    ![](assets/image2015-6-1-10-3a12-3a11.png)
 
@@ -267,21 +264,21 @@ Campos de pessoa de marketing precisam ser mapeados para campos de contato do Sa
  </tbody> 
 </table>
 
-1. Clique em **Salvar **quando terminar.
+1. Clique em **Salvar** quando terminar.
 
 ## Configuração do Marketing Insight de Vendas {#marketo-sales-insight-config}
 
-1. Clique em **+ **e selecione **Configuração do Marketing Insight**.
+1. Clique em **+** e selecione **Configuração do Marketing Insight**.
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. Marque **Ativar a API de marketing**. Em seguida, preencha as [informações de Configuração da API em Admin do Marketing ](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight). Clique em **Salvar alterações **quando terminar.
+1. Marque **Ativar a API de marketing**. Em seguida, preencha as [informações de Configuração da API em Admin do Marketing ](#set-up-marketo-sales-insight). Clique em **Salvar alterações** quando terminar.
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
    >
-   >Se o teste de diagnóstico falhar, talvez seja necessário [adicionar mais campos ao layout da página](http://nation.marketo.com/docs/DOC-1115).
+   >Se o teste de diagnóstico falhar, talvez seja necessário [adicionar mais campos ao layout da página](https://nation.marketo.com/docs/DOC-1115).
 
 E é isso! Você deve ser capaz de ver os campos do Marketing to Sales Insight para Clientes potenciais, Contatos, Contas e Oportunidades.
 
@@ -294,18 +291,17 @@ E é isso! Você deve ser capaz de ver os campos do Marketing to Sales Insight p
 ## Acessar o Marketing to Sales Insight {#access-marketo-sales-insight}
 
 1. No Salesforce, clique em **+** no final da barra de guias e clique em **Marketing Insight Config**.
+
 1. Marque a caixa de seleção **Ativar API de marketing**.
+
 1. Copie as credenciais do painel da API Soap na página Admin do Marketing Insight de Vendas e cole-as na seção API Soap da página Configuração do Salesforce Sales Insight.
+
 1. Copie as credenciais do painel da Rest API na página Admin do Marketing Insight de Vendas e cole-as na seção Rest API da página Configuração do Salesforce Sales Insight.
 
    ![](assets/access-msi.png)
 
 >[!MORELIKETHIS]
 >
->* [Prioridade, urgência, pontuação relativa e melhores propostas](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Adicionar a guia de insight de vendas e botões do Marketing Cloud ao Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
-
->
-
-
+>* [Prioridade, urgência, pontuação relativa e melhores propostas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+>* [Adicionar a guia de insight de vendas e botões do Marketing Cloud ao Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
 
