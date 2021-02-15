@@ -3,7 +3,7 @@ unique-page-id: 11371040
 description: Sintaxe do modelo de email - Documentos do marketing - Documentação do produto
 title: Sintaxe do modelo de email
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2395'
 ht-degree: 0%
@@ -106,7 +106,7 @@ Valor padrão (opcional)
 
 Exemplo:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
 
 ### Opção 2 - Use um \&lt;img\> {#option-use-an-img}
 
@@ -322,7 +322,7 @@ Atributos opcionais
 
 Exemplo de declaração:
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="http://www.company.com/image.jpg"></pre>`
+`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
 
 Exemplo de uso:
 
