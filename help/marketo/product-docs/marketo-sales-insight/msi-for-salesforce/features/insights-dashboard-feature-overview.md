@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Visão geral dos recursos do Painel do Insights - Documentos do Marketing - Documentação do produto
 title: Visão geral dos recursos do Painel Insights
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1460'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Saiba mais sobre os recursos disponíveis no painel Sales Insights.
 
 >[!PREREQUISITES]
 >
->Você deve ter o pacote MSI SFDC mais recente e [configuração](http://docs.marketo.com/x/F4GMAg).
+>Você deve ter o pacote MSI SFDC mais recente e [configuração](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -172,4 +172,3 @@ guia evento:
 * Selecionar todos os eventos mostrará a lista dos eventos programados nos próximos 90 dias
 * O cartão de detalhes da atividade nesta seção tem a opção de pré-visualização
 * O filtro inclui &quot;Pesquisa&quot;, &quot;Mostrar somente eventos convidados&quot; e &quot;Intervalo de datas&quot;
-
