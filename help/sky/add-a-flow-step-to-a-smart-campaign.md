@@ -2,7 +2,7 @@
 title: adicionar-a-flow-step-to-a-smart-campanha
 description: Adicionar uma Etapa de fluxo a uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -26,7 +26,7 @@ As etapas de fluxo informam ao Marketo o que você deseja que aconteça a um gru
 
 **Mergulho profundo**
 
-Saiba mais sobre as diferentes [etapas de fluxo](http://docs.marketo.com/display/DOCS/Flow+Actions).
+Saiba mais sobre as diferentes [etapas de fluxo](https://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Clique na lista suspensa e escolha uma opção apropriada.
 
