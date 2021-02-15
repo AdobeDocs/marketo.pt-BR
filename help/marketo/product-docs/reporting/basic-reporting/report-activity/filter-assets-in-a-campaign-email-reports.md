@@ -3,7 +3,7 @@ unique-page-id: 2360227
 description: Filtrar ativos em relatórios de e-mail de Campanha - Documentos do Marketing - Documentação do produto
 title: Filtrar ativos em relatórios de e-mail de Campanha
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrar ativos em relatórios de e-mail de Campanha {#filter-assets-in-a-campaign-email-reports}
 
-Focalize seu relatório de [Desempenho de e-mail de Campanha](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) em campanhas inteligentes[específicas ](http://docs.marketo.com/display/docs/smart+campaigns) em seus programas (&#39;ativos locais&#39;) ou naqueles que foram arquivados.
+Focalize seu relatório de [Desempenho de e-mail de Campanha](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) em campanhas inteligentes[específicas ](https://docs.marketo.com/display/docs/smart+campaigns) em seus programas (&#39;ativos locais&#39;) ou naqueles que foram arquivados.
 
 1. Vá para a área **Analytics **(ou **Atividades de marketing**).
 
@@ -56,5 +56,5 @@ Focalize seu relatório de [Desempenho de e-mail de Campanha](../../../../produc
    >**Mergulho profundo**
    >
    >
-   >Saiba tudo sobre os relatórios em [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Saiba tudo sobre os relatórios em [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
