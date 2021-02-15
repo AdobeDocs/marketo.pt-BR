@@ -3,7 +3,7 @@ unique-page-id: 2360409
 description: Criar um relatório de Análise por email que mostre informações do Programa - Documentos do Marketing - Documentação do produto
 title: Criar um relatório de Análise por email que mostre as informações do Programa
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -65,5 +65,5 @@ Siga estas etapas para criar um Relatório de Análise de email que mostrará in
    >**Mergulho profundo**
    >
    >
-   >Deseja saber mais sobre [o Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)?
+   >Deseja saber mais sobre [o Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics)?
 
