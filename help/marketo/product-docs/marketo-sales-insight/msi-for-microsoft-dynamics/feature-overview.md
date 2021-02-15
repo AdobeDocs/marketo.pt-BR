@@ -3,7 +3,7 @@ unique-page-id: 37357043
 description: Visão geral do recurso - Documentos do marketing - Documentação do produto
 title: Visão geral do recurso
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -73,4 +73,3 @@ Os seguintes recursos estão disponíveis na nova MSI MSD Solution.
 * Momento interessante
 * Status
 * Feed de cliente potencial - inclui a capacidade de assinar para IM
-
