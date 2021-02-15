@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: Desabilitar rastreamento para um link de email - Documentos do Marketing - Documentação do produto
 title: Desativar o rastreamento para um link de email
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
    >[!TIP]
    >
    >Deseja desativar o rastreamento de cliques para um link em um e-mail **template**? Use este formato:
-   >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`\
+   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >Se precisar de ajuda para implementar isso, consulte seu desenvolvedor da Web.
 
 Legal! Agora você desabilitou o rastreamento de um link.
