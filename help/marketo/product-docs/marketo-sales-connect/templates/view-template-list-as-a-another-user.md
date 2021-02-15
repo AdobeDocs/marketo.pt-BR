@@ -3,7 +3,7 @@ unique-page-id: 18317369
 description: Lista de modelo de visualização como outro usuário - Documentos do Marketing - Documentação do produto
 title: Lista de modelo de visualização como outro usuário
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Como administrador, você pode visualização modelos como qualquer usuário.
    >[!NOTE]
    >
    >Você também pode usar filtros ou a função de pesquisa junto com a Visualização Quanto à visualização do que é mais relevante para você.
-
