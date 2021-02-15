@@ -3,7 +3,7 @@ unique-page-id: 2359963
 description: Criar um relatório em um Programa - Documentos do Marketing - Documentação do produto
 title: Criar um relatório em um Programa
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Execute um relatório para analisar pessoas, seus programas, landings page, e-ma
 
    >[!TIP]
    >
-   >Consulte [`Report Type Overview`](http://docs.marketo.com/display/DOCS/Report+Type+Overview) para obter uma breve descrição de cada uma.
+   >Consulte [`Report Type Overview`](https://docs.marketo.com/display/DOCS/Report+Type+Overview) para obter uma breve descrição de cada uma.
 
    Dê um nome ao seu relatório.
 
@@ -61,7 +61,7 @@ Execute um relatório para analisar pessoas, seus programas, landings page, e-ma
    >**Mergulho profundo**
    >
    >
-   >Por padrão, os relatórios cobrem toda a atividade em sua conta, em programas. Para saber mais sobre as várias maneiras de filtrar seu relatório, consulte o aprofundamento do [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Por padrão, os relatórios cobrem toda a atividade em sua conta, em programas. Para saber mais sobre as várias maneiras de filtrar seu relatório, consulte o aprofundamento do [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
    >[!NOTE]
    >
@@ -74,5 +74,5 @@ Execute um relatório para analisar pessoas, seus programas, landings page, e-ma
    >
    >
    >
-   >Você pode [alterar um período do relatório](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [assinar um relatório básico](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportar um relatório para Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrar pessoas em um relatório com uma lista inteligente](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) e [more](http://docs.marketo.com/display/docs/basic+reporting).
+   >Você pode [alterar um período do relatório](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [assinar um relatório básico](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportar um relatório para Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrar pessoas em um relatório com uma lista inteligente](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) e [more](https://docs.marketo.com/display/docs/basic+reporting).
 
