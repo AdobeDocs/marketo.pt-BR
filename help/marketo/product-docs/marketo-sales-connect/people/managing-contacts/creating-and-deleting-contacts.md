@@ -3,9 +3,9 @@ unique-page-id: 14352516
 description: Criação e exclusão de contatos - Documentos do marketing - Documentação do produto
 title: Criando e Excluindo Contatos
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Deseja adicionar vários contatos ao mesmo tempo? [Clique ](http://docs.marketo.com/x/VADb) aqui para saber como importar contatos via CSV.
+   >Deseja adicionar vários contatos ao mesmo tempo? [Clique ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) aqui para saber como importar contatos via CSV.
 
 ## Excluindo Contatos {#deleting-contacts}
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >Para excluir vários contatos, basta selecionar várias pessoas. Os passos restantes seriam os mesmos.
 
-1. Clique no ponto (três pontos verticais) e selecione Excluir.
+1. Clique no ponto (três pontos verticais) e selecione **Excluir**.
 
    ![](assets/four-2.png)
 
-1. Clique em Excluir contato para confirmar.
+1. Clique em **Excluir Contato** para confirmar.
 
    ![](assets/five-2.png)
