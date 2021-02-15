@@ -3,7 +3,7 @@ unique-page-id: 42762519
 description: Configuração para clientes existentes - Documentos de marketing - Documentação do produto
 title: Configuração para clientes existentes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -22,6 +22,7 @@ Configure a seguinte configuração para começar a usar o novo Painel do Insigh
 ## Configurar insight de vendas no Marketing {#configure-sales-insight-in-marketo}
 
 1. Abra uma nova guia no navegador para obter as credenciais do Marketing Sales Insights de sua conta de Marketing.
+
 1. Vá para a área **Admin**.
 
    ![](assets/configure-1.png)
@@ -63,7 +64,7 @@ Configure a seguinte configuração para começar a usar o novo Painel do Insigh
 ## Acessar o Marketing to Sales Insight {#access-marketo-sales-insight}
 
 1. Copie as credenciais do painel da Rest API na página Admin do Marketing Insight de vendas. Cole-os na seção Rest API na página Sales Insight Configuration do Salesforce.
+
 1. Insira a chave secreta da API.
 
    ![](assets/config.png)
-
