@@ -3,7 +3,7 @@ unique-page-id: 2949158
 description: Integrar RTP aos Google Analytics - Documentos do Marketing - Documentação do produto
 title: Integrar RTP a Google Analytics
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Veja como integrar [Personalização da Web com o Universal Analytics](integrate
 
 Analise suas análises da Web de um novo ângulo usando o fluxo direto de dados do mercado para a personalização em tempo real (RTP) para sua conta Google Analytics (GA). Meça suas visitas na Web no GA de acordo com organizações, setores e campanhas RTP. Métricas de visualização, como os tipos de setores ou segmentos RTP em GA e como eles executam e geram clientes potenciais de acordo com diferentes fontes de tráfego (social, pago, orgânico), analisando as taxas de cliques em campanhas e medindo o impacto que as campanhas de personalização têm em seu site. Aproveite essa capacidade para obter o máximo benefício da sua conta RTP
 
-**AUDIENCE ANALYTICS RTP**
+**Audience Analytics RTP**
 
 Com a integração, você tem uma nova dimensão em sua conta GA. O RTP aprimora automaticamente seus painéis com:
 
@@ -66,7 +66,7 @@ Meça suas campanhas RTP e correlacione-as com a média geral do site. Saiba com
 
 ## Configuração do RTP com Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Adicione o email [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) como um usuário do Read &amp; Analyze à sua conta GA. Para obter mais detalhes, consulte [here](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Adicione o email [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) como um usuário do Read &amp; Analyze à sua conta GA. Para obter mais detalhes, consulte [here](https://support.google.com/analytics/answer/2884495?hl=en).
 1. Na sua conta RTP. Vá para **Configurações da conta**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
