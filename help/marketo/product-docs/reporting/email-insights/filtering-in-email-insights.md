@@ -3,7 +3,7 @@ unique-page-id: 10099798
 description: Filtragem em insights de email - Documentos do Marketing - Documentação do produto
 title: Filtragem em insights de email
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -63,7 +63,7 @@ Escolha entre intervalos de datas predefinidos comuns, selecione datas específi
 
 ## Marketing baseado em conta {#account-based-marketing}
 
-Se você usar [Marketing baseado em conta](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), há filtros específicos para você.
+Se você usar [Marketing baseado em conta](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), há filtros específicos para você.
 
 ![](assets/abm.png)
 
