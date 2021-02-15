@@ -3,9 +3,9 @@ unique-page-id: 45416564
 description: Ativar a gravação de chamada - Documentos do marketing - Documentação do produto
 title: Ativar gravação de chamada
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ Como administrador, você pode ativar a gravação de chamadas para suas chamada
 
    ![](assets/three.png)
 
-1. Se você quiser dar aos seus vendedores a capacidade de habilitar ou desabilitar a gravação de chamada para eles mesmos, clique em** Gravação opcional para todos os membros do grupo. **Se você quiser que todas as chamadas sejam gravadas automaticamente,** clique em Gravar todas as chamadas.**
+1. Se você quiser dar aos seus vendedores a capacidade de habilitar ou desabilitar a gravação de chamada para eles mesmos, clique em **Gravação opcional para todos os membros da equipe**. Se quiser que todas as chamadas sejam gravadas automaticamente, clique em **Registrar todas as chamadas**.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[Configurações de consentimento de duas partes](http://docs.marketo.com/x/dgC1Ag)
-
+>[Configurações de consentimento de duas partes](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
