@@ -3,7 +3,7 @@ unique-page-id: 14746432
 description: Sincronizar campos personalizados com insights de desempenho - Documentos do Marketing - Documentação do produto
 title: Sincronizar campos personalizados com insights de desempenho
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Os painéis de Receita e Pipeline MPI podem filtrar em campos de Marketing perso
 
 >[!NOTE]
 >
->Este artigo é somente para usuários que **não** têm [RCA](http://docs.marketo.com/x/lwIk). Se você tiver RCA, siga as etapas em [este artigo](http://docs.marketo.com/x/FQQk).
+>Este artigo é somente para usuários que **não** têm [RCA](https://docs.marketo.com/x/lwIk). Se você tiver RCA, siga as etapas em [este artigo](https://docs.marketo.com/x/FQQk).
 
 1. Vá para a seção **Admin**.
 
