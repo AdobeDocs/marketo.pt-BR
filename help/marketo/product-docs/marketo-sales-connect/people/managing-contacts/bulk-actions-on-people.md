@@ -3,9 +3,9 @@ unique-page-id: 30081230
 description: Ações em massa sobre pessoas - Documentos do Marketing - Documentação do produto
 title: Ações em massa em pessoas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Atribuímos automaticamente uma fonte a cada contato que entrar no banco de dado
 
 ## Autorização {#authorization}
 
-Em conformidade com [RGPD](http://eugdpr.org/), utilize a autorização para indicar como recebeu permissão para iniciar contatos.
+Em conformidade com [RGPD](https://eugdpr.org/), utilize a autorização para indicar como recebeu permissão para iniciar contatos.
 
 ![](assets/authorization.png)
 
@@ -49,7 +49,6 @@ Realize uma anulação de inscrição em massa em contatos que não desejam mais
 
 ## Excluir {#delete}
 
-Excluir contatos em massa. As etapas completas podem ser encontradas [aqui](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
+Excluir contatos em massa. As etapas completas podem ser encontradas [aqui](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)
-
