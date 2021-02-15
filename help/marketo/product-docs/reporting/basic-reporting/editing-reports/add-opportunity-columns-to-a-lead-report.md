@@ -3,7 +3,7 @@ unique-page-id: 2360018
 description: Adicionar colunas de oportunidade a um relatório de oportunidade potencial - Documentos de marketing - Documentação do produto
 title: Adicionar colunas de oportunidade a um relatório de oportunidade potencial
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adicionar colunas de oportunidade a um relatório de oportunidade potencial {#add-opportunity-columns-to-a-lead-report}
 
-Para ver as estatísticas de oportunidades nos [relatórios de pessoa](http://docs.marketo.com/display/docs/basic+reporting), você pode adicionar colunas de oportunidade.
+Para ver as estatísticas de oportunidades nos [relatórios de pessoa](https://docs.marketo.com/display/docs/basic+reporting), você pode adicionar colunas de oportunidade.
 
 1. Vá para a área **Atividades de marketing**.
 
@@ -77,5 +77,5 @@ Para ver as estatísticas de oportunidades nos [relatórios de pessoa](http://do
    >**Mergulho profundo**
    >
    >
-   >Veja o que mais você pode fazer com os relatórios no aprofundamento do [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Veja o que mais você pode fazer com os relatórios no aprofundamento do [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
