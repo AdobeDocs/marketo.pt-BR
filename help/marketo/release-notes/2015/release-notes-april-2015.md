@@ -3,7 +3,7 @@ unique-page-id: 7511815
 description: Notas de versão - abril de 2015 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - abril de 2015
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -29,9 +29,9 @@ Além disso, a organização de relatórios privada versus compartilhada agora e
 
 ## Envolvimento móvel do Marketo {#marketo-mobile-engagement}
 
-[Envolvimento móvel do Marketo](http://docs.marketo.com/display/docs/mobile+marketing)
+[Envolvimento móvel do Marketo](https://docs.marketo.com/display/docs/mobile+marketing)
 
-Com [Marketing Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing), é fácil oferecer experiências móveis atraentes. Crie campanhas altamente personalizadas que fornecem conteúdo atraente sem precisar depender de uma equipe de desenvolvimento de aplicativos. Novos filtros e acionadores permitem que você ouça e responda no canal móvel por meio de notificações por push.
+Com [Marketing Mobile Engagement](https://docs.marketo.com/display/docs/mobile+marketing), é fácil oferecer experiências móveis atraentes. Crie campanhas altamente personalizadas que fornecem conteúdo atraente sem precisar depender de uma equipe de desenvolvimento de aplicativos. Novos filtros e acionadores permitem que você ouça e responda no canal móvel por meio de notificações por push.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -39,7 +39,7 @@ Com [Marketing Mobile Engagement](http://docs.marketo.com/display/docs/mobile+ma
 
 [Integração do LinkedIn Lead Accelerator](../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Estenda sua estratégia de criação de leads para exibição paga e anúncios sociais. A [integração de rede de anúncio](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) com o LinkedIn Lead Accelerator permite criar com segurança um segmento de audiência no LinkedIn com base nos membros de qualquer lista inteligente ou estática. Os membros em um segmento de audiência do LinkedIn podem ser criados com uma sequência de anúncios relevantes.
+Estenda sua estratégia de criação de leads a anúncios pagos e sociais. A [integração de rede de anúncio](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) com o LinkedIn Lead Accelerator permite criar com segurança um segmento de audiência no LinkedIn com base nos membros de qualquer lista inteligente ou estática. Os membros em um segmento de audiência do LinkedIn podem ser criados com uma sequência de anúncios relevantes.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
@@ -51,8 +51,8 @@ Seus recursos favoritos de Insight de vendas - feed principal, melhores apostas,
 
 ## RTP - Análise de marketing baseada em conta {#rtp-account-based-marketing-analytics}
 
-RTP - [Análise de marketing baseada em conta](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+RTP - [Análise de Marketing Baseada em Conta](https://docs.marketo.com/pages/viewpage.action?pageid=7511515)
 
-Obtenha visibilidade instantânea do [desempenho da sua chave listas de conta nomeada](http://docs.marketo.com/pages/viewpage.action?pageid=7511515) com base em cada estágio do ciclo de compra, com o novo gráfico de desempenho para suas listas de conta nomeada. O gráfico mostra o estágio da visita da organização-chave começando pela conscientização de todo o caminho até a ação, com base no número de visitas e no status do visitante.
+Obtenha visibilidade instantânea do [desempenho da sua chave listas de conta nomeada](https://docs.marketo.com/pages/viewpage.action?pageid=7511515) com base em cada estágio do ciclo de compra, com o novo gráfico de desempenho para suas listas de conta nomeada. O gráfico mostra o estágio da visita da organização-chave começando pela conscientização de todo o caminho até a ação, com base no número de visitas e no status do visitante.
 
 ![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
