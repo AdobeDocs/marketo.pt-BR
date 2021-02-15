@@ -3,7 +3,7 @@ unique-page-id: 14745825
 description: Conformidade com o Sales Connect e o GDPR - Documentos do Marketing - Documentação do produto
 title: Conformidade com o Sales Connect e o GDPR
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1387'
 ht-degree: 0%
@@ -38,10 +38,11 @@ O RGPD aplica-se a qualquer organização dentro ou fora da UE que comercialize 
 
 Os profissionais de marketing buscam criar experiências de clientes que se sintam pessoais e humanas, baseadas em confiança e fornecidas com cuidado. Embora o RGPD não use esses termos, os objetivos são os mesmos — respeitar os direitos dos clientes e ganhar sua confiança. Para construir e manter essa confiança, os profissionais de marketing devem estar atentos ao modo, quando e por que seus clientes querem se envolver. É fundamental que as preferências do cliente sejam respeitadas, não apenas como requisito legal, mas como a base de práticas de envolvimento voltadas para o cliente.
 
-Como os profissionais de marketing atendem a essas expectativas mais altas em torno da coleta, do uso e da segurança dos dados pessoais que são rotineiramente usados durante seu trabalho é fundamental, e o Marketo pode ajudar a atender a essas expectativas.\
+Como os profissionais de marketing atendem a essas expectativas mais altas em torno da coleta, do uso e da segurança dos dados pessoais que são rotineiramente usados durante seu trabalho é fundamental, e o Marketo pode ajudar a atender a essas expectativas.
+
 Existem dois aspectos fundamentais do RGPD em que os profissionais de marketing precisam de rever as práticas passadas, atuais e futuras. A primeira é o consentimento do indivíduo para processar os seus dados pessoais, e a segunda é a responsabilidade, nomeadamente, poder demonstrar como os princípios do RGPD estão a ser seguidos.
 
-Fornecemos informações abrangentes sobre consentimento e responsabilidade dentro da plataforma Marketo em nosso e-book, [GDPR e The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). No entanto, neste artigo, nos concentraremos especificamente nos novos recursos no Marketing Sales Connect que ajudarão sua organização a seguir as regras do RGPD.
+Fornecemos informações abrangentes sobre consentimento e responsabilidade dentro da plataforma Marketo em nosso e-book, [GDPR e The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). No entanto, neste artigo, nos concentraremos especificamente nos novos recursos no Marketing Sales Connect que ajudarão sua organização a seguir as regras do RGPD.
 
 ## Conformidade com o RGPD no Marketing Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -94,7 +95,8 @@ Se você escolher &quot;Consentimento&quot; como o Tipo de autorização, dois c
 ![](assets/6.png)
 
 Se &quot;Outro&quot; for escolhido para Tipo de Autorização ou Tipo de Origem, você poderá digitar um texto para descrever o Tipo de Origem.
-** ![](assets/7.png)
+
+![](assets/7.png)
 
 Ações em massa** O Marketing Connect também permite a atualização dos tipos de Autorização e Origem de um contato em massa, economizando tempo valioso no processo de conformidade.
 
@@ -166,7 +168,9 @@ Você pode exportar informações de contato da Visualização Detalhes da pesso
 >
 >Isso só pode ser feito em um contato por vez. No momento, não há nenhuma funcionalidade que permita exportações em massa de contatos.
 
-Para exportar informações de contato, clique nos três pontos verticais no Cabeçalho de Visualização Detalhes da pessoa e selecione **Exportar**. O arquivo .CSV será baixado automaticamente.   ![](assets/thirteen.png)
+Para exportar informações de contato, clique nos três pontos verticais no Cabeçalho de Visualização Detalhes da pessoa e selecione **Exportar**. O arquivo .CSV será baixado automaticamente.
+
+![](assets/thirteen.png)
 
 >[!NOTE]
 >
@@ -185,4 +189,4 @@ Uma área geralmente mal compreendida do RGPD envolve contatos que cancelam a in
 
 Como um defensor entusiasmado do poder e da centralidade do cliente na economia de envolvimento, Marketo entende a importância de colocar a privacidade e a proteção de dados nas mãos do sujeito dos dados. Assim como com outras leis de proteção de dados, a conformidade com o RGPD exige compromisso tanto do Marketing quanto de nossos clientes. Este artigo destina-se a ajudá-lo a usar o Marketo de forma adequada para respaldar a conformidade do RGPD de sua organização.
 
-Continuaremos a acompanhar de perto as orientações aplicáveis do RGPD emitidas pelas autoridades reguladoras e legislação relacionada. As atualizações serão publicadas em nosso Centro de Confiança em [trust.marketo.com](http://trust.marketo.com).
+Continuaremos a acompanhar de perto as orientações aplicáveis do RGPD emitidas pelas autoridades reguladoras e legislação relacionada. As atualizações serão publicadas em nosso Centro de Confiança em [trust.marketo.com](https://trust.marketo.com).
