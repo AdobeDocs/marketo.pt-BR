@@ -3,7 +3,7 @@ unique-page-id: 2360397
 description: Inscrever-se em um relatório do Revenue Explorer - Documentos do Marketing Cloud - Documentação do produto
 title: Inscrever-se em um Relatório do Gerenciador de Receita
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Inscrever-se em um Relatório do Revenue Explorer {#subscribe-to-a-revenue-explorer-report}
 
-Para receber atualizações dos relatórios do [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) e para compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
+Para receber atualizações dos relatórios do [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) e para compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
 
 1. Vá para **Analytics** e selecione **Novo > Nova Subscrição de relatório.**
 
@@ -51,5 +51,5 @@ Para receber atualizações dos relatórios do [Revenue Cycle Explorer](http://d
 >
 >**Mergulho profundo**
 >
->Veja mais coisas que você pode fazer com as análises avançadas do Marketo no aprofundamento do [Explorador do Ciclo de Receita](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Veja mais coisas que você pode fazer com as análises avançadas do Marketo no aprofundamento do [Explorador do Ciclo de Receita](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
