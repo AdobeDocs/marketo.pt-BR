@@ -3,7 +3,7 @@ unique-page-id: 2360052
 description: Páginas da Web Visualizadas, Relatório de Atividade da Página da Web - Documentos do Marketing - Documentação do produto
 title: Páginas da Web Visualizadas, Relatório de Atividade de Página da Web
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -38,5 +38,5 @@ Em um [relatório de Atividade de página da Web](../../../../../product-docs/re
    >**Mergulho profundo**
    >
    >
-   >Faça mais com os relatórios! Consulte o mergulho profundo [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Faça mais com os relatórios! Consulte o mergulho profundo [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
