@@ -3,7 +3,7 @@ unique-page-id: 2360005
 description: Relatório de Atividade da Web de empresa - Documentos do Marketing - Documentação do produto
 title: Relatório de Atividade da Web de empresa
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -78,4 +78,4 @@ Crie um [relatório de Atividade de página da Web](web-page-activity-report.md)
 >
 >**Mergulho profundo**
 >
->Saiba mais sobre outros relatórios interessantes no mergulho profundo [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+>Saiba mais sobre outros relatórios interessantes no mergulho profundo [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
