@@ -3,9 +3,9 @@ unique-page-id: 2953342
 description: Adicionar um cliente potencial/contato a uma Campanha de marketing do Microsoft Dynamics - Documentos de marketing - Documentação do produto
 title: Adicionar um cliente potencial/contato a uma Campanha de marketing do Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Você pode adicionar clientes potenciais/contatos de forma rápida e fácil ao M
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Clique em** ...** e selecione **Adicionar à Campanha de marketing**.
+1. Clique em **...** e selecione **Adicionar à Campanha de marketing**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +37,6 @@ Você pode adicionar clientes potenciais/contatos de forma rápida e fácil ao M
 
    >[!NOTE]
    >
-   >Para que a campanha apareça na lista suspensa, use a Campanha [**is Requested** trigger](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), com o Sales Insight como a fonte, quando você configurar a campanha.
+   >Para que a campanha apareça na lista suspensa, use a Campanha [**is Requested** trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), com o Sales Insight como a fonte, quando você configurar a campanha.
 
 E isso é tudo, pessoal! Agora você tem o poder das campanhas inteligentes de marketing em suas mãos diretamente da Dinâmica.
