@@ -3,7 +3,7 @@ unique-page-id: 2951122
 description: Notas de versão - março de 2012 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - março de 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Mergulho profundo**
 >
->Para outras versões, consulte as [Notas de versão](http://docs.marketo.com/display/docs/release+notes) profundas.
+>Para outras versões, consulte as [Notas de versão](https://docs.marketo.com/display/docs/release+notes) profundas.
 >
 >## Resolver Meus Tokens {#resolve-my-tokens}>
 
@@ -49,4 +49,4 @@ Com a adição de conteúdo dinâmico, torna-se cada vez mais importante pré-vi
 
 ## Landings page dinâmicas com base no parâmetro de URL {#dynamic-landing-pages-based-on-url-parameter}
 
-Os clientes potenciais anônimos compõem uma quantidade significativa de suas visitas landings page. Com a adição de conteúdo dinâmico e a capacidade de inserir a segmentação no URL como parâmetro, você pode exibir dinamicamente seu conteúdo de landing page quando um cliente potencial anônimo ou conhecido clicar no link.
+Os clientes potenciais anônimos compõem uma quantidade significativa de suas visitas landings page. Com a adição de conteúdo dinâmico e a capacidade de inserir a segmentação no URL como parâmetro, você pode exibir dinamicamente o conteúdo da landing page quando um cliente potencial anônimo ou conhecido clicar no link.
