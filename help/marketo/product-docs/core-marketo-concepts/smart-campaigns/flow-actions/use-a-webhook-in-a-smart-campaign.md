@@ -3,7 +3,7 @@ unique-page-id: 1147025
 description: Usar um Webhook em uma Campanha inteligente - Documentos do Marketing - Documentação do produto
 title: Usar um Webhook em uma Campanha inteligente
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Usar um Webhook em uma Campanha inteligente {#use-a-webhook-in-a-smart-campaign}
 
-Para usar um [webhook](http://developers.marketo.com/documentation/webhooks/), adicione-o a uma [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) como uma ação de fluxo.
+Para usar um [webhook](https://developers.marketo.com/documentation/webhooks/), adicione-o a uma [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) como uma ação de fluxo.
 
 >[!AVAILABILITY]
 >
