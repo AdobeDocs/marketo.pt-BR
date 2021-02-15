@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2951052
-description: Notas de versão - dezembro de 2013 - Documentos do Marketing - Documentação do produto
+description: Notas de versão - dezembro de 2013 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - dezembro de 2013
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Notas de versão: Dezembro de 2013 {#release-notes-december}
 
-Os seguintes recursos estão incluídos na versão de dezembro. Verifique sua [Edição de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
+Os seguintes recursos estão incluídos na versão de dezembro. Verifique sua [Edição de marketing](https://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
 
 Após o lançamento, verifique a guia Nova versão na Comunidade para obter artigos detalhados da Base de conhecimento sobre cada recurso!
 
 ## Fotos em segundo plano mais doces {#sweet-background-photos}
 
-Começamos a expressar nosso talento criativo no aplicativo. A cada trimestre, um novo artista será destacado. Para nos expulsar, selecionamos [Trey Ratcliff](http://stuckincustoms.smugmug.com/).
+Começamos a expressar nosso talento criativo no aplicativo. A cada trimestre, um novo artista será destacado. Para nos expulsar, selecionamos [Trey Ratcliff](https://stuckincustoms.smugmug.com/).
 
 ## Programa de e-mail {#email-program}
 
