@@ -3,7 +3,7 @@ unique-page-id: 2949718
 description: Publicar um email no Sales Insight - Documentos do Marketing - Documentação do produto
 title: Publicar um email no Sales Insight
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -39,13 +39,12 @@ Ative a configuração Publicar no insight de vendas para disponibilizar um emai
 
    ![](assets/five.png)
 
-Bom trabalho! Agora você sabe como disponibilizar emails para sua equipe de vendas para enviar no CRM e limitar seu tempo disponível, se necessário.
+Bom trabalho! Agora você sabe como disponibilizar emails para sua equipe de vendas para enviar no CRM e limitar o tempo disponível, se necessário.
 
 >[!NOTE]
 >
->[Meus ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) Tokenss não serão resolvidos ao enviar um email do Sales Insight no Microsoft Dynamics ou no Salesforce; somente os tokens padrão serão preenchidos (cliente potencial, Empresa etc.). No entanto, os valores padrão para tokens funcionarão.
+>[Meus ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) Tokenss não serão resolvidos ao enviar um email do Sales Insight no Microsoft Dynamics ou no Salesforce; somente os tokens padrão serão preenchidos (cliente potencial, Empresa etc.). No entanto, os valores padrão para tokens funcionarão.
 
 >[!TIP]
 >
->Não se esqueça de aprovar este email para que as alterações entrem em vigor. Saiba como [Aprovar um email](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
-
+>Não se esqueça de aprovar este email para que as alterações entrem em vigor. Saiba como [Aprovar um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
