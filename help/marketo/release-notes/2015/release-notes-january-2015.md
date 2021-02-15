@@ -3,7 +3,7 @@ unique-page-id: 4720758
 description: Notas de versão - janeiro de 2015 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - janeiro de 2015
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Três novas chamadas para a API ReST de cliente potencial e Atividade:
 * Obter clientes em potencial por ID de Programa
 * Obter Clientes Potenciais Excluídos
 
-Além disso, há uma nova opção para Sincronizar cliente potencial, para gravar a mudança de cliente potencial de forma assíncrona para uma chamada de API mais rápida. Os detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](http://developers.marketo.com)
+Além disso, há uma nova opção para Sincronizar cliente potencial, para gravar a mudança de cliente potencial de forma assíncrona para uma chamada de API mais rápida. Os detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com)
 
 **Suporte a objetos personalizados de script de email**
 
@@ -59,13 +59,13 @@ As melhorias no módulo Contas nomeadas melhorarão as taxas de correspondência
 
 Opções de tag RTP atualizadas
 
-[As opções de ](http://docs.marketo.com/display/docs/rtp+tag+implementation) Tags RTP em Configurações de conta foram atualizadas para incluir:
+[As opções de ](https://docs.marketo.com/display/docs/rtp+tag+implementation) Tags RTP em Configurações de conta foram atualizadas para incluir:
 
 1. CDN e assíncrono (tag recomendada)
 1. CDN e síncrono (alta velocidade)
 1. Tag assíncrona sem CDN
 1. Tag síncrona sem CDN
 
-Para melhor desempenho, é recomendável colocar a tag na parte superior do cabeçalho na sua página da Web depois de `<head>`. Todas as tags permitem o uso da [API RTP](http://developers.marketo.com/documentation/websites/rtp-js-api/). Para obter informações sobre como implantar a tag RTP, consulte [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para melhor desempenho, é recomendável colocar a tag na parte superior do cabeçalho na sua página da Web depois de `<head>`. Todas as tags permitem o uso da [API RTP](https://developers.marketo.com/documentation/websites/rtp-js-api/). Para obter informações sobre como implantar a tag RTP, consulte [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
