@@ -3,7 +3,7 @@ unique-page-id: 2360366
 description: Etapa 3 de 3 - Connect Marketing e Salesforce (Enterprise/Unlimited) - Documentação do produto - Documentação do produto
 title: Etapa 3 de 3 - Connect Marketing e Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
 
 ## Definir as credenciais de sincronização do usuário {#set-sync-user-credentials}
 
-1. No Marketo, vá para **Admin**, selecione **CRM** e clique em **Sincronizar com [Salesforce.com](http://Salesforce.com)**
+1. No Marketo, vá para **Admin**, selecione **CRM** e clique em **Sincronizar com [Salesforce.com](https://Salesforce.com)**
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
