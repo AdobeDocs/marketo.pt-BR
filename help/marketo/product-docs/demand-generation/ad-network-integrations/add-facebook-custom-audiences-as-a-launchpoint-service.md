@@ -3,7 +3,7 @@ unique-page-id: 4720257
 description: Adicionar Audiências personalizadas do Facebook como um serviço do LaunchPoint - Documentos do Marketing - Documentação do produto
 title: Adicionar Audiências personalizadas do Facebook como um Serviço do LaunchPoint
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Com essa integração, você pode enviar dados de audiência do Marketing para l
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Abra uma nova guia no mesmo navegador e vá para [facebook.com](http://www.facebook.com/). Faça logon no Facebook usando a conta que deseja usar para a integração.
+1. Abra uma nova guia no mesmo navegador e vá para [facebook.com](https://www.facebook.com/). Faça logon no Facebook usando a conta que deseja usar para a integração.
 
    >[!CAUTION]
    >
