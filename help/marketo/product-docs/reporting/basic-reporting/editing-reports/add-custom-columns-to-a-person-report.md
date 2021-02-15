@@ -3,7 +3,7 @@ unique-page-id: 2360201
 description: Adicionar colunas personalizadas a um relatório de pessoa - Documentos do marketing - Documentação do produto
 title: Adicionar colunas personalizadas a um relatório de pessoa
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adicionar colunas personalizadas a um relatório de pessoa {#add-custom-columns-to-a-person-report}
 
-Você pode filtrar ainda mais as métricas em seus [relatórios de pessoa](http://docs.marketo.com/display/docs/basic+reporting) usando suas [listas inteligentes](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) como colunas personalizadas.
+Você pode filtrar ainda mais as métricas em seus [relatórios de pessoa](https://docs.marketo.com/display/docs/basic+reporting) usando suas [listas inteligentes](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) como colunas personalizadas.
 
 1. Vá para a área **Atividades de marketing** (ou **Analytics**).
 
@@ -36,7 +36,7 @@ Você pode filtrar ainda mais as métricas em seus [relatórios de pessoa](http:
    >**Mergulho profundo**
    >
    >
-   >Saiba como criar e configurar listas inteligentes no aprofundamento de [Listas inteligentes e Listas estáticas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Saiba como criar e configurar listas inteligentes no aprofundamento de [Listas inteligentes e Listas estáticas](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
 1. Você fez isso! Clique na guia **Relatório** para ver seu relatório com as novas colunas.
 
@@ -53,5 +53,5 @@ Você pode filtrar ainda mais as métricas em seus [relatórios de pessoa](http:
    >**Mergulho profundo**
    >
    >
-   >Saiba mais sobre as muitas coisas que você pode fazer com relatórios no aprofundamento do [Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Saiba mais sobre as muitas coisas que você pode fazer com relatórios no aprofundamento do [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
 
