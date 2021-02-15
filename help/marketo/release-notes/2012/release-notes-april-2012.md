@@ -3,7 +3,7 @@ unique-page-id: 2951119
 description: Notas de versão - abril de 2012 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - abril de 2012
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**Mergulho profundo**
 >
->Para outras versões, consulte as [Notas de versão](http://docs.marketo.com/display/docs/release+notes) profundas.
+>Para outras versões, consulte as [Notas de versão](https://docs.marketo.com/display/docs/release+notes) profundas.
 
 Você público alvo o mesmo grupo de clientes potenciais de forma consistente? Em caso afirmativo, use a segmentação em suas listas inteligentes para direcionar clientes potenciais. Com a segmentação, todo o banco de dados principal é sempre segmentado e pode ser reutilizado em todos os programas para garantir a consistência. Os resultados da segmentação são obtidos rapidamente porque não exigem que a lista inteligente seja executada no momento da solicitação.
 
