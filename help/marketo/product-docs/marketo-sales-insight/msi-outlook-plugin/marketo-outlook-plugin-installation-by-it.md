@@ -3,7 +3,7 @@ unique-page-id: 11382815
 description: Instalação do plug-in do Marketo Outlook por TI - Documentos do Marketing - Documentação do produto
 title: Instalação do plug-in do Marketo Outlook por TI
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Configure ](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) a chave corporativa.
+>[Configure ](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) a chave corporativa.
 
 Execute a seguinte linha de comando como &quot;Sistema&quot; ou uma conta de usuário administrativo com a opção /i a ser instalada.  `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
