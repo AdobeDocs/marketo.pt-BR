@@ -3,7 +3,7 @@ unique-page-id: 10100649
 description: Configurar o plano de fundo das mensagens no aplicativo - Documentos do marketing - Documentação do produto
 title: Configurar o plano de fundo das mensagens no aplicativo
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Selecionar um plano de fundo de mensagem é uma etapa importante para finalizar 
    >    
    >    
    >    * [Como entender as mensagens no aplicativo](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [Enviar uma mensagem no aplicativo](http://docs.marketo.com/pages/viewpage.action?pageid=10617378)
+   >    * [Enviar uma mensagem no aplicativo](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
    >    * [Escolha um layout para sua mensagem no aplicativo](choose-a-layout-for-your-in-app-message.md)
 
 
