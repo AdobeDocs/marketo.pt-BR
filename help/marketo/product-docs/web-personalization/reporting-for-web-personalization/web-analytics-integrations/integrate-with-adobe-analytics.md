@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: Integrar à Adobe Analytics - Documentos do Marketing Cloud - Documentação do produto
 title: Integrar ao Adobe Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Este documento permite a integração entre a RTP (Marketo Real-Time Personaliza
 
 Você pode fazer isso observando métricas como o número de visitantes novos e recorrentes em cada segmento, analisando as taxas de cliques no campanha e descobrindo quais setores, segmentos personalizados e campanhas em tempo real geraram as melhores oportunidades de conversão. Aproveite essa capacidade para obter o máximo benefício de sua conta RTP.
 
-## AUDIENCE ANALYTICS RTP {#rtp-audience-analytics}
+## Audience Analytics RTP {#rtp-audience-analytics}
 
 Com a integração RTP - AA, você tem uma nova dimensão na interface do Web Analytics. O RTP aprimora automaticamente seus painéis de análise da Web com:
 
@@ -64,8 +64,8 @@ Complete as etapas a seguir para configurar essas variáveis no AA:
 
 1. Vá para **Ferramentas administrativas** na sua conta AA.
 1. Selecione o **Conjunto de relatórios** a ser usado com a integração.
-1. Em **Editar configurações,** vá para **Conversão** e selecione ** [Variáveis de conversão](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Selecione o número [Variável de conversão](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (recomendamos):
+1. Em **Editar configurações,** vá para **Conversão** e selecione ** [Variáveis de conversão](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
+   Selecione o número [Variável de conversão](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (recomendamos):
 
    1. 
 
@@ -82,7 +82,7 @@ Complete as etapas a seguir para configurar essas variáveis no AA:
 
          1. Altere o campo Expirar após para **Visita.**
 
-1. Em **Editar configurações **vá para** Conversão **e selecione ** [Eventos bem-sucedidos](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. Em **Editar configurações **vá para** Conversão **e selecione ** [Eventos bem-sucedidos](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
 1. Selecione o número do Evento Eventos de sucesso personalizados (recomendamos):
 
@@ -97,7 +97,7 @@ Complete as etapas a seguir para configurar essas variáveis no AA:
 
 1. Selecione o campo Tipo* *para ser **Contador (sem sub-relações)**
 
-1. Em **Editar configurações** vá para ** [Tráfego](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **e selecione ** [Variáveis de tráfego](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Em **Editar configurações** vá para ** [Tráfego](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **e selecione ** [Variáveis de tráfego](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Selecione a propriedade da variável de tráfego # (recomendamos):
 
@@ -183,13 +183,13 @@ Exemplos de relatórios e painéis personalizados em AA incluem:
 
 **Criação do Painel RTP**
 
-Crie um [novo painel](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), chamado **Painel RTP**. Esse painel ajudará a entender o detalhamento dos visitantes de acordo com segmentos verticais e RTP.
+Crie um [novo painel](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), chamado **Painel RTP**. Esse painel ajudará a entender o detalhamento dos visitantes de acordo com segmentos verticais e RTP.
 
 1. Clique em **Painel,** clique em** Adicionar Painel**
 
 1. Nomeie o Painel **Painel RTP**
 1. Selecione **tamanho do painel** 3 x 2, 2 x 2
-1. Crie o [reportlet](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) e adicione [conteúdo ao painel](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. Crie o [reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) e adicione [conteúdo ao painel](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
 
 Adicionando o reportlet Setores ao Painel
 
