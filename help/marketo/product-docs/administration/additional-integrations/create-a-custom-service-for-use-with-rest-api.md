@@ -3,7 +3,7 @@ unique-page-id: 2360350
 description: Criar um serviço personalizado para uso com a API ReST - Documentos do Marketing Cloud - Documentação do produto
 title: Criar um serviço personalizado para uso com a API ReST
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Se você quiser se integrar ao Marketo por meio da API ReST, será necessário c
 
 >[!TIP]
 >
->Consulte a documentação de nossos desenvolvedores para obter detalhes sobre a [API ReST](http://developers.marketo.com/documentation/rest/). Também temos a [API SOAP](http://developers.marketo.com/documentation/soap/) se for isso que você precisa.
+>Consulte a documentação de nossos desenvolvedores para obter detalhes sobre a [API ReST](https://developers.marketo.com/documentation/rest/). Também temos a [API SOAP](https://developers.marketo.com/documentation/soap/) se for isso que você precisa.
 
 >[!NOTE]
 >
