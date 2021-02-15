@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Notas de versão - Winter '18 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 18
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -86,7 +86,7 @@ O conteúdo recomendado por meio dos algoritmos Conteúdo`<sup>AI </sup>`otimiza
 
 ## Integração {#integration}
 
-** [Ativar/Desativar API de Campanha](http://developers.marketo.com/rest-api/assets/campaigns/)**
+** [Ativar/Desativar API de Campanha](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 Essa nova API permite ativar e desativar remotamente campanhas de disparo, para que você possa criar modelos de programa totalmente automatizados. Crie um modelo de programa uma vez, em seguida, automatize a clonagem, as atualizações de materiais de apoio de marketing e, agora, a ativação/agendamento de campanhas inteligentes.
 
@@ -94,7 +94,7 @@ Essa nova API permite ativar e desativar remotamente campanhas de disparo, para 
 
 **Cancelar assinatura da atualização**
 
-A partir de 1º de março de 2018, todos os emails enviados de [ToutApp.com](http://ToutApp.com) (e usando o botão &quot;Email com saída&quot; no Salesforce) terão um link para cancelar a inscrição anexado à parte inferior.
+A partir de 1º de março de 2018, todos os emails enviados de [ToutApp.com](https://ToutApp.com) (e usando o botão &quot;Email com saída&quot; no Salesforce) terão um link para cancelar a inscrição anexado à parte inferior.
 
 **Atualização de feed ao vivo**
 
