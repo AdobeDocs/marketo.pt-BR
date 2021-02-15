@@ -2,7 +2,7 @@
 title: my-token-link
 description: Meu link de token
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Veja como configurar um token de link para uso nas pastas programas e campanhas.
 
    >[!NOTE]
    >
-   >Se Incluir mkt_tok estiver marcado, o Marketo exibirá uma pré-visualização de link do domínio de rastreamento de marca (por exemplo, http://mkto-sjqe3355.com/mn/...). Se você desmarcar essa caixa de seleção, o link será alterado. Se você desativar o rastreamento de links para emails ou landings page, >o URL será reduzido para sua duração básica (por exemplo, www.examplepage.com).
+   >Se Incluir mkt_tok estiver marcado, o Marketo exibirá uma pré-visualização de link do domínio de rastreamento de marca (por exemplo, https://mkto-sjqe3355.com/mn/...). Se você desmarcar essa caixa de seleção, o link será alterado. Se você desativar o rastreamento de links para emails ou landings page, >o URL será reduzido para sua duração básica (por exemplo, www.examplepage.com).
 
 1. Opcionalmente, em [!UICONTROL Avançado], você pode personalizar seu link usando o CSS. Clique em **[!UICONTROL Salvar]**.
 
