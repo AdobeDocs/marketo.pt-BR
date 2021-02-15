@@ -3,7 +3,7 @@ unique-page-id: 2360014
 description: Relatório de desempenho de pessoas - Documentos de marketing - Documentação do produto
 title: Relatório de desempenho de pessoas
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -41,12 +41,12 @@ Você pode:
 
 >[!TIP]
 >
->Lembre-se de que os relatórios são fáceis de [criar](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configurar](http://docs.marketo.com/display/docs/basic+reporting) e [excluir](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Vá em frente e divirta-se com as muitas maneiras de manipulá-los, para aprender as melhores maneiras de focar nos dados principais.
+>Lembre-se de que os relatórios são fáceis de [criar](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configurar](https://docs.marketo.com/display/docs/basic+reporting) e [excluir](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Vá em frente e divirta-se com as muitas maneiras de manipulá-los, para aprender as melhores maneiras de focar nos dados principais.
 
 >[!NOTE]
 >
 >**Mergulho profundo**
 >
 >
->Saiba mais no  básico[Relatórios básico](http://docs.marketo.com/display/docs/basic+reporting)mergulho profundo.
+>Saiba mais no  básico[Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting)mergulho profundo.
 
