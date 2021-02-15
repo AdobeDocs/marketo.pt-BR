@@ -3,7 +3,7 @@ unique-page-id: 30081307
 description: Colunas da página de pessoas - Documentos do marketing - Documentação do produto
 title: Colunas da página de pessoas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Você tem a opção de personalizar quais informações de contato você vê esc
 
    ![](assets/one-5.png)
 
-1. Percorra e selecione as colunas desejadas (você também pode clicar em **Selecionar tudo** se quiser cada coluna). Clique fora da lista quando terminar.
+1. Percorra e selecione as colunas desejadas (você também pode clicar em **Selecionar tudo** se desejar cada coluna). Clique fora da lista quando terminar.
 
    ![](assets/two-4.png)
 
@@ -131,4 +131,3 @@ Você tem a opção de personalizar quais informações de contato você vê esc
   </tr> 
  </tbody> 
 </table>
-
