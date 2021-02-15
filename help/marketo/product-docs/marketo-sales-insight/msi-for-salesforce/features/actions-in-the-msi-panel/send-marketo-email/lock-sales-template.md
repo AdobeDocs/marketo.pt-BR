@@ -3,7 +3,7 @@ unique-page-id: 12981050
 description: Bloquear modelo de vendas - Documentos do marketing - Documentação do produto
 title: Bloquear modelo de vendas
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -62,4 +62,3 @@ Para impedir que usuários do CRM editem modelos de vendas, os administradores p
    >[!NOTE]
    >
    >Por padrão, essa caixa está marcada e os usuários do CRM podem editar emails.
-
