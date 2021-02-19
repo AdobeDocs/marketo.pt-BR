@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: Tokens para momentos interessantes - Documentos de marketing - Documentação do produto
 title: Tokens para momentos interessantes
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Saiba como usar a [Etapa de fluxo de Momento Interessante](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
->* Saiba mais sobre [tokens](https://docs.marketo.com/display/docs/tokens).
-
->
-
-
+>Saiba como usar a [Etapa de fluxo de Momento Interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Tokens disponíveis {#available-tokens}
 
-Confira [Visão geral dos tokens](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos os tokens que você pode colocar em um momento interessante.
+Confira [Visão geral dos tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos os tokens que você pode colocar em um momento interessante.
 
 ## Tokens de acionamento {#trigger-tokens}
 
@@ -249,4 +244,3 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
 >Sempre teste seus momentos interessantes para garantir que eles renderizem a maneira como você pretende.
 >
 >Além disso, certifique-se de que seja interessante para o vendedor, não apenas para você. ![(piscar)](assets/wink.svg)>
-
