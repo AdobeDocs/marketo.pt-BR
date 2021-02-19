@@ -3,7 +3,7 @@ unique-page-id: 7512654
 description: Ver o feed principal no Salesforce1 - Documentos do Marketing - Documentação do produto
 title: Visualizando o feed principal no Salesforce1
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -33,11 +33,7 @@ O principal feed é uma lista de eventos interessantes atualizada feita pelos cl
 
 >[!MORELIKETHIS]
 >
->* [Momentos interessantes em Salesforce1](interesting-moments-in-salesforce1.md)
->* [Enviar ações de Campanha e email para marketing e lista de vigias no Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Melhores apostas no Salesforce1](best-bets-in-salesforce1.md)
-
->
-
-
+>* [Momentos interessantes em Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Enviar ações de Campanha e email para marketing e lista de vigias no Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Melhores apostas no Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 
