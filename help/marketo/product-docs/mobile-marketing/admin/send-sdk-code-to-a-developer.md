@@ -3,9 +3,9 @@ unique-page-id: 7512448
 description: Enviar código SDK para um desenvolvedor - Documentos do Marketing - Documentação do produto
 title: Enviar código SDK para um desenvolvedor
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Antes de criar mensagens no aplicativo ou notificações por push, é necessári
 
 É assim que se faz.
 
-1. Clique em Admin.
+1. Clique em **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecione Aplicativos móveis.
+1. Selecione **Aplicativos móveis**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -42,9 +42,8 @@ Antes de criar mensagens no aplicativo ou notificações por push, é necessári
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. Insira um endereço de email e clique em **ENVIAR**.
+1. Insira um endereço de email e clique em **Enviar**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
    O código SDK será enviado para o desenvolvedor.
-
