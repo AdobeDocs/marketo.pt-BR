@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Personalizar estrelas e chamas - Documentos de marketing - Documentação do produto
 title: Personalizar estrelas e chamas
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,13 @@ O Marketing Sales Insight usa estrelas e chamas para priorizar clientes potencia
 
 >[!AVAILABILITY]
 >
->
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Em Admin, clique em Sales Insight.
+1. Em Admin, clique em **Sales Insight**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
@@ -38,9 +37,7 @@ O Marketing Sales Insight usa estrelas e chamas para priorizar clientes potencia
    >
    >**Definição**
    >
-   >
-   >**Dinâmico**  - é um valor percentual que é derivado de dados [ ](priority-urgency-relative-score-and-best-bets.md)relativos. Coisas incríveis. Este método é recomendado.
-   >
+   >**Dinâmico**  - é um valor percentual que é derivado de dados [ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)relativos. Coisas incríveis. Este método é recomendado.
    >
    >**Estático**  - Permite definir números exatos de pontuação - não há mais porcentagens, não há mais molhos secretos.
 
@@ -50,14 +47,11 @@ O Marketing Sales Insight usa estrelas e chamas para priorizar clientes potencia
 
    >[!TIP]
    >
-   >
    >Basta editar a porcentagem inicial, o Marketo calculará a porcentagem final para você!
 
    ![](assets/image2014-9-16-13-3a38-3a49.png)
 
 >[!NOTE]
->
->**Lembrete**
 >
 >Uma vez feitas as mudanças, o processo de recálculo de estrelas e chamas levará algum tempo. Paciência é uma virtude.
 
