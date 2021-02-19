@@ -3,7 +3,7 @@ unique-page-id: 11382829
 description: Desinstalação do plug-in do Marketo Outlook por TI - Documentos do Marketing - Documentação do produto
 title: Desinstalação do plug-in do Marketo Outlook por TI
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -16,25 +16,33 @@ ht-degree: 0%
 Veja como a TI pode desinstalar remotamente o plug-in do Marketo Outlook.
 
 Execute a seguinte linha de comando como &quot;Sistema&quot; ou uma conta de usuário administrativo com a opção /x para desinstalar.
+
 `<pre>msiexec.exe /x [File Name] /qn </pre>`
 
 >[!NOTE]
 >
 >**Exemplo**
+>
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn </pre>`
 
-Para solucionar problemas, você pode ativar o registro para criar um arquivo de log de saída.  `<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`
+Para solucionar problemas, você pode ativar o registro para criar um arquivo de log de saída.
+
+`<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`
 
 >[!NOTE]
 >
 >**Exemplo**
+>
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn /L*v MarketoAddinUninstall.log</pre>`
 
-Para especificar um local dos arquivos de log, você pode especificar o caminho do arquivo na linha de comando.  `<pre>msiexec.exe /x [File Name] /qn /L*v [File Path]MarketoAddinUninstall.log</pre>`
+Para especificar um local dos arquivos de log, você pode especificar o caminho do arquivo na linha de comando.
+
+`<pre>msiexec.exe /x [File Name] /qn /L*v [File Path]MarketoAddinUninstall.log</pre>`
 
 >[!NOTE]
 >
 >**Exemplo**
+>
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn /L*v C:\temp\MarketoAddinUninstall.log</pre>`
 
 >[!CAUTION]
