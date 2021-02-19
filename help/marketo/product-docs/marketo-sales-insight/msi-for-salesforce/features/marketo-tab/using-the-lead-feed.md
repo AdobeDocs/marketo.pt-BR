@@ -3,9 +3,9 @@ unique-page-id: 7512979
 description: Uso do feed principal - Documentos do marketing - Documentação do produto
 title: Uso do feed principal
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,8 @@ O principal feed é uma lista de eventos interessantes atualizada feita pelos cl
 
 ## O que há no feed principal? {#whats-in-the-lead-feed}
 
-![](assets/one.png)\
+![](assets/one.png)
+
 Cada item no feed principal é um momento interessante - uma atividade ou evento notável no histórico de marketing desse cliente potencial.
 
 Ao visualizá-lo no Salesforce, cada item tem:
@@ -73,17 +74,19 @@ Ao visualizá-lo no Salesforce, cada item tem:
 
 Você também pode obter atualizações do feed principal por feed RSS.  Um feed RSS permite que você receba atualizações em clientes potenciais, mesmo se você não estiver conectado ao Salesforce. O feed tem as mesmas informações que o feed principal no Salesforce, bem como as seguintes informações (quando disponíveis):
 
-* `email address`
-* `phone number`
-* `mobile number`
-* `fax number`
-* `company address`
-* `company URL`
+* endereço de email
+* número de telefone
+* número de telefone celular
+* número de fax
+* Endereço da empresa
+* URL de empresa
 
 >[!NOTE]
 >
->Seu administrador do empresa Marketo deve [ativar os feeds RSS](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) para que isso funcione.
+>Seu administrador do empresa Marketo deve [ativar os feeds RSS](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) para que isso funcione.
 
-Para obter atualizações de RSS, você precisará de duas coisas: o link RSS e um leitor de feed RSS. Você pode obter o link RSS clicando no ícone RSS no feed principal:   ![](assets/three.png)
+Para obter atualizações de RSS, você precisará de duas coisas: o link RSS e um leitor de feed RSS. Você pode obter o link RSS clicando no ícone RSS no feed principal:
+
+![](assets/three.png)
 
 O feed RSS será exibido em uma nova janela. Em seguida, você pode copiar o URL do feed RSS e usá-lo em um leitor RSS. A maioria dos navegadores tem um leitor de RSS integrado ou você pode usar um leitor de RSS específico para a sua plataforma.
