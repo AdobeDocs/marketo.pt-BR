@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: Enviar e rastrear do Outlook usando um modelo de marketing - documentos do Marketing - Documentação do produto
 title: Enviar e rastrear do Outlook usando um modelo de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,6 @@ Se sua equipe de marketing disponibilizou modelos para você, veja como usá-los
 
    >[!NOTE]
    >
-   >**Lembrete**
-   >
-   >
    >Tokens não são suportados com o suplemento. Remova qualquer item que possa estar no modelo.
 
 1. Verifique a pré-visualização, verifique se ela está boa e clique em **Enviar**.
@@ -42,9 +39,4 @@ Se sua equipe de marketing disponibilizou modelos para você, veja como usá-los
 
 >[!MORELIKETHIS]
 >
->* [Registrar e-mails de entrada dos seus clientes potenciais no Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Registrar e-mails de entrada dos seus clientes potenciais no Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
