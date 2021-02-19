@@ -3,7 +3,7 @@ unique-page-id: 7511931
 description: Enviar ações de Campanha e email para marketing e lista de monitoramento no Salesforce1 - Documentos do Marketing - Documentação do produto
 title: Enviar ações de Campanha e email para marketing e lista de vigias no Salesforce1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Que campanhas inteligentes aparecem? Aqueles com o acionador &quot;Campanha é solicitada&quot;. Saiba como configurar uma campanha [acionada usando &quot;Campanha is Requested](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Que campanhas inteligentes aparecem? Aqueles com o acionador &quot;Campanha é solicitada&quot;. Saiba como configurar uma campanha [acionada usando &quot;Campanha is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Legal, agora seus vendedores podem participar ativamente do esforço de marketing.
 
@@ -39,4 +39,3 @@ Legal, agora seus vendedores podem participar ativamente do esforço de marketin
 >
 >
 Seja criativo. O que o vendedor gostaria de automatizar? Apenas pergunte a eles e conecte-os!
-
