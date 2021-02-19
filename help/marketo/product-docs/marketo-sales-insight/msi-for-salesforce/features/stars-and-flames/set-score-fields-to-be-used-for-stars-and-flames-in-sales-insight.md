@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Definir campos de pontuação a serem usados para estrelas e chamas no Sales Insight - Documentos do Marketing - Documentação do produto
 title: Definir campos de pontuação a serem usados para estrelas e chamas no insight de vendas
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Por padrão, o Marketing Cloud Sales Insight usa o campo **Pontuação principal
 
 >[!TIP]
 >
->Se você ainda não tiver seus campos de pontuação personalizados, veja como [criar](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)os.
+>Se você ainda não tiver seus campos de pontuação personalizados, veja como [criá-los](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!NOTE]
 >
 >**Definição**
 >
->* **Estrelas: **As estrelas representam a pontuação total de chumbo em comparação com outros clientes potenciais.
+>* **Estrelas**: As estrelas representam a pontuação total de chumbo em comparação com outros clientes potenciais.
 >* **Chamas**: As chamas representam a urgência - quanto a pontuação de um cliente potencial mudou recentemente.
 
 >
@@ -50,7 +50,8 @@ Por padrão, o Marketing Cloud Sales Insight usa o campo **Pontuação principal
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-   Clique em Salvar.
+1. Clique em **Salvar**.
+
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
@@ -59,7 +60,4 @@ Por padrão, o Marketing Cloud Sales Insight usa o campo **Pontuação principal
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Prioridade, urgência, pontuação relativa e melhores propostas](priority-urgency-relative-score-and-best-bets.md)
-
+   >[Prioridade, urgência, pontuação relativa e melhores propostas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
