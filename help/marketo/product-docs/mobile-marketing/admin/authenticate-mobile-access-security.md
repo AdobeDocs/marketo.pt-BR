@@ -3,7 +3,7 @@ unique-page-id: 10096158
 description: Autenticar a segurança do Mobile Access - Documentos do Marketing - Documentação do produto
 title: Autenticar a segurança do Mobile Access
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Para ativar as IDs, é necessário adquirir os códigos e fornecê-los ao depart
 >
 >Para ativar este recurso, entre em contato com o Suporte e solicite &quot;Vespa Secure Mode&quot;.
 
-1. Em Marketo, selecione **Admin **e clique em **Aplicativos e dispositivos móveis**.
+1. No Marketo, selecione **Admin** e clique em **Aplicativos e dispositivos móveis**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -33,11 +33,10 @@ Para ativar as IDs, é necessário adquirir os códigos e fornecê-los ao depart
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Marque a caixa de seleção** Ativar segurança**. Clique em **Salvar**.
+1. Marque a caixa de seleção **Ativar segurança**. Clique em **Salvar**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 
 1. A área Segurança de acesso agora exibe os dois novos códigos. Certifique-se de enviá-los ao seu departamento de TI.
 
    ![](assets/image2015-12-1-14-3a57-3a34.png)
-
