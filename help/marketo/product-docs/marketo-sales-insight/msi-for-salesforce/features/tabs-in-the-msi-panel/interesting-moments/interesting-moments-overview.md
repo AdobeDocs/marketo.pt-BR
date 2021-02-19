@@ -3,7 +3,7 @@ unique-page-id: 2949720
 description: Visão geral de momentos interessantes - Documentos do Marketing - Documentação do produto
 title: Visão geral dos momentos interessantes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -33,10 +33,6 @@ Você também pode usar tokens em momentos interessantes para fazer descrições
 
 >[!MORELIKETHIS]
 >
->* [Usando momentos interessantes](using-interesting-moments.md)
->* [Tokens para momentos interessantes](tokens-for-interesting-moments.md)
-
->
-
-
+>* [Usando momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [Tokens para momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
