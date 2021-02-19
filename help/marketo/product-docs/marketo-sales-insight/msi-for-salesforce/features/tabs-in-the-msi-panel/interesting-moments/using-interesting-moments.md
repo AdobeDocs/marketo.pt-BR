@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Uso de momentos interessantes - Documentos do Marketing - Documentação do produto
 title: Usando momentos interessantes
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Momentos interessantes são a chave para se comunicar com sua equipe de vendas a
 
 >[!AVAILABILITY]
 >
->Eles estão disponíveis somente para clientes do Marketing Insight de vendas e [Marketing to Sales Connect](https://docs.marketo.com/x/fgTLAQ).
+>Eles estão disponíveis somente para clientes do Marketing Insight de vendas e [Marketing to Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md).
 
-## Qual é o momento interessante?  {#what-is-an-interesting-moment}
+## Qual é o momento interessante? {#what-is-an-interesting-moment}
 
 Isso depende de você! Você decide quais informações são relevantes para sua equipe de vendas. Sua equipe de vendas pode desejar saber quando um cliente potencial:
 
@@ -51,7 +51,7 @@ Isso depende de você! Você decide quais informações são relevantes para sua
 
 ## Como isso pode se tornar ainda mais interessante?  {#how-can-this-get-even-more-interesting}
 
-Tokens! Adicione-os no campo de descrição para fornecer à equipe de vendas informações mais específicas, como a linha de assunto do email aberto pelo cliente potencial ou por quem ele foi enviado. Verifique quais tokens estão disponíveis para uso no glossário [Tokens for Interesting Moments](tokens-for-interesting-moments.md).
+Tokens! Adicione-os no campo de descrição para fornecer à equipe de vendas informações mais específicas, como a linha de assunto do email aberto pelo cliente potencial ou por quem ele foi enviado. Verifique quais tokens estão disponíveis para uso no glossário [Tokens for Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md).
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ Tokens! Adicione-os no campo de descrição para fornecer à equipe de vendas in
 
 ## Como se parece um momento interessante em Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Os momentos interessantes serão exibidos em um [registro de atividades do cliente potencial](../../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Os momentos interessantes serão exibidos em um [registro de atividades do cliente potencial](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
 ## Como se parece um momento interessante em Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Depois que você [instalar o aplicativo Marketing Insight do setor de vendas](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), momentos interessantes serão exibidos nas páginas de oportunidade, contato, conta ou cliente potencial. Eles também aparecem no painel de insight de vendas no feed principal, nas melhores propostas e na Lista de monitoramento.
+Depois que você [instalar o aplicativo Marketing Insight do setor de vendas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), momentos interessantes serão exibidos nas páginas de oportunidade, contato, conta ou cliente potencial. Eles também aparecem no painel de insight de vendas no feed principal, nas melhores propostas e na Lista de monitoramento.
 
 ![](assets/six.png)
 
