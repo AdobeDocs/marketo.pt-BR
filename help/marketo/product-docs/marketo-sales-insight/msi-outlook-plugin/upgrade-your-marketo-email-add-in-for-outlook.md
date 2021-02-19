@@ -3,7 +3,7 @@ unique-page-id: 2949279
 description: Atualize seu Suplemento de Email do Marketing para Outlook - Documentos do Marketing - Documentação do produto
 title: Atualizar seu Suplemento de Email do Marketing para Outlook
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -119,7 +119,8 @@ Baixe o instalador apropriado para a sua versão do Microsoft Outlook.
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-   Clique em Avançar.
+1. Clique em **Próximo**.
+
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
@@ -138,7 +139,7 @@ Baixe o instalador apropriado para a sua versão do Microsoft Outlook.
    >
    >Se a instalação falhar, entre em contato com o departamento de TI para garantir que o tráfego HTTPS não esteja bloqueado. O instalador requer que o tráfego HTTPS seja aberto.
 
-   Clique em Avançar para instalar no local padrão.
+1. Clique em **Próximo** para instalar no local padrão.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -156,10 +157,6 @@ Baixe o instalador apropriado para a sua versão do Microsoft Outlook.
 
 >[!MORELIKETHIS]
 >
->* [Enviar e rastrear um email com o suplemento de email Marketo para Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Enviar e rastrear do Outlook usando um modelo de marketing](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Enviar e rastrear um email com o suplemento de email Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Enviar e rastrear do Outlook usando um modelo de marketing](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
