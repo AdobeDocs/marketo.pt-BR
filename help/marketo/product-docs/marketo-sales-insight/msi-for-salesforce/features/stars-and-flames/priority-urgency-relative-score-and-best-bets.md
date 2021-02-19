@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: Prioridade, urgência, pontuação relativa e melhores propostas - Documentos do Marketing - Documentação do produto
 title: Prioridade, urgência, pontuação relativa e melhores propostas
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Suas Melhores Apostas são seus clientes potenciais e contatos com maior urgênc
 
 >[!NOTE]
 >
->Se suas melhores apostas não corresponderem às melhores clientes potenciais e contatos que você possui, fale com alguém na sua empresa que tenha acesso ao Marketo sobre como atualizar suas [Regras de Pontuação](../../../../../getting-started/quick-wins/simple-scoring.md).
+>Se suas melhores apostas não corresponderem às melhores clientes potenciais e contatos que você possui, fale com alguém na sua empresa que tenha acesso ao Marketo sobre como atualizar suas [Regras de Pontuação](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Como a urgência e a pontuação relativa são calculadas
 
@@ -54,8 +54,3 @@ Para calcular o número de estrelas e chamas, seus clientes em potencial e conta
 >[!NOTE]
 >
 >A contagem de Urgência relativa (chamas) e Pontuação relativa (estrelas) são inteiros no Marketo. Os valores possíveis para cada um são de 0 a 3.
-
->[!MORELIKETHIS]
->
->* [Visão geral de vendas do Marketing](https://docs.marketo.com/display/docs/marketo+sales+insight)
-
