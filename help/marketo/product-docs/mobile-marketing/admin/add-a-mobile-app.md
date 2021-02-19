@@ -3,7 +3,7 @@ unique-page-id: 7512252
 description: Adicionar um aplicativo móvel - Documentos do marketing - Documentação do produto
 title: Adicionar um aplicativo móvel
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Os aplicativos normalmente são start em um ambiente sandbox, onde o desenvolvim
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Clique em** Aplicativos e dispositivos móveis**.
+1. Clique em **Aplicativos e dispositivos móveis**.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-   Clique em Novo aplicativo móvel.
+1. Clique em **Novo aplicativo móvel**.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
@@ -46,10 +46,6 @@ Os aplicativos normalmente são start em um ambiente sandbox, onde o desenvolvim
 
 >[!MORELIKETHIS]
 >
->* [Configurar o Mobile App Android Push Access](configure-mobile-app-android-push-access.md)
->* [Configurar o acesso por push do iOS para aplicativos móveis](configure-mobile-app-ios-push-access.md)
-
->
-
-
+>* [Configurar o Mobile App Android Push Access](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [Configurar o acesso por push do iOS para aplicativos móveis](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
 
