@@ -3,7 +3,7 @@ unique-page-id: 2949716
 description: Enviar e rastrear um email com o suplemento de email para Outlook - Documentos do Marketing - Documentação do produto
 title: Enviar e rastrear um email com o suplemento de email para Outlook
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
 
 >[!PREREQUISITES]
 >
->Caso ainda não o tenha feito, instale o [suplemento de email do Marketo para Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Caso ainda não o tenha feito, instale o [suplemento de email do Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 1. Abra o Microsoft Outlook e crie um novo email.
 
@@ -37,7 +37,7 @@ Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
 
    >[!TIP]
    >
-   >Se quiser usar um modelo de marketing, consulte [Enviar e rastrear do Outlook usando um modelo](send-and-track-from-outlook-using-a-marketo-template.md).
+   >Se quiser usar um modelo de marketing, consulte [Enviar e rastrear do Outlook usando um modelo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Dê uma olhada na pré-visualização e clique em **Enviar**.
 
@@ -55,9 +55,4 @@ Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
 
 >[!MORELIKETHIS]
 >
->* [Registrar e-mails de entrada dos seus clientes potenciais no Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Registrar e-mails de entrada dos seus clientes potenciais no Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
