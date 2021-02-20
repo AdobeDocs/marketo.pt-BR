@@ -3,7 +3,7 @@ unique-page-id: 8783146
 description: Adicionar um novo dispositivo de teste - Documentos do marketing - Documentação do produto
 title: Adicionando um novo dispositivo de teste
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-1. Clique em **Admin **e no link **Aplicativos móveis**.\
+1. Clique em **Admin** e, em seguida, no link **Aplicativos móveis**.
+
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
 1. Clique na guia **Testar dispositivos** e **Novo dispositivo de teste**.
@@ -51,4 +52,3 @@ ht-degree: 0%
 1. O Status é atualizado para mostrar que o dispositivo é adicionado. Parabéns!
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)
-
