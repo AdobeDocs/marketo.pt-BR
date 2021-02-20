@@ -3,9 +3,9 @@ unique-page-id: 2359510
 description: Excluir uma segmentação - Documentos do Marketing - Documentação do produto
 title: Excluir uma segmentação
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Uma segmentação pode ser excluída seguindo as etapas abaixo.
    >
    >É possível remover associações excluindo ou criando alternativas para os ativos que usam a segmentação.
 
-   Depois de não aprovado, clique em Ações de segmentação e Excluir a segmentação.
+1. Depois de não aprovado, clique em **Ações de segmentação** e exclua a segmentação.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 
