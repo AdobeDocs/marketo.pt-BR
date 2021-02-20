@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Ativar a barra de recomendação de conteúdo - Documentos de marketing - Documentação do produto
 title: Ativar a barra de recomendação de conteúdo
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,15 @@ O mecanismo de recomendação de conteúdo usa análises preditivas e algoritmos
 
 >[!PREREQUISITES]
 >
->Antes de ativar o conteúdo preditivo, você deve:
+>Antes de ativar o Conteúdo preditivo, você deve:
 >
->* [Preparar seu conteúdo preditivo](https://docs.marketo.com/display/docs/edit+predictive+content)
+>* **Preparar seu conteúdo preditivo**
+   >
+   >   
+   * [Editar conteúdo previsível para ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) e-mail
+   >   * [Editar conteúdo preditivo para Rich ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) Media
+   >   * [Editar conteúdo previsível para a barra de recomendações](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Aprovar um título para conteúdo previsível](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -45,9 +51,9 @@ O mecanismo de recomendação de conteúdo usa análises preditivas e algoritmos
    >
    >**Incluir / Excluir URL de exibição**
    >
-   >    * O URL de exibição deve ser o caminho do domínio
-   >    * Não inclua https:// ou https://
-   >    * Usar * para curingas
+   >* O URL de exibição deve ser o caminho do domínio
+   >* Não inclua https:// ou https://
+   >* Usar * para curingas
    * Usar ponto e vírgula como separador
    * Exemplo: /contact_us*; *action=logout*
    * Esse campo diferencia maiúsculas de minúsculas
@@ -61,5 +67,4 @@ O mecanismo de recomendação de conteúdo usa análises preditivas e algoritmos
 * O conteúdo que você habilita para a recomendação deve incluir a tag RTP Javascript. Isso ajuda o algoritmo a rastrear e otimizar o conteúdo recomendado.
 
 >[!MORELIKETHIS]
-* [Ativar conteúdo preditivo para mídias avançadas da Web](enable-predictive-content-for-web-rich-media.md)
-
+[Ativar conteúdo preditivo para mídias avançadas da Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
