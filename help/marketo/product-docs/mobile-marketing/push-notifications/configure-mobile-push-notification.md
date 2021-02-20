@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: Configurar notificação por push móvel - Documentos do Marketing - Documentação do produto
 title: Configurar notificação por push móvel
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurar notificação por push móvel {#configure-mobile-push-notification}
 
-1. Vá para a área Atividades de marketing.
+1. Vá para a área **Atividades de marketing**.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-   Se sua mensagem de push se aplicar a apenas uma plataforma (por exemplo, casos para iPhones), você poderá excluir a outra plataforma deslizando seu seletor para Desativado.
+1. Se sua mensagem de push se aplicar a apenas uma plataforma (por exemplo, casos para iPhones), você poderá excluir a outra plataforma deslizando seu seletor para Desativado.
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-   Clique em PRÓXIMO.
+1. Clique em **Próximo**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
@@ -47,25 +47,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Definição**
-   >
-   >
-   >Há três tipos de** Ações de toque:**
-   >
+   >Há três tipos de Ações de toque:
    >
    >**Iniciar aplicativo** :  **isso** anexa o home page do aplicativo quando a notificação é tocada. **O** cliente usa um deep link para abrir outras áreas do aplicativo ou de qualquer outro aplicativo ao qual você tenha o link (consulte  [Deep Link ](#Deeplink) URIs abaixo para obter detalhes).
    >
-   >
    >**landing page**  - leva você para uma landing page de marketing especificada.
-   >
    >
    >**URL**  externo - leva você para uma landing page que não é de marketing.
 
-   Para inserir um deep link para uma ação de toque personalizada, clique em Personalizado e insira [deep link URI](#Deeplink) no campo.
+1. Para inserir um deep link para uma ação de toque personalizada, clique em Personalizado e insira [deep link URI](#Deeplink) no campo.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-   Para inserir tokens, selecione um token, insira um valor padrão e clique em Inserir.
+1. Para inserir tokens, selecione um token, insira um valor padrão e clique em Inserir.
 
    >[!NOTE]
    >
@@ -77,15 +71,15 @@ ht-degree: 0%
    >
    >As ações de mensagem e toque serão idênticas em ambas as plataformas.
 
-   Somente para iOS, marque a caixa de seleção para instruir o aplicativo a reproduzir um som quando a mensagem chegar. O Android reproduz o som automaticamente.
+1. Somente para iOS, marque a caixa de seleção para instruir o aplicativo a reproduzir um som quando a mensagem chegar. O Android reproduz o som automaticamente.
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-   Pré-visualização a outra plataforma e clique em FINISH (Concluir).
+1. Pré-visualização a outra plataforma e clique em **Finish**.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Clique em **APROVAR E FECHAR**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -103,9 +97,4 @@ Dito isso, a estrutura de deep link do aplicativo pode ser diferente do exemplo 
 
 >[!MORELIKETHIS]
 >
->* [Enviar uma notificação por push móvel](send-a-mobile-push-notification.md)
-
->
-
-
-
+>[Enviar uma notificação por push móvel](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
