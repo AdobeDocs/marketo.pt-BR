@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: Relatórios de pessoa de grupo por segmento - Documentos de marketing - Documentação do produto
 title: Relatórios de pessoa de grupo por segmento
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Relatórios de pessoa de grupo por segmento {#group-person-reports-by-segment}
 
-Você pode agrupar seus [relatórios de pessoa](https://docs.marketo.com/display/docs/basic+reporting) por qualquer [segmento](https://docs.marketo.com/display/docs/basic+reporting) que você tenha [definido em suas segmentações](create-a-segmentation.md).
+É possível agrupar seus relatórios de pessoa por qualquer segmento definido nas segmentações.
 
 1. Vá para a seção **Atividades de marketing** (ou **Analytics**).
 
@@ -23,20 +23,13 @@ Você pode agrupar seus [relatórios de pessoa](https://docs.marketo.com/display
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-   >[!NOTE]
-   >
-   >**Mergulho profundo**
-   >
-   >
-   >Saiba mais sobre os relatórios pessoais e outros tipos de relatórios no aprofundamento do [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
 1. Clique na guia **Configuração** e clique no duplo **Agrupar pessoas por**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >Você também pode [agrupar seus relatórios pessoais por pessoa ou atributo de empresa](https://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute).
+   >Você também pode [agrupar seus relatórios pessoais por pessoa ou atributo de empresa](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
 
 1. Na caixa de diálogo **Agrupar pessoas por**, start digitando &#39;Segmentação&#39; na caixa de texto. Quando o cabeçalho **Segmentações** for exibido, selecione um na lista abaixo do cabeçalho.
 
@@ -46,17 +39,6 @@ Você pode agrupar seus [relatórios de pessoa](https://docs.marketo.com/display
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 
->[!NOTE]
->
->**Mergulho profundo**
->
->Para saber mais sobre os segmentos e como criá-los e gerenciá-los, consulte o aprofundamento de [Segmentação](https://docs.marketo.com/display/docs/segmentation+and+snippets).
-
 >[!MORELIKETHIS]
 >
->* [Adicionar colunas personalizadas a um relatório de pessoa](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
-
->
-
-
-
+>[Adicionar colunas personalizadas a um relatório de pessoa](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
