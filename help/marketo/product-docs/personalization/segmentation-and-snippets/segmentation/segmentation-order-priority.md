@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: Prioridade do pedido de segmentação - Documentos do marketing - Documentação do produto
 title: Prioridade da ordem de segmentação
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Criar uma segmentação](create-a-segmentation.md)
->* [Definir regras de segmento](define-segment-rules.md)
-
->
-
-
+>[Criar uma segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[Definir regras de segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 1. Vá para **Banco de Dados**.
 
@@ -37,6 +33,7 @@ ht-degree: 0%
    >Você só pode editar um rascunho de sua segmentação.
 
    Você pode verificar ou editar a ordem de seus segmentos nesta tela.
+
    ![](assets/image2014-9-16-10-3a12-3a3.png)
 
 >[!NOTE]
@@ -45,9 +42,5 @@ ht-degree: 0%
 >* Quando uma pessoa se qualifica para dois segmentos, ela pertencerá somente ao primeiro da lista.
 >* Se uma pessoa não se qualificar para nenhum segmento, ela se tornará um membro do Segmento padrão.
 
->
 
-
-
-Legal, hein? Você pode usar segmentos para conteúdo dinâmico, [relatórios](https://docs.marketo.com/display/docs/basic+reporting) e até mesmo em [listas inteligentes](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
+Legal, hein? Você pode usar segmentos para conteúdo dinâmico, relatórios e até mesmo em listas inteligentes.
