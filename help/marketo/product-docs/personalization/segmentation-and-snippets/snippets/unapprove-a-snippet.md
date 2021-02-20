@@ -3,7 +3,7 @@ unique-page-id: 2359516
 description: Cancelar a aprovação de um fragmento - Documentos do Marketing - Documentação do produto
 title: Cancelar a aprovação de um trecho
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Um trecho não aprovado não pode ser usado em emails ou landings page.
 
-1. Vá para o **Design Studio.**
+1. Vá para o **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
@@ -30,4 +30,3 @@ Um trecho não aprovado não pode ser usado em emails ou landings page.
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
 É isso! O snippet está em estado de rascunho agora para você fazer alterações ou excluí-lo.
-
