@@ -3,7 +3,7 @@ unique-page-id: 10100642
 description: Criar texto de mensagem no aplicativo - Documentos do marketing - Documentação do produto
 title: Criar texto de mensagem no aplicativo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Clique na área de texto para trabalhar no estilo e conteúdo do texto.
    >
    >Um tamanho de texto grande demais pode ultrapassar o máximo de três linhas visíveis no seu conteúdo.
 
-1. Escolha um estilo de tipo opcional, para enfatizar: **Negrito**, *Itálico* ou Sublinhado.
+1. Escolha um estilo de tipo opcional, para enfatizar: **Negrito**, _Itálico_ ou Sublinhado.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -77,14 +77,10 @@ Clique na área de texto para trabalhar no estilo e conteúdo do texto.
 
    Quaisquer alterações feitas nos tokens usados em um programa de mensagem no aplicativo aprovado não entrarão em vigor na mensagem no aplicativo até que o programa seja pausado e retomado.
 
-Você é dourado. Em seguida, é necessário [configurar o botão de mensagem no aplicativo](set-up-the-in-app-message-button.md).
+Você é dourado. Em seguida, é necessário [configurar o botão de mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
->* [Como entender as mensagens no aplicativo](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Escolha um layout para sua mensagem no aplicativo](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [Como entender as mensagens no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Escolha um layout para sua mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
