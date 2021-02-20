@@ -3,7 +3,7 @@ unique-page-id: 11384653
 description: Editar conteúdo - Documentos do marketing - Documentação do produto
 title: Editar conteúdo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 1. Marque a caixa **Aprovar conteúdo previsível** para aprovar ou desmarque a caixa para cancelar a aprovação. Clique em **Salvar** quando terminar.
 
    ![](assets/edit-content-4.png)
-
