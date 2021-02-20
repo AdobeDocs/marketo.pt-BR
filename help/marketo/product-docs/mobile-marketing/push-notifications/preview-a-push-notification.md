@@ -3,7 +3,7 @@ unique-page-id: 10092730
 description: Pré-visualização de uma notificação por push - Documentos do Marketing - Documentação do produto
 title: Pré-visualização de uma notificação por push
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Na árvore de navegação, clique com o botão direito do mouse no arquivo para 
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Ou, na página visualização de notificação por push, clique em **Ações de notificações por push** e **Pré-visualização**. Ou clique em **Pré-visualização **na extremidade direita.** **
+Ou, na página visualização de notificação por push, clique em **Ações de notificações por push** e **Pré-visualização**. Ou clique em **Pré-visualização** na extremidade direita.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
@@ -67,10 +67,6 @@ Assim, com a pré-visualização de notificação por push, você sempre sabe o 
 
 >[!MORELIKETHIS]
 >
->* [Criar uma notificação por push](create-a-push-notification.md)
->* [Configurar notificação por push móvel](configure-mobile-push-notification.md)
-
->
-
-
+>* [Criar uma notificação por push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [Configurar notificação por push móvel](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 
