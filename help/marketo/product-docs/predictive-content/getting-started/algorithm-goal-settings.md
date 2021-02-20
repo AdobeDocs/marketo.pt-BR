@@ -3,9 +3,9 @@ unique-page-id: 14745750
 description: Configurações de meta de algoritmo - Documentos de marketing - Documentação do produto
 title: Configurações de meta do algoritmo
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ As Configurações de meta de algoritmo permitem definir a meta final do algorit
 
    ![](assets/three-new.png)
 
-   | **`Clicks`** | Exibir o conteúdo com maior probabilidade de fazer com que a pessoa que exibe o conteúdo clique nele |
+   | **Cliques** | Exibir o conteúdo com maior probabilidade de fazer com que a pessoa que exibe o conteúdo clique nele |
    |---|---|
-   | **`Conversions`** | Exibir o conteúdo com maior probabilidade de fazer com que a pessoa que exibe o conteúdo envie um formulário |
+   | **Conversões** | Exibir o conteúdo com maior probabilidade de fazer com que a pessoa que exibe o conteúdo envie um formulário |
 
 1. Clique em **Salvar** quando terminar.
 
    ![](assets/four.png)
-
