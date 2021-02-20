@@ -3,19 +3,15 @@ unique-page-id: 11385057
 description: Configurar Categoria - Documentos do Marketing - Documentação do produto
 title: Configurar Categoria
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 
 # Configurar Categoria {#set-up-categories}
-
->[!NOTE]
->
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
 Crie categorias em Conteúdo preditivo para agrupar seus resultados preditivos na Web ou no email. Por exemplo, você pode trabalhar somente com blogs ou com conteúdo em um idioma específico. Também permite pesquisar e filtrar a visualização da página.  As categorias são exibidas nas páginas Todo o conteúdo e Conteúdo previsível para facilitar a referência.
 
@@ -54,4 +50,3 @@ Veja como criar tags de categoria.
    ![](assets/save-new.png)
 
    Muito simples.
-
