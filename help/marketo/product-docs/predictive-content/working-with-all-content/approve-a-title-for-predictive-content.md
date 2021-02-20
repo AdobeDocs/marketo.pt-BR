@@ -3,19 +3,15 @@ unique-page-id: 11384661
 description: Aprovar um título para conteúdo previsível - Documentos do marketing - Documentação do produto
 title: Aprovar um título para conteúdo previsível
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Aprovar um Título para Conteúdo Preditivo {#approve-a-title-for-predictive-content}
-
->[!NOTE]
->
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
 Você pode adicionar qualquer título na página Todo o conteúdo para conteúdo preditivo, aprovando-o na página Todo o conteúdo ou no pop-up Editar conteúdo.
 
@@ -48,4 +44,3 @@ Qualquer que seja a forma como você usa, o ícone Aprovar para conteúdo previs
 E agora você pode ver o título exibido na página Conteúdo previsível.
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)
-
