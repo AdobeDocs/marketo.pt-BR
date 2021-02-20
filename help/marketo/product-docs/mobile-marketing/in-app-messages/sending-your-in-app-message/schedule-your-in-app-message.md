@@ -3,7 +3,7 @@ unique-page-id: 11370503
 description: Agende sua mensagem no aplicativo - Documentos do marketing - Documentação do produto
 title: Agendar sua mensagem no aplicativo
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -31,4 +31,4 @@ Envie sua mensagem agora ou agende-a para mais tarde.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Calma! A última, mas não menos importante, é a etapa [Approval](approve-your-in-app-message.md).
+Calma! A última, mas não menos importante, é a etapa [Approval](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).
