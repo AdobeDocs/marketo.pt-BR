@@ -3,19 +3,15 @@ unique-page-id: 11384659
 description: Excluir conteúdo - Documentos do Marketing - Documentação do produto
 title: Excluir conteúdo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 
 # Excluir conteúdo {#delete-content}
-
->[!NOTE]
->
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
 Quando você não precisa mais de um conteúdo, é fácil se livrar dele.
 
@@ -28,4 +24,3 @@ Quando você não precisa mais de um conteúdo, é fácil se livrar dele.
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 
    É isso.
-
