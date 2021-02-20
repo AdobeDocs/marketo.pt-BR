@@ -3,19 +3,15 @@ unique-page-id: 11385940
 description: Editar conteúdo previsível para mídias avançadas - Documentos do marketing - Documentação do produto
 title: Editar conteúdo previsível para mídias avançadas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 
 # Editar conteúdo previsível para mídias avançadas {#edit-predictive-content-for-rich-media}
-
->[!NOTE]
->
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo<sup>AI</sup>. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content<sup>AI</sup> Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content<sup>AI</sup>.
 
 Veja como configurar seu conteúdo preditivo para Rich Media.
 
