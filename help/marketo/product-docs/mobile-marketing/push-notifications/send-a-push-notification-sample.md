@@ -3,7 +3,7 @@ unique-page-id: 8783141
 description: Enviar uma amostra de notificação por push - Documentos do Marketing - Documentação do produto
 title: Enviar uma amostra de notificação por push
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -25,7 +25,8 @@ Você pode enviar uma amostra para verificar se sua notificação por push está
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Ou, no menu de ações de notificação por push, clique em **Enviar amostra**.\
+   Ou, no menu de ações de notificação por push, clique em **Enviar amostra**.
+
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
    Ou, no Editor de notificações por push, clique em **Enviar amostra**.
@@ -36,7 +37,7 @@ Você pode enviar uma amostra para verificar se sua notificação por push está
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Ou clique em **Adicionar dispositivo** para [adicionar um novo dispositivo de teste](adding-a-new-test-device.md) para enviar a amostra.
+   Ou clique em **Adicionar dispositivo** para [adicionar um novo dispositivo de teste](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) para enviar a amostra.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
@@ -46,7 +47,7 @@ Você pode enviar uma amostra para verificar se sua notificação por push está
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Ou, com a segunda opção, clique no botão **Scan QR code with device **(Verificar código QR com dispositivo **e digitalize o código QR com seu dispositivo). Quando o status mostrar a conexão, clique em **Enviar**.
+   Ou, com a segunda opção, clique no botão **Verificar o código QR com o dispositivo** e verifique o código QR com o dispositivo. Quando o status mostrar a conexão, clique em **Enviar**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
@@ -54,19 +55,9 @@ Você pode enviar uma amostra para verificar se sua notificação por push está
    >
    >Você adicionou com êxito um dispositivo de teste, mas não o vê listado no campo **Enviar para**? Verifique estes para solucionar problemas:
    >
-   >    
-   >    
-   >    * As notificações por push são ativadas para o aplicativo associado à notificação por push.
-      >    
-      >    
+   >* As notificações por push são ativadas para o aplicativo associado à notificação por push.
       >
-      >    
-      >    
-      >    
-
-
-
-
+      >
    * A notificação por push é configurada para a plataforma do seu dispositivo de teste. Por exemplo, se você acabou de adicionar um iPhone como um dispositivo de teste, verifique se a notificação por push está ativada para iOS.
 
 
