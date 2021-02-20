@@ -3,7 +3,7 @@ unique-page-id: 7512463
 description: Excluir notificação por push móvel - Documentos do Marketing - Documentação do produto
 title: Excluir notificação por push móvel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Excluir notificação por push móvel {#delete-mobile-push-notification}
 
-1. Vá para a área Atividades de marketing.
+1. Vá para a área **Atividades de marketing**.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -25,11 +25,10 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-   Confirme clicando em DELETE.
+1. Confirme clicando em **Delete**.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 
    >[!NOTE]
    >
    >Se a Notificação por push móvel estiver sendo usada por outros ativos, você não poderá excluí-la. Você tem que removê-lo dos ativos.
-
