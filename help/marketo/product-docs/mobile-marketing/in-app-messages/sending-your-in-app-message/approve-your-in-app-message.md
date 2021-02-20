@@ -3,7 +3,7 @@ unique-page-id: 10617440
 description: Aprove sua mensagem no aplicativo - Documentos do marketing - Documentação do produto
 title: Aprove sua mensagem no aplicativo
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Você precisa aprovar o envio antes que a mensagem no aplicativo seja enviada.
    >
    >Os motivos para pausar podem ser apenas para pará-la por algum tempo, ou se você quiser modificar a mensagem ou ajustar o agendamento. No entanto, você não pode mudar para uma mensagem diferente, apenas editar a existente.
 
-1. Quando quiser que o programa pausado continue em execução, clique em **Resume** **Programa**.
+1. Quando quiser que o programa pausado continue em execução, clique em **Retomar Programa**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -59,9 +59,7 @@ Você precisa aprovar o envio antes que a mensagem no aplicativo seja enviada.
 
 1. Se tiver certeza de que deseja parar o programa, clique em **Parar**.
 
-   ** ![](assets/image2016-5-24-13-3a31-3a22.png)
-
-   **
+   ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
@@ -72,4 +70,3 @@ Você precisa aprovar o envio antes que a mensagem no aplicativo seja enviada.
 Após a execução do programa, você pode monitorar o desempenho com o Painel no aplicativo, que é exibido automaticamente após a aprovação do programa. Para voltar ao programa, clique no link no canto superior direito e selecione **Painel de controle do Campaign**.
 
 Isso é tudo, pessoal!
-
