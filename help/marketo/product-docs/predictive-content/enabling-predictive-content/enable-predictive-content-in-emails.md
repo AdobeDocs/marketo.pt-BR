@@ -3,9 +3,9 @@ unique-page-id: 11385020
 description: Ativar conteúdo preditivo em emails - Documentos do Marketing - Documentação do produto
 title: Ativar conteúdo preditivo em emails
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,15 @@ Faça uma ou mais imagens em seu email preditivas, personalizando a experiência
 
 >[!PREREQUISITES]
 >
->Antes de ativar o conteúdo preditivo. você deve:
+>Antes de ativar o Conteúdo preditivo, você deve:
 >
->* [Preparar seu conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+>* **Preparar seu conteúdo preditivo**
+   >
+   >   
+   * [Editar conteúdo previsível para ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) e-mail
+   >   * [Editar conteúdo preditivo para Rich ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) Media
+   >   * [Editar conteúdo previsível para a barra de recomendações](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Aprovar um título para conteúdo previsível](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -37,7 +43,7 @@ Faça uma ou mais imagens em seu email preditivas, personalizando a experiência
 
    ![](assets/two.png)
 
-1. Clique na imagem que deseja tornar preditiva. Quando o ícone de engrenagem for exibido, clique nele e selecione **Ativar conteúdo`AI`** (Conteúdo`AI` é o nome anterior para Conteúdo previsível).
+1. Clique na imagem que deseja tornar preditiva. Quando o ícone de engrenagem for exibido, clique nele e selecione **Ativar ContentAI** (ContentAI é o nome anterior para Conteúdo previsível).
 
    ![](assets/three.png)
 
