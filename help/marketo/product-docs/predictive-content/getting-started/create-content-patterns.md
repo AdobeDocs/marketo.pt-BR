@@ -3,9 +3,9 @@ unique-page-id: 11385579
 description: Criar padrões de conteúdo - Documentos do marketing - Documentação do produto
 title: Criar padrões de conteúdo
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,7 @@ ht-degree: 0%
 
 # Criar padrões de conteúdo {#create-content-patterns}
 
->[!NOTE]
->
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
-
-Quando você define padrões de conteúdo, o conteúdo é detectado automaticamente quando um visitante da Web clica na página da Web HTML relevante para o padrão de conteúdo. É usado para adicionar páginas HTML (publicações em blog, comunicados à imprensa, artigos de notícias) como partes de conteúdo à página Todo conteúdo. Quando a descoberta automática é baseada em padrões de conteúdo, ela descobre e rastreia páginas HTML que estão relacionadas ao padrão de URL definido quando um visitante da Web visualização ou clica em um link para a página. Esse conteúdo (o URL, o nome da página e os metadados - incluindo o URL da imagem e a descrição) é adicionado à página Todo o conteúdo para preparar o conteúdo preditivo. Para descobrir automaticamente outro conteúdo, como PDFs e vídeo incorporado, é necessário [ativar a descoberta de conteúdo](enable-content-discovery.md).
+Quando você define padrões de conteúdo, o conteúdo é detectado automaticamente quando um visitante da Web clica na página da Web HTML relevante para o padrão de conteúdo. É usado para adicionar páginas HTML (publicações em blog, comunicados à imprensa, artigos de notícias) como partes de conteúdo à página Todo conteúdo. Quando a descoberta automática é baseada em padrões de conteúdo, ela descobre e rastreia páginas HTML que estão relacionadas ao padrão de URL definido quando um visitante da Web visualização ou clica em um link para a página. Esse conteúdo (o URL, o nome da página e os metadados - incluindo o URL da imagem e a descrição) é adicionado à página Todo o conteúdo para preparar o conteúdo preditivo. Para descobrir automaticamente outro conteúdo, como PDFs e vídeo incorporado, é necessário [ativar a descoberta de conteúdo](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
 1. Vá para **Configurações de conteúdo**.
 
@@ -27,7 +23,7 @@ Quando você define padrões de conteúdo, o conteúdo é detectado automaticame
 
    ![](assets/click-url-patterns-hand.png)
 
-1. Clique no **+ **para abrir uma linha na qual você pode inserir suas informações.
+1. Clique em **+** para abrir uma linha na qual você pode inserir suas informações.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -37,9 +33,9 @@ Quando você define padrões de conteúdo, o conteúdo é detectado automaticame
 
    >[!NOTE]
    >
-   >Os itens na lista suspensa à direita refletem as categorias que você configurou ao [criar categoria](set-up-categories.md).
+   >Os itens na lista suspensa à direita refletem as categorias que você configurou ao [criar categoria](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
-1. Clique em **+ **para adicionar outro caminho.
+1. Clique em **+** para adicionar outro caminho.
 
    ![](assets/url-patterns-add2.png)
 
@@ -49,16 +45,16 @@ Quando você define padrões de conteúdo, o conteúdo é detectado automaticame
 
 ## Regras de padrão de conteúdo {#content-pattern-rules}
 
-* Você pode usar um curinga em qualquer lugar em uma expressão (exemplo: *domain.com/**, *domain.com/*blog**)
+* Você pode usar um curinga em qualquer lugar em uma expressão (exemplo: _domain.com/*_, _domain.com/*blog*_)
 
-* Recomendamos usar /* no final de uma expressão para continuar a descoberta de padrões (Exemplo: *domain.com/blog/** descobre todas as publicações na pasta Blog)
-* Os padrões de conteúdo não distinguem maiúsculas de minúsculas (exemplo: *domain.com/Blog/** descobre todas as páginas html em *domain.com/Blog* e *domain.com/blog*)
+* Recomendamos usar /* no final de uma expressão para continuar a descoberta de padrões (Exemplo: _domain.com/blog/*_ descobre todas as publicações na pasta Blog)
+* Os padrões de conteúdo não distinguem maiúsculas de minúsculas (exemplo: _domain.com/Blog/*_ descobre todas as páginas html em _domain.com/Blog_ e _domain.com/blog_)
 
 * Parâmetros de URL não são detectados (isso evita descobrir vários itens com o mesmo URL de conteúdo, mas parâmetros diferentes)
 
 ## Exemplos {#examples}
 
-Para *domain.com*:
+Para _domain.com_:
 
 <table> 
  <tbody> 
@@ -88,4 +84,3 @@ Para *domain.com*:
   </tr> 
  </tbody> 
 </table>
-
