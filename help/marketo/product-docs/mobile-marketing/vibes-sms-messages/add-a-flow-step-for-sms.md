@@ -3,7 +3,7 @@ unique-page-id: 11379045
 description: Adicionar uma Etapa de Fluxo para SMS - Documentos do Marketing - Documentação do Produto
 title: Adicionar uma Etapa de Fluxo para SMS
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -26,11 +26,8 @@ O Marketo tem três etapas de fluxo que podem ser usadas em suas campanhas intel
 >* Desduplicação de marketing por número de telefone. Portanto, se várias pessoas tiverem o mesmo número de telefone, apenas uma pessoa receberá a mensagem.
 >* O Marketo não enviará para pessoas incluir na lista de bloqueios ou com Suspensão de marketing.
 
->
 
-
-
-Para obter informações gerais sobre como configurar etapas de fluxo, consulte [Adicionar uma Etapa de fluxo a uma Campanha inteligente](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+Para obter informações gerais sobre como configurar etapas de fluxo, consulte [Adicionar uma Etapa de fluxo a uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 
 Aqui estão os fundamentos para o uso do SMS.
 
@@ -50,6 +47,4 @@ Aqui estão os fundamentos para o uso do SMS.
    >
    >O seletor de Lista Vibes atua como um filtro adicional para a audiência já identificada na lista inteligente para público alvo somente dos clientes potenciais que pertencem a essa lista Vibes.
    >
-   >
    >Os fluxos **Inscrever-se na Lista do Vibes** e **Cancelar inscrição da Lista do Vibes** têm requisitos diferentes. Para **Subscribe**, tem de selecionar a lista Vibes e a campanha de aquisição Vibes. Para **Cancelar assinatura**, somente a lista Vibes é necessária.
-
