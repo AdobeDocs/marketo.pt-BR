@@ -3,19 +3,15 @@ unique-page-id: 11384663
 description: Cancelar a aprovação de um título para conteúdo previsível - Documentos do marketing - Documentação do produto
 title: Cancelar a aprovação de um título para conteúdo previsível
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 
 # Cancelar a aprovação de um título para conteúdo preditivo {#unapprove-a-title-for-predictive-content}
-
->[!NOTE]
->
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
 Você pode cancelar a aprovação de qualquer título para conteúdo preditivo na página Todo o conteúdo ou na pop-up Editar conteúdo.
 
@@ -44,4 +40,3 @@ Você pode cancelar a aprovação de um título enquanto o estiver editando.
 Não importa qual método você use, o ícone de aprovação desaparecerá na página Todo o conteúdo e o título desaparecerá da página Conteúdo previsível.
 
 ![](assets/unapprove-content-no-icon.png)
-
