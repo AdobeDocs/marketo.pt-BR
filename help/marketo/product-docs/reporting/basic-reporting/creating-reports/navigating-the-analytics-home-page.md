@@ -3,7 +3,7 @@ unique-page-id: 7513141
 description: Navegação no Home page do Analytics - Documentos do Marketing - Documentação do produto
 title: Navegação no Home page do Analytics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -14,9 +14,11 @@ ht-degree: 0%
 # Navegação no Home page do Analytics {#navigating-the-analytics-home-page}
 
 1. Vá para a área **Analytics**.
+
 1. ![](assets/image2015-4-27-8-3a38-3a10.png)
 
-1. Selecione um tipo de relatório [a1/>.](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+1. Selecione um tipo de relatório [a1/>.](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+
 1. ![](assets/image2015-4-27-8-3a38-3a22.png)
 
 1. Depois de executar seu relatório, clique no espaço de trabalho para voltar para **Página inicial do Analytics**.
@@ -27,5 +29,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Como entender meus relatórios e relatórios de grupo](understanding-my-reports-and-group-reports.md)
-
+>[Como entender meus relatórios e relatórios de grupo](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)
