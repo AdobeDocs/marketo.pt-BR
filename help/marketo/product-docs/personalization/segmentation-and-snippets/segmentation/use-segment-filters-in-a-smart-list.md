@@ -3,7 +3,7 @@ unique-page-id: 2359512
 description: Usar Filtros de segmento em uma Lista inteligente - Documentos do marketing - Documentação do produto
 title: Usar Filtros de segmento em uma Lista inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -15,11 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Criar uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Criar uma segmentação](create-a-segmentation.md)
-
->
-
+>* [Criar uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Criar uma segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 
 Otimize o desempenho de suas Listas inteligentes usando filtros de segmentos.
