@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: Como entender todo o conteúdo - Documentos do Marketing - Documentação do produto
 title: Como entender todo o conteúdo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # Como entender todo o conteúdo {#understanding-all-content}
 
->[!NOTE]
->
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
+A página Todo o conteúdo exibe todo o conteúdo que foi descoberto ou adicionado manualmente.
 
-A página Todo o conteúdo exibe todo o conteúdo que foi descoberto ou adicionado manualmente.   ![](assets/image2017-10-3-9-3a4-3a56.png)
+![](assets/image2017-10-3-9-3a4-3a56.png)
 
 Os campos de página incluem:
 
@@ -52,12 +50,8 @@ Filtre o conteúdo selecionando uma ou mais categorias. Em seguida, configure a 
 
 >[!MORELIKETHIS]
 >
->* [Adicionar novo conteúdo](add-new-content.md)
->* [Excluir conteúdo](delete-content.md)
->* [Aprovar um título para conteúdo previsível](approve-a-title-for-predictive-content.md)
->* [Cancelar a aprovação de um título para conteúdo previsível](unapprove-a-title-for-predictive-content.md)
-
->
-
-
+>* [Adicionar novo conteúdo](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [Excluir conteúdo](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [Aprovar um título para conteúdo previsível](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Cancelar a aprovação de um título para conteúdo previsível](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
 
