@@ -3,9 +3,9 @@ unique-page-id: 10097873
 description: Definir uma Lista inteligente para Atividades de conteúdo preditivo - Documentos do Marketing - Documentação do produto
 title: Definir uma Lista inteligente para Atividades de conteúdo preditivo
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: f1d7b270454ba41db5197a069e0dcc2caebdec63
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,7 @@ ht-degree: 0%
 
 # Definir uma Lista inteligente para Atividades de conteúdo preditivo {#define-a-smart-list-for-predictive-content-activities}
 
->[!NOTE]
->
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
-
-Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao definir uma lista inteligente em uma campanha inteligente. Você pode acionar uma ação para qualquer pessoa que clicar em conteúdo preditivo por meio do [modelo Rich Media](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), da [Barra de recomendação de conteúdo](enabling-predictive-content/enable-the-content-recommendation-bar.md) ou em um email.
+Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao definir uma lista inteligente em uma campanha inteligente. Você pode acionar uma ação para qualquer pessoa que clicar em conteúdo preditivo por meio do [modelo Rich Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), da [Barra de recomendação de conteúdo](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) ou em um [email](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 
 1. Na sua campanha inteligente, navegue até a guia **Lista inteligente**.
 
@@ -25,10 +21,7 @@ Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao de
 
    >[!NOTE]
    >
-   >**Mergulho profundo**
-   >
-   >
-   >Listas inteligentes podem fazer coisas incríveis. Saiba mais no mergulho profundo [lista inteligente](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Listas inteligentes podem fazer coisas incríveis. Saiba mais no mergulho profundo [lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Procure o acionador e arraste e solte-o na tela.
 
@@ -54,7 +47,7 @@ Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao de
 
    ![](assets/pc-add-constraint.png)
 
-1. Se você estiver usando a fonte de email para seu conteúdo preditivo, adicione o **Click Link no acionador Email **1. Selecione seu email e adicione a restrição **Is Predictive**, definida como **true**.
+1. Se você estiver usando a fonte de email para seu conteúdo preditivo, adicione o acionador **Clicks Link em Email**. Selecione seu email e adicione a restrição **Is Predictive**, definida como **true**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
@@ -70,18 +63,13 @@ Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao de
    >
    >Com vários acionadores, uma pessoa passa pelo fluxo se QUALQUER um dos acionadores for ativado.
 
-   [definir uma lista inteligente para uma campanha inteligente em lote](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   Para executar a campanha em um conjunto de pessoas ao mesmo tempo, aprenda a [definir uma lista inteligente para uma campanha inteligente em lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Definir Lista inteligente para Campanhas inteligentes | Lote](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >    * [Adicionar uma Etapa de fluxo a uma Campanha inteligente](../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >    * [Definir uma Lista inteligente para Atividades de personalização da Web](../../product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
-   >    * [Ativar conteúdo preditivo para mídias avançadas da Web](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
-   >    * [Ativar a barra de recomendação de conteúdo](enabling-predictive-content/enable-the-content-recommendation-bar.md)
+   >* [Definir Lista inteligente para Campanhas inteligentes | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Adicionar uma Etapa de fluxo a uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Definir uma Lista inteligente para Atividades de personalização da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
+   >* [Ativar conteúdo preditivo para mídias avançadas da Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+   >* [Ativar a barra de recomendação de conteúdo](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 
-
-Para executar a campanha em um grupo de pessoas ao mesmo tempo, aprenda a .
