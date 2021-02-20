@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: Aprovar uma segmentação - Documentos do Marketing - Documentação do produto
 title: Aprovar uma segmentação
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Uma segmentação precisa ser aprovada antes de poder ser usada.
 
 >[!PREREQUISITES]
 >
->* [Criar uma segmentação](create-a-segmentation.md)
->* [Definir regras de segmento](define-segment-rules.md)
-
->
-
+>* [Criar uma segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Definir regras de segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 
 1. Vá para **Banco de Dados**.
@@ -55,13 +52,8 @@ Uma segmentação precisa ser aprovada antes de poder ser usada.
 >
 >O número total de segmentos que você pode criar em uma segmentação depende do número e do tipo de filtros usados e também da complexidade da lógica de seus segmentos. Embora seja possível criar até 100 segmentos usando campos padrão, o uso de outros tipos de filtros pode aumentar a complexidade e sua segmentação pode falhar na aprovação. Alguns exemplos são: campos personalizados, membro da lista, campos do proprietário do cliente potencial e estágios da receita.
 >
->Se você receber uma mensagem de erro durante a aprovação e precisar de ajuda para reduzir a complexidade da segmentação, entre em contato com o [Suporte do Marketing](https://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
+>Se você receber uma mensagem de erro durante a aprovação e precisar de ajuda para reduzir a complexidade da segmentação, entre em contato com o [Suporte do Marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!MORELIKETHIS]
 >
->* [Usar Filtros de segmento em uma Lista inteligente](use-segment-filters-in-a-smart-list.md)
-
->
-
-
-
+>[Usar Filtros de segmento em uma Lista inteligente](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
