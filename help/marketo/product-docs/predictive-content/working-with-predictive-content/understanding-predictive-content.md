@@ -3,19 +3,15 @@ unique-page-id: 11384665
 description: Compreensão do conteúdo preditivo - Documentos do Marketing - Documentação do produto
 title: Compreensão do conteúdo preditivo
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
 
 # Compreensão do conteúdo preditivo {#understanding-predictive-content}
-
->[!NOTE]
->
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
 Depois de [aprovar um título para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), você trabalha nele aqui. A página Conteúdo preditivo exibe todos os títulos que você aprovou para conteúdo preditivo.
 
@@ -58,7 +54,7 @@ A análise de conteúdo habilitado para filtragem permite ver o desempenho de ca
 
 ## Dados da tabela de visualização para conteúdo preditivo {#view-table-data-for-predictive-content}
 
-Na tabela, é possível visualização quais fontes estão habilitadas para conteúdo preditivo, da esquerda para a direita: Barra de recomendações, email e Rich Media. As fontes ativadas são exibidas em verde. Você os ativa ao [editar o conteúdo](https://docs.marketo.com/display/docs/edit+predictive+content).
+Na tabela, é possível visualização quais fontes estão habilitadas para conteúdo preditivo, da esquerda para a direita: Barra de recomendações, email e Rich Media. As fontes ativadas são exibidas em verde. Você os ativa ao editar o conteúdo.
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -75,9 +71,3 @@ Passe o mouse sobre a barra na coluna Taxa de conversão para taxa de conversão
 >**Conversão** direta: Visitantes que clicaram no conteúdo recomendado e preencheram um formulário na mesma visita
 >
 >**Clicado**: Total de cliques no conteúdo recomendado (incluindo todas as três fontes)
-
->[!MORELIKETHIS]
->
->* [Conteúdo preditivo](https://docs.marketo.com/display/docs/predictive+content)
->* [Editar conteúdo preditivo](https://docs.marketo.com/display/docs/edit+predictive+content)
-
