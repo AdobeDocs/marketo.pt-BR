@@ -3,7 +3,7 @@ unique-page-id: 2359498
 description: Pré-visualização de um fragmento - Documentos do Marketing - Documentação do produto
 title: Pré-visualização de um fragmento
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Adicionar conteúdo a um fragmento](add-content-to-a-snippet.md)
-
->
-
-
+>[Adicionar conteúdo a um fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Os trechos são blocos de conteúdo dinâmico que mudam com base nas regras de segmentação.
 
-1. Vá para o **Design Studio.**
+1. Vá para o **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
@@ -35,9 +31,4 @@ A pré-visualização é excelente para garantir que o conteúdo tenha a aparên
 
 >[!MORELIKETHIS]
 >
->* [Aprovar um trecho](approve-a-snippet.md)
-
->
-
-
-
+>[Aprovar um trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
