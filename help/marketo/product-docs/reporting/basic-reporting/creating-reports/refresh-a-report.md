@@ -3,7 +3,7 @@ unique-page-id: 5472328
 description: Atualizar um relatório - Documentos do Marketing - Documentação do produto
 title: Atualizar um relatório
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Depois de visualizar um relatório, o Marketo o armazena em seu banco de dados p
    ![](assets/three.png)
 
    Voilà!
-
