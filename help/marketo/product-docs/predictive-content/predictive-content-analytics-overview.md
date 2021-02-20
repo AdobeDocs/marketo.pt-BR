@@ -3,9 +3,9 @@ unique-page-id: 12981204
 description: Visão geral do Predictive Content Analytics - Documentos do Marketing - Documentação do produto
 title: Visão geral do Predictive Content Analytics
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Use a análise de conteúdo para obter mais insights sobre seu conteúdo existen
 
 ## Visão geral {#overview}
 
-Na página Resumo, clique em Analytics.
+Na página Resumo, clique em **Analytics**.
 
 ![](assets/one.png)
 
@@ -81,8 +81,6 @@ Passe o mouse sobre uma imagem em Conteúdo sugerido para revelar as opções di
 
 >[!NOTE]
 >
->**Explicação**
->
 >Vê aqueles ícones na parte inferior? Da esquerda para a direita estão: Conteúdo da visualização, Exportar para CSV, Aprovar conteúdo.
 
 ## Conteúdo {#content}
@@ -96,4 +94,3 @@ Procure o conteúdo desejado e clique nele para ver detalhes adicionais, incluin
 >[!NOTE]
 >
 >Conteúdo semelhante é baseado no conteúdo selecionado e calculado por um algoritmo de regras de associação. Os resultados representam partes do conteúdo em que os visitantes provavelmente clicarão, dependendo da peça selecionada e do comportamento anterior dos visitantes. Ele não leva em conta o filtro ou o intervalo de datas.
-
