@@ -3,7 +3,7 @@ unique-page-id: 10096523
 description: Visualização do Painel de notificação por push - Documentos do Marketing - Documentação do produto
 title: Visualização do Painel de notificação por push
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -33,14 +33,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >A métrica **Enviada** pode refletir mais envios do que o número exato de pessoas para as quais a notificação por push foi enviada. Isso ocorre porque é calculado com base no *número de dispositivos* que se qualificam para receber seu push. Por exemplo, se uma única pessoa tem três dispositivos, o painel registra três envios, não um.
+   >A métrica _Enviada_ pode refletir mais envios do que o número exato de pessoas para as quais a notificação por push foi enviada. Isso ocorre porque é calculado com base no *número de dispositivos* que se qualificam para receber seu push. Por exemplo, se uma única pessoa tem três dispositivos, o painel registra três envios, não um.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Como entender notificações por push](understanding-push-notifications.md)
-   >    * [Enviar uma notificação por push móvel](send-a-mobile-push-notification.md)
-
+   >* [Como entender notificações por push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [Enviar uma notificação por push móvel](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
 
