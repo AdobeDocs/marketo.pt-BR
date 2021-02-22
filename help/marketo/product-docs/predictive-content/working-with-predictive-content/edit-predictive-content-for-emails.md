@@ -3,19 +3,15 @@ unique-page-id: 11385938
 description: Editar conteúdo preditivo para emails - Documentos de marketing - Documentação do produto
 title: Editar conteúdo previsível para e-mails
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 
 # Editar conteúdo previsível para emails {#edit-predictive-content-for-emails}
-
->[!NOTE]
->
->Dependendo da data de compra, sua subscrição de marketing pode incluir Conteúdo preditivo de marketing ou Conteúdo`<sup>AI</sup>`. Para aqueles que usam Conteúdo preditivo, o Marketo está habilitando os recursos do Content`<sup>AI</sup>` Analytics até 30 de abril de 2018. Para manter esses recursos além dessa data, entre em contato com o Gerente de sucesso do cliente do Marketo para atualizar para o Marketing Content`<sup>AI</sup>`.
 
 Veja como configurar seu conteúdo preditivo para emails.
 
