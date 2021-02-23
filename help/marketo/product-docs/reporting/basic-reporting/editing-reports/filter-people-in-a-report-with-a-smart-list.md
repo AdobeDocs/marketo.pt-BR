@@ -3,9 +3,9 @@ unique-page-id: 2360016
 description: Filtrar pessoas em um relatório com uma Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Filtrar pessoas em um relatório com uma Lista inteligente
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -17,16 +17,16 @@ Use listas inteligentes para filtrar seus relatórios por atributos de pessoa es
 
 Você pode usar listas inteligentes com estes tipos de relatório:
 
-* [Desempenho das pessoas](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-* [Pessoas por status](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Pessoas por estágio de receita](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
-* [Desempenho do email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-* [Desempenho do link de email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [Desempenho do fluxo de envolvimento](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Atividade campanha](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-* [Desempenho do email da campanha](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-* [Atividade Empresa Web](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-* [Atividade de página da Web](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+* [Desempenho das pessoas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+* [Pessoas por status](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
+* [Pessoas por estágio de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+* [Desempenho do email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+* [Desempenho do link de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+* [Desempenho do fluxo de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
+* [Atividade campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+* [Desempenho do email da campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+* [Atividade Empresa Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+* [Atividade de página da Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
 1. Vá para a área **Atividades de marketing**.
 
@@ -49,11 +49,3 @@ Você pode usar listas inteligentes com estes tipos de relatório:
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
    Ótimo! Agora seu relatório mostra dados para as pessoas que correspondem à lista inteligente.
-
-   >[!NOTE]
-   >
-   >**Mergulho profundo**
-   >
-   >
-   >Para obter mais maneiras de usar os relatórios, consulte o aprofundamento do [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
