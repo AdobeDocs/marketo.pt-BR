@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: Adicionar colunas de oportunidade a um relatório de oportunidade potencial - Documentos de marketing - Documentação do produto
 title: Adicionar colunas de oportunidade a um relatório de oportunidade potencial
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adicionar colunas de oportunidade a um relatório de oportunidade potencial {#add-opportunity-columns-to-a-lead-report}
 
-Para ver as estatísticas de oportunidades nos [relatórios de pessoa](https://docs.marketo.com/display/docs/basic+reporting), você pode adicionar colunas de oportunidade.
+Para ver as estatísticas de oportunidades nos relatórios pessoais, é possível adicionar colunas de oportunidade.
 
 1. Vá para a área **Atividades de marketing**.
 
@@ -39,7 +39,7 @@ Para ver as estatísticas de oportunidades nos [relatórios de pessoa](https://d
    >
    >Role para a direita para ver mais colunas.
 
-1. Para [adicionar ou remover colunas do relatório](select-report-columns.md), clique em qualquer cabeçalho de coluna e selecione **Colunas**.
+1. Para [adicionar ou remover colunas do relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), clique em qualquer cabeçalho de coluna e selecione **Colunas**.
 
    ![](assets/six.png)
 
@@ -68,14 +68,4 @@ Para ver as estatísticas de oportunidades nos [relatórios de pessoa](https://d
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Saiba como [gerenciar o tamanho do seu relatório](configure-report-size.md).
-
-   >[!NOTE]
-   >
-   >**Mergulho profundo**
-   >
-   >
-   >Veja o que mais você pode fazer com os relatórios no aprofundamento do [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Saiba como [gerenciar o tamanho do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
