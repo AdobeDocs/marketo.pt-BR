@@ -3,7 +3,7 @@ unique-page-id: 7505310
 description: Assine uma Lista inteligente - Documentos do Marketing - Documentação do produto
 title: Assine uma Lista inteligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -36,11 +36,11 @@ As subscrições são específicas do espaço de trabalho. Por exemplo, essa lis
 
 ## Criar uma Subscrição de Lista inteligente {#create-a-smart-list-subscription}
 
-1. Vá para o **Banco de Dados** ou **Marketing Atividade**.
+1. Vá para **Banco de Dados** ou **Atividades de marketing**.
 
    ![](assets/db.png)
 
-1. Selecione a lista inteligente para a qual deseja criar uma subscrição. Clique em **Ações de Lista** e selecione** Nova Subscrição de Lista inteligente**.
+1. Selecione a lista inteligente para a qual deseja criar uma subscrição. Clique em **Ações de Lista** e selecione **Nova Subscrição de Lista inteligente**.
 
    ![](assets/three.png)
 
@@ -50,11 +50,9 @@ As subscrições são específicas do espaço de trabalho. Por exemplo, essa lis
 
 1. Clique na lista **Frequency** e selecione uma frequência.
 
-   ** ![](assets/image2015-9-14-13-3a21-3a21.png)
+   ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-   **
-
-1. Defina a **data final do Delivery **date. Você pode selecionar **Nunca** ou uma data de calendário.
+1. Defina a data **Delivery final**. Você pode selecionar **Nunca** ou uma data de calendário.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
@@ -70,7 +68,7 @@ As subscrições são específicas do espaço de trabalho. Por exemplo, essa lis
 
    ![](assets/eight.png)
 
-1. Recomendamos que você desmarque a caixa de seleção Ativa para desativar uma subscrição de lista inteligente se ninguém se inscrever nela.
+1. Recomendamos que você desmarque a caixa de seleção Ativa para desativar uma subscrição de lista inteligente se ninguém estiver inscrito nela.
 
    ![](assets/nine.png)
 
@@ -82,7 +80,7 @@ Os recipient receberão um email com uma opção para baixar o relatório, bem c
 
 >[!NOTE]
 >
->Se a configuração [Administrador de Subscrição segura](secure-the-subscription-admin-setting.md) estiver definida como **Sim**, somente as pessoas com acesso à instância de Marketo poderão baixar o relatório.
+>Se a configuração [Administrador de Subscrição segura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) estiver definida como **Sim**, somente as pessoas com acesso à instância de Marketo poderão baixar o relatório.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -104,10 +102,6 @@ Para excluir uma subscrição, selecione-a na guia subscrições e clique em Exc
 
 >[!MORELIKETHIS]
 >
->* [Editar uma Subscrição de Lista inteligente](edit-a-smart-list-subscription.md)
->* [Proteja a configuração do administrador da Subscrição](secure-the-subscription-admin-setting.md)
-
->
-
-
+>* [Editar uma Subscrição de Lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [Proteja a configuração do administrador da Subscrição](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
 
