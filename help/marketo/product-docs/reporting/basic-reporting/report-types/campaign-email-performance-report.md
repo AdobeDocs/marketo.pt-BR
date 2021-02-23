@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: Relatório de desempenho de e-mail da campanha - Documentos do Marketing - Documentação do produto
 title: Relatório de desempenho de email de campanha
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,12 @@ ht-degree: 0%
 
 # Relatório de Desempenho de Email de campanha {#campaign-email-performance-report}
 
-Para ver suas estatísticas de desempenho de e-mail agrupadas por [campanha inteligente](https://docs.marketo.com/display/docs/smart+campaigns), execute um relatório de Desempenho de e-mail de Campanha.
+Para ver suas estatísticas de desempenho de e-mail agrupadas por [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), execute um relatório de Desempenho de e-mail de Campanha.
 
-1. [Crie um ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) relatório e selecione o tipo **** [Campanha Email ](report-type-overview.md)Performancereport.
-1. [Defina o período do seu ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) relatório e clique na guia  **** Relatório.
+1. [Crie um ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) relatório e selecione o tipo **** [Campanha Email ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Performancereport.
+
+1. [Defina o período do seu ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) relatório e clique na guia  **** Relatório.
+
 1. Agora, explore o relatório para ver como cada email em suas campanhas se comporta.
 
    ![](assets/image2014-9-16-16-3a19-3a59.png)
@@ -25,7 +27,7 @@ Para ver suas estatísticas de desempenho de e-mail agrupadas por [campanha inte
    >
    >Clique no nome de um email para abri-lo no Visualizador de email.
 
-   [As colunas que você pode selecionar ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)para um relatório de Desempenho de email de Campanha incluem:
+   [As colunas que você pode selecionar ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)para um relatório de Desempenho de email de Campanha incluem:
 
    | Coluna | Descrição |
    |---|---|
@@ -37,21 +39,10 @@ Para ver suas estatísticas de desempenho de e-mail agrupadas por [campanha inte
 
    >[!NOTE]
    >
-   >Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por exemplo, se alguém clicou em um link em um email, eles obviamente o abriram primeiro. Para obter as regras específicas que seguimos, consulte [Relatório de desempenho de email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+   >Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por exemplo, se alguém clicou em um link em um email, eles obviamente o abriram primeiro. Para obter as regras específicas que seguimos, consulte [Relatório de desempenho de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filtrar ativos em um relatório de email de Campanha](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-   >    * [Relatório de desempenho de email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-
-
-   >[!NOTE]
-   >
-   >**Mergulho profundo**
-   >
-   >
-   >Saiba mais em [Relatórios básico.](https://docs.marketo.com/display/docs/basic+reporting)
+   >* [Filtrar ativos em um relatório de email de Campanha](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+   >* [Relatório de desempenho de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 
