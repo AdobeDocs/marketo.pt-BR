@@ -3,9 +3,9 @@ unique-page-id: 2359996
 description: Ordenar relatório de colunas - Documentos de marketing - Documentação do produto
 title: Classificar relatório em colunas
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -33,16 +33,4 @@ Use colunas para classificar os dados em seu relatório e facilitar a localizaç
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Selecionar colunas de relatório](select-report-columns.md)
-
-
-   >[!NOTE]
-   >
-   >**Mergulho profundo**
-   >
-   >
-   >Conheça todo o poder de trabalhar com relatórios em [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Selecionar colunas de relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
