@@ -3,9 +3,9 @@ unique-page-id: 2360028
 description: Clonar um relatório - Documentos do Marketing - Documentação do produto
 title: Clonar um relatório
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Crie um duplicado do seu relatório para personalizá-lo ainda mais sem alterar 
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Selecione seu relatório. Selecione **Ações de relatório > Clonar um relatório**.
+1. Selecione seu relatório. Selecione **Ações de relatório** > **Clonar um relatório**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -35,11 +35,4 @@ Crie um duplicado do seu relatório para personalizá-lo ainda mais sem alterar 
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filtrar pessoas em um relatório com uma Lista inteligente](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
-
-
-   Faça muito mais para personalizar seu relatório! Consulte [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtrar pessoas em um relatório com uma Lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
