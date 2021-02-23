@@ -3,9 +3,9 @@ unique-page-id: 2359994
 description: Selecionar Colunas de Relatório - Documentos do Marketing - Documentação do Produto
 title: Selecionar colunas de relatório
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode escolher quais colunas estão e não estão incluídas no seu relatório.
 
-1. Vá para a área **Analytics **(ou **Atividades de marketing**).
+1. Vá para a área **Analytics** (ou **Atividades de marketing**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -29,11 +29,4 @@ Você pode escolher quais colunas estão e não estão incluídas no seu relató
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Classificar relatório em colunas](sort-report-on-columns.md)
-
-
-   Faça mais com os relatórios! Consulte [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Classificar relatório em colunas](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
