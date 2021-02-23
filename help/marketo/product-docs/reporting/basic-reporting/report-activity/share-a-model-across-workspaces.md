@@ -3,9 +3,9 @@ unique-page-id: 2360205
 description: Compartilhar um modelo entre espaços de trabalho - Documentos do marketing - Documentação do produto
 title: Compartilhar um modelo entre espaços de trabalho
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,10 @@ O Marketo oferece a você a capacidade de compartilhar um ou mais modelos entre 
 
    >[!NOTE]
    >
-   >
    >Compartilhar um modelo com outro espaço de trabalho permite que esses usuários executem relatórios com base no modelo.
 
 1. Selecione os espaços de trabalho com os quais deseja compartilhar a pasta e clique em **Salvar**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-É tão fácil! Agora, pessoas de outros espaços de trabalho podem se mover pelo modelo compartilhado. Talvez você queira executar a atribuição de pessoa nesse espaço de trabalho, consulte [Abrindo o Modelo de Ciclo de Receita](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) para obter detalhes.
+É tão fácil! Agora, pessoas de outros espaços de trabalho podem se mover pelo modelo compartilhado.
