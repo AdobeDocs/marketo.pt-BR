@@ -5,7 +5,7 @@ title: Adicionar uma Etapa de Fluxo para SMS
 translation-type: tm+mt
 source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
