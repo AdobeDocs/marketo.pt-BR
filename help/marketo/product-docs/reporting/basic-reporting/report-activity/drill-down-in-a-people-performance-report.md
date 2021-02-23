@@ -3,7 +3,7 @@ unique-page-id: 2360035
 description: Detalhar em um Relatório de desempenho de pessoas - Documentos do Marketing - Documentação do produto
 title: Detalhar em um relatório de desempenho de pessoas
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Faça o detalhamento em um Relatório de desempenho de pessoas para ver informa�
 
    ![](assets/three.png)
 
-1. Na pop-up **Detalhamento**, selecione o atributo no qual você deseja detalhar. Em seguida, clique em** Drill-Down**.
+1. Na pop-up **Detalhamento**, selecione o atributo no qual você deseja detalhar. Em seguida, clique em **Detalhamento**.
 
    ![](assets/four.png)
 
@@ -42,4 +42,3 @@ Faça o detalhamento em um Relatório de desempenho de pessoas para ver informa�
 1. Para salvar seus resultados (opcional), clique no ícone **Exportar** na parte inferior esquerda.
 
    ![](assets/six.png)
-
