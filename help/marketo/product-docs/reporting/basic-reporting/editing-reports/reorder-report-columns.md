@@ -3,9 +3,9 @@ unique-page-id: 2359999
 description: Reordenar colunas de relatório - Documentos do Marketo - Documentação do produto
 title: Reordenar colunas de relatório
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Selecionar colunas de relatório](select-report-columns.md)
-
-
-   >[!NOTE]
-   >
-   >**Mergulho profundo**
-   >
-   >
-   >Conheça todo o poder de trabalhar com relatórios em [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Selecionar colunas de relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
