@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: Adicionar colunas personalizadas a um relatório de pessoa - Documentos do marketing - Documentação do produto
 title: Adicionar colunas personalizadas a um relatório de pessoa
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adicionar colunas personalizadas a um relatório de pessoa {#add-custom-columns-to-a-person-report}
 
-Você pode filtrar ainda mais as métricas em seus [relatórios de pessoa](https://docs.marketo.com/display/docs/basic+reporting) usando suas [listas inteligentes](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) como colunas personalizadas.
+Você pode filtrar ainda mais as métricas em seus relatórios pessoais usando suas [listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) como colunas personalizadas.
 
 1. Vá para a área **Atividades de marketing** (ou **Analytics**).
 
@@ -31,27 +31,10 @@ Você pode filtrar ainda mais as métricas em seus [relatórios de pessoa](https
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-   >[!NOTE]
-   >
-   >**Mergulho profundo**
-   >
-   >
-   >Saiba como criar e configurar listas inteligentes no aprofundamento de [Listas inteligentes e Listas estáticas](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
 1. Você fez isso! Clique na guia **Relatório** para ver seu relatório com as novas colunas.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Você também pode [Adicionar colunas de oportunidade a um relatório de oportunidade potencial](add-opportunity-columns-to-a-lead-report.md).
-
-   >[!NOTE]
-   >
-   >**Mergulho profundo**
-   >
-   >
-   >Saiba mais sobre as muitas coisas que você pode fazer com relatórios no aprofundamento do [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Você também pode [Adicionar colunas de oportunidade a um relatório de oportunidade potencial](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
