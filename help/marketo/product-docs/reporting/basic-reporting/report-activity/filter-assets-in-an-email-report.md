@@ -3,9 +3,9 @@ unique-page-id: 2360225
 description: Filtrar ativos em um relatório por email - Documentos do Marketing - Documentação do produto
 title: Filtrar ativos em um relatório de email
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrar ativos em um relatório de email {#filter-assets-in-an-email-report}
 
-Focalize seu relatório [Desempenho do email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [Desempenho do link de email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sobre emails em seus programas (&#39;ativos locais&#39;), nos relatórios do Design Studio (&#39;ativos globais&#39;) ou nos que foram arquivados.
+Focalize seu relatório [Desempenho do email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [Desempenho do link de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sobre emails em seus programas (&#39;ativos locais&#39;), nos relatórios do Design Studio (&#39;ativos globais&#39;) ou nos que foram arquivados.
 
 1. Vá para a área **Analytics** (ou **Atividades de marketing**).
 
@@ -45,15 +45,4 @@ Focalize seu relatório [Desempenho do email](../../../../product-docs/email-mar
 
 >[!MORELIKETHIS]
 >
->* [Filtrar ativos em relatórios de e-mail de Campanha](filter-assets-in-a-campaign-email-reports.md)
-
->
-
-
-
->[!NOTE]
->
->**Mergulho profundo**
->
->Saiba tudo sobre os relatórios em [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+>[Filtrar ativos em relatórios de e-mail de Campanha](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
