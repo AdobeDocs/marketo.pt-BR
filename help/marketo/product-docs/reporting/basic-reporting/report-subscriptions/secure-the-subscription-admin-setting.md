@@ -3,9 +3,9 @@ unique-page-id: 10095347
 description: Proteger a configuração do administrador da Subscrição - Documentos do marketing - Documentação do produto
 title: Proteja a configuração do administrador da Subscrição
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,3 @@ Um administrador pode optar por exigir o logon para visualização de um relató
    >[!CAUTION]
    >
    >Quando um logon for necessário para baixar relatórios, se você não tiver acesso ao Marketo, não receberá emails de relatório de lista inteligente. Isso se aplica às subscrições atuais e futuras.
-
