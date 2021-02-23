@@ -3,9 +3,9 @@ unique-page-id: 2360002
 description: Configurar tamanho do relatório - Documentos do marketing - Documentação do produto
 title: Configurar tamanho do relatório
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Por padrão, os relatórios do Marketo estão limitados a um máximo de 5.000 linhas, mas é possível alterar esse limite.
 
-1. Vá para a área **Atividades de marketing **i.
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
@@ -23,7 +23,7 @@ Por padrão, os relatórios do Marketo estão limitados a um máximo de 5.000 li
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   Clique com o duplo **Exportar linhas disponíveis**.
+1. Clique com o duplo **Exportar linhas disponíveis**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -43,9 +43,4 @@ Por padrão, os relatórios do Marketo estão limitados a um máximo de 5.000 li
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Agora você pode [exportar seu relatório](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) com o novo limite.
-
-   Veja mais maneiras de configurar seus relatórios no aprofundamento do [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Você pode [exportar seu relatório](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) com o novo limite.
