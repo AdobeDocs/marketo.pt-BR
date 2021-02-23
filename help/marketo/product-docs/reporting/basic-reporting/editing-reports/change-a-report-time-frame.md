@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: Alterar um período de relatório - Documentos do marketing - Documentação do produto
 title: Alterar um período de tempo de relatório
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -48,14 +48,4 @@ Altere o período coberto pelo relatório para focar em um horário específico 
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Para restringir seu relatório por atributos de pessoa específicos, você pode [Filtrar pessoas em um relatório com uma Lista inteligente](filter-people-in-a-report-with-a-smart-list.md).
-
-   >[!NOTE]
-   >
-   >**Mergulho profundo**
-   >
-   >
-   >Para obter mais maneiras de usar os relatórios, consulte o aprofundamento do [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Para restringir seu relatório por atributos de pessoa específicos, você pode [Filtrar pessoas em um relatório com uma Lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).
