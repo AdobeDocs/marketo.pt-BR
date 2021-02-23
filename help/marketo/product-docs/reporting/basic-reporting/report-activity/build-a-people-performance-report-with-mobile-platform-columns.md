@@ -3,7 +3,7 @@ unique-page-id: 2951220
 description: Criar um relatório de desempenho de pessoas com colunas de plataforma móvel - Documentos do marketing - Documentação do produto
 title: Criar um relatório de desempenho de pessoas com colunas de plataforma móvel
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -106,4 +106,3 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
    ![](assets/seventeen.png)
 
    Muito legal, certo? Muito bem!
-
