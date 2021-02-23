@@ -3,9 +3,9 @@ unique-page-id: 2360055
 description: Email do relatório, desempenho da Campanha em todos os espaços de trabalho - Documentos do marketing - Documentação do produto
 title: E-mail de relatório, desempenho da Campanha em todos os espaços de trabalho
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Email do relatório, desempenho da Campanha em espaços de trabalho {#report-email-campaign-performance-across-workspaces}
 
-Ative o Relatórios Global para incluir dados de todos os seus espaços de trabalho do Marketo [nos relatórios [Desempenho do email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Desempenho do link de email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) e [Atividade da Campanha](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md).](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+Ative o Relatórios Global para incluir dados de todos os seus espaços de trabalho do Marketo [nos relatórios [Desempenho do email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Desempenho do link de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) e [Atividade da Campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md).](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 1. Vá para a área **Analytics** (ou **Atividades de marketing**).
 
@@ -37,16 +37,4 @@ Ative o Relatórios Global para incluir dados de todos os seus espaços de traba
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filtrar ativos em um relatório de email](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**Mergulho profundo**
-   >
-   >
-   >Saiba tudo sobre os relatórios em [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtrar ativos em um relatório de email](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
