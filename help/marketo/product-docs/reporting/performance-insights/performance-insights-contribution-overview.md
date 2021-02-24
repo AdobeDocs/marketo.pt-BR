@@ -3,9 +3,9 @@ unique-page-id: 12979008
 description: Visão geral da contribuição do Performance Insights - Documentos do Marketing - Documentação do produto
 title: Visão geral da contribuição do Performance Insights
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,19 @@ Selecione a métrica pela qual deseja visualização do desempenho. Neste exempl
 
 >[!NOTE]
 >
->Saiba mais sobre [Primeiro toque e multitoque](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Saiba mais sobre [Primeiro toque e multitoque](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-Escolha para qual período deseja visualizar as métricas. Neste exemplo, estamos olhando para o ano atual (acumulado do ano).   ![](assets/3-1.png)
+Escolha para qual período deseja visualizar as métricas. Neste exemplo, estamos olhando para o ano atual (acumulado do ano).
+
+![](assets/3-1.png)
 
 >[!NOTE]
 >
 >Removemos temporariamente a seleção &quot;Ano Anterior&quot;. Você ainda tem a opção de exibir todos os dados de desempenho do ano anterior usando a seleção Intervalo personalizado.
 
-As métricas são apresentadas por meio de dois gráficos: donut e bar.   ![](assets/four.png)
+As métricas são apresentadas por meio de dois gráficos: donut e bar.
+
+![](assets/four.png)
 
 O gráfico de rosca mostra os dez canais principais para a métrica selecionada.
 
@@ -45,7 +49,9 @@ O gráfico de barras exibe o desempenho do programa em todos os canais (dez prog
 >
 >Se desejar que as barras no gráfico aumentem conforme você percorra os grupos, marque a caixa de seleção **Dimensionar eixo Y para ajustar**.
 
-Passe o mouse sobre uma barra para ver mais detalhes.   ![](assets/seven.png)
+Passe o mouse sobre uma barra para ver mais detalhes.
+
+![](assets/seven.png)
 
 Selecione um ou mais canais no gráfico de rosca e todos os programas associados a esses canais serão exibidos no gráfico de barras à direita. Clique nos canais novamente para desmarcar.
 
@@ -69,4 +75,3 @@ Expanda um canal para ver seus dez programas principais, com os programas restan
 >[!NOTE]
 >
 >Clicar na caixa de seleção ao lado de um canal ativa/desativa-a no gráfico de rosca acima.
-
