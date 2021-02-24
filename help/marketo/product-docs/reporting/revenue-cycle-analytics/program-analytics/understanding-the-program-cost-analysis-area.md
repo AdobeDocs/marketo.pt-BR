@@ -3,7 +3,7 @@ unique-page-id: 4718636
 description: Entendendo a área de Análise de custo do Programa - Documentos do Marketing - Documentação do produto
 title: Como entender a área de Análise de custo do Programa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Quanto eu gastei por programa por mês?
    <th>Descrição</th> 
   </tr> 
   <tr> 
-   <td><p>% Novos Nomes</p></td> 
+   <td>% Novos Nomes</td> 
    <td>Porcentagem de clientes potenciais que foram adquiridos por um programa</td> 
   </tr> 
   <tr> 
@@ -104,4 +104,3 @@ Quanto eu gastei por programa por mês?
 | % de sucesso (Total) | Porcentagem de clientes potenciais que obtiveram sucesso na progressão de um programa |
 | Sucesso (Novos Nomes) | Número total de novos nomes que obtiveram sucesso na progressão de um programa |
 | Sucesso (Total) | Número total de clientes potenciais que obtiveram sucesso na progressão de um programa |
-
