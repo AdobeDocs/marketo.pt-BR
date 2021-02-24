@@ -3,7 +3,7 @@ unique-page-id: 6095029
 description: Definir conversões do Google AdWords no modelo de receita - Documentos do marketing - Documentação do produto
 title: Definir conversões do Google AdWords no modelo de receita
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Vincule sua conta do Google AdWords ao Marketo para fazer upload automático de 
 
 >[!NOTE]
 >
->Esta é uma integração de push do Marketo para o Google AdWords. Os dados de conversão aparecerão *somente* no portal do Google AdWords,*** não na interface do usuário do Marketo. **
+>Esta é uma integração de push do Marketo para o Google AdWords. Os dados de conversão serão exibidos _only_ no portal do Google AdWords, _e não na interface do usuário do Marketo_.
 
-Saiba mais sobre o [recurso de importação de conversão offline do Google](https://support.google.com/adwords/answer/2998031?hl=en).  Mapeie as conversões offline do AdWords para um ou mais estágios em um modelo de Receita. Há três maneiras de fazer o mapeamento:
+Saiba mais sobre o [recurso de importação de conversão offline do Google](https://support.google.com/adwords/answer/2998031?hl=en). Mapeie as conversões offline do AdWords para um ou mais estágios em um modelo de Receita. Há três maneiras de fazer o mapeamento:
 
 * Conversão de AdWords
 * Ação de estágio
@@ -29,11 +29,7 @@ Você pode criar uma nova conversão offline AdWords de Marketo se usar a Ação
 
 >[!PREREQUISITES]
 >
->* [Adicionar Google AdWords como um Serviço LaunchPoint](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-
->
-
-
+>[Adicionar Google AdWords como um Serviço LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## Usar conversão AdWords {#use-adwords-conversion}
 
@@ -61,7 +57,7 @@ Você pode criar uma nova conversão offline AdWords de Marketo se usar a Ação
 
 ## Usar a ação do estágio {#use-stage-action}
 
-Você também pode mapear uma Conversão AdWords em Ações do palco.
+Também é possível mapear uma Conversão AdWords em Ações do palco.
 
 1. Selecione a etapa que deseja mapear para uma conversão AdWords.
 
