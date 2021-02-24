@@ -3,7 +3,7 @@ unique-page-id: 2953444
 description: Definir Custos do Período - Documentos do Marketing - Documentação do Produto
 title: Definir Custos do Período
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Rastreie e associe os custos de criação de lead e de aquisição de lead para 
 
 ## Editar um Custo de Período {#edit-a-period-cost}
 
-1. Clique com o botão direito do mouse no Custo do Período e selecione **Editar **no menu pop-up para abrir a caixa de diálogo **Editar Custo**.
+1. Clique com o botão direito do mouse no Custo do Período e selecione **Editar** no menu pop-up para abrir a caixa de diálogo **Editar Custo**.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -63,11 +63,10 @@ Rastreie e associe os custos de criação de lead e de aquisição de lead para 
 
 ## Excluir um Custo de Período {#delete-a-period-cost}
 
-1. Clique com o botão direito do mouse no Custo do Período que deseja excluir e selecione **Excluir **no menu pop-up para exibir o prompt **Excluir Custo **Apagar.
+1. Clique com o botão direito do mouse no Custo do Período que deseja excluir e selecione **Excluir** no menu pop-up para exibir o prompt **Excluir Custo**.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
 1. Clique em **Excluir** para excluir permanentemente o Custo do Período, ou em **Cancelar** para voltar.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
-
