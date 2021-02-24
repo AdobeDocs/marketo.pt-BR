@@ -3,7 +3,7 @@ unique-page-id: 4718640
 description: Entendendo a área de Análise da associação ao Programa - Documentos do Marketing - Documentação do produto
 title: Como entender a área de Análise da associação ao Programa
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -68,4 +68,3 @@ Quantos novos nomes cada programa/canal gerou por mês?
 | % de sucesso (Total) | Porcentagem de clientes potenciais que obtiveram sucesso na progressão de um programa |
 | Sucesso (Novos Nomes) | Número total de novos nomes que obtiveram sucesso na progressão de um programa |
 | Sucesso (Total) | Número total de clientes potenciais que obtiveram sucesso na progressão de um programa |
-
