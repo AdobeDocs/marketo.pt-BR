@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Compare a eficácia do Canal com o analisador de Programas - Documentos de marketing - Documentação do produto
 title: Compare a eficácia do Canal com o analisador de Programas
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Use o Analisador de Programas para comparar os custos de canais, aquisição de 
 
 >[!PREREQUISITES]
 >
->* [Criar um analisador de Programas](create-a-program-analyzer.md)
+>[Criar um analisador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. Clique em **Analytics** em **My Marketo.**
+1. Clique em **Analytics** em **Meu mercado**.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Selecione o seu Analisador de Programas **.**
+1. Selecione seu **Analisador de Programas**.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Altere a Visualização para **By** **Canal**.
+1. Altere a Visualização para **By Canal**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
@@ -62,7 +61,7 @@ Use o Analisador de Programas para comparar os custos de canais, aquisição de 
 
    Vemos que o canal do Webinar encolhe, conforme medido por **Novos nomes**. Podemos concluir que, apesar de ter muitos membros, é menos eficaz em gerar novas perspectivas do que o canal de feiras.
 
-1. Por fim, use o menu suspenso Cor para adicionar a quarta dimensão. Vamos selecionar **(FT) Revenue** **Won**.
+1. Por fim, use o menu suspenso Cor para adicionar a quarta dimensão. Vamos selecionar **(FT) Revenue Won**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -84,13 +83,6 @@ Em nosso exemplo, vemos que o canal de apresentação comercial é o mais caro (
 
 >[!MORELIKETHIS]
 >
->* [Explore os detalhes do Programa e Canal com o Analisador de Programas](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Compare a eficácia do Programa com o analisador de Programas](compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Explore os detalhes do Programa e Canal com o Analisador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Compare a eficácia do Programa com o analisador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 
->
-
-
-
->[!NOTE]
->
->Saiba mais sobre análises avançadas no [Explorador do Ciclo de Receita](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
