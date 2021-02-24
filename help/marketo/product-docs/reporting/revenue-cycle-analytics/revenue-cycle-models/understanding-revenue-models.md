@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: Noções básicas sobre os modelos de receita - Documentos de marketing - Documentação do produto
 title: Noções Gerais dos Modelos de Receita
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ Por padrão, um novo modelo o start com seis estágios de receita. Este modelo e
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Notem que estão todos num fundo verde. Isso é chamado de **Caminho de sucesso**. Saiba mais sobre o caminho de sucesso [here](understanding-revenue-model-success-path.md).
+Notem que estão todos num fundo verde. Isso é chamado de **Caminho de sucesso**. Saiba mais sobre o caminho de sucesso [here](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
 **As** etapas são os marcos em uma progressão da liderança em direção às suas metas.
 
-**Transição **são mostradas como setas e controlam como as pontas se movem entre as etapas.
+**As** transições são mostradas como setas e controlam como as pontas se movem entre os estágios.
 
 >[!NOTE]
 >
@@ -85,27 +85,30 @@ Esclareça exatamente como um cliente potencial se move de um estágio para outr
 >
 >**Exemplo**
 >
->Uma transição pode ser definida por um cliente potencial **preenchendo um formulário. **
+>Uma transição pode ser definida por um cliente potencial preenchendo um formulário.
 
-Aqui estão alguns links que podem ser úteis para ter esperança. (ou, esperamos, útil - tome sua escolha!)
+Adicionar um Palco do caminho de sucesso feliz
 
->[!MORELIKETHIS]
->
->[Criar um novo modelo de receita](create-a-new-revenue-model.md)
->
->[Usando Estágios de Inventário do Modelo de Receita](using-revenue-model-inventory-stages.md)
->
->[Usando Estágios de Portas de Modelo de Receita](using-revenue-model-gate-stages.md)
->
->[Usando Estágios de SLA de Modelo de Receita](using-revenue-model-sla-stages.md)
-
-Adicionar um Palco do caminho de sucesso feliz   ![](assets/image2015-6-12-10-3a10-3a26.png)
+![](assets/image2015-6-12-10-3a10-3a26.png)
 
 Perdido é bom adicionar, mas reparem que não está no caminho verde. Isso porque não é um &quot;sucesso&quot;.
 
 >[!MORELIKETHIS]
 >
->[Relatório sobre seu modelo de receita](report-on-your-revenue-model.md)
->
->[Aprovar/Cancelar aprovação de um modelo de receita](approve-unapprove-a-revenue-model.md)
+>* [Criar um novo modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+   >
+   >
+* [Usando Estágios de Inventário do Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+   >
+   >
+* [Usando Estágios de Portas de Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+   >
+   >
+* [Usando Estágios de SLA de Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+   >
+   >
+* [Relatório sobre seu modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+   >
+   >
+* [Aprovar/Cancelar aprovação de um modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 
