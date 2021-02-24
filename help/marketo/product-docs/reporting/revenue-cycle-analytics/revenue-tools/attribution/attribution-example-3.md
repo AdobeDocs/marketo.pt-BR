@@ -3,7 +3,7 @@ unique-page-id: 7514149
 description: Exemplo de atribuição 3 - Documentos de marketing - Documentação do produto
 title: Exemplo de atribuição 3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -45,17 +45,12 @@ Leia o seguinte cenário e tente determinar os números que devem estar na grade
 >1. Você não pode dar mais crédito do que você ganhou
 >1. Você não pode dar crédito por algo que aconteceu no passado
 
->
-
-
-
-<br> 
 
 Experimente todos os exemplos e você será um pro atribuição!
 
 >[!MORELIKETHIS]
 >
->* [Exemplo de atribuição 1](attribution-example-1.md)
->* [Exemplo de atribuição 2](attribution-example-2.md)
->* [Exemplo de atribuição 4](attribution-example-4.md)
+>* [Exemplo de atribuição 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Exemplo de atribuição 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Exemplo de atribuição 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
