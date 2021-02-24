@@ -3,7 +3,7 @@ unique-page-id: 10097747
 description: Adicionar medidas personalizadas a um relatório do Gerenciador de receitas - Documentos do marketing - Documentação do produto
 title: Adicionando medidas personalizadas a um relatório do Explorador de Receita
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,7 +21,8 @@ No exemplo abaixo, você está criando uma medida calculada para rejeições sua
 >
 >Você precisa de pelo menos uma métrica em seu relatório, mas não precisa ser uma das medidas que você usa para definir sua medida personalizada.
 
-1. Passe o mouse sobre os campos necessários para o seu relatório. Consulte [Adicionar campos a um relatório do Revenue Explorer](adding-fields-to-a-revenue-explorer-report.md) para obter detalhes.
+1. Passe o mouse sobre os campos necessários para o seu relatório. Consulte [Adicionar campos a um relatório do Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) para obter detalhes.
+
 1. Clique com o botão direito do mouse em uma métrica existente (célula azul), clique em **Medida Definida pelo Usuário** e selecione **Medida Calculada**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
@@ -48,9 +49,4 @@ No exemplo abaixo, você está criando uma medida calculada para rejeições sua
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Adicionar campos a um relatório do Explorador de receita](adding-fields-to-a-revenue-explorer-report.md)
-
-
+   >[Adicionar campos a um relatório do Explorador de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
