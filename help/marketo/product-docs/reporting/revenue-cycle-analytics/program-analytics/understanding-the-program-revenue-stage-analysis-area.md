@@ -3,7 +3,7 @@ unique-page-id: 7514009
 description: Entendendo a área de Análise do Estágio da Receita do Programa - Documentos do Marketing - Documentação do produto
 title: Como entender a área de Análise do Estágio da Receita do Programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Essa área de análise permite analisar a eficácia de programas individuais ou ver resultados resumidos por canal. Ele fornece informações sobre quantos dos novos nomes gerados alcançaram estágios de caminho de sucesso específicos dentro do modelo de ciclo de receita.
 
-**Exemplo de perguntas comerciais que você pode responder usando essa área de análise incluem:**
+**Exemplo de perguntas comerciais que você pode responder usando essa área de análise incluem**:
 
 Quantos novos nomes de um determinado programa já chegaram a um estágio específico em meu modelo?
 
@@ -153,4 +153,4 @@ Para visualização de dimensões ou medidas disponíveis em uma categoria, cliq
 
 >[!MORELIKETHIS]
 >
->[Criar um relatório do Explorador de Receita](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Criar um relatório do Explorador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
