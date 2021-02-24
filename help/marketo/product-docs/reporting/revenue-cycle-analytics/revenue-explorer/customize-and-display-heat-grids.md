@@ -3,7 +3,7 @@ unique-page-id: 7514224
 description: Personalizar e exibir grades de calor - Documentos do marketing - Documentação do produto
 title: Personalizar e exibir grades de calor
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -19,9 +19,8 @@ Uma grade de calor representa visualmente seus dados em uma grade colorida para 
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. Para fazer alterações em sua **Grade de calor**, vá para a área **Propriedades **I.
+1. Para fazer alterações na sua **Grade de Calor**, vá para a área **Propriedades**.
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
    Incrível! Agora você tem sua **Grade de calor**!
-
