@@ -3,7 +3,7 @@ unique-page-id: 4718672
 description: Usando Transições de Modelo de Receita - Documentos do Marketing - Documentação do Produto
 title: Usando Transições de Modelo de Receita
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Criar um novo modelo de receita](create-a-new-revenue-model.md)
+>[Criar um novo modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 Ao criar o modelo e selecionar e organizar os estágios de inventário, é hora de definir as transições.
 
@@ -29,7 +29,10 @@ Ao criar o modelo e selecionar e organizar os estágios de inventário, é hora 
    >
    >As regras de transição &quot;Anônimo Conhecido&quot; não podem ser editadas.
 
-1. Uma nova guia será aberta para a transição selecionada.   ![](assets/three-1.png)
+1. Uma nova guia será aberta para a transição selecionada.
+
+   ![](assets/three-1.png)
+
 1. As transições controlam como as vendas se movem entre os estágios. Arraste o acionador (ou filtro) de sua escolha da direita e solte em qualquer lugar na tela. Neste exemplo, selecionaremos o acionador Preencher formulário.
 
    >[!TIP]
@@ -62,4 +65,4 @@ Muito bem! As transições de modelo foram modificadas com êxito.
 
 >[!MORELIKETHIS]
 >
->[Aprovar/Cancelar aprovação de um modelo de receita](approve-unapprove-a-revenue-model.md)
+>[Aprovar/Cancelar aprovação de um modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
