@@ -3,9 +3,9 @@ unique-page-id: 12979858
 description: Perguntas frequentes sobre Performance Insights - Documentos do Marketing - Documentação do produto
 title: Perguntas frequentes sobre Performance Insights
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1357'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,6 @@ ht-degree: 0%
 O sucesso é uma medida de interação significativa em Marketo. O objetivo de um programa é criar uma interação significativa com a pessoa ou o prospecto. O sucesso é marcado quando uma pessoa atinge o status que atinge esse objetivo. Ele pode estar participando de um webinar, clicando em um link em um email ou preenchendo um formulário da Web. O sucesso varia dependendo do canal do programa.
 
 >[!NOTE]
->
->**Exemplo**
 >
 >Em um programa de webinar, pode haver vários status, como: Convidado, Registrado e Participado. Convidados ou registrados não são interações significativas porque as pessoas não assistem ao webinar. A participação é considerada um sucesso neste caso.
 
@@ -41,7 +39,7 @@ Não. Os dados de fontes MPI do mesmo data warehouse que o RCA. Portanto, você 
 
 >[!NOTE]
 >
->Saiba mais sobre como configurar o comportamento de análise [aqui](https://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
+>Saiba mais sobre como configurar o comportamento de análise [aqui](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
 
 ## Estou executando uma campanha de vários canais para um novo lançamento de produto. Como posso visualização o desempenho desta campanha em todos os diferentes canais em um único lugar? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -58,8 +56,10 @@ A MPI calcula se todas as suas oportunidades estão sendo incluídas na análise
 Você também pode estar perdendo oportunidades devido ao custo do Programa ausente em seus programas. Analise o comportamento dos programas do Analytics. Eles podem ser:
 
 1. Padrão - O comportamento padrão é o programa que seria incluído APENAS no MPI se houvesse pelo menos um custo do período, mesmo um com zero dólares atribuídos.
+
 1. Inclusivo - Essa opção garantirá que o programa esteja disponível em MPI, independentemente de você ter incluído ou não um custo do período.
-1. [Operacional](https://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  - Essa opção resulta na não exibição do programa no MPI.
+
+1. [Operacional](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs)  - Essa opção resulta na não exibição do programa no MPI.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ Campos personalizados, Tipo de oportunidade e Filtros ABM são todos atributos r
 
 ## Desejo usar um campo Oportunidade do Salesforce personalizado para relatórios de receita em vez do campo Quantia de Oportunidade do Salesforce. O MPI me permitirá fazer isso? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Sim. [O ](https://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) suporte de marketing pode remapear o campo Quantia de Oportunidade do Marketo para um campo de Oportunidade do Salesforce personalizado, desde que o tipo de campo seja moeda. Como o MPI aponta para o campo de valor da Oportunidade de marketing, o MPI pode usar os dados do campo remapeado personalizado do Salesforce.
+Sim. [O ](https://nation.marketo.com/t5/Support/ct-p/Support) suporte de marketing pode remapear o campo Quantia de Oportunidade do Marketo para um campo de Oportunidade do Salesforce personalizado, desde que o tipo de campo seja moeda. Como o MPI aponta para o campo de valor da Oportunidade de marketing, o MPI pode usar os dados do campo remapeado personalizado do Salesforce.
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ A MPI foi projetada para permitir que você avalie o desempenho do programa da p
 
 ## Posso medir o sucesso de estratégias baseadas em conta no MPI? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Sim. O MPI integra-se com [Marketing ABM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) para inserir listas de conta ABM no MPI sem problemas. Você pode usar o filtro Lista de conta do ABM para escolher a lista do ABM desejada para filtrar os dados.
+Sim. O MPI integra-se com [Marketing TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) para inserir listas de conta ABM no MPI sem problemas. Você pode usar o filtro Lista de conta do ABM para escolher a lista do ABM desejada para filtrar os dados.
 
 ## A atribuição está disponível instantaneamente quando eu compro MPI? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Os recursos de Atribuição de marketing estão disponíveis para nossos clientes quando eles compram MPI. No entanto, [é necessária a configuração adequada](https://docs.marketo.com/x/mRPG) para garantir que as oportunidades e os dados do programa fluam corretamente para o MPI.
+Os recursos de Atribuição de marketing estão disponíveis para nossos clientes quando eles compram MPI. No entanto, [é necessária a configuração adequada](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) para garantir que as oportunidades e os dados do programa fluam corretamente para o MPI.
 
 ## O que devo fazer para configurar a atribuição? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ Os recursos de Atribuição de marketing estão disponíveis para nossos cliente
 
 >[!TIP]
 >
->Todas as etapas de configuração necessárias estão detalhadas em [este artigo](https://docs.marketo.com/x/mRPG).
+>Todas as etapas de configuração necessárias estão detalhadas em [este artigo](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
 
 ## Qual é a diferença entre a MPI e o Analisador de Programas? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 
