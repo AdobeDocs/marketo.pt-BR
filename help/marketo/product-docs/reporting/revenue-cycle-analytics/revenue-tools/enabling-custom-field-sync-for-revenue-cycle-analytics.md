@@ -3,7 +3,7 @@ unique-page-id: 3571888
 description: Habilitar sincronização de campo personalizado para análise de ciclo de receita - Documentos do marketing - Documentação do produto
 title: Ativação da sincronização de campo personalizado para o Análise do ciclo de receita
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -40,4 +40,3 @@ As etapas a seguir permitirão utilizar campos personalizados em relatórios RCA
    >[!NOTE]
    >
    >Depois que o campo for ativado, os dados estarão disponíveis no Análises do ciclo de receita no dia seguinte.
-
