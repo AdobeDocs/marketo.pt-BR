@@ -3,7 +3,7 @@ unique-page-id: 2360423
 description: Localize todos os clientes potenciais em um modelo de ciclo de receita - Documentos do marketing - Documentação do produto
 title: Localizar todos os clientes potenciais em um modelo de ciclo de receita
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Usando listas inteligentes, você pode encontrar facilmente todos os membros do 
 
 >[!PREREQUISITES]
 >
->[Criar uma Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Criar uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Com a lista inteligente selecionada, clique na guia **Lista inteligente**.
 
@@ -33,11 +33,11 @@ Usando listas inteligentes, você pode encontrar facilmente todos os membros do 
 
    Isso lhe daria todas as pistas nesse modelo, independente do palco. Geralmente, você desejará um estágio específico. Em vez disso, use o seguinte filtro.
 
-1. Localize o **Estágio de receita **filtro e arraste-o para a tela de desenho.
+1. Localize o filtro **Estágio de receita** e arraste-o para a tela de desenho.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Selecione um **Estágio.**
+1. Selecione um **Palco**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
@@ -47,9 +47,8 @@ Usando listas inteligentes, você pode encontrar facilmente todos os membros do 
 
    >[!TIP]
    >
-   >Você não precisa dos dois filtros, basta escolher o que precisa. Estamos apenas a mostrar-vos que são meticulosos. ![(sorriso)](assets/smile.svg)   >
+   >Você não precisa dos dois filtros, basta escolher o que precisa. Estamos apenas a mostrar-vos que são meticulosos. ![(sorriso)](assets/smile.svg)
 
    >[!CAUTION]
    >
    >Se o estágio de um cliente potencial for alterado por uma campanha externa durante a criação inicial do cliente potencial, uma atividade não será registrada no banco de dados. Isso significa que o cliente potencial não será incluído pelo filtro de lista inteligente.
-
