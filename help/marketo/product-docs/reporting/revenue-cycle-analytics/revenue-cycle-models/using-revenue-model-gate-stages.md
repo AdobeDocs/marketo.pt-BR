@@ -3,7 +3,7 @@ unique-page-id: 4718670
 description: Uso de etapas do portão do modelo de receita - Documentos do Marketo - Documentação do produto
 title: Usando Estágios de Portas de Modelo de Receita
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Um estágio de porta serve como uma verificação de qualificação.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Selecione um modelo existente ou [crie um novo](create-a-new-revenue-model.md).
+1. Selecione um modelo existente ou [crie um novo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Clique em **Editar** **Rascunho**.
+1. Clique em **Editar rascunho**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,11 +37,11 @@ Um estágio de porta serve como uma verificação de qualificação.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Edite o **Nome **e selecione um **Tipo**.
+1. Edite o **Nome** e selecione um **Tipo**.
 
    >[!NOTE]
    >
-   >Selecione [Rastreamento de Start por Conta](start-tracking-by-account-in-the-revenue-modeler.md) neste momento para obter informações sobre o desempenho das suas contas à medida que elas avançam pelo seu modelo.
+   >Selecione [Rastreamento de Start por Conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) neste momento para obter informações sobre o desempenho das suas contas à medida que elas avançam pelo seu modelo.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -51,7 +51,7 @@ Um estágio de porta serve como uma verificação de qualificação.
 
 ## Editar um Palco de Portas {#edit-a-gate-stage}
 
-Edite o Nome, a Descrição e ajuste o estágio Tipo do portão. Você também pode optar por [Rastreamento de Start por Conta](start-tracking-by-account-in-the-revenue-modeler.md).
+Edite o Nome, a Descrição e ajuste o estágio Tipo do portão. Você também pode optar por [Rastreamento de Start por Conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Clique em um ícone de estágio **Porta**.
 
@@ -83,11 +83,7 @@ Parabéns! Agora vocês entendem o maravilhoso mundo dos Gate Stages.
 
 >[!MORELIKETHIS]
 >
->* [Usando Estágios de Inventário do Modelo de Receita](using-revenue-model-inventory-stages.md)
->* [Usando Estágios de SLA de Modelo de Receita](using-revenue-model-sla-stages.md)
->* [Criar um novo modelo](create-a-new-revenue-model.md) de receita.
-
->
-
-
+>* [Usando Estágios de Inventário do Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Usando Estágios de SLA de Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Criar um novo modelo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md) de receita.
 
