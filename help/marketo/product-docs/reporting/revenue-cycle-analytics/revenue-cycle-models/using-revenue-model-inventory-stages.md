@@ -3,7 +3,7 @@ unique-page-id: 4718666
 description: Usando Estágios de Inventário do Modelo de Receita - Documentos do Marketing - Documentação do Produto
 title: Usando Estágios de Inventário do Modelo de Receita
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Todos os clientes potenciais e contas conhecidos residem inicialmente no Estági
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Na seção **Analytics**, selecione o modelo existente ou [crie um novo](create-a-new-revenue-model.md).
+1. Na seção **Analytics**, selecione o modelo existente ou [crie um novo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -37,13 +37,13 @@ Todos os clientes potenciais e contas conhecidos residem inicialmente no Estági
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Você pode editar o Nome, adicionar uma Descrição e ajustar o Tipo após adicionar uma etapa. Você também pode selecionar ** [Rastreamento de Start por Conta](start-tracking-by-account-in-the-revenue-modeler.md)*** neste momento.
+1. Você pode editar o Nome, adicionar uma Descrição e ajustar o Tipo após adicionar uma etapa. Você também pode selecionar **[Rastreamento de Start por Conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** no momento.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Editar um Estágio de Inventário {#edit-an-inventory-stage}
 
-Ao selecionar um ícone de Inventário, você pode editar o **Nome**, adicionar um **Descrição** ou ajustar o **Tipo**. Você também pode selecionar [Rastreamento de Start por Conta](start-tracking-by-account-in-the-revenue-modeler.md).
+Ao selecionar um ícone de Inventário, você pode editar o **Nome**, adicionar um **Descrição** ou ajustar o **Tipo**. Você também pode selecionar [Rastreamento de Start por Conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Clique no ícone Inventário.
 
