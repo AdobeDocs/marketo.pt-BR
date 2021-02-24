@@ -3,7 +3,7 @@ unique-page-id: 10094404
 description: Criar grupos de campos personalizados usando o Organizador de campos - Documentos do marketing - Documentação do produto
 title: Criar grupos de campos personalizados usando o Organizador de campos
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Criar grupos de campos personalizados usando o Organizador de campos {#create-custom-field-groups-using-the-field-organizer}
 
-Antes de habilitar grupos de campos personalizados para relatórios na Área de Análise de Desempenho do Modelo (Leads) do Ciclo de Receita do Explorer, você deve categorizar os campos padrão ou personalizados em grupos para relatórios através do Organizador de Campos no Gerenciamento de Clientes Potenciais. Isso se aplica somente aos atributos lead e empresa.
+Antes de habilitar grupos de campos personalizados para relatórios na Área de Análise de Desempenho do Modelo (Leads) do Ciclo de Receita do Explorer, você deve categorizar campos padrão ou personalizados em grupos para relatórios através do Organizador de Campos no Gerenciamento de Clientes Potenciais. Isso se aplica somente aos atributos lead e empresa.
 Quando um campo padrão ou personalizado é selecionado na lista suspensa Campo na caixa de diálogo Novo organizador de campos, o sistema mapeia o tipo de dados do Gerenciamento de vendas associado ao campo que você deseja agrupar com um dos três editores disponíveis no Organizador de campos: string, número inteiro ou data.
 
 | Tipo de dados de gerenciamento líder de mercado | Tipo de Dados do Editor do Organizador de Campos |
@@ -180,8 +180,8 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
    >
    >É possível adicionar até dez subgrupos para categorizar os valores de dados. Cada entrada de Intervalo de grupo é desenvolvida com base na entrada anterior. Se você deixar a última entrada Intervalo de grupo em branco para o último subgrupo personalizado criado, um valor de data final não será definido.
 
+   O exemplo abaixo mostra uma entrada para o primeiro trimestre de 2015 nos clientes potenciais até o terceiro trimestre.
+
    ![](assets/16.5.png)
 
    E é isso! Bom trabalho.
-
-O exemplo abaixo mostra uma entrada para o primeiro trimestre de 2015 nos clientes potenciais até o terceiro trimestre.
