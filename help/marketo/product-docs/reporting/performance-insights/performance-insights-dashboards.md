@@ -3,9 +3,9 @@ unique-page-id: 13795534
 description: Painéis do Performance Insights - Documentos do Marketing - Documentação do produto
 title: Painéis do Performance Insights
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ Escolha a métrica **Sucessos** para medir o envolvimento da audiência em seus 
 O objetivo de um programa é criar uma interação significativa com a pessoa ou o prospecto. O sucesso é marcado quando uma pessoa atinge o status que atinge esse objetivo. Ele pode estar participando de um webinar, clicando em um link em um email ou preenchendo um formulário da Web. O sucesso varia dependendo do canal do programa.
 
 >[!NOTE]
->
->**Exemplo**
 >
 >Em um programa de webinar, pode haver vários status, como: Convidado, Registrado e Participado. Convidados ou registrados não são interações significativas porque as pessoas não assistem ao webinar. A participação é considerada um sucesso neste caso.
 
@@ -108,4 +106,3 @@ O painel de receita mostra o desempenho do canal através de métricas de primei
   </tr> 
  </tbody> 
 </table>
-
