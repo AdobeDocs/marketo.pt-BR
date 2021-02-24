@@ -3,9 +3,9 @@ unique-page-id: 2360240
 description: Configurar um analisador de influência de oportunidade - Documentos do marketing - Documentação do produto
 title: Configurar um analisador de influência de oportunidade
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,13 @@ ht-degree: 0%
 
 # Configurar um analisador de influência de oportunidade {#configure-an-opportunity-influence-analyzer}
 
-Depois que você [criar um Analisador de influência de oportunidade](create-an-opportunity-influence-analyzer.md), poderá configurar os tipos de [momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) que estão incluídos.
+Depois que você [criar um Analisador de influência de oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md), poderá configurar os tipos de [momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) que estão incluídos.
 
 >[!PREREQUISITES]
 >
->* [Criar um analisador de influência de oportunidade](create-an-opportunity-influence-analyzer.md)
+>[Criar um analisador de influência de oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-
-1. Clique em Analytics.
+1. Clique em **Analytics**.
 
    ![](assets/login-to-analytics.png)
 
@@ -42,16 +41,12 @@ Depois que você [criar um Analisador de influência de oportunidade](create-an-
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. Clique em cada tipo de momento interessante que desejar. Em seguida, clique em Salvar.
+1. Clique em cada tipo de momento interessante que desejar. Em seguida, clique em **Salvar**.
+
 1. Clique na guia principal para ver o histórico da oportunidade apenas com os tipos selecionados de momento interessante.
 
    ![](assets/image2014-9-17-12-3a29-3a58.png)
 
->[!NOTE]
->
->Para outros analisadores, consulte [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
 >[!MORELIKETHIS]
 >
->* [Informe a história de marketing com um analisador de influência de oportunidade](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
-
+>[Informe a história de marketing com um analisador de influência de oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
