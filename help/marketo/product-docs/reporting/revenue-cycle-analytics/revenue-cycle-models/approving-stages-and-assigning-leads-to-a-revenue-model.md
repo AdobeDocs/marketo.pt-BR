@@ -3,9 +3,9 @@ unique-page-id: 4718683
 description: Aprovação de estágios e atribuição de clientes potenciais a um modelo de receita - Documentos do marketing - Documentação do produto
 title: Aprovação de estágios e atribuição de clientes potenciais a um modelo de receita
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Aprovação de estágios e atribuição de clientes potenciais a um modelo de receita {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
-Coloque seu **Receita** **Modelo** em funcionamento adicionando clientes potenciais existentes, criando regras de atribuição para quaisquer novos clientes potenciais.
+Coloque seu **Modelo de receita** em funcionamento adicionando clientes potenciais existentes, criando regras de atribuição para quaisquer novos clientes potenciais.
 
 ## Aprovação de etapas {#approving-stages}
 
 Vamos aprovar as etapas do seu modelo antes de adicionar qualquer informação potencial.
 
-1. Vá para a área **Analytics **s.** **
+1. Vá para a área **Analytics**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,7 +27,7 @@ Vamos aprovar as etapas do seu modelo antes de adicionar qualquer informação p
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. Em **Ações do modelo**, selecione **Aprovar** **Estágios**.
+1. Em **Ações do modelo**, selecione **Aprovar fases**.
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
@@ -39,9 +39,9 @@ Excelente! Vamos seguir em frente e atribuir essas pistas.
 
 ## Atribuindo Clientes Potenciais Existentes {#assigning-existing-leads}
 
-[Crie uma ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) Lista Inteligente para identificar os clientes potenciais de uma etapa do seu modelo no banco de dados principal.
+[Crie uma ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) Lista Inteligente para identificar os clientes potenciais de uma etapa do seu modelo no banco de dados principal.
 
-1. Depois de [criar sua Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), clique na guia **Clientes potenciais**.
+1. Depois de [criar sua Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), clique na guia **Clientes potenciais**.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
@@ -67,15 +67,15 @@ Excelente! Vamos seguir em frente e atribuir essas pistas.
 
 ## Novos clientes potenciais: Criar regras de atribuição {#new-leads-create-assignment-rules}
 
-1. Clique** Marketo Home* novamente e selecione **Analytics**.
+1. Clique novamente em **Inicial de marketing** e selecione **Analytics**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
-1. `Click your model in the tree, then the`**`Model Actions`**`menu, selecting`**`Assignment Rules`** `.`
+1. Clique no modelo na árvore e, em seguida, no menu **Ações do modelo**, selecionando **Regras de atribuição**.
 
    ![](assets/image2015-4-29-11-3a52-3a17.png)
 
-1. `If your assignment rules contain more than just one default choice click **Stage, **make your selection, then click`**`Add Choice`**`.`
+1. Se suas regras de atribuição contiverem mais de uma escolha padrão, clique em **Palco**, faça sua seleção e clique em **Adicionar escolha**.
 
    ![](assets/image2015-4-29-12-3a5-3a46.png)
 
@@ -84,9 +84,8 @@ Excelente! Vamos seguir em frente e atribuir essas pistas.
 Crie uma regra de Pontuação de cliente potencial para atribuir os novos clientes potenciais com uma pontuação mínima a uma etapa apropriada.
 
 1. Em **If**, selecione **Pontuação principal**. Em seguida, escolha **pelo menos**.
-&#39; ![](assets/image2015-4-29-13-3a27-3a8.png)
 
-   `
+   ![](assets/image2015-4-29-13-3a27-3a8.png)
 
 1. Digite **40** no campo e selecione **Vendas Potenciais** como Estágio. Clique em **Salvar** para concluir.
 
@@ -94,5 +93,4 @@ Crie uma regra de Pontuação de cliente potencial para atribuir os novos client
 
 >[!MORELIKETHIS]
 >
->Para aprovar seu modelo, leia nossa página de ajuda em ** [Aprovação e não aprovação de um modelo de receita](approve-unapprove-a-revenue-model.md)***.
-
+>Para aprovar seu modelo, leia nossa página de ajuda em **[Aprovação e não aprovação de um modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)**.
