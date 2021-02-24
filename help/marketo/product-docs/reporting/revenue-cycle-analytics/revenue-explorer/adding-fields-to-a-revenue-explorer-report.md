@@ -3,7 +3,7 @@ unique-page-id: 7504383
 description: Adicionar campos a um relatório do Revenue Explorer - Documentos do Marketing - Documentação do produto
 title: Adicionar campos a um relatório do Explorador de receita
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -50,9 +50,4 @@ Personalize relatórios do explorador de receita arrastando e soltando campos de
 
 >[!MORELIKETHIS]
 >
->* [Excluindo um campo em um relatório do Explorador de Receita](deleting-a-field-in-a-revenue-explorer-report.md)
-
->
-
-
-
+>[Excluindo um campo em um relatório do Explorador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
