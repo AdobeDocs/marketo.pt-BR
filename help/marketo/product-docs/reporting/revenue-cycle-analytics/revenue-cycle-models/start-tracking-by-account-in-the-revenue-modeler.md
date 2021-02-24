@@ -3,7 +3,7 @@ unique-page-id: 4718681
 description: Rastreamento de start por conta no Modelador de Receita - Documentos do Marketing - Documentação do produto
 title: Rastreamento de start por conta no Modelador de Receita
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -44,4 +44,3 @@ Com o Revenue Stage Modeler e o Revenue Explorer, você obtém informações sob
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
 1. Seu relatório agora deve mostrar apenas os estágios que você está rastreando por conta. Salve o relatório para usá-lo no futuro. Agora você pode usar isso como outra medida do sucesso de seus esforços de marketing.
-
