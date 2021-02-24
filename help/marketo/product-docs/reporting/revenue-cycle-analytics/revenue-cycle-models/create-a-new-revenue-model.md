@@ -3,7 +3,7 @@ unique-page-id: 4718656
 description: Criar um novo modelo de receita - Documentos de marketing - Documentação do produto
 title: Criar um novo modelo de receita
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -37,5 +37,4 @@ Parece afiado! Vocês acabaram de entrar no maravilhoso mundo da modelagem.
 
 >[!MORELIKETHIS]
 >
->Saiba mais sobre [Usando Estágios de Inventário do Modelo de Receita](using-revenue-model-inventory-stages.md).
-
+>Saiba mais sobre [Usando Estágios de Inventário do Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md).
