@@ -3,9 +3,9 @@ unique-page-id: 2360389
 description: Tornar um Programa sem um custo por período disponível no Gerenciador de receitas e nos Analisadores - Documentos de marketing - Documentação do produto
 title: Tornar um Programa sem um custo por período disponível no Gerenciador de receita e nos Analisadores
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Disponibilize um Programa sem um Custo de Período no Revenue Explorer e nos Analisadores {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Os Custos do período do programa permitem que você defina &quot;Quanto dinheiro&quot; e &quot;Quando&quot; para um programa. Isso é exibido em [explorer de ciclo de receita](https://docs.marketo.com/display/docs/revenue+cycle+analytics) e [analisadores](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+Os Custos do período do programa permitem que você defina &quot;Quanto dinheiro&quot; e &quot;Quando&quot; para um programa. Isso é exibido no Revenue Cycle Explorer e nos [analisadores](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
@@ -25,21 +25,19 @@ Alguns programas podem precisar ser incluídos mesmo se não tiverem um custo de
 >
 >O Analisador de Programas classifica o Programa bem-sucedido por custo do período. Se não houver custo de período disponível, o Sucesso do Programa não será exibido, independentemente do comportamento de análise do programa. Se o comportamento do Analytics for configurado, os dados serão exibidos para as métricas de oportunidade (oportunidades de pipeline, receita ganha, etc.).
 
-1. Na seção Admin, clique em Tags.
+1. Na seção Admin, clique em **Tags**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
-1. Expanda seus Canais e duplos e clique no canal de sua escolha.
+1. Expanda seus Canais e clique com o duplo no canal de sua escolha.
 
    >[!NOTE]
-   >
-   >**Lembrete**
    >
    >Todos os programas que usam esse canal, independentemente do custo do período, estarão disponíveis para os analisadores e exploradores de receita. Esta alteração entrará em vigor no dia seguinte.
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. Altere o comportamento do Analytics para Inclusivo e clique em Salvar.
+1. Altere o comportamento do Analytics para Inclusivo e clique em **Salvar**.
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 
@@ -51,9 +49,4 @@ Bom trabalho! Agora, qualquer programa que usa o canal modificado será incluíd
 
 >[!MORELIKETHIS]
 >
->* [Substituir o comportamento do Analytics no nível do Programa](override-analytics-behavior-at-the-program-level.md)
-
->
-
-
-
+>[Substituir o comportamento do Analytics no nível do Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
