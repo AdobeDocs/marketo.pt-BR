@@ -3,7 +3,7 @@ unique-page-id: 12981145
 description: Configurando insights de desempenho - Documentos do marketing - Documentação do produto
 title: Configurando insights de desempenho
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -45,14 +45,12 @@ Siga as etapas abaixo para configurar a MPI.
    >
    >Verifique se todas as oportunidades têm os campos apropriados preenchidos:
    >
-   >    
-   >    
-   >    * Valor da Oportunidade
-   >    * Está fechado
-   >    * É vencido
-   >    * Data de criação (isso pode não ser definido no seu caso)
-   >    * Data de Fechamento (isso pode não ser definido no seu caso)
-   >    * Tipo de oportunidade
+   >* Valor da Oportunidade
+   >* Está fechado
+   >* É vencido
+   >* Data de criação (isso pode não ser definido no seu caso)
+   >* Data de Fechamento (isso pode não ser definido no seu caso)
+   >* Tipo de oportunidade
 
 
 ## Configuração do programa {#program-setup}
@@ -121,4 +119,3 @@ Em seguida, analise o comportamento do Analytics para indicar se um canal espec�
 >[!NOTE]
 >
 >As alterações efetuadas não são instantâneas. É necessário um período overnight antes de as alterações entrarem em vigor.
-
