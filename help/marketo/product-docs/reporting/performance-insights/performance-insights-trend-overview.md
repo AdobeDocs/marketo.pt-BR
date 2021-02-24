@@ -3,9 +3,9 @@ unique-page-id: 12979010
 description: Visão geral de tendências do Performance Insights - Documentos do Marketing - Documentação do produto
 title: Visão geral de tendências do Performance Insights
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Clique na guia **Tendência** para acessar essa visualização.
 
 ![](assets/2-1.png)
 
-Selecione a métrica pela qual deseja visualização do desempenho. Neste exemplo, vamos ver as oportunidades ganhas por [Primeiro toque](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Selecione a métrica pela qual deseja visualização do desempenho. Neste exemplo, vamos ver as oportunidades ganhas por [Primeiro toque](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
@@ -54,4 +54,3 @@ Expanda um canal para ver seus dez programas principais, com os programas restan
 >[!NOTE]
 >
 >Clicar na caixa de seleção ao lado de um canal ativa/desativa-a no gráfico de rosca.
-
