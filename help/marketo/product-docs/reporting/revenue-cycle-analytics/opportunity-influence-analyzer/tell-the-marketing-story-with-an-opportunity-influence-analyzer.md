@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Conte a história de marketing com um analisador de influência de oportunidade - Documentos de marketing - Documentação do produto
 title: Informe a história de marketing com um analisador de influência de oportunidade
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Use um Analisador de influência de oportunidade para ilustrar o papel do market
 
 >[!PREREQUISITES]
 >
->* [Criar um analisador de influência de oportunidade](create-an-opportunity-influence-analyzer.md)
-
->
-
-
+>[Criar um analisador de influência de oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
 1. Vá para **Analytics** e selecione o **Analisador de influência de oportunidade**.
 
@@ -29,20 +25,20 @@ Use um Analisador de influência de oportunidade para ilustrar o papel do market
 
    O Analisador de influência de oportunidade é uma representação visual das interações e dos sucessos de programas e eventos envolvidos nessa oportunidade. Vamos explorar o gráfico:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Os** pontos laranja representam momentos  [interessantes ](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) na oportunidade (emails abertos, visitas de shows itinerantes, downloads de documentos, etc.). Pontos maiores indicam mais interações.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Os** pontos laranja representam momentos  [interessantes ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) na oportunidade (emails abertos, visitas de shows itinerantes, downloads de documentos, etc.). Pontos maiores indicam mais interações.
 
-   * &#39; ![—](assets/image2014-10-3-13-3a44-3a9.png)
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Ícones** de vínculo indicam sucessos no programa.
 
-      Os ícones &#39; **Binder** indicam [programa](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) sucessos.
-
-   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Ícones de calendário** indicam [evento](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) sucessos.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Ícones de calendário** indicam sucessos no evento.
 
    * **Período** de oportunidade. A área verde representa a oportunidade em si, da criação da oportunidade ao fechamento da oportunidade (vencida ou perdida).
+
    * **Ciclo** de vida da oportunidade. As áreas cinzas antes e depois do período de oportunidade verde mostram as interações que levaram e seguiram a oportunidade.
 
    O painel **Configurações** lista as pessoas da conta:
 
    * O número **entre parênteses** é o número de interações com esse contato.
+
    * ![—](assets/image2014-10-3-13-3a45-3a9.png)O  **amarelo** indica o contato principal.
 
 
@@ -66,23 +62,4 @@ Use um Analisador de influência de oportunidade para ilustrar o papel do market
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >    
-   >    
-   >    * [Configurar um analisador de influência de oportunidade](configure-an-opportunity-influence-analyzer.md)
-      >    
-      >    
-      >
-      >
-      >    
-      >    
-      >    
-
-
-
-
-
-   * [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting)
-
-
+   >[Configurar um analisador de influência de oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
