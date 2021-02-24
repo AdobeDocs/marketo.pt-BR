@@ -3,7 +3,7 @@ unique-page-id: 2951884
 description: Noções Gerais da Análise de Oportunidade no Revenue Explorer - Documentos do Marketing - Documentação do Produto
 title: Noções Gerais da Análise de Oportunidade no Gerenciador de Receita
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 0%
@@ -25,13 +25,15 @@ Estes são alguns relatórios que você pode criar na área Análise Oportunidad
 
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
-1. Influência de marketing em oportunidades fechadas e vencedoras
-1. Este relatório mostra quanta receita foi adquirida e influenciada pelo marketing, pelo número e quantidade.
+1. Influência de marketing em oportunidades fechadas e vencedoras.
+
+   Este relatório mostra quanta receita foi adquirida e influenciada pelo marketing, pelo número e quantidade.
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
 1. Oportunidade Fechada pela Origem da Oportunidade
-1. Este relatório detalha todas as oportunidades fechadas pela fonte de informações e fornece uma visão geral clara de quais fontes estão funcionando e quais não estão.
+
+   Este relatório detalha todas as oportunidades fechadas pela fonte de informações e fornece uma visão geral clara de quais fontes estão funcionando e quais não estão.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
@@ -151,11 +153,7 @@ A Análise de oportunidade oferece acesso a todas as dimensões de oportunidade 
 
 >[!MORELIKETHIS]
 >
->* [Criar um relatório do Explorador de Receita](create-a-revenue-explorer-report.md)
->* [Adicionar campos a um relatório do Explorador de receita](adding-fields-to-a-revenue-explorer-report.md)
->* [Inscrever-se em um Relatório do Gerenciador de Receita](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
+>* [Criar um relatório do Explorador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Adicionar campos a um relatório do Explorador de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Inscrever-se em um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
