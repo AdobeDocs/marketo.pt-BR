@@ -3,7 +3,7 @@ unique-page-id: 2953144
 description: Visão geral do Relatórios avançado - Documentos do marketing - Documentação do produto
 title: Visão geral do Relatórios avançado do Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -27,13 +27,13 @@ Há muitos bons aqui. Vamos dar uma olhada!
 
 ## Áreas de Análise de programa {#program-analysis-areas}
 
-* ** [Análise de custo do Programa](understanding-the-program-cost-analysis-area.md) **- Consulte o ROI de todos os seus programas.
+* **[Análise](understanding-the-program-cost-analysis-area.md)**  de custo do programa - Consulte o ROI de todos os seus programas.
 
-* ** [Análise de associação ao Programa](understanding-the-program-membership-analysis-area.md) **- Veja os resultados por canal, participação, critérios de sucesso etc.
+* **[Análise](understanding-the-program-membership-analysis-area.md)**  de associação ao programa - Veja os resultados por canal, participação, critérios de sucesso etc.
 
-* ** [Análise de Oportunidade de Programa](understanding-the-program-opportunity-analysis-area.md) **- Oportunidades geradas com base na distribuição, na receita e no ROI.
+* **[Análise](understanding-the-program-opportunity-analysis-area.md)**  Oportunidade de programa - Oportunidades geradas com base na distribuição, receita e ROI.
 
-* ** [Análise do Estágio da Receita do Programa](understanding-the-program-revenue-stage-analysis-area.md) **- Novos nomes que atingiram estágios de sucesso específicos dentro do modelo do ciclo de receita.
+* **[Análise](understanding-the-program-revenue-stage-analysis-area.md)**  do Estágio da Receita do programa - Novos nomes que atingiram estágios de sucesso específicos dentro do modelo do ciclo da receita.
 
 ## Analisadores de programas {#program-analyzers}
 
