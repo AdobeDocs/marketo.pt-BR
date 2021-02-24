@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Compare a eficácia do Programa com o analisador de Programas - Documentos de marketing - Documentação do produto
 title: Compare a eficácia do Programa com o analisador de Programas
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ Use o Analisador de Programas para identificar seus programas mais eficazes e me
 
 >[!PREREQUISITES]
 >
->* [Criar um analisador de Programas](create-a-program-analyzer.md)
+>[Criar um analisador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. Clique em Analytics.
+1. Clique em **Analytics**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -38,7 +37,7 @@ Use o Analisador de Programas para identificar seus programas mais eficazes e me
 
    >[!TIP]
    >
-   >Uma maneira rápida de filtrar programas em apenas um canal é selecionar **Visualização > Por Canal**, clique na bolha do canal e clique no nome do canal na caixa de diálogo pop-up.
+   >Uma maneira rápida de filtrar programas em apenas um canal é selecionar **Visualização** > **Pelo Canal**, clique na bolha desse canal e clique no nome do canal na caixa de diálogo pop-up.
 
 1. Use o menu suspenso Eixo X para escolher uma métrica para o eixo horizontal. Vamos start com o custo do Programa.
 
@@ -92,10 +91,6 @@ Vemos que o programa Paper Fest 12 não só influencia mais receitas (maior bolh
 
 >[!MORELIKETHIS]
 >
->* [Explore os detalhes do Programa e Canal com o Analisador de Programas](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Compare a eficácia do Canal com o analisador de Programas](compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Explore os detalhes do Programa e Canal com o Analisador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Compare a eficácia do Canal com o analisador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
 
-
->[!NOTE]
->
->Saiba mais sobre análises avançadas no [Explorador do Ciclo de Receita](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
