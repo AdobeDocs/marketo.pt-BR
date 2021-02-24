@@ -3,7 +3,7 @@ unique-page-id: 10094959
 description: Uso de Painéis no Revenue Explorer - Documentos do Marketing - Documentação do produto
 title: Uso de Painéis no Explorador de Receita
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Um painel é uma combinação de relatórios do Explorador de Receita para obter
 
    ![](assets/nine.png)
 
-1. Para renomear uma seção, clique nela para selecioná-la, digite o nome desejado em Título e clique em** Aplicar**. Repita o procedimento para cada seção.
+1. Para renomear uma seção, clique nela para selecioná-la, digite o nome desejado em Título e clique em **Aplicar**. Repita o procedimento para cada seção.
 
    ![](assets/ten.png)
 
@@ -92,4 +92,3 @@ Um painel é uma combinação de relatórios do Explorador de Receita para obter
 1. Selecione o painel que deseja excluir e clique em **Mover para o lixo**.
 
    ![](assets/fifteen.png)
-
