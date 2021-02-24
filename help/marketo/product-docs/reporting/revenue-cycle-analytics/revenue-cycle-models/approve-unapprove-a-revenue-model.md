@@ -3,7 +3,7 @@ unique-page-id: 4718687
 description: Aprovar/Cancelar a aprovação de um modelo de receita - Documentos do marketing - Documentação do produto
 title: Aprovar/Cancelar aprovação de um modelo de receita
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Você pode ter apenas um modelo aprovado em um determinado momento.
 
 >[!CAUTION]
 >
->[Os estágios individuais devem ser ](approving-stages-and-assigning-leads-to-a-revenue-model.md) aprovados e as pessoas adicionadas antes de você aprovar um modelo inteiro.
+>[Os estágios individuais devem ser ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) aprovados e as pessoas adicionadas antes de você aprovar um modelo inteiro.
 
 ## Aprovar {#approve}
 
@@ -66,4 +66,3 @@ Parabéns! Seu modelo agora não está aprovado.
 >[!CAUTION]
 >
 >Cancelar a aprovação de um modelo remove todas as pessoas do modelo e remove o histórico delas no modelo do banco de dados.
-
