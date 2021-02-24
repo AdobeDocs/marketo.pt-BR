@@ -3,7 +3,7 @@ unique-page-id: 2360405
 description: Criar um relatório de Análise de associação de Programa que o Lista lidera - Documentos do Marketing Cloud - Documentação do produto
 title: Criar um relatório de Análise de associação de Programa que o Lista lidera
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -17,18 +17,17 @@ Siga estas etapas para criar um relatório de Análise de associação de Progra
 
 >[!AVAILABILITY]
 >
->
 >Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
 1. Inicie o Explorador de Receita.
 
    ![](assets/one.png)
 
-1. Clique em Criar novo e em Relatório.
+1. Clique em **Criar novo** e em **Relatório**.
 
    ![](assets/two.png)
 
-1. Selecione Análise de associação ao Programa e clique em OK.
+1. Selecione **Análise de associação ao Programa** e clique em **OK**.
 
    ![](assets/three.png)
 
@@ -48,17 +47,16 @@ Percebe como isso foi fácil?
 
 ![](assets/seven.png)
 
-Você pode adicionar rapidamente um atributo de cliente potencial, como **Nome completo** para ver quem são os membros.
+Você pode adicionar rapidamente um atributo de cliente potencial, como _Nome completo_ para ver quem são os membros.
 
 >[!TIP]
 >
 >Há muitos atributos de lead/empresa para selecionar. Dê uma olhada!
 
-1. Localize e clique com o duplo no ponto amarelo Nome completo.
+1. Localize e clique com o duplo no **Nome completo** ponto amarelo.
 
    ![](assets/eight.png)
 
 Aqui está!
 
 ![](assets/nine.png)
-
