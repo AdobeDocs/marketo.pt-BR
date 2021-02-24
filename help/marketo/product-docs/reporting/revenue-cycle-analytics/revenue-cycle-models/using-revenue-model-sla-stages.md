@@ -3,9 +3,9 @@ unique-page-id: 4718668
 description: Uso de etapas do SLA do modelo de receita - Documentos do Marketo - Documentação do produto
 title: Usando Estágios de SLA de Modelo de Receita
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ SLA significa &quot;contrato de nível de serviço&quot;. Essas etapas são usad
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Na seção Analytics, selecione o modelo existente ou [crie um novo](create-a-new-revenue-model.md).
+1. Na seção Analytics, selecione o modelo existente ou [crie um novo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
@@ -37,13 +37,13 @@ SLA significa &quot;contrato de nível de serviço&quot;. Essas etapas são usad
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Você pode editar o **Nome**, adicionar um **Descrição** e ajustar o **Tipo** após adicionar um estágio. Você também pode selecionar ** [Rastreamento de Start por Conta](start-tracking-by-account-in-the-revenue-modeler.md)*** neste momento.
+1. Você pode editar o **Nome**, adicionar um **Descrição** e ajustar o **Tipo** após adicionar um estágio. Você também pode selecionar **[Rastreamento de Start por Conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** no momento.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
 ## Editar um Estágio SLA {#edit-an-sla-stage}
 
-Ao selecionar um ícone de estágio SLA, você pode editar o Nome, adicionar uma Descrição e ajustar o Tipo. Você também pode selecionar [Rastreamento de Start por Conta](start-tracking-by-account-in-the-revenue-modeler.md).
+Ao selecionar um ícone de estágio SLA, você pode editar o Nome, adicionar uma Descrição e ajustar o Tipo. Você também pode selecionar [Rastreamento de Start por Conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Clique no ícone de estágio SLA.
 
@@ -53,17 +53,16 @@ Ao selecionar um ícone de estágio SLA, você pode editar o Nome, adicionar uma
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Selecione o menu suspenso **Type** para editar.
+1. Selecione a lista suspensa **Tipo** para editar.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 
 ## Excluir Uma Etapa Do SLA {#delete-an-sla-stage}
 
-1. Você pode excluir um SLA Stage clicando com o botão direito do mouse ou controlando o clique em um ícone de SLA stage.
+1. Você pode excluir uma SLA Stage clicando com o botão direito do mouse ou mantendo pressionado o botão de controle do mouse no ícone de uma SLA stage.
 
    ![](assets/image2015-4-27-16-3a2-3a47.png)
 
-1. Você também pode excluir uma etapa clicando nela e, em seguida, na lista suspensa Ações da etapa, selecione Excluir.
+1. Você também pode excluir uma etapa clicando nela e, em seguida, no menu suspenso Ações da etapa, selecione Excluir.
 
    ![](assets/image2015-4-27-17-3a20-3a41.png)
-
