@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: Relatório de Pessoas por estágio de receita - Documentos do marketing - Documentação do produto
 title: Relatório de Pessoas por Estágio de Receita
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -13,24 +13,19 @@ ht-degree: 0%
 
 # Relatório de Pessoas por Estágio de Receita {#people-by-revenue-stage-report}
 
-Você pode criar um relatório mostrando em qual estágio do seu [Modelo de ciclo de receita](https://docs.marketo.com/display/docs/revenue+cycle+models) seu pessoal está. O relatório inclui qualquer estágio do modelo especificado, desde que exista um equilíbrio de pessoas para o intervalo de datas especificado do relatório.
+Você pode criar um relatório mostrando em qual estágio do modelo do ciclo de receita as pessoas estão. O relatório inclui qualquer estágio do modelo especificado, desde que exista um equilíbrio de pessoas para o intervalo de datas especificado do relatório.
 
 >[!AVAILABILITY]
 >
->
 >Nem todas as edições do Marketo incluem essa funcionalidade. Entre em contato com seu Gerente de conta para obter mais detalhes.
 
-1. Vá para **Analytics.**
+1. Vá para **Analytics**.
 
-   ** ![](assets/image2017-3-27-15-3a43-3a55.png)
-
-   **
+   ![](assets/image2017-3-27-15-3a43-3a55.png)
 
 1. Clique no relatório para **Estágio de Pessoas por Receita**.
 
-   ** ![](assets/image2017-3-27-15-3a46-3a27.png)
-
-   **
+   ![](assets/image2017-3-27-15-3a46-3a27.png)
 
 1. Clique na guia **Configuração**. Clique com o duplo no campo **Pessoa criada em** para definir o período desejado para o relatório.
 
@@ -43,11 +38,3 @@ Você pode criar um relatório mostrando em qual estágio do seu [Modelo de cicl
 1. Clique na guia **Relatório**. Agora você pode ver em qual estágio do modelo de receita seu povo está, e focar em qualquer gargalo.
 
    ![](assets/image2017-3-28-8-3a6-3a48.png)
-
-   >[!NOTE]
-   >
-   >**Mergulho profundo**
-   >
-   >
-   >Saiba como adicionar colunas e muito mais em [Relatórios básico](https://docs.marketo.com/display/docs/basic+reporting).
-
