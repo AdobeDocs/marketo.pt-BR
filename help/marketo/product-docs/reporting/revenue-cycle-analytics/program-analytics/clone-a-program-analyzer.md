@@ -3,7 +3,7 @@ unique-page-id: 11383877
 description: Clonar um analisador de Programas - Documentos do Marketing - Documentação do produto
 title: Clonar um analisador de Programas
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Depois de salvar um analisador, é fácil cloná-lo para criar um novo. Em seguida, entre e edite o novo se precisar de alterações.
 
-1. Clique no **bloco do Analytics **4.
+1. Clique no bloco **Analytics**.
 
    ![](assets/2017-05-01-08-20-37.png)
 
@@ -41,9 +41,4 @@ Depois de salvar um analisador, é fácil cloná-lo para criar um novo. Em segui
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Criar um analisador de Programas](create-a-program-analyzer.md)
-
-
+   >[Criar um analisador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
