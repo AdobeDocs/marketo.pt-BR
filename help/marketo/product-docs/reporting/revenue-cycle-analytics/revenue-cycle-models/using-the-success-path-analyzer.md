@@ -3,7 +3,7 @@ unique-page-id: 3571886
 description: Usando o Analisador de caminho de sucesso - Documentos de marketing - Documentação do produto
 title: Uso do Analisador de caminho de sucesso
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Usando o Analisador de caminho de sucesso {#using-the-success-path-analyzer}
 
-Use um Analisador de caminho de sucesso para explorar os detalhes específicos que refletem o fluxo (quantidade) e a velocidade (velocidade, em termos de dias) das pessoas nos estágios do [Modelo de ciclo de receita](understanding-revenue-models.md).
+Use um Analisador de caminho de sucesso para explorar os detalhes específicos que refletem o fluxo (quantidade) e a velocidade (velocidade, em termos de dias) das pessoas nos estágios do [Modelo de ciclo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
->[Criar um analisador de caminho bem-sucedido](create-a-success-path-analyzer.md)
+>[Criar um analisador de caminho bem-sucedido](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. Vá para **Analytics** e selecione seu **Analisador de caminho de sucesso**.
 
@@ -55,7 +55,7 @@ Use um Analisador de caminho de sucesso para explorar os detalhes específicos q
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Para os estágios com SLAs (Service-Level Agreements, contratos de nível de serviço), clique em **Ações do gráfico** >*** Mostrar SLA Devido** para mostrar todas as pessoas que já perderam um público alvo SLA dentro do período de tempo especificado.
+1. Para etapas com SLAs (Service-Level Agreements, contratos de nível de serviço), clique em **Ações do gráfico** > **Mostrar SLA Devido** para mostrar todas as pessoas que perderam um público alvo SLA dentro do período de tempo especificado.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -65,7 +65,7 @@ Use um Analisador de caminho de sucesso para explorar os detalhes específicos q
 
    As pessoas exibidas em laranja podem *ou não* ainda estar no estágio do SLA.
 
-1. Clique em **Ações de gráfico** >*** Mostrar SLA vencido** para mostrar todas as pessoas com públicos alvos SLA vencidos que ainda estão no estágio SLA ao final do período de tempo especificado.
+1. Clique em **Ações do Gráfico** > **Mostrar SLA Vencidos** para mostrar todas as pessoas com públicos alvos SLA expirados que ainda estão no estágio SLA no final do período de tempo especificado.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Use um Analisador de caminho de sucesso para explorar os detalhes específicos q
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Para imprimir o gráfico, clique em******Ações do Gráfico** > **Imprimir Gráfico**.
+1. Para imprimir o gráfico, clique em **Ações do Gráfico** > **Imprimir Gráfico**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
