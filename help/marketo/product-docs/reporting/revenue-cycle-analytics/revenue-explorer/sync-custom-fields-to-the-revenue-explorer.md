@@ -3,7 +3,7 @@ unique-page-id: 2360341
 description: Sincronizar campos personalizados com o Explorador de receitas - Documentos do marketing - Documentação do produto
 title: Sincronizar campos personalizados com o Explorador de Receita
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -48,4 +48,3 @@ A Análise do ciclo de receita pode gerar relatórios sobre campos de marketing 
    >Depois de habilitados, os dados estarão disponíveis no Análises do ciclo de receita no dia seguinte.
 
    Bom trabalho! Agora você sabe como adicionar campos personalizados à RCA.
-
