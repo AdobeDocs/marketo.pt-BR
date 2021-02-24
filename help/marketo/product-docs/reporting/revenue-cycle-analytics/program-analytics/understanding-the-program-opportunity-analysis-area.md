@@ -3,7 +3,7 @@ unique-page-id: 2951877
 description: Como entender a área de Análise da oportunidade do Programa - Documentos do Marketing - Documentação do produto
 title: Como entender a área de Análise da oportunidade do Programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 A área Análise Oportunidade de Programa permite analisar a eficácia de Programas individuais ou ver resultados resumidos por Canal de Programa.
 
-**Exemplo de perguntas comerciais que você pode responder usando essa área de análise incluem:**
+**Exemplo de perguntas comerciais que você pode responder usando essa área de análise incluem**:
 
 Quantas oportunidades foram associadas a um determinado Programa e quantas delas nós ganhamos?
 
@@ -67,11 +67,11 @@ Como com a aquisição, o valor de contribuir para as vendas feitas a um cliente
   </tr> 
   <tr> 
    <td>Custo da oportunidade</td> 
-   <td><p>A parte do custo do programa que influenciou a oportunidade. O custo pode ser dividido se houver múltiplos clientes potenciais envolvidos.</p></td> 
+   <td>A parte do custo do programa que influenciou a oportunidade. O custo pode ser dividido se houver múltiplos clientes potenciais envolvidos.</td> 
   </tr> 
   <tr> 
    <td>Oportunidades Criadas</td> 
-   <td><p>A parte do crédito que o programa recebeu por influenciar a criação da oportunidade. Pode ser uma fração se houver várias indicações envolvidas.</p></td> 
+   <td>A parte do crédito que o programa recebeu por influenciar a criação da oportunidade. Pode ser uma fração se houver várias indicações envolvidas.</td> 
   </tr> 
   <tr> 
    <td>Oportunidades vencedoras</td> 
@@ -79,28 +79,28 @@ Como com a aquisição, o valor de contribuir para as vendas feitas a um cliente
   </tr> 
   <tr> 
    <td>Pipeline criado</td> 
-   <td><p>A parcela do crédito (em valor monetário) que o programa recebeu por influenciar a criação da oportunidade. Pode ser uma fração se houver várias indicações envolvidas.</p></td> 
+   <td>A parcela do crédito (em valor monetário) que o programa recebeu por influenciar a criação da oportunidade. Pode ser uma fração se houver várias indicações envolvidas.</td> 
   </tr> 
   <tr> 
    <td>Pipeline criado - ainda aberto</td> 
    <td>A parte do crédito (em valor monetário) que o programa recebeu por influenciar a criação da oportunidade atualmente em aberto. Pode ser uma fração se houver várias indicações envolvidas.</td> 
   </tr> 
   <tr> 
-   <td><p>Receita esperada</p></td> 
+   <td>Receita esperada</td> 
    <td>A parcela do crédito (em valor monetário) que o programa recebeu por influenciar a criação da oportunidade. Receita esperada é a probabilidade da oportunidade multiplicada pelo valor da oportunidade. Pode ser uma fração se houver várias indicações envolvidas.</td> 
   </tr> 
   <tr> 
-   <td><p>Receitas De Investimento</p></td> 
-   <td><p>Rácio da parcela do crédito (em valor monetário) que o programa recebeu por influenciar as oportunidades ganhas e o custo do programa.</p></td> 
+   <td>Receitas De Investimento</td> 
+   <td>Rácio da parcela do crédito (em valor monetário) que o programa recebeu por influenciar as oportunidades ganhas e o custo do programa.</td> 
   </tr> 
   <tr> 
    <td>Receita vencedora</td> 
-   <td><p>A parte do crédito (em valor monetário) que o programa recebeu por influenciar a oportunidade vencida. Pode ser uma fração se houver várias indicações envolvidas.</p></td> 
+   <td>A parte do crédito (em valor monetário) que o programa recebeu por influenciar a oportunidade vencida. Pode ser uma fração se houver várias indicações envolvidas.</td> 
   </tr> 
  </tbody> 
 </table>
 
-** (FT) = Atribuição de Primeiro Contato, utilizada para medidas de aquisição de chumbo; (MT) = Atribuição multitoque, usada para medidas de sucesso de lead*
+_* (FT) = Atribuição de Primeiro Contato, utilizada para medidas de aquisição de chumbo; (MT) = Atribuição multitoque, usada para medidas de sucesso de lead_
 
 Abaixo está um cenário que descreve como as Unidades de Oportunidade são calculadas quando existem dois Programas que geraram leads, mas esses clientes levam a uma Oportunidade da mesma conta.
 
@@ -165,19 +165,19 @@ Enquanto as medidas (pontos azuis) são calculadas e exigem algum pensamento e e
  <tbody> 
   <tr> 
    <th>Categoria</th> 
-   <th><p>Rótulo de exibição</p></th> 
+   <th>Rótulo de exibição</th> 
   </tr> 
   <tr> 
    <td>Atributos de oportunidade</td> 
-   <td><p>Nome da Oportunidade Fechada<br>Nome da Oportunidade*<br>Nome do Proprietário da Oportunidade<br>Estágio da Oportunidade<br>Tipo de Oportunidade</p></td> 
+   <td>Nome da Oportunidade Fechada<br>Nome da Oportunidade*<br>Nome do Proprietário da Oportunidade<br>Estágio da Oportunidade<br>Tipo de Oportunidade</td> 
   </tr> 
   <tr> 
    <td>Cronograma da oportunidade</td> 
-   <td><p>Ano/Trimestre/Mês Fechado da Oportunidade<br>Ano/Trimestre/Mês Criado pela Oportunidade</p></td> 
+   <td>Ano/Trimestre/Mês Fechado da Oportunidade<br>Ano/Trimestre/Mês Criado pela Oportunidade</td> 
   </tr> 
   <tr> 
    <td>Atributos do programa</td> 
-   <td><p>Nome do Canal do programa<br>Nome do Programa</p></td> 
+   <td>Nome do Canal do programa<br>Nome do Programa</td> 
   </tr> 
   <tr> 
    <td>Cronograma do custo do programa</td> 
@@ -190,4 +190,4 @@ Enquanto as medidas (pontos azuis) são calculadas e exigem algum pensamento e e
 
 >[!MORELIKETHIS]
 >
->[Criar um relatório do Explorador de Receita](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Criar um relatório do Explorador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
