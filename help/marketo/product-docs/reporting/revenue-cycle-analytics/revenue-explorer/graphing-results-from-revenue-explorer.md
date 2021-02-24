@@ -3,7 +3,7 @@ unique-page-id: 10095084
 description: Resultados de gráficos do Revenue Explorer - Documentos do Marketing - Documentação do produto
 title: A Obter Resultados Do Explorador De Receitas
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -76,4 +76,3 @@ Por padrão, os relatórios no Gerenciador de receita são exibidos como uma tab
 1. Para voltar à visualização da tabela, clique no botão da tabela.
 
    ![](assets/two-1.png)
-
