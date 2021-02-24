@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: Entendendo a área de Análise de email - Documentos do Marketing - Documentação do produto
 title: Como entender a área de Análise do email
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 A Área de Análise de email foca em métricas de email. Este artigo apresenta todos os relatórios disponíveis nele.
 
 >[!AVAILABILITY]
->
 >
 >Isso está disponível para usuários com o complemento Select Edition ou [Análise do ciclo de receita](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Entre em contato com seu representante de vendas para obter detalhes.
 
@@ -61,4 +60,3 @@ Este relatório mostra a porcentagem do total de abertos por email para cada hor
 Este relatório mostra que dia da semana e hora do dia você está enviando seus emails. Quanto mais ecologicamente correto, mais emails enviados serão enviados nesse dia e hora específicos. O filtro atual inclui todos os emails enviados nos últimos 7 dias. O tempo está no CST.
 
 ![](assets/seven.png)
-
