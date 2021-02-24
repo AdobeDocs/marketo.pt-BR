@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Explore os detalhes do Programa e do Canal com o Programa Analyzer - Documentos do marketing - Documentação do produto
 title: Explore os detalhes do Programa e Canal com o Analisador de Programas
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,9 @@ Você pode ver as estatísticas detalhadas de programa e canal no Analisador de 
 
 >[!PREREQUISITES]
 >
->* [Criar um analisador de Programas](create-a-program-analyzer.md)
-
+>[Criar um analisador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
->
 >
 >Nem todas as edições do Marketo incluem essa funcionalidade. Entre em contato com seu gerente de conta para obter mais detalhes.
 
@@ -56,7 +54,3 @@ Você pode ver as estatísticas detalhadas de programa e canal no Analisador de 
 1. Para abrir o Explorador do Ciclo de Receita para pesquisar ainda mais fundo em uma estatística, clique nesse número na caixa de diálogo pop-up.
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)
-
-   >[!NOTE]
-   >
-   >Saiba mais sobre análises avançadas no [Explorador de Receita](https://docs.marketo.com/display/docs/revenue+explorer).
