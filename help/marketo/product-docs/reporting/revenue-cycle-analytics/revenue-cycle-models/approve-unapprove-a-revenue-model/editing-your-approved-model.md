@@ -3,7 +3,7 @@ unique-page-id: 5472402
 description: Edição do modelo aprovado - Documentos do marketing - Documentação do produto
 title: Editando o modelo aprovado
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Escolha o novo estágio para clientes potenciais atualmente no selecionado, ou selecione **Nenhum **para remover os clientes potenciais do seu modelo. Quando terminar, clique em **Mesclar**.
+1. Escolha o novo estágio para clientes potenciais atualmente no selecionado, ou selecione **Nenhum** para remover os clientes potenciais do seu modelo. Quando terminar, clique em **Mesclar**.
 
    ![](assets/three.png)
 
@@ -59,5 +59,4 @@ Você só pode ter um modelo aprovado por vez. Se quiser aprovar um modelo, mas 
 
 >[!MORELIKETHIS]
 >
->[Criar um novo modelo de receita](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-
+>[Criar um novo modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
