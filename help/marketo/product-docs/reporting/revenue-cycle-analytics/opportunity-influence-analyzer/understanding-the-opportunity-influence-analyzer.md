@@ -3,7 +3,7 @@ unique-page-id: 4718648
 description: Noções básicas sobre o Analisador de influência de oportunidade - Documentos do marketing - Documentação do produto
 title: Noções básicas sobre o analisador de influência de oportunidade
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -19,7 +19,7 @@ O Analisador de influência de oportunidade permite que você veja toda a histó
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**Observe as verificações verdes.** Eles indicam programa bem-sucedido para um dos nomes verificados à direita. A área verde indica o início e o fim da oportunidade.
+**Observe os cheques** verdes. Eles indicam programa bem-sucedido para um dos nomes verificados à direita. A área verde indica o início e o fim da oportunidade.
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ Se desejar manter esse comportamento, considere desduplicar seus dados no sistem
 
 >[!MORELIKETHIS]
 >
->* [Informe a história de marketing com um analisador de influência de oportunidade](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Criar um analisador de influência de oportunidade](create-an-opportunity-influence-analyzer.md)
-
->
-
-
+>* [Informe a história de marketing com um analisador de influência de oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Criar um analisador de influência de oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
