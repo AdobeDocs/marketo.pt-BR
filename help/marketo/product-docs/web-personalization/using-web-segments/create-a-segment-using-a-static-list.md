@@ -3,9 +3,9 @@ unique-page-id: 13795536
 description: Criar um segmento usando uma Lista estática - Documentos do Marketing - Documentação do produto
 title: Criar um segmento usando uma Lista estática
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Criar um segmento usando uma Lista estática {#create-a-segment-using-a-static-list}
 
-Segmente visitantes da Web conhecidos quando eles visitam seu site com base em se eles estão ou não em um de seus listas comerciais [estáticos](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists).
+Segmente visitantes da Web conhecidos quando eles visitam seu site com base em se eles estão ou não em um de seus listas comerciais [estáticos](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
 
 1. Vá para **Segmentos**.
 
@@ -27,7 +27,7 @@ Segmente visitantes da Web conhecidos quando eles visitam seu site com base em s
 
    ![](assets/three.png)
 
-1. Em Clientes potenciais conhecidos, arraste **Listas estáticas **para a tela.
+1. Em Clientes potenciais conhecidos, arraste **Listas estáticas** para a tela de desenho.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ Segmente visitantes da Web conhecidos quando eles visitam seu site com base em s
    >
    >O menu suspenso e/ou é só isso. Clique para selecionar **e**, **ou**, ou **e/ou**.
 
-1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir Campanha **para salvar e ir para a página Campanha.
+1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir a Campanha** para salvar e ir para a página do Campanha.
 
    ![](assets/eight-1.png)
-
