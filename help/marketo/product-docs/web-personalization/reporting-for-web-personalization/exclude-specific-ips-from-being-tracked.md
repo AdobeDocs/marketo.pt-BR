@@ -3,7 +3,7 @@ unique-page-id: 4719340
 description: Excluir IPs específicos de serem rastreados - Documentos de marketing - Documentação do produto
 title: Excluir IPs específicos de serem rastreados
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Deseja excluir seus próprios funcionários e o nome da organização do rastrea
    ![](assets/exclude-ips-after.png)
 
    Você viu quão fácil isso era? Agora você pode excluir todos os dados dos IPs adicionados, individualmente ou por intervalo.
-
