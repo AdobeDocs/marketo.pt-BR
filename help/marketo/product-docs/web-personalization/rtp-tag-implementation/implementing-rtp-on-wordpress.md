@@ -3,9 +3,9 @@ unique-page-id: 4720149
 description: Implementação da RTP no Wordpress - Documentos do Marketing - Documentação do produto
 title: Implementação da RTP no Wordpress
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,10 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
 1. Na lista de arquivos de modelo à direita do editor de texto, localize **header.php** e abra-o.
-1. Vá para **Configurações da conta.**
 
-   Se você já recebeu sua tag JavaScript do Suporte - continue com a etapa 5.
+1. Vá para **Configurações da conta**.
+
+   a. Se você já recebeu sua tag JavaScript do Suporte - continue com a etapa 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
@@ -34,11 +35,12 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
 1. Copie a tag RTP do JavaScript e cole-a nos modelos do site.
 
-   Verifique se é o primeiro script no cabeçalho da página - entre as tags **`<head> </head>`**.
+   a. Verifique se é o primeiro script no cabeçalho da página - entre as tags **`<head> </head>`**.
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
 1. Clique em **Atualizar arquivo** para o arquivo header.php.
-1. Verifique se ele aparece em todas as landings page e subdomínios `pages including`.
 
-   Você pode fazer isso clicando com o botão direito do mouse na sua página `website’s`. Vá para **Fonte de página de Visualização.** Procure  **** RTP para localizar a tag.
+1. Verifique se ele aparece em todas as páginas, incluindo landings page e subdomínios.
+
+   a. Você pode fazer isso clicando com o botão direito do mouse na página do seu site. Vá para **Fonte de página de Visualização.** Procure  **** RTP para localizar a tag.
