@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: Criar um segmento da Web básico - Documentos do Marketing - Documentação do produto
 title: Criar um segmento básico da Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Vamos criar um segmento básico direcionando todos os visitantes da Web dos EUA 
 
    ![](assets/segment-name.png)
 
-1. Arraste **Localização **do menu direito e solte-o no editor de segmentos.
+1. Arraste **Location** do menu à direita e solte-o no editor de segmentos.
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,17 +39,17 @@ Vamos criar um segmento básico direcionando todos os visitantes da Web dos EUA 
    >
    >O número de cidades é limitado a 300 por segmento.
 
-1. Arraste **Indústrias **do menu à direita e solte-o no editor de segmentos.
+1. Arraste **Industries** do menu à direita e solte-o no editor de segmentos.
 
    ![](assets/industries-hand.jpg)
 
-1. Selecione Setores para adicionar no menu suspenso. Selecione o **Financial Services ****Setor**.
+1. Selecione Setores para adicionar no menu suspenso. Selecione **Setor de Serviços Financeiros**.
 
    ![](assets/segment-industries.png)
 
    Agora você configura um segmento básico para todos os prospectos que visitam seu site dos EUA e da Indústria de Finanças.
 
-1. Clique em** Salvar **para salvar o segmento ou **Salvar e definir Campanha** para ir para a página Campanha.
+1. Clique em **Salvar** para salvar o segmento ou em **Salvar e definir a Campanha** para ir para a página do Campanha.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
@@ -57,9 +57,4 @@ Agora você segmentou seus visitantes dos Estados Unidos, vá em frente e adicio
 
 >[!MORELIKETHIS]
 >
->* [Segmentos da Web](https://docs.marketo.com/x/9QFI)
-
->
-
-
-
+>[Segmentos da Web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
