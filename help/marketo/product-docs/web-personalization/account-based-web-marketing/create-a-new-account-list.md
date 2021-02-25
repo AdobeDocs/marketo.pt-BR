@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: Criar uma nova Lista de conta - Documentos do Marketing - Documentação do produto
 title: Criar uma nova Lista de conta
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ Crie e carregue uma lista de nomes de organizações e domínios para público a
    >
    >**Qual é o formato do arquivo CSV?**
    >
-   >
    >Verifique se o arquivo CSV de conta nomeado atende aos seguintes requisitos:
    >
    >* Salvo como um formato CSV
@@ -50,8 +49,6 @@ Crie e carregue uma lista de nomes de organizações e domínios para público a
 
    >[!NOTE]
    >
-   >**Exemplo**
-   >
    >**Exemplo do arquivo CSV**
    >
    >* Linha 1 Coluna A valor = Organização
@@ -62,16 +59,16 @@ Crie e carregue uma lista de nomes de organizações e domínios para público a
    >* País e Estado são valores opcionais.
 
       >
-      >  
-   * Para o nome do país, use o nome completo do país ou o código de abreviação. Eg. Estados Unidos ou EUA.
-   >  * Para um Estado dos EUA, use o código de abreviação de duas letras, isto é, CA. Somente os estados dos EUA são reconhecidos.
+      >   
+      * Para o nome do país, use o nome completo do país ou o código de abreviação. Eg. Estados Unidos ou EUA.
+      >   * Para um Estado dos EUA, use o código de abreviação de duas letras, isto é, CA. Somente os estados dos EUA são reconhecidos.
 
-   >    
+   >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
 ## Editar uma Lista de conta {#edit-an-account-list}
 
-Na página **Listas de conta**, clique no ícone **Editar **na lista.
+Na página **Listas de conta**, clique no ícone **Editar** na lista.
 
 ![](assets/create-new-account-list-edit.jpg)
 
@@ -83,7 +80,7 @@ O arquivo CSV substituirá o arquivo existente. A lista existente permanecerá a
 
 ## Excluir uma Lista de conta nomeada {#delete-a-named-account-list}
 
-1. Na página **Listas da conta **clique no **ícone **Excluir **lista que você deseja excluir.
+1. Na página **Listas de conta**, clique no ícone Excluir da lista que deseja excluir.
 
    ![](assets/create-new-account-list-delete.jpg)
 
@@ -93,6 +90,4 @@ O arquivo CSV substituirá o arquivo existente. A lista existente permanecerá a
 
 >[!MORELIKETHIS]
 >
->* [Criar um segmento usando uma Lista de conta](create-a-segment-using-an-account-list.md)
->* [Visualização de uma Lista de conta nomeada](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
-
+>[Criar um segmento usando uma Lista de conta](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
