@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Relatórios RTP personalizados no Google Universal Analytics - Documentos do Marketing - Documentação do produto
 title: Relatórios RTP personalizados no Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Integrar RTP ao Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrar RTP ao Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-Esta publicação explica como configurar relatórios personalizados RTP para o Google Universal Analytics (GUA).  Os dados enviados de RTP para GUA podem ser configurados como dois relatórios personalizados separados chamados:
+Este artigo explica como configurar relatórios personalizados RTP para o Google Universal Analytics (GUA).  Os dados enviados de RTP para GUA podem ser configurados como dois relatórios personalizados separados chamados:
 
 * RTP B2B
 * Participação no RTP
@@ -25,31 +25,32 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
 ## Configuração de um Relatório Personalizado {#setting-up-a-custom-report}
 
 1. Efetue login em Google Analytics.
-1. Clique em **Personalização **no menu superior.
-1. Clique em **+Novo Relatório Personalizado.**
 
-** ![](assets/image2015-3-22-16-3a10-3a48.png)
+1. Clique em **Personalização** no menu superior.
 
-**
+1. Clique em **+Novo relatório personalizado**.
+
+![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## Relatório RTP B2B {#rtp-b-b-report}
 
 1. Nomeie o relatório **Relatório RTP B2B**.
-1. Nomear a 1ª guia **Indústria **
 
-   1. (Observação: você **Duplicado essa guia** e cria outros semelhantes - etapa 5)
+1. Nomeie a 1ª guia **Industry**.
 
-1. Selecione o tipo de relatório** Explorer**.\
-   ** ![](assets/image2015-3-22-16-3a15-3a25.png)
+>[!NOTE]
+>
+>Você **Duplicado essa guia** e cria outros semelhantes - etapa 5)
 
-   **
+1. Selecione o tipo de relatório **Explorer**.
+
+   ![](assets/image2015-3-22-16-3a15-3a25.png)
 
 1. Na seção **Grupos de métricas**, selecione as métricas relevantes para seu negócio.
 
-   1. Recomendamos o seguinte:\
-      ** ![](assets/image2015-3-22-16-3a16-3a40.png)
+   a. Recomendamos o seguinte:
 
-      **
+   ![](assets/image2015-3-22-16-3a16-3a40.png)
 
 1. Duplicado esta guia 4 vezes e nomeie-as:
 
@@ -72,7 +73,7 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
     </div></th> 
    <th> 
     <div>
-      Detalhamentos do Dimension 
+      Detalhamentos do Dimension
     </div></th> 
   </tr> 
  </thead> 
@@ -100,21 +101,28 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
  </tbody> 
 </table>
 
-1. Não defina nenhum filtros e defina este relatório como disponível para **Todos os dados do site da Web **(ou altere se relevante para uma conta específica do Analytics).
-1. Clique em **Salvar**.\
+1. Não defina nenhum filtros e defina esse relatório como disponível para **Todos os dados do site** (ou altere se for relevante para uma conta específica do Analytics).
+
+1. Clique em **Salvar**.
+
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## Relatório de envolvimento RTP {#rtp-engagement-report}
 
-1. Nomeie o relatório **Relatório de Envolvimento RTP.**
-1. Defina o nome da primeira guia como **Todo o envolvimento**
+1. Nomeie o relatório **Relatório de envolvimento RTP**.
 
-   1. (Observação: você vai Duplicado essa guia e criar outras semelhantes - etapa 5)
+1. Defina o nome da primeira guia como **Todo o envolvimento**.
 
-1. Selecione o tipo de relatório **Explorer**.\
+>[!NOTE]
+>
+>Você vai Duplicado essa guia e criar outras semelhantes - etapa 5)
+
+1. Selecione o tipo de relatório **Explorer**.
+
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Na seção Grupos de métricas, selecione as métricas relevantes para seu negócio. Esta é uma recomendação:\
+1. Na seção Grupos de métricas, selecione as métricas relevantes para seu negócio. Esta é uma recomendação:
+
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. Duplicado esta guia 4 vezes e nomeie-as:
@@ -125,7 +133,7 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
    1. **Participação por Categoria**
    1. **Participação por ABM**
 
-   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
+   ![](assets/image2015-3-22-16-3a26-3a21.png)
 
 1. Na seção **Detalhamentos do Dimension** defina as dimensões relevantes para cada guia, como a seguir:
 
@@ -167,7 +175,6 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
 </table>
 
 1. Defina os seguintes filtros:
-1. 
 
 <table> 
  <thead> 
@@ -212,7 +219,7 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
  </tbody> 
 </table>
 
-1. Defina este relatório para estar disponível para **Todos os dados do site **(ou altere se necessário)
+1. Defina esse relatório como disponível para **Todos os dados do site** (ou altere se necessário).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
@@ -222,7 +229,6 @@ Esta publicação explica como configurar relatórios personalizados RTP para o 
 
 >[!MORELIKETHIS]
 >
->[Integrar RTP ao Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrar RTP ao Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
->[Painéis RTP personalizados no Google Universal Analytics](custom-rtp-dashboards-in-google-universal-analytics.md)
-
+>[Painéis RTP personalizados no Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
