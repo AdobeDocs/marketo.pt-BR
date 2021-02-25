@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Painéis RTP personalizados no Google Universal Analytics - Documentos do Marketing - Documentação do produto
 title: Painéis RTP personalizados no Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Integrar RTP ao Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrar RTP ao Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-Esta publicação explica como configurar painéis RTP no Google Universal Analytics (GUA).  Os dados enviados de RTP para GUA podem ser configurados como dois painéis personalizados chamados:
+Esta publicação explica como configurar painéis RTP no Google Universal Analytics (GUA). Os dados enviados de RTP para GUA podem ser configurados como dois painéis personalizados chamados:
 
 * RTP B2B
 * Participação no RTP
 
 ## Configuração de um Painel personalizado {#setting-up-a-custom-dashboard}
 
-1. Faça logon em Google Analytics. Clique em **Relatórios **no menu superior. Clique em **Painéis **e **+Novo Painel personalizado.**
+1. Efetue login em Google Analytics. Clique em **Relatórios** no menu superior. Clique em **Painéis** e **+Novo Painel personalizado**.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
 1. Selecione **Área em branco**, adicione **Nome do Painel** e clique em **Criar Painel**.
 
-1. Clique em **Adicionar Widget** para criar um novo widget.\
+1. Clique em **Adicionar Widget** para criar um novo widget.
+
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## PAINEL RTP B2B {#rtp-b-b-dashboard}
@@ -45,7 +46,7 @@ O painel consiste de 3 colunas
 * Segmentação
 * Detalhamento de firmware
 
-1. Crie um novo painel chamado **Painel RTP B2B **e defina os seguintes widgets:
+1. Crie um novo painel chamado **Painel RTP B2B** e defina os seguintes widgets:
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -54,7 +55,7 @@ O painel consiste de 3 colunas
   <tr> 
    <th> 
     <div>
-      Coluna 1 - Fontes de tráfego 
+      Coluna 1 - Fontes de tráfego
     </div></th> 
    <th> 
     <div> <strong>Coluna 2 - Segmentação</strong> 
@@ -151,11 +152,9 @@ O painel consiste de 3 colunas
 
 Este painel permite que os usuários analisem o desempenho da campanha RTP e os envolvimentos do mecanismo de recomendação. Ele fornece comparação de média. duração da sessão e páginas por sessão entre:
 
-* 
-
-   * Desengajado
-   * Envolvido (impressões e cliques em uma campanha personalizada)
-   * Cliques no mecanismo de recomendação e no conteúdo recomendado superior
+* Desengajado
+* Envolvido (impressões e cliques em uma campanha personalizada)
+* Cliques no mecanismo de recomendação e no conteúdo recomendado superior
 
 Crie um novo painel chamado **Painel de envolvimento RTP** e defina os seguintes widgets:
 
@@ -265,7 +264,6 @@ Crie um novo painel chamado **Painel de envolvimento RTP** e defina os seguintes
 
 >[!MORELIKETHIS]
 >
->[Integrar RTP ao Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrar RTP ao Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[Relatórios RTP personalizados no Google Universal Analytics](custom-rtp-reports-in-google-universal-analytics.md)
-
+>[Relatórios RTP personalizados no Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
