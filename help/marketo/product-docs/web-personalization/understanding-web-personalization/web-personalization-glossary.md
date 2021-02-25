@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Glossário de personalização da Web - Documentos do Marketing - Documentação do produto
 title: Glossário de personalização da Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Alguns insights sobre o mundo e a linguagem do Marketing Web Personalization.
 | **ISP** | Provedor de serviço da Internet |
 | **Visitante conhecido** | Um visitante da Web que concluiu um formulário e deixou seus detalhes (endereço de email) em seu site ou clicou em um link em um email do Marketo. |
 | **Lista da conta** | Uma lista de nomes de conta / organização principais. Também conhecida como uma lista de marketing baseado em conta (ABM). |
-| **Segmentos** | Uma coleção de visitantes que atendem aos critérios especificados definidos na página [‘Definir um segmento’](../../../product-docs/web-personalization/using-web-segments/web-segments.md). |
+| **Segmentos** | Uma coleção de visitantes que atendem aos critérios especificados definidos na página [‘Definir um segmento’](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
 | **Teste de divisão** | Um experimento de teste com duas ou mais variantes para medir a diferença nos resultados. O objetivo é identificar alterações nas páginas da Web que aumentem ou maximizem o resultado do interesse. |
 | **Caractere curinga** | Um caractere curinga (* é usado) que é usado antes ou depois de uma string para substituir qualquer outro caractere ou caracteres em uma string. Veja os exemplos abaixo. |
 
@@ -42,4 +42,3 @@ Corresponder todos os visitantes nos URLs de página que são start com https://
 Corresponder a todos os visitantes nos URLs de página que incluem a palavra backup (por exemplo, [https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
 
 ![](assets/wildcard-example-3.png)
-
