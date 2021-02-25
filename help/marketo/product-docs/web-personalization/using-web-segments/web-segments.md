@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Segmentos da Web - Documentos do Marketing - Documentação do produto
 title: Segmentos da Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Na Personalização da Web, um visitante pode corresponder a mais de um segmento
  </tbody> 
 </table>
 
-Consulte [como criar e visualização rótulos de segmentos](label-your-segment.md)
+Consulte [como criar e visualização rótulos de segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 **Segmentos - Painel direito**
 
@@ -108,23 +108,32 @@ Defina parâmetros gerais para o seu segmento:
 >1. Usar todos os Filtros (1 e 2 e 3...)
 >1. Usar quaisquer Filtros (1 ou 2 ou 3...)
 >1. Filtros avançados (usando e/ou expressão)
->
->    Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.
->
->    * 1 e 2 e 3
->    * 1 ou 2 ou 3
->
->    Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:
->
->    * 1 e (2 ou 3)
->    * (1 e 2) ou 3
->
->    Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.
->
->    * (1 e 2) ou (3 e 4)
->    * 1 e 2 ou 3 e 4)
->
->    Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
+
+   >
+   >    
+   Filtros avançados permitem controlar a condição do segmento. Insira os números de filtro separados por &quot;e&quot; e &quot;ou&quot;.
+   >
+   >    
+   * 1 e 2 e 3
+   >    * 1 ou 2 ou 3
+
+   >
+   >    Misturar &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer a intenção lógica. por exemplo, &quot;1 ou 2 e 3&quot; deve ser escrito como uma das seguintes menções:
+   >
+   >    
+   * 1 e (2 ou 3)
+   >    * (1 e 2) ou 3
+
+   >
+   >    Os parênteses aninhados são aceitos para uma lógica mais complicada, por exemplo.
+   >
+   >    
+   * (1 e 2) ou (3 e 4)
+   >    * 1 e 2 ou 3 e 4)
+
+   >
+   >    Verifique sua lógica após qualquer inserção, exclusão ou reordenação.
+
 
 Arraste e solte os atributos do segmento da coluna do lado direito no editor de segmentos do lado esquerdo:
 
@@ -170,18 +179,18 @@ Na seção **Segmentação do Perfil**, marque a caixa ao lado de **Grupo da Org
    * Empresa - Inclui organizações com mais de 1.000 funcionários e receita superior a US$ 250 milhões
    * SMB - Inclui apenas pequenas e médias empresas neste segmento
 
-**Contas nomeadas**
+**-Contas Nomeadas-**
 
 **Organizações**
 
 * **É dessas empresas (nomes específicos)**
 
    * Selecione empresa a público alvo no menu suspenso &#39;Selecionar empresa para adicionar&#39;.
-   * Você pode digitar o nome exato da organização que deseja público alvo. *É recomendável que *sempre *use Listas de Conta Nomeada em vez de digitar os nomes manualmente para melhores correspondências (consulte abaixo).*
+   * Você pode digitar o nome exato da organização que deseja público alvo. *É recomendado que _sempre_ use Listas de conta nomeada em vez de digitar os nomes manualmente para obter melhores correspondências (consulte abaixo).
 
 **Lista de conta nomeada**
 
-Selecione de uma [Lista Conta nomeada](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) para segmentar as principais contas direcionadas
+Selecione de uma [Lista Conta nomeada](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) para segmentar as principais contas direcionadas.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
@@ -199,7 +208,7 @@ Exclui Provedores de serviço da Internet (ISPs) do segmento.
 
 A Personalização da Web se integra ao seu Banco de Dados de Marketing, permitindo que você segmente e personalize campanhas por atributos e dados de pessoas conhecidas.
 
-Selecione Banco de dados e selecione um campo de dados de pessoa no menu suspenso. Selecione a variável   **+** para adicionar campos do menu suspenso.
+Selecione Banco de dados e selecione um campo de dados de pessoa no menu suspenso. Selecione **+** para adicionar campos do menu suspenso.
 
 ![](assets/seven.png)
 
@@ -262,7 +271,7 @@ Arraste e solte o Mobile OS no editor de segmentos
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Tipo de visitante**
+* **Tipo de visitante**<br />
 
    **Sistema operacional**  móvel - Na caixa suspensa, selecione um ou mais sistemas operacionais móveis listados. O SO móvel selecionado é exibido abaixo.
 
@@ -319,8 +328,8 @@ Não é possível excluir um segmento associado a uma campanha. Primeiro, é nec
 Ótimo! Agora que você entende a seção Segmentos, vamos aprender sobre campanhas.
 
 >[!MORELIKETHIS]
-* [Criar um segmento básico da Web](create-a-basic-web-segment.md)
-* [Criar uma nova Campanha da Web de diálogo](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Criar uma nova Campanha da Web na zona](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Criar uma nova Campanha Web de widget](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Criar um segmento básico da Web](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Criar uma nova Campanha da Web de caixa de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Criar uma nova Campanha da Web na zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Criar uma nova Campanha Web de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
