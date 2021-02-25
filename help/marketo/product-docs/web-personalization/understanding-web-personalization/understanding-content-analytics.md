@@ -3,7 +3,7 @@ unique-page-id: 10093159
 description: Noções Gerais da Análise de Conteúdo - Documentos do Marketing - Documentação do Produto
 title: Noções básicas sobre análise de conteúdo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -100,6 +100,6 @@ Na página Análises de conteúdo, clique no ícone Excluir do Conteúdo que des
 
 >[!MORELIKETHIS]
 >
->* [Ativar a barra de recomendação de conteúdo](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [Ativar conteúdo preditivo para mídias avançadas da Web](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [Ativar a barra de recomendação de conteúdo](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [Ativar conteúdo preditivo para mídias avançadas da Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
