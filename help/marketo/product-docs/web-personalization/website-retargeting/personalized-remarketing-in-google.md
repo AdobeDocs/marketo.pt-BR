@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Comentários personalizados no Google - Documentos do Marketing - Documentação do produto
 title: Comentários personalizados no Google
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ A recomercialização personalizada permite que você se envolva novamente com s
 
 >[!PREREQUISITES]
 >
->* Conclua a configuração [Redefinição de metas com dados de personalização da Web](retargeting-with-web-personalization-data.md)
->* Revisar a documentação [Compartilhamento com a Ajuda do Google Analytics](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)
-
->
-
+>* Conclua a configuração [Redefinição de metas com dados de personalização da Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Revise a documentação [Compartilhamento com a Ajuda do Google Analytics](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645).
 
 
 ## Criando uma Audiência de recomercialização no Google {#creating-a-remarketing-audience-in-google}
@@ -34,8 +31,7 @@ A recomercialização personalizada permite que você se envolva novamente com s
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
-1. **Configuração** do link: Link para sua conta do Google Adwords
-1. **Definir Audiência**: Clique em  **Criar novo**.
+1. **Configuração** do link: Link para sua conta do Google Adwords. **Definir Audiência**: Clique em  **Criar novo**.
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
@@ -59,9 +55,6 @@ No Google Universal Analytics:
 >* Categoria do evento: RTP-Segment, RTP-Campanha RTP-Remarketing
 >* Etiqueta do evento: Nome do segmento, Nome da Campanha, Nome da Audiência segmentada
 
->
-
-
 
 **Exemplo de Audiência de recomercialização dos dados de Audiência segmentados RTP**
 
@@ -77,7 +70,7 @@ No Google Universal Analytics:
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
 1. Clique em **Sequências**.
-1. Selecione** RTP-Indústria**.
+1. Selecione **RTP-Industry**.
 1. Digite **Nome do Setor** (por exemplo, Serviços Financeiros, Educação...).
 1. Clique em **Aplicar**.
 1. Digite um **Nome da Audiência**. Clique em **Salvar**.
@@ -105,6 +98,6 @@ No Google Universal Analytics:
 
 >[!MORELIKETHIS]
 >
->* [Redefinição de metas com dados de personalização da Web](retargeting-with-web-personalization-data.md)
->* [Comentários personalizados no Facebook](personalized-remarketing-in-facebook.md)
+>* [Redefinição de metas com dados de personalização da Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Comentários personalizados no Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
