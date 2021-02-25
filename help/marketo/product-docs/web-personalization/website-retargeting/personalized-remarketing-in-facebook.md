@@ -3,7 +3,7 @@ unique-page-id: 4720917
 description: Comentários personalizados no Facebook - Documentos de marketing - Documentação do produto
 title: Comentários personalizados no Facebook
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -17,16 +17,14 @@ A recomercialização personalizada permite que você se envolva novamente com s
 
 >[!PREREQUISITES]
 >
->* Conclua a configuração [Redefinição de metas com dados de personalização da Web](retargeting-with-web-personalization-data.md)
->* Revise a documentação do [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook em Audiências personalizadas](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)e Comentários
-
->
-
+>* Conclua a configuração [Redefinição de metas com dados de personalização da Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Consulte a documentação do [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook no Audiência](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Personalizado e no Compartilhamento.
 
 
 ## Criação de uma Audiência no Facebook {#creating-an-audience-in-facebook}
 
 1. No Facebook, vá para sua [guia Audiência](https://www.facebook.com/ads/audience_manager) no Gerenciador de publicidade.
+
 1. Clique em **Ferramentas** e selecione **Audiência**.
 
    ![](assets/one-1.png)
@@ -39,7 +37,7 @@ A recomercialização personalizada permite que você se envolva novamente com s
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Na lista de tráfego do site, selecione** Combinação personalizada**.
+1. Na lista de tráfego do site, selecione **Combinação personalizada**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -47,7 +45,7 @@ A recomercialização personalizada permite que você se envolva novamente com s
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. Na lista do Evento, selecione **RTP Remarketing **e selecione um parâmetro.
+1. Na lista do Evento, selecione **Registro RTP** e selecione um parâmetro.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
@@ -132,10 +130,6 @@ Para obter detalhes adicionais, consulte [a documentação do Facebook](https://
 
 >[!MORELIKETHIS]
 >
->* [Redefinição de metas com dados de personalização da Web](retargeting-with-web-personalization-data.md)
->* [Comentários personalizados no Google](personalized-remarketing-in-google.md)
-
->
-
-
+>* [Redefinição de metas com dados de personalização da Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Comentários personalizados no Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 
