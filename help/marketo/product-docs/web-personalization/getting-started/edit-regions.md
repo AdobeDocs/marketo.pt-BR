@@ -3,7 +3,7 @@ unique-page-id: 4720224
 description: Editar regiões - documentos do Marketo - Documentação do produto
 title: Editar regiões
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Deseja alterar as configurações regionais do usuário para ver apenas os dados
 >[!NOTE]
 >
 >Selecionar os Estados Unidos abrirá na parte inferior da página todas as opções de Estados Unidos a serem selecionadas.
-
