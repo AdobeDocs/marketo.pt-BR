@@ -3,7 +3,7 @@ unique-page-id: 10097163
 description: Ativação ou desativação da tag RTP JavaScript - Documentos do Marketing - Documentação do produto
 title: Ativação ou desativação da tag RTP JavaScript
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -34,4 +34,3 @@ A tag RTP JavaScript controla se a Personalização da Web acompanha ou não a a
 1. Para habilitar a tag RTP, em Configuração de domínio e domínio, em Tag, selecione a alternância **On**.
 
    Fácil.
-
