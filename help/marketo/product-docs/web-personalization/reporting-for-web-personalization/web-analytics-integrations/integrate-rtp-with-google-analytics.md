@@ -3,9 +3,9 @@ unique-page-id: 2949158
 description: Integrar RTP aos Google Analytics - Documentos do Marketing - Documentação do produto
 title: Integrar RTP a Google Analytics
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Veja como integrar [Personalização da Web com o Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+Veja como integrar [Personalização da Web com o Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## Introdução {#introduction}
 
@@ -66,19 +66,23 @@ Meça suas campanhas RTP e correlacione-as com a média geral do site. Saiba com
 
 ## Configuração do RTP com Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Adicione o email [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) como um usuário do Read &amp; Analyze à sua conta GA. Para obter mais detalhes, consulte [here](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Adicione o email rtp.ga2@gmail.com como usuário do Read &amp; Analyze à sua conta GA. Para obter mais detalhes, consulte [here](https://support.google.com/analytics/answer/2884495?hl=en).
+
 1. Na sua conta RTP. Vá para **Configurações da conta**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Em **Configurações da conta**, **Domínio** e **Analytics**
-1. Clique em Google Analytics**.**
+1. Em **Configurações da conta**, **Domínio** e **Analytics**.
+
+1. Clique em **Google Analytics**.
+
 1. Ative as **Variáveis personalizadas** e **Eventos** relevantes para anexar esses dados do RTP a Google Analytics.
+
 1. Insira o número **Slot** para enviar dados de variável personalizados (o padrão é 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-Clique em **SALVAR**.
+1. Clique em **Salvar**.
 
 >[!NOTE]
 >
