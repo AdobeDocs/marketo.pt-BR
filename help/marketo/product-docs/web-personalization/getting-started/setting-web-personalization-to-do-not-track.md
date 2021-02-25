@@ -3,7 +3,7 @@ unique-page-id: 11382593
 description: Configuração da personalização da Web para não rastrear - Documentos do Marketing - Documentação do produto
 title: Configuração da personalização da Web para não rastrear
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Em Personalização da Web e Conteúdo previsível, um comerciante pode definir 
    >Definir a alternância como On pode afetar o valor e a funcionalidade do Marketo em áreas específicas.
 
 1. Para desativar o botão Honor DNT e ignorar a configuração Do No Track (DNT) do navegador, selecione **Off** em Honor DNT.
-
