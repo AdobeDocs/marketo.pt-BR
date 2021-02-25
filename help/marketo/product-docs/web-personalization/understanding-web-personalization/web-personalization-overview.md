@@ -3,7 +3,7 @@ unique-page-id: 3571900
 description: Visão geral da personalização da Web - Documentos do Marketing - Documentação do produto
 title: Visão geral da personalização da Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -15,34 +15,34 @@ ht-degree: 0%
 
 ## Introdução {#introduction}
 
-Para novos clientes de marketing, a Personalização em tempo real é dividida em quatro aplicativos, acessados com estes dois blocos: Personalização da Web e Conteúdo`<sup>AI</sup>`.
+Para novos clientes de marketing, a Personalização em tempo real é dividida em quatro aplicativos, acessados com estes dois blocos: Personalização da Web e ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->A Personalização da Web e o Conteúdo`<sup>AI</sup>` estão disponíveis em todos os idiomas compatíveis com o marketing (inglês, francês, alemão, japonês, português, espanhol).
+>Personalização da Web e ContentAI estão disponíveis em todos os idiomas compatíveis com o marketing (inglês, francês, alemão, japonês, português, espanhol).
 
 Os clientes atuais continuam a acessar os aplicativos por meio do bloco Personalização em tempo real até a renovação, e, nesse momento, usarão o logon acima.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Quando você clica no bloco Personalização da Web, a página Painel é exibida. Clique no título Conteúdo`<sup>AI</sup>` e vá diretamente para a página Recommendations de conteúdo.
+Quando você clica no bloco Personalização da Web, a página Painel é exibida. Clique no bloco ContentAI e vá diretamente para a página Content Recommendations.
 
 Os quatro aplicativos são:
 
 * Personalização da Web
 * Marketing na Web baseado em conta
 * Redefinição de metas do site
-* Conteúdo`<sup>AI</sup>`
+* ContentAI
 
-O bloco de personalização da Web** **é seu ponto de acesso para** **criar campanhas personalizadas da Web.** **Marketing na Web baseado em conta e redefinição de metas na Web. É possível adicionar conteúdo à página Análises de conteúdo.
+O bloco **Personalização da Web** é seu ponto de acesso para criar campanhas personalizadas da Web. Marketing na Web baseado em conta e redefinição de metas na Web. É possível adicionar conteúdo à página Análises de conteúdo.
 
 **O Web** Marketingworks baseado em conta com personalização da Web e recursos Contas nomeadas. A página Contas Nomeadas fornece informações gráficas sobre clientes existentes, total de participações e tendências organizacionais, bem como uma lista das contas. Também é possível criar novas contas nomeadas.
 
 **O** redirecionamento do site lhe dá o poder de recomercializar audiências segmentadas. Você pode definir segmentos, mas não pode usar Contas Nomeadas no filtro.
 
-**Contém`<sup>AI</sup>`** o local para fornecer recomendações de conteúdo. Você pode adicionar conteúdo facilmente à página do Content Recommendations.
+**O** ContentAI é o local para fornecer recomendações de conteúdo. Você pode adicionar conteúdo facilmente à página do Content Recommendations.
 
 >[!NOTE]
 >
@@ -61,9 +61,6 @@ A guia Organizações exibe todos os detalhes (nome, local, atividade e carimbo 
 >* Mais ativo: as organizações mais ativas na tabela, com base no número de visualizações de página
 >* Mais recente: as organizações mais recentes na tabela (padrão)
 >* Para obter insights valiosos, filtre de acordo com os mais ativos
-
->
-
 
 
 **Organizações - Painel direito**
@@ -172,4 +169,3 @@ A página em tempo real é dividida em 6 tabelas informativas de detalhes do vis
   </tr> 
  </tbody> 
 </table>
-
