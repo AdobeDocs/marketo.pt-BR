@@ -3,7 +3,7 @@ unique-page-id: 7504051
 description: Gerenciar dados da pessoa - Documentos do marketing - Documentação do produto
 title: Gerenciar dados da pessoa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -15,10 +15,12 @@ ht-degree: 0%
 
 Aproveite os dados pessoais para personalização na Web selecionando os campos de pessoa a serem usados na segmentação.
 
-1. Vá para **Configurações da conta**.\
+1. Vá para **Configurações da conta**.
+
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Vá para **Banco de Dados**.\
+1. Vá para **Banco de Dados**.
+
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Adicionando um campo Nova Pessoa {#adding-a-new-person-field}
@@ -29,11 +31,7 @@ Aproveite os dados pessoais para personalização na Web selecionando os campos 
 
    >[!NOTE]
    >
-   >
-   >    
-   >    
-   >    * Um novo campo é adicionado em um estado pendente e pode levar até 24 horas para ser ativado.
-
+   >Um novo campo é adicionado em um estado pendente e pode levar até 24 horas para ser ativado.
 
 ## Excluindo um campo de pessoa {#deleting-a-person-field}
 
@@ -45,13 +43,11 @@ Aproveite os dados pessoais para personalização na Web selecionando os campos 
    >
    >**Gerenciando seus campos de Dados de pessoa**
    >
-   >    
-   >    
-   >    * Somente os Campos de Dados de Pessoa podem ser incluídos
-   >    * É possível adicionar até 30 Campos de Dados de Pessoa
-   >    * A adição de novos campos pode levar até 24 horas para ser ativada
-   >    * O comprimento máximo dos tipos de cadeia de caracteres é de 255 caracteres
-   >    * Campos ocultos serão removidos automaticamente
+   >* Somente os Campos de Dados de Pessoa podem ser incluídos
+   >* É possível adicionar até 30 Campos de Dados de Pessoa
+   >* A adição de novos campos pode levar até 24 horas para ser ativada
+   >* O comprimento máximo dos tipos de cadeia de caracteres é de 255 caracteres
+   >* Campos ocultos serão removidos automaticamente
 
 
 <table> 
@@ -108,9 +104,4 @@ Os seguintes campos de cliente potencial são fornecidos da caixa para novas con
 
 >[!MORELIKETHIS]
 >
->* [Criar um segmento usando dados de pessoa conhecida](create-a-segment-using-known-person-data.md)
-
->
-
-
-
+>[Criar um segmento usando dados de pessoa conhecida](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
