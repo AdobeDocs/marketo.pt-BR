@@ -3,7 +3,7 @@ unique-page-id: 7504343
 description: Criar um segmento usando dados de pessoa conhecida - documentos de marketing - documentação do produto
 title: Criar um segmento usando dados de pessoa conhecida
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Veja como criar um segmento usando valores de Dados de pessoa conhecida.
 
 >[!PREREQUISITES]
 >
->[Gerenciar dados da pessoa](manage-person-data.md)
+>[Gerenciar dados da pessoa](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
 1. Vá para **Segmentos**.
 
@@ -31,7 +31,7 @@ Veja como criar um segmento usando valores de Dados de pessoa conhecida.
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. Na Segmentação do Perfil, arraste **Banco de dados **sobre para a tela.
+1. Na Segmentação do Perfil, arraste **Banco de Dados** até a tela de desenho.
 
    ![](assets/four-1.png)
 
@@ -57,9 +57,8 @@ Veja como criar um segmento usando valores de Dados de pessoa conhecida.
 
    ![](assets/nine.png)
 
-1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir Campanha **para salvar e ir para a página Campanha.
+1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir a Campanha** para salvar e ir para a página do Campanha.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
    Agora você configura uma segmentação de segmentos para dados de Pessoa conhecida.
-
