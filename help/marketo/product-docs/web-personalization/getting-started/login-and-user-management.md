@@ -3,9 +3,9 @@ unique-page-id: 7513771
 description: Gerenciamento de logon e usuário - Documentos do marketing - Documentação do produto
 title: Logon e gerenciamento de usuários
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Insira um Nome de função e selecione Permissões. Clique em **Criar** (esta função deve ser [aplicável a todos os espaços de trabalho](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Insira um Nome de função e selecione Permissões. Clique em **Criar** (esta função deve ser [aplicável a todos os espaços de trabalho](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Para conceder aos usuários permissão para acessar tudo em Definição de metas e personalização, marque *all* as caixas de seleção.
+   >Para conceder aos usuários permissão para acessar tudo em Definição de metas e personalização, marque _all_ as caixas de seleção.
 
 ## Personalização da Web e permissões de usuário de conteúdo preditivo {#web-personalization-and-predictive-content-user-permissions}
 
