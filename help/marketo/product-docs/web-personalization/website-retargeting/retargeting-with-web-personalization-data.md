@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Redefinição de metas com dados de personalização da Web - Documentos de marketing - Documentação do produto
 title: Redefinição de metas com dados de personalização da Web
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,14 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >A redefinição de metas do site agora se enquadra no bloco Personalização da Web. Se você só comprou o Redirecionamento, verá este bloco e acessa o produto de Personalização da Web com **only** Recursos de redirecionamento ativados. Isso fornece acesso às configurações da conta, à página de redefinição de metas, aos segmentos e às páginas de rastreamento adicionais.
 
 Públicos alvos de remarketing prospectos que visitaram seu site no passado com anúncios de exibição com base em quem eles são e o que eles fizeram. Audiências de redefinição de metas personalizadas específicas com anúncios relevantes baseados no setor, contas nomeadas e dados pessoais conhecidos.
 
 Atualmente, a Personalização da Web anexa os dados às seguintes plataformas de remarketing:
 
-* [Google](personalized-remarketing-in-google.md)
-* [Facebook](personalized-remarketing-in-facebook.md)
+* [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+* [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
 A Personalização da Web envia os seguintes dados para as plataformas de remarketing para criar audiências e executar campanhas de anúncios de remarketing:
 
@@ -69,12 +68,11 @@ A Personalização da Web envia os seguintes dados para as plataformas de remark
    >
    >É necessário implementar a tag de redefinição de metas do Google em seu site.
    >
-   >
    >Se você já configurou sua integração com a personalização da Web e Google Analytics, não é necessário editar essa parte, pois ela é a mesma configuração em Configurações da conta.
 
    ![](assets/two.png)
 
-1. Ative a configuração do Facebook. Clique e expanda o acordeão do Facebook, clique em **Ativado **para enviar o respectivo Evento e dados até o Audience Manager do Facebook. Clique em **Salvar**.
+1. Ative a configuração do Facebook. Clique e expanda o acordeão do Facebook, clique em **On** para enviar o respectivo Evento e dados até o Audience Manager do Facebook. Clique em **Salvar**.
 
    >[!NOTE]
    >
@@ -98,12 +96,6 @@ Uma Audiência segmentada permite selecionar um segmento existente como uma audi
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Clique em **SALVAR**.
+1. Clique em **Salvar**.
 
    Agora você concluiu a Configuração de redefinição de metas na Personalização da Web, faz logon em suas plataformas de redefinição de metas e cria suas audiências com base nesses dados e configura seu redirecionamento de campanhas de publicidade.
-
->[!MORELIKETHIS]
->
->* [Comentários personalizados no Google](personalized-remarketing-in-google.md)
->* [Comentários personalizados no Facebook](personalized-remarketing-in-facebook.md)
-
