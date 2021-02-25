@@ -3,7 +3,7 @@ unique-page-id: 4720236
 description: Criar um segmento usando uma Lista de conta - Documentos do Marketing - Documentação do produto
 title: Criar um segmento usando uma Lista de conta
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Veja como criar um segmento usando uma Lista de conta.
 
 >[!PREREQUISITES]
 >
->* [Criar uma nova Lista de conta](../../../product-docs/account-based-marketing/target/account-lists.md)
-
->
-
-
+>[Criar uma nova Lista de conta](/help/marketo/product-docs/account-based-marketing/target/account-lists.md)
 
 1. Vá para **Segmentos**.
 
@@ -43,7 +39,8 @@ Veja como criar um segmento usando uma Lista de conta.
    >
    >As Listas de conta são sincronizadas de ABM para Web Personalization para uso em Segmentação. Selecione-os no menu suspenso. A sincronização pode levar até cinco minutos. Ela só será sincronizada se houver uma ou mais contas nomeadas na Lista Conta.
 
-1. Clique em **Salvar** ou em **Salvar e definir Campanha** para ir para a página Campanha.\
+1. Clique em **Salvar** ou em **Salvar e definir Campanha** para ir para a página Campanha.
+
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
 Parabéns! Agora você configura um segmento direcionado a uma Lista de conta.
