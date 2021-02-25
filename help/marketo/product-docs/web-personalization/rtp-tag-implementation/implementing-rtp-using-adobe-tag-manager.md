@@ -3,9 +3,9 @@ unique-page-id: 4720218
 description: Implementação do RTP usando o Adobe Tag Manager - Documentos do Marketing - Documentação do produto
 title: Implementação do RTP usando o Adobe Tag Manager
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,10 @@ ht-degree: 0%
 Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
 1. Faça logon na sua conta RTP.
-1. Vá para **Configurações da conta.**
 
-   Se você já tiver recebido sua tag JavaScript do Suporte - continue com a etapa 4.
+1. Vá para **Configurações da conta**.
+
+   a. Se você já tiver recebido sua tag JavaScript do Suporte - continue com a etapa 4.
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
@@ -27,11 +28,12 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
 1. Faça logon em sua conta do Gerenciador dinâmico de tags ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
+
 1. Vá para **Painel.** Clique na propriedade da Web relevante.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Vá para **Regras,** clique em **Criar Nova Regra.**
+1. Vá para **Regras**, clique em **Criar nova regra**.
 
 1. Preencha o seguinte
 
@@ -42,6 +44,7 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
 1. Chame a nova tag: **Tag RTP do Marketo**
+
 1. Remova o seguinte código da tag RTP
 
    * `<script type='text/javascript'>`
@@ -63,4 +66,4 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
 1. **Verifique** se ele aparece em todas as páginas, incluindo landings page e subdomínios.
 
-   Você pode fazer isso clicando com o botão direito do mouse nas páginas de seu site. Vá para **Elemento Inspect**, clique em **Rede, **Pesquisar: **RTP**.
+   Você pode fazer isso clicando com o botão direito do mouse nas páginas de seu site. Vá para **Inspect Element**, clique em **Rede**, Pesquisar: **RTP**.
