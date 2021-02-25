@@ -3,7 +3,7 @@ unique-page-id: 10096420
 description: Inteligência de vendas - Documentos do marketing - Documentação do produto
 title: Inteligência de vendas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -31,5 +31,4 @@ Em [Configurações do usuário](/help/marketo/product-docs/web-personalization/
 
 >[!MORELIKETHIS]
 >
->* [Relatórios de email](email-reports.md)
-
+>[Relatórios de email](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
