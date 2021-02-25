@@ -3,7 +3,7 @@ unique-page-id: 2949162
 description: Ativar/Desativar Subscrições de relatório - Documentos do Marketing - Documentação do produto
 title: Ativar/Desativar Subscrições de relatório
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -24,4 +24,3 @@ A Personalização da Web tem vários relatórios úteis que são enviados por e
    ![](assets/email-settings.png)
 
    É isso! Para cancelar a assinatura do relatório, basta desmarcar e clicar em **Salvar**.
-
