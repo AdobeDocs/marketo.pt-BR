@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: Teste AB de sua Campanha da Web - Documentos do Marketing - Documentação do produto
 title: Teste AB Sua Campanha na Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Para testar suas campanhas personalizadas A/B, você pode selecionar duas ou mai
 
    >[!NOTE]
    >
-   >Para facilitar a localização da campanha desejada, use o recurso [filter](filter-web-campaigns.md).
+   >Para facilitar a localização da campanha desejada, use o recurso [filter](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Selecione a primeira campanha que deseja para o teste A/B. Clique em **Editar**.
 
@@ -39,30 +39,31 @@ Para testar suas campanhas personalizadas A/B, você pode selecionar duas ou mai
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Digite o **Dividir nome do grupo de teste** e clique em **Criar.****Selecione Ajustar automaticamente.**
+1. Digite o **Dividir nome do grupo de teste** e clique em **Criar**. Selecione **Ajustar automaticamente**.
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Salve **ou** Iniciar **a campanha.
+1. **** Salve ou  **** Inicie a campanha.
 
    >[!TIP]
    >
    >Selecionar **Ajuste automático** permite que a plataforma Web Personalization reconheça automaticamente a campanha de teste dividido de melhor desempenho e continue com a campanha de conversão mais alta enquanto pausa as outras.
 
 1. Repita o processo acima com a segunda campanha.
+
 1. Selecione a segunda campanha que deseja para o teste A/B. Clique em **Editar**.
 
-   ** ![](assets/image2016-11-4-13-3a51-3a39.png)
+   ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-   **
-
-1. Na página **Definir Campanha**, selecione **S****plit Testing** e escolha **Grupo** no menu suspenso. Selecione** Ajuste automático**.
+1. Na página **Definir Campanha**, selecione **Dividir Teste** e escolha **Grupo** no menu suspenso. Selecione **Ajustar automaticamente**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **Save **or **Launch **the campanha.
+1. **** Salve ou  **** Inicie a campanha.
+
 1. Repita esse processo para que uma terceira ou quarta campanha teste.
-1. Em **Web** **Campanha** é possível ver as campanhas de teste dividido indicadas pelo ícone A/B.
+
+1. Em **Campanhas da Web** você pode ver as campanhas de teste dividido indicadas pelo ícone A/B.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
@@ -73,17 +74,10 @@ Para testar suas campanhas personalizadas A/B, você pode selecionar duas ou mai
 >1. Experimente conteúdos diferentes (Estudo de caso A vs. Estudo de caso B), altere as mensagens e criações, cores, tamanhos ou chame a ações.
 >1. Otimize e aproveite seu conteúdo personalizado!
 
->
-
-
 
 >[!MORELIKETHIS]
 >
->* [Criar uma Campanha de diálogo](create-a-new-dialog-web-campaign.md)
->* [Criar uma Campanha RTP na zona](create-a-new-in-zone-web-campaign.md)
->* [Criar uma Campanha de widget RTP](create-a-new-widget-web-campaign.md)
-
->
-
-
+>* [Criar uma Campanha de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Criar uma Campanha RTP na zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Criar uma Campanha de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
