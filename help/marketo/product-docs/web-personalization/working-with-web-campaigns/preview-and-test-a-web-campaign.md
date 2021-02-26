@@ -3,9 +3,9 @@ unique-page-id: 10092925
 description: Pré-visualização e teste uma Campanha da Web - Documentos do Marketing - Documentação do produto
 title: Pré-visualização e teste uma Campanha da Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Este artigo mostra diferentes maneiras de pré-visualização de uma campanha da
 
 ## Pré-visualização de uma Campanha da Web na Página de Criação {#preview-a-web-campaign-on-the-creation-page}
 
-1. Vá para **Web** **Campanha**.
+1. Vá para **Campanha**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Clique em** Criar nova Campanha da Web**** ** ou no ícone para editar uma campanha existente.
+1. Clique em **Criar nova Campanha da Web** ou no ícone para editar uma campanha existente.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -35,11 +35,12 @@ Este artigo mostra diferentes maneiras de pré-visualização de uma campanha da
 
    >[!NOTE]
    >
-   >Você também tem a opção de instalar um plug-in do navegador ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) para obter a melhor experiência em visualizar sua campanha. Consulte a seção abaixo.
+   >Você também tem a opção de instalar um plug-in do navegador ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obter a melhor experiência em visualizar sua campanha. Consulte a seção abaixo.
 
 ## Pré-visualização uma Campanha da Web na página de criação usando o plug-in do navegador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
-1. Siga as etapas 1 e 2 do `section above`.
+1. Siga as etapas 1 e 2 da seção acima.
+
 1. Clique no link para o plug-in do navegador (neste caso, estamos usando o Chrome).
 
    ![](assets/4-1.png)
@@ -81,7 +82,8 @@ Crie um segmento e uma campanha de sandbox.
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Nomeie o segmento.
-1. Em Comportamento, arraste Incluir páginas até a tela. Adicione o valor *sandbox=1*. Clique em Salvar e definir Campanha.
+
+1. Em Comportamento, arraste Incluir páginas até a tela. Adicione o valor *sandbox=1*. Clique em **Salvar e definir Campanha**.
 
    ![](assets/segment.png)
 
@@ -89,10 +91,12 @@ Crie um segmento e uma campanha de sandbox.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Conclua o anúncio de campanha e clique em **Iniciar**.\
+1. Conclua o anúncio de campanha e clique em **Iniciar**.
+
    ![](assets/click-launch.jpg)
 
-1. Vá para seu site, adicione o parâmetro de URL &quot;?sandbox=1&quot; no final do URL. Exemplo: [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
+1. Vá para seu site, adicione o parâmetro de URL &quot;?sandbox=1&quot; no final do URL. Exemplo: `www.marketo.com?sandbox=1`.
+
 1. Veja a campanha reagir em seu site.
 
 >[!NOTE]
@@ -101,5 +105,4 @@ Crie um segmento e uma campanha de sandbox.
 
 >[!NOTE]
 >
->Campanhas de redirecionamento não podem ser visualizadas. A única maneira de testá-los é usando um segmento de caixa de proteção (que público alvo por páginas específicas - *sandbox=redirect* )
-
+>Campanhas de redirecionamento não podem ser visualizadas. A única maneira de testá-los é usando um segmento de caixa de proteção (que público alvo por páginas específicas - *sandbox=redirect*)
