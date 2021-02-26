@@ -3,9 +3,9 @@ unique-page-id: 4719406
 description: Iniciar/pausar uma Campanha da Web - Documentos do Marketing - Documentação do produto
 title: Iniciar/pausar uma Campanha da Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Iniciar/pausar uma Campanha da Web {#launch-pause-a-web-campaign}
 
-Uma campanha da Web é uma reação personalizada associada a um segmento específico e pode ser uma [caixa de diálogo](create-a-new-dialog-web-campaign.md) em seu site, uma [substituição de zona](create-a-new-in-zone-web-campaign.md), um recurso de widget ou um alerta de email.
+Uma campanha da Web é uma reação personalizada associada a um segmento específico e pode ser uma [caixa de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) em seu site, uma [substituição de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), um recurso de widget ou um alerta de email.
 
 Você pode iniciar ou pausar uma campanha da Web de duas formas na página Campanhas da Web ou na página Definir Campanhas da Web.
 
@@ -25,7 +25,7 @@ Você pode iniciar ou pausar uma campanha da Web de duas formas na página Campa
 
    ![](assets/two-1.png)
 
-1. Se a campanha for iniciada, clique em **Iniciada** para alterar o status da campanha para **Pausada, **para pausar a campanha.
+1. Se a campanha for iniciada, clique em **Iniciada** para alterar o status da campanha para **Pausada**, para pausar a campanha.
 
    ![](assets/image2014-11-26-17-3a26-3a38.png)
 
@@ -47,11 +47,7 @@ Você pode iniciar ou pausar uma campanha da Web de duas formas na página Campa
 
 >[!MORELIKETHIS]
 >
->* [Criar uma nova Campanha da Web de diálogo](create-a-new-dialog-web-campaign.md)
->* [Criar uma nova Campanha da Web na zona](create-a-new-in-zone-web-campaign.md)
->* [Criar uma Campanha da Web de Widget](create-a-new-widget-web-campaign.md)
-
->
-
-
+>* [Criar uma Campanha de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Criar uma Campanha RTP na zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Criar uma Campanha de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
