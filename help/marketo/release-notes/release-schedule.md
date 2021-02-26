@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Programação de lançamento - Documentos do marketing - Documentação do produto
 title: Programação de lançamento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -38,40 +38,24 @@ As datas de lançamento estão sujeitas a alterações.
    <th width="250px">Progresso</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-jan-20.md">Janeiro de 2020</a></td> 
-   <td colspan="1">17 de janeiro de 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">Janeiro de 2021</td> 
+   <td colspan="1">15 de janeiro de 2021</td> 
+   <td colspan="1">Entregue</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-feb-20.md">Fevereiro de 2020</a></td> 
-   <td colspan="1">21 de fevereiro de 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">Maio de 21</td> 
+   <td colspan="1">7 de mai de 2021</td> 
+   <td colspan="1">Em andamento</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-june-20.md">Junho de 2020</a></td> 
-   <td colspan="1">5 de junho de 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">Agosto de 21</td> 
+   <td colspan="1">13 de agosto de 2021</td> 
+   <td colspan="1">Na programação</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-july-20.md">Julho de 20</a></td> 
-   <td colspan="1">31 de julho de 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Outubro de 2020</td> 
-   <td colspan="1">16 de outubro de 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">Outubro de 2021</td> 
+   <td colspan="1">15 de outubro de 2021</td> 
+   <td colspan="1">Na programação</td> 
   </tr> 
  </tbody> 
 </table>
-
