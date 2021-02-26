@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: Notas de versão - junho de 2019 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - junho de 1919
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 Os seguintes recursos foram incluídos na versão de junho de 1919. Verifique sua edição de marketing para ver a disponibilidade de recursos.
 
-***Versões trimestrais***
+**_Versões trimestrais_**
 
 Os seguintes recursos foram lançados em 14 de junho de 2019.
 
 ## Principais serviços do Marketing {#marketo-core-services}
 
 * **Soma de verificação** do arquivo de extração em massa: Verifique se um arquivo completo foi recuperado comparando seu hash de arquivo com a string de soma de verificação dos trabalhos de extração concluídos.
-* **A migração automatizada do e-mail 1.0 para o e-mail 2.0:** E-mail 2.0 é totalmente compatível com e-mails e modelos do e-mail 1.0. Desfrute dos novos recursos, como a capacidade de agrupar elementos de conteúdo (imagens, texto etc.) em módulos, defina variáveis como String, Color, Image etc. em modelos e aproveite modelos iniciais totalmente responsivos. Também inclui um Seletor de modelo de e-mail visual.
+* **Migração automatizada do email 1.0 para o email 2.0**: O Email 2.0 é totalmente compatível com e-mails e modelos do Email 1.0. Desfrute dos novos recursos, como a capacidade de agrupar elementos de conteúdo (imagens, texto etc.) em módulos, defina variáveis como String, Color, Image etc. em modelos e aproveite modelos iniciais totalmente responsivos. Também inclui um Seletor de modelo de e-mail visual.
 
 >[!CAUTION]
 >
@@ -30,11 +30,11 @@ Os seguintes recursos foram lançados em 14 de junho de 2019.
 
 ## Marketing baseado em conta {#account-based-marketing}
 
-* **Correspondência`<sup>BETA</sup>`**  de contas do LinkedIn: Um novo recurso ABM está disponível no beta, oferecendo a você a capacidade de enviar listas de contas conhecidas e de espaços em branco diretamente do Marketing para o LinkedIn. Essa funcionalidade é incluída automaticamente para todos os clientes da Marketing ABM.
+* **Correspondência de conta do LinkedIn (BETA)** : Um novo recurso ABM está disponível no beta, oferecendo a você a capacidade de enviar listas de contas conhecidas e de espaços em branco diretamente do Marketing para o LinkedIn. Essa funcionalidade é incluída automaticamente para todos os clientes da Marketing ABM.
 
 <br> 
 
-***Lançamento no Trimestre***
+**_Lançamento no Trimestre_**
 
 Espera - se que as seguintes características sejam divulgadas ao longo do segundo trimestre e no início do terceiro trimestre de 2019.
 
@@ -47,13 +47,13 @@ Espera - se que as seguintes características sejam divulgadas ao longo do segun
 
 * **Links** de navegação completos: Habilitamos a navegação para todos os aplicativos permitidos, como Hootsuite, Calendário e muito mais.
 * **Visualizações** de Lista de e-mail, Landing page, trecho, formulário, imagem e arquivo: Visualização, pesquisa e realiza ações em massa em qualquer um de seus ativos no Design Studio.
-* **Página** de detalhes de imagem, arquivo e trecho: Obtenha detalhes rápidos sobre seus ativos com metadados como  *criados em/* bye ações como  ** excluir e  *aprovar*.
+* **Página** de detalhes de imagem, arquivo e trecho: Obtenha detalhes rápidos sobre seus ativos com metadados como  _criados em/_ bye ações como  __ excluir e  _aprovar_.
 * **Widget** de postagens do blog da comunidade: Acesse postagens recentes da Comunidade em Meu Marketo.
 * **Widget** Expirando em breve: Adicione o widget &quot;Expirando em breve&quot; ao seu painel de marketing para ver quais campanhas e landings page estão definidas para expirar em seguida.
 * **Mais cartões** de Lista inteligentes: Segmente e público alvo apropriadamente com cartões de lista inteligentes adicionais, incluindo a etapa de fluxo &quot;Criar Tarefa&quot;, regras de lista inteligente do CRM e muito mais.
 * **Página** de detalhes do campeão de e-mail/desafiador: Consulte dados como critérios de vencer, criados em etc. de seus testes de e-mail campeão/desafiador.
 
-Conexão de Vendas do Marketing
+## Conexão de vendas do Marketing to {#marketo-sales-connect}
 
 * **Ações em massa na personalização** do Salesforce: Maximize a produtividade enviando e-mails e adicionando contatos ao campanha em massa com a Personalização do Salesforce.
 * **Selecionar, Arrastar e Soltar**: Organize facilmente sua instância do Sales Connect com a capacidade de arrastar e soltar modelos em categorias intuitivas.
