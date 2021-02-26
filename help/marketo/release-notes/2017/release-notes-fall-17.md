@@ -3,9 +3,9 @@ unique-page-id: 12983280
 description: Notas de versão - Último trimestre de 2017 - Documentos de marketing - Documentação do produto
 title: Notas de versão - Último trimestre de 2017
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '597'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Aproveite a sincronização mais rica e mais rápida entre o Marketing e o Sales
 
 Melhorias recentes na infraestrutura oferta aumento do tempo de atividade e estabilidade nas ferramentas de análise e relatórios de marketing, permitindo que você crie relatórios ad hoc mais rapidamente.
 
-## [Fuso Horário do recipient](https://docs.marketo.com/x/_xvG) {#recipient-time-zone}
+## [Fuso Horário do recipient](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
 
 Com este novo recurso, agora você pode manter e enviar emails de acordo com os fusos horários locais. Os programas de e-mail e envolvimento podem ser configurados para serem entregues nos fusos horários dos recipient, eliminando a necessidade de criar vários programas — enviar uma vez e o Marketo automaticamente manterá o e-mail até o horário local correto. Levante as métricas de e-mail, observe as práticas locais e economize tempo usando um único programa globalmente.
 
@@ -39,15 +39,15 @@ Com este novo recurso, agora você pode manter e enviar emails de acordo com os 
 >
 >Se você ainda não conseguir ativar o Fuso horário do Recipient em seu e-mail e programas de envolvimento, não entre em pânico! Estamos gradualmente habilitando esse recurso para todos os clientes.
 
-## [Revisar exemplos de emails por segmento](https://docs.marketo.com/x/2IER) {#review-sample-emails-by-segment}
+## [Revisar exemplos de emails por segmento](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
 O Marketo tem uma nova opção para selecionar um segmento ao enviar emails de amostra para revisão. Não é mais necessário determinar manualmente a qual segmento um cliente potencial pertence, facilitando o envio de emails contendo conteúdo dinâmico para diferentes segmentos.
 
-## [Perguntas personalizadas do LinkedIn Lead Gen](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-custom-questions}
+## [Perguntas personalizadas do LinkedIn Lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
 Personalize seus formulários do LinkedIn Lead Gen para coletar atributos personalizados de cliente potencial. Agora é possível fazer até três perguntas personalizadas por formulário, escolher entre uma entrada de texto de linha única ou perguntas de múltipla escolha e mapear de volta para os campos de venda.
 
-## [Integração de Slack](../../product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## [Integração de Slack](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
 
 Nós lançamos dois recursos como parte de nossa nova integração com o Slack:
 
@@ -56,15 +56,15 @@ Nós lançamos dois recursos como parte de nossa nova integração com o Slack:
 
 ## Aprimoramentos de ABM {#abm-enhancements}
 
-** [Mostrar contas sem contatos](https://docs.marketo.com/x/fKCt)**
+**[Mostrar contas sem contatos](https://docs.marketo.com/x/fKCt)**
 
 O Marketing ABM agora sincroniza e exibe contas CRM sem contatos. Inclua novas contas sem vendas ou históricos de marketing anteriores e rastreie o progresso ao corresponder clientes potenciais subsequentes às contas.
 
-## Conteúdo`<sup>AI </sup>`Analytics {#contentai-analytics}
+## ContentAI Analytics {#contentai-analytics}
 
-** [Novo Filtro de Lista de Conta ABM](https://docs.marketo.com/x/1BPG) **
+**[Novo filtro de Lista de conta ABM](https://docs.marketo.com/x/1BPG)**
 
-Visualização e compare o desempenho do conteúdo nas Listas da conta ABM para otimizar o conteúdo existente. Content`<sup>AI</sup>` mostra:
+Visualização e compare o desempenho do conteúdo nas Listas da conta ABM para otimizar o conteúdo existente. O ContentAI mostra:
 
 * conteúdo superior exibido
 * conteúdo mais alto convertido
@@ -72,13 +72,13 @@ Visualização e compare o desempenho do conteúdo nas Listas da conta ABM para 
 
 ## Aprimoramentos de personalização da Web {#web-personalization-enhancements}
 
-** [Tokens para Campanhas Web](https://docs.marketo.com/x/SwJI)**
+**[Tokens para Campanhas da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Tokens agora estão disponíveis para uso em campanhas da Web. Utilize tokens para fornecer mensagens e conteúdo personalizados para aumentar o envolvimento em suas campanhas da Web.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-** [Imagens do Design Studio no Editor de Campanhas Web](https://docs.marketo.com/x/SwJI)**
+**[Design Studio Imagens no Editor de Campanhas da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Economize tempo reutilizando ativos e imagens criativas em vários canais do Marketo.
 
@@ -86,10 +86,10 @@ Economize tempo reutilizando ativos e imagens criativas em vários canais do Mar
 
 ## Integração {#integration}
 
-** [API de Pré-visualização de email](https://developers.marketo.com/rest-api/assets/emails/)**
+**[API de Pré-visualização de email](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Agora você pode pré-visualização remotamente emails fora do Marketo, simplificando o processo de localização de conteúdo de email e reduzindo erros.
 
-** [Substituir API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
+**[Substituir a API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Os desenvolvedores podem atualizar remotamente o conteúdo HTML de ativos de email, permitindo que eles trabalhem em um único sistema para manter ativos.
