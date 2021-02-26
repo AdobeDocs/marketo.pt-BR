@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Notas de versão - Primeiro trimestre de 2018 - Documentos de marketing - Documentação do produto
 title: Notas de versão - Primeiro trimestre de 2018
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Incentive mais pipeline e receita ao capacitar vendas com inteligência, conteú
 
 ## Marketo Sky Abrir Beta {#marketo-sky-open-beta}
 
-[Marketo Sky Open Beta](https://help.marketo.com/hc/en-us)
+[Marketo Sky Open Beta](https://help.marketo.com/)
 
 Opte pela abertura do Marketo Sky beta para obter acesso a mais de 100 novos recursos de aumento de produtividade, incluindo:
 
@@ -69,11 +69,11 @@ Compartilhe facilmente seus Gráficos Rápidos com outros usuários do Performan
 
 Navegação otimizada e workflows aprimorados dão visibilidade aos critérios de sucesso do Programa e acesso aos detalhes do Programa.
 
-## Conteúdo<sup>AI</sup> {#contentai}
+## ContentAI {#contentai}
 
 [Configuração de meta](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Defina o objetivo do algoritmo de otimização Content<sup>AI</sup> para direcionar mais visualizações, cliques ou conversões.
+Defina o objetivo do algoritmo de otimização ContentAI para direcionar mais visualizações, cliques ou conversões.
 
 ## Integração e APIs {#integration-and-apis}
 
