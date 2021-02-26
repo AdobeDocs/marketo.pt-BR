@@ -3,9 +3,9 @@ unique-page-id: 10093157
 description: Clonar uma Campanha da Web - Documentos do Marketing - Documentação do produto
 title: Clonar uma Campanha da Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Use o recurso clone na página Campanhas da Web para copiar as configurações d
 
    >[!NOTE]
    >
-   >Para facilitar a localização da campanha da Web desejada, use o recurso [filter](filter-web-campaigns.md).
+   >Para facilitar a localização da campanha da Web desejada, use o recurso [filter](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Para a campanha da Web, clique em **Clonar**.
 
@@ -39,11 +39,7 @@ Use o recurso clone na página Campanhas da Web para copiar as configurações d
 
 >[!MORELIKETHIS]
 >
->* [Criar uma nova Campanha da Web na zona](create-a-new-in-zone-web-campaign.md)
->* [Criar uma nova Campanha Web de widget](create-a-new-widget-web-campaign.md)
->* [Criar uma nova Campanha da Web de diálogo](create-a-new-dialog-web-campaign.md)
-
->
-
-
+>* [Criar uma Campanha de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Criar uma Campanha RTP na zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Criar uma Campanha de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
