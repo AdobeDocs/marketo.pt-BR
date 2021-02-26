@@ -3,7 +3,7 @@ unique-page-id: 10097100
 description: Agendar uma Campanha da Web - Documentos do Marketing - Documentação do produto
 title: Agendar uma Campanha da Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Você pode agendar a campanha da Web com base na hora do visitante da Web ou em 
 
    >[!NOTE]
    >
-   >Para facilitar a localização da campanha desejada, use o recurso [filter](filter-web-campaigns.md).
+   >Para facilitar a localização da campanha desejada, use o recurso [filter](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Abra o menu Status da Campanha e selecione **Agendamento**.
 
@@ -59,11 +59,10 @@ Você pode agendar a campanha da Web com base na hora do visitante da Web ou em 
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. O status da campanha na página do Campanha muda para **Agendado **e o ícone de relógio/calendário é exibido. Clique neste ícone para editar o agendamento da campanha.
+1. O status da campanha na página do Campanha muda para **Agendado** e o ícone de relógio/calendário é exibido. Clique neste ícone para editar o agendamento da campanha.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
    >O status da campanha permanece como **Agendado** mesmo quando a campanha está sendo executada durante os horários agendados selecionados. Quando uma data de término programada tiver passado, o status da campanha mudará para **Pausado**.
-
