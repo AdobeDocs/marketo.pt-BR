@@ -3,9 +3,9 @@ unique-page-id: 4719400
 description: Criar uma nova Campanha na Web da Zona - Documentos do Marketing - Documentação do produto
 title: Criar uma nova Campanha da Web na zona
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '693'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Criar uma nova Campanha da Web na Zona {#create-a-new-in-zone-web-campaign}
 
-Uma campanha da Web é uma reação personalizada associada a um segmento específico e pode ser uma [caixa de diálogo](create-a-new-dialog-web-campaign.md) em seu site, uma substituição de zona interna, um [recurso de widget](create-a-new-widget-web-campaign.md) ou um alerta de email. Uma campanha da Web In Zone substitui um elemento do seu site com base na ID da Zona pelo conteúdo ou banners gráficos.
+Uma campanha da Web é uma reação personalizada associada a um segmento específico e pode ser uma [caixa de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) em seu site, uma substituição de zona interna, um [recurso de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) ou um alerta de email. Uma campanha da Web In Zone substitui um elemento do seu site com base na ID da Zona pelo conteúdo ou banners gráficos.
 
 ## Criar uma Campanha da Web In Zone {#create-an-in-zone-web-campaign}
 
@@ -31,14 +31,9 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
    >[!NOTE]
    >
-   >**Definição**
-   >
-   >
    >**O que é uma ID de zona?**
    >
-   >
    >Uma ID de zona é onde você deseja que sua campanha &quot;Na zona&quot; esteja localizada no site. Para localizar uma &quot;ID de zona&quot;, vá para o seu site e selecione a área que deseja substituir por uma campanha da Web e clique com o botão direito do mouse. No Chrome, a opção é &quot;Elemento Inspect&quot;, em outros navegadores ela pode variar.
-   >
    >
    >Em seguida, você deseja encontrar a &quot;id&quot; associada a esta seção do site, que é realçada porque você está inspecionando esse elemento. Por exemplo, se você clicar com o botão direito do mouse no Chrome o texto realçado indicar `<div id="featured-slider">`, então &quot;controle deslizante em destaque&quot; é o que você deve digitar na seção &quot;ID da zona&quot;. Normalmente, &quot;div id&quot; é usado, mas qualquer ID também pode ser usada, como h1 id, p id etc.
 
@@ -68,7 +63,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
   </tr> 
   <tr> 
    <td colspan="1"><strong> Editor de Rich Text  </strong></td> 
-   <td colspan="1">O editor de Rich Text permite a formatação de texto, vinculação e inserção de imagem. <a href="using-the-web-personalization-rich-text-editor.md">Leia mais aqui</a> .</td> 
+   <td colspan="1">O editor de Rich Text permite a formatação de texto, vinculação e inserção de imagem. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Leia mais aqui</a> .</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong> Pré-visualização no local   </strong></td> 
@@ -85,11 +80,11 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
 >[!TIP]
 >
->Acelere e simplifique seu processo de criação de campanhas usando nossos [modelos incorporados](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) ou [salvando sua campanha existente](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) como modelo para reutilização.
+>Acelere e simplifique seu processo de criação de campanhas usando nossos [modelos incorporados](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) ou [salvando sua campanha existente](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) como modelo para reutilização.
 
 >[!NOTE]
 >
->**Deseja testar a A/B suas campanhas da Web?** Uma ou mais campanhas da Web podem ser  [A/B testadas para obter resultados](ab-test-your-web-campaign.md) ideais. Com o recurso Ajuste automático, a plataforma reconhece automaticamente as campanhas de melhor desempenho, continua com as campanhas de conversão mais altas e pausa as outras.
+>**Deseja testar a A/B suas campanhas da Web?** Uma ou mais campanhas da Web podem ser  [A/B testadas para obter resultados](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md) ideais. Com o recurso Ajuste automático, a plataforma reconhece automaticamente as campanhas de melhor desempenho, continua com as campanhas de conversão mais altas e pausa as outras.
 
 ## Editar uma Campanha da Web {#edit-a-web-campaign}
 
@@ -99,21 +94,21 @@ Na página **Campanha**, clique em **Editar** na Campanha.
 
 >[!NOTE]
 >
->Para facilitar a localização da campanha desejada, use o recurso [filter](filter-web-campaigns.md).
+>Para facilitar a localização da campanha desejada, use o recurso [filter](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Pré-visualização de uma Campanha da Web {#preview-a-web-campaign}
 
-1. Na página Campanhas da Web, clique em **Pré-visualização **na campanha da Web que deseja visualização.
+1. Na página Campanhas da Web, clique em **Pré-visualização** na campanha da Web que deseja visualização.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
 ## Clonar uma Campanha da Web {#clone-a-web-campaign}
 
-Consulte [Clonar uma Campanha da Web](clone-a-web-campaign.md).
+Consulte [Clonar uma Campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Excluir uma Campanha da Web {#delete-a-web-campaign}
 
-1. Na página Campanhas da Web, clique em **Excluir **na Campanha que deseja excluir.
+1. Na página Campanhas da Web, clique em **Excluir** na Campanha que deseja excluir.
 
    ![](assets/in-zone-web-campaign-delete.png)
 
@@ -121,6 +116,6 @@ Consulte [Clonar uma Campanha da Web](clone-a-web-campaign.md).
 
 >[!MORELIKETHIS]
 >
->* [Criar uma nova Campanha Web de widget](create-a-new-widget-web-campaign.md)
->* [Criar uma nova Campanha da Web de caixa de diálogo](create-a-new-dialog-web-campaign.md)
+>* [Criar uma nova Campanha Web de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Criar uma nova Campanha da Web de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
