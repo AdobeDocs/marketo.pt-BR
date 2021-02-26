@@ -3,7 +3,7 @@ unique-page-id: 4719410
 description: Excluir uma Campanha da Web - Documentos do Marketing - Documentação do produto
 title: Excluir uma Campanha da Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -19,9 +19,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Para facilitar a localização da campanha da Web desejada, use o recurso [filter](filter-web-campaigns.md).
+   >Para facilitar a localização da campanha da Web desejada, use o recurso [filter](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Na página Campanhas da Web, clique em **Excluir **na campanha que deseja excluir.
+1. Na página Campanhas da Web, clique em **Excluir** na campanha que deseja excluir.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Editar uma Campanha da Web](edit-an-existing-web-campaign.md)
->* [Iniciar/pausar uma Campanha da Web](launch-pause-a-web-campaign.md)
+>* [Editar uma Campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
+>* [Iniciar/pausar uma Campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)
 
