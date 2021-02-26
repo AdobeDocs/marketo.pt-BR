@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: Adicionar um URL de Público alvo a uma Campanha da Web - Documentos do Marketing - Documentação do produto
 title: Adicionar um URL de Público alvo a uma Campanha da Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,8 @@ Clicar no ícone de adição (![—](assets/image2015-2-18-8-3a40-3a59.png)) abr
 
 >[!NOTE]
 >
->
 >* As campanhas da Web de caixa de diálogo e Widget podem usar as opções Qualquer página e Curinga (*).
-* Em casos de uso avançado, nas campanhas da Web da Zona, é possível usar Caracteres curinga no final do caminho do URL. Exemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
+* Em casos de uso avançado, nas campanhas da Web da Zona, é possível usar curingas no final do caminho do URL. Exemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * O URL faz distinção entre maiúsculas e minúsculas
 
 
@@ -72,15 +71,15 @@ Clicar no ícone de adição (![—](assets/image2015-2-18-8-3a40-3a59.png)) abr
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Adicione um** Nome da Campanha**. Selecione um **Segmento de Público alvo**. Adicione **URL do Público alvo**.
+1. Adicione um **Nome da Campanha**. Selecione um **Segmento de Público alvo**. Adicione **URL do Público alvo**.
 
    >[!NOTE]
-   O URL do público alvo com em zonas deve definir um URL ou URLs específicos. Em casos de uso avançado, nas campanhas da Web da Zona, é possível usar Caracteres curinga no final do caminho do URL. Exemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
+   O URL do público alvo com em zonas deve definir um URL ou URLs específicos. Em casos de uso avançado, nas campanhas da Web da Zona, é possível usar curingas no final do caminho do URL. Exemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
-* [Criar uma nova Campanha da Web de diálogo](create-a-new-dialog-web-campaign.md)
-* [Criar uma nova Campanha da Web na zona](create-a-new-in-zone-web-campaign.md)
-* [Criar uma nova Campanha Web de widget](create-a-new-widget-web-campaign.md)
+* [Criar uma Campanha de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Criar uma Campanha RTP na zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Criar uma Campanha de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
