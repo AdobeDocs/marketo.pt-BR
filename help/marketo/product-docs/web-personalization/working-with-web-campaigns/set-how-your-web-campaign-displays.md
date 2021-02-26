@@ -3,7 +3,7 @@ unique-page-id: 12978906
 description: Defina como sua Campanha da Web é exibida - Documentos do Marketing - Documentação do produto
 title: Defina como sua Campanha da Web é exibida
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -74,5 +74,4 @@ O propósito de saída exibirá a campanha da Web quando o cursor do mouse sair 
 
 >[!TIP]
 >
->Quer ver como serão os efeitos escolhidos com antecedência? Confira-os por meio de uma Pré-visualização [Campanha da Web](preview-and-test-a-web-campaign.md).
-
+>Quer ver como serão os efeitos escolhidos com antecedência? Confira-os por meio de uma Pré-visualização [Campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
