@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Notas de versão - Winter '18 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 18
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -25,46 +25,47 @@ O Marketo está aproveitando nossa grande arquitetura de dados para aumentar a t
 
 Temos dois aprimoramentos na nossa integração do Salesforce CRM:
 
-* [Notificações de Administrador de ](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) marketing para determinadas falhas de sincronização de CRM (credenciais expiradas, limites de API atingidos etc.)
+* [Notificações de Administrador de ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) marketing para determinadas falhas de sincronização de CRM (credenciais expiradas, limites de API atingidos etc.)
 
-* [Capacidade de desativar ](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) notificações por e-mail para Proprietários Potenciais na atribuição de lead
+* [Capacidade de desativar ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) notificações por e-mail para Proprietários Potenciais na atribuição de lead
 
 Estas melhorias serão implementadas em 2018.
 
-## [Insights de Desempenho do Marketing](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## [Insights de Desempenho do Marketing](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
 >[!AVAILABILITY]
 >
->
 >O Performance Insights é um produto complementar. Entre em contato com o Gerente de sucesso do cliente do Marketing to ou com o Executivo de conta para obter uma cotação.
 
-Saiba como suas campanhas e canais estão afetando os resultados comerciais com análises de atribuição, visualizações interativas e uma tabela de dados detalhada.   ![](assets/image2018-2-5-7-3a55-3a46.png)
+Saiba como suas campanhas e canais estão afetando os resultados comerciais com análises de atribuição, visualizações interativas e uma tabela de dados detalhada.
+
+![](assets/image2018-2-5-7-3a55-3a46.png)
 
 ## Aprimoramentos de marketing baseado em conta {#account-based-marketing-enhancements}
 
-** [Hierarquias ABM](../../product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
+**[Hierarquias ABM](/help/marketo/product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
 
 Para clientes ABM com Salesforce ou Microsoft Dynamics, o ABM herdará (e exibirá) automaticamente os relacionamentos pai-filho estabelecidos no CRM. Você poderá usar essas relações tanto na execução de relatórios de roll-up quanto na execução de campanhas.
 
 ## Marketing por email {#email-marketing}
 
-** [Script de email dinâmico](../../product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
+**[Script de email dinâmico](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
 Os scripts Velocity agora são suportados em emails usando conteúdo dinâmico. Combine velocidade e conteúdo dinâmico baseado em segmentação para criar emails altamente personalizados.
 
 **Fuso Horário do recipient**
 
-* ** [Cadência de rede mensal ](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:** **Adicionamos a capacidade de agendar programas de cultura em uma cadência mensal.
+* **[Cadência](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)** mensal da cultura: Adicionamos a habilidade de programar programas de nutrição numa cadência mensal.
 
-* ** [Parar Delivery](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Agora você pode parar todos os envios restantes no meio da execução.
+* **[Parar Delivery](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Agora você pode parar todos os envios restantes no meio da execução.
 
 ## Integrações de rede de anúncios {#ad-network-integrations}
 
-** [Integração de Correspondência de Clientes do Google](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
+**[Integração de Correspondência de Clientes do Google](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
 Com essa integração, você pode enviar uma audiência de marketing ao Google para ser direcionada usando o Google AdWords, bem como repúblico alvo audiências no YouTube, Pesquisa e Gmail.
 
-** [Aprimoramento da API do LinkedIn Matched Audiência](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[Aprimoramento da API do LinkedIn Matched Audiência](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 Nossa nova API do LinkedIn agora permite que você volte a público alvo de pessoas em seu banco de dados do Marketo em várias contas do LinkedIn Campaign Manager.
 
@@ -74,19 +75,19 @@ Nossa nova API do LinkedIn agora permite que você volte a público alvo de pess
 
 O Marketo está adicionando uma fonte de dados japonesa adicional para a Personalização da Web para melhorar a identificação do visitante da Web (pesquisa de IP reverso) e a personalização de visitantes que vêm do Japão. Os nomes das organizações serão exibidos em japonês.
 
-** [Criar um segmento da Web usando Listas estáticas](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
+**[Criar um segmento da Web usando Listas estáticas](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
 A Personalização da Web agora pode personalizar o conteúdo para um visitante da Web conhecido que faz parte de uma lista estática definida no Marketing Atividade (MLM). Com essa melhoria, agora você pode comercializar listas estáticas entre canais e públicos alvos nessas listas com conteúdo personalizado em seu site.
 
-## Conteúdo`<sup>AI</sup>` {#contentai}
+## ContentAI {#contentai}
 
 **Aprimoramento do algoritmo preditivo**
 
-O conteúdo recomendado por meio dos algoritmos Conteúdo`<sup>AI </sup>`otimizado do Marketo gera até duas vezes mais cliques que o conteúdo aleatório.
+Conteúdo recomendado por meio dos algoritmos otimizados ContentAI do Marketo geram até duas vezes mais cliques que o conteúdo aleatório.
 
 ## Integração {#integration}
 
-** [Ativar/Desativar API de Campanha](https://developers.marketo.com/rest-api/assets/campaigns/)**
+**[Ativar/desativar a API de Campanha](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 Essa nova API permite ativar e desativar remotamente campanhas de disparo, para que você possa criar modelos de programa totalmente automatizados. Crie um modelo de programa uma vez, em seguida, automatize a clonagem, as atualizações de materiais de apoio de marketing e, agora, a ativação/agendamento de campanhas inteligentes.
 
