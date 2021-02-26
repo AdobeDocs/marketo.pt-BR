@@ -3,7 +3,7 @@ unique-page-id: 8782266
 description: Priorização de Campanhas da Web - Documentos do Marketing - Documentação do produto
 title: Priorização de Campanhas da Web
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Uma campanha In Zone e uma campanha (Widget ou Diálogo) podem reagir na mesma p
 
    >[!NOTE]
    >
-   >Para facilitar a localização da campanha da Web desejada, use o recurso [filter](filter-web-campaigns.md).
+   >Para facilitar a localização da campanha da Web desejada, use o recurso [filter](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Na Página Editar Campanha, defina a Pontuação de prioridade (9999 = Prioridade mais alta 1 = Prioridade mais baixa).
 
