@@ -3,7 +3,7 @@ unique-page-id: 4720075
 description: Visualizações da Web de uma etiqueta específica - Documentos do Marketing - Documentação do produto
 title: Visualizações da Web de uma etiqueta específica
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Você está procurando visualização e filtrar suas campanhas de acordo com uma
 
 ## Filtrar por rótulos existentes {#filter-by-existing-labels}
 
-1. Vá para **Web** **Campanha**.
+1. Vá para **Campanha**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,11 +31,7 @@ Você está procurando visualização e filtrar suas campanhas de acordo com uma
 
 >[!MORELIKETHIS]
 >
->* [Rotule suas Campanhas da Web](label-your-web-campaigns.md)
->* [Visualização de segmentos a partir de um rótulo específico](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [Rotular seus segmentos](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
+>* [Rotule suas Campanhas da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Visualização de segmentos a partir de um rótulo específico](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Rotular seus segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
