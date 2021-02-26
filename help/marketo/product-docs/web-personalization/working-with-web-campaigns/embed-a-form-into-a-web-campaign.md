@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Incorporar um formulário a uma Campanha da Web - Documentos do Marketing - Documentação do produto
 title: Incorporar um formulário a uma Campanha da Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Veja como você pode incorporar um formulário Marketo em uma campanha da Web (D
 
 1. Clique com o botão direito do mouse em um formulário aprovado. Selecione **Código incorporado**.
 
-   ** ![](assets/image2015-12-16-10-3a58-3a39.png)
-
-   **
+   ![](assets/image2015-12-16-10-3a58-3a39.png)
 
 1. Copie o código.
 
@@ -31,9 +29,7 @@ Veja como você pode incorporar um formulário Marketo em uma campanha da Web (D
 
 1. Clique em **Criar nova campanha**.
 
-   ** ![](assets/create-new-web-campaign-hand-1.jpg)
-
-   **
+   ![](assets/create-new-web-campaign-hand-1.jpg)
 
 1. No Editor de Rich Text, clique no ícone HTML.
 
@@ -44,6 +40,7 @@ Veja como você pode incorporar um formulário Marketo em uma campanha da Web (D
    ![](assets/six-1.png)
 
 1. O formulário não será exibido na visualização do editor, mas é possível pré-visualização-lo para ver como será renderizado em uma campanha.
+
 1. Clique em **Iniciar** para start da campanha.
 
    >[!NOTE]
@@ -58,7 +55,7 @@ Para adicionar uma imagem de plano de fundo ao formulário, é possível:
 * Alterar as cores da caixa de diálogo ou do widget na Campanha Definir
 * Adicionar código CSS ao script
 
-Para editar o CSS de um tema de formulário, consulte [este artigo](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Para editar o CSS de um tema de formulário, consulte [este artigo](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 Para alterar as cores da caixa de diálogo ou do widget na Campanha Definir:
 
@@ -86,11 +83,7 @@ Para adicionar o código CSS ao script:
 
 >[!MORELIKETHIS]
 >
->* [Editar o CSS de um tema de formulário](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
+>* [Editar o CSS de um tema de formulário](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Mostrar mensagem de agradecimento sem uma Landing page de acompanhamento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
-
->
-
-
 
