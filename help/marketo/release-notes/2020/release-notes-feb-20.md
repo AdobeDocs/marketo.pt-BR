@@ -3,7 +3,7 @@ unique-page-id: 37355826
 description: Notas de versão - 20 de fevereiro - Documentos do Marketing - Documentação do produto
 title: Notas de versão - Fev de 20
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -17,29 +17,27 @@ Os seguintes recursos estão incluídos na versão de fevereiro de 2010. Verifiq
 
 >[!AVAILABILITY]
 >
->
 >Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
-***Versões trimestraisOs seguintes recursos foram lançados em 21*** de fevereiro de 2020 ****.
+**_Versões trimestraisOs seguintes recursos foram lançados em 21_** de fevereiro de 2020 ****.
 
 ## Marketo Engage Core {#core-marketo-engage}
 
 * **Ação** de Fluxo &quot;Alterar Proprietário do Microsoft Dynamics&quot;: Mantenha o controle dos dados do Microsoft Dynamics CRM com a capacidade de alterar um cliente potencial/proprietário de contato diretamente do Marketo Engage. Este é um aprimoramento do nosso recurso de integração CRM nativa.
-* **APIs de gerenciamento de usuários: **Automatize o gerenciamento de usuários e funções por meio de sistemas externos de gerenciamento de organizações e identidade. Este é um aprimoramento do recurso de Chamadas de API.
-* **APIs de Schema de objeto personalizado: **Gerencie e forneça automaticamente schemas de objetos personalizados em várias instâncias no Marketo Engage para manter os modelos de dados consistentes em todas as suas ferramentas de vendas e marketing. Com essa API, você pode definir e testar objetos personalizados em uma caixa de proteção ou em um centro de excelência e fornecer quantas instâncias forem necessárias. Este é um aprimoramento do recurso de chamadas de APIs. Entre em contato com seu representante de Marketo Engage para saber como obter acesso a essa melhoria.
+* **APIs** de gerenciamento de usuários: Automatize o gerenciamento de usuários e funções por meio de sistemas externos de gerenciamento de identidade e organização. Este é um aprimoramento do recurso de Chamadas de API.
+* **APIs** de Schema de objeto personalizado: Gerencie e forneça automaticamente schemas de objetos personalizados em várias instâncias no Marketo Engage para manter os modelos de dados consistentes entre as ferramentas de vendas e marketing. Com essa API, você pode definir e testar objetos personalizados em uma caixa de proteção ou em um centro de excelência e fornecer quantas instâncias forem necessárias. Este é um aprimoramento do recurso de chamadas de APIs. Entre em contato com seu representante de Marketo Engage para saber como obter acesso a essa melhoria.
 * **APIs** de regras de redirecionamento de landing page: Automatize o gerenciamento das regras de redirecionamento de landing page. Este é um aprimoramento do recurso de Chamadas de API.
 * **Cache** do descritor de formulário: Estamos reduzindo o tempo de carregamento de formulários incorporados e aprimorando a estabilidade geral do aplicativo, armazenando formulários em cache como recursos. Observe que as aprovações feitas em formulários incorporados podem levar até quatro minutos para serem refletidas na Web. Este é um aprimoramento do nosso recurso Landing page e Forms.
 
 <br> 
 
-**
-
-***Lançamento no Trimestre***
+**_Lançamento no Trimestre_**
 
 Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos próximos meses.
-**Bizible ![(star)](assets/star-yellow.svg)
 
-**
+## Bizível {#bizible}
+
+![(estrela)](assets/star-yellow.svg)
 
 * **Segmentação** baseada em conta: Analise a atribuição no nível da Conta com a capacidade de criar segmentos e filtros para quadros do Discover com base nos atributos da Conta. Use esses segmentos para detalhar o desempenho de marketing baseado em sua conta.
 * **Salvando Filtros**: Salve filtros específicos de painéis exclusivos a cada usuário para analisar seus painéis de forma rápida e consistente.
@@ -61,4 +59,4 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 * **Parâmetro** &quot;_method&quot; da API de ativos: Depois de setembro de 2020, os Pontos finais da API de ativos não aceitarão mais &quot;_method&quot; para passar os Parâmetros de Query em um corpo de POST para ignorar as limitações de comprimento de URI. Para acomodar solicitações que exigem esse parâmetro, o limite de URI para APIs de ativos será aumentado de 6 KiB para 65 KiB, de modo que URIs de solicitações longas possam ser enviadas.
 * **Substituição** do suporte do Internet Explorer: A partir de nosso lançamento de julho, em 31 de julho de 2020, a interface do usuário do Marketo Engage não será mais compatível com o Internet Explorer.
 
-***Webinar*** [de lançamento de produtoAssocie-se ao ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) uso em 3 de março, às 11:00AM PT / 2:00PM ET, para obter um webinar ao vivo hospedado pela equipe de produtos, e saiba mais sobre os recursos incluídos nesta versão.
+**_Webinar_** [de lançamento de produtoAssocie-se ao ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) uso em 3 de março, às 11:00AM PT / 2:00PM ET, para obter um webinar ao vivo hospedado pela equipe de produtos, e saiba mais sobre os recursos incluídos nesta versão.
