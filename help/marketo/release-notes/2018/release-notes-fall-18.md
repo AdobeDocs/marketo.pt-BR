@@ -3,7 +3,7 @@ unique-page-id: 15695939
 description: Notas de versão - Último trimestre de 2018 - Documentos do marketing - Documentação do produto
 title: Notas de versão - Último trimestre de 2018
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
@@ -68,13 +68,13 @@ Para obter mais detalhes e atualizações, verifique nossas [Notas de versão do
 
 * **Discover GA**
 
-   * O Discover está sem beta e começou a ser lançado para novos clientes. Também estamos migrando nossa atual base de clientes de Medida Bizíblia para Discover Bizible. Com a mudança do beta para o GA, fizemos atualizações para o schema do banco de dados para permitir query mais eficientes e complexos.
+   * O Discover está sem beta e começou a ser lançado para novos clientes. Também estamos migrando nossa atual base de clientes de Medida Bizíblica para o Discover Bizible. Com a mudança do beta para o GA, fizemos atualizações para o schema do banco de dados para permitir query mais eficientes e complexos.
 
 * **Logon único**
 
    * Os clientes agora podem fazer logon no aplicativo Web Bizible usando o provedor de identidade e as credenciais de sua empresa, que atendem aos requisitos de segurança corporativa.
 
-**[Aprimoramentos de insights de desempenho do marketing](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Aprimoramentos de insights de desempenho do marketing](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Aprimoramentos de usabilidade**
 
@@ -88,7 +88,7 @@ Para obter mais detalhes e atualizações, verifique nossas [Notas de versão do
 
 ## Ad Networks {#ad-networks}
 
-**[Atualizar token](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[Atualizar token](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
 Implementamos um token de atualização em nossas soluções de redefinição de metas e Formulário principal do LinkedIn que estende o tempo de acesso para um ano antes da reautenticação ser necessária.
 
@@ -100,7 +100,7 @@ O Marketo agora oferece suporte ao uso de campos de disposição por email sobre
 
 >[!NOTE]
 >
->Como parte da versão do terceiro trimestre, atualizaremos a versão OAuth para GoToWebinar de 1.0 para 2.0. Essa alteração está sendo feita antes da GoToWebinar desaprovar o suporte para OAuth 1.0 em janeiro de 2019. Se você for um cliente GoToWebinar, será necessário autenticar novamente pelo LaunchPoint (na área de administração) antes de janeiro de 2019 para garantir que sua integração continue funcionando.
+>Como parte da versão do terceiro trimestre, atualizaremos a versão OAuth para GoToWebinar de 1.0 para 2.0. Essa alteração está sendo feita antes da GoToWebinar desaprovar o suporte para OAuth 1.0 em janeiro de 2019. Se você for um cliente GoToWebinar, precisará fazer a autenticação novamente pelo LaunchPoint (na área Admin) antes de janeiro de 2019 para garantir que sua integração continuará funcionando.
 
 >[!NOTE]
 >
