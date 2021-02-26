@@ -3,9 +3,9 @@ unique-page-id: 10097867
 description: Definir uma Lista inteligente para Atividades de personalização da Web - Documentos do Marketing - Documentação do produto
 title: Definir uma Lista inteligente para Atividades de personalização da Web
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,7 @@ Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pont
 
    >[!NOTE]
    >
-   >**Mergulho profundo**
-   >
-   >
-   >Listas inteligentes podem fazer coisas incríveis. Saiba mais no [Deep Dive da Lista inteligente](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Listas inteligentes podem fazer coisas incríveis. Saiba mais no [Deep Dive da Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Procure o acionador e arraste e solte o acionador na tela.
 
@@ -60,16 +57,11 @@ Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pont
    >
    >Com vários acionadores, uma pessoa percorre o fluxo se QUALQUER um dos acionadores for ativado.
 
-   [Definir Lista inteligente para Campanhas inteligentes | Lote](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   Para executar a campanha em um conjunto de pessoas ao mesmo tempo, aprenda a [Definir Lista inteligente para Campanhas inteligentes | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Definir Lista inteligente para Campanhas inteligentes | Lote](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >    * [Adicionar uma Etapa de fluxo a uma Campanha inteligente](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >    * [Definir uma Lista inteligente para Atividades de conteúdo preditivo](../../../product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [Definir Lista inteligente para Campanhas inteligentes | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Adicionar uma Etapa de fluxo a uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Definir uma Lista inteligente para Atividades de conteúdo preditivo](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
 
-
-Para executar a campanha em um grupo de pessoas ao mesmo tempo, aprenda a .
