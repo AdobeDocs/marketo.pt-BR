@@ -3,9 +3,9 @@ unique-page-id: 2951097
 description: Notas de versão - maio de 2013 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - maio de 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Notas de versão: Maio de 2013 {#release-notes-may}
 
-Os seguintes recursos foram incluídos na versão de maio. Verifique sua [Marketing](https://docs.marketo.com/display/docs/assets/pricing.php) [Edition](https://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
-
-Após o lançamento, verifique a guia [Nova versão](release-notes-december-2013.md) na Comunidade para obter artigos detalhados da Base de conhecimento para cada recurso!
+Os seguintes recursos foram incluídos na versão de maio.
 
 ## Arquivos de calendário para Landing page {#calendar-files-for-landing-pages}
 
@@ -40,4 +38,3 @@ Encontre ações de fluxo mais rapidamente com a árvore de ação de fluxo rec�
 Alterar status de progressão agora é Alterar status do Programa. Alterar dados do Programa agora é Alterar sucesso do Programa
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
-
