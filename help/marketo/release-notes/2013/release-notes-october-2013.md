@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2951054
-description: Notas de versão - outubro de 2013 - Documentos do Marketing - Documentação do produto
+description: Notas de versão - outubro de 2013 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - outubro de 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Notas de versão: Outubro de 2013 {#release-notes-october}
 
-Os seguintes recursos foram incluídos na versão de outubro de 2013. Verifique sua [Edição de marketing](https://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
+Os seguintes recursos foram incluídos na versão de outubro de 2013.
 
 ## template.marketo.com {#templates-marketo-com}
 
-[Modelos.marketo.](https://templates.marketo.com) comshowcase modelos de e-mail e landing page (incluindo modelos responsivos de e-mail para dispositivos móveis) que você pode baixar da Biblioteca de Programas de marketing. Adicionaremos modelos mensalmente, verificaremos com frequência!
+[Modelos.marketo.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) comshowcase modelos de e-mail e landing page (incluindo modelos responsivos de e-mail para dispositivos móveis) que você pode baixar da Biblioteca de Programas de marketing. Adicionaremos modelos mensalmente, verificaremos com frequência!
 
 ## developers.marketo.com {#developers-marketo-com}
 
@@ -29,4 +29,4 @@ Sincronize campos adicionais de BrightTALK para Marketo, incluindo Nome da Empre
 
 ## Aplicativo de check-in do Evento tablet Android {#android-tablet-event-check-in-app}
 
-Verifique os inscritos no seu evento usando nossa nova verificação com base no Android em app](../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) disponível em [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).[
+Verifique os inscritos no seu evento usando nossa nova verificação com base no Android em app](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) disponível em [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).[
