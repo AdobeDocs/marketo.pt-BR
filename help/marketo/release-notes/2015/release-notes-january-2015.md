@@ -3,9 +3,9 @@ unique-page-id: 4720758
 description: Notas de versão - janeiro de 2015 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - janeiro de 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ Os seguintes recursos estão incluídos na versão de janeiro de 2015. Verifique
 
 ## Atualizações da Marketing Automation {#marketing-automation-updates}
 
-**Novas fotos de Rick DeCosta!**
-
-Rick é um cliente do Marketo do SmartBear e tem uma [coleção inacreditável de fotos](https://www.flickr.com/photos/rickdecosta). Dê uma olhada!
-
-## Landings page amigáveis para dispositivos móveis {#mobile-friendly-landing-pages}
+**Landings page amigáveis para dispositivos móveis**
 
 Agora você pode [criar visualizações móveis para landing page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) no editor de landings page. Forneça sua mensagem de forma eficiente, independentemente do dispositivo, e aumente o envolvimento, adaptando seu conteúdo para fácil consumo em qualquer lugar. Esse recurso será lançado gradualmente durante a semana seguinte ao lançamento.
 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
+[Vídeo Walkthrough da Landing page-](https://youtu.be/aPQHlG2X6c0)
 
-**Novas chamadas da API ReST**
+**Novas chamadas de API de repouso**
 
 Três novas chamadas para a API ReST de cliente potencial e Atividade:
 
@@ -57,9 +53,9 @@ As melhorias no módulo Contas nomeadas melhorarão as taxas de correspondência
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-Opções de tag RTP atualizadas
+**Opções de tag RTP atualizadas**
 
-[As opções de ](https://docs.marketo.com/display/docs/rtp+tag+implementation) Tags RTP em Configurações de conta foram atualizadas para incluir:
+As opções de etiqueta RTP em Configurações da conta foram atualizadas para incluir:
 
 1. CDN e assíncrono (tag recomendada)
 1. CDN e síncrono (alta velocidade)
