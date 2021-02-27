@@ -3,9 +3,9 @@ unique-page-id: 12977439
 description: Notas de versão - Primeiro trimestre de 2017 - Documentos de marketing - Documentação do produto
 title: Notas de versão - Primeiro trimestre de 2017
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Os seguintes recursos estão incluídos na versão do primeiro trimestre de 2017
 
 Clique nos links de título para artigos detalhados de visualização para cada recurso. **Observação**: Se um tópico tiver várias sub-rubricas, os links serão colocados lá.
 
-## [Forms da Gen do LinkedIn](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-forms}
+## [Forms da Gen do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
 [Os ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Fórmulas de geração do LinkedIn são uma forma mais direta de uma empresa executar campanhas de geração de leads no LinkedIn. As pessoas podem preencher formulários para expressar interesse em um produto ou serviço, permitindo que a empresa capture os detalhes da pessoa e sincronize-os com o Marketing, onde podem ocorrer processos de acompanhamento automatizados e atividades de roteamento de lead.
 
@@ -25,7 +25,7 @@ A integração do Marketing com o LinkedIn Lead Gen Forms captura automaticament
 
 ![](assets/release-notes-image.png)
 
-## [Expirar modelo MSI](https://docs.marketo.com/x/VgIt) {#expire-msi-template}
+## [Expirar modelo MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
 
 Foram-se embora os dias de limpeza de modelos desatualizados no Sales Insight. Defina uma data de expiração ao publicar seu email e cuidaremos de despublicá-lo quando a data de expiração for revertida.
 
@@ -41,15 +41,15 @@ Transfira facilmente grandes quantidades de dados pessoais e de atividade do Mar
 
 ## Aprimoramentos de ABM {#abm-enhancements}
 
-** [Campos Personalizados em Contas Nomeadas do ABM](https://docs.marketo.com/x/1wnG)**
+**[Campos personalizados em contas nomeadas do ABM](https://docs.marketo.com/x/1wnG)**
 
 O Marketo ABM agora permite que você crie até 10 campos personalizados em suas Contas Nomeadas. Você pode mapear esses campos personalizados para campos em seu objeto de conta CRM e o ABM de marketing sincronizará os dados, permitindo que você estenda suas contas nomeadas ABM e ajude a direcionar seu marketing.
 
-** [Pontuação de Percentual em Contas Nomeadas do ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+**[Pontuação de percentil em contas com nomes ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 As pontuações de conta nomeada podem variar muito. O Marketing ABM agora calcula automaticamente um percentil para cada uma de suas pontuações, para que você possa ver rapidamente onde cada Conta nomeada está classificada entre suas outras Contas Nomeadas.
 
-** [APIs de Lista de conta ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[APIs de Lista de conta ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Tire proveito das integrações avançadas e robustas de parceiros ABM com suporte aprimorado à API para Listas de conta nomeada.
 
@@ -57,7 +57,7 @@ Tire proveito das integrações avançadas e robustas de parceiros ABM com supor
 
 ![](assets/dialogoptions.png)
 
-** [Campanha Web com rolagem](https://docs.marketo.com/x/2grG)**
+**[Campanha na Web com rolagem](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 Os novos efeitos de Campanha na Web fornecem aos visitantes da Web uma experiência mais personalizada. Defina suas Campanhas personalizadas da Web para serem exibidas somente quando um visitante da Web rolar para baixo em sua página da Web. Você pode definir suas Campanhas da Web da caixa de diálogo para mostrar ao rolar com base em:
 
@@ -65,35 +65,35 @@ Os novos efeitos de Campanha na Web fornecem aos visitantes da Web uma experiên
 * pixel atingido
 * rolagem abaixo da dobra da página
 
-** [Campanha da Web na intenção de saída](https://docs.marketo.com/x/2grG)**
+**[Campanha na Web após intenção de saída](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 Capture a atenção de seu visitante antes que eles fechem sua página. Defina suas Campanhas personalizadas da Web para exibir somente quando um gesto de mouse indicar que o visitante está saindo da página.
 
-** [Efeitos de animação para Campanhas da Web](https://docs.marketo.com/x/JgNI)**
+**[Efeitos de animação para Campanhas da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Defina os efeitos de animação para sua Campanha da Web da caixa de diálogo para personalizar como uma campanha é exibida ao entrar ou sair de sua página da Web. Você pode selecionar entre 6 efeitos diferentes e controlar o tempo e a direção da caixa de diálogo.
 
 ![](assets/animationoptins.png)
 
-** [Personalização do botão Fechar caixa de diálogo](https://docs.marketo.com/x/JgNI)**
+**[Personalização do botão Fechar da caixa de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Personalize o botão Fechar para caixas de diálogo. Selecione de uma variedade de opções usadas em Campanhas da Web de Estilo de caixa de diálogo transparente. Selecione o ícone, a cor e o posicionamento do botão Fechar. Você também pode adicionar sua própria imagem de botão.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-** [Arquivar Campanhas Web](https://docs.marketo.com/x/_grG)**
+**[Arquivar Campanhas da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
 O arquivamento é um novo status de Campanha da Web que permite arquivar Campanhas da Web e ocultá-las da visualização de Campanha da Web padrão. Isso permite que você se concentre em suas campanhas mais relevantes e ativas e recupere campanhas arquivadas mais antigas sob demanda.
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-** [Localização](https://docs.marketo.com/x/YAIk)**
+**[Localização](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
 A Personalização da Web agora é oferecida em todos os idiomas suportados pelo Marketing (inglês, japonês, alemão, espanhol, francês e português).
 
 ## Aprimoramentos preditivos {#predictive-enhancements}
 
-** [Localização](https://docs.marketo.com/x/YAIk)**
+**[Localização](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
 O conteúdo previsível agora é oferecido em todos os idiomas compatíveis com o mercado (inglês, japonês, alemão, espanhol, francês e português).
 
