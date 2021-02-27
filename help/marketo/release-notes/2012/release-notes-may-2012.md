@@ -3,21 +3,15 @@ unique-page-id: 2951117
 description: Notas de versão - maio de 2012 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - maio de 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
 
 # Notas de versão: Maio de 2012 {#release-notes-may}
-
->[!NOTE]
->
->**Mergulho profundo**
->
->Para outras versões, consulte as [Notas de versão](https://docs.marketo.com/display/docs/release+notes) profundas.
 
 ## Redesign de relatório de desempenho de email {#email-performance-report-redesign}
 
@@ -47,7 +41,9 @@ Simplifique o processo de check-in do seu evento usando nosso novo aplicativo iP
 
 Requer iOS 5.1 ou posterior; Somente iPad.
 
-![](assets/image2014-9-23-10-3a14-3a46.png)Figura 3. Home page de check-in do evento
+![](assets/image2014-9-23-10-3a14-3a46.png)
+
+Figura 3. Home page de check-in do evento
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
@@ -142,4 +138,3 @@ Figura 15. Consulte atividade da Web anônima
 ## Assinatura de cliente potencial e contato aprimorada {#enhanced-lead-and-contact-subscribe}
 
 Siga um lead ou entre em contato a qualquer momento usando o novo botão Assinar na página de detalhes do registro.
-
