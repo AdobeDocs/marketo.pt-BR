@@ -3,9 +3,9 @@ unique-page-id: 2951099
 description: Notas de versão - abril de 2013 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - abril de 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Notas de versão: Abril de 2013 {#release-notes-april}
 
-Os seguintes recursos foram incluídos na versão de abril. Verifique sua [Edição de marketing](https://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
-
-Após o lançamento, verifique a guia [Nova versão](release-notes-december-2013.md) na Comunidade para obter artigos detalhados da Base de conhecimento para cada recurso!
+Os seguintes recursos foram incluídos na versão de abril.
 
 ## Integração de caixa {#box-integration}
 
