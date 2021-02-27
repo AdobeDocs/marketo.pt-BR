@@ -3,9 +3,9 @@ unique-page-id: 11380218
 description: Notas de versão - Verão de 16 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - Verão de 16
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ O Marketing baseado em conta de marketing fornece todos os recursos básicos em 
 >
 >O ABM está disponível como um complemento para sua subscrição de marketing, portanto entre em contato com seu representante de vendas para que ele seja implementado.
 
-## [Trilha de auditoria](https://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
+## [Trilha de auditoria](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
 A trilha de auditoria fornece um histórico abrangente das alterações feitas na sua subscrição de marketing. Isso criará responsabilidade entre usuários e administradores, ajudará a identificar a causa do comportamento inesperado e fornecerá a segurança de saber quem está fazendo o quê e quando. Essas informações estarão disponíveis a qualquer momento e poderão ser usadas para responder a perguntas como:
 
@@ -39,7 +39,7 @@ A trilha de auditoria fornece um histórico abrangente das alterações feitas n
 
 ![](assets/audit-trail.png)
 
-## [Integração do Marketing-Vibes SMS LaunchPoint](https://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
+## [Integração do Marketing-Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Crie facilmente mensagens SMS diretamente no Marketo. Personalize e público alvo sua mensagem usando seus dados avançados de marketing e monitore facilmente seu desempenho usando o painel de mensagens SMS.
 
@@ -72,7 +72,7 @@ Use a nova funcionalidade de pesquisa para localizar e substituir conteúdo com 
 
 Tokens agora podem ser usados na área &quot;URL externo&quot; da experiência de inserção de imagem! Se você especificou imagens com `{{my.tokens}}`, agora é possível fazer referência a esses tokens no Editor de email 2.0. Observe que a imagem ainda aparecerá quebrada na tela do Editor de email 2.0. Mas você verá eles renderizados na Pré-visualização e Enviar amostra antes de enviar seu email.
 
-## [Vários domínios de marca](https://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
+## Vários domínios de marca {#multiple-branding-domains}
 
 Foram-se os dias em que os links de tracking de email só podiam ser marcados com um único domínio de marca. Agora você pode adicionar vários domínios de marca para inspirar a confiança do consumidor, criar uma aparência mais simplificada para se concentrar na marca, melhorar a capacidade de entrega de email e escolher, por email, qual domínio de marca usar para cada link de rastreamento de email.
 
