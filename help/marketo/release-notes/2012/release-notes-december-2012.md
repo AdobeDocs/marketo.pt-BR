@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2951107
-description: Notas de versão - dezembro de 2012 - Documentos do Marketing - Documentação do produto
+description: Notas de versão - dezembro de 2012 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - dezembro de 2012
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -70,7 +70,6 @@ Adicione campos de oportunidade personalizados para aprimorar seus relatórios d
 
 Você já se perguntou quais campanhas estão usando uma ação de fluxo específica, como Alterar pontuação ou Solicitar Campanha? Ou onde um determinado filtro está sendo usado? O novo Inspetor de Campanhas (disponível no Treasure Chest) permite identificar essas campanhas, assim como campanhas e campanhas ativas com erros.
 
-Vá para **Admin** > **Treasure Chest** para ativar o Inspetor de Campanhas***.
+Vá para **Admin** > **Treasure Chest** para ativar o **Inspetor de Campanhas**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
-
