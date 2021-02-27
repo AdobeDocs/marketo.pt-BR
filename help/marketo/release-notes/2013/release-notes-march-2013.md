@@ -3,9 +3,9 @@ unique-page-id: 2951101
 description: Notas de versão - março de 2013 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - março de 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Notas de versão: Março de 2013 {#release-notes-march}
 
-Os seguintes recursos estão incluídos na versão de março. Verifique sua [Edição de marketing](https://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
-
-Após o lançamento, verifique a guia [Nova versão](release-notes-december-2013.md) na Comunidade para obter artigos detalhados da Base de conhecimento para cada recurso!
+Os seguintes recursos estão incluídos na versão de março.
 
 ## Arquivos de calendário do Marketo {#marketo-calendar-files}
 
