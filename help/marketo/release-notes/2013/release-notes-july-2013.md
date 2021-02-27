@@ -3,9 +3,9 @@ unique-page-id: 2951093
 description: Notas de versão - julho de 2013 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - julho de 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Notas de versão: Julho de 2013 {#release-notes-july}
 
-Os recursos a seguir estão incluídos na versão de julho, que está agendada para o lançamento da sexta-feira, 26 de julho.  Verifique sua [Edição de marketing](https://docs.marketo.com/display/docs/assets/pricing.php) para obter informações sobre a disponibilidade de recursos.
-
-Após o lançamento, verifique a guia [Nova versão](release-notes-december-2013.md) na Comunidade para obter os artigos de ajuda detalhados para cada recurso!
+Os recursos a seguir estão incluídos na versão de julho, que está agendada para o lançamento da sexta-feira, 26 de julho.
 
 ## Widget de conteúdo esgotado no Painel {#exhausted-content-widget-on-the-dashboard}
 
@@ -44,4 +42,3 @@ Visualização e classifique a grade de membro pela data em que o cliente potenc
 ## Alterações na verificação ortográfica no editor WYSIWYG {#changes-to-spell-check-in-wysiwyg-editor}
 
 O serviço utilizado pelo editor WYSIWYG para verificação ortográfica foi descontinuado. Removemos o botão Verificação ortográfica do editor até que seja encontrada uma substituição.
-
