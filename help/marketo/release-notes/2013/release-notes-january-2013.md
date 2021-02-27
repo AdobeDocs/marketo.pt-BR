@@ -3,7 +3,7 @@ unique-page-id: 2951105
 description: Notas de versão - janeiro de 2013 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - janeiro de 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -62,4 +62,3 @@ Os Nomes de exibição de campo podem exibir texto em idiomas diferentes (por ex
 A etapa Alterar fluxo de dados do Programa permite alterar manualmente o status de Sucesso e a Data de Sucesso de um membro do programa por meio de uma campanha. Você pode usar essa etapa de fluxo para corrigir um erro ou para alterar manualmente um membro que pode não ter participado do programa conforme desejado.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
-
