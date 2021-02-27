@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: Notas de versão - dezembro de 2014 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - dezembro de 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Os seguintes recursos foram incluídos na versão de dezembro de 2014. Verifique
 
 ## Relatórios de insight de vendas {#sales-insight-reports}
 
-O [Relatório de desempenho de email do Sales Insight](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permite que você visualize métricas de email por email e representante de vendas. Suporta emails enviados pelo Salesforce, Microsoft Dynamics, o plug-in do Outlook e o plug-in Gmail.
+O [Relatório de desempenho de email do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permite que você visualize métricas de email por email e representante de vendas. Suporta emails enviados pelo Salesforce, Microsoft Dynamics, o plug-in do Outlook e o plug-in Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ O [Relatório de desempenho de email do Sales Insight](../../product-docs/market
 
 ## Audiências personalizadas do Facebook {#facebook-custom-audiences}
 
-Depois que seu administrador de marketing tiver adicionado [Facebook via Admin > Launchpoint](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), você poderá facilmente criar, atualizar ou [substituir uma Audiência personalizada do Facebook por clientes potenciais de uma lista estática ou inteligente de marketing](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Procure o novo ícone do Facebook na parte inferior da grade principal de qualquer lista estática ou inteligente.
+Depois que seu administrador de marketing tiver adicionado [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), você poderá facilmente criar, atualizar ou [substituir uma Audiência personalizada do Facebook por clientes potenciais de uma lista estática ou inteligente de marketing](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Procure o novo ícone do Facebook na parte inferior da grade principal de qualquer lista estática ou inteligente.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Clonagem aprimorada entre espaços de trabalho {#improved-cloning-across-workspaces}
 
-[Clonar um ](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) programa para outro espaço de trabalho nunca foi tão fácil! Ao clicar em clonar, você seleciona a área de trabalho de destino. Não há mais clonagem em uma pasta e depois movendo a pasta!
+[Clonar um ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) programa para outro espaço de trabalho nunca foi tão fácil! Ao clicar em clonar, você seleciona a área de trabalho de destino. Não há mais clonagem em uma pasta e depois movendo a pasta!
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Depois que seu administrador de marketing tiver adicionado [Facebook via Admin >
 
 ## Lista inteligente de referência {#reference-smart-list}
 
-[Listas inteligentes que são compartilhadas com outro espaço de trabalho podem ser ](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)referenciadas ao criar uma lista ou fluxo inteligente.
+[Listas inteligentes que são compartilhadas com outro espaço de trabalho podem ser ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) referenciadas ao criar uma lista ou fluxo inteligente.
 
 ## Melhorias na importação de lista {#list-import-improvements}
 
-[Importe ](../../getting-started/quick-wins/import-a-list-of-people.md) arquivos codificados em UTF-16, Shift-JIS ou EUC-JP. Continuamos a oferecer suporte a arquivos codificados UTF-8.
+[Importe ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) arquivos codificados em UTF-16, Shift-JIS ou EUC-JP. Continuamos a oferecer suporte a arquivos codificados UTF-8.
 
 ## Rastreamento de link em scripts de email {#link-tracking-in-email-scripting}
 
@@ -94,4 +94,3 @@ Gerencie e monitore suas principais contas de alto rendimento na nova página Co
 Adicionamos um novo efeito Deslizante para campanhas In Zone para permitir que seu conteúdo personalizado deslize para o lugar após o carregamento da página.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
-
