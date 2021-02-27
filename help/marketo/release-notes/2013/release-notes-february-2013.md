@@ -3,7 +3,7 @@ unique-page-id: 2951103
 description: Notas de versão - fevereiro de 2013 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - fevereiro de 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,4 +33,4 @@ As guias do Facebook publicadas do Marketo detectarão dispositivos móveis e os
 
 ## Em breve: Suporte para vários modelos {#coming-soon-support-for-multiple-models}
 
-Estamos preparando o terreno para suportar vários modelos de ciclo de receita, votamos a ideia nº 1 para a RCA na Comunidade, em uma versão futura. Nesta versão, você observará algumas alterações, incluindo [filtros de Lista inteligente e Adicionar opções em etapas de fluxo](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) para suportar a seleção de um modelo e estágio. Também estamos movendo os campos Estágio de receita potencial e Modelo de ciclo de receita potencial para fora da guia de grade Lead de Lista inteligente.
+Estamos preparando o terreno para suportar vários modelos de ciclo de receita, votamos a ideia nº 1 para a RCA na Comunidade, em uma versão futura. Nesta versão, você observará algumas alterações, incluindo [filtros de Lista inteligente e Adicionar opções em etapas de fluxo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) para suportar a seleção de um modelo e estágio. Também estamos movendo os campos Estágio de receita potencial e Modelo de ciclo de receita potencial para fora da guia de grade Lead de Lista inteligente.
