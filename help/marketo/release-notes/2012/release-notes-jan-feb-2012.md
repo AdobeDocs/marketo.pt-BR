@@ -3,9 +3,9 @@ unique-page-id: 2951124
 description: Notas de versão - Jan/Fev de 2012 - Documentos do Marketing - Documentação do produto
 title: Notas de versão - Jan/Fev de 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Os seguintes recursos estão incluídos na versão de janeiro/fevereiro. Verifique sua edição de marketing para ver a disponibilidade de recursos. Volte depois do lançamento para obter links para a documentação detalhada dos recursos.
 
->[!NOTE]
->
->**Mergulho profundo**
->
->Para outras versões, consulte as [Notas de versão](https://docs.marketo.com/display/docs/release+notes) profundas.
-
 ## Conteúdo dinâmico avançado {#advanced-dynamic-content}
 
-*Disponível para versões Pro e Enterprise*
+_Disponível para versões Pro e Enterprise_
 
 Com conteúdo dinâmico avançado, você pode criar landings page e comunicações de email envolventes relevantes para a sua audiência sem precisar criar vários ativos para a mesma mensagem. Visualizadores atualizados permitem que você visualização cada versão exclusiva em uma única tela.
 
@@ -31,7 +25,7 @@ Com conteúdo dinâmico avançado, você pode criar landings page e comunicaçõ
 
 ## Segmentação {#segmentation}
 
-*Disponível para versões Pro e Enterprise*
+_Disponível para versões Pro e Enterprise_
 
 A segmentação é um grupo de segmentos, que são um grupo direcionado de indivíduos para os quais você comercializa. Os segmentos são definidos por regras orientadas por critérios de filtragem semelhantes às listas inteligentes. Seus segmentos podem se basear em dados demográficos, como cargo ou setor, ou em comportamentos, como páginas da Web visitadas ou links clicados.
 
@@ -39,7 +33,7 @@ A segmentação é um grupo de segmentos, que são um grupo direcionado de indiv
 
 ## Trechos {#snippets}
 
-*Disponível para versões Pro e Enterprise*
+_Disponível para versões Pro e Enterprise_
 
 Armazene conteúdo avançado que pode ser usado várias vezes para criar e-mails e landings page estáticos ou dinâmicos.
 
@@ -47,7 +41,7 @@ Armazene conteúdo avançado que pode ser usado várias vezes para criar e-mails
 
 ## PURLs {#purls}
 
-*Disponível para versões Pro e Enterprise*
+_Disponível para versões Pro e Enterprise_
 
 O uso de URLs personalizados (PURLs) para profissionais de marketing agora pode criar URLs específicos de contato, para impulsionar a personalização, a mensurabilidade e as respostas de incentivo em programas de marketing multitoque para campanhas de email e mala direta.
 
@@ -105,4 +99,3 @@ Compreender a contribuição de marketing para a receita de oportunidade individ
 Saiba mais sobre a velocidade de chumbo do programa, entendendo quais programas adquiriram os motores rápidos
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
-
