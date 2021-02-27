@@ -3,9 +3,9 @@ unique-page-id: 11370952
 description: Notas de versão - Primeiro trimestre de 2016 - Documentos de marketing - Documentação do produto
 title: Notas de versão - Primeiro trimestre de 2016
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Os seguintes recursos estão incluídos na versão do primeiro trimestre de 2016. Clique nos links de título para artigos detalhados de visualização para cada recurso.
 
-## [Insights de email](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [Insights de email](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
 O Email Insights é uma nova experiência histórica de análise de e-mail de dados de agregação — reprojetado de ponta a ponta para desempenho rápido e relâmpago como parte do Project Orion. Ele apresenta um novo design de interface do usuário otimizado para atender às necessidades e ao fluxo de trabalho dos profissionais de marketing de email.
 
@@ -31,7 +31,7 @@ Crie belos e-mails usando nossos novos modelos iniciais! Além disso, localize r
 
 >[!NOTE]
 >
->O Editor de e-mail 2.0 (com o Seletor de modelos) será lançado gradualmente a partir de 3 de junho. Concluiremos o lançamento até 30 de junho. Ao contrário do Email Insights, você não será notificado quando tiver acesso. Para ver se sim, siga as etapas em [este artigo](https://docs.marketo.com/pages/viewpage.action?pageId=11373011).
+>O Editor de e-mail 2.0 (com o Seletor de modelos) será lançado gradualmente a partir de 3 de junho. Concluiremos o lançamento até 30 de junho. Ao contrário do Email Insights, você não será notificado quando tiver acesso. Para ver se sim, siga as etapas em [este artigo](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -53,17 +53,13 @@ Foram-se os dias em que você tem que reaprovar tudo toda vez que um snippet é 
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Atividades personalizadas](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
-
-Os administradores de marketing agora podem definir e gerenciar seus tipos de atividade personalizados por meio do modelador Definição de Atividade personalizada de marketing. Semelhante ao (e em conjunto com) o Modelador de objeto personalizado de marketing, os administradores agora podem estender o modelo de dados de acordo com suas necessidades comerciais exatas. Detalhes sobre como usar essa funcionalidade estão disponíveis no [site de documentação do Marketing](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
-
 ## [landing page, modelo de Landing page e APIs de formulário](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 As APIs REST do Marketo agora oferecem suporte ao controle sobre landings page de marketing, modelos de landing page e formulários. Agora, os usuários podem criar, atualizar conteúdo, aprovar e excluir esses ativos diretamente por meio da API REST de marketing.
 
 ## [INCLUIR NA LISTA DE PERMISSÕES IP para acesso à API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Semelhante ao recurso de  de IP para logons de usuário do Marketing incluir na lista de permissões, os administradores do Marketo agora podem configurar uma lista de permissões de endereços IP que podem acessar as APIs SOAP e REST do Marketo, bloqueando o acesso de endereços IP não autorizados. Isso fornece uma camada adicional de segurança para a sua instância do Marketo e garante que o acesso à API só possa ocorrer na rede da sua organização. Detalhes sobre como configurar isso estão disponíveis no [site de documentação do Marketing](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access).
+Semelhante ao recurso de  de IP para logons de usuário do Marketing incluir na lista de permissões, os administradores do Marketo agora podem configurar uma lista de permissões de endereços IP que podem acessar as APIs SOAP e REST do Marketo, bloqueando o acesso de endereços IP não autorizados. Isso fornece uma camada adicional de segurança para a sua instância do Marketo e garante que o acesso à API só possa ocorrer na rede da sua organização. Detalhes sobre como configurar isso estão disponíveis no [site de documentação do Marketing](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Novo Microsoft Dynamics Sync Connector de Alta Velocidade](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -100,3 +96,7 @@ Hoje, os usuários são convidados para a subscrição do Marketing por um perí
 Agora, você pode visualização o número de registros e campos para todos os objetos personalizados publicados.
 
 ![](assets/custom-objects-grid.png)
+
+## Atividades personalizadas {#custom-activities}
+
+Os administradores de marketing agora podem definir e gerenciar seus tipos de atividade personalizados por meio do modelador Definição de Atividade personalizada de marketing. Semelhante ao (e em conjunto com) o Modelador de objeto personalizado de marketing, os administradores agora podem estender o modelo de dados de acordo com suas necessidades comerciais exatas. Detalhes sobre como usar essa funcionalidade estão disponíveis no [site de documentação do Marketing](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
