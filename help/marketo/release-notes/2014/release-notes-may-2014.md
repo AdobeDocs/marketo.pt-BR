@@ -3,9 +3,9 @@ unique-page-id: 2951044
 description: Notas de versão - maio de 2014 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - maio de 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Os seguintes recursos foram incluídos na versão de maio de 2014. Verifique a d
 
 ## Excluir espaço de trabalho {#delete-workspace}
 
-Agora você pode [excluir um espaço de trabalho não utilizado](../../product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Certifique-se de mover todos os ativos para outro espaço de trabalho antes de tentar excluir o espaço de trabalho.
+Agora você pode [excluir um espaço de trabalho não utilizado](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Certifique-se de mover todos os ativos para outro espaço de trabalho antes de tentar excluir o espaço de trabalho.
 
 ## Agendar primeira visita {#schedule-first-cast}
 
-Em programas de envolvimento, você pode agendar a data para a primeira conversão [executar](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Por exemplo, especifique a cadência a cada 2 semanas e selecione a data da primeira conversão.
+Em programas de envolvimento, você pode agendar a data para a primeira conversão [executar](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Por exemplo, especifique a cadência a cada 2 semanas e selecione a data da primeira conversão.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -33,13 +33,13 @@ Agora todos têm vários programas, fluxos e limites de comunicação.
 
 ## Rastreamento de link em emails de texto {#link-tracking-in-text-emails}
 
-[Adicione ](../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) colchetes de duplo ao redor de URLs na versão de texto de seus emails para indicar quando os links devem ser convertidos em links de rastreamento de marketing redirecionados
+[Adicione ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) colchetes de duplo ao redor de URLs na versão de texto de seus emails para indicar quando os links devem ser convertidos em links de rastreamento de marketing redirecionados
 
 >[!NOTE]
 >
 >**Exemplo**
 >
->[[[https://www.marketo.com](https://www.marketo.com)]]
+>`[[https://www.marketo.com]]`
 
 Por padrão, nenhum link será rastreado na versão de texto de e-mails. Adicione esta nova sintaxe para indicar quando um link deve ser convertido em um link de rastreamento. O comportamento dos links HTML não é alterado.  Para adicionar links rastreados a seus emails:
 
@@ -59,7 +59,7 @@ Veja como seus links se comportarão em emails com antecedência. E-mails de amo
 
 ## Anular Campanha {#abort-campaign}
 
-Não entre em pânico! Se você encontrar um erro, use o novo botão [abortar campanha](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) para parar imediatamente as campanhas em suas faixas. Você receberá uma notificação descrevendo quantos clientes potenciais estavam pendentes em cada etapa de fluxo quando a campanha foi parada.
+Não entre em pânico! Se você encontrar um erro, use o novo botão [abortar campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) para parar imediatamente as campanhas em suas faixas. Você receberá uma notificação descrevendo quantos clientes potenciais estavam pendentes em cada etapa de fluxo quando a campanha foi parada.
 
 ## Informações sobre vendas em japonês, português e espanhol {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -69,11 +69,11 @@ Baixe a versão mais recente do Sales Insight da AppExchange para que seus agent
 
 ## Status do programa e cronograma de sucesso na Análise de associação ao Programa {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Visualização quantos [membros estão em cada Status do Programa](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e quando mudaram para cada status, incluindo a data em que alcançaram o sucesso do Programa.
+Visualização quantos [membros estão em cada Status do Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e quando mudaram para cada status, incluindo a data em que alcançaram o sucesso do Programa.
 
 ## Emails de teste A/B na Análise de email {#a-b-test-emails-in-email-analysis}
 
-Relate cada uma de suas [variantes de e-mail de teste A/B](../../product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) na Análise de e-mail.
+Relate cada uma de suas [variantes de e-mail de teste A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) na Análise de e-mail.
 
 ## Alterações de pacotes do Analytics {#analytics-packaging-changes}
 
@@ -81,9 +81,4 @@ O Modelador de ciclo de receita e o Analisador de caminho de sucesso agora estã
 
 ## Informações da plataforma móvel {#mobile-platform-info}
 
-[Segmentar e ](../../product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) acionar os clientes potenciais, abrindo e clicando em emails de seus dispositivos móveis.
-
->[!NOTE]
->
->Confira as notas de versão anteriores [do Marketing ](https://docs.marketo.com/display/docs/release+notes)
-
+[Segmentar e ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) acionar os clientes potenciais, abrindo e clicando em emails de seus dispositivos móveis.
