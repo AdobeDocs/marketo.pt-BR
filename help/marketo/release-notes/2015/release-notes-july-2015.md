@@ -3,9 +3,9 @@ unique-page-id: 8783189
 description: Notas de versão - julho de 2015 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - julho de 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Fora no almoço, mas precisa reagendar um e-mail? O aplicativo Marketo Moments, 
 ## Atualização do Editor de Rich Text {#rich-text-editor-update}
 
 Atualização do editor de texto com aparência moderna, incluindo formatação de texto simplificada, edição de imagens, inserção de links e edição de HTML. O editor HTML agora apresenta validação mínima, permitindo uma edição de código menos restritiva.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta atualização será automaticamente implementada em alguns dias após a versão de julho. Depois disso, você poderá alternar entre as versões Novo e Herdado do editor de **Administrador > Email > Editar configurações do editor**. Se você notar problemas com a nova versão do editor de texto, queremos saber! Envie uma breve descrição para [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta atualização será automaticamente implementada em alguns dias após a versão de julho. Depois disso, você poderá alternar entre as versões Novo e Herdado do editor de **Administrador > Email > Editar configurações do editor**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -54,4 +54,4 @@ Saiba mais [mais](https://developers.marketo.com/documentation/company-api/) em 
 
 ## Acesse a capacidade de entrega de email {#access-email-deliverability}
 
-**Acessar ferramenta de entrega de email: **Essa nova permissão permite que os administradores concedam aos usuários acesso à ferramenta Entrega de email.
+**Ferramenta** Acessar entrega por email: Essa nova permissão permite que os administradores concedam aos usuários acesso à ferramenta Entrega de email.
