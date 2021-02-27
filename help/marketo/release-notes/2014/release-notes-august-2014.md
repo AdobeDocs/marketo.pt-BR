@@ -3,7 +3,7 @@ unique-page-id: 2950212
 description: Notas de versão - agosto de 2014 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - agosto de 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Os seguintes recursos estão incluídos na versão de agosto de 2014. Verifique 
 
 ## Licenças do calendário de marketing {#marketing-calendar-licenses}
 
-Após 5 de setembro de 2014, apenas 5 usuários poderão ter acesso gratuito ao calendário de marketing. Certifique-se de [Emitir/Revogar uma Licença de Calendário de Marketing](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para os usuários de sua escolha antes, para acesso ininterrupto.
+Após 5 de setembro de 2014, apenas 5 usuários poderão ter acesso gratuito ao calendário de marketing. Certifique-se de [Emitir/Revogar uma Licença de Calendário de Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para os usuários de sua escolha antes, para acesso ininterrupto.
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -35,7 +35,7 @@ As novas permissões de usuário a seguir foram adicionadas:
 
 ## Exportar usuários e funções de Admin {#export-users-and-roles-from-admin}
 
-Agora você pode [Exportar uma Lista de usuários e funções](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) do Marketing. Você também pode incluir um carimbo de data e hora &quot;Último logon&quot; para ser incluído na exportação.
+Agora você pode [Exportar uma Lista de usuários e funções](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) do Marketing. Você também pode incluir um carimbo de data e hora &quot;Último logon&quot; para ser incluído na exportação.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -96,4 +96,3 @@ Os usuários administradores agora podem bloquear usuários devido a várias ten
 Agora é possível excluir IPs específicos de todos os rastreamentos e relatórios na Personalização em tempo real.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)
-
