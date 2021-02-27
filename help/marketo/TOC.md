@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guia de marketing
 user-guide-description: Documentação do produto do Marketing to
 translation-type: tm+mt
-source-git-commit: 6b15e601b1c6e424d10f702f35233b499660611f
+source-git-commit: 8bde41ab77661487bc220c3c4ec52c9be3b09fd0
 workflow-type: tm+mt
-source-wordcount: '7828'
+source-wordcount: '7833'
 ht-degree: 0%
 
 ---
@@ -140,7 +140,7 @@ ht-degree: 0%
          + [Adicionar o Google AdWords como um serviço Launchpoint com uma conta de gerente](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
          + [Adicionar Google AdWords como um Serviço LaunchPoint](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
          + [Adicionar GoToWebinar como um Serviço LaunchPoint](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
-         + [Adicionar Reunião Web de Nível 3 como um Serviço do LaunchPoint](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
+         + [Adicionar Reunião Web de Nível 3 como um Serviço LaunchPoint](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [Adicionar código de rastreamento Munchkin ao seu site](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [Perguntas frequentes sobre o rastreamento Munchkin da próxima geração](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [Adicionar ON24 como um Serviço LaunchPoint](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
@@ -716,6 +716,7 @@ ht-degree: 0%
             + [Editar um modelo de Landing page de marketing](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
             + [Tornar um modelo de Landing page de forma livre existente compatível com dispositivos móveis](product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
             + [Como entender elementos e variáveis em modelos guiados](product-docs/demand-generation/landing-pages/landing-page-templates/understanding-elements-and-variables-in-guided-templates.md)
+            + [Lista de modelo de Landing page guiada](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md)
             + Modelos de Landing page guiada {#guided-landing-page-templates}
                + [Modelo 1-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-a.md)
                + [Modelo 1-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-b.md)
