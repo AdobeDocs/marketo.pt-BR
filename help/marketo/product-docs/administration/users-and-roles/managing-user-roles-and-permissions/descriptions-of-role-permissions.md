@@ -1,9 +1,9 @@
 ---
 unique-page-id: 6848747
-description: Descrições de permissões de função - Documentos de marketing - Documentação do produto
-title: Descrições de permissões de função
+description: Descrições de permissões de função - Documentos do Marketo - Documentação do produto
+title: Descrições das permissões de função
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Descrições de permissões de função {#descriptions-of-role-permissions}
 
-Abaixo está uma lista de todas as permissões disponíveis que você pode atribuir às suas funções. As permissões são geralmente associadas a áreas funcionais específicas dentro do Marketo e podem ajudá-lo a controlar as áreas e funcionalidades às quais os diferentes usuários têm acesso.
+Abaixo está uma lista de todas as permissões disponíveis que você pode atribuir às suas funções. As permissões geralmente são associadas a áreas funcionais específicas dentro do Marketo e podem ajudar você a controlar quais áreas e funcionalidades diferentes os usuários têm acesso.
 
 Algumas informações adicionais sobre permissões:
 
-* A permissão &quot;Acesso&quot; concede uma permissão de função para a visualização e, às vezes, edita essa parte do aplicativo.
-* Para que uma função tenha acesso às subpermissões (&quot;Criar&quot;, &quot;Excluir&quot; etc.), essa função deve ter permissão de &quot;Acesso&quot; para essa parte do aplicativo. Por exemplo, se você quiser conceder a alguém permissão para Editar Campanhas, eles deverão ter permissão geral para acessar Atividades de marketing.
-* Você pode ver ações ou ativos que não têm permissão para usar. No entanto, se tentar acessá-los, você verá uma mensagem avisando sobre seu acesso limitado.
+* A permissão de &quot;Acesso&quot; dá permissão de função para visualizar e, às vezes, editar essa parte do aplicativo.
+* Para que uma função tenha acesso às subpermissões (&quot;Criar&quot;, &quot;Excluir&quot; etc.), ela deve ter permissão de &quot;Acesso&quot; para essa parte do aplicativo. Por exemplo, se você quiser dar a alguém permissão para Editar campanhas, elas devem ter permissão geral para acessar atividades de marketing.
+* É possível ver ações ou ativos que você não tem permissão para usar. No entanto, se você tentar acessá-los, verá uma mensagem avisando sobre seu acesso limitado.
 
 ## Permissões disponíveis {#available-permissions}
 
@@ -29,94 +29,94 @@ Ao [criar ou editar uma função](/help/marketo/product-docs/administration/user
 
 ## Administrador de acesso {#access-admin}
 
-Visualização e faça alterações nas configurações na seção Minha conta de Administrador.
+Exiba e faça alterações nas configurações na seção Minha conta de Administração.
 
-* Trilha de auditoria de acesso - concede aos usuários acesso à Trilha de auditoria de ativos e à Trilha de auditoria de administração
+* Trilha de auditoria de acesso - concede aos usuários acesso à trilha de auditoria de ativos e à trilha de auditoria de administração
 * Canais de acesso - concede aos usuários acesso somente para modificar a tag do Canal, não outras tags personalizadas
-* Limite de comunicação de acesso - concede aos usuários acesso para habilitar um limite de comunicação em Administrador
-* Access CRM - concede aos usuários acesso ao CRM, como Salesforce ou Microsoft Dynamics, em Admin
-* Access [Data.com](https://Data.com) - Concede aos usuários acesso à ação de fluxo Data.com
-* Access Email Admin - Concede aos usuários o Administrador de email para alterar as configurações padrão, como cancelar a assinatura e domínios de marca
-* Parceiros de Evento de acesso - concede aos usuários acesso ao LaunchPoint em Admin
+* Limite de comunicação de acesso - Fornece aos usuários acesso para ativar um limite de comunicação em Administração
+* Access CRM - concede aos usuários acesso ao CRM, como Salesforce ou Microsoft Dynamics, em Administração
+* Acesse [Data.com](https://Data.com) - Concede aos usuários acesso à ação de fluxo Data.com
+* Acessar administrador de email - concede usuários ao administrador de email para alterar configurações padrão, como cancelar a assinatura e domínios de marca
+* Acessar parceiros de evento - concede aos usuários acesso ao LaunchPoint em Admin
 * Gerenciamento de campo de acesso - concede aos usuários acesso ao Gerenciamento de campo na Administração
-* Carregamento de arquivo de acesso - concede aos usuários a capacidade de carregar imagens e arquivos no Design Studio
-* Landings page de acesso - concede aos usuários acesso às Landings page em Administração
-* Local de acesso - concede aos usuários acesso ao Local na Administração para configurar o idioma padrão, a localidade, o fuso horário e a moeda
-* Histórico de logon de acesso - concede aos usuários acesso ao Histórico de logon de usuário no Trilho de auditoria
-* Configurações de logon de acesso - concede aos usuários acesso às Configurações de logon em Admin para configurações de segurança, restrições de IP e Relatório de Lista inteligente
-* Acesso à Atividade personalizada de marketing - concede aos usuários acesso a Atividades personalizadas de marketing em Admin
-* Acessar objeto personalizado de marketing - concede aos usuários acesso a objetos personalizados de marketing em Admin
-* Access Munchkin - os usuários do GI acessam Munchkin em Admin, para configurar o código de rastreamento, o rastreamento de pessoas e a configuração da API
-* Access Revenue Cycle Analytics - Concede aos usuários acesso ao Revenue Cycle Analytics em Admin, para definir Sync Summary (Resumo da sincronização) e Attribution
+* Acessar upload de arquivo - Oferece aos usuários a capacidade de carregar imagens e arquivos no Design Studio
+* Acessar páginas de aterrissagem - Fornece aos usuários acesso às páginas de aterrissagem no Administrador
+* Local de acesso - concede aos usuários acesso ao local na Administração para definir o idioma padrão, a localidade, o fuso horário e a moeda
+* Histórico de logon de acesso - concede aos usuários acesso ao histórico de logon do usuário na trilha de auditoria
+* Configurações de logon de acesso - concede aos usuários acesso às Configurações de logon em Administração para configurações de Segurança, Restrições de IP e Relatório de lista inteligente
+* Acesso à atividade personalizada do Marketo - concede aos usuários acesso às atividades personalizadas do Marketo na administração
+* Acessar objeto personalizado do Marketo - concede aos usuários acesso aos objetos personalizados do Marketo na Administração
+* Access Munchkin - O GIveicula aos usuários acesso ao Munchkin no Admin, para definir o código de rastreamento, o rastreamento de pessoas e ativar a configuração da API
+* Acesse a Análise do ciclo de receita - concede aos usuários acesso à Análise do ciclo de receita em Administração, para definir o Resumo e a atribuição de sincronização
 * Funções de acesso - concede aos usuários acesso para gerenciar e editar funções, mas não aos usuários
-* Acessar o insight de vendas - concede aos usuários acesso para gerenciar o insight de vendas em Admin, para definir o status, a configuração da API, a pontuação da pessoa e outras configurações
-* Acesso ao logon único - concede aos usuários acesso para gerenciar o logon único em Admin, para habilitar o SAML e trabalhar com configurações SAML e URLs de página de redirecionamento
-* Campanha inteligente de acesso - concede aos usuários acesso à Campanha inteligente em Administração, para restringir os limites em pessoas qualificadas
-* API SOAP de acesso - concede aos usuários acesso para gerenciar APIs SOAP em serviços da Web em Administração
-* Tags de acesso - concede aos usuários acesso a todas as tags personalizadas, exceto à tag do Canal
+* Acessar insight de vendas - concede aos usuários acesso para gerenciar Insight de vendas em Administração, para definir status, configuração de API, Pontuação de pessoas e outras configurações
+* Acesso ao Logon único - Fornece aos usuários acesso para gerenciar o Logon Único no Admin, para ativar o SAML e trabalhar com configurações do SAML e URLs de Página de Redirecionamento
+* Acessar o Smart Campaign - concede aos usuários acesso ao Smart Campaign na Administração, para restringir os limites em pessoas qualificadas
+* Acessar API SOAP - Fornece aos usuários acesso para gerenciar APIs SOAP em Serviços da Web em Administração
+* Tags de acesso - concede aos usuários acesso a todas as tags personalizadas, exceto à tag de Canal
 * Access Treasure Chest - Concede aos usuários acesso aos recursos experimentais no Treasure Chest na Admin
-* Acessar usuários - concede aos usuários acesso para editar e gerenciar usuários (mas não funções) em Administração
-* Acessar webhooks - concede usuários a webhooks em Admin, para configurar detalhes e mapeamentos de resposta
-* Acessar espaços de trabalho e partições - concede aos usuários acesso para criar, editar e excluir espaços de trabalho e partições em Administração
+* Acessar usuários - concede aos usuários acesso para editar e gerenciar usuários (mas não funções) no Administrador
+* Acessar Webhooks - Oferece usuários aos Webhooks no Admin, para definir detalhes e mapeamentos de resposta
+* Acessar espaços de trabalho e partições - Concede aos usuários acesso para criar, editar e excluir espaços de trabalho e partições em Administração
 
 ## API de acesso {#access-api}
 
-Concede aos usuários com a **API apenas** **Função** acesso às APIs individuais listadas abaixo.
+Fornece aos usuários com a **API Somente** **Função** acesso às APIs individuais listadas abaixo.
 
 * Aprovar ativos
-* Campanha Execute
+* Executar campanha
 * Atividade somente leitura
-* Metadados de Atividade somente leitura
+* Metadados de atividade somente leitura
 * Ativos somente leitura
 * Campanha somente leitura
 * Empresa somente leitura
-* Objeto personalizado somente leitura
-* Pessoa somente leitura
-* Conta nomeada Somente Leitura
+* Objeto Personalizado Somente Leitura
+* Pessoa Somente Leitura
+* Conta Nomeada Somente Leitura
 * Oportunidade somente leitura
 * Pessoa de Vendas Somente Leitura
 * Atividade de leitura e gravação
-* Metadados de Atividade de leitura e gravação
+* Metadados de atividade de leitura e gravação
 * Ativos de leitura e gravação
-* Campanha de leitura e gravação
+* Campanha de leitura-gravação
 * Empresa de leitura e gravação
 * Objeto personalizado de leitura e gravação
-* Pessoa de leitura e gravação
-* Conta nomeada Leitura-Gravação
-* Oportunidade de Leitura-Gravação
-* Pessoa de vendas de leitura/gravação
+* Pessoa de Leitura-Escrita
+* Conta Nomeada de Leitura-Gravação
+* Oportunidade de Leitura e Gravação
+* Pessoa de Vendas de Leitura e Gravação
 
-Análise de acesso
+## Acessar o Analytics {#access-analytics}
 
-Concede aos usuários acesso às guias do Analytics, aos Insights de email, aos relatórios e aos três itens abaixo, a menos que estejam desmarcados.
+Fornece aos usuários acesso às guias do Analytics, aos Insights de email, aos relatórios e aos três itens abaixo, a menos que estejam desmarcados.
 
-* Acesse o Explorador de Receita - Desmarcar remove o acesso do usuário ao Gerenciador de Receita
+* Acesse o Explorador de Receita - Desmarcar remove o acesso do usuário ao Explorador de Receita
 * Excluir relatório - Desmarcar remove a capacidade do usuário de excluir relatórios
 * Exportar dados do Analytics - A desverificação remove a capacidade do usuário de exportar dados do Analytics
 
-## Acesse o Calendário Presentations {#access-calendar-presentations}
+## Acessar apresentações de calendário {#access-calendar-presentations}
 
-Dá aos usuários acesso às apresentações do calendário?- permite a exibição do botão Presentations na parte inferior?
+Concede aos usuários acesso às Apresentações do calendário - ativa a exibição do botão Apresentações na parte inferior.
 
-* Editar calendário Presentations - permite que os usuários editem apresentações no calendário
+* Editar Apresentações do Calendário - Permite que os usuários editem apresentações no Calendário
 
-## Access Design Studio {#access-design-studio}
+## Acesse o Design Studio {#access-design-studio}
 
 Fornece aos usuários acesso à guia Design Studio e à visualização da árvore, mas não aos detalhes.
 
-* Acessar email
-   * Editar email - concede aos usuários permissão para editar, criar e clonar emails
-      * Tornar o email operacional - Concede aos usuários permissão para tornar o email operacional. Consulte: [Tornar um email operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+* Acessar Email
+   * Editar email - Concede aos usuários permissão para editar, criar e clonar emails
+      * Tornar o email operacional - Concede aos usuários permissão para tornar o email operacional. Consulte: [Tornar um Email Operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * Aprovar email - permite que os usuários aprovem emails.
+      * Aprovar email - Permite que os usuários aprovem emails.
       * Excluir email - permite que os usuários excluam emails.
-      * Definir domínio de marca - permite que os usuários trabalhem com domínios de marca. Consulte: [Adicionar um domínio adicional de marca](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+      * Definir domínio de marca - Permite que os usuários trabalhem com domínios de marca. Consulte: [Adicionar um Domínio de Marca Adicional](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Acessar modelo de email
 
-   * Aprovar modelo de e-mail
+   * Aprovar modelo de email
    * Excluir modelo de email
-   * Editar modelo de e-mail - Editar, criar e clonar modelos de e-mail
+   * Editar modelo de email - Editar, criar e clonar modelos de email
 
 * Formulário de acesso
 
@@ -128,19 +128,19 @@ Fornece aos usuários acesso à guia Design Studio e à visualização da árvor
    * Excluir imagem
    * Carregar imagem
 
-* Landing page de acesso
+* Acessar página de aterrissagem
 
-   * Aprovar Landing page
-   * Excluir Landing page
-   * Editar Landing page - Editar, criar e clonar landings page
+   * Aprovar página de aterrissagem
+   * Excluir página de aterrissagem
+   * Editar página de aterrissagem - Editar, criar e clonar páginas de aterrissagem
 
-* Modelo de Landing page de acesso
+* Acessar modelo de página inicial
 
-   * Aprovar modelo de Landing page
-   * Excluir modelo de Landing page
-   * Editar modelo de Landing page - Editar, criar e clonar modelos de landing page
+   * Aprovar modelo de página inicial
+   * Excluir modelo de página inicial
+   * Editar modelo de página de aterrissagem - Editar, criar e clonar modelos de página de aterrissagem
 
-* Trecho de acesso
+* Snippet de acesso
 
    * Aprovar trecho
    * Excluir trecho
@@ -152,9 +152,9 @@ Fornece aos usuários acesso à guia Design Studio e à visualização da árvor
    * Excluir aplicativo social
    * Editar aplicativo social
 
-## Banco de Dados de Acesso {#access-database}
+## Acessar Banco de Dados {#access-database}
 
-Visualização o banco de dados e visualização e edite listas inteligentes/estáticas.
+Visualize o banco de dados, bem como visualize e edite listas inteligentes/estáticas.
 
 * Segmentação de acesso
 
@@ -162,59 +162,59 @@ Visualização o banco de dados e visualização e edite listas inteligentes/est
    * Excluir segmentação
    * Editar segmentação
 
-* Importação avançada de Listas
-* Excluir Pessoa
-* Excluir Lista
-* Editar pessoa - impede a edição manual e a execução de etapas de fluxo único; você ainda pode editar pessoas executando campanhas contra elas
-* Exportar Pessoa - Exportar planilhas com do seu banco de dados listas
+* Importação de lista avançada
+* Excluir pessoa
+* Excluir lista
+* Editar Pessoa - Impede a edição manual e a execução de etapas de fluxo único; você ainda pode editar pessoas executando campanhas contra elas
+* Exportar Pessoa - Exporte planilhas com a a partir de suas listas de bancos de dados
 * Importar objeto personalizado
 * Importar Lista
-* Unir pessoas
-* Executar ações de fluxo único - permite que os usuários executem a etapa de fluxo **Alterar valor de dados** nas pessoas do banco de dados
+* Unir Pessoas
+* Executar ações de fluxo único - Permite que os usuários executem a etapa de fluxo **Alterar valor de dados** em pessoas do banco de dados
 
-* Dados da oportunidade de visualização - Oculta as informações da oportunidade na página de detalhes da pessoa
+* Exibir dados da oportunidade - oculta as informações da oportunidade na página de detalhes da pessoa
 
-## Atividades de marketing de acesso {#access-marketing-activities}
+## Acesse as atividades de marketing {#access-marketing-activities}
 
-Visualização na guia Atividades de marketing, campanhas e pastas de campanha.
+Exiba a guia Marketing Activities , as campanhas e as pastas de campanha.
 
-* Acessar Mensagem SMS
+* Acessar mensagem SMS
 
    * Aprovar mensagem SMS
-   * Excluir Mensagem SMS
-   * Editar Mensagem SMS
+   * Excluir mensagem SMS
+   * Editar mensagem SMS
 
-* Notificação por push de acesso
+* Acessar notificações por push
 
    * Aprovar notificação por push
    * Excluir notificação por push
    * Editar notificação por push
 
-* Prêmios Access
-* Ativar Campanha do acionador
-* Aprovar Programa de e-mail
-* Clonar ativo de marketing
+* Prêmios de acesso
+* Ativar campanha do acionador
+* Aprovar programa de email
+* Clone o ativo de marketing
 * Excluir ativo de marketing
-* Editar restrições de Campanha
+* Editar restrições de campanha
 * Editar ativo de marketing
-* Importar Programa
-* Importação de lista
-* Agendar Campanha em lote
+* Programa de importação
+* Importar lista
+* Programar campanha em lote
 
 Acessar SEO
 
 * Administrar SEO
 * SEO padrão
 
-## Definição de metas e personalização {#targeting-and-personalization}
+## Direcionamento e personalização {#targeting-and-personalization}
 
 * Administrar personalização da Web
-* Editor de Campanhas CRE
-* Iniciador de Campanhas CRE
-* Editor de Campanhas da Web
-* Iniciador de Campanhas da Web
+* Editor de Campanha CRE
+* CRE Campaign Launcher
+* Editor de Campanha Web
+* Iniciador de campanha da Web
 
-Administração do espaço de trabalho
+Administração do Workspace
 
 * Acesso de administrador para um espaço de trabalho específico (somente se você tiver espaços de trabalho ativados)
 * Mover ativos entre espaços de trabalho (somente se você tiver espaços de trabalho ativados)
