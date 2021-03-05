@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2953415
-description: Usando a página de detalhes da pessoa - Documentos do Marketing - Documentação do produto
-title: Usando a página Detalhes da pessoa
+description: Usar a página de detalhes da pessoa - Documentos do Marketo - Documentação do produto
+title: Usando a Página de detalhes da pessoa
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Usando a Página de Detalhes da Pessoa {#using-the-person-detail-page}
 
-A página de detalhes da pessoa contém todas as informações que Marketo conhece sobre uma pessoa. Você pode editar dados diretamente desta página.
+A página de detalhes da pessoa contém todas as informações que o Marketo conhece sobre uma pessoa. Você pode editar dados diretamente desta página.
 
-## Página Obtendo Detalhes da Pessoa {#getting-to-person-detail-page}
+## Página de Detalhes da Pessoa {#getting-to-person-detail-page}
 
-Há muitas maneiras de abrir pessoas específicas. Alguns exemplos são:
+Há muitas maneiras de abrir pessoas específicas. Alguns exemplos:
 
-* No **Banco de Dados**, você pode pesquisar na Localização Rápida
-* Qualquer lista ou lista inteligente ****
-* **Tabulação de** membros de um programa
-* **Visualização** Membros da Campanha em uma Campanha inteligente
+* No **Banco de Dados**, você pode pesquisar no Localização Rápida
+* Qualquer **lista** ou lista inteligente
+* **** Membros de um programa
+* **Exibir** membros da campanha em uma campanha inteligente
 * Alguns **relatórios**
 
    <br> 
 
-1. Clique com o duplo do mouse em qualquer pessoa ou clique uma vez na ID à esquerda.
+1. Clique duas vezes em qualquer pessoa ou clique uma vez na ID à esquerda.
 
    ![](assets/one-1.png)
 
@@ -37,65 +37,69 @@ Há muitas maneiras de abrir pessoas específicas. Alguns exemplos são:
 
 ## Organização de página - Salesforce {#page-organization-salesforce}
 
-As informações da pessoa são categorizadas nas seguintes guias:
+As informações de pessoa são categorizadas nas seguintes guias:
 
-| Guia | Descrição |
+| Tabulação | Descrição |
 |---|---|
 | Informações | Informações de contato e campos personalizados sobre uma pessoa. |
-| Informações de empresa | Informações e endereço de empresa da pessoa. |
-| Informações da oportunidade | Informações de oportunidade sincronizadas do Salesforce. |
-| Campo de cliente potencial SFDC | Campos incorporados do Salesforce. |
-| Campo personalizado SFDC | Campos personalizados do Salesforce. |
-| Registro de atividades | Todas as atividades relacionadas à pessoa. |
+| Informações da empresa | Informações e endereço da empresa da pessoa. |
+| Informações da Oportunidade | Informações de oportunidade sincronizadas do Salesforce. |
+| Campo de lead SFDC | Campos incorporados do Salesforce. |
+| Campo Personalizado SFDC | Campos personalizados do Salesforce. |
+| Log de atividades | Todas as atividades relacionadas à pessoa. |
 
-## Organização de Página - Microsoft Dynamics {#page-organization-microsoft-dynamics}
+## Organização de página - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
-| Guia | Descrição |
+| Tabulação | Descrição |
 |---|---|
 | Informações | Informações de contato e campos personalizados sobre uma pessoa. |
-| Informações de empresa | Informações e endereço de empresa da pessoa. |
-| Informações da oportunidade | Informações de oportunidade sincronizadas da Microsoft. |
+| Informações da empresa | Informações e endereço da empresa da pessoa. |
+| Informações da Oportunidade | Informações da oportunidade sincronizadas da Microsoft. |
 | Campos personalizados da Microsoft | Campos personalizados da Microsoft. |
-| Microsoft Lead Field | Campos integrados da Microsoft. |
-| Registro de atividades | Todas as atividades relacionadas à pessoa. |
+| Campo de lead da Microsoft | Campos integrados da Microsoft. |
+| Log de atividades | Todas as atividades relacionadas à pessoa. |
 
-## Edição de um campo {#editing-a-field}
+>[!NOTE]
+>
+>Você também pode ver as informações da Oportunidade [inseridas via API](http://developers.marketo.com/rest-api/lead-database/opportunities/) para instâncias que não estão sincronizadas com um CRM.
+
+## Editar um campo {#editing-a-field}
 
 Muitos campos são editáveis. Para atualizar as informações de uma pessoa, digite um novo valor e clique fora do campo para salvar.
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## Campos padrão de marketing antes da sincronização de CRM {#marketo-default-fields-prior-to-crm-sync}
+## Campos padrão do Marketo antes da sincronização do CRM {#marketo-default-fields-prior-to-crm-sync}
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| Endereço | Receita anual | IP anônimo | Endereço de cobrança | Cidade de cobrança |
-| País de cobrança | Código postal de cobrança | Estado de cobrança | Cidade | Nome da empresa |
-| País | Criado em | Data de nascimento | Departamento | Não chamar |
+| Endereço | Receita anual | IP Anônimo | Endereço de cobrança | Cidade de Faturamento |
+| País de Faturamento | Código postal de cobrança | Estado de Faturamento | Cidade | Nome da empresa |
+| País | Criado em | Data de nascimento | Departamento | Não Chame |
 | Não Chamar Causa | Não Chamar Motivo | Endereço de email | Email Inválido | Causa Inválida do Email |
-| ID da Empresa externa | ID da Pessoa de Vendas Externa | Número de fax | Nome | Nome completo |
-| Indústria | Cidade Inferida | Empresa inferida | País Inferior | Área metropolitana inferida |
-| Código de área do telefone inferior | Código postal inferido | Região do Estado Inferior | É Anônimo | É cliente |
-| É parceiro | Cargo | Sobrenome | Classificação | Pontuação |
-| Fonte da pessoa | Status | Telefone principal | Nome de exibição do Facebook do Marketo Social | ID do Facebook do Marketing Social |
-| URL de foto do Facebook do Marketo Social | URL do Perfil do Facebook do Marketing Social | Alcance do Facebook do Marketing Social | Inscrições referenciadas no Facebook do Marketing Social | Visitas referenciadas ao Facebook do Marketo Social |
-| Gênero social do Marketing | Última inscrição referenciada no Marketo Social | Última visita referenciada ao Marketo Social | Nome de exibição do LinkedIn do Marketing Social | Id do LinkedIn Social do Marketo |
-| URL de foto do LinkedIn do Marketo Social | URL do Perfil do Marketing Social LinkedIn | Marketing to Social LinkedIn Reach | Inscrições referenciadas no LinkedIn do Marketing Social | Visitas referenciadas ao LinkedIn do Marketing Social |
-| ID de sindicalização social do Marketo | Total de inscrições referenciadas do Marketo Social | Total de visitas referenciadas do Marketo Social | Nome de exibição do Twitter do Marketo Social | ID do Twitter do Marketo Social |
-| URL de foto do Twitter do Marketo Social | URL do Perfil do Twitter do Marketo Social | Alcance do Twitter do Marketo Social | Inscrições referenciadas do Twitter do Marketo Social | Visitas referenciadas ao Twitter do Marketo Social |
+| Id Da Empresa Externa | Id Da Pessoa De Vendas Externa | Número de fax | Nome | Nome completo |
+| Setor | Cidade Inferida | Empresa Inferior | País Inferior | Área Metropolitana Inferida |
+| Código da Área do Telefone Inferior | Código postal Inferior | Região do Estado Inferior | Is Anonymous | É cliente |
+| É Parceiro | Cargo | Sobrenome | Classificação | Pontuação |
+| Origem da Pessoa | Status | Telefone principal | Nome de exibição do Facebook do Marketo Social | ID do Facebook do Marketo Social |
+| URL de foto do Facebook do Marketo Social | URL de perfil do Facebook do Marketo Social | Alcance do Facebook do Marketo Social | Inscrições Referenciadas do Marketo Social no Facebook | Marketo Social Facebook Referenciou visitas |
+| Marketo Social Gender | Última Inscrição do Marketo Social Referenciada | Última visita referenciada do Marketo Social | Nome de exibição do Marketo Social LinkedIn | Id Do LinkedIn Do Marketo Social |
+| URL de foto do Marketo Social LinkedIn | URL de perfil do Marketo Social LinkedIn | Alcance do LinkedIn do Marketo Social | Inscrições Referenciadas do Marketo Social LinkedIn | Visitas referenciadas do Marketo Social LinkedIn |
+| ID de sindicalização do Marketo Social | Total de inscrições referenciadas do Marketo Social | Total de visitas referenciadas do Marketo Social | Nome de exibição do Twitter do Marketo Social | Id Do Twitter Do Marketo Social |
+| URL de foto do Twitter do Marketo Social | URL de perfil do Twitter do Marketo Social | Alcance do Twitter do Marketo Social | Matrícula referenciada do Marketo Social Twitter | Visitas referenciadas do Twitter do Marketo Social |
 | Nome do meio | Número de telefone celular | Número de funcionários | Número de telefone | Código postal |
 | Prioridade | Pontuação relativa | Função | Saudação | Código SIC |
-| Site | Estado | Inscrito | Motivo da Assinatura Cancelada | Atualizado em |
+| Site | Estado | Inscrições canceladas | Motivo da assinatura cancelada | Atualizado em |
 | Urgência | Site |  |  |  |
 
 >[!NOTE]
 >
->Alguns campos são editáveis _e não_:
+>Alguns campos são _não_ editáveis:
 >
->* Informações de empresa
->* Oportunidades de Contatos SFDC
->* Determinados campos específicos de marketing, como Data de criação e Tipo de origem original.
->* Registro de atividades
+>* Log de atividades
+>* Informações da empresa
+>* Oportunidades para os contatos da SFDC
+>* Determinados campos específicos do Marketo, como Data de criação e Tipo de origem original.
 
 >
 >
@@ -103,4 +107,4 @@ Saiba mais sobre [Campos gerenciados pelo sistema](/help/marketo/product-docs/ad
 
 >[!MORELIKETHIS]
 >
->[Criando uma guia personalizada para a página Detalhes da pessoa](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[Criação de uma guia personalizada para a página de detalhes da pessoa](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
