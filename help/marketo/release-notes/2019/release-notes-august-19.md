@@ -1,54 +1,53 @@
 ---
 unique-page-id: 27656786
-description: Notas de versão - 19 de agosto - Documentos do Marketing - Documentação do produto
-title: Notas de versão - agosto de 2019
+description: Notas de versão - agosto de 2019 - Documentos do Marketo - Documentação do produto
+title: Notas de versão - agosto de 19
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
 
 
-# Notas de versão: Agosto de 19 {#release-notes-august}
+# Notas de versão: 19 de agosto {#release-notes-august}
 
-Os seguintes recursos estão incluídos na versão de 19 de agosto. Verifique sua edição de marketing para ver a disponibilidade de recursos.
+Os seguintes recursos estão incluídos na versão de agosto de 19. Verifique sua edição do Marketo para ver a disponibilidade dos recursos.
 
 **_Versões trimestrais_**
 
 Os seguintes recursos foram lançados em 16 de agosto de 2019.
 
-## Marketo Engage Core {#core-marketo-engage}
+## Core Marketo Engage {#core-marketo-engage}
 
-* **Estrutura** de webinar extensível: Economize tempo com a nova estrutura de webinar pronta para uso da Marketo (introduzida nas notas de versão de 19 de  [inverno ](/help/marketo/release-notes/2019/release-notes-winter-19.md) que transmitem dados dos provedores de webinar para o Marketo e vice-versa. O recurso de Eventos e Zoom agora está disponível nesta nova estrutura.
-* **Atualização** da API de Campanha inteligente: Gerencie os recursos de ciclo de vida da campanha inteligente ao encerrar a interface CRUD (criar, ler, atualizar, excluir).
-* **Atualizar Alteração** da API dos cabeçalhos de email: A API Atualizar cabeçalho de email não requer mais um email para ter um modelo anexado para atualizar campos de cabeçalho, como linha de assunto.
+* **Estrutura de webinar extensível**: Economize tempo com a nova estrutura de webinar pronta para uso do Marketo (introduzida nas notas de versão do  [inverno de 19, ](/help/marketo/release-notes/2019/release-notes-winter-19.md) que transmite dados de provedores de webinários perfeitamente para o Marketo e vice-versa. O Crescimento e o Zoom agora estão disponíveis nessa nova estrutura.
+* **Atualização** da API do Smart Campaign: Gerencie os recursos de ciclo de vida da campanha inteligente ao concluir a interface CRUD (criar, ler, atualizar, excluir).
+* **Atualizar alteração** da API de cabeçalhos de email: A API Update Email Header não requer mais um email para ter um modelo anexado para atualizar campos de cabeçalho, como linha de assunto.
 
-**Marketing** ![ baseado em conta (star)](assets/star-yellow.svg)
+**Marketing** ![ baseado em conta (estrela)](assets/star-yellow.svg)
 
-* **A Correspondência** de contas do LinkedIn, anteriormente na versão beta, agora está disponível em geral.
-* **O** AccountAIs está sendo oficialmente reclassificado como Perfil  **de conta**.
+* **A Correspondência de contas do LinkedIn**, anteriormente na versão beta, agora está disponível geralmente.
+* **** AccountAIs está sendo oficialmente renomeada como Perfil  **da conta**.
 
 <br> 
 
-**_Lançamento no Trimestre_**
+**_Lançamento em todo o trimestre_**
 
-Os seguintes elementos encontram-se num ciclo não trimestral e serão divulgados ao longo do terceiro trimestre civil e entrarão no início do quarto trimestre de 2019.
+Os seguintes recursos encontram-se num ciclo não trimestral e serão publicados ao longo do terceiro trimestre civil e no início do quarto trimestre de 2019.
 
-**Marketing to Sales Connect** ![ (estrela)](assets/star-yellow.svg)
+**Conexão de vendas do Marketo** ![ (estrela)](assets/star-yellow.svg)
 
-* **A bordo**: Passo-a-passo torna a integração mais fácil e eficiente, guiando novos usuários pela configuração de instância.
-* **Aprimoramento do layout da página de pessoas:** gerencie suas pessoas e grupos por meio de importações de listas e ações em massa no novo layout de página de pessoas.
+* **Aprimoramento do layout da página Pessoas:** gerencie suas pessoas e grupos por meio de importações de lista e ações em massa no novo layout da página Pessoas.
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante de marketing para saber mais.
+>Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante do Marketo para saber mais.
 
 >[!NOTE]
 >
->**Substituição** do TLS 1.0 e 1.1: Para nos alinharmos com o padrão de classe mundial do Adobe para segurança, estaremos substituindo o suporte ao Transport Layer Security (TLS) 1.0 e 1.1 a partir de 13 de dezembro de 2019. Os sistemas integrados com o Marketo que não estão em conformidade com o protocolo 1.2 podem potencialmente perder o acesso aos serviços de Marketo Engage.
+>**Substituição** de TLS 1.0 e 1.1: Para nos alinharmos ao padrão de classe mundial da Adobe para segurança, estaremos descontinuando o suporte para o Transport Layer Security (TLS) 1.0 e 1.1 a partir de 13 de dezembro de 2019. Os sistemas integrados com o Marketo que não são compatíveis com o protocolo 1.2 podem perder o acesso aos serviços do Marketo Engage.
 >
->**Para manter o acesso ao Marketo Engage, verifique se todos os sistemas cliente estão em conformidade com TLS 1.2 antes de 13 de dezembro de 2019**. Informações mais detalhadas podem ser encontradas [aqui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>**Para manter o acesso ao Marketo Engage, verifique se todos os sistemas clientes são compatíveis com TLS 1.2 antes de 13 de dezembro de 2019**. Informações mais detalhadas podem ser encontradas [aqui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Webinar_** [de lançamento de produtoAssocie-se ao ](https://engage.marketo.com/August_19_Release_Webinar.html) uso em 28 de agosto às 13:00PM PT / 4:00PM ET para um webinar ao vivo hospedado pela equipe de produtos e saiba mais sobre os recursos incluídos nesta versão.
+**_Versão do produto_** [WebinarJoin ](https://engage.marketo.com/August_19_Release_Webinar.html) em 28 de agosto às 13:00PM PT / 4:00PM ET para um webinário em tempo real hospedado pela equipe de produtos e saiba mais sobre os recursos incluídos nesta versão.
