@@ -1,11 +1,11 @@
 ---
 unique-page-id: 1146999
-description: Tokens para momentos interessantes - Documentos de marketing - Documentação do produto
-title: Tokens para momentos interessantes
+description: Tokens para momentos interessantes - Documentos do Marketo - Documentação do produto
+title: Tokens para Momentos Interessantes
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Saiba como usar a [Etapa de fluxo de Momento Interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Saiba como usar o [passo de fluxo de Momento Interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Tokens disponíveis {#available-tokens}
 
-Confira [Visão geral dos tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos os tokens que você pode colocar em um momento interessante.
+Confira [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos os tokens que você pode colocar em um momento interessante.
 
-## Tokens de acionamento {#trigger-tokens}
+## Tokens do acionador {#trigger-tokens}
 
 Com base no acionador usado em uma campanha inteligente, tokens de acionador adicionais são disponibilizados.
 
-* `{{trigger.Trigger Name}}` que é sempre o próprio gatilho. Por exemplo: Clique em Link no email.
-* `{{trigger.Name}}` é o nome do ativo que acionou a campanha. Por exemplo: O link de cliques na página da Web é o próprio URL, sujeito a acionadores do Salesforce etc.
-* Adicionais acionadores estão disponíveis com base em restrições, listadas abaixo:
+* `{{trigger.Trigger Name}}` que é sempre o próprio acionador. Por exemplo: Cliques em Email.
+* `{{trigger.Name}}` é o nome do ativo que acionou a campanha. Por exemplo: O Link de cliques na página da Web é o próprio URL, sujeito a acionadores do Salesforce etc.
+* Os acionadores adicionais estão disponíveis com base em restrições, listadas abaixo.
+
+**Acionadores de email**
 
 <table> 
  <colgroup> 
@@ -41,6 +43,9 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   <col> 
   <col> 
   <col> 
+  <col>
+  <col>
+  <col>
   <col> 
  </colgroup> 
  <tbody> 
@@ -56,184 +61,752 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
    <th><code>{{trigger.Client IP Address}}</code></th> 
    <th><code>{{trigger.Sent By}}</code></th> 
    <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Cliques em links no email</td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td>Link de cliques no email</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Rejeições de e-mail difíceis</td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td>Rejeições de email intensas</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Rejeições de email suaves</td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>O email é entregue</td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td>O Email É Entregue</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Abre email</td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td>Abre Email</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Enviar para o Amigo Recebido</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Enviado para o Email Amigo</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td>
   </tr> 
   <tr> 
    <td>Cancela a assinatura do email</td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Salesforce Triggers**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>Link de cliques no email de vendas</td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Email de vendas enviadas</td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td>É Enviado Email De Vendas</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td>
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Abre email de vendas</td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td>Abre Email de Vendas</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td>
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Email de vendas recebido</td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td>Devoluções de email de vendas</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">E-mail de vendas retorcido</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>Email de Vendas é Recebido</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>A oportunidade é atualizada</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Alterações de Proprietário</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Preencher formulário</td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
+   <td>A pessoa é convertida</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td><img src="assets/check.svg" alt="(assinalar)"></td> 
    <td><br></td> 
-   <td><p><br></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">Página da Web de visitas*</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(assinalar)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>A pessoa é Excluída do SFDC</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>A pessoa está sincronizada com o SFDC</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Removido da Oportunidade</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Removido da Campanha SFDC</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Atividade registrada</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Atividade atualizada</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Adicionado à Oportunidade</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Adicionado à Campanha SFDC</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>O status é alterado na campanha SFDC</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Acionadores da Conexão de Vendas**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Link de cliques no email de vendas</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>É Enviado Email De Vendas</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Abre Email de Vendas</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Devoluções de email de vendas</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Email de Vendas é Recebido</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>É adicionado à campanha de vendas</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr>
+   <td>Alterações de Proprietário</td> 
+   <td>É Removido Da Campanha De Vendas</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Chamada de Vendas Recebidas</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Diversos**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Preenche Formulário</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Página da Web Visitas</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Link de cliques na página da Web</td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->Se ele não tiver uma marca ![(tick)](assets/check.svg), retornará uma sequência vazia (nada) no momento interessante.
+>Se não tiver uma marca ![(tick)](assets/check.svg) então ela retornará uma sequência vazia (nada) no momento interessante.
 
-*O acionador **Visitas à página da Web** tem alguns tokens adicionais:
+*O Acionador **Visitas Web Page** tem alguns tokens adicionais:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
