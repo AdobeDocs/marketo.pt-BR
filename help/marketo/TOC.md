@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
-source-wordcount: '7857'
+source-wordcount: '7875'
 ht-degree: 0%
 
 ---
@@ -187,6 +187,7 @@ ht-degree: 0%
          + [Glossário de tipo de campo personalizado](product-docs/administration/field-management/custom-field-type-glossary.md)
          + [Excluir um campo personalizado no Marketo](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
          + [Editar Aliases de Campo para Importação de Lista](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
+         + [Exportar todos os metadados de objeto](product-docs/administration/field-management/export-all-object-metadata.md)
          + [Exportar uma lista de todos os nomes de campo da API do Marketo](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [Exportar dados usados por para um campo](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Ocultar e mostrar um campo](product-docs/administration/field-management/hide-and-unhide-a-field.md)
@@ -246,6 +247,7 @@ ht-degree: 0%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciar usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciando funções e permissões do usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
+         + [Exportar funções e permissões](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições das permissões de função](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
          + [Ativar Sem rascunho para trechos](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e Partições de pessoa {#workspaces-and-person-partitions}
@@ -434,6 +436,7 @@ ht-degree: 0%
          + Tokens {#tokens}
             + [Gerenciar meus tokens](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
             + [Noções básicas sobre meus tokens em um programa](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+            + [Tokens de campo personalizado do membro do programa](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
       + Calendário de marketing {#marketing-calendar}
          + Entendendo o Calendário {#understanding-the-calendar}
             + [Emitir/Revogar uma Licença de Calendário de Marketing](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
@@ -1027,6 +1030,7 @@ ht-degree: 0%
          + [Visão geral da conexão de vendas](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Introdução ao Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [Vídeos e tutoriais de início rápido](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
+         + [Alterar a senha da conexão de vendas](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + Configurações de email {#email-settings}
             + [Adicionar identidade](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [Adicionar sua assinatura de email](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
