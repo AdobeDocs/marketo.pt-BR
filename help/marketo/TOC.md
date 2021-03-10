@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '7875'
+source-wordcount: '7885'
 ht-degree: 0%
 
 ---
@@ -491,7 +491,8 @@ ht-degree: 0%
             + [Glossário de atalhos de teclado](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
             + [Sandbox do Marketo](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
             + [Renomear um ativo do Marketo](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [Configurar o compartilhamento de público na Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+            + [Configurar o compartilhamento de público na Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
+            + [Sincronizar um público-alvo da Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
             + [Noções básicas sobre pastas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
             + [Noções básicas das notificações](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
             + [Tipos de notificação](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
@@ -1028,7 +1029,8 @@ ht-degree: 0%
    + Conexão de Vendas do Marketo {#marketo-sales-connect}
       + Introdução {#getting-started}
          + [Visão geral da conexão de vendas](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Introdução ao Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Introdução ao Sales Connect](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
+         + [Página Meu Perfil](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [Vídeos e tutoriais de início rápido](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Alterar a senha da conexão de vendas](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + Configurações de email {#email-settings}
