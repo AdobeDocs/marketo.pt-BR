@@ -1,48 +1,48 @@
 ---
 unique-page-id: 42762409
-description: Página de insight de vendas para administradores de marketing - Documentos de marketing - Documentação do produto
-title: Página de insight de vendas para administradores de marketing
+description: Página de informações de vendas para administradores do Marketo - Documentos do Marketo - Documentação do produto
+title: Página de informações de vendas para administradores de marketing
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
 
 
-# Página de insight de vendas para administradores de marketing {#sales-insight-page-for-marketo-admins}
+# Página de informações de vendas para administradores do Marketo {#sales-insight-page-for-marketo-admins}
 
-Os administradores de marketing têm certos privilégios no Sales Insight. Saiba o que eles estão abaixo.
+Os administradores do Marketo têm determinados privilégios no Sales Insight. Saiba o que estão abaixo.
 
 ## Configuração da API Soap {#soap-api-configuration}
 
-Essas credenciais são usadas para conectar sua conta do Salesforce à sua instância do Marketo, a fim de usar o MSI no Salesforce.
+Essas credenciais são usadas para conectar sua conta do Salesforce à instância do Marketo, para usar o MSI no Salesforce.
 
 ![](assets/one-1.png)
 
-## Restaurar Configuração da API {#rest-api-configuration}
+## Restante a configuração da API {#rest-api-configuration}
 
-Essas credenciais são usadas para conectar sua conta do Salesforce à sua instância do Marketo, a fim de usar o Painel MSI Insights no Salesforce.
+Essas credenciais são usadas para conectar sua conta do Salesforce à instância do Marketo, a fim de usar o Painel do MSI Insights no Salesforce.
 
 ![](assets/two-1.png)
 
-Você pode optar por remover as credenciais da Rest API no SFDC e usar somente as APIs Soap. Isso desativará o Painel Insights
+Você pode optar por remover as credenciais da Rest API no SFDC e usar somente as APIs Soap. Isso desativará o painel do Insights
 
 ![](assets/three-1.png)
 
-## Configurações da pontuação pessoal {#person-score-settings}
+## Configurações de pontuação da pessoa {#person-score-settings}
 
-* **Estrelas**: As estrelas representam a pontuação total de chumbo em comparação a outros clientes potenciais.
-* **Chamas**: As chamas representam a urgência - quanto a pontuação de um cliente potencial mudou recentemente.
+* **Estrelas**: As estrelas representam a pontuação de lead total em comparação a outros leads.
+* **Chama**: As chamas representam urgência - quanto a pontuação de um cliente potencial mudou recentemente.
 
-Por padrão, o Marketing Cloud Sales Insight usa o campo Pontuação principal para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
+Por padrão, o Marketo Sales Insight usa o campo Pontuação de lead para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
 
-1. Na área **Admin** do Marketing, clique em **Sales Insight**.
+1. Na área **Admin** do Marketo, clique em **Sales Insight**.
 
    ![](assets/four.png)
 
-1. Em Configurações de Pontuação de Cliente Potencial, clique em **Editar**.
+1. Em Configurações de pontuação de lead, clique em **Editar**.
 
    ![](assets/five.png)
 
@@ -54,13 +54,13 @@ Por padrão, o Marketing Cloud Sales Insight usa o campo Pontuação principal p
 
    ![](assets/seven.png)
 
-1. Clique em **Salvar**. O insight de vendas levará algum tempo para recalcular. Você pode verificar seu CRM mais tarde para ver as estrelas e as chamas.
+1. Clique em **Salvar**. O insight de vendas levará algum tempo para ser recalculado. Você pode verificar seu CRM posteriormente para ver as estrelas e as chamas.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Se você ainda não tiver seus campos de pontuação personalizados, veja como [criá-los](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Se você ainda não tiver seus campos de pontuação personalizados, veja a seguir como [criá-los](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
@@ -70,19 +70,29 @@ Por padrão, o Marketing Cloud Sales Insight usa o campo Pontuação principal p
 
 ![](assets/nine.png)
 
-**Desinscrever configurações:**
+**Configurações de cancelamento de assinatura:**
 
-Você pode escolher entre as seguintes configurações de cancelamento de inscrição para Sem modelo, e-mails padrão e e e-mails operacionais
+Você pode escolher entre as seguintes configurações de cancelamento de inscrição para Sem modelo, Emails padrão e emails operacionais
 
 * Respeitar configuração de cancelamento de assinatura
-* Respeitar configurações de cancelamento de inscrição quando mais de 1 recipient
-* Respeitar configurações de cancelamento de inscrição quando mais de 5 recipient
+* Respeitar configurações de cancelamento de inscrição quando mais de 1 destinatário
+* Respeitar configurações de cancelamento de inscrição quando mais de 5 recipients
 * Ignorar configurações de cancelamento de inscrição
 
 **Habilitar a capacidade de bloquear modelos:**
 
-Quando ativados, os usuários MSI não poderão editar modelos ao enviar emails do Salesforce
+Quando ativado, os usuários do MSI não poderão editar modelos ao enviar emails do Salesforce
 
 **Ativar feed RSS:**
 
-Quando ativados, os usuários MSI podem visualização seus Feed de cliente potencial em um feed RSS (além do Feed de cliente potencial no Salesforce).
+Quando ativados, os usuários do MSI podem visualizar seu Feed de lead em um feed RSS (além do Feed de lead no Salesforce). O feed RSS só poderá funcionar se o recurso &quot;Expiração do token&quot; estiver desativado.
+
+**Expiração do token:**
+
+A Expiração de token é controlada no Gerenciador de recursos. Para ativá-lo/desativá-lo, entre em contato com o [Suporte do Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Quando ativados, todos os tokens do Marketo expiram em 10 minutos. Quando desativados, os tokens do Marketo não expirarão.
+
+Os tokens gerados antes de habilitar a Expiração do token não terão um tempo de expiração para validar, portanto, não expirarão mesmo se o recurso estiver habilitado no momento.
+
+Os tokens gerados após a ativação da Expiração do token terão um tempo de expiração de 10 minutos, portanto, ainda expirarão em 10 minutos mesmo depois que o recurso for desativado.
+
+O comportamento do token será baseado no momento em que foi gerado (quando o recurso Expiração do token foi ativado/desativado, em vez do status do recurso atual).
