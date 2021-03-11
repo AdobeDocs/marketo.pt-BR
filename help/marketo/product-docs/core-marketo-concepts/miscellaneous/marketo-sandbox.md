@@ -1,36 +1,44 @@
 ---
 unique-page-id: 11386358
-description: Marketo Sandbox - Documentos do Marketing - Documentação do produto
-title: Área de segurança do Marketo
+description: Marketo Sandbox - Documentos do Marketo - Documentação do produto
+title: Sandbox do Marketo
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
 
-# Marketo Sandbox {#marketo-sandbox}
+# Sandbox do Marketo {#marketo-sandbox}
 
-Uma caixa de proteção Marketo é uma instância adicional usada para fins de teste antes da implementação no ambiente de produção.
+Uma sandbox do Marketo é uma instância adicional usada para fins de teste antes da implementação no ambiente de produção.
 
 >[!AVAILABILITY]
 >
->
->Nem todos os clientes compraram este recurso. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
+>Nem todos os clientes compraram esse recurso. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
 
-Uma caixa de proteção Marketo não pode ser sincronizada com seu CRM regular se já estiver sincronizada com sua instância de produção. Use a caixa de proteção do CRM para sincronizar e siga todas as etapas da sincronização original.
+Uma sandbox do Marketo não pode ser sincronizada com seu CRM comum se já estiver sincronizada com sua instância de produção. Use a sandbox do seu CRM para a sincronização e siga todas as mesmas etapas da sincronização original.
 
-## Coisas para saber sobre caixas de proteção {#things-to-know-about-sandboxes}
+## O que você deve saber sobre sandboxes {#things-to-know-about-sandboxes}
 
-* Depois que o Gerente de sucesso do cliente tiver sua caixa de proteção configurada e enviar o convite, você deverá usar um endereço de email diferente para fazer logon da instância de produção do Marketo.
-* Se desejar adicionar usuários, o processo é o mesmo que [adicionar usuários em production](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Novamente, eles devem usar um endereço de email diferente se já tiverem um logon do Marketo.
-* Sua caixa de proteção do Marketo será start vazia, mas terá os mesmos recursos disponíveis como a sua instância de produção.
-* Você pode enviar um caso de suporte solicitando uma cópia única da instância para preencher sua caixa de proteção. No entanto, a cópia da instância não apresentará _tudo_. Consulte o Suporte de marketing para obter detalhes.
-* Se você criar um programa em sua caixa de proteção e quiser movê-lo para produção, poderá executar [importação de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
-* As caixas de proteção são limitadas para que as instâncias de produção não sejam afetadas negativamente pelos ambientes de teste. Você pode enviar até 30 emails por campanha executada.
+* Depois que o Gerente de sucesso do cliente tiver sua sandbox configurada e enviar o convite a você, você deverá usar um endereço de email diferente para fazer logon da instância de produção do Marketo.
+* Se quiser adicionar usuários, o processo será o mesmo que [adicionar usuários em produção](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Novamente, eles devem usar um endereço de email diferente se já tiverem um logon do Marketo.
+* A sandbox do Marketo começará vazia, mas terá os mesmos recursos disponíveis que a instância de produção.
+* Se você criar um programa na sandbox e quiser movê-lo para produção, poderá executar [program import](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
+* As sandboxes são limitadas, de modo que as instâncias de produção não sejam afetadas negativamente pelos ambientes de teste. Você pode enviar até 30 emails por execução da campanha.
 
 >[!CAUTION]
 >
->No momento, não oferecemos suporte à atualização da caixa de proteção para a Sincronização Dinâmica do Marketing. Se precisar atualizar sua caixa de proteção do Dynamics CRM, uma nova caixa de proteção do Marketo será necessária. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
+>No momento, não oferecemos suporte à atualização da caixa de proteção para o Marketo Dynamics Sync. Se você precisar atualizar a caixa de proteção do Dynamics CRM, será necessária uma nova caixa de proteção do Marketo. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
+
+## Cópia da instância {#instance-copy}
+
+Você pode enviar um caso de suporte solicitando uma cópia de instância única para preencher a sandbox. No entanto, a cópia da instância não trará _tudo_. Consulte [Suporte do Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obter detalhes.
+
+>[!NOTE]
+>
+>* A cópia da instância é **não** suportada se a instância de origem for integrada ao Microsoft Dynamics.
+>* Se você estiver alterando seu CRM nativo, uma nova instância do Marketo seria necessária e uma cópia da instância para a nova instância do Marketo não seria possível. Em vez disso, trabalhe com o Suporte do Marketo para explorar a funcionalidade do Programa de importação.
+
