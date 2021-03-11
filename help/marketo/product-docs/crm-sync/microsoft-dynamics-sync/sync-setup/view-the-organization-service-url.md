@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7504770
-description: Visualização do URL do serviço da organização - Documentos do marketing - Documentação do produto
-title: Visualização do URL do Serviço de Organização
+description: Exibir o URL do serviço de organização - documentos do Marketo - Documentação do produto
+title: Exibir o URL do serviço de organização
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 
-# Visualização do URL do Serviço de Organização {#view-the-organization-service-url}
+# Exibir o URL do Serviço de Organização {#view-the-organization-service-url}
 
-O Marketo precisa do URL do Serviço da Organização para sincronizar com as instâncias locais do Dynamics. Veja como encontrá-lo no Dynamics.
+O Marketo precisa do URL do Serviço de Organização para sincronizar com as instâncias do Dynamics. Veja como encontrá-lo no Dynamics.
 
 1. Faça logon no Dynamics. Clique no ícone Configurações e selecione **Configurações avançadas**.
 
@@ -27,8 +27,8 @@ O Marketo precisa do URL do Serviço da Organização para sincronizar com as in
 
    ![](assets/three.png)
 
-1. O URL do Serviço da Organização pode ser encontrado em **Pontos de Extremidade do Serviço**.
+1. A URL do Serviço de Organização pode ser encontrada em **Endpoints de Serviço**.
 
    ![](assets/four.png)
 
-1. Copie e cole este URL no Marketo e aproveite o restante da sincronização.
+1. Copie e cole esse URL no Marketo e aproveite o resto da sincronização.
