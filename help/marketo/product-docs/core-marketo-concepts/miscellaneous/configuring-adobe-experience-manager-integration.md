@@ -1,19 +1,19 @@
 ---
 unique-page-id: 30081815
-description: Configuração da integração do Adobe Experience Manager - Documentos do Marketing - Documentação do produto
-title: Configuração da integração Adobe Experience Manager
+description: Configuração da integração do Adobe Experience Manager - Documentos do Marketo - Documentação do produto
+title: Configuração da integração do Adobe Experience Manager
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
 
-# Configurando a integração do Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
+# Configurar a integração do Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
 
-Configure AEM para que você possa acessar, selecionar e importar ativos AEM no Design Studio do Marketo.
+Configure o AEM para que você possa acessar, selecionar e importar AEM ativos no Design Studio do Marketo.
 
 >[!NOTE]
 >
@@ -21,25 +21,25 @@ Configure AEM para que você possa acessar, selecionar e importar ativos AEM no 
 
 >[!CAUTION]
 >
->Atualmente, esse recurso é totalmente compatível apenas com o Firefox. Ele não é suportado no Safari e pode não funcionar na versão mais recente do Chrome (v. 80), dependendo das configurações de cookie do SameSite.
+>No momento, esse recurso é totalmente compatível com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome (v. 80), dependendo das configurações de cookie do SameSite.
 
-1. Navegue até o Adobe Experience Manager (o URL é específico para a sua empresa).
+1. Navegue até a Adobe Experience Manager (o URL é específico para sua empresa).
 
    ![](assets/one.png)
 
-1. Você pode fazer logon com Adobe ou fazer logon localmente. Neste exemplo, entraremos localmente.
+1. Você pode fazer logon com o Adobe ou fazer logon localmente. Neste exemplo, entraremos localmente.
 
    ![](assets/two.png)
 
-1. Em **Ferramentas**, clique em **Operações** e selecione **Console Web**.
+1. Em **Ferramentas**, clique em **Operações** e selecione **Console da Web**.
 
    ![](assets/2a.png)
 
-1. No seu navegador, procure &quot;Adobe Granite Cross-Origem Resource Sharing Policy&quot; (Política de compartilhamento de recursos entre  do) (ctrl+f no Windows, cmd+f no Mac).
+1. No seu navegador, pesquise (ctrl+f no Windows, cmd+f no Mac) por &quot;Política de compartilhamento de recursos entre origens do Adobe Granite&quot;.
 
    ![](assets/three.png)
 
-1. Clique no sinal de **+** à direita.
+1. Clique no sinal **+** à direita.
 
    ![](assets/four.png)
 
@@ -71,8 +71,8 @@ Configure AEM para que você possa acessar, selecionar e importar ativos AEM no 
 
    ![](assets/eleven.png)
 
-1. Insira seu URL AEM e clique em **OK**.
+1. Insira o URL do AEM e clique em **OK**.
 
    ![](assets/twelve.png)
 
-   Vocês estão prontos! Agora você pode [importar ativos AEM para o Design Studio em Marketo Sky](https://help.marketo.com/hc/en-us/articles/360036765993).
+   Está tudo pronto! Agora você pode [importar ativos AEM para o Design Studio no Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).
