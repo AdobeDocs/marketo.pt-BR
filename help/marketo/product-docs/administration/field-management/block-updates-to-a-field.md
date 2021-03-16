@@ -1,36 +1,40 @@
 ---
 unique-page-id: 2360291
-description: Bloquear atualizações em um campo - Documentos do Marketing - Documentação do produto
+description: Bloquear atualizações de um campo - Documentos do Marketo - Documentação do produto
 title: Bloquear atualizações de um campo
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 
-# Bloquear atualizações em um campo {#block-updates-to-a-field}
+# Bloquear atualizações para um campo {#block-updates-to-a-field}
 
-Bloquear atualizações em um campo permite gravar no campo uma vez e, em seguida, reter o valor original durante a vida útil do campo. Isso pode ser útil para um campo como Origem da pessoa.
+Bloquear atualizações em um campo permite gravar no campo uma vez e, em seguida, manter o valor original durante a vida útil do campo. Isso pode ser útil para um campo como Fonte de pessoa.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para **Admin** e clique em **Gerenciamento de campo**.
+1. Vá para **Admin** e clique em **Gerenciamento de Campo**.
 
    ![](assets/image2014-9-24-13-3a54-3a40.png)
 
-1. Localize o campo, selecione-o e, em **Ações de campo**, clique em **Bloquear atualizações de campo**.
+1. Localize o campo, selecione-o e, em **Ações do campo**, clique em **Bloquear atualizações de campo**.
 
    ![](assets/two-1.png)
 
-1. Selecione as **Fontes de Entrada** que pretende bloquear e clique em **Aplicar**.
+   >[!NOTE]
+   >
+   >Também é possível bloquear atualizações para [Campos Personalizados do Membro do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md).
+
+1. Selecione as **Fontes de Entrada** que deseja bloquear e clique em **Aplicar**.
 
    ![](assets/image2014-9-24-13-3a55-3a16.png)
 
    >[!CAUTION]
    >
-   >Ao executar uma importação de lista, o status de um campo que está sendo bloqueado na Pré-visualização Importar só será exibido se o campo for automaticamente reconhecido pelo Marketo com base no nome do campo que corresponde a _exatas_ (ou se os aliases forem estabelecidos). Se o campo for escolhido manualmente no menu suspenso Campo de marketing, o status bloqueado não será exibido na Pré-visualização Importar, mas o bloqueio de atualizações desse campo ainda será implementado.
+   >Ao executar uma importação de lista, o status de um campo bloqueado na Visualização de Importação só será exibido se o campo for reconhecido automaticamente pelo Marketo com base no nome do campo correspondente a _exato_ (ou se aliases forem estabelecidos). Se o campo for escolhido manualmente no menu suspenso Campo do Marketo, o status bloqueado não será exibido na Visualização de importação, mas o bloqueio de atualização desse campo ainda será implementado.
