@@ -1,9 +1,9 @@
 ---
 unique-page-id: 12980785
-description: Notas de versão - Aprimoramentos de 17 de agosto do ABM - Documentos do Marketing - Documentação do produto
-title: Notas de versão - Aprimoramentos do ABM em 17 de agosto
+description: Notas de versão - Aprimoramentos do ABM em 17 de agosto - Documentos do Marketo - Documentação do produto
+title: Notas de versão - Aprimoramentos do ABM em agosto de 2017
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -11,22 +11,22 @@ ht-degree: 0%
 ---
 
 
-# Notas de versão: Aprimoramentos do ABM de 17 de agosto {#release-notes-august-abm-enhancements}
+# Notas de versão: Aprimoramentos de ABM de 17 de agosto {#release-notes-august-abm-enhancements}
 
-Os seguintes recursos estão incluídos na versão de aprimoramento do ABM de 17 de agosto. Verifique sua edição de marketing para ver a disponibilidade de recursos.
+Os seguintes recursos estão incluídos na versão de aprimoramento do ABM de 17 de agosto. Verifique sua edição do Marketo para ver a disponibilidade dos recursos.
 
-Clique nos links de título para artigos detalhados de visualização para cada recurso.
+Clique nos links de título para exibir os artigos detalhados de cada recurso.
 
 ## Insight da conta {#account-insight}
 
-**[O](/help/marketo/product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md)** Insightis da conta é um plug-in do Google Chrome que acompanha o ABM acionável e os insights da conta para suas equipes de vendas, permitindo que elas trabalhem em conjunto com o marketing para interagir com as contas de forma eficiente. As equipes de vendas terão visibilidade dos dados e insights gerados para cada uma das contas nomeadas que possuem. Isso incluirá percentis de pontuação da conta, uma lista priorizada de suas Contas Nomeadas, pessoas envolvidas nessas contas e um fluxo de atividade ao vivo de atividades recentes da conta.
+**[O Account](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** Insights é um plug-in do Google Chrome que exibe os insights acionáveis do ABM e da conta para suas equipes de vendas, permitindo que elas trabalhem em conjunto com o marketing para envolver as contas de maneira eficaz. As equipes de vendas obterão visibilidade sobre os dados e insights gerados para cada uma das contas nomeadas de sua propriedade. Isso incluirá percentis de pontuação de conta, uma lista priorizada de suas Contas Nomeadas, pessoas envolvidas nessas contas e um fluxo de atividades ativas de atividades recentes da conta.
 
 ![](assets/image001.png) ![](assets/image002.png)
 
 ![](assets/image003.png)
 
-## [Listas de conta dinâmicas](/help/marketo/product-docs/account-based-marketing/target/account-lists.md) {#dynamic-account-lists}
+## [Listas dinâmicas de contas](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
 
-Estamos adicionando uma nova maneira de criar listas de conta no ABM. Além das listas de conta existentes, agora é possível criar listas de conta dinâmicas que são geradas a partir de Visualizações de conta CRM públicas. Uma Visualização de conta CRM é um conjunto de regras que funciona como um filtro ao exibir contas. Por exemplo, você pode usá-lo para localizar contas nas quais a Indústria é de Saúde _e_ a Receita é superior a $100M.
+Estamos adicionando uma nova maneira de criar listas de conta no ABM. Além das listas de contas existentes, agora é possível criar listas de contas dinâmicas que são geradas a partir de Exibições de conta CRM públicas. Uma Exibição de conta do CRM é um conjunto de regras que atua como um filtro ao exibir contas. Por exemplo, você pode usá-lo para encontrar contas em que Setor é Saúde _e_ Receita acima de $100M.
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)
