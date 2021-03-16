@@ -1,11 +1,11 @@
 ---
 unique-page-id: 1147042
-description: Anexar dados a um campo - Documentos do Marketing - Documentação do produto
+description: Anexar dados a um campo - Documentos do Marketo - Documentação do produto
 title: Anexar dados a um campo
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,13 @@ Há uma maneira fácil de anexar dados a um campo. Veja como.
 
 >[!PREREQUISITES]
 >
->[Criar uma Campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[Criar uma campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
-1. Na guia **Fluxo**, arraste a etapa de fluxo **Alterar valor de dados**.
+>[!NOTE]
+>
+>As etapas abaixo também se aplicam a [Alterar Dados do Membro do Programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
+
+1. Na guia **Fluxo**, arraste na etapa de fluxo **Alterar valor de dados**.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
@@ -31,8 +35,8 @@ Há uma maneira fácil de anexar dados a um campo. Veja como.
 
    ![](assets/image2014-9-22-16-3a5-3a9.png)
 
-1. Agora, adicione o valor que deseja anexar ao que já existe no campo.
+1. Agora, adicione o valor que deseja anexar ao que já existe no campo .
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 
-É isso! Você pode ser criativo e adicionar vários tokens lá.
+Pronto! Você pode criar e adicionar vários tokens.
