@@ -3,7 +3,7 @@ unique-page-id: 12979282
 description: Visão geral do plug-in Account Insight - Documentos do Marketo - Documentação do produto
 title: Visão geral do plug-in Account Insight
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Visão geral do plug-in Account Insight {#account-insight-plug-in-overview}
 
-O Account Insight é um plug-in do Chrome que exibe os insights acionáveis do ABM e da conta para suas equipes de vendas, permitindo que elas envolvam contas com mais eficiência.
+O Account Insight é um plug-in do Chrome que exibe as informações acionáveis da TAM e da conta das equipes de vendas, permitindo que elas envolvam contas de forma mais eficaz.
 
 >[!AVAILABILITY]
 >
->O Account Insight é incluído para todos os clientes que têm ABM e Marketing Cloud Sales Insight. Para clientes que têm apenas o ABM, o Account Insight está disponível como um complemento adquirido. Cada cliente está limitado a 250 lugares do Account Insight. Entre em contato com seu representante de vendas para obter detalhes. Não está disponível para clientes que não têm ABM.
+>O Account Insight é incluído para todos os clientes que têm o TAM e o Marketing Sales Insight. Para clientes que têm apenas o TAM, o Account Insight está disponível como um complemento adquirido. Cada cliente está limitado a 250 lugares do Account Insight. Entre em contato com seu representante de vendas para obter detalhes. Não está disponível para clientes que não têm TAM.
 
 >[!CAUTION]
 >
