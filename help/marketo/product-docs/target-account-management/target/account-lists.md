@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: Listas de contas - Documentos do Marketo - Documentação do produto
 title: Listas de contas
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Além das listas de conta, você também pode criar listas de conta dinâmicas q
 
 >[!NOTE]
 >
->As listas de contas criadas no Marketing baseado em conta do Marketo estão automaticamente disponíveis ao criar listas inteligentes e campanhas da Web em [Personalização da Web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>As listas de contas criadas no Gerenciamento de conta do Marketo Target ficam automaticamente disponíveis ao criar listas inteligentes e campanhas da Web em [Personalização da Web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Criar uma nova lista de contas {#create-a-new-account-list}
 
