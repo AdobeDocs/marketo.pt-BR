@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: Insights da lista de contas - Documentos do Marketo - Documentação do produto
 title: Insights da lista de contas
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,7 +17,7 @@ O painel Lista de contas oferece uma visualização de insights agregados de tod
 
 >[!NOTE]
 >
->O ABM do Marketo determina automaticamente as principais contas nomeadas em uma lista de contas com base no pipeline gerado ou nas pontuações de engajamento da conta.
+>A TAM do Marketo determina automaticamente as contas com maior nome em uma lista de contas com base no pipeline gerado ou nas pontuações de engajamento da conta.
 
 ## Painel da lista de contas {#account-list-dashboard}
 
