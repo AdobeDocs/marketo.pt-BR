@@ -3,7 +3,7 @@ unique-page-id: 11380789
 description: Dimension de conta nomeado em RCA - Documentos do Marketo - Documentação do produto
 title: Dimension de Conta Nomeada no RCA
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Dimension de Conta Nomeada em RCA {#named-account-dimension-in-rca}
 
-Crie relatórios baseados em receita usando a dimensão Conta nomeada específica de ABM na Análise do ciclo de receita.
+Crie relatórios baseados em receita usando a dimensão Conta nomeada específica de TAM na Análise do ciclo de receita.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Os seguintes relatórios têm acesso à dimensão Conta nomeada:
 
 >[!NOTE]
 >
->Abaixo estão alguns exemplos do Marketo ABM na Análise do ciclo de receita.
+>Abaixo estão alguns exemplos de Marketo TAM na Análise do ciclo de receita.
 
 Aceleração de pipeline em contas nomeadas
 
