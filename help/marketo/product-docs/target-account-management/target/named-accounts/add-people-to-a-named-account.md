@@ -3,7 +3,7 @@ unique-page-id: 11378816
 description: Adicionar pessoas a uma conta nomeada - Documentos do Marketo - Documentação do produto
 title: Adicionar pessoas a uma conta nomeada
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adicionar pessoas a uma conta nomeada {#add-people-to-a-named-account}
 
-Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomeada no ABM.
+Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomeada no TAM.
 
 ## Ação de fluxo único {#single-flow-action}
 
