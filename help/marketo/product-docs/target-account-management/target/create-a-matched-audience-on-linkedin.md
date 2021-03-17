@@ -3,7 +3,7 @@ unique-page-id: 26837421
 description: Criar um público-alvo correspondente no LinkedIn - Documentos do Marketo - Documentação do produto
 title: Criar um público-alvo correspondente no LinkedIn
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Criar um público-alvo correspondente no LinkedIn {#create-a-matched-audience-on-linkedin}
 
-Crie públicos-alvo correspondentes em suas Listas de contas do ABM para direcionamento de anúncios do LinkedIn.
+Crie públicos-alvo correspondentes em Listas de contas TAM para direcionamento de anúncios do LinkedIn.
 
 >[!PREREQUISITES]
 >
 >[Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. No ABM, clique na guia **Listas de Contas**.
+1. Em TAM, clique na guia **Listas de Contas**.
 
    ![](assets/one-1.png)
 
