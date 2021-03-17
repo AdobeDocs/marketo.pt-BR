@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '7949'
+source-wordcount: '7952'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
    + Gerenciamento de conta do Target {#target-account-management}
       + Configurar {#setup}
          + [Visão geral de marketing baseado em conta](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
-         + [Introdução ao ABM](product-docs/target-account-management/setup-tam/getting-started-with-abm.md)
+         + [Introdução ao TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [Emitir uma licença](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [Permissões](product-docs/target-account-management/setup-tam/permissions.md)
          + [Pontuação da conta](product-docs/target-account-management/setup-tam/account-score.md)
@@ -67,17 +67,18 @@ ht-degree: 0%
             + [Lead para a correspondência da conta](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
             + [Filtragem em contas nomeadas](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
             + [Excluir uma conta nomeada](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
-            + [Hierarquias de ABM](product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)
+            + [Hierarquias de TAM](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
             + [Criar uma hierarquia](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [Listas de contas](product-docs/target-account-management/target/account-lists.md)
+         + [Listas inteligentes de contas](product-docs/target-account-management/target/account-smart-lists.md)
          + [Criar um público-alvo correspondente no LinkedIn](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
       + Envolver {#engage}
          + [Filtros da conta](product-docs/target-account-management/engage/account-filters.md)
          + [Acionadores da conta](product-docs/target-account-management/engage/account-triggers.md)
       + Meça {#measure}
-         + [Painel principal do ABM](product-docs/target-account-management/measure/abm-main-dashboard.md)
-         + [Configuração de relatório ABM](product-docs/target-account-management/measure/abm-report-setup.md)
-         + [Relatório de Vendas ABM](product-docs/target-account-management/measure/abm-sales-report.md)
+         + [Painel principal do TAM](product-docs/target-account-management/measure/tam-main-dashboard.md)
+         + [Configuração de Relatório de TAM](product-docs/target-account-management/measure/tam-report-setup.md)
+         + [Relatório de Vendas TAM](product-docs/target-account-management/measure/tam-sales-report.md)
          + [Insights da lista de contas](product-docs/target-account-management/measure/account-list-insights.md)
          + [Dimension de Conta Nomeada no RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [Insights de conta nomeados](product-docs/target-account-management/measure/named-account-insights.md)
@@ -800,7 +801,7 @@ ht-degree: 0%
                + [Modelo 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modelo 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modelo 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modelo 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modelo 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
