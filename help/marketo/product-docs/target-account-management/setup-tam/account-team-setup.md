@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: Configuração da equipe de conta - Documentos do Marketo - Documentação do produto
 title: Configuração da equipe de conta
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Uma equipe de conta é um grupo de participantes que trabalham juntos em uma con
 
    ![](assets/one-3.png)
 
-1. Clique em **ABM**.
+1. Clique em **Gerenciamento de conta do Target**.
 
-   ![](assets/two-3.png)
+   ![](assets/account-team-setup-2.png)
 
 1. Em Membros da equipe da conta, clique em **Editar**.
 
@@ -45,10 +45,12 @@ Uma equipe de conta é um grupo de participantes que trabalham juntos em uma con
 
    >[!CAUTION]
    >
-   >Se você fizer uma atualização, pode levar algum tempo para as alterações refletirem no ABM.
+   >Se você fizer uma atualização, pode levar algum tempo para que as alterações sejam refletidas na TAM.
 
    >[!NOTE]
    >
-   >Quando Várias contas CRM com diferentes proprietários de contas forem combinadas em uma Conta Nomeada, o Marketo selecionará um &quot;Proprietário da Conta&quot; e adicionará outros proprietários de conta como &quot;Coproprietários da Conta&quot;
-   >
-   >Se um campo de &quot;Função&quot; do CRM for renomeado ou excluído posteriormente, o Marketo ABM interromperá a sincronização dos valores atualizados até que o usuário atualize manualmente a configuração no ABM
+   >* Quando Várias contas CRM com diferentes proprietários de contas forem combinadas em uma Conta Nomeada, o Marketo selecionará um &quot;Proprietário da Conta&quot; e adicionará outros proprietários de conta como &quot;Coproprietários da Conta&quot;
+      >
+      >
+   * Se um campo de &quot;Função&quot; do CRM for renomeado ou excluído posteriormente, a TAM do Marketo parará de sincronizar os valores atualizados até que o usuário atualize manualmente a configuração na TAM
+
