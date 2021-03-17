@@ -3,7 +3,7 @@ unique-page-id: 17432598
 description: Configuração da criação de perfil da conta - Documentos do Marketo - Documentação do produto
 title: Configuração do perfil da conta
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Siga estas etapas para começar a usar a Criação de perfil da conta.
 
-1. Em Meu Marketo, abra **Marketing baseado em conta**.
+1. Em Meu Marketo, abra **Gerenciamento de conta do Target**.
 
-   ![](assets/one.png)
+   ![](assets/setting-up-account-profiling-1.png)
 
-1. Clique na guia Criação de perfil da conta .
+1. Clique na guia **Criação de perfil da conta**.
 
    ![](assets/two-1.png)
 
