@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: Filtros da conta - Documentos do Marketo - Documentação do produto
 title: Filtros da conta
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Identifique e envolva contas nomeadas e as pessoas dentro delas usando novos filtros centrados na conta.
 
-## Filtros de ABM {#abm-filters}
+## Filtros TAM {#tam-filters}
 
 1. Selecione sua campanha inteligente e clique em **Smart List**.
 
@@ -45,25 +45,25 @@ Para usar esse filtro, clique no menu suspenso da lista de contas...
 
 ## Membro da Conta Nomeada {#member-of-named-account}
 
-1. Escolha um qualificador. É para uma conta nomeada específica ou é qualquer conta nomeada.
+Primeiro, escolha um qualificador. **** É uma conta nomeada específica ou  **é** qualquer conta nomeada.
 
-   ![](assets/six.png)
+![](assets/six.png)
 
-1. Clique no menu suspenso de conta nomeada .
+Clique no menu suspenso da conta nomeada...
 
-   ![](assets/seven.png)
+![](assets/seven.png)
 
-1. Escolha as contas nomeadas desejadas.
+...e escolha as contas nomeadas desejadas.
 
-   ![](assets/eight.png)
+![](assets/eight.png)
 
-1. Se você usar o qualificador &quot;é qualquer&quot;, talvez queira utilizar [constrangimentos](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para limitar os resultados da pesquisa. Adicione quantos quiser!
+Se você usar o qualificador &quot;é qualquer&quot;, talvez queira utilizar [constrangimentos](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para limitar os resultados da pesquisa. Adicione quantos quiser!
 
-   ![](assets/nine.png)
+![](assets/nine.png)
 
-1. Defina &quot;Incluir filhos&quot; como falso se você deseja apenas membros da conta única de nível superior. Selecione true se quiser membros de todas as contas filho.
+Defina &quot;Incluir filhos&quot; como falso se você deseja apenas membros da conta única de nível superior. Selecione true se quiser membros de todas as contas filho.
 
-   ![](assets/ten.png)
+![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
