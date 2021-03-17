@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Nova descoberta de conta - Documentos do Marketo - Documentação do produto
 title: Nova Detecção de Contas
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ A New Account Discovery pode ajudar você a encontrar novas contas para segmenta
 >
 >É recomendável pressionar o botão **Atualizar contas existentes** antes de executar uma nova pesquisa de conta para garantir que você esteja olhando para os dados mais recentes. Essa atualização pode levar até 24 horas.
 
-1. Em Meu Marketo, clique em **ABM**.
+1. Em Meu Marketo, clique em **Gerenciamento de Conta do Target**.
 
-   ![](assets/one-1.png)
+   ![](assets/new-account-discovery-1.png)
 
 1. Clique na guia **Criação de perfil da conta**.
 
@@ -37,7 +37,7 @@ A New Account Discovery pode ajudar você a encontrar novas contas para segmenta
 
    >[!NOTE]
    >
-   >Novas contas mostra uma lista de contas que ainda não são suas no ABM. São contas que têm o potencial de serem novas para você com base em filtros selecionados.
+   >Novas contas mostra uma lista de contas que ainda não são suas no TAM. São contas que têm o potencial de serem novas para você com base em filtros selecionados.
 
 1. Selecione todos os filtros aplicáveis (esta parte é altamente personalizável, a seguir há apenas um exemplo para demonstrar a filtragem).
 
