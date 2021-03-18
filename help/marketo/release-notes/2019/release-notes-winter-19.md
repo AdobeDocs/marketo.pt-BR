@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Notas de versão - inverno de 19 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - inverno de 19
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Clique nos links de título para exibir os artigos detalhados de cada recurso, s
 
 >[!NOTE]
 >
->A Microsoft está enviando todos os clientes online para atualizarem para a versão mais recente do Microsoft Dynamics. Se estiver integrando sua instância do Marketo com o Dynamics Online, será necessário [atualizar para a versão mais recente da solução Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) antes de **31 de janeiro de 2019** para garantir que sua integração continue funcionando.
+>A Microsoft está enviando todos os clientes online para atualizarem para a versão mais recente do Microsoft Dynamics. Se estiver integrando sua instância do Marketo com o Dynamics Online, será necessário [atualizar para a versão mais recente da solução Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) antes de **31 de janeiro de 2019** para garantir que sua integração continue funcionando.
 
 >[!NOTE]
 >
