@@ -1,11 +1,11 @@
 ---
 unique-page-id: 11378869
-description: Criar uma mensagem SMS Vibes - Documentos do Marketing - Documentação do produto
-title: Criar uma mensagem SMS Vibes
+description: Criar uma mensagem Vibes SMS - Documentos do Marketo - Documentação do produto
+title: Criar uma mensagem SMS do Vibes
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,17 @@ ht-degree: 0%
 
 # Criar uma mensagem SMS Vibes {#create-a-vibes-sms-message}
 
-Veja como criar uma mensagem de SMS Vibes.
+Veja como criar uma mensagem Vibes SMS.
 
-1. Vá para **Atividades de marketing** e clique com o botão direito do mouse em um programa.
+>[!AVAILABILITY]
+>
+>Esse recurso está disponível como um complemento para sua conta do Marketo Engage. Para ser provisionado corretamente, ele deve ser comprado por meio do Adobe. Entre em contato com o Gerente de sucesso do cliente do Adobe para obter detalhes.
+
+>[!NOTE]
+>
+>As mensagens de texto SMS não são compatíveis com HIPAA.
+
+1. Vá para **Marketing Activities** e clique com o botão direito do mouse em um programa.
 
    ![](assets/mobile-right-click-hand.jpg)
 
@@ -31,7 +39,7 @@ Veja como criar uma mensagem de SMS Vibes.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
-1. Digite um nome e uma descrição opcional para a nova mensagem SMS e clique em **Criar**.
+1. Insira um nome e uma descrição opcional para a nova mensagem SMS e clique em **Create**.
 
    ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
 
@@ -39,15 +47,15 @@ Veja como criar uma mensagem de SMS Vibes.
 
    ![](assets/edit-draft-hand.jpg)
 
-1. No editor de mensagens, clique dentro da bolha azul e comece a digitar o texto.
+1. No editor de mensagens, clique dentro da bolha azul e comece a inserir texto.
 
    ![](assets/message-text-pencil.jpg)
 
    >[!NOTE]
    >
-   >Os limites dos EUA e do Canadá são diferentes, com 160 e 130 caracteres, respectivamente. Se você exceder esses limites de caracteres, sua mensagem poderá ser dividida. Enquanto mostramos quando você excede o limite canadense, o editor é otimizado para os EUA e divide a mensagem com base no limite dos EUA.
+   >Os limites dos EUA e do Canadá são diferentes, em 160 e 130 caracteres, respectivamente. Se você exceder esses limites de caracteres, sua mensagem poderá ser dividida. Enquanto mostramos quando você excede o limite canadense, o editor é otimizado para os EUA e divide a mensagem com base no limite dos EUA.
 
-1. Clique em **Token** no menu Inserir para adicionar um token à sua mensagem.
+1. Clique em **Token** no menu Inserir para adicionar um token à mensagem.
 
    ![](assets/add-token-real-hand.jpg)
 
@@ -55,11 +63,11 @@ Veja como criar uma mensagem de SMS Vibes.
    >
    >Adicionar um token pode fazer com que a mensagem exceda o limite de caracteres. A mensagem então será dividida, resultando em encargos adicionais.
 
-1. Clique em **Link** no menu Inserir para adicionar um link à sua mensagem.
+1. Clique em **Link** no menu Inserir para adicionar um link à mensagem.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Selecione um tipo de link. A Landing page de marketing é o padrão. Se você optar por isso, é necessário selecionar a landing page no menu suspenso e clicar em **Inserir**.
+1. Selecione um tipo de link. Página de aterrissagem do Marketo é o padrão. Se você for com isso, será necessário selecionar a landing page no menu suspenso e clicar em **Insert**.
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -67,7 +75,7 @@ Veja como criar uma mensagem de SMS Vibes.
    >
    >Os dois links de rastreamento são selecionados por padrão.
 
-1. Se quiser usar um URL externo, clique no botão **URL externo** e insira o URL no campo URL. Clique em **Inserir**.
+1. Se quiser usar um URL externo, clique no botão **External URL** e insira o URL no campo URL. Clique em **Inserir**.
 
    ![](assets/insert-link-url-hands.jpg)
 
@@ -77,12 +85,12 @@ Veja como criar uma mensagem de SMS Vibes.
 
    >[!NOTE]
    >
-   >O Marketo exibe uma pré-visualização de link do domínio de rastreamento de marca. Se você desmarcar a caixa de seleção do link mkt_tok, o link será alterado. Desmarque a caixa de seleção Track Link também e o URL será encurtado para sua duração básica (por exemplo, www.mygooglepage.com).
+   >O Marketo exibe uma visualização de link do domínio de rastreamento de marca. Se você desmarcar a caixa de seleção mkt_tok link , o link será alterado. Desmarque a caixa de seleção Rastrear link também e o URL será reduzido para sua duração básica (por exemplo, www.mygooglepage.com).
 
    ![](assets/image2016-7-27-16-3a20-3a16.png)
 
    >[!NOTE]
    >
-   >A contagem de caracteres reflete apenas os caracteres contidos na mensagem mais baixa.
+   >A contagem de caracteres reflete somente os caracteres contidos na mensagem mais baixa.
 
-Se você inserir mais do que o limite dos EUA, o editor dividirá sua mensagem em seções. Existe um limite total absoluto de 900 caracteres. Depois de atingir esse limite, a mensagem será truncada automaticamente quando for enviada para sua audiência.
+Se você inserir mais do que o limite dos EUA, o editor dividirá a mensagem em seções. Existe um limite total absoluto de 900 caracteres. Depois de atingir esse limite, a mensagem será truncada automaticamente quando for enviada para o público-alvo.
