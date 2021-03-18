@@ -1,9 +1,9 @@
 ---
 unique-page-id: 3571827
-description: Etapa 2 de 3 - Configurar usuário de sincronização de marketing no Dynamics - Documentos de marketing - Documentação do produto
-title: Etapa 2 de 3 - Configurar usuário de sincronização de marketing no Dynamics
+description: Etapa 2 de 3 - Configurar usuário de sincronização do Marketo no Dynamics - Documentos do Marketo - Documentação do produto
+title: Etapa 2 de 3 - Configurar usuário de sincronização do Marketo no Dynamic
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Etapa 2 de 3: Configurar usuário de sincronização de marketing no Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
+# Etapa 2 de 3: Configurar usuário de sincronização do Marketo no Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
 
 Vamos começar criando uma conta de usuário.
 
 >[!PREREQUISITES]
 >
->[Etapa 1 de 3: Instalar a solução Marketing (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
+>[Etapa 1 de 3: Instalar a solução Marketo (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
 
 ## Criar um novo usuário {#create-a-new-user}
 
@@ -37,7 +37,7 @@ Vamos começar criando uma conta de usuário.
 
    ![](assets/four.png)
 
-1. Clique em **Adicionar e licenciar usuários** na nova janela.
+1. Clique em **Adicionar e Licenciar Usuários** na nova janela.
 
    ![](assets/five.png)
 
@@ -45,7 +45,7 @@ Vamos começar criando uma conta de usuário.
 
    ![](assets/six.png)
 
-1. Uma nova guia é aberta. Clique em **Adicionar um usuário**.
+1. Outra nova guia é aberta. Clique em **Adicionar um usuário**.
 
    ![](assets/seven.png)
 
@@ -57,23 +57,23 @@ Vamos começar criando uma conta de usuário.
    >
    >Esse nome deve ser um usuário de sincronização dedicado e não uma conta de usuário do CRM existente. Não precisa ser um endereço de email real.
 
-1. Digite o email para receber as novas credenciais do usuário e clique em **Enviar email e fechar**.
+1. Insira o email para receber as novas credenciais do usuário e clique em **Enviar email e fechar**.
 
    ![](assets/nine.png)
 
-## Atribuir função de usuário de sincronização {#assign-sync-user-role}
+## Atribuir Função de Usuário de Sincronização {#assign-sync-user-role}
 
-Atribua a função Usuário de sincronização de marketing somente ao usuário de sincronização de marketing. Não é necessário atribuí-lo a nenhum outro usuário.
+Atribua a função Usuário de sincronização do Marketo somente ao usuário de sincronização do Marketo. Não é necessário atribuí-lo a nenhum outro usuário.
 
 >[!NOTE]
 >
->Isso se aplica à versão 4.0.0.14 e posterior do Marketo. Para versões anteriores, todos os usuários devem ter a função de usuário de sincronização. Para atualizar o Marketo, consulte [Upgrade Marketing Solution for Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Isso se aplica à versão 4.0.0.14 e posterior do Marketo. Para versões anteriores, todos os usuários devem ter a função de sincronização do usuário. Para atualizar o Marketo, consulte [Atualizar Solução do Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
-1. Volte para a guia Usuários habilitados e atualize a lista de usuários.
+1. Volte para a guia Usuários ativados e atualize a lista de usuários.
 
    ![](assets/ten.png)
 
-1. Passe o mouse ao lado do usuário recém-criado da Sincronização de marketing e uma caixa de seleção será exibida. Clique para selecioná-lo.
+1. Passe o mouse sobre o usuário recém-criado da Sincronização do Marketo e uma caixa de seleção será exibida. Clique em para selecioná-lo.
 
    ![](assets/eleven.png)
 
@@ -81,31 +81,31 @@ Atribua a função Usuário de sincronização de marketing somente ao usuário 
 
    ![](assets/twelve.png)
 
-1. Marque **Usuário de sincronização de marketing** e clique em **OK**.
+1. Marque **Marketo Sync User** e clique em **OK**.
 
    ![](assets/thirteen.png)
 
    >[!NOTE]
    >
-   >Todas as atualizações feitas em seu CRM pelo Usuário de sincronização serão **e não** sincronizadas de volta ao Marketo.
+   >Qualquer atualização feita em seu CRM pelo Usuário de sincronização **not** será sincronizada novamente com o Marketo.
 
-## Configurar a solução de marketing {#configure-marketo-solution}
+## Configurar a solução do Marketo {#configure-marketo-solution}
 
-Quase lá! Tudo o que nos resta é informar a Solução de marketing sobre o novo usuário criado.
+Quase lá! Tudo o que nos resta é informar a Marketo Solution sobre o novo usuário criado.
 
-1. Volte para a seção Configurações avançadas e clique no ícone ![](assets/image2015-5-13-15-3a49-3a19.png) ao lado de Configurações e selecione **Configuração do marketing**.
+1. Volte para a seção Configurações avançadas , clique no ícone ![](assets/image2015-5-13-15-3a49-3a19.png) ao lado de Configurações e selecione **Marketo Config**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Se você não vir **Configuração do Marketing** no menu Configurações, atualize a página. Se isso não funcionar, tente [publicar novamente a solução Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) ou faça logout e volte a fazer logon.
+   >Se você não vir **Marketo Config** no menu Configurações , atualize a página. Se isso não funcionar, tente [publicar a Solução do Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) novamente ou fazer logoff e login novamente.
 
 1. Clique em **Padrão**.
 
    ![](assets/fifteen.png)
 
-1. Clique no botão de pesquisa no campo **Usuário do Marketing** e selecione o usuário de sincronização que você criou.
+1. Clique no botão de pesquisa no campo **Marketo User** e selecione o usuário de sincronização que você criou.
 
    ![](assets/sixteen.png)
 
@@ -127,10 +127,10 @@ Quase lá! Tudo o que nos resta é informar a Solução de marketing sobre o nov
 
 ## Antes de prosseguir para a Etapa 3 {#before-proceeding-to-step}
 
-    * Se você quiser restringir o número de registros que sincronizar, [configure um filtro de sincronização personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) agora.
-    * Execute o processo [Validar Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Ele verifica se as configurações iniciais foram feitas corretamente.
-    * Faça logon no usuário de sincronização de marketing no Microsoft Dynamics CRM.
+    * Se quiser restringir o número de registros sincronizados, [configure um filtro de sincronização personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) agora.
+    * Execute o processo [Validar o Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Ele verifica se as configurações iniciais foram feitas corretamente.
+    * Efetue logon no usuário de sincronização do Marketo no Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >
->[Etapa 3 de 3: Conectar o Microsoft Dynamics com o Marketing (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+>[Etapa 3 de 3: Conectar o Microsoft Dynamics com o Marketo (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
