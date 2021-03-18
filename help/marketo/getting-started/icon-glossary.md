@@ -1,17 +1,19 @@
 ---
 unique-page-id: 4720476
-description: Glossário de ícones - Documentos do Marketing - Documentação do produto
-title: Glossário de ícones
+description: Ícone Glossário - Documentos do Marketo - Documentação do produto
+title: Ícone Glossário
 translation-type: tm+mt
-source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 
-# Glossário de ícones {#icon-glossary}
+# Ícone Glossário {#icon-glossary}
+
+Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova interface do Marketo Engage, o glossário de ícones [pode ser encontrado aqui](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
 **Ícones gerais**
 
@@ -51,42 +53,42 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-9-3a20-3a42.png"> 
     </div></td> 
-   <td>Editar/renomear nome da pasta</td> 
+   <td>Editar/Renomear Nome da Pasta</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
-   <td colspan="1">A pasta de origem que você compartilhou com outra área de trabalho</td> 
+   <td colspan="1">A pasta de origem que você compartilhou com outro espaço de trabalho</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Pasta de destino que foi compartilhada de outro espaço de trabalho <br> (o cadeado indica que as edições não podem ser feitas)</td> 
+   <td colspan="1">Pasta de destino que foi compartilhada de outro espaço de trabalho <br>(o cadeado indica que as edições não podem ser feitas)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td>Arquivar pasta ou Converter em pasta de arquivamento (pode aparecer para qualquer pasta e Programas arquivados)</td> 
+   <td>Arquivar pasta ou Converter em pasta de arquivamento (isso pode aparecer para qualquer pasta e programas arquivados)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>Sucesso!(Frequentemente mostrado como Programa bem-sucedido, Execução bem-sucedida ou Ativo)</td> 
+   <td>Sucesso!(Frequentemente mostrado como Sucesso do Programa, Execução bem-sucedida ou Ativo)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a34-3a57.png"> 
     </div></td> 
-   <td>Filtro, Visualização, Visualização tudo</td> 
+   <td>Filtrar, Exibir, Exibir Tudo</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -121,7 +123,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-10-3a47-3a12.png"> 
     </div></td> 
-   <td>Informações de subscrição</td> 
+   <td>Informações de assinatura</td> 
   </tr> 
   <tr> 
    <td> 
@@ -140,7 +142,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## Ícones de administrador {#admin-icons}
+## Ícones de administração {#admin-icons}
 
 <table> 
  <tbody> 
@@ -167,7 +169,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-10-3a56-3a28.png"> 
     </div></td> 
-   <td>Segurança/logout</td> 
+   <td>Segurança/Logout</td> 
   </tr> 
   <tr> 
    <td> 
@@ -244,7 +246,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-8-18-3a23-3a38.png"> 
     </div></td> 
-   <td>landings page</td> 
+   <td>Páginas de aterrissagem</td> 
   </tr> 
   <tr> 
    <td> 
@@ -279,7 +281,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-8-18-3a46-3a13.png"> 
     </div></td> 
-   <td>Tags - Atributo do Programa</td> 
+   <td>Tags - Atributo do programa</td> 
   </tr> 
   <tr> 
    <td> 
@@ -312,7 +314,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Ícones das Atividades de marketing {#marketing-activities-icons}
+### Ícones de atividades de marketing {#marketing-activities-icons}
 
 <table> 
  <tbody> 
@@ -325,42 +327,42 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2014-12-18-16-3a45-3a45.png"> 
     </div></td> 
-   <td>Programa evento</td> 
+   <td>Programa de evento</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a9-3a4.png"> 
     </div></td> 
-   <td>Programa - Tipo padrão</td> 
+   <td>Programa - Tipo Padrão</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-11-3a24-3a42.png"> 
     </div></td> 
-   <td>Importar Programa</td> 
+   <td>Programa de importação</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a28-3a3.png"> 
     </div></td> 
-   <td>Envolvimento</td> 
+   <td>Envolvimento na rede</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a38-3a16.png"> 
     </div></td> 
-   <td>Adicionar ao Programa de envolvimento</td> 
+   <td>Adicionar ao programa de envolvimento</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </div></td> 
-   <td>Alterar a cadência de envolvimento (pausado, normal)</td> 
+   <td>Alterar cadência de envolvimento (pausado, normal)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -381,14 +383,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>Campanha inteligente solicitada (por insight de vendas ou ação de fluxo de marketing)</td> 
+   <td>Campanha inteligente solicitada (por insight de vendas ou ação de fluxo do Marketo)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </div></td> 
-   <td>Campanha inteligente - Lote(foi executado antes)</td> 
+   <td>Campanha inteligente - Lote(já foi executado antes)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -409,21 +411,21 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>Programa de e-mail <br>(Sinalizador vermelho inativo = e-mail ainda não enviado)</td> 
+   <td>Programa de email <br>(Sinalizador vermelho desligado = email ainda não enviado)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
-   <td colspan="1">Programa de e-mail agendado com Start principal</td> 
+   <td colspan="1">Programa de email agendado com Início do cabeçalho</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a51-3a1.png"> 
     </div></td> 
-   <td>Campanha inteligente - Lote programado (a marca de seleção indica que ele foi executado antes)</td> 
+   <td>Campanha inteligente - Lote agendado (A marca de seleção indica que ele foi executado antes)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -458,7 +460,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-14-3a40-3a19.png"> 
     </div></td> 
-   <td>Formulário clone</td> 
+   <td>Clonar formulário</td> 
   </tr> 
   <tr> 
    <td> 
@@ -486,7 +488,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-14-3a43-3a17.png"> 
     </div></td> 
-   <td>Ações do botão Social</td> 
+   <td>Ações dos botões sociais</td> 
   </tr> 
   <tr> 
    <td> 
@@ -500,7 +502,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-14-3a45-3a45.png"> 
     </div></td> 
-   <td>Pré-visualização</td> 
+   <td>Visualizar</td> 
   </tr> 
   <tr> 
    <td> 
@@ -542,7 +544,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-14-3a55-3a51.png"> 
     </div></td> 
-   <td>Pré-visualização</td> 
+   <td>Visualizar</td> 
   </tr> 
   <tr> 
    <td> 
@@ -584,7 +586,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-15-3a17-3a24.png"> 
     </div></td> 
-   <td>Pré-visualização</td> 
+   <td>Visualizar</td> 
   </tr> 
   <tr> 
    <td> 
@@ -612,7 +614,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-15-3a20-3a13.png"> 
     </div></td> 
-   <td>Escolher vencedores</td> 
+   <td>Selecionar vencedores</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -654,14 +656,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a49.png"> 
     </div></td> 
-   <td colspan="1">Enviar amostra</td> 
+   <td colspan="1">Enviar exemplo</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a56.png"> 
     </div></td> 
-   <td colspan="1">Pré-visualização</td> 
+   <td colspan="1">Visualizar</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -675,7 +677,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-14-13-3a4-3a16.png"> 
     </div></td> 
-   <td colspan="1">Ferramentas de entrega</td> 
+   <td colspan="1">Ferramentas de capacidade de entrega</td> 
   </tr> 
  </tbody> 
 </table>
@@ -693,7 +695,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-12-3a31-3a47.png"> 
     </div></td> 
-   <td>landing page. Ações de landing page</td> 
+   <td>Página de aterrissagem. Ações da página de aterrissagem</td> 
   </tr> 
   <tr> 
    <td> 
@@ -707,7 +709,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-12-10-3a56-3a42.png"> 
     </div></td> 
-   <td>Pré-visualização</td> 
+   <td>Visualizar</td> 
   </tr> 
   <tr> 
    <td> 
@@ -735,14 +737,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-12-11-3a7-3a6.png"> 
     </div></td> 
-   <td>Landing page do clone</td> 
+   <td>Clonar página de aterrissagem</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a8-3a54.png"> 
     </div></td> 
-   <td>Excluir Landing page</td> 
+   <td>Excluir página de aterrissagem</td> 
   </tr> 
   <tr> 
    <td> 
@@ -756,7 +758,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-12-11-3a12-3a22.png"> 
     </div></td> 
-   <td>Mover Programa</td> 
+   <td>Mover programa</td> 
   </tr> 
   <tr> 
    <td> 
@@ -770,21 +772,21 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-12-3a38-3a15.png"> 
     </div></td> 
-   <td>landing page - Aprovado</td> 
+   <td>Página de aterrissagem - Aprovado</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a41-3a12.png"> 
     </div></td> 
-   <td>Modelo de landing page/email - Não aprovado</td> 
+   <td>Página de aterrissagem/Modelo de email - Não aprovado</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a43-3a21.png"> 
     </div></td> 
-   <td>Modelo de landing page/email - Aprovado</td> 
+   <td>Página de aterrissagem/Modelo de email - Aprovado</td> 
   </tr> 
   <tr> 
    <td> 
@@ -798,7 +800,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-12-3a46-3a24.png"> 
     </div></td> 
-   <td>Email aprovado</td> 
+   <td>Email Aprovado</td> 
   </tr> 
   <tr> 
    <td> 
@@ -819,7 +821,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </div></td> 
-   <td>Rascunho de um ativo aprovado (não ativo até que Rascunho seja aprovado)</td> 
+   <td>Rascunho de um Ativo Aprovado (não ativo até que Rascunho seja Aprovado)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -854,14 +856,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a47.png"> 
     </div></td> 
-   <td colspan="1">Obter imagens da Web</td> 
+   <td colspan="1">Capturar imagens da Web</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a53.png"> 
     </div></td> 
-   <td colspan="1">Carregar imagem ou arquivo</td> 
+   <td colspan="1">Fazer upload de imagem ou arquivo</td> 
   </tr> 
  </tbody> 
 </table>
@@ -886,7 +888,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-9-3a55-3a4.png"> 
     </div></td> 
-   <td>RCM (Modelo de Ciclo de Receita) - Não aprovado</td> 
+   <td>Modelo do ciclo de receita (RCM) - Não aprovado</td> 
   </tr> 
   <tr> 
    <td> 
@@ -900,14 +902,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </div></td> 
-   <td>RCM (Modelo de Ciclo de Receita) - Aprovado com Rascunho</td> 
+   <td>Modelo do ciclo de receita (RCM) - Aprovado com rascunho</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a23.png"> 
     </div></td> 
-   <td>Ações de relatório</td> 
+   <td>Ações de Relatório</td> 
   </tr> 
   <tr> 
    <td> 
@@ -921,7 +923,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-12-3a56-3a29.png"> 
     </div></td> 
-   <td>Nova Subscrição de relatório</td> 
+   <td>Nova assinatura de relatório</td> 
   </tr> 
   <tr> 
    <td> 
@@ -935,7 +937,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-12-3a58-3a53.png"> 
     </div></td> 
-   <td>Lead qualificado para visualização</td> 
+   <td>Exibir lead qualificado</td> 
   </tr> 
   <tr> 
    <td> 
@@ -956,14 +958,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-13-3a36-3a11.png"> 
     </div></td> 
-   <td>Recolher tudo</td> 
+   <td>Recolher Tudo</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-13-3a43-3a15.png"> 
     </div></td> 
-   <td>Agrupar clientes em potencial por</td> 
+   <td>Clientes Potenciais Por</td> 
   </tr> 
   <tr> 
    <td> 
@@ -975,7 +977,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Os meus ícones de tokens {#my-tokens-icons}
+### Ícones de Meus Tokens {#my-tokens-icons}
 
 <table> 
  <tbody> 
@@ -995,7 +997,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-14-3a20-3a45.png"> 
     </div></td> 
-   <td>Rich Text (não uma Landing page)</td> 
+   <td>Rich Text (não uma página de aterrissagem)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1016,7 +1018,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-15-3a44-3a30.png"> 
     </div></td> 
-   <td>Programe a Campanha inteligente para executar uma vez</td> 
+   <td>Programe a campanha inteligente para ser executada uma vez</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1030,19 +1032,19 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-15-3a47-3a48.png"> 
     </div></td> 
-   <td>Atualizar (Geralmente Executar Contagem, Relatório, Lista Inteligente)</td> 
+   <td>Atualizar (Geralmente Executar Contagem, Relatório, Smart List)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
-   <td>Membros inteligentes de visualização (anteriormente qualificados e atuais)</td> 
+   <td>Exibir membros inteligentes (anteriormente qualificados e atuais)</td> 
   </tr> 
  </tbody> 
 </table>
 
-### Menus de campanha {#campaign-menus}
+### Menus da campanha {#campaign-menus}
 
 <table> 
  <tbody> 
@@ -1055,21 +1057,21 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-15-3a18-3a8.png"> 
     </div></td> 
-   <td>Agendar recorrência da Campanha (várias execuções)</td> 
+   <td>Agendar recorrência da campanha (várias execuções)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-15-3a21-3a29.png"> 
     </div></td> 
-   <td>Cancelar a execução, ação ou excluir</td> 
+   <td>Cancelar a execução, a ação ou a exclusão</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a10-3a6.png"> 
     </div></td> 
-   <td>Editar regras de qualificação</td> 
+   <td>Editar Regras de Qualificação</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1111,7 +1113,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-14-3a48-3a34.png"> 
     </div></td> 
-   <td>Data - Formatado como "MM-DD-AAAA"</td> 
+   <td>Data - Formatada como "MM-DD-AAAA"</td> 
   </tr> 
  </tbody> 
 </table>
@@ -1136,7 +1138,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-16-3a27-3a35.png"> 
     </div></td> 
-   <td>Lista inteligente - em cache</td> 
+   <td>Smart List - em cache</td> 
   </tr> 
   <tr> 
    <td> 
