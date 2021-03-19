@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossário do Marketo - Documentos do Marketo - Documentação do produto
 title: Glossário do Marketo
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
    <td colspan="1">Esse termo pode ter significados diferentes:<br>-A própria instância do Marketo pode ser chamada de conta do Marketo.<br>-No  <strong>ABM</strong>, uma conta  <strong>denominada </strong> é uma conta que o usuário determinou ser uma conta alvo que deseja buscar.<br>-No ABM, uma conta CRM é uma conta mapeada de seu  <strong>CRM</strong>  vinculado (conta no  <strong>Salesforce</strong>,  <strong>MS </strong> Dynamic ou  <strong>API</strong>).<br>-No seu CRM, as contas são a empresa/empresa à qual os clientes potenciais e os contatos estão associados.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">Marketing</a>  baseado em conta (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Marketing</a>  baseado em conta (ABM)</strong></td> 
    <td colspan="1">Um recurso complementar que permite direcionar e envolver as principais contas de forma altamente coordenada.</td> 
   </tr> 
   <tr> 
