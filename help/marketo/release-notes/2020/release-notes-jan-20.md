@@ -1,9 +1,9 @@
 ---
 unique-page-id: 37355534
-description: Notas de versão - janeiro de 2020 - Documentos do Marketing - Documentação do produto
-title: Notas de versão - janeiro de 2020
+description: Notas de versão - Janeiro de 2020 - Documentos do Marketo - Documentação do produto
+title: Notas de versão - Janeiro de 2020
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -13,67 +13,69 @@ ht-degree: 0%
 
 # Notas de versão: Jan 2020 {#release-notes-jan}
 
-Os seguintes recursos estão incluídos na versão de 20 de janeiro. Verifique sua edição de marketing para ver a disponibilidade de recursos.
+Os seguintes recursos estão incluídos na versão de 20 de janeiro. Verifique sua edição do Marketo para ver a disponibilidade dos recursos.
 
 >[!AVAILABILITY]
 >
 >Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
-**_Versões trimestraisOs seguintes recursos serão lançados em 17_** de janeiro de 2020 ****.
+**_Versões trimestrais_**
 
-## Aplicativo Core Marketo Engage Adobe {#core-marketo-engage-adobe-application}
+Os seguintes recursos serão lançados em **17 de janeiro de 2020**.
 
-* [Seletor](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md) de ativos da Adobe Experience Manager: Acesse rapidamente os ativos que se alinham à sua marca com AEM ativos disponíveis diretamente no Marketo Engage. Observação: Embora esse recurso esteja disponível em nossas experiências de Marketo Sky e clássicas, os recursos administrativos podem ser encontrados em nossa experiência do Classic. Você deve ser um cliente da AEM Assets e ter a versão 6.5 ou superior.
+## Aplicativo Marketo Engage Adobe {#core-marketo-engage-adobe-application}
+
+* [Seletor](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md) de ativos Adobe Experience Manager: Acesse rapidamente os ativos que se alinham à sua marca com AEM ativos disponíveis diretamente no Marketo Engage. Observação: Embora esse recurso esteja disponível em nossas experiências de Marketo Sky e clássica, os recursos administrativos podem ser encontrados em nossa experiência do Classic. Você deve ser um cliente do AEM Assets e ter a versão 6.5 ou superior.
 
 >[!NOTE]
 >
->Atualmente, AEM Seletor de ativos só é totalmente compatível com o Firefox. Ele não é suportado no Safari e pode não funcionar na versão mais recente do Chrome (v. 80), dependendo das configurações de cookie do SameSite.
+>Atualmente, AEM Seletor de ativos é totalmente compatível apenas com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome (v. 80), dependendo das configurações de cookie do SameSite.
 
-* **Microsoft Dynamics - Sincronizar cliente potencial para CRM em tempo** real: Sincronização em tempo real de clientes potenciais e contatos entre o Marketo Engage e o Microsoft Dynamics. Crie clientes potenciais ou contatos e veja-os no Microsoft Dynamics imediatamente com a ação de fluxo &quot;Sincronizar Pessoa com Microsoft&quot;.
-* **Mapeamento** de campo adicional do LinkedIn Lead Gen Forms: Capture dados de clientes potenciais do LinkedIn Lead Gen Forms para criar experiências mais relevantes para pontos de contato de vendas e marketing. Coloque campos ocultos, campos de consentimento e o campo de teste leva para Marketo Engage.
-* **API** Dependências do Modelo de Email: Obtenha uma lista de ativos que dependem de um modelo de email para entender o escopo de possíveis alterações e as dependências de endereço para modelos podem ser alteradas e excluídas mais rapidamente.
-* **Aprimoramentos** de gerenciamento de várias instâncias: Navegue até a instância de que você precisa rapidamente com um menu suspenso alfabético e rolável das suas subscrições.
+* **Microsoft Dynamics - Sincronizar lead para o CRM em tempo** real: Sincronização de leads em tempo real e contatos entre o Marketo Engage e o Microsoft Dynamics. Crie leads ou contatos e os veja no Microsoft Dynamics imediatamente com a ação de fluxo &quot;Sincronizar pessoa com a Microsoft&quot;.
+* **Mapeamento** de campo adicional do Forms Gen do LinkedIn: Capture dados de clientes potenciais do LinkedIn Lead Gen Forms para criar experiências mais relevantes para pontos de contato de vendas e marketing. Puxe campos ocultos, campos de consentimento e o campo de lead do teste para o Marketo Engage.
+* **API** de dependências do modelo de email: Obtenha uma lista de ativos que dependem de um modelo de email para entender o escopo de possíveis alterações e as dependências de endereço para modelos podem ser alteradas e excluídas mais rapidamente.
+* **Melhorias** no gerenciamento de várias instâncias: Navegue até a instância de que você precisa rapidamente com um menu suspenso rolável e alfabético de suas assinaturas.
 
 ## Marketing baseado em conta {#account-based-marketing}
 
 ![(estrela)](assets/star-yellow.svg)
 
-* **[New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/star-yellow.svg)**: Use a Definição de perfil de conta para descobrir novas contas de público alvo para sua estratégia de ABM, com base no modelo ideal de perfil do cliente desenvolvido por AI. Visualização, seleção e importação de novas contas recomendadas, juntamente com seus indicadores de dados de adequação e intenção baseados em AI, que ainda não existem no banco de dados de cliente potencial e conta do Marketo Engage para direcionamento por ABM. Imediatamente disponível para clientes qualificados de criação de perfil de conta.
+* **[Nova descoberta de conta (BETA)](https://docs.marketo.com/x/WQA6Ag) ![ (estrela)](assets/star-yellow.svg)**: Use a Criação de perfil de conta para descobrir novas contas-alvo para sua estratégia de ABM com base em seu modelo de perfil de cliente ideal alimentado por IA. Exiba, selecione e importe novas contas recomendadas, juntamente com seus indicadores de dados de ajuste e intenção baseados em IA, que ainda não existem no banco de dados de cliente potencial e conta do Marketo Engage para direcionamento por ABM. Imediatamente disponível para clientes qualificados de Criação de perfis de conta.
 
 <br> 
 
-**_Lançamento no Trimestre_**
+**_Lançamento em todo o trimestre_**
 
 Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos próximos meses.
 
-## Bizível {#bizible}
+## Bizible {#bizible}
 
 ![(estrela)](assets/star-yellow.svg)
 
-* **Integração** do Marketo Engage: Reúna vendas e marketing junto com uma visualização unificada de clientes potenciais em Bizible e Marketo Engage. Com essa atualização, o Marketo Engage agora pode ser usado como uma fonte de dados de cliente potencial adicional, de modo que você não precisa mais aguardar a sincronização de clientes potenciais com o CRM para relatar a geração de leads.
-* **Aprimoramentos** do Discover: Obtenha mais de nossos Quadros do Discover na Bizíblia com os aprimoramentos desenvolvidos a partir do feedback dos clientes, como a capacidade de detalhar os registros transacionais de blocos e atributos, adicionar contagens de registros essenciais e as métricas correspondentes, além de adicionar/remover filtros de painéis para vários painéis. Você também será direcionado diretamente para o painel padrão após o login.
+* **Integração** de clientes potenciais do Marketo Engage: Reúna vendas e marketing junto com uma visão unificada de clientes potenciais em Bizible e Marketo Engage. Com essa atualização, o Marketo Engage agora pode ser usado como uma fonte de dados de lead adicional, de modo que não é mais necessário aguardar a sincronização dos leads com o CRM para gerar relatórios sobre a geração de leads.
+* **Melhorias** do Discover: Obtenha mais de nossos Fóruns do Discover na Bizible com melhorias desenvolvidas a partir do feedback dos clientes, como a capacidade de analisar registros transacionais de blocos e atributos, adicionar contagens de registro essenciais e métricas de custo por correspondentes e adicionar/remover filtros de painel para vários painéis. Você também será direcionado ao painel padrão ao fazer logon.
 
 ## Marketo Sky {#marketo-sky}
 
-* [Edição](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio) de imagens: Acesse os recursos de edição do Adobe sem precisar sair do Marketo Engage. Essa nova funcionalidade permite que você faça coisas como aprimorar, recortar e adicionar texto a imagens diretamente no Design Studio.
+* [Edição](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio) de imagem: Acesse os recursos de edição do Adobe sem precisar sair do Marketo Engage. Essa nova funcionalidade permite que você faça coisas como aprimorar, recortar e adicionar texto a imagens diretamente no Design Studio.
 
 ## Insight de vendas {#sales-insight}
 
-* **Ações** em massa do Salesforce Lightning: Aumente a eficiência das vendas e mantenha os compradores envolvidos com a capacidade de adicionar até 200 contatos/clientes potenciais ao campanha e enviar emails de Marketo Engage com o Salesforce Lightning.
-* **Suporte móvel para Salesforce1**: Agora você tem acesso móvel em qualquer lugar a todos os recursos do Sales Insight, como Momentos interessantes e Atividades e e-mails da Web, diretamente no aplicativo Salesforce1.
-* **Aprimoramentos** da interface do usuário: Interface atualizada com aprimoramentos de leitura e um design consistente com a nossa experiência de Marketo Sky.
+* **Ações** em massa do Salesforce Lightning: Aumente a eficiência das vendas e mantenha os compradores envolvidos com a capacidade de adicionar até 200 contatos/leads a campanhas e enviar emails de Marketo Engage em massa com o Salesforce Lightning.
+* **Suporte móvel para Salesforce1**: Agora você tem acesso móvel para todos os recursos de informações de vendas, como Momentos interessantes e Atividades da Web e Emails, diretamente no aplicativo Salesforce1.
+* **Aprimoramentos** da interface do usuário: Atualização da interface com aprimoramentos à legibilidade e um design consistente com nossa experiência em Marketo Sky.
 
-## Conexão de vendas {#sales-connect}
+## Conexão de Vendas {#sales-connect}
 
-* **Componentes** da grade: Otimize sua instância do Sales Connect com novas funcionalidades de personalização de grade. Escolha quais colunas exibir, pesquise por colunas, selecione/desmarque todas as colunas e determine quantas linhas de dados você deseja ver em cada página.
-* **[Bloqueio](/help/marketo/product-docs/marketo-sales-connect/admin/content-lockdown.md)** de conteúdo: Maximize o alinhamento da marca com uma configuração que abrange toda a subscrição, que controla se os não administradores têm a capacidade de criar e editar modelos e campanhas.
+* **Componentes** de grade: Otimize sua instância de Conexão de Vendas com novas funcionalidades de personalização de grade. Escolha quais colunas exibir, pesquise por colunas, selecione/desmarque todas as colunas e determine quantas linhas de dados você deseja visualizar em cada página.
+* **[Bloqueio](/help/marketo/product-docs/marketo-sales-connect/admin/content-lockdown.md)** de conteúdo: Maximize o alinhamento da marca com uma configuração de toda a assinatura que controla se os não administradores têm a capacidade de criar e editar modelos e campanhas.
 
 >[!NOTE]
 >
->* **Substituição** do TLS 1.0 e 1.1: Em um esforço contínuo de integração com a estrutura de liberação do Adobe, estamos mudando a substituição do TLS 1.0 e do TLS 1.1 para 13 de janeiro de 2020. Informações mais detalhadas podem ser encontradas [aqui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>* **Substituição** de TLS 1.0 e 1.1: Em um esforço contínuo de integração com a transferência da estrutura do Adobe, estamos descontinuando o TLS 1.0 e o TLS 1.1 para 13 de janeiro de 2020. Informações mais detalhadas podem ser encontradas [aqui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
    >
    >
-* **Atualização** ITP 2.1+ Munchkin: Devido a alterações na política de cookies do Safari, a capacidade de Munchkin de rastrear usuários em sessões no mesmo domínio será limitada pelo ITP a 1 ou 7 dias com base na versão do navegador e do navegador usada pelo visitante. Para explicar isso, estamos implementando um novo serviço da Web para permitir que os cookies Munchkin sejam definidos com um cabeçalho Set-Cookie por meio da resposta HTTP. Mais informações sobre como implementar este novo serviço podem ser encontradas [aqui](https://nation.marketo.com/docs/DOC-7351).
+* **Atualização** do ITP 2.1+ Munchkin: Devido a alterações na política de cookies do Safari, a capacidade do Munchkin de rastrear usuários em sessões no mesmo domínio será limitada pelo ITP a 1 ou 7 dias com base na versão do navegador e do navegador usada pelo visitante. Para levar isso em conta, estamos implementando um novo serviço da Web para permitir que os cookies do Munchkin sejam definidos com um cabeçalho Set-Cookie por meio da resposta HTTP. Mais informações sobre como implementar este novo serviço podem ser encontradas [aqui](https://nation.marketo.com/docs/DOC-7351).
 
 
-**_Webinar_** [de lançamento de produtoAssocie-se ao ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) uso em 3 de março, às 11:00AM PT / 2:00PM ET, para obter um webinar ao vivo hospedado pela equipe de produtos, e saiba mais sobre os recursos incluídos nesta versão.
+**_Versão do produto_** [WebinarAssocie-se ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) em 3 de março às 11:00AM PT / 2:00PM ET para um webinário em tempo real hospedado pela nossa equipe de produtos e saiba mais sobre os recursos incluídos nesta versão.
