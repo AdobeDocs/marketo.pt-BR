@@ -1,9 +1,9 @@
 ---
 unique-page-id: 14352482
-description: Como o rastreamento de resposta funciona - Documentos de marketing - Documentação do produto
+description: Como o rastreamento de resposta funciona - Documentos do Marketo - Documentação do produto
 title: Como o rastreamento de resposta funciona
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 # Como o rastreamento de resposta funciona {#how-reply-tracking-works}
 
-O rastreamento de resposta é feito observando uma ID de mensagem que está em cada email enviado. Cada email contém uma ID de mensagem exclusiva que nos permite ter alguns dos melhores rastreamentos de resposta.
+O Rastreamento de resposta é feito observando uma ID de mensagem que está em cada email enviado. Cada email contém uma ID de mensagem exclusiva que nos permite ter um dos melhores rastreamentos de resposta.
 
 >[!PREREQUISITES]
 >
->**Conexão com o Servidor de e-mail: o** Sales Connect deve estar conectado à sua caixa de entrada para que possamos saber quando uma nova resposta chegou. Você precisará ter sua conta do Sales Connect [conectada ao Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md). Se você estiver usando o Outlook, precisaremos fazer a integração com seu [servidor Exchange](https://toutapp.com/next#settings/exchange_settings).
+>**Conexão com o Servidor de email:** a Conexão de vendas deve estar conectada à sua caixa de entrada para que saibamos quando uma nova resposta chegou. Você precisará ter sua conta do Sales Connect [conectada ao Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Se você estiver usando o Outlook, precisaremos fazer a integração com seu [servidor do exchange](https://toutapp.com/next#settings/exchange_settings).
 
-Se o Sales Connect não conseguir rastrear a resposta do prospecto ao seu email, ele não poderá parar uma campanha com base na detecção de resposta ou registrar a resposta ao Salesforce.  O que queremos dizer com qualquer endereço de email que possa responder?
+Se o Sales Connect não conseguir rastrear a resposta do seu prospecto ao seu email, ele não poderá parar uma campanha com base na detecção de resposta ou registrar a resposta ao Salesforce.  O que queremos dizer com qualquer endereço de email que possa responder?
 
-Isso significa que se você enviar um email para flynn@flynnsarcade.com e ele responder com kevinf@flynnsarcade.com, nós poderemos rastrear a resposta. Além disso, se você enviar um e-mail para flynn@flynnsarcade.com e CC alan@encom.com, e Alan escrevê-lo de volta, ele também detectará a resposta e encerrará a campanha.
+Isso significa que se você enviar um email para flynn@flynnsarcade.com e ele responder com kevinf@flynnsarcade.com, poderemos rastrear a resposta. Além disso, se você enviar um email para flynn@flynnsarcade.com e CC alan@encom.com, e Alan escrever de volta, ele também detectará a resposta e encerrará a campanha.
