@@ -1,29 +1,29 @@
 ---
 unique-page-id: 11385938
-description: Editar conteúdo preditivo para emails - Documentos de marketing - Documentação do produto
-title: Editar conteúdo previsível para e-mails
+description: Editar conteúdo preditivo para emails - Documentos do Marketo - Documentação do produto
+title: Editar conteúdo preditivo para emails
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 
-# Editar conteúdo previsível para emails {#edit-predictive-content-for-emails}
+# Editar conteúdo preditivo para emails {#edit-predictive-content-for-emails}
 
 Veja como configurar seu conteúdo preditivo para emails.
 
 >[!PREREQUISITES]
 >
->O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página Todo o conteúdo.
+>O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página Todo o conteúdo .
 
-1. Na página Conteúdo previsível, clique em um título para abrir o editor.
+1. Na página Conteúdo preditivo , clique em um título para abrir o editor.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. A página de edição é aberta. **Por padrão, o** email é exibido.
+1. A página de edição é aberta. **** Por padrão, o email é exibido.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -37,30 +37,34 @@ Veja como configurar seu conteúdo preditivo para emails.
 
    >[!NOTE]
    >
-   >Se você tiver alterado o rótulo do botão, ele será atualizado quando você salvar suas alterações ou pré-visualização sua imagem.
+   >Se você tiver alterado o rótulo do botão, ele será atualizado quando você salvar as alterações ou visualizar a imagem.
 
 1. Para adicionar ou editar o URL da imagem, clique em **Editar imagem**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
-1. Insira o URL da imagem e clique em **Adicionar**.
+   >[!CAUTION]
+   >
+   >Para garantir a melhor qualidade, a imagem deve ter 400x400 pixels ou menos.
+
+1. Insira a URL da imagem e clique em **Adicionar**.
 
    ![](assets/five.png)
 
-1. Clique e arraste o controle deslizante para alterar o tamanho da imagem. Em seguida, clique e arraste a caixa de corte para isolar a área de imagem desejada que deseja usar. Clique em **Pré-visualização** quando terminar.
+1. Clique e arraste o controle deslizante para alterar o tamanho da imagem. Em seguida, clique e arraste a caixa de recorte para isolar a área de imagem desejada que deseja usar. Clique em **Visualizar** quando terminar.
 
    ![](assets/six.png)
 
-1. Clique nas setas laterais para percorrer e visualização seu conteúdo em cada uma das pré-visualizações de layout de email (duas opções são mostradas).
+1. Clique nas setas nos lados para rolar e visualizar o conteúdo em cada uma das visualizações de layout de email (duas opções são mostradas).
 
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Como opção, clique no campo **Categoria** e adicione categorias ao conteúdo. As opções são das [categorias que você já configurou](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Como opção, clique no campo **Categorias** e adicione categorias ao conteúdo. As opções são das [categorias que você já configurou](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
-1. Marque a caixa para ativar Conteúdo preditivo no email.
+1. Marque a caixa para ativar Conteúdo preditivo no Email.
 
    ![](assets/nine.png)
 
@@ -70,4 +74,4 @@ Veja como configurar seu conteúdo preditivo para emails.
 
    >[!NOTE]
    >
-   >No Editor de e-mail do Marketo v2.0, também é possível [visualização os modelos de layout](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) usados durante a ativação do conteúdo.
+   >No Editor de email do Marketo v2.0, também é possível [exibir os modelos de layout](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) usados durante a ativação do conteúdo.
