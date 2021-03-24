@@ -1,0 +1,47 @@
+---
+description: Editar campos para sincronização antes de excluí-los no Dynamics - Documentação do Marketo - Documentação do produto
+title: Editar campos para sincronização antes de excluí-los no Dynamics
+translation-type: tm+mt
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
+
+---
+
+
+# Editar campos para sincronização antes de excluí-los no Dynamics {#editing-fields-to-sync-before-deleting-them-in-dynamics}
+
+Às vezes, talvez você queira excluir campos no Dynamics. O Marketo mantém a lista de campos como uma referência para basear a sincronização. Se um campo for excluído no Dynamics enquanto a sincronização estiver ativada, a sincronização poderá encontrar erros. Antes de excluir qualquer campo, siga as etapas abaixo.
+
+1. No Marketo, clique em **Admin**.
+
+   ![](assets/sync-before-deleting-them-in-dynamics-1.png)
+
+1. Em Integração, clique em **Microsoft Dynamics**.
+
+   ![](assets/sync-before-deleting-them-in-dynamics-2.png)
+
+1. Clique em **Desativar Sincronização**.
+
+   ![](assets/sync-before-deleting-them-in-dynamics-3.png)
+
+1. Em uma nova guia no navegador, faça logon no Dynamics e exclua os campos desejados.
+
+1. De volta ao Marketo, em Microsoft Dynamics, clique em **Editar** ao lado de &quot;Etapa 2: Selecione Campos a serem sincronizados.&quot;
+
+   ![](assets/sync-before-deleting-them-in-dynamics-4.png)
+
+1. Revise os campos e clique em **Save**.
+
+   ![](assets/sync-before-deleting-them-in-dynamics-5.png)
+
+>[!CAUTION]
+>
+>Clicar em **Save** é necessário para salvar o esquema atualizado para a sincronização, mesmo que não tenha sido feita nenhuma alteração.
+
+>[!NOTE]
+>
+>Se a Sincronização não for interrompida antes de excluir um campo no Dynamics, ela poderá encontrar erros. Se isso acontecer, a sincronização será interrompida. Antes de retomar, o Administrador do Marketo precisaria revisar &quot;Selecionar campos para sincronização&quot; (discutido acima) e clicar em **Salvar** para que a sincronização aceitasse as alterações do schema.
+
+Lembre-se de ativar a sincronização depois que as alterações forem salvas!
