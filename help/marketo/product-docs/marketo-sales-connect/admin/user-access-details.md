@@ -1,9 +1,9 @@
 ---
 unique-page-id: 14352623
-description: Detalhes de acesso do usuário - Documentos do marketing - Documentação do produto
+description: Detalhes de acesso do usuário - Documentos do Marketo - Documentação do produto
 title: Detalhes de acesso do usuário
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -13,37 +13,37 @@ ht-degree: 0%
 
 # Detalhes de acesso do usuário {#user-access-details}
 
-A que Administradores e não Administradores têm acesso?
+Ao que os administradores e não administradores têm acesso?
 
 ## Permissões de usuário administrador {#admin-user-permissions}
 
-Os administradores podem [visualização todos os modelos](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
+Os administradores podem [visualizar todos os modelos](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
 
 ![](assets/templates.jpg)
 
-Os administradores podem [visualização todas as campanhas](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+Os administradores podem [visualizar todas as campanhas](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
-Os administradores podem visualização todas as atividades de e-mail.
+Os administradores podem exibir todas as atividades de email.
 
-![](assets/email-activity.png)
+![](assets/user-access-details-3.png)
 
-Os administradores podem ver todas as pessoas em uma campanha em andamento.
+Administradores podem ver todas as pessoas em uma campanha em execução.
 
 ![](assets/running.jpg)
 
-Todos os registros de pessoas podem ser acessados no grupo Todos.
+Todos os registros de pessoas podem ser acessados no grupo Todos .
 
 ![](assets/viewed.jpg)
 
-Os administradores podem parar as campanhas em nome dos usuários.
+Os administradores podem interromper campanhas em nome dos usuários.
 
-## Permissões de usuário não administrativo {#non-admin-user-permissions}
+## Permissões de usuário não administrador {#non-admin-user-permissions}
 
 * Analytics:
 
-   * Os usuários podem visualizar as análises de equipe
+   * Os usuários podem ver a análise de equipe
    * Os usuários podem detalhar somente as equipes às quais pertencem
    * Os usuários podem analisar suas próprias análises
 
@@ -53,20 +53,20 @@ Os administradores podem parar as campanhas em nome dos usuários.
    * Os usuários podem compartilhar grupos apenas com as equipes às quais pertencem
    * Quando um usuário é excluído, seus contatos compartilhados transferem a propriedade para o administrador Principal que excluiu o usuário
 
-* Batida de vendas - Próximo e ao vivo feed:
+* Beat de Vendas - Próximo e ao Vivo Feed:
 
-   * Os usuários podem visualização a visualização &quot;todos&quot;
-   * Os usuários podem filtrar pelas equipes às quais pertencem
+   * Os usuários podem exibir a visualização &quot;todos&quot;
+   * Os usuários podem filtrar pela(s) equipe(s) à qual pertencem
    * O usuário pode compartilhar publicações com todos
-   * Os usuários podem compartilhar publicações somente com as equipes às quais pertencem
+   * Os usuários podem compartilhar publicações com apenas as equipes às quais pertencem
 
-* Página Gerenciamento de equipe:
+* Página Gerenciamento de Equipe:
 
-   * Não é possível visualização
+   * Não é possível visualizar
 
 * Página Modelos:
 
    * Os usuários podem compartilhar modelos com todos
-   * Os usuários podem compartilhar modelos no categoria que seus administradores permitem
+   * Os usuários podem compartilhar modelos em categorias que seus administradores permitem
    * Quando um usuário é removido de um grupo, seus modelos não são compartilhados com esse grupo
-   * Quando um usuário é excluído de um grupo, seus modelos transferem a propriedade para o administrador Principal que excluiu o usuário
+   * Quando um usuário é excluído de uma equipe, seus modelos transferem a propriedade para o administrador Principal que excluiu o usuário
