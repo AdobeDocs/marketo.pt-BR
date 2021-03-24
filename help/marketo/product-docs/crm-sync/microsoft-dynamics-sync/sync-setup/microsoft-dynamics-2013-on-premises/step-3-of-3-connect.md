@@ -1,31 +1,31 @@
 ---
 unique-page-id: 3571819
-description: Etapa 3 de 3 - Connect Marketing and Dynamics (2013 On-Premise) - Marketing to Docs - Documentação do produto
-title: Etapa 3 de 3 - Conectar marcas e dinâmicas (locais 2013)
+description: Etapa 3 de 3 - Conectar o Marketo e o Dynamics (2013 no local) - Documentos do Marketo - Documentação do produto
+title: Etapa 3 de 3 - Conectar o Marketo e o Dynamics (2013 no local)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
 
-# Etapa 3 de 3: Connect Marketing and Dynamics (On-Premise 2013) {#step-of-connect-marketo-and-dynamics-on-premises}
+# Etapa 3 de 3: Conectar o Marketo e o Dynamics (2013 No Local) {#step-of-connect-marketo-and-dynamics-on-premises}
 
-Tudo bem! Instalamos a solução e configuramos o usuário de sincronização. Em seguida, precisamos conectar o Marketing e o Dynamics.
+Tudo bem! Instalamos a solução e configuramos o usuário de sincronização. Em seguida, precisamos conectar o Marketo e o Dynamics.
 
 >[!PREREQUISITES]
 >
->* [Etapa 1 de 3: Instalar a solução Marketo no Dynamics (2013 On-Premise)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
->* [Etapa 2 de 3: Configurar usuário de sincronização para o Marketing (2013 On-Premise)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>* [Etapa 1 de 3: Instalar a solução Marketo no Dynamics (2013 no local)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+>* [Etapa 2 de 3: Configurar usuário de sincronização para o Marketo (2013 no local)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
 
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-## Digite as informações do usuário do Dynamics Sync {#enter-dynamics-sync-user-information}
+## Inserir Informações do Usuário de Sincronização Dinâmica {#enter-dynamics-sync-user-information}
 
 1. Faça logon no Marketo e clique em **Admin**.
 
@@ -39,43 +39,45 @@ Tudo bem! Instalamos a solução e configuramos o usuário de sincronização. E
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Clique em **Editar** em **Etapa 1: Insira Credenciais**.
+1. Clique em **Editar** em **Etapa 1: Insira as credenciais**.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
    >[!CAUTION]
    >
-   >Verifique se suas credenciais estão corretas, pois não é possível reverter as alterações subsequentes no schema após o envio. Se as credenciais incorretas forem salvas, será necessário obter uma nova subscrição de marketing.
+   >Certifique-se de que suas credenciais estejam corretas, pois não podemos reverter as alterações subsequentes do schema após o envio. Se as credenciais incorretas forem salvas, você terá que obter uma nova assinatura do Marketo.
 
-1. Digite **Nome de usuário**, **Senha** e Microsoft Dynamics **URL** e clique em **Salvar**.
+1. Digite o **Nome de usuário**, **Senha** e Microsoft Dynamics **URL** e clique em **Salvar**.
 
    ![](assets/image2015-3-26-11-3a47-3a59.png)
 
    >[!NOTE]
    >
-   >O Nome de usuário no Marketo deve corresponder ao Nome de usuário para o usuário de sincronização no CRM. O formato pode ser user@domain.com ou DOMAIN\user.
+   >* O Nome de usuário no Marketo deve corresponder ao Nome de usuário para o usuário de sincronização no CRM. O formato pode ser user@domain.com ou DOMAIN\user.
+   >* Se você não souber o URL, [saiba como encontrá-lo aqui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-   >[!TIP]
-   >
-   >Não sabe o URL? Mostraremos como localizar o [URL do Serviço de Organização Dinâmica](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) aqui.
 
-## Selecionar campos para sincronizar {#select-fields-to-sync}
+## Selecionar Campos para Sincronizar {#select-fields-to-sync}
 
-Agora precisamos selecionar os campos nos quais queremos sincronizar.
+Agora, precisamos selecionar os campos que deseja sincronizar.
 
-1. Clique em **Editar** em **Etapa 2: Selecione Campos para sincronização**.
+1. Clique em **Editar** em **Etapa 2: Selecione Fields to Sync**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Selecione os campos que deseja sincronizar com o Marketo, de modo que eles sejam pré-selecionados. Clique em **Salvar**.
+1. Selecione os campos que deseja sincronizar com o Marketo para que sejam pré-selecionados. Clique em **Salvar**.
 
    ![](assets/image2016-8-25-15-3a10-3a17.png)
 
+   >[!NOTE]
+   >
+   >O Marketo armazena uma referência aos campos a serem sincronizados. Se você excluir um campo no Dynamics, recomendamos fazer isso com o [sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Em seguida, atualize o esquema no Marketo editando e salvando o [Selecionar Campos para Sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+
 ## Sincronizar campos para um filtro personalizado {#sync-fields-for-a-custom-filter}
 
-Se você criou um filtro personalizado, certifique-se de entrar e selecionar os novos campos a serem sincronizados com o Marketo.
+Se você criou um filtro personalizado, acesse e selecione os novos campos a serem sincronizados com o Marketo.
 
-1. Vá para Admin e selecione **Microsoft Dynamics**.
+1. Acesse Admin e selecione **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
@@ -87,17 +89,17 @@ Se você criou um filtro personalizado, certifique-se de entrar e selecionar os 
 
    ![](assets/image2016-8-25-15-3a11-3a4.png)
 
-## Ativar sincronização {#enable-sync}
+## Habilitar Sincronização {#enable-sync}
 
-1. Clique em **Editar** em **Etapa 3: Habilitar Sincronização**.
+1. Clique em **Editar** em **Etapa 3: Habilite Sync**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
    >[!CAUTION]
    >
-   >O Marketo não eliminará a duplicação automaticamente em relação a uma sincronização do Microsoft Dynamics ou quando você inserir pessoas ou clientes em potencial manualmente.
+   >O Marketo não desduplica automaticamente em relação a uma sincronização do Microsoft Dynamics ou quando você insere manualmente pessoas ou leads.
 
-1. Leia tudo no pop-up, digite seu email e clique em **Sincronização de Start**.
+1. Leia tudo na janela pop-up , insira seu email e clique em **Iniciar Sincronização**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
@@ -105,8 +107,8 @@ Se você criou um filtro personalizado, certifique-se de entrar e selecionar os 
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-Excelente trabalho! Você acabou de desencadear o poder da sincronização bidirecional entre o Marketo e o Microsoft Dynamics. Se você adquiriu o Marketing Cloud Sales Insight, é mais divertido:
+Excelente trabalho! Você acabou de desencadear o poder da sincronização bidirecional entre o Marketo e o Microsoft Dynamics. Se você adquiriu o Marketo Sales Insight, é mais divertido ser realizado:
 
 >[!MORELIKETHIS]
 >
->[Instalar e configurar o Marketingto Sales Insight no Microsoft Dynamics 2013](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
+>[Instalar e configurar o Marketing Sales Insight no Microsoft Dynamics 2013](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
