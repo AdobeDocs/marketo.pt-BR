@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352422
-description: Quais são as versões mais recentes do cliente? - Documentos do Marketing - Documentação do produto
+description: Quais são as versões mais recentes do cliente? - Documentos do Marketo - Documentação do produto
 title: Quais são as versões mais recentes do cliente?
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -19,23 +19,23 @@ Abaixo estão as versões mais recentes para todos os clientes do Sales Connect.
  <tbody> 
   <tr> 
    <td><strong>Gmail</strong></td> 
-   <td><p>8,6,19</p></td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
    <td><strong>Cromo</strong></td> 
-   <td><p>8,6,19</p></td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
-   <td><strong>Windows do Outlook</strong></td> 
-   <td>7.5.0.0 e 7.5.1.0</td> 
+   <td><strong>Outlook Windows</strong></td> 
+   <td>2.1.3</td> 
   </tr> 
   <tr> 
    <td><strong>Outlook Mac</strong></td> 
-   <td>2.0.0.0</td> 
+   <td>2.1.3</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Outlook 365</strong></td> 
-   <td colspan="1">2.0.0.0</td> 
+   <td><strong>Outlook 365</strong></td> 
+   <td>2.1.3</td> 
   </tr> 
  </tbody> 
 </table>
