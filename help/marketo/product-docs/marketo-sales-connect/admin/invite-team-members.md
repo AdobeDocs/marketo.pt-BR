@@ -3,9 +3,9 @@ unique-page-id: 14352402
 description: Convidar membros da equipe - Documentos do Marketo - Documentação do produto
 title: Convidar membros da equipe
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Adicionar membros da equipe é rápido e fácil!
 
-1. Clique no ícone de engrenagem e selecione **Configurações**.
+1. Clique no ícone de engrenagem e selecione **Settings**.
 
    ![](assets/one.png)
 
-1. Em Configurações administrativas, selecione **Gerenciamento de equipe**.
+1. Em Configurações de administração, selecione **Gerenciamento de usuário**.
 
-   ![](assets/two.png)
+   ![](assets/invite-team-members-2.png)
 
-1. Clique em **Convidar novo usuário**.
+1. Clique em **Convidar usuários**.
 
-   ![](assets/three.png)
+   ![](assets/invite-team-members-3.png)
 
-1. Digite os endereços de email dos indivíduos que você deseja adicionar e clique em **Próximo**.
+1. Insira os endereços de email dos indivíduos que deseja adicionar e clique em **Next**.
 
    ![](assets/four.png)
 
