@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Conexão de email para usuários do Outlook - Documentos do Marketo - Documentação do produto
 title: Conexão de email para usuários do Outlook
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,22 @@ Conectar-se ao Outlook significa que você receberá o rastreamento de respostas
 
    ![](assets/six-a.png)
 
-   | **Outlook Online** | Também conhecido como Office Online |
-   |---|---|
-   | **Exchange no local** | Inclui o Exchange 2013 e 2016 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Também conhecido como Exchange Online</td> 
+     </tr>
+     <tr>
+      <td><strong>Exchange no local</strong></td> 
+      <td>Inclui o Exchange 2013 e 2016</td> 
+     </tr>
+    </tbody>
+   </table>
+
+   >[!NOTE]
+   >
+   >O Marketo não oferece suporte a contas híbridas do Exchange no momento.
 
 1. Clique em **OK**.
 
@@ -67,7 +80,7 @@ Conectar-se ao Outlook significa que você receberá o rastreamento de respostas
 
    >[!NOTE]
    >
-   >Ao usar o Outlook como canal de delivery, não é possível enviar mais de 300 emails em massa de cada vez.
+   >O Outlook Online (Office365) impõe seus próprios limites de envio. [Saiba mais aqui](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Conectando-se ao Exchange no local {#connecting-to-exchange-on-premise}
 
@@ -97,10 +110,18 @@ Conectar-se ao Exchange no local significa que você receberá o rastreamento de
 
    ![](assets/six-b.png)
 
-   | Versão | Descrição |
-   |---|---|
-   | **Outlook Online** | Também conhecido como Office Online |
-   | **Exchange no local** | Inclui o Exchange 2013 e 2016 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Também conhecido como Exchange Online</td> 
+     </tr>
+     <tr>
+      <td><strong>Exchange no local</strong></td> 
+      <td>Inclui o Exchange 2013 e 2016</td> 
+     </tr>
+    </tbody>
+   </table>
 
 1. Insira suas credenciais e clique em **Connect**.
 
@@ -114,4 +135,4 @@ Conectar-se ao Exchange no local significa que você receberá o rastreamento de
 
    >[!NOTE]
    >
-   >Ao usar o Outlook como canal de delivery, não é possível enviar mais de 300 emails em massa de cada vez.
+   >Ao usar o Exchange no local, sua equipe de TI estabelecerá seu limite de envio de email.
