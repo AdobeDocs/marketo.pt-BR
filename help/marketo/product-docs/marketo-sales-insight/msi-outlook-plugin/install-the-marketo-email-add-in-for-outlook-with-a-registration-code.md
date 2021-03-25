@@ -1,27 +1,31 @@
 ---
 unique-page-id: 2949711
-description: Instale o suplemento de email do Marketo para Outlook com um código de registro - documentos do Marketo - documentação do produto
-title: Instale o suplemento de email do Marketo para Outlook com um código de registro
+description: Instale o complemento Marketo Email para Outlook com um código de registro - Documentos do Marketo - Documentação do produto
+title: Instalar o complemento Marketo Email para Outlook com um código de registro
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
 
 
-# Instale o suplemento de e-mail Marketo para Outlook com um código de registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Instale o Suplemento de Email do Marketo para Outlook com um Código de Registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
-Se os usuários puderem acessar as configurações de administrador em seus laptops, você poderá enviar um código de registro diretamente para eles.
+Se os usuários conseguirem acessar as configurações do administrador em seus laptops, você poderá enviar um código de registro diretamente para eles.
 
-Se você não recebeu um email de convite, peça ao administrador do Marketing para convidá-lo.
+Caso não tenha recebido um email de convite, peça ao administrador do Marketo para convidá-lo.
 
 >[!PREREQUISITES]
 >
->Você deve receber [uma Licença do Suplemento por Email do Marketing](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>Você deve ter [emitido uma Licença do complemento de email do Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
-## Baixar o instalador {#download-installer}
+>[!NOTE]
+>
+>A partir de 1/1/20, a versão mais recente do plug-in do Outlook não será mais compatível com o modo offline. Isso entrará em vigor após a instalação/atualização em ou após 10/1.
+
+## Baixar instalador {#download-installer}
 
 1. Identifique a sua [versão do Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 
@@ -29,24 +33,26 @@ Se você não recebeu um email de convite, peça ao administrador do Marketing p
 
    >[!NOTE]
    >
-   >Os links abaixo estão funcionando apenas no Chrome. Desculpe por qualquer inconveniente.
+   >No momento, os links abaixo estão funcionando somente no Microsoft Edge ou clicando com o botão direito do mouse no Chrome. Desculpe por qualquer inconveniência.
 
    | Versão do Outlook | Outlook de 32 bits | Outlook de 64 bits |
    |---|---|---|
-   | Outlook 2000 | Não suportado | N/A |
-   | Outlook 2003 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/A |
-   | Outlook 2007 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/A |
-   | Outlook 2010 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook O365 (somente Windows) | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2000 | Não suportado | N/D |
+   | Outlook 2003 | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/D |
+   | Outlook 2007 | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/D |
+   | Outlook 2010 | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2013 | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2016 | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2019 | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook para Mac | Não suportado | Não suportado |
    | Outlook Web App | Não suportado | Não suportado |
+   | Office 365* | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+
+   *Versão do Office 365: Somente cliente Windows (no Windows 10, Enterprise ou Pro).
 
 ## Copiar seu código de registro {#copy-your-registration-code}
 
-1. Copie o código de registro do e-mail de convite recebido.
+1. Copie o código de registro do email de convite recebido.
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
@@ -64,23 +70,23 @@ Se você não recebeu um email de convite, peça ao administrador do Marketing p
    >
    >Se receber um aviso de segurança, não se preocupe! Basta clicar em **Executar**.
 
-1. Clique em **Próximo**.
+1. Clique em **Next**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Preencha **Nome**, **Sobrenome**, **Endereço de correio eletrônico** e copie e cole o **Código de registro** do correio eletrônico para o formulário e clique em **Seguinte**.
+1. Preencha **Nome**, **Sobrenome**, **Endereço de email**, em seguida, copie e cole o **Código de registro** do email no formulário e clique em **Próximo**.
 
    ![](assets/enter-your-information-hands.png)
 
    >[!TIP]
    >
-   >Se a instalação falhar, verifique com seu departamento de TI se o tráfego HTTPS não está bloqueado. O instalador requer que o tráfego HTTPS seja aberto.
+   >Se a instalação falhar, verifique com seu departamento de TI para garantir que o tráfego HTTPS não esteja bloqueado. O instalador requer que o tráfego HTTPS seja aberto.
 
-1. Clique em **Próximo** para instalar no local padrão.
+1. Clique em **Next** para instalar no local padrão.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Clique em **Próximo**.
+1. Clique em **Next**.
 
    ![](assets/confirm-installation-hand.png)
 
@@ -92,16 +98,16 @@ Se você não recebeu um email de convite, peça ao administrador do Marketing p
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Agora, abra o Microsoft Outlook e veja os botões Marketo.
+1. Agora, abra o Microsoft Outlook e veja os botões Marketo .
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
-   Excelente! Agora os botões de Marketo estão em um lugar melhor.
+   Excelente! Agora os botões do Marketo estão em um lugar melhor.
 
-Saiba mais sobre como usar as ações Mensagem de marketing e Registrar com marketing.
+Saiba mais sobre como usar as ações Marketo Message e Log With Marketo .
 
 >[!MORELIKETHIS]
 >
->* [Enviar e rastrear um email com o suplemento de email Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Enviar e rastrear do Outlook usando um modelo de marketing](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Enviar e rastrear um email com o complemento de email do Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Enviar e rastrear a partir do Outlook usando um modelo de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
