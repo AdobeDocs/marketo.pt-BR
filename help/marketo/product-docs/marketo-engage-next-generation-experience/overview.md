@@ -2,9 +2,9 @@
 description: Visão geral - Documentos do Marketo - Documentação do produto
 title: Visão geral
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '470'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Os novos recursos da interface melhoraram e expandiram a iconografia. Saiba mais
 
 **Árvore**
 
-A árvore também foi atualizada. Mas neste momento, arrastar e soltar não está disponível. No entanto, ainda é possível mover ativos. Saiba como: [Movimentação de ativos](/help/marketo/product-docs/marketo-engage-next-generation-experience/moving-assets.md).
+A árvore também foi atualizada.
 
 ![](assets/overview-4.png)
 
@@ -97,12 +97,12 @@ Há muitos novos recursos de árvore disponíveis.
   <tr>
    <td>Arrastar e soltar da árvore para o fluxo de envolvimento</td> 
    <td><strong>X</strong></td> 
-   <td>hhhhhhhh</td> 
+   <td></td> 
   </tr>
   <tr>
    <td>Arrastar e soltar dentro da árvore</td> 
    <td><strong>X</strong></td> 
-   <td></td> 
+   <td><strong>X</strong></td> 
   </tr>
   <tr>
    <td>Filtrar por tipo de ativo e estados</td> 
@@ -186,7 +186,7 @@ Dê uma olhada na nova navegação global.
 <table> 
  <tbody>
   <tr>
-   <td>1</td> 
+   <td>3</td> 
    <td>Acabou o menu suspenso da superbola</td> 
   </tr>
   <tr>
