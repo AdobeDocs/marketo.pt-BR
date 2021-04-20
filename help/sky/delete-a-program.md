@@ -1,16 +1,16 @@
 ---
-title: delete-a-programa
-description: Excluir um Programa
+title: delete-a-program
+description: Excluir um programa
+exl-id: 1ef0b6d8-5a3e-4dff-a3ad-26874906e2bf
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-
-# Excluir um Programa
+# Excluir um programa
 
 <br> 
 
@@ -26,8 +26,8 @@ Veja como excluir um programa.
 
 >[!NOTE]
 >
->Você pode não ser capaz de excluir um programa se ele contiver ativos que estão sendo usados em outro lugar do sistema. Para corrigir isso, talvez seja necessário detalhar e cancelar a aprovação/exclusão desses ativos; em seguida, tente excluir seu programa novamente.
+>Não é possível excluir um programa se ele contiver ativos que estão sendo usados em outro lugar do sistema. Para corrigir isso, talvez seja necessário detalhar e cancelar a aprovação/exclusão desses ativos; em seguida, tente excluir seu programa novamente.
 
 >[!CAUTION]
 >
->A exclusão de um programa se livrará de todos os dados associados. Para preservar quaisquer dados, é possível [colocar o programa em uma pasta de arquivamento](/help/sky/archive-a-program.md).
+>A exclusão de um programa se livrará de todos os dados associados. Para preservar quaisquer dados, talvez você queira [colocar o programa em uma pasta de arquivamento](/help/sky/archive-a-program.md).
