@@ -1,14 +1,14 @@
 ---
 title: clone-a-stream
 description: Clonar um fluxo
+exl-id: 4a588a87-6e5e-4d2d-bd9b-7612f743e1a2
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
-
 
 # Clonar um fluxo
 
@@ -30,8 +30,8 @@ Clonar um fluxo por vários motivos, incluindo o teste de diferentes pedidos e c
 
 >[!CAUTION]
 >
->Tudo no córrego é clonado, exceto pela Cadence. Lembre-se de defini-lo.
+>Tudo no fluxo é clonado exceto pela Cadência. Lembre-se de configurá-lo.
 
 >[!NOTE]
 >
->Você pode ter até 25 fluxos por programa de envolvimento.
+>Você pode ter até 25 fluxos por programa de engajamento.
