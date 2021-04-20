@@ -1,26 +1,26 @@
 ---
-title: execute-a-batch-smart-campanha-now
-description: Execute uma Campanha inteligente em lote agora
+title: run-a-batch-smart-campaign-now
+description: Executar uma campanha inteligente em lote agora
+exl-id: 2e6b24fc-db7a-4bed-ac41-bd26fea3e8f7
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-
-# Execute uma Campanha inteligente em lote agora
+# Executar uma campanha inteligente em lote agora
 
 <br> 
 
-Quando terminar de criar a campanha em lote, você poderá optar por executá-la agora ou depois. Veja como fazer isso imediatamente.
+Depois de concluir a criação da campanha em lote, você pode optar por executá-la agora ou posteriormente. Veja como executá-lo imediatamente.
 
-1. Selecione a campanha inteligente de lote que deseja executar.
+1. Selecione a campanha inteligente em lote que deseja executar.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-1.png)
 
-1. Vá para a guia **[!UICONTROL Agendamento]** e clique em **[!UICONTROL Adicionar Execução]**.
+1. Vá para a guia **[!UICONTROL Schedule]** e clique em **[!UICONTROL Add Run]**.
 
    ![Imagem dois](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-2.png)
 
@@ -28,4 +28,4 @@ Quando terminar de criar a campanha em lote, você poderá optar por executá-la
 
    ![Imagem Três](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-3.png)
 
-E é isso. Você também pode [programar execuções para mais tarde](https://docs.marketo.com/display/DOCS/Schedule+a+Batch+Smart+Campaign+to+Run+Later), se preferir.
+E é isso. Você também pode [agendar execuções para mais tarde](https://docs.marketo.com/display/DOCS/Schedule+a+Batch+Smart+Campaign+to+Run+Later) se preferir.
