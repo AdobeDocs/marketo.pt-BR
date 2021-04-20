@@ -1,53 +1,53 @@
 ---
 title: comportamento esperado
 description: Comportamento esperado
+exl-id: 8f6d12e4-851c-43d8-a5cf-053887517aaa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
-
 # Comportamento esperado
 
 <br> 
 
-Neste artigo, você encontrará informações sobre o comportamento esperado associado às Audiências preditivas (PA).
+Neste artigo, você encontrará informações sobre o comportamento esperado associado a públicos-alvo preditivos (PA).
 
 ## Considerações sobre dados e privacidade
 
-* Todo o processamento de dados necessário para os modelos AI/ML ocorre na América do Norte.
-* Os modelos AI/ML não usam informações específicas de cliente potencial, como nomes próprios ou sobrenomes, gênero, e-mails, números de contato etc. Os modelos utilizam apenas atributos gerais derivados de firmgráficos e registros de atividades.
+* Todo o processamento de dados necessário para os modelos de AI/ML ocorre na América do Norte.
+* Os modelos AI/ML não usam informações específicas de lead, como nomes ou sobrenomes, gênero, emails, números de contato, etc. Os modelos utilizam apenas atributos gerais derivados de firmográficos e registros de atividades.
 
-## Para Audiências preditivas, você pode esperar o seguinte comportamento:
+## Para públicos-alvo preditivos, você pode esperar o seguinte comportamento:
 
-* O PA pode ser acessado tanto no Marketo Sky quanto na experiência do Marketo Classic. A disponibilidade de recursos específicos é a seguinte:
+* O PA pode ser acessado no Marketo Sky e na experiência do Marketo Classic. A disponibilidade de recursos específicos é a seguinte:
    * Filtros preditivos - [!DNL Sky/Classic]
    * Registros projetados - [!DNL Sky/Classic]
-   * Previsões de probabilidade em nível de cliente potencial - [!DNL Sky/Classic]
+   * Previsões de probabilidade de nível de lead - [!DNL Sky/Classic]
    * Metas e rastreamento - somente [!DNL Sky]
    * Insights e recomendações - somente [!DNL Sky]
-* [A ](/help/sky/getting-started-with-predictive-audiences.md) ativação inicial leva de **24 a 48** horas para que todos os processos sejam concluídos após a ativação do PA. Você verá todos os recursos de Audiências preditivas e Filtros preditivos na interface, mas pode levar até 24 horas para que esses recursos comecem a funcionar.
-* **As previsões serão geradas somente para novas campanhas que são criadas após o recurso ser ativado.**
+* [A ](/help/sky/getting-started-with-predictive-audiences.md) ativação inicial leva de **24 a 48** horas para que todos os processos sejam concluídos após a ativação do PA. Você verá todos os recursos de Predictive Audiences e Predictive Filters na interface, mas pode levar até 24 horas para que esses recursos comecem a funcionar.
+* **As previsões só serão geradas para novas campanhas que são criadas após a ativação do recurso.**
 
-## Há algumas considerações adicionais específicas para filtros preditivos:
+## Há algumas considerações adicionais específicas para os filtros preditivos:
 
-* Os filtros de Probabilidade de Registro e Participação só podem ser usados com programas de evento ou webinar. Os filtros Looklike e Unsubscribe podem ser usados em programas de e-mail, evento e webinar.
-* Você pode aplicar filtros preditivos a uma campanha inteligente mesmo se o programa pai for criado antes de filtros preditivos serem ativados.
-* Filtros preditivos não estão disponíveis para campanhas de disparo.
-* Para executar uma campanha inteligente, filtros de probabilidade precisam ser usados em conjunto com outros filtros regulares.
+* Os filtros de Probabilidade de Registro e Participação só podem ser usados com programas de evento ou webinar. Filtros de pesquisa e cancelamento de inscrição podem ser usados em programas de email, evento e webinar.
+* Você pode aplicar filtros preditivos a uma campanha inteligente mesmo se o programa pai for criado antes da ativação de filtros preditivos.
+* Filtros preditivos não estão disponíveis para campanhas do acionador.
+* Para executar uma campanha inteligente, os filtros de probabilidade precisam ser usados junto com outros filtros regulares.
 * O recurso Regras salvas não está disponível para uso em campanhas que contêm filtros preditivos.
 * Você pode usar **até 5** filtros preditivos em uma lista inteligente.
-* Filtros preditivos podem processar um **máximo de 1 milhão de clientes potenciais qualificados**.
+* Filtros preditivos podem processar um **máximo de 1 milhão de leads qualificados**.
 * Você pode ter **até 50 programas ativos** com filtros preditivos. Um programa ativo é qualquer programa que usa filtros preditivos e foi agendado pelo menos uma vez.
 
 ## Quando os registros projetados não estão disponíveis?
 
 Os registros projetados não estarão disponíveis nos seguintes casos de uso:
 
-* se o programa foi criado antes da adição de Audiências preditivas
-* quando os status dos programas não estiverem mapeados para status do sistema
+* se o programa foi criado antes da adição de Públicos preditivos
+* quando os status do programa não são mapeados para status do sistema
 * quando não houver membros no programa
-* quando não houver programas similares passados nos últimos 6 meses que correspondam aos critérios necessários
+* quando não existirem programas similares nos últimos 6 meses que correspondam aos critérios exigidos
