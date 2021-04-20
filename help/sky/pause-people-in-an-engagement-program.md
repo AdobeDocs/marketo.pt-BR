@@ -1,22 +1,22 @@
 ---
-title: pause-people-in-an-engagement-programa
-description: Pausar pessoas em um Programa de envolvimento
+title: pause-people-in-an-engagement-program
+description: Pausar pessoas em um programa de envolvimento
+exl-id: d6e8717a-179e-4bec-8b12-6dedd05b8569
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-
-# Pausar pessoas em um Programa de envolvimento
+# Pausar pessoas em um programa de envolvimento
 
 <br> 
 
-Quando uma pessoa é membro de um programa de envolvimento, ela receberá conteúdo até que [esgote todo o conteúdo](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content). Você pode usar a etapa de fluxo [Alterar cadência do Programa de envolvimento](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) para impedir que as pessoas recebam conteúdo mesmo que ainda não tenham esgotado o conteúdo.
+Quando uma pessoa é membro de um programa de envolvimento, ela receberá conteúdo até ter [esgotado todo o conteúdo](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content). Você pode usar a etapa de fluxo [Change Engagement Program Cadence](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) para impedir que as pessoas recebam conteúdo mesmo que ainda não tenham exaurido conteúdo.
 
-1. Na sua campanha inteligente, escolha a pessoa ou pessoas que deseja pausar na lista inteligente. Em seguida, no fluxo, localize e arraste sobre a ação de fluxo **[!UICONTROL Alterar cadência do Programa de envolvimento]**.
+1. Em sua campanha inteligente, escolha a(s) pessoa(s) que deseja pausar na lista inteligente. Em seguida, no fluxo, localize e arraste sobre a ação de fluxo **[!UICONTROL Change Engagement Program Cadence]**.
 
    ![Imagem Um](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-1.png)
 
@@ -24,12 +24,12 @@ Quando uma pessoa é membro de um programa de envolvimento, ela receberá conte�
 
    ![Imagem dois](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-2.png)
 
-1. Selecione **[!UICONTROL Pausado]** como o Novo valor para impedir que a pessoa receba conteúdo.
+1. Selecione **[!UICONTROL Paused]** como o Novo valor para impedir que a pessoa receba conteúdo.
 
    ![Imagem Três](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-3.png)
 
-Você pode redefinir a pessoa para **[!UICONTROL Normal]** se quiser que ela comece a receber conteúdo novamente. Eles retomarão onde pararam.
+Você pode definir a pessoa de volta para **[!UICONTROL Normal]** se quiser que ela comece a receber conteúdo novamente. Eles retomarão onde pararam.
 
 >[!NOTE]
 >
->Pausar uma pessoa impedirá que ela receba conteúdo, mas ainda haverá transição entre fluxos se eles atenderem aos critérios.
+>Pausar uma pessoa impedirá que ela receba conteúdo, mas ainda fará a transição entre fluxos se atenderem aos critérios.
