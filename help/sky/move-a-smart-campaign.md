@@ -1,16 +1,16 @@
 ---
-title: campanha inteligente
-description: Mover uma Campanha inteligente
+title: campanha mover-a-smart
+description: Mover uma campanha inteligente
+exl-id: e06f188d-1b65-4167-868f-d33fbffb6b74
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-
-# Mover uma Campanha inteligente
+# Mover uma campanha inteligente
 
 <br> 
 
@@ -20,11 +20,11 @@ Mova uma campanha inteligente para um programa ou pasta diferente.
 
    ![Imagem Um](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-1.png)
 
-1. Clique com o botão direito do mouse e selecione **[!UICONTROL Mover]**.
+1. Clique com o botão direito do mouse e selecione **[!UICONTROL Move]**.
 
    ![Imagem dois](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-2.png)
 
-1. Escolha o Programa ou a pasta de destino.
+1. Escolha o Programa ou Pasta de destino.
 
    ![Imagem Três](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-3.png)
 
