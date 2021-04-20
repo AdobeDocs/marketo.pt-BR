@@ -1,24 +1,24 @@
 ---
-title: guia using-the-programa-setup
-description: Usando a guia Configuração do Programa
+title: usar-the-program-setup-tab
+description: Usando a guia Configuração do programa
+exl-id: fe3c092f-aeb1-4450-9827-b4b8f6163196
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-
-# Usando a guia Configuração do Programa
+# Usando a guia Configuração do programa
 
 <br> 
 
-Na guia [!UICONTROL Configuração] do seu programa, você pode selecionar um canal, adicionar tags e custos de período e alterar configurações.
+Na guia [!UICONTROL Setup] do seu programa, você pode selecionar um canal, adicionar tags e custos do período e alterar configurações.
 
 ![Imagem Um](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)
 
-## Alterar Canal do Programa
+## Alterar canal de programa
 
 Para alterar o canal do programa, selecione um diferente no menu suspenso na parte superior da página.
 
@@ -30,27 +30,27 @@ Para alterar o canal do programa, selecione um diferente no menu suspenso na par
 
 ## Adicionar tags
 
-1. Na seção [!UICONTROL Tags], clique no menu suspenso **[!UICONTROL Atributo]** e escolha um atributo de tag nas opções disponíveis.
+1. Na seção [!UICONTROL Tags], clique no menu suspenso **[!UICONTROL Attribute]** e escolha um atributo de tag a partir das opções disponíveis.
 
    ![Imagem Três](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Clique no menu suspenso **[!UICONTROL Valor]** e escolha um valor de tag nas opções disponíveis. Clique em **[!UICONTROL Adicionar]**.
+1. Clique no menu suspenso **[!UICONTROL Value]** e escolha um valor de tag a partir das opções disponíveis. Clique em **[!UICONTROL Adicionar]**.
 
    ![Imagem quatro](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
-1. Para editar ou excluir uma tag de programa, clique nos respectivos ícones ao lado dela. O atributo da tag não pode ser alterado depois que a tag é criada, mas você pode editar o valor da tag.
+1. Para editar ou excluir uma tag de programa, clique nos respectivos ícones ao lado da tag . O atributo da tag não pode ser alterado depois que a tag é criada, mas você pode editar o valor da tag.
 
    ![Imagem cinco](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-5.png)
 
 >[!NOTE]
 >
->Saiba como [criar tags de programa no Marketo Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) e disponibilizar as opções no menu suspenso.
+>Saiba como [criar tags de programa no Marketo Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) e torná-las disponíveis nas opções do menu suspenso.
 
-## Adicionar Custos do Período
+## Adicionar Custos de Período
 
-1. Na seção [!UICONTROL Custos do Período], selecione um mês, informe um custo e adicione um nome ou descrição abreviados. Clique em **[!UICONTROL Adicionar]**.
+1. Na seção [!UICONTROL Custos do Período], selecione um mês, insira um custo e adicione um nome ou descrição curtos. Clique em **[!UICONTROL Adicionar]**.
 
-   ![Imagem seis](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
+   ![Imagem 6](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
 1. Para editar ou excluir um custo de período, clique nos respectivos ícones ao lado do custo.
 
@@ -58,6 +58,6 @@ Para alterar o canal do programa, selecione um diferente no menu suspenso na par
 
 ## Alterar configurações
 
-Na seção [!UICONTROL Configurações], você pode escolher uma campanha do CRM para sincronizar (se sua subscrição tiver integração com o CRM) e/ou alterar o comportamento do Analytics para seu programa.
+Na seção [!UICONTROL Settings], você pode escolher uma campanha CRM para sincronizar (se sua assinatura tiver integração com o CRM) e/ou alterar o comportamento do Analytics para seu programa.
 
 ![Imagem Oito](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)
