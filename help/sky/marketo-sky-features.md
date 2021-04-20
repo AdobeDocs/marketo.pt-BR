@@ -1,14 +1,14 @@
 ---
-title: marcto-sky-features
+title: recursos do marketo-sky
 description: Recursos do Marketo Sky
+exl-id: 6e210eab-a96d-4f1e-918b-db8c095f906c
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
-
 
 # Recursos do Marketo Sky
 
@@ -17,42 +17,42 @@ Abaixo você encontrará o que está disponível em [!DNL Marketo Sky].
 ## Navegação
 
 * Árvore de navegação reprojetada
-   * Filtro de intervalo de datas
+   * Filtro de Intervalo de Datas
    * Recolher tudo
    * Iconografia
 * Pesquisa global
-* Etiquetas
+* Rótulos
 
 ## Personalização
 
-* Meus widgets de marketing
-   * Expirando em breve
+* Meus widgets do Marketo
+   * Expira em breve
    * Navegação
-   * Status do Marketing
-   * Postagens do blog da comunidade
-* Minhas Visualizações personalizadas de marketing
+   * Status do Marketo
+   * Publicações de blog da comunidade
+* Minhas exibições personalizadas do Marketo
 
 ## Atividades de marketing
 
-* Atividade Home de Marketing
-   * Programas e ativo recentemente atualizados
-   * Agendado hoje
-   * Total de Campanhas de Acionador Ativo
+* Página inicial das atividades de marketing
+   * Programas e ativos atualizados recentemente
+   * Programado(a)s hoje
+   * Total de campanhas com gatilho ativo
 * Campanhas inteligentes
    * Regras salvas
    * Fluxos salvos
 * Programas de envolvimento
 * Programas de e-mail
-   * Entregar nos Relatórios de Fuso Horário do Recipient
+   * Enviar delivery nos relatórios de fuso horário do destinatário
 * Programas padrão
-* Programas eventos
+* Programas de eventos
 * Todos os programas têm ações em massa e expiração de ativos
-* Detalhes da área de trabalho
-* Pastas de programas
-* Pastas de campanha (não incluindo a guia Resultados)
+* Detalhes da Workspace
+* Pastas do programa
+* Pastas de campanha (sem incluir a guia Resultados)
 * Páginas de detalhes do ativo
-   * Email
-   * landing page
+   * E-mail
+   * Página
    * Formulário
    * Lista estática
    * Lista inteligente
@@ -61,19 +61,19 @@ Abaixo você encontrará o que está disponível em [!DNL Marketo Sky].
    * Token de link
    * Importar tokens
 
-## Design Studio
+## Estúdio de desenvolv.
 
 * Página inicial do Design Studio
    * Ativos recentes
-   * Arrastar e soltar para carregar imagens e arquivos
-* Visualizações de lista para ativos
-   * visualização Lista landing page
-   * Visualização de Lista de imagens e arquivos
+   * Arrastar e soltar para fazer upload de imagens e arquivos
+* Exibições de lista para ativos
+   * Exibição de lista da página inicial
+   * Exibição da lista de imagens e arquivos
 * Páginas de detalhes do ativo
    * Detalhes do email
-   * Detalhes da landing page
+   * Detalhes da página de aterrissagem
    * Detalhes do formulário
    * Detalhes do modelo de email
-   * Detalhes do modelo de landing page
+   * Detalhes do modelo da página de aterrissagem
 * Importação de imagens
    * Adobe Experience Manager Asset Seletor no Design Studio
