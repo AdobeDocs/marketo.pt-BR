@@ -1,24 +1,24 @@
 ---
 title: save-flow-actions
-description: Salvar ações de fluxo
+description: Salvar ações do fluxo
+exl-id: a359466a-2484-4538-a0d7-29d9a5606786
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
-
-# Salvar ações de fluxo
+# Salvar ações do fluxo
 
 <br> 
 
-As etapas de fluxo informam ao Marketo o que você deseja que aconteça com um grupo de pessoas que se qualificam (as pessoas que você escolheu na lista inteligente). Salvar um fluxo específico economizará tempo.
+As etapas de fluxo informam à Marketo o que você deseja que aconteça com um grupo de pessoas qualificadas (as pessoas que você escolheu na lista inteligente). Salvar um fluxo específico economizará tempo.
 
-## Salvando ações de Fluxo
+## Salvar ações do fluxo
 
-1. Em [!UICONTROL Atividades de marketing], selecione sua campanha inteligente (ou crie uma nova).
+1. Em [!UICONTROL Marketing Activities], selecione sua campanha inteligente (ou crie uma nova).
 
    ![Imagem Um](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
@@ -32,19 +32,19 @@ As etapas de fluxo informam ao Marketo o que você deseja que aconteça com um g
 
    ![Imagem quatro](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. Quando terminar de adicionar filtros/acionadores, clique no menu suspenso **[!UICONTROL Ações de Campanha inteligente]** e selecione **[!UICONTROL Salvar novo fluxo]**.
+1. Quando terminar de adicionar filtros/acionadores, clique na lista suspensa **[!UICONTROL Ações da campanha inteligente]** e selecione **[!UICONTROL Salvar novo fluxo]**.
 
    ![Imagem cinco](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. Dê um nome ao seu fluxo e clique em **[!UICONTROL Salvar]**.
+1. Nomeie o fluxo e clique em **[!UICONTROL Save]**.
 
-   ![Imagem seis](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
+   ![Imagem 6](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
-E você terminou. Na próxima vez que você criar uma campanha inteligente, terá acesso ao mesmo conjunto exato de ações de fluxo. Continue lendo para ver como acessá-los...
+E você terminou. Na próxima vez que criar uma campanha inteligente, você terá acesso ao mesmo conjunto exato de ações de fluxo. Continue lendo para ver como acessá-los...
 
 ## Uso de ações de fluxo salvas
 
-1. Em [!UICONTROL Atividades de marketing], selecione sua campanha inteligente (ou crie uma nova).
+1. Em [!UICONTROL Marketing Activities], selecione sua campanha inteligente (ou crie uma nova).
 
    ![Imagem sete](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
@@ -54,16 +54,16 @@ E você terminou. Na próxima vez que você criar uma campanha inteligente, ter�
 
 1. Clique no menu suspenso **[!UICONTROL Fluxos salvos]**.
 
-   ![Imagem Nove](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
+   ![Imagem nove](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
 1. Selecione e arraste sobre o fluxo desejado.
 
    ![Imagem Dez](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-10.png)
 
-1. Seu fluxo é preenchido automaticamente com o mesmo conjunto de ações. Basta seguir o restante dos passos normais da campanha inteligente.
+1. Seu fluxo é preenchido automaticamente com o mesmo conjunto de ações. Siga o resto das etapas regulares da campanha inteligente depois disso.
 
-   ![Imagem Onze](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-11.png)
+   ![Imagem Eleven](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-11.png)
 
 >[!CAUTION]
 >
->Passar sobre um fluxo salvo não substituirá quaisquer ações de fluxo existentes, mas adicionará a elas.
+>Passar por um fluxo salvo não substituirá quaisquer ações de fluxo existentes, mas adicionará a elas.
