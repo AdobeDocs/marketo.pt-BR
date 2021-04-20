@@ -1,20 +1,20 @@
 ---
 title: import-assets-with-adobe-experience-manager
 description: Importação de ativos com o Adobe Experience Manager
+exl-id: f22be520-c1ea-4e7e-9fc4-cdbee34d27a4
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
-
 # Importação de ativos com o Adobe Experience Manager
 
 <br> 
 
-O Seletor de ativos permite que os clientes [!DNL Marketo] acessem, selecionem e importem ativos AEM em [!DNL Marketo's] [!UICONTROL Design Studio]. Você deve ser um Administrador para executar essas etapas.
+O Seletor de ativos permite que os clientes [!DNL Marketo] acessem, selecionem e importem AEM ativos para [!DNL Marketo's] [!UICONTROL Design Studio]. Você deve ser um Administrador para executar essas etapas.
 
 >[!NOTE]
 >[!DNL Adobe Experience Manager (AEM)] é um produto independente e deve ser comprado separadamente. Entre em contato com o Gerente de sucesso do cliente para saber mais.
@@ -24,7 +24,7 @@ O Seletor de ativos permite que os clientes [!DNL Marketo] acessem, selecionem e
 
 >[!CAUTION]
 >
->Atualmente, esse recurso é totalmente compatível apenas com o Firefox. Ele não é suportado no Safari e pode não funcionar na versão mais recente do Chrome, dependendo das configurações de cookie do SameSite.
+>No momento, esse recurso é totalmente compatível com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome, dependendo das configurações de cookie do SameSite.
 
 1. Em [!UICONTROL Design Studio], selecione **[!UICONTROL Imagens e Arquivos]**.
 
@@ -42,7 +42,7 @@ O Seletor de ativos permite que os clientes [!DNL Marketo] acessem, selecionem e
 
    ![Imagem quatro](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Escolha sua pasta. Selecione as imagens desejadas (você pode escolher até 10) e clique em **[!UICONTROL Selecionar]**.
+1. Escolha a pasta. Selecione as imagens desejadas (você pode escolher até 10) e clique em **[!UICONTROL Select]**.
 
    ![Imagem cinco](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,16 +50,16 @@ O Seletor de ativos permite que os clientes [!DNL Marketo] acessem, selecionem e
    >
    >As imagens não podem exceder 100 MB.
 
-1. Verifique as imagens escolhidas, selecione a pasta de destino ([!UICONTROL Imagens e Arquivos] é o padrão) e clique em **[!UICONTROL Próximo]**.
+1. Verifique as imagens escolhidas, selecione a pasta de destino ([!UICONTROL Images and Files] é o padrão) e clique em **[!UICONTROL Next]**.
 
-   ![Imagem seis](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-6.png)
+   ![Imagem 6](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-6.png)
 
-E é isso! Clique em **[!UICONTROL Fechar]** para retornar para Imagens e Arquivos.
+E é isso! Clique em **[!UICONTROL Fechar]** para retornar a Imagens e Arquivos.
 
 ![Imagem sete](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-7.png)
 
-## Observações
+## O que deve ser observado
 
-* [!DNL Marketo] suporta atualmente  [!DNL Adobe Experience Manager] as versões 6.4 e 6.5.
-* Todos os usuários em sua instância poderão visualização/acessar as imagens que você importar.
-* As imagens não são atualizadas automaticamente. Se uma imagem que você importou para o [!DNL Marketo] [!UICONTROL Design Studio] for atualizada no AEM, você deverá importá-la novamente para [!DNL Marketo] manualmente.
+* [!DNL Marketo] atualmente suporta  [!DNL Adobe Experience Manager] as versões 6.4 e 6.5.
+* Todos os usuários na sua instância poderão visualizar/acessar as imagens que você importar.
+* As imagens não são atualizadas automaticamente. Se uma imagem que você importou para o [!DNL Marketo] [!UICONTROL Design Studio] for atualizada no AEM, você deverá importá-la novamente manualmente para [!DNL Marketo].
