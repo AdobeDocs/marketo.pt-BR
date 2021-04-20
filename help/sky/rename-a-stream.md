@@ -1,14 +1,14 @@
 ---
-title: renomear um fluxo
+title: renomear-a-stream
 description: Renomear um fluxo
+exl-id: 01d710bf-b1ea-455e-a17e-251794ab39db
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
-
 
 # Renomear um fluxo
 
@@ -32,6 +32,6 @@ Se você quiser se manter organizado, poderá renomear seus fluxos.
 
    ![Imagem quatro](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-4.png)
 
-E é isso! Agora você sabe renomear fluxos.
+E é isso! Agora você sabe como renomear fluxos.
 
 ![Imagem cinco](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-5.png)
