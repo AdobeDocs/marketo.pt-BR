@@ -1,51 +1,51 @@
 ---
 title: filtros preditivos
 description: Filtros preditivos
+exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Filtros preditivos
 
 <br> 
 
-Como parte das Audiências preditivas, o Marketo oferta um grupo de filtros baseados em AI/ML em listas inteligentes.
+Como parte do Predictive Audiences, o Marketo oferece um grupo de filtros baseados em AI/ML em listas inteligentes.
 
 ![Imagem Um](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-1.png)
 
 ## Probabilidade de participação
 
-Esse filtro é usado para restringir efetivamente sua audiência. Isso ajuda você a público alvo e convidar clientes potenciais com maior probabilidade de participar **do seu webinar ou evento.** Observe que sua &quot;[!UICONTROL Probabilidade de participar do programa]&quot; será seu programa atual do evento.
+Esse filtro é usado para restringir efetivamente seu público-alvo. Isso ajuda a direcionar e convidar leads que têm uma maior probabilidade de **participar** de seu webinário ou evento. Observe que sua &quot;[!UICONTROL Probabilidade de participar do programa]&quot; será seu programa de evento atual.
 
 ![Imagem dois](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Probabilidade de registro
 
-Semelhante ao filtro [!UICONTROL _Probabilidade de participar_], use esse filtro para restringir seus clientes potenciais de audiência e público alvo que têm maior probabilidade de **se registrar** para seu webinar ou evento.
+Semelhante ao filtro [!UICONTROL _Probabilidade de participar_], use este filtro para restringir seu público-alvo e direcionar leads que têm uma probabilidade maior de **se registrar** para seu webinário ou evento.
 
 ![Imagem Três](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
-## Probabilidade de cancelar a inscrição
+## Probabilidade de cancelar a assinatura
 
-Isso filtros a audiência se eles têm uma probabilidade alta ou baixa de cancelar a inscrição nas próximas duas semanas. Você pode usar isso para público alvo de alta fadiga leva de forma diferente e mais eficaz. O limite de cancelamento de inscrição é dinâmico e controlado por um modelo AI que considera vários atributos, incluindo lead time no banco de dados e atividades de lead.
+Isso filtra o público se ele tem uma probabilidade alta ou baixa de cancelar a assinatura nas próximas duas semanas. Você pode usar isso para direcionar leads de alta fadiga de forma diferente e mais eficaz. O limite de cancelamento de inscrição é dinâmico e orientado por um modelo de IA que considera vários atributos, incluindo lead time no banco de dados e atividades de lead.
 
 ![Imagem quatro](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-4.png)
 
 >[!NOTE]
 >
->A probabilidade de participar/registrar/cancelar a inscrição de filtros deve ser usada em conjunto com outros filtros padrão.
+>Os filtros Probabilidade de participar/registrar/cancelar inscrição devem ser usados junto com outros filtros padrão.
 
-## Analista dos membros do Programa/Lookmodificar membros da Lista inteligente
+## Analista dos Membros do Programa/Analista dos Membros da Smart List
 
-Esses dois filtros ajudam a expandir sua audiência atual, direcionando clientes potenciais adicionais que são semelhantes aos membros de outro programa ou Lista inteligente. Os filtros Looklike consideram mais de 50 fatores, incluindo atributos de cliente potencial, atividade de email, atividade da Web e envolvimento.
+Esses dois filtros ajudam você a expandir seu público-alvo atual direcionando leads adicionais semelhantes aos membros de outro programa ou Smart List. Os filtros de Pesquisa consideram mais de 50 fatores, incluindo atributos de lead, atividade de email, atividade da Web e envolvimento.
 
-Clique em **[!UICONTROL Adicionar restrição]** para escolher os critérios de sucesso para os membros dos programas selecionados.
+Clique em **[!UICONTROL Adicionar Restrição]** para escolher os critérios de sucesso para os membros do(s) programa(s) selecionado(s).
 
-Clique no ícone + ao lado do menu suspenso programa para adicionar facilmente vários programas/listas inteligentes a um filtro.
+Clique no ícone + ao lado da lista suspensa do programa para adicionar facilmente vários programas/listas inteligentes a um filtro.
 
 ![Imagem cinco](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-5.png)
