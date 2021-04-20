@@ -7,7 +7,7 @@ translation-type: tm+mt
 source-git-commit: e51d81dbf27bea8667ffafdcc356cf3f6b70c2b1
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 + Introdução {#getting-started}
    + [Recursos do Marketo Sky](marketo-sky-features.md)
    + [Como começar](how-to-enable-roles-for-marketo-sky.md)
-+ Programas de evento {#event-programs}
++ Programas de eventos {#event-programs}
    + [Configuração de um limite de evento](setting-an-event-cap.md)
    + [Definir metas de evento](setting-event-goals.md)
 + Pastas de campanha {#campaign-folders}
@@ -27,9 +27,9 @@ ht-degree: 0%
    + [Pastas da campanha: Guia Meus tokens](campaign-folder-my-tokens-tab.md)
    + [Pastas da campanha: Guia Visão geral](campaign-folder-overview-tab.md)
    + [Criar uma pasta de campanha](create-a-campaign-folder.md)
-+ Design Studio {#design-studio}
++ Estúdio de desenvolvimento {#design-studio}
    + [Importação de ativos com o Adobe Experience Manager](importing-assets-with-adobe-experience-manager.md)
-   + [Editor de imagem do Marketo](marketo-image-editor.md)
+   + [Editor de imagem Marketo](marketo-image-editor.md)
 + Programas de envolvimento {#engagement-programs}
    + [Ativar e desativar o conteúdo de fluxo](activate-and-deactivate-stream-content.md)
    + [Adicionar um fluxo a um programa de envolvimento](add-a-stream-to-an-engagement-program.md)
@@ -46,7 +46,7 @@ ht-degree: 0%
    + [Remover conteúdo de fluxo](remove-stream-content.md)
    + [Renomear um fluxo](rename-a-stream.md)
    + [Ver membros de um programa de envolvimento](see-members-of-an-engagement-program.md)
-   + [Definir cadência de fluxo](set-stream-cadence.md)
+   + [Definir cadência das transmissões](set-stream-cadence.md)
    + [Ativar e desativar um programa de envolvimento](turn-an-engagement-program-on-and-off.md)
    + [Noções básicas sobre programas de envolvimento](understanding-engagement-programs.md)
    + [Como entender a pontuação de engajamento](understanding-the-engagement-score.md)
@@ -85,7 +85,7 @@ ht-degree: 0%
    + [Ativos locais: Ações em massa](local-assets-mass-actions.md)
    + [Uso da guia Visão geral do programa](using-the-program-overview-tab.md)
    + [Usando a guia Configuração do programa](using-the-program-setup-tab.md)
-+ Exibição de agendamento do programa {#program-schedule-view}
++ Exibir programação de programas {#program-schedule-view}
    + [Criar uma entrada básica na exibição de programação](create-a-basic-entry-in-program-schedule-view.md)
    + [Criar uma campanha inteligente em lote na exibição de programação](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [Criar um programa de e-mail na Visualização de programação](create-an-email-program-in-program-schedule-view.md)
