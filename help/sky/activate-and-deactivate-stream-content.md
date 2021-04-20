@@ -1,18 +1,18 @@
 ---
-title: ativate-and-deactivate-stream-content
-description: Ativar e desativar conteúdo de fluxo
+title: ativate-and-deativate-stream-content
+description: Ativar e desativar o conteúdo de fluxo
+exl-id: 5f8c52d6-ea10-42dd-a2e3-e25f88f35e3d
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
+# Ativar e desativar o conteúdo de fluxo
 
-# Ativar e desativar conteúdo de fluxo
-
-O conteúdo de fluxo está desativado por padrão. Ative o conteúdo para enviá-lo durante os eventos de envolvimento.
+O conteúdo de fluxo está desativado por padrão. Ative o conteúdo para enviá-lo durante os casts de envolvimento.
 
 ## Ativar conteúdo de fluxo
 
@@ -34,7 +34,7 @@ O conteúdo de fluxo está desativado por padrão. Ative o conteúdo para enviá
 
 >[!NOTE]
 >
->Os emails devem ser aprovados para que possam ser ativados.
+>Os emails devem ser aprovados para ativá-los.
 
 >[!TIP]
 >
@@ -48,7 +48,7 @@ O conteúdo de fluxo está desativado por padrão. Ative o conteúdo para enviá
 
 1. Clique na guia **[!UICONTROL Streams]**.
 
-   ![Imagem seis](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
+   ![Imagem 6](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
 
 1. Passe o mouse sobre o conteúdo que deseja desativar e clique no ícone de engrenagem.
 
