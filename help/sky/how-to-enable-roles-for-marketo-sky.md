@@ -1,16 +1,16 @@
 ---
 title: how-to-enable-roles-for-marketo-sky.md
-description: 'Como ativar funções para Marketo Sky '
+description: Como ativar funções para o Marketo Sky
+exl-id: 10b7bc52-6f64-4d54-9bec-dcf3ad9afda9
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-
-# Como ativar funções para Marketo Sky
+# Como ativar funções para o Marketo Sky
 
 <br> 
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![Imagem Três](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-3.png)
 
-1. As funções selecionadas agora poderão acessar [!DNL Marketo Sky] pelo bloco em seus **[!UICONTROL My Marketo]**.
+1. As funções selecionadas agora poderão acessar [!DNL Marketo Sky] por meio do bloco em seus **[!UICONTROL My Marketo]**.
 
    ![Imagem quatro](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-4.png)
