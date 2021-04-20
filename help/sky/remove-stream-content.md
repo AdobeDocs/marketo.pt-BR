@@ -1,20 +1,20 @@
 ---
 title: remove-stream-content
 description: Remover conteúdo de fluxo
+exl-id: 935dd5eb-2506-49dc-8666-09d4940cd46f
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-
 # Remover conteúdo de fluxo
 
 <br> 
 
-Você pode remover ou arquivar um conteúdo. Ao contrário da remoção do conteúdo de fluxo, [arquivar](/help/sky/archive-and-unarchive-stream-content.md) preserva todo o histórico associado ao conteúdo. Se você não se importa de perder as estatísticas históricas de algum conteúdo e apenas de removê-lo, aqui está como fazê-lo.
+Você pode remover ou arquivar um conteúdo. Ao contrário da remoção do conteúdo do fluxo, o [archiving](/help/sky/archive-and-unarchive-stream-content.md) preserva todo o histórico associado ao conteúdo. Se você não se importa de perder as estatísticas históricas de algum conteúdo e apenas de removê-lo, veja a seguir como fazê-lo.
 
 1. Selecione seu programa de envolvimento.
 
@@ -34,5 +34,5 @@ Você pode remover ou arquivar um conteúdo. Ao contrário da remoção do conte
 
 >[!CAUTION]
 >
->Remova o conteúdo somente se você não se importar com seu histórico. Se você
->deseja preservar seu histórico, arquivá-lo.
+>Remova o conteúdo somente se você não se importar com o histórico. Se você
+>Se quiser preservar seu histórico, arquive-o.
