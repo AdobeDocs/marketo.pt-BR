@@ -1,25 +1,25 @@
 ---
 unique-page-id: 4719297
-description: Ativar/Desativar sincronização de objetos personalizados - Documentos de marketing - Documentação do produto
-title: Ativar/desativar sincronização de objetos personalizados
+description: Ativar/desativar sincronização de objetos personalizados - Documentos do Marketo - Documentação do produto
+title: Ativar/Desativar Sincronização de Objeto Personalizado
+exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Ativar/Desativar Sincronização de Objeto Personalizado {#enable-disable-custom-object-sync}
 
-Os objetos personalizados criados na instância do Salesforce também podem fazer parte do Marketing. Veja como configurar.
+Os objetos personalizados criados na instância do Salesforce também podem fazer parte do Marketo. Veja como configurar.
 
 ## Ativar/Desativar Sincronização de Objeto Personalizado {#enable-disable-custom-object-sync-1}
 
 >[!NOTE]
 >
->Direitos de administrador necessários.
+>É necessário ter direitos de administrador.
 
 1. Clique em **Admin**.
 
@@ -29,35 +29,35 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    ![](assets/two-2.png)
 
-1. Se este for seu primeiro Objeto personalizado, clique em **Sincronizar schema.** Caso contrário, clique em  **Atualizar** Schemato para garantir que você tenha a versão mais recente.
+1. Se este for seu primeiro Objeto personalizado, clique em **Sync schema.** Caso contrário, clique em  **Atualizar** esquema para garantir que você tenha o mais recente.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. Se a sincronização global estiver em execução, será necessário desativá-la clicando em **Desativar sincronização global.**
+1. Se a sincronização global estiver em execução, você terá que desativá-la clicando em **Desativar Sincronização Global.**
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
    >[!NOTE]
    >
-   >Uma sincronização do schema de objeto personalizado do Salesforce pode levar alguns minutos.
+   >Uma sincronização do esquema de objeto personalizado do Salesforce pode levar alguns minutos.
 
-1. Clique em **Atualizar Schema**.
+1. Clique em **Atualizar Esquema**.
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. Selecione o objeto que deseja sincronizar e clique em **Ativar sincronização**.
+1. Selecione o objeto que deseja sincronizar e clique em **Ativar Sincronização**.
 
    >[!TIP]
    >
-   >O Marketo só pode sincronizar um objeto personalizado se ele tiver um relacionamento direto com o objeto Cliente potencial, Contato ou Conta no Salesforce.
+   >O Marketo só poderá sincronizar um objeto personalizado se ele tiver um relacionamento direto com o objeto de Cliente Potencial, Contato ou Conta no Salesforce.
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Clique novamente em **Ativar Sincronização**.
+1. Clique em **Ativar Sincronização** novamente.
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. Volte para a guia **Salesforce** e clique em **Ativar sincronização**.
+1. Volte para a guia **Salesforce** e clique em **Ativar Sincronização**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,11 +67,11 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 >
 >Não é possível usar objetos personalizados em campanhas inteligentes com acionadores.
 
-1. Na sua lista inteligente, arraste sobre o filtro **Tem oportunidade** e defina para **true**.
+1. Na lista inteligente, arraste sobre o filtro **Tem oportunidade** e defina para **true**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
-1. Em seguida, use as restrições de filtro para restringir o foco.
+1. Em seguida, use as restrições de filtro para limitar o foco.
 
    ![](assets/image2015-8-24-14-3a18-3a53.png)
 
@@ -79,4 +79,4 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
 >[!MORELIKETHIS]
 >
->[Adicionar/remover campo de objeto personalizado como restrições de Lista inteligente/acionador](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+>[Adicionar/remover campo de objeto personalizado como restrições de lista inteligente/acionador](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
