@@ -1,26 +1,26 @@
 ---
 unique-page-id: 8781845
-description: Noções básicas sobre os momentos de marketing - documentos do Marketo - documentação do produto
-title: Como entender os momentos de marketing
+description: Noções básicas sobre os momentos do Marketo - Documentos do Marketo - Documentação do produto
+title: Noções básicas sobre os momentos do Marketo
+exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '544'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Entendendo os momentos do Marketo {#understanding-marketo-moments}
 
-# Entendendo os momentos de marketing {#understanding-marketo-moments}
-
-O poder do Marketo está agora em suas mãos, literalmente! Pré-visualização e reagende emails diretamente do seu telefone ou iPad.
+A força do Marketo agora está literalmente nas suas mãos! Visualize e reagende e-mails diretamente de seu celular ou iPad.
 
 >[!AVAILABILITY]
 >
 >
->A permissão Acessar aplicativos móveis é necessária. Entre em contato com seu Administrador de marketing para [atualizar sua função](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>É necessária a permissão de acesso a aplicativos móveis. Entre em contato com o administrador do Marketo para [atualizar sua função](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-## Streams {#streams}
+## Fluxos {#streams}
 
 Aqui estão os diferentes fluxos em Moments.
 
@@ -31,32 +31,32 @@ Aqui estão os diferentes fluxos em Moments.
 >**Definição**
 >
 >* Momentos: Qualquer coisa que acabou de correr, ou que está prestes a correr, vai para aqui.
->* Favoritos: Qualquer coisa que você fizer um favorito entra aqui.
->* Mais tarde: Qualquer coisa acontecendo depois deste momento entra aqui.
->* Feito: Qualquer coisa que terminou de correr ou que você marcou como concluída vai para aqui.
+>* Favoritos: Qualquer coisa que você faz de um favorito entra aqui.
+>* Mais tarde: Qualquer coisa que aconteça mais tarde do que este momento entra aqui.
+>* Feito em: Qualquer coisa que terminou de ser executada ou que você marcou como concluída vai para aqui.
 
 
-Ok, agora que temos isso fora do caminho, vamos dar uma espiada no Marketo Moments ao telefone!
+Ok, agora que temos isso fora do caminho, vamos dar uma espiada no Marketo Moments em um telefone!
 
 ## Três tipos de cartões {#three-kinds-of-cards}
 
-O Marketo Moments oferece três cartões diferentes para acompanhar o progresso de seu email:
+O Marketo Moments oferece três cartões diferentes para acompanhar o progresso do seu email:
 
-**No-Deck**  - Este e-mail está prestes a sair. É a sua última chance de pré-visualização, enviar uma amostra ou, mesmo, cancelá-la, se for necessário.
+**No convés**  - Este email está prestes a ser enviado. É a última chance de visualizá-la, enviar uma amostra ou até mesmo cancelá-la, se necessário.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**Heart beat** - Ei - este e-mail está sendo entregue agora! E aqui estão as estatísticas também. Vá em frente e compartilhe-o.
+**Heartbeat**  - Ei - este e-mail está sendo entregue agora! E aqui estão estatísticas também. Vá em frente e compartilhe-o.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Resultados**  - Veja como o email foi feito. Depois que o e-mail terminar de ser executado, o cartão Resultados exibirá a pontuação de envolvimento e outras estatísticas.
+**Resultados**  - Veja como o email aconteceu. Depois que o email terminar de ser executado, o cartão Resultados exibirá a pontuação de engajamento e outras estatísticas.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Fluxo de momentos {#moments-stream}
 
-Quando você abre o aplicativo pela primeira vez ou toca em **Momentos** no menu, os cartões relevantes são exibidos primeiro. Cada uma contém informações sobre essa iniciativa de marketing específica e seu desempenho geral.
+Ao abrir o aplicativo pela primeira vez ou tocar em **Momentos** no menu, os cartões relevantes são exibidos primeiro. Cada uma contém informações sobre essa iniciativa de marketing específica e seu desempenho geral.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -64,11 +64,11 @@ Tocar no cartão abre uma tela de detalhes.
 
 >[!NOTE]
 >
->Os cartões laranja são confirmados; os cinza são tentativos.
+>São confirmados os cartões laranja; os cinza são tentativos.
 
 ![](assets/image2015-9-25-9-3a37-3a26.png)
 
-Tocar nos três pontos abre um menu de ação do cartão.
+Tocar nos três pontos abre um menu de ação de cartão.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
@@ -80,18 +80,18 @@ Tocar nos três pontos abre um menu de ação do cartão.
 >
 >**Definição**
 >
->* Favorito: É fácil prestar atenção às coisas que são mais oportunas e importantes se você as torna favoritas.
->* Feito: Concluído tira da sua visualização Marketo Moments (mas deixa no Marketo, seguro e som).
+>* Favorito: É fácil prestar atenção nas coisas que são mais oportunas e importantes se você as torna favoritas.
+>* Feito em: Concluído tira proveito da visualização Marketo Moments (mas deixa-a no Marketo, segura e sólida).
 >* Compartilhar: Envie uma imagem para motivar ou parabenizar sua equipe.
->* Enviar amostra (somente email): Use-o para permitir que outras pessoas verifiquem a aparência dos seus emails antes de enviá-los para fora.
->* Email da pré-visualização (somente e-mails): É sempre uma boa ideia verificar seus e-mails antecipadamente.
+>* Enviar amostra (somente email): Use isso para permitir que outros verifiquem a aparência dos seus emails antes de enviá-los.
+>* Visualizar email (somente emails): É sempre uma boa ideia verificar seus emails antecipadamente.
 
 
 ## Momentos posteriores {#later-moments}
 
 A seção Mais tarde mostra as atividades futuras.
 
-1. Start tocando no menu de hambúrguer.
+1. Comece tocando no menu de hambúrguer.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -99,13 +99,13 @@ A seção Mais tarde mostra as atividades futuras.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
-   Veja uma lista de atividades futuras.
+   Consulte uma lista de atividades futuras.
 
    ![](assets/image2015-6-29-15-3a24-3a3.png)
 
-## Cartões de Programa de email {#email-program-cards}
+## Cartões de programa de email {#email-program-cards}
 
-Cartões de programa por email mostram coisas importantes como agendamento, audiência, status e outras coisas úteis, mesmo quando você está fora no almoço.
+Os cartões de programa de email mostram coisas importantes como programação, público-alvo, status e outras coisas úteis, mesmo quando você estiver fora no almoço.
 
 ![](assets/image2015-6-29-15-3a31-3a57.png)
 
@@ -117,29 +117,29 @@ Para eventos, você verá o número total de membros e seu status.
 
 ## Cartões do Analytics {#analytics-cards}
 
-Os cartões Moment do Analytics mostram como seus e-mails e eventos estão se saindo mensalmente nos últimos seis meses, por:
+Os Cartões de momento do Analytics mostram o desempenho mensal de seus emails e eventos nos últimos seis meses, por:
 
-1. Clientes potenciais adquiridos
-1. Novos clientes potenciais
-1. Cancelar inscrição
+1. Clientes Potenciais Adquiridos
+1. Novos leads
+1. Cancelamentos de inscrição
 
 ![](assets/image2015-7-6-13-3a26-3a33.png)
 
-## Cartões de execução de Campanha inteligente {#smart-campaign-run-cards}
+## Cartões de execução de campanha inteligente {#smart-campaign-run-cards}
 
-Os cartões de campanha inteligente representam uma única execução de uma campanha. Um novo cartão é exibido sempre que a campanha inteligente é executada. Toque em para ver os filtros de lista inteligente usados, o fluxo de campanha e cada um dos emails usados na campanha.
+Os cartões de campanha inteligente representam uma única execução de uma campanha. Um novo cartão é exibido sempre que a campanha inteligente é executada. Toque em para ver os filtros de lista inteligente usados, o fluxo da campanha e cada um dos emails usados na campanha.
 
 ![](assets/image2015-9-23-11-3a0-3a54.png)
 
-## Confirmar ou Cancelar uma ação {#confirm-or-cancel-an-action}
+## Confirmar ou cancelar uma ação {#confirm-or-cancel-an-action}
 
-A cada etapa do caminho, você pode confirmar ou cancelar uma ação. Se você mudar de ideia, basta tocar em **Nunca menos**.
+Em cada etapa do caminho, é possível confirmar ou cancelar uma ação. Se você mudar de ideia, basta tocar em **Never Mind**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
 ## Versões suportadas {#supported-versions}
 
-Marketo Moments suporta estas versões de sistema operacional:
+Os Momentos do Marketo oferecem suporte para estas versões de sistema operacional:
 
 * Apple iOS 8.0 e superior.
 * Android versão 4.1 e superior (basicamente Jellybean e superior).
@@ -148,8 +148,8 @@ Pronto para aprender mais?
 
 >[!MORELIKETHIS]
 >
->* [Como entender os cartões de Programa de email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
->* [Como entender as placas de Evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Como entender os cartões do Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
->* [Como entender os cartões de Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+>* [Noções básicas sobre cartões de programa de email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Noções básicas sobre cartões de evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Noções básicas sobre cartões do Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Como entender os cartões de campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
