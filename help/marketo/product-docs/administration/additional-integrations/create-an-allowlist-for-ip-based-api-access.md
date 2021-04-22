@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10098433
-description: Criar uma Lista de permissões para acesso à API baseado em IP - Documentos do Marketing - Documentação do produto
-title: Criar uma Lista de permissões para acesso à API baseado em IP
+description: Criar uma  Lista de permissões para acesso à API baseado em IP - Documentos do Marketo - Documentação do produto
+title: Criar uma  Lista de permissões para acesso à API baseado em IP
+exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
+# Crie uma  Lista de permissões para Acesso à API baseado em IP {#create-an-allowlist-for-ip-based-api-access}
 
-# Criar uma Lista de permissões para acesso à API baseado em IP {#create-an-allowlist-for-ip-based-api-access}
-
-Às vezes, você deseja conceder acesso à API somente a um endereço IP específico ou a um intervalo de endereços. Para fazer isso, primeiro ative as restrições e, em seguida, especifique os endereços IP que podem usar as APIs.
+Às vezes, você deseja conceder acesso à API somente a um endereço IP específico ou a um intervalo de endereços. Para fazer isso, primeiro habilite as restrições e, em seguida, especifique os endereços IP que podem usar as APIs.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
-1. Marque a caixa **Ativar restrições de IP** e digite os endereços IP que deseja lista de permissões.
+1. Marque a caixa **Enable IP Restrictions** e insira os endereços IP que deseja lista de permissões.
 
    ![](assets/image2016-2-25-9-3a18-3a28.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >Você pode inserir um único endereço IP ou um intervalo deles, ou usar um curinga.
 
-1. Clique em **Adicionar** para abrir campos adicionais para inserir mais endereços IP.
+1. Clique em **Add** para abrir campos adicionais e inserir mais endereços IP.
 
    ![](assets/image2016-2-25-9-3a20-3a47.png)
 
