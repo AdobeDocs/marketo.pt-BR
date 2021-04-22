@@ -1,69 +1,69 @@
 ---
 unique-page-id: 5472615
-description: Entendendo os campos gerenciados pelo sistema - Documentos do Marketing - Documentação do produto
-title: Noções básicas sobre campos gerenciados pelo sistema
+description: Noções básicas sobre os campos gerenciados do sistema - Documentos do Marketo - Documentação do produto
+title: Noções básicas sobre campos gerenciados do sistema
+exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '522'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
+# Noções básicas sobre os campos gerenciados do sistema {#understanding-system-managed-fields}
 
-# Entendendo os campos gerenciados pelo sistema {#understanding-system-managed-fields}
-
-Você pode ter notado que a [página de detalhes da pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) tem uma série de campos não editáveis criados pelo Marketo. Esses dados vêm de várias fontes, e há inúmeros valores que podem ser exibidos.
+Você pode ter notado que a [página de detalhes da pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) tem uma série de campos não editáveis criados pelo Marketo. Esses dados vêm de várias fontes e há inúmeros valores que podem ser exibidos.
 
 ## Tipos de campo {#field-types}
 
 | **Nome do campo** | **Definição** |
 |---|---|
-| Tipo de origem original | O local em que um visitante de pessoa ou site foi descoberto pela primeira vez (por exemplo: Importação de lista, Visita à página da Web) |
-| Informações de origem originais | Especifica o local (exemplo: Nome da lista, URL da página da Web) |
-| Mecanismo de pesquisa original | Se aplicável, o mecanismo de pesquisa que indicou a pessoa para a fonte de entrada original |
-| Frase de pesquisa original | Se aplicável, o termo de pesquisa usado que indicou a pessoa para a fonte de entrada original |
-| Quem indicou original | URL que hospedou a fonte de entrada original |
-| Tipo de fonte de registro | O local em que uma atividade se tornou pela primeira vez uma pessoa (por exemplo: Importação de lista, Visita à página da Web) |
-| Informações da Fonte de Registro | Especifica o local (exemplo: Nome da lista, URL da página da Web) |
+| Tipo de fonte original | O local em que uma pessoa ou um visitante do site foi descoberto pela primeira vez (por exemplo: Importação de lista, Visita à página da Web) |
+| Informações da fonte original | Especifica o local (exemplo: Nome da lista, URL da página da Web) |
+| Mecanismo de pesquisa original | Se aplicável, o mecanismo de pesquisa que remeteu a pessoa para a fonte de entrada original |
+| Frase de pesquisa original | Se aplicável, o termo de pesquisa usado que fez referência à pessoa para a fonte de entrada original |
+| Responsável pela indicação original | URL que hospedou a fonte de entrada original |
+| Tipo de fonte de registro | O local em que uma atividade se tornou primeiro uma pessoa (exemplo: Importação de lista, Visita à página da Web) |
+| Informações da fonte de registro | Especifica o local (exemplo: Nome da lista, URL da página da Web) |
 | IP anônimo | Indica o endereço IP de uma pessoa |
-| Empresa inferida | A melhor suposição de Marketo (baseada no IP) da empresa da pessoa |
-| Cidade Inferida | Melhor suposição de Marketo (com base no IP) da cidade |
-| Região do Estado Inferior | A melhor suposição de Marketo (baseada no IP) do estado ou região da pessoa |
-| Código postal inferido | Melhor suposição do comerciante (com base no IP) do código postal da pessoa |
-| País Inferior | Melhor suposição do comerciante (com base no IP) sobre o país da pessoa |
-| Área metropolitana inferida | A melhor estimativa de Marketo (baseada no IP) da área metropolitana da pessoa |
-| Código de área do telefone inferior | Melhor suposição do Marketo (com base no IP) do código de área da pessoa |
+| Empresa indicada | Melhor suposição da Marketo (com base no IP) da empresa da pessoa |
+| Cidade indicada | Melhor suposição da Marketo (com base no IP) da cidade da pessoa |
+| Estado/região indicado | Melhor suposição da Marketo (com base no IP) do estado ou região da pessoa |
+| Código postal indicado | Melhor suposição da Marketo (com base no IP) do código postal da pessoa |
+| País indicado | A melhor suposição da Marketo (baseada no IP) do país da pessoa |
+| Área metropolitana indicada | Melhor suposição da Marketo (com base no IP) da área metropolitana da pessoa |
+| Código de área telef. indic. | Melhor suposição da Marketo (com base no IP) do código de área da pessoa |
 
-## Valores possíveis para o original e o tipo de fonte de registro {#possible-values-for-original-and-registration-source-type}
+## Valores possíveis para o Tipo de Origem Original e de Registro {#possible-values-for-original-and-registration-source-type}
 
 Abaixo estão alguns valores possíveis e o que eles significam.
 
-| **Tipo de origem original** | **Definição** |
+| **Tipo de fonte original** | **Definição** |
 |---|---|
-| Salesforce.com | A pessoa foi descoberta de uma sincronização do Salesforce |
+| Salesforce.com | A pessoa foi descoberta de uma sincronização Salesforce |
 | Visitas à página da Web | A pessoa foi descoberta de uma página da Web |
-| Preenchimento de formulário da Web | A pessoa foi descoberta após preencher um formulário |
+| Preenchimento do formulário Web | A pessoa foi descoberta após preencher um formulário |
 | Importação de lista | A pessoa foi descoberta de uma importação de lista |
 | Nova pessoa | A pessoa foi inserida manualmente no banco de dados |
 | Clique no link da Web | A pessoa foi descoberta após clicar em um link |
-| Email de vendas | A pessoa recebeu um email por meio do suplemento de email do Sales Insight |
+| Email de vendas | A pessoa recebeu um email por meio do Suplemento de email Sales Insight |
 | Pessoa | A pessoa foi sincronizada do Salesforce como pessoa |
 | Contato | A pessoa foi sincronizada do Salesforce como um contato |
-| API Munchkin | Pessoa foi descoberta pela API Munchkin de Marketo |
+| API Munchkin | A pessoa foi descoberta pela API do Marketo Munchkin |
 | Aplicativo social | A pessoa foi descoberta por um widget social |
-| API de serviço da Web | A pessoa foi descoberta por uma API de serviço da Web |
-| Parceiro evento | A pessoa foi descoberta por meio de um serviço de webinar sincronizado |
-| Associar cliente potencial | Pessoa que foi mesclada por meio da chamada Associate Lead API |
+| API de serviço Web | A pessoa foi descoberta por uma API de serviço da Web |
+| Parceiro de eventos | A pessoa foi descoberta por meio de um serviço de webinar sincronizado |
+| Associar lead | Pessoa que foi mesclada por meio da chamada de API Associar lead |
 
 | **Tipo de fonte de registro** | **Definição** |
 |---|---|
-| Importação de lista | Tornou-se uma pessoa através de uma importação de lista |
-| Salesforce.com | Tornou-se uma pessoa através de uma sincronização Salesforce |
-| Preenchimento de formulário da Web | Tornou-se uma pessoa depois de preencher um formulário |
-| Email de vendas | A pessoa recebeu um email por meio do suplemento de email do Sales Insight |
-| API de serviço da Web | A pessoa foi criada por meio da API SOAP/REST |
+| Importação de lista | Tornou-se uma pessoa por meio de uma importação de lista |
+| Salesforce.com | Torne-se uma pessoa por meio de uma sincronização Salesforce |
+| Preenchimento do formulário Web | Tornar-se uma pessoa depois de preencher um formulário |
+| Email de vendas | A pessoa recebeu um email por meio do Suplemento de email Sales Insight |
+| API de serviço Web | A pessoa foi criada por meio da API SOAP/REST |
 | Nova pessoa | A pessoa foi inserida manualmente no banco de dados |
-| API Munchkin | Tornou-se uma pessoa através da API Munchkin do Marketo |
-| Aplicativo social | Torne-se uma pessoa através de um widget social |
-| Parceiro evento | Tornou-se uma pessoa por meio de um serviço de webinar vinculado |
+| API Munchkin | Torne-se uma pessoa por meio da API do Marketo Munchkin |
+| Aplicativo social | Torne-se uma pessoa por meio de um widget social |
+| Parceiro de eventos | Torne-se uma pessoa por meio de um serviço de webinário vinculado |
