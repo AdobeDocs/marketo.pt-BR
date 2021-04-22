@@ -1,31 +1,31 @@
 ---
 unique-page-id: 1147116
-description: Gerenciamento de meus tokens - Documentos do Marketing - Documentação do produto
-title: Gerenciando Meus Tokens
+description: Gerenciamento de meus tokens - Documentos do Marketo - Documentação do produto
+title: Gerenciar meus tokens
+exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
+# Gerenciar meus tokens {#managing-my-tokens}
 
-# Gerenciando Meus Tokens {#managing-my-tokens}
-
-O uso de tokens pode simplificar seus esforços no Marketo. Você pode usar [Meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (tokens personalizados) em etapas de fluxo, webhooks, e-mails e landings page. Aqui está como fazê-los.
+Usar tokens pode simplificar seus esforços no Marketo. Você pode usar [Meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (tokens personalizados) em etapas de fluxo, webhooks, emails e landing pages. Aqui está como fazê-los.
 
 >[!TIP]
 >
->Saiba mais sobre quais tokens já estão disponíveis em [Visão Geral de Tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+>Saiba mais sobre quais tokens já estão disponíveis em [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
 
 ## Criar um Meu Token {#create-a-my-token}
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione uma pasta de programa ou campanha. Clique em **Meus tokens**.
+1. Selecione um programa ou pasta de campanha. Clique em **Meus tokens**.
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
@@ -47,7 +47,7 @@ O uso de tokens pode simplificar seus esforços no Marketo. Você pode usar [Meu
 
 ## Editar um Meu Token {#edit-a-my-token}
 
-1. Clique no duplo **Meu token** e faça as alterações. Clique em **Salvar**.
+1. Clique duas vezes em **Meu token** e faça suas alterações. Clique em **Salvar**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -55,9 +55,9 @@ O uso de tokens pode simplificar seus esforços no Marketo. Você pode usar [Meu
 
 >[!CAUTION]
 >
->Ao excluir um Meu token, certifique-se de não estar fazendo referência a ele em nenhum ativo. Um espaço em branco será exibido em qualquer lugar em que for referenciado, se excluído.
+>Ao excluir um Meu token, certifique-se de não estar fazendo referência a ele em nenhum ativo. Um espaço em branco será exibido em qualquer lugar em que seja referenciado, se excluído.
 
-1. Clique com o botão direito do mouse em **Meu token**. Selecione **Eliminar token**.
+1. Clique com o botão direito do mouse em **My Token**. Selecione **Eliminar Token**.
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
@@ -67,7 +67,7 @@ O uso de tokens pode simplificar seus esforços no Marketo. Você pode usar [Meu
 
    >[!MORELIKETHIS]
    >
-   >* [Visão geral dos tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
-   >* [Como entender meus tokens em um Programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
-   >* [Usar URLs em Meus Tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+   >* [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
+   >* [Noções básicas sobre meus tokens em um programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [Usar URLs em meus tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
 
