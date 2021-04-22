@@ -1,62 +1,62 @@
 ---
 unique-page-id: 2949186
-description: SEO - Usando o Detalhamento da Página - Documentos do Marketing - Documentação do Produto
-title: SEO - Usando a Detalhamento de Página
+description: SEO - Uso do Detalhamento da Página - Documentos do Marketo - Documentação do produto
+title: SEO - Uso do Detalhamento da Página
+exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
-
-# SEO - Usando o Detalhamento de Página {#seo-using-the-page-detail-drill-down}
+# SEO - Uso do Detalhamento da Página {#seo-using-the-page-detail-drill-down}
 
 Você pode ver muitas informações sobre suas páginas usando o detalhamento da página.
 
-## Buscar Drill-Down da Página {#find-page-drill-down}
+## Localizar Detalhamento da Página {#find-page-drill-down}
 
-1. Vá para a seção Páginas.
+1. Vá para a seção Pages .
 
    ![](assets/image2014-9-17-21-3a54-3a53.png)
 
-1. Clique na página para a qual deseja ver os detalhes.
+1. Clique na página para a qual deseja ver detalhes.
 
    ![](assets/image2014-9-17-21-3a54-3a58.png)
 
-   Atenção, o Detalhe da Página é Detalhado!
+   Behold, o Detalhe da Página Detalhar!
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## Seção de detalhes da página {#page-detail-section}
+## Seção de Detalhes da Página {#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
 | Item | Descrição |
 |---|---|
 | Pontuação de otimização | O molho secreto usado para mostrar a você como sua página é otimizada para pesquisa em uma escala de 1 a 100. |
-| Caixa de Ação | Exibe o número de problemas em aberto relacionados à página em que você está. |
+| Caixa de Tarefas | Exibe o número de problemas em aberto relacionados à página em que você está. |
 | Total de links de entrada | O número total de links de entrada para seu site. |
 | Links de entrada (domínios exclusivos) | O número de outros sites com pelo menos um link de entrada para o site. |
 | Links de saída | O número de links que saem para outros sites desta página específica. |
-| Compartilhamentos do Facebook | Número de vezes que essa página foi compartilhada no Facebook. |
-| Curtir do Facebook | Número de vezes que esse compartilhamento de página foi curtido no Facebook. |
-| Cliques do Facebook | Número de cliques do compartilhamento do Facebook. |
+| Compartilhamentos da facebook | Número de vezes que essa página foi compartilhada no Facebook. |
+| Facebook Curtidas | Número de vezes que esse compartilhamento de página foi curtido no Facebook. |
+| Cliques no facebook | Número de cliques do compartilhamento do Facebook. |
 
-## Palavra(s)-chave que a página é otimizada para {#keyword-s-that-page-is-optimized-for}
+## Palavras-chave nas quais a página é otimizada para {#keyword-s-that-page-is-optimized-for}
 
 É aqui que você [seleciona qual palavra-chave você está tentando otimizar sua página para](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
->Este é um passo importante para tirar o máximo proveito desse recurso. Recomendamos que você use menos de três palavras-chave por página. Idealmente apenas um.
+>Esta é uma etapa importante para aproveitar ao máximo esse recurso. Recomendamos que você use menos de três palavras-chave por página. Idealmente só um.
 
 ![](assets/image2014-9-17-21-3a56-3a35.png)
 
-## Resultados de otimização de página {#page-optimization-results}
+## Resultados da otimização de página {#page-optimization-results}
 
-Os Resultados da otimização de página informarão as etapas exatas que você precisa seguir para aumentar sua pontuação de otimização/realizar melhor na pesquisa por esta página.
+Os Resultados da otimização de página informam as etapas exatas que você precisa seguir para aumentar sua pontuação de otimização/executar melhor na pesquisa por esta página.
 
 ![](assets/image2014-9-17-21-3a56-3a41.png)
 
