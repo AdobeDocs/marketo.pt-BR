@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512272
-description: Adicionar WebEx como um Serviço LaunchPoint - Documentos do Marketing - Documentação do produto
-title: Adicionar WebEx como um Serviço LaunchPoint
+description: Adicionar o WebEx como um serviço do LaunchPoint - Documentos do Marketo - Documentação do produto
+title: Adicionar WebEx como um Serviço do LaunchPoint
+exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
+# Adicionar WebEx como um Serviço do LaunchPoint {#add-webex-as-a-launchpoint-service}
 
-# Adicionar WebEx como um Serviço LaunchPoint {#add-webex-as-a-launchpoint-service}
-
-O Marketo gerencia sua inscrição e participação no webinário WebEx.
+O Marketo gerencia o registro e a participação do webinário WebEx.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ O Marketo gerencia sua inscrição e participação no webinário WebEx.
 
 >[!NOTE]
 >
->Uma subscrição existente para WebEx e direitos administrativos são necessários para esta etapa. Tenha as seguintes configurações em mãos: Nome de usuário, Senha e Nome do site.
+>Uma assinatura existente para os direitos de WebEx e administração é necessária para esta etapa. Tenha as seguintes configurações em mãos: Nome de usuário, senha e nome do site.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ O Marketo gerencia sua inscrição e participação no webinário WebEx.
 >
 >`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
->Cuidado: Não insira o URL inteiro neste campo; insira apenas o nome do site!
+>Cuidado: Não insira o URL inteiro neste campo; insira somente o nome do site!
 
 1. Vá para **Admin** e clique em **LaunchPoint**.
 
@@ -39,19 +39,19 @@ O Marketo gerencia sua inscrição e participação no webinário WebEx.
 
    ![](assets/webex-new-service.png)
 
-1. Digite um **Nome de exibição**. Em **Service**, selecione **WebEx**.
+1. Insira um **Nome de Exibição**. Em **Service**, selecione **WebEx**.
 
    ![](assets/new-service-webex.png)
 
-1. Digite seu **Nome de usuário** e **Senha**.
+1. Insira seu **Nome de usuário** e **Senha**.
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. Conclua o processo digitando seu **Nome do site** e clique em **Criar**.
+1. Complete o processo inserindo seu **Nome do site** e clique em **Criar**.
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
-1. Fenomenal! Seu **WebEx** agora está sincronizado com Marketo.
+1. Fenomenal! Seu **WebEx** agora está sincronizado com o Marketo.
 
    ![](assets/webex.png)
 
