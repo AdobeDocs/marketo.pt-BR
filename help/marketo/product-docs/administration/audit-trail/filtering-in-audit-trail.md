@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378468
-description: Filtragem na trilha de auditoria - Documentos do Marketing - Documentação do produto
+description: Filtragem na trilha de auditoria - Documentos do Marketo - Documentação do produto
 title: Filtragem na trilha de auditoria
+exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Filtragem na trilha de auditoria {#filtering-in-audit-trail}
 
@@ -19,7 +19,7 @@ Filtre por período, tipo de ativo, usuários, ação executada e muito mais.
 
    ![](assets/one-1.png)
 
-1. Em **Security**, selecione **Trilha de auditoria**.
+1. Em **Segurança**, selecione **Trilha de Auditoria**.
 
    ![](assets/two-1.png)
 
@@ -29,17 +29,17 @@ Filtre por período, tipo de ativo, usuários, ação executada e muito mais.
 
    >[!NOTE]
    >
-   >Há várias combinações possíveis de parâmetros de pesquisa. Neste exemplo, localizamos: _todos os emails - editados por qualquer pessoa - nos sete dias anteriores_.
+   >Há uma grande variedade de combinações de parâmetros de pesquisa possíveis. Neste exemplo, localizamos: _todos os emails - editados por qualquer pessoa - nos sete dias anteriores_.
 
-1. Clique no menu suspenso **Period** e selecione **Últimos 7 dias**.
+1. Clique no menu suspenso **Period** e selecione **Last 7 Days**.
 
    ![](assets/four.png)
 
-1. Clique na lista suspensa **Tipo de ativo** e selecione **Email**.
+1. Clique no menu suspenso **Tipo de ativo** e selecione **Email**.
 
    ![](assets/five.png)
 
-1. Clique na lista suspensa **Ações** e selecione **Editar**.
+1. Clique no menu suspenso **Actions** e selecione **Edit**.
 
    ![](assets/six.png)
 
@@ -51,11 +51,11 @@ Filtre por período, tipo de ativo, usuários, ação executada e muito mais.
 
    ![](assets/eight.png)
 
-   É isso!
+   Pronto!
 
    >[!NOTE]
    >
-   >Se os espaços de trabalho estiverem ativados, você verá os dados de auditoria de todos os espaços de trabalho. Se você aplicar um filtro de espaço de trabalho, Marketo lembra o valor anterior da área de trabalho sempre que você usa a trilha de auditoria. As permissões do espaço de trabalho no nível do ativo são aplicadas.
+   >Se tiver espaços de trabalho ativados, você verá dados de auditoria para todos os espaços de trabalho. Se você aplicar um filtro de espaço de trabalho, o Marketo lembrará o valor anterior do espaço de trabalho sempre que você usar a trilha de auditoria. As permissões do Workspace no nível do ativo são aplicadas.
 
    >[!MORELIKETHIS]
    >
