@@ -1,37 +1,37 @@
 ---
 unique-page-id: 10093188
-description: Como entender objetos personalizados do Marketing - Documentos do Marketing - Documentação do produto
-title: Como entender objetos personalizados de marketing
+description: Noções básicas sobre objetos personalizados do Marketo - Documentos do Marketo - Documentação do produto
+title: Como entender objetos personalizados do Marketo
+exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '679'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Como entender os objetos personalizados do Marketo {#understanding-marketo-custom-objects}
 
-# Como entender objetos personalizados de marketing {#understanding-marketo-custom-objects}
-
-Use objetos personalizados para rastrear métricas específicas à sua empresa.
+Use objetos personalizados para rastrear métricas específicas da sua empresa.
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
+>Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
 
 Use objetos personalizados como filtros e acionadores em suas campanhas inteligentes. Por exemplo:
 
 * **Filtro**: Enviar emails somente para proprietários de uma marca de veículo específica
-* **Acionador**: Envie um email quando um objeto personalizado for adicionado a uma pessoa ou empresa.
+* **Acionador**: Enviar um email quando um objeto personalizado for adicionado a uma pessoa ou empresa.
 
-É possível configurar objetos personalizados em uma relação um para muitos ou muitos para muitos. Por exemplo:
+Você pode configurar objetos personalizados em uma relação um para muitos ou muitos para muitos. Por exemplo:
 
 * **Um para muitos**: Uma pessoa possui vários carros
-* **Muitos para muitos**: Vários alunos estão inscritos em vários cursos de um catálogo de cursos
+* **Muitos para muitos**: Vários alunos estão matriculados em vários cursos de um catálogo de cursos
 
 Uma estrutura de um para muitos usa um único campo de link para conectar o objeto personalizado a uma pessoa ou empresa.
 
-Muitos objetos personalizados usam dois campos de link, parte de um objeto intermediário. Um campo de link é conectado à pessoa ou empresa e outro é conectado ao objeto personalizado, como o catálogo de cursos. Esse objeto intermediário pode conter campos personalizados adicionais, como um grau de curso ou uma data de participação, que definem ainda mais a natureza da conexão.
+Muitos objetos personalizados usam dois campos de link, parte de um objeto intermediário. Um campo Link é conectado à pessoa ou empresa e outro é conectado ao objeto personalizado, como o catálogo de curso. Esse objeto intermediário pode conter campos personalizados adicionais, como um grau de curso ou uma data de participação, que definem ainda mais a natureza da conexão.
 
 >[!TIP]
 >
@@ -39,15 +39,15 @@ Muitos objetos personalizados usam dois campos de link, parte de um objeto inter
 
 >[!CAUTION]
 >
->Não é possível restaurar objetos personalizados, portanto, certifique-se de que não precisa mais deles antes de excluí-los.
+>Não é possível restaurar objetos personalizados, portanto, certifique-se de não precisar mais deles antes de excluí-los.
 
-## Acessar objetos personalizados de marketing {#accessing-marketo-custom-objects}
+## Acessar objetos personalizados do Marketo {#accessing-marketo-custom-objects}
 
-1. Para criar ou editar objetos personalizados do Marketo, clique no link **Admin** e **Objetos personalizados do Marketing**.
+1. Para criar ou editar objetos personalizados do Marketo, clique em **Admin** e, em seguida, no link **Marketo Custom Objects**.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
-1. A exibição Objetos personalizados de marketing lista todos os objetos personalizados à direita, mas somente os aprovados na grade principal.
+1. A exibição Objetos personalizados do Marketo lista todos os seus objetos personalizados à direita, mas apenas os aprovados na grade principal.
 
    ![](assets/image2016-6-10-15-3a14-3a18.png)
 
@@ -55,48 +55,48 @@ Muitos objetos personalizados usam dois campos de link, parte de um objeto inter
 
    >[!TIP]
    >
-   >O Marketo atualiza esses campos automaticamente, mas você pode atualizar a exibição clicando no ícone na coluna Registros.
+   >O Marketo atualiza esses campos automaticamente, mas é possível atualizar a exibição clicando no ícone na coluna Registros .
 
 1. Clique no nome do objeto à direita para abrir a página de detalhes.
 
    ![](assets/image2016-6-10-15-3a15-3a29.png)
 
-## Visualização de objetos personalizados associados a uma pessoa {#view-custom-objects-associated-to-a-person}
+## Exibir objetos personalizados associados a uma pessoa {#view-custom-objects-associated-to-a-person}
 
-Depois de criar a estrutura de objetos personalizados, ao carregar os dados de objetos personalizados específicos, os objetos personalizados são automaticamente associados às pessoas no banco de dados usando o campo de link no objeto personalizado. Você pode visualização informações na guia Objetos personalizados na página de detalhes da pessoa.
+Após criar a estrutura de objetos personalizados, ao carregar os dados de objetos personalizados específicos, os objetos personalizados são associados automaticamente às pessoas no banco de dados usando o campo de link no objeto personalizado. É possível exibir informações da guia Objetos personalizados na página de detalhes da pessoa.
 
-1. Vá para **Banco de Dados**.
+1. Vá para **Database**.
 
    ![](assets/db.png)
 
-1. Abra o banco de dados e clique na guia **Pessoas**. Clique no duplo do registro de uma pessoa associada a um objeto personalizado.
+1. Abra o banco de dados e clique na guia **People** . Clique duas vezes no registro de uma pessoa associada a um objeto personalizado.
 
    ![](assets/five.png)
 
-1. Na página de detalhes da pessoa, clique na guia **Objetos personalizados**. Selecione o objeto no menu suspenso.
+1. Na página de detalhes da pessoa, clique na guia **Objetos Personalizados**. Selecione o objeto no menu suspenso .
 
    ![](assets/six.png)
 
-1. Agora você pode visualização uma lista de todos os objetos personalizados desse tipo que estão associados a essa pessoa.
+1. Agora você pode exibir uma lista de todos os objetos personalizados desse tipo que estão associados a essa pessoa.
 
    ![](assets/seven.png)
 
-## Uso de objetos personalizados com Empresa {#using-custom-objects-with-companies}
+## Uso de objetos personalizados com empresas {#using-custom-objects-with-companies}
 
-Um objeto personalizado vinculado à empresa funciona melhor se você sincronizar o empresa do CRM ou se criar explicitamente o empresa usando a API. Também recomendamos que você use a ID da Empresa como campo de link.
+Um objeto personalizado vinculado à empresa funciona melhor se você sincronizar empresas do CRM ou se criar empresas explicitamente usando a API. Também recomendamos usar a ID da empresa como o campo de link .
 
-Se você tiver várias pessoas no Marketo que são registros no CRM ou somente no Marketo, um objeto personalizado vinculado a uma empresa não será associado a mais de um registro individual. Isso ocorre porque uma empresa com várias pessoas abaixo dela é suportada somente quando o empresa é sincronizado do CRM ou se você usa uma API para criar explicitamente o empresa.
+Se houver várias pessoas no Marketo que são registros no CRM ou nos registros somente Marketo, um objeto personalizado vinculado a uma empresa não será associado a mais de um registro individual. Isso ocorre porque uma empresa que tem várias pessoas abaixo dela é suportada somente quando empresas são sincronizadas do CRM ou se você usa uma API para criar empresas explicitamente.
 
-Objetos personalizados podem se vincular diretamente a um único registro. Isso significa que, quando seu tipo de objeto personalizado é vinculado por campo de empresa, você deve garantir que seus registros pessoais sejam associados a uma empresa usando a conversão de contato no CRM ou usando o campo externalCompanyId, se você gerenciar empresa usando as APIs REST do Marketo. Para registros pessoais que não estejam vinculados explicitamente a registros de empresa, objetos personalizados vinculados por empresa serão aleatoriamente vinculados a um único registro, mesmo se o valor do campo de empresa for compartilhado entre muitas pessoas.
+Os objetos personalizados só podem se vincular diretamente a um único registro. Isso significa que, quando o tipo de objeto personalizado é vinculado por campo da empresa, é necessário garantir que os registros de pessoa sejam associados a uma empresa usando a conversão de contato em seu CRM ou usando o campo externalCompanyId , caso gerencie empresas usando as APIs REST da Marketo. Para registros de pessoas que não estão vinculados explicitamente a registros de empresas, objetos personalizados vinculados por empresas serão aleatoriamente vinculados a um único registro, mesmo se o valor do campo de empresa for compartilhado por muitas pessoas.
 
 Consulte [Importar dados de objeto personalizados](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) para obter mais informações.
 
 >[!MORELIKETHIS]
 >
->* [Criar objetos personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [Criar objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
 >* [Aprovar um objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
->* [Editar e excluir um objeto personalizado de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Adicionar campos de objeto personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [Editar e excluir campos de objetos personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
->* [Importar dados de objetos personalizados](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
+>* [Editar e excluir um objeto personalizado do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Adicionar campos de objeto personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Editar e excluir campos de objeto personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Importar dados de objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
