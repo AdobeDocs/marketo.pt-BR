@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953334
-description: Notas de versão - outubro de 2014 - Documentos do Marketing - Documentação do produto
+description: Notas de versão - outubro de 2014 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - outubro de 2014
+exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Notas de versão: Outubro de 2014 {#release-notes-october}
 
-Verifique sua edição de marketing para ver a disponibilidade de recursos. A documentação virá no momento do lançamento.
+Verifique sua edição do Marketo para ver a disponibilidade dos recursos. A documentação virá no momento do lançamento.
 
 ## Foco do programa no calendário de marketing {#program-focus-in-marketing-calendar}
 
@@ -21,53 +21,53 @@ Verifique sua edição de marketing para ver a disponibilidade de recursos. A do
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
-## Novas chamadas de API ReST {#new-rest-api-calls}
+## Novas chamadas da API ReST {#new-rest-api-calls}
 
-Use a API para obter novas atividades ou alterações nos clientes potenciais:
+Use a API para obter novas atividades ou alterações nos leads:
 
 * Obter alterações de cliente potencial
-* Obter Atividades de cliente potencial
-* Obter tipos de Atividades
+* Obter atividades de cliente potencial
+* Obter Tipos de Atividade
 * Obter token de paginação
 
-Os detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+Detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
-## MSI - Enviar email de marketing para o Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
+## MSI - Enviar email do Marketo para o Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
 [Envie e rastreie ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) emails de vendas para clientes potenciais e contatos do Microsoft Dynamics.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI - Adicionar às Campanhas de marketing para Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
+## MSI - Adicionar às campanhas do Marketo para o Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Adicione clientes em potencial e contatos a ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) campanhas inteligentes do Marketing diretamente do Microsoft Dynamics. O Marketing pode escolher quais campanhas de marketing estão disponíveis para vendas.
+[Adicione leads e contatos a ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) campanhas inteligentes do Marketo diretamente do Microsoft Dynamics. O Marketing pode escolher quais campanhas do Marketo estarão disponíveis para vendas.
 
-## Suporte a entidade personalizada para Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
+## Suporte a entidade personalizada para a sincronização do Microsoft Dynamics {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[Use ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) dados de objetos personalizados do Microsoft Dynamics para filtrar e acionar listas inteligentes, campanhas inteligentes e programas...
+[Use dados ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) de objeto personalizados do Microsoft Dynamics para filtrar e acionar listas inteligentes, campanhas inteligentes, programas...
 
-## Suporte a Acionistas para Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
+## Suporte a Acionador para Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
 
-Sincronizar dados de acionistas de oportunidade do Dynamics. Também são suportadas as oportunidades conectadas a uma conta usando o campo &quot;Conta primária&quot;, bem como as oportunidades conectadas ao contato usando a sincronização &quot;Contato principal&quot;.
+Sincronizar dados de acionistas da oportunidade do Dynamics. Também há suporte para oportunidades conectadas a uma conta usando o campo &quot;Conta primária&quot;, bem como oportunidades conectadas para entrar em contato usando a sincronização &quot;Contato principal&quot;.
 
-## RTP - Aprimoramentos de Painel {#rtp-dashboard-enhancements}
+## RTP - Melhorias do painel {#rtp-dashboard-enhancements}
 
 O painel agora é aprimorado para incluir mais dados instantâneos:
 
 * Total de visitas da organização
-* Cinco principais setores de desempenho
-* Total de visitantes contratados
+* 5 principais indústrias de desempenho
+* Total de visitantes envolvidos
 
-## RTP - Novos modelos móveis para Campanha {#rtp-new-mobile-templates-for-campaigns}
+## RTP - Novos Modelos Móveis para Campanhas {#rtp-new-mobile-templates-for-campaigns}
 
-Com rapidez e facilidade [crie campanha](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) móveis com estes novos modelos.
+Crie campanhas móveis com rapidez e facilidade [a1/> com esses novos modelos.](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)
 
-## RTP - API de contexto do usuário {#rtp-user-context-api}
+## RTP - API de Contexto de Usuário {#rtp-user-context-api}
 
-Use uma nova chamada que rastreie o histórico de visitas do visitante. Personalize campanhas com base no visitante:
+Use uma nova chamada que rastreia o histórico de visitas passadas do visitante. Personalize campanhas com base no perfil do visitante:
 
-* Páginas anteriores visualizadas
+* Páginas anteriores exibidas
 * Produtos interessados em
-* Que campanhas RTP eles viram
+* Quais campanhas RTP foram vistas
 
 Visite [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) para obter detalhes completos.
