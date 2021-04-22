@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949190
-description: SEO - Escolher região/país para seu mecanismo de pesquisa - Documentos do Marketing - Documentação do produto
-title: SEO - Selecionar região/país para o seu mecanismo de pesquisa
+description: SEO - Selecione Região/país para o seu mecanismo de pesquisa - Documentos do Marketo - Documentação do produto
+title: SEO - Selecione Região/país para o seu mecanismo de pesquisa
+exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
+# SEO - Selecione Região/país para o seu mecanismo de pesquisa {#seo-pick-region-country-for-your-search-engine}
 
-# SEO - Selecionar região/país para o seu mecanismo de pesquisa {#seo-pick-region-country-for-your-search-engine}
-
-Os administradores do SEO poderão escolher a região para o mecanismo de pesquisa para a qual você gostaria de obter informações de classificação de palavras-chave.
+Os administradores de SEO poderão escolher a região do mecanismo de pesquisa para a qual você gostaria de obter informações de classificação de palavras-chave.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Os administradores do SEO poderão escolher a região para o mecanismo de pesqui
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. Escolha para qual país/cidade deseja otimizar e clique em **Salvar**.
+1. Escolha o país/cidade para o qual deseja otimizar e clique em **Salvar**.
 
 >[!NOTE]
 >
@@ -35,12 +35,12 @@ Os administradores do SEO poderão escolher a região para o mecanismo de pesqui
 
 ![](assets/image2014-9-17-21-3a8-3a8.png)
 
-Excelente trabalho. Agora você verá classificações de palavras-chave para o país ou a cidade de sua escolha.
+Excelente trabalho. Agora você verá classificações de palavras-chave para o país ou cidade de sua escolha.
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
 >[!MORELIKETHIS]
 >
->* [Como entender o Painel: Instantâneo SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
->* [Como entender o Painel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>* [Entendendo o painel: Instantâneo de SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
+>* [Entendendo o painel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
 
