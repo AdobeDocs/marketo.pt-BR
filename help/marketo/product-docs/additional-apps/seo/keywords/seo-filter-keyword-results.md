@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949208
-description: SEO - Filtrar resultados de palavras-chave - Documentos do Marketing - Documentação do produto
-title: SEO - Filtrar resultados de palavras-chave
+description: SEO - Filtrar resultados de palavra-chave - Documentos do Marketo - Documentação do produto
+title: SEO - Filtrar resultados de palavra-chave
+exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-
-# SEO - Filtrar resultados de palavras-chave {#seo-filter-keyword-results}
+# SEO - Filtrar resultados de palavra-chave {#seo-filter-keyword-results}
 
 Você pode ter muitas [palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Estas são as diferentes maneiras de filtrá-las:
 
@@ -21,29 +21,29 @@ Você pode ter muitas [palavras-chave](/help/marketo/product-docs/additional-app
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
-1. Clique no nome da lista em que você está focado.
+1. Clique no nome da lista em que você está se concentrando.
 
    ![](assets/image2014-9-18-11-3a55-3a32.png)
 
    >[!NOTE]
    >
-   >Se você não vir nenhuma lista, [saiba como fazer uma lista de palavra-chave](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >Se você não vir nenhuma lista, [saiba como fazer uma lista de palavras-chave](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
-Doce! Agora você só estará olhando para palavras-chave nessa lista.
+Doce! Agora você só verá as palavras-chave nessa lista.
 
-## Filtrar por classificação SERP {#filter-by-serp-rank}
+## Filtrar por Classificação SERP {#filter-by-serp-rank}
 
-1. Vá para a seção Palavras-chave.
+1. Vá para a seção Palavras-chave .
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   Os quadrados laranja definem seus limites superior (esquerdo) e inferior (direito). O filtro funciona na classificação SERP [da palavra-chave](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+   Os quadrados laranja definem os limites superior (esquerda) e inferior (direita). O filtro funciona na [classificação SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) da palavra-chave.
 
-1. Deslize os quadrados laranja para a esquerda/direita para filtrar os resultados.
+1. Deslize os quadrados laranja esquerda/direita para filtrar os resultados.
 
    ![](assets/image2014-9-18-12-3a0-3a15.png)
 
-## Filtrar por pesquisa {#filter-by-search}
+## Filtrar por Pesquisa {#filter-by-search}
 
 Você também pode encontrar as palavras-chave que está procurando usando o campo de pesquisa no canto superior direito.
 
