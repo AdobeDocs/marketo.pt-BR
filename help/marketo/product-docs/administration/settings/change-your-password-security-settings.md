@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360185
-description: Altere suas configurações de segurança de senha - Documentos de marketing - Documentação do produto
-title: Alterar suas configurações de segurança de senha
+description: Alterar as configurações de segurança de senha - Documentos do Marketo - Documentação do produto
+title: Alterar as definições de segurança de senha
+exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Altere suas Configurações de segurança de senha {#change-your-password-security-settings}
 
-# Altere suas configurações de segurança de senha {#change-your-password-security-settings}
-
-Controlar a política de senha da sua subscrição. Veja como.
+Controlar a política de senha da sua assinatura. Veja como.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Admin**, clique em **Definições de Início de Sessão**.
+1. Em **Admin**, clique em **Configurações de logon**.
 
    ![](assets/image2014-9-16-12-3a41-3a40.png)
 
@@ -31,7 +31,7 @@ Controlar a política de senha da sua subscrição. Veja como.
 
    >[!NOTE]
    >
-   >Um modelo é apenas uma configuração predefinida. O padrão é bom. Alta segurança é a mais forte. Personalizado permite que você faça o seu próprio.
+   >Um modelo é apenas uma configuração pré-criada. Padrão é bom. A alta segurança é a mais forte. O personalizado permite que você faça o seu.
 
    ![](assets/passwordstrength.png)
 
@@ -39,16 +39,16 @@ Controlar a política de senha da sua subscrição. Veja como.
    >
    >Em **Personalizado**, marque as caixas para indicar quais características você deseja que os usuários incluam ao criar senhas.
 
-1. Defina **Expiração**. Este recurso exige automaticamente que os usuários redefinam suas senhas após um determinado período de tempo. Isso inclui o usuário administrador também.
+1. Defina o **Expiration**. Esse recurso exige automaticamente que os usuários redefinam suas senhas após um determinado período de tempo. Isso também inclui o usuário Administrador.
 
    >[!CAUTION]
    >
-   >Os usuários existentes não serão notificados das alterações. Defina **Expiração** como 30 dias primeiro para garantir que todos tenham atualizado para as novas configurações e, em seguida, altere isso de volta para sua cadência original.
+   >Os usuários existentes não serão notificados sobre as alterações. Defina **Expiration** para 30 dias primeiro para garantir que todos tenham atualizado para as novas configurações, em seguida, altere isso de volta para a cadência original.
 
    ![](assets/expiration.png)
 
-1. Defina **Tempo limite da sessão inativa**. Isso determina por quanto tempo um usuário pode ficar inativo antes de ter que fazer login novamente no Marketo.
+1. Defina o **Tempo limite da sessão inativa**. Isso determina por quanto tempo um usuário pode ficar inativo antes de ter que fazer logon novamente no Marketo.
 
    ![](assets/inactivesession.png)
 
-   Segurança é um assunto sério. Nós te protegemos.
+   A segurança é um negócio sério. Pegamos suas costas.
