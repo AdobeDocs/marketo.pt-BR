@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147066
-description: Substituir restrições de pessoa em uma Campanha inteligente - Documentos do marketing - Documentação do produto
-title: Substituir restrições de pessoa em uma Campanha inteligente
+description: Substituir restrições de pessoa em uma campanha inteligente - Documentos do Marketo - Documentação do produto
+title: Substituir restrições de pessoa em uma campanha inteligente
+exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
+# Substituir restrições de pessoa em uma campanha inteligente {#override-person-restrictions-in-a-smart-campaign}
 
-# Substituir restrições de pessoa em uma Campanha inteligente {#override-person-restrictions-in-a-smart-campaign}
-
-Marketo permite definir o número máximo de pessoas que podem se qualificar para uma campanha inteligente; isso ajuda a evitar enviar acidentalmente e-mails para o banco de dados inteiro. Se você quiser _substituir_ esse limite, veja como.
+O Marketo permite definir o número máximo de pessoas que podem se qualificar para uma campanha inteligente; isso ajuda a evitar o envio acidental de todo o banco de dados. Se quiser _substituir_ esse limite, veja como.
 
 >[!PREREQUISITES]
 >
->Certifique-se de [ativar restrições de pessoa para campanhas inteligentes](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) no Administrador de marketing.
+>Certifique-se de [ativar restrições de pessoa para campanhas inteligentes](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) no Marketo Admin.
 
-1. No Marketing Atividade, vá para sua campanha inteligente e clique em **Agendamento**.
+1. Em Atividades de marketing, vá para sua campanha inteligente e clique em **Schedule**.
 
    ![](assets/one.png)
 
-1. Em Configurações de Campanha inteligente, clique em **Editar**.
+1. Nas Configurações da campanha inteligente, clique em **Editar**.
 
    ![](assets/two.png)
 
@@ -31,7 +31,7 @@ Marketo permite definir o número máximo de pessoas que podem se qualificar par
    >
    >O limite padrão é aquele definido em Admin.
 
-1. Insira um novo limite e clique em **Salvar.**
+1. Insira um novo limite e clique em **Save.**
 
    ![](assets/three.png)
 
