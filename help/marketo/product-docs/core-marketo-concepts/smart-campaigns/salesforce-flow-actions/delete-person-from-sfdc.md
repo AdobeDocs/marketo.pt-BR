@@ -1,38 +1,38 @@
 ---
 unique-page-id: 1147031
-description: Excluir pessoa do SFDC - Documentos do Marketing - Documentação do produto
-title: Excluir Pessoa do SFDC
+description: Excluir pessoa do SFDC - Documentos do Marketo - Documentação do produto
+title: Excluir pessoa da SFDC
+exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Excluir pessoa da SFDC {#delete-person-from-sfdc}
 
-# Excluir Pessoa do SFDC {#delete-person-from-sfdc}
-
-Se você precisar remover um conjunto específico de clientes potenciais do Salesforce, mas deixá-los como pessoas no Marketo, poderá usar a ação Excluir pessoa do fluxo SFDC.
+Se você precisar remover um conjunto específico de leads do Salesforce, mas deixá-los como pessoas no Marketo, poderá usar a ação Excluir pessoa do SFDC em fluxo.
 
 >[!NOTE]
 >
 >Disponível somente quando integrado ao Salesforce.
 
-1. No Banco de Dados, clique na pessoa que deseja remover do Salesforce. Em seguida, clique em **Ações da pessoa** e selecione **Salesforce**.
+1. No Banco de Dados, clique na pessoa que deseja remover do Salesforce. Em seguida, clique em **Ações de pessoa** e selecione **Salesforce**.
 
    ![](assets/person-actions-salesforce.png)
 
-1. Selecione **Excluir Pessoa do SFDC**.
+1. Selecione **Excluir pessoa do SFDC**.
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Verifique se a configuração **Excluir no Marketo** é **false** e clique em **Executar agora**.
+1. Certifique-se de que a configuração **Delete in Marketo** é **false** e clique em **Run Now**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
-   Depois que a etapa de fluxo for executada, sua pessoa não será mais líder no Salesforce, mas permanecerá no Marketo.
+   Depois que a etapa do fluxo for executada, sua pessoa não será mais líder no Salesforce, mas permanecerá no Marketo.
 
    >[!CAUTION]
    >
-   >Se você definir **Excluir no Marketo** como **true** e excluir as pessoas do Marketo e os clientes potenciais do Salesforce, elas desaparecerão para sempre. Isto não pode ser desfeito.
+   >Se você definir **Excluir no Marketo** para **true** e excluir as pessoas do Marketo e os leads do Salesforce, elas desaparecerão para sempre. Isso não pode ser desfeito.
