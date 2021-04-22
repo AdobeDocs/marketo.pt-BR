@@ -1,14 +1,14 @@
 ---
-description: Editar campos para sincronização antes de excluí-los no Dynamics - Documentação do Marketo - Documentação do produto
+description: Editar campos para sincronização antes de excluí-los no Dynamics - Marketo Docs - Documentação do produto
 title: Editar campos para sincronização antes de excluí-los no Dynamics
+exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
-
 
 # Editar campos para sincronização antes de excluí-los no Dynamics {#editing-fields-to-sync-before-deleting-them-in-dynamics}
 
