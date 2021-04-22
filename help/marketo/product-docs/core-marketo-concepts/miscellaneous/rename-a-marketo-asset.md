@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952484
-description: Renomear um ativo de marketing - Documentos de marketing - Documentação do produto
-title: Renomear um ativo de marketing
+description: Renomear um ativo do Marketo - Documentos do Marketo - Documentação do produto
+title: Renomear um ativo do Marketo
+exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-
-# Renomear um ativo de marketing {#rename-a-marketo-asset}
+# Renomear um ativo do Marketo {#rename-a-marketo-asset}
 
 Pastas, programas e ativos locais podem ser renomeados facilmente.
 
@@ -25,4 +25,4 @@ Pastas, programas e ativos locais podem ser renomeados facilmente.
 
    >[!NOTE]
    >
-   >Não é possível renomear arquivos e imagens que foram carregados ou um ativo que está sendo referenciado em uma Lista inteligente ou Campanha inteligente (em filtros, acionadores, etapas de fluxo etc.).
+   >Não é possível renomear arquivos e imagens que foram carregados ou um ativo que está sendo referenciado em uma Smart List ou Smart Campaign (em filtros, acionadores, etapas de fluxo etc.).
