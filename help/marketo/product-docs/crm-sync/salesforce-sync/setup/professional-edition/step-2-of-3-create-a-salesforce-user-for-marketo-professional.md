@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571797
-description: Etapa 2 de 3 - Criar um usuário do Salesforce para o Marketing (Professional) - Documentação do produto - Documentação do produto
-title: Etapa 2 de 3 - Criar um usuário do Salesforce para o Marketing (Professional)
+description: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Professional) - Documentos do Marketo - Documentação do produto
+title: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Professional)
+exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-
-# Etapa 2 de 3: Criar um usuário do Salesforce para o Marketing (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Etapa 2 de 3: Criar um usuário do Salesforce para Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
@@ -19,19 +19,19 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Etapa 1 de 3: Adicionar campos de marketing ao Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>[Etapa 1 de 3: Adicionar campos do Marketo ao Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
-Neste artigo, você personalizará as permissões de campo com um Layout de página do Salesforce e criará um usuário de sincronização do Marketo-Salesforce.
+Neste artigo, você personalizará permissões de campo com um Layout de página do Salesforce e criará um usuário de sincronização Marketo-Salesforce .
 
-## Definir layouts de página {#set-page-layouts}
+## Definir Layouts de Página {#set-page-layouts}
 
-O Salesforce Professional define a acessibilidade no nível do campo com Layouts de página, em vez dos Perfis do Salesforce Enterprise/Unlimited. Estas etapas permitirão que o usuário de sincronização de marketing atualize os campos personalizados.
+O Salesforce Professional define a acessibilidade de nível de campo com layouts de página, em vez dos perfis do Salesforce Enterprise/Unlimited. Seguindo essas etapas, o usuário do Marketo sync poderá atualizar os campos personalizados.
 
-1. Digite **layouts de página** na barra de pesquisa Navegação sem pressionar **Enter** e clique em **Layout de página** em **Leads**.
+1. Digite **layouts de página** na barra de pesquisa de navegação sem pressionar **Enter** e clique em **Layout de página** em **Leads**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Clique em **Editar** ao lado de Layout principal.
+1. Clique em **Editar** ao lado do Layout de lead.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
@@ -39,32 +39,32 @@ O Salesforce Professional define a acessibilidade no nível do campo com Layouts
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Digite &quot;Marketo&quot; para **Nome da seção** e clique em **OK**.
+1. Insira &quot;Marketo&quot; para **Nome da Seção** e clique em **OK**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Clique e arraste o campo **Data de aquisição** para a seção **Marketing**.
+1. Clique e arraste o campo **Data de aquisição** até a seção **Marketo**.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
 1. Repita a etapa acima para os seguintes campos:
 
    * Programa de aquisição
-   * ID do Programa de aquisição
-   * Opt out de email
-   * Cidade Inferida
-   * Empresa inferida
-   * País Inferior
-   * Área metropolitana inferida
-   * Código de área do telefone inferior
-   * Código postal inferido
-   * Região do Estado Inferior
-   * Pontuação principal
-   * Quem indicou original
+   * Id Do Programa De Aquisição
+   * Cancelamento de opção de e-mail
+   * Cidade indicada
+   * Empresa indicada
+   * País indicado
+   * Área metropolitana indicada
+   * Código de área telef. indic.
+   * Código postal indicado
+   * Estado/região indicado
+   * Pontuação do lead
+   * Responsável pela indicação original
    * Mecanismo de pesquisa original
    * Frase de pesquisa original
-   * Informações de origem originais
-   * Tipo de origem original
+   * Informações da fonte original
+   * Tipo de fonte original
 
    >[!NOTE]
    >
@@ -72,9 +72,9 @@ O Salesforce Professional define a acessibilidade no nível do campo com Layouts
 
    >[!TIP]
    >
-   >Crie duas colunas para os campos arrastando para baixo até o lado direito da página. É possível mover os campos de um lado para o outro para equilibrar as comprimentos das colunas.
+   >Crie duas colunas para os campos arrastando para baixo no lado direito da página. É possível mover campos de um lado para o outro para equilibrar as comprimentos da coluna.
 
-1. Clique em **Salvar** ao terminar de adicionar campos.
+1. Clique em **Salvar** ao concluir a adição de campos.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
@@ -82,40 +82,40 @@ O Salesforce Professional define a acessibilidade no nível do campo com Layouts
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Lembre-se de clicar em **Salvar** quando terminar com o **Layout de página de contato**.
+1. Lembre-se de clicar em **Salvar** quando terminar com o **Layout da Página de Contato**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
    >[!NOTE]
    >
-   >Certifique-se de que o campo **Evento de todos os dias** foi adicionado ao **Layout de página do Evento**.
+   >Verifique se o campo **Evento de todos os dias** foi adicionado ao **Layout da página de evento**.
 
-## Criar usuário de sincronização {#create-sync-user}
+## Criar Usuário de Sincronização {#create-sync-user}
 
-O Marketo requer credenciais para acessar o Salesforce. Isso é feito melhor com um usuário dedicado criado com as etapas abaixo.
+A Marketo requer credenciais para acessar o Salesforce. Isso é melhor com um usuário dedicado criado com as etapas abaixo.
 
 >[!NOTE]
 >
->Se sua organização não tiver licenças adicionais do Salesforce, você poderá usar um usuário de marketing **com o perfil** Administrador do sistema **existente.**
+>Se sua organização não tiver licenças adicionais do Salesforce, você poderá usar um **usuário de marketing** existente com o perfil **Administrador do sistema**.
 
-1. Digite &quot;users&quot; na barra de pesquisa Navegador e clique em **Users** em **Gerenciar usuários**.
+1. Digite &quot;usuários&quot; na barra de pesquisa de navegação e clique em **Usuários** em **Gerenciar usuários**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. Clique em **Novo usuário**.
+1. Clique em **Novo Usuário**.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Preencha os campos obrigatórios e selecione **Licença de usuário: Salesforce**, defina o Perfil **: Administrador do sistema**, marque **Usuário de marketing** e clique em **Salvar**.
+1. Preencha os campos obrigatórios, selecione a **Licença de usuário: Salesforce**, defina o **Perfil: Administrador do sistema**, marque **Usuário de marketing** e clique em **Salvar**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
    >[!TIP]
    >
-   >Verifique se o endereço de email digitado é válido. Você precisará fazer logon como o usuário de sincronização para redefinir a senha.
+   >Certifique-se de que o endereço de email inserido é válido. Você precisará fazer logon como o usuário de sincronização para redefinir a senha.
 
-Excelente! Agora você tem uma conta que o Marketo pode usar para se conectar ao Salesforce. Vamos fazer isso.
+Excelente! Agora você tem uma conta que a Marketo pode usar para se conectar ao Salesforce. Vamos fazer isso.
 
 >[!MORELIKETHIS]
 >
->[Etapa 3 de 3: Connect Marketing e Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
+>[Etapa 3 de 3: Conecte o Marketo e o Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
