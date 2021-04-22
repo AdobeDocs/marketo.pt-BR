@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953384
-description: Ativar sincronização para uma entidade personalizada - Documentos do marketing - Documentação do produto
+description: Habilitar sincronização para uma entidade personalizada - Documentos do Marketo - Documentação do produto
 title: Ativar Sincronização para uma Entidade Personalizada
+exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
+# Habilitar Sincronização para uma Entidade Personalizada {#enable-sync-for-a-custom-entity}
 
-# Ativar Sincronização para uma Entidade Personalizada {#enable-sync-for-a-custom-entity}
-
-Se você precisar que os dados de entidade personalizados do Dynamics estejam disponíveis no Marketo, veja como habilitar a sincronização:
+Se você precisar que dados de entidade personalizados do Dynamics estejam disponíveis no Marketo, veja como habilitar a sincronização para ela:
 
 >[!NOTE]
 >
@@ -29,11 +29,11 @@ Se você precisar que os dados de entidade personalizados do Dynamics estejam di
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Em Gerenciamento de banco de dados, clique no link **Sincronização de entidades dinâmicas**.
+1. Em Gerenciamento de Banco de Dados, clique no link **Sincronização de Entidades Dinâmicas**.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Clique no link **Sincronizar schema**.
+1. Clique no link **Sync schema**.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
@@ -41,15 +41,15 @@ Se você precisar que os dados de entidade personalizados do Dynamics estejam di
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. Selecione os campos que deseja sincronizar ou usar como [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/ou acionadores em listas inteligentes. Quando terminar, clique em **Ativar sincronização**.
+1. Selecione os campos que deseja sincronizar ou usar como [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/ou acionadores em listas inteligentes. Quando terminar, clique em **Ativar Sincronização**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
    >[!NOTE]
    >
-   >Durante o processo de sincronização, você pode notar que o item &quot;Sincronização de entidades dinâmicas&quot; desaparece da árvore de navegação. Esse comportamento é esperado e reaparecerá depois que a sincronização for concluída.
+   >Durante o processo de sincronização, você pode notar que o item &quot;Sincronização de entidades dinâmicas&quot; desaparece da árvore de navegação. Esse é um comportamento esperado e reaparecerá após a conclusão da sincronização.
 
-1. A entidade agora tem uma marca de seleção verde nela.
+1. A entidade agora tem uma marca de seleção verde.
 
    ![](assets/image2014-10-20-14-3a33-3a4.png)
 
@@ -57,4 +57,4 @@ Se você precisar que os dados de entidade personalizados do Dynamics estejam di
 
    ![](assets/image2015-11-10-9-3a48-3a35.png)
 
-Oh, sim! Coisa poderosa.
+Sim! Coisa poderosa.
