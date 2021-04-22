@@ -2,14 +2,14 @@
 unique-page-id: 3571838
 description: Sincronização do Microsoft Dynamics - Sincronização de campo - Documentos do Marketo - Documentação do produto
 title: Sincronização do Microsoft Dynamics - Sincronização de campo
+exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
 
 ---
-
 
 # Sincronização do Microsoft Dynamics: Sincronização de campo {#microsoft-dynamics-sync-field-sync}
 
@@ -23,7 +23,7 @@ Para entidades de conta, usuário, oportunidade, equipe e personalizadas, a sinc
 
 ## E se forem feitas alterações no mesmo campo em ambos os sistemas ao mesmo tempo? (Colisão de dados) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Embora seja raro, o Marketo ganhará por pessoas (leads) e o Dynamics ganhará por contatos. Isso ocorre porque consideramos que o departamento de marketing é autoritativo para as pessoas, enquanto o sistema oficial de registro para contatos está no departamento de vendas (CRM). Para entidades de sincronização unidirecionais, o Dynamics sempre ganhará.
+Embora isso seja raro, a Marketo ganhará por pessoas (leads) e o Dynamics ganhará por contatos. Isso ocorre porque consideramos que o departamento de marketing é autoritativo para as pessoas, enquanto o sistema oficial de registro para contatos está no departamento de vendas (CRM). Para entidades de sincronização unidirecionais, o Dynamics sempre ganhará.
 
 ## Posso criar um campo no Dynamics usando o Marketo? {#can-i-create-a-field-in-dynamics-using-marketo}
 
