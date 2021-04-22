@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11380986
-description: Editar um espaço de trabalho - Documentos do marketing - Documentação do produto
+description: Editar um espaço de trabalho - Documentos do Marketo - Documentação do produto
 title: Editar um espaço de trabalho
+exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-
 # Editar um espaço de trabalho {#edit-a-workspace}
 
-Às vezes, é necessário fazer alterações em um Workspace. É fácil.
+Às vezes, é necessário fazer alterações em um espaço de trabalho. É fácil.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Escove os espaços de trabalho com [Compreensão dos espaços de trabalho e das partições pessoais](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Escove os espaços de trabalho com [Entendendo os espaços de trabalho e as Partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Em **Admin**, clique em **Espaços de trabalho e partições**.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/two-7.png)
 
-1. Você pode selecionar uma partição de cliente potencial diferente e escolher uma partição de pessoa principal diferente no menu suspenso.
+1. Você pode selecionar uma partição de lead diferente e escolher uma partição de pessoa primária diferente no menu suspenso.
 
    >[!NOTE]
    >
@@ -41,11 +41,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >A caixa de seleção **Todas as partições de pessoa** significa que esse espaço de trabalho pode usar todas as partições de cliente potencial no sistema.
+   >A caixa de seleção **All Person Partitions** significa que este espaço de trabalho pode usar todas as partições de lead no sistema.
 
    >[!NOTE]
    >
-   >A partição **pessoa principal** atua como padrão e é onde todas as pessoas serão atribuídas.
+   >A **partição de pessoa principal** atua como padrão e é onde todas as pessoas serão atribuídas.
 
    Se você ativou vários domínios de marca, é possível alterar para um domínio de marca primária diferente. Clique em **Salvar**.
 
@@ -53,10 +53,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Não é possível alterar a linguagem do espaço de trabalho.
+   >Não é possível alterar o idioma do espaço de trabalho.
 
 >[!MORELIKETHIS]
 >
 >* [Criar um novo espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
->* [Como entender espaços de trabalho e partições de pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
+>* [Como entender espaços de trabalho e partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
 
