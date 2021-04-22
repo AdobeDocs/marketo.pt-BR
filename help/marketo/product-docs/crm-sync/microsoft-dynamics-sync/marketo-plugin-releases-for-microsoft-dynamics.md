@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099389
 description: Versões de plug-in do Marketo para Microsoft Dynamics - Documentos do Marketo - Documentação do produto
-title: Versões de plug-in do Marketo para Microsoft Dynamics
+title: Versões de plug-in do Marketo para o Microsoft Dynamics
+exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
-
-# Versões de plug-in do Marketo para Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
+# Versões de plug-in do Marketo para o Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
 
 Ao sincronizar com o Microsoft Dynamics pela primeira vez, você baixa a versão mais recente dos plug-ins do Marketo. Periodicamente, o Marketo atualiza esses plug-ins, de modo que você pode retornar ao mesmo local para baixar a nova versão.
 
@@ -38,7 +38,7 @@ Ao sincronizar com o Microsoft Dynamics pela primeira vez, você baixa a versão
   <tr> 
    <th colspan="1">Versão</th> 
    <th colspan="1">Data de lançamento</th> 
-   <th>Notas</th> 
+   <th>Observações</th> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.0</td> 
@@ -53,7 +53,7 @@ Ao sincronizar com o Microsoft Dynamics pela primeira vez, você baixa a versão
   <tr> 
    <td colspan="1">4.0.0.23</td> 
    <td colspan="1">27/6/18</td> 
-   <td colspan="1">Correção de erros: Erro no processo de negócios ao tentar instalar as soluções do Marketo para Dynamics 2013.</td> 
+   <td colspan="1">Correção de erros: Erro no processo de negócios ao tentar instalar as soluções da Marketo para o Dynamics 2013.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.22</td> 
@@ -103,7 +103,7 @@ Ao sincronizar com o Microsoft Dynamics pela primeira vez, você baixa a versão
   <tr> 
    <td colspan="1">4.0.0.13</td> 
    <td colspan="1">30/12/15</td> 
-   <td>Correção de erros: As atualizações no Dynamics não estavam sincronizando o Marketo para ver as etapas e imagens.</td> 
+   <td>Correção de erros: As atualizações no Dynamics não estavam sincronizando o Marketo para etapas e imagens.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.12</td> 
@@ -115,4 +115,4 @@ Ao sincronizar com o Microsoft Dynamics pela primeira vez, você baixa a versão
 
 >[!MORELIKETHIS]
 >
->[Download da solução de gerenciamento líder do Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Baixe a solução de gerenciamento de clientes potenciais da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
