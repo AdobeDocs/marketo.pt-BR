@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504058
-description: Clonar uma apresentação - Documentos do Marketing - Documentação do produto
+description: Clonar uma apresentação - Documentos do Marketo - Documentação do produto
 title: Clonar uma apresentação
+exl-id: be013e38-734c-41d7-8623-e8f267b2799c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Clonar uma apresentação {#clone-a-presentation}
+# Clonar uma Apresentação {#clone-a-presentation}
 
 Clonar uma apresentação para reutilização em diferentes lugares.
 
@@ -19,11 +19,11 @@ Clonar uma apresentação para reutilização em diferentes lugares.
 
    ![](assets/image2015-3-26-12-3a22-3a6.png)
 
-1. Clique com o botão direito do mouse na apresentação e selecione **Clonar**.
+1. Clique com o botão direito do mouse na apresentação e selecione **Clone**.
 
    ![](assets/image2015-3-26-12-3a22-3a47.png)
 
-1. Digite um nome para a apresentação clonada e clique em **Clonar**.
+1. Insira um nome para a apresentação clonada e clique em **Clone**.
 
    ![](assets/image2015-3-20-16-3a14-3a44.png)
 
