@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10098625
-description: Noções Gerais da Microsoft Dynamics Sync - Documentos do Marketing - Documentação do produto
-title: Como entender o Microsoft Dynamics Sync
+description: Noções básicas sobre a sincronização do Microsoft Dynamics - Documentos do Marketo - Documentação do produto
+title: Noções Gerais da Sincronização do Microsoft Dynamics
+exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Noções Gerais da Sincronização do Microsoft Dynamics {#understanding-the-microsoft-dynamics-sync}
+# Entendendo a Sincronização do Microsoft Dynamics {#understanding-the-microsoft-dynamics-sync}
 
 O Marketo e o Microsoft Dynamics estão juntos. Mantemos seus dados de vendas e marketing sincronizados.
 
 >[!NOTE]
 >
->O Marketo suporta somente certificados SSL compatíveis com o Java 7 no momento.
+>O Marketo só oferece suporte a certificados SSL compatíveis com o Java 7 no momento.
 
 ## Como a sincronização funciona {#how-sync-works}
 
@@ -25,17 +25,17 @@ O Marketo sincroniza dados continuamente com o Microsoft Dynamics o dia todo, to
 
 >[!NOTE]
 >
->A primeira sincronização na sua subscrição leva minutos a horas, dependendo do tamanho do banco de dados. O Marketo copia todo o banco de dados do Dynamics. Depois disso, cada sincronização normalmente leva segundos ou minutos e sincroniza apenas os dados que foram alterados.
+>A primeira sincronização na assinatura demora minutos a horas, dependendo do tamanho do banco de dados. O Marketo copia todo o banco de dados do Dynamics. Depois disso, cada sincronização normalmente leva segundos ou minutos e sincroniza apenas os dados que foram alterados.
 
-A sincronização entre o Marketing e o Dynamics é bidirecional para clientes potenciais e contatos. Se você fizer alterações no Marketo ou no Dynamics, suas atualizações serão refletidas em ambos os sistemas. Todos os outros campos, como contas e oportunidades, são sincronizados apenas de uma maneira, da Dinâmica ao Mercado.
+A sincronização entre o Marketo e o Dynamics é bidirecional para clientes potenciais e contatos. Se você fizer alterações no Marketo ou no Dynamics, suas atualizações serão refletidas em ambos os sistemas. Todos os outros campos, como contas e oportunidades, são sincronizados apenas de uma maneira, do Dynamics ao Marketo.
 
 ## O que é sincronizado entre o Marketo e o Microsoft Dynamics? {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
-* [Clientes potenciais](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
+* [Leads](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
 * [Contatos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
 * [Contas](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
 * [Usuários](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
-* Equipes (grupos de SystemUsers)
+* Equipes (grupos de usuários do sistema)
 * [Oportunidades](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Entidades personalizadas](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
 
@@ -45,4 +45,4 @@ A sincronização entre o Marketing e o Dynamics é bidirecional para clientes p
 
 >[!CAUTION]
 >
->No momento, não oferecemos suporte à atualização da caixa de proteção para a Sincronização Dinâmica do Marketing. Se precisar atualizar sua caixa de proteção do Dynamics CRM, uma nova caixa de proteção do Marketo será necessária. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
+>No momento, não oferecemos suporte à atualização da caixa de proteção para a Sincronização do Marketo Dynamics. Se você precisar atualizar a caixa de proteção do Dynamics CRM, será necessária uma nova caixa de proteção do Marketo. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
