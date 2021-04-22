@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147011
-description: Adicionar ao Programa de envolvimento - Documentos do marketing - Documentação do produto
-title: Adicionar ao Programa de envolvimento
+description: Adicionar ao programa de envolvimento - Documentos da Marketo - Documentação do produto
+title: Adicionar ao programa de envolvimento
+exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-
-# Adicionar ao Programa de envolvimento {#add-to-engagement-program}
+# Adicionar ao programa de envolvimento {#add-to-engagement-program}
 
 ## Visão geral {#overview}
 
-A campanha inteligente que você cria com essa etapa de fluxo será o gateway para seu programa de envolvimento.
+A campanha inteligente criada com essa etapa de fluxo será o gateway do programa de engajamento.
 
 ![](assets/image2014-9-22-14-3a47-3a32.png)
 
@@ -31,4 +31,4 @@ A campanha inteligente que você cria com essa etapa de fluxo será o gateway pa
 
    >[!NOTE]
    >
-   >Não é possível adicionar uma pessoa a vários fluxos dentro do mesmo programa.
+   >Não é possível adicionar uma pessoa a vários fluxos no mesmo programa.
