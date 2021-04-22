@@ -2,18 +2,18 @@
 unique-page-id: 2359900
 description: Requisitos mínimos do sistema - Documentos do Marketo - Documentação do produto
 title: Requisitos mínimos do sistema
+exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-
 # Requisitos mínimos do sistema {#minimum-system-requirements}
 
-Se você está se perguntando o que precisa fazer logon e usar o Marketo, aqui está a informação que está procurando.
+Se você estiver se perguntando o que precisa fazer logon e usar o Marketo, veja as informações que está procurando.
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ Se você está se perguntando o que precisa fazer logon e usar o Marketo, aqui e
 
 >[!NOTE]
 >
->Se sua equipe de TI restringir o acesso à Web usando uma  lista de permissões, peça para adicionar `*.marketo.com` para permitir todos os recursos e websockets do Marketo.
+>Se a sua equipe de TI restringir o acesso à Web usando uma  lista de permissões, peça para adicionar `*.marketo.com` para permitir todos os recursos e websockets da Marketo.
