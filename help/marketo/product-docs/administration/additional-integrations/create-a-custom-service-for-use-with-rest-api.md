@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360350
-description: Criar um serviço personalizado para uso com a API ReST - Documentos do Marketing Cloud - Documentação do produto
+description: Criar um serviço personalizado para uso com a API ReST - Documentos do Marketo - Documentação do produto
 title: Criar um serviço personalizado para uso com a API ReST
+exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-
 # Criar um serviço personalizado para uso com a API ReST {#create-a-custom-service-for-use-with-rest-api}
 
-Se você quiser se integrar ao Marketo por meio da API ReST, será necessário criar um serviço personalizado. Veja como.
+Se quiser integrar com o Marketo por meio da API ReST, crie um serviço personalizado. Veja como.
 
 >[!PREREQUISITES]
 >
@@ -30,11 +30,11 @@ Se você quiser se integrar ao Marketo por meio da API ReST, será necessário c
 
 >[!TIP]
 >
->Consulte a documentação de nossos desenvolvedores para obter detalhes sobre a [API ReST](https://developers.marketo.com/documentation/rest/). Também temos a [API SOAP](https://developers.marketo.com/documentation/soap/) se for isso que você precisa.
+>Consulte a documentação de nossos desenvolvedores para obter detalhes sobre a [ReST API](https://developers.marketo.com/documentation/rest/). Também temos a [API SOAP](https://developers.marketo.com/documentation/soap/) se for necessário.
 
 >[!NOTE]
 >
->Não é possível criar um serviço personalizado se você tiver o nível de Faísca de Marketo.
+>Não é possível criar um serviço personalizado se você tiver o nível de Spark do Marketo.
 
 ## Criar Serviço Personalizado {#create-custom-service}
 
@@ -42,15 +42,15 @@ Se você quiser se integrar ao Marketo por meio da API ReST, será necessário c
 
    ![](assets/image2014-9-19-10-3a38-3a15.png)
 
-1. Em **Novo**, clique em **Novo serviço**.
+1. Em **Novo**, clique em **Novo Serviço**.
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. Digite um **Nome de exibição** para o serviço. Selecione **Usuário Somente API** [criado anteriormente](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Insira um **Nome de Exibição** para o serviço. Selecione o **Usuário Somente API** [criado anteriormente](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    >[!NOTE]
    >
-   >Observe que já temos integração nativa para serviços de webinar populares.
+   >Observe que já temos integração nativa para serviços populares de webinar.
 
    ![](assets/image2014-9-19-10-3a38-3a32.png)
 
@@ -58,15 +58,15 @@ Se você quiser se integrar ao Marketo por meio da API ReST, será necessário c
 
    ![](assets/image2014-9-19-10-3a39-3a28.png)
 
-   Oh, sim! O serviço agora é criado, vamos continuar e obter todas as credenciais para fornecer acesso.
+   Sim! O serviço foi criado, vamos continuar e obter todas as credenciais para fornecer acesso.
 
-## Credenciais para Acesso à API {#credentials-for-api-access}
+## Credenciais para o Acesso à API {#credentials-for-api-access}
 
 1. Vá para **Admin** e clique em **LaunchPoint**.
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. Clique em **Detalhes da Visualização** para obter o serviço personalizado do LaunchPoint criado acima.
+1. Clique em **Exibir detalhes** para o serviço personalizado do LaunchPoint criado acima.
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
@@ -74,10 +74,10 @@ Se você quiser se integrar ao Marketo por meio da API ReST, será necessário c
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. Forneça o **ID do cliente**, **Segredo do cliente**, **Utilizador autorizado** e **Token** à pessoa responsável pela criação da ligação.
+1. Forneça o **Client Id**, **Client Secret**, **Authorized User** e **Token** à pessoa encarregada de estabelecer a conexão.
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
 >[!CAUTION]
 >
->Não compartilhe essas informações. é a porta de entrada para seus dados. Mantenha-o seguro!
+>Não compartilhe essas informações; é o backdoor para seus dados. Mantenha seguro!
