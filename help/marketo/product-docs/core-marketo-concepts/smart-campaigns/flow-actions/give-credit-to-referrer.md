@@ -1,39 +1,39 @@
 ---
 unique-page-id: 1147040
-description: Dê crédito à Quem indicou - Documentos do Marketing - Documentação do produto
-title: Dê crédito à Quem indicou
+description: Conceder crédito ao referenciador - Documentos do Marketo - Documentação do produto
+title: Conceder crédito ao responsável pela indicação
+exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-
-# Dê crédito à Quem indicou {#give-credit-to-referrer}
+# Conceder crédito ao responsável pela indicação {#give-credit-to-referrer}
 
 ## Visão geral {#overview}
 
-Ao executar uma [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode dar crédito à quem indicou usando diferentes métodos:
+Ao executar uma [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou um [sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode dar crédito ao referenciador usando métodos diferentes:
 
-* Visitas referenciadas
-* Logotipos referenciados
-* **Acionador da Lista inteligente**
+* Visitas indicadas
+* Inscrições indicadas
+* **Gatilho da lista inteligente**
 * Evento JavaScript personalizado
 
-Se você optou por usar a opção **Acionador de Lista inteligente** para especificar uma meta, precisará usar a etapa de fluxo **Fornecer crédito à Quem indicou**.
+Se você optar por usar a opção **Acionador de Lista Inteligente** para especificar uma meta, precisará usar a etapa de fluxo **Atribuir Crédito ao Referenciador**.
 
 ![](assets/image2014-9-22-15-3a59-3a18.png)
 
 ## Uso {#usage}
 
-1. Depois de criar sua campanha e decidir que ação deve ser acionada, basta encontrar e selecionar o aplicativo social ao qual deseja atribuir crédito a quem indicou.
+1. Depois de criar sua campanha e decidir qual ação acionar, basta encontrar e selecionar o aplicativo social ao qual deseja atribuir crédito o referenciador.
 
    ![](assets/image2014-9-22-15-3a59-3a39.png)
 
    >[!NOTE]
    >
-   >Verifique se o aplicativo social está configurado para usar o Acionador de Lista inteligente. Consulte [Especificar meta para Oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) para obter detalhes.
+   >Certifique-se de que o aplicativo social está configurado para usar o Acionador da Smart List. Consulte [Especificar meta para oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) para obter detalhes.
 
-Excelente! Qualquer pessoa processada por essa etapa de fluxo agora dará crédito à sua quem indicou.
+Excelente! Qualquer pessoa processada por essa etapa do fluxo agora dará crédito ao seu referenciador.
