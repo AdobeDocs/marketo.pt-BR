@@ -1,14 +1,14 @@
 ---
 description: Configurar o aplicativo Microsoft Dynamics CRM para On-loco - Documentos do Marketo - Documentação do produto
 title: Configurar o aplicativo do Microsoft Dynamics CRM no local
+exl-id: 50d41d0a-0c3b-43b8-8117-d91903e74699
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # Configurar o aplicativo Microsoft Dynamics CRM para no local {#set-up-microsoft-dynamics-crm-app-for-on-prem}
 
@@ -18,7 +18,7 @@ A configuração baseada na ID do cliente/Segredo do cliente no Marketo pode ser
 
 Siga as etapas em [este artigo da Microsoft](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later).
 
-Quando terminar, a próxima etapa é **Inserir a ID do cliente gerada pelo Dynamics CRM e o segredo no Marketo**.
+Quando terminar, a próxima etapa é **Inserir a ID do cliente gerada pelo Dynamics CRM e Secretar no Marketo**.
 
 ## Insira a ID do cliente gerada pelo Dynamics CRM e o segredo no Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
