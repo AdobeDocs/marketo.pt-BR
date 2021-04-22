@@ -2,14 +2,14 @@
 unique-page-id: 11379928
 description: Detalhes da alteração na trilha de auditoria - Documentos do Marketo - Documentação do produto
 title: Alterar detalhes na trilha de auditoria
+exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1913'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
-
 
 # Alterar detalhes na trilha de auditoria {#change-details-in-audit-trail}
 
@@ -84,14 +84,14 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Excluir custo do período. Valor "#" mês do programa "yyyy-mm"</td> 
+   <td colspan="1">Excluir custo no período. Valor "#" mês do programa "yyyy-mm"</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
-   <td rowspan="19"><strong>Email</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>E-mail</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Criar</td> 
    <td>Criado usando o modelo "nome do modelo" <br>ou <br>Clonado de "nome do ativo"</td> 
   </tr> 
@@ -117,7 +117,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Segmentação removida</td> 
+   <td>Removida segmentação</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -125,7 +125,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Snippet removido</td> 
+   <td>Removido o bloco de conteúdo</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -137,7 +137,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Editar módulo <code>"<module name>" <attribute></code> para "valor"</td> 
+   <td>Editar módulo <module name><attribute> para "valor"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -167,7 +167,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
    <td>Rascunho</td> 
    <td>O email foi redigido porque o trecho "nome do trecho" foi aprovado<br>ou<br>O email foi elaborado porque o modelo "nome do modelo" foi aprovado</td> 
   </tr> 
-   <td rowspan="17">Programa de email</td> 
+   <td rowspan="17">Programa de e-mail</td> 
    <td>Criar</td> 
    <td>Tipo de canal "tipo de canal"<br>ou<br>Clonado de "nome de programa"</td> 
   </tr> 
@@ -184,7 +184,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
    <td>N/D</td> 
   </tr> 
   <tr> 
-   <td>Abortar</td> 
+   <td>Anular</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
@@ -233,10 +233,10 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Excluir custo do período. Valor "#" mês do programa "yyyy-mm"</td> 
+   <td colspan="1">Excluir custo no período. Valor "#" mês do programa "yyyy-mm"</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Modelo de email</td> 
+   <td rowspan="8">Modelo de e-mail</td> 
    <td>Criar</td> 
    <td>Em branco ou Clonado a partir de "nome do modelo"</td> 
   </tr> 
@@ -343,7 +343,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Altere o status do programa. Novo valor "ligado/desligado" Valor antigo "desligado/ligado"</td> 
+   <td>Alterar status do programa. Novo valor "ligado/desligado" Valor antigo "desligado/ligado"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
@@ -355,7 +355,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Excluir custo do período. Valor "#" mês do programa "yyyy-mm"</td> 
+   <td colspan="1">Excluir custo no período. Valor "#" mês do programa "yyyy-mm"</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
@@ -424,7 +424,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Excluir custo do período. Valor "#" mês do programa "yyyy-mm"</td> 
+   <td colspan="1">Excluir custo no período. Valor "#" mês do programa "yyyy-mm"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
@@ -456,7 +456,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
    <td>Token excluído "token_name"</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Forms</td> 
+   <td rowspan="8">Formulários</td> 
    <td>Criar</td> 
    <td>Em breve. Saiba mais ou Clonado em "nome do formulário"</td> 
   </tr> 
@@ -474,11 +474,11 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Configurações de formulário editadas </td> 
+   <td>Editadas configurações de formulário </td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Detalhes do campo editado</td> 
+   <td>Editados detalhes de campos</td> 
   </tr> 
   <tr> 
    <td>Clonar</td> 
@@ -489,12 +489,12 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
    <td>Movido para "Design studio" na pasta "nome da pasta"<br>ou<br>Movido para "Atividades de marketing" para "nome do programa"</td> 
   </tr> 
   <tr> 
-   <td>Forms</td> 
+   <td>Formulários</td> 
    <td>Aprovar</td> 
    <td>Usado por # assets </td> 
   </tr> 
   <tr> 
-   <td rowspan="9">Página de aterrissagem</td> 
+   <td rowspan="9">Página</td> 
    <td>Criar</td> 
    <td>Criado usando o modelo "nome do modelo" <br>ou <br>Clonado de "nome do ativo"</td> 
   </tr> 
@@ -539,7 +539,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
    <td>N/D</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Modelo de página de aterrissagem</td> 
+   <td rowspan="8">Modelo de página</td> 
    <td>Criar</td> 
    <td><p>Em branco<br>ou<br>Clonado de "nome de ativo"</p></td> 
   </tr> 
@@ -606,7 +606,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
    <td>N/D</td> 
   </tr> 
   <tr> 
-   <td>Abortar</td> 
+   <td>Anular</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
@@ -671,7 +671,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
    <td>Mostra instantâneo do estado atual, incluindo nomes e valores de filtros e acionadores </td> 
   </tr> 
   <tr> 
-   <td rowspan="11">Snippet</td> 
+   <td rowspan="11">Bloco de conteúdo</td> 
    <td>Criar</td> 
    <td><p>Em branco<br>ou<br>Clonado de "nome do trecho"</p></td> 
   </tr> 
@@ -681,7 +681,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Segmentação removida</td> 
+   <td>Removida segmentação</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -708,7 +708,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
    <td>Usado por # assets</td> 
   </tr> 
   <tr> 
-   <td>Aprovar sem rascunho</td> 
+   <td>Aprovar com Sem requisição</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
@@ -718,7 +718,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
  </tbody> 
 </table>
 
-## Trilha de auditoria do administrador {#admin-audit-trail}
+## Trilha de auditoria de admin.{#admin-audit-trail}
 
 <table> 
  <colgroup> 
@@ -728,7 +728,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Área de administração</th> 
+   <th>Área de admin</th> 
    <th>Ação</th> 
    <th>Detalhes da alteração</th> 
   </tr> 
@@ -747,7 +747,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
    <td>partição "nome da partição" excluída</td> 
   </tr> 
   <tr> 
-   <td>Força da senha</td> 
+   <td>Grau de segurança da senha</td> 
    <td>Editar</td> 
    <td>Segurança de senha alterada para modelo: Segurança padrão, duração mínima: #, lower-upper: #, número: #, mistura de maiúsculas e minúsculas: # , expiração : #, tempo limite da sessão: #</td> 
   </tr> 
@@ -765,7 +765,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
    <td>Função Editada de "nome anterior" para "novo nome" (NOTA: se precisar de detalhes sobre permissões editadas, entre em contato com o suporte) - <br>mostra o instantâneo das permissões atribuídas à função<br></td> 
   </tr> 
   <tr> 
-   <td>Relatório de lista inteligente</td> 
+   <td>Relatório da lista inteligente</td> 
    <td>Editar</td> 
    <td>SmarList editado para logon para download: "true ou false"</td> 
   </tr> 
@@ -799,7 +799,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
    <td>Redefinição de senha para nome "nome" e email "email"</td> 
   </tr> 
   <tr> 
-   <td rowspan="2">Workspace</td> 
+   <td rowspan="2">Área de trabalho</td> 
    <td>Criar</td> 
    <td>Espaço de trabalho criado com o nome "nome do espaço de trabalho"</td> 
   </tr> 
@@ -813,4 +813,3 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
 >[!MORELIKETHIS]
 >
 >[Filtragem na trilha de auditoria](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-
