@@ -1,25 +1,25 @@
 ---
 unique-page-id: 557333
-description: Reordenar Adicionar escolha em uma etapa de fluxo - Documentos do Marketing - Documentação do produto
+description: Reordenar adição de escolha em uma etapa de fluxo - Documentos do Marketo - Documentação do produto
 title: Reordenar Adicionar Escolha em uma Etapa de Fluxo
+exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Reordenar Adicionar Escolha em uma Etapa de Fluxo {#reorder-add-choice-in-a-flow-step}
 
-Como somente a primeira escolha correspondente se aplica a uma pessoa, o pedido é importante. Se você quiser alterar a ordem das condições definidas em uma etapa de fluxo, veja como.
+Como somente a primeira escolha correspondente se aplica a uma pessoa, a ordem é importante. Se quiser alterar a ordem das condições definidas em uma etapa de fluxo, veja como.
 
-1. Encontre a etapa de fluxo para a qual você deseja alterar a ordem de uma escolha.
+1. Localize a etapa do fluxo que deseja alterar a ordem de uma escolha.
 
    ![](assets/one.png)
 
-1. Vamos mover a escolha 3 acima da escolha 2. Clique em **Escolha 3** e, em seguida, clique em **Mover para cima**.
+1. Vamos mover a escolha 3 acima da escolha 2. Clique em **Escolha 3** e clique em **Mover para cima**.
 
    >[!NOTE]
    >
@@ -27,7 +27,7 @@ Como somente a primeira escolha correspondente se aplica a uma pessoa, o pedido 
 
    ![](assets/two.png)
 
-   Bom trabalho! Agora você sabe como mover uma escolha para cima/para baixo em incrementos únicos. É isso! É tão fácil reorganizar a ordem de suas opções de passos de fluxo.
+   Excelente! Agora você sabe como mover uma escolha para cima/para baixo por incrementos únicos. Pronto! É tão fácil reorganizar a ordem de suas escolhas de etapas de fluxo.
 
    ![](assets/three.png)
 
@@ -35,4 +35,4 @@ Como somente a primeira escolha correspondente se aplica a uma pessoa, o pedido 
 
    ![](assets/four.png)
 
-É tão fácil reorganizar a ordem de suas opções de passos de fluxo.
+É tão fácil reorganizar a ordem de suas escolhas de etapas de fluxo.
