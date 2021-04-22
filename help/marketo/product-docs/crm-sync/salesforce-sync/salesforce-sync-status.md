@@ -1,16 +1,16 @@
 ---
 description: Status de sincronização do Salesforce - Documentos do Marketo - Documentação do produto
-title: Status de Sincronização do Salesforce
+title: Status da sincronização do Salesforce
+exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 translation-type: tm+mt
-source-git-commit: 98af67caaf485535ba2177aa661a503990e8698d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-
-# Status de Sincronização do Salesforce {#salesforce-sync-status}
+# Status da sincronização do Salesforce {#salesforce-sync-status}
 
 Use o Painel de status de sincronização para exibir as estatísticas de sincronização como parte das etapas de sincronização e seu status de sucesso.
 
@@ -83,7 +83,7 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
   </tr>  
   <tr> 
    <td colspan="1">Operação</td> 
-   <td colspan="1">Tipo de Operação</td> 
+   <td colspan="1">Tipo de operação</td> 
    <td colspan="1">Tipos de operação abaixo</td> 
   </tr>  
   <tr> 
@@ -107,7 +107,7 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
    <td colspan="1"></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Item com Falha</td> 
+   <td colspan="1">Item malsucedido</td> 
    <td colspan="1">Número de registros cuja sincronização falhou</td> 
    <td colspan="1"><br></td> 
   </tr>  
@@ -141,13 +141,13 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
    <td colspan="1">Campanha</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Status do Membro da Campanha</td> 
+   <td colspan="1">Status de membro de campanha</td> 
   </tr>
   <tr> 
    <td colspan="1">Contato</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Modelo de email</td> 
+   <td colspan="1">Modelo de e-mail</td> 
   </tr>  
   <tr> 
    <td colspan="1">Evento</td> 
@@ -159,7 +159,7 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
    <td colspan="1">Oportunidade</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Função de Contato da Oportunidade</td> 
+   <td colspan="1">Função de contato em oportunidades</td> 
   </tr>  
   <tr> 
    <td colspan="1">Tarefa</td> 
@@ -170,7 +170,7 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
  </tbody> 
 </table>
 
-## Tipo de operação {#operation-type}
+## Operação Tipo {#operation-type}
 
 <table> 
  <colgroup> 
@@ -181,7 +181,7 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Tipo de Operação</th> 
+   <th>Tipo de operação</th> 
    <th>Encontrado em relação a esses objetos</th> 
    <th>Observações</th> 
    <th>Tipo de operação</th>
@@ -193,37 +193,37 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
    <td colspan="1">Atualizar</td>
   </tr>  
   <tr> 
-   <td colspan="1">Puxar conversões</td> 
+   <td colspan="1">Extrair conversões</td> 
    <td colspan="1">Pessoa (lead)*</td> 
    <td colspan="1">Puxe as ações de conversão do SFDC para o Marketo. Unidades (números) são leads convertendo em Contatos</td> 
    <td colspan="1">Atualização, Item com Falha ou Ignorado</td>
   </tr> 
   <tr> 
-   <td colspan="1">Exclusões de pull</td> 
+   <td colspan="1">Extrair exclusões</td> 
    <td colspan="1">Contato, Pessoa (Lead), Oportunidade, Campanha, Membros da Campanha, Contato da Oportunidade, Objetos Personalizados, Campanhas, Status do Membro da Campanha, Função do Contato da Oportunidade</td> 
    <td colspan="1">Registros excluídos do SFDC que estão sendo sincronizados com o Marketo</td> 
    <td colspan="1">Excluído, com falha de item ou ignorado</td>
   </tr>  
   <tr> 
-   <td colspan="1">Transferir atualizações</td> 
+   <td colspan="1">Extrair atualizações</td> 
    <td colspan="1">Tarefa, Pessoa (Lead), Fila de Pessoa (Lead), Contato, Evento, Oportunidade, Conta, Tipo de Conta, Membros da Campanha, Objetos Personalizados, Campanhas, Status de Membro da Campanha, Eventos, Status de Pessoa, Oportunidade, Função de Contato de Oportunidade</td> 
-   <td colspan="1">Atualizações ou Novos registros no SFDC sincronizados com Marketo, Enviar eventos como atividades</td> 
+   <td colspan="1">Atualizações ou Novos registros no SFDC sincronizados com o Marketo, Extrair eventos como atividades</td> 
    <td colspan="1">Novo, Atualizado, Falha no Item ou Ignorado</td>
   </tr>  
   <tr> 
-   <td colspan="1">Encaminhar novo</td> 
+   <td colspan="1">Enviar novo(a)s</td> 
    <td colspan="1">Tarefas, modelos de email</td> 
    <td colspan="1">Tarefas de push (atividades)</td> 
    <td colspan="1"></td>
   </tr>
   <tr> 
-   <td colspan="1">Atualizações por push</td> 
+   <td colspan="1">Enviar atualizações</td> 
    <td colspan="1">Tarefas, Modelos de email, Pessoa, Contato, Campanhas</td> 
    <td colspan="1">Envio de atualizações para o SFDC e também exclui</td> 
    <td colspan="1">Atualização, Item com Falha ou Ignorado</td>
   </tr>  
   <tr> 
-   <td colspan="1">Esquema de sincronização</td> 
+   <td colspan="1">Sincronizar esquemas</td> 
    <td colspan="1">Membros Da Campanha, Objetos Personalizados, Campanhas, Status Do Membro Da Campanha, Tarefas, Pessoa, Oportunidade, Função De Contato Da Oportunidade, Usuários</td> 
    <td colspan="1">Sincroniza metadados para diferentes objetos, para decidir quais novos campos serão sincronizados no próximo ciclo</td> 
    <td colspan="1"></td>
@@ -231,7 +231,7 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
   <tr> 
    <td colspan="1">Sincronizar com programa</td> 
    <td colspan="1">Campanhas</td> 
-   <td colspan="1">Sincroniza o programa Marketo com as campanhas SFDC</td> 
+   <td colspan="1">Sincroniza o programa Marketo com campanhas SFDC</td> 
    <td colspan="1">Novo, Atualizações, Falha ou Ignorado</td>
   </tr> 
   <tr> 
