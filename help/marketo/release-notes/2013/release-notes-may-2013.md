@@ -1,40 +1,40 @@
 ---
 unique-page-id: 2951097
-description: Notas de versão - maio de 2013 - Documentos do Marketo - Documentação do produto
+description: Notas de versão - maio de 2013 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - maio de 2013
+exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Notas de versão: Maio de 2013 {#release-notes-may}
 
-Os seguintes recursos foram incluídos na versão de maio.
+Os seguintes recursos estão incluídos na versão de maio.
 
-## Arquivos de calendário para Landing page {#calendar-files-for-landing-pages}
+## Arquivos de calendário para páginas de aterrissagem {#calendar-files-for-landing-pages}
 
-Crie um arquivo de calendário como Meu token que pode ser adicionado à sua landing page. Esse arquivo de calendário integrado (por exemplo, arquivo .ics) renderizará todos os tokens, incluindo Meus tokens nas landings page de ativos locais.
+Crie um arquivo de calendário como um Meu token que pode ser adicionado à página de aterrissagem. Esse arquivo de calendário integrado (por exemplo, .ics) renderizará todos os tokens, incluindo Meus tokens em páginas de aterrissagem de ativos locais.
 
 ![](assets/image2014-9-22-16-3a3-3a18.png)
 
-## Guia Associação do Modelo {#model-membership-tab}
+## Guia de associação em modelo {#model-membership-tab}
 
-Visualização todos os dados do membro do modelo em um local para monitorar e solucionar problemas com facilidade. A nova guia Membros é uma visualização somente leitura disponível quando você seleciona um Modelo de Ciclo de Receita aprovado.
+Visualize todos os dados do membro do modelo em um único local para monitorar e solucionar problemas com facilidade. A nova Guia Membros é uma exibição somente leitura disponível ao selecionar um Modelo de Ciclo de Receita aprovado.
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
-## Árvore de Ação de Fluxo Reorganizada {#reorganized-flow-action-tree}
+## Árvore de ação de fluxo reorganizada {#reorganized-flow-action-tree}
 
 Encontre ações de fluxo mais rapidamente com a árvore de ação de fluxo recém-reorganizada.
 
 ![](assets/image2014-9-22-16-3a3-3a58.png)
 
-## Ações de Fluxo Renomeadas {#renamed-flow-actions}
+## Ações de fluxo renomeadas {#renamed-flow-actions}
 
-Alterar status de progressão agora é Alterar status do Programa. Alterar dados do Programa agora é Alterar sucesso do Programa
+Alterar Status da Progressão agora é Alterar Status do Programa. Alterar os dados do programa agora é Alterar o sucesso do programa
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
