@@ -1,49 +1,49 @@
 ---
 unique-page-id: 10098479
-description: Criar uma Atividade personalizada - Documentos do marketing - Documentação do produto
-title: Criar uma Atividade personalizada
+description: Criar uma atividade personalizada - Documentos do Marketo - Documentação do produto
+title: Criar uma atividade personalizada
+exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
-# Criar uma Atividade personalizada {#create-a-custom-activity}
+# Criar uma atividade personalizada {#create-a-custom-activity}
 
 Siga estas etapas para criar uma nova atividade personalizada.
 
 >[!NOTE]
 >
->A maioria das subscrições tem um limite alocado de 10 tipos de Atividades personalizadas.
+>A maioria das subscrições tem um limite alocado de 10 tipos de Atividade personalizada.
 
 1. Clique em **Admin**.
 
    ![](assets/one.png)
 
-1. Em **Gerenciamento de banco de dados**, clique em **Atividades personalizadas**.
+1. Em **Gerenciamento de Banco de Dados** clique em **Atividades Personalizadas**.
 
    ![](assets/two.png)
 
-1. Clique em **Nova Atividade personalizada**.
+1. Clique em **Nova Atividade Personalizada**.
 
    ![](assets/three.png)
 
-1. Digite um nome e uma descrição opcional e clique em **Next**. O Nome da API é preenchido automaticamente, mas pode ser personalizado.
+1. Insira um nome e uma descrição opcional, depois clique em **Next**. O Nome da API é preenchido automaticamente, mas pode ser personalizado.
 
    ![](assets/four.png)
 
    >[!CAUTION]
    >
-   >Se você decidir alterar o nome da API, verifique se o nome não está em conflito com campos em outras atividades personalizadas.
+   >Se decidir alterar o nome da API, verifique se o nome não está em conflito com campos em outras atividades personalizadas.
 
-1. Defina **Filtro** e **Acionador** e clique em **Seguinte**.
+1. Defina seu **Filtro** e **Acionador** e clique em **Próximo**.
 
    ![](assets/five.png)
 
-1. Dê ao seu campo principal um nome que sintetize para que serve a atividade personalizada.
+1. Dê um nome ao campo principal que resume o objetivo da atividade personalizada.
 
    ![](assets/six.png)
 
@@ -51,4 +51,4 @@ Siga estas etapas para criar uma nova atividade personalizada.
 
 >[!MORELIKETHIS]
 >
->[Como entender Atividades personalizadas](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
+>[Noções básicas sobre atividades personalizadas](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
