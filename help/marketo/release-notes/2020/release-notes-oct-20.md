@@ -1,15 +1,15 @@
 ---
 unique-page-id: 45416698
-description: Notas de versão - 20 de outubro - Documentos do Marketo - Documentação do produto
+description: Notas de versão - 20 de outubro - Documentos da Marketo - Documentação do produto
 title: Notas de versão - outubro de 2020
+exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
 
 ---
-
 
 # Notas de versão: Out &#39;20 {#release-notes-oct}
 
@@ -17,7 +17,7 @@ Os seguintes recursos estão incluídos na versão de outubro de 2020. Verifique
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) podem ser complementos pagos. Entre em contato com seu representante do Marketo Engage para saber mais.
+>Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) podem ser complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
 **_Versões trimestraisOs seguintes recursos serão lançados em 16_** de outubro de 2020 ****.
 
@@ -27,27 +27,27 @@ Os seguintes recursos estão incluídos na versão de outubro de 2020. Verifique
 
 * **Lista inteligente de contas (Beta)**: Sobrecarregue sua estratégia de ABM com o novo recurso Lista inteligente de contas . Identifique dinamicamente contas com os atributos de conta e pessoa desejados para executar campanhas entre canais e envie alertas oportunos para Vendas para fechar negócios mais rápido. Observação: isso está disponível somente para clientes do Gerenciamento de conta do Target que foram integrados à [experiência de usuário de próxima geração](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
-## Marketing de email {#email-marketing}
+## Marketing por e-mail {#email-marketing}
 
 * **Aumento do e-mail em lote  ![(estrela)](assets/star-yellow.svg)**: Envie mais emails com uma taxa de transferência aumentada de até 5 milhões de emails em lote por hora. Opções abrangentes de capacidade de fornecimento de email elimina a necessidade de esperar entre lotes de email - envie todos os emails a tempo e de acordo com sua programação.
 
 ## Marketing de site {#website-marketing}
 
-* **Incorporar automação** de código de formulário: Adquira mais leads com formulários do Marketo Engage incorporados em suas páginas de aterrissagem seguras hospedadas fora do Marketo. O código de incorporação do formulário é atualizado automaticamente para incluir o nome de domínio da página de aterrissagem e elimina o trabalho manual para desenvolvedores da Web. O domínio personalizado no link de código melhora as experiências de navegação no site e a utilização de formulários.
+* **Incorporar automação** de código de formulário: Adquira mais leads com formulários Marketo Engage incorporados em suas páginas de aterrissagem seguras hospedadas fora do Marketo. O código de incorporação do formulário é atualizado automaticamente para incluir o nome de domínio da página de aterrissagem e elimina o trabalho manual para desenvolvedores da Web. O domínio personalizado no link de código melhora as experiências de navegação no site e a utilização de formulários.
 
-## Integração da Experience Cloud {#experience-cloud-integration}
+## Integração do Experience Cloud {#experience-cloud-integration}
 
-* **Sincronização contínua do público-alvo da Adobe Experience Cloud para o Marketo Engage**: O Target é líder com o Marketo Engage com base em dados de intenção originais do Adobe Analytics, Adobe Audience Manager ou Adobe Real-Time CDP. Atualize automaticamente as listas estáticas do Marketo Engage via sincronização contínua, adicione leads a programas de envolvimento ou de email e alerte as vendas quando os leads estiverem prontos.
+* **Sincronização contínua de público-alvo do Adobe Experience Cloud para o Marketo Engage**: O Target leva com o Marketo Engage com base em dados de intenção originais do Adobe Analytics, Adobe Audience Manager ou Adobe Real-Time CDP. Atualize automaticamente listas Marketo Engage estáticas por meio de sincronização contínua, adicione leads a programas de envolvimento ou de email e alerte o setor de vendas quando os leads estiverem prontos.
 
-## Integração CRM {#crm-integration}
+## Integração ao CRM {#crm-integration}
 
 * **Sincronização** do Salesforce CRM: Identifique e corrija erros e falhas de sincronização com dois novos Painéis de Sincronização e Erros do Salesforce. Monitore novas atualizações de registro, exclusões, falhas e conclusão do processo de sincronização. Os relatórios podem ser filtrados por data, tipo de operação ou tipo de objeto.
 
-* **Integração** do Microsoft Dynamics 365: Automatize a inscrição de leads e contatos em campanhas do Microsoft Dynamics 365. Adicione ou remova facilmente os leads e contatos do Marketo Engage às campanhas do MS Dynamics com novas ações de fluxo de campanha inteligente. Transmita indubitavelmente leads de Marketing para Vendas e feche negócios mais rapidamente.
+* **Integração** do Microsoft Dynamics 365: Automatize a inscrição de leads e contatos em campanhas do Microsoft Dynamics 365. Adicione ou remova facilmente Marketo Engage Leads e contatos para as campanhas do MS Dynamics com novas ações de fluxo de campanha inteligente. Transmita indubitavelmente leads de Marketing para Vendas e feche negócios mais rapidamente.
 
 ## Direcionamento de mídia paga {#paid-media-targeting}
 
-* **Integrações dos principais anúncios do Facebook**: Os parâmetros de rastreamento de formulário do Facebook agora podem ser capturados por meio do serviço LaunchPoint para anúncios de lead do Facebook. Esses campos ocultos agora podem ser mapeados para campos do Marketo, permitindo que os profissionais de marketing armazenem e atuem em dados valiosos de rastreamento de campanha.
+* **Integrações** dos anúncios de ponta da facebook: Os parâmetros de rastreamento de formulário do facebook agora podem ser capturados por meio do serviço LaunchPoint para anúncios de lead do Facebook. Esses campos ocultos agora podem ser mapeados para campos do Marketo, permitindo que os profissionais de marketing armazenem e atuem em dados valiosos de rastreamento de campanha.
 
 ## Administração {#administration}
 
@@ -65,7 +65,7 @@ Os seguintes recursos estão incluídos na versão de outubro de 2020. Verifique
 
 Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos próximos meses.
 
-## Insight de vendas {#sales-insight}
+## Sales Insight {#sales-insight}
 
 ![(estrela)](assets/star-yellow.svg)
 
@@ -73,7 +73,7 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 ## Anúncios e desaprovações {#announcements-deprecations}
 
-* **Novo visual do Marketo Engage**: As novas versões dos gráficos de linha, barra, coluna e pizza fornecem visualizações atualizadas em todo o Marketo Engage, incluindo as Atividades de marketing e todos os recursos de relatório, bem como a visualização de dados que aparecem nas Atividades de marketing. Essa atualização é uma resposta ao fim da vida útil do Adobe Flash em 31 de dezembro de 2020.
+* **Nova aparência** de Marketo Engage: As novas versões dos gráficos de linha, barra, coluna e pizza oferecem visualizações atualizadas em todo o Marketo Engage, incluindo as Atividades de marketing e todos os recursos de relatório, bem como a visualização de dados que aparecem nas Atividades de marketing. Essa atualização é uma resposta ao Flash do Adobe que chegou ao fim da vida útil em 31 de dezembro de 2020.
 
 * **Atualizações das funções e permissões** do usuário: A permissão Importação de lista avançada será substituída na próxima versão para simplificar o gerenciamento de funções e permissões. As permissões existentes de Importação de Lista em Atividades de Marketing e Banco de Dados de Lead permitem as opções de importação de lista necessárias em suas respectivas áreas de aplicativo.
 
