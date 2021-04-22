@@ -1,25 +1,25 @@
 ---
 unique-page-id: 10095636
-description: Ativar o No-Draft para Snippets - Documentos do Marketing - Documentação do produto
+description: Ativar o Sem rascunho para trechos - Documentos do Marketo - Documentação do produto
 title: Ativar Sem rascunho para trechos
+exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-
 # Ativar Sem rascunho para trechos {#enable-no-draft-for-snippets}
 
-Sem rascunho para snippets permite que você distribua alterações de snippet sem redigir ativos aprovados usando-os. Todos os ativos que usam o snippet editado obtêm as atualizações e mantêm seus respectivos status:
+Sem rascunho para trechos permite distribuir alterações de trecho sem redigir ativos aprovados usando-o. Todos os ativos que usam o trecho editado obtêm as atualizações e mantêm seus respectivos status:
 
-* Os ativos aprovados obtêm atualizações de trecho e permanecem aprovados
+* Os ativos aprovados obtêm as atualizações de trecho e permanecem aprovados
 
-* Os rascunhos obtêm as atualizações de snippet e ficam no modo de rascunho
+* Os rascunhos obtêm as atualizações de trecho e permanecem no modo de rascunho
 
-No-Draft é ativado automaticamente para todas as funções de Administrador. Um administrador pode ativar esse recurso para qualquer função adicional.
+O Sem rascunho é ativado automaticamente para todas as funções de Administrador. Um administrador pode então habilitar esse recurso para qualquer função adicional.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ No-Draft é ativado automaticamente para todas as funções de Administrador. Um
 
    ![](assets/usersandroles.png)
 
-1. Vá para a guia **Funções**, selecione uma função e clique em **Editar função**.
+1. Vá para a guia **Funções**, selecione uma função e clique em **Editar Função**.
 
    ![](assets/editrole2.png)
 
@@ -37,11 +37,11 @@ No-Draft é ativado automaticamente para todas as funções de Administrador. Um
 
    ![](assets/expanddesignstudio.png)
 
-1. Expanda a opção **Snippet de acesso**.
+1. Expanda a opção **Acessar trecho** .
 
    ![](assets/expandsnippet.png)
 
-1. Expanda a permissão **Aprovar fragmento** e marque a caixa **No-Draft**. Em seguida, clique em **Salvar**.
+1. Expanda a permissão **Approve Snippet** e marque a caixa **No-Draft**. Em seguida, clique em **Save**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
