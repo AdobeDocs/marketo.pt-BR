@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356194
-description: Enviar uma lista para o Adobe Experience Cloud - Documentos do Marketo - Documentação do produto
+description: Enviar uma lista para o Adobe Experience Cloud - Marketo Docs - Documentação do produto
 title: Enviar uma lista para o Adobe Experience Cloud
+exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '787'
 ht-degree: 0%
 
 ---
-
 
 # Enviar uma lista para o Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
@@ -60,7 +60,7 @@ Uma lista estática é apenas isso, estática. Nenhuma alteração ocorrerá na 
 
 ## Como enviar uma lista sincronizada {#how-to-send-a-synced-list}
 
-Sincronizar uma lista significa que a qualquer momento que você atualizar uma lista no Marketo, essa alteração será sincronizada automaticamente com seu público-alvo no Adobe Experience Cloud.
+Sincronizar uma lista significa que a qualquer momento que você atualizar uma lista no Marketo, essa alteração é automaticamente sincronizada com seu público no Adobe Experience Cloud.
 
 1. No Marketo, localize e selecione a lista que deseja sincronizar.
 
@@ -106,7 +106,7 @@ Você pode impedir a sincronização da lista a qualquer momento.
 
 **Compartilhamento para o Adobe Analytics**
 
-Para clientes proprietários do Adobe Audience Manager e do Adobe Analytics, essa integração permitirá que os públicos-alvo sejam compartilhados do Marketo com seus Conjuntos de relatórios do Adobe Analytics, no entanto, há algumas etapas de configurações adicionais que precisam ser seguidas no Adobe Audience Manager para permitir isso. Consulte a documentação da Adobe Audience Manager para obter mais informações sobre como configurar isso: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Para clientes proprietários do Adobe Audience Manager e do Adobe Analytics, essa integração permitirá que os públicos-alvo sejam compartilhados do Marketo com seus Conjuntos de relatórios do Adobe Analytics, no entanto, há algumas etapas de configuração adicionais que precisam ser seguidas no Adobe Audience Manager para permitir isso. Consulte a documentação da Adobe Audience Manager para obter mais informações sobre como configurar isso: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Uso de características para clientes do Adobe Audience Manager**
 
@@ -114,17 +114,17 @@ Ao iniciar uma exportação de lista no Marketo, você observará as seguintes a
 
 * Para todos os Leads na Lista exportada, o Marketo gravará uma característica usando os emails com hash dos Leads como um Identificador entre dispositivos. O nome da característica corresponderá ao Nome de público-alvo de destino especificado durante a exportação.
 * Para todas as ECIDs que o Marketo conseguiu corresponder aos Leads na Lista exportada, o Marketo gravará uma característica usando o Identificador de dispositivo ECID. O nome da característica corresponderá ao Nome de público-alvo de destino especificado durante a exportação.
-* O Marketo também criará um segmento em sua Instância do Audience Manager usando a característica ECID como o único critério de segmentação. O nome do segmento corresponderá ao Nome de público-alvo de destino que você especificou durante a exportação.
+* O Marketo também criará um segmento em sua Instância do Audience Manager usando a característica da ECID como o único critério de segmentação. O nome do segmento corresponderá ao Nome de público-alvo de destino que você especificou durante a exportação.
 
 ## Perguntas frequentes {#faq}
 
-**Por que o tamanho da lista no Marketo é diferente do Adobe?**
+**Por que o tamanho da lista no Marketo é diferente do do Adobe?**
 
-Sob o capô, a integração de público-alvo funciona sincronizando os cookies do Marketo Munchkin com o cookie Adobe ECID correspondente. O Marketo só pode compartilhar dados de associação para clientes potenciais para os quais o Marketo sincronizou um ECID. Para obter os melhores resultados possíveis, é recomendável carregar o script de rastreamento do Marketo munchkin.js em paralelo com o código de rastreamento visitor.js do Adobe em todas as páginas que você está interessado em rastrear para fins de marketing.
+Sob o capô, a integração de público-alvo funciona sincronizando os cookies do Marketo Munchkin com o cookie Adobe ECID correspondente. A Marketo só pode compartilhar dados de associação para clientes potenciais para os quais a Marketo sincronizou uma ECID. Para obter os melhores resultados possíveis, é recomendável carregar o script de rastreamento munchkin.js do Marketo em paralelo com o código de rastreamento visitor.js do Adobe em todas as páginas que você está interessado em rastrear para fins de marketing.
 
 **Como a sincronização de cookies funciona?**
 
-Quando a sincronização de cookies estiver ativada para sua assinatura do Marketo, o munchkin.js do Marketo tentará capturar e armazenar Adobe ECIDs para a organização Adobe IMS especificada durante a configuração da integração e combinar essas ECIDs com o identificador de cookie do Marketo correspondente. Isso permite que os perfis de usuário anônimos do Marketo sejam enriquecidos com Adobe ECIDs.
+Quando a sincronização de cookies estiver ativada para a sua assinatura do Marketo, o munchkin.js da Marketo tentará capturar e armazenar as Adobe ECIDs para a organização Adobe IMS especificada durante a configuração da integração e corresponder essas ECIDs ao identificador de cookie do Marketo correspondente. Isso permite que perfis de usuário anônimos do Marketo sejam enriquecidos com Adobe ECIDs.
 
 É necessária uma nova etapa para associar o perfil de usuário anônimo a um Perfil de cliente potencial, que é identificado usando um email de texto simples. Exatamente como isso funciona é [descrito aqui](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
