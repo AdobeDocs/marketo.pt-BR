@@ -1,31 +1,31 @@
 ---
 unique-page-id: 6848922
-description: Download da solução de gerenciamento líder de marketing - documentos do Marketo - Documentação do produto
-title: Download da solução de gerenciamento líder de marketing
+description: Download da solução de gerenciamento de clientes potenciais da Marketo - Documentos da Marketo - Documentação do produto
+title: Baixe a solução de gerenciamento de clientes potenciais da Marketo
+exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
-# Baixe a solução de gerenciamento líder de marketing {#download-the-marketo-lead-management-solution}
+# Baixe a solução de gerenciamento de clientes potenciais da Marketo {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-Você precisará baixar e instalar uma Solução de marketing na sua conta do Microsoft Dynamics para iniciar a sincronização.
+Você precisará baixar e instalar uma Solução da Marketo em sua conta do Microsoft Dynamics para iniciar a sincronização.
 
 >[!CAUTION]
 >
->É imperativo que você faça o download da mais recente solução Marketing _antes de_ fazer qualquer atualização.
+>É fundamental que você baixe a solução Marketo mais recente _antes de_ executar qualquer atualização.
 
 >[!NOTE]
 >
->O Marketo suporta somente certificados SSL compatíveis com o Java 7 no momento.
+>O Marketo só oferece suporte a certificados SSL compatíveis com o Java 7 no momento.
 
 1. Vá para a área **Admin**.
 
@@ -39,12 +39,12 @@ Você precisará baixar e instalar uma Solução de marketing na sua conta do Mi
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. Selecione **Baixar solução de marketing**.
+1. Selecione **Baixar solução Marketo**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
-1. Selecione a solução apropriada para a sua versão do Microsoft Dynamics.
+1. Selecione a solução apropriada para sua versão do Microsoft Dynamics.
 
    ![](assets/msd-online-1.png)
 
-   Incrível! Um arquivo zip da solução será baixado para o dispositivo.
+   Ótimo! Um arquivo zip da solução será baixado para o dispositivo.
