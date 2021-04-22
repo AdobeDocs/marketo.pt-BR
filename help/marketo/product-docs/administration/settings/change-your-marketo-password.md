@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359916
-description: Mude a senha do seu marketing - Documentos do marketing - Documentação do produto
-title: Alterar a senha do seu comerciante
+description: Alterar sua senha do Marketo - Documentos do Marketo - Documentação do produto
+title: Alterar a senha do Marketo
+exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
-
-# Altere a senha do Marketing {#change-your-marketo-password}
+# Alterar a senha do Marketo {#change-your-marketo-password}
 
 Altere sua senha do Marketo com estas etapas simples.
 
@@ -23,12 +23,12 @@ Altere sua senha do Marketo com estas etapas simples.
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
-1. Digite a Senha antiga e a Nova Senha e clique em **Salvar** quando a nova senha atender a todos os requisitos.
+1. Digite a Senha antiga e a Nova Senha e clique em **Salvar** quando a nova senha se ajustar a todos os requisitos.
 
    ![](assets/image2014-9-10-9-3a44-3a2.png)
 
-   Mantenha segredo! Mantenha-o seguro!
+   Mantenha segredo! Mantenha seguro!
 
    >[!TIP]
    >
-   >Qual é uma boa senha? Algo longo com muitas letras, números e símbolos como &quot;M@rk3to !$ Gre@t&quot;. Exceto, não aquele. Seja criativo e faça o seu.
+   >O que é uma boa senha? Algo longo com muitas letras, números e símbolos como &quot;M@rk3to !$ Gre@t&quot;. Exceto, não aquele. Seja criativo e faça o seu.
