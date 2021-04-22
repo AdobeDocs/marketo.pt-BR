@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10100275
-description: Adicionar/Editar/Excluir campos de Atividade personalizados de marketing - Documentos de marketing - Documentação do produto
-title: Adicionar/editar/excluir campos de Atividade personalizados de marketing
+description: Adicionar/Editar/Excluir Campos De Atividade Personalizados Do Marketo - Documentos Do Marketo - Documentação Do Produto
+title: Adicionar/editar/excluir campos de atividade personalizados do Marketo
+exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
+# Adicionar/editar/excluir campos de atividade personalizados do Marketo {#add-edit-delete-marketo-custom-activity-fields}
 
-# Adicionar/editar/excluir campos de Atividade personalizados de marketing {#add-edit-delete-marketo-custom-activity-fields}
+Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo de atividade personalizado. Veja como.
 
-Talvez seja necessário adicionar, alterar ou até mesmo eliminar um campo de atividade personalizado. Veja como.
+## Adicionar um campo de atividade personalizado {#add-a-custom-activity-field}
 
-## Adicionar um campo de Atividade personalizado {#add-a-custom-activity-field}
-
-1. Em Atividades personalizadas de marketing, clique em **Campos**.
+1. Em Atividades Personalizadas do Marketo, clique em **Campos**.
 
    ![](assets/one-3.png)
 
@@ -35,17 +35,17 @@ Talvez seja necessário adicionar, alterar ou até mesmo eliminar um campo de at
 
    >[!TIP]
    >
-   >Não tem certeza do que selecionar? Nós te cobrimos! Todos os tipos de dados disponíveis estão definidos em [este artigo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Não tem certeza do que selecionar? Nós te cobrimos! Todos os tipos de dados disponíveis são definidos em [this article](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Nomeie o campo. O Nome da Api é preenchido automaticamente. Quando terminar, clique em **Salvar**.
+1. Nomeie o campo. O Nome Da Api É preenchido automaticamente. Quando terminar, clique em **Salvar**.
 
    ![](assets/five-3.png)
 
-   É isso! Seu novo campo foi adicionado.
+   Pronto! O novo campo foi adicionado.
 
-## Editar um campo de Atividade personalizado {#edit-a-custom-activity-field}
+## Editar um campo de atividade personalizado {#edit-a-custom-activity-field}
 
-1. Em Atividades personalizadas de marketing, clique em **Campos**.
+1. Em Atividades Personalizadas do Marketo, clique em **Campos**.
 
    ![](assets/one-3.png)
 
@@ -53,7 +53,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo eliminar um campo de at
 
    ![](assets/seven.png)
 
-1. Selecione o campo que deseja editar, clique no menu suspenso **Ações de campo** e selecione **Editar campo**.
+1. Selecione o campo que deseja editar, clique no menu suspenso **Field Actions** e selecione **Edit Field**.
 
    ![](assets/eight.png)
 
@@ -61,7 +61,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo eliminar um campo de at
 
    ![](assets/nine.png)
 
-1. Digite o novo Nome e Nome da Api e clique em **Salvar**.
+1. Insira o novo Nome e Nome da Api e clique em **Salvar**.
 
    ![](assets/ten.png)
 
@@ -71,17 +71,17 @@ Talvez seja necessário adicionar, alterar ou até mesmo eliminar um campo de at
 
    >[!CAUTION]
    >
-   >Você só poderá editar o Nome da Api ou alterar o campo para Principal se a atividade personalizada nunca tiver sido publicada. Se a atividade já tiver sido publicada, você só poderá editar o nome do campo e a descrição opcional.
+   >Você só poderá editar o Nome da Api ou alterar o campo para Primário se a atividade personalizada nunca tiver sido publicada. Se a atividade já tiver sido publicada, você só poderá editar o nome do campo e a descrição opcional.
 
    >[!NOTE]
    >
-   >Se você quiser alterar qual campo é Primário, desmarque primeiro o campo existente.
+   >Se quiser alterar qual campo é Primário, primeiro desmarque o existente.
 
-Seu campo agora é editado!
+Seu campo foi editado!
 
-## Excluir um campo de Atividade personalizado {#delete-a-custom-activity-field}
+## Excluir um campo de atividade personalizado {#delete-a-custom-activity-field}
 
-1. Em Atividades personalizadas de marketing, clique em **Campos**.
+1. Em Atividades Personalizadas do Marketo, clique em **Campos**.
 
    ![](assets/one-3.png)
 
@@ -89,7 +89,7 @@ Seu campo agora é editado!
 
    ![](assets/twelve.png)
 
-1. Selecione o campo que deseja excluir, clique no menu suspenso **Ações de campo** e selecione **Excluir campo**.
+1. Selecione o campo que deseja excluir, clique no menu suspenso **Field Actions** e selecione **Delete Field**.
 
    ![](assets/thirteen.png)
 
