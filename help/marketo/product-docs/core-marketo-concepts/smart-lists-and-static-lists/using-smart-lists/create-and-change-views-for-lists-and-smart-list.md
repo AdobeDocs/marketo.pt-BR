@@ -1,27 +1,27 @@
 ---
 unique-page-id: 557337
-description: Criar e alterar Visualizações para Listas e Listas inteligentes - Documentos de marketing - Documentação do produto
-title: Criar e alterar Visualizações para Listas e Listas inteligentes
+description: Criar e alterar exibições para listas e Smart List - Documentos do Marketo - Documentação do produto
+title: Criar e alterar visualizações de listas e Smart List
+exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
+# Criar e alterar exibições para listas e Smart List {#create-and-change-views-for-lists-and-smart-list}
 
-# Criar e alterar Visualizações para Lista e Lista inteligente {#create-and-change-views-for-lists-and-smart-list}
+Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que podia editar essas colunas no conteúdo do seu coração? Veja como.
 
-Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que poderia editar essas colunas no conteúdo do seu coração? Veja como.
+## Criar uma Exibição {#create-a-view}
 
-## Criar uma Visualização {#create-a-view}
-
-1. Vá para uma lista ou lista inteligente, clique na guia **Pessoas** e clique em **Criar** **Visualização** no menu suspenso **Visualização**.
+1. Vá para uma lista ou lista inteligente, clique na guia **People** e clique em **Create** **View** no menu suspenso **View**.
 
    ![](assets/smartlist-createview.png)
 
-1. Nomeie a visualização e localize a coluna que deseja adicionar ou remover.
+1. Nomeie a exibição e localize a coluna que deseja adicionar ou remover.
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
@@ -33,19 +33,19 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que pode
 >
 >Para pesquisar rapidamente, use a caixa **Localizar**.
 
-## Alternar Visualizações {#switch-views}
+## Alternar Exibições {#switch-views}
 
-1. Clique no menu suspenso **Visualização** e selecione a visualização desejada. Alterne entre o visualização conforme necessário.
+1. Clique no menu suspenso **View** e selecione a exibição desejada. Alterne entre exibições conforme necessário.
 
    ![](assets/smartlist-customviewchoose.png)
 
 >[!NOTE]
 >
-> É necessário criar uma segunda visualização, além da visualização padrão, para alternar entre as visualizações.
+> Primeiro, você deve criar uma segunda visualização, além da exibição padrão, para alternar entre as exibições.
 
-## Editar uma Visualização {#edit-a-view}
+## Editar uma Exibição {#edit-a-view}
 
-1. Certifique-se de que a visualização que deseja editar esteja selecionada no menu suspenso **Visualização**.
+1. Certifique-se de que a exibição que deseja editar esteja selecionada na lista suspensa **View**.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -53,13 +53,13 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que pode
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Faça as alterações desejadas e clique em **Salvar**.
+1. Faça as alterações desejadas e clique em **Save**.
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-## Excluir uma Visualização {#delete-a-view}
+## Excluir uma Exibição {#delete-a-view}
 
-1. Selecione a opção **Editar** para a visualização que deseja excluir do menu suspenso **Visualização**.
+1. Selecione a opção **Edit** para a exibição que deseja excluir do menu suspenso **View**.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -67,10 +67,10 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que pode
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
-Somente você pode ver as visualizações personalizadas que você cria no menu suspenso Visualização, portanto, diga aos seus amigos que eles precisam criar seus próprios!
+Somente você pode ver as exibições personalizadas criadas na lista suspensa Exibição , portanto, informe aos amigos que eles precisam criar as suas próprias!
 
 >[!MORELIKETHIS]
 >
->* [Usar Listas integradas/inteligentes do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
->* [Criar uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Usar Smart Lists integradas/do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
