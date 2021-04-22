@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949226
-description: SEO - Compreensão de links de entrada - Documentos do Marketing - Documentação do produto
-title: SEO - Compreensão dos links de entrada
+description: SEO - Noções básicas sobre links de entrada - Documentos do Marketo - Documentação do produto
+title: SEO - Noções básicas sobre links de entrada
+exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# SEO - Noções básicas sobre links de entrada {#seo-understanding-inbound-links}
 
-# SEO - Compreensão dos links de entrada {#seo-understanding-inbound-links}
-
-Os links de entrada indicam aos mecanismos de pesquisa que seu site merece referência. Isso é bom!
+Links de entrada indicam para mecanismos de pesquisa que seu site vale a pena referenciar. Isso é bom!
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
@@ -21,15 +21,15 @@ Os links de entrada indicam aos mecanismos de pesquisa que seu site merece refer
 
 | Título da coluna | Descrição |
 |---|---|
-| URL do link de entrada | A página Web em questão. |
-| Prioridade | Como essa oportunidade é valiosa para sua classificação de página. |
-| Links para o concorrente | Se um concorrente está vinculado a esse URL. |
-| Links para o meu site | Se o site está vinculado a esse URL. |
-| Links do meu site | Indica se o site está vinculado a esse URL. |
-| PageRank | Identifica a classificação de página dos URLs na pesquisa (1 - 10) |
+| URL do link de entrada | A página da Web em questão. |
+| Prioridade | A importância desta oportunidade para a classificação da sua página. |
+| Links para concorrente | Se um concorrente está vinculado a esse URL. |
+| Links para o meu site | Se o site está vinculado a nesse URL. |
+| Links do meu site | Indica se o site se vincula a esse URL. |
+| PageRank | Identifica a classificação de página de URLs na pesquisa (1 - 10) |
 
-Doce! Agora que você entende os links de entrada, podemos sugerir mais oportunidades de links de entrada para o seu site.
+Doce! Agora que você compreende os links de entrada, podemos sugerir mais oportunidades de link de entrada para seu site.
 
 >[!MORELIKETHIS]
 >
->[Obter sugestões de links de entrada](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
+>[Obter sugestões de link de entrada](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
