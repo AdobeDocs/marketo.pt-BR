@@ -2,14 +2,14 @@
 unique-page-id: 1147114
 description: Tokens de campo personalizado do membro do programa - Documentos do Marketo - Documentação do produto
 title: Tokens de campo personalizado do membro do programa
+exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 translation-type: tm+mt
-source-git-commit: 35e8b41574ebf8aafa27a59440c8ea9cb6413d50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '439'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Tokens de campo personalizados do membro do programa {#program-member-custom-field-tokens}
 
@@ -32,7 +32,7 @@ Tokens de Membro são usados para campos do escopo do Membro do Programa. A part
 
 Você pode inserir tokens de campos personalizados de membros do programa em emails, páginas de aterrissagem, SMS, notificações por push e Webhooks.
 
-**Emails**
+**E-mails**
 
 1. Selecione o email desejado e clique em **Editar rascunho**.
 
@@ -54,7 +54,7 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 >
 >Não se esqueça de aprovar seu email.
 
-**Páginas de aterrissagem**
+**páginas**
 
 1. Selecione a Landing Page e clique em **Editar rascunho**.
 
