@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504744
-description: Instale o Marketo para Dynamics 2015 no local e 2016 365 no local etapa 3 de 3 - Documentos do Marketo - Documentação do produto
+description: Instale o Marketo para Dynamics 2015 no local e 2016 365 no local etapa 3 de 3 - Documentação da Marketo - Documentação do produto
 title: Instale o Marketo para Dynamics 2015 no local e 2016 365 no local Etapa 3 de 3
+exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '389'
+ht-degree: 1%
 
 ---
-
 
 # Etapa 3 de 3: Conecte o Marketo Dynamics (2015 no local e 2016 365 no local) {#step-of-connect-marketo-dynamics-on-premises-and-365}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* Se o seu Marketo foi provisionado antes de outubro de 2020, a ID do cliente e o Segredo são campos opcionais. Caso contrário, são obrigatórias. A obtenção dessas informações dependerá da versão do MSD que você estiver usando.
+   >* Se sua Marketo foi provisionada antes de outubro de 2020, a ID do cliente e o Segredo são campos opcionais. Caso contrário, são obrigatórias. A obtenção dessas informações dependerá da versão do MSD que você estiver usando.
    >* O Nome de usuário no Marketo deve corresponder ao Nome de usuário para o usuário de sincronização no CRM. O formato pode ser `user@domain.com` ou DOMÍNIO\usuário.
    >* Se você não souber o URL, [saiba como encontrá-lo aqui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    >
    >Não sabe o URL? Mostraremos como encontrar seu [URL do Serviço de Organização do Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) aqui.
 
-## Selecionar Campos para Sincronizar {#select-fields-to-sync}
+## Selecionar campos para a sincronização {#select-fields-to-sync}
 
 1. Clique em **Editar** em **Etapa 2: Selecione Fields to Sync**.
 
@@ -90,7 +90,7 @@ Se você criou um filtro personalizado, acesse e selecione os novos campos a ser
 
    ![](assets/image2016-8-25-15-3a15-3a35.png)
 
-## Habilitar Sincronização {#enable-sync}
+## Ativar sincronização {#enable-sync}
 
 1. Clique em **Editar** em **Etapa 3: Habilite Sync**.
 
@@ -98,7 +98,7 @@ Se você criou um filtro personalizado, acesse e selecione os novos campos a ser
 
    >[!CAUTION]
    >
-   >O Marketo não desduplica automaticamente em relação a uma sincronização do Microsoft Dynamics ou quando você insere pessoas manualmente.
+   >O Marketo não removerá automaticamente a duplicação em relação a uma sincronização do Microsoft Dynamics ou quando você inserir pessoas manualmente.
 
 1. Leia tudo na janela pop-up , insira seu email e clique em **Iniciar Sincronização**.
 
