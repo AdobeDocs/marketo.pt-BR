@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095453
-description: Editar e excluir campos de objeto personalizado de marketing - documentos de marketing - documentação do produto
-title: Editar e excluir campos de objetos personalizados de marketing
+description: Editar e excluir campos de objeto personalizados do Marketo - Documentos do Marketo - Documentação do produto
+title: Editar e excluir campos de objeto personalizados do Marketo
+exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-
-# Editar e excluir campos de objetos personalizados de marketing {#edit-and-delete-marketo-custom-object-fields}
+# Editar e excluir campos de objeto personalizados do Marketo {#edit-and-delete-marketo-custom-object-fields}
 
 ## Editar um campo {#edit-a-field}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
    ![](assets/image2015-10-2-10-3a55-3a1.png)
 
-1. Na guia Campos, clique em **Ações de campo** e **Editar campo**.
+1. Na guia Campos, clique em **Ações de campo** e em **Editar campo**.
 
    ![](assets/image2015-10-2-10-3a53-3a26.png)
 
-1. Faça as alterações e clique em **Salvar**.
+1. Faça as alterações e clique em **Save**.
 
    ![](assets/image2015-10-2-10-3a58-3a56.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## Excluir um campo {#delete-a-field}
 
-Quando você não precisa mais de um campo em um objeto personalizado, é possível excluí-lo.
+Quando não precisar mais de um campo em um objeto personalizado, é possível excluí-lo.
 
 1. Na guia Campos, clique em **Ações de campo** e **Excluir campo**.
 
@@ -55,4 +55,4 @@ Quando você não precisa mais de um campo em um objeto personalizado, é possí
 
    >[!NOTE]
    >
-   >[Adicionar campos de objeto personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+   >[Adicionar campos de objeto personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
