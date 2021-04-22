@@ -1,40 +1,40 @@
 ---
 unique-page-id: 1147055
-description: Ações de campanha - Excluir uma Campanha inteligente - Documentos de marketing - Documentação do produto
-title: Ações de campanha - Excluir uma Campanha inteligente
+description: Ações da campanha - Excluir uma campanha inteligente - Documentos do Marketo - Documentação do produto
+title: Ações da campanha - Excluir uma campanha inteligente
+exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Ações da campanha: Excluir uma campanha inteligente {#campaign-actions-delete-a-smart-campaign}
 
-# Ações de campanha: Excluir uma Campanha inteligente {#campaign-actions-delete-a-smart-campaign}
-
-Se você tiver uma campanha inteligente antiga que não precisa mais, você pode excluí-la. Veja como.
+Se você tiver uma campanha inteligente antiga que não precisa mais, poderá excluí-la. Veja como.
 
 >[!CAUTION]
 >
->Certifique-se antes de excluir. Depois de excluir uma campanha inteligente, ela não poderá ser restaurada.
+>Certifique-se de excluir antes de excluir o . Após excluir uma campanha inteligente, ela não poderá ser restaurada.
 
-1. Vá para a área **Atividades de marketing**.
+1. Vá para a área **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Navegue até sua campanha inteligente inativa. Em **Campanha** **Ações**, clique em **Eliminar**.
+1. Navegue até sua campanha inteligente inativa. Em **Campanha** **Ações**, clique em **Excluir**.
 
    >[!TIP]
    >
-   >Para cancelar o processamento de uma campanha inteligente ativa sem excluí-la completamente, aprenda a [abortar uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   >Para cancelar o processamento de uma campanha inteligente ativa sem excluí-la completamente, saiba como [abortar uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
-1. Clique em **Excluir** para confirmar.
+1. Clique em **Delete** para confirmar.
 
    ![](assets/image2014-9-22-16-3a41-3a59.png)
 
    >[!CAUTION]
    >
-   >Não exclua **NOT** uma campanha inteligente ativa com pessoas nas etapas de fluxo. A campanha provavelmente ainda será executada.
+   >Do **NOT** exclua uma campanha inteligente ativa com pessoas nas etapas do fluxo. A campanha provavelmente ainda será executada.
