@@ -2,14 +2,14 @@
 unique-page-id: 37355569
 description: Campos personalizados do membro do programa - Documentos do Marketo - Documentação do produto
 title: Campos personalizados do membro do programa
+exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '382'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Campos personalizados do membro do programa {#program-member-custom-fields}
 
@@ -56,7 +56,7 @@ Os campos personalizados Membro do programa permitem coletar dados específicos 
 | Empresa | O nome da empresa associada à pessoa. |
 | Oportunidade | Uma oportunidade pode ser associada a uma pessoa ou conta como uma possível venda futura. Normalmente, eles entram no Marketo por meio de um CRM ou por meio de uma API. |
 | Pessoa | Um indivíduo no banco de dados do Marketo com o qual você está se relacionando por meio de campanhas de marketing. |
-| Membro do programa | Pessoa que também é membro de um programa |
+| Membro de programa | Pessoa que também é membro de um programa |
 
 ## Acionadores e filtros {#triggers-and-filters}
 
