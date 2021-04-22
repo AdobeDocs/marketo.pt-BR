@@ -2,18 +2,18 @@
 unique-page-id: 2360337
 description: Criar e usar um campo de string concatenada (fórmula) - Documentos do Marketo - Documentação do produto
 title: Criar e usar um campo de string concatenada (fórmula)
+exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 translation-type: tm+mt
-source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # Criar e usar um campo de string concatenada (fórmula) {#create-and-use-a-concatenated-string-formula-field}
 
-É possível combinar valores de vários campos ou criar um valor condicional usando um campo Fórmula do Marketo.
+É possível combinar valores de vários campos ou criar um valor condicional usando um campo Fórmula do Marketo .
 
 1. Vá para **Admin** e clique em **Gerenciamento de Campo**.
 
