@@ -1,29 +1,29 @@
 ---
 unique-page-id: 10097447
-description: Painel do banco de dados - Documentos do Marketo - Documentação do produto
-title: Painel do banco de dados
+description: Painel do Banco de Dados - Documentos do Marketo - Documentação do Produto
+title: Painel de banco de dados
+exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
+# Painel do Banco de Dados {#database-dashboard}
 
-# Painel de banco de dados {#database-dashboard}
-
-O Painel de Banco de Dados serve como um instantâneo para ajudá-lo a determinar rapidamente os principais atributos sobre suas pessoas em um espaço de trabalho.
+O Painel do Banco de Dados serve como um instantâneo para ajudá-lo a determinar rapidamente os principais atributos sobre suas pessoas em um espaço de trabalho.
 
 >[!NOTE]
 >
 >Cada espaço de trabalho tem seu próprio Banco de Dados.
 
-Para chegar lá, você pode clicar no bloco **Banco de Dados** em sua tela inicial...
+Para chegar lá, você pode clicar no bloco **Database** em sua tela inicial...
 
 ![](assets/db-3.png)
 
-Ou clique no logotipo do Marketo e selecione **Banco de Dados**.
+Ou clique no logotipo do Marketo e selecione **Database**.
 
 ![](assets/db2.png)
 
@@ -33,6 +33,6 @@ Os gráficos indicam o número total de pessoas, o número de pessoas comerciali
 
 >[!TIP]
 >
->Quer obter informações mais específicas ou atualizadas sobre o seu pessoal? Experimente um [Relatório de desempenho de pessoas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>Deseja obter informações mais específicas ou oportunas sobre seu pessoal? Tente um [Relatório de desempenho de pessoas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Total de pessoas:** o número de pessoas que trabalham a tempo inteiro para esse espaço de trabalho.  **Pessoas comercializáveis:** O número de pessoas que trabalham o tempo todo no espaço de trabalho,  _menos o seguinte_: pessoas sem um endereço de e-mail, pessoas cujo e-mail retornou, pessoas que estão incluir na lista de bloqueios, pessoas que cancelaram a inscrição, pessoas que estão definidas como Suspensas de Marketing.
+**Total de pessoas:** o número de pessoas que passaram o tempo para esse espaço de trabalho.  **Pessoas comercializáveis:** o número de pessoas que passam o tempo todo no espaço de trabalho,  _menos o seguinte_: pessoas sem um endereço de email, pessoas cujo email foi retornado, pessoas que foram incluir na lista de bloqueios, pessoas que cancelaram a assinatura, pessoas atualmente definidas como Marketing Suspenso.
