@@ -1,27 +1,27 @@
 ---
 unique-page-id: 8783561
-description: Envio de uma amostra - Documentos do Marketing - Documentação do produto
+description: Envio de uma amostra - Documentos do Marketo - Documentação do produto
 title: Envio de uma amostra
+exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
 # Envio de uma amostra {#sending-a-sample}
 
-Você pode compartilhar uma amostra de um momento de email diretamente com alguém. Há duas maneiras de fazer isso.
+Você pode compartilhar uma amostra de um momento de email diretamente com alguém. Há duas maneiras de fazê-lo.
 
 ## O caminho regular {#the-regular-way}
 
-1. Abra o menu do cartão.
+1. Abra o menu Cartão.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Toque em **Enviar amostra**.
+1. Toque em **Enviar Amostra**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
@@ -31,7 +31,7 @@ Você pode compartilhar uma amostra de um momento de email diretamente com algu�
 
 ## O caminho rápido {#the-quick-way}
 
-1. Toque no ícone de avião em papel na tela Pré-visualização de e-mail para enviar uma amostra diretamente da pré-visualização.
+1. Toque no ícone de avião de papel na tela Visualização de email para enviar uma amostra diretamente da visualização.
 
    ![](assets/image2015-9-25-10-3a28-3a47.png)
 
