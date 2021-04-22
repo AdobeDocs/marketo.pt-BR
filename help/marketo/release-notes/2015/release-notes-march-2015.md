@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6095037
-description: Notas de versão - março de 2015 - Documentos do Marketo - Documentação do produto
+description: Notas de versão - março de 2015 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - março de 2015
+exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 0%
+ht-degree: 20%
 
 ---
 
-
 # Notas de versão: Março de 2015 {#release-notes-march}
 
-Os seguintes recursos estão incluídos na versão de março de 2015. Verifique seu Marketo Edition para ver a disponibilidade dos recursos. Após o lançamento, volte para encontrar links para artigos detalhados de cada recurso.
+Os seguintes recursos estão incluídos na versão de março de 2015. Verifique sua Marketo Edition para ver a disponibilidade dos recursos. Após o lançamento, volte para encontrar links para artigos detalhados de cada recurso.
 
 ## Calendário HD {#calendar-hd}
 
@@ -25,15 +25,15 @@ Exiba as atividades de marketing de sua equipe com o novo modo de apresentação
 
 ![](assets/image2015-3-23-11-3a39-3a15.png)
 
-## Integração do Google AdWords {#google-adwords-integration}
+## Integração ao Google AdWords {#google-adwords-integration}
 
 Vincule sua conta do [Google AdWords ao Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) para fazer upload automático de dados de conversão offline do Marketo para o Google AdWords. Em seguida, na interface do usuário do AdWords, você poderá ver facilmente quais cliques resultaram em leads qualificados, oportunidades e novos clientes (ou quais são os estágios de receita que deseja rastrear).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
-## Redesign do explorador de receita {#revenue-explorer-redesign}
+## Repaginação do Revenue Explorer {#revenue-explorer-redesign}
 
-O Revenue Explorer tem uma aparência e comportamento novíssimos, bem como o novo tipo de gráfico em forma de raio de sol! Estaremos lançando isso nas primeiras duas semanas de abril.
+O novo visual do Revenue Explorer inclui também um novo tipo de gráfico, o Sunburst! A implementação será realizada nas duas primeiras semanas de abril.
 
 ## Novas APIs REST de ativos {#new-asset-rest-apis}
 
@@ -47,10 +47,10 @@ Suportado com o instalador mais recente agora [acessível através do aplicativo
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
-## RTP - Engajamento personalizado na Web com dados de cliente potencial {#rtp-personalized-web-engagement-with-lead-data}
+## RTP - Envolvimento personalizado na Web com dados de leads {#rtp-personalized-web-engagement-with-lead-data}
 
-Aproveite os [campos de dados de lead](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) que você possui em seu banco de dados do Marketo para criar campanhas de segmentação e conteúdo personalizado em tempo real. Gerencie os campos de dados de lead na RTP e adicione/exclua campos de lead relevantes.
+Aproveite os [campos de dados de lead](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) que você possui em seu banco de dados de lead do Marketo para criar campanhas de segmentação e conteúdo personalizado em tempo real. Gerencie os campos de dados de lead na RTP e adicione/exclua campos de lead relevantes.
 
-## RTP - Personalizar conteúdo da Web por email ou Nome da campanha do programa {#rtp-personalize-web-content-by-email-or-program-campaign-name}
+## RTP - Personalize o conteúdo on-line por nome de campanha de programa ou e-mail {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Continue a conversa com seu cliente potencial em todos os canais, de email para Web. [Personalize o conteúdo de entrada com base na campanha de email ou ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) nome de programa usado nas atividades de marketing do Marketo.
+Continue a conversa com seu cliente potencial em todos os canais, de email para Web. [Personalize o conteúdo de entrada com base na campanha de email ou no ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) nome do programa usado nas Atividades de marketing do Marketo.
