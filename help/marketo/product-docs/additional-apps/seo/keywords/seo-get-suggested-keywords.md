@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949202
-description: SEO - Obter palavras-chave sugeridas - Documentos do Marketing - Documentação do produto
+description: SEO - Obter palavras-chave sugeridas - Documentos do Marketo - Documentação do produto
 title: SEO - Obter palavras-chave sugeridas
+exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # SEO - Obter palavras-chave sugeridas {#seo-get-suggested-keywords}
 
-A SEO do Marketo pode sugerir quais palavras-chave você deve estar rastreando. Podemos fornecer sugestões com base em uma palavra-chave ou URL de um site. Dê uma chance!
+A SEO do Marketo pode sugerir quais palavras-chave você deve rastrear. Podemos dar sugestões com base em uma palavra-chave ou URL de um site. Dê uma chance!
 
 ## Obter sugestões de palavra-chave usando uma palavra-chave {#get-keyword-suggestions-using-a-keyword}
 
@@ -25,15 +25,15 @@ A SEO do Marketo pode sugerir quais palavras-chave você deve estar rastreando. 
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Digite uma **Palavra-chave**. Clique em **Sugerir palavras-chave**.
+1. Insira um **Palavra-chave**. Clique em **Sugerir Palavras-Chave**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Você sabia que pode [adicionar sua palavra-chave a uma lista nova ou existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) aqui?
+   >Você sabia que pode [adicionar sua palavra-chave a uma lista nova ou existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) exatamente aqui?
 
-1. Selecione a(s) palavra(s)-chave sugerida(s). Clique em **Adicionar selecionados**.
+1. Selecione palavras-chave sugeridas. Clique em **Adicionar Selecionado**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -53,19 +53,19 @@ A SEO do Marketo pode sugerir quais palavras-chave você deve estar rastreando. 
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Defina **Sugerir por** como **URL**.
+1. Defina **Sugerir por** para **URL**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Digite um **URL** e clique em **Sugerir palavras-chave**.
+1. Insira um **URL** e clique em **Sugerir Palavras-Chave**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Você sabia que pode [adicionar sua palavra-chave a uma lista nova ou existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) aqui?
+   >Você sabia que pode [adicionar sua palavra-chave a uma lista nova ou existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) exatamente aqui?
 
-1. Selecione a(s) palavra(s)-chave sugerida(s). Clique em **Adicionar selecionados**.
+1. Selecione palavras-chave sugeridas. Clique em **Adicionar Selecionado**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
@@ -73,10 +73,10 @@ A SEO do Marketo pode sugerir quais palavras-chave você deve estar rastreando. 
 
    ![](assets/image2014-9-18-11-3a8-3a25.png)
 
-   Ok, você está fazendo essa coisa. Continue!
+   Ok, você está fazendo isso. Continue!
 
    >[!MORELIKETHIS]
    >
-   >* [Como entender palavras-chave (Visualização resumida)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Adicionar/remover palavras-chave de uma Lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [Compreensão de palavras-chave (Visualização de resumo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Adicionar/remover palavras-chave de uma lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
