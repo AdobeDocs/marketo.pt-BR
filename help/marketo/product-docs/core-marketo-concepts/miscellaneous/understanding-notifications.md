@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2952292
-description: Noções Gerais de Notificações - Documentos do Marketing - Documentação do Produto
-title: Noções Gerais de Notificações
+description: Noções básicas sobre notificações - Documentação do Marketo - Documentação do produto
+title: Noções básicas das notificações
+exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Noções básicas das notificações {#understanding-notifications}
 
-# Noções Gerais de Notificações {#understanding-notifications}
-
-As notificações mantêm você atualizado sobre os eventos do sistema que ocorrem em sua subscrição de marketing. Por exemplo, as notificações de falha de Campanha informam sobre erros nas campanhas inteligentes e as notificações de sincronização do CRM alertam você para problemas críticos encontrados com a sincronização do CRM, como permissões incorretas ou a sincronização que está sendo desativada.
+As notificações mantêm você atualizado sobre os eventos do sistema que acontecem na sua assinatura do Marketo. Por exemplo, as notificações de falha de campanha informam você sobre erros em suas campanhas inteligentes e as notificações de sincronização de CRM alertam você sobre problemas críticos encontrados com a sincronização de CRM, como permissões incorretas ou a sincronização que está sendo desativada.
 
 ## Visão geral {#overview}
 
-1. Novas notificações são exibidas na parte superior direita de Marketo.
+1. Novas notificações são exibidas na parte superior direita do Marketo.
 
    ![](assets/image2014-10-10-11-3a32-3a48.png)
 
-1. Clique em Notificações para visualização todas as suas notificações.
+1. Clique em Notificações para exibir todas as suas notificações.
 
    ![](assets/image2014-10-10-11-3a55-3a44.png)
 
-## Inscrever-se em Notificações {#subscribe-to-notifications}
+## Inscrever-se em notificações {#subscribe-to-notifications}
 
 Você pode assinar notificações para recebê-las em seu email.
 
@@ -39,8 +39,8 @@ Você pode assinar notificações para recebê-las em seu email.
 
 >[!NOTE]
 >
->Em alguns casos, uma notificação fornece um link &quot;Ver a lista completa&quot; para baixar um arquivo CSV (valores separados por vírgula), por exemplo, o arquivo de Erros de Sincronização do Microsoft Dynamics. O Marketo retém esses arquivos CSV por 30 dias. Se você tentar baixar o arquivo após 30 dias, aparecerá um erro 404.
+>Em alguns casos, uma notificação fornece um link &quot;Ver a lista completa&quot; para baixar um arquivo CSV (valores separados por vírgula), por exemplo, o arquivo de Erros de Sincronização do Microsoft Dynamics. O Marketo mantém esses arquivos CSV por 30 dias. Se tentar baixar o arquivo após 30 dias, ocorrerá um erro 404.
 
 >[!TIP]
 >
->Deseja cancelar a inscrição de emails de notificação? Sem problemas. Basta clicar no link **cancelar a inscrição de Notificações** na parte inferior do email.
+>Deseja cancelar a assinatura dos emails de notificação? Sem problemas. Basta clicar no link **unsubscribe from Notifications** na parte inferior do email.
