@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359904
-description: Selecione seu idioma, localidade e fuso horário - Documentos do Marketing - Documentação do produto
-title: Selecione seu idioma, localidade e fuso horário
+description: Selecione seu idioma, local e fuso horário - Documentos do Marketo - Documentação do produto
+title: Selecione seu idioma, local e fuso horário
+exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
+# Selecione seu idioma, local e fuso horário {#select-your-language-locale-and-time-zone}
 
-# Selecione seu idioma, localidade e fuso horário {#select-your-language-locale-and-time-zone}
-
-Inglês não é sua primeira língua? Não se preocupe, nós estamos cobertos. Veja como mudar seu próprio idioma, localidade e fuso horário.
+Inglês não é a sua primeira língua? Não se preocupe, nós cobrimos você. Veja como alterar seu próprio idioma, localidade e fuso horário.
 
 ## Idiomas suportados {#supported-languages}
 
@@ -40,9 +40,9 @@ Inglês não é sua primeira língua? Não se preocupe, nós estamos cobertos. V
 
    >[!TIP]
    >
-   >Você também tem a opção de alterar apenas seu idioma clicando no menu suspenso do idioma na parte superior da página de logon.
+   >Você também tem a opção de alterar apenas seu idioma clicando no menu suspenso de idioma na parte superior da página de logon.
 
-1. Altere **Locale**.
+1. Altere seu **Locale**.
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
@@ -54,6 +54,6 @@ Inglês não é sua primeira língua? Não se preocupe, nós estamos cobertos. V
 
    ![](assets/image2014-9-9-11-3a11-3a18.png)
 
-Bom trabalho! Seu navegador será atualizado e você deverá ver as alterações refletidas.
+Excelente! Seu navegador será atualizado e você deverá ver as alterações refletidas.
 
 ![](assets/image2014-9-9-11-3a12-3a2.png)
