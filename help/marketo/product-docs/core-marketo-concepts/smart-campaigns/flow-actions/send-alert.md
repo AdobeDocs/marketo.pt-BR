@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146958
-description: Enviar alerta - Documentos do marketing - Documentação do produto
+description: Enviar alerta - Documentos do Marketo - Documentação do produto
 title: Enviar alerta
+exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Enviar alerta {#send-alert}
 
 ## Visão geral {#overview}
 
-O Marketo pode enviar um alerta por e-mail com informações pessoais para qualquer pessoa - o proprietário da venda, um parceiro ou outra pessoa. Use a etapa de fluxo **Enviar alerta**.
+A Marketo pode enviar um alerta por email com informações pessoais para qualquer pessoa - o proprietário das vendas, um parceiro ou outra pessoa. Use a etapa de fluxo **Enviar alerta** .
 
 ![](assets/one-1.png)
 
@@ -27,29 +27,29 @@ O Marketo pode enviar um alerta por e-mail com informações pessoais para qualq
 
    >[!NOTE]
    >
-   >Seu alerta de email deve conter todas as informações do cabeçalho e estar no estado **Aprovado**.
+   >Seu alerta de email deve conter todas as informações do cabeçalho e estar no estado **Approved**.
 
-1. Você pode clicar no ícone pré-visualização para garantir que selecionou o email correto.
+1. Você pode clicar no ícone de visualização para garantir que selecionou o email correto.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Certifique-se de usar o token **Enviar informações de alerta** no seu email.
+   >Certifique-se de usar o token **Enviar Informações do Alerta** em seu email.
 
-1. Selecione o recipient de alerta. Você pode selecionar Proprietário de Vendas ou Proprietário de Conta.
+1. Selecione o recipient do alerta. Você pode selecionar Proprietário de Vendas ou Proprietário da Conta.
 
    ![](assets/four-2.png)
 
-1. Como opção, adicione quaisquer outros endereços de email que desejar (separados por vírgula ou ponto-e-vírgula).
+1. Opcionalmente, adicione quaisquer outros endereços de email desejados (separados por vírgula ou ponto-e-vírgula).
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Nas campanhas de disparo, você pode usar tokens em **Para outros e-mails**, como `{{lead.Territory Owner}}` ou `{{my.Alert Recipient}}`, desde que os valores sejam endereços de e-mail válidos. Os tokens em **Para outros e-mails** não funcionarão em uma campanha em lote.
+   >Em campanhas acionadoras, você pode usar tokens em **Para outros emails**, como `{{lead.Territory Owner}}` ou `{{my.Alert Recipient}}`, desde que os valores sejam endereços de email válidos. Tokens em **Para Outros Emails** não funcionarão em uma campanha em lote.
 
-É isso! Agora você sabe como usar a etapa de fluxo **Enviar alerta**.
+Pronto! Agora você sabe como usar a etapa de fluxo **Enviar alerta** .
 
 >[!MORELIKETHIS]
 >
