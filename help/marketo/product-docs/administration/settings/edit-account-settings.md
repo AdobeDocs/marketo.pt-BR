@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719071
-description: Editar configurações da conta - Documentos do Marketo - Documentação do produto
-title: Editar configurações da conta
+description: Editar configurações da conta - Documentação do Marketo - Documentação do produto
+title: Editar configurações de conta
+exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
+# Editar configurações de conta {#edit-account-settings}
 
-# Editar configurações da conta {#edit-account-settings}
-
-Precisa alterar o endereço de email, o nome ou o número de telefone da conta? Saiba como abaixo.
+Precisa alterar o endereço de email, nome ou número de telefone da conta? Saiba como abaixo.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Precisa alterar o endereço de email, o nome ou o número de telefone da conta? 
 
    ![](assets/adminhand.png)
 
-1. Selecione **Minha conta**.
+1. Selecione **Minha Conta**.
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
@@ -31,7 +31,7 @@ Precisa alterar o endereço de email, o nome ou o número de telefone da conta? 
 
    ![](assets/image2015-6-23-15-3a21-3a41.png)
 
-1. Faça suas edições e clique em **Salvar**.
+1. Faça as edições e clique em **Save**.
 
    ![](assets/image2015-6-23-15-3a20-3a16.png)
 
