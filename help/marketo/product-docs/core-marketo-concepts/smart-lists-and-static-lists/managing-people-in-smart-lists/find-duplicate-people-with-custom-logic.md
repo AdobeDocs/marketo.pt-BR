@@ -2,18 +2,18 @@
 unique-page-id: 2952636
 description: Encontre pessoas duplicadas com lógica personalizada - Documentos do Marketo - Documentação do produto
 title: Localizar Pessoas Duplicadas com Lógica Personalizada
+exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
 # Encontrar Pessoas Duplicadas com Lógica Personalizada {#find-duplicate-people-with-custom-logic}
 
-O Marketo tem uma lista inteligente do sistema que encontra pessoas duplicadas ao corresponder seus endereços de email. Se quiser usar outro campo para encontrar duplicatas, veja como.
+O Marketo tem uma lista inteligente de sistema que encontra pessoas duplicadas ao corresponder seus endereços de email. Se quiser usar outro campo para encontrar duplicatas, veja como.
 
 >[!PREREQUISITES]
 >
@@ -33,7 +33,7 @@ O Marketo tem uma lista inteligente do sistema que encontra pessoas duplicadas a
 
 1. Escolha uma das quatro opções disponíveis:
 
-   * Endereço de email
+   * Endereço de e-mail
    * Nome completo
    * Sobrenome
    * Atualizado em
@@ -44,4 +44,4 @@ O Marketo tem uma lista inteligente do sistema que encontra pessoas duplicadas a
 
    ![](assets/four-2.png)
 
-   Concluído! Execute a lista inteligente para localizar pessoas com o mesmo valor no campo selecionado anteriormente.
+   Pronto! Execute a lista inteligente para localizar pessoas com o mesmo valor no campo selecionado anteriormente.
