@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100269
-description: Editar uma Atividade personalizada - Documentos de marketing - Documentação do produto
-title: Editar uma Atividade personalizada
+description: Editar uma atividade personalizada - Documentos do Marketo - Documentação do produto
+title: Editar uma atividade personalizada
+exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Editar uma Atividade personalizada {#edit-a-custom-activity}
+# Editar uma atividade personalizada {#edit-a-custom-activity}
 
 Precisa fazer alterações em uma atividade personalizada que você já criou? Veja como.
 
@@ -19,7 +19,7 @@ Precisa fazer alterações em uma atividade personalizada que você já criou? V
 
    ![](assets/one-1.png)
 
-1. Em **Gerenciamento de banco de dados**, clique em **Atividades personalizadas**.
+1. Em **Gerenciamento de Banco de Dados** clique em **Atividades Personalizadas**.
 
    ![](assets/two-1.png)
 
@@ -27,15 +27,15 @@ Precisa fazer alterações em uma atividade personalizada que você já criou? V
 
    ![](assets/three-1.png)
 
-1. Clique em **Ações de Atividade personalizadas** e selecione **Editar Atividade**.
+1. Clique em **Ações personalizadas de atividade** e selecione **Editar atividade**.
 
    ![](assets/four-1.png)
 
-   Edit Atividade Type (Editar tipo de ) é exibido. Neste exemplo estamos consertando um erro de digitação.
+   Editar tipo de atividade é exibido. Neste exemplo, estamos corrigindo um erro de digitação.
 
    ![](assets/five-1.png)
 
-1. Insira suas novas informações e clique em **Enviar**.
+1. Insira suas novas informações e clique em **Submit**.
 
    ![](assets/six-1.png)
 
@@ -43,4 +43,4 @@ Precisa fazer alterações em uma atividade personalizada que você já criou? V
 
    >[!NOTE]
    >
-   >Se a sua atividade foi um rascunho no momento da edição, ele permanece um rascunho. Se foi publicado, o status muda para Publicado com rascunho.
+   >Se sua atividade foi um rascunho no momento da edição, ela permanece um rascunho. Se foi publicado, o status muda para Publicado com rascunho.
