@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360323
-description: Editar uma partição de pessoa existente - Documentos de marketing - Documentação do produto
+description: Editar uma partição de pessoa existente - Documentos do Marketo - Documentação do produto
 title: Editar uma partição de pessoa existente
+exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
-
 
 # Editar uma partição de pessoa existente {#edit-an-existing-person-partition}
 
@@ -31,7 +31,7 @@ Uma partição de pessoa é como ter um segundo (ou terceiro) banco de dados. Um
 
    ![](assets/two-5.png)
 
-1. Insira a Partição de Pessoa **Nome**, os **Espaços de Trabalho** aos quais pertencem e clique em **Guardar**.
+1. Insira a Partição de Pessoa **Nome**, os **Espaços de Trabalho** a que pertencem e clique em **Salvar**.
 
    ![](assets/three-5.png)
 
@@ -39,7 +39,7 @@ Uma partição de pessoa é como ter um segundo (ou terceiro) banco de dados. Um
 
    ![](assets/four-4.png)
 
-É isso. Parece que um recurso tão poderoso deveria ser complexo, mas não é.
+Pronto. Parece que um recurso tão poderoso deve ser complexo, mas não é.
 
 >[!CAUTION]
 >
