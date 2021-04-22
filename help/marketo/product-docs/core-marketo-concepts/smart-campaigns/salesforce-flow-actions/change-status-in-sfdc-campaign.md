@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147029
-description: Alterar status na Campanha SFDC - Documentos do Marketing - Documentação do produto
-title: Alterar status na Campanha SFDC
+description: Alterar status na campanha SFDC - Documentos Marketo - Documentação do produto
+title: Alterar status de campanha da SFDC
+exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# Alterar status na Campanha SFDC {#change-status-in-sfdc-campaign}
+# Alterar status de campanha da SFDC {#change-status-in-sfdc-campaign}
 
 >[!NOTE]
 >
@@ -19,18 +19,18 @@ ht-degree: 0%
 
 ## Visão geral {#overview}
 
-Essa etapa de fluxo permite alterar o status do membro da campanha do Salesforce nos clientes potenciais.
+Essa etapa de fluxo permite alterar o status do membro da campanha do Salesforce dos leads.
 
-Se um cliente potencial ainda não existir no Salesforce ou não for membro da campanha, ele será automaticamente sincronizado e adicionado à campanha do Salesforce com o status apropriado.
+Se um lead ainda não existir no Salesforce ou não for membro da campanha, ele será automaticamente sincronizado e adicionado à campanha do Salesforce com o status apropriado.
 
 ![](assets/image2014-9-22-15-3a13-3a54.png)
 
 ## Uso {#usage}
 
-1. Primeiro, localize e selecione a Campanha **Salesforce** em que o registro está.
+1. Primeiro, localize e selecione o Salesforce **Campaign** em que o registro está.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Em seguida, selecione **Novo status** que deseja definir e pronto!
+1. Em seguida, selecione o **Novo Status** que deseja definir e você terminou!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
