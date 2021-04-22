@@ -2,18 +2,18 @@
 unique-page-id: 4720476
 description: Ícone Glossário - Documentos do Marketo - Documentação do produto
 title: Ícone Glossário
+exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '568'
-ht-degree: 0%
+ht-degree: 33%
 
 ---
 
-
 # Ícone Glossário {#icon-glossary}
 
-Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova interface do Marketo Engage, o glossário de ícones [pode ser encontrado aqui](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
+Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova interface do Marketo Engage, o glossário de ícones [pode ser encontrado aqui](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
 **Ícones gerais**
 
@@ -30,7 +30,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
   <tr> 
    <td> 
     <div> 
-     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Pasta</span></td> 
   </tr> 
@@ -95,7 +95,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
-   <td colspan="1">Acionador</td> 
+   <td colspan="1">Gatilho</td> 
   </tr> 
   <tr> 
    <td> 
@@ -116,14 +116,14 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-9-10-3a41-3a44.png"> 
     </div></td> 
-   <td>Ajuda</td> 
+   <td>Ajudar</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a47-3a12.png"> 
     </div></td> 
-   <td>Informações de assinatura</td> 
+   <td>Dados da assinatura</td> 
   </tr> 
   <tr> 
    <td> 
@@ -183,14 +183,14 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-8-16-3a30-3a56.png"> 
     </div></td> 
-   <td>Configurações de logon</td> 
+   <td>Configurações de login</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-16-3a34-3a53.png"> 
     </div></td> 
-   <td>Localização</td> 
+   <td>Local</td> 
   </tr> 
   <tr> 
    <td> 
@@ -204,7 +204,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-8-16-3a38-3a39.png"> 
     </div></td> 
-   <td>Email</td> 
+   <td>E-mail</td> 
   </tr> 
   <tr> 
    <td> 
@@ -239,14 +239,14 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-8-17-3a53-3a28.png"> 
     </div></td> 
-   <td>Insight de vendas</td> 
+   <td>Sales Insight</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a23-3a38.png"> 
     </div></td> 
-   <td>Páginas de aterrissagem</td> 
+   <td>Páginas</td> 
   </tr> 
   <tr> 
    <td> 
@@ -260,7 +260,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-8-18-3a26-3a58.png"> 
     </div></td> 
-   <td>Serviços Web</td> 
+   <td>Serviços da Web</td> 
   </tr> 
   <tr> 
    <td> 
@@ -295,7 +295,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-8-19-3a20-3a47.png"> 
     </div></td> 
-   <td>Treasure Chest</td> 
+   <td>Baú do tesouro</td> 
   </tr> 
   <tr> 
    <td> 
@@ -341,14 +341,14 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-9-11-3a24-3a42.png"> 
     </div></td> 
-   <td>Programa de importação</td> 
+   <td>Importar programa</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a28-3a3.png"> 
     </div></td> 
-   <td>Envolvimento na rede</td> 
+   <td>Envolvimento - Promoção</td> 
   </tr> 
   <tr> 
    <td> 
@@ -439,7 +439,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-9-14-3a25-3a43.png"> 
     </div></td> 
-   <td>Ação de fluxo</td> 
+   <td>Ação do fluxo</td> 
   </tr> 
   <tr> 
    <td> 
@@ -523,7 +523,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-9-14-3a53-3a0.png"> 
     </div></td> 
-   <td>Código incorporado</td> 
+   <td>Incorporar código</td> 
   </tr> 
   <tr> 
    <td> 
@@ -656,7 +656,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a49.png"> 
     </div></td> 
-   <td colspan="1">Enviar exemplo</td> 
+   <td colspan="1">Envia exemplo</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -677,7 +677,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-14-13-3a4-3a16.png"> 
     </div></td> 
-   <td colspan="1">Ferramentas de capacidade de entrega</td> 
+   <td colspan="1">Ferramentas de entregabilidade</td> 
   </tr> 
  </tbody> 
 </table>
@@ -695,7 +695,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-5-12-3a31-3a47.png"> 
     </div></td> 
-   <td>Página de aterrissagem. Ações da página de aterrissagem</td> 
+   <td>Página. Ações da página</td> 
   </tr> 
   <tr> 
    <td> 
@@ -737,14 +737,14 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-12-11-3a7-3a6.png"> 
     </div></td> 
-   <td>Clonar página de aterrissagem</td> 
+   <td>Clonar página</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a8-3a54.png"> 
     </div></td> 
-   <td>Excluir página de aterrissagem</td> 
+   <td>Excluir página</td> 
   </tr> 
   <tr> 
    <td> 
@@ -765,7 +765,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-12-11-3a15-3a18.png"> 
     </div></td> 
-   <td>Ativar URLs personalizados</td> 
+   <td>Habilitar URLs personalizadas</td> 
   </tr> 
   <tr> 
    <td> 
@@ -863,7 +863,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a53.png"> 
     </div></td> 
-   <td colspan="1">Fazer upload de imagem ou arquivo</td> 
+   <td colspan="1">Carregar imagem ou arquivo</td> 
   </tr> 
  </tbody> 
 </table>
@@ -881,7 +881,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-9-9-3a50-3a24.png"> 
     </div></td> 
-   <td>Modelo do ciclo de receita</td> 
+   <td>Modelo de ciclo de receita</td> 
   </tr> 
   <tr> 
    <td> 
@@ -909,7 +909,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a23.png"> 
     </div></td> 
-   <td>Ações de Relatório</td> 
+   <td>Ações do relatório</td> 
   </tr> 
   <tr> 
    <td> 
@@ -923,7 +923,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-9-12-3a56-3a29.png"> 
     </div></td> 
-   <td>Nova assinatura de relatório</td> 
+   <td>Nova inscrição em relatório</td> 
   </tr> 
   <tr> 
    <td> 
@@ -958,7 +958,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-9-13-3a36-3a11.png"> 
     </div></td> 
-   <td>Recolher Tudo</td> 
+   <td>Recolher tudo</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1071,7 +1071,7 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-5-16-3a10-3a6.png"> 
     </div></td> 
-   <td>Editar Regras de Qualificação</td> 
+   <td>Editar regras de qualificação</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1205,4 +1205,3 @@ Abaixo estão os ícones do Marketo Classic. Se você foi alternado para a nova 
   </tr> 
  </tbody> 
 </table>
-
