@@ -1,45 +1,45 @@
 ---
 unique-page-id: 2359909
-description: Gerenciamento de funções e permissões do usuário - Documentos do marketing - Documentação do produto
+description: Gerenciamento de funções e permissões do usuário - Documentos do Marketo - Documentação do produto
 title: Gerenciando funções e permissões do usuário
+exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
+# Gerenciando funções de usuário e permissões {#managing-user-roles-and-permissions}
 
-# Gerenciando Funções e Permissões do Usuário {#managing-user-roles-and-permissions}
+Defina, crie e edite funções de usuário e as atribua a usuários. Isso permite controlar as áreas e a funcionalidade às quais cada usuário do Marketo tem acesso.
 
-Defina, crie e edite funções de usuário e as atribua a usuários. Isso permite controlar as áreas e a funcionalidade às quais cada usuário do Marketing tem acesso.
-
-Por exemplo, um usuário de marketing normalmente precisa de amplo acesso em todo o aplicativo, para criar, modificar e implantar emails, landings page e programas. Um web designer, por outro lado, gasta quase todo seu tempo no Design Studio, criando ativos para uso em emails e landings page. E, embora os líderes de empresas façam uso extensivo dos relatórios do Marketo na área do Analytics, talvez eles não precisem criar ou direcionar os próprios ativos ou programas.
+Por exemplo, um usuário de marketing normalmente precisa de amplo acesso no aplicativo, para criar, modificar e implantar emails, landing pages e programas. Um web designer, por outro lado, gasta quase todo o tempo no Design Studio, criando ativos para uso em emails e landing pages. E embora os líderes das empresas façam uso extensivo dos relatórios da Marketo na área do Analytics, talvez não precisem criar ou conduzir os próprios ativos ou programas.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-O Marketo oferece várias funções incorporadas, com diferentes níveis de acesso:
+O Marketo fornece várias funções integradas, com diferentes níveis de acesso:
 
-* **Administrador**  - todas as partes do aplicativo, incluindo a seção Admin
-* **Usuário**  padrão - todas as partes do aplicativo, exceto a seção Administrador
-* **Usuário**  de marketing - todas as partes do aplicativo, exceto a seção Admin
+* **Administrador**  - todas as partes do aplicativo, incluindo a seção Administração
+* **Usuário padrão**  - todas as partes do aplicativo, exceto a seção Admin
+* **Usuário de marketing**  - todas as partes do aplicativo, exceto a seção Administração
 * **Web Designer**  - somente o Design Studio
-* **Usuário**  do Analytics - somente a seção Analytics
+* **Usuário do Analytics**  - somente a seção Analytics
 
-Não é possível editar as funções de Administrador e Usuário Padrão, mas é possível editar as outras. Você também pode criar novas funções personalizadas para corresponder às estruturas organizacionais específicas em sua empresa.
+Não é possível editar as funções Administrador e Usuário padrão, mas você pode editar as outras. Você também pode criar novas funções personalizadas para corresponder às estruturas organizacionais específicas em sua empresa.
 
 ## Atribuir Funções a um Usuário {#assign-roles-to-a-user}
 
-Você pode atribuir funções a um usuário ao [criar usuários pela primeira vez](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) ou ao [editar um usuário existente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+Você pode atribuir funções a um usuário quando [criar usuários pela primeira vez](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) ou ao [editar um usuário existente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
 1. Para editar um usuário existente, vá para **Admin** e clique em **Usuários e funções**.
 
    ![](assets/image2014-9-9-18-3a7-3a32.png)
 
-1. Na lista, selecione o usuário que deseja editar e clique em **Editar usuário**.
+1. Na lista, selecione o usuário que deseja editar e clique em **Editar Usuário**.
 
    ![](assets/image2014-9-9-18-3a7-3a42.png)
 
@@ -63,17 +63,17 @@ Você pode atribuir funções a um usuário ao [criar usuários pela primeira ve
 
    ![](assets/image2014-9-9-18-3a8-3a22.png)
 
-1. Clique em **Nova função**.
+1. Clique em **Nova Função**.
 
    ![](assets/image2014-9-9-18-3a8-3a38.png)
 
-1. Digite um **Nome da função**, um **Descrição** (opcional) e selecione as permissões necessárias para os usuários nesta função.
+1. Insira um **Nome da Função**, um **Descrição** (opcional) e selecione as permissões necessárias para os usuários nesta função.
 
    ![](assets/image2014-9-9-18-3a9-3a3.png)
 
 ## Editar uma função {#edit-a-role}
 
-Se você precisar alterar as permissões associadas a uma função existente, poderá editar a função.
+Se precisar alterar as permissões associadas a uma função existente, edite a função.
 
 1. Vá para **Admin** e clique em **Usuários e funções**.
 
@@ -83,17 +83,17 @@ Se você precisar alterar as permissões associadas a uma função existente, po
 
    ![](assets/image2014-9-9-18-3a9-3a26.png)
 
-1. Na lista, selecione a função que deseja modificar e clique em **Editar função**.
+1. Na lista , selecione a função que deseja modificar e clique em **Editar função**.
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. Altere **Nome da Função** e **Descrição**, se necessário, e altere a seleção de **Permissões** associadas.
+1. Altere o **Nome da Função** e **Descrição**, se necessário, e altere a seleção de **Permissões** associadas.
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
    >[!NOTE]
    >
-   >Os usuários que tiverem a função que você editou receberão as permissões modificadas depois que fizerem logout e login novamente.
+   >Os usuários que tiverem a função que você editou receberão as permissões modificadas depois de desconectarem e entrarem novamente.
 
 ## Excluir uma função {#delete-a-role}
 
@@ -107,10 +107,10 @@ Se uma função se tornar desnecessária, você poderá excluí-la.
 
    ![](assets/image2014-9-9-18-3a10-3a27.png)
 
-1. Na lista, selecione a função que deseja excluir e clique em **Excluir função**.
+1. Na lista, selecione a função que deseja excluir e clique em **Excluir Função**.
 
    ![](assets/image2014-9-9-18-3a10-3a39.png)
 
-1. Clique em **Excluir** para confirmar.
+1. Clique em **Delete** para confirmar.
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
