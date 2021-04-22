@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147257
-description: Navegação no calendário de marketing - Documentos de marketing - Documentação do produto
+description: Navegação no calendário de marketing - Documentos do Marketo - Documentação do produto
 title: Navegação no calendário de marketing
+exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Navegação no Calendário de marketing {#navigating-the-marketing-calendar}
 
@@ -17,27 +17,27 @@ Navegar ao redor do Calendário de marketing é fácil como um, dois, três!
 
 >[!PREREQUISITES]
 >
->Certifique-se de ter uma [licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md); caso contrário, o mosaico do Calendário de marketing não aparecerá em Meu Marketo.
+>Certifique-se de ter uma [Licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md); caso contrário, o bloco do Calendário de marketing não aparecerá em Meu Marketo.
 
-1. Vá para **Calendário de marketing**.
+1. Vá para o **Calendário de marketing**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Esta é uma visualização de pássaros com ativos programados em sua instância de Marketo.
+1. Essa é uma exibição de pássaro dos ativos agendados em sua instância do Marketo.
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
 ## Alteração entre modos {#change-between-modes}
 
-1. Clique nas guias **3 semanas** ou **Mês** para alternar entre os modos.
+1. Clique nas guias **3 semanas** ou **Mês** para alternar entre modos.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## Usar a Visualização da Agenda {#use-the-agenda-view}
+## Usar a Exibição de Agenda {#use-the-agenda-view}
 
-A visualização da agenda exibe todas as suas entradas como uma lista.
+A exibição Agenda exibe todas as suas entradas como uma lista.
 
-1. Clique no menu suspenso **Filtro**.
+1. Clique no menu suspenso **Filter**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
@@ -45,25 +45,25 @@ A visualização da agenda exibe todas as suas entradas como uma lista.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   Incrível! Esta é uma grande visualização para ver tudo o que está planejado.
+   Ótimo! Esta é uma ótima visão para ver tudo o que está planejado.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## Navegar pelo tempo {#navigate-through-time}
+## Tempo de navegação {#navigate-through-time}
 
 Sem um DeLorean! Basta clicar nos botões de navegação.
 
 ![](assets/image2014-9-26-10-3a31-3a25.png)
 
-Você também pode usar esses atalhos de teclado.
+Também é possível usar esses atalhos de teclado.
 
 | Ação | Atalho de teclado |
 |---|---|
 | Voltar no tempo | alt/opt + up |
-| Encaminhar no tempo | alt/opt + seta para baixo |
+| Avançar no tempo | alt/opt + down |
 | Ir para &quot;hoje&quot; | alt/opt + t |
 
-Incrível! Estes são os fundamentos. Você também pode personalizar sua visualização usando filtros.
+Ótimo! Estas são as noções básicas. Você também pode personalizar sua visualização usando filtros.
 
 >[!MORELIKETHIS]
 >
