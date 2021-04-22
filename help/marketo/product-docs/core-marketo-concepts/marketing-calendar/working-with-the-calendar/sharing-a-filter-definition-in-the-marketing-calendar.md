@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147304
-description: Compartilhamento de uma definição de filtro no calendário de marketing - documentos do marketing - documentação do produto
-title: Compartilhando uma definição de filtro no Calendário de marketing
+description: Compartilhamento de uma definição de filtro no Calendário de marketing - Documentos do Marketo - Documentação do produto
+title: Compartilhamento de uma definição de filtro no Calendário de marketing
+exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-
 # Compartilhando uma definição de filtro no Calendário de marketing {#sharing-a-filter-definition-in-the-marketing-calendar}
 
-Filtros podem ser compartilhados entre usuários diferentes.
+Os filtros podem ser compartilhados entre usuários diferentes.
 
 >[!PREREQUISITES]
 >
@@ -29,11 +29,11 @@ Filtros podem ser compartilhados entre usuários diferentes.
 
    ![](assets/image2014-9-24-11-3a31-3a19.png)
 
-1. Clique no ícone Compartilhar no canto inferior direito.
+1. Clique no ícone de compartilhamento no canto inferior direito.
 
    ![](assets/image2014-9-24-11-3a31-3a24.png)
 
-1. Copie o URL e compartilhe-o com outros usuários de marketing.
+1. Copie o URL e compartilhe-o com outros usuários do Marketo.
 
    ![](assets/image2014-9-24-11-3a31-3a29.png)
 
