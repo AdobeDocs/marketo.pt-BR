@@ -1,14 +1,14 @@
 ---
 description: Conceder consentimento para ID do cliente e registro do aplicativo - Documentos do Marketo - Documentação do produto
 title: Conceder consentimento para ID do cliente e registro de aplicativo
+exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 translation-type: tm+mt
-source-git-commit: 3a6d9987e214aa8606b9f5abdc780a81355b1001
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
 
 ---
-
 
 # Conceder Consentimento para Id de Cliente e Registro de Aplicativo {#grant-consent-for-client-id-and-app-registration}
 
