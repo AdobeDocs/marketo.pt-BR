@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949204
-description: SEO - Adicionar palavras-chave - Documentos de marketing - Documentação do produto
+description: SEO - Adicionar palavras-chave - Documentos do Marketo - Documentação do produto
 title: SEO - Adicionar palavras-chave
+exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Adicionar palavras-chave {#seo-add-keywords}
 
@@ -23,7 +23,7 @@ Palavras-chave são frases que as pessoas digitam em mecanismos de pesquisa. Adi
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Digite as palavras-chave que deseja público alvo e clique em **Salvar**.
+1. Insira as palavras-chave que deseja direcionar e clique em **Save**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
@@ -35,6 +35,6 @@ Palavras-chave são frases que as pessoas digitam em mecanismos de pesquisa. Adi
 
    >[!MORELIKETHIS]
    >
-   >[Como entender palavras-chave (Visualização resumida)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Compreensão de palavras-chave (Visualização de resumo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
-Bom trabalho! Agora você deve ver suas novas adições à lista de palavra-chave.
+Bom trabalho! Agora você deve ver suas novas adições à lista de palavras-chave.
