@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147122
-description: Gerenciar e Visualização membros - Documentos do Marketing - Documentação do produto
-title: Gerenciar e Visualização membros
+description: Gerenciar e exibir membros - Documentos do Marketo - Documentação do produto
+title: Gerenciar e exibir membros
+exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
+# Gerenciar e exibir membros {#manage-and-view-members}
 
-# Gerenciar e Visualização membros {#manage-and-view-members}
-
-Você pode gerenciar e visualização seus membros em seus programas usando a guia Membros.
+Você pode gerenciar e exibir seus membros em seus programas usando a guia Members (Membros).
 
 >[!NOTE]
 >
->Mergulhe mais fundo em [associação ao programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Saiba mais sobre a [associação ao programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Procurar um Membro {#search-for-a-member}
 
@@ -27,33 +27,33 @@ Na parte inferior da seção Membros, use o campo de pesquisa para procurar memb
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
-1. Use o campo de pesquisa para pesquisar a lista dos membros.
+1. Use o campo de pesquisa para pesquisar a lista de membros.
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
 ## Exportar a Grade de Membros {#export-the-members-grid}
 
-É possível exportar a lista de membro clicando no ícone do Excel ao lado do campo de pesquisa.
+Você pode exportar sua lista de membros clicando no ícone do Excel ao lado do campo de pesquisa.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
-## Gerenciar colunas na grade de membros {#manage-columns-in-the-members-grid}
+## Gerenciar Colunas na Grade de Membros {#manage-columns-in-the-members-grid}
 
 Arraste e solte colunas para alterar sua ordem. O par de setas azuis indica para onde a coluna irá.
 
 ![](assets/image2014-10-1-16-3a25-3a30.png)
 
-Clique com o botão direito do mouse no cabeçalho da coluna para classificar alfabeticamente, ascendente ou descendente.
+Clique com o botão direito do mouse no cabeçalho da coluna para classificar alfabeticamente, crescente ou decrescente.
 
 ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## Escolha quais colunas estão visíveis na grade {#choose-which-columns-are-visible-in-the-grid}
+## Escolha quais colunas estão visíveis na Grade {#choose-which-columns-are-visible-in-the-grid}
 
-1. Clique no menu suspenso **Visualização** e selecione **Criar Visualização**.
+1. Clique no menu suspenso **View** e selecione **Create View**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Dê um nome à sua visualização personalizada. Selecione os títulos das colunas. Clique em **Adicionar** e **Remover** para mover colunas e criar uma visualização.
+1. Dê um nome para a exibição personalizada. Selecione títulos de colunas. Clique em **Adicionar** e **Remover** para mover colunas e criar uma visualização.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -67,7 +67,7 @@ Clique com o botão direito do mouse no cabeçalho da coluna para classificar al
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
-## Gerenciar o status da pessoa na grade de membros {#manage-person-status-in-the-members-grid}
+## Gerenciar Status da Pessoa na Grade de Membros {#manage-person-status-in-the-members-grid}
 
 Você pode alterar o status de suas pessoas dentro da grade de membros.
 
@@ -79,7 +79,7 @@ Você pode alterar o status de suas pessoas dentro da grade de membros.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   Isso pode levar um momento. Você verá a mensagem abaixo quando tudo estiver pronto!
+   Isso pode levar um momento. Você verá a mensagem abaixo quando estiver tudo pronto!
 
    ![](assets/changestatusconfirm.png)
 
@@ -87,4 +87,4 @@ Tantas características, mas são todas muito simples. Aproveite!
 
 >[!MORELIKETHIS]
 >
->[Criar um relatório de desempenho de Programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
+>[Criar um relatório de desempenho de programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
