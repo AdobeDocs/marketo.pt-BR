@@ -1,35 +1,35 @@
 ---
 unique-page-id: 1146897
-description: Excluir pessoas em uma Lista ou Lista inteligente - Documentos do Marketing - Documentação do produto
-title: Excluir pessoas em uma Lista ou Lista inteligente
+description: Excluir pessoas em uma lista ou lista inteligente - Documentos do Marketo - Documentação do produto
+title: Excluir pessoas em uma lista ou lista inteligente
+exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
+# Excluir pessoas em uma lista inteligente ou em uma lista {#delete-people-in-a-smart-list-or-list}
 
-# Excluir pessoas em uma Lista ou Lista inteligente {#delete-people-in-a-smart-list-or-list}
-
-É possível excluir rápida e facilmente algumas/todas as pessoas que estão em uma lista ou em uma lista inteligente.
+É possível excluir de forma rápida e fácil algumas/todas as pessoas que estão em uma lista ou em uma lista inteligente.
 
 >[!PREREQUISITES]
 >
->[Criar uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **Marketing Activities**.
 
    ![](assets/ma-1.png)
 
-1. Selecione a lista/lista inteligente que contém todas as pessoas que você deseja excluir e vá para a guia **Pessoas**.
+1. Selecione a lista/lista inteligente que contém todas as pessoas que deseja excluir e vá para a guia **People**.
 
    ![](assets/two-1.png)
 
    >[!CAUTION]
    >
-   >Ao excluir uma pessoa, você não está apenas removendo-a da lista, eles serão completamente removidos do banco de dados.
+   >Ao excluir uma pessoa, você não está apenas removendo-a da lista; ela será totalmente removida do banco de dados.
 
 1. Clique em **Selecionar tudo**. Você também pode selecionar alguns registros manualmente usando Ctrl/Cmd e clicando em.
 
@@ -37,34 +37,34 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se os resultados se expandirem em várias páginas, clicar em **Selecionar tudo** selecionará todas as pessoas em todas as páginas.
+   >Se os resultados se estenderem por várias páginas, clicar em **Selecionar tudo** selecionará todas as pessoas em todas as páginas.
 
-1. Para remover completamente as pessoas do Marketo, clique em **Excluir pessoa**.
+1. Para remover completamente as pessoas do Marketo, clique em **Excluir Pessoa**.
 
    ![](assets/four-1.png)
 
-1. Defina **Remover do CRM** para **true** se também quiser eliminar os registros do CRM.
+1. Defina **Remove from CRM** para **true** se também quiser excluir os registros do seu CRM.
 
    ![](assets/five.png)
 
    >[!CAUTION]
    >
-   >Excluir do Marketo e do CRM significa que você nunca poderá se recuperar em nenhum dos sistemas. O povo e suas histórias desaparecerão para sempre. Se você adicioná-los novamente mais tarde, eles serão tratados como novos registros.
+   >Excluir do Marketo e do seu CRM significa que você nunca poderá se recuperar em nenhum dos sistemas. O povo e suas histórias desaparecerão para sempre. Se você adicioná-los novamente mais tarde, eles serão tratados como novos registros.
 
    >[!NOTE]
    >
-   >Se o seu Marketo não estiver vinculado ao seu CRM, a opção ficará esmaecida como na captura de tela.
+   >Se o Marketo não estiver vinculado ao seu CRM, a opção ficará esmaecida, como na captura de tela.
 
 1. Clique em **Executar agora**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. Se estiver excluindo mais de 50 pessoas, você verá isso. Digite o número de pessoas que você está excluindo, marque a caixa **Não é possível desfazer** e clique em **Excluir**.
+1. Se você estiver excluindo mais de 50 pessoas, verá isso. Digite o número de pessoas que você está excluindo, marque a caixa **Não é possível desfazer** e clique em **Excluir**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Para visualização dos resultados da exclusão em massa, clique em **Resultados da Visualização** na caixa pop-up Ação de fluxo único, no canto superior direito da tela. Os tempos de exclusão podem variar muito, dependendo de vários fatores.
+   >Para exibir os resultados da exclusão em massa, clique em **Exibir Resultados** na caixa pop-up Ação de fluxo único no canto superior direito da tela. Os tempos de exclusão podem variar bastante, dependendo de vários fatores.
 
-   Esta é uma grande característica, tenha cuidado ao usá-la!
+   Este é um excelente recurso, tenha cuidado ao usá-lo!
