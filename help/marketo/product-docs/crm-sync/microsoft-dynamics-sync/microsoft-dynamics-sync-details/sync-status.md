@@ -1,55 +1,55 @@
 ---
 unique-page-id: 10097584
-description: Status da sincronização - Documentos do marketing - Documentação do produto
+description: Status da sincronização - Documentação do Marketo - Documentação do produto
 title: Status da sincronização
+exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Status da sincronização {#sync-status}
 
-# Sincronizar status {#sync-status}
+Você pode manter guias na taxa de transferência atual e no backlog do processo de sincronização nas guias Status de sincronização e Erros de sincronização .
 
-É possível manter as guias na saída atual e no backlog do processo de sincronização nas guias Status da sincronização e Erros de sincronização.
-
-## Guia Status de sincronização {#sync-status-tab}
+## Guia Status de Sincronização {#sync-status-tab}
 
 1. Clique em **Admin** e **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Clique na guia **Sincronizar status**.
+1. Clique na guia **Sync Status**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
    Esta tabela exibe o backlog de inserções e atualizações que ainda não foram sincronizadas para cada objeto.
 
-1. Clique em qualquer linha com o duplo para obter informações sobre a oportunidade de visualização.
+1. Clique duas vezes em qualquer linha para exibir as informações da oportunidade.
 
    ![](assets/image2016-5-19-10-3a3-3a21.png)
 
-   Os detalhes de status de sincronização são detalhados por inserções e atualizações, além de registros de inserção e atualização mais antigos.
+   Os detalhes do status de sincronização são detalhados por inserções e atualizações, e registros de inserção e atualização mais antigos.
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Clique no menu suspenso **Visualização:** e selecione **Última hora** para visualização das informações de throughput.
+1. Clique no menu suspenso **View:** e selecione **Last Hour** para exibir as informações de throughput.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
-   A exibição agora mostra o número de registros sincronizados na última hora completa (por exemplo, 1-2 p.m.).
+   A exibição agora mostra o número de registros sincronizados na última hora completa (por exemplo, 1 às 2 horas).
 
    ![](assets/image2016-5-19-10-3a22-3a15.png)
 
    >[!NOTE]
    >
-   >Quando você está olhando para a visualização da última hora, as colunas Inserções e Atualizações exibem N/A. Esse é o comportamento esperado.
+   >Quando você está visualizando a exibição Última hora, as colunas Inserções e Atualizações exibem N/A. Esse é um comportamento esperado.
 
-## Guia Erros de sincronização {#sync-errors-tab}
+## Guia Erros de Sincronização {#sync-errors-tab}
 
-Procure, pesquise ou exporte clientes potenciais (e outros objetos) que não tenham sincronizado com detalhes como operação, direção, código de erro e mensagem de erro.
+Pesquise, pesquise ou exporte leads (e outros objetos) que não foram sincronizados com detalhes como operação, direção, código de erro e mensagem de erro.
 
 ![](assets/image2016-5-19-10-3a26-3a35.png)
 
