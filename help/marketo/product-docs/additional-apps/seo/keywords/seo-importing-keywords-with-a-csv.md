@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949206
-description: SEO - Importação de palavras-chave com um CSV - Documentos de marketing - Documentação do produto
+description: SEO - Importação de palavras-chave com um CSV - Documentos do Marketo - Documentação do produto
 title: SEO - Importação de palavras-chave com um CSV
+exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-
 # SEO - Importação de palavras-chave com um CSV {#seo-importing-keywords-with-a-csv}
 
-1. Você pode [adicionar palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obter sugestões de palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e até mesmo importar palavras-chave de um arquivo CSV. Veja como fazer a importação.
+1. Você pode [adicionar palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obter sugestões de palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e até importar palavras-chave de um arquivo CSV. Veja como fazer a importação.
 
 1. Vá para a seção **Palavras-chave**.
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Os limites de importação variam dependendo da sua subscrição. Entre em contato com seu representante de vendas para obter mais informações.
+   >Os limites de importação variam dependendo da sua assinatura. Entre em contato com seu representante de vendas para obter mais informações.
 
 1. Clique em **Importar**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
-   As novas palavras-chave devem ser exibidas na lista da palavra-chave em ordem alfabética.
+   Você deve ver suas novas palavras-chave exibidas na lista de palavras-chave em ordem alfabética.
 
    ![](assets/image2014-9-18-11-3a45-3a30.png)
 
@@ -47,6 +47,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >* [Como entender palavras-chave (Visualização resumida)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Adicionar/remover palavras-chave de uma Lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [Compreensão de palavras-chave (Visualização de resumo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Adicionar/remover palavras-chave de uma lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
