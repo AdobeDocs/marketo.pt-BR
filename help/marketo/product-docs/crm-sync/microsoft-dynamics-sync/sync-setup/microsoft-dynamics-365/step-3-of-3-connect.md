@@ -2,23 +2,23 @@
 unique-page-id: 3571830
 description: Etapa 3 de 3 - Conectar o Microsoft Dynamics com o Marketo (Online) - Documentos do Marketo - Documentação do produto
 title: Etapa 3 de 3 - Conectar o Microsoft Dynamics com o Marketo (Online)
+exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Etapa 3 de 3: Conectar o Microsoft Dynamics com o Marketo (Online) {#step-of-connect-microsoft-dynamics-with-marketo-online}
+# Etapa 3 de 3: Conectar o Microsoft Dynamics ao Marketo (Online) {#step-of-connect-microsoft-dynamics-with-marketo-online}
 
 Esta é a última etapa da sincronização. Estamos quase lá!
 
 >[!PREREQUISITES]
 >
 >* [Etapa 1 de 3: Instalar a solução Marketo (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
->* [Etapa 2 de 3: Configurar usuário de sincronização do Marketo no Dynamic](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+>* [Etapa 2 de 3: Configurar o usuário do Marketo Sync no Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -53,12 +53,12 @@ Esta é a última etapa da sincronização. Estamos quase lá!
 
    >[!NOTE]
    >
-   >* Se o seu Marketo foi provisionado antes de outubro de 2020, a ID do cliente e o Segredo são campos opcionais. Caso contrário, são obrigatórias. A obtenção dessas informações dependerá da versão do MSD que você estiver usando.
+   >* Se sua Marketo foi provisionada antes de outubro de 2020, a ID do cliente e o Segredo são campos opcionais. Caso contrário, são obrigatórias. A obtenção dessas informações dependerá da versão do MSD que você estiver usando.
    >* O Nome de usuário no Marketo deve corresponder ao Nome de usuário para o usuário de sincronização no CRM. O formato pode ser `user@domain.com` ou DOMÍNIO\usuário.
    >* Se você não souber o URL, [saiba como encontrá-lo aqui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 
-## Selecionar Campos para Sincronizar {#select-fields-to-sync}
+## Selecionar campos para a sincronização {#select-fields-to-sync}
 
 1. Clique em **Editar** em **Etapa 2: Selecione Fields to Sync**.
 
@@ -88,7 +88,7 @@ Se você criou um filtro personalizado, acesse e selecione os novos campos a ser
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
-## Habilitar Sincronização {#enable-sync}
+## Ativar sincronização {#enable-sync}
 
 1. Clique em **Editar** em **Etapa 3: Habilite Sync**.
 
@@ -96,7 +96,7 @@ Se você criou um filtro personalizado, acesse e selecione os novos campos a ser
 
    >[!CAUTION]
    >
-   >O Marketo não desduplica automaticamente em relação a uma sincronização do Microsoft Dynamics ou quando você insere manualmente pessoas ou leads.
+   >O Marketo não removerá automaticamente a duplicação em relação a uma sincronização do Microsoft Dynamics ou quando você inserir pessoas ou leads manualmente.
 
 1. Leia tudo na janela pop-up , insira seu endereço de email e clique em **Iniciar Sincronização**.
 
