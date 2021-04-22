@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10095389
-description: Criar um contato no Microsoft Dynamics - Documentos do Marketing - Documentação do produto
-title: Criar um Contato no Microsoft Dynamics
+description: Criar um contato no Microsoft Dynamics - Documentos do Marketo - Documentação do produto
+title: Criar um contato no Microsoft Dynamics
+exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
+# Criar um contato no Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics}
 
-# Criar um Contato no Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics}
-
-1. Selecione a pessoa somente Marketo (o Microsoft Type está vazio) que você deseja criar como um contato no Dynamics.
+1. Selecione a única pessoa do Marketo (o Microsoft Type está vazio) que você deseja criar como um contato no Dynamics.
 
    ![](assets/one.png)
 
-1. Clique em **Ações da pessoa** e **Microsoft** e selecione **Sincronizar pessoa com a Microsoft**.
+1. Clique em **Ações de pessoa** e **Microsoft** e selecione **Sincronizar pessoa com a Microsoft**.
 
    ![](assets/two.png)
 
@@ -27,12 +27,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Ao usar a ação de fluxo &quot;Sincronizar Pessoa com a Microsoft&quot; (somente em uma campanha de disparo), o cliente potencial/contato será criado em tempo real no Dynamics.
+   >Ao usar a ação de fluxo &quot;Sincronizar pessoa com a Microsoft&quot; (somente em uma campanha de acionador), o lead/contato será criado em tempo real no Dynamics.
 
-1. Marketo qualifica esse registro de cliente potencial no Dynamics em um contato que não está associado a nenhuma conta no Dynamics.
+1. A Marketo qualifica esse registro de lead no Dynamics em um contato que não está associado a nenhuma conta no Dynamics.
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. Agora, você pode selecionar **Contact** ao usar a restrição Sincronizar como em um filtro de campanha inteligente.
+1. Agora, você pode selecionar **Contato** quando usar a restrição Sincronizar como em um filtro de campanha inteligente.
 
    ![](assets/five.png)
