@@ -1,55 +1,55 @@
 ---
 unique-page-id: 1147051
-description: Lista de verificação de Campanha inteligente - Documentos do marketing - Documentação do produto
-title: Lista de verificação de Campanhas inteligentes
+description: Lista de verificação de campanha inteligente - Documentos do Marketo - Documentação do produto
+title: Lista de verificação de campanha inteligente
+exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Lista de verificação de campanha inteligente {#smart-campaign-checklist}
 
-# Lista de verificação de Campanha inteligente {#smart-campaign-checklist}
+Siga as etapas abaixo para garantir a execução sem problemas da campanha inteligente e evitar erros o máximo possível.
 
-Siga as etapas abaixo para garantir uma execução suave da campanha inteligente e evitar erros o máximo possível.
+## Obter Rid de Erros de Smart List {#get-rid-of-smart-list-errors}
 
-## Obter a identificação de erros de Lista inteligente {#get-rid-of-smart-list-errors}
-
-Na sua campanha inteligente, clique em **Lista inteligente**. Livre-se de qualquer linha vermelha rabugenta que você veja corrigindo os erros.
+Na campanha inteligente, clique em **Smart List**. Livre-se de qualquer linha vermelha escancarada que você vê corrigindo os erros.
 
 ![](assets/image2014-9-22-16-3a9-3a13.png)
 
 >[!TIP]
 >
->Linhas cinzas vermelhas indicam erros ou informações ausentes. Se não for corrigido, a campanha será inválida e não será executada.
+>Linhas vermelhas roxas indicam erros ou informações ausentes. Se não for corrigida, a campanha será inválida e não será executada.
 >
->Além disso, **mantenha as coisas simples**. Se você tem dezenas ou centenas de filtros, é difícil mantê-lo e acompanhar. Menos filtros também são mais rápidos de carregar.
+>Além disso, **mantenha as coisas simples**. Se você tem dezenas ou centenas de filtros, é difícil mantê-los e rastreá-los. Também é mais rápido carregar menos filtros.
 
 >[!NOTE]
 >
->O uso de **Membro da Lista inteligente** pode ter erros nessa outra lista. Verifique lá também.
+>Usar **Membro da Smart List** pode ter erros nessa outra lista. Olha lá também.
 
-## Obter a ID de erros de fluxo {#get-rid-of-flow-errors}
+## Obter Rid de Erros de Fluxo {#get-rid-of-flow-errors}
 
-Na sua campanha inteligente, clique em **Fluxo**. Elimine qualquer linha vermelha esmaecida que você vir corrigindo os erros.
+Em sua campanha inteligente, clique em **Fluxo**. Livre-se de qualquer linha vermelha escancarada que você vir corrigindo os erros.
 
 ![](assets/image2014-9-22-16-3a10-3a49.png)
 
 >[!TIP]
 >
->Passe o cursor do mouse sobre a linha branca vermelha para ver os detalhes do erro.
+>Passe o mouse sobre a linha vermelha esmaecida para ver os detalhes do erro.
 
 ## Revise a guia Agendamento {#review-the-schedule-tab}
 
-Na guia **Agendamento**, verifique **Inteligente** **Lista** **Status** para ver se há erros na campanha inteligente que precisam de ser corrigidos.
+Na guia **Schedule**, marque **Smart** **List** **Status** para verificar se há erros na campanha inteligente que precisam de ser corrigidos.
 
 ![](assets/three.png)
 
-## Verificar Limite de Restrições de Pessoa {#check-person-restrictions-limit}
+## Verificar limite de restrições de pessoa {#check-person-restrictions-limit}
 
-Na guia **Agendamento**, verifique se o número de pessoas qualificadas não excede o limite de restrição de pessoa.
+Na guia **Schedule** , verifique se o número de pessoas qualificadas não excede o limite de restrição de pessoa.
 
 ![](assets/four.png)
 
@@ -59,8 +59,8 @@ Na guia **Agendamento**, verifique se o número de pessoas qualificadas não exc
 
 >[!NOTE]
 >
->**Lembrete**
+>**Restante**
 >
->Se sua campanha inteligente ainda falhar, aprenda a [compreender as notificações](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) para descobrir o que deu errado e como corrigi-lo.
+>Se sua campanha inteligente ainda falhar, saiba como [entender as notificações](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) para descobrir o que deu errado e como corrigi-lo.
 
-Ótimo trabalho! Mantenha essa lista de verificação acessível antes de executar uma campanha inteligente.
+Muito bem! Mantenha essa lista de verificação acessível antes de executar uma campanha inteligente.
