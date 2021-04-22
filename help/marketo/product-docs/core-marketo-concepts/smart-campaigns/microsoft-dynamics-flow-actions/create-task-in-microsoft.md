@@ -1,33 +1,33 @@
 ---
 unique-page-id: 37356429
-description: Criar Tarefa na Microsoft - Documentos do Marketing - Documentação do produto
-title: Criar Tarefa na Microsoft
+description: Criar tarefa na Microsoft - Documentação do Marketo - Documentação do produto
+title: Criar tarefa na Microsoft
+exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
+# Criar tarefa na Microsoft {#create-task-in-microsoft}
 
-# Criar Tarefa no Microsoft {#create-task-in-microsoft}
+Como comerciante, você tem informações que podem ajudar as vendas a fechar negócios. Você pode criar tarefas para informá-las sobre o que devem fazer e quando devem fazê-lo.
 
-Como comerciante, você tem informações que podem auxiliar as vendas a fechar negócios. Você pode criar tarefas para informá-los sobre o que eles devem fazer e quando eles devem fazer isso.
-
-Criar Tarefa na Microsoft cria uma tarefa em Atividades relacionadas à Pessoa (cliente potencial ou contato) na Microsoft.
+Criar tarefa na Microsoft cria uma tarefa em Atividades relacionadas com a Pessoa (Cliente Potencial ou Contato) na Microsoft.
 
 >[!NOTE]
 >
->Esta etapa de fluxo **só funcionará quando for usada com acionadores**, não filtros, na sua campanha inteligente.
+>Esta etapa do fluxo **só funcionará quando for usada com acionadores**, não filtros, em sua campanha inteligente.
 
-Por padrão, a etapa de fluxo terá a seguinte aparência:
+Por padrão, a etapa de fluxo terá esta aparência:
 
 ![](assets/msd1.png)
 
 >[!NOTE]
 >
->Quando o usuário de sincronização de marketing está criando o tarefa, **Vencimento em** é um campo obrigatório para a tarefa ser criada na Microsoft. Por padrão, o Marketo inserirá cinco dias se nenhum valor for inserido.
+>Quando o Usuário do Marketo Sync está criando tarefas, **Vencimento em** é um campo obrigatório para a tarefa ser criada na Microsoft. Por padrão, a Marketo inserirá cinco dias se nenhum valor for inserido.
 
 Personalize todos os campos para criar a tarefa da maneira que desejar.
 
@@ -35,8 +35,8 @@ Personalize todos os campos para criar a tarefa da maneira que desejar.
 
 >[!NOTE]
 >
->O campo &quot;Status&quot; especificado para a tarefa na Ação de Fluxo atualiza o campo: &quot;Motivo do status&quot; na Microsoft.
+>O campo &quot;Status&quot; especificado para a tarefa na Ação de fluxo atualiza o campo: &quot;Razão do Status&quot; na Microsoft.
 
 >[!TIP]
 >
->Você pode usar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` nas **Assunto** e **Descrição**. Consulte [Tokens para Etapas de Fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) para obter mais detalhes.
+>Você pode usar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` no **Assunto** e **Descrição**. Consulte [Tokens para Etapas de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) para obter mais detalhes.
