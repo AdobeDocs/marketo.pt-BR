@@ -1,15 +1,15 @@
 ---
 unique-page-id: 45416698
-description: Notas de versão - 20 de julho - Documentos do Marketo - Documentação do produto
+description: Notas de versão - 20 de julho - Documentos da Marketo - Documentação do produto
 title: Notas de versão - julho de 2020
+exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
 
 ---
-
 
 # Notas de versão: 20 de julho {#release-notes-july}
 
@@ -25,7 +25,7 @@ Os seguintes recursos estão incluídos na versão de julho de 2020. Verifique s
 
 * **[Exportar &quot;Usado por&quot; no gerenciamento](/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md)** de campo: Agora, os administradores podem exportar todos os links de ativos &quot;Usados por&quot; para um campo selecionado em um arquivo CSV. Esse aprimoramento pode ajudar administradores e não administradores na limpeza de campos não utilizados. Além disso, agora os ativos podem ser abertos em uma nova guia ou janela do navegador.
 
-## Marketing baseado em conta {#account-based-marketing}
+## Marketing baseado em contas {#account-based-marketing}
 
 ![(estrela)](assets/star-yellow.svg)
 
@@ -45,13 +45,13 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 * **Aumento do limite** de tamanho do URI da API de ativos: O limite de tamanho do URI (identificador de recurso uniforme) está sendo aumentado de 8 KB para 65 KB antes da remoção do parâmetro &quot;_method&quot;. Ao executar longas sequências de consulta, esse aumento do limite de tamanho permitirá que os dados sejam transmitidos com mais facilidade. A remoção do parâmetro &quot;_method&quot; faz parte de uma atualização de segurança futura.
 
-## Insight de vendas {#sales-insight}
+## Sales Insight {#sales-insight}
 
 ![(estrela)](assets/star-yellow.svg)
 
 * **[Insight de vendas ativado para clientes com integração](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)  de CRM não nativa do Salesforce (Beta)**: Os clientes do Marketo Engage com integrações não nativas do Salesforce CRM agora podem usar o Sales Insight para ajudar suas equipes de vendas a entender, priorizar e interagir com os clientes potenciais mais envolvidos e oportunidades para permitir vendas inteligentes e ofertas mais rápidas.
 
-## Conexão de Vendas {#sales-connect}
+## SalesConnect {#sales-connect}
 
 ![(estrela)](assets/star-yellow.svg)
 
@@ -64,5 +64,5 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 * **Remoção** do parâmetro &quot;_method&quot; da API de ativos: Após setembro de 2020, os endpoints da API de ativos não aceitarão mais &quot;_method&quot; para transmitir os Parâmetros de consulta em um corpo do POST para ignorar as limitações de comprimento do URI. Para acomodar solicitações que exigiram esse parâmetro, os limites de URI para APIs de ativos serão aumentados de 8 KB para 65 KB.
 * **[Líder](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)** da Associação Munchkin: Com esta versão do Munchkin JavaScript Client, versão 159, começaremos a descontinuação do método Munchkin Associate Lead. Se chamado, você receberá um aviso indicando que o método será removido em uma versão futura. Depois de removido, o método não estará mais funcional e as tentativas de usá-lo apresentarão falha. Os clientes do Marketo Engage que utilizaram esse método recentemente serão notificados individualmente sobre seu uso.
 * **Suporte para Internet Explorer**: Conforme anunciado anteriormente, o suporte do Marketo Engage para o Internet Explorer 11 termina em 31  **de julho de 2020**. Continuaremos a oferecer suporte ao Google Chrome, Mozilla Firefox, Apple Safari e Microsoft Edge.
-* **Experiência** padrão do Sky: A opção para administradores ou usuários definirem o Marketo Sky como a experiência padrão será removida nesta versão em preparação para uma atualização da experiência do usuário principal. Mais detalhes sobre a atualização da experiência principal, programada para o final deste ano, estarão disponíveis em julho. Os usuários que definiram o Marketo Sky como sua experiência padrão ou que receberam acesso ao Marketo Sky podem continuar a acessar o Marketo Sky de um bloco na página inicial Meu Marketo .
+* **Experiência** padrão do Sky: A opção para administradores ou usuários definirem o Marketo Sky como a experiência padrão será removida nesta versão em preparação para uma atualização da experiência do usuário principal. Mais detalhes sobre a atualização da experiência principal, programada para o final deste ano, estarão disponíveis em julho. Os usuários que definiram o Marketo Sky como sua experiência padrão ou que receberam acesso ao Marketo Sky podem continuar a acessar o Marketo Sky de um bloco na página inicial Minha Marketo.
 * **Suporte** ao EdgeHTML (não Chromium) Microsoft Edge: O Marketo Engage não será mais compatível com as versões EdgeHTML do Microsoft Edge no final de 2020. A partir de 1º de janeiro de 2021, ofereceremos suporte somente à versão mais recente do Chromium do Microsoft Edge.
