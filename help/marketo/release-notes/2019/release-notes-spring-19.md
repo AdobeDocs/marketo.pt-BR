@@ -1,15 +1,15 @@
 ---
 unique-page-id: 17728380
-description: Notas de versão - Primeiro trimestre de 2019 - Documentos do Marketo - Documentação do produto
+description: Notas de versão - Primeiro trimestre de 2019 - Documentos da Marketo - Documentação do produto
 title: Notas de versão - Primeiro trimestre de 2019
+exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '459'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
-
 
 # Notas de versão: Primavera de 2019 {#release-notes-spring}
 
@@ -21,17 +21,17 @@ Clique nos links de título para exibir os artigos detalhados de cada recurso, s
 
 Os seguintes recursos foram lançados em 15 de março de 2019.
 
-## Aprimoramentos da plataforma principal {#core-platform-enhancements}
+## Melhorias da plataforma principal {#core-platform-enhancements}
 
-* **Lista de Espera:** Novo status de programa/evento para permitir a listagem de um membro quando você deseja  [colocá-lo ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) em espera até que uma vaga seja aberta. Isso se aplica aos canais associados aos programas de Evento no Marketo Classic, e aos programas Evento e Evento com Webinar no Marketo Sky. Por padrão, a Lista de Espera tem o mesmo valor de etapa que Registrado.
+* **Lista de Espera:** Novo status de programa/evento para permitir a listagem de um membro quando você deseja  [colocá-lo ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) em espera até que uma vaga seja aberta. Isso se aplica aos canais associados aos programas Evento no Marketo Classic e aos programas Evento e Evento com Webinar no Marketo Sky. Por padrão, a Lista de Espera tem o mesmo valor de etapa que Registrado.
 * **[Limite](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)** de comunicação personalizada: Agora, os administradores podem definir limites de comunicação diária ou semanal personalizados.
-* **[APIs](https://developers.marketo.com/rest-api/assets/campaigns/)** de ativos do Smart Campaign: Enriqueça sua análise fora do Marketo com a recuperação de registro de campanha inteligente por data e ID atualizadas.
+* **[APIs](https://developers.marketo.com/rest-api/assets/campaigns/)** de ativos do Smart Campaign: Enriqueça sua análise fora do Marketo com a recuperação de registros de campanha inteligente por data e ID atualizadas.
 * **Links de rastreamento HTTPS para email:** para clientes que compraram &quot;Domínios seguros para links de rastreamento&quot;, os links de rastreamento de marca agora podem ser exibidos em seus emails como HTTPS.
 * **Atualizações** do Powerpack de entregabilidade por email: Capacidade de sinalizar e comentar resultados de testes específicos, compartilhar resultados com partes interessadas por meio de um URL e acompanhar alterações para ver a evolução de um email como partes interessadas e editar o conteúdo.
 
-Marketing baseado em conta
+Marketing baseado em contas
 
-**[](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** AccountAINow geralmente disponível. O AccountAI usa inteligência artificial para revelar as contas que você deve direcionar para sua estratégia de ABM.
+**[](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** AccountAINow geralmente disponível. O recurso AccountAI emprega inteligência artificial para revelar as contas que você deve objetivar em sua estratégia de ABM.
 
 <br> 
 
@@ -51,7 +51,7 @@ Espera - se que as seguintes características sejam divulgadas ao longo do prime
 * **Auditoria** aprimorada: Nova visibilidade em todas as pessoas, emails e  [](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) conteúdo em uma instância com capacidade adicional de  [terminar ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)campanhas existentes, filtradas por outros usuários.
 * **[Gerenciamento](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)** de cancelamento de assinatura: Maximize a capacidade de entrega e a conformidade com a capacidade de  [bloquear ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) contatos de domínios de email. O Marketo também fará referência cruzada ao banco de dados de clientes potenciais para cancelamentos de assinaturas antes de enviar um email.
 
-## Bizible por Marketo {#bizible-by-marketo}
+## Bizible do Marketo {#bizible-by-marketo}
 
 * **Aprimoramentos** de recursos do Discover Bizible: Os novos recursos de segmentação de painel permitem que os profissionais de marketing entendam melhor o desempenho.
 * **Suporte** a várias moedas: Alterne entre a moeda corporativa e qualquer moeda local com a nova funcionalidade automática de conversão de moeda da Bizible criada nas tabelas de moeda do CRM.
