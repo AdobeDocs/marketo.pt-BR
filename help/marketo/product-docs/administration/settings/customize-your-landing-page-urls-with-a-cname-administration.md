@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360189
-description: Personalize seus URLs de Landing page com um CNAME (Administração) - Documentos do Marketing - Documentação do produto
-title: Personalize seus URLs de Landing page com um CNAME (Administração)
+description: Personalize os URLs de sua página de aterrissagem com um CNAME (Administração) - Documentos do Marketo - Documentação do produto
+title: Personalize os URLs de página de aterrissagem com um CNAME (Administração)
+exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Personalize seus URLs de página de aterrissagem com um CNAME (Administração) {#customize-your-landing-page-urls-with-a-cname-administration}
 
-# Personalize seus URLs de Landing page com um CNAME (Administração) {#customize-your-landing-page-urls-with-a-cname-administration}
-
-Embora o Marketo hospede suas landings page, o URL deve ser personalizado para sua empresa.
+Mesmo que o Marketo hospede suas landing pages, o URL deve ser personalizado para sua empresa.
 
 >[!NOTE]
 >
@@ -23,56 +23,56 @@ Embora o Marketo hospede suas landings page, o URL deve ser personalizado para s
 >
 >CNAME de marca:
 >
->https://go.**YourCompany**.com/UnsuscribePage.html
+>https://go.**Sua empresa**.com/UnsuscribePage.html
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-Vamos te preparar!
+Vamos definir suas configurações!
 
 1. Escolha um CNAME.
 
-   É a parte principal do URL. Exemplos:
+   É a parte frontal do URL. Exemplos:
 
-   * **vá**.YourCompany.com/NameOfPage.html
-   * **info**.YourCompany.com/NameOfPage.html
+   * **acesse**.YourCompany.com/NameOfPage.html
+   * **informações**.YourCompany.com/NameOfPage.html
    * **páginas**.YourCompany.com/NameOfPage.html
 
-   A única palavra (mais YourCompany.com) é chamada de CNAME. Você precisará disso mais tarde, então anote isso.
+   A única palavra (mais YourCompany.com) é chamada de CNAME. Você precisará disso mais tarde, portanto anote isso.
 
-1. Localize a sua sequência de caracteres da conta.
+1. Encontre sua sequência de caracteres da conta.
 
-1. Vá para a área **Admin** e clique em **Landing page**.
+1. Vá para a área **Admin** e clique em **Páginas de aterrissagem**.
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. Na guia **Landing page**, copie a string de conta da seção Configurações.
+1. Na guia **Landing Pages** , copie a string da conta na seção Configurações .
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
-1. Você também precisará disso mais tarde, então anote isso.
+1. Você também precisará disso mais tarde, portanto anote isso.
 
-1. Envie a solicitação para TI.
+1. Enviar solicitação para TI.
 
-1. Peça à equipe de TI para configurar o CNAME a seguir (substitua as palavras [CNAME] e [STRING DE CONTAS] pelo texto da etapa anterior):
+1. Peça à equipe de TI para configurar o seguinte CNAME (substitua a palavra [CNAME] e [CADEIA DE CARACTERES DE CONTA] pelo texto da etapa anterior):
 
-   [CNAME].YourCompany.com > STRING [ de ]CONTA.mktoweb.com
+   [CNAME].YourCompany.com > STRING  [DE CONTA].mktoweb.com
 
 1. Conclua a configuração CNAME.
 
-1. Depois que a TI tiver criado o CNAME, vá para **Admin** e clique em **Landing page**.
+1. Depois que a TI criar o CNAME, vá para **Admin** e clique em **Páginas de aterrissagem**.
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
-1. Na seção **Configurações**, clique em **Editar**.
+1. Na seção **Settings**, clique em **Edit**.
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. Insira seu CNAME em **Nome do domínio para Landing page**, digite sua **página de fallback**, digite sua **Página inicial** e clique em **Salvar**.
+1. Insira seu CNAME em **Domain name for Landing Pages**, digite a **Fallback page**, insira a **Homepage** e clique em **Salvar**.
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
-Sua página de fallback é onde as pessoas serão redirecionadas se sua landing page de marketing não estiver disponível.
+Sua página de fallback é onde as pessoas serão redirecionadas se a página de aterrissagem do Marketo não estiver disponível.
 
-Bom trabalho! Suas landings page agora têm sua marca de domínio de empresa.
+Excelente! Suas páginas de aterrissagem agora são marcadas com o domínio de sua empresa.
