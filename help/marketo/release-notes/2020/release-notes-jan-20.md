@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37355534
-description: Notas de versão - Janeiro de 2020 - Documentos do Marketo - Documentação do produto
+description: Notas de versão - Janeiro de 2020 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - Janeiro de 2020
+exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '838'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Notas de versão: Jan 2020 {#release-notes-jan}
 
@@ -32,11 +32,11 @@ Os seguintes recursos serão lançados em **17 de janeiro de 2020**.
 >Atualmente, AEM Seletor de ativos é totalmente compatível apenas com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome (v. 80), dependendo das configurações de cookie do SameSite.
 
 * **Microsoft Dynamics - Sincronizar lead para o CRM em tempo** real: Sincronização de leads em tempo real e contatos entre o Marketo Engage e o Microsoft Dynamics. Crie leads ou contatos e os veja no Microsoft Dynamics imediatamente com a ação de fluxo &quot;Sincronizar pessoa com a Microsoft&quot;.
-* **Mapeamento** de campo adicional do Forms Gen do LinkedIn: Capture dados de clientes potenciais do LinkedIn Lead Gen Forms para criar experiências mais relevantes para pontos de contato de vendas e marketing. Puxe campos ocultos, campos de consentimento e o campo de lead do teste para o Marketo Engage.
+* **Mapeamento** de campo adicional Forms da geração de leads do linkedIn: Capture dados de clientes potenciais do LinkedIn Lead Gen Forms para criar experiências mais relevantes para pontos de contato de vendas e marketing. Puxe campos ocultos, campos de consentimento e o campo de lead do teste para o Marketo Engage.
 * **API** de dependências do modelo de email: Obtenha uma lista de ativos que dependem de um modelo de email para entender o escopo de possíveis alterações e as dependências de endereço para modelos podem ser alteradas e excluídas mais rapidamente.
 * **Melhorias** no gerenciamento de várias instâncias: Navegue até a instância de que você precisa rapidamente com um menu suspenso rolável e alfabético de suas assinaturas.
 
-## Marketing baseado em conta {#account-based-marketing}
+## Marketing baseado em contas {#account-based-marketing}
 
 ![(estrela)](assets/star-yellow.svg)
 
@@ -59,20 +59,20 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 * [Edição](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio) de imagem: Acesse os recursos de edição do Adobe sem precisar sair do Marketo Engage. Essa nova funcionalidade permite que você faça coisas como aprimorar, recortar e adicionar texto a imagens diretamente no Design Studio.
 
-## Insight de vendas {#sales-insight}
+## Sales Insight {#sales-insight}
 
 * **Ações** em massa do Salesforce Lightning: Aumente a eficiência das vendas e mantenha os compradores envolvidos com a capacidade de adicionar até 200 contatos/leads a campanhas e enviar emails de Marketo Engage em massa com o Salesforce Lightning.
 * **Suporte móvel para Salesforce1**: Agora você tem acesso móvel para todos os recursos de informações de vendas, como Momentos interessantes e Atividades da Web e Emails, diretamente no aplicativo Salesforce1.
 * **Aprimoramentos** da interface do usuário: Atualização da interface com aprimoramentos à legibilidade e um design consistente com nossa experiência em Marketo Sky.
 
-## Conexão de Vendas {#sales-connect}
+## SalesConnect {#sales-connect}
 
 * **Componentes** de grade: Otimize sua instância de Conexão de Vendas com novas funcionalidades de personalização de grade. Escolha quais colunas exibir, pesquise por colunas, selecione/desmarque todas as colunas e determine quantas linhas de dados você deseja visualizar em cada página.
 * **[Bloqueio](/help/marketo/product-docs/marketo-sales-connect/admin/content-lockdown.md)** de conteúdo: Maximize o alinhamento da marca com uma configuração de toda a assinatura que controla se os não administradores têm a capacidade de criar e editar modelos e campanhas.
 
 >[!NOTE]
 >
->* **Substituição** de TLS 1.0 e 1.1: Em um esforço contínuo de integração com a transferência da estrutura do Adobe, estamos descontinuando o TLS 1.0 e o TLS 1.1 para 13 de janeiro de 2020. Informações mais detalhadas podem ser encontradas [aqui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>* **Substituição** de TLS 1.0 e 1.1: Em um esforço contínuo de integração com a transferência da estrutura do Adobe, estamos descontinuando o TLS 1.0 e o TLS 1.1 para 13 de janeiro de 2020. Você encontra informações mais detalhadas [aqui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
    >
    >
 * **Atualização** do ITP 2.1+ Munchkin: Devido a alterações na política de cookies do Safari, a capacidade do Munchkin de rastrear usuários em sessões no mesmo domínio será limitada pelo ITP a 1 ou 7 dias com base na versão do navegador e do navegador usada pelo visitante. Para levar isso em conta, estamos implementando um novo serviço da Web para permitir que os cookies do Munchkin sejam definidos com um cabeçalho Set-Cookie por meio da resposta HTTP. Mais informações sobre como implementar este novo serviço podem ser encontradas [aqui](https://nation.marketo.com/docs/DOC-7351).
