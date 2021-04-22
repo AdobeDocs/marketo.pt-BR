@@ -1,52 +1,52 @@
 ---
 unique-page-id: 6094890
-description: Notas de versão - fevereiro de 2015 - Documentos do Marketo - Documentação do produto
+description: Notas de versão - fevereiro de 2015 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - fevereiro de 2015
+exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-
 # Notas de versão: Fevereiro de 2015 {#release-notes-february}
 
-Os seguintes recursos foram incluídos na versão de fevereiro de 2015. Verifique a disponibilidade de recursos do Marketing Edition. Após o lançamento, volte a encontrar links para artigos detalhados para cada recurso. Rolo de tambor...
+Os seguintes recursos estão incluídos na versão de fevereiro de 2015. Verifique sua Marketo Edition para ver a disponibilidade dos recursos. Após o lançamento, volte para encontrar links para artigos detalhados de cada recurso. Rolo do tambor...
 
-## Aprimoramentos da Marketing Automation {#marketing-automation-enhancements}
+## Aprimoramentos da automação de marketing {#marketing-automation-enhancements}
 
-**[Mover Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
+**[Mover campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
-Alegre-se! Agora você pode mover campanhas inteligentes para dentro e para fora de programas usando o recurso arrastar e soltar ou o recurso Mover na árvore.
+Alegre-se! Agora você pode arrastar e soltar ou usar o recurso Mover, da árvore, para incluir ou retirar campanhas inteligentes de programas.
 
 **[Dynamics 2015 (Online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)**  - compatível!
 
 **Alterações no certificado HTTPS**
 
-Para proteger a confidencialidade e a integridade dos dados do cliente e dos serviços SaaS, o Marketo segue as práticas recomendadas do setor SaaS
+Para proteger a confidencialidade e a integridade dos dados de clientes e dos serviços SaaS, a Marketo segue as práticas recomendadas do setor SaaS
 
-e substituirá os protocolos de segurança usados no momento (SHA-1 e SSL) por versões mais seguras (SHA-2 (também conhecido como SHA-256) e TLS) para os seguintes domínios:
+e substituirão os protocolos de segurança usados atualmente (SHA-1 e SSL) por versões mais seguras (SHA-2 (também conhecido como SHA-256) e TLS) para os seguintes domínios:
 
-* [marketo.net](https://marketo.net) (tráfego Munchkin criptografado)
+* [marketo.net](https://marketo.net)  (tráfego do Munchkin criptografado)
 
-* [marketo.com](https://marketo.com) (principais aplicativos SaaS)
+* [marketo.com](https://marketo.com)  (principais aplicativos SaaS)
 
-Isso acontecerá pouco depois desta versão. O protocolo SHA-1 será temporariamente suportado no domínio [mktoapi.com](https://mktoapi.com) até dezembro de 2015 para permitir que os proprietários de sistemas e aplicativos herdados atualizem seus sistemas com compatibilidade com SHA-2.
+Isso ocorrerá logo após essa versão. O protocolo SHA-1 será temporariamente compatível no domínio [mktoapi.com](https://mktoapi.com) até dezembro de 2015 para permitir que os proprietários de sistemas e aplicativos herdados atualizem seus sistemas com compatibilidade SHA-2.
 
-**Munchkin seguro**
+**Secure Munchkin**
 
-Estamos removendo nosso suporte para SSL3. Mantivemos o SSL3 até agora para manter o suporte a navegadores da Web antigos, mas em 2015 não estamos mais vendo tráfego significativo da Web desses navegadores. Isso só afetaria Munchkin quando usado em páginas seguras, e será lançado lentamente após o lançamento de fevereiro.
+Estamos removendo nosso suporte para SSL3. Mantivemos o SSL3 até agora para manter o suporte a navegadores da Web antigos, mas em 2015 não estamos mais vendo tráfego significativo da Web desses navegadores. Isso só afetaria o Munchkin quando usado em páginas seguras e será implantado lentamente após o lançamento do mês de fevereiro.
 
 ## Aprimoramentos de personalização em tempo real {#real-time-personalization-enhancements}
 
-**[URL do público alvo para Campanha](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
+**[URL do Target para campanhas](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
 
-Selecione as páginas que deseja que sua campanha em tempo real seja exibida usando &#39;Adicionar um URL de Público alvo&#39;. Esse recurso funciona com todos os tipos de campanha (Diálogo, Em zona, Widgets), mas é especialmente valioso para campanhas na zona, onde uma campanha será renderizada na ID da zona somente para o URL do público alvo selecionado. Ele oferece suporte à adição de vários URLs a públicos alvos de páginas da Web diferentes.
+Selecione as páginas que gostaria de exibir em sua campanha em tempo real usando &quot;Adicionar um URL de destino&quot;. Esse recurso funciona com todos os tipos de campanha (Caixa de diálogo, Na zona, widgets), mas é especialmente valioso para campanhas Na zona, onde uma campanha será renderizada na ID da zona somente para o URL de destino selecionado. É compatível com a adição de vários URLs para direcionar páginas da Web diferentes.
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-**País e estado adicionados à definição de metas baseada em conta**
+**País e estado adicionados ao direcionamento baseado em conta**
 
-O país e o estado podem ser adicionados às Listas de conta nomeada. Prospectos de conta da chave do público alvo de locais específicos.
+Agora é possível adicionar país e estado a Listas de contas nomeadas. Direcionar potenciais contas chave de locais específicos.
