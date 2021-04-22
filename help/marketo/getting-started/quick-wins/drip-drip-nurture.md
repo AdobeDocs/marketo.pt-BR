@@ -1,51 +1,51 @@
 ---
 unique-page-id: 2359420
-description: Drip, Drip, Ensino - Documentos do Marketing - Documentação do produto
-title: Derramamento, Derramamento, Enfermeira
+description: Drip, Drip, Nurture - Documentação da Marketo - Documentação do produto
+title: Promoção gota a gota
+exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
 
+# Promoção gota a gota {#drip-drip-nurture}
 
-# Unidade, Depuração, Enfermagem {#drip-drip-nurture}
+## Missão: Prepare as pessoas que assistiram ao seu show comercial recente {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
-## Missão: Enfermeira as pessoas que compareceram à sua apresentação comercial recente {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
-
-Você pode criar facilmente um sistema de criação avançado e sofisticado em Marketo. Veja como!
+Você pode criar facilmente um sistema de criação avançado e sofisticado no Marketo. Veja como!
 
 >[!PREREQUISITES]
 >
 >* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Importar uma Lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
-## Etapa 1: Criar um Programa de envolvimento {#step-create-an-engagement-program}
+## Etapa 1: &#x200B;criar um programa de envolvimento {#step-create-an-engagement-program}
 
-1. Vá para a área **Atividades de marketing**.
+1. Vá para a área **Marketing Activities**.
 
    ![](assets/one-3.png)
 
-1. Selecione a pasta **Learning**, clique no menu suspenso **New** e selecione **Novo Programa**.
+1. Selecione a pasta **Learning**, clique no menu suspenso **New** e selecione **New Program**.
 
    ![](assets/two-4.png)
 
-1. Digite um **Nome** e selecione **Envolvimento** para o **Tipo de Programa**.
+1. Insira um **Nome** e selecione **Envolvimento** para o **Tipo de Programa**.
 
    ![](assets/three-3.png)
 
-1. Verifique se o campo **Canal** é **Ambiente** e clique em **Criar**.
+1. Verifique se o campo **Canal** é **Infraestrutura** e clique em **Criar**.
 
    ![](assets/four-2.png)
 
-   Agora você criou um programa de envolvimento.
+   Você acaba de criar um programa de envolvimento.
 
-## Etapa 2: Criar um email {#step-create-an-email}
+## Etapa 2: &#x200B;criar um e-mail  {#step-create-an-email}
 
-1. Selecione seu programa de envolvimento, clique em **Novo** e selecione **Novo ativo local**.
+1. Selecione seu programa de envolvimento, clique em **New** e selecione **New Local Asset**.
 
    ![](assets/five-3.png)
 
@@ -59,7 +59,7 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    >[!NOTE]
    >
-   >Não vê o editor de email? Seu navegador provavelmente bloqueou a janela. Ative os pop-ups de [app.marketo.com](https://app.marketo.com) no seu navegador e clique em **Editar rascunho** na barra de menus superior.
+   >Não está vendo o editor de e-mail? Seu navegador provavelmente bloqueou a janela. Ative os pop-ups de [app.marketo.com](https://app.marketo.com) no seu navegador e clique em **Editar rascunho** na barra de menu superior.
 
 1. Insira um assunto.
 
@@ -69,7 +69,7 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    ![](assets/nine-1.png)
 
-1. Edite seu email e clique em **Salvar**.
+1. Edite seu email e clique em **Save**.
 
    ![](assets/ten-3.png)
 
@@ -77,53 +77,53 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    ![](assets/eleven-3.png)
 
-1. Em **Ações de e-mail**, clique em **Aprovar**.
+1. Em **Ações de email**, clique em **Aprovar**.
 
    ![](assets/twelve-2.png)
 
    >[!NOTE]
    >
-   >Não se esqueça de aprovar seus emails ou não poderá ativá-los mais tarde.
+   >Não esqueça: se não aprovar seus e-mails, você não poderá ativá-los depois.
 
-1. Agora, crie outro email repetindo as ações da Etapa 2.
+1. Agora crie outro e-mail repetindo as ações da Etapa 2.
 
    ![](assets/thirteen-2.png)
 
-## Etapa 3: Adicionar conteúdo ao seu fluxo {#step-add-content-to-your-stream}
+## Etapa 3: adicionar conteúdo a seu fluxo  {#step-add-content-to-your-stream}
 
-1. Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento usando os emails criados.
+1. Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento usando os e-mails que criou.
 
-1. Selecione seu programa de envolvimento e clique na guia **Streams**.
+1. Selecione o programa de envolvimento e clique na guia **Streams**.
 
    ![](assets/fourteen-2.png)
 
-1. Arraste os dois emails criados para a tela direita.
+1. Arraste os dois e-mails que criou para a tela da direita.
 
    ![](assets/fifteen-2.png)
 
    >[!TIP]
    >
-   >Você também pode usar o botão **Adicionar conteúdo** ou o ícone de fluxo **+**.
+   >Você também pode usar o botão **Adicionar Conteúdo** ou o ícone de fluxo **+**.
 
-## Etapa 4: Ativar conteúdo de fluxo {#step-activate-stream-content}
+## Etapa 4: ativar o conteúdo do fluxo {#step-activate-stream-content}
 
-1. Ative todo o conteúdo de uma só vez clicando no ícone de engrenagem de fluxo e, em seguida, clique em **Ativar todo o conteúdo**.
+1. Ative todo o conteúdo de uma só vez clicando no ícone de engrenagem do fluxo e clique em **Ativar todo o conteúdo**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
    >[!NOTE]
    >
-   >Não é possível ativar o conteúdo sem aprová-lo primeiro.
+   >Você não pode ativar o conteúdo sem primeiro o aprovar.
 
-   Ótimo trabalho! Mais uma etapa e o programa de envolvimento está pronto.
+   Ótimo! Mais uma etapa, e o programa de envolvimento estará pronto.
 
-## Etapa 5: Defina a Cadência de fluxo {#step-set-the-stream-cadence}
+## Etapa 5: definir a cadência do fluxo  {#step-set-the-stream-cadence}
 
 1. Clique em **Definir cadência de fluxo**.
 
    ![](assets/seventeen.png)
 
-1. Edite as configurações para que correspondam ao agendamento desejado e clique em **Salvar**.
+1. Edite as configurações para corresponder ao agendamento desejado e clique em **Salvar**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -131,11 +131,11 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
    >[!NOTE]
    >
-   >A pessoa de teste é a pessoa que verifica seu programa de envolvimento para testar se está correto antes de enviar aos clientes.
+   >A pessoa de teste é a pessoa que verifica seu programa de engajamento para testar se está correto antes de enviar para os clientes.
 
-## Etapa 6: Adicionar uma pessoa de teste ao seu Programa de envolvimento {#step-add-a-test-person-to-your-engagement-program}
+## Etapa 6: Adicionar uma pessoa de teste ao seu programa de envolvimento {#step-add-a-test-person-to-your-engagement-program}
 
-1. Vá para a área **Banco de Dados**.
+1. Vá para a área **Database**.
 
    ![](assets/nineteen-1.png)
 
@@ -147,17 +147,17 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
    >
    >Certifique-se de que a pessoa de teste tenha um endereço de email válido para que você possa confirmar o recebimento de emails ao testar.
 
-1. Clique com o botão direito do mouse na pessoa e, em seguida, clique em Programas e em Adicionar ao Programa de envolvimento.
+1. Clique com o botão direito do mouse na pessoa e depois clique em Programas e Adicionar ao programa de envolvimento.
 
    ![](assets/twenty-one.png)
 
-1. Selecione seu **Programa** e **Fluxo**, em seguida, clique em **Executar agora**.
+1. Selecione o **Programa** e **Fluxo** e clique em **Executar agora**.
 
    ![](assets/twenty-two.png)
 
-1. Missão concluída!
+1. Missão cumprida!
 
-1. Você deve receber e-mail no momento e cadência especificados.
+1. Agora você deverá receber e-mails no momento e na cadência especificados.
 
    >[!NOTE]
    >
@@ -165,6 +165,6 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado em M
 
 <br> 
 
-[◄ Missão 5: Importar uma Lista de clientes potenciais](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ Missão 5: importar uma lista de leads](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
-[Missão 7: Personalizar um email ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[Missão 7: personalizar um e-mail ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
