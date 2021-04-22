@@ -1,102 +1,102 @@
 ---
 unique-page-id: 11370952
-description: Notas de versão - Primeiro trimestre de 2016 - Documentos de marketing - Documentação do produto
-title: Notas de versão - Primeiro trimestre de 2016
+description: Notas de versão - Primeiro trimestre de 2016 - Documentos da Marketo - Documentação do produto
+title: Notas de versão - Primavera de 16
+exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 translation-type: tm+mt
-source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%
 
 ---
 
-
 # Notas de versão: Primavera &#39;16 {#release-notes-spring}
 
-Os seguintes recursos estão incluídos na versão do primeiro trimestre de 2016. Clique nos links de título para artigos detalhados de visualização para cada recurso.
+Os seguintes recursos estão incluídos na versão do primeiro trimestre de 16. Clique nos links de título para exibir os artigos detalhados de cada recurso.
 
-## [Insights de email](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
+## [Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-O Email Insights é uma nova experiência histórica de análise de e-mail de dados de agregação — reprojetado de ponta a ponta para desempenho rápido e relâmpago como parte do Project Orion. Ele apresenta um novo design de interface do usuário otimizado para atender às necessidades e ao fluxo de trabalho dos profissionais de marketing de email.
+O Email Insights é uma nova experiência histórica de análise de email de dados agregados — reprojetada e completa para proporcionar um desempenho extremamente rápido como parte do Project Orion. Ele apresenta um design de interface do usuário totalmente novo e otimizado para atender às necessidades e ao fluxo de trabalho dos profissionais de marketing de email.
 
 >[!NOTE]
 >
->Estamos lançando o Email Insights para clientes em lotes, a partir de 3 de junho. Nosso objetivo é completar isso nos próximos meses. Você será notificado por email quando estiver habilitado.
+>Estamos lançando o Email Insights para os clientes em lotes, a partir de 3 de junho. Nosso objetivo é concluir isso nos próximos meses. Você será notificado por email quando estiver habilitado.
 
 ![](assets/two.png)
 
-## [Seletor de modelo de email](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
+## [Seletor de modelos de e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
 
-Crie belos e-mails usando nossos novos modelos iniciais! Além disso, localize rapidamente seus modelos a partir de suas miniaturas ativas.
+Crie belos emails usando nossos novos Modelos iniciais! Além disso, localize rapidamente seus modelos a partir de suas miniaturas ativas.
 
 >[!NOTE]
 >
->O Editor de e-mail 2.0 (com o Seletor de modelos) será lançado gradualmente a partir de 3 de junho. Concluiremos o lançamento até 30 de junho. Ao contrário do Email Insights, você não será notificado quando tiver acesso. Para ver se sim, siga as etapas em [este artigo](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
+>O Editor de email 2.0 (com o Seletor de modelo) será lançado gradualmente a partir de 3 de junho. Concluiremos o lançamento até 30 de junho. Ao contrário do Email Insights, você não será notificado quando tiver acesso. Para ver se o faz, siga as etapas em [this article](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
-## [Edição de e-mail — recriação](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
+## [Edição de email — recriação de imagens](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
 
-É isso mesmo, um novo editor de e-mail! Use a funcionalidade leve de arrastar e soltar para adicionar e reordenar o conteúdo. Novos elementos, incluindo imagens, vídeos, variáveis e módulos, certamente aprimoram sua experiência de edição. Consulte também o editor de código atualizado, o visualizador e o suporte a pré-cabeçalho.
+É isso mesmo, um novo editor de email! Use a funcionalidade leve de arrastar e soltar para adicionar e reordenar o conteúdo. Novos elementos, incluindo imagens, vídeos, variáveis e módulos, certamente melhorarão sua experiência de edição. Além disso, verifique o editor de código atualizado, visualizador e suporte ao pré-cabeçalho.
 
 ![](assets/17a-29-modules-next.png)
 
 ## [Mensagens no aplicativo móvel](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md) {#mobile-in-app-messages}
 
-Crie mensagens surpreendentes no aplicativo para seu aplicativo diretamente no Marketo. Defina exatamente quem deve vê-la e quando com o programa de mensagem no aplicativo. Monitore facilmente seu desempenho com o painel do programa.
+Crie mensagens impressionantes no aplicativo para seu aplicativo diretamente no Marketo. Defina exatamente quem deve vê-lo e quando com o programa de mensagens no aplicativo. Monitore facilmente seu desempenho com o painel do programa.
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [Nenhum trecho de rascunho](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## [Sem trechos de rascunho](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
-Foram-se os dias em que você tem que reaprovar tudo toda vez que um snippet é atualizado! Com a opção Sem rascunho, todos os emails e landings page que usam um snippet obtêm as atualizações de snippet e mantêm seus status anteriores. Cada vez que você aprovar um snippet, terá a opção de executar Sem rascunho e atualizar tudo ou criar rascunhos. Depende de você! O No-Draft estará disponível para todos os clientes e será controlado por uma nova permissão em Administrador.
+Foram-se os dias em que você precisa aprovar novamente tudo sempre que um trecho é atualizado! Com a opção Sem rascunho, todos os emails e landing pages usando um trecho receberão as atualizações do trecho e manterão seus status anteriores. Cada vez que você aprovar um trecho, terá a opção de executar Sem rascunho e atualizar tudo ou criar rascunhos. Cabe a você! O Sem rascunho estará disponível para todos os clientes e será controlado por uma nova permissão em Administração.
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [landing page, modelo de Landing page e APIs de formulário](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## [Página de aterrissagem, Modelo de página de aterrissagem e APIs de formulário](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
-As APIs REST do Marketo agora oferecem suporte ao controle sobre landings page de marketing, modelos de landing page e formulários. Agora, os usuários podem criar, atualizar conteúdo, aprovar e excluir esses ativos diretamente por meio da API REST de marketing.
+As APIs REST do Marketo agora oferecem suporte ao controle de páginas iniciais, modelos de páginas de aterrissagem e formulários do Marketo. Agora os usuários podem criar, atualizar o conteúdo, aprovar e excluir esses ativos diretamente da API REST do Marketo.
 
 ## [INCLUIR NA LISTA DE PERMISSÕES IP para acesso à API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Semelhante ao recurso de  de IP para logons de usuário do Marketing incluir na lista de permissões, os administradores do Marketo agora podem configurar uma lista de permissões de endereços IP que podem acessar as APIs SOAP e REST do Marketo, bloqueando o acesso de endereços IP não autorizados. Isso fornece uma camada adicional de segurança para a sua instância do Marketo e garante que o acesso à API só possa ocorrer na rede da sua organização. Detalhes sobre como configurar isso estão disponíveis no [site de documentação do Marketing](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Semelhante ao recurso de  de IP incluir na lista de permissões para logons de usuários da Marketo, os administradores da Marketo agora podem configurar uma lista de permissões de endereços IP que podem acessar as APIs SOAP e REST da Marketo, bloqueando o acesso de endereços IP não autorizados. Isso fornece uma camada adicional de segurança para a instância do Marketo e garante que o acesso à API só possa ocorrer a partir da rede da organização. Detalhes sobre como configurar isso estão disponíveis no [site de documentação do Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Novo Microsoft Dynamics Sync Connector de Alta Velocidade](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-Construído na arquitetura Orion, o novo conector dinâmico de alta velocidade fornece velocidades até 20 vezes mais rápidas para sincronização inicial e até 5 vezes mais rápido para sincronização incremental. Todos os novos clientes serão integrados a esse conector na data de lançamento, e nós o implantaremos gradualmente aos clientes existentes durante o período de lançamento do verão.
+Construído na arquitetura do Orion, o novo conector de dinâmica de alta velocidade fornece velocidades até 20 vezes mais rápidas para sincronização inicial e até 5 vezes mais rápidas para sincronização incremental. Todos os novos clientes serão integrados a esse conector na data de lançamento e nós o implementaremos gradualmente aos clientes existentes durante o período de lançamento do verão.
 
-**Atualizar dados para novos campos**: Agora você pode ativar novos campos de sincronização a qualquer momento e todos os valores de dados para esse campo serão atualizados do Dynamics CRM para o Marketing. Não há mais preocupações sobre a necessidade de selecionar todos os campos durante a configuração inicial. Se você desativar um campo de sincronização existente e reativá-lo posteriormente, todos os valores de dados desse campo serão atualizados do Dynamics CRM para o Marketo.
+**Atualizar dados para novos campos**: Agora é possível ativar novos campos de sincronização em qualquer momento e todos os valores de dados para esse campo serão atualizados do Dynamics CRM para o Marketo. Não há mais preocupações sobre a necessidade de selecionar todos os campos durante a configuração inicial. Se você desativar um campo de sincronização existente e reativá-lo posteriormente, todos os valores de dados para esse campo serão atualizados do Dynamics CRM para o Marketo.
 
-**Sincronizar cliente potencial como contato**: A ação de fluxo Sincronizar cliente potencial com a Microsoft tem uma nova opção para sincronizar como cliente potencial ou contato.
+**Sincronizar lead como contato**: A ação de fluxo Sincronizar lead para a Microsoft tem uma nova opção para sincronizar como um lead ou contato.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Guia** Admin de Erros de Sincronização: Procure, pesquise ou exporte clientes potenciais (e outros objetos) que não tenham sincronizado com detalhes como operação, direção, código de erro e mensagem de erro.
+**Guia Admin** de Erros de Sincronização: Pesquise, pesquise ou exporte leads (e outros objetos) que não foram sincronizados com detalhes como operação, direção, código de erro e mensagem de erro.
 
 ![](assets/sync-errors.png)
 
-**Microsoft Dynamics 2016**: O conector está totalmente certificado para as versões online e local do Dynamics 2016.
+**Microsoft Dynamics 2016**: O Connector é totalmente certificado para as versões online e local do Dynamics 2016.
 
-**As atualizações de plug-ins agora estão documentadas:** consulte o artigo [ sobre atualizações de ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)plug-ins.
+**As atualizações de plug-in agora estão documentadas:** consulte o artigo sobre atualizações de  [plug-in nos documentos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
-## [Nome da instância amigável](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
+## [Nome da Instância Amigável](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
-Atualmente, é difícil diferenciar entre instâncias de marketing, por exemplo, sandbox e instâncias de produção. Este recurso permite saber em quais instâncias você está trabalhando no momento.
+Hoje, é difícil diferenciar entre instâncias do Marketo, por exemplo, sandbox e instâncias de produção. Esse recurso permite saber em quais instâncias você está trabalhando no momento.
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
-## [Acesso por tempo limitado para Subscrição](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
+## [Acesso por tempo limitado para assinaturas](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
 
-Hoje, os usuários são convidados para a subscrição do Marketing por um período indefinido. Esse recurso permite que os administradores convidem usuários para o subscrição por um período limitado, por exemplo, 2 semanas ou 1 mês.
+Atualmente, os usuários são convidados para a assinatura da Marketo por um período indefinido. Esse recurso permite que os administradores convidem usuários para assinaturas por um período limitado, por exemplo, 2 semanas ou 1 mês.
 
 ![](assets/image2016-5-16-15-3a59-3a52.png)
 
-## [Grade de objetos personalizados](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) {#custom-objects-grid}
+## [Grade de Objetos Personalizados](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) {#custom-objects-grid}
 
-Agora, você pode visualização o número de registros e campos para todos os objetos personalizados publicados.
+Agora, é possível exibir o número de registros e campos para todos os objetos personalizados publicados.
 
 ![](assets/custom-objects-grid.png)
 
 ## Atividades personalizadas {#custom-activities}
 
-Os administradores de marketing agora podem definir e gerenciar seus tipos de atividade personalizados por meio do modelador Definição de Atividade personalizada de marketing. Semelhante ao (e em conjunto com) o Modelador de objeto personalizado de marketing, os administradores agora podem estender o modelo de dados de acordo com suas necessidades comerciais exatas. Detalhes sobre como usar essa funcionalidade estão disponíveis no [site de documentação do Marketing](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
+Agora, os administradores do Marketo podem definir e gerenciar seus tipos de atividade personalizados por meio do modelador de Definição de atividade personalizada do Marketo. Assim como (e em conjunto com) o Marketo Custom Object Modeler, os administradores agora podem estender o modelo de dados para atender às necessidades exatas dos negócios. Detalhes sobre como usar essa funcionalidade estão disponíveis no [site de documentação do Marketo](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
