@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360207
-description: Criar uma API somente para usuário - Documentos do Marketing - Documentação do produto
+description: Criar um usuário somente de API - Documentos do Marketo - Documentação do produto
 title: Criar um usuário somente de API
+exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Criar um usuário somente de API {#create-an-api-only-user}
 
-Se você quiser se integrar ao Marketo por meio da [REST API](https://developers.marketo.com/documentation/rest/), será necessário criar um usuário somente de API. Veja como.
+Se quiser integrar com o Marketo por meio da [REST API](https://developers.marketo.com/documentation/rest/), será necessário criar uma API somente para usuário. Veja como.
 
 >[!PREREQUISITES]
 >
@@ -24,7 +24,7 @@ Se você quiser se integrar ao Marketo por meio da [REST API](https://developers
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Admin**, clique em **Utilizadores e Funções.**
+1. Em **Admin**, clique em **Usuários e funções.**
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 
@@ -32,15 +32,15 @@ Se você quiser se integrar ao Marketo por meio da [REST API](https://developers
 
    ![](assets/image2014-9-17-9-3a32-3a3.png)
 
-1. Insira um email, nome e sobrenome somente para o usuário da API. Clique em **Próximo**.
+1. Insira um email, nome e sobrenome somente para o usuário da API. Clique em **Next**.
 
    ![](assets/image2016-5-24-10-3a53-3a7.png)
 
    >[!TIP]
    >
-   >Adicione um motivo opcional ou uma data de expiração de acesso. As datas de expiração do acesso são úteis para funcionários de curto prazo.
+   >Adicione um motivo opcional ou uma data de expiração do acesso. As datas de expiração do acesso são úteis para funcionários de curto prazo.
 
-1. Selecione a função **Somente API** e marque a caixa de seleção **Somente API**. Clique em **Próximo**.
+1. Selecione a função **Somente API** e marque a caixa de seleção **Somente API**. Clique em **Next**.
 
    ![](assets/four.png)
 
@@ -50,9 +50,9 @@ Se você quiser se integrar ao Marketo por meio da [REST API](https://developers
 
 >[!NOTE]
 >
->O pop-up diz, &quot;Um convite não é necessário apenas para API,&quot; mas isso não significa que você tenha feito algo errado. Isso significa que criaremos a função sem que um email de convite tenha que ser enviado.
+>O pop-up diz, &quot;Um convite não é necessário apenas para a API&quot;, mas isso não significa que você tenha feito algo errado. Isso significa apenas que criaremos a função sem que um email de convite tenha que ser enviado.
 
-Tudo bem, então! Agora vamos criar o serviço personalizado.
+Muito bem, então! Agora vamos criar o serviço personalizado.
 
 >[!MORELIKETHIS]
 >
