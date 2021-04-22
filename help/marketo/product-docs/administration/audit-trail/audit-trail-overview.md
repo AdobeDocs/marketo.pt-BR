@@ -1,29 +1,29 @@
 ---
 unique-page-id: 11377945
-description: Visão geral da trilha de auditoria - Documentos do marketing - Documentação do produto
+description: Visão geral da trilha de auditoria - Documentos do Marketo - Documentação do produto
 title: Visão geral da trilha de auditoria
+exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
+# Visão geral da trilha de auditoria {#audit-trail-overview}
 
-# Visão Geral da Trilha de Auditoria {#audit-trail-overview}
-
-A Trilha de auditoria fornece a capacidade de obter um histórico completo (com seis meses de duração) das alterações feitas na sua instância de Marketo.
+A Trilha de auditoria fornece a capacidade de obter um histórico completo (com seis meses) das alterações feitas em sua instância do Marketo.
 
 >[!NOTE]
 >
->O histórico de dados de trilha de auditoria começou em 14 de setembro de 2016.
+>O histórico de dados da trilha de auditoria começou a partir de 14 de setembro de 2016.
 
 ![](assets/one.png)
 
 ## O que é a Trilha de Auditoria {#what-is-audit-trail}
 
-A Trilha de auditoria captura, em tempo real, uma lista abrangente de ações e eventos que ocorrem em uma subscrição de marketing. Ele inclui uma forma de autoatendimento de acessar um histórico de dados de seis meses para ajudar a responder perguntas como:
+A Trilha de auditoria captura, em tempo real, uma lista abrangente de ações e eventos que ocorrem em uma assinatura do Marketo. Ele inclui uma maneira de autoatendimento para acessar um histórico de seis meses de dados que ajudam a responder perguntas como:
 
 O que aconteceu com esse ativo ou configuração e quem o atualizou pela última vez?
 
@@ -31,26 +31,26 @@ O que o usuário X está aprontando?
 
 Quem está fazendo logon em nossa conta?
 
-## O que nós auditamos {#what-we-audit}
+## O que auditamos {#what-we-audit}
 
-O Marketo irá auditar as ações [criar, editar e eliminar](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) para:
+A Marketo auditará as ações [criar, editar e excluir](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) para:
 
-* Projetar ativos de estúdio
-* Todos os programas de marketing
+* Projetar ativos do estúdio
+* Todos os programas Marketo
 * Campanhas inteligentes
-* Lista (inteligente/estático)
+* Listas (inteligentes/estáticas)
 * Usuários (administrador)
 * Funções e permissões (administrador)
-* Área de trabalho e partições (administrador)
-* Histórico de login do usuário
+* Espaço de trabalho e partições (administrador)
+* Histórico de logon do usuário
 
 >[!NOTE]
 >
->O Marketo é _e não_ alterações de auditoria feitas na Personalização da Web, Conteúdo Preditivo ou Insight de Vendas no momento.
+>O Marketo é _e não_ alterações de auditoria feitas dentro da Personalização da Web, Conteúdo preditivo ou Insight de vendas no momento.
 
-## Componentes de trilha de auditoria {#audit-trail-components}
+## Componentes da trilha de auditoria {#audit-trail-components}
 
-A Trilha de auditoria é composta por três componentes.
+A Trilha de auditoria consiste em três componentes.
 
 **1) Trilha de auditoria de  [ativos](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
@@ -58,11 +58,11 @@ Consulte atividade feita para ativos específicos.
 
 **2) Trilha de auditoria  [do administrador](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
-Monitore detalhes baseados no usuário.
+Monitore detalhes com base no usuário.
 
 **3) Histórico de logon  [do usuário](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-Veja quem tem feito logon na sua subscrição e quando. Também inclui tentativas de login com falha.
+Veja quem tem feito logon em sua assinatura e quando. Também inclui tentativas com falha de logon.
 
 >[!TIP]
 >
@@ -70,7 +70,7 @@ Veja quem tem feito logon na sua subscrição e quando. Também inclui tentativa
 
 ## Exportando dados {#exporting-data}
 
-Você só pode visualização 30 dias de dados em sua instância. Para obter (até) o valor de seis meses, use a opção de exportação.
+Você só pode visualizar dados correspondentes a 30 dias na sua instância. Para obter (até) seis meses, use a opção de exportação.
 
 ![](assets/two.png)
 
@@ -78,7 +78,7 @@ Você só pode visualização 30 dias de dados em sua instância. Para obter (at
 >
 >**Definição**
 >
->**Desconhecido:** Na trilha de auditoria, você pode ver o nome e o email de um usuário listados como &quot;Desconhecido&quot;. Isso acontece quando você altera os valores da lista de opções no CRM. Esses valores aparecem nos formulários e landings page do Marketo. Ao fazer essa atualização no lado do CRM, as landings page serão automaticamente projetadas com referência ao formulário. Na trilha de auditoria, capturaremos que a landing page foi redigida, mas o nome e o email do usuário serão exibidos como &quot;Desconhecido&quot;, pois não conseguimos capturar as informações do usuário do lado do CRM.
+>**Desconhecido:** na trilha de auditoria, você pode ver o nome e o email de um usuário listados como &quot;Desconhecido&quot;. Isso acontece quando você faz uma alteração nos valores da lista de opções no seu CRM. Esses valores são exibidos nos formulários Marketo e nas páginas de aterrissagem. Fazer essa atualização no lado do CRM criará automaticamente suas landing pages que fazem referência ao formulário. Na trilha de auditoria, capturaremos que a landing page foi redigida, mas o nome do usuário e o email serão exibidos como &quot;Desconhecido&quot;, pois não podemos capturar as informações do usuário do lado do CRM.
 
 >[!MORELIKETHIS]
 >
