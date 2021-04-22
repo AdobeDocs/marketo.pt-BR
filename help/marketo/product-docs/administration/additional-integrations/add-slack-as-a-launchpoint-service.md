@@ -1,22 +1,22 @@
 ---
 unique-page-id: 12983619
-description: Adicionar Slack como um Serviço LaunchPoint - Documentos do Marketing - Documentação do produto
-title: Adicionar Slack como um Serviço do LaunchPoint
+description: Adicionar o Slack as a LaunchPoint Service - Documentos da Marketo - Documentação do produto
+title: Adicionar o Slack como um Serviço do LaunchPoint
+exl-id: 38c1501d-27ac-4c6c-967d-4decd10e0cb3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
-
-# Adicionar Slack como um Serviço LaunchPoint {#add-slack-as-a-launchpoint-service}
+# Adicionar o Slack como um Serviço do LaunchPoint {#add-slack-as-a-launchpoint-service}
 
 Há dois tipos de notificação incluídos na integração do Slack:
 
-* **Notificações** do sistema: Receba notificações de Slack sobre eventos importantes na sua instância do Marketo, como alertas sobre status atuais de campanha e quaisquer problemas que exijam atenção imediata (erros de CRM e limites de API).
-* **Momentos** interessantes: Quando um Marketing Insight é acionado por um indivíduo conhecido de uma conta, os proprietários de leads podem ser notificados via Slack. As notificações incluem informações de cliente potencial e detalhes sobre a conta.
+* **Notificações** do sistema: Obtenha notificações do Slack sobre eventos importantes em sua instância do Marketo, como alertas sobre os status atuais da campanha e quaisquer problemas que exijam atenção imediata (erros de CRM e limites de API).
+* **Momentos** interessantes: Quando um Marketo Insight é acionado por um indivíduo conhecido de uma conta de vendas, os proprietários de leads podem ser notificados por meio do Slack. As notificações incluem informações de cliente potencial, bem como detalhes sobre a conta de vendas.
 
 >[!NOTE]
 >
@@ -24,33 +24,33 @@ Há dois tipos de notificação incluídos na integração do Slack:
 
 >[!PREREQUISITES]
 >
->Se as Notificações do sistema do Slack já não estiverem ativadas, entre em contato com [Suporte do Marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Se você não tiver as Notificações do Sistema do Slack já ativadas, entre em contato com o [Suporte do Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Vá para **LaunchPoint** e, em **Novo**, clique em **Novo Serviço**.
+1. Vá para **LaunchPoint** e, em **New** clique em **New Service**.
 
    ![](assets/image2017-11-27-14-3a13-3a18.png)
 
-1. Insira um nome para exibição para a integração com o Slack. Na lista suspensa **Service**, selecione **Slack**. Clique em **Criar**.
+1. Insira um nome de exibição para a integração do Slack. Na lista suspensa **Service**, selecione **Slack**. Clique em **Criar**.
 
    ![](assets/image2017-11-27-15-3a54-3a11.png)
 
-1. Clique em **Autorizar**. Isso abre o Slack em uma nova guia, onde você concluirá a autorização e concederá permissão ao Marketo para obter informações do Slack.
+1. Clique em **Autorizar**. Isso abrirá o Slack em uma nova guia, onde você concluirá a autorização e concederá a permissão do Marketo para obter informações do Slack.
 
    ![](assets/image2017-11-27-14-3a16-3a6.png)
 
-1. Na nova guia Slack, insira o URL do seu espaço de trabalho e clique em **Continuar**.
+1. Na nova guia Slack , insira o URL do espaço de trabalho e clique em **Continue**.
 
    ![](assets/image2017-11-27-15-3a1-3a29.png)
 
-1. Insira suas credenciais de Slack e clique em **Entrar**.
+1. Insira suas credenciais do Slack e clique em **Fazer logon**.
 
    ![](assets/image2017-11-27-15-3a1-3a3.png)
 
-1. Na lista suspensa **Publicar em**, selecione o canal no qual deseja que as notificações do Marketo sejam publicadas. Revise as permissões solicitadas e clique em **Autorizar**.
+1. Na lista suspensa **Publicar em** , selecione o canal no qual deseja que as notificações do Marketo sejam postadas. Revise as permissões solicitadas e clique em **Autorizar**.
 
    ![](assets/image2018-1-9-13-3a21-3a50.png)
 
-1. Você deverá ver a tela de confirmação abaixo. A guia fecha automaticamente.
+1. Você deverá ver a tela de confirmação abaixo. A guia é fechada automaticamente.
 
    ![](assets/image2017-11-27-15-3a51-3a57.png)
 
@@ -58,6 +58,6 @@ Há dois tipos de notificação incluídos na integração do Slack:
 
    ![](assets/image2017-11-27-15-3a55-3a37.png)
 
-   As notificações começarão a postar no canal selecionado na etapa 6. Eles vão se parecer com isso:
+   As notificações começarão a ser postadas no canal selecionado na etapa 6. Eles vão se parecer com isso:
 
    ![](assets/samplenotification.png)
