@@ -1,14 +1,14 @@
 ---
-description: Notas de versão - Janeiro de 2021 - Documentação do Marketo - Documentação do produto
+description: Notas de versão - Janeiro de 2021 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - Janeiro de 2021
+exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
 
 ---
-
 
 # Notas de versão: Jan 2021 {#release-notes-jan-21}
 
@@ -34,16 +34,16 @@ Os seguintes recursos serão lançados em **15 de janeiro de 2021**.
 
 ## Páginas de aterrissagem e Forms {#landing-pages-and-forms}
 
-* **API** de formulário: Insira informações de lead ou acione campanhas de nutrição ao obter dados de formulários que não são do Marketo. Formulários que não são do Marketo podem ser integrados ao Marketo Engage por meio da REST API. A nova API fornece a capacidade de imitar o envio de formulário Marketo Engage com todas as funcionalidades associadas.
+* **API** de formulário: Puxe as informações do lead ou acione campanhas de criação enquanto extrai dados de formulários que não são da Marketo. Formulários não Marketo podem ser integrados com o Marketo Engage por meio da API REST. A nova API fornece a capacidade de imitar o envio de formulário Marketo Engage com todas as funcionalidades associadas.
 * **API** de páginas de aterrissagem: Simplifique os fluxos de trabalho de edição e tradução em aplicativos integrados com a nova API de visualização de página de aterrissagem. Fornecedores de terceiros agora podem renderizar visualizações totalmente personalizadas de páginas de aterrissagem sem fazer logon no Marketo Engage.  A API de visualização da página de aterrissagem permite fluxos de trabalho completos de edição e localização em aplicativos integrados de terceiros.
 
-## Marketing de email {#email-marketing}
+## Marketing por e-mail {#email-marketing}
 
 * **[Limites De Recuperação De Objetos Personalizados Aumentados](/help/marketo/product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)**: Os desenvolvedores de scripts do Velocity de email podem aumentar rapidamente o número de objetos personalizados para 100 por meio da substituição de autoatendimento. Os profissionais de marketing podem aumentar a eficácia das Campanhas inteligentes acessando um maior número de objetos personalizados de primeiro e segundo nível.
 
-## Integração do Salesforce CRM {#salesforce-crm-integration}
+## Integração ao CRM do Salesforce {#salesforce-crm-integration}
 
-* [Autenticação](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md) do Salesforce CRM: O protocolo OAuth 2.0 está disponível para operações de sincronização entre o Marketo Engage e o Salesforce CRM. Para novos assinantes, essa opção é ativada por padrão. Os assinantes atuais podem solicitar esse recurso entrando em contato com o Suporte do Marketo.
+* [Autenticação](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md) do Salesforce CRM: O protocolo OAuth 2.0 está disponível para operações de sincronização entre o Marketo Engage e o Salesforce CRM. Para novos assinantes, essa opção é ativada por padrão. Os assinantes atuais podem solicitar esse recurso entrando em contato com o Suporte da Marketo.
 * [Painel de Sincronização do Salesforce CRM](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md): Os administradores podem revisar rapidamente o status de sincronização do Salesforce CRM no painel. O intervalo do relatório de desempenho de sincronização foi aumentado de 2 horas para 5 dias.
 * **Exportação** de metadados: Aprimorado para oferecer suporte a atributos de objetos da oportunidade, contas nomeadas, campos padrão e personalizados do membro do programa.
 
@@ -55,7 +55,7 @@ Os seguintes recursos serão lançados em **15 de janeiro de 2021**.
 
 Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos próximos meses.
 
-## Insight de vendas {#sales-insight}
+## Sales Insight {#sales-insight}
 
 ![(estrela)](assets/star-yellow.svg)
 
@@ -65,7 +65,7 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 * **[Insight de vendas para integrações](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)** não nativas do Salesforce CRM: As assinaturas GA com integrações personalizadas do Salesforce CRM podem instalar o pacote Sales Insight e ajudar as equipes de vendas a priorizar e interagir com os clientes potenciais e as oportunidades mais promissoras.
 * **[Melhorias](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)** de melhor desempenho: Entre em contato rapidamente com clientes potenciais da guia Melhor Economia ao enviá-los por e-mail ou adicioná-los a uma Campanha do Marketo Engage. Exiba um lead no Marketo Engage ou adicione-o à sua lista de controle. As ações em massa e as opções de classificação na guia Melhor Economia economizam tempo e melhoram a eficiência da equipe de vendas.
 
-## Conexão de Vendas {#sales-connect}
+## SalesConnect {#sales-connect}
 
 ![(estrela)](assets/star-yellow.svg)
 
