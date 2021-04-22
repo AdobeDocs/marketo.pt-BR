@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360203
-description: Criar uma função de usuário somente da API - Documentos do marketing - Documentação do produto
+description: Criar uma função de usuário somente de API - Documentos do Marketo - Documentação do produto
 title: Criar uma função de usuário somente de API
 translation-type: tm+mt
 source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Criar uma função de usuário somente de API {#create-an-api-only-user-role}
+# Criar uma função de usuário somente API {#create-an-api-only-user-role}
 
-Se você deseja integrar com o Marketo por meio da [REST API](https://developers.marketo.com/documentation/rest/), a melhor prática é [atribuir a função Somente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) a um usuário e, em seguida, [criar um serviço personalizado para uso com a ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Veja como criar a função de usuário somente da API.
+Se quiser integrar com o Marketo por meio da [REST API](https://developers.marketo.com/documentation/rest/), a prática recomendada é [atribuir a um usuário a função Somente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) e [criar um serviço personalizado para uso com a ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Veja como criar a função de usuário somente API.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Em Meu marketing, clique em **Admin**.
+1. Em Meu Marketo, clique em **Admin**.
 
    ![](assets/adminhand-1.png)
 
@@ -27,7 +27,7 @@ Se você deseja integrar com o Marketo por meio da [REST API](https://developers
 
    ![](assets/two.png)
 
-1. Clique na guia **Funções** e, em seguida, **Nova função**.
+1. Clique na guia **Funções** e depois em **Nova Função**.
 
    ![](assets/image2014-9-16-13-3a47-3a12.png)
 
