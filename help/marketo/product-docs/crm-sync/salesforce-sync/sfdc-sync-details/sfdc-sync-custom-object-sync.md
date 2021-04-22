@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953471
-description: Sincronização SFDC - Sincronização de objetos personalizados - Documentos do Marketing - Documentação do produto
+description: Sincronização SFDC - Sincronização de Objeto Personalizado - Documentos do Marketo - Documentação do produto
 title: Sincronização SFDC - Sincronização de Objeto Personalizado
+exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
+# Sincronização SFDC: Sincronização de Objeto Personalizado {#sfdc-sync-custom-object-sync}
 
-# Sincronização SFDC: Sincronização de objetos personalizados {#sfdc-sync-custom-object-sync}
-
-Os objetos personalizados criados na instância do Salesforce também podem fazer parte do Marketing.  Veja como configurar.
+Os objetos personalizados criados na instância do Salesforce também podem fazer parte do Marketo.  Veja como configurar.
 
 >[!NOTE]
 >
@@ -21,25 +21,25 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
 >[!PREREQUISITES]
 >
->Para usar um objeto personalizado, ele deve estar associado a um objeto [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md) ou [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) no Salesforce.
+>Para usar um objeto personalizado, ele deve ser associado a um objeto [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md) ou [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) no Salesforce.
 
-## Ativar o objeto personalizado {#enable-custom-object}
+## Ativar Objeto Personalizado {#enable-custom-object}
 
 1. Clique em **Admin** e no link **Sincronização de objetos do Salesforce**.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. Se este for seu primeiro Objeto personalizado, clique em **Sincronizar Schema**.
+1. Se este for seu primeiro Objeto Personalizado, clique em **Sincronizar Esquema**.
 
    ![](assets/rtaimage-2.png)
 
-1. Clique em **Desativar sincronização global**.
+1. Clique em **Desativar Sincronização Global**.
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
    >[!NOTE]
    >
-   >Uma sincronização inicial do schema de objeto personalizado do Salesforce pode levar alguns minutos.
+   >Uma sincronização inicial do esquema de objeto personalizado do Salesforce pode levar alguns minutos.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -49,13 +49,13 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    >[!NOTE]
    >
-   >Objetos personalizados devem ter nomes exclusivos. O Marketo não suporta dois objetos personalizados diferentes com o mesmo nome.
+   >Os objetos personalizados devem ter nomes exclusivos. O Marketo não suporta dois objetos personalizados diferentes com o mesmo nome.
 
-1. Clique em **Ativar sincronização**.
+1. Clique em **Ativar Sincronização**.
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Clique novamente em **Ativar Sincronização**.
+1. Clique em **Ativar Sincronização** novamente.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -67,20 +67,20 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. Clique em **Ativar sincronização**.
+1. Clique em **Ativar Sincronização**.
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Para visualização de todos os objetos personalizados do Salesforce, clique no link **Admin** e **Sincronização de objetos do Salesforce** (o mesmo que na etapa 1 acima).
+1. Para exibir todos os objetos personalizados do Salesforce, clique em **Admin** e no link **Sincronização de objetos do Salesforce** (o mesmo que a etapa 1 acima).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
    >[!NOTE]
    >
-   >O Marketo oferece suporte apenas a entidades personalizadas que estão vinculadas a entidades padrão de um ou dois níveis de profundidade.
+   >O Marketo suporta apenas entidades personalizadas vinculadas a entidades padrão com profundidade de um ou dois níveis.
 
 ### O que vem a seguir: {#whats-next}
 
-[Adicionar/remover campo de objeto personalizado como restrições de Lista inteligente/acionador](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+[Adicionar/remover campo de objeto personalizado como restrições de lista inteligente/acionador](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
-Excelente! Agora você pode usar dados desse objeto personalizado em campanhas inteligentes e listas inteligentes.
+Excelente! Agora é possível usar dados desse objeto personalizado em campanhas inteligentes e listas inteligentes.
