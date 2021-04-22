@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147084
-description: Remover do fluxo - Documentos do marketing - Documentação do produto
-title: Remover do Fluxo
+description: Remover do Fluxo - Documentos do Marketo - Documentação do produto
+title: Remover do fluxo
+exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Remover do fluxo {#remove-from-flow}
 
-# Remover do Fluxo {#remove-from-flow}
-
-Imagine que você tem um fluxo de campanha inteligente que usa &quot;Enviar alerta&quot; para lembrar um representante de vendas para chamar um prospecto quente. Ela envia uma mensagem todos os dias até que o representante faça a chamada. Você pode usar &quot;Remover do fluxo&quot; em uma campanha de disparo depois que o prospecto for contatado para parar outros alertas. É como um assento ejetor de campanha inteligente para uma pessoa.
+Imagine que você tem um fluxo de campanha inteligente que usa &quot;Enviar alerta&quot; para lembrar um representante de vendas de chamar um prospecto dinâmico. Ele envia uma mensagem todos os dias até que o representante faça a chamada. Você pode usar &quot;Remover do fluxo&quot; em uma campanha de acionador depois que o prospecto for contatado para interromper mais alertas. É como um banco de ejetor de campanha inteligente para uma pessoa.
 
 >[!NOTE]
 >
->Isso normalmente afetaria pessoas que estão sentadas em um passo de espera de um fluxo de campanha.
+>Isso normalmente afetaria as pessoas que estão sentadas na etapa de espera de um fluxo de campanha.
 
 ## Visão geral {#overview}
 
@@ -33,8 +33,8 @@ Localize e selecione a campanha inteligente da qual deseja remover as pessoas.
 
 >[!NOTE]
 >
->Você pode escolher uma campanha inteligente específica ou escolher &quot;essa campanha&quot; no menu suspenso **Campanha** para selecionar a campanha na qual você está fisicamente.
+>Você pode escolher uma campanha inteligente específica ou escolher &quot;esta campanha&quot; no menu suspenso **Campaign** para selecionar a campanha na qual você está fisicamente no momento.
 
 >[!NOTE]
 >
->Essa funcionalidade deve ser usada dentro das etapas de fluxo de uma campanha inteligente.
+>Essa funcionalidade deve ser usada nas etapas de fluxo de uma campanha inteligente.
