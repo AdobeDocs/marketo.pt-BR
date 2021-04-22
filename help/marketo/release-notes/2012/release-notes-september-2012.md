@@ -1,62 +1,62 @@
 ---
 unique-page-id: 2951111
-description: Notas de versão - setembro de 2012 - Documentos do Marketing - Documentação do produto
+description: Notas de versão - setembro de 2012 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - setembro de 2012
+exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # Notas de versão: Setembro de 2012 {#release-notes-september}
 
-Esta versão inclui recursos sociais integrados e altamente previstos e produtos de gerenciamento de leads! Observação: os recursos sociais estão disponíveis como um suplemento ou como parte de pacotes selecionados.
+Esta versão inclui recursos sociais integrados e altamente esperados e soluções de gerenciamento de clientes potenciais! Observação: os recursos sociais estão disponíveis como um complemento ou como parte de pacotes selecionados.
 
-## Publicar um vídeo do YouTube com compartilhamento em redes sociais {#publish-a-youtube-video-with-social-sharing}
+## Publicar um vídeo do YouTube com o compartilhamento social {#publish-a-youtube-video-with-social-sharing}
 
-Amplifique a audiência de seus vídeos encorajando seus visitantes a compartilhá-los socialmente, usando o novo Compartilhamento de vídeo em suas landings page.
+Amplifique o público-alvo dos vídeos, incentivando seus visitantes a compartilhá-los socialmente, usando o novo Compartilhamento de vídeo nas suas páginas de aterrissagem.
 
 ![](assets/image2014-9-23-10-3a39-3a21.png)
 
 ## Adicionar um botão Compartilhar {#add-a-share-button}
 
-Personalize completamente as mensagens de compartilhamento e a aparência de um novo conjunto de botões de compartilhamento em redes sociais. Além disso, capture dados de perfis sociais conforme seus clientes potenciais compartilham seu conteúdo.
+Personalize totalmente as mensagens de compartilhamento e a aparência de um novo conjunto de botões de compartilhamento em redes sociais. Além disso, capture dados de perfis sociais conforme seus leads compartilharem seu conteúdo.
 
 ![](assets/image2014-9-23-10-3a39-3a46.png)
 
-## Logon social {#social-sign-on}
+## Login na rede social {#social-sign-on}
 
-Obtenha insight e reduza o atrito ao permitir que os usuários preencham formulários com informações de suas redes sociais.
+Obtenha informações e reduza o atrito ao permitir que os leads preencham formulários com informações de suas redes sociais.
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Publicar Landings page no Facebook {#publish-landing-pages-to-facebook}
+## Publicar páginas de aterrissagem no Facebook {#publish-landing-pages-to-facebook}
 
-Amplie o alcance de suas landings page publicando-as diretamente no Facebook, completas com aplicativos sociais, formulários e a funcionalidade completa das landings page do Marketing.
+Amplie o alcance de suas landing pages publicando-as diretamente no Facebook, com aplicativos sociais, formulários e a funcionalidade completa das landing pages do Marketo.
 
-## Adaptador de Evento ReadyTalk {#readytalk-event-adapter}
+## Adaptador de evento ReadyTalk {#readytalk-event-adapter}
 
-Conecte facilmente um evento de marketing a uma reunião do ReadyTalk. Use um formulário Marketo para capturar os inscritos e registrá-los automaticamente no ReadyTalk. Uma sincronização bidirecional permite que as informações de presença sejam preenchidas no Marketo.
+Conecte um evento do Marketo diretamente a uma reunião do ReadyTalk. Use um formulário Marketo para capturar registradores e registrá-los automaticamente no ReadyTalk. Uma sincronização bidirecional permite que as informações de presença sejam preenchidas no Marketo.
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
-## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
+## Microsoft Dynamics No Local {#microsoft-dynamics-on-premise}
 
-Agora oferecemos suporte ao Microsoft Dynamics 2011 no local com uma implantação voltada para a Internet.
+Agora oferecemos suporte ao Microsoft Dynamics 2011 no local com uma implantação com acesso à Internet.
 
 ## Webhooks (Treasure Chest) {#webhooks-treasure-chest}
 
-Um Webhook é um retorno de chamada HTTP definido pelo usuário. É uma excelente maneira de enviar dados do Marketo para qualquer outro serviço. Este recurso está disponível atualmente no Treasure Chest e só é suportado em campanhas de disparo no momento.
+Um Webhook é um retorno de chamada HTTP definido pelo usuário. É uma ótima maneira de enviar dados do Marketo para qualquer outro serviço. Esse recurso está disponível atualmente no Treasure Chest e é compatível apenas em campanhas acionadoras no momento.
 
-Exemplos de como você pode usar Webhooks incluem: envio de informações de nome de usuário e senha para outro sistema para criar uma conta de avaliação; enviando uma mensagem de texto SMS quando você obtém um novo cliente potencial.
+Exemplos de como você pode usar Webhooks incluem: Publicar informações sobre o nome de utilizador e a senha noutro sistema para criar uma conta de avaliação; envio de uma mensagem de texto SMS ao obter um novo lead.
 
 ## Atualização da API getMultipleLeads {#update-to-getmultipleleads-api}
 
-Adicionamos novos critérios de filtragem à chamada da API getMultipleLeads. Além da filtragem por data, agora oferecemos suporte a critérios adicionais:
+Adicionamos novos critérios de filtragem à chamada da API getMultipleLeads . Além da filtragem por data, agora oferecemos suporte a critérios adicionais:
 
 * Intervalos de datas
-* Nomes de Listas estáticas
+* Nomes da lista estática
 * Matrizes de chaves de chumbo
