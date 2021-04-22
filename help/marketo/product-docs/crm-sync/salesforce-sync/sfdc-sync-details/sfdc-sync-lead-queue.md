@@ -1,37 +1,37 @@
 ---
 unique-page-id: 7516241
-description: Sincronização SFDC - Fila principal - Documentos do Marketing - Documentação do produto
-title: Sincronização SFDC - Fila de cliente em potencial
+description: Sincronização SFDC - Fila de lead - Documentos do Marketo - Documentação do produto
+title: Sincronização SFDC - Fila de lead
+exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
+# Sincronização SFDC: Fila de lead {#sfdc-sync-lead-queue}
 
-# Sincronização SFDC: Fila de cliente potencial {#sfdc-sync-lead-queue}
-
-O Marketo permite que você adicione pessoas a [filas de clientes potenciais do Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) para ajudar na distribuição de clientes potenciais. Aqui estão os detalhes.
+O Marketo permite adicionar pessoas a [filas de lead do Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) para ajudar na distribuição de lead. Aqui estão os detalhes.
 
 ## Como atribuir uma pessoa a uma fila no Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
-Você pode atribuir uma pessoa a uma fila de clientes potenciais do Salesforce usando uma destas ações de fluxo:
+Você pode atribuir uma pessoa a uma fila de lead do Salesforce usando uma destas ações de fluxo:
 
-* [Sincronizar Pessoa com SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [Sincronizar pessoa à SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
 * [Alterar proprietário](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
 >Não é possível criar ou alterar filas no Marketo.
 
-## Como as informações do proprietário principal são armazenadas se a pessoa pertence a uma fila? {#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
+## Como as informações do proprietário do cliente potencial são armazenadas se a pessoa pertencer a uma fila? {#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
 
-Se um cliente potencial for propriedade de uma fila no Salesforce, esses campos do proprietário das vendas serão mantidos vazios até que o cliente potencial seja atribuído a um proprietário.
+Se um lead for de propriedade de uma fila no Salesforce, esses campos do proprietário das vendas serão mantidos vazios até que o lead seja atribuído a um proprietário.
 
-* Nome do proprietário da venda
-* Sobrenome do proprietário de vendas
-* Título do proprietário de vendas
-* Número de Telefone do Proprietário de Vendas
-* Endereço de email do proprietário de vendas
+* Nome do proprietário das vendas
+* Sobrenome do proprietário das vendas
+* Título do Proprietário de Vendas
+* Telefone do proprietário das vendas
+* Endereço de e-mail do proprietário das vendas
