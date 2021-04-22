@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360297
-description: Restringir logons de marketing com base em IP - Documentos de marketing - Documentação do produto
-title: Restringir logons de marketing com base em IP
+description: Restringir logons do Marketo com base em IP - Documentos do Marketo - Documentação do produto
+title: Restringir logons do Marketo com base em IP
+exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Restringir logons do Marketo com base em IP {#restrict-marketo-logins-based-on-ip}
 
-# Restringir logons de marketing com base em IP {#restrict-marketo-logins-based-on-ip}
-
-Você pode restringir ou permitir que os usuários acessem o Marketing com base em seus endereços IP. Veja como.
+Você pode restringir ou permitir que os usuários acessem o Marketo com base em seus endereços IP. Veja como.
 
 >[!NOTE]
 >
@@ -21,9 +21,9 @@ Você pode restringir ou permitir que os usuários acessem o Marketing com base 
 
 >[!NOTE]
 >
->As informações neste artigo se aplicam somente aos logons diretos em login.marketo.com. Não é possível impor restrições de IP em logons de logon único (SSO) no momento.
+>As informações neste artigo se aplicam apenas aos logons diretos em login.marketo.com. Não é possível impor restrições de IP em logons de logon único (SSO) no momento.
 
-1. Em **Admin**, clique em **Definições de Início de Sessão**.
+1. Em **Admin**, clique em **Configurações de logon**.
 
    ![](assets/image2014-9-16-12-3a57-3a56.png)
 
@@ -31,15 +31,15 @@ Você pode restringir ou permitir que os usuários acessem o Marketing com base 
 
    ![](assets/image2014-9-16-12-3a58-3a13.png)
 
-1. Escolha se deseja **Permitir** ou **Bloquear** endereços específicos, introduza os endereços e clique em **Guardar**.
+1. Escolha se deseja **Permitir** ou **Bloquear** endereços específicos, insira os endereços e clique em **Salvar**.
 
    >[!NOTE]
    >
    >**Definição**
    >
-   >* **Endereços** IP permitidos: A adição de endereços IP permitidos é inclusiva. Ela incluirá todos os endereços IP especificados e excluirá todos os outros.
+   >* **Endereços** IP permitidos: Adicionar endereços IP permitidos é inclusivo. Ele incluirá todos os endereços IP especificados e excluirá todos os outros.
    >* **Bloquear endereços** IP: Impede que IPs específicos acessem o Marketo.
-   >* **Desativar restrições** de IP: Marcar essa opção impedirá o funcionamento de todas as regras de restrição. Use-o para fins de teste.
+   >* **Desativar restrições** de IP: Ao verificar isso, as regras de restrição de todas/todas não funcionarão. Use para fins de teste.
 
 
    >[!NOTE]
