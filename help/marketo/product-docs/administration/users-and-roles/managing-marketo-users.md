@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359906
-description: Gerenciamento de usuários do Marketing - Documentos do Marketing - Documentação do produto
-title: Gerenciamento de usuários do Marketing
+description: Gerenciamento de usuários do Marketo - Documentos do Marketo - Documentação do produto
+title: Gerenciamento de usuários do Marketo
+exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
-# Gerenciamento de usuários do Marketing {#managing-marketo-users}
+# Gerenciando usuários do Marketo {#managing-marketo-users}
 
 ## Criar usuários {#create-users}
 
@@ -23,43 +23,43 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Insira **Endereço de email**, **Nome** e **Sobrenome**.
+1. Insira o **Endereço de email**, **Nome** e **Sobrenome**.
 
    ![](assets/image2016-5-24-9-3a45-3a30.png)
 
-1. Opcionalmente, informe um motivo para o convite e selecione uma data de expiração no campo **Acesso expira** usando o seletor de datas.
+1. Opcionalmente, insira um motivo para o convite e selecione uma data de expiração no campo **Access Expires** usando o seletor de datas.
 
    ![](assets/image2016-6-29-15-3a52-3a18.png)
 
-1. Clique em **Próximo**.
+1. Clique em **Next**.
 
    ![](assets/image2016-5-24-9-3a58-3a10.png)
 
    >[!TIP]
    >
-   >Uma data de expiração é excelente para as partes interessadas externas de curto prazo ou consultores que precisam do Marketing para acessar apenas por um breve período de tempo.
+   >Uma data de expiração é ideal para participantes externos de curto prazo ou consultores que precisam de acesso à Marketo apenas por um curto período.
 
    >[!NOTE]
    >
    >Quando a data de expiração chegar, o usuário receberá uma notificação de expiração e sua conta será bloqueada.
 
-1. Selecione **Função** de sua escolha e clique em **Próximo**.
+1. Selecione a **Função** de sua escolha e clique em **Próximo**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
-1. Faça edições na mensagem do convite, se necessário. Clique em **Enviar**.
+1. Faça edições na mensagem de convite, se necessário. Clique em **Enviar**.
 
    ![](assets/image2016-5-24-10-3a3-3a56.png)
 
    >[!NOTE]
    >
-   >O e-mail/login precisa ser exclusivo; se você já o usou em uma instância de caixa de proteção, precisará usar uma diferente em produção e vice-versa.
+   >O email/logon precisa ser exclusivo; se você já tiver usado em uma instância de sandbox, precisará usar uma diferente em produção e vice-versa.
 
    ![](assets/image2016-5-24-10-3a21-3a57.png)
 
    >[!NOTE]
    >
-   >Os convites expiram três dias após a adição de um novo usuário.
+   >Os convites expiram três dias após um novo usuário ser adicionado.
 
 O novo usuário agora está listado na guia Usuários e receberá um email com instruções sobre como ativar sua conta.
 
@@ -69,7 +69,7 @@ O novo usuário agora está listado na guia Usuários e receberá um email com i
 
    ![](assets/image2014-9-9-11-3a36-3a21.png)
 
-1. Selecione o usuário que deseja remover e clique em **Excluir usuário**.
+1. Selecione o usuário que deseja remover e clique em **Excluir Usuário**.
 
    ![](assets/image2014-9-9-11-3a36-3a36.png)
 
@@ -97,7 +97,7 @@ O usuário receberá um email com instruções de redefinição de senha.
 
 >[!TIP]
 >
->Se o usuário não vir o email em sua caixa de entrada, peça para ele verificar a pasta de lixo eletrônico/spam.
+>Se o usuário não vir o email em sua caixa de entrada, peça para ele verificar sua pasta de lixo eletrônico/spam.
 
 ## Alterar permissões e editar informações do usuário {#change-permissions-and-edit-user-information}
 
@@ -105,7 +105,7 @@ O usuário receberá um email com instruções de redefinição de senha.
 
    ![](assets/image2014-9-9-11-3a37-3a5.png)
 
-1. Selecione um usuário e clique em **Editar usuário**.
+1. Selecione um usuário e clique em **Editar Usuário**.
 
    ![](assets/image2014-9-9-11-3a37-3a16.png)
 
@@ -115,7 +115,7 @@ O usuário receberá um email com instruções de redefinição de senha.
 
 >[!CAUTION]
 >
->Se você for o único Administrador no Marketo, certifique-se de não remover seus próprios direitos de administrador.
+>Se você for o único administrador no Marketo, não remova seus próprios direitos de administrador.
 
 >[!NOTE]
 >
