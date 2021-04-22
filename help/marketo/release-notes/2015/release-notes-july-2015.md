@@ -1,32 +1,32 @@
 ---
 unique-page-id: 8783189
-description: Notas de versão - julho de 2015 - Documentos do Marketo - Documentação do produto
+description: Notas de versão - julho de 2015 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - julho de 2015
+exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Notas de versão: Julho de 2015 {#release-notes-july}
 
-## Momentos de marketing {#marketo-moments}
+## Marketo Moments {#marketo-moments}
 
-Fora no almoço, mas precisa reagendar um e-mail? O aplicativo Marketo Moments, disponível na App Store ou no Google Play, oferece a você o poder de ver como suas campanhas de e-mail e eventos estão se saindo em tempo real, bem como o que virá no futuro, do seu iPhone, iPad ou telefone Android.
+Fora no almoço, mas precisa reagendar um e-mail? O aplicativo Marketo Moments, disponível na App Store ou no Google Play, dá a você o poder de ver o desempenho de suas campanhas de email e eventos em tempo real, bem como o que está vindo no futuro, de seu iPhone, iPad ou Android.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## Atualização do Editor de Rich Text {#rich-text-editor-update}
 
-Atualização do editor de texto com aparência moderna, incluindo formatação de texto simplificada, edição de imagens, inserção de links e edição de HTML. O editor HTML agora apresenta validação mínima, permitindo uma edição de código menos restritiva.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta atualização será automaticamente implementada em alguns dias após a versão de julho. Depois disso, você poderá alternar entre as versões Novo e Herdado do editor de **Administrador > Email > Editar configurações do editor**.
+Editor de texto atualizado com aparência moderna, incluindo formatação de texto simplificada, edição de imagem, inserção de link e edição de HTML. O editor de HTML agora apresenta validação mínima, permitindo uma edição de código menos restritiva.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Essa atualização será implantada automaticamente em alguns dias após o lançamento do mês de julho. Depois, você poderá alternar entre as versões Nova e Herdada do editor a partir de **Admin > Email > Editar configurações do editor**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
-Caixas de diálogo de link e imagem atualizadas.
+Atualizadas caixas de diálogo de link e imagem.
 
 ![](assets/image2015-7-10-9-3a42-3a57.png)
 
@@ -36,22 +36,22 @@ Alternar a versão do editor de texto.
 
 ![](assets/image2015-7-10-9-3a43-3a32.png)
 
-## Logon único de entrega por email {#email-deliverability-single-sign-on}
+## Login único para envio de e-mails {#email-deliverability-single-sign-on}
 
-Ao clicar no bloco de material de entrega por email, não é mais necessário fornecer suas credenciais de logon.
+Ao clicar no bloco Delivery de email, não é mais necessário fornecer suas credenciais de logon.
 
-## Priorização da campanha {#campaign-prioritization}
+## Priorização de campanhas {#campaign-prioritization}
 
-Você configurou várias campanhas RTP personalizadas e notou que algumas delas podem se sobrepor a outras? Prossiga e defina uma prioridade para a qual a RTP da campanha deve mostrar sobre outras.
+Você configurou várias campanhas RTP personalizadas e notou que algumas delas podem se sobrepor a outras? Vá em frente e defina uma prioridade para a qual a RTP das campanhas deve ser exibida sobre outras.
 
 ![](assets/image2015-7-9-20-3a20-3a58.png)
 
-## API de empresa {#company-api}
+## API da empresa {#company-api}
 
-**Acesso a objetos de empresa por meio da REST API**: A REST API agora fornece acesso à Empresa de marketing (também conhecida como Objeto Account). Isso significa que você pode ler, atualizar e excluir objetos de empresa criados no Marketo e associar clientes potenciais a essas empresas usando a API de cliente potencial atualizada.
+**Acesso a objetos da empresa por meio da REST API**: A REST API agora fornece acesso ao objeto Empresa da Marketo (também chamado de Conta). Isso significa que você pode ler, atualizar e excluir objetos da empresa criados no Marketo e associar leads a essas empresas usando a API de cliente em potencial atualizada.
 
-Saiba mais [mais](https://developers.marketo.com/documentation/company-api/) em nosso guia de referência para a API de Empresa.
+Saiba [mais](https://developers.marketo.com/documentation/company-api/) em nosso guia de referência para a API da empresa.
 
 ## Acesse a capacidade de entrega de email {#access-email-deliverability}
 
-**Ferramenta** Acessar entrega por email: Essa nova permissão permite que os administradores concedam aos usuários acesso à ferramenta Entrega de email.
+**Acessar ferramenta** de capacidade de entrega de email: Essa nova permissão permite que os administradores concedam aos usuários acesso à ferramenta Entregabilidade por email .
