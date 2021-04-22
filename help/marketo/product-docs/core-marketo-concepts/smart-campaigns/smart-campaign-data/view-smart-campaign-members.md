@@ -1,40 +1,40 @@
 ---
 unique-page-id: 1146937
-description: Membros de Campanha inteligente da visualização - Documentos do Marketing - Documentação do produto
-title: Membros da Campanha inteligente da visualização
+description: Exibir membros da campanha inteligente - Documentos do Marketo - Documentação do produto
+title: Exibir membros da campanha inteligente
+exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
+# Exibir membros da campanha inteligente {#view-smart-campaign-members}
 
-# Membros de Campanha inteligente de visualização {#view-smart-campaign-members}
+Exibir pessoas que já passaram pelo fluxo da campanha inteligente; ou seja, membros inteligentes da campanha.
 
-Visualizações que já passaram pelo fluxo de campanhas inteligente; ou seja, membros de campanhas inteligentes.
-
-1. Vá para **Atividades de marketing**.
+1. Vá para **Marketing Activities**.
 
 ![](assets/login-marketing-activities.png)
 
-1. Na sua campanha inteligente, clique em **Membros da Campanha da Visualização**.
+1. Em sua campanha inteligente, clique em **Exibir membros da campanha**.
 
    ![](assets/changescore-hands.png)
 
 >[!TIP]
 >
->Você pode visualização membros da campanha de qualquer lugar em uma campanha inteligente.
+>Você pode visualizar membros da campanha de qualquer lugar dentro de uma campanha inteligente.
 
-1. A guia **Membros da Campanha** mostra as pessoas que já foram executadas pelo fluxo de campanha inteligente.
+1. A guia **Campaign Members** mostra pessoas que já foram executadas pelo fluxo de campanha inteligente.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
    >[!NOTE]
    >
-   >A lista Membros da Campanha estará inicialmente vazia quando a campanha inteligente não for executada em nenhuma pessoa.
+   >A lista Membros da campanha estará inicialmente vazia quando a campanha inteligente não tiver sido executada em nenhuma pessoa.
 
    >[!MORELIKETHIS]
    >
-   >[Visualização de pessoas bloqueadas em uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+   >[Exibir pessoas bloqueadas em uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
