@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360278
-description: Excluir um status de Programa de um Canal - Documentos do Marketing - Documentação do produto
-title: Excluir um status de Programa de um Canal de Programa
+description: Excluir um status de programa de um canal do programa - Documentos da Marketo - Documentação do produto
+title: Excluir um status de programa de um canal de programa
+exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Excluir um status de programa de um canal de programa {#delete-a-program-status-from-a-program-channel}
 
-# Excluir um status de Programa de um Canal de Programa {#delete-a-program-status-from-a-program-channel}
-
-Os status dos programas são os pontos de verificação por meio de um caminho de programas (canal). Se você fizer um status por engano ou não precisar mais dele, sinta-se à vontade para excluí-lo.
+Os status do programa são os pontos de verificação por meio de um caminho de programas (canal). Se você tomar um status por engano ou não precisar mais dele, sinta-se à vontade para excluí-lo.
 
 1. Vá para a seção **Admin**.
 
@@ -23,16 +23,16 @@ Os status dos programas são os pontos de verificação por meio de um caminho d
 
    ![](assets/image2014-9-24-15-3a51-3a24.png)
 
-1. Selecione o canal do qual deseja remover um status e, em **Ações de tag**, clique em **Editar**.
+1. Selecione o canal do qual deseja remover um status e, em **Tag Actions**, clique em **Edit**.
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. Clique no ícone ![X](assets/image2014-9-24-15-3a52-3a39.png) para remover o status e, em seguida, clique em **Salvar**.
+1. Clique em ![X icon](assets/image2014-9-24-15-3a52-3a39.png) para remover o status e, em seguida, clique em **Salvar**.
 
    >[!TIP]
    >
-   >Se uma pessoa estiver atribuída ao status em questão no momento, você não poderá excluí-la, mas poderá ocultá-la.
+   >Se alguma pessoa estiver atualmente atribuída ao status em questão, você não poderá excluí-la, no entanto, poderá ocultá-la.
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-Muito bem! Você também pode [excluir um canal inteiro](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md), se necessário.
+Muito bem! Você também pode [excluir um canal inteiro](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se precisar.
