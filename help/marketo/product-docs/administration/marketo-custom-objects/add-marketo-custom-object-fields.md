@@ -57,7 +57,7 @@ Os campos definem as informações específicas usadas por um objeto personaliza
 
    >[!NOTE]
    >
-   >Se estiver criando uma estrutura one-to-many, será necessário adicionar um campo Link ao objeto personalizado. Para uma estrutura de muitas para muitas, você não precisa de um campo de link no objeto personalizado, mas deve adicionar dois campos de link no objeto intermediário. Consulte [Adicionar campos de link de objeto personalizado do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) para criar os campos de link e [Entendendo objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obter mais informações sobre tipos de objetos personalizados.
+   >Se estiver criando uma estrutura one-to-many, será necessário adicionar um campo Link ao objeto personalizado. Para uma estrutura de muitas para muitas, você não precisa de um campo de link no objeto personalizado, mas deve adicionar dois campos de link no objeto intermediário. Consulte [Adicionar campos de link de objeto personalizado do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) para criar os campos de link e [Compreender objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obter mais informações sobre tipos de objetos personalizados.
 
 >[!MORELIKETHIS]
 >
