@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360274
-description: Gerenciamento de valores de tag - Documentos do marketing - Documentação do produto
+description: Gerenciamento de valores de tag - Documentação do Marketo - Documentação do produto
 title: Gerenciamento de valores de tag
+exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-
 # Gerenciamento de valores de tag {#managing-tag-values}
 
-[As ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) tags são usadas para descrever programas. Você pode fazer o máximo que precisar, cada um com valores únicos. Aqui está como gerenciar esses valores.
+[](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) As tags são usadas para descrever programas. Você pode fazer o quanto precisar, cada um com valores únicos. Veja como gerenciar esses valores.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Criar uma nova tag de Programa e valores de tag](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
+>[Criar uma nova tag de programa e valores de tag](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## Adicionar valores de tag {#adding-tag-values}
 
@@ -29,35 +29,35 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Clique em **Novo**, em seguida, **Novo valor de tag**.
+1. Clique em **Novo** e, em seguida, em **Novo valor de tag**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
-1. Selecione **Tipo de tag**.
+1. Selecione o **Tipo de tag**.
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
-1. Digite um **Valor** e clique em **Adicionar outro**. Você pode adicionar quantos valores desejar.
+1. Insira um **Value** e clique em **Adicionar Outro**. Você pode adicionar quantos valores desejar.
 
    ![](assets/image2014-9-24-12-3a26-3a27.png)
 
-1. Adicione os valores restantes e clique em **Criar**.
+1. Adicione os valores restantes e clique em **Create**.
 
    ![](assets/image2014-9-24-12-3a26-3a55.png)
 
-1. Você deveria ver as mudanças imediatamente!
+1. Você deve ver as alterações imediatamente!
 
    ![](assets/image2014-9-24-12-3a27-3a34.png)
 
 ## Ocultar valores de tag {#hiding-tag-values}
 
-As tags podem ser usadas por programas antigos. É possível substituí-los para uso futuro ocultando o tipo de tag.
+As tags podem ser usadas por programas antigos. Você pode descontinuá-las para uso futuro, ocultando o tipo de tag .
 
-1. Selecione **Tag** e selecione o **Valor** que pretende ocultar.
+1. Selecione a **Tag** e selecione o **Valor** que deseja ocultar.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
-1. Em **Ações de tag**, selecione **Ocultar**.
+1. Em **Tag Actions**, selecione **Hide**.
 
    ![](assets/image2014-9-24-12-3a29-3a4.png)
 
@@ -65,8 +65,8 @@ As tags podem ser usadas por programas antigos. É possível substituí-los para
 
 Se quiser ver seus valores ocultos novamente, faça o seguinte:
 
-1. Selecione a caixa Mostrar ocultos. Depois de marcado, você pode ver o valor oculto.
+1. Selecione a caixa Mostrar oculto . Depois de marcado, você pode ver o valor oculto.
 
    ![](assets/image2014-9-24-12-3a29-3a58.png)
 
-Em seguida, você pode mostrar os valores que deseja usar no futuro.
+Em seguida, é possível mostrar os valores que deseja usar no futuro.
