@@ -1,30 +1,30 @@
 ---
 unique-page-id: 1146985
-description: Reordene as etapas de fluxo em uma Campanha inteligente - Documentos do marketing - Documentação do produto
-title: Reordenar as etapas de fluxo em uma Campanha inteligente
+description: Reordenar as etapas do fluxo em uma campanha inteligente - Documentos do Marketo - Documentação do produto
+title: Reordenar as etapas do fluxo em uma campanha inteligente
+exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
+# Reordenar as etapas do fluxo em uma campanha inteligente {#reorder-the-flow-steps-in-a-smart-campaign}
 
-# Reordene as etapas de fluxo em uma Campanha inteligente {#reorder-the-flow-steps-in-a-smart-campaign}
-
-As etapas de fluxo são executadas de cima para baixo. Veja como reorganizar os passos de fluxo para atender às suas necessidades.
+As etapas de fluxo são executadas de cima para baixo. Veja como reorganizar as etapas de fluxo para atender às suas necessidades.
 
 >[!PREREQUISITES]
 >
->[Adicionar uma Etapa de fluxo a uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Adicionar uma etapa de fluxo a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-1. Na guia Fluxo de campanha inteligente, arraste e solte a etapa de fluxo para onde deseja.
+1. Na guia Fluxo da campanha inteligente, arraste e solte a etapa do fluxo para onde deseja.
 
 ![](assets/image2014-9-22-13-3a49-3a11.png)
 
 >[!NOTE]
 >
->As etapas de fluxo são executadas na ordem em que aparecem no fluxo.
+>As etapas do fluxo são executadas na ordem em que aparecem no fluxo.
 
-Algumas coisas são simples. Arraste para o chão!
+Algumas coisas são simples. Arraste e solte-se!
