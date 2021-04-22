@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360360
-description: Criar um Webhook - Documentos do Marketing - Documentação do produto
+description: Criar um Webhook - Documentos do Marketo - Documentação do produto
 title: Criar um Webhook
+exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Criar um Webhook {#create-a-webhook}
 
@@ -17,7 +17,7 @@ Use webhooks para aproveitar os serviços da Web de terceiros para enviar mensag
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
+>Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
 
 1. Vá para **Admin** e clique em **Webhooks**.
 
@@ -27,21 +27,21 @@ Use webhooks para aproveitar os serviços da Web de terceiros para enviar mensag
 
    ![](assets/image2014-9-24-14-3a53-3a9.png)
 
-1. Dê um nome e configure seu webhook.
+1. Nomeie e configure seu webhook.
 
    ![](assets/image2014-9-24-14-3a53-3a19.png)
 
    >[!NOTE]
    >
-   >Isso costuma incluir a inserção de credenciais de serviço de terceiros como parâmetro de URL ou no modelo de POST.
+   >Isso geralmente inclui inserir suas credenciais de serviço de terceiros como parâmetro de URL ou no modelo do POST.
 
-   * **URL**: Insira o URL que você usa para POST sua solicitação ao serviço da Web. Para inserir um token, como o endereço de email da pessoa (**`{{lead.Email Address}}`**), na solicitação, clique em **Inserir token**.
+   * **URL**: Insira o URL usado para POST sua solicitação para o serviço da Web. Para inserir um token, como o endereço de email da pessoa (**`{{lead.Email Address}}`**), em sua solicitação, clique em **Inserir token**.
 
-   * **Modelo**: Se desejar transmitir informações no corpo do POST, insira o modelo. Use qualquer formato de dados compatível com POST HTTP, incluindo XML, JSON ou SOAP. Para inserir um token no modelo, clique em **Inserir token**.
+   * **Modelo**: Se desejar transmitir informações no corpo do POST, insira o template. Use qualquer formato de dados compatível com HTTP POST, incluindo XML, JSON ou SOAP. Para inserir um token no modelo, clique em **Inserir token**.
 
-   * **Codificação** do token de solicitação: Se os valores de token incluírem caracteres especiais (como um E comercial, &#39;&amp;&#39;), indique o formato da solicitação (**** JSON ou  **Form/Url**).
+   * **Codificação** do token de solicitação: Se os valores de token incluírem caracteres especiais (como um E comercial (&amp;)), indique o formato da solicitação (**** JSONou  **Form/Url**).
 
-   * **Tipo** de resposta: Selecione o formato da resposta recebida do serviço (**** JSON **ou** XML).
+   * **Tipo** de resposta: Selecione o formato da resposta recebida do serviço (**** JSONou  **XML**).
 
    Clique em Criar.
 
@@ -49,4 +49,4 @@ Use webhooks para aproveitar os serviços da Web de terceiros para enviar mensag
 
 >[!NOTE]
 >
->Saiba mais no mergulho profundo [webhooks](https://developers.marketo.com/documentation/webhooks/).
+>Saiba mais no aprofundamento de [webhooks](https://developers.marketo.com/documentation/webhooks/).
