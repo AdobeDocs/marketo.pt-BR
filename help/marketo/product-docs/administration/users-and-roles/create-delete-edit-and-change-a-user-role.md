@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360198
-description: Criar, excluir, editar e alterar uma função de usuário - Documentos do Marketing - Documentação do produto
+description: Criar, excluir, editar e alterar uma função de usuário - Documentos do Marketo - Documentação do produto
 title: Criar, excluir, editar e alterar uma função de usuário
+exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
 
-
 # Criar, excluir, editar e alterar uma função de usuário {#create-delete-edit-and-change-a-user-role}
 
-**O** Rolesgroup reúne um monte de permissões. **Permissão** permita que você faça coisas em Marketo. Você atribui uma **função** a um usuário. Fácil como torta.
+**** O Rolesgroup reúne um conjunto de permissões. **** Permissões permitem que você faça coisas no Marketo. Você atribui uma **função** a um usuário. Fácil como torta.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Vá para a guia **Funções** e clique em **Nova função**.
+1. Vá para a guia **Funções** e clique em **Nova Função**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -43,19 +43,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
-1. Confirme a exclusão clicando em **Excluir**.
+1. Confirme a exclusão clicando em **Delete**.
 
    ![](assets/image2014-9-16-13-3a32-3a25.png)
 
 >[!NOTE]
 >
->Primeiro, verifique se nenhum usuário está atribuído a uma função, caso contrário, não poderá ser excluído.
+>Primeiro, você deve garantir que nenhum usuário seja atribuído a uma função; caso contrário, ela não poderá ser excluída.
 
 ## Editar uma função existente {#edit-an-existing-role}
 
 >[!NOTE]
 >
->Para editar sua própria função de usuário, você precisará fazer logon como outro usuário com direitos de administrador.
+>Para editar sua própria função de usuário, você precisará fazer logon como outro usuário com direitos de Administrador.
 
 1. Vá para **Admin** e clique em **Usuários e funções**.
 
@@ -69,17 +69,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
-1. Faça todas as alterações necessárias e clique em **Salvar**.
+1. Faça todas as alterações necessárias e clique em **Save**.
 
    ![](assets/image2014-9-16-13-3a35-3a16.png)
 
    >[!NOTE]
    >
-   >As alterações feitas na função afetarão todos os usuários associados a essa função.
+   >As alterações feitas na função afetarão todos os usuários associados a ela.
 
    >[!TIP]
    >
-   >Você deseja atualizar o endereço de email da conta? [Saiba como aqui](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
+   >Pretende atualizar o endereço de correio eletrônico da conta? [Saiba como aqui](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Alterar a função de um usuário {#change-a-users-role}
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a35-3a49.png)
 
-1. Selecione o usuário ao qual você deseja atribuir uma função diferente e clique em **Editar usuário.**
+1. Selecione o usuário ao qual deseja atribuir uma função diferente e clique em **Editar Usuário.**
 
    ![](assets/image2014-9-16-13-36-8.png)
 
