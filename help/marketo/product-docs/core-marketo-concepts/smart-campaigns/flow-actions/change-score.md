@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146962
-description: Pontuação de mudança - Documentos do marketing - Documentação do produto
-title: Alterar Pontuação
+description: Pontuação de alterações - Documentos do Marketo - Documentação do produto
+title: Alterar pontuação
+exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
-# Alterar Pontuação {#change-score}
+# Alterar pontuação {#change-score}
 
 ## Visão geral {#overview}
 
-A pontuação das pessoas é fácil e poderosa para ajudar a sua equipe de vendas a priorizar.
+As pessoas com pontuação são fáceis e eficientes para ajudar sua equipe de vendas a priorizar.
 
 ![](assets/flowstep-changescore.png)
 
@@ -27,7 +27,7 @@ A pontuação das pessoas é fácil e poderosa para ajudar a sua equipe de venda
 
    >[!TIP]
    >
-   >É possível criar vários campos de pontuação. Consulte [Criar um campo personalizado em Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para obter detalhes.
+   >Você pode criar vários campos de pontuação. Consulte [Criar um campo personalizado no Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para obter detalhes.
 
 1. Insira a alteração de pontuação desejada.
 
@@ -35,8 +35,8 @@ A pontuação das pessoas é fácil e poderosa para ajudar a sua equipe de venda
 
    Alterações:
 
-   * **+5** ao incremento
+   * **+5** para incremento
    * **-5** decrementará (números negativos permitidos)
-   * **=5** fará com que a pontuação seja o número exato
-   * **=-5** fará com que a pontuação do número negativo exato
-   Obtenha rapidamente algumas pontuações básicas e ajuste os resultados ao longo do tempo. Foi o que fizemos!
+   * **=5** fará a pontuação do número exato
+   * **=-5** fará a pontuação que representa o número negativo exato
+   Obtenha uma pontuação básica rapidamente e ajuste os resultados ao longo do tempo. Foi o que fizemos!
