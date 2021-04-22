@@ -1,23 +1,23 @@
 ---
 unique-page-id: 6094949
-description: Mover uma Campanha inteligente - Documentos do marketing - Documentação do produto
-title: Mover uma Campanha inteligente
+description: Mover uma campanha inteligente - Documentos do Marketo - Documentação do produto
+title: Mover uma campanha inteligente
+exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
+# Mover uma campanha inteligente {#move-a-smart-campaign}
 
-# Mover uma Campanha inteligente {#move-a-smart-campaign}
+Mova uma campanha inteligente entre diferentes programas ou pastas usando o recurso de arrastar e soltar ou o recurso de mover na árvore.
 
-Mova uma campanha inteligente entre programas ou pastas diferentes usando o recurso de arrastar e soltar ou o recurso de mover na árvore.
+## Usar arrastar e soltar {#use-drag-and-drop}
 
-## Usar Arrastar e Soltar {#use-drag-and-drop}
-
-1. Vá para **Atividades de marketing**.
+1. Vá para **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -25,21 +25,21 @@ Mova uma campanha inteligente entre programas ou pastas diferentes usando o recu
 
    ![](assets/rockclimbing-tabfix.jpg)
 
-   Incrível! Essa campanha inteligente está agora num novo programa. Isso também funciona com pastas.
+   Ótimo! Essa campanha inteligente está agora num novo programa. Isso também funciona com pastas.
 
    >[!NOTE]
    >
-   >As regras da sua campanha inteligente não mudarão - ela será apenas aninhada em um lugar diferente.
+   >As regras de sua campanha inteligente não mudarão - ela será aninhada em um lugar diferente.
 
 ## Use o recurso Mover {#use-the-move-feature}
 
-Campanhas inteligentes também podem ser movidas usando o recurso de mover na árvore.
+Campanhas inteligentes também podem ser movidas usando o recurso de movimentação na árvore.
 
 1. Clique com o botão direito do mouse na campanha inteligente. Selecione **Mover**.
 
    ![](assets/rockclimbing2.jpg)
 
-1. Escolha entre mover para um **Programa** ou para uma **Pasta**.
+1. Escolha entre mover para um **Program** ou um **Folder**.
 
    ![](assets/image2015-2-25-13-3a34-3a20.png)
 
@@ -51,6 +51,6 @@ Campanhas inteligentes também podem ser movidas usando o recurso de mover na á
 
    ![](assets/image2015-2-25-13-3a37-3a44.png)
 
-   Alto cinco! Esta campanha inteligente foi movida.
+   Alto cinco! Essa campanha inteligente foi movida.
 
    ![](assets/image2015-2-25-13-39-51-copy-281-29.png)
