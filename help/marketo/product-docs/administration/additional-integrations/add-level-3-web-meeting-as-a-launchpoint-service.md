@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512292
-description: Adicionar Reunião Web de Nível 3 como um Serviço LaunchPoint - Documentos do Marketing - Documentação do produto
+description: Adicionar o Nível 3 Web Meeting como um LaunchPoint Service - Documentos do Marketo - Documentação do produto
 title: Adicionar Reunião Web de Nível 3 como um Serviço do LaunchPoint
+exl-id: f419b019-33bb-446d-baf5-55393770a703
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
+# Adicionar Reunião Web de Nível 3 como um Serviço do LaunchPoint {#add-level-web-meeting-as-a-launchpoint-service}
 
-# Adicionar Reunião Web de Nível 3 como um Serviço LaunchPoint {#add-level-web-meeting-as-a-launchpoint-service}
-
-O Marketo gerencia sua participação e inscrição de nível 3 na Web Meeting.
+O Marketo gerencia o registro e a participação de sua Reunião Web de Nível 3.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ O Marketo gerencia sua participação e inscrição de nível 3 na Web Meeting.
 
 >[!NOTE]
 >
->Uma subscrição existente para direitos administrativos e de reunião na Web do Nível 3 é necessária para esta etapa. Tenha em mãos o número de acesso, o código de acesso e a senha.
+>É necessária uma assinatura existente para os direitos de Reunião Web de Nível 3 e administração para esta etapa. Tenha em mãos o número de acesso, o código de acesso e o código de acesso.
 
 1. Vá para **Admin** e selecione **LaunchPoint**.
 
@@ -31,18 +31,18 @@ O Marketo gerencia sua participação e inscrição de nível 3 na Web Meeting.
 
    ![](assets/level-3-web-meeting-new-service.png)
 
-1. Digite um **Nome de exibição**. Em **Service**, selecione **Reunião Web de Nível 3**.
+1. Insira um **Nome de Exibição**. Em **Service**, selecione **Level 3 Web Meeting**.
 
    ![](assets/new-service-level-3.png)
 
-1. Digite seu **Número de Acesso**, **Código de Acesso** e **Código de Acesso**, em seguida, clique em **Criar**.
+1. Insira seu **Número de Acesso**, **Código de Acesso** e **Código de Acesso**, e clique em **Criar**.
 
    ![](assets/image2015-4-23-10-3a10-3a26.png)
 
-Sua conta do Nível 3 Web Meeting agora é sincronizada com o Marketo!
+Sua conta do Nível 3 Web Meeting agora está sincronizada com o Marketo!
 
 ![](assets/level-3-web-meeting.png)
 
 >[!MORELIKETHIS]
 >
->Saiba mais sobre como [criar um evento com uma reunião do Nível 3 na Web](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md).
+>Saiba como [criar um evento com uma Reunião Web de Nível 3](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md).
