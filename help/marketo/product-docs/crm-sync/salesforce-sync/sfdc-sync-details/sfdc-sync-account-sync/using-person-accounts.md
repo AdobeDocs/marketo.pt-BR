@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719316
-description: Usar contas pessoais - Documentos do marketing - Documentação do produto
-title: Usando Contas de Pessoa
+description: Usar contas de pessoa - Documentos do Marketo - Documentação do produto
+title: Usando contas de pessoa
+exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
+# Usando contas de pessoa {#using-person-accounts}
 
-# Usando contas pessoais {#using-person-accounts}
-
-As contas pessoais podem ser configuradas no Salesforce para atender às necessidades de sua organização. É assim que o Marketo trata as contas pessoais.
+As contas de pessoa podem ser configuradas no Salesforce para atender às necessidades de sua organização. Veja como a Marketo trata as contas pessoais.
 
 >[!NOTE]
 >
@@ -21,32 +21,32 @@ As contas pessoais podem ser configuradas no Salesforce para atender às necessi
 
 ## O que é uma conta de pessoa? {#what-is-a-person-account}
 
-Uma conta de pessoa é muito semelhante ao objeto de conta no Salesforce. No entanto, uma conta de pessoa tem acesso aos campos de conta e de contato.
+Uma conta de pessoa é muito semelhante ao objeto de conta no Salesforce. No entanto, uma conta de pessoa tem acesso aos campos da conta e aos campos de contato.
 
-## O que acontece quando uma conta pessoal é sincronizada com o Marketo? {#what-happens-when-a-person-account-is-synced-to-marketo}
+## O que acontece quando uma conta de pessoa é sincronizada com o Marketo? {#what-happens-when-a-person-account-is-synced-to-marketo}
 
-Uma conta de pessoa é sincronizada ao Marketo como uma empresa e como uma pessoa.
-
->[!NOTE]
->
->Os campos personalizados de uma conta pessoal são copiados para a empresa e para a pessoa no Marketo.
-
-## Como faço para diferenciar contas de negócios e contas pessoais? {#how-do-i-differentiate-business-accounts-and-person-accounts}
-
-Use o filtro **Conta pessoal** na sua lista inteligente para separar as contas pessoais das contas comerciais padrão.
-
-## Onde as informações de contas pessoais são exibidas no Marketing Insight de Vendas? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
-
-Atividades relacionadas a contas pessoais são exibidas no painel **Conta**.
+Uma conta de pessoa é sincronizada com o Marketo como uma empresa e como uma pessoa.
 
 >[!NOTE]
 >
->As opções de **Adicionar à Campanha do Marketing Insight** e **Enviar e-mail** não estão disponíveis atualmente para contas pessoais.
+>Os campos personalizados de uma conta de pessoa são copiados para a empresa e para a pessoa no Marketo.
+
+## Como faço para diferenciar contas comerciais e contas pessoais? {#how-do-i-differentiate-business-accounts-and-person-accounts}
+
+Use o filtro **Is Person Account** em sua lista inteligente para separar as contas de pessoas das contas comerciais padrão.
+
+## Onde estão as informações de contas pessoais exibidas no Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
+
+As atividades relacionadas às contas pessoais são exibidas no painel **Conta**.
+
+>[!NOTE]
+>
+>As opções **Add to Marketo Campaign** e **Send Email** do Marketo Sales Insight não estão disponíveis no momento para contas pessoais.
 
 ## Como associo oportunidades a uma conta de pessoa? {#how-do-i-associate-opportunities-to-a-person-account}
 
-O Marketo depende da função de contato de oportunidade para determinar a pessoa à qual associar a oportunidade. É necessário adicionar a função de contato de oportunidade para cada conta de pessoa para conectar a oportunidade à pessoa adequada no Marketo. Recomendamos que você configure um fluxo de trabalho para adicionar a função de contato de oportunidade automaticamente.
+O Marketo depende da função de contato da oportunidade para determinar a pessoa à qual associar a oportunidade. É necessário adicionar a função de contato de oportunidade para cada conta de pessoa para conectar a oportunidade à pessoa adequada no Marketo. Recomendamos que você configure um workflow para adicionar a função de contato de oportunidade automaticamente.
 
-## Qual campo de email devo usar para contas pessoais? {#which-email-field-should-i-use-for-person-accounts}
+## Qual campo de email devo usar para contas de pessoas? {#which-email-field-should-i-use-for-person-accounts}
 
-Há dois campos de email para uma conta de pessoa. Use o campo **Endereço de email** em seus formulários (não o **Endereço de email da pessoa**) para garantir que a eliminação da duplicação do Marketo e outros tipos de processamento de email funcionem corretamente.
+Há dois campos de email para uma conta de pessoa. Use o campo **Endereço de email** em seus formulários (não o **Endereço de email da pessoa**) para garantir que a eliminação da duplicação do Marketo e outro processamento de email funcionem corretamente.
