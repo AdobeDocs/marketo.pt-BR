@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951259
-description: Glossário de tipo de campo personalizado - Documentos do Marketing - Documentação do produto
+description: Glossário de tipo de campo personalizado - Documentos do Marketo - Documentação do produto
 title: Glossário de tipo de campo personalizado
+exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Glossário de Tipo de Campo Personalizado {#custom-field-type-glossary}
+# Glossário de tipo de campo personalizado {#custom-field-type-glossary}
 
 Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para escolher.
 
@@ -25,51 +25,51 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 >[!NOTE]
 >
->A maioria dos campos não atinge o limite máximo em número de caracteres, mas sim em quantidade de bytes. Por causa disso, não é possível fornecer um limite de caracteres definitivo para cada campo. A exceção é **String**, que chega a 255 caracteres.
+>A maioria dos campos não atinge o máximo em número de caracteres, mas sim em quantidade de bytes. Por causa disso, não podemos fornecer um limite de caracteres definitivo para cada campo. A exceção é **String**, que chega a 255 caracteres.
 
 ## Booleano {#boolean}
 
 **Nome do exemplo:** é cliente - Marque suas pessoas como clientes
 
-**Valores de exemplo:** True (marcado) / False (desmarcado)
+**Exemplo de valores:** True (marcado) / False (desmarcado)
 
 **Operadores**: Nenhum
 
 ## Moeda {#currency}
 
-**Nome do exemplo:** Orçamento - Armazena um valor numérico para um orçamento de empresa
+**Nome do exemplo:** Budget - Store um valor numérico para o orçamento de uma empresa
 
-**Valores de exemplo:** 100
+**Exemplo de valores:** 100
 
 **Operadores**: é, não é, entre, maior que, menor que, pelo menos, no máximo, está vazio, não está vazio
 
 ## Data {#date}
 
-**Nome do exemplo:Data** de renovação - Armazenar as datas de renovação dos clientes
+**Exemplo de nome:** Data de renovação - Armazene as datas de renovação dos clientes
 
-**Valores de exemplo:19/** 8/14
+**Valores de exemplo:** 19/8/14
 
-**Operadores**: é, não é, entre, no passado, no passado, no futuro, no futuro, depois, no futuro, depois, no tempo, depois, antes, depois, em ou antes, está vazio, não está vazio
+**Operadores**: é, não é, entre, no passado, antes, no futuro, no futuro, depois, no período de tempo, depois, antes, depois, em ou depois, em ou antes, está vazio, não está vazio
 
 ## Datetime {#datetime}
 
-**Nome do exemplo:Data de** criação - Armazena a data e a hora em que uma pessoa é criada
+**Exemplo de nome:** Data de criação - Armazene a data e a hora em que uma pessoa é criada
 
-**Exemplo de valores:19/** 8/14 2:00
+**Valores de exemplo:** 19/8/14 2:00
 
-**Operadores**: é, não é, entre, no passado, no passado, no futuro, no futuro, depois, no futuro, depois, no tempo, depois, antes, depois, em ou antes, está vazio, não está vazio
+**Operadores**: é, não é, entre, no passado, antes, no futuro, no futuro, depois, no período de tempo, depois, antes, depois, em ou depois, em ou antes, está vazio, não está vazio
 
-## Email {#email}
+## E-mail {#email}
 
-**Nome do exemplo:Email** alternativo - Mantenha um endereço de email alternativo para sua pessoa (não é possível enviar emails para esse campo como o campo de endereço de email padrão, este é especial)
+**Exemplo de nome:** Alternar email - Mantenha um endereço de email alternativo para sua pessoa (não é possível enviar emails para esse campo, como o campo de endereço de email padrão, este é especial)
 
-**Valores de exemplo:** name@company.com
+**Exemplo de valores:** name@company.com
 
-**Operadores**: is, is not, start com, not start com, contém, não contém, está vazio, não está vazio
+**Operadores**: é, não é, começa com, não começa com, contém, não contém, está vazio, não está vazio
 
-## Flutuar {#float}
+## Flutuante {#float}
 
-**Nome do exemplo:Média do ponto de** nível - Manter média do ponto de nível de uma pessoa ou qualquer outro valor numérico que tenha decimais
+**Nome do exemplo:** Média do ponto de nota - Mantenha a média do ponto de nota de uma pessoa ou qualquer outro valor numérico que tenha decimais
 
 **Valores de exemplo:** 2.47
 
@@ -77,21 +77,21 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Fórmula {#formula}
 
-**Nome do exemplo:** Salutations - use esse campo especial em uma  [solução para obter a ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) saudação correta com base no gênero
+**Nome do exemplo:** Salutations - use este campo especial em uma  [solução para obter a ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) saudação correta com base no sexo
 
-**Valores de exemplo:** verificar a solução vinculada
+**Exemplo de valores:** verifique a solução vinculada
 
-## Número inteiro {#integer}
+## Inteiro {#integer}
 
-**Nome do exemplo:** Número de funcionários - armazene um valor numérico que não exija decimais
+**Exemplo de nome:** Número de funcionários - armazene um valor numérico que não requer decimais
 
 **Valores de exemplo:** 600
 
 **Operadores**: é, não é, entre, maior que, menor que, pelo menos, no máximo, está vazio, não está vazio
 
-## Porcentagem {#percent}
+## Percentual {#percent}
 
-**Nome do exemplo:** Provavelmente Comprar - armazene um valor percentual (talvez calculado no lado do CRM)
+**Nome do exemplo:** Probabilidade de comprar - armazene um valor de porcentagem (talvez calculado no lado do CRM)
 
 **Valores de exemplo:** 85%
 
@@ -99,27 +99,27 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Telefone {#phone}
 
-**Nome do exemplo:Telefone** alternativo - armazene um número de telefone adicional para sua pessoa
+**Nome do exemplo:** Telefone alternativo - armazene um número de telefone adicional para o seu pessoal
 
 **Exemplo de valor:** 650-555-5555
 
-**Operadores**: is, is not, start com, not start com, contém, não contém, está vazio, não está vazio
+**Operadores**: é, não é, começa com, não começa com, contém, não contém, está vazio, não está vazio
 
 ## Pontuação {#score}
 
-**Nome do exemplo:Pontuação** comportamental / Pontuação demográfica - crie vários campos de pontuação para acompanhar atributos diferentes.
+**Nome do exemplo:** Pontuação comportamental / Pontuação demográfica - crie vários campos de pontuação para rastrear atributos diferentes.
 
 **Exemplo de valor:** 14
 
 **Operadores**: é, não é, entre, maior que, menor que, pelo menos, no máximo, está vazio, não está vazio
 
-## String {#string}
+## Sequência de caracteres {#string}
 
-**Nome do exemplo:Nome do** meio - armazene um atributo de texto adicional
+**Nome do exemplo:** Nome do meio - armazene um atributo de texto adicional
 
 **Exemplo de valor:** Rose
 
-**Operadores**: is, is not, start com, not start com, contém, não contém, está vazio, não está vazio
+**Operadores**: é, não é, começa com, não começa com, contém, não contém, está vazio, não está vazio
 
 ## Área de texto {#text-area}
 
@@ -127,12 +127,12 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 **Exemplo de valor:** este artigo é fantástico!
 
-**Operadores**: is, is not, start com, not start com, contém, não contém, está vazio, não está vazio
+**Operadores**: é, não é, começa com, não começa com, contém, não contém, está vazio, não está vazio
 
 ## URL {#url}
 
-**Exemplo de nome:** Blog - crie um campo para armazenar URLs de blog de pessoas
+**Exemplo de nome:** Blog - crie um campo para armazenar urls de blog de pessoas
 
 **Exemplo de valor:** www.myblog.com
 
-**Operadores**: is, is not, start com, not start com, contém, não contém, está vazio, não está vazio
+**Operadores**: é, não é, começa com, não começa com, contém, não contém, está vazio, não está vazio
