@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512289
-description: Adicionar GoToWebinar como um Serviço LaunchPoint - Documentos do Marketing - Documentação do produto
-title: Adicionar GoToWebinar como um Serviço LaunchPoint
+description: Adicionar o GoToWebinar as a LaunchPoint Service - Documentos do Marketo - Documentação do produto
+title: Adicionar o GoToWebinar como um Serviço do LaunchPoint
+exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
+# Adicionar GoToWebinar como um Serviço do LaunchPoint {#add-gotowebinar-as-a-launchpoint-service}
 
-# Adicionar GoToWebinar como um Serviço LaunchPoint {#add-gotowebinar-as-a-launchpoint-service}
-
-O Marketo gerencia sua inscrição e participação no GoToWebinar.
+A Marketo gerencia o registro e a participação do GoToWebinar.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ O Marketo gerencia sua inscrição e participação no GoToWebinar.
 
 >[!NOTE]
 >
->Uma subscrição existente para GoToWebinar e direitos de administração são necessários para esta etapa. Tenha o email e a senha que você usa para fazer logon no GoToWebinar à mão.
+>Uma assinatura existente para os direitos GoToWebinar e de administração é necessária para esta etapa. Tenha em mãos o email e a senha que você usa para entrar no GoToWebinar.
 
 >[!NOTE]
 >
@@ -35,27 +35,27 @@ O Marketo gerencia sua inscrição e participação no GoToWebinar.
 
    ![](assets/new-service-gotowebinar.png)
 
-1. Digite um **Nome de exibição**. Em **Service**, selecione **GoToWebinar**.
+1. Insira um **Nome de Exibição**. Em **Service**, selecione **GoToWebinar**.
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. Em seguida, clique em **Iniciar sessão em GoToWebinar**.
+1. Em seguida, clique em **Log Into GoToWebinar**.
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
    >[!NOTE]
    >
-   >Se você quiser sincronizar Nome da Empresa e Título do trabalho do formulário Marketo com GoToWebinar, selecione a caixa **Ativar campos adicionais**.
+   >Para sincronizar o Nome da empresa e o Título do trabalho do formulário Marketo para IrParaWebinar, selecione a caixa **Ativar campos adicionais**.
 
-1. Na janela pop-up Entrar do GoToWebinar, digite seu e-mail e senha do **GoToWebinar** e clique em **Entrar**.
+1. Na janela pop-up IrParaEntrada do Webinar, digite o email e a senha **IrParaWebinar** e clique em **Entrar**.
 
    ![](assets/image2015-4-22-15-3a52-3a31.png)
 
-1. Depois que a janela for fechada, clique em **Criar**.
+1. Depois que a janela for fechada, clique em **Create**.
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. Ótimo! Sua conta **GoToWebinar** agora é sincronizada com Marketo.
+1. Ótimo! Sua conta **GoToWebinar** agora está sincronizada com o Marketo.
 
    ![](assets/goto-webinar.png)
 
