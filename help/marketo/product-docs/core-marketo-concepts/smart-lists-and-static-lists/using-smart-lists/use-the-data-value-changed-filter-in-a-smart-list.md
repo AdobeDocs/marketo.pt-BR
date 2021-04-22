@@ -1,37 +1,37 @@
 ---
 unique-page-id: 557324
-description: Usar o filtro Valor dos Dados Alterado em uma Lista Inteligente - Documentos do Marketing - Documentação do Produto
-title: Usar o filtro Valor de dados alterado em uma Lista inteligente
+description: Usar o filtro de valor de dados alterado em uma Smart List - Marketo Docs - Documentação do produto
+title: Usar o filtro de valor de dados alterado em uma Smart List
+exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Usar o Filtro de Valor de Dados Alterado em uma Lista Inteligente {#use-the-data-value-changed-filter-in-a-smart-list}
 
-# Usar o filtro Valor de dados alterado em uma Lista inteligente {#use-the-data-value-changed-filter-in-a-smart-list}
-
-Os valores estão constantemente mudando e sendo atualizados no banco de dados do Marketing to. Às vezes, em vez de procurar um valor específico, você quer procurar pessoas que tiveram uma mudança de valor. Veja como.
+Os valores estão mudando e sendo atualizados constantemente no banco de dados do Marketo. Às vezes, em vez de procurar um valor específico, você quer procurar pessoas que tiveram uma mudança de valor. Veja como.
 
 >[!PREREQUISITES]
 >
->[Criar uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Vá para a área **Atividades de marketing**.
+1. Vá para a área **Marketing Activities**.
 
    ![](assets/ma.png)
 
-1. Selecione a lista inteligente e clique na guia **Lista inteligente**.
+1. Selecione a lista inteligente e clique na guia **Smart List**.
 
    ![](assets/two-1.png)
 
-1. Localize o filtro **Valor de dados alterado** e arraste-o para a tela de desenho.
+1. Encontre o filtro **Data Value Changed** e arraste-o para a tela.
 
    ![](assets/three-1.png)
 
-1. Defina **Atributo** para o campo no qual deseja procurar alterações no valor dos dados.
+1. Defina **Attribute** para o campo no qual você deseja procurar alterações no valor de dados.
 
    ![](assets/four.png)
 
