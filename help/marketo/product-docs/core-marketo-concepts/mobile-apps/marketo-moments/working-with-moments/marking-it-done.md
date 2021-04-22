@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783557
-description: Marcação concluída - Documentos do Marketing - Documentação do produto
+description: Marcação concluída - Documentos da Marketo - Documentação do produto
 title: Marcar como concluído
+exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-
 # Marcar como concluído {#marking-it-done}
 
-Marque um programa de e-mail, evento ou cartão de análise como Concluído para removê-lo do seu fluxo. Há duas maneiras de fazer isso.
+Marque um programa de email, evento ou cartão de análise como Concluído para removê-lo de seu fluxo. Há duas maneiras de fazê-lo.
 
 1. Toque no menu de ação.
 
@@ -23,12 +23,12 @@ Marque um programa de e-mail, evento ou cartão de análise como Concluído para
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
-1. Ou deslize o cartão para qualquer lado.
+1. Ou passe o cartão para qualquer lado.
 
    ![](assets/image2015-9-25-9-3a46-3a6.png)
 
    >[!NOTE]
    >
-   >Marcar um cartão como Concluído não exclui o email, o evento ou a campanha inteligente. Ele só o move do fluxo Momentos/Mais tarde para o fluxo Concluído.
+   >Marcar um cartão como Concluído não exclui o email, evento ou campanha inteligente. Ele só o move do fluxo Momentos/Depois para o fluxo Concluído .
 
 Pedaço de bolo!
