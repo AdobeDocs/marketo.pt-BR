@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12980785
-description: Notas de versão - Aprimoramentos do ABM em 17 de agosto - Documentos do Marketo - Documentação do produto
+description: Notas de versão - Aprimoramentos do ABM de agosto de 2017 - Documentos do Marketo - Documentação do produto
 title: Notas de versão - Aprimoramentos do ABM em agosto de 2017
+exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Notas de versão: Aprimoramentos de ABM de 17 de agosto {#release-notes-august-abm-enhancements}
 
@@ -17,7 +17,7 @@ Os seguintes recursos estão incluídos na versão de aprimoramento do ABM de 17
 
 Clique nos links de título para exibir os artigos detalhados de cada recurso.
 
-## Insight da conta {#account-insight}
+## Account Insight {#account-insight}
 
 **[O Account](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** Insights é um plug-in do Google Chrome que exibe os insights acionáveis do ABM e da conta para suas equipes de vendas, permitindo que elas trabalhem em conjunto com o marketing para envolver as contas de maneira eficaz. As equipes de vendas obterão visibilidade sobre os dados e insights gerados para cada uma das contas nomeadas de sua propriedade. Isso incluirá percentis de pontuação de conta, uma lista priorizada de suas Contas Nomeadas, pessoas envolvidas nessas contas e um fluxo de atividades ativas de atividades recentes da conta.
 
