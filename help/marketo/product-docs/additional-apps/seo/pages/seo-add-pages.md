@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949216
-description: SEO - Adicionar páginas - Documentos do Marketing - Documentação do produto
+description: SEO - Adicionar páginas - Documentos do Marketo - Documentação do produto
 title: SEO - Adicionar páginas
+exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # SEO - Adicionar páginas {#seo-add-pages}
 
-Você tem páginas! A SEO do Marketo rastreará automaticamente seu site e os rastreará. Caso tenha perdido alguns, coloque-os no aplicativo SEO desta forma:
+Você tem páginas! O SEO do Marketo rastreará automaticamente seu site e o rastreará. Caso tenha perdido alguns, coloque-os no aplicativo SEO da seguinte maneira:
 
-1. Vá para a seção **Páginas**.
+1. Vá para a seção **Pages**.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
@@ -29,10 +29,10 @@ Você tem páginas! A SEO do Marketo rastreará automaticamente seu site e os ra
 
    >[!TIP]
    >
-   >Você sabia que pode [adicionar sua página a uma lista nova ou existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Confira!
+   >Você sabia que pode [adicionar sua página a uma lista nova ou existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Dê uma olhada!
 
-   Pode levar algum tempo para que os dados da página sejam carregados. Aguarde a mensagem de alerta verde e atualize sua página para atualizar a exibição.
+   Pode levar algum tempo para que os dados da página sejam carregados. Aguarde a mensagem de alerta verde e atualize a página para atualizar a exibição.
 
    ![](assets/image2014-9-18-12-3a57-3a10.png)
 
-   Agora você pode rastrear o desempenho desta página na pesquisa.
+   Agora você pode acompanhar o desempenho desta página na pesquisa.
