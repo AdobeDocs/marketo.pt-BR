@@ -1,35 +1,35 @@
 ---
 unique-page-id: 2359410
-description: Enviar um email - Documentos do Marketing - Documentação do produto
+description: Enviar um email - Documentos do Marketo - Documentação do produto
 title: Enviar um email
+exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Enviar um email {#send-an-email}
 
-É a primeira coisa que todos querem fazer. Vamos enviar um e-mail para fora de Marketo!
+É a primeira coisa que todos querem fazer. Vamos enviar um email do Marketo!
 
 >[!PREREQUISITES]
 >
 >[Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-## Criar um Programa de email {#create-an-email-program}
+## Criar um programa de email {#create-an-email-program}
 
-1. Vá para a área **Atividades de marketing**.
+1. Vá para a área **Marketing Activities**.
 
    ![](assets/one-1.png)
 
-1. Selecione sua pasta **Learning**. Clique no menu suspenso **Novo** e selecione **Novo Programa**.
+1. Selecione a pasta **Learning**. Clique no menu suspenso **New** e selecione **New Program**.
 
    ![](assets/two-1.png)
 
-1. Digite um **Nome** e selecione **Email** para **Tipo de Programa.**
+1. Insira um **Nome** e selecione **Email** para **Tipo de Programa.**
 
    >[!TIP]
    >
@@ -41,9 +41,9 @@ ht-degree: 0%
 
    ![](assets/image2015-3-2-16-3a25-3a18.png)
 
-## Defina sua Audiência {#define-your-audience}
+## Defina seu público-alvo {#define-your-audience}
 
-1. Clique em **Editar Lista inteligente** no bloco Audiência.
+1. Clique em **Editar lista inteligente** no bloco Público-alvo.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Use **Pesquise** na parte superior da lista de Filtros para encontrar o filtro mais facilmente.
+   >Use **Pesquisar** na parte superior da lista de Filtros para localizar o filtro mais facilmente.
 
 1. Localize e selecione seu endereço de email.
 
@@ -61,13 +61,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se o seu email não for preenchido automaticamente, você pode ter esquecido de [Configurar e Adicionar um cliente potencial.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+   >Se o seu email não for preenchido automaticamente, você pode ter esquecido de [Configurar e Adicionar um lead.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
-   >Neste exemplo, você está mandando o email para você mesmo, mas pode personalizar a audiência como quiser.
+   >Neste exemplo, você está enviando o email somente para si mesmo, mas é possível personalizar o público como quiser.
 
-1. Volte para a guia programa principal e clique no ícone de atualização para **Pessoa**.
+1. Volte para a guia do programa principal e clique no ícone de atualização para **Pessoa**.
 
    ![](assets/refresh-icon.png)
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
 ## Criar um email {#create-an-email}
 
-1. No bloco Email, clique em **Novo email**.
+1. No bloco Email , clique em **Novo Email**.
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. Digite um **Nome**, selecione um **Modelo** e clique em **Criar**.
+1. Insira um **Nome**, selecione um **Modelo** e clique em **Criar**.
 
    ![](assets/ten-1.png)
 
@@ -89,13 +89,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se você tiver um bloqueador de pop-ups, clique em **Editar rascunho** para entrar no editor de e-mail.
+   >Se você tiver um bloqueador de pop-ups, clique em **Editar rascunho** para entrar no editor de email.
 
-1. Selecione a área que deseja editar, clique no ícone de engrenagem à direita e selecione **Editar** (você também pode clicar com o duplo na seção editável para editar).
+1. Selecione a área que deseja editar, clique no ícone de engrenagem à direita e selecione **Editar** (também é possível clicar duas vezes na seção editável para editar).
 
    ![](assets/twelve.png)
 
-1. Digite o conteúdo desejado e clique em **Salvar**.
+1. Insira o conteúdo desejado e clique em **Save**.
 
    ![](assets/thirteen.png)
 
@@ -103,19 +103,19 @@ ht-degree: 0%
 
    ![](assets/fourteen.png)
 
-1. Clique no menu suspenso **Ações de e-mail** e selecione **Aprovar**.
+1. Clique no menu suspenso **Ações de email** e selecione **Aprovar**.
 
    ![](assets/fifteen.png)
 
    >[!TIP]
    >
-   >Quer enviar uma amostra rápida para ver a aparência do seu email antes de iniciar? Selecione **Enviar amostra** no menu acima, ou clique em **Ações de e-mail** e em [**Enviar amostra**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
+   >Deseja enviar uma amostra rápida para ver a aparência do seu email antes da inicialização? Selecione **Enviar Amostra** no menu acima ou clique em **Ações de Email** e depois em [**Enviar Amostra**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
 
-1. Selecione o Programa Email na árvore esquerda.
+1. Selecione o Programa de email na árvore esquerda.
 
    ![](assets/sixteen.png)
 
-1. No bloco Agendamento, defina o dia de inicialização do email como **Hoje.**
+1. No bloco Agendar , defina o dia de inicialização do email para **Hoje.**
 
    ![](assets/image2014-9-8-15-3a13-3a11.png)
 
@@ -127,7 +127,7 @@ ht-degree: 0%
    >
    >O fuso horário padrão não é seu? Saiba como [atualizá-lo aqui](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
 
-1. Clique em **Aprovar Programa** no bloco Aprovação e você está pronto!
+1. Clique em **Aprovar programa** no bloco Aprovação e você terminou!
 
    ![](assets/image2014-9-8-15-3a13-3a34.png)
 
@@ -135,6 +135,6 @@ Você deve receber o email logo após o dia/hora agendada.
 
 <br> 
 
-[◄ Configure e adicione um cliente potencial](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[◄ Preparar-se e adicionar um lead](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[landing page com um formulário ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[Página com formulário ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
