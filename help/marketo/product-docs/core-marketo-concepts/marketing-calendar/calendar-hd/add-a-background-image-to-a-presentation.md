@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504437
-description: Adicionar uma imagem de plano de fundo a uma apresentação - Documentos do Marketing - Documentação do produto
+description: Adicionar uma imagem de plano de fundo a uma apresentação - Documentos do Marketo - Documentação do produto
 title: Adicionar uma imagem de plano de fundo a uma apresentação
+exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
-
 
 # Adicionar uma imagem de plano de fundo a uma apresentação {#add-a-background-image-to-a-presentation}
 
@@ -19,15 +19,15 @@ Personalize uma apresentação selecionando uma imagem de plano de fundo.
 >
 >[Criar uma apresentação](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
-1. Clique com o botão direito do mouse em uma apresentação e selecione **Configuração de Visualização**.
+1. Clique com o botão direito do mouse em uma apresentação e selecione **Exibir Configuração**.
 
    >[!NOTE]
    >
-   >Você também pode clicar com o duplo do mouse em uma apresentação para entrar na guia de configuração.
+   >Você também pode clicar duas vezes em uma apresentação para entrar na guia de configuração.
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. Arraste e solte **Imagem de plano de fundo** da árvore direita para a tela de desenho.
+1. Arraste e solte **Imagem de plano de fundo** da árvore direita na tela.
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -39,7 +39,7 @@ Personalize uma apresentação selecionando uma imagem de plano de fundo.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Clique em **Pré-visualização** para dar uma olhada.
+1. Clique em **Preview** para fazer check-out.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
