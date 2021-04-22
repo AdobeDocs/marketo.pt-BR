@@ -1,68 +1,68 @@
 ---
 unique-page-id: 1147100
-description: Navegação na Visualização do Cronograma do programa - Documentos do Marketing - Documentação do produto
-title: Navegação na Visualização do Cronograma do programa
+description: Navegando pela exibição de programação - Documentos do Marketo - Documentação do produto
+title: Navegando pela Visualização de Programação de Programa
+exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
+# Navegando pela Visualização de Programação de Programa {#navigating-the-program-schedule-view}
 
-# Navegação na Visualização do Cronograma do programa {#navigating-the-program-schedule-view}
+Estas são as noções básicas para ajudá-lo a navegar na visualização do agendamento do programa.
 
-Estas são as noções básicas para ajudá-lo a navegar pela visualização do cronograma do programa.
+## Encontrar a Exibição de Programação {#find-the-schedule-view}
 
-## Localizar a Visualização Agendamento {#find-the-schedule-view}
-
-1. Vá para **Atividades de marketing**.
+1. Vá para **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu programa. Clique no menu suspenso **Visualização**. Selecione **Agendamento**.
+1. Selecione o programa. Clique no menu suspenso **View**. Selecione **Agendamento**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Agora você estará olhando para a visualização do seu programa.
+   Agora você verá a visualização da programação do seu programa.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
 >[!NOTE]
 >
->A visualização do cronograma do programa está pegajosa. Depois de configurados, todos os programas serão definidos como padrão para a visualização de programação.
+>A exibição do cronograma do programa é fixa. Depois de configurá-lo, todos os programas serão definidos como padrão na exibição de programação.
 
 ## Alternando entre entradas {#switching-between-entries}
 
-1. Nos detalhes da entrada, clique nas setas para ir para a próxima entrada programada.
+1. Nos detalhes da entrada, clique nas setas para avançar para a próxima entrada programada.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
 
-   Muito legal, hein?
+   Muito legal, não é?
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
-## Menu de contexto de visualização {#view-context-menu}
+## Exibir Menu de Contexto {#view-context-menu}
 
-1. Clique com o botão direito do mouse em qualquer programa para fazer edições no Programa, na Lista inteligente, na Configuração, em Meus tokens ou em Membros.
+1. Clique com o botão direito do mouse em qualquer programa para fazer edições no Programa, Smart List, Setup, My Tokens ou Members.
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
 
-## Alteração entre modos {#changing-between-modes}
+## Alterar entre modos {#changing-between-modes}
 
-1. Clicar em **3 Semanas** ou **Mês** alterará as datas visíveis na sua exibição.
+1. Clicar em **3 Semanas** ou **Mês** alterará as datas visíveis na exibição.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
-## Visualização em tela cheia {#full-screen-view}
+## Exibição em tela cheia {#full-screen-view}
 
-1. Você pode clicar no ícone da tela no canto superior direito para visualização do cronograma do programa no modo de tela cheia.
+1. Você pode clicar no ícone da tela no canto superior direito para exibir o cronograma do programa no modo de tela cheia.
 
    ![](assets/image2014-9-17-11-3a40-3a45.png)
 
-Ótimo! Agora que você sabe como visualização seu programa, vamos aprender outras coisas legais que ele pode fazer.
+Ótimo! Agora que você sabe como visualizar seu programa, vamos aprender as outras coisas legais que ele pode fazer.
 
 >[!MORELIKETHIS]
 >
->[Criação de uma entrada na Visualização do Cronograma do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
+>[Criando uma Entrada na Exibição de Programação de Programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
