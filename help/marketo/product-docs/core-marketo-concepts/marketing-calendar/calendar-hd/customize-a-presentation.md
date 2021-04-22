@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7503973
-description: Personalizar uma apresentação - Documentos do Marketing - Documentação do produto
+description: Personalizar uma apresentação - Documentos do Marketo - Documentação do produto
 title: Personalizar uma apresentação
+exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '285'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Personalizar uma apresentação {#customize-a-presentation}
 
@@ -18,67 +18,67 @@ Configure sua apresentação de calendário para refletir as metas e atividades 
 >[!AVAILABILITY]
 >
 >
->Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
+>Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
 
 >[!PREREQUISITES]
 >
->* [Criar ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) objetivos personalizados ou metas de Lista  [inteligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
+>* [Criar metas personalizadas ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) ou metas de lista  [inteligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
    >
    >
 * [Criar uma apresentação](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 
-## Escolhendo as Visualizações {#choosing-the-views}
+## Escolher as Exibições {#choosing-the-views}
 
-O Presentations percorre [definições de filtro](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) diferentes escolhidas. Retire quantas visualizações quiser e personalize a frequência.
+O Presentations ciclo por meio de [definições de filtro diferentes](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) escolhidas. Puxe quantas visualizações desejar e personalize a frequência.
 
-1. Na árvore direita, arraste as diferentes visualizações que deseja girar na apresentação.
+1. Na árvore direita, arraste as diferentes exibições que você deseja girar em sua apresentação.
 
    ![](assets/image2015-3-18-13-3a6-3a10.png)
 
 ## Adicionar uma meta {#add-a-goal}
 
-A Presentations é a mais incrível quando mostra as metas de sua equipe. Basta arrastar sobre diferentes [metas personalizadas](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) ou [metas de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). Você pode usar até 10.
+Os Presentations são os mais incríveis quando exibem suas metas de equipe. Basta arrastar sobre diferentes [metas personalizadas](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) ou [metas da lista inteligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). Você pode usar até 10.
 
 1. Na árvore direita, arraste metas diferentes que deseja exibir na apresentação.
 
    ![](assets/image2015-3-24-14-3a23-3a26.png)
 
-## Defina a frequência de rotação {#set-the-frequency-of-rotation}
+## Definir a frequência de rotação {#set-the-frequency-of-rotation}
 
-Depois de puxar as visualizações desejadas na apresentação, defina a frequência com que ela gira entre as diferentes visualizações.
+Depois de puxar as exibições desejadas na apresentação, defina a frequência na qual ela gira entre as diferentes exibições.
 
 1. Clique em **5 minutos** (esta é a cadência padrão).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. Insira uma hora usando minutos. Clique em **Salvar**.
+1. Insira um tempo usando minutos. Clique em **Salvar**.
 
    >[!NOTE]
    >
-   >Exiba uma visualização estática marcando **Desativar rotação**.
+   >Exiba uma exibição estática marcando **Desativar rotação**.
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
 ## Definir a Exibição de Calendário {#set-the-calendar-display}
 
-A exibição do calendário pode ser alterada para uma visualização mensal ou de 3 semanas.
+A exibição do calendário pode ser alterada para uma exibição mensal ou de 3 semanas.
 
 1. Selecione o menu suspenso **Calendar Display** e escolha entre **3 semanas** ou um **Mês**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   Incrível! Pronto para ver a sua apresentação?
+   Ótimo! Pronto para ver a apresentação?
 
 >[!TIP]
 >
->Defina uma [imagem de fundo](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md) para a sua apresentação. Sugerimos gatinhos ou arco-íris.
+>Defina um [imagem de fundo](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md) para a sua apresentação. Sugerimos gatinhos ou arcos-da-chuva.
 
-## Pré-visualização de uma apresentação {#preview-a-presentation}
+## Visualizar uma apresentação {#preview-a-presentation}
 
-Depois que a apresentação for configurada, ela estará pronta para ser visualizada e aberta.
+Depois que a apresentação for configurada, ela estará pronta para ser visualizada e iniciada.
 
-1. Selecione **Pré-visualização**.
+1. Selecione **Preview**.
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
@@ -86,7 +86,7 @@ Depois que a apresentação for configurada, ela estará pronta para ser visuali
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
-   Não gosta do que você vê? Retorne e use definições de filtro diferentes para criar a visualização desejada.
+   Não gosta do que vê? Retorne e use definições de filtro diferentes para criar a exibição desejada.
 
 >[!MORELIKETHIS]
 >
