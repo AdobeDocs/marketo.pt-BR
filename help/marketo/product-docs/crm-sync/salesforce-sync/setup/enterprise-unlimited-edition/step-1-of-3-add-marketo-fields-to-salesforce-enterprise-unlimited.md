@@ -2,14 +2,14 @@
 unique-page-id: 2360362
 description: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited) - Documentos do Marketo - Documentação do produto
 title: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited)
+exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '731'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
-
 
 # Etapa 1 de 3: Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
@@ -82,9 +82,9 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
    <td>Comprimento 10<br>Casas decimais 0 </td> 
   </tr> 
   <tr> 
-   <td>Data de aquisição</td> 
+   <td>Data da aquisição</td> 
    <td>mkto71_Acquisition_Date</td> 
-   <td>Data/Hora</td> 
+   <td>Data/hora</td> 
    <td> </td> 
   </tr> 
   <tr> 
@@ -162,7 +162,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
    <td>Comprimento 18<br>Casas decimais 0 </td> 
   </tr> 
   <tr> 
-   <td>Referenciador Original</td> 
+   <td>Responsável pela indicação original</td> 
    <td>mkto71_Original_Referrer</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
@@ -180,55 +180,55 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Informações de origem originais</td> 
+   <td>Informações da fonte original</td> 
    <td>mkto71_Original_Source_Info</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Tipo de Origem Original</td> 
+   <td>Tipo de fonte original</td> 
    <td>mkto71_Original_Source_Type</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Cidade Inferida</td> 
+   <td>Cidade indicada</td> 
    <td>mkto71_Inferred_City</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Empresa Inferior</td> 
+   <td>Empresa indicada</td> 
    <td>mkto71_Inferred_Company</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>País Inferior</td> 
+   <td>País indicado</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Área Metropolitana Inferida</td> 
+   <td>Área metropolitana indicada</td> 
    <td>mkto71_Inferred_Metropolitan_Area</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Código da Área do Telefone Inferior</td> 
+   <td>Código de área telef. indic.</td> 
    <td>mkto71_Inferred_Phone_Area_Code</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Código postal Inferior</td> 
+   <td>Código postal indicado</td> 
    <td>mkto71_Inferred_Postal_Code</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Região do Estado Inferior</td> 
+   <td>Estado/região indicado</td> 
    <td>mkto71_Inferred_State_Region</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
@@ -268,4 +268,4 @@ Um campo personalizado no objeto de lead no Salesforce deve ser mapeado para um 
 
 >[!MORELIKETHIS]
 >
->[Etapa 2 de 3: Criar um usuário do Salesforce para o Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[Etapa 2 de 3: Criar um usuário do Salesforce para Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
