@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147078
-description: Change Person Partition - Markto Docs - Documentação do produto
-title: Alterar Partição de Pessoa
+description: Alterar partição de pessoa - Documentos do Marketo - Documentação do produto
+title: Alterar partição de pessoas
+exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-
-# Alterar Partição de Pessoa {#change-person-partition}
+# Alterar partição de pessoas {#change-person-partition}
 
 ## Visão geral {#overview}
 
@@ -21,7 +21,7 @@ Se estiver usando [espaços de trabalho e partições](/help/marketo/product-doc
 
 ## Uso {#usage}
 
-1. Selecione a Partição para a qual deseja mover as pessoas.
+1. Selecione a Partição para a qual deseja mover suas pessoas.
 
 ![](assets/two-3.png)
 
