@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11378051
-description: Substituir domínio primário para emails - Documentos do marketing - Documentação do produto
-title: Substituir domínio primário por e-mails
+description: Substituir domínio primário de emails - Documentos do Marketo - Documentação do produto
+title: Substituir Domínio Principal por Emails
+exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-
 # Substituir Domínio Principal por Emails {#overwrite-primary-domain-for-emails}
 
-Você pode substituir o domínio da marca principal por email. Isso mudará a forma como os links são marcados quando o email é enviado.
+Você pode substituir o domínio da marca primária por email. Isso alterará a forma como os links são marcados quando o email é enviado.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,4 +29,4 @@ Você pode substituir o domínio da marca principal por email. Isso mudará a fo
 
    >[!NOTE]
    >
-   >Nem todos os usuários têm permissões para definir o domínio de marca por email. Entre em contato com seu administrador se não vir o menu suspenso Domínios da marca.
+   >Nem todos os usuários têm permissões para definir o domínio de marca por email. Entre em contato com o administrador se não visualizar o menu suspenso Domínios de marca .
