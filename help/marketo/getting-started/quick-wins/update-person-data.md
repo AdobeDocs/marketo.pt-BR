@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359426
-description: Atualizar dados da pessoa - Documentos do marketing - Documentação do produto
-title: Atualizar dados da pessoa
+description: Atualizar dados de pessoa - Documentos do Marketo - Documentação do produto
+title: Atualizar dados de pessoa
+exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 
+# Atualizar dados de pessoa {#update-person-data}
 
-# Atualizar Dados da Pessoa {#update-person-data}
-
-## Missão: Atualizar informações de contato de uma pessoa ou outros dados {#mission-update-a-persons-contact-info-or-other-data}
+## Missão: Atualizar as informações de contato de uma pessoa ou outros dados {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
 >* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Importar uma Lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
-Vamos imaginar que na sua apresentação comercial recente, uma pessoa lhe deu algumas informações de contato adicionais. Veja como atualizar os dados pessoais.
+Vamos imaginar que em sua apresentação comercial recente, uma pessoa lhe deu algumas informações de contato adicionais. Veja como atualizar os dados de pessoas.
 
 ## Encontre a pessoa que você precisa atualizar {#find-the-person-you-need-to-update}
 
@@ -29,7 +29,7 @@ Vamos imaginar que na sua apresentação comercial recente, uma pessoa lhe deu a
 
    ![](assets/db-3.png)
 
-1. Pesquise o nome ou endereço de email da pessoa.
+1. Pesquise o nome ou o endereço de email da pessoa.
 
    >[!TIP]
    >
@@ -37,15 +37,15 @@ Vamos imaginar que na sua apresentação comercial recente, uma pessoa lhe deu a
 
    ![](assets/two-rubiks.png)
 
-1. Clique com o duplo para abrir os detalhes da pessoa.
+1. Clique duas vezes para abrir o detalhe da pessoa.
 
    ![](assets/three-rubiks.png)
 
    >[!TIP]
    >
-   >Há muitas maneiras de atualizar os dados pessoais no Marketo. Consulte [Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) e [Alterar Valor de Dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >Há muitas maneiras de atualizar dados de pessoas no Marketo. Consulte [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) e [Alterar valor de dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
-## Atualizar os dados da pessoa {#update-the-person-data}
+## Atualizar os dados de pessoa {#update-the-person-data}
 
 1. Digite as novas informações recebidas e feche a guia.
 
@@ -53,14 +53,14 @@ Vamos imaginar que na sua apresentação comercial recente, uma pessoa lhe deu a
 
 >[!NOTE]
 >
->Após alterar os dados, as Listas inteligentes e as Campanhas inteligentes reconhecerão as novas informações imediatamente.
+>Após a alteração dos dados, as listas e campanhas inteligentes reconhecerão imediatamente as novas informações.
 
-## Missão concluída {#mission-complete}
+## Missão cumprida  {#mission-complete}
 
-Bom trabalho! Você atualizou seus dados pessoais.
+Excelente! Você atualizou seus dados pessoais.
 
 <br> 
 
-[◄ Missão 8: Alertar o representante de vendas](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄ Missão 8: alertar o representante de vendas](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Missão 10: Redirecionar uma Landing page ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Missão 10: &#x200B;redirecionar uma página ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
