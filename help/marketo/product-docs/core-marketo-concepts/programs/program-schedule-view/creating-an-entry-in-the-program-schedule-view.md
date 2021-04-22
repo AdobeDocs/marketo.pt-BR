@@ -1,27 +1,27 @@
 ---
 unique-page-id: 1147102
-description: Criando uma entrada na Visualização do Cronograma do programa - Documentos do Marketing - Documentação do produto
-title: Criação de uma entrada na Visualização do Cronograma do programa
+description: Criação de uma entrada na exibição de programação - Documentos do Marketo - Documentação do produto
+title: Criando uma Entrada na Exibição de Programação de Programa
+exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
+# Criando uma Entrada na Visualização de Programação de Programa {#creating-an-entry-in-the-program-schedule-view}
 
-# Criando uma entrada na Visualização do Cronograma do programa {#creating-an-entry-in-the-program-schedule-view}
-
-É possível criar entradas a partir da visualização do cronograma do programa para complementar um programa existente.
+Você pode criar entradas a partir da exibição de programação do programa para complementar um programa existente.
 
 ## Criar uma entrada básica {#create-a-basic-entry}
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu programa. Clique no menu suspenso **Visualização**. Selecione **Agendamento**.
+1. Selecione o programa. Clique no menu suspenso **View**. Selecione **Agendamento**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
-1. Selecione o start e a data/hora de término da nova entrada.
+1. Selecione a data/hora inicial e final da nova entrada.
 
    ![](assets/image2014-9-16-9-3a23-3a39.png)
 
@@ -41,32 +41,32 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. Insira sua descrição e clique em **Salvar**.
+1. Insira sua descrição e clique em **Save**.
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
-1. Passe o mouse sobre o ícone de descrição para visualização da descrição da entrada.
+1. Passe o mouse sobre o ícone de descrição para exibir a descrição da entrada.
 
    ![](assets/image2014-9-16-9-3a25-3a51.png)
 
 ## Alterar Tipo de Entrada {#change-entry-type}
 
-1. Selecione uma entrada básica na visualização **Agenda**.
+1. Selecione uma entrada básica na exibição **Agenda**.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Selecione o menu suspenso **Tipo**. Escolha um novo tipo de entrada.
+1. Selecione o menu suspenso **Type**. Escolha um novo tipo de entrada.
 
    >[!NOTE]
    >
-   >O item a fazer é uma [entrada personalizada](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Você pode fazer uma ação a fazer e outras entradas personalizadas para ajudar a rastrear itens de agenda que não sejam de marketing.
+   >A tarefa é [entrada personalizada](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). É possível fazer uma tarefa e outras entradas personalizadas para ajudar a rastrear itens de agenda que não sejam da Marketo.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
-   Legal! Você deve ver as mudanças imediatamente.
+   Legal! Você deve ver as alterações imediatamente.
 
    ![](assets/image2014-9-16-9-3a27-3a21.png)
 
 >[!NOTE]
 >
-> Você também pode criar uma [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) ou [programa de email](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) a partir da visualização agendada.
+> Você também pode criar um [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) ou [programa de email](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) na visualização de agendamento.
