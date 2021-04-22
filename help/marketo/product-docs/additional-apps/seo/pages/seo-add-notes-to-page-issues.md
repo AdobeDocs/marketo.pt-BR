@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2949220
-description: SEO - Adicionar notas a problemas de página - Documentos do marketing - Documentação do produto
-title: SEO - Adicionar notas a problemas de página
+description: SEO - Adicionar notas aos problemas da página - Documentos do Marketo - Documentação do produto
+title: SEO - Adicionar observações aos problemas da página
+exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
+# SEO - Adicionar observações aos problemas da página {#seo-add-notes-to-page-issues}
 
-# SEO - Adicionar notas a problemas de página {#seo-add-notes-to-page-issues}
+Você sabia que pode adicionar observações aos problemas da página como lembretes pessoais ou mensagens de equipe?
 
-Você sabia que pode adicionar notas a problemas de página como lembretes pessoais ou mensagens de equipe?
+## Adicionar observações na seção Problemas de página {#adding-notes-in-page-issues-section}
 
-## Adicionar notas na seção de problemas de página {#adding-notes-in-page-issues-section}
-
-1. Vá para a seção Páginas.
+1. Vá para a seção Pages .
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. Na guia Páginas, clique em **Problemas**.
+1. Na guia páginas, clique em **Problemas**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Passe o mouse sobre o problema ao qual você gostaria de adicionar uma nota. Clique em **Adicionar nota adesiva**.
+1. Passe o mouse sobre o problema ao qual deseja adicionar uma nota. Clique em **Adicionar Nota Aderente**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -37,17 +37,17 @@ Você sabia que pode adicionar notas a problemas de página como lembretes pesso
 >
 >Você pode excluir sua nota clicando no pequeno **x** no canto superior esquerdo.
 
-## Adicione anotações na busca detalhada da página {#add-notes-in-page-detail-drill-down}
+## Adicionar notas na Detalhamento da página {#add-notes-in-page-detail-drill-down}
 
-1. Vá para a seção Páginas.
+1. Vá para a seção Pages .
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
-1. Clique na página para a qual deseja ver os detalhes.
+1. Clique na página para a qual deseja ver detalhes.
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Passe o cursor do mouse sobre o problema de página ao qual você deseja adicionar uma nota e clique em **Adicionar nota**.
+1. Passe o mouse sobre o problema de página ao qual deseja adicionar uma nota e clique em **Adicionar nota**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
