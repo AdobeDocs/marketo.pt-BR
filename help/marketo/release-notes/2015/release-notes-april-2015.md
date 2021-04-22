@@ -1,53 +1,53 @@
 ---
 unique-page-id: 7511815
-description: Notas de versão - abril de 2015 - Documentos do Marketing - Documentação do produto
+description: Notas de versão - abril de 2015 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - abril de 2015
+exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
 # Notas de versão: Abril de 2015 {#release-notes-april}
 
-Os seguintes recursos foram incluídos na versão de abril de 2015. Verifique a disponibilidade de recursos do Marketing Edition. Após o lançamento, volte a encontrar links para artigos detalhados para cada recurso!
+Os seguintes recursos estão incluídos na versão de abril de 2015. Verifique sua Marketo Edition para ver a disponibilidade dos recursos. Após o lançamento, volte para encontrar links para artigos detalhados de cada recurso!
 
-## Redesign inicial do Analytics
+## Novo design do início de análise
 
-[Redesign inicial do Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)
+[Novo design do início de análise](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)
 
 >[!NOTE]
 >
->Este recurso será lançado na terça-feira, 28 de abril.
+>Esse recurso será lançado na terça-feira, 28 de abril.
 
-O novo [Home page do Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permite acesso rápido para executar relatórios ad hoc em tipos de relatórios disponíveis.
+A nova [Página inicial do Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permite acesso rápido para executar relatórios ad hoc em tipos de relatórios disponíveis.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
-Além disso, a organização de relatórios privada versus compartilhada agora está disponível. Crie ou arraste relatórios para a pasta Meus relatórios para impedir que eles sejam exibidos, editados ou excluídos por outros usuários. Relatórios de grupo são compartilhados em todos os usuários.
+Além disso, a organização de relatórios privada versus compartilhada agora está disponível. Crie ou arraste relatórios até a pasta Meus relatórios para impedi-los de visualizar, editar ou excluir por outros usuários. Relatórios de grupo são compartilhados por todos os usuários.
 
-## Envolvimento móvel do Marketo {#marketo-mobile-engagement}
+## Marketo Mobile Engagement{#marketo-mobile-engagement}
 
-**Envolvimento móvel do Marketo**
+**Marketo Mobile Engagement**
 
-Com o Marketing Mobile Engagement, é fácil oferecer experiências móveis atraentes. Crie campanhas altamente personalizadas que fornecem conteúdo atraente sem precisar depender de uma equipe de desenvolvimento de aplicativos. Novos filtros e acionadores permitem que você ouça e responda no canal móvel por meio de notificações por push.
+Com o Marketo Mobile Engagement, é fácil fornecer experiências móveis atraentes. Crie campanhas altamente personalizadas que fornecem conteúdo atraente sem precisar depender de uma equipe de desenvolvimento de aplicativo. Novos filtros e acionadores permitem que você escute e responda no canal móvel por meio de notificações por push.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
-## Integração do LinkedIn Lead Accelerator
+## Integração com acelerador de leads do LinkedIn
 
-[Integração do LinkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+[Integração com acelerador de leads do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Estenda sua estratégia de criação de leads a anúncios pagos e sociais. A [integração de rede de anúncio](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) com o LinkedIn Lead Accelerator permite criar com segurança um segmento de audiência no LinkedIn com base nos membros de qualquer lista inteligente ou estática. Os membros em um segmento de audiência do LinkedIn podem ser criados com uma sequência de anúncios relevantes.
+Estenda sua estratégia de criação de clientes potenciais para exibição paga e anúncios sociais. A [integração de rede de publicidade](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) com o LinkedIn Lead Accelerator permite criar com segurança um segmento de público-alvo no LinkedIn com base nos membros de qualquer lista inteligente ou estática. Os membros em um segmento de público-alvo do LinkedIn podem ser criados com uma sequência de anúncios relevantes.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
-## Marketing to Sales Insight for Salesforce1 {#marketo-sales-insight-for-salesforce}
+## Marketo Sales Insight para Salesforce1 {#marketo-sales-insight-for-salesforce}
 
-Seus recursos favoritos de Insight de vendas - feed principal, melhores apostas, momentos interessantes e adicionar à Campanha de marketing - todos disponíveis no aplicativo Salesforce1.
+Seus recursos favoritos de Insight de vendas - feed de clientes potenciais, melhores apostas, momentos interessantes e adicionar ao Marketo Campaign - todos disponíveis no aplicativo Salesforce1.
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
@@ -55,4 +55,4 @@ Seus recursos favoritos de Insight de vendas - feed principal, melhores apostas,
 
 **RTP - Análise de marketing baseada em conta**
 
-Obtenha visibilidade instantânea do desempenho de suas principais listas de conta nomeada com base em cada estágio do ciclo de compra, com o novo gráfico de desempenho para suas listas de conta nomeada. O gráfico mostra o estágio da visita da organização-chave começando pela conscientização de todo o caminho até a ação, com base no número de visitas e no status do visitante.
+Obtenha visibilidade instantânea do desempenho de suas listas de contas nomeadas com base em cada estágio do ciclo de compras, com o novo gráfico de desempenho para suas listas de contas nomeadas. O gráfico mostra o estágio da visita da organização principal, começando pelo conhecimento até a ação, com base no número de visitas e no status do visitante.
