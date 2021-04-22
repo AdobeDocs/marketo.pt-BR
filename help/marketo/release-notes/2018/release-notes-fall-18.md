@@ -1,107 +1,107 @@
 ---
 unique-page-id: 15695939
-description: Notas de versão - Último trimestre de 2018 - Documentos do marketing - Documentação do produto
+description: Notas de versão - Último trimestre de 2018 - Documentos da Marketo - Documentação do produto
 title: Notas de versão - Último trimestre de 2018
+exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '850'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Notas de versão: Último trimestre de 2018 {#release-notes-fall}
 
-Os seguintes recursos foram incluídos na versão lançada no último trimestre de 2018. Verifique sua edição de marketing para ver a disponibilidade de recursos.
+Os seguintes recursos estão incluídos na versão lançada no último trimestre de 1899. Verifique sua edição do Marketo para ver a disponibilidade dos recursos.
 
-Clique nos links de título para artigos detalhados de visualização para cada recurso, se disponível.
+Clique nos links de título para exibir os artigos detalhados de cada recurso, se disponível.
 
-## Aprimoramentos da plataforma principal {#core-platform-enhancements}
+## Melhorias da plataforma principal {#core-platform-enhancements}
 
-**[Personalização da Web](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
+**[Personalização na Web](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
-A personalização da Web agora suporta vários espaços de trabalho.
+Agora a personalização na Web oferece suporte a mais de uma área de trabalho
 
-## Marketing to Sales Engate {#marketo-sales-engage}
+## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Suporte** a raios SFDC: Os usuários que migram para ou usam atualmente o Lightning podem aproveitar o MSE para obter um envolvimento mais inteligente na jornada do comprador.
+* **Suporte** a Relâmpagos SFDC: Os usuários que migram para ou atualmente usam o Lightning podem aproveitar o MSE para obter um envolvimento mais inteligente na jornada do comprador.
 
 * **Suporte expandido: Microsoft Office**
 
-   * Outlook como Canal de Delivery: Os profissionais de marketing agora podem aproveitar o Outlook para envolvimentos com e-mails, melhorando as taxas de entrega e o rastreamento de respostas.
-   * Melhorias no suporte por email do Office 365: O Marketing for Sales Engage está disponível diretamente no Outlook para Mac, no Outlook para Windows e na Aplicação web do Outlook para clientes de e-mail do Office 365, tornando o Marketing for Sales Engage mais prontamente disponível para todos os usuários do Office.
+   * Outlook como canal de entrega: Agora, os profissionais de marketing podem aproveitar o Outlook para participações em email, melhorando as taxas de deliverability e o rastreamento de respostas.
+   * Melhorias no suporte de email do Office 365: O Marketo Sales Engage está diretamente disponível no Outlook for Mac, Outlook for Windows e nos clientes de e-mail do Outlook Web Application for Office 365, tornando o Marketo Sales Engage mais prontamente disponível para todos os usuários do Office.
 
-* **Experiência de logon de usuário e administrador aprimorada**
+* **Melhoria na experiência de administração e logon de usuário**
 
-   * Workflows de administração aprimorados: Os administradores encontrarão um fluxo de trabalho mais eficiente ao ativar os recursos da equipe por meio das Configurações gerais de administrador.
+   * Fluxos de trabalho de administração aprimorados: Os administradores encontrarão um fluxo de trabalho mais eficiente ao ativar os recursos da equipe por meio das Configurações gerais de administração.
 
 ## Marketo Sky {#marketo-sky}
 
-Para obter mais detalhes e atualizações, verifique nossas [Notas de versão do Sky](https://help.marketo.com).
+Para obter mais detalhes e atualizações, verifique as [Notas de versão do Sky](https://help.marketo.com).
 
 * **Atualizações do sistema de design**
 
-* Atualizações de design: paleta de cores atualizada, bem como uso de cores, espaçamento, layout, sombras e animação consistentes
-* Atualizações de tipografia para melhor leitura
-* Aprimoramentos de design para a navegação em árvore: uso intenso de cor, tipografia mais clara, nova iconografia e símbolos para verificações rápidas de status
+* Atualizações de design: paleta de cores atualizada, assim como uso consistente de cores, espaçamento, layout, sombras e animação
+* Atualizações de tipografia para melhorar a legibilidade
+* Melhorias de design na navegação em árvore: uso intenso de cor, tipografia mais clara, nova iconografia e emblemas para verificações rápidas de status
 * Telas de resumo do programa reprojetadas
 
-* **Página inicial** das Atividades de marketing: Acesse rapidamente funções comuns diretamente na página inicial do Marketing Atividade.
+* **Página inicial das atividades de marketing**: Acesse rapidamente funções comuns diretamente da página inicial das Atividades de marketing.
 
-   * Execute ações específicas (ou seja, start novos e campanhas inteligentes) e veja informações importantes sobre programas atuais, como programas e campanhas programados para execução hoje, programas e ativos atualizados recentemente e o número total de campanhas ativas de disparo.
+   * Execute ações específicas (ou seja, inicie novos programas e campanhas inteligentes) e veja informações importantes sobre os programas atuais, como programas e campanhas programados para serem executados hoje, programas e ativos atualizados recentemente e o número total de campanhas ativas do acionador.
 
-* **Atualizações** do Design Studio: Nós recriamos a experiência do Design Studio para ajudá-lo a se mover mais rápido e ser mais produtivo.
+* **Atualizações** do Design Studio: Recriamos a experiência do Design Studio para ajudá-lo a se mover mais rápido e ser mais produtivo.
 * Página inicial do Design Studio: Crie novos ativos, arraste e solte imagens e arquivos e gerencie todos os ativos existentes.
-* Visualizações de Lista do Design Studio: Os usuários agora têm a capacidade de visualização de modelos de landing page e de e-mail em formato de visualização-lista, permitindo a navegação rápida e ações em massa em um único tipo de ativo.
+* Visualizações de lista do Design Studio: Agora, os usuários podem exibir modelos de landing page e modelos de email em formato de exibição em lista, permitindo a navegação rápida e ações em massa em um único tipo de ativo.
 * Páginas de detalhes do ativo do Design Studio: Economize tempo e dores de cabeça ao visualizar, organizar e executar ações em massa em todos os ativos em um único local.
-* **Programas padrão agora disponíveis no Marketo Sky**: Agora, o Marketo Sky suporta programas padrão, o estilo de programa versátil que permite criar qualquer campanha que você possa imaginar.
-* **Programas de e-mail - Fase 1**: Agora você pode visualização programas de e-mail no Sky. Dê uma olhada no novo design e [avise-nos o que você acha](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Programas padrão agora disponíveis no Marketo Sky**: O Marketo Sky agora é compatível com programas padrão, o estilo de programa versátil que permite criar qualquer campanha que você possa imaginar.
+* **Programas de email - Fase 1**: Agora você pode visualizar programas de email no Sky. Dê uma olhada no novo design e [nos informe o que você acha](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
-## Analytics {#analytics}
+## Análises {#analytics}
 
-**Bizíblia**
+**Bizible**
 
 * **Reduzir a dependência necessária do CRM**
 
-   * Com a nova opção de definir regras de Campanha dentro das configurações Bizible, os clientes não precisam mais pular as opções de instalação de um pacote ou solução dentro do CRM para começar a usar o Bizible. Agora, é tão fácil quanto configurar uma conta, configurar as conexões de anúncio e CRM e depois passar pelas configurações padrão. Esperamos que isso melhore significativamente os tempos de integração para nossa equipe de Engenharia de Vendas.
+   * Com a nova opção de definir regras do Campaign nas configurações da Bizible, os clientes não precisam mais pular as lições de instalação de um pacote ou solução dentro de seu CRM para começar a usar o Bizible. Agora é tão fácil quanto configurar uma conta, configurar o anúncio e as conexões de CRM, em seguida, passar pelas configurações e configurações padrão. Esperamos que isso melhore significativamente os tempos de integração de nossa equipe de engenharia de vendas.
 
-* **Discover GA**
+* **Discover GD**
 
-   * O Discover está sem beta e começou a ser lançado para novos clientes. Também estamos migrando nossa atual base de clientes de Medida Bizíblica para o Discover Bizible. Com a mudança do beta para o GA, fizemos atualizações para o schema do banco de dados para permitir query mais eficientes e complexos.
+   * O Discover está sem beta e começou a ser lançado para novos clientes. Também estamos migrando nossa base atual de clientes da Medida Bizible para o Discover Bizible. Com a mudança de beta para GA, fizemos atualizações no schema do banco de dados para permitir consultas mais eficientes e complexas.
 
-* **Logon único**
+* **Login único**
 
-   * Os clientes agora podem fazer logon no aplicativo Web Bizible usando o provedor de identidade e as credenciais de sua empresa, que atendem aos requisitos de segurança corporativa.
+   * Os clientes agora podem fazer logon no aplicativo Web Bizible usando o provedor de identidade e as credenciais de sua empresa, que está em conformidade com os requisitos de segurança corporativa.
 
-**[Aprimoramentos de insights de desempenho do marketing](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Aprimoramentos dos insights de desempenho do Marketo](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Aprimoramentos de usabilidade**
 
-   * Alerta de data de aquisição ausente: Para capturar com mais precisão os insights de atribuição de primeiro e multitoque, os profissionais de marketing são alertados quando as datas de aquisição estão ausentes dos registros de contato para que possam localizar e corrigir quaisquer problemas.
-   * Melhorias no intervalo de tempo do gráfico de tendência: Os usuários agora podem voltar 24 meses para comparar o desempenho do programa.
-   * Configuração de ajuste de escala: O gráfico da barra de painéis principal é mais facilmente legível para ajudar a comparar o desempenho do programa ao longo do tempo.
-   * Ícone Alertas: O ícone de novos alertas exibe todos os alertas ativos relacionados a problemas de qualidade de dados e notificações de configuração.
+   * Alerta de data de aquisição ausente: Para capturar com mais precisão os insights de atribuição de primeiro e multitoque, os profissionais de marketing são alertados quando as datas de aquisição estão ausentes nos registros de contato para que possam encontrar e corrigir quaisquer problemas.
+   * Melhorias no Intervalo de Tempo do Gráfico de Tendência: Agora, os usuários podem voltar 24 meses para comparar o desempenho do programa.
+   * Configuração de ajuste da escala: O gráfico da barra de painel principal é mais facilmente legível para ajudar a comparar o desempenho do programa ao longo do tempo.
+   * Ícone Alertas: O novo ícone de alertas exibe todos os alertas ativos relacionados a problemas de qualidade de dados e notificações de configuração.
 
-* **Participação por data** de Atividade: Os usuários podem optar por visualização nas métricas de Envolvimento por data de atividade ou período de custo.
-* **FILTROS** de conta com nome ABM: Filtre os painéis Pipeline e Revenue por Contas Nomeadas específicas.
+* **Participação por data** de atividade: Os usuários podem optar por exibir as métricas de Envolvimento por data de atividade ou período de custo.
+* **Filtros** de conta nomeados para ABM: Filtre os painéis Pipeline e Revenue por Contas Nomeadas específicas.
 
-## Ad Networks {#ad-networks}
+## Redes de publicidade {#ad-networks}
 
 **[Atualizar token](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
-Implementamos um token de atualização em nossas soluções de redefinição de metas e Formulário principal do LinkedIn que estende o tempo de acesso para um ano antes da reautenticação ser necessária.
+Implementamos um token de atualização em nossas soluções de redirecionamento e Formulário principal da LinkedIn que estende o tempo de acesso a um ano antes que a reautenticação seja necessária.
 
 ## API {#api}
 
-**API REST do mapa de cliente potencial**
+**API REST de mapas de leads**
 
-O Marketo agora oferece suporte ao uso de campos de disposição por email sobre as APIs de cliente potencial (inclui Black Listed, Marketing Suspended, Email Suspended e Relação Urgência).
-
->[!NOTE]
->
->Como parte da versão do terceiro trimestre, atualizaremos a versão OAuth para GoToWebinar de 1.0 para 2.0. Essa alteração está sendo feita antes da GoToWebinar desaprovar o suporte para OAuth 1.0 em janeiro de 2019. Se você for um cliente GoToWebinar, precisará fazer a autenticação novamente pelo LaunchPoint (na área Admin) antes de janeiro de 2019 para garantir que sua integração continuará funcionando.
+O Marketo agora oferece suporte ao uso de campos de disposição de email sobre as APIs de cliente potencial (inclui as opções Preto Listado, Marketing Suspenso, Email Suspenso e Urgência Relativa).
 
 >[!NOTE]
 >
->O Marketo também está atualizando bibliotecas relacionadas à identidade e autenticação. Enquanto a atualização estiver em andamento, você poderá notar erros intermitentes se tiver uma sessão ativa aberta. Se tiver problemas, faça logout e volte a fazer login na sua subscrição.
+>Como parte da versão do terceiro trimestre, atualizaremos a versão OAuth para GoToWebinar de 1.0 para 2.0. Essa alteração está sendo feita antes da desativação do GoToWebinar do suporte ao OAuth 1.0 em janeiro de 2019. Se você for um cliente do GoToWebinar, será necessário autenticar novamente pelo LaunchPoint (na área de Administração) antes de janeiro de 2019 para garantir que sua integração continue funcionando.
+
+>[!NOTE]
+>
+>A Marketo também está atualizando bibliotecas relacionadas à identidade e autenticação. Enquanto a atualização está em andamento, você pode notar erros intermitentes se tiver uma sessão ativa aberta. Em caso de problemas, faça logoff e volte a fazer logon na sua assinatura.
