@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360251
-description: Edite a mensagem de cancelamento de inscrição - Documentos de marketing - Documentação do produto
+description: Editar a mensagem de cancelamento de inscrição - Documentos do Marketo - Documentação do produto
 title: Editar a mensagem de cancelamento de inscrição
+exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Editar a mensagem de cancelamento de inscrição {#edit-the-unsubscribe-message}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-Ao enviar emails de marketing (non-[operating](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), o texto de cancelamento de inscrição e os links são anexados na parte inferior. Você pode alterar os padrões. Veja como.
+Ao enviar emails de marketing (non-[operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), o texto de cancelamento de inscrição e os links são anexados à parte inferior. Você pode alterar os padrões. Veja como.
 
 ## Editar a mensagem de cancelamento de inscrição {#edit-the-unsubscribe-message-1}
 
@@ -27,25 +27,25 @@ Ao enviar emails de marketing (non-[operating](/help/marketo/product-docs/email-
 
    >[!CAUTION]
    >
-   >As variáveis a seguir são críticas. Não os apague!
+   >As variáveis a seguir são críticas. Não exclua!
    >
    >* **%mkt_opt_out_prefix%**
    >* **mkt_unsubscribe=1&amp;mkt_tok=##MKT_TOK##**
 
 
-1. Edite as versões **Cancele a assinatura de HTML** e **Cancele a assinatura das versões de Texto** ao seu gosto e clique em **Salvar alterações**.
+1. Edite as versões **Cancelar assinatura de HTML** e **Cancelar assinatura de texto** de acordo com seu gosto e clique em **Salvar alterações**.
 
    ![](assets/image2016-8-26-13-3a40-3a55.png)
 
-   Aí está. _Certifique-se de testar!_ Você não quer que seus e-mails de marketing tenham links cancelados de cancelamento de inscrição.
+   Aí está. _Certifique-se de testar!_ Você não quer que seus emails de marketing tenham links de cancelamento de inscrição quebrados.
 
 >[!TIP]
 >
->Você pode personalizar a posição do HTML de cancelamento de assinatura em seu email usando [tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>Você pode personalizar a posição do HTML de cancelamento de inscrição no seu email usando [tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
-## Texto padrão de cancelamento de assinatura {#default-unsubscribe-text}
+## Texto padrão para cancelamento de inscrição {#default-unsubscribe-text}
 
-Se você precisar reverter para o cancelamento de assinatura padrão do sistema, copie/cole o seguinte:
+Se você precisar reverter para o cancelamento de assinatura do sistema padrão, copie/cole o seguinte:
 
 Cancelar assinatura do HTML:
 `<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Cancelar assinatura do texto:
@@ -53,4 +53,4 @@ Cancelar assinatura do HTML:
 
 >[!MORELIKETHIS]
 >
->[Editar a mensagem &quot;Visualização como página da Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
+>[Editar a mensagem &quot;Exibir como página da Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
