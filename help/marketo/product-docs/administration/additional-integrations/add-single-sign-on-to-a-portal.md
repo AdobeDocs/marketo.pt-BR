@@ -2,14 +2,14 @@
 unique-page-id: 2360356
 description: Adicionar logon único a um portal - Documentos do Marketo - Documentação do produto
 title: Adicionar logon único a um portal
+exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '530'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Adicionar logon único a um portal {#add-single-sign-on-to-a-portal}
 
@@ -17,7 +17,7 @@ Se você tiver um serviço de diretório que autentica usuários, é possível p
 
 O Marketo funciona como um Provedor de serviços SAML (SP) e depende de um Provedor de identidade externo (IdP) para autenticar usuários.
 
-Quando o SSO estiver ativado, o IdP poderá validar as credenciais de um usuário. Quando um usuário deseja usar o software Marketo, o IdP envia uma mensagem SAML assinada para o Marketo, atuando como o SP. Essa mensagem garante ao Marketo que o usuário está autorizado a usar o software Marketo.
+Quando o SSO estiver ativado, o IdP poderá validar as credenciais de um usuário. Quando um usuário deseja usar o software Marketo, o IdP envia uma mensagem SAML assinada para a Marketo, atuando como o SP. Essa mensagem garante à Marketo que o usuário está autorizado a usar o software Marketo.
 
 >[!NOTE]
 >
@@ -30,22 +30,22 @@ Quando o SSO estiver ativado, o IdP poderá validar as credenciais de um usuári
 ## Como enviar a solicitação {#how-to-send-the-request}
 
 * Envie a solicitação SSO, que é uma resposta SAML, para `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Como o URL de público-alvo da controladora. Use `https://saml.marketo.com/sp`
+* Como o URL de público-alvo da controladora. Usar `https://saml.marketo.com/sp`
 * Se estiver usando o atributo SPNameQualifier , defina o elemento NameID para Subject como `https://saml.marketo.com/sp`
-* Se estiver federando várias assinaturas do Marketo para o mesmo provedor SSO, você pode usar URLs SP exclusivas para cada subconjunto do Marketo com o formato `https://saml.marketo.com/sp/<munchkin_id>`
+* Se estiver federando várias assinaturas do Marketo para o mesmo provedor de SSO, você poderá usar urls de SP exclusivas para cada sub do Marketo com o formato `https://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
->O Marketo é compatível somente com o iniciado pelo Provedor de identidade (também conhecido como iniciado pelo IdP), no qual o usuário inicia a página de logon do Idp pela primeira vez, é autenticado e navega até Meu Marketo.
+>O Marketo suporta apenas o inicializado pelo Provedor de identidade (também conhecido como iniciado pelo IdP), no qual o usuário inicia a página de logon do Idp pela primeira vez, é autenticado e navega até Meu Marketo.
 
 ## Observações adicionais {#additional-notes}
 
 * **Tempo de sincronização**  - Para um novo usuário, há um atraso de cerca de 10 minutos antes de uma solicitação SSO inicial ser processada.
-* **Provisionamento de usuário**  - Os usuários são provisionados manualmente pelo Marketo.
+* **Provisionamento de usuário**  - Os usuários são provisionados manualmente pela Marketo.
 * **Autorização**  - As permissões do usuário são mantidas no Marketo.
-* **Suporte a OAuth**  - No momento, o Marketo não é compatível com OAuth.
-* **Propagação automática de usuário**  - Também conhecida como &quot;Provisionamento just in time&quot;, esse é o momento em que o primeiro logon SAML de um usuário é capaz de criar o usuário em qualquer aplicativo Web que ele esteja acessando (por exemplo, Marketo) e nenhuma ação manual de administrador é necessária. No momento, o Marketo não oferece suporte a isso.
-* **Criptografia**  - No momento, o Marketo não suporta criptografia.
+* **Suporte a OAuth**  - No momento, a Marketo não é compatível com OAuth.
+* **Propagação automática de usuário**  - Também conhecida como &quot;Provisionamento just in time&quot;, é quando o primeiro logon SAML de um usuário é capaz de criar o usuário em qualquer aplicativo da Web que ele esteja acessando (por exemplo, Marketo) e nenhuma ação manual de administrador é necessária. No momento, a Marketo não oferece suporte a isso.
+* **Criptografia**  - no momento, a Marketo não oferece suporte à criptografia.
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ O SSO é desativado por padrão. Siga estas etapas para habilitar o SAML e confi
    >
    >Os clientes que usam a ID universal, juntamente com o SSO, devem inserir o URL de logon do Provedor de identidade no campo **Login URL**.
 
-1. Insira um **URL de logout**. Esse é o URL para o qual você deseja que o usuário seja direcionado quando ele sair do Marketo.
+1. Insira um **URL de logout**. Esse é o URL para o qual você deseja que o usuário seja direcionado ao sair do Marketo.
 
    ![](assets/eight.png)
 
@@ -108,6 +108,6 @@ O SSO é desativado por padrão. Siga estas etapas para habilitar o SAML e confi
 >[!MORELIKETHIS]
 >
 >* [Uso de uma ID universal para logon de assinatura](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [Restringir logon de usuário somente ao SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Login de usuário restrito apenas a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
 >* [Convidar usuários do Marketo para duas instâncias com ID universal](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
