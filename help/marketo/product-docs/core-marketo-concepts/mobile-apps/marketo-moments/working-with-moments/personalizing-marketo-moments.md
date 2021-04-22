@@ -1,24 +1,24 @@
 ---
 unique-page-id: 8782021
-description: Personalização de momentos de marketing - Documentos de marketing - Documentação do produto
-title: Personalização de momentos de marketing
+description: Personalização de momentos do Marketo - Documentos do Marketo - Documentação do produto
+title: Personalização de momentos do Marketo
+exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
+# Personalizar momentos do Marketo {#personalizing-marketo-moments}
 
-# Personalizando momentos de marketing {#personalizing-marketo-moments}
+Quando você tem muitos programas de marketing e campanhas inteligentes funcionando, é ótimo ver tudo, mas talvez queira se concentrar apenas no seu próprio trabalho.
 
-Quando você tem muitos programas de marketing e campanhas inteligentes funcionando, é ótimo ver tudo, mas você pode querer se concentrar apenas no seu próprio trabalho.
-
-Ative **Mostrar apenas os meus momentos** para apresentar apenas os seus próprios programas de correio eletrônico e campanhas inteligentes.
+Habilite **Mostrar somente meus momentos** para exibir somente seus próprios programas de email e campanhas inteligentes.
 
 ![](assets/image2015-7-16-15-3a53-3a24.png)
 
-Ou desative **Mostrar somente meus momentos** para visualização de todas as campanhas inteligentes e programas de e-mail aos quais você tem acesso.
+Ou desative **Mostrar apenas os meus momentos** para ver todas as campanhas inteligentes e programas de e-mail aos quais tem acesso.
 
 ![](assets/image2015-7-16-15-3a55-3a29.png)
