@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2953358
-description: Excluir Entradas Diretamente No Calendário De Marketing - Documentos Do Marketing - Documentação Do Produto
-title: Excluir entradas diretamente no calendário de marketing
+description: Excluir Entradas Diretamente No Calendário De Marketing - Documentos Do Marketo - Documentação Do Produto
+title: Excluir Entradas Diretamente No Calendário De Marketing
+exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Excluir entradas diretamente no calendário de marketing {#delete-entries-directly-in-the-marketing-calendar}
 
 Além das entradas [criar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) e [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), você pode excluí-las diretamente no Calendário de marketing. Veja como.
 
-1. Vá para **Calendar**.
+1. Vá para o **Calendário**.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. Selecione a entrada que deseja excluir e clique em **Mostrar foco do Programa**.
+1. Selecione a entrada que deseja excluir e clique em **Mostrar foco do programa**.
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
@@ -31,4 +31,4 @@ Dependendo da entrada, talvez seja necessário confirmar a exclusão. Mas é iss
 
 >[!MORELIKETHIS]
 >
->[Confirmar entradas diretamente no calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
+>[Confirmar Entradas Diretamente No Calendário De Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
