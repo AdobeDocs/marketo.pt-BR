@@ -1,44 +1,44 @@
 ---
 unique-page-id: 1147124
-description: Usando a guia Ativos - Documentos do Marketing - Documentação do produto
+description: Uso da guia Ativos - Documentos do Marketo - Documentação do produto
 title: Uso da guia Ativos
+exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Uso da guia Ativos {#using-the-assets-tab}
 
-# Usando a guia Ativos {#using-the-assets-tab}
-
-A tela do ativo é uma representação visual do seu programa. É possível usá-lo para adicionar ativos locais, bem como interagir com os existentes.
+A tela de ativos é uma representação visual do seu programa. Você pode usá-lo para adicionar ativos locais, bem como interagir com os existentes.
 
 ## Adicionar ativos {#adding-assets}
 
-Na área **Atividades de marketing**, clique na guia **Ativos**. Escolha qualquer um dos ativos abaixo e adicione-os ao seu programa.
+Na área **Marketing Activities**, clique na guia **Assets**. Escolha qualquer um dos ativos abaixo e adicione-os ao seu programa.
 
 ![](assets/programassets.png)
 
-## Gerenciar seu Programa {#manage-your-program}
+## Gerenciar seu programa {#manage-your-program}
 
 Quando houver ativos em seu programa, você os verá listados aqui.
 
-| Laranja | Campanha do acionador |
+| Laranja | Acionar campanha |
 |---|---|
 | Verde | Campanha em lote |
 
-Você pode clicar com o botão direito do mouse no cabeçalho se desejar interagir com esse ativo.
+Você pode clicar com o botão direito do mouse no cabeçalho se quiser interagir com esse ativo.
 
 ![](assets/assetsprefilled.png)
 
 >[!TIP]
 >
->Arraste e solte para reorganizar as colunas do ativo.
+>Arraste e solte para reorganizar as colunas de ativo.
 
-Os ativos que não são locais para o seu programa terão a seguinte aparência:
+Os ativos que não são locais para o seu programa terão esta aparência:
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 
-A guia assets é um ótimo painel para tudo o que está dentro e mencionado no programa.
+A guia assets é um ótimo painel para tudo dentro e referenciado no programa.
