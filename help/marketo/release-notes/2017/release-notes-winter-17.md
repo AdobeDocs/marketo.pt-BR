@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12255606
-description: Notas de versão - inverno de 17 - Documentos do Marketo - Documentação do produto
+description: Notas de versão - inverno de 17 - Documentos da Marketo - Documentação do produto
 title: Notas de versão - inverno de 17
+exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-
-# Notas de versão: Inverno &#39;17 {#release-notes-winter}
+# Notas de versão: Inverno &#39;16 {#release-notes-winter}
 
 Os seguintes recursos estão incluídos na versão de inverno de 17. Verifique sua edição do Marketo para ver a disponibilidade dos recursos.
 
@@ -21,7 +21,7 @@ Clique nos links de título para exibir os artigos detalhados de cada recurso.
 >
 >Se um tópico tiver várias subposições, as vinculações serão colocadas lá.
 
-## [Correspondência avançada para públicos-alvo personalizados do Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [Correspondência avançada para públicos personalizados do Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 A Correspondência básica usa somente endereços de email, mas a nova Correspondência avançada usa sete campos adicionais, aumentando a taxa de correspondência para mais conversão.
 
@@ -71,13 +71,13 @@ Filtrar análise de conteúdo preditivo para fontes específicas — Email, Rich
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**Editor de conteúdo preditivo**
+**Editor de conteúdo previsível**
 
 Há uma experiência de edição e um layout aprimorados que dividem a preparação do conteúdo por origem — Email, Rich Media ou Barra de recomendação.
 
 ![](assets/predictive-content-editor.png)
 
-**[Conteúdo de descoberta automática para preditivo](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
+**[Conteúdo de autodescoberta para previsão](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
 
 URL da imagem e metadados agora são usados no processo de descoberta automática de conteúdo.
 
@@ -93,6 +93,6 @@ Melhore seu direcionamento com uma nova opção de filtro, &quot;Membro da Lista
 
 A partir de 1º de agosto de 2017, os clientes que ainda usarem o Editor de Rich Text e o Editor de formulários 1.0 herdados serão automaticamente transferidos para a nova experiência.
 
-## [APIs de atividade do Marketo](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## [APIs de atividades do Marketo](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-Uma mudança importante está chegando às APIs de atividade do Marketo. Você está preparado?
+Uma mudança importante vai acontecer nas APIs de atividades do Marketo. Você está preparado?
