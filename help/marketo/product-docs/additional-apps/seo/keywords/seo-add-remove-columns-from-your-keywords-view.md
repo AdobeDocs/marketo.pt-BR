@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949243
-description: SEO - Adicionar/remover colunas da sua Visualização de palavras-chave - Documentos do Marketing - Documentação do produto
-title: SEO - Adicionar/remover colunas da sua Visualização de palavras-chave
+description: SEO - Adicionar/remover colunas da exibição de palavras-chave - Documentos do Marketo - Documentação do produto
+title: SEO - Adicionar/remover colunas da exibição de palavras-chave
+exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# SEO - Adicionar/remover colunas da exibição de palavras-chave {#seo-add-remove-columns-from-your-keywords-view}
 
-# SEO - Adicionar/remover colunas da Visualização de suas palavras-chave {#seo-add-remove-columns-from-your-keywords-view}
-
-Você pode ajustar a visualização da sua palavra-chave para exibir os dados em que está mais interessado.
+É possível ajustar a exibição de palavra-chave para exibir os dados em que você está mais interessado.
 
 1. Vá para a seção **Palavras-chave**.
 
@@ -27,11 +27,11 @@ Você pode ajustar a visualização da sua palavra-chave para exibir os dados em
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Selecione ou desmarque as colunas que deseja ver. Clique em **Salvar**.
+1. Selecione ou desmarque as colunas que deseja visualizar. Clique em **Salvar**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   Incrível! Agora você personalizou sua visualização de palavra-chave.
+   Ótimo! Agora você personalizou sua exibição de palavra-chave.
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
