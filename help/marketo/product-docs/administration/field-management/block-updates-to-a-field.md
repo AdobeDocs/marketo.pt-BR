@@ -2,14 +2,14 @@
 unique-page-id: 2360291
 description: Bloquear atualizações de um campo - Documentos do Marketo - Documentação do produto
 title: Bloquear atualizações de um campo
+exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Bloquear atualizações para um campo {#block-updates-to-a-field}
 
@@ -37,4 +37,4 @@ Bloquear atualizações em um campo permite gravar no campo uma vez e, em seguid
 
    >[!CAUTION]
    >
-   >Ao executar uma importação de lista, o status de um campo bloqueado na Visualização de Importação só será exibido se o campo for reconhecido automaticamente pelo Marketo com base no nome do campo correspondente a _exato_ (ou se aliases forem estabelecidos). Se o campo for escolhido manualmente no menu suspenso Campo do Marketo, o status bloqueado não será exibido na Visualização de importação, mas o bloqueio de atualização desse campo ainda será implementado.
+   >Ao executar uma importação de lista, o status de um campo bloqueado na Visualização de Importação só será exibido se o campo for automaticamente reconhecido pelo Marketo com base no nome do campo correspondente a _exatamente_ (ou se aliases forem estabelecidos). Se o campo for escolhido manualmente no menu suspenso Campo do Marketo , o status de bloqueado não será exibido na Visualização de importação, mas o bloqueio de atualização desse campo ainda será implementado.
