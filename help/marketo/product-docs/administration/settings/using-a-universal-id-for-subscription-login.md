@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100311
-description: Uso de uma ID universal para logon de assinatura - Documentos do Marketo - Documentação do produto
+description: Usar uma ID universal para logon de assinatura - Documentos do Marketo - Documentação do produto
 title: Uso de uma ID universal para logon de assinatura
+exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Usar uma ID universal para o logon de assinatura {#using-a-universal-id-for-subscription-login}
 
@@ -31,7 +31,7 @@ De cada instância individual, o administrador do Marketo deve convidá-lo para 
 >
 >Se você tiver várias IDs de logon de assinatura, também poderá ter vários perfis da comunidade. Certifique-se de escolher a ID da Universal que está conectada ao perfil que você deseja usar e que é para a instância de produção, não para a sandbox.
 
-## Efetuar logon {#logging-in}
+## Conectando {#logging-in}
 
 Ao fazer logon para aceitar um convite para uma segunda assinatura usando uma ID universal, você verá a página de logon de Opt-in . Aqui, você deve marcar uma caixa de seleção para aceitar os termos e condições. Depois de aceitar, você verá a página normal de redefinição, não esta, para quaisquer logons subsequentes. Ao aceitar os termos e condições, você está permitindo que o Marketo distribua seus dados básicos de perfil (como nome, sobrenome e endereço de email) para os data centers em locais diferentes onde sua assinatura está hospedada.
 
@@ -43,13 +43,13 @@ Ao fazer logon para aceitar um convite para uma segunda assinatura usando uma ID
 
 ## Senhas {#passwords}
 
-Com a ID universal para várias assinaturas, o Marketo aplica automaticamente a política de senha mais rigorosa. Por exemplo, se algumas subscrições exigirem um comprimento mínimo de senha e outras não, o comprimento mínimo será aplicado para todas as subscrições.
+Com a ID universal para várias assinaturas, a Marketo aplica automaticamente a política de senha mais rígida. Por exemplo, se algumas subscrições exigirem um comprimento mínimo de senha e outras não, o comprimento mínimo será aplicado para todas as subscrições.
 
 Com uma ID universal para várias assinaturas, somente você pode alterar a senha.
 
 >[!NOTE]
 >
->O Marketo pedirá aos usuários que desejam usar a ID universal para redefinir a senha se a senha da assinatura atual não estiver em conformidade com a política de senha da segunda assinatura para a qual estão sendo convidados.
+>A Marketo pedirá aos usuários que desejam usar a ID universal para redefinir sua senha se a senha da assinatura atual não estiver em conformidade com a política de senha da segunda assinatura para a qual estão sendo convidados.
 
 ## Alternando entre assinaturas {#switching-between-subscriptions}
 
@@ -57,7 +57,7 @@ Usando uma ID universal, você pode ver a assinatura na qual está conectado e s
 
 ![](assets/image2016-11-3-15-3a10-3a16.png)
 
-Quando você faz logoff e volta, o Marketo automaticamente faz logon na assinatura em que você fez logon pela última vez. Você pode alternar para uma assinatura diferente, se necessário.
+Quando você faz logoff e faz logon novamente, a Marketo automaticamente faz logon na assinatura em que você se conectou pela última vez. Você pode alternar para uma assinatura diferente, se necessário.
 
 ## Perfis da comunidade {#community-profiles}
 
@@ -65,11 +65,11 @@ Se você tiver várias subscrições, poderá ter vários perfis da comunidade. 
 
 ## Plataforma móvel {#mobile-platform}
 
-Os usuários com a ID universal podem ver seus dados no Marketo Moments e no aplicativo de check-in do evento iPad a partir da assinatura em que fizeram logon pela última vez. Não é possível alterar assinaturas da plataforma móvel propriamente dita.
+Os usuários com a ID universal podem ver seus dados no Marketo Moments e no aplicativo de check-in do evento do iPad a partir da assinatura em que fizeram logon pela última vez. Não é possível alterar assinaturas da plataforma móvel propriamente dita.
 
 >[!MORELIKETHIS]
 >
 >* [Adicionar logon único a um portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Restringir logon de usuário somente ao SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Login de usuário restrito apenas a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
 >* [Convidar usuários do Marketo para duas instâncias com ID universal](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
