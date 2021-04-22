@@ -2,18 +2,18 @@
 unique-page-id: 6095047
 description: Editar as configurações de suporte do navegador "Não rastrear" - Documentos do Marketo - Documentação do produto
 title: Editar as configurações de suporte do navegador "Não rastrear"
+exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-
 # Editar as configurações de suporte do navegador &quot;Não rastrear&quot; {#edit-do-not-track-browser-support-settings}
 
-&quot;Não rastrear&quot; é uma solicitação de navegador para não ser rastreada em sistemas como o Marketo. Você pode atender a solicitação com as etapas a seguir.
+&quot;Não rastrear&quot; é uma solicitação de navegador para não ser rastreada em sistemas como o Marketo. Você pode atender a essa solicitação com as etapas a seguir.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->A opção &quot;Não rastrear&quot; será definida como Ignorar por padrão, portanto, se isso for o que você deseja, não será necessário executar nenhuma etapa.
+>&quot;Não rastrear&quot; será definido como Ignorar por padrão, portanto, se isso for o que você deseja, não será necessário executar nenhuma etapa.
 
 1. Clique em **Admin**.
 
