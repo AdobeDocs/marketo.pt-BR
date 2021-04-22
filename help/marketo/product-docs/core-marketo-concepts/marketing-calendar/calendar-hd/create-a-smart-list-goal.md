@@ -1,27 +1,27 @@
 ---
 unique-page-id: 7504128
-description: Criar uma meta de Lista inteligente - Documentos do marketing - Documentação do produto
-title: Criar uma meta de Lista inteligente
+description: Criar uma meta de lista inteligente - Documentos do Marketo - Documentação do produto
+title: Criar uma meta de Smart List
+exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
+# Criar uma meta de lista inteligente {#create-a-smart-list-goal}
 
-# Criar uma meta de Lista inteligente {#create-a-smart-list-goal}
+Metas são formas de acompanhar o progresso e motivar a sua equipe. Eles podem ser combinados com listas inteligentes para rastrear todos os tipos de coisas no Marketo. Além disso, depois de configurar uma meta de lista inteligente, ela será atualizada automaticamente a cada 2 horas quando for usada em uma apresentação.
 
-As metas são maneiras de rastrear o progresso e motivar sua equipe. Eles podem ser combinados com listas inteligentes para rastrear todo o tipo de coisas no Marketo. Além disso, depois de configurar uma meta de lista inteligente, ela será atualizada automaticamente a cada 2 horas quando for usada em uma apresentação.
+Como as apresentações, as metas são específicas do [espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-Como as apresentações, os objetivos são [espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) específicos.
-
-1. Vá para **Calendar**.
+1. Vá para o **Calendário**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Clique em **Apresentação** no canto inferior direito.
+1. Clique em **Presentation** no canto inferior direito.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
@@ -29,11 +29,11 @@ Como as apresentações, os objetivos são [espaço de trabalho](/help/marketo/p
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Arraste e solte **Objetivo de Lista inteligente** na tela de desenho.
+1. Arraste e solte **Meta da Lista Inteligente** na tela.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Insira um nome para a meta e um **Público alvo da meta**. Em seguida, clique em **Criar**.
+1. Insira um nome para a meta e insira um **Meta**. Em seguida, clique em **Create**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
@@ -41,10 +41,10 @@ Como as apresentações, os objetivos são [espaço de trabalho](/help/marketo/p
 
    ![](assets/mql.png)
 
-1. Depois que a lista inteligente estiver definida, clique no botão **Fechar** e volte para a guia anterior.
+1. Depois que a lista inteligente estiver configurada, clique no botão **Close** e retorne à guia anterior.
 
    ![](assets/mql2.png)
 
-   Olha isso! Sua meta de lista inteligente foi criada.
+   Olha isso! Sua meta da lista inteligente foi criada.
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)
