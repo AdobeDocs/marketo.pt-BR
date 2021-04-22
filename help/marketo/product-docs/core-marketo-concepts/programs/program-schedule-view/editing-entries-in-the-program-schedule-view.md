@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147136
-description: Edição de entradas na Visualização do Cronograma do programa - Documentos do Marketing - Documentação do produto
-title: Edição de entradas na Visualização do Cronograma do programa
+description: Edição de entradas na exibição de programação do programa - Documentos do Marketo - Documentação do produto
+title: Editando entradas na exibição Programação do Programa
+exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
+# Editar entradas na Visualização de programação {#editing-entries-in-the-program-schedule-view}
 
-# Edição de entradas na Visualização do Cronograma do programa {#editing-entries-in-the-program-schedule-view}
-
-Você pode fazer edições nos diferentes elementos do seu programa na visualização de programação.
+Você pode fazer edições nos diferentes elementos do programa na visualização de programação.
 
 ## Editar o nome de uma entrada {#edit-an-entrys-name}
 
@@ -27,7 +27,7 @@ Você pode fazer edições nos diferentes elementos do seu programa na visualiza
 
 >[!CAUTION]
 >
->Isso só altera o nome de exibição na visualização de programação. O nome do ativo em seu programa permanecerá o mesmo.
+>Isso só altera o nome de exibição na exibição de agendamento. O nome do ativo no programa permanecerá o mesmo.
 
 ## Editar a descrição de uma entrada {#edit-an-entrys-description}
 
@@ -35,11 +35,11 @@ Você pode fazer edições nos diferentes elementos do seu programa na visualiza
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Edite sua descrição. Clique em **Salvar**.
+1. Edite a descrição. Clique em **Salvar**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. Ótimo! Sua descrição agora é alterada.
+1. Ótimo! Sua descrição foi alterada.
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
@@ -49,8 +49,8 @@ Você pode fazer edições nos diferentes elementos do seu programa na visualiza
 
    ![](assets/image2014-9-18-18-3a4-3a39.png)
 
-Você é demais! Agora, a data da sua entrada foi movida para uma nova data.
+Você quebrou! Agora, a data da sua entrada foi movida para uma nova data.
 
 >[!NOTE]
 >
-> As entradas de campanha inteligente e programa de email que já foram executadas não podem ser movidas para o passado.
+> As entradas de campanha inteligente e de programa de email que já foram executadas não podem ser movidas para o passado.
