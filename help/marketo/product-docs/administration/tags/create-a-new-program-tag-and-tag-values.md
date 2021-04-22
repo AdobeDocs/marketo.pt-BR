@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360272
-description: Criar uma nova tag e valores de tag do Programa - Documentos do marketing - Documentação do produto
-title: Criar uma nova tag de Programa e valores de tag
+description: Criar uma nova tag e valores de tag do programa - Documentos da Marketo - Documentação do produto
+title: Criar uma nova tag de programa e valores de tag
+exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
-
-# Criar uma nova tag de Programa e valores de tag {#create-a-new-program-tag-and-tag-values}
+# Criar uma nova tag de programa e valores de tag {#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
@@ -23,9 +23,9 @@ Você pode criar [tags](/help/marketo/product-docs/core-marketo-concepts/program
 >
 >**Exemplo**
 >
->Tag do programa: Audiência público alvo
+>Etiqueta do programa: Público-alvo
 >
->Valor da tag do programa: SMB, Empresa, Mercado Médio
+>Valor da etiqueta do programa: SMB, Enterprise, Mid-Market
 
 1. Em **Admin**, clique em **Tags**.
 
@@ -35,11 +35,11 @@ Você pode criar [tags](/help/marketo/product-docs/core-marketo-concepts/program
 
    ![](assets/image2014-9-24-12-3a12-3a43.png)
 
-1. Digite o **Tipo de tag** e uma tag **Valor**. Em seguida, clique em **Adicionar outro**.
+1. Insira o **Tipo de tag** e uma tag **Valor**. Em seguida, clique em **Adicionar Outro**.
 
    ![](assets/image2014-9-24-12-3a16-3a55.png)
 
-1. Insira quantos Valores forem necessários. Selecione a que tipos de programas você deseja que esta tag seja aplicada.
+1. Insira quantos valores forem necessários. Selecione os tipos de programas aos quais você deseja que esta tag seja aplicada.
 
    ![](assets/image2014-9-24-12-3a17-3a29.png)
 
@@ -53,8 +53,8 @@ Você pode criar [tags](/help/marketo/product-docs/core-marketo-concepts/program
 
    >[!NOTE]
    >
-   >Se o tipo de tag for **Obrigatório**, os usuários precisarão digitar um valor para a tag ao criar um novo programa.
+   >Se o tipo de tag for **Obrigatório**, os usuários precisarão inserir um valor para a tag ao criar um novo programa.
 
    ![](assets/image2014-9-24-12-3a19-3a17.png)
 
-Agora, quando seus usuários criam um programa, eles terão que definir o valor personalizado para a tag criada.
+Agora, quando os usuários criam um programa, eles precisam definir o valor personalizado da tag criada.
