@@ -1,35 +1,35 @@
 ---
 unique-page-id: 2949232
-description: SEO - Gerenciamento de Lista - Documentos do Marketing - Documentação do produto
-title: SEO - Gerenciamento de Listas
+description: SEO - Gerenciamento de listas - Documentos do Marketo - Documentação do produto
+title: SEO - Gerenciamento de listas
+exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
+# SEO - Gerenciamento de listas {#seo-managing-lists}
 
-# SEO - Gerenciar Lista {#seo-managing-lists}
+É possível adicionar itens a listas ao adicionar palavras-chave, páginas, problemas de página ou links de entrada. As listas ajudam você a se manter organizado e permitem que você filtre os relatórios para ver somente os dados nessa lista. Veja como fazê-los:
 
-Você pode adicionar coisas ao lista ao adicionar palavras-chave, páginas, problemas de página ou links de entrada. O Lista ajuda você a se manter organizado e permite que você filtre relatórios para ver somente os dados dessa lista. Veja como fazê-los:
-
-1. Clique em **Adicionar palavras-chave**.
+1. Clique em **Adicionar Palavras-Chave**.
 
    >[!NOTE]
    >
-   >Isso funciona da mesma forma ao adicionar páginas, problemas de páginas e links de entrada.
+   >Isso funciona da mesma maneira ao adicionar páginas, problemas de páginas e links de entrada.
 
    ![](assets/image2014-9-18-13-3a24-3a35.png)
 
-1. Digite a palavra-chave. Selecione uma lista para adicioná-la no menu suspenso.
+1. Insira a palavra-chave. Selecione uma lista para adicioná-la no menu suspenso .
 
    ![](assets/image2014-9-18-13-3a24-3a50.png)
 
    >[!TIP]
    >
-   >Você pode criar uma nova lista no menu suspenso. Insira um título e pressione a tecla de retorno.
+   >Você pode criar uma nova lista no menu suspenso . Insira um título, pressione a tecla de retorno.
 
 1. Clique em **Salvar**.
 
