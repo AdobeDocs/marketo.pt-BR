@@ -1,53 +1,53 @@
 ---
 unique-page-id: 4719304
-description: Ações Implementadas Do Salesforce - Documentos Do Marketing - Documentação Do Produto
-title: Ações Implícitas do Salesforce
+description: Ações Implementadas Do Salesforce - Documentos Do Marketo - Documentação Do Produto
+title: Ações do Salesforce Implementadas
+exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
+# Ações do Salesforce Implementadas {#implied-salesforce-actions}
 
-# Ações Implícitas do Salesforce {#implied-salesforce-actions}
-
-Quando uma etapa de fluxo específica do Salesforce é executada, às vezes as etapas extras são executadas automaticamente. Estas são as regras, então você sabe:
+Quando uma etapa de fluxo específica do Salesforce é executada, às vezes etapas extras são executadas automaticamente. Estas são as regras, para que você saiba:
 
 Essas regras serão aplicadas _quando a pessoa não estiver atualmente em [Salesforce.com](https://Salesforce.com)_ como um contato ou cliente potencial.
 
 <table> 
  <thead> 
   <tr> 
-   <th>Etapa de fluxo de marketing</th> 
+   <th>Etapa de fluxo do Marketo</th> 
    <th>Ação automática</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>Adicionar à Campanha SFDC</td> 
-   <td>Sincronizar Pessoa com SFDC</td> 
+   <td>Adicionar à campanha da SFDC</td> 
+   <td>Sincronizar pessoa à SFDC</td> 
   </tr> 
   <tr> 
-   <td>Alterar status na Campanha SFDC</td> 
-   <td>Sincronizar Pessoa com SFDC<br>Adicionar à Campanha SFDC</td> 
+   <td>Alterar status de campanha da SFDC</td> 
+   <td>Sincronizar pessoa com o SFDC<br>Adicionar à campanha SFDC</td> 
   </tr> 
   <tr> 
    <td>Alterar proprietário</td> 
-   <td><p>Sincronizar Pessoa com SFDC</p></td> 
+   <td><p>Sincronizar pessoa à SFDC</p></td> 
   </tr> 
   <tr> 
-   <td>Converter Pessoa</td> 
-   <td><p>Sincronizar Pessoa com SFDC</p></td> 
+   <td>Converter pessoa</td> 
+   <td><p>Sincronizar pessoa à SFDC</p></td> 
   </tr> 
   <tr> 
-   <td>Criar Tarefa</td> 
-   <td>Sincronizar Pessoa com SFDC</td> 
+   <td>Criar tarefa</td> 
+   <td>Sincronizar pessoa à SFDC</td> 
   </tr> 
  </tbody> 
 </table>
 
-Você pode filtrar registros SFDC em uma Lista inteligente usando o filtro **SFDC Type** com o operador definido como &quot;não está vazio&quot;. Todos os registros SFDC têm um valor neste campo.
+Você pode filtrar os registros SFDC em uma Smart List usando o filtro **Tipo SFDC** com o operador definido como &quot;não está vazio&quot;. Todos os registros SFDC têm um valor neste campo.
 
 Lembre-se, essas ações automáticas só acontecem se o cliente potencial não estiver em [Salesforce.com](https://salesforce.com)
