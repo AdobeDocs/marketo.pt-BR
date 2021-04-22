@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360245
-description: Remova o texto de cancelamento de inscrição da seção de email do administrador - Documentos do Marketing - Documentação do produto
-title: Remova o texto de cancelamento de assinatura da seção Email do administrador
+description: Remova o texto de cancelamento de inscrição da seção de email do administrador - Documentos do Marketo - Documentação do produto
+title: Remova o texto de cancelamento de inscrição da seção Email de administrador
+exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-
 # Remova o texto de cancelamento de inscrição da seção de email do administrador {#remove-unsubscribe-text-from-the-admin-email-section}
 
-A única razão pela qual você deve remover completamente o conteúdo de cancelamento de inscrição da área &quot;Admin > Email&quot; é se estiver optando por criar o link de cancelamento de inscrição nos próprios modelos de email. A caixa de texto tem uma validação que não permite salvar sem nenhum conteúdo. Você pode contornar isso adicionando um pequeno comentário HTML. O comentário HTML não será exibido no cliente de email, pois ele está renderizando o email em HTML e os comentários são omitidos. Aqui está como fazer isso.
+O único motivo pelo qual você deve remover completamente o conteúdo de cancelamento de inscrição da área &quot;Admin > Email&quot; é se estiver optando por criar o link de cancelamento de inscrição nos próprios modelos de email. A caixa de texto tem validação que não permite salvar sem conteúdo. Você pode contornar isso adicionando um pequeno comentário em HTML. O comentário HTML não será exibido no cliente de email, porque ele está renderizando o email em HTML e os comentários são omitidos. Aqui está como fazê-lo.
 
 1. Vá para **Admin** e clique em **Email**.
 
@@ -23,7 +23,7 @@ A única razão pela qual você deve remover completamente o conteúdo de cancel
 
    >[!CAUTION]
    >
-   >Antes de excluir, copie/cole em um documento de texto como backup.
+   >Antes de excluir, copie/cole em um documento de texto como um backup.
 
 1. Digite `<!--This is a comment -->`.
 
@@ -35,4 +35,4 @@ A única razão pela qual você deve remover completamente o conteúdo de cancel
 
 >[!NOTE]
 >
->Para **Cancelar inscrição de texto** é necessário adicionar um único caractere. Use um traço ou ponto final.
+>Para o **Cancelar inscrição do texto** é necessário adicionar um único caractere. Use traço ou ponto.
