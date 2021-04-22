@@ -1,37 +1,37 @@
 ---
 unique-page-id: 4720253
-description: Notas de versão - dezembro de 2014 - Documentos do Marketing - Documentação do produto
+description: Notas de versão - dezembro de 2014 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - dezembro de 2014
+exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Notas de versão: Dezembro de 2014 {#release-notes-december}
 
-Os seguintes recursos foram incluídos na versão de dezembro de 2014. Verifique a disponibilidade de recursos do Marketing Edition. Após o lançamento, volte a encontrar links para artigos detalhados para cada recurso!
+Os seguintes recursos estão incluídos na versão de dezembro de 2014. Verifique sua Marketo Edition para ver a disponibilidade dos recursos. Após o lançamento, volte para encontrar links para artigos detalhados de cada recurso!
 
-## Relatórios de insight de vendas {#sales-insight-reports}
+## Relatórios de informações de vendas {#sales-insight-reports}
 
-O [Relatório de desempenho de email do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permite que você visualize métricas de email por email e representante de vendas. Suporta emails enviados pelo Salesforce, Microsoft Dynamics, o plug-in do Outlook e o plug-in Gmail.
+O [Relatório de desempenho de email do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permite que você veja as métricas de email por email e representante de vendas. Ele suporta emails enviados por meio do Salesforce, Microsoft Dynamics, do plug-in Outlook e do plug-in Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Audiências personalizadas do Facebook {#facebook-custom-audiences}
+## Públicos Personalizados do Facebook {#facebook-custom-audiences}
 
-Depois que seu administrador de marketing tiver adicionado [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), você poderá facilmente criar, atualizar ou [substituir uma Audiência personalizada do Facebook por clientes potenciais de uma lista estática ou inteligente de marketing](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Procure o novo ícone do Facebook na parte inferior da grade principal de qualquer lista estática ou inteligente.
+Depois que o administrador do Marketo tiver adicionado [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), você poderá criar, atualizar ou [substituir facilmente um público-alvo personalizado do Facebook por leads de uma lista estática ou inteligente do Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Procure o novo ícone do Facebook na parte inferior da grade de lead de qualquer lista estática ou inteligente.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
-## Clonagem aprimorada entre espaços de trabalho {#improved-cloning-across-workspaces}
+## Clonagem aprimorada em espaços de trabalho {#improved-cloning-across-workspaces}
 
-[Clonar um ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) programa para outro espaço de trabalho nunca foi tão fácil! Ao clicar em clonar, você seleciona a área de trabalho de destino. Não há mais clonagem em uma pasta e depois movendo a pasta!
+[Clonar um ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) programa em outro espaço de trabalho nunca foi tão fácil! Ao clicar em clonar, você seleciona o espaço de trabalho de destino. Não há mais clonagem em uma pasta e, em seguida, mover a pasta!
 
 >[!NOTE]
 >
@@ -41,39 +41,39 @@ Depois que seu administrador de marketing tiver adicionado [Facebook via Admin >
 
 ## Lista inteligente de referência {#reference-smart-list}
 
-[Listas inteligentes que são compartilhadas com outro espaço de trabalho podem ser ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) referenciadas ao criar uma lista ou fluxo inteligente.
+[As listas inteligentes que são compartilhadas com outro espaço de trabalho podem ser ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) referenciadas ao criar uma lista ou fluxo inteligente.
 
-## Melhorias na importação de lista {#list-import-improvements}
+## Aprimoramentos na importação de listas {#list-import-improvements}
 
 [Importe ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) arquivos codificados em UTF-16, Shift-JIS ou EUC-JP. Continuamos a oferecer suporte a arquivos codificados UTF-8.
 
 ## Rastreamento de link em scripts de email {#link-tracking-in-email-scripting}
 
-Links em scripts de email agora serão rastreados e disponibilizados no relatório Desempenho do link de email.
+Os links em scripts de email agora serão rastreados e disponibilizados no relatório Desempenho do link de email .
 
 ## Configuração de codificação de token {#token-encoding-setting}
 
-Desenvolvemos um novo recurso de segurança para codificar automaticamente tokens HTML, que será ativado por padrão em março de 2015. Até então, alterne essa funcionalidade no Field Management para testar o comportamento antecipadamente. Todos os tokens de cliente potencial e empresa serão codificados quando inseridos em emails ou landings page. As opções também estarão disponíveis para campos individuais.
+Lançamos um novo recurso de segurança para codificar tokens HTML automaticamente, que será ativado por padrão em março de 2015. Até lá, alterne essa funcionalidade no Field Management para testar o comportamento com antecedência. Todos os tokens de cliente potencial e empresa serão codificados quando inseridos em emails ou landing pages. As opções também estarão disponíveis para campos individuais.
 
-## Novas chamadas de API ReST {#new-rest-api-calls}
+## Novas chamadas da API ReST {#new-rest-api-calls}
 
-Três novas chamadas para a API ReST de cliente potencial e Atividade:
+Três novas chamadas para a API ReST de lead &amp; atividade:
 
-・ Obter partições de cliente potencial
+・ Obter Partições de Cliente Potencial
 
-・ Associar cliente potencial
+· Associar lead
 
-・ Intercalar cliente potencial
+・ Intercalar lead
 
-Os detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com/)
+Detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com/)
 
-## Aprimoramentos de compatibilidade Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
+## Aprimoramentos de compatibilidade do Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
 
-Fizemos vários aprimoramentos menores ao Munchkin para garantir que ele continue a carregar rapidamente e a funcionar conforme desejado em casos com outro JavaScript na página.
+Fizemos vários aprimoramentos menores no Munchkin para garantir que ele continue a carregar rapidamente e funcione conforme desejado em casos com outro JavaScript na página.
 
-A implantação será encenada a partir de meados de dezembro e continuará nos próximos meses.
+A implantação será preparada a partir de meados de dezembro e continuará nos próximos meses.
 
-## Aparência e Sentimento {#revenue-explorer-upgraded-look-and-feel} Atualizados do Explorador de Receita
+## Aparência e sentimento {#revenue-explorer-upgraded-look-and-feel} atualizados do Explorador de Receita
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -81,16 +81,16 @@ A implantação será encenada a partir de meados de dezembro e continuará nos 
 
 ![](assets/image2014-12-5-11-3a8-3a36.png)
 
-## RTP: Módulo de Lista de conta nomeado {#rtp-named-account-list-module}
+## RTP: Módulo de lista de conta nomeado {#rtp-named-account-list-module}
 
-Gerencie e monitore suas principais contas de alto rendimento na nova página Contas Nomeadas. Faça upload de novas listas de contas nomeadas para identificar e público alvo essas organizações. Automatizamos o processo, que oferece mais controle e flexibilidade para implementar planos de marketing baseados em conta e público alvo suas principais contas em diferentes canais (Web e publicidade).
+Gerencie e monitore suas principais contas de alto rendimento na nova página Contas Nomeadas . Faça upload de novas listas de contas nomeadas para identificar e direcionar essas organizações. O processo foi automatizado, fornecendo mais controle e flexibilidade para implementar seus planos de marketing baseados em conta e direcionar suas principais contas em diferentes canais (Web e publicidade).
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 
 ![](assets/image2014-12-5-11-3a9-3a10.png)
 
-## RTP: Efeito deslizante para Campanhas de zona interna {#rtp-sliding-effect-for-in-zone-campaigns}
+## RTP: Efeito deslizante para campanhas na zona {#rtp-sliding-effect-for-in-zone-campaigns}
 
-Adicionamos um novo efeito Deslizante para campanhas In Zone para permitir que seu conteúdo personalizado deslize para o lugar após o carregamento da página.
+Adicionamos um novo efeito deslizante para campanhas na zona para permitir que seu conteúdo personalizado deslize para o local no carregamento da página.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
