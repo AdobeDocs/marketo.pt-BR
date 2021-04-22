@@ -2,20 +2,20 @@
 unique-page-id: 1146995
 description: Usar tokens nas etapas do fluxo - Documentos do Marketo - Documentação do produto
 title: Usar tokens em etapas do fluxo
+exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
-
 
 # Usar tokens nas etapas do fluxo {#use-tokens-in-flow-steps}
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
+>Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
 
 >[!PREREQUISITES]
 >
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 Um token é uma variável. Você o usa em emails, landing pages e campanhas inteligentes para facilitar a vida. Você pode usar [Meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (tokens personalizados) em etapas de fluxo, webhooks, emails e landing pages. Você pode usar tokens para incluir conteúdo variável nessas etapas de fluxo:
 
-* Alterar valor de dados
-* Alterar Dados do Membro do Programa
+* Alterar valor dos dados
+* Alterar dados dos membros do programa
 * Momento interessante
 * Etapas da campanha do Salesforce (adicionar, remover, alterar status)
 * Criar tarefa
