@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14745982
-description: Adicionar local de trabalho pelo Facebook como um serviço do LaunchPoint - Documentos do Marketing - Documentação do produto
-title: Adicionar local de trabalho pelo Facebook como um serviço do LaunchPoint
+description: Adicionar local de trabalho do Facebook as a LaunchPoint Service - Documentos da Marketo - Documentação do produto
+title: Adicionar local de trabalho do Facebook as a LaunchPoint Service
+exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
+# Adicionar local de trabalho pelo Facebook como um serviço do LaunchPoint {#add-workplace-by-facebook-as-a-launchpoint-service}
 
-# Adicionar local de trabalho pelo Facebook como um Serviço LaunchPoint {#add-workplace-by-facebook-as-a-launchpoint-service}
+Há dois tipos de notificação incluídos na integração do Local de trabalho:
 
-Há dois tipos de notificação incluídos na integração Local de trabalho:
-
-* **Notificações** do sistema: Receba notificações do Local de trabalho referentes a eventos importantes na sua instância do Marketo, como alertas sobre os status atuais da campanha e quaisquer problemas que exijam atenção imediata (erros de CRM e limites de API).
-* **Momentos** interessantes: Quando um Marketing Insight é acionado por um indivíduo conhecido de uma conta, os proprietários de leads podem ser notificados via Local de trabalho. As notificações incluem informações de cliente potencial e detalhes sobre a conta.
+* **Notificações** do sistema: Obtenha notificações do Local de trabalho sobre eventos importantes em sua instância do Marketo, como alertas sobre os status atuais da campanha e quaisquer problemas que exijam atenção imediata (erros de CRM e limites de API).
+* **Momentos** interessantes: Quando um Marketo Insight é acionado por um indivíduo conhecido de uma conta de vendas, os proprietários de clientes potenciais podem ser notificados por meio do Local de trabalho. As notificações incluem informações de cliente potencial, bem como detalhes sobre a conta de vendas.
 
 >[!NOTE]
 >
@@ -24,13 +24,13 @@ Há dois tipos de notificação incluídos na integração Local de trabalho:
 
 >[!PREREQUISITES]
 >
->Se as Notificações do Local de Trabalho já não estiverem ativadas, entre em contato com [Suporte do Marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Se você ainda não tiver as Notificações do Local de Trabalho ativadas, entre em contato com o [Suporte do Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Vá para **LaunchPoint** e, em **Novo**, clique em **Novo Serviço**.
+1. Vá para **LaunchPoint** e, em **New** clique em **New Service**.
 
    ![](assets/image2017-11-27-14-3a13-3a18-1.png)
 
-1. Insira um nome para exibição para a integração do Local de trabalho. Na lista suspensa **Service**, selecione **Local de trabalho pelo Facebook**. Clique em **Criar**.
+1. Insira um nome de exibição para a integração do Local de trabalho. Na lista suspensa **Service**, selecione **Workplace by Facebook**. Clique em **Criar**.
 
    ![](assets/newservice.png)
 
@@ -38,11 +38,11 @@ Há dois tipos de notificação incluídos na integração Local de trabalho:
 
    ![](assets/create.png)
 
-1. Clique em **Autorizar**. Isso abrirá o Local de trabalho em uma nova guia, na qual você concluirá a autorização e concederá permissão ao Marketo para obter informações do Local de trabalho.
+1. Clique em **Autorizar**. Isso abrirá o Local de trabalho em uma nova guia, onde você concluirá a autorização e concederá a permissão do Marketo para obter informações do Local de trabalho.
 
    ![](assets/authorize.png)
 
-1. Na nova guia Local de trabalho, digite seu nome de usuário de e-mail comercial ou Local de trabalho e clique em **Continuar**.
+1. Na nova guia Local de trabalho , digite o nome de usuário do email comercial ou Local de trabalho e clique em **Continuar**.
 
    ![](assets/workplacelogin.png)
 
@@ -50,11 +50,11 @@ Há dois tipos de notificação incluídos na integração Local de trabalho:
 
    ![](assets/workplacelogininfo.png)
 
-1. No pop-up Local de trabalho, escolha um grupo do Facebook no qual você deseja que notificações do Marketing sejam publicadas (por exemplo, Integrações de parceiros). Clique em **Instalar**.
+1. Na pop-up Local de trabalho , escolha um grupo do Facebook no qual deseja que as notificações do Marketo sejam publicadas (por exemplo, Integrações de parceiros). Clique em **Instalar**.
 
    ![](assets/installmarketo.png)
 
-1. Você deverá ver a notificação de confirmação abaixo. A guia fecha automaticamente.
+1. Você deve ver a notificação de confirmação abaixo. A guia é fechada automaticamente.
 
    ![](assets/success.png)
 
@@ -62,6 +62,6 @@ Há dois tipos de notificação incluídos na integração Local de trabalho:
 
    ![](assets/confirm.png)
 
-   As notificações começarão a postar no grupo do Facebook selecionado na etapa 7. Eles vão se parecer com isso:
+   As notificações começarão a ser postadas no grupo do Facebook selecionado na etapa 7. Eles vão se parecer com isso:
 
    ![](assets/example.png)
