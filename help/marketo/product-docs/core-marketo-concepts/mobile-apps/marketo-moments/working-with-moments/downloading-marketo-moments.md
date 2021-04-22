@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8782024
-description: Download de momentos de marketing - Documentos do marketing - Documentação do produto
-title: Download de momentos de marketing
+description: Download de momentos do Marketo - Documentos do Marketo - Documentação do produto
+title: Download de momentos do Marketo
+exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
+# Download de momentos do Marketo {#downloading-marketo-moments}
 
-# Baixando Momentos de marketing {#downloading-marketo-moments}
-
-Baixe os momentos de marketing da App Store ou do Google Play e voila! Magia de marca na palma da mão.
+Baixe os Momentos do Marketo da App Store ou do Google Play e da voila! Mágica Marketo na palma da mão.
 
 ## Para iPhone {#for-iphone}
 
@@ -21,7 +21,7 @@ Baixe os momentos de marketing da App Store ou do Google Play e voila! Magia de 
 
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
-1. Procure por Marketo Moments (Momentos de marketing) e selecione-os.
+1. Procure por Marketo Moments e selecione-a.
 
    ![](assets/image2015-7-7-17-3a19-3a7.png)
 
@@ -33,7 +33,7 @@ Baixe os momentos de marketing da App Store ou do Google Play e voila! Magia de 
 
 1. Vá para [Google Play](https://play.google.com/store?hl=en).
 
-1. Procure por momentos de marketing e toque para baixar.
+1. Procure por Marketo Moments e toque para baixar.
 
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
@@ -49,10 +49,10 @@ Aproveite!
 
 >[!NOTE]
 >
->Faça logon com seu logon e senha normais do Marketo.
+>Faça logon com o logon e a senha normais do Marketo.
 >
->O logon único com a linguagem SAML (Security Assertion Markup Language) não é compatível com os Momentos de marketing.
+>O logon único com a Linguagem de marcação de asserção de segurança (SAML) não é compatível com os Momentos do Marketo.
 
 >[!MORELIKETHIS]
 >
->[Como entender os momentos de marketing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>[Noções básicas sobre os momentos do Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
