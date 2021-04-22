@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2953173
-description: Usar membros da Lista em uma Lista inteligente - Documentos do Marketing - Documentação do produto
-title: Usar membros da Lista em uma Lista inteligente
+description: Usar membros da lista em uma lista inteligente - Documentos do Marketo - Documentação do produto
+title: Usar membros da lista em uma Smart List
+exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Usar membros da Lista em uma Lista inteligente {#use-members-of-list-in-a-smart-list}
+# Usar membros da lista em uma lista inteligente {#use-members-of-list-in-a-smart-list}
 
 >[!TIP]
 >
->Você pode adicionar pessoas a uma lista usando [Importar](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) ou [Adicionar à etapa de fluxo de Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
+>Você pode adicionar pessoas a uma lista usando a etapa [Importar](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) ou [Adicionar à lista de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
-Com esse filtro, você pode retirar membros de outra lista fazendo referência a ela nas regras de lista inteligente. Veja como.
+Com esse filtro, você pode extrair membros de outra lista fazendo referência a ele nas regras da lista inteligente. Veja como.
 
-1. Selecione uma lista inteligente e clique na guia **Lista inteligente**.
+1. Selecione uma lista inteligente e clique na guia **Smart List**.
 
    ![](assets/smartlist-sltab.png)
 
-1. No painel filtros do lado direito, procure e arraste o filtro **Membro da Lista** para a tela de desenho.
+1. No painel de filtros do lado direito, procure e arraste o filtro **Member of List** para a tela.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 
@@ -31,4 +31,4 @@ Com esse filtro, você pode retirar membros de outra lista fazendo referência a
 
    ![](assets/memberoflist.png)
 
-   Concluído! Neste exemplo, a lista inteligente agora público alvo somente os membros dessa lista e os avalia com base em quaisquer outras regras incluídas.
+   Pronto! Neste exemplo, a lista inteligente agora terá como alvo apenas membros dessa lista e os avaliará com base em qualquer outra regra que você incluir.
