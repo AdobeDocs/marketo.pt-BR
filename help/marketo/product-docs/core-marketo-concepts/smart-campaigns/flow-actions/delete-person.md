@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147082
-description: Excluir Pessoa - Documentos do Marketing - Documentação do Produto
-title: Excluir Pessoa
+description: Excluir pessoa - Documentos do Marketo - Documentação do produto
+title: Excluir pessoa
+exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Excluir pessoa {#delete-person}
 
-# Excluir Pessoa {#delete-person}
-
-Às vezes, pessoas erradas entram em seu banco de dados. A etapa de fluxo Excluir pessoa pode se livrar deles.
+Às vezes, pessoas erradas entram no banco de dados. A etapa Excluir pessoa pode se livrar delas.
 
 ## Visão geral {#overview}
 
@@ -23,11 +23,11 @@ Use a etapa de fluxo em uma campanha inteligente.
 
 >[!CAUTION]
 >
->Ao excluir uma pessoa, todos os dados históricos de RCE também serão excluídos. Não pode ser desfeita.
+>Ao excluir uma pessoa, todos os dados de RCE históricos também serão excluídos. Não pode ser desfeita.
 
 ## Uso {#usage}
 
-Quando você arrasta a etapa de fluxo, ela também será automaticamente definida para excluir do seu CRM.
+Ao arrastar a etapa de fluxo, ela também será automaticamente definida para excluir do seu CRM.
 
 ![](assets/two-4.png)
 
@@ -37,4 +37,4 @@ Você pode excluir do Marketo e não do seu CRM, assim:
 
 >[!NOTE]
 >
->A remoção da pessoa do seu CRM **só funciona com o Salesforce**. Se você excluir uma pessoa do Marketo e optar por mantê-la no Salesforce, ela será recriada no Marketo se o registro do Salesforce for atualizado.
+>A remoção da pessoa do seu CRM **só funciona com o Salesforce**. Se você excluir uma pessoa do Marketo e optar por mantê-la no Salesforce, ela será recriada no Marketo se o registro do Salesforce alguma vez for atualizado.
