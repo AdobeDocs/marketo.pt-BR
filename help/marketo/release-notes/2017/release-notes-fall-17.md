@@ -1,95 +1,95 @@
 ---
 unique-page-id: 12983280
-description: Notas de versão - Último trimestre de 2017 - Documentos de marketing - Documentação do produto
+description: Notas de versão - Último trimestre de 2017 - Documentos da Marketo - Documentação do produto
 title: Notas de versão - Último trimestre de 2017
+exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '597'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-
 # Notas de versão: Último trimestre de 2017 {#release-notes-fall}
 
-Os seguintes recursos foram incluídos na versão lançada no último trimestre de 2017. Verifique sua edição de marketing para ver a disponibilidade de recursos.
+Os seguintes recursos estão incluídos na versão lançada no último trimestre de 1917. Verifique sua edição do Marketo para ver a disponibilidade dos recursos.
 
-Clique nos links de título para artigos detalhados de visualização para cada recurso. Observação: Alguns dos recursos incluídos nesta versão não têm artigos associados. Se um tópico tiver várias sub-rubricas, os links serão colocados lá.
+Clique nos links de título para exibir os artigos detalhados de cada recurso. Observação: Alguns dos recursos incluídos nesta versão não têm artigos associados. Se um tópico tiver várias subposições, as vinculações serão colocadas lá.
 
 ## Confiabilidade do sistema {#system-reliability}
 
-Fizemos mais melhorias na infraestrutura principal do mercado, incluindo melhor sequenciamento, menos desencontros e melhoria da estabilidade de Munchkin.
+Fizemos melhorias adicionais na infraestrutura principal do Marketo, incluindo melhor sequenciamento, menos incompatibilidades e melhoria da estabilidade do Munchkin.
 
-## Desempenho de sincronização SFDC {#sfdc-sync-performance}
+## Carimbo de sincronização SFDC {#sfdc-sync-performance}
 
-Aproveite a sincronização mais rica e mais rápida entre o Marketing e o Salesforce. As alterações de dados que exigem atualizações em massa em contas ou clientes em potencial podem ser divididas em filas paralelas para evitar registros em atraso. Eventos e tarefas agora também sincronizam até 50% mais rápido.
+Aproveite a sincronização mais rica e rápida entre o Marketo e o Salesforce. As alterações de dados que exigem atualizações em massa em contas ou leads podem ser divididas em filas paralelas para evitar registros retroativos. Eventos e tarefas agora também sincronizam até 50% mais rápido.
 
-## Melhorias no desempenho do Analytics {#analytics-performance-improvements}
+## Melhorias no desempenho de análises {#analytics-performance-improvements}
 
-Melhorias recentes na infraestrutura oferta aumento do tempo de atividade e estabilidade nas ferramentas de análise e relatórios de marketing, permitindo que você crie relatórios ad hoc mais rapidamente.
+Melhorias recentes na infraestrutura oferecem maior tempo de atividade e estabilidade nas ferramentas de relatórios e análises da Marketo, permitindo que você crie relatórios ad hoc mais rapidamente.
 
-## [Fuso Horário do recipient](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
+## [Fuso horário do destinatário](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
 
-Com este novo recurso, agora você pode manter e enviar emails de acordo com os fusos horários locais. Os programas de e-mail e envolvimento podem ser configurados para serem entregues nos fusos horários dos recipient, eliminando a necessidade de criar vários programas — enviar uma vez e o Marketo automaticamente manterá o e-mail até o horário local correto. Levante as métricas de e-mail, observe as práticas locais e economize tempo usando um único programa globalmente.
+Com esse novo recurso, agora você pode reter e enviar emails de acordo com os fusos horários locais. Os programas de email e de envolvimento podem ser configurados para serem entregues nos fusos horários dos recipients, eliminando a necessidade de criar vários programas. Enviar uma vez e o Marketo automaticamente manterá o email até o horário local correto. Incentive as métricas de email, observe as práticas locais e economize tempo usando um único programa globalmente.
 
 ![](assets/image2017-11-29-8-3a45-3a47.png)
 
 >[!NOTE]
 >
->Se você ainda não conseguir ativar o Fuso horário do Recipient em seu e-mail e programas de envolvimento, não entre em pânico! Estamos gradualmente habilitando esse recurso para todos os clientes.
+>Se você ainda não conseguir ativar o Fuso horário do destinatário em seus programas de email e de envolvimento, não entre em pânico! Estamos permitindo gradualmente esse recurso a todos os clientes.
 
-## [Revisar exemplos de emails por segmento](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
+## [Analisar os e-mails de amostra por segmento](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
-O Marketo tem uma nova opção para selecionar um segmento ao enviar emails de amostra para revisão. Não é mais necessário determinar manualmente a qual segmento um cliente potencial pertence, facilitando o envio de emails contendo conteúdo dinâmico para diferentes segmentos.
+O Marketo tem uma nova opção para selecionar um segmento ao enviar emails de amostra para revisão. Não é mais necessário determinar manualmente a qual segmento um cliente potencial pertence, facilitando o envio de emails com conteúdo dinâmico para segmentos diferentes.
 
-## [Perguntas personalizadas do LinkedIn Lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [Perguntas personalizadas para geração de leads do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-Personalize seus formulários do LinkedIn Lead Gen para coletar atributos personalizados de cliente potencial. Agora é possível fazer até três perguntas personalizadas por formulário, escolher entre uma entrada de texto de linha única ou perguntas de múltipla escolha e mapear de volta para os campos de venda.
+Personalize seus formulários de geração de leads do LinkedIn para coletar atributos personalizados dos leads. Agora é possível fazer até três perguntas personalizadas por formulário, escolher entre entrada de texto de uma única linha ou perguntas de múltipla escolha e mapear de volta para os campos de lead do Marketo.
 
-## [Integração de Slack](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## [Integração do Slack](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
 
-Nós lançamos dois recursos como parte de nossa nova integração com o Slack:
+Lançamos dois recursos como parte da nova integração do Slack:
 
-* Notificações do sistema: Receba notificações de Slack sobre eventos importantes em sua instância do Marketo, como alertas sobre status atuais de campanha e quaisquer problemas que exijam atenção imediata.
-* Momentos interessantes: Quando um Marketing Insight é acionado por um indivíduo conhecido de uma conta, os proprietários de leads podem ser notificados via Slack. As notificações incluem informações de cliente potencial e detalhes sobre a conta.
+* Notificações do sistema: Obtenha notificações do Slack sobre eventos importantes em sua instância do Marketo, como alertas sobre os status atuais da campanha e quaisquer problemas que exijam atenção imediata.
+* Momentos interessantes: Quando um Marketo Insight é acionado por um indivíduo conhecido de uma conta de vendas, os proprietários de leads podem ser notificados por meio do Slack. As notificações incluem informações de cliente potencial, bem como detalhes sobre a conta de vendas.
 
 ## Aprimoramentos de ABM {#abm-enhancements}
 
 **[Mostrar contas sem contatos](https://docs.marketo.com/x/fKCt)**
 
-O Marketing ABM agora sincroniza e exibe contas CRM sem contatos. Inclua novas contas sem vendas ou históricos de marketing anteriores e rastreie o progresso ao corresponder clientes potenciais subsequentes às contas.
+O Marketo ABM agora sincroniza e exibe contas CRM sem contatos. Inclua novas contas sem histórico de vendas ou marketing anterior e rastreie o progresso ao corresponder leads subsequentes às contas.
 
-## ContentAI Analytics {#contentai-analytics}
+## Análises do ContentAI {#contentai-analytics}
 
-**[Novo filtro de Lista de conta ABM](https://docs.marketo.com/x/1BPG)**
+**[Novo filtro para lista de contas ABM](https://docs.marketo.com/x/1BPG)**
 
-Visualização e compare o desempenho do conteúdo nas Listas da conta ABM para otimizar o conteúdo existente. O ContentAI mostra:
+Exiba e compare o desempenho do conteúdo em Listas de contas do ABM para otimizar o conteúdo existente. O ContentAI mostra:
 
-* conteúdo superior exibido
-* conteúdo mais alto convertido
-* Conteúdo sugerido por AI para atividades de marketing
+* conteúdo principal exibido
+* conteúdo mais convertido
+* Conteúdo sugerido alimentado por IA para atividades de marketing
 
-## Aprimoramentos de personalização da Web {#web-personalization-enhancements}
+## Aprimoramentos de personalização da web {#web-personalization-enhancements}
 
-**[Tokens para Campanhas da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[Tokens para campanhas on-line](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
-Tokens agora estão disponíveis para uso em campanhas da Web. Utilize tokens para fornecer mensagens e conteúdo personalizados para aumentar o envolvimento em suas campanhas da Web.
+Agora, tokens estão disponíveis para uso em campanhas da Web. Aproveite os tokens para fornecer mensagens e conteúdo personalizados para aumentar a participação em suas campanhas da Web.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-**[Design Studio Imagens no Editor de Campanhas da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[Imagens do estúdio de desenvolvimento no editor de campanhas on-line](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
-Economize tempo reutilizando ativos e imagens criativas em vários canais do Marketo.
+Economize tempo reutilizando ativos e imagens criativas em vários canais no Marketo.
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Integração {#integration}
+## Integração  {#integration}
 
-**[API de Pré-visualização de email](https://developers.marketo.com/rest-api/assets/emails/)**
+**[API de visualização de e-mail](https://developers.marketo.com/rest-api/assets/emails/)**
 
-Agora você pode pré-visualização remotamente emails fora do Marketo, simplificando o processo de localização de conteúdo de email e reduzindo erros.
+Agora é possível visualizar remotamente o email fora do Marketo, simplificando o processo de localização do conteúdo do email e reduzindo erros.
 
 **[Substituir a API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
 
-Os desenvolvedores podem atualizar remotamente o conteúdo HTML de ativos de email, permitindo que eles trabalhem em um único sistema para manter ativos.
+Os desenvolvedores podem atualizar o conteúdo HTML de ativos de email remotamente, permitindo que eles trabalhem em um único sistema para manter ativos.
