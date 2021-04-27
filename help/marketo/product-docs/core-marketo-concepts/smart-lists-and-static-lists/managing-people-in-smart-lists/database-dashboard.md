@@ -4,9 +4,9 @@ description: Painel do Banco de Dados - Documentos do Marketo - Documentação d
 title: Painel de banco de dados
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ O Painel do Banco de Dados serve como um instantâneo para ajudá-lo a determina
 
 >[!NOTE]
 >
->Cada espaço de trabalho tem seu próprio Banco de Dados.
+>Cada espaço de trabalho tem seu próprio Painel de Banco de Dados.
 
 Para chegar lá, você pode clicar no bloco **Database** em sua tela inicial...
 
@@ -35,4 +35,6 @@ Os gráficos indicam o número total de pessoas, o número de pessoas comerciali
 >
 >Deseja obter informações mais específicas ou oportunas sobre seu pessoal? Tente um [Relatório de desempenho de pessoas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Total de pessoas:** o número de pessoas que passaram o tempo para esse espaço de trabalho.  **Pessoas comercializáveis:** o número de pessoas que passam o tempo todo no espaço de trabalho,  _menos o seguinte_: pessoas sem um endereço de email, pessoas cujo email foi retornado, pessoas que foram incluir na lista de bloqueios, pessoas que cancelaram a assinatura, pessoas atualmente definidas como Marketing Suspenso.
+**Total de pessoas:** o número de pessoas que passaram o tempo para esse espaço de trabalho.
+
+**Pessoas comercializáveis:** o número de pessoas que passam o tempo todo no espaço de trabalho,  _menos o seguinte_: pessoas sem um endereço de email, pessoas cujo email foi retornado, pessoas que foram incluir na lista de bloqueios, pessoas que cancelaram a assinatura, pessoas atualmente definidas como Marketing Suspenso.
