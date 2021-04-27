@@ -4,7 +4,7 @@ description: Ícone Glossário - Documentos do Marketo - Documentação do produ
 title: Ícone Glossário
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 33%
@@ -30,7 +30,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Pasta</span></td> 
   </tr> 
@@ -58,7 +58,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="25" src="assets/share-to.png"> 
+     <img alt="--" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">A pasta de origem que você compartilhou com outro espaço de trabalho</td> 
   </tr> 
@@ -116,7 +116,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-9-10-3a41-3a44.png"> 
     </div></td> 
-   <td>Ajudar</td> 
+   <td>Ajuda</td> 
   </tr> 
   <tr> 
    <td> 
@@ -327,7 +327,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2014-12-18-16-3a45-3a45.png"> 
     </div></td> 
-   <td>Programa de evento</td> 
+   <td>Programa de eventos</td> 
   </tr> 
   <tr> 
    <td> 
@@ -656,7 +656,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a49.png"> 
     </div></td> 
-   <td colspan="1">Envia exemplo</td> 
+   <td colspan="1">Enviar exemplo</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -856,7 +856,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a47.png"> 
     </div></td> 
-   <td colspan="1">Capturar imagens da Web</td> 
+   <td colspan="1">Capturar imagems da Web</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
