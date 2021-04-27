@@ -5,9 +5,9 @@ user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: 316e194d9803b435dbf1fbc4dd6d931c4448778d
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '8002'
+source-wordcount: '8003'
 ht-degree: 5%
 
 ---
@@ -39,12 +39,12 @@ ht-degree: 5%
       + [Redirecionar uma página](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatizar um alerta para possíveis pessoas duplicadas](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Herdar uma instância do Marketo {#inheriting-a-marketo-instance}
-      + [Ajudar! Herdei uma Instância Existente do Marketo](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+      + [Ajuda! Herdei uma Instância Existente do Marketo](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Itens a serem retirados](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [O que analisar: Principais habilidades](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Maneiras de obter ajuda](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + Documentos do produto {#product-docs}
-   + Gerenciamento de conta do Target {#target-account-management}
+   + Gerenciamento de contas de destino {#target-account-management}
       + Configuração {#setup}
          + [Visão geral do gerenciamento de contas do Target](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Introdução ao TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
@@ -56,7 +56,7 @@ ht-degree: 5%
          + [Configurar Insight da conta](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Visão geral do plug-in Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Convidar usuários para acessar o Insight da conta](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Alvo {#target}
+      + Destino {#target}
          + Contas nomeadas {#named-accounts}
             + [Visão geral da conta nomeada](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Importar contas nomeadas](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
@@ -318,7 +318,7 @@ ht-degree: 5%
             + [Usar um Webhook em uma campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [Usar Adicionar escolha em uma etapa de fluxo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
             + [Usar tokens em etapas do fluxo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
-            + Espere {#wait}
+            + Aguardar {#wait}
                + [Visão geral da espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview.md)
                + [Usar um token de data em uma etapa de fluxo de espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
                + [Usar uma duração em uma etapa do fluxo de espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
@@ -600,7 +600,7 @@ ht-degree: 5%
          + [Ações do Salesforce Implementadas](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Erros de Sincronização do Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Status da sincronização do Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
-         + [Configuração do OAuth 2.0](product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md)
+         + [Fazer logon usando o OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
    + Geração de Demanda {#demand-generation}
       + Integrações de rede de anúncios {#ad-network-integrations}
          + [Noções básicas sobre integrações de rede de anúncios](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
@@ -645,7 +645,7 @@ ht-degree: 5%
          + [Testar anúncios de lead da Facebook para integração móvel com o Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Noções básicas sobre conversões offline do Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Usar filtros e acionadores de anúncios de lead em uma campanha inteligente](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
-      + Forms {#forms}
+      + Formulários {#forms}
          + Criação de um formulário {#creating-a-form}
             + [Criar um formulário](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
             + [Adicionar um campo a um formulário](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
@@ -698,11 +698,11 @@ ht-degree: 5%
          + [Substituir uma imagem ou um arquivo carregado](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Pesquisar imagens e arquivos carregados](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Fazer upload de imagens e arquivos da caixa](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + páginas {#landing-pages}
+      + Páginas {#landing-pages}
          + Como entender as páginas de aterrissagem {#understanding-landing-pages}
             + [Aprovar, cancelar aprovação ou excluir uma página de aterrissagem](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Relatório de desempenho da página de aterrissagem](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
-            + [Grupos de teste de página inicial](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
+            + [Grupos de teste de páginas](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
             + [Entendendo as páginas de aterrissagem guiadas e de forma livre](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
          + Páginas de aterrissagem de forma livre {#free-form-landing-pages}
             + [Adicionar um link a uma imagem de página de aterrissagem de forma livre](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
@@ -732,7 +732,7 @@ ht-degree: 5%
             + [Visualizar uma página de aterrissagem com conteúdo dinâmico](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [Visualizar uma página de aterrissagem](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
             + [Redirecionar uma página de aterrissagem do Marketo para outra página](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-         + modelos de páginas {#landing-page-templates}
+         + Modelos de páginas {#landing-page-templates}
             + [Criar um modelo de página de aterrissagem de forma livre](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Criar um modelo de página de aterrissagem guiada](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
             + [Editar um modelo de página de aterrissagem do Marketo](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
@@ -804,7 +804,7 @@ ht-degree: 5%
                + [Modelo 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modelo 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modelo 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modelo 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modelo 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1213,7 +1213,7 @@ ht-degree: 5%
       + Marketo {#marketo}
          + [Momentos interessantes em MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [Tornar uma campanha visível para usuários do Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
-      + pessoas {#people}
+      + Pessoas {#people}
          + [Exibição de detalhes da pessoa](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Conexão de vendas e conformidade com o GDPR](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Gerenciando Contatos {#managing-contacts}
@@ -1549,7 +1549,7 @@ ht-degree: 5%
             + [Noções Gerais da Área de Análise de Associação do Programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-membership-analysis-area.md)
             + [Noções Gerais da Área de Análise de Oportunidades do Programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)
             + [Noções Gerais da Área de Análise do Estágio da Receita do Programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-revenue-stage-analysis-area.md)
-         + Modelos do ciclo de receita {#revenue-cycle-models}
+         + Modelos de ciclo de receita {#revenue-cycle-models}
             + [Aprovar/Cancelar aprovação de um modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
             + [Editar o modelo aprovado](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
             + [Aprovação de estágios e atribuição de leads a um modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
