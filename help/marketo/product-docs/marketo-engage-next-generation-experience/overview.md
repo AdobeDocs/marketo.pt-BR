@@ -1,22 +1,22 @@
 ---
-description: Visão geral - Documentos do Marketo - Documentação do produto
+description: Visão geral - Documentação do Marketo - Documentação do produto
 title: Visão geral
+exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '463'
 ht-degree: 1%
 
 ---
 
-
 # Visão geral {#overview}
 
-Bem-vindo à experiência do Marketo Engage de próxima geração, uma nova interface que oferece usabilidade aprimorada juntamente com uma nova aparência na plataforma Marketo.
+Bem-vindo à experiência de Marketo Engage da próxima geração, uma nova interface que oferece usabilidade aprimorada, além de uma nova aparência na plataforma Marketo.
 
 >[!PREREQUISITES]
 >
->Se sua equipe de TI restringir o acesso à Web usando uma  lista de permissões, peça para adicionar os seguintes domínios (incluindo o asterisco) para permitir todos os recursos e websockets do Marketo:
+>Se sua equipe de TI restringir o acesso à Web usando uma  lista de permissões, peça para adicionar os seguintes domínios (incluindo o asterisco) para permitir todos os recursos e websockets da Marketo:
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -41,13 +41,7 @@ Há muitas novas funcionalidades nessa experiência de próxima geração, todas
 
 Os novos recursos da interface melhoraram e expandiram a iconografia. Saiba mais sobre eles aqui: [Novo Glossário de Ícones](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
-![](assets/overview-3.png)
-
-**Árvore**
-
-A árvore também foi atualizada.
-
-![](assets/overview-4.png)
+![](assets/overview-new-icons.png)
 
 **Navegação global**
 
@@ -65,7 +59,7 @@ Você também tem acesso rápido à sua ID do munchkin, que agora é refletida n
 
 Há muitos novos recursos de árvore disponíveis.
 
-**Marketo Classic versus o novo Marketo**
+**Marketo Classic em comparação ao novo Marketo**
 
 <table> 
  <tbody>
@@ -186,7 +180,7 @@ Dê uma olhada na nova navegação global.
 <table> 
  <tbody>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>Acabou o menu suspenso da superbola</td> 
   </tr>
   <tr>
@@ -194,7 +188,7 @@ Dê uma olhada na nova navegação global.
    <td>Todos os itens de superbola anteriores listados</td> 
   </tr>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>Use-o para fornecer feedback sobre sua experiência com o MEUE</td> 
   </tr>
   <tr>
