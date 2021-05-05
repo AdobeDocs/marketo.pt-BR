@@ -4,10 +4,10 @@ description: Momento interessante - Documentação da Marketo - Documentação d
 title: Momento interessante
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -33,10 +33,10 @@ Se você tiver o Marketo Sales Insight, poderá usar a etapa de fluxo **Interess
    >
    >**Menos é mais**. Trabalhe com sua equipe de vendas para garantir que momentos interessantes sejam realmente interessantes.
 
-Você também pode usar [tokens em momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) para fazer descrições dinâmicas realmente úteis.
+Você também pode usar [tokens em momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) para fazer descrições dinâmicas realmente úteis.
 
 >[!MORELIKETHIS]
 >
 >* [Uso de momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
->* [Tokens para Momentos Interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>* [Tokens para Momentos Interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
 
