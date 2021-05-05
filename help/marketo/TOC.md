@@ -5,9 +5,9 @@ user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: 21934ae633cf3d81ab763decfcaa353deabb8c18
+source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
 workflow-type: tm+mt
-source-wordcount: '8009'
+source-wordcount: '8024'
 ht-degree: 5%
 
 ---
@@ -179,6 +179,7 @@ ht-degree: 5%
          + [Editar a mensagem &quot;Exibir como página da Web&quot;](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [Ativar limites de comunicação](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Ativar restrições de pessoa para campanhas inteligentes](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [Filtrar atividade de bot de email](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [Remova o texto de cancelamento de inscrição da seção &quot;Admin -> Email&quot;](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Gerenciamento de campos {#field-management}
          + [Bloquear Atualizações de Campo Durante a Importação de Lista de Fontes Não Confiáveis](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
@@ -194,6 +195,7 @@ ht-degree: 5%
          + [Exportar dados usados por para um campo](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Ocultar e mostrar um campo](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [Tokens codificados em HTML em e-mails](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [Marcar um campo como confidencial](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [Renomear um campo](product-docs/administration/field-management/rename-a-field.md)
          + [Noções básicas sobre campos gerenciados do sistema](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Exibir mapeamentos de campo entre o Marketo e o Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -227,6 +229,7 @@ ht-degree: 5%
          + [Editar configurações de assinatura](product-docs/administration/settings/edit-subscription-settings.md)
          + [Ativar ou desativar recursos do tesouro](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Ativar URLs personalizados para sua conta (Administração)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [Como bloquear envios de formulários de spam](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [Restringir logons do Marketo com base em IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Selecione seu idioma, local e fuso horário](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Definir uma página de fallback](product-docs/administration/settings/set-a-fallback-page.md)
