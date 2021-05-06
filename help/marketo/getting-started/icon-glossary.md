@@ -4,7 +4,7 @@ description: Ícone Glossário - Documentos do Marketo - Documentação do produ
 title: Ícone Glossário
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 33%
@@ -17,7 +17,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
 
 **Ícones gerais**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -144,7 +144,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
 
 ## Ícones de administração {#admin-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Ícone</th> 
@@ -316,7 +316,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
 
 ### Ícones de atividades de marketing {#marketing-activities-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Ícone</th> 
@@ -684,7 +684,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
 
 ### Ícones do Design Studio {#design-studio-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Ícone</th> 
@@ -870,7 +870,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
 
 ### Ícones do Analytics {#analytics-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Ícone</th> 
@@ -979,7 +979,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
 
 ### Ícones de Meus Tokens {#my-tokens-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Ícone</th> 
@@ -1046,7 +1046,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
 
 ### Menus da campanha {#campaign-menus}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Ícone</th> 
@@ -1120,7 +1120,7 @@ Abaixo estão os ícones da Marketo Classic. Se você foi alternado para a nova 
 
 ### Ícones do banco de dados {#database-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Ícone</th> 
