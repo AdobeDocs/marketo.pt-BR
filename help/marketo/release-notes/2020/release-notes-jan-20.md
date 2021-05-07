@@ -4,7 +4,7 @@ description: Notas de versão - Janeiro de 2020 - Documentação da Marketo - Do
 title: Notas de versão - Janeiro de 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Os seguintes recursos estão incluídos na versão de 20 de janeiro. Verifique s
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
+>Os recursos indicados por uma estrela ( ![(star)](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
 **_Versões trimestrais_**
 
@@ -38,9 +38,9 @@ Os seguintes recursos serão lançados em **17 de janeiro de 2020**.
 
 ## Marketing baseado em contas {#account-based-marketing}
 
-![(estrela)](assets/star-yellow.svg)
+![(estrela)](assets/yellow-star.png)
 
-* **[Nova descoberta de conta (BETA)](https://docs.marketo.com/x/WQA6Ag) ![ (estrela)](assets/star-yellow.svg)**: Use a Criação de perfil de conta para descobrir novas contas-alvo para sua estratégia de ABM com base em seu modelo de perfil de cliente ideal alimentado por IA. Exiba, selecione e importe novas contas recomendadas, juntamente com seus indicadores de dados de ajuste e intenção baseados em IA, que ainda não existem no banco de dados de cliente potencial e conta do Marketo Engage para direcionamento por ABM. Imediatamente disponível para clientes qualificados de Criação de perfis de conta.
+* **[Nova descoberta de conta (BETA)](https://docs.marketo.com/x/WQA6Ag) ![ (estrela)](assets/yellow-star.png)**: Use a Criação de perfil de conta para descobrir novas contas-alvo para sua estratégia de ABM com base em seu modelo de perfil de cliente ideal alimentado por IA. Exiba, selecione e importe novas contas recomendadas, juntamente com seus indicadores de dados de ajuste e intenção baseados em IA, que ainda não existem no banco de dados de cliente potencial e conta do Marketo Engage para direcionamento por ABM. Imediatamente disponível para clientes qualificados de Criação de perfis de conta.
 
 <br> 
 
@@ -50,7 +50,7 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 ## Bizible {#bizible}
 
-![(estrela)](assets/star-yellow.svg)
+![(estrela)](assets/yellow-star.png)
 
 * **Integração** de clientes potenciais do Marketo Engage: Reúna vendas e marketing junto com uma visão unificada de clientes potenciais em Bizible e Marketo Engage. Com essa atualização, o Marketo Engage agora pode ser usado como uma fonte de dados de lead adicional, de modo que não é mais necessário aguardar a sincronização dos leads com o CRM para gerar relatórios sobre a geração de leads.
 * **Melhorias** do Discover: Obtenha mais de nossos Fóruns do Discover na Bizible com melhorias desenvolvidas a partir do feedback dos clientes, como a capacidade de analisar registros transacionais de blocos e atributos, adicionar contagens de registro essenciais e métricas de custo por correspondentes e adicionar/remover filtros de painel para vários painéis. Você também será direcionado ao painel padrão ao fazer logon.
