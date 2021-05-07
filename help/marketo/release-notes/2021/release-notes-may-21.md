@@ -2,9 +2,9 @@
 description: Notas de versão - maio de 2021 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - maio de 2021
 translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '1490'
+source-wordcount: '1510'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,23 @@ Os seguintes recursos estão incluídos na versão de 21 de maio. Verifique sua 
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
+>Os recursos indicados por uma estrela ![](assets/star.png) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
 **_Versões trimestrais_**
 
 Os seguintes recursos serão lançados em **7 de maio de 2021**.
 
+>[!NOTE]
+>
+>Esses três recursos estarão disponíveis na noite de terça-feira, 11 de maio:
+
+* **Listas inteligentes de contas**
+* **Executar etapas do fluxo de campanha**
+* **Atividade Filtrar e-mail Bots**
+
 ## Experiências baseadas em conta {#Account-based-eaperiences}
 
-* **Listas inteligentes de contas (disponibilidade geral)**  (![(estrela)](assets/star-yellow.svg)): Identifique e qualifique dinamicamente contas com os atributos de conta e pessoa desejados para direcionar em campanhas de marketing entre canais e envie alertas oportunos para Vendas para fechar negócios mais rapidamente. Esse novo recurso permite a automação robusta de estratégias de marketing baseadas em conta. As Listas inteligentes de contas estão disponíveis para clientes com Gerenciamento de conta do Target que estão na experiência de usuário de próxima geração.
+* **Smart Lists de conta (disponibilidade geral)** ![](assets/star.png): Identifique e qualifique dinamicamente contas com os atributos de conta e pessoa desejados para direcionar em campanhas de marketing entre canais e envie alertas oportunos para Vendas para fechar negócios mais rapidamente. Esse novo recurso permite a automação robusta de estratégias de marketing baseadas em conta. As Listas inteligentes de contas estão disponíveis para clientes com Gerenciamento de conta do Target que estão na experiência de usuário de próxima geração.
 
 ## Experiência do usuário de próxima geração {#next-generation-user-experience}
 
@@ -75,7 +83,7 @@ Várias atualizações críticas para APIs em massa e em potencial, incluindo a 
 
 ## Bizible {#bizible}
 
-(![(star)](assets/star-yellow.svg))
+![](assets/star.png)
 
 * **Integração com o LinkedIn Lead Gen Forms (Beta)**: Obtenha visibilidade profunda do investimento e do ROI do seu canal LinkedIn com a solução de atribuição Bizible premium. Por meio da mais recente integração com o Forms principal da LinkedIn, a Bizible obtém informações sobre formulários que foram enviados na plataforma LinkedIn. Esses preenchimentos de formulário são comparados com leads de sua instância do CRM (Gerenciamento de Relacionamento com o Cliente) ou do Adobe Marketo Engage para que sejam elegíveis para atribuição e possam ser rastreados em relação a seus outros envolvimentos de marketing.
 
