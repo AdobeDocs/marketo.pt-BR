@@ -4,7 +4,7 @@ description: Notas de versão - agosto de 2019 - Documentos da Marketo - Documen
 title: Notas de versão - agosto de 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 3%
@@ -25,7 +25,7 @@ Os seguintes recursos foram lançados em 16 de agosto de 2019.
 * **Atualização** da API do Smart Campaign: Gerencie os recursos de ciclo de vida da campanha inteligente ao concluir a interface CRUD (criar, ler, atualizar, excluir).
 * **Atualizar alteração** da API de cabeçalhos de email: A API Update Email Header não requer mais um email para ter um modelo anexado para atualizar campos de cabeçalho, como linha de assunto.
 
-**Marketing** ![ baseado em conta (estrela)](assets/star-yellow.svg)
+**Marketing** ![ baseado em conta (estrela)](assets/yellow-star.png)
 
 * **A Correspondência** de contas do linkedIn, anteriormente na versão beta, agora está disponível no geral.
 * **** AccountAIs está sendo oficialmente renomeada como Perfil  **da conta**.
@@ -36,13 +36,13 @@ Os seguintes recursos foram lançados em 16 de agosto de 2019.
 
 Os seguintes recursos encontram-se num ciclo não trimestral e serão publicados ao longo do terceiro trimestre civil e no início do quarto trimestre de 2019.
 
-**Marketo Sales Connect** ![ (estrela)](assets/star-yellow.svg)
+**Marketo Sales Connect** ![ (estrela)](assets/yellow-star.png)
 
 * **Aprimoramento do layout da página Pessoas:** gerencie suas pessoas e grupos por meio de importações de lista e ações em massa no novo layout da página Pessoas.
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante da Marketo para saber mais.
+>Os recursos indicados por uma estrela ( ![(star)](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo para saber mais.
 
 >[!NOTE]
 >
