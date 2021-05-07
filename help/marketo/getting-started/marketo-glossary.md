@@ -4,9 +4,9 @@ description: Glossário do Marketo - Documentos do Marketo - Documentação do p
 title: Glossário do Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '4225'
+source-wordcount: '4231'
 ht-degree: 4%
 
 ---
@@ -49,7 +49,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Pontuação de contas</a></strong></td> 
-   <td colspan="1">Em <strong>ABM</strong>, é uma pontuação atribuída a uma conta para ajudar você a determinar seu nível de envolvimento.</td> 
+   <td colspan="1">Em <strong>TAM</strong>, é uma pontuação atribuída a uma conta para ajudar você a determinar seu nível de envolvimento.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Data da aquisição</strong></td> 
@@ -62,6 +62,10 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Integrações de rede de anúncios </strong></a></td> 
    <td colspan="1">(anteriormente Ad Bridge) Uma maneira de conectar os dados exclusivos de público-alvo da Marketo aos seus sistemas de mídia paga, para que você possa executar campanhas de anúncios digitais personalizadas e direcionadas.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
+   <td colspan="1">O nome oficial da marca para o agregado de todas as ofertas de produtos da Marketo na Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">Alerta</a></strong></td> 
@@ -106,11 +110,11 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
    <td colspan="1">Um valor de ponto atribuído a uma pessoa com base em suas ações/comportamentos (por exemplo, visitar uma página da Web, clicar em um link em um email, preencher um formulário etc.). Normalmente é usado para medir o interesse de uma pessoa em seu produto ou empresa.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong> Lista de bloqueios</strong></td> 
+   <td colspan="1"><strong>Lista de bloqueios</strong></td> 
    <td colspan="1">Uma lista de endereços IP ou domínios associados ao envio de <strong>spam</strong>.</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" rel="nofollow"><strong>incluir na lista de bloqueios</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" rel="nofollow"><strong>Incluído na lista de bloqueios</strong></a></td> 
    <td> Um campo para uma pessoa do Marketo que você não deseja que receba seu material de marketing (por exemplo, um concorrente). Ao definir o campo Incluir na lista de bloqueios como true, a pessoa não receberá nenhum email da instância do Marketo, incluindo emails operacionais.</td> 
   </tr> 
   <tr> 
@@ -242,7 +246,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
     <div> 
      <p><strong> Banco de dados</strong></p> 
     </div></td> 
-   <td>Uma das seções principais de <strong>Marketo Engage</strong>. O banco de dados é o lar de todos os seus registros <strong>person</strong>.</td> 
+   <td>Uma das seções principais de <strong>Adobe Marketo Engage</strong>. O banco de dados é o lar de todos os seus registros <strong>person</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>De-Dupe</strong></td> 
@@ -268,8 +272,8 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
    <td colspan="1">Um valor de ponto que é atribuído com base em atributos específicos que a pessoa tem, como cargo, tamanho da receita ou setor alvo. Normalmente é usado para medir a adequação de uma pessoa com seu produto ou empresa. </td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Estúdio de desenvolv.</strong></td> 
-   <td colspan="1">Uma das seções principais de <strong>Marketo Engage</strong>. O Design Studio é o lar de seus <strong>assets</strong>, como: <strong>landing pages</strong>, formulários, <strong>emails</strong>, <strong>trechos</strong> e imagens/arquivos.</td> 
+   <td colspan="1"><strong>Estúdio de desenvolvimento</strong></td> 
+   <td colspan="1">Uma das seções principais de <strong>Adobe Marketo Engage</strong>. O Design Studio é o lar de seus <strong>assets</strong>, como: <strong>landing pages</strong>, formulários, <strong>emails</strong>, <strong>trechos</strong> e imagens/arquivos.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Documentação</strong></td> 
@@ -345,13 +349,13 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
    <td>Algo que ocorre para você se comunicar com seus clientes e clientes em potencial. Os eventos offline geralmente consistem em encontros ou apresentações comerciais, e os eventos online geralmente são <strong>webinars</strong>.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">Parceiro de eventos</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">Parceiro de evento</a></strong></td> 
    <td colspan="1">Uma integração de terceiros que ajuda a automatizar seus eventos online.</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Programa de evento</a></strong></p> 
+     <p><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Programa de eventos</a></strong></p> 
     </div></td> 
    <td colspan="1">Um tipo de programa no Marketo. Os programas de evento são usados para automatizar seus <strong>events</strong>, tanto online quanto offline (por exemplo, webinars, meetups, shows de comércio etc.).  </td> 
   </tr> 
@@ -482,7 +486,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   </tr> 
   <tr> 
    <td><strong>Lead</strong></td> 
-   <td>Em <strong>Marketo Engage</strong>, lead é o termo anterior (substituído por <strong>person</strong>) usado para descrever um indivíduo em seu Marketo <strong>banco de dados</strong> com o qual você está se relacionando por meio de suas campanhas de marketing. Em seu <strong>CRM</strong>, um lead pode representar um conceito diferente (ou seja, um indivíduo associado a um <strong>oportunidade</strong>) independente da funcionalidade de Marketo do.</td> 
+   <td>Em <strong>Adobe Marketo Engage</strong>, lead é o termo anterior (substituído por <strong>person</strong>) usado para descrever um indivíduo em seu Marketo <strong>database</strong> com o qual você está se relacionando por meio de suas campanhas de marketing. Em seu <strong>CRM</strong>, um lead pode representar um conceito diferente (ou seja, um indivíduo associado a um <strong>oportunidade</strong>) independente da funcionalidade de Marketo do.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Banco de dados de leads</strong></td> 
@@ -512,7 +516,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
  <tbody> 
   <tr> 
    <td><strong>Atividades de marketing</strong></td> 
-   <td><p>Uma das seções principais do Marketo Engage. É aqui que sua orquestração <strong>campaign</strong> ocorre. Todos os seus <strong>programas</strong>, campanhas e <strong>pastas de campanha</strong> (bem como os <strong>ativos locais</strong>) vivem aqui.</p></td> 
+   <td><p>Uma das seções principais do Adobe Marketo Engage. É aqui que sua orquestração <strong>campaign</strong> ocorre. Todos os seus <strong>programas</strong>, campanhas e <strong>pastas de campanha</strong> (bem como os <strong>ativos locais</strong>) vivem aqui.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Automatização de marketing</strong></a></td> 
@@ -525,10 +529,6 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Campanha de marketing suspensa</strong></a></td> 
    <td colspan="1">Este campo é definido manualmente pelo <strong>user</strong> para tornar alguém em seu Marketo <strong>banco de dados</strong> temporariamente inacessível.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Marketo Engage</strong></td> 
-   <td colspan="1">O nome oficial da marca para o agregado de todas as ofertas de produtos da Marketo na Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Gerenciamento de clientes potenciais da Marketo (MLM)</strong></td> 
@@ -560,7 +560,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   </tr> 
   <tr> 
    <td colspan="1"><strong>Meu Marketo</strong></td> 
-   <td colspan="1">Uma das seções padrão do Marketo Engage. Atua como a "página inicial" do Marketo, exibindo blocos para todas as seções do Marketo às quais você tem acesso.</td> 
+   <td colspan="1">Uma das seções padrão do Adobe Marketo Engage. Atua como a "página inicial" do Marketo, exibindo blocos para todas as seções do Marketo às quais você tem acesso.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Meus tokens</strong></a></td> 
