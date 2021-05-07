@@ -2,14 +2,14 @@
 unique-page-id: 11378869
 description: Criar uma mensagem Vibes SMS - Documentos do Marketo - Documentação do produto
 title: Criar uma mensagem SMS do Vibes
+exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 0%
+source-wordcount: '372'
+ht-degree: 3%
 
 ---
-
 
 # Criar uma mensagem SMS Vibes {#create-a-vibes-sms-message}
 
@@ -17,7 +17,7 @@ Veja como criar uma mensagem Vibes SMS.
 
 >[!AVAILABILITY]
 >
->Esse recurso está disponível como um complemento para sua conta do Marketo Engage. Para ser provisionado corretamente, ele deve ser comprado por meio do Adobe. Entre em contato com o Gerente de sucesso do cliente do Adobe para obter detalhes.
+>Esse recurso está disponível como um complemento para sua conta do Adobe. Para ser provisionado corretamente, ele deve ser comprado por meio do Adobe. Entre em contato com o Gerente de sucesso do cliente do Adobe para obter detalhes.
 
 >[!NOTE]
 >
@@ -61,13 +61,13 @@ Veja como criar uma mensagem Vibes SMS.
 
    >[!NOTE]
    >
-   >Adicionar um token pode fazer com que a mensagem exceda o limite de caracteres. A mensagem então será dividida, resultando em encargos adicionais.
+   >O acréscimo de um token pode fazer a mensagem exceder o limite de caracteres. A mensagem então será dividida, resultando em encargos adicionais.
 
 1. Clique em **Link** no menu Inserir para adicionar um link à mensagem.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Selecione um tipo de link. Página de aterrissagem do Marketo é o padrão. Se você for com isso, será necessário selecionar a landing page no menu suspenso e clicar em **Insert**.
+1. Selecione um tipo de link. A Página de aterrissagem do Marketo é o padrão. Se você for com isso, será necessário selecionar a landing page no menu suspenso e clicar em **Insert**.
 
    ![](assets/insert-link-real-hands.jpg)
 
