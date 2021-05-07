@@ -3,7 +3,7 @@ description: Notas de versão - Janeiro de 2021 - Documentação da Marketo - Do
 title: Notas de versão - Janeiro de 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Os seguintes recursos estão incluídos na versão de 21 de janeiro de 2012. Ver
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
+>Os recursos indicados por uma estrela ( ![(star)](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
 **_Versões trimestrais_**
 
@@ -57,7 +57,7 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 ## Sales Insight {#sales-insight}
 
-![(estrela)](assets/star-yellow.svg)
+![(estrela)](assets/yellow-star.png)
 
 * **[Workflows de email de teste aprimorado (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**: Aumente a eficiência de sua equipe de vendas com fluxos de trabalho de email aprimorados do teste de Insight de vendas. Os vendedores podem enviar emails de teste para endereços de email selecionados antes de enviar emails em massa para até 200 recipients.
 * **[Insights sobre o status de email (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: Os usuários veem uma mensagem de aviso quando tentam enviar um email para uma ID de email inválida ou um endereço de email que não tenha assinado antes de enviar um email.  Os status do delivery de emails podem ser revisados na guia email do Sales Insight.
@@ -67,7 +67,7 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 ## SalesConnect {#sales-connect}
 
-![(estrela)](assets/star-yellow.svg)
+![(estrela)](assets/yellow-star.png)
 
 * **Limitação da conexão de email (BETA)**: Melhore sua capacidade de fornecimento de email e dimensione sua comunicação de vendas 1:1 com o Limite de conexão de email para conexão de vendas. Nossa nova tecnologia de limitação gerencia automaticamente o tempo de envio de emails para criar experiências ininterruptas para usuários do Exchange e Gmail. Diminua ou elimine o uso de aplicativos de envio de email em massa de terceiros.
 * **Acompanhamento** de Rejeição da Conexão de Email: Obtenha informações sobre a qualidade do lead e o desempenho do modelo de email com o novo relatório de devolução de email. Os usuários do Exchange e do Gmail podem optar por receber notificações de devolução que serão acumuladas no Feed ao vivo, Pastas de email, Análises de modelo e Análises de campanha.
