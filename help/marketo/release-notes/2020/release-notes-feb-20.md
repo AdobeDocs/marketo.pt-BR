@@ -4,7 +4,7 @@ description: Notas de versão - 20 de fevereiro - Documentos da Marketo - Docume
 title: Notas de versão - fevereiro de 2020
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Os seguintes recursos estão incluídos na versão de fevereiro de 20. Verifique
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
+>Os recursos indicados por uma estrela ( ![(star)](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
 **_Versões trimestraisOs seguintes recursos foram lançados em 21_** de fevereiro de 2020 ****.
 
@@ -37,7 +37,7 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 ## Bizible {#bizible}
 
-![(estrela)](assets/star-yellow.svg)
+![(estrela)](assets/yellow-star.png)
 
 * **Segmentação** com base em conta: Analise a atribuição no nível da Conta com a capacidade de criar segmentos e filtros para quadros do Discover com base em atributos da Conta. Use esses segmentos para detalhar o desempenho de marketing com base em conta.
 * **Salvando filtros**: Salve filtros específicos do painel exclusivos de cada usuário para analisar seus painéis de forma rápida e consistente.
