@@ -4,9 +4,9 @@ description: Notas de versão - 20 de outubro - Documentos da Marketo - Document
 title: Notas de versão - outubro de 2020
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ Os seguintes recursos estão incluídos na versão de outubro de 2020. Verifique
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela ( ![(star)](assets/star-yellow.svg)) podem ser complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
+>Os recursos indicados por uma estrela (![](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
 **_Versões trimestraisOs seguintes recursos serão lançados em 16_** de outubro de 2020 ****.
 
-## Gerenciamento de conta do Target {#target-account-management}
+## Gerenciamento de contas de destino {#target-account-management}
 
-![(estrela)](assets/star-yellow.svg)
+![(estrela)](assets/yellow-star.png)
 
 * **Lista inteligente de contas (Beta)**: Sobrecarregue sua estratégia de ABM com o novo recurso Lista inteligente de contas . Identifique dinamicamente contas com os atributos de conta e pessoa desejados para executar campanhas entre canais e envie alertas oportunos para Vendas para fechar negócios mais rápido. Observação: isso está disponível somente para clientes do Gerenciamento de conta do Target que foram integrados à [experiência de usuário de próxima geração](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
 ## Marketing por e-mail {#email-marketing}
 
-* **Aumento do e-mail em lote  ![(estrela)](assets/star-yellow.svg)**: Envie mais emails com uma taxa de transferência aumentada de até 5 milhões de emails em lote por hora. Opções abrangentes de capacidade de fornecimento de email elimina a necessidade de esperar entre lotes de email - envie todos os emails a tempo e de acordo com sua programação.
+* **Aumento do e-mail em lote  ![(estrela)](assets/yellow-star.png)**: Envie mais emails com uma taxa de transferência aumentada de até 5 milhões de emails em lote por hora. Opções abrangentes de capacidade de fornecimento de email elimina a necessidade de esperar entre lotes de email - envie todos os emails a tempo e de acordo com sua programação.
 
 ## Marketing de site {#website-marketing}
 
@@ -67,7 +67,7 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 ## Sales Insight {#sales-insight}
 
-![(estrela)](assets/star-yellow.svg)
+![(estrela)](assets/yellow-star.png)
 
 * **Otimização de API e novas opções** de configuração de governança: Melhore a experiência do usuário do Sales Insight por meio de otimização de API aprimorada e recursos de controle adicionais. As configurações permitem que os administradores definam como campanhas e eventos são carregados no painel Informações de vendas . Atividades flexíveis de exibição de calendário reduzem o uso da API e melhoram a experiência geral.
 
