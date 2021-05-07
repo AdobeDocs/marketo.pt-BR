@@ -4,9 +4,9 @@ description: Tokens de acionador para momentos interessantes - Documentos do Mar
 title: Tokens de acionador para momentos interessantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 29%
 
 ---
@@ -68,10 +68,10 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Clica em link de e-mail</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -85,12 +85,12 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Rejeições de email intensas</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -102,12 +102,12 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>E-mail é devolvido temporariamente</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -119,10 +119,10 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>O Email É Entregue</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -136,10 +136,10 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Abre e-mail</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -153,8 +153,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
     <tr> 
    <td>Recebeu e-mail de "Encaminhar para amigo"</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -170,8 +170,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
     <tr> 
    <td>Enviou e-mail de "Encaminhar para amigo"</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -180,21 +180,21 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td>
+   <td><img src="assets/check.png" alt="check"></td>
   </tr> 
   <tr> 
    <td>Cancela inscrição do e-mail</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -244,16 +244,16 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Clica em link de e-mail de vendas</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -261,16 +261,16 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>É e-mail de vendas enviado</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -278,16 +278,16 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Abre e-mail de vendas</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -295,8 +295,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>E-mail de vendas é devolvido</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -312,16 +312,16 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>E-mail de vendas é recebido</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -329,8 +329,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
     <tr> 
    <td>A oportunidade é atualizada</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -346,8 +346,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
     <tr> 
    <td>Alterações do proprietário</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -363,8 +363,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>A pessoa é convertida</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -380,8 +380,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>A pessoa é excluída da SFDC</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -397,8 +397,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>A pessoa é sincronizada com a SFDC</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -414,8 +414,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Removido da oportunidade</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -431,8 +431,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Removido da campanha da SFDC</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -448,8 +448,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>A atividade é registrada</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -465,8 +465,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>A atividade é atualizada</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -482,8 +482,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Adicionado à oportunidade</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -499,8 +499,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Adicionado à campanha da SFDC</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -573,16 +573,16 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Clica em link de e-mail de vendas</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -590,16 +590,16 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>É e-mail de vendas enviado</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -607,16 +607,16 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Abre e-mail de vendas</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -624,8 +624,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>E-mail de vendas é devolvido</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -641,16 +641,16 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>E-mail de vendas é recebido</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -658,8 +658,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Está adicionado a campanha de vendas</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -676,8 +676,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   <tr>
    <td>Alterações do proprietário</td> 
    <td>Está removido de campanha de vendas</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -693,8 +693,8 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Recebida chamada de vendas</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -750,14 +750,14 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Preenche formulário</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -767,34 +767,34 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
   </tr> 
   <tr> 
    <td>Visita página da Web</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
   </tr> 
   <tr> 
    <td>Clica no link na página da Web</td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(marca de verificação)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -804,7 +804,7 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
 
 >[!NOTE]
 >
->Se não tiver uma marca ![(tick)](assets/check.svg) então ela retornará uma sequência vazia (nada) no momento interessante.
+>Se não tiver uma marca ![(tick)](assets/) então ela retornará uma sequência vazia (nada) no momento interessante.
 
 *O Acionador **Visitas Web Page** tem alguns tokens adicionais:
 
@@ -816,4 +816,4 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
 >
 >Sempre teste seus momentos interessantes para garantir que eles renderizem a maneira como você pretende.
 >
->Além disso, certifique-se de que seja interessante para o vendedor, não apenas para você. ![(piscar)](assets/wink.svg)>
+>Além disso, certifique-se de que seja interessante para o vendedor, não apenas para você!
