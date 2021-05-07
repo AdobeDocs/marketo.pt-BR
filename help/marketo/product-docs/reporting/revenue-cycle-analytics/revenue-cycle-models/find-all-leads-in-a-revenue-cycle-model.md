@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2360423
-description: Localize todos os clientes potenciais em um modelo de ciclo de receita - Documentos do marketing - Documentação do produto
-title: Localizar todos os clientes potenciais em um modelo de ciclo de receita
+description: Encontre todos os leads em um modelo de ciclo de receita - Documentos da Marketo - Documentação do produto
+title: Encontre todos os leads em um modelo de ciclo de receita
+exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
+# Encontre todos os leads em um modelo de ciclo de receita {#find-all-leads-in-a-revenue-cycle-model}
 
-# Localizar todos os clientes potenciais em um modelo de ciclo de receita {#find-all-leads-in-a-revenue-cycle-model}
-
-Usando listas inteligentes, você pode encontrar facilmente todos os membros do modelo de ciclo de receita.
+Ao usar listas inteligentes, é possível encontrar facilmente todos os membros do modelo de ciclo de receita.
 
 >[!PREREQUISITES]
 >
->[Criar uma Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Com a lista inteligente selecionada, clique na guia **Lista inteligente**.
+1. Com a lista inteligente selecionada, clique na guia **Smart List**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Localize o filtro **Membro do Modelo de Receita** e arraste-o para a tela.
+1. Encontre o filtro **Member of Revenue Model** e arraste-o para a tela.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
@@ -31,24 +31,24 @@ Usando listas inteligentes, você pode encontrar facilmente todos os membros do 
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
-   Isso lhe daria todas as pistas nesse modelo, independente do palco. Geralmente, você desejará um estágio específico. Em vez disso, use o seguinte filtro.
+   Isso obteria todas as lideranças nesse modelo, independentemente do palco. Geralmente, você deseja um estágio específico. Em vez disso, use o seguinte filtro.
 
-1. Localize o filtro **Estágio de receita** e arraste-o para a tela de desenho.
+1. Encontre o filtro **Estágio da receita** e arraste-o para a tela.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Selecione um **Palco**.
+1. Selecione um **Estágio**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Vá para a guia **Clientes potenciais** para visualização dos resultados.
+1. Acesse a guia **Leads** para visualizar os resultados.
 
    ![](assets/2.png)
 
    >[!TIP]
    >
-   >Você não precisa dos dois filtros, basta escolher o que precisa. Estamos apenas a mostrar-vos que são meticulosos. ![(sorriso)](assets/smile.svg)
+   >Você não precisa dos dois filtros, basta escolher o que precisa. Estamos apenas a mostrar-vos que são meticulosos.
 
    >[!CAUTION]
    >
-   >Se o estágio de um cliente potencial for alterado por uma campanha externa durante a criação inicial do cliente potencial, uma atividade não será registrada no banco de dados. Isso significa que o cliente potencial não será incluído pelo filtro de lista inteligente.
+   >Se o estágio de um lead for alterado por uma campanha externa durante a criação inicial do lead, uma atividade não será registrada no banco de dados. Isso significa que o lead não será incluído pelo filtro da lista inteligente.
