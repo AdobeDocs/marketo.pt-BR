@@ -4,7 +4,7 @@ description: Tokens de acionador para momentos interessantes - Documentos do Mar
 title: Tokens de acionador para momentos interessantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 29%
@@ -804,7 +804,7 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
 
 >[!NOTE]
 >
->Se não tiver uma marca ![(tick)](assets/) então ela retornará uma sequência vazia (nada) no momento interessante.
+>Se não tiver uma marca ![(tick)](assets/check.png) então ela retornará uma sequência vazia (nada) no momento interessante.
 
 *O Acionador **Visitas Web Page** tem alguns tokens adicionais:
 
