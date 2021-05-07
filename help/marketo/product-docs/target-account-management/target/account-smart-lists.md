@@ -2,14 +2,14 @@
 unique-page-id: 11378814
 description: Listas inteligentes de contas - Documentos do Marketo - Documentação do produto
 title: Listas inteligentes de contas
+exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Listas inteligentes de contas {#account-smart-lists}
 
@@ -17,7 +17,11 @@ Veja como identificar de forma rápida e precisa suas contas de alto valor.
 
 >[!NOTE]
 >
->Esse recurso está em uma versão beta aberta e está disponível para qualquer pessoa que tenha a experiência de usuário TAM e Marketo Next-Gen habilitada. Entre em contato com seu CSM se desejar participar do Beta.
+>Esse recurso será ativado para todas as instâncias do Marketo qualificadas na noite de terça-feira, 11 de maio.
+
+>[!NOTE]
+>
+>Este recurso está disponível somente para aqueles com a experiência de usuário de próxima geração de Marketo Engage Adobe e TAM ativada.
 
 ## Criar uma lista inteligente de contas {#create-an-account-smart-list}
 
@@ -43,7 +47,7 @@ Veja como identificar de forma rápida e precisa suas contas de alto valor.
 
 Sua lista inteligente de contas foi criada! Consulte abaixo as etapas sobre como definir suas regras.
 
-## Regras da Lista Inteligente de Conta {#account-smart-list-rules}
+## Regras da lista inteligente de contas {#account-smart-list-rules}
 
 As Smart Lists de conta funcionam de forma semelhante às Smart Lists padrão, com uma exceção notável: contêineres.
 
@@ -79,7 +83,7 @@ E é isso! Consulte a seção abaixo para ver como você pode utilizar sua Lista
 >
 >Assim como nas Smart Lists padrão, você pode usar a lógica avançada para refinar seus resultados. Você precisa de pelo menos três filtros para fazer isso, e nas Listas inteligentes de contas, um contêiner (independentemente de quantos filtros ele contém) é igual a um filtro.
 
-## Ações da Lista Inteligente da Conta {#account-smart-list-actions}
+## Ações de listas inteligentes de contas {#account-smart-list-actions}
 
 Na guia Visão geral da Lista inteligente de contas, você observará algumas opções de ação.
 
@@ -101,4 +105,4 @@ Também é possível fazer referência à Smart List da conta em uma Campanha/Li
 >
 >**Definição**
 >
->**Membro de Pessoas da Lista** Inteligente de Contas: Nesse caso, a palavra &quot;membro&quot; refere-se à própria conta, portanto, &quot;membro do povo&quot; significa o povo real (registros do Marketo) nessas contas.
+>**Membro de Pessoas da Lista** Inteligente de Contas: Nesse caso, a palavra &quot;membro&quot; refere-se à própria conta, de modo que &quot;membro do povo&quot; significa o povo real (registros Marketo) nessas contas.
