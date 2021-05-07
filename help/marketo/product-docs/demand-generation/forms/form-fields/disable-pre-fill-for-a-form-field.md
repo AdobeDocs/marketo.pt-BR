@@ -1,27 +1,29 @@
 ---
 unique-page-id: 2359675
-description: Desabilitar Preenchimento para um Campo de Formulário - Documentos do Marketing - Documentação do produto
+description: Desativar Preenchimento Antecipado para um Campo de Formulário - Documentos do Marketo - Documentação do produto
 title: Desativar Preenchimento Antecipado para um Campo de Formulário
+exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-
 # Desativar Preenchimento Antecipado para um Campo de Formulário {#disable-pre-fill-for-a-form-field}
 
-Quando um visitante da Web é conhecido (cookie), os formulários do Marketo pré-preencherão os campos com suas informações por padrão. Se você quer desligar isso, aqui está como fazer.
+Quando um visitante da Web é conhecido (com cookies), os formulários Marketo preencherão previamente os campos com suas informações por padrão. Se quiser desligar isso, veja como fazer.
 
 >[!NOTE]
 >
->**Pré-** arquivo de formulário ativado por padrão. As configurações de pré-preenchimento de nível de landing page e as configurações de pré-preenchimento de nível de administrador superam a configuração de nível de formulário:
+>**Pré-** arquivo do formulário habilitado por padrão. As configurações de pré-preenchimento no nível da página de aterrissagem e as configurações de pré-preenchimento no nível do administrador superam a configuração do nível do formulário:
 >
->Formulário > Landing page > Administrador
+>Formulário > Página de aterrissagem > Administrador
 
-1. Vá para **Atividades de marketing**.
+## Como desativar o pré-preenchimento {#how-to-disable-pre-fill}
+
+1. Vá para **Marketing Activities**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -31,9 +33,9 @@ Quando um visitante da Web é conhecido (cookie), os formulários do Marketo pr�
 
    >[!CAUTION]
    >
-   >O Preenchimento prévio do formulário não funciona ao incorporar um formulário em suas próprias páginas. Só funciona nas landings page de marketing.
+   >O Preenchimento prévio do formulário não funciona ao incorporar um formulário em suas próprias páginas. Funciona somente nas landing pages do Marketo.
 
-1. Selecione um dos campos e defina **Preenchimento prévio do formulário** como **Desativado**.
+1. Selecione um dos campos e defina **Preenchimento prévio do formulário** para **Desativado**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -49,4 +51,8 @@ Quando um visitante da Web é conhecido (cookie), os formulários do Marketo pr�
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
-Bom trabalho!
+## Campos sensíveis {#sensitive-fields}
+
+Ao [marcar um campo como sensível](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), impedindo que seus valores sejam pré-preenchidos em formulários, você verá isso na opção Pré-preenchimento .
+
+![](assets/disable-pre-fill.png)
