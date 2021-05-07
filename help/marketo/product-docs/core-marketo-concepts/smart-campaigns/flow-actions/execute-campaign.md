@@ -2,9 +2,9 @@
 description: Execute Campaign - Marketo Docs - Documentação do produto
 title: Executar campanha
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '726'
 ht-degree: 1%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 1%
 # Executar campanha {#execute-campaign}
 
 Uma Campanha Executável, como outras campanhas, contém uma Lista Inteligente, Fluxo e Programação. Ao contrário de outras campanhas, você não a agenda ou ativa. Ele só pode ser chamado por outra campanha através da etapa Executar fluxo da campanha . As etapas de fluxo na Campanha executável são executadas em série com a campanha pai (diferente da Campanha de solicitação, que é executada simultaneamente em uma Campanha de acionador separada).
+
+>[!NOTE]
+>
+>Esse recurso será ativado para todas as instâncias do Marketo na noite da terça-feira, 11 de maio.
 
 >[!NOTE]
 >
