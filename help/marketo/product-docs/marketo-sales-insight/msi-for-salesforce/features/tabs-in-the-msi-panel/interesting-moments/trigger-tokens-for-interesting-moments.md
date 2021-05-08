@@ -4,7 +4,7 @@ description: Tokens de acionador para momentos interessantes - Documentos do Mar
 title: Tokens de acionador para momentos interessantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
+source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 29%
@@ -31,7 +31,7 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
 
 **Acionadores de email**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -207,7 +207,7 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
 
 **Salesforce Triggers**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -536,7 +536,7 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
 
 **Acionadores da Conexão de Vendas**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -713,7 +713,7 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
 
 **Diversos**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
