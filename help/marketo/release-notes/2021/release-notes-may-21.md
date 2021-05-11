@@ -2,9 +2,9 @@
 description: Notas de versão - maio de 2021 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - maio de 2021
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '1510'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ Várias atualizações críticas para APIs em massa e em potencial, incluindo a 
 
 ## Anúncios {#announcements}
 
-* **Plataformas** de troca de documentos do produto Marketo: Temos o prazer de anunciar que os Documentos do produto Marketo serão associados à Adobe Experience League na sexta-feira, 7 de maio. Você ainda poderá usar o URL: docs.marketo.com, e se você tiver artigos existentes marcados, será redirecionado. Todos os documentos atuais do produto estarão disponíveis na nova plataforma, com melhorias planejadas para o final deste ano.
+* **Plataformas** de troca de documentos do produto Marketo: Temos o prazer de anunciar que o Marketo Product Docs entrou na Adobe Experience League na sexta-feira, 7 de maio. Você ainda poderá usar o URL: docs.marketo.com, e se você tiver artigos existentes marcados, será redirecionado. Todos os documentos do produto estão disponíveis na nova plataforma, com melhorias planejadas para o fim deste ano.
 
 * **Administração de usuário simplificada e logon único com base no sistema** de identidade do Adobe: A partir de julho de 2021, os novos clientes do Adobe Marketo Engage serão integrados usando credenciais de usuário do Adobe. A migração dos clientes atuais para o sistema de identidade integrado não ocorrerá até meados de 2022 e nenhuma ação do cliente será necessária até novo aviso. O logon único permite que os administradores de TI/segurança gerenciem várias instâncias de produto do Adobe Marketo Engage juntamente com outras soluções do Experience Cloud, bem como configure o SSO (Shared Services Organization) por meio de um console comum. Os administradores podem gerenciar convenientemente grupos de usuários e direitos de usuário por meio de um Admin Console comum.
+
+**_Webinar da versão do produto_**
+
+Quer saber mais sobre esses recursos e aprimoramentos? Certifique-se de [registrar-se agora](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html) para se juntar a nós em 13 de maio às 9h PT / 12h ET para um webinário ao vivo com nossa equipe de produtos para aprofundar essas inovações.
