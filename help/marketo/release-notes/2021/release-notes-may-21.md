@@ -1,10 +1,9 @@
 ---
 description: Notas de versão - maio de 2021 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - maio de 2021
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,6 @@ Os seguintes recursos estão incluídos na versão de 21 de maio. Verifique sua 
 **_Versões trimestrais_**
 
 Os seguintes recursos serão lançados em **7 de maio de 2021**.
-
->[!NOTE]
->
->Esses três recursos estarão disponíveis na noite de terça-feira, 11 de maio:
->
->* **Listas inteligentes de contas**
->* **Executar etapas do fluxo de campanha**
->* **Atividade Filtrar e-mail Bots**
-
 
 ## Experiências baseadas em conta {#Account-based-eaperiences}
 
