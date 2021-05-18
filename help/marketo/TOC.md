@@ -3,10 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '8023'
+source-wordcount: '8038'
 ht-degree: 5%
 
 ---
@@ -38,7 +37,7 @@ ht-degree: 5%
       + [Redirecionar uma página](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatizar um alerta para possíveis pessoas duplicadas](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Herdar uma instância do Marketo {#inheriting-a-marketo-instance}
-      + [Ajuda! Herdei uma Instância Existente do Marketo](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+      + [Ajuda! Herdei uma instância existente do Marketo](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Itens a serem retirados](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [O que analisar: Principais habilidades](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Maneiras de obter ajuda](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
@@ -809,7 +808,7 @@ ht-degree: 5%
                + [Modelo 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modelo 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modelo 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modelo 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modelo 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -978,7 +977,7 @@ ht-degree: 5%
                + [Programar programas de e-mail com fuso horário do destinatário](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
                + [Noções básicas sobre fuso horário do destinatário](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
          + Dados do programa de email {#email-program-data}
-            + [Relatório de desempenho do link de email](product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+            + [Relatório de desempenho de links de e-mail do ](product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
             + [Relatório de desempenho de email](product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
             + [Exportar Painel de Programas de Email para Excel](product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)
             + [Usar o painel Programa de email](product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
@@ -1050,7 +1049,8 @@ ht-degree: 5%
    + Marketo Sales Connect {#marketo-sales-connect}
       + Introdução {#getting-started}
          + [Visão geral da conexão de vendas](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Introdução ao Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Acessar sua nova instância do Sales Connect](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
+         + [Configurar Conexão de Vendas](product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)
          + [Página Meu Perfil](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [Vídeos e Tutorials de início rápido](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Alterar a senha da conexão de vendas](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
@@ -1100,7 +1100,7 @@ ht-degree: 5%
             + [Importar uma ID do Salesforce para o Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [Instalar campos de evento do Sales Connect no histórico de atividades](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
             + [Instalar a personalização do Salesforce para clientes da Professional Edition](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
-            + [Encaminhar para Conexão de Vendas](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
+            + [Enviar por push ao Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Painéis de relatórios no Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [Personalizações de Conexão de Vendas para CRM](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Uso de ações em massa no Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
@@ -1203,7 +1203,7 @@ ht-degree: 5%
          + [Perguntas frequentes sobre conteúdo e anexo de arquivo](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [O Sales Connect tem um aplicativo iPhone ou Android?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [Como posso Lista de permissões a conexão de vendas no meu servidor?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
-         + [Eu fui Bloqueado de Minha Conta. O que devo fazer?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+         + [Eu fui Bloqueado de Minha Conta. O que eu faço?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [O Sales Connect É Compatível Com O Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Quais são as versões mais recentes do cliente?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [Quais são os termos de serviço da conexão de vendas?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
@@ -1214,6 +1214,8 @@ ht-degree: 5%
       + Integrações {#integrations}
          + [Como registrar emails em outros CRMs](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
+         + [Configurar manualmente a conexão do Marketo](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [Conceder acesso aos usuários](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Momentos interessantes em MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [Tornar uma campanha visível para usuários do Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + Pessoas {#people}
