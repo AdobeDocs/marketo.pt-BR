@@ -1,9 +1,9 @@
 ---
 description: Conceder acesso aos usuários - Documentos do Marketo - Documentação do produto
 title: Conceder acesso aos usuários
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Siga as etapas neste artigo para conceder aos usuários do Sales Connect acesso à conexão do Marketo. Isso desbloqueará recursos como Momentos interessantes no Feed ao vivo e o acesso às Campanhas de marketing.
 
-Você precisará convidar usuários para o Sales Connect aqui, antes que eles fiquem visíveis na página Marketo - Team Access , onde o acesso à conexão Marketo é concedido.
+Você precisará convidar usuários para a Conexão de Vendas [aqui](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), antes que eles estejam visíveis na página Marketo > Acesso à Equipe (no Sales Connect), onde o acesso à conexão Marketo é concedido.
 
 >[!CAUTION]
 >
@@ -22,7 +22,7 @@ Você precisará convidar usuários para o Sales Connect aqui, antes que eles fi
 
    >[!NOTE]
    >
-   >Você só pode fazer a atribuição do espaço de trabalho uma vez no momento de convidar usuários. Depois que estiver definido, você terá que desconectar o usuário para alterá-lo.
+   >Você só pode fazer a atribuição do espaço de trabalho uma vez no momento da concessão de acesso aos usuários. Depois que estiver definido, você terá que desconectar o usuário para alterá-lo.
 
    ![](assets/granting-access-to-users-1.png)
 
@@ -33,9 +33,5 @@ Você precisará convidar usuários para o Sales Connect aqui, antes que eles fi
 1. Clique na lista suspensa Espaço de trabalho , selecione os espaços de trabalho desejados e clique em **Connect**.
 
    ![](assets/granting-access-to-users-3.png)
-
-   >[!NOTE]
-   >
-   >Se quiser adicionar novos usuários, vá para a seção Gerenciamento de equipe das Configurações de administração e clique no botão **Convidar usuários**.
 
 Você pode incluir usuários adicionais na página Gerenciamento de equipe e seguir as etapas acima para conectá-los.
