@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Visão geral do Sales Connect - Documentos da Marketo - Documentação do produto
 title: Visão geral da conexão de vendas
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: b52765f3549615aa68789dfbd8376044bcd02b3f
+source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '227'
 ht-degree: 9%
 
 ---
@@ -86,5 +86,5 @@ Crie uma campanha inteligente simples para dar aos usuários de vendas acesso ao
 Pronto para começar? Para obter instruções de configuração, clique no link abaixo.
 
 >[!MORELIKETHIS]
-[Configurar Conexão de Vendas](/help/marketo/product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)>
+[Guia de Introdução para Administradores do Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)>
 >
