@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
+source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
 workflow-type: tm+mt
-source-wordcount: '8037'
+source-wordcount: '8040'
 ht-degree: 5%
 
 ---
@@ -808,7 +808,7 @@ ht-degree: 5%
                + [Modelo 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modelo 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modelo 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modelo 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modelo 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1050,8 +1050,8 @@ ht-degree: 5%
       + Introdução {#getting-started}
          + [Visão geral da conexão de vendas](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Acessar sua nova instância do Sales Connect](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
-         + [Configurar Conexão de Vendas](product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)
-         + [Página Meu Perfil](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
+         + [Guia de Introdução para Administradores do Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
+         + [Gerenciar seu perfil](product-docs/marketo-sales-connect/getting-started/manage-your-profile.md)
          + [Vídeos e Tutorials de início rápido](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Alterar a senha da conexão de vendas](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + Configurações de e-mail {#email-settings}
