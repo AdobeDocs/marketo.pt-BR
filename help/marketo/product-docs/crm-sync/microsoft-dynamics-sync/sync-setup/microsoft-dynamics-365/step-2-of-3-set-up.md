@@ -3,10 +3,9 @@ unique-page-id: 3571827
 description: Etapa 2 de 3 - Configurar o usuário do Marketo Sync no Dynamics - Documentos do Marketo - Documentação do produto
 title: Etapa 2 de 3 - Configurar o usuário do Marketo Sync no Dynamics
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5473e1a78769ba23e9c3a5926407cf42ef9685a0
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -16,8 +15,8 @@ ht-degree: 0%
 Vamos começar criando uma conta de usuário.
 
 >[!PREREQUISITES]
+[Etapa 1 de 3: Instalar a solução Marketo (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)>
 >
->[Etapa 1 de 3: Instalar a solução Marketo (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
 
 ## Criar um novo usuário {#create-a-new-user}
 
@@ -54,8 +53,7 @@ Vamos começar criando uma conta de usuário.
    ![](assets/eight.png)
 
    >[!NOTE]
-   >
-   >Esse nome deve ser um usuário de sincronização dedicado e não uma conta de usuário do CRM existente. Não precisa ser um endereço de email real.
+   Esse nome deve ser um usuário de sincronização dedicado e não uma conta de usuário do CRM existente. Não precisa ser um endereço de email real.
 
 1. Insira o email para receber as novas credenciais do usuário e clique em **Enviar email e fechar**.
 
@@ -66,8 +64,10 @@ Vamos começar criando uma conta de usuário.
 Atribua a função Usuário de sincronização do Marketo somente ao usuário de sincronização do Marketo. Não é necessário atribuí-lo a nenhum outro usuário.
 
 >[!NOTE]
->
->Isso se aplica ao Marketo versão 4.0.0.14 e posterior. Para versões anteriores, todos os usuários devem ter a função de sincronização do usuário. Para atualizar o Marketo, consulte [Atualizar a solução Marketo para o Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+Isso se aplica ao Marketo versão 4.0.0.14 e posterior. Para versões anteriores, todos os usuários devem ter a função de sincronização do usuário. Para atualizar o Marketo, consulte [Atualizar a solução Marketo para o Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+
+>[!IMPORTANT]
+A configuração de idioma do Usuário de sincronização [deve ser definida como inglês](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
 
 1. Volte para a guia Usuários ativados e atualize a lista de usuários.
 
@@ -86,8 +86,7 @@ Atribua a função Usuário de sincronização do Marketo somente ao usuário de
    ![](assets/thirteen.png)
 
    >[!NOTE]
-   >
-   >Qualquer atualização feita em seu CRM pelo Usuário de sincronização **not** será sincronizada novamente com o Marketo.
+   Qualquer atualização feita em seu CRM pelo Usuário de sincronização **not** será sincronizada novamente com o Marketo.
 
 ## Configurar a solução Marketo {#configure-marketo-solution}
 
@@ -98,8 +97,7 @@ Quase lá! Resta informar a Marketo Solution sobre o novo usuário criado.
    ![](assets/fourteen.png)
 
    >[!NOTE]
-   >
-   >Se você não vir **Marketo Config** no menu Configurações , atualize a página. Se isso não funcionar, tente [publicar a Solução da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) novamente ou faça logoff e volte a fazer logon.
+   Se você não vir **Marketo Config** no menu Configurações , atualize a página. Se isso não funcionar, tente [publicar a Solução da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) novamente ou faça logoff e volte a fazer logon.
 
 1. Clique em **Padrão**.
 
@@ -132,5 +130,4 @@ Quase lá! Resta informar a Marketo Solution sobre o novo usuário criado.
     * Efetue logon no usuário de sincronização do Marketo no Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
->
->[Etapa 3 de 3: Conectar o Microsoft Dynamics ao Marketo (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+[Etapa 3 de 3: Conectar o Microsoft Dynamics ao Marketo (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
