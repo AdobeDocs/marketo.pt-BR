@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
 workflow-type: tm+mt
 source-wordcount: '8040'
 ht-degree: 5%
@@ -81,10 +81,10 @@ ht-degree: 5%
          + [Dimension de Conta Nomeada no RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [Insights de conta nomeados](product-docs/target-account-management/measure/named-account-insights.md)
          + [Uso de personas](product-docs/target-account-management/using-personas.md)
-   + Criação de perfis de contas {#account-profiling}
-      + [Configuração do perfil da conta](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
-      + [Classificação e ajuste do perfil da conta](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [Nova Detecção de Contas](product-docs/target-account-management/account-profiling/new-account-discovery.md)
+      + Criação de perfis de contas {#account-profiling}
+         + [Configuração do perfil da conta](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+         + [Classificação e ajuste do perfil da conta](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+         + [Nova Detecção de Contas](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Aplicativos adicionais {#additional-apps}
       + SEO {#seo}
          + Noções básicas sobre SEO {#understanding-seo}
@@ -806,9 +806,9 @@ ht-degree: 5%
                + [Modelo 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modelo 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modelo 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modelo 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modelo 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modelo 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modelo 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
