@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Configurar o compartilhamento de público na Adobe Experience Cloud - Documentos do Marketo - Documentação do produto
 title: Configurar o compartilhamento de público na Adobe Experience Cloud
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 760e39e662f361831eed63d424b74dc90bbfd2e2
+source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ Para compartilhar dados do público-alvo nos aplicativos do Adobe, primeiro voc�
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Insira sua ID organizacional Adobe IMS (saiba como encontrar esse [aqui](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)) e clique em **OK**.
+1. Insira sua ID organizacional Adobe IMS (saiba como encontrar esse [aqui](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)) e clique em **OK**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
