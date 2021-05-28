@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 394ababd11b39abc23f7761f3c91f03ca3778435
+source-git-commit: 1c08cbd1bb7f7b3b7b6b12bb21a6eb35ee43c0e1
 workflow-type: tm+mt
-source-wordcount: '8030'
+source-wordcount: '8028'
 ht-degree: 5%
 
 ---
@@ -806,7 +806,7 @@ ht-degree: 5%
                + [Modelo 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modelo 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modelo 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modelo 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modelo 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1044,7 +1044,6 @@ ht-degree: 5%
    + Experiência de próxima geração do Marketo Engage {#marketo-engage-next-generation-experience}
       + [Visão geral](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [Novo Glossário de Ícones](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
-      + [Mover ativos](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
       + [Usando a pesquisa global](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Introdução {#getting-started}
