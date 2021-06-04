@@ -1,9 +1,9 @@
 ---
 description: Notas de versão - maio de 2021 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - maio de 2021
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 813f06e6b54c8fb2f3029f92d642d25e39424b5e
 workflow-type: tm+mt
-source-wordcount: '1534'
+source-wordcount: '1481'
 ht-degree: 0%
 
 ---
@@ -39,8 +39,6 @@ Com a visualização de pesquisa global, os profissionais de marketing podem vis
 * **Bloquear Envio** de Formulário de Spam: Protect seu banco de dados do Adobe Marketo Engage a partir de dados inúteis que podem causar alertas inválidos para vendas, acionar registros de campanha e criar atividades indesejadas. O novo mecanismo de validação rejeita envios de formulários inválidos e interrompe os ataques de bot. Seus dados são mais limpos e suas campanhas de marketing são executadas conforme o esperado, minimizando o risco de enviar leads não qualificados para vendas.
 
 * **Aviso** de aprovação do programa de email: Impedir o envio de emails incorretos quando as novas edições forem feitas em um programa aprovado anteriormente.  O aviso atua como garantia quando um profissional de marketing aplica alterações a um email já aprovado, mas depois esquece de aprovar as alterações mais recentes e envia o email para um grande público sem conteúdo, conteúdo incorreto ou conteúdo antigo.
-
-* **Ação de fluxo único na página** de detalhes do lead: Permita que os usuários executem ações de fluxo como enviar email, alterar o proprietário do cliente potencial ou qualquer outra ação de campanha inteligente em clientes potenciais individuais a partir da página de detalhes do cliente potencial usando o menu de ação de fluxo. Os profissionais de marketing podem executar ações de fluxo em leads sem alternar para a exibição em grade do banco de dados de lead.
 
 * **Atividade** Filtrar e-mail Bots: Evite alertas de vendas não intencionais e relatórios de email imprecisos por meio do novo recurso de filtragem de atividades de bot de email. Identifique e filtre aberturas e cliques que podem ser associados a bots de email inspecionando links que levam a acionadores falsos e alertas de vendas, ou relatórios incorretos.
 
