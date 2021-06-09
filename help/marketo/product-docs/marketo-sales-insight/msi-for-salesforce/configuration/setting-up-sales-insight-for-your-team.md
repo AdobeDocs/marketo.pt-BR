@@ -1,14 +1,13 @@
 ---
-description: Configuração do insight de vendas para sua equipe - Documentos do Marketo - Documentação do produto
+description: Configuração do insight de vendas para sua equipe - Documentos da Marketo - Documentação do produto
 title: Configuração do insight de vendas para sua equipe
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
+source-git-commit: ecceb1a3aff3a2088379f8f4f2ac33e566f90e21
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
-
 
 # Configuração do insight de vendas para sua equipe {#setting-up-sales-insight-for-your-team}
 
@@ -38,15 +37,13 @@ Se você tiver um perfil dedicado para seus usuários do Sales Insight, ignore e
 
    **Para perfis com permissão de acesso ao Sales Insight**:
 
-   * Nas Configurações personalizadas do aplicativo, marque Marketo para tornar o aplicativo Marketo visível
    * Em Configurações da guia, altere as guias Marketo para Padrão ativado
    * Em Permissões de objeto personalizado, marque a opção Ler, Criar, Editar e Excluir na Configuração do Marketo Sales Insight (se o usuário precisar ter acesso às configurações - normalmente usadas para administradores)
 
    **Para perfis que não têm acesso ao Sales Insight**:
 
-   * Nas Configurações personalizadas do aplicativo, desmarque Marketo para ocultar o aplicativo Marketo
-   * Em Configurações da guia, altere as guias Marketo para Tabulação oculta
-   * Nas Permissões de objeto personalizado, desmarque Ler, Criar, Editar e Excluir na Configuração do Marketo Sales Insight
+   * Em Configurações da guia, altere as guias Marketo para Guia Oculto
+   * Em Permissões de objeto personalizado, desmarque Ler, Criar, Editar e Excluir na Configuração do Marketo Sales Insight
 
 
 1. Clique em **Salvar** quando terminar.
