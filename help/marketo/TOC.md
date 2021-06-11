@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: bcb477061434bbd8f80bde108ba1a13e7764113a
+source-git-commit: 2c4291548a19df230fa347f1a93f49ea02360419
 workflow-type: tm+mt
 source-wordcount: '8031'
 ht-degree: 5%
@@ -622,6 +622,8 @@ ht-degree: 5%
             + [Criar um evento com o GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Criar um Evento com Reunião Web de Nível 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Criar um evento com o ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+            + [Criar um evento com WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+            + [Criar um evento com zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Crie um evento com o adaptador Marketo ON24 {#create-an-event-with-the-marketo-on24-adapter}
                + [Crie um evento com o adaptador Marketo ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Configurar configurações do evento e sincronizar o Marketo com seu webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
@@ -634,8 +636,6 @@ ht-degree: 5%
                + [Teste sua integração de evento ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
                + [Como entender os eventos do adaptador Marketo On24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [Noções básicas sobre os status do programa do webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
-            + [Criar um evento com WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-            + [Criar um evento com zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
       + Facebook {#facebook}
          + [Adicionar leads a um público-alvo personalizado no Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Criar um público-alvo personalizado no Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
