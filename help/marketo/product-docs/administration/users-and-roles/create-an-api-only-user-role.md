@@ -2,8 +2,7 @@
 unique-page-id: 2360203
 description: Criar uma função de usuário somente de API - Documentos do Marketo - Documentação do produto
 title: Criar uma função de usuário somente de API
-translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 1cb8541afadb9a2c049d815fbc8d35a5e1bf01f6
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -11,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# Criar uma função de usuário somente API {#create-an-api-only-user-role}
+# Criar uma função de usuário somente de API {#create-an-api-only-user-role}
 
 Se quiser integrar com o Marketo por meio da [REST API](https://developers.marketo.com/documentation/rest/), a prática recomendada é [atribuir a um usuário a função Somente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) e [criar um serviço personalizado para uso com a ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Veja como criar a função de usuário somente API.
 
@@ -41,4 +40,4 @@ Se quiser integrar com o Marketo por meio da [REST API](https://developers.marke
 
 >[!MORELIKETHIS]
 >
->Muito bem! Agora vamos [criar um usuário Somente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+>Muito bem! Agora vamos [criar um usuário Somente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
