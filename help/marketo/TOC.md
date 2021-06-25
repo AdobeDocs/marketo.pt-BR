@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 2c4291548a19df230fa347f1a93f49ea02360419
+source-git-commit: abdbe8a7bd48af62b68ff51c24ffcf9d19469a80
 workflow-type: tm+mt
-source-wordcount: '8031'
+source-wordcount: '8043'
 ht-degree: 5%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 5%
             + [Criar uma hierarquia](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [Listas de contas](product-docs/target-account-management/target/account-lists.md)
          + [Listas inteligentes de contas](product-docs/target-account-management/target/account-smart-lists.md)
-         + [Criar um público-alvo correspondente no LinkedIn](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
+         + [Criar um público-alvo compatível com a conta no LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
       + Envolver {#engage}
          + [Filtros de conta](product-docs/target-account-management/engage/account-filters.md)
          + [Acionadores da conta](product-docs/target-account-management/engage/account-triggers.md)
@@ -392,6 +392,7 @@ ht-degree: 5%
          + Listas estáticas {#static-lists}
             + [Criar uma lista estática](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Enviar uma lista para o Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
+            + [Encaminhar um segmento do Adobe Experience Cloud para uma lista estática do Marketo](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list.md)
             + [Noções básicas sobre listas estáticas](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programas {#programs}
          + Criação de programas {#creating-programs}
@@ -807,9 +808,9 @@ ht-degree: 5%
                + [Modelo 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modelo 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modelo 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modelo 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modelo 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modelo 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modelo 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1310,6 +1311,7 @@ ht-degree: 5%
          + Configuração {#configuration}
             + [Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Configurar o Marketo Sales Insight no Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+            + [Configuração para clientes existentes](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Guia Configuração do Marketo Sales Insight no Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Página de informações de vendas para administradores do Marketo](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Configuração do insight de vendas para sua equipe](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
@@ -1325,7 +1327,6 @@ ht-degree: 5%
                + [Adicionar a guia e os botões do Marketo Sales Insight ao Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Ações em massa no Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [Enviar um email para vários registros no Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-               + [Configuração para clientes existentes](product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)
                + [Visão geral de recursos do painel do Insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + Suporte de idioma {#language-support}
                + [Preparar informações de vendas para suporte multilíngue no Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
