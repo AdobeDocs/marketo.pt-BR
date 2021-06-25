@@ -1,74 +1,70 @@
 ---
 unique-page-id: 2949874
-description: Criar um Evento com o GotoWebinar - Documentos do Marketing - Documentação do produto
-title: Criar um Evento com GotoWebinar
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Criar um evento com o GotoWebinar - Documentos do Marketo - Documentação do produto
+title: Criar um evento com o GotoWebinar
+exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
+source-git-commit: 8b0625a7192a80986bc4295726cd13473493ddd7
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
 
 ---
 
-
-# Criar um Evento com GotoWebinar {#create-an-event-with-gotowebinar}
+# Criar um evento com o GotoWebinar {#create-an-event-with-gotowebinar}
 
 >[!PREREQUISITES]
 >
->* [Adicionar GoToWebinar como um serviço do LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
->* [Criar um novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Defina as [ações de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)apropriadas para rastrear o envolvimento
+>* [Adicionar o GoToWebinar como um serviço do LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
+* [Criar um novo programa de evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+* Defina as [ações de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)apropriadas para rastrear o envolvimento
 
 
-Primeiro crie seu webinar em GoToWebinar. Determinadas configurações na criação do GoToWebinar são usadas pelo Marketo e algumas são usadas apenas por GoToWebinar.
+Primeiro crie seu webinário em GoToWebinar. Determinadas configurações na criação do seu GoToWebinar são usadas pelo Marketo e algumas são usadas apenas pelo GoToWebinar.
 
-Depois de criar um evento de marketing e associar o GoToWebinar a ele, os sistemas poderão compartilhar informações de inscrição e presença.
+Depois de criar um evento do Marketo e associar o GoToWebinar a ele, os sistemas poderão compartilhar informações de registro e presença.
 
-Abaixo está uma lista das configurações usadas por Marketo.
+Abaixo está uma lista das configurações usadas pelo Marketo.
 
 ## Título e descrição {#title-and-description}
 
-**Nome**  do webinar - insira o nome do webinar. Este nome será visível no Marketo.
+**Nome do webinar**  - digite o nome do webinar. Esse nome estará visível no Marketo.
 
-**Descrição**  (opcional) - insira a descrição do webinar. A descrição será`visualizável no Marketo.
+**Descrição**  (opcional) - insira a descrição do webinário. A descrição estará visível no Marketo.
 
 ![](assets/image2015-5-28-15-3a1-3a36.png)
 
 ## Data e hora {#date-time}
 
-Digite as seguintes informações para seu webinar e ele será colocado no Marketo por meio do adaptador. Se você fizer alterações nessas informações, deverá clicar no link &quot;**Atualizar do provedor de webinar**&quot; em **Ações de Evento**, para que o Marketo possa ver as alterações.
+Digite as seguintes informações para o seu webinário que será extraído para o Marketo através do adaptador. Se você fizer alterações nessas informações, clique no link &quot;**Refresh from Webinar Provider**&quot; em **Event Actions**, para que o Marketo possa ver as alterações.
 
-**Data**  do start - insira a data do start. Isso será visível em Marketo.
+**Data de início**  - insira a data de início. Isso estará visível no Marketo.
 
-**Hora**  do start - entre na hora do start. Isso será visível em Marketo.
+**Hora de início**  - insira a hora de início. Isso estará visível no Marketo.
 
-**Hora**  de término - insira a hora de término. Isso será visível em Marketo.
+**Hora de término**  - insira a hora de término. Isso estará visível no Marketo.
 
-**Fuso horário**  - selecione o fuso horário aplicável. Será visível em Marketo.
+**Fuso horário**  - selecione o fuso horário aplicável. Ele estará visível no Marketo.
 
-**Digite -** definido como  **Uma sessão**.
+**Digite -** defina como  **Uma sessão**.
 
 ![](assets/image2015-5-28-15-3a7-3a1.png)
 
 >[!NOTE]
->
->No momento, o Marketo não suporta webinars recorrentes. Você deve configurar uma única sessão entre cada Evento de marketing e o webinar GoToWebinar.
+No momento, a Marketo não oferece suporte a webinars recorrentes. Você deve configurar uma única sessão entre cada Evento do Marketo e o webinar do GoToWebinar.
 
 >[!TIP]
->
->Se precisar de ajuda adicional do GoToWebinar, visite o [Site de Ajuda](https://support.logmeininc.com/gotowebinar).
+Se precisar de ajuda adicional do GoToWebinar, visite o [Site de Ajuda](https://support.logmeininc.com/gotowebinar).
 
-Agora, vamos pular para o Marketo!
+Agora vamos entrar no Marketo!
 
-1. Selecione um evento. Clique em **Ações do Evento** e escolha **Configurações do Evento**.
+1. Selecione um evento. Clique em **Ações de Evento** e escolha **Configurações de Evento**.
 
    ![](assets/image2015-5-14-14-3a53-3a10.png)
 
    >[!NOTE]
-   >
-   >O tipo de canal do evento selecionado deve ser **webinar**.
+   O tipo de canal do evento selecionado deve ser **webinar**.
 
-1. Escolha **GoToWebinar** na Lista **Parceiro de Eventos**.
+1. Escolha **IrParaWebinar** na Lista **Parceiro de Eventos**.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -76,7 +72,7 @@ Agora, vamos pular para o Marketo!
 
    ![](assets/rtaimage-2.png)
 
-1. Selecione o webinar.
+1. Selecione o webinário.
 
    ![](assets/image2015-5-14-14-3a57-3a31.png)
 
@@ -84,38 +80,32 @@ Agora, vamos pular para o Marketo!
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. Excelente! Agora o evento é sincronizado e programado por **GoToWebinar**.
+1. Excelente! Agora, o evento é sincronizado e agendado por **GoToWebinar**.
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
    >[!NOTE]
-   >
-   >Os campos que o Marketo envia são: Nome, Sobrenome, Endereço de email. Esses campos são obrigatórios e não devem estar vazios.
+   Os campos que o Marketo envia são: Nome, Sobrenome, Endereço De Email. Esses campos são obrigatórios e não devem estar vazios.
 
    >[!TIP]
-   >
-   >Para preencher seu email de confirmação com este URL exclusivo, use o seguinte token no email: `{{member.webinar url}}`. Quando o URL de confirmação é enviado, esse token resolve automaticamente o URL de confirmação exclusivo da pessoa.
-   >
-   >Defina seu e-mail de confirmação como **Operacional** para garantir que as pessoas que se registram e podem ser canceladas ainda recebam suas informações de confirmação.
+   Para preencher o email de confirmação com esse URL exclusivo, use o seguinte token no email: `{{member.webinar url}}`. Quando o URL de confirmação é enviado, esse token é automaticamente resolvido para o URL de confirmação exclusivo da pessoa.
+   Defina seu email de confirmação para **Operacional** para garantir que as pessoas que se registram e podem ser canceladas ainda recebam suas informações de confirmação.
 
    ![](assets/goto-webinar.png)
 
    >[!CAUTION]
-   >
-   >Evite usar programas de e-mail aninhados para enviar seus e-mails de confirmação. Em vez disso, use a campanha inteligente do programa do evento, como mostrado acima.
+   Evite usar programas de email aninhados para enviar seus emails de confirmação. Em vez disso, use a campanha inteligente do programa de eventos, conforme mostrado acima.
 
    >[!TIP]
-   >
-   >Pode levar até 48 horas para que os dados apareçam no Marketo. Se, depois de aguardar tanto tempo, você ainda não vir nada, selecione **Atualizar do Provedor de Webinar** no menu Ações do Evento na guia **Resumo** do evento.
+   Pode levar até 48 horas para que os dados apareçam no Marketo. Se, depois de esperar tanto tempo que você ainda não vir nada, selecione **Refresh from Webinar Provider** no menu Event Actions na guia **Summary** do seu evento.
 
-As pessoas que se inscreverem no seu webinar serão encaminhadas para o seu provedor de webinar por meio da etapa de fluxo Alterar status do Programa quando o Novo status estiver definido como &quot;Registrado&quot;. Nenhum outro status empurrará a pessoa. Além disso, certifique-se de fazer a etapa 1 do fluxo Alterar status do Programa e a etapa 2 do fluxo de Enviar e-mail.
+As pessoas que se inscreverem no seu webinário serão encaminhadas para o seu provedor de webinário por meio da etapa de fluxo Alterar status do programa , quando o Novo status for definido como &quot;Registrado&quot;. Nenhum outro status empurrará a pessoa. Além disso, certifique-se de fazer a etapa 1 do fluxo Alterar status do programa e Enviar fluxo de email etapa 2.
 
-## Exibindo o Agendamento {#viewing-the-schedule}
+## Exibindo a Programação  {#viewing-the-schedule}
 
-Na visualização do cronograma do programa, clique na entrada do calendário do evento. Você pode ver o cronograma no lado direito da tela.
+Na exibição do agendamento do programa, clique na entrada do calendário do seu evento. Você pode ver o cronograma no lado direito da tela.
 
 >[!NOTE]
->
->Para alterar a programação do evento, é necessário editar o webinar em GoToWebinar.
+Para alterar seu agendamento de evento, você precisará editar o webinar em GoToWebinar.
 
 ![](assets/image2015-5-14-15-3a3-3a13.png)
