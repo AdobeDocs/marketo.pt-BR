@@ -1,10 +1,9 @@
 ---
-archetype: end-user
+solution: Marketo, Marketo Engage, Marketo Sky
 user-guide-title: '[!DNL Sky] Documentação do produto'
 feature-set: Marketo Sky
 index: y
-translation-type: tm+mt
-source-git-commit: e51d81dbf27bea8667ffafdcc356cf3f6b70c2b1
+source-git-commit: 09a443005369aafda4181bd6875b3c61067e504b
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 4%
@@ -51,7 +50,7 @@ ht-degree: 4%
    + [Noções básicas sobre programas de envolvimento](understanding-engagement-programs.md)
    + [Como entender a pontuação de engajamento](understanding-the-engagement-score.md)
    + [Uso de um programa em um fluxo de programa de envolvimento](using-a-program-in-an-engagement-program-stream.md)
-+ Rótulos {#labels}
++ RÓTULOS {#labels}
    + [Adicionar e remover rótulos](add-and-remove-labels.md)
    + [Copiar rótulos do original para o clone](copy-labels-from-original-to-clone.md)
    + [Copiar rótulos de pai para filho](copy-labels-from-parent-to-child.md)
