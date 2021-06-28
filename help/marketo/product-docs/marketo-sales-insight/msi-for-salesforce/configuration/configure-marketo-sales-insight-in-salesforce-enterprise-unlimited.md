@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited - Documentos da Marketo - Documentação do produto
 title: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: fbd8640d55a9a38936d060086f361b2281add47f
+source-git-commit: 2e0590d576e5f3ff5ae5e49854a33f04f74a6616
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '824'
 ht-degree: 6%
 
 ---
@@ -24,9 +24,7 @@ Estas são as etapas que você precisa seguir para configurar o Marketo Sales In
 
 ## Configurar o Sales Insight no Marketo {#configure-sales-insight-in-marketo}
 
-1. Abra uma nova janela do navegador para obter as credenciais do Marketo Sales Insight de sua conta do Marketo.
-
-1. Vá para a área Admin e selecione **Sales Insight**.
+1. Obtenha suas credenciais do MSI no Marketo. Vá para a área Admin e selecione **Sales Insight**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
@@ -48,6 +46,9 @@ Estas são as etapas que você precisa seguir para configurar o Marketo Sales In
 1. Você verá um pop-up de confirmação. Clique em **OK**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
+
+   >[!TIP]
+   Mantenha essa janela aberta. Você precisará dessas informações mais tarde no Salesforce.
 
 ## Configurar o Sales Insight no Salesforce {#configure-sales-insight-in-salesforce}
 
@@ -71,50 +72,10 @@ Estas são as etapas que você precisa seguir para configurar o Marketo Sales In
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Insira o Nome do site remoto (pode ser algo como &quot;MarketoRestAPI&quot;). Insira o URL do site remoto, que é o URL da sua API do painel Configuração da API restante no Marketo. Clique em **Salvar**. Agora você criou configurações de site remoto para a API Rest.
-
-## Configurar o Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. Faça logon na instância do Marketo e clique em **Admin**.
-
-   ![](assets/login-admin.png)
-
-1. Clique em **Sales Insight**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33.png)
-
-1. Clique em **Editar configuração da API**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0.png)
-
-1. Insira uma **Chave secreta da API** e clique em **Salvar**.
-
-   >[!CAUTION]
-   Não use um E comercial (&amp;) em sua Chave secreta da API.
-
-   ![](assets/image2015-5-27-16-3a36-3a56.png)
-
-   >[!TIP]
-   Mantenha essa janela aberta. Você precisará dessas informações posteriormente no Salesforce.
-
-1. Volte para Salesforce e clique em **Setup**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
-
-1. Procure por &quot;local remoto&quot; e clique em **Configuração remota de site** em **Controles de segurança**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. Clique em **Novo Site Remoto**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. Insira **Nome do Site Remoto** e **URL do Site Remoto**, em seguida clique em **Guardar**.
-
-   ![](assets/remote-site.png)
+1. Insira o Nome do site remoto (pode ser algo como &quot;MarketoAPI&quot;). Insira o URL do site remoto, que é o URL da sua API do painel Configuração da API restante no Marketo. Clique em **Salvar**. Agora você criou configurações de site remoto para a API Rest.
 
    >[!NOTE]
-   Você escolhe seu **Nome do site remoto** (a API do Marketo é usada aqui). O **URL do site remoto** pode ser encontrado no campo Host do Marketo da caixa de diálogo Editar configuração da API na Etapa 4.
+   __ Escolha o Nome do site  **remoto**  (a API do Marketo é usada aqui). O **URL do site remoto** pode ser encontrado no campo Host do Marketo da caixa de diálogo Editar configuração da API na Etapa 3 da seção &quot;Configurar insight de vendas no Marketo&quot;.
 
 ## Personalizar layouts de página {#customize-page-layouts}
 
