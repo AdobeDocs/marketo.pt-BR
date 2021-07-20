@@ -3,8 +3,7 @@ unique-page-id: 2360356
 description: Adicionar logon único a um portal - Documentos do Marketo - Documentação do produto
 title: Adicionar logon único a um portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 1%
@@ -30,9 +29,9 @@ Quando o SSO estiver ativado, o IdP poderá validar as credenciais de um usuári
 ## Como enviar a solicitação {#how-to-send-the-request}
 
 * Envie a solicitação SSO, que é uma resposta SAML, para `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Como o URL de público-alvo da controladora. Usar `https://saml.marketo.com/sp`
-* Se estiver usando o atributo SPNameQualifier , defina o elemento NameID para Subject como `https://saml.marketo.com/sp`
-* Se estiver federando várias assinaturas do Marketo para o mesmo provedor de SSO, você poderá usar urls de SP exclusivas para cada sub do Marketo com o formato `https://saml.marketo.com/sp/<munchkin_id>`
+* Como o URL de público-alvo da controladora. Usar `http://saml.marketo.com/sp`
+* Se estiver usando o atributo SPNameQualifier , defina o elemento NameID para Subject como `http://saml.marketo.com/sp`
+* Se estiver federando várias assinaturas do Marketo para o mesmo provedor de SSO, você poderá usar urls de SP exclusivas para cada sub do Marketo com o formato `http://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
@@ -51,7 +50,7 @@ Quando o SSO estiver ativado, o IdP poderá validar as credenciais de um usuári
 >
 >Antes de começar, tenha seu Certificado de provedor de identidade no formato X.509 e na extensão .crt, .der ou .cer.
 
-## Atualizar as configurações do SAML {#update-saml-settings}
+## Atualizar configurações do SAML {#update-saml-settings}
 
 O SSO é desativado por padrão. Siga estas etapas para habilitar o SAML e configurá-lo.
 
@@ -83,7 +82,7 @@ O SSO é desativado por padrão. Siga estas etapas para habilitar o SAML e confi
 
    ![](assets/image2014-9-24-14-3a38-3a22.png)
 
-## Atualizar as configurações da página de redirecionamento {#update-redirect-page-settings}
+## Atualizar configurações da página de redirecionamento {#update-redirect-page-settings}
 
 1. Na seção **Redirecionar páginas**, clique em **Editar**.
 
@@ -108,6 +107,6 @@ O SSO é desativado por padrão. Siga estas etapas para habilitar o SAML e confi
 >[!MORELIKETHIS]
 >
 >* [Uso de uma ID universal para logon de assinatura](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [Login de usuário restrito apenas a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Convidar usuários do Marketo para duas instâncias com ID universal](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+* [Login de usuário restrito apenas a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+* [Convidar usuários do Marketo para duas instâncias com ID universal](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
