@@ -1,174 +1,173 @@
 ---
 unique-page-id: 42762514
-description: Visão geral dos recursos do Painel do Insights - Documentos do Marketing - Documentação do produto
-title: Visão geral dos recursos do Painel Insights
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Visão geral de recursos do painel de insights - Documentos do Marketo - Documentação do produto
+title: Visão geral de recursos do painel do Insights
+exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
+source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
 workflow-type: tm+mt
 source-wordcount: '1460'
 ht-degree: 0%
 
 ---
 
+# Visão geral de recursos do painel do Insights {#insights-dashboard-feature-overview}
 
-# Visão geral dos recursos do Painel do Insights {#insights-dashboard-feature-overview}
-
-Saiba mais sobre os recursos disponíveis no painel Sales Insights.
+Saiba mais sobre os recursos disponíveis no painel de insights de vendas.
 
 >[!PREREQUISITES]
 >
->Você deve ter o pacote MSI SFDC mais recente e [configuração](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
+>Você deve ter o pacote MSI SFDC mais recente e [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
-## Layout de contato {#contact-layout}
+## Layout do contato {#contact-layout}
 
-**Grade de velocidade de envolvimento**
+**Grade da velocidade de envolvimento**
 
-* Esta rede inteligente inclui Momentos interessantes, Email e Atividade na Web nos últimos 90 dias
-* O usuário pode optar por &quot;Mostrar conta&quot;, isso irá adicionar todos os Momentos Interessantes de nível de conta, Email e Atividade da Web na visualização de contato
-* O usuário pode destacar uma semana específica para ver atividades dentro dessa semana
-* Visualização padrão: A semana atual está selecionada
+* Essa grade inteligente inclui Momentos interessantes, Email e Atividade da Web nos últimos 90 dias
+* O usuário pode optar por &quot;Mostrar a conta&quot;, isso adicionará todos os Momentos interessantes no nível da conta, Email e Atividade da Web na exibição de contato
+* O usuário pode destacar uma semana específica para ver as atividades dentro dessa semana
+* Exibição padrão: A semana atual está selecionada
 
 **Detalhamento e resumo do envolvimento**
 
-* Analisar cartões de atividade para Momentos interessantes, Email e Atividade na Web
-* Cartão de Atividade de Momentos Interessantes - Inclui a opção de assinatura
-* Cartão de Atividade de e-mail - Inclui a opção de Pré-visualização
-* Cartão de Atividade da Web - Inclui a capacidade de clicar no link
-* A barra Resumo semanal mostrará Momentos interessantes, Email e Atividade da Web para essa semana. Cada ícone é clicável e pode ser usado como filtros para mostrar atividades específicas
-* Visualização padrão: Esta é uma lista de atividades da visualização atual
+* Drill-down dos cartões de atividade para Interessantes, Email e Atividade da Web
+* Momentos interessantes Cartão de atividade - Inclui a opção de assinatura
+* Cartão de atividade de email - Inclui a opção de visualização
+* Cartão de atividade da Web - Inclui a capacidade de clicar no link
+* A barra de Resumo semanal mostrará Momentos interessantes, Email e Atividade da Web naquela semana. Cada ícone é clicável e pode ser usado como filtros para mostrar atividades específicas
+* Exibição padrão: Esta é uma lista de atividades da exibição atual
 
-**Campanhas e Eventos de e-mail futuros**
+**Campanhas e eventos de email futuros**
 
-Guia Campanhas de email:
+Guia Campanhas de email :
 
-* Inclui campanhas que fazem parte de programas de e-mail ou programas padrão programados nos próximos 90 dias
-* Não específico do contato/cliente potencial (ou seja, a lista de campanhas é uma lista genérica de todas as campanhas de email agendadas na instância de Marketo). A lista de campanhas em todos os painéis de cliente potencial, contato, conta e oportunidade será a mesma
-* Se a recorrência da campanha for tal que ela seja executada mais de três vezes nos próximos 90 dias, somente as próximas três execuções serão mostradas em um determinado momento (semelhante ao comportamento no Marketo)
-* A placa de detalhes da atividade nesta seção terá uma opção de pré-visualização. Se o fluxo incluir várias etapas de envio de e-mail, todos os e-mails estarão disponíveis para a pré-visualização. Na etapa Enviar fluxo de email, se houver várias &quot;opções de email&quot;, a opção padrão estará disponível para pré-visualização
+* Inclui campanhas que fazem parte de programas de email ou programas padrão programados nos próximos 90 dias
+* Não específico do contato/lead (ou seja, a lista de campanhas é uma lista genérica de todas as campanhas de email agendadas na instância do Marketo). A lista de campanhas em todos os painéis de lead, contato, conta e oportunidade será a mesma
+* Se a recorrência da campanha for tal que seja executada mais de três vezes nos próximos 90 dias, somente as próximas três execuções serão mostradas em um determinado momento (semelhante ao comportamento no Marketo)
+* O cartão de detalhes da atividade nesta seção terá uma opção de visualização. Se o fluxo incluir várias etapas de envio de email, todos os emails estarão disponíveis para visualização. Na etapa enviar fluxo de email , se houver várias &quot;opções de email&quot;, a opção padrão estará disponível para visualização
 * Os filtros incluem &quot;Pesquisa&quot; e &quot;Intervalo de datas&quot;
 
 ![](assets/three.png)
 
-guia evento:
+Guia Evento:
 
-* Inclui Programas de Eventos programados nos próximos 90 dias
+* Inclui programas de eventos programados nos próximos 90 dias
 * Use a opção de filtro para ver todos os eventos/eventos convidados (com base nas configurações de Admin)
 * A seleção de eventos convidados mostrará eventos para os quais um contato específico foi convidado, juntamente com o status de membro
-* Selecionar todos os eventos mostrará a lista dos eventos programados nos próximos 90 dias
-* O cartão de detalhes da atividade nesta seção tem a opção de pré-visualização
+* Selecionar todos os eventos mostrará a lista de eventos agendados nos próximos 90 dias
+* O cartão de detalhes da atividade nesta seção tem a opção de visualização
 * O filtro inclui &quot;Pesquisa&quot;, &quot;Mostrar somente eventos convidados&quot; e &quot;Intervalo de datas&quot;
 
 ![](assets/two.png)
 
-## Layout principal {#lead-layout}
+## Layout de lead {#lead-layout}
 
-**Grade de velocidade de envolvimento**
+**Grade da velocidade de envolvimento**
 
-* Esta rede inteligente inclui Momentos interessantes, Email e Atividade na Web nos últimos 90 dias
-* O usuário pode destacar uma semana específica para ver atividades dentro dessa semana
-* Visualização padrão: A semana atual está selecionada
-* O recurso &quot;Mostrar Atividade da conta&quot; não está disponível em clientes potenciais, pois não faz parte de nenhuma conta no Salesforce até que seja convertido em um contato
+* Essa grade inteligente inclui Momentos interessantes, Email e Atividade da Web nos últimos 90 dias
+* O usuário pode destacar uma semana específica para ver as atividades dentro dessa semana
+* Exibição padrão: A semana atual está selecionada
+* O recurso &quot;Mostrar atividade da conta&quot; não está disponível nos leads, pois não faz parte de nenhuma conta do Salesforce até que seja convertido em um contato
 
 **Detalhamento e resumo do envolvimento**
 
-* Cartões de atividade detalhados para momentos interessantes, e-mail e Atividade na Web
-* Cartão de Atividade de Momentos Interessantes - Inclui a opção de assinatura
-* Cartão de Atividade de e-mail - Inclui a opção de Pré-visualização
-* Cartão de Atividade da Web - Inclui a capacidade de clicar no link
-* A barra Resumo semanal mostrará Momentos interessantes, Email e Atividade da Web para essa semana. Cada ícone é clicável e pode ser usado como filtros para mostrar atividades específicas
-* Visualização padrão: Esta é uma lista de atividades da visualização atual
+* Cartões de atividade detalhados para Momentos interessantes, Email e Atividade da Web
+* Momentos interessantes Cartão de atividade - Inclui a opção de assinatura
+* Cartão de atividade de email - Inclui a opção de visualização
+* Cartão de atividade da Web - Inclui a capacidade de clicar no link
+* A barra de Resumo semanal mostrará Momentos interessantes, Email e Atividade da Web naquela semana. Cada ícone é clicável e pode ser usado como filtros para mostrar atividades específicas
+* Exibição padrão: Esta é uma lista de atividades da exibição atual
 
-**Campanhas e Eventos de e-mail futuros:**
+**Campanhas e eventos de email futuros:**
 
-Guia Campanhas de email:
+Guia Campanhas de email :
 
-* Inclui campanhas que fazem parte de programas de e-mail ou programas padrão programados nos próximos 90 dias
-* Não específico do contato/cliente potencial (ou seja, a lista de campanhas é uma lista genérica de todas as campanhas de email agendadas na instância de Marketo). A lista de campanhas em todos os painéis de cliente potencial, contato, conta e oportunidade será a mesma
-* Se a recorrência da campanha for tal que ela seja executada mais de três vezes nos próximos 90 dias, somente as próximas três execuções serão mostradas em um determinado momento (semelhante ao comportamento no Marketo)
-* A placa de detalhes da atividade nesta seção terá uma opção de pré-visualização. Se o fluxo incluir várias etapas de envio de e-mail, todos os e-mails estarão disponíveis para a pré-visualização. Na etapa Enviar fluxo de email, se houver várias &quot;opções de email&quot;, a opção padrão estará disponível para pré-visualização
+* Inclui campanhas que fazem parte de programas de email ou programas padrão programados nos próximos 90 dias
+* Não específico do contato/lead (ou seja, a lista de campanhas é uma lista genérica de todas as campanhas de email agendadas na instância do Marketo). A lista de campanhas em todos os painéis de lead, contato, conta e oportunidade será a mesma
+* Se a recorrência da campanha for tal que seja executada mais de três vezes nos próximos 90 dias, somente as próximas três execuções serão mostradas em um determinado momento (semelhante ao comportamento no Marketo)
+* O cartão de detalhes da atividade nesta seção terá uma opção de visualização. Se o fluxo incluir várias etapas de envio de email, todos os emails estarão disponíveis para visualização. Na etapa enviar fluxo de email , se houver várias &quot;opções de email&quot;, a opção padrão estará disponível para visualização
 * Os filtros incluem &quot;Pesquisa&quot; e &quot;Intervalo de datas&quot;
 
 ![](assets/five.png)
 
-guia evento:
+Guia Evento:
 
-* Inclui Programas de Eventos programados nos próximos 90 dias
+* Inclui programas de eventos programados nos próximos 90 dias
 * Use a opção de filtro para ver todos os eventos/eventos convidados (com base nas configurações de Admin)
 * A seleção de eventos convidados mostrará eventos para os quais um contato específico foi convidado, juntamente com o status de membro
-* Selecionar todos os eventos mostrará a lista dos eventos programados nos próximos 90 dias
-* O cartão de detalhes da atividade nesta seção tem a opção de pré-visualização
+* Selecionar todos os eventos mostrará a lista de eventos agendados nos próximos 90 dias
+* O cartão de detalhes da atividade nesta seção tem a opção de visualização
 * O filtro inclui &quot;Pesquisa&quot;, &quot;Mostrar somente eventos convidados&quot; e &quot;Intervalo de datas&quot;
 
 ![](assets/four.png)
 
 ## Layout da conta {#account-layout}
 
-**Grade de velocidade de envolvimento**
+**Grade da velocidade de envolvimento**
 
 * Essa grade inteligente inclui Momentos interessantes, Email e Atividade da Web nos últimos 90 dias para todos os contatos da conta
-* O usuário pode destacar uma semana específica para ver atividades dentro dessa semana
-* Visualização padrão: A semana atual está selecionada
+* O usuário pode destacar uma semana específica para ver as atividades dentro dessa semana
+* Exibição padrão: A semana atual está selecionada
 
 **Detalhamento e resumo do envolvimento**
 
-* Cartões de atividade detalhados para Momentos interessantes, Email e Atividade na Web, incluindo o nome do contato
-* Cartão de Atividade de Momentos Interessantes - Inclui a opção de assinatura
-* Cartão de Atividade de e-mail - Inclui a opção de Pré-visualização
-* Cartão de Atividade da Web - Inclui a capacidade de clicar no link
-* A barra Resumo semanal mostrará Momentos interessantes, Email e Atividade da Web para essa semana. Cada ícone é clicável e pode ser usado como filtros para mostrar atividades específicas
-* Visualização padrão: Esta é uma lista de atividades da visualização atual
+* Drill-down dos cartões de atividade para Momentos interessantes, Email e Atividade da Web, incluindo o nome do contato
+* Momentos interessantes Cartão de atividade - Inclui a opção de assinatura
+* Cartão de atividade de email - Inclui a opção de visualização
+* Cartão de atividade da Web - Inclui a capacidade de clicar no link
+* A barra de Resumo semanal mostrará Momentos interessantes, Email e Atividade da Web naquela semana. Cada ícone é clicável e pode ser usado como filtros para mostrar atividades específicas
+* Exibição padrão: Esta é uma lista de atividades da exibição atual
 
-**Campanhas e Eventos de e-mail futuros**
+**Campanhas e eventos de email futuros**
 
-Guia Campanhas de email:
+Guia Campanhas de email :
 
-* Inclui campanhas que fazem parte de programas de e-mail ou programas padrão programados nos próximos 90 dias
-* Não específico do contato/cliente potencial (ou seja, a lista de campanhas é uma lista genérica de todas as campanhas de email agendadas na instância de Marketo). A lista de campanhas em todos os painéis de cliente potencial, contato, conta e oportunidade será a mesma
-* Se a recorrência da campanha for tal que ela seja executada mais de três vezes nos próximos 90 dias, somente as próximas três execuções serão mostradas em um determinado momento (semelhante ao comportamento no Marketo)
-* A placa de detalhes da atividade nesta seção terá uma opção de pré-visualização. Se o fluxo incluir várias etapas de envio de e-mail, todos os e-mails estarão disponíveis para a pré-visualização. Na etapa Enviar fluxo de email, se houver várias &quot;opções de email&quot;, a opção padrão estará disponível para pré-visualização
+* Inclui campanhas que fazem parte de programas de email ou programas padrão programados nos próximos 90 dias
+* Não específico do contato/lead (ou seja, a lista de campanhas é uma lista genérica de todas as campanhas de email agendadas na instância do Marketo). A lista de campanhas em todos os painéis de lead, contato, conta e oportunidade será a mesma
+* Se a recorrência da campanha for tal que seja executada mais de três vezes nos próximos 90 dias, somente as próximas três execuções serão mostradas em um determinado momento (semelhante ao comportamento no Marketo)
+* O cartão de detalhes da atividade nesta seção terá uma opção de visualização. Se o fluxo incluir várias etapas de envio de email, todos os emails estarão disponíveis para visualização. Na etapa enviar fluxo de email , se houver várias &quot;opções de email&quot;, a opção padrão estará disponível para visualização
 * Os filtros incluem &quot;Pesquisa&quot; e &quot;Intervalo de datas&quot;
 
-guia evento:
+Guia Evento:
 
-* Inclui Programas de Eventos programados nos próximos 90 dias
+* Inclui programas de eventos programados nos próximos 90 dias
 * Use a opção de filtro para ver todos os eventos/eventos convidados (com base nas configurações de Admin)
 * A seleção de eventos convidados mostrará eventos para os quais um contato específico foi convidado, juntamente com o status de membro
-* Selecionar todos os eventos mostrará a lista dos eventos programados nos próximos 90 dias
-* O cartão de detalhes da atividade nesta seção tem a opção de pré-visualização
+* Selecionar todos os eventos mostrará a lista de eventos agendados nos próximos 90 dias
+* O cartão de detalhes da atividade nesta seção tem a opção de visualização
 * O filtro inclui &quot;Pesquisa&quot;, &quot;Mostrar somente eventos convidados&quot; e &quot;Intervalo de datas&quot;
 
-## Layout de oportunidade {#opportunity-layout}
+## Layout da Oportunidade {#opportunity-layout}
 
-**Grade de velocidade de envolvimento**
+**Grade da velocidade de envolvimento**
 
-* Essa grade inteligente inclui Momentos interessantes, Email e Atividade da Web nos últimos 90 dias para todos os contatos na Oportunidade
-* O usuário pode destacar uma semana específica para ver atividades dentro dessa semana
-* Visualização padrão: A semana atual está selecionada
+* Essa grade inteligente inclui Momentos interessantes, Email e Atividade da Web nos últimos 90 dias para todos os contatos da Oportunidade
+* O usuário pode destacar uma semana específica para ver as atividades dentro dessa semana
+* Exibição padrão: A semana atual está selecionada
 
 **Detalhamento e resumo do envolvimento**
 
-* Cartões de atividade detalhados para Momentos interessantes, Email e Atividade na Web, incluindo o nome do contato
-* Cartão de Atividade de Momentos Interessantes - Inclui a opção de assinatura
-* Cartão de Atividade de e-mail - Inclui a opção de Pré-visualização
-* Cartão de Atividade da Web - Inclui a capacidade de clicar no link
-* A barra Resumo semanal mostrará Momentos interessantes, Email e Atividade da Web para essa semana. Cada ícone é clicável e pode ser usado como filtros para mostrar atividades específicas
-* Visualização padrão: Esta é uma lista de atividades da visualização atual
+* Drill-down dos cartões de atividade para Momentos interessantes, Email e Atividade da Web, incluindo o nome do contato
+* Momentos interessantes Cartão de atividade - Inclui a opção de assinatura
+* Cartão de atividade de email - Inclui a opção de visualização
+* Cartão de atividade da Web - Inclui a capacidade de clicar no link
+* A barra de Resumo semanal mostrará Momentos interessantes, Email e Atividade da Web naquela semana. Cada ícone é clicável e pode ser usado como filtros para mostrar atividades específicas
+* Exibição padrão: Esta é uma lista de atividades da exibição atual
 
-**Campanhas de e-mail e** eventos futurosGuia Campanhas de e-mail:
+**Próximas Campanhas e** eventos de email Guia Campanhas de email :
 
-* Inclui campanhas que fazem parte de programas de e-mail ou programas padrão programados nos próximos 90 dias
-* Não específico do contato/cliente potencial (ou seja, a lista de campanhas é uma lista genérica de todas as campanhas de email agendadas na instância de Marketo). A lista de campanhas em todos os painéis de cliente potencial, contato, conta e oportunidade será a mesma
-* Se a recorrência da campanha for tal que ela seja executada mais de três vezes nos próximos 90 dias, somente as próximas três execuções serão mostradas em um determinado momento (semelhante ao comportamento no Marketo)
-* A placa de detalhes da atividade nesta seção terá uma opção de pré-visualização. Se o fluxo incluir várias etapas de envio de e-mail, todos os e-mails estarão disponíveis para a pré-visualização. Na etapa Enviar fluxo de email, se houver várias &quot;opções de email&quot;, a opção padrão estará disponível para pré-visualização
+* Inclui campanhas que fazem parte de programas de email ou programas padrão programados nos próximos 90 dias
+* Não específico do contato/lead (ou seja, a lista de campanhas é uma lista genérica de todas as campanhas de email agendadas na instância do Marketo). A lista de campanhas em todos os painéis de lead, contato, conta e oportunidade será a mesma
+* Se a recorrência da campanha for tal que seja executada mais de três vezes nos próximos 90 dias, somente as próximas três execuções serão mostradas em um determinado momento (semelhante ao comportamento no Marketo)
+* O cartão de detalhes da atividade nesta seção terá uma opção de visualização. Se o fluxo incluir várias etapas de envio de email, todos os emails estarão disponíveis para visualização. Na etapa enviar fluxo de email , se houver várias &quot;opções de email&quot;, a opção padrão estará disponível para visualização
 * Os filtros incluem &quot;Pesquisa&quot; e &quot;Intervalo de datas&quot;
 
-guia evento:
+Guia Evento:
 
-* Inclui Programas de Eventos programados nos próximos 90 dias
+* Inclui programas de eventos programados nos próximos 90 dias
 * Use a opção de filtro para ver todos os eventos/eventos convidados (com base nas configurações de Admin)
 * A seleção de eventos convidados mostrará eventos para os quais um contato específico foi convidado, juntamente com o status de membro
-* Selecionar todos os eventos mostrará a lista dos eventos programados nos próximos 90 dias
-* O cartão de detalhes da atividade nesta seção tem a opção de pré-visualização
+* Selecionar todos os eventos mostrará a lista de eventos agendados nos próximos 90 dias
+* O cartão de detalhes da atividade nesta seção tem a opção de visualização
 * O filtro inclui &quot;Pesquisa&quot;, &quot;Mostrar somente eventos convidados&quot; e &quot;Intervalo de datas&quot;
