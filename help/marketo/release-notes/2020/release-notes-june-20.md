@@ -3,15 +3,14 @@ unique-page-id: 37357276
 description: Notas de versão - 20 de junho - Documentos da Marketo - Documentação do produto
 title: Notas de versão - junho de 2020
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
-translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
 workflow-type: tm+mt
 source-wordcount: '1071'
 ht-degree: 0%
 
 ---
 
-# Notas de versão: 20 de junho {#release-notes-june}
+# Notas de versão: Junho de 20 {#release-notes-june}
 
 Os seguintes recursos estão incluídos na versão de 20 de junho. Verifique sua edição do Marketo para ver a disponibilidade dos recursos.
 
@@ -61,7 +60,7 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 ![(estrela)](assets/yellow-star.png)
 
-* **[Painel de insights para o Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: Estamos reimaginando nosso recurso de Sales Insight com uma nova visibilidade dos eventos e campanhas de marketing futuros para dar aos vendedores a capacidade de tornar as recomendações mais relevantes para os clientes e clientes potenciais com base em suas necessidades e interesses. Os vendedores também podem visualizar o Contato e a Atividade da conta na linha do tempo e acessar facilmente os detalhes adicionais da atividade. Encontre mais detalhes sobre como atualizar seu pacote [aqui](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
+* **[Painel de insights para o Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: Estamos reimaginando nosso recurso de Sales Insight com uma nova visibilidade dos eventos e campanhas de marketing futuros para dar aos vendedores a capacidade de tornar as recomendações mais relevantes para os clientes e clientes potenciais com base em suas necessidades e interesses. Os vendedores também podem visualizar o Contato e a Atividade da conta na linha do tempo e acessar facilmente os detalhes adicionais da atividade. Encontre mais detalhes sobre como atualizar seu pacote [aqui](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 <br> 
 
