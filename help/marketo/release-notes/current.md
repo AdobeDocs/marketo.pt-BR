@@ -1,9 +1,9 @@
 ---
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -79,7 +79,7 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 Esta seção inclui novos recursos para usuários Bizible que concluíram sua migração para o Adobe Identity Management System (IMS). Se tiver migrado, você verá seu novo Adobe ID em Configurações da Bizible na guia Adobe ID . Todas as contas devem ser migradas até o final de 2021.
 
-* **Integração Bizible com o Adobe Privacy Service**: A integração da Bizible com o Privacy Service do Adobe centraliza a conformidade com as regulamentações críticas de privacidade de dados (como o GDPR) em todos os aplicativos Adobe Experience Cloud. Agora você pode aproveitar esse serviço e gerenciar todas as solicitações de privacidade centralmente para que as solicitações de alteração que entram na Bizible e outros produtos do Adobe sejam refletidas em todos os aplicativos.
+* **Integração Bizible com o Adobe Privacy Service**  (disponível em setembro de 2021): A integração da Bizible com o Privacy Service do Adobe centraliza a conformidade com as regulamentações críticas de privacidade de dados (como o GDPR) em todos os aplicativos Adobe Experience Cloud. Agora você pode aproveitar esse serviço e gerenciar todas as solicitações de privacidade centralmente para que as solicitações de alteração que entram na Bizible e outros produtos do Adobe sejam refletidas em todos os aplicativos.
 
 * **Bizible em Adobe Unified Shell**: A adoção do Adobe Unified Shell pela Bizible fornece aos usuários novos recursos que aparecerão na barra de cabeçalho do aplicativo Bizible e incluem melhor acesso a recursos de suporte e switching de aplicativos. O Adobe Unified Shell ajuda a criar uma experiência consistente entre a Bizible e outros aplicativos Adobe Experience Cloud.
 
