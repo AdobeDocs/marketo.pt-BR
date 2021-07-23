@@ -1,20 +1,19 @@
 ---
 description: Uso da pesquisa global - Documentos do Marketo - Documentação do produto
 title: Usando a pesquisa global
-translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
+source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 1%
 
 ---
 
+# Usando a pesquisa global {#using-the-global-search}
 
-# Usando a Pesquisa Global {#using-the-global-search}
+A pesquisa global poderosa oferece muitas opções sem limite para os resultados exibidos.
 
-A pesquisa global poderosa oferece muitas opções. Vamos analisá-los.
-
-## Resultados de preenchimento automático {#autocomplete-results}
+## Concluir automaticamente resultados {#autocomplete-results}
 
 Às vezes, o preenchimento automático rapidamente mostrará exatamente o que você está procurando.
 
@@ -65,7 +64,7 @@ Use a pesquisa completa se os resultados do preenchimento automático não mostr
    <td>Datas/vezes que o item foi criado/modificado pela última vez</td> 
   </tr>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>Escolha uma seção principal específica do Marketo para pesquisar ou pesquise tudo de uma só vez</td> 
   </tr>
   <tr>
