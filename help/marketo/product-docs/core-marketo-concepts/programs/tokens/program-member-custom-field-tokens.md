@@ -3,15 +3,14 @@ unique-page-id: 1147114
 description: Tokens de campo personalizado do membro do programa - Documentos do Marketo - Documentação do produto
 title: Tokens de campo personalizado do membro do programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 2%
 
 ---
 
-# Tokens de campo personalizados do membro do programa {#program-member-custom-field-tokens}
+# Tokens de campo personalizado do membro do programa {#program-member-custom-field-tokens}
 
 ## Suporte de token para campos personalizados do membro do programa {#token-support-for-program-member-custom-fields}
 
@@ -24,11 +23,11 @@ Tokens de Membro são usados para campos do escopo do Membro do Programa. A part
 >[!NOTE]
 >
 >* Os Campos Personalizados do Membro do Programa podem ser usados somente no contexto de um programa.
->* Os tokens de campos personalizados do membro do programa não podem ser usados em: scripts de email, pré-cabeçalho de email, tokens de data em etapas de espera ou trechos.
+>* Os tokens de campos personalizados do membro do programa não podem ser usados em: pré-cabeçalho de email, tokens de data em etapas de espera ou trechos.
 >* O Status de Membro do Programa não é suportado em Tokens de Membro.
 
 
-## Usando tokens de campo personalizados de membro do programa no Assets {#using-program-member-custom-field-tokens-in-assets}
+## Uso de tokens de campo personalizados de membro do programa em ativos {#using-program-member-custom-field-tokens-in-assets}
 
 Você pode inserir tokens de campos personalizados de membros do programa em emails, páginas de aterrissagem, SMS, notificações por push e Webhooks.
 
@@ -54,7 +53,7 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 >
 >Não se esqueça de aprovar seu email.
 
-**páginas**
+**Páginas**
 
 1. Selecione a Landing Page e clique em **Editar rascunho**.
 
@@ -128,7 +127,7 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 >
 >Se o Campo Personalizado do Membro do Programa para um Membro do programa não tiver valor, o token será substituído pelo valor padrão se tiver sido fornecido.
 
-## Usando tokens de campo personalizados de membro do programa em campanhas {#using-program-member-custom-field-tokens-in-campaigns}
+## Utilização de tokens de campo personalizados de membro do programa em campanhas {#using-program-member-custom-field-tokens-in-campaigns}
 
 Tokens de campo personalizado de membro do programa podem ser usados em:
 
