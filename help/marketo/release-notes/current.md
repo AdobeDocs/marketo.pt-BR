@@ -1,9 +1,9 @@
 ---
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
-source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
+source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '974'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Os seguintes recursos estão incluídos na versão de 21 de agosto. Verifique su
 Os seguintes recursos serão lançados em **20 de agosto de 2021**.
 
 ## Integração do Adobe Experience Platform {#adobe-experience-platform-integration}
-
-* **Conector Adobe Experience Platform nativo para compartilhamento de públicos-alvo no Marketo Engage**: Ative a orquestração de campanhas multicanal no Marketo Engage para segmentos de público-alvo criados no Adobe Experience Cloud por meio do conector de destino nativo. O conector usa endereços de email para corresponder perfis do Adobe Experience Platform a perfis de clientes potenciais do Marketo Engage, resultando no compartilhamento de segmentos altamente preciso entre aplicativos. As listas de Marketo Engage estáticas são criadas automaticamente e permitem que os profissionais de marketing alcancem públicos-alvo com mensagens altamente personalizadas ou iniciem fluxos de trabalho. Ative públicos-alvo de pessoas aproveitando sua conta e contexto de oportunidade e dados mais completos e em tempo real no Experience Platform.
 
 * **Autenticação de usuário do Marketo Engage via Adobe**: A partir de setembro de 2021, os novos usuários do Marketo Engage com pacotes empresariais serão integrados usando as credenciais do usuário do Adobe ID. A migração dos usuários atuais para o sistema de identidade integrado não ocorrerá até meados de 2022 e nenhuma ação será necessária até novo aviso. A autenticação de usuário de identidade do Adobe permite que administradores de TI/segurança gerenciem várias instâncias de produto do Marketo Engage junto com outras soluções do Experience Cloud, bem como a configuração de SSO por meio de um console comum. Administradores podem gerenciar convenientemente grupos de usuários e direitos de usuário em um local.
 
