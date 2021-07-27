@@ -3,21 +3,24 @@ unique-page-id: 10098625
 description: Noções básicas sobre a sincronização do Microsoft Dynamics - Documentos do Marketo - Documentação do produto
 title: Noções Gerais da Sincronização do Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 80651a7d3d416f27ef13184b11757943c98bd781
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
 
-# Entendendo a Sincronização do Microsoft Dynamics {#understanding-the-microsoft-dynamics-sync}
+# Noções Gerais da Sincronização do Microsoft Dynamics {#understanding-the-microsoft-dynamics-sync}
 
 O Marketo e o Microsoft Dynamics estão juntos. Mantemos seus dados de vendas e marketing sincronizados.
 
 >[!NOTE]
 >
 >O Marketo só oferece suporte a certificados SSL compatíveis com o Java 7 no momento.
+
+>[!CAUTION]
+>
+>No momento, não oferecemos suporte à atualização da caixa de proteção para a Sincronização do Marketo Dynamics. Se você precisar atualizar a caixa de proteção do Dynamics CRM, será necessária uma nova caixa de proteção do Marketo. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
 
 ## Como a sincronização funciona {#how-sync-works}
 
@@ -39,10 +42,8 @@ A sincronização entre o Marketo e o Dynamics é bidirecional para clientes pot
 * [Oportunidades](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Entidades personalizadas](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
 
+As credenciais [inseridas no Marketo para Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) são usadas para sincronizar dados.
+
 >[!NOTE]
 >
->As credenciais [inseridas no Marketo para Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) são usadas para sincronizar dados.
-
->[!CAUTION]
->
->No momento, não oferecemos suporte à atualização da caixa de proteção para a Sincronização do Marketo Dynamics. Se você precisar atualizar a caixa de proteção do Dynamics CRM, será necessária uma nova caixa de proteção do Marketo. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
+>A cópia da instância não é suportada se a instância de origem estiver integrada ao Microsoft Dynamics.
