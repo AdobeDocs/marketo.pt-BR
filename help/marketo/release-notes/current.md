@@ -1,9 +1,9 @@
 ---
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
-source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
+source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,11 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 ![(estrela)](assets/yellow-star.png)
 
-* **Limitação da conexão de email (GA)**: Melhore a capacidade de fornecimento de email e dimensione a comunicação personalizada de vendas com o controle da conexão de email para o Sales Connect. Essa nova tecnologia gerencia automaticamente o tempo de envio de emails para criar experiências ininterruptas para usuários do Exchange e Gmail. Diminua ou elimine o uso de aplicativos de envio de email em massa de terceiros e envie todos os seus emails do Sales Connect com confiança.
+* **Limitação da conexão de email (Beta)**: Melhore a capacidade de fornecimento de email e dimensione a comunicação personalizada de vendas com o controle da conexão de email para o Sales Connect. Essa nova tecnologia gerencia automaticamente o tempo de envio de emails para criar experiências ininterruptas para usuários do Exchange e Gmail. Diminua ou elimine o uso de aplicativos de envio de email em massa de terceiros e envie todos os seus emails do Sales Connect com confiança.
+
+>[!NOTE]
+>
+>A limitação de email está disponível na versão beta agora. [Saiba mais](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **Insights** aprimorados da atividade de vendas: Capture e ative o envolvimento personalizado com base nas atividades anteriores da sua equipe de vendas. Novos atributos como Link de registro da chamada de vendas, Nome da campanha de vendas e Assunto do email de vendas podem ser usados em listas inteligentes Marketo Engage.  Essas atividades podem ser exportadas e relatadas por meio da API REST do Marketo Engage ou Exportar em massa e estão disponíveis em filtros e acionadores como restrições adicionais para listas inteligentes.
 
