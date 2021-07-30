@@ -1,9 +1,9 @@
 ---
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
-source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
+source-git-commit: 47b1a8fe0adfd3b26b3fad7821b45e9a0b6f61bf
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -36,10 +36,7 @@ Os seguintes recursos serão lançados em **20 de agosto de 2021**.
 
 * **API** de metadados de campos personalizados: Simplifique a criação e o gerenciamento de campos personalizados no Marketo Engage para integrações de parceiros. Crie novos campos em um objeto de lead automaticamente e faça atualizações de campo em várias instâncias de Marketo Engage imediata e simultaneamente.
 
-* **Filtragem** aprimorada: Várias APIs agora oferecem suporte para mais filtragem, como adicionar um filtro de intervalo de datas a ativos de email e campos de membros do programa. Agora é possível extrair apenas os dados atualizados dentro de um determinado período para as seguintes APIs...
-   * Obter Membros do Programa
-   * Obter emails
-   * Extração de Atividade em Massa
+* **Filtragem** aprimorada: Várias APIs agora oferecem suporte para mais filtragem, como adicionar um filtro de intervalo de datas a ativos de email e campos de membros do programa.
 
 * **API** de envio de formulário: Quando um endereço de email é duplicado em dois ou mais registros de lead, atualizamos o registro &quot;última atualização&quot; em vez de ignorá-lo completamente. Fornece paridade com a API do Forms 2.0.
 
