@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: a8f212ba7389837f3299dad5aed6b085e9ffef76
+source-git-commit: 99d30f70d83df16a14c874f6ed5cc215a9e76705
 workflow-type: tm+mt
-source-wordcount: '8047'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 + [Início](home.md)
 + Introdução ao Marketo {#getting-started-with-marketo}
-   + [Introdução](getting-started/getting-started.md)
+   + [Introdução](getting-started.md)
    + [O que é o Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + [Glossário do Marketo](getting-started/marketo-glossary.md)
    + [Ícone Glossário](getting-started/icon-glossary.md)
