@@ -3,21 +3,20 @@ unique-page-id: 2951640
 description: Uso de momentos interessantes - Documentação da Marketo - Documentação do produto
 title: Uso de momentos interessantes
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-translation-type: tm+mt
-source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
+source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
-# Usando Momentos Interessantes {#using-interesting-moments}
+# Uso de momentos interessantes {#using-interesting-moments}
 
 Os momentos interessantes são a chave para se comunicar com sua equipe de vendas por meio do aplicativo Marketo Sales Insight.
 
 >[!AVAILABILITY]
 >
->Eles estão disponíveis somente para clientes do Marketo Sales Insight e [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md).
+>Eles estão disponíveis somente para clientes do Marketo Sales Insight e [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md).
 
 ## O que é um momento interessante? {#what-is-an-interesting-moment}
 
