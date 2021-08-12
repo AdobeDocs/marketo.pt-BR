@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
+source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
 workflow-type: tm+mt
 source-wordcount: '8064'
 ht-degree: 5%
@@ -204,7 +204,7 @@ ht-degree: 5%
          + [Criar uma atividade personalizada](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Editar uma atividade personalizada](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [Publicar uma atividade personalizada](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
-         + [Exportação de metadados de atividade personalizada](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
+         + [Exportação de metadados de atividade personalizada](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + Objetos personalizados do Marketo {#marketo-custom-objects}
          + [Como entender objetos personalizados do Marketo](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Adicionar campos de objeto personalizados do Marketo](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
