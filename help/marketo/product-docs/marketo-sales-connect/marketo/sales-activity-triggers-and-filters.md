@@ -3,9 +3,9 @@ description: Acionadores e filtros de atividade de vendas - Documentos da Market
 title: Acionadores e filtros da atividade de vendas
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ Siga as etapas abaixo para saber como utilizar filtros e acionadores de atividad
 
    ![](assets/sales-activity-triggers-and-filters-4.png)
 
->[!OBSERVAÇÃO
+>[!NOTE]
 >
 >Para obter uma lista completa de atividades, restrições e definições, consulte nosso [Glossário de atividades de vendas](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
