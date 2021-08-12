@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: bc62f6e43259791fff47f2dbb32cb22a665db1a8
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '8052'
+source-wordcount: '8064'
 ht-degree: 5%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 5%
          + [Criar uma atividade personalizada](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Editar uma atividade personalizada](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [Publicar uma atividade personalizada](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [Exportação de metadados de atividade personalizada](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
       + Objetos personalizados do Marketo {#marketo-custom-objects}
          + [Como entender objetos personalizados do Marketo](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Adicionar campos de objeto personalizados do Marketo](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
@@ -809,9 +810,9 @@ ht-degree: 5%
                + [Modelo 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modelo 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modelo 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modelo 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modelo 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modelo 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modelo 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1219,6 +1220,8 @@ ht-degree: 5%
          + [Conceder acesso aos usuários](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Momentos interessantes na conexão de vendas](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Tornar uma campanha visível para usuários do Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Glossário de atividades de vendas](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
+         + [Acionadores e filtros da atividade de vendas](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Pessoas {#people}
          + [Exibição de detalhes da pessoa](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Conexão de vendas e conformidade com o GDPR](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
