@@ -3,10 +3,10 @@ description: Glossário de atividades de vendas - Documentos da Marketo - Docume
 title: Glossário de atividades de vendas
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 17%
+source-wordcount: '416'
+ht-degree: 14%
 
 ---
 
@@ -60,7 +60,7 @@ As atividades abaixo serão registradas no Marketo pelo Sales Connect.
  <tr>
   <td>ID do modelo</td>
  </tr>
- <tr>
+<tr>
   <th rowspan="2">Email de Vendas Recebido</th>
   <td>Recebido por</td>
  </tr>
@@ -150,6 +150,74 @@ As atividades abaixo serão registradas no Marketo pelo Sales Connect.
   <th>Descrição</th>
  </tr>
  <tbody> 
+ <tr> 
+   <td><strong>Detalhes</strong></td> 
+   <td>Detalhes da mensagem de erro de rejeição.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>E-mail</strong></td> 
+   <td>Endereço de email que retornou.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Link</strong></td> 
+   <td>URL que foi clicado.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Recebido por</strong></td> 
+   <td>Endereço de email da pessoa que enviou o email.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Chamada do Sales atendida por</strong></td> 
+   <td>Nome da pessoa que atendeu a chamada.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Duração da chamada de vendas</strong></td> 
+   <td>Duração da chamada em segundos.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Chamada do Sales feita por</strong></td> 
+   <td>Endereço de email da pessoa que efetuou a chamada.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL da gravação da chamada do Sales</strong></td> 
+   <td>URL da gravação de chamada.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Status da Chamada de Vendas</strong></td> 
+   <td>Salva o status final da chamada, que inclui: concluído, sem resposta, cancelado, com falha.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Assunto da Chamada de Vendas</strong></td> 
+   <td>Resultado da chamada selecionado por um usuário de vendas no discador.</td> 
+  </tr>
+  <tr> 
+   <td><strong>ID da campanha de vendas</strong></td> 
+   <td>ID exclusiva para o ativo de campanha de vendas no Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Nome da campanha de vendas</strong></td> 
+   <td>Nome da campanha de vendas.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL da campanha de vendas</strong></td> 
+   <td>URL de Conexão de Vendas para Campanha de Vendas.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Assunto do Email de Vendas</strong></td> 
+   <td>Linha de assunto do email.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Número de Telefone de Vendas Chamado</strong></td> 
+   <td>Número de telefone chamado por Vendas.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Nome do Modelo de Vendas</strong></td> 
+   <td>Nome do modelo de email no Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL do modelo de vendas</strong></td> 
+   <td>URL de Conexão de Vendas para modelo de email.</td> 
+  </tr>
   <tr> 
    <td><strong>Enviado por</strong></td>
    <td>Endereço de email da pessoa que enviou o email.</td> 
@@ -162,18 +230,6 @@ As atividades abaixo serão registradas no Marketo pelo Sales Connect.
    <td><strong>ID do modelo</strong></td> 
    <td>Quando a origem for Tout, a ID do modelo será a ID do modelo de conexão de vendas do Marketo. Use-o para direcionar um modelo específico em vez de linha de assunto, que pode existir em vários modelos.
 </td> 
-  </tr> 
-  <tr> 
-   <td><strong>Recebido por</strong></td> 
-   <td>Endereço de email da pessoa que enviou o email.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Detalhes</strong></td> 
-   <td>Detalhes da mensagem de erro de rejeição.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>E-mail</strong></td> 
-   <td>Endereço de email que retornou.</td> 
   </tr> 
  </tbody> 
 </table>
