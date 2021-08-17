@@ -3,10 +3,9 @@ unique-page-id: 37355768
 description: Importação de ativos com o Adobe Experience Manager - Documentos do Marketo - Documentação do produto
 title: Importação de ativos com o Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -17,16 +16,15 @@ O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e imp
 
 >[!AVAILABILITY]
 >
->
 >Nem todos os clientes compraram esse recurso. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
 
 >[!PREREQUISITES]
 >
 >Verifique se você já executou a [AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->No momento, esse recurso é totalmente compatível com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome (v. 80), dependendo das configurações de cookie do SameSite.
+>Esse recurso é totalmente compatível com as versões atuais do Firefox, Chrome e Edge. Não é compatível com o Safari.
 
 1. Clique em **Design Studio**.
 
