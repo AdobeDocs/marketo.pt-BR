@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
+source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 5%
@@ -493,18 +493,18 @@ ht-degree: 5%
                + [Visualização de um email](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
                + [Envio de uma amostra](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [Compartilhando um momento](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
-         + Diversos {#miscellaneous}
-            + [Configuração da integração do Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
-            + [Criar nova pasta de campanha](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-            + [Importação de ativos com o Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
-            + [Glossário de atalhos de teclado](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
-            + [Sandbox da Marketo](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
-            + [Renomear um ativo do Marketo](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [Configurar o compartilhamento de público na Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
-            + [Sincronizar um público-alvo do Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
-            + [Noções básicas sobre pastas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
-            + [Noções básicas das notificações](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
-            + [Tipos de notificação](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Diversos {#miscellaneous}
+         + [Configuração da integração do Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
+         + [Criar nova pasta de campanha](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
+         + [Importação de ativos com o Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
+         + [Glossário de atalhos de teclado](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
+         + [Sandbox da Marketo](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
+         + [Renomear um ativo do Marketo](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
+         + [Configurar o compartilhamento de público na Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
+         + [Sincronizar um público-alvo do Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Noções básicas sobre pastas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
+         + [Noções básicas das notificações](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
+         + [Tipos de notificação](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
    + Sincronização com CRM {#crm-sync}
       + Sincronização do Microsoft Dynamics {#microsoft-dynamics}
          + [Noções Gerais da Sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -811,7 +811,7 @@ ht-degree: 5%
                + [Modelo 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modelo 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modelo 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modelo 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modelo 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Modelo 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modelo 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
