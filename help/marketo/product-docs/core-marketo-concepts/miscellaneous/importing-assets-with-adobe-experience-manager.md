@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: Importação de ativos com o Adobe Experience Manager - Documentos do Marketo - Documentação do produto
 title: Importação de ativos com o Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -60,8 +60,8 @@ O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e imp
 
 ## O que deve ser observado {#things-to-note}
 
-Atualmente, o Marketo é compatível com Adobe Experience Manager versões 6.4 e 6.5.
+* Atualmente, o Marketo é compatível com Adobe Experience Manager versões 6.4 e 6.5.
 
-Todos os usuários na sua instância poderão visualizar/acessar as imagens que você importar.
+* Todos os usuários na sua instância poderão visualizar/acessar as imagens que você importar.
 
-As imagens não são atualizadas automaticamente. Se uma imagem que você importou para o Marketo Design Studio for atualizada no AEM, você deve importá-la manualmente novamente para o Marketo.
+* As imagens não são atualizadas automaticamente. Se uma imagem que você importou para o Marketo Design Studio for atualizada no AEM, você deve importá-la manualmente novamente para o Marketo.
