@@ -1,7 +1,7 @@
 ---
 description: Execute Campaign - Marketo Docs - Documentação do produto
 title: Executar campanha
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 1%
@@ -67,11 +67,11 @@ Ao usar Schedule ou Request Campaign [na API](https://developers.marketo.com/res
 * Campanhas executáveis não podem ser chamadas em espaços de trabalho
 * Se você usar a ação de fluxo [Remover do Fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direcionada a uma Campanha Executável, ela direcionará o filho e o pai
 * Aproveitando a herança de token - por exemplo, se você tiver um único fluxo de pontuação comum acionado por vários ativos diferentes, poderá definir uma pontuação de Meu token padrão na campanha filho e na campanha pai, de modo que possa substituir o valor da campanha de pontuação filho para suas campanhas pai (consulte abaixo para obter um exemplo visual)
-* O aninhamento de campanhas executáveis não está disponível no momento, mas estará em uma versão futura
+* Campanhas executáveis podem ser chamadas com até três níveis de profundidade (por exemplo, Campanha pai > Filho > Filho)
 
 >[!CAUTION]
 >
->Nunca deixe suas listas inteligentes para campanhas executáveis inválidas, caso contrário, **ninguém** se qualificará para elas. A prática recomendada é criar ativos de lista inteligente separados, defini-los completamente e garantir que sejam válidos. Em seguida, use o filtro &quot;Membro da Smart List&quot; na Campanha Executável para trocar a definição da lista inteligente.
+>Nunca deixe suas listas inteligentes para campanhas executáveis inválidas, caso contrário **ninguém** se qualificará para elas. A prática recomendada é criar ativos de lista inteligente separados, defini-los completamente e garantir que sejam válidos. Em seguida, use o filtro &quot;Membro da Smart List&quot; na Campanha Executável para trocar a definição da lista inteligente.
 
 ## Exemplo de herança de token {#token-inheritance-example}
 
