@@ -1,9 +1,7 @@
 ---
 description: Acionadores e filtros de atividade de vendas - Documentos da Marketo - Documentação do produto
 title: Acionadores e filtros da atividade de vendas
-hide: true
-hidefromtoc: true
-source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
