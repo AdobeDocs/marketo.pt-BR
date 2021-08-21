@@ -1,7 +1,9 @@
 ---
 description: Ações de fluxo único da página Detalhes da pessoa - Documentos do Marketo - Documentação do produto
 title: Ações de Fluxo Único da Página de Detalhes da Pessoa
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+hide: true
+hidefromtoc: true
+source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
