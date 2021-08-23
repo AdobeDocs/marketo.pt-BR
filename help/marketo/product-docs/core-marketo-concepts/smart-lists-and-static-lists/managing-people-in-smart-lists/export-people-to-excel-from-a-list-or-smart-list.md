@@ -3,15 +3,14 @@ unique-page-id: 557329
 description: Exportar pessoas para o Excel de uma lista ou lista inteligente - Documentos do Marketo - Documentação do produto
 title: Exportar pessoas para o Excel de uma lista ou lista inteligente
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d30816e6f2e0ccac3e62d4f226dc5f349a6be25e
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 0%
+source-wordcount: '185'
+ht-degree: 1%
 
 ---
 
-# Exportar Pessoas para o Excel de uma Lista ou Lista inteligente {#export-people-to-excel-from-a-list-or-smart-list}
+# Exportar pessoas para o Excel de uma lista ou lista inteligente {#export-people-to-excel-from-a-list-or-smart-list}
 
 Se você precisar de resultados de listas ou listas inteligentes fora do Marketo, poderá exportar facilmente para o Excel. Veja como.
 
@@ -46,11 +45,3 @@ Se você precisar de resultados de listas ou listas inteligentes fora do Marketo
    >[!TIP]
    >
    >Se a exportação estiver demorando algum tempo, você sempre poderá fazer logoff e voltar para ela depois. O link **Baixar agora** pode ser acessado selecionando **Mostrar status de exportação** no menu **Listar ações** e é válido por uma semana.
-
-   Após exportar uma lista inteligente para o Excel, o Marketo armazenará a lista em cache automaticamente. Você notará um pequeno clipe de papel e nota no ícone da lista inteligente na próxima vez que fizer logon ou atualizar seu navegador.
-
-   ![](assets/cached.png)
-
-   >[!TIP]
-   >
-   >Você pode desfazer o cache da lista simplesmente pressionando o botão de atualização da lista.
