@@ -1,9 +1,9 @@
 ---
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,9 @@ Os seguintes recursos serão lançados em **20 de agosto de 2021**.
 
 * **Ação de fluxo único na página**  de detalhes da pessoa (disponível em 30 de agosto): Execute ações de fluxo como enviar emails, alterar o proprietário da pessoa ou qualquer outra ação de campanha inteligente em pessoas individuais na página de detalhes da pessoa usando o menu de ação de fluxo sem alternar para a exibição de grade do banco de dados.
 
-* **Exportação** de atividades personalizadas: A exportação de metadados agora é compatível com todos os objetos e respectivos metadados que podem ser usados para compartilhar, analisar e projetar seu modelo de dados de assinatura.
+* **[Exportação](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)** de atividades personalizadas: A exportação de metadados agora é compatível com todos os objetos e respectivos metadados que podem ser usados para compartilhar, analisar e projetar seu modelo de dados de assinatura.
 
 ## Melhorias da API {#api-enhancements}
-
-* **API** de metadados de campos personalizados: Simplifique a criação e o gerenciamento de campos personalizados no Marketo Engage para integrações de parceiros. Crie novos campos em um objeto de lead automaticamente e faça atualizações de campo em várias instâncias de Marketo Engage imediata e simultaneamente.
 
 * **API** de envio de formulário: Quando um endereço de email é duplicado em dois ou mais registros de lead, atualizamos o registro &quot;última atualização&quot; em vez de ignorá-lo completamente. Fornece paridade com a API do Forms 2.0.
 
