@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: Programação de versão - Documentação do Marketo - Documentação do produto
 title: Programação de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -49,12 +49,12 @@ _As datas de lançamento estão sujeitas a alterações_
   <tr> 
    <td colspan="1">Agosto de 21</td> 
    <td colspan="1">20 de agosto de 2021</td> 
-   <td colspan="1">em andamento</td> 
+   <td colspan="1">Remetido</td> 
   </tr> 
   <tr> 
    <td colspan="1">Outubro de 21</td> 
-   <td colspan="1">15 de outubro de 2021</td> 
-   <td colspan="1">Na Programação</td> 
+   <td colspan="1">22 de outubro de 2021</td> 
+   <td colspan="1">em andamento</td> 
   </tr> 
  </tbody> 
 </table>
