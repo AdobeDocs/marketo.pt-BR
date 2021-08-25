@@ -1,7 +1,7 @@
 ---
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
-source-git-commit: 256e089a418f67ab46249a18fe82e1e1f6d7bfb9
+source-git-commit: 6f9b5a591a315fd6ff036cd5d51dbb432bd31733
 workflow-type: tm+mt
 source-wordcount: '904'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Os seguintes recursos serão lançados em **20 de agosto de 2021**.
 
 * **Aninhamento** da campanha executável: As campanhas executáveis agora também podem chamar outras campanhas executáveis, permitindo aninhá-las com até três níveis de profundidade. Isso permite consolidar ainda mais os fluxos operacionais comuns e melhora o gerenciamento do Smart Campaign.
 
-* **Ação de fluxo único na página**  de detalhes da pessoa (disponível em 30 de agosto): Execute ações de fluxo como enviar emails, alterar o proprietário da pessoa ou qualquer outra ação de campanha inteligente em pessoas individuais na página de detalhes da pessoa usando o menu de ação de fluxo sem alternar para a exibição de grade do banco de dados.
+* **Ação de Fluxo Único na Página**  de Detalhes da Pessoa (Disponível até 9 de setembro): Execute ações de fluxo como enviar emails, alterar o proprietário da pessoa ou qualquer outra ação de campanha inteligente em pessoas individuais na página de detalhes da pessoa usando o menu de ação de fluxo sem alternar para a exibição de grade do banco de dados.
 
 * **[Exportação](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)** de atividades personalizadas: A exportação de metadados agora é compatível com todos os objetos e respectivos metadados que podem ser usados para compartilhar, analisar e projetar seu modelo de dados de assinatura.
 
