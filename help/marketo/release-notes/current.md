@@ -1,9 +1,9 @@
 ---
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
-source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
+source-git-commit: 256e089a418f67ab46249a18fe82e1e1f6d7bfb9
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '904'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,9 @@ Os seguintes recursos estão incluídos na versão de 21 de agosto. Verifique su
 
 Os seguintes recursos serão lançados em **20 de agosto de 2021**.
 
-## Integração do Adobe Experience Platform {#adobe-experience-platform-integration}
+## Automação de experiência {#experience-automation}
 
 * **Autenticação de usuário do Marketo Engage via Adobe**: A partir de setembro de 2021, os novos usuários do Marketo Engage com pacotes empresariais serão integrados usando as credenciais do usuário do Adobe ID. A migração dos usuários atuais para o sistema de identidade integrado não ocorrerá até meados de 2022 e nenhuma ação será necessária até novo aviso. A autenticação de usuário de identidade do Adobe permite que administradores de TI/segurança gerenciem várias instâncias de produto do Marketo Engage junto com outras soluções do Experience Cloud, bem como a configuração de SSO por meio de um console comum. Administradores podem gerenciar convenientemente grupos de usuários e direitos de usuário em um local.
-
-## Automação de experiência {#experience-automation}
 
 * **Aninhamento** da campanha executável: As campanhas executáveis agora também podem chamar outras campanhas executáveis, permitindo aninhá-las com até três níveis de profundidade. Isso permite consolidar ainda mais os fluxos operacionais comuns e melhora o gerenciamento do Smart Campaign.
 
