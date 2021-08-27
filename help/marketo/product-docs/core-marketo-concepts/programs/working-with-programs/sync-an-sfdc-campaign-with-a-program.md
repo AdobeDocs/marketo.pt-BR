@@ -3,8 +3,7 @@ unique-page-id: 1147154
 description: Sincronizar uma campanha SFDC com um programa - Documentos do Marketo - Documentação do produto
 title: Sincronizar uma campanha SFDC com um programa
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 1%
@@ -39,7 +38,7 @@ O Marketo permite sincronizar seus programas com campanhas do Salesforce para ma
 
    >[!TIP]
    >
-   >Se você selecionar uma campanha Salesforce existente, certifique-se de [corresponder aos status do programa da campanha Salesforce e do programa Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Se você selecionar uma campanha Salesforce existente, certifique-se de [corresponder aos status do programa da campanha Salesforce e do programa Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 1. Insira um nome para a nova campanha e clique em **Save**.
 

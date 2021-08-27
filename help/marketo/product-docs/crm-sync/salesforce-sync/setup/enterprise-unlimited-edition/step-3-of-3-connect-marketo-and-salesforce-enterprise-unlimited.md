@@ -3,15 +3,14 @@ unique-page-id: 2360366
 description: Etapa 3 de 3 - Conectar o Marketo e o Salesforce (Enterprise/Unlimited) - Documentos do Marketo - Documentação do produto
 title: Etapa 3 de 3 - Conectar Marketo e Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
 
 ---
 
-# Etapa 3 de 3: Conecte o Marketo e o Salesforce (Enterprise/Unlimited) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
+# Etapa 3 de 3: Conecte a Marketo e o Salesforce (Enterprise/Unlimited) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
 Neste artigo, você configurará o Marketo para sincronizar com a instância configurada do Salesforce.
 
@@ -41,7 +40,7 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
 
    O token de segurança será enviado a você por email.
 
-## Definir as credenciais do usuário de sincronização {#set-sync-user-credentials}
+## Definir as Credenciais do Usuário de Sincronização {#set-sync-user-credentials}
 
 1. No Marketo, vá para **Admin**, selecione **CRM** e clique em **Sincronizar com [Salesforce.com](https://Salesforce.com)**
 
@@ -49,7 +48,7 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
 
    >[!NOTE]
    >
-   >Certifique-se de [ocultar todos os campos que você não precisa](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) no Marketo do usuário de sincronização antes de clicar em **Sincronizar campos**. Depois de clicar em Sincronizar campos, todos os campos que o usuário pode ver serão criados no Marketo permanentemente e não poderão ser excluídos.
+   >Certifique-se de [ocultar todos os campos que você não precisa](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) no Marketo do usuário de sincronização antes de clicar em **Sincronizar campos**. Depois de clicar em Sincronizar campos, todos os campos que o usuário pode ver serão criados no Marketo permanentemente e não poderão ser excluídos.
 
 1. Insira as credenciais do Usuário de Sincronização do Salesforce criadas na parte 2 da configuração do Salesforce ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) ou [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) e clique em **Sincronizar Campos** (marque **Sandbox** somente se estiver sincronizando uma Sandbox do Marketo com uma Sandbox do Salesforce).
 
