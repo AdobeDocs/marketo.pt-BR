@@ -1,19 +1,18 @@
 ---
 unique-page-id: 11379622
-description: Configurar Anúncios de venda do Facebook - Documentos do Marketing - Documentação do produto
-title: Configurar Anúncios de venda do Facebook
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Configurar anúncios de lead da Facebook - Documentos da Marketo - Documentação do produto
+title: Configurar anúncios de lead da Facebook
+exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
+source-git-commit: eec4b6fb94ad7dd3b10376bdcdc2b558d1b90aed
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
+# Configurar anúncios de lead da Facebook {#set-up-facebook-lead-ads}
 
-# Configurar Anúncios de venda do Facebook {#set-up-facebook-lead-ads}
-
-Use [Anúncios de venda do Facebook](https://www.facebook.com/business/a/lead-ads) para executar campanhas publicitárias no Facebook e gerar clientes potenciais para o Marketing.
+Use [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para executar campanhas de anúncios no Facebook e gerar leads para Marketo.
 
 >[!NOTE]
 >
@@ -21,17 +20,17 @@ Use [Anúncios de venda do Facebook](https://www.facebook.com/business/a/lead-ad
 
 >[!AVAILABILITY]
 >
->Para adicionar Anúncios de venda do Facebook à sua instância, entre em contato com o Gerente de sucesso do cliente.
+>Para adicionar os Anúncios de lead da Facebook à sua instância, entre em contato com o Gerente de sucesso do cliente.
 
 1. Vá para Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Vá para **LaunchPoint**, clique em **Novo,** e selecione **Novo serviço**.
+1. Vá para **LaunchPoint**, clique em **Novo,** e selecione **Novo Serviço**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Digite um **Nome de exibição** para seu serviço, selecione o serviço **Anúncios de venda do Facebook** no menu suspenso e clique em **Criar**.
+1. Insira um **Nome de exibição** para seu serviço, selecione o serviço **Facebook Lead Ads** no menu suspenso e clique em **Criar**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
@@ -39,11 +38,11 @@ Use [Anúncios de venda do Facebook](https://www.facebook.com/business/a/lead-ad
 
    >[!NOTE]
    >
-   >A conta do Facebook precisará de acesso a todas as páginas comerciais do Facebook das quais você deseja obter anúncios de venda.
+   >A conta do Facebook precisará acessar todas as páginas comerciais da Facebook das quais você deseja obter anúncios de lead.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Depois que você estiver conectado ao Facebook, volte para Marketo e clique em **Autorizar**.
+1. Depois de fazer logon no Facebook, volte para o Marketo e clique em **Autorizar**.
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
@@ -51,36 +50,37 @@ Use [Anúncios de venda do Facebook](https://www.facebook.com/business/a/lead-ad
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Você vai notar que agora está autorizado. Clique em **Próximo**.
+1. Você perceberá que está autorizado. Clique em **Next**.
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. Selecione as páginas das quais deseja que o Marketo obtenha os Anúncios de venda do Facebook e clique em **Próximo**.
+1. Selecione as páginas das quais você deseja que o Marketo extraia os Anúncios de lead da Facebook e clique em **Próximo**.
 
    >[!TIP]
    >
-   >Se você não vir uma página que está esperando, verifique se a conta do Facebook usada para autenticação foi adicionada à página do Facebook e tente novamente.
+   >Se você não vir uma página que esteja esperando, verifique se a conta do Facebook usada para autenticação foi adicionada à página no Facebook e tente novamente.
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
-1. Para aceitar mapeamentos de campos padrão do Facebook para o Marketing, basta clicar em **Criar**.
+1. Para aceitar os mapeamentos de campo padrão do Facebook para Marketo, basta clicar em **Create**.
 
    >[!TIP]
    >
-   >Ao modificar os mapeamentos, você pode personalizar o local em que os dados dos anúncios de cliente potencial são armazenados no Marketing. Você também pode [extrair dados de Perguntas personalizadas sobre Anúncios de venda em potencial](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >Ao modificar os mapeamentos, é possível personalizar onde os dados dos principais anúncios são armazenados no Marketo. Você também pode [obter dados de Perguntas personalizadas de Anúncios de leads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
-   >O Marketo não oferece suporte ao mapeamento de dois campos do Facebook para um único campo de marketing, apenas de 1 a 1. Se você mapear de 2 a 1, os clientes em potencial poderão falhar ao entrar no sistema de marketing.
+   >O Marketo não suporta o mapeamento de dois campos do Facebook para um único campo do Marketo, somente de 1 a 1. Se você mapear 2 a 1, os leads poderão não conseguir entrar no sistema Marketo.
 
    ![](assets/image2016-11-29-11-3a0-3a2.png)
 
-   Muito bem! Os clientes em potencial serão start fluindo para o Marketo à medida que você executa campanhas de anúncios de venda do Facebook com sucesso.
+   Muito bem! Os leads começarão a fluir para o Marketo à medida que você executa campanhas de Anúncios de leads do Facebook bem-sucedidas.
 
    ![](assets/image2016-11-29-12-3a32-3a54.png)
 
 >[!MORELIKETHIS]
 >
->* [Usar Filtros e acionadores de propagandas em uma Campanha inteligente](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [Atribuir/remover permissões no Gerenciador de acesso de clientes potenciais (Facebook)](https://www.facebook.com/business/help/540596413257598?id=735435806665862)
+>* [Usar filtros e acionadores de anúncios de lead em uma campanha inteligente](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [Mapear campos personalizados para o Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
