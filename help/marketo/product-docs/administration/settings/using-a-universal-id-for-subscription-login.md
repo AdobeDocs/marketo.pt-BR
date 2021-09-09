@@ -3,15 +3,14 @@ unique-page-id: 10100311
 description: Usar uma ID universal para logon de assinatura - Documentos do Marketo - Documentação do produto
 title: Uso de uma ID universal para logon de assinatura
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 591279dfb573853eb8781d7984c65716804120b0
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '604'
 ht-degree: 1%
 
 ---
 
-# Usar uma ID universal para o logon de assinatura {#using-a-universal-id-for-subscription-login}
+# Uso de uma ID universal para logon de assinatura {#using-a-universal-id-for-subscription-login}
 
 Uma ID universal permite que você acesse várias assinaturas do Marketo com um único logon e alterne entre assinaturas rapidamente. No entanto, você pode usar logons diferentes para assinaturas se desejar.
 
@@ -19,13 +18,9 @@ Com a ID universal, você ainda cria tíquetes de suporte para cada assinatura i
 
 As configurações de nível de assinatura são respeitadas para usuários que usam a ID universal, por exemplo, funções, permissões e políticas de senha. As alterações no nível do perfil do usuário são refletidas em todas as subscrições, por exemplo, nome, sobrenome e endereço de email.
 
-## Configuração de uma ID universal {#setting-up-a-universal-id}
+## Como configurar uma ID universal {#setting-up-a-universal-id}
 
 De cada instância individual, o administrador do Marketo deve convidá-lo para cada uma de suas diferentes subscrições com o mesmo logon. O Marketo não pode mesclar seus logons existentes automaticamente. Depois de habilitar a ID universal, **a instância do Marketo estará indisponível** por até 30 minutos. Se você tiver uma base de usuário maior, pode ser um pouco mais longa.
-
->[!CAUTION]
->
->Se a ID única ou a ID universal estiver ativada para um usuário, suas funções e espaços de trabalho poderão **não** ser editados após sua configuração inicial.
 
 >[!NOTE]
 >
