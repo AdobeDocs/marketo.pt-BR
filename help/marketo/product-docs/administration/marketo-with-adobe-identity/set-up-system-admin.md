@@ -3,24 +3,26 @@ description: Configurar o administrador do sistema - Documentação do Marketo -
 title: Configurar o administrador do sistema
 hide: true
 hidefromtoc: true
-source-git-commit: 5d068e01870b4ced4a444c48f8a257f88a869384
+source-git-commit: 361a736fdf28a2e929cc781ba8eec27c6e1fbf30
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 1%
+source-wordcount: '194'
+ht-degree: 0%
 
 ---
 
 # Configurar o administrador do sistema {#set-up-system-admin}
 
+## Criar um perfil de produto {#create-a-product-profile}
+
 Texto
 
-Depois de adicionado como Administrador do sistema da Marketo ao (o? an?) Adobe org, há algumas etapas que você precisa seguir para concluir a configuração.
+Depois que você é adicionado como Administrador do sistema do Marketo a uma organização do Adobe, há algumas etapas que você precisa seguir para concluir a configuração.
 
-1. No email recebido (como eles recebem isso?), clique em **Introdução**.
+1. Depois que sua organização do Adobe for estabelecida, o Administrador do sistema designado receberá um email de boas-vindas. Nesse email, clique em **Introdução**.
 
 PICC
 
-1. Entrar na Adobe Identty?
+1. Entrar na Adobe Identty? LINK PARA O DOCUMENTO EXISTENTE - SE CONFIGURAR IGNORAR PARA ETAPA ?
 
 PICC
 
@@ -32,7 +34,7 @@ PICC
 
 PICC
 
-1. texto.
+1. (escolha a assinatura - essas etapas devem ser seguidas para cada sub)
 
 PICC
 
@@ -44,6 +46,8 @@ PICC
 
 PICC
 
+(se você configurar vários perfis de produto, independentemente de qual um usuário é adicionado, eles terão o mesmo acesso ao Marketo)
+
 ## Adicionar um administrador de produto {#add-a-product-admin}
 
 1. Depois de seguir as etapas acima, clique na guia **Admins**.
@@ -54,4 +58,6 @@ PICC
 
 PICC
 
-1. Localize o usuário que deseja adicionar. O nome e o sobrenome são opcionais.
+1. Localize o usuário que deseja adicionar. O nome e o sobrenome são opcionais. NÃO PREENCHA O PRÉ-PREENCHIMENTO
+
+PICC
