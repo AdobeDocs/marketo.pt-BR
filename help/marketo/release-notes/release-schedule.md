@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: Programação de versão - Documentação do Marketo - Documentação do produto
 title: Programação de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 5%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 **Versão**: O Marketo usa uma programação trimestral de versões principais. Uma vez disponível, cada uma das notas de versão será vinculada na tabela abaixo.
 
-**Data** de lançamento: A implantação normalmente começa na quarta-feira da semana do lançamento, com a maior parte da atualização acontecendo na sexta-feira à noite. Um email é enviado com datas específicas e detalhes de lançamento. A data listada é para a atualização de sexta-feira.
+**Data** de lançamento: A implantação normalmente começa na terça-feira da semana do lançamento, com a maior parte da atualização ocorrendo na noite de sexta-feira. Um email é enviado com datas específicas e detalhes de lançamento. A data listada é para a atualização de sexta-feira.
 
 **Progresso**:
 
