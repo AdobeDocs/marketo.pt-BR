@@ -3,9 +3,9 @@ description: Visão geral - Documentação do Marketo - Documentação do produt
 title: Visão geral
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '658'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ Embora haja um cartão de produto no AC for Sales Connect, o AC não deve ser us
 
 **Ainda vou para a seção Admin no Marketo para fazer alterações na conta?**
 
-Não, você precisaria navegar para [account.adobe.com](account.adobe.com).
+Não, você precisaria navegar para [account.adobe.com](https://account.adobe.com).
 
 **Como isso funciona com a ID universal do Marketo?**
 
