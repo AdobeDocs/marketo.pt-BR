@@ -1,0 +1,30 @@
+---
+unique-page-id: 8784011
+description: Modelo 10-E - Documentos do Marketo - Documentação do produto
+title: Modelo 10-E
+exl-id: 81a61057-fe24-4dcb-9a9c-73eca9528b4b
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 0%
+
+---
+
+# Modelo 10-E {#template-e}
+
+[Download do modelo 10-E](https://docs.marketo.com/download/attachments/8784011/template-10e.html?version=2&amp;modificationdate=1438210974000&amp;api=v2)
+
+![](assets/image2015-7-27-11-3a6-3a25.png)
+
+Esse template inclui o seguinte conteúdo:
+
+* Uma seção primária
+
+   * inclui um cabeçalho herói, um texto herói e um formulário
+
+* Três seções de corpo (opcional)
+* Um rodapé (opcional)
+
+**Clique abaixo para baixar este modelo:**
+
+[Template10-E.html](https://docs.marketo.com/download/attachments/8784011/template-10e.html?version=2&amp;modificationdate=1438210974000&amp;api=v2)
