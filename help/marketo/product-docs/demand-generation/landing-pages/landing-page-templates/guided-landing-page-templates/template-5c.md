@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783920
-description: Modelo 5-C - Documentos do Marketo - Documentação do produto
-title: Modelo 5-C
+description: Modelo 5C - Documentos do Marketo - Documentação do produto
+title: Modelo 5C
 exl-id: b0e6d27e-676a-4162-a34f-65ace83f27c9
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# Modelo 5-C {#template-c}
+# Modelo 5C {#template-5c}
 
-[Download do modelo 5-C](https://docs.marketo.com/download/attachments/8783920/template-5c.html?version=1&amp;modificationdate=1437692983000&amp;api=v2)
+[Download do modelo 5C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)
 
 ![](assets/image2015-7-29-14-3a59-3a31.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique abaixo para baixar este modelo:**
 
-[Template5-C.html](https://docs.marketo.com/download/attachments/8783920/template-5c.html?version=1&amp;modificationdate=1437692983000&amp;api=v2)
+[Modelo 5C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)

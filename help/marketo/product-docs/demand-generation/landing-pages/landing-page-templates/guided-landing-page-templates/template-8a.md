@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783960
-description: Modelo 8-A - Documentos do Marketo - Documentação do produto
-title: Modelo 8-A
+description: Modelo 8A - Documentos do Marketo - Documentação do produto
+title: Modelo 8A
 exl-id: d73f9f29-7309-4525-a5fe-171ba67151ac
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Modelo 8-A {#template-a}
+# Modelo 8A {#template-8a}
 
-[Download do modelo 8-A](https://docs.marketo.com/download/attachments/8783960/template-8a.html?version=1&amp;modificationdate=1482174907000&amp;api=v2)
+[Download do modelo 8A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)
 
 ![](assets/image2015-7-29-9-3a53-3a6.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique abaixo para baixar este modelo:**
 
-[Modelo8-A.html](https://docs.marketo.com/download/attachments/8783960/template-8a.html?version=1&amp;modificationdate=1482174907000&amp;api=v2)
+[Modelo 8A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)

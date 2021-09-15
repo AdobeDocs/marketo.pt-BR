@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783947
-description: Modelo 7-C - Documentos do Marketo - Documentação do produto
-title: Modelo 7-C
+description: Modelo 7C - Documentos do Marketo - Documentação do produto
+title: Modelo 7C
 exl-id: 4c3925e9-dd00-4488-8c2b-4fa0194e80f1
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Modelo 7-C {#template-c}
+# Modelo 7C {#template-7c}
 
-[Download do modelo 7-C](https://docs.marketo.com/download/attachments/8783947/template-7c.html?version=1&amp;modificationdate=1437693360000&amp;api=v2)
+[Fazer download do modelo 7C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
 
 ![](assets/image2015-7-29-14-3a37-3a3.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique abaixo para baixar este modelo:**
 
-[Template7-C.html](https://docs.marketo.com/download/attachments/8783947/template-7c.html?version=1&amp;modificationdate=1437693360000&amp;api=v2)
+[Modelo 7C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
