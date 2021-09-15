@@ -3,16 +3,16 @@ unique-page-id: 9437846
 description: Modelo 16-E - Documentos do Marketo - Documentação do produto
 title: Modelo 16-E
 exl-id: 063cd16b-e697-4631-9c53-5bde216f9d98
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Modelo 16-E {#template-e}
+# Modelo 16-E {#template-16e}
 
-[Download do modelo 16-E](https://docs.marketo.com/download/attachments/9437846/template-16e.html?version=1&amp;modificationdate=1438980814000&amp;api=v2)
+[Download do modelo 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique abaixo para baixar este modelo:**
 
-[Template16-E.html](https://docs.marketo.com/download/attachments/9437846/template-16e.html?version=1&amp;modificationdate=1438980814000&amp;api=v2)
+[Modelo 16-E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)

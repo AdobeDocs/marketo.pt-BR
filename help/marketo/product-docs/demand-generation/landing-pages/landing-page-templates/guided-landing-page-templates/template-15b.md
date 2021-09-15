@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437819
-description: Modelo 15-B - Documentos do Marketo - Documentação do produto
-title: Modelo 15-B
+description: Modelo 15B - Documentos do Marketo - Documentação do produto
+title: Modelo 15B
 exl-id: ad55baf3-9670-42c2-8590-af0d4cf934a6
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Modelo 15-B {#template-b}
+# Modelo 15B {#template-15b}
 
-[Download do modelo 15-B](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)
+[Download do modelo 15B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
 
 ![](assets/image2015-8-13-13-3a29-3a31.png)
 
@@ -27,4 +27,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique abaixo para baixar este modelo:**
 
-[Template15-B.html](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)
+[Modelo 15B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
