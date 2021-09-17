@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 296dce8edf65115f9c10a79c4f1981b57739f713
+source-git-commit: abb4d95da5ba9d9a342b482287c89a4987eb4251
 workflow-type: tm+mt
-source-wordcount: '8089'
+source-wordcount: '8090'
 ht-degree: 5%
 
 ---
@@ -146,7 +146,6 @@ ht-degree: 5%
          + [Adicionar ON24 como um serviço do LaunchPoint](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [Adicionar ReadyTalk como um Serviço do LaunchPoint](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [Adicionar logon único a um portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [Adicionar o Slack como um Serviço do LaunchPoint](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
          + [Adicionar WebEx como um Serviço do LaunchPoint](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Adicionar local de trabalho do Facebook as a LaunchPoint Service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Adicionar Zoom como um Serviço do LaunchPoint](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
@@ -619,6 +618,10 @@ ht-degree: 5%
          + [Adicionar a Correspondência de Cliente do Google como um Serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Enviar uma lista para uma rede de anúncios](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + Bate-papo dinâmico {#dynamic-chat}
+         + [Visão geral do bate-papo dinâmico](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Diálogos](product-docs/demand-generation/dynamic-chat/dialogues.md)
+         + [Configuração](product-docs/demand-generation/dynamic-chat/configuration.md)
       + Eventos {#events}
          + Compreender eventos {#understanding-events}
             + [Adicionar membros a um programa de evento](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
