@@ -3,15 +3,14 @@ unique-page-id: 12983280
 description: Notas de versão - Último trimestre de 2017 - Documentos da Marketo - Documentação do produto
 title: Notas de versão - Último trimestre de 2017
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cbfa6110e85c185a5b65342052f168d9715f2f6a
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 11%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Notas de versão: Último trimestre de 2017 {#release-notes-fall}
+# Notas de versão: Último trimestre de 1917 {#release-notes-fall}
 
 Os seguintes recursos estão incluídos na versão lançada no último trimestre de 1917. Verifique sua edição do Marketo para ver a disponibilidade dos recursos.
 
@@ -47,7 +46,7 @@ O Marketo tem uma nova opção para selecionar um segmento ao enviar emails de a
 
 Personalize seus formulários de geração de leads do LinkedIn para coletar atributos personalizados dos leads. Agora é possível fazer até três perguntas personalizadas por formulário, escolher entre entrada de texto de uma única linha ou perguntas de múltipla escolha e mapear de volta para os campos de lead do Marketo.
 
-## [Integração do Slack](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## Integração do Slack {#slack-integration}
 
 Lançamos dois recursos como parte da nova integração do Slack:
 
