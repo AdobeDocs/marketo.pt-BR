@@ -3,7 +3,7 @@ description: Diálogos - Documentos do Marketo - Documentação do produto
 title: Diálogos
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
@@ -95,7 +95,7 @@ Pergunta: Use quando quiser fazer uma pergunta de múltipla escolha, da qual voc
 
 Captura de informações: Use quando desejar coletar informações. Os três campos a serem escolhidos são Endereço de email, Número de telefone e Texto (o que permite que o visitante grave sua própria mensagem).
 
-Programador de Compromissos: Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete [o próximo agente na linha](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
+Programador de Compromissos: Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete [o próximo agente na linha](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
 
 Objetivo: Este é o único cartão que os visitantes não verão. Cabe a você determinar em qual ponto uma meta é alcançada dentro do chat específico (por exemplo: se coletar o email do visitante for seu objetivo, coloque o cartão Meta após Captura de informações no fluxo.)
 
