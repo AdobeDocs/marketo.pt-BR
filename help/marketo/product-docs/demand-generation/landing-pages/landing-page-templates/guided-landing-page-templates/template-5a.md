@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique abaixo para baixar este modelo:**
 
-[Modelo 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
+[Modelo 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
