@@ -1,9 +1,10 @@
 ---
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
-source-git-commit: 6f9b5a591a315fd6ff036cd5d51dbb432bd31733
+exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '903'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ Os seguintes recursos serão lançados em **20 de agosto de 2021**.
 
 ## Automação de experiência {#experience-automation}
 
-* **Autenticação de usuário do Marketo Engage via Adobe**: A partir de setembro de 2021, os novos usuários do Marketo Engage com pacotes empresariais serão integrados usando as credenciais do usuário do Adobe ID. A migração dos usuários atuais para o sistema de identidade integrado não ocorrerá até meados de 2022 e nenhuma ação será necessária até novo aviso. A autenticação de usuário de identidade do Adobe permite que administradores de TI/segurança gerenciem várias instâncias de produto do Marketo Engage junto com outras soluções do Experience Cloud, bem como a configuração de SSO por meio de um console comum. Administradores podem gerenciar convenientemente grupos de usuários e direitos de usuário em um local.
+* **Autenticação de usuário do Marketo Engage via Adobe**: Em breve, novos usuários do Marketo Engage com pacotes Enterprise serão integrados usando as credenciais do usuário do Adobe ID. A migração dos usuários atuais para o sistema de identidade integrado não ocorrerá até meados de 2022 e nenhuma ação será necessária até novo aviso. A autenticação de usuário de identidade do Adobe permite que administradores de TI/segurança gerenciem várias instâncias de produto do Marketo Engage junto com outras soluções do Experience Cloud, bem como a configuração de SSO por meio de um console comum. Administradores podem gerenciar convenientemente grupos de usuários e direitos de usuário em um local.
 
 * **Aninhamento** da campanha executável: As campanhas executáveis agora também podem chamar outras campanhas executáveis, permitindo aninhá-las com até três níveis de profundidade. Isso permite consolidar ainda mais os fluxos operacionais comuns e melhora o gerenciamento do Smart Campaign.
 

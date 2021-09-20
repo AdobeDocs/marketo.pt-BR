@@ -3,10 +3,10 @@ description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Docum
 title: Visão geral do bate-papo dinâmico
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 1%
+source-wordcount: '323'
+ht-degree: 0%
 
 ---
 
@@ -14,9 +14,13 @@ ht-degree: 1%
 
 texto de introdução
 
+>[!NOTE]
+>
+>O Dynamic Chat está sendo lançado, com todas as assinaturas tendo acesso por DATA.
+
 ## Configurar o bate-papo dinâmico {#access-dynamic-chat}
 
-texto
+Siga estas etapas para obter a configuração inicial.
 
 1. Em Meu Marketo, clique no bloco **Bate-papo dinâmico**.
 
@@ -24,7 +28,7 @@ texto
 
    >[!NOTE]
    >
-   >Se o administrador do Marketo ainda não tiver ativado o bloco para você, você também poderá [acessar o Bate-papo dinâmico aqui](https://experience.adobe.com/dynamic-chat/).
+   >Se não vir..entre em contato com seu administrador do Marketo).
 
 1. Se você acessou anteriormente um aplicativo com uma Adobe ID, você será direcionado diretamente para o Bate-papo dinâmico. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
@@ -32,19 +36,19 @@ texto
 
 1. Para conectar a instância do Marketo, selecione **Integrations**.
 
-PICC
+   PICC
 
 1. Clique em ?INSERIR TEXTO AQUI?.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Pode levar de 5 a 8 horas para a sincronização ser concluída, dependendo do tamanho do banco de dados. O tempo médio de sincronização é de 60 minutos.
+   >[!NOTE]
+   >
+   >Pode levar de 5 a 8 horas para a sincronização ser concluída, dependendo do tamanho do banco de dados. O tempo médio de sincronização é de 60 minutos.
 
 ## Integrações {#integrations}
 
-Integrações é a primeira guia que você deve visitar ao acessar o Bate-papo dinâmico. É onde você sincroniza suas Assinaturas do Marketo, permitindo utilizar seus dados do Banco de Dados para identificar visitantes do site/chat ([consulte a Etapa 3 acima](#access-dynamic-chat)).
+Integrações é a primeira guia que você deve visitar ao acessar o Bate-papo dinâmico. É onde você sincroniza suas Assinaturas do Marketo, permitindo utilizar seus dados do Marketo Database para identificar visitantes do site/chat ([consulte a Etapa 3 acima](#access-dynamic-chat)).
 
 ## Diálogos {#dialogues}
 

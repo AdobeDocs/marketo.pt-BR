@@ -3,9 +3,9 @@ description: Diálogos - Documentos do Marketo - Documentação do produto
 title: Diálogos
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ PICC
 
 Semelhante às Smart Lists da Marketo, os atributos de Critérios de público-alvo permitem que você defina seu público-alvo.
 
-Há vários atributos para escolher. Neste exemplo, estamos escolhendo Estado de lead _is_ Califórnia e o Tamanho da empresa _é maior que_ 50.
+Há vários atributos para escolher. Neste exemplo, estamos direcionando todos os leads conhecidos na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
 
 1. Pegue o atributo Estado de lead e arraste-o para a direita.
 
@@ -58,6 +58,10 @@ PICC
 
 PICC
 
+COMO CAPTURAR LEADS ANON
+
+OBSERVAÇÃO - talvez tenha mencionado como inferido funciona/mostra um caso de uso, o email de cliente potencial está vazio
+
 ## Adicionar grupos {#add-groups}
 
 Você também tem a opção de agrupar atributos, caso queira ter todos os atributos específicos junto com &quot;qualquer&quot; outro.
@@ -77,4 +81,24 @@ Formatos aceitáveis:
 
 >[!NOTE]
 >
->O uso de um asterisco atua como um curinga abrangente. Assim, `https://*.website.com` colocaria a caixa de diálogo em cada página do site, incluindo subdomínios (por exemplo: support.site.com). E `https://website.com/folder/*` colocaria a caixa de diálogo em cada página HTML na pasta subsequente (por exemplo: nesse caso, considere que a pasta é &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
+>O uso de um asterisco atua como um curinga abrangente. Assim, `https://*.website.com` colocaria a caixa de diálogo em cada página do site, incluindo subdomínios (por exemplo: `support.website.com`). E `https://website.com/folder/*` colocaria a caixa de diálogo em cada página HTML na pasta subsequente (por exemplo: nesse caso, considere que a pasta é &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
+
+## Designer de fluxo {#stream-designer}
+
+O designer de fluxo contém cartões diferentes que podem ser adicionados para moldar a conversa de bate-papo.
+
+TABELA
+
+Mensagem: Use quando quiser fazer uma declaração sem nenhuma resposta necessária (por exemplo: &quot;Oi! Todos os itens estão 25% de desconto hoje com código SAVE25.&quot;)
+
+Pergunta: Use quando quiser fazer uma pergunta de múltipla escolha, da qual você fornece as respostas disponíveis (por exemplo: Em que tipo de veículo você está interessado? Respostas = SUV, Compacto, Caminhão etc.)
+
+Captura de informações: Use quando desejar coletar informações. Os três campos a serem escolhidos são Endereço de email, Número de telefone e Texto (o que permite que o visitante grave sua própria mensagem).
+
+Programador de Compromissos: Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete [o próximo agente na linha](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
+
+Objetivo: Este é o único cartão que os visitantes não verão. Cabe a você determinar em qual ponto uma meta é alcançada dentro do chat específico (por exemplo: se coletar o email do visitante for seu objetivo, coloque o cartão Meta após Captura de informações no fluxo.)
+
+POSSÍVEL SEÇÃO PRÓPRIA
+
+MOSTRAR EXEMPLOS ABAIXO
