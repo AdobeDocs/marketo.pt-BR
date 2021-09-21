@@ -3,11 +3,10 @@ unique-page-id: 2360362
 description: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited) - Documentos do Marketo - Documentação do produto
 title: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
 workflow-type: tm+mt
-source-wordcount: '731'
-ht-degree: 9%
+source-wordcount: '784'
+ht-degree: 8%
 
 ---
 
@@ -216,7 +215,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Código de área telef. indic.</td> 
+   <td>Código de área telefônica indicado</td> 
    <td>mkto71_Inferred_Phone_Area_Code</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
@@ -235,6 +234,10 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>Os valores nos campos atribuídos automaticamente pelo Marketo não estarão disponíveis imediatamente no Salesforce quando o novo campo for criado. A Marketo sincronizará os dados com o Salesforce na próxima atualização do registro em qualquer sistema (ou seja, uma atualização para qualquer um dos campos em sincronia entre o Marketo e o Salesforce).
 
 ## Mapear campos personalizados para conversões {#map-custom-fields-for-conversions}
 

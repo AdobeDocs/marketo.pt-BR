@@ -3,10 +3,9 @@ unique-page-id: 11372975
 description: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Professional) - Documentos do Marketo - Documentação do produto
 title: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '798'
 ht-degree: 8%
 
 ---
@@ -203,7 +202,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Código de área telef. indic.</td> 
+   <td>Código de área telefônica indicado</td> 
    <td>mkto71_Inferred_Phone_Area_Code</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
@@ -223,7 +222,11 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
  </tbody> 
 </table>
 
-## Mapear campos personalizados para conversões {#map-custom-fields-for-conversions}
+>[!NOTE]
+>
+>Os valores nos campos atribuídos automaticamente pelo Marketo não estarão disponíveis imediatamente no Salesforce quando o novo campo for criado. A Marketo sincronizará os dados com o Salesforce na próxima atualização do registro em qualquer sistema (ou seja, uma atualização para qualquer um dos campos em sincronia entre o Marketo e o Salesforce).
+
+## Mapear campos personalizados para conversões  {#map-custom-fields-for-conversions}
 
 Um campo personalizado no objeto de lead no Salesforce deve ser mapeado para um campo de contato no objeto de contato para que os dados sejam transferidos quando ocorrer uma conversão.
 
