@@ -3,9 +3,9 @@ description: Configuração - Documentação do Marketo - Documentação do prod
 title: Configuração
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '277'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ PICC (de caixa de papo inteira)
 
 **Estilo**
 
-O Estilo permite escolher as cores desejadas, a posição/o preenchimento da âncora da caixa de diálogo e o tipo/tamanho da fonte.
+É aqui que você definirá a aparência do chatbot onde suas Caixas de Diálogo serão exibidas, incluindo: cores, fontes, posicionamento do widget de bot e o nome/avatar do chatbot.
 
 A cor de cada categoria é determinada por um [valor de cor hexadecimal](https://color.adobe.com/create/color-wheel) (por exemplo, branco = #ffff, vermelho = #bf1932, etc.).
 
@@ -50,13 +50,13 @@ PICC da escolha do avatar
 
 ## Guia Privacidade {#privacy-tab}
 
-Clique na guia **Privacy** para adicionar/editar o URL da política de privacidade do site.
+Clique na guia **Privacy** para adicionar/editar o URL da política de privacidade do seu site (opcional).
 
 PICC
 
 ## Guia Instalação {#installation-tab}
 
-Clique na guia **Installation** para capturar o script que sua equipe de Web Dev precisará colocar em seu site.
+Para que o chatbot apareça no seu site, primeiro será necessário instalar o snippet do Dynamic Chat JavaScript. Clique nessa guia para localizar/copiar o código necessário. Se não estiver familiarizado com esta operação, entre em contato com a equipe da Web ou o departamento de TI para obter assistência.
 
 PICC
 

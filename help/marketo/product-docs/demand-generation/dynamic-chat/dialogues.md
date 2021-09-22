@@ -3,16 +3,16 @@ description: Diálogos - Documentos do Marketo - Documentação do produto
 title: Diálogos
 hide: true
 hidefromtoc: true
-source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # Diálogos {#dialogues}
 
-As caixas de diálogo são as conversas de chat específicas configuradas. Eles podem ser personalizados por aparência, assim como o que é dito e quem vê.
+As caixas de diálogo são as conversas de chat individuais que você irá configurar. Saiba como personalizá-las visualmente, determinar em quais páginas elas aparecem e decidir o que é dito, bem como quem as vê.
 
 ## Criar uma nova caixa de diálogo {#create-a-new-dialogue}
 
@@ -34,9 +34,9 @@ PICC
 
 ## Critérios de público-alvo {#audience-criteria}
 
-Semelhante às Smart Lists da Marketo, os atributos de Critérios de público-alvo permitem que você defina seu público-alvo.
+Semelhante às Smart Lists da Marketo, os atributos de Critérios de público-alvo permitem que você defina seu público-alvo. Você pode direcionar leads conhecidos ou desconhecidos usando atributos inferidos, de cliente potencial ou de empresa (ou uma combinação desses atributos).
 
-Há vários atributos para escolher. Neste exemplo, estamos direcionando todos os leads conhecidos na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
+Há _muitas_ combinações de atributos para escolher. Neste exemplo, estamos direcionando todos os leads conhecidos na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
 
 1. Pegue o atributo Estado de lead e arraste-o para a direita.
 
@@ -87,17 +87,29 @@ Formatos aceitáveis:
 
 O designer de fluxo contém cartões diferentes que podem ser adicionados para moldar a conversa de bate-papo.
 
-TABELA
-
-Mensagem: Use quando quiser fazer uma declaração sem nenhuma resposta necessária (por exemplo: &quot;Oi! Todos os itens estão 25% de desconto hoje com código SAVE25.&quot;)
-
-Pergunta: Use quando quiser fazer uma pergunta de múltipla escolha, da qual você fornece as respostas disponíveis (por exemplo: Em que tipo de veículo você está interessado? Respostas = SUV, Compacto, Caminhão etc.)
-
-Captura de informações: Use quando desejar coletar informações. Os três campos a serem escolhidos são Endereço de email, Número de telefone e Texto (o que permite que o visitante grave sua própria mensagem).
-
-Programador de Compromissos: Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete [o próximo agente na linha](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
-
-Objetivo: Este é o único cartão que os visitantes não verão. Cabe a você determinar em qual ponto uma meta é alcançada dentro do chat específico (por exemplo: se coletar o email do visitante for seu objetivo, coloque o cartão Meta após Captura de informações no fluxo.)
+<table>
+ <tr>
+  <td><strong>Mensagem</strong></td>
+  <td>Use quando quiser fazer uma declaração sem nenhuma resposta necessária (por exemplo: "Oi! Todos os itens estão 25% de desconto hoje com código SAVE25").
+</td>
+ </tr>
+ <tr>
+  <td><strong>Pergunta</strong></td>
+  <td>Use quando quiser fazer uma pergunta de múltipla escolha, da qual você fornece as respostas disponíveis (por exemplo: Em que tipo de veículo você está interessado? Respostas = SUV, Compacto, Caminhão, etc.).</td>
+ </tr>
+ <tr>
+  <td><strong>Captura de informações</strong></td>
+  <td>Use quando desejar coletar informações. Os três campos a serem escolhidos são Endereço de email, Número de telefone e Texto (o que permite que o visitante grave sua própria mensagem).</td>
+ </tr>
+ <tr>
+  <td><strong>Programador de Compromissos</strong></td>
+  <td>Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete [o próximo agente na linha](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+ </tr>
+ <tr>
+  <td><strong>Meta</strong></td>
+  <td>Este é o único cartão que os visitantes não verão. Cabe a você determinar em qual ponto uma meta é alcançada dentro do chat específico (por exemplo: se coletar o email do visitante for seu objetivo, coloque o cartão Meta após Captura de informações no fluxo).</td>
+ </tr>
+</table>
 
 POSSÍVEL SEÇÃO PRÓPRIA
 

@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '909'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ Esta seção inclui novos recursos para usuários Bizible que concluíram sua mi
 
 ## Anúncios {#announcements}
 
-* **Atualização das configurações** da ID universal de assinatura: Para dar suporte à futura integração do Marketo Engage e do Adobe Identity para os usuários existentes, todas as assinaturas do Marketo Engage serão unificadas na ativação do suporte à Universal ID.
+* **Atualização das configurações** da ID universal de assinatura: Para dar suporte à futura integração do Marketo Engage e do Adobe Identity para os usuários existentes, todas as assinaturas do Marketo Engage serão unificadas na ativação do suporte à Universal ID. Mais informações [podem ser encontradas aqui](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).

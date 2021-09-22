@@ -3,24 +3,24 @@ description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Docum
 title: Visão geral do bate-papo dinâmico
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
 
 # Visão geral do bate-papo dinâmico {#dynamic-chat-overview}
 
-texto de introdução
+O Dynamic Chat permite que você aproveite uma interface fácil de usar para direcionar ambos os leads (PESSOAS?) e contas no (VISITANDO O SEU?) site. Colete conteúdo relevante, como nome, informações de contato e texto livre. Os visitantes do site também podem marcar reuniões com sua equipe de vendas. Os dados dinâmicos de atividade de bate-papo e envolvimento podem ser usados para adicionar membros a programas do Marketo e acionar atividades entre canais.
 
 >[!NOTE]
 >
->O Dynamic Chat está sendo lançado, com todas as assinaturas tendo acesso por DATA.
+>O Dynamic Chat está atualmente em processo de implementação, com todas as subscrições que devem ter acesso até DATA.
 
 ## Configurar o bate-papo dinâmico {#access-dynamic-chat}
 
-Siga estas etapas para obter a configuração inicial.
+APÓS ADICIONAR O BLOCO... siga estas etapas para começar.
 
 1. Em Meu Marketo, clique no bloco **Bate-papo dinâmico**.
 
@@ -52,7 +52,7 @@ Integrações é a primeira guia que você deve visitar ao acessar o Bate-papo d
 
 ## Diálogos {#dialogues}
 
-As caixas de diálogo são as conversas de chat individuais que você irá configurar. Você pode especificar quem verá o que para visitantes conhecidos ou até anônimos. [Saiba mais sobre Diálogos](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+As caixas de diálogo representam um único envolvimento de chat. Pense nele como um contêiner com tudo o que você precisa para ter um diálogo de bate-papo envolvente com os visitantes do seu site. Em cada caixa de diálogo, você pode especificar em quais páginas deseja que a caixa de diálogo seja exibida, para quem deseja que ela seja exibida e o conteúdo e fluxo da própria caixa de diálogo. Além disso, você pode encontrar métricas para ver o desempenho da caixa de diálogo. [Saiba mais sobre Diálogos](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
 
 ## Configuração {#configuration}
 
@@ -60,14 +60,40 @@ Na guia Configuração , personalize a aparência das várias caixas de diálogo
 
 ## Calendário {#calendar}
 
-Na guia Calendário , conecte seu calendário (Outlook ou Gmail) ao Bate-papo dinâmico, para que os visitantes do site possam agendar compromissos com seus agentes.
+Na guia Calendário , conecte seu calendário (Outlook ou Gmail) para uso na programação de compromissos no chatbot. Quando o calendário de um usuário estiver conectado ao Dynamic Chat, ele será adicionado à fila e seu calendário estará disponível para os visitantes do site agendarem compromissos.
+
+Você também pode personalizar o corpo do email de convite? que é enviada ao visitante quando ele agenda um compromisso no calendário do usuário.
 
 ## Reuniões {#meetings}
 
-A guia Reuniões é onde você verá o status de todas as reuniões que seus agentes agendaram por meio do Bate-papo dinâmico, bem como outros detalhes relacionados.
+É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias Diálogos. Aqui você encontrará o endereço de e-mail do cliente potencial que reservou o compromisso, com qual agente eles reservaram o compromisso, quando o compromisso está agendado para ocorrer e se a reunião aconteceu ou não.
 
 PICC?
 
 ## Roteamento {#routing}
 
-O roteamento mostra a ordem na qual os agentes recebem reuniões, bem como o total de reuniões até o momento (por agente). As reuniões são ao estilo do robin, então se você tem cinco agentes e o agente três tomou a última reunião, o agente quatro terá a próxima, seguida por cinco, e então de volta ao agente um.
+É aqui que você pode ver uma lista de todos os agentes que conectaram seus calendários, bem como a ordem em que serão apresentados aos visitantes do site As reuniões rodam o estilo robin, então se você tiver cinco agentes e o agente três na última reunião, o agente quatro terá a próxima, seguida de cinco, e então de volta para o agente um.
+
+## Perguntas frequentes {#faq}
+
+ALGUM SIM? LOL—
+
+**O chatbot pode ser estilizado com CSS?**
+
+O chatbot não pode ser estilizado com CSS no momento.
+
+**Posso usar opções de fonte personalizadas?**
+
+Somente as opções de fonte predefinidas estão disponíveis no momento.
+
+**O Bate-papo dinâmico permite o bate-papo ao vivo?**
+
+Não, somente respostas pré-determinadas.
+
+**Você suporta a funcionalidade AI/NLP?**
+
+Não oferecemos suporte à funcionalidade AI/NLP.
+
+**O Dynamic Chat oferece idiomas além do inglês?**
+
+Não neste momento.

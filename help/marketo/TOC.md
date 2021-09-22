@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: abb4d95da5ba9d9a342b482287c89a4987eb4251
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '8090'
+source-wordcount: '8097'
 ht-degree: 5%
 
 ---
@@ -622,6 +622,8 @@ ht-degree: 5%
          + [Visão geral do bate-papo dinâmico](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Diálogos](product-docs/demand-generation/dynamic-chat/dialogues.md)
          + [Configuração](product-docs/demand-generation/dynamic-chat/configuration.md)
+         + [Adicionar ou remover usuários de bate-papo](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
+         + [Configuração inicial](product-docs/demand-generation/dynamic-chat/initial-setup.md)
       + Eventos {#events}
          + Compreender eventos {#understanding-events}
             + [Adicionar membros a um programa de evento](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
