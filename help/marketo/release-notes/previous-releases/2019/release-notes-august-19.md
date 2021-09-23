@@ -3,7 +3,7 @@ unique-page-id: 27656786
 description: Notas de versão - agosto de 2019 - Documentos da Marketo - Documentação do produto
 title: Notas de versão - agosto de 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 4%
@@ -20,7 +20,7 @@ Os seguintes recursos foram lançados em 16 de agosto de 2019.
 
 ## Marketo Engage principal {#core-marketo-engage}
 
-* **Estrutura de webinar extensível**: Economize tempo com a nova estrutura de webinar pronta para uso da Marketo (introduzida nas [Notas de versão do Winter 19](/help/marketo/release-notes/2019/release-notes-winter-19.md) que transmite dados de provedores de webinars com facilidade para o Marketo e vice-versa. O Crescimento e o Zoom agora estão disponíveis nessa nova estrutura.
+* **Estrutura de webinar extensível**: Economize tempo com a nova estrutura de webinários pronta para uso da Marketo (introduzida nas notas de versão do Winter 19) que transmite dados de provedores de webinários perfeitamente para o Marketo e vice-versa. O Crescimento e o Zoom agora estão disponíveis nessa nova estrutura.
 * **Atualização** da API do Smart Campaign: Gerencie os recursos de ciclo de vida da campanha inteligente ao concluir a interface CRUD (criar, ler, atualizar, excluir).
 * **Atualizar alteração** da API de cabeçalhos de email: A API Update Email Header não requer mais um email para ter um modelo anexado para atualizar campos de cabeçalho, como linha de assunto.
 
