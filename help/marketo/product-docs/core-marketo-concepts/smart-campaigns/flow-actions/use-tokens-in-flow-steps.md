@@ -3,19 +3,14 @@ unique-page-id: 1146995
 description: Usar tokens nas etapas do fluxo - Documentos do Marketo - Documentação do produto
 title: Usar tokens em etapas do fluxo
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 8%
+source-wordcount: '194'
+ht-degree: 5%
 
 ---
 
-# Usar tokens nas etapas do fluxo {#use-tokens-in-flow-steps}
-
->[!AVAILABILITY]
->
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+# Usar tokens em etapas do fluxo {#use-tokens-in-flow-steps}
 
 >[!PREREQUISITES]
 >
@@ -30,7 +25,9 @@ Um token é uma variável. Você o usa em emails, landing pages e campanhas inte
 * Criar tarefa
 * Enviar alerta (somente em campanhas acionadoras)
 
-1. Na etapa do fluxo, comece a digitar `{{` para obter categorias de token. ![](assets/image2014-9-22-14-3a3-3a17.png)
+1. Na etapa do fluxo, comece a digitar `{{` para obter categorias de token.
+
+   ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >

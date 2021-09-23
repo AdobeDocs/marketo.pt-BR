@@ -1,58 +1,55 @@
 ---
 unique-page-id: 12983291
-description: Noções sobre o fuso horário do Recipient - Documentos do Marketing - Documentação do produto
-title: Noções básicas sobre o fuso horário do Recipient
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Noções básicas sobre fuso horário do destinatário - Documentos do Marketo - Documentação do produto
+title: Noções básicas sobre fuso horário do destinatário
+exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
+source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 0%
+source-wordcount: '391'
+ht-degree: 1%
 
 ---
 
+# Noções básicas sobre fuso horário do destinatário {#understanding-recipient-time-zone}
 
-# Noções básicas sobre o fuso horário do Recipient {#understanding-recipient-time-zone}
-
-Os programas de e-mail e envolvimento podem ser configurados para serem entregues de acordo com os fusos horários dos recipient, eliminando a necessidade de criar vários programas — enviar uma vez e Marketo armazenam automaticamente o e-mail até o horário local correto.
+Os programas de email e de envolvimento podem ser configurados para serem entregues de acordo com os fusos horários dos recipients, eliminando a necessidade de criar vários programas. Enviar uma vez e o Marketo automaticamente armazena o email até o horário local correto.
 
 >[!NOTE]
 >
->Atualmente, o Fuso horário do recipient funciona **somente** com conteúdo de email. Não funcionará para programas de envolvimento padrão.
+>O Fuso horário do destinatário funciona atualmente **somente** com conteúdo de email. Ele não funcionará para programas de envolvimento padrão.
 
 ## Programas de e-mail {#email-programs}
 
-Há dois cenários principais quando [programar um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md):
+Há dois cenários principais ao [agendar um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md):
 
-1. Agendamento do programa para ser executado dentro das próximas 25 horas.
-1. Agendamento do programa para execução futura superior a 25 horas (isto é, semana que vem).
+1. Agendamento do programa para ser executado nas próximas 25 horas.
+1. Agendar o programa para ser executado mais de 25 horas no futuro (ou seja, na próxima semana).
 
-Para acomodar cada fuso horário, programas de e-mail programados com start de fuso horário de Recipient em execução à meia-noite no fuso horário **first/first** do mundo (UTC +14:00).
+Para acomodar cada fuso horário, os programas de email agendados com Fuso horário do destinatário começam a ser executados à meia-noite no fuso horário **first/first** no mundo (UTC +14:00).
 
 ## Programas de envolvimento {#engagement-programs}
 
-Quando você [programar um fluxo de programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) e o Fuso horário do Recipient estiver ativo, o programa lançado será executado à meia-noite em UTC +14:00. Exigimos que você agende o primeiro elenco pelo menos 25 horas no futuro (24 horas + algum tempo para começar a campanha) porque as pessoas podem se qualificar para o elenco em cada fuso horário do mundo. Começar o processamento neste momento no UTC +14:00 garante que entregaremos o email na data e hora agendadas para cada pessoa que se qualificar para este elenco.
+Quando você [agendar um fluxo de programa de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) e o Fuso Horário do Recipient estiver ativo, o lançamento do programa começará a ser executado à meia-noite em UTC +14:00. Exigimos que você programe a primeira transmissão pelo menos 25 horas no futuro (24 horas + algum tempo para iniciar a campanha), pois as pessoas podem se qualificar para a transmissão em cada fuso horário em todo o mundo. Iniciando o processamento nesse momento em UTC +14:00 garante que enviaremos o email na data e hora programadas para cada pessoa qualificada para esse elenco.
 
-## Calculando fuso horário {#calculating-time-zone}
+## Calculando Fuso Horário {#calculating-time-zone}
 
-O Marketo calcula o fuso horário com base na Cidade, Estado, País ou CEP de uma pessoa. Se não pudermos calcular o fuso horário de alguém a partir desses valores, revertemos para os campos Cidade Inferida, Estado Inferido, País Inferido e Código Postal Inferido.
+O Marketo calcula o fuso horário com base na Cidade, Estado, País ou CEP de uma pessoa. Se não pudermos calcular o fuso horário de alguém a partir desses valores, revertemos para os campos Inferred City, Inferred State, Inferred Country e Inferred Zip Code .
 
 Nos casos em que temos **apenas** País ou **apenas** Estado disponível:
 
 * Para países com três ou menos fusos horários, selecionamos o fuso horário médio.
-* Para estados com dois fusos horários, selecionamos o anterior dos dois.
+* Para estados com dois fusos horários, selecionamos o anterior.
 
-Se ainda não for possível determinar o fuso horário de alguém a partir de qualquer combinação desses campos, nós **not** atribuiremos um fuso horário e o email será entregue com base no fuso horário da sua subscrição do Marketo. Portanto, se seu programa estiver programado para PDT das 9h00, as pessoas sem fuso horário atribuído receberão o email às 9h00 PDT.
+Se ainda não pudermos determinar o fuso horário de alguém a partir de qualquer combinação desses campos, **not** atribuiremos um fuso horário e o email será enviado com base no fuso horário da sua assinatura do Marketo. Portanto, se seu programa estiver programado para 9:00 PDT, as pessoas sem fuso horário atribuído serão enviadas ao email às 9:00 PDT.
 
 >[!NOTE]
 >
->O Marketo calcula novamente o fuso horário de uma pessoa quando qualquer um dos campos de entrada acima é alterado.
+>O Marketo recalcula automaticamente o fuso horário de uma pessoa quando qualquer um dos campos de entrada acima é alterado.
 
 >[!MORELIKETHIS]
 >
->* [Agendar Programas de e-mail com fuso horário do Recipient](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Start principal para Programas de e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
-
-   >
-   >
-* [Agendar Programas de envolvimento com fuso horário do Recipient](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>* [Programar programas de e-mail com fuso horário do destinatário](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Início do cabeçalho para programas de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>
+>* [Programar programas de envolvimento com fuso horário do destinatário](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
