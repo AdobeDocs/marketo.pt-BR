@@ -3,9 +3,9 @@ description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Docum
 title: Visão geral do bate-papo dinâmico
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -78,17 +78,9 @@ PICC?
 
 ALGUM SIM? LOL—
 
-**O chatbot pode ser estilizado com CSS?**
-
-O chatbot não pode ser estilizado com CSS no momento.
-
-**Posso usar opções de fonte personalizadas?**
-
-Somente as opções de fonte predefinidas estão disponíveis no momento.
-
 **O Bate-papo dinâmico permite o bate-papo ao vivo?**
 
-Não, somente respostas pré-determinadas.
+Não, ele utiliza apenas respostas predeterminadas.
 
 **Você suporta a funcionalidade AI/NLP?**
 
