@@ -3,9 +3,9 @@ description: Configuração - Documentação do Marketo - Documentação do prod
 title: Configuração
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,11 @@ Saiba como personalizar a aparência da janela de diálogo do chatbot.
 
 Para começar, clique em **Configuração**.
 
-PICC
+![](assets/configuration-1.png)
 
 Há várias opções de personalização diferentes.
 
-PICC (de caixa de papo inteira)
+![](assets/configuration-2.png)
 
 ## Guia Estilo {#style-tab}
 
@@ -30,35 +30,33 @@ PICC (de caixa de papo inteira)
 
 A cor de cada categoria é determinada por um [valor de cor hexadecimal](https://color.adobe.com/create/color-wheel) (por exemplo, branco = #ffff, vermelho = #bf1932, etc.).
 
-PICC
+![](assets/configuration-3.png)
 
-A Âncora permite que o visitante do site abra/feche a caixa de diálogo. Você pode escolher se deseja que o ícone apareça na parte inferior direita ou inferior esquerda. Você também pode aumentar/diminuir o preenchimento (a quantidade de espaço entre a caixa de diálogo e o ícone).
+A Âncora permite que o visitante do site abra/feche a caixa de diálogo. Você pode escolher se deseja que o ícone apareça na parte inferior direita ou inferior esquerda. Você também pode aumentar/diminuir o preenchimento (a quantidade de espaço entre o ícone e a parte inferior da página da Web).
 
-PICC de âncora
-
-PICC de preenchimento
+![](assets/configuration-4.png)
 
 **Configurações do agente**
 
 Em Configurações do agente, você pode adicionar um rótulo à sua caixa de diálogo (por exemplo: &quot;Adobe Bot&quot;) que aparecerá na parte superior. Você também pode determinar o atraso da resposta (em segundos) e alterar o avatar do chat.
 
-PICC da definição do nome
+![](assets/configuration-5.png)
 
-PICC de definição de atraso
+Quando terminar de fazer alterações, lembre-se de clicar em **Salvar**.
 
-PICC da escolha do avatar
+![](assets/configuration-6.png)
 
 ## Guia Privacidade {#privacy-tab}
 
 Clique na guia **Privacy** para adicionar/editar o URL da política de privacidade do seu site (opcional).
 
-PICC
+![](assets/configuration-7.png)
 
 ## Guia Instalação {#installation-tab}
 
 Para que o chatbot apareça no seu site, primeiro será necessário instalar o snippet do Dynamic Chat JavaScript. Clique nessa guia para localizar/copiar o código necessário. Se não estiver familiarizado com esta operação, entre em contato com a equipe da Web ou o departamento de TI para obter assistência.
 
-PICC
+![](assets/configuration-8.png)
 
 >[!NOTE]
 >

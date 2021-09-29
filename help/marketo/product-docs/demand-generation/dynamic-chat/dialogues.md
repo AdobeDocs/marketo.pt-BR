@@ -3,10 +3,10 @@ description: Diálogos - Documentos do Marketo - Documentação do produto
 title: Diálogos
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '504'
-ht-degree: 0%
+source-wordcount: '523'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ PICC
 
 >[!NOTE]
 >
->EXPLICAR NÍVEL DE PRIORIDADE
+>O nível de prioridade determina onde a caixa de diálogo é exibida na lista (por exemplo: priority = 1 significa que estará no topo).
 
 ## Critérios de público-alvo {#audience-criteria}
 
@@ -114,3 +114,7 @@ O designer de fluxo contém cartões diferentes que podem ser adicionados para m
 POSSÍVEL SEÇÃO PRÓPRIA
 
 MOSTRAR EXEMPLOS ABAIXO
+
+## Relatórios {#reports}
+
+Texto

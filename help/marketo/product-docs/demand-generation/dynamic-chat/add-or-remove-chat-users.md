@@ -3,9 +3,9 @@ description: Adicionar ou remover usuários de bate-papo - Documentos do Marketo
 title: Adicionar ou remover usuários de bate-papo
 hide: true
 hidefromtoc: true
-source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
+source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -18,35 +18,35 @@ Siga as etapas abaixo para adicionar ou remover usuários do chat.
 
 1. Faça logon no [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   PICC
+   ![](assets/add-or-remove-chat-users-1.png)
 
 1. Clique em **Bate-papo dinâmico**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-2.png)
 
-1. Selecione a subscrição desejada (caso tenha mais de uma).
-
-   PICC
+   >[!NOTE]
+   >
+   >Se tiver mais de uma assinatura do Marketo, selecione a desejada antes da próxima etapa).
 
 1. Clique na guia **Users**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-3.png)
 
 1. Clique no botão **Adicionar Usuário**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-4.png)
 
 1. Insira o nome, o grupo de usuários ou o endereço de email do usuário que você deseja adicionar. O nome e o sobrenome são opcionais.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-5.png)
 
 1. Clique no ícone **+** e selecione o perfil de produto desejado.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-6.png)
 
 1. Clique em **Salvar**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-7.png)
 
 O usuário receberá um email para fazer logon no Marketo.
 
@@ -54,27 +54,31 @@ O usuário receberá um email para fazer logon no Marketo.
 
 1. Faça logon no [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   PICC
+   ![](assets/add-or-remove-chat-users-8.png)
 
-1. Clique em **Marketo Engage**.
+1. Clique em **Bate-papo dinâmico**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-9.png)
 
-1. Selecione a subscrição desejada (caso tenha mais de uma).
-
-   PICC
+   >[!NOTE]
+   >
+   >Se tiver mais de uma assinatura do Marketo, selecione a desejada antes da próxima etapa).
 
 1. Clique na guia **Users**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-10.png)
 
-1. Selecione o usuário que deseja remover e clique no botão **Remover**.
+1. Selecione o usuário que deseja remover.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-11.png)
+
+1. Clique no botão **Remover usuário**.
+
+   ![](assets/add-or-remove-chat-users-12.png)
 
 1. Clique em **Remover Usuário** para confirmar.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-13.png)
 
 >[!MORELIKETHIS]
 >

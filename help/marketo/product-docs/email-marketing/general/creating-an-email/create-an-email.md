@@ -1,69 +1,68 @@
 ---
 unique-page-id: 10912163
-description: Criar um e-mail - Documentos do Marketing - Documentação do produto
+description: Criar um email - Documentos do Marketo - Documentação do produto
 title: Criar um email
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
 # Criar um email {#create-an-email}
 
-Há duas formas principais de criar um email no Marketo. Vamos olhar para ambos.
+Há duas maneiras principais de criar um email no Marketo. Vamos olhar para ambos.
 
 ## Criar um email no Design Studio {#create-an-email-in-the-design-studio}
 
 1. Vá para o **Design Studio**.
 
-   ![](assets/one-4.png)
+   ![](assets/create-an-email-1.png)
 
-1. Clique no menu suspenso **Novo** e selecione **Novo e-mail**.
+1. Clique no menu suspenso **New** e selecione **New Email**.
 
-   ![](assets/two-4.png)
+   ![](assets/create-an-email-2.png)
 
    >[!NOTE]
    >
-   >Quando você cria um email no Design Studio, ele pode ser encontrado na árvore em &quot;Emails&quot;.
+   >Ao criar um email no Design Studio, ele pode ser encontrado na árvore em &quot;Emails&quot;.
 
-Simples! Agora, pelo contrário...
+Simples! Por outro lado...
 
-## Criar um email no Marketing Atividade {#create-an-email-in-marketing-activities}
+## Criar um email nas atividades de marketing {#create-an-email-in-marketing-activities}
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **Marketing Activities**.
 
-   ![](assets/three-3.png)
+   ![](assets/create-an-email-3.png)
 
-1. Selecione o programa ao qual deseja adicionar o email, clique no menu suspenso **Novo** e selecione **Novo ativo local**.
+1. Selecione o programa ao qual deseja adicionar o email, clique no menu suspenso **New** e selecione **New Local Asset**.
 
-   ![](assets/four-3.png)
+   ![](assets/create-an-email-4.png)
 
 1. Clique em **Email**.
 
-   ![](assets/five-2.png)
+   ![](assets/create-an-email-5.png)
 
    E é isso!
 
-Qualquer que seja o método escolhido, o levará ao seletor de modelo.
+Qualquer método que você escolher leva você ao seletor de modelo.
 
 1. Dê um nome ao seu email, clique no modelo que deseja usar e clique em **Criar**.
 
-   ![](assets/six-2.png)
+   ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >Você pode escolher entre uma coleção de modelos de e-mail responsivos prontos para ir ou um modelo salvo selecionando **Meus modelos** e seguindo as mesmas etapas.
+   >Você pode escolher em uma coleção de modelos de email responsivos prontos para uso ou um modelo salvo selecionando primeiro **Meus modelos** e seguindo as mesmas etapas.
 
-1. Informe uma linha de assunto. Há um contador à direita para avisar se você está abaixo do máximo recomendado de 50 caracteres.
+1. Informe uma linha de assunto. O limite de caracteres recomendado é 50.
 
-   ![](assets/seven-1.png)
+   ![](assets/create-an-email-7.png)
 
-   Dependendo do modelo escolhido, você terá opções diferentes para editar seu email. Para emails com módulos, faça o check-out de [Adicionar módulos ao seu email](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+   Dependendo do modelo escolhido, você terá opções diferentes para editar seu email. Para emails com módulos, marque [Adicionar módulos ao seu email](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
-Seu e-mail agora é criado, então edite-o!
+Seu email foi criado, então edite-o!
 
 >[!MORELIKETHIS]
 >

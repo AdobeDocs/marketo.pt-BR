@@ -3,9 +3,9 @@ description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Docum
 title: Visão geral do bate-papo dinâmico
 hide: true
 hidefromtoc: true
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -18,37 +18,9 @@ O Dynamic Chat permite que você aproveite uma interface fácil de usar para dir
 >
 >O Dynamic Chat está atualmente em processo de implementação, com todas as subscrições que devem ter acesso até DATA.
 
-## Configurar o bate-papo dinâmico {#access-dynamic-chat}
-
-APÓS ADICIONAR O BLOCO... siga estas etapas para começar.
-
-1. Em Meu Marketo, clique no bloco **Bate-papo dinâmico**.
-
-   PICC
-
-   >[!NOTE]
-   >
-   >Se não vir..entre em contato com seu administrador do Marketo).
-
-1. Se você acessou anteriormente um aplicativo com uma Adobe ID, você será direcionado diretamente para o Bate-papo dinâmico. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
-
-   PICC
-
-1. Para conectar a instância do Marketo, selecione **Integrations**.
-
-   PICC
-
-1. Clique em ?INSERIR TEXTO AQUI?.
-
-   PICC
-
-   >[!NOTE]
-   >
-   >Pode levar de 5 a 8 horas para a sincronização ser concluída, dependendo do tamanho do banco de dados. O tempo médio de sincronização é de 60 minutos.
-
 ## Integrações {#integrations}
 
-Integrações é a primeira guia que você deve visitar ao acessar o Bate-papo dinâmico. É onde você sincroniza suas Assinaturas do Marketo, permitindo utilizar seus dados do Marketo Database para identificar visitantes do site/chat ([consulte a Etapa 3 acima](#access-dynamic-chat)).
+Um componente essencial do Dynamic Chat é sua capacidade de fazer interface nativa com sua assinatura do Marketo. Para aproveitar todo o recurso dessa integração, primeiro será necessário iniciar a sincronização de dados. Pode levar até 24 horas para a sincronização inicial [única](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) ser concluída.
 
 ## Diálogos {#dialogues}
 
@@ -68,23 +40,27 @@ Você também pode personalizar o corpo do email de convite? que é enviada ao v
 
 É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias Diálogos. Aqui você encontrará o endereço de e-mail do cliente potencial que reservou o compromisso, com qual agente eles reservaram o compromisso, quando o compromisso está agendado para ocorrer e se a reunião aconteceu ou não.
 
-PICC?
-
 ## Roteamento {#routing}
 
 É aqui que você pode ver uma lista de todos os agentes que conectaram seus calendários, bem como a ordem em que serão apresentados aos visitantes do site As reuniões rodam o estilo robin, então se você tiver cinco agentes e o agente três na última reunião, o agente quatro terá a próxima, seguida de cinco, e então de volta para o agente um.
 
 ## Perguntas frequentes {#faq}
 
-ALGUM SIM? LOL—
-
 **O Bate-papo dinâmico permite o bate-papo ao vivo?**
 
 Não, ele utiliza apenas respostas predeterminadas.
 
+**Como posso direcionar leads anônimos?**
+
+Na caixa de diálogo, seria necessário usar o atributo _E-mail de lead está vazio_.
+
 **Você suporta a funcionalidade AI/NLP?**
 
 Não oferecemos suporte à funcionalidade AI/NLP.
+
+**Os dados são armazenados por quanto tempo?**
+
+90 dias.
 
 **O Dynamic Chat oferece idiomas além do inglês?**
 

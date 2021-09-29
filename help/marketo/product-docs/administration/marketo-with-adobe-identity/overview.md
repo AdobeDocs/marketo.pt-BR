@@ -3,9 +3,9 @@ description: Visão geral - Documentação do Marketo - Documentação do produt
 title: Visão geral
 hide: true
 hidefromtoc: true
-source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '671'
 ht-degree: 1%
 
 ---
@@ -98,3 +98,9 @@ Nº O fluxo de trabalho de Convite de usuário não está mais ativo quando uma 
 **Para o Adobe IMS, temos a opção de usar o Adobe ID, o Enterprise ID ou o Federated ID?**
 
 Sim, você determina o tipo de identidade para ter o suporte da organização. Mais informações [aqui](https://helpx.adobe.com/enterprise/using/identity.html) e [aqui](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+>[!MORELIKETHIS]
+>
+>* [Configuração do administrador](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+>* [Adicionar ou remover um administrador de produto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>* [Adicionar ou remover um usuário](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)

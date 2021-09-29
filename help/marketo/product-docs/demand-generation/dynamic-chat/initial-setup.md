@@ -3,16 +3,18 @@ description: Configuração inicial - Documentação do Marketo - Documentação
 title: Configuração inicial
 hide: true
 hidefromtoc: true
-source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
 # Configuração inicial {#initial-setup}
 
-texto de introdução
+## Admin Console de acesso {#access-admin-console}
+
+Siga as etapas abaixo para configurar o Bate-papo dinâmico.
 
 >[!NOTE]
 >
@@ -20,16 +22,28 @@ texto de introdução
 
 1. Depois que o Dynamic Chat for ativado para sua instância do Marketo, o Administrador do sistema designado receberá um email de boas-vindas. Nesse email, clique em **Introdução**.
 
-   PICC
+   ![](assets/initial-setup-1.png)
 
 1. Se você acessou anteriormente um aplicativo com uma Adobe ID, você será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
-   PICC
+   ![](assets/initial-setup-2.png)
 
-1. Adicionar usuários (etapas a serem seguidas)
+## Adicionar usuários {#add-users}
 
-Segunda etapa da ação - está no Marketo - Depois de adicionar usuário no Admin Console, ele volta ao Marketo (usuários e funções) e adiciona permissão de DC a todos os agentes [COMING LATE PTU, sem captura de tela]
+1. Depois de fazer logon no Admin Console, a próxima coisa a fazer é adicionar usuários. Esse processo [está documentado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
->[!NOTE]
+## Adicionar permissões no Marketo {#add-permissions-in-marketo}
+
+Depois de adicionar usuários no Admin Console, você deve conceder permissões no Marketo.
+
+1. No Marketo, clique em **Admin**.
+
+1. Localize o usuário desejado e clique duas vezes nele.
+
+1. Adicione **Acesse o Chat Dinâmico** e clique em **Salvar**.
+
+>[!IMPORTANT]
 >
->Siga as etapas na ordem listada. Se alguém receber permissão primeiro no Marketo, ele verá o bloco Bate-papo dinâmico, mas não terá acesso de usuário.
+>Siga as etapas na ordem listada acima. Se alguém receber permissão primeiro no Marketo, ele verá o bloco Bate-papo dinâmico, mas não terá acesso de usuário.
+
+O próximo passo é acessar [Bate-papo dinâmico](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).
