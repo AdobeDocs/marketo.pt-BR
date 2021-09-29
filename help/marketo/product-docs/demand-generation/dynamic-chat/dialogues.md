@@ -3,9 +3,9 @@ description: Diálogos - Documentos do Marketo - Documentação do produto
 title: Diálogos
 hide: true
 hidefromtoc: true
-source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
+source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '752'
 ht-degree: 1%
 
 ---
@@ -139,7 +139,9 @@ O designer de fluxo contém cartões diferentes que podem ser adicionados para m
 
 **Criar um fluxo**
 
-Há _muitas_ combinações de fluxo para criar. Neste exemplo, faremos uma pergunta e prepararemos o .
+Há _muitas_ combinações de fluxo para criar. Neste exemplo, vamos fazer uma pergunta sim ou não e preparar algumas respostas.
+
+EXEMPLO
 
 ## Relatórios {#reports}
 
