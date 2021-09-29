@@ -3,16 +3,16 @@ description: Diálogos - Documentos do Marketo - Documentação do produto
 title: Diálogos
 hide: true
 hidefromtoc: true
-source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
+source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '745'
 ht-degree: 1%
 
 ---
 
 # Diálogos {#dialogues}
 
-As caixas de diálogo são as conversas de chat individuais que você irá configurar. Saiba como personalizá-las visualmente, determinar em quais páginas elas aparecem e decidir o que é dito, bem como quem as vê.
+As caixas de diálogo são conversas de chat individuais. Saiba como personalizá-las visualmente, determinar em quais páginas elas aparecem e decidir o que é dito, bem como quem as vê.
 
 ## Criar uma nova caixa de diálogo {#create-a-new-dialogue}
 
@@ -30,7 +30,7 @@ As caixas de diálogo são as conversas de chat individuais que você irá confi
 
 >[!NOTE]
 >
->O nível de prioridade determina onde a caixa de diálogo aparece na lista (por exemplo: priority = 1 significa que estará no topo).
+>O nível de prioridade determina onde a caixa de diálogo aparece na lista (por exemplo: prioridade 1 significa que estará no topo).
 
 ## Critérios de público-alvo {#audience-criteria}
 
@@ -82,7 +82,7 @@ Há uma maneira fácil de direcionar especificamente leads que ainda não estão
 
    >[!NOTE]
    >
-   >EXPLICAR INFERIDO.
+   >Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) os cookies e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todos os tipos de boas informações.
 
 1. __ Está definido por padrão. No campo Selecionar valores , digite NY (também é possível clicar no menu suspenso e selecionar na lista).
 
@@ -137,8 +137,38 @@ O designer de fluxo contém cartões diferentes que podem ser adicionados para m
  </tr>
 </table>
 
-MOSTRAR EXEMPLOS ABAIXO
+**Criar um fluxo**
+
+Há _muitas_ combinações de fluxo para criar. Neste exemplo, faremos uma pergunta e prepararemos o .
 
 ## Relatórios {#reports}
 
-Texto
+Na guia Reports , visualize os dados dos últimos 90 dias. Cada categoria é definida abaixo.
+
+<table>
+ <tr>
+  <td><strong>Total acionado</strong></td>
+  <td>Aumenta sempre que um visitante se qualifica para/recebe uma caixa de diálogo.
+</td>
+ </tr>
+ <tr>
+  <td><strong>Envolvido</strong></td>
+  <td>Aumenta sempre que um visitante clica na âncora do chatbot para abrir a caixa de diálogo.</td>
+ </tr>
+ <tr>
+  <td><strong>Concluído</strong></td>
+  <td>Aumenta sempre que um visitante atinge o fim de qualquer ramificação em uma caixa de diálogo.</td>
+ </tr>
+ <tr>
+  <td><strong>Clientes potenciais capturados</strong></td>
+  <td>Incrementa sempre que um visitante fornece um endereço de email válido em um fluxo de caixa de diálogo.</td>
+ </tr>
+ <tr>
+  <td><strong>Reuniões marcadas</strong></td>
+  <td>Aumenta sempre que um visitante agendar um compromisso com êxito por meio do chatbot.</td>
+ </tr>
+ <tr>
+  <td><strong>Metas alcançadas</strong></td>
+  <td>Aumenta sempre que um visitante atinge uma meta em qualquer fluxo de caixa de diálogo.</td>
+ </tr>
+</table>
