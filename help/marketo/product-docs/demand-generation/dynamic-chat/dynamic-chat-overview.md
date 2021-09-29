@@ -3,7 +3,7 @@ description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Docum
 title: Visão geral do bate-papo dinâmico
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
@@ -20,7 +20,7 @@ O Dynamic Chat permite que você aproveite uma interface fácil de usar para dir
 
 ## Integrações {#integrations}
 
-Um componente essencial do Dynamic Chat é sua capacidade de fazer interface nativa com sua assinatura do Marketo. Para aproveitar todo o recurso dessa integração, primeiro será necessário iniciar a sincronização de dados. Dependendo do tamanho do banco de dados do Marketo, pode levar até 24 horas para que a sincronização inicial [única](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) seja concluída. O tempo médio de sincronização é inferior a duas horas.
+Um componente essencial do Dynamic Chat é sua capacidade de fazer interface nativa com sua assinatura do Marketo. Para aproveitar todo o recurso dessa integração, primeiro será necessário iniciar a sincronização de dados. Dependendo do tamanho do banco de dados do Marketo, pode levar até 24 horas para que a sincronização inicial [única](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) seja concluída. O tempo médio de sincronização é inferior a duas horas.
 
 O seguinte é sincronizado:
 
