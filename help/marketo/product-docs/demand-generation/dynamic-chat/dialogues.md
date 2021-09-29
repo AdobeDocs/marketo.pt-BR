@@ -3,9 +3,9 @@ description: Diálogos - Documentos do Marketo - Documentação do produto
 title: Diálogos
 hide: true
 hidefromtoc: true
-source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '749'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ As caixas de diálogo são conversas de chat individuais. Saiba como personaliz�
 
 >[!NOTE]
 >
->O nível de prioridade determina onde a caixa de diálogo aparece na lista (por exemplo: prioridade 1 significa que estará no topo).
+>A prioridade determina qual caixa de diálogo será exibida para um visitante quando ele se qualificar para várias caixas de diálogo simultaneamente.
 
 ## Critérios de público-alvo {#audience-criteria}
 

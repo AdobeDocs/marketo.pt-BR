@@ -3,9 +3,9 @@ description: Configuração inicial - Documentação do Marketo - Documentação
 title: Configuração inicial
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Siga as etapas abaixo para configurar o Bate-papo dinâmico.
 
 ## Adicionar permissões no Marketo {#add-permissions-in-marketo}
 
-Depois de adicionar usuários no Admin Console, você deve conceder permissões no Marketo.
+Depois de adicionar usuários ao no Admin Console, você deve conceder permissões no Marketo para que eles tenham acesso ao atalho de Bate-papo dinâmico do Marketo.
 
 1. No Marketo, clique em **Admin**.
 
@@ -46,4 +46,4 @@ Depois de adicionar usuários no Admin Console, você deve conceder permissões 
 >
 >Siga as etapas na ordem listada acima. Se alguém receber permissão primeiro no Marketo, ele verá o bloco Bate-papo dinâmico, mas não terá acesso de usuário.
 
-O próximo passo é acessar [Bate-papo dinâmico](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).
+O próximo passo é conectar o Dynamic Chat ao Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).[
