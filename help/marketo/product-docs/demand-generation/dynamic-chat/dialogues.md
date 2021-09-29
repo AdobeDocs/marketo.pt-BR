@@ -3,9 +3,9 @@ description: Diálogos - Documentos do Marketo - Documentação do produto
 title: Diálogos
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '605'
 ht-degree: 1%
 
 ---
@@ -18,49 +18,75 @@ As caixas de diálogo são as conversas de chat individuais que você irá confi
 
 1. Clique em **Diálogos**.
 
-PICC
+   ![](assets/dialogues-1.png)
 
 1. Clique no botão **Criar novo**.
 
-PICC
+   ![](assets/dialogues-2.png)
 
 1. Insira um nome (a descrição é opcional), defina o nível de prioridade e clique em **Save**.
 
-PICC
+   ![](assets/dialogues-3.png)
 
 >[!NOTE]
 >
->O nível de prioridade determina onde a caixa de diálogo é exibida na lista (por exemplo: priority = 1 significa que estará no topo).
+>O nível de prioridade determina onde a caixa de diálogo aparece na lista (por exemplo: priority = 1 significa que estará no topo).
 
 ## Critérios de público-alvo {#audience-criteria}
 
 Semelhante às Smart Lists da Marketo, os atributos de Critérios de público-alvo permitem que você defina seu público-alvo. Você pode direcionar leads conhecidos ou desconhecidos usando atributos inferidos, de cliente potencial ou de empresa (ou uma combinação desses atributos).
 
-Há _muitas_ combinações de atributos para escolher. Neste exemplo, estamos direcionando todos os leads conhecidos na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
+**Leads conhecidos**
 
-1. Pegue o atributo Estado de lead e arraste-o para a direita.
+Há _muitas_ combinações de atributos para escolher. Neste exemplo, estamos direcionando todos os **leads conhecidos** na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
 
-PICC
+1. Pegue o atributo **Estado de lead** e arraste-o para a direita.
+
+   ![](assets/dialogues-4.png)
 
 1. __ Está definido por padrão. No campo Selecionar valores , digite CA (também é possível clicar no menu suspenso e selecionar na lista).
 
-PICC
+   ![](assets/dialogues-5.png)
 
-1. Pegue o atributo Company Size e arraste-o para a direita.
+1. Pegue o atributo **Tamanho da empresa** e arraste-o para onde diz _arraste e solte um atributo aqui_.
 
-PICC
+   ![](assets/dialogues-6.png)
 
-1. Clique no menu suspenso do operador e selecione Maior que.
+   >[!NOTE]
+   >
+   >Você também pode escolher um atributo clicando no ícone **+**.
 
-PICC
+1. Clique na lista suspensa do operador e selecione **Maior que**.
+
+   ![](assets/dialogues-7.png)
 
 1. Digite 50 e clique em outro lugar na tela para salvar.
 
-PICC
+   ![](assets/dialogues-8.png)
 
-COMO CAPTURAR LEADS ANON
+**Leads anônimos**
 
-OBSERVAÇÃO - talvez tenha mencionado como inferido funciona/mostra um caso de uso, o email de cliente potencial está vazio
+Há uma maneira fácil de direcionar especificamente leads que ainda não estão em seu banco de dados. Neste exemplo, estamos direcionando todos os **leads anônimos** localizados na área de Nova York.
+
+1. Pegue o atributo **Email de lead** e arraste-o para a direita.
+
+   ![](assets/dialogues-9.png)
+
+1. Clique na lista suspensa do operador e selecione **Is Empty**.
+
+   ![](assets/dialogues-10.png)
+
+1. Pegue o atributo **Estado inferido** e arraste-o para onde diz _arraste e solte um atributo aqui_.
+
+   ![](assets/dialogues-11.png)
+
+   >[!NOTE]
+   >
+   >EXPLICAR INFERIDO.
+
+1. __ Está definido por padrão. No campo Selecionar valores , digite NY (também é possível clicar no menu suspenso e selecionar na lista).
+
+   ![](assets/dialogues-12.png)
 
 ## Adicionar grupos {#add-groups}
 
@@ -70,7 +96,7 @@ TERMINAR ISSO
 
 ## Destino {#target}
 
-É aqui que você insere as URLs específicas nas quais deseja que uma caixa de diálogo específica seja exibida.
+É aqui que você insere as URLs nas quais deseja que uma caixa de diálogo específica seja exibida.
 
 Formatos aceitáveis:
 
@@ -110,8 +136,6 @@ O designer de fluxo contém cartões diferentes que podem ser adicionados para m
   <td>Este é o único cartão que os visitantes não verão. Cabe a você determinar em qual ponto uma meta é alcançada dentro do chat específico (por exemplo: se coletar o email do visitante for seu objetivo, coloque o cartão Meta após Captura de informações no fluxo).</td>
  </tr>
 </table>
-
-POSSÍVEL SEÇÃO PRÓPRIA
 
 MOSTRAR EXEMPLOS ABAIXO
 
