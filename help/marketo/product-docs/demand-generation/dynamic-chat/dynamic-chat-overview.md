@@ -3,9 +3,9 @@ description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Docum
 title: Visão geral do bate-papo dinâmico
 hide: true
 hidefromtoc: true
-source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
+source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ O Dynamic Chat permite que você aproveite uma interface fácil de usar para dir
 
 >[!NOTE]
 >
->O Dynamic Chat está sendo lançado gradualmente, com todas as subscrições que devem ter acesso até a primavera de 2022. Para obter mais informações, entre em contato com o Gerente de sucesso do cliente.
+>O Dynamic Chat está sendo lançado gradualmente e está atualmente em disponibilidade limitada. Esta página será atualizada com os detalhes de disponibilidade geral (GA) à medida que forem sendo disponibilizados.
 
 ## Integrações {#integrations}
 
