@@ -3,16 +3,16 @@ unique-page-id: 9437586
 description: Modelo 12E - Documentos do Marketo - Documentação do produto
 title: Modelo 12E
 exl-id: fc330e23-9247-4565-a607-0c10d3ef89c6
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Modelo 12E {#template-12e}
 
-[Download do modelo 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+Clique com o botão direito do mouse em [baixar Modelo 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 
@@ -26,6 +26,6 @@ Esse template inclui o seguinte conteúdo:
 * Seis seções do corpo (opcional)
 * Rodapé (opcional)
 
-**Clique abaixo para baixar este modelo:**
+**Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
 [Modelo 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)

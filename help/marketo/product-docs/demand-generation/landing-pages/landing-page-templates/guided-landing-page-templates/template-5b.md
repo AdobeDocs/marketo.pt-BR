@@ -3,16 +3,16 @@ unique-page-id: 8783917
 description: Modelo 5B - Documentos do Marketo - Documentação do produto
 title: Modelo 5B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
-source-git-commit: 6fdffce0ab2b9cd3db72122260c1e105fe2ea20e
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # Modelo 5B {#template-5b}
 
-[Download do modelo 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+Clique com o botão direito do mouse em [baixar Modelo 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
 ![](assets/template-5b.png)
 
@@ -26,6 +26,6 @@ Esse template inclui o seguinte conteúdo:
 * Cinco seções do corpo (opcional)
 * Rodapé (opcional)
 
-**Clique abaixo para baixar este modelo:**
+**Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
 [Modelo 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)

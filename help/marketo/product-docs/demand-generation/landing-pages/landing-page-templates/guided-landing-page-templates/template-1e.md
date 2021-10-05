@@ -3,16 +3,16 @@ unique-page-id: 7516017
 description: Modelo 1E - Documentos do Marketo - Documentação do produto
 title: Modelo 1E
 exl-id: 3ff781e3-2dc9-4581-b116-e588596c0249
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # Modelo 1E {#template-1e}
 
-[Fazer download do modelo 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
+Clique com o botão direito do mouse em [baixar Modelo 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
 
 ![](assets/image2015-5-29-9-3a14-3a40.png)
 
@@ -25,6 +25,6 @@ Esse template inclui o seguinte conteúdo:
 * Três seções de corpo (opcional)
 * Rodapé (opcional)
 
-**Clique abaixo para baixar este modelo:**
+**Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
 [Modelo 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)

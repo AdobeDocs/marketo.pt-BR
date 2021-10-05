@@ -3,16 +3,16 @@ unique-page-id: 7516470
 description: Modelo 2B - Documentos do Marketo - Documentação do produto
 title: Modelo 2B
 exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # Modelo 2B {#template-2b}
 
-[Download do modelo 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+Clique com o botão direito do mouse em [baixar Modelo 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -26,6 +26,6 @@ Esse template inclui o seguinte conteúdo:
 * Uma seção de corpo com vídeo e texto (opcional)
 * Rodapé (opcional)
 
-**Clique abaixo para baixar este modelo:**
+**Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
 [Modelo 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)

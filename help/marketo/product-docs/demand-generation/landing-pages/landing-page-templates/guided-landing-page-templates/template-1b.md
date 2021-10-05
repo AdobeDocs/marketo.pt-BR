@@ -3,16 +3,16 @@ unique-page-id: 7515886
 description: Modelo 1B - Documentos do Marketo - Documentação do produto
 title: Modelo 1B
 exl-id: b6085e44-b40c-4f09-a301-057179f5fe0b
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
 # Modelo 1B {#template-1b}
 
-[Fazer download do modelo 1B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html)
+Clique com o botão direito do mouse em [baixar Modelo 1B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html)
 
 ![](assets/image2015-5-28-13-3a6-3a5.png)
 
@@ -25,6 +25,6 @@ Esse template inclui o seguinte conteúdo:
 * Três seções de corpo (opcional)
 * Rodapé (opcional)
 
-**Clique abaixo para baixar este modelo:**
+**Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
 [Modelo 1B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html)

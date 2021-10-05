@@ -3,16 +3,16 @@ unique-page-id: 10092899
 description: Modelo 19D - Documentos do Marketo - Documentação do produto
 title: Modelo 19D
 exl-id: a2e0620e-15b7-45f1-a8f7-78f0554e290a
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # Modelo 19D {#template-19d}
 
-[Download do modelo 19D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)
+Clique com o botão direito do mouse em [baixar Modelo 19D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)
 
 ![](assets/image2015-9-16-17-3a1-3a31.png)
 
@@ -25,6 +25,6 @@ Esse template inclui o seguinte conteúdo:
 * Cinco seções do corpo (opcional)
 * Rodapé (opcional)
 
-**Clique abaixo para baixar este modelo:**
+**Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
 [Modelo 19D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)
