@@ -3,7 +3,7 @@ description: Adicionar ou remover usuários de bate-papo - Documentos do Marketo
 title: Adicionar ou remover usuários de bate-papo
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Siga as etapas abaixo para adicionar ou remover usuários do chat.
 
    >[!NOTE]
    >
-   >Se tiver mais de uma assinatura do Marketo, selecione a desejada antes da próxima etapa).
+   >Se você tiver mais de uma assinatura do Marketo, selecione a desejada antes da próxima etapa.
 
 1. Clique na guia **Users**.
 

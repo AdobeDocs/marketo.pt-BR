@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
-source-wordcount: '8101'
+source-wordcount: '8029'
 ht-degree: 5%
 
 ---
@@ -1169,23 +1169,9 @@ ht-degree: 5%
             + [Limitação da conexão de email](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [Configuração de um canal de delivery personalizado](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Enviar Um Email De Vendas {#send-a-sales-email}
-            + [Adicionar um modelo ou campanha](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
-            + [Adicionar email ao Salesforce a partir do Gmail](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
-            + [Adicionar email ao Salesforce no cliente de email](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-in-email-client.md)
-            + [Adicionando conteúdo](product-docs/marketo-sales-connect/email/send-a-sales-email/adding-content.md)
-            + [Erro de Autenticação sem Êxito](product-docs/marketo-sales-connect/email/send-a-sales-email/authentication-unsuccessful-error.md)
             + [A Campanha Terminou](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [CC ou Cco em emails](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [Email marcado como spam](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-            + [Email Selecionado e Grupo de Email](product-docs/marketo-sales-connect/email/send-a-sales-email/email-selected-and-email-group.md)
-            + [Emails indo para spam](product-docs/marketo-sales-connect/email/send-a-sales-email/emails-going-to-spam.md)
-            + [Erro ao enviar a partir do Gmail ou Outlook](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-gmail-or-outlook.md)
-            + [Erro ao enviar a partir da aplicação web](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-the-web-application.md)
-            + [Devoluções permanentes](product-docs/marketo-sales-connect/email/send-a-sales-email/hard-bounces.md)
-            + [Como agendar um email](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-schedule-an-email.md)
-            + [Como enviar um email de grupo](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md)
-            + [Como enviar um e-mail a partir do contrato de vendas](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-an-email-from-sales-engage.md)
-            + [Emails programados indo para rascunhos](product-docs/marketo-sales-connect/email/send-a-sales-email/scheduled-emails-going-to-drafts.md)
             + [Envio de anexos de arquivo em seu email](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
             + [Mensagem de erro de limitação em um delivery com falha](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
             + [Erros de limitação](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
