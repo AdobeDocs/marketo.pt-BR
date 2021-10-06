@@ -3,15 +3,14 @@ unique-page-id: 2359418
 description: Importar uma lista de pessoas - Documentos do Marketo - Documentação do produto
 title: Importar uma lista de pessoas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '490'
 ht-degree: 19%
 
 ---
 
-# Importar uma Lista de Pessoas {#import-a-list-of-people}
+# Importar uma lista de pessoas {#import-a-list-of-people}
 
 ## Missão: importar a lista de uma planilha de participantes de um evento comercial para seu banco de dados {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
@@ -23,7 +22,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 ## Etapa 1: baixar e editar uma planilha {#step-download-and-edit-a-spreadsheet}
 
-1. Para iniciar, baixe nosso arquivo de planilha de práticas ([**tradeshow-atenudees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) no seu computador.
+1. Para iniciar, baixe nosso arquivo de planilha de práticas ([**tradeshow-ants.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) no seu computador.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -53,7 +52,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **** Nomeie o programa como &quot;Meu programa de shows de vendas&quot; e selecione &quot;Evento&quot; para o tipo de  **programa**.
+1. **** Nomeie o programa como &quot;Meu programa de shows de vendas&quot; e selecione &quot;Evento&quot; para o Tipo de  **programa**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
