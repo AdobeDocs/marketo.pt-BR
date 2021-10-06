@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '8104'
+source-wordcount: '8101'
 ht-degree: 5%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 5%
    + [Introdução](getting-started.md)
    + [O que é o Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + [Glossário do Marketo](getting-started/marketo-glossary.md)
-   + [Ícone Glossário](getting-started/icon-glossary.md)
+   + [Ícone Clássico Glossário](getting-started/classic-icon-glossary.md)
    + Configuração {#setup}
       + [Etapas de configuração](getting-started/setup-steps.md)
       + [Lista de verificação de configuração](getting-started/setup-steps/setup-checklist.md)
@@ -339,10 +339,10 @@ ht-degree: 5%
             + [Alterar status do programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [Alterar sucesso do programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
             + [Alterar dados dos membros do programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
-         + Ações de Fluxo do Microsoft Dynamics {#microsoft-dynamics-flow-actions}
+         + Ações de fluxo do Microsoft Dynamics {#microsoft-dynamics-flow-actions}
             + [Adicionar ou remover pessoas de sua campanha dinâmica](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
-            + [Alterar proprietário na Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
-            + [Criar tarefa na Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
+            + [Alterar proprietário no Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
+            + [Criar tarefa no Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [Sincronizar pessoa com a Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
          + Ações de Fluxo do Salesforce {#salesforce-flow-actions}
             + [Adicionar à campanha da SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
@@ -481,7 +481,7 @@ ht-degree: 5%
             + [Verifique as pessoas no seu evento do seu tablet](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
             + [Conceder aos usuários acesso ao aplicativo de check-in](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
             + [Preparar-se para o seu evento](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-            + [Configurar o iPad ou o tablet Android](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
+            + [Configurar o tablet do iPad ou Android](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
          + Marketo Moments {#marketo-moments}
             + Noções básicas sobre momentos {#understanding-moments}
                + [Noções básicas sobre os momentos do Marketo](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
@@ -510,21 +510,21 @@ ht-degree: 5%
          + [Noções básicas das notificações](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Tipos de notificação](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
    + Sincronização com CRM {#crm-sync}
-      + Sincronização do Microsoft Dynamics {#microsoft-dynamics}
-         + [Noções Gerais da Sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+      + Microsoft Dynamics Sync {#microsoft-dynamics}
+         + [Noções básicas sobre a sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [Versões de plug-in do Marketo para o Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
          + [Versões de plug-in para o Microsoft Dynamics MSI](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
          + [Corrigir problemas de sincronização de validação do Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + Sincronizar Configuração {#sync-setup}
             + [Baixe a solução de gerenciamento de clientes potenciais da Marketo](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [Atualizar a solução Marketo para Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
-            + [Validar a Sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+            + [Atualizar a solução Marketo para o Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Validar a sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Exibir o URL do serviço de organização](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
-            + Microsoft Dynamics 2011 No Local {#microsoft-dynamics-2011-on-premises}
+            + Microsoft Dynamics 2011 no local {#microsoft-dynamics-2011-on-premises}
                + [Etapa 1 de 3: Instalar a solução Marketo (2011 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
                + [Etapa 2 de 3: Configurar o usuário do Marketo Sync no Dynamics (2011 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
-               + [Etapa 3 de 3: Conectar o Microsoft Dynamics com o Marketo (2011 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 2013 No Local {#microsoft-dynamics-2013-on-premises}
+               + [Etapa 3 de 3: Conectar o Microsoft Dynamics ao Marketo (2011 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
+            + Microsoft Dynamics 2013 no local {#microsoft-dynamics-2013-on-premises}
                + [Etapa 1 de 3: Instalar a solução Marketo no Dynamics (2013 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
                + [Etapa 2 de 3: Configurar usuário de sincronização para Marketo (2013 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
                + [Etapa 3 de 3: Conectar o Marketo e o Dynamics (2013 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
@@ -538,30 +538,30 @@ ht-degree: 5%
                + [Etapa 3 de 3: Conectar o Microsoft Dynamics ao Marketo (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + Configurar a autenticação OAuth para o Dynamics {#set-up-oauth-authentication-for-dynamics}
                + [Conceder consentimento para ID do cliente e registro de aplicativo](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
-               + [Configurar o Aplicativo do Microsoft Dynamics CRM para Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
-               + [Configurar o aplicativo do Microsoft Dynamics CRM no local](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
+               + [Configurar o aplicativo Microsoft Dynamics CRM para online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
+               + [Configurar o aplicativo Microsoft Dynamics CRM no local](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
                + [Configure o MSD para o Azure AD Federated com o AD FS no local, locatário e Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
-         + Detalhes da Sincronização do Microsoft Dynamics {#microsoft-dynamics-sync-details}
+         + Detalhes de sincronização do Microsoft Dynamics {#microsoft-dynamics-sync-details}
             + [Mapeamento de campo dinâmico padrão](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
-            + [Sincronização do Microsoft Dynamics: Sincronização de conta](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
-            + [Sincronização do Microsoft Dynamics: Sincronização de contatos](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
-            + [Sincronização do Microsoft Dynamics: Sincronização de entidade personalizada](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
+            + [Microsoft Dynamics Sync: Sincronização de conta](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
+            + [Microsoft Dynamics Sync: Sincronização de contatos](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
+            + [Microsoft Dynamics Sync: Sincronização de entidade personalizada](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
             + [Ativar Sincronização para uma Entidade Personalizada](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md)
-            + [Sincronização do Microsoft Dynamics: Sincronização de campo](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
-            + [Usar sincronização rápida com o Microsoft Dynamics para um novo campo personalizado](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
+            + [Microsoft Dynamics Sync: Sincronização de campo](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
+            + [Usar a sincronização rápida com o Microsoft Dynamics para um novo campo personalizado](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
             + [Editar campos para sincronização antes de excluí-los no Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
-            + [Sincronização do Microsoft Dynamics: Sincronização de leads](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
+            + [Microsoft Dynamics Sync: Sincronização de leads](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
             + [Criar um contato no Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)
-            + [Sincronização do Microsoft Dynamics: Sincronização de Oportunidades](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
-            + [Sincronização do Microsoft Dynamics: Sincronização do usuário](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
+            + [Microsoft Dynamics Sync: Sincronização de Oportunidades](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
+            + [Microsoft Dynamics Sync: Sincronização do usuário](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [Status da sincronização](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [Visão geral da sincronização de campanha](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
             + [Ativar sincronização de campanhas](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
          + Detalhes do filtro de sincronização dinâmica personalizado {#custom-dynmaics-sync-filter-details}
             + [Criar um filtro de sincronização dinâmico personalizado](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Regras de Filtro de Sincronização Personalizado para um Endereço de Email](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-            + [Filtro de Sincronização do Microsoft Dynamics: Mesclar](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
-            + [Filtro de Sincronização do Microsoft Dynamics: Qualificar](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+            + [Filtro de sincronização do Microsoft Dynamics: Mesclar](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+            + [Filtro de sincronização do Microsoft Dynamics: Qualificar](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
             + [Definir um prefixo de campo personalizado padrão](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
          + [Registre um aplicativo com o Azure para adquirir sua ID do cliente/ID do aplicativo](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Excluindo um Lead ou Contato](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
@@ -615,7 +615,7 @@ ht-degree: 5%
       + Integrações de rede de anúncios {#ad-network-integrations}
          + [Noções básicas sobre integrações de rede de anúncios](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [Adicionar públicos-alvo personalizados do Facebook como um serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
-         + [Adicionar a Correspondência de Cliente do Google como um Serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
+         + [Adicionar a correspondência de clientes do Google como um serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Enviar uma lista para uma rede de anúncios](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Bate-papo dinâmico {#dynamic-chat}
@@ -686,7 +686,7 @@ ht-degree: 5%
             + [Incorpore um formulário em seu site](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
             + [Ativar o preenchimento de formulário social em um formulário](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
             + [Perguntas frequentes sobre o preenchimento de formulário do linkedIn Social](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
-            + [Mostrar formulário HTML personalizado para pessoas conhecidas](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
+            + [Mostrar formulário de HTML personalizado para pessoas conhecidas](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [Usar um formulário em um Lightbox](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
          + Design do formulário {#form-design}
             + [Alterar posição do rótulo do formulário](product-docs/demand-generation/forms/form-design/change-form-label-position.md)
@@ -1036,7 +1036,7 @@ ht-degree: 5%
             + [Adicionar links rastreados a um email de texto](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
             + [Criar um arquivo de evento de calendário (.ics)](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
             + [Desativar o rastreamento para um link de email](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
-            + [Baixar o HTML de um email](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
+            + [Baixar um HTML de email](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
             + [Editar o HTML de um email](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
             + Testes de email - Campeão-Desafiador {#email-tests-champion-challenger}
                + [Adicione um campeão/desafiador de email](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
@@ -1059,7 +1059,7 @@ ht-degree: 5%
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
    + Experiência de próxima geração do Marketo Engage {#marketo-engage-next-generation-experience}
       + [Visão geral](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [Novo Glossário de Ícones](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [Ícone Glossário](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [Usando a pesquisa global](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Introdução {#getting-started}
@@ -1075,7 +1075,6 @@ ht-degree: 5%
             + [Verificar seu e-mail](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
       + Administrador {#admin}
          + [Administradores adicionais](product-docs/marketo-sales-connect/admin/additional-admins.md)
-         + [Guia Configurações de administração](product-docs/marketo-sales-connect/admin/admin-settings-tab.md)
          + [Domínios bloqueados](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Bloqueio de conteúdo](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [Criar uma subequipe](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
@@ -1150,7 +1149,7 @@ ht-degree: 5%
                + [Como Desinstalar o Sales Connect a partir do Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Suplemento do Office 365 {#office-365-add-in}
                + [Adicionar Email ao Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
-               + [Instalando o Sales Connect para Office365 Mac OS, Windows e Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
+               + [Instalando Conexão de Vendas para Office365 Mac OS, Windows e Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
       + E-mail {#email}
          + Centro de comando {#command-center}
             + [Visão geral do Centro de comandos](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
@@ -1287,7 +1286,7 @@ ht-degree: 5%
          + [Modelos recomendados](product-docs/marketo-sales-connect/templates/recommended-templates.md)
          + [Modelos compartilhados](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [Envolvimento do modelo](product-docs/marketo-sales-connect/templates/template-engagement.md)
-         + [Uso de HTML](product-docs/marketo-sales-connect/templates/using-html.md)
+         + [Uso do HTML](product-docs/marketo-sales-connect/templates/using-html.md)
          + [Exibir Lista de Modelos como Outro Usuário](product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)
          + Campos dinâmicos {#dynamic-fields}
             + [Criar campos dinâmicos personalizados](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
@@ -1312,7 +1311,7 @@ ht-degree: 5%
             + [Instalar e configurar o Marketo Sales Insight no Microsoft Dynamics 365](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
             + [Instalar e configurar o Marketo Sales Insight no Microsoft Dynamics Online](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
          + Configuração e uso de {#setting-up-and-using}
-            + [Adicionar um lead/contato a uma campanha do Marketo pelo Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+            + [Adicionar um lead/contato a uma campanha do Marketo a partir do Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [Campos obrigatórios para sincronizar o Marketo com o Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
             + [Enviar um email de vendas do Marketo pelo Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Configuração de estrelas e chamas para registros de lead/contato](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
@@ -1638,7 +1637,7 @@ ht-degree: 5%
          + [Implementação da RTP na Wordpress Enterprise](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
          + [Implementando RTP no Wordpress](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
          + [Implementação de RTP usando Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
-         + [Implementar a RTP usando o Google Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
+         + [Implementar a RTP usando o Gerenciador de tags da Google](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
          + [Implementando a RTP usando o Gerenciador de tag do Tealium](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
       + Relatórios para personalização da Web {#reporting-for-web-personalization}
          + [Relatórios de e-mails](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
