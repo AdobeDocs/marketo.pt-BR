@@ -1,33 +1,32 @@
 ---
 unique-page-id: 14745611
-description: Adicionar à Marketing Campanha - Documentos do Marketing - Documentação do produto
-title: Adicionar à Campanha de marketing
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Adicionar à campanha de marketing - Documentos do Marketo - Documentação do produto
+title: Adicionar à campanha de marketing
+exl-id: d520d681-8415-4d48-896f-f213a8fabd11
+source-git-commit: 3fb9b16f83a6b4662e867c1fdbeda275dfdc1e13
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
-
-# Adicionar à Campanha de marketing {#add-to-marketing-campaign}
+# Adicionar à campanha de marketing {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
 >
->[Tornar uma Campanha visível para os usuários de vendas](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[Tornar uma campanha visível para os usuários de vendas](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
-## Adicionar indivíduos a uma Campanha {#add-individuals-to-a-campaign}
+## Adicionar indivíduos a uma campanha {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Para adicionar uma pessoa a uma Campanha de marketing a partir do Sales Connect, o Sales Connect deve ter a ID de cliente potencial de marketing da pessoa. [Saiba como capturar IDs de marketing aqui](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
+>Para adicionar uma pessoa a uma Campanha Marketo a partir da Conexão de Vendas, a Conexão de Vendas deve ter a ID de cliente potencial Marketo da pessoa.
 
-1. Clique na guia **Pessoas**.
+1. Clique na guia **People**.
 
    ![](assets/one-3.png)
 
-1. Encontre os contatos que deseja adicionar.
+1. Localize os contatos que deseja adicionar.
 
    ![](assets/two-3.png)
 
@@ -35,11 +34,11 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-1. Clique em **Adicionar selecionados à Campanha**.
+1. Clique em **Adicionar seleção à campanha**.
 
    ![](assets/four-3.png)
 
-1. Como você está adicionando a uma campanha de marketing, ignore a seleção de um endereço &quot;de&quot;. Entretanto, você pode optar por adicionar mais contatos. Se você optar por isso, clique em Indivíduos e digite-os em. Clique em **Próximo** quando terminar.
+1. Como você está adicionando a uma campanha de marketing, ignore a seleção de um endereço &quot;de&quot;. No entanto, você pode optar por adicionar mais contatos. Se você optar por usar o , clique em Individuais e digite-os. Clique em **Next** quando terminar.
 
    ![](assets/five-2.png)
 
@@ -47,25 +46,25 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. Clique no menu suspenso Espaços de trabalho e escolha o espaço de trabalho que contém a campanha à qual deseja adicionar o grupo.
+1. Clique na lista suspensa Espaços de trabalho e escolha o espaço de trabalho que contém a campanha à qual deseja adicionar o grupo.
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
    >
-   >Se você não vir o espaço de trabalho desejado, certifique-se de que seu Administrador o forneça através da página Acesso à equipe do Marketing.
+   >Se você não visualizar o espaço de trabalho desejado, verifique se o Administrador o provisiona por meio da página Acesso à equipe da Marketo.
 
 1. Selecione a campanha desejada e clique em **Next**.
 
    ![](assets/eight.png)
 
-1. São-lhe mostrados os contatos que se qualificam. Clique em **Start** para adicioná-los.
+1. Você recebe os contatos qualificados. Clique em **Start** para adicioná-los.
 
    ![](assets/nine.png)
 
-## Adicionar um grupo a uma Campanha {#add-a-group-to-a-campaign}
+## Adicionar um grupo a uma campanha {#add-a-group-to-a-campaign}
 
-1. Clique na guia **Pessoas**.
+1. Clique na guia **People**.
 
    ![](assets/one-3.png)
 
@@ -73,11 +72,11 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. Clique em **Adicionar grupo à Campanha**.
+1. Clique em **Adicionar grupo à campanha**.
 
    ![](assets/twelve.png)
 
-1. Como você está adicionando a uma campanha de marketing, ignore a seleção de um endereço &quot;de&quot;. Entretanto, você pode optar por adicionar mais contatos. Se você optar por isso, clique em Indivíduos e digite-os em. Clique em **Próximo** quando terminar.
+1. Como você está adicionando a uma campanha de marketing, ignore a seleção de um endereço &quot;de&quot;. No entanto, você pode optar por adicionar mais contatos. Se você optar por usar o , clique em Individuais e digite-os. Clique em **Next** quando terminar.
 
    ![](assets/thirteen.png)
 
@@ -87,20 +86,20 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Para adicionar uma pessoa a uma Campanha de marketing a partir do Sales Connect, o Sales Connect deve ter a ID de cliente potencial de marketing da pessoa. [Saiba como capturar IDs de marketing aqui](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
+   >Para adicionar uma pessoa a uma Campanha Marketo a partir da Conexão de Vendas, a Conexão de Vendas deve ter a ID de cliente potencial Marketo da pessoa.
 
-1. Clique no menu suspenso Espaços de trabalho e escolha o espaço de trabalho que contém a campanha à qual deseja adicionar o grupo.
+1. Clique na lista suspensa Espaços de trabalho e escolha o espaço de trabalho que contém a campanha à qual deseja adicionar o grupo.
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
    >
-   >Se você não vir o espaço de trabalho desejado, certifique-se de que seu Administrador o forneça através da página Acesso à equipe do Marketing.
+   >Se você não visualizar o espaço de trabalho desejado, verifique se o Administrador o provisiona por meio da página Acesso à equipe da Marketo.
 
 1. Selecione a campanha desejada e clique em **Next**.
 
    ![](assets/eight.png)
 
-1. São-lhe mostrados os contatos que se qualificam. Clique em **Start** para adicioná-los.
+1. Você recebe os contatos qualificados. Clique em **Start** para adicioná-los.
 
    ![](assets/nine.png)
