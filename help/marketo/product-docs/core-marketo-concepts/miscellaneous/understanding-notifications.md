@@ -3,10 +3,9 @@ unique-page-id: 2952292
 description: Noções básicas sobre notificações - Documentação do Marketo - Documentação do produto
 title: Noções básicas das notificações
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '206'
 ht-degree: 1%
 
 ---
@@ -19,27 +18,29 @@ As notificações mantêm você atualizado sobre os eventos do sistema que acont
 
 1. Novas notificações são exibidas na parte superior direita do Marketo.
 
-   ![](assets/image2014-10-10-11-3a32-3a48.png)
+   ![](assets/understanding-notifications-1.png)
 
 1. Clique em Notificações para exibir todas as suas notificações.
 
-   ![](assets/image2014-10-10-11-3a55-3a44.png)
+   ![](assets/understanding-notifications-2.png)
 
 ## Inscrever-se em notificações {#subscribe-to-notifications}
 
 Você pode assinar notificações para recebê-las em seu email.
 
-1. Vá para Notificações e clique em Assinar.
+1. Vá para Notificações e clique em **Subscribe**.
 
-![](assets/image2014-10-10-12-3a3-3a29.png)
+   ![](assets/understanding-notifications-3.png)
 
-1. Selecione o Tipo de notificação e insira os endereços de email para os quais deseja que as notificações sejam enviadas.
+1. Selecione o Tipo de notificação e insira os endereços de email para os quais deseja que as notificações sejam enviadas (separados por vírgula). Clique em **Assinar** quando terminar.
 
-   ![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->Em alguns casos, uma notificação fornece um link &quot;Ver a lista completa&quot; para baixar um arquivo CSV (valores separados por vírgula), por exemplo, o arquivo de Erros de Sincronização do Microsoft Dynamics. O Marketo mantém esses arquivos CSV por 30 dias. Se tentar baixar o arquivo após 30 dias, ocorrerá um erro 404.
+>A área **enviar para** é somente para que você insira seu email. Ela não mostrará uma lista de assinantes existentes.
+
+Em alguns casos, uma notificação fornece um link &quot;Ver a lista completa&quot; para baixar um arquivo CSV (valores separados por vírgula), por exemplo, o arquivo de Erros de sincronização do Microsoft Dynamics. O Marketo mantém esses arquivos CSV por 30 dias. Se tentar baixar o arquivo após 30 dias, ocorrerá um erro 404.
 
 >[!TIP]
 >

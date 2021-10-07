@@ -2,7 +2,7 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
 source-wordcount: '962'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 **Novo email, Atividade da Web, Painéis** de Atividade Anônima da Web: Adicionamos os novos painéis de vendas para informar os vendedores sobre os leads e as atividades mais recentes da Web e de email e contatos. Com o novo recurso de filtragem, os painéis agora fornecem informações sobre aberturas de email, cliques e visitas de página da Web para a lista completa de contas ou uma conta específica. O Marketo Engage rastreia todas as atividades da Web e fornece às vendas informações críticas, transformando o tráfego anônimo em leads. Os vendedores são habilitados a personalizar o engajamento e converter leads em vendas mais rápido, pois eles estão melhor informados sobre comportamentos de clientes potenciais e agem com base na relevância de todos os pontos de contato.
 
-**Insight de vendas para o Salesforce CRM**
+**Insight de vendas para o Salesforce**
 
 **Melhores** Ofertas de nível de Conta e Oportunidade: O Sales Insight agora oferece a capacidade dos representantes de vendas de revisar Melhores Melhores Ofertas para todos os contatos da conta ou oportunidade que possuem, mesmo quando o contato é atribuído a um membro da equipe diferente. Isso dá aos proprietários de conta e oportunidade total visibilidade sobre as atividades dos contatos relevantes e os ajuda a agir com base em uma exibição mais holística da conta ou oportunidade.
 
@@ -71,4 +71,4 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 ## Anúncios {#announcements}
 
-**Substituição de cliente potencial associado/Atualização** do Munchkin Beta 161: Em 7 de setembro de 2021, a versão 161 do Munchkin começou a ser lançada para 10% das subscrições com o Munchkin Beta ativada, seguida de 50% em 16 de setembro e 100% em 30 de setembro. Essa alteração afeta as páginas de aterrissagem do Marketo Engage e a versão do arquivo munchkin-beta.js servida para páginas de aterrissagem externas que são carregadas de assinaturas para as quais a versão recente foi distribuída. Esta versão descontinuará totalmente o método de lead associado do Munchkin, que é um recurso que permite o envio dos dados de uma pessoa para uma assinatura do Marketo Engage e o histórico de navegação na Web associado a um registro de pessoa conhecida. O lead associado está sendo removido em favor de alternativas mais modernas e seguras, como a API JS do Forms, a API de envio de formulário e a API REST de lead associado. [Saiba mais sobre essa descontinuação](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+**Substituição de cliente potencial associado/Atualização** do Munchkin Beta 161: Em 7 de setembro de 2021, a versão 161 do Munchkin começou a ser lançada para 10% das subscrições com o Munchkin Beta ativada, seguida de 50% em 16 de setembro e 100% em 30 de setembro. Essa alteração afeta as páginas de aterrissagem do Marketo Engage e a versão do arquivo munchkin-beta.js servida para páginas de aterrissagem externas que são carregadas de assinaturas para as quais a versão recente foi distribuída. Esta versão descontinuará totalmente o método de lead associado do Munchkin, que é um recurso que permite o envio dos dados de uma pessoa para uma assinatura do Marketo Engage e o histórico de navegação na Web associado a um registro de pessoa conhecida. O lead associado está sendo removido em favor de alternativas mais modernas e seguras, como a API JS do Forms, a API de envio de formulário e a API REST de lead associado. [Saiba mais sobre essa descontinuação aqui](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
