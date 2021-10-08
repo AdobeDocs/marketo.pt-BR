@@ -1,29 +1,28 @@
 ---
 unique-page-id: 45417460
-description: Atribuição de Tarefas a membros da equipe - Documentos do Marketing - Documentação do produto
-title: Atribuindo Tarefas aos membros da equipe
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Atribuir tarefas a membros da equipe - Documentos do Marketo - Documentação do produto
+title: Atribuindo Tarefas aos Membros da Equipe
+exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
+source-git-commit: 01a131e58a3f4ea80d30363d152608820530163e
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
+# Atribuindo Tarefas aos Membros da Equipe {#assigning-tasks-to-team-members}
 
-# Atribuindo Tarefas a membros da equipe {#assigning-tasks-to-team-members}
-
-Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode ser uma excelente forma de coordenar seus esforços de prospecção.
+Se quiser colaborar com outros membros da equipe, atribuir tarefas pode ser uma ótima maneira de coordenar seus esforços de prospecção.
 
 >[!NOTE]
 >
->Você só pode atribuir tarefas para contatos compartilhados. Você desejará [compartilhar um grupo de contatos](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md) com os membros da sua equipe antes de colaborar com tarefas compartilhadas.
+>Só é possível atribuir tarefas para contatos compartilhados.
 
 1. Clique no **Centro de Comando**.
 
    ![](assets/one-1.png)
 
-1. Clique em **Adicionar Tarefa**.
+1. Clique em **Adicionar tarefa**.
 
    ![](assets/two-1.png)
 
@@ -35,11 +34,11 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 
    ![](assets/four-1.png)
 
-1. Selecione a pessoa em sua equipe à qual deseja atribuir a tarefa no campo Atribuir Tarefa.
+1. Selecione a pessoa em sua equipe à qual deseja atribuir a tarefa no campo Atribuir tarefa .
 
    ![](assets/five.png)
 
-1. Adicione a pessoa à qual você deseja entrar em contato no campo de pessoa.
+1. Adicione a pessoa com a qual deseja entrar em contato no campo de pessoa.
 
    ![](assets/six.png)
 
@@ -51,10 +50,6 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 
    ![](assets/eight.png)
 
-1. Adicione todos os detalhes importantes que sejam relevantes para seu companheiro de equipe (opcional) e clique em **Criar**.
+1. Adicione quaisquer detalhes importantes que sejam relevantes para o seu companheiro de equipe (opcional) e clique em **Create**.
 
    ![](assets/nine.png)
-
->[!MORELIKETHIS]
->
->[Como compartilhar um grupo](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
