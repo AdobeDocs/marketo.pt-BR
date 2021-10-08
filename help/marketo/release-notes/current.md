@@ -2,24 +2,24 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
+source-git-commit: 407df519413a39b723dc6f90f028f23527b4f0e9
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '971'
 ht-degree: 0%
 
 ---
 
 # Notas de versão: Outubro de 2021 {#release-notes-oct-21}
 
-Os seguintes recursos estão incluídos na versão de 21 de outubro. Verifique sua edição de Marketo Engage para ver a disponibilidade dos recursos.
+Os seguintes recursos estão incluídos na versão de 21 de outubro. Verifique sua edição Adobe Marketo Engage para ver a disponibilidade dos recursos.
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante de Marketo Engage de Adobe para saber mais.
+>Os recursos indicados por uma estrela (![](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
 **_Versões trimestrais_**
 
-Os seguintes recursos serão lançados em **22 de outubro de 2021**.
+Os seguintes recursos começarão a ser lançados em **22 de outubro de 2021**, com uma implantação em fases de cada recurso na semana seguinte (salvo especificação em contrário).
 
 ## Inovação orientada por IA {#ai-driven-innovation}
 
@@ -29,7 +29,9 @@ Os seguintes recursos serão lançados em **22 de outubro de 2021**.
 
 **Escolha sua própria experiência**: Alterne facilmente para a experiência preferida com o novo botão ao trabalhar nos detalhes do formulário do Marketo Engage ou na exibição da lista da página inicial sem perder contexto, alterações de ativos ou preferências. Além disso, a nova exibição de lista de páginas de aterrissagem aprimora sua experiência com novos filtros e a capacidade de executar ações em massa.
 
-**Pesquisar com eficiência**: As melhorias de acessibilidade para a pesquisa global incluem navegação atualizada por teclado e descrições de rótulo, um novo recurso de rolagem para resultados e filtros aplicados mais visíveis. Os modais de movimentação foram aprimorados para suportar atalhos do teclado. Monitore o status das tarefas executadas em segundo plano da nova experiência através da nova bandeja de notificação de tarefa na barra de navegação global. A bandeja captura notificações de tarefas iniciadas na nova visualização de experiência de detalhes do formulário e listas de páginas de aterrissagem, incluindo a alteração do status em páginas de aterrissagem e ações gerais de massa usando a nova experiência.
+**Pesquisar com eficiência**: As melhorias de acessibilidade para a pesquisa global incluem navegação atualizada por teclado e descrições de rótulo, um novo recurso de rolagem para resultados e filtros aplicados mais visíveis.
+
+**Monitorar tarefas**: Monitore o status das tarefas executadas em segundo plano da nova experiência através da nova bandeja de notificação de tarefa na barra de navegação global. A bandeja captura notificações de tarefas iniciadas na nova visualização de experiência dos detalhes do formulário e da lista da página de aterrissagem, incluindo a alteração do status em páginas de aterrissagem e ações gerais de massa usando a nova experiência.
 
 ## Automação de experiência {#experience-automation}
 
