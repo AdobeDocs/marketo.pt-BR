@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 6ba2020db432f0b520a63630fcd93c34c7c7611a
+source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
@@ -75,4 +75,4 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 **Substituição de cliente potencial associado/Atualização** do Munchkin Beta 161: Em 7 de setembro de 2021, a versão 161 do Munchkin começou a ser lançada para 10% das subscrições com o Munchkin Beta ativada, seguida de 50% em 16 de setembro e 100% em 30 de setembro. Essa alteração afeta as páginas de aterrissagem do Marketo Engage e a versão do arquivo munchkin-beta.js servida para páginas de aterrissagem externas que são carregadas de assinaturas para as quais a versão recente foi distribuída. Esta versão descontinuará totalmente o método de lead associado do Munchkin, que é um recurso que permite o envio dos dados de uma pessoa para uma assinatura do Marketo Engage e o histórico de navegação na Web associado a um registro de pessoa conhecida. O lead associado está sendo removido em favor de alternativas mais modernas e seguras, como a API JS do Forms, a API de envio de formulário e a API REST de lead associado. [Saiba mais sobre essa descontinuação aqui](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
-Quer saber mais sobre esses recursos e aprimoramentos? Certifique-se de [registrar-se agora](https://engage.marketo.com/October_Release_Webinar_RegistrationPage.html) para se juntar a nós em 28 de outubro de 2021, às 9:00 AM PT / 12:00 PM ET para um webinário ao vivo com nossa equipe de produtos para aprofundar essas inovações.
+Quer saber mais sobre esses recursos e aprimoramentos? Certifique-se de [registrar-se agora](https://engage.marketo.com/October_Release_RegistrationPage.html) para se juntar a nós em 28 de outubro de 2021, às 9:00 AM PT / 12:00 PM ET para um webinário ao vivo com nossa equipe de produtos para aprofundar essas inovações.
