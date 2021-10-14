@@ -1,43 +1,46 @@
 ---
 unique-page-id: 10092925
-description: Pré-visualização e teste uma Campanha da Web - Documentos do Marketing - Documentação do produto
-title: Pré-visualização e teste uma Campanha da Web
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Visualizar e testar uma campanha da Web - Documentos do Marketo - Documentação do produto
+title: Visualizar e testar uma campanha da Web
+exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
+# Visualizar e testar uma campanha da Web {#preview-and-test-a-web-campaign}
 
-# Pré-visualização e teste uma Campanha da Web {#preview-and-test-a-web-campaign}
+Este artigo mostra diferentes maneiras de visualizar uma campanha da Web e também como testá-la usando um segmento de sandbox ao vivo em seu site.
 
-Este artigo mostra diferentes maneiras de pré-visualização de uma campanha da Web e também como testá-la usando um segmento de caixa de proteção ao vivo em seu site.
+>[!NOTE]
+>
+>A visualização mostra apenas como a campanha ficará no site escolhido. Links e widgets não funcionarão como para evitar cliques/exibições erradas na análise.
 
-## Pré-visualização de uma Campanha da Web na Página de Criação {#preview-a-web-campaign-on-the-creation-page}
+## Visualizar uma campanha da Web na página de criação {#preview-a-web-campaign-on-the-creation-page}
 
-1. Vá para **Campanha**.
+1. Vá para **Campanhas da Web**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Clique em **Criar nova Campanha da Web** ou no ícone para editar uma campanha existente.
+1. Clique em **Criar nova campanha da Web** ou no ícone para editar uma campanha existente.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. Na Pré-visualização do site, adicione o URL da página e clique em **Pré-visualização**. Uma nova janela/guia é aberta mostrando a pré-visualização da campanha.
+1. Em Visualizar no site, adicione o URL da página e clique em **Visualizar**. Uma nova janela/guia é aberta mostrando a visualização da campanha.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Clique em **Compartilhar** para abrir um email com um URL fixo da pré-visualização da campanha.
+   >Clique em **Compartilhar** para abrir um email com um URL fixo da visualização da campanha.
 
    >[!NOTE]
    >
-   >Você também tem a opção de instalar um plug-in do navegador ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obter a melhor experiência em visualizar sua campanha. Consulte a seção abaixo.
+   >Você também tem a opção de instalar um plug-in de navegador (ou [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obter a melhor experiência de visualizar sua campanha. Consulte a seção abaixo.
 
-## Pré-visualização uma Campanha da Web na página de criação usando o plug-in do navegador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
+## Visualizar uma campanha da Web na página de criação usando o plug-in do navegador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. Siga as etapas 1 e 2 da seção acima.
 
@@ -49,29 +52,29 @@ Este artigo mostra diferentes maneiras de pré-visualização de uma campanha da
 
    ![](assets/five.png)
 
-1. Clique em **Adicionar extensão**.
+1. Clique em **Adicionar Extensão**.
 
    ![](assets/six.png)
 
-1. Volte para Marketo. Adicione o URL da página e clique em **Pré-visualização**.
+1. Volte para o Marketo. Adicione o URL da página e clique em **Preview**.
 
    ![](assets/seven.png)
 
-1. Uma nova janela/guia é aberta, permitindo que você pré-visualização a aparência da sua campanha em um desktop, telefone ou tablet.
+1. Uma nova janela/guia é aberta, permitindo que você visualize a aparência da campanha em um desktop, telefone ou tablet.
 
    ![](assets/campaign-preview.png)
 
-## Pré-visualização de uma Campanha da Web na Página do Web Campanha {#preview-a-web-campaign-on-the-web-campaigns-page}
+## Visualizar uma campanha da Web na página de campanhas da Web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Ao olhar para a lista de suas campanhas da Web, basta escolher uma campanha e clicar no ícone **Pré-visualização**.
+1. Ao examinar a listagem de suas campanhas da Web, basta escolher uma campanha e clicar no ícone **Preview**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
-   Calma!
+   Fácil!
 
-## Pré-visualização de uma Campanha da Web em seu site {#preview-a-web-campaign-on-your-website}
+## Visualizar uma campanha da Web no seu site {#preview-a-web-campaign-on-your-website}
 
-Crie um segmento e uma campanha de sandbox.
+Crie um segmento e uma campanha sandbox.
 
 1. Vá para **Segmentos**.
 
@@ -83,26 +86,26 @@ Crie um segmento e uma campanha de sandbox.
 
 1. Nomeie o segmento.
 
-1. Em Comportamento, arraste Incluir páginas até a tela. Adicione o valor *sandbox=1*. Clique em **Salvar e definir Campanha**.
+1. Em Comportamento, arraste Incluir páginas para a tela. Adicione o valor *sandbox=1*. Clique em **Salvar e definir campanha**.
 
    ![](assets/segment.png)
 
-1. Na página Definir Campanha da Web, altere o segmento do Público alvo para o segmento da caixa de proteção selecionando-o na lista.
+1. Na página Definir campanha da Web, altere o segmento do Target para o segmento da sandbox, selecionando-o na lista.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Conclua o anúncio de campanha e clique em **Iniciar**.
+1. Complete a campanha criativa e clique em **Launch**.
 
    ![](assets/click-launch.jpg)
 
-1. Vá para seu site, adicione o parâmetro de URL &quot;?sandbox=1&quot; no final do URL. Exemplo: `www.marketo.com?sandbox=1`.
+1. Vá para o site e adicione o parâmetro de URL &quot;?sandbox=1&quot; ao final do URL. Exemplo: `www.marketo.com?sandbox=1`.
 
-1. Veja a campanha reagir em seu site.
-
->[!NOTE]
->
->O Campanha reage somente uma vez durante uma sessão de visitante. Para ver a campanha novamente, limpe os cookies do navegador.
+1. Veja a reação da campanha em seu site.
 
 >[!NOTE]
 >
->Campanhas de redirecionamento não podem ser visualizadas. A única maneira de testá-los é usando um segmento de caixa de proteção (que público alvo por páginas específicas - *sandbox=redirect*)
+>As campanhas reagem apenas uma vez durante uma sessão de visitante. Para visualizar a campanha novamente, limpe os cookies do navegador.
+
+>[!NOTE]
+>
+>Campanhas de redirecionamento não podem ser visualizadas. A única maneira de testá-los é usando um segmento de sandbox (que direciona por páginas específicas - *sandbox=redirect*)

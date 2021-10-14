@@ -2,9 +2,9 @@
 description: Glossário de atividades de vendas - Documentos da Marketo - Documentação do produto
 title: Glossário de atividades de vendas
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 9677c26004a567bb53fef452304665eb73855568
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '492'
 ht-degree: 12%
 
 ---
@@ -121,7 +121,7 @@ As atividades abaixo serão registradas no Marketo pelo Sales Connect.
   <td>Fonte</td>
  </tr>
  <tr>
-  <td>ID da Pessoa (MSC)</td>
+  <td>ID de pessoa de vendas da Marketo</td>
  </tr>
  <tr>
   <th rowspan="11">Recebida chamada de vendas</th>
@@ -155,7 +155,7 @@ As atividades abaixo serão registradas no Marketo pelo Sales Connect.
   <td>Chamada do Sales atendida por</td>
  </tr>
  <tr>
-  <td>ID da Pessoa de Vendas da Marketo (MSC)</td>
+  <td>ID de pessoa de vendas da Marketo</td>
  </tr>
  <tr>
   <th rowspan="6">Adicionar a campanha de vendas</th>
@@ -216,6 +216,10 @@ As atividades abaixo serão registradas no Marketo pelo Sales Connect.
   <tr> 
    <td><strong>Link</strong></td> 
    <td>URL que foi clicado.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>ID de pessoa de vendas da Marketo</strong></td> 
+   <td>ID exclusiva para registro de pessoa no Sales Connect.</td> 
   </tr> 
   <tr> 
    <td><strong>Recebido por</strong></td> 
