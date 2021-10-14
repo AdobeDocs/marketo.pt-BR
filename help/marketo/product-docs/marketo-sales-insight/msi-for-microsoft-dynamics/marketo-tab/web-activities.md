@@ -3,7 +3,7 @@ description: Atividades da Web - Documentos do Marketo - Documentação do produ
 title: Atividades da Web
 hide: true
 hidefromtoc: true
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+source-git-commit: 5bfe82a966b2d89e214b3ff0107c84f9ae712d1d
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -17,6 +17,6 @@ Revise as atividades da Web mais recentes do seu cliente potencial, citando a co
 
 PICC
 
-# Atividades Anônimas da Web {#anonymous-web-activities}
+## Atividades Anônimas da Web {#anonymous-web-activities}
 
 A guia Anonymous Web Activities mostra todas as **atividades anônimas** da Web visitante. Revise as atividades da Web mais recentes e cite a contagem de visitas da página.
