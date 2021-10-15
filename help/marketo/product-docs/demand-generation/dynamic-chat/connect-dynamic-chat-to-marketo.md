@@ -3,9 +3,9 @@ description: Conectar o bate-papo dinâmico ao Marketo - Documentos do Marketo -
 title: Conectar o bate-papo dinâmico ao Marketo
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,9 @@ Depois de concluir a [configuração inicial](/help/marketo/product-docs/demand-
 
 1. Se você acessou anteriormente um aplicativo com uma Adobe ID, você será direcionado diretamente para o Bate-papo dinâmico. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
-   PICC (captura de tela quando a navegação esquerda é corrigida)
-
 1. Para conectar a instância do Marketo, selecione **Integrations**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-3.png)
+   ![](assets/connect-dynamic-chat-to-marketo-2.png)
 
 1. No cartão Marketo, clique em **Iniciar Sincronização**.
 

@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1178'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,10 @@ Os seguintes recursos começarão a ser lançados em **22 de outubro de 2021**, 
 **_Lançamento em todo o trimestre_**
 
 Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos próximos meses.
+
+**Conector Adobe Experience Platform nativo para compartilhamento de públicos-alvo no Marketo Engage**: Ative a orquestração de campanhas multicanal no Marketo Engage para segmentos de público-alvo criados no Adobe Experience Platform por meio de um conector de destino nativo. O conector usa endereços de email ou ECID para corresponder perfis do Adobe Experience Platform a registros de Marketo Engage pessoal, resultando no compartilhamento de segmentos entre aplicativos. As listas estáticas do Marketo Engage são automaticamente preenchidas, permitindo que os profissionais de marketing alcancem públicos-alvo com mensagens altamente personalizadas ou iniciem fluxos de trabalho. Ative públicos-alvo de pessoas aproveitando sua conta e contexto de oportunidade, e um perfil unificado em tempo real mais completo no Experience Platform.
+
+**Conector** de fonte de dados do Adobe Experience Platform Marketo: Os usuários do Adobe Experience Platform e do Marketo Engage poderão utilizar o Marketo Source Connector para trazer dados do Marketo para o AEP. Você poderá fazer o stream de dados (e suas alterações) do Marketo no AEP para manter os dados consistentes entre os dois produtos. O Marketo Connector pode ser visto por meio do catálogo Sources, listado em &quot;Adobe Applications&quot;.
 
 ## Sales Insight {#sales-insight}
 

@@ -3,9 +3,9 @@ description: Diálogos - Documentos do Marketo - Documentação do produto
 title: Diálogos
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 1%
 
 ---
@@ -82,7 +82,7 @@ Há uma maneira fácil de direcionar especificamente leads que ainda não estão
 
    >[!NOTE]
    >
-   >Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) os cookies e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todos os tipos de boas informações.
+   >Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) os cookies e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
 
 1. __ Está definido por padrão. No campo Selecionar valores , digite NY (também é possível clicar no menu suspenso e selecionar na lista).
 
@@ -90,9 +90,11 @@ Há uma maneira fácil de direcionar especificamente leads que ainda não estão
 
 ## Adicionar grupos {#add-groups}
 
-Você também tem a opção de agrupar atributos, caso queira ter todos os atributos específicos junto com &quot;qualquer&quot; outro.
+Você também tem a opção de agrupar atributos, caso queira ter todos os atributos específicos junto com &quot;todos ou qualquer&quot; um dos outros. Você pode adicionar vários grupos.
 
-TERMINAR ISSO
+![](assets/dialogues-13.png)
+
+![](assets/dialogues-14.png)
 
 ## Destino {#target}
 
@@ -107,7 +109,7 @@ Formatos aceitáveis:
 
 >[!NOTE]
 >
->O uso de um asterisco atua como um curinga abrangente. Assim, `https://*.website.com` colocaria a caixa de diálogo em cada página do site, incluindo subdomínios (por exemplo: `support.website.com`). E `https://website.com/folder/*` colocaria a caixa de diálogo em cada página HTML na pasta subsequente (por exemplo: nesse caso, considere que a pasta é &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
+>O uso de um asterisco atua como um curinga abrangente. Assim, `https://*.website.com` colocaria a caixa de diálogo em cada página do site, incluindo subdomínios (por exemplo: `support.website.com`). E `https://website.com/folder/*` colocaria a caixa de diálogo em cada HTML page na pasta subsequente (por exemplo: nesse caso, considere que a pasta é &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
 
 ## Designer de fluxo {#stream-designer}
 
@@ -139,9 +141,7 @@ O designer de fluxo contém cartões diferentes que podem ser adicionados para m
 
 **Criar um fluxo**
 
-Há _muitas_ combinações de fluxo para criar. Neste exemplo, vamos fazer uma pergunta sim ou não e preparar algumas respostas.
-
-EXEMPLO
+Há _muitas_ combinações de fluxo para criar. Vamos ver apenas um exemplo [neste artigo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Relatórios {#reports}
 
