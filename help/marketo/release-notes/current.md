@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '1119'
 ht-degree: 0%
 
 ---
@@ -62,8 +62,6 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 ## SalesConnect {#sales-connect}
 
 ![(estrela)](assets/yellow-star.png)
-
-**Limitação da conexão de email (GA)**: Melhore a capacidade de fornecimento de email e dimensione a comunicação personalizada de vendas com o controle da conexão de email para o Sales Connect. Essa tecnologia inovadora gerencia automaticamente o tempo de envio de email para criar uma experiência contínua para usuários do Exchange e Gmail. Diminua ou elimine o uso de aplicativos de envio de email em massa de terceiros e envie todos os seus emails do Sales Connect com confiança.
 
 **Insights** aprimorados da atividade de vendas: Uma nova atividade de rastreamento de resposta de email, Sales Email Responied, rastreia as interações dos recipients com um email que é sincronizado automaticamente com o Marketo Engage. Além disso, o atributo Source foi atualizado de &quot;Tout&quot; para &quot;Aplicativo de vendas&quot;. Essa atividade pode ser exportada e relatada por meio da API REST do Marketo Engage ou Exportar em massa e está disponível em filtros e acionadores como restrições adicionais para listas inteligentes, expandindo as opções de personalização em Campanhas inteligentes.
 
