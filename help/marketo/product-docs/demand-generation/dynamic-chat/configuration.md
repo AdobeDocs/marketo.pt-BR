@@ -3,9 +3,9 @@ description: Configuração - Documentação do Marketo - Documentação do prod
 title: Configuração
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 1%
 
 ---
@@ -60,4 +60,4 @@ Para que o chatbot apareça no seu site, primeiro será necessário instalar o s
 
 >[!NOTE]
 >
->O Suporte da Marketo não está configurado para auxiliar na solução de problemas em HTML. Para obter ajuda em HTML, consulte um desenvolvedor da Web.
+>O Suporte da Marketo não está configurado para ajudar no HTML de solução de problemas. Para obter assistência para o HTML, consulte um desenvolvedor da Web.

@@ -3,16 +3,16 @@ description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Docum
 title: Visão geral do bate-papo dinâmico
 hide: true
 hidefromtoc: true
-source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
 # Visão geral do bate-papo dinâmico {#dynamic-chat-overview}
 
-O Dynamic Chat permite que você aproveite uma interface fácil de usar para direcionar ambos os leads (PESSOAS?) e contas no (VISITANDO O SEU?) site. Colete conteúdo relevante, como nome, informações de contato e texto livre. Os visitantes do site também podem marcar reuniões com sua equipe de vendas. Os dados dinâmicos de atividade de bate-papo e envolvimento podem ser usados para adicionar membros a programas do Marketo e acionar atividades entre canais.
+O Dynamic Chat permite que você aproveite uma interface fácil de usar para direcionar pessoas e contas que visitam seu site. Colete conteúdo relevante, como nome, informações de contato e texto livre. Os visitantes do site também podem marcar reuniões com sua equipe de vendas. Os dados dinâmicos de atividade de bate-papo e envolvimento podem ser usados para adicionar membros a programas do Marketo e acionar atividades entre canais.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Um componente essencial do Dynamic Chat é sua capacidade de fazer interface nat
 
 O seguinte é sincronizado:
 
-* Dados do campo de lead
+* Dados do campo de pessoa
 * Dados do campo da empresa
 * Dados da atividade
 
@@ -40,15 +40,15 @@ Na guia Configuração , personalize a aparência das várias caixas de diálogo
 
 Na guia Calendário , conecte seu calendário (Outlook ou Gmail) para uso na programação de compromissos no chatbot. Quando o calendário de um usuário estiver conectado ao Dynamic Chat, ele será adicionado à fila e seu calendário estará disponível para os visitantes do site agendarem compromissos.
 
-Você também pode personalizar o corpo do email de convite? que é enviada ao visitante quando ele agenda um compromisso no calendário do usuário.
+Você também pode personalizar o corpo do convite enviado ao visitante quando ele agendar um compromisso no calendário do usuário.
 
 ## Reuniões {#meetings}
 
-É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias Diálogos. Aqui você encontrará o endereço de e-mail do cliente potencial que reservou o compromisso, com qual agente eles reservaram o compromisso, quando o compromisso está agendado para ocorrer e se a reunião aconteceu ou não.
+É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias Diálogos. Aqui você encontrará o endereço de e-mail da pessoa que reservou o compromisso, com qual agente eles reservaram o compromisso, quando o compromisso está programado para ocorrer e se a reunião aconteceu ou não.
 
 ## Roteamento {#routing}
 
-É aqui que você pode ver uma lista de todos os agentes que conectaram seus calendários, bem como a ordem em que serão apresentados aos visitantes do site As reuniões rodam o estilo robin, então se você tiver cinco agentes e o agente três na última reunião, o agente quatro terá a próxima, seguida de cinco, e então de volta para o agente um.
+É aqui que você pode ver uma lista de todos os agentes que conectaram seus calendários, bem como a ordem em que serão apresentados aos visitantes do site. As reuniões são ao estilo do robin, então se você tem cinco agentes e o agente três tomou a última reunião, o agente quatro terá a próxima, seguido pelo agente cinco, e então de volta ao agente um.
 
 ## Perguntas frequentes {#faq}
 
@@ -56,9 +56,9 @@ Você também pode personalizar o corpo do email de convite? que é enviada ao v
 
 Não, ele utiliza apenas respostas predeterminadas.
 
-**Como posso direcionar leads anônimos?**
+**Como posso direcionar pessoas anônimas?**
 
-Na caixa de diálogo, seria necessário usar o atributo _E-mail de lead está vazio_.
+Na caixa de diálogo, seria necessário usar o atributo _Person Email is Empty_ .
 
 **Você suporta a funcionalidade AI/NLP?**
 

@@ -3,9 +3,9 @@ description: Diálogos - Documentos do Marketo - Documentação do produto
 title: Diálogos
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '742'
 ht-degree: 1%
 
 ---
@@ -34,13 +34,13 @@ As caixas de diálogo são conversas de chat individuais. Saiba como personaliz�
 
 ## Critérios de público-alvo {#audience-criteria}
 
-Semelhante às Smart Lists da Marketo, os atributos de Critérios de público-alvo permitem que você defina seu público-alvo. Você pode direcionar leads conhecidos ou desconhecidos usando atributos inferidos, de cliente potencial ou de empresa (ou uma combinação desses atributos).
+Semelhante às Smart Lists da Marketo, os atributos de Critérios de público-alvo permitem que você defina seu público-alvo. Você pode direcionar pessoas conhecidas ou desconhecidas usando atributos inferidos, de pessoa ou da empresa (ou uma combinação desses atributos).
 
-**Leads conhecidos**
+**Pessoas conhecidas**
 
-Há _muitas_ combinações de atributos para escolher. Neste exemplo, estamos direcionando todos os **leads conhecidos** na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
+Há _muitas_ combinações de atributos para escolher. Neste exemplo, estamos direcionando todas as **pessoas conhecidas** na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
 
-1. Pegue o atributo **Estado de lead** e arraste-o para a direita.
+1. Pegue o atributo **Estado da pessoa** e arraste-o para a direita.
 
    ![](assets/dialogues-4.png)
 
@@ -64,11 +64,11 @@ Há _muitas_ combinações de atributos para escolher. Neste exemplo, estamos di
 
    ![](assets/dialogues-8.png)
 
-**Leads anônimos**
+**Pessoas anônimas**
 
-Há uma maneira fácil de direcionar especificamente leads que ainda não estão em seu banco de dados. Neste exemplo, estamos direcionando todos os **leads anônimos** localizados na área de Nova York.
+Há uma maneira fácil de direcionar especificamente as pessoas que ainda não estão no seu banco de dados. Neste exemplo, estamos direcionando todas as **pessoas anônimas** localizadas na área de Nova York.
 
-1. Pegue o atributo **Email de lead** e arraste-o para a direita.
+1. Pegue o atributo **Email da pessoa** e arraste-o para a direita.
 
    ![](assets/dialogues-9.png)
 
@@ -131,17 +131,17 @@ O designer de fluxo contém cartões diferentes que podem ser adicionados para m
  </tr>
  <tr>
   <td><strong>Programador de Compromissos</strong></td>
-  <td>Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete [o próximo agente na linha](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+  <td>Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">o próximo agente na linha</a>.</td>
  </tr>
  <tr>
   <td><strong>Meta</strong></td>
-  <td>Este é o único cartão que os visitantes não verão. Cabe a você determinar em qual ponto uma meta é alcançada dentro do chat específico (por exemplo: se coletar o email do visitante for seu objetivo, coloque o cartão Meta após Captura de informações no fluxo).</td>
+  <td>Este é o único cartão que os visitantes não verão. Cabe a você determinar em qual ponto uma meta é alcançada dentro do chat específico (por exemplo: se coletar o email do visitante for sua meta, coloque o cartão Meta imediatamente após Captura de informações no stream).</td>
  </tr>
 </table>
 
 **Criar um fluxo**
 
-Há _muitas_ combinações de fluxo para criar. Vamos ver apenas um exemplo [neste artigo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
+Há _muitas_ combinações de fluxo possíveis. Vamos observar um exemplo [neste artigo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Relatórios {#reports}
 
@@ -162,7 +162,7 @@ Na guia Reports , visualize os dados dos últimos 90 dias. Cada categoria é def
   <td>Aumenta sempre que um visitante atinge o fim de qualquer ramificação em uma caixa de diálogo.</td>
  </tr>
  <tr>
-  <td><strong>Clientes potenciais capturados</strong></td>
+  <td><strong>Pessoas capturadas</strong></td>
   <td>Incrementa sempre que um visitante fornece um endereço de email válido em um fluxo de caixa de diálogo.</td>
  </tr>
  <tr>
@@ -174,3 +174,7 @@ Na guia Reports , visualize os dados dos últimos 90 dias. Cada categoria é def
   <td>Aumenta sempre que um visitante atinge uma meta em qualquer fluxo de caixa de diálogo.</td>
  </tr>
 </table>
+
+>[!MORELIKETHIS]
+>
+>[Criar um fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)

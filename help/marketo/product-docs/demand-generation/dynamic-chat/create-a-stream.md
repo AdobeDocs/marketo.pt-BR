@@ -3,18 +3,18 @@ description: Criar um fluxo - Documentos do Marketo - Documentação do produto
 title: Criar um fluxo
 hide: true
 hidefromtoc: true
-source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # Criar um fluxo {#create-a-stream}
 
-Há _muitas_ combinações de fluxo para criar. Abaixo está um exemplo em que o profissional de marketing pergunta ao visitante do site se ele tem alguma dúvida. Em caso positivo, o visitante pode agendar um compromisso. Se não, o visitante recebe a opção de ingressar em uma lista de endereços para correspondência futura. A meta é agendar um compromisso ou coletar o email do visitante.
+Há _muitas_ combinações de fluxo que você pode criar. Abaixo está um exemplo em que o profissional de marketing pergunta ao visitante do site se ele tem alguma dúvida sobre o produto. Em caso positivo, o visitante pode agendar um compromisso. Se não, o visitante recebe a opção de ingressar em uma lista de endereços para correspondência futura. A meta é agendar um compromisso ou coletar o email do visitante.
 
-1. Depois de [criar a caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), clique na guia Designer de fluxo.
+1. Depois de [criar a caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), clique na guia **Stream Designer**.
 
    ![](assets/create-a-stream-1.png)
 
@@ -84,8 +84,8 @@ Há _muitas_ combinações de fluxo para criar. Abaixo está um exemplo em que o
      <td>A mensagem que o visitante vê solicitando que forneça as informações.</td>
     </tr>
     <tr>
-     <td><strong>Exemplo de texto que ajuda o visitante a ver o que inserir.</strong></td>
-     <td>texto</td>
+     <td><strong>Espaço reservado</strong></td>
+     <td>Exemplo de texto que ajuda o visitante a ver o que inserir.</td>
     </tr>
     <tr>
      <td><strong>Mapear resposta para o atributo</strong></td>
@@ -116,3 +116,7 @@ Há _muitas_ combinações de fluxo para criar. Abaixo está um exemplo em que o
 >[!NOTE]
 >
 >Antes de clicar em Publicar, lembre-se de ter [inserido seus URLs de destino](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+
+>[!MORELIKETHIS]
+>
+>[Diálogos](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)
