@@ -3,9 +3,9 @@ description: Atividades da Web - Documentos do Marketo - Documentação do produ
 title: Atividades da Web
 hide: true
 hidefromtoc: true
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 A guia Web Activities mostra as atividades da Web dos leads/contatos.
 Revise as atividades da Web mais recentes do seu cliente potencial, citando a contagem de visitas à página e as respectivas contas. Você pode filtrar os resultados para limitar o número especificado de páginas.
 
-PICC
+![](assets/web-activities-1.png)
 
 ## Atividades Anônimas da Web {#anonymous-web-activities}
 
-A guia Anonymous Web Activities mostra todas as **atividades anônimas** da Web visitante. Revise as atividades da Web mais recentes e cite a contagem de visitas da página.
+A guia Atividades Web Anônimas mostra todas as **anonymous** atividades da Web do visitante da página da Web. Revise as atividades da Web mais recentes e cite a contagem de visitas da página.

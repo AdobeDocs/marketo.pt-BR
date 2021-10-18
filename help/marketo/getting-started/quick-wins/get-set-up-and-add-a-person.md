@@ -3,8 +3,7 @@ unique-page-id: 2359351
 description: Configuração e adição de uma pessoa - Documentos do Marketo - Documentação do produto
 title: Configurar e adicionar uma pessoa
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 2%
@@ -17,7 +16,7 @@ Há algumas coisas a fazer antes de começar as missões.
 
 ## Etapa 1: Faça logon no Marketo {#step-log-in-to-marketo}
 
-1. [Faça logon no ](https://app.marketo.com) Marketing usando as credenciais recebidas por email.
+1. [Faça logon no Marketo](https://app.marketo.com) usando as credenciais recebidas por email.
 
    ![](assets/one.png)
 
@@ -25,15 +24,15 @@ Há algumas coisas a fazer antes de começar as missões.
 
 Vamos criar uma pasta para guardar tudo que você fará nas missões.
 
-1. Vá para a área **Marketing Activities**.
+1. Vá para o **Atividades de marketing** área.
 
    ![](assets/two.png)
 
-1. Clique no menu suspenso **New** e selecione **New Campaign Folder**.
+1. Clique no botão **Novo** e selecione **Nova pasta de campanha**.
 
    ![](assets/image2014-9-24-10-3a53-3a38.png)
 
-1. Nomeie a pasta &quot;Learning&quot; e clique em **Create**.
+1. Nomeie a pasta &quot;Learning&quot; e clique em **Criar**.
 
    ![](assets/image2014-9-24-10-3a53-3a55.png)
 
@@ -41,19 +40,19 @@ Vamos criar uma pasta para guardar tudo que você fará nas missões.
 
    ![](assets/image2014-9-24-10-3a54-3a9.png)
 
-## Etapa 3: Adicionar-se como uma Pessoa {#step-add-yourself-as-a-person}
+## Etapa 3: Adicionar-se como uma pessoa {#step-add-yourself-as-a-person}
 
 Adicione-se como uma pessoa no Marketo para enviar emails de teste para você mesmo depois.
 
-1. Vá para a área **Database**.
+1. Vá para o **Banco de dados** área.
 
    ![](assets/db.png)
 
-1. Clique no menu suspenso **New** e selecione **New Person**.
+1. Clique no botão **Novo** e selecione **Nova pessoa**.
 
    ![](assets/seven.png)
 
-1. Digite seu nome e sobrenome, endereço de email e nome da empresa e clique em **Criar** para adicionar a si mesmo como uma pessoa.
+1. Digite seu nome e sobrenome, endereço de email e nome da empresa e clique em **Criar** para se adicionar como uma pessoa.
 
    ![](assets/eight.png)
 
@@ -61,7 +60,7 @@ Adicione-se como uma pessoa no Marketo para enviar emails de teste para você me
 
    ![](assets/nine.png)
 
-1. Clique na guia **People**. Você deve se ver no banco de dados.
+1. Clique no botão **Pessoas** guia . Você deve se ver no banco de dados.
 
    ![](assets/ten.png)
 

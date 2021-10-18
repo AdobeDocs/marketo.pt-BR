@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Configurar anúncios de lead da Facebook - Documentos da Marketo - Documentação do produto
 title: Configurar anúncios de lead da Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: eec4b6fb94ad7dd3b10376bdcdc2b558d1b90aed
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Configurar anúncios de lead da Facebook {#set-up-facebook-lead-ads}
 
-Use [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para executar campanhas de anúncios no Facebook e gerar leads para Marketo.
+Use [Anúncios de lead da facebook](https://www.facebook.com/business/a/lead-ads) para executar campanhas de publicidade no Facebook e gerar leads para o Marketo.
 
 >[!NOTE]
 >
@@ -22,19 +22,19 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para execu
 >
 >Para adicionar os Anúncios de lead da Facebook à sua instância, entre em contato com o Gerente de sucesso do cliente.
 
-1. Vá para Marketo **Admin**.
+1. Ir para o Marketo **Administrador**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Vá para **LaunchPoint**, clique em **Novo,** e selecione **Novo Serviço**.
+1. Ir para **LaunchPoint**, clique em **Novo,** e selecione **Novo Serviço**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Insira um **Nome de exibição** para seu serviço, selecione o serviço **Facebook Lead Ads** no menu suspenso e clique em **Criar**.
+1. Insira um **Nome de exibição** para o seu serviço, selecione o **Anúncios de lead da facebook** na lista suspensa e clique em **Criar**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Abra uma nova guia no mesmo navegador e vá para [facebook.com](https://www.facebook.com). Faça logon no Facebook usando a conta que deseja usar para a integração.
+1. Abra uma nova guia no mesmo navegador e acesse [facebook.com](https://www.facebook.com). Faça logon no Facebook usando a conta que deseja usar para a integração.
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para execu
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Depois de fazer logon no Facebook, volte para o Marketo e clique em **Autorizar**.
+1. Depois de fazer logon no Facebook, volte para a Marketo e clique em **Autorizar**.
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
@@ -50,11 +50,11 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para execu
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Você perceberá que está autorizado. Clique em **Next**.
+1. Você perceberá que está autorizado. Clique em **Próximo**.
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. Selecione as páginas das quais você deseja que o Marketo extraia os Anúncios de lead da Facebook e clique em **Próximo**.
+1. Selecione as páginas das quais você deseja que o Marketo obtenha os Anúncios de leads do Facebook e clique em **Próximo**.
 
    >[!TIP]
    >
@@ -62,11 +62,11 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para execu
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
-1. Para aceitar os mapeamentos de campo padrão do Facebook para Marketo, basta clicar em **Create**.
+1. Para aceitar os mapeamentos de campo padrão do Facebook para Marketo, basta clicar em **Criar**.
 
    >[!TIP]
    >
-   >Ao modificar os mapeamentos, é possível personalizar onde os dados dos principais anúncios são armazenados no Marketo. Você também pode [obter dados de Perguntas personalizadas de Anúncios de leads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >Ao modificar os mapeamentos, é possível personalizar onde os dados dos principais anúncios são armazenados no Marketo. Você também pode [obter dados de perguntas personalizadas de Anúncios de leads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
