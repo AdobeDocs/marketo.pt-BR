@@ -1,26 +1,48 @@
 ---
-description: Melhores vantagens - Documentos do Marketo - Documentação do produto
-title: Melhores Propostas
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+description: Melhores vantagens - Documentação da Marketo - Documentação do produto
+title: Melhores opções
+exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '267'
+ht-degree: 7%
 
 ---
 
-
-# Melhores Opções {#best-bets}
+# Melhores opções {#best-bets}
 
 A guia Melhores Apostas inclui uma lista de todos os leads ativos com base em sua prioridade, calculada usando urgência e pontuação relativa.
 
-Ao clicar no menu de dados na coluna Ações , é possível usar opções de envolvimento como:
+**Opções de filtro**
 
-* Enviar Email do Marketo
-* Adicionar à campanha Marketo
+Você pode clicar em cada um dos seguintes botões para ver Melhores Melhores Melhores Melhores:
+
+* Clientes potenciais: Você pode ver Melhores Propostas para todos os leads atribuídos a você no CRM
+* Contatos: Você pode ver Melhores Opções para todos os contatos atribuídos a você no CRM
+* Contatos da conta: Você pode ver Melhores Opções para todos os contatos que pertencem a Contas atribuídas a você no CRM, mesmo se o contato em si não estiver atribuído a você
+* Contatos da Oportunidade: Você pode ver Melhores Opções para todos os contatos que pertencem a Oportunidades atribuídas a você no CRM, mesmo se o contato em si não estiver atribuído a você
+
+**O que deve ser observado**
+
+Os botões de lead &amp; contact são selecionados por padrão. É possível selecionar uma ou mais opções de filtro e, no mínimo, uma das quatro opções terá de ser sempre selecionada.
+
+Não é possível &quot;Ocultar&quot; um cliente potencial ou contato que você não possui.
+
+**Envolvimento em linha**
+
+Ao clicar no menu de dados na coluna Ações , é possível entrar em contato com um cliente potencial ou contato específico usando as seguintes opções de envolvimento:
+
+* Enviar e-mail do Marketo
+* Adicionar à campanha do Marketo
 * Exibir no Marketo
 * Adicionar à Lista de favoritos
 
-Você também pode selecionar vários leads na guia Melhores Opções e escolher _Enviar Marketo Email_ ou _Adicionar ao Marketo Campaign_.
+**Ações em massa**
+
+Você pode selecionar um ou mais leads ou contatos da página Melhores Melhores Melhores usando a caixa de seleção e acessá-los como um grupo usando as seguintes opções de envolvimento:
+
+* Enviar e-mail do Marketo
+* Adicionar à campanha do Marketo
+* Adicionar à Lista de favoritos
 
 ![](assets/best-bets-1.png)

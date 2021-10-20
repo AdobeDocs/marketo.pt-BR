@@ -3,7 +3,7 @@ description: Configuração de exibições MSI - Documentos do Marketo - Documen
 title: Configuração de exibições MSI
 hide: true
 hidefromtoc: true
-source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Instalar o plug-in Sales Insight no Dynamics adiciona automaticamente as Melhore
 
 1. Em Dinâmicas, clique no ícone de engrenagem e selecione **Configurações avançadas** no menu suspenso .
 
-1. No canto superior esquerdo da tela, clique em **Configurações**. Em Personalização, escolha Personalizações.
+1. No canto superior esquerdo da tela, clique em **Configurações**. Em Personalização, escolha **Personalizações**.
 
 1. Clique em **Personalizar o sistema**.
 

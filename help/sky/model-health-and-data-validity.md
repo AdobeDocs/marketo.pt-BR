@@ -2,26 +2,29 @@
 title: modelo-integridade-e-validade de dados
 description: Integridade do modelo e validade de dados
 exl-id: b14ec648-be1c-467b-b41d-2c53d74e25ea
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
 # Integridade do modelo e validade de dados
 
-<br> 
+O desempenho de seus modelos depende da qualidade e da integridade dos dados de entrada. Veja o principal fator de influência para cada um de seus modelos de IA de probabilidade. Veja também os principais fatores que resultam em registro de eventos mais alto/menor, participação em eventos ou cancelamento de assinaturas.
 
-O desempenho de seus modelos depende da qualidade e da integridade dos dados de entrada. Aqui está como avaliar sua integridade do modelo.
+>[!NOTE]
+>
+>Os comportamentos marcados como (+) influenciam previsões positivamente (e vice-versa).
 
-Navegue até a seção **[!UICONTROL Modelos e integridade de dados]** em **[!UICONTROL Públicos preditivos]** na área **[!UICONTROL Administrador]** do Marketo Classic. Aqui você verá todos os seus modelos e seus status.
+Aqui está como avaliar sua integridade do modelo.
+
+Navegue até o **[!UICONTROL Modelos e integridade de dados]** seção sob **[!UICONTROL Públicos-alvo preditivos]** no **[!UICONTROL Administrador]** área do Marketo Classic. Aqui você verá todos os seus modelos e seus status.
 
 ![Imagem Um](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
-* **Status** de treinamento: Indica se o modelo está treinando ativamente (melhorando as previsões). O treinamento ocorre automaticamente a cada 2 semanas. Qualquer modelo que seja _Processando_ pode levar até 24 horas para ser concluído. Para qualquer modelo _Failed_, entre em contato com o [Suporte do Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
-* **Status** da pontuação: Indica se o modelo está calculando previsões ativamente (porcentagens de probabilidade) para os membros do programa.
-* **Desempenho**: categorize a integridade do modelo com base na Integridade dos dados e na Qualidade dos dados (veja abaixo).
-* **Integridade** dos dados: Porcentagem de atributos de dados presentes/concluídos.
-* **Qualidade** dos dados: Porcentagem de atributos que contêm dados bons e utilizáveis.
+* **Status de treinamento**: Indica se o modelo está treinando ativamente (melhorando as previsões). O treinamento ocorre automaticamente a cada 2 semanas. Qualquer modelo que _Processamento_ pode levar até 24 horas para terminar. Para qualquer _Falha_ modelos, entre em contato com [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+* **Status da pontuação**: Indica se o modelo está calculando previsões ativamente (porcentagens de probabilidade) para os membros do programa.
+* **Desempenho**: Categorização do funcionamento do modelo com base na Integridade dos dados e na Qualidade dos dados (veja abaixo).
+* **Integridade dos dados**: Porcentagem de atributos de dados presentes/concluídos.
+* **Qualidade dos dados**: Porcentagem de atributos que contêm dados bons e utilizáveis.
