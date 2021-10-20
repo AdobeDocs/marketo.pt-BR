@@ -2,7 +2,7 @@
 title: modelo-integridade-e-validade de dados
 description: Integridade do modelo e validade de dados
 exl-id: b14ec648-be1c-467b-b41d-2c53d74e25ea
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -15,7 +15,7 @@ O desempenho de seus modelos depende da qualidade e da integridade dos dados de 
 
 >[!NOTE]
 >
->Os comportamentos marcados como (+) influenciam previsões positivamente (e vice-versa).
+>Os comportamentos marcados com (+) influenciam as previsões positivamente (e vice-versa).
 
 Aqui está como avaliar sua integridade do modelo.
 
