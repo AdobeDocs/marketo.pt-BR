@@ -3,7 +3,7 @@ description: Criar um fluxo - Documentos do Marketo - Documentação do produto
 title: Criar um fluxo
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 1022d3eaf4ee4a1686c5d8ae3168ee0197776289
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Criar um fluxo {#create-a-stream}
 
-Há _muitas_ combinações de fluxo que você pode criar. Abaixo está um exemplo em que o profissional de marketing pergunta ao visitante do site se ele tem alguma dúvida sobre o produto. Em caso positivo, o visitante pode agendar um compromisso. Se não, o visitante recebe a opção de ingressar em uma lista de endereços para correspondência futura. A meta é agendar um compromisso ou coletar o email do visitante.
+Existem _many_ combinações de fluxo que podem ser criadas. Abaixo está um exemplo em que o profissional de marketing pergunta ao visitante do site se ele tem alguma dúvida sobre o produto. Em caso positivo, o visitante pode agendar um compromisso. Se não, o visitante recebe a opção de ingressar em uma lista de endereços para correspondência futura. A meta é agendar um compromisso ou coletar o email do visitante.
 
-1. Depois de [criar a caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), clique na guia **Stream Designer**.
+1. Depois de [criar a caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), clique no botão **Designer de fluxo** guia .
 
    ![](assets/create-a-stream-1.png)
 
@@ -30,7 +30,7 @@ Há _muitas_ combinações de fluxo que você pode criar. Abaixo está um exempl
    >
    >O poke é definido para ativado por padrão, o que exibe a pergunta de abertura ao lado do ícone de chat sem que o visitante precise clicar nele para vê-la.
 
-1. Insira as Respostas do Usuário e clique em **Salvar**.
+1. Insira suas Respostas do Usuário e clique em **Salvar**.
 
    ![](assets/create-a-stream-4.png)
 
@@ -38,7 +38,7 @@ Há _muitas_ combinações de fluxo que você pode criar. Abaixo está um exempl
 
    ![](assets/create-a-stream-5.png)
 
-1. Na coluna à direita, clique em **Save**.
+1. Na coluna à direita, clique em **Salvar**.
 
    ![](assets/create-a-stream-6.png)
 
@@ -54,23 +54,23 @@ Há _muitas_ combinações de fluxo que você pode criar. Abaixo está um exempl
 
    ![](assets/create-a-stream-9.png)
 
-1. Insira sua resposta e adicione opções de resposta para o visitante. Clique em **Salvar** quando terminar.
+1. Insira sua resposta e adicione opções de resposta para o visitante. Clique em **Salvar** quando concluído.
 
    ![](assets/create-a-stream-10.png)
 
    >[!NOTE]
    >
-   >Você pode adicionar mais respostas clicando em **Adicionar Resposta**.
+   >Você pode adicionar mais respostas clicando em **Adicionar resposta**.
 
 1. Abaixo da resposta &quot;Sim&quot;, arraste o cartão Captura de informações para coletar o email do visitante.
 
    ![](assets/create-a-stream-11.png)
 
-1. Clique no menu suspenso **Type** e selecione **Email**.
+1. Clique no botão **Tipo** e selecione **Email**.
 
    ![](assets/create-a-stream-12.png)
 
-1. Insira uma mensagem de chatbot e um espaço reservado. Verifique se o atributo está mapeado para o campo apropriado no Marketo e clique em **Save**.
+1. Insira uma mensagem de chatbot e um espaço reservado. Verifique se o atributo está mapeado para o campo apropriado no Marketo e clique em **Salvar**.
 
    ![](assets/create-a-stream-13.png)
 
@@ -105,7 +105,7 @@ Há _muitas_ combinações de fluxo que você pode criar. Abaixo está um exempl
 
    ![](assets/create-a-stream-16.png)
 
-1. Insira a mensagem e clique em **Save**.
+1. Insira a mensagem e clique em **Salvar**.
 
    ![](assets/create-a-stream-17.png)
 
@@ -115,7 +115,7 @@ Há _muitas_ combinações de fluxo que você pode criar. Abaixo está um exempl
 
 >[!NOTE]
 >
->Antes de clicar em Publicar, lembre-se de ter [inserido seus URLs de destino](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Antes de clicar em Publicar, lembre-se de ter certeza de que você [introduziu o(s) URL(s) de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
 
 >[!MORELIKETHIS]
 >
