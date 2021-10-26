@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Visão geral de recursos do painel de insights - Documentos do Marketo - Documentação do produto
 title: Visão geral de recursos do painel do Insights
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1503'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Saiba mais sobre os recursos disponíveis no painel de insights de vendas.
 
 >[!PREREQUISITES]
 >
->Você deve ter o pacote MSI SFDC mais recente e [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>Você deve ter o pacote MSI SFDC mais recente e [configuração](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -155,7 +155,7 @@ Guia Evento:
 * A barra de Resumo semanal mostrará Momentos interessantes, Email e Atividade da Web naquela semana. Cada ícone é clicável e pode ser usado como filtros para mostrar atividades específicas
 * Exibição padrão: Esta é uma lista de atividades da exibição atual
 
-**Próximas Campanhas e** eventos de email Guia Campanhas de email :
+**Campanhas e eventos de email futuros** Guia Campanhas de email :
 
 * Inclui campanhas que fazem parte de programas de email ou programas padrão programados nos próximos 90 dias
 * Não específico do contato/lead (ou seja, a lista de campanhas é uma lista genérica de todas as campanhas de email agendadas na instância do Marketo). A lista de campanhas em todos os painéis de lead, contato, conta e oportunidade será a mesma
@@ -171,3 +171,7 @@ Guia Evento:
 * Selecionar todos os eventos mostrará a lista de eventos agendados nos próximos 90 dias
 * O cartão de detalhes da atividade nesta seção tem a opção de visualização
 * O filtro inclui &quot;Pesquisa&quot;, &quot;Mostrar somente eventos convidados&quot; e &quot;Intervalo de datas&quot;
+
+>[!NOTE]
+>
+>Se sua Conta ou Oportunidade tiver mais de 800 contatos, o painel não exibirá dados. No entanto, você pode acessar contatos individuais para ver seus insights e envolvimento. Se sua conta tiver mais de 800 contatos, &quot;Mostrar atividade no nível da conta&quot; será desativado.

@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
 source-wordcount: '7972'
 ht-degree: 5%
@@ -235,21 +235,21 @@ ht-degree: 5%
          + [Ativar URLs personalizados para sua conta (Administração)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [Como bloquear envios de formulários de spam](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [Restringir logons do Marketo com base em IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
-         + [Selecione seu idioma, local e fuso horário](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+         + [Select Your Language, Locale and Time Zone](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Definir uma página de fallback](product-docs/administration/settings/set-a-fallback-page.md)
          + [Definir configurações de localização padrão para uma assinatura](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Noções básicas sobre configurações de privacidade](product-docs/administration/settings/understanding-privacy-settings.md)
-         + [Uso de uma ID universal para logon de assinatura](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+         + [Using a Universal ID for Subscription Login](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
       + Marcas {#tags}
          + [Criar uma nova tag de programa e valores de tag](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
-         + [Criar um canal de programa](product-docs/administration/tags/create-a-program-channel.md)
-         + [Criar tags personalizadas](product-docs/administration/tags/create-custom-tags.md)
+         + [Create a Program Channel](product-docs/administration/tags/create-a-program-channel.md)
+         + [Create Custom Tags](product-docs/administration/tags/create-custom-tags.md)
          + [Excluir um canal de programa](product-docs/administration/tags/delete-a-program-channel.md)
          + [Excluir um status de programa de um canal de programa](product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md)
-         + [Ocultar/mostrar um canal de programa](product-docs/administration/tags/hide-unhide-a-program-channel.md)
+         + [Hide/Unhide a Program Channel](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [Gerenciamento de valores de tag](product-docs/administration/tags/managing-tag-values.md)
       + Usuários e funções {#users-and-roles}
-         + [Criar uma função de usuário somente de API](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [Create an API Only User Role](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Criar um usuário somente de API](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Criar, excluir, editar e alterar uma função de usuário](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [Ativar a Permissão de Importação de Lista Avançada em uma Função](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
@@ -421,13 +421,13 @@ ht-degree: 5%
             + [Campos personalizados do membro do programa](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
             + [Sincronizar uma campanha SFDC com um programa](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [Noções básicas sobre custos de período](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
-            + [Compreensão de tags](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
-            + [Usar tags em um programa](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
+            + [Understanding Tags](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
+            + [Use Tags in a Program](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
             + [Uso de Custos de Período em um Programa](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Relatório de desempenho do programa {#program-performance-report}
             + [Criar um relatório de desempenho de programa](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Adicionar colunas de status de programa a um relatório de programa](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
-            + [Filtrar um Relatório de Programa por Custo de Período](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+            + [Filter a Program Report by Period Cost](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
             + [Filtrar um Relatório de Programa por Programa](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
             + [Filtrar um relatório de programa por tag](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
          + Exibir programação de programas {#program-schedule-view}
@@ -663,17 +663,17 @@ ht-degree: 5%
          + [Testar anúncios de lead da Facebook para integração de desktop com a Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
          + [Testar anúncios de lead da Facebook para integração móvel com o Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Noções básicas sobre conversões offline do Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
-         + [Usar filtros e acionadores de anúncios de lead em uma campanha inteligente](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+         + [Use Lead Ads Filters and Triggers in a Smart Campaign](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
       + Formulários {#forms}
          + Criação de um formulário {#creating-a-form}
             + [Criar um formulário](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
             + [Adicionar um campo a um formulário](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
             + [Aprovar um formulário](product-docs/demand-generation/forms/creating-a-form/approve-a-form.md)
-            + [Editar um rótulo de campo em um formulário](product-docs/demand-generation/forms/creating-a-form/edit-a-field-label-in-a-form.md)
+            + [Edit a Field Label in a Form](product-docs/demand-generation/forms/creating-a-form/edit-a-field-label-in-a-form.md)
             + [Torne um campo de formulário obrigatório](product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)
             + [Visualizar um formulário](product-docs/demand-generation/forms/creating-a-form/preview-a-form.md)
             + [Selecionar um Tema de Formulário](product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
-            + [Página de agradecimento do formulário](product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)
+            + [Set a Form Thank You Page](product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)
          + Ações de formulário {#form-actions}
             + [Adicionar uma lista de seleção de país ao seu formulário](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [Adicionar rich text a um formulário](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
@@ -894,7 +894,7 @@ ht-degree: 5%
             + [Publicar uma pesquisa](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
             + [Revisar Votos Transmitidos em Pesquisa](product-docs/demand-generation/social/creating-a-poll/review-votes-cast-in-poll.md)
          + Ofertas com indicação {#referral-offers}
-            + [Criar uma oferta de referência](product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+            + [Create a Referral Offer](product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
             + [Publicar uma oferta de referência](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
             + [Enviar email de fornecimento de oferta de referência](product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)
             + [Especificar meta para oferta de referência](product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
@@ -904,9 +904,9 @@ ht-degree: 5%
             + [Adicionar sua política de privacidade a um aplicativo social](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
             + [Escolha o URL de compartilhamento para um aplicativo social](product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)
             + [Script de conversão para eventos personalizados](product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)
-            + [Implantar o Social em seu site](product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+            + [Deploy Social on Your Website](product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
             + [Ativar o preenchimento do formulário social em um formulário (Social)](product-docs/demand-generation/social/social-functions/enable-social-form-fill-on-a-form-social.md)
-            + [Gerenciar dados de perfil social](product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
+            + [Manage Social Profile Data](product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
             + [Definir requisito de compartilhamento em redes sociais](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
             + [Configurar o LinkedIn Lead Gen Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [Triggers e filtros para atividades sociais](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
@@ -1308,6 +1308,7 @@ ht-degree: 5%
             + [Configuração do insight de vendas para sua equipe](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + Recursos {#features}
             + [Visão geral de recursos do MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
+            + [Visão geral de recursos do painel do Insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + Ações no painel MSI {#actions-in-the-msi-panel}
                + [Adicionar um lead/contato a uma campanha da Marketo pelo Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
                + [Configurar rodapés de cancelamento de inscrição no Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
@@ -1318,12 +1319,11 @@ ht-degree: 5%
                + [Adicionar a guia e os botões do Marketo Sales Insight ao Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Ações em massa no Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [Enviar um email para vários registros no Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-               + [Visão geral de recursos do painel do Insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + Suporte de idiomas {#language-support}
+            + Language Support {#language-support}
                + [Preparar informações de vendas para suporte multilíngue no Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
-            + Guia Marketo {#marketo-tab}
+            + Marketo Tab {#marketo-tab}
                + [Melhores opções](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
-               + [Usar o feed de informação privilegiada](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
+               + [Using the Lead Feed](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + Guia Configuração MSI {#msi-configuration-tab}
                + [Ativar RSS para o Insight de Vendas](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
             + Relatórios de desempenho {#performance-reports}
@@ -1331,14 +1331,14 @@ ht-degree: 5%
             + Estrelas e chamas {#stars-and-flames}
                + [Personalizar estrelas e chamas](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
                + [Prioridade, urgência, pontuação relativa e melhores propostas](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
-               + [Definir campos de pontuação a serem usados para estrelas e chamas no insight de vendas](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
+               + [Set Score Fields to be used for Stars and Flames in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + Guias no painel MSI {#tabs-in-the-msi-panel}
                + [Guia Email](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + Momentos interessantes {#interesting-moments}
                   + [Visão geral dos momentos interessantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
                   + [Tokens de acionador para momentos interessantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
                   + [Uso de momentos interessantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
-         + MSI para dispositivos móveis {#msi-for-mobile}
+         + MSI for Mobile {#msi-for-mobile}
             + [Melhores vantagens no Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
             + [Instalar e configurar o Marketo Sales Insight no Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
             + [Momentos interessantes em Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
