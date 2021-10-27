@@ -3,7 +3,7 @@ description: Visão geral - Documentação do Marketo - Documentação do produt
 title: Visão geral
 hide: true
 hidefromtoc: true
-source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
+source-git-commit: 6047665cf94a4b212734667feeb5fce911ffdebb
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 1%
@@ -53,11 +53,11 @@ O Adobe Identity Management System consiste em três componentes.
 
 **Há alguma alteração no suporte ao cliente de API?**
 
-Sim. Aqueles que foram integrados ao Adobe IMS não podem utilizar as APIs de gerenciamento de usuários existentes do Marketo. Eles usariam as [APIs IMS](https://www.adobe.io/apis/experienceplatform/umapi-new.html).
+Sim. Aqueles que foram integrados ao Adobe IMS não podem utilizar as APIs de gerenciamento de usuários existentes do Marketo. Eles usariam o [APIs IMS](https://www.adobe.io/apis/experienceplatform/umapi-new.html).
 
 **Com quem entramos em contato para obter apoio?**
 
-Siga o procedimento padrão para entrar em contato com o [Suporte do Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Siga o procedimento padrão para entrar em contato com o [Suporte Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 **As funções de usuário do Marketo (em espaços de trabalho) são gerenciadas no Adobe Admin Console?**
 
@@ -65,7 +65,7 @@ Nº O gerenciamento de Função do usuário (em espaços de trabalho) é conclu�
 
 **Sou um Administrador do Marketo e não tenho acesso ao Admin Console. Como obtenho acesso?**
 
-Qualquer administrador de sistema ou de produto que tenha acesso ao Admin Console de sua organização pode conceder acesso a você. Se não tiver certeza de quem em sua organização possui privilégios de administrador no console, entre em contato com o [Atendimento ao cliente do Adobe](https://helpx.adobe.com/contact.html).
+Qualquer administrador de sistema ou de produto que tenha acesso ao Admin Console de sua organização pode conceder acesso a você. Se você não tem certeza de quem em sua organização tem privilégios de administrador no console, entre em contato com [Atendimento ao cliente do Adobe](https://helpx.adobe.com/contact.html).
 
 **Como um Administrador adicionaria usuários ao Marketo Sales Connect?**
 
@@ -97,10 +97,11 @@ Nº O fluxo de trabalho de Convite de usuário não está mais ativo quando uma 
 
 **Para o Adobe IMS, temos a opção de usar o Adobe ID, o Enterprise ID ou o Federated ID?**
 
-Sim, você determina o tipo de identidade para ter o suporte da organização. Mais informações [aqui](https://helpx.adobe.com/enterprise/using/identity.html) e [aqui](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+Sim, você determina o tipo de identidade para ter o suporte da organização. Mais informações [here](https://helpx.adobe.com/enterprise/using/identity.html) e [here](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
 
 >[!MORELIKETHIS]
 >
 >* [Configuração do administrador](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
 >* [Adicionar ou remover um administrador de produto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
 >* [Adicionar ou remover um usuário](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
+
