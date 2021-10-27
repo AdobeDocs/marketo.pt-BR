@@ -3,9 +3,9 @@ description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Docum
 title: Visão geral do bate-papo dinâmico
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ O Dynamic Chat permite que você aproveite uma interface fácil de usar para dir
 
 ## Integrações {#integrations}
 
-Um componente essencial do Dynamic Chat é sua capacidade de fazer interface nativa com sua assinatura do Marketo. Para aproveitar todo o recurso dessa integração, primeiro será necessário iniciar a sincronização de dados. Dependendo do tamanho do banco de dados do Marketo, pode levar até 24 horas para que a sincronização inicial [única](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) seja concluída. O tempo médio de sincronização é inferior a duas horas.
+Um componente essencial do Dynamic Chat é sua capacidade de fazer interface nativa com sua assinatura do Marketo. Para aproveitar todo o recurso dessa integração, primeiro será necessário iniciar a sincronização de dados. Dependendo do tamanho do banco de dados do Marketo, pode levar até 24 horas para os dados iniciais, [sincronização única](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) para concluir.
 
 O seguinte é sincronizado:
 
@@ -34,7 +34,7 @@ As caixas de diálogo representam um único envolvimento de chat. Pense nele com
 
 ## Configuração {#configuration}
 
-Na guia Configuração , personalize a aparência das várias caixas de diálogo. Alterar fonte, cores, tempo de resposta e muito mais! [Saiba mais sobre a Configuração](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md).
+Na guia Configuração , personalize a aparência das várias caixas de diálogo. Alterar fonte, cores, tempo de resposta e muito mais! [Saiba mais sobre a configuração](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md).
 
 ## Calendário {#calendar}
 
@@ -58,7 +58,7 @@ Não, ele utiliza apenas respostas predeterminadas.
 
 **Como posso direcionar pessoas anônimas?**
 
-Na caixa de diálogo, seria necessário usar o atributo _Person Email is Empty_ .
+Na caixa de diálogo, é necessário usar o _O e-mail da pessoa está vazio_ atributo.
 
 **Você suporta a funcionalidade AI/NLP?**
 

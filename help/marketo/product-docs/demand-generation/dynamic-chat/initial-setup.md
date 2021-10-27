@@ -3,9 +3,9 @@ description: Configuração inicial - Documentação do Marketo - Documentação
 title: Configuração inicial
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -24,26 +24,12 @@ Siga as etapas abaixo para configurar o Bate-papo dinâmico.
 
    ![](assets/initial-setup-1.png)
 
-1. Se você acessou anteriormente um aplicativo com uma Adobe ID, você será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. Se você acessou anteriormente um aplicativo com uma Adobe ID, você será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configurar sua Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
    ![](assets/initial-setup-2.png)
 
 ## Adicionar usuários {#add-users}
 
-1. Depois de fazer logon no Admin Console, a próxima coisa a fazer é adicionar usuários. Esse processo [está documentado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
+1. Depois de fazer logon no Admin Console, a próxima coisa a fazer é adicionar usuários. Temos esse processo [documentado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
-## Adicionar permissões no Marketo {#add-permissions-in-marketo}
-
-Depois de adicionar usuários ao no Admin Console, você deve conceder permissões no Marketo para que eles tenham acesso ao atalho de Bate-papo dinâmico do Marketo.
-
-1. No Marketo, clique em **Admin**.
-
-1. Localize o usuário desejado e clique duas vezes nele.
-
-1. Adicione **Acesse o Chat Dinâmico** e clique em **Salvar**.
-
->[!IMPORTANT]
->
->Siga as etapas na ordem listada acima. Se alguém receber permissão primeiro no Marketo, ele verá o bloco Bate-papo dinâmico, mas não terá acesso de usuário.
-
-O próximo passo é conectar o Dynamic Chat ao Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).[
+Em seguida, é hora de [conectar o Dynamic Chat ao Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).
