@@ -2,9 +2,9 @@
 description: Glossário de atividades de vendas - Documentos da Marketo - Documentação do produto
 title: Glossário de atividades de vendas
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '520'
 ht-degree: 11%
 
 ---
@@ -263,7 +263,7 @@ As atividades abaixo serão registradas no Marketo pelo Sales Connect.
   </tr>
   <tr> 
    <td><strong>Assunto do Email de Vendas</strong></td> 
-   <td>Linha de assunto do email.</td> 
+   <td>Linha de assunto do email seguida de uma ID exclusiva (por exemplo: Minha Linha de Assunto (MSC-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>Número de Telefone de Vendas Chamado</strong></td> 
@@ -283,7 +283,7 @@ As atividades abaixo serão registradas no Marketo pelo Sales Connect.
   </tr> 
   <tr> 
    <td><strong>Fonte</strong></td> 
-   <td>Fonte da atividade. Será definido como "Tout" para atividades de Conexão de Vendas antes da versão de 22 de janeiro. Será "Aplicativo de vendas" para atividades de Conexão de vendas após a versão de 22 de janeiro.</td>
+   <td>Fonte da atividade. Será definido como "Tout" para atividades de Conexão de Vendas antes da Versão de 21 de outubro. Será "Aplicativo de Vendas" para atividades de Conexão de Vendas após a versão de 21 de outubro.</td>
   </tr> 
   <tr> 
    <td><strong>ID do modelo</strong></td> 
