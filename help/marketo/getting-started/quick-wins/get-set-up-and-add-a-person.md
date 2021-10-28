@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Configuração e adição de uma pessoa - Documentos do Marketo - Documentação do produto
 title: Configurar e adicionar uma pessoa
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '213'
 ht-degree: 2%
 
 ---
@@ -55,6 +55,10 @@ Adicione-se como uma pessoa no Marketo para enviar emails de teste para você me
 1. Digite seu nome e sobrenome, endereço de email e nome da empresa e clique em **Criar** para se adicionar como uma pessoa.
 
    ![](assets/eight.png)
+
+   >[!CAUTION]
+   >
+   >A Marketo faz **not** são compatíveis com endereços de email que contêm emojis.
 
 1. Para visualizar suas pessoas, abra as Listas inteligentes do sistema no menu esquerdo e clique em Todas as pessoas.
 

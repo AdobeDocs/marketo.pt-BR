@@ -3,10 +3,10 @@ unique-page-id: 2359418
 description: Importar uma lista de pessoas - Documentos do Marketo - Documentação do produto
 title: Importar uma lista de pessoas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 19%
+ht-degree: 15%
 
 ---
 
@@ -22,41 +22,41 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 ## Etapa 1: baixar e editar uma planilha {#step-download-and-edit-a-spreadsheet}
 
-1. Para iniciar, baixe nosso arquivo de planilha de práticas ([**tradeshow-ants.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) no seu computador.
+1. Para iniciar, baixe nosso arquivo de planilha de práticas ([**tradeshow-ants.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) ao seu computador.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Ao importar uma data, use este formato: **9/21/20** (Mês/Dia/Ano).
+   >Ao importar uma data, use este formato: **21/9/20** (Mês/Dia/Ano).
 
    >[!NOTE]
    >
    >Todos os campos de data/hora que estão sendo importados são tratados como Hora central. Se você tiver campos de data/hora em um fuso horário diferente, poderá usar uma fórmula do Excel para transformá-la em Hora Central (América/Chicago).
 
-1. Adicione seu nome, sobrenome, endereço de e-mail e cargo e, em seguida, salve o arquivo em seu computador.
+1. Adicione seu próprio nome, sobrenome, endereço de email real (para que você possa receber os emails de preparação que enviará na próxima missão) e o cargo. Salve o arquivo em seu computador.
 
    ![](assets/image2014-9-24-12-3a5-3a30.png)
 
->[!NOTE]
->
->Insira seu endereço de email real no arquivo CSV para que você possa receber os emails de preparação que enviará na próxima missão.
+   >[!CAUTION]
+   >
+   >A Marketo faz **not** são compatíveis com endereços de email que contêm emojis.
 
 ## Etapa 2: &#x200B;criar um programa {#step-create-a-program}
 
-1. Vá para a área **Marketing Activities**.
+1. Vá para o **Atividades de marketing** área.
 
    ![](assets/ma-2.png)
 
-1. Selecione a pasta **Aprendizagem** e, em **Novo** clique em **Novo Programa**.
+1. Selecione seu **Aprendizagem** , em seguida, em **Novo** click **Novo programa**.
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **** Nomeie o programa como &quot;Meu programa de shows de vendas&quot; e selecione &quot;Evento&quot; para o Tipo de  **programa**.
+1. **Nome** o programa &quot;Meu programa de feiras&quot; e selecione &quot;Evento&quot; para o **Tipo de programa**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
-1. Selecione **Transmissão** para o **Canal** e clique em **Criar**.
+1. Selecionar **Dosagem** para **Canal** e clique em **Criar**.
 
    ![](assets/image2014-9-24-12-3a21-3a39.png)
 
@@ -66,19 +66,19 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 ## Etapa 3: importar sua planilha para o Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. Em **Meu Programa de Apresentação de Marcas**, clique em **Novo** e selecione **Novo Ativo Local**.
+1. Em **Meu programa de shows de vendas**, clique em **Novo** e selecione **Novo ativo local**.
 
    ![](assets/seven-3.png)
 
-1. Clique em **List**.
+1. Clique em **Lista**.
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **** Nomeie a lista como &quot;Participantes de shows de vendas&quot; e clique em  **Criar**.
+1. **Nome** na lista &quot;Participantes de shows de vendas&quot; e clique em **Criar**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
-1. Em sua lista **Participantes de shows de vendas**, clique em **Listar ações** e selecione **Importar lista**.
+1. Em seu **Participantes de shows de vendas** listar, clique em **Ações de lista** e selecione **Importar Lista**.
 
    ![](assets/ten-2.png)
 
@@ -90,32 +90,32 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
    >
    >O limite de tamanho para arquivos CSV é de 100 MB.
 
-1. **** Navegue até o arquivo  **tradeshow-ants.** csvspreadsheet no seu computador e clique em  **Next**.
+1. **Procurar** para **tradeshow-ants.csv** arquivo de planilha no seu computador e clique em **Próximo**.
 
    ![](assets/eleven-2.png)
 
    >[!NOTE]
    >
-   >No Modo de importação de lista, escolher **Ignorar novas pessoas e atualizações** significa que você não afetará os registros de pessoas existentes ou registrará quaisquer atividades. Use esse modo se desejar uma lista estática rápida e pré-filtrada de pessoas existentes para uso em suas atividades de marketing. Selecionar este modo irá:
+   >No Modo de Importação de Lista, escolhendo **Ignorar novas pessoas e atualizações** significa que você não afetará os registros de pessoas existentes ou registrará quaisquer atividades. Use esse modo se desejar uma lista estática rápida e pré-filtrada de pessoas existentes para uso em suas atividades de marketing. Selecionar este modo irá:
    >
    > * Ignorar a criação de nova pessoa
    > * Ignorar atualizações de campos de pessoas
    > * Ignorar registro de atividade
 
 
-1. Mapeie os campos de Coluna de lista para o respectivo Campo Marketo e clique em **Próximo**.
+1. Mapeie os campos da Coluna de lista para os respectivos campos do Marketo e clique em **Próximo**.
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
    >[!TIP]
    >
-   >Os cabeçalhos de coluna devem sempre corresponder exatamente ao campo (diferencia maiúsculas de minúsculas) para obter os melhores resultados de mapeamento automático. Se você estiver usando campos personalizados e não os vir no menu suspenso, volte e [crie-os](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para que possam se tornar opções.
+   >Os cabeçalhos de coluna devem sempre corresponder exatamente ao campo (diferencia maiúsculas de minúsculas) para obter os melhores resultados de mapeamento automático. Se você estiver usando campos personalizados e não os vir no menu suspenso, volte e [criá-los](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para que possam tornar-se opções.
 
    >[!NOTE]
    >
-   >Se houver campos que não deseja importar, selecione **Ignorar** no menu suspenso Campo do Marketo.
+   >Se houver campos que você não queira importar, selecione **Ignorar** no menu suspenso Campo do Marketo .
 
-1. Selecione **My Tradeshow Program** para o **Acquisition Program** e clique em **Import**.
+1. Selecionar **Meu programa de shows de vendas** para **Programa de aquisição**, depois clique em **Importar**.
 
    ![](assets/image2014-9-24-12-3a25-3a1.png)
 
@@ -123,7 +123,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
    ![](assets/image2014-9-24-12-3a25-3a13.png)
 
-1. De volta a **My Tradeshow Program**, clique na guia **Members**. Você verá todas as pessoas que acabou de importar.
+1. Voltar a **Meu programa de shows de vendas**, clique no botão **Membros** guia . Você verá todas as pessoas que acabou de importar.
 
    ![](assets/fifteen-1.png)
 
