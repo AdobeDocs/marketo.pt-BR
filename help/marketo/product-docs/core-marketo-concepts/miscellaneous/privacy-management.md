@@ -1,9 +1,9 @@
 ---
 description: Gerenciamento de privacidade - Documentação da Marketo - Documentação do produto
 title: Gerenciamento de privacidade
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Para ajudar você a se preparar para as medidas de privacidade, o Marketo Engage
 * O **Direito de acesso** é o direito do Titular de dados de obter a confirmação do Controlador de dados, caso os dados relativos a ele estejam sendo processados, onde e com que finalidade. O Controlador de dados deve fornecer uma cópia gratuita dos dados pessoais em formato eletrônico.
 * Também conhecido como Eliminação de dados, o **Direito ao esquecimento** (solicitação de exclusão) autoriza o Titular de dados a fazer com que o Controlador de dados apague seus dados pessoais, interrompa a divulgação dos dados e possivelmente o processamento dos dados por parte de terceiros.
 
-Para saber como criar solicitações de Acesso e Exclusão e como as processamos, consulte o [etapas de implementação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+Para saber como criar solicitações de acesso/exclusão e como processá-las, consulte [este artigo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
