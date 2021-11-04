@@ -1,9 +1,9 @@
 ---
 description: Solicitações de privacidade - Documentos do Marketo - Documentação do produto
 title: Solicitações de privacidade
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: 9d7fd72f4db90ad41cf24011960b2a5a3af7e456
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -12,14 +12,16 @@ ht-degree: 0%
 
 Este documento fornece uma visão geral do gerenciamento de solicitações individuais de privacidade de dados que você pode enviar para o Marketo Engage por meio da interface do usuário do Privacy Service e do **API Privacy Service**.
 
+>[!NOTE]
+>
+>As solicitações de privacidade enviadas por meio da interface do usuário do Privacy Service ou da API do Marketo Engage aplicam-se somente àquelas que têm as edições Marketo Engage + RT-CDP, B2B e B2P.
+
 Você pode enviar solicitações individuais para acessar e excluir dados do consumidor do Marketo Engage de duas formas:
 
 * Por meio da [Interface do usuário do Privacy Service](https://privacyui.cloud.adobe.io/). Veja a documentação [here](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
 * Por meio da **API Privacy Service**. Veja a documentação [here](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_api_tutorial.md) e a referência da API [here](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
 
 O [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) O suporta dois tipos de solicitações: acesso aos dados e exclusão dos dados.
-
-Observação: As solicitações de privacidade enviadas por meio da interface do usuário do Privacy Service ou da API do Marketo Engage aplicam-se somente aos clientes que têm as edições Marketo Engage + RT-CDP, B2B e B2P.
 
 Vamos ver como criar solicitações de acesso e exclusão.
 
@@ -45,7 +47,6 @@ b. Endereço de email da pessoa em quem você deseja agir
 
 “usuários”:
 
-* &quot;key&quot;: `<Your Request Tracking Key>`   (opcional)
 * &quot;Ação&quot;: ou **access** ou **excluir**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **email**
@@ -58,7 +59,7 @@ b. Endereço de email da pessoa em quem você deseja agir
 
 &quot;regulamento&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd** ou **nzpa**  (que é o regulamento sobre privacidade que se aplica à solicitação)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** ou **nzpa_nzl**  (que é o regulamento sobre privacidade que se aplica à solicitação)
 
 ## Exemplo Um: Solicitação de exclusão do RGPD {#gdpr-delete-request}
 
@@ -74,7 +75,6 @@ Solicitação JSON
   ],
   "users": [
     {
-      "key": "AAGDPRO1", 
       "action": [
         "delete"
       ],
@@ -105,7 +105,6 @@ Resposta JSON
       "jobId": "997b01e3-9568-402c-904b-b4e60a437875",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "delete"
           ],
@@ -139,7 +138,6 @@ Solicitação JSON
   ],
   "users": [
     {
-      "key": "AAGDPRO1",
       "action": [
         "access"
       ],
@@ -170,7 +168,6 @@ Resposta JSON
       "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "access"
           ],
