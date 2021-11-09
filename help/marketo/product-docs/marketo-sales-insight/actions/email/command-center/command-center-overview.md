@@ -3,7 +3,7 @@ description: Visão geral do Command Center - Documentação do Marketo - Docume
 title: Visão geral do Centro de comandos
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 3%
@@ -85,6 +85,7 @@ Bônus: Se você salvar sua pesquisa avançada, ela funcionará como uma lista d
 
 >[!MORELIKETHIS]
 >
->* [Tarefas]()
->* [Visão geral da pesquisa avançada]()
->* [Composição de emails em massa com Selecionar e enviar]()
+>* Tarefas
+>* Visão geral da pesquisa avançada
+>* Composição de emails em massa com Selecionar e enviar
+
