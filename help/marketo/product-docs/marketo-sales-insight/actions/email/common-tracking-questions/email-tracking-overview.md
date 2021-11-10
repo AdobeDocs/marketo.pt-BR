@@ -3,10 +3,10 @@ description: Visão geral do rastreamento de email - Documentos do Marketo - Doc
 title: Visão geral do rastreamento de email
 hide: true
 hidefromtoc: true
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: d8f7d7ddf804847e20bf978bf2fc74694b719009
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 0%
+source-wordcount: '194'
+ht-degree: 1%
 
 ---
 
@@ -24,9 +24,14 @@ Se o Sales Connect não conseguir rastrear a resposta do seu prospecto ao seu em
 
 Isso significa que, se você enviar um email para flynn@flynnsarcade.com e ele responder com kevinf@flynnsarcade.com, poderemos rastrear a resposta. Além disso, se você enviar um email para flynn@flynnsarcade.com e CC alan@encom.com, e Alan escrever de volta, ele também detectará a resposta e encerrará a campanha.
 
-## Como o rastreamento de resposta funciona {#how-reply-tracking-works}
+## Como rastrear seus anexos de email {#how-to-track-your-email-attachments}
 
 texto
 
-## Como rastrear seus anexos de email {#how-to-track-your-email-attachments}
+## Como o rastreamento de visualização funciona {#how-view-tracking-works}
 
+texto
+
+## Teste de email não exibido como visualizado {#test-email-not-showed-as-viewed}
+
+texto
