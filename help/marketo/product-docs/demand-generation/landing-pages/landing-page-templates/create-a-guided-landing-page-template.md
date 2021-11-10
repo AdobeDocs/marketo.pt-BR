@@ -1,23 +1,18 @@
 ---
 unique-page-id: 7515401
-description: Criar um modelo de Landing page guiada - Documentos do Marketing - Documentação do produto
-title: Criar um modelo de Landing page guiada
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Criar um modelo de página de aterrissagem guiada - Documentos do Marketo - Documentação do produto
+title: Criar um modelo de página de aterrissagem guiada
+exl-id: 7d097162-d862-4d09-9440-aba1628450c2
+source-git-commit: c309b69198c6f61d7475c6d3a6b1672e045b9b4a
 workflow-type: tm+mt
-source-wordcount: '1269'
-ht-degree: 0%
+source-wordcount: '1254'
+ht-degree: 2%
 
 ---
 
+# Criar um modelo de página de aterrissagem guiada {#create-a-guided-landing-page-template}
 
-# Criar um modelo de Landing page guiada {#create-a-guided-landing-page-template}
-
->[!NOTE]
->
->Cansado de ler? [Assista a este ](https://youtu.be/3O7e4GdZKsM) vídeo interessante com instruções passo a passo.
-
-Os modelos de landing page guiada têm uma sintaxe especial. Use essa sintaxe para especificar o que é personalizável e onde o conteúdo terminará em cada landing page criada a partir do modelo. Somente as regiões ou variáveis especificadas como editáveis estarão disponíveis para personalização no editor de landings page &quot;Guiado&quot;.
+Os modelos de página de aterrissagem guiada têm uma sintaxe especial. Use essa sintaxe para especificar o que é personalizável e onde o conteúdo acabará em cada página de aterrissagem criada a partir do modelo. Somente as regiões ou variáveis especificadas como editáveis estarão disponíveis para personalização no editor de páginas de aterrissagem &quot;Guiado&quot;.
 
 >[!TIP]
 >
@@ -25,57 +20,57 @@ Os modelos de landing page guiada têm uma sintaxe especial. Use essa sintaxe pa
 
 Há duas maneiras de declarar que algo em sua página deve ser editável:
 
-* Declarar um objeto como &quot;elemento&quot;. O criador da landing page poderá adicionar imagens, texto ou ativos de marketing nessas regiões especificadas.
-* Declarar uma string como uma &quot;variável&quot;. O criador da landing page poderá substituir essa variável por uma string, cor ou estado booleano de uma alavanca true/false.
+* Declarar um objeto como &quot;elemento&quot;. O criador da landing page poderá adicionar imagens, texto ou ativos do Marketo nessas regiões especificadas.
+* Declare uma cadeia de caracteres como &quot;variável&quot;. O criador da landing page poderá substituir essa variável por uma string, cor ou estado booleano de uma alavanca true/false.
 
 ## Elementos editáveis {#editable-elements}
 
-Os elementos são declarados adicionando um elemento DOM normal ao modelo e, em seguida, decorando o elemento com um nome de classe específico de Marketing.
+Os elementos são declarados adicionando um elemento DOM normal ao modelo e, em seguida, decorando o elemento com um nome de classe específico do Marketo.
 
 ## Texto {#text}
 
 Se você definir uma região como Rich Text, os usuários poderão editar seu conteúdo [usando o Editor de Rich Text do Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
-Atributos necessários:\
+Atributos obrigatórios:\
 **classe**: &quot;mktoText&quot;\
-**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
-**mktoName** : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+**id**: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
+**mktoName** : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Opcional:\
-O conteúdo de um elemento com classe mktoText (se fornecido) será usado como valor padrão para a região editável.
+O conteúdo de um elemento com a classe mktoText (se fornecido) será usado como o valor padrão para a região editável.
 
 Exemplo:
 
 `<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
-### Imagem {#image}
+## Imagem {#image}
 
-Você tem duas opções para definir elementos de imagem editáveis. Você pode usar `<div>`, que especifica um container no qual a imagem será inserida, ou uma tag `<img>`.
+Você tem duas opções para definir Elementos de imagem editáveis. Você pode usar um dos `<div>`, que especifica um contêiner no qual a imagem será inserida, ou um `<img>` .
 
-## Opção 1 - Use um `<div>` {#option-use-a-div}
+## Opção 1 - Usar um `<div>` {#option-use-a-div}
 
-Atributos necessários:
+Atributos obrigatórios:
 
 classe: &quot;mktoImg&quot;\
-id: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
-mktoName : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+id: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
+mktoName : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Opcional:\
-mktoImgClass: String. O valor aqui será adicionado ao atributo class do elemento `<img>` dentro do div.
+mktoImgClass: Sequência de caracteres. O valor aqui será adicionado ao atributo de classe do `<img>` dentro do div.
 
 Exemplo:
 
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
 
-## Opção 2 - Use um `<img>` {#option-use-a-img}
+## Opção 2 - Usar um `<img>` {#option-use-a-img}
 
-Atributos necessários:\
+Atributos obrigatórios:\
 classe: &quot;mktoImg&quot;\
-id: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
-mktoName : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+id: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
+mktoName : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Opcional:\
-src: URL da cadeia de caracteres. Isso será usado como valor padrão para a imagem.
+src: URL da string. Isso será usado como o valor padrão da imagem.
 
 Exemplo:
 
@@ -83,34 +78,34 @@ Exemplo:
 
 >[!NOTE]
 >
->Ao usar a versão `<img>`, o HTML renderizado conterá um invólucro div gerado ao redor da tag `<img>`. Ele será definido como classe.&quot;mktoImg.mktoGen&quot; e será display:inline-block.
+>Ao usar a variável `<img>` versão, o HTML renderizado conterá um wrapper div gerado em torno da variável `<img>` . Ele será definido como class .&quot;mktoImg.mktoGen,&quot; e será display:inline-block.
 
 ## Formulário {#form}
 
 Exemplo:Atributos obrigatórios:\
 **classe**: &quot;mktoForm&quot;\
-**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
-**mktoName** : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+**id**: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
+**mktoName** : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 `<pre data-theme="Confluence"><div class="mktoForm" id="exampleForm" mktoName="Example Form"></div></pre>`
 
-## Trecho {#snippet}
+## Bloco de conteúdo {#snippet}
 
-Atributos necessários:\
+Atributos obrigatórios:\
 **classe**: &quot;mktoSnippet&quot;\
-**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
-**mktoName** : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+**id**: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
+**mktoName** : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Exemplo:
 
 `<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
 
-## Botão Compartilhar {#share-button}
+## Compartilhar botão {#share-button}
 
-Atributos necessários:\
+Atributos obrigatórios:\
 **classe**: &quot;mktoShareButton&quot;\
-**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
-**mktoName** : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+**id**: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
+**mktoName** : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Exemplo:
 
@@ -120,12 +115,12 @@ Exemplo:
 
 >[!NOTE]
 >
->Ao usar o elemento de vídeo em uma landing page, o Marketo só oferece suporte a vídeos do YouTube. Se você usar outro serviço, recomendamos utilizar uma caixa Rich Text e colar no código incorporado do vídeo.
+>Ao usar o elemento de vídeo em uma página de aterrissagem, o Marketo só oferece suporte a vídeos do YouTube. Se você usar outro serviço, recomendamos utilizar uma caixa Rich Text e colar no código incorporado do vídeo.
 
-Atributos necessários:
-**class**: &quot;mktoVideo&quot;
-**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.
-**mktoName** : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+Atributos obrigatórios:
+**classe**: &quot;mktoVideo&quot;
+**id**: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.
+**mktoName** : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Exemplo:
 
@@ -133,21 +128,21 @@ Exemplo:
 
 ## Pesquisa {#poll}
 
-Atributos necessários:\
+Atributos obrigatórios:\
 **classe**: &quot;mktoPoll&quot;\
-**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
-**mktoName** : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+**id**: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
+**mktoName** : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Exemplo:
 
 `<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
 
-## Referência {#referral}
+## Indicação {#referral}
 
-Atributos necessários:\
+Atributos obrigatórios:\
 **classe**: &quot;mktoReferral&quot;\
-**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
-**mktoName** : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+**id**: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
+**mktoName** : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Exemplo:
 
@@ -155,10 +150,10 @@ Exemplo:
 
 ## Sorteios {#sweepstakes}
 
-Atributos necessários:\
+Atributos obrigatórios:\
 **classe**: &quot;mktoSweepstakes&quot;\
-**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
-**mktoName** : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+**id**: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
+**mktoName** : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Exemplo:
 
@@ -166,7 +161,7 @@ Exemplo:
 
 ## Variáveis editáveis {#editable-variables}
 
-Todos os tipos de variáveis são usados referenciando o valor de seu atributo id encapsulado dentro de uma sequência de caracteres ${ }. Eles podem ser usados em qualquer lugar no documento, exceto para dentro de outras declarações variáveis.
+Todos os tipos de variáveis são usados referenciando o valor de seu atributo de id encapsulado dentro de uma sequência de caracteres ${ } . Eles podem ser usados em qualquer lugar no documento, exceto para dentro de outras declarações de variável.
 
 Exemplo:
 
@@ -174,18 +169,18 @@ Exemplo:
 
 **Declaração:**
 
-As variáveis são declaradas como meta tags dentro do elemento `<head>` do modelo. Há três tipos de variáveis disponíveis para uso: String, Color e Boolean.
+As variáveis são declaradas como meta tags dentro da variável `<head>` elemento do template. Há três tipos de variáveis disponíveis para uso: Sequência de caracteres, cor e booleano.
 
-## String {#string}
+## Sequência de caracteres {#string}
 
-Atributos necessários:\
+Atributos obrigatórios:\
 **classe** : &quot;mktoString&quot;,\
-**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
-**mktoName** : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+**id**: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
+**mktoName** : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Opcional:\
-**padrão**: Valor da string para o atributo. Em branco se não houver nenhum.\
-**allowHtml**: &quot;true&quot; ou &quot;false&quot;. Controla se o valor será impresso sem que o HTML seja escapado. O padrão é &quot;false&quot; se não estiver definido.
+**default**: Valor da string para o atributo. Em branco se nenhum tiver fornecido.\
+**allowHtml**: &quot;true&quot; ou &quot;false&quot;. Controla se o valor será impresso sem escape de HTML. O padrão é &quot;false&quot; se não estiver definido.
 
 Exemplo básico:
 
@@ -197,13 +192,13 @@ Exemplo com todos os atributos:
 
 ## Cor {#color}
 
-Atributos necessários:\
+Atributos obrigatórios:\
 **classe** : &quot;mktoColor&quot;,\
-**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
-**mktoName** : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+**id**: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
+**mktoName** : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Opcional:\
-**padrão**: Um código de cores de caracteres HEX de 7 dígitos. Por exemplo: &quot;#336699&quot;
+**default**: Um código de cor de caractere HEX de 7 dígitos. Por exemplo: &quot;#336699&quot;
 
 Exemplo básico:
 
@@ -215,17 +210,17 @@ Exemplo com todos os atributos:
 
 ## Booleano {#boolean}
 
-Atributos necessários:\
+Atributos obrigatórios:\
 **classe** : &quot;mktoBoolean&quot;,\
-**id**: Sequência de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
-**mktoName** : String. Esse é o nome de exibição que será mostrado no editor de landings page. A prática recomendada é usar um nome descritivo.
+**id**: Sequência de caracteres da ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser único.\
+**mktoName** : Sequência de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Opcional:\
-**padrão**: Sequência booleana. &quot;true&quot; ou &quot;false&quot; controla se o valor start na posição ON ou OFF. &quot;false&quot; se não fornecido.\
-**false_value**: String. O valor a ser inserido para a variável quando ela estiver na posição OFF. &quot;false&quot; se não fornecido.\
-**true_value**: String. O valor a ser inserido para a variável quando ela estiver na posição ON. &quot;true&quot; se não fornecido.\
-**false_value_name**: String. O nome de exibição a ser exibido no editor de landings page quando o valor estiver na posição OFF. &quot;OFF&quot; se não fornecido.\
-**true_value_name**: String. O nome de exibição a ser exibido no editor de landings page quando o valor estiver na posição ON. &quot;ON&quot; se não fornecido.
+**default**: Sequência booleana. &quot;true&quot; ou &quot;false&quot; controla se o valor começa na posição ON ou OFF. &quot;false&quot; se não fornecido.\
+**false_value**: Sequência de caracteres. O valor a ser inserido para a variável quando ela estiver na posição OFF. &quot;false&quot; se não fornecido.\
+**true_value**: Sequência de caracteres. O valor a ser inserido para a variável quando ela estiver na posição ATIVADA. &quot;true&quot; se não for fornecido.\
+**false_value_name**: Sequência de caracteres. O nome de exibição a ser exibido no editor de landing page quando o valor estiver na posição OFF. &quot;OFF&quot; se não fornecido.\
+**true_value_name**: Sequência de caracteres. O nome de exibição a ser exibido no editor de landing page quando o valor estiver na posição ON. &quot;ON&quot; se não for fornecido.
 
 Exemplo básico:
 
@@ -235,10 +230,10 @@ Exemplo básico:
 
 Exemplo com todos os atributos:
 
-Este exemplo mostra um caso de uso comum em que uma variável booleana controla a visibilidade de um elemento css definindo o valor da propriedade de exibição css como &quot;block&quot; ou &quot;none&quot; para mostrar/ocultar um elemento por id com CSS. O editor de landings page usará o nome de exibição Mostrar/Ocultar em vez de OFF/ON.
+Este exemplo mostra um caso de uso comum em que uma variável booleana controla a visibilidade de um elemento css ao definir o valor da propriedade de exibição css como &quot;block&quot; ou &quot;none&quot; para mostrar/ocultar um elemento pela id com CSS. O editor de landing page usará o nome de exibição Mostrar/Ocultar em vez de OFF/ON.
 
 `<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style></pre>`
 
 >[!NOTE]
 >
->Os tokens de programa (my.token) também podem ser usados em qualquer lugar nas landings page Guiadas ou de forma livre.
+>Os tokens de programa (my.token) também podem ser usados em qualquer lugar das páginas de aterrissagem guiadas ou de forma livre.
