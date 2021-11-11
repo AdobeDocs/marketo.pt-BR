@@ -1,11 +1,10 @@
 ---
 description: Encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo - Documentos do Marketo - Documentação do produto
 title: Encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo
-hidefromtoc: true
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -42,7 +41,6 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 
 1. Clique em **Configurar novo destino**.
 
-   PICC
 
 1. Em Tipo de conta, clique no botão **Nova conta** botão de opção. Insira suas credenciais do Marketo e clique em **Conectar ao destino**.
 
