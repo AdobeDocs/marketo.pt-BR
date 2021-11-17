@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
 workflow-type: tm+mt
-source-wordcount: '8041'
+source-wordcount: '8047'
 ht-degree: 5%
 
 ---
@@ -1273,7 +1273,7 @@ ht-degree: 5%
          + Administrador {#admin}
             + [Domínios bloqueados](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Bloqueio de conteúdo](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
-            + [Criar um grupo](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [Criando uma equipe](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [Como configurar o rastreamento de domínio personalizado](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Convidar usuários e administradores](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Configurações de compartilhamento](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
@@ -1286,6 +1286,8 @@ ht-degree: 5%
                + [Ações rápidas no Centro de comando](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
          + Configurações de e-mail {#email-settings}
             + [Verificar seu e-mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Marketo {#marketo}
+            + [Conceder acesso ao Marketo aos usuários](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Enviar um email de vendas {#send-a-sales-email}
             + [Visão geral do rastreamento de email](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + Uso de MSI {#using-msi}
