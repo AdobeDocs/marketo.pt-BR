@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
-source-wordcount: '8057'
+source-wordcount: '8068'
 ht-degree: 5%
 
 ---
@@ -1288,12 +1288,16 @@ ht-degree: 5%
             + Cancelamentos de inscrição {#unsubscribes}
                + [Visão geral do cancelamento de inscrição](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Personalizar mensagem de link de cancelamento de assinatura](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
+               + [Verificação de cancelamentos de inscrições no Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+               + [Sincronização de cancelamentos de assinatura com o Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + Configurações de e-mail {#email-settings}
             + [Verificar seu e-mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
             + [Conceder acesso ao Marketo aos usuários](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Enviar um email de vendas {#send-a-sales-email}
             + [Visão geral do rastreamento de email](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
+         + Modelos {#templates}
+            + [Gerenciar Categorias de Modelos](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
       + Uso de MSI {#using-msi}
          + [Registrar emails de entrada dos seus clientes potenciais no Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + Plug-in do Chrome MSI {#msi-chrome-plugin}

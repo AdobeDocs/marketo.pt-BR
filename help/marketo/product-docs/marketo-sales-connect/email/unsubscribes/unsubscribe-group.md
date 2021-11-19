@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14746167
-description: Cancelar inscrição do grupo - Documentos do marketing - Documentação do produto
+description: Cancelar assinatura do grupo - Documentos do Marketo - Documentação do produto
 title: Cancelar assinatura do grupo
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
+# Cancelar assinatura do grupo {#unsubscribe-group}
 
-# Cancelar inscrição do grupo {#unsubscribe-group}
+Veja e gerencie todas as pessoas sem assinatura em um único lugar.
 
-Veja e gerencie todas as pessoas que não se inscreveram em um único lugar.
+![](assets/-1.png)
 
-![](assets/1.png)
+Use a barra de pesquisa para procurar qualquer pessoa que não tenha assinado.
 
-Use a barra de pesquisa para pesquisar qualquer pessoa não inscrita.
+![](assets/-2.png)
 
-![](assets/2.png)
+Se você for um administrador, poderá acessar o grupo de cancelamento de inscrição para filtrar por Cancelamento de Conta e ver todos os cancelamentos de assinatura que foram coletados no banco de dados do pessoal.
 
-Se você for um administrador, poderá acessar o grupo de cancelamento de inscrição para filtrar por Cancelamento de assinatura de conta e ver todas as cancelações de assinaturas que foram coletadas no banco de dados de pessoas.
-
-![](assets/3.png)
+![](assets/-3.png)
