@@ -3,10 +3,10 @@ description: Gerenciar modelos - Documentação do Marketo - Documentação do p
 title: 'Gerenciar modelos '
 hide: true
 hidefromtoc: true
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 0%
+source-wordcount: '523'
+ht-degree: 1%
 
 ---
 
@@ -33,6 +33,31 @@ ht-degree: 0%
 >[!TIP]
 >
 >Sempre digite texto diretamente no modelo ou copie de um editor de texto simples (por exemplo, Bloco de notas ou Edição de texto). Copiar e colar de um editor de rich text (por exemplo, MS Word) pode causar irregularidades na formatação.
+
+## Exibir detalhes do modelo {#view-template-details}
+
+A área Detalhes do modelo contém várias guias.
+
+![](assets/manage-templates-4a.png)
+
+<table>
+ <tr>
+  <td><strong>Modelo</strong></td>
+  <td>Revise e faça edições, configure critérios para tornar o modelo um modelo recomendado, adicione observações</td>
+ </tr>
+ <tr>
+  <td><strong>Análises</strong></td>
+  <td>Analise as análises de envolvimento do modelo. Realize uma pesquisa filtrada.</td>
+ </tr>
+ <tr>
+  <td><strong>E-mails</strong></td>
+  <td>Exibir todos os emails que foram enviados usando esse template. Realize uma pesquisa filtrada.</td>
+ </tr>
+ <tr>
+  <td><strong>Campanhas</strong></td>
+  <td>Veja em quais Campanhas o modelo está sendo usado.</td>
+ </tr>
+</table>
 
 ## Compartilhar um modelo {#share-a-template}
 
@@ -92,9 +117,17 @@ No **Exibir** , você pode optar por ver: todos os modelos, seus modelos, modelo
 
 Arquive modelos para manter o conteúdo de vendas organizado e focalizado, sem perder os dados do modelo.
 
-Marque a caixa ao lado de um modelo e clique em **Arquivar**.
+1. Marque a caixa ao lado do template que deseja arquivar.
 
-PICC
+   ![](assets/manage-templates-14.png)
+
+1. Clique em **Arquivar**.
+
+   ![](assets/manage-templates-15.png)
+
+1. Clique em **Arquivar** para confirmar.
+
+   ![](assets/manage-templates-16.png)
 
 >[!NOTE]
 >
@@ -110,14 +143,14 @@ Siga as etapas abaixo para excluir um modelo.
 >
 >A exclusão de um modelo também excluirá TODO o rastreamento e as análises associadas a ele.
 
-1. Selecione o modelo que deseja remover.
+1. Marque a caixa ao lado do template que deseja excluir.
 
-PICC
+   ![](assets/manage-templates-17.png)
 
-1. Clique no menu suspenso na parte superior direita e em **Excluir**.
+1. Clique em **Excluir**.
 
-PICC
+   ![](assets/manage-templates-18.png)
 
 1. Clique em **Excluir** para confirmar.
 
-PICC
+   ![](assets/manage-templates-19.png)
