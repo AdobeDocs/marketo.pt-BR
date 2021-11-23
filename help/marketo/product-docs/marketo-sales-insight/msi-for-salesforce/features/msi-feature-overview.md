@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Visão geral de recursos do MSI - Documentos do Marketo - Documentação do produto
 title: Visão geral de recursos do MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '937'
 ht-degree: 13%
 
 ---
@@ -21,7 +21,7 @@ O Painel MSI Visualforce inclui as seguintes funcionalidades:
 * Guias
 
    * [Painel de insights](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * Momento interessante
+   * Momentos interessantes
    * Atividade na Web
    * E-mail
    * Pontuação
@@ -195,4 +195,7 @@ O Marketo Sales Insight é armazenado por idioma. Portanto, se você quiser que 
 
 >[!NOTE]
 >
->Um contato/lead precisa estar na partição Padrão para ser adicionado à Lista de favoritos.
+>* Um contato/lead precisa estar na partição Padrão para ser adicionado à Lista de favoritos.
+>
+>* O pacote MSI Salesforce não oferece suporte à exibição personalizada com campos dependentes.
+

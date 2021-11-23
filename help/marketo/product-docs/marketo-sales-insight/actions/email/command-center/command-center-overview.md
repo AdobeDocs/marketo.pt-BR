@@ -3,9 +3,9 @@ description: Visão geral do Command Center - Documentação do Marketo - Docume
 title: Visão geral do Centro de comandos
 hide: true
 hidefromtoc: true
-source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '488'
 ht-degree: 3%
 
 ---
@@ -18,7 +18,7 @@ O Centro de comando é uma visão única e unificada que ajuda você a descobrir
 
 A seção de email do Centro de comando é onde você pode gerenciar todas as suas atividades de email. Considere isso como sua caixa de saída de email para revisar emails que foram enviados do Sales Connect. Gerencie seus emails agendados, veja quem tem se envolvido com seus emails, verifique se houve problemas com seus emails sendo entregues e muito mais.
 
-PICC
+![](assets/command-center-overview-1.png)
 
 A seção de email oferece uma visualização de pássaros em todos os emails e simplifica a organização com guias e subguias primárias que atuam como pastas onde seus emails são armazenados automaticamente com base em seu status.
 
@@ -39,7 +39,7 @@ A seção de email oferece uma visualização de pássaros em todos os emails e 
  </tr>
  <tr>
   <th rowspan="3">Pendente</th>
-  <td>Scheduled</td>
+  <td>Programado</td>
   <td>Emails que estão agendados para sair. Depois que um email for enviado, ele será movido para a pasta de entrega.</td>
  </tr>
  <tr>
@@ -73,7 +73,7 @@ A seção de email oferece uma visualização de pássaros em todos os emails e 
 
 A seção de tarefas é o seu balcão único para gerenciar e concluir tarefas. Aqui você pode gerenciar suas tarefas com facilidade para aumentar sua produtividade e manter o foco nos itens mais relevantes.
 
-PICC
+![](assets/command-center-overview-2.png)
 
 ## Acompanhamento com perspectivas envolvidas {#follow-up-with-engaged-prospects}
 
