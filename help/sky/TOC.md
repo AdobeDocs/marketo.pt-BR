@@ -2,8 +2,7 @@
 solution: Marketo, Marketo Engage, Marketo Sky
 user-guide-title: '[!DNL Sky] Documentação do produto'
 feature-set: Marketo Sky
-index: y
-source-git-commit: 09a443005369aafda4181bd6875b3c61067e504b
+source-git-commit: 80b7b10c6ecce02b5b3a532702076c19e7d2a61d
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 4%
@@ -20,7 +19,7 @@ ht-degree: 4%
 + Programas de eventos {#event-programs}
    + [Configuração de um limite de evento](setting-an-event-cap.md)
    + [Definir metas de evento](setting-event-goals.md)
-+ Pastas de campanha {#campaign-folders}
++ Pastas da campanha {#campaign-folders}
    + [Arquivar/desarquivar uma pasta de campanha](archive-unarchive-a-campaign-folder.md)
    + [Pastas da campanha: Guia Atividades](campaign-folder-activities-tab.md)
    + [Pastas da campanha: Guia Meus tokens](campaign-folder-my-tokens-tab.md)
@@ -50,7 +49,7 @@ ht-degree: 4%
    + [Noções básicas sobre programas de envolvimento](understanding-engagement-programs.md)
    + [Como entender a pontuação de engajamento](understanding-the-engagement-score.md)
    + [Uso de um programa em um fluxo de programa de envolvimento](using-a-program-in-an-engagement-program-stream.md)
-+ RÓTULOS {#labels}
++ Rótulos {#labels}
    + [Adicionar e remover rótulos](add-and-remove-labels.md)
    + [Copiar rótulos do original para o clone](copy-labels-from-original-to-clone.md)
    + [Copiar rótulos de pai para filho](copy-labels-from-parent-to-child.md)
@@ -112,7 +111,7 @@ ht-degree: 4%
    + [Agendar uma Campanha inteligente em lote para ser executada mais tarde](schedule-a-batch-smart-campaign-to-run-later.md)
    + [Programar uma campanha em lote recorrente](schedule-a-recurring-batch-campaign.md)
    + [Como entender campanhas inteligentes em lote e acionar](understanding-batch-and-trigger-smart-campaigns.md)
-+ Listas inteligentes e Listas estáticas {#smart-lists-and-static-lists}
++ Listas inteligentes e listas estáticas {#smart-lists-and-static-lists}
    + [Salvar ações do fluxo](save-flow-actions.md)
    + [Salvar regras da lista inteligente](save-smart-list-rules.md)
 + Árvore {#tree}
