@@ -1,0 +1,98 @@
+---
+description: Configuração de um canal de entrega personalizado - Documentos do Marketo - Documentação do produto
+title: Configuração de um canal de delivery personalizado
+hide: true
+hidefromtoc: true
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
+workflow-type: tm+mt
+source-wordcount: '409'
+ht-degree: 0%
+
+---
+
+# Configuração de um canal de delivery personalizado {#setting-up-a-custom-delivery-channel}
+
+O Marketo Sales Connect permite que você se integre a um servidor SMTP personalizado para a entrega de seus emails. Essa é uma ótima opção para aqueles que não desejam enviar emails em massa a partir do canal de delivery do Gmail ou Exchange.
+
+Os usuários podem configurar um servidor SMTP personalizado para uso individual, ou os administradores podem configurar um SMTP de equipe para ser compartilhado em todos os usuários do Sales Connect em sua instância.
+
+>[!NOTE]
+>
+>* Além de configurar o servidor SMTP, [a identidade do email deve ser verificada](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) antes de enviar emails.
+>* Recomendamos trabalhar com sua equipe de TI ou fornecedor de servidor SMTP para obter as credenciais de servidor certas para seu servidor SMTP.
+>* Não é possível conectar seu servidor Gmail e Exchange usando as credenciais do servidor SMTP. Use nosso serviço de Conexão de email para integrar a esses provedores.
+
+
+## SMTP personalizado {#custom-smtp}
+
+1. Faça logon no [aplicação web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+
+PICC
+
+1. Em Minha conta, clique em **Configurações de email**.
+
+PICC
+
+1. Clique em **Canal de entrega personalizado**.
+
+PICC
+
+1. Insira suas credenciais do Servidor SMTP e clique em **Connect**.
+
+PICC
+
+>[!NOTE]
+>
+>Se este for seu único canal de delivery, ele será automaticamente atribuído a todas as suas identidades de email, e você estará pronto aqui. Se este não for o seu único canal de delivery, continue para a Etapa 5.
+
+1. Ainda em Configurações de email, clique em **Endereço e assinatura**.
+
+PICC
+
+1. Encontre a identidade de email para a qual você deseja escolher um canal de delivery e clique em **Escolher Canal de Entrega**.
+
+PICC
+
+1. No Cartão de entrega, clique em **Editar**.
+
+PICC
+
+1. Clique no menu suspenso Channel e escolha o canal de delivery personalizado que acabou de adicionar. Clique em **Salvar**.
+
+PICC
+
+>[!NOTE]
+>
+>Se o administrador da equipe configurar o Team SMTP Server, ele será aplicado automaticamente somente à sua identidade de email padrão e estará disponível como uma opção para suas outras identidades de email.
+
+## Servidor de SMTP da equipe {#team-smtp-server}
+
+>[!NOTE]
+>
+>**Permissões de administrador necessárias**
+
+1. Faça logon no [aplicação web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+
+PICC
+
+1. Em Configurações de administração, clique em **Geral**.
+
+PICC
+
+1. Clique em **Canal de Entrega de Equipe**.
+
+PICC
+
+1. Insira suas credenciais do Servidor SMTP e clique em **Connect**.
+
+PICC
+
+>[!NOTE]
+>
+>O Team SMTP Server será o canal de entrega padrão da identidade de email padrão para todos os membros da equipe. Além disso, ele estará disponível como uma opção de canal de delivery para todas as outras identidades de email.
+
+>[!MORELIKETHIS]
+>
+>* [Conexão de email para usuários do Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Conexão de email para usuários do Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+

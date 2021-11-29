@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Definir regras de segmento - Documentos do Marketo - Documentação do produto
 title: Definir regras de segmento
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Definir regras de segmento permite categorizar suas pessoas em grupos mutuamente
 
    >[!CAUTION]
    >
-   >Aconselhamos _against_ o uso de campos Conta ao definir regras de segmento, pois pode causar problemas de registro de atividades.
+   >O comportamento de registro de atividades para campos de Conta pode afetar a qualificação. Portanto, recomendamos não usar os campos Conta ao definir regras de segmento.
 
 1. Clique no botão **Pessoas (Rascunho)** para exibir as pessoas que podem se qualificar para serem membros deste segmento.
 
