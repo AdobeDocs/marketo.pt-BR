@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: fdc494a8b3002e851bbe76dcd69c58e6d5a00ee6
+source-git-commit: 97e6f8d4fd2efc71d82666a3b458b1736fe7abde
 workflow-type: tm+mt
-source-wordcount: '8101'
+source-wordcount: '8099'
 ht-degree: 5%
 
 ---
@@ -1273,7 +1273,6 @@ ht-degree: 5%
          + Introdução {#getting-started}
             + Configurações de e-mail {#email-settings}
                + [Verificar seu e-mail](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
-            + [Domínios bloqueados](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
          + Administrador {#admin}
             + [Domínios bloqueados](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Bloqueio de conteúdo](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)

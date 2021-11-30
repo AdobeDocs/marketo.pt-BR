@@ -1,0 +1,39 @@
+---
+description: Verificar seu email - Documentos do Marketo - Documentação do produto
+title: Verificar seu e-mail
+hide: true
+hidefromtoc: true
+source-git-commit: 97e6f8d4fd2efc71d82666a3b458b1736fe7abde
+workflow-type: tm+mt
+source-wordcount: '108'
+ht-degree: 5%
+
+---
+
+# Verificar seu e-mail {#verify-your-email}
+
+Se você tiver uma identidade de email que não tenha sido verificada, siga as etapas abaixo.
+
+1. Clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+
+   ![](assets/verify-your-email-1.png)
+
+1. Em Minha conta, clique em **Configurações de email**.
+
+   ![](assets/verify-your-email-2.png)
+
+1. Em Endereço e assinatura, encontre o email que deseja verificar e clique em **Reenviar Email de Verificação**. Um novo email de verificação será enviado.
+
+   ![](assets/verify-your-email-3.png)
+
+1. Clique em **Reenviar**.
+
+   ![](assets/verify-your-email-4.png)
+
+1. O recipient abre o email e segue as etapas para verificar o endereço de email.
+
+   ![](assets/verify-your-email-5.png)
+
+>[!NOTE]
+>
+>Se você não receber o email de verificação, verifique sua pasta de spam. Se não estiver lá, entre em contato [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
