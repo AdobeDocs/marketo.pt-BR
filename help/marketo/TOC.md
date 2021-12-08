@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
 workflow-type: tm+mt
-source-wordcount: '8147'
+source-wordcount: '8159'
 ht-degree: 5%
 
 ---
@@ -1233,10 +1233,13 @@ ht-degree: 5%
             + [Colunas da Página de Pessoas](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
       + Telefone {#phone}
          + [Chamadas não estão fazendo logon no Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
+         + [Resultados da chamada](product-docs/marketo-sales-connect/phone/call-outcomes.md)
+         + [Motivos da chamada](product-docs/marketo-sales-connect/phone/call-reasons.md)
          + [Não fez logon no Histórico de atividades](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Não efetuou login no Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Ativar registro de chamada](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
          + [Como personalizar o resultado da chamada no telefone de vendas](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
+         + [Motivos de chamada de registro e resultados de chamada para o Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [Chamada Internacional de Telefone de Vendas](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Presença Local do Telefone de Vendas](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
          + [Visão geral do telefone de vendas](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)

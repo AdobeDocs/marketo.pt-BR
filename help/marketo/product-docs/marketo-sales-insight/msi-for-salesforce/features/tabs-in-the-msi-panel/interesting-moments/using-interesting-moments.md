@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Uso de momentos interessantes - Documentação da Marketo - Documentação do produto
 title: Uso de momentos interessantes
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
+source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Os momentos interessantes são a chave para se comunicar com sua equipe de venda
 
 >[!AVAILABILITY]
 >
->Eles estão disponíveis somente para clientes do Marketo Sales Insight e [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md).
+>Eles estão disponíveis para o Marketo Sales Insight e [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) somente clientes.
 
 ## O que é um momento interessante? {#what-is-an-interesting-moment}
 
@@ -28,21 +28,21 @@ Isso depende de você! Você decide quais informações são relevantes para sua
 
 ## Como criar um momento interessante?  {#how-do-i-create-an-interesting-moment}
 
-1. Escolha uma [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), preferencialmente uma que sua equipe de vendas acharia interessante se fosse acionada.
+1. Escolha um [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), preferencialmente uma de suas equipes de vendas acharia interessante se fosse acionado.
 
-   ![](assets/image2015-1-8-18-3a8-3a54.png)
+   ![](assets/using-interesting-moments-1.png)
 
-1. Arraste sobre a etapa de fluxo **Momentos interessantes** .
+1. Arraste para o **Momentos interessantes** etapa de fluxo.
 
-   ![](assets/image2015-1-8-18-3a15-3a20.png)
+   ![](assets/using-interesting-moments-2.png)
 
-1. Selecione um **tipo** (Email, Marco ou Web).
+1. Selecione um **type** (Email, Marco ou Web).
 
-   ![](assets/image2015-1-8-18-3a17-3a16.png)
+   ![](assets/using-interesting-moments-3.png)
 
-1. Escreva uma mensagem para sua equipe de vendas no campo **Description** que explica por que essa ação é importante.
+1. Escreva uma mensagem para sua equipe de vendas no **Descrição** que explica a importância desta ação.
 
-   ![](assets/image2015-1-8-18-3a18-3a23.png)
+   ![](assets/using-interesting-moments-4.png)
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Isso depende de você! Você decide quais informações são relevantes para sua
 
 ## Como isso pode se tornar ainda mais interessante?  {#how-can-this-get-even-more-interesting}
 
-Tokens! Adicione-os no campo de descrição para fornecer à equipe de vendas informações mais específicas, como a linha de assunto do email aberto pelo cliente potencial ou por quem ele foi enviado. Verifique quais tokens estão disponíveis para uso no glossário [Tokens para momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md).
+Tokens! Adicione-os no campo de descrição para fornecer à equipe de vendas informações mais específicas, como a linha de assunto do email aberto pelo cliente potencial ou por quem ele foi enviado. Verifique quais tokens estão disponíveis para uso no [Tokens para Momentos Interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) glossário.
 
 >[!TIP]
 >
@@ -58,18 +58,32 @@ Tokens! Adicione-os no campo de descrição para fornecer à equipe de vendas in
 
 ## Como é um momento interessante no Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Os momentos interessantes serão exibidos em um log de atividades de [lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Os momentos interessantes serão exibidos em um [log de atividades do lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
-![](assets/image2015-1-14-18-3a45-3a58.png)
+![](assets/using-interesting-moments-5.png)
 
 ## Como se parece um momento interessante em Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Depois que você tiver [instalado o aplicativo Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), momentos interessantes serão exibidos nas páginas de lead, contato, conta ou oportunidade. Eles também aparecem no painel Informações sobre vendas no Feed de clientes potenciais, Melhores apostas e Lista de monitoramento.
+Uma vez que você tiver [instalado o aplicativo Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), momentos interessantes serão exibidos nas páginas de lead, contato, conta ou oportunidade. Eles também aparecem no painel Informações sobre vendas no Feed de clientes potenciais, Melhores apostas e Lista de monitoramento.
 
-![](assets/six.png)
+![](assets/using-interesting-moments-6.png)
 
 ## Como se parece um momento interessante em Salesforce1? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
 Depois de instalar ou atualizar o Marketo Sales Insight for Salesforce1, momentos interessantes serão exibidos nos links relacionados do cliente potencial.
 
-![](assets/seven.png)
+![](assets/using-interesting-moments-7.png)
+
+## Inscrever-se em momentos interessantes {#subscribe-to-interesting-moments}
+
+Você pode assinar um Momento Interessante clicando no botão Assinar na guia Momento Interessante ou no Feed de lead. As etapas abaixo são as mesmas para ambos.
+
+1. Clique no ícone Subscribe . Em seguida, você navegará até a guia Email Subscribe .
+
+1. Você pode escolher o tipo de alerta de email que gostaria de receber com base em Nome, Conta, Tipo ou Descrição.
+
+1. Escolha para quais endereços de email você deseja enviar os alertas (você mesmo/membros da equipe)
+
+1. Clique em **Assinar**.
+
+![](assets/using-interesting-moments-8.png)
