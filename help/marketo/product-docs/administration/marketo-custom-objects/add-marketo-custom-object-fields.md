@@ -2,22 +2,21 @@
 unique-page-id: 10093688
 description: Adicionar campos de objeto personalizados do Marketo - Documentos do Marketo - Documentação do produto
 title: Adicionar campos de objeto personalizados do Marketo
-translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
-
 # Adicionar campos de objeto personalizados do Marketo {#add-marketo-custom-object-fields}
 
 Depois de criar um objeto personalizado, é necessário adicionar campos para atender às suas necessidades comerciais.
 
-Os campos definem as informações específicas usadas por um objeto personalizado. Os campos de link têm um trabalho especial, para conectar objetos personalizados, e são cobertos em um [artigo separado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
+Os campos definem as informações específicas usadas por um objeto personalizado. Os campos do link têm um trabalho especial, para conectar objetos personalizados e são cobertos em um [artigo separado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Clique em **Admin** e, em **Gerenciamento de Banco de Dados**, selecione **Marketo Custom Objects**.
+1. Clique em **Administrador** e em **Gerenciamento de banco de dados**, selecione **Objetos personalizados do Marketo**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -25,7 +24,7 @@ Os campos definem as informações específicas usadas por um objeto personaliza
 
    ![](assets/image2016-1-18-9-3a5-3a3.png)
 
-1. Na guia **Fields**, clique em **New Field**.
+1. No **Campos** clique em **Novo campo**.
 
    ![](assets/image2015-9-15-16-3a53-3a40.png)
 
@@ -45,7 +44,7 @@ Os campos definem as informações específicas usadas por um objeto personaliza
 
    ![](assets/image2015-10-5-11-3a37-3a24.png)
 
-1. Puxe o controle deslizante Dedupe para cima se desejar usar o novo campo como um identificador exclusivo. Clique em **Save** para concluir.
+1. Puxe o controle deslizante Dedupe para cima se desejar usar o novo campo como um identificador exclusivo. Clique em **Salvar** para terminar.
 
    ![](assets/image2015-10-5-11-3a40-3a12.png)
 
@@ -57,7 +56,7 @@ Os campos definem as informações específicas usadas por um objeto personaliza
 
    >[!NOTE]
    >
-   >Se estiver criando uma estrutura one-to-many, será necessário adicionar um campo Link ao objeto personalizado. Para uma estrutura de muitas para muitas, você não precisa de um campo de link no objeto personalizado, mas deve adicionar dois campos de link no objeto intermediário. Consulte [Adicionar campos de link de objeto personalizado do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) para criar os campos de link e [Compreender objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obter mais informações sobre tipos de objetos personalizados.
+   >Se estiver criando uma estrutura one-to-many, será necessário adicionar um campo Link ao objeto personalizado. Para uma estrutura de muitas para muitas, você não precisa de um campo de link no objeto personalizado, mas deve adicionar dois campos de link no objeto intermediário. Consulte [Adicionar campos de link de objeto personalizado do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) para criar os campos de link, e [Como entender objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obter mais informações sobre tipos de objetos personalizados.
 
 >[!MORELIKETHIS]
 >

@@ -3,7 +3,8 @@ description: Domínios bloqueados - Documentos do Marketo - Documentação do pr
 title: Domínios bloqueados
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 004ba212-485e-4412-be75-7de13505d9b0
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 4%
@@ -18,7 +19,7 @@ Ajude sua equipe de vendas a obter sucesso, evitando que ela envie emails aciden
 >
 >**Permissões de administrador necessárias**
 
-1. No aplicativo Web, clique no ícone de engrenagem e selecione **Settings**.
+1. No aplicativo Web, clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/blocked-domains-1.png)
 

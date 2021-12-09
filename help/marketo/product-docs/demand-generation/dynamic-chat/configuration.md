@@ -3,7 +3,8 @@ description: Configuração - Documentação do Marketo - Documentação do prod
 title: Configuração
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 1%
@@ -28,7 +29,7 @@ Há várias opções de personalização diferentes.
 
 É aqui que você definirá a aparência do chatbot onde suas Caixas de Diálogo serão exibidas, incluindo: cores, fontes, posicionamento do widget de bot e o nome/avatar do chatbot.
 
-A cor de cada categoria é determinada por um [valor de cor hexadecimal](https://color.adobe.com/create/color-wheel) (por exemplo, branco = #ffff, vermelho = #bf1932, etc.).
+A cor de cada categoria é determinada por uma [valor de cor hexadecimal](https://color.adobe.com/create/color-wheel) (por exemplo, branco = #ffff, vermelho = #bf1932, etc.).
 
 ![](assets/configuration-3.png)
 
@@ -48,7 +49,7 @@ Quando terminar de fazer alterações, lembre-se de clicar em **Salvar**.
 
 ## Guia Privacidade {#privacy-tab}
 
-Clique na guia **Privacy** para adicionar/editar o URL da política de privacidade do seu site (opcional).
+Clique no botão **Privacidade** para adicionar/editar o URL da política de privacidade do seu site (opcional).
 
 ![](assets/configuration-7.png)
 

@@ -3,41 +3,96 @@ description: Motivos de chamada de registro e resultados de chamada para o Sales
 title: Motivos de chamada de registro e resultados de chamada para o Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '464'
 ht-degree: 0%
 
 ---
 
 # Motivos de chamada de registro e resultados de chamada para o Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-Se você deseja registrar os resultados da chamada e chamar os motivos para o Salesforce para fins de relatório ou visibilidade, é possível criar um campo de atividade personalizado para cada um. Cada campo deve usar um nome de API específico.
+Se você deseja registrar os resultados da chamada e chamar os motivos para o Salesforce para fins de relatório ou visibilidade, é possível criar um campo de atividade personalizado para cada um. Cada campo deve usar um Nome de API específico (conhecido como &quot;Nome de campo&quot; no Salesforce).
 
-* Nome da API de Resultados da Chamada: mktosales_call_result
-* Nome da API dos Motivos da Chamada: mktosales_call_reason
+* Nome do Campo de Resultados da Chamada: mktosales_call_result
+* Nome do campo Motivos da chamada: mktosales_call_reason
 
 Para utilizar esses campos, primeiro será necessário criar o campo como um campo de atividade personalizado. Para torná-lo visível para os usuários, será necessário adicioná-lo ao layout da página do objeto da tarefa.
 
-## Criar campo de atividade personalizado no Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
+## Salesforce Classic {#salesforce-classic}
 
-1. No Salesforce, vá para Setup.
+### Criar campo de atividade personalizado no Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
 
-PICC
+1. No Salesforce, clique em **Configuração**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
 1. Digite &quot;Atividades&quot; na caixa Localização rápida.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
 1. Clique em **Campos personalizados da atividade**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
 1. Clique em **Novo**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
-## Criar campo de atividade personalizado no Salesforce Lightning {#create-custom-activity-field-in-salesforce-lightning}
+1. Selecione o tipo de dados &quot;Texto&quot; e clique em **Próximo**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
+
+1. Forneça ao campo personalizado o nome do campo conforme definido acima. O comprimento do campo tem um limite de 255 caracteres. O Rótulo do campo será o campo visível para a sua equipe de vendas e poderá ser personalizado para atender às necessidades da sua equipe.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
+
+1. O restante das configurações são opcionais. Depois de concluir a configuração, clique em **Próximo**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
+
+1. Selecione as configurações de segurança de nível de campo desejadas para este campo e clique em **Próximo** (a imagem abaixo é apenas um exemplo).
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-8.png)
+
+   >[!NOTE]
+   >
+   >Certifique-se de que o campo personalizado esteja visível para o perfil que seus usuários do Sales Connect usam, juntamente com qualquer outro lugar que você gostaria que ele ficasse visível.
+
+1. Selecione os layouts de página aos quais você deseja adicionar o campo e clique em **Salvar** (opcionalmente, você pode clicar em **Salvar e Novo** e repita o processo para o campo Motivo da chamada ).
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
+
+### Adicionar campo de atividade personalizado ao layout da página de tarefa no Salesforce Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
+
+1. No Salesforce, clique em **Configuração**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
+
+1. Digite &quot;Tarefa&quot; na caixa Localização rápida.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
+
+1. Clique em **Layouts da Página de Tarefas**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-12.png)
+
+1. Clique em **Editar** ao lado do layout da página da tarefa, você deseja adicionar este campo.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
+
+1. Arraste e solte o campo até o layout da página Tarefa.
+
+   PICC
+
+1. Clique em **Salvar**.
+
+   PICC
+
+## Salesforce Lightning {#salesforce-lightning}
+
+### Criar campo de atividade personalizado no Salesforce Lightning {#create-custom-activity-field-in-salesforce-lightning}
 
 1. No Salesforce, clique no ícone de engrenagem na parte superior direita.
 
@@ -63,13 +118,43 @@ PICC
 
 PICC
 
-## Adicionar campo de atividade personalizado ao layout da página de tarefa no Salesforce Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
-
-ETAPAS
-
 ## Adicionar campo de atividade personalizado ao layout da página de tarefa no Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-ETAPAS
+1. No Salesforce, clique no ícone de engrenagem na parte superior direita.
+
+PICC
+
+1. Clique em **Configuração**.
+
+PICC
+
+1. Ir para Configuração.??????
+
+PICC
+
+1. Digite &quot;Tarefa&quot; na caixa Localização rápida.
+
+PICC
+
+1. Clique em Tarefa.
+
+PICC
+
+1. Clique em Layouts de página.
+
+PICC
+
+1. Clique no layout da página da tarefa à qual deseja adicionar este campo.
+
+PICC
+
+1. Arraste e solte o campo até o layout da página Tarefa.
+
+PICC
+
+1. Clique em Salvar.
+
+PICC
 
 >[!MORELIKETHIS]
 >

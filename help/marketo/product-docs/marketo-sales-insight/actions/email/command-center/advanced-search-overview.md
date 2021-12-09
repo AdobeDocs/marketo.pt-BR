@@ -3,7 +3,8 @@ description: Visão geral da pesquisa avançada - Documentos do Marketo - Docume
 title: Visão geral da pesquisa avançada
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 4%
@@ -101,7 +102,7 @@ Filtra por todos os emails pendentes.
   <td><strong>Descrição</strong></td>
  </tr>
  <tr>
-  <td><strong>Scheduled</strong></td>
+  <td><strong>Programado</strong></td>
   <td>Emails que foram agendados a partir da janela de composição (Salesforce ou o Web App), plug-ins de email ou uma campanha.</td>
  </tr>
  <tr>

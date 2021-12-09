@@ -1,7 +1,8 @@
 ---
 description: Solicitações de privacidade - Documentos do Marketo - Documentação do produto
 title: Solicitações de privacidade
-source-git-commit: da290279eb6daa9ee96baed54482482ec6640301
+exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
@@ -59,7 +60,7 @@ b. Endereço de email da pessoa em quem você deseja agir
 
 &quot;regulamento&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** ou **nzpa_nzl**  (que é o regulamento sobre privacidade que se aplica à solicitação)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** ou **nzpa_nzl**  (que é o regulamento de privacidade que se aplica à solicitação)
 
 ## Exemplo Um: Solicitação de exclusão do RGPD {#gdpr-delete-request}
 

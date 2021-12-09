@@ -3,9 +3,10 @@ description: Motivos da chamada - Documentos do Marketo - Documentação do prod
 title: Motivos da chamada
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,37 @@ Permita que suas equipes de vendas selecionem os motivos das chamadas ao fazer c
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
-PICC
+   ![](assets/call-reasons-1.png)
 
 1. Em Configurações de administração , selecione **Discador**.
 
-PICC
+   ![](assets/call-reasons-2.png)
 
 1. Selecionar **Ativar Motivos da Chamada**.
 
-PICC
+   ![](assets/call-reasons-3.png)
 
-1. Escolha EM BRANCO
+1. Escolha o requisito do motivo da chamada desejado.
 
-Selecione &quot;Permitir que os usuários concluam as chamadas sem selecionar Motivos da Chamada&quot; se desejar permitir que os usuários concluam uma chamada sem precisar registrar uma chamada ou selecione &quot;Exigir que os usuários selecionem Motivos da Chamada antes de registrar chamadas&quot; para exigir
+   ![](assets/call-reasons-4.png)
 
 ## Criar Motivo da Chamada {#create-call}
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
-PICC
+   ![](assets/call-reasons-5.png)
 
 1. Em Configurações de administração , selecione **Discador**.
 
-PICC
+   ![](assets/call-reasons-6.png)
 
 1. Clique em **Gerenciar motivos de chamada**.
 
-PICC
+   ![](assets/call-reasons-7.png)
 
-1. Insira o nome do motivo da chamada desejada no campo de texto.
+1. Insira o nome do motivo da chamada desejado no campo de texto e clique em **Adicionar**.
 
-PICC
-
-1. Clique em **Adicionar**.
-
-PICC
+   ![](assets/call-reasons-8.png)
 
 ## Selecionar um Motivo da Chamada {#select-a-call-reason}
 
@@ -64,27 +61,27 @@ Depois que os motivos da chamada forem ativados. Os usuários podem selecionar u
 
 1. Clique no botão de chamada para iniciar o discador.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Insira as informações da chamada no discador.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Clique em chamar.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Selecione o motivo da chamada que melhor descreve a chamada.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Encerre a chamada .
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Registre a chamada .
 
-PICC
+   ![](assets/call-reasons-.png)
 
 >[!MORELIKETHIS]
 >

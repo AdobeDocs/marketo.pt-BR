@@ -3,7 +3,8 @@ description: Diálogos - Documentos do Marketo - Documentação do produto
 title: Diálogos
 hide: true
 hidefromtoc: true
-source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
+exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 1%
@@ -20,11 +21,11 @@ As caixas de diálogo são conversas de chat individuais. Saiba como personaliz�
 
    ![](assets/dialogues-1.png)
 
-1. Clique no botão **Criar novo**.
+1. Clique no botão **Criar novo** botão.
 
    ![](assets/dialogues-2.png)
 
-1. Insira um nome (a descrição é opcional), defina o nível de prioridade e clique em **Save**.
+1. Insira um nome (a descrição é opcional), defina o nível de prioridade e clique em **Salvar**.
 
    ![](assets/dialogues-3.png)
 
@@ -38,25 +39,25 @@ Semelhante às Smart Lists da Marketo, os atributos de Critérios de público-al
 
 **Pessoas conhecidas**
 
-Há _muitas_ combinações de atributos para escolher. Neste exemplo, estamos direcionando todas as **pessoas conhecidas** na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
+Existem _many_ combinações de atributos para escolher. Neste exemplo, estamos direcionando tudo **pessoas conhecidas** na Califórnia, que trabalham em uma empresa com mais de 50 funcionários.
 
-1. Pegue o atributo **Estado da pessoa** e arraste-o para a direita.
+1. Pegue o **Estado da pessoa** e arraste-o para a direita.
 
    ![](assets/dialogues-4.png)
 
-1. __ Está definido por padrão. No campo Selecionar valores , digite CA (também é possível clicar no menu suspenso e selecionar na lista).
+1. _Is_ é definido por padrão. No campo Selecionar valores , digite CA (também é possível clicar no menu suspenso e selecionar na lista).
 
    ![](assets/dialogues-5.png)
 
-1. Pegue o atributo **Tamanho da empresa** e arraste-o para onde diz _arraste e solte um atributo aqui_.
+1. Pegue o **Tamanho da empresa** atribua-o e arraste-o para onde ele diz _arraste e solte um atributo aqui_.
 
    ![](assets/dialogues-6.png)
 
    >[!NOTE]
    >
-   >Você também pode escolher um atributo clicando no ícone **+**.
+   >Você também pode escolher um atributo clicando em **+** ícone .
 
-1. Clique na lista suspensa do operador e selecione **Maior que**.
+1. Clique no menu suspenso do operador e selecione **Maior que**.
 
    ![](assets/dialogues-7.png)
 
@@ -68,25 +69,25 @@ E é isso!
 
 **Pessoas anônimas**
 
-Há uma maneira fácil de direcionar especificamente as pessoas que ainda não estão no seu banco de dados. Neste exemplo, estamos direcionando todas as **pessoas anônimas** localizadas na área de Nova York.
+Há uma maneira fácil de direcionar especificamente as pessoas que ainda não estão no seu banco de dados. Neste exemplo, estamos direcionando tudo **pessoas anônimas** localizada na área de Nova York.
 
-1. Pegue o atributo **Email da pessoa** e arraste-o para a direita.
+1. Pegue o **Email da pessoa** e arraste-o para a direita.
 
    ![](assets/dialogues-9.png)
 
-1. Clique na lista suspensa do operador e selecione **Is Empty**.
+1. Clique no menu suspenso do operador e selecione **Está vazio**.
 
    ![](assets/dialogues-10.png)
 
-1. Pegue o atributo **Estado inferido** e arraste-o para onde diz _arraste e solte um atributo aqui_.
+1. Pegue o **Estado inferido** atribua-o e arraste-o para onde ele diz _arraste e solte um atributo aqui_.
 
    ![](assets/dialogues-11.png)
 
    >[!NOTE]
    >
-   >Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) os cookies e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
+   >Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Os cookies e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
 
-1. __ Está definido por padrão. No campo Selecionar valores , digite NY (também é possível clicar no menu suspenso e selecionar na lista).
+1. _Is_ é definido por padrão. No campo Selecionar valores , digite NY (também é possível clicar no menu suspenso e selecionar na lista).
 
    ![](assets/dialogues-12.png)
 
@@ -111,7 +112,7 @@ Formatos aceitáveis:
 
 >[!NOTE]
 >
->O uso de um asterisco atua como um curinga abrangente. Assim, `https://*.website.com` colocaria a caixa de diálogo em cada página do site, incluindo subdomínios (por exemplo: `support.website.com`). E `https://website.com/folder/*` colocaria a caixa de diálogo em cada HTML page na pasta subsequente (por exemplo: nesse caso, considere que a pasta é &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
+>O uso de um asterisco atua como um curinga abrangente. So `https://*.website.com` coloca a caixa de diálogo em cada página do site, incluindo subdomínios (por exemplo: `support.website.com`). E `https://website.com/folder/*` colocaria a caixa de diálogo em cada página HTML na pasta subsequente (por exemplo: nesse caso, considere que a pasta é &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
 
 ## Designer de fluxo {#stream-designer}
 
@@ -133,7 +134,7 @@ O designer de fluxo contém cartões diferentes que podem ser adicionados para m
  </tr>
  <tr>
   <td><strong>Programador de Compromissos</strong></td>
-  <td>Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">o próximo agente na linha</a>.</td>
+  <td>Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">o próximo agente em linha</a>.</td>
  </tr>
  <tr>
   <td><strong>Meta</strong></td>
@@ -143,7 +144,7 @@ O designer de fluxo contém cartões diferentes que podem ser adicionados para m
 
 **Criar um fluxo**
 
-Há _muitas_ combinações de fluxo possíveis. Vamos observar um exemplo [neste artigo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
+Existem _many_ possíveis combinações de fluxo. Vamos ver um exemplo [neste artigo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Relatórios {#reports}
 

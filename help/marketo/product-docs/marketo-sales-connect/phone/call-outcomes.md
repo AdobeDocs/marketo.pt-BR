@@ -3,9 +3,10 @@ description: Resultados da chamada - Documentos do Marketo - Documentação do p
 title: Resultados da chamada
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,41 @@ Permitir que suas equipes de vendas selecionem resultados de chamadas ao fazer c
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
-PICC
+   ![](assets/call-outcomes-1.png)
 
 1. Em Configurações de administração , selecione **Discador**.
 
-PICC
+   ![](assets/call-outcomes-2.png)
 
 1. Selecionar **Ativar Resultados de Chamadas**.
 
-PICC
+   ![](assets/call-outcomes-3.png)
 
 1. Escolha seu requisito de resultado de chamada desejado.
 
-PICC
+   ![](assets/call-outcomes-4.png)
 
 ## Criar resultados de chamada {#create-call-outcomes}
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
-PICC
+   ![](assets/call-outcomes-5.png)
 
 1. Em Configurações de administração , selecione **Discador**.
 
-PICC
+   ![](assets/call-outcomes-6.png)
 
 1. Clique em **Gerenciar resultados de chamada**.
 
-PICC
+   ![](assets/call-outcomes-7.png)
 
 1. Insira o nome do resultado da chamada desejado no campo de texto.
 
-PICC
+   ![](assets/call-outcomes-8.png)
 
 1. Clique na lista suspensa Answered e escolha o tipo de resultado (neste exemplo, escolhemos Answered). Em seguida, clique em **Adicionar**.
 
-PICC
+   ![](assets/call-outcomes-9.png)
 
 ## Escolha um resultado da chamada {#choose-a-call-outcome}
 
@@ -90,3 +91,4 @@ PICC
 >
 >* [Motivos de chamada de registro e resultados de chamada para o Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Motivos da chamada](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+
