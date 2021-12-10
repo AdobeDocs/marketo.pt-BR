@@ -4,9 +4,9 @@ title: Resultados da chamada
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -65,27 +65,23 @@ Após habilitar os resultados da chamada. Os usuários podem selecionar uma enqu
 
 1. Clique no botão de chamada para iniciar o discador.
 
-PICC
+   ![](assets/call-outcomes-10.png)
 
-1. Insira as informações da chamada no discador.
+1. Insira as informações da chamada no discador e clique em **Chame**.
 
-PICC
-
-1. Clique em chamar.
-
-PICC
+   ![](assets/call-outcomes-11.png)
 
 1. Selecione o resultado da chamada que melhor descreve a chamada.
 
-PICC
+   ![](assets/call-outcomes-12.png)
 
 1. Encerre a chamada .
 
-PICC
+   ![](assets/call-outcomes-13.png)
 
 1. Registre a chamada .
 
-PICC
+   ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >

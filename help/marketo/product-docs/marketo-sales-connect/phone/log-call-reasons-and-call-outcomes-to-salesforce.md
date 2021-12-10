@@ -4,9 +4,9 @@ title: Motivos de chamada de registro e resultados de chamada para o Salesforce
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,10 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
 ### Adicionar campo de atividade personalizado ao layout da página de tarefa no Salesforce Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
+>[!NOTE]
+>
+>Você só precisará seguir essas etapas se não tiver selecionado o layout de página desejado na Etapa 9 acima.
+
 1. No Salesforce, clique em **Configuração**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
@@ -82,79 +86,75 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
-1. Arraste e solte o campo até o layout da página Tarefa.
+1. Arraste e solte o campo até a seção desejada do layout da página Tarefa.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
 1. Clique em **Salvar**.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
 ## Salesforce Lightning {#salesforce-lightning}
 
 ### Criar campo de atividade personalizado no Salesforce Lightning {#create-custom-activity-field-in-salesforce-lightning}
 
-1. No Salesforce, clique no ícone de engrenagem na parte superior direita.
+1. No Salesforce, clique no ícone de engrenagem na parte superior direita e selecione **Configuração**.
 
-PICC
-
-1. Clique em **Configuração**.
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
 1. Clique em **Gerenciador de objetos**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. Insira Atividade na caixa Localização rápida e clique no rótulo Atividade para abrir a configuração do objeto.
+1. Digite &quot;Atividade&quot; na caixa Localização rápida.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. No lado esquerdo, clique em **Campos e Relações**.
+1. Clique no botão **Atividade** rótulo.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
+
+1. Clique em **Campos e Relações**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
 1. Clique em **Novo**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ## Adicionar campo de atividade personalizado ao layout da página de tarefa no Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. No Salesforce, clique no ícone de engrenagem na parte superior direita.
+1. No Salesforce, clique no ícone de engrenagem na parte superior direita e selecione **Configuração**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. Clique em **Configuração**.
+1. Clique em **Gerenciador de objetos**.
 
-PICC
-
-1. Ir para Configuração.??????
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
 1. Digite &quot;Tarefa&quot; na caixa Localização rápida.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Clique em Tarefa.
+1. Clique no botão **Tarefa** rótulo.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. Clique em Layouts de página.
+1. Clique em **Layouts de página**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
 1. Clique no layout da página da tarefa à qual deseja adicionar este campo.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-27.png)
 
-1. Arraste e solte o campo até o layout da página Tarefa.
+1. Arraste e solte o campo até a seção desejada do layout da página Tarefa.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. Clique em Salvar.
+1. Clique em **Salvar**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >

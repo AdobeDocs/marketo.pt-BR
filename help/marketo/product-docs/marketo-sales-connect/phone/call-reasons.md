@@ -4,9 +4,9 @@ title: Motivos da chamada
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: b8fcbc13925e3a292add3e9148ddefcfca3344b4
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -61,27 +61,23 @@ Depois que os motivos da chamada forem ativados. Os usuários podem selecionar u
 
 1. Clique no botão de chamada para iniciar o discador.
 
-   PICC
+   ![](assets/call-reasons-9.png)
 
-1. Insira as informações da chamada no discador.
+1. Insira as informações da chamada no discador e clique em **Chame**.
 
-   PICC
-
-1. Clique em chamar.
-
-   PICC
+   ![](assets/call-reasons-10.png)
 
 1. Selecione o motivo da chamada que melhor descreve a chamada.
 
-   PICC
+   ![](assets/call-reasons-11.png)
 
 1. Encerre a chamada .
 
-   PICC
+   ![](assets/call-reasons-12.png)
 
 1. Registre a chamada .
 
-   PICC
+   ![](assets/call-reasons-13.png)
 
 >[!MORELIKETHIS]
 >
