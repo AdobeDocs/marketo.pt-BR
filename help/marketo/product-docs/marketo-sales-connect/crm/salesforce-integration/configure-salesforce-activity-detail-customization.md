@@ -1,0 +1,123 @@
+---
+description: Configurar a personalização de detalhes da atividade do Salesforce - Documentos do Marketo - Documentação do produto
+title: Configurar Personalização De Detalhes Da Atividade Do Salesforce
+hide: true
+hidefromtoc: true
+source-git-commit: 137acd3ace0da73bcdfebcf7f4f2723bb03c7c39
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
+
+---
+
+# Configurar Personalização De Detalhes Da Atividade Do Salesforce {#configure-salesforce-activity-detail-customization}
+
+A Personalização de detalhes da atividade permite que os administradores configurem as informações que farão logon no campo Tarefa - Assunto do Salesforce, quando uma atividade/tarefa de lembrete do Sales Connect for sincronizada com o Salesforce.
+
+![](assets/configure-salesforce-activity-detail-customization-1.png)
+
+![](assets/configure-salesforce-activity-detail-customization-2.png)
+
+<table>
+ <tr>
+  <td><strong>1</td>
+  <td>Tarefa do Lembrete de InMail</td>
+ </tr>
+ <tr>
+  <td><strong>2</td>
+  <td>Atividade de e-mail</td>
+ </tr>
+ <tr>
+  <td><strong>3</td>
+  <td>Atividade de chamada</td>
+ </tr>
+</table>
+
+O recurso pode ser usado para desbloquear os seguintes benefícios:
+
+* Ao personalizar quais informações estão visíveis no campo de assunto, os detalhes da atividade são facilmente verificáveis para vendas no Salesforce.
+* Os administradores podem marcar o campo de assunto com um identificador exclusivo, como &quot;Mkto_sales&quot;, para que as atividades do Sales Connect possam ser facilmente identificadas e diferenciadas de outras atividades de email, atividades de chamada e tarefas.
+* Reduza a necessidade de campos de atividade personalizados. O Salesforce impõe limites no número de campos de atividade personalizados, que podem restringir quais dados estão disponíveis para serem usados nos relatórios. Ao usar campos dinâmicos de atividades para adicionar dados principais à linha de assunto, você pode reduzir o número de campos de atividade personalizados que precisam ser criados na instância do Salesforce.
+* O campo de assunto de atividades e tarefas seguirá um padrão consistente definido pelo administrador do Sales Connect.
+
+## Campos dinâmicos da atividade compatíveis {#activity-dynamic-fields-supported}
+
+Campos dinâmicos da atividade fazem referência a informações sobre suas atividades de vendas para preencher dados. Hoje, eles podem ser usados com a Personalização de detalhes da atividade do Salesforce.
+
+>[!NOTE]
+>
+>Se não houver valor para preencher o campo dinâmico de uma atividade/tarefa específica, ele não preencherá nenhum dado para esse campo dinâmico quando o Campo Tarefa - Assunto do Salesforce for atualizado.
+
+<table>
+ <tr>
+  <th>Campo</th>
+  <th>Descrição</th>
+ </tr>
+ <tr>
+  <td>{{activity_type}}</td>
+  <td>Preenche o tipo de tarefa como Email, Chamada, InMail ou Personalizado.</td>
+ </tr>
+ <tr>
+  <td>{{activity_subject}}</td>
+  <td><p>Preenche o assunto da tarefa.</p>
+      <p>No caso de um email, ele preencherá a linha de assunto do email.</p>
+      <p>No caso de chamada, inMail ou custom, ele preencherá um valor se houver uma tarefa de lembrete criada com um valor no campo nome/assunto da tarefa.</p></td>
+ </tr>
+ <tr>
+  <td>{{sales_campaign_name}}</td>
+  <td>Se a atividade foi iniciada a partir de uma campanha de vendas, ela preencherá o nome da campanha de vendas.</td>
+ </tr>
+ <tr>
+  <td>{{sales_campaign_day}}</td>
+  <td>Se a atividade foi iniciada a partir de uma campanha de vendas, ela preencherá o número do dia da campanha de vendas em que essa atividade ocorreu.</td>
+ </tr>
+ <tr>
+  <td>{{sales_campaign_step}}</td>
+  <td>Se a atividade foi iniciada a partir de uma campanha de vendas, ela preencherá o número da etapa no dia da campanha de vendas em que a atividade ocorreu.</td>
+ </tr>
+ <tr>
+  <td>{{call_result}}</td>
+  <td>Se a atividade for uma chamada e o resultado da chamada for selecionado, o valor do resultado da chamada será preenchido.</td>
+ </tr>
+ <tr>
+  <td>{{call_reason}</td>
+  <td>Se a atividade for uma chamada e o motivo da chamada for selecionado, o valor do motivo da chamada será preenchido.</td>
+ </tr>
+</table>
+
+## Configuração da Personalização de Detalhes da Atividade do Salesforce {#configuring-salesforce-activity-detail-customization}
+
+>[!NOTE]
+>
+>**Permissões de administrador necessárias.**
+
+Ao configurar os detalhes da atividade, considere quais dados seriam mais relevantes para as vendas ao revisar o histórico de tarefas no Salesforce.
+
+1. Clique no ícone de engrenagem e selecione **Configurações**.
+
+PICC
+
+1. Clique em **Salesforce**.
+
+PICC
+
+1. Clique em **Sincronizar configurações**.
+
+PICC
+
+1. No editor de Personalização de Detalhes da Atividade , adicione o texto livre desejado, ele permanecerá inalterado para o campo de assunto de todas as tarefas sincronizadas com o Salesforce.
+
+1. Adicione qualquer campo dinâmico que deseja adicionar clicando no botão dynamic field e selecionando os campos dinâmicos que deseja usar na lista.
+
+1. Clique em **Salvar**.
+
+>[!NOTE]
+>
+>O Salesforce impõe um limite de 255 caracteres. Se os detalhes da atividade excederem isso, eles serão truncados para garantir que as informações possam ser armazenadas no campo de assunto do Salesforce .
+
+>[!MORELIKETHIS]
+>
+>* [Configurações de sincronização](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Sincronização de Tarefa de Lembrete com o Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+>* [Personalização de Conexão de Vendas para CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+
