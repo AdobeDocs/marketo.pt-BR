@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+source-git-commit: 6033a1bfbdce1b617181415c4f7394074c64595f
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '948'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Os seguintes recursos serão lançados em **21 de janeiro de 2022**.
 
 ## Experiência da próxima geração {#next-generation-experience}
 
-* **Telas atualizadas na experiência de próxima geração**: Estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração que oferecem melhorias atualizadas de design e usabilidade por meio do switch de alternância:
+* **Telas atualizadas na experiência de próxima geração**: Estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração que oferecem melhorias atualizadas de design e usabilidade acessíveis por meio do switch de alternância:
 
    * Detalhes do ativo da página de aterrissagem no Design Studio
    * Detalhes do ativo da página de aterrissagem nas atividades de marketing
