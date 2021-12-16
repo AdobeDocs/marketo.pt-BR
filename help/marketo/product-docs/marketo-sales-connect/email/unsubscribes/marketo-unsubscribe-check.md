@@ -1,19 +1,18 @@
 ---
 unique-page-id: 18317340
-description: Marketo Unsubscribe Check - Marketing to Docs - Documentação do produto
-title: Marketo Unsubscrition Check
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Marketo Unsubscribe Check - Marketo Docs - Documentação do produto
+title: Verificação de cancelamentos de inscrições no Marketo
+exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
+source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 0%
+source-wordcount: '192'
+ht-degree: 3%
 
 ---
 
+# Verificação de cancelamentos de inscrições no Marketo {#marketo-unsubscribe-check}
 
-# Marketo Unsubscribe Check {#marketo-unsubscribe-check}
-
-A verificação de cancelamento de inscrição do Marketo usa a conexão da sua equipe com o Marketo para impedir que emails sejam enviados para pessoas que não se inscrevem no sistema de gerenciamento de clientes potenciais do Marketo. Quando um usuário de vendas envia um email com o Sales Connect, uma chamada de API é feita para o Marketo para verificar se a ID do email está cancelada. Se estiver, impediremos o envio do email.
+A verificação de cancelamento de assinatura do Marketo usa a conexão da sua equipe com o Marketo para impedir que os emails sejam enviados para pessoas que não estão assinadas no sistema de gerenciamento de clientes potenciais da Marketo. Quando um usuário de vendas envia um email com o Sales Connect, uma chamada de API é feita ao Marketo para verificar se a ID do email foi cancelada. Se estiver, bloquearemos o envio do email.
 
 >[!NOTE]
 >
@@ -21,11 +20,11 @@ A verificação de cancelamento de inscrição do Marketo usa a conexão da sua 
 
 ## Ativando {#turning-it-on}
 
-1. No aplicativo da Web, clique no ícone de engrenagem e selecione **Configurações**.
+1. No aplicativo Web, clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/one-2.png)
 
-1. Em Configurações administrativas, clique em **Cancelar inscrição**.
+1. Em Configurações de administração, clique em **Cancelamentos de assinatura**.
 
    ![](assets/two-3.png)
 
@@ -33,15 +32,16 @@ A verificação de cancelamento de inscrição do Marketo usa a conexão da sua 
 
    ![](assets/three-3.png)
 
-1. Na seção Marketo Unsubscribe Check (Cancelar inscrição de marca), clique no controle deslizante para ativar a verificação.
+1. Na seção Marketo Unsubscribe Check , clique no controle deslizante para ativar a verificação.
 
    ![](assets/four-2.png)
 
-## Coisas para saber {#things-to-know}
+## O que saber {#things-to-know}
 
-A verificação Cancelar assinatura do Marketo...
+A verificação de cancelamento de assinatura do Marketo...
 
-* Não conta com seus limites de API
-* Exige que seja estabelecida uma conexão com o Marketing
+* Não conta em relação aos limites da API
+* Requer que uma conexão Marketo seja estabelecida
 * É uma configuração global
-* Bloqueia e-mails enviados do aplicativo da Web, clientes de e-mail e Salesforce
+* Bloqueia emails enviados da aplicação Web, clientes de email e Salesforce
+* Registrará um email com falha ou impedirá que um usuário envie quando ele tentar enviar para todos os workflows (envio de plug-in de email, envio individual, envio de campanha de vendas, seleção múltipla e envio) exceto para [emails de grupo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md), em que impediremos o envio silencioso de emails
