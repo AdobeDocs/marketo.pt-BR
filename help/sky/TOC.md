@@ -49,7 +49,7 @@ ht-degree: 4%
    + [Noções básicas sobre programas de envolvimento](understanding-engagement-programs.md)
    + [Como entender a pontuação de engajamento](understanding-the-engagement-score.md)
    + [Uso de um programa em um fluxo de programa de envolvimento](using-a-program-in-an-engagement-program-stream.md)
-+ Rótulos {#labels}
++ RÓTULOS {#labels}
    + [Adicionar e remover rótulos](add-and-remove-labels.md)
    + [Copiar rótulos do original para o clone](copy-labels-from-original-to-clone.md)
    + [Copiar rótulos de pai para filho](copy-labels-from-parent-to-child.md)
