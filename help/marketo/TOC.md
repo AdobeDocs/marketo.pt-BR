@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
 workflow-type: tm+mt
-source-wordcount: '8189'
+source-wordcount: '8195'
 ht-degree: 5%
 
 ---
@@ -241,7 +241,7 @@ ht-degree: 5%
          + [Definir configurações de localização padrão para uma assinatura](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Noções básicas sobre configurações de privacidade](product-docs/administration/settings/understanding-privacy-settings.md)
          + [Uso de uma ID universal para logon de assinatura](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
-      + TagsMarcas {#tags}
+      + Marcas {#tags}
          + [Criar uma nova tag e valores de tag do programa](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [Criar um canal de programa](product-docs/administration/tags/create-a-program-channel.md)
          + [Criar tags personalizadas](product-docs/administration/tags/create-custom-tags.md)
@@ -667,7 +667,7 @@ ht-degree: 5%
          + [Testar anúncios de lead da Facebook para integração móvel com o Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Noções básicas sobre conversões offline do Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Usar filtros e acionadores de anúncios de lead em uma campanha inteligente](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
-      + Formulários {#forms}
+      + formulários {#forms}
          + Criação de um formulário {#creating-a-form}
             + [Criar um formulário](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
             + [Adicionar um campo a um formulário](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
@@ -1287,6 +1287,7 @@ ht-degree: 5%
             + [Criando uma equipe](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [Como configurar o rastreamento de domínio personalizado](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Convidar usuários e administradores](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [Registrando atributos de atividade de vendas no Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
             + [Configurações de compartilhamento](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Detalhes de acesso do usuário](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Campanhas {#campaigns}
