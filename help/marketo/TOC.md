@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
 workflow-type: tm+mt
-source-wordcount: '8195'
+source-wordcount: '8200'
 ht-degree: 5%
 
 ---
@@ -1308,6 +1308,7 @@ ht-degree: 5%
                + [Limitação da conexão de email](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Configurar um canal de entrega personalizado para sua equipe](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + Configuração do Salesforce {#email-delivery}
+               + [Configuração de ações MSI no Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
                + [Desinstalar Pacote de Personalização do Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [Desinstalar Pacote de Personalização do Salesforce Lightning](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + Cancelamentos de inscrição {#unsubscribes}
