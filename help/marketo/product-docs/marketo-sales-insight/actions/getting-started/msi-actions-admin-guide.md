@@ -3,10 +3,10 @@ description: Guia do administrador de ações do MSI - Documentos do Marketo - D
 title: Guia do administrador de ações do MSI
 hide: true
 hidefromtoc: true
-source-git-commit: 23873e440f194f75a39532d650cc3e18e3baf98c
+source-git-commit: 9ee07611ffae25fea4bffa3124927083bf187ddd
 workflow-type: tm+mt
-source-wordcount: '509'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -125,7 +125,7 @@ PICC
 
 Os registros de pessoa que existem no Marketo e no Salesforce serão sincronizados com sua conta de Aplicativos de vendas da Marketo.
 
-## Convidar usuários individuais para ações MSI {#invite-individual users-to-msi-actions}
+## Convidar usuários individuais para ações MSI {#invite-individual-users-to-msi-actions}
 
 1. Na conta de Vendas Marketo, clique no ícone de engrenagem e selecione **Configurações**.
 
