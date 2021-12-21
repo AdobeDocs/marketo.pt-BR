@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
+source-git-commit: b700993d0fc9a7703e8e812ca3d6adee1e1e6d9b
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1038'
 ht-degree: 2%
 
 ---
@@ -87,6 +87,6 @@ Os clientes do Marketo Engage que também usam o Adobe Experience Platform (AEP)
 
 * **Verificação de email**: A partir desta versão, as assinaturas do Marketo Engage começarão a ter usuários &quot;somente não API&quot; que verifiquem endereços de email. Os usuários autenticados do serviço de diretório terão seus emails verificados automaticamente quando sua assinatura for habilitada com a Verificação de email. Verificação de email para aqueles que usam o recurso &quot;Logon na caixa de diálogo de usuário do convite&quot; ou aqueles com assinaturas que têm um único email associado a vários usuários na assinatura serão atrasados e coincidirão com a desativação do recurso em março.
 
-* **Caixa de diálogo Convidar usuário para logon**: Em março, o recurso existente e opcional &quot;Logon na caixa de diálogo de usuário do convite&quot; ficará obsoleto. O recurso &quot;Logon no caixa de diálogo Convidar usuário&quot; é substituído pelo recurso Universal ID, que é necessário para a próxima integração de sistema do Adobe Identity Management e foi ativado em agosto de 2021 em todas as assinaturas. Como resultado da descontinuação, o Marketo Engage aplicará todas as IDs de usuário (logons) para corresponder ao endereço de email do usuário e permitirá que apenas um usuário seja associado por endereço de email em uma assinatura.
+* **Caixa de diálogo Convidar usuário para logon**: Em março, o recurso existente e opcional &quot;Logon na caixa de diálogo de usuário do convite&quot; ficará obsoleto. O recurso &quot;Logon no caixa de diálogo Convidar usuário&quot; é substituído pelo recurso Universal ID, que é necessário para a próxima integração de sistema do Adobe Identity Management e foi ativado em agosto de 2021 em todas as assinaturas. Como resultado da descontinuação, o Marketo Engage aplicará somente um usuário a ser associado por endereço de email em uma assinatura.
 
 **Domínios do Marketo Engage - Configuração do Sales Insight**: Para domínios Marketo Engage que não têm certificado SSL provisionado e https://, as chamadas falharão com um erro de handshake SSL. Portanto, esses domínios serão encerrados. Como resultado, os usuários do Sales Insight com uma configuração mais antiga apontando para qualquer um desses domínios podem encontrar erros de chamada do sistema em sua página Principal, Contato, Conta, Painéis de Oportunidade ou Marketo Global. Recomendamos que você atualize seu [Configuração do Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) no Salesforce se encontrar esse erro. Você só precisa atualizar as credenciais do Marketo Engage destacadas na seção &quot;Configuração do Marketo Sales Insight&quot; do documento.
