@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: c4db281bc1b92bdd3ecc3c8b0aaf7e2f21d1f987
+source-git-commit: 23873e440f194f75a39532d650cc3e18e3baf98c
 workflow-type: tm+mt
-source-wordcount: '8205'
+source-wordcount: '8209'
 ht-degree: 5%
 
 ---
@@ -1277,6 +1277,7 @@ ht-degree: 5%
       + Ações {#actions}
          + Introdução {#getting-started}
             + [Guia de integração do usuário de ações MSI](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [Guia do administrador de ações do MSI](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
             + [Alterar a senha de vendas da Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + Configurações de e-mail {#email-settings}
                + [Verificar seu e-mail](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
