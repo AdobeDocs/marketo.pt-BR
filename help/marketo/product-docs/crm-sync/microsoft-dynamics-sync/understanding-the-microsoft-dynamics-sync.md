@@ -1,16 +1,16 @@
 ---
 unique-page-id: 10098625
-description: Noções básicas sobre a sincronização do Microsoft Dynamics - Documentos do Marketo - Documentação do produto
-title: Noções Gerais da Sincronização do Microsoft Dynamics
+description: Noções básicas sobre a sincronização dinâmica do Microsoft - Documentos do Marketo - Documentação do produto
+title: Noções básicas sobre a sincronização do Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 80651a7d3d416f27ef13184b11757943c98bd781
+source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 2%
 
 ---
 
-# Noções Gerais da Sincronização do Microsoft Dynamics {#understanding-the-microsoft-dynamics-sync}
+# Noções básicas sobre a sincronização do Microsoft Dynamics {#understanding-the-microsoft-dynamics-sync}
 
 O Marketo e o Microsoft Dynamics estão juntos. Mantemos seus dados de vendas e marketing sincronizados.
 
@@ -40,9 +40,9 @@ A sincronização entre o Marketo e o Dynamics é bidirecional para clientes pot
 * [Usuários](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * Equipes (grupos de usuários do sistema)
 * [Oportunidades](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
-* [Entidades personalizadas](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
+* [Entidades personalizadas](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-As credenciais [inseridas no Marketo para Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) são usadas para sincronizar dados.
+O [credenciais inseridas no Marketo para o Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) são usadas para sincronizar dados.
 
 >[!NOTE]
 >
