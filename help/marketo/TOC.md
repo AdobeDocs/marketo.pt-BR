@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 23873e440f194f75a39532d650cc3e18e3baf98c
+source-git-commit: 0ed5981470998dadd5f42384cd2e9572fec94ef6
 workflow-type: tm+mt
-source-wordcount: '8209'
+source-wordcount: '8214'
 ht-degree: 5%
 
 ---
@@ -1285,6 +1285,7 @@ ht-degree: 5%
                + [Adicionar identidade](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + Administrador {#admin}
             + [Domínios bloqueados](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [Conectar o novo administrador ao Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
             + [Bloqueio de conteúdo](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
             + [Criando uma equipe](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [Como configurar o rastreamento de domínio personalizado](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
