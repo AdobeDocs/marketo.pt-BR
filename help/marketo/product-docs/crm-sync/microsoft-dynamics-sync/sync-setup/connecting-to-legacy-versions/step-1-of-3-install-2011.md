@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: Etapa 1 de 3 - Instalar a solução Marketo (2011 no local) - Documentos da Marketo - Documentação do produto
 title: Etapa 1 de 3 - Instalar a solução Marketo (2011 no local)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
-source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
+source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -94,4 +94,4 @@ Não foi tão ruim, certo? Vamos, eu vou continuar te conduzindo pelo resto.
 
 >[!MORELIKETHIS]
 >
->[Etapa 2 de 3: Configurar o usuário do Marketo Sync no Dynamics (2011 no local)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up.md)
+>[Etapa 2 de 3: Configurar o usuário do Marketo Sync no Dynamics (2011 no local)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
