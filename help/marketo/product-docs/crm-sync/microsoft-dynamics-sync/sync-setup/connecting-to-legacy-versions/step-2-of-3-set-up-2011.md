@@ -3,9 +3,9 @@ unique-page-id: 3571807
 description: Etapa 2 de 3 - Configurar o usuário do Marketo Sync no Dynamics (2011 no local) - Documentos do Marketo - Documentação do produto
 title: Etapa 2 de 3 - Configurar o usuário do Marketo Sync no Dynamics (2011 no local)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Atribua a função Usuário de sincronização do Marketo somente ao usuário de
 
    >[!TIP]
    >
-   >Se você não vir a função, volte para [etapa 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) e importe a solução.
+   >Se você não vir a função, volte para [etapa 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install.md) e importe a solução.
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Quase pronto! Temos apenas algumas últimas partes da configuração antes de pa
 
    >[!NOTE]
    >
-   >Se a configuração do Marketo estiver ausente, tente atualizar a página. Se o problema persistir, [publicar a solução Marketo novamente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) ou faça logoff e volte.
+   >Se a configuração do Marketo estiver ausente, tente atualizar a página. Se o problema persistir, [publicar a solução Marketo novamente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install.md) ou faça logoff e volte.
 
 1. Clique em **Padrão**.
 
@@ -100,4 +100,4 @@ Muito bem!
 
 >[!MORELIKETHIS]
 >
->[Etapa 3 de 3: Conectar o Microsoft Dynamics ao Marketo (2011 no local)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
+>[Etapa 3 de 3: Conectar o Microsoft Dynamics ao Marketo (2011 no local)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)

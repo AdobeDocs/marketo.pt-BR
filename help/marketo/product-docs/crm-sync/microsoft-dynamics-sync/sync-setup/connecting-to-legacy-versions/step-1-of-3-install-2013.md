@@ -1,16 +1,16 @@
 ---
 unique-page-id: 3571813
-description: Step 1 of 3 -Install the Marketo Solution in Dynamics (2013 On-Premises) - Marketo Docs - Product Documentation
+description: Etapa 1 de 3 - Instalar a solução Marketo no Dynamics (2013 no local) - Documentos da Marketo - Documentação do produto
 title: Etapa 1 de 3 - Instalar a solução Marketo no Dynamics (2013 no local)
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
-# Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
+# Etapa 1 de 3: Instalar a solução Marketo no Dynamics (2013 no local) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
 Antes de sincronizar o Microsoft Dynamics no local e o Marketo, é necessário primeiro instalar a solução Marketo no Dynamics.
 
@@ -20,21 +20,21 @@ Antes de sincronizar o Microsoft Dynamics no local e o Marketo, é necessário p
 
 >[!PREREQUISITES]
 >
->Você deve ter [Implantação virada para a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) com [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 ou 3.0 (ADFS) configuradas. Note: The IFD document downloads automatically when you click the link.
+>Você deve ter [Implantação virada para a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) com [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 ou 3.0 (ADFS) configuradas. Observação: O documento IFD é baixado automaticamente ao clicar no link.
 >
 >[Baixe a solução Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) antes de começar.
 
 >[!NOTE]
 >
->**Dynamics Admin Permissions required.**
+>**Permissões de administrador do Dynamics são necessárias.**
 >
 >Você precisa de privilégios de administrador do CRM para executar essa sincronização.
 
-1. Faça logon **Dynamics**. Click the **Microsoft Dynamics CRM** drop-down menu and select **Settings**.
+1. Faça logon **Dynamics**. Clique no botão **Microsoft Dynamics CRM** e selecione **Configurações**.
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
-1. Under **Settings**, select **Solutions**.
+1. Em **Configurações**, selecione **Soluções**.
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
@@ -62,7 +62,7 @@ Antes de sincronizar o Microsoft Dynamics no local e o Marketo, é necessário p
 
    ![](assets/image2015-3-26-10-3a3-3a11.png)
 
-1. Wait for the import to finish.
+1. Aguarde até que a importação seja concluída.
 
    >[!TIP]
    >
@@ -86,7 +86,7 @@ Antes de sincronizar o Microsoft Dynamics no local e o Marketo, é necessário p
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
 
-Wasn&#39;t too bad right? Come on, I&#39;ll keep walking you through the rest.
+Não foi tão ruim, certo? Vamos, eu vou continuar te conduzindo pelo resto.
 
 >[!CAUTION]
 >
@@ -94,4 +94,4 @@ Wasn&#39;t too bad right? Come on, I&#39;ll keep walking you through the rest.
 
 >[!MORELIKETHIS]
 >
->[Etapa 2 de 3: Configurar usuário de sincronização para Marketo (2013 no local)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>[Etapa 2 de 3: Configurar usuário de sincronização para Marketo (2013 no local)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
