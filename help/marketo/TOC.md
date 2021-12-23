@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 1fba4140761561e8707abfc1a215b1f23c665393
+source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
 workflow-type: tm+mt
-source-wordcount: '8208'
+source-wordcount: '8206'
 ht-degree: 5%
 
 ---
@@ -523,14 +523,13 @@ ht-degree: 5%
             + [Atualizar a solução Marketo para o Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Validar a sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Exibir o URL do serviço de organização](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
-            + Microsoft Dynamics 2011 No Local {#microsoft-dynamics-2011-on-premises}
-               + [Etapa 1 de 3: Instalar a solução Marketo (2011 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
-               + [Etapa 2 de 3: Configurar o usuário do Marketo Sync no Dynamics (2011 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
-               + [Etapa 3 de 3: Conectar o Microsoft Dynamics ao Marketo (2011 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 2013 No Local {#microsoft-dynamics-2013-on-premises}
-               + [Etapa 1 de 3: Instalar a solução Marketo no Dynamics (2013 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
-               + [Etapa 2 de 3: Configurar usuário de sincronização para Marketo (2013 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
-               + [Etapa 3 de 3: Conectar o Marketo e o Dynamics (2013 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+            + Conexão com versões herdadas {#connecting-to-legacy-versions}
+               + [Etapa 1 de 3: Instalar a solução Marketo (2011 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+               + [Etapa 2 de 3: Configurar o usuário do Marketo Sync no Dynamics (2011 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+               + [Etapa 3 de 3: Conectar o Microsoft Dynamics ao Marketo (2011 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
+               + [Etapa 1 de 3: Instalar a solução Marketo no Dynamics (2013 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+               + [Etapa 2 de 3: Configurar usuário de sincronização para Marketo (2013 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
+               + [Etapa 3 de 3: Conectar o Marketo e o Dynamics (2013 no local)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
             + Microsoft Dynamics 2015 No Local/2016 Dynamics 365 No Local {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
                + [Etapa 1 de 3: Instalar a solução Marketo - 2015 no local / 2016 Dynamics 365 no local](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Etapa 2 de 3: Configurar o usuário do Marketo Sync no Dynamics 2015 no local / 2016 Dynamics 365 no local](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
