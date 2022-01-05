@@ -1,16 +1,17 @@
 ---
 description: Instale o Marketo para Microsoft Dynamics 2016/Dynamics 365 no local 1 de 3 - Documentos do Marketo - Documentação do produto
 title: Instale o Marketo para Microsoft Dynamics 2016/Dynamics 365 no local Etapa 1 de 3
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
+source-git-commit: 3fb93520a653109845c3b40aba20304c6163214f
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # Etapa 1 de 3: Configurar usuário de sincronização para Marketo (2016 no local /Dynamics 365 no local) {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
-Antes de sincronizar o Microsoft Dynamics 2015 no local ou 2016 (Dynamics 365) com o Marketo, você precisa primeiro instalar a solução da Marketo no Dynamics.
+Antes de sincronizar o Microsoft Dynamics 2016 no local/Dynamics 365 com o Marketo, é necessário primeiro instalar a solução Marketo no Dynamics.
 
 >[!NOTE]
 >
