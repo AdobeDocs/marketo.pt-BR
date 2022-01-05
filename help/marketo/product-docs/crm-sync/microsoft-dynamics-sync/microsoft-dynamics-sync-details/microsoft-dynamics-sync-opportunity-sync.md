@@ -1,17 +1,16 @@
 ---
 unique-page-id: 3571844
-description: Sincronização do Microsoft Dynamics - Sincronização de Oportunidades - Documentos do Marketo - Documentação do produto
-title: Sincronização do Microsoft Dynamics - Sincronização de Oportunidades
+description: Sincronização do Microsoft Dynamics - Sincronização de oportunidades - Documentos do Marketo - Documentação do produto
+title: Microsoft Dynamics Sync - Sincronização de Oportunidades
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-# Sincronização do Microsoft Dynamics: Sincronização de Oportunidades {#microsoft-dynamics-sync-opportunity-sync}
+# Microsoft Dynamics Sync: Sincronização de Oportunidades {#microsoft-dynamics-sync-opportunity-sync}
 
 A sincronização do Marketo com o Dynamics é super poderosa. Veja todos os detalhes da sincronização de oportunidades:
 
@@ -25,4 +24,4 @@ Não, você deve criar a oportunidade no Dynamics e ela será sincronizada autom
 
 ## Quais campos serão sincronizados com o Marketo? {#what-fields-will-sync-to-marketo}
 
-Você pode [selecionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) durante a configuração.
+Você pode [selecionar campos a serem sincronizados](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) durante a configuração.

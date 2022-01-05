@@ -1,9 +1,9 @@
 ---
 description: Etapa 2 de 3 - Configurar a solução Marketo com Conexão de Controle de Senha do Proprietário de Recursos - Documentos Marketo - Documentação do produto
 title: Etapa 2 de 3 - Configurar a solução Marketo com a conexão de controle de senha do proprietário de recursos
-source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -128,10 +128,10 @@ Quase lá! Resta informar a Marketo Solution sobre o novo usuário criado.
 
 ## Antes de prosseguir para a Etapa 3 {#before-proceeding-to-step}
 
-    * Se quiser restringir o número de registros sincronizados, [configure um filtro de sincronização personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) agora.
-    * Execute o processo [Validar o Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Ele verifica se as configurações iniciais foram feitas corretamente.
-    * Efetue logon no usuário de sincronização do Marketo no Microsoft Dynamics CRM.
+* Se quiser restringir o número de registros sincronizados, [configurar um filtro de sincronização personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) agora.
+* Execute o [Validar a sincronização do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) processo. Ele verifica se as configurações iniciais foram feitas corretamente.
+* Faça logon no usuário de sincronização do Marketo no Microsoft Dynamics CRM.
 
->[!MORELIKETHIS]
->
->[Etapa 3 de 4: Conecte a solução Marketo com a conexão de controle de senha do proprietário de recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-connect.md)
+   >[!MORELIKETHIS]
+   >
+   >[Etapa 3 de 4: Conecte a solução Marketo com a conexão de controle de senha do proprietário de recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)

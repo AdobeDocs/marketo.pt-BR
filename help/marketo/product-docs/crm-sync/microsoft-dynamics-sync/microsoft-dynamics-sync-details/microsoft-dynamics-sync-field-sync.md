@@ -1,17 +1,16 @@
 ---
 unique-page-id: 3571838
-description: Sincronização do Microsoft Dynamics - Sincronização de campo - Documentos do Marketo - Documentação do produto
-title: Sincronização do Microsoft Dynamics - Sincronização de campo
+description: Microsoft Dynamics Sync - Sincronização de campo - Documentos do Marketo - Documentação do produto
+title: Microsoft Dynamics Sync - Sincronização de campo
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
 
 ---
 
-# Sincronização do Microsoft Dynamics: Sincronização de campo {#microsoft-dynamics-sync-field-sync}
+# Microsoft Dynamics Sync: Sincronização de campo {#microsoft-dynamics-sync-field-sync}
 
 A sincronização do Marketo com o Dynamics é super poderosa. Aqui estão os detalhes.
 
@@ -31,16 +30,16 @@ Não, isso não é compatível no momento.
 
 ## Criei um campo no Dynamics. Posso sincronizá-lo com o Marketo? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-Sim, você pode [sincronizar o campo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync), desde que o usuário de sincronização tenha acesso a ele no Dynamics.
+Sim, você pode [sincronizar o campo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) desde que o usuário de sincronização tenha acesso a ele no Dynamics.
 
 ## Quais campos serão sincronizados com o Marketo? {#what-fields-will-sync-to-marketo}
 
-Você pode [selecionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) durante a configuração.
+Você pode [selecionar campos a serem sincronizados](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) durante a configuração.
 
 ## E se eu precisar adicionar um campo personalizado depois que o Marketo e o Dynamics forem sincronizados? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-Você pode adicionar campos a qualquer momento e esperar que os dados sejam atualizados do Dynamics para Marketo. Consulte [Usar sincronização rápida com o Microsoft Dynamics para um novo campo personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) para obter detalhes.
+Você pode adicionar campos a qualquer momento e esperar que os dados sejam atualizados do Dynamics para Marketo. Consulte [Usar a sincronização rápida com o Microsoft Dynamics para um novo campo personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) para obter detalhes.
 
 ## E se eu quiser excluir um campo no Dynamics depois que o campo for adicionado à sincronização? {#what-if-i-want-to-delete-a-field-in-dynamics-after-the-field-has-been-added-to-sync}
 
-O Marketo armazena uma referência aos campos a serem sincronizados. Se você excluir um campo no Dynamics, recomendamos fazer isso com o [sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Em seguida, atualize o esquema no Marketo editando e salvando o [Selecionar Campos para Sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+O Marketo armazena uma referência aos campos a serem sincronizados. Se você excluir um campo no Dynamics, recomendamos fazer isso com a variável [sincronização desativada](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Em seguida, atualize o esquema no Marketo editando e salvando o [Selecionar Campos para Sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).

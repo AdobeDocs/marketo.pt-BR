@@ -3,7 +3,7 @@ unique-page-id: 10098625
 description: Noções básicas sobre a sincronização dinâmica do Microsoft - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre a sincronização do Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 2%
@@ -42,7 +42,7 @@ A sincronização entre o Marketo e o Dynamics é bidirecional para clientes pot
 * [Oportunidades](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Entidades personalizadas](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-O [credenciais inseridas no Marketo para o Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) são usadas para sincronizar dados.
+O [credenciais inseridas no Marketo para o Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) são usadas para sincronizar dados.
 
 >[!NOTE]
 >

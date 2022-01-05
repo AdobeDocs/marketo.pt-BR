@@ -1,17 +1,16 @@
 ---
 unique-page-id: 3571836
-description: Sincronização do Microsoft Dynamics - Sincronização de contas - Documentos do Marketo - Documentação do produto
-title: Sincronização do Microsoft Dynamics - Sincronização de contas
+description: Microsoft Dynamics Sync - Sincronização de conta - Documentos do Marketo - Documentação do produto
+title: Microsoft Dynamics Sync - Sincronização de contas
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Sincronização do Microsoft Dynamics: Sincronização de conta {#microsoft-dynamics-sync-account-sync}
+# Microsoft Dynamics Sync: Sincronização de conta {#microsoft-dynamics-sync-account-sync}
 
 Você sabia que o Marketo sincroniza todo o banco de dados com o Dynamics? Ele sincroniza, depois aguarda 5 minutos e depois sincroniza novamente, o dia todo, todos os dias. Estes são alguns detalhes sobre como a Marketo trata especificamente as contas dinâmicas.
 
@@ -29,7 +28,7 @@ Nº O Marketo não pode criar contas no Dynamics.
 
 ## Quais campos serão sincronizados com o Marketo? {#which-fields-will-sync-to-marketo}
 
-Você pode [selecionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) durante a configuração. Mas o Marketo só sincronizará os campos aos quais o usuário de sincronização do Dynamics tem acesso.
+Você pode [selecionar campos a serem sincronizados](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) durante a configuração. Mas o Marketo só sincronizará os campos aos quais o usuário de sincronização do Dynamics tem acesso.
 
 ## Uma alteração em um campo de conta no Dynamics resulta em um log de atividade de alteração de valor de dados para cada contato?  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 
