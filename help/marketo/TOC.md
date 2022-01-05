@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
 workflow-type: tm+mt
-source-wordcount: '8230'
+source-wordcount: '8287'
 ht-degree: 5%
 
 ---
@@ -520,6 +520,7 @@ ht-degree: 5%
          + [Corrigir problemas de sincronização de validação do Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + Configurar Sincronização {#sync-setup}
             + [Baixe a solução de gerenciamento de clientes potenciais da Marketo](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+            + [Conceder consentimento para ID do cliente e registro de aplicativo](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
             + [Atualizar a solução Marketo para o Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Validar a sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Exibir o URL do serviço de organização](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
@@ -527,12 +528,16 @@ ht-degree: 5%
                + [Etapa 1 de 3: Instalar a solução Marketo - 2015 no local / 2016 Dynamics 365 no local](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Etapa 2 de 3: Configurar o usuário do Marketo Sync no Dynamics 2015 no local / 2016 Dynamics 365 no local](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [Etapa 3 de 3: Conecte o Marketo e o Dynamics 2015 no local / 2016 Dynamics 365 no local](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365 {#microsoft-dynamics-365}
-               + [Etapa 1 de 3: Instalar a solução Marketo (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
-               + [Etapa 2 de 3: Configurar o usuário do Marketo Sync no Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
-               + [Etapa 3 de 3: Conectar o Microsoft Dynamics ao Marketo (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+            + Microsoft Dynamics 365 com conexão ROPC{#microsoft-dynamics-365-with-ropc-connection}
+               + [Etapa 1 de 4: Instale a solução Marketo com a conexão ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+               + [Etapa 2 de 4: Configurar a solução Marketo com conexão ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
+               + [Etapa 3 de 4: Configurar o aplicativo cliente no MS Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+               + [Etapa 4 de 4: Conecte a solução Marketo à conexão ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
+            + Microsoft Dynamics 365 com Conexão S2S{#microsoft-dynamics-365-with-s2s-connection}
+               + [Etapa 1 de 3: Instalar a solução Marketo com a conexão S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+               + [Etapa 2 de 3: Configurar a solução Marketo com a conexão S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+               + [Etapa 3 de 3: Conecte a solução Marketo com a conexão S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
             + Configurar a autenticação OAuth para o Dynamics {#set-up-oauth-authentication-for-dynamics}
-               + [Conceder consentimento para ID do cliente e registro de aplicativo](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
                + [Configurar o aplicativo Microsoft Dynamics CRM para online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [Configurar o aplicativo Microsoft Dynamics CRM no local](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
                + [Configurar o MSD para o Azure AD Federated com o AD FS no local, locatário e Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
@@ -1276,6 +1281,7 @@ ht-degree: 5%
             + [Referencie-se em um campo dinâmico](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + Ações {#actions}
+         + [Visão geral de recursos de ações MSI](product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.md)
          + Introdução {#getting-started}
             + [Guia de integração do usuário de ações MSI](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
             + [Guia do administrador de ações do MSI](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
@@ -1311,10 +1317,6 @@ ht-degree: 5%
                + [Visão geral do canal de delivery](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Limitação da conexão de email](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Configurar um canal de entrega personalizado para sua equipe](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Configuração do Salesforce {#salesforce-configuration}
-               + [Configuração de ações MSI no Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
-               + [Desinstalar Pacote de Personalização do Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-               + [Desinstalar Pacote de Personalização do Salesforce Lightning](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + Cancelamentos de inscrição {#unsubscribes}
                + [Visão geral do cancelamento de inscrição](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Personalizar mensagem de link de cancelamento de assinatura](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1326,6 +1328,10 @@ ht-degree: 5%
                + [Opções de email em massa](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [Composição de emails em massa com Selecionar e enviar](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Enviar emails por email de grupo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+         + Configuração do Salesforce {#salesforce-configuration}
+            + [Configuração de ações MSI no Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
+            + [Desinstalar Pacote de Personalização do Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+            + [Desinstalar Pacote de Personalização do Salesforce Lightning](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Marketo {#marketo}
             + [Conceder acesso ao Marketo aos usuários](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Enviar um email de vendas {#send-a-sales-email}
