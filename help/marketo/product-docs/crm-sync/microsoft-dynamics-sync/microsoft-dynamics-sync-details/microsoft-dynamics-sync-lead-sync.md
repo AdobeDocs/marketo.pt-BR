@@ -3,7 +3,7 @@ unique-page-id: 3571848
 description: Sincronização dinâmica do Microsoft - Sincronização de clientes potenciais - Documentos do Marketo - Documentação do produto
 title: Microsoft Dynamics Sync - Sincronização de leads
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Não, a sincronização automatizada em segundo plano é a única maneira de sin
 
 ## Quais campos serão sincronizados com o Marketo? {#what-fields-will-sync-to-marketo}
 
-Você pode [selecionar campos a serem sincronizados](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) durante a configuração.
+Você pode [selecionar campos a serem sincronizados](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) durante a configuração.
 
 ## O Marketo respeitará as regras de validação do Dynamics? {#will-marketo-respect-the-dynamics-validation-rules}
 

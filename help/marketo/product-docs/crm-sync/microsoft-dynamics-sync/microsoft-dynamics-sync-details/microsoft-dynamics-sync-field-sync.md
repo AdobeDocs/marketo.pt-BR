@@ -3,7 +3,7 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync - Sincronização de campo - Documentos do Marketo - Documentação do produto
 title: Microsoft Dynamics Sync - Sincronização de campo
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -30,11 +30,11 @@ Não, isso não é compatível no momento.
 
 ## Criei um campo no Dynamics. Posso sincronizá-lo com o Marketo? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-Sim, você pode [sincronizar o campo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) desde que o usuário de sincronização tenha acesso a ele no Dynamics.
+Sim, você pode [sincronizar o campo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) desde que o usuário de sincronização tenha acesso a ele no Dynamics.
 
 ## Quais campos serão sincronizados com o Marketo? {#what-fields-will-sync-to-marketo}
 
-Você pode [selecionar campos a serem sincronizados](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) durante a configuração.
+Você pode [selecionar campos a serem sincronizados](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) durante a configuração.
 
 ## E se eu precisar adicionar um campo personalizado depois que o Marketo e o Dynamics forem sincronizados? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
