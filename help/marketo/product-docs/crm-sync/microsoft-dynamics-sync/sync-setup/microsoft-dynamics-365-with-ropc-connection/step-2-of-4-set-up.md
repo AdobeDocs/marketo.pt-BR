@@ -1,9 +1,7 @@
 ---
-unique-page-id: 3571827
 description: Etapa 2 de 3 - Configurar a solução Marketo com Conexão de Controle de Senha do Proprietário de Recursos - Documentos Marketo - Documentação do produto
 title: Etapa 2 de 3 - Configurar a solução Marketo com a conexão de controle de senha do proprietário de recursos
-exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -136,4 +134,4 @@ Quase lá! Resta informar a Marketo Solution sobre o novo usuário criado.
 
 >[!MORELIKETHIS]
 >
->[Etapa 3 de 3: Conecte a solução Marketo com a conexão de controle de senha do proprietário de recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-3-connect.md)
+>[Etapa 3 de 4: Conecte a solução Marketo com a conexão de controle de senha do proprietário de recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-connect.md)
