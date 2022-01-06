@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Etapa 3 de 3 - Conectar a solução Marketo com a conexão S2S - Documentos da Marketo - Documentação do produto
 title: Etapa 3 de 3 - Conectar a solução Marketo com a conexão S2S
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '375'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ Esta é a última etapa da sincronização. Estamos quase lá!
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
+
+>[!NOTE]
+>
+>Antes de inserir novas credenciais, é possível [validá-los aqui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
 ## Inserir informações do usuário de sincronização dinâmica {#enter-dynamics-sync-user-information}
 
@@ -44,18 +48,15 @@ Esta é a última etapa da sincronização. Estamos quase lá!
 
    >[!CAUTION]
    >
-   >Certifique-se de que suas credenciais estejam corretas, pois não podemos reverter as alterações subsequentes do schema após o envio. Se as credenciais incorretas forem salvas, você terá que obter uma nova assinatura do Marketo.
+   >Certifique-se de que o URL da organização esteja correto, pois não podemos reverter as alterações subsequentes do esquema após o envio. Se um URL de organização incorreto for usado, você terá que obter uma nova assinatura do Marketo. Se você não souber o URL, [saiba como encontrá-lo aqui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. Insira o **Nome do usuário**, **Senha** e Microsoft Dynamics **URL**. Clique em **Salvar** quando concluído.
+1. Insira o **Nome do usuário**, **Senha**, **ID do cliente**, **Segredo do cliente** e Microsoft Dynamics **URL**. Clique em **Salvar** quando concluído.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >* Se sua Marketo foi provisionada antes de outubro de 2020, a ID do cliente e o Segredo são campos opcionais. Caso contrário, são obrigatórias. A obtenção dessas informações dependerá da versão do MSD que você estiver usando.
-   >* O Nome de usuário no Marketo deve corresponder ao Nome de usuário para o usuário de sincronização no CRM. O formato pode ser `user@domain.com` ou DOMÍNIO\usuário.
-   >* Se você não souber o URL, [saiba como encontrá-lo aqui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
-
+   >O Nome de usuário no Marketo deve corresponder ao Nome de usuário para o usuário de sincronização no CRM. O formato pode ser `user@domain.com` ou DOMÍNIO\usuário.
 
 ## Selecionar campos para a sincronização {#select-fields-to-sync}
 
