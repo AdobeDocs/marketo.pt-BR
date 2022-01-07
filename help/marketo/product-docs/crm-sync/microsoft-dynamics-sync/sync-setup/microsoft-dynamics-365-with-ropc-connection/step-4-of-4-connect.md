@@ -2,7 +2,7 @@
 description: Etapa 4 de 4 - Conectar a solução Marketo com a conexão de controle de senha do proprietário de recursos - Documentos da Marketo - Documentação do produto
 title: Etapa 4 de 4 - Conectar a solução Marketo com a conexão de controle de senha do proprietário de recursos
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: f72f195e53d63e37ef2ed53980b9bffc59391430
+source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 1%
@@ -56,7 +56,7 @@ Esta é a última etapa da sincronização. Você está quase lá!
 
 1. Insira o **Nome do usuário**, **Senha**, **ID do cliente**, **Segredo do cliente** e Microsoft Dynamics **URL**. Clique em **Salvar** quando concluído.
 
-   ![](assets/step-4-of-4-connect-the-marketo-solution-ropc-5.png)
+   ![](assets/step-4-of-4-connect-ropc-5.png)
 
    >[!NOTE]
    >
