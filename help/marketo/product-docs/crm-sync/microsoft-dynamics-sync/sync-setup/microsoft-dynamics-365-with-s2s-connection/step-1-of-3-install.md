@@ -1,14 +1,15 @@
 ---
-description: Etapa 1 de 3 - Instalar a solução Marketo com a conexão S2S - Documentos da Marketo - Documentação do produto
-title: Etapa 1 de 3 - Instalar a solução Marketo com a conexão S2S
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+description: Etapa 1 de 3 - Instalar a solução Marketo com conexão de servidor para servidor - Documentação da Marketo - Documentação do produto
+title: Etapa 1 de 3 - Instalar a solução Marketo com conexão de servidor para servidor
+exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-# Etapa 1 de 3: Instalar a solução Marketo com a conexão S2S {#step-1-of-3-install-the-marketo-solution-s2s}
+# Etapa 1 de 3: Instalar a solução Marketo com conexão de servidor para servidor {#step-1-of-3-install-the-marketo-solution-s2s}
 
 Antes de sincronizar o Microsoft Dynamics 365 e o Marketo, é necessário primeiro instalar a solução Marketo no Dynamics. **As Permissões de administrador do Dynamics são necessárias.**
 

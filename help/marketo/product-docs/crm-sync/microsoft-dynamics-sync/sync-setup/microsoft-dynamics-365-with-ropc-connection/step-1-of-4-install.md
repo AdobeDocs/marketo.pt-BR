@@ -1,14 +1,15 @@
 ---
-description: Etapa 1 de 3 - Instalar a solução Marketo com conexão de controle de senha do proprietário de recursos - Documentos da Marketo - Documentação do produto
-title: Etapa 1 de 3 - Instalar a solução Marketo com a conexão de controle de senha do proprietário de recursos
-source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
+description: Etapa 1 de 4 - Instalar a solução Marketo com conexão de controle de senha do proprietário de recursos - Documentos da Marketo - Documentação do produto
+title: Etapa 1 de 4 - Instalar a solução Marketo com a conexão de controle de senha do proprietário de recursos
+exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
 
-# Etapa 1 de 3: Instale a solução Marketo com a conexão de controle de senha do proprietário de recursos {#step-1-of-3-install-the-marketo-solution-ropc}
+# Etapa 1 de 4: Instale a solução Marketo com a conexão de controle de senha do proprietário de recursos {#step-1-of-4-install-the-marketo-solution-ropc}
 
 Antes de sincronizar o Microsoft Dynamics 365 e o Marketo, é necessário primeiro instalar a solução Marketo no Dynamics. **As Permissões de administrador do Dynamics são necessárias.**
 

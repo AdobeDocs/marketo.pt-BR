@@ -1,20 +1,20 @@
 ---
 unique-page-id: 3571827
-description: Etapa 2 de 3 - Configurar a solução da Marketo com a conexão S2S - Documentos da Marketo - Documentação do produto
-title: Etapa 2 de 3 - Configurar a solução Marketo com a conexão S2S
+description: Etapa 2 de 3 - Configurar a solução Marketo com conexão de servidor para servidor - Documentação da Marketo - Documentação do produto
+title: Etapa 2 de 3 - Configurar a solução Marketo com conexão de servidor para servidor
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
 
-# Etapa 2 de 3: Configurar o usuário de sincronização do Marketo no Dynamics com a conexão S2S{#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
+# Etapa 2 de 3: Configurar a solução Marketo com conexão de servidor para servidor {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
->[Etapa 1 de 3: Instalar a solução Marketo com a conexão S2S](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>[Etapa 1 de 3: Instalar a solução Marketo com conexão de servidor para servidor](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 
 ## Criar aplicativo cliente no Azure AD {#create-client-application-in-azure-ad}
 
@@ -124,4 +124,4 @@ Quase lá! Resta informar a Marketo Solution sobre o novo usuário criado.
 
 >[!MORELIKETHIS]
 >
->[Etapa 3 de 3: Conecte a solução Marketo com a conexão S2S](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>[Etapa 3 de 3: Conecte a solução Marketo com a conexão de servidor ao servidor](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
