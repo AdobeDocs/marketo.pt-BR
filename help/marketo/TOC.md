@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 921c3279b53bc18ac753b1e3f0672a70fe11abe7
 workflow-type: tm+mt
-source-wordcount: '8252'
+source-wordcount: '8255'
 ht-degree: 5%
 
 ---
@@ -42,49 +42,6 @@ ht-degree: 5%
       + [O que analisar: Principais habilidades](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Maneiras de obter ajuda](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + Documentação do produto {#product-docs}
-   + Gerenciamento de contas de destino {#target-account-management}
-      + Configuração {#setup}
-         + [Visão geral do gerenciamento de contas do Target](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
-         + [Introdução ao TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
-         + [Emitir uma licença](product-docs/target-account-management/setup-tam/issue-a-license.md)
-         + [Permissões](product-docs/target-account-management/setup-tam/permissions.md)
-         + [Pontuação de contas](product-docs/target-account-management/setup-tam/account-score.md)
-         + [Configuração da equipe de conta](product-docs/target-account-management/setup-tam/account-team-setup.md)
-         + [Criar um campo personalizado para a descoberta do CRM](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
-         + [Configurar Insight da conta](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
-         + [Visão geral do plug-in Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
-         + [Convidar usuários para acessar o Insight da conta](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Destino {#target}
-         + Contas nomeadas {#named-accounts}
-            + [Visão geral da conta nomeada](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
-            + [Importar contas nomeadas](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
-            + [Adicionar uma conta nomeada existente a uma lista de contas](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [Criar uma conta nomeada](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
-            + [Adicionar pessoas a uma conta nomeada](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
-            + [Contas do Discover](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
-            + [Lead para a correspondência da conta](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
-            + [Filtragem em contas nomeadas](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
-            + [Excluir uma conta nomeada](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
-            + [Hierarquias de TAM](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
-            + [Criar uma hierarquia](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
-         + [Listas de contas](product-docs/target-account-management/target/account-lists.md)
-         + [Listas inteligentes de contas](product-docs/target-account-management/target/account-smart-lists.md)
-         + [Criar um público-alvo compatível com a conta no LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
-      + Mobilizar {#engage}
-         + [Filtros de conta](product-docs/target-account-management/engage/account-filters.md)
-         + [Acionadores da conta](product-docs/target-account-management/engage/account-triggers.md)
-      + Medir {#measure}
-         + [Painel principal do TAM](product-docs/target-account-management/measure/tam-main-dashboard.md)
-         + [Configuração de Relatório de TAM](product-docs/target-account-management/measure/tam-report-setup.md)
-         + [Relatório de Vendas TAM](product-docs/target-account-management/measure/tam-sales-report.md)
-         + [Insights da lista de contas](product-docs/target-account-management/measure/account-list-insights.md)
-         + [Dimension de Conta Nomeada no RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
-         + [Insights de conta nomeados](product-docs/target-account-management/measure/named-account-insights.md)
-         + [Uso de personas](product-docs/target-account-management/using-personas.md)
-      + Criação de perfis de contas {#account-profiling}
-         + [Configuração do perfil da conta](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
-         + [Classificação e ajuste do perfil da conta](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
-         + [Nova Detecção de Contas](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Aplicativos adicionais {#additional-apps}
       + SEO {#seo}
          + Noções básicas sobre a SEO {#understanding-seo}
@@ -235,6 +192,7 @@ ht-degree: 5%
          + [Ativar ou desativar recursos do tesouro](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Ativar URLs personalizados para sua conta (Administração)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [Como bloquear envios de formulários de spam](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
+         + [Cabeçalhos de página de aterrissagem](product-docs/administration/settings/landing-page-headers.md)
          + [Restringir logons do Marketo com base em IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Selecione seu idioma, local e fuso horário](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Definir uma página de fallback](product-docs/administration/settings/set-a-fallback-page.md)
@@ -1665,6 +1623,49 @@ ht-degree: 5%
             + Organizadores de campo {#field-organizers}
                + [Uso de Organizadores de Campo](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
                + [Criar grupos de campos personalizados usando o Organizador de campos](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+   + Gerenciamento de contas de destino {#target-account-management}
+      + Configuração {#setup}
+         + [Visão geral do gerenciamento de contas do Target](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
+         + [Introdução ao TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
+         + [Emitir uma licença](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [Permissões](product-docs/target-account-management/setup-tam/permissions.md)
+         + [Pontuação de contas](product-docs/target-account-management/setup-tam/account-score.md)
+         + [Configuração da equipe de conta](product-docs/target-account-management/setup-tam/account-team-setup.md)
+         + [Criar um campo personalizado para a descoberta do CRM](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
+         + [Configurar Insight da conta](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [Visão geral do plug-in Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [Convidar usuários para acessar o Insight da conta](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
+      + Destino {#target}
+         + Contas nomeadas {#named-accounts}
+            + [Visão geral da conta nomeada](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+            + [Importar contas nomeadas](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+            + [Adicionar uma conta nomeada existente a uma lista de contas](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+            + [Criar uma conta nomeada](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [Adicionar pessoas a uma conta nomeada](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Contas do Discover](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [Lead para a correspondência da conta](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [Filtragem em contas nomeadas](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [Excluir uma conta nomeada](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [Hierarquias de TAM](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
+            + [Criar uma hierarquia](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
+         + [Listas de contas](product-docs/target-account-management/target/account-lists.md)
+         + [Listas inteligentes de contas](product-docs/target-account-management/target/account-smart-lists.md)
+         + [Criar um público-alvo compatível com a conta no LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
+      + Mobilizar {#engage}
+         + [Filtros de conta](product-docs/target-account-management/engage/account-filters.md)
+         + [Acionadores da conta](product-docs/target-account-management/engage/account-triggers.md)
+      + Medir {#measure}
+         + [Painel principal do TAM](product-docs/target-account-management/measure/tam-main-dashboard.md)
+         + [Configuração de Relatório de TAM](product-docs/target-account-management/measure/tam-report-setup.md)
+         + [Relatório de Vendas TAM](product-docs/target-account-management/measure/tam-sales-report.md)
+         + [Insights da lista de contas](product-docs/target-account-management/measure/account-list-insights.md)
+         + [Dimension de Conta Nomeada no RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [Insights de conta nomeados](product-docs/target-account-management/measure/named-account-insights.md)
+         + [Uso de personas](product-docs/target-account-management/using-personas.md)
+      + Criação de perfis de contas {#account-profiling}
+         + [Configuração do perfil da conta](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+         + [Classificação e ajuste do perfil da conta](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+         + [Nova Detecção de Contas](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Personalização na Web {#web-personalization}
       + Marketing da Web baseado em conta {#account-based-web-marketing}
          + [Marketing da Web baseado em conta com TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
