@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1039'
 ht-degree: 2%
 
 ---
@@ -87,3 +87,7 @@ Os clientes do Marketo Engage que também usam o Adobe Experience Platform (AEP)
 * **Caixa de diálogo Convidar usuário para logon**: Em março, o recurso existente e opcional &quot;Logon na caixa de diálogo de usuário do convite&quot; ficará obsoleto. O recurso &quot;Logon no caixa de diálogo Convidar usuário&quot; é substituído pelo recurso Universal ID, que é necessário para a próxima integração de sistema do Adobe Identity Management e foi ativado em agosto de 2021 em todas as assinaturas. Como resultado da descontinuação, o Marketo Engage aplicará somente um usuário a ser associado por endereço de email em uma assinatura.
 
 **Domínios do Marketo Engage - Configuração do Sales Insight**: Para domínios Marketo Engage que não têm certificado SSL provisionado e https://, as chamadas falharão com um erro de handshake SSL. Portanto, esses domínios serão encerrados. Como resultado, os usuários do Sales Insight com uma configuração mais antiga apontando para qualquer um desses domínios podem encontrar erros de chamada do sistema em sua página Principal, Contato, Conta, Painéis de Oportunidade ou Marketo Global. Recomendamos que você atualize seu [Configuração do Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) no Salesforce se encontrar esse erro. Você só precisa atualizar as credenciais do Marketo Engage destacadas na seção &quot;Configuração do Marketo Sales Insight&quot; do documento.
+
+**_Webinar da versão do produto_**
+
+Junte-se a nós em 27 de janeiro de 2022, às 9h PT / 12h ET por um [webinário ao vivo](https://engage.marketo.com/2022_January_Release_Webinar_RegistrationPage.html) hospedado pela nossa equipe de produtos, onde você pode aprender a usar todas as inovações de produtos mais recentes.
