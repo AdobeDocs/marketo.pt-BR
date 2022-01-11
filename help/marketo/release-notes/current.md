@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '999'
 ht-degree: 2%
 
 ---
@@ -27,8 +27,6 @@ Os seguintes recursos serão lançados em **21 de janeiro de 2022**.
 
    * Detalhes do ativo da página de aterrissagem no Design Studio
    * Detalhes do ativo da página de aterrissagem nas atividades de marketing
-
-* **Controle de administrador para o switch de alternância de experiência de última geração**: Os administradores têm a capacidade de selecionar quais tipos de usuários podem acessar o switch de alternância para exibir telas na experiência da próxima geração.
 
 ## Integração do Microsoft Dynamics {#microsoft-dynamics-integration}
 

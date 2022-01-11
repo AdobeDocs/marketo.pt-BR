@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 921c3279b53bc18ac753b1e3f0672a70fe11abe7
+source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
 workflow-type: tm+mt
-source-wordcount: '8255'
+source-wordcount: '8259'
 ht-degree: 5%
 
 ---
@@ -191,6 +191,7 @@ ht-degree: 5%
          + [Editar configurações de assinatura](product-docs/administration/settings/edit-subscription-settings.md)
          + [Ativar ou desativar recursos do tesouro](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Ativar URLs personalizados para sua conta (Administração)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [Regras globais de validação de formulário](product-docs/administration/settings/global-form-validation-rules.md)
          + [Como bloquear envios de formulários de spam](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [Cabeçalhos de página de aterrissagem](product-docs/administration/settings/landing-page-headers.md)
          + [Restringir logons do Marketo com base em IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
