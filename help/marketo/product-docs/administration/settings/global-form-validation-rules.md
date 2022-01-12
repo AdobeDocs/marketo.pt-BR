@@ -3,9 +3,10 @@ description: Regras globais de validação de formulário - Documentos do Market
 title: Regras globais de validação de formulário
 hide: true
 hidefromtoc: true
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -20,46 +21,46 @@ Antes de utilizar esse recurso, é necessário habilitar a permissão de acordo 
 
 1. No Marketo, clique em **Administrador**.
 
-PICC
+   ![](assets/global-form-validation-rules-1.png)
 
 1. Clique em **Usuários e funções**.
 
-PICC
+   ![](assets/global-form-validation-rules-2.png)
 
 1. Clique no botão **Funções** guia .
 
-PICC
+   ![](assets/global-form-validation-rules-3.png)
 
 1. Clique duas vezes na função para a qual deseja conceder permissões.
 
-PICC
+   PICC
 
 1. Clique no botão **+** assine ao lado de Administrador de acesso.
 
-PICC
+   PICC
 
 1. Role para baixo e selecione **Acessar regras de validação de formulário** e clique em **Salvar**.
 
-PICC
+   PICC
 
 ## Criar nova regra de validação de formulário {#create-new-form-validation-rule}
 
 1. No Marketo, clique em **Administrador**.
 
-PICC
+   ![](assets/global-form-validation-rules-7.png)
 
 1. Clique em **Regra de validação de formulário global**.
 
-PICC
+   ![](assets/global-form-validation-rules-8.png)
 
 1. Clique em **Nova regra de validação de formulário**.
 
-PICC
+   ![](assets/global-form-validation-rules-9.png)
+
+   >[!NOTE]
+   >
+   >A lista suspensa Ações da regra de validação de formulário permite excluir ou editar regras existentes.
 
 1. Nomeie sua regra, forneça uma descrição opcional e insira a mensagem de erro que deseja que os visitantes do formulário vejam. Digite os domínios que deseja bloquear na caixa de regras e selecione **Ativar regra** e clique em **Criar**.
 
-PICC
-
->[!NOTE]
->
->A lista suspensa Ações da regra de validação de formulário permite excluir ou editar regras existentes.
+   ![](assets/global-form-validation-rules-10.png)
