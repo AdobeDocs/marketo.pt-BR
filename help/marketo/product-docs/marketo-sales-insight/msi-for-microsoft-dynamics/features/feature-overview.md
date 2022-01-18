@@ -3,9 +3,9 @@ unique-page-id: 37357043
 description: Visão geral dos recursos - Documentação do Marketo - Documentação do produto
 title: Visão geral dos recursos
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '195'
 ht-degree: 30%
 
 ---
@@ -64,7 +64,15 @@ Os seguintes recursos estão disponíveis na nova MSI MSD Solution.
 * Adicionar à campanha do Marketo
 * Enviar e-mail do Marketo
 
-## Página Melhores Melhores Opções do Marketo  {#marketo-best-bets-page}
+## Painel Marketo Sales Insight no layout da conta {#marketo-sales-insight-panel-in-account-layout}
+
+* Estrelas e chamas
+* Momento interessante
+* Atividade na Web
+* Pontuação
+* Email (abra e clique)
+
+## Página Melhores Melhores Opções do Marketo {#marketo-best-bets-page}
 
 * Prioridade (estrelas e chamas)
 * Nome (Hipervinculado à página Lead/Contato)
