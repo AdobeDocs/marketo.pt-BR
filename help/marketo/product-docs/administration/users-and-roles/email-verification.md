@@ -4,21 +4,34 @@ title: Verificação de email
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 # Verificação de email {#email-verification}
 
-Eu acho que você disse que faremos apenas uma nova página que cubra a verificação de email para usuários
+As assinaturas do Adobe Marketo Engage exigem que todos os usuários que não usam API somente verifiquem seu endereço de email. Os usuários de Logon único (SSO) terão seu email verificado automaticamente quando sua assinatura for habilitada com a Verificação de email.
 
-Convite de usuário Quando um administrador convida um usuário, nenhuma alteração na interface ou na experiência do usuário Quando o usuário clica no link de convite, seu email é verificado automaticamente. Os usuários com SSO são verificados automaticamente
+**Convite de usuário**
 
-A tela da conta do usuário mostra o endereço de email como verificado Quando o endereço de email é atualizado, a interface do usuário reflete que o email da conta não foi verificado e o email é enviado (consulte o email anexado)
+Quando um Administrador convida um usuário, ele é verificado automaticamente assim que ele clicar no link do convite. Os usuários com SSO são verificados automaticamente.
 
-Admin - Página Usuários e funções Nova coluna mostrando o status de Verificação de um botão Novo do usuário para acionar a verificação de email para o usuário novamente
+**Alterar um endereço de email**
 
-MyMarketo Quando um usuário com email não verificado faz logon, ele deve ver um banner na página Meu Marketo (SOMENTE).
+Quando o endereço de email de um usuário é alterado, ele se torna não verificado. Um email será enviado para eles permitindo a verificação novamente. Os administradores podem reenviar manualmente esse email clicando em **Reenviar verificação**.
+
+![](assets/email-verification-1.png)
+
+![](assets/email-verification-2.png)
+
+**Usuários e funções**
+
+Em Admin > Usuários e funções, a coluna Status de email mostra o status de verificação de cada usuário.
+
+![](assets/email-verification-3.png)
+
+Para verificar um usuário não verificado, basta selecionar seu registro e clicar no botão **Verificar Email** botão.
+
