@@ -3,9 +3,9 @@ description: Clone de push - Documentação do Marketo - Documentação do produ
 title: Push Clone
 hide: true
 hidefromtoc: true
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 >
 >* [Criar um usuário de API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) no Marketo.
 >* Em seguida, vá para **Administrador** > **Launchpoint**. Encontre o nome da função que acabou de criar e clique em **Exibir detalhes**. Copie e salve as informações em **ID do cliente** e **Segredo do cliente**, pois será necessário para esse recurso.
+>* No Marketo, crie uma lista estática ou localize e selecione uma que já tenha criado. Você precisará da ID dele.
 
 
 1. Faça logon em [Adobe Experience Platform](https://experience.adobe.com/).
@@ -53,15 +54,13 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-Em seguida, você terá que escolher se deseja corresponder somente às pessoas existentes do Marketo ou corresponder às pessoas existentes do Marketo e criar as pessoas desaparecidas no Marketo. Abaixo estão as seções que descrevem como fazer cada uma.
-
-## Corresponder pessoas existentes do Marketo e criar pessoas ausentes no Marketo {#match-existing-marketo-people-create-missing-people}
-
-Depois de seguir as Etapas 1 a 8 acima...
-
-1. Inserir um destino **Nome** e uma Descrição opcional. Clique no menu suspenso Criação de pessoas e selecione **Corresponder pessoas existentes do Marketo e criar pessoas ausentes no Marketo**.
+1. Inserir um destino **Nome** e uma Descrição opcional. Clique no menu suspenso Criação de pessoa e escolha &quot;Corresponder pessoas existentes do Marketo e Criar pessoas ausentes no Marketo&quot; _ou_ &quot;Corresponder Apenas Às Pessoas Existentes Do Marketo.&quot; Neste exemplo, estamos escolhendo o primeiro.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
+
+   >[!NOTE]
+   >
+   >Se você escolher &quot;Corresponder somente pessoas existentes do Marketo&quot;, será necessário mapear o Email e/ou a ECID para que seja possível ignorar as Etapas 13 a 16.
 
 1. Esta seção é opcional. Clique em **Criar** para ignorar.
 
@@ -87,7 +86,7 @@ Depois de seguir as Etapas 1 a 8 acima...
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
-1. Mapeie o sobrenome e o nome da empresa clicando em **Adicionar novo mapeamento** novamente e repetindo a Etapa 7 duas vezes, escolhendo lastName e, em seguida, companyName.
+1. Mapeie o sobrenome e o nome da empresa clicando em **Adicionar novo mapeamento** novamente e repetindo a Etapa 15 duas vezes, escolhendo **lastName** e depois **companyName**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
@@ -111,26 +110,34 @@ Depois de seguir as Etapas 1 a 8 acima...
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-MORREEEE
+1. Para escolher o campo de origem Nome da empresa , clique no ícone do cursor na linha.
 
-## Corresponder apenas a pessoas existentes do Marketo {#match-existing-marketo-people-only}
+   ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
->[!NOTE]
->
->As identidades são usadas para procurar correspondências no Marketo. Se uma correspondência for encontrada, a pessoa será adicionada à Lista estática. Se uma correspondência não for encontrada, essas pessoas serão descartadas (ou seja, não serão criadas no Marketo).
+1. Deixe o botão de opção Selecionar atributo marcado. Procure por &quot;empresa&quot; e selecione **companyName**, depois clique em **Selecionar**.
 
-1. _No Marketo_, crie uma lista estática ou localize e selecione uma que já tenha criado. Copie a ID de mapeamento do final do URL.
+   ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-PICC
+1. Mapeie os campos de origem para Sobrenome e Nome clicando no ícone de cursor para cada um e repetindo a Etapa 23 duas vezes, escolhendo **lastName** e depois **firstName**.
 
->[!NOTE]
->
->Para obter melhores resultados, verifique se a lista referenciada no Marketo está vazia.
+   ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. De volta ao Adobe Experience Platform, insira a ID que você acabou de copiar. Escolha a Data de início. As pessoas sincronizarão continuamente até a data de término escolhida. Para uma sincronização indefinida, deixe a data final em branco. Clique em **Próximo** quando concluído.
+1. Clique em **Próximo**.
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Confirme suas alterações e clique em **Concluir**.
+1. Agora, será necessário a ID da lista. Clique na guia no navegador que tem a lista estática do Marketo aberta (ou abra uma nova guia e selecione a lista estática desejada).
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+1. Realce e copie a ID da lista no final do URL.
+
+   ![](assets/push-an-adobe-experience-platform-segment-27.png)
+
+1. Cole a ID que acabou de copiar em ID de mapeamento e clique em **Próximo**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-28.png)
+
+1. Clique em **Concluir**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-29.png)
