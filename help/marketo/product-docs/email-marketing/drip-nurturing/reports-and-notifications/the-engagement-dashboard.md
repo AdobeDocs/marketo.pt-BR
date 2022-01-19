@@ -1,55 +1,54 @@
 ---
 unique-page-id: 2359685
-description: O Painel de envolvimento - Documentos do marketing - Documentação do produto
-title: O Painel de envolvimento
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: O Painel de engajamento - Documentos do Marketo - Documentação do produto
+title: O painel Envolvimento
+exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
+source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
+# O painel Envolvimento {#the-engagement-dashboard}
 
-# O Painel Envolvimento {#the-engagement-dashboard}
-
-O Painel Envolvimento é a maneira mais fácil de ver como o conteúdo em seu programa de envolvimento está se saindo.
+O Painel de engajamento é a maneira mais fácil de ver o desempenho do conteúdo em seu programa de engajamento.
 
 >[!NOTE]
 >
->A pontuação de envolvimento é calculada 72 horas após cada conversão. Saiba mais sobre a [pontuação de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>A pontuação de engajamento inclui dados dos três últimos casts. Um novo é calculado 72 horas após cada conversão. Saiba mais sobre o [pontuação de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-## Visualização do Painel Envolvimento {#view-the-engagement-dashboard}
+## Exibir o painel Envolvimento {#view-the-engagement-dashboard}
 
-Selecione seu programa de envolvimento e clique em **Visualização** > **Painel**.
+Selecione seu programa de envolvimento e clique em **Exibir** > **Painel**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Consulte o [relatório de desempenho de fluxo de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) para obter estatísticas mais detalhadas.
+>Confira o [relatório de desempenho de fluxo de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) para obter estatísticas mais detalhadas.
 
-## Entenda o Widget de exaustão {#understand-the-exhaustion-widget}
+## Entender o widget de expiração {#understand-the-exhaustion-widget}
 
-Este widget ajuda você a antecipar quando os clientes em potencial terão esgotado todo o conteúdo. A pontuação de exaustão é calculada imediatamente após cada elenco. O exemplo abaixo mostra que em 1 cast, 195 clientes potenciais terão esgotado todo o conteúdo.
+Este widget ajuda a antecipar quando os leads esgotarão todo o conteúdo. A pontuação de esgotamento é calculada imediatamente após cada conversão. O exemplo abaixo mostra que em 1 conversão, 195 leads terão esgotado todo o conteúdo.
 
 ![](assets/image2014-9-15-16-3a45-3a10.png)
 
 >[!NOTE]
 >
->Você deve acessar a guia Configuração e verificar se as Notificações de conteúdo esgotadas estão **Ativadas** para ver o gráfico acima. Se estiverem fora, o gráfico parecerá diferente.
+>Você deve acessar a guia Configuração e verificar se as notificações de conteúdo esgotado estão **Ligado** para ver o gráfico acima. Se estiverem desligados, o gráfico terá uma aparência diferente.
 
 >[!CAUTION]
 >
 >As pessoas que estão &quot;exaustas&quot; não receberão nenhuma comunicação no próximo elenco.
 
-## Entenda o Widget Envolvimento ao longo do tempo {#understand-the-engagement-over-time-widget}
+## Entender o dispositivo Envolvimento ao longo do tempo {#understand-the-engagement-over-time-widget}
 
-Mostra a pontuação de envolvimento média ao longo do tempo e o impacto das edições de conteúdo.
+Mostra a pontuação de engajamento média ao longo do tempo e o impacto das edições de conteúdo.
 
 >[!AVAILABILITY]
 >
->Este recurso está disponível como um complemento para clientes que utilizam o Explorador do Ciclo de Receita do Marketo. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
+>Esse recurso está disponível como um complemento para clientes que utilizam o Marketo Revenue Cycle Explorer. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 
@@ -57,9 +56,9 @@ Para mostrar um único conteúdo em vez de uma média, clique no ícone de engre
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## Entenda o Widget de maior envolvimento {#understand-the-highest-engagement-widget}
+## Entender o widget de maior engajamento {#understand-the-highest-engagement-widget}
 
-Uma lista de todo o conteúdo, ordenada pela pontuação de envolvimento mais alta.
+Uma lista de todo o conteúdo, ordenada pela pontuação de engajamento mais alta.
 
 ![](assets/image2014-9-15-16-3a46-3a54.png)
 
@@ -67,8 +66,8 @@ Para alterar a classificação, clique no ícone de engrenagem e selecione a ord
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-__ Novo e  __ Oldestare com base na hora da última aprovação.
+_Mais recentes_ e _Mais antigo_ são baseados na hora da última aprovação.
 
 >[!NOTE]
 >
->Saiba mais no mergulho profundo [Crie um Programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md).
+>Saiba mais na [Criar um programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) mergulho profundo.
