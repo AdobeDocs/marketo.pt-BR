@@ -3,9 +3,9 @@ description: Clone de push - Documentação do Marketo - Documentação do produ
 title: Push Clone
 hide: true
 hidefromtoc: true
-source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
+source-git-commit: 58b9589e5364584c3b2f41dc1a32496a18574429
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
+   >[!NOTE]
+   >
+   >Se você estiver escolhendo Nova conta, poderá encontrar sua ID do Munchkin acessando **Administrador** > **Munchkin** (também faz parte do URL do Marketo depois de conectado). ID do cliente/Segredo é necessário seguir os pré-requisitos na parte superior deste artigo.
+
 1. Escolha a conta de destino e clique em **Selecionar**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
@@ -73,6 +77,10 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 1. Escolha o segmento que deseja enviar para o Marketo e clique em **Próximo**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
+
+   >[!NOTE]
+   >
+   >Caso escolha vários segmentos, será necessário mapear cada segmento para uma lista estática especificada na guia Agendamento de segmento.
 
 1. Clique em **Adicionar novo mapeamento**.
 
@@ -102,6 +110,10 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
+   >[!IMPORTANT]
+   >
+   >Mapeamento de email e/ou ECID do **Namespace de identidade** A guia é a coisa mais importante a se fazer para garantir que a pessoa seja comparada no Marketo. Mapear email garantirá a maior taxa de correspondência.
+
 1. Agora é hora de escolher os campos de origem. Para email, clique no ícone do cursor.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
@@ -129,6 +141,10 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 1. Agora, será necessário a ID da lista. Clique na guia no navegador que tem a lista estática do Marketo aberta (ou abra uma nova guia e selecione a lista estática desejada).
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+   >[!NOTE]
+   >
+   >Para obter melhores resultados, use uma lista Marketo Engage vazia.
 
 1. Realce e copie a ID da lista no final do URL.
 
