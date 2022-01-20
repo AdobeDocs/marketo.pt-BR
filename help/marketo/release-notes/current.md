@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1055'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ Os seguintes recursos estão incluídos na versão de 22 de janeiro. Verifique s
 
 **_Versões trimestrais_**
 
-Os seguintes recursos serão lançados em **21 de janeiro de 2022**.
+Os seguintes recursos começarão a ser lançados em **21 de janeiro de 2022**, com uma implantação em fases de cada recurso na semana seguinte (salvo indicação em contrário).
 
 ## Experiência da próxima geração {#next-generation-experience}
 

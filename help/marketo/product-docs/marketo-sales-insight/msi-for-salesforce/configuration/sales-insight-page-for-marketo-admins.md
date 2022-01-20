@@ -1,19 +1,18 @@
 ---
 unique-page-id: 42762409
-description: Página de informações de vendas para administradores do Marketo - Documentos do Marketo - Documentação do produto
-title: Página de informações de vendas para administradores de marketing
-translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+description: Página de informações de vendas para administradores da Marketo - Documentos da Marketo - Documentação do produto
+title: Página de informações de vendas para administradores do Marketo
+exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 0%
+source-wordcount: '417'
+ht-degree: 3%
 
 ---
 
-
 # Página de informações de vendas para administradores do Marketo {#sales-insight-page-for-marketo-admins}
 
-Os administradores do Marketo têm determinados privilégios no Sales Insight. Saiba o que estão abaixo.
+Os administradores da Marketo têm determinados privilégios no Sales Insight. Saiba o que estão abaixo.
 
 ## Configuração da API Soap {#soap-api-configuration}
 
@@ -21,15 +20,11 @@ Essas credenciais são usadas para conectar sua conta do Salesforce à instânci
 
 ![](assets/one-1.png)
 
-## Restante a configuração da API {#rest-api-configuration}
+## Configuração da API Restante {#rest-api-configuration}
 
-Essas credenciais são usadas para conectar sua conta do Salesforce à instância do Marketo, a fim de usar o Painel do MSI Insights no Salesforce.
+Essas credenciais são usadas para conectar sua conta do Salesforce à instância do Marketo, para usar o Painel do MSI Insights no Salesforce.
 
 ![](assets/two-1.png)
-
-Você pode optar por remover as credenciais da Rest API no SFDC e usar somente as APIs Soap. Isso desativará o painel do Insights
-
-![](assets/three-1.png)
 
 ## Configurações de pontuação da pessoa {#person-score-settings}
 
@@ -38,11 +33,11 @@ Você pode optar por remover as credenciais da Rest API no SFDC e usar somente a
 
 Por padrão, o Marketo Sales Insight usa o campo Pontuação de lead para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
 
-1. Na área **Admin** do Marketo, clique em **Sales Insight**.
+1. No **Administrador** área do Marketo, clique em **Insight de vendas**.
 
    ![](assets/four.png)
 
-1. Em Configurações de pontuação de lead, clique em **Editar**.
+1. Em Configurações de pontuação de lead , clique em **Editar**.
 
    ![](assets/five.png)
 
@@ -70,7 +65,7 @@ Por padrão, o Marketo Sales Insight usa o campo Pontuação de lead para calcul
 
 ![](assets/nine.png)
 
-**Configurações de cancelamento de assinatura:**
+**Configurações de cancelamento de inscrição:**
 
 Você pode escolher entre as seguintes configurações de cancelamento de inscrição para Sem modelo, Emails padrão e emails operacionais
 
@@ -79,7 +74,7 @@ Você pode escolher entre as seguintes configurações de cancelamento de inscri
 * Respeitar configurações de cancelamento de inscrição quando mais de 5 recipients
 * Ignorar configurações de cancelamento de inscrição
 
-**Habilitar a capacidade de bloquear modelos:**
+**Ativar possibilidade de bloquear modelos:**
 
 Quando ativado, os usuários do MSI não poderão editar modelos ao enviar emails do Salesforce
 
@@ -89,7 +84,7 @@ Quando ativados, os usuários do MSI podem visualizar seu Feed de lead em um fee
 
 **Expiração do token:**
 
-A Expiração de token é controlada no Gerenciador de recursos. Para ativá-lo/desativá-lo, entre em contato com o [Suporte do Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Quando ativados, todos os tokens do Marketo expiram em 10 minutos. Quando desativados, os tokens do Marketo não expirarão.
+A Expiração de token é controlada no Gerenciador de recursos. Para ativá-lo/desativá-lo, entre em contato com [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Quando ativados, todos os tokens do Marketo expiram em 10 minutos. Quando desativados, os tokens do Marketo não expirarão.
 
 Os tokens gerados antes de habilitar a Expiração do token não terão um tempo de expiração para validar, portanto, não expirarão mesmo se o recurso estiver habilitado no momento.
 
