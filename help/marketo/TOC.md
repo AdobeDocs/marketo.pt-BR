@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: f5b755fb31aed9ddf03204502ad9bb8f79546bca
 workflow-type: tm+mt
 source-wordcount: '8254'
 ht-degree: 5%
@@ -1331,6 +1331,7 @@ ht-degree: 5%
          + Configuração {#configuration}
             + [Adicionar botões de ação em massa ao Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Adicionar a guia Marketo ao Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+            + [Ações em massa no Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
             + [Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Configurar o Marketo Sales Insight no Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [Configuração para clientes existentes](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
@@ -1347,7 +1348,6 @@ ht-degree: 5%
                + [Publicar um email no Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Enviar um email de teste](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Ações em massa {#bulk-actions}
-               + [Ações em massa no Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [Enviar um email para vários registros no Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Suporte de idiomas {#language-support}
                + [Preparar informações de vendas para suporte multilíngue no Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
