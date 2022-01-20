@@ -4,9 +4,9 @@ title: Resultados da chamada
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c4bee632b1099f135cd4f7f0553a1d60dd4986cc
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,10 @@ Permitir que suas equipes de vendas selecionem resultados de chamadas ao fazer c
    ![](assets/call-outcomes-4.png)
 
 ## Criar resultados de chamada {#create-call-outcomes}
+
+>[!NOTE]
+>
+>Você pode criar no máximo 15 Resultados da chamada.
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
