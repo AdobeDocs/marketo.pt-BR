@@ -1,47 +1,46 @@
 ---
 unique-page-id: 5472672
-description: Enviar um e-mail para vários registros no Marketing Insight Sales - Documentos do Marketing Cloud - Documentação do produto
-title: Enviar um email para vários registros no Marketing Insight de vendas
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Enviar um email para vários registros no Marketo Sales Insight - Documentos da Marketo - Documentação do produto
+title: Enviar um email para vários registros no Marketo Sales Insight
+exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
+source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
+# Enviar um email para vários registros no Marketo Sales Insight {#send-an-email-to-multiple-records-in-marketo-sales-insight}
 
-# Enviar um e-mail para vários registros no Marketing Cloud Sales Insight {#send-an-email-to-multiple-records-in-marketo-sales-insight}
-
-É muito fácil enviar um email de marketing para várias pessoas usando o Marketing Insight de vendas. Vamos começar.
+É muito fácil enviar um email do Marketo para várias pessoas usando o Marketo Sales Insight. Vamos começar.
 
 1. No Salesforce, clique em **Clientes potenciais** ou **Contatos**.
 
    ![](assets/image2015-6-1-14-3a40-3a35.png)
 
-1. Clique em **Ir** para visualização de todos os clientes potenciais abertos.
+1. Clique em **Ir** para exibir todos os leads abertos.
 
    ![](assets/image2015-6-1-14-3a41-3a42.png)
 
-1. Na visualização da lista, verifique todos os clientes potenciais/contatos para os quais deseja enviar e-mail e clique em **Enviar e-mail para o Marketing (clássico)**.
+1. Na exibição de lista, verifique todos os leads/contatos para os quais deseja enviar email e clique em **Enviar email do Marketo (clássico)**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Se você estiver usando o Salesforce Lightning, o botão dirá **Enviar e-mail para o Marketo (relâmpago)**.
+   >Se você estiver usando o Salesforce Lightning, o botão dirá **Enviar Email do Marketo (relâmpago)**.
 
    >[!TIP]
    >
-   >Não vê o botão? Certifique-se de que [adicionou os Botões de marketing à visualização da lista](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
+   >Não vê o botão? Certifique-se de que você [adição dos botões Marketo à exibição de lista](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
 
-1. Vá em frente e componha seu e-mail. Clique em **Enviar com Marketo** quando terminar.
+1. Vá em frente e escreva seu email. Clique em **Enviar com o Marketo** quando terminar.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Você pode [publicar emails no Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) e escolher entre esses emails.
+   >Você pode [publicar email no Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) e escolha entre esses emails.
 
    >[!NOTE]
    >
