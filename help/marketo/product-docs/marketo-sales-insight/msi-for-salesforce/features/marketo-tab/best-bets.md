@@ -2,7 +2,7 @@
 description: Melhores vantagens - Documentação da Marketo - Documentação do produto
 title: Melhores opções
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 7%
@@ -37,6 +37,8 @@ Ao clicar no menu de dados na coluna Ações , é possível entrar em contato co
 * Exibir no Marketo
 * Adicionar à Lista de favoritos
 
+![](assets/best-bets-1.png)
+
 **Ações em massa**
 
 Você pode selecionar um ou mais leads ou contatos da página Melhores Melhores Melhores usando a caixa de seleção e acessá-los como um grupo usando as seguintes opções de envolvimento:
@@ -45,7 +47,7 @@ Você pode selecionar um ou mais leads ou contatos da página Melhores Melhores 
 * Adicionar à campanha do Marketo
 * Adicionar à Lista de favoritos
 
-![](assets/best-bets-1.png)
+![](assets/best-bets-2.png)
 
 >[!NOTE]
 >

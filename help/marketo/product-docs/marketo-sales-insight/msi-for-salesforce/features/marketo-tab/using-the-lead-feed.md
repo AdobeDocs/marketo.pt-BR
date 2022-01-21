@@ -1,33 +1,32 @@
 ---
 unique-page-id: 7512979
-description: Uso do feed principal - Documentos do marketing - Documentação do produto
-title: Uso do feed principal
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Uso do feed de informação privilegiada - Documentação da Marketo - Documentação do produto
+title: Usar o feed de informação privilegiada
+exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Usar o feed de informação privilegiada {#using-the-lead-feed}
 
-# Usando o feed principal {#using-the-lead-feed}
-
-O principal feed é uma lista de eventos interessantes atualizada feita pelos clientes potenciais. Você o encontrará no lado direito ao clicar na guia Marketo. É como um RSS ou feed do Twitter - as atualizações mais recentes estão no topo da lista. Use isto para saltar em pistas enquanto você ainda está fresco em suas mentes.
+O Feed de lead é uma lista atualizada de eventos interessantes feitos por seus leads. Você o encontrará no lado direito ao clicar na guia Marketo . É como um RSS ou feed do Twitter - as atualizações mais recentes estão no topo da lista. Use-o para saltar em leads enquanto você ainda está fresco em suas mentes.
 
 >[!NOTE]
 >
->O feed principal inclui tanto os clientes potenciais como os clientes potenciais na sua lista de relógio.
+>O feed de lead inclui os leads que você possui e os leads em sua lista de monitoramento.
 
-## O que há no feed principal? {#whats-in-the-lead-feed}
+## O que há no feed de informação privilegiada? {#whats-in-the-lead-feed}
 
-![](assets/one.png)
+![](assets/using-the-lead-feed-1.png)
 
-Cada item no feed principal é um momento interessante - uma atividade ou evento notável no histórico de marketing desse cliente potencial.
+Cada item no feed de lead é um momento interessante - uma atividade ou evento notável no histórico de marketing desse cliente potencial.
 
 Ao visualizá-lo no Salesforce, cada item tem:
 
-![](assets/two.png)
+![](assets/using-the-lead-feed-2.png)
 
 <table> 
  <colgroup> 
@@ -41,10 +40,10 @@ Ao visualizá-lo no Salesforce, cada item tem:
   </tr> 
   <tr> 
    <td><p>A. Cliente Potencial/Contato</p></td> 
-   <td><p>Pessoa que teve este momento interessante</p></td> 
+   <td><p>Pessoa que teve este interessante momento</p></td> 
   </tr> 
   <tr> 
-   <td><p>B. tipo de evento</p></td> 
+   <td><p>B. Tipo de evento</p></td> 
    <td><p>Categoria para este momento — Web, email ou marco</p></td> 
   </tr> 
   <tr> 
@@ -56,37 +55,37 @@ Ao visualizá-lo no Salesforce, cada item tem:
    <td><p>Quando esse interessante momento ocorreu</p></td> 
   </tr> 
   <tr> 
-   <td><p>E. Descrição do evento</p></td> 
-   <td><p>Razão para este momento interessante</p></td> 
+   <td><p>E. Descrição do Evento</p></td> 
+   <td><p>Razão para este interessante momento</p></td> 
   </tr> 
   <tr> 
    <td><p>F. Assinar</p></td> 
-   <td><p>Receber notificação por e-mail para eventos como este</p></td> 
+   <td><p>Receber notificação por email para eventos como este</p></td> 
   </tr> 
   <tr> 
-   <td><p>G. Estrela</p></td> 
-   <td><p>Esta pessoa é a Melhor Aposta (alta prioridade)</p></td> 
+   <td><p>G. Star</p></td> 
+   <td><p>Esta pessoa é a Melhor Proposta (alta prioridade)</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Obtendo atualizações de RSS {#getting-rss-updates}
 
-Você também pode obter atualizações do feed principal por feed RSS.  Um feed RSS permite que você receba atualizações em clientes potenciais, mesmo se você não estiver conectado ao Salesforce. O feed tem as mesmas informações que o feed principal no Salesforce, bem como as seguintes informações (quando disponíveis):
+Você também pode obter atualizações de lead feed por feed RSS.  Um feed RSS permite receber atualizações em seus leads, mesmo que você não esteja conectado ao Salesforce. O feed tem as mesmas informações que o feed de informação privilegiada no Salesforce, bem como as seguintes informações (quando disponível):
 
-* endereço de email
-* número de telefone
-* número de telefone celular
+* endereço de e-mail
+* telefone
+* número do celular
 * número de fax
-* Endereço da empresa
-* URL de empresa
+* endereço da empresa
+* URL da empresa
 
 >[!NOTE]
 >
->Seu administrador do empresa Marketo deve [ativar os feeds RSS](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) para que isso funcione.
+>O administrador do Marketo de sua empresa deve [ativar feeds RSS](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) para que isso funcione.
 
-Para obter atualizações de RSS, você precisará de duas coisas: o link RSS e um leitor de feed RSS. Você pode obter o link RSS clicando no ícone RSS no feed principal:
+Para obter atualizações de RSS, você precisará de duas coisas: o link RSS e um leitor de feed RSS. Você pode obter o link RSS clicando no ícone RSS no feed de lead:
 
-![](assets/three.png)
+![](assets/using-the-lead-feed-3.png)
 
-O feed RSS será exibido em uma nova janela. Em seguida, você pode copiar o URL do feed RSS e usá-lo em um leitor RSS. A maioria dos navegadores tem um leitor de RSS integrado ou você pode usar um leitor de RSS específico para a sua plataforma.
+O feed RSS aparecerá em uma nova janela. Em seguida, você pode copiar o URL do seu feed RSS e usá-lo em um leitor RSS. A maioria dos navegadores tem um leitor RSS integrado ou você pode usar um leitor RSS específico para a sua plataforma.

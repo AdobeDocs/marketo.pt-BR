@@ -3,7 +3,7 @@ unique-page-id: 7516390
 description: Instale o Pacote de informações de vendas da Marketo no Salesforce AppExchange - Documentos da Marketo - Documentação do produto
 title: Instalar o pacote de informações de vendas da Marketo no Salesforce AppExchange
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 1%
@@ -30,7 +30,7 @@ Você precisa instalar o aplicativo Marketo Sales Insight na assinatura do Sales
 
 1. Insira seu logon de conta do Salesforce conectado e clique em **Instalar em produção**.
 
-   ![](assets/three.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-2.png)
 
    >[!TIP]
    >
@@ -38,39 +38,39 @@ Você precisa instalar o aplicativo Marketo Sales Insight na assinatura do Sales
 
 1. Leia e aceite os termos e condições e clique em **Confirmar e instalar**.
 
-   ![](assets/four.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-3.png)
 
 1. Você pode optar por &quot;Instalar somente para administradores&quot; (e fornecer acesso MSI a perfis específicos posteriormente), &quot;Instalar para todos os usuários&quot; ou &quot;Instalar para perfis específicos&quot;.
 
-   ![](assets/five.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-4.png)
 
 1. Você poderá ver a seguinte mensagem ao iniciar o processo de instalação. Você receberá um email quando a instalação for concluída. Clique em **Concluído** para dispensar.
 
-   ![](assets/six.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-5.png)
 
 1. Verifique se **Insight sobre vendas da Marketo** está em Installed Packages (Pacotes instalados).
 
-   ![](assets/seven.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-6.png)
 
 1. Clique em **Configuração** ao lado do seu nome.
 
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-7.png)
 
 1. Procure por &quot;objetos&quot; e clique em **Objetos** under **Criar**.
 
-   ![](assets/image2015-5-22-14-3a42-3a7.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-8.png)
 
 1. Verifique novamente se **Implantado** está marcada para todos os itens do Marketo Sales Insight.
 
-   ![](assets/image2015-5-27-16-3a15-3a58.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-9.png)
 
 1. Se um objeto não estiver implantado, clique em **Editar** ao lado do item.
 
-   ![](assets/image2014-9-24-17-3a23-3a45.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-10.png)
 
 1. Em **Status da implantação** seção , selecione **Implantado** e clique em **Salvar**.
 
-   ![](assets/image2014-9-24-17-3a24-3a0.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-11.png)
 
 Muito bem! Agora você instalou e implantou o Marketo Sales Insight. Vá em frente e configure-o para sua equipe de vendas e veja o skyrocket de vendas.
 

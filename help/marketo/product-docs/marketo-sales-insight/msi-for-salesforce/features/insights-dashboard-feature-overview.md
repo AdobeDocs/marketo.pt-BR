@@ -3,7 +3,7 @@ unique-page-id: 42762514
 description: Visão geral de recursos do painel de insights - Documentos do Marketo - Documentação do produto
 title: Visão geral de recursos do painel do Insights
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Saiba mais sobre os recursos disponíveis no painel de insights de vendas.
 >
 >Você deve ter o pacote MSI SFDC mais recente e [configuração](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
-![](assets/one.png)
+![](assets/insights-dashboard-feature-overview-1.png)
 
 ## Layout do contato {#contact-layout}
 
@@ -48,7 +48,7 @@ Guia Campanhas de email :
 * O cartão de detalhes da atividade nesta seção terá uma opção de visualização. Se o fluxo incluir várias etapas de envio de email, todos os emails estarão disponíveis para visualização. Na etapa enviar fluxo de email , se houver várias &quot;opções de email&quot;, a opção padrão estará disponível para visualização
 * Os filtros incluem &quot;Pesquisa&quot; e &quot;Intervalo de datas&quot;
 
-![](assets/three.png)
+![](assets/insights-dashboard-feature-overview-2.png)
 
 Guia Evento:
 
@@ -59,7 +59,7 @@ Guia Evento:
 * O cartão de detalhes da atividade nesta seção tem a opção de visualização
 * O filtro inclui &quot;Pesquisa&quot;, &quot;Mostrar somente eventos convidados&quot; e &quot;Intervalo de datas&quot;
 
-![](assets/two.png)
+![](assets/insights-dashboard-feature-overview-3.png)
 
 ## Layout de lead {#lead-layout}
 
@@ -89,7 +89,7 @@ Guia Campanhas de email :
 * O cartão de detalhes da atividade nesta seção terá uma opção de visualização. Se o fluxo incluir várias etapas de envio de email, todos os emails estarão disponíveis para visualização. Na etapa enviar fluxo de email , se houver várias &quot;opções de email&quot;, a opção padrão estará disponível para visualização
 * Os filtros incluem &quot;Pesquisa&quot; e &quot;Intervalo de datas&quot;
 
-![](assets/five.png)
+![](assets/insights-dashboard-feature-overview-4.png)
 
 Guia Evento:
 
@@ -100,7 +100,7 @@ Guia Evento:
 * O cartão de detalhes da atividade nesta seção tem a opção de visualização
 * O filtro inclui &quot;Pesquisa&quot;, &quot;Mostrar somente eventos convidados&quot; e &quot;Intervalo de datas&quot;
 
-![](assets/four.png)
+![](assets/insights-dashboard-feature-overview-5.png)
 
 ## Layout da conta {#account-layout}
 
@@ -142,7 +142,7 @@ Guia Evento:
 
 **Grade da velocidade de envolvimento**
 
-* Essa grade inteligente inclui Momentos interessantes, Email e Atividade da Web nos últimos 90 dias para todos os contatos da Oportunidade
+* Essa grade inteligente inclui Momentos interessantes, Email e Atividade da Web nos últimos 90 dias para todos os contatos na Oportunidade
 * O usuário pode destacar uma semana específica para ver as atividades dentro dessa semana
 * Exibição padrão: A semana atual está selecionada
 
