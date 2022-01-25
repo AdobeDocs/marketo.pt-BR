@@ -2,11 +2,10 @@
 title: Visão geral
 description: Visão geral
 exl-id: 26684ca6-ea77-423f-9434-3fbfaf7ea3ab
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 3%
+source-wordcount: '70'
+ht-degree: 5%
 
 ---
 
@@ -14,7 +13,11 @@ ht-degree: 3%
 
 ![banner](/help/sky/assets/images/alt-sky-banner.png)
 
-A interface [!DNL Marketo Sky] utiliza novos designs, fluxos de trabalho e recursos para ajudá-lo a tirar maior proveito de [!DNL Marketo].
+O [!DNL Marketo Sky] A interface utiliza novos designs, fluxos de trabalho e recursos para ajudar você a aproveitar ao máximo [!DNL Marketo].
+
+>[!IMPORTANT]
+>
+>O Marketo Sky será descontinuado em março de 2022. [Saiba mais aqui](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33).
 
 ## Introdução
 

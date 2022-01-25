@@ -4,9 +4,9 @@ title: Regras globais de validação de formulário
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
+source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -68,3 +68,7 @@ Antes de utilizar esse recurso, é necessário habilitar a permissão de acordo 
 1. Nomeie sua regra, forneça uma descrição opcional e insira a mensagem de erro que deseja que os visitantes do formulário vejam. Digite os domínios que deseja bloquear na caixa de regras e selecione **Ativar regra** e clique em **Criar**.
 
    ![](assets/global-form-validation-rules-10.png)
+
+>[!NOTE]
+>
+>O Marketo Engage oferece uma lista de bloqueios definida de domínios de email gratuitos do consumidor que são bloqueados ao usar nossa regra pré-carregada de &quot;Lista de bloqueios de domínio de email do consumidor&quot;. [Veja essa lista aqui](https://experienceleague.adobe.com/docs/marketo/assets/freemaildomains.csv).
