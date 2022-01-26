@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
 workflow-type: tm+mt
-source-wordcount: '8252'
+source-wordcount: '8246'
 ht-degree: 5%
 
 ---
@@ -191,7 +191,6 @@ ht-degree: 5%
          + [Ativar ou desativar recursos do tesouro](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Ativar URLs personalizados para sua conta (Administração)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [Regras globais de validação de formulário](product-docs/administration/settings/global-form-validation-rules.md)
-         + [Como bloquear envios de formulários de spam](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [Cabeçalhos de página de aterrissagem](product-docs/administration/settings/landing-page-headers.md)
          + [Restringir logons do Marketo com base em IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Selecione seu idioma, local e fuso horário](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
@@ -1445,7 +1444,7 @@ ht-degree: 5%
             + [Prioridade da ordem de segmentação](product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)
             + [Como entender o conteúdo dinâmico](product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
             + [Usar filtros de segmento em uma Smart List](product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
-         + Blocos de conteúdo {#snippets}
+         + blocos de conteúdo {#snippets}
             + [Adicionar conteúdo a um trecho](product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
             + [Aprovar um trecho sem rascunho](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
             + [Aprovar um trecho](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
