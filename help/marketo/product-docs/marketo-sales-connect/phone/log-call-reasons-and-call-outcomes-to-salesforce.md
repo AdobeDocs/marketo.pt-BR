@@ -4,7 +4,7 @@ title: Motivos de chamada de registro e resultados de chamada para o Salesforce
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
 ### Criar campo de atividade personalizado no Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
 
-1. No Salesforce, clique em **Configuração**.
+1. No Salesforce, clique em **Configuração**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -70,7 +70,7 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 >
 >Você só precisará seguir essas etapas se não tiver selecionado o layout de página desejado na Etapa 9 acima.
 
-1. No Salesforce, clique em **Configuração**.
+1. No Salesforce, clique em **Configuração**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -110,11 +110,11 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Clique no botão **Atividade** rótulo.
+1. Clique no botão **Atividade** rótulo.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. Clique em **Campos e Relações**.
+1. Clique em **Campos e Relações**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
