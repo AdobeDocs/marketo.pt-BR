@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
+source-git-commit: b6360de280547ba0fa486da094c467853b442621
 workflow-type: tm+mt
-source-wordcount: '8246'
+source-wordcount: '8237'
 ht-degree: 5%
 
 ---
@@ -627,7 +627,7 @@ ht-degree: 5%
          + [Testar anúncios de lead da Facebook para integração móvel com o Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Noções básicas sobre conversões offline do Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Usar filtros e acionadores de anúncios de lead em uma campanha inteligente](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
-      + Formulários {#forms}
+      + formulários {#forms}
          + Criação de um formulário {#creating-a-form}
             + [Criar um formulário](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
             + [Adicionar um campo a um formulário](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
@@ -680,7 +680,7 @@ ht-degree: 5%
          + [Substituir uma imagem ou um arquivo carregado](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Pesquisar imagens e arquivos carregados](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Fazer upload de imagens e arquivos da caixa](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + Páginas {#landing-pages}
+      + páginas {#landing-pages}
          + Como entender as páginas de aterrissagem {#understanding-landing-pages}
             + [Aprovar, cancelar aprovação ou excluir uma página de aterrissagem](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Relatório de desempenho da página de aterrissagem](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
@@ -1199,7 +1199,6 @@ ht-degree: 5%
          + [Não fez logon no Histórico de atividades](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Não efetuou login no Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Ativar registro de chamada](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [Como personalizar o resultado da chamada no telefone de vendas](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
          + [Motivos de chamada de registro e resultados de chamada para o Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [Chamada Internacional de Telefone de Vendas](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Presença Local do Telefone de Vendas](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
