@@ -4,9 +4,9 @@ title: Visão geral do bate-papo dinâmico
 hide: true
 hidefromtoc: true
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 9ab6640ae30bd5ad653b5936a01ec3b0e19d595b
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ O Dynamic Chat permite que você aproveite uma interface fácil de usar para dir
 >[!NOTE]
 >
 >O Dynamic Chat está sendo lançado gradualmente e está atualmente em disponibilidade limitada. Esta página será atualizada com os detalhes de disponibilidade geral (GA) à medida que forem sendo disponibilizados.
+
+>[!TIP]
+>
+>Visita [esta página](https://dcweb.z20.web.core.windows.net/) para visualizar vídeos de tutoriais e uma demonstração gravada do Dynamic Chat.
 
 ## Integrações {#integrations}
 
