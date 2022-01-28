@@ -1,10 +1,8 @@
 ---
 description: Motivos de chamada de registro e resultados de chamada para o Salesforce - Documentos da Marketo - Documentação do produto
 title: Motivos de chamada de registro e resultados de chamada para o Salesforce
-hide: true
-hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -122,7 +120,7 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-## Adicionar campo de atividade personalizado ao layout da página de tarefa no Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### Adicionar campo de atividade personalizado ao layout da página de tarefa no Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
 1. No Salesforce, clique no ícone de engrenagem na parte superior direita e selecione **Configuração**.
 

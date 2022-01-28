@@ -1,10 +1,8 @@
 ---
 description: Sincronização de tarefas do lembrete com o Salesforce - Documentos do Marketo - Documentação do produto
 title: Sincronização de Tarefa de Lembrete com o Salesforce
-hide: true
-hidefromtoc: true
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
-source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 2%
