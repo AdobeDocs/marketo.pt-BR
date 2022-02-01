@@ -2,7 +2,7 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
+source-git-commit: 87410bcdc5f9ebb3b85765efe9fd852df4611ce6
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 2%
@@ -40,9 +40,9 @@ Os seguintes recursos começarão a ser lançados em **21 de janeiro de 2022**, 
 
 ## Administração {#administration}
 
-* **Regras de validação do formulário**: Mantenha a integridade do banco de dados com a capacidade de bloquear domínios de email problemáticos ou indesejáveis de enviar formulários Marketo Engage. O painel Regra de validação de formulário global permite que os administradores definam uma  lista de bloqueios ou habilitem uma lista predefinida de domínios de consumidores livres para bloquear formulários.
+* **[Regras de validação do formulário](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**: Mantenha a integridade do banco de dados com a capacidade de bloquear domínios de email problemáticos ou indesejáveis de enviar formulários Marketo Engage. O painel Regra de validação de formulário global permite que os administradores definam uma  lista de bloqueios ou habilitem uma lista predefinida de domínios de consumidores livres para bloquear formulários.
 
-* **Segurança do cabeçalho da página de aterrissagem**: Os administradores podem gerenciar cabeçalhos Strict Transport Security e X-Frame Options em seus domínios de página de aterrissagem para impor requisitos de segurança rigorosos.
+* **[Segurança do cabeçalho da página de aterrissagem](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**: Os administradores podem gerenciar cabeçalhos Strict Transport Security e X-Frame Options em seus domínios de página de aterrissagem para impor requisitos de segurança rigorosos.
 
 **_Lançamento em todo o trimestre_**
 
