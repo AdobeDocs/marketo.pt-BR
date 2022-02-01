@@ -2,9 +2,9 @@
 description: Alternar Switch - Documentos do Marketo - Documentação do produto
 title: Alternar Switch
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,20 @@ A exibição de lista da próxima geração da Landing page oferece filtros de p
 A nova experiência será carregada.
 
 ![](assets/toggle-switch-4.png)
+
+## Página de detalhes da página de aterrissagem {#landing-page-details-page}
+
+1. No Marketo, localize e selecione sua Landing page.
+
+   ![](assets/toggle-switch-5.png)
+
+1. Na parte inferior direita da página, clique no botão **Nova experiência** alternar.
+
+   ![](assets/toggle-switch-6.png)
+
+A nova experiência será carregada.
+
+![](assets/toggle-switch-7.png)
 
 ## Página Detalhes do Formulário {#form-details-page}
 
