@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: b6360de280547ba0fa486da094c467853b442621
+source-git-commit: f4cab63854a9c3e461daeb28c0a09746488c5d9e
 workflow-type: tm+mt
-source-wordcount: '8237'
+source-wordcount: '8247'
 ht-degree: 5%
 
 ---
@@ -273,6 +273,7 @@ ht-degree: 5%
             + [Excluir uma etapa do fluxo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [Excluir pessoa](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [Executar campanha](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
+            + [Serviço de Etapa de Fluxo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
             + [Conceder crédito ao responsável pela indicação](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [Momento interessante](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [Remover do fluxo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
@@ -637,7 +638,7 @@ ht-degree: 5%
             + [Visualizar um formulário](product-docs/demand-generation/forms/creating-a-form/preview-a-form.md)
             + [Selecionar um Tema de Formulário](product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
             + [Página de agradecimento do formulário](product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)
-         + Ações de formulário {#form-actions}
+         + Ações do formulário {#form-actions}
             + [Adicionar uma lista de seleção de país ao seu formulário](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [Adicionar rich text a um formulário](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
             + [Alterar a localidade de um formulário](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
@@ -1281,6 +1282,7 @@ ht-degree: 5%
                + [Opções de email em massa](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [Composição de emails em massa com Selecionar e enviar](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Enviar emails por email de grupo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+               + [Usando um modelo na janela Compor](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Configuração do Salesforce {#salesforce-configuration}
             + [Configuração de ações MSI no Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Desinstalar Pacote de Personalização do Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
