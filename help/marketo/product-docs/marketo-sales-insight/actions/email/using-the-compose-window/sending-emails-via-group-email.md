@@ -4,9 +4,9 @@ title: Enviar emails por email de grupo
 hide: true
 hidefromtoc: true
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -19,39 +19,35 @@ Veja como enviar/editar emails usando a opção Agrupar email .
 
 1. Clique no botão **Pessoas** guia .
 
-   PICC
+   ![](assets/sending-emails-via-group-email-1.png)
 
 1. Selecione o grupo que deseja enviar por email.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-2.png)
 
 1. Clique no botão Ações do grupo e selecione **Grupo de email**.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-3.png)
 
 1. Preencha o email (ou selecione um template) e envie (ou agende).
 
-   PICC
+   ![](assets/sending-emails-via-group-email-4.png)
 
 ## Editar um email de grupo {#editing-a-group-email}
 
 1. Criar um email de grupo usando [Etapas 1-3 acima](#sending-a-group-email).
 
-1. Escolha um modelo ou preencha seu email.
+1. [Escolha um template](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)ou preencha seu email.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-5.png)
 
 1. Com o email concluído, agora é possível visualizar cada email na lista para ver se os campos dinâmicos estão sendo preenchidos corretamente.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-6.png)
 
-1. Selecione o recipient desejado.
+1. Selecione o recipient desejado e clique em **Visualizar campos dinâmicos**. Visualize a visualização à direita.
 
-   PICC
-
-1. Clique em **Visualizar campos dinâmicos** e visualize a visualização à direita.
-
-   PICC
+   ![](assets/sending-emails-via-group-email-7.png)
 
    >[!NOTE]
    >
@@ -59,6 +55,6 @@ Veja como enviar/editar emails usando a opção Agrupar email .
 
 >[!MORELIKETHIS]
 >
->* [Opções de envio em massa](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
->* [Usando um modelo na janela Compor](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [Opções de envio em massa](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+>* [Usando um modelo na janela Compor](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
