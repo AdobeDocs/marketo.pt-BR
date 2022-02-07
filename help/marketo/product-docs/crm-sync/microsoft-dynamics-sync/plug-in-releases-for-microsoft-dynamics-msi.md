@@ -3,43 +3,42 @@ unique-page-id: 10099102
 description: Versões de plug-in para Microsoft Dynamics MSI - Documentos do Marketo - Documentação do produto
 title: Versões de plug-in para o Microsoft Dynamics MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7b22aec56d15826c1fecd2cf026c561c4df8531c
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 5%
+source-wordcount: '306'
+ht-degree: 7%
 
 ---
 
-# Versões de plug-in para Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
+# Versões de plug-in para o Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
 Ao sincronizar com o Microsoft Dynamics pela primeira vez, você baixa e instala a versão mais recente dos plug-ins para Marketo Sales Insight (MSI). Periodicamente, o Marketo atualiza esses plug-ins, de modo que você pode retornar ao mesmo local para baixar a nova versão.
 
-Por favor [baixe o plug-in mais recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) correspondente à sua versão do Dynamics.
+Por favor [baixar o plug-in mais recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) correspondente à sua versão do Dynamics.
 
 >[!NOTE]
 >
 >Essas versões funcionam para versões locais e online do Dynamics.
 
-## Atualizar sua solução MSI {#upgrading-your-msi-solution}
+## Atualização de sua solução MSI {#upgrading-your-msi-solution}
 
-1. Importe a versão mais recente da solução _sobre a versão existente_ do seu Dynamics CRM pressionando o botão **Importar** no Dynamics.
+1. Importar a versão mais recente da solução _sobre a versão existente_ do seu Dynamics CRM pressionando o **Importar** no Dynamics.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->Exemplo: se o Dynamics CRM tiver a versão 2.0.0.20 e a versão mais recente for 2.0.0.21, você importaria _sobre_ a versão 2.0.0.20.
+>Exemplo: se o Dynamics CRM tiver a versão 2.0.0.20 e a versão mais recente for 2.0.0.21, você importaria _over_ versão 2.0.0.20.
 
-1. Clique em **Next**.
+1. Clique em **Próximo**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. Selecione **Estágio para atualização** e **Manter personalizações** e clique em **Importar**.
+1. Selecionar **Estágio para atualização** e **Manter personalizações**, depois clique em **Importar**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. Clique em **Next**.
+1. Clique em **Próximo**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -64,7 +63,27 @@ E é isso! Após a atualização, você verá apenas uma Solução MSI.
    <th colspan="1">Observações</th> 
   </tr> 
   <tr> 
-   <td colspan="1">1°/10/20</td> 
+   <td colspan="1">03/02/22</td> 
+   <td colspan="1">2.0.0.27</td> 
+   <td colspan="1">Layout da conta para insights: Momentos interessantes, mudanças de pontuação, atividades da Web, atividades de email</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">05/01/22</td> 
+   <td colspan="1">2.0.0.26</td> 
+   <td colspan="1">Pontuação de adoção do programa para enviar email</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">28/10/21</td> 
+   <td colspan="1">2.0.0.25</td> 
+   <td colspan="1">Métricas de pontuação da adoção do produto, novo painel global (Atividade da Web, Email, Melhores Melhores Melhores Melhores Melhores Melhores Melhores)</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">10/02/21</td> 
+   <td colspan="1">2.0.0.22</td> 
+   <td colspan="1">Remover auditoria automática ativada e alterações na documentação da solução MSI</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">01/10/20</td> 
    <td colspan="1">2.0.0.21</td> 
    <td colspan="1">Correção de erros: Atribuir acesso aos campos de configuração da API MSI para usuários com a função Informações de vendas</td> 
   </tr> 
