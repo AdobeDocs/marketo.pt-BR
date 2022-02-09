@@ -3,9 +3,9 @@ description: Exibição de detalhes da pessoa - Documentos do Marketo - Document
 title: Exibição de detalhes da pessoa
 hide: true
 hidefromtoc: true
-source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '288'
 ht-degree: 6%
 
 ---
@@ -18,21 +18,21 @@ A exibição de detalhes da pessoa fornece um perfil detalhado de cada pessoa na
 
 1. Para acessar a exibição de detalhes da pessoa, clique no botão **Pessoas** guia .
 
-PICC
+   ![](assets/person-detail-view-1.png)
 
 1. Selecione a pessoa desejada.
 
-PICC
+   ![](assets/person-detail-view-2.png)
 
->[!TIP]
->
->Em qualquer lugar que veja o nome de uma pessoa, você pode clicar nele e acessar a Exibição de detalhes da pessoa.
+   >[!TIP]
+   >
+   >Em qualquer lugar que veja o nome de uma pessoa, você pode clicar nele e acessar a Exibição de detalhes da pessoa.
 
 ## Sobre a guia {#about-tab}
 
 Inclui todas as informações de contato da pessoa.
 
-PICC
+![](assets/person-detail-view-3.png)
 
 **Cartão de contato**
 
