@@ -3,7 +3,7 @@ description: Ações de insight de vendas e conformidade com o GDPR - Documentos
 title: Ações de insight de vendas e conformidade com o GDPR
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
 workflow-type: tm+mt
 source-wordcount: '1396'
 ht-degree: 3%
@@ -101,7 +101,7 @@ As ações Sales Insight também permitem a atualização da Autorização e dos
 
 Quando você seleciona um ou mais contatos da página Pessoas, um ponto (menu de três pontos) é exibido à direita. Clique nele e você verá as opções Autorização e Origem são . Você pode definir a Autorização ou a Fonte de vários contatos simultaneamente.
 
-![](assets/sales-insight-actions-and-gdpr-compliance-5.jpg)
+![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
 Quando você clica no modal Autorização, é exibido um pop-up com opções suspensas que correspondem às do Cartão de conformidade.
 
