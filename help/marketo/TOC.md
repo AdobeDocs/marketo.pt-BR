@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 72e5c209939f30228d4ef9f6af798265e0446456
 workflow-type: tm+mt
-source-wordcount: '8282'
+source-wordcount: '8273'
 ht-degree: 5%
 
 ---
@@ -211,7 +211,6 @@ ht-degree: 5%
          + [Criar um usuário somente de API](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Criar, excluir, editar e alterar uma função de usuário](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [Verificação de email](product-docs/administration/users-and-roles/email-verification.md)
-         + [Ativar a Permissão de Importação de Lista Avançada em uma Função](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciando funções e permissões do usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
@@ -628,7 +627,7 @@ ht-degree: 5%
          + [Testar anúncios de lead da Facebook para integração móvel com o Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Noções básicas sobre conversões offline do Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Usar filtros e acionadores de anúncios de lead em uma campanha inteligente](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
-      + formulários {#forms}
+      + Formulários {#forms}
          + Criação de um formulário {#creating-a-form}
             + [Criar um formulário](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
             + [Adicionar um campo a um formulário](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
@@ -681,7 +680,7 @@ ht-degree: 5%
          + [Substituir uma imagem ou um arquivo carregado](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Pesquisar imagens e arquivos carregados](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Fazer upload de imagens e arquivos da caixa](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + páginas {#landing-pages}
+      + Páginas {#landing-pages}
          + Como entender as páginas de aterrissagem {#understanding-landing-pages}
             + [Aprovar, cancelar aprovação ou excluir uma página de aterrissagem](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Relatório de desempenho da página de aterrissagem](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
@@ -1454,7 +1453,7 @@ ht-degree: 5%
             + [Prioridade da ordem de segmentação](product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)
             + [Como entender o conteúdo dinâmico](product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
             + [Usar filtros de segmento em uma Smart List](product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
-         + blocos de conteúdo {#snippets}
+         + Blocos de conteúdo {#snippets}
             + [Adicionar conteúdo a um trecho](product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
             + [Aprovar um trecho sem rascunho](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
             + [Aprovar um trecho](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
