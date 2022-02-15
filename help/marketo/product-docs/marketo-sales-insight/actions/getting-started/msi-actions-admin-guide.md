@@ -4,10 +4,10 @@ title: Guia do administrador de ações do MSI
 hide: true
 hidefromtoc: true
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 2%
+source-wordcount: '556'
+ht-degree: 1%
 
 ---
 
@@ -110,15 +110,17 @@ Se já estiver conectado ao Salesforce, você estará conectado. Caso contrário
 
 ## Iniciar Sincronização de Dados {#initiate-data-sync}
 
+A sincronização de campo de unificação de dados para Ações de Insight de vendas permite que o sistema extraia informações de pessoas do banco de dados do Marketo Engage para o banco de dados de Ações de insight de vendas, mantendo os dados de pessoas atualizados e garantindo que as atividades sejam registradas nos registros corretos no Marketo e no Salesforce.
+
 1. No Marketo, clique em **Administrador**.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Clique em Sales Insight (Insight sobre vendas).
+1. Clique em **Insight de vendas**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Clique na guia Configuração de ações . No cartão Sincronização do campo de ação, clique em **Sincronizar**.
+1. Clique no botão **Configuração de ações** guia . No cartão Sincronização do campo de ação, clique em **Sincronizar**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -127,6 +129,10 @@ Se já estiver conectado ao Salesforce, você estará conectado. Caso contrário
    ![](assets/msi-actions-admin-guide-13.png)
 
 Os registros de pessoa que existem no Marketo e no Salesforce serão sincronizados com sua conta de Aplicativos de vendas da Marketo.
+
+>[!NOTE]
+>
+>Para saber mais sobre como as pessoas e os dados de atividades são sincronizados entre as Ações de insight de vendas, o Marketo e o Salesforce, [clique aqui](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
 
 ## Convidar usuários individuais para ações MSI {#invite-individual-users-to-msi-actions}
 
