@@ -3,7 +3,7 @@ unique-page-id: 1147091
 description: Noções básicas sobre a associação ao programa - Documentação da Marketo - Documentação do produto
 title: Compreensão da assinatura do programa
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 1%
@@ -31,7 +31,7 @@ ht-degree: 1%
    1. A pessoa terá automaticamente o primeiro status na progressão.
 
 1. Você usa a variável [alterar status do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) etapa de fluxo.
-1. Uma pessoa se registra ou participa de uma [webinário sincronizado com um programa de evento](/help/marketo/product-docs/demand-generation/events/events/launchpoint-event-partners.md).
+1. Uma pessoa se registra ou participa de uma [webinário sincronizado com um programa de evento](/help/marketo/product-docs/demand-generation/events/events/event-partners.md).
 1. Uma pessoa é [criado usando o aplicativo de check-in Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Uma pessoa é adicionada a uma Campanha SFDC, que é [sincronizado com o programa](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 

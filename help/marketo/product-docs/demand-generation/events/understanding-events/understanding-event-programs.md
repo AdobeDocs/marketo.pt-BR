@@ -3,7 +3,7 @@ unique-page-id: 2949841
 description: Noções básicas sobre programas de evento - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre programas de evento
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 9%
@@ -30,7 +30,7 @@ Um programa de eventos é um tipo de programa que pode ser usado para automatiza
 >* Encontros
 
 
-Os eventos podem se conectar automaticamente ao seu [provedor de webinar](launchpoint-event-partners.md) bem como sincronizar com um [Aplicativo de check-in do iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+Os eventos podem se conectar automaticamente ao seu [provedor de webinar](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) bem como sincronizar com um [Aplicativo de check-in do iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >
