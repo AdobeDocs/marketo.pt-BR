@@ -3,15 +3,14 @@ unique-page-id: 1147091
 description: Noções básicas sobre a associação ao programa - Documentação da Marketo - Documentação do produto
 title: Compreensão da assinatura do programa
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 1%
 
 ---
 
-# Noções básicas sobre a associação ao programa {#understanding-program-membership}
+# Compreensão da assinatura do programa {#understanding-program-membership}
 
 >[!NOTE]
 >
@@ -19,30 +18,30 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Definição:** Um membro é uma pessoa que tem um status em um programa.
+>**Definição:** Um membro é uma pessoa que tem status em um programa.
 
 ## Como as pessoas se tornam membros de um programa {#how-people-become-members-of-a-program}
 
-1. Uma pessoa preenche um formulário [em uma landing page](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) no programa.
+1. Uma pessoa preenche uma [formulário em uma landing page](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) no programa.
 
    1. A pessoa terá automaticamente o primeiro status na progressão.
 
-1. Você [importa membros para o programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md) de um arquivo CSV.
+1. Você [importar membros para o programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md) de um arquivo CSV.
 
    1. A pessoa terá automaticamente o primeiro status na progressão.
 
-1. Use a etapa de fluxo [alterar status do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md).
-1. Uma pessoa registra ou participa de um [webinário sincronizado com um programa de eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md).
-1. Uma pessoa é [criada usando o aplicativo de check-in do Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
-1. Uma pessoa é adicionada a uma Campanha SFDC, que é [sincronizada ao programa](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
+1. Você usa a variável [alterar status do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) etapa de fluxo.
+1. Uma pessoa se registra ou participa de uma [webinário sincronizado com um programa de evento](/help/marketo/product-docs/demand-generation/events/events/launchpoint-event-partners.md).
+1. Uma pessoa é [criado usando o aplicativo de check-in Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+1. Uma pessoa é adicionada a uma Campanha SFDC, que é [sincronizado com o programa](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
 >[!NOTE]
 >
 >Para um programa de email, uma pessoa é adicionada à associação somente quando o email é enviado.
 
-## Status do Programa {#program-statuses}
+## Status do programa {#program-statuses}
 
-Os status do programa são as etapas que as pessoas passam em um programa (por exemplo, Convidado, RSVP&#39;d, Participado, Sem programa). Essas etapas são definidas pelo [canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+Os status do programa são as etapas que as pessoas passam em um programa (por exemplo, Convidado, RSVP&#39;d, Participado, Sem programa). Essas etapas são definidas pela variável [canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 ![](assets/image2015-2-5-15-3a14-3a48.png)
 
@@ -60,7 +59,7 @@ A finalidade de um programa é criar uma interação significativa com a pessoa 
 
 ## Programa de aquisição  {#acquisition-program}
 
-Quando um novo nome entra no sistema como um membro do programa, o Marketo define automaticamente esse programa como &quot;aquisição&quot;. Isso estabelece crédito para [Atribuição de primeiro toque](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Quando um novo nome entra no sistema como um membro do programa, o Marketo define automaticamente esse programa como &quot;aquisição&quot;. Isso cria crédito para [Atribuição de primeiro toque](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >

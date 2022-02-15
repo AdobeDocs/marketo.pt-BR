@@ -4,9 +4,9 @@ title: Perguntas frequentes sobre a sincronização de dados de ações
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
-source-wordcount: '1033'
+source-wordcount: '1045'
 ht-degree: 2%
 
 ---
@@ -37,7 +37,7 @@ Os clientes potenciais e os contatos que têm um proprietário de vendas atribu�
 
 Você pode ver se um cliente potencial/contato tem um proprietário de vendas no Salesforce observando o campo proprietário padrão que existe.
 
-O proprietário de vendas não precisa ser o usuário de sincronização da Marketo ou qualquer usuário específico do Salesforce ou de vendas. Desde que haja um usuário listado no campo proprietário padrão, incluiremos o lead/contato a ser sincronizado com Ações de vendas, bem como incluí-lo em qualquer atualização dos campos sincronizados a serem feitos nesse lead.
+O proprietário de vendas não precisa ser o usuário de sincronização da Marketo ou qualquer usuário específico do Salesforce ou de vendas. Tudo o que precisamos é que haja um usuário listado no campo proprietário do cliente potencial e proprietário do contato listado no Salesforce, para que possamos identificá-lo como um cliente potencial de vendas e sincronizá-lo nas Ações de informações de vendas. Todas as atualizações nos campos que sincronizamos também serão detectadas e atualizadas em Ações de insight de vendas.
 
 ## De onde vêm os dados da atividade exibidos na Grade Inteligente de Insight de Vendas? {#where-does-the-activity-data-get-sourced-from}
 
