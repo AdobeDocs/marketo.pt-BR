@@ -4,9 +4,9 @@ title: Configuração do administrador
 hide: true
 hidefromtoc: true
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Depois que você é adicionado como Administrador de sistema do Adobe ao Marketo
 
 Depois que o Administrador do sistema acessa o Admin Console, é hora de criar um perfil de produto. É assim que seus usuários/administradores obtêm acesso ao Marketo Engage.
 
-1. Em Produtos e serviços, clique em **Marketo Engage**.
+1. Na página Visão geral , em Produtos e serviços, clique em **Marketo Engage**.
 
    ![](assets/admin-setup-3.png)
 

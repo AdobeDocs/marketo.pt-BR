@@ -4,9 +4,9 @@ title: Adicionar ou remover um usuário
 hide: true
 hidefromtoc: true
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-7.png)
 
+   >[!IMPORTANT]
+   >
+   >Um usuário **must** ser adicionado a um perfil de produto para obter acesso ao Marketo Engage.
+
 1. Clique em **Salvar**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
-O usuário receberá um email para fazer logon no Marketo.
+O usuário receberá um email para fazer logon no Marketo Engage.
 
 >[!NOTE]
 >
@@ -79,7 +83,7 @@ O usuário receberá um email para fazer logon no Marketo.
 
    ![](assets/add-or-remove-a-user-14.png)
 
-O usuário receberá um email notificando que não tem mais acesso de Administrador de produto ao Marketo Engage.
+O usuário receberá um email notificando que não tem mais acesso ao Marketo Engage.
 
 >[!MORELIKETHIS]
 >
