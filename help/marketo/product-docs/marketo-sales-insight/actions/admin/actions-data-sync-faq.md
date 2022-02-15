@@ -4,9 +4,9 @@ title: Perguntas frequentes sobre a sincronização de dados de ações
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 8ded6cac96f17c81a8d37cbe51c39ad565ac828e
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1044'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 A sincronização de campo de unificação de dados para Ações de Insight de Vendas permite que o sistema extraia informações de pessoas do banco de dados do Marketo Engage para o banco de dados Ações de Insight de Vendas .
 
-Isso fornece dados de pessoas atualizados no aplicativo web Ações de insight de vendas e permite que o sistema colete IDs exclusivas para registros de pessoas correspondentes no Marketo e registros de cliente/contato/conta/oportunidade no Salesforce, para que os registros possam ser referenciados corretamente para dados de registro.
+Isso fornece dados de pessoas atualizados no aplicativo web Ações de insight de vendas e permite que o sistema colete IDs exclusivas para registros de pessoas correspondentes no Marketo e registros de lead/contact/account/oportunidade no Salesforce, para que os registros possam ser referenciados corretamente para os dados de registro.
 
 Essa sincronização pode ser ativada na guia Configuração de ações de insight de vendas na seção Admin do Marketo Engage. Para obter mais informações, consulte [Iniciar Sincronização de Dados](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync).
 
