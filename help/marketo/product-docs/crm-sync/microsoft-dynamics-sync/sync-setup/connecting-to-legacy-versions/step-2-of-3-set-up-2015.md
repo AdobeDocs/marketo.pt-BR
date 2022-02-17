@@ -3,9 +3,9 @@ unique-page-id: 7504739
 description: Instale o Marketo para Microsoft Dynamics 2015 no local Etapa 2 de 3 - Documentos do Marketo - Documentação do produto
 title: Instale o Marketo para Microsoft Dynamics 2015 no local Etapa 2 de 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,13 @@ Atribua a função Usuário de sincronização do Marketo somente ao usuário de
 
    ![](assets/assign4.png)
 
-   Marque Marketo Sync User (Usuário de sincronização do) e clique em OK.
+1. Marque Marketo Sync User e clique em **OK**.
 
    ![](assets/assign5.png)
+
+   >[!IMPORTANT]
+   >
+   >O usuário de sincronização deve ter permissão de leitura para a configuração do Marketo.
 
    >[!TIP]
    >
@@ -85,6 +89,10 @@ Quase pronto! Temos apenas algumas últimas partes da configuração antes de pa
 1. Clique em **Publicar todas as personalizações**.
 
    ![](assets/publish-all-customizations1.png)
+
+   >[!NOTE]
+   >
+   >O usuário de sincronização deve ter permissão de leitura para a configuração do Marketo.
 
 ## Antes de prosseguir para a Etapa 3 {#before-proceeding-to-step}
 

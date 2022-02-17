@@ -1,14 +1,15 @@
 ---
-description: Etapa 2 de 3 - Configurar a solução Marketo com Conexão de Controle de Senha do Proprietário de Recursos - Documentos Marketo - Documentação do produto
-title: Etapa 2 de 3 - Configurar a solução Marketo com a conexão de controle de senha do proprietário de recursos
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+description: Etapa 2 de 4 - Configurar a solução Marketo com Conexão de Controle de Senha do Proprietário de Recursos - Documentos Marketo - Documentação do produto
+title: Etapa 2 de 4 - Configurar a solução Marketo com a conexão de controle de senha do proprietário de recursos
+exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
 
-# Etapa 2 de 3: Configurar a solução Marketo com a conexão de controle de senha do proprietário de recursos {#step-2-of-3-set-up-the-marketo-solution-ropc}
+# Etapa 2 de 4: Configurar a solução Marketo com a conexão de controle de senha do proprietário de recursos {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
 Vamos começar criando uma conta de usuário.
 
@@ -45,6 +46,10 @@ Vamos começar criando uma conta de usuário.
 1. Outra nova guia é aberta. Clique em **Adicionar um usuário**.
 
    ![](assets/seven.png)
+
+   >[!IMPORTANT]
+   >
+   >O usuário de sincronização deve ter permissão de leitura para a configuração do Marketo.
 
 1. Insira todas as suas informações. Quando terminar, clique em **Adicionar**.
 
@@ -126,12 +131,6 @@ Quase lá! Resta informar a Marketo Solution sobre o novo usuário criado.
 
    ![](assets/nineteen.png)
 
-## Antes de prosseguir para a Etapa 3 {#before-proceeding-to-step}
-
-* Se quiser restringir o número de registros sincronizados, [configurar um filtro de sincronização personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) agora.
-* Execute o [Validar a sincronização do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) processo. Ele verifica se as configurações iniciais foram feitas corretamente.
-* Faça logon no usuário de sincronização do Marketo no Microsoft Dynamics CRM.
-
-   >[!MORELIKETHIS]
-   >
-   >[Etapa 3 de 4: Conecte a solução Marketo com a conexão de controle de senha do proprietário de recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+>[!MORELIKETHIS]
+>
+>[Etapa 3 de 4: Conecte a solução Marketo com a conexão de controle de senha do proprietário de recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
