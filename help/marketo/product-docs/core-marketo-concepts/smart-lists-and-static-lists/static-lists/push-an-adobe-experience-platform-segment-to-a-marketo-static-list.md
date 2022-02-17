@@ -2,9 +2,9 @@
 description: Encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo - Documentos do Marketo - Documentação do produto
 title: Encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
+source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 
 >[!PREREQUISITES]
 >
+>* [Editar a função da API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) para garantir que tenha o **Pessoa de Leitura-Escrita** permissão (encontrada no menu suspenso API de acesso ).
 >* [Criar um usuário de API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) no Marketo.
 >* Ir para **Administrador** > **Launchpoint**. Encontre o nome da função que acabou de criar e clique em **Exibir detalhes**. Copie e salve as informações em **ID do cliente** e **Segredo do cliente**, pois pode ser necessário para a Etapa 7.
 >* No Marketo, crie uma lista estática ou localize e selecione uma que já tenha criado. Você precisará da ID dele.
@@ -36,7 +37,7 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. Encontre o Marketo Engage e clique em **Ativar segmentos**.
+1. Encontre o Marketo Engage e clique em **Ativar**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -79,7 +80,11 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 
    >[!NOTE]
    >
-   >Caso escolha vários segmentos, será necessário mapear cada segmento para uma lista estática especificada na guia Agendamento de segmento.
+   >Se você escolher vários segmentos, será necessário mapear cada segmento para uma lista estática especificada na guia Agendamento de segmento.
+
+   >[!IMPORTANT]
+   >
+   >Depois que um segmento é ativado para o destino do Marketo pela primeira vez, os perfis de preenchimento retroativo que já existiam no segmento antes da ativação do destino do Marketo podem receber **até 24 horas**. A partir de agora, sempre que perfis forem adicionados ao segmento, eles serão adicionados ao Marketo imediatamente.
 
 1. Clique em **Adicionar novo mapeamento**.
 
