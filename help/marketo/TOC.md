@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '8281'
+source-wordcount: '8285'
 ht-degree: 5%
 
 ---
@@ -481,6 +481,7 @@ ht-degree: 5%
             + [Baixe a solução de gerenciamento de clientes potenciais da Marketo](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
             + [Conceder consentimento para ID do cliente e registro de aplicativo](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
             + [Atualizar a solução Marketo para o Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Reconfigure o método de autenticação do Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
             + [Validar a sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Exibir o URL do serviço de organização](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2016/Dynamics 365 No Local  {#microsoft-dynamics-2016-dynamics-365-on-premises}

@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Uso de momentos interessantes - Documentação da Marketo - Documentação do produto
 title: Uso de momentos interessantes
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -85,5 +85,9 @@ Você pode assinar um Momento Interessante clicando no botão Assinar na guia Mo
 1. Escolha para quais endereços de email você deseja enviar os alertas (você mesmo/membros da equipe)
 
 1. Clique em **Assinar**.
+
+>[!NOTE]
+>
+>Ao se inscrever em Tipos de momento ou descrições interessantes, o usuário receberá notificações por email das pessoas (leads/contatos) de sua propriedade quando acionar um momento interessante correspondente a esse Tipo ou Descrição.
 
 ![](assets/using-interesting-moments-8.png)
