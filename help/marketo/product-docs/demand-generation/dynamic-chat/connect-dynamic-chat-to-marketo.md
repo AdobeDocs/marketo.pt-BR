@@ -1,10 +1,8 @@
 ---
 description: Conectar o bate-papo dinâmico ao Marketo - Documentos do Marketo - Documentação do produto
 title: Conectar o bate-papo dinâmico ao Marketo
-hide: true
-hidefromtoc: true
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
