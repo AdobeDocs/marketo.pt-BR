@@ -4,9 +4,9 @@ title: Configuração de ações MSI no Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 84e3c4d525c5bde9e3ebd17d2f29ad42578777ff
+source-git-commit: ea7a5892f121873483909ff7ad3067423710371a
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Instalar]() ou [Atualizar]() Pacote de informações de vendas na sua instância do Salesforce Instalar/atualizar para o [Pacote de ações MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) na sua instância do Salesforce.
->* [Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited]()
+>* [Instalar](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) ou [Atualizar](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Pacote de informações de vendas na sua instância do Salesforce
+>* [Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 
 ## Adicionar novo local remoto no Salesforce {#add-new-remote-site-in-salesforce}
