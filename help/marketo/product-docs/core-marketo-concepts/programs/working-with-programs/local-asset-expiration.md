@@ -3,9 +3,9 @@ description: Expiração de ativos locais - Documentos do Marketo - Documentaç�
 title: Expiração de ativo local
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ Antes de programar uma expiração de ativo, a função Marketo deve ter a permi
 
 1. No [!UICONTROL Administrador] , clique em **[!UICONTROL Usuários e funções]**.
 
-   ![](assets/local-asset-expiration-2.png)
+   ![](assets/local-asset-expiration-1.png)
 
 1. Clique no botão **[!UICONTROL Funções]** , selecione o usuário ao qual deseja conceder acesso e clique em **[!UICONTROL Editar função]**.
 
-   ![](assets/local-asset-expiration-3.png)
+   ![](assets/local-asset-expiration-2.png)
 
 1. Em [!UICONTROL Acessar atividades de marketing], selecione **[!UICONTROL Programar Expiração de Ativo]**. Clique em **[!UICONTROL Salvar]**.
 
-   ![](assets/local-asset-expiration-.png)
+PICC
 
 ## Definir uma data de expiração {#set-an-expiration-date}
 
