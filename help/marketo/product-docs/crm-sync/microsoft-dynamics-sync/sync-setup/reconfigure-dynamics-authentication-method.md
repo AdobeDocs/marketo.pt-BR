@@ -2,7 +2,7 @@
 description: Reconfigure o método de autenticação do Dynamics - Documentos do Marketo - Documentação do produto
 title: Reconfigure o método de autenticação do Dynamics
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -16,6 +16,7 @@ Siga as etapas abaixo para atualizar seu método de autenticação do Dynamics.
 >[!PREREQUISITES]
 >
 >Configure o aplicativo no Microsoft Dynamics e no Ative Diretory (Azure AD/ADFS) usando o método de autenticação desejado de um dos seguintes artigos:
+>
 >* [Etapa 2 de 3: Configurar a solução Marketo com conexão de servidor para servidor](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 >* [Etapa 2 de 4: Configurar a solução Marketo com a conexão de controle de senha do proprietário de recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
 
