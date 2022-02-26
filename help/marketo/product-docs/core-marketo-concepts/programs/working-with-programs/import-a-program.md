@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importar um programa - Documentos do Marketo - Documentação do produto
 title: Importar um programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: cb14f5c16164eb2167a13d493cd48ed0fec263a9
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,8 @@ Os programas usam ativos externos, como modelos de email, modelos de landing pag
 
 **Modelos de email/página de aterrissagem:** Os modelos de Email/Landing page são importados para o Design Studio. Você pode usar regras de conflito para configurar o comportamento quando existir um modelo com o mesmo nome. Usando a regra padrão, um número será anexado a um modelo se existir um com o mesmo nome. Por exemplo, se você já tiver um modelo chamado &quot;Modelo padrão&quot;, o novo será denominado &quot;Modelo padrão 1&quot;.
 
+**Páginas de aterrissagem/Forms:** Se um formulário ou uma landing page com o mesmo nome existir no Design Studio, eles ainda serão importados, mas com um número anexado ao seu nome (por exemplo: Página de aterrissagem 1).
+
 **Imagens:** As imagens usadas pela landing pages são importadas para o estúdio de design, a menos que exista uma com o mesmo nome.
 
 **Tokens:** Tokens que vivem fora de um programa serão convertidos em tokens locais durante o processo de importação.
@@ -96,8 +98,6 @@ Os programas usam ativos externos, como modelos de email, modelos de landing pag
 >O tipo de imagem que meus tokens não são suportados em importações de programa. Se um programa que tenha o tipo de imagem meus tokens for importado, **não** os tokens serão exibidos.
 
 **Tags do programa:** Você pode usar regras de conflito para controlar como as tags de programa que não existem na conta de destino serão tratadas. O uso da regra padrão criará as tags de programa, ou você poderá optar por ignorar as tags.
-
-**Forms:** Os formulários externos serão importados automaticamente para o estúdio de design, a menos que exista um com o mesmo nome.
 
 >[!CAUTION]
 >
