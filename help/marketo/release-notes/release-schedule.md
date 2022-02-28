@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: Programação de versão - Documentação do Marketo - Documentação do produto
 title: Programação de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: 07d141c67ac12f865397f6ff926accd8835ad368
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 3%
@@ -37,12 +37,12 @@ _As datas de lançamento estão sujeitas a alterações_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Janeiro de 2022</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-jan-22.md">Janeiro de 2022</a></td>
    <td>21 de janeiro de 2022</td>
    <td>Remetido</td>
   </tr>
   <tr> 
-   <td>Março de 22</td>
+   <td><a href="/help/marketo/release-notes/current.md">Março de 22</a></td>
    <td>11 de março de 2022</td>
    <td>em andamento</td>
   </tr>
