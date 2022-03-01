@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
+source-git-commit: 9a4dcb4a307928887000ce199b061d3e01192719
 workflow-type: tm+mt
 source-wordcount: '8334'
 ht-degree: 5%
@@ -1295,10 +1295,10 @@ ht-degree: 5%
          + Pessoas {#people}
             + [Exibição de detalhes da pessoa](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Ações de insight de vendas e conformidade com o GDPR](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-               + Gerenciamento de contatos {#managing-contacts}
-                  + [Ações em massa em pessoas](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-                  + [Criação e exclusão de contatos](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-                  + [Importar contatos por CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+            + Gerenciamento de contatos {#managing-contacts}
+               + [Ações em massa em pessoas](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
+               + [Criação e exclusão de contatos](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
+               + [Importar contatos por CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
          + Configuração do Salesforce {#salesforce-configuration}
             + [Configuração de ações MSI no Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Desinstalar Pacote de Personalização do Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
