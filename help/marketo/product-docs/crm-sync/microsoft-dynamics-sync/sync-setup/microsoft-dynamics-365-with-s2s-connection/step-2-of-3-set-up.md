@@ -1,16 +1,16 @@
 ---
 unique-page-id: 3571827
 description: Etapa 2 de 3 - Configurar a solução Marketo com conexão de servidor para servidor - Documentação da Marketo - Documentação do produto
-title: Etapa 2 de 3 - Configurar a solução Marketo com conexão de servidor para servidor
+title: Step 2 of 3 - Set up the Marketo Solution with Server to Server Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
 
-# Etapa 2 de 3: Configurar a solução Marketo com conexão de servidor para servidor {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
+# Step 2 of 3: Set up Marketo Solution with Server to Server Connection {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
@@ -50,11 +50,13 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >Ao conceder permissões ao usuário do aplicativo, atribua-o à &quot;Função de usuário de sincronização do Marketo&quot;.
+   >* While giving permissions to the Application User, be sure to assign it to &quot;Marketo Sync User Role.&quot;
+   >* Note the email address of the Application User from the [view details option](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) on Power Platform. Esse endereço de email será usado como nome de usuário ao configurar a conexão com o MS Dynamics no Marketo.
+
 
 ## Azure AD Federated com AD FS no local {#azure-ad-federated-with-ad-fs-on-prem}
 
-O Federated Azure AD para o ADFS Onlocal precisa da criação de uma política de Descoberta de Domínio para o aplicativo específico. Com esta política, o Azure AD redirecionará a solicitação de autenticação para o serviço de federação. Para isso, a sincronização de hash de senha deve ser ativada no AD Connect. Para obter mais informações, consulte [OAuth com ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) e [Definir uma política de hardware para um aplicativo](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
+Federated Azure AD to ADFS Onprem needs the creation of a Home Realm Discovery policy for the specific application. Com esta política, o Azure AD redirecionará a solicitação de autenticação para o serviço de federação. Password hash synchronization has to be enabled in AD Connect for this. Para obter mais informações, consulte [OAuth com ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) e [Definir uma política de hardware para um aplicativo](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
 Referências adicionais [pode ser encontrada aqui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=Este%20report%20also%20inclui%20federado, são%20federado%20a%20Azure%20AD.).
 
@@ -98,10 +100,10 @@ Quase lá! Resta informar a Marketo Solution sobre o novo usuário criado.
 
    ![](assets/nineteen.png)
 
-## Antes de prosseguir para a Etapa 3 {#before-proceeding-to-step}
+## Before Proceeding to Step 3 {#before-proceeding-to-step}
 
 * Se quiser restringir o número de registros sincronizados, [configurar um filtro de sincronização personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) agora.
-* Execute o [Validar a sincronização do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) processo. Ele verifica se as configurações iniciais foram feitas corretamente.
+* Run the [Validate Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) process. It verifies that your initial setups were done correctly.
 * Faça logon no usuário do Marketo Sync no Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
