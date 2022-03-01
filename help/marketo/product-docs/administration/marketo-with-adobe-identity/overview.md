@@ -2,7 +2,7 @@
 description: Visão geral - Documentação do Marketo - Documentação do produto
 title: Visão geral
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -19,7 +19,7 @@ As assinaturas existentes do Marketo serão migradas para o Adobe Identity Manag
 >
 >O Suporte da Marketo não poderá fornecer atualizações relacionadas à migração do Adobe IMS. O Gerente de sucesso do cliente entrará em contato com a linha do tempo estimada para os próximos meses.
 
-## Níveis de perfil
+## Níveis de perfil {#profile-levels}
 
 As assinaturas do Adobe Marketo Engage incorporadas ao Adobe Identity Management System oferecem suporte a vários perfis. A seguir estão os tipos de perfis de usuário relevantes nesta integração.
 
@@ -42,7 +42,7 @@ As assinaturas do Adobe Marketo Engage incorporadas ao Adobe Identity Management
  </tr>
 </table>
 
-## Perguntas frequentes
+## Perguntas frequentes {#faq}
 
 **O que é Adobe Identity?**
 
