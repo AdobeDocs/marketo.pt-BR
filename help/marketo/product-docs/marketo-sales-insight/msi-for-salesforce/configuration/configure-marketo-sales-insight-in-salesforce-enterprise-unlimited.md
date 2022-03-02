@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited - Documentos da Marketo - Documentação do produto
 title: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
+source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
 workflow-type: tm+mt
-source-wordcount: '820'
-ht-degree: 6%
+source-wordcount: '877'
+ht-degree: 12%
 
 ---
 
@@ -16,8 +16,7 @@ Estas são as etapas que você precisa seguir para configurar o Marketo Sales In
 
 >[!PREREQUISITES]
 >
->* [Instalar o pacote de informações de vendas da Marketo no Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
+>[Instalar o pacote de informações de vendas da Marketo no Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -119,34 +118,52 @@ Estas são as etapas que você precisa seguir para configurar o Marketo Sales In
    >
    >Recomendamos uma altura de 410 pixels para os objetos Contas e Oportunidades.
 
-1. Clique em **Campos** à esquerda. Em seguida, pesquise e arraste a **Envolvimento** no **Insight sobre vendas da Marketo** layout.
+1. Clique em **Campos** à esquerda. Em seguida, pesquise e arraste a **Urgência** no **Insight sobre vendas da Marketo** layout.
 
-   ![](assets/image2015-5-22-16-3a32-3a46.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
 1. Repita a etapa acima também para esses campos.
 
    <table> 
     <tbody> 
      <tr> 
-      <td colspan="1">Envolvimento</td> 
+      <td>Último momento interessante</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Valor de pontuação relativa</p></td> 
+      <td>Data do último momento interessante</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Valor de urgência</p></td> 
+      <td>Desc. do último momento interessante</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Data do último momento interessante</p></td> 
+      <td>Fonte do último momento interessante</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Desc. do último momento interessante</p></td> 
+      <td>Tipo do último momento interessante</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Fonte do último momento interessante</p></td> 
+      <td>Última atividade do Marketo no Sales</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Tipo do último momento interessante</p></td> 
+      <td>Último envolvimento do Marketo no Sales</td> 
+     </tr> 
+     <tr> 
+      <td>Id de Contato MSI</td> 
+     </tr> 
+     <tr> 
+      <td>Pontuação relativa</td> 
+     </tr> 
+     <tr> 
+      <td>Valor de pontuação relativa</td> 
+     </tr> 
+     <tr> 
+      <td>Urgência</td> 
+     </tr> 
+     <tr> 
+      <td>Valor de urgência</td> 
+     </tr> 
+     <tr> 
+      <td>Exibir no Marketo</td> 
      </tr> 
     </tbody> 
    </table>
@@ -155,9 +172,53 @@ Estas são as etapas que você precisa seguir para configurar o Marketo Sales In
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Repita esse processo para adicionar seções de página de Força de Visita e campos de Insight de Vendas para **Contato**, **Conta** e **Oportunidade**.
+1. Repita as etapas de 5 a 7 para adicionar seções de página de Força Visual e campos de Insight de Vendas para **Contato**, **Conta** e **Oportunidade**.
 
-1. Repita as etapas 5 a 7 para adicionar seções de página de Força de Vencimento para Contato, Conta e Oportunidade. Em seguida, repita as etapas de 8 a 10 para adicionar campos de Insight de vendas para **Contato**. Certifique-se de salvar após qualquer alteração.
+1. Repita as etapas de 8 a 10 para adicionar campos de informações de vendas da lista abaixo para **Contato**. Certifique-se de salvar as alterações.
+
+<table> 
+    <tbody> 
+     <tr> 
+      <td>Último momento interessante</td> 
+     </tr> 
+     <tr> 
+      <td>Data do último momento interessante</td> 
+     </tr> 
+     <tr> 
+      <td>Desc. do último momento interessante</td> 
+     </tr> 
+     <tr> 
+      <td>Fonte do último momento interessante</td> 
+     </tr> 
+     <tr> 
+      <td>Tipo do último momento interessante</td> 
+     </tr> 
+     <tr> 
+      <td>Última atividade do Marketo no Sales</td> 
+     </tr> 
+     <tr> 
+      <td>Último envolvimento do Marketo no Sales</td> 
+     </tr> 
+     <tr> 
+      <td>Pontuação de lead da MKTO</td> 
+     </tr> 
+     <tr> 
+      <td>Pontuação relativa</td> 
+     </tr> 
+     <tr> 
+      <td>Valor de pontuação relativa</td> 
+     </tr> 
+     <tr> 
+      <td>Insight de vendas - abre a página da lista completa do contato</td> 
+     </tr> 
+     <tr> 
+      <td>Urgência</td> 
+     </tr> 
+     <tr> 
+      <td>Valor de urgência</td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 ## Mapear campos de pessoa personalizados {#map-custom-person-fields}
 
