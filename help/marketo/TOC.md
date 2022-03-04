@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 9a4dcb4a307928887000ce199b061d3e01192719
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
-source-wordcount: '8334'
+source-wordcount: '8382'
 ht-degree: 5%
 
 ---
@@ -1229,7 +1229,7 @@ ht-degree: 5%
          + [Modelos compartilhados](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [Envolvimento do modelo](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [Uso do HTML](product-docs/marketo-sales-connect/templates/using-html.md)
-         + [Exibir Lista de Modelos como Outro Usuário](product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)
+         + [Exibir Lista de Modelos como Outro Usuário](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
          + Campos dinâmicos {#dynamic-fields}
             + [Criar campos dinâmicos personalizados](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [Glossário de campos dinâmicos](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
@@ -1260,6 +1260,8 @@ ht-degree: 5%
             + [Configurações de gerenciamento de logon](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Configurações de compartilhamento](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Detalhes de acesso do usuário](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + Análises {#analytics}
+            + [Envolvimento do modelo](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campanhas {#campaigns}
             + [A Campanha Terminou](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
@@ -1290,6 +1292,11 @@ ht-degree: 5%
                + [Composição de emails em massa com Selecionar e enviar](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Enviar emails por email de grupo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Usando um modelo na janela Compor](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + Perguntas frequentes {#faq}
+            + [Posso rastrear vários recipients com CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [Como Impedir Visualizações Automáticas?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
+            + [Como Funciona O Rastreamento De Localização?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
+            + [Como As Ações De Insight De Vendas Lidam Com A Eliminação De Emails?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [Conceder acesso ao Marketo aos usuários](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Pessoas {#people}
@@ -1299,6 +1306,8 @@ ht-degree: 5%
                + [Ações em massa em pessoas](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [Criação e exclusão de contatos](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
                + [Importar contatos por CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+               + [Gerenciar grupos](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
+               + [Colunas da Página de Pessoas](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Configuração do Salesforce {#salesforce-configuration}
             + [Configuração de ações MSI no Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Desinstalar Pacote de Personalização do Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1308,8 +1317,12 @@ ht-degree: 5%
          + Tarefas {#tasks}
             + [Sincronização de Tarefa de Lembrete com o Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Modelos {#templates}
+            + [Adicionar texto hipervinculado](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [Gerenciar modelos](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Gerenciar Categorias de Modelos](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
+            + [Modelos recomendados](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
+            + [Uso do HTML](product-docs/marketo-sales-insight/actions/templates/using-html.md)
+            + [Exibir Lista de Modelos como Outro Usuário](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
       + Uso de MSI {#using-msi}
          + [Registrar emails de entrada dos seus clientes potenciais no Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + Plug-in do Chrome MSI {#msi-chrome-plugin}

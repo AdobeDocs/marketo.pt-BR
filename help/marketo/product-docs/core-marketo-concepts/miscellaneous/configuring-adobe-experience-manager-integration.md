@@ -3,15 +3,14 @@ unique-page-id: 30081815
 description: Configuração da integração do Adobe Experience Manager - Documentos do Marketo - Documentação do produto
 title: Configuração da integração do Adobe Experience Manager
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Configurar a integração do Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
+# Configuração da integração do Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
 
 Configure AEM para que você possa acessar, selecionar e importar ativos AEM no Marketo Design Studio.
 
@@ -21,7 +20,7 @@ Configure AEM para que você possa acessar, selecionar e importar ativos AEM no 
 
 >[!CAUTION]
 >
->No momento, esse recurso é totalmente compatível com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome (v. 80), dependendo das configurações de cookie do SameSite.
+>No momento, esse recurso é totalmente compatível com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome, dependendo das configurações de cookie do SameSite.
 
 1. Navegue até a Adobe Experience Manager (o URL é específico para sua empresa).
 
@@ -39,19 +38,19 @@ Configure AEM para que você possa acessar, selecionar e importar ativos AEM no 
 
    ![](assets/three.png)
 
-1. Clique no sinal **+** à direita.
+1. Clique no botão **+** assine à direita.
 
    ![](assets/four.png)
 
-1. Na caixa de texto **Origens permitidas (Regexp)**, digite `https://.*\.marketo\.com` e clique em **Salvar**.
+1. No **Origens Permitidas (Regexp)** caixa de texto, digite `https://.*\.marketo\.com` e clique em **Salvar**.
 
    ![](assets/five-psd.png)
 
-1. No cabeçalho na parte superior da página, clique em **Console da Web** e selecione **Informações do Sistema**.
+1. No cabeçalho na parte superior da página, clique em **Console da Web** e selecione **Informações do sistema**.
 
    ![](assets/six.png)
 
-1. Em Informações do servidor, clique no botão **Reiniciar**.
+1. Em Informações do servidor, clique no botão **Reiniciar** botão.
 
    ![](assets/seven.png)
 
@@ -59,7 +58,7 @@ Configure AEM para que você possa acessar, selecionar e importar ativos AEM no 
 
    ![](assets/eight.png)
 
-1. No Marketo Classic, clique em **Admin**.
+1. No Marketo Classic, clique em **Administrador**.
 
    ![](assets/nine.png)
 

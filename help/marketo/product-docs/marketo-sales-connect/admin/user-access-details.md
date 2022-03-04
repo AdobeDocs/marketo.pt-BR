@@ -2,14 +2,13 @@
 unique-page-id: 14352623
 description: Detalhes de acesso do usuário - Documentos do Marketo - Documentação do produto
 title: Detalhes de acesso do usuário
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
-
 
 # Detalhes de acesso do usuário {#user-access-details}
 
@@ -17,11 +16,11 @@ Ao que os administradores e não administradores têm acesso?
 
 ## Permissões de usuário administrador {#admin-user-permissions}
 
-Os administradores podem [visualizar todos os modelos](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
+Administradores podem [exibir todos os modelos](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/templates.jpg)
 
-Os administradores podem [visualizar todas as campanhas](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+Administradores podem [exibir todas as campanhas](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
@@ -41,7 +40,7 @@ Os administradores podem interromper campanhas em nome dos usuários.
 
 ## Permissões de usuário não administrador {#non-admin-user-permissions}
 
-* Analytics:
+* Análises:
 
    * Os usuários podem ver a análise de equipe
    * Os usuários podem detalhar somente as equipes às quais pertencem
