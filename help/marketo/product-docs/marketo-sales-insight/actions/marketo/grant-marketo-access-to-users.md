@@ -4,22 +4,22 @@ title: Conceder acesso ao Marketo aos usuários
 hide: true
 hidefromtoc: true
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Conceder acesso ao Marketo aos usuários {#grant-marketo-access-to-users}
 
-Siga as etapas neste artigo para conceder acesso aos usuários do Marketo Sales à conexão do Marketo. Isso desbloqueará recursos como Momentos interessantes no Feed ao vivo e o acesso às Campanhas de marketing.
+Siga as etapas neste artigo para conceder acesso aos usuários das Ações de insight de vendas para a conexão do Marketo. Isso desbloqueará recursos como Momentos interessantes no Feed ao vivo e o acesso às Campanhas de marketing.
 
-Você precisará [Vendas Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) antes de serem visíveis na página Marketo > Acesso à equipe (no Marketo Sales), onde o acesso à conexão Marketo é concedido.
+Você precisará convidar usuários para [Ações de insight de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) antes de serem visíveis na página Marketo > Acesso à equipe (em Ações de insight de vendas), onde o acesso à conexão do Marketo é concedido.
 
 >[!CAUTION]
 >
->Aguarde dez minutos após a conexão do Marketo Sales com a Marketo antes de executar essas etapas.
+>Aguarde dez minutos após conectar as Ações do Sales Insight com a Marketo antes de executar essas etapas.
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
