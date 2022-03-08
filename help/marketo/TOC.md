@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
+source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
 workflow-type: tm+mt
-source-wordcount: '8394'
+source-wordcount: '8395'
 ht-degree: 5%
 
 ---
@@ -1238,7 +1238,7 @@ ht-degree: 5%
             + [Referencie-se em um campo dinâmico](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + Ações {#actions}
-         + [Visão geral de recursos de ações MSI](product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.md)
+         + [Visão geral de recursos de ações de insight de vendas](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Introdução {#getting-started}
             + [Guia de integração do usuário de ações MSI](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
             + [Guia do administrador de ações do MSI](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
