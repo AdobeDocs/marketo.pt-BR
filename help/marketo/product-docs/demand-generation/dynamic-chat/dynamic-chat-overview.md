@@ -2,10 +2,10 @@
 description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Documentação do produto
 title: Visão geral do bate-papo dinâmico
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
+source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 0%
+source-wordcount: '735'
+ht-degree: 2%
 
 ---
 
@@ -74,3 +74,71 @@ Não oferecemos suporte à funcionalidade AI/NLP.
 **O Dynamic Chat oferece idiomas além do inglês?**
 
 Não neste momento.
+
+## Limites no bate-papo dinâmico {#limits-in-dynamic-chat}
+
+<table>
+  <th>Parâmetro</th>
+  <th>Descrição</th>
+  <th>Limite</th>
+ <tr>
+  <td>Total de caixas de diálogo</td>
+  <td>Número total de Diálogos (publicados e rascunho)</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Caixas de diálogo publicadas</td>
+  <td>Número de caixas de diálogo publicadas salvas</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>Direcionar URLs por caixa de diálogo</td>
+  <td>Número de URLs de destino que podem ser adicionados a uma única caixa de diálogo</td>
+  <td>20º</td>
+ </tr>
+ <tr>
+  <td>Atributos por caixa de diálogo</td>
+  <td>Número de atributos que podem ser adicionados aos critérios de público-alvo para uma única caixa de diálogo</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>Grupos</td>
+  <td>Número de grupos que podem ser adicionados a uma única caixa de diálogo</td>
+  <td>10º</td>
+ </tr>
+ <tr>
+  <td>Atributos por grupo</td>
+  <td>Número de atributos que podem ser adicionados a um grupo</td>
+  <td>10º</td>
+ </tr>
+ <tr>
+  <td>Cartões</td>
+  <td>Número de cartões que podem ser adicionados à tela por caixa de diálogo</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Período Anônimo de Retenção de Dados de Lead</td>
+  <td>Duração por quanto tempo as informações de um lead anônimo sem qualquer envolvimento serão retidas</td>
+  <td>90 dias</td>
+ </tr>
+ <tr>
+  <td>Período de retenção da atividade de meta</td>
+  <td>A quantidade de tempo que os dados da atividade da meta são retidos</td>
+  <td>24 meses</td>
+ </tr>
+ <tr>
+  <td>Período de retenção da atividade do documento</td>
+  <td>Tempo em que os dados da atividade do documento são retidos</td>
+  <td>24 meses</td>
+ </tr>
+ <tr>
+  <td>Interagido com Período de Retenção da Atividade de Diálogo</td>
+  <td>A quantidade de tempo que interagiu com os dados da atividade Dialog é retida</td>
+  <td>90 dias</td>
+ </tr>
+ <tr>
+  <td>Período de Retenção da Atividade de Reserva de Reunião</td>
+  <td>A atividade de reserva de horário será armazenada no Bate-papo dinâmico</td>
+  <td>24 meses</td>
+ </tr>
+</table>
