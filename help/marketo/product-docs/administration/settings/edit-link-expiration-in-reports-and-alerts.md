@@ -3,10 +3,9 @@ unique-page-id: 2360213
 description: Editar a expiração do link em relatórios e alertas - Documentos do Marketo - Documentação do produto
 title: Editar a expiração do link em relatórios e alertas
 exl-id: 9be08798-c413-451b-9b67-893042668061
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 349309beb754ecd5fcfb26bbda67cda97cc4b29f
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -19,11 +18,11 @@ Os links nos emails de assinatura do relatório expiram após três dias. Para a
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Admin**, clique em **Configurações de logon**.
+1. Em **Administrador**, clique em **Configurações de logon**.
 
    ![](assets/image2014-9-24-11-3a33-3a31.png)
 
-1. Clique em **Editar Expiração de URL**.
+1. Clique em **Editar expiração do URL**.
 
    ![](assets/image2014-9-24-11-3a33-3a43.png)
 
@@ -31,8 +30,6 @@ Os links nos emails de assinatura do relatório expiram após três dias. Para a
 
    ![](assets/emaillinkexpiration.png)
 
-Legal, você editou as configurações de expiração do link de email.
-
->[!NOTE]
+>[!IMPORTANT]
 >
->Lembre-se, elas se aplicam apenas aos links em relatórios e alertas, não aos emails de marketing.
+>Essa configuração se aplica somente aos links em relatórios e alertas. Ele faz **not** aplicar ao email [baixar relatório](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) emails de link ou marketing.
