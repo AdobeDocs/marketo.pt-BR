@@ -2,9 +2,9 @@
 description: Visão geral - Documentação do Marketo - Documentação do produto
 title: Visão geral
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '977'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ As assinaturas do Adobe Marketo Engage incorporadas ao Adobe Identity Management
  <tr>
   <td><strong>Administrador de produto do Adobe Admin Console</strong></td>
   <td>Responsável por qualificar os usuários para o produto Marketo Engage no Adobe Admin Console. Atribuição concedida no Adobe Admin Console.</td>
+ </tr>
+ <tr>
+  <td><strong>Administrador de perfil de produto do Adobe Admin Console</strong></td>
+  <td>Administra as descrições do Perfil do produto atribuídas a esse Administrador e todas as funções administrativas associadas.</td>
  </tr>
  <tr>
   <td><strong>Administrador de produto do Marketo Engage</strong></td>

@@ -3,23 +3,26 @@ unique-page-id: 2360358
 description: Restringir logon de usuário somente ao SSO - Documentos do Marketo - Documentação do produto
 title: Login de usuário restrito apenas a SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '232'
 ht-degree: 5%
 
 ---
 
 # Login de usuário restrito apenas a SSO {#restrict-user-login-to-sso-only}
 
-Se você estiver [usando SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) e quiser garantir que os usuários não possam ignorar a segurança SSO, siga estas instruções.
+Se você estiver [usando SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) e deseja garantir que os usuários não possam ignorar a segurança do SSO, siga estas instruções.
+
+>[!IMPORTANT]
+>
+>Este artigo não se aplica a [Habilitado para Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md) Assinaturas da Marketo.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para **Admin** e clique em **Definições de Início de Sessão**.
+1. Ir para **Administrador** e clique em **Configurações de logon**.
 
    ![](assets/image2014-9-24-14-3a44-3a40.png)
 
@@ -27,17 +30,17 @@ Se você estiver [usando SSO](/help/marketo/product-docs/administration/addition
 
    ![](assets/image2014-9-24-14-3a44-3a53.png)
 
-1. Expanda as Configurações avançadas, marque **Exigir SSO** e clique em **Salvar**.
+1. Expanda as configurações avançadas, marque **Exigir SSO** e clique em **Salvar**.
 
 ![](assets/image2014-9-24-14-3a45-3a6.png)
 
 >[!NOTE]
 >
->A prática recomendada é que os usuários sejam convidados e aceitem o convite. __ Depois que o convite for aceito, os administradores devem defini-los como &quot;Exigir SSO&quot;.
+>A prática recomendada é que os usuários sejam convidados e aceitem o convite. _Depois_ se o convite for aceito, os administradores devem defini-los como &quot;Exigir SSO&quot;.
 
 >[!TIP]
 >
->Se você selecionar **Exigir SSO**, poderá excluir [função de usuário](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) dessa restrição marcando a opção **Ignorar logon único** ao configurar a função. Isso permitirá que os usuários façam logon normalmente. Por exemplo, os usuários administradores ainda podem precisar fazer logon no Marketo pela tela de logon.
+>Se você selecionar **Exigir SSO**, você pode excluir um [função de usuário](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) desta restrição, verificando a **Ignorar logon único** durante a configuração da função. Isso permitirá que os usuários façam logon normalmente. Por exemplo, os usuários administradores ainda podem precisar fazer logon no Marketo pela tela de logon.
 
 >[!CAUTION]
 >
