@@ -2,9 +2,9 @@
 description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Documentação do produto
 title: Visão geral do bate-papo dinâmico
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
+source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '742'
 ht-degree: 2%
 
 ---
@@ -55,6 +55,10 @@ Você também pode personalizar o corpo do convite enviado ao visitante quando e
 
 ## Perguntas frequentes {#faq}
 
+**Os dados são armazenados por quanto tempo?**
+
+90 dias (consulte a lista completa de limites [below](#limits-in-dynamic-chat)).
+
 **O Bate-papo dinâmico permite o bate-papo ao vivo?**
 
 Não, ele utiliza apenas respostas predeterminadas.
@@ -66,10 +70,6 @@ Na caixa de diálogo, é necessário usar o _O e-mail da pessoa está vazio_ atr
 **Você suporta a funcionalidade AI/NLP?**
 
 Não oferecemos suporte à funcionalidade AI/NLP.
-
-**Os dados são armazenados por quanto tempo?**
-
-90 dias.
 
 **O Dynamic Chat oferece idiomas além do inglês?**
 
