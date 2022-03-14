@@ -3,9 +3,9 @@ description: Desconecte O Salesforce Das Ações De Insight De Vendas - Document
 title: Desconecte O Salesforce Das Ações De Insight De Vendas
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '109'
 ht-degree: 1%
 
 ---
@@ -18,21 +18,21 @@ ht-degree: 1%
 
 1. Em Ações de insight de vendas, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
 1. Em Configurações de administração, clique em **Salesforce**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
 1. Na guia Conexões e personalizações , clique em **Desconectar**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
 ## Como desconectar-se do Salesforce como um não administrador {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
 1. Em Ações de insight de vendas, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
 1. Em Minha conta, selecione **Salesforce**.
 

@@ -1,5 +1,5 @@
 ---
-description: Doc - Marketo Docs - Product Documentation
+description: Doc - Documentação da Marketo - Documentação do produto
 title: Documento
 hide: true
 hidefromtoc: true
