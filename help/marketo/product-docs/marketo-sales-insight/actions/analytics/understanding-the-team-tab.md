@@ -1,6 +1,6 @@
 ---
-description: Understanding the Team Tab - Marketo Docs - Product Documentation
-title: Understanding the Team Tab
+description: Guia Equipe - Documentação da Marketo - Documentação do produto
+title: Noções básicas sobre a guia Equipe
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,20 +10,20 @@ ht-degree: 0%
 
 ---
 
-# Understanding the Team Tab {#understanding-the-team-tab}
+# Noções básicas sobre a guia Equipe {#understanding-the-team-tab}
 
-In the Team Tab we highlight three important metrics.
+Na guia Equipe , destacamos três métricas importantes.
 
-## Emails sent with template {#emails-sent-with-template}
+## Emails enviados com modelo {#emails-sent-with-template}
 
-Of the emails that have been sent, how many of them utilized a template.
+Dos emails enviados, quantos utilizaram um modelo.
 
-## Peak time of engagement {#peak-time-of-engagement}
+## Hora de pico do envolvimento {#peak-time-of-engagement}
 
-Across the board we bubble up the peak time of engagement that indicates what time of day your team is getting the most activity (views, clicks, replies). Your team can schedule emails or plan to send emails strategically around this time.
+Em todo o quadro, propagamos o horário de pico do engajamento, que indica a hora do dia em que sua equipe está obtendo mais atividade (exibições, cliques, respostas). Sua equipe pode agendar emails ou planejar enviar emails estrategicamente dessa vez.
 
-## Deals closed {#deals-closed}
+## Contratos fechados {#deals-closed}
 
-This is based on the sales gong and how many deals have been closed within the current month.
+Isso se baseia no ciclo de vendas e no número de transações fechadas no mês atual.
 
-As a bonus, we total your team&#39;s view rate engagement. In this Tab, you can also see the Rep Leaderboard. Email stats for each person in your team are displayed here.
+Como bônus, obtemos o envolvimento com a taxa de visualização de sua equipe. Nesta guia, você também pode ver o Quadro de líderes do Rep. Estatísticas de email para cada pessoa em sua equipe são exibidas aqui.

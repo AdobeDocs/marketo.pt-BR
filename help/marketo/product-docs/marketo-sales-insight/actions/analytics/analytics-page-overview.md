@@ -1,6 +1,6 @@
 ---
-description: Analytics Page Overview - Marketo Docs - Product Documentation
-title: Analytics Page Overview
+description: Visão geral da página do Analytics - Documentos do Marketo - Documentação do produto
+title: Visão geral da página do Analytics
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,40 +10,40 @@ ht-degree: 0%
 
 ---
 
-# Analytics Page Overview {#analytics-page-overview}
+# Visão geral da página do Analytics {#analytics-page-overview}
 
-The Analytics tab is where you see data regarding your emails&#39; engagement. Both individual and team data are displayed. Admins can also filter by the user on the Me tab.
+A guia Analytics é onde você vê dados sobre o envolvimento de seus emails. Os dados individuais e da equipe são exibidos. Os administradores também podem filtrar pelo usuário na guia Me .
 
-## How Often Does it Update? {#how-often-does-it-update}
+## Com que frequência ele é atualizado? {#how-often-does-it-update}
 
-The analytics page updates every ten minutes.
+A página de análise é atualizada a cada dez minutos.
 
-## What Do the Numbers Mean? {#what-do-the-numbers-mean}
+## O que significam os números? {#what-do-the-numbers-mean}
 
-The numbers within the radials are calculating the total number of events on all emails sent. So if a single same email is viewed five times, it will add five views to this number. The same idea is applied to the clicks and replies counted inside the circle.
+Os números nos radiais calculam o número total de eventos em todos os emails enviados. Portanto, se um mesmo email for visualizado cinco vezes, ele adicionará cinco visualizações a esse número. A mesma ideia é aplicada aos cliques e respostas contadas dentro do círculo.
 
-All of our stats kept inside the table will be calculated by looking at the unique views, clicks, and replies to your emails. If one email is viewed five times, we will count that as one view. That&#39;s why you may see a big difference in the numbers in the tables versus the numbers in the radial.
+Todas as estatísticas mantidas dentro da tabela serão calculadas observando as exibições exclusivas, cliques e respostas aos seus emails. Se um email for visualizado cinco vezes, contaremos como uma visualização. É por isso que você pode ver uma grande diferença nos números nas tabelas versus os números no radial.
 
-## Analytic Tabs {#analytic-tabs}
+## Guias do Analytics {#analytic-tabs}
 
-We break your stats into three separate tabs: Me, Team, and Content. You can use each one to get a different perspective on the insight we provide.
+Dividimos suas estatísticas em três guias separadas: Eu, Equipe e Conteúdo. Você pode usar cada um para obter uma perspectiva diferente sobre o insight que fornecemos.
 
-When going from tab to tab on the analytics page you can sort your stats by clicking on the view, click, or reply icons.
+Ao ir de guia para guia na página de análise, é possível classificar as estatísticas clicando nos ícones de exibição, clique ou resposta.
 
-In the Me and Team tabs you will see information about deals closed. This number is controlled by how many times people on your team ring the gong.
+Nas guias Me e Equipe , você verá informações sobre ofertas fechadas. Esse número é controlado pela quantidade de vezes que pessoas em sua equipe tocam o gongo.
 
-## Me Tab {#me-tab}
+## Guia Me {#me-tab}
 
-[](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md) If you&#39;re an admin in Sales Insight Actions, you can filter by any user on your team to see their stats.
+O [Guia Me](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md) O é um excelente local para verificar a participação de seus emails, modelos e links. Se você for um administrador nas Ações de informações de vendas, poderá filtrar por qualquer usuário em sua equipe para ver suas estatísticas.
 
-## Team Tab {#team-tab}
+## Guia Equipe {#team-tab}
 
-[](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md) You can also filter by any subteams you have created.
+No [Guia Equipe](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md), consulte estatísticas e classificações para toda a sua equipe. Também é possível filtrar por subequipes criadas.
 
-## Content Tab {#content-tab}
+## Guia Conteúdo {#content-tab}
 
-[](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md) You can either filter by everyone, or by teams your admins have created.
+O [Guia Content](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md) contém estatísticas em modelos, conteúdo e links. Você pode filtrar por todos ou por equipes criadas por seus administradores.
 
-If you see blue text under the subject column, it means the template is shared. You can click the blue text to be taken to that template. ****
+Se vir texto azul na coluna de assunto, significa que o modelo é compartilhado. Você pode clicar no texto azul a ser levado para esse modelo. Visualize seu uso clicando em **Análise de modelo**.
 
-&quot;Clicks on content&quot; are counted when a recipient clicks a link in your email.
+&quot;Cliques no conteúdo&quot; são contados quando um recipient clica em um link em seu email.

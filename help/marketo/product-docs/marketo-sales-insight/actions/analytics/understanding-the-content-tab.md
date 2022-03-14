@@ -1,6 +1,6 @@
 ---
-description: Understanding the Content Tab - Marketo Docs - Product Documentation
-title: Understanding the Content Tab
+description: Noções básicas sobre a guia Conteúdo - Documentação do Marketo - Documentação do produto
+title: Como entender a guia Conteúdo
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,22 +10,22 @@ ht-degree: 0%
 
 ---
 
-# Understanding the Content Tab {#understanding-the-content-tab}
+# Como entender a guia Conteúdo {#understanding-the-content-tab}
 
-The Content Tab is all about your team&#39;s email engagement when using a template. We automatically bubble up three metrics that we believe to be important.
+A guia Conteúdo trata do envolvimento de email da sua equipe ao usar um modelo. Nós automaticamente criamos três métricas que acreditamos serem importantes.
 
-## Secret weapon {#secret-weapon}
+## Arma secreta {#secret-weapon}
 
-This is an email template that has not yet been shared with the team, but is receiving a high level of engagement. We show you the template subject line and the creator of the template. This is a great opportunity to reach out to this rep and recommend that they share the template!
+Este é um template de email que ainda não foi compartilhado com a equipe, mas está recebendo um alto nível de engajamento. Mostramos a linha de assunto do modelo e o criador do modelo. Essa é uma ótima oportunidade para entrar em contato com esse representante e recomendar que ele compartilhe o template!
 
-## Highest engagement {#highest-engagement}
+## Maior envolvimento {#highest-engagement}
 
-This is the shared template that is getting the highest level of engagement across the board.
+Este é o modelo compartilhado que está obtendo o mais alto nível de engajamento em todos os quadros.
 
-## Lowest engagement {#lowest-engagement}
+## Participação mais baixa {#lowest-engagement}
 
-Can be shared or not shared, this is the template with the least amount of engagement.
+Pode ser compartilhado ou não, este é o modelo com a menor quantidade de envolvimento.
 
-Scroll down the page to see the Templates section that shows all the templates your team has been using (in this time frame) with the most views.
+Role a página para baixo para ver a seção Modelos que mostra todos os modelos que sua equipe tem usado (nesse período) com mais visualizações.
 
-You can also see the Top Attachments that your team has sent (getting the most views), and the Top Links (getting the most clicks).
+Você também pode ver os Principais anexos enviados pela sua equipe (obtendo a maioria das visualizações) e os Principais links (recebendo a maioria dos cliques).
