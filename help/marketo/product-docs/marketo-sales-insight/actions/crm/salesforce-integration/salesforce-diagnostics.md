@@ -3,9 +3,9 @@ description: Salesforce Diagnostics - Documentos do Marketo - Documentação do 
 title: Salesforce Diagnostics
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1445'
 ht-degree: 1%
 
 ---
@@ -131,7 +131,7 @@ Parte de nossa integração com o Salesforce inclui uma página de diagnóstico 
 
 **Erro:** INVALID_FIELD_FOR_INSERT_UPDATE\
 **Categoria:** Acesso/validação\
-**Mensagem:** Não é possível criar/atualizar campos: ToutApp__Tout_Last_Replied__c. Verifique as configurações de segurança deste campo.
+**Mensagem:** Não é possível criar/atualizar campos: MSE_Replied__c. Verifique as configurações de segurança deste campo.
 **O que está acontecendo:** Os usuários não têm acesso de gravação aos campos personalizados Ações de insight de vendas necessários para executar a transação de registro de atividade mais recente. O grupo pode ter instalado o pacote, mas não ativou os campos corretos para os usuários.\
 **Etapas de solução de problemas:** O administrador do Salesforce precisa conceder acesso aos campos personalizados OU desativar o registro de atividades mais recentes.
 
