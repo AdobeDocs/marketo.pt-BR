@@ -2,9 +2,9 @@
 description: Criar um fluxo - Documentos do Marketo - Documentação do produto
 title: Criar um fluxo
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: d2ac03bd01e1dd6998d47aac82383b64ffdd3ee7
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -110,7 +110,7 @@ Existem _many_ combinações de fluxo que podem ser criadas. Este artigo contém
 
    ![](assets/create-a-stream-17.png)
 
-1. Para visualizar a caixa de diálogo, clique no ícone de visualização à direita.
+1. Selecione o **Visualizar** alterne para visualizar sua caixa de diálogo.
 
    ![](assets/create-a-stream-18.png)
 
