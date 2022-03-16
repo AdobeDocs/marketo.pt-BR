@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359478
-description: Relatório de desempenho do link de email - Documentos do marketing - Documentação do produto
-title: Relatório de desempenho do link de email
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Relatório de desempenho do link de email - Documentos do Marketo - Documentação do produto
+title: 'Relatório de desempenho de links de e-mail do '
+exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
+source-git-commit: 36315cda6932121da3656ba1ae3495401b321135
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
+# Relatório de desempenho de links de e-mail do  {#email-link-performance-report}
 
-# Relatório de desempenho do link de email {#email-link-performance-report}
+Crie um relatório de desempenho de link de email para ver o desempenho dos links em seus emails.
 
-Crie um relatório de Desempenho do link de email para ver o desempenho dos links em seus emails.
-
-1. [Crie um relatório em um ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa e selecione  **Email Link** Performance como o tipo de relatório.
+1. [Criar um relatório em um programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione **Desempenho do link de email** como o tipo de relatório.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -23,7 +22,7 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. Clique com o duplo em **Data da Atividade** em **Configurações**.
+1. Clique duas vezes em **Data da atividade** under **Configurações**.
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
@@ -35,11 +34,11 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
-1. Ótimo! Agora você criou um relatório de Desempenho do link de email.
+1. Ótimo! Agora você criou um relatório de Desempenho de link de email .
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[As colunas ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) disponíveis para um relatório de Desempenho do link de email incluem:
+[Colunas disponíveis](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para um relatório de Desempenho de link de email, inclua:
 
 <table> 
  <thead> 
@@ -58,23 +57,27 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
    <td colspan="1" rowspan="1">O número de vezes que o link foi clicado.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% cliques</td> 
+   <td colspan="1" rowspan="1">% de cliques</td> 
    <td colspan="1" rowspan="1">Do total de cliques em todos os links nesse email, a porcentagem neste link.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Pessoas</td> 
-   <td colspan="1" rowspan="1">O número de pessoas únicas que clicaram no link.</td> 
+   <td colspan="1" rowspan="1">O número de pessoas exclusivas que clicaram no link.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% de Pessoas</td> 
-   <td colspan="1" rowspan="1">Do total de pessoas únicas que clicaram em links nesse email, a porcentagem neste link.</td> 
+   <td colspan="1" rowspan="1">% pessoas</td> 
+   <td colspan="1" rowspan="1">Do total de pessoas exclusivas que clicaram em links nesse email, porcentagem neste link.</td> 
   </tr> 
  </tbody> 
 </table>
 
+>[!NOTE]
+>
+>Este relatório mostrará &quot;link malformado&quot; quando links inválidos/vazios forem adicionados a um email. Caso veja essa mensagem, [verifique a fonte de HTML](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) no editor de email para links vazios ou tokens que não preenchem um link completo.
+
 >[!TIP]
 >
->Se quiser saber exatamente o que uma pessoa fez, abra o [Log de Atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) na página [Detalhes da pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) na guia Membros do programa.
+>Se você quer saber exatamente o que uma pessoa fez, você pode abrir o [Log de atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) no [Detalhes da pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) na guia Membros do programa.
 
 >[!MORELIKETHIS]
 >
