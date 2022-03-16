@@ -1,14 +1,13 @@
 ---
 description: Enviar uma lista para uma rede de anúncios - Documentos do Marketo - Documentação do produto
 title: Enviar uma lista para uma rede de anúncios
-translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
-
 
 # Enviar uma lista para uma rede de anúncios {#send-a-list-to-an-ad-network}
 
@@ -16,11 +15,11 @@ Saiba como enviar uma lista estática para o LinkedIn, Facebook ou Google.
 
 ## Como enviar uma lista {#how-to-send-a-list}
 
-1. No Marketo, selecione a lista, clique no menu suspenso **List Actions** e selecione **Send to Ad Network**.
+1. No Marketo, selecione a lista e clique no botão **Ações de lista** e selecione **Enviar para a rede de anúncios**.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Escolha entre LinkedIn, Facebook ou Google (as outras opções não estão disponíveis no momento). Neste exemplo, estamos escolhendo **LinkedIn**. Clique em **Next**.
+1. Escolha entre LinkedIn, Facebook ou Google (as outras opções não estão disponíveis no momento). Neste exemplo, estamos escolhendo **linkedIn**. Clique em **Próximo**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
@@ -38,7 +37,7 @@ Saiba como enviar uma lista estática para o LinkedIn, Facebook ou Google.
 
    >[!NOTE]
    >
-   >Se você selecionar &quot;Ativar sincronização contínua de público-alvo&quot;, o Marketo manterá a lista atualizada na Rede de publicidade escolhida, conforme a associação à lista é alterada em sua instância do Marketo.
+   >Se você selecionar &quot;Ativar sincronização contínua de público-alvo&quot;, a Marketo manterá a lista atualizada na Rede de publicidade escolhida, conforme a lista é alterada em sua instância do Marketo. Ambos adicionamos **e** remover pessoas do público-alvo se elas forem adicionadas/removidas da lista estática.
 
 1. E é isso! Clique em **OK** para sair.
 

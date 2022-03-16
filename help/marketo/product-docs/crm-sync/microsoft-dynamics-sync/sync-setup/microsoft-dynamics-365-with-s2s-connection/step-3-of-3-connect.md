@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Etapa 3 de 3 - Conectar a solução Marketo com conexão de servidor para servidor - Documentação da Marketo - Documentação do produto
 title: Etapa 3 de 3 - Conectar a solução Marketo com a conexão de servidor ao servidor
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '446'
 ht-degree: 1%
 
 ---
@@ -54,7 +54,7 @@ Esta é a última etapa da sincronização. Estamos quase lá!
    >
    >Certifique-se de que o URL da organização esteja correto, pois não podemos reverter as alterações subsequentes do esquema após o envio. Se um URL de organização incorreto for usado, você terá que obter uma nova assinatura do Marketo. Se você não souber o URL, [saiba como encontrá-lo aqui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. Insira o **Nome do usuário**, **Senha**, **ID do cliente**, **Segredo do cliente** e Microsoft Dynamics **URL**. Clique em **Salvar** quando concluído.
+1. Insira as informações do Usuário do Dynamics Sync e clique em **Salvar** quando concluído.
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
