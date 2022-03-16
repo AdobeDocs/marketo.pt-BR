@@ -2,9 +2,9 @@
 description: Diálogos - Documentos do Marketo - Documentação do produto
 title: Diálogos
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '756'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ As caixas de diálogo são conversas de chat individuais. Saiba como personaliz�
 
    ![](assets/dialogues-2.png)
 
-1. Insira um nome (a descrição é opcional), defina o nível de prioridade e clique em **Salvar**.
+1. Escolha uma caixa de diálogo em branco ou um dos modelos pré-preenchidos. Insira um nome (a descrição é opcional), altere o nível de prioridade (opcional) e clique em **Criar**.
 
    ![](assets/dialogues-3.png)
 

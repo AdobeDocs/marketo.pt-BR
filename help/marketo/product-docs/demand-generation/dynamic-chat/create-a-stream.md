@@ -2,16 +2,18 @@
 description: Criar um fluxo - Documentos do Marketo - Documentação do produto
 title: Criar um fluxo
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # Criar um fluxo {#create-a-stream}
 
-Existem _many_ combinações de fluxo que podem ser criadas. Abaixo está um exemplo em que o profissional de marketing pergunta ao visitante do site se ele tem alguma dúvida sobre o produto. Em caso positivo, o visitante pode agendar um compromisso. Se não, o visitante recebe a opção de ingressar em uma lista de endereços para correspondência futura. A meta é agendar um compromisso ou coletar o email do visitante.
+Existem _many_ combinações de fluxo que podem ser criadas. Este artigo contém um exemplo em que o profissional de marketing pergunta ao visitante do site se ele tem alguma dúvida sobre o produto. Em caso positivo, o visitante pode agendar um compromisso. Se não, o visitante recebe a opção de ingressar em uma lista de endereços para correspondência futura. A meta é agendar um compromisso ou coletar o email do visitante.
+
+![](assets/create-a-stream-0.png)
 
 1. Depois de [criar a caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), clique no botão **Designer de fluxo** guia .
 
@@ -108,9 +110,13 @@ Existem _many_ combinações de fluxo que podem ser criadas. Abaixo está um exe
 
    ![](assets/create-a-stream-17.png)
 
-1. Quando quiser ativar sua caixa de diálogo, clique em **Publicar**.
+1. Para visualizar a caixa de diálogo, clique no ícone de visualização à direita.
 
    ![](assets/create-a-stream-18.png)
+
+1. Quando estiver pronto para ativar sua caixa de diálogo, clique em **Publicar**.
+
+   ![](assets/create-a-stream-19.png)
 
 >[!NOTE]
 >
