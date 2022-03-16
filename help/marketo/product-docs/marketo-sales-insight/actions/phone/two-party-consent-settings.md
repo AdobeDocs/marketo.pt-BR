@@ -3,9 +3,10 @@ description: Configurações de consentimento de duas partes - Documentos do Mar
 title: Configurações de consentimento de duas partes
 hide: true
 hidefromtoc: true
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -20,32 +21,32 @@ Para garantir a conformidade com as leis de consentimento de duas partes dos EUA
 
 1. Clique no ícone Configurações e selecione **Configurações**.
 
-PICC
+   ![](assets/two-party-consent-settings-1.png)
 
 1. Em Configurações de administração, clique em **Geral**.
 
-PICC
+   ![](assets/two-party-consent-settings-2.png)
 
-1. Role para baixo até Configurações do telefone da conexão de vendas e clique em **Gerenciar aviso de gravação**.
+1. No cartão Gravação de chamada , clique em **Gerenciar aviso de gravação**.
 
-PICC
+   ![](assets/two-party-consent-settings-3.png)
 
 1. Clique em **Importar Gravação**.
 
-PICC
+   ![](assets/two-party-consent-settings-4.png)
 
->[!NOTE]
->
->Somente arquivos Wav e MP3 são compatíveis. Não é possível carregar um arquivo por mais de 30 segundos.
+   >[!NOTE]
+   >
+   >Somente arquivos Wav e MP3 são compatíveis. Não é possível carregar um arquivo por mais de 30 segundos.
 
-1. Selecione o arquivo de áudio desejado em seu disco rígido.
+1. Selecione os arquivos de áudio desejados no disco rígido.
 
-PICC
+   ![](assets/two-party-consent-settings-5.png)
 
 1. Quando o upload estiver concluído, selecione os dados (três pontos) no gerenciador de arquivos e clique em **Selecionar como aviso de consentimento**. Clique em **OK** quando concluído.
 
-PICC
+   ![](assets/two-party-consent-settings-6.png)
 
 1. Clique no botão de alternância para habilitar a reprodução da mensagem selecionada no início das chamadas registradas.
 
-PICC
+   ![](assets/two-party-consent-settings-7.png)
