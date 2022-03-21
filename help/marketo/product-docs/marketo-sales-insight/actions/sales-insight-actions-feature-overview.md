@@ -2,9 +2,9 @@
 description: Visão geral de recursos de ações de insight de vendas - Documentos do Marketo - Documentação do produto
 title: Visão geral de recursos de ações de insight de vendas
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '1316'
+source-wordcount: '1336'
 ht-degree: 1%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 1%
 # Visão geral de recursos de ações de insight de vendas {#msi-actions-feature-overview}
 
 Acelere os esforços de prospecção com inteligência e ferramentas de engajamento acionadas por marketing em um único fluxo de trabalho usando as Ações de insight de vendas.
+
+>[!AVAILABILITY]
+>
+>Este recurso está atualmente na GA limitada. Entre em contato com o Gerente de sucesso do cliente ou envie um email para `sales-insights(at)adobe(dot)com` para solicitar acesso.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -21,7 +25,7 @@ As seguintes ações estão disponíveis na lista suspensa &quot;Escolher açõe
 
 * Enviar e-mail de vendas
    * Os emails de vendas têm rastreamento de visualização, clique e resposta (quando o canal de delivery está configurado)
-   * Inclui personalização de email, assinatura personalizada e anexos
+   * Inclui Personalization de email, assinatura personalizada e anexos
    * Compartilhamento de modelos e relatórios
    * Compartilhamento de equipe, emails de grupo e capacidade CC/CCO
    * A atividade de email de vendas será registrada no registro de pessoa do Marketo
@@ -73,7 +77,7 @@ As seguintes ações estão disponíveis na navegação superior:
 
 * Enviar email de vendas - Capacidade de enviar emails de grupo personalizados ou modelos com rastreamento de visualização, cliques e respostas para todos os contatos associados a uma conta/oportunidade
    * Os emails de vendas têm rastreamento de visualização, clique e resposta (quando o canal de delivery está configurado)
-   * Inclui Personalization de email, assinatura personalizada e anexos
+   * Inclui personalização de email, assinatura personalizada e anexos
    * Compartilhamento de modelos e relatórios
    * Compartilhamento de equipe, emails de grupo e capacidade CC/CCO
    * A atividade de email de vendas será registrada no registro de pessoa do Marketo

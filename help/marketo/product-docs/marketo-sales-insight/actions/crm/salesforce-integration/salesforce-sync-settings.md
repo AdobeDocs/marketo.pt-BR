@@ -4,10 +4,10 @@ title: Configurações de sincronização do Salesforce
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 1%
+source-wordcount: '709'
+ht-degree: 0%
 
 ---
 
@@ -114,3 +114,21 @@ Se você não vir Meu email para o Salesforce em suas Configurações, seu Admin
 1. Escolha a opção desejada (&quot;Não sincronizar com tarefas do Salesforce&quot; está selecionada por padrão).
 
    ![](assets/salesforce-sync-settings-14.png)
+
+## Sincronização de tarefas de insight de vendas com o Salesforce pela primeira vez {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+
+Quando você ativa a sincronização entre as Ações de insight de vendas e as tarefas do Salesforce pela primeira vez, importamos suas tarefas do Salesforce. Não enviaremos nenhuma tarefa atual que você tenha em Ações de insight de vendas para o Salesforce. Para reduzir a desordem e as duplicatas, as únicas tarefas sincronizadas das Ações de Insight de Vendas no Salesforce são tarefas criadas após sincronizar Ações de Insight de Vendas com o SFDC.
+
+Veja o que acontece quando você sincroniza ações de insight de vendas e tarefas SFDC:
+
+Assim que você clicar em salvar na sincronização de tarefas, eles começarão a sincronizar. Isso levará algum tempo inicialmente.
+
+Todos os lembretes que foram atualizados ou criados nas últimas 24 horas serão transferidos do SFDC para Ações de Insight de Vendas. A sincronização é baseada na data de vencimento e todas essas tarefas serão sincronizadas no back-end, mas no Centro de comando, você só verá tarefas que vencem hoje e amanhã.
+
+Se a sincronização tiver sido ativada anteriormente e você excluir qualquer tarefa no SFDC, qualquer coisa que tenha sido excluída nos últimos 15 dias será excluída do Centro de Comando.
+
+Nós sincronizaremos constantemente as tarefas entre as Ações de insight de vendas e o SFDC, desde que a sincronização esteja ativada.
+
+Após a sincronização inicial, qualquer tarefa que você criar, editar, concluir ou excluir em Ações de Insight de vendas será sincronizada com a lista de tarefas no Salesforce. E qualquer item criado, editado, concluído ou excluído no Salesforce atualizará sua lista de tarefas em Ações de insight de vendas.
+
+Para ativar essa sincronização, basta marcar a caixa de sincronização na página Configurações no aplicativo Web.
