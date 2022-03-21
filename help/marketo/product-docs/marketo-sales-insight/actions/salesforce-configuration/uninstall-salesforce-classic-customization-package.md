@@ -1,10 +1,8 @@
 ---
 description: Desinstale o Pacote de personalização do Salesforce Classic - Documentos do Marketo - Documentação do produto
 title: Desinstalar Pacote de Personalização do Salesforce Classic
-hide: true
-hidefromtoc: true
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 83556a56bddc1bdbeb5a5e93ec3a2c0d92aed831
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1187'
 ht-degree: 8%

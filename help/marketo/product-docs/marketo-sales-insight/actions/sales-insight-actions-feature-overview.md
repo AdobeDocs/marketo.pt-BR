@@ -1,10 +1,8 @@
 ---
 description: Visão geral de recursos de ações de insight de vendas - Documentos do Marketo - Documentação do produto
 title: Visão geral de recursos de ações de insight de vendas
-hide: true
-hidefromtoc: true
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%
@@ -75,7 +73,7 @@ As seguintes ações estão disponíveis na navegação superior:
 
 * Enviar email de vendas - Capacidade de enviar emails de grupo personalizados ou modelos com rastreamento de visualização, cliques e respostas para todos os contatos associados a uma conta/oportunidade
    * Os emails de vendas têm rastreamento de visualização, clique e resposta (quando o canal de delivery está configurado)
-   * Inclui personalização de email, assinatura personalizada e anexos
+   * Inclui Personalization de email, assinatura personalizada e anexos
    * Compartilhamento de modelos e relatórios
    * Compartilhamento de equipe, emails de grupo e capacidade CC/CCO
    * A atividade de email de vendas será registrada no registro de pessoa do Marketo
