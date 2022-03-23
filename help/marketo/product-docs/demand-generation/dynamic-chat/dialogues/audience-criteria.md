@@ -1,0 +1,97 @@
+---
+description: Critérios de público-alvo - Documentos do Marketo - Documentação do produto
+title: Critérios de público-alvo
+source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+workflow-type: tm+mt
+source-wordcount: '395'
+ht-degree: 1%
+
+---
+
+# Critérios de público-alvo {#audience-criteria}
+
+Semelhante às Smart Lists da Marketo, os atributos de Critérios de público-alvo permitem que você defina seu público-alvo. Você pode direcionar pessoas conhecidas ou desconhecidas usando atributos inferidos, de pessoa ou da empresa (ou uma combinação desses atributos).
+
+**Pessoas conhecidas**
+
+Existem _many_ combinações de atributos para escolher. Neste exemplo, estamos direcionando tudo **pessoas conhecidas** na Califórnia, que trabalham em uma empresa com mais de 50 funcionários.
+
+1. Pegue o **Estado da pessoa** e arraste-o para a direita.
+
+   ![](assets/audience-criteria-1.png)
+
+1. _Is_ é definido por padrão. No campo Selecionar valores , digite CA (também é possível clicar no menu suspenso e selecionar na lista).
+
+   ![](assets/audience-criteria-2.png)
+
+1. Pegue o **Tamanho da empresa** atribua-o e arraste-o para onde ele diz _arraste e solte um atributo aqui_.
+
+   ![](assets/audience-criteria-3.png)
+
+   >[!NOTE]
+   >
+   >Você também pode escolher um atributo clicando em **+** ícone .
+
+1. Clique no menu suspenso do operador e selecione **Maior que**.
+
+   ![](assets/audience-criteria-4.png)
+
+1. Digite 50 e clique em outro lugar na tela para salvar.
+
+   ![](assets/audience-criteria-5.png)
+
+E é isso!
+
+**Pessoas anônimas**
+
+Há uma maneira fácil de direcionar especificamente as pessoas que ainda não estão no seu banco de dados. Neste exemplo, estamos direcionando tudo **pessoas anônimas** localizada na área de Nova York.
+
+1. Pegue o **Email da pessoa** e arraste-o para a direita.
+
+   ![](assets/audience-criteria-6.png)
+
+1. Clique no menu suspenso do operador e selecione **Está vazio**.
+
+   ![](assets/audience-criteria-7.png)
+
+1. Pegue o **Estado inferido** atribua-o e arraste-o para onde ele diz _arraste e solte um atributo aqui_.
+
+   ![](assets/audience-criteria-8.png)
+
+   >[!NOTE]
+   >
+   >Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Os cookies e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
+
+1. _Is_ é definido por padrão. No campo Selecionar valores , digite NY (também é possível clicar no menu suspenso e selecionar na lista).
+
+   ![](assets/audience-criteria-9.png)
+
+## Adicionar grupos {#add-groups}
+
+Você também tem a opção de agrupar atributos, caso queira ter todos os atributos específicos junto com &quot;todos ou qualquer&quot; um dos outros. Você pode adicionar vários grupos.
+
+![](assets/audience-criteria-10.png)
+
+![](assets/audience-criteria-11.png)
+
+## Destino {#target}
+
+É aqui que você insere as URLs nas quais deseja que uma caixa de diálogo específica seja exibida.
+
+Formatos aceitáveis:
+
+* `http://website.com`
+* `https://*.website.com`
+* `http://website.com/folder/*`
+* `https://*.website.com/folder/*`
+
+>[!NOTE]
+>
+>O uso de um asterisco atua como um curinga abrangente. So `https://*.website.com` coloca a caixa de diálogo em cada página do site, incluindo subdomínios (por exemplo: `support.website.com`). E `https://website.com/folder/*` colocaria a caixa de diálogo em cada página HTML na pasta subsequente (por exemplo: nesse caso, considere que a pasta é &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
+
+>[!MORELIKETHIS]
+>
+>* [Criar uma caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
+>* [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
+>* [Relatórios](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
+
