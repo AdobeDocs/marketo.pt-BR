@@ -2,9 +2,9 @@
 description: Stream Designer - Documentos do Marketo - Documentação do produto
 title: Designer de fluxo
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '596'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ O designer de fluxo contém vários cartões que podem ser adicionados para mold
 
 ## Criar um fluxo {#create-a-stream}
 
-1. Depois de ter [criou a caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md), clique no botão **Designer de fluxo** guia .
+1. Depois de ter [criou a caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, clique no link **Designer de fluxo** guia .
 
    ![](assets/create-a-stream-1.png)
 
@@ -148,7 +148,7 @@ O designer de fluxo contém vários cartões que podem ser adicionados para mold
 
 >[!NOTE]
 >
->Antes de clicar em Publicar, lembre-se de ter certeza de que você [introduziu o(s) URL(s) de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Antes de clicar em Publicar, lembre-se de ter certeza de que você [introduziu o(s) URL(s) de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >

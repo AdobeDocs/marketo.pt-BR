@@ -2,9 +2,9 @@
 description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Documentação do produto
 title: Visão geral do bate-papo dinâmico
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '744'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ O seguinte é sincronizado:
 
 ## Diálogos {#dialogues}
 
-As caixas de diálogo representam um único envolvimento de chat. Pense nele como um contêiner com tudo o que você precisa para ter um diálogo de bate-papo envolvente com os visitantes do seu site. Em cada caixa de diálogo, você pode especificar em quais páginas deseja que a caixa de diálogo seja exibida, para quem deseja que ela seja exibida e o conteúdo e fluxo da própria caixa de diálogo. Além disso, você pode encontrar métricas para ver o desempenho da caixa de diálogo. [Saiba mais sobre Diálogos](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+As caixas de diálogo representam um único envolvimento de chat. Pense nele como um contêiner com tudo o que você precisa para ter um diálogo de bate-papo envolvente com os visitantes do seu site. Em cada caixa de diálogo, você pode especificar em quais páginas deseja que a caixa de diálogo seja exibida, para quem deseja que ela seja exibida e o conteúdo e fluxo da própria caixa de diálogo. Além disso, você pode encontrar métricas para ver o desempenho da caixa de diálogo. [Saiba mais sobre Diálogos](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
 
 ## Configuração {#configuration}
 
