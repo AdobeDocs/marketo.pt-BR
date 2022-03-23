@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
+source-git-commit: 1f874dc388143db427c2792a7fe5755d682d6fa4
 workflow-type: tm+mt
-source-wordcount: '8601'
+source-wordcount: '8609'
 ht-degree: 5%
 
 ---
@@ -591,8 +591,12 @@ ht-degree: 5%
          + [Conectar o bate-papo dinâmico ao Marketo](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [Adicionar ou remover usuários de bate-papo](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Configuração](product-docs/demand-generation/dynamic-chat/configuration.md)
-         + [Diálogos](product-docs/demand-generation/dynamic-chat/dialogues.md)
-         + [Criar um fluxo](product-docs/demand-generation/dynamic-chat/create-a-stream.md)
+         + Diálogos {#dialogues}
+            + [Visão geral da caixa de diálogo](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
+            + [Criar uma caixa de diálogo](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
+            + [Critérios de público-alvo](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
+            + [Criar um fluxo](product-docs/demand-generation/dynamic-chat/dialogues/create-a-stream.md)
+            + [Relatórios](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Eventos {#events}
          + Compreensão de eventos {#understanding-events}
             + [Adicionar membros a um programa de evento](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
