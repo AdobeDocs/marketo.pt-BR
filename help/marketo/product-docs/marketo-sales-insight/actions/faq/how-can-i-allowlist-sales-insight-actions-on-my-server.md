@@ -1,9 +1,8 @@
 ---
 description: Como posso Lista de permissões as ações de insight de vendas no meu servidor? - Documentação do Marketo - Documentação do produto
 title: Como posso Lista de permissões as ações de insight de vendas no meu servidor?
-hide: true
-hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%

@@ -1,9 +1,8 @@
 ---
 description: Posso recuperar um contato ou grupo que excluí? - Documentação do Marketo - Documentação do produto
 title: Posso recuperar um contato ou grupo que excluí?
-hide: true
-hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+exl-id: ef783d23-3b43-4e6c-9581-1e7d3958ae54
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
