@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importar um programa - Documentos do Marketo - Documentação do produto
 title: Importar um programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
+source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Um programa pode ser importado de uma assinatura Marketo para outra. Por exemplo
 
 1. Ir para **Atividades de marketing.**
 
-   ![](assets/ma.png)
+   ![](assets/import-a-program-1.png)
 
 1. Clique em **Novo** menu suspenso. Selecionar **Programa de importação**.
 
-   ![](assets/image2014-9-17-12-3a15-3a4.png)
+   ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
@@ -32,23 +32,23 @@ Um programa pode ser importado de uma assinatura Marketo para outra. Por exemplo
 
 1. Selecionar um Marketo **Assinatura** e um programa a importar. Clique em **Próximo**.
 
-   ![](assets/image2014-9-17-12-3a20-3a13.png)
+   ![](assets/import-a-program-3.png)
 
 1. Especifique um **Pasta da campanha** para o programa importado. Clique em **Próximo.**
 
-   ![](assets/image2014-9-17-12-3a20-3a44.png)
+   ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
    >Certifique-se de **Usar conflito padrão** for selecionada. As regras de conflito são necessárias ao importar programas em uma instância que tenha ativos com o mesmo nome.
 
+1. Escolha os Detalhes de conflito desejados e clique em **Próximo**.
+
+   ![](assets/import-a-program-5.png)
+
 1. Visualizar detalhes e **Importar** o programa.
 
-   ![](assets/image2014-9-17-12-3a21-3a36.png)
-
-   Uma caixa de diálogo exibe o progresso da importação do programa.
-
-   ![](assets/image2014-9-17-12-3a21-3a51.png)
+   ![](assets/import-a-program-6.png)
 
 Você receberá uma confirmação por email após a conclusão da importação.
 
@@ -67,7 +67,7 @@ A Biblioteca de programas Marketo contém programas pré-criados e testados que 
 1. **Momentos interessantes.** Cria momentos interessantes para sua equipe de vendas para mantê-los em loop.
 1. **Landing Page com autorresponder.** Use o conteúdo baixável para obter novas pessoas e estimulá-las. Inclui páginas de aterrissagem e formulários.
 1. **Ciclo de vida 2.** Usa pontuação para mover uma pessoa de nova para qualificada de marketing.
-1. **Modelo de email móvel.** Um modelo de email responsivo testado no iPhone e no Android. Certas versões do Android, MS Outlook, Exchange e aplicativos de terceiros, como o Gmail e o Yahoo! Os aplicativos móveis de email não suportam o CSS necessário para modelos responsivos. Recomendamos que você teste antes de enviar emails.
+1. **Modelo de email do Mobile.** Um modelo de email responsivo testado no iPhone e no Android. Certas versões do Android, MS Outlook, Exchange e aplicativos de terceiros, como o Gmail e o Yahoo! Os aplicativos móveis de email não suportam o CSS necessário para modelos responsivos. Recomendamos que você teste antes de enviar emails.
 1. **Sorteio de importação do programa.** Programa de sorteios para quem está tentando a Biblioteca do Programa! Basta aprovar os emails e a landing page e ativar a campanha inteligente. Em seguida, visualize a landing page aprovada, preencha o formulário e você foi inserido!
 1. **Campanhas Disponíveis para Vendas.** Oferece aos representantes de vendas uma maneira de executar campanhas inteligentes do Marketo a partir de um painel em seu CRM.
 1. **Pontuação - Edição Spark.** Pontuação demográfica e comportamental capturada em um único campo de pontuação. Inclui mais de duas dúzias de campanhas relacionadas à pontuação.
