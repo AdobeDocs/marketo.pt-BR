@@ -3,7 +3,8 @@ description: Noções básicas sobre rastreamento de metas e registros projetado
 title: Como entender o rastreamento de metas e os registros projetados
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 22d7ef98-2988-4188-99dd-5558a78492e3
+source-git-commit: b609a268f08a7eef47d32c77a054a7d120339186
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Como entender o rastreamento de metas e os registros projetados {#understanding-goal-tracking-and-projected-registrations}
 
-Depois [definição de metas de evento](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) e enviar convites por meio de um [campanha inteligente](/help/sky/create-a-smart-campaign.md), veja como rastrear o progresso da meta e entender as previsões da Marketo.
+Depois [definição de metas de evento](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) e enviar convites por meio de um [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md), veja como rastrear o progresso da meta e entender as previsões da Marketo.
 
 >[!NOTE]
 >
