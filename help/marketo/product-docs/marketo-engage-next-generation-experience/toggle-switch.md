@@ -2,9 +2,9 @@
 description: Alternar Switch - Documentos do Marketo - Documentação do produto
 title: Alternar Switch
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -81,14 +81,32 @@ A nova experiência será carregada.
 
 ![](assets/toggle-switch-13.png)
 
+## Exibição de lista de formulários {#form-list-view}
+
+1. No Marketo, selecione **Design Studio**.
+
+   ![](assets/toggle-switch-14.png)
+
+1. Selecionar **Forms**.
+
+   ![](assets/toggle-switch-15.png)
+
+1. Na parte inferior direita da página, clique no botão **Nova experiência** alternar.
+
+   ![](assets/toggle-switch-16.png)
+
+A nova experiência será carregada.
+
+![](assets/toggle-switch-17.png)
+
 ## Habilitar para todos os recursos {#enable-for-all-features}
 
 Você tem a opção de ativar a interface da próxima geração do Marketo para todos os recursos disponíveis, atuais e futuros.
 
 1. Em uma área que atualmente tem o Alternar Switch (neste exemplo, estamos em [Página Detalhes do Formulário](#form-details-page)), clique no ícone de engrenagem na parte inferior direita da página.
 
-   ![](assets/toggle-switch-14.png)
+   ![](assets/toggle-switch-18.png)
 
 1. Selecionar **Habilitar para todos os recursos disponíveis** e clique em **OK**.
 
-   ![](assets/toggle-switch-15.png)
+   ![](assets/toggle-switch-19.png)
