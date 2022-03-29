@@ -2,7 +2,7 @@
 description: Visão geral do diálogo - Documentos do Marketo - Documentação do produto
 title: Visão geral da caixa de diálogo
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 1f874dc388143db427c2792a7fe5755d682d6fa4
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -28,3 +28,5 @@ O [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/
 ## Relatórios {#reports}
 
 O [Relatórios](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)A seção {target=&quot;_blank&quot;} de uma caixa de diálogo é onde você poderá ver as métricas sobre o desempenho da caixa de diálogo.
+
+![](assets/dialogue-overview-3.png)
