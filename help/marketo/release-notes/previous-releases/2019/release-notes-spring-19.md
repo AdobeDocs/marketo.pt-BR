@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Notas de versão - Primeiro trimestre de 2019 - Documentos da Marketo - Documentação do produto
 title: Notas de versão - Primeiro trimestre de 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 6%
@@ -24,7 +24,7 @@ Os seguintes recursos foram lançados em 15 de março de 2019.
 
 * **Lista de espera:** Novo status de programa/evento para aguardar a listagem de um membro quando você deseja [coloque-os em espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) até que uma vaga seja aberta. Isso se aplica aos canais associados aos programas Evento no Marketo Classic e aos programas Evento e Evento com Webinar no Marketo Sky. Por padrão, a Lista de Espera tem o mesmo valor de etapa que Registrado.
 * **[Limite de comunicação personalizada](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Agora, os administradores podem definir limites de comunicação diária ou semanal personalizados.
-* **[APIs de ativos do Smart Campaign](https://developers.marketo.com/rest-api/assets/campaigns/)**: Enriqueça sua análise fora do Marketo com a recuperação de registros de campanha inteligente por data e ID atualizadas.
+* **[APIs de ativos do Smart Campaign](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Enriqueça sua análise fora do Marketo com a recuperação de registros de campanha inteligente por data e ID atualizadas.
 * **Links de rastreamento HTTPS para email:** Para clientes que compraram &quot;Domínios seguros para links de rastreamento&quot;, os links de rastreamento de marca agora podem ser exibidos em seus emails como HTTPS.
 * **Atualizações do Powerpack de entregabilidade de email**: Capacidade de sinalizar e comentar resultados de testes específicos, compartilhar resultados com partes interessadas por meio de um URL e acompanhar alterações para ver a evolução de um email como partes interessadas e editar o conteúdo.
 

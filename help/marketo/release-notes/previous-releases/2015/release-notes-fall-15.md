@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: Notas de versão - Último trimestre de 2015 - Documentos da Marketo - Documentação do produto
 title: Notas de versão - Último trimestre de 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '991'
 ht-degree: 2%
 
 ---
@@ -44,27 +44,27 @@ Crie facilmente objetos personalizados a partir da interface do usuário do admi
 
 [Marketo Insights para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Estamos animados em anunciar o lançamento de uma atualização para nossa extensão do Google Mail Sales Insight! Exiba-o no [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Estamos animados em anunciar o lançamento de uma atualização para nossa extensão do Google Mail Sales Insight! Exiba na  [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Esta atualização inclui muitos novos recursos e funcionalidades:
 
 * Antes de se envolverem, os vendedores podem ver informações relevantes sobre seus prospetos diretamente no Google Mail, incluindo títulos de trabalho, perfis do twitter, informações da empresa, fotos e muito mais.
 * Os vendedores podem ver em tempo real quais prospetos de conteúdo estão se envolvendo em todos os canais, como emails abertos ou clicados, eventos online ou presenciais atendidos, páginas da Web visitadas, eBooks baixados e muito mais.
-* Emails enviados pelo Google Mail são registrados no Marketo e rastreados em tempo real. Isso permite que os vendedores vejam quando os prospetos estão olhando seus emails para que possam acompanhar na hora certa. O Marketo Sales Insight for Google Mail também facilita que os vendedores aproveitem os modelos criados pelo marketing para enviar belos convites, ofertas e outros tipos de conteúdo.
+* Os emails enviados pelo Google Mail são registrados no Marketo e rastreados em tempo real. Isso permite que os vendedores vejam quando os prospetos estão olhando seus emails para que possam acompanhar na hora certa. O Marketo Sales Insight for Google Mail também facilita que os vendedores aproveitem os modelos criados pelo marketing para enviar belos convites, ofertas e outros tipos de conteúdo.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketo Mobile Engagement - Tokens, Enviar amostra e Visualizar {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo Mobile Engagement - Tokens, Enviar Amostra e Visualizar {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Enviar exemplo](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Visualizar](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Personalize facilmente notificações por push com [tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+Personalize facilmente as notificações por push com o [tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Você também pode [visualizar](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) ou enviar uma notificação por push de [amostra](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) antes de implantá-la nos clientes.
+Você também pode [visualização](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) ou enviar uma [amostra](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) notificação por push antes de implantá-la nos clientes.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -85,7 +85,7 @@ As estatísticas de emails enviados por meio de Campanhas inteligentes agora est
 
 ## RTP - Análise de conteúdo e Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Análise ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) de conteúdo e Recommendations
+[Análise de conteúdo](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) e Recommendations
 
 A análise de conteúdo RTP mostra o desempenho de seus ativos de conteúdo da Web de visitas regulares da Web e também visitas geradas pelo mecanismo de recomendação de conteúdo da RTP.
 
@@ -95,8 +95,8 @@ A análise de conteúdo RTP mostra o desempenho de seus ativos de conteúdo da W
 
 A página Ativos da RTP agora é dividida em Análise de conteúdo e Recommendations de conteúdo.
 
-* **Análise de conteúdo:** mostra as exibições e leads diretos de todo o conteúdo da Web descoberto e definido, ajudando a analisar seu conteúdo com melhor desempenho
-* **Recommendations** de conteúdo: Mostra impressões e cliques do conteúdo recomendado da RTP e da atribuição de lead associada. Você também pode editar e ativar as recomendações de conteúdo desta página para as recomendações [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) e [rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
+* **Análise de conteúdo:** Mostra as visualizações e leads diretos de todo o conteúdo da Web descoberto e definido, ajudando a analisar seu conteúdo com melhor desempenho
+* **Recommendations de conteúdo**: Mostra impressões e cliques do conteúdo recomendado da RTP e da atribuição de lead associada. Também é possível editar e ativar as recomendações de conteúdo desta página para a [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) e [mídia avançada](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) recomendações.
 
 * Todos os dados de lead direto nessas duas páginas foram atualizados retrospectivamente desde o início do ano (1 de janeiro de 2015).
 
@@ -112,7 +112,7 @@ Clonar uma campanha RTP torna mais rápida e eficiente a criação de campanhas 
 
 Estamos fazendo várias melhorias no editor de rich text. Depois que lançamos o editor atualizado em julho, recebemos um grande feedback e pudemos trabalhar com essas alterações nessa atualização. Há muito mais para vir nos próximos meses. Aqui está uma lista das novidades do quarto trimestre:
 
-* O VML agora é compatível com seu código HTML:
+* O VML agora é compatível com o código HTML:
 
 ```
 <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
@@ -124,9 +124,9 @@ Estamos fazendo várias melhorias no editor de rich text. Depois que lançamos o
 
 `<!--[if gte mso 9]> <![endif]-->`
 
-* Não cole células de tabela vazias com `&nbsp;`
+* Não colar células de tabela vazias com `&nbsp;`
 
-* Botão Maximizar/minimizar adicionado ao editor de fonte HTML
+* Botão Maximizar/minimizar adicionado ao editor de fonte de HTML
 * As propriedades de tabela pré-existentes agora são identificadas e exibidas na caixa de diálogo Propriedades da tabela
 * As duas linhas de botões agora são mostradas por padrão.
 * O editor agora aceitará qualquer elemento (mesmo elementos obsoletos ou não padrão):
@@ -140,9 +140,9 @@ Estamos fazendo várias melhorias no editor de rich text. Depois que lançamos o
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics - Validar Sincronização {#microsoft-dynamics-validate-sync}
+## Microsoft Dynamics - Validar sincronização {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - Validar Sincronização](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[Microsoft Dynamics - Validar sincronização](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 Esta nova ferramenta de administração executa uma série de verificações para ver se suas configurações de sincronização foram configuradas corretamente.
 
@@ -161,7 +161,7 @@ Adicione facilmente novos campos a objetos personalizados sincronizados do Sales
 
 ## Suporte do IE 11 (e descontinuando o suporte para o IE 9) {#ie-support-and-deprecating-support-for-ie}
 
-Agora oferecemos suporte oficial ao navegador Microsoft Internet Explorer 11 e estamos removendo o suporte ao navegador Microsoft Internet Explorer 9.
+Agora oferecemos suporte oficial ao navegador Microsoft Internet Explorer 11 e estamos removendo o suporte para o navegador Microsoft Internet Explorer 9.
 
 ## Suporte à interface do usuário de raio para MSI {#lightning-ui-support-for-msi}
 

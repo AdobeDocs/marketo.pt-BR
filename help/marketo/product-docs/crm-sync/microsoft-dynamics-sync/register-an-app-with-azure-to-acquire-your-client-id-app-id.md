@@ -3,10 +3,9 @@ unique-page-id: 12983390
 description: Registre um aplicativo com o Azure para adquirir sua ID do cliente/ID do aplicativo - Documentos do Marketo - Documentação do produto
 title: Registre um aplicativo com o Azure para adquirir sua ID do cliente/ID do aplicativo
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -15,9 +14,9 @@ ht-degree: 0%
 
 O Azure Ative Diretory estende seus diretórios locais na nuvem, fornecendo suporte para o MS Dynamics 365 CRM com autenticação ADFS local.
 
-## Registrar um novo aplicativo {#registering-a-new-app}
+## Registro de um novo aplicativo {#registering-a-new-app}
 
-1. [Faça logon ](https://manage.windowsazure.com/) no portal de gerenciamento do Microsoft Azure usando uma conta com permissões de administrador. Também é possível acessar o portal do Microsoft Azure por meio do Admin Center do Office 365 expandindo o item **Admin** no painel de navegação esquerdo e selecionando **Azure AD**.
+1. [Fazer logon](https://azure.microsoft.com/en-us/account/) ao portal de gerenciamento do Microsoft Azure usando uma conta com permissões de administrador. Também é possível acessar o portal do Microsoft Azure por meio do Admin Center do Office 365 expandindo o **Administrador** no painel de navegação esquerdo e selecionando **Azure AD**.
 
    >[!CAUTION]
    >
@@ -25,50 +24,50 @@ O Azure Ative Diretory estende seus diretórios locais na nuvem, fornecendo supo
 
    >[!NOTE]
    >
-   >Se você não tiver uma conta do Azure, poderá [inscrever-se](https://azure.microsoft.com/en-us/free/) para uma. Consulte a documentação da Microsoft ou entre em contato com seu representante da Microsoft para obter mais informações. Depois de criar uma conta do Azure, você pode registrar um ou mais aplicativos usando o procedimento descrito abaixo.
+   >Se você não tiver uma conta do Azure, poderá [inscrever-se](https://azure.microsoft.com/en-us/free/) por um. Consulte a documentação da Microsoft ou entre em contato com o representante da Microsoft para obter mais informações. Depois de criar uma conta do Azure, você pode registrar um ou mais aplicativos usando o procedimento descrito abaixo.
    >
    >
-   >Se você tiver uma conta do Azure, mas sua assinatura do Office 365 com o Microsoft Dynamics 365 não estiver disponível em sua assinatura do Azure, siga [estas instruções](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) para associar as duas contas.
+   >Se você tiver uma conta do Azure, mas sua assinatura do Office 365 com o Microsoft Dynamics 365 não estiver disponível em sua assinatura do Azure, siga [estas instruções](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) associar as duas contas.
 
-1. Localize e clique em **Azure Ative Diretory** no painel de navegação esquerdo.
+1. Localizar e clicar em **Ative Diretory do Azure** no painel de navegação esquerdo.
 
    ![](assets/two.png)
 
-1. Em Gerenciar, clique em **Registros do aplicativo**.
+1. Em Gerenciar , clique em **Registros do aplicativo**.
 
    ![](assets/three.png)
 
-1. Clique em **New registration** na parte superior da página.
+1. Clique em **Novo registro** na parte superior da página.
 
    ![](assets/four.png)
 
-1. Insira um nome para o aplicativo, escolha o tipo de conta aplicável e insira um URL de redirecionamento. Em seguida, clique em **Register** na parte inferior da página.
+1. Insira um nome para o aplicativo, escolha o tipo de conta aplicável e insira um URL de redirecionamento. Em seguida, clique em **Registrar** na parte inferior da página.
 
    ![](assets/five.png)
 
-1. Agora você deve ver seu aplicativo na guia **Registros do aplicativo**.
+1. Agora você deve ver seu aplicativo no **Registros do aplicativo** guia .
 
    ![](assets/six.png)
 
-## Configurar permissões do aplicativo {#configuring-app-permissions}
+## Configuração das permissões do aplicativo {#configuring-app-permissions}
 
-1. Na guia **Registros de aplicativos** no Ative Diretory, clique no aplicativo para o qual deseja configurar permissões.
+1. Em **Registros do aplicativo** no Ative Diretory, clique no aplicativo para o qual deseja configurar permissões.
 
    ![](assets/seven.png)
 
-1. Em Gerenciar, clique em **Permissões de API**.
+1. Em Gerenciar , clique em **Permissões de API**.
 
    ![](assets/eight.png)
 
-1. Clique no botão **Adicionar uma permissão**.
+1. Clique no botão **Adicionar permissão** botão.
 
    ![](assets/nine.png)
 
-1. Escolha **Dynamics CRM**.
+1. Choose **Dynamics CRM**.
 
    ![](assets/ten.png)
 
-1. Marque a caixa **Acessar o Serviço de Dados Comum como usuário da organização***s** e clique em **Adicionar permissões.**
+1. Verifique a **Acesso ao Serviço de dados comum como usuário da organização***s** e, em seguida, clique em **Adicione permissões.**
 
    ![](assets/eleven.png)
 
@@ -76,7 +75,7 @@ O Azure Ative Diretory estende seus diretórios locais na nuvem, fornecendo supo
 
    ![](assets/twelve.png)
 
-1. Clique no botão **Conceder consentimento do administrador**.
+1. Clique no botão **Conceder consentimento administrativo** botão.
 
    ![](assets/thirteen.png)
 

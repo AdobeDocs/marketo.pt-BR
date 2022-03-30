@@ -1,27 +1,26 @@
 ---
 unique-page-id: 10099077
-description: Enviar por email o Power Pack - Como importar uma lista de sementes - Documentos do marketing - Documentação do produto
-title: Enviar por email o Power Pack - Como importar uma lista de sementes
-translation-type: tm+mt
-source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
+description: Deliverability de email Power Pack - Como importar uma lista de propagação - Documentos do Marketo - Documentação do produto
+title: Pacote de recursos para entrega de emails - Como importar uma lista de propagação
+exl-id: a4782611-2556-43bf-802b-afeb332eafcd
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
+# Pacote de energia de entrega de email: Como importar uma lista de animais {#email-deliverability-power-pack-how-to-import-a-seedlist}
 
-# Pacote de força para entrega por email: Como importar uma lista de sementes {#email-deliverability-power-pack-how-to-import-a-seedlist}
-
-Uma lista semente é uma lista de contas de email em vários provedores de caixa de correio, incluindo aplicativos do Google, Hotmail, Yahoo! etc., que são usadas para aproximar a taxa de entrega da pasta de entrada contra spam. Veja como inserir essa lista na sua instância do Marketo.
+Uma lista de propagação é uma lista de contas de email em vários provedores de caixa de correio, incluindo aplicativos Google, Hotmail, Yahoo!, etc., que são usadas para aproximar a taxa de entrega da caixa de entrada versus pasta de spam. Veja como inserir essa lista na instância do Marketo.
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
+>Nem todos os clientes compraram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
 
-## Importar uma Lista de Sedes {#import-a-seedlist}
+## Importar uma lista de propagação {#import-a-seedlist}
 
-1. Vá para **Ferramentas de Entrega**.
+1. Ir para **Ferramentas de capacidade de entrega**.
 
    ![](assets/one-1.png)
 
@@ -29,32 +28,32 @@ Uma lista semente é uma lista de contas de email em vários provedores de caixa
 
    ![](assets/two-1.png)
 
-1. Clique em **Obter Lista de Sedes**.
+1. Clique em **Obter lista de propagação**.
 
    ![](assets/three-1.png)
 
-1. Clique em **Exportar Lista**.
+1. Clique em **Exportar lista**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Escolha **Otimizar Lista** se quiser que 250ok [otimize sua lista](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) para você. Escolha **Personalizar Lista** se quiser selecionar as regiões da lista de sedes que deseja incluir.
+   >Choose **Otimizar lista** se quiser 250ok para [otimizar sua lista](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) para você. Choose **Personalizar lista** se desejar selecionar as regiões da lista de propagação que deseja incluir.
 
-1. Após a exportação, a lista será exibida como um arquivo .txt na pasta de downloads do seu navegador. Recupere-o e [importe](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) para a sua instância do Marketo como uma lista estática.
+1. Após a exportação, a lista será exibida como um arquivo .txt na pasta de downloads do navegador. Recupere-o e [importar](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) na instância do Marketo como uma lista estática.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Não se esqueça de nomear sua lista de uma forma que facilite sua localização.
+   >Certifique-se de nomear sua lista de uma maneira que facilite a localização.
 
    >[!CAUTION]
    >
-   >Você obtém uma quantidade limitada dessas Campanhas informantes da caixa de entrada por mês. Para ver quantos são obtidos, veja as **Configurações da conta** 250ok. Para obter mais informações, entre em contato com o representante de vendas do Marketing Cloud.
+   >Você obtém uma quantidade limitada dessas Campanhas informativas da caixa de entrada por mês. Para ver quantos você tem, olhe em seu 250ok **Configurações da conta**. Para obter mais informações, entre em contato com o representante de vendas da Marketo.
 
 ## Adquirir Novas Seedlists {#acquiring-new-seedlists}
 
-Sua lista de sedimentos pode mudar a cada mês. É importante fazer logon regularmente no e-mail Deliverability Power Pack e verificar o status da sua lista inicial. Quando forem adicionados novos endereços ou for necessária uma atualização na sua extremidade, você será alertado pela interface na página Obter lista de endereços.
+Sua lista de sementes pode ser alterada todos os meses. É importante fazer logon no Email Deliverability Power Pack regularmente e verificar o status da sua lista de propagação. Quando novos endereços forem adicionados ou uma atualização for necessária em sua extremidade, você será alertado por meio da interface na página Obter lista de propagação.
 
-Depois que sua lista estática no Marketo é criada, você pode começar a enviá-la para ela para testar o posicionamento da caixa de entrada do seu email.
+Após a criação da lista estática no Marketo, você pode começar a enviar para ela para testar o posicionamento da caixa de entrada do seu email.

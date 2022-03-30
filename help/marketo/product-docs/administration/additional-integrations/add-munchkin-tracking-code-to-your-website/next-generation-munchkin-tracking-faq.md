@@ -3,10 +3,9 @@ unique-page-id: 10096583
 description: Perguntas frequentes sobre o rastreamento do Munchkin de próxima geração - Documentos do Marketo - Documentação do produto
 title: Perguntas frequentes sobre o rastreamento do Munchkin de próxima geração
 exl-id: 283189ac-c817-479a-b896-91233980608c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -31,7 +30,7 @@ Nº O código de rastreamento do Munchkin permanece o mesmo. Não é necessário
 
 >[!NOTE]
 >
->Essa alteração não afeta a Personalização da Web (Personalização em tempo real). Ela continua identificando visitantes da Web anônimos e conhecidos e personalizando o conteúdo em tempo real para esses visitantes.
+>Essa alteração não afeta o Web Personalization (Real-Time Personalization). Ela continua identificando visitantes da Web anônimos e conhecidos e personalizando o conteúdo em tempo real para esses visitantes.
 
 ## Por que o Marketo removeu o filtro &quot;É anônimo&quot; das Smart Lists? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -50,15 +49,12 @@ Se você já estiver usando esse filtro em uma Smart List (por exemplo, em uma C
 >Com o Munchkin V2, se uma pessoa anônima visitar a página de preços, ela não entrará na campanha imediatamente. Quando a pessoa anônima se tornar conhecida, nós realizaremos esta campanha nela. Ela irá:
 >
 >* Obter uma pontuação de 10
-   >
-   >
-* Ter a atividade Página da Web definida como a data certa (quando ela realmente visitou)
-   >
-   >
-* Tenha um momento interessante registrado para ela (com a data em que ela realmente visitou a página, não quando ela ficou conhecida)
-   >
-   >
-* Tenha uma atividade &quot;Nova pessoa&quot; registrada, como está hoje
+>
+>* Ter a atividade Página da Web definida como a data certa (quando ela realmente visitou)
+>
+>* Tenha um momento interessante registrado para ela (com a data em que ela realmente visitou a página, não quando ela ficou conhecida)
+>
+>* Tenha uma atividade &quot;Nova pessoa&quot; registrada, como está hoje
 
 
 ## O que acontece com minhas Smart Lists que já têm o filtro &quot;Is Anonymous&quot;? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -94,4 +90,4 @@ Confira estes links:
 
 ## Tenho mais perguntas! Como obtenho respostas? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Entre em contato com a [comunidade](https://nation.marketo.com/welcome). Também é possível entrar em contato com o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Eles ficarão felizes em responder suas perguntas.
+Entre em contato com o [comunidade](https://nation.marketo.com/). Também é possível entrar em contato [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Eles ficarão felizes em responder suas perguntas.

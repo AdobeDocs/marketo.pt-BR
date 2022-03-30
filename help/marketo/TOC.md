@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '8616'
+source-wordcount: '8637'
 ht-degree: 5%
 
 ---
@@ -1273,6 +1273,10 @@ ht-degree: 5%
          + Campanhas {#campaigns}
             + [Adicionar à campanha de marketing](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [A Campanha Terminou](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [Criar uma campanha de vendas](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
+            + [Configurações da campanha de vendas](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
+            + [Opções de envio de campanha de vendas para etapas de email](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
+            + [Tipos de etapas da campanha de vendas e tarefas de lembrete](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [Exibir a lista de campanhas como outro usuário](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Personalização do Salesforce {#salesforce-customization}
@@ -1797,7 +1801,7 @@ ht-degree: 5%
       + Redirecionamento de site {#website-retargeting}
          + [Remarketing personalizado no Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Remarketing personalizado no Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [Redirecionamento com dados do Web Personalization](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [Redirecionamento com dados de personalização da Web](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Trabalhar com campanhas da Web {#working-with-web-campaigns}
          + [Teste AB de sua campanha da Web](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [Adicionar um URL de destino a uma campanha da Web](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
