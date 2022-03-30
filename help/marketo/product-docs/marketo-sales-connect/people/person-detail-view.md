@@ -1,23 +1,22 @@
 ---
 unique-page-id: 13796475
-description: Visualização de detalhes da pessoa - Documentos do Marketing - Documentação do produto
-title: Visualização de detalhes da pessoa
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+description: Exibição de detalhes da pessoa - Documentos do Marketo - Documentação do produto
+title: Exibição de detalhes da pessoa
+exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
+source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 0%
+source-wordcount: '283'
+ht-degree: 6%
 
 ---
 
+# Exibição de detalhes da pessoa {#person-detail-view}
 
-# Visualização de detalhes da pessoa {#person-detail-view}
-
-A visualização de detalhes da pessoa fornece um perfil detalhado de cada pessoa em sua conta MSC.
+A exibição de detalhes da pessoa fornece um perfil detalhado de cada pessoa na conta do MSC.
 
 ## Como acessar {#how-to-access}
 
-1. Para acessar a visualização de detalhes da pessoa, clique na guia **Pessoas**.
+1. Para acessar a exibição de detalhes da pessoa, clique no botão **Pessoas** guia .
 
    ![](assets/people-tab.png)
 
@@ -27,7 +26,7 @@ A visualização de detalhes da pessoa fornece um perfil detalhado de cada pesso
 
    >[!TIP]
    >
-   >Em qualquer lugar que você veja o nome de uma pessoa, você pode clicar nele e acessar a Visualização de detalhes da pessoa.
+   >Em qualquer lugar que veja o nome de uma pessoa, você pode clicar nele e acessar a Exibição de detalhes da pessoa.
 
 ## Sobre a guia {#about-tab}
 
@@ -37,38 +36,38 @@ Inclui todas as informações de contato da pessoa.
 
 **Cartão de contato**
 
-* Contém informações de contato como: endereço de email, nome, empresa, título, número de telefone e links de redes sociais
+* Contém informações de contato, como: endereço de email, nome, empresa, título, número de telefone e links de redes sociais
 
 **Grupos**
 
 * Exibe e gerencia quais grupos essa pessoa é membro
 
-**Informações da conta**
+**Dados da conta**
 
 * Pode adicionar uma pessoa ao Salesforce
-* Obter informações de conta e cliente potencial/contato do Salesforce
+* Extrair informações de conta e lead/contato do Salesforce
 
 **Campos personalizados**
 
 * Adicionar ou remover campos personalizados que podem ser usados como campos dinâmicos em seus modelos e campanhas
 
-**Notas**
+**Observações**
 
 * Criar notas personalizadas
 
 ## Guia Envolvimento {#engagement-tab}
 
-Veja como essa pessoa está se envolvendo com seu alcance.
+Veja como essa pessoa está se relacionando com sua alcance.
 
 ![](assets/engagement.jpg)
 
 **Atividade do Sales Connect**
 
-* Veja atividades de envolvimento de seus emails de vendas e campanhas
+* Veja as atividades de envolvimento de seus emails e campanhas de vendas
 
 **Atividade de marketing**
 
-* Veja como sua pessoa está se envolvendo com campanhas de marketing
+* Veja como sua pessoa está se relacionando com campanhas de marketing
 
 ## Guia Histórico {#history-tab}
 
@@ -78,23 +77,23 @@ Mostra seu histórico de alcance. Inclui emails, campanhas e chamadas.
 
 **Campanhas de vendas**
 
-* Ver quaisquer campanhas ativas ou concluídas às quais esta pessoa pertence
+* Ver quaisquer campanhas ativas ou concluídas às quais essa pessoa pertence
 
 **Campanhas de marketing**
 
-* Veja quaisquer campanhas de marketing de que esta pessoa é membro
+* Veja quaisquer campanhas de marketing nas quais essa pessoa é membro
 
 **E-mails de vendas**
 
-* Veja todos os emails que você enviou a esta pessoa e as métricas de envolvimento
+* Veja todos os emails que você enviou para essa pessoa e as métricas de envolvimento
 
 **Chamadas de vendas**
 
-* Ver chamadas que você fez para esta pessoa
+* Ver quaisquer chamadas efetuadas a esta pessoa
 
-## Guia Tarefa {#tasks-tab}
+## Guia Tarefas {#tasks-tab}
 
-Gerenciar tarefas associadas a essa pessoa.
+Gerir tarefas associadas a esta pessoa.
 
 ![](assets/tasks.jpg)
 
@@ -102,19 +101,5 @@ Ações que podem ser executadas:
 
 * Editar ou excluir uma tarefa
 * Ver a data de vencimento
-* Clique em Tipo para iniciar o Telefone de vendas se Chamar, Enviar por e-mail para Compor se for E-mail, Vincular se for Email e Fazer uma observação personalizada se for Personalizado.
+* Clique em Tipo para iniciar o Telefone de Vendas se a Chamada, Compor Email se Email, Linkedin se Inmail e Nota Personalizada se Personalizada.
 * Marcar uma tarefa como concluída
-
-## Guia Navegador de Vendas {#sales-navigator-tab}
-
-Visualização de dados do perfil do LinkedIn com o Navegador de vendas do LinkedIn.
-
->[!NOTE]
->
->O Navegador de vendas é um complemento pago pelo LinkedIn. Entre em contato com eles para obter esse recurso.
-
-![](assets/linkedin.jpg)
-
-Mencionadores de ícones para criar um relatório.
-
-Salve contatos como clientes potenciais no Navegador de vendas.
