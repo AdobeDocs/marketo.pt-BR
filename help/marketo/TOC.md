@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
 workflow-type: tm+mt
-source-wordcount: '8609'
+source-wordcount: '8616'
 ht-degree: 5%
 
 ---
@@ -1457,6 +1457,7 @@ ht-degree: 5%
          + [Enviar e rastrear a partir do Outlook usando um modelo do Marketo](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [Especificar administradores de plug-in do Marketo Sales Insight](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
          + [Atualizar o Suplemento de Email do Marketo para Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
+      + [Insight de vendas para integrações não nativas do MS Dynamics](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [Insight de vendas para integrações não nativas do Salesforce](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [Ativar funções para o Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
@@ -1796,7 +1797,7 @@ ht-degree: 5%
       + Redirecionamento de site {#website-retargeting}
          + [Remarketing personalizado no Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Remarketing personalizado no Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [Redirecionamento com dados de personalização da Web](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [Redirecionamento com dados do Web Personalization](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Trabalhar com campanhas da Web {#working-with-web-campaigns}
          + [Teste AB de sua campanha da Web](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [Adicionar um URL de destino a uma campanha da Web](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
