@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
 workflow-type: tm+mt
-source-wordcount: '8637'
+source-wordcount: '8649'
 ht-degree: 5%
 
 ---
@@ -1406,11 +1406,13 @@ ht-degree: 5%
          + Configuração {#configuration}
             + [Adicionar botões de ação em massa ao Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Adicionar a guia Marketo ao Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+            + [Adicionar Conjunto de Permissões de Insight de Vendas](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
             + [Ações em massa no Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
             + [Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Configurar o Marketo Sales Insight no Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [Configuração para clientes existentes](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Guia Configuração do Marketo Sales Insight no Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Remover Acesso ao Insight de Vendas](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
             + [Página de informações de vendas para administradores do Marketo](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Configuração do insight de vendas para sua equipe](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + Recursos {#features}
@@ -1830,9 +1832,10 @@ ht-degree: 5%
    + [Versão atual](release-notes/current.md)
    + Versões anteriores {#previous-releases}
       + 2022 {#2022}
-         + [Notas de versão: Jan de 22](release-notes/previous-releases/2022/release-notes-jan-22.md)
+         + [Notas de versão: Janeiro de 2022](release-notes/previous-releases/2022/release-notes-jan-22.md)
+         + [Notas de versão: Março de 22](release-notes/previous-releases/2022/release-notes-mar-22.md)
       + 2021 {#2021}
-         + [Notas de versão: Jan de 21](release-notes/previous-releases/2021/release-notes-jan-21.md)
+         + [Notas de versão: Janeiro de 2021](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Notas de versão: Maio de 21](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [Notas de versão: Agosto de 21](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [Notas de versão: Outubro de 21](release-notes/previous-releases/2021/release-notes-oct-21.md)
