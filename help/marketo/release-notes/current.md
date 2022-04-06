@@ -1,8 +1,8 @@
 ---
-description: Current Release Notes - Marketo Docs - Product Documentation
+description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Abaixo você encontrará todos os recursos incluídos na versão de 22 de maio. 
 
 **_Versões trimestrais_**
 
-The following features will start to be released on **May 6, 2022**, with a phased rollout of remaining features over the subsequent weeks (unless specified otherwise).
+Os seguintes recursos começarão a ser lançados em **6 de maio de 2022**, com uma distribuição em fases dos recursos restantes durante as semanas subsequentes (salvo indicação em contrário).
 
 ## Integração de CRM nativo {#native-crm-integration}
 
-**Integração de Veva Nativa ao CRM (disponibilidade limitada)**: Melhore o envolvimento com os profissionais de saúde sincronizando a atividade entre o VRM Veeva e o Marketo Engage por meio da integração nativa. Essa integração permite que os profissionais de marketing criem experiências mais personalizadas e contínuas entre canais para os profissionais de saúde. Please contact your Customer Success Manager if you&#39;re interested in participating.
+**Integração de Veva Nativa ao CRM (disponibilidade limitada)**: Melhore o envolvimento com os profissionais de saúde sincronizando a atividade entre o Veeva CRM e o Marketo Engage por meio da integração nativa. Essa integração permite que os profissionais de marketing criem experiências mais personalizadas e contínuas entre canais para os profissionais de saúde. Entre em contato com o Gerente de sucesso do cliente se estiver interessado em participar.
 
 ## Orquestração entre canais {#cross-channel-orchestration}
 
@@ -31,39 +31,39 @@ The following features will start to be released on **May 6, 2022**, with a phas
 
 **Incorporar PDF para bate-papo dinâmico**: Aumente o engajamento e compartilhe conteúdo significativo incorporando PDF às caixas de diálogo de bate-papo e meça o desempenho do conteúdo por meio do rastreamento da atividade de engajamento.
 
-**Extended Language Support for Dynamic Chat**: The Dynamic Chat user interface will now also be available in French, German, Japanese, Portuguese, and Spanish. Chat dialogues can also be configured in these languages.
+**Suporte de idioma estendido para bate-papo dinâmico**: A interface do usuário do Dynamic Chat agora também estará disponível em francês, alemão, japonês, português e espanhol. As caixas de diálogo de bate-papo também podem ser configuradas nesses idiomas.
 
 **Excluir URLs para bate-papo dinâmico**: Controlar em quais de suas páginas da Web o Dynamic Chat é exibido com a capacidade de excluir URLs específicos dos critérios de direcionamento.
 
-**Email Bot Activity Filtering Enhancements**: Continue to protect the health of your database with the ability to identify bot behavior based on hidden link User Agents or IPs and proximity patterns, in addition to the existing IAB list match identification. Visualize estatísticas de atividades de bot que permitem compreender o número de atividades de bot identificadas para cada tipo.
+**Aprimoramentos na filtragem de atividade de bot de email**: Continue a proteger a integridade de seu banco de dados com a capacidade de identificar o comportamento de bot com base em links ocultos, agentes do usuário ou IPs e padrões de proximidade, além da identificação de correspondência da lista IAB existente. Visualize estatísticas de atividades de bot que permitem compreender o número de atividades de bot identificadas para cada tipo.
 
 **Cabeçalho STS para links de rastreamento de email**: Atender às práticas recomendadas de segurança com a capacidade de aplicar cabeçalhos de Segurança de Transporte Seguro para garantir que o tráfego para links rastreados seja sempre seguro.
 
 ## Experiência da próxima geração {#next-generation-experience}
 
-**Toggle Switch Defaulted to the Next-Generation Experience**: The toggle switch will be default to the new experience in all screens where it&#39;s available, making it easier for users to discover the updated designs and usability enhancements.
+**Alternar Switch padrão para a experiência de última geração**: o switch de alternância será o padrão para a nova experiência em todas as telas em que estiver disponível, facilitando a descoberta dos designs atualizados e das melhorias de usabilidade.
 
-**Updated Screen in the Next-Generation Experience**:
+**Tela atualizada na experiência de próxima geração**:
 
 Estamos fornecendo a Exibição de detalhes do modelo de email no Design Studio na experiência da próxima geração, oferecendo melhorias atualizadas de design e usabilidade acessíveis por meio do switch de alternância.
 
 ## Automação de experiência {#experience-automation}
 
-**Self-Service Flow Steps (continued beta)**: Expand connectivity between Marketo Engage and the rest of your stack with the ability to author customized flow steps for use in Smart Campaigns. Os usuários e parceiros do Marketo Engage podem aproveitar essa funcionalidade para permitir o uso de serviços da Web externos em campanhas acionadoras, em lote e executáveis (em contraste com webhooks que só podem ser usados em campanhas acionadoras).
+**Etapas de fluxo de autoatendimento (beta continuado)**: Expanda a conectividade entre o Marketo Engage e o resto da pilha com a capacidade de criar etapas de fluxo personalizadas para uso em Campanhas inteligentes. Os usuários e parceiros do Marketo Engage podem aproveitar essa funcionalidade para permitir o uso de serviços da Web externos em campanhas acionadoras, em lote e executáveis (em contraste com webhooks que só podem ser usados em campanhas acionadoras).
 
 ## Melhorias da API {#api-enhancements}
 
 * **Acesso à API expandido para assinaturas ativadas por CRM**: Estamos expandindo o acesso à API para assinaturas que têm uma sincronização de CRM ativada para permitir que os usuários recuperem empresas, oportunidades e pessoas de vendas do Marketo Engage.
 * **Suporte para tipos de dados &quot;ocultos&quot; no Forms**: Fornece a capacidade de gerenciar campos de formulário ocultos por meio da API.
 * **Oferece suporte a valores de comparação múltiplos para isNot Form via Rules**: Gerencie a visibilidade de campos de formulário com base no fato de o valor de outro campo não ser um dos valores em uma determinada lista.
-* **Permitir configuração de Exibir e Valores Enviados em Selecionar Listas Separadamente**: Defina o valor de exibição e o valor enviado em um campo separadamente. For example, show the name of a hotel, but submit an Internal ID to the backend.
+* **Permitir configuração de Exibir e Valores Enviados em Selecionar Listas Separadamente**: Defina o valor de exibição e o valor enviado em um campo separadamente. Por exemplo, mostre o nome de um hotel, mas envie uma ID interna para o backend.
 * **Permitir configuração de desativação do rastreamento aberto ao criar ou atualizar email**: Crie um email com o rastreamento aberto desativado.
 
 ## Anúncios {#announcements}
 
-**Verificação de email e exclusividade**: A partir de abril, a implementação da Verificação de email será iniciada. At that point, Marketo Engage user email addresses will require verification and uniqueness (this does not apply to API-only users). Directory service authenticated users will automatically have their emails verified when their subscription is enabled with Email Verification.
+**Verificação de email e exclusividade**: A partir de abril, a implementação da Verificação de email será iniciada. Nesse momento, os endereços de email de usuário do Marketo Engage exigirão verificação e exclusividade (isso não se aplica aos usuários somente de API). Os usuários autenticados do serviço de diretório terão seus emails verificados automaticamente quando sua assinatura for habilitada com a Verificação de email.
 
-Email Verification for subscriptions using the “Login in Invite User Dialog” feature or that have a single email associated with multiple users will coincide with the May release. Subscriptions that have a single email associated with multiple users will be enabled with Email Verification and will require those users to resolve the conflict and use a unique email per user. When the ‘Login in Invite User Dialog’ feature is enabled, users invited via this feature will need to have a unique email address. For API-only users invited via this feature, the email address does not need to be unique.
+Verificação de email para assinaturas usando o recurso &quot;Logon na caixa de diálogo de usuário do convite&quot; ou que tenham um único email associado a vários usuários coincidirá com a versão de maio. As assinaturas com um único email associado a vários usuários serão ativadas com a Verificação de email e exigirão que esses usuários resolvam o conflito e usem um email exclusivo por usuário. Quando o recurso &quot;Logon na caixa de diálogo de usuário do convite&quot; estiver ativado, os usuários convidados por meio desse recurso precisarão ter um endereço de email exclusivo. Para usuários somente de API convidados por meio desse recurso, o endereço de email não precisa ser exclusivo.
 
 **_Webinar da versão do produto_**
 
