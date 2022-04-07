@@ -3,27 +3,26 @@ unique-page-id: 2953415
 description: Usar a página de detalhes da pessoa - Documentos do Marketo - Documentação do produto
 title: Usando a Página de detalhes da pessoa
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 49%
 
 ---
 
-# Usando a Página de Detalhes da Pessoa {#using-the-person-detail-page}
+# Usando a Página de detalhes da pessoa {#using-the-person-detail-page}
 
 A página de detalhes da pessoa contém todas as informações que a Marketo conhece sobre uma pessoa. Você pode editar dados diretamente desta página.
 
-## Página de Detalhes da Pessoa {#getting-to-person-detail-page}
+## Página de detalhes da pessoa {#getting-to-person-detail-page}
 
 Há muitas maneiras de abrir pessoas específicas. Alguns exemplos:
 
-* No **Banco de Dados**, você pode pesquisar no Localização Rápida
-* Qualquer **lista** ou lista inteligente
-* **** Membros de um programa
-* **Exibir** membros da campanha em uma campanha inteligente
-* Alguns **relatórios**
+* No **Banco de dados**, você pode pesquisar na Localização rápida
+* Qualquer inteligente **lista** ou lista
+* **Membros** guia de um programa
+* **Exibir membros da campanha** em uma Campanha inteligente
+* Algumas **relatórios**
 
    <br> 
 
@@ -54,14 +53,14 @@ As informações de pessoa são categorizadas nas seguintes guias:
 |---|---|
 | Informações | Informações de contato e campos personalizados sobre uma pessoa. |
 | Informações da empresa | Informações e endereço da empresa da pessoa. |
-| Informações da oportunidades | Informações da oportunidade sincronizadas da Microsoft. |
-| Campos personalizados da Microsoft | Campos personalizados da Microsoft. |
-| Campo de leads da Microsoft | Campos integrados da Microsoft. |
+| Informações da oportunidades | Informações da oportunidade sincronizadas do Microsoft. |
+| Campos personalizados da Microsoft | Campos Microsoft personalizados. |
+| Campo de leads da Microsoft | Campos integrados do Microsoft. |
 | Registro de atividades | Todas as atividades relacionadas à pessoa. |
 
 >[!NOTE]
 >
->Você também pode ver as informações da Oportunidade [inseridas via API](http://developers.marketo.com/rest-api/lead-database/opportunities/) para instâncias que não estão sincronizadas com um CRM.
+>Você também pode ver informações da Oportunidade [inserido via API](https://developers.marketo.com/rest-api/lead-database/opportunities/) para instâncias que não estão sincronizadas com um CRM.
 
 ## Editar um campo {#editing-a-field}
 
@@ -94,16 +93,14 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 
 >[!NOTE]
 >
->Alguns campos são _não_ editáveis:
+>Alguns campos são _not_ editável:
 >
 >* Registro de atividades
 >* Informações da empresa
 >* Oportunidades para os contatos da SFDC
 >* Determinados campos específicos do Marketo, como Data de criação e Tipo de origem original.
-
 >
->
-Saiba mais sobre [Campos gerenciados pelo sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Saiba mais sobre [Campos gerenciados pelo sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
