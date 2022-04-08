@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '8649'
+source-wordcount: '8648'
 ht-degree: 5%
 
 ---
@@ -1404,17 +1404,17 @@ ht-degree: 5%
          + Instalação {#installation}
             + [Instalar o pacote de informações de vendas da Marketo no Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + Configuração {#configuration}
-            + [Adicionar botões de ação em massa ao Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
-            + [Adicionar a guia Marketo ao Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
-            + [Adicionar Conjunto de Permissões de Insight de Vendas](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
-            + [Ações em massa no Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
             + [Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Configurar o Marketo Sales Insight no Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [Configuração para clientes existentes](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Guia Configuração do Marketo Sales Insight no Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
-            + [Remover Acesso ao Insight de Vendas](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
+            + [Adicionar a guia Marketo ao Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
             + [Página de informações de vendas para administradores do Marketo](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
-            + [Configuração do insight de vendas para sua equipe](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+            + [Adicionar Conjunto de Permissões de Insight de Vendas](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
+            + [Remover Acesso ao Insight de Vendas](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
+            + [Adicionar acesso ao insight de vendas a perfis](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
+            + [Adicionar botões de ação em massa ao Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
+            + [Ações em massa no Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
          + Recursos {#features}
             + [Visão geral de recursos do MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Visão geral de recursos do painel do Insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)

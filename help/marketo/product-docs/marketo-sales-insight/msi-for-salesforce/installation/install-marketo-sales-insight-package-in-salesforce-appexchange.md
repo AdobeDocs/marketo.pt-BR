@@ -3,9 +3,9 @@ unique-page-id: 7516390
 description: Instale o Pacote de informações de vendas da Marketo no Salesforce AppExchange - Documentos da Marketo - Documentação do produto
 title: Instalar o pacote de informações de vendas da Marketo no Salesforce AppExchange
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -78,5 +78,5 @@ Muito bem! Agora você instalou e implantou o Marketo Sales Insight. Vá em fren
 >
 >* [Configurar o Marketo Sales Insight no Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >* [Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [Configuração do insight de vendas para sua equipe](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>* [Adicionar acesso ao insight de vendas a perfis](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
 
