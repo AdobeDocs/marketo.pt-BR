@@ -2,9 +2,9 @@
 description: Visão geral - Documentação do Marketo - Documentação do produto
 title: Visão geral
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
@@ -77,6 +77,10 @@ Sim. Aqueles que foram integrados ao Adobe IMS não podem utilizar todas as APIs
 **Com quem entramos em contato para obter suporte se formos integrados ao IMS?**
 
 Siga o procedimento padrão para entrar em contato com o [Suporte Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+
+**Se eu usar uma Adobe Identity para acessar outros aplicativos do Adobe, posso usá-la para acessar o Marketo?**
+
+Mesmo se você tiver outros produtos do Adobe, não poderá acessar o Marketo com Adobe Identity até que a assinatura seja migrada para o IMS.
 
 **As funções de usuário do Marketo (em espaços de trabalho) são gerenciadas no Adobe Admin Console?**
 
