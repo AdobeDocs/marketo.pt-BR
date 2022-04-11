@@ -2,10 +2,10 @@
 description: Adicionar conjunto de permissões de insight de vendas - Documentos da Marketo - Documentação do produto
 title: Adicionar Conjunto de Permissões de Insight de Vendas
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -76,8 +76,8 @@ A permissão &quot;Aplicativo Marketo&quot; é parte do pacote Sales Insight Sal
  </tbody> 
 </table>
 
-* Acesso à classe do anexo: 159 Classes Apex que estão sendo com &quot;mkto_si&quot;
-* Forçar acesso à página: 64 Páginas de força de visita que estão sendo usadas com &quot;mkto_si&quot;
+* Acesso à classe do anexo: 159 Classes de Apex que começam com &quot;mkto_si&quot;
+* Forçar acesso à página: 64 Páginas de força de visita que começam com &quot;mkto_si&quot;
 * Definições de Configuração Personalizada: mkto_si.Configurações do Marketo e mkto_si.Preferências do usuário
 
 ## Adicionar conjunto de permissões do aplicativo Marketo aos usuários {#adding-marketo-app-permission-set-to-users}

@@ -2,10 +2,10 @@
 description: Remover o acesso ao insight de vendas - Documentos da Marketo - Documentação do produto
 title: Remover Acesso ao Insight de Vendas
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -68,8 +68,8 @@ Use as etapas a seguir para remover o acesso aos recursos do Sales Insight no Sa
  </tbody> 
 </table>
 
-* Acesso à classe do anexo: 159 Classes Apex que estão sendo com &quot;mkto_si&quot;
-* Forçar acesso à página: 64 Páginas de força de visita que estão sendo usadas com &quot;mkto_si&quot;
+* Acesso à classe do anexo: 159 Classes de Apex que começam com &quot;mkto_si&quot;
+* Forçar acesso à página: 64 Páginas de força de visita que começam com &quot;mkto_si&quot;
 * Definições de Configuração Personalizada: mkto_si.Configurações do Marketo e mkto_si.Preferências do usuário
 
 ## Removendo o acesso ao insight de vendas {#removing-access-to-sales-insight}
