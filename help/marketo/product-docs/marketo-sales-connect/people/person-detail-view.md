@@ -3,7 +3,7 @@ unique-page-id: 13796475
 description: Exibição de detalhes da pessoa - Documentos do Marketo - Documentação do produto
 title: Exibição de detalhes da pessoa
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
-source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 6%
@@ -18,11 +18,11 @@ A exibição de detalhes da pessoa fornece um perfil detalhado de cada pessoa na
 
 1. Para acessar a exibição de detalhes da pessoa, clique no botão **Pessoas** guia .
 
-   ![](assets/people-tab.png)
+   ![](assets/person-detail-view-1.png)
 
 1. Clique na pessoa desejada.
 
-   ![](assets/select-contact.png)
+   ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
@@ -32,7 +32,7 @@ A exibição de detalhes da pessoa fornece um perfil detalhado de cada pessoa na
 
 Inclui todas as informações de contato da pessoa.
 
-![](assets/about.jpg)
+![](assets/person-detail-view-3.png)
 
 **Cartão de contato**
 
@@ -59,7 +59,7 @@ Inclui todas as informações de contato da pessoa.
 
 Veja como essa pessoa está se relacionando com sua alcance.
 
-![](assets/engagement.jpg)
+![](assets/person-detail-view-4.png)
 
 **Atividade do Sales Connect**
 
@@ -73,7 +73,7 @@ Veja como essa pessoa está se relacionando com sua alcance.
 
 Mostra seu histórico de alcance. Inclui emails, campanhas e chamadas.
 
-![](assets/history.jpg)
+![](assets/person-detail-view-5.png)
 
 **Campanhas de vendas**
 
@@ -95,7 +95,7 @@ Mostra seu histórico de alcance. Inclui emails, campanhas e chamadas.
 
 Gerir tarefas associadas a esta pessoa.
 
-![](assets/tasks.jpg)
+![](assets/person-detail-view-6.png)
 
 Ações que podem ser executadas:
 

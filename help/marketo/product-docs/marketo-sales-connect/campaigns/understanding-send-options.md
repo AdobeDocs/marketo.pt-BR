@@ -1,61 +1,60 @@
 ---
 unique-page-id: 14352621
-description: Compreensão das opções de envio - Documentos do marketing - Documentação do produto
-title: Compreensão das opções de envio
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Entendendo as opções de envio - Documentos do Marketo - Documentação do produto
+title: Entendendo as Opções de Envio
+exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
 source-wordcount: '540'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Entendendo as Opções de Envio {#understanding-send-options}
 
-# Noções Gerais das Opções de Envio {#understanding-send-options}
+Ao criar uma Campanha, você tem várias opções sobre como suas etapas de email são criadas no Sales Connect. E, dependendo de onde seu email cai em sua campanha, suas opções também são diferentes.
 
-Ao criar uma Campanha, você tem várias opções sobre como suas etapas de email são criadas no Sales Connect. E, dependendo de onde o seu e-mail cai na sua Campanha, suas opções também diferem.
-
-Se for seu primeiro passo e o primeiro dia da sua Campanha, você terá as seguintes opções:
+Se for o primeiro passo e o primeiro dia da campanha, você terá as seguintes opções:
 
 ![](assets/image2019-10-25-10-43-19.png)
 
 Escolherei quando enviar este e-mail
 
-* Esta opção permite que você escolha o horário de &quot;enviar&quot; para o primeiro email da sua Campanha quando você inicia a Campanha adicionando pessoas.
+* Essa opção permite escolher o momento &quot;enviar em&quot; para o primeiro email da campanha quando você inicia a campanha adicionando pessoas.
 
-Enviar este e-mail na hora seguinte
+Enviar este email no momento seguinte
 
-* Quando você sair de sua Campanha adicionando pessoas a ela, nós agendaremos o e-mail desta vez.
-* Você sempre tem a opção de escolher um novo momento de &quot;enviar para&quot; quando estiver dando um pontapé na sua Campanha.
+* Quando você inicia sua campanha adicionando pessoas a ela, nós agendaremos o email para essa hora.
+* Você sempre tem a opção de escolher um novo momento de &quot;envio em&quot; quando inicia sua campanha.
 
-Criar uma tarefa; Eu mesmo enviarei este email
+Criar uma tarefa; eu mesmo vou enviar este e-mail
 
-* Essa opção criará uma Tarefa de email (e sincronizará com o Salesforce) que você pode enviar quando quiser.
-* Depois de fazer essa seleção, quando você iniciar sua Campanha, colocaremos essas tarefas na fila para você no Centro de Comando e no Feed ao vivo. Em seguida, você pode personalizar e enviar (ou agendar) cada e-mail antes que ele saia.
+* Essa opção criará uma tarefa de email (e sincronizará com o Salesforce) que você poderá enviar quando quiser.
+* Depois de fazer essa seleção, quando você iniciar sua Campanha, colocaremos essas tarefas em fila para você no Centro de comando e no Feed ao vivo. Em seguida, você pode personalizar e enviar (ou agendar) cada email antes de ele ser enviado.
 
-   * Se você abrir esta tarefa em nosso aplicativo da Web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo que você escolheu.
-   * Se você abrir esta tarefa no Gmail ou no Outlook, ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo que você escolheu.
+   * Se você abrir esta tarefa em nossa aplicação Web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
+   * Se você abrir esta tarefa no Gmail ou no Outlook, ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
 
-Para quaisquer dias/etapas subsequentes na sua Campanha, você terá as seguintes opções:
+Para qualquer dia/etapa subsequente em sua Campanha, você terá as seguintes opções:
 
-Enviar este email ao mesmo tempo que o email anterior nesta Campanha
+Enviar este e-mail no mesmo horário que o e-mail anterior desta campanha
 
-* Esta opção enviará o email ao mesmo tempo que o email imediatamente antes dele.
-* Ainda será enviado no dia em que estiver associado.
+* Essa opção enviará o email ao mesmo tempo que o email diretamente antes dele.
+* Ele ainda será enviado no dia em que estiver associado.
 
-Enviar este e-mail na hora seguinte
+Enviar este email no momento seguinte
 
-* Quando você sair de sua Campanha adicionando pessoas a ela, nós agendaremos o e-mail desta vez.
-* Você sempre tem a opção de escolher um novo momento de &quot;enviar para&quot; quando estiver dando um pontapé na sua Campanha.
+* Quando você inicia sua campanha adicionando pessoas a ela, nós agendaremos o email para essa hora.
+* Você sempre tem a opção de escolher um novo momento de &quot;envio em&quot; quando inicia sua campanha.
 
-Criar uma tarefa; Eu mesmo enviarei este email
+Criar uma tarefa; eu mesmo vou enviar este e-mail
 
-* Essa opção criará uma Tarefa de email (e sincronizará com o Salesforce) que você pode enviar quando quiser.
-* Depois de fazer essa seleção, quando você sair da Campanha, o Tout colocará essas tarefas na fila para você no Centro de Comando e no Feed ao vivo. Em seguida, você pode personalizar e enviar (ou agendar) cada e-mail antes que ele saia.
+* Essa opção criará uma tarefa de email (e sincronizará com o Salesforce) que você poderá enviar quando quiser.
+* Depois de fazer essa seleção, quando você inicia sua Campanha, o Tout colocará essas tarefas em fila para você no Centro de comando e no Feed ao vivo. Em seguida, você pode personalizar e enviar (ou agendar) cada email antes de ele ser enviado.
 
-   * Se você abrir esta tarefa em nosso aplicativo da Web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo que você escolheu.
-   * Se você abrir esta tarefa no Gmail ou no Outlook, ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo que você escolheu.
+   * Se você abrir esta tarefa em nossa aplicação Web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
+   * Se você abrir esta tarefa no Gmail ou no Outlook, ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
 
-Encaixar este email no email anterior
+Encadear este email para o email anterior
 
-* Esta opção de envio será um &#39;acompanhamento&#39; do seu email anterior e anexará o corpo do email anterior à parte inferior deste email.
+* Essa opção de envio será um &quot;acompanhamento&quot; do email anterior e anexará o corpo do email anterior à parte inferior desse email.

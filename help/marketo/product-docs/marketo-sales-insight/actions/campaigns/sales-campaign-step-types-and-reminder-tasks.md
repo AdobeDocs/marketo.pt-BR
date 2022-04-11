@@ -3,9 +3,10 @@ description: Tipos de etapas da campanha de vendas e tarefas de lembrete - Docum
 title: Tipos de etapas da campanha de vendas e tarefas de lembrete
 hide: true
 hidefromtoc: true
-source-git-commit: e1eaabc8fc943291b026ab8e9919e5705e5c9046
+exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '44'
 ht-degree: 9%
 
 ---
@@ -19,3 +20,11 @@ Texto
 ### E-mail {#email}
 
 Texto
+
+## Usar tarefas de lembrete em campanhas {#using-reminder-tasks-in-campaigns}
+
+Texto
+
+>[!MORELIKETHIS]
+>
+>[Criar uma campanha de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
