@@ -1,9 +1,10 @@
 ---
 description: Insight de vendas para integrações não nativas do MS Dynamics - Documentos do Marketo - Documentação do produto
 title: Insight de vendas para integrações não nativas do MS Dynamics
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1439'
 ht-degree: 0%
 
 ---
@@ -15,6 +16,7 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao MS Dynamics por meio d
 >[!PREREQUISITES]
 >
 >* O recurso &quot;MSI não nativo&quot; ativado para sua instância do Marketo antes de iniciar a configuração do MSI (se ele não for e você já tiver comprado o recurso), entre em contato com [Suporte Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} - se ainda não tiver comprado esse recurso, entre em contato com o Gerente de sucesso do cliente).
+>* Baixar [Pacote MSI para sincronização personalizada](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
 >* Uma assinatura do MS Dynamics com a configuração MSI ([No local](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md){target=&quot;_blank&quot;}, [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target=&quot;_blank&quot;}).
 >* API REST do Marketo [configuração com êxito](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}. As APIs CRUD expostas serão a base para executar a sincronização não nativa.
 >* Ler [esta postagem de blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target=&quot;_blank&quot;} para obter uma compreensão do objeto e dos relacionamentos.
