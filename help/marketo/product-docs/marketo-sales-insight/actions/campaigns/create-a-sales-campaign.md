@@ -1,32 +1,31 @@
 ---
 description: Criar uma campanha de vendas - Documentos da Marketo - Documentação do produto
 title: Criar uma campanha de vendas
-hide: true
-hidefromtoc: true
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
 
 # Criar uma campanha de vendas {#create-a-sales-campaign}
 
-As campanhas são uma série de etapas de vários canais, incluindo: emails, chamadas telefônicas, InMail e tarefas personalizadas. Eles permitem simplificar suas comunicações com seus clientes potenciais e existentes.
+Campanhas de vendas são uma série de etapas de vários canais, incluindo: emails, chamadas telefônicas, InMail e tarefas personalizadas. Eles permitem simplificar suas comunicações com seus clientes potenciais e existentes.
 
-Com Campanhas você pode:
+Com Campanhas de vendas, você pode:
 
 * **Organizar**: Simplifique todas as atividades de alcance geral em um único local para uma execução eficiente.
 * **Escala**: Programe todos os seus esforços de alcance para ampliar seus esforços, minimizar o trabalho manual e personalizar o quanto você precisar.
 * **Medição**: Rastreie o sucesso de todos os seus emails e tarefas em um único local enquanto faz logon automático no Salesforce. Ao saber o que está causando ressonância e resultados, você pode testar e melhorar seus resultados de forma consistente.
 
-Então, como configurar uma Campanha?
+Então, como configurar uma Campanha de Vendas?
 
 1. Clique no botão **Campanhas** guia .
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. Selecione uma categoria e clique no botão **Criar uma campanha** para criar uma nova campanha.
+1. Selecione uma categoria e clique no botão **Criar Nova Campanha** botão.
 
    ![](assets/create-a-sales-campaign-2.png)
 
@@ -56,13 +55,13 @@ Então, como configurar uma Campanha?
 
    >[!NOTE]
    >
-   >&quot;Dias&quot; não é o número de dias entre ações, mas o dia na sequência. Por exemplo, se sua campanha durar 7 dias, inserir &#39;3&#39; significa que a ação será lançada no dia 3 de 7, **not** 3 dias depois.
+   >&quot;Dias&quot; não é o número de dias entre ações, mas o dia na sequência. Por exemplo, se sua campanha de vendas durar 7 dias, inserir &#39;3&#39; significa que a ação será lançada no dia 3 de 7, **not** 3 dias depois.
 
-1. Certifique-se de personalizar as opções de agendamento e resposta, como ignorar os finais de semana (o que é incrível) ao visitar o **Guia Configurações** para sua campanha.
+1. Certifique-se de personalizar as opções de agendamento e resposta, como ignorar os finais de semana (o que é incrível) ao visitar o **Guia Configurações** para sua campanha de vendas.
 
    ![](assets/create-a-sales-campaign-8.png)
 
-Agora é hora de começar a adicionar pessoas à sua campanha!
+Agora é hora de começar a adicionar pessoas!
 
 >[!MORELIKETHIS]
 >

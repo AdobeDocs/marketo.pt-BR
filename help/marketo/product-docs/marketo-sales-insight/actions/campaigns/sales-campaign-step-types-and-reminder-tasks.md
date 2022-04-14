@@ -1,13 +1,11 @@
 ---
 description: Tipos de etapas da campanha de vendas e tarefas de lembrete - Documentos do Marketo - Documentação do produto
 title: Tipos de etapas da campanha de vendas e tarefas de lembrete
-hide: true
-hidefromtoc: true
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
-source-git-commit: 297b97d215f98c987bee5da7d6db82f6153602cc
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 3%
+source-wordcount: '321'
+ht-degree: 4%
 
 ---
 
@@ -15,7 +13,7 @@ ht-degree: 3%
 
 ## Tipos de Etapas da Campanha de Vendas {#sales-campaign-step-types}
 
-Ao adicionar uma etapa à campanha, você tem quatro opções.
+Ao adicionar uma etapa à campanha de vendas, você tem quatro opções.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-1.png)
 
@@ -53,21 +51,17 @@ Utilize tarefas personalizadas quando as opções acima não forem aplicáveis. 
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-5.png)
 
-## Usar tarefas de lembrete em campanhas {#using-reminder-tasks-in-campaigns}
+## Usar Tarefas de Lembrete em Campanhas de Vendas {#using-reminder-tasks-in-sales-campaigns}
 
-As tarefas são uma ferramenta poderosa ao enviar uma campanha para um contato, especialmente se o seu processo de vendas for de vários canais/toque.
+As tarefas são uma ferramenta poderosa ao enviar uma Campanha de vendas para um contato, especialmente se o processo de vendas for de vários canais/toque.
 
-A tarefa para enviar um email e uma tarefa para chamar um contato são os usos mais comuns para Tarefas em Campanhas.
+A tarefa para enviar um email e uma tarefa para chamar um contato são os usos mais comuns para Tarefas em Campanhas de vendas.
 
 Você também pode fazer de &quot;Tarefa para enviar&quot; um contato no LinkedIn se isso fizer parte do seu fluxo de trabalho. Você também pode fazer uma tarefa personalizada para lembrá-los de convidá-los para uma hora feliz, perguntar sobre o evento de caridade ou fazer check-in depois do 5° jogo etc.
 
 >[!NOTE]
 >
->O mais importante sobre Tarefas em Campanhas é concluir a tarefa para acionar a próxima etapa.
-
-As tarefas sempre serão associadas a cada indivíduo na campanha. Isso significa que você precisa entrar em cada pessoa e fechar a tarefa para que a campanha individual continue.
-
-Você pode gerenciar suas tarefas em: a guia Tasks da sua Campanha no Campaign 2.0, diretamente do Centro de Comando ou da seção Tasks do Feed em tempo real. Além disso, também é possível gerenciar suas tarefas no Salesforce.
+>O mais importante sobre Tarefas em Campanhas de Vendas é a conclusão da tarefa para acionar a próxima etapa.
 
 >[!MORELIKETHIS]
 >
