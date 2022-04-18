@@ -2,9 +2,9 @@
 description: Visão geral - Documentação do Marketo - Documentação do produto
 title: Visão geral
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: a5d6b3960957aa262fee7372b90f3609e1e19cce
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Bem-vindo à experiência de Marketo Engage da próxima geração, uma nova inte
 
 ## Faça o tour {#take-the-tour}
 
-No primeiro logon, uma pop-up será exibida, pronta para fornecer a você o lançamento da nova experiência. Chama a atenção, se você optar por ignorá-lo, ele **not** estará disponível mais tarde.
+No primeiro logon, uma pop-up será exibida, pronta para fornecer a você o lançamento da nova experiência. Se você optar por ignorá-lo, ele irá **not** estará disponível mais tarde.
 
 ![](assets/overview-1.png)
 
@@ -38,7 +38,7 @@ Há muitas novas funcionalidades nessa experiência de próxima geração, todas
 
 **Ícones**
 
-Os novos recursos da interface melhoraram e expandiram a iconografia. Saiba mais sobre eles aqui: [Glossário de ícones](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
+Os novos recursos da interface melhoraram e expandiram a iconografia. Saiba mais sobre eles aqui: [Ícone Glossário](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
 
 ![](assets/overview-new-icons.png)
 
@@ -60,7 +60,7 @@ Há muitos novos recursos de árvore disponíveis.
 
 >[!NOTE]
 >
->Realizar uma pesquisa na árvore exibirá apenas os primeiros 250 resultados. Se, após uma pesquisa, você não conseguir localizar seu ativo, use a função [Pesquisa global](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md).
+>Realizar uma pesquisa na árvore exibirá apenas os primeiros 250 resultados. Se, após uma pesquisa, você não conseguir localizar seu ativo, use a variável [Pesquisa global](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) .
 
 **Marketo Classic em comparação ao novo Marketo**
 
@@ -192,7 +192,7 @@ Dê uma olhada na nova navegação global.
   </tr>
   <tr>
    <td>3</td> 
-   <td>Use-o para fornecer feedback sobre sua experiência com o MEUE</td> 
+   <td>Use-o para fornecer feedback sobre sua experiência</td> 
   </tr>
   <tr>
    <td>4</td> 
