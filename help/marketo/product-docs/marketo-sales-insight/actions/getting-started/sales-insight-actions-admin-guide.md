@@ -2,9 +2,9 @@
 description: Guia do administrador de ações de insight de vendas - Documentos do Marketo - Documentação do produto
 title: Guia do administrador de ações de insight de vendas
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '588'
 ht-degree: 1%
 
 ---
@@ -109,6 +109,10 @@ Se já estiver conectado ao Salesforce, você estará conectado. Caso contrário
 ## Iniciar Sincronização de Dados {#initiate-data-sync}
 
 A sincronização de campo de unificação de dados para Ações de Insight de vendas permite que o sistema extraia informações de pessoas do banco de dados do Marketo Engage para o banco de dados de Ações de insight de vendas, mantendo os dados de pessoas atualizados e garantindo que as atividades sejam registradas nos registros corretos no Marketo e no Salesforce.
+
+>[!CAUTION]
+>
+>Depois de iniciar a sincronização de dados, você deve **not** remova o usuário original na instância Ações de insight de vendas . Esse é o usuário para o qual o primeiro convite foi enviado.
 
 1. No Marketo, clique em **Administrador**.
 
