@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: Enviar uma lista para o Adobe Experience Cloud - Marketo Docs - Documentação do produto
 title: Enviar uma lista para o Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-source-git-commit: a82a2dd0a9c3a27b9b6bf3b352cd81d59932a31b
+source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '768'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Configurar o compartilhamento de público na Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[Configurar Mapeamento de Organização do Adobe](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
 
 ## Aplicativos de destino suportados {#supported-destination-applications}
 

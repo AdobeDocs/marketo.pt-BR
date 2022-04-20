@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 540bb61b9accf199e2be841086a6204064762861
+source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
 workflow-type: tm+mt
-source-wordcount: '8656'
+source-wordcount: '8654'
 ht-degree: 5%
 
 ---
@@ -468,7 +468,7 @@ ht-degree: 5%
          + [Gerenciamento de privacidade](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [Solicitações de privacidade](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Renomear um ativo do Marketo](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Configurar o compartilhamento de público na Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Configurar mapeamento de organização do Adobe](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
          + [Sincronizar um público-alvo do Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Noções básicas sobre pastas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Noções básicas das notificações](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
@@ -1804,7 +1804,7 @@ ht-degree: 5%
       + Redirecionamento de site {#website-retargeting}
          + [Remarketing personalizado no Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Remarketing personalizado no Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [Redirecionamento com dados de personalização da Web](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [Redirecionamento com dados do Web Personalization](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Trabalhar com campanhas da Web {#working-with-web-campaigns}
          + [Teste AB de sua campanha da Web](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [Adicionar um URL de destino a uma campanha da Web](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
