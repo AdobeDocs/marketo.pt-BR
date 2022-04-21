@@ -2,9 +2,9 @@
 description: Solicitações de privacidade - Documentos do Marketo - Documentação do produto
 title: Solicitações de privacidade
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,10 @@ Este documento fornece uma visão geral do gerenciamento de solicitações indiv
 
 Você pode enviar solicitações individuais para acessar e excluir dados do consumidor do Marketo Engage de duas formas:
 
-* Por meio da [Interface do usuário do Privacy Service](https://privacyui.cloud.adobe.io/). Veja a documentação [here](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
-* Por meio da **API Privacy Service**. Veja a documentação [here](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_api_tutorial.md) e a referência da API [here](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
+* Por meio da [Interface do usuário do Privacy Service](https://privacyui.cloud.adobe.io/). Veja a documentação [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/).
+* Por meio da **API Privacy Service**. Veja a documentação [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) e a referência da API [here](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
 
-O [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) O suporta dois tipos de solicitações: acesso aos dados e exclusão dos dados.
+O [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) O suporta dois tipos de solicitações: acesso aos dados e exclusão dos dados.
 
 Vamos ver como criar solicitações de acesso e exclusão.
 
