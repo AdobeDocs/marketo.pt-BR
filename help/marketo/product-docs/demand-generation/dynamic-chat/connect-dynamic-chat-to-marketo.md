@@ -2,9 +2,9 @@
 description: Conectar o bate-papo dinâmico ao Marketo - Documentos do Marketo - Documentação do produto
 title: Conectar o bate-papo dinâmico ao Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
+source-git-commit: 9b49c9f0ee03ab72672f46618fb24eed174bf835
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Em seguida, é hora de vincular o Adobe e o Marketo.
 
 1. Faça logon em [experience.adobe.com](https://experience.adobe.com).
 
-1. Copie a ID da organização no canto inferior direito da página inicial, _minus_ o &quot;@AdobeOrg.&quot;
+1. Clique na tela em qualquer lugar no Experience Cloud e pressione ctrl+i. No **Orgs Atribuídas** , realce e copie a ID da organização (_minus_ o &quot;@AdobeOrg&quot;). Press **Fechar** quando concluído.
 
    ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
