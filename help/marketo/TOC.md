@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
+source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
 workflow-type: tm+mt
-source-wordcount: '8654'
+source-wordcount: '8658'
 ht-degree: 5%
 
 ---
@@ -188,6 +188,7 @@ ht-degree: 5%
          + [Editar as configurações de suporte do navegador &quot;Não rastrear&quot;](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Editar configurações de página inicial](product-docs/administration/settings/edit-landing-page-settings.md)
          + [Editar a expiração do link em relatórios e alertas](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
+         + [Cabeçalhos de link de rastreamento de email](product-docs/administration/settings/email-tracking-link-headers.md)
          + [Editar configurações de assinatura](product-docs/administration/settings/edit-subscription-settings.md)
          + [Ativar ou desativar recursos do tesouro](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Ativar URLs personalizados para sua conta (Administração)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
@@ -1804,7 +1805,7 @@ ht-degree: 5%
       + Redirecionamento de site {#website-retargeting}
          + [Remarketing personalizado no Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Remarketing personalizado no Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [Redirecionamento com dados do Web Personalization](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [Redirecionamento com dados de personalização da Web](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Trabalhar com campanhas da Web {#working-with-web-campaigns}
          + [Teste AB de sua campanha da Web](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [Adicionar um URL de destino a uma campanha da Web](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
