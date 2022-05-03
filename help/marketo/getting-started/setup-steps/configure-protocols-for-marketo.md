@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Configurar protocolos para Marketo - Documentos do Marketo - Documentação do produto
 title: Configurar protocolos para Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '1018'
 ht-degree: 1%
 
 ---
@@ -25,9 +25,7 @@ Este artigo deve ser compartilhado com o departamento de TI da empresa que desej
 >Se sua equipe de TI restringir o acesso à Web usando uma  lista de permissões, peça para adicionar os seguintes domínios (incluindo o asterisco) para permitir todos os recursos e websockets da Marketo:
 
 * `*.marketo.com`
-
 * `*.marketodesigner.com`
-
 * `*.mktoweb.com`
 
 ## Etapa 1: Criar registros DNS para páginas de aterrissagem e email {#step-create-dns-records-for-landing-pages-and-email}
@@ -57,6 +55,10 @@ Por exemplo:
 
 Notifique sua equipe de marketing quando tiver concluído esse processo.
 
+`4` **Contato [Suporte Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} para iniciar o processo de provisionamento de um certificado SSL.**
+
+Esse processo pode levar até 3 dias úteis para ser concluído.
+
 ## Etapa 2: lista de permissões IPs do Marketo {#step-allowlist-marketo-ips}
 
 Quando seu grupo de marketing usa o Marketo para enviar emails de teste (uma prática recomendada antes de enviar emails explícitos), os emails de teste às vezes são bloqueados por sistemas antisspam que dependem de endereços IP de remetente para verificar se o email é válido. Para garantir que esses emails de teste cheguem, adicione Marketo à sua lista de permissões.
@@ -71,7 +73,7 @@ Adicione esses endereços IP à  de lista de permissões corporativa:
 103.237.104.0/22\
 94.236.119.0/26
 
-Alguns sistemas antisspam usam o campo Return-Path de email em vez do endereço IP para permitir. Nesses casos, a melhor abordagem é lista de permissões &quot;*.mktomail.com&quot;, pois o Marketo usa vários subdomínios de caixa de correio. Outros sistemas antisspam lista de permissões com base no endereço De. Nessas situações, certifique-se de incluir todos os domínios de envio (&quot;De&quot;) que seu grupo de marketing usa para se comunicar com pessoas/leads.
+Alguns sistemas antisspam usam o campo Return-Path de email em vez do endereço IP para permitir. Nesses casos, a melhor abordagem é lista de permissões &quot;&#42;.mktomail.com&quot;, pois o Marketo usa vários subdomínios de caixa de correio. Outros sistemas antisspam lista de permissões com base no endereço De. Nessas situações, certifique-se de incluir todos os domínios de envio (&quot;De&quot;) que seu grupo de marketing usa para se comunicar com pessoas/leads.
 
 >[!NOTE]
 >
