@@ -2,9 +2,9 @@
 description: Conectar o bate-papo dinâmico ao Marketo - Documentos do Marketo - Documentação do produto
 title: Conectar o bate-papo dinâmico ao Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 9b49c9f0ee03ab72672f46618fb24eed174bf835
+source-git-commit: c36b9206494c14a52937fa787a37601eaf6f4bd4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ Depois de concluir o [configuração inicial](/help/marketo/product-docs/demand-
 ## Vincule sua organização do Adobe e do Marketo {#link-your-adobe-org-and-marketo}
 
 Em seguida, é hora de vincular o Adobe e o Marketo.
+
+>[!IMPORTANT]
+>
+>O endereço de email do usuário do Marketo Engage que estabelece esse mapeamento também deve ter acesso à Adobe org que está sendo conectada.
 
 1. Faça logon em [experience.adobe.com](https://experience.adobe.com).
 
