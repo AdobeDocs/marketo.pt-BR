@@ -2,20 +2,28 @@
 description: Filtrar atividade de bot de email - Documentos do Marketo - Documentação do produto
 title: Filtrar atividade de bot de email
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
+source-git-commit: 2ef4b0b2a541c8b6a67bd654fda45956601661bd
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
 
 # Filtrar atividade de bot de email {#filtering-email-bot-activity}
 
-Às vezes, a atividade de bot de email pode aumentar erroneamente seus dados de aberturas e cliques de email. Veja como consertar isso.
+Às vezes, a atividade de bot de email pode aumentar erroneamente seus dados de aberturas e cliques de email. Siga as etapas abaixo para corrigir isso.
 
->[!NOTE]
->
->Usar o [Lista internacional de spiders e bots da IAB/ABC](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/), toda a atividade de abertura/clique com um IP ou agente do usuário que corresponde a qualquer item dessa lista será identificada como atividade de bot e não será registrada no Marketo.
+Usamos três métodos separados para confirmar a atividade de bot:
+
+* Corresponder a [Lista de bot do Interative Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}: As atividades que correspondem a qualquer coisa na lista IAB UA/IP (Agente do usuário/endereço IP) serão marcadas como bots.
+* Corresponder a UA/IPs de link oculto: Adicionamos um link oculto para todos os emails e capturamos cliques de UA/IP provenientes deles. As atividades que correspondem a esses UA/IPs serão marcadas como bots.
+* Corresponder ao padrão de proximidade: Quando mais de duas atividades acontecem ao mesmo tempo (menos de dois segundos), elas são identificadas como bots.
+
+Em relação ao clique em links de email e à atividade de abertura de email, os novos atributos serão preenchidos com os valores abaixo:
+
+* As atividades identificadas como bots terão &quot;Atividade de bot&quot; como &quot;Verdadeiro&quot; e &quot;Padrão de atividade de bot&quot; como o padrão/método identificado
+* As atividades identificadas como não bots terão &quot;Atividade de bot&quot; como &quot;Falso&quot; e &quot;Padrão de atividade de bot&quot; como &quot;N/A&quot;
+* As atividades que ocorreram antes da introdução desses atributos terão &quot;Atividade de bot&quot; como &quot; (vazio) e &quot;Padrão de atividade de bot&quot; como &quot; &quot; (vazio)
 
 1. Clique em **Administrador**.
 
@@ -29,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Clique no controle deslizante para ativar **Filtrar atividade de bot**.
+1. Clique no botão **Ativar a identificação da atividade de bot** controle deslizante para ativar.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
@@ -37,8 +45,8 @@ ht-degree: 0%
 >
 >Você pode escolher separadamente se deseja ou não ter a atividade de bot registrada. Se você optar por não fazer isso, poderá observar uma queda na abertura e no clique do email, pois números falsos são filtrados.
 
-**ETAPA OPCIONAL**: Para desativar o recurso, basta desmarcar o controle deslizante. Se você desativar, os dados de &quot;Atividade do robô nos últimos 90 dias&quot; funcionarão **not** redefinir.
+**ETAPA OPCIONAL**: Para desativar o recurso, basta desmarcar o controle deslizante. Se você desativar, os dados **not** redefinir.
 
 >[!TIP]
 >
->Aproveite os dados da atividade de bot nas Smart Lists por meio do booleano &quot;Is Bot Activity&quot; (sim/não) ou nas restrições aplicáveis de filtro/acionador.
+>Aproveite os dados de atividade de bot nas Smart Lists por meio do booleano &quot;Is Bot Activity&quot; (sim/não) e do &quot;Bot Activity Pattern&quot; nos filtros &quot;Clicked Link in Email&quot; e &quot;Open Email&quot; e dos acionadores &quot;Clicks Link in Email&quot; e &quot;Opens Email&quot;.
