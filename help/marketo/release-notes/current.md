@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
+source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,8 @@ Estamos fornecendo a Exibição de detalhes do modelo de email no Design Studio 
 **Verificação de email e exclusividade**: A partir de abril, a implementação da Verificação de email será iniciada. Nesse momento, os endereços de email de usuário do Marketo Engage exigirão verificação e exclusividade (isso não se aplica aos usuários somente de API). Os usuários autenticados do serviço de diretório terão seus emails verificados automaticamente quando sua assinatura for habilitada com a Verificação de email.
 
 Verificação de email para assinaturas usando o recurso &quot;Logon na caixa de diálogo de usuário do convite&quot; ou que tenham um único email associado a vários usuários coincidirá com a versão de maio. As assinaturas com um único email associado a vários usuários serão ativadas com a Verificação de email e exigirão que esses usuários resolvam o conflito e usem um email exclusivo por usuário. Quando o recurso &quot;Logon na caixa de diálogo de usuário do convite&quot; estiver ativado, os usuários convidados por meio desse recurso precisarão ter um endereço de email exclusivo. Para usuários somente de API convidados por meio desse recurso, o endereço de email não precisa ser exclusivo.
+
+**Alteração no comportamento da pasta de arquivamento**: Com esta versão, a capacidade de criar novos ativos nas pastas de Arquivo não estará mais disponível nos menus de contexto de árvore. As opções de menu para criar novos ativos estarão ocultas para todos os ativos. [Saiba mais aqui](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
 
 **_Webinar da versão do produto_**
 
