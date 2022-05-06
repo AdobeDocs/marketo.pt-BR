@@ -2,16 +2,16 @@
 description: Alternar Switch - Documentos do Marketo - Documentação do produto
 title: Alternar Switch
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # Alternar Switch {#toggle-switch}
 
-O Switch de alternância permite alternar entre a interface clássica do Marketo e a nova experiência de Marketo Engage de próxima geração. Está disponível na Exibição de lista da página inicial e nas páginas de detalhes do formulário.
+O Switch de alternância permite alternar entre a interface clássica do Marketo e a experiência de Marketo Engage de próxima geração. Está disponível em todas as áreas destacadas abaixo. A partir da versão de maio de 2022, a experiência da próxima geração será ativada por padrão.
 
 >[!NOTE]
 >
@@ -99,14 +99,32 @@ A nova experiência será carregada.
 
 ![](assets/toggle-switch-17.png)
 
-## Habilitar para todos os recursos {#enable-for-all-features}
+## Exibição de detalhes do modelo de email {#email-template-details-view}
 
-Você tem a opção de ativar a interface da próxima geração do Marketo para todos os recursos disponíveis, atuais e futuros.
-
-1. Em uma área que atualmente tem o Alternar Switch (neste exemplo, estamos em [Página Detalhes do Formulário](#form-details-page)), clique no ícone de engrenagem na parte inferior direita da página.
+1. No Marketo, selecione **Design Studio**.
 
    ![](assets/toggle-switch-18.png)
 
-1. Selecionar **Habilitar para todos os recursos disponíveis** e clique em **OK**.
+1. Selecione o template de email desejado.
 
    ![](assets/toggle-switch-19.png)
+
+1. Na parte inferior direita da página, clique no botão **Nova experiência** alternar.
+
+   ![](assets/toggle-switch-20.png)
+
+A nova experiência será carregada.
+
+![](assets/toggle-switch-21.png)
+
+## Habilitar para todos os recursos {#enable-for-all-features}
+
+Você tem a opção de ativar manualmente a interface da próxima geração do Marketo para todos os recursos disponíveis, atuais e futuros.
+
+1. Em uma área que atualmente tem o Alternar Switch (neste exemplo, estamos em [Página Detalhes do Formulário](#form-details-page)), clique no ícone de engrenagem na parte inferior direita da página.
+
+   ![](assets/toggle-switch-22.png)
+
+1. Selecionar **Habilitar para todos os recursos disponíveis** e clique em **OK**.
+
+   ![](assets/toggle-switch-23.png)
