@@ -2,9 +2,9 @@
 description: Configuração - Documentação do Marketo - Documentação do produto
 title: Configuração
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '287'
 ht-degree: 1%
 
 ---
@@ -56,6 +56,15 @@ Clique no botão **Privacidade** para adicionar/editar o URL da política de pri
 Para que o chatbot apareça no seu site, primeiro será necessário instalar o snippet do Dynamic Chat JavaScript. Clique nessa guia para localizar/copiar o código necessário. Se não estiver familiarizado com esta operação, entre em contato com a equipe da Web ou o departamento de TI para obter assistência.
 
 ![](assets/configuration-8.png)
+
+>[!TIP]
+>
+>Se seu site utilizar uma Política de segurança de conteúdo, talvez seja necessário adicionar os seguintes URLs à lista de permissões para que o chatbot funcione conforme esperado:
+>
+>* `*.adoberesources.net`
+>* `*.adobe.io`
+>* `*.typekit.net`
+
 
 >[!NOTE]
 >
