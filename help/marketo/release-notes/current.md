@@ -2,16 +2,16 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
+source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
 
 # Notas de versão: Maio de 2022 {#release-notes-may-22}
 
-Abaixo você encontrará todos os recursos incluídos na versão de 22 de maio. Verifique sua edição do Adobe Marketo Engage para ver a disponibilidade dos recursos.
+Abaixo você encontrará todos os recursos incluídos na versão de 22 de maio. Verifique sua edição Adobe Marketo Engage para ver a disponibilidade dos recursos.
 
 >[!AVAILABILITY]
 >
@@ -23,7 +23,7 @@ Os seguintes recursos começarão a ser lançados em **6 de maio de 2022**, com 
 
 ## Integração de CRM nativo {#native-crm-integration}
 
-**Integração de Veva Nativa ao CRM (disponibilidade limitada)**: Melhore o envolvimento com os profissionais de saúde sincronizando a atividade entre o Veeva CRM e o Marketo Engage por meio da integração nativa. Essa integração permite que os profissionais de marketing criem experiências mais personalizadas e contínuas entre canais para os profissionais de saúde. Entre em contato com o Gerente de sucesso do cliente se estiver interessado em participar.
+**[Integração de CRM de Veeva Nativa](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;} (disponibilidade limitada)**: Melhore o envolvimento com os profissionais de saúde sincronizando a atividade entre o Veeva CRM e o Marketo Engage por meio da integração nativa. Essa integração permite que os profissionais de marketing criem experiências mais personalizadas e contínuas entre canais para os profissionais de saúde. Entre em contato com o Gerente de sucesso do cliente se estiver interessado em participar.
 
 ## Orquestração entre canais {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ Os seguintes recursos começarão a ser lançados em **6 de maio de 2022**, com 
 
 **Excluir URLs para bate-papo dinâmico**: Controlar em quais de suas páginas da Web o Dynamic Chat é exibido com a capacidade de excluir URLs específicos dos critérios de direcionamento.
 
-**Aprimoramentos na filtragem de atividade de bot de email**: Continue a proteger a integridade de seu banco de dados com a capacidade de identificar o comportamento de bot com base em links ocultos, agentes do usuário ou IPs e padrões de proximidade, além da identificação de correspondência da lista IAB existente. Visualize estatísticas de atividades de bot que permitem compreender o número de atividades de bot identificadas para cada tipo.
+**[Aprimoramentos na filtragem de atividade de bot de email](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: Continue a proteger a integridade de seu banco de dados com a capacidade de identificar o comportamento de bot com base em links ocultos, agentes do usuário ou IPs e padrões de proximidade, além da identificação de correspondência da lista IAB existente. Visualize estatísticas de atividades de bot que permitem compreender o número de atividades de bot identificadas para cada tipo.
 
-**Cabeçalho STS para links de rastreamento de email**: Atender às práticas recomendadas de segurança com a capacidade de aplicar cabeçalhos de Segurança de Transporte Seguro para garantir que o tráfego para links rastreados seja sempre seguro.
+**[Cabeçalho STS para links de rastreamento de email](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Atender às práticas recomendadas de segurança com a capacidade de aplicar cabeçalhos de Segurança de Transporte Seguro para garantir que o tráfego para links rastreados seja sempre seguro.
 
 ## Experiência da próxima geração {#next-generation-experience}
 
