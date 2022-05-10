@@ -2,7 +2,7 @@
 description: Etapa 1 de 3 - Adicionar campos do Marketo a todos os documentos do CRM - Marketo - Documentação do produto
 title: Etapa 1 de 3 - Adicionar campos do Marketo a cada CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 7%
@@ -25,7 +25,7 @@ Todos esses campos personalizados são opcionais e não são necessários para s
 
 ## Adicionar campos do Marketo a cada CRM {#add-marketo-fields-to-veeva-crm}
 
-Adicione três campos personalizados nos objetos lead e contact em Veeva CRM listados acima. Se desejar adicionar mais, consulte a tabela de campos disponíveis no final desta seção.
+Adicione um campo personalizado nos objetos lead e contact em Veeva CRM listados acima. Se desejar adicionar mais, consulte a tabela de campos disponíveis no final desta seção.
 
 Execute as etapas a seguir para o campo Score para adicioná-lo.
 
@@ -112,7 +112,7 @@ Casas decimais 0</td>
 
 >[!NOTE]
 >
->Ao adicionar o campo ao objeto Contato , eles também são adicionados à conta de pessoa.
+>Ao adicionar o campo ao objeto Contato , eles também são adicionados ao objeto Conta de pessoa.
 
 OPCIONAL: Use o procedimento acima para qualquer campo personalizado adicional da tabela abaixo.
 
