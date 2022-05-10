@@ -2,9 +2,9 @@
 description: Visão geral - Documentação do Marketo - Documentação do produto
 title: Visão geral
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ As assinaturas existentes do Marketo serão migradas para o Adobe Identity Manag
 
 ## Níveis de perfil {#profile-levels}
 
-As assinaturas do Adobe Marketo Engage incorporadas ao Adobe Identity Management System oferecem suporte a vários perfis. A seguir estão os tipos de perfis de usuário relevantes nesta integração.
+As assinaturas do Adobe Marketo Engage integradas ao Adobe Identity Management System são compatíveis com vários perfis. A seguir estão os tipos de perfis de usuário relevantes nesta integração.
 
 <table>
  <tr>
@@ -34,7 +34,8 @@ As assinaturas do Adobe Marketo Engage incorporadas ao Adobe Identity Management
  </tr>
  <tr>
   <td><strong>Administrador de perfil de produto do Adobe Admin Console</strong></td>
-  <td>Administra as descrições do Perfil do produto atribuídas a esse Administrador e todas as funções administrativas associadas.</td>
+  <td>Responsável pela administração de usuários em um perfil de produto. Eles não podem gerenciar usuários fora desse perfil específico. Um administrador de perfil de produto não tem acesso ao aplicativo do Marketo, a menos que adicionado ao perfil de produto como um usuário. Sua função ainda seria um usuário padrão (espaço de trabalho padrão se tivesse mais de um espaço de trabalho).
+</td>
  </tr>
  <tr>
   <td><strong>Administrador de produto do Marketo Engage</strong></td>

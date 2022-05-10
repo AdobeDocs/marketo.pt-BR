@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Configurar mapeamento de organização do Adobe - Documentos do Marketo - Documentação do produto
 title: Configurar mapeamento de organização do Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: db91b204ab13d47e500b1942ca14a3b1f010749c
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Para sincronizar com aplicativos Adobe, como o Audience Manager, o conector B2B 
 >[!NOTE]
 >
 >Uma implantação pronta para HIPAA de uma instância do Marketo não pode usar essa integração.
+
+>[!CAUTION]
+>
+>Para clientes integrados à Adobe Business Platform e ao Identity Management System, a ID da organização associada à assinatura já será preenchida e será um campo somente leitura.
 
 1. No Marketo, clique em **Administrador**.
 
