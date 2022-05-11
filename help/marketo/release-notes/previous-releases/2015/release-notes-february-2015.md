@@ -3,10 +3,10 @@ unique-page-id: 6094890
 description: Notas de versão - fevereiro de 2015 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - fevereiro de 2015
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 18%
+source-wordcount: '325'
+ht-degree: 19%
 
 ---
 
@@ -20,7 +20,7 @@ Os seguintes recursos estão incluídos na versão de fevereiro de 2015. Verifiq
 
 Alegre-se! Agora você pode arrastar e soltar ou usar o recurso Mover, da árvore, para incluir ou retirar campanhas inteligentes de programas.
 
-**[Dynamics 2015 (Online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)**  - compatível!
+**[Dynamics 2015 (Online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - suportado!
 
 **Alterações no certificado HTTPS**
 
@@ -28,11 +28,11 @@ Para proteger a confidencialidade e a integridade dos dados de clientes e dos se
 
 e substituirão os protocolos de segurança usados atualmente (SHA-1 e SSL) por versões mais seguras (SHA-2 (também conhecido como SHA-256) e TLS) para os seguintes domínios:
 
-* [marketo.net](https://marketo.net)  (tráfego do Munchkin criptografado)
+* marketo.net (tráfego do Munchkin criptografado)
 
-* [marketo.com](https://marketo.com)  (principais aplicativos SaaS)
+* [marketo.com](https://marketo.com) (principais aplicativos de SaaS)
 
-Isso ocorrerá logo após essa versão. O protocolo SHA-1 será temporariamente compatível no domínio [mktoapi.com](https://mktoapi.com) até dezembro de 2015 para permitir que os proprietários de sistemas e aplicativos herdados atualizem seus sistemas com compatibilidade SHA-2.
+Isso ocorrerá logo após essa versão. O protocolo SHA-1 será temporariamente compatível no [mktoapi.com](https://mktoapi.com) até dezembro de 2015 para permitir que os proprietários de sistemas e aplicativos herdados atualizem seus sistemas com compatibilidade SHA-2.
 
 **Secure Munchkin**
 
