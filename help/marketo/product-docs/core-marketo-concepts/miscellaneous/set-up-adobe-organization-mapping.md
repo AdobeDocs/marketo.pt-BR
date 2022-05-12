@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Configurar mapeamento de organização do Adobe - Documentos do Marketo - Documentação do produto
 title: Configurar mapeamento de organização do Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
+source-git-commit: bbe5f4a1502ab79d0081807ea6aab196ae75360a
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,9 @@ Para sincronizar com aplicativos Adobe, como o Audience Manager, o conector B2B 
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Por motivos de segurança, você deve ser um Org Admin da organização do Adobe para a qual deseja mapear. Se não estiver, a ação falhará.
+   >Por motivos de segurança, você deve ser um Org Admin da organização do Adobe para a qual deseja mapear. Caso contrário, a ação falhará. Além disso, o usuário do Adobe e o usuário do Marketo devem usar o mesmo endereço de email ao fazer logon.
 
 1. Se você estiver _not_ já conectado, uma pop-up será exibida em uma nova guia/janela. Faça logon na organização do Adobe (esta ação valida o acesso da organização).
 
