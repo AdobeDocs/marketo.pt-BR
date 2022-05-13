@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: d3fb9a9aa70f491afd880d16500b8e93eb9d087f
 workflow-type: tm+mt
 source-wordcount: '8743'
 ht-degree: 5%
@@ -1278,7 +1278,7 @@ ht-degree: 5%
             + [Criando uma equipe](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [Como configurar o rastreamento de domínio personalizado](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Convidar usuários e administradores](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
-            + [Registrando atributos de atividade de vendas no Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
+            + [Configurações de gerenciamento de logon](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Configurações de compartilhamento](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Detalhes de acesso do usuário](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Análises {#analytics}
@@ -1307,7 +1307,7 @@ ht-degree: 5%
                + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Configurações de sincronização do Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
             + Configuração do Salesforce {#salesforce-configuration}
-               + [Configurações de gerenciamento de logon](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+               + [Registrando atributos de atividade de vendas no Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Configuração de ações de insight de vendas no Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Desinstalar Pacote de Personalização do Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [Desinstalar Pacote de Personalização do Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
@@ -1822,7 +1822,7 @@ ht-degree: 5%
       + Redirecionamento de site {#website-retargeting}
          + [Remarketing personalizado no Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Remarketing personalizado no Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [Redirecionamento com dados de personalização da Web](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [Redirecionamento com dados do Web Personalization](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Trabalhar com campanhas da Web {#working-with-web-campaigns}
          + [Teste AB de sua campanha da Web](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [Adicionar um URL de destino a uma campanha da Web](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
