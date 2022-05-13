@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: d3fb9a9aa70f491afd880d16500b8e93eb9d087f
+source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
 workflow-type: tm+mt
-source-wordcount: '8743'
+source-wordcount: '8761'
 ht-degree: 5%
 
 ---
@@ -475,6 +475,11 @@ ht-degree: 5%
          + [Noções básicas sobre pastas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Noções básicas das notificações](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Tipos de notificação](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Públicos-alvo preditivos {#predictive-audiences}
+         + [Introdução aos públicos preditivos](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
+         + [Modelos e insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
+         + [Filtros preditivos](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+         + [Como entender o rastreamento de metas e os registros projetados](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + Sincronização com CRM {#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
          + [Noções básicas sobre a sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1822,7 +1827,7 @@ ht-degree: 5%
       + Redirecionamento de site {#website-retargeting}
          + [Remarketing personalizado no Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Remarketing personalizado no Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [Redirecionamento com dados do Web Personalization](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [Redirecionamento com dados de personalização da Web](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Trabalhar com campanhas da Web {#working-with-web-campaigns}
          + [Teste AB de sua campanha da Web](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [Adicionar um URL de destino a uma campanha da Web](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
