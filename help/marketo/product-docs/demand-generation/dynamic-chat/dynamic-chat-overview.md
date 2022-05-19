@@ -2,9 +2,9 @@
 description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Documentação do produto
 title: Visão geral do bate-papo dinâmico
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -54,6 +54,10 @@ Você também pode personalizar o corpo do convite enviado ao visitante quando e
 É aqui que você pode ver uma lista de todos os agentes que conectaram seus calendários, bem como a ordem em que serão apresentados aos visitantes do site. As reuniões são ao estilo do robin, então se você tem cinco agentes e o agente três tomou a última reunião, o agente quatro terá a próxima, seguido pelo agente cinco, e então de volta ao agente um.
 
 ## Perguntas frequentes {#faq}
+
+**Posso instalar o Chat Dinâmico em qualquer lugar do site da minha empresa ou ele só funciona nas páginas de aterrissagem do Marketo?**
+
+O snippet do Dynamic Chat JavaScript pode ser instalado em qualquer site, bem como nas páginas de aterrissagem do Marketo.
 
 **Os dados são armazenados por quanto tempo?**
 
