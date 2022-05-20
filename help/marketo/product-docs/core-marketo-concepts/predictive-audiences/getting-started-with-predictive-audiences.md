@@ -3,9 +3,10 @@ description: Introdução aos públicos preditivos - Documentos do Marketo - Doc
 title: Introdução aos públicos preditivos
 hide: true
 hidefromtoc: true
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -16,10 +17,11 @@ O Predictive Audiences (PA) utiliza a IA e o aprendizado de máquina para permit
 
 O PA inclui os seguintes recursos:
 
-* [Rastreamento de metas e registros projetados](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;}
-* Insights baseados em IA/ML
 * Valores de Probabilidade de Registro e Presença para cada lead em um programa de evento
 * [Filtros preditivos](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
+* [Modelos e fatores de influência](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
+* Insights baseados em IA/ML
+* [Rastreamento de metas e registros projetados](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;} (o Rastreamento de metas está disponível somente para aqueles que têm a opção de alternância de próxima geração ativada para Programas de eventos - para acessar essa alternância, entre em contato com seu CSM e solicite públicos preditivos)
 
 >[!NOTE]
 >

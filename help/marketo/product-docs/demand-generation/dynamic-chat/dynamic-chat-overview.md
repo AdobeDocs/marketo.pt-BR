@@ -2,9 +2,9 @@
 description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Documentação do produto
 title: Visão geral do bate-papo dinâmico
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '896'
 ht-degree: 2%
 
 ---
@@ -67,17 +67,39 @@ O snippet do Dynamic Chat JavaScript pode ser instalado em qualquer site, bem co
 
 Não, ele utiliza apenas respostas predeterminadas.
 
-**Como posso direcionar pessoas anônimas?**
+**O Dynamic Chat é compatível com idiomas além do inglês?**
 
-Na caixa de diálogo, é necessário usar o _O e-mail da pessoa está vazio_ atributo.
+Sim. O Dynamic Chat é compatível com os seguintes idiomas: Francês, alemão, japonês, espanhol, italiano, português do Brasil, coreano, chinês simplificado e chinês tradicional. Saiba mais na [seção abaixo](#changing-the-language).
 
 **Você suporta a funcionalidade AI/NLP?**
 
 Não oferecemos suporte à funcionalidade AI/NLP.
 
-**O Dynamic Chat oferece idiomas além do inglês?**
+**Como posso direcionar pessoas anônimas?**
 
-Não neste momento.
+Na caixa de diálogo, é necessário usar o _O e-mail da pessoa está vazio_ atributo.
+
+## Alterar o idioma {#changing-the-language}
+
+Siga estas etapas para alterar a linguagem de bate-papo dinâmico.
+
+1. Na sua conta do Experience Cloud, clique no ícone de configurações e escolha **Preferências**.
+
+   ![](assets/dynamic-chat-overview-1.png)
+
+1. Clique no idioma atual em seu endereço de email.
+
+   ![](assets/dynamic-chat-overview-2.png)
+
+1. Escolha seu novo idioma (o segundo idioma é opcional) e clique em **Salvar**.
+
+   ![](assets/dynamic-chat-overview-3.png)
+
+   >[!IMPORTANT]
+   >
+   >Há algumas dezenas de idiomas para escolher, no entanto, o Dynamic Chat suporta apenas o seguinte: Inglês, Francês, Alemão, Japonês, Espanhol, Italiano, Português do Brasil, Coreano, Chinês Simplificado e Chinês Tradicional.
+
+Quando você atualiza seu idioma, tudo no próprio aplicativo é alterado, exceto as palavras que você preencheu pessoalmente (por exemplo, transmitir respostas).
 
 ## Limites no bate-papo dinâmico {#limits-in-dynamic-chat}
 
