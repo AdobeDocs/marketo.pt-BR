@@ -1,174 +1,174 @@
 ---
-description: Dynamic Chat Overview - Marketo Docs - Product Documentation
-title: Dynamic Chat Overview
+description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Documentação do produto
+title: Visão geral do bate-papo dinâmico
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: a437f39ccc5b1937c34ce43e7aedad82b22cf532
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '918'
 ht-degree: 2%
 
 ---
 
-# Dynamic Chat Overview {#dynamic-chat-overview}
+# Visão geral do bate-papo dinâmico {#dynamic-chat-overview}
 
-Dynamic Chat allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
+O Dynamic Chat permite que você aproveite uma interface fácil de usar para direcionar pessoas e contas que visitam seu site. Colete conteúdo relevante, como nome, informações de contato e texto livre. Os visitantes do site também podem marcar reuniões com sua equipe de vendas. Os dados dinâmicos de atividade de bate-papo e envolvimento podem ser usados para adicionar membros a programas do Marketo e acionar atividades entre canais.
 
 >[!NOTE]
 >
->Dynamic Chat is in the process of being rolled out gradually and is currently in limited availability. This page will be updated with general availability (GA) details as they become available.
+>O Dynamic Chat está sendo lançado gradualmente e está atualmente em disponibilidade limitada. Esta página será atualizada com os detalhes de disponibilidade geral (GA) à medida que forem sendo disponibilizados.
 
 >[!TIP]
 >
->[](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html)
+>Visita [esta página](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) para visualizar vídeos tutoriais do Dynamic Chat.
 
 ## Integrações {#integrations}
 
-A key component of Dynamic Chat is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you’ll first need to initiate the data sync. [](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
+Um componente essencial do Dynamic Chat é sua capacidade de fazer interface nativa com sua assinatura do Marketo. Para aproveitar todo o recurso dessa integração, primeiro será necessário iniciar a sincronização de dados. Dependendo do tamanho do banco de dados do Marketo, pode levar até 24 horas para os dados iniciais, [sincronização única](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) para concluir.
 
-The following is synced:
+O seguinte é sincronizado:
 
-* Person field data
-* Company field data
-* Activity data
+* Dados do campo de pessoa
+* Dados do campo da empresa
+* Dados da atividade
 
 ## Diálogos {#dialogues}
 
-Dialogues represent a single chat engagement. Think of it as a container with all the stuff you need to have an engaging chat dialogue to your website visitors. In each Dialogue, you can specify which page(s) you’d like the Dialogue to appear on, to whom you&#39;d like it to be shown to, and the content and flow of the Dialogue itself. Additionally, you can find metrics to see how well your Dialogue is performing. [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
+As caixas de diálogo representam um único envolvimento de chat. Pense nele como um contêiner com tudo o que você precisa para ter um diálogo de bate-papo envolvente com os visitantes do seu site. Em cada caixa de diálogo, você pode especificar em quais páginas deseja que a caixa de diálogo seja exibida, para quem deseja que ela seja exibida e o conteúdo e fluxo da própria caixa de diálogo. Além disso, você pode encontrar métricas para ver o desempenho da caixa de diálogo. [Saiba mais sobre Diálogos](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
 
 ## Configuração {#configuration}
 
-In the Configuration tab, customize the look and feel of your various Dialogues. Change font, colors, response time, and more! [](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md)
+Na guia Configuração , personalize a aparência das várias caixas de diálogo. Alterar fonte, cores, tempo de resposta e muito mais! [Saiba mais sobre a configuração](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target=&quot;_blank&quot;}.
 
 ## Calendário {#calendar}
 
-In the Calendar tab, connect your (Outlook or Gmail) calendar for use in appointment scheduling in the chatbot. Once a user’s calendar is connected to Dynamic Chat, that user will be added to the queue and their calendar will be available for website visitors to schedule appointments on.
+Na guia Calendário , conecte seu calendário (Outlook ou Gmail) para uso na programação de compromissos no chatbot. Quando o calendário de um usuário estiver conectado ao Dynamic Chat, ele será adicionado à fila e seu calendário estará disponível para os visitantes do site agendarem compromissos.
 
-You can also customize the body of the invite that&#39;s sent to the visitor when they schedule an appointment on the user’s calendar.
+Você também pode personalizar o corpo do convite enviado ao visitante quando ele agendar um compromisso no calendário do usuário.
 
 ## Reuniões {#meetings}
 
-This is where you&#39;ll see all of the appointments that have been scheduled by website visitors through your various Dialogues. Here you’ll find the email address of the person that booked the appointment, which agent they booked the appointment with, when the appointment is scheduled to occur, and whether the meeting has happened or not.
+É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias Diálogos. Aqui você encontrará o endereço de e-mail da pessoa que reservou o compromisso, com qual agente eles reservaram o compromisso, quando o compromisso está programado para ocorrer e se a reunião aconteceu ou não.
 
 ## Roteamento {#routing}
 
-This is where you can see a list of all the agents that have connected their calendars as well as what order they&#39;ll be presented to website visitors. Meetings go round robin style, so if you have five agents and agent three took the last meeting, agent four will get the next one, followed by agent five, then back to agent one.
+É aqui que você pode ver uma lista de todos os agentes que conectaram seus calendários, bem como a ordem em que serão apresentados aos visitantes do site. As reuniões são ao estilo do robin, então se você tem cinco agentes e o agente três tomou a última reunião, o agente quatro terá a próxima, seguido pelo agente cinco, e então de volta ao agente um.
 
-## FAQ {#faq}
+## Perguntas frequentes {#faq}
 
-****
+**Posso instalar o Chat Dinâmico em qualquer lugar do site da minha empresa ou ele só funciona nas páginas de aterrissagem do Marketo?**
 
-The Dynamic Chat JavaScript snippet can be installed on any website as well as Marketo landing pages.
+O snippet do Dynamic Chat JavaScript pode ser instalado em qualquer site, bem como nas páginas de aterrissagem do Marketo.
 
-****
+**Os dados são armazenados por quanto tempo?**
 
-[](#limits-in-dynamic-chat)
+90 dias (consulte a lista completa de limites [below](#limits-in-dynamic-chat)).
 
-****
+**O Bate-papo dinâmico permite o bate-papo ao vivo?**
 
-No, it only utilizes pre-determined responses.
+Não, ele utiliza apenas respostas predeterminadas.
 
-****
+**O Dynamic Chat é compatível com idiomas além do inglês?**
 
-Sim. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. [](#changing-the-language)
+Sim. O Dynamic Chat é compatível com os seguintes idiomas: Francês, alemão, japonês, espanhol, italiano, português do Brasil, coreano, chinês simplificado e chinês tradicional. Saiba mais na [seção abaixo](#changing-the-language).
 
-****
+**Você suporta a funcionalidade AI/NLP?**
 
-We do not support AI/NLP functionality.
+Não oferecemos suporte à funcionalidade AI/NLP.
 
-****
+**Como posso direcionar pessoas anônimas?**
 
-__
+Na caixa de diálogo, é necessário usar o _O e-mail da pessoa está vazio_ atributo.
 
-## Changing the Language {#changing-the-language}
+## Alterar o idioma {#changing-the-language}
 
-Follow these steps to change your Dynamic Chat language.
+Siga estas etapas para alterar a linguagem de bate-papo dinâmico.
 
 >[!IMPORTANT]
 >
->__
+>Alterar seu idioma no nível do perfil alterará o idioma para _all_ Aplicativos Experience Cloud, não apenas Dynamic Chat.
 
-1. ****
+1. Na sua conta do Experience Cloud, clique no ícone de configurações e escolha **Preferências**.
 
    ![](assets/dynamic-chat-overview-1.png)
 
-1. Click the current language under your email address.
+1. Clique no idioma atual em seu endereço de email.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. ****
+1. Escolha seu novo idioma (o segundo idioma é opcional) e clique em **Salvar**.
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >There are a few dozen languages to choose from, however, Dynamic Chat only supports the following: English, French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese.
+   >No entanto, há algumas dezenas de idiomas para escolher, o Dynamic Chat oferece suporte apenas ao seguinte: Inglês, Francês, Alemão, Japonês, Espanhol, Italiano, Português do Brasil, Coreano, Chinês Simplificado e Chinês Tradicional.
 
-When you update the language, everything in the app itself changes except for the words you&#39;ve personally populated (e.g., stream responses).
+Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto as palavras que você preencheu pessoalmente (por exemplo, transmitir respostas).
 
-## Limits in Dynamic Chat {#limits-in-dynamic-chat}
+## Limites no bate-papo dinâmico {#limits-in-dynamic-chat}
 
 <table>
   <th>Parâmetro</th>
   <th>Descrição</th>
   <th>Limite</th>
  <tr>
-  <td>Total Dialogues</td>
-  <td>Total number of Dialogues (published and draft)</td>
+  <td>Total de caixas de diálogo</td>
+  <td>Número total de Diálogos (publicados e rascunho)</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>Published Dialogues</td>
-  <td>Number of published Dialogues saved</td>
+  <td>Caixas de diálogo publicadas</td>
+  <td>Número de caixas de diálogo publicadas salvas</td>
   <td>100</td>
  </tr>
  <tr>
-  <td>Target URLs per Dialogue</td>
-  <td>Number of Target URLs that can be added to a single Dialogue</td>
-  <td>20</td>
+  <td>Direcionar URLs por caixa de diálogo</td>
+  <td>Número de URLs de destino que podem ser adicionados a uma única caixa de diálogo</td>
+  <td>20º</td>
  </tr>
  <tr>
-  <td>Attributes per Dialogue</td>
-  <td>Number of attributes that can be added to audience criteria for a single Dialogue</td>
+  <td>Atributos por caixa de diálogo</td>
+  <td>Número de atributos que podem ser adicionados aos critérios de público-alvo para uma única caixa de diálogo</td>
   <td>100</td>
  </tr>
  <tr>
   <td>Grupos</td>
-  <td>Number of groups that can be added to a single Dialogue</td>
-  <td>10</td>
+  <td>Número de grupos que podem ser adicionados a uma única caixa de diálogo</td>
+  <td>10º</td>
  </tr>
  <tr>
-  <td>Attributes per Group</td>
-  <td>Number of attributes that can be added to a group</td>
-  <td>10</td>
+  <td>Atributos por grupo</td>
+  <td>Número de atributos que podem ser adicionados a um grupo</td>
+  <td>10º</td>
  </tr>
  <tr>
-  <td>Cards</td>
-  <td>Number of cards that can be added to the canvas per Dialogue</td>
+  <td>Cartões</td>
+  <td>Número de cartões que podem ser adicionados à tela por caixa de diálogo</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>Anonymous Lead Data Retention Period</td>
-  <td>Duration for how long information of an anonymous lead without any engagement will be retained</td>
+  <td>Período Anônimo de Retenção de Dados de Lead</td>
+  <td>Duração por quanto tempo as informações de um lead anônimo sem qualquer envolvimento serão retidas</td>
   <td>90 dias</td>
  </tr>
  <tr>
-  <td>Goal Activity Retention Period</td>
-  <td>Amount of time goal activity data is retained</td>
-  <td>24 months</td>
+  <td>Período de retenção da atividade de meta</td>
+  <td>A quantidade de tempo que os dados da atividade da meta são retidos</td>
+  <td>24 meses</td>
  </tr>
  <tr>
-  <td>Document Activity Retention Period</td>
-  <td>Amount of time document activity data is retained</td>
-  <td>24 months</td>
+  <td>Período de retenção da atividade do documento</td>
+  <td>Tempo em que os dados da atividade do documento são retidos</td>
+  <td>24 meses</td>
  </tr>
  <tr>
-  <td>Interacted w/ Dialogue Activity Retention Period</td>
-  <td>Amount of time interacted with Dialogue activity data is retained</td>
+  <td>Interagido com Período de Retenção da Atividade de Diálogo</td>
+  <td>A quantidade de tempo que interagiu com os dados da atividade Dialog é retida</td>
   <td>90 dias</td>
  </tr>
  <tr>
-  <td>Meeting Booking Activity Retention Period</td>
-  <td>Amount of time meeting booking activity will be stored in Dynamic Chat</td>
-  <td>24 months</td>
+  <td>Período de Retenção da Atividade de Reserva de Reunião</td>
+  <td>A atividade de reserva de horário será armazenada no Bate-papo dinâmico</td>
+  <td>24 meses</td>
  </tr>
 </table>

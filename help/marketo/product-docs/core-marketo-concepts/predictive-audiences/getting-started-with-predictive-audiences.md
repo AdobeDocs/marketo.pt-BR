@@ -4,7 +4,7 @@ title: Introdução aos públicos preditivos
 hide: true
 hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -36,4 +36,3 @@ O Predictive Audiences é incluído e ativado automaticamente para instâncias q
 1. Depois que o recurso tiver sido adicionado à sua instância, navegue até o **[!UICONTROL Públicos-alvo preditivos]** na página **[!UICONTROL Administrador]** área do Marketo.
 
 1. Verificar **[!UICONTROL Ativar públicos-alvo preditivos]** para ativar o recurso. Observe que pode levar até 24 horas para que todos os processos concluam a configuração.
-
