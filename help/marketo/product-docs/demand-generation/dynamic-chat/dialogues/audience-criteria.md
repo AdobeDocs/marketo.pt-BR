@@ -2,9 +2,9 @@
 description: Critérios de público-alvo - Documentos do Marketo - Documentação do produto
 title: Critérios de público
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '499'
 ht-degree: 2%
 
 ---
@@ -13,9 +13,31 @@ ht-degree: 2%
 
 Semelhante às Smart Lists da Marketo, os atributos de Critérios de público-alvo permitem que você defina seu público-alvo. Você pode direcionar pessoas conhecidas ou desconhecidas usando atributos inferidos, de pessoa ou da empresa (ou uma combinação desses atributos).
 
+## Eventos {#events}
+
+![](assets/audience-criteria-0.png)
+
+Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em que eles ficam em sua página/site. No exemplo abaixo, estamos direcionando visitantes que estão em uma página específica por mais de 20 segundos.
+
+1. Pegue o **Tempo na página** e arraste-o para a direita.
+
+   ![](assets/audience-criteria-0a.png)
+
+1. Defina o tempo &quot;Maior que&quot; para 20 segundos.
+
+   ![](assets/audience-criteria-0b.png)
+
+1. Adicione o URL da página desejada no [Target](#target) seção.
+
+   ![](assets/audience-criteria-0c.png)
+
+## Atributos {#attributes}
+
+![](assets/audience-criteria-0d.png)
+
 **Pessoas conhecidas**
 
-Existem _many_ combinações de atributos para escolher. Neste exemplo, estamos direcionando tudo **pessoas conhecidas** na Califórnia, que trabalham em uma empresa com mais de 50 funcionários.
+Existem _many_ combinações de atributos para escolher. No exemplo abaixo, estamos direcionando tudo **pessoas conhecidas** na Califórnia, que trabalham em uma empresa com mais de 50 funcionários.
 
 1. Pegue o **Estado da pessoa** e arraste-o para a direita.
 
