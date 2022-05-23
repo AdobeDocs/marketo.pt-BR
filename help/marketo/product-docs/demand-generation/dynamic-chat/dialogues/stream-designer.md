@@ -1,15 +1,15 @@
 ---
 description: Stream Designer - Documentos do Marketo - Documentação do produto
-title: Designer de fluxo
+title: Designer de sequência
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 0%
+source-wordcount: '630'
+ht-degree: 3%
 
 ---
 
-# Designer de fluxo {#stream-designer}
+# Designer de sequência {#stream-designer}
 
 Existem _many_ combinações de fluxo que podem ser criadas. Este artigo contém um exemplo em que o profissional de marketing pergunta ao visitante do site se ele tem alguma dúvida sobre o produto. Em caso positivo, o visitante pode agendar um compromisso. Se não, o visitante recebe a opção de ingressar em uma lista de endereços para correspondência futura. A meta é agendar um compromisso ou coletar o email do visitante.
 
@@ -28,11 +28,15 @@ O designer de fluxo contém vários cartões que podem ser adicionados para mold
   <td>Use quando quiser fazer uma pergunta de múltipla escolha, da qual você fornece as respostas disponíveis (por exemplo: Em que tipo de veículo você está interessado? Respostas = SUV, Compacto, Caminhão, etc.).</td>
  </tr>
  <tr>
-  <td><strong>Captura de informações</strong></td>
+  <td><strong>Documento</strong></td>
+  <td>Permite incorporar documentos do PDF em Caixas de diálogo e rastrear a atividade de envolvimento de documentos dos visitantes (quantas páginas foram visualizadas, se o documento foi baixado e/ou quaisquer termos de pesquisa que foram usados).</td>
+ </tr>
+ <tr>
+  <td><strong>Captura de dados</strong></td>
   <td>Use quando desejar coletar informações. Os três campos a serem escolhidos são Endereço de email, Número de telefone e Texto (o que permite que o visitante grave sua própria mensagem).</td>
  </tr>
  <tr>
-  <td><strong>Programador de Compromissos</strong></td>
+  <td><strong>Scheduler de compromissos</strong></td>
   <td>Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">o próximo agente em linha</a>.</td>
  </tr>
  <tr>
@@ -109,7 +113,7 @@ O designer de fluxo contém vários cartões que podem ser adicionados para mold
      <td>O tipo de informação que você deseja capturar: Telefone, Texto, Email.</td>
     </tr>
     <tr>
-     <td><strong>Mensagem de chatbot</strong></td>
+     <td><strong>Mensagem do chatbot</strong></td>
      <td>A mensagem que o visitante vê solicitando que forneça as informações.</td>
     </tr>
     <tr>
@@ -117,7 +121,7 @@ O designer de fluxo contém vários cartões que podem ser adicionados para mold
      <td>Exemplo de texto que ajuda o visitante a ver o que inserir.</td>
     </tr>
     <tr>
-     <td><strong>Mapear resposta para o atributo</strong></td>
+     <td><strong>Mapear resposta ao atributo</strong></td>
      <td>Permite sincronizar a resposta do visitante com o campo correspondente em seu registro de Pessoa em sua assinatura do Marketo.</td>
     </tr>
    </table>
