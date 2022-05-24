@@ -4,16 +4,16 @@ title: Como entender o rastreamento de metas e os registros projetados
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '963'
 ht-degree: 0%
 
 ---
 
 # Como entender o rastreamento de metas e os registros projetados {#understanding-goal-tracking-and-projected-registrations}
 
-Depois [definição de metas de evento](/help/sky/setting-event-goals.md) e enviar convites por meio de um [campanha inteligente](/help/sky/create-a-smart-campaign.md), veja como rastrear o progresso da meta e entender as previsões da Marketo.
+Veja como rastrear o progresso da meta e entender as previsões da Marketo.
 
 >[!NOTE]
 >
