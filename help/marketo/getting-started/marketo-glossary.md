@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Glossário do Marketo - Documentos do Marketo - Documentação do produto
 title: Glossário do Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '4205'
+source-wordcount: '4196'
 ht-degree: 4%
 
 ---
@@ -36,7 +36,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   </tr> 
   <tr> 
    <td><strong>Lista de contas</strong></td> 
-   <td>Uma lista de nomes de conta/organização principais. Também conhecido como Marketing baseado em conta (<strong>ABM</strong>).</td> 
+   <td>Uma lista de nomes de conta/organização principais. Também conhecido como Account-Based Marketing (<strong>ABM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Criação de perfis de contas</strong></td> 
@@ -272,7 +272,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   </tr> 
   <tr> 
    <td colspan="1"><strong>Documentação</strong></td> 
-   <td colspan="1">Sem documentos, os documentos são artigos de ajuda para os clientes compreenderem melhor o produto. O Marketo tem vários tipos diferentes de documentos: Documentos do produto (o site no qual você está no momento), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> documentos, <a href="https://developers.marketo.com/" rel="nofollow">Desenvolvedor</a> documentos e <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Suporte</a> documentos.</td> 
+   <td colspan="1">Sem documentos, os documentos são artigos de ajuda para os clientes compreenderem melhor o produto. O Marketo tem vários tipos diferentes de documentos: Documentos do produto (o site no qual você está no momento), <a href="https://developers.marketo.com/" rel="nofollow">Desenvolvedor</a> documentos e <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Suporte</a> documentos.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Autenticação de Mensagens Baseadas em Domínio, Relatórios e Conformidade (DMARC)</strong></td> 
@@ -310,7 +310,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>E-mail</strong></td> 
+   <td colspan="1"><strong>Email</strong></td> 
    <td colspan="1">No Marketo, uma das <strong>ativos</strong> disponível para uso para comunicação com seus clientes. Os emails podem ser HTML (gráficos, fonte personalizada etc.) ou Somente texto (mensagens de texto sem formatação especial). Somente emails de HTML podem gravar "aberturas".</td> 
   </tr> 
   <tr> 
@@ -522,7 +522,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
    <td colspan="1">Depois de alimentar um segmento do seu público-alvo, alguns indivíduos podem se tornar leads qualificados de marketing, o que significa que eles exibiram o comportamento e as características para atender aos seus critérios de sucesso para serem passados para sua organização de vendas para acompanhamento.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Campanha de marketing suspensa</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Marketing suspenso</strong></a></td> 
    <td colspan="1">Esse campo é definido manualmente pela variável <strong>usuário</strong> para criar alguém em sua Marketo <strong>banco de dados</strong> temporariamente não endereçável.</td> 
   </tr> 
   <tr> 
