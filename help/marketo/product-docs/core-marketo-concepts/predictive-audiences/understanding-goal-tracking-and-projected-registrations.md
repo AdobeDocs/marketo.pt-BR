@@ -4,9 +4,9 @@ title: Como entender o rastreamento de metas e os registros projetados
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Como entender o rastreamento de metas e os registros projetados {#understanding-goal-tracking-and-projected-registrations}
 
 Veja como rastrear o progresso da meta e entender as previsões da Marketo.
+
+>[!PREREQUISITES]
+>
+>Para acessar a maioria desses recursos, certifique-se de ativar a variável [alternador de próxima geração](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;} para Programas de Eventos.
 
 >[!NOTE]
 >
