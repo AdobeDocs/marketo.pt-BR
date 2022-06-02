@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f7bb22572ed1a79fe8afe4a1066a2cc172a43f23
+source-git-commit: 40e88a573079b87b3af9a653d8e0b64b5b7522bc
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Os seguintes recursos começarão a ser lançados em **24 de junho de 2022**, co
 
 ## Anúncios {#announcements}
 
-* **Substituição do Forms - Forms 1.0, ponto de extremidade de Captura/salvamento do lead e versões sem script de formulários**: O suporte para ativos do Forms 1.0 será completamente removido do Marketo Engage. Todos os ativos existentes do Forms 1.0 não funcionarão. Os formulários Marketo Engage exigirão que o JavaScript seja carregado nas páginas de aterrissagem e nos sites.
+* **Substituição do Forms - Forms 1.0, ponto de extremidade de Captura/salvamento do lead e versões sem script de formulários**: O suporte para ativos Forms 1.0 será totalmente removido do Marketo Engage em outubro de 2022. Todos os ativos existentes do Forms 1.0 não funcionarão. Os formulários Marketo Engage exigirão que o JavaScript seja carregado nas páginas de aterrissagem e nos sites.
 
 **_Webinar da versão do produto_**
 
