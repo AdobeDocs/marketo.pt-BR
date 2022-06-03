@@ -3,10 +3,9 @@ unique-page-id: 1146942
 description: Definir Smart List para Smart Campaign | Acionador - Documentação da Marketo - Documentação do produto
 title: Definir Smart List para Smart Campaign | Acionador
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Faça uma campanha inteligente ser executada em uma pessoa de cada vez com base em eventos ao vivo, adicionando acionadores.
 
-1. Na campanha inteligente, clique na guia **Smart List**.
+1. Na campanha inteligente, clique no botão **Lista inteligente** guia .
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
@@ -25,7 +24,11 @@ Faça uma campanha inteligente ser executada em uma pessoa de cada vez com base 
 
    >[!NOTE]
    >
-   >Uma campanha inteligente com acionadores é executada no modo **Acionador**. Ele é executado em uma pessoa de cada vez com base nos eventos acionados e em qualquer filtro adicional.
+   >Uma campanha inteligente com acionadores é executada em **Acionador** modo. Ele é executado em uma pessoa de cada vez com base nos eventos acionados e em qualquer filtro adicional.
+
+   >[!IMPORTANT]
+   >
+   >Ao usar um campo booleano em uma lista inteligente de campanha de acionador, você deve defini-lo explicitamente como &quot;false&quot; para que o campo seja avaliado adequadamente durante a execução da campanha.
 
 1. Clique no menu suspenso e escolha um operador.
 
@@ -45,9 +48,9 @@ Faça uma campanha inteligente ser executada em uma pessoa de cada vez com base 
 
    >[!NOTE]
    >
-   >Com vários acionadores, uma pessoa passa pelo fluxo se **ANY** um dos acionadores for ativado.
+   >Com vários acionadores, uma pessoa passa pelo fluxo se **ANY** um dos acionadores é ativado.
 
-Para executar a campanha em um conjunto de pessoas ao mesmo tempo, saiba como [Definir a lista inteligente para o Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+Para executar a campanha em um conjunto de pessoas ao mesmo tempo, aprenda a [Definir Smart List para Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
 >[!MORELIKETHIS]
 >
