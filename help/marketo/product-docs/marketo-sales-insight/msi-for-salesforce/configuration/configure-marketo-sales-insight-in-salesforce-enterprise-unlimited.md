@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited - Documentos da Marketo - Documentação do produto
 title: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '888'
 ht-degree: 12%
 
 ---
@@ -113,6 +113,10 @@ Estas são as etapas que você precisa seguir para configurar o Marketo Sales In
 1. Editar altura para **450** pixels e clique **OK**.
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
+
+   >[!NOTE]
+   >
+   >Verificar **Mostrar barras de rolagem** se você precisar acessar atividades de rolagem.
 
    >[!TIP]
    >
