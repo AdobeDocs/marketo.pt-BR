@@ -1,12 +1,10 @@
 ---
 description: Noções básicas sobre rastreamento de metas e registros projetados - Documentos do Marketo - Documentação do produto
 title: Como entender o rastreamento de metas e os registros projetados
-hide: true
-hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
 workflow-type: tm+mt
-source-wordcount: '982'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -27,23 +25,27 @@ Veja como rastrear o progresso da meta e entender as previsões da Marketo.
 
 1. Você pode encontrar detalhes de rastreamento de meta na seção **[!UICONTROL Relatórios]** do seu programa de eventos. Neste exemplo específico, há 150 membros registrados até agora contra uma meta de 200 (75%).
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
 Você também verá seu **[!UICONTROL Projetado]** registros. Passe o mouse sobre o ícone de informações para ver a análise desse número por segmento Probabilidade .
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
 >[!NOTE]
 >
 >O gráfico Participante e Superior permanecerá vazio até o dia do evento.
 
+Se você não ativou a opção de alternância, veja como ela aparecerá na interface do usuário da classe Marketo:
+
+![](assets/understanding-goal-tracking-and-projected-registrations-3.png)
+
 1. Clique na opção Gráfico para alternar para uma análise dos membros por probabilidade de registro. Você verá porcentagens de registro atuais para cada segmento, em comparação à porcentagem média para esse segmento em seus programas anteriores.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
 Todos os membros (registrados e ainda não registrados) são classificados de acordo com a probabilidade de registro. Passe o mouse sobre o ícone de informações para ver como essas categorias de probabilidade são definidas.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
@@ -62,19 +64,19 @@ No cálculo de programas semelhantes, incluímos os seguintes fatores, entre out
 * Duração desde a criação do evento até o início do evento
 * Duração do evento
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Recomendações
 
 Na parte superior da página Relatórios, você pode encontrar recomendações orientadas por IA/ML com base no seu progresso. Verifique periodicamente se há dicas e insights úteis!
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Previsões de nível de pessoa
 
 Clique no botão **[!UICONTROL Membros]** para exibir todos os membros do programa. Passe o mouse sobre **[!UICONTROL Probabilidade de registro]** ou **[!UICONTROL Probabilidade de participação]** para ver as porcentagens e as categorizações exatas. Você pode então tomar medidas em relação aos membros de uma categoria específica (por exemplo, todos na categoria &quot;Menos provável&quot; de registrar) e direcioná-los especificamente para aumentar potencialmente seus números de registro.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
 >[!NOTE]
 >
@@ -110,7 +112,7 @@ ii. Após 24 horas, no [!UICONTROL Relatórios] você pode ver os registros proj
 
 iii. Se os registros projetados forem menores que a meta, você terá que convidar mais pessoas. Neste ponto, você pode ver os insights que informam qual foi o limite que funcionou em programas anteriores.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-9.png)
 
 iv. Você pode criar uma nova Campanha inteligente com esse limite para convidar mais pessoas.
 
@@ -124,7 +126,7 @@ A: Três barras, cada uma representando um segmento (Altamente provável, prová
 
 **Barra azul:** Porcentagem de registro de todas as pessoas nesse segmento.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 Por exemplo, digamos que 100 pessoas têm probabilidade de registrar > 50% e 60 dessas 100 pessoas registradas. É altamente provável que tenha conversão de 60%. Assim, todos os membros adicionados ao programa têm probabilidade de registrar valores, então eles são colocados em segmentos e, de acordo com o número de pessoas registradas em cada taxa de conversão de segmento, é calculado.
 
@@ -134,10 +136,10 @@ A: Qualquer pessoa que esteja listada como registrada ou qualquer outro status c
 
 Você pode criar novos status de progressão para um programa de evento, mas mapeamos esses status com status padrão. Considere um caso em que uma pessoa é transferida de convidada para lembrada, o que é uma etapa mais alta do que o registro. Essa pessoa também será considerada registrada e mostrada no rastreamento da meta.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
 **P: Como são calculados os registros projetados?**
 
 A: Veja abaixo.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-12.png)
