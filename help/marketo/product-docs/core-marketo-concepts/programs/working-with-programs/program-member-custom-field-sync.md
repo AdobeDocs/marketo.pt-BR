@@ -3,10 +3,10 @@ description: Campos personalizados do membro do programa - Documentos do Marketo
 title: Campos personalizados do membro do programa
 hide: true
 hidefromtoc: true
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: 09e9ee74c32f81fdc826454266d3e16826a09eae
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 7%
 >
 >O objeto Membro do programa pode ter até 20 campos personalizados. Esses campos estão disponíveis para qualquer programa.
 
-## Mapear campos do Salesforce para campos de membro do programa {#map-salesforce-fields-to-program-member-fields}
+## Mapear campos do Salesforce para campos personalizados do membro do programa {#map-salesforce-fields-to-program-member-custom-fields}
 
 1. No Marketo, clique em **Administrador**.
 
@@ -60,7 +60,7 @@ ht-degree: 7%
    >
    >Se você renomear ou alterar o tipo de dados de um campo no Salesforce, removeremos qualquer mapeamento desse campo com o Campo Personalizado do Membro do Programa. Mas você pode remapeá-lo com o novo campo após a revisão.
 
-## Desmapear campos do Salesforce para campos de membro do programa {#unmap-salesforce-fields-to-program-member-fields}
+## Desmapear Campos do Salesforce a partir de Campos Personalizados do Membro do Programa {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteração geral, é necessário realizar um desmapeamento primeiro. Veja como.
 
@@ -88,7 +88,7 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
 
    ![](assets/program-member-custom-field-sync-11.png)
 
-## Mapeamento de tipo de dados {#datatype-mapping}
+## Mapeamento de tipo de dados {#data-type-mapping}
 
 <table>
   <colgroup>
@@ -98,7 +98,7 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
   <tbody>
     <tr>
       <th>Tipo de dados SFDC</th>
-      <th>Tipo de Dados do Campo do Membro do Programa</th>
+      <th>Tipo de Dados do Campo Personalizado do Membro do Programa</th>
     </tr>
     <tr>
       <td>Texto</td>
