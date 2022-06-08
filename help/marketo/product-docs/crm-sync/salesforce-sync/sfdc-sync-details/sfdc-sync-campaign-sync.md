@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2953469
-description: Sincronização SFDC - Sincronização de Campanha - Documentos do Marketo - Documentação do produto
+description: Sincronização SFDC - Sincronização de Campanha - Documentos Marketo - Documentação do produto
 title: Sincronização SFDC - Sincronização de Campanha
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
-source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 5%
@@ -26,9 +26,9 @@ No Marketo, você tem a opção de criar um mapeamento de um para um entre um pr
 
 ![](assets/image2015-7-8-9-3a43-3a8.png)
 
-O **[canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)** e **[período de custo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)** no Marketo são sincronizados com o Salesforce como o **tipo de campanha** e **custo real**. Essa sincronização é **one way**, do Marketo para o Salesforce.
+O **[canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)** e **[custo do período](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)** no Marketo, sincronize com o Salesforce como o **tipo de campanha** e **custo real**. Esta sincronização é **uma via**, do Marketo para o Salesforce.
 
-Os membros **do programa** do Marketo e seus **[status de progressão](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)** são mantidos em sincronia com os **membros da campanha do Salesforce** e **status do membro da campanha**. Esta é uma **sincronização bidirecional**, portanto, todas as alterações feitas no Marketo ou no Salesforce são refletidas em ambos os sistemas.
+Marketo **membros do programa** e seus **[status de progressão](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)** são mantidas em sincronia com o **Membros da campanha Salesforce** e **status dos membros da campanha**. Isso é uma **sincronização bidirecional**, portanto, todas as alterações feitas no Marketo ou no Salesforce são refletidas em ambos os sistemas.
 
 >[!NOTE]
 >
@@ -48,26 +48,26 @@ Filtros:
 
 ## Posso adicionar Pessoas do Marketo à minha campanha SFDC? {#can-i-add-marketo-people-to-my-sfdc-campaign}
 
-Sim, use a ação [Adicionar ao fluxo de campanha SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md). Se essa pessoa não existir no Salesforce, o Marketo a criará no Salesforce e o adicionará à campanha.
+Sim, use o [Adicionar à ação de fluxo de campanha SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md). Se essa pessoa não existir no Salesforce, o Marketo a criará no Salesforce e o adicionará à campanha.
 
 ## Posso remover membros da minha campanha SFDC usando o Marketo? {#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
 
-Sim, use a ação [Remove from SFDC Campaign flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md).
+Sim, use o [Remover da ação de fluxo de campanha SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md).
 
 ## É possível alterar o status do membro da campanha usando o Marketo? {#can-i-change-campaign-member-status-using-marketo}
 
-Sim, use a ação [Alterar status no fluxo de campanha SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md).
+Sim, use o [Alterar status na ação de fluxo de campanha SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md).
 
 ## Por que não posso ver nenhuma das minhas campanhas do Salesforce? {#why-cant-i-see-any-of-my-salesforce-campaigns}
 
 Veja coisas que você pode verificar:
 
-1. Certifique-se de que a [sincronização de campanha está ativada](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-1. Confirme se seu [Marketo Sync User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) é um [Marketing User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) no Salesforce.
+1. Certifique-se de que o [a sincronização de campanha está ativada](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+1. Confirme que a [Usuário do Marketo Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) é um [Usuário de marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) em Salesforce.
 
 >[!NOTE]
 >
->Se sua campanha do Salesforce e o programa Marketo mapeado tiverem status de programa incompatíveis, você poderá receber uma mensagem de erro. Recomendamos que você [corresponda aos status do programa antes da sincronização](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+>Se sua campanha do Salesforce e o programa Marketo mapeado tiverem status de programa incompatíveis, você poderá receber uma mensagem de erro. Recomendamos que você [corresponder aos status do programa antes da sincronização](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 >[!MORELIKETHIS]
 >

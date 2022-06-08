@@ -3,8 +3,7 @@ unique-page-id: 7516241
 description: Sincronização SFDC - Fila de lead - Documentos do Marketo - Documentação do produto
 title: Sincronização SFDC - Fila de lead
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 15%
@@ -13,7 +12,7 @@ ht-degree: 15%
 
 # Sincronização SFDC: Fila de lead {#sfdc-sync-lead-queue}
 
-O Marketo permite adicionar pessoas a [filas de lead do Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) para ajudar na distribuição de lead. Aqui estão os detalhes.
+O Marketo permite adicionar pessoas ao [Filas de lead do Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) para ajudar na distribuição de leads. Aqui estão os detalhes.
 
 ## Como atribuir uma pessoa a uma fila no Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
