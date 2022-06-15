@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3fe29ccb26e72b593f8b410a45a4871e68fb5fa8
+source-git-commit: 46aff8058cb97743bee1bd5ff5ddf0ddbbb663a5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '647'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,8 @@ Os seguintes recursos começarão a ser lançados em **24 de junho de 2022**, co
 * **Minha atualização do mosaico da Marketo - Ações de insight de vendas**: Agora, os administradores do Marketo (e os usuários designados por eles) podem navegar rapidamente para a instância de ações de insight de vendas por meio de um novo bloco de ações de insight de vendas , localizado na página Meu Marketo .
 
 ## SalesConnect {#sales-connect}
+
+![(estrela)](assets/yellow-star.png)
 
 * **Atualização da API do Salesforce**: Com a versão do Salesforce Verão de 222, as versões herdadas da API 21-30 não serão mais suportadas pelo Salesforce. Com esta versão do Marketo Engage, todas as solicitações de Conexão de Vendas usando versões de API herdadas foram atualizadas para permanecer em uma versão suportada. Para obter detalhes completos sobre os planos de aposentadoria da API do Salesforce, clique em [here](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
 
