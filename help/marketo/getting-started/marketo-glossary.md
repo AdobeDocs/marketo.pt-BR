@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Glossário do Marketo - Documentos do Marketo - Documentação do produto
 title: Glossário do Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
 workflow-type: tm+mt
-source-wordcount: '4196'
+source-wordcount: '4203'
 ht-degree: 4%
 
 ---
@@ -28,19 +28,15 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   </tr> 
   <tr> 
    <td colspan="1"><strong>Conta</strong></td> 
-   <td colspan="1">Este termo pode ter significados diferentes:<br>-Sua própria instância do Marketo pode ser chamada de conta do Marketo.<br>-Entrada <strong>ABM</strong>, a <strong>Conta nomeada</strong> é uma conta que o usuário determinou ser uma conta-alvo que deseja buscar.<br>-No ABM, uma conta CRM é uma conta mapeada de seu <strong>CRM</strong> (conta em <strong>Salesforce</strong>, <strong>MS Dynamics</strong> ou <strong>API</strong>).<br>-No seu CRM, as contas são a empresa/empresa à qual os clientes potenciais e os contatos estão associados.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Marketing baseado em conta</a> (ABM)</strong></td> 
-   <td colspan="1">Um recurso complementar que permite direcionar e envolver as principais contas de forma altamente coordenada.</td> 
+   <td colspan="1">Este termo pode ter significados diferentes:<br>-Sua própria instância do Marketo pode ser chamada de conta do Marketo.<br>-Entrada <strong>TAM</strong>, a <strong>Conta nomeada</strong> é uma conta que o usuário determinou ser uma conta-alvo que deseja buscar.<br>-No TAM, uma conta CRM é uma conta mapeada de seu <strong>CRM</strong> (conta em <strong>Salesforce</strong>, <strong>MS Dynamics</strong> ou <strong>API</strong>).<br>-No seu CRM, as contas são a empresa/empresa à qual os clientes potenciais e os contatos estão associados.</td> 
   </tr> 
   <tr> 
    <td><strong>Lista de contas</strong></td> 
-   <td>Uma lista de nomes de conta/organização principais. Também conhecido como Account-Based Marketing (<strong>ABM</strong>).</td> 
+   <td>Uma lista de nomes de conta/organização principais. Também conhecido como Gerenciamento de conta do Target (<strong>TAM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Criação de perfis de contas</strong></td> 
-   <td colspan="1">(anteriormente AccountAI) Em <strong>ABM</strong>, usando o ICP (Perfil do cliente ideal), as empresas existentes no banco de dados serão classificadas e as classificações serão adicionadas como pontuações em suas contas.</td> 
+   <td colspan="1">(anteriormente AccountAI) Em <strong>TAM</strong>, usando o ICP (Perfil do cliente ideal), as empresas existentes no banco de dados serão classificadas e as classificações serão adicionadas como pontuações em suas contas.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Pontuação de contas</a></strong></td> 
@@ -574,7 +570,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
  <tbody> 
   <tr> 
    <td><strong>Conta nomeada</strong></td> 
-   <td><p>Em <strong>ABM</strong>, uma conta determinada pelo usuário é uma conta-alvo que ele deseja buscar.</p></td> 
+   <td><p>Em <strong>TAM</strong>, uma conta determinada pelo usuário é uma conta-alvo que ele deseja buscar.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Programa de promoção</strong></td> 
@@ -647,7 +643,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
-   <td colspan="1">No Marketo <strong>Marketing baseado em conta</strong>, as personas são um subconjunto de um público-alvo, permitindo um direcionamento mais específico.</td> 
+   <td colspan="1">No Marketo <strong>Gerenciamento de conta do Target</strong>, as personas são um subconjunto de um público-alvo, permitindo um direcionamento mais específico.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Pesquisa</strong></a></td> 
@@ -807,7 +803,11 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Marcas</a></strong></td> 
    <td>Identificadores usados para descrever <strong>programas</strong>.</td> 
-  </tr> 
+  </tr>
+  <tr> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Gerenciamento de conta do Target</a> (TAM)</strong></td> 
+   <td colspan="1">(antigo Marketing baseado em conta/ABM) Um recurso complementar que permite direcionar e engajar as principais contas de forma altamente coordenada.</td> 
+  </tr>
   <tr> 
    <td><strong>Modelo</strong></td> 
    <td>Um <strong>email</strong> ou <strong>página de aterrissagem</strong> que é usado como ponto de partida para criar emails ou landing pages adicionais.</td> 
@@ -827,7 +827,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   <tr> 
    <td> 
     <div> 
-     <p><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-smart-campaign" rel="nofollow"><strong> Acionar campanha</strong></a></p> 
+     <p><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-smart-campaign" rel="nofollow"><strong> Campanha com gatilho</strong></a></p> 
     </div></td> 
    <td>A <strong>campanha inteligente</strong> que contenha pelo menos um acionador.</td> 
   </tr> 
