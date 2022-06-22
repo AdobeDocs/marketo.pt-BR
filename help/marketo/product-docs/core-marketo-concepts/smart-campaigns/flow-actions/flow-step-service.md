@@ -2,24 +2,16 @@
 description: Serviço da etapa de fluxo - Documentação da Marketo - Documentação do produto
 title: Serviço de Etapa de Fluxo
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
 workflow-type: tm+mt
-source-wordcount: '1292'
+source-wordcount: '1243'
 ht-degree: 0%
 
 ---
 
 # Serviço de Etapa de Fluxo {#flow-step-service}
 
->[!NOTE]
->
->As Etapas do Fluxo de Autoatendimento estão atualmente na versão beta Aberta. Você pode habilitá-lo para sua assinatura no Admin > Treasure Chest Menu.
-
 Etapas de fluxo de autoatendimento é uma estrutura e um conjunto de recursos para criação, publicação e integração de serviços da Web em Campanhas inteligentes do Adobe Marketo Engage. Este guia destina-se aos usuários do Marketo Engage end que desejam instalar e usar serviços que já foram criados e publicados. Para obter informações sobre criação e publicação de seu próprio serviço, consulte o [Repositório GitHub para a interface do provedor de serviços](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Uma implementação da Tabela de pesquisa de prova de conceito pode ser encontrada [here](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
-
-## Restrições e avisos de pré-lançamento {#pre-release-restrictions-and-warnings}
-
-Esse recurso está atualmente na versão beta aberta e deve ser usado somente em instâncias de sandbox do Marketo Engage até que o serviço seja totalmente testado.
 
 ## Integração e gerenciamento de serviços {#onboarding-and-managing-services}
 
