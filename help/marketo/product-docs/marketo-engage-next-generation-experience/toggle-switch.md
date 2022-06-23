@@ -2,9 +2,9 @@
 description: Alternar Switch - Documentos do Marketo - Documentação do produto
 title: Alternar Switch
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
+source-git-commit: 917b74a9175707b9475a5d07eb116cde738f6f13
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ A nova experiência será carregada.
 
 ![](assets/toggle-switch-7.png)
 
-## Página de detalhes da página de aterrissagem {#landing-page-details-page}
+## Exibição de detalhes da página de aterrissagem {#landing-page-details-view}
 
 1. No Marketo, localize e selecione sua Landing page.
 
@@ -117,14 +117,48 @@ A nova experiência será carregada.
 
 ![](assets/toggle-switch-21.png)
 
+## Exibição de detalhes do email {#email-details-view}
+
+1. No Marketo, localize e selecione seu email.
+
+   ![](assets/toggle-switch-22.png)
+
+1. Na parte inferior direita da página, clique no botão **Nova experiência** alternar.
+
+   ![](assets/toggle-switch-23.png)
+
+A nova experiência será carregada.
+
+![](assets/toggle-switch-24.png)
+
+## Exibição de lista de emails {#email-list-view}
+
+A exibição da lista de email da próxima geração oferece filtros de pesquisa e a capacidade de executar ações de email em massa.
+
+1. No Marketo, selecione **Design Studio**.
+
+   ![](assets/toggle-switch-25.png)
+
+1. Selecionar **Emails**.
+
+   ![](assets/toggle-switch-26.png)
+
+1. Na parte inferior direita da página, clique no botão **Nova experiência** alternar.
+
+   ![](assets/toggle-switch-27.png)
+
+A nova experiência será carregada.
+
+![](assets/toggle-switch-28.png)
+
 ## Habilitar para todos os recursos {#enable-for-all-features}
 
 Você tem a opção de ativar manualmente a interface da próxima geração do Marketo para todos os recursos disponíveis, atuais e futuros.
 
 1. Em uma área que atualmente tem o Alternar Switch (neste exemplo, estamos em [Página Detalhes do Formulário](#form-details-page)), clique no ícone de engrenagem na parte inferior direita da página.
 
-   ![](assets/toggle-switch-22.png)
+   ![](assets/toggle-switch-second-last.png)
 
 1. Selecionar **Habilitar para todos os recursos disponíveis** e clique em **OK**.
 
-   ![](assets/toggle-switch-23.png)
+   ![](assets/toggle-switch-last.png)
