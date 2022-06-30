@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Configurar protocolos para Marketo - Documentos do Marketo - Documentação do produto
 title: Configurar protocolos para Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1020'
 ht-degree: 1%
 
 ---
@@ -99,7 +99,7 @@ Sua equipe de marketing também deve ter enviado informações do DKIM para adic
 
    `[DKIMDomain2]`: O Registro do Host é `[HostRecord2]` e o valor TXT é `[TXTValue2]`.
 
-   Copie o HostRecord e o TXTValue para cada DKIMDomain que você configurou depois de seguir a [instruções aqui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Não se esqueça de verificar cada domínio em Admin > Email > DKIM depois que sua equipe de TI concluir esta etapa.
+   Copie o HostRecord e o TXTValue para cada DKIMDomain que você configurou depois de seguir a [instruções aqui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}. Não se esqueça de verificar cada domínio em Admin > Email > DKIM depois que sua equipe de TI concluir esta etapa.
 
 ## Etapa 4: Configurar registros MX para seu domínio {#step-set-up-mx-records-for-your-domain}
 

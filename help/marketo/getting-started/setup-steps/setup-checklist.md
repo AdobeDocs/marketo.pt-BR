@@ -3,17 +3,16 @@ unique-page-id: 2949471
 description: Lista de verificação de configuração - Documentos do Marketo - Documentação do produto
 title: Lista de verificação de configuração
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '208'
 ht-degree: 2%
 
 ---
 
-# Configurar Lista de Verificação {#setup-checklist}
+# Lista de verificação de configuração {#setup-checklist}
 
-Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verificação como uma lista de itens visuais para começar. Os detalhes podem ser encontrados em [Etapas de configuração](/help/marketo/getting-started/setup-steps.md).
+Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verificação como uma lista de itens visuais para começar. Os detalhes podem ser encontrados em [Etapas de configuração](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}.
 
 ## Faça logon no Marketo e crie usuários adicionais {#log-in-to-marketo-and-create-additional-users}
 
@@ -28,7 +27,7 @@ Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verifica
 1. Solicite que ele crie um registro DNS para seu CNAME de página inicial
 1. Quando terminar a TI, configure o nome de domínio da página de aterrissagem no Marketo
 
-## Garanta a capacidade de entrega de email {#ensure-email-deliverability}
+## Garantir a entregabilidade por email {#ensure-email-deliverability}
 
 1. Selecione um CNAME de email para links de rastreamento de marca
 1. Solicite que ele configure um registro DNS para seu CNAME de email
@@ -51,4 +50,4 @@ Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verifica
 
 >[!MORELIKETHIS]
 >
->[Etapas de configuração](/help/marketo/getting-started/setup-steps.md)
+>[Etapas de configuração](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}

@@ -3,15 +3,14 @@ unique-page-id: 7516605
 description: Ajuda herdei uma instância existente do Marketo - Documentos do Marketo - Documentação do produto
 title: Ajuda para herdar uma instância existente do Marketo
 exl-id: f64c04cc-bbac-4577-b242-be8263acff4d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# Ajudar! Herdei uma instância existente do Marketo
+# Ajuda! Herdei uma instância existente do Marketo
 
 ![](assets/help-ive-inherited-an-existing-marketo-instance.png)
 
@@ -25,8 +24,8 @@ Então pegue sua bebida favorita e dê uma olhada.
 
 **Índice**
 
-* [Itens a serem retirados](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
-* [O que analisar: Principais habilidades](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
-* [Maneiras de obter ajuda](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
+* [Itens a serem retirados](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md){target=&quot;_blank&quot;}
+* [O que analisar: Principais habilidades](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target=&quot;_blank&quot;}
+* [Maneiras de obter ajuda](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target=&quot;_blank&quot;}
 
-Se você já conhece seu local e está familiarizado com os conceitos principais do Marketo, confira os Documentos do produto Marketo ou visite a comunidade online [Marketing Nation](https://nation.marketo.com/) para ver o que outros usuários do Marketo estão dizendo.
+Se você já conhece seu local e está familiarizado com os conceitos principais da Marketo, confira os Documentos do produto Marketo ou visite o [Nação de marketing](https://nation.marketo.com/){target=&quot;_blank&quot;} comunidade online para ver o que outros usuários do Marketo estão dizendo.

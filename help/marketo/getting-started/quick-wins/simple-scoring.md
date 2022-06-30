@@ -3,11 +3,10 @@ unique-page-id: 2359414
 description: Pontuação simples - Documentação do Marketo - Documentação do produto
 title: Pontuação simples
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 13%
+source-wordcount: '380'
+ht-degree: 11%
 
 ---
 
@@ -15,17 +14,17 @@ ht-degree: 13%
 
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](get-set-up-and-add-a-person.md)
->* [Página com formulário](landing-page-with-a-form.md)
+>* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
 
-## Etapa 1: &#x200B;criar uma campanha de pontuação  {#step-create-a-scoring-campaign}
+## Etapa 1: &#x200B;criar uma campanha de pontuação {#step-create-a-scoring-campaign}
 
-1. Vá para a área **Marketing Activities**.
+1. Vá para o **Atividades de marketing** área.
 
    ![](assets/ma-1.png)
 
-1. Clique com o botão direito do mouse na pasta **Learning** e clique em **New Campaign Folder**.
+1. Clique com o botão direito do mouse no **Aprendizagem** e clique em **Nova pasta de campanha**.
 
    ![](assets/two-2.png)
 
@@ -37,49 +36,49 @@ ht-degree: 13%
    >
    >Se você já tiver uma pasta de Pontuação, nomeie essa pasta como algo diferente, como Pontuação 1. Os nomes de pastas devem ser exclusivos.
 
-1. Em seguida, clique com o botão direito do mouse na nova pasta **Scoring** e selecione **New Smart Campaign**.
+1. Em seguida, clique com o botão direito do mouse no novo **Pontuação** e selecione **Nova Campanha Inteligente**.
 
    ![](assets/four.png)
 
-1. **** Nomeie a campanha como &quot;Alterar pontuação&quot; e clique em  **Criar**.
+1. **Nome** a campanha &quot;Change Score&quot; e clique em **Criar**.
 
    ![](assets/five-1.png)
 
-1. Clique na guia **Smart List**.
+1. Clique no botão **Lista inteligente** guia .
 
    ![](assets/six-1.png)
 
    Queremos que essa campanha seja executada sempre que uma pessoa preencher seu **Formulário de solicitação de avaliação**.
 
-1. Localize e arraste o acionador **Preencha o formulário** para a tela esquerda.
+1. Encontre e arraste a **Preenche Formulário** aciona na tela à esquerda.
 
    ![](assets/image2014-9-24-11-3a43-3a35.png)
 
-1. Selecione **Meu formulário**.
+1. Selecionar **Meu formulário**.
 
    >[!NOTE]
    >
-   >Se você concluiu a [Landing Page com um Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) win rápido, você deve ter o formulário. Se você tiver usado um nome diferente para o formulário, selecione esse nome.
+   >Se você concluiu o [Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vitória rápida você deve ter o formulário . Se você tiver usado um nome diferente para o formulário, selecione esse nome.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Clique na guia **Fluxo**.
+1. Clique no botão **Fluxo** guia .
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
-1. Arraste a ação de fluxo **Change Score** para a tela esquerda.
+1. Arraste o **Alterar Pontuação** fluxo da ação para a tela esquerda.
 
    ![](assets/image2014-9-24-11-3a44-3a45.png)
 
-1. Você pode digitar qualquer valor para adicionar à pontuação da pessoa. Vamos inserir &quot;+5&quot; no campo **Change**.
+1. Você pode digitar qualquer valor para adicionar à pontuação da pessoa. Vamos inserir &quot;+5&quot; no **Alterar** campo.
 
    ![](assets/eleven-1.png)
 
    >[!TIP]
    >
-   >Boas campanhas de pontuação são fundamentais para fornecer pessoas de alta qualidade para Vendas. Leia [**O Guia Definitivo para Pontuação de Chumbo**](https://www.marketo.com/definitive-guides/lead-scoring/).
+   >Boas campanhas de pontuação são fundamentais para fornecer pessoas de alta qualidade para Vendas. Ler [**O guia definitivo para a pontuação do cliente potencial**](https://www.marketo.com/definitive-guides/lead-scoring/){target=&quot;_blank&quot;}.
 
-1. Clique na guia **Schedule** e no botão **Ativate**.
+1. Clique no botão **Agendar** e a guia **Ativar** botão.
 
    ![](assets/twelve-1.png)
 
@@ -93,7 +92,7 @@ ht-degree: 13%
 
 ## Etapa 2: preencher o formulário {#step-fill-out-the-form}
 
-1. Selecione a landing page que você criou na [Landing Page com uma vitória rápida do Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+1. Selecione a landing page criada no [Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vitória rápida.
 
    ![](assets/fourteen-1.png)
 
@@ -109,7 +108,7 @@ ht-degree: 13%
    >
    >Use o mesmo nome e endereço de email usado quando você se inseriu como uma pessoa pela primeira vez para aplicar o aumento de pontuação &quot;+5&quot;.
 
-## Etapa 3: Exibir as Informações de pessoa {#step-view-the-person-info}
+## Etapa 3: Exibir as informações da pessoa {#step-view-the-person-info}
 
 1. Vá para a área Banco de Dados.
 
@@ -127,7 +126,10 @@ Os detalhes da pessoa serão abertos em uma nova guia ou janela. Veja como sua p
 
 ![](assets/twenty.png)
 
-**Parabéns!** Você criou uma campanha de pontuação.
-[◄ Missão 2: página com formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+## Missão cumprida! {#mission-complete}
+
+<br> 
+
+[Missão 2: página com formulário ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 [Missão 4: resposta automática por e-mail ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

@@ -3,10 +3,10 @@ unique-page-id: 2359418
 description: Importar uma lista de pessoas - Documentos do Marketo - Documentação do produto
 title: Importar uma lista de pessoas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 15%
+source-wordcount: '500'
+ht-degree: 14%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 15%
 
 >[!PREREQUISITES]
 >
->[Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
 Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha para o Marketo.
 
 ## Etapa 1: baixar e editar uma planilha {#step-download-and-edit-a-spreadsheet}
 
-1. Para iniciar, baixe nosso arquivo de planilha de práticas ([**tradeshow-ants.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) ao seu computador.
+1. Para iniciar, baixe nosso arquivo de planilha de práticas ([**tradeshow-ants.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) para seu computador.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -62,7 +62,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 >[!NOTE]
 >
->Os programas de eventos ocorrem em datas específicas. Saiba mais sobre [**Eventos**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>Os programas de eventos ocorrem em datas específicas. Saiba mais sobre [**Eventos**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target=&quot;_blank&quot;}.
 
 ## Etapa 3: importar sua planilha para o Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -109,7 +109,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
    >[!TIP]
    >
-   >Os cabeçalhos de coluna devem sempre corresponder exatamente ao campo (diferencia maiúsculas de minúsculas) para obter os melhores resultados de mapeamento automático. Se você estiver usando campos personalizados e não os vir no menu suspenso, volte e [criá-los](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para que possam tornar-se opções.
+   >Os cabeçalhos de coluna devem sempre corresponder exatamente ao campo (diferencia maiúsculas de minúsculas) para obter os melhores resultados de mapeamento automático. Se você estiver usando campos personalizados e não os vir no menu suspenso, volte e [criá-los](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;} para que possam se tornar opções.
 
    >[!NOTE]
    >
@@ -129,7 +129,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 >[!NOTE]
 >
->Para analisar o sucesso de seu programa, acompanhe os membros a ele associados. Saiba mais sobre [**Programas**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>Para analisar o sucesso de seu programa, acompanhe os membros a ele associados. Saiba mais sobre [**Programas**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}.
 
 ## Missão cumprida {#mission-complete}
 

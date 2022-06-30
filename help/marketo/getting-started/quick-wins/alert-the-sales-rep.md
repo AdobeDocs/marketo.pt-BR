@@ -3,11 +3,10 @@ unique-page-id: 2359424
 description: Alertar o representante de vendas - Documentos da Marketo - Documentação do produto
 title: Alertar o representante de vendas
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 28%
+source-wordcount: '405'
+ht-degree: 23%
 
 ---
 
@@ -19,15 +18,15 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
 >[!PREREQUISITES]
 >
->[Página com formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>[Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
 ## Etapa 1: Criar um email de alerta {#step-create-an-alert-email}
 
-1. Vá para a área **Marketing Activities**.
+1. Vá para o **Atividades de marketing** área.
 
    ![](assets/one-5.png)
 
-1. Selecione **My Program** que você criou na [Landing Page com uma vitória rápida Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) e, em **New** clique em **New Local Asset**.
+1. Selecionar **Meu programa** criado na [Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vitória rápida, em seguida, em **Novo** click **Novo ativo local**.
 
    ![](assets/two-6.png)
 
@@ -35,11 +34,11 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
    ![](assets/three-5.png)
 
-1. **** Nomeie o email como &quot;Meu alerta de email&quot;, selecione um modelo e clique em  **Criar**.
+1. **Nome** o email &quot;Meu alerta de email&quot;, selecione um modelo e clique em **Criar**.
 
    ![](assets/four-4.png)
 
-1. Insira o **Do nome**, **Do email**, **Responder para** e **Assunto** que você deseja que a equipe de vendas veja.
+1. Insira o **Nome do formulário**, **Do Email**, **Responder para** e **Assunto** que você deseja que sua equipe de vendas veja.
 
    ![](assets/five-5.png)
 
@@ -51,17 +50,17 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
    ![](assets/seven-6.png)
 
-1. Coloque o cursor onde deseja inserir as informações de contato da pessoa e clique no ícone **Inserir token**.
+1. Coloque o cursor onde deseja inserir as informações de contato da pessoa e clique no link **Inserir Token** ícone .
 
    ![](assets/eight-4.png)
 
-1. Localize e selecione o `{{SP_Send_Alert_Info}}` **Token** e clique em **Inserir**.
+1. Encontre e selecione o `{{SP_Send_Alert_Info}}` **Token** e clique em **Inserir**.
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} é um token especial para e-mails de alerta. Consulte [Use o token Enviar informações de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) para saber mais.
+   >{{SP_Send_Alert_Info}} O é um token especial para emails de alerta. Consulte [Usar o token Enviar informações do alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;}{target=&quot;_blank&quot;} para saber mais.
 
 1. Clique em **Salvar**.
 
@@ -71,21 +70,21 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
    ![](assets/eleven-5.png)
 
-1. Em **Ações de email** clique em **Aprovar**.
+1. Em **Ações de email** click **Aprovar**.
 
    ![](assets/twelve-4.png)
 
-## Etapa 2: Criar uma campanha de disparador de alertas {#step-create-an-alert-trigger-campaign}
+## Etapa 2: Criar uma campanha de alerta e disparador {#step-create-an-alert-trigger-campaign}
 
-1. Selecione **Meu Programa** criado anteriormente e, em **Novo** clique em **Nova Campanha Inteligente**.
+1. Selecionar **Meu programa** criado anteriormente, em seguida, em **Novo** click **Nova Campanha Inteligente**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **** Nomeie a campanha como &quot;Minha campanha de alerta&quot; e clique em  **Criar**.
+1. **Nome** a campanha &quot;My Alert Campaign&quot; e clique em **Criar**.
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. Na guia **Smart List**, localize e arraste o acionador **Preencha o formulário** para a tela.
+1. Em **Lista inteligente** , localize e arraste a **Preenche Formulário** aciona para a tela.
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -93,11 +92,11 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. Na guia **Fluxo**, localize e arraste a ação de fluxo **Enviar alerta** para a tela.
+1. Em **Fluxo** , localize e arraste a **Enviar alerta** fluxo de ação para a tela.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. Selecione **My Alert Email** criado anteriormente e deixe **Send To** como **Sales Owner**.
+1. Selecionar **Meu Email de Alerta** criado anteriormente e sair **Enviar para** as **Proprietário de Vendas**.
 
    ![](assets/eighteen-1.png)
 
@@ -105,13 +104,13 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
    ![](assets/nineteen-2.png)
 
-1. Vá para a guia **Schedule** e clique no botão **Ativate**.
+1. Vá para o **Agendar** e clique na guia **Ativar** botão.
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >Defina as **Regras de qualificação** como **sempre** (editando a Campanha inteligente) para permitir que a mesma pessoa acione alertas várias vezes.
+   >Defina as **Regras de qualificação** para **sempre** (ao editar a Campanha inteligente) para permitir que a mesma pessoa acione alertas várias vezes.
 
 1. Clique em **Ativar** na tela de confirmação.
 
@@ -135,12 +134,12 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
    >[!NOTE]
    >
-   >Clique na guia **Informações da pessoa** no Marketo para ver as informações de contato.
+   >Clique no botão **Informações da pessoa** no Marketo para ver as informações de contato.
 
 ## Missão cumprida! {#mission-complete}
 
 <br> 
 
-[◄ Missão 7: personalizar um e-mail](personalize-an-email.md)
+[◄ Missão 7: personalizar um e-mail](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[Missão 9: atualizar dados de leads ►](update-person-data.md)
+[Missão 9: Atualizar dados de pessoa ►](/help/marketo/getting-started/quick-wins/update-person-data.md)

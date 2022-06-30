@@ -2,14 +2,12 @@
 unique-page-id: 11387674
 description: Atualizações à terminologia do Marketo - Documentos do Marketo - Documentação do produto
 title: Atualizações para a terminologia do Marketo
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 3%
+source-wordcount: '368'
+ht-degree: 1%
 
 ---
-
 
 # Atualizações para a terminologia do Marketo {#updates-to-marketo-terminology}
 
@@ -19,7 +17,7 @@ Embora você possa ver uma terminologia diferente na documentação da Marketo, 
 
 Então, o que mudou?
 
-## O lead agora é a pessoa {#lead-is-now-person}
+## O Cliente Potencial é Agora Pessoa {#lead-is-now-person}
 
 A maior mudança é a renomeação de Lead/Leads para Pessoa/Pessoas.
 
@@ -71,15 +69,15 @@ Em alguns casos, a palavra &quot;lead&quot; é simplesmente removida.
  </tbody> 
 </table>
 
-O lead e a pessoa **são a mesma coisa**.
+Líder e Pessoa **são a mesma coisa**.
 
 ## Tokens {#tokens}
 
-Tokens com a palavra lead neles **não estão alterando**. Pedimos desculpas por qualquer confusão. entretanto, alterar todos os tokens para corresponder à nova terminologia quebraria muitos tokens em uso no momento. Assim, você ainda verá tokens como &quot;`{{lead.First Name}}`&quot;. Não há tokens específicos da pessoa.
+Tokens com a palavra chumbo neles **não estão mudando**. Pedimos desculpas por qualquer confusão. entretanto, alterar todos os tokens para corresponder à nova terminologia quebraria muitos tokens em uso no momento. Assim, você ainda verá tokens como &quot;`{{lead.First Name}}`.&quot; Não há tokens específicos da pessoa.
 
 >[!NOTE]
 >
->Existe *é* um token chamado &quot;Notas de pessoa&quot;, no entanto, esse token estava sempre lá. Normalmente, é usado para um campo de descrição no seu CRM, se é que é.
+>Lá *é* um token chamado &quot;Notas de pessoa&quot;, no entanto, esse token estava sempre lá. Normalmente, é usado para um campo de descrição no seu CRM, se é que é.
 
 ## Gerenciamento de campos {#field-management}
 
@@ -110,7 +108,7 @@ Os campos que continham o termo Lead foram substituídos por Pessoa ou a palavra
 
 >[!NOTE]
 >
->Para obter uma lista completa dos nomes de campo afetados, visite este [Artigo de suporte](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
+>Para obter uma lista completa dos nomes de campo afetados, visite este [Artigo de suporte](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}.
 
 ## A Personalização em tempo real (RTP) agora é Personalização da Web {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -139,11 +137,11 @@ Os campos que continham o termo Lead foram substituídos por Pessoa ou a palavra
 
 Além da alteração de nome, agora ela consiste em quatro aplicativos separados:
 
-| ** [Personalização na Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Possui mosaico próprio na tela inicial |
+| **[Personalização da Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | Possui mosaico próprio na tela inicial |
 |---|---|
-| ** [Marketing Web baseado em conta](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Acessível via bloco de personalização da Web |
-| ** [Redirecionamento personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Acessível via bloco de personalização da Web |
-| ** [Conteúdo previsível](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Possui mosaico próprio na tela inicial |
+| **[Marketing da Web baseado em conta](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Acessível via bloco de personalização da Web |
+| **[Redirecionamento personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Acessível via bloco de personalização da Web |
+| **[Conteúdo preditivo](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | Possui mosaico próprio na tela inicial |
 
 >[!NOTE]
 >

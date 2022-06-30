@@ -3,11 +3,10 @@ unique-page-id: 2359426
 description: Atualizar dados de pessoa - Documentos do Marketo - Documentação do produto
 title: Atualizar dados de pessoa
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 25%
+source-wordcount: '170'
+ht-degree: 24%
 
 ---
 
@@ -17,8 +16,8 @@ ht-degree: 25%
 
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
 
 
 Vamos imaginar que em sua apresentação comercial recente, uma pessoa lhe deu algumas informações de contato adicionais. Veja como atualizar os dados de pessoas.
@@ -43,7 +42,7 @@ Vamos imaginar que em sua apresentação comercial recente, uma pessoa lhe deu a
 
    >[!TIP]
    >
-   >Há muitas maneiras de atualizar dados de pessoas no Marketo. Consulte [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) e [Alterar valor de dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >Há muitas maneiras de atualizar dados de pessoas no Marketo. Consulte [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} e [Alterar valor de dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;}.
 
 ## Atualizar os dados de pessoa {#update-the-person-data}
 
@@ -55,7 +54,7 @@ Vamos imaginar que em sua apresentação comercial recente, uma pessoa lhe deu a
 >
 >Após a alteração dos dados, as listas e campanhas inteligentes reconhecerão imediatamente as novas informações.
 
-## Missão cumprida  {#mission-complete}
+## Missão cumprida {#mission-complete}
 
 Excelente! Você atualizou seus dados pessoais.
 
