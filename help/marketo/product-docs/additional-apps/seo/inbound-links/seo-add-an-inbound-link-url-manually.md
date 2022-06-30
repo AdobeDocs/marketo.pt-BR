@@ -3,11 +3,10 @@ unique-page-id: 2949247
 description: SEO - Adicionar um URL de link de entrada manualmente - Documentos do Marketo - Documentação do produto
 title: SEO - Adicionar um URL de link de entrada manualmente
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0957b4475cc27075b428c9514971353e31d0d89c
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 2%
 
 Você pode adicionar Links de entrada manualmente. Veja como:
 
-1. Vá para a seção **Links de entrada**.
+1. Vá para o **Links de entrada** seção.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
@@ -29,7 +28,7 @@ Você pode adicionar Links de entrada manualmente. Veja como:
 
    >[!TIP]
    >
-   >Você sabia que pode [adicionar seu link de entrada a uma lista nova ou existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Dê uma olhada!
+   >Você sabia que pode [adicionar o link de entrada a uma lista nova ou existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target=&quot;_blank&quot;}? Dê uma olhada!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
