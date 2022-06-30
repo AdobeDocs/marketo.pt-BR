@@ -3,16 +3,16 @@ unique-page-id: 4720476
 description: Glossário de ícones clássico - Documentos do Marketo - Documentação do produto
 title: Ícone Clássico Glossário
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
-source-wordcount: '562'
-ht-degree: 33%
+source-wordcount: '564'
+ht-degree: 34%
 
 ---
 
 # Ícone Clássico Glossário {#classic-icon-glossary}
 
-Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícones pode ser [encontrado aqui](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
+Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícones pode ser [encontrado aqui](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}.
 
 **Ícones gerais**
 
@@ -66,7 +66,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Pasta de destino que foi compartilhada de outro espaço de trabalho <br>(o cadeado indica que as edições não podem ser feitas)</td> 
+   <td colspan="1">Pasta de destino que foi compartilhada de outro espaço de trabalho <br>(cadeado indica que não é possível fazer edições)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -203,7 +203,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-8-16-3a38-3a39.png"> 
     </div></td> 
-   <td>E-mail</td> 
+   <td>Email</td> 
   </tr> 
   <tr> 
    <td> 
@@ -410,7 +410,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>Programa de email <br>(Sinalizador vermelho desligado = email ainda não enviado)</td> 
+   <td>Programa de email <br>(Sinalizador vermelho desativado = email ainda não enviado)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
