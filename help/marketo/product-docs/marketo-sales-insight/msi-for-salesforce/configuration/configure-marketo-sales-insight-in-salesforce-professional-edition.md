@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Configurar o Marketo Sales Insight no Salesforce Professional Edition - Documentos da Marketo - Documentação do produto
 title: Configurar o Marketo Sales Insight no Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: 86c32e5f7eab00a1963b9d00057af4820cddfe78
+source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '906'
 ht-degree: 5%
 
 ---
@@ -295,8 +295,6 @@ E é isso! Você deve conseguir ver os campos Marketo Sales Insight para Cliente
 ## Acessar Marketo Sales Insight {#access-marketo-sales-insight}
 
 1. No Salesforce, clique no botão **+** no final da barra de guias e clique em **Configuração do Marketo Sales Insight**.
-
-1. Selecione o **Habilitar a API do Marketo** caixa de seleção.
 
 1. Copie as credenciais do painel da API Soap na página de administração do Insight de vendas da Marketo e cole-as na seção API Soap da página Configuração do Insight de vendas do Salesforce .
 
