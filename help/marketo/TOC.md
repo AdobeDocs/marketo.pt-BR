@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
 workflow-type: tm+mt
-source-wordcount: '8780'
+source-wordcount: '8787'
 ht-degree: 5%
 
 ---
@@ -630,6 +630,8 @@ ht-degree: 5%
             + [Editar um canal de evento](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
             + [Parceiros de evento](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [Noções básicas sobre programas de evento](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
+            + [Configuração de um limite de evento](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
+            + [Definir metas de evento](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
          + Criar um evento {#create-an-event}
             + [Criar um evento com o Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [Criar um evento com o GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
