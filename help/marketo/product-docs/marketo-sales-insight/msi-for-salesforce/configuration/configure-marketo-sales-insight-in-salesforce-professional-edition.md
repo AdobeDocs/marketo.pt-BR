@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Configurar o Marketo Sales Insight no Salesforce Professional Edition - Documentos da Marketo - Documentação do produto
 title: Configurar o Marketo Sales Insight no Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '886'
 ht-degree: 5%
 
 ---
@@ -18,7 +18,7 @@ Estas são as etapas necessárias para configurar o Marketo Sales Insight no Sal
 >
 >* Instale o Marketo no Salesforce Professional Edition.
 >
->* [Instalar o pacote de informações de vendas da Marketo no Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Instalar o pacote de informações de vendas da Marketo no Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}
 
 
 >[!NOTE]
@@ -270,41 +270,29 @@ Os campos de pessoa do Marketo precisam ser mapeados para campos de contato do S
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
-## Config. do Marketo Sales Insight {#marketo-sales-insight-config}
+## Guia Configuração do Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
 
-1. Clique em **+** e depois selecione **Configuração do Marketo Sales Insight**.
+1. No Salesforce, clique no botão **+** no final da barra de guias e clique em **Configuração do Marketo Sales Insight**.
 
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
+1. Copie as credenciais do painel da API Soap em [Página do Administrador de Insight de vendas da Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} e cole-os na seção da API Soap da página Configuração do Salesforce Sales Insight.
 
-1. Verificar **Habilitar a API do Marketo**. Em seguida, preencha o [Informações de configuração da API no Marketo Admin](#set-up-marketo-sales-insight). Clique em **Salvar alterações** quando terminar.
+1. Copie as credenciais do painel da API restante em [Página do Administrador de Insight de vendas da Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} e cole-os na seção Rest API da página Salesforce Sales Insight Configuration .
 
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >Se o teste de diagnóstico falhar, talvez seja necessário [adicionar mais campos ao layout da página](https://nation.marketo.com/docs/DOC-1115).
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
 E é isso! Você deve conseguir ver os campos Marketo Sales Insight para Clientes potenciais, Contatos, Contas e Oportunidades.
 
-![](assets/twenty-six-1.png)
+>[!NOTE]
+>
+>Se o teste de diagnóstico falhar, talvez seja necessário [adicionar mais campos ao layout da página](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}.
 
 >[!NOTE]
 >
 >Para contas, o Sales Insight incluirá todos os emails, mas somente os momentos interessantes mais recentes, a atividade da Web e as alterações de pontuação.
 
-## Acessar Marketo Sales Insight {#access-marketo-sales-insight}
-
-1. No Salesforce, clique no botão **+** no final da barra de guias e clique em **Configuração do Marketo Sales Insight**.
-
-1. Copie as credenciais do painel da API Soap na página de administração do Insight de vendas da Marketo e cole-as na seção API Soap da página Configuração do Insight de vendas do Salesforce .
-
-1. Copie as credenciais do painel da Rest API na página do Administrador do Insight de vendas da Marketo e cole-as na seção Rest API da página Configuração do Insight de vendas do Salesforce .
-
-   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
-
 >[!MORELIKETHIS]
 >
->* [Prioridade, urgência, pontuação relativa e melhores propostas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Adicionar a guia Marketo ao Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [Prioridade, urgência, pontuação relativa e melhores propostas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target=&quot;_blank&quot;}
+>* [Adicionar a guia Marketo ao Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target=&quot;_blank&quot;}
 >* [Adicionar acesso ao insight de vendas a perfis](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
 
