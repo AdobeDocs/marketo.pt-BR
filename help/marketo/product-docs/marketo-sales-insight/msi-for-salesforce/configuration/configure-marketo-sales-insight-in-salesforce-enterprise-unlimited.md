@@ -3,7 +3,7 @@ unique-page-id: 2360368
 description: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited - Documentos da Marketo - Documentação do produto
 title: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
+source-git-commit: 6879a542e17d7694ba42494867707ebc93b791d3
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 11%
@@ -299,7 +299,7 @@ Os campos de pessoa do Marketo precisam ser mapeados para campos de contato do S
 
 1. Copie as credenciais do painel da API restante em [Página do Administrador de Insight de vendas da Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} e cole-os na seção Rest API da página Salesforce Sales Insight Configuration .
 
-   ![](assets/access-msi.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
 E é isso! Você deve conseguir ver os campos Marketo Sales Insight para Clientes potenciais, Contatos, Contas e Oportunidades.
 
