@@ -2,9 +2,9 @@
 description: Filtrar atividade de bot de email - Documentos do Marketo - Documentação do produto
 title: Filtrar atividade de bot de email
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 2ef4b0b2a541c8b6a67bd654fda45956601661bd
+source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 Usamos três métodos separados para confirmar a atividade de bot:
 
 * Corresponder a [Lista de bot do Interative Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}: As atividades que correspondem a qualquer coisa na lista IAB UA/IP (Agente do usuário/endereço IP) serão marcadas como bots.
-* Corresponder a UA/IPs de link oculto: Adicionamos um link oculto para todos os emails e capturamos cliques de UA/IP provenientes deles. As atividades que correspondem a esses UA/IPs serão marcadas como bots.
 * Corresponder ao padrão de proximidade: Quando mais de duas atividades acontecem ao mesmo tempo (menos de dois segundos), elas são identificadas como bots.
 
 Em relação ao clique em links de email e à atividade de abertura de email, os novos atributos serão preenchidos com os valores abaixo:
@@ -37,15 +36,15 @@ Em relação ao clique em links de email e à atividade de abertura de email, os
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Clique no botão **Ativar a identificação da atividade de bot** controle deslizante para ativar.
+1. Escolha para **Corresponder à Lista IAB**, **Corresponder ao padrão de proximidade** ou ambos.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->Você pode escolher separadamente se deseja ou não ter a atividade de bot registrada. Se você optar por não fazer isso, poderá observar uma queda na abertura e no clique do email, pois números falsos são filtrados.
+>Você pode optar por filtrar a atividade de bot **ou** registrado. Se você escolher filtrado, poderá ver uma queda em aberturas de email e cliques como atividades falsas esgotadas
 
-**ETAPA OPCIONAL**: Para desativar o recurso, basta desmarcar o controle deslizante. Se você desativar, os dados **not** redefinir.
+**ETAPA OPCIONAL**: Para desativar esse recurso, basta desmarcar os controle deslizantes. Se você desativar, os dados não serão redefinidos.
 
 >[!TIP]
 >
