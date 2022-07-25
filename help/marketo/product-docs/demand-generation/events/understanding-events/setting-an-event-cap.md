@@ -4,9 +4,9 @@ title: Configuração de um limite de evento
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Limite a quantidade de pessoas que podem se registrar no seu evento com um limit
 
 >[!IMPORTANT]
 >Você deve ter pelo menos duas páginas iniciais aprovadas (uma página de Registro e uma página de Registro Completo) no programa antes de poder definir um limite de evento.
+
+>[!NOTE]
+>
+>Para liberar espaço em um evento, o membro do programa deve ser removido (é possível fazer isso atualizando seu status para &quot;Não está no Programa&quot;).
 
 1. Selecione o programa de eventos.
 

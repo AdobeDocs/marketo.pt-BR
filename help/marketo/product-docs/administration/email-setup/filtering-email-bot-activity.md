@@ -2,9 +2,9 @@
 description: Filtrar atividade de bot de email - Documentos do Marketo - Documentação do produto
 title: Filtrar atividade de bot de email
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,10 @@ Em relação ao clique em links de email e à atividade de abertura de email, os
 
 >[!NOTE]
 >
->Você pode optar por filtrar a atividade de bot **ou** registrado. Se você escolher filtrado, poderá ver uma queda em aberturas de email e cliques como atividades falsas esgotadas
+>* Você pode optar por filtrar a atividade de bot **ou** registrado. Se você escolher filtrado, poderá ver uma queda em aberturas de email e cliques como atividades falsas esgotadas.
+>
+>* Somente a &quot;Atividade de bot de log&quot; está disponível para &quot;Corresponder ao padrão de proximidade&quot; no momento.
+
 
 **ETAPA OPCIONAL**: Para desativar esse recurso, basta desmarcar os controle deslizantes. Se você desativar, os dados não serão redefinidos.
 

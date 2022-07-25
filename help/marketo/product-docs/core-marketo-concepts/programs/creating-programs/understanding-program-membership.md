@@ -3,9 +3,9 @@ unique-page-id: 1147091
 description: Noções básicas sobre a associação ao programa - Documentação da Marketo - Documentação do produto
 title: Compreensão da assinatura do programa
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '309'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->A Marketo agora está padronizando a linguagem em todas as subscrições, para que você possa ver lead/lead na sua assinatura e pessoa/pessoas em docs.marketo.com. Estes termos significam a mesma coisa; não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>A Marketo agora está padronizando a linguagem em todas as assinaturas, para que você possa ver lead/lead na sua assinatura e pessoa/pessoas em nossos documentos. Estes termos significam a mesma coisa; não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >

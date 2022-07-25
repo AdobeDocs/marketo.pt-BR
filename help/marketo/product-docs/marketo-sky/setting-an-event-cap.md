@@ -3,9 +3,10 @@ description: Configuração de um limite de evento - Documentos do Marketo - Doc
 title: Configuração de um limite de evento
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,10 @@ Limite a quantidade de pessoas que podem se registrar no seu evento com um limit
 
 >[!IMPORTANT]
 >Você deve ter pelo menos duas páginas iniciais aprovadas (uma página de Registro e uma página de Registro Completo) no programa antes de poder definir um limite de evento.
+
+>[!NOTE]
+>
+>Para liberar espaço em um evento, o membro do programa deve ser removido (é possível fazer isso atualizando seu status para &quot;Não está no Programa&quot;).
 
 1. Selecione o programa de eventos.
 
