@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ Os seguintes recursos começarão a ser lançados em **19 de agosto de 2022**, c
 * **Marca Adobe**: Aparência atualizada para editores e página de detalhes da pessoa com a nova marca Adobe Experience Cloud.
 
 * **Exibir Hierarquia de Pasta de Destino na Caixa de Diálogo Mover**: Visualizar a hierarquia de pastas para cada pasta facilita a movimentação de ativos e reduz a probabilidade de colocá-los na pasta errada.
+
+* **Telas atualizadas na experiência de próxima geração**: Estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração que oferecem melhorias atualizadas de design e usabilidade acessíveis por meio do switch de alternância:
+
+   * Detalhes de &quot;Imagens e Arquivos&quot;
+   * Detalhes do trecho
 
 >[!NOTE]
 >
