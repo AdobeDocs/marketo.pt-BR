@@ -1,39 +1,51 @@
 ---
 unique-page-id: 2359545
-description: Defina o critério do vencedor do teste A/B - Documentos do marketing - Documentação do produto
+description: Definir o critério do vencedor do teste A/B - Documentos da Marketo - Documentação do produto
 title: Definir o critério do vencedor do teste A/B
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
+source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
+# Definir o critério do vencedor do teste A/B {#define-the-a-b-test-winner-criteria}
 
-# Defina o Critério do vencedor do teste A/B {#define-the-a-b-test-winner-criteria}
-
-Quando [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) ao seu programa de correio eletrônico, terá de selecionar um tipo de teste, [agendar o teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md) e definir os critérios vencedores. Aqui está como decidir qual e-mail vence.
+When [adição de um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target=&quot;_blank&quot;} para o seu programa de email, você precisará escolher um tipo de teste, [agendar o teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target=&quot;_blank&quot;}, então defina os critérios vencedores. Veja como decidir qual email ganha.
 
 >[!PREREQUISITES]
 >
->[Adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[Adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target=&quot;_blank&quot;}
 
-## Critérios de vencedor {#winner-criteria}
+## Critérios vencedores {#winner-criteria}
 
-1. As opções padrão **Critérios do Vencedor** são listadas primeiro.
+1. O padrão **Critérios do vencedor** As opções são listadas primeiro.
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
-   | **Abre** | Uma opção aberta é registrada quando as imagens são baixadas em um email. Mesmo se você não incluir uma imagem, por padrão, o Marketo insere um único pixel de rastreamento em todos os emails HTML. |
-   |---|---|
-   | **Cliques** | Por padrão, os links em emails têm rastreamento incorporado, permitindo que você veja quem clicou em qual link, quantos links totais foram clicados etc. |
-   | **Clique para Abrir %** | Porcentagem de emails que foram abertos e tiveram um link clicado no email. Isso mede a relevância e o contexto de um email, considerando o número de cliques únicos dividido pelo número de aberturas exclusivas e, em seguida, multiplicando por 100 para exibi-lo como uma porcentagem. |
-   | **Pontuação de envolvimento** | A [pontuação de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) ajuda a determinar a eficácia do seu conteúdo. |
+   <table>
+   <tr>
+   <td><b>Abre</b></td>
+   <td>Uma abertura é registrada quando imagens são baixadas em um email. Mesmo que você não inclua uma imagem, por padrão, o Marketo insere um único pixel de rastreamento em todos os emails do HTML.</td>
+   </tr>
+   <tr>
+   <td><b>Cliques</b></td>
+   <td>Por padrão, os links em emails têm rastreamento incorporado, permitindo ver quem clicou em qual link, quantos links totais foram clicados, etc.</td>
+   </tr>
+   <tr>
+   <td><b>Clique para abrir %</b></td>
+   <td>Porcentagem de emails que foram abertos e tiveram um link clicado no email. Isso mede a relevância e o contexto de um email, considerando o número de cliques únicos dividido pelo número de aberturas exclusivas e, em seguida, multiplicando por 100 para exibi-lo como uma porcentagem.</td>
+   </tr>
+   <tr>
+   <td><b>Pontuação de envolvimento</b></td>
+   <td>O <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">pontuação de engajamento</a> O ajuda a determinar a eficácia do conteúdo.</td>
+   </tr>
+   </table>
 
    >[!TIP]
    >
-   >Se você escolher Pontuação de envolvimento, o teste precisará ser executado por pelo menos 24 horas. Saiba mais sobre [como entender a pontuação de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+   >Se você escolher Pontuação de engajamento , o teste precisará ser executado por pelo menos 24 horas. Saiba mais sobre [noções básicas sobre a pontuação de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target=&quot;_blank&quot;}.
 
 1. Você também pode personalizar seus critérios selecionando Conversão personalizada e clicando em Editar.
 
@@ -41,7 +53,7 @@ Quando [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email
 
    >[!NOTE]
    >
-   >A Conversão personalizada permite que você escolha qualquer evento como conversão usando filtros e acionadores.
+   >A Conversão personalizada permite selecionar qualquer evento como conversão usando acionadores e filtros.
 
 1. Uma janela aparecerá. Encontre o acionador de sua escolha e arraste-o para a tela.
 
@@ -53,7 +65,7 @@ Quando [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email
 
    >[!NOTE]
    >
-   >O Marketo só permitirá acionadores para pessoas que receberam o email deste programa de email. Não é necessário adicionar um filtro &quot;Foi Enviado por email&quot;.
+   >O Marketo só permitirá acionadores para pessoas que receberam o email deste programa de email. Não é necessário adicionar um filtro &quot;Foi enviado por email&quot;.
 
 1. Clique em **Fechar**.
 
@@ -69,16 +81,16 @@ Quando [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email
 
    >[!NOTE]
    >
-   >Se estiver fazendo um teste A/B **Date/Time**, você só poderá escolher **Manual**.
+   >Se você estiver fazendo uma **Data/Hora** Teste A/B, você só pode escolher **Manual**.
 
-   Quando o teste A/B terminar, o Marketo poderá enviar automaticamente o email vencedor no horário agendado, ou você poderá revisar os resultados e decidir qual email será enviado quando.
+   Quando o teste A/B terminar, o Marketo poderá enviar automaticamente o email vencedor no horário agendado, ou você poderá revisar os resultados e decidir qual email sai quando.
 
-1. Automático é incrível e é a opção padrão. Basta clicar em **Next**.
+1. Automatic é incrível e é a opção padrão. Basta clicar em **Próximo**.
 
    ![](assets/image2014-9-12-15-3a54-3a35.png)
 
    >[!TIP]
    >
-   >Escolher **Manual** enviará o teste e aguardará que você declare um vencedor. Você receberá um relatório dos resultados.
+   >Escolha **Manual** O enviará o teste e aguardará que você declare um vencedor. Você receberá um relatório dos resultados.
 
-Perfeito! Agora vamos [agendar o teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md).
+Perfeita! Agora vamos [agendar o teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target=&quot;_blank&quot;}.
