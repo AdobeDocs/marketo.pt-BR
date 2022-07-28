@@ -3,9 +3,9 @@ description: Integração dinâmica de chat - Documentos do Marketo - Documenta�
 title: Integração dinâmica de chat
 hide: true
 hidefromtoc: true
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 237417bcb254baf93e4e5e307bd607c2c5455ef5
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '316'
 ht-degree: 5%
 
 ---
@@ -23,6 +23,8 @@ Saiba mais sobre a integração do Dynamic Chat com o Sales Insight.
 
 ## Guia Configuração do Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
 
+Siga as etapas abaixo para habilitar a integração do Dynamic Chat.
+
 1. Faça logon na sua conta do Salesforce, clique em + no final da barra de guias e clique em **Configuração do Marketo Sales Insight**.
 
 1. Clique para desfazer o &quot;Painel de força de visita&quot;.
@@ -35,7 +37,7 @@ Saiba mais sobre a integração do Dynamic Chat com o Sales Insight.
 
 ## Visão geral dos recursos {#feature-overview}
 
-As atividades de Bate-papo dinâmico abaixo podem ser aproveitadas por usuários do Sales Insight .
+As seguintes atividades de Bate-papo dinâmico podem ser aproveitadas pelos usuários do Sales Insight..
 
 Caixa de Diálogo Envolvido: Conectado no Marketo e preenchido no Sales Insight quando um visitante clica em um chatbot e se envolve com a caixa de diálogo.
 
