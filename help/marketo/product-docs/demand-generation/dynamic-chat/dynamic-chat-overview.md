@@ -2,9 +2,9 @@
 description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Documentação do produto
 title: Visão geral do bate-papo dinâmico
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '951'
 ht-degree: 2%
 
 ---
@@ -170,5 +170,15 @@ Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto 
   <td>Período de Retenção da Atividade de Reserva de Reunião</td>
   <td>A atividade de reserva de horário será armazenada no Bate-papo dinâmico</td>
   <td>24 meses</td>
+ </tr>
+ <tr>
+  <td>Conversas Envolvidas</td>
+  <td>Número de conversas de bate-papo com as quais os visitantes da Web podem participar por dia</td>
+  <td>1.000</td>
+ </tr>
+ <tr>
+  <td>Conversas Disparadas</td>
+  <td>Número de conversas de bate-papo que podem ser mostradas para visitantes da Web por dia</td>
+  <td>25.000</td>
  </tr>
 </table>
