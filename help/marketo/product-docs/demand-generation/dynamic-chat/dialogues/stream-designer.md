@@ -2,7 +2,7 @@
 description: Stream Designer - Documentos do Marketo - Documentação do produto
 title: Designer de sequência
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
+source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 2%
@@ -167,5 +167,5 @@ O designer de fluxo contém vários cartões que podem ser adicionados para mold
 >* [Criar uma caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
 >* [Critérios de público-alvo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
 >* [Relatórios](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
->* [Usando a placa de documento](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;}
+>* [Usando a placa de documento](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;}
 
