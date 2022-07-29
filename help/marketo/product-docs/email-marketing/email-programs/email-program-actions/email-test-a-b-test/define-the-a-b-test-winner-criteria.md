@@ -3,10 +3,10 @@ unique-page-id: 2359545
 description: Definir o critério do vencedor do teste A/B - Documentos da Marketo - Documentação do produto
 title: Definir o critério do vencedor do teste A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
+source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '439'
+ht-degree: 2%
 
 ---
 
@@ -63,9 +63,9 @@ When [adição de um teste A/B](/help/marketo/product-docs/email-marketing/email
 
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >O Marketo só permitirá acionadores para pessoas que receberam o email deste programa de email. Não é necessário adicionar um filtro &quot;Foi enviado por email&quot;.
+   >O Marketo permite somente acionadores/filtros para pessoas que receberam o email deste programa de email; portanto, não há necessidade de adicionar um filtro &quot;Foi enviado por email&quot;. Além disso, ao usar um acionador/filtro relacionado a email, certifique-se de usar &quot;é qualquer&quot; como operador.
 
 1. Clique em **Fechar**.
 
