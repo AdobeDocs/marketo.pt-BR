@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 5c6ef7791966b2b71c4d85262f4f3fde04149878
 workflow-type: tm+mt
-source-wordcount: '8793'
+source-wordcount: '8794'
 ht-degree: 5%
 
 ---
@@ -612,16 +612,17 @@ ht-degree: 5%
       + Bate-papo dinâmico {#dynamic-chat}
          + [Visão geral do bate-papo dinâmico](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configuração inicial](product-docs/demand-generation/dynamic-chat/initial-setup.md)
-         + [Conectar o bate-papo dinâmico ao Marketo](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [Adicionar ou remover usuários de bate-papo](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Configuração](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Atividades de bate-papo dinâmico](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + Integrações {#integrations}
+            + [Conectar o bate-papo dinâmico ao Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Usando a placa de documento](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Diálogos {#dialogues}
             + [Visão geral da caixa de diálogo](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [Criar uma caixa de diálogo](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [Critérios de público](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [Designer de sequência](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [Usando a placa de documento](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
             + [Relatórios](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Eventos {#events}
          + Compreensão de eventos {#understanding-events}
