@@ -2,9 +2,9 @@
 description: Visão geral de recursos de ações de insight de vendas - Documentos do Marketo - Documentação do produto
 title: Visão geral de recursos de ações de insight de vendas
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: d36fc031675cea2edad63462e7df21f229c49821
 workflow-type: tm+mt
-source-wordcount: '1336'
+source-wordcount: '1337'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ Acelere os esforços de prospecção com inteligência e ferramentas de engajame
 
 >[!AVAILABILITY]
 >
->Este recurso está atualmente na GA limitada. Entre em contato com o Gerente de sucesso do cliente ou envie um email para `sales-insights(at)adobe(dot)com` para solicitar acesso.
+>No momento, esse recurso está em uma implementação em fases. Entre em contato com o Gerente de sucesso do cliente ou envie um email para `sales-insights(at)adobe(dot)com` para solicitar acesso.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -25,7 +25,7 @@ As seguintes ações estão disponíveis na lista suspensa &quot;Escolher açõe
 
 * Enviar e-mail de vendas
    * Os emails de vendas têm rastreamento de visualização, clique e resposta (quando o canal de delivery está configurado)
-   * Inclui Personalization de email, assinatura personalizada e anexos
+   * Inclui personalização de email, assinatura personalizada e anexos
    * Compartilhamento de modelos e relatórios
    * Compartilhamento de equipe, emails de grupo e capacidade CC/CCO
    * A atividade de email de vendas será registrada no registro de pessoa do Marketo
