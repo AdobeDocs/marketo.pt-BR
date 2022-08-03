@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2360409
-description: Criar um relatório de Análise por email que mostre informações do Programa - Documentos do Marketing - Documentação do produto
-title: Criar um relatório de Análise por email que mostre as informações do Programa
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Criar um relatório de análise de email que mostre informações do programa - Documentos da Marketo - Documentação do produto
+title: Criar um relatório de análise de email que mostre informações do programa
+exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 0%
+source-wordcount: '148'
+ht-degree: 1%
 
 ---
 
+# Criar um relatório de análise de email que mostre informações do programa {#build-an-email-analysis-report-that-shows-program-information}
 
-# Criar um relatório de Análise por email que mostre informações do Programa {#build-an-email-analysis-report-that-shows-program-information}
-
-Siga estas etapas para criar um Relatório de Análise de email que mostrará informações de email agrupadas por canais de programas.
+Siga estas etapas para criar um Relatório de análise de email que mostrará informações de email agrupadas por canais de programas.
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
+>Nem todos os clientes compraram essa funcionalidade. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
 
-1. Inicie **Explorador de Receitas**.
+1. Launch **Explorador de receita**.
 
-   ![](assets/image2014-9-17-19-3a42-3a26.png)
+   ![](assets/report-that-shows-program-information-1.png)
 
-1. Clique em **Novo Relatório**.
+1. Clique em **Criar novo** e selecione **Relatório**.
 
-   ![](assets/image2014-9-17-19-3a42-3a32.png)
+   ![](assets/report-that-shows-program-information-2.png)
 
-1. Selecione a área **Análise de e-mail** e clique em **OK**.
+1. Selecionar **Análise de email** e clique em **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Localize o **Enviado (Semana)** ponto amarelo e clique nele com o botão direito do mouse. Clique em **Filtro**.
+1. Encontre a **Enviado (Semana)** ponto amarelo e clique com o botão direito nele. Clique em **Filtro**.
 
    >[!NOTE]
    >
@@ -39,22 +38,22 @@ Siga estas etapas para criar um Relatório de Análise de email que mostrará in
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Marque **Semana atual enviada** e clique em **OK**.
+1. Verificar **Semana de Envio Atual** e clique em **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Localize e clique no duplo **Canal do Programa** ponto amarelo.
+1. Localize e clique duas vezes na guia **Canal do programa** ponto amarelo.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Localize e clique no duplo **Nome do e-mail** ponto amarelo.
+1. Localize e clique duas vezes na guia **Nome do email** ponto amarelo.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Localize e duplo clique nos pontos azuis **Enviados**, **Abertos** e **Clicados**.
+1. Localize e clique duas vezes na guia **Enviado**, **Aberto** e **Clicado** pontos azuis.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
-   Ótimo trabalho! Você deve ter um relatório que se parece com isto:
+   Muito bem! Você deve ter um relatório semelhante a este:
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)
