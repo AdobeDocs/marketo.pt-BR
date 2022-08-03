@@ -2,9 +2,9 @@
 description: Visão geral de recursos de ações de insight de vendas - Documentos do Marketo - Documentação do produto
 title: Visão geral de recursos de ações de insight de vendas
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: d36fc031675cea2edad63462e7df21f229c49821
+source-git-commit: da20d39c53f0e1731506585c6be886b5c509e81b
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1356'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,10 @@ Acelere os esforços de prospecção com inteligência e ferramentas de engajame
 >No momento, esse recurso está em uma implementação em fases. Entre em contato com o Gerente de sucesso do cliente ou envie um email para `sales-insights(at)adobe(dot)com` para solicitar acesso.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
+
+>[!NOTE]
+>
+>Para obter uma visão geral em vídeo das Ações de insight de vendas, [clique aqui](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target=&quot;_blank&quot;}.
 
 ## Layout de lead e layout de contato {#lead-layout-and-contact-layout}
 
