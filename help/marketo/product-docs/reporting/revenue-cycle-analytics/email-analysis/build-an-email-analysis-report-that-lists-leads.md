@@ -3,7 +3,7 @@ unique-page-id: 2360407
 description: Criar um relatório de análise de email que lista clientes potenciais - Documentos do Marketo - Documentação do produto
 title: Criar um relatório de análise de email que lista clientes potenciais
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Criar um relatório de análise de email que lista clientes potenciais {#build-an-email-analysis-report-that-lists-leads}
 
+Siga estas etapas para criar um relatório de Análise de email que mostrará todos os leads aos quais foi enviado um email específico. Este relatório também incluirá as estatísticas de Clique e Abrir.
+
 >[!AVAILABILITY]
 >
 >Nem todos os clientes compraram essa funcionalidade. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
-
-Siga estas etapas para criar um relatório de Análise de email que mostrará todos os leads aos quais foi enviado um email específico. Este relatório também incluirá as estatísticas de Clique e Abrir.
 
 >[!NOTE]
 >
