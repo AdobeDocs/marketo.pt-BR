@@ -2,7 +2,7 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -35,8 +35,8 @@ Os seguintes recursos começarão a ser lançados em **26 de agosto de 2022**, c
 
 * **Telas atualizadas na experiência de próxima geração**: Estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração que oferecem melhorias atualizadas de design e usabilidade acessíveis por meio do switch de alternância:
 
-   * Detalhes de &quot;Imagens e Arquivos&quot;
    * Detalhes do trecho
+   * Detalhes de &quot;Imagens e Arquivos&quot;
 
 >[!NOTE]
 >
