@@ -1,10 +1,8 @@
 ---
 description: Comportamento do chatbot - Documentos do Marketo - Documentação do produto
 title: Comportamento do chatbot
-hide: true
-hidefromtoc: true
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 97b1a00b8ff1dc29a92687a70c71093fc8c04267
+source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -54,9 +52,9 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>Visitas V1 WP1</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido para V1 </p>
+        <p>D1 será resolvido para V1 </p>
       </td>
-      <td>A contagem de acionadores para D1 deve ser aumentada em 1</td>
+      <td>A contagem de acionadores para D1 será aumentada em 1</td>
     </tr>
     <tr>
       <td>
@@ -65,11 +63,11 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 atualiza WP1</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido para V1</p>
-        <p>Após a atualização, D1 deve ser resolvido novamente</p>
+        <p>D1 será resolvido para V1</p>
+        <p>Após a atualização, D1 será resolvido novamente</p>
       </td>
       <td>
-        <p>A contagem de acionadores para D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores para D1 será aumentada em 1</p>
         <p>Após a atualização, nenhuma alteração no acionador D1 ou na contagem de engajamento</p>
       </td>
     </tr>
@@ -79,9 +77,9 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 visita WP1 pela primeira vez</p>
         <p>V1 clica em D1, mas não respondeu</p>
       </td>
-      <td>D1 deve ser resolvido para V1</td>
+      <td>D1 será resolvido para V1</td>
       <td>
-        <p>A contagem de acionadores para D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores para D1 será aumentada em 1</p>
         <p>Nenhuma alteração na contagem de envolvimento de D1</p>
       </td>
     </tr>
@@ -91,10 +89,10 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 visita WP1 pela primeira vez</p>
         <p>V1 clica em D1 e fornece a primeira resposta</p>
       </td>
-      <td>D1 deve ser resolvido para V1</td>
+      <td>D1 será resolvido para V1</td>
       <td>
-        <p>A contagem de acionadores para D1 deve ser aumentada em 1</p>
-        <p>A contagem de engajamento para D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores para D1 será aumentada em 1</p>
+        <p>A contagem de engajamento para D1 será aumentada em 1</p>
       </td>
     </tr>
     <tr>
@@ -105,11 +103,11 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 atualiza WP1</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido para V1</p>
-        <p>Após a atualização, D1 deve ser continuado</p>
+        <p>D1 será resolvido para V1</p>
+        <p>Após a atualização, D1 será continuado</p>
       </td>
       <td>
-        <p>A contagem de acionadores e de envolvimento para D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores e de envolvimento para D1 será aumentada em 1</p>
         <p>Após a atualização, nenhuma alteração será alterada para qualquer contagem</p>
       </td>
     </tr>
@@ -121,12 +119,12 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 atualiza WP1</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido para V1</p>
-        <p>Após a atualização, nenhuma caixa de diálogo ou caixa de diálogo seguinte deverá ser resolvida para V1</p>
+        <p>D1 será resolvido para V1</p>
+        <p>Após a atualização, nenhuma caixa de diálogo ou caixa de diálogo seguinte será resolvida para V1</p>
       </td>
       <td>
-        <p>A contagem de acionadores, de envolvimento e de conclusão da contagem para D1 deve ser aumentada em 1</p>
-        <p>Após a atualização, nenhuma caixa de diálogo ou caixa de diálogo seguinte deverá ser resolvida</p>
+        <p>A contagem de acionadores, de envolvimento e de conclusão da contagem para D1 será aumentada em 1</p>
+        <p>Após a atualização, nenhuma caixa de diálogo ou próxima caixa de diálogo será resolvida</p>
       </td>
     </tr>
     <tr>
@@ -137,11 +135,11 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 visitas WP2</p>
       </td>
       <td>
-        <p>A visita à página WP1, D1 deve ser resolvida para V1</p>
-        <p>A visita à página WP2, D1 deve ser resolvida para V2</p>
+        <p>Visita à página WP1, D1 será resolvida para V1</p>
+        <p>Visita à página WP2, D1 será resolvida para V2</p>
       </td>
       <td>
-        <p>A contagem de acionadores para D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores para D1 será aumentada em 1</p>
         <p>No WP2, nenhuma alteração na contagem de acionadores D1</p>
       </td>
     </tr>
@@ -153,11 +151,11 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 visitas WP2</p>
       </td>
       <td>
-        <p>A visita à página WP1, D1 deve ser resolvida para V1</p>
-        <p>A visita à página WP2, D1 deve ser resolvida para V1</p>
+        <p>Visita à página WP1, D1 será resolvida para V1</p>
+        <p>Visita à página WP2, D1 será resolvida para V1</p>
       </td>
       <td>
-        <p>A contagem de acionadores e de envolvimento para D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores e de envolvimento para D1 será aumentada em 1</p>
         <p>No WP2, nenhuma alteração em qualquer contagem</p>
       </td>
     </tr>
@@ -170,11 +168,11 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 visitas WP2</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido no WP1</p>
-        <p>D1 deve continuar para V1 no WP2</p>
+        <p>D1 será resolvido no WP1</p>
+        <p>D1 continuará para V1 no WP2</p>
       </td>
       <td>
-        <p>A contagem de acionadores e de envolvimento para D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores e de envolvimento para D1 será aumentada em 1</p>
         <p>Nenhuma alteração na contagem de acionadores ou de envolvimento de D2</p>
       </td>
     </tr>
@@ -186,11 +184,11 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 clica em D1, mas não respondeu </p>
         <p>V1 visitas WP2</p>
       </td>
-      <td>D1 deve ser resolvido no WP1<br/>
-      D2 deve ser resolvido no WP2</td>
+      <td>D1 será resolvido no WP1<br/>
+      O D2 será resolvido no WP2</td>
       <td>
-        <p>A contagem de acionadores para D1 deve ser aumentada em 1</p>
-        <p>A contagem de acionadores para D2 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores para D1 será aumentada em 1</p>
+        <p>A contagem de acionadores para D2 será aumentada em 1</p>
       </td>
     </tr>
     <tr>
@@ -201,10 +199,10 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 clica em D1 e completa D1</p>
         <p>V1 visitas WP2</p>
       </td>
-      <td>D1 deve ser resolvido no WP1 e no pós-conclusão<br/>D2 deve ser resolvido no WP2</td>
+      <td>D1 será resolvido no WP1 e no pós-conclusão<br/>O D2 será resolvido no WP2</td>
       <td>
-        <p>A contagem de acionadores, de envolvimento e de conclusão da contagem para D1 deve ser aumentada em 1</p>
-        <p>A contagem de acionadores para D2 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores, de envolvimento e de conclusão da contagem para D1 será aumentada em 1</p>
+        <p>A contagem de acionadores para D2 será aumentada em 1</p>
       </td>
     </tr>
     <tr>
@@ -216,10 +214,10 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 visitas WP2</p>
         <p>Cliques V1 em D2 fornecem a primeira resposta </p>
       </td>
-      <td>D1 deve ser resolvido no WP1 e no pós-conclusão<br/>D2 deve ser resolvido no WP2</td>
+      <td>D1 será resolvido no WP1 e no pós-conclusão<br/>O D2 será resolvido no WP2</td>
       <td>
-        <p>A contagem de acionadores, de envolvimento e de conclusão da contagem para D1 deve ser aumentada em 1</p>
-        <p>A contagem de acionador e envolvimento para D2 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores, de envolvimento e de conclusão da contagem para D1 será aumentada em 1</p>
+        <p>O acionador e a contagem de engajamento para D2 serão aumentados em 1</p>
       </td>
     </tr>
     <tr>
@@ -229,9 +227,9 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 clica em D1, mas não respondeu</p>
         <p>D1 não está publicado</p>
       </td>
-      <td>D1 deve ser resolvido para V1</td>
+      <td>D1 será resolvido para V1</td>
       <td>
-        <p>A contagem de acionadores para D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores para D1 será aumentada em 1</p>
         <p>Nenhuma alteração na contagem de envolvimento de D1</p>
       </td>
     </tr>
@@ -244,11 +242,11 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 atualiza WP1</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido para V1 pela primeira vez</p>
-        <p>Após a atualização, nenhuma caixa de diálogo deve ser resolvida</p>
+        <p>D1 será resolvido para V1 pela primeira vez</p>
+        <p>Após a atualização, nenhuma caixa de diálogo será resolvida</p>
       </td>
       <td>
-        <p>A contagem de acionadores para D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores para D1 será aumentada em 1</p>
         <p>Nenhuma alteração na contagem de envolvimento de D1</p>
         <p>Após a atualização, nenhuma alteração no acionador D1 ou na contagem de engajamento</p>
       </td>
@@ -262,12 +260,12 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 atualiza WP1</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido para V1</p>
-        <p>Após a atualização, D1 deve ser continuado</p>
+        <p>D1 será resolvido para V1</p>
+        <p>Após a atualização, D1 será continuado</p>
       </td>
       <td>
-        <p>A contagem de acionadores para D1 deve ser aumentada em 1</p>
-        <p>A contagem de engajamento D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores para D1 será aumentada em 1</p>
+        <p>A contagem de engajamento D1 será aumentada em 1</p>
         <p>Após a atualização, como D1 será continuado, nenhuma alteração no acionador ou na contagem de engajamento</p>
       </td>
     </tr>
@@ -280,11 +278,11 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 atualiza WP1</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido para V1 pela primeira vez</p>
-        <p>Após a atualização, a caixa de diálogo com novas alterações deve ser resolvida</p>
+        <p>D1 será resolvido para V1 pela primeira vez</p>
+        <p>Após a atualização, a caixa de diálogo com novas alterações será resolvida</p>
       </td>
       <td>
-        <p>A contagem de acionadores para D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores para D1 será aumentada em 1</p>
         <p>Após a atualização, como D1 com novas alterações, mas sem mais alterações para acionar a contagem</p>
       </td>
     </tr>
@@ -297,12 +295,12 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 atualiza WP1</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido para V1 pela primeira vez</p>
-        <p>Após a atualização, a caixa de diálogo com as alterações antigas deve continuar</p>
+        <p>D1 será resolvido para V1 pela primeira vez</p>
+        <p>Após a atualização, o diálogo com as alterações antigas continuará</p>
       </td>
       <td>
-        <p>A contagem de acionadores para D1 deve ser aumentada em 1</p>
-        <p>A contagem de engajamento para D1 deve ser aumentada em 1 </p>
+        <p>A contagem de acionadores para D1 será aumentada em 1</p>
+        <p>A contagem de engajamento para D1 será aumentada em 1 </p>
         <p>Após a atualização, como o D1 antigo aparecerá, portanto, nenhuma alteração na contagem de acionadores</p>
       </td>
     </tr>
@@ -316,12 +314,12 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 atualiza WP1</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido para V1 pela primeira vez</p>
-        <p>Após a atualização, D2 deve ser resolvido para V1</p>
+        <p>D1 será resolvido para V1 pela primeira vez</p>
+        <p>Após a atualização, D2 será resolvido para V1</p>
       </td>
       <td>
-        <p>A contagem de acionadores para D1 deve ser aumentada em 1</p>
-        <p>Após a atualização, a contagem de acionadores para D2 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores para D1 será aumentada em 1</p>
+        <p>Após a atualização, a contagem de acionadores para D2 será aumentada em 1</p>
       </td>
     </tr>
     <tr>
@@ -335,12 +333,12 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 atualiza WP1</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido para V1 pela primeira vez</p>
-        <p>Após a atualização, D2 deve ser resolvido para V1</p>
-        <p>Depois de completar D1 e D2, independentemente das alterações ou republicação de D1, D2 não deve ser novamente indicada para V1</p>
+        <p>D1 será resolvido para V1 pela primeira vez</p>
+        <p>Após a atualização, D2 será resolvido para V1</p>
+        <p>Depois de completar D1 e D2, independentemente das alterações ou republicação de D1, D2 não será exibido novamente para V1</p>
       </td>
       <td>
-        <p>A contagem de acionadores, de envolvimento e de conclusão da contagem para D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores, de envolvimento e de conclusão da contagem para D1 será aumentada em 1</p>
         <p>Atualizar depois que D2 for concluída, nenhuma ação será executada</p>
       </td>
     </tr>
@@ -350,10 +348,10 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>Visitas V1 WP1</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido, mas não será acionado para V1</p>
-        <p>Após 30 segundos, D1 deve ser mostrado/acionado para V1</p>
+        <p>D1 será resolvido, mas não será acionado para V1</p>
+        <p>Após 30 segundos, D1 será mostrado/acionado para V1</p>
       </td>
-      <td>A contagem de acionadores para D1 deve ser aumentada em 1 somente após mais de 30 segundos gastos na página da Web</td>
+      <td>A contagem de acionadores para D1 será aumentada em 1 somente após mais de 30 segundos gastos na página da Web</td>
     </tr>
     <tr>
       <td>
@@ -361,10 +359,10 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 visitas WP1, WP2</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido, mas não será acionado para V1</p>
-        <p>Após 30 segundos, D1 deve ser mostrado/acionado para V1</p>
+        <p>D1 será resolvido, mas não será acionado para V1</p>
+        <p>Após 30 segundos, D1 será mostrado/acionado para V1</p>
       </td>
-      <td>A contagem de acionadores para D1 deve ser aumentada em 1 somente após mais de 30 segundos gastos na página da Web</td>
+      <td>A contagem de acionadores para D1 será aumentada em 1 somente após mais de 30 segundos gastos na página da Web</td>
     </tr>
     <tr>
       <td>
@@ -372,10 +370,10 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>Visitas V1 WP1</p>
       </td>
       <td>
-        <p>D1 deve ser resolvido, mas não será acionado para V1</p>
-        <p>Após 50% de rolagem, D1 deve ser mostrado/acionado para V1</p>
+        <p>D1 será resolvido, mas não será acionado para V1</p>
+        <p>Após 50% de rolagem, D1 será mostrado/acionado para V1</p>
       </td>
-      <td>A contagem de acionadores para D1 deve ser aumentada em 1 somente após 50% de rolagem</td>
+      <td>A contagem de acionadores para D1 será aumentada em 1 somente após 50% de rolagem</td>
     </tr>
     <tr>
       <td>
@@ -384,11 +382,11 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 visita WP1, após 10 segundos V1 visitas WP2, V1 visitas WP1</p>
       </td>
       <td>
-        <p>No WP1, D1 deve ser resolvido, mas não será acionado para V1</p>
-        <p>No WP2, D2 deve ser resolvido, mas não será acionado para V1</p>
-        <p>No WP1, D1 deve ser resolvido e, após 20 segundos, D1 deve ser acionado para V1</p>
+        <p>No WP1, D1 será resolvido, mas não será acionado para V1</p>
+        <p>No WP2, D2 será resolvido, mas não será acionado para V1</p>
+        <p>No WP1, D1 será resolvido e, após 20 segundos, D1 será acionado para V1</p>
       </td>
-      <td>A contagem de disparadores para D1 deve ser aumentada em 1 somente após 30 segundos</td>
+      <td>A contagem de disparadores para D1 será aumentada em 1 somente após 30 segundos</td>
     </tr>
     <tr>
       <td>
@@ -397,11 +395,11 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 fecha o WP1 e volta ao WP1 2 dias depois</p>
       </td>
       <td>
-        <p>D1 deve ser exibido automaticamente para V1, pois já atenderam aos critérios de acionamento durante a sessão anterior</p>
-        <p>A mesma lógica deve se aplicar ao "Tempo na página" e à "porcentagem de rolagem da página"</p>
+        <p>D1 será exibido automaticamente para V1, pois já atenderam aos critérios de acionamento durante a sessão anterior</p>
+        <p>A mesma lógica será aplicada ao "Tempo na página" e à "porcentagem de rolagem da página"</p>
       </td>
       <td>
-        <p>A contagem de acionadores para D1 deve ser aumentada em 1</p>
+        <p>A contagem de acionadores para D1 será aumentada em 1</p>
         <p>Após o regresso, nenhuma ação deve ser tomada</p>
       </td>
     </tr>
