@@ -4,18 +4,18 @@ title: Configuração do reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Configurando o reCAPTCHA {#setting-up-recaptcha}
+# Configuração do reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
 Texto de introdução
 
-## Configuração do reCAPTCHA v3 {#setting-up-recaptcha-v3}
+## Configuração inicial do reCAPTCHA v3 {#initial-recaptcha-v3-setup}
 
 Texto: Descrever a v3 - as etapas a seguir são executadas fora do Marketo Engage.
 
@@ -47,18 +47,22 @@ Texto: Descrever a v3 - as etapas a seguir são executadas fora do Marketo Engag
 
 ## Configuração do CAPTCHA no Marketo Engage {#setting-up-captcha-in-marketo-engage}
 
-1. No Marketo, clique em **Administrador** e selecione **CAPTCHA**.
+1. No Marketo, clique em **Administrador**.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-1.png)
+
+1. Selecionar **CAPTCHA** na árvore.
+
+   ![](assets/setting-up-recaptcha-v3-2.png)
 
 1. Clique em **Editar** nas configurações CAPTCHA.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-3.png)
 
 1. Clique no menu suspenso CAPTCHA e escolha reCAPTCHA v3.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-4.png)
 
 1. Insira a chave secreta e a chave do site. Clique em **Salvar** quando concluído.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-5.png)

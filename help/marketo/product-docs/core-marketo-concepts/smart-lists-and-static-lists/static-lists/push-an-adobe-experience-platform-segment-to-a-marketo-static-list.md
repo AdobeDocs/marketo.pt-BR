@@ -2,9 +2,9 @@
 description: Encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo - Documentos do Marketo - Documentação do produto
 title: Encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Inserir um destino **Nome** e uma Descrição opcional. Clique no menu suspenso Criação de pessoa e escolha &quot;Corresponder pessoas existentes do Marketo e Criar pessoas ausentes no Marketo&quot; _ou_ &quot;Corresponder Apenas Às Pessoas Existentes Do Marketo.&quot; Neste exemplo, estamos escolhendo o primeiro. Opcionalmente, também é possível escolher um espaço de trabalho ou apenas ir com o padrão.
+1. Inserir um destino **Nome** e uma Descrição opcional. Clique no menu suspenso Criação de pessoa e escolha &quot;Corresponder pessoas existentes do Marketo e Criar pessoas ausentes no Marketo&quot; _ou_ &quot;Corresponder somente pessoas existentes do Marketo&quot; (neste exemplo, estamos escolhendo a primeira). Você também deve escolher uma **Workspace**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 

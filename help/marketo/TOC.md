@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: bef1162511ba96fe35a24a227c2ceb90bb5f3c63
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
 source-wordcount: '8807'
 ht-degree: 5%
@@ -711,7 +711,7 @@ ht-degree: 5%
             + [Definir um valor de campo de formulário oculto](product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
          + Uso de CAPTCHA {#using-captcha}
             + [Configuração do reCAPTCHA v3](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
-            + [Ativar CAPTCHA no Marketo Engage](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-engage.md)
+            + [Habilitar CAPTCHA no Marketo Forms](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
       + Imagens e arquivos {#images-and-files}
          + [Adicionar imagens e arquivos ao Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [Excluir uma imagem ou arquivo carregado](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
