@@ -3,9 +3,9 @@ unique-page-id: 17432598
 description: Configuração do perfil da conta - Documentos do Marketo - Documentação do produto
 title: Configuração do perfil da conta
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
-source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
+source-git-commit: 07a6640bd6cd43f55a5fa7e64b4a960dce288021
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '149'
 ht-degree: 2%
 
 ---
@@ -16,22 +16,20 @@ Siga estas etapas para começar a usar a Criação de perfil da conta.
 
 >[!CAUTION]
 >
->Os campos a seguir devem **not** estar ocultos para que a Criação de perfil da conta funcione corretamente.
+>Os seguintes campos devem **not** fique oculta para que a criação de perfis de contas funcione corretamente.
 >
 >* Site
 >* Empresa
->* E-mail
+>* Email
 >* País
-
 >
->
-Saiba como [mostrar um campo aqui](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>Saiba como [mostrar um campo aqui](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
-1. Em Minha Marketo, abra **Gerenciamento de conta do Target**.
+1. Em Meu Marketo, abra **Gerenciamento de conta do Target**.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Clique na guia **Criação de perfil da conta**.
+1. Clique no botão **Criação de perfil da conta** guia .
 
    ![](assets/two-1.png)
 
@@ -39,15 +37,15 @@ Saiba como [mostrar um campo aqui](/help/marketo/product-docs/administration/fie
 
    ![](assets/three.png)
 
-1. Dê um nome ao modelo, escolha quem será incluído nos resultados e quem servirá de base para o ICP (Perfil do cliente ideal). Clique em **Criar Modelo** quando terminar.
+1. Dê um nome ao modelo e escolha o tipo/lista de pessoas que servirão de base para o ICP (Perfil do cliente ideal). Clique em **Criar modelo** quando concluído.
 
-   ![](assets/four.png)
+   ![](assets/setting-up-account-profiling-4.png)
 
 1. Seu modelo iniciará sua criação. Pode levar algum tempo, mas não se preocupe, você será notificado quando terminar.
 
    ![](assets/five.png)
 
-1. Para ver os resultados do seu modelo, clique em **Consulte Resultado do Modelo**.
+1. Para ver os resultados do modelo, clique em **Consulte Resultado do modelo**.
 
    ![](assets/six.png)
 
@@ -57,4 +55,4 @@ Saiba como [mostrar um campo aqui](/help/marketo/product-docs/administration/fie
 
    >[!TIP]
    >
-   >Agora que seu modelo foi criado, [saiba como ajustá-lo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
+   >Agora que seu modelo foi criado, [saiba como sintonizá-lo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
