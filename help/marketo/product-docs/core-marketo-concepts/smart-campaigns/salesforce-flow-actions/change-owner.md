@@ -3,11 +3,10 @@ unique-page-id: 1147021
 description: Alterar proprietário - Documentos do Marketo - Documentação do produto
 title: Alterar proprietário
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 44c134811242b4136a3137cdd60e60edeb838c8c
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,10 +26,9 @@ Se você tiver pessoas já atribuídas a um proprietário, poderá usar essa eta
    >
    >O Salesforce não permite que contatos sejam atribuídos a filas de lead. Para um registro que é um contato SFDC:
    >
-   >1. O Marketo criará um lead duplicado **somente** quando o contato for sincronizado com o Salesforce. Em outras palavras, se você usar a etapa de fluxo **[Sincronizar pessoa com SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** com `AssignTo=<a lead queue>`, o Marketo criará um lead duplicado no Salesforce e o atribuirá à fila de lead.
-      >
-      >
-   1. Se você tentar usar a etapa de fluxo **Alterar proprietário** em um contato, nenhuma duplicata será criada no Salesforce.
+   >1. A Marketo criará um lead duplicado **only** quando o contato é sincronizado com o Salesforce. Em outras palavras, se você usar a variável **[Sincronizar pessoa com o SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** passo de fluxo com `AssignTo=<a lead queue>`, a Marketo criará um lead duplicado no Salesforce e o atribuirá à fila de lead.
+   >
+   >1. Se você usar a variável **Alterar proprietário** Em uma etapa de fluxo em um contato, a Marketo cria um lead duplicado no Salesforce. Para evitar isso, use um filtro no campo &quot;Tipo SFDC&quot; que limita a ação somente aos leads.
 
 
    >[!NOTE]
