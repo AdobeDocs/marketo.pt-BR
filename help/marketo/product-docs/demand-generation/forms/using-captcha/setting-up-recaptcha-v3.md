@@ -4,16 +4,16 @@ title: Configuração do reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # Configuração do reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
-O reCAPTCHA v3 é uma experiência sem atrito que classifica os envios de formulário com base no quão suspeitos eles são sem usar desafios de texto, imagem ou botão. [Saiba mais](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
+O ReCAPTCHA v3 é uma experiência sem atrito que classifica os envios de formulário com base no quão suspeitos eles são sem usar desafios de texto, imagem ou botão. [Saiba mais](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
 
 ## Recupere seu data center e a ID do Munchkin {#retrieve-your-data-center-and-munchkin-id}
 
@@ -61,9 +61,9 @@ As etapas a seguir são executadas fora do Marketo.
 
 1. Clique em **Enviar**.
 
->[!NOTE]
->
->Mantenha a chave do site e a chave secreta acessíveis para a configuração do Marketo Engage.
+   >[!NOTE]
+   >
+   >Mantenha a chave do site e a chave secreta acessíveis para a configuração do Marketo Engage.
 
 ## Configuração do CAPTCHA no Marketo Engage {#setting-up-captcha-in-marketo-engage}
 

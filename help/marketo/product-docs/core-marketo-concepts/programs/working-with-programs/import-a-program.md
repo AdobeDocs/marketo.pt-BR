@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importar um programa - Documentos do Marketo - Documentação do produto
 title: Importar um programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Um programa pode ser importado de uma assinatura Marketo para outra. Por exemplo, você pode criar um programa em uma sandbox e depois importá-lo para a sua assinatura ativa. Além disso, você pode importar um programa pré-criado da Biblioteca de programas da Marketo.
 
-## Importar um programa {#import-a-program-1}
+## Importação de um programa {#importing-a-program}
 
 1. Ir para **Atividades de marketing.**
 
@@ -46,6 +46,10 @@ Um programa pode ser importado de uma assinatura Marketo para outra. Por exemplo
 
    ![](assets/import-a-program-5.png)
 
+   >[!NOTE]
+   >
+   >Importando um programa que usa Etapas de fluxo personalizadas ou Regras de lista inteligente derivadas de um Serviço de etapa de fluxo para uma instância de destino em que há mais de um provedor de serviços compatível, o usuário importador será solicitado a atribuir etapas ou regras ao provedor de serviços correto na instância de destino.
+
 1. Visualizar detalhes e **Importar** o programa.
 
    ![](assets/import-a-program-6.png)
@@ -67,7 +71,7 @@ A Biblioteca de programas Marketo contém programas pré-criados e testados que 
 1. **Momentos interessantes.** Cria momentos interessantes para sua equipe de vendas para mantê-los em loop.
 1. **Landing Page com autorresponder.** Use o conteúdo baixável para obter novas pessoas e estimulá-las. Inclui páginas de aterrissagem e formulários.
 1. **Ciclo de vida 2.** Usa pontuação para mover uma pessoa de nova para qualificada de marketing.
-1. **Modelo de email do Mobile.** Um modelo de email responsivo testado no iPhone e no Android. Certas versões do Android, MS Outlook, Exchange e aplicativos de terceiros, como o Gmail e o Yahoo! Os aplicativos móveis de email não suportam o CSS necessário para modelos responsivos. Recomendamos que você teste antes de enviar emails.
+1. **Modelo de email móvel.** Um modelo de email responsivo testado no iPhone e no Android. Certas versões do Android, MS Outlook, Exchange e aplicativos de terceiros, como o Gmail e o Yahoo! Os aplicativos móveis de email não suportam o CSS necessário para modelos responsivos. Recomendamos que você teste antes de enviar emails.
 1. **Sorteio de importação do programa.** Programa de sorteios para quem está tentando a Biblioteca do Programa! Basta aprovar os emails e a landing page e ativar a campanha inteligente. Em seguida, visualize a landing page aprovada, preencha o formulário e você foi inserido!
 1. **Campanhas Disponíveis para Vendas.** Oferece aos representantes de vendas uma maneira de executar campanhas inteligentes do Marketo a partir de um painel em seu CRM.
 1. **Pontuação - Edição Spark.** Pontuação demográfica e comportamental capturada em um único campo de pontuação. Inclui mais de duas dúzias de campanhas relacionadas à pontuação.

@@ -3,15 +3,14 @@ unique-page-id: 6848747
 description: Descrições de permissões de função - Documentos do Marketo - Documentação do produto
 title: Descrições das permissões de função
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '1144'
+source-wordcount: '1146'
 ht-degree: 20%
 
 ---
 
-# Descrições de permissões de função {#descriptions-of-role-permissions}
+# Descrições das permissões de função {#descriptions-of-role-permissions}
 
 Abaixo está uma lista de todas as permissões disponíveis que você pode atribuir às suas funções. As permissões geralmente são associadas a áreas funcionais específicas dentro do Marketo e podem ajudar você a controlar a quais áreas e funcionalidades diferentes os usuários têm acesso.
 
@@ -23,7 +22,7 @@ Algumas informações adicionais sobre permissões:
 
 ## Permissões disponíveis {#available-permissions}
 
-Ao [criar ou editar uma função](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), você pode selecionar qual das seguintes permissões permitir essa função marcando as caixas apropriadas.
+Quando você [criar ou editar uma função](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), é possível selecionar qual das seguintes permissões permitir essa função, marcando as caixas apropriadas.
 
 ![](assets/createnewrole.png)
 
@@ -34,8 +33,8 @@ Exiba e faça alterações nas configurações na seção Minha conta de Adminis
 * Trilha de auditoria de acesso - concede aos usuários acesso à trilha de auditoria de ativos e à trilha de auditoria de administração
 * Canais de acesso - concede aos usuários acesso somente para modificar a tag do Canal, não outras tags personalizadas
 * Limite de comunicação de acesso - Fornece aos usuários acesso para ativar um limite de comunicação em Administração
-* Access CRM - concede aos usuários acesso ao CRM, como Salesforce ou Microsoft Dynamics, em Administração
-* Acesse [Data.com](https://Data.com) - Concede aos usuários acesso à ação de fluxo Data.com
+* Acesso ao CRM - concede aos usuários acesso ao CRM, como Salesforce ou Microsoft Dynamics, em Administração
+* Acesso [Data.com](https://Data.com) - Concede aos usuários acesso à ação de fluxo Data.com
 * Acessar administrador de email - concede usuários ao administrador de email para alterar configurações padrão, como cancelar a assinatura e domínios de marca
 * Acessar parceiros de evento - concede aos usuários acesso ao LaunchPoint em Admin
 * Gerenciamento de campo de acesso - concede aos usuários acesso ao Gerenciamento de campo na Administração
@@ -61,7 +60,7 @@ Exiba e faça alterações nas configurações na seção Minha conta de Adminis
 
 ## API de acesso  {#access-api}
 
-Fornece aos usuários com a **API Somente** **Função** acesso às APIs individuais listadas abaixo.
+Oferece aos usuários o **Somente API** **Função** acesso às APIs individuais listadas abaixo.
 
 * Aprovar ativos
 * Executar campanha
@@ -106,11 +105,11 @@ Fornece aos usuários acesso à guia Design Studio e à visualização da árvor
 
 * Acessar e-mail
    * Editar email - Concede aos usuários permissão para editar, criar e clonar emails
-      * Tornar o email operacional - Concede aos usuários permissão para tornar o email operacional. Consulte: [Tornar um Email Operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Tornar o email operacional - Concede aos usuários permissão para tornar o email operacional. Consulte: [Tornar um email operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * Aprovar email - Permite que os usuários aprovem emails.
       * Excluir email - permite que os usuários excluam emails.
-      * Definir domínio de marca - Permite que os usuários trabalhem com domínios de marca. Consulte: [Adicionar um Domínio de Marca Adicional](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+      * Definir domínio de marca - Permite que os usuários trabalhem com domínios de marca. Consulte: [Adicionar um domínio de marca adicional](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Acessar modelo de e-mail
 
@@ -120,6 +119,7 @@ Fornece aos usuários acesso à guia Design Studio e à visualização da árvor
 
 * Acessar formulário
 
+   * Aprovar formulário
    * Excluir formulário
    * Editar formulário - Editar, criar e clonar formulários
 
@@ -170,7 +170,7 @@ Visualize o banco de dados, bem como visualize e edite listas inteligentes/está
 * Importar objeto personalizado
 * Importar lista
 * Mesclar pessoas
-* Executar ações de fluxo único - Permite que os usuários executem a etapa de fluxo **Alterar valor de dados** em pessoas do banco de dados
+* Executar ações de fluxo único - Permite que os usuários executem **Alterar valor de dados** etapa de fluxo em pessoas do banco de dados
 
 * Exibir dados da oportunidade - oculta as informações da oportunidade na página de detalhes da pessoa
 
