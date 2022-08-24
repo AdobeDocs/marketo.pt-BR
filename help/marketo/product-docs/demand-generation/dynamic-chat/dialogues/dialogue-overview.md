@@ -2,10 +2,10 @@
 description: Visão geral do diálogo - Documentos do Marketo - Documentação do produto
 title: Visão geral da caixa de diálogo
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 As caixas de diálogo são conversas de chat individuais. Em cada caixa de diálogo, você decide onde a conversa específica é exibida, para quem ela será exibida e qual será o conteúdo da conversa. Cada caixa de diálogo também tem sua própria página de relatório, onde você pode monitorar a eficácia.
 
-## Critérios de público-alvo {#audience-criteria}
+## Critérios de público {#audience-criteria}
 
 O [Critérios de público-alvo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)A seção {target=&quot;_blank&quot;} de uma caixa de diálogo é onde você definirá onde e para quem sua conversa de bate-papo será exibida
 
 ![](assets/dialogue-overview-1.png)
 
-## Designer de fluxo {#stream-designer}
+## Designer de sequência {#stream-designer}
 
 O [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)A seção {target=&quot;_blank&quot;} de uma caixa de diálogo é onde você projetará a conversa que deseja ter com os visitantes do site.
 
@@ -30,3 +30,15 @@ O [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/
 O [Relatórios](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)A seção {target=&quot;_blank&quot;} de uma caixa de diálogo é onde você poderá ver as métricas sobre o desempenho da caixa de diálogo.
 
 ![](assets/dialogue-overview-3.png)
+
+## Desativar/Ativar todas as caixas de diálogo {#disable-enable-all-dialogues}
+
+Você pode desativar (e reativar) todas as Diálogos publicadas ao mesmo tempo.
+
+1. Em Bate-papo dinâmico, clique no link **Configuração** guia .
+
+   ![](assets/dialogue-overview-4.png)
+
+1. Ative o **Chat ativado** mude para desligado para desabilitar (e voltar para reativar) todas as caixas de diálogo.
+
+   ![](assets/dialogue-overview-5.png)
