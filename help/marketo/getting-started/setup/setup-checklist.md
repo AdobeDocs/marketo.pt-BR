@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: Lista de verificação de configuração - Documentos do Marketo - Documentação do produto
 title: Lista de verificação de configuração
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Lista de verificação de configuração {#setup-checklist}
 
-Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verificação como uma lista de itens visuais para começar. Os detalhes podem ser encontrados em [Etapas de configuração](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}.
+Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verificação como uma lista de itens visuais para começar. Os detalhes podem ser encontrados em [Etapas de configuração](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}.
 
 ## Faça logon no Marketo e crie usuários adicionais {#log-in-to-marketo-and-create-additional-users}
 
@@ -50,4 +50,4 @@ Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verifica
 
 >[!MORELIKETHIS]
 >
->[Etapas de configuração](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}
+>[Etapas de configuração](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}

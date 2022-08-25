@@ -3,7 +3,7 @@ unique-page-id: 1147226
 description: Introdução - Documentos do Marketo - Documentação do produto
 title: Introdução
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 5d7c30fe818e37ba86152953d19937e39c7426f5
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 29%
@@ -22,7 +22,7 @@ O que você pergunta ao Marketo? Grande pergunta!
 
 Com uma pequena ajuda da sua equipe de TI, você pode fazer isso sem demora.
 
-[Iniciar Configuração](/help/marketo/getting-started/setup-steps.md)
+[Iniciar Configuração](/help/marketo/getting-started/setup/setup-steps.md)
 
 ## ETAPA 3 Obter algumas vitórias rápidas {#get-some-quick-wins}
 
@@ -49,7 +49,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo.
   </td>
   <td>
     <a href="getting-started/quick-wins/landing-page-with-a-form.md">
-      <img alt="E-mail" src="getting-started/assets/getting-started-3.png" />
+      <img alt="Email" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
     <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Página com formulário</a>
@@ -77,10 +77,10 @@ Conclua essas missões para conhecer os recursos principais do Marketo.
 <tr>
   <td>
     <a href="getting-started/quick-wins/import-a-list-of-people.md">
-      <img alt="E-mail" src="getting-started/assets/getting-started-6.png" />
+      <img alt="Email" src="getting-started/assets/getting-started-6.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importar uma Lista de Pessoas</a>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importar uma lista de pessoas</a>
     </div>
     <br>
   </td>
@@ -89,7 +89,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo.
       <img alt="Conectar" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drill Drim Nurture</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drill Nurture</a>
     </div>
     <br>
   </td>
@@ -103,7 +103,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo.
   </td>
   <td>
     <a href="getting-started/quick-wins/alert-the-sales-rep.md">
-      <img alt="E-mail" src="getting-started/assets/getting-started-9.png" />
+      <img alt="Email" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
     <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Alertar o representante de vendas</a>
