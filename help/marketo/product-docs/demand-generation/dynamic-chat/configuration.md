@@ -2,9 +2,9 @@
 description: Configuração - Documentação do Marketo - Documentação do produto
 title: Configuração
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -40,6 +40,10 @@ A Âncora permite que o visitante do site abra/feche a caixa de diálogo. Você 
 Em Configurações do agente, você pode adicionar um rótulo à sua caixa de diálogo (por exemplo: &quot;Adobe Bot&quot;) que aparecerá na parte superior. Você também pode determinar o atraso da resposta (em segundos) e alterar o avatar do chat. Para fazer upload de sua própria imagem de avatar, clique no link **+** botão.
 
 ![](assets/configuration-5.png)
+
+>[!NOTE]
+>
+>Os avatares personalizados devem ser imagens quadradas com menos de 256 kb e menores que 200 x 200 px. Os tipos de arquivos suportados incluem: .jpg, .png, .gif, .webp, .svg.
 
 Quando terminar de fazer alterações, lembre-se de clicar em **Salvar**.
 
