@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Etapas de configuração - Documentação do Marketo - Documentação do produto
 title: Etapas de configuração
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Algumas etapas exigem a ajuda da sua equipe de TI.
 
 >[!TIP]
 >
->Se você [imprimir esta lista de verificação](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}, você pode desmarcar os itens ao concluí-los.
+>Se você [imprimir esta lista de verificação](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}, você pode desmarcar os itens ao concluí-los.
 
 ## Fazer logon e criar usuários adicionais do Marketo {#log-in-and-create-additional-marketo-users}
 
