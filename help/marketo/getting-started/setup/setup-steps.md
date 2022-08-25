@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Etapas de configuração - Documentação do Marketo - Documentação do produto
 title: Etapas de configuração
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -199,7 +199,7 @@ Agora você tem todas as informações necessárias para enviar sua solicitaçã
 
 Depois de coletar todas as informações necessárias, você está pronto para enviar uma solicitação para a TI. Você pode usar o texto abaixo como um modelo, substituindo o texto em negrito por suas próprias informações.
 
-[Incluir um link para este artigo](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md).
+[Incluir um link para este artigo](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
 
 Cole esse texto no email e substitua os espaços reservados em negrito:
 
