@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
 workflow-type: tm+mt
 source-wordcount: '8807'
 ht-degree: 5%
@@ -20,9 +20,9 @@ ht-degree: 5%
    + [Glossário do Marketo](getting-started/marketo-glossary.md)
    + [Ícone Clássico Glossário](getting-started/classic-icon-glossary.md)
    + Configuração {#setup}
-      + [Etapas de configuração](getting-started/setup-steps.md)
-      + [Lista de verificação de configuração](getting-started/setup-steps/setup-checklist.md)
-      + [Configurar protocolos para Marketo](getting-started/setup-steps/configure-protocols-for-marketo.md)
+      + [Etapas de configuração](getting-started/setup/setup-steps.md)
+      + [Lista de verificação de configuração](getting-started/setup/setup-checklist.md)
+      + [Configurar protocolos para Marketo](getting-started/setup/configure-protocols-for-marketo.md)
    + Ganhos rápidos {#quick-wins}
       + [Configurar e adicionar uma pessoa](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Enviar um email](getting-started/quick-wins/send-an-email.md)
