@@ -2,16 +2,16 @@
 description: Alternar Switch - Documentos do Marketo - Documentação do produto
 title: Alternar Switch
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 917b74a9175707b9475a5d07eb116cde738f6f13
+source-git-commit: a7eeee24fb494c42a6992fc049311f63c6217b54
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '261'
+ht-degree: 1%
 
 ---
 
 # Alternar Switch {#toggle-switch}
 
-O Switch de alternância permite alternar entre a interface clássica do Marketo e a experiência de Marketo Engage de próxima geração. Está disponível em todas as áreas destacadas abaixo. A partir da versão de maio de 2022, a experiência da próxima geração será ativada por padrão.
+O Switch de alternância permite alternar entre a interface clássica do Marketo e a experiência de Marketo Engage de próxima geração. Está disponível em todas as áreas destacadas abaixo.
 
 >[!NOTE]
 >
@@ -33,132 +33,37 @@ Ative a opção de alternância para funções individuais ou todas as funções
 
    ![](assets/toggle-switch-3.png)
 
-## Exibição de lista da página inicial {#landing-page-list-view}
+## Ativar para recursos {#enable-for-features}
 
-A exibição de lista da próxima geração da Landing page oferece filtros de pesquisa e a capacidade de executar ações de Landing page em massa.
+Você tem a opção de ativar manualmente a interface da próxima geração da Marketo para recursos individuais ou todos os recursos disponíveis (atuais e futuros).
 
-1. No Marketo, selecione **Design Studio**.
+Em uma área que possui atualmente o Alternar (neste exemplo, estamos na Exibição de lista de email), basta clicar no botão de alternância na parte inferior direita da página.
 
-   ![](assets/toggle-switch-4.png)
-
-1. Selecionar **Páginas de aterrissagem**.
-
-   ![](assets/toggle-switch-5.png)
-
-1. Na parte inferior direita da página, clique no botão **Nova experiência** alternar.
-
-   ![](assets/toggle-switch-6.png)
+![](assets/toggle-switch-4.png)
 
 A nova experiência será carregada.
+
+![](assets/toggle-switch-5.png)
+
+Para habilitá-lo para _all_ , clique no ícone de engrenagem ao lado da chave de alternância.
+
+![](assets/toggle-switch-6.png)
+
+Selecionar **Habilitar para todos os recursos disponíveis** e clique em **OK**.
 
 ![](assets/toggle-switch-7.png)
 
-## Exibição de detalhes da página de aterrissagem {#landing-page-details-view}
+## Recursos disponíveis {#available-features}
 
-1. No Marketo, localize e selecione sua Landing page.
+Os seguintes recursos estão disponíveis na interface de próxima geração da Marketo (com novos recursos adicionados a cada versão):
 
-   ![](assets/toggle-switch-8.png)
-
-1. Na parte inferior direita da página, clique no botão **Nova experiência** alternar.
-
-   ![](assets/toggle-switch-9.png)
-
-A nova experiência será carregada.
-
-![](assets/toggle-switch-10.png)
-
-## Página Detalhes do Formulário {#form-details-page}
-
-1. No Marketo, localize e selecione o formulário.
-
-   ![](assets/toggle-switch-11.png)
-
-1. Na parte inferior direita da página, clique no botão **Nova experiência** alternar.
-
-   ![](assets/toggle-switch-12.png)
-
-A nova experiência será carregada.
-
-![](assets/toggle-switch-13.png)
-
-## Exibição de lista de formulários {#form-list-view}
-
-1. No Marketo, selecione **Design Studio**.
-
-   ![](assets/toggle-switch-14.png)
-
-1. Selecionar **Forms**.
-
-   ![](assets/toggle-switch-15.png)
-
-1. Na parte inferior direita da página, clique no botão **Nova experiência** alternar.
-
-   ![](assets/toggle-switch-16.png)
-
-A nova experiência será carregada.
-
-![](assets/toggle-switch-17.png)
-
-## Exibição de detalhes do modelo de email {#email-template-details-view}
-
-1. No Marketo, selecione **Design Studio**.
-
-   ![](assets/toggle-switch-18.png)
-
-1. Selecione o template de email desejado.
-
-   ![](assets/toggle-switch-19.png)
-
-1. Na parte inferior direita da página, clique no botão **Nova experiência** alternar.
-
-   ![](assets/toggle-switch-20.png)
-
-A nova experiência será carregada.
-
-![](assets/toggle-switch-21.png)
-
-## Exibição de detalhes do email {#email-details-view}
-
-1. No Marketo, localize e selecione seu email.
-
-   ![](assets/toggle-switch-22.png)
-
-1. Na parte inferior direita da página, clique no botão **Nova experiência** alternar.
-
-   ![](assets/toggle-switch-23.png)
-
-A nova experiência será carregada.
-
-![](assets/toggle-switch-24.png)
-
-## Exibição de lista de emails {#email-list-view}
-
-A exibição da lista de email da próxima geração oferece filtros de pesquisa e a capacidade de executar ações de email em massa.
-
-1. No Marketo, selecione **Design Studio**.
-
-   ![](assets/toggle-switch-25.png)
-
-1. Selecionar **Emails**.
-
-   ![](assets/toggle-switch-26.png)
-
-1. Na parte inferior direita da página, clique no botão **Nova experiência** alternar.
-
-   ![](assets/toggle-switch-27.png)
-
-A nova experiência será carregada.
-
-![](assets/toggle-switch-28.png)
-
-## Habilitar para todos os recursos {#enable-for-all-features}
-
-Você tem a opção de ativar manualmente a interface da próxima geração do Marketo para todos os recursos disponíveis, atuais e futuros.
-
-1. Em uma área que atualmente tem o Alternar Switch (neste exemplo, estamos em [Página Detalhes do Formulário](#form-details-page)), clique no ícone de engrenagem na parte inferior direita da página.
-
-   ![](assets/toggle-switch-second-last.png)
-
-1. Selecionar **Habilitar para todos os recursos disponíveis** e clique em **OK**.
-
-   ![](assets/toggle-switch-last.png)
+* Exibição de detalhes do email
+* Exibição de lista de emails
+* Exibição de detalhes do modelo de email
+* Exibição do painel Teste de email
+* Exibição de detalhes do formulário
+* Exibição de lista de formulários
+* Página de detalhes de imagens e arquivos
+* Exibição de detalhes da página de aterrissagem
+* Exibição de lista da página inicial
+* Exibição de detalhes do trecho
