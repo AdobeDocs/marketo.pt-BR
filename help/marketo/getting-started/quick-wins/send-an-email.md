@@ -3,7 +3,7 @@ unique-page-id: 2359410
 description: Enviar um email - Documentos do Marketo - Documentação do produto
 title: Enviar um email
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: b084acfdc58448e01fa6e19a03e6c3e1ea70a97b
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 1%
@@ -22,11 +22,11 @@ ht-degree: 1%
 
 1. Vá para o **Atividades de marketing** área.
 
-   ![](assets/one-1.png)
+   ![](assets/send-an-email-1.png)
 
 1. Selecione seu **Aprendizagem** pasta. Clique no botão **Novo** e selecione **Novo programa**.
 
-   ![](assets/two-1.png)
+   ![](assets/send-an-email-2.png)
 
 1. Insira um **Nome** e selecione **Email** para **Tipo de programa.**
 
@@ -34,29 +34,29 @@ ht-degree: 1%
    >
    >Adicione suas iniciais ao final do nome do programa para torná-lo exclusivo.
 
-   ![](assets/three.png)
+   ![](assets/send-an-email-3.png)
 
 1. Em **Canal**, selecione **Envio de email** e clique em **Criar**.
 
-   ![](assets/image2015-3-2-16-3a25-3a18.png)
+   ![](assets/send-an-email-4.png)
 
 ## Definir o público-alvo {#define-your-audience}
 
 1. Clique em **Editar Lista Inteligente** no bloco Público-alvo .
 
-   ![](assets/five.png)
+   ![](assets/send-an-email-5.png)
 
 1. Localize e arraste o filtro Endereço de email para a tela.
 
-   ![](assets/six.png)
+   ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >Use **Pesquisar** na parte superior da lista Filtros para encontrar o filtro mais facilmente.
+   >Use o **Pesquisar** para encontrar filtros mais facilmente.
 
 1. Localize e selecione seu endereço de email.
 
-   ![](assets/seven-1.png)
+   ![](assets/send-an-email-7.png)
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ ht-degree: 1%
 
 1. Volte para a guia do programa principal e clique no ícone de atualização para **Pessoa**.
 
-   ![](assets/refresh-icon.png)
+   ![](assets/send-an-email-8.png)
 
    Você deve ver a contagem de pessoas aumentar para 1. É você!
 
@@ -76,15 +76,15 @@ ht-degree: 1%
 
 1. Em Bloco de email, clique em **Novo email**.
 
-   ![](assets/image2014-9-8-15-3a10-3a47.png)
+   ![](assets/send-an-email-9.png)
 
 1. Insira um **Nome**, selecione um **Modelo** e clique em **Criar**.
 
-   ![](assets/ten-1.png)
+   ![](assets/send-an-email-10.png)
 
 1. A janela do editor de email será aberta. Insira um assunto com 50 caracteres ou menos (recomendado).
 
-   ![](assets/eleven.png)
+   ![](assets/send-an-email-11.png)
 
    >[!NOTE]
    >
@@ -92,19 +92,15 @@ ht-degree: 1%
 
 1. Selecione a área que deseja editar, clique no ícone de engrenagem à direita e selecione **Editar** (também é possível clicar duas vezes na seção editável para editar).
 
-   ![](assets/twelve.png)
+   ![](assets/send-an-email-12.png)
 
 1. Insira o conteúdo desejado e clique em **Salvar**.
 
-   ![](assets/thirteen.png)
+   ![](assets/send-an-email-13.png)
 
-1. As alterações serão salvas automaticamente. Feche a guia/janela do editor.
+1. Clique no botão **Ações de email** e selecione **Aprovar e fechar**.
 
-   ![](assets/fourteen.png)
-
-1. Clique no botão **Ações de email** e selecione **Aprovar**.
-
-   ![](assets/fifteen.png)
+   ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
@@ -112,15 +108,19 @@ ht-degree: 1%
 
 1. Selecione o Programa de email na árvore esquerda.
 
-   ![](assets/sixteen.png)
+   ![](assets/send-an-email-15.png)
 
 1. No bloco Agendar , defina o dia de lançamento do email como **Hoje.**
 
-   ![](assets/image2014-9-8-15-3a13-3a11.png)
+   ![](assets/send-an-email-16.png)
+
+   >[!NOTE]
+   >
+   >Saiba mais sobre [Fuso Horário do Recipient](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target=&quot;_blank&quot;} e [Início da Cabeça](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target=&quot;_blank&quot;}.
 
 1. Selecione um horário que tenha pelo menos 15 minutos no futuro.
 
-   ![](assets/image2014-9-8-15-3a13-3a25.png)
+   ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
@@ -128,7 +128,7 @@ ht-degree: 1%
 
 1. Clique em **Aprovar programa** sob o bloco Approval e você acabou!
 
-   ![](assets/image2014-9-8-15-3a13-3a34.png)
+   ![](assets/send-an-email-18.png)
 
 Você deve receber o email logo após o dia/hora agendada.
 
