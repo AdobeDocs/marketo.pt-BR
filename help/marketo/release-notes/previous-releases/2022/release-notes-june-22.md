@@ -1,9 +1,10 @@
 ---
 description: Notas de versão - junho de 2022 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - junho de 2022
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -75,4 +76,4 @@ Os seguintes recursos começarão a ser lançados em **24 de junho de 2022**, co
 
 **_Webinar da versão do produto_**
 
-Junte-se a nós em 24 de agosto de 2022, às 9:00 PT / 12:00 PM ET para um [webinário ao vivo](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} hospedado pela nossa equipe de produtos, onde você pode aprender a usar todas as inovações de produtos mais recentes.
+[Webinário de versão do Marketo Engage de junho e agosto de 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
