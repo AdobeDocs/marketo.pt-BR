@@ -2,7 +2,7 @@
 description: Configuração - Documentação do Marketo - Documentação do produto
 title: Configuração
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 1%
@@ -23,7 +23,7 @@ Há várias opções de personalização diferentes.
 
 ## Guia Estilo {#style-tab}
 
-**Estilo**
+### Estilo {#style}
 
 É aqui que você definirá a aparência do chatbot onde suas Caixas de Diálogo serão exibidas, incluindo: cores, fontes, posicionamento do widget de bot e o nome/avatar do chatbot.
 
@@ -35,7 +35,7 @@ A Âncora permite que o visitante do site abra/feche a caixa de diálogo. Você 
 
 ![](assets/configuration-4.png)
 
-**Configurações do agente**
+### Configurações do agente {#agent-settings}
 
 Em Configurações do agente, você pode adicionar um rótulo à sua caixa de diálogo (por exemplo: &quot;Adobe Bot&quot;) que aparecerá na parte superior. Você também pode determinar o atraso da resposta (em segundos) e alterar o avatar do chat. Para fazer upload de sua própria imagem de avatar, clique no link **+** botão.
 

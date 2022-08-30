@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Os seguintes recursos começarão a ser lançados em **26 de agosto de 2022**, c
 
 * **[Ativar/desativar todas as caixas de diálogo publicadas ao mesmo tempo para o bate-papo dinâmico](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Ative/desative globalmente todas as caixas de diálogo publicadas de uma só vez na página Configuração com a tecla de um botão.
 
-* **Avatares personalizados para bate-papo dinâmico**: Faça upload de um avatar de chatbot personalizado para que ele possa ser personalizado para sua marca.
+* **[Avatares personalizados para bate-papo dinâmico](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**: Faça upload de um avatar de chatbot personalizado para que ele possa ser personalizado para sua marca.
 
 * **Transcrições de chat para bate-papo dinâmico**: Visualize transcrições de bate-papo para cada conversa para obter informações mais detalhadas sobre o que cada visitante da Web está interessado.
 
@@ -33,7 +33,7 @@ Os seguintes recursos começarão a ser lançados em **26 de agosto de 2022**, c
 
 * **Exibir Hierarquia de Pasta de Destino na Caixa de Diálogo Mover**: Visualizar a hierarquia de pastas para cada pasta facilita a movimentação de ativos e reduz a probabilidade de colocá-los na pasta errada.
 
-* **Telas atualizadas na experiência de próxima geração**: Estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração que oferecem melhorias atualizadas de design e usabilidade acessíveis por meio do switch de alternância:
+* **[Telas atualizadas na experiência de próxima geração](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: Estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração que oferecem melhorias atualizadas de design e usabilidade acessíveis por meio do switch de alternância:
 
    * Detalhes do trecho
    * Detalhes de &quot;Imagens e Arquivos&quot;
@@ -44,7 +44,7 @@ Os seguintes recursos começarão a ser lançados em **26 de agosto de 2022**, c
 
 ## Automação de experiência {#experience-automation}
 
-* **Etapas de fluxo de autoatendimento - Melhorias na importação de programas**: Suporte aprimorado para importar programas com etapas de fluxo personalizadas, onde agora é possível usar várias instâncias do mesmo provedor de serviços e importar programas que tenham etapas de fluxo compatíveis com esses provedores de serviços.
+* **[Etapas de fluxo de autoatendimento - Melhorias na importação de programas](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**: Suporte aprimorado para importar programas com etapas de fluxo personalizadas, onde agora é possível usar várias instâncias do mesmo provedor de serviços e importar programas que tenham etapas de fluxo compatíveis com esses provedores de serviços.
 
 * **Munchkin - Rastreamento de link expandido**: Estender suporte para rastrear `tel` e `mailto` links com o Munchkin para rastrear um conjunto expandido de comportamentos da Web.
 
@@ -68,7 +68,7 @@ Os seguintes recursos começarão a ser lançados em **26 de agosto de 2022**, c
 
 ![(estrela)](assets/yellow-star.png)
 
-* **Integração de informações de vendas com o bate-papo dinâmico**: Exiba atividades do Bate-papo dinâmico no painel Sales Insight e aproveite esse novo ponto de dados em seu esforço de prospecção.
+* **[Integração de informações de vendas com o bate-papo dinâmico](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Exiba atividades do Bate-papo dinâmico no painel Sales Insight e aproveite esse novo ponto de dados em seu esforço de prospecção.
 
 ## Anúncios {#announcements}
 
