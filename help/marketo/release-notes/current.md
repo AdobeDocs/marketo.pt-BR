@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Os seguintes recursos começarão a ser lançados em **26 de agosto de 2022**, c
 
 ## Orquestração entre canais {#cross-channel-orchestration}
 
-* **Ativar/desativar todas as caixas de diálogo publicadas ao mesmo tempo para o bate-papo dinâmico**: Ative/desative globalmente todas as caixas de diálogo publicadas de uma só vez na página Configuração com a tecla de um botão.
+* **[Ativar/desativar todas as caixas de diálogo publicadas ao mesmo tempo para o bate-papo dinâmico](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Ative/desative globalmente todas as caixas de diálogo publicadas de uma só vez na página Configuração com a tecla de um botão.
 
 * **Avatares personalizados para bate-papo dinâmico**: Faça upload de um avatar de chatbot personalizado para que ele possa ser personalizado para sua marca.
 
