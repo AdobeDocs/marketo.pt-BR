@@ -3,9 +3,9 @@ unique-page-id: 2359416
 description: Resposta automática de email - Documentos do Marketo - Documentação do produto
 title: Resposta automática por e-mail
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 1c350eb17992e45b9e0f825e1abd5c86555d0a0a
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '385'
 ht-degree: 23%
 
 ---
@@ -24,91 +24,87 @@ ht-degree: 23%
 
 1. Vá para a área Marketing Activities .
 
-   ![](assets/one-2.png)
+   ![](assets/email-auto-response-1.png)
 
-1. Selecione Meu programa no menu esquerdo, clique no menu suspenso Novo e selecione Novo ativo local.
+1. Selecione o programa no menu esquerdo e clique no botão **Novo** e selecione **Novo ativo local**.
 
-   ![](assets/two-3.png)
+   ![](assets/email-auto-response-2.png)
 
-1. Clicar em e-mail.
+1. Selecionar **Email**.
 
-   ![](assets/three-2.png)
+   ![](assets/email-auto-response-3.png)
 
-1. Nomeie seu email como &quot;Email de resposta automática&quot;, escolha um modelo e clique em Criar.
+1. Nomeie seu email como &quot;Email de resposta automática&quot;, escolha um modelo e clique em **Criar**.
 
-   ![](assets/four-1.png)
+   ![](assets/email-auto-response-4.png)
 
    Um editor de e-mail será aberto em uma nova janela ou guia. Se as janelas pop-ups estiverem bloqueadas, clique em **Editar rascunho** na página de resumo do ativo para acessar o email.
 
 1. Insira uma linha de assunto e clique duas vezes na área editável do email.
 
-   ![](assets/five-2.png)
+   ![](assets/email-auto-response-5.png)
 
    _Um editor de rich text será aberto em cima do editor de e-mail._
 
 1. Selecione o conteúdo do e-mail existente.
 
-   ![](assets/six-2.png)
+   ![](assets/email-auto-response-6.png)
 
-1. Digite o conteúdo do e-mail. e clique em Salvar.
+1. Digite o conteúdo do e-mail. e clique em **Salvar**.
 
-   ![](assets/seven-2.png)
+   ![](assets/email-auto-response-7.png)
 
-1. Suas alterações são salvas automaticamente. Feche a guia/janela do editor de email.
+1. Clique no botão **Ações de email** e selecione **Aprovar e fechar**.
 
-   ![](assets/eight-1.png)
-
-1. Selecione o novo email. Em Ações de email , clique em Aprovar .
-
-   ![](assets/image2014-9-24-11-3a55-3a16.png)
+   ![](assets/email-auto-response-8.png)
 
 ## Etapa 2: &#x200B;criar uma campanha inteligente {#step-create-a-smart-campaign}
 
-1. Clique com o botão direito do mouse **Meu programa** e clique em **Nova Campanha Inteligente**.
+1. Selecione o programa, clique no botão **Novo** e selecione **Nova Campanha Inteligente**.
 
-   ![](assets/image2014-9-24-11-3a56-3a13.png)
+   ![](assets/email-auto-response-9.png)
 
 1. **Nome** crie a campanha inteligente &quot;Campanha de resposta automática&quot; e clique em **Criar**.
 
-   ![](assets/image2014-9-24-11-3a56-3a25.png)
+   ![](assets/email-auto-response-10.png)
 
 1. Vá para o **Lista inteligente** guia .
 
-   ![](assets/image2014-9-24-11-3a56-3a38.png)
+   ![](assets/email-auto-response-11.png)
 
    Estamos configurando essa campanha para ser executada sempre que uma pessoa preencher o formulário criado em [**Página de aterrissagem com um formulário**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}.
 
-1. Encontre e arraste a **Preenche Formulário** aciona a tela à esquerda.
+1. Encontre e arraste a **Preenche Formulário** aciona para a tela.
 
-   ![](assets/image2014-9-24-11-3a57-3a18.png)
+   ![](assets/email-auto-response-12.png)
 
-1. Selecionar **Meu formulário** no menu suspenso . Clique no botão **Fluxo** guia .
+1. Selecionar **Meu formulário** no menu suspenso . Em seguida, clique no botão **Fluxo** guia .
 
-   ![](assets/image2014-9-24-11-3a57-3a29.png)
+   ![](assets/email-auto-response-13.png)
 
 1. Arraste o **Enviar Email** fluxo de ação para a tela à esquerda.
 
-   ![](assets/image2014-9-24-11-3a57-3a41.png)
+   ![](assets/email-auto-response-14.png)
 
-1. Selecione seu **Email de resposta automática** e vá para o **Agendar** guia .
+1. Selecione seu **Email de resposta automática**. Em seguida, clique no botão **Agendar** guia .
 
-   ![](assets/image2014-9-24-11-3a57-3a53.png)
+   ![](assets/email-auto-response-15.png)
 
 1. Clique em **Editar**.
 
-   ![](assets/8.png)
+   ![](assets/email-auto-response-16.png)
 
-1. Selecionar **sempre** e clique em **Salvar**.
+1. Selecionar **Todas as vezes** e clique em **Salvar**.
 
-   ![](assets/9.png)
+   ![](assets/email-auto-response-17.png)
 
 1. Clique em **Ativar**.
 
-   ![](assets/10.png)
+   ![](assets/email-auto-response-18.png)
 
 1. Clique em **Ativar** na tela de confirmação.
 
-   ![](assets/11.png)
+   ![](assets/email-auto-response-19.png)
 
 >[!NOTE]
 >
@@ -116,19 +112,15 @@ ht-degree: 23%
 
 ## Etapa 3: preencher o formulário {#step-fill-out-the-form}
 
-1. Selecionar **Minha página**. Isso foi criado no [Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vitória rápida.
+1. Selecionar **Minha página** (isso foi criado no [Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} quick win) e clique em **Visualizar**.
 
-   ![](assets/image2014-9-24-12-3a0-3a8.png)
+   ![](assets/email-auto-response-20.png)
 
-1. Clique em **Exibir página aprovada**.
-
-   ![](assets/image2014-9-24-12-3a0-3a18.png)
-
-   Sua página &quot;Avaliação gratuita&quot; será aberta em uma nova guia.
+   _Sua página &quot;Avaliação gratuita&quot; será aberta em uma nova guia._
 
 1. Preencha o formulário com seu nome, sobrenome e endereço de email e clique em **Enviar**.
 
-   ![](assets/image2014-9-24-12-3a0-3a28.png)
+   ![](assets/email-auto-response-21.png)
 
 >[!NOTE]
 >
