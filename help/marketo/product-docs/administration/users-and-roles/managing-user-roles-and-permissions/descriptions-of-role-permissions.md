@@ -3,10 +3,10 @@ unique-page-id: 6848747
 description: Descrições de permissões de função - Documentos do Marketo - Documentação do produto
 title: Descrições das permissões de função
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 1f5a6ab994ccb81ff32f39ac32eef6a37aeab192
 workflow-type: tm+mt
-source-wordcount: '1146'
-ht-degree: 20%
+source-wordcount: '1143'
+ht-degree: 19%
 
 ---
 
@@ -162,7 +162,6 @@ Visualize o banco de dados, bem como visualize e edite listas inteligentes/está
    * Excluir segmentação
    * Editar segmentação
 
-* Importação de lista avançada
 * Excluir pessoa
 * Excluir lista
 * Editar Pessoa - Impede a edição manual e a execução de etapas de fluxo único; você ainda pode editar pessoas executando campanhas contra elas
