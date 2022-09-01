@@ -3,7 +3,7 @@ unique-page-id: 2359418
 description: Importar uma lista de pessoas - Documentos do Marketo - Documentação do produto
 title: Importar uma lista de pessoas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 14%
@@ -24,7 +24,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 1. Para iniciar, baixe nosso arquivo de planilha de práticas ([**tradeshow-ants.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) para seu computador.
 
-   ![](assets/image2014-9-24-12-3a5-3a0.png)
+   ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 1. Adicione seu próprio nome, sobrenome, endereço de email real (para que você possa receber os emails de preparação que enviará na próxima missão) e o cargo. Salve o arquivo em seu computador.
 
-   ![](assets/image2014-9-24-12-3a5-3a30.png)
+   ![](assets/import-a-list-of-people-2.png)
 
    >[!CAUTION]
    >
@@ -46,19 +46,19 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 1. Vá para o **Atividades de marketing** área.
 
-   ![](assets/ma-2.png)
+   ![](assets/import-a-list-of-people-3.png)
 
 1. Selecione seu **Aprendizagem** , em seguida, em **Novo** click **Novo programa**.
 
-   ![](assets/image2014-9-24-12-3a21-3a13.png)
+   ![](assets/import-a-list-of-people-4.png)
 
 1. **Nome** o programa &quot;Meu programa de feiras&quot; e selecione &quot;Evento&quot; para o **Tipo de programa**.
 
-   ![](assets/image2014-9-24-12-3a21-3a25.png)
+   ![](assets/import-a-list-of-people-5.png)
 
 1. Selecionar **Dosagem** para **Canal** e clique em **Criar**.
 
-   ![](assets/image2014-9-24-12-3a21-3a39.png)
+   ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
@@ -68,19 +68,19 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 1. Em **Meu programa de shows de vendas**, clique em **Novo** e selecione **Novo ativo local**.
 
-   ![](assets/seven-3.png)
+   ![](assets/import-a-list-of-people-7.png)
 
-1. Clique em **Lista**.
+1. Selecionar **Lista**.
 
-   ![](assets/image2014-9-24-12-3a22-3a56.png)
+   ![](assets/import-a-list-of-people-8.png)
 
 1. **Nome** na lista &quot;Participantes de shows de vendas&quot; e clique em **Criar**.
 
-   ![](assets/image2014-9-24-12-3a23-3a9.png)
+   ![](assets/import-a-list-of-people-9.png)
 
 1. Em seu **Participantes de shows de vendas** listar, clique em **Ações de lista** e selecione **Importar Lista**.
 
-   ![](assets/ten-2.png)
+   ![](assets/import-a-list-of-people-10.png)
 
    >[!CAUTION]
    >
@@ -92,7 +92,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 1. **Procurar** para **tradeshow-ants.csv** arquivo de planilha no seu computador e clique em **Próximo**.
 
-   ![](assets/eleven-2.png)
+   ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
@@ -105,7 +105,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 1. Mapeie os campos da Coluna de lista para os respectivos campos do Marketo e clique em **Próximo**.
 
-   ![](assets/image2014-9-24-12-3a24-3a49.png)
+   ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
@@ -117,15 +117,15 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
 1. Selecionar **Meu programa de shows de vendas** para **Programa de aquisição**, depois clique em **Importar**.
 
-   ![](assets/image2014-9-24-12-3a25-3a1.png)
+   ![](assets/import-a-list-of-people-13.png)
 
 1. Aguarde a importação das pessoas e feche a janela pop-up de progresso da importação.
 
-   ![](assets/image2014-9-24-12-3a25-3a13.png)
+   ![](assets/import-a-list-of-people-14.png)
 
 1. Voltar a **Meu programa de shows de vendas**, clique no botão **Membros** guia . Você verá todas as pessoas que acabou de importar.
 
-   ![](assets/fifteen-1.png)
+   ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
