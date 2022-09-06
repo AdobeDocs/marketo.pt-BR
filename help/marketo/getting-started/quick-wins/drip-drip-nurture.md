@@ -3,10 +3,10 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Documentação da Marketo - Documentação do produto
 title: Promoção gota a gota
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 34%
+source-wordcount: '462'
+ht-degree: 26%
 
 ---
 
@@ -26,19 +26,19 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado no M
 
 1. Vá para o **Atividades de marketing** área.
 
-   ![](assets/one-3.png)
+   ![](assets/drip-drip-nurture-1.png)
 
 1. Selecione o **Aprendizagem** clique no botão **Novo** e selecione **Novo programa**.
 
-   ![](assets/two-4.png)
+   ![](assets/drip-drip-nurture-2.png)
 
 1. Insira um **Nome** e selecione **Envolvimento** para **Tipo de programa**.
 
-   ![](assets/three-3.png)
+   ![](assets/drip-drip-nurture-3.png)
 
 1. Certifique-se de que o **Canal** é **Enfermeiro** e clique em **Criar**.
 
-   ![](assets/four-2.png)
+   ![](assets/drip-drip-nurture-4.png)
 
    Você acaba de criar um programa de envolvimento.
 
@@ -46,15 +46,15 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado no M
 
 1. Selecione seu programa de envolvimento e clique em **Novo** e selecione **Novo ativo local**.
 
-   ![](assets/five-3.png)
+   ![](assets/drip-drip-nurture-5.png)
 
 1. Clique em **Email**.
 
-   ![](assets/six-3.png)
+   ![](assets/drip-drip-nurture-6.png)
 
 1. Digite um **Nome**, selecione o **Modelo** que deseja usar e clique em **Criar**.
 
-   ![](assets/seven-4.png)
+   ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
@@ -62,53 +62,53 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado no M
 
 1. Insira um assunto.
 
-   ![](assets/eight-2.png)
+   ![](assets/drip-drip-nurture-8.png)
 
 1. Selecione a área do email que deseja editar, clique no ícone de engrenagem e selecione **Editar**.
 
-   ![](assets/nine-1.png)
+   ![](assets/drip-drip-nurture-9.png)
 
 1. Edite seu email e clique em **Salvar**.
 
-   ![](assets/ten-3.png)
+   ![](assets/drip-drip-nurture-10.png)
 
-1. Feche a guia/janela do editor de email.
+1. Em **Ações de email**, clique em **Aprovar e fechar**.
 
-   ![](assets/eleven-3.png)
-
-1. Em **Ações de email**, clique em **Aprovar**.
-
-   ![](assets/twelve-2.png)
+   ![](assets/drip-drip-nurture-11.png)
 
    >[!NOTE]
    >
-   >Não esqueça: se não aprovar seus e-mails, você não poderá ativá-los depois.
+   >Lembre-se de aprovar seus emails ou você não poderá ativá-los posteriormente.
 
-1. Agora crie outro e-mail repetindo as ações da Etapa 2.
+1. Agora crie outro email repetindo as ações das Etapas 2 a 7.
 
-   ![](assets/thirteen-2.png)
+   ![](assets/drip-drip-nurture-12.png)
 
 ## Etapa 3: adicionar conteúdo a seu fluxo {#step-add-content-to-your-stream}
 
-1. Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento usando os e-mails que criou.
+Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento usando os e-mails que criou.
 
-1. Selecione seu programa de envolvimento e clique em **Fluxos** guia .
+1. Selecione seu programa de envolvimento e clique no botão **Fluxos** guia .
 
-   ![](assets/fourteen-2.png)
+   ![](assets/drip-drip-nurture-13.png)
 
-1. Arraste os dois e-mails que criou para a tela da direita.
+1. Clique no botão **Adicionar conteúdo** no fluxo.
 
-   ![](assets/fifteen-2.png)
+   ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >Também é possível usar a variável **Adicionar conteúdo** botão ou fluxo **+** ícone .
+   >Também é possível usar a variável **+** ícone .
+
+1. Deixe o tipo &quot;Email&quot; selecionado. Localize e selecione os dois emails criados.
+
+   ![](assets/drip-drip-nurture-15.png)
 
 ## Etapa 4: ativar o conteúdo do fluxo {#step-activate-stream-content}
 
 1. Ative todo o conteúdo de uma só vez clicando no ícone de engrenagem do fluxo e clique em **Ativar todo o conteúdo**.
 
-   ![](assets/image2014-9-24-12-3a48-3a28.png)
+   ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
@@ -120,11 +120,11 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado no M
 
 1. Clique em **Definir cadência de fluxo**.
 
-   ![](assets/seventeen.png)
+   ![](assets/drip-drip-nurture-17.png)
 
 1. Edite as configurações para corresponder ao cronograma desejado e clique em **Salvar**.
 
-   ![](assets/image2014-9-24-12-3a49-3a5.png)
+   ![](assets/drip-drip-nurture-18.png)
 
    Seu programa de envolvimento está pronto. Agora vamos adicionar uma pessoa de teste ao seu programa.
 
@@ -136,23 +136,23 @@ Você pode criar facilmente um sistema de criação avançado e sofisticado no M
 
 1. Vá para o **Banco de dados** área.
 
-   ![](assets/nineteen-1.png)
+   ![](assets/drip-drip-nurture-19.png)
 
 1. Procure sua pessoa de teste.
 
-   ![](assets/twenty-1.png)
+   ![](assets/drip-drip-nurture-20.png)
 
    >[!NOTE]
    >
    >Certifique-se de que a pessoa de teste tenha um endereço de email válido para que você possa confirmar o recebimento de emails ao testar.
 
-1. Clique com o botão direito do mouse na pessoa e depois clique em Programas e Adicionar ao programa de envolvimento.
+1. Clique com o botão direito do mouse na pessoa e depois clique em **Programas** e **Adicionar ao programa de envolvimento**.
 
-   ![](assets/twenty-one.png)
+   ![](assets/drip-drip-nurture-21.png)
 
 1. Selecione seu **Programa** e **Fluxo**, depois clique em **Executar agora**.
 
-   ![](assets/twenty-two.png)
+   ![](assets/drip-drip-nurture-22.png)
 
 1. Missão cumprida!
 

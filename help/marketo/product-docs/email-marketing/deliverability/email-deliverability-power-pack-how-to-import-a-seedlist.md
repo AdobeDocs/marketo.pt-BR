@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Deliverability de email Power Pack - Como importar uma lista de propagação - Documentos do Marketo - Documentação do produto
 title: Pacote de recursos para entrega de emails - Como importar uma lista de propagação
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ Uma lista de propagação é uma lista de contas de email em vários provedores 
 
 ## Importar uma lista de propagação {#import-a-seedlist}
 
-1. Ir para **Ferramentas de capacidade de entrega**.
+1. Em Minha Marketo, selecione **Ferramentas de capacidade de entrega**.
 
-   ![](assets/one-1.png)
+   ![](assets/email-deliverability-power-pack-1.png)
 
 1. Clique em **Informante da Caixa de Entrada**.
 
