@@ -3,14 +3,18 @@ unique-page-id: 10096675
 description: Criar campanhas filhas e ativos locais - Documentos do Marketo - Documentação do produto
 title: Criar campanhas filhas e ativos locais
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
 # Criar campanhas filhas e ativos locais {#create-child-campaigns-and-local-assets}
+
+>[!IMPORTANT]
+>
+>A partir de agosto de 2022, o ON24 não será mais compatível com novas integrações do Marketo. As informações neste artigo se aplicam apenas aos usuários existentes.
 
 Crie campanhas filho e ativos locais usando o Design Studio.
 
@@ -20,7 +24,7 @@ Para garantir que as pessoas estejam registradas corretamente com ON24, os segui
 
 * Nome
 * Sobrenome
-* Endereço de e-mail
+* Endereço de email
 
 Também é possível mover os seguintes campos para ON24:
 

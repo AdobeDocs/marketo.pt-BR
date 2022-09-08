@@ -1,51 +1,51 @@
 ---
 unique-page-id: 10096656
-description: Crie um Evento com o adaptador Marketo ON24 - Documentos do Marketing Cloud - Documentação do produto
-title: Crie um Evento com o adaptador Marketo ON24
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Crie um evento com o adaptador Marketo ON24 - Documentos Marketo - Documentação do produto
+title: Crie um evento com o adaptador Marketo ON24
+exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
+# Crie um evento com o adaptador Marketo ON24 {#create-an-event-with-the-marketo-on-adapter}
 
-# Crie um Evento com o adaptador Marketo ON24 {#create-an-event-with-the-marketo-on-adapter}
+>[!IMPORTANT]
+>
+>A partir de agosto de 2022, o ON24 não será mais compatível com novas integrações do Marketo. As informações neste artigo se aplicam apenas aos usuários existentes.
 
-## Antes de começar {#before-you-begin}
+Familiarize-se com os blocos de construção e a sequência recomendada para criar Eventos no Marketo. Você também deve ter conhecimento prático dos seguintes conceitos do Marketo:
 
-Familiarize-se com os blocos componentes e a sequência recomendada para a criação de Eventos no Marketo. Você também deve ter conhecimento prático dos seguintes conceitos de marketing:
-
-* [Os ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) programas de marketing, bem como os Eventos, e as diferenças entre eles
+* [Programas do Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) bem como Eventos e as diferenças entre eles
 * [Canais](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
 * [Ativos locais](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
-* [Campanhas secundárias ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md) e status  [do Programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
+* [Campanhas filhas](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md) e [Status do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
 
 >[!NOTE]
 >
->Consulte a [documentação da API de marketing](https://developers.marketo.com/documentation/rest/) para obter mais informações sobre as APIs de marketing.
+>Consulte a [Documentação da API do Marketo](https://developers.marketo.com/documentation/rest/) para obter mais informações sobre APIs do Marketo.
 
 ## Pré-requisitos {#prerequisites}
 
-Os seguintes itens são necessários para usar a integração com o Marketing ON24:
+Os seguintes itens são necessários para usar a integração do Marketo ON24:
 
-* **Subscrição em webcasts**  ON24 - Se você não tiver uma subscrição atual, entre em contato diretamente com a ON24. **NOTA**: ON24 Hosted Edition é necessário. Não é necessário o gerenciamento de Eventos ON24.
+* **Assinatura de webcasts ON24** - Se você não tiver uma assinatura atual, entre em contato diretamente com o ON24. **OBSERVAÇÃO**: A ON24 Hosted Edition é necessária. Não é necessário o ON24 Event Management.
 
-* **Direitos de administrador para ON24**  - será necessário usar esse conector e criar convidados no sistema ON24.
-* **Credenciais**  de conexão ON24 - É necessário inserir essas informações no Marketo para habilitar a integração: Nome de usuário, Senha, ID do cliente e Chave do cliente. Entre em contato com seu gerente de conta ON24 ou com o suporte ON24 se precisar de ajuda com suas credenciais.
-* **Formulário**  de registro - Use um formulário Marketo ou um formulário não Marketo junto com a API adequada para garantir que os dados de registro e as informações do registrante sejam passados para o Marketo.
-* **Campanha**  filho do registro - Uma campanha filho do registro no Evento do Marketing deve ser criada e configurada corretamente para que a integração do Parceiro do Evento funcione.
+* **Direitos de administrador para ON24** - Você precisará disso para usar esse conector e criar convidados no sistema ON24.
+* **Credenciais de ligação ON24** - É necessário inserir essas informações no Marketo para habilitar a integração: Nome de usuário, senha, ID do cliente e chave do cliente. Entre em contato com o Gerente de Conta ON24 ou com o Suporte ON24 se precisar de ajuda com suas credenciais.
+* **Formulário de registro** - Use um formulário Marketo ou um formulário não Marketo junto com a API adequada para garantir que os dados de registro e as informações do registrando sejam passadas para o Marketo.
+* **Campanha filho de registro** - Uma campanha filho de registro no Evento do Marketo deve ser criada e configurada corretamente para que a integração do Parceiro de evento funcione.
 
-## Fluxo de Processo {#process-flow}
+## Fluxo do processo {#process-flow}
 
-Siga estas etapas para criar um Evento com o adaptador Marketo On24:
+Siga estas etapas para criar um evento com o adaptador Marketo On24:
 
-1. [Insira suas credenciais ON24 no Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
-1. [Criar seu Evento de Webinar no ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-1. [Configure as configurações do Evento e sincronize o marketing com seu webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
-1. [Criar Campanhas secundárias e ativos locais](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
-1. [Teste sua integração de Evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
-1. [Exemplo de integração de Evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
-1. [Entendendo os status dos Programas do webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
-1. [Atualizações de registro do Evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
+1. [Criar seu evento de webinar no ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+1. [Configurar configurações do evento e sincronizar o Marketo com seu webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
+1. [Criar campanhas filhas e ativos locais](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
+1. [Teste sua integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
+1. [Exemplo de integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+1. [Noções básicas sobre os status do programa do webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+1. [Atualizações do registro de eventos ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
