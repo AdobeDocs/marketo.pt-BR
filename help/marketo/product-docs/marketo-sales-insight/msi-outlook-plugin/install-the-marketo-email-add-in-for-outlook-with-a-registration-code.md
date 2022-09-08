@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Instale o complemento de email do Marketo para Outlook com um código de registro - Marketo Docs - Documentação do produto
 title: Instalar o Suplemento de Email do Marketo para Outlook com um Código de Registro
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
+source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '470'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ Caso não tenha recebido um e-mail de convite, peça ao administrador da Marketo
 
 >[!IMPORTANT]
 >
->A instalação não é suportada em PCs onde a pasta Usuário do Windows contém caracteres que não são em inglês. Esta pasta é gerada automaticamente pelo Windows em <System Root>\Usuários\ com base no nome de usuário do Windows e pode conter caracteres que não sejam em inglês se o nome de usuário do Windows for um nome que não seja em inglês. Entre em contato com a equipe de TI para verificar se você está tendo problemas de instalação.
+>A instalação não é suportada em PCs onde a pasta Usuário do Windows contém caracteres que não são em inglês. Esta pasta é gerada automaticamente pelo Windows em `<System Root>\Users\` com base no nome de usuário do Windows e pode conter caracteres que não sejam em inglês, se o nome de usuário do Windows for um nome diferente do inglês. Entre em contato com a equipe de TI para verificar se você está tendo problemas de instalação.
 
 >[!NOTE]
 >
