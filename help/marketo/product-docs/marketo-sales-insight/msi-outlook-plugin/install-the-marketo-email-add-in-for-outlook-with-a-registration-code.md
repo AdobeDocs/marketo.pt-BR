@@ -1,33 +1,36 @@
 ---
 unique-page-id: 2949711
-description: Instale o complemento Marketo Email para Outlook com um código de registro - Documentos do Marketo - Documentação do produto
-title: Instalar o complemento Marketo Email para Outlook com um código de registro
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+description: Instale o complemento de email do Marketo para Outlook com um código de registro - Marketo Docs - Documentação do produto
+title: Instalar o Suplemento de Email do Marketo para Outlook com um Código de Registro
+exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
+source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 0%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
-
-# Instale o Suplemento de Email do Marketo para Outlook com um Código de Registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Instalar o Suplemento de Email do Marketo para Outlook com um Código de Registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Se os usuários conseguirem acessar as configurações do administrador em seus laptops, você poderá enviar um código de registro diretamente para eles.
 
-Caso não tenha recebido um email de convite, peça ao administrador do Marketo para convidá-lo.
+Caso não tenha recebido um e-mail de convite, peça ao administrador da Marketo para convidá-lo.
 
 >[!PREREQUISITES]
 >
->Você deve ter [emitido uma Licença do complemento de email do Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>Você deve ser [emitida uma Licença do Marketo Email Add-in](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+
+>[!IMPORTANT]
+>
+>A instalação não é suportada em PCs onde a pasta Usuário do Windows contém caracteres que não são em inglês. Esta pasta é gerada automaticamente pelo Windows em <System Root>\Usuários\ com base no nome de usuário do Windows e pode conter caracteres que não sejam em inglês se o nome de usuário do Windows for um nome que não seja em inglês. Entre em contato com a equipe de TI para verificar se você está tendo problemas de instalação.
 
 >[!NOTE]
 >
->A partir de 1/1/20, a versão mais recente do plug-in do Outlook não será mais compatível com o modo offline. Isso entrará em vigor após a instalação/atualização em ou após 10/1.
+>Em 1/1/20, a versão mais recente do plug-in do Outlook parou de oferecer suporte ao modo offline.
 
 ## Baixar instalador {#download-installer}
 
-1. Identifique a sua [versão do Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identifique o [Versão do Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 
 1. Clique no link para baixar o instalador apropriado para sua versão do Microsoft Outlook.
 
@@ -70,11 +73,11 @@ Caso não tenha recebido um email de convite, peça ao administrador do Marketo 
    >
    >Se receber um aviso de segurança, não se preocupe! Basta clicar em **Executar**.
 
-1. Clique em **Next**.
+1. Clique em **Próximo**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Preencha **Nome**, **Sobrenome**, **Endereço de email**, em seguida, copie e cole o **Código de registro** do email no formulário e clique em **Próximo**.
+1. Preencha o **Nome**, **Sobrenome**, **Endereço de email**, em seguida, copie e cole o **Código de registro** do email para o formulário e clique em **Próximo**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -82,32 +85,32 @@ Caso não tenha recebido um email de convite, peça ao administrador do Marketo 
    >
    >Se a instalação falhar, verifique com seu departamento de TI para garantir que o tráfego HTTPS não esteja bloqueado. O instalador requer que o tráfego HTTPS seja aberto.
 
-1. Clique em **Next** para instalar no local padrão.
+1. Clique em **Próximo** para instalar no local padrão.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Clique em **Next**.
+1. Clique em **Próximo**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Se você receber um prompt de segurança sobre um editor desconhecido, clique em **Yes**.
+   >Se você receber um prompt de segurança sobre um editor desconhecido, clique em **Sim**.
 
-1. A instalação agora está concluída, clique em **Fechar**.
+1. A instalação está concluída agora, clique em **Fechar**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Agora, abra o Microsoft Outlook e veja os botões Marketo .
+1. Agora, abra o Microsoft Outlook e veja os botões do Marketo.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
-   Excelente! Agora os botões do Marketo estão em um lugar melhor.
+   Excelente! Agora os botões Marketo estão em um lugar melhor.
 
-Saiba mais sobre como usar as ações Marketo Message e Log With Marketo .
+Saiba mais sobre como usar as ações Mensagem do Marketo e Registrar com Marketo .
 
 >[!MORELIKETHIS]
 >
 >* [Enviar e rastrear um email com o complemento de email do Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Enviar e rastrear a partir do Outlook usando um modelo de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Enviar e rastrear a partir do Outlook usando um modelo do Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
