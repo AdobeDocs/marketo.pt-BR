@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: Gerenciamento de funções e permissões do usuário - Documentos do Marketo - Documentação do produto
 title: Gerenciando funções e permissões do usuário
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Não é possível editar as funções Administrador e Usuário padrão, mas voc�
 
 ## Marketo com Adobe Identity {#marketo-with-adobe-identity}
 
-Se estiver usando o Marketo com Adobe Identity, a lista de descrições do perfil [pode ser encontrada aqui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#profile-levels).
+Se estiver usando o Marketo com Adobe Identity, a lista de descrições do perfil [pode ser encontrada aqui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
 ## Atribuir funções a um usuário {#assign-roles-to-a-user}
 
