@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
 workflow-type: tm+mt
-source-wordcount: '8795'
+source-wordcount: '8801'
 ht-degree: 5%
 
 ---
@@ -172,7 +172,7 @@ ht-degree: 5%
          + [Exportação de metadados de objeto personalizado](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Marketo com Adobe Identity {#marketo-with-adobe-identity}
          + [Guia rápido](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [Visão geral](product-docs/administration/marketo-with-adobe-identity/overview.md)
+         + [Visão geral do Adobe Identity Management](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Configuração do administrador](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Configuração do administrador do produto](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [Adicionar usuário de API somente para assinaturas ativadas pelo Adobe IMS](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -1870,6 +1870,7 @@ ht-degree: 5%
          + [Notas de versão: Março de 22](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [Notas de versão: Maio de 22](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [Notas de versão: Junho de 22](release-notes/previous-releases/2022/release-notes-june-22.md)
+         + [Notas de versão: Agosto de 22](release-notes/previous-releases/2022/release-notes-aug-22.md)
       + 2021 {#2021}
          + [Notas de versão: Janeiro de 2021](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Notas de versão: Maio de 21](release-notes/previous-releases/2021/release-notes-may-21.md)
