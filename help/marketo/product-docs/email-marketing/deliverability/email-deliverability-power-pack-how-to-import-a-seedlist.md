@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Deliverability de email Power Pack - Como importar uma lista de propagação - Documentos do Marketo - Documentação do produto
 title: Pacote de recursos para entrega de emails - Como importar uma lista de propagação
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 8ff6198abb9cae9cc150b2c267b0a8658acffae2
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,25 @@ Uma lista de propagação é uma lista de contas de email em vários provedores 
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Clique em **Informante da Caixa de Entrada**.
+1. O aplicativo Everest será aberto. Na navegação à esquerda, clique em **Em voo** e selecione **Posicionamento da caixa de entrada**.
 
-   ![](assets/two-1.png)
+   ![](assets/email-deliverability-power-pack-2.png)
 
-1. Clique em **Obter lista de propagação**.
+1. Clique no botão **Gerenciar lista de propagação** guia .
 
-   ![](assets/three-1.png)
+   ![](assets/email-deliverability-power-pack-3.png)
 
-1. Clique em **Exportar lista**.
+1. Clique no menu suspenso Ações e selecione **Baixar um por linha**.
 
-   ![](assets/four.png)
+   ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Choose **Otimizar lista** se quiser 250ok para [otimizar sua lista](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) para você. Choose **Personalizar lista** se desejar selecionar as regiões da lista de propagação que deseja incluir.
+   >Use o Otimizador de lista de propagação (na parte superior da página) se desejar que o Everest otimize sua lista para você.
 
 1. Após a exportação, a lista será exibida como um arquivo .txt na pasta de downloads do navegador. Recupere-o e [importar](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) na instância do Marketo como uma lista estática.
 
-   ![](assets/five.png)
+   ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
@@ -50,7 +50,7 @@ Uma lista de propagação é uma lista de contas de email em vários provedores 
 
    >[!CAUTION]
    >
-   >Você obtém uma quantidade limitada dessas Campanhas informativas da caixa de entrada por mês. Para ver quantos você tem, olhe em seu 250ok **Configurações da conta**. Para obter mais informações, entre em contato com o representante de vendas da Marketo.
+   >Você obtém uma quantidade limitada dessas Campanhas de posicionamento da Caixa de entrada por mês. Para ver quantos são obtidos, consulte a seção Subscrição em Configurações da conta > Subscrição no Everest. Para obter mais informações, entre em contato com o representante de vendas da Marketo.
 
 ## Adquirir Novas Seedlists {#acquiring-new-seedlists}
 
