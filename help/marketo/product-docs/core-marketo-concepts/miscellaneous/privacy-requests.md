@@ -2,10 +2,10 @@
 description: Solicitações de privacidade - Documentos do Marketo - Documentação do produto
 title: Solicitações de privacidade
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: e3f7b0082b77c1be6b4f046838d7ebe725533e78
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 0%
+source-wordcount: '367'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,14 @@ Este documento fornece uma visão geral do gerenciamento de solicitações indiv
 
 >[!NOTE]
 >
->As solicitações de privacidade enviadas por meio da interface do usuário do Privacy Service ou da API do Marketo Engage aplicam-se somente àquelas que têm as edições Marketo Engage + RT-CDP, B2B e B2P.
+>As solicitações de privacidade enviadas por meio da interface do usuário do Privacy Service ou da API do Marketo Engage aplicam-se somente ao seguinte:
+>
+>* Usuários do Marketo Engage que se conectaram ao Adobe Identity Management System
+>
+>**-ou-**
+>
+>* Usuários do Marketo Engage que utilizam outro Experience Cloud já no Adobe Identity Management System (por exemplo, RT-CDP, B2B e B2P Editions, Audience Manager).
+
 
 Você pode enviar solicitações individuais para acessar e excluir dados do consumidor do Marketo Engage de duas formas:
 
