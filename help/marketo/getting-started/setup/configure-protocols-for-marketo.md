@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Configurar protocolos para Marketo - Documentos do Marketo - Documentação do produto
 title: Configurar protocolos para Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: ed29cc13d2ced85e639e8b1c6fe228e2bca82ffd
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1031'
 ht-degree: 1%
 
 ---
@@ -50,6 +50,10 @@ Adicione o marketing CNAME do email enviado para que você `[YourEmailCNAME]` po
 Por exemplo:
 
 `pages.abc.com IN CNAME mkto-a0244.com`
+
+>[!NOTE]
+>
+>`[MktoTrackingLink]` deve ser o Domínio de marca padrão.
 
 `3` **Notificar sua equipe de marketing**
 
