@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Importação de ativos com o Adobe Experience Manager - Documentos do Marketo - Documentação do produto
 title: Importação de ativos com o Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+source-git-commit: 2b3a7867811ab2814a668eaa633057b35b7ce68d
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e imp
 
 >[!PREREQUISITES]
 >
->Verifique se você já executou a [AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Verifique se você já executou o [Configuração de AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->Esse recurso é totalmente compatível com as versões atuais do Firefox, Chrome e Edge. Não é compatível com o Safari.
+>No momento, esse recurso é totalmente compatível com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome, dependendo das configurações de cookie do SameSite.
 
 1. Clique em **Design Studio**.
 
    ![](assets/one-1.png)
 
-1. Clique no menu suspenso New e selecione **Import from Adobe Experience Manager**.
+1. Clique no menu suspenso New e selecione **Importar do Adobe Experience Manager**.
 
    ![](assets/two-1.png)
 
@@ -42,7 +42,7 @@ O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e imp
 
    ![](assets/four-1.png)
 
-1. Escolha a pasta. Em seguida, selecione as imagens desejadas clicando na miniatura (você pode escolher até 10). Clique em **Selecionar** quando terminar.
+1. Escolha a pasta. Em seguida, selecione as imagens desejadas clicando na miniatura (você pode escolher até 10). Clique em **Selecionar** quando concluído.
 
    ![](assets/five.png)
 
