@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,12 @@ Os seguintes recursos começarão a ser lançados em **14 de outubro de 2022**, 
 ## Melhorias da API {#api-enhancements}
 
 * **Importação de leads em massa: Associação de Vendedores**: Paridade com a API REST de lead para poder associar leads com vendedores durante o processo de importação de lead em massa, reduzindo a complexidade e o número de chamadas de API necessárias.
+
+## Sales Insight {#sales-insight}
+
+![(estrela)](assets/yellow-star.png)
+
+* **[Integração de informações de vendas com o bate-papo dinâmico](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: O Painel de insights agora inclui atividades de Bate-papo dinâmico na Grade inteligente, juntamente com um resumo semanal e cartões de detalhes.
 
 ## Anúncios {#announcements}
 
