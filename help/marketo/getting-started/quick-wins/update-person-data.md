@@ -3,7 +3,7 @@ unique-page-id: 2359426
 description: Atualizar dados de pessoa - Documentos do Marketo - Documentação do produto
 title: Atualizar dados de pessoa
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 24%
@@ -26,7 +26,7 @@ Vamos imaginar que em sua apresentação comercial recente, uma pessoa lhe deu a
 
 1. Vá para seu banco de dados.
 
-   ![](assets/db-3.png)
+   ![](assets/update-person-data-1.png)
 
 1. Pesquise o nome ou o endereço de email da pessoa.
 
@@ -34,11 +34,11 @@ Vamos imaginar que em sua apresentação comercial recente, uma pessoa lhe deu a
    >
    >Usar o endereço de email para pesquisar resultará em uma pesquisa mais rápida.
 
-   ![](assets/two-rubiks.png)
+   ![](assets/update-person-data-2.png)
 
 1. Clique duas vezes para abrir o detalhe da pessoa.
 
-   ![](assets/three-rubiks.png)
+   ![](assets/update-person-data-3.png)
 
    >[!TIP]
    >
@@ -48,7 +48,7 @@ Vamos imaginar que em sua apresentação comercial recente, uma pessoa lhe deu a
 
 1. Digite as novas informações recebidas e feche a guia.
 
-![](assets/four-rubiks.png)
+![](assets/update-person-data-4.png)
 
 >[!NOTE]
 >
