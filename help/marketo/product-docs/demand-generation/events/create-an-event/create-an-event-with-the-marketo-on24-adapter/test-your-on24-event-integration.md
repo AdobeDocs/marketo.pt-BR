@@ -3,18 +3,14 @@ unique-page-id: 10096677
 description: Teste sua integração de evento ON24 - Documentos da Marketo - Documentação do produto
 title: Teste sua integração de evento ON24
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
 # Teste sua integração de evento ON24 {#test-your-on-event-integration}
-
->[!IMPORTANT]
->
->A partir de agosto de 2022, o ON24 não será mais compatível com novas integrações do Marketo. As informações neste artigo se aplicam apenas aos usuários existentes.
 
 Teste a integração do evento completamente.
 
@@ -38,6 +34,6 @@ Veja como os dados são atualizados após o evento ocorrer:
 
 >[!MORELIKETHIS]
 >
->* [Exemplo de integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [Exemplo de integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
+>* [Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
 

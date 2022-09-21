@@ -3,10 +3,9 @@ unique-page-id: 2949192
 description: SEO - Adicionar concorrentes - Documentos da Marketo - Documentação do produto
 title: SEO - Adicionar concorrentes
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -19,11 +18,11 @@ Adicionar concorrentes permitirá que você acompanhe o desempenho delas nas mes
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a seção **Admin**.
+1. Vá para o **Administrador** seção.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Clique na guia **Concorrentes**.
+1. Clique no botão **Concorrentes** guia .
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
@@ -31,7 +30,7 @@ Adicionar concorrentes permitirá que você acompanhe o desempenho delas nas mes
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Digite o **Nome** e **URL** do seu concorrente.
+1. Digite no **Nome** e **URL** do seu concorrente.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
@@ -43,6 +42,6 @@ Adicionar concorrentes permitirá que você acompanhe o desempenho delas nas mes
 
    >[!MORELIKETHIS]
    >
-   >* [Adicionar palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-   >* [Entendendo as palavras-chave (Exibição do concorrente)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Adicionar palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target=&quot;_blank&quot;}
+   >* [Entendendo as palavras-chave (Exibição do concorrente)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target=&quot;_blank&quot;}
 

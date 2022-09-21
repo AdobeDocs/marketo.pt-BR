@@ -3,18 +3,14 @@ unique-page-id: 10096681
 description: Noções básicas sobre os status do programa do webinar - Documentação da Marketo - Documentação do produto
 title: Noções básicas sobre os status do programa do webinar
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # Noções básicas sobre os status do programa do webinar {#understanding-webinar-program-statuses}
-
->[!IMPORTANT]
->
->A partir de agosto de 2022, o ON24 não será mais compatível com novas integrações do Marketo. As informações neste artigo se aplicam apenas aos usuários existentes.
 
 Os status do programa representam os diferentes status de evento que uma pessoa avança como membro do evento. Eles estão associados a um tipo de canal. O Marketo tem um tipo de canal integrado chamado **Webinar**. Os status podem ser usados em campanhas de lote e de acionador.
 
@@ -32,7 +28,7 @@ Esta é uma breve descrição dos status do programa associados ao canal Webinar
 
 **Convidado** - Use esse status para adicionar pessoas ao evento.
 
-**Aprovação pendente** - Use esse status para não enviar ao seu pessoal um email de confirmação. Consulte &quot;Aprovar registrantes manualmente&quot; em [Atualizações do registro de eventos ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) para obter mais informações.
+**Aprovação pendente** - Use esse status para não enviar ao seu pessoal um email de confirmação. Consulte &quot;Aprovar registrantes manualmente&quot; em [Atualizações do registro de eventos ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;} para obter mais informações.
 
 **Aguardar Lista** - Utilizar este estatuto para manter algumas pessoas à espera até que estejam disponíveis lugares adicionais.
 
@@ -58,4 +54,4 @@ Esta é uma breve descrição dos status do programa associados ao canal Webinar
 
 >[!MORELIKETHIS]
 >
->[Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

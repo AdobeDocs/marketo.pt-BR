@@ -3,10 +3,9 @@ unique-page-id: 2949190
 description: SEO - Selecione Região/país para o seu mecanismo de pesquisa - Documentos do Marketo - Documentação do produto
 title: SEO - Selecione Região/país para o seu mecanismo de pesquisa
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -19,11 +18,11 @@ Os administradores de SEO poderão escolher a região do mecanismo de pesquisa p
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a seção **Admin**.
+1. Vá para o **Administrador** seção.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Clique na guia **Mecanismos de pesquisa**.
+1. Clique no botão **Mecanismos de pesquisa** guia .
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
@@ -41,6 +40,6 @@ Excelente trabalho. Agora você verá classificações de palavras-chave para o 
 
 >[!MORELIKETHIS]
 >
->* [Entendendo o painel: Instantâneo de SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
->* [Entendendo o painel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>* [Entendendo o painel: Instantâneo de SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target=&quot;_blank&quot;}
+>* [Entendendo o painel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target=&quot;_blank&quot;}
 

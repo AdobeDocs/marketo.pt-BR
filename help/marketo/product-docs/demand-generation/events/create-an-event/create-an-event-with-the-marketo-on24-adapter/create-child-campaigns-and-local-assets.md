@@ -3,18 +3,14 @@ unique-page-id: 10096675
 description: Criar campanhas filhas e ativos locais - Documentos do Marketo - Documentação do produto
 title: Criar campanhas filhas e ativos locais
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '678'
 ht-degree: 1%
 
 ---
 
 # Criar campanhas filhas e ativos locais {#create-child-campaigns-and-local-assets}
-
->[!IMPORTANT]
->
->A partir de agosto de 2022, o ON24 não será mais compatível com novas integrações do Marketo. As informações neste artigo se aplicam apenas aos usuários existentes.
 
 Crie campanhas filho e ativos locais usando o Design Studio.
 
@@ -53,7 +49,7 @@ Use o Marketo para enviar o email de confirmação para o seu evento. Quando uma
 
 >[!TIP]
 >
->Você pode configurar o ON24 para enviar confirmação, lembrete ou emails de acompanhamento. Consulte a [Site de Ajuda do ON24](https://www.on24.com/live-webcast-elite/) para obter mais informações.
+>Você pode configurar o ON24 para enviar confirmação, lembrete ou emails de acompanhamento. Consulte a [Site de Ajuda do ON24](https://www.on24.com/live-webcast-elite/){target=&quot;_blank&quot;} para obter mais informações.
 
 ## Requisitos de Campanha Filho de Registro {#registration-child-campaign-requirements}
 
@@ -98,11 +94,11 @@ O **Enviar Email** a etapa de fluxo DEVE ser a segunda etapa. O email de confirm
 >
 >Se a pessoa for retornada com um erro de registro, ela não receberá a confirmação do email.
 
-O próximo passo é [teste sua integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
+O próximo passo é [teste sua integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >
->* [Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
->* [Exemplo de integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [Noções básicas sobre os status do programa do webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+>* [Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>* [Exemplo de integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
+>* [Noções básicas sobre os status do programa do webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target=&quot;_blank&quot;}
 

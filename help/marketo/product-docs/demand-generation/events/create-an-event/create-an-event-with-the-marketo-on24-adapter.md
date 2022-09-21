@@ -3,29 +3,25 @@ unique-page-id: 10096656
 description: Crie um evento com o adaptador Marketo ON24 - Documentos Marketo - Documentação do produto
 title: Crie um evento com o adaptador Marketo ON24
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
 # Crie um evento com o adaptador Marketo ON24 {#create-an-event-with-the-marketo-on-adapter}
 
->[!IMPORTANT]
->
->A partir de agosto de 2022, o ON24 não será mais compatível com novas integrações do Marketo. As informações neste artigo se aplicam apenas aos usuários existentes.
-
 Familiarize-se com os blocos de construção e a sequência recomendada para criar Eventos no Marketo. Você também deve ter conhecimento prático dos seguintes conceitos do Marketo:
 
-* [Programas do Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) bem como Eventos e as diferenças entre eles
-* [Canais](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
-* [Ativos locais](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
-* [Campanhas filhas](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md) e [Status do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
+* [Programas do Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}, bem como Eventos, e as diferenças entre eles
+* [Canais](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target=&quot;_blank&quot;}
+* [Ativos locais](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target=&quot;_blank&quot;}
+* [Campanhas filhas](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target=&quot;_blank&quot;} e [Status do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target=&quot;_blank&quot;}
 
 >[!NOTE]
 >
->Consulte a [Documentação da API do Marketo](https://developers.marketo.com/documentation/rest/) para obter mais informações sobre APIs do Marketo.
+>Consulte a [Documentação da API do Marketo](https://developers.marketo.com/documentation/rest/){target=&quot;_blank&quot;} para obter mais informações sobre APIs do Marketo.
 
 ## Pré-requisitos {#prerequisites}
 
@@ -42,10 +38,10 @@ Os seguintes itens são necessários para usar a integração do Marketo ON24:
 
 Siga estas etapas para criar um evento com o adaptador Marketo On24:
 
-1. [Criar seu evento de webinar no ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-1. [Configurar configurações do evento e sincronizar o Marketo com seu webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
-1. [Criar campanhas filhas e ativos locais](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
-1. [Teste sua integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
-1. [Exemplo de integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
-1. [Noções básicas sobre os status do programa do webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
-1. [Atualizações do registro de eventos ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
+1. [Criar seu evento de webinar no ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md){target=&quot;_blank&quot;}
+1. [Configurar configurações do evento e sincronizar o Marketo com seu webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target=&quot;_blank&quot;}
+1. [Criar campanhas filhas e ativos locais](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target=&quot;_blank&quot;}
+1. [Teste sua integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target=&quot;_blank&quot;}
+1. [Exemplo de integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
+1. [Noções básicas sobre os status do programa do webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target=&quot;_blank&quot;}
+1. [Atualizações do registro de eventos ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;}

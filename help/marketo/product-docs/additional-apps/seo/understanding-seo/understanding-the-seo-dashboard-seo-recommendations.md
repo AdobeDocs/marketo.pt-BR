@@ -3,10 +3,9 @@ unique-page-id: 2949180
 description: Noções básicas sobre o painel SEO - SEO Recommendations - Marketo Docs - Documentação do produto
 title: Noções básicas sobre o painel SEO - SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -21,7 +20,7 @@ Você também pode descobrir como melhorar usando a seção Recommendations . Va
 
 ## Principais problemas de otimização de página {#top-page-optimization-issues}
 
-Isso mostrará cinco maneiras de alto impacto de começar a otimizar seu site imediatamente! Basta clicar em qualquer um dos links para exibir o [Detalhe da página&lt;](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) completo.
+Isso mostrará cinco maneiras de alto impacto de começar a otimizar seu site imediatamente! Basta clicar em qualquer um dos links para exibir o relatório completo [Detalhamento de Detalhes da Página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}.
 
 >[!TIP]
 >
@@ -29,7 +28,7 @@ Isso mostrará cinco maneiras de alto impacto de começar a otimizar seu site im
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
-## Oportunidades de link superior {#top-link-opportunities}
+## Oportunidades de links principais {#top-link-opportunities}
 
 Ter sites reputados vinculado ao seu conteúdo pode aumentar a classificação da página. Estas são algumas das oportunidades de prioridade mais alta que encontramos para seu site.
 
@@ -43,4 +42,4 @@ Pronto! Mergulhe mais fundo aqui.
 
 >[!MORELIKETHIS]
 >
->[Detalhamento de Detalhes da Página](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
+>[Detalhamento de Detalhes da Página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}
