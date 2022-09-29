@@ -2,9 +2,9 @@
 description: Configuração do reCAPTCHA v3 - Documentos do Marketo - Documentação do produto
 title: Configuração do reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -88,3 +88,7 @@ As etapas a seguir são executadas fora do Marketo.
 1. Insira a chave secreta e a chave do site. Clique em **Salvar** quando concluído.
 
    ![](assets/setting-up-recaptcha-v3-8.png)
+
+>[!MORELIKETHIS]
+>
+>[Habilitar CAPTCHA no Marketo Forms](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)

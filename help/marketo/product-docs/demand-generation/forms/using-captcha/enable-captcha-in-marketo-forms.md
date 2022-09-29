@@ -2,9 +2,9 @@
 description: Ativar CAPTCHA no Marketo Forms - Documentos do Marketo - Documentação do produto
 title: Habilitar CAPTCHA no Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,12 @@ Você pode ativar/desativar CAPTCHA de acordo com o formulário.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
+Pode levar alguns minutos para que as alterações nessa lista se propaguem do Google.
+
 >[!NOTE]
 >
->Pode levar alguns minutos para que as alterações nessa lista se propaguem do Google.
+>A Google adiciona texto padronizado incluindo links para a Política de privacidade e Termos de serviço aos formulários habilitados para CAPTCHA.
+
+>[!MORELIKETHIS]
+>
+>[Configuração do reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
