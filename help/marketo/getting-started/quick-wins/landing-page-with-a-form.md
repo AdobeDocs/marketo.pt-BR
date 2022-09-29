@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: Página de aterrissagem com um formulário - Documentação da Marketo - Documentação do produto
 title: Página com formulário
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '549'
 ht-degree: 5%
 
 ---
@@ -104,7 +104,7 @@ Muito bem! Agora que criamos um programa, vamos continuar e criar conteúdo.
 
 ## ETAPA 3: Crie uma página de aterrissagem e adicione seu formulário {#step-create-a-landing-page-and-add-your-form}
 
-1. Com o programa selecionado, clique em **Novo** e depois **Novo ativo local**.
+1. Com o programa selecionado, clique no botão **Novo** e selecione **Novo ativo local**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
