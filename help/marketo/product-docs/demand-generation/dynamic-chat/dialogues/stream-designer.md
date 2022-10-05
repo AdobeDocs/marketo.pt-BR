@@ -2,9 +2,9 @@
 description: Stream Designer - Documentos do Marketo - Documentação do produto
 title: Designer de sequência
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: a746fc2350ba2441ecd2157708b88d2480237c49
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '821'
 ht-degree: 2%
 
 ---
@@ -49,19 +49,46 @@ O designer de fluxo contém vários cartões que podem ser adicionados para mold
  </tr>
 </table>
 
+## Ícones do Designer de fluxo {#stream-designer-icons}
+
+No canto superior direito do Designer de fluxo, você verá alguns ícones. Aqui está o que eles fazem.
+
+<table>
+ <tr>
+  <td><img src="assets/stream-designer-1.png"></td>
+  <td>Adiciona uma grade ao plano de fundo para quem prefere essa visualização</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-2.png"></td>
+  <td>Aumenta o zoom, criando cartões maiores</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-3.png"></td>
+  <td>Diminui o zoom, criando cartões menores</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Abre uma janela para testar o chat (pressione o mesmo botão para fechar)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-5.png"></td>
+  <td>Organiza todos os cartões em seu fluxo</td>
+ </tr>
+</table>
+
 ## Criar um fluxo {#create-a-stream}
 
 1. Depois de ter [criou a caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, clique no link **Designer de fluxo** guia .
 
-   ![](assets/stream-designer-1.png)
+   ![](assets/stream-designer-6.png)
 
 1. Arraste e solte o cartão Pergunta .
 
-   ![](assets/stream-designer-2.png)
+   ![](assets/stream-designer-7.png)
 
 1. Em Resposta do Chatbot, diga à sua pergunta como gostaria.
 
-   ![](assets/stream-designer-3.png)
+   ![](assets/stream-designer-8.png)
 
    >[!NOTE]
    >
@@ -69,7 +96,7 @@ O designer de fluxo contém vários cartões que podem ser adicionados para mold
 
 1. Insira suas Respostas do Usuário e clique em **Salvar**.
 
-   ![](assets/stream-designer-4.png)
+   ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
@@ -77,27 +104,27 @@ O designer de fluxo contém vários cartões que podem ser adicionados para mold
 
 1. Para &quot;Sim&quot;, queremos agendar um compromisso, portanto, abaixo dessa opção, arraste sobre o cartão do Agendador de Compromissos.
 
-   ![](assets/stream-designer-5.png)
+   ![](assets/stream-designer-10.png)
 
 1. Na coluna à direita, clique em **Salvar**.
 
-   ![](assets/stream-designer-6.png)
+   ![](assets/stream-designer-11.png)
 
 1. Como essa é uma meta, arraste o cartão Meta abaixo do Agendador de Compromissos.
 
-   ![](assets/stream-designer-7.png)
+   ![](assets/stream-designer-12.png)
 
 1. Nomeie sua meta (ou escolha uma existente) e clique em **Salvar**.
 
-   ![](assets/stream-designer-8.png)
+   ![](assets/stream-designer-13.png)
 
 1. Para o &quot;Não&quot;, queremos ver se eles irão ingressar na lista de endereçamento, portanto, abaixo dessa opção, arraste sobre outro Cartão de Perguntas.
 
-   ![](assets/stream-designer-9.png)
+   ![](assets/stream-designer-14.png)
 
 1. Insira sua resposta e adicione opções de resposta para o visitante. Clique em **Salvar** quando concluído.
 
-   ![](assets/stream-designer-10.png)
+   ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
@@ -105,15 +132,15 @@ O designer de fluxo contém vários cartões que podem ser adicionados para mold
 
 1. Abaixo da resposta &quot;Sim&quot;, arraste o cartão Captura de informações para coletar o email do visitante.
 
-   ![](assets/stream-designer-11.png)
+   ![](assets/stream-designer-16.png)
 
 1. Clique no botão **Tipo** e selecione **Email**.
 
-   ![](assets/stream-designer-12.png)
+   ![](assets/stream-designer-17.png)
 
 1. Insira uma mensagem de chatbot e um espaço reservado. Verifique se o atributo está mapeado para o campo apropriado no Marketo e clique em **Salvar**.
 
-   ![](assets/stream-designer-13.png)
+   ![](assets/stream-designer-18.png)
 
    <table>
     <tr>
@@ -136,27 +163,27 @@ O designer de fluxo contém vários cartões que podem ser adicionados para mold
 
 1. Como coletar seus emails é uma meta, arraste o cartão Meta abaixo de Captura de Informações.
 
-   ![](assets/stream-designer-14.png)
+   ![](assets/stream-designer-19.png)
 
 1. Nomeie sua meta (ou escolha uma existente) e clique em **Salvar**.
 
-   ![](assets/stream-designer-15.png)
+   ![](assets/stream-designer-20.png)
 
 1. Lembre-se de adicionar uma resposta se eles disserem &quot;Não&quot;. Uma opção é arrastar um cartão de mensagem abaixo e dizer &quot;obrigado mesmo assim&quot;. Mas neste exemplo, nós lhes forneceremos um documento de PDF gratuito.
 
-   ![](assets/stream-designer-16.png)
+   ![](assets/stream-designer-21.png)
 
 1. Neste exemplo, criaremos um novo documento. Dê um nome a ele, insira o URL do PDF já hospedado e clique em **Salvar**.
 
-   ![](assets/stream-designer-17.png)
+   ![](assets/stream-designer-22.png)
 
 1. Selecione o **Visualizar** alterne para visualizar sua caixa de diálogo.
 
-   ![](assets/stream-designer-18.png)
+   ![](assets/stream-designer-23.png)
 
 1. Quando estiver pronto para ativar sua caixa de diálogo, clique em **Publicar**.
 
-   ![](assets/stream-designer-19.png)
+   ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
