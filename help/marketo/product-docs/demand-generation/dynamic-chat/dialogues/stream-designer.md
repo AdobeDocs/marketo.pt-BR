@@ -2,7 +2,7 @@
 description: Stream Designer - Documentos do Marketo - Documentação do produto
 title: Designer de sequência
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: a746fc2350ba2441ecd2157708b88d2480237c49
+source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
 workflow-type: tm+mt
 source-wordcount: '821'
 ht-degree: 2%
@@ -72,7 +72,7 @@ No canto superior direito do Designer de fluxo, você verá alguns ícones. Aqui
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
-  <td>Organiza todos os cartões em seu fluxo</td>
+  <td>Organiza todas as placas em seu fluxo</td>
  </tr>
 </table>
 
