@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 7edaf40bebec891ac106bcbbaba1fd513d1f642c
+source-git-commit: 75c86cb5005aa4de9892649d071e48b8d41eff02
 workflow-type: tm+mt
-source-wordcount: '8802'
+source-wordcount: '8807'
 ht-degree: 5%
 
 ---
@@ -615,6 +615,10 @@ ht-degree: 5%
          + [Configuração](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Comportamento do chatbot](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Atividades de bate-papo dinâmico](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + Programação de Compromisso {#appointment-scheduling}
+            + [Calendário](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
+            + [Reuniões](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
+            + [Roteamento](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Integrações {#integrations}
             + [Conectar o bate-papo dinâmico ao Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Usando a placa de documento](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
@@ -1155,7 +1159,7 @@ ht-degree: 5%
             + Suplemento do Office 365 {#office-365-add-in}
                + [Adicionar Email ao Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Instalando Conexão de Vendas para Office365 Mac OS, Windows e Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
-      + Email {#email}
+      + E-mail {#email}
          + Centro de comando {#command-center}
             + [Visão geral do Centro de comandos](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Visão geral da pesquisa avançada](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
@@ -1325,7 +1329,7 @@ ht-degree: 5%
                + [Configuração de ações de insight de vendas no Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Desinstalar Pacote de Personalização do Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [Desinstalar Pacote de Personalização do Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
-         + Email {#email}
+         + E-mail {#email}
             + Centro de comando {#command-center}
                + [Visão geral da pesquisa avançada](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
                + [Atribuindo Tarefas aos Membros da Equipe](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
