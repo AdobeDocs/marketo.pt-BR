@@ -3,30 +3,34 @@ unique-page-id: 1147226
 description: Introdução - Documentos do Marketo - Documentação do produto
 title: Introdução
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 29%
+source-wordcount: '161'
+ht-degree: 24%
 
 ---
 
 # Introdução {#getting-started}
 
-## ETAPA 1 O que é o Marketo {#what-is-marketo}
+## O que é o Adobe Marketo Engage {#what-is-marketo-engage}
 
-O que você pergunta ao Marketo? Grande pergunta!
+O que é o Marketo Engage, você pergunta? Grande pergunta!
 
-[Saiba mais sobre o Marketo](/help/marketo/getting-started/what-is-adobe-marketo-engage.md)
+[Aprenda o Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
 
-## ETAPA 2 - Configuração {#get-set-up}
+## Quais níveis de preços estão disponíveis {#what-pricing-tiers-are-available}
+
+Confira o [página Preços e pacotes de Marketo Engage](https://www.marketo.com/solutions/pricing/){target=&quot;_blank&quot;} para obter mais informações.
+
+## Configurar {#get-set-up}
 
 Com uma pequena ajuda da sua equipe de TI, você pode fazer isso sem demora.
 
-[Iniciar Configuração](/help/marketo/getting-started/setup/setup-steps.md)
+[Iniciar Configuração](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
 
-## ETAPA 3 Obter algumas vitórias rápidas {#get-some-quick-wins}
+## Obter algumas vitórias rápidas {#get-some-quick-wins}
 
-Conclua essas missões para conhecer os recursos principais do Marketo.
+Conclua essas missões para conhecer os recursos principais do Marketo Engage.
 
 <table style="table-layout:fixed">
 <tr>
@@ -49,7 +53,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo.
   </td>
   <td>
     <a href="getting-started/quick-wins/landing-page-with-a-form.md">
-      <img alt="Email" src="getting-started/assets/getting-started-3.png" />
+      <img alt="E-mail" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
     <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Página com formulário</a>
@@ -77,7 +81,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo.
 <tr>
   <td>
     <a href="getting-started/quick-wins/import-a-list-of-people.md">
-      <img alt="Email" src="getting-started/assets/getting-started-6.png" />
+      <img alt="E-mail" src="getting-started/assets/getting-started-6.png" />
     </a>
     <div>
     <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importar uma lista de pessoas</a>
@@ -103,7 +107,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo.
   </td>
   <td>
     <a href="getting-started/quick-wins/alert-the-sales-rep.md">
-      <img alt="Email" src="getting-started/assets/getting-started-9.png" />
+      <img alt="E-mail" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
     <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Alertar o representante de vendas</a>
@@ -124,6 +128,4 @@ Conclua essas missões para conhecer os recursos principais do Marketo.
 
 ## PASSO 4 Parabéns! Você está pronto para a Nação  {#congrats-youre-ready-for-the-nation}
 
-Hora de ingressar na Nação de Marketing!
-
-[Junte-se à Nação](https://nation.marketo.com)
+Confira o [Nação de marketing](https://nation.marketo.com){target=&quot;_blank&quot;}!

@@ -1,9 +1,9 @@
 ---
 description: Notas de versão - agosto de 2022 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - agosto de 2022
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Os seguintes recursos começaram uma implantação em fases em **26 de agosto de
 
 * **Visibilidade do cabeçalho personalizado do Webhook**: Agora os cabeçalhos personalizados do Webhook são exibidos na guia Admin > Webhooks para melhorar a visibilidade.
 
-* **CAPTCHA**: Avalie a validade dos envios de formulário usando o reCAPTCHA v3 para pontuar o tráfego de formulário recebido. Crie workflows de marketing para excluir, colocar em quarentena ou excluir automaticamente o tráfego de bot suspeito.
+* **CAPTCHA**: Avaliar a validade de envios de formulário [uso do reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;} para pontuar o tráfego de entrada do formulário. Crie workflows de marketing para excluir, colocar em quarentena ou excluir automaticamente o tráfego de bot suspeito.
 
 * **Permissão para aprovar formulário**: Nova permissão para controlar quais designers podem aprovar alterações em um formulário de acordo com outros ativos do Design Studio. Isso impede que outros designers enviem alterações para formulários sem que outra pessoa com permissão de aprovação a revise.
 
