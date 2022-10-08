@@ -2,9 +2,9 @@
 description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Documentação do produto
 title: Visão geral do bate-papo dinâmico
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '953'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ O seguinte é sincronizado:
 
 ## Diálogos {#dialogues}
 
-As caixas de diálogo representam um único envolvimento de chat. Pense nele como um contêiner com tudo o que você precisa para ter um diálogo de bate-papo envolvente com os visitantes do seu site. Em cada caixa de diálogo, você pode especificar em quais páginas deseja que a caixa de diálogo seja exibida, para quem deseja que ela seja exibida e o conteúdo e fluxo da própria caixa de diálogo. Além disso, você pode encontrar métricas para ver o desempenho da caixa de diálogo. [Saiba mais sobre Diálogos](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
+As caixas de diálogo representam um único envolvimento de chat. Pense nele como um contêiner com tudo o que você precisa para ter um diálogo de bate-papo envolvente com os visitantes do seu site. Em cada caixa de diálogo, você pode especificar em quais páginas gostaria que a caixa de diálogo fosse exibida, para quem gostaria que ela fosse exibida e o conteúdo e fluxo da própria caixa de diálogo. Além disso, você pode encontrar métricas para ver o desempenho da caixa de diálogo. [Saiba mais sobre Diálogos](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
 
 ## Configuração {#configuration}
 
@@ -41,13 +41,13 @@ Na guia Configuração , personalize a aparência das várias caixas de diálogo
 
 ## Calendário {#calendar}
 
-Na guia Calendário , conecte seu calendário (Outlook ou Gmail) para uso na programação de compromissos no chatbot. Quando o calendário de um usuário estiver conectado ao Dynamic Chat, ele será adicionado à fila e seu calendário estará disponível para os visitantes do site agendarem compromissos.
+Na guia Calendário , conecte seu calendário (Outlook ou Gmail) para uso na programação de compromissos no chatbot. Assim que o calendário de um usuário estiver conectado ao Dynamic Chat, ele será adicionado à fila e seu calendário estará disponível para os visitantes do site agendarem compromissos.
 
 Você também pode personalizar o corpo do convite enviado ao visitante quando ele agendar um compromisso no calendário do usuário.
 
 ## Reuniões {#meetings}
 
-É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias Diálogos. Aqui você encontrará o endereço de e-mail da pessoa que reservou o compromisso, com qual agente eles reservaram o compromisso, quando o compromisso está programado para ocorrer e se a reunião aconteceu ou não.
+É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias Diálogos. Aqui você encontrará o endereço de e-mail da pessoa que reservou o compromisso, com qual agente eles reservaram o compromisso, quando o compromisso está agendado para ocorrer e se o horário agendado da reunião foi ou não ultrapassado.
 
 ## Roteamento {#routing}
 
