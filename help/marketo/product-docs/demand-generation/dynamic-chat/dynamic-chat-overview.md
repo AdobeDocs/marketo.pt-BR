@@ -2,9 +2,9 @@
 description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Documentação do produto
 title: Visão geral do bate-papo dinâmico
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '919'
 ht-degree: 2%
 
 ---
@@ -51,7 +51,7 @@ Você também pode personalizar o corpo do convite enviado ao visitante quando e
 
 ## Roteamento {#routing}
 
-É aqui que você pode ver uma lista de todos os agentes que conectaram seus calendários, bem como a ordem em que serão apresentados aos visitantes do site. As reuniões são ao estilo do robin, então se você tem cinco agentes e o agente três tomou a última reunião, o agente quatro terá a próxima, seguido pelo agente cinco, e então de volta ao agente um.
+É aqui que você pode ver uma lista de todos os agentes que conectaram seus calendários, bem como a ordem em que serão apresentados aos visitantes do site.
 
 ## Perguntas frequentes {#faq}
 
