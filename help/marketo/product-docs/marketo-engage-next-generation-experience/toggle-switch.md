@@ -2,9 +2,9 @@
 description: Alternar Switch - Documentos do Marketo - Documentação do produto
 title: Alternar Switch
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: a7eeee24fb494c42a6992fc049311f63c6217b54
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '268'
 ht-degree: 1%
 
 ---
@@ -60,10 +60,13 @@ Os seguintes recursos estão disponíveis na interface de próxima geração da 
 * Exibição de detalhes do email
 * Exibição de lista de emails
 * Exibição de detalhes do modelo de email
+* Lista de modelos de email
 * Exibição do painel Teste de email
 * Exibição de detalhes do formulário
 * Exibição de lista de formulários
 * Página de detalhes de imagens e arquivos
 * Exibição de detalhes da página de aterrissagem
 * Exibição de lista da página inicial
+* Detalhes do modelo da página de aterrissagem
 * Exibição de detalhes do trecho
+
