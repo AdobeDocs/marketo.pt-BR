@@ -3,10 +3,9 @@ unique-page-id: 2360313
 description: Excluir um espaço de trabalho - Documentos do Marketo - Documentação do produto
 title: Excluir um espaço de trabalho
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -29,10 +28,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a56-3a50.png)
 
-   >[!NOTE]
-   >
-   >Não esqueça, **todos os ativos no espaço de trabalho devem ser excluídos primeiro**.
+1. Confirme o número de ativos que você está prestes a excluir (ele está listado para você ao lado do &quot;total de ativos&quot;), selecione o **Não é Possível Desfazer** caixa de seleção, em seguida, clique em **Excluir**.
 
-1. Clique em **Delete** para confirmar.
-
-   ![](assets/image2014-9-17-11-3a57-3a1.png)
+   ![](assets/delete-a-workspace-3.png)

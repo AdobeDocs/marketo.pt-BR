@@ -2,10 +2,9 @@
 description: Exportação de metadados de objeto personalizado - Documentos do Marketo - Documentação do produto
 title: Exportação de metadados de objeto personalizado
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -14,11 +13,15 @@ ht-degree: 0%
 
 Se você estiver usando nossa API SOAP ou a API do Munchkin, o Esquema de metadados de objeto personalizado pode ser exportado. Veja como entender.
 
-1. Em Minha Marketo, clique em **Admin**.
+>[!AVAILABILITY]
+>
+>Nem todos os clientes compraram esse recurso. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
+
+1. Em Minha Marketo, clique em **Administrador**.
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. Clique em **Marketo Custom Objects**.
+1. Clique em **Objetos personalizados do Marketo**.
 
    ![](assets/custom-object-metadata-export-2.png)
 
@@ -26,7 +29,7 @@ Se você estiver usando nossa API SOAP ou a API do Munchkin, o Esquema de metada
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. Clique no menu suspenso **Custom Object Actions** e selecione **Export Object**.
+1. Clique no botão **Ações do objeto personalizado** e selecione **Exportar objeto**.
 
    ![](assets/custom-object-metadata-export-4.png)
 
