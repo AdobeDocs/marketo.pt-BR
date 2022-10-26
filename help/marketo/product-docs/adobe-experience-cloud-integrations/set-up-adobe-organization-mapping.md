@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Configurar mapeamento de organização do Adobe - Documentos do Marketo - Documentação do produto
 title: Configurar mapeamento de organização do Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -48,8 +48,8 @@ Para sincronizar com aplicativos Adobe, como o Audience Manager, o conector B2B 
 
    >[!IMPORTANT]
    >
-   >Por motivos de segurança, você deve ser um Org Admin da organização do Adobe para a qual deseja mapear. Caso contrário, a ação falhará. Além disso, o usuário do Adobe e o usuário do Marketo devem usar o mesmo endereço de email ao fazer logon.
+   >Por motivos de segurança, você deve ser um Org Admin da organização do Adobe para a qual deseja mapear. Se não estiver, a ação falhará. Além disso, o usuário do Adobe e o usuário do Marketo devem usar o mesmo endereço de email ao fazer logon.
 
 1. Se você estiver _not_ já conectado, uma pop-up será exibida em uma nova guia/janela. Faça logon na organização do Adobe (esta ação valida o acesso da organização).
 
-E é isso! Agora você pode [compartilhar dados do público](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} para ou [sincronizar um público](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;} da Adobe Experience Cloud.
+E é isso! Agora você pode [compartilhar dados do público](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} para ou [sincronizar um público](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;} da Adobe Experience Cloud.
