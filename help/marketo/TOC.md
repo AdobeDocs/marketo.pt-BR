@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
 workflow-type: tm+mt
-source-wordcount: '8809'
+source-wordcount: '8831'
 ht-degree: 5%
 
 ---
@@ -232,6 +232,11 @@ ht-degree: 5%
          + [Editar um espaço de trabalho](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [Editar uma partição de pessoa existente](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [Compartilhar segmentações em espaços de trabalho e partições](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+   + Integrações do Adobe Experience Cloud {#adobe-experience-cloud-integrations}
+      + [Visão geral das integrações do Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
+      + [Configurar mapeamento de organização do Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
+      + [Sincronizar um público-alvo do Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
+      + [Importação de ativos com o Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
    + Conceitos principais do Marketo {#core-marketo-concepts}
       + Campanhas inteligentes {#smart-campaigns}
          + [Noções básicas sobre campanhas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -471,7 +476,6 @@ ht-degree: 5%
          + [Gerenciamento de privacidade](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [Solicitações de privacidade](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Renomear um ativo do Marketo](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Configurar mapeamento de organização do Adobe](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
          + [Sincronizar um público-alvo do Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Noções básicas sobre pastas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Noções básicas das notificações](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
