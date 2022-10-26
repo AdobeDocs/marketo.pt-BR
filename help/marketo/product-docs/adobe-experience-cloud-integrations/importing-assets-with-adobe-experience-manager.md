@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: Importação de ativos com o Adobe Experience Manager - Documentos do Marketo - Documentação do produto
 title: Importação de ativos com o Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -28,23 +28,23 @@ O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e imp
 
 1. Clique em **Design Studio**.
 
-   ![](assets/one-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
 1. Clique no menu suspenso New e selecione **Importar do Adobe Experience Manager**.
 
-   ![](assets/two-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
 1. Escolha a pasta onde as imagens serão salvas.
 
-   ![](assets/three-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
 1. Faça logon no Adobe Experience Manager (caso ainda não o tenha feito).
 
-   ![](assets/four-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
 1. Escolha a pasta. Em seguida, selecione as imagens desejadas clicando na miniatura (você pode escolher até 10). Clique em **Selecionar** quando concluído.
 
-   ![](assets/five.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e imp
 
 1. Clique em **Importar** para concluir o processo.
 
-   ![](assets/six-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
    E é isso! Clique em **Fechar** para retornar ao Design Studio.
 
-   ![](assets/seven-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
 ## O que deve ser observado {#things-to-note}
 
