@@ -2,9 +2,9 @@
 description: Integração dinâmica de chat - Documentos do Marketo - Documentação do produto
 title: Integração dinâmica de chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '392'
 ht-degree: 5%
 
 ---
@@ -58,17 +58,27 @@ Meta alcançada: Conectado no Marketo e preenchido no Sales Insight quando um vi
 * Nome da meta
 * URL da página
 
-Uma guia Bate-papo está disponível nos painéis Líder e Contato. Inclui colunas Tipo de atividade, Nome da caixa de diálogo e Data.
+Interagiu com Documento: Conectado no Marketo e preenchido no Sales Insight quando um visitante interage com um documento compartilhado por meio do chatbot.
+
+* Nome do diálogo
+* Documento
+* Status
+
+As atividades de bate-papo estão disponíveis no Painel de insights.
 
 ![](assets/dynamic-chat-integration-3.png)
 
-Você pode saber mais sobre um tipo de atividade clicando nele.
+Uma guia Bate-papo está disponível nos painéis Líder e Contato. Inclui colunas Tipo de atividade, Nome da caixa de diálogo e Data.
 
 ![](assets/dynamic-chat-integration-4.png)
 
-Da mesma forma, os painéis Conta e Oportunidade incluem as colunas Nome, Tipo de Atividade, Nome da Caixa de Diálogo e Data.
+Você pode saber mais sobre um tipo de atividade clicando nele.
 
 ![](assets/dynamic-chat-integration-5.png)
+
+Da mesma forma, os painéis Conta e Oportunidade incluem as colunas Nome, Tipo de Atividade, Nome da Caixa de Diálogo e Data.
+
+![](assets/dynamic-chat-integration-6.png)
 
 A guia Chat também está incluída na guia Global Marketo . Ele inclui três tipos de atividades (Caixa de diálogo Envolvida, Compromisso Programado, Meta Alcançada), juntamente com as seguintes colunas:
 
@@ -80,8 +90,15 @@ A guia Chat também está incluída na guia Global Marketo . Ele inclui três ti
 
 Novamente, você pode saber mais sobre um tipo de atividade clicando nele.
 
-![](assets/dynamic-chat-integration-6.png)
+![](assets/dynamic-chat-integration-7.png)
 
 >[!NOTE]
 >
->A atividade &quot;Interact with Document&quot; estará disponível no MSI em uma versão futura.
+>Se a caixa de seleção &quot;Ativar dados do bate-papo dinâmico&quot; estiver desativada, os seguintes recursos serão desativados:
+>
+>* Linha com atividades de Chat no Painel de insights (grade inteligente e exibição de lista semanal)
+>* Guia Bate-papo nos painéis Lead, Contato, Conta e Oportunidade
+>* Guia Bate-papo na guia Global Marketo
+>
+>Não é possível desativar apenas um desses recursos.
+
