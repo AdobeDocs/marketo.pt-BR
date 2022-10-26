@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Configurar mapeamento de organização do Adobe - Documentos do Marketo - Documentação do produto
 title: Configurar mapeamento de organização do Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
+source-git-commit: 22f46fedc90d064bd7fbe6f7d5e4621de0b83718
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
