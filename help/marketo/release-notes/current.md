@@ -2,9 +2,9 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
+source-git-commit: 538622707eec53e9a137e9aed7ec448d379efe43
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -49,8 +49,6 @@ Os seguintes recursos começarão a ser lançados em **14 de outubro de 2022**, 
 ## Ambiente de dados de marketing {#marketing-data-environment}
 
 * **Integração do Adobe Privacy Service**: Faça a harmonização com o Privacy Service para automatizar a conformidade com as regulamentações de privacidade de dados em produtos de Experience Cloud. No momento, esse serviço está disponível somente para clientes do Marketo Engage que se conectaram ao [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)Sistema {target=&quot;_blank&quot;}.
-
-* **Sincronização de Campos Personalizados do Membro do Programa**: Capacidade de sincronizar bidirecionalmente campos extensíveis capturados para um membro do programa (por exemplo, preferências do participante durante o registro do evento, como comida, sessões, faixas etc.)
 
 ## Melhorias da API {#api-enhancements}
 
