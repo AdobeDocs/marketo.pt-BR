@@ -3,10 +3,10 @@ description: Visão geral dos relatórios - Documentação do Marketo - Document
 title: Visão geral dos relatórios
 hide: true
 hidefromtoc: true
-source-git-commit: 9873a01d8828e247a5cb60b88b5239721226615d
+source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 1%
+source-wordcount: '413'
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ A Marketo oferece uma variedade de módulos de relatório para diferentes necess
 
 ## Relatórios básicos {#basic-reporting}
 
-Você pode configurar relatórios básicos em programas ou na área do Analytics. Os relatórios básicos são compostos de diferentes tipos de relatórios prontos para uso com a flexibilidade de filtrar, classificar e ajustar os intervalos de tempo.
+Você pode configurar [relatórios básicos](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target=&quot;_blank&quot;} dentro de programas ou na área do Analytics. Os relatórios básicos são compostos de diferentes tipos de relatórios prontos para uso com a flexibilidade de filtrar, classificar e ajustar os intervalos de tempo.
 
 ## Email Insights {#email-insights}
 
-Use o Analytics e os Envios para obter insights avançados dos dados históricos.
+Usar o Analytics e os envios para obter [insights avançados](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;} em emails de dados históricos.
 
 ## Performance Insights {#performance-insights}
 
-Os Insights de desempenho abrangem o desempenho do canal e do programa para envolvimento, pipeline e geração de receita.
+[Insights de desempenho](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;} abrange o desempenho do canal e do programa para envolvimento, pipeline e geração de receita.
 
 ## Relatórios avançados do BI Analytics {#advanced-bi-analytics-reporting}
 
@@ -35,7 +35,7 @@ _(anteriormente conhecido como Revenue Cycle Explorer/Advanced Report Builder)_
 >
 >Nem todos os clientes compraram os módulos Advanced BI Analytics e Advanced Jornada Analytics. Entre em contato com o Gerente de sucesso do cliente para obter mais informações.
 
-Rastreie o ROI em suas iniciativas de marketing. Analise emails, clientes potenciais, programas, oportunidades, análise de desempenho de modelo (empresas) e análise de desempenho de modelo (clientes potenciais). O BI Explorer permite criar relatórios personalizados na área de análise e criar gráficos, gráficos, pivôs e painéis com seus dados.
+Rastreie o ROI em suas iniciativas de marketing. Analise emails, pessoas, programas, oportunidades, Análise de desempenho de modelo (empresas) e Análise de desempenho de modelo (clientes potenciais). O BI Explorer permite criar relatórios personalizados na área de análise e criar gráficos, gráficos, pivôs e painéis com seus dados.
 
 Alguns benefícios dos Relatórios avançados do BI Analytics incluem:
 
@@ -55,6 +55,10 @@ Alguns benefícios dos Relatórios avançados do BI Analytics incluem:
 
 ## Análise avançada de Jornada {#advanced-journey-analytics}
 
+>[!AVAILABILITY]
+>
+>Nem todos os clientes compraram os módulos Advanced BI Analytics e Advanced Jornada Analytics. Entre em contato com o Gerente de sucesso do cliente para obter mais informações.
+
 Modelos do ciclo de receita - modele todos os estágios de todo o seu funil de receita e como eles são transferidos entre esses estágios, desde o momento em que você interage pela primeira vez com um cliente potencial até o cliente potencial ser vencido.
 
 Analisador de caminho bem-sucedido - Obtenha uma representação visual de velocidade e fluxo pelo seu Modelo de ciclo de receita. O Analisador de caminho bem-sucedido requer que você crie modelos de Ciclo de receita.
@@ -65,7 +69,7 @@ Analisador de influência de oportunidade - prove a contribuição do Marketing 
 
 >[!NOTE]
 >
->A Análise de Desempenho de Modelo (Empresas) e a Análise de Desempenho de Modelo (Leads) com o Explorador de Ciclo de Receita dependem do Modelo de Ciclo de Receita.
+>A Análise de desempenho de modelo (empresas) e a Análise de desempenho de modelo (leads) com os Relatórios avançados de BI Analytics dependem do modelo de ciclo de receita criado no produto Advanced Jornada Analytics.
 
 
 
