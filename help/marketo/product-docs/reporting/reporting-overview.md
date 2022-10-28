@@ -3,7 +3,7 @@ description: Visão geral dos relatórios - Documentação do Marketo - Document
 title: Visão geral dos relatórios
 hide: true
 hidefromtoc: true
-source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
+source-git-commit: fe5d940b9f5e2cec919a52377226d46f708b8a01
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -59,13 +59,13 @@ Alguns benefícios dos Relatórios avançados do BI Analytics incluem:
 >
 >Nem todos os clientes compraram os módulos Advanced BI Analytics e Advanced Jornada Analytics. Entre em contato com o Gerente de sucesso do cliente para obter mais informações.
 
-Modelos do ciclo de receita - modele todos os estágios de todo o seu funil de receita e como eles são transferidos entre esses estágios, desde o momento em que você interage pela primeira vez com um cliente potencial até o cliente potencial ser vencido.
+Modelos do ciclo de receita: modele todos os estágios de todo o funil de receita e como eles são transferidos entre esses estágios, desde o momento em que você interage com um cliente potencial pela primeira vez até que o cliente potencial seja um cliente vencido.
 
-Analisador de caminho bem-sucedido - Obtenha uma representação visual de velocidade e fluxo pelo seu Modelo de ciclo de receita. O Analisador de caminho bem-sucedido requer que você crie modelos de Ciclo de receita.
+Analisador de caminho bem-sucedido: Obtenha uma representação visual da velocidade e flua pelo seu Modelo de ciclo de receita. O Analisador de caminho bem-sucedido requer que você crie modelos de Ciclo de receita.
 
-Analisador de programas - Identifique rapidamente os programas que são ou não bem-sucedidos e concentre seus recursos adequadamente. Use o analisador de programas para analisar e comparar cada custo e retorno detalhadamente por programa ou por canal.
+Analisador de programa: Identifique rapidamente os programas que são ou não bem-sucedidos e concentre seus recursos adequadamente. Use o analisador de programas para analisar e comparar cada custo e retorno detalhadamente por programa ou por canal.
 
-Analisador de influência de oportunidade - prove a contribuição do Marketing medindo o impacto dos programas e dos principais envolvimentos que geraram oportunidades.
+Analisador de influência de oportunidade: Provar a contribuição do Marketing por meio da medição do impacto de programas e dos principais envolvimentos que geraram oportunidades.
 
 >[!NOTE]
 >
