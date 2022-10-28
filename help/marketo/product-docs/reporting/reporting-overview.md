@@ -1,9 +1,9 @@
 ---
 description: Visão geral dos relatórios - Documentação do Marketo - Documentação do produto
 title: Visão geral dos relatórios
-source-git-commit: 79f09e37378a232fd4a254131f4eccb730ab263e
+source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -52,10 +52,6 @@ Alguns benefícios dos Relatórios avançados do BI Analytics incluem:
 * Visualização em forma gráfica, mapas de calor e curvas de distribuição
 
 ## Análise avançada de Jornada {#advanced-journey-analytics}
-
->[!AVAILABILITY]
->
->Nem todos os clientes compraram os módulos Advanced BI Analytics e Advanced Jornada Analytics. Entre em contato com o Gerente de sucesso do cliente para obter mais informações.
 
 Modelos do ciclo de receita: modele todos os estágios de todo o funil de receita e como eles são transferidos entre esses estágios, desde o momento em que você interage com um cliente potencial pela primeira vez até que o cliente potencial seja um cliente vencido.
 
