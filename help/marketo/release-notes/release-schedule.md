@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: Programação de versão - Documentação do Marketo - Documentação do produto
 title: Programação de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 8f620f5eca32bd9f58c95f02678be4914acfa158
+source-git-commit: 132aa2edc3ae4a62d9f2e22aa0d5ae4353bc6328
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 2%
@@ -37,7 +37,7 @@ _As datas de lançamento estão sujeitas a alterações_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Outubro de 22</td>
+   <td><a href="/help/marketo/release-notes/current.md">Outubro de 22</a></td>
    <td>14 de outubro de 2022</td>
    <td>Remetido</td>
   </tr>
@@ -66,8 +66,7 @@ _As datas de lançamento estão sujeitas a alterações_
    <td>8 de setembro de 2023</td>
    <td>Na Programação</td>
   </tr>
-
-<tr>
+  <tr>
    <td>Outubro de 23</td>
    <td>20 de outubro de 2023</td>
    <td>Na Programação</td>
