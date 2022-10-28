@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: Programação de versão - Documentação do Marketo - Documentação do produto
 title: Programação de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 18a09eb1d41d76b35072f45d0bdb3c66908a6335
+source-git-commit: 8f620f5eca32bd9f58c95f02678be4914acfa158
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 5%
+source-wordcount: '140'
+ht-degree: 2%
 
 ---
 
@@ -37,33 +37,39 @@ _As datas de lançamento estão sujeitas a alterações_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-jan-22.md">Janeiro de 2022</a></td>
-   <td>21 de janeiro de 2022</td>
-   <td>Remetido</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-mar-22.md">Março de 22</a></td>
-   <td>11 de março de 2022</td>
-   <td>Remetido</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-may-22.md">Maio de 22</a></td>
-   <td>6 de maio de 2022</td>
-   <td>Remetido</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-june-22.md">Junho de 22</td>
-   <td>24 de junho de 2022</td>
-   <td>Remetido</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-aug-22.md">Agosto de 22</td>
-   <td>26 de agosto de 2022</td>
-   <td>Remetido</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/current.md">Outubro de 22</td>
    <td>14 de outubro de 2022</td>
+   <td>Remetido</td>
+  </tr>
+  <tr> 
+   <td>Janeiro de 2023</td>
+   <td>20 de janeiro de 2023</td>
+   <td>Na Programação</td>
+  </tr>
+  <tr> 
+   <td>Março de 23</td>
+   <td>24 de março de 2023</td>
+   <td>Na Programação</td>
+  </tr>
+  <tr> 
+   <td>Maio de 23</td>
+   <td>19 de maio de 2023</td>
+   <td>Na Programação</td>
+  </tr>
+  <tr> 
+   <td>Julho de 23</td>
+   <td>21 de julho de 2023</td>
+   <td>Na Programação</td>
+  </tr>
+  <tr>
+   <td>Setembro de 2023</td>
+   <td>8 de setembro de 2023</td>
+   <td>Na Programação</td>
+  </tr>
+
+<tr>
+   <td>Outubro de 23</td>
+   <td>20 de outubro de 2023</td>
    <td>Na Programação</td>
   </tr>
  </tbody>
