@@ -2,9 +2,9 @@
 description: Critérios de público-alvo - Documentos do Marketo - Documentação do produto
 title: Critérios de público
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
+source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
 workflow-type: tm+mt
-source-wordcount: '499'
+source-wordcount: '548'
 ht-degree: 2%
 
 ---
@@ -13,27 +13,33 @@ ht-degree: 2%
 
 Semelhante às Smart Lists da Marketo, os atributos de Critérios de público-alvo permitem que você defina seu público-alvo. Você pode direcionar pessoas conhecidas ou desconhecidas usando atributos inferidos, de pessoa ou da empresa (ou uma combinação desses atributos).
 
+## Prioridade {#priority}
+
+A prioridade determina qual Diálogo um lead recebe, caso se qualifique para mais de um. Ele é estabelecido quando você é o primeiro [criar a caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}. Você pode alterar a prioridade de um Diálogo existente abrindo-o e indo para **Detalhes da caixa de diálogo** na guia Critérios de público-alvo .
+
+![](assets/audience-criteria-1.png)
+
 ## Eventos {#events}
 
-![](assets/audience-criteria-0.png)
+![](assets/audience-criteria-2.png)
 
 Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em que eles ficam em sua página/site. No exemplo abaixo, estamos direcionando visitantes que estão em uma página específica por mais de 20 segundos.
 
 1. Pegue o **Tempo na página** e arraste-o para a direita.
 
-   ![](assets/audience-criteria-0a.png)
+   ![](assets/audience-criteria-3.png)
 
 1. Defina o tempo &quot;Maior que&quot; para 20 segundos.
 
-   ![](assets/audience-criteria-0b.png)
+   ![](assets/audience-criteria-4.png)
 
 1. Adicione o URL da página desejada no [Target](#target) seção.
 
-   ![](assets/audience-criteria-0c.png)
+   ![](assets/audience-criteria-5.png)
 
 ## Atributos {#attributes}
 
-![](assets/audience-criteria-0d.png)
+![](assets/audience-criteria-6.png)
 
 **Pessoas conhecidas**
 
@@ -41,15 +47,15 @@ Existem _many_ combinações de atributos para escolher. No exemplo abaixo, esta
 
 1. Pegue o **Estado da pessoa** e arraste-o para a direita.
 
-   ![](assets/audience-criteria-1.png)
+   ![](assets/audience-criteria-7.png)
 
 1. _Is_ é definido por padrão. No campo Selecionar valores , digite CA (também é possível clicar no menu suspenso e selecionar na lista).
 
-   ![](assets/audience-criteria-2.png)
+   ![](assets/audience-criteria-8.png)
 
 1. Pegue o **Tamanho da empresa** atribua-o e arraste-o para onde ele diz _arraste e solte um atributo aqui_.
 
-   ![](assets/audience-criteria-3.png)
+   ![](assets/audience-criteria-9.png)
 
    >[!NOTE]
    >
@@ -57,11 +63,11 @@ Existem _many_ combinações de atributos para escolher. No exemplo abaixo, esta
 
 1. Clique no menu suspenso do operador e selecione **Maior que**.
 
-   ![](assets/audience-criteria-4.png)
+   ![](assets/audience-criteria-10.png)
 
 1. Digite 50 e clique em outro lugar na tela para salvar.
 
-   ![](assets/audience-criteria-5.png)
+   ![](assets/audience-criteria-11.png)
 
 E é isso!
 
@@ -71,15 +77,15 @@ Há uma maneira fácil de direcionar especificamente as pessoas que ainda não e
 
 1. Pegue o **Email da pessoa** e arraste-o para a direita.
 
-   ![](assets/audience-criteria-6.png)
+   ![](assets/audience-criteria-12.png)
 
 1. Clique no menu suspenso do operador e selecione **Está vazio**.
 
-   ![](assets/audience-criteria-7.png)
+   ![](assets/audience-criteria-13.png)
 
 1. Pegue o **Estado inferido** atribua-o e arraste-o para onde ele diz _arraste e solte um atributo aqui_.
 
-   ![](assets/audience-criteria-8.png)
+   ![](assets/audience-criteria-14.png)
 
    >[!NOTE]
    >
@@ -87,15 +93,15 @@ Há uma maneira fácil de direcionar especificamente as pessoas que ainda não e
 
 1. _Is_ é definido por padrão. No campo Selecionar valores , digite NY (também é possível clicar no menu suspenso e selecionar na lista).
 
-   ![](assets/audience-criteria-9.png)
+   ![](assets/audience-criteria-15.png)
 
 ## Adicionar grupos {#add-groups}
 
 Você também tem a opção de agrupar atributos, caso queira ter todos os atributos específicos junto com &quot;todos ou qualquer&quot; um dos outros. Você pode adicionar vários grupos.
 
-![](assets/audience-criteria-10.png)
+![](assets/audience-criteria-16.png)
 
-![](assets/audience-criteria-11.png)
+![](assets/audience-criteria-17.png)
 
 ## Destino {#target}
 
@@ -116,7 +122,7 @@ Formatos aceitáveis:
 
 Use exclusões para garantir que a caixa de diálogo faça isso **not** aparecem em uma página/área específica do site. As exclusões seguem o mesmo formato que as inclusões.
 
-![](assets/audience-criteria-12.png)
+![](assets/audience-criteria-18.png)
 
 >[!MORELIKETHIS]
 >
