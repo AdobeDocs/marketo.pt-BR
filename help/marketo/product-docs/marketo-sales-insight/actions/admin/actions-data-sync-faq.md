@@ -2,10 +2,10 @@
 description: Perguntas frequentes sobre sincronização de dados de ações - Documentação do Marketo - Documentação do produto
 title: Perguntas frequentes sobre a sincronização de dados de ações
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3f00a7088a71bbdf028fd6b0a57da57ea13ca5de
+source-git-commit: fbeb28b1b89fb329a4b45fb01dbad7df939ddc0c
 workflow-type: tm+mt
-source-wordcount: '1044'
-ht-degree: 2%
+source-wordcount: '1050'
+ht-degree: 3%
 
 ---
 
@@ -41,7 +41,7 @@ O proprietário de vendas não precisa ser o usuário de sincronização da Mark
 
 ![](assets/actions-data-sync-faq-3.png)
 
-Os dados da atividade, como email, chamada, momento interessante e Web, são todos provenientes do banco de dados do Marketo Engage. O Sales Insight Smart Grid faz uma solicitação para a instância do Marketo Engage para recuperá-la sempre que um usuário de vendas carregar o painel Sales Insight .
+Os dados da atividade, como email, chamada, momento interessante e web, são todos provenientes do banco de dados Marketo Engage. O Sales Insight Smart Grid faz uma solicitação para a instância do Marketo Engage para recuperá-la sempre que um usuário de vendas carregar o painel Sales Insight .
 
 ![](assets/actions-data-sync-faq-4.png)
 
@@ -55,6 +55,8 @@ Há 11 campos que são sincronizados de Marketo Engage para Ações de insight d
 * Sobrenome
 * ID de contato do Salesforce
 * ID de cliente do Salesforce
+* ID da conta do Salesforce
+* ID de oportunidade do Salesforce
 * ID do Marketo
 * Empresa
 * Título
