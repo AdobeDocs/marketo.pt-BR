@@ -2,10 +2,10 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c932466d9307768e9635150e499e4eabcad7c83b
+source-git-commit: 9f4282991ba2ec35cfe6f50ede5d663e105682f4
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 5%
+source-wordcount: '551'
+ht-degree: 6%
 
 ---
 
@@ -44,7 +44,7 @@ Os seguintes recursos começarão a ser lançados em **14 de outubro de 2022**, 
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Ícones do Designer de fluxo</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendário</a></td>
   </tr>
   </tbody>
 </table>
