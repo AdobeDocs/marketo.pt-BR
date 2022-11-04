@@ -2,7 +2,7 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9f4282991ba2ec35cfe6f50ede5d663e105682f4
+source-git-commit: ae2e1a476916e752cbde26a7c1322929fec85e4b
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 6%
@@ -57,7 +57,7 @@ Os seguintes recursos começarão a ser lançados em **14 de outubro de 2022**, 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td>Em breve</td>
+   <td><i>Em breve</i></td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -71,7 +71,7 @@ Os seguintes recursos começarão a ser lançados em **14 de outubro de 2022**, 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td>Em breve</td>
+   <td><i>Em breve</i></td>
    <td>n/d</td>
   </tr>
   </tbody>
