@@ -1,39 +1,34 @@
 ---
 unique-page-id: 10912237
-description: Visão geral do seletor de modelo de e-mail - Documentos de marketing - Documentação do produto
-title: Visão Geral do Seletor de Modelos de Email
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Visão geral do seletor de modelo de email - Documentos do Marketo - Documentação do produto
+title: Visão geral do seletor de modelo de email
+exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
+source-git-commit: 73540b9fe5b3d3decf8f7cd03badec78a592cbc7
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
 
+# Visão geral do seletor de modelo de email {#email-template-picker-overview}
 
-# Visão Geral do Seletor de Modelos de Email {#email-template-picker-overview}
-
-Ao [criar um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), você tem vários modelos gratuitos para escolher. Você também pode criar seu próprio modelo e salvá-lo para uso futuro.
+Quando você [criar um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), você tem vários modelos gratuitos para escolher. Você também pode criar seu próprio modelo e salvá-lo para uso futuro.
 
 ![](assets/starter-templates.png)
 
-**O** nome será o nome do e-mail criado com base no modelo, não o próprio modelo. **A** descrição também se aplica ao email e é opcional.
+**Nome** será o nome do email criado com base no modelo, não o próprio modelo. **Descrição** também se aplica ao email e é opcional.
 
 ![](assets/two-2.png)
 
-Se o seu email for crítico e você quiser que ele contorne os limites de comunicação, [torne-o operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) marcando a caixa. **A opção Abrir no** editor está selecionada por padrão e significa apenas que você deseja start na edição do seu novo email imediatamente. **Criações,** criem!
+Se seu email for crítico e você quiser que ele contorne os limites de comunicação, [torná-la operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) marcando a caixa . **Abrir no editor** for selecionada por padrão, o simplesmente significa que você deseja começar a editar seu novo email imediatamente. **Criar** quer dizer, crie!
 
 ![](assets/three-2.png)
 
-**Os** modelos iniciais incluem uma coleção de modelos de e-mail responsivos prontos para uso. Você pode usá-los como estão ou personalizá-los de acordo com sua preferência.
+**Modelos iniciais** O inclui uma coleção de modelos de email responsivos prontos para uso. Você pode usá-los como estão ou personalizá-los de acordo com sua preferência.
 
 ![](assets/starter-templates.png)
 
->[!NOTE]
->
->Os modelos iniciais do Marketo são oferecidos gratuitamente a todos os clientes. Embora eles sejam atualizados continuamente e otimizados para os principais clientes de email (e dispositivos móveis), você deve sempre avaliar se eles atendem às suas necessidades. A [Ferramenta de entrega de e-mail](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md) do Marketo pode mostrar as renderizações de modelos em diferentes clientes de e-mail. Infelizmente, o Marketo não pode levar as solicitações de design para fora dos compromissos de serviço pago.
-
-**Meus** modelos consistem em todos os modelos que você criou. Você também pode ter pastas.
+**Meus modelos** consiste em todos os modelos que você criou. Você também pode ter pastas.
 
 ![](assets/five-2.png)
 
@@ -41,11 +36,11 @@ Todas as pastas que aparecem em Emails > Modelos na árvore do Design Studio est
 
 ![](assets/six-1.png)
 
-Para pré-visualização de um modelo, passe o mouse sobre sua miniatura e clique em **Pré-visualização**. Você também pode clicar duplo nele.
+Para visualizar um modelo, passe o mouse sobre a miniatura e clique em **Visualizar**. Você também pode clicar duas vezes nela.
 
 ![](assets/seven-1.png)
 
-O visualizador mostra como o modelo será renderizado em um computador desktop...
+O visualizador mostra como o modelo será renderizado em uma máquina de desktop...
 
 ![](assets/eight-1.png)
 
@@ -53,11 +48,11 @@ O visualizador mostra como o modelo será renderizado em um computador desktop..
 
 ![](assets/nine-1.png)
 
-Se você gostar deste modelo, escolha-o clicando em **Select** na parte inferior direita. Quer continuar procurando? Clique em **X** no canto superior direito. Use as setas para a esquerda e para a direita para percorrer os modelos.
+Se desejar este modelo, escolha-o clicando em **Selecionar** na parte inferior direita. Quer continuar procurando? Clique no botão **X** no canto superior direito. Use as setas para a esquerda e para a direita para percorrer os modelos.
 
 ![](assets/ten-1.png)
 
-Você também pode clicar com o botão direito do mouse em uma miniatura de modelo para obter mais opções.
+Você também pode clicar com o botão direito do mouse em uma miniatura do modelo para obter mais opções.
 
 ![](assets/eleven-1.png)
 
