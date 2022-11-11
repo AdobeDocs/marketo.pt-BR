@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação do produto Marketo
 feature-set: Marketo Engage
-source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
+source-git-commit: 8a2429eb077b3bddafb3d8c7b96ecdca2eefba34
 workflow-type: tm+mt
-source-wordcount: '8816'
+source-wordcount: '8813'
 ht-degree: 5%
 
 ---
@@ -931,7 +931,6 @@ ht-degree: 5%
       + Entregabilidade {#deliverability}
          + [Cancelamento de inscrição durável](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Pacote de energia de entrega de email: Como importar uma lista de sementes](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
-         + [Ferramenta Entregabilidade por Email](product-docs/email-marketing/deliverability/email-deliverability-tool.md)
          + [Devoluções permanentes e suaves no email](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
          + [Configurar uma assinatura DKIM personalizada](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
          + [Configurar SPF e DKIM para sua capacidade de delivery de email](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
