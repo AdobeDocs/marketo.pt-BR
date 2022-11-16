@@ -2,7 +2,7 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 5%
@@ -22,6 +22,8 @@ Abaixo você encontrará todos os recursos incluídos na versão de 22 de outubr
 Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser lançados em **14 de outubro de 2022**, com uma distribuição em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status abaixo de cada recurso.
 
 ### Experiência da próxima geração {#next-generation-experience}
+
+</br>
 
 * **Telas atualizadas na experiência de próxima geração**: Estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração que oferecem melhorias atualizadas de design e usabilidade acessíveis por meio do switch de alternância:
 
@@ -70,6 +72,8 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
 
 ### Ambiente de dados de marketing {#marketing-data-environment}
 
+</br>
+
 * **Integração do Adobe Privacy Service**: Faça a harmonização com o Privacy Service para automatizar a conformidade com as regulamentações de privacidade de dados em produtos de Experience Cloud. Atualmente, esse serviço está disponível somente para clientes do Marketo Engage que se conectaram ao Adobe Identity Management System.
 
 <table> 
@@ -86,6 +90,8 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
 
 ### Melhorias da API {#api-enhancements}
 
+</br>
+
 * **Importação de leads em massa: Associação de Vendedores**: Paridade com a API REST de lead para poder associar leads com vendedores durante o processo de importação de lead em massa, reduzindo a complexidade e o número de chamadas de API necessárias.
 
 <table> 
@@ -101,6 +107,8 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
 </table>
 
 ### Sales Insight {#sales-insight}
+
+</br>
 
 ![(estrela)](assets/yellow-star.png)
 

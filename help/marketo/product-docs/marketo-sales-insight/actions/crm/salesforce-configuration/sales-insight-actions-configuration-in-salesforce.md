@@ -2,9 +2,9 @@
 description: Configuração de ações de insight de vendas no Salesforce - Documentos da Marketo - Documentação do produto
 title: Configuração de ações de insight de vendas no Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,15 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. Insira o Nome do site remoto (pode ser algo como &quot;MarketoSalesInsight&quot;). Insira o URL do site remoto (https://ims-na1-stg1.adobelogin.com) e clique em **Salvar**.
+1. Insira o Nome do site remoto (pode ser algo como &quot;MarketoSalesInsight1&quot;). Insira o URL do site remoto `https://ims-na1.adobelogin.com` e clique em **Salvar**.
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
+
+1. Clique em **Novo local remoto** novamente.
+
+   ![](assets/msi-actions-configuration-in-salesforce-4a.png)
+
+1. Insira o Nome do site remoto (pode ser algo como &quot;MarketoSalesInsight2&quot;). Inserir URL de local remoto `https://mkto-sales-connect.adobe.io` e clique em **Salvar**.
 
 ## Ativar ações de insight de vendas no CRM {#enabling-sales-insight-actions-across-the-crm}
 
