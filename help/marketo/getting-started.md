@@ -3,10 +3,10 @@ unique-page-id: 1147226
 description: Introdução - Documentos do Marketo - Documentação do produto
 title: Introdução
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
+source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 24%
+source-wordcount: '139'
+ht-degree: 28%
 
 ---
 
@@ -17,10 +17,6 @@ ht-degree: 24%
 O que é o Marketo Engage, você pergunta? Grande pergunta!
 
 [Aprenda o Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
-
-## Quais níveis de preços estão disponíveis {#what-pricing-tiers-are-available}
-
-Confira o [página Preços e pacotes de Marketo Engage](https://www.marketo.com/solutions/pricing/){target=&quot;_blank&quot;} para obter mais informações.
 
 ## Configurar {#get-set-up}
 
