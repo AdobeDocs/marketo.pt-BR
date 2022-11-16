@@ -1,10 +1,8 @@
 ---
 description: Campos personalizados do membro do programa - Documentos do Marketo - Documentação do produto
 title: Campos personalizados do membro do programa
-hide: true
-hidefromtoc: true
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+source-git-commit: ef3ab6ec245a9d2e1bf89033d9406992061e5420
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 6%
@@ -120,7 +118,7 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
       <td>Sequência de caracteres</td>
     </tr>
     <tr>
-      <td>Email</td>
+      <td>E-mail</td>
       <td>Sequência de caracteres</td>
     </tr>
     <tr>
