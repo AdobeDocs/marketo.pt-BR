@@ -2,10 +2,10 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: f656901c3a25e043e59411857190f4711036637d
 workflow-type: tm+mt
-source-wordcount: '591'
-ht-degree: 5%
+source-wordcount: '629'
+ht-degree: 6%
 
 ---
 
@@ -20,6 +20,24 @@ Abaixo você encontrará todos os recursos incluídos na versão de 22 de outubr
 ## Recursos do ciclo de versão padrão {#standard-release-cycle-features}
 
 Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser lançados em **14 de outubro de 2022**, com uma distribuição em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status abaixo de cada recurso.
+
+### Ambiente de dados de marketing {#marketing-data-environment}
+
+</br>
+
+* **Sincronização de Campos Personalizados do Membro do Programa**: Capacidade de sincronizar bidirecionalmente campos extensíveis capturados para um membro do programa (por exemplo, preferências do participante durante o registro do evento, como comida, sessões, faixas etc.)
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Atualizações de documentação</b></td>
+  </tr>
+  <tr> 
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  </tbody>
+</table>
 
 ### Experiência da próxima geração {#next-generation-experience}
 
