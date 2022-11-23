@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: Etapas de configuração - Documentação do Marketo - Documentação do produto
 title: Etapas de configuração
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
+source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
 workflow-type: tm+mt
-source-wordcount: '2002'
+source-wordcount: '2085'
 ht-degree: 0%
 
 ---
@@ -139,7 +139,7 @@ Copie a Cadeia de caracteres da conta das configurações da página de aterriss
 
 Este é o `[AccountString]`. Salve-o. Você precisará fornecê-lo à TI na Etapa 5.
 
-Defina as configurações de domínio para que as páginas de aterrissagem usem o domínio de sua empresa em vez do da Marketo (onde estão hospedadas).
+Defina as configurações de domínio para que as páginas de aterrissagem usem o domínio de sua empresa em vez do Marketo (onde estão hospedadas).
 
 ## Garantir a entregabilidade por email {#ensure-email-deliverability}
 
@@ -197,7 +197,7 @@ Agora você tem todas as informações necessárias para enviar sua solicitaçã
 >
 >Você é um cliente do Launch Pack? Ignore esta etapa. O consultor fornecerá um documento de instruções de configuração de TI durante a chamada inicial.
 
-Depois de coletar todas as informações necessárias, você está pronto para enviar uma solicitação para a TI. Você pode usar o texto abaixo como um modelo, substituindo o texto em negrito por suas próprias informações.
+Depois de coletar todas as informações necessárias, você está pronto para enviar uma solicitação para TI. Você pode usar o texto abaixo como um modelo, substituindo o texto em negrito por suas próprias informações.
 
 [Incluir um link para este artigo](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
 
@@ -318,7 +318,7 @@ No campo Domínio , insira o domínio de rastreamento de email. Isso deve estar 
 
 ## Integre seu CRM {#integrate-your-crm}
 
-Esta é provavelmente a etapa mais excitante de sua configuração - é hora de preencher o Marketo com todos esses leads e contatos que você armazenou em seu CRM!
+Esta é provavelmente a etapa mais excitante de sua configuração - é hora de preencher o Marketo com todos os leads e contatos que você armazenou em seu CRM!
 
 Escolha entre as opções a seguir, dependendo do CRM que sua empresa usa.
 
@@ -340,5 +340,9 @@ A Marketo tem o JavaScript de rastreamento personalizado (chamado Munchkin) que 
 >[!NOTE]
 >
 >Experiência com HTML necessária para adicionar o código de rastreamento.
+
+## Expectativas de desempenho {#performance-expectations}
+
+O que você pode esperar em termos de desempenho da Marketo? Pode variar, dependendo do tamanho e da complexidade de suas campanhas de marketing. Mas você pode esperar níveis de desempenho iguais aos descritos na coluna &quot;Padrão&quot; em várias das tabelas encontradas no [Descrição do produto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target=&quot;_blank&quot;}. As colunas &quot;Desempenho&quot; e &quot;Desempenho Plus&quot; referem-se aos pacotes de nível de desempenho que fornecem [níveis de desempenho mais altos](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}.
 
 Todas as etapas de configuração foram concluídas. A única coisa que resta é mergulhar e usar o Marketo!
