@@ -1,19 +1,18 @@
 ---
 unique-page-id: 14746432
-description: Sincronizar campos personalizados com insights de desempenho - Documentos do Marketing - Documentação do produto
+description: Sincronizar campos personalizados com informações de desempenho - Documentos do Marketo - Documentação do produto
 title: Sincronizar campos personalizados com insights de desempenho
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 90b7cd29-b8f3-4f52-aa15-5c1a0e50b590
+source-git-commit: 84b1e13e29fb4c7d7b7d10660983f418e6d9957c
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-
 # Sincronizar campos personalizados com insights de desempenho {#sync-custom-fields-to-performance-insights}
 
-Os painéis de Receita e Pipeline MPI podem filtrar em campos de Marketing personalizados. para fazer isso, é necessário definir os campos personalizados a serem sincronizados.
+Os painéis Receita e Pipeline de MPI podem filtrar em campos personalizados do Marketo. para isso, é necessário definir os campos personalizados que serão sincronizados.
 
 >[!NOTE]
 >
@@ -21,32 +20,36 @@ Os painéis de Receita e Pipeline MPI podem filtrar em campos de Marketing perso
 
 >[!NOTE]
 >
->Este artigo é somente para usuários que **não** têm Análises do ciclo de receita. Se você tiver RCA, siga as etapas em [este artigo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md).
+>Este artigo é somente para usuários que **not** têm o Revenue Cycle Analytics. Se tiver RCA, siga as etapas em [este artigo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md).
 
-1. Vá para a seção **Admin**.
+1. Vá para o **Administrador** seção.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Em Outros elementos, selecione **Análise do Programa**.
+1. Em Outros itens, selecione **Análise de programa**.
 
    ![](assets/2-3.png)
 
-1. Clique na guia **Sincronização de campo personalizado**.
+1. Clique no botão **Sincronização de campo personalizado** guia .
 
    ![](assets/3-5.png)
 
-1. Selecione o campo para o qual deseja habilitar a sincronização e clique em **Editar opção de sincronização**.
+1. Selecione o campo para o qual deseja habilitar a sincronização e clique em **Opção Editar Sincronização**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Altere **Sincronizar status** para **Ativado**.
+   >[!IMPORTANT]
+   >
+   >Os campos escolhidos precisam estar relacionados somente à área Oportunidade de Programa .
+
+1. Altere o **Sincronizar Status** para **Ativado**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Selecione **Tipo RCA** de sua escolha e clique em **Salvar**.
+1. Selecione o **Tipo de RCA** de sua escolha, em seguida, clique em **Salvar**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
    >[!NOTE]
    >
-   >Depois de habilitados, os campos estarão disponíveis em MPI no dia seguinte.
+   >Depois de ativados, os campos estarão disponíveis no MPI no dia seguinte.
