@@ -3,15 +3,14 @@ unique-page-id: 10098433
 description: Criar uma  Lista de permissões para acesso à API baseado em IP - Documentos do Marketo - Documentação do produto
 title: Criar uma  Lista de permissões para acesso à API baseado em IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Crie uma  Lista de permissões para Acesso à API baseado em IP {#create-an-allowlist-for-ip-based-api-access}
+# Criar uma  Lista de permissões para acesso à API baseado em IP {#create-an-allowlist-for-ip-based-api-access}
 
 Às vezes, você deseja conceder acesso à API somente a um endereço IP específico ou a um intervalo de endereços. Para fazer isso, primeiro habilite as restrições e, em seguida, especifique os endereços IP que podem usar as APIs.
 
@@ -19,26 +18,30 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para **Admin** e clique em **Serviços Web**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2016-2-25-9-3a12-3a48.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
+
+1. Clique em **Serviços Web**.
+
+   ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
 1. Na área Restrições de IP, clique em **Editar,** ou clique em **Editar restrições de IP** no canto superior esquerdo.
 
-   ![](assets/image2016-2-25-9-3a15-3a30.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Marque a caixa **Enable IP Restrictions** e insira os endereços IP que deseja lista de permissões.
+1. Verifique a **Habilitar restrições de IP** e insira os endereços IP que deseja lista de permissões.
 
-   ![](assets/image2016-2-25-9-3a18-3a28.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
    >[!NOTE]
    >
    >Você pode inserir um único endereço IP ou um intervalo deles, ou usar um curinga.
 
-1. Clique em **Add** para abrir campos adicionais e inserir mais endereços IP.
+1. Clique em **Adicionar** para abrir campos adicionais e inserir mais endereços IP.
 
-   ![](assets/image2016-2-25-9-3a20-3a47.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
 1. Clique em **Salvar**.
 
-   ![](assets/image2016-2-25-9-3a28-3a21.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)

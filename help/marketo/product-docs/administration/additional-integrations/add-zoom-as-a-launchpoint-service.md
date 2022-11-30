@@ -3,10 +3,9 @@ unique-page-id: 17728028
 description: Adicionar o Zoom como um LaunchPoint Service - Documentos do Marketo - Documentação do produto
 title: Adicionar Zoom como um Serviço do LaunchPoint
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,29 +22,33 @@ O Marketo gerencia o registro e a participação de Zoom.
 >
 >Uma assinatura existente para os direitos de Zoom e Administração é necessária para esta etapa. Tenha o email e a senha usados para entrar no Zoom.
 
-1. Vá para a área **Admin** e clique em **LaunchPoint**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/launchpoint.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
-1. Clique no menu suspenso **New** e selecione **New Service**.
+1. Clique em **LaunchPoint**.
 
-   ![](assets/newservicelp.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
-1. Insira um **Nome de Exibição**. Em **Service**, selecione **Zoom**.
+1. Selecionar **Novo** e depois **Novo Serviço**.
 
-   ![](assets/newservice-1.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-1. Clique em **Fazer logon no zoom**.
+1. Insira um **Nome de exibição**. Em **Serviço**, selecione **Zoom**.
 
-   ![](assets/login.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
-1. Na janela Zoom login , insira suas credenciais de Zoom e clique em **Sign in**.
+1. Clique em **Logon no zoom**.
 
-   ![](assets/zoomlogin.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
-1. Depois que a janela for fechada, clique em **Create**.
+1. Na janela de logon Zoom, digite as credenciais de Zoom e clique em **Fazer logon**.
 
-   ![](assets/create-1.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-6.png)
+
+1. Depois que a janela fechar, clique em **Criar**.
+
+   ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
    Ótimo! Sua conta de Zoom agora é sincronizada com o Marketo e pode ser encontrada na área do LaunchPoint.
 

@@ -2,7 +2,7 @@
 description: Configuração de ações de insight de vendas no Salesforce - Documentos da Marketo - Documentação do produto
 title: Configuração de ações de insight de vendas no Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 ## Adicionar novo local remoto no Salesforce {#add-new-remote-site-in-salesforce}
 
-1. No Salesforce, clique em **Configuração**.
+1. No Salesforce, clique em **Configuração**.
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. Procure por &quot;site remoto&quot; e selecione **Configurações de local remoto**.
+1. Procure por &quot;site remoto&quot; e selecione **Configurações de local remoto**.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. Clique em **Novo local remoto**.
+1. Clique em **Novo local remoto**.
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. Insira o Nome do site remoto (pode ser algo como &quot;MarketoSalesInsight2&quot;). Inserir URL de local remoto `https://mkto-sales-connect.adobe.io` e clique em **Salvar**.
+1. Insira o Nome do site remoto (pode ser algo como &quot;MarketoSalesInsight2&quot;). Inserir URL de local remoto `https://mkto-sales-connect.adobe.io` e clique em **Salvar**.
 
 ## Ativar ações de insight de vendas no CRM {#enabling-sales-insight-actions-across-the-crm}
 
