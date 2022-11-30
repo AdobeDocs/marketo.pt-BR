@@ -3,8 +3,7 @@ unique-page-id: 11378468
 description: Filtragem na trilha de auditoria - Documentos do Marketo - Documentação do produto
 title: Filtragem na trilha de auditoria
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -15,41 +14,41 @@ ht-degree: 0%
 
 Filtre por período, tipo de ativo, usuários, ação executada e muito mais.
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
-   ![](assets/one-1.png)
+   ![](assets/filtering-in-audit-trail-1.png)
 
-1. Em **Segurança**, selecione **Trilha de Auditoria**.
+1. Em **Segurança**, selecione **Trilha de auditoria**.
 
-   ![](assets/two-1.png)
+   ![](assets/filtering-in-audit-trail-2.png)
 
 1. Clique no ícone de filtro.
 
-   ![](assets/three.png)
+   ![](assets/filtering-in-audit-trail-3.png)
 
    >[!NOTE]
    >
    >Há uma grande variedade de combinações de parâmetros de pesquisa possíveis. Neste exemplo, localizamos: _todos os emails - editados por qualquer pessoa - nos sete dias anteriores_.
 
-1. Clique no menu suspenso **Period** e selecione **Last 7 Days**.
+1. Clique no botão **Período** e selecione **Últimos 7 Dias**.
 
-   ![](assets/four.png)
+   ![](assets/filtering-in-audit-trail-4.png)
 
-1. Clique no menu suspenso **Tipo de ativo** e selecione **Email**.
+1. Clique no botão **Tipo de ativo** e selecione **Email**.
 
-   ![](assets/five.png)
+   ![](assets/filtering-in-audit-trail-5.png)
 
-1. Clique no menu suspenso **Actions** e selecione **Edit**.
+1. Clique no botão **Ações** e selecione **Editar**.
 
-   ![](assets/six.png)
+   ![](assets/filtering-in-audit-trail-6.png)
 
 1. Clique em **Aplicar**.
 
-   ![](assets/seven.png)
+   ![](assets/filtering-in-audit-trail-7.png)
 
 1. Os resultados filtrados são exibidos à esquerda.
 
-   ![](assets/eight.png)
+   ![](assets/filtering-in-audit-trail-8.png)
 
    Pronto!
 
