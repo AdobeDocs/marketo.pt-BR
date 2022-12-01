@@ -3,9 +3,9 @@ unique-page-id: 2360251
 description: Editar a mensagem de cancelamento de inscrição - Documentos do Marketo - Documentação do produto
 title: Editar a mensagem de cancelamento de inscrição
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: 931b42d7266b9c57308567527042dfcad9847993
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
@@ -18,11 +18,15 @@ ht-degree: 1%
 
 Ao enviar emails de marketing (não[operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), o texto de cancelamento de assinatura e os links são anexados à parte inferior. Você pode alterar os padrões. Veja como.
 
-## Editar a mensagem de cancelamento de inscrição {#edit-the-unsubscribe-message-1}
+## Onde fazer a edição {#where-to-make-the-edit}
 
-1. Em **Administrador**, clique em **Email**.
+1. Vá para o **Administrador** seção.
 
-   ![](assets/image2014-9-18-16-3a52-3a1.png)
+   ![](assets/edit-the-unsubscribe-message-1.png)
+
+1. Clique em **Email**.
+
+   ![](assets/edit-the-unsubscribe-message-2.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ Ao enviar emails de marketing (não[operacional](/help/marketo/product-docs/emai
 
 1. Edite o **Cancelar inscrição no HTML** e **Cancelar assinatura do texto** versões ao seu gosto e clique em **Salvar alterações**.
 
-   ![](assets/image2016-8-26-13-3a40-3a55.png)
+   ![](assets/edit-the-unsubscribe-message-3.png)
 
    Aí está. _Certifique-se de testar!_ Você não quer que seus emails de marketing tenham links de cancelamento de inscrição quebrados.
 

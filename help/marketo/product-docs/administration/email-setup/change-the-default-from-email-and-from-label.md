@@ -3,8 +3,7 @@ unique-page-id: 2360247
 description: Alterar o padrão do email e do rótulo - Documentos do Marketo - Documentação do produto
 title: Alterar o padrão do email e do rótulo
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -13,23 +12,23 @@ ht-degree: 0%
 
 # Alterar o padrão do email e do rótulo {#change-the-default-from-email-and-from-label}
 
-Cada usuário administrador tem a capacidade de alterar os valores padrão de **De email** e **Do rótulo** para que, ao criar novos emails, esses padrões sejam usados.
+Cada usuário administrador tem a capacidade de alterar os valores padrão de **Do Email** e **Do Rótulo** para que, ao criar novos emails, esses padrões sejam usados.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a seção **Admin**.
+1. Vá para o **Administrador** seção.
 
-   ![](assets/adminhand.png)
+   ![](assets/change-the-default-from-email-and-from-label-1.png)
 
 1. Clique em **Email**.
 
-   ![](assets/image2014-9-18-16-3a27-3a19.png)
+   ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Insira os valores padrão desejados para **De Email** e **Do Rótulo** e clique em **Salvar Alterações**.
+1. Insira os valores padrão desejados **Do Email** e **Do Rótulo** em seguida, clique em **Salvar alterações**.
 
-   ![](assets/change-default-hands.png)
+   ![](assets/change-the-default-from-email-and-from-label-3.png)
 
 >[!NOTE]
 >
