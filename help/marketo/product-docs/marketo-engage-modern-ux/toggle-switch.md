@@ -2,7 +2,7 @@
 description: Alternar Switch - Documentos do Marketo - Documentação do produto
 title: Alternar Switch
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 1%
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # Alternar Switch {#toggle-switch}
 
-O Switch de alternância permite alternar entre a interface clássica do Marketo e a experiência de Marketo Engage de próxima geração. Está disponível em todas as áreas destacadas abaixo.
+O Switch Alternar permite que você alterne entre a interface clássica do Marketo e o UX Moderno. Está disponível em todas as áreas destacadas abaixo.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Ative a opção de alternância para funções individuais ou todas as funções
 
 ## Ativar para recursos {#enable-for-features}
 
-Você tem a opção de ativar manualmente a interface da próxima geração da Marketo para recursos individuais ou todos os recursos disponíveis (atuais e futuros).
+Você tem a opção de ativar manualmente o Marketo Engage Modern UX para recursos individuais ou todos os recursos disponíveis (atuais e futuros).
 
 Em uma área que possui atualmente o Alternar (neste exemplo, estamos na Exibição de lista de email), basta clicar no botão de alternância na parte inferior direita da página.
 
@@ -55,7 +55,7 @@ Selecionar **Habilitar para todos os recursos disponíveis** e clique em **OK**.
 
 ## Recursos disponíveis {#available-features}
 
-Os seguintes recursos estão disponíveis na interface de próxima geração da Marketo (com novos recursos adicionados a cada versão):
+Os seguintes recursos estão disponíveis no UX moderno (com novos recursos adicionados a cada versão):
 
 * Exibição de detalhes do email
 * Exibição de lista de emails
