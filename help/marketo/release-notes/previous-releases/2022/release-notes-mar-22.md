@@ -2,7 +2,7 @@
 description: Notas de versão - março de 2022 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - março de 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 1%
@@ -27,7 +27,7 @@ Os seguintes recursos começarão a ser lançados em **11 de março de 2022**, c
 
 * **Aprimoramento da Filtragem de Atividade de Bot de Email**: Como um aprimoramento da versão lançada anteriormente [Filtragem da atividade de bot de email](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md)recurso {target=&quot;_blank&quot;}, agora você pode aceitar o registro de atividades identificadas como bots. Em seguida, você pode filtrar e acionar ações com base em atividades identificadas como sendo executadas por bots.
 
-## Experiência da próxima geração {#next-generation-experience}
+## Experiência da próxima geração {#modern-ux}
 
 * **Telas atualizadas na experiência de próxima geração**: Estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração que oferecem melhorias atualizadas de design e usabilidade acessíveis por meio do switch de alternância:
 
@@ -73,7 +73,7 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 ## Anúncios {#announcements}
 
-* **Descontinuação do Marketo Sky**: Em março, o Marketo Sky não estará mais disponível à medida que concentramos nossos recursos no fornecimento da experiência do usuário da próxima geração. Em um esforço para manter o acesso à funcionalidade que é exclusiva do Marketo Sky hoje, estamos trazendo a Expiração de ativos e a Substituição de prioridade de campanha inteligente para a experiência clássica. [Clique aqui](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) para saber mais.
+* **Descontinuação do Marketo Sky**: Em março, o Marketo Sky não estará mais disponível à medida que concentramos nossos recursos no fornecimento da experiência do usuário da próxima geração. Em um esforço para manter o acesso à funcionalidade que é exclusiva do Marketo Sky hoje, estamos trazendo a Expiração de ativos e a Substituição de prioridade de campanha inteligente para a experiência clássica. [Clique aqui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) para saber mais.
 
 **_Webinar da versão do produto_**
 

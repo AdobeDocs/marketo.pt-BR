@@ -2,7 +2,7 @@
 description: Notas de versão - agosto de 2022 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - agosto de 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Os seguintes recursos começaram uma implantação em fases em **26 de agosto de
 
 * **Exibir Hierarquia de Pasta de Destino na Caixa de Diálogo Mover**: Visualizar a hierarquia de pastas para cada pasta facilita a movimentação de ativos e reduz a probabilidade de colocá-los na pasta errada.
 
-* **[Telas atualizadas na experiência de próxima geração](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: Estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração que oferecem melhorias atualizadas de design e usabilidade acessíveis por meio do switch de alternância:
+* **[Telas atualizadas na experiência de próxima geração](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}**: Estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração que oferecem melhorias atualizadas de design e usabilidade acessíveis por meio do switch de alternância:
 
    * Detalhes do trecho
    * Detalhes de &quot;Imagens e Arquivos&quot;

@@ -1,9 +1,10 @@
 ---
 description: Notas de versão - maio de 2022 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - maio de 2022
-source-git-commit: d9ace2b00707c605dda94ec4fc21937d8b36d137
+exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '833'
 ht-degree: 0%
 
 ---
@@ -38,7 +39,7 @@ Os seguintes recursos começarão a ser lançados em **6 de maio de 2022**, com 
 
 **[Cabeçalho STS para links de rastreamento de email](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Atender às práticas recomendadas de segurança com a capacidade de aplicar cabeçalhos de Segurança de Transporte Seguro para garantir que o tráfego para links rastreados seja sempre seguro.
 
-## Experiência da próxima geração {#next-generation-experience}
+## Experiência da próxima geração {#modern-ux}
 
 **Alternar Switch padrão para a experiência de última geração**: o switch de alternância será o padrão para a nova experiência em todas as telas em que estiver disponível, facilitando a descoberta dos designs atualizados e das melhorias de usabilidade.
 

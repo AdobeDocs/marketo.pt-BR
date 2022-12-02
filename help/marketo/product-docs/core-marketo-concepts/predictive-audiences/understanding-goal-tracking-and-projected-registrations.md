@@ -2,7 +2,7 @@
 description: Noções básicas sobre rastreamento de metas e registros projetados - Documentos do Marketo - Documentação do produto
 title: Como entender o rastreamento de metas e os registros projetados
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '988'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Veja como rastrear o progresso da meta e entender as previsões da Marketo.
 
 >[!PREREQUISITES]
 >
->Para acessar a maioria desses recursos, certifique-se de ativar a variável [alternador de próxima geração](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;} para Programas de Eventos.
+>Para acessar a maioria desses recursos, certifique-se de ativar a variável [alternador de próxima geração](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;} para Programas de Eventos.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ No cálculo de programas semelhantes, incluímos os seguintes fatores, entre out
 
 * Tipo de programa
 * Canal de programa
-* Tamanho do público-alvo
+* Tamanho do público
 * Marcas de programa
 * Duração desde a criação do evento até o início do evento
 * Duração do evento
