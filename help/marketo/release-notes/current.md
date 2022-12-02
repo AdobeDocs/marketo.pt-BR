@@ -2,10 +2,10 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3bc69f05fc72d6fd03f00410fa174829feb90e48
+source-git-commit: 82fa4560d60fe782856fadf207f5ecd9602d2944
 workflow-type: tm+mt
-source-wordcount: '626'
-ht-degree: 6%
+source-wordcount: '628'
+ht-degree: 5%
 
 ---
 
@@ -33,8 +33,8 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronização de Campos Personalizados do Membro do Programa</a></td>
   </tr>
   </tbody>
 </table>
