@@ -2,10 +2,10 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82fa4560d60fe782856fadf207f5ecd9602d2944
+source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
 
 </br>
 
-* **Sincronização de Campos Personalizados do Membro do Programa**: Capacidade de sincronizar bidirecionalmente campos extensíveis capturados para um membro do programa (por exemplo, preferências do participante durante o registro do evento, como comida, sessões, faixas etc.)
+* **Sincronização de Campo Personalizado do Membro do Programa**: Capacidade de sincronizar bidirecionalmente campos extensíveis capturados para um membro do programa (por exemplo, preferências do participante durante o registro do evento, como comida, sessões, faixas etc.)
 
 <table> 
   <tr> 
@@ -34,7 +34,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronização de Campos Personalizados do Membro do Programa</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronização de Campo Personalizado do Membro do Programa</a></td>
   </tr>
   </tbody>
 </table>
