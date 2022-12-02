@@ -2,10 +2,10 @@
 description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
+source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '628'
+ht-degree: 5%
 
 ---
 
@@ -53,7 +53,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tbody>
 </table>
 
-### Experiência da próxima geração {#next-generation-experience}
+### Experiência da próxima geração {#modern-ux}
 
 </br>
 
@@ -69,7 +69,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Alternar Switch</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Alternar Switch</a></td>
   </tr>
   </tbody>
 </table>
@@ -205,3 +205,4 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
 * **Forms 1.0**: A desativação do Forms 1.0 será concluída com a versão de outubro. Os ativos do Forms 1.0 não poderão mais enviar dados para o Marketo Engage e retornarão erros se tentarem.
 
 * **Forms sem script**: O Forms não funcionará mais quando o Javascript estiver desativado no navegador. O envio de formulário exigirá a ativação do Javascript.
+
