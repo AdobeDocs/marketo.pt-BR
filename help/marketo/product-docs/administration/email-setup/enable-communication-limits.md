@@ -3,10 +3,9 @@ unique-page-id: 2360222
 description: Ativar limites de comunicação - Documentos do Marketo - Documentação do produto
 title: Ativar limites de comunicação
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,47 +18,51 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Admin**, clique em **Limites de Comunicação**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-18-15-3a53-3a37.png)
+   ![](assets/enable-communication-limits-1.png)
+
+1. Clique em **Limites de comunicação**.
+
+   ![](assets/enable-communication-limits-2.png)
 
 1. Clique em **Editar**.
 
-   ![](assets/image2014-9-18-15-3a53-3a47.png)
+   ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
    >Por dia é baseado no dia do calendário no fuso horário da assinatura (meia-noite).
 
-1. Clique no menu suspenso **Per Day** e selecione o limite desejado. Neste exemplo, escolhemos 1.
+1. Clique no botão **Por dia** e selecione o limite desejado. Neste exemplo, escolhemos 1.
 
-   ![](assets/three.png)
+   ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
    >Você também pode escolher **Personalizado** se nenhuma das opções predefinidas funcionar para você.
 
-1. Clique no menu suspenso **Per 7 Days** e selecione o limite desejado. Neste exemplo, estamos escolhendo 5.
+1. Clique no botão **Por 7 Dias** e selecione o limite desejado. Neste exemplo, estamos escolhendo 5.
 
-   ![](assets/four.png)
+   ![](assets/enable-communication-limits-5.png)
 
-1. Selecione **Bloquear emails não operacionais**.
+1. Selecionar **Bloquear emails não operacionais**.
 
-   ![](assets/five.png)
+   ![](assets/enable-communication-limits-6.png)
 
    >[!NOTE]
    >
-   >Saiba mais sobre o que são [emails operacionais](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+   >Saiba mais sobre o que [emails operacionais](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) são.
 
 1. Clique em **Salvar**.
 
-   ![](assets/six.png)
+   ![](assets/enable-communication-limits-7.png)
 
    >[!NOTE]
    >
    >**Exemplo**
    >
-   >As configurações acima significam que as pessoas não receberão mais do que **1 email por dia** ou mais do que **5 em qualquer período de sete dias**.
+   >As configurações acima significam que as pessoas não receberão mais do que **1 email por dia** ou superior a **5 em qualquer período de sete dias**.
 
    >[!NOTE]
    >
