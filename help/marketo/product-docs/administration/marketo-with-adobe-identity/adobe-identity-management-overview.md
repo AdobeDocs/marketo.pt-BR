@@ -2,9 +2,9 @@
 description: Visão geral do Adobe Identity Management - Documentos do Marketo - Documentação do produto
 title: Visão geral do Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1068'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Se você tiver uma nova conta com o Adobe Marketo Engage (nova conta, não apenas uma nova instância para uma conta existente) a partir de 15 de fevereiro de 2022, ela poderá vir integrada ao Adobe Identity Management System, dependendo do pacote de produto comprado. Para saber se você tem, entre em contato com o administrador da Marketo ou com o gerente de sucesso do cliente da sua conta.
 
-As assinaturas existentes do Marketo serão migradas para o Adobe Identity Management System a partir deste ano.
+As assinaturas existentes do Marketo começarão a ser migradas para o Adobe Identity Management System na segunda metade de 2023.
 
 >[!NOTE]
 >
@@ -113,7 +113,7 @@ Sim. A integração do Marketo com o Adobe IMS é compatível com usuários de I
 
 **Como a autorização do dispositivo funciona?**
 
-No momento, o Adobe IMS não é compatível com nada como o recurso de autorização de dispositivo da Marketo.
+No momento, o Adobe IMS não é compatível com nada como o recurso de autorização de dispositivo do Marketo.
 
 **Ainda é possível usar o recurso &quot;Fazer logon na caixa de diálogo do usuário de convite&quot; para tornar o logon de um usuário exclusivo de seu email?**
 
