@@ -3,9 +3,9 @@ unique-page-id: 2953384
 description: Habilitar sincronização para uma entidade personalizada - Documentos do Marketo - Documentação do produto
 title: Ativar Sincronização para uma Entidade Personalizada
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
-source-git-commit: dadaf5bd8e887309d0e9ee8fc25fc58d1c4fbe97
+source-git-commit: 79cfb0396f690a370cdce4e4df3a23c7439c252e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ Se você precisar que dados de entidade personalizados do Dynamics estejam dispo
 >* Quando a sincronização é ativada para uma entidade personalizada, o Marketo executa uma sincronização inicial para trazer todos os dados do Objeto personalizado.
 >* Os membros da Lista de Marketing e da Lista de Marketing são **não suportado** neste momento.
 
+
+>[!IMPORTANT]
+>
+>O usuário do Marketo Sync precisa ter acesso de leitura ao objeto personalizado para listá-lo e executar uma sincronização nele.
 
 1. Vá para o **Administrador** seção.
 

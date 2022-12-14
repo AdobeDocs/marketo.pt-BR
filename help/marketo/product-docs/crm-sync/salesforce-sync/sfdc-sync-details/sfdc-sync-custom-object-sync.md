@@ -3,9 +3,9 @@ unique-page-id: 2953471
 description: Sincronização SFDC - Sincronização de Objeto Personalizado - Documentos do Marketo - Documentação do produto
 title: Sincronização SFDC - Sincronização de Objeto Personalizado
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+source-git-commit: 79cfb0396f690a370cdce4e4df3a23c7439c252e
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 >[!PREREQUISITES]
 >
 >Para usar um objeto personalizado, ele deve estar associado a um [cliente potencial](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contato](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)ou [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) no Salesforce.
+
+>[!IMPORTANT]
+>
+>O usuário do Marketo Sync precisa ter acesso de leitura ao objeto personalizado para listá-lo e executar uma sincronização nele.
 
 ## Ativar Objeto Personalizado  {#enable-custom-object}
 
