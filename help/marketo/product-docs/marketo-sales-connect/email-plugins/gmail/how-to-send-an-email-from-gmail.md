@@ -1,17 +1,20 @@
 ---
 unique-page-id: 14352440
-description: Como enviar um email do Gmail - Documentos do Marketing - Documentação do produto
+description: Como enviar um email do Gmail - Documentos do Marketo - Documentação do produto
 title: Como enviar um email do Gmail
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 8a036b37-984c-4298-917e-fa680657b79f
+source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # Como enviar um email do Gmail {#how-to-send-an-email-from-gmail}
+
+>[!CAUTION]
+>
+>O uso da funcionalidade &quot;Desfazer envio&quot; no Gmail impedirá o envio do email ao usar a extensão Gmail, mas você ainda pode ver uma atividade na aplicação Web, bem como no Salesforce se estiver registrando atividades no Salesforce.
 
 1. No Gmail, clique em **Compor**.
 
@@ -19,6 +22,6 @@ ht-degree: 0%
 
 1. Insira o assunto do email.
 
-1. Selecione um modelo de email ou escreva uma nova mensagem.
+1. Selecione um template de email ou grave uma nova mensagem.
 
-1. Quando seu email estiver pronto para ser enviado, clique no botão **Enviar e conectar**. Clicar nesse botão em vez do botão normal de envio garantirá que seu email seja enviado com o rastreamento aplicado. O Sales Connect rastreará quando seu email for aberto e quando alguém clicar em qualquer link.
+1. Quando o email estiver pronto para ser enviado, clique no link **Enviar e conectar** botão. Clicar nesse botão em vez do botão normal de envio garantirá que seu email seja enviado com o rastreamento aplicado. O Sales Connect acompanhará quando seu email for aberto e quando alguém clicar em qualquer link.
