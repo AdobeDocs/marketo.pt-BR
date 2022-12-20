@@ -1,11 +1,11 @@
 ---
-description: Notas de versão atuais - Documentação do Marketo - Documentação do produto
+description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 9%
+source-wordcount: '618'
+ht-degree: 10%
 
 ---
 
@@ -113,6 +113,10 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
 ## Recursos da versão ágil
 
 Os seguintes recursos seguem um formato Ágil e são lançados em várias datas, antes ou depois da data de lançamento padrão. Verifique o status abaixo de cada recurso.
+
+### Bate-papo dinâmico {#dynamic-chat}
+
+</br>
 
 * **Definir lista de opções no Cartão de captura de informações para bate-papo dinâmico**: Para ajudar a garantir a limpeza dos dados, você pode definir listas de separação para cartões de captura de informações para que os visitantes possam selecionar somente em uma lista predefinida de opções.
 
