@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472490
-description: Programação de versão - Documentação do Marketo - Documentação do produto
+description: Programação de lançamento - Documentação do Marketo - Documentação do produto
 title: Programação de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 132aa2edc3ae4a62d9f2e22aa0d5ae4353bc6328
+source-git-commit: 5f12d1dd83443214b9d54d46e18a492a175c791a
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 2%
+source-wordcount: '138'
+ht-degree: 6%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 2%
 
 **Status**:
 
-* No agendamento - estamos planejando lançar os recursos e aprimoramentos trimestrais na data indicada
-* Em andamento - Estamos desenvolvendo e documentando o conteúdo agora para lançamento na data indicada
+* Conforme o cronograma - estamos planejando lançar os recursos e as melhorias na data indicada
+* Em andamento - Estamos no processo de lançamento dos recursos da versão
 * Enviado - A versão está concluída
 
 _As datas de lançamento estão sujeitas a alterações_
@@ -37,12 +37,12 @@ _As datas de lançamento estão sujeitas a alterações_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Outubro de 22</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">Outubro de 22</a></td>
    <td>14 de outubro de 2022</td>
    <td>Remetido</td>
   </tr>
   <tr> 
-   <td>Janeiro de 2023</td>
+   <td><a href="/help/marketo/release-notes/current.md">Janeiro de 2023</a></td>
    <td>20 de janeiro de 2023</td>
    <td>Na Programação</td>
   </tr>
