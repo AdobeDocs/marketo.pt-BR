@@ -3,16 +3,22 @@ unique-page-id: 2953188
 description: Filtros inferidos - Documentação da Marketo - Documentação do produto
 title: Filtros Inferidos
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c045e9008bf0e9d145ac67866a1e0d7cb6e26069
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
 # Filtros Inferidos {#inferred-filters}
 
-Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Os cookies e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas. Dê uma olhada.
+Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Os cookies e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
+
+>[!NOTE]
+>
+>Para garantir que os valores de campo inferidos permaneçam atualizados, atualizamos periodicamente o banco de dados usado em pesquisas de endereço IP. As atualizações do banco de dados podem introduzir novos valores de campo inferidos que podem ser necessários adicionar às definições de filtro de lista inteligente.
+>
+>As atualizações do banco de dados podem ocorrer durante uma [Versão do produto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Quando uma atualização ocorre, a variável [Notas de versão do Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} conterá uma explicação de quaisquer alterações nos valores de campo inferidos.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
