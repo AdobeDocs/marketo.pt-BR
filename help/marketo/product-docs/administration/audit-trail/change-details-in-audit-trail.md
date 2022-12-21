@@ -136,7 +136,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Editar módulo <module name><attribute> para "valor"</td> 
+   <td>Editar módulo <code>"<module name>" <attribute></code> para "valor"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
