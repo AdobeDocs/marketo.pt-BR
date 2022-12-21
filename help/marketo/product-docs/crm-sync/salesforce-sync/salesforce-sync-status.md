@@ -2,7 +2,6 @@
 description: Status de sincronização do Salesforce - Documentos do Marketo - Documentação do produto
 title: Status da sincronização do Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
@@ -22,7 +21,7 @@ As etapas de sincronização refletem operações de push ou pull por cada tipo 
 
 ## Ver Estado de Sincronização {#view-sync-status}
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/salesforce-sync-status-1.png)
 
@@ -48,11 +47,11 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Etapa** opcional: Para exportar erros de sincronização, clique em  **Exportar**. Os dados serão exportados como um CSV.
+**Etapa opcional**: Para exportar erros de sincronização, clique em **Exportar**. Os dados serão exportados como um CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
-## Sincronizar campos de status {#sync-status-fields}
+## Campos de status de sincronização {#sync-status-fields}
 
 <table> 
  <colgroup> 
@@ -119,7 +118,7 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
  </tbody> 
 </table>
 
-*Dados revertidos para o estado de integridade anterior após a falha da etapa de sincronização.
+&#42;Os dados foram revertidos para o estado de integridade anterior após a falha da etapa de sincronização.
 
 ## Tipo de objeto {#object-type}
 
@@ -242,11 +241,11 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
   </tr>  
   <tr> 
    <td colspan="1">Atualizar FKS</td> 
-   <td colspan="1">Todos</td> 
+   <td colspan="1">Tudo</td> 
    <td colspan="1">Atualizar chave externa de todos os objetos</td> 
    <td colspan="1">N/D</td>
   </tr>  
  </tbody> 
 </table>
 
-*A configuração de marca no nível da assinatura decide o rótulo - &quot;Lead&quot; ou &quot;Pessoa&quot; no relatório.
+&#42;A configuração de marca no nível da assinatura decide o rótulo - &quot;Lead&quot; ou &quot;Pessoa&quot; no relatório.

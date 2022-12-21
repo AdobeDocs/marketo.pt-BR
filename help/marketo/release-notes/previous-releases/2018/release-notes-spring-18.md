@@ -30,9 +30,9 @@ Impulsione mais pipeline e receita capacitando vendas com inteligência, conteú
 
 **ToutApp**
 
-* **Cartão** de conformidade: Garanta a conformidade com o GDPR ao capturar a fonte de contatos de vendas e os detalhes do consentimento do cliente para receber comunicações.
-* **Atualização** da política de senha: Mantenha seus dados mais seguros com requisitos mais rigorosos para a criação, redefinição e expiração de senha (atende aos requisitos de conformidade Soc II - Tipo 1).
-* **Experiência** de configuração de conta simplificada: Configure sua conta e conecte-a mais rapidamente ao Gmail, Outlook e outros sistemas.
+* **Cartão de conformidade**: Garanta a conformidade com o GDPR ao capturar a fonte de contatos de vendas e os detalhes do consentimento do cliente para receber comunicações.
+* **Atualização da política de senha**: Mantenha seus dados mais seguros com requisitos mais rigorosos para a criação, redefinição e expiração de senha (atende aos requisitos de conformidade Soc II - Tipo 1).
+* **Experiência de configuração de conta simplificada**: Configure sua conta e conecte-a mais rapidamente ao Gmail, Outlook e outros sistemas.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
@@ -46,7 +46,7 @@ Opte pelo beta de abertura do Marketo Sky para obter acesso a mais de 100 novos 
 
 ## Performance Insights {#performance-insights}
 
-[Insights de desempenho](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **Comparação entre períodos (neste ano e no ano anterior)**
 

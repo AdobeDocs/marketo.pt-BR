@@ -1,114 +1,108 @@
 ---
 unique-page-id: 4718654
-description: Noções básicas sobre os modelos de receita - Documentos de marketing - Documentação do produto
-title: Noções Gerais dos Modelos de Receita
-translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+description: Noções básicas sobre modelos de receita - Documentação da Marketo - Documentação do produto
+title: Noções básicas sobre modelos de receita
+exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 0%
 
 ---
 
+# Noções básicas sobre modelos de receita {#understanding-revenue-models}
 
-# Noções Gerais dos Modelos de Receita {#understanding-revenue-models}
+Os modelos de ciclo de receita elevam o marketing ao próximo nível. Eles modelam todos os estágios de todo o seu funil de receita, desde quando você interage com um cliente potencial pela primeira vez até que o cliente potencial seja um cliente vencido.
 
-Os modelos de ciclo de receita levam o marketing ao próximo nível. Eles modelam todos os estágios de todo o seu funil de receita — desde quando você interage com um cliente potencial pela primeira vez até que o cliente potencial seja vencido.
+## Modelo mental (como pensar sobre essa coisa) {#mental-model-how-to-think-about-this-thing}
 
-## Modelo mental (Como pensar sobre essa coisa) {#mental-model-how-to-think-about-this-thing}
-
-O Modelador é como uma série de baldes com água dentro deles. Há buracos na parte inferior dos baldes.
+O Modelador é como uma série de baldes com água neles. Há buracos na parte inferior dos baldes.
 
 ![](assets/image2015-6-12-10-3a14-3a4.png)
 
-O modelador medirá a quantidade de água (condutores) que entra no balde por dia e a quantidade que sai dos buracos. (Pode haver mais de um orifício)
+O modelador mede a quantidade de água (chumbo) que vai para o balde por dia e a quantidade que sai dos buracos. (Pode haver mais de um orifício)
 
-O modelador mede a quantidade de clientes potenciais no bucket em um determinado momento. Isso é chamado de equilíbrio de etapas.
+O modelador mede a quantidade de leads no bucket em um determinado momento. Isso é chamado de equilíbrio de etapas.
 
 >[!TIP]
 >
->Para aqueles que têm uma mentalidade mais financeira, podem pensar nos estágios como contas com dinheiro a entrar e a sair com saldo no final de cada dia.
+>Para aqueles que têm mais consciência financeira, podem pensar nos palcos como contas com dinheiro fluindo e saindo com saldo no final de cada dia.
 
-Normalmente, os modelos se destinam a clientes que se sentem confortáveis com campanhas e programas inteligentes e que desejam levar suas análises para o próximo nível.
+Os modelos são geralmente para clientes que estão confortáveis com campanhas e programas inteligentes e que desejam elevar o nível de suas análises.
 
-## Começando com um novo modelo {#starting-with-a-new-model}
+## Primeiros passos com um novo modelo {#starting-with-a-new-model}
 
-Por padrão, um novo modelo o start com seis estágios de receita. Este modelo está bem sozinho, mas pode ser profundamente personalizado.
+Por padrão, um novo modelo inicia você com seis estágios de receita. Este modelo está bem por si só, mas pode ser profundamente personalizado.
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Notem que estão todos num fundo verde. Isso é chamado de **Caminho de sucesso**. Saiba mais sobre o caminho de sucesso [here](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Observe que eles estão todos em um plano de fundo verde. Isso é chamado de **Caminho bem-sucedido**. Entenda mais sobre o caminho bem-sucedido [here](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**As** etapas são os marcos em uma progressão da liderança em direção às suas metas.
+**Estágios** são os marcos de um avanço em direção aos seus objetivos.
 
-**As** transições são mostradas como setas e controlam como as pontas se movem entre os estágios.
+**Transições** são mostradas como setas e controlam como os leads se movem entre os palcos.
 
 >[!NOTE]
 >
->O Palco Anônimo é especial. São todas as pessoas que visitam seu site, mas você não tem certeza de quem são. Não é possível modificar esta etapa.
+>O Palco Anônimo é especial. São todas as pessoas que visitam seu site, mas você não tem certeza de quem são. Não é possível modificar este estágio.
 
 ## Personalização {#customization}
 
-Cada empresa é diferente. Você pode adicionar coisas ao modelo arrastando de cima para a direita.
+Cada empresa é diferente. Você pode adicionar coisas ao modelo arrastando do canto superior direito.
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
-## Estágio de Inventário {#inventory-stage}
+## Estágio do inventário {#inventory-stage}
 
-Isto parece uma caixa e é o mais básico dos estágios. O Analytics acompanhará a entrada, a saída e o equilíbrio dessa etapa.
+Isso parece uma caixa e é o mais básico dos estágios. O Analytics acompanhará o fluxo, a saída e o saldo dessa etapa.
 
-## SLA Stage {#sla-stage}
+## Estágio do SLA {#sla-stage}
 
-Isso é curto para a etapa **Contrato de nível de serviço**. A intenção aqui é que algumas etapas você queira impor um limite de tempo.
-
->[!NOTE]
->
->**Exemplo**
->
->Quando um cliente potencial preenche um formulário &quot;Entre em contato comigo&quot; e você envia um alerta para um representante de vendas, talvez você queira um SLA de 72 horas. Você poderá acompanhar as infrações e repreender o representante por deixar um bom líder incomunicável.
-
-## Estágio de portão {#gate-stage}
-
-Um estágio de portão é destinado a situações nas quais você deseja filtrar leva a uma das várias opções. Esta é uma opção avançada. Os iniciantes devem evitar portões.
+Isso é curto para **Contrato de nível de serviço** palco. A intenção aqui é que alguns estágios você queira impor um limite de tempo.
 
 >[!NOTE]
 >
 >**Exemplo**
 >
->Uma porta pode ser usada para clientes potenciais que façam parte de uma **lista de conta nomeada** para separá-la do processo normal.
+>Quando um cliente potencial preenche um formulário de &quot;Entre em contato comigo&quot; e você envia um alerta para um representante de vendas, você pode querer um SLA de 72 horas. Você poderá acompanhar as infrações e repreender o representante por deixar um bom líder incomunicável.
 
-## Transição {#transitions}
+## Estágio do portão {#gate-stage}
 
-Esclareça exatamente como um cliente potencial se move de um estágio para outro usando campanhas inteligentes e certifique-se de que as informações não fiquem presas em nenhum estágio. Certifique-se de usar filtros de disparo para transições (essa é uma maneira de avaliar).
+Um estágio de portão é destinado a situações em que você deseja filtrar os leads em uma das várias opções. Esta é uma opção avançada. Os iniciantes devem evitar portões.
 
 >[!NOTE]
 >
 >**Exemplo**
 >
->Uma transição pode ser definida por um cliente potencial preenchendo um formulário.
+>Um portão pode ser usado para leads que fazem parte de um **lista de contas nomeadas** para separar isso do processo normal.
 
-Adicionar um Palco do caminho de sucesso feliz
+## Transições {#transitions}
+
+Esclareça exatamente como um cliente potencial se move de um estágio para outro usando campanhas inteligentes e certifique-se de que os leads não fiquem presos em nenhum estágio. Certifique-se de usar filtros de acionamento para transições (essa é uma maneira de avaliar).
+
+>[!NOTE]
+>
+>**Exemplo**
+>
+>Uma transição pode ser definida por um lead que preenche um formulário.
+
+Adicionar um palco do caminho de sucesso feliz
 
 ![](assets/image2015-6-12-10-3a10-3a26.png)
 
-Perdido é bom adicionar, mas reparem que não está no caminho verde. Isso porque não é um &quot;sucesso&quot;.
+Perdido é bom adicionar, mas observe que não está no caminho verde. Isso porque não é um &quot;sucesso&quot;.
 
 >[!MORELIKETHIS]
 >
 >* [Criar um novo modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-   >
-   >
-* [Usando Estágios de Inventário do Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-   >
-   >
-* [Usando Estágios de Portas de Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
-   >
-   >
-* [Usando Estágios de SLA de Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
-   >
-   >
-* [Relatório sobre seu modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
-   >
-   >
-* [Aprovar/Cancelar aprovação de um modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>
+>* [Usando Estágios de Inventário do Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>
+>* [Usando Estágios de Portas do Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>
+>* [Usando Estágios de SLA do Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>
+>* [Relatório sobre seu modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>
+>* [Aprovar/Cancelar aprovação de um modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 

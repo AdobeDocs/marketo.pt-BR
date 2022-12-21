@@ -1,42 +1,41 @@
 ---
 unique-page-id: 14352546
-description: Impedindo a integração do endereço de correio eletrônico secundário ao Sales Connect - Documentos do Marketing - Documentação do produto
-title: Impedindo a integração do endereço de correio secundário ao Sales Connect
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Impedindo que o endereço Gmail secundário se integre ao Sales Connect - Documentos do Marketo - Documentação do produto
+title: Impedindo que o endereço Gmail secundário se integre ao Sales Connect
+exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
+# Impedindo que o endereço Gmail secundário se integre ao Sales Connect {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 
-# Impedindo a integração do endereço Gmail secundário ao Sales Connect {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
+## Integração de Gmail quebrada (por que meu Gmail pessoal está enviando emails) {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}
 
-## Integração de Gmail Quebrada (por que meus emails pessoais de envio de Gmail são enviados) {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}
+O motivo mais comum para uma conexão Gmail quebrada é uma integração acidental com a conta pessoal de um usuário. Isso pode acontecer quando um usuário clica em &quot;Conectar&quot; ou tenta enviar um email de sua conta pessoal. Isso pode ser muito tentador, pois a opção existirá ao acessar sua conta Gmail na mesma instância do Chrome que seu email de trabalho.
 
-O motivo mais comum para uma conexão Gmail quebrada é uma integração acidental com a conta pessoal do usuário. Isso pode acontecer quando um usuário clica em &quot;Connect&quot; ou tenta enviar um email de sua conta pessoal. Isso pode ser muito tentador, pois a opção existirá ao acessar sua conta do Gmail na mesma instância do Chrome que seu email de trabalho.
+## Por que o Sales Connect tenta mesmo se integrar com meu Gmail pessoal? {#why-does-sales-connect-even-try-to-integrate-with-my-personal-gmail}
 
-## Por que o Sales Connect tenta se integrar ao meu Gmail pessoal? {#why-does-sales-connect-even-try-to-integrate-with-my-personal-gmail}
-
-O Sales Connect é integrado ao Gmail por meio de uma extensão instalada no navegador Chrome. Sempre que a extensão detecta uma instância do Gmail aberta, ela oferta uma opção para integrar com ela. Para evitar uma integração com sua conta pessoal do Gmail, recomendamos uma das três coisas...
+O Sales Connect integra-se ao Gmail por meio de uma extensão instalada no navegador Chrome. Sempre que a extensão detecta uma instância do Gmail aberta, ela oferece uma opção de integração com ela. Para evitar uma integração com sua conta pessoal do Gmail, recomendamos uma das três coisas...
 
 Fazer Logon Como Outro Usuário Do Chrome (Recomendado)
 
-Clique em [este link](https://support.google.com/chrome/answer/2364824?hl=en) para ler como criar outro Perfil do Chrome.
+Clique em [este link](https://support.google.com/chrome/answer/2364824?hl=en) para ler como criar outro perfil do Chrome.
 
-**Vantagens**: Fazer logon como outro usuário abrirá uma nova instância do Chrome. Esta instância é uma nova janela do Chrome, e nenhuma das suas extensões antigas existirá nesta. Ele também mantém cookies para que você não precise fazer logon no seu Gmail todas as vezes.
+**Prós**: Fazer logon como outro usuário abrirá uma nova instância do Chrome. Essa instância é uma janela totalmente nova do Chrome e nenhuma de suas extensões antigas existirá nessa. Ele também mantém cookies para que você não tenha que entrar no seu Gmail todas as vezes.
 
-**Cons**: Deve ter duas janelas do Chrome abertas.
+**Desvantagens**: Deve ter duas janelas do Chrome abertas.
 
-Usar outro navegador
+Usar Outro Navegador
 
-**Prós:** usar outro navegador da Internet (IE ou Firefox) que não tenha a extensão instalada impedirá que isso ocorra.
+**Vantagens:** Usar outro navegador da Internet (IE ou Firefox) que não tenha a extensão instalada impedirá que isso aconteça.
 
-**Cons**: Usar vários navegadores pode ser irritante.
+**Desvantagens**: Usar vários navegadores pode ser irritante.
 
-Usar Uma Janela Incognito
+Usar Uma Janela Incógnito
 
-**Prós:** Uma janela incógnita é como abrir uma versão nua do Chrome. Ou seja, não terá nenhuma de suas extensões instaladas e o Sales Connect não estará lá para se conectar.
+**Vantagens:** Uma janela incógnita é como abrir uma versão nua do Chrome. Isso significa que ele não terá nenhuma de suas extensões instaladas e o Sales Connect não estará lá para se conectar.
 
-**Cons**: Você terá que entrar no Gmail toda vez que start seu dia, e novamente se você acidentalmente fechar a janela.
+**Desvantagens**: Você terá que entrar no Gmail toda vez que iniciar seu dia e novamente se você fechar a janela acidentalmente.

@@ -12,17 +12,17 @@ ht-degree: 1%
 
 # Notas de versão: Dezembro de 2012 {#release-notes-december}
 
-A versão de dezembro inclui o recurso muito esperado **Encaminhar para o Amigo**, bem como vários outros bens! Observe que os recursos marcados com um asterisco (*) estão disponíveis apenas na edição Select e em RCA (Revenue Cycle Analytics).
+A versão de dezembro inclui o muito esperado **Encaminhar para Amigo** , assim como vários outros bens! Observe que os recursos estão marcados com um asterisco (&#42;) estão disponíveis somente na edição Selecionar e no RCA (Revenue Cycle Analytics).
 
 ## Encaminhar para amigo {#forward-to-friend}
 
-Ative o compartilhamento de conteúdo com outras pessoas incluindo um link **Encaminhar para o Amigo** em seus emails. A adição de novos filtros e acionadores ajudará a identificar seus influenciadores, identificando usuários que encaminharam um email, bem como aqueles que receberam os emails encaminhados.
+Permitir o compartilhamento de conteúdo com outras pessoas incluindo um **Encaminhar para Amigo** em seus emails. A adição de novos filtros e acionadores ajudará a identificar seus influenciadores, identificando usuários que encaminharam um email, bem como aqueles que receberam os emails encaminhados.
 
-Para incluir um convite **Encaminhar para o Amigo** no seu email, abra-o no editor e insira o token `{{system.forwardToFriendLink}}`.
+Para incluir uma **Encaminhar para Amigo** convite no email, abra-o no editor e insira o `{{system.forwardToFriendLink}}` token.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Use os acionadores e filtros correspondentes para identificar os usuários que usaram o link **Encaminhar para o amigo** e aqueles que receberam o email.
+Use os acionadores e filtros correspondentes para identificar os usuários que usaram a variável **Encaminhar para Amigo** e aqueles que receberam o email.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -50,16 +50,16 @@ O Sales Insight agora está disponível para clientes do Microsoft Dynamics!
 
 Sincronizar dados de oportunidade entre o Marketo e o Microsoft Dynamics.
 
-## Relatório de oportunidades influenciadas pelo marketing* {#marketing-influenced-opportunities-report}
+## Relatório de oportunidades influenciadas pelo marketing&#42; {#marketing-influenced-opportunities-report}
 
-Veja qual porcentagem do pipeline e da receita de sua empresa foi influenciada por seus programas de marketing. Em **Explorador de Receita**, agora você pode criar relatórios personalizados com o novo ponto amarelo &quot;Oportunidade Influenciada de Marketing&quot; na Análise de Oportunidade. Você também pode usar os dois relatórios a seguir na pasta Standard :
+Veja qual porcentagem do pipeline e da receita de sua empresa foi influenciada por seus programas de marketing. Em **Explorador de receita**, agora é possível criar relatórios personalizados com o novo ponto amarelo &quot;Oportunidade influente de marketing&quot; na Análise de oportunidade. Você também pode usar os dois relatórios a seguir na pasta Standard :
 
 * Influência de marketing nas oportunidades criadas
 * Influência de marketing nas oportunidades vencidas
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## Campos de oportunidade personalizados na Análise de oportunidade do programa* {#custom-opportunity-fields-in-program-opportunity-analysis}
+## Campos de Oportunidade Personalizados na Análise de Oportunidade do Programa&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
 Adicione campos de oportunidade personalizados para enriquecer seus relatórios de Análise de oportunidade do programa no Explorador de receita.
 
@@ -69,6 +69,6 @@ Adicione campos de oportunidade personalizados para enriquecer seus relatórios 
 
 Você já se perguntou quais campanhas estão usando uma ação de fluxo específica, como Alterar pontuação ou Solicitar campanha? Ou onde um determinado filtro está sendo usado? O novo Inspetor de campanha (disponível no Treasure Chest) permite identificar essas campanhas, bem como campanhas ativas e campanhas com erros.
 
-Vá para **Admin** > **Treasure Chest** para ativar o **Inspetor de Campanha**.
+Ir para **Administrador** > **Treasure Chest** para ativar o **Inspetor de campanha**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

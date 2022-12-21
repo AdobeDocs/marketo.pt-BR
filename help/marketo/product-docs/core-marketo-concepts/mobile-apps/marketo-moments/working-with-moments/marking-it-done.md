@@ -3,7 +3,6 @@ unique-page-id: 8783557
 description: Marcação concluída - Documentos da Marketo - Documentação do produto
 title: Marcar como concluído
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
@@ -19,7 +18,7 @@ Marque um programa de email, evento ou cartão de análise como Concluído para 
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. Toque em **Concluído**.
+1. Toque **Concluído**.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 

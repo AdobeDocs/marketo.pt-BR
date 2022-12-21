@@ -5,7 +5,7 @@ title: Tokens de campo personalizado do membro do programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Tokens de Membro são usados para campos do escopo do Membro do Programa. A part
 
 Você pode inserir tokens de campos personalizados de membros do programa em emails, páginas de aterrissagem, SMS, notificações por push e Webhooks.
 
-**E-mails**
+**e-mails**
 
 1. Selecione o email desejado e clique em **Editar rascunho**.
 
@@ -55,7 +55,7 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 
 **Páginas**
 
-1. Selecione a Landing Page e clique em **Editar rascunho**.
+1. Selecione sua página de aterrissagem e clique em **Editar rascunho**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,7 +75,7 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. Insira um valor padrão e clique em **Insert**.
+1. Insira um valor padrão e clique em **Inserir**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
@@ -85,11 +85,11 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 
 **SMS**
 
-1. Selecione o SMS desejado e clique em **Editar Rascunho**.
+1. Selecione o SMS desejado e clique em **Editar rascunho**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Clique no botão **`{{ Token`**.
+1. Clique no botão **`{{ Token`** botão.
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -103,23 +103,23 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 
 **Notificações por push**
 
-1. Selecione a notificação por push desejada e clique em **Editar Rascunho**.
+1. Selecione a notificação por push desejada e clique em **Editar rascunho**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Clique em **Notificações por push**.
+1. Clique em **Notificação por push**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Clique na mensagem no editor e no botão `{{` para obter o seletor de token.
+1. Clique na mensagem no editor e clique no botão `{{` para obter o seletor de token.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Localize e selecione o Token de campo personalizado do membro do programa desejado. Insira um valor padrão e clique em **Insert**.
+1. Localize e selecione o Token de campo personalizado do membro do programa desejado. Insira um valor padrão e clique em **Inserir**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Clique em **Finish** para salvar e sair (ou **Next** para revisar primeiro).
+1. Clique em **Concluir** para salvar e sair (ou **Próximo** para revisar primeiro).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 
@@ -132,7 +132,7 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 Tokens de campo personalizado de membro do programa podem ser usados em:
 
 * Criar tarefa
-* Criar tarefa na Microsoft
+* Criar tarefa no Microsoft
 * Momentos interessantes
 * Alterar ações de fluxo do valor de dados
 * Webhooks

@@ -3,7 +3,6 @@ unique-page-id: 1147124
 description: Uso da guia Ativos - Documentos do Marketo - Documentação do produto
 title: Uso da guia Ativos
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
@@ -17,15 +16,15 @@ A tela de ativos é uma representação visual do seu programa. Você pode usá-
 
 ## Adicionar ativos {#adding-assets}
 
-Na área **Marketing Activities**, clique na guia **Assets**. Escolha qualquer um dos ativos abaixo e adicione-os ao seu programa.
+No **Atividades de marketing** clique no botão **Ativos** guia . Escolha qualquer um dos ativos abaixo e adicione-os ao seu programa.
 
 ![](assets/programassets.png)
 
-## Gerenciar seu programa {#manage-your-program}
+## Gerenciar seu programa  {#manage-your-program}
 
 Quando houver ativos em seu programa, você os verá listados aqui.
 
-| Laranja | Acionar campanha |
+| Laranja | Campanha com gatilho |
 |---|---|
 | Verde | Campanha em lote |
 

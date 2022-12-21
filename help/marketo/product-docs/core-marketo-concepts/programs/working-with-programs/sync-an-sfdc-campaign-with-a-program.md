@@ -16,13 +16,13 @@ O Marketo permite sincronizar seus programas com campanhas do Salesforce para ma
 
 >[!PREREQUISITES]
 >
->Você precisará [ativar a sincronização de campanha do Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) primeiro.
+>Você precisará [habilitar a sincronização de campanha do Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) primeiro.
 
 >[!CAUTION]
 >
 >Ao sincronizar uma campanha SFDC com um programa Marketo, as ações SFDC implícitas (por exemplo, adicionar à campanha SFDC, Sincronizar para SFDC) serão desativadas para campanhas filho do programa.
 
-1. Vá para **Marketing Activities**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,17 +30,17 @@ O Marketo permite sincronizar seus programas com campanhas do Salesforce para ma
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Clique em **Program Actions** e selecione **Salesforce Campaign Sync**.
+1. Clique em **Ações do programa**, em seguida selecione **Sincronização de Campanha Salesforce**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Selecione **Criar novo** ou escolha uma campanha Salesforce existente.
+1. Selecionar **Criar novo** ou escolha uma campanha Salesforce existente.
 
    >[!TIP]
    >
-   >Se você selecionar uma campanha Salesforce existente, certifique-se de [corresponder aos status do programa da campanha Salesforce e do programa Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Se você selecionar uma campanha Salesforce existente, certifique-se de [corresponder aos status do programa da campanha do Salesforce e do programa Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
-1. Insira um nome para a nova campanha e clique em **Save**.
+1. Insira um nome para a nova campanha e clique em **Salvar**.
 
    ![](assets/image2015-7-22-8-3a57-3a19.png)
 

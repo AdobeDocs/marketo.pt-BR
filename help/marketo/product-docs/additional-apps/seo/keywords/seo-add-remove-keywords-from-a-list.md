@@ -3,7 +3,6 @@ unique-page-id: 2949678
 description: SEO - Adicionar/remover palavras-chave de uma lista - Documentos do Marketo - Documentação do produto
 title: SEO - Adicionar/remover palavras-chave de uma lista
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
@@ -15,13 +14,13 @@ ht-degree: 0%
 
 Você pode manter todas as suas palavras-chave agradáveis e organizadas usando listas. Isso facilitará a localização de dados em palavras-chave específicas.
 
-## Adicionar a uma Lista {#add-to-a-list}
+## Adicionar a uma lista {#add-to-a-list}
 
-1. Vá para a seção **Palavras-chave**.
+1. Vá para o **Palavras-chave** seção.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Passe o mouse sobre a palavra-chave que deseja adicionar a uma lista. Clique em **Adicionar/Remover da lista**.
+1. Passe o mouse sobre a palavra-chave que deseja adicionar a uma lista. Clique em **Adicionar/remover da lista**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -41,11 +40,11 @@ Uau! Selecione sua lista para ver as novas palavras-chave.
 
 Também é possível remover palavras-chave de uma lista.
 
-1. Vá para a seção **Palavras-chave**.
+1. Vá para o **Palavras-chave** seção.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Passe o mouse sobre a palavra-chave que deseja remover de uma lista. Clique em **Adicionar/Remover da lista**.
+1. Passe o mouse sobre a palavra-chave que deseja remover de uma lista. Clique em **Adicionar/remover da lista**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 

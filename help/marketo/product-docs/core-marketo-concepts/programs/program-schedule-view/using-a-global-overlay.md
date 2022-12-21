@@ -3,7 +3,6 @@ unique-page-id: 1147249
 description: Uso de uma sobreposição global - Documentos do Marketo - Documentação do produto
 title: Uso de uma sobreposição global
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
@@ -17,7 +16,7 @@ A sobreposição global na exibição de programação do programa permite visua
 
 >[!PREREQUISITES]
 >
->Você deve ter uma [Licença de calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esse recurso.
+>Você deve ter um [Licença de calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esse recurso.
 
 ## Usar a sobreposição global {#use-the-global-overlay}
 
@@ -25,7 +24,7 @@ A sobreposição global na exibição de programação do programa permite visua
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Selecione **Overlay** no canto inferior direito.
+1. Selecionar **Sobreposição** no canto inferior direito.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,9 +38,9 @@ A sobreposição global na exibição de programação do programa permite visua
 
 ## Usar um filtro salvo como uma sobreposição {#use-a-saved-filter-as-an-overlay}
 
-Se você tiver [salvo um filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), poderá usá-lo como uma sobreposição na exibição do agendamento do programa.
+Se você tiver [salvou um filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), é possível usá-lo como uma sobreposição na exibição do agendamento do programa.
 
-1. Clique no menu suspenso **Overlay** e selecione sua definição de filtro.
+1. Clique no botão **Sobreposição** e selecione a definição de filtro.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 

@@ -1,45 +1,44 @@
 ---
 unique-page-id: 2360429
-description: Relatório sobre o modelo de receita - Documentos do marketing - Documentação do produto
+description: Relatório sobre seu modelo de receita - Documentos do Marketo - Documentação do produto
 title: Relatório sobre seu modelo de receita
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-
 # Relatório sobre seu modelo de receita {#report-on-your-revenue-model}
 
-Para cada modelo de ciclo de receita, você pode gerar um relatório sobre quantos clientes potenciais estão em cada estágio.
+Para cada modelo de ciclo de receita, você pode gerar um relatório sobre quantos leads estão em cada estágio.
 
 >[!NOTE]
 >
->Os clientes potenciais devem ser membros do modelo a ser incluído no relatório.
+>Os leads devem ser membros do modelo a ser incluído no relatório.
 
-1. Vá para **Analytics**.
+1. Ir para **Analytics**.
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Clique em **Clientes potenciais por estágio de receita**.
+1. Clique em **Clientes potenciais por Estágio de Receita**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Clique na guia **Configuração** e, em seguida, sob o duplo da seção de filtro, clique em **Modelo de Ciclo de Receita**.
+1. Clique no botão **Configuração** e, em seguida, sob a seção de filtro, clique duas vezes **Modelo do ciclo de receita**.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
-1. Selecione o **Modelo** aprovado.
+1. Selecione o **Modelo**.
 
    ![](assets/image2015-4-29-16-3a40-3a34.png)
 
    >[!NOTE]
    >
-   >Para estar disponível nesse menu suspenso, o modelo deve ser aprovado ou, pelo menos, ter etapas aprovadas.
+   >Para estar disponível nesse menu suspenso, o modelo deve ser aprovado ou, pelo menos, ter estágios aprovados.
 
-1. Clique na guia **Relatório** para ver quantos clientes potenciais estão em cada estágio do seu modelo de ciclo de receita.
+1. Clique no botão **Relatório** para ver quantos leads estão em cada estágio do modelo de ciclo de receita.
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 

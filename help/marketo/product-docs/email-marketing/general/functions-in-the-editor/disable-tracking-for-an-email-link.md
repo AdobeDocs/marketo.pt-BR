@@ -1,43 +1,42 @@
 ---
 unique-page-id: 1900579
-description: Desabilitar rastreamento para um link de email - Documentos do Marketing - Documentação do produto
+description: Desative o rastreamento de um link de email - Documentos do Marketo - Documentação do produto
 title: Desativar o rastreamento para um link de email
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
+# Desativar o rastreamento para um link de email {#disable-tracking-for-an-email-link}
 
-# Desabilitar rastreamento para um link de email {#disable-tracking-for-an-email-link}
-
-Às vezes, você não deseja ativar o **URL de rastreamento de marketing** em um link em um email. Isso é útil quando a página de destino não suporta parâmetros de URL e pode resultar em um link quebrado.
+Às vezes, você não quer ativar a variável **URL de rastreamento do Marketo** em um link em um email. Isso é útil quando a página de destino não suporta parâmetros de URL e pode resultar em um link quebrado.
 
 1. Selecione seu email e clique em **Editar rascunho**.
 
    ![](assets/one-7.png)
 
-1. Clique com o duplo na seção editável que contém o link.
+1. Clique duas vezes na seção editável que contém o link.
 
    ![](assets/two-6.png)
 
-1. Clique no link em questão e, em seguida, clique no botão **Inserir/Editar link**.
+1. Clique no link em questão e, em seguida, clique no link **Inserir/Editar link** botão.
 
    ![](assets/three-6.png)
 
-1. No pop-up Editar link, desmarque a caixa de seleção **Rastrear link**.
+1. Na janela pop-up Editar link , desmarque a opção **Rastrear link** caixa de seleção.
 
    ![](assets/four-4.png)
 
-1. Você notará que **Incluir mkt_tok box** desaparece. Clique em **Aplicar**.
+1. Você notará o **Incluir caixa mkt_tok** desaparece. Clique em **Aplicar**.
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >Desmarcar apenas **Incluir mkt_tok** ainda permitirá que o link seja rastreado, mas, após o redirecionamento, o URL de destino não incluirá o parâmetro de string de query mkt_tok. Este parâmetro é usado pelo Marketo Landing page e Munchkin para garantir o rastreamento correto das atividades pessoais (como quando uma pessoa se cancela a assinatura de um email). Evite usar esse recurso, a menos que você veja um comportamento estranho em seu site devido ao parâmetro estar presente.
+   >Desmarcar apenas **Inclua mkt_tok** O ainda permitirá que o link seja rastreado, mas após o redirecionamento, o URL de destino não incluirá o parâmetro da string de consulta mkt_tok . Esse parâmetro é usado pelas Páginas de aterrissagem e pelo Munchkin do Marketo para garantir o rastreamento adequado das atividades da pessoa (como quando uma pessoa cancela a assinatura de um email). Evite usar esse recurso, a menos que esteja vendo um comportamento estranho no site devido ao parâmetro estar presente.
 
 1. Clique em **Salvar**.
 
@@ -45,8 +44,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Deseja desativar o rastreamento de cliques para um link em um e-mail **template**? Use este formato:
+   >Deseja desativar o rastreamento de cliques para um link em um email **modelo**? Use este formato:
    >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >Se precisar de ajuda para implementar isso, consulte seu desenvolvedor da Web.
 
-Legal! Agora você desabilitou o rastreamento de um link.
+Legal! Agora você desativou o rastreamento de um link.

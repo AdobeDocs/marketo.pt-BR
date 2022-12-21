@@ -1,21 +1,20 @@
 ---
 unique-page-id: 11384433
-description: Configuração da equipe de conta - Documentos do Marketo - Documentação do produto
+description: Configuração da equipe de conta - Documentação do Marketo - Documentação do produto
 title: Configuração da equipe de conta
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-
 # Configuração da equipe de conta {#account-team-setup}
 
 Uma equipe de conta é um grupo de participantes que trabalham juntos em uma conta nomeada. Siga estas etapas para escolher quais funções de conta do CRM devem ser adicionadas.
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/one-3.png)
 
@@ -31,7 +30,7 @@ Uma equipe de conta é um grupo de participantes que trabalham juntos em uma con
    >
    >Para Função da conta, dê a ela um nome e corresponda ao Campo de pesquisa do usuário desejado em seu CRM.
 
-1. Digite o nome da Função da conta e selecione o campo **CRM**. Adicione até 10.
+1. Digite o nome da Função da conta e selecione o **CRM** campo. Adicione até 10.
 
    ![](assets/four-2.png)
 
@@ -39,7 +38,7 @@ Uma equipe de conta é um grupo de participantes que trabalham juntos em uma con
    >
    >Não é possível selecionar o Proprietário da Conta. Ele é escolhido por padrão a partir do nível da conta em seu CRM.
 
-1. Clique em **Salvar** quando terminar.
+1. Clique em **Salvar** quando concluído.
 
    ![](assets/five-2.png)
 
@@ -49,8 +48,7 @@ Uma equipe de conta é um grupo de participantes que trabalham juntos em uma con
 
    >[!NOTE]
    >
-   >* Quando Várias contas CRM com diferentes proprietários de contas forem combinadas em uma Conta Nomeada, o Marketo selecionará um &quot;Proprietário da Conta&quot; e adicionará outros proprietários de conta como &quot;Coproprietários da Conta&quot;
-      >
-      >
-   * Se um campo de &quot;Função&quot; do CRM for renomeado ou excluído posteriormente, a TAM do Marketo parará de sincronizar os valores atualizados até que o usuário atualize manualmente a configuração na TAM
+   >* Quando Várias contas CRM com diferentes proprietários de contas forem combinadas em uma Conta Nomeada, a Marketo selecionará um &quot;Proprietário da Conta&quot; e adicionará outros proprietários de conta como &quot;Coproprietários da Conta&quot;
+   >
+   >* Se um campo de &quot;Função&quot; do CRM for renomeado ou excluído posteriormente, a Marketo TAM interromperá a sincronização dos valores atualizados até que o usuário atualize manualmente a configuração na TAM
 

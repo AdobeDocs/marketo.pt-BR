@@ -14,11 +14,11 @@ ht-degree: 1%
 
 Se você precisar de resultados de listas ou listas inteligentes fora do Marketo, poderá exportar facilmente para o Excel. Veja como.
 
-1. Vá para **Marketing Activities**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Selecione a lista ou a lista inteligente que deseja exportar e vá para a guia **People**.
+1. Selecione a lista ou a lista inteligente que deseja exportar e vá para a **Pessoas** guia .
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -26,22 +26,22 @@ Se você precisar de resultados de listas ou listas inteligentes fora do Marketo
 
    ![](assets/exportpeople.png)
 
-1. Selecione **Colunas Visíveis** e clique em **Exportar**.
+1. Selecionar **Colunas visíveis** e clique em **Exportar**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Se você escolher **Todas as colunas**, a exportação será maior em tamanho e demorará mais para gerar/baixar.
+   >Se você escolher **Todas as colunas**, a exportação será maior e demorará mais para gerar/baixar.
 
    >[!TIP]
    >
-   >Se os registros pessoais contiverem caracteres estrangeiros que não estão sendo renderizados corretamente após a exportação, tente alterar o tipo de arquivo no menu suspenso **Format**.
+   >Se os registros pessoais contiverem caracteres estrangeiros que não estão sendo renderizados corretamente após a exportação, tente alterar o tipo de arquivo no **Formato** lista suspensa.
 
-1. A exportação será executada. Quando terminar, clique em **Baixar agora** para capturar o arquivo.
+1. A exportação será executada. Depois de concluído, você pode clicar em **Baixar agora** para capturar o arquivo.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Se a exportação estiver demorando algum tempo, você sempre poderá fazer logoff e voltar para ela depois. O link **Baixar agora** pode ser acessado selecionando **Mostrar status de exportação** no menu **Listar ações** e é válido por uma semana.
+   >Se a exportação estiver demorando algum tempo, você sempre poderá fazer logoff e voltar para ela depois. O **Baixar agora** o link pode ser acessado selecionando **Mostrar status de exportação** no **Ações de lista** e é válido por uma semana.

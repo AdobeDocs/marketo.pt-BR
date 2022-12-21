@@ -16,7 +16,6 @@ ht-degree: 0%
 >
 >* [Adicionar públicos-alvo personalizados do Facebook como um serviço do LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) na seção Admin .
 >* [Aceite os termos de públicos-alvo personalizados do Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) na sua conta do Facebook.
-
 >
 
 

@@ -1,16 +1,15 @@
 ---
 unique-page-id: 14352443
-description: Funcionalidade do calendário - Documentos do marketing - Documentação do produto
-title: Funcionalidade do calendário
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+description: Funcionalidade de calendário - Documentos do Marketo - Documentação do produto
+title: Funcionalidade de calendário
+exl-id: 15d127a8-ed9a-4e87-b41e-0126a38ec2b8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-
 # Funcionalidade de calendário {#calendar-functionality}
 
-Avise seus recipient quando estiver disponível pressionando o botão **Calendar**. Ele extrai seu calendário do Google e permite que você adicione datas e horas específicas que você esteja livre, e o recipient pode responder com um tempo que funcione para eles.
+Informe seus recipients quando você estiver disponível, pressionando a tecla **Calendário** botão. Ele extrai seu calendário do Google e permite adicionar datas e horários específicos que você está livre, e o recipient pode responder com um tempo que funciona para ele.

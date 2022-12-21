@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2951167
-description: Resultados do Programa por e-mail da visualização - Documentos do Marketing - Documentação do produto
-title: Resultados do Programa por email da visualização
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Exibir resultados do programa de email - Documentos da Marketo - Documentação do produto
+title: Exibir resultados de programas de email
+exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
+# Exibir resultados de programas de email {#view-email-program-results}
 
-# Resultados do Programa de e-mail de visualização {#view-email-program-results}
+Assim como a guia Resultados em campanhas inteligentes, você pode ver as mesmas informações em programas de email.
 
-Assim como a guia Resultados em campanhas inteligentes, você pode ver as mesmas informações em programas de e-mail.
-
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -25,16 +24,16 @@ Assim como a guia Resultados em campanhas inteligentes, você pode ver as mesmas
 
    >[!NOTE]
    >
-   >Se o programa de e-mail já tiver sido executado, você será direcionado diretamente para o painel do programa de e-mail.
+   >Se o programa de email já tiver sido executado, você será levado diretamente ao painel do programa de email.
 
-1. Em **Visualização**, selecione **Painel de controle do Campaign**.
+1. Em **Exibir**, selecione **Painel de controle do Campaign**.
 
    ![](assets/controlpanelview.jpg)
 
-1. No bloco **Audiência**, clique em **Resultados da Visualização**.
+1. Em **Público** bloco, clique em **Exibir resultados**.
 
    ![](assets/audiencetile.jpg)
 
-   Aqui está!
+   Aí está!
 
    ![](assets/image2014-9-22-11-3a15-3a49.png)

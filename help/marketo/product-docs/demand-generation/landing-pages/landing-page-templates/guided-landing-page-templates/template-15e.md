@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 15E {#template-15e}
 
-Clique com o botão direito do mouse em [baixar Modelo 15E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)
+Clique com o botão direito do mouse em para [baixar modelo 15E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)
 
 ![](assets/image2015-8-13-14-3a8-3a14.png)
 

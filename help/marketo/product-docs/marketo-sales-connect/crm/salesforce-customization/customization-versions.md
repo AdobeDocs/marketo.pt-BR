@@ -1,22 +1,21 @@
 ---
 unique-page-id: 14746655
-description: Versões de personalização - Documentos de marketing - Documentação do produto
+description: Versões de personalização - Documentos do Marketo - Documentação do produto
 title: Versões de personalização
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4ca3e330-0d3f-428b-a2a4-19bce63ca08c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-
 # Versões de personalização {#customization-versions}
 
-Veja a seguir detalhes sobre atualizações feitas em suas Personalizações do Marketing para Sales Connect para Salesforce.
+Abaixo estão detalhes sobre atualizações feitas em Personalizações da Conexão de Vendas Marketo para Salesforce.
 
-**Campos de**
-Atividade da versão 1, Campos de contato, Campos de cliente potencial, Campos de conta, Campos de oportunidade, Botões,  [esses Campos](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md) de marketing.
+**Versão 1**
+Campos De Atividade, Campos De Contato, Campos De Lead, Campos De Conta , Campos De Oportunidade, Botões, [estes Campos do Marketo](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
-**Campos de**
-Atividade da versão 1.1, Campos de contato, Campos de cliente potencial, Campos de conta, Campos de oportunidade, Botões e Campos de marketing agora estão disponíveis no layout de página para o Salesforce Lightning.
+**Versão 1.1**
+Campos de atividade, Campos de contato, Campos de lead, Campos da conta, Campos de oportunidade, Botões, Campos Marketo agora estão disponíveis no layout da página para o Salesforce Lightning.

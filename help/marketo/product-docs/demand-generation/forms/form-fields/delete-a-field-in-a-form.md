@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359606
-description: Excluir um campo em um formulário - Documentos de marketing - Documentação do produto
+description: Excluir um campo em um formulário - Documentos do Marketo - Documentação do produto
 title: Excluir um campo em um formulário
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 294150f1-309f-42a3-9569-628deb160fc9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Excluir um campo em um formulário {#delete-a-field-in-a-form}
 
-Se houver um campo desnecessário no formulário, ele poderá ser facilmente excluído. Veja como.
+Se houver um campo que não seja mais necessário no formulário, ele poderá ser facilmente excluído. Veja como.
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +22,7 @@ Se houver um campo desnecessário no formulário, ele poderá ser facilmente exc
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Selecione seu campo e clique no ícone **delete**.
+1. Selecione o campo e clique no botão **excluir** ícone .
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 
@@ -31,10 +30,10 @@ Se houver um campo desnecessário no formulário, ele poderá ser facilmente exc
 
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **Aprovar e fechar**.
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 
 >[!NOTE]
 >
->Não se esqueça de [aprovar o rascunho de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
+>Não se esqueça de [aprovar o rascunho da landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações do formulário.

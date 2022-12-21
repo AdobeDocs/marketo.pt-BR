@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 4C {#template-4c}
 
-Clique com o botão direito do mouse em [baixar Modelo 4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
+Clique com o botão direito do mouse em para [baixar modelo 4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
 
 ![](assets/image2015-7-28-16-3a32-3a2.png)
 

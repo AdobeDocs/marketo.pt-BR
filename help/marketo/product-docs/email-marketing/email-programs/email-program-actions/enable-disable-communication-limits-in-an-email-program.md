@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359596
-description: Ativar/Desativar limites de comunicação em um Programa de email - Documentos do marketing - Documentação do produto
-title: Ativar/desativar limites de comunicação em um Programa de email
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Ativar/desativar limites de comunicação em um programa de email - Documentos da Marketo - Documentação do produto
+title: Ativar/desativar limites de comunicação em um programa de email
+exl-id: 25427978-33a0-4153-ad66-b34f9549e794
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
+# Ativar/desativar limites de comunicação em um programa de email {#enable-disable-communication-limits-in-an-email-program}
 
-# Ativar/desativar limites de comunicação em um Programa de email {#enable-disable-communication-limits-in-an-email-program}
-
-Ao executar um programa de email, você pode optar por ignorar ou respeitar os [limites de comunicação de nível de administrador](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Aqui está como fazer isso.
+Ao executar um programa de email, você pode optar por ignorar ou respeitar a variável [limites de comunicação no nível do administrador](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Aqui está como fazê-lo.
 
 >[!NOTE]
 >
->Os limites de comunicação são [definidos na seção Admin](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) e ajudam a evitar o envio de emails em excesso para uma pessoa.
+>Os limites de comunicação são [definido na seção Admin](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) e ajudá-lo a evitar o envio de emails em excesso para uma pessoa.
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,12 +26,12 @@ Ao executar um programa de email, você pode optar por ignorar ou respeitar os [
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Na guia **Setup**, clique com o duplo no item de linha de limite de comunicação.
+1. Em **Configuração** , clique duas vezes no item de linha do limite de comunicação.
 
    ![](assets/blockoperational.png)
 
-1. Por padrão, emails não operacionais são bloqueados se os limites de comunicação forem atingidos, mas se você quiser ignorá-los, desmarque a caixa de seleção e clique em **Salvar**.
+1. Por padrão, os emails não operacionais são bloqueados se os limites de comunicação forem atingidos, mas se você quiser ignorá-los, desmarque a caixa de seleção e clique em **Salvar**.
 
    ![](assets/ifaperson.jpg)
 
-   Deixar **Bloquear e-mails não operacionais** marcados impedirá o envio do e-mail para qualquer pessoa que recebeu mais e-mails do que as configurações de administrador permitem.
+   Saída **Bloquear emails não operacionais** marcado impedirá o envio do email para qualquer pessoa que recebeu mais emails do que as configurações de administrador permitem.

@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2360012
-description: Relatório de Pessoas por status - Documentos do Marketing - Documentação do produto
+description: Relatório de Pessoas por Status - Documentos do Marketo - Documentação do produto
 title: Relatório de Pessoas por Status
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
 # Relatório de Pessoas por Status {#people-by-status-report}
 
-Verifique se você está movendo as pessoas pelo processo verificando quantas delas aparecem em cada valor _Status da pessoa_ mensalmente.
+Analise o desempenho das pessoas durante o processo, verificando quantas delas aparecem em cada _Status da pessoa_ todos os meses.
 
-1. [Crie um ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) relatório e selecione o tipo de relatório  **Pessoas por** [estado](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Criar um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **Pessoas por Status** [tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Defina o período do seu ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) relatório e clique na guia  **** Relatório.
+1. [Definir o período do relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique no botão **Relatório** guia .
 
-1. Ótimo! Agora você pode ver quantas pessoas estavam em cada Status da Pessoa, de mês para mês.
+1. Ótimo! Agora você pode ver quantas pessoas estavam em cada Status de pessoa, de mês para mês.
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 
@@ -29,4 +28,4 @@ Verifique se você está movendo as pessoas pelo processo verificando quantas de
 
    >[!MORELIKETHIS]
    >
-   >[Use uma lista inteligente para filtrar seu ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) relatório para pessoas específicas.
+   >[Usar uma lista inteligente para filtrar o relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) para pessoas específicas.

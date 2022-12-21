@@ -1,37 +1,36 @@
 ---
 unique-page-id: 3571888
-description: Habilitar sincronização de campo personalizado para análise de ciclo de receita - Documentos do marketing - Documentação do produto
-title: Ativação da sincronização de campo personalizado para o Análise do ciclo de receita
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Ativar a sincronização de campo personalizado para o Revenue Cycle Analytics - Documentos do Marketo - Documentação do produto
+title: Ativando a sincronização de campo personalizado para o Análise de ciclo de receita
+exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-
-# Habilitando sincronização de campo personalizado para Análises do ciclo de receita {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# Ativando a sincronização de campo personalizado para o Análise de ciclo de receita {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 As etapas a seguir permitirão utilizar campos personalizados em relatórios RCA.
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/one.png)
 
-1. Clique em **Análises do Ciclo de Receita** e **Sincronização de Campo Personalizado**.
+1. Clique em **Análise do ciclo de receita**, em seguida **Sincronização de campo personalizado**.
 
    ![](assets/two.png)
 
-1. Selecione seu **Nome do campo** e clique em **Editar opção de sincronização**.
+1. Selecione seu **Nome do campo**, depois clique em **Opção Editar Sincronização**.
 
    ![](assets/three.png)
 
-1. Em Status de sincronização, selecione **Ativado** e clique em **Salvar**.
+1. Em Sincronizar status, selecione **Ativado**, depois clique em **Salvar**.
 
    ![](assets/four.png)
 
-1. A marca de seleção verde permite que você saiba que o campo está configurado para sincronização.
+1. A verificação verde informa que o campo está configurado para sincronização.
 
    ![](assets/five.png)
 
@@ -39,4 +38,4 @@ As etapas a seguir permitirão utilizar campos personalizados em relatórios RCA
 
    >[!NOTE]
    >
-   >Depois que o campo for ativado, os dados estarão disponíveis no Análises do ciclo de receita no dia seguinte.
+   >Depois que o campo for ativado, os dados estarão disponíveis na Análise do ciclo de receita no dia seguinte.

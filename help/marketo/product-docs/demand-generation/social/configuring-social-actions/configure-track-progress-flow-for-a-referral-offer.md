@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2950573
-description: Configurar o fluxo de andamento do rastreamento para uma Oferta de referência - Documentos do Marketing - Documentação do produto
-title: Configurar o fluxo de progresso do rastreamento para uma Oferta de referência
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Configurar o fluxo de progresso de rastreamento para uma oferta de referência - Documentos do Marketo - Documentação do produto
+title: Configurar o fluxo de progresso do rastreamento para uma oferta de referência
+exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
+# Configurar o fluxo de progresso do rastreamento para uma oferta de referência {#configure-track-progress-flow-for-a-referral-offer}
 
-# Configurar o fluxo de progresso de rastreamento para uma Oferta de referência {#configure-track-progress-flow-for-a-referral-offer}
+Quando você [criar uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), você pode configurar os prompts que mostram aos participantes o progresso em direção à recompensa.
 
-Ao [criar uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), você pode configurar os prompts que mostram aos participantes o progresso em direção à recompensa.
-
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,11 +22,11 @@ Ao [criar uma oferta de referência](/help/marketo/product-docs/demand-generatio
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. No editor de oferta de referência, vá para **Rastrear fluxo de progresso** > **Redes sociais**.
+1. No editor de ofertas de referência, acesse **Rastrear fluxo de progresso** > **Redes sociais**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. Na janela **Visualização e edição**, edite o prompt que faz lembrar os participantes de fazer logon na mesma rede social que eles usaram para se inscrever em sua oferta.
+1. No **Exibir e editar** edite o prompt que lembra os participantes de fazer logon na mesma rede social que usaram para se inscrever em sua oferta.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -39,14 +38,14 @@ Ao [criar uma oferta de referência](/help/marketo/product-docs/demand-generatio
 
    ![](assets/image2014-9-22-14-3a36-3a22.png)
 
-1. Edite o prompt que informa ao participante que ele atingiu a meta de cumprimento e deve verificar seu email.
+1. Edite o prompt que informa ao participante que ele atingiu a meta de realização e deve verificar seu email.
 
    ![](assets/image2014-9-22-14-3a36-3a36.png)
 
-1. Edite a mensagem que informa um participante bem-sucedido sobre os códigos promocionais relevantes para resgatar sua recompensa.
+1. Edite a mensagem que informa um participante bem-sucedido sobre os códigos promocionais relevantes para resgate de sua recompensa.
 
    ![](assets/image2014-9-22-14-3a36-3a43.png)
 
 >[!MORELIKETHIS]
 >
->Em seguida, clique em **Concluir** > **Aprovar e Fechar** e [publicar sua oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
+>Em seguida, clique em **Concluir** > **Aprovar e fechar** e [publicar sua oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).

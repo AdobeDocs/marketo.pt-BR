@@ -1,32 +1,31 @@
 ---
 unique-page-id: 2359734
-description: Pré-visualização de uma Landing page com conteúdo dinâmico - Documentos do Marketing - Documentação do produto
-title: Pré-visualização de uma Landing page com conteúdo dinâmico
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Visualizar uma página de aterrissagem com conteúdo dinâmico - Documentos do Marketo - Documentação do produto
+title: Visualizar uma página de aterrissagem com conteúdo dinâmico
+exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Visualizar uma página de aterrissagem com conteúdo dinâmico {#preview-a-landing-page-with-dynamic-content}
 
-# Pré-visualização de uma Landing page com Conteúdo dinâmico {#preview-a-landing-page-with-dynamic-content}
-
-Pré-visualização sua landing page depois de adicionar conteúdo dinâmico para garantir que tudo fique como deveria.
+Visualize sua página de aterrissagem depois de adicionar conteúdo dinâmico para garantir que tudo fique como deveria.
 
 >[!PREREQUISITES]
 >
->* [Usar conteúdo dinâmico em uma Landing page](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [Pré-visualização de uma Landing page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
+>* [Usar conteúdo dinâmico em uma página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [Visualizar uma página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 
-1. Selecione uma landing page e clique em **Página de Pré-visualização**.
+1. Selecione uma página de aterrissagem e clique em **Página Visualizar**.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. Clique na lista suspensa e selecione um **Segmento** para pré-visualização.
+1. Clique no menu suspenso e selecione uma **Segmento** para pré-visualizá-lo.
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
-Incrível! Agora você pode garantir que suas landings page funcionem e que você queira que elas ocorram em segmentos diferentes.
+Ótimo! Agora é possível garantir que suas landing pages funcionem para que você deseje em todos os segmentos.

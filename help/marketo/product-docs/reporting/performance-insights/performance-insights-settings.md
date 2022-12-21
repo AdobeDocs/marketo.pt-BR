@@ -1,61 +1,60 @@
 ---
 unique-page-id: 13795492
-description: Configurações do Performance Insights - Documentos do Marketing - Documentação do produto
+description: Configurações do Performance Insights - Documentação do Marketo - Documentação do produto
 title: Configurações do Performance Insights
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-
 # Configurações do Performance Insights {#performance-insights-settings}
 
-Saiba mais sobre as diferentes opções de Configurações em MPI.
+Saiba mais sobre as diferentes opções de Configurações no MPI.
 
 ![](assets/1-3.png)
 
 >[!NOTE]
 >
->Dependendo do painel em que você está, você verá diferentes opções de configuração.
+>Dependendo do painel em que você estiver, você verá opções de configuração diferentes.
 
-## Programa de visualização bem-sucedido por {#view-program-success-by}
+## Exibir sucesso de programas por {#view-program-success-by}
 
-**Painel de envolvimento - contribuição e tendência**
+**Painel de envolvimento - Contribuição e tendência**
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Período de Custo</strong></td> 
-   <td>Ao verificar isso, o Performance Insights fará a agregação de todos os novos nomes e sucessos de volta ao mês configurado como o período de custo.</td> 
+   <td><strong>Período de custo</strong></td> 
+   <td>Ao verificar isso, o Performance Insights agregará todos os novos nomes e sucessos ao mês configurado como o período de custo.</td> 
   </tr> 
   <tr> 
    <td><strong>Período de atividade</strong></td> 
-   <td>Ao verificar isso, o Performance Insights agregação todos os novos nomes, sucessos e associação por data de atividade, independentemente do período de custo do programa.</td> 
+   <td>Ao verificar isso, o Performance Insights agregará todos os novos nomes, sucessos e associação por data da atividade, independentemente do período de custo do programa.</td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Configuração do período anterior {#previous-period-configuration}
 
-**Envolvimento, Pipeline, Painéis de receita - Apenas contribuição**
+**Envolvimento, pipeline, painéis de receita - Contribuição somente**
 
 <table> 
  <tbody> 
   <tr> 
    <td><strong>Período do calendário</strong></td> 
-   <td>Defina o período anterior como: mês, trimestre ou ano civil anterior.</td> 
+   <td>Defina o período anterior como: mês, trimestre ou ano anterior.</td> 
   </tr> 
   <tr> 
-   <td><strong>Período YOY</strong></td> 
-   <td>Defina o período anterior para o mesmo mês ou trimestre do ano anterior.</td> 
+   <td><strong>Ao ano no período</strong></td> 
+   <td>Defina o período anterior como o mesmo mês ou trimestre do ano anterior.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Oportunidades influenciadas por marketing {#marketing-influenced-opportunities}
+## Oportunidades influenciadas pelo marketing {#marketing-influenced-opportunities}
 
 **Painel de pipeline - Contribuição e tendência**
 
@@ -63,11 +62,11 @@ Saiba mais sobre as diferentes opções de Configurações em MPI.
  <tbody> 
   <tr> 
    <td><strong>Mostrar primeiro toque, antes da criação da oportunidade</strong></td> 
-   <td><p>Ao verificar isso, o MPI inclui oportunidades associadas a pelo menos um cliente potencial adquirido (primeiro toque/FT) por um Programa de marketing antes da criação da oportunidade. As configurações de atribuição Explícita, implícita e híbrida são aplicáveis.</p></td> 
+   <td><p>Ao verificar isso, o MPI inclui oportunidades associadas a pelo menos um lead que foi adquirido (primeiro toque/FT) por um Programa Marketo antes da criação da oportunidade. As configurações Explicit, Implicit e Hybrid attribute são aplicáveis.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Mostrar multitoque, antes da criação da oportunidade</strong></td> 
-   <td><p>Ao verificar isso, o MPI inclui oportunidades com pelo menos um cliente potencial adquirido (multi-touch/MT) por um Programa de marketing antes da criação da oportunidade. As configurações de atribuição Explícita, implícita e híbrida são aplicáveis.</p></td> 
+   <td><p>Ao verificar isso, o MPI inclui oportunidades com pelo menos um lead que foi adquirido (multitoque/MT) por um Programa Marketo antes da criação da oportunidade. As configurações Explicit, Implicit e Hybrid attribute são aplicáveis.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -77,29 +76,29 @@ Saiba mais sobre as diferentes opções de Configurações em MPI.
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Mostrar primeiro toque, antes que a oportunidade seja fechada</strong></td> 
-   <td><p>Ao verificar isso, o MPI inclui oportunidades associadas a pelo menos um cliente potencial adquirido (primeiro toque/FT) por um Programa de marketing antes do encerramento da oportunidade. As configurações de atribuição Explícita, implícita e híbrida são aplicáveis.</p></td> 
+   <td><strong>Mostrar primeiro toque, antes do fechamento da oportunidade</strong></td> 
+   <td><p>Ao verificar isso, o MPI inclui oportunidades que estão associadas a pelo menos um lead que foi adquirido (primeiro toque/FT) por um Programa Marketo antes do fechamento da oportunidade. As configurações Explicit, Implicit e Hybrid attribute são aplicáveis.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Mostrar multitoque, antes que a oportunidade seja fechada</strong></td> 
-   <td><p>Quando você verifica isso, o MPI inclui oportunidades com pelo menos um cliente potencial adquirido (multi-touch/MT) por um Programa de marketing antes de a oportunidade ser fechada. As configurações de atribuição Explícita, implícita e híbrida são aplicáveis.</p></td> 
+   <td><strong>Mostrar multitoque, antes do fechamento da oportunidade</strong></td> 
+   <td><p>Ao verificar isso, o MPI inclui oportunidades com pelo menos um lead que foi adquirido (multitoque/MT) por um Programa Marketo antes do fechamento da oportunidade. As configurações Explicit, Implicit e Hybrid attribute são aplicáveis.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Cálculo de Custo {#cost-calculation}
+## Cálculo de custos {#cost-calculation}
 
-**Pipeline e Painéis de receita - Contribuição e tendência**
+**Painéis de pipeline e receita - Contribuição e tendência**
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Com base no período de investimento</strong></td> 
-   <td>O Custo de Investimento é calculado simplesmente como a soma dos custos de programa mensais definidos pelo filtro do período de investimento.</td> 
+   <td><strong>Baseado no período de investimento</strong></td> 
+   <td>O custo de investimento é calculado simplesmente como a soma de custos mensais de programas definidos pelo filtro do período de investimento.</td> 
   </tr> 
   <tr> 
-   <td><strong>Com base na atribuição do Programa</strong></td> 
-   <td>O Custo Atribuído é baseado em uma porção do custo do programa determinado por clientes potenciais ou contatos que foram adquiridos, ou alcançaram sucesso, no programa e acabaram resultando em uma oportunidade vencida.</td> 
+   <td><strong>Baseado na atribuição do programa</strong></td> 
+   <td>O Custo Atribuído é baseado em uma porção do custo do programa determinado por clientes potenciais ou contatos que foram adquiridos ou alcançaram sucesso no programa e resultaram em uma oportunidade própria.</td> 
   </tr> 
  </tbody> 
 </table>

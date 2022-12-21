@@ -1,19 +1,18 @@
 ---
 unique-page-id: 17727499
-description: Espaços de trabalho na personalização da Web - Documentos de marketing - Documentação do produto
+description: Espaços de trabalho na personalização da Web - Documentos do Marketo - Documentação do produto
 title: Espaços de trabalho na personalização da Web
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
+# Espaços de trabalho na personalização da Web {#workspaces-in-web-personalization}
 
-# Espaços de trabalho na Personalização da Web {#workspaces-in-web-personalization}
-
-A Personalização da Web suporta vários espaços de trabalho para campanhas da Web e segmentos da Web.
+A Personalização da Web é compatível com vários espaços de trabalho para campanhas da Web e segmentos da Web.
 
 ## Alternar espaços de trabalho {#switch-workspaces}
 
@@ -21,13 +20,13 @@ Para alternar entre espaços de trabalho na personalização da Web, clique no �
 
 ![](assets/ss7.png)
 
-## Alterar a área de trabalho de um segmento {#change-a-segments-workspace}
+## Alterar o espaço de trabalho de um segmento {#change-a-segments-workspace}
 
-1. Vá para a página **Segmentos**, selecione um segmento e clique no ícone de edição.
+1. Vá para o **Segmentos** selecione um segmento e clique no ícone editar .
 
    ![](assets/ss4.png)
 
-1. Selecione um espaço de trabalho diferente no menu suspenso **Workspace**.
+1. Selecione um espaço de trabalho diferente do **Workspace** lista suspensa.
 
    ![](assets/ss6.png)
 
@@ -35,4 +34,4 @@ Para alternar entre espaços de trabalho na personalização da Web, clique no �
 
 >[!NOTE]
 >
->Os usuários só poderão ver campanhas da Web e segmentos associados aos espaços de trabalho aos quais têm acesso. Veja como [conceder a um usuário acesso a um ou mais espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
+>Os usuários só poderão ver campanhas da Web e segmentos associados aos espaços de trabalho aos quais têm acesso. Veja como [conceder acesso de usuário a um ou mais espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).

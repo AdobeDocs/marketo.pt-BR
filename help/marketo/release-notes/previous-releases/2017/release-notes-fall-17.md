@@ -91,4 +91,4 @@ Agora é possível visualizar remotamente o email fora do Marketo, simplificando
 
 **[Substituir a API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
 
-Os desenvolvedores podem atualizar o conteúdo HTML de ativos de email remotamente, permitindo que eles trabalhem em um único sistema para manter ativos.
+Os desenvolvedores podem atualizar o conteúdo de HTML de ativos de email remotamente, permitindo que eles trabalhem em um único sistema para manter ativos.

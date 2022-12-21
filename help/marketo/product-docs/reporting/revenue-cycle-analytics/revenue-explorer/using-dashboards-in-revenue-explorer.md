@@ -1,51 +1,50 @@
 ---
 unique-page-id: 10094959
-description: Uso de Painéis no Revenue Explorer - Documentos do Marketing - Documentação do produto
-title: Uso de Painéis no Explorador de Receita
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Uso de painéis no Explorador de receita - Documentos do Marketo - Documentação do produto
+title: Uso de painéis no Explorador de receita
+exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
+# Uso de painéis no Explorador de receita {#using-dashboards-in-revenue-explorer}
 
-# Uso de Painéis no Revenue Explorer {#using-dashboards-in-revenue-explorer}
+Um painel é uma combinação de relatórios do Revenue Explorer para obter uma visão geral rápida de seus leads, campanhas, oportunidades e/ou modelos.
 
-Um painel é uma combinação de relatórios do Explorador de Receita para obter uma visão geral rápida de seus clientes potenciais, campanhas, oportunidades e/ou modelos.
+## Criar um novo painel {#creating-a-new-dashboard}
 
-## Criando um novo Painel {#creating-a-new-dashboard}
-
-1. Clique em **Explorador de Receitas**.
+1. Clique em **Explorador de receita**.
 
    ![](assets/one.png)
 
-1. Clique em **Criar novo**, em seguida, **Painel**.
+1. Clique em **Criar novo**, em seguida **Painel**.
 
    ![](assets/two.png)
 
-1. Na parte inferior da página, os Modelos serão selecionados por padrão. Clique no layout que deseja usar. &quot;2 Coluna&quot; é usado aqui.
+1. Na parte inferior da página, Modelos serão selecionados por padrão. Clique no layout que deseja usar. &quot;2 Coluna&quot; é usada aqui.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Você pode personalizar ainda mais sua aparência de painel clicando em **Temas** e escolhendo seu favorito.
+   >Você pode personalizar ainda mais a aparência do seu painel clicando em **Temas** e escolher o seu favorito.
 
-1. Na primeira seção do painel, clique no ícone **Inserir** e selecione **Arquivo**.
+1. Na primeira seção do painel, clique no botão **Inserir** e selecione **Arquivo**.
 
    ![](assets/four.png)
 
-1. Clique com o duplo **Explorador de Receitas**.
+1. Clique duas vezes **Explorador de receita**.
 
    ![](assets/five.png)
 
-1. Clique com o duplo **Todos os relatórios e Painéis**.
+1. Clique duas vezes **Todos os relatórios e painéis**.
 
    ![](assets/six.png)
 
-1. Clique com o duplo na pasta que contém o relatório que deseja usar.
+1. Clique duas vezes na pasta que contém o relatório que deseja usar.
 
    ![](assets/seven.png)
 
@@ -57,21 +56,21 @@ Um painel é uma combinação de relatórios do Explorador de Receita para obter
 
    ![](assets/nine.png)
 
-1. Para renomear uma seção, clique nela para selecioná-la, digite o nome desejado em Título e clique em **Aplicar**. Repita o procedimento para cada seção.
+1. Para renomear uma seção, clique nela para selecioná-la, digite o nome desejado em Título e clique em **Aplicar**. Repita para cada seção.
 
    ![](assets/ten.png)
 
-1. Para salvar, clique no ícone Salvar, digite um nome de arquivo, clique com o duplo na pasta Gerenciador de receitas até acessar a pasta desejada para o painel e clique em **Salvar**.
+1. Para salvar, clique no ícone Salvar , insira um nome de arquivo, clique duas vezes na pasta Explorador de receita até chegar à pasta desejada para o painel e clique em **Salvar**.
 
    ![](assets/eleven.png)
 
-## Edição de um Painel {#editing-a-dashboard}
+## Editar um painel {#editing-a-dashboard}
 
-1. Clique em **Explorador de Receitas**.
+1. Clique em **Explorador de receita**.
 
    ![](assets/one.png)
 
-1. Clique com o duplo na pasta **Explorador de Receitas**. Navegue até onde seu painel mora.
+1. Clique duas vezes no botão **Explorador de receita** pasta. Navegue até o local onde seu painel está.
 
    ![](assets/thirteen.png)
 
@@ -79,16 +78,16 @@ Um painel é uma combinação de relatórios do Explorador de Receita para obter
 
    ![](assets/fourteen.png)
 
-## Excluindo um Painel {#deleting-a-dashboard}
+## Excluir um painel {#deleting-a-dashboard}
 
-1. Clique em **Explorador de Receitas**.
+1. Clique em **Explorador de receita**.
 
    ![](assets/one.png)
 
-1. Clique com o duplo na pasta **Explorador de Receitas**. Navegue até onde seu painel mora.
+1. Clique duas vezes no botão **Explorador de receita** pasta. Navegue até o local onde seu painel está.
 
    ![](assets/thirteen.png)
 
-1. Selecione o painel que deseja excluir e clique em **Mover para o lixo**.
+1. Selecione o painel que deseja excluir e clique em **Mover para a lixeira**.
 
    ![](assets/fifteen.png)

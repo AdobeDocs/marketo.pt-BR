@@ -3,7 +3,6 @@ unique-page-id: 1147239
 description: Adicionar colunas de status do programa a um relatório de programa - Documentos da Marketo - Documentação do produto
 title: Adicionar colunas de status de programa a um relatório de programa
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -23,7 +22,7 @@ Adicione estatísticas sobre o status do programa ao seu [relatório de desempen
 
    ![](assets/emailperformance.jpg)
 
-1. Clique na guia **Setup** e arraste sobre a tag Channel .
+1. Clique no botão **Configuração** e arraste sobre a tag Canal .
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -33,7 +32,7 @@ Adicione estatísticas sobre o status do programa ao seu [relatório de desempen
 
    >[!TIP]
    >
-   >Para mostrar colunas de status do programa, seu relatório deve ser filtrado por _apenas um canal_.
+   >Para mostrar colunas de status do programa, seu relatório deve ser filtrado por _just one_ canal.
 
 1. Marque a opção para Mostrar colunas de status do programa. Clique em **Aplicar**.
 
@@ -45,7 +44,7 @@ Adicione estatísticas sobre o status do programa ao seu [relatório de desempen
 
 >[!NOTE]
 >
->Se você não vir uma coluna para cada status no programa, verifique se selecionou [as colunas para mostrar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) no relatório.
+>Se você não vir uma coluna para cada status no programa, verifique se você [selecionou as colunas a serem mostradas](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) no relatório.
 
 >[!MORELIKETHIS]
 >

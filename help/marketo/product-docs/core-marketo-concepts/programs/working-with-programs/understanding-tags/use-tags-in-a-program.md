@@ -3,7 +3,6 @@ unique-page-id: 1147150
 description: Usar tags em um programa - Documentos da Marketo - Documentação do produto
 title: Usar tags em um programa
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
@@ -17,7 +16,7 @@ Tags são atributos que descrevem seus programas e são usados para agrupar tipo
 
 ## Usar uma tag em um programa {#use-a-tag-in-a-program}
 
-1. Selecione o programa. Clique em **Configurar**.
+1. Selecione o programa. Clique em **Configuração**.
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
@@ -39,7 +38,7 @@ Tags são atributos que descrevem seus programas e são usados para agrupar tipo
 
 ## Editar uma tag {#edit-a-tag}
 
-1. Vá para a guia **Setup**. Clique com o botão direito do mouse na tag . Selecione **Editar**.
+1. Vá para o **Configuração** guia . Clique com o botão direito do mouse na tag . Selecionar **Editar**.
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -55,13 +54,13 @@ Tags são atributos que descrevem seus programas e são usados para agrupar tipo
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## Excluir uma tag {#delete-a-tag}
+## Excluir uma tag  {#delete-a-tag}
 
-1. Vá para a guia **Setup**. Clique com o botão direito do mouse na tag e selecione **Delete**.
+1. Vá para o **Configuração** guia . Clique com o botão direito do mouse na tag e selecione **Excluir**.
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
-1. Clique em **Delete** para confirmar.
+1. Clique em **Excluir** para confirmar.
 
    ![](assets/image2014-9-23-15-3a47-3a8.png)
 

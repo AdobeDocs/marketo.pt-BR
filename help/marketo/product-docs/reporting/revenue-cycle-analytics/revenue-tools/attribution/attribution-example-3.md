@@ -1,31 +1,30 @@
 ---
 unique-page-id: 7514149
-description: Exemplo de atribuição 3 - Documentos de marketing - Documentação do produto
+description: Exemplo de atribuição 3 - Documentação do Marketo - Documentação do produto
 title: Exemplo de atribuição 3
-translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Exemplo de atribuição 3 {#attribution-example}
 
 Leia o seguinte cenário e tente determinar os números que devem estar na grade.
 
-* 11 de abril | Steve downloads (conteúdo) - sucesso
+* 11 de abril | Downloads de Steve (Conteúdo) - sucesso
 * 22 de abril | A oportunidade é criada por US$ 3.000 (Steve e Jason têm papéis)
 * 25 de abril | Jason participa (Webinar) - sucesso
-* 30 de abril | A oportunidade está fechada
+* 30 de abril | Oportunidade fechada-vencedora
 
 | Métrica de atribuição | (Conteúdo) | (Webinar) |
 |---|---|---|
 | (MT) Opção criada | `<pre>1</pre>` | `<pre>0</pre>` |
-| (MT) Gasoduto criado | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
+| (MT) Planejamento criado | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
 | (MT) Opty Won | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
-| (MT) Ganho de receita | `<pre>$1,500</pre>` | `<pre>$1,500</pre>` |
+| (MT) Receita obtida | `<pre>$1,500</pre>` | `<pre>$1,500</pre>` |
 
 **Mostrar respostas**
 
@@ -33,9 +32,9 @@ Leia o seguinte cenário e tente determinar os números que devem estar na grade
 >
 >**Explicação**
 >
->Lembre-se da regra de atribuição nº 3. Jason teve programa sucesso DEPOIS que a propriedade foi criada. Portanto, o webinar não pode receber crédito pela criação da oportunidade. Só o crédito pela Opty ganhou.
+>Lembre-se da regra de atribuição nº 3. Jason teve sucesso no programa APÓS a criação da propriedade. Portanto, o webinário não pode receber crédito pela criação da oportunidade. Apenas crédito para o Opty ganhou.
 >
->Portanto, (Conteúdo) tem 100% de crédito pela criação e pipeline da Opty, mas apenas 50% de crédito pela propriedade ganhou.
+>Portanto, (Conteúdo) tem 100% do crédito pela criação e pipeline da Opção, mas apenas 50% do crédito pela opção venceu.
 
 >[!NOTE]
 >
@@ -46,7 +45,7 @@ Leia o seguinte cenário e tente determinar os números que devem estar na grade
 >1. Você não pode dar crédito por algo que aconteceu no passado
 
 
-Experimente todos os exemplos e você será um pro atribuição!
+Tente todos os exemplos e você será um criador de atribuição!
 
 >[!MORELIKETHIS]
 >

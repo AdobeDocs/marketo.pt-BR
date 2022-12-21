@@ -1,23 +1,22 @@
 ---
 unique-page-id: 10099415
-description: Gráficos Rápidos de Insights de Email - Documentos do Marketing - Documentação do produto
-title: Gráficos Rápidos de Insights de Email
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Gráficos rápidos de insights de email - Documentos do Marketo - Documentação do produto
+title: Gráficos rápidos de insights de email
+exl-id: 5c071694-af86-48bd-8159-f877c51364f2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
+# Gráficos rápidos de insights de email {#email-insights-quick-charts}
 
-# Gráficos Rápidos de Insights de Email {#email-insights-quick-charts}
-
-Os Gráficos Rápidos são miniaturas que você personaliza e salva, fornecendo uma visualização rápida de gráficos que você mais usa.
+Os Gráficos Rápidos são miniaturas que você personaliza e salva, fornecendo uma visualização rápida dos gráficos que você mais usa.
 
 ## Criar um novo gráfico rápido {#create-a-new-quick-chart}
 
-Neste exemplo, nós escolheremos a taxa aberta para as três primeiras semanas de fevereiro de 2016, nos estados da Califórnia e da Flórida.
+Neste exemplo, nós escolheremos taxa de abertura para as três primeiras semanas de fevereiro de 2016, nos estados da Califórnia e da Flórida.
 
 1. Clique no filtro de datas à direita da tela do Analytics.
 
@@ -31,27 +30,27 @@ Neste exemplo, nós escolheremos a taxa aberta para as três primeiras semanas d
 
    ![](assets/three-2.png)
 
-1. O gráfico muda depois que suas datas são aplicadas.
+1. O gráfico muda após suas datas serem aplicadas.
 
    ![](assets/four.png)
 
-1. Clique na primeira lista suspensa. Clique para selecionar seu critério (se ele ainda não estiver selecionado) e desmarque qualquer critério indesejado.
+1. Clique na primeira lista suspensa. Clique para selecionar seu critério (se ainda não estiver selecionado) e desmarque qualquer critério indesejado.
 
    ![](assets/5.png)
 
-1. No lado direito do gráfico, clique no ícone de exportação e selecione **Salvar como Gráfico Rápido**.
+1. No lado direito do gráfico, clique no ícone de exportação e selecione **Salvar como gráfico rápido**.
 
    ![](assets/six.png)
 
-1. Nomeie seu Gráfico Rápido e clique em **Salvar**.
+1. Dê um nome ao seu Gráfico rápido e clique em **Salvar**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Você pode ter até 20 Gráficos Rápidos. Eles podem ser excluídos e substituídos.
+   >Você pode ter até 20 gráficos rápidos. Eles podem ser excluídos e substituídos.
 
-1. Seu novo Gráfico Rápido aparecerá com os outros.
+1. O novo Gráfico Rápido aparecerá com os outros.
 
    ![](assets/8.png)
 
@@ -61,15 +60,15 @@ Neste exemplo, nós escolheremos a taxa aberta para as três primeiras semanas d
    >
    >Para mover qualquer gráfico rápido, basta clicar e arrastá-lo para a posição desejada.
 
-## Excluir um Gráfico Rápido {#delete-a-quick-chart}
+## Excluir um gráfico rápido {#delete-a-quick-chart}
 
-Deseja excluir um de seus Gráficos Rápidos? É fácil!
+Deseja excluir um dos seus Gráficos Rápidos? É fácil!
 
-1. Clique no ícone **Gráficos Rápidos**.
+1. Clique no botão **Gráficos rápidos** ícone .
 
    ![](assets/nine.png)
 
-1. Passe o cursor do mouse sobre o gráfico desejado, mas não clique nele. Ao passar o mouse, um X será exibido. Clique em **X**.
+1. Passe o mouse sobre o gráfico desejado, mas não clique nele. Ao passar o cursor do mouse, um X será exibido. Clique no botão **X**.
 
    ![](assets/ten.png)
 
@@ -77,4 +76,4 @@ Deseja excluir um de seus Gráficos Rápidos? É fácil!
 
    ![](assets/eleven.png)
 
-   Seu Gráfico Rápido agora é excluído. Disse que era fácil.
+   O Gráfico Rápido foi excluído. Disse que era fácil.

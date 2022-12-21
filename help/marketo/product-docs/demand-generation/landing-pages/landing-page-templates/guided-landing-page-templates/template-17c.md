@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 17C {#template-17c}
 
-Clique com o botão direito do mouse em [baixar Modelo 17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
+Clique com o botão direito do mouse em para [baixar modelo 17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
 
 ![](assets/image2015-8-17-17-3a6-3a47.png)
 

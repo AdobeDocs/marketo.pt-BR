@@ -100,7 +100,7 @@ Filtra por todos os emails pendentes.
   <td><strong>Descrição</strong></td>
  </tr>
  <tr>
-  <td><strong>Programado</strong></td>
+  <td><strong>Agendado</strong></td>
   <td>Emails que foram agendados a partir da janela de composição (Salesforce ou o Web App), plug-ins de email ou uma campanha.</td>
  </tr>
  <tr>

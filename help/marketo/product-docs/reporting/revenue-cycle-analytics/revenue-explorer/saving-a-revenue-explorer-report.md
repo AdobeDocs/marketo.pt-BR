@@ -1,27 +1,26 @@
 ---
 unique-page-id: 7504725
-description: Como salvar um relatório do Explorer de receita - Documentos do marketing - Documentação do produto
-title: Salvar um relatório do Explorador de Receita
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Salvamento de um Relatório do explorador de receita - Documentos do Marketo - Documentação do produto
+title: Salvando um Relatório do Gerenciador de Receita
+exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
+# Salvando um Relatório do Gerenciador de Receita {#saving-a-revenue-explorer-report}
 
-# Salvando um Relatório do Explorador de Receita {#saving-a-revenue-explorer-report}
+Os relatórios do Explorador de receita podem ser salvos no arquivo de sua escolha.
 
-Os relatórios do Explorador de Receita podem ser salvos no arquivo de sua escolha.
-
-1. Clique no ícone Salvar.
+1. Clique no ícone Salvar .
 
    ![](assets/image2015-3-25-17-3a8-3a49.png)
 
    >[!NOTE]
    >
-   >As alterações feitas no relatório não são salvas automaticamente. Portanto, salve-se com frequência!
+   >As alterações feitas no relatório não são salvas automaticamente. Portanto, certifique-se de salvar com frequência!
 
 1. Dê um nome descritivo ao seu relatório, selecione um local e clique em **Salvar**!
 
@@ -33,4 +32,4 @@ Os relatórios do Explorador de Receita podem ser salvos no arquivo de sua escol
 
 >[!MORELIKETHIS]
 >
->[Inscrever-se em um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Inscrever-se em um Relatório do Explorador de Receitas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

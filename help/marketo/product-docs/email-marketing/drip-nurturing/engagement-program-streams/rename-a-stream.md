@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359832
-description: Renomear um fluxo - Documentos do marketing - Documentação do produto
+description: Renomear um fluxo - Documentos do Marketo - Documentação do produto
 title: Renomear um fluxo
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-
 # Renomear um fluxo {#rename-a-stream}
 
-Se você quiser se manter organizado, poderá renomear seus fluxos. Aqui está como fazer isso.
+Se você quiser se manter organizado, poderá renomear seus fluxos. Aqui está como fazê-lo.
 
-1. Localize e selecione seu programa de envolvimento e clique em **Streams**.
+1. Encontre e selecione seu programa de envolvimento e clique em **Fluxos**.
 
    ![](assets/cloneasteam-1.jpg)
 
-1. Clique com o duplo no nome do fluxo atual.
+1. Clique duas vezes no nome do fluxo atual.
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
@@ -27,4 +26,4 @@ Se você quiser se manter organizado, poderá renomear seus fluxos. Aqui está c
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 
-   E voila! Agora você sabe renomear fluxos.
+   E voila! Agora você sabe como renomear fluxos.

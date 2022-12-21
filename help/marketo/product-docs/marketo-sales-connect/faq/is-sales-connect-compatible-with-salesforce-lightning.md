@@ -1,22 +1,21 @@
 ---
 unique-page-id: 14352493
-description: O Sales Connect é compatível com o Salesforce Lightning? - Documentos do Marketing - Documentação do produto
-title: O Sales Connect é compatível com o Salesforce Lightning?
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: O Sales Connect É Compatível Com O Salesforce Lightning? - Documentação do Marketo - Documentação do produto
+title: O Sales Connect É Compatível Com O Salesforce Lightning?
+exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-
-# O Sales Connect é compatível com o Salesforce Lightning? {#is-sales-connect-compatible-with-salesforce-lightning}
+# O Sales Connect É Compatível Com O Salesforce Lightning? {#is-sales-connect-compatible-with-salesforce-lightning}
 
 Sim, o Sales Connect é compatível com o Salesforce Lightning.
 
-[clique aqui](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) para obter o Guia de Instalação e Sucesso.
+Por favor [clique aqui](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) para o Guia de Instalação e Sucesso.
 
 >[!NOTE]
 >
->Os botões do Sales Connect para ações em massa estão disponíveis nas visualizações de lista de cliente potencial e contato.
+>Os botões de Conexão de Vendas para ações em massa estão disponíveis nas exibições de lista de Clientes Potenciais e Contatos.

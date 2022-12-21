@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359777
-description: Revisar as declarações aprovadas na pesquisa - Documentos do Marketing - Documentação do produto
-title: Revisar votos transmitidos na pesquisa
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Revisar votos transmitidos em pesquisa - Documentos do Marketo - Documentação do produto
+title: Revisar Votos Transmitidos em Pesquisa
+exl-id: 1877c5d2-0842-468c-826b-8027270ab292
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Revisar votos transmitidos na pesquisa {#review-votes-cast-in-poll}
+# Revisar Votos Transmitidos em Pesquisa {#review-votes-cast-in-poll}
 
 Quem votou em quê em sua pesquisa? Vamos descobrir.
 
-1. Em **Atividades de marketing**, selecione a pesquisa e clique na guia **Participantes**.
+1. Em **Atividades de marketing**, selecione a pesquisa e clique no botão **Participantes** guia .
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Clique no número na coluna **Votos**.
+1. Clique no número na **Votos a favor** coluna.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
@@ -29,4 +28,4 @@ Quem votou em quê em sua pesquisa? Vamos descobrir.
 
    >[!MORELIKETHIS]
    >
-   >Saiba mais sobre o alcance social e o impacto de seus aplicativos em [Desempenho social Visualização](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   >Saiba mais sobre o alcance social e o impacto dos aplicativos em [Exibir o desempenho social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).

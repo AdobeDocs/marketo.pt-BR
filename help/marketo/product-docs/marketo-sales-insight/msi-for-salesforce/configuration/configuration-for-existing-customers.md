@@ -22,11 +22,11 @@ Configure a seguinte configuração para começar a usar o novo Painel de insigh
 
 1. Abra uma nova guia no navegador para obter as credenciais do Marketo Sales Insights da conta do Marketo.
 
-1. Vá para a área **Admin**.
+1. Vá para o **Administrador** área.
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. Clique em **Sales Insight**.
+1. Clique em **Insight de vendas**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
@@ -38,15 +38,15 @@ Configure a seguinte configuração para começar a usar o novo Painel de insigh
 
 ## Configurar o Sales Insight no Salesforce {#configure-sales-insight-in-salesforce}
 
-1. No Salesforce, clique em **Setup**.
+1. No Salesforce, clique em **Configuração**.
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. Procure e selecione **Configurações do local remoto**.
+1. Procure e selecione **Configurações de local remoto**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. Clique em **Novo Site Remoto**.
+1. Clique em **Novo local remoto**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 

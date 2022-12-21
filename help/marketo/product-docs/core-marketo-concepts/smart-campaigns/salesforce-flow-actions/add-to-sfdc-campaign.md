@@ -3,11 +3,10 @@ unique-page-id: 1147034
 description: Adicionar à campanha SFDC - Documentos do Marketo - Documentação do produto
 title: Adicionar à campanha da SFDC
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -33,13 +32,13 @@ Essa etapa do fluxo pode ser usada em campanhas do Marketo ou como uma única et
    >
    >Se você não conseguir ver uma campanha do Salesforce na lista Campanha:
    >
-   >  1. Certifique-se de que a [sincronização de campanha está ativada](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-   >  1. Confirme se seu [Marketo Sync User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) é um [Marketing User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) no Salesforce.
+   >  1. Certifique-se de que o [a sincronização de campanha está ativada](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+   >  1. Confirme que a [Usuário do Marketo Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) é um [Usuário de marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) em Salesforce.
 
 
    >[!TIP]
    >
-   >Você pode usar o Salesforce campaign [My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) para facilitar a clonagem de programas.
+   >Você pode usar a campanha do Salesforce [Meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) para facilitar a clonagem de programas.
 
 1. Selecione o status do membro da campanha do Salesforce que você deseja atribuir aos leads quando eles forem adicionados.
 
@@ -47,4 +46,4 @@ Essa etapa do fluxo pode ser usada em campanhas do Marketo ou como uma única et
 
    >[!CAUTION]
    >
-   >Se uma pessoa já for um membro líder da campanha do Salesforce, ela será ignorada e seu status NÃO será atualizado. Em vez disso, você pode usar [alterar seu status em uma campanha SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md).
+   >Se uma pessoa já for um membro líder da campanha do Salesforce, ela será ignorada e seu status NÃO será atualizado. Você pode usar [alterar seu status em uma campanha SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md) em vez disso.

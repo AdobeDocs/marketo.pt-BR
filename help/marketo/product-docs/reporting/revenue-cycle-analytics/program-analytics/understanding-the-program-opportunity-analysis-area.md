@@ -1,193 +1,192 @@
 ---
 unique-page-id: 2951877
-description: Como entender a área de Análise da oportunidade do Programa - Documentos do Marketing - Documentação do produto
-title: Como entender a área de Análise da oportunidade do Programa
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Noções básicas sobre a área de análise de oportunidade do programa - Documentos da Marketo - Documentação do produto
+title: Noções Gerais da Área de Análise de Oportunidades do Programa
+exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '896'
-ht-degree: 0%
+ht-degree: 20%
 
 ---
 
-
-# Como entender a área de Análise da oportunidade do Programa {#understanding-the-program-opportunity-analysis-area}
+# Noções Gerais da Área de Análise de Oportunidades do Programa {#understanding-the-program-opportunity-analysis-area}
 
 ## Visão geral {#overview}
 
-A área Análise Oportunidade de Programa permite analisar a eficácia de Programas individuais ou ver resultados resumidos por Canal de Programa.
+A área Análise de oportunidade do programa permite analisar a eficácia de programas individuais ou ver resultados resumidos por Canal do programa.
 
 **Exemplo de perguntas comerciais que você pode responder usando essa área de análise incluem**:
 
-Quantas oportunidades foram associadas a um determinado Programa e quantas delas nós ganhamos?
+Quantas oportunidades foram associadas a um programa específico e quantas delas ganhámos?
 
 ![](assets/one-1.png)
 
-Quanto de receita um determinado Programa ou Canal ajudou a gerar?
+Quanta receita um determinado Programa ou Canal ajudou a gerar?
 
 ![](assets/two-1.png)
 
-Qual é minha receita para o investimento para um determinado Programa ou Canal?
+Qual é minha receita para o investimento em um determinado programa ou canal?
 
 ![](assets/three-1.png)
 
-Que oportunidades influenciaram um determinado Programa?
+Que oportunidades influenciou um programa específico?
 
 ![](assets/four-1.png)
 
-## Medidas de Atribuição de Análise de Oportunidade de programa (Pontos Azuis) {#program-opportunity-analysis-attribution-measures-blue-dots}
+## Medidas de atribuição da análise de oportunidade do programa (pontos azuis) {#program-opportunity-analysis-attribution-measures-blue-dots}
 
-As medidas disponíveis para você usar na análise são geralmente números e são representadas por pontos azuis. Dimension são atributos que dão visualizações diferentes das medidas e são representados por pontos amarelos.
+As medidas disponíveis para você usar na análise são geralmente números e são representadas por pontos azuis. Dimension são atributos que oferecem diferentes visualizações das medidas e são representados por pontos amarelos.
 
-Todas as medidas (pontos azuis) estão relacionadas à atribuição - o &quot;crédito&quot; para aquisição de chumbo ou para o sucesso das vendas associado a um cliente potencial.
+Todas as medidas (pontos azuis) estão relacionadas à atribuição - o &quot;crédito&quot; para aquisição de cliente potencial ou para o sucesso de vendas associado a um cliente potencial.
 
 ![](assets/six.five.png) ![](assets/seven-1.png)
 
-Há três tipos de medidas:
+Existem três tipos de medidas:
 
 * Medidas relacionadas à aquisição, que obtêm atribuição de primeiro toque (FT).
-* Medidas relacionadas ao sucesso, que recebem atribuição multitoque (MT).
-* Diversas medidas relacionadas a Programas, incluindo o número médio de toques de marketing antes que as Oportunidades sejam criadas ou fechadas.
+* Medidas relacionadas ao sucesso, que recebem atribuição de multitoque (MT).
+* Diversas medidas relacionadas ao Programa, incluindo o número médio de toques de marketing antes da criação ou do fechamento de Oportunidades.
 
-## Aquisição e medidas relacionadas com o sucesso {#acquisition-and-success-related-measures}
+## Aquisição e medidas relacionadas ao sucesso {#acquisition-and-success-related-measures}
 
-As medidas relacionadas com a aquisição dão crédito ao programa através do qual as informações de contato do cliente potencial são obtidas pela primeira vez. Um líder não tem de obter êxito num programa para que o crédito de aquisição seja concedido.
+As medidas relacionadas com a aquisição dão crédito ao programa através do qual as informações de contato de um cliente potencial são obtidas pela primeira vez. Um cliente potencial não tem de ser bem sucedido num programa de concessão de crédito de aquisição.
 
-O valor de adquirir um dado lead muda com o tempo. É zero até que uma compra seja feita pelo cliente potencial. Pode então aumentar com compras adicionais.
+O valor de adquirir um determinado lead é alterado ao longo do tempo. É zero até que uma compra seja feita pelo cliente potencial. Em seguida, ele pode aumentar com compras adicionais.
 
-As medidas relacionadas ao sucesso dão crédito a todos os programas que contribuem para o progresso de uma oportunidade potencial para uma compra.
+As medidas relacionadas com o sucesso dão crédito a todos os programas que contribuem para os progressos de um cliente potencial no sentido de uma compra.
 
-Como com a aquisição, o valor de contribuir para as vendas feitas a um cliente potencial muda com o tempo, e é zero até que alguma compra seja feita pelo cliente potencial.
+Assim como com a aquisição, o valor de contribuir com as vendas feitas a um cliente potencial muda ao longo do tempo, e é zero até que alguma compra seja feita pelo cliente potencial.
 
 <table> 
  <tbody> 
   <tr> 
-   <th>Medida de Atribuição - Relacionada a Oportunidade (FT ou MT)*</th> 
+   <th>Medida de atribuição - Relacionada à oportunidade (FT ou MT)*</th> 
    <th>Descrição</th> 
   </tr> 
   <tr> 
-   <td>Custo da oportunidade</td> 
-   <td>A parte do custo do programa que influenciou a oportunidade. O custo pode ser dividido se houver múltiplos clientes potenciais envolvidos.</td> 
+   <td>Custo da Oportunidade</td> 
+   <td>A parte do custo do programa que influenciou a oportunidade. O custo pode ser dividido se houver vários leads envolvidos.</td> 
   </tr> 
   <tr> 
-   <td>Oportunidades Criadas</td> 
-   <td>A parte do crédito que o programa recebeu por influenciar a criação da oportunidade. Pode ser uma fração se houver várias indicações envolvidas.</td> 
+   <td>Oportunidades criadas</td> 
+   <td>A parte do crédito que o programa recebeu por influenciar a criação da oportunidade. Pode ser uma fração, caso haja mais de um lead envolvido.</td> 
   </tr> 
   <tr> 
-   <td>Oportunidades vencedoras</td> 
-   <td>A parte do crédito que o programa recebeu por influenciar a oportunidade vencida. Pode ser uma fração se houver várias indicações envolvidas.</td> 
+   <td>Oportunidades conquistadas</td> 
+   <td>A parte do crédito que o programa recebeu por influenciar a oportunidade vencedora. Pode ser uma fração, caso haja mais de um lead envolvido.</td> 
   </tr> 
   <tr> 
-   <td>Pipeline criado</td> 
-   <td>A parcela do crédito (em valor monetário) que o programa recebeu por influenciar a criação da oportunidade. Pode ser uma fração se houver várias indicações envolvidas.</td> 
+   <td>Processamento criado</td> 
+   <td>Porção de crédito (em valores monetários) recebida pelo programa para influenciar a criação da oportunidade. Pode ser uma fração, caso haja mais de um lead envolvido.</td> 
   </tr> 
   <tr> 
-   <td>Pipeline criado - ainda aberto</td> 
-   <td>A parte do crédito (em valor monetário) que o programa recebeu por influenciar a criação da oportunidade atualmente em aberto. Pode ser uma fração se houver várias indicações envolvidas.</td> 
+   <td>Pipeline criado - Ainda aberto</td> 
+   <td>Porção de crédito (em valores monetários) recebida pelo programa para influenciar a criação da oportunidade atualmente aberta. Pode ser uma fração, caso haja mais de um lead envolvido.</td> 
   </tr> 
   <tr> 
    <td>Receita esperada</td> 
-   <td>A parcela do crédito (em valor monetário) que o programa recebeu por influenciar a criação da oportunidade. Receita esperada é a probabilidade da oportunidade multiplicada pelo valor da oportunidade. Pode ser uma fração se houver várias indicações envolvidas.</td> 
+   <td>Porção de crédito (em valores monetários) recebida pelo programa para influenciar a criação da oportunidade. A receita prevista é a probabilidade da oportunidade multiplicada pelo valor da oportunidade. Pode ser uma fração, caso haja mais de um lead envolvido.</td> 
   </tr> 
   <tr> 
    <td>Receitas De Investimento</td> 
-   <td>Rácio da parcela do crédito (em valor monetário) que o programa recebeu por influenciar as oportunidades ganhas e o custo do programa.</td> 
+   <td>Relação entre a porção de crédito (em valores monetários) recebida pelo programa para influenciar oportunidades conquistadas e o custo do programa.</td> 
   </tr> 
   <tr> 
-   <td>Receita vencedora</td> 
-   <td>A parte do crédito (em valor monetário) que o programa recebeu por influenciar a oportunidade vencida. Pode ser uma fração se houver várias indicações envolvidas.</td> 
+   <td>Receita conquistada</td> 
+   <td>Porção de crédito (em valores monetários) recebida pelo programa para influenciar uma oportunidade conquistada. Pode ser uma fração, caso haja mais de um lead envolvido.</td> 
   </tr> 
  </tbody> 
 </table>
 
-_* (FT) = Atribuição de Primeiro Contato, utilizada para medidas de aquisição de chumbo; (MT) = Atribuição multitoque, usada para medidas de sucesso de lead_
+_&#42;(FT) = Atribuição de Primeiro Toque, utilizada para medidas de aquisição de chumbo; (MT) = Atribuição multitoque, usada para medidas de sucesso de lead_
 
-Abaixo está um cenário que descreve como as Unidades de Oportunidade são calculadas quando existem dois Programas que geraram leads, mas esses clientes levam a uma Oportunidade da mesma conta.
+Abaixo está um cenário que descreve como as Unidades de Oportunidade são calculadas quando há dois Programas que geraram leads, mas esses levam a uma Oportunidade da mesma conta.
 
 **Programa 1**
 
-* Gera um cliente potencial: Chumbo 1
-* O cliente potencial 1 é da conta 1
+* Gera um lead: Lead 1
+* O lead 1 é da Conta 1
 
 **Programa 2**
 
-* Gera outro cliente potencial: Chumbo 2
-* O cliente potencial 2 também é da conta 1
+* Gera outro lead: Lead 2
+* O lead 2 também é da Conta 1
 
 **Conta 1**
 
 * Gera uma Oportunidade: Oportunidade 1
 
-O Marketo dá crédito adequadamente sem oportunidades de contagem de duplos entre Programas. Assim, neste caso, cada Programa recebe 0,5 Unidades de Oportunidade. Ou seja, cada Programa recebe metade do crédito pela Oportunidade gerada. Além disso, metade da receita associada à Oportunidade é atribuída a cada Programa.
+O Marketo dá crédito adequadamente sem dupla contagem de oportunidades entre programas. Assim, neste caso, cada Programa recebe 0,5 Unidades de Oportunidade. Ou seja, cada Programa recebe metade do crédito pela Oportunidade gerada. Além disso, metade da receita associada à Oportunidade é atribuída a cada Programa.
 
-## Diversas medidas relacionadas com Programas {#miscellaneous-program-related-measures}
+## Medidas Diversas Relacionadas com Programas {#miscellaneous-program-related-measures}
 
 As outras medidas disponíveis refletem o desempenho global do Programa.
 
 <table> 
  <tbody> 
   <tr> 
-   <th>Medida de atribuição - Relacionada ao Programa</th> 
+   <th>Medida de atribuição - Relacionada ao programa</th> 
    <th>Descrição</th> 
   </tr> 
   <tr> 
-   <td>Número de oportunidades associadas ao Programa</td> 
-   <td><p>O número total de Oportunidades que tinham dado qualquer tipo de atribuição de crédito a um programa. As oportunidades podem ser influenciadas por um ou mais clientes potenciais e por um ou mais Programas.</p></td> 
+   <td>Nº de Oportunidades Associadas ao Programa</td> 
+   <td><p>O número total de Oportunidades que tinham dado qualquer tipo de crédito de atribuição a um programa. As oportunidades podem ser influenciadas por um ou mais leads e por um ou mais Programas.</p></td> 
   </tr> 
   <tr> 
-   <td>Número médio de sucessos por oportunidade fechada</td> 
+   <td>Número Médio de Sucessos por Oportunidade Fechada</td> 
    <td>O número médio de sucessos do Programa antes do encerramento da Oportunidade. <br></td> 
   </tr> 
   <tr> 
-   <td>Número médio de sucessos por oportunidade criados</td> 
-   <td>O número médio de Programas bem-sucedidos antes da criação da Oportunidade.</td> 
+   <td>Número médio de sucessos por oportunidade criada</td> 
+   <td>O número médio de programas bem-sucedidos antes da criação da Oportunidade.</td> 
   </tr> 
   <tr> 
    <td>Novos nomes</td> 
-   <td>O número total de novos nomes, ou seja, novos clientes potenciais, adquiridos pelo Programa.</td> 
+   <td>O número total de novos nomes, ou seja, novos leads, adquiridos pelo Programa.</td> 
   </tr> 
   <tr> 
    <td>Custo do programa</td> 
    <td>Custo total do Programa.</td> 
   </tr> 
   <tr> 
-   <td>Sucesso (Total)</td> 
+   <td>Sucesso (total)</td> 
    <td>O número total de membros do Programa que obtiveram sucesso.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Dimension de Análise de oportunidade do programa (pontos amarelos) {#program-opportunity-analysis-dimensions-yellow-dots}
+## Dimension de análise da oportunidade do programa (pontos amarelos) {#program-opportunity-analysis-dimensions-yellow-dots}
 
-Enquanto as medidas (pontos azuis) são calculadas e exigem algum pensamento e explicação para usar, as dimensões (pontos amarelos) são descritivas. Estas são as dimensões disponíveis.
+Enquanto as medidas (pontos azuis) são calculadas e exigem reflexão e explicação para uso, as dimensões (pontos amarelos) são descritivas. Estas são as dimensões disponíveis.
 
 <table> 
  <tbody> 
   <tr> 
    <th>Categoria</th> 
-   <th>Rótulo de exibição</th> 
+   <th>Exibir rótulo</th> 
   </tr> 
   <tr> 
-   <td>Atributos de oportunidade</td> 
-   <td>Nome da Oportunidade Fechada<br>Nome da Oportunidade*<br>Nome do Proprietário da Oportunidade<br>Estágio da Oportunidade<br>Tipo de Oportunidade</td> 
+   <td>Atributos da oportunidade</td> 
+   <td>Oportunidade fechada<br>Nome da Oportunidade*<br>Nome do Proprietário da Oportunidade<br>Estágio da Oportunidade<br>Tipo de Oportunidade</td> 
   </tr> 
   <tr> 
    <td>Cronograma da oportunidade</td> 
-   <td>Ano/Trimestre/Mês Fechado da Oportunidade<br>Ano/Trimestre/Mês Criado pela Oportunidade</td> 
+   <td>Oportunidade Fechada Ano/Trimestre/Mês<br>Oportunidade Criada Ano/Trimestre/Mês</td> 
   </tr> 
   <tr> 
    <td>Atributos do programa</td> 
-   <td>Nome do Canal do programa<br>Nome do Programa</td> 
+   <td>Canal do programa<br>Nome do programa</td> 
   </tr> 
   <tr> 
-   <td>Cronograma do custo do programa</td> 
+   <td>Cronograma de custo do programa</td> 
    <td>Ano/Trimestre/Mês de Custo</td> 
   </tr> 
  </tbody> 
 </table>
 
-**Todas as Oportunidades que deram qualquer tipo de atribuição de crédito a um Programa. As oportunidades podem ser influenciadas por um ou mais clientes potenciais e por um ou mais Programas.*
+*&#42;Todas as Oportunidades que deram qualquer tipo de crédito de atribuição a um Programa. As oportunidades podem ser influenciadas por um ou mais leads e por um ou mais Programas.*
 
 >[!MORELIKETHIS]
 >
->[Criar um relatório do Explorador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Criar um relatório do explorador de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

@@ -3,7 +3,6 @@ unique-page-id: 1146999
 description: Tokens de acionador para momentos interessantes - Documentos do Marketo - Documentação do produto
 title: Tokens de acionador para momentos interessantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
-translation-type: tm+mt
 source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
@@ -15,11 +14,11 @@ ht-degree: 29%
 
 >[!PREREQUISITES]
 >
->Saiba como usar o [passo de fluxo de Momento Interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Saiba como usar o [Interessante Passo de fluxo de momento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Tokens disponíveis {#available-tokens}
 
-Confira [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos os tokens que você pode colocar em um momento interessante.
+Veja [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos os tokens você pode colocar em um momento interessante.
 
 ## Tokens do acionador {#trigger-tokens}
 
@@ -804,9 +803,9 @@ Com base no acionador usado em uma campanha inteligente, tokens de acionador adi
 
 >[!NOTE]
 >
->Se não tiver uma marca ![(tick)](assets/check.png) então ela retornará uma sequência vazia (nada) no momento interessante.
+>Se não tiver uma verificação ![(marca de verificação)](assets/check.png) em seguida, retornaria uma string vazia (nada) no momento interessante.
 
-*O Acionador **Visitas Web Page** tem alguns tokens adicionais:
+&#42;O Acionador **Página da Web Visitas** O tem alguns tokens adicionais:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

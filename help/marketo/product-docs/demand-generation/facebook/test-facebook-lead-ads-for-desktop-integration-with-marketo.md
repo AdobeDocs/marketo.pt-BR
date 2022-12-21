@@ -1,51 +1,50 @@
 ---
 unique-page-id: 11370892
-description: Testar os principais anúncios do Facebook para integração de desktop com o Marketing - Documentos do Marketing - Documentação do produto
-title: Testar os principais anúncios do Facebook para integração de desktop com o Marketo
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Testar anúncios principais da Facebook para integração de desktop com o Marketo - Documentos da Marketo - Documentação do produto
+title: Testar anúncios de lead da Facebook para integração de desktop com a Marketo
+exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
+# Testar anúncios de lead da Facebook para integração de desktop com a Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
-# Testar os principais anúncios do Facebook para integração de desktop com o Marketing {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
-
-Depois de criar seu Anúncio principal, você deve testá-lo! Veja como fazer isso no seu desktop.
+Depois de criar seu Anúncio de lead, você deve testá-lo! Veja como fazer isso em seu desktop.
 
 >[!PREREQUISITES]
 >
->Você deve [Configurar a Integração de Anúncios de Clientes Potenciais do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Você deve [Configurar a integração de Anúncios de leads do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
-1. No Editor de energia do Facebook, selecione uma campanha, um anúncio e clique em **Editar**.
+1. No Facebook Power Editor, selecione uma campanha, um anúncio e clique em **Editar**.
 
-1. Em **Links**, clique no link **Visualização no Feed de notícias**.
+1. Em **Links**, clique no botão **Exibir no Feed de Notícias** link .
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
-1. Você será direcionado para o Facebook em uma nova guia no seu navegador. Clique na Chamada para ação na unidade de Anúncio de venda do Facebook.
+1. Você será direcionado para o Facebook em uma nova guia no navegador. Clique na Chamada para ação na unidade de Anúncio de lead Facebook.
 
    ![](assets/image2016-5-13-14-3a42-3a45.png)
 
    >[!NOTE]
    >
-   >Este é apenas um exemplo, que usa uma chamada Learn More Call to Action. A Chamada à Ação da sua Unidade de Anúncio Potencial pode ser diferente.
+   >Este é apenas um exemplo, que usa uma Chamada para Ação Saiba mais . A Chamada à ação da unidade de anúncio de cliente potencial pode ser diferente.
 
-1. Envie sua unidade de anúncio de venda de teste preenchendo o formulário na área de trabalho. Clique em **Enviar**.
+1. Envie sua unidade de lead para teste preenchendo o formulário no desktop. Clique em **Enviar**.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
-1. Parabéns. Você terminou de enviar o formulário Anúncio de cliente em potencial.
+1. Parabéns. Você terminou de enviar o formulário de Anúncio de lead.
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. É aqui que a magia acontece! Depois de enviar seu formulário, [crie uma lista inteligente no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de um programa ou no banco de dados que usa o filtro Preenchido Formulário de Anúncios de Clientes Potenciais do Facebook. Insira o Nome do formulário do anúncio principal do formulário que você acabou de enviar.
+1. É aqui que a magia acontece! Depois de enviar o formulário, [criar uma lista inteligente no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de um programa ou no banco de dados que usa o filtro Preenchido Formulário de anúncios de lead para Facebook . Insira o Nome do formulário do Anúncio de lead do formulário que você acabou de enviar.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. Agora, clique na guia **Pessoas** para validar se a sincronização está funcionando corretamente.
+1. Em seguida, clique no botão **Pessoas** para validar se a sincronização está funcionando corretamente.
 
    ![](assets/people.png)
 
@@ -53,4 +52,4 @@ Depois de criar seu Anúncio principal, você deve testá-lo! Veja como fazer is
 
 >[!MORELIKETHIS]
 >
->[Configurar Anúncios de venda do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Configurar anúncios de lead da Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

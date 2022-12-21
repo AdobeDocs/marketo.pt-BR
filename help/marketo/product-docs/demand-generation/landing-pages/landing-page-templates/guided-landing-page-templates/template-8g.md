@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 8G {#template-8g}
 
-Clique com o botão direito do mouse em [baixar Modelo 8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
+Clique com o botão direito do mouse em para [baixar modelo 8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
 
 ![](assets/image2015-7-29-14-3a58-3a16.png)
 

@@ -125,43 +125,43 @@ OPCIONAL: Use o procedimento acima para qualquer campo personalizado adicional d
    <th>Atributos do campo
   </tr>
   <tr>
-   <td>Cidade indicada</td>
+   <td>Cidade inferida</td>
    <td>mkto71_Inferred_City</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Empresa indicada</td>
+   <td>Empresa inferida</td>
    <td>mkto71_Inferred_Company</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>País indicado</td>
+   <td>País inferido</td>
    <td>mkto71_Inferred_Country</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Área metropolitana indicada</td>
+   <td>Área metropolitana inferida</td>
    <td>mkto71_Inferred_Metropolitan_Area</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Código de área telefônica indicado</td>
+   <td>Código de área telefônica inferido</td>
    <td>mkto71_Inferred_Phone_Area_Code</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Código postal indicado</td>
+   <td>Código postal inferido</td>
    <td>mkto71_Inferred_Postal_Code</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Estado/região indicado</td>
+   <td>Região inferida</td>
    <td>mkto71_Inferred_State_Region</td>
    <td>Texto</td>
    <td>Comprimento 255</td>

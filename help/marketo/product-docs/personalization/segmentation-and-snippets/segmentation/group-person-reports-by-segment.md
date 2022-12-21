@@ -1,44 +1,43 @@
 ---
 unique-page-id: 2359492
-description: Relatórios de pessoa de grupo por segmento - Documentos de marketing - Documentação do produto
+description: Relatórios de pessoa de grupo por segmento - Documentos do Marketo - Documentação do produto
 title: Relatórios de pessoa de grupo por segmento
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-
 # Relatórios de pessoa de grupo por segmento {#group-person-reports-by-segment}
 
-É possível agrupar seus relatórios de pessoa por qualquer segmento definido nas segmentações.
+É possível agrupar os relatórios de pessoa por qualquer segmento definido nas segmentações.
 
-1. Vá para a seção **Atividades de marketing** (ou **Analytics**).
+1. Ir para **Atividades de marketing** ou **Analytics**).
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
-1. Selecione seu relatório de pessoa na árvore de navegação.
+1. Selecione o relatório de pessoa na árvore de navegação.
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-1. Clique na guia **Configuração** e clique no duplo **Agrupar pessoas por**.
+1. Clique no botão **Configuração** e clique duas vezes **Agrupar Pessoas por**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >Você também pode [agrupar seus relatórios pessoais por pessoa ou atributo de empresa](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+   >Você também pode [agrupe seus relatórios de pessoa por atributo de pessoa ou empresa](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
 
-1. Na caixa de diálogo **Agrupar pessoas por**, start digitando &#39;Segmentação&#39; na caixa de texto. Quando o cabeçalho **Segmentações** for exibido, selecione um na lista abaixo do cabeçalho.
+1. No **Agrupar Pessoas por** , comece digitando &quot;Segmentação&quot; na caixa de texto. Quando a variável **Segmentações** for exibido, selecione um na lista abaixo do cabeçalho.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. Clique na guia **Relatório** para ver seu relatório agrupado pelo segmento selecionado.
+1. Clique no botão **Relatório** para ver seu relatório agrupado pelo segmento selecionado.
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 
 >[!MORELIKETHIS]
 >
->[Adicionar colunas personalizadas a um relatório de pessoa](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+>[Adicionar colunas personalizadas a um relatório de pessoas](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)

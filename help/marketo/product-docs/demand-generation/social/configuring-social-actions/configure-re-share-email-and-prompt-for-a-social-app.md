@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2950559
-description: Configurar e-mail de recompartilhamento e prompt para um aplicativo social - Documentos do Marketing - Documentação do produto
-title: Configurar e-mail de compartilhamento repetido e Solicitar um aplicativo do Social
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Configurar e-mail de re-compartilhamento e prompt para um aplicativo social - Documentos do Marketo - Documentação do produto
+title: Configurar e-mail de compartilhamento novamente e solicitar um aplicativo social
+exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
+# Configurar e-mail de compartilhamento novamente e solicitar um aplicativo social {#configure-re-share-email-and-prompt-for-a-social-app}
 
-# Configure e-mail de compartilhamento repetido e prompt para um aplicativo social {#configure-re-share-email-and-prompt-for-a-social-app}
-
-Ao criar uma [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode convidar participantes para compartilhar sua oferta com mais amigos como parte do processo de inscrição, bem como fornecer o texto padrão para o email de compartilhamento.
+Ao criar um [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode convidar participantes para compartilhar sua oferta com mais amigos como parte do processo de inscrição, bem como fornecer o texto padrão para o email de compartilhamento.
 
 >[!NOTE]
 >
 >Em uma oferta de referência, você também pode [tornar o compartilhamento da oferta um requisito](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) para se inscrever.
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,20 +26,20 @@ Ao criar uma [oferta de referência](/help/marketo/product-docs/demand-generatio
 
    ![](assets/image2014-9-22-11-3a6-3a56.png)
 
-1. No editor de oferta de referência, vá para **Sign-Up Flow** > **Recompartilhar prompt**.
+1. No editor de ofertas de referência, acesse **Fluxo de inscrição** > **Compartilhar novamente o prompt**.
 
    ![](assets/image2014-9-22-11-3a7-3a9.png)
 
-1. Edite o e-mail que será enviado aos amigos de seu participante se eles escolherem compartilhar.
+1. Edite o email que será enviado aos amigos do seu participante se ele optar por compartilhar.
 
    >[!NOTE]
    >
    >O email inclui automaticamente o URL de compartilhamento exclusivo do seu participante.
 
-1. Na janela **Visualização e edição**, clique em **Mostrar edições** e edite o convite para compartilhar, bem como as instruções de andamento de rastreamento.
+1. No **Exibir e editar** , clique em **Mostrar edições** e edite o convite para compartilhar, bem como as instruções de rastreamento de progresso.
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
 >[!MORELIKETHIS]
 >
->Em seguida, você pode configurar o [rastrear o fluxo de progresso em uma oferta de referência](configure-track-progress-flow-for-a-referral-offer.md), ou clicar em **Concluir** > **Aprovar e Fechar** para [publicar sua oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) ou [sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
+>Em seguida, você pode configurar o [rastrear o fluxo de progresso em uma oferta de referência](configure-track-progress-flow-for-a-referral-offer.md)ou clique em **Concluir** > **Aprovar e fechar** para [publicar sua oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) ou [sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).

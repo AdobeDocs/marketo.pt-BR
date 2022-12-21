@@ -1,29 +1,28 @@
 ---
 unique-page-id: 10097867
-description: Definir uma Lista inteligente para Atividades de personalização da Web - Documentos do Marketing - Documentação do produto
-title: Definir uma Lista inteligente para Atividades de personalização da Web
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Definir uma lista inteligente para atividades de personalização da Web - Documentos do Marketo - Documentação do produto
+title: Definir uma lista inteligente para atividades de personalização da Web
+exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
+# Definir uma lista inteligente para atividades de personalização da Web {#define-a-smart-list-for-web-personalization-activities}
 
-# Definir uma Lista inteligente para Atividades de personalização da Web {#define-a-smart-list-for-web-personalization-activities}
+Você pode usar as atividades de Personalização da Web em filtros e acionadores ao definir uma lista inteligente em uma campanha inteligente. Aqui, você deseja capturar qualquer pessoa que clicou em uma chamada de ação Personalização da Web (campanha).
 
-Você pode usar atividades de personalização da Web em filtros e acionadores quando estiver definindo uma lista inteligente em uma campanha inteligente. Aqui, você deseja capturar qualquer pessoa que clicou em uma chamada de Personalização da Web para ação (campanha).
+Use um acionador para enviar um email ou um alerta ou alterar um valor ou uma pontuação com base em visitantes que clicaram e participaram de uma chamada de personalização da Web para a ação . Também é possível filtrar e exibir os leads que clicaram em uma chamada de personalização da Web para ação.
 
-Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pontuação com base em visitantes que clicaram e participaram de uma chamada de Personalização da Web para ação. Você também pode filtrar e visualização os clientes potenciais que clicaram em uma chamada de personalização da Web para ação.
-
-1. Na sua campanha inteligente, clique na guia **Lista inteligente**.
+1. Na campanha inteligente, clique no botão **Lista inteligente** guia .
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
    >[!NOTE]
    >
-   >Listas inteligentes podem fazer coisas incríveis. Saiba mais no [Deep Dive da Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Smart Lists podem fazer coisas incríveis. Saiba mais na [Aprofundamento da Lista Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Procure o acionador e arraste e solte o acionador na tela.
 
@@ -33,13 +32,13 @@ Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pont
    >
    >Uma campanha inteligente com acionadores é executada no modo Acionador. Ele é executado em uma pessoa de cada vez com base nos eventos acionados e nos filtros adicionados.
 
-1. Clique na lista suspensa e escolha um operador.
+1. Clique no menu suspenso e escolha um operador.
 
    ![](assets/image2016-6-7-11-3a10-3a8.png)
 
    >[!CAUTION]
    >
-   >Linhas cinzas vermelhas indicam um erro. Se não for corrigido, a campanha ficará inválida e não será executada.
+   >Linhas roxas indicam um erro. Se não for corrigido, a campanha ficará inválida e não será executada.
 
 1. Defina o acionador.
 
@@ -51,17 +50,17 @@ Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pont
 
    >[!TIP]
    >
-   >Em uma campanha inteligente com filtros e acionadores, os acionadores ficam no topo. Quando acionado, somente as pessoas que atenderem aos critérios de filtragem passarão pelo fluxo.
+   >Em uma campanha inteligente com acionadores e filtros, os acionadores ficam no topo. Quando acionado, somente as pessoas que atendem aos critérios de filtro passarão pelo fluxo.
 
    >[!NOTE]
    >
-   >Com vários acionadores, uma pessoa percorre o fluxo se QUALQUER um dos acionadores for ativado.
+   >Com vários acionadores, uma pessoa passa para o fluxo se QUALQUER um dos acionadores for ativado.
 
-   Para executar a campanha em um conjunto de pessoas ao mesmo tempo, aprenda a [Definir Lista inteligente para Campanhas inteligentes | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Para executar a campanha em um conjunto de pessoas ao mesmo tempo, aprenda a [Definir Smart List para Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Definir Lista inteligente para Campanhas inteligentes | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >* [Adicionar uma Etapa de fluxo a uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >* [Definir uma Lista inteligente para Atividades de conteúdo preditivo](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [Definir Smart List para Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Adicionar uma etapa de fluxo a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Definir uma lista inteligente para atividades de conteúdo preditivo](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
 

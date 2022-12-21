@@ -3,7 +3,6 @@ unique-page-id: 1146985
 description: Reordenar as etapas do fluxo em uma campanha inteligente - Documentos do Marketo - Documentação do produto
 title: Reordenar as etapas do fluxo em uma campanha inteligente
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'

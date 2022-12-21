@@ -41,7 +41,7 @@ Quando você sincroniza inicialmente sua conta do Marketo Engage com Veeva, a Ma
     </tr>
     <tr>
       <td>E-mail</td>
-      <td>Endereço de e-mail</td>
+      <td>Endereço de email</td>
     </tr>
     <tr>
       <td>Fax comercial</td>
@@ -182,7 +182,7 @@ Quando você sincroniza inicialmente sua conta do Marketo Engage com Veeva, a Ma
     </tr>
     <tr>
       <td>Tipo de conta</td>
-      <td>SFDC - Tipo</td>
+      <td>Tipo do SFDC</td>
     </tr>
     <tr>
       <td>Site</td>

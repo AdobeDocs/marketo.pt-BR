@@ -3,7 +3,6 @@ unique-page-id: 4719294
 description: Personalizar sincronização de atividades - Documentos do Marketo - Documentação do produto
 title: Personalizar sincronização de atividades
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
@@ -15,15 +14,15 @@ ht-degree: 12%
 
 Se você não usar o Marketo Sales Insight, a Marketo poderá criar Registros do Histórico de Atividades do Salesforce para determinados eventos. Veja como habilitá-los.
 
-1. Vá para **Admin**.
+1. Ir para **Administrador**.
 
    ![](assets/admin.png)
 
-1. Clique em **Salesforce** e em **Editar Opções de Sincronização**.
+1. Clique em **Salesforce**, depois clique em **Editar opções de sincronização**.
 
    ![](assets/two-1.png)
 
-1. Marque as caixas ao lado das atividades que deseja que o Marketo envie para o Salesforce e clique em **Salvar**.
+1. Marque as caixas ao lado das atividades que você deseja que o Marketo envie para o Salesforce e clique em **Salvar**.
 
    ![](assets/three-1.png)
 
@@ -96,8 +95,8 @@ Se você não usar o Marketo Sales Insight, a Marketo poderá criar Registros do
 
 >[!NOTE]
 >
->&quot;Email de vendas recebido&quot; significa **not** fornecido. O status do delivery não é capturado para emails enviados via Sales Insight.
+>&quot;Email de vendas recebido&quot; faz **not** média entregue. O status do delivery não é capturado para emails enviados via Sales Insight.
 
 >[!TIP]
 >
->Se você estiver interessado em obter mais informações da Marketo no Salesforce, confira nosso produto [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
+>Se você estiver interessado em obter mais informações da Marketo no Salesforce, confira nossa [Insight sobre vendas da Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) produto.

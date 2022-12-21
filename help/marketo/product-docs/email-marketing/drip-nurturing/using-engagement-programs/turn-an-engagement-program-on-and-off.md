@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2359856
-description: Ligar e desligar um Programa de envolvimento - Documentos do marketing - Documentação do produto
-title: Ligar e desativar um Programa de envolvimento
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Ativar e desativar um programa de envolvimento - Documentos da Marketo - Documentação do produto
+title: Ativar e desativar um programa de envolvimento
+exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Ativar e desativar um programa de envolvimento {#turn-an-engagement-program-on-and-off}
 
-# Ligar e desligar o Programa de envolvimento {#turn-an-engagement-program-on-and-off}
+Você pode desativar um programa de envolvimento com o toque de um switch. Isso impedirá o envio de qualquer conteúdo. Veja como.
 
-Você pode desativar um programa de envolvimento com o movimento de um interruptor. Isso impedirá que qualquer conteúdo seja enviado. Veja como.
-
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione o programa de envolvimento e clique em **Setup**.
+1. Selecione o programa de envolvimento e clique em **Configuração**.
 
    >[!NOTE]
    >
-   >Por padrão, os programas de envolvimento ficam ATIVADOS, a menos que você ultrapasse o limite de subscrição.
+   >Os programas de envolvimento estão ativados por padrão, a menos que você esteja acima do limite de assinatura.
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Clique com o duplo **Status do Programa**.
+1. Clique duas vezes **Status do programa**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Selecione **Off** e clique em **Salvar**.
+1. Selecionar **Desligado** e clique em **Salvar**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
-Aqui está! Você pode ligá-la novamente usando as mesmas etapas.
+Lá vai você! Você pode ativá-la novamente usando as mesmas etapas.

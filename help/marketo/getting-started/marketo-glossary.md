@@ -306,7 +306,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>Email</strong></td> 
+   <td colspan="1"><strong>E-mail</strong></td> 
    <td colspan="1">No Marketo, uma das <strong>ativos</strong> disponível para uso para comunicação com seus clientes. Os emails podem ser HTML (gráficos, fonte personalizada etc.) ou Somente texto (mensagens de texto sem formatação especial). Somente emails de HTML podem gravar "aberturas".</td> 
   </tr> 
   <tr> 
@@ -801,7 +801,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Marcas</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Tags</a></strong></td> 
    <td>Identificadores usados para descrever <strong>programas</strong>.</td> 
   </tr>
   <tr> 

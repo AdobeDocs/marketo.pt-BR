@@ -1,30 +1,29 @@
 ---
 unique-page-id: 14352414
-description: Guia Equipe - Documentos do Marketing - Documentação do produto
-title: Como entender a guia Equipe
-translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+description: Guia Equipe - Documentação da Marketo - Documentação do produto
+title: Noções básicas sobre a guia Equipe
+exl-id: 07084711-b387-4688-bcf0-fd054acb8366
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
+# Noções básicas sobre a guia Equipe {#understanding-the-team-tab}
 
-# Como entender a guia Equipe {#understanding-the-team-tab}
+Na guia Equipe , destacamos três métricas importantes.
 
-Na guia Grupo, destacamos três métricas importantes.
+## Emails enviados com modelo {#emails-sent-with-template}
 
-## Emails enviados com o modelo {#emails-sent-with-template}
+Dos emails enviados, quantos utilizaram um modelo.
 
-Dos emails que foram enviados, quantos deles utilizaram um modelo.
+## Hora de pico do envolvimento {#peak-time-of-engagement}
 
-## Tempo máximo de envolvimento {#peak-time-of-engagement}
+Em todo o quadro, propagamos o horário de pico do engajamento, que indica a hora do dia em que sua equipe está obtendo mais atividade (exibições, cliques, respostas). Sua equipe pode agendar emails ou planejar enviar emails estrategicamente dessa vez.
 
-No quadro, aumentamos o tempo de pico de envolvimento, que indica a hora do dia em que sua equipe está obtendo mais atividade (visualizações, cliques, respostas). Sua equipe pode agendar emails ou planejar enviar emails estrategicamente por essa vez.
+## Contratos fechados {#deals-closed}
 
-## Negociações fechadas {#deals-closed}
+Isso se baseia no ciclo de vendas e no número de transações fechadas no mês atual.
 
-Isso se baseia no ciclo de vendas e em quantos negócios foram fechados dentro do mês atual.
-
-Como bônus, totalizamos a participação na taxa de visualização de sua equipe. Nesta guia, você também pode ver o Quadro de líderes do Rep. As estatísticas de e-mail de cada pessoa em sua equipe são exibidas aqui.
+Como bônus, obtemos o envolvimento com a taxa de visualização de sua equipe. Nesta guia, você também pode ver o Quadro de líderes do Rep. Estatísticas de email para cada pessoa em sua equipe são exibidas aqui.

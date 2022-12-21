@@ -30,15 +30,15 @@ Adicione três campos personalizados nos objetos lead e contact no Salesforce li
 
 Execute as etapas a seguir para cada um dos três campos personalizados para adicioná-los. Comece com Pontuação.
 
-1. Faça logon no Salesforce e clique em **Setup**.
+1. Faça logon no Salesforce e clique em **Configuração**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. No menu Criar à esquerda, clique em **Personalizar** e selecione **Potenciais**. Clique em **Campos**.
+1. No menu Criar à esquerda, clique em **Personalizar** e selecione **Clientes potenciais**. Clique em **Campos**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Clique em **Novo** na seção Campos personalizados e Relações , na parte inferior da página.
+1. Clique em **Novo** na seção Campos e relações personalizados , na parte inferior da página.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -46,7 +46,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Clique em **Next**.
+1. Clique em **Próximo**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -105,18 +105,18 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 >
 >Os campos de texto e número exigem um comprimento, mas os campos Data/Hora não o exigem. Uma descrição é opcional.
 
-1. Clique em **Next**.
+1. Clique em **Próximo**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
 1. Especifique as configurações de acesso e clique em **Próximo**:
 
-   * Defina todas as funções para **Visível** e **Somente Leitura**
+   * Definir todas as funções como **Visível** e **Somente leitura**
 
-   * Desmarque a caixa de seleção **Somente leitura** do perfil do usuário de sincronização:
+   * Limpe o **Somente leitura** caixa de seleção do perfil do usuário de sincronização:
 
-      * Se você tiver um usuário com o perfil de um _Administrador do sistema_ como o usuário sincronizado, desmarque a caixa de seleção **Somente leitura** do perfil Administrador do sistema (como mostrado abaixo)
-      * Se você criou um _perfil personalizado_ para o usuário de sincronização, desmarque a caixa de seleção **Somente leitura** para esse perfil personalizado
+      * Se você tiver um usuário com o perfil de um _Administrador do sistema_ como o usuário de sincronização, limpe o **Somente leitura** caixa de seleção para o perfil Administrador do sistema (como mostrado abaixo)
+      * Se você criou uma _perfil personalizado_ para o usuário de sincronização, limpe o **Somente leitura** caixa de seleção desse perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -124,7 +124,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Clique em **Salvar e Novo** para voltar e criar cada um dos outros dois campos personalizados. Clique em **Salvar** com as três.
+1. Clique em **Salvar e Novo** para voltar e criar cada um dos outros dois campos personalizados. Clique em **Salvar** com você terminou com os três.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
@@ -191,43 +191,43 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Cidade indicada</td> 
+   <td>Cidade inferida</td> 
    <td>mkto71_Inferred_City</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Empresa indicada</td> 
+   <td>Empresa inferida</td> 
    <td>mkto71_Inferred_Company</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>País indicado</td> 
+   <td>País inferido</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Área metropolitana indicada</td> 
+   <td>Área metropolitana inferida</td> 
    <td>mkto71_Inferred_Metropolitan_Area</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Código de área telefônica indicado</td> 
+   <td>Código de área telefônica inferido</td> 
    <td>mkto71_Inferred_Phone_Area_Code</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Código postal indicado</td> 
+   <td>Código postal inferido</td> 
    <td>mkto71_Inferred_Postal_Code</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
   </tr> 
   <tr> 
-   <td>Estado/região indicado</td> 
+   <td>Região inferida</td> 
    <td>mkto71_Inferred_State_Region</td> 
    <td>Texto</td> 
    <td>Comprimento 255</td> 
@@ -243,15 +243,15 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
 Um campo personalizado no objeto de lead no Salesforce deve ser mapeado para um campo de contato no objeto de contato para que os dados sejam transferidos quando ocorrer uma conversão.
 
-1. No canto superior direito, clique em **Configurar**.
+1. No canto superior direito, clique em **Configuração**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Digite &quot;Fields&quot; na Pesquisa de navegação sem pressionar Enter. Os campos aparecem em diferentes objetos; Clique em **Fields** em Leads.
+1. Digite &quot;Campos&quot; na Pesquisa de navegação sem pressionar Enter. Os campos aparecem em diferentes objetos; Clique em **Campos** em Leads.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Vá para a seção Campos personalizados de lead e Relações e clique em **Mapear campos de lead**.
+1. Vá para a seção Campos e Relações Personalizados do Cliente Potencial e clique em **Mapear campos de lead**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 

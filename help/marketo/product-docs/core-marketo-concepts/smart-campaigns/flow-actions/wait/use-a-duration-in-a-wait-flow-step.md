@@ -3,7 +3,6 @@ unique-page-id: 1146978
 description: Usar uma duração em uma etapa do fluxo de espera - Documentos do Marketo - Documentação do produto
 title: Usar uma duração em uma etapa do fluxo de espera
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Você pode usar a etapa Fluxo de espera para pausar a jornada de uma pessoa por meio de uma campanha inteligente por um determinado período de tempo. Você também pode especificar critérios para o dia da semana e a hora em que ele termina.
 
-1. Na guia **Fluxo** da campanha inteligente, arraste sobre a etapa de fluxo **Aguardar**.
+1. Em sua campanha inteligente **Fluxo** arraste sobre a guia **Aguardar** etapa de fluxo.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -41,7 +40,7 @@ Você pode usar a etapa Fluxo de espera para pausar a jornada de uma pessoa por 
    >
    >Uma pessoa dispara uma campanha inteligente na sexta-feira às 17h. A etapa de espera é avançada: 48 horas e deve terminar em segunda-feira às 9h.
    >
-   >O resultado seria que a pessoa continuaria no fluxo em **Segunda, 9h**. Esta é a primeira data M-F após 48 horas.
+   >O resultado seria que a pessoa continuaria no fluxo de **Segunda-feira, 9h**. Esta é a primeira data M-F após 48 horas.
 
    >[!NOTE]
    >

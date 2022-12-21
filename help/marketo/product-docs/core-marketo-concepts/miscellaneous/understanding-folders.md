@@ -3,7 +3,6 @@ unique-page-id: 4720779
 description: Noções básicas sobre pastas - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre pastas
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Compreender pastas {#understanding-folders}
+# Noções básicas sobre pastas {#understanding-folders}
 
-As pastas dentro de um programa podem ser usadas para organizar campanhas e ativos inteligentes. Elas são diferentes das [pastas de campanha](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+As pastas dentro de um programa podem ser usadas para organizar campanhas e ativos inteligentes. Elas são diferentes de [pastas de campanha](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Criar uma pasta {#create-a-folder}
 
-1. Vá para a área **Marketing Activities**.
+1. Vá para o **Atividades de marketing** área.
 
    ![](assets/ma.png)
 
-1. Clique com o botão direito do mouse em um programa e selecione **New Folder**.
+1. Clique com o botão direito do mouse em um programa e selecione **Nova pasta**.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
@@ -51,7 +50,7 @@ Não há problema em mudar de ideia.
 >
 >Verifique se a pasta está vazia antes de excluí-la.
 
-1. Clique com o botão direito do mouse na pasta e selecione **Delete Folder**.
+1. Clique com o botão direito do mouse na pasta e selecione **Excluir pasta**.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
@@ -70,7 +69,7 @@ Ao arquivar uma pasta:
 * Os modelos arquivados não estão disponíveis ao criar um email ou uma landing page no Design Studio
 * Páginas arquivadas não podem ser usadas em grupos de teste de página de aterrissagem
 
-Funcionalidade que **não** mudará ao arquivar:
+Funcionalidade que **not** alterar ao arquivar:
 
 * A pesquisa global ainda encontra resultados em pastas arquivadas
 * Um ativo que está em uso continuará a funcionar mesmo depois de ser arquivado

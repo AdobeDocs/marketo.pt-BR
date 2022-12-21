@@ -3,7 +3,6 @@ unique-page-id: 1146968
 description: Exibir resultados da campanha inteligente - Documentos do Marketo - Documentação do produto
 title: Exibir resultados de campanha inteligente
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Quer ver um detalhamento de tudo o que aconteceu em uma campanha inteligente? É fácil, veja como.
 
-1. Na campanha inteligente, clique em **Resultados**.
+1. Em sua campanha inteligente, clique em **Resultados**.
 
    >[!TIP]
    >
@@ -25,9 +24,9 @@ Quer ver um detalhamento de tudo o que aconteceu em uma campanha inteligente? É
 
    >[!TIP]
    >
-   >Também é possível filtrar os resultados com base no tipo de atividade. Saiba como filtrar [resultados de campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md).
+   >Também é possível filtrar os resultados com base no tipo de atividade. Saiba como [filtrar resultados de campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md).
 
-1. Clique em uma **ID** para exibir mais detalhes sobre essa atividade específica.
+1. Clique em um **ID** para exibir mais detalhes sobre essa atividade específica.
 
    ![](assets/image2014-9-22-11-39-22.jpg)
 
@@ -35,7 +34,7 @@ Quer ver um detalhamento de tudo o que aconteceu em uma campanha inteligente? É
    >
    >Visualize os detalhes da pessoa clicando no nome da pessoa.
 
-   Acesse os resultados para ver o que sua campanha realmente fez ou simplesmente [exporte os resultados da campanha inteligente para o Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md).
+   Veja os resultados para ver o que sua campanha realmente fez, ou simplesmente [exportar resultados de campanha inteligente para o Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md).
 
    >[!MORELIKETHIS]
    >

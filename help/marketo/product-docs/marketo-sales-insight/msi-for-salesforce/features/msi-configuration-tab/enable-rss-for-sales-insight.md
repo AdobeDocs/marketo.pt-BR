@@ -1,37 +1,36 @@
 ---
 unique-page-id: 11377005
-description: Habilitar RSS para o Sales Insight - Documentos do Marketing - Documentação do produto
-title: Habilitar RSS para insight de vendas
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Ativar RSS para Sales Insight - Documentos da Marketo - Documentação do produto
+title: Ativar RSS para o Insight de Vendas
+exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
-# Habilitar RSS para o Sales Insight {#enable-rss-for-sales-insight}
+# Ativar RSS para o Insight de Vendas {#enable-rss-for-sales-insight}
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-Se os usuários do Marketo quiserem visualização em seu feed principal não apenas no Salesforce, mas também em um feed RSS, um Administrador de marketing deve ativá-lo primeiro. É fácil.
+Se os usuários do Marketo quiserem exibir seu feed de lead não apenas no Salesforce, mas também em um feed RSS, um Administrador do Marketo deve ativá-lo primeiro. É fácil.
 
-1. Em Meu Marketo, clique em **Admin** e **Sales Insight**.
+1. Em Minha Marketo, clique em **Administrador** e depois **Insight de vendas**.
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. Em Configurações, clique em **Editar**. Observe que o Feed RSS é exibido como **Disabled**.
+1. Em Configurações, clique em **Editar**. Observe que o Feed RSS é exibido como **Desabilitado**.
 
    ![](assets/rss-settings-tab.png)
 
-1. Na caixa de diálogo Editar configurações, marque a caixa de seleção **RSS feed** e clique em **Salvar**.
+1. Na caixa de diálogo Editar configurações , marque a opção **RSS feed** caixa de seleção e clique em **Salvar**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   O feed RSS agora é exibido como **Enabled**.
+   Agora o feed RSS é exibido como **Ativado**.
 
    ![](assets/rss-final-box.png)
 

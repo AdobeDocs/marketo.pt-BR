@@ -122,7 +122,7 @@ Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto 
  <tr>
   <td>Direcionar URLs por caixa de diálogo</td>
   <td>Número de URLs de destino que podem ser adicionados a uma única caixa de diálogo</td>
-  <td>20º</td>
+  <td>20</td>
  </tr>
  <tr>
   <td>Atributos por caixa de diálogo</td>
@@ -132,12 +132,12 @@ Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto 
  <tr>
   <td>Grupos</td>
   <td>Número de grupos que podem ser adicionados a uma única caixa de diálogo</td>
-  <td>10º</td>
+  <td>10</td>
  </tr>
  <tr>
   <td>Atributos por grupo</td>
   <td>Número de atributos que podem ser adicionados a um grupo</td>
-  <td>10º</td>
+  <td>10</td>
  </tr>
  <tr>
   <td>Cartões</td>
@@ -172,11 +172,11 @@ Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto 
  <tr>
   <td>Conversas Envolvidas</td>
   <td>Número de conversas de bate-papo com as quais os visitantes da Web podem participar por dia</td>
-  <td>1.000</td>
+  <td>1,000</td>
  </tr>
  <tr>
   <td>Conversas Disparadas</td>
   <td>Número de conversas de bate-papo que podem ser mostradas para visitantes da Web por dia</td>
-  <td>25.000</td>
+  <td>25,000</td>
  </tr>
 </table>

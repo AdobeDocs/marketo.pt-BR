@@ -1,27 +1,26 @@
 ---
 unique-page-id: 11380732
 description: Filtros da conta - Documentos do Marketo - Documentação do produto
-title: Filtros da conta
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+title: Filtros de conta
+exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
-# Filtros da conta {#account-filters}
+# Filtros de conta {#account-filters}
 
 Identifique e envolva contas nomeadas e as pessoas dentro delas usando novos filtros centrados na conta.
 
-## Filtros TAM {#tam-filters}
+## Filtros de TAM {#tam-filters}
 
-1. Selecione sua campanha inteligente e clique em **Smart List**.
+1. Selecione sua campanha inteligente e clique em **Lista inteligente**.
 
    ![](assets/one.png)
 
-1. Clique em **+** para expandir a pasta **Filtros de Conta**.
+1. Clique no botão **+** para expandir o **Filtros da conta** pasta.
 
    ![](assets/two.png)
 
@@ -29,7 +28,7 @@ Identifique e envolva contas nomeadas e as pessoas dentro delas usando novos fil
 
    ![](assets/three.png)
 
-## Membro da Lista de Contas {#member-of-account-list}
+## Membro da lista de contas {#member-of-account-list}
 
 Para usar esse filtro, clique no menu suspenso da lista de contas...
 
@@ -43,9 +42,9 @@ Para usar esse filtro, clique no menu suspenso da lista de contas...
 >
 >Para o filtro Membro da Lista de Contas, há apenas um qualificador: &quot;is&quot; - Qualificadores adicionais (como &quot;não é&quot; e &quot;é qualquer&quot;) não estão disponíveis.
 
-## Membro da Conta Nomeada {#member-of-named-account}
+## Membro da conta nomeada {#member-of-named-account}
 
-Primeiro, escolha um qualificador. **** É uma conta nomeada específica ou  **é** qualquer conta nomeada.
+Primeiro, escolha um qualificador. **Is** para uma ou mais contas nomeadas específicas, ou **é qualquer** para qualquer conta nomeada.
 
 ![](assets/six.png)
 
@@ -57,7 +56,7 @@ Clique no menu suspenso da conta nomeada...
 
 ![](assets/eight.png)
 
-Se você usar o qualificador &quot;é qualquer&quot;, talvez queira utilizar [constrangimentos](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para limitar os resultados da pesquisa. Adicione quantos quiser!
+Se você usar o qualificador &quot;é qualquer&quot;, talvez queira utilizar [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para limitar os resultados da pesquisa. Adicione quantos quiser!
 
 ![](assets/nine.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 1147074
 description: Limpeza automática de campanha do acionador - Documentos do Marketo - Documentação do produto
 title: Limpeza de campanha com gatilho automático
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
@@ -23,11 +22,11 @@ Uma vez por trimestre, o Marketo encontrará campanhas inteligentes que permanec
 
 Claro! Uma vez por trimestre, você receberá uma notificação uma semana antes mostrando cada campanha que planejamos desativar.
 
-1. Vá para a guia **Notifications**.
+1. Vá para o **Notificações** guia .
 
    ![](assets/notifications.png)
 
-1. Clique em **Limpeza de Campanha do Acionador Inativo Programada**. Em seguida, clique no link **Essas campanhas do acionador inativo serão desativadas**.
+1. Clique em **Limpeza de Campanha do Acionador Ocioso Programada**. Em seguida, clique no botão **Essas Campanhas de Acionador Ocioso serão desativadas** link .
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
@@ -52,7 +51,7 @@ Qualquer uma delas redefinirá o contador de 6 meses.
 
 Absolutamente - uma semana após a notificação original, desativaremos as campanhas listadas (menos qualquer que tenha se qualificado em pelo menos uma pessoa ou que tenha sido desativado/reativado) e publicaremos uma notificação de confirmação.
 
-1. Selecione a notificação **Acionador ocioso Limpeza de Campanha Programada**. Clique no link **Essas campanhas do acionador ocioso**.
+1. Selecione o **Limpeza de Campanha do Acionador Ocioso Programada** notificação. Clique no botão **Essas Campanhas De Acionador Ocioso** link .
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 

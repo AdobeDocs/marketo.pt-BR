@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14352612
-description: Agendar uma Campanha - Documentos do Marketing - Documentação do produto
-title: Agendar uma Campanha
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Agendar uma campanha - Documentos do Marketo - Documentação do produto
+title: Agendar uma campanha
+exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
+# Agendar uma campanha {#schedule-a-campaign}
 
-# Agendar uma Campanha {#schedule-a-campaign}
+Você pode agendar cada etapa individual do email da sua campanha para sair em um horário específico ou escolher cada etapa subsequente do email para sair ao mesmo tempo que o primeiro email da campanha.
 
-Você pode agendar cada etapa de email individual da sua Campanha para sair em um horário específico ou escolher cada etapa de email subsequente para sair ao mesmo tempo que o primeiro email da sua Campanha.
+Basta escolher quando deseja que seus emails sejam enviados ao criar a Campanha.
 
-Tudo o que você precisa fazer é escolher quando gostaria que seus emails fossem enviados ao criar sua Campanha.
+Se você não tiver agendado a primeira etapa ou precisar escolher um horário de &quot;Enviar em&quot;, será solicitado que você escolha quando a campanha deve ser enviada, sempre que você adicionar uma pessoa ou um grupo.
 
-Se você não agendou sua primeira etapa ou não precisou escolher uma hora de &quot;Enviar em&quot;, será solicitado que você escolha quando sua Campanha deve ser enviada, toda vez que você adicionar uma pessoa ou um grupo.
+Abra o modal Adicionar à campanha, adicionando indivíduos, um grupo ou pessoas selecionadas e clique em **Próximo**.
 
-Abra o modal Adicionar à Campanha, adicionando indivíduos, um grupo ou pessoas selecionadas e clique em **Próximo**.
+Depois de clicar em **Próximo**, é possível visualizar o primeiro email.
 
-Depois de clicar em **Próximo**, você pode pré-visualização o primeiro email.
-
-Depois de clicar em **Próximo** novamente, você será levado para uma opção para quando quiser que sua campanha saia. Você pode ter start agora ou agendar um horário para mais tarde começar a campanha.
+Depois de clicar **Próximo** novamente, você será levado a uma opção para quando quiser que sua campanha saia. Você pode iniciá-la agora ou agendar um horário para mais tarde começar a campanha.

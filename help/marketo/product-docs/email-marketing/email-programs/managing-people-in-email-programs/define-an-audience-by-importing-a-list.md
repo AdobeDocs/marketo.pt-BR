@@ -1,59 +1,58 @@
 ---
 unique-page-id: 1900597
-description: Definir uma Audiência importando uma Lista - Documentos do Marketing - Documentação do produto
-title: Definir uma Audiência importando uma Lista
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Definir um público importando uma lista - Documentos do Marketo - Documentação do produto
+title: Definir um público importando uma lista
+exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '372'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Definir uma Audiência importando uma Lista {#define-an-audience-by-importing-a-list}
+# Definir um público importando uma lista {#define-an-audience-by-importing-a-list}
 
 >[!PREREQUISITES]
 >
->[Criar um email para um Programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[Criar um email para um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Depois de criar um programa de e-mail, você desejará dizer a ele para quem enviar o e-mail. Você pode fazer isso ao [criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ou importando uma lista. Veja como fazer isso importando uma lista.
+Depois de criar um programa de email, você deverá informar para quem enviar o email. Você pode fazer isso ao [criação de uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ou importando uma lista. Veja como fazer isso importando uma lista.
 
 >[!NOTE]
 >
->A definição da sua audiência só funcionará quando o programa de e-mail não for aprovado.
+>A definição do público-alvo só funcionará quando o programa de email não for aprovado.
 >
->Todos os campos de data/hora que estão sendo importados são tratados como Hora Central. Se você tiver campos de data/hora em um fuso horário diferente, poderá usar uma fórmula do Excel para transformá-la em Hora Central (América/Chicago).
+>Todos os campos de data/hora que estão sendo importados são tratados como Hora central. Se você tiver campos de data/hora em um fuso horário diferente, poderá usar uma fórmula do Excel para transformá-la em Hora Central (América/Chicago).
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu programa de e-mail e clique em Importar Lista sob o título Audiência.
+1. Selecione seu programa de email e clique em Importar lista no bloco Público-alvo .
 
    ![](assets/importlist.png)
 
-1. A janela de importação de lista é aberta, clique em **Procurar** e selecione o arquivo que deseja importar. Depois de selecionar sua lista de pessoas, clique em **Próximo**.
+1. A janela de importação da lista é aberta, clique em **Procurar** e selecione o arquivo que deseja importar. Depois de selecionar sua lista de pessoas, clique em **Próximo**.
 
    ![](assets/importlist1.png)
 
    >[!CAUTION]
    >
-   >Verifique se a lista está codificada em UTF-8, UTF-16, Shift-JIS ou EUC-JP e não excede 50 MB no tamanho do arquivo.
+   >Certifique-se de que a lista esteja codificada em UTF-8, UTF-16, Shift-JIS ou EUC-JP e não exceda 50 MB no tamanho do arquivo.
 
-1. Verifique se os campos no arquivo estão mapeados corretamente e clique em **Next**.
+1. Verifique se os campos no arquivo estão mapeados corretamente e clique em **Próximo**.
 
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
    >
-   >Marketo vai lembrar dos mapeamentos para importações futuras!
+   >A Marketo se lembrará dos mapeamentos para importações futuras!
 
-1. Digite um **Nome** para sua lista e clique em **Importar**.
+1. Insira um **Nome** para sua lista e clique em **Importar**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
-1. Quando a importação estiver concluída, volte para a guia programa principal. Você verá quantas pessoas se qualificarão.
+1. Depois que a importação for concluída, volte para a guia programa principal. Você verá quantas pessoas se qualificarão.
 
    ![](assets/myemailprogram-1.jpg)
 
@@ -63,26 +62,24 @@ Depois de criar um programa de e-mail, você desejará dizer a ele para quem env
 >
 >Você notou o número Bloqueado? Este número é um subconjunto de pessoas qualificadas e representa pessoas que não podem receber este email porque são:
 >
->* Inscrito
->* Suspenso de marketing
->* incluir na lista de bloqueios
->* Email Inválido
+>* Inscrição cancelada
+>* Marketing suspenso
+>* Incluído na lista de bloqueios
+>* E-mail inválido
 >* Email vazio
-
 >
+>Clique no número para obter uma lista detalhada de pessoas bloqueadas de correspondências.
 >
-Clique no número para obter uma lista detalhada de pessoas bloqueadas de correspondências.
->
->Use o botão ![—](assets/image2014-10-23-16-3a32-3a36-1.png) no bloco **Audiência** para ver quantas pessoas estão qualificadas para receber o email com base em critérios de lista inteligente. Subtraia o número Bloqueado do número de Pessoas para obter o número total de pessoas que receberão o email.
+>Use o ![—](assets/image2014-10-23-16-3a32-3a36-1.png) no botão **Público** bloco para ver quantas pessoas se qualificaram para receber o email com base nos critérios da lista inteligente. Subtraia o número Bloqueado do número de Pessoas para obter o número total de pessoas que receberão o email.
 
 >[!TIP]
 >
->Você não precisa esperar a importação da lista terminar. Você pode continuar trabalhando se quiser.
+>Não é necessário aguardar a conclusão da importação da lista. Você pode continuar trabalhando, se quiser.
 
 Fantástico! Agora é hora de escolher um email já existente ou criar um novo email para enviar a essas pessoas.
 
 >[!MORELIKETHIS]
 >
->* [Escolher um email existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Criar um email para um Programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Escolha um email existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [Criar um email para um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 

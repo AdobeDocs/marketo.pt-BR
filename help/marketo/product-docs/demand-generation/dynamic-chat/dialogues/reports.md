@@ -1,10 +1,11 @@
 ---
 description: Relatórios - Documentação do Marketo - Documentação do produto
 title: Relatórios
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
+source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -14,7 +15,7 @@ Na guia Reports , visualize os dados dos últimos 90 dias. Cada categoria é def
 
 <table>
  <tr>
-  <td><strong>Total acionado</strong></td>
+  <td><strong>Total de acionados</strong></td>
   <td>Aumenta sempre que um visitante se qualifica para/recebe uma caixa de diálogo.
 </td>
  </tr>
@@ -31,7 +32,7 @@ Na guia Reports , visualize os dados dos últimos 90 dias. Cada categoria é def
   <td>Incrementa sempre que um visitante fornece um endereço de email válido em um fluxo de caixa de diálogo.</td>
  </tr>
  <tr>
-  <td><strong>Reuniões marcadas</strong></td>
+  <td><strong>Reuniões reservadas</strong></td>
   <td>Aumenta sempre que um visitante agendar um compromisso com êxito por meio do chatbot.</td>
  </tr>
  <tr>

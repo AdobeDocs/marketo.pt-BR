@@ -1,56 +1,53 @@
 ---
 unique-page-id: 11376700
-description: Adicionar clientes em potencial a uma Audiência personalizada no Facebook - Documentos de marketing - Documentação do produto
-title: Adicionar clientes em potencial a uma Audiência personalizada no Facebook
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Adicionar leads a um público-alvo personalizado no Facebook - Documentos do Marketo - Documentação do produto
+title: Adicionar leads a um público-alvo personalizado no Facebook
+exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Adicionar leads a um público-alvo personalizado no Facebook {#add-leads-to-a-custom-audience-in-facebook}
 
-# Adicionar clientes em potencial a uma Audiência personalizada no Facebook {#add-leads-to-a-custom-audience-in-facebook}
-
-Já tem uma audiência personalizada no Facebook e deseja adicionar mais leads a ela? Veja como.
+Já tem um público-alvo personalizado no Facebook e deseja adicionar mais leads a ele? Veja como.
 
 >[!PREREQUISITES]
 >
->* [Criar uma Audiência personalizada no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [Aceite os termos de audiências personalizados do Facebook ](https://www.facebook.com/ads/manage/customaudiences/tos.php) em sua conta do Facebook.
-
+>* [Criar um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Aceitar termos de público-alvo personalizados do Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) na sua conta do Facebook.
 >
 
 
-
-1. Localize e selecione a lista inteligente ou estática que contém os clientes potenciais que você deseja adicionar.
+1. Localize e selecione a lista inteligente ou estática que contém os leads que você deseja adicionar.
 
    ![](assets/one.png)
 
-1. Selecione a guia **Clientes potenciais** e clique no ícone **Enviar via ponte de publicidade** na parte inferior.
+1. Selecione o **Clientes potenciais** e, em seguida, clique na guia **Enviar via Ad Bridge** na parte inferior.
 
    ![](assets/two-1.png)
 
-1. Selecione **Facebook** e clique em **Próximo**.
+1. Selecionar **Facebook** e clique em **Próximo**.
 
    ![](assets/three.png)
 
-1. Clique no menu suspenso **Audiência**, selecione a audiência à qual deseja adicionar os clientes potenciais e clique em **Atualizar**.
+1. Clique no botão **Público** , selecione o público-alvo ao qual deseja adicionar os leads e clique em **Atualizar**.
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**Adicionar clientes em potencial à audiência**: somente audiências do Facebook com um subtipo personalizado estarão disponíveis.\
-   >**Remova os clientes potenciais da audiência**: remove os clientes potenciais em sua lista estática ou inteligente de uma audiência do Facebook.
+   >**Adicionar leads ao público-alvo**: somente os públicos-alvo da Facebook com um subtipo personalizado estarão disponíveis.\
+   >**Remover leads do público**: remove os leads em sua lista estática ou inteligente de um público-alvo da Facebook.
 
 1. Quando concluído, o status será atualizado.
 
    ![](assets/five-1.png)
 
-   Isso é tudo que há nisso!
+   Isso é tudo!
 
    >[!NOTE]
    >
-   >[Criar uma Audiência personalizada no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+   >[Criar um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)

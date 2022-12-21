@@ -1,34 +1,33 @@
 ---
 unique-page-id: 2359532
-description: Usar conteúdo dinâmico em uma Landing page - Documentos do marketing - Documentação do produto
-title: Usar conteúdo dinâmico em uma Landing page
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Usar conteúdo dinâmico em uma página de aterrissagem - Documentos do Marketo - Documentação do produto
+title: Usar conteúdo dinâmico em uma página de aterrissagem
+exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-
-# Usar conteúdo dinâmico em uma Landing page {#use-dynamic-content-in-a-landing-page}
+# Usar conteúdo dinâmico em uma página de aterrissagem {#use-dynamic-content-in-a-landing-page}
 
 >[!PREREQUISITES]
 >
 >* [Criar uma segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Criar uma Landing page de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Adicionar um novo formulário a uma Landing page de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [Criar uma página de aterrissagem de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Adicionar um novo formulário a uma página de aterrissagem de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
-O uso de conteúdo dinâmico no landing page envolve pessoas com informações direcionadas.
+O uso de conteúdo dinâmico em páginas de aterrissagem envolve as pessoas com informações direcionadas.
 
 ## Adicionar segmentação {#add-segmentation}
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-   Clique em sua Landing page e em Editar rascunho.
+   Clique na sua Página inicial e, em seguida, clique em Editar rascunho.
 
    ![](assets/landingpageeditdraft.jpg)
 
@@ -36,7 +35,7 @@ O uso de conteúdo dinâmico no landing page envolve pessoas com informações d
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 
-   Digite o nome da Segmentação e clique em Salvar.
+   Insira o nome da Segmentação e clique em Salvar.
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
@@ -46,21 +45,21 @@ O uso de conteúdo dinâmico no landing page envolve pessoas com informações d
 
    >[!NOTE]
    >
-   >Todos os elementos de landing page são Estáticos por padrão.
+   >Todos os elementos da landing page são Estáticos por padrão.
 
 ## Tornar o elemento dinâmico {#make-element-dynamic}
 
-1. Arraste e solte elementos de Static para **Dynamic**.
+1. Arraste e solte elementos de Estático para **Dinâmico**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. Você também pode tornar os elementos estáticos ou dinâmicos do elemento **Settings**.
+1. Você também pode tornar os elementos estáticos ou dinâmicos do elemento **Configurações**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## Aplicar conteúdo dinâmico {#apply-dynamic-content}
 
-1. Selecione um elemento em um segmento e clique em **Editar**. Repita o procedimento para cada segmento.
+1. Selecione um elemento em um segmento e clique em **Editar**. Repita para cada segmento.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
@@ -70,7 +69,7 @@ O uso de conteúdo dinâmico no landing page envolve pessoas com informações d
 
    >[!CAUTION]
    >
-   >As alterações no bloco de conteúdo do segmento padrão são aplicadas a todos os segmentos.
+   >As alterações no bloco de conteúdo padrão do segmento são aplicadas a todos os segmentos.
 
    >[!TIP]
    >
@@ -80,6 +79,6 @@ Voila! Agora você pode enviar conteúdo direcionado.
 
 >[!MORELIKETHIS]
 >
->* [Pré-visualização de uma Landing page com conteúdo dinâmico](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Usar conteúdo dinâmico em um email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
+>* [Visualizar uma página de aterrissagem com conteúdo dinâmico](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Uso de conteúdo dinâmico em um email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 

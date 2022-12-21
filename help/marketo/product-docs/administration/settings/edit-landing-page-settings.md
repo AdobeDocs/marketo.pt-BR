@@ -3,7 +3,6 @@ unique-page-id: 2359918
 description: Editar configurações de página de aterrissagem - Documentos do Marketo - Documentação do produto
 title: Editar configurações de página inicial
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
@@ -11,7 +10,7 @@ ht-degree: 3%
 
 ---
 
-# Editar as configurações da página inicial {#edit-landing-page-settings}
+# Editar configurações de página inicial {#edit-landing-page-settings}
 
 É possível editar o nome de domínio e a página de fallback, ativar ou desativar o preenchimento do formulário, evitar o uso indevido da página de aterrissagem e muito mais. Veja como.
 
@@ -19,11 +18,11 @@ ht-degree: 3%
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Admin**, clique em **Páginas de aterrissagem**.
+1. Em **Administrador**, clique em **Páginas de aterrissagem**.
 
    ![](assets/image2014-9-10-9-3a47-3a40.png)
 
-1. Na seção **Landing Pages**, clique em **Editar**.
+1. No **Páginas de aterrissagem** seção , clique em **Editar**.
 
    ![](assets/image2014-9-10-9-3a47-3a12.png)
 
@@ -37,19 +36,19 @@ ht-degree: 3%
 
    ![](assets/three.png)
 
-1. Marque a caixa de seleção **Preenchimento de formulário** para permitir que os formulários preencham previamente as informações para pessoas conhecidas (cookies). Desmarque para bloquear.
+1. Verifique a **Preenchimento do formulário** caixa de seleção para permitir que formulários preencham previamente informações para pessoas conhecidas (com cookies). Desmarque para bloquear.
 
    ![](assets/four.png)
 
-1. Se você quiser impedir que um site mal-intencionado hospede seu conteúdo, marque a caixa de seleção **Do not allow Marketo pages to be embedded in external web pages**.
+1. Se você quiser impedir que um site mal-intencionado hospede seu conteúdo, verifique a **Não permitir que páginas do Marketo sejam incorporadas a páginas da Web externas** caixa de seleção.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Se desejar que a tag `<script>` de preenchimento prévio apareça no final da tag `<head>` no código, marque a caixa **Inserir script de preenchimento prévio no final do cabeçalho**. Deixe desmarcado se quiser que ele apareça no início.
+   >Se desejar preencher `<script>` a ser exibida no final do `<head>` no código, verifique a **Inserir script de preenchimento prévio no final do cabeçalho** caixa. Deixe desmarcado se quiser que ele apareça no início.
    >
-   >Marque **Remove default favicon links** para impedir que o Marketo insira qualquer link favicon no código.
+   >Verificar **Remover links favicon padrão** para impedir que o Marketo insira qualquer link favicon no código.
 
 1. Depois de fazer suas seleções, clique em **Salvar.**
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 10F {#template-10f}
 
-Clique com o botão direito do mouse em [baixar Modelo 10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
+Clique com o botão direito do mouse em para [baixar modelo 10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
 
 ![](assets/image2015-7-27-11-3a14-3a42.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 2949839
 description: Verifique as pessoas no seu evento do tablet - Documentos do Marketo - Documentação do produto
 title: Verifique as pessoas no seu evento do seu tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '815'
@@ -20,18 +19,18 @@ O aplicativo funciona da mesma forma no iPad e no Android, exceto pequenas difer
 >[!PREREQUISITES]
 >
 >* Crie um evento no Marketo e preencha-o com Pessoas convidadas e registradas.
->* Baixe o aplicativo tablet para [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) ou [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
+>* Baixe o aplicativo para tablet para [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) ou [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 
 ## Verificar Convidados Registrados {#check-in-registered-guests}
 
-1. Toque no ícone do aplicativo no iPad ou no tablet Android.
+1. Toque no ícone do aplicativo no tablet iPad ou Android.
 
-1. Toque em **Logon** para iniciar o aplicativo Marketo Event.
+1. Toque **Logon** para iniciar o aplicativo Marketo Event.
 
    ![](assets/1.jpg)
 
-1. Insira seu nome de usuário e senha do Marketo e clique em **Login**.
+1. Digite seu nome de usuário e senha do Marketo e clique em **Logon**.
 
    >[!NOTE]
    >
@@ -79,7 +78,7 @@ O convidado agora tem um status de Participante e recebe uma marca de seleção.
 
 >[!TIP]
 >
->Se uma pessoa for convidada mas não tiver registrado, você poderá pesquisar o nome clicando em **Pesquisar no servidor**, logo abaixo da caixa Pesquisar. O status Convidado é alterado para **Participado** para o evento.
+>Se uma pessoa for convidada mas não tiver registrado, você poderá pesquisá-la clicando em **Pesquisar no servidor**, logo abaixo da caixa Pesquisar . O status do Convite é alterado para **Participante** para o evento .
 
 ## Criar uma nova pessoa no tablet {#create-a-new-person-on-the-tablet}
 
@@ -111,9 +110,9 @@ A nova pessoa é registrada como check-in no seu evento e será adicionada ao ba
 
 ## Inverter uma Check-in {#reverse-a-check-in}
 
-Se você tiver feito check-in em uma pessoa por engano, _antes de sincronizar com Marketo_, poderá reverter o status de Participado.
+Se você fez check-in em uma pessoa por engano, _antes de sincronizar com o Marketo_, você pode reverter o status Attended .
 
-1. Toque no nome na lista e, no registro de pessoa, toque em **Desfazer**.
+1. Toque no nome na lista e, no registro da pessoa, toque em **Desfazer**.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
@@ -133,7 +132,7 @@ Você pode adicionar e modificar informações do convidado, diretamente no even
 
    >[!NOTE]
    >
-   >No Android, o botão **Concluído** pode estar oculto. Role para baixo para encontrá-lo.
+   >No Android, a variável **Concluído** pode estar oculto. Role para baixo para encontrá-lo.
 
 As informações serão atualizadas quando você sincronizar o aplicativo com o Marketo.
 
@@ -147,7 +146,7 @@ O aplicativo Marketo Events funciona independentemente até que você sincronize
 
 1. No tablet, abra o aplicativo e navegue até o evento .
 
-1. Toque em **Sincronizar**.
+1. Toque **Sincronizar**.
 
    Seu evento é atualizado com novos check-ins no banco de dados do Marketo. O contador vermelho no botão Sincronizar apaga, até que você verifique outra pessoa no.
 

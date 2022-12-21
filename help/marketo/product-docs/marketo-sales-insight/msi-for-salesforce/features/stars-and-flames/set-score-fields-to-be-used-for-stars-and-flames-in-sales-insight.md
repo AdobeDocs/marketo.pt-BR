@@ -1,52 +1,49 @@
 ---
 unique-page-id: 2360301
-description: Definir campos de pontuação a serem usados para estrelas e chamas no Sales Insight - Documentos do Marketing - Documentação do produto
+description: Definir campos de pontuação a serem usados para estrelas e chamas no Sales Insight - Documentos do Marketo - Documentação do produto
 title: Definir campos de pontuação a serem usados para estrelas e chamas no insight de vendas
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-
-# Definir campos de pontuação a serem usados para estrelas e chamas no Sales Insight {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# Definir campos de pontuação a serem usados para estrelas e chamas no insight de vendas {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-Por padrão, o Marketing Cloud Sales Insight usa o campo **Pontuação principal** para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
+Por padrão, o Marketo Sales Insight usa o **Pontuação de lead** para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
 
 >[!TIP]
 >
->Se você ainda não tiver seus campos de pontuação personalizados, veja como [criá-los](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+>Se você ainda não tiver seus campos de pontuação personalizados, veja a seguir como [criar](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) eles.
 
 >[!NOTE]
 >
 >**Definição**
 >
->* **Estrelas**: As estrelas representam a pontuação total de chumbo em comparação com outros clientes potenciais.
->* **Chamas**: As chamas representam a urgência - quanto a pontuação de um cliente potencial mudou recentemente.
-
+>* **Estrelas**: As estrelas representam a pontuação de lead total em comparação com outros leads.
+>* **Chama**: As chamas representam a urgência - quanto a pontuação de um cliente potencial mudou recentemente.
 >
 
 
-
-1. Em **Admin**, clique em **Sales Insight**.
+1. Em **Administrador**, clique em **Insight de vendas**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Em **Definições de Pontuação de Chumbo**, clique em **Editar**.
+1. Em **Configurações de pontuação de lead**, clique em **Editar**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Selecione o campo que deseja usar para **Estrelas**.
+1. Selecione o campo que deseja usar **Estrelas**.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Selecione o campo que deseja usar para **Chamadas**.
+1. Selecione o campo que deseja usar **Chama**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
@@ -56,7 +53,7 @@ Por padrão, o Marketing Cloud Sales Insight usa o campo **Pontuação principal
 
    >[!NOTE]
    >
-   >O insight de vendas levará algum tempo para recalcular. Você pode verificar seu CRM mais tarde para ver as estrelas e as chamas.
+   >O insight de vendas levará algum tempo para ser recalculado. Você pode verificar seu CRM posteriormente para ver as estrelas e as chamas.
 
    >[!MORELIKETHIS]
    >

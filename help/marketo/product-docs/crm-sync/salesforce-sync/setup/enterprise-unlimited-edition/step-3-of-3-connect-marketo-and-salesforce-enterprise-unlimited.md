@@ -26,7 +26,7 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
 >
 >Se você já tiver o token de segurança, continue diretamente para Definir as credenciais do usuário de sincronização e os kudos para preparação!
 
-1. Faça logon no Salesforce com o Usuário do Marketo Sync, clique no nome do usuário de sincronização e, em seguida, em **Minhas configurações**.
+1. Faça logon no Salesforce com o usuário de sincronização da Marketo, clique no nome do usuário de sincronização e **Minhas configurações**.
 
    ![](assets/image2015-6-12-9-3a12-3a47.png)
 
@@ -34,7 +34,7 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
 
    ![](assets/image2015-6-12-9-3a13-3a39.png)
 
-1. Clique em **Redefinir token de segurança**.
+1. Clique em **Redefinir Token de Segurança**.
 
    ![](assets/image2014-12-9-9-3a52-3a50.png)
 
@@ -42,21 +42,21 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
 
 ## Definir as Credenciais do Usuário de Sincronização {#set-sync-user-credentials}
 
-1. No Marketo, vá para **Admin**, selecione **CRM** e clique em **Sincronizar com [Salesforce.com](https://Salesforce.com)**
+1. No Marketo, acesse **Administrador**, selecione **CRM** e clique em **Sincronizar com [Salesforce.com](https://Salesforce.com)**
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >Certifique-se de [ocultar todos os campos que você não precisa](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) no Marketo do usuário de sincronização antes de clicar em **Sincronizar campos**. Depois de clicar em Sincronizar campos, todos os campos que o usuário pode ver serão criados no Marketo permanentemente e não poderão ser excluídos.
+   >Certifique-se de [ocultar todos os campos que não são necessários](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) no Marketo a partir do usuário de sincronização antes de clicar **Sincronizar campos**. Depois de clicar em Sincronizar campos, todos os campos que o usuário pode ver serão criados no Marketo permanentemente e não poderão ser excluídos.
 
-1. Insira as credenciais do Usuário de Sincronização do Salesforce criadas na parte 2 da configuração do Salesforce ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) ou [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) e clique em **Sincronizar Campos** (marque **Sandbox** somente se estiver sincronizando uma Sandbox do Marketo com uma Sandbox do Salesforce).
+1. Insira as credenciais do usuário de sincronização do Salesforce criadas na parte 2 da configuração do Salesforce ([Profissional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) ou [Empresa](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) e clique em **Sincronizar campos** (verificar **Sandbox** somente se estiver sincronizando uma sandbox da Marketo com uma sandbox do Salesforce).
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
    >[!CAUTION]
    >
-   >Se você vir um botão &quot;Fazer logon no Salesforce&quot; em vez dos campos Nome de usuário/Senha/Token, sua assinatura do Marketo será ativada para OAuth. Por favor [consulte este artigo](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Assim que a sincronização começar a usar um conjunto de Credenciais, **não há alternância de credenciais do Salesforce ou de assinatura**. Se quiser usar a Autenticação básica, entre em contato com o Gerente de sucesso do cliente.
+   >Se você vir um botão &quot;Fazer logon no Salesforce&quot; em vez dos campos Nome de usuário/Senha/Token, sua assinatura do Marketo será ativada para OAuth. Por favor [consulte este artigo](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Assim que a sincronização começar a usar um conjunto de credenciais, **não há alternância de credenciais ou assinaturas do Salesforce**. Se quiser usar a Autenticação básica, entre em contato com o Gerente de sucesso do cliente.
 
 1. Leia o aviso e clique em **Confirmar Credenciais**.
 
@@ -64,11 +64,11 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
 
    >[!CAUTION]
    >
-   >Se quiser examinar os [mapeamentos e personalizá-los](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md), esta é sua única chance de fazer isso! Depois de clicar em Iniciar Sincronização do Salesforce, está pronto.
+   >Se você quiser examinar o [mapeamentos e personalizá-los](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)Mas esta é a sua única oportunidade! Depois de clicar em Iniciar Sincronização do Salesforce, está pronto.
 
 ## Iniciar sincronização com Salesforce {#start-salesforce-sync}
 
-1. Clique em **Iniciar Sincronização do Salesforce** para iniciar a sincronização persistente do Marketo-Salesforce.
+1. Clique em **Iniciar Sincronização do Salesforce** para iniciar a sincronização persistente entre Marketo e Salesforce.
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
@@ -88,11 +88,11 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
 
 O Marketo fornece mensagens de status para a sincronização do Salesforce na área de Administração. É possível verificar se a sincronização está funcionando corretamente seguindo essas etapas.
 
-1. No Marketo, clique em **Admin** e, em seguida, em **Salesforce**.
+1. No Marketo, clique em **Administrador**, em seguida **Salesforce**.
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
-1. O status de sincronização é visível no canto superior direito. Ele mostrará uma das três mensagens: **Última Sincronização**, **Sincronização em Andamento** ou **Falha**.
+1. O status de sincronização é visível no canto superior direito. Ele mostrará uma das três mensagens: **Última sincronização**, **Sincronização em Andamento** ou **Falha**.
 
    ![](assets/image2014-12-9-9-3a53-3a50.png)
 

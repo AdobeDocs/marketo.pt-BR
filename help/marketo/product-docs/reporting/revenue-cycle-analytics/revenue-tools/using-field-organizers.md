@@ -1,31 +1,30 @@
 ---
 unique-page-id: 3571892
-description: Uso de organizadores de campo - Documentos do marketing - Documentação do produto
-title: Uso de organizadores de campo
-translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+description: Uso de Organizadores de campo - Documentos do Marketo - Documentação do produto
+title: Uso de Organizadores de Campo
+exl-id: 578969f7-9380-4019-9b86-85c659a216b3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Uso de Organizadores de Campo {#using-field-organizers}
 
-# Uso de Organizadores de campo {#using-field-organizers}
+Os organizadores de campos ajudam você a especificar determinados campos de todos os valores possíveis. Por exemplo, você pode criar agrupamentos significativos, como a Costa Oeste e a Costa Leste, para o campo Território. Isso ajuda a executar os relatórios mais rapidamente.
 
-Os organizadores de campo ajudam a especificar determinados campos de todos os valores possíveis. Por exemplo, você pode criar agrupamentos significativos, como Costa Oeste e Costa Leste, para o campo Território. Isso ajuda a executar relatórios mais rapidamente.
+Os organizadores de campo são semelhantes às segmentações, que são usadas genericamente, mas os organizadores de campo são usados para gerar relatórios no nível de campo.
 
-Os organizadores de campo são semelhantes às segmentações, que são usadas genericamente, mas os organizadores de campo são usados para o relatórios no nível de campo.
-
-É possível ter até três segmentações personalizadas em uma lista de campo.
+É possível ter até três segmentações personalizadas em uma lista de campos.
 
 Não há um relatório específico de Organizadores de campo.
 
-Os Organizadores de campo são usados na Análise de desempenho do modelo.
+Organizadores de campo são usados na Análise de desempenho do modelo.
 
 ## Como criar organizadores de campo {#how-to-create-field-organizers}
 
-1. Clique em **Banco de Dados**.
+1. Clique em **Banco de dados**.
 
    ![](assets/db.png)
 
@@ -33,7 +32,7 @@ Os Organizadores de campo são usados na Análise de desempenho do modelo.
 
    ![](assets/two-1.png)
 
-1. Em **Field**, selecione um atributo. A descrição é opcional.
+1. Em **Campo**, selecione um atributo. A descrição é opcional.
 
    ![](assets/three-1.png)
 
@@ -45,7 +44,7 @@ Os Organizadores de campo são usados na Análise de desempenho do modelo.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 
-Crie mais organizadores de campo da mesma maneira, se necessário. E aí está você.
+Crie mais organizadores de campo da mesma maneira, se precisar. E aí está.
 
 >[!MORELIKETHIS]
 >

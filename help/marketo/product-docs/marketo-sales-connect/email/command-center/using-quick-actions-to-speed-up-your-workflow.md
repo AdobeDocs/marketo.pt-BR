@@ -1,30 +1,29 @@
 ---
 unique-page-id: 37357306
-description: Uso de ações rápidas para acelerar seu fluxo de trabalho - Documentos do Marketing - Documentação do produto
-title: Uso de ações rápidas para acelerar seu fluxo de trabalho
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Uso das ações rápidas para acelerar seu fluxo de trabalho - Documentos do Marketo - Documentação do produto
+title: Usar as ações rápidas para acelerar o fluxo de trabalho
+exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Usar as ações rápidas para acelerar o fluxo de trabalho {#using-quick-actions-to-speed-up-your-workflow}
 
-# Usando ações rápidas para acelerar seu fluxo de trabalho {#using-quick-actions-to-speed-up-your-workflow}
+Existem dois tipos de colunas de ação rápida na grade de email. Ações de email, que permitem tomar medidas no email, e Ações de acompanhamento, que permitem realizar ações de envolvimento com alguns cliques rápidos.
 
-Há dois tipos de colunas de ação rápida que existem na grade de email. Ações de e-mail, que permitem executar ações por e-mail e Ações de acompanhamento, o que permite que você realize ações de envolvimento com alguns cliques rápidos.
+## Ações de e-mail {#email-actions}
 
-## Ações de email {#email-actions}
-
-As ações rápidas por email são dinâmicas e atualizadas dependendo das ações mais relevantes para o status do email que você está visualizando. Há no máximo duas ações rápidas de email visíveis para cada status de email. Você pode ver quais ações rápidas de email estarão disponíveis para cada status abaixo.
+As ações rápidas de email são dinâmicas e atualizadas dependendo das ações mais relevantes para o status do email que você está visualizando. Há no máximo duas ações rápidas de email visíveis para cada status de email. Você pode ver quais ações rápidas de email estarão disponíveis para cada status abaixo.
 
 **Entregue**
 
 | Status | Descrição |
 |---|---|
-| Arquivo | Adicionará o email à pasta arquivada e interromperá todas as visualizações desativadas e clique no rastreamento do email. |
-| Sucesso | Marcará o email como bem-sucedido para ser relatado na análise de modelo. |
+| Arquivar | Adicionará o email à pasta arquivada e interromperá todas as exibições de desativação e o rastreamento de cliques desse email. |
+| Sucesso | Marcará o email como bem-sucedido para ser relatado na análise do modelo. |
 
 **Arquivado**
 
@@ -35,12 +34,12 @@ As ações rápidas por email são dinâmicas e atualizadas dependendo das açõ
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Desarquivar</td> 
-   <td>O e-mail será movido de volta para a pasta entregue e reativado o rastreamento de visualização/clique.</td> 
+   <td>Cancelar arquivamento</td> 
+   <td>O moverá o email de volta para a pasta entregue e reativará o rastreamento de visualização/cliques.</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td><p>Excluirá o email.<br><strong>Observação: </strong> os emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
+   <td><p>Excluirá o email.<br><strong>Observação:</strong> Os emails que foram enviados como parte de uma campanha não podem ser excluídos.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -55,16 +54,16 @@ As ações rápidas por email são dinâmicas e atualizadas dependendo das açõ
  <tbody> 
   <tr> 
    <td>Editar</td> 
-   <td>Abre o e-mail na janela de composição a ser editada.</td> 
+   <td>Abre o email na janela de composição a ser editada.</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td><p>Excluirá o email.<br><strong>Observação: </strong> os emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
+   <td><p>Excluirá o email.<br><strong>Observação:</strong> Os emails que foram enviados como parte de uma campanha não podem ser excluídos.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Falha, Retorno e Spam**
+**Falha, Rejeição e Spam**
 
 <table> 
  <colgroup> 
@@ -78,7 +77,7 @@ As ações rápidas por email são dinâmicas e atualizadas dependendo das açõ
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td><p>Excluirá o email.<br><strong>Observação: </strong> os emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
+   <td><p>Excluirá o email.<br><strong>Observação:</strong> Os emails que foram enviados como parte de uma campanha não podem ser excluídos.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -89,7 +88,7 @@ As ações rápidas por email são dinâmicas e atualizadas dependendo das açõ
 
 | Função | Descrição |
 |---|---|
-| Enviar email de acompanhamento | Abre a janela de composição com o corpo de e-mail em linha selecionado anexado e pronto para ser enviado ao recipient. |
-| Efetuar chamada | Abre o telefone comercial para fazer uma chamada para o recipient de email. |
-| Enviar InMail | Redireciona para o LinkedIn para enviar uma mensagem do InMail à pessoa. |
-| Criar Tarefa | Abre o pop-up Criar tarefa para criar uma tarefa de lembrete. |
+| Enviar Email de Acompanhamento | Abre a janela de composição com o corpo de email em linha selecionado anexado e pronto para ser enviado ao recipient. |
+| Fazer chamada | Abre o telefone de vendas para fazer uma chamada para o destinatário do email. |
+| Enviar InMail | Redireciona para o LinkedIn para enviar uma mensagem InMail para a pessoa. |
+| Criar tarefa | Abre o pop-up criar tarefa para criar uma tarefa de lembrete. |

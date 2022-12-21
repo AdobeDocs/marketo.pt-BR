@@ -3,7 +3,6 @@ unique-page-id: 10617187
 description: Noções básicas sobre configurações de privacidade - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre configurações de privacidade
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Como entender as configurações de privacidade {#understanding-privacy-settings}
+# Noções básicas sobre configurações de privacidade {#understanding-privacy-settings}
 
 ## Visão geral {#overview}
 
@@ -22,19 +21,19 @@ O Marketo fornece aos profissionais de marketing uma maneira de obter o consenti
 
 Ou o profissional de marketing pode rastrear usuários, mas usar um IP anônimo.
 
-Esses métodos podem afetar o valor e a funcionalidade da Marketo em áreas específicas. No entanto, se o profissional de marketing *não* alterar nada na configuração do Marketo, a funcionalidade do Marketo permanecerá a mesma.
+Esses métodos podem afetar o valor e a funcionalidade da Marketo em áreas específicas. No entanto, se o profissional de marketing *não* altere qualquer coisa na configuração do Marketo, a funcionalidade do Marketo permanece a mesma.
 
 ## Configurações do navegador para Não rastrear {#browser-settings-for-do-not-track}
 
 Os visitantes da Web podem definir seu navegador para impedir o rastreamento por qualquer site escolhendo &quot;Não rastrear&quot; (DNT). Isso impede o rastreamento desse navegador e dispositivo específico. Consulte as configurações de privacidade do navegador para obter detalhes completos.
 
-No Munchkin, um profissional de marketing pode [decidir se suporta ou ignora a configuração de DNT do navegador](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
+Em Munchkin, um profissional de marketing pode [decidir se suporta ou ignora a configuração DNT do navegador](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
 
-Na Personalização da Web, um profissional de marketing pode decidir se suporta ou ignora a configuração de DNT do navegador](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).[
+Na personalização da Web, um profissional de marketing pode decidir se deseja [suportar ou ignorar a configuração de DNT do navegador](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
 ## Recusar de um site específico {#opt-out-from-a-specific-website}
 
-Você também pode permitir que os visitantes do site optem por não participar do rastreamento do site, independentemente das configurações **Browser Do Not Track** estarem ou não configuradas. Isso permite que o visitante do site especifique suas preferências de rastreamento diretamente do site.
+Também é possível permitir que os visitantes do site optem por não participar do rastreamento por site, independentemente de a atividade ser ou não realizada **Navegador não rastreia** são configuradas. Isso permite que o visitante do site especifique suas preferências de rastreamento diretamente do site.
 
 Para fazer isso, você deve adicionar um parâmetro a um link para opção de não participação em uma página da Web que tenha o rastreamento de cliques ativado. Pode ser qualquer página da Web, mas o link da página da Web deve conter o seguinte parâmetro:
 
@@ -50,9 +49,9 @@ Você pode criar e publicar uma landing page como uma página de acompanhamento 
 
 ![](assets/opt-out-2.png)
 
-Quando o link é clicado, o Marketo adiciona um cookie chamado **mkto_opt_out** ao navegador do visitante que desativa o rastreamento do Munchkin para o visitante do site que clica no link com o parâmetro acima.
+Quando o link é clicado, o Marketo adiciona um cookie chamado **mkto_opt_out** para o navegador do visitante que desativa o rastreamento do Munchkin para o visitante do site que clica no link com o parâmetro acima.
 
-Para validar se o cookie pode ser plantado, verifique se você é um lead cookie e clique no link . Em seguida, verifique os cookies do navegador para verificar se o cookie **mkto_opt_out** foi adicionado.
+Para validar se o cookie pode ser plantado, verifique se você é um lead cookie e clique no link . Em seguida, verifique os cookies do navegador para verificar se a variável **mkto_opt_out** foi adicionado.
 
 ![](assets/opt-out-3.png)
 
@@ -72,7 +71,7 @@ Os profissionais de marketing podem preservar a privacidade rastreando usuários
 
    >[!NOTE]
    >
-   >O uso desse parâmetro requer que o Munchkin V2 seja habilitado. Para habilitá-lo para sua assinatura, entre em contato com o [Suporte do Marketo](https://nation.marketo.com/community/support_solutions).
+   >O uso desse parâmetro requer que o Munchkin V2 seja habilitado. Para habilitá-lo para sua assinatura, entre em contato com [Suporte Marketo](https://nation.marketo.com/community/support_solutions).
 
 * Para Personalização da Web (RTP), adicione isso ao javascript:
 

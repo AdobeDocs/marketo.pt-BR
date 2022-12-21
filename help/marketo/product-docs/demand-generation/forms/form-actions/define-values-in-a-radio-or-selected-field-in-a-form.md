@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359614
-description: Definir valores em um campo de opção ou selecionado em um formulário - Documentos do marketing - Documentação do produto
+description: Definir valores em um rádio ou campo selecionado em um formulário - Documentos do Marketo - Documentação do produto
 title: Definir valores em um rádio ou campo selecionado em um formulário
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Definir valores em um rádio ou campo selecionado em um formulário {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Depois que você [definir um tipo de campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) para ser um botão de opção ou um tipo de seleção, defina os valores que o usuário pode escolher. Veja como.
+Uma vez que você tiver [definir um tipo de campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) para ser um botão de opção ou tipo de seleção, você deve definir os valores que o usuário pode escolher. Veja como.
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -29,9 +28,9 @@ Depois que você [definir um tipo de campo](/help/marketo/product-docs/administr
 
    >[!NOTE]
    >
-   >O primeiro e o valor padrão são sempre &quot;Selecionar...&quot; Sinta-se à vontade para editar isso. Se você alterar o botão de opção padrão para outra linha, &quot;Selecionar...&quot; não será exibido como uma escolha no formulário.
+   >O primeiro e o valor padrão são sempre &quot;Selecionar...&quot; Você pode editar isso. Se você alterar o botão de opção padrão para outra linha, &quot;Selecione..&quot; não será exibido como uma escolha no formulário.
 
-1. Clique para adicionar seu valor.
+1. Clique em para adicionar seu valor.
 
    ![](assets/image2014-9-15-16-3a29-3a18.png)
 
@@ -39,27 +38,27 @@ Depois que você [definir um tipo de campo](/help/marketo/product-docs/administr
    >
    >**Definição**
    >
-   >**Valor de exibição:** O que é mostrado ao visitante.
+   >**Valor de exibição:** O que é mostrado para o visitante.
    >
-   >**Valor armazenado:** O que é registrado no Marketo.
+   >**Valor armazenado:** O que é gravado no Marketo.
 
 1. Adicione quantos valores forem necessários e clique em **Salvar**.
 
    >[!NOTE]
    >
-   >Se você não inserir um Valor armazenado, o Marketo usará o Valor de exibição e armazenará esse valor.
+   >Se você não inserir um Valor armazenado, a Marketo usará o Valor de exibição e armazenará esse valor.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
    >[!TIP]
    >
-   >Clique em **Editor avançado** para copiar/colar uma lista de valores, se desejar. Pode ser uma poupança em tempo real.
+   >Clique em **Editor avançado** para copiar/colar uma lista de valores, se desejar. Pode ser uma economia em tempo real.
 
 1. Clique em **Concluir**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **Aprovar e fechar**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11385183
-description: Relatório de vendas TAM - Documentos do Marketo - Documentação do produto
+description: Relatório de vendas da TAM - Documentos da Marketo - Documentação do produto
 title: Relatório de Vendas TAM
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Relatório de Vendas TAM {#tam-sales-report}
 
@@ -17,7 +16,7 @@ Receba um email semanal contendo suas principais contas e suas tendências seman
 
 >[!NOTE]
 >
->Saiba como configurar este relatório [aqui](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
+>Saiba como configurar este relatório [here](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 O relatório compartilha:
 
@@ -33,7 +32,7 @@ O relatório compartilha:
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Pontuação da conta</strong></td> 
+   <td><strong>Pontuação de contas</strong></td> 
    <td> 
     <div>
       Tendência semanal por pontuação da conta (selecionada na configuração), seguida pela pontuação da conta atual 
@@ -47,7 +46,7 @@ O relatório compartilha:
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Exibições de página</strong></td> 
+   <td><strong>Visualizações de página</strong></td> 
    <td> 
     <div>
       Tendência semanal das exibições de página, seguida pelo total de exibições de página e pelo número de visitantes únicos 

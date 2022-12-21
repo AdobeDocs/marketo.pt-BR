@@ -1,42 +1,41 @@
 ---
 unique-page-id: 2359730
-description: Adicionando HTML personalizado a uma Landing page de forma livre - Documentos do Marketing - Documentação do produto
-title: Adicionando HTML personalizado a uma Landing page de forma livre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Adicionar HTML personalizado a uma página de aterrissagem de forma livre - Documentos do Marketo - Documentação do produto
+title: Adicionar HTML personalizado a uma página de aterrissagem de forma livre
+exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
+# Adicionar HTML personalizado a uma página de aterrissagem de forma livre {#adding-custom-html-to-a-free-form-landing-page}
 
-# Adicionando HTML personalizado a uma Landing page de forma livre {#adding-custom-html-to-a-free-form-landing-page}
-
-Você pode adicionar scripts personalizados, CSS ou outro HTML ao landing page.
+É possível adicionar scripts personalizados, CSS ou outro HTML às páginas de aterrissagem.
 
 >[!NOTE]
 >
->O suporte de marketing não está configurado para auxiliar na solução de problemas de HTML personalizado. Para obter assistência em HTML, consulte um desenvolvedor da Web.
+>O Suporte da Marketo não está configurado para ajudar na solução de problemas do HTML personalizado. Para obter assistência para o HTML, consulte um desenvolvedor da Web.
 
-1. Selecione sua landing page e clique em **Editar rascunho**.
+1. Selecione a landing page e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. No editor de landings page, arraste o elemento **HTML**.
+1. No editor de landing page, arraste o **HTML** elemento.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Digite seu código HTML personalizado e clique em **Salvar**.
+1. Insira seu código de HTML personalizado e clique em **Salvar**.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
-Legal! Coloque todos os scripts ou CSS que desejar.
+Legal! Coloque os scripts ou CSS desejados.
 
 >[!TIP]
 >
->Sempre que possível, teste sua fonte HTML personalizada em um ambiente local antes de implantá-la em uma landing page.
+>Sempre que possível, teste sua fonte de HTML personalizada em um ambiente local antes de implantá-la em uma página de aterrissagem.
 
 >[!CAUTION]
 >
->Se o seu HTML personalizado não for renderizado (como uma função JavaScript invisível ou CSS), coloque o elemento em um local memorável como o canto superior esquerdo. O contorno do elemento só é visível quando você clica em sua área.
+>Se o HTML personalizado não for de renderização (como uma função JavaScript invisível ou CSS), coloque o elemento em um local memorável como o canto superior esquerdo. O contorno do elemento é visível somente quando você clica em sua área.

@@ -1,9 +1,10 @@
 ---
 description: Etapa 3 de 4 - Configurar o aplicativo cliente no MS Dynamics - Documentos do Marketo - Documentação do produto
 title: Etapa 3 de 4 - Configurar o aplicativo cliente no MS Dynamics
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
+source-git-commit: 0b9a1f50d8828acf019c5c4f82021d327f396fca
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -47,6 +48,12 @@ ht-degree: 0%
 O Federated Azure AD para o ADFS Onlocal precisa da criação de uma política de Descoberta de Domínio para o aplicativo específico. Com esta política, o Azure AD redirecionará a solicitação de autenticação para o serviço de federação. Para isso, a sincronização de hash de senha deve ser ativada no AD Connect. Para obter mais informações, consulte [OAuth com ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) e [Definir uma política de hardware para um aplicativo](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
 Referências adicionais [pode ser encontrada aqui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=Este%20report%20also%20inclui%20federado, são%20federado%20a%20Azure%20AD.).
+
+## Antes de prosseguir para a Etapa 4 {#before-proceeding-to-step-4}
+
+* Se quiser restringir o número de registros sincronizados, [configurar um filtro de sincronização personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) agora.
+* Execute o [Validar a sincronização do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) processo. Ele verifica se as configurações iniciais foram feitas corretamente.
+* Faça logon no usuário do Marketo Sync no Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >

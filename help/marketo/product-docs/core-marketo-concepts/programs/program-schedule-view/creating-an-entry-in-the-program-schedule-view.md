@@ -3,7 +3,6 @@ unique-page-id: 1147102
 description: Criação de uma entrada na exibição de programação - Documentos do Marketo - Documentação do produto
 title: Criando uma Entrada na Exibição de Programação de Programa
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Criando uma Entrada na Visualização de Programação de Programa {#creating-an-entry-in-the-program-schedule-view}
+# Criando uma Entrada na Exibição de Programação de Programa {#creating-an-entry-in-the-program-schedule-view}
 
 Você pode criar entradas a partir da exibição de programação do programa para complementar um programa existente.
 
 ## Criar uma entrada básica {#create-a-basic-entry}
 
-1. Vá para **Marketing Activities**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione o programa. Clique no menu suspenso **View**. Selecione **Agendamento**.
+1. Selecione o programa. Clique no botão **Exibir** lista suspensa. Selecionar **Agendar**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -29,7 +28,7 @@ Você pode criar entradas a partir da exibição de programação do programa pa
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Nomeie a entrada. Pressione **Enter** para confirmar o nome.
+1. Nomeie a entrada. Press **Enter** para confirmar o nome.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -41,7 +40,7 @@ Você pode criar entradas a partir da exibição de programação do programa pa
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. Insira sua descrição e clique em **Save**.
+1. Insira sua descrição e clique em **Salvar**.
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -49,17 +48,17 @@ Você pode criar entradas a partir da exibição de programação do programa pa
 
    ![](assets/image2014-9-16-9-3a25-3a51.png)
 
-## Alterar Tipo de Entrada {#change-entry-type}
+## Alterar tipo de entrada {#change-entry-type}
 
-1. Selecione uma entrada básica na exibição **Agenda**.
+1. Selecione uma entrada básica do **Agenda** exibir.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Selecione o menu suspenso **Type**. Escolha um novo tipo de entrada.
+1. Selecione o **Tipo** lista suspensa. Escolha um novo tipo de entrada.
 
    >[!NOTE]
    >
-   >A tarefa é [entrada personalizada](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). É possível fazer uma tarefa e outras entradas personalizadas para ajudar a rastrear itens de agenda que não sejam da Marketo.
+   >A tarefa é uma [entrada personalizada](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). É possível fazer uma tarefa e outras entradas personalizadas para ajudar a rastrear itens de agenda que não sejam da Marketo.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,4 +68,4 @@ Você pode criar entradas a partir da exibição de programação do programa pa
 
 >[!NOTE]
 >
-> Você também pode criar um [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) ou [programa de email](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) na visualização de agendamento.
+> Você também pode criar um [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) ou [programa de email](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) na exibição agendamento.

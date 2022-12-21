@@ -2,14 +2,13 @@
 unique-page-id: 11378816
 description: Adicionar pessoas a uma conta nomeada - Documentos do Marketo - Documentação do produto
 title: Adicionar pessoas a uma conta nomeada
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Adicionar pessoas a uma conta nomeada {#add-people-to-a-named-account}
 
@@ -17,7 +16,7 @@ Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomea
 
 ## Ação de fluxo único {#single-flow-action}
 
-1. Clique em **Banco de Dados**.
+1. Clique em **Banco de dados**.
 
    ![](assets/one-2.png)
 
@@ -25,11 +24,11 @@ Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomea
 
    ![](assets/two.png)
 
-1. Clique na pessoa para selecioná-la. Clique no menu suspenso **Ações de pessoa**, clique em **Marketing** e selecione **Adicionar à conta nomeada**.
+1. Clique na pessoa para selecioná-la. Clique no botão **Ações da pessoa** , clique em **Marketing** e selecione **Adicionar à Conta Nomeada**.
 
    ![](assets/three.png)
 
-1. Clique no menu suspenso **Conta Nomeada**, selecione a Conta Nomeada desejada e clique em **Executar Agora**.
+1. Clique no botão **Conta nomeada** , selecione a Conta nomeada desejada e clique em **Executar agora**.
 
    ![](assets/four.png)
 
@@ -47,23 +46,23 @@ Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomea
 
    ![](assets/seven.png)
 
-1. Clique no menu suspenso **Conta nomeada** e selecione a Conta Nomeada desejada.
+1. Clique no botão **Conta nomeada** e selecione a Conta nomeada desejada.
 
    ![](assets/eight.png)
 
    Pronto! Em seguida, agende (ou ative) sua campanha inteligente e a etapa de fluxo começará a adicionar pessoas qualificadas à conta nomeada designada.
 
-## Importar Lista {#list-import}
+## Importação de lista {#list-import}
 
-1. Selecione a lista, clique no menu suspenso **List Actions** e selecione **Import List**.
+1. Selecione a lista e clique no botão **Ações de lista** e selecione **Importar Lista**.
 
    ![](assets/nine.png)
 
-1. Depois de escolher seu arquivo e configurações, clique em **Next**.
+1. Depois de escolher seu arquivo e configurações, clique em **Próximo**.
 
    ![](assets/ten.png)
 
-1. Mapeie os campos desejados. Certifique-se de que o campo **Conta Nomeada** esteja mapeado.
+1. Mapeie os campos desejados. Certifique-se de que o **Conta nomeada** é mapeado.
 
    ![](assets/eleven.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 4719312
 description: Adicionar/remover valores da lista de opções - Documentos do Marketo - Documentação do produto
 title: Adicionar/remover valores da lista de opções
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '227'
@@ -17,7 +16,7 @@ Estas são algumas informações sobre adicionar e remover valores da lista de o
 
 ## Adicionar valores da lista de opções {#adding-picklist-values}
 
-1. Se um valor adicional for adicionado no Salesforce a um tipo de campo de lista de seleção, você receberá uma [notificação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identificando quais formulários isso afetará.
+1. Se um valor adicional for adicionado no Salesforce a um tipo de campo de lista de seleção, você receberá uma [notificação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identificação dos formulários que isso afetará.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 

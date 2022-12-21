@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 5D {#template-5d}
 
-Clique com o botão direito do mouse em [baixar Modelo 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+Clique com o botão direito do mouse em para [baixar modelo 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 

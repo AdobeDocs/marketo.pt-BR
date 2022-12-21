@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2360184
-description: Filtrar um relatório de Atividade de Campanha - Documentos do Marketing - Documentação do produto
-title: Filtrar um relatório de Atividade de Campanha
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Filtrar um relatório de atividade do Campaign - Documentos do Marketo - Documentação do produto
+title: Filtrar um relatório de atividade de campanha
+exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
+# Filtrar um relatório de atividade de campanha {#filter-a-campaign-activity-report}
 
-# Filtrar um Relatório de Atividade de Campanha {#filter-a-campaign-activity-report}
+Concentre-se no seu [Relatório de atividade de campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)sobre [campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 
-Focalize seu [Relatório de Atividade de Campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)em campanhas inteligentes [específicas](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
-
-1. Vá para **Atividades de marketing** (ou **Analytics**) e selecione seu relatório de atividade de campanha.
+1. Ir para **Atividades de marketing** ou **Analytics**) e selecione o relatório de atividade da campanha.
 
    ![](assets/image2014-9-16-16-3a13-3a56.png)
 
-1. Clique na guia **Configuração** e clique com o duplo **Campanha**.
+1. Clique no botão **Configuração** e clique duas vezes **Campanhas**.
 
    ![](assets/image2014-9-16-16-3a14-3a1.png)
 
-1. Escolha as pastas e campanhas inteligentes específicas a serem incluídas no seu relatório. Clique em **Aplicar**.
+1. Escolha as pastas e as campanhas inteligentes específicas a serem incluídas no relatório. Clique em **Aplicar**.
 
    ![](assets/image2014-9-16-16-3a14-3a11.png)
 
@@ -31,10 +30,10 @@ Focalize seu [Relatório de Atividade de Campanha](/help/marketo/product-docs/re
    >
    >Se você selecionar uma pasta, seu relatório incluirá tudo o que essa pasta contém no momento em que o relatório é executado.
 
-1. Você terminou! Clique na guia **Relatório** para ver _apenas_ as campanhas inteligentes selecionadas no seu relatório.
+1. Está pronto! Clique no botão **Relatório** guia para ver _just_ as campanhas inteligentes selecionadas em seu relatório.
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
 >[!MORELIKETHIS]
 >
->[Relatório de desempenho de email de campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+>[Relatório de desempenho do email da campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)

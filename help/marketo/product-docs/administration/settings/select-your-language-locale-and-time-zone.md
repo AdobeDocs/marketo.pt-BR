@@ -3,7 +3,6 @@ unique-page-id: 2359904
 description: Selecione seu idioma, local e fuso horário - Documentos do Marketo - Documentação do produto
 title: Selecione seu idioma, local e fuso horário
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
@@ -24,7 +23,7 @@ Inglês não é a sua primeira língua? Não se preocupe, nós cobrimos você. V
 * Português
 * Espanhol
 
-## Alterar o idioma do usuário, a localidade e o fuso horário {#change-user-language-locale-and-time-zone}
+## Alterar idioma do usuário, localidade e fuso horário {#change-user-language-locale-and-time-zone}
 
 1. Faça logon no Marketo e, em seu nome, selecione **Minha conta**.
 
@@ -42,7 +41,7 @@ Inglês não é a sua primeira língua? Não se preocupe, nós cobrimos você. V
    >
    >Você também tem a opção de alterar apenas seu idioma clicando no menu suspenso de idioma na parte superior da página de logon.
 
-1. Altere seu **Locale**.
+1. Altere seu **Localidade**.
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 

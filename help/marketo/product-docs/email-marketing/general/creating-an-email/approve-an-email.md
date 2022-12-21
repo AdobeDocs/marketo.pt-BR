@@ -1,36 +1,35 @@
 ---
 unique-page-id: 1147342
-description: Aprovar um email - Documentos do Marketing - Documentação do produto
+description: Aprovar um email - Documentos do Marketo - Documentação do produto
 title: Aprovar um email
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-
 # Aprovar um email {#approve-an-email}
 
-Emails de start no estado de rascunho. Eles geralmente ficam indisponíveis no sistema até que você os aprove. Há algumas maneiras de aprovar um email.
+Emails começam no estado de rascunho. Eles geralmente não estão disponíveis no sistema até que você os aprove. Há algumas maneiras de aprovar um email.
 
-## Aprove-o usando o menu Ações de e-mail {#approve-it-using-the-email-actions-menu}
+## Aprove usando o menu Ações de email {#approve-it-using-the-email-actions-menu}
 
-1. Localize e selecione seu email, clique no menu suspenso **Ações de email** e selecione **Aprovar**.
+1. Encontre e selecione seu email, clique no link **Ações de email** e selecione **Aprovar**.
 
    ![](assets/one.png)
 
-## Aprove-o diretamente na árvore {#approve-it-directly-in-the-tree}
+## Aprová-lo diretamente na árvore {#approve-it-directly-in-the-tree}
 
-1. Localize e selecione seu e-mail, clique com o botão direito do mouse nele e selecione **Aprovar**.
+1. Encontre e selecione seu email, clique com o botão direito do mouse nele e selecione **Aprovar**.
 
    ![](assets/approveemail.png)
 
 ## Aprove seu email no Editor de email {#approve-your-email-in-the-email-editor}
 
-1. Em seu email, clique no menu suspenso **Ações de email** e selecione **Aprovar e fechar**.
+1. No seu email, clique no link **Ações de email** e selecione **Aprovar e fechar**.
 
    ![](assets/three.png)
 
-Depois de aprovado, seu e-mail está pronto para uso!
+Depois de aprovado, seu email estará pronto para uso!

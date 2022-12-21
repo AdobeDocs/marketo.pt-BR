@@ -3,11 +3,10 @@ unique-page-id: 1147009
 description: Mudar o sucesso do programa - Documentos do Marketo - Documentação do produto
 title: Alterar sucesso do programa
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
@@ -29,7 +28,7 @@ Se você tiver um grupo de pessoas marcadas com Êxito do programa acidentalment
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Selecione **Data de sucesso** ou **Data de sucesso** como o Atributo.
+1. Selecionar **Sucesso** ou **Data de sucesso** como Atributo.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +36,7 @@ Se você tiver um grupo de pessoas marcadas com Êxito do programa acidentalment
    >
    >Configurar a Data de sucesso para qualquer item que define o Sucesso automaticamente como true. Configurar Sucesso como true automaticamente define a Data de Sucesso como a data atual.
 
-1. Defina **Novo Valor** para **Verdadeiro** ou **Falso**.
+1. Defina as **Novo valor** para **Verdadeiro** ou **Falso**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 

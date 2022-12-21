@@ -16,7 +16,7 @@ Os seguintes recursos estão incluídos na versão de dezembro de 2014. Verifiqu
 
 ## Relatórios de informações de vendas {#sales-insight-reports}
 
-O [Relatório de desempenho de email do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permite que você veja as métricas de email por email e representante de vendas. Ele suporta emails enviados por meio do Salesforce, Microsoft Dynamics, do plug-in Outlook e do plug-in Gmail.
+O [Relatório de desempenho de email do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) O permite visualizar métricas de email por email e representante de vendas. Ele suporta emails enviados por meio do Salesforce, Microsoft Dynamics, do plug-in Outlook e do plug-in Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -24,13 +24,13 @@ O [Relatório de desempenho de email do Sales Insight](/help/marketo/product-doc
 
 ## Públicos Personalizados do Facebook {#facebook-custom-audiences}
 
-Depois que o administrador do Marketo tiver adicionado [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), você poderá criar, atualizar ou [substituir facilmente um público-alvo personalizado do Facebook por leads de uma lista estática ou inteligente do Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Procure o novo ícone do Facebook na parte inferior da grade de lead de qualquer lista estática ou inteligente.
+Depois que o administrador do Marketo for adicionado [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), você pode criar, atualizar ou [substituir um público-alvo personalizado do Facebook por leads de uma lista estática ou inteligente do Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Procure o novo ícone do Facebook na parte inferior da grade de lead de qualquer lista estática ou inteligente.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Clonagem aprimorada em espaços de trabalho  {#improved-cloning-across-workspaces}
 
-[Clonar um ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) programa em outro espaço de trabalho nunca foi tão fácil! Ao clicar em clonar, você seleciona o espaço de trabalho de destino. Não há mais clonagem em uma pasta e, em seguida, mover a pasta!
+[Clonar um programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) para outro espaço de trabalho nunca foi tão fácil! Ao clicar em clonar, você seleciona o espaço de trabalho de destino. Não há mais clonagem em uma pasta e, em seguida, mover a pasta!
 
 >[!NOTE]
 >
@@ -40,11 +40,11 @@ Depois que o administrador do Marketo tiver adicionado [Facebook via Admin > Lau
 
 ## Lista inteligente de referência {#reference-smart-list}
 
-[As listas inteligentes que são compartilhadas com outro espaço de trabalho podem ser ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) referenciadas ao criar uma lista ou fluxo inteligente.
+[As listas inteligentes que são compartilhadas com outro espaço de trabalho podem ser referenciadas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) ao criar uma lista ou fluxo inteligente.
 
 ## Aprimoramentos na importação de listas {#list-import-improvements}
 
-[Importe ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) arquivos codificados em UTF-16, Shift-JIS ou EUC-JP. Continuamos a oferecer suporte a arquivos codificados UTF-8.
+[Importar arquivos](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) codificado em UTF-16, Shift-JIS ou EUC-JP. Continuamos a oferecer suporte a arquivos codificados UTF-8.
 
 ## Rastreamento de link em scripts de email {#link-tracking-in-email-scripting}
 
@@ -52,7 +52,7 @@ Os links em scripts de email agora serão rastreados e disponibilizados no relat
 
 ## Configuração de codificação de token {#token-encoding-setting}
 
-Lançamos um novo recurso de segurança para codificar tokens HTML automaticamente, que será ativado por padrão em março de 2015. Até lá, alterne essa funcionalidade no Field Management para testar o comportamento com antecedência. Todos os tokens de cliente potencial e empresa serão codificados quando inseridos em emails ou landing pages. As opções também estarão disponíveis para campos individuais.
+Lançamos um novo recurso de segurança para codificar tokens automaticamente em HTML, que será ativado por padrão em março de 2015. Até lá, alterne essa funcionalidade no Field Management para testar o comportamento com antecedência. Todos os tokens de cliente potencial e empresa serão codificados quando inseridos em emails ou landing pages. As opções também estarão disponíveis para campos individuais.
 
 ## Novas chamadas da API ReST {#new-rest-api-calls}
 
@@ -64,7 +64,7 @@ Três novas chamadas para a API ReST de lead &amp; atividade:
 
 ・ Intercalar lead
 
-Detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com/)
+Os detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com/)
 
 ## Aprimoramentos De Compatibilidade Do Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
 

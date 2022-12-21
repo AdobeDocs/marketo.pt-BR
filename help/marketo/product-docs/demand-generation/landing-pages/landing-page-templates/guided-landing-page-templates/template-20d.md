@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 20D {#template-20d}
 
-Clique com o botão direito do mouse em [baixar Modelo 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+Clique com o botão direito do mouse em para [modelo de download 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
 
 ![](assets/template-20d.png)
 

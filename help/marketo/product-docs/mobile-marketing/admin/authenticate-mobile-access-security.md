@@ -1,39 +1,38 @@
 ---
 unique-page-id: 10096158
-description: Autenticar a segurança do Mobile Access - Documentos do Marketing - Documentação do produto
-title: Autenticar a segurança do Mobile Access
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Autenticar segurança de acesso móvel - Documentos do Marketo - Documentação do produto
+title: Autenticar segurança de acesso móvel
+exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
+# Autenticar segurança de acesso móvel {#authenticate-mobile-access-security}
 
-# Autenticar a segurança do Mobile Access {#authenticate-mobile-access-security}
+Para melhorar a segurança para usuários móveis, o Marketo fornece duas novas IDs: a chave de acesso e o segredo de acesso. Isso ajuda a garantir que os usuários que fazem logon em seu aplicativo sejam realmente quem parecem ser.
 
-Para melhorar a segurança dos usuários do Mobile, o Marketo fornece duas novas IDs: a chave de acesso e o segredo de acesso. Essa ajuda garante que os usuários que fazem logon em seu aplicativo sejam realmente quem parecem ser.
-
-Para ativar as IDs, é necessário adquirir os códigos e fornecê-los ao departamento de TI para que eles possam configurar uma correspondência segura.
+Para ativar as IDs, você precisa adquirir os códigos e fornecê-los ao departamento de TI para que eles possam configurar uma correspondência segura.
 
 >[!PREREQUISITES]
 >
->Para ativar este recurso, entre em contato com o Suporte e solicite &quot;Vespa Secure Mode&quot;.
+>Para ativar este recurso, entre em contato com o Suporte e solicite o &quot;Vespa Secure Mode&quot;.
 
-1. No Marketo, selecione **Admin** e clique em **Aplicativos e dispositivos móveis**.
+1. No Marketo, selecione **Administrador** e clique em **Aplicativos e dispositivos móveis**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
-1. Selecione o aplicativo móvel para o qual deseja habilitar o acesso seguro.
+1. Selecione o Aplicativo móvel para o qual deseja habilitar o acesso seguro.
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Role para baixo e, na seção Access Security (Segurança de acesso), clique em **Edit**.
+1. Role para baixo e, na seção Segurança de acesso, clique em **Editar**.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Marque a caixa de seleção **Ativar segurança**. Clique em **Salvar**.
+1. Verifique a **Ativar segurança** caixa de seleção. Clique em **Salvar**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

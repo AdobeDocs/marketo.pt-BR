@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 11C {#template-11c}
 
-Clique com o botão direito do mouse em [baixar Modelo 11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
+Clique com o botão direito do mouse em para [baixar modelo 11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 

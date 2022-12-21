@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2359707
-description: Adicionando um retângulo a uma Landing page de forma livre - Documentos de marketing - Documentação do produto
-title: Como adicionar um retângulo a uma Landing page de forma livre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Adicionar um retângulo a uma página de aterrissagem de forma livre - Documentos do Marketo - Documentação do produto
+title: Adicionar um retângulo a uma página de aterrissagem de forma livre
+exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
+# Adicionar um retângulo a uma página de aterrissagem de forma livre {#adding-a-rectangle-to-a-free-form-landing-page}
 
-# Adicionar um retângulo a uma Landing page de forma livre {#adding-a-rectangle-to-a-free-form-landing-page}
+Os retângulos nas páginas de aterrissagem são ótimos para destacar uma área do texto.
 
-Os retângulos nas landings page são ótimos para destacar uma área do texto.
-
-1. Selecione uma landing page de forma livre e clique em **Editar rascunho**.
+1. Selecione uma landing page de formulário livre e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
    >[!NOTE]
    >
-   >O designer de landings page de forma livre é aberto em uma nova janela.
+   >O designer de página de aterrissagem de forma livre será aberto em uma nova janela.
 
-1. Arraste sobre o elemento **Retângulo**.
+1. Arraste para o **Retângulo** elemento.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Selecione o retângulo e use a **Folha de Propriedades** para fazer as alterações necessárias.
+1. Selecione o retângulo e use o **Folha de Propriedades** para fazer as alterações necessárias.
 
    >[!TIP]
    >
-   >É possível mover e redimensionar o retângulo usando arrastar e soltar. Experimente também as setas no teclado! Dica: Pressione Shift-Seta para mover o retângulo 10px de cada vez.
+   >Você pode mover e redimensionar o retângulo usando arrastar e soltar. Tente também as setas no teclado! Dica: Pressione Shift-Seta para mover o retângulo 10px de cada vez.
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-Parabéns! Agora você pode criar retângulos em suas landings page de forma livre.
+Parabéns! Agora é possível criar retângulos nas páginas de aterrissagem de forma livre.

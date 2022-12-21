@@ -3,7 +3,6 @@ unique-page-id: 2953348
 description: Criar entradas diretamente no calendário de marketing - Documentos do Marketo - Documentação do produto
 title: Criar entradas diretamente no calendário de marketing
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'

@@ -1,32 +1,31 @@
 ---
 unique-page-id: 14352615
-description: Como entender a guia Conteúdo - Documentos do Marketing - Documentação do produto
+description: Noções básicas sobre a guia Conteúdo - Documentação do Marketo - Documentação do produto
 title: Como entender a guia Conteúdo
-translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-
 # Como entender a guia Conteúdo {#understanding-the-content-tab}
 
-A guia Conteúdo trata do envolvimento do email da sua equipe ao usar um modelo. Nós automaticamente acumulamos três métricas que acreditamos serem importantes.
+A guia Conteúdo trata do envolvimento de email da sua equipe ao usar um modelo. Nós automaticamente criamos três métricas que acreditamos serem importantes.
 
 ## Arma secreta {#secret-weapon}
 
-Este é um modelo de e-mail que ainda não foi compartilhado com a equipe, mas está recebendo um alto nível de envolvimento. Mostramos a linha de assunto do modelo e o criador do modelo. Esta é uma grande oportunidade para alcançar este representante e recomendar que ele ou ela compartilhe o modelo!
+Este é um template de email que ainda não foi compartilhado com a equipe, mas está recebendo um alto nível de engajamento. Mostramos a linha de assunto do modelo e o criador do modelo. Essa é uma ótima oportunidade para entrar em contato com esse representante e recomendar que ele compartilhe o modelo!
 
-## Participação mais alta {#highest-engagement}
+## Maior envolvimento {#highest-engagement}
 
-Este é o modelo compartilhado que está obtendo o mais alto nível de envolvimento em todos os setores.
+Este é o modelo compartilhado que está obtendo o mais alto nível de engajamento em todos os quadros.
 
 ## Participação mais baixa {#lowest-engagement}
 
 Pode ser compartilhado ou não, este é o modelo com a menor quantidade de envolvimento.
 
-Role a página para baixo para ver a seção Modelos que mostra todos os modelos que sua equipe tem usado (neste período) com mais visualização*.*
+Role a página para baixo para ver a seção Modelos que mostra todos os modelos que sua equipe tem usado (nesse período) com mais visualizações*.*
 
-Você também pode ver os Principais anexos enviados pela sua equipe (obtendo o máximo de visualizações) e os Principais links (obtendo o máximo de cliques).
+Você também pode ver os Principais anexos enviados pela sua equipe (obtendo a maioria das visualizações) e os Principais links (recebendo a maioria dos cliques).

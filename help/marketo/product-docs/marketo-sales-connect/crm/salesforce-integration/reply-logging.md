@@ -1,44 +1,43 @@
 ---
 unique-page-id: 14352480
-description: Registro de resposta (SFDC) - Documentos do marketing - Documentação do produto
+description: Registro de resposta (SFDC) - Documentos Marketo - Documentação do produto
 title: Registro de resposta (SFDC)
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
 
-
 # Registro de resposta (SFDC) {#reply-logging-sfdc}
 
-O Sales Connect fornece a você a capacidade de registrar automaticamente as respostas dos prospectos no Salesforce. A estrutura que permite que você faça isso é baseada no nosso rastreamento de resposta por email. Se pudermos rastrear uma resposta do prospecto, podemos registrar essa resposta no Salesforce.
+O Sales Connect o capacita a registrar automaticamente as respostas de seus prospetos no Salesforce. A estrutura que permite fazer isso é baseada em nosso rastreamento de resposta de email. Se pudermos rastrear a resposta de um prospecto, podemos registrar essa resposta no Salesforce.
 
 ## Requisitos {#requirements}
 
-* Deve estar registrando emails por meio do registro de API
-* Deve ser possível rastrear [uma resposta](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
+* Deve registrar emails por meio do registro da API
+* Deve ser capaz de [rastrear uma resposta](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
 * Deve estar conectado ao Salesforce
-* Deve ter chamadas de API [Salesforce ](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) disponíveis
+* Deve ter o Salesforce [Chamadas de API](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) available
 
-## Habilitar Registro de Resposta {#enable-reply-logging}
+## Ativar o registro de respostas {#enable-reply-logging}
 
-1. Para ativar o registro de respostas, você pode ir até a página de configurações do Salesforce. Depois que o registro da API for desligado, você verá a opção de marcar _Respostas de registro_.
+1. Para ativar o registro em log de resposta, você pode ir até a página de configurações do Salesforce . Quando o registro da API for desmarcado, você verá a opção para verificar _Respostas de Log_.
 
    >[!NOTE]
    >
-   >O registro de resposta segue as mesmas regras que você tem em vigor para o registro de emails enviados. Isso inclui como os e-mails são registrados; aos Clientes Potenciais e Contatos; quando existir um registro de duplicados; se nenhum registro correspondente for encontrado.
+   >O log de resposta segue as mesmas regras que você tem em vigor para registrar emails enviados. Isso inclui como os emails são registrados; aos Clientes Potenciais e Contatos; quando existir um registro duplicado; se nenhum registro correspondente for encontrado.
 
-## Configuração do tipo para resposta no Salesforce {#setting-type-to-reply-in-salesforce}
+## Definir tipo como resposta no Salesforce {#setting-type-to-reply-in-salesforce}
 
-É importante obter dados significativos de seus relatórios do Salesforce. Ter a capacidade de deixar o campo Tipo preenchido como &quot;Responder&quot; permite que você obtenha esses dados por meio de seus relatórios. Faça uma parceria com seu `Salesforce admin` para obter essa configuração.
+Obter dados significativos de seus relatórios do Salesforce é importante. Ter a capacidade de deixar o campo Tipo preenchido como &quot;Resposta&quot; permite obter esses dados por meio de seus relatórios. Faça parceria com seu `Salesforce admin` para obter essa configuração.
 
-1. Vá para **Configuração** > **Personalizar** > **Atividade** > **Campos de Tarefa**.
+1. Ir para **Configuração** > **Personalizar** > **Atividades** > **Campos de tarefa**.
 1. Clique em **Tipo**.
-1. Em Valores da Lista de opções de tipo de Tarefa, clique em **Novo**.
-1. Digite &quot;Reply&quot; na caixa vazia. Certifique-se de colocar a letra &#39;R&#39; em maiúsculas e clique em **Guardar**.
+1. Em Valores da Lista de Seleção de Tipo de Tarefa, clique em **Novo**.
+1. Digite &quot;Reply&quot; na caixa vazia. Certifique-se de capitalizar o &#39;R&#39; e clique em **Salvar**.
 
    >[!NOTE]
    >
-   >Você não precisará selecionar um Padrão na lista de seleção Tipo. O Sales Connect verificará se esse Tipo de Atividade está disponível na instância do Salesforce e preencherá o campo tarefa nas atividades recebidas de acordo.
+   >Não será necessário selecionar um Padrão na lista de opções Tipo. O Sales Connect verá que esse Tipo de atividade está disponível na instância do Salesforce e preencherá o campo de tarefa em suas atividades de entrada adequadamente.

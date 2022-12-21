@@ -1,25 +1,24 @@
 ---
 unique-page-id: 5472283
-description: Personalizar a Visualização móvel para sua Landing page de forma livre - Documentos do marketing - Documentação do produto
-title: Personalize a Visualização móvel para sua Landing page de forma livre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Personalizar exibição móvel para sua página de aterrissagem de forma livre - Documentos do Marketo - Documentação do produto
+title: Personalizar exibição móvel para sua página de aterrissagem de forma livre
+exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
 
 ---
 
-
-# Personalize a Visualização móvel para sua Landing page de forma livre {#customize-mobile-view-for-your-free-form-landing-page}
+# Personalizar exibição móvel para sua página de aterrissagem de forma livre {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
->[Adicionar uma Visualização móvel para sua Landing page de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
+>[Adicionar uma exibição móvel para sua página de aterrissagem de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-A visualização móvel de sua landing page de forma livre é, na maioria das vezes, automática, mas você pode personalizá-la. Veja como.
+A exibição móvel da página de aterrissagem de forma livre é, em sua maioria, automática, mas você pode personalizá-la. Veja como.
 
-1. Selecione sua landing page de forma livre.
+1. Selecione a landing page do formulário gratuito.
 
    ![](assets/selectlandingapge.jpg)
 
@@ -27,88 +26,88 @@ A visualização móvel de sua landing page de forma livre é, na maioria das ve
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Clique na guia **Mobile**.
+1. Clique no botão **Celular** guia .
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
-## Visualização móvel vs. desktop {#mobile-vs-desktop-view}
+## Exibição móvel vs desktop {#mobile-vs-desktop-view}
 
-Em Elementos de página, você verá um ícone ![](assets/image2015-1-22-18-3a39-3a53.png) (área de trabalho) e um ícone ![](assets/image2015-1-22-18-3a40-3a31.png) (móvel). Isso permite mostrar/ocultar elementos diferentes dinamicamente.
+Em Elementos da página, você verá um ![](assets/image2015-1-22-18-3a39-3a53.png) ícone (área de trabalho) e um ![](assets/image2015-1-22-18-3a40-3a31.png) Ícone (móvel) . Isso permite mostrar/ocultar elementos diferentes dinamicamente.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
-Por padrão, tudo na visualização de desktop é mostrado na visualização móvel.
+Por padrão, tudo na exibição de desktop é mostrado na exibição móvel.
 
 >[!NOTE]
 >
->Os retângulos não são exibidos na visualização móvel.
+>Retângulos não são mostrados na exibição móvel.
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
 ## Coisas importantes a saber: {#important-things-to-know}
 
-* As imagens serão expandidas para a largura do seu dispositivo móvel. Se desejar imagens menores, puxe o elemento rich text e adicione a imagem dali.
-* Use apenas formulários Forms 2.0. Eles respondem e se ajustarão automaticamente.
-* Somente um elemento de modelo é editável, BODY#body id (Mobile). Você pode usar isso para alterar a cor do plano de fundo.
+* As imagens serão expandidas para a largura do seu dispositivo móvel. Se quiser imagens menores, puxe o elemento rich text e adicione sua imagem a partir daí.
+* Use apenas formulários Forms 2.0. Eles são responsivos e se ajustam automaticamente.
+* Somente um elemento de modelo é editável, BODY#body id (Mobile). Você pode usar essa opção para alterar a cor do plano de fundo.
 
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
-## Ocultar um elemento da Visualização móvel {#hide-an-element-from-the-mobile-view}
+## Ocultar um elemento da exibição móvel {#hide-an-element-from-the-mobile-view}
 
 >[!TIP]
 >
 >Menos é mais em dispositivos móveis. Use menos palavras para clientes mais felizes.
 
-1. Para ocultar um elemento, clique na caixa de seleção correspondente na coluna móvel.
+1. Para ocultar um elemento, clique na caixa de seleção correspondente na coluna móvel .
 
    ![](assets/image2015-5-21-15-3a28-3a17.png)
 
-1. Perfeito! Esse elemento não estará mais visível na sua visualização móvel.
+1. Perfeita! Esse elemento não estará mais visível na visualização móvel.
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
-## Adicionar um elemento à Visualização móvel {#add-an-element-to-the-mobile-view}
+## Adicionar um elemento à visualização móvel {#add-an-element-to-the-mobile-view}
 
 >[!TIP]
 >
->Faça conteúdo especial (menor) apenas para a visualização móvel.
+>Torne conteúdo especial (menor) apenas para exibição móvel.
 
-1. Para adicionar um elemento, arraste-o e solte-o na landing page de forma livre.
+1. Para adicionar um elemento, arraste-o e solte-o na página de aterrissagem de forma livre.
 
    ![](assets/image2015-5-21-15-3a32-3a22.png)
 
-   Verifique se o elemento está definido para ser exibido somente na visualização móvel.
+   Certifique-se de que o elemento esteja definido para exibir somente na visualização móvel.
 
    ![](assets/image2015-5-21-15-3a35-3a29.png)
 
 >[!TIP]
 >
->A visualização móvel também pode ter uma organização diferente de elementos de página. Mova as coisas para a landing page de forma livre ou reordene os objetos listados em **Elementos da página** usando arrastar e soltar.
+>A visualização móvel também pode ter uma disposição diferente dos elementos da página. Mova coisas para a página de aterrissagem de forma livre ou reordene os objetos listados em **Elementos da página** usando arrastar e soltar.
 
-## Visualização móvel da pré-visualização {#preview-mobile-view}
+## Visualizar visualização móvel {#preview-mobile-view}
 
-1. Clique em **Rascunho de Pré-visualização**.
+1. Clique em **Visualizar rascunho**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Quer ver algo legal? Selecione **Lado a Lado**.
+1. Quer ver algo legal? Selecionar **Lado a Lado**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
-1. Agora você pode ver as versões para desktop e dispositivos móveis de suas landings page ao mesmo tempo!
+1. Agora é possível ver as versões para desktop e dispositivos móveis de suas landing pages ao mesmo tempo!
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Se você adora, clique em **Aprovar e Fechar**.
+1. Se quiser, clique em **Aprovar e fechar**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
    >[!NOTE]
    >
-   >A pré-visualização não é interativa. Cada smartphone exibe as coisas de forma um pouco diferente. Recomendamos que você visualize sua landing page em alguns dispositivos para ver exatamente como a landing page se comportará.
+   >A visualização não é interativa. Cada smartphone exibe coisas de maneira um pouco diferente. Recomendamos visualizar sua landing page em alguns dispositivos para ver exatamente como a landing page se comportará.
 
 Divirta-se!
 
 >[!MORELIKETHIS]
 >
->[Tornar um modelo de Landing page de forma livre existente compatível com dispositivos móveis](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+>[Tornar um modelo de página de aterrissagem de forma livre compatível com dispositivos móveis](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)

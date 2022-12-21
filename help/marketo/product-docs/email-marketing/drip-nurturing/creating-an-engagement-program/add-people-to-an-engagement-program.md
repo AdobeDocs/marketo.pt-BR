@@ -1,24 +1,23 @@
 ---
 unique-page-id: 2359782
-description: Adicionar pessoas a um Programa de envolvimento - Documentos do marketing - Documentação do produto
-title: Adicionar pessoas a um Programa de envolvimento
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Adicionar pessoas a um programa de envolvimento - Documentos da Marketo - Documentação do produto
+title: Adicionar pessoas a um programa de envolvimento
+exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Adicionar pessoas a um Programa de envolvimento {#add-people-to-an-engagement-program}
+# Adicionar pessoas a um programa de envolvimento {#add-people-to-an-engagement-program}
 
 Há várias maneiras de as pessoas se tornarem membros de um programa de envolvimento:
 
-* [Adicionar ao Programa de envolvimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [Alterar etapa de Fluxo de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) cadenciado do Programa de envolvimento
-* [Alterar etapa de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) fluxo contínuo do Programa de envolvimento
-* [Alterar etapa de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) fluxo de status do Programa
+* [Adicionar ao programa de envolvimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
+* [Alterar a cadência do programa de envolvimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) passo do fluxo
+* [Alterar fluxo do programa de envolvimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) passo do fluxo
+* [Alterar status do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) passo do fluxo
 * Se uma pessoa preencher um formulário local para um programa de envolvimento
 * Importação de membros para um programa de envolvimento (por meio da guia Membros dentro do programa)
-* Se você estiver usando o Salesforce como seu CRM e tiver uma campanha do Salesforce vinculada ao seu programa de envolvimento, adicionar alguém à campanha do Salesforce no CRM também os tornará um membro do programa de envolvimento.
+* Se você estiver usando o Salesforce como seu CRM e tiver uma campanha do Salesforce vinculada ao seu programa de engajamento, adicionar alguém à campanha do Salesforce no lado do CRM também fará com que seja membro do programa de engajamento.

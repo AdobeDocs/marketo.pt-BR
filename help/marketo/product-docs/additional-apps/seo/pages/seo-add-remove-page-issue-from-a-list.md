@@ -3,7 +3,6 @@ unique-page-id: 2949266
 description: SEO - Adicionar/remover problema de página de uma lista - Documentos do Marketo - Documentação do produto
 title: SEO - Adicionar/remover problema de página de uma lista
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# SEO - Adicionar/Remover problema de página de uma lista {#seo-add-remove-page-issue-from-a-list}
+# SEO - Adicionar/remover problema de página de uma lista {#seo-add-remove-page-issue-from-a-list}
 
 Você pode organizar os problemas da página em listas. Você também pode remover problemas de página de uma lista.
 
 ## Adicionar problemas de página a uma lista {#add-page-issues-to-a-list}
 
-1. Vá para a seção **Pages**.
+1. Vá para o **Páginas** seção.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
@@ -25,7 +24,7 @@ Você pode organizar os problemas da página em listas. Você também pode remov
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Passe o mouse sobre o problema de página que deseja adicionar. Clique em **Adicionar/Remover da Lista**.
+1. Passe o mouse sobre o problema de página que deseja adicionar. Clique em **Adicionar/remover da lista**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -43,7 +42,7 @@ Você pode organizar os problemas da página em listas. Você também pode remov
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. Na guia páginas, clique em **Problemas**.
+1. Na guia páginas , clique em **Problemas**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -51,7 +50,7 @@ Você pode organizar os problemas da página em listas. Você também pode remov
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Passe o mouse sobre o problema de página que deseja remover. Clique em **Adicionar/Remover da Lista**.
+1. Passe o mouse sobre o problema de página que deseja remover. Clique em **Adicionar/remover da lista**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 

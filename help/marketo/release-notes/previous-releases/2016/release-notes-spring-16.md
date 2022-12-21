@@ -30,13 +30,13 @@ Crie belos emails usando nossos novos Modelos iniciais! Além disso, localize ra
 
 >[!NOTE]
 >
->O Editor de email 2.0 (com o Seletor de modelo) será lançado gradualmente a partir de 3 de junho. Concluiremos o lançamento até 30 de junho. Ao contrário do Email Insights, você não será notificado quando tiver acesso. Para ver se o faz, siga as etapas em [this article](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
+>O Editor de email 2.0 (com o Seletor de modelo) será lançado gradualmente a partir de 3 de junho. Concluiremos o lançamento até 30 de junho. Ao contrário do Email Insights, você não será notificado quando tiver acesso. Para ver se o faz, siga as etapas em [este artigo](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
 ## [Edição de email — recriação de imagens](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
 
-É isso mesmo, um novo editor de email! Use a funcionalidade leve de arrastar e soltar para adicionar e reordenar o conteúdo. Novos elementos, incluindo imagens, vídeos, variáveis e módulos, certamente melhorarão sua experiência de edição. Além disso, verifique o editor de código atualizado, visualizador e suporte a pré-cabeçalho.
+É isso mesmo, um novo editor de email! Use a funcionalidade leve de arrastar e soltar para adicionar e reordenar o conteúdo. Novos elementos, incluindo imagens, vídeos, variáveis e módulos, certamente melhorarão sua experiência de edição. Além disso, verifique o editor de código atualizado, visualizador e suporte ao pré-cabeçalho.
 
 ![](assets/17a-29-modules-next.png)
 
@@ -58,25 +58,25 @@ As APIs REST do Marketo agora oferecem suporte ao controle de páginas iniciais,
 
 ## [INCLUIR NA LISTA DE PERMISSÕES IP para acesso à API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Semelhante ao recurso de  de IP incluir na lista de permissões para logons de usuários da Marketo, os administradores da Marketo agora podem configurar uma lista de permissões de endereços IP que podem acessar as APIs SOAP e REST da Marketo, bloqueando o acesso de endereços IP não autorizados. Isso fornece uma camada adicional de segurança para a instância do Marketo e garante que o acesso à API só possa ocorrer a partir da rede da organização. Detalhes sobre como configurar isso estão disponíveis no [site de documentação do Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Semelhante ao recurso de  de IP incluir na lista de permissões para logons de usuários da Marketo, os administradores da Marketo agora podem configurar uma lista de permissões de endereços IP que podem acessar as APIs SOAP e REST da Marketo, bloqueando o acesso de endereços IP não autorizados. Isso fornece uma camada adicional de segurança para a instância do Marketo e garante que o acesso à API só possa ocorrer a partir da rede da organização. Detalhes sobre como configurar isso estão disponíveis no [Site de documentação do Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
-## [Novo Microsoft Dynamics Sync Connector de Alta Velocidade](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## [Novo conector de sincronização dinâmica Microsoft de alta velocidade](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 Construído na arquitetura do Orion, o novo conector de dinâmica de alta velocidade fornece velocidades até 20 vezes mais rápidas para sincronização inicial e até 5 vezes mais rápidas para sincronização incremental. Todos os novos clientes serão integrados a esse conector na data de lançamento e nós o implementaremos gradualmente aos clientes existentes durante o período de lançamento do verão.
 
 **Atualizar dados para novos campos**: Agora é possível ativar novos campos de sincronização em qualquer momento e todos os valores de dados para esse campo serão atualizados do Dynamics CRM para o Marketo. Não há mais preocupações sobre a necessidade de selecionar todos os campos durante a configuração inicial. Se você desativar um campo de sincronização existente e reativá-lo posteriormente, todos os valores de dados para esse campo serão atualizados do Dynamics CRM para o Marketo.
 
-**Sincronizar lead como contato**: A ação de fluxo Sincronizar lead para a Microsoft tem uma nova opção para sincronizar como um lead ou contato.
+**Sincronizar lead como contato**: A ação de fluxo Sincronizar lead para o Microsoft tem uma nova opção para sincronizar como um lead ou contato.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Guia Admin** de Erros de Sincronização: Pesquise, pesquise ou exporte leads (e outros objetos) que não foram sincronizados com detalhes como operação, direção, código de erro e mensagem de erro.
+**Guia Admin Erros de Sincronização**: Pesquise, pesquise ou exporte leads (e outros objetos) que não foram sincronizados com detalhes como operação, direção, código de erro e mensagem de erro.
 
 ![](assets/sync-errors.png)
 
 **Microsoft Dynamics 2016**: O Connector é totalmente certificado para as versões online e local do Dynamics 2016.
 
-**As atualizações de plug-in agora estão documentadas:** consulte o artigo sobre atualizações de  [plug-in nos documentos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+**As Atualizações de plug-in agora estão documentadas:** Consulte a [artigo sobre atualizações de plug-in docs](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
 ## [Nome da Instância Amigável](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
@@ -98,4 +98,4 @@ Agora, é possível exibir o número de registros e campos para todos os objetos
 
 ## Atividades personalizadas {#custom-activities}
 
-Agora, os administradores do Marketo podem definir e gerenciar seus tipos de atividade personalizados por meio do modelador de Definição de atividade personalizada do Marketo. Assim como (e em conjunto com) o Marketo Custom Object Modeler, os administradores agora podem estender o modelo de dados para atender às necessidades exatas dos negócios. Detalhes sobre como usar essa funcionalidade estão disponíveis no [site de documentação do Marketo](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
+Agora, os administradores do Marketo podem definir e gerenciar seus tipos de atividade personalizados por meio do modelador de Definição de atividade personalizada do Marketo. Assim como (e em conjunto com) o Marketo Custom Object Modeler, os administradores agora podem estender o modelo de dados para atender às necessidades exatas dos negócios. Detalhes sobre como usar essa funcionalidade estão disponíveis no [Site de documentação do Marketo](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).

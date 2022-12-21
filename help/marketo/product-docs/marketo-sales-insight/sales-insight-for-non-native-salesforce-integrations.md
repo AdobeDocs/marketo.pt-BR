@@ -243,7 +243,7 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao Salesforce por meio de
       <td>Fonte do último momento interessante para o Líder</td> 
      </tr> 
      <tr> 
-      <td>priority</td> 
+      <td>prioridade</td> 
       <td><p>Rótulo: Envolvimento</p><p>Nome: Prioridade__c</p></td> 
       <td>Prioridade do cliente potencial</td> 
      </tr> 

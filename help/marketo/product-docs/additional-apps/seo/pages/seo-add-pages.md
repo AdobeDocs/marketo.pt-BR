@@ -3,7 +3,6 @@ unique-page-id: 2949216
 description: SEO - Adicionar páginas - Documentos do Marketo - Documentação do produto
 title: SEO - Adicionar páginas
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Você tem páginas! O SEO do Marketo rastreará automaticamente seu site e o rastreará. Caso tenha perdido alguns, coloque-os no aplicativo SEO da seguinte maneira:
 
-1. Vá para a seção **Pages**.
+1. Vá para o **Páginas** seção.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 

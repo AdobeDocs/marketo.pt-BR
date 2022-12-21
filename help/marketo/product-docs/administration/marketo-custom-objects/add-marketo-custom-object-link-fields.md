@@ -3,7 +3,6 @@ unique-page-id: 10097613
 description: Adicionar campos de link de objeto personalizado do Marketo - Documentos do Marketo - Documentação do produto
 title: Adicionar campos de link de objeto personalizado do Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '601'
@@ -22,7 +21,7 @@ Ao criar objetos personalizados, é necessário fornecer campos de link para con
 
 Veja como criar um campo de link em um objeto personalizado para uma estrutura de um para muitos.
 
-1. Clique em **Admin** e, em **Gerenciamento de Banco de Dados**, selecione **Marketo Custom Objects**.
+1. Clique em **Administrador** e em **Gerenciamento de banco de dados**, selecione **Objetos personalizados do Marketo**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -30,7 +29,7 @@ Veja como criar um campo de link em um objeto personalizado para uma estrutura d
 
    ![](assets/image2016-1-14-15-3a6-3a2.png)
 
-1. Na guia **Fields**, clique em **New Field**.
+1. No **Campos** clique em **Novo campo**.
 
    ![](assets/image2015-9-17-14-3a9-3a19.png)
 
@@ -72,7 +71,7 @@ Veja como criar um campo de link em um objeto intermediário para uso em uma est
 >
 >Você já deve ter criado o objeto intermediário e quaisquer objetos personalizados aos quais pretende vinculá-lo.
 
-1. Clique em **Admin** e, em **Gerenciamento de Banco de Dados**, selecione **Marketo Custom Objects**.
+1. Clique em **Administrador** e em **Gerenciamento de banco de dados**, selecione **Objetos personalizados do Marketo**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -80,7 +79,7 @@ Veja como criar um campo de link em um objeto intermediário para uso em uma est
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. Na guia **Fields**, clique em **New Field**.
+1. No **Campos** clique em **Novo campo**.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 

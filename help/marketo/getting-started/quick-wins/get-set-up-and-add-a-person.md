@@ -5,8 +5,8 @@ title: Configurar e adicionar uma pessoa
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 source-git-commit: 3e53e5b947755b1b1a8db2b2fc30e93ea6c362ec
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '214'
+ht-degree: 2%
 
 ---
 

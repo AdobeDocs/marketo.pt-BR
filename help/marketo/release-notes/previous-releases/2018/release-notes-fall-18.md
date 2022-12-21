@@ -24,7 +24,7 @@ Agora a personalização na Web oferece suporte a mais de uma área de trabalho
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Suporte** a Relâmpagos SFDC: Os usuários que migram para ou atualmente usam o Lightning podem aproveitar o MSE para obter um envolvimento mais inteligente na jornada do comprador.
+* **Suporte a Relâmpagos SFDC**: Os usuários que migram para ou atualmente usam o Lightning podem aproveitar o MSE para obter um envolvimento mais inteligente na jornada do comprador.
 
 * **Suporte expandido: Microsoft Office**
 
@@ -37,7 +37,7 @@ Agora a personalização na Web oferece suporte a mais de uma área de trabalho
 
 ## Marketo Sky {#marketo-sky}
 
-Para obter mais detalhes e atualizações, verifique as [Notas de versão do Sky](https://help.marketo.com).
+Para obter mais detalhes e atualizações, verifique nossa [Notas de versão do Sky](https://help.marketo.com).
 
 * **Atualizações do sistema de design**
 
@@ -50,12 +50,12 @@ Para obter mais detalhes e atualizações, verifique as [Notas de versão do Sky
 
    * Execute ações específicas (ou seja, inicie novos programas e campanhas inteligentes) e veja informações importantes sobre os programas atuais, como programas e campanhas programados para serem executados hoje, programas e ativos atualizados recentemente e o número total de campanhas ativas do acionador.
 
-* **Atualizações** do Design Studio: Recriamos a experiência do Design Studio para ajudá-lo a se mover mais rápido e ser mais produtivo.
+* **Atualizações do Design Studio**: Recriamos a experiência do Design Studio para ajudá-lo a se mover mais rápido e ser mais produtivo.
 * Página inicial do Design Studio: Crie novos ativos, arraste e solte imagens e arquivos e gerencie todos os ativos existentes.
 * Visualizações de lista do Design Studio: Agora, os usuários podem exibir modelos de landing page e modelos de email em formato de exibição em lista, permitindo a navegação rápida e ações em massa em um único tipo de ativo.
 * Páginas de detalhes do ativo do Design Studio: Economize tempo e dores de cabeça ao visualizar, organizar e executar ações em massa em todos os ativos em um único local.
 * **Programas padrão agora disponíveis no Marketo Sky**: O Marketo Sky agora é compatível com programas padrão, o estilo de programa versátil que permite criar qualquer campanha que você possa imaginar.
-* **Programas de email - Fase 1**: Agora você pode visualizar programas de email no Sky. Dê uma olhada no novo design e [nos informe o que você acha](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Programas de email - Fase 1**: Agora você pode visualizar programas de email no Sky. Dê uma olhada no novo design e [informe-nos o que você acha](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Análises {#analytics}
 
@@ -82,8 +82,8 @@ Para obter mais detalhes e atualizações, verifique as [Notas de versão do Sky
    * Configuração de ajuste da escala: O gráfico da barra de painel principal é mais facilmente legível para ajudar a comparar o desempenho do programa ao longo do tempo.
    * Ícone Alertas: O novo ícone de alertas exibe todos os alertas ativos relacionados a problemas de qualidade de dados e notificações de configuração.
 
-* **Participação por data** de atividade: Os usuários podem optar por exibir as métricas de Envolvimento por data de atividade ou período de custo.
-* **Filtros** de conta nomeados para ABM: Filtre os painéis Pipeline e Revenue por Contas Nomeadas específicas.
+* **Envolvimento por data da atividade**: Os usuários podem optar por exibir as métricas de Envolvimento por data de atividade ou período de custo.
+* **Filtros de conta nomeados para ABM**: Filtre os painéis Pipeline e Revenue por Contas Nomeadas específicas.
 
 ## Redes de publicidade {#ad-networks}
 

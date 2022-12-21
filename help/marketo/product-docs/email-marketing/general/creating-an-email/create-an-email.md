@@ -20,7 +20,7 @@ Há duas maneiras principais de criar um email no Marketo. Vamos olhar para ambo
 
    ![](assets/create-an-email-1.png)
 
-1. Clique no menu suspenso **New** e selecione **New Email**.
+1. Clique no botão **Novo** e selecione **Novo email**.
 
    ![](assets/create-an-email-2.png)
 
@@ -32,11 +32,11 @@ Simples! Por outro lado...
 
 ## Criar um email nas atividades de marketing {#create-an-email-in-marketing-activities}
 
-1. Vá para **Marketing Activities**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/create-an-email-3.png)
 
-1. Selecione o programa ao qual deseja adicionar o email, clique no menu suspenso **New** e selecione **New Local Asset**.
+1. Selecione o programa ao qual deseja adicionar o email e clique no botão **Novo** e selecione **Novo ativo local**.
 
    ![](assets/create-an-email-4.png)
 
@@ -54,13 +54,13 @@ Qualquer método que você escolher leva você ao seletor de modelo.
 
    >[!NOTE]
    >
-   >Você pode escolher em uma coleção de modelos de email responsivos prontos para uso ou um modelo salvo selecionando primeiro **Meus modelos** e seguindo as mesmas etapas.
+   >Você pode escolher de uma coleção de modelos de email responsivos prontos para uso ou um modelo salvo selecionando primeiro **Meus modelos** e seguindo as mesmas etapas.
 
 1. Informe uma linha de assunto. O limite de caracteres recomendado é 50.
 
    ![](assets/create-an-email-7.png)
 
-   Dependendo do modelo escolhido, você terá opções diferentes para editar seu email. Para emails com módulos, marque [Adicionar módulos ao seu email](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+   Dependendo do modelo escolhido, você terá opções diferentes para editar seu email. Para emails com módulos, faça check-out [Adicionar módulos ao seu email](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 Seu email foi criado, então edite-o!
 

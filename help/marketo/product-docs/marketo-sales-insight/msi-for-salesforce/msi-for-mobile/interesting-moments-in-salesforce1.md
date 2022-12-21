@@ -3,7 +3,6 @@ unique-page-id: 7511877
 description: Momentos interessantes no Salesforce1 - Documentos da Marketo - Documentação do produto
 title: Momentos interessantes em Salesforce1
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '88'
@@ -11,9 +10,9 @@ ht-degree: 2%
 
 ---
 
-# Momentos interessantes no Salesforce1 {#interesting-moments-in-salesforce}
+# Momentos interessantes em Salesforce1 {#interesting-moments-in-salesforce}
 
-[Usar um ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) momento interessante é a chave para se comunicar com sua equipe de vendas através do aplicativo Marketo Sales Insight. Agora, com o Marketo Sales Insight for Salesforce1, você pode fazer o mesmo com seu smartphone!
+[Uso de momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) é a chave para se comunicar com sua equipe de vendas por meio do aplicativo Marketo Sales Insight. Agora, com o Marketo Sales Insight for Salesforce1, você pode fazer o mesmo com seu smartphone!
 
 >[!AVAILABILITY]
 >
@@ -25,7 +24,7 @@ ht-degree: 2%
 
    ![](assets/one.png)
 
-1. Clique na guia **Relacionado** para ver Momentos interessantes, Atividade da Web, Email e Pontuação.
+1. Clique no botão **Relacionado** para ver Momentos interessantes, Atividade da Web, Email e Pontuação.
 
    ![](assets/two.png)
 

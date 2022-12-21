@@ -1,15 +1,14 @@
 ---
 unique-page-id: 7504218
-description: Relatórios RTP personalizados no Google Universal Analytics - Documentos do Marketing - Documentação do produto
+description: Relatórios RTP personalizados no Google Universal Analytics - Documentos do Marketo - Documentação do produto
 title: Relatórios RTP personalizados no Google Universal Analytics
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '386'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Relatórios RTP personalizados no Google Universal Analytics {#custom-rtp-reports-in-google-universal-analytics}
 
@@ -17,14 +16,14 @@ ht-degree: 0%
 >
 >[Integrar RTP ao Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-Este artigo explica como configurar relatórios personalizados RTP para o Google Universal Analytics (GUA).  Os dados enviados de RTP para GUA podem ser configurados como dois relatórios personalizados separados chamados:
+Este artigo explica como configurar relatórios personalizados RTP para o Google Universal Analytics (GUA).  Os dados enviados de RTP para GUA podem ser configurados como dois relatórios personalizados separados chamados de:
 
 * RTP B2B
-* Participação no RTP
+* Envolvimento RTP
 
-## Configuração de um Relatório Personalizado {#setting-up-a-custom-report}
+## Configuração de um relatório personalizado {#setting-up-a-custom-report}
 
-1. Efetue login em Google Analytics.
+1. Faça logon no Google Analytics.
 
 1. Clique em **Personalização** no menu superior.
 
@@ -34,35 +33,35 @@ Este artigo explica como configurar relatórios personalizados RTP para o Google
 
 ## Relatório RTP B2B {#rtp-b-b-report}
 
-1. Nomeie o relatório **Relatório RTP B2B**.
+1. Dê um nome ao relatório **Relatório RTP B2B**.
 
-1. Nomeie a 1ª guia **Industry**.
+1. Nomeie a primeira guia **Setor**.
 
 >[!NOTE]
 >
->Você **Duplicado essa guia** e cria outros semelhantes - etapa 5)
+>Você irá **Duplicar esta guia** e criar outros semelhantes - etapa 5)
 
-1. Selecione o tipo de relatório **Explorer**.
+1. Selecione o **Explorer** tipo de relatório.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. Na seção **Grupos de métricas**, selecione as métricas relevantes para seu negócio.
+1. No **Grupos de métricas** selecione as métricas relevantes para sua empresa.
 
    a. Recomendamos o seguinte:
 
    ![](assets/image2015-3-22-16-3a16-3a40.png)
 
-1. Duplicado esta guia 4 vezes e nomeie-as:
+1. Duplique esta guia 4 vezes e nomeie-a:
 
-   1. **Indústria**
-   1. **Grupo**
+   1. **Setor**
+   1. **Agrupar**
    1. **Categoria**
    1. **ABM**
    1. **Organizações**
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Na seção **Detalhamentos do Dimension** defina as dimensões relevantes para cada guia, como abaixo.
+1. No **Detalhamentos do Dimension** defina as dimensões relevantes para cada guia conforme abaixo.
 
 <table> 
  <thead> 
@@ -79,11 +78,11 @@ Este artigo explica como configurar relatórios personalizados RTP para o Google
  </thead> 
  <tbody> 
   <tr> 
-   <td>Indústria</td> 
+   <td>Setor</td> 
    <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>Grupo</td> 
+   <td>Agrupar</td> 
    <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -101,7 +100,7 @@ Este artigo explica como configurar relatórios personalizados RTP para o Google
  </tbody> 
 </table>
 
-1. Não defina nenhum filtros e defina esse relatório como disponível para **Todos os dados do site** (ou altere se for relevante para uma conta específica do Analytics).
+1. Não defina nenhum filtro e defina este relatório como disponível para **Todos os dados do site** (ou alterar se for relevante para uma conta específica do Analytics).
 
 1. Clique em **Salvar**.
 
@@ -109,33 +108,33 @@ Este artigo explica como configurar relatórios personalizados RTP para o Google
 
 ## Relatório de envolvimento RTP {#rtp-engagement-report}
 
-1. Nomeie o relatório **Relatório de envolvimento RTP**.
+1. Dê um nome ao relatório **Relatório de envolvimento RTP**.
 
-1. Defina o nome da primeira guia como **Todo o envolvimento**.
+1. Defina o nome da primeira guia como **Todos os Envolvimentos**.
 
 >[!NOTE]
 >
->Você vai Duplicado essa guia e criar outras semelhantes - etapa 5)
+>Você duplicará essa guia e criará outras semelhantes - etapa 5)
 
-1. Selecione o tipo de relatório **Explorer**.
+1. Selecione o **Explorer** tipo de relatório.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Na seção Grupos de métricas, selecione as métricas relevantes para seu negócio. Esta é uma recomendação:
+1. Na seção Grupos de métricas , selecione as métricas relevantes para sua empresa. Aqui está uma recomendação:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
-1. Duplicado esta guia 4 vezes e nomeie-as:
+1. Duplique esta guia 4 vezes e nomeie-a:
 
-   1. **Todos os envolvimentos**
-   1. **Envolvimento por setor**
+   1. **Todos os Envolvimentos**
+   1. **Envolvimento do setor**
    1. **Participação por grupo**
-   1. **Participação por Categoria**
-   1. **Participação por ABM**
+   1. **Envolvimento por categoria**
+   1. **Envolvimento do ABM**
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. Na seção **Detalhamentos do Dimension** defina as dimensões relevantes para cada guia, como a seguir:
+1. No **Detalhamentos do Dimension** seção defina as dimensões relevantes para cada guia conforme abaixo:
 
 <table> 
  <thead> 
@@ -152,15 +151,15 @@ Este artigo explica como configurar relatórios personalizados RTP para o Google
  </thead> 
  <tbody> 
   <tr> 
-   <td>Todos os envolvimentos</td> 
+   <td>Todos os Envolvimentos</td> 
    <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>Participação por ABM</td> 
+   <td>Envolvimento do ABM</td> 
    <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>Participação por Categoria</td> 
+   <td>Envolvimento por categoria</td> 
    <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -168,7 +167,7 @@ Este artigo explica como configurar relatórios personalizados RTP para o Google
    <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>Envolvimento por setor</td> 
+   <td>Envolvimento do setor</td> 
    <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
  </tbody> 
@@ -204,22 +203,22 @@ Este artigo explica como configurar relatórios personalizados RTP para o Google
  <tbody> 
   <tr> 
    <td><p>Incluir</p></td> 
-   <td><p>Categoria evento</p></td> 
-   <td>Regex</td> 
-   <td>RTP-Campanhas|RTP-Recommendations|RTP-Segmentos</td> 
+   <td><p>Categoria de eventos</p></td> 
+   <td>Expressão regular</td> 
+   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td> 
    <td colspan="1">Filtrará todos os outros eventos personalizados que não estão relacionados ao RTP</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td>Etiqueta do evento</td> 
-   <td>Regex</td> 
+   <td>Rótulo do evento</td> 
+   <td>Expressão regular</td> 
    <td>#</td> 
-   <td colspan="1">Permite filtrar da campanha dos relatórios usando # no nome da campanha</td> 
+   <td colspan="1">Permite que você filtre de sua campanha de relatórios usando # no nome da campanha</td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Defina esse relatório como disponível para **Todos os dados do site** (ou altere se necessário).
+1. Configure este relatório para estar disponível para **Todos os dados do site** (ou alterar, se necessário).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 

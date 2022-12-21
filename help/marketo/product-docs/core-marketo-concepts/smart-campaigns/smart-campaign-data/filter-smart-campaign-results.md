@@ -3,7 +3,6 @@ unique-page-id: 1147068
 description: Filtrar resultados de campanha inteligente - Documentos do Marketo - Documentação do produto
 title: Filtrar resultados de campanha inteligente
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
@@ -21,7 +20,7 @@ Filtre os resultados da campanha inteligente para ver atividades específicas qu
 
 ## Filtrar por filtros salvos {#filter-by-saved-filters}
 
-1. Na guia **Results** da campanha inteligente, clique em **Filter** e selecione um filtro salvo.
+1. Em sua campanha inteligente **Resultados** clique em **Filtro** e selecione um filtro salvo.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -31,7 +30,7 @@ Filtre os resultados da campanha inteligente para ver atividades específicas qu
 
 ## Criar um filtro personalizado {#create-a-custom-filter}
 
-1. Clique em **Filtro** e depois em **Personalizado**.
+1. Clique em **Filtro** e depois **Personalizado**.
 
    ![](assets/filterscustom-hands.png)
 
@@ -43,7 +42,7 @@ Filtre os resultados da campanha inteligente para ver atividades específicas qu
    >
    >Clique em **Aplicar** para aplicar diretamente um filtro personalizado aos resultados sem salvá-lo.
 
-1. Insira um nome de filtro e clique em **Save**.
+1. Insira um nome de filtro e clique em **Salvar**.
 
    ![](assets/saveasfilter-hands.png)
 

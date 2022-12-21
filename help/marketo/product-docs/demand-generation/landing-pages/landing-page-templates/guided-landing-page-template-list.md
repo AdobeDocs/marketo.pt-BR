@@ -3,9 +3,7 @@ unique-page-id: 7515616
 description: Lista de modelos de páginas de aterrissagem guiadas - Documentos do Marketo - Documentação do produto
 title: Lista de modelos de página inicial guiada
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
-hide: true
-hidefromtoc: true
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -18,17 +16,17 @@ Navegue pela nossa coleção de modelos de exemplo, para usar com o [Editor de p
 
 >[!NOTE]
 >
->O Suporte da Marketo não está configurado para auxiliar na solução de problemas em HTML. Se precisar de assistência para modificar qualquer um desses modelos, consulte um desenvolvedor da Web.
+>O Suporte da Marketo não está configurado para ajudar no HTML de solução de problemas. Se precisar de assistência para modificar qualquer um desses modelos, consulte um desenvolvedor da Web.
 
 Para importar um modelo para o Marketo:
 
 1. Clique no nome do modelo para uma exibição maior.
 1. Baixe o template escolhido.
 1. No Marketo, navegue até o **Design Studio.**
-1. Clique em **Landing Pages** na árvore da esquerda e selecione **Templates.**
+1. Clique em **Páginas de aterrissagem** na árvore da esquerda, selecione **Modelos.**
 
-1. Na barra de menus, clique em **Importar Modelo.**
-1. Escolha o arquivo baixado, insira um nome de modelo e clique em **Importar** (certifique-se de escolher um nome descritivo e indicar que o modo de edição é **Guiado**).
+1. Na barra de menus, clique em **Importar modelo.**
+1. Escolha o arquivo baixado, insira um nome de modelo e clique em **Importar** (selecione um nome descritivo e indique que o modo de edição é **Guiado**).
 
 |  |  |  |
 |---|---|---|

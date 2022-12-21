@@ -55,9 +55,9 @@ Clicar no ícone de adição (![—](assets/image2015-2-18-8-3a40-3a59.png)) abr
 
 >[!NOTE]
 >
->* As campanhas da Web de widget e diálogo podem usar as opções Qualquer página e curinga (*) .
-* Em casos de uso avançado, em campanhas da Web na Zona, é possível usar curingas no final do caminho do URL. Exemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
-* O URL diferencia maiúsculas e minúsculas
+>* Campanhas da Web de widget e diálogo podem usar Qualquer página e curinga (&#42;).
+>* Em casos de uso avançado, em campanhas da Web na Zona, é possível usar curingas no final do caminho do URL. Exemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* O URL diferencia maiúsculas e minúsculas
 
 
 ## Adicionar um URL de destino para campanhas da Web na zona {#adding-a-target-url-for-in-zone-web-campaigns}
@@ -73,12 +73,14 @@ Clicar no ícone de adição (![—](assets/image2015-2-18-8-3a40-3a59.png)) abr
 1. Adicione um **Nome da campanha**. Selecione um **Segmento de destino**. Adicionar **URL de destino**.
 
    >[!NOTE]
-   O URL de destino com Em regiões deve definir um URL ou URLs específicos. Em casos de uso avançado, em campanhas da Web na Zona, é possível usar curingas no final do caminho do URL. Exemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >
+   >O URL de destino com Em regiões deve definir um URL ou URLs específicos. Em casos de uso avançado, em campanhas da Web na Zona, é possível usar curingas no final do caminho do URL. Exemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
-* [Criar uma campanha de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Criar uma Campanha RTP na Zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Criar uma campanha de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>
+>* [Criar uma campanha de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Criar uma Campanha RTP na Zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Criar uma campanha de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 

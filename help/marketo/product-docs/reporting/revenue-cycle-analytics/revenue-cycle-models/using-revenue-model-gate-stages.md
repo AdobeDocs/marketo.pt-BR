@@ -1,31 +1,30 @@
 ---
 unique-page-id: 4718670
-description: Uso de etapas do portão do modelo de receita - Documentos do Marketo - Documentação do produto
-title: Usando Estágios de Portas de Modelo de Receita
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Uso dos estágios do portão do modelo de receita - Documentos da Marketo - Documentação do produto
+title: Usando Estágios de Portas do Modelo de Receita
+exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
-
 # Usando Estágios de Portas do Modelo de Receita {#using-revenue-model-gate-stages}
 
-Um estágio de porta serve como uma verificação de qualificação.
+Um estágio de porta serve como verificação de qualificação.
 
 >[!TIP]
 >
->É uma ótima ideia criar um modelo de prática em um programa gráfico ou de apresentação e confirmá-lo com seus colegas.
+>É uma ótima ideia criar um modelo de prática em um programa de gráficos ou apresentação e confirmá-lo com seus colegas.
 
-## Adicionar Um Estágio De Portão {#add-a-gate-stage}
+## Adicionar Um Estágio De Porta {#add-a-gate-stage}
 
-1. Vá para a área **Analytics**.
+1. Vá para o **Analytics** área.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Selecione um modelo existente ou [crie um novo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Selecione um modelo existente ou [criar um novo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
@@ -33,7 +32,7 @@ Um estágio de porta serve como uma verificação de qualificação.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Clique no botão **Porta** e arraste e solte em qualquer lugar na tela.
+1. Clique no botão **Portão** , em seguida, arraste e solte em qualquer lugar na tela.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
@@ -41,49 +40,49 @@ Um estágio de porta serve como uma verificação de qualificação.
 
    >[!NOTE]
    >
-   >Selecione [Rastreamento de Start por Conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) neste momento para obter informações sobre o desempenho das suas contas à medida que elas avançam pelo seu modelo.
+   >Selecionar [Iniciar rastreamento por conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) neste momento, para obter informações sobre o desempenho de suas contas à medida que elas avançam no seu modelo.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
 >[!NOTE]
 >
->O Palco de Portas divide os clientes em potencial com base nos critérios inseridos nas regras de transição; **não contém informações privilegiadas**. Uma transição padrão é necessária para que os clientes em potencial que não são escolhidos pelas outras transições acabem passando pelo padrão.
+>O Palco de Portas divide leads com base nos critérios inseridos nas regras de transição; **não mantém leads**. Uma transição padrão é necessária para que os leads que não são escolhidos pelas outras transições acabem passando pelo padrão.
 
-## Editar um Palco de Portas {#edit-a-gate-stage}
+## Editar um palco da porta {#edit-a-gate-stage}
 
-Edite o Nome, a Descrição e ajuste o estágio Tipo do portão. Você também pode optar por [Rastreamento de Start por Conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Edite o Nome, a Descrição e ajuste o Tipo do estágio da Porta. Você também pode optar por [Iniciar rastreamento por conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Clique em um ícone de estágio **Porta**.
+1. Clique em um **Portão** ícone de palco.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
-1. Clique nos campos **Nome** e **Descrição** para editar o conteúdo.
+1. Clique no botão **Nome** e **Descrição** campos para editar seu conteúdo.
 
    ![](assets/image2015-4-28-12-3a17-3a22.png)
 
-1. Selecione o menu suspenso **Tipo** para editar.
+1. Selecione o **Tipo** menu suspenso para editar.
 
    ![](assets/image2015-4-27-17-3a14-3a7.png)
 
-## Excluir Um Estágio De Portão {#delete-a-gate-stage}
+## Excluir Um Estágio De Porta {#delete-a-gate-stage}
 
-1. Você pode excluir um Palco de Portas clicando com o botão direito do mouse no ícone do palco de Portas e selecionando **Excluir**.
+1. Você pode excluir um Estágio de Porta clicando com o botão direito do mouse no ícone Estágio de Porta e selecionando **Excluir**.
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. Você também pode excluir um estágio de Portão clicando nele e, em seguida, no menu suspenso **Ações do palco**, selecionando **Excluir**.
+1. Você também pode excluir um estágio de Porta clicando nele e depois no **Ações de preparo** lista suspensa, seleção **Excluir**.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. Ambos os métodos de exclusão solicitam que você confirme sua escolha. Clique em **Excluir**.
+1. Ambos os métodos de exclusão pedem que você confirme sua escolha. Clique em **Excluir**.
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 
-Parabéns! Agora vocês entendem o maravilhoso mundo dos Gate Stages.
+Parabéns! Agora vocês entendem o maravilhoso mundo dos Portos.
 
 >[!MORELIKETHIS]
 >
 >* [Usando Estágios de Inventário do Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
->* [Usando Estágios de SLA de Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
->* [Criar um novo modelo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md) de receita.
+>* [Usando Estágios de SLA do Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Criar um novo modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 

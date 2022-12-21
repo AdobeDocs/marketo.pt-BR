@@ -57,14 +57,14 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="25" src="assets/share-to.png"> 
+     <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">A pasta de origem que você compartilhou com outro espaço de trabalho</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" width="25" src="assets/share-from.png"> 
+     <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
    <td colspan="1">Pasta de destino que foi compartilhada de outro espaço de trabalho <br>(cadeado indica que não é possível fazer edições)</td> 
   </tr> 
@@ -92,7 +92,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
+     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
    <td colspan="1">Gatilho</td> 
   </tr> 
@@ -415,7 +415,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" src="assets/hs-icon.png" title="—"> 
+     <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
    <td colspan="1">Programa de email agendado com Início do cabeçalho</td> 
   </tr> 

@@ -3,7 +3,6 @@ unique-page-id: 2953352
 description: Editar entradas diretamente no calendário de marketing - Documentos do Marketo - Documentação do produto
 title: Editar entradas diretamente no calendário de marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
@@ -15,7 +14,7 @@ ht-degree: 1%
 
 Uma vez no modo de foco do programa, você pode fazer alterações rapidamente nas entradas do calendário. Veja como.
 
-## Ativar o foco do programa {#enable-program-focus}
+## Ativar foco do programa {#enable-program-focus}
 
 1. Vá para o **Calendário**.
 
@@ -47,7 +46,7 @@ Uma vez no modo de foco do programa, você pode fazer alterações rapidamente n
    >
    >![](assets/image2014-10-20-13-3a16-3a56.png)
 
-## Converter Tipo de Entrada {#convert-entry-type}
+## Converter tipo de entrada {#convert-entry-type}
 
 Depois que você rapidamente clicar em suas entradas básicas, é possível convertê-las em seu formulário final.
 
@@ -55,7 +54,7 @@ Depois que você rapidamente clicar em suas entradas básicas, é possível conv
 
    ![](assets/image2014-10-20-13-3a18-3a38.png)
 
-## Editar Detalhes de Entrada {#edit-entry-details}
+## Editar detalhes de entrada {#edit-entry-details}
 
 Você pode obter acesso rapidamente a diferentes áreas de suas entradas para edição.
 

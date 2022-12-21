@@ -3,7 +3,6 @@ unique-page-id: 4719283
 description: Noções básicas sobre a sincronização do Salesforce - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre a sincronização do Salesforce
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '219'
@@ -40,6 +39,6 @@ A sincronização entre o Salesforce e o Marketo é bidirecional apenas para cam
 
 >[!NOTE]
 >
->As credenciais [inseridas no Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) são usadas para sincronizar dados. Somente os dados aos quais essas credenciais têm acesso serão incluídos.
+>O [credenciais inseridas no Marketo para o Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) são usadas para sincronizar dados. Somente os dados aos quais essas credenciais têm acesso serão incluídos.
 
 A sincronização Marketo com Salesforce é a mais poderosa do seu tipo no mundo. Parece mágica. é feita uma mudança e o outro sistema está em breve atualizado.

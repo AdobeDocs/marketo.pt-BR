@@ -3,7 +3,6 @@ unique-page-id: 9437991
 description: Triggers e filtros para campanhas inteligentes de dispositivos móveis - Documentos do Marketo - Documentação do produto
 title: Acionadores e filtros para campanhas inteligentes móveis
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '818'
@@ -15,7 +14,7 @@ ht-degree: 1%
 
 Você pode configurar acionadores e filtros para uma campanha inteligente de aplicativo móvel.
 
-Para a maioria das atividades, há um acionador, um filtro e um filtro de inatividade. Use filtros de inatividade para rastrear uma ação, como tocar em uma notificação por push, que *não* ocorreu.
+Para a maioria das atividades, há um acionador, um filtro e um filtro de inatividade. Use filtros de inatividade para rastrear uma ação, como tocar em uma notificação por push, que *did&#39;t* aconteça.
 
 * O Aplicativo Móvel Está/Foi Instalado
 * O Aplicativo Móvel Foi/Foi Aberto
@@ -27,7 +26,7 @@ Há apenas filtros para esta atividade:
 
 * Notificação por push enviada - filtro e filtro de inatividade
 
-Procure por **aplicativo móvel** no painel direito para listar todos os acionadores e filtros do aplicativo móvel.
+Procurar por **aplicativo móvel** no painel direito para listar todos os acionadores e filtros do aplicativo móvel.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
@@ -57,9 +56,9 @@ Alguns acionadores e filtros oferecem restrições adicionais, como:
 
 * Duração da sessão (segundos) - Hora da sessão em que o aplicativo está em primeiro plano
 
-* Is Push Enabled - **True** significa que as notificações por push podem ser enviadas. **** Falemas que não podem; por exemplo, a pessoa pode ter optado por não receber notificações por push
+* Está habilitado para push - **Verdadeiro** significa que as notificações por push podem ser enviadas. **Falso** significa que não podem; por exemplo, a pessoa pode ter optado por não receber notificações por push
 
-## Acionadores e filtros {#triggers-and-filters}
+## Triggers e filtros {#triggers-and-filters}
 
 **Tem aplicativo móvel**
 
@@ -103,7 +102,7 @@ O Aplicativo Móvel Foi/Foi Aberto
 
 Possui/teve atividade de aplicativo móvel
 
-Eles fornecem uma maneira poderosa de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento [para Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [para iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Eles fornecem uma maneira poderosa de rastrear atividades móveis personalizadas. Você precisará trabalhar com o desenvolvedor para configurar o rastreamento [para Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [para iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
 * Possui atividade de aplicativo móvel - acionador
 
@@ -129,7 +128,7 @@ As restrições de Ação permitem usar o acionador e os filtros para rastrear a
 >
 >**Exemplo**
 >
->No tipo de ação *Compras*, aqui está uma ação muito específica, com as outras restrições definindo-a:
+>Sob o tipo de ação de *Compras*, aqui está uma ação muito específica, com as outras restrições definindo-a:
 >
 >* Comprou uma camisa
    >   * Era vermelho
@@ -182,7 +181,7 @@ Notificações por push com toques/toques
 >
 >Use o filtro de inatividade Notificação por push não mapeada para encontrar pessoas que não tocaram em uma notificação por push enviada recentemente para elas, para que você possa acompanhar por email.
 
-**Foi enviada** notificação por push. Essa atividade só está disponível como filtro.
+**Foi Enviada Notificação Por Push** Essa atividade está disponível somente como filtro.
 
 * Notificação por push enviada - filtro
 

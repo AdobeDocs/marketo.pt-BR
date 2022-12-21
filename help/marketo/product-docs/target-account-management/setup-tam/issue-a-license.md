@@ -2,16 +2,15 @@
 unique-page-id: 11380771
 description: Emita uma licença - Documentos do Marketo - Documentação do produto
 title: Emitir uma licença
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
-# Emita uma licença {#issue-a-license}
+# Emitir uma licença {#issue-a-license}
 
 Você precisará configurar usuários com uma licença para usar o TAM. Aqui está como fazer isso.
 
@@ -19,15 +18,15 @@ Você precisará configurar usuários com uma licença para usar o TAM. Aqui est
 >
 >O número de licenças disponíveis varia com base na sua assinatura. Se precisar de mais, entre em contato com seu representante de vendas.
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/issue-a-license-1.png)
 
-1. Clique em **Usuários e funções**. Selecione o usuário para emitir a licença, clique no menu suspenso **Emitir licença** e selecione **Gerenciamento de conta do Target**.
+1. Clique em **Usuários e funções**. Selecione o usuário para o qual emitir a licença e clique no botão **Emitir licença** e selecione **Gerenciamento de conta do Target**.
 
    ![](assets/issue-a-license-2.png)
 
-1. Marque a caixa de seleção **Ativar licença** e clique em **Salvar**.
+1. Verifique a **Habilitar licença** caixa de seleção e clique em **Salvar**.
 
    ![](assets/issue-a-license-3.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 1147148
 description: Excluir um programa - Documentos do Marketo - Documentação do produto
 title: Excluir um programa
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
@@ -19,7 +18,7 @@ Você pode arquivar um programa, mas às vezes você só quer se livrar dele per
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Clique em **Ações do Programa**. Clique em **Excluir**.
+1. Clique em **Ações do programa**. Clique em **Excluir**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
@@ -27,11 +26,11 @@ Você pode arquivar um programa, mas às vezes você só quer se livrar dele per
 
 >[!TIP]
 >
->**O arquivamento de** programas ignora os dados do programa, mas o coloca fora de seu caminho. Selecione essa opção e clique em **Next** para ver mais detalhes sobre o arquivamento.
+>**Arquivamento de programas** mantém os dados do programa, mas o coloca fora de seu caminho. Selecione essa opção e clique em **Próximo** para ver mais detalhes sobre arquivamento.
 
 ![](assets/2017-05-05-15-04-15.png)
 
-Pronto. É como se o programa nunca existisse.
+Feito. É como se o programa nunca existisse.
 
 ## Por que não posso excluir meu programa? {#why-cant-i-delete-my-program}
 

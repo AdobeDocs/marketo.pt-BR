@@ -1,17 +1,16 @@
 ---
 unique-page-id: 13795510
-description: Hierarquias TAM - Documentos do Marketo - Documentação do produto
+description: Hierarquias de TAM - Documentos do Marketo - Documentação do produto
 title: Hierarquias de TAM
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-
-# Hierarquias TAM {#tam-hierarchies}
+# Hierarquias de TAM {#tam-hierarchies}
 
 As hierarquias dão aos usuários da TAM a capacidade de herdar os relacionamentos pai/filho entre Contas Nomeadas em seu CRM.
 
@@ -33,7 +32,7 @@ Com Hierarquias de TAM, você pode obter rapidamente informações sobre toda um
 
 >[!NOTE]
 >
->A interface do Marketo será exibida somente em até 10 níveis abaixo (contas-filho e netos da conta-pai), no entanto, não há limite para o número de contas-filho que você pode criar.
+>A interface do Marketo só mostrará até 10 níveis abaixo (contas filho e netos da conta pai), no entanto, não há limite para o número de contas filho que você pode criar.
 
 Direcione e gere relatórios sobre hierarquias inteiras com [um clique](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 

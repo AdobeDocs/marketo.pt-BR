@@ -28,20 +28,20 @@ As notificações mantêm você atualizado sobre os eventos do sistema que acont
 
 Você pode assinar notificações para recebê-las em seu email.
 
-1. Vá para Notificações e clique em **Subscribe**.
+1. Vá para Notificações e clique em **Assinar**.
 
    ![](assets/understanding-notifications-3.png)
 
-1. Selecione o Tipo de notificação e insira os endereços de email para os quais deseja que as notificações sejam enviadas (separados por vírgula). Clique em **Assinar** quando terminar.
+1. Selecione o Tipo de notificação e insira os endereços de email para os quais deseja que as notificações sejam enviadas (separados por vírgula). Clique em **Assinar** quando concluído.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->A área **enviar para** é somente para que você insira seu email. Ela não mostrará uma lista de assinantes existentes.
+>O **enviar para** Essa área é somente para que você insira seu email. Ela não mostrará uma lista de assinantes existentes.
 
 Em alguns casos, uma notificação fornece um link &quot;Ver a lista completa&quot; para baixar um arquivo CSV (valores separados por vírgula), por exemplo, o arquivo de Erros de sincronização do Microsoft Dynamics. O Marketo mantém esses arquivos CSV por 30 dias. Se tentar baixar o arquivo após 30 dias, ocorrerá um erro 404.
 
 >[!TIP]
 >
->Deseja cancelar a assinatura dos emails de notificação? Sem problemas. Basta clicar no link **unsubscribe from Notifications** na parte inferior do email.
+>Deseja cancelar a assinatura dos emails de notificação? Sem problemas. Basta clicar no botão **cancelar inscrição das notificações** na parte inferior do email.

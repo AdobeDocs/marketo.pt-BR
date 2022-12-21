@@ -38,7 +38,7 @@ A seção de email oferece uma visualização de pássaros em todos os emails e 
  </tr>
  <tr>
   <th rowspan="3">Pendente</th>
-  <td>Programado</td>
+  <td>Agendado</td>
   <td>Emails que estão agendados para sair. Depois que um email for enviado, ele será movido para a pasta de entrega.</td>
  </tr>
  <tr>

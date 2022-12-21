@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359488
-description: Relatórios de e-mail de grupo por segmentações - Documentos de marketing - Documentação do produto
-title: Relatórios de email de grupo por segmentação
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Relatórios de email do grupo por segmentos - Documentos do Marketo - Documentação do produto
+title: Relatórios de email do grupo por segmentos
+exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
-
-# Relatórios de email de grupo por segmentações {#group-email-reports-by-segmentations}
+# Relatórios de email do grupo por segmentos {#group-email-reports-by-segmentations}
 
 As segmentações não são apenas para conteúdo dinâmico. Você também pode agrupar seu relatório de desempenho de email por segmentações.
 
@@ -19,23 +18,23 @@ As segmentações não são apenas para conteúdo dinâmico. Você também pode 
 >
 >[Aprovar uma segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Vá para a área **Atividades de marketing** (ou **Analytics**).
+1. Vá para o **Atividades de marketing** ou **Analytics**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Selecione seu relatório **Desempenho do email**.
+1. Selecione seu **Desempenho de email** relatório.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Clique na guia **Configuração** e arraste sobre **Agrupar por segmentações**.
+1. Clique no botão **Configuração** tabulação e arrastar **Agrupar por segmentos**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Escolha uma ou duas segmentações para usar no agrupamento do relatório. Clique em **Aplicar**.
+1. Escolha uma ou duas segmentações a serem usadas para agrupar seu relatório. Clique em **Aplicar**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. É isso! Clique na guia **Relatório**. Se você usar uma segmentação, seu relatório mostrará uma linha para cada segmento.
+1. Pronto! Clique no botão **Relatório** guia . Se você usar uma segmentação, seu relatório mostrará uma linha para cada segmento.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

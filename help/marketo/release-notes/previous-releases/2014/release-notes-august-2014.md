@@ -16,7 +16,7 @@ Os seguintes recursos estão incluídos na versão de agosto de 2014. Verifique 
 
 ## Licenças de calendário de marketing {#marketing-calendar-licenses}
 
-Após 5 de setembro de 2014, apenas 5 usuários poderão ter acesso gratuito ao calendário de marketing. Certifique-se de [Emitir/Revogar uma Licença de Calendário de Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para os usuários de sua escolha antes disso para obter acesso ininterrupto.
+Após 5 de setembro de 2014, apenas 5 usuários poderão ter acesso gratuito ao calendário de marketing. Certifique-se de [Emitir/Revogar uma Licença de Calendário de Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) aos usuários de sua escolha antes disso para acesso ininterrupto.
 
 ![--](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -34,7 +34,7 @@ As novas permissões de usuário a seguir foram adicionadas:
 
 ## Exportar usuários e funções do administrador {#export-users-and-roles-from-admin}
 
-Agora é possível [Exportar uma lista de usuários e funções](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) do Marketo. Você também pode incluir um carimbo de data e hora de &quot;Último logon&quot; para ser incluído na exportação.
+Agora você pode [Exportar uma lista de usuários e funções](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) do Marketo. Você também pode incluir um carimbo de data e hora de &quot;Último logon&quot; para ser incluído na exportação.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 

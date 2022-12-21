@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359876
-description: Substitua uma imagem ou um arquivo carregado - Documentos do Marketo - Documentação do produto
+description: Substituir uma imagem ou arquivo carregado - Documentos do Marketo - Documentação do produto
 title: Substituir uma imagem ou um arquivo carregado
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Substituir uma imagem ou um arquivo carregado {#replace-an-uploaded-image-or-file}
 
@@ -25,19 +24,19 @@ ht-degree: 0%
    >
    >Você também pode [pesquisar imagens ou arquivos carregados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
 
-1. Clique em **Ações de arquivo** e selecione **Substituir imagem ou Arquivo**.
+1. Clique em **Ações do arquivo** e selecione **Substituir imagem ou arquivo**.
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
-1. Navegue até o arquivo no computador que substituirá o arquivo atual e selecione-o.
+1. Navegue até o arquivo no seu computador que substituirá o arquivo atual e selecione-o.
 
    ![](assets/image2014-9-16-11-3a22-3a2.png)
 
    >[!NOTE]
    >
-   >Se você não conseguir selecionar um arquivo de uma pasta compartilhada, salve-o no disco rígido e escolha-o dali.
+   >Se você não conseguir selecionar um arquivo de uma pasta compartilhada, salve-o no disco rígido e escolha-o.
 
-1. Verifique se o arquivo exibido ao lado de **Choose File** está correto e clique em **Replace**.
+1. Verifique se o arquivo é exibido ao lado de **Escolher arquivo** está correto e, em seguida, clique em **Substituir**.
 
    ![](assets/image2014-9-16-11-3a22-3a12.png)
 

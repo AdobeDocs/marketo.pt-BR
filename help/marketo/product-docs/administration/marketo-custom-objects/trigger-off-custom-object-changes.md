@@ -3,7 +3,6 @@ unique-page-id: 11378713
 description: Acionador de alterações no objeto personalizado - Documentos do Marketo - Documentação do produto
 title: Acionar Alterações no Objeto Personalizado
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
@@ -20,18 +19,16 @@ ht-degree: 0%
 >* Para clientes na infraestrutura Orion
 >* Para uso somente com objetos personalizados do Marketo, não objetos personalizados sincronizados por meio da integração nativa do Salesforce ou do Microsoft Dynamics
 >* Como acionador, não um filtro
-
 >
->
-Entre em contato com o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para ativar os Acionadores de alteração de objeto personalizado.
+>Entre em contato [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para ativar os Acionadores de alteração de objeto personalizado.
 
-Na lista inteligente de uma campanha inteligente, é possível acionar uma ação de fluxo quando um objeto personalizado é adicionado a uma pessoa ou empresa. Você também pode criar uma lista inteligente que usa uma *change* em um objeto personalizado como acionador. Por exemplo, use-o para enviar um email quando o nome de um curso for atualizado.
+Na lista inteligente de uma campanha inteligente, é possível acionar uma ação de fluxo quando um objeto personalizado é adicionado a uma pessoa ou empresa. Você também pode criar uma lista inteligente que use uma *alterar* em um objeto personalizado como acionador. Por exemplo, use-o para enviar um email quando o nome de um curso for atualizado.
 
 >[!NOTE]
 >
 >Uma entrada do log de atividades não é criada quando um registro de objeto personalizado é alterado.
 
-1. No Marketo, vá para **Marketing Activities.**
+1. No Marketo, acesse **Atividades de marketing.**
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 

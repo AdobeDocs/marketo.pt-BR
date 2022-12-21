@@ -3,7 +3,6 @@ unique-page-id: 1146987
 description: Excluir uma etapa do fluxo - Documentos do Marketo - Documentação do produto
 title: Excluir uma etapa do fluxo
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Excluir uma Etapa de Fluxo {#delete-a-flow-step}
+# Excluir uma etapa do fluxo {#delete-a-flow-step}
 
 >[!CAUTION]
 >
->A remoção de etapas de fluxo, _especialmente etapas de espera_ de campanhas inteligentes ativas, pode ter resultados inesperados. **Leia este artigo cuidadosamente.**
+>Remoção das etapas do fluxo, _especialmente etapas de espera_ de campanhas inteligentes ativas, pode ter resultados inesperados. **Leia este artigo cuidadosamente.**
 
 Primeiro vamos fazer o básico. Veja como remover uma etapa de fluxo indesejado de uma campanha inteligente. 1. No Fluxo da campanha inteligente, clique no ícone X para excluir qualquer etapa do fluxo.
 
@@ -29,7 +28,7 @@ Primeiro vamos fazer o básico. Veja como remover uma etapa de fluxo indesejado 
 
    >[!CAUTION]
    >
-   >Excluir, adicionar e mover etapas dentro de uma campanha **ativa** definitivamente pode ter resultados inesperados. Considere a criação de uma nova campanha, o teste e a troca.
+   >Como excluir, adicionar e mover etapas dentro de um **ative** campanha pode definitivamente ter resultados inesperados. Considere a criação de uma nova campanha, o teste e a troca.
 
    As alterações podem ser feitas em uma campanha ativa, mas podem ter consequências imprevistas. Veja os detalhes:
 
@@ -59,11 +58,11 @@ Primeiro vamos fazer o básico. Veja como remover uma etapa de fluxo indesejado 
       >    * ETAPA 2. Aguardar 1 semana
       >    * ETAPA 3. Enviar Email nº 2
    >
-   >1. As pessoas que acessarem a **Etapa 2** aguardarão 1 semana antes de passar para **Etapa 3**.
+   >1. Pessoas que acessaram **Etapa 2** esperará 1 semana antes de passar para o **Etapa 3**.
    >1. Você exclui **Etapa 2** durante a semana.
    >1. As pessoas continuarão esperando a 1 semana. (Elas não retornam automaticamente ao fluxo.)
-   >1. Quando eles finalmente retornarem, eles tentarão ir para a **Etapa 3**. Eles não vão encontrá-lo.
-   >1. **IMPORTANTE:** como agora há apenas 2 etapas, as  *pessoas não receberão o Email nº 2.*
+   >1. Quando finalmente voltarem, tentarão ir para **Etapa 3**. Eles não vão encontrá-lo.
+   >1. **IMPORTANTE:** Como agora há apenas 2 etapas, a variável *as pessoas não receberão o Email nº 2.*
 
 
 Fazendo alterações em uma campanha ativa

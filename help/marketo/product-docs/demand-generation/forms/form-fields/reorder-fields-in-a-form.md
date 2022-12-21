@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359592
-description: Reordenar campos em um formulário - Documentos do marketing - Documentação do produto
+description: Reordenar campos em um formulário - Documentos do Marketo - Documentação do produto
 title: Reordenar campos em um formulário
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # Reordenar campos em um formulário {#reorder-fields-in-a-form}
 
-É fácil reordenar os campos em um formulário de marketing. Veja como.
+É fácil reordenar os campos em um formulário Marketo. Veja como.
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,6 +28,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Também é possível arrastar e soltar os campos ao lado um do outro. Isso permite que você crie colunas!
+>Também é possível arrastar e soltar os campos próximos um do outro. Isso permite criar colunas!
 
-Ótimo trabalho! Você está fazendo essa coisa.
+Muito bem! Você está enrolando essa coisa.

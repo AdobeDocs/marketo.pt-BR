@@ -3,7 +3,6 @@ unique-page-id: 2360309
 description: Noções básicas sobre espaços de trabalho e partições de pessoa - Documentos do Marketo - Documentação do produto
 title: Como entender espaços de trabalho e partições de pessoa
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
@@ -17,7 +16,7 @@ ht-degree: 3%
 
 >[!CAUTION]
 >
->Os espaços de trabalho podem ser complexos para configuração. Entre em contato com o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para descobrir se eles são adequados para você.
+>Os espaços de trabalho podem ser complexos para configuração. Contato [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para descobrir se são adequadas para você.
 
 Os espaços de trabalho são áreas separadas no Marketo que contêm ativos de marketing, como programas, páginas de aterrissagem, emails e muito mais. Eles podem ser usados por várias pessoas. Cada usuário tem acesso a um ou mais espaços de trabalho.
 
@@ -29,10 +28,8 @@ Os espaços de trabalho são áreas separadas no Marketo que contêm ativos de m
 >
 >* Geografia: Os departamentos de marketing da Europa, Ásia e América do Norte recebem cada um um um espaço de trabalho
 >* Unidade de negócios: Cada um recebe um espaço de trabalho rápido, Quickbooks e TurboTax
-
 >
->
-Em cada caso, a separação ocorre porque os ativos de marketing são completamente diferentes. Se eles compartilharem ativos de marketing, os espaços de trabalho podem não ser a ferramenta correta para você.
+>Em cada caso, a separação ocorre porque os ativos de marketing são completamente diferentes. Se eles compartilharem ativos de marketing, os espaços de trabalho podem não ser a ferramenta correta para você.
 
 >[!NOTE]
 >
@@ -78,7 +75,7 @@ Você pode compartilhar esses itens em espaços de trabalho.
 * Campanhas inteligentes
 * [Listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
 * [Segmentações](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-* Bl. conteúdo
+* Blocos de conteúdo
 
 ## Clonagem em espaços de trabalho {#cloning-across-workspaces}
 
@@ -103,9 +100,9 @@ Para mover ativos para um novo espaço de trabalho, coloque-os em uma pasta e ar
 
 ## Partições de pessoas {#person-partitions}
 
-As partições de pessoa atuam como bancos de dados separados. Cada partição tem seu próprio pessoal que não desduplica nem se mistura com outras partições. Se você achar que tem um caso de uso comercial que pode exigir registros duplicados com o mesmo endereço de email, entre em contato com o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+As partições de pessoa atuam como bancos de dados separados. Cada partição tem seu próprio pessoal que não desduplica nem se mistura com outras partições. Se você achar que tem um caso de uso comercial que pode exigir registros duplicados com o mesmo endereço de email, entre em contato com [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-Você pode atribuir partições de pessoa a [espaços de trabalho](create-a-new-workspace.md) nas seguintes configurações:
+É possível atribuir partições de pessoas a  [espaços de trabalho](create-a-new-workspace.md) nas seguintes configurações:
 
 * um espaço de trabalho para uma partição de pessoa (1:1)
 * um espaço de trabalho para várias partições de pessoa (1:x)

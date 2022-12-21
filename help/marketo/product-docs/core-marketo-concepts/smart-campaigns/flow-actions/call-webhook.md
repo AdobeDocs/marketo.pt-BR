@@ -3,11 +3,10 @@ unique-page-id: 1147023
 description: Chame o Webhook - Documentos do Marketo - Documentação do produto
 title: Chamar webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -29,7 +28,7 @@ Os Webhooks permitem que você interaja com serviços de terceiros. Envie/receba
 
 ## Uso {#usage}
 
-Selecione um **Webhook** no menu suspenso.
+Selecione um **Webhook** no menu suspenso .
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 

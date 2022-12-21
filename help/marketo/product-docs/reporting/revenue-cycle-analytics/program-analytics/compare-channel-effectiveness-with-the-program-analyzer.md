@@ -1,57 +1,56 @@
 ---
 unique-page-id: 2360401
-description: Compare a eficácia do Canal com o analisador de Programas - Documentos de marketing - Documentação do produto
-title: Compare a eficácia do Canal com o analisador de Programas
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Compare a eficácia do canal com o Analisador de programas - Documentos da Marketo - Documentação do produto
+title: Compare a eficácia do canal com o analisador de programas
+exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
 
+# Compare a eficácia do canal com o analisador de programas {#compare-channel-effectiveness-with-the-program-analyzer}
 
-# Compare a eficácia do Canal com o analisador de Programas {#compare-channel-effectiveness-with-the-program-analyzer}
-
-Use o Analisador de Programas para comparar os custos de canais, aquisição de membros, pipeline, receita e muito mais, para identificar seus canais mais eficazes e menos eficazes.
+Use o Analisador de programas para comparar os custos do canal, a aquisição de membros, o pipeline, a receita e muito mais, para identificar seus canais mais e menos eficazes.
 
 >[!PREREQUISITES]
 >
->[Criar um analisador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Criar um analisador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Clique em **Analytics** em **Meu mercado**.
+1. Clique em **Analytics** em **Meu Marketo**.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Selecione seu **Analisador de Programas**.
+1. Selecione seu **Analisador de programas**.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Altere a Visualização para **By Canal**.
+1. Alterar a Exibição para **Por canal**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. Use o menu suspenso **Eixo X** para escolher uma métrica para o eixo horizontal. Vamos start com **Custo do Programa**.
+1. Use o **Eixo X** menu suspenso para escolher uma métrica para o eixo horizontal. Vamos começar com **Custo do Programa**.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Use o menu suspenso Eixo Y para escolher uma métrica para o eixo vertical. Aqui, iremos com o **(FT) Pipeline Criado**.
+1. Use o menu suspenso Eixo Y para escolher uma métrica para o eixo vertical. Aqui, vamos com **(FT) Pipeline criado**.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Muitas das métricas que você pode escolher no analisador de programas estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante entender a diferença [entre a atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Muitas das métricas que você pode escolher no analisador de programas estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante entender a variável [diferença entre atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Use o menu suspenso **Eixo Y** para escolher **(MT) Pipeline criado**.
+1. Use o **Eixo Y** menu suspenso a escolher **(MT) Pipeline criado**.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
-   Nesta visualização de atribuição multitoque, vemos que o canal Webinar tem mais influência no pipeline criado e custa menos do que os canais de exibição de publicidade online e de shows de vendas.
+   Nesta exibição de atribuição multitoque, vemos que o canal de webinar tem mais influência no pipeline criado e custa menos do que os canais de Transmissão e Anúncios online .
 
    Agora vamos adicionar mais duas dimensões!
 
-1. Use o menu suspenso **Tamanho da bolha** para selecionar uma medida adicional, como **Novos nomes**.
+1. Use o **Tamanho da bolha** para selecionar uma medida adicional, como **Novos nomes**.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -59,9 +58,9 @@ Use o Analisador de Programas para comparar os custos de canais, aquisição de 
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   Vemos que o canal do Webinar encolhe, conforme medido por **Novos nomes**. Podemos concluir que, apesar de ter muitos membros, é menos eficaz em gerar novas perspectivas do que o canal de feiras.
+   Vemos que o canal de webinar encolhe, conforme medido por **Novos nomes**. Podemos concluir que, embora tenha muitos membros, é menos eficaz na geração de novos leads do que o canal de feiras comerciais.
 
-1. Por fim, use o menu suspenso Cor para adicionar a quarta dimensão. Vamos selecionar **(FT) Revenue Won**.
+1. Por fim, use o menu suspenso Color para adicionar a quarta dimensão. Vamos selecionar **(FT) Ganho de Receita**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -69,20 +68,20 @@ Use o Analisador de Programas para comparar os custos de canais, aquisição de 
 
    ![](assets/image2014-9-17-18-3a41-3a19.png)
 
-   A partir das cores, aprendemos que o canal de shows de vendas, a bolha mais verde, influenciou a maior receita obtida, medida pela atribuição de primeiro toque.
+   A partir das cores, aprendemos que o canal de shows de vendas, a bolha mais verde, influenciou a maior receita ganha, medida pela atribuição de primeiro toque.
 
-1. Agora, se mudarmos a métrica Cor para **(MT) Revenue Won**, veremos que o canal de Anúncios online, agora o mais verde, influenciou mais a receita - ao longo do tempo_ do que os canais de Webinar e de shows de vendas.
+1. Agora, se alterarmos a métrica Cor para **(MT) Receita vencedora**, vemos que o canal de Anúncios online, agora o mais verde, influenciou mais receita ao longo do tempo_ do que os canais de Webinar e Exibição de vendas.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
-Em nosso exemplo, vemos que o canal de apresentação comercial é o mais caro (mais à direita) e o mais bem sucedido (mais alto no eixo Y) ao medir o pipeline criado pelo primeiro toque. Agora, vamos considerar cada pipeline de canal criado como medido pela atribuição multitoque.
+No nosso exemplo, vemos que o canal de Exibição de vendas é o mais caro (mais à direita) e o mais bem-sucedido (mais alto no eixo Y) ao medir o pipeline criado pelo primeiro toque. Agora, considere o pipeline de cada canal criado como medido pela atribuição de multitoque.
 
 >[!TIP]
 >
->Os exemplos nessas etapas avaliam a eficácia com base no pipeline criado. Use o menu suspenso Eixo Y para selecionar outras maneiras de medir a eficácia do canal, como Novos nomes, Membros, Custo por sucesso etc.
+>Os exemplos nessas etapas avaliam a eficácia com base no pipeline criado. Use o menu suspenso Eixo Y para selecionar outras maneiras de medir a eficácia do canal, como Novos nomes, Membros, Custo por Sucesso etc.
 
 >[!MORELIKETHIS]
 >
->* [Explore os detalhes do Programa e Canal com o Analisador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Compare a eficácia do Programa com o analisador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Explore os detalhes do programa e do canal com o Analisador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Comparar a eficácia do programa com o Analisador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 

@@ -16,7 +16,7 @@ Este artigo descreve como corrigir um erro de status incompatível e mapear stat
 
 ## O que fazer se receber uma mensagem de erro {#what-do-you-do-if-you-received-an-error-message}
 
-Se você tentar sincronizar com uma campanha Salesforce existente que contenha leads e a campanha contenha um ou mais status incompatíveis, uma mensagem de erro será exibida. Um Programa Marketo e uma Campanha Salesforce *não sincronizarão* se os status não forem uma correspondência exata.
+Se você tentar sincronizar com uma campanha Salesforce existente que contenha leads e a campanha contenha um ou mais status incompatíveis, uma mensagem de erro será exibida. Um programa Marketo e uma campanha do Salesforce *não* sincronizar se os status não forem uma correspondência exata.
 
 ![](assets/image2015-7-22-9-3a23-3a29.png)
 

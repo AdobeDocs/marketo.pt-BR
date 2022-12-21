@@ -3,7 +3,6 @@ unique-page-id: 8781988
 description: Noções básicas sobre cartões do Analytics - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre cartões do Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '220'
@@ -11,7 +10,7 @@ ht-degree: 1%
 
 ---
 
-# Como entender os cartões do Analytics {#understanding-analytics-cards}
+# Noções básicas sobre cartões do Analytics {#understanding-analytics-cards}
 
 No início de cada mês, o Marketo Moments fornece três cartões de relatório diferentes: Clientes potenciais adquiridos, novos clientes potenciais e cancelamentos de assinaturas. Cada um mostra o desempenho mensal e a tendência em um período de seis meses.
 
@@ -37,7 +36,7 @@ Neste exemplo, vermelho indica que o valor diminuiu no intervalo de datas seleci
 
 ## Clientes Potenciais Adquiridos {#acquired-leads}
 
-O cartão **Leads adquiridos** mostra um relatório mensal de tendência do número de novos leads.
+O **Clientes Potenciais Adquiridos** cartão exibe um relatório de tendências mês a mês do número de novos leads.
 
 >[!NOTE]
 >
@@ -47,13 +46,13 @@ O cartão **Leads adquiridos** mostra um relatório mensal de tendência do núm
 
 ## Novos leads {#new-leads}
 
-O cartão **Novos leads** mostra um relatório mensal de tendência do número total de novos leads em sua instância nos últimos seis meses.
+O **Novos leads** cartão exibe um relatório de tendências mês a mês do número total de novos leads em sua instância nos últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Cancelamentos de inscrição {#unsubscribes}
 
-O cartão **Cancela a assinatura** mostra um relatório de tendências de mês a mês da sua taxa de cancelamento de inscrição nos últimos seis meses.
+O **Cancelamentos de assinatura** cartão exibe um relatório de tendências mensal a mês da taxa de cancelamento de inscrição nos últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 

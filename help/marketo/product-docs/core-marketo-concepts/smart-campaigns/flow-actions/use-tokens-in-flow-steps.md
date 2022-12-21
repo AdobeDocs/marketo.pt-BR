@@ -25,13 +25,13 @@ Um token é uma variável. Você o usa em emails, landing pages e campanhas inte
 * Criar tarefa
 * Enviar alerta (somente em campanhas acionadoras)
 
-1. Na etapa do fluxo, comece a digitar `{{` para obter categorias de token.
+1. Na etapa de fluxo, comece a digitar `{{` para obter categorias de token.
 
    ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
-   >Confira [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para obter uma lista de vários tokens disponíveis.
+   >Veja [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para obter uma lista de vários tokens disponíveis.
 
 1. Continue digitando até encontrar o token desejado e clique para selecionar.
 
@@ -43,7 +43,7 @@ Um token é uma variável. Você o usa em emails, landing pages e campanhas inte
 
    >[!NOTE]
    >
-   >Tokens de campo personalizado de membro do programa podem ser usados em: Criar tarefa, Criar tarefa na Microsoft, Momentos interessantes, Alterar ações de fluxo do valor de dados e Webhooks.
+   >Tokens de campo personalizado de membro do programa podem ser usados em: Criar tarefa, Criar tarefa no Microsoft, Momentos interessantes, Alterar ações de fluxo do valor de dados e Webhooks.
 
    Legal! Os dados serão obtidos do token quando a campanha inteligente for executada.
 

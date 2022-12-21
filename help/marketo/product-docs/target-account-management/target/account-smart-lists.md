@@ -20,7 +20,7 @@ Veja como identificar de forma rápida e precisa suas contas de alto valor.
 
 ## Criar uma lista inteligente de contas {#create-an-account-smart-list}
 
-1. No Marketo, vá para **Marketing Activities**.
+1. No Marketo, acesse **Atividades de marketing**.
 
    ![](assets/account-smart-lists-1.png)
 
@@ -28,7 +28,7 @@ Veja como identificar de forma rápida e precisa suas contas de alto valor.
 
    ![](assets/account-smart-lists-2.png)
 
-1. Clique no menu suspenso **New** e selecione **New Local Asset**.
+1. Clique no botão **Novo** e selecione **Novo ativo local**.
 
    ![](assets/account-smart-lists-3.png)
 
@@ -36,7 +36,7 @@ Veja como identificar de forma rápida e precisa suas contas de alto valor.
 
    ![](assets/account-smart-lists-4.png)
 
-1. Insira um nome e clique em **Create** (Descrição e rótulos são opcionais).
+1. Insira um nome e clique em **Criar** (Descrição e rótulos são opcionais).
 
    ![](assets/account-smart-lists-5.png)
 
@@ -46,21 +46,21 @@ Sua lista inteligente de contas foi criada! Consulte abaixo as etapas sobre como
 
 As Smart Lists de conta funcionam de forma semelhante às Smart Lists padrão, com uma exceção notável: contêineres.
 
-1. Para definir sua Lista inteligente de contas, clique na guia **Regras da lista inteligente de contas**.
+1. Para definir sua Lista inteligente de contas, clique no botão **Regras da Lista Inteligente de Contas** guia .
 
    ![](assets/account-smart-lists-6.png)
 
-1. Escolha os Filtros de conta desejados. Neste exemplo, estamos escolhendo _Industry is Healthcare_.
+1. Escolha os Filtros de conta desejados. Neste exemplo, estamos escolhendo _A indústria é da saúde_.
 
    ![](assets/account-smart-lists-7.png)
 
    ![](assets/account-smart-lists-8.png)
 
-1. Escolha os Filtros de Pessoa Correspondidos. Neste exemplo, estamos escolhendo _State is California_.
+1. Escolha os Filtros de Pessoa Correspondidos. Neste exemplo, estamos escolhendo _Estado é Califórnia_.
 
    ![](assets/account-smart-lists-9.png)
 
-**Etapa** opcional: Aqui é onde os contêineres entram. Se você escolher um Filtro de Pessoa Correspondente adicional, poderá soltá-lo abaixo do primeiro, ou _em_, criando um contêiner. Neste exemplo, estamos criando um container adicionando _Cargo Título é CFO_.
+**Etapa opcional**: Aqui é onde os contêineres entram. Se você escolher um Filtro de Pessoa Correspondente adicional, poderá soltá-lo abaixo do primeiro, ou _em_ criar um contêiner. Neste exemplo, estamos criando um contêiner adicionando _O Título do Trabalho é CFO_.
 
 ![](assets/account-smart-lists-10.png)
 
@@ -70,7 +70,7 @@ Veja como será o contêiner.
 
 >[!NOTE]
 >
->A criação de um contêiner de filtros cria uma regra &quot;e&quot;, o que significa que ela só retornará todos os resultados combinados. Neste exemplo, conta com um setor de saúde, juntamente com a localização em California _e_ com alguém listado como CFO. Se você não quiser utilizar contêineres, basta soltar o filtro abaixo/acima do existente.
+>A criação de um contêiner de filtros cria uma regra &quot;e&quot;, o que significa que ela só retornará todos os resultados combinados. Nesse exemplo, conta com uma indústria de saúde, além de estar localizada na Califórnia _e_ com alguém listado como CFO. Se você não quiser utilizar contêineres, basta soltar o filtro abaixo/acima do existente.
 
 E é isso! Consulte a seção abaixo para ver como você pode utilizar sua Lista inteligente de contas.
 
@@ -86,9 +86,9 @@ Na guia Visão geral da Lista inteligente de contas, você observará algumas op
 
 **Clonar**: Faz uma cópia da sua Lista inteligente de contas.
 
-**Enviar para a rede** de anúncios: Envia a lista para o LinkedIn como um novo público-alvo correspondente.
+**Enviar para a rede de anúncios**: Envia a lista para o LinkedIn como um novo público-alvo correspondente.
 
-Também é possível fazer referência à Smart List da conta em uma Campanha/Lista inteligente padrão usando o filtro _People Member of Account Smart List_.
+Você também pode fazer referência à Smart List da sua conta em uma Campanha/Lista inteligente padrão usando o _Membro de Pessoas da Lista Inteligente de Contas_ filtro.
 
 ![](assets/account-smart-lists-12.png)
 
@@ -100,4 +100,4 @@ Também é possível fazer referência à Smart List da conta em uma Campanha/Li
 >
 >**Definição**
 >
->**Membro de Pessoas da Lista** Inteligente de Contas: Nesse caso, a palavra &quot;membro&quot; refere-se à própria conta, de modo que &quot;membro do povo&quot; significa o povo real (registros Marketo) nessas contas.
+>**Membro de Pessoas da Lista Inteligente de Contas**: Nesse caso, a palavra &quot;membro&quot; refere-se à própria conta, de modo que &quot;membro do povo&quot; significa o povo real (registros Marketo) nessas contas.

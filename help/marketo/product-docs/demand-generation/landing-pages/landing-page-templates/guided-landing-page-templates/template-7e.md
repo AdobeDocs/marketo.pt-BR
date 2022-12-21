@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 7E {#template-7e}
 
-Clique com o botão direito do mouse em [baixar Modelo 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
+Clique com o botão direito do mouse em para [baixar modelo 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
 
 ![](assets/image2015-7-29-15-3a11-3a34.png)
 

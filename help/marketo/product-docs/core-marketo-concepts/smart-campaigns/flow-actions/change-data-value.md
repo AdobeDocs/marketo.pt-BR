@@ -3,11 +3,10 @@ unique-page-id: 1146960
 description: Alterar valor de dados - Documentos do Marketo - Documentação do produto
 title: Alterar valor dos dados
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 5%
 
 ## Visão geral {#overview}
 
-Você pode usar o Marketo para atualizar o valor de um campo. Para isso, você usará a ação de fluxo **Alterar valor de dados** .
+Você pode usar o Marketo para atualizar o valor de um campo. Para isso, você usará o **Alterar valor de dados** ação de fluxo.
 
 ![](assets/image2014-9-22-11-3a15-3a34.png)
 
@@ -39,7 +38,7 @@ Você pode usar o Marketo para atualizar o valor de um campo. Para isso, você u
 
    >[!TIP]
    >
-   >Você pode inserir &#39;NULL&#39; (sem aspas, todas maiúsculas) em **Novo valor** para limpar o campo. Consulte [Limpar valores do campo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md) para obter detalhes.
+   >É possível inserir &#39;NULL&#39; (sem aspas, todas maiúsculas) em **Novo valor** para limpar o campo. Consulte [Limpar valores de campo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md) para obter detalhes.
 
    >[!NOTE]
    >

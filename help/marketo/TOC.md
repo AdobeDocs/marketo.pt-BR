@@ -1,7 +1,7 @@
 ---
 audience: end-user
 user-guide-title: Guia do Marketo
-user-guide-description: Documentação do produto Marketo
+user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
 source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
 workflow-type: tm+mt
@@ -200,7 +200,7 @@ ht-degree: 5%
          + [Definir configurações de localização padrão para uma assinatura](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Noções básicas sobre configurações de privacidade](product-docs/administration/settings/understanding-privacy-settings.md)
          + [Uso de uma ID universal para logon de assinatura](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
-      + Marcas {#tags}
+      + Tags {#tags}
          + [Criar uma nova tag e valores de tag do programa](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [Criar um canal de programa](product-docs/administration/tags/create-a-program-channel.md)
          + [Criar tags personalizadas](product-docs/administration/tags/create-custom-tags.md)

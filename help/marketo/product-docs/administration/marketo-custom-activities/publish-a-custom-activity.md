@@ -3,7 +3,6 @@ unique-page-id: 10100272
 description: Publicar uma atividade personalizada - Documentos do Marketo - Documentação do produto
 title: Publicar uma atividade personalizada
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
@@ -15,11 +14,11 @@ ht-degree: 2%
 
 Você tem sua atividade personalizada exatamente como deseja. Agora, é hora de publicar!
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/one-2.png)
 
-1. Em **Gerenciamento de Banco de Dados** clique em **Marketo Custom Activities**.
+1. Em **Gerenciamento de banco de dados** click **Atividades personalizadas do Marketo**.
 
    ![](assets/two-2.png)
 
@@ -27,7 +26,7 @@ Você tem sua atividade personalizada exatamente como deseja. Agora, é hora de 
 
    ![](assets/three-2.png)
 
-1. Clique no menu suspenso **Ações de atividade personalizadas** e selecione **Publicar atividade**.
+1. Clique no botão **Ações de atividade personalizada** e selecione **Atividade de publicação**.
 
    ![](assets/four-2.png)
 

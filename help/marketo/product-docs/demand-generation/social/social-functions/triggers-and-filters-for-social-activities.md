@@ -3,7 +3,6 @@ unique-page-id: 2359837
 description: Triggers e filtros para atividades sociais - Documentos do Marketo - Documentação do produto
 title: Triggers e filtros para atividades sociais
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
-translation-type: tm+mt
 source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '158'
@@ -19,11 +18,11 @@ Os aplicativos sociais no Marketo têm seus próprios acionadores e filtros espe
 >
 >Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
 
-1. Para usar os _acionadores sociais_, selecione sua campanha inteligente e clique na guia **Smart List**. À direita, clique no sinal + para expandir **Triggers** e depois **Social**.
+1. Para usar o social _acionadores_, selecione sua campanha inteligente e clique no botão **Lista inteligente** guia . À direita, clique no sinal + para expandir **Triggers**, em seguida **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Para usar os _filtros_ sociais, clique no **+** para expandir os **Filtros**.
+1. Para usar o social _filtros_, clique no botão **+** para expandir o **Filtros**.
 
    ![](assets/two-282-29.png)
 

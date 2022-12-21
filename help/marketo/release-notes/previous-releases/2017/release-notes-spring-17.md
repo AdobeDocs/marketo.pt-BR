@@ -18,9 +18,9 @@ Clique nos links de título para exibir os artigos detalhados de cada recurso. *
 
 ## [Forms principal da linkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[Os ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) formulários de geração de leads da linkedIn são uma maneira mais direta de uma empresa executar campanhas de geração de leads no LinkedIn. As pessoas podem preencher formulários para expressar interesse em um produto ou serviço, permitindo que a empresa capture os detalhes da pessoa e os sincronize com o Marketo, onde podem ocorrer processos de acompanhamento automatizados e atividades de roteamento de clientes potenciais.
+[Forms principal da linkedIn](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) são uma maneira mais direta de uma empresa executar campanhas de geração de leads no LinkedIn. As pessoas podem preencher formulários para expressar interesse em um produto ou serviço, permitindo que a empresa capture os detalhes da pessoa e os sincronize com o Marketo, onde podem ocorrer processos de acompanhamento automatizados e atividades de roteamento de clientes potenciais.
 
-A integração do Marketo com o LinkedIn Lead Gen Forms captura automaticamente as informações fornecidas por um cliente potencial no formulário Gen. As ações e notificações de acompanhamento podem ser automatizadas usando o novo acionador e filtro **Preencher formulário de lead para LinkedIn**.
+A integração do Marketo com o LinkedIn Lead Gen Forms captura automaticamente as informações fornecidas por um cliente potencial no formulário Gen. As ações e notificações de acompanhamento podem ser automatizadas usando o novo **Preenche o Formulário de Gerente de lead do LinkedIn** acionador e filtro.
 
 ![](assets/release-notes-image.png)
 

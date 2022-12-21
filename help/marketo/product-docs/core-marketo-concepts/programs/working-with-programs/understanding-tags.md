@@ -3,7 +3,6 @@ unique-page-id: 1147112
 description: Noções básicas sobre tags - Documentação do Marketo - Documentação do produto
 title: Compreensão de tags
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -23,7 +22,7 @@ Os tipos de tags identificam o tipo de informação que você deseja classificar
 
 >[!TIP]
 >
->Fale com seu [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md) se desejar criar tags personalizadas.
+>Fale com o seu [Administrador do Marketo](/help/marketo/product-docs/administration/tags/create-custom-tags.md) caso deseje criar tags personalizadas.
 
 >[!NOTE]
 >
@@ -49,7 +48,7 @@ Cada tipo de tag terá valores para escolher.
 
 ## Canal {#channel}
 
-Os canais são usados para relatar como seu [membros](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) se movimentou pelo seu programa. Cada canal tem um conjunto de status de progressão e um status que é definido para igual sucesso.
+Os canais são usados para relatar como sua [membros](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) movido o programa. Cada canal tem um conjunto de status de progressão e um status que é definido para igual sucesso.
 
 >[!NOTE]
 >

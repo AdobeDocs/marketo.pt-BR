@@ -3,7 +3,8 @@ description: Ações de fluxo único da página Detalhes da pessoa - Documentos 
 title: Ações de Fluxo Único da Página de Detalhes da Pessoa
 hide: true
 hidefromtoc: true
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Além de executar ações de fluxo único de dentro de uma Smart List, você também pode executá-las diretamente em uma página Detalhes da pessoa.
 
-1. Clique em **Banco de Dados**.
+1. Clique em **Banco de dados**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -22,7 +23,7 @@ Além de executar ações de fluxo único de dentro de uma Smart List, você tam
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Clique no menu suspenso **Pessoa Actions** e selecione a etapa de fluxo de sua escolha. Neste exemplo, usaremos [Enviar email](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Clique no botão **Ações da pessoa** e selecione a etapa de fluxo de sua escolha. Neste exemplo, usaremos [Enviar Email](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 

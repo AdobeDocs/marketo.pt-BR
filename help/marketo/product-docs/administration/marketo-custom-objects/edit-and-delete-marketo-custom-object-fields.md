@@ -3,7 +3,6 @@ unique-page-id: 10095453
 description: Editar e excluir campos de objeto personalizados do Marketo - Documentos do Marketo - Documentação do produto
 title: Editar e excluir campos de objeto personalizados do Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
@@ -21,11 +20,11 @@ ht-degree: 0%
 
    ![](assets/image2015-10-2-10-3a55-3a1.png)
 
-1. Na guia Campos, clique em **Ações de campo** e em **Editar campo**.
+1. Na guia Campos , clique em **Ações do campo** e **Editar campo**.
 
    ![](assets/image2015-10-2-10-3a53-3a26.png)
 
-1. Faça as alterações e clique em **Save**.
+1. Faça as alterações e clique em **Salvar**.
 
    ![](assets/image2015-10-2-10-3a58-3a56.png)
 
@@ -41,7 +40,7 @@ ht-degree: 0%
 
 Quando não precisar mais de um campo em um objeto personalizado, é possível excluí-lo.
 
-1. Na guia Campos, clique em **Ações de campo** e **Excluir campo**.
+1. Na guia Campos , clique em **Ações do campo** e **Excluir campo**.
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 

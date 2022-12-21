@@ -1,62 +1,61 @@
 ---
 unique-page-id: 4718651
-description: Entendendo a área de Análise de email - Documentos do Marketing - Documentação do produto
-title: Como entender a área de Análise do email
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Noções básicas sobre a área de análise de email - Documentos do Marketo - Documentação do produto
+title: Noções básicas da área de análise de email
+exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Noções básicas da área de análise de email {#understanding-the-email-analysis-area}
 
-# Como entender a área de Análise de email {#understanding-the-email-analysis-area}
-
-A Área de Análise de email foca em métricas de email. Este artigo apresenta todos os relatórios disponíveis nele.
+A Área de análise de email tem como foco as métricas de email. Este artigo apresenta todos os relatórios disponíveis nele.
 
 >[!AVAILABILITY]
 >
->Isso está disponível para usuários com o complemento Select Edition ou [Análise do ciclo de receita](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Entre em contato com seu representante de vendas para obter detalhes.
+>Isso está disponível para usuários com o Select Edition ou [Análise do ciclo de receita](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) complemento. Confira os detalhes com seu representante de vendas.
 
-## Grade de calor de clique de Atividade de email {#email-click-activity-heat-grid}
+## Grade de Aquecimento de Atividade de Clique de Email {#email-click-activity-heat-grid}
 
-Este relatório mostra o dia da semana e a hora do dia em que seus clientes em potencial estão clicando em emails. Quanto mais esverdeada a caixa, mais cliques aparecerão no dia e na hora específicos. O filtro atual inclui todos os emails enviados nos últimos 7 dias. O tempo está no CST.
+Este relatório mostra em qual dia da semana e hora do dia seus leads estão clicando em emails. Quanto mais verde a caixa, mais cliques serão no dia e hora específicos. O filtro atual inclui todos os emails enviados nos últimos 7 dias. O tempo está em CST.
 
 ![](assets/image2015-5-6-17-3a17-3a34.png)
 
-## Distribuição de tempo clicada no email {#email-clicked-time-distribution}
+## Distribuição de tempo de cliques em email {#email-clicked-time-distribution}
 
-Este relatório mostra a porcentagem do total de cliques por email para cada hora do dia. O filtro atual inclui todos os emails enviados nos últimos 7 dias. O tempo está no CST.
+Este relatório mostra a porcentagem do total de cliques por email para cada hora do dia. O filtro atual inclui todos os emails enviados nos últimos 7 dias. O tempo está em CST.
 
 ![](assets/image2015-5-6-17-3a20-3a55.png)
 
-## Declínio da Taxa de Cliques de Correio Eletrônico {#email-click-rate-decay}
+## Declínio da taxa de cliques no email {#email-click-rate-decay}
 
-Este relatório mostra a porcentagem do total de cliques por email que ocorreram no mesmo dia em que um email foi enviado e nos dias seguintes. O filtro atual inclui todos os emails enviados há 7 dias.
+Este relatório mostra qual porcentagem do total de cliques em emails ocorreu no mesmo dia em que o email foi enviado e nos dias seguintes. O filtro atual inclui todos os emails enviados há 7 dias.
 
 ![](assets/image2015-5-6-17-3a26-3a50.png)
 
-## Grade de calor de Atividade aberta por email {#email-open-activity-heat-grid}
+## Grade de Aquecimento de Atividade Aberta por Email {#email-open-activity-heat-grid}
 
-Este relatório mostra que dia da semana e hora do dia seus clientes potenciais estão abrindo emails. Quanto mais esverdeada a caixa, mais se abre nesse dia e horário específicos. O filtro atual inclui todos os emails enviados nos últimos 7 dias. O tempo está no CST.
+Este relatório mostra em qual dia da semana e hora do dia seus leads estão abrindo emails. Quanto mais verde a caixa for aberta nesse dia e hora específicos. O filtro atual inclui todos os emails enviados nos últimos 7 dias. O tempo está em CST.
 
 ![](assets/image2015-5-6-17-3a30-3a35.png)
 
-## Declínio de Taxa Aberta {#open-rate-decay}
+## Declínio de taxa de abertura {#open-rate-decay}
 
-Este relatório mostra qual porcentagem do total de e-mails abertos ocorreu no mesmo dia em que um e-mail é enviado e nos dias subsequentes. O filtro atual inclui todos os emails enviados há 7 dias.
+Este relatório mostra qual porcentagem do total de aberturas de email ocorreu no mesmo dia em que o email foi enviado e nos dias seguintes. O filtro atual inclui todos os emails enviados há 7 dias.
 
 ![](assets/image2015-5-6-17-3a37-3a25.png)
 
-## Abrir Distribuição de Tempo {#open-time-distribution}
+## Distribuição de tempo de abertura {#open-time-distribution}
 
-Este relatório mostra a porcentagem do total de abertos por email para cada hora do dia. O filtro atual inclui todos os emails enviados nos últimos 7 dias. O tempo está no CST.
+Este relatório mostra a porcentagem do total de aberturas de email para cada hora do dia. O filtro atual inclui todos os emails enviados nos últimos 7 dias. O tempo está em CST.
 
 ![](assets/image2015-5-6-17-3a39-3a15.png)
 
-## Grade de calor de Atividade enviada {#sent-activity-heat-grid}
+## Grade de Aquecimento da Atividade Enviada {#sent-activity-heat-grid}
 
-Este relatório mostra que dia da semana e hora do dia você está enviando seus emails. Quanto mais ecologicamente correto, mais emails enviados serão enviados nesse dia e hora específicos. O filtro atual inclui todos os emails enviados nos últimos 7 dias. O tempo está no CST.
+Este relatório mostra em qual dia da semana e hora do dia você está enviando seus emails. Quanto mais verde a caixa for, mais emails enviados nesse dia e hora específicos. O filtro atual inclui todos os emails enviados nos últimos 7 dias. O tempo está em CST.
 
 ![](assets/seven.png)

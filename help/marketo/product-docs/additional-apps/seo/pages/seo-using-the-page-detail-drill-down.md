@@ -3,7 +3,6 @@ unique-page-id: 2949186
 description: SEO - Uso do Detalhamento da Página - Documentos do Marketo - Documentação do produto
 title: SEO - Uso do Detalhamento da Página
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Você pode ver muitas informações sobre suas páginas usando o detalhamento da página.
 
-## Localizar Detalhamento da Página {#find-page-drill-down}
+## Localizar Drill-Down da Página {#find-page-drill-down}
 
 1. Vá para a seção Pages .
 
@@ -29,7 +28,7 @@ Você pode ver muitas informações sobre suas páginas usando o detalhamento da
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## Seção de Detalhes da Página {#page-detail-section}
+## Seção de detalhes da página {#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
@@ -44,9 +43,9 @@ Você pode ver muitas informações sobre suas páginas usando o detalhamento da
 | Facebook Curtidas | Número de vezes que esse compartilhamento de página foi curtido no Facebook. |
 | Cliques no facebook | Número de cliques do compartilhamento do Facebook. |
 
-## Palavras-chave nas quais a página é otimizada para {#keyword-s-that-page-is-optimized-for}
+## Palavras-chave para as quais a página é otimizada  {#keyword-s-that-page-is-optimized-for}
 
-É aqui que você [seleciona qual palavra-chave você está tentando otimizar sua página para](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+É aqui que você [selecione para qual palavra-chave você está tentando otimizar sua página](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >

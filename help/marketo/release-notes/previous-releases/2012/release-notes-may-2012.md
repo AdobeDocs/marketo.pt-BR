@@ -54,7 +54,7 @@ Figura 5. Fazer check-in
 
 ## URL de confirmação de webinar aprimorado {#enhanced-webinar-confirmation-url}
 
-Agora disponível para ON24 e Adobe Connect! Inclua um link exclusivo no email de confirmação para cada participante registrado usando o novo token `{{member.webinar URL}}`. Os aprimoramentos da Adobe Connect também incluem a capacidade de ativar/desativar o email de informações da conta do Adobe, que inclui a ID de logon e a senha do usuário.
+Agora disponível para ON24 e Adobe Connect! Inclua um link exclusivo no email de confirmação para cada participante registrado usando o novo `{{member.webinar URL}}` token. Os aprimoramentos da Adobe Connect também incluem a capacidade de ativar/desativar o email de informações da conta do Adobe, que inclui a ID de logon e a senha do usuário.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -90,7 +90,7 @@ Figura 10. Recursos do tesouro do gerente na administração
 
 ## Integração do Microsoft Dynamics® CRM {#microsoft-dynamics-crm-integration}
 
-Sincronizar contas, contatos e clientes potenciais entre o Marketo e o Microsoft Dynamics CRM Online usando nossa nova integração pré-criada!
+Sincronize contas, contatos e leads entre o Marketo e o Microsoft Dynamics CRM Online usando nossa nova integração pré-criada!
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 

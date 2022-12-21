@@ -1,47 +1,46 @@
 ---
 unique-page-id: 2359701
-description: Criar uma Landing page de forma livre - Documentos do marketing - Documentação do produto
-title: Criar uma Landing page de forma livre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Criar uma página de aterrissagem de forma livre - Documentos do Marketo - Documentação do produto
+title: Criar uma página de aterrissagem de forma livre
+exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Criar uma página de aterrissagem de forma livre {#create-a-free-form-landing-page}
 
-# Criar uma Landing page de forma livre {#create-a-free-form-landing-page}
-
-Landings page de forma livre podem ser criadas como ativos locais de um programa ou no Design Studio para serem usadas globalmente.
+As landing pages de forma livre podem ser criadas como ativos locais de um programa ou no Design Studio para serem usadas globalmente.
 
 >[!NOTE]
 >
->Os modos de landing page são definidos pelo modelo. [Saiba ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) mais sobre os modelos de landing page de forma livre e guiada.
+>Os modos de página de aterrissagem são definidos pelo seu modelo. [Saiba mais](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) sobre templates de landing page de formulário gratuito e guiado.
 
-## Criar uma Landing page de forma livre em um Programa {#create-a-free-form-landing-page-in-a-program}
+## Criar uma página de aterrissagem de forma livre em um programa {#create-a-free-form-landing-page-in-a-program}
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Clique em seu programa.
+1. Clique no seu programa.
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Clique em **Novo**. Selecione **Novo ativo local**.
+1. Clique em **Novo**. Selecionar **Novo ativo local**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. Clique em **Landing page**.
+1. Clique em **Página de aterrissagem**.
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
-1. Nomeie sua landing page e escolha um modelo de formulário livre no menu suspenso.
+1. Nomeie a landing page e escolha o template do formulário gratuito no menu suspenso .
 
    >[!NOTE]
    >
-   >Os modelos sem um ícone são de forma livre. Os modelos de forma livre permitem personalização completa.
+   >Modelos sem um ícone são de forma livre. Modelos de forma livre permitem personalização completa.
 
    ![](assets/image2015-5-19-12-3a51-3a13.png)
 
@@ -51,19 +50,19 @@ Landings page de forma livre podem ser criadas como ativos locais de um programa
 
 >[!TIP]
 >
->O URL é construído automaticamente a partir dos nomes de programa e landing page. Para alterar o URL, edite o campo **URL da página**.
+>O URL é construído automaticamente a partir dos nomes do programa e da página de aterrissagem. Para alterar o URL, edite a variável **URL da página** campo.
 
-## Criar uma Landing page de forma livre no Design Studio {#create-a-free-form-landing-page-in-design-studio}
+## Criar uma página de aterrissagem de forma livre no Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
 1. Vá para o **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Clique em **Nova**, em seguida, **Nova Landing page**.
+1. Clique em **Novo**, em seguida **Nova página de aterrissagem**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
-1. Nomeie sua landing page e escolha um modelo de formulário livre no menu suspenso.
+1. Nomeie a landing page e escolha o template do formulário gratuito no menu suspenso .
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 
@@ -73,4 +72,4 @@ Landings page de forma livre podem ser criadas como ativos locais de um programa
 
 >[!TIP]
 >
->Desmarque &quot;Abrir editor de landing page para nova página&quot; se não quiser que o editor abra imediatamente depois de clicar em **Criar**.
+>Desmarque &quot;Abrir editor de página inicial para nova página&quot; se não quiser que o editor seja aberto imediatamente após clicar **Criar**.

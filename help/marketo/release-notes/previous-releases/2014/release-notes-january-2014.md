@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Notas de versão: Janeiro de 2014 {#release-notes-january}
 
-Os seguintes recursos estão incluídos na versão de janeiro de 2014. Verifique seu [Marketo Edition](https://www.marketo.com/pricing/) para ver a disponibilidade dos recursos.
+Os seguintes recursos estão incluídos na versão de janeiro de 2014. Verifique seu [Marketo Edition](https://www.marketo.com/pricing/) para disponibilidade de recursos.
 
 ## Forms 2.0 {#forms}
 
@@ -40,12 +40,12 @@ Foram-se os dias de levantamento do código html de formulários colocados em p�
 
 ## Limites de comunicação para o programa de email {#communication-limits-for-email-program}
 
-[Defina Limites de comunicação em um ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) programa de email para garantir que você não se comunique demais com seu banco de dados. Se uma pessoa estiver acima do limite definido, ela não receberá o email.
+[Definir limites de comunicação em um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) para garantir que você não se comunique demais com seu banco de dados. Se uma pessoa estiver acima do limite definido, ela não receberá o email.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Campos adicionais na análise de associação de programa {#additional-fields-in-program-membership-analysis}
 
-Agora é possível adicionar e agrupar suas métricas de [Análise de associação do programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) por atributos de cliente potencial e de empresa. Por exemplo, você pode adicionar o campo Setor para ver a divisão dos membros e sucessos do programa.
+Agora você pode adicionar e agrupar seus [Análise de adesão ao programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) métricas por atributos de cliente potencial e empresa. Por exemplo, você pode adicionar o campo Setor para ver a divisão dos membros e sucessos do programa.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

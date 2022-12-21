@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2951220
-description: Criar um relatório de desempenho de pessoas com colunas de plataforma móvel - Documentos do marketing - Documentação do produto
-title: Criar um relatório de desempenho de pessoas com colunas de plataforma móvel
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Criar um relatório de desempenho de pessoas com colunas de plataforma móvel - Documentos do Marketo - Documentação do produto
+title: Criar um relatório de desempenho de pessoas com colunas da plataforma móvel
+exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Criar um relatório de desempenho de pessoas com colunas da plataforma móvel {#build-a-people-performance-report-with-mobile-platform-columns}
 
-# Crie um relatório de desempenho de pessoas com colunas de plataforma móvel {#build-a-people-performance-report-with-mobile-platform-columns}
+Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas da plataforma móvel (iOS/Android).
 
-Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas de plataforma móvel (iOS/Android).
+## Criar Smart Lists Móveis {#create-mobile-smart-lists}
 
-## Criar Listas inteligentes móveis {#create-mobile-smart-lists}
-
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -37,11 +36,11 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
    ![](assets/five-1.png)
 
-1. Localize e arraste o filtro Email aberto para a tela.
+1. Localize e arraste o filtro Email aberto na tela.
 
    ![](assets/six-1.png)
 
-1. Defina Email como **é any**.
+1. Definir Email como **é qualquer**.
 
    ![](assets/seven.png)
 
@@ -51,7 +50,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
    >[!TIP]
    >
-   >Neste exemplo, usamos o filtro Email aberto. Você também pode usar o filtro Email clicado, pois ele tem a restrição Plataforma.
+   >Usamos o filtro Email aberto neste exemplo. Você também pode usar o filtro Email clicado , pois ele tem a restrição da Plataforma .
 
 1. Defina Plataforma como **iOS**.
 
@@ -65,7 +64,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
 ## Criar um relatório de desempenho de pessoas {#create-a-people-performance-report}
 
-1. Em Atividades de marketing, selecione o programa que está hospedando suas **listas inteligentes do iOS** e **Android**.
+1. Em Atividades de marketing, selecione o programa que está hospedando seu **iOS** e **Android** listas inteligentes.
 
    ![](assets/ten.png)
 
@@ -77,7 +76,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
    ![](assets/twelve.png)
 
-1. Defina Tipo como **Desempenho das pessoas**.
+1. Definir tipo como **Desempenho de Pessoas**.
 
    ![](assets/thirteen.png)
 
@@ -85,19 +84,19 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
    ![](assets/fourteen.png)
 
-   Você está indo muito bem! Agora vamos para a próxima seção.
+   Você está indo muito bem! Agora, vá para a próxima seção.
 
-## Adicionar Listas inteligentes móveis como colunas {#add-mobile-smart-lists-as-columns}
+## Adicionar Smart Lists Móveis como Colunas {#add-mobile-smart-lists-as-columns}
 
-1. No relatório que você acabou de criar, clique em **Configuração** e arraste **Colunas personalizadas** para a tela.
+1. No relatório que acabou de criar, clique em **Configuração** e arraste **Colunas personalizadas** na tela.
 
    ![](assets/fifteen.png)
 
    >[!NOTE]
    >
-   >Por padrão, o relatório de Desempenho de pessoas está analisando os Últimos 7 dias. Você pode alterar o período clicando nele com o duplo.
+   >Por padrão, o relatório de Desempenho de pessoas está analisando os Últimos 7 dias. Você pode alterar o período de tempo clicando duas vezes nele.
 
-1. Localize e selecione as listas inteligentes que você criou anteriormente e clique em **Aplicar**.
+1. Encontre e selecione as listas inteligentes que você criou anteriormente e clique em **Aplicar**.
 
    ![](assets/sixteen.png)
 

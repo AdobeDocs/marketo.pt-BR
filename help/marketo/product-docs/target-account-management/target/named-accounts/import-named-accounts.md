@@ -2,20 +2,19 @@
 unique-page-id: 12615800
 description: Importar contas nomeadas - Documentos do Marketo - Documentação do produto
 title: Importar contas nomeadas
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 3f40e567-9256-4efd-beea-4e818770759f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '479'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Importar contas nomeadas {#import-named-accounts}
 
 Já tem um CSV cheio de possíveis contas do target? Importe-os diretamente para o TAM!
 
-1. Clique no menu suspenso **New** e selecione **Import Named Accounts**.
+1. Clique no botão **Novo** e selecione **Importar contas nomeadas**.
 
    ![](assets/inaone.png)
 
@@ -25,17 +24,17 @@ Já tem um CSV cheio de possíveis contas do target? Importe-os diretamente para
 
    >[!TIP]
    >
-   >No arquivo , forneça [a maior quantidade de informações](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) possível. Você só pode adicionar informações firmmográficas; nada que o Marketo calcule (ou seja, pipeline). Para criar contas nomeadas com base em contas CRM, basta exportar o nome da conta e a ID do CRM de seu CRM para um arquivo CSV, usar a opção Nome da conta e mapear a ID do CRM durante o processo de importação. Para vincular adequadamente uma conta CRM a uma conta nomeada, você deve fornecer o nome exato da conta CRM.
+   >No arquivo , forneça [quanta informação](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) o mais possível. Você só pode adicionar informações firmmográficas; nada que o Marketo calcule (ou seja, pipeline). Para criar contas nomeadas com base em contas CRM, basta exportar o nome da conta e a ID do CRM de seu CRM para um arquivo CSV, usar a opção Nome da conta e mapear a ID do CRM durante o processo de importação. Para vincular adequadamente uma conta CRM a uma conta nomeada, você deve fornecer o nome exato da conta CRM.
 
-1. Escolha entre dois modos de dedupe: Nome da conta ou Nome do domínio. Neste exemplo, vamos escolher Conta. Clique no menu suspenso **Modos** e selecione **Por nome de conta**.
+1. Escolha entre dois modos de dedupe: Nome da conta ou Nome do domínio. Neste exemplo, vamos escolher Conta. Clique no botão **Modos** e selecione **Por nome de conta**.
 
    ![](assets/inathree.png)
 
    >[!NOTE]
    >
-   >Se você escolher **By Domain Mode**, a conta nomeada e os campos de domínio deverão ser incluídos.
+   >Se você escolher **Por Modo de Domínio**, a conta nomeada e os campos de domínio devem ser incluídos.
 
-1. Para escolher a lista de contas à qual sua conta nomeada é adicionada, clique no menu suspenso **Lista de Contas** e faça sua seleção.
+1. Para escolher em qual lista de contas sua conta nomeada é adicionada, clique no botão **Lista de contas** e faça sua seleção.
 
    ![](assets/inafour.png)
 
@@ -43,15 +42,15 @@ Já tem um CSV cheio de possíveis contas do target? Importe-os diretamente para
    >
    >Você também pode criar uma Lista de contas totalmente nova digitando seu nome na caixa suspensa.
 
-1. Para enviar uma notificação da importação, clique no menu suspenso **Enviar alerta para** e selecione um usuário do Marketo. Você _não pode_ inserir manualmente um endereço de email.
+1. Para enviar uma notificação da importação, clique no link **Enviar Alerta para** e selecione um usuário do Marketo. Você _cannot_ insira manualmente um endereço de email.
 
    ![](assets/inafive-2.png)
 
-1. Clique em **Next**.
+1. Clique em **Próximo**.
 
    ![](assets/inasix-2.png)
 
-1. Mapeie cada campo clicando duas vezes no menu suspenso **Marketo Field** e selecionando o campo apropriado. Clique em **Next** quando terminar.
+1. Mapeie cada campo clicando duas vezes na variável **Campo Marketo** e selecionando o campo apropriado. Clique em **Próximo** quando concluído.
 
    ![](assets/inaseven.png)
 
@@ -103,6 +102,6 @@ Cenários quando você faz deduplicação por Nome de Domínio:
 
 >[!NOTE]
 >
->Quando o Marketo anexa uma conta nomeada, estamos atualizando uma regra (nos bastidores) que nos permite identificar pessoas que devem fazer parte da conta nomeada. Exemplo: se você atualizar &quot;IBM&quot; para &quot;IBM, EUA&quot;, as pessoas com qualquer nome de empresa serão associadas à Conta Nomeada.
+>Quando o Marketo anexa uma conta nomeada, estamos atualizando uma regra (em segundo plano) que nos permite identificar pessoas que devem fazer parte da conta nomeada. Exemplo: se você atualizar &quot;IBM&quot; para &quot;IBM, EUA&quot;, as pessoas com qualquer nome de empresa serão associadas à conta nomeada.
 
 Se o Marketo encontrar registros que vemos como duplicatas, processaremos apenas o primeiro.

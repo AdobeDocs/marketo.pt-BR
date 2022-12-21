@@ -1,17 +1,16 @@
 ---
 unique-page-id: 11380774
 description: Pontuação da conta - Documentos do Marketo - Documentação do produto
-title: Pontuação da conta
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+title: Pontuação de contas
+exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Pontuação da conta {#account-score}
+# Pontuação de contas {#account-score}
 
 A Pontuação de conta é uma parte essencial do Gerenciamento de conta do Target. Ajuda a determinar o nível de envolvimento de suas contas.
 
@@ -44,7 +43,7 @@ No mundo complexo de processos de compra de B2B, é raro um único indivíduo to
 
 >[!NOTE]
 >
->Para calcular as pontuações da conta, primeiro é necessário criar pontuações de lead. O Marketo TAM agrega automaticamente pontuações de lead às pontuações da conta. Como exemplo, pegaremos dois dos exemplos acima (_Account Product Interest Score_ e _Account Web Engagement Score_).
+>Para calcular as pontuações da conta, primeiro é necessário criar pontuações de lead. O Marketo TAM agrega automaticamente pontuações de lead às pontuações da conta. Como exemplo, pegaremos dois dos exemplos acima (_Pontuação de interesse do produto da conta_ e _Pontuação de engajamento na Web da conta_).
 >
 >Primeiro, crie campos de pontuação de lead que capturam detalhes relevantes de cada lead de uma conta de target.\
 >Em seguida, atribua essas pontuações de lead às respectivas pontuações da conta:\
@@ -57,7 +56,7 @@ No mundo complexo de processos de compra de B2B, é raro um único indivíduo to
 
 Depois de configurar a pontuação de lead, siga as etapas abaixo.
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/one-1.png)
 
@@ -71,9 +70,9 @@ Depois de configurar a pontuação de lead, siga as etapas abaixo.
 
    >[!NOTE]
    >
-   >Você pode escolher até **cinco** campos para calcular a Pontuação da Conta.
+   >Você pode escolher até **cinco** para calcular a Pontuação da conta.
 
-1. Insira o nome da Pontuação da conta, clique no menu suspenso **Selecionar Pontuação de pessoa** e selecione a pontuação correspondente.
+1. Insira o nome da Pontuação da conta, clique no botão **Selecionar Pontuação de Pessoa** e selecione a pontuação correspondente.
 
    ![](assets/four.png)
 
@@ -81,6 +80,6 @@ Depois de configurar a pontuação de lead, siga as etapas abaixo.
 
    ![](assets/five.png)
 
-1. Adicione todas as pontuações desejadas. Clique em **Salvar** quando terminar.
+1. Adicione todas as pontuações desejadas. Clique em **Salvar** quando concluído.
 
    ![](assets/six.png)

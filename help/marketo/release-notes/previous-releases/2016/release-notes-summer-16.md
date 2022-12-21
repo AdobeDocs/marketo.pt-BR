@@ -18,9 +18,9 @@ Os seguintes recursos estão incluídos na versão do Verão de 16. Verifique su
 
 O Marketo Account Based Marketing (Marketing baseado em conta) fornece todas as informações básicas de uma plataforma unificada:
 
-* **Target**  - Detecção de conta, Correspondência de cliente potencial e Listas de contas nomeadas
-* **Envolvimento**  - Personalização baseada em conta, Envolvimento entre canais e Fluxos de trabalho específicos da conta
-* **Medida**  - Insights de nível de conta e lista, Pontuação de envolvimento da conta e Impacto do pipeline e receita
+* **Target** - Descoberta de conta, Correspondência de cliente potencial e Listas de contas nomeadas
+* **Mobilizar** - Personalização baseada em conta, engajamento entre canais e fluxos de trabalho específicos de conta
+* **Medição** - Insights de nível de conta e lista, Pontuação de engajamento de conta e Impacto no pipeline e receita
 
 ![](assets/abm-5-acme.png)
 
@@ -59,7 +59,7 @@ Anteriormente, todas as variáveis especificadas em Modelos de email 2.0 eram &q
 **Atualizações de sintaxe**
 
 * Agora você pode usar &quot;mktoAddByDefault&quot; em módulos especificados em Modelos de email 2.0 para indicar quais módulos devem ser exibidos em novos emails por padrão. Isso é muito mais conveniente se você estiver criando um modelo de email com um grande número de módulos.
-* Em elementos de imagem, agora você pode especificar se as propriedades subjacentes de &quot;altura&quot; e &quot;largura&quot; do elemento HTML devem ser bloqueadas ou editáveis para o usuário final. `<img>` mktoLockImgSize=&quot;true&quot; fará com que a altura/largura seja bloqueada (mesmo que a imagem seja alterada). Da mesma forma, mktoLockImgStyle=&quot;true&quot; fará com que a propriedade &quot;style&quot; seja bloqueada.
+* Em elementos de imagem, agora você pode especificar se a variável subjacente `<img>` As propriedades &quot;height&quot; e &quot;width&quot; do elemento HTML devem ser bloqueadas ou editáveis para o usuário final. mktoLockImgSize=&quot;true&quot; fará com que a altura/largura seja bloqueada (mesmo que a imagem seja alterada). Da mesma forma, mktoLockImgStyle=&quot;true&quot; fará com que a propriedade &quot;style&quot; seja bloqueada.
 
 **Pesquisa de código**
 
@@ -69,11 +69,11 @@ Use a nova funcionalidade de pesquisa para encontrar e substituir com eficiênci
 
 **Suporte a token em elementos de imagem**
 
-Agora, os tokens podem ser usados na área &quot;URL externo&quot; da experiência de inserção da imagem! Se você tiver especificado imagens com `{{my.tokens}}`, agora poderá fazer referência a esses tokens no Editor de email 2.0. Observe que a imagem ainda aparecerá quebrada na tela do Editor de email 2.0. Mas, você os verá renderizados em Visualizar e Enviar amostra antes de enviar seu email.
+Agora, os tokens podem ser usados na área &quot;URL externo&quot; da experiência de inserção da imagem! Se você especificou imagens com `{{my.tokens}}`, agora é possível fazer referência a esses tokens no Editor de email 2.0. Observe que a imagem ainda aparecerá quebrada na tela do Editor de email 2.0. Mas, você os verá renderizados em Visualizar e Enviar amostra antes de enviar seu email.
 
 ## Vários domínios de marca {#multiple-branding-domains}
 
-Longe são os dias em que os links de rastreamento de email só podem ser marcados com um único domínio de marca. Agora é possível adicionar vários domínios de marca para inspirar a confiança do consumidor, criar uma aparência mais simplificada para se concentrar na marca, melhorar a capacidade de fornecimento de email e escolher, por email, qual domínio de marca usar para cada link de rastreamento de email.
+Longe são os dias em que os links de rastreamento de email só podem ser marcados com um único domínio de marca. Agora é possível adicionar vários domínios de marcas para inspirar a confiança do consumidor, criar uma aparência mais simplificada para se concentrar na marca, melhorar a capacidade de fornecimento de email e escolher, por email, qual domínio de marca usar para cada link de rastreamento de email.
 
 ![](assets/multiple-branding-domains.png)
 

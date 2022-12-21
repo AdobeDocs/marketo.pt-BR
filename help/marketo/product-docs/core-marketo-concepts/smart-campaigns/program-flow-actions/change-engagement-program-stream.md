@@ -3,11 +3,10 @@ unique-page-id: 1147015
 description: Alterar fluxo do programa de envolvimento - Documentos do Marketo - Documentação do produto
 title: Alterar fluxo do programa de envolvimento
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 8%
 
 ## Visão geral {#overview}
 
-Normalmente, você usaria [regras de transição de fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para conseguir isso, mas se quiser mover manualmente as pessoas de um fluxo para outro, esta é a etapa de fluxo a ser usada.
+Normalmente, você usaria [regras de transição de fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para conseguir isso, mas se você deseja mover manualmente as pessoas de um fluxo para outro, esta é a etapa de fluxo a ser usada.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 

@@ -1,28 +1,27 @@
 ---
 unique-page-id: 14352619
-description: Uso do Tarefa no Campanha - Documentos do Marketing - Documentação do produto
-title: Uso do Tarefa no Campanha
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Usar tarefas em campanhas - Documentos do Marketo - Documentação do produto
+title: Usar tarefas em campanhas
+exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-
-# Uso do Tarefa no Campanha {#using-tasks-in-campaigns}
+# Usar tarefas em campanhas {#using-tasks-in-campaigns}
 
 As tarefas são uma ferramenta poderosa ao enviar uma campanha para um contato, especialmente se o seu processo de vendas for de vários canais/toque.
 
-Tarefa para enviar um e-mail e uma Tarefa para Chamar um contato são os usos mais comuns do Tarefa no Campanha.
+A tarefa para enviar um email e uma tarefa para chamar um contato são os usos mais comuns para Tarefas em Campanhas.
 
-Você também pode fazer da &quot;Tarefa para o email&quot; um contato no LinkedIn se isso fizer parte do seu fluxo de trabalho. Você também pode fazer uma tarefa personalizada para lembrá-los de convidá-los para uma hora feliz, perguntar sobre o evento de caridade deles, ou fazer check-in depois do jogo 5, etc.
+Você também pode fazer de &quot;Tarefa para enviar&quot; um contato no LinkedIn se isso fizer parte do seu fluxo de trabalho. Você também pode fazer uma tarefa personalizada para lembrá-los de convidá-los para uma hora feliz, perguntar sobre o evento de caridade ou fazer check-in depois do 5° jogo etc.
 
 >[!NOTE]
 >
->A coisa mais importante sobre as Tarefas no Campanha, é necessário concluir a tarefa para acionar a próxima etapa.
+>O mais importante sobre Tarefas em Campanhas é concluir a tarefa para acionar a próxima etapa.
 
-As tarefas sempre serão associadas a cada indivíduo na campanha. Isso significa que você tem que entrar em cada pessoa e fechar a tarefa para que a campanha individual continue.
+As tarefas sempre serão associadas a cada indivíduo na campanha. Isso significa que você precisa entrar em cada pessoa e fechar a tarefa para que a campanha individual continue.
 
-Você pode gerenciar suas tarefas em: a guia Tarefa da sua Campanha no Campanha 2.0, diretamente do Centro de Comando ou da seção Tarefa do Feed ao vivo. Além disso, você também pode gerenciar suas tarefas a partir do Salesforce.
+Você pode gerenciar suas tarefas em: a guia Tasks da sua Campanha no Campaign 2.0, diretamente do Centro de Comando ou da seção Tasks do Feed em tempo real. Além disso, também é possível gerenciar suas tarefas no Salesforce.

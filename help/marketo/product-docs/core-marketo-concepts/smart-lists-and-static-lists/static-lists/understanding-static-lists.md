@@ -3,7 +3,6 @@ unique-page-id: 2949891
 description: Noções básicas sobre listas estáticas - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre listas estáticas
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '215'
@@ -28,11 +27,11 @@ A diferença entre uma Lista estática e inteligente é crucial para entender.
 
 >[!CAUTION]
 >
->Um dos erros mais comuns é pensar que você pode remover uma pessoa de uma lista simplesmente &quot;excluindo a pessoa&quot;. **Isso está errado**. A exclusão da pessoa os excluirá de **todo o banco de dados**, não apenas da lista.
+>Um dos erros mais comuns é pensar que você pode remover uma pessoa de uma lista simplesmente &quot;excluindo a pessoa&quot;. **Isso está errado**. A exclusão da pessoa a excluirá **todo o banco de dados**, não apenas a lista.
 
 ## Maneiras de adicionar/remover pessoas de uma lista {#ways-to-add-remove-people-from-a-list}
 
-1. Etapa do fluxo da campanha inteligente ([Adicionar à Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Remover da Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. Etapa do fluxo da campanha inteligente ([Adicionar à lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Remover da Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
 
 1. [Etapa única do fluxo de ação](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
 1. Arrastar pessoas para uma lista na árvore

@@ -18,7 +18,7 @@ Se quiser colaborar com outros membros da equipe, atribuir tarefas pode ser uma 
 >
 >Só é possível atribuir tarefas para contatos compartilhados.
 
-1. Clique no **Centro de Comando**.
+1. Clique no botão **Centro de comando**.
 
    ![](assets/one-1.png)
 
@@ -50,6 +50,6 @@ Se quiser colaborar com outros membros da equipe, atribuir tarefas pode ser uma 
 
    ![](assets/eight.png)
 
-1. Adicione quaisquer detalhes importantes que sejam relevantes para o seu companheiro de equipe (opcional) e clique em **Create**.
+1. Adicione todos os detalhes importantes que sejam relevantes para sua equipe (opcional) e clique em **Criar**.
 
    ![](assets/nine.png)

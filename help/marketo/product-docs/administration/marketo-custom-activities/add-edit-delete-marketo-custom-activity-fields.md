@@ -3,7 +3,6 @@ unique-page-id: 10100275
 description: Adicionar/Editar/Excluir Campos De Atividade Personalizados Do Marketo - Documentos Do Marketo - Documentação Do Produto
 title: Adicionar/editar/excluir campos de atividade personalizados do Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
@@ -35,7 +34,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo d
 
    >[!TIP]
    >
-   >Não tem certeza do que selecionar? Nós te cobrimos! Todos os tipos de dados disponíveis são definidos em [this article](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Não tem certeza do que selecionar? Nós te cobrimos! Todos os tipos de dados disponíveis são definidos em [este artigo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Nomeie o campo. O Nome Da Api É preenchido automaticamente. Quando terminar, clique em **Salvar**.
 
@@ -43,7 +42,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo d
 
    Pronto! O novo campo foi adicionado.
 
-## Editar um campo de atividade personalizado {#edit-a-custom-activity-field}
+## Editar um campo de atividade personalizada {#edit-a-custom-activity-field}
 
 1. Em Atividades Personalizadas do Marketo, clique em **Campos**.
 
@@ -53,7 +52,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo d
 
    ![](assets/seven.png)
 
-1. Selecione o campo que deseja editar, clique no menu suspenso **Field Actions** e selecione **Edit Field**.
+1. Selecione o campo que deseja editar, clique no botão **Ações do campo** e selecione **Editar campo**.
 
    ![](assets/eight.png)
 
@@ -89,7 +88,7 @@ Seu campo foi editado!
 
    ![](assets/twelve.png)
 
-1. Selecione o campo que deseja excluir, clique no menu suspenso **Field Actions** e selecione **Delete Field**.
+1. Selecione o campo que deseja excluir, clique no botão **Ações do campo** e selecione **Excluir campo**.
 
    ![](assets/thirteen.png)
 

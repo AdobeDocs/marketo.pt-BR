@@ -3,7 +3,6 @@ unique-page-id: 10098479
 description: Criar uma atividade personalizada - Documentos do Marketo - Documentação do produto
 title: Criar uma atividade personalizada
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
@@ -19,19 +18,19 @@ Siga estas etapas para criar uma nova atividade personalizada.
 >
 >A maioria das subscrições tem um limite alocado de 10 tipos de Atividade personalizada.
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/one.png)
 
-1. Em **Gerenciamento de Banco de Dados** clique em **Atividades Personalizadas**.
+1. Em **Gerenciamento de banco de dados** click **Atividades personalizadas**.
 
    ![](assets/two.png)
 
-1. Clique em **Nova Atividade Personalizada**.
+1. Clique em **Nova atividade personalizada**.
 
    ![](assets/three.png)
 
-1. Insira um nome e uma descrição opcional, depois clique em **Next**. O Nome da API é preenchido automaticamente, mas pode ser personalizado.
+1. Insira um nome e uma descrição opcional, em seguida, clique em **Próximo**. O Nome da API é preenchido automaticamente, mas pode ser personalizado.
 
    ![](assets/four.png)
 
@@ -39,7 +38,7 @@ Siga estas etapas para criar uma nova atividade personalizada.
    >
    >Se decidir alterar o nome da API, verifique se o nome não está em conflito com campos em outras atividades personalizadas.
 
-1. Defina seu **Filtro** e **Acionador** e clique em **Próximo**.
+1. Defina as **Filtro** e **Acionador** e clique em **Próximo**.
 
    ![](assets/five.png)
 

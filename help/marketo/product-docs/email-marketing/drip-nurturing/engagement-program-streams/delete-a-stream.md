@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2359936
-description: Excluir um fluxo - Documentos do marketing - Documentação do produto
+description: Excluir um fluxo - Documentos do Marketo - Documentação do produto
 title: Excluir um fluxo
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-
 # Excluir um fluxo {#delete-a-stream}
 
-Se você precisar excluir um fluxo do seu programa de envolvimento, siga estas etapas rápidas e fáceis.
+Se precisar excluir um fluxo do seu programa de envolvimento, siga estas etapas rápidas e fáceis.
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu programa de envolvimento e vá para **Streams**.
+1. Selecione seu programa de envolvimento e acesse **Fluxos**.
 
    ![](assets/cloneasteam-2.jpg)
 
    >[!CAUTION]
    >
-   >A exclusão de um fluxo resultará na perda de dados históricos para o conteúdo desse fluxo.
+   >A exclusão de um fluxo resultará na perda de dados históricos para o conteúdo nesse fluxo.
 
 1. Clique no ícone de engrenagem e selecione **Excluir**.
 
@@ -37,4 +36,4 @@ Se você precisar excluir um fluxo do seu programa de envolvimento, siga estas e
 
    >[!NOTE]
    >
-   >Se o fluxo tiver pessoas nele, você será solicitado a [movê-las](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) para fora primeiro.
+   >Se o fluxo tiver pessoas nele, você será solicitado a [mover](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) primeiro.

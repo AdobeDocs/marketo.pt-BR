@@ -1,19 +1,18 @@
 ---
 unique-page-id: 11375276
-description: Dimension personalizados para insights de email - Documentos do Marketing - Documentação do produto
-title: Dimension personalizados para insights de email
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Dimension personalizado para insights de email - Documentos do Marketo - Documentação do produto
+title: Dimension personalizado para insights de email
+exl-id: e648a788-50da-495b-b195-f287bcbaeecb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
+# Dimension personalizado para insights de email {#custom-dimensions-for-email-insights}
 
-# Dimension personalizados para insights de email {#custom-dimensions-for-email-insights}
-
-Todas as dimensões padrão do Marketing estão incluídas, mas você tem a opção de adicionar até 10 dimensões personalizadas. As dimensões personalizadas consistem em segmentações e tags de programa. Aqui está como adicioná-los.
+Todas as dimensões padrão do Marketo são incluídas, mas você tem a opção de adicionar até 10 dimensões personalizadas. As dimensões personalizadas consistem em segmentações e tags de programa. Veja como adicioná-las.
 
 >[!NOTE]
 >
@@ -21,7 +20,7 @@ Todas as dimensões padrão do Marketing estão incluídas, mas você tem a opç
 
 >[!CAUTION]
 >
->As dimensões personalizadas **não podem** ser excluídas ou substituídas, portanto, escolha suas 10 com cuidado.
+>Dimensões personalizadas **cannot** ser excluído ou substituído, portanto, escolha as 10 com cuidado.
 
 1. No Email Insights, clique no ícone de engrenagem no canto superior direito da página.
 
@@ -31,7 +30,7 @@ Todas as dimensões padrão do Marketing estão incluídas, mas você tem a opç
 
    ![](assets/cd2.png)
 
-1. Clique em **+** ao lado de **Adicionar dimensão**.
+1. Clique no botão **+** ao lado de **Adicionar dimensão**.
 
    ![](assets/cd3.png)
 
@@ -41,6 +40,6 @@ Todas as dimensões padrão do Marketing estão incluídas, mas você tem a opç
 
    >[!NOTE]
    >
-   >**Por Audiência**: Exibe todas as Segmentações aprovadas (do banco de dados)
+   >**Por público-alvo**: Exibe todas as Segmentações aprovadas (no Banco de Dados)
    >
-   >**Por conteúdo**: Exibe todas as Tags de Programa
+   >**Por conteúdo**: Exibe todas as Tags de programa

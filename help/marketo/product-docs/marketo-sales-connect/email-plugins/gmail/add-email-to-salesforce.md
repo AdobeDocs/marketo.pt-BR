@@ -1,20 +1,19 @@
 ---
 unique-page-id: 14352483
-description: Adicionar email ao Salesforce - Documentos do Marketing - Documentação do produto
+description: Adicionar email ao Salesforce - Documentos do Marketo - Documentação do produto
 title: Adicionar email ao Salesforce
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
-
 # Adicionar email ao Salesforce {#add-email-to-salesforce}
 
-Adicionar email ao Salesforce permite que você envie todos os emails recebidos no Outlook ou no Gmail para sua conta do Salesforce. Fazemos a busca com base no remetente do email, de modo que atualmente só podemos usar esse botão para emails recebidos, e não emails enviados.
+Adicionar email ao Salesforce permite que você envie todos os emails recebidos no Outlook ou no Gmail para sua conta do Salesforce. Fazemos a pesquisa com base no remetente do email, para que atualmente possamos usar apenas esse botão para emails recebidos, não para emails enviados.
 
-Adicionar e-mail ao Salesforce ajudará você a registrar seus e-mails no nível de Oportunidade, Cliente, Conta e Oportunidade. Ao efetuar logon na Oportunidade, o contato será conectado a todas as Oportunidades.
+Adicionar email ao Salesforce ajudará você a registrar seus emails no nível de lead, contato, conta e oportunidade. Ao efetuar logon na Oportunidade, o contato será associado a todas as Oportunidades.
 
-Estamos trabalhando em alterar a funcionalidade para permitir que você registre emails que já enviou. Entretanto, se ele não for registrado automaticamente quando enviado, ou aparecer em suas atividades com falha no registro de atividades, você poderá encaminhá-lo para seu endereço de email do Salesforce BCC.
+Estamos trabalhando em alterar a funcionalidade para permitir que você registre emails já enviados. Entretanto, se ele não tiver registrado automaticamente quando enviado ou aparecer em suas atividades com falha no log de atividades, você poderá encaminhá-lo para seu endereço de email CCO do Salesforce.

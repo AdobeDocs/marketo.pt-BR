@@ -1,51 +1,50 @@
 ---
 unique-page-id: 4720257
-description: Adicionar Audiências personalizadas do Facebook como um serviço do LaunchPoint - Documentos do Marketing - Documentação do produto
-title: Adicionar Audiências personalizadas do Facebook como um Serviço do LaunchPoint
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Adicionar públicos-alvo personalizados do Facebook as a LaunchPoint Service - Documentos do Marketo - Documentação do produto
+title: Adicionar públicos-alvo personalizados do Facebook como um serviço do LaunchPoint
+exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
-
-# Adicionar Audiências personalizadas do Facebook como um Serviço LaunchPoint {#add-facebook-custom-audiences-as-a-launchpoint-service}
+# Adicionar públicos-alvo personalizados do Facebook como um serviço do LaunchPoint {#add-facebook-custom-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-Com essa integração, você pode enviar dados de audiência do Marketing para listas estáticas e inteligentes para o Facebook para serem usados como Audiências personalizadas nas Campanhas de anúncios do Facebook. Veja como configurar.
+Com essa integração, você pode enviar dados do público-alvo de listas estáticas e inteligentes do Marketo para o Facebook para serem usados como Públicos-alvo personalizados em Campanhas de anúncio do Facebook. Veja como configurar.
 
-1. Vá para Marketo **Admin**.
+1. Ir para o Marketo **Administrador**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Vá para **LaunchPoint**, clique em **Novo** e selecione **Novo Serviço**.
+1. Ir para **LaunchPoint**, clique em **Novo** e selecione **Novo Serviço**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Digite um **Nome de exibição** para seu serviço e selecione o serviço **Audiência personalizado do Facebook** no menu suspenso **Service**.
+1. Insira um **Nome de exibição** para seu serviço e selecione o **Públicos-alvo personalizados do facebook** do **Serviço** lista suspensa.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Abra uma nova guia no mesmo navegador e vá para [facebook.com](https://www.facebook.com/). Faça logon no Facebook usando a conta que deseja usar para a integração.
+1. Abra uma nova guia no mesmo navegador e acesse [facebook.com](https://www.facebook.com/). Faça logon no Facebook usando a conta que deseja usar para a integração.
 
    >[!CAUTION]
    >
-   >Para que o Marketo envie audiências através de várias contas do Ad Manager, o usuário do Facebook autorizado nas etapas a seguir precisa ter acesso a *todas* dessas contas.
+   >Para que o Marketo envie públicos por várias contas do Gerenciador de anúncios, o usuário do Facebook autorizado nas etapas a seguir precisa ter acesso ao *all* dessas contas.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Depois que você estiver conectado ao Facebook, volte para Marketo. Clique em **Autorizar**.
+1. Depois de fazer logon no Facebook, volte para a Marketo. Clique em **Autorizar**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >Você _deve_ usar uma conta do Facebook Business Manager para que sua integração com o Audiência personalizado funcione. Para saber como configurar uma conta do Business Manager, consulte [Ajuda do Facebook](https://www.facebook.com/business/help/1710077379203657).
+   >Você _must_ use uma conta do Facebook Business Manager para que sua integração com o Custom Audiences funcione. Para saber como configurar uma conta do Business Manager, consulte [Ajuda do facebook](https://www.facebook.com/business/help/1710077379203657).
 
 1. Se solicitado, clique em **OK** para aceitar a instalação do aplicativo Marketo no Facebook.
 
@@ -55,20 +54,19 @@ Com essa integração, você pode enviar dados de audiência do Marketing para l
 
    >[!NOTE]
    >
-   >**A** Correspondência básica usa somente endereços de email. **A** Correspondência avançada usa sete campos adicionais, o que aumenta a taxa de correspondência para obter mais conversão. No entanto, se sua política de privacidade do empresa não permitir o compartilhamento de campos adicionais ou se seus dados não os incluírem, selecione Correspondência básica.
+   >**Correspondência básica** O usa somente endereços de email. **Correspondência avançada** O usa sete campos adicionais, que aumenta a taxa de correspondência para mais conversão. No entanto, se a política de privacidade da sua empresa não permitir o compartilhamento de campos adicionais ou se os dados não incluírem, selecione Correspondência básica.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Ótimo trabalho! Agora você pode ir até qualquer lista estática ou inteligente no Marketo e enviar dados de audiência para o Facebook.
+   Muito bem! Agora é possível ir para qualquer lista estática ou inteligente no Marketo e enviar dados de público-alvo para o Facebook.
 
    >[!CAUTION]
    >
-   >Oh, antes de ir, certifique-se de [Aceitar os Termos de Audiência Personalizados do Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) na sua conta do Facebook! Sem isso, as atualizações de audiência falharão.
+   >Antes de ir, não se esqueça de [Aceite os termos de públicos-alvo personalizados do Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) na sua conta do Facebook! Sem fazer isso, as atualizações do público-alvo falharão.
 
 >[!MORELIKETHIS]
 >
->* [Criar uma Audiência personalizada no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-   >
-   >
-* [Configurar Anúncios de venda do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [Criar um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>
+>* [Configurar anúncios de lead da Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 

@@ -3,7 +3,6 @@ unique-page-id: 2360293
 description: Renomear um campo - Documentos do Marketo - Documentação do produto
 title: Renomear um campo
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
@@ -21,7 +20,7 @@ ht-degree: 1%
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para Admin e clique em **Gerenciamento de campo**.
+1. Acesse Admin e clique em **Gerenciamento de campos**.
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
@@ -29,11 +28,11 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >Clique no link **Usado por** para localizar ativos que fazem referência a esse campo.
+   >Clique no botão **Usado por** link para localizar ativos que fazem referência a esse campo.
 
    ![](assets/changefieldname.png)
 
-1. Renomeie o campo e clique em **Save**.
+1. Renomeie o campo e clique em **Salvar**.
 
    ![](assets/image2014-9-24-14-2-55.png)
 

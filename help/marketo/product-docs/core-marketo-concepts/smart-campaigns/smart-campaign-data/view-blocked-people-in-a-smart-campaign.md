@@ -3,7 +3,6 @@ unique-page-id: 1147062
 description: Exibir pessoas bloqueadas em uma campanha inteligente - Documentos do Marketo - Documentação do produto
 title: Exibir pessoas bloqueadas em uma campanha inteligente
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
@@ -19,7 +18,7 @@ As pessoas bloqueadas no banco de dados do Marketo são marcadas como incluir na
 >
 >A Marketo está mudando termos como Blacklist e Whitelist para Lista de bloqueios e Lista de permissões em nosso produto. Durante essa atualização, você pode ver os termos antigos em nossa interface do usuário e capturas de tela da documentação, bem como os novos termos em nosso texto de documentação. Pedimos desculpas por qualquer confusão.
 
-1. Na campanha inteligente, clique em **Schedule**. Em **Status da Smart List** clique no segundo link.
+1. Em sua campanha inteligente, clique em **Agendar**. Em **Status da Smart List** clique no segundo link.
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 

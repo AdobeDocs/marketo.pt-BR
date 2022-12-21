@@ -48,7 +48,7 @@ Com uma ID universal para várias assinaturas, somente você pode alterar a senh
 
 ## Alternando entre assinaturas {#switching-between-subscriptions}
 
-Usando uma ID universal, você pode ver a assinatura na qual está conectado e selecionar outras assinaturas nas quais tem acesso de logon. Na maioria dos casos, você pode alternar entre eles sem ter que fazer logoff e voltar a fazer logon.
+Com uma ID universal, é possível ver a assinatura na qual você está conectado e selecionar outras assinaturas nas quais você tem acesso de logon. Na maioria dos casos, você pode alternar entre eles sem ter que fazer logoff e voltar a fazer logon.
 
 ![](assets/image2016-11-3-15-3a10-3a16.png)
 
@@ -60,7 +60,7 @@ Se você tiver várias subscrições, poderá ter vários perfis da comunidade. 
 
 ## Plataforma móvel {#mobile-platform}
 
-Os usuários com a ID universal podem ver seus dados no Marketo Moments e no aplicativo de check-in do evento do iPad a partir da assinatura em que fizeram logon pela última vez. Não é possível alterar assinaturas da plataforma móvel propriamente dita.
+Os usuários com ID universal podem ver seus dados no Marketo Moments e no aplicativo de check-in de evento do iPad a partir da assinatura em que fizeram logon pela última vez. Não é possível alterar assinaturas da plataforma móvel propriamente dita.
 
 >[!MORELIKETHIS]
 >

@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359987
-description: Inscrever-se em um relatório básico - Documentos do Marketing - Documentação do produto
+description: Assine um relatório básico - Documentos do Marketo - Documentação do produto
 title: Inscrever-se em um relatório básico
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
 
-
-# Assine um relatório básico {#subscribe-to-a-basic-report}
+# Inscrever-se em um relatório básico {#subscribe-to-a-basic-report}
 
 Para receber atualizações automáticas de um relatório básico, ou para compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
 
 >[!NOTE]
 >
->Para obter subscrições de relatório do Revenue Cycle Explorer, consulte [Inscrever-se em um Relatório do Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Para assinaturas de relatório do Revenue Cycle Explorer, consulte [Inscrever-se em um Relatório do Explorador de Receitas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Vá para a área **Atividades de marketing**.
+1. Vá para o **Atividades de marketing** área.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Selecione seu relatório na árvore de navegação e clique na guia **Subscrição**.
+1. Selecione seu relatório na árvore de navegação e clique no botão **Subscrições** guia .
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >Você também pode assinar relatórios da guia **Analytics**.
+   >Também é possível assinar relatórios do **Analytics** guia .
 
-1. Clique em **Nova Subscrição de relatório**.
+1. Clique em **Nova assinatura de relatório**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -41,12 +40,12 @@ Para receber atualizações automáticas de um relatório básico, ou para compa
 
    >[!NOTE]
    >
-   >Qualquer pessoa pode cancelar a inscrição no relatório por email recebido.
+   >Qualquer pessoa pode cancelar a inscrição no relatório no email recebido.
 
-   É isso! Verifique sua caixa de entrada!
+   Pronto! Verifique sua caixa de entrada!
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
    >[!MORELIKETHIS]
    >
-   >Saiba como [gerenciar todas as subscrições de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) em um único lugar.
+   >Saiba como [gerenciar todas as assinaturas de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) em um só lugar.

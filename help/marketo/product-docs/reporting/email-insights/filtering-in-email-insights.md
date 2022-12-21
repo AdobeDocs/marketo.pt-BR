@@ -1,27 +1,26 @@
 ---
 unique-page-id: 10099798
-description: Filtragem em insights de email - Documentos do Marketing - Documentação do produto
+description: Filtragem em insights de email - Documentos do Marketo - Documentação do produto
 title: Filtragem em insights de email
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Filtragem em Insights de Email {#filtering-in-email-insights}
+# Filtragem em insights de email {#filtering-in-email-insights}
 
 No Email Insights, há diferentes maneiras de filtrar seus dados.
 
-## Insights de Email {#email-insights}
+## Email Insights {#email-insights}
 
-Clique no sinal + para adicionar filtros ao start. Adicione quantos quiser.
+Clique em + para começar a adicionar filtros. Adicione quantos quiser.
 
 ![](assets/one-2.png)
 
-Se você tiver mais de um filtro na mesma categoria, ele irá mesclar e exibir a quantidade.
+Se você tiver mais de um filtro na mesma categoria, eles mesclarão e exibirão a quantidade.
 
 ![](assets/state.png)
 
@@ -37,15 +36,15 @@ E ainda mais filtros!
 
 ![](assets/more-filters.png)
 
-O gráfico muda depois que cada filtro é aplicado.
+O gráfico muda após a aplicação de cada filtro.
 
 ![](assets/filtered-chart.png)
 
-Para excluir uma categoria, clique em seu X.
+Para excluir uma categoria, clique no X.
 
 ![](assets/filter1.png)
 
-Para limpar todos os filtros, clique no X no final da barra de filtro.
+Para limpar todos os filtros, clique no X no final da barra de filtros.
 
 ![](assets/filter2.png)
 
@@ -53,16 +52,16 @@ Para dados específicos de data, use intervalos de datas.
 
 ![](assets/date-click.png)
 
-Escolha entre intervalos de datas predefinidos comuns, selecione datas específicas, até mesmo use o período anterior para comparação.
+Escolha entre intervalos de datas predefinidos comuns, selecione datas específicas, mesmo use o período anterior para comparação.
 
 ![](assets/date-range.png)
 
 >[!NOTE]
 >
->Os intervalos de datas se aplicam à página Análises e à página Envios. Entretanto, a opção **Comparar** só é aplicável à página do Analytics.
+>Os intervalos de datas se aplicam à página do Analytics e às páginas Envios . O **Comparar** no entanto, essa opção só é aplicável à página do Analytics.
 
 ## Marketing baseado em conta {#account-based-marketing}
 
-Se você usar [Gerenciamento de conta de Público alvo](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), há filtros específicos para você.
+Se você usar [Gerenciamento de conta do Target](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), há filtros especificamente para você.
 
 ![](assets/abm.png)

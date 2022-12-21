@@ -3,15 +3,14 @@ unique-page-id: 557275
 description: Usar Listas inteligentes integradas/do sistema - Documentos do Marketo - Documentação do produto
 title: Usar Smart Lists integradas/do sistema
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
-# Usar Listas Inteligentes Incorporadas/do Sistema {#use-built-in-system-smart-lists}
+# Usar Smart Lists integradas/do sistema {#use-built-in-system-smart-lists}
 
 O Marketo tem algumas listas inteligentes incorporadas muito úteis. Vamos conferir!
 
@@ -19,15 +18,15 @@ O Marketo tem algumas listas inteligentes incorporadas muito úteis. Vamos confe
 >
 >A Marketo está mudando termos como Blacklist e Whitelist para Lista de bloqueios e Lista de permissões em nosso produto. Durante essa atualização, você pode ver os termos antigos em nossa interface do usuário e capturas de tela da documentação, bem como os novos termos em nosso texto de documentação. Pedimos desculpas por qualquer confusão.
 
-1. Vá para o **Banco de Dados**.
+1. Vá para o **Banco de dados**.
 
    ![](assets/db.png)
 
-1. Abra a pasta **Listas inteligentes do sistema** para revelar a coleção.
+1. Abra o **Smart Lists do sistema** pasta para revelar a coleção.
 
    ![](assets/two.png)
 
-1. Para ver um exemplo: Selecione **Todas as Pessoas** e clique na guia **Pessoas**.
+1. Para ver um exemplo: Selecionar **Todas as pessoas**, em seguida, clique no botão **Pessoas** guia .
 
    ![](assets/three.png)
 
@@ -41,8 +40,8 @@ Aqui está um resumo do que as listas inteligentes integradas fazem:
 |---|---|
 | Todas as pessoas | Todas as pessoas no banco de dados do Marketo |
 | Pessoas com inscrição cancelada | Essas pessoas só podem receber emails operacionais; isto é geralmente controlado pela própria pessoa. |
-| Campanha de marketing suspensa | Essas pessoas só podem receber emails operacionais; isso geralmente é controlado por você, o comerciante. |
-|  Lista de bloqueios | Essas pessoas não receberão nenhum email. |
+| Marketing suspenso | Essas pessoas só podem receber emails operacionais; isso geralmente é controlado por você, o comerciante. |
+| Lista de bloqueios | Essas pessoas não receberão nenhum email. |
 | Endereços de e-mail com mensagens devolvidas | Pessoas com um endereço de email que não pode ser entregue ou que rejeitam seu email. |
 | Possíveis duplicatas | Pessoas que podem estar duplicadas no banco de dados do Marketo. |
 

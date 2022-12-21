@@ -2,7 +2,6 @@
 description: Exportar funções e permissões - Documentos do Marketo - Documentação do produto
 title: Exportar funções e permissões
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '86'
@@ -18,15 +17,15 @@ Veja como exportar todas as funções e suas permissões.
 >
 >Permissões de administrador necessárias
 
-1. Em Minha Marketo, clique em **Admin**.
+1. Em Minha Marketo, clique em **Administrador**.
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. Selecione **Users and Roles**.
+1. Selecionar **Usuários e funções**.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. Clique na guia **Funções**.
+1. Clique no botão **Funções** guia .
 
    ![](assets/export-roles-and-permissions-3.png)
 

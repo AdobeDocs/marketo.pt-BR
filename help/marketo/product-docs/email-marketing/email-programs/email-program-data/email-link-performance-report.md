@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359478
 description: Relatório de desempenho do link de email - Documentos do Marketo - Documentação do produto
-title: 'Relatório de desempenho de links de e-mail do '
+title: Relatório de desempenho de links de e-mail do
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 source-git-commit: 36315cda6932121da3656ba1ae3495401b321135
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '233'
+ht-degree: 6%
 
 ---
 

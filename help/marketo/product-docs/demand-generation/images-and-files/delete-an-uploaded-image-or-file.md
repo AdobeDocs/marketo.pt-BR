@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2359873
-description: Excluir uma imagem ou um arquivo carregado - Documentos do Marketing - Documentação do produto
-title: Excluir uma imagem ou um arquivo carregado
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Excluir uma imagem ou arquivo carregado - Documentos do Marketo - Documentação do produto
+title: Excluir uma imagem ou arquivo carregado
+exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Excluir uma imagem ou arquivo carregado {#delete-an-uploaded-image-or-file}
 
-# Excluir uma imagem ou um arquivo carregado {#delete-an-uploaded-image-or-file}
-
-1. Vá para **Design** **Studio**.
+1. Vá para o **Design** **Studio**.
 
    ![](assets/designstudio-5.png)
 
-1. Selecione **Imagens e Arquivos** no menu esquerdo e clique em ao lado do nome do arquivo que deseja excluir.
+1. Selecionar **Imagens e arquivos** no menu esquerdo, clique em ao lado do nome do arquivo que deseja excluir.
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Clique no menu suspenso **Ações de arquivo** e selecione **Excluir**.
+1. Clique no botão **Ações do arquivo** e selecione **Excluir**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
@@ -31,9 +30,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Imagens e arquivos excluídos são completamente removidos do Marketo e não podem ser recuperados.  Eles não serão mais exibidos em nenhuma landing page ou e-mail em que estiverem em uso.
+   >Imagens e arquivos excluídos são completamente removidos do Marketo e não podem ser recuperados.  Eles não serão mais exibidos em páginas de aterrissagem ou emails em que estavam em uso.
 
-1. Você será retornado para as páginas **Imagens** e **Arquivos**, onde você verá que seu arquivo foi excluído.
+1. Você será retornado ao **Imagens** e **Arquivos** , onde você verá que seu arquivo foi excluído.
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 

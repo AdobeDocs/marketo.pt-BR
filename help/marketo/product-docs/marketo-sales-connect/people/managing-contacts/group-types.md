@@ -1,15 +1,14 @@
 ---
 unique-page-id: 30081321
-description: Tipos de grupo - Documentos do marketing - Documentação do produto
+description: Tipos de grupo - Documentos do Marketo - Documentação do produto
 title: Tipos de grupo
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
-
 
 # Tipos de grupo {#group-types}
 
@@ -24,12 +23,12 @@ Saiba mais sobre os diferentes tipos de grupos no Sales Connect.
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Grupo</th> 
+   <th>Agrupar</th> 
    <th>Descrição</th> 
   </tr> 
   <tr> 
    <td><p>Todas as pessoas</p></td> 
-   <td>Todos os contatos de todos os usuários que estão visíveis para você.</td> 
+   <td>Todos os contatos de todos os usuários visíveis para você.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Grupos dinâmicos</p></td> 
@@ -40,8 +39,8 @@ Saiba mais sobre os diferentes tipos de grupos no Sales Connect.
    <td>Grupos que você criou. Eles podem conter seus contatos ou contatos que foram compartilhados com você.</td> 
   </tr> 
   <tr> 
-   <td><p>Grupos de grupos</p></td> 
-   <td>Grupos que foram compartilhados com e/ou por você. Eles podem conter contatos de seus colegas de equipe ou contatos que você compartilhou com eles.</td> 
+   <td><p>Grupos da equipe</p></td> 
+   <td>Grupos compartilhados com e/ou por você. Eles podem conter contatos de seus colegas de equipe ou contatos que você compartilhou com eles.</td> 
   </tr> 
  </tbody> 
 </table>

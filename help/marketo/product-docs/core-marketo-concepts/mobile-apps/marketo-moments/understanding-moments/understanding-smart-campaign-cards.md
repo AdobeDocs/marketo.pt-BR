@@ -3,7 +3,6 @@ unique-page-id: 10093348
 description: Noções básicas sobre cartões de campanha inteligente - Documentos do Marketo - Documentação do produto
 title: Como entender os cartões de campanha inteligente
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
@@ -27,7 +26,7 @@ Para futuras campanhas inteligentes programadas, mas ainda não executadas, o ca
 
 1. O cartão de detalhes fornece acesso a informações sobre os filtros Smart List, Fluxo e Resumo de email.
 
-1. Toque em **Smart List**.
+1. Toque **Lista inteligente**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -35,7 +34,7 @@ Para futuras campanhas inteligentes programadas, mas ainda não executadas, o ca
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Toque em **Fluxo**.
+1. Toque **Fluxo**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -43,7 +42,7 @@ Para futuras campanhas inteligentes programadas, mas ainda não executadas, o ca
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Clique em **Resumo de email**.
+1. Clique em **Resumo do email**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -59,7 +58,7 @@ Para futuras campanhas inteligentes programadas, mas ainda não executadas, o ca
    >
    >Observe que o outro ponto está destacado agora.
 
-## Criação de amostras de email e visualizações {#creating-email-samples-and-previews}
+## Criação de amostras e visualizações de email {#creating-email-samples-and-previews}
 
 É uma boa ideia dar uma olhada em um e-mail antes que ele saia. Ou envie uma amostra para outra pessoa para ter um segundo conjunto de olhos nela.
 
@@ -67,7 +66,7 @@ Para futuras campanhas inteligentes programadas, mas ainda não executadas, o ca
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Toque em [Enviar amostra](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) ou [Visualizar email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (clique nesses links para obter detalhes).
+1. Toque [Enviar exemplo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) ou [Visualizar Email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (clique nesses links para obter detalhes).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -79,11 +78,11 @@ Os cartões para campanhas inteligentes não confirmadas são cinza até que voc
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Toque em **Confirmar**.
+1. Toque **Confirmar**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Toque em **Confirmar** para concluir o trabalho ou em **Nunca pensar** se tiver pensamentos secundários.
+1. Toque **Confirmar** para terminar o trabalho, ou **Sem importância** se tiver pensamentos secundários.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -99,15 +98,15 @@ Você pode cancelar uma execução de campanha inteligente confirmada e agendada
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Toque em **Cancelar Execução**.
+1. Toque **Cancelar execução**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Toque em **Cancelar Execução**. Se você decidir no último minuto não cancelar a execução, toque em **Never Mind** e a campanha inteligente será executada conforme agendado.
+1. Toque **Cancelar execução**. Se decidir não cancelar a execução no último minuto, toque em **Sem importância** e a campanha inteligente será executada conforme agendado.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
-## Reagendamento de uma Campanha Inteligente {#rescheduling-a-smart-campaign}
+## Reprogramação de uma campanha inteligente {#rescheduling-a-smart-campaign}
 
 Você pode reprogramar uma campanha inteligente confirmada que ainda não foi executada.
 
@@ -115,7 +114,7 @@ Você pode reprogramar uma campanha inteligente confirmada que ainda não foi ex
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Toque em **Reprogramar**.
+1. Toque **Reprogramar**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
@@ -125,7 +124,7 @@ Você pode reprogramar uma campanha inteligente confirmada que ainda não foi ex
 
    Pedaço de bolo!
 
-## Outras ações de campanha inteligente {#other-smart-campaign-actions}
+## Outras ações da campanha inteligente {#other-smart-campaign-actions}
 
 Assim como em outros cartões de Momentos do Marketo, você pode tocar nos três pontos em qualquer cartão do Smart Campaign ou em um cartão de detalhes para:
 
@@ -137,8 +136,8 @@ Assim como em outros cartões de Momentos do Marketo, você pode tocar nos três
 
 >[!NOTE]
 >
->Você também pode tocar no ícone **Compartilhar** em um cartão do Smart Campaign para compartilhar e nos ícones **Concluído** e **Favorito** no cartão de detalhes.
+>Também é possível tocar no botão **Compartilhar** ícone em um cartão do Smart Campaign para compartilhar e o **Concluído** e **Favorito** no cartão de detalhes.
 
-## Exclua rapidamente um cartão de campanha inteligente {#quickly-delete-a-smart-campaign-card}
+## Excluir rapidamente um cartão de campanha inteligente {#quickly-delete-a-smart-campaign-card}
 
 Se você tiver um cartão que não precisa mais, talvez um que tenha usado para testar, você pode se livrar dele com um deslize rápido para a esquerda ou para a direita.

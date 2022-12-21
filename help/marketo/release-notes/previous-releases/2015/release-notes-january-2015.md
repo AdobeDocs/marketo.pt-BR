@@ -30,7 +30,7 @@ Três novas chamadas para a API ReST de lead &amp; atividade:
 * Obter leads por ID de programa
 * Obter leads excluídos
 
-Além disso, há uma nova opção para Sincronizar lead, para gravar a alteração de lead de forma assíncrona para uma chamada de API mais rápida. Detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com)
+Além disso, há uma nova opção para Sincronizar lead, para gravar a alteração de lead de forma assíncrona para uma chamada de API mais rápida. Os detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com)
 
 **Suporte a objeto personalizado de script de e-mail**
 
@@ -40,7 +40,7 @@ Agora acesse objetos personalizados associados ao objeto Conta a partir de scrip
 
 **Remarketing personalizado para Google e Facebook**
 
-O remarketing mostra anúncios para pessoas que visitaram seu site. Agora você pode personalizar suas campanhas de remarketing no [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) e [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) usando dados da Personalização em tempo real. Compre para públicos-alvo de diferentes setores, listas de conta nomeadas, tamanhos de empresa ou quaisquer dados de leads conhecidos.
+O remarketing mostra anúncios para pessoas que visitaram seu site. Agora você pode personalizar suas campanhas de remarketing em [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) e [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) uso de dados da personalização em tempo real. Compre para públicos-alvo de diferentes setores, listas de conta nomeadas, tamanhos de empresa ou quaisquer dados de leads conhecidos.
 
 [Módulo de lista de contas nomeado](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -61,6 +61,6 @@ As opções de Tag RTP em Configurações da conta foram atualizadas para inclui
 1. Tag assíncrona sem CDN
 1. Tag síncrona sem CDN
 
-Para melhor desempenho, é recomendável colocar a tag na parte superior do cabeçalho da página da Web depois de `<head>`. Todas as tags permitem o uso da [API RTP](https://developers.marketo.com/documentation/websites/rtp-js-api/). Para obter informações sobre como implantar a tag RTP, consulte [aqui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para melhor desempenho, é recomendável colocar a tag na parte superior do cabeçalho da página da Web após `<head>`. Todas as tags permitem o uso da variável [API RTP](https://developers.marketo.com/documentation/websites/rtp-js-api/). Para obter informações sobre como implantar a Tag RTP, consulte [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

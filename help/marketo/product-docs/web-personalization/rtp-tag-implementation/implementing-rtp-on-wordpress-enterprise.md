@@ -1,23 +1,22 @@
 ---
 unique-page-id: 4720215
-description: Implementação da RTP no Wordpress Enterprise - Documentos do Marketing - Documentação do produto
+description: Implementação da RTP no Wordpress Enterprise - Documentos do Marketo - Documentação do produto
 title: Implementação da RTP na Wordpress Enterprise
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
-# Implementando RTP no Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
+# Implementação da RTP na Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
 Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
-1. Vá para **Configurações da conta**.
+1. Ir para **Configurações da conta**.
 
-   a. Se você já tiver recebido sua tag JavaScript do Suporte - continue com a etapa 3.
+   a. Se você já recebeu sua tag JavaScript do Suporte - continue para a etapa 3.
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
@@ -25,12 +24,12 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
-1. Copie a tag RTP JavaScript.
+1. Copie a tag do JavaScript RTP.
 
-1. Faça logon na sua conta do WordPress como Usuário administrador
+1. Faça logon em sua conta do WordPress como usuário administrador
 
    a. Em **Aparência**, vá para **JavaScript personalizado**.
-b. Cole a tag RTP Javascript logo após o código existente.
+b. Cole a tag do Javascript RTP logo após o código existente.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
 

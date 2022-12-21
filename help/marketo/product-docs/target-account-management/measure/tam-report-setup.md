@@ -2,22 +2,21 @@
 unique-page-id: 11384438
 description: Configuração do relatório TAM - Documentos do Marketo - Documentação do produto
 title: Configuração de Relatório de TAM
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-
-# Configuração de relatório TAM {#tam-report-setup}
+# Configuração de Relatório de TAM {#tam-report-setup}
 
 O TAM Sales Report é um email semanal personalizado enviado à equipe da conta.
 
 ## Configuração de relatório {#report-setup}
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/one-3.png)
 
@@ -29,15 +28,15 @@ O TAM Sales Report é um email semanal personalizado enviado à equipe da conta.
 
    ![](assets/three-3.png)
 
-1. Clique no menu suspenso **Day** e selecione o dia da semana em que deseja que os recipients recebam o email.
+1. Clique no botão **Dia** e selecione o dia da semana em que deseja que os recipients recebam o email.
 
    ![](assets/four-4.png)
 
-1. Para determinar o layout do email, clique no menu suspenso **Classificar por** e faça uma seleção.
+1. Para determinar o layout do email, clique no link **Ordenar por** e faça uma seleção.
 
    ![](assets/five-3.png)
 
-1. Marque a caixa de seleção **Users** e clique na lista suspensa e selecione quem deseja receber o email.
+1. Verifique a **Usuários** , clique no menu suspenso e selecione quem deseja receber o email.
 
    ![](assets/six-2.png)
 
@@ -51,15 +50,15 @@ O TAM Sales Report é um email semanal personalizado enviado à equipe da conta.
 
 E é isso!
 
-## Como cancelar a assinatura {#how-to-unsubscribe}
+## Como cancelar a inscrição {#how-to-unsubscribe}
 
-Cada relatório tem a opção de recusa. Para fazer isso, basta clicar em **Unsubscribe** na parte inferior do email.
+Cada relatório tem a opção de recusa. Para fazer isso, basta clicar em **Cancelar inscrição** na parte inferior do email.
 
 ![](assets/eight-1.png)
 
 ## Como reinscrever {#how-to-resubscribe}
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/one-3.png)
 
@@ -71,7 +70,7 @@ Cada relatório tem a opção de recusa. Para fazer isso, basta clicar em **Unsu
 
    ![](assets/nine.png)
 
-1. Clique no menu suspenso **Users**.
+1. Clique no botão **Usuários** lista suspensa.
 
    ![](assets/ten.png)
 

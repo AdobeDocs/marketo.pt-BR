@@ -3,7 +3,6 @@ unique-page-id: 14352402
 description: Convidar usuários - Documentos do Marketo - Documentação do produto
 title: Convidar usuários
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
-translation-type: tm+mt
 source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
 source-wordcount: '60'
@@ -15,11 +14,11 @@ ht-degree: 6%
 
 Adicionar usuários é rápido e fácil!
 
-1. Clique no ícone de engrenagem e selecione **Settings**.
+1. Clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/one.png)
 
-1. Em Configurações de administração, selecione **Gerenciamento de usuário**.
+1. Em Configurações de administração, selecione **Gerenciamento de usuários**.
 
    ![](assets/invite-team-members-2.png)
 
@@ -27,7 +26,7 @@ Adicionar usuários é rápido e fácil!
 
    ![](assets/invite-team-members-3.png)
 
-1. Insira os endereços de email dos indivíduos que deseja adicionar e clique em **Next**.
+1. Insira os endereços de email dos indivíduos que deseja adicionar e clique em **Próximo**.
 
    ![](assets/four.png)
 

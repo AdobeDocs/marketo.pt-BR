@@ -3,7 +3,6 @@ unique-page-id: 557337
 description: Criar e alterar exibições para listas e Smart List - Documentos do Marketo - Documentação do produto
 title: Criar e alterar visualizações de listas e Smart List
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Criar e alterar exibições para listas e Smart List {#create-and-change-views-for-lists-and-smart-list}
+# Criar e alterar visualizações de listas e Smart List {#create-and-change-views-for-lists-and-smart-list}
 
 Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que podia editar essas colunas no conteúdo do seu coração? Veja como.
 
-## Criar uma Exibição {#create-a-view}
+## Criar uma exibição {#create-a-view}
 
-1. Vá para uma lista ou lista inteligente, clique na guia **People** e clique em **Create** **View** no menu suspenso **View**.
+1. Vá para uma lista ou lista inteligente, clique no botão **Pessoas** e clique em **Criar** **Exibir** nos termos do **Exibir** lista suspensa.
 
    ![](assets/smartlist-createview.png)
 
@@ -31,11 +30,11 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que podi
 
 >[!TIP]
 >
->Para pesquisar rapidamente, use a caixa **Localizar**.
+>Para pesquisar rapidamente, use o **Localizar** caixa.
 
-## Alternar Exibições {#switch-views}
+## Alternar visualizações {#switch-views}
 
-1. Clique no menu suspenso **View** e selecione a exibição desejada. Alterne entre exibições conforme necessário.
+1. Clique no botão **Exibir** selecione a exibição desejada. Alterne entre exibições conforme necessário.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -43,23 +42,23 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que podi
 >
 > Primeiro, você deve criar uma segunda visualização, além da exibição padrão, para alternar entre as exibições.
 
-## Editar uma Exibição {#edit-a-view}
+## Editar uma exibição {#edit-a-view}
 
-1. Certifique-se de que a exibição que deseja editar esteja selecionada na lista suspensa **View**.
+1. Certifique-se de que a exibição que deseja editar esteja selecionada na **Exibir** lista suspensa.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Clique na opção **Editar**.
+1. Clique no botão **Editar** opção.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Faça as alterações desejadas e clique em **Save**.
+1. Faça as alterações desejadas e clique em **Salvar**.
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-## Excluir uma Exibição {#delete-a-view}
+## Excluir uma exibição {#delete-a-view}
 
-1. Selecione a opção **Edit** para a exibição que deseja excluir do menu suspenso **View**.
+1. Selecione o **Editar** para a exibição que você deseja excluir do **Exibir** lista suspensa.
 
    ![](assets/smartlist-editcustomview.png)
 

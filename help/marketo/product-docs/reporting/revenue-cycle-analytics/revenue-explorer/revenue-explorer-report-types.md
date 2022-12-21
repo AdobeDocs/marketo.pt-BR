@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7504922
-description: Tipos de relatório do Revenue Explorer - Documentos do Marketing - Documentação do produto
-title: Tipos de Relatório do Explorador de Receitas
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Tipos de relatório do explorador de receita - Documentos do Marketo - Documentação do produto
+title: Tipos de Relatório do Explorador de Receita
+exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
+# Tipos de Relatório do Explorador de Receita {#revenue-explorer-report-types}
 
-# Tipos de relatórios do Revenue Explorer {#revenue-explorer-report-types}
-
-Estes são os tipos de relatórios que você encontrará se utilizar o Revenue Cycle Analytics.
+A seguir estão os tipos de relatórios que você encontrará se utilizar o Revenue Cycle Analytics.
 
 <table> 
  <thead> 
@@ -24,39 +23,39 @@ Estes são os tipos de relatórios que você encontrará se utilizar o Revenue C
  </thead> 
  <tbody> 
   <tr> 
-   <td>Análise de email</td> 
+   <td>Análise de e-mails</td> 
    <td>Métricas e atributos relacionados a emails específicos enviados</td> 
   </tr> 
   <tr> 
-   <td>Análise de cliente potencial</td> 
-   <td>Métricas de clientes potenciais e empresas e atributos relacionados a clientes potenciais</td> 
+   <td>Análise de leads</td> 
+   <td>Métricas e atributos de lead e da empresa relacionados a leads</td> 
   </tr> 
   <tr> 
-   <td>Análise de desempenho do modelo (Empresa)</td> 
+   <td>Análise de desempenho de modelo (empresas)</td> 
    <td>Métricas e atributos relacionados ao modelo do ciclo de receita por empresa</td> 
   </tr> 
   <tr> 
-   <td>Análise de desempenho do modelo (clientes potenciais)</td> 
-   <td>Métricas e atributos relacionados ao modelo do ciclo de receita por cliente potencial</td> 
+   <td>Análise de desempenho de modelo (leads)</td> 
+   <td>Métricas e atributos relacionados ao modelo do ciclo de receita por lead</td> 
   </tr> 
   <tr> 
-   <td>Análise de oportunidade</td> 
-   <td><p>Métricas e atributos relacionados a oportunidades de venda e empresa</p></td> 
+   <td>Análise de oportunidades</td> 
+   <td><p>Métricas e atributos de clientes potenciais e da empresa relacionados a oportunidades</p></td> 
   </tr> 
   <tr> 
    <td>Análise de custo do programa</td> 
    <td>Métricas e atributos relacionados a programas com pelo menos um período de custo</td> 
   </tr> 
   <tr> 
-   <td>Análise de associação ao programa</td> 
+   <td>Análise de adesão ao programa</td> 
    <td>Métricas e atributos relacionados a programas com pelo menos um membro</td> 
   </tr> 
   <tr> 
-   <td>Análise de oportunidade do programa</td> 
+   <td>Análise de oportunidades do programa</td> 
    <td>Métricas e atributos de oportunidade relacionados a programas</td> 
   </tr> 
   <tr> 
-   <td>Análise de Estágio da Receita do programa</td> 
+   <td>Análise de Estágio de Receita do Programa</td> 
    <td>Métricas e atributos com base no modelo do ciclo de receita</td> 
   </tr> 
  </tbody> 

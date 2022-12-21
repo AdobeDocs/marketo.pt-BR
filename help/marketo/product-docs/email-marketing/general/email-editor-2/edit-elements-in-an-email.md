@@ -1,27 +1,26 @@
 ---
 unique-page-id: 1900558
-description: Editar elementos em um e-mail - Documentos de marketing - Documentação do produto
+description: Editar elementos em um email - Documentos do Marketo - Documentação do produto
 title: Editar elementos em um email
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '502'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Editar elementos em um email {#edit-elements-in-an-email}
 
-Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets e Video. Veja como editar cada um.
+Os emails podem conter quatro elementos diferentes: Texto formatado, imagens, trechos e vídeo. Veja como editar cada um.
 
 ## Como editar o elemento Rich Text {#how-to-edit-the-rich-text-element}
 
-1. Localize seu email, selecione-o e clique em **Editar rascunho**.
+1. Encontre seu email, selecione-o e clique em **Editar rascunho**.
 
    ![](assets/one-edited.png)
 
-1. O editor de email será aberto. Selecione Rich text (Texto formatado), clique no ícone de engrenagem e selecione **Editar**.
+1. O editor de email será aberto. Selecione Rich text, clique no ícone de engrenagem e selecione **Editar**.
 
    ![](assets/two.png)
 
@@ -29,21 +28,21 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
 
    ![](assets/three.png)
 
-1. Adicione/edite seu texto e pressione **Salvar**.
+1. Adicione/edite o texto e pressione **Salvar**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Também é possível adicionar imagens, tokens, tabelas e outros elementos. Consulte [Usando o Editor de Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Também é possível adicionar imagens, tokens, tabelas e outros elementos. Consulte [Uso do Editor de Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
-   >Evite copiar e colar texto de uma fonte Rich Text, como um site ou um documento do Word. Em vez disso, cole rich text primeiro em um editor de texto simples, como Bloco de notas (Windows) ou TextEdit (Mac). Depois de &quot;limpo&quot;, você pode copiá-lo do editor de texto simples e colá-lo no seu email.
+   >Evite copiar e colar o texto de uma fonte Rich Text, como um site ou um documento do Word. Em vez disso, cole rich text primeiro em um editor de texto simples, como o Bloco de notas (Windows) ou o TextEdit (Mac). Depois que estiver &quot;limpo&quot;, você poderá copiá-lo do editor de texto simples e colá-lo em seu email.
 
 ## Como editar o elemento de imagem {#how-to-edit-the-image-element}
 
-1. Clique dentro do módulo com o elemento Imagem para selecioná-lo.
+1. Clique dentro do módulo com o elemento Image para selecioná-lo.
 
    ![](assets/five.png)
 
@@ -53,7 +52,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
 
    >[!NOTE]
    >
-   >Você também pode clicar com o duplo no elemento para começar a editar.
+   >Você também pode clicar duas vezes no elemento para começar a editar.
 
 1. O editor de imagens é exibido.
 
@@ -61,13 +60,13 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
 
    Você tem três opções para inserir uma imagem. Vamos olhar cada um.
 
-   **URL externo**
+   **URL externa**
 
    >[!NOTE]
    >
-   >Se você quiser usar um token de marketing, use essa opção. Lembre-se de que, ao usar um token, a imagem aparecerá quebrada no editor, mas será renderizada no modo Pré-visualização e no e-mail Enviar amostra.
+   >Se quiser usar um token Marketo, use esta opção. Lembre-se de que, ao usar um token, a imagem aparecerá quebrada no editor, mas será renderizada no modo Visualização e no email Enviar amostra .
 
-   Para usar um URL externo, cole primeiro o URL da imagem. Altere as dimensões para atender às suas necessidades e adicione algum Texto alternativo (opcional). Em seguida, pressione **Trocar**.
+   Para usar um URL externo, cole no URL da imagem primeiro. Altere as dimensões para atender às suas necessidades e adicione texto alternativo (opcional). Pressione **Trocar**.
 
    ![](assets/eight.png)
 
@@ -77,7 +76,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
 
    ![](assets/nine.png)
 
-   Navegue até onde a imagem está no computador e insira-a.
+   Navegue até o local em que a imagem está em seu computador e insira-a.
 
    ![](assets/ten.png)
 
@@ -87,39 +86,39 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
 
    >[!NOTE]
    >
-   >Se você estiver substituindo uma imagem, precisará marcar a caixa **Substituir imagem existente** que aparece abaixo do URL/nome da imagem.
+   >Se você estiver substituindo uma imagem, precisará verificar a variável **Substituir imagem existente** que aparece abaixo do URL/nome da imagem.
 
-   **Design Studio**
+   **Estúdio de desenvolvimento**
 
    Para inserir uma imagem do Design Studio, basta localizá-la...
 
    ![](assets/twelve.png)
 
-   ...E insira-o. Altere as dimensões para atender às suas necessidades, altere o Texto alternativo (opcional) e pressione **Trocar**.
+   ...e insira-o. Altere as dimensões para atender às suas necessidades, altere o Texto alternativo (opcional) e pressione **Trocar**.
 
    ![](assets/thirteen.png)
 
 ## Como editar o elemento de trecho {#how-to-edit-the-snippet-element}
 
-1. Clique dentro do módulo com o elemento Snippet.
+1. Clique dentro do módulo com o elemento Snippet .
 
    ![](assets/fourteen.png)
 
-1. Clique no elemento Snippet, depois no ícone de engrenagem e selecione **Editar**.
+1. Clique no elemento Snippet , depois no ícone de engrenagem e selecione **Editar**.
 
    ![](assets/fifteen.png)
 
-1. Encontre o snippet, selecione-o e clique em **Salvar**.
+1. Encontre o trecho, selecione-o e clique em **Salvar**.
 
    ![](assets/sixteen.png)
 
-1. Seu snippet é preenchido.
+1. O trecho é preenchido.
 
    ![](assets/eighteen.png)
 
 ## Como editar o elemento de vídeo {#how-to-edit-the-video-element}
 
-1. Clique dentro do módulo com o elemento Vídeo.
+1. Clique dentro do módulo com o elemento Vídeo .
 
    ![](assets/nineteen.png)
 
@@ -127,7 +126,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
 
    ![](assets/twenty.png)
 
-1. Cole o URL do vídeo do Vimeo ou YouTube. Em seguida, clique fora da caixa URL para que a pré-visualização seja carregada. Altere as dimensões para atender às suas necessidades, adicione Texto alternativo (opcional) e pressione **Inserir**.
+1. Cole o URL do vídeo do Vimeo ou YouTube. Em seguida, clique em fora da caixa URL para que a visualização seja carregada. Altere as dimensões para atender às suas necessidades, adicione Texto alternativo (opcional) e pressione **Inserir**.
 
    ![](assets/twentyone.png)
 
@@ -135,4 +134,4 @@ Os emails podem conter quatro elementos diferentes: Rich text, Images, Snippets 
    >
    >Para vídeos do YouTube, use o URL completo da barra de endereços, não o URL de atalho encontrado na opção Compartilhar.
 
-Divirta-se criando o e-mail perfeito!
+Divirta-se criando o email perfeito!

@@ -14,11 +14,11 @@ ht-degree: 1%
 
 Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo aos fluxos. Você pode adicionar emails ou programas a um fluxo.
 
-1. Vá para **Marketing Activities**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Selecione o programa de envolvimento e vá para a guia **Streams**.
+1. Selecione seu programa de envolvimento e acesse **Fluxos** guia .
 
    ![](assets/add-content-to-a-stream-2.png)
 
@@ -26,11 +26,11 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
 **Botão Adicionar conteúdo**
 
-1. Clique no botão **Adicionar conteúdo**.
+1. Clique no botão **Adicionar conteúdo** botão.
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Escolha **Email** _ou_ **Programa** e selecione o email ou programa/campanha inteligente que deseja adicionar.
+1. Choose **Email** _ou_ **Programa** e selecione o email ou programa/campanha inteligente que deseja adicionar.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -40,13 +40,13 @@ Depois de criar seu programa de envolvimento, é necessário adicionar conteúdo
 
 **+ Ícone**
 
-1. Clique no ícone **+**, escolha **Email** _ou_ **Program** e selecione o email ou programa/campanha inteligente que deseja adicionar.
+1. Clique no botão **+** ícone , escolha **Email** _ou_ **Programa** e selecione o email ou programa/campanha inteligente que deseja adicionar.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Uma campanha inteligente deve conter o filtro **Member of Engagement Program** para que funcione corretamente.
+   >Uma campanha inteligente deve conter a variável **Membro do Programa de Envolvimento** filtre para que funcione corretamente.
 
 Muito bem! Agora você sabe como adicionar conteúdo aos fluxos do programa. Adicione o quanto precisar para sua criação. Consulte o artigo relacionado abaixo para obter mais detalhes.
 

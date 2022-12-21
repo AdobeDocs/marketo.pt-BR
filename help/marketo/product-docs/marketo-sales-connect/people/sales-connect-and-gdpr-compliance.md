@@ -1,88 +1,87 @@
 ---
 unique-page-id: 14745825
-description: Conformidade com o Sales Connect e o GDPR - Documentos do Marketing - Documentação do produto
-title: Conformidade com o Sales Connect e o GDPR
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Conexão de vendas e conformidade com o GDPR - Documentos da Marketo - Documentação do produto
+title: Conexão de vendas e conformidade com o GDPR
+exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1387'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Conexão de vendas e conformidade com o GDPR {#sales-connect-and-gdpr-compliance}
 
-# Conformidade com o Sales Connect e o GDPR {#sales-connect-and-gdpr-compliance}
-
-O Regulamento Geral de Proteção de Dados (RGPD) é a legislação europeia de Uniões que entrou em vigor em 25 de maio de 2018.
+O Regulamento Geral sobre a Proteção de Dados (GDPR) foi a legislação da União Europeia que entrou em vigor em 25 de maio de 2018.
 
 ## Visão geral {#overview}
 
-O seu objetivo é reforçar os direitos das pessoas em causa na União Europeia (UE) e no Espaço Econômico Europeu (EEE) no que respeita à forma como os seus dados pessoais são utilizados e protegidos. &quot;Dados pessoais&quot;, qualquer informação relacionada com uma pessoa singular identificada ou identificável.
+O seu objetivo é reforçar os direitos das pessoas em causa na União Europeia (UE) e no Espaço Econômico Europeu (EEE) no que respeita à forma como os seus dados pessoais são utilizados e protegidos. &quot;Dados pessoais&quot; refere-se a qualquer informação relacionada com uma pessoa singular identificada ou identificável.
 
-O RGPD está estruturado em torno de seis princípios - chave (descritos no artigo 5 º da legislação):
+O GDPR está estruturado em torno de seis princípios - chave (detalhados no artigo 5. º da legislação):
 
 1. Transparência sobre a forma como os dados serão utilizados e para que serão utilizados.
 1. Garantir que os dados recolhidos sejam utilizados apenas para os fins explicitamente especificados no momento da recolha.
-1. Limitar a recolha de dados ao que é necessário para atingir a finalidade para a qual é recolhida.
+1. Limitar a coleta de dados ao necessário para atingir a finalidade para a qual foi coletada.
 1. Garantir a precisão dos dados.
-1. Armazenar os dados apenas durante o tempo necessário para o fim a que se destina.
-1. Prevenção contra a utilização não autorizada ou perda acidental de dados através da aplicação de medidas de segurança adequadas.
+1. Armazenar os dados somente pelo tempo necessário dentro do objetivo pretendido.
+1. Prevenção contra a utilização não autorizada ou perda acidental dos dados através da aplicação de medidas de segurança adequadas.
 
-Além disso, há um novo requisito de responsabilidade para ser capaz de demonstrar como a conformidade está sendo gerenciada e rastreada. Isso significa manter registros de como e por que os dados pessoais foram recolhidos, bem como a documentação dos processos criados para os proteger.
+Além disso, há um novo requisito de responsabilidade para poder demonstrar como a conformidade está sendo gerenciada e rastreada. Isso significa manter registros de como e por que os dados pessoais foram coletados, bem como a documentação dos processos implementados para protegê-los.
 
 ## A Quem Se Aplica? {#to-whom-does-it-apply}
 
-O RGPD aplica-se a qualquer organização dentro ou fora da UE que comercialize bens ou serviços e/ou rastreie os comportamentos das pessoas em causa na UE e no EEE. Se você negociar com pessoas de dados na Europa que envolvam o processamento dos seus dados pessoais, esta legislação se aplica a você. As sanções por incumprimento são significativas, com multas elevadas para os infratores do regulamento; a coima máxima por uma única infração é de 20 milhões de euros ou 4% do volume de negócios anual a nível mundial, consoante o que for maior.
+O GDPR aplica-se a qualquer organização dentro ou fora da UE que comercialize bens ou serviços para e/ou rastreie o comportamento de titulares de dados na UE e no EEE. Se você faz negócios com titulares de dados na Europa que envolvem o processamento de seus dados pessoais, esta legislação se aplica a você. As sanções por incumprimento são significativas, com multas elevadas para os que violam o regulamento; a coima máxima por uma única infração é de 20 milhões de euros ou 4% do volume de negócios anual a nível mundial, consoante o que for mais elevado.
 
-## Implicações para Marketing {#implications-for-marketing}
+## Implicações para marketing {#implications-for-marketing}
 
-Os profissionais de marketing buscam criar experiências de clientes que se sintam pessoais e humanas, baseadas em confiança e fornecidas com cuidado. Embora o RGPD não use esses termos, os objetivos são os mesmos — respeitar os direitos dos clientes e ganhar sua confiança. Para construir e manter essa confiança, os profissionais de marketing devem estar atentos ao modo, quando e por que seus clientes querem se envolver. É fundamental que as preferências do cliente sejam respeitadas, não apenas como requisito legal, mas como a base de práticas de envolvimento voltadas para o cliente.
+Os profissionais de marketing têm como objetivo criar experiências de clientes que sejam pessoais e humanas, baseadas em confiança e fornecidas com cuidado. Embora o GDPR não use esses termos, as metas são as mesmas: respeitar os direitos dos clientes e ganhar a confiança deles. Para criar e manter essa confiança, os profissionais de marketing devem estar atentos a como, quando e por que seus clientes desejam participar. É importante que as preferências do cliente sejam respeitadas, não apenas como um requisito legal, mas como a base das práticas de engajamento focadas no cliente.
 
-Como os profissionais de marketing atendem a essas expectativas mais altas em torno da coleta, do uso e da segurança dos dados pessoais que são rotineiramente usados durante seu trabalho é fundamental, e o Marketo pode ajudar a atender a essas expectativas.
+Como os profissionais de marketing lidam com essas expectativas mais altas em relação à coleta, ao uso e à segurança dos dados pessoais que são usados regularmente durante seu trabalho é fundamental, e o Marketo pode ajudar a atender a essas expectativas.
 
-Existem dois aspectos fundamentais do RGPD em que os profissionais de marketing precisam de rever as práticas passadas, atuais e futuras. A primeira é o consentimento do indivíduo para processar os seus dados pessoais, e a segunda é a responsabilidade, nomeadamente, poder demonstrar como os princípios do RGPD estão a ser seguidos.
+Há dois aspectos principais do GDPR: os profissionais de marketing precisam analisar as práticas anteriores, atuais e futuras. O primeiro é o consentimento do indivíduo para processar seus dados pessoais, e o segundo é a responsabilidade, nomeadamente ser capaz de demonstrar como os princípios do GDPR estão sendo seguidos.
 
-Fornecemos informações abrangentes sobre consentimento e responsabilidade dentro da plataforma Marketo em nosso e-book, [GDPR e The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). No entanto, neste artigo, nos concentraremos especificamente nos novos recursos no Marketing Sales Connect que ajudarão sua organização a seguir as regras do RGPD.
+Fornecemos amplas informações sobre consentimento e responsabilidade na plataforma Marketo em nosso e-book, [O GDPR e o profissional de marketing](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). Neste artigo, no entanto, vamos nos concentrar especificamente nos novos recursos no Marketo Sales Connect que ajudarão sua organização a aderir às regras do GDPR.
 
-## Conformidade com o RGPD no Marketing Connect {#gdpr-compliance-in-marketo-sales-connect}
+## Conformidade com o GDPR no Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
-O Marketing to Sales Connect é um aplicativo poderoso — parte da Plataforma de Envolvimento do Marketing — que oferece um único fluxo de trabalho e visualização para vendas e marketing, a fim de agilizar coletivamente o pipeline através de envolvimento colaborativo. A nova funcionalidade no Marketing Cloud Sales Connect foi criada especificamente com a conformidade com o RGPD em mente. Descreveremos todas as três funções e explicaremos como elas, quando usadas corretamente, ajudarão os esforços de conformidade com o RGPD de sua organização.
+O Marketo Sales Connect é um aplicativo poderoso — parte da Marketo Engagement Platform — que fornece um único fluxo de trabalho e visualização para vendas e marketing para impulsionar coletivamente o pipeline mais rapidamente por meio de envolvimento colaborativo. Uma nova funcionalidade no Marketo Sales Connect foi criada especificamente tendo em mente a conformidade com o GDPR. Descreveremos todas as três funções e explicaremos como elas, quando usadas corretamente, ajudarão seus esforços de conformidade com o GDPR de sua organização.
 
 ## Cartão de conformidade {#compliance-card}
 
-O Marketing to Sales Connect inclui um Cartão de conformidade na Visualização Detalhes da pessoa para fornecer informações-chave sobre o Tipo de autorização de um contato, bem como sobre o Tipo de origem. Isso permite que os usuários adicionem e rastreiem facilmente as informações essenciais à privacidade dos dados e os ajuda a tomar decisões mais informadas sobre a estratégia de campanha/alcance.
+O Marketo Sales Connect inclui um Cartão de conformidade na Exibição de detalhes da pessoa para fornecer informações-chave sobre o Tipo de autorização de um contato, bem como seu Tipo de origem. Isso permite que os usuários adicionem e rastreiem facilmente informações críticas à privacidade de dados e os ajuda a tomar decisões mais informadas sobre a estratégia de campanha/alcance.
 
 ![](assets/1.png)
 
 Tipo de Autorização de Contato
 
-No Cartão de conformidade, os usuários podem rastrear a base jurídica para o processamento dos dados pessoais de um contato por meio do menu suspenso Autorização. Compreender o tipo de autorização de um contato ajuda os usuários do Marketing to Sales Connect a tomar decisões mais informadas sobre práticas de alcance, garantindo que cada campanha ou envolvimento seja legal e apropriado.
+No Cartão de conformidade, os usuários podem rastrear a base jurídica para o processamento dos dados pessoais de um contato por meio do menu suspenso Autorização . Compreender o tipo de autorização de um contato ajuda os usuários do Marketo Sales Connect a tomarem decisões mais informadas sobre práticas de alcance geral, garantindo que cada campanha ou envolvimento seja legal e apropriado.
 
 Os usuários têm várias opções para escolher, incluindo:
 
 * Consentimento
 * Interesse legítimo
-* Execução de um contrato
-* Cumprimento da obrigação legal
-* Proteção dos interesses vitais
+* Cumprimento de um contrato
+* Conformidade com obrigação legal
+* Proteção de interesses vitais
 * Interesse público/Autoridade oficial
-* Outros
+* Outro
 
-Tipo de origem do contato
+Tipo de Fonte de Contato
 
-No novo Cartão de Conformidade, os usuários podem rastrear a fonte de um contato. O Tipo de origem define de onde as informações de um contato vieram quando foram carregadas inicialmente no Marketing Cloud Sales Connect. Compreender o tipo de origem de um contato também ajuda com decisões relacionadas a práticas de sensibilização, bem como determinar quais outros sistemas ou locais os dados pessoais são armazenados, garantindo que cada envolvimento esteja em conformidade com a legislação do RGPD.
+No novo Cartão de conformidade, os usuários podem rastrear a origem de um contato. O Tipo de origem define de onde as informações de um contato vieram quando foram carregadas inicialmente no Marketo Sales Connect. Compreender o tipo de origem de um contato também ajuda nas decisões relacionadas às práticas de alcance geral, bem como determinar quais outros sistemas ou locais os dados pessoais são armazenados, garantindo que cada envolvimento esteja em conformidade com a legislação do GDPR.
 
 Novamente, os usuários têm várias opções suspensas para escolher, incluindo:
 
-* Sincronização do CRM
+* Sincronização com CRM
 * Importar
 * Upload manual
 * Extensão do Chrome
-* Outros
+* Outro
 
 Edição do cartão de conformidade
 
-Quando a Visualização Detalhes da pessoa estiver aberta, clique em **Editar** no Cartão de conformidade.
+Quando a Exibição de detalhes da pessoa estiver aberta, clique em **Editar** no Cartão de conformidade.
 
 ![](assets/four.png)
 
@@ -90,39 +89,39 @@ Você verá dois menus suspensos: Tipo de Autorização e Tipo de Origem.
 
 ![](assets/5.png)
 
-Se você escolher &quot;Consentimento&quot; como o Tipo de autorização, dois campos obrigatórios: Serão exibidos &quot;Data do consentimento&quot; e &quot;Finalidade do processamento&quot;. Esses dois campos não se aplicam a outras opções.
+Se você escolher &quot;Consentimento&quot; como o Tipo de autorização, dois campos obrigatórios: &quot;Data do consentimento&quot; e &quot;Finalidade do processamento&quot; serão exibidas. Esses dois campos não se aplicam a outras opções.
 
 ![](assets/6.png)
 
-Se &quot;Outro&quot; for escolhido para Tipo de Autorização ou Tipo de Origem, você poderá digitar um texto para descrever o Tipo de Origem.
+Se &quot;Outro&quot; for escolhido para o Tipo de Autorização ou Tipo de Origem, você poderá digitar um texto para descrever o Tipo de Origem.
 
 ![](assets/7.png)
 
-Ações em massa** O Marketing Connect também permite a atualização dos tipos de Autorização e Origem de um contato em massa, economizando tempo valioso no processo de conformidade.
+Ações em massa** O Marketo Sales Connect também permite a atualização dos tipos de Autorização e Origem de um contato em massa, economizando tempo valioso no processo de conformidade.
 
-Quando você seleciona um ou mais contatos na página Pessoas, os botões Autorização e Origem são exibidos no container superior. Usando esses botões, você pode definir a Autorização ou a Origem de vários contatos simultaneamente.
+Ao selecionar um ou mais contatos da página Pessoas, os botões Autorização e Origem são exibidos no contêiner superior. Usando esses botões, você pode definir a Autorização ou a Fonte de vários contatos simultaneamente.
 
 ![](assets/eight.jpg)
 
-Quando você clica no modal Autorização, uma janela pop-up com opções suspensas que correspondem às do Cartão de conformidade é exibida.
+Quando você clica no modal Autorização, é exibido um pop-up com opções suspensas que correspondem às do Cartão de conformidade.
 
 ![](assets/9.png)
 
-Depois que o Tipo de autorização for atualizado, você receberá um pop-up de confirmação e poderá ver os detalhes atualizados no Cartão de conformidade na Visualização Detalhes da pessoa.
+Depois que o Tipo de autorização for atualizado, você receberá um pop-up de confirmação e poderá ver os detalhes atualizados no Cartão de conformidade na Exibição de detalhes da pessoa.
 
 ![](assets/10.png)
 
-Da mesma forma, o Tipo de Origem pode ser atualizado em massa, bem como clicando no modal de Origem.
+Da mesma forma, o Tipo de Fonte pode ser atualizado em massa também clicando no modal Origem.
 
 ![](assets/11.png)
 
-Após selecionar o Tipo de origem correto para seus contatos selecionados, uma janela de confirmação será exibida para confirmar a atualização bem-sucedida.
+Após selecionar o Tipo de Origem correto para os contatos selecionados, uma janela de confirmação será exibida para confirmar a atualização bem-sucedida.
 
 ![](assets/12.png)
 
-## Exportar dados de contato do Marketing para o Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
+## Exportar dados de contato do Marketo Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
 
-Você pode exportar informações de contato da Visualização Detalhes da pessoa. A exportação baixará um arquivo .CSV com as seguintes colunas:
+Você pode exportar informações de contato da Exibição de detalhes da pessoa. A exportação baixará um arquivo .CSV com as seguintes colunas:
 
 <table> 
  <colgroup> 
@@ -138,7 +137,7 @@ Você pode exportar informações de contato da Visualização Detalhes da pesso
   </tr> 
   <tr> 
    <td>Sobrenome</td> 
-   <td>Outros</td> 
+   <td>Outro</td> 
    <td>Twitter</td> 
   </tr> 
   <tr> 
@@ -149,16 +148,16 @@ Você pode exportar informações de contato da Visualização Detalhes da pesso
   <tr> 
    <td>Título</td> 
    <td>Criado em</td> 
-   <td>Exportado em</td> 
+   <td>Exportado às</td> 
   </tr> 
   <tr> 
-   <td>ID de email</td> 
+   <td>ID do e-mail</td> 
    <td>ID do Salesforce</td> 
    <td><br></td> 
   </tr> 
   <tr> 
    <td>Número de telefone</td> 
-   <td>ID da pessoa</td> 
+   <td>ID de pessoa</td> 
    <td><br></td> 
   </tr> 
  </tbody> 
@@ -166,27 +165,27 @@ Você pode exportar informações de contato da Visualização Detalhes da pesso
 
 >[!NOTE]
 >
->Isso só pode ser feito em um contato por vez. No momento, não há nenhuma funcionalidade que permita exportações em massa de contatos.
+>Isso só pode ser feito em um contato por vez. No momento, não há funcionalidade que permita exportações em massa de contatos.
 
-Para exportar informações de contato, clique nos três pontos verticais no Cabeçalho de Visualização Detalhes da pessoa e selecione **Exportar**. O arquivo .CSV será baixado automaticamente.
+Para exportar informações de contato, clique nos três pontos verticais no Cabeçalho de Exibição de Detalhes da Pessoa e selecione **Exportar**. O arquivo .CSV será baixado automaticamente.
 
 ![](assets/thirteen.png)
 
 >[!NOTE]
 >
->O RGPD também exige a capacidade de excluir contatos da interface do usuário, mas o Marketing to Sales Connect já possui essa funcionalidade.
+>O GDPR também requer a capacidade de excluir contatos da interface do usuário, mas o Marketo Sales Connect já possui essa funcionalidade.
 
-## Cancela a assinatura {#unsubscribes}
+## Cancelamentos de inscrição {#unsubscribes}
 
-Uma área geralmente mal compreendida do RGPD envolve contatos que cancelam a inscrição na base de dados da organização. Para aderir às novas regras sobre proteção de dados de quem optar por cancelar a assinatura, a seguinte funcionalidade foi incluída no Marketing to Sales Connect:
+Uma área geralmente mal compreendida do GDPR envolve contatos que cancelam a assinatura do banco de dados da organização. Para aderir às novas regras sobre proteção de dados daqueles que optam por cancelar a assinatura, a seguinte funcionalidade foi incluída no Marketo Sales Connect:
 
-**Cancelar assinatura de links:** os links para cancelamento de assinatura serão anexados automaticamente a todos os e-mails enviados do aplicativo Web Sales Connect para garantir que os contatos recebam uma maneira acessível de recusa.\
-**Cancelar a assinatura da sincronização:** os usuários podem sincronizar as cancelações de inscrição de e para seu CRM (Salesforce) para garantir que as opções de não participação estejam atualizadas.\
-**Histórico de cancelamento de inscrição:** os usuários podem ver opções de não participação e não participação históricas na Visualização Detalhes da pessoa.\
-**Remoção de Cancelamento de Assinatura:** Optar por retornar um contato sem assinatura requer que o usuário tenha privilégios de administrador e demonstre que o contato deu novo consentimento para contatá-los.
+**Cancelar assinatura de links:** Os links de cancelamento de inscrição serão anexados automaticamente a todos os emails enviados do aplicativo web Sales Connect para garantir que os contatos tenham uma maneira acessível de recusar.\
+**Cancelar assinatura da sincronização:** Os usuários podem sincronizar cancelamentos de subscrições de e para seu CRM (Salesforce) para garantir que as recusas estejam atualizadas.\
+**Histórico de Cancelamento de Assinatura:** Os usuários podem ver opções de não participação e opções históricas na Exibição de detalhes da pessoa.\
+**Cancelamento de inscrição:** A opção de retornar um contato cancelado requer que o usuário tenha privilégios de administrador e demonstre que o contato deu novo consentimento para contatá-los.
 
 ## Atualizações futuras {#future-updates}
 
-Como um defensor entusiasmado do poder e da centralidade do cliente na economia de envolvimento, Marketo entende a importância de colocar a privacidade e a proteção de dados nas mãos do sujeito dos dados. Assim como com outras leis de proteção de dados, a conformidade com o RGPD exige compromisso tanto do Marketing quanto de nossos clientes. Este artigo destina-se a ajudá-lo a usar o Marketo de forma adequada para respaldar a conformidade do RGPD de sua organização.
+Como um entusiasta defensor do poder e da centricidade do cliente na economia de engajamento, a Marketo entende a importância de colocar a privacidade e a proteção de dados nas mãos do titular dos dados. Assim como em outras leis de proteção de dados, a conformidade com o GDPR exige o compromisso da Marketo e de nossos clientes. Este artigo tem como objetivo ajudá-lo a usar o Marketo de maneira adequada para respaldar a conformidade da sua organização com o GDPR.
 
-Continuaremos a acompanhar de perto as orientações aplicáveis do RGPD emitidas pelas autoridades reguladoras e legislação relacionada. As atualizações serão publicadas em nosso Centro de Confiança em [trust.marketo.com](https://trust.marketo.com).
+Continuaremos a acompanhar de perto as orientações do GDPR aplicáveis emitidas pelas autoridades reguladoras e legislação relacionada. As atualizações serão publicadas em nosso Centro de Confiança em [trust.marketo.com](https://trust.marketo.com).

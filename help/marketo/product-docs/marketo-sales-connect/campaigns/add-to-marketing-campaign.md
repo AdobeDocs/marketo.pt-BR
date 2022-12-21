@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Para adicionar uma pessoa a uma Campanha Marketo a partir da Conexão de Vendas, a Conexão de Vendas deve ter a ID de cliente potencial Marketo da pessoa.
 
-1. Clique na guia **People**.
+1. Clique no botão **Pessoas** Guia.
 
    ![](assets/one-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-1. Como você está adicionando a uma campanha de marketing, ignore a seleção de um endereço &quot;de&quot;. No entanto, você pode optar por adicionar mais contatos. Se você optar por usar o , clique em Individuais e digite-os. Clique em **Next** quando terminar.
+1. Como você está adicionando a uma campanha de marketing, ignore a seleção de um endereço &quot;de&quot;. No entanto, você pode optar por adicionar mais contatos. Se você optar por usar o , clique em Individuais e digite-os. Clique em **Próximo** quando concluído.
 
    ![](assets/five-2.png)
 
@@ -54,17 +54,17 @@ ht-degree: 0%
    >
    >Se você não visualizar o espaço de trabalho desejado, verifique se o Administrador o provisiona por meio da página Acesso à equipe da Marketo.
 
-1. Selecione a campanha desejada e clique em **Next**.
+1. Selecione a campanha desejada e clique em **Próximo**.
 
    ![](assets/eight.png)
 
-1. Você recebe os contatos qualificados. Clique em **Start** para adicioná-los.
+1. Você recebe os contatos qualificados. Clique em **Iniciar** para adicioná-los.
 
    ![](assets/nine.png)
 
 ## Adicionar um grupo a uma campanha {#add-a-group-to-a-campaign}
 
-1. Clique na guia **People**.
+1. Clique no botão **Pessoas** Guia.
 
    ![](assets/one-3.png)
 
@@ -72,15 +72,15 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. Clique em **Adicionar grupo à campanha**.
+1. Clique em **Adicionar grupo ao Campaign**.
 
    ![](assets/twelve.png)
 
-1. Como você está adicionando a uma campanha de marketing, ignore a seleção de um endereço &quot;de&quot;. No entanto, você pode optar por adicionar mais contatos. Se você optar por usar o , clique em Individuais e digite-os. Clique em **Next** quando terminar.
+1. Como você está adicionando a uma campanha de marketing, ignore a seleção de um endereço &quot;de&quot;. No entanto, você pode optar por adicionar mais contatos. Se você optar por usar o , clique em Individuais e digite-os. Clique em **Próximo** quando concluído.
 
    ![](assets/thirteen.png)
 
-1. Selecione **Campanha de marketing**.
+1. Selecionar **Campanha de marketing**.
 
    ![](assets/six-1.png)
 
@@ -96,10 +96,10 @@ ht-degree: 0%
    >
    >Se você não visualizar o espaço de trabalho desejado, verifique se o Administrador o provisiona por meio da página Acesso à equipe da Marketo.
 
-1. Selecione a campanha desejada e clique em **Next**.
+1. Selecione a campanha desejada e clique em **Próximo**.
 
    ![](assets/eight.png)
 
-1. Você recebe os contatos qualificados. Clique em **Start** para adicioná-los.
+1. Você recebe os contatos qualificados. Clique em **Iniciar** para adicioná-los.
 
    ![](assets/nine.png)

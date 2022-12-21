@@ -3,7 +3,6 @@ unique-page-id: 557312
 description: Glossário de operadores de filtro de lista inteligente - Documentos do Marketo - Documentação do produto
 title: Glossário de operadores de filtro de lista inteligente
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '602'
@@ -28,19 +27,19 @@ Ao escolher um operador, o lado direito será alterado dinamicamente.
 | é | Data única | Correspondência de data exata |
 | não é | Data única | Qualquer data, EXCETO a especificada |
 | entre | Dois campos de data | Qualquer data incluindo e entre duas datas especificadas |
-| no passado | Entrada de linguagem natural* | Consulte o diagrama abaixo |
-| no passado antes de | Entrada de linguagem natural* | Consulte o diagrama abaixo |
-| no futuro | Entrada de linguagem natural* | Consulte o diagrama abaixo |
-| no futuro depois de | Entrada de linguagem natural* | Consulte o diagrama abaixo |
+| no passado | Entrada de Idioma Natural&#42; | Consulte o diagrama abaixo |
+| no passado antes de | Entrada de Idioma Natural&#42; | Consulte o diagrama abaixo |
+| no futuro | Entrada de Idioma Natural&#42; | Consulte o diagrama abaixo |
+| no futuro depois de | Entrada de Idioma Natural&#42; | Consulte o diagrama abaixo |
 | no período de tempo | Predefinições (último trimestre, ontem etc.) | Definido na lista de seleção |
-| depois  | Data única | Todos os registros após a data especificada |
+| depois | Data única | Todos os registros após a data especificada |
 | antes | Data única | Todos os registros antes do especificado |
-| sobre ou depois de  | Data única | Igual a &quot;depois&quot;, mas inclusivo |
+| sobre ou depois de | Data única | Igual a &quot;depois&quot;, mas inclusivo |
 | em ou antes de | Data única | Igual a &quot;antes&quot;, mas inclusivo |
-| está vazio | Nenhum(a) | Todos os registros sem data |
-| não está vazio | Nenhum(a) | Todos os registros com qualquer data |
+| está vazio | Nenhum | Todos os registros sem data |
+| não está vazio | Nenhum | Todos os registros com qualquer data |
 
-* A entrada de linguagem natural é legal. Estes são alguns dos padrões que você pode inserir:
+&#42; A entrada de linguagem natural é legal. Estes são alguns dos padrões que você pode inserir:
 
 * 1 hora
 * 82 dias
@@ -52,11 +51,11 @@ Basta digitar o número e a unidade juntos e vai funcionar!
 
 >[!NOTE]
 >
->&quot;No passado&quot; **faz** inclui o dia (até a hora, não depois) em que você cria sua lista inteligente.
+>&quot;No passado&quot; **does** incluir o dia (até a hora, não depois) em que você criar sua lista inteligente.
 
 >[!CAUTION]
 >
->Ao criar uma lista inteligente usando um filtro de campo de data (por exemplo, Data de nascimento, Data de criação de SFDC) e usar as restrições **before** ou **on or before**, a lista inteligente também incluirá pessoas que não têm valor nesse campo de data.
+>Ao criar uma lista inteligente usando um filtro de campo de data (por exemplo, Data de nascimento, Data de criação do SFDC) e usar a variável **before** ou **em ou antes de** , a lista inteligente também incluirá pessoas que não têm valor nesse campo de data.
 
 Use o diagrama a seguir para entender a diferença entre os operadores de data.
 
@@ -76,7 +75,7 @@ Use o diagrama a seguir para entender a diferença entre os operadores de data.
 >
 >Digamos que você queira ver os clientes que estão prontos para a renovação em 90 dias. Você usaria dois filtros separados. Primeiro use &quot;No futuro após 90 dias&quot; e, segundo, &quot;No futuro, 91 dias&quot;. Isso capturaria quem tiver uma data daqui a 90 dias.
 
-## Campos de string {#string-fields}
+## Campos de sequência {#string-fields}
 
 ![](assets/image2014-9-10-17-3a16-3a6.png)
 
@@ -137,7 +136,7 @@ Use o diagrama a seguir para entender a diferença entre os operadores de data.
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">está vazio</td> 
-   <td colspan="1" rowspan="1">Registros que não têm valor (NULL) - zero é um número, <em>not</em> NULL</td> 
+   <td colspan="1" rowspan="1">Registros que não têm valor (NULL) - zero é um número, é <em>not</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">não está vazio</td> 

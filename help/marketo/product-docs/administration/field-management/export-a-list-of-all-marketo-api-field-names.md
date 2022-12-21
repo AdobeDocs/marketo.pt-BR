@@ -3,7 +3,6 @@ unique-page-id: 2360295
 description: Exportar uma lista de todos os nomes de campo da API do Marketo - Documentos do Marketo - Documentação do produto
 title: Exportar uma lista de todos os nomes de campo da API do Marketo
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
@@ -19,7 +18,7 @@ Se estiver usando nossa API SOAP ou API do Munchkin, precisará de uma lista de 
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para **Admin** e clique em **Gerenciamento de Campo**.
+1. Ir para **Administrador** e clique em **Gerenciamento de campos**.
 
    ![](assets/image2014-9-24-14-3a4-3a54.png)
 

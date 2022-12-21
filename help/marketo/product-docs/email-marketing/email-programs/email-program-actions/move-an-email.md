@@ -14,15 +14,15 @@ ht-degree: 2%
 
 Precisa mover um email de um programa para outro? Veja como.
 
-1. Vá para **Marketing Activities**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/move-an-email-1.png)
 
-1. Localize o email que deseja mover, clique com o botão direito do mouse e selecione **Move**.
+1. Localize o email que deseja mover, clique com o botão direito do mouse e selecione **Mover**.
 
    ![](assets/move-an-email-2.png)
 
-1. Selecione o **Destino**, **Programa** e **Pasta** opcional. Selecione **Mover**.
+1. Selecione o **Destino**, **Programa** e opcional **Pasta**. Selecionar **Mover**.
 
    ![](assets/move-an-email-3.png)
 

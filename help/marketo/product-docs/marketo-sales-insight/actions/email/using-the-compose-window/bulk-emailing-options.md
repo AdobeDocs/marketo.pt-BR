@@ -35,7 +35,7 @@ Enviar emails em massa é uma ótima maneira de acelerar seu envolvimento com pr
   </tr> 
   <tr> 
    <td>Email do grupo</td> 
-   <td>1.000</td> 
+   <td>1,000</td> 
    <td>Selecione um grupo e clique no botão "Ações do grupo" ou digite o nome do grupo no campo Para.</td> 
    <td>Sim</td> 
    <td>Não</td> 

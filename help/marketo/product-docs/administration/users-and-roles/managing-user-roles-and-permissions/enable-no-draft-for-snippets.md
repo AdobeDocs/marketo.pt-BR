@@ -3,7 +3,6 @@ unique-page-id: 10095636
 description: Ativar o Sem rascunho para trechos - Documentos do Marketo - Documentação do produto
 title: Ativar Sem rascunho para trechos
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -25,23 +24,23 @@ O Sem rascunho é ativado automaticamente para todas as funções de Administrad
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para **Admin** e clique em **Usuários e funções**.
+1. Ir para **Administrador** e clique em **Usuários e funções**.
 
    ![](assets/usersandroles.png)
 
-1. Vá para a guia **Funções**, selecione uma função e clique em **Editar Função**.
+1. Vá para o **Funções** , selecione uma função e clique em **Editar função**.
 
    ![](assets/editrole2.png)
 
-1. Expanda a opção **Access Design Studio**.
+1. Expanda o **Access Design Studio** opção.
 
    ![](assets/expanddesignstudio.png)
 
-1. Expanda a opção **Acessar trecho** .
+1. Expanda o **Snippet de acesso** opção.
 
    ![](assets/expandsnippet.png)
 
-1. Expanda a permissão **Approve Snippet** e marque a caixa **No-Draft**. Em seguida, clique em **Save**.
+1. Expanda o **Aprovar trecho** e verifique a **Sem rascunho** caixa. Em seguida, clique em **Salvar**.
 
    ![](assets/2017-06-15-10-35-04.png)
 

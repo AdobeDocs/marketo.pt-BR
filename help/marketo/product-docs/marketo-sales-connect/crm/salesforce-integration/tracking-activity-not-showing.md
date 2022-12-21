@@ -1,18 +1,17 @@
 ---
 unique-page-id: 14352478
-description: Atividade de rastreamento não exibida - Documentos do Marketing - Documentação do produto
+description: Atividade de rastreamento não exibida - Documentos do Marketo - Documentação do produto
 title: Atividade de rastreamento não exibida
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 8f3f6506-9367-4f08-84ef-636adf06e00d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
+# Atividade de rastreamento não exibida {#tracking-activity-not-showing}
 
-# Atividade de rastreamento não exibido {#tracking-activity-not-showing}
+Se a sua atividade de rastreamento não estiver sendo exibida, verifique se os campos de atividade personalizados fornecidos pelo Sales Connect estão visíveis/editáveis no Salesforce. Se você instalou os campos, mas eles não estão sendo preenchidos, pode haver Segurança no nível do campo, impedindo que as informações sejam preenchidas. Verifique com seu administrador do Salesforce.
 
-Se sua atividade de rastreamento não estiver sendo exibida, verifique se os campos de atividade personalizados fornecidos pelo Sales Connect estão visíveis/editáveis no Salesforce. Se você instalou os campos, mas eles não estão sendo preenchidos, pode haver Segurança de nível de campo impedindo que as informações sejam preenchidas. Verifique com seu administrador do Salesforce.
-
-Saiba mais sobre [Segurança de nível de campo](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) no Salesforce.
+Saiba mais sobre [Segurança no nível do campo](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) em Salesforce.

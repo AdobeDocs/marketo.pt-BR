@@ -14,14 +14,14 @@ ht-degree: 3%
 
 ## Marketo Moments {#marketo-moments}
 
-Fora no almoço, mas precisa reagendar um e-mail? O aplicativo Marketo Moments, disponível na App Store ou no Google Play, dá a você o poder de ver o desempenho de suas campanhas de email e eventos em tempo real, bem como o que está vindo no futuro, de seu iPhone, iPad ou Android.
+Fora no almoço, mas precisa reagendar um e-mail? O aplicativo Marketo Moments, disponível na App Store ou Google Play, oferece o poder de visualizar o desempenho de suas campanhas de email e eventos em tempo real, bem como o que está por vir no futuro, de seu telefone iPhone, iPad ou Android.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## Atualização do Editor de Rich Text {#rich-text-editor-update}
 
 Editor de texto atualizado com aparência moderna, incluindo formatação de texto simplificada, edição de imagem, inserção de link e edição de HTML. O editor de HTML agora apresenta validação mínima, permitindo uma edição de código menos restritiva.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Essa atualização será implantada automaticamente em alguns dias após o lançamento do mês de julho. Depois, você poderá alternar entre as versões Nova e Herdada do editor a partir de **Admin > Email > Editar configurações do editor**.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Essa atualização será implantada automaticamente em alguns dias após o lançamento do mês de julho. Depois, você poderá alternar entre as versões Novo e Herdado do editor a partir de **Admin > Email > Editar configurações do editor**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -49,8 +49,8 @@ Você configurou várias campanhas RTP personalizadas e notou que algumas delas 
 
 **Acesso a objetos da empresa por meio da REST API**: A REST API agora fornece acesso ao objeto Empresa da Marketo (também chamado de Conta). Isso significa que você pode ler, atualizar e excluir objetos da empresa criados no Marketo e associar leads a essas empresas usando a API de cliente em potencial atualizada.
 
-Saiba [mais](https://developers.marketo.com/documentation/company-api/) em nosso guia de referência para a API da empresa.
+Saiba mais [more](https://developers.marketo.com/documentation/company-api/) no nosso guia de referência da API da empresa.
 
 ## Acessar entregabilidade por email {#access-email-deliverability}
 
-**Acessar ferramenta** de capacidade de entrega de email: Essa nova permissão permite que os administradores concedam aos usuários acesso à ferramenta Entregabilidade por email .
+**Acessar ferramenta Entregabilidade por Email**: Essa nova permissão permite que os administradores concedam aos usuários acesso à ferramenta Entregabilidade por email .

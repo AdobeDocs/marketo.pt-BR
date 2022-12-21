@@ -2,20 +2,19 @@
 unique-page-id: 13795734
 description: Criar uma hierarquia - Documentos do Marketo - Documentação do produto
 title: Criar uma hierarquia
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-
-# Criar uma Hierarquia {#create-a-hierarchy}
+# Criar uma hierarquia {#create-a-hierarchy}
 
 Hierarquias devem ser criadas em CRMs. No entanto, se você não tiver um CRM, siga estas etapas para criar uma hierarquia manualmente.
 
-1. Em Contas Nomeadas, clique na caixa de seleção **Agrupar por Hierarquia**.
+1. Em Contas Nomeadas, clique no botão **Agrupar por Hierarquia** caixa de seleção.
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,7 +26,7 @@ Hierarquias devem ser criadas em CRMs. No entanto, se você não tiver um CRM, s
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Clique no menu suspenso **Named Account Actions** e selecione **Link to Named Account**.
+1. Clique no botão **Ações de conta nomeada** e selecione **Vincular à conta nomeada**.
 
    ![](assets/create-a-hierarchy-3.png)
 

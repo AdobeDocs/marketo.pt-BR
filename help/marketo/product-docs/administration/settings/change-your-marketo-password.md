@@ -3,7 +3,6 @@ unique-page-id: 2359916
 description: Alterar sua senha do Marketo - Documentos do Marketo - Documentação do produto
 title: Alterar a senha do Marketo
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '99'
@@ -19,11 +18,11 @@ Altere sua senha do Marketo com estas etapas simples.
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
-1. Os administradores também podem clicar em **Admin** e em **Alterar senha** para alterar a senha de administrador.
+1. Os administradores também podem clicar em **Administrador** e depois **Alterar senha** para alterar a senha do administrador.
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
-1. Digite a Senha antiga e a Nova Senha e clique em **Salvar** quando a nova senha se ajustar a todos os requisitos.
+1. Digite a senha antiga e a nova senha e clique em **Salvar** quando a nova senha se ajustar a todos os requisitos.
 
    ![](assets/image2014-9-10-9-3a44-3a2.png)
 

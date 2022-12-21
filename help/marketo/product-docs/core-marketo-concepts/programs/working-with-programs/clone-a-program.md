@@ -3,7 +3,6 @@ unique-page-id: 1147110
 description: Clonar um programa - Documentação da Marketo - Documentação do produto
 title: Clonar um programa
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
@@ -11,15 +10,15 @@ ht-degree: 0%
 
 ---
 
-# Clonar um Programa {#clone-a-program}
+# Clonar um programa {#clone-a-program}
 
 Clonar de forma rápida e fácil todo um programa e todos os seus ativos em vez de reconstruir manualmente tudo.
 
 >[!PREREQUISITES]
 >
->Antes de entrar, saiba mais sobre as [práticas recomendadas para evitar a corrupção em ativos clonados](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
+>Antes de entrar, saiba mais sobre [práticas recomendadas para evitar a corrupção em ativos clonados](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
 
-1. Localize e selecione o programa que deseja clonar e, em **Ações do Programa** clique em **Clonar**.
+1. Localize e selecione o programa que deseja clonar, em seguida, em **Ações do programa** click **Clonar**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -43,7 +42,7 @@ Clonar de forma rápida e fácil todo um programa e todos os seus ativos em vez 
 
    ![](assets/choosefolderclone.png)
 
-1. Adicione uma descrição opcional e clique em **Criar**. Veja com que rapidez você conseguiu criar um novo programa com todos os seus ativos prontos para ir!
+1. Adicione uma descrição opcional e, em seguida, clique em **Criar**. Veja com que rapidez você conseguiu criar um novo programa com todos os seus ativos prontos para ir!
 
    ![](assets/createclone.png)
 

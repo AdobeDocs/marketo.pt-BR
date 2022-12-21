@@ -15,7 +15,7 @@ Os seguintes recursos estão incluídos na versão de 21 de agosto. Verifique su
 
 >[!AVAILABILITY]
 >
->Recursos indicados por uma estrela (![](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante de Marketo Engage de Adobe para saber mais.
+>Recursos indicados por uma estrela (![](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Adobe Marketo Engage para saber mais.
 
 **_Versões trimestrais_**
 

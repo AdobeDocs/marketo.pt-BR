@@ -3,7 +3,6 @@ unique-page-id: 7515767
 description: Compartilhar segmentações em espaços de trabalho e partições - Documentos do Marketo - Documentação do produto
 title: Compartilhar segmentações em espaços de trabalho e partições
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
@@ -23,15 +22,15 @@ O Marketo é excelente em escolher as pessoas certas para um programa ou campanh
 
 >[!NOTE]
 >
->Saiba [como criar segmentações](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Saiba mais [como criar segmentações](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Depois de configurar essas personas (_e_ você usa espaços de trabalho), você desejará compartilhá-las em seus espaços de trabalho. Estas são algumas coisas boas para se saber:
+Depois de configurar essas personas (_e_ ao usar espaços de trabalho), você deseja compartilhá-los em seus espaços de trabalho. Estas são algumas coisas boas para se saber:
 
 ## Regras e dicas {#rules-tips}
 
-* Cada assinatura do Marketo pode conter até 20 Segmentações &quot;total&quot; em vários espaços de trabalho (**not 20 per workspace**).
+* Cada assinatura do Marketo pode conter até 20 Segmentações &quot;total&quot; em vários espaços de trabalho (**não 20 por espaço de trabalho**).
 * Você só pode compartilhar uma Segmentação com espaços de trabalho aos quais tem acesso.
-* Certifique-se de criar e utilizar um **Espaço de trabalho padrão que tenha visibilidade em todas as partições**.
+* Certifique-se de criar e utilizar um **Espaço de trabalho padrão que tem visibilidade em todas as partições**.
 
 * O processamento de segmentação é executado somente nas pessoas no espaço de trabalho em que a Segmentação é criada.
 
@@ -56,11 +55,11 @@ Depois de configurar essas personas (_e_ você usa espaços de trabalho), você 
 
 ## Compartilhar uma segmentação {#share-a-segmentation}
 
-1. Vá para o **Banco de Dados**.
+1. Vá para o **Banco de dados**.
 
    ![](assets/image2017-3-29-8-3a15-3a40.png)
 
-1. Clique com o botão direito do mouse em **Segmentations** e selecione **New Folders**.
+1. Clique com o botão direito do mouse **Segmentações** e selecione **Novas pastas**.
 
    ![](assets/image2017-3-29-8-3a40-3a31.png)
 

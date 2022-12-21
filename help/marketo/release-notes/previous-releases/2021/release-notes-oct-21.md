@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Notas de versão: Outubro de 2021 {#release-notes-oct-21}
 
-Os seguintes recursos estão incluídos na versão de 21 de outubro. Verifique sua edição Adobe Marketo Engage para ver a disponibilidade dos recursos.
+Os seguintes recursos estão incluídos na versão de 21 de outubro. Verifique sua edição do Adobe Marketo Engage para ver a disponibilidade dos recursos.
 
 >[!AVAILABILITY]
 >

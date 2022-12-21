@@ -3,7 +3,6 @@ unique-page-id: 11378869
 description: Criar uma mensagem Vibes SMS - Documentos do Marketo - Documentação do produto
 title: Criar uma mensagem SMS do Vibes
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-translation-type: tm+mt
 source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '372'
@@ -11,19 +10,19 @@ ht-degree: 3%
 
 ---
 
-# Criar uma mensagem SMS Vibes {#create-a-vibes-sms-message}
+# Criar uma mensagem SMS do Vibes {#create-a-vibes-sms-message}
 
 Veja como criar uma mensagem Vibes SMS.
 
 >[!AVAILABILITY]
 >
->Esse recurso está disponível como um complemento para sua conta do Adobe. Para ser provisionado corretamente, ele deve ser comprado por meio do Adobe. Entre em contato com o Gerente de sucesso do cliente do Adobe para obter detalhes.
+>Esse recurso está disponível como um complemento para sua conta do Adobe Marketo Engage. Para ser provisionado corretamente, ele deve ser comprado por meio do Adobe. Entre em contato com o Gerente de sucesso do cliente do Adobe para obter detalhes.
 
 >[!NOTE]
 >
 >As mensagens de texto SMS não são compatíveis com HIPAA.
 
-1. Vá para **Marketing Activities** e clique com o botão direito do mouse em um programa.
+1. Ir para **Atividades de marketing** e clique com o botão direito do mouse em um programa.
 
    ![](assets/mobile-right-click-hand.jpg)
 
@@ -33,13 +32,13 @@ Veja como criar uma mensagem Vibes SMS.
 
    >[!TIP]
    >
-   >Como alternativa, você pode clicar no menu suspenso **New**.
+   >Como alternativa, você pode clicar no botão **Novo** lista suspensa.
 
 1. Clique em **Mensagem SMS**.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
-1. Insira um nome e uma descrição opcional para a nova mensagem SMS e clique em **Create**.
+1. Insira um nome e uma descrição opcional para a nova mensagem SMS e clique em **Criar**.
 
    ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
 
@@ -67,7 +66,7 @@ Veja como criar uma mensagem Vibes SMS.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Selecione um tipo de link. A Página de aterrissagem do Marketo é o padrão. Se você for com isso, será necessário selecionar a landing page no menu suspenso e clicar em **Insert**.
+1. Selecione um tipo de link. A Página de aterrissagem do Marketo é o padrão. Se isso for feito, é necessário selecionar a landing page no menu suspenso e clicar em **Inserir**.
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -75,7 +74,7 @@ Veja como criar uma mensagem Vibes SMS.
    >
    >Os dois links de rastreamento são selecionados por padrão.
 
-1. Se quiser usar um URL externo, clique no botão **External URL** e insira o URL no campo URL. Clique em **Inserir**.
+1. Se quiser usar um URL externo, clique no link **URL externo** e insira o URL no campo URL . Clique em **Inserir**.
 
    ![](assets/insert-link-url-hands.jpg)
 

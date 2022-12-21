@@ -3,7 +3,6 @@ unique-page-id: 2949264
 description: SEO - Remover/excluir um problema de página - Documentos do Marketo - Documentação do produto
 title: SEO - Remover/excluir um problema de página
 exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
@@ -15,11 +14,11 @@ ht-degree: 0%
 
 Nem todos os problemas de página podem ser úteis para você. Aqui está como remover um.
 
-1. Vá para a seção **Pages**.
+1. Vá para o **Páginas** seção.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Na seção de páginas, clique em **Problemas**.
+1. Na seção páginas , clique em **Problemas**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
@@ -27,7 +26,7 @@ Nem todos os problemas de página podem ser úteis para você. Aqui está como r
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Clicar em **Delete** removerá permanentemente esse problema de página.
+1. Clicar **Excluir** removerá permanentemente esse problema de página.
 
    >[!CAUTION]
    >

@@ -38,7 +38,7 @@ Exporte todos os detalhes e análises de sua campanha da Web em um formato CSV. 
 
 ## Localização {#localization}
 
-Os aplicativos Personalização da Web, Conteúdo preditivo e Insights de email agora estão disponíveis em japonês, alemão e espanhol. Você [seleciona o idioma e o local](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) para exibir o conteúdo nesses idiomas.
+Os aplicativos Personalização da Web, Conteúdo preditivo e Insights de email agora estão disponíveis em japonês, alemão e espanhol. Você [selecione o idioma e a localidade](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) para exibir seu conteúdo nesses idiomas.
 
 ![](assets/japanese-web-personalization.png)
 

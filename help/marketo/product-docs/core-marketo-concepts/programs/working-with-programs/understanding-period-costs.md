@@ -3,7 +3,6 @@ unique-page-id: 7504676
 description: Noções básicas sobre custos de período - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre custos de período
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
@@ -23,7 +22,7 @@ Os custos do período se referem ao dinheiro que você gastou em um mês especí
 >
 >Se você gastar US$ 1.000 para contratar um ilustrador para um eBook que será lançado em julho - o programa eBook teria um custo de US$ 1.000 no período de julho.
 >
->Se você gastar US$ 200 por mês no Google Adwords - o programa Google AdWords teria um custo de período de US$ 200 **a cada mês**.
+>Se você gastar US$ 200 por mês no Google AdWords - o programa Google AdWords teria um custo de período de US$ 200 **todo mês**.
 
 >[!NOTE]
 >
@@ -39,7 +38,7 @@ Imagine um evento, como um webinário, que ocorre em março. Novas pessoas são 
 
    ![](assets/graph1.png)
 
-   ...os contatos adicionados nos meses anteriores e posteriores serão *somente* contados até março.
+   ...contatos adicionados nos meses anteriores e posteriores *only* conte para março.
 
    ![](assets/graph2.png)
 

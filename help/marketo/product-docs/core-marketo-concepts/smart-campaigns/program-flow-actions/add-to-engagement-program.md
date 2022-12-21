@@ -3,11 +3,10 @@ unique-page-id: 1147011
 description: Adicionar ao programa de envolvimento - Documentos da Marketo - Documentação do produto
 title: Adicionar ao programa de envolvimento
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 11%
+ht-degree: 14%
 
 ---
 

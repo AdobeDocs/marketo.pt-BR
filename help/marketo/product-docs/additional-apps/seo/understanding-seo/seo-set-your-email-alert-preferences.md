@@ -3,7 +3,6 @@ unique-page-id: 2949196
 description: SEO - Defina suas preferências de alerta de email - Documentos do Marketo - Documentação do produto
 title: SEO - Definir as preferências de alerta de email
 exl-id: 7675a589-dc40-433b-bf0c-1e78e4d653b5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '63'
@@ -19,6 +18,6 @@ Você pode personalizar suas preferências de email para determinar quando será
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. Indique o que deseja que seja alertado por email e clique em **Salvar**.
+1. Indique o que você deseja que seja avisado por email e clique em **Salvar**.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)

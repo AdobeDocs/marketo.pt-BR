@@ -2,14 +2,13 @@
 unique-page-id: 12615802
 description: Excluir uma conta nomeada - Documentos do Marketo - Documentação do produto
 title: Excluir uma conta nomeada
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # Excluir uma conta nomeada {#delete-a-named-account}
 
@@ -23,7 +22,7 @@ Siga estas etapas rápidas para excluir uma conta nomeada.
    >
    >Clique com a tecla Ctrl pressionada (Windows) ou Cmd pressionada (Mac) para selecionar várias contas nomeadas.
 
-1. Clique no menu suspenso **Ações Nomeadas da Conta** e selecione **Excluir Conta Nomeada**.
+1. Clique no botão **Ações de conta nomeada** e selecione **Excluir Conta Nomeada**.
 
    ![](assets/eight-1.png)
 

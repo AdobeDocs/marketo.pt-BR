@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359610
-description: Alterar o tamanho da fonte do formulário - Documentos do marketing - Documentação do produto
+description: Alterar o tamanho da fonte do formulário - Documentos do Marketo - Documentação do produto
 title: Alterar o tamanho da fonte do formulário
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Alterar o tamanho da fonte do formulário {#change-the-form-font-size}
 
@@ -19,7 +18,7 @@ O Marketo facilita a personalização da aparência de seus formulários. Uma co
 >
 >Essa configuração afeta o rótulo do formulário, o texto de entrada e o texto do botão Enviar.
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -27,11 +26,11 @@ O Marketo facilita a personalização da aparência de seus formulários. Uma co
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Em **Configurações do formulário**, selecione **Configurações**.
+1. Em **Configurações do formulário**, Selecione **Configurações**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Selecione o **Tamanho da fonte** desejado.
+1. Selecione o **Tamanho da fonte** você quer.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
@@ -39,18 +38,18 @@ O Marketo facilita a personalização da aparência de seus formulários. Uma co
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **Aprovar e fechar**.
 
    >[!NOTE]
    >
-   >O formulário deve ser aprovado para uso no landing page.
+   >O formulário deve ser aprovado para ser usado nas landing pages.
 
    ![](assets/image2014-9-15-16-3a11-3a17.png)
 
    >[!NOTE]
    >
-   >Lembre-se de aprovar o rascunho de landing page criado pelas alterações de formulário.
+   >Lembre-se de aprovar o rascunho da landing page criado pelas alterações do formulário.
 
    ![](assets/image2014-9-15-16-3a11-3a42.png)
 
-Pedaço de bolo! Você entendeu.
+Pedaço de bolo! Você tem isso.

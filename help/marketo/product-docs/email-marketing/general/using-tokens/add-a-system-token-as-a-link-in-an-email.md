@@ -22,11 +22,11 @@ Os seguintes tokens podem ser usados como links em um email ou modelo de email:
 
 >[!NOTE]
 >
->Esses tokens **não** serão clicáveis, a menos que dentro de um link de âncora. Além disso, elas podem **e não** ser incorporadas a um My Token.
+>Esses tokens **not** ser clicável, a menos que dentro de um link de âncora. Além disso, eles podem **not** ser incorporado em um Meu token.
 
 Veja como adicioná-los a um email:
 
-1. Localize e selecione seu email e clique em **Editar rascunho**.
+1. Encontre e selecione seu email e clique em **Editar rascunho**.
 
    ![](assets/one-1.png)
 
@@ -34,11 +34,11 @@ Veja como adicioná-los a um email:
 
    ![](assets/two-1.png)
 
-1. Realce o texto que deseja converter em um link que terá o token e clique no botão **Insert/Edit Link**.
+1. Realce o texto que deseja converter em um link que terá o token e clique no botão **Inserir/Editar link** botão.
 
    ![](assets/three-1.png)
 
-1. Insira o token no URL do link e clique em **Insert**.
+1. Insira o token no URL do link e clique em **Inserir**.
 
    ![](assets/four-1.png)
 
@@ -52,10 +52,10 @@ Veja como adicioná-los a um email:
 
 >[!IMPORTANT]
 >
->Se estiver usando essa abordagem para adicionar o token de sistema &quot;viewAsWebpageLink&quot;, você poderá **not** substituí-lo usando tokens. Em vez disso, use a abordagem [Add a View as Web Page Link to an Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) , que permite substituir &quot;viewAsWebPageLink&quot; usando tokens.
+>Se estiver usando essa abordagem para adicionar o token de sistema &quot;viewAsWebpageLink&quot;, você poderá **not** substituí-lo usando tokens. Em vez disso, use [Adicionar uma Exibição como Link da Página da Web a um Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) abordagem que permite substituir &quot;viewAsWebPageLink&quot; usando tokens.
 
 >[!NOTE]
 >
->Não se esqueça de [aprovar seu email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) quando terminar.
+>Não se esqueça de [aprove seu email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) quando concluído.
 
 Muito bem! Agora você sabe como adicionar um token de sistema como um link em um email.

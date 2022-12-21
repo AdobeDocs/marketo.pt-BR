@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2360397
-description: Inscrever-se em um relatório do Revenue Explorer - Documentos do Marketing Cloud - Documentação do produto
-title: Inscrever-se em um Relatório do Gerenciador de Receita
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Inscrever-se em um Relatório do explorador de receita - Documentos do Marketo - Documentação do produto
+title: Inscrever-se em um Relatório do Explorador de Receitas
+exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
+# Inscrever-se em um Relatório do Explorador de Receitas {#subscribe-to-a-revenue-explorer-report}
 
-# Inscrever-se em um Relatório do Revenue Explorer {#subscribe-to-a-revenue-explorer-report}
+Para receber atualizações dos relatórios do Revenue Cycle Explorer e compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
 
-Para receber atualizações de seus relatórios do Revenue Cycle Explorer e compartilhá-las, você pode assinar qualquer endereço de email para um relatório existente.
-
-1. Vá para **Analytics** e selecione **Novo** > **Nova Subscrição de relatório**.
+1. Ir para **Analytics** e selecione **Novo** > **Nova assinatura de relatório**.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Para assinar um relatório básico criado em um programa, consulte [Inscrever-se em um Relatório Básico.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >Para se inscrever em um relatório básico criado em um programa, consulte [Assine um relatório básico.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. Para **Origem de Relatório**, selecione **Explorador de Receitas**.
+1. Para **Fonte do relatório**, selecione **Explorador de receita**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -37,12 +36,12 @@ Para receber atualizações de seus relatórios do Revenue Cycle Explorer e comp
 
    >[!NOTE]
    >
-   >Qualquer pessoa pode cancelar a inscrição no relatório por email recebido.
+   >Qualquer pessoa pode cancelar a inscrição no relatório no email recebido.
 
-1. Sua subscrição está pronta! Se você incluiu seu próprio endereço de email, você receberá o relatório por email.
+1. Sua assinatura está definida! Se você incluiu seu próprio endereço de email, você receberá o relatório por email.
 
    ![](assets/image2014-9-17-12-3a47-3a54.png)
 
 >[!MORELIKETHIS]
 >
->Saiba como [gerenciar todas as subscrições de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) em um único lugar.
+>Saiba como [gerenciar todas as assinaturas de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) em um só lugar.

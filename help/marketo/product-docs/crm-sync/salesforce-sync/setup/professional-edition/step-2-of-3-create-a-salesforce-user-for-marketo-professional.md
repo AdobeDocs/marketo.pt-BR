@@ -3,7 +3,6 @@ unique-page-id: 3571797
 description: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Professional) - Documentos do Marketo - Documentação do produto
 title: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
@@ -23,27 +22,27 @@ ht-degree: 9%
 
 Neste artigo, você personalizará permissões de campo com um Layout de página do Salesforce e criará um usuário de sincronização Marketo-Salesforce .
 
-## Definir Layouts de Página {#set-page-layouts}
+## Definir layouts de página {#set-page-layouts}
 
 O Salesforce Professional define a acessibilidade de nível de campo com layouts de página, em vez dos perfis do Salesforce Enterprise/Unlimited. Seguindo essas etapas, o usuário do Marketo sync poderá atualizar os campos personalizados.
 
-1. Digite **layouts de página** na barra de pesquisa de navegação sem pressionar **Enter** e clique em **Layout de página** em **Leads**.
+1. Tipo **layouts de página** na barra de pesquisa de navegação sem pressionar **Enter** e clique em **Layout da página** under **Clientes potenciais**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Clique em **Editar** ao lado do Layout de lead.
+1. Clique em **Editar** ao lado do Layout principal.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
-1. Clique e arraste uma nova **Seção** para o layout da página.
+1. Clique e arraste um novo **Seção** no layout da página.
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Insira &quot;Marketo&quot; para **Nome da Seção** e clique em **OK**.
+1. Digite &quot;Marketo&quot; para **Nome da seção** e clique em **OK**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Clique e arraste o campo **Data de aquisição** até a seção **Marketo**.
+1. Clique e arraste o campo **Data de aquisição** na **Marketo** seção.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -74,39 +73,39 @@ O Salesforce Professional define a acessibilidade de nível de campo com layouts
    >
    >Crie duas colunas para os campos arrastando para baixo no lado direito da página. É possível mover campos de um lado para o outro para equilibrar as comprimentos da coluna.
 
-1. Clique em **Salvar** ao concluir a adição de campos.
+1. Clique em **Salvar** quando terminar de adicionar campos.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Repita todas as etapas acima para o Salesforce **Contact Page Layout**.
+1. Repita todas as etapas acima para o Salesforce **Layout da página de contato**.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Lembre-se de clicar em **Salvar** quando terminar com o **Layout da Página de Contato**.
+1. Lembrar-se de clicar **Salvar** quando terminar com o **Layout da página de contato**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
    >[!NOTE]
    >
-   >Verifique se o campo **Evento de todos os dias** foi adicionado ao **Layout da página de evento**.
+   >Certifique-se de que a variável **Evento de dia inteiro** foi adicionado ao **Layout da página do evento**.
 
-## Criar Usuário de Sincronização {#create-sync-user}
+## Criar usuário de sincronização {#create-sync-user}
 
 A Marketo requer credenciais para acessar o Salesforce. Isso é melhor com um usuário dedicado criado com as etapas abaixo.
 
 >[!NOTE]
 >
->Se sua organização não tiver licenças adicionais do Salesforce, você poderá usar um **usuário de marketing** existente com o perfil **Administrador do sistema**.
+>Se sua organização não tiver licenças adicionais do Salesforce, você poderá usar um **Usuário de marketing** com o **Administrador do sistema** perfil.
 
-1. Digite &quot;usuários&quot; na barra de pesquisa de navegação e clique em **Usuários** em **Gerenciar usuários**.
+1. Digite &quot;usuários&quot; na barra de pesquisa de navegação e clique em **Usuários** under **Gerenciar usuários**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. Clique em **Novo Usuário**.
+1. Clique em **Novo usuário**.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Preencha os campos obrigatórios, selecione a **Licença de usuário: Salesforce**, defina o **Perfil: Administrador do sistema**, marque **Usuário de marketing** e clique em **Salvar**.
+1. Preencha os campos obrigatórios, selecione o **Licença de usuário: Salesforce**, defina o **Perfil: Administrador do sistema**, verificar **Usuário de marketing** e clique em **Salvar**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 

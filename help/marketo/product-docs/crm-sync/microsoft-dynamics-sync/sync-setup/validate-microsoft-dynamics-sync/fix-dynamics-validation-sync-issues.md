@@ -14,15 +14,15 @@ ht-degree: 6%
 
 ## Validar os resultados da ferramenta de sincronização {#validate-sync-tool-results}
 
-When you run the Dynamics Validate Sync, it generates a report. Se houver um ![x](assets/delete.png) ao lado de uma etapa, consulte as opções abaixo para identificar e corrigir o problema. Then, rerun the sync validation steps until the result shows nothing but green checkmarks.
+Quando você executa a Sincronização do Dynamics Validate, ela gera um relatório. Se houver um ![x](assets/delete.png) ao lado de uma etapa, consulte as opções abaixo para identificar e corrigir o problema. Em seguida, execute novamente as etapas de validação de sincronização até que o resultado não mostre nada além das marcas de seleção verdes.
 
 ![](assets/image2015-9-22-15-3a58-3a12.png)
 
 ## URL válido {#url-is-valid}
 
-If you have an ![x](assets/delete.png) here, verify that the URL is valid. Localize-o aqui em Recursos do desenvolvedor e veja o Serviço de organização. O URL pode ser inválido por vários motivos.
+Se você tiver uma ![x](assets/delete.png) aqui, verifique se o URL é válido. Localize-o aqui em Recursos do desenvolvedor e veja o Serviço de organização. O URL pode ser inválido por vários motivos.
 
-1. Faça logon no Dynamics. Click the Settings icon and select **Advanced Settings**.
+1. Faça logon no Dynamics. Clique no ícone Configurações e selecione **Configurações avançadas**.
 
    ![](assets/one.png)
 
@@ -52,7 +52,7 @@ Se você tiver uma ![x](assets/delete.png) aqui, pode ser um dos três problemas
 
    ![](assets/one.png)
 
-1. Click **Settings** and select **Security**.
+1. Clique em **Configurações** e selecione **Segurança**.
 
    ![](assets/six.png)
 
@@ -82,7 +82,7 @@ Se você tiver uma ![x](assets/delete.png) aqui, pode ser um dos três problemas
 
 ## A solução Marketo foi devidamente instalada {#marketo-solution-is-properly-installed}
 
-If you have an ![x](assets/delete.png) here, Go to Microsoft Dynamics to verify the Marketo installation is there. Consulte a Etapa 1 da documentação de configuração do Microsoft Dynamics.
+Se você tiver uma ![x](assets/delete.png) aqui, vá para Microsoft Dynamics para verificar se a instalação do Marketo está lá. Consulte a Etapa 1 da documentação de configuração do Microsoft Dynamics.
 
 1. No Dynamics, clique no ícone Configurações e selecione **Configurações avançadas**.
 
@@ -98,13 +98,13 @@ If you have an ![x](assets/delete.png) here, Go to Microsoft Dynamics to verify 
 
 ## Todas as etapas da solução estão ativadas {#all-steps-in-the-solution-are-enabled}
 
-If you have an ![x](assets/delete.png) here, verify that none of the default steps have been deactivated. All steps are automatically enabled at installation, but they could be deactivated during a customization.
+Se você tiver uma ![x](assets/delete.png) aqui, verifique se nenhuma das etapas padrão foi desativada. Todas as etapas são ativadas automaticamente na instalação, mas podem ser desativadas durante uma personalização.
 
 ## Atribui-se o usuário de sincronização à solução Marketo {#sync-user-is-assigned-to-the-marketo-solution}
 
-If you have an ![x](assets/delete.png) here, make sure the Sync user is assigned on the Marketo Default page in Microsoft Dynamics.
+Se você tiver uma ![x](assets/delete.png) aqui, verifique se o usuário Sincronizar está atribuído na página Padrão do Marketo no Microsoft Dynamics.
 
-1. In Dynamics, click the Settings icon and select **Advanced Settings**.
+1. No Dynamics, clique no ícone Configurações e selecione **Configurações avançadas**.
 
    ![](assets/one.png)
 

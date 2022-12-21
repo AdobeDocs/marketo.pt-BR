@@ -3,7 +3,6 @@ unique-page-id: 2360327
 description: Atribuição de partições de pessoa com regras de atribuição - Documentos do Marketo - Documentação do produto
 title: Atribuindo Partições de Pessoa com Regras de Atribuição
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -31,11 +30,11 @@ Ao usar partições de pessoa, configure regras de atribuição para rotear as p
 
    ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. Na guia **Partições de Pessoas**, clique em **Regras de Atribuição**.
+1. Em **Partições de Pessoas** clique em **Regras de atribuição**.
 
    ![](assets/two-6.png)
 
-1. Clique em **Adicionar Escolha** para adicionar condições para rotear pessoas em partições de pessoa.
+1. Clique em **Adicionar escolha** para adicionar condições para rotear pessoas em partições de pessoas.
 
    ![](assets/three-6.png)
 

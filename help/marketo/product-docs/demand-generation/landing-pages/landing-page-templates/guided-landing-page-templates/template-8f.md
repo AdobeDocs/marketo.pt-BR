@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 8F {#template-8f}
 
-Clique com o botão direito do mouse em [baixar Modelo 8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
+Clique com o botão direito do mouse em para [baixar modelo 8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 

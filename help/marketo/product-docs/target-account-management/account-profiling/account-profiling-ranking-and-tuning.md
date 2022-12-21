@@ -2,31 +2,30 @@
 unique-page-id: 15695924
 description: Classificação e ajuste do perfil da conta - Documentos do Marketo - Documentação do produto
 title: Classificação e ajuste do perfil da conta
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Classificação e ajuste do perfil da conta {#account-profiling-ranking-and-tuning}
 
 A criação de perfil de conta identifica o ICP (Perfil do cliente ideal), classifica empresas no banco de dados com base no ICP e adiciona dados do indicador ICP a contas promovidas como contas nomeadas.
 
-## Resultados do Modelo {#model-results}
+## Resultados do modelo {#model-results}
 
 Os resultados mostram todas as suas contas conhecidas detalhadas por grau. A é o grau mais alto, D é o mais baixo.
 
 ![](assets/results.png)
 
-Embora seja opcional, recomendamos marcar a caixa de seleção Promover automaticamente , pois isso economizará muito tempo. No entanto, se você quiser passar por cada conta e [adicioná-las manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), deixe a caixa desmarcada.
+Embora seja opcional, recomendamos marcar a caixa de seleção Promover automaticamente , pois isso economizará muito tempo. No entanto, se você quiser passar por cada conta e [adicioná-los manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), deixe a caixa desmarcada.
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Classificação</strong></td> 
+   <td><strong>Categoria</strong></td> 
    <td> 
     <div>
       Classificação da conta com base no Perfil ideal do cliente. A é o melhor ajuste, D é o menos adequado. 
@@ -56,7 +55,7 @@ Embora seja opcional, recomendamos marcar a caixa de seleção Promover automati
  </tbody> 
 </table>
 
-## Ajuste do modelo {#model-tuning}
+## Afinação do modelo {#model-tuning}
 
 Na guia Modelo, clique no botão Ajustar modelo.
 
@@ -134,7 +133,7 @@ Há várias guias para escolher, permitindo uma personalização detalhada.
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Negócios</strong></td> 
+   <td><strong>Empresa</strong></td> 
    <td> 
     <div>
       Listas da Forbes ou Inc. ou parcerias de negócios. 
@@ -158,13 +157,13 @@ Clique na lista suspensa Adicionar indicador ICP para inserir indicadores adicio
 
 ![](assets/add-icp.png)
 
-Marcar a caixa Exportar permite ver o indicador ICP na página Detalhes da conta nomeada, bem como usar o indicador ICP selecionado como restrições em [Filtros de conta nomeados](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Marcar a caixa Exportar permite ver o indicador ICP na página Detalhes da conta nomeada, bem como usar o indicador ICP selecionado como restrições em [filtros de conta nomeados](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Os indicadores ICP são incluídos como restrições em **Membro de Conta Nomeada** Filtros e Acionadores.
+>Os indicadores ICP são incluídos como restrições em **Membro da Conta Nomeada** Filtros e acionadores.
 
 Peso do indicador é o que controla o nível de importância que cada indicador recebe no modelo.
 
@@ -174,6 +173,6 @@ Clique em Atualizar modelo para que essas alterações entrem em vigor.
 
 ![](assets/refresh-button.png)
 
-Quando terminar de ajustar o modelo (depois de atualizá-lo), volte para a guia Resultados do Modelo e clique em **Salvar e aplicar classificações**.
+Quando terminar de ajustar o modelo (depois de atualizá-lo), volte para a guia Resultados do modelo e clique em **Salvar e aplicar classificações**.
 
 ![](assets/ranks.png)

@@ -3,11 +3,10 @@ unique-page-id: 1147019
 description: Converter pessoa - Documentos do Marketo - Documentação do produto
 title: Converter pessoa
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -25,7 +24,7 @@ Use essa etapa de fluxo para converter uma pessoa em um contato no Salesforce. V
 
 ## Uso {#usage}
 
-1. Selecione a quem deseja **atribuir** o contato, a conta e a oportunidade resultantes.
+1. Selecione quem deseja **atribuir** o contato, a conta e a oportunidade resultantes.
 
    ![](assets/two-2.png)
 
@@ -33,7 +32,7 @@ Use essa etapa de fluxo para converter uma pessoa em um contato no Salesforce. V
    >
    >A conversão de uma pessoa no Marketo resultará em uma nova conta e oportunidade no Salesforce. Se você não quiser contas duplicadas, use o Salesforce para converter.
 
-1. Escolha se deseja que uma **notificação** seja enviada ao proprietário ou não.
+1. Escolha se deseja um **notificação** enviado ao proprietário ou não.
 
    ![](assets/three-2.png)
 

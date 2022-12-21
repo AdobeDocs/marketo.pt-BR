@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2949283
-description: Enviar e rastrear do Outlook usando um modelo de marketing - documentos do Marketing - Documentação do produto
-title: Enviar e rastrear do Outlook usando um modelo de marketing
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Enviar e rastrear a partir do Outlook usando um modelo do Marketo - Documentos do Marketo - Documentação do produto
+title: Enviar e rastrear a partir do Outlook usando um modelo do Marketo
+exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-
-# Enviar e rastrear do Outlook usando um modelo de marketing {#send-and-track-from-outlook-using-a-marketo-template}
+# Enviar e rastrear a partir do Outlook usando um modelo do Marketo {#send-and-track-from-outlook-using-a-marketo-template}
 
 Se sua equipe de marketing disponibilizou modelos para você, veja como usá-los para economizar tempo ao compor seus emails.
 
-1. Abra o Microsoft Outlook e clique em **Mensagem de Marketo**.
+1. Abra o Microsoft Outlook e clique em **Mensagem Marketo**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. Selecione o modelo desejado, pré-visualização-o e clique em **OK**.
+1. Selecione o modelo desejado, visualize-o e clique em **OK**.
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
@@ -29,14 +28,14 @@ Se sua equipe de marketing disponibilizou modelos para você, veja como usá-los
 
    >[!NOTE]
    >
-   >Tokens não são suportados com o suplemento. Remova qualquer item que possa estar no modelo.
+   >Tokens não são compatíveis com o suplemento. Remova qualquer item que possa estar no modelo.
 
-1. Verifique a pré-visualização, verifique se ela está boa e clique em **Enviar**.
+1. Confira a visualização, certifique-se de que ela está boa e clique em **Enviar**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
-   E aí vai você! Você foi capaz de economizar muito tempo usando modelos que sua super incrível equipe de marketing fez para você.
+   E aí está! Você foi capaz de economizar tempo usando modelos que sua equipe de marketing super incrível fez para você.
 
 >[!MORELIKETHIS]
 >
->[Registrar e-mails de entrada dos seus clientes potenciais no Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Registrar emails de entrada dos seus clientes potenciais no Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

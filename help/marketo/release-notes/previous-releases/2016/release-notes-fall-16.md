@@ -52,7 +52,7 @@ Agora, é possível atribuir equipes de conta a contas nomeadas no Marketing Bas
 
 **API REST**
 
-Essa versão também permite gerenciar atributos de conta nomeados e pontuações de contas no ABM usando a API REST do Marketo. Para obter mais detalhes sobre as operações da API, visite o [site do Marketo Developers](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+Essa versão também permite gerenciar atributos de conta nomeados e pontuações de contas no ABM usando a API REST do Marketo. Para obter mais detalhes sobre as operações da API, visite o [Site de desenvolvedores do Marketo](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Melhorias da trilha de auditoria](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -66,11 +66,11 @@ Foram-se os dias em que você teve de se preocupar com o envio de emails transac
 
 **Editar restrições de campanha**
 
-Por que definir [restrições de campanha](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) se você não puder aplicá-las? Ao definir Configurações de limite de campanha para restringir o número de pessoas no banco de dados que podem ser alvos de uma única campanha, agora é possível restringir quais usuários podem substituir essas configurações ao agendar uma campanha.
+Por que definir [restrições de campanha](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) se você não pode aplicá-las? Ao definir Configurações de limite de campanha para restringir o número de pessoas no banco de dados que podem ser alvos de uma única campanha, agora é possível restringir quais usuários podem substituir essas configurações ao agendar uma campanha.
 
 ## [Som para notificações por push móveis](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
-Forneça riqueza à notificação por push do iOS ao ativar o som. Esse novo recurso permite que você acione um som quando a Notificação por push for exibida no dispositivo móvel.
+Forneça mais riqueza à notificação por push do iOS, ativando o som. Esse novo recurso permite que você acione um som quando a Notificação por push for exibida no dispositivo móvel.
 
 >[!NOTE]
 >
@@ -82,11 +82,11 @@ Forneça riqueza à notificação por push do iOS ao ativar o som. Esse novo rec
 
 ## [Insight de vendas compatível com a criptografia do Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-O Market Sales Insight agora é compatível com o Salesforce Shield Encryption. Todos os clientes do Sales Insight devem atualizar para esse pacote gerenciado mais recente (versão 1.4359.2), que está [disponível no Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+O Market Sales Insight agora é compatível com o Salesforce Shield Encryption. Todos os clientes do Sales Insight devem atualizar para esse pacote gerenciado mais recente (versão 1.4359.2), que é [disponível no Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
 ## [APIs de contas nomeadas](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
-Com esta versão, os usuários do Marketo ABM podem gerenciar contas nomeadas por meio da API de contas nomeadas. Os usuários podem criar, atualizar e excluir contas nomeadas, bem como ler e atualizar as pontuações de conta nomeadas do ABM.
+Com esta versão, os usuários do Marketo ABM podem gerenciar contas nomeadas por meio da API de contas nomeadas. Os usuários podem criar, atualizar e excluir contas nomeadas, bem como ler e atualizar as pontuações da conta nomeada ABM.
 
 ## [Suporte à API do Editor de email v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 

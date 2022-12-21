@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ### Renomear {#rename}
 
-É possível renomear as Smart Lists, as listas estáticas e as campanhas. Se você estiver usando esses ativos em filtros, acionadores ou fluxos, o nome também será atualizado automaticamente lá. Sempre foi possível renomear emails, formulários e pastas.
+Você pode renomear as Smart Lists, as listas estáticas e as campanhas. Se você estiver usando esses ativos em filtros, acionadores ou fluxos, o nome também será atualizado automaticamente lá. Sempre foi possível renomear emails, formulários e pastas.
 
 E, como bônus, melhoramos a inserção e a exibição de texto de descrição para ativos.
 
@@ -64,7 +64,7 @@ Ao agendar uma campanha, você pode clicar no link para ver a lista de leads que
 
 ## Etapa de espera - Token de lead e Meu token {#wait-step-lead-token-and-my-token}
 
-Na versão de maio, adicionamos opções avançadas à etapa Fluxo de espera . Com essas alterações, você pode especificar um dia útil, data e hora. Nesta versão, adicionamos a capacidade de usar um token na etapa de espera. Por exemplo, você pode usar `{{lead.Birthday}}` para enviar um email no Aniversário ou usar `{{my.Event Date}}` para enviar um lembrete de webinar final.
+Na versão de maio, adicionamos opções avançadas à etapa Fluxo de espera . Com essas alterações, você pode especificar um dia útil, data e hora. Nesta versão, adicionamos a capacidade de usar um token na etapa de espera. Por exemplo, talvez você queira usar `{{lead.Birthday}}` para enviar um email no Aniversário ou usar `{{my.Event Date}}` para enviar um lembrete final do webinário.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

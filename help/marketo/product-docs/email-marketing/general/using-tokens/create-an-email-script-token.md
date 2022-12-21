@@ -1,37 +1,36 @@
 ---
 unique-page-id: 1900577
-description: Criar um token de script de e-mail - Documentos do Marketo - Documentação do produto
+description: Criar um token de script de email - Documentos do Marketo - Documentação do produto
 title: Criar um token de script de email
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-
 # Criar um token de script de email {#create-an-email-script-token}
 
-Para desenvolvedores avançados, você pode usar [scripts Velocity](https://velocity.apache.org/engine/1.7/user-guide.html) em seus emails. Aqui está como fazer isso.
+Para desenvolvedores avançados, você pode usar [Scripts Velocity](https://velocity.apache.org/engine/1.7/user-guide.html) em seus emails. Aqui está como fazê-lo.
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Localize e selecione qualquer programa (Evento, Padrão ou Envolvimento, etc.).
+1. Localize e selecione qualquer programa (Evento, Padrão ou Envolvimento etc.).
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Na guia **Meus tokens**, arraste um token **Script de e-mail**.
+1. Em **Meus tokens** , arraste uma **Script de email** token.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Nomeie seu token de script de email e **clique para editar** seu conteúdo.
+1. Nomeie o token de script de email e **clique para editar** seu conteúdo.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Use a árvore à direita para arrastar os tokens **Pessoa, Oportunidade** ou **Objeto Personalizado**.
+1. Use a árvore à direita para arrastar para dentro **Pessoa, Oportunidade** ou **Objeto personalizado** tokens.
 
    ![](assets/five-2.png)
 
@@ -45,14 +44,14 @@ Para desenvolvedores avançados, você pode usar [scripts Velocity](https://velo
 
    >[!NOTE]
    >
-   >Se você estiver digitando tokens de forma livre, verifique/ative todos os tokens correspondentes na árvore ou eles serão tratados como texto sem formatação e não funcionarão.
+   >Se você estiver digitando tokens no formato livre, verifique/ative todos os tokens correspondentes na árvore ou eles serão tratados como texto sem formatação e não funcionarão.
 
-1. Escreva seu script no Velocity. Estes são alguns recursos úteis:
+1. Escreva seu script em Velocity. Estes são alguns recursos úteis:
 
-   * [Documentação de scripts de e-mail para desenvolvedores de marketing](https://developers.marketo.com/email-scripting/)
-   * [Guia do usuário Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
-   * [Guia de referência de velocidade](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [Documentação de script de email para desenvolvedores do Marketo](https://developers.marketo.com/email-scripting/)
+   * [Guia do usuário do Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [Guia de referência do Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Javadoc das ferramentas da Velocity](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. Depois que o script for concluído, clique em **Salvar**.
 
@@ -62,7 +61,7 @@ Para desenvolvedores avançados, você pode usar [scripts Velocity](https://velo
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
-Agora você pode usar este token em seus emails. Ele executará o script sempre que um email for enviado.
+Agora você pode usar esse token em seus emails. Ele executará o script sempre que um email for enviado.
 
 >[!MORELIKETHIS]
 >

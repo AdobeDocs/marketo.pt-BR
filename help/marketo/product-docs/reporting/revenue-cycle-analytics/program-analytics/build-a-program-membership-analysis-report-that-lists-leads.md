@@ -1,62 +1,61 @@
 ---
 unique-page-id: 2360405
-description: Criar um relatório de Análise de associação de Programa que o Lista lidera - Documentos do Marketing Cloud - Documentação do produto
-title: Criar um relatório de Análise de associação de Programa que o Lista lidera
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Criar um relatório de análise de associação ao programa que lista clientes potenciais - Documentos da Marketo - Documentação do produto
+title: Criar um Relatório de Análise de Associação de Programa que Lista os Clientes Potenciais
+exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Criar um Relatório de Análise de Associação de Programa que Lista os Clientes Potenciais {#build-a-program-membership-analysis-report-that-lists-leads}
 
-# Criar um relatório de Análise de associação de Programa que o Lista lidera {#build-a-program-membership-analysis-report-that-lists-leads}
-
-Siga estas etapas para criar um relatório de Análise de associação de Programa que mostrará todos os nomes dos membros do programa.
+Siga estas etapas para criar um relatório de Análise de associação do programa que mostrará todos os nomes de membros do programa.
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes adquiriram essa funcionalidade. Entre em contato com seu representante de vendas para obter detalhes.
+>Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
 
 1. Inicie o Explorador de Receita.
 
    ![](assets/one.png)
 
-1. Clique em **Criar novo** e em **Relatório**.
+1. Clique em **Criar novo** then **Relatório**.
 
    ![](assets/two.png)
 
-1. Selecione **Análise de associação ao Programa** e clique em **OK**.
+1. Selecionar **Análise de adesão ao programa** e clique em **OK**.
 
    ![](assets/three.png)
 
-1. Localize e clique com o duplo no ponto amarelo Nome do Programa.
+1. Localize e clique duas vezes no ponto amarelo Nome do programa .
 
    ![](assets/four.png)
 
-1. Localize e clique com o duplo no ponto azul Membros.
+1. Localize e clique duas vezes no ponto azul Membros.
 
    ![](assets/five.png)
 
-1. Localize e clique com o duplo no ponto azul Êxito (Total).
+1. Encontre e clique duas vezes no ponto azul Sucesso (Total) .
 
    ![](assets/six.png)
 
-Percebe como isso foi fácil?
+Viu como foi fácil?
 
 ![](assets/seven.png)
 
-Você pode adicionar rapidamente um atributo de cliente potencial, como _Nome completo_ para ver quem são os membros.
+Você pode adicionar rapidamente um atributo de lead, como _Nome completo_ para ver quem são os membros.
 
 >[!TIP]
 >
->Há muitos atributos de lead/empresa para selecionar. Dê uma olhada!
+>Há vários atributos de cliente potencial/empresa para escolher. Dê uma olhada!
 
-1. Localize e clique com o duplo no **Nome completo** ponto amarelo.
+1. Localize e clique duas vezes na guia **Nome completo** ponto amarelo.
 
    ![](assets/eight.png)
 
-Aqui está!
+Aí está!
 
 ![](assets/nine.png)

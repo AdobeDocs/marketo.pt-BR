@@ -3,7 +3,6 @@ unique-page-id: 2949251
 description: SEO - Adicionar/remover um URL de link de entrada de uma lista - Documentos do Marketo - Documentação do produto
 title: SEO - Adicionar/remover um URL de link de entrada de uma lista
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
@@ -21,7 +20,7 @@ Você pode organizar seus URLs de link de entrada para o conteúdo do seu coraç
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Passe o mouse sobre o URL do link de entrada que deseja categorizar. Clique em **Adicionar/Remover da Lista**.
+1. Passe o mouse sobre o URL do link de entrada que deseja categorizar. Clique em **Adicionar/remover da lista**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -41,11 +40,11 @@ Você pode organizar seus URLs de link de entrada para o conteúdo do seu coraç
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Clique no menu suspenso **Filtrar por lista**. Clique na lista que deseja limpar.
+1. Clique no botão **Filtrar por lista** lista suspensa. Clique na lista que deseja limpar.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Passe o mouse sobre o URL do link de entrada que você deseja remover. Clique em **Adicionar/Remover da Lista**.
+1. Passe o mouse sobre o URL do link de entrada que você deseja remover. Clique em **Adicionar/remover da lista**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 

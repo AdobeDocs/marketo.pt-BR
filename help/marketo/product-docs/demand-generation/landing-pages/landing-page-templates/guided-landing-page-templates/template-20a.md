@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 20A {#template-20a}
 
-Clique com o botão direito do mouse em [baixar Modelo 20A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
+Clique com o botão direito do mouse em para [modelo de download 20A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 

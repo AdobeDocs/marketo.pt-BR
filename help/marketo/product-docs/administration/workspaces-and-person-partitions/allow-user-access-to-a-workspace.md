@@ -3,7 +3,6 @@ unique-page-id: 2360325
 description: Permitir acesso do usuário a um espaço de trabalho - Documentos do Marketo - Documentação do produto
 title: Permitir acesso do usuário a um espaço de trabalho
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -27,11 +26,11 @@ Os espaços de trabalho podem ser por qualquer motivo (como unidade de negócios
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. Na guia **Users**, selecione o usuário e clique em **Editar usuário**.
+1. Em **Usuários** , selecione o usuário e clique em **Editar usuário**.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
-1. Selecione a **Função e Espaço de trabalho** a que deseja que o usuário tenha acesso.
+1. Selecione o **Função e espaço de trabalho** você deseja que o usuário tenha acesso a.
 
    >[!NOTE]
    >

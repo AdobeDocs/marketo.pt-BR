@@ -1,38 +1,37 @@
 ---
 unique-page-id: 14352463
-description: Adicionar botões do Connect de vendas ao Salesforce - Documentos do Marketing - Documentação do produto
+description: Adicionar botões de conexão de vendas ao Salesforce - Documentos da Marketo - Documentação do produto
 title: Adicionar botões de conexão de vendas ao Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
+# Adicionar botões de conexão de vendas ao Salesforce {#add-sales-connect-buttons-to-salesforce}
 
-# Adicionar botões do Sales Connect ao Salesforce {#add-sales-connect-buttons-to-salesforce}
+## Enviar por push ao Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-## Encaminhar para o Marketing Sales Connect {#push-to-marketo-sales-connect}
+1. Ir para **Configuração** then **Personalizar**.
+1. Em Contatos/Clientes potenciais/Contas, abra **Pesquisar Layouts**.
+1. Editar Exibição de Lista de Clientes Potenciais e arrastar **Encaminhar para MSC** nos Botões Selecionados.
 
-1. Vá para **Configuração** e **Personalizar**.
-1. Em Contatos/Clientes potenciais/Contas, abra **Pesquisar layouts**.
-1. Edite Visualização de Lista de Clientes Potenciais e arraste **Empurre para MSC** para os Botões Selecionados.
+## Enviar e-mail do Marketo Sales {#send-marketo-sales-email}
 
-## Enviar email de vendas do Marketing to {#send-marketo-sales-email}
-
-1. Edite o layout Página para Cliente Potencial/Contato/Conta.
+1. Edite o Layout de página para Lead/Contato/Conta.
 1. Selecione a seção para Botões.
-1. Segure o botão **Enviar Email do MSC** e arraste-o para a seção **Botões Personalizados** dos Detalhes.
+1. Pegue o **Enviar Email do MSC** e arraste-o para a **Botões personalizados** da seção Detalhes.
 
-## Ligar para o Marketing Sales Connect {#call-with-marketo-sales-connect}
+## Chamar com o Marketo Sales Connect {#call-with-marketo-sales-connect}
 
-1. Edite o layout Página para Cliente Potencial/Contato/Conta.
+1. Edite o Layout de página para Lead/Contato/Conta.
 1. Selecione a seção para Botões.
-1. Segure o botão **Chamar com MSC** e arraste-o para a seção **Botões Personalizados** dos Detalhes.
+1. Pegue o **Chame com MSC** e arraste-o para a **Botões personalizados** da seção Detalhes.
 
-## Adicionar à Campanha {#add-to-campaign}
+## Adicionar à campanha  {#add-to-campaign}
 
-1. Edite o layout Página para Cliente Potencial/Contato/Conta.
+1. Edite o Layout de página para Lead/Contato/Conta.
 1. Selecione a seção para Botões.
-1. Segure o botão **Adicionar à Campanha MSC** e arraste-o para a seção **Botões Personalizados** dos Detalhes.
+1. Pegue o **Adicionar à Campanha MSC** e arraste-o para a **Botões personalizados** da seção Detalhes.

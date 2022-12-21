@@ -18,11 +18,11 @@ ht-degree: 0%
 
 Nem todos os campos no Salesforce são úteis para Marketing. Você pode otimizar o desempenho da sincronização incluindo apenas os campos necessários. Veja como ocultar um campo do Marketo.
 
-1. Clique no menu de nome e selecione **Configurar**.
+1. Clique no menu de nome e selecione **Configuração**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Insira **profiles** na barra de pesquisa e clique em **Profiles** em **Manage Users**.
+1. Enter **perfis** na barra de pesquisa e clique em **Perfis** under **Gerenciar usuários**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -30,7 +30,7 @@ Nem todos os campos no Salesforce são úteis para Marketing. Você pode otimiza
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Na seção **Field-Level Security**, clique em **View** ao lado do objeto que contém o campo de destino.
+1. Em **Segurança no nível do campo** seção , clique em **Exibir** ao lado do objeto que contém o campo target .
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
@@ -38,7 +38,7 @@ Nem todos os campos no Salesforce são úteis para Marketing. Você pode otimiza
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Desmarque a caixa de seleção **Visível** ao lado do campo que deseja ocultar. Clique em **Salvar**.
+1. Desmarque a opção **Visível** caixa de seleção ao lado do campo que deseja ocultar. Clique em **Salvar**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 

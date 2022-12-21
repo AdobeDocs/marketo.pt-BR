@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2949966
-description: Adicionar uma lista de países ao seu formulário - Documentos de marketing - Documentação do produto
-title: Adicionar uma lista de seleção de país ao formulário
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Adicionar uma lista de seleção de país ao seu formulário - Documentos da Marketo - Documentação do produto
+title: Adicionar uma lista de seleção de país ao seu formulário
+exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Adicionar uma lista de seleção de país ao seu formulário {#add-a-country-picklist-to-your-form}
 
-# Adicionar uma lista de seleção de país ao formulário {#add-a-country-picklist-to-your-form}
+Siga estas instruções para converter o campo do país em uma lista suspensa com todos os países.
 
-Siga estas instruções para converter o campo country em um menu suspenso com uma lista de todos os países.
-
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-9.png)
 
@@ -23,19 +22,19 @@ Siga estas instruções para converter o campo country em um menu suspenso com u
 
    ![](assets/editform-1.png)
 
-1. Clique no sinal **+**.
+1. Clique no botão **+** sinal.
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Localize e selecione **País**.
+1. Localizar e selecionar **País**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Com o campo **País** selecionado, altere **Tipo de campo** para **Selecione**.
+1. Com o **País** campo selecionado altera a **Tipo de campo** para **Selecionar**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **** Edite os  **** valores para adicionar a lista de países que os usuários podem escolher.
+1. **Editar** o **Valores** para adicionar a lista de países, os usuários podem escolher.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
@@ -55,7 +54,7 @@ Siga estas instruções para converter o campo country em um menu suspenso com u
 
    >[!TIP]
    >
-   >Sinta-se à vontade para editar a lista ou usar qualquer outra lista.
+   >Você pode editar a lista ou usar qualquer outra lista.
 
 1. Clique em **Salvar**.
 
@@ -65,15 +64,15 @@ Siga estas instruções para converter o campo country em um menu suspenso com u
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **Aprovar e fechar**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   Muito bem! Agora, quando uma pessoa preenche seu formulário, ela pode escolher na lista de países que você forneceu.
+   Muito bem! Agora, quando uma pessoa preenche seu formulário, ela pode selecionar na lista de países fornecidos.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
 
-Como isso foi tão fácil, por que não fazer mais? Que tal mostrar dinamicamente o campo Estado quando um usuário seleciona Estados Unidos como o país da lista? Confira o artigo relacionado abaixo para descobrir como fazer isso.
+Uma vez que isso foi tão fácil, por que não fazer mais? Que tal mostrar dinamicamente o campo Estado quando um usuário seleciona Estados Unidos como o país na lista? Confira o artigo relacionado abaixo para descobrir como fazer isso.
 
 >[!MORELIKETHIS]
 >

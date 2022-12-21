@@ -3,7 +3,6 @@ unique-page-id: 557154
 description: Criar uma lista inteligente - Documentos do Marketo - Documentação do produto
 title: Criar uma lista inteligente
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
@@ -11,11 +10,11 @@ ht-degree: 15%
 
 ---
 
-# Criar uma Smart List {#create-a-smart-list}
+# Criar uma lista inteligente {#create-a-smart-list}
 
 As listas inteligentes permitem-lhe encontrar grupos específicos de pessoas usando filtros simples. Aqui está como criar um.
 
-1. Vá para **Marketing Activities**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,11 +22,11 @@ As listas inteligentes permitem-lhe encontrar grupos específicos de pessoas usa
 
    ![](assets/image2014-8-11-10-3a17-3a8.png)
 
-1. Em **Novo**, clique em **Novo Ativo Local**.
+1. Em **Novo**, clique em **Novo ativo local**.
 
    ![](assets/image2014-9-9-16-3a26-3a28.png)
 
-1. Selecione **Smart List**.
+1. Selecionar **Lista inteligente**.
 
    ![](assets/image2014-9-9-16-3a27-3a18.png)
 

@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359728
-description: Guias de uso para design de Landing page de forma livre - Documentos de marketing - Documentação do produto
-title: Usar guias para design de Landing page de forma livre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Guias de uso para design de página de aterrissagem de forma livre - Documentos do Marketo - Documentação do produto
+title: Guias de uso para design de página de aterrissagem de forma livre
+exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
+# Guias de uso para design de página de aterrissagem de forma livre {#use-guides-for-free-form-landing-page-design}
 
-# Usar guias para design de Landing page de forma livre {#use-guides-for-free-form-landing-page-design}
-
-Ao projetar uma landing page de forma livre, você pode usar guias para ajudar a alinhar os componentes.
+Ao criar uma página de aterrissagem de forma livre, você pode usar guias para ajudar a alinhar os componentes.
 
 >[!NOTE]
 >
->As guias só estão disponíveis no editor de landing page **forma livre**.
+>As guias só estão disponíveis no **Forma livre** editor de página de aterrissagem.
 
-1. Selecione uma **Landing page** e clique em **Editar rascunho**.
+1. Selecione um **Página de aterrissagem** e clique em **Editar rascunho**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Clique em **Ações de Landing page** e selecione **Mostrar guias**.
+1. Clique em **Ações da página de aterrissagem** e selecione **Mostrar guias**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 
-1. Uma guia vertical e horizontal será exibida sobre a tela de desenho. Use o cursor para movê-los.
+1. Uma guia vertical e horizontal aparecerá sobre a tela. Use o cursor para movê-las.
 
    ![](assets/image2015-5-20-14-3a15-3a9.png)
 
-1. Arraste um objeto sobre a linha. Solte quando a linha duplo na largura e o objeto se ajusta à guia.
+1. Arraste um objeto sobre a linha. Solte quando a linha dobrar em largura e o objeto se encaixará na guia.
 
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 

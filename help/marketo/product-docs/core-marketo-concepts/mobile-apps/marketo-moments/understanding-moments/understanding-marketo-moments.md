@@ -3,7 +3,6 @@ unique-page-id: 8781845
 description: Noções básicas sobre os momentos do Marketo - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre os momentos do Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '544'
@@ -11,7 +10,7 @@ ht-degree: 5%
 
 ---
 
-# Entendendo os momentos do Marketo {#understanding-marketo-moments}
+# Noções básicas sobre os momentos do Marketo {#understanding-marketo-moments}
 
 A força do Marketo agora está literalmente nas suas mãos! Visualize e reagende e-mails diretamente de seu celular ou iPad.
 
@@ -42,21 +41,21 @@ Ok, agora que temos isso fora do caminho, vamos dar uma espiada no Marketo Momen
 
 O Marketo Moments oferece três cartões diferentes para acompanhar o progresso do seu email:
 
-**No convés**  - Este email está prestes a ser enviado. É a última chance de visualizá-la, enviar uma amostra ou até mesmo cancelá-la, se necessário.
+**No convés** - Este e-mail está prestes a ser enviado. É a última chance de visualizá-la, enviar uma amostra ou até mesmo cancelá-la, se necessário.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**Heartbeat**  - Ei - este e-mail está sendo entregue agora! E aqui estão estatísticas também. Vá em frente e compartilhe-o.
+**Pulsação** - Ei - esse e-mail está sendo entregue agora! E aqui estão estatísticas também. Vá em frente e compartilhe-o.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Resultados**  - Veja como o email aconteceu. Depois que o email terminar de ser executado, o cartão Resultados exibirá a pontuação de engajamento e outras estatísticas.
+**Resultados** - Veja como o email foi feito. Depois que o email terminar de ser executado, o cartão Resultados exibirá a pontuação de engajamento e outras estatísticas.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Fluxo de momentos {#moments-stream}
 
-Ao abrir o aplicativo pela primeira vez ou tocar em **Momentos** no menu, os cartões relevantes são exibidos primeiro. Cada uma contém informações sobre essa iniciativa de marketing específica e seu desempenho geral.
+Ao abrir o aplicativo pela primeira vez ou tocar em **Momentos** no menu , os cartões relevantes são exibidos primeiro. Cada uma contém informações sobre essa iniciativa de marketing específica e seu desempenho geral.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -87,7 +86,7 @@ Tocar nos três pontos abre um menu de ação de cartão.
 >* Visualizar email (somente emails): É sempre uma boa ideia verificar seus emails antecipadamente.
 
 
-## Momentos posteriores {#later-moments}
+## Momentos mais recentes {#later-moments}
 
 A seção Mais tarde mostra as atividades futuras.
 
@@ -95,7 +94,7 @@ A seção Mais tarde mostra as atividades futuras.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Toque em **Mais Tarde**.
+1. Toque **Mais tarde**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -133,11 +132,11 @@ Os cartões de campanha inteligente representam uma única execução de uma cam
 
 ## Confirmar ou cancelar uma ação {#confirm-or-cancel-an-action}
 
-Em cada etapa do caminho, é possível confirmar ou cancelar uma ação. Se você mudar de ideia, basta tocar em **Never Mind**.
+Em cada etapa do caminho, é possível confirmar ou cancelar uma ação. Se você mudar de ideia, basta tocar **Sem importância**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-## Versões suportadas {#supported-versions}
+## Versões suportadas  {#supported-versions}
 
 Os Momentos do Marketo oferecem suporte para estas versões de sistema operacional:
 

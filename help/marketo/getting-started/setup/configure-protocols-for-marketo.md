@@ -6,7 +6,7 @@ exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
 source-wordcount: '1046'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -70,7 +70,8 @@ Quando seu grupo de marketing usa o Marketo para enviar emails de teste (uma pr�
 Adicione esses endereços IP à  de lista de permissões corporativa:
 
 199.15.212.0/22\
-192.28.144.0/20 192.28.160.0/19\
+192.28.144.0/20
+192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
 130.248.173.0/24\
@@ -163,40 +164,40 @@ As tabelas a seguir abrangem todos os servidores Marketo Engage que fazem chamad
    <th>Endereço IP individual</th>
   </tr>
   <tr>
-   <td>54.212.167,17</td>
+   <td>54.212.167.17</td>
   </tr>
    <tr>
-   <td>44 235 171 179</td>
+   <td>44.235.171.179</td>
   </tr>
    <tr>
    <td>35.165.244.220</td>
   </tr>
    <tr>
-   <td>52.20.211,99</td>
+   <td>52.20.211.99</td>
   </tr>
    <tr>
-   <td>54 237 141 197</td>
+   <td>54.237.141.197</td>
   </tr>
   <tr>
-   <td>54 160 246 246</td>
+   <td>54.160.246.246</td>
   </tr>
    <tr>
-   <td>18.200.2018</td>
+   <td>18.200.201.81</td>
   </tr>
   <tr>
    <td>34.247.24.245</td>
   </tr>
    <tr>
-   <td>54 220 138 65</td>
+   <td>54.220.138.65</td>
   </tr>
   <tr>
-   <td>13.237.155.2007</td>
+   <td>13.237.155.207</td>
   </tr>
    <tr>
    <td>13.55.192.247</td>
   </tr>
   <tr>
-   <td>52 64 109 86</td>
+   <td>52.64.109.86</td>
   </tr>
  </tbody>
 </table>

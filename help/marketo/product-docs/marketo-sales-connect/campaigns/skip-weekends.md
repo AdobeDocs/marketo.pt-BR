@@ -1,21 +1,20 @@
 ---
 unique-page-id: 14352622
-description: Skip Weekends - Documentos do Marketing - Documentação do produto
-title: Ignorar finais de semana
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Ignorar finais de semana - Documentação do Marketo - Documentação do produto
+title: Ignorar Fim de Semana
+exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
+# Ignorar Fim de Semana {#skip-weekends}
 
-# Ignorar finais de semana {#skip-weekends}
+Ao automatizar uma campanha, você provavelmente não quer que seus emails sejam enviados em um sábado ou domingo. Caso contrário, você poderá ignorar os fins de semana.
 
-Ao automatizar uma campanha, você provavelmente não quer que seus emails saiam em um sábado ou domingo. Se não, você tem a capacidade de ignorar os finais de semana.
-
-1. No Sales Connect, clique na guia **Campanha**.
+1. No Sales Connect, clique no link **Campanhas** guia .
 
    ![](assets/one-2.png)
 
@@ -27,10 +26,10 @@ Ao automatizar uma campanha, você provavelmente não quer que seus emails saiam
 
    ![](assets/three-2.png)
 
-1. Marque a caixa de seleção **Ignorar finais de semana**.
+1. Selecione o **Ignorar Fim de Semana** caixa de seleção.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Sem ignorar os fins de semana, seus emails são agendados com base em uma semana normal de 7 dias.
+   >Sem ignorar os fins de semana, seus emails são agendados com base em uma semana regular de 7 dias.

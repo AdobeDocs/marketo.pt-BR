@@ -3,7 +3,6 @@ unique-page-id: 1146972
 description: Agendar uma campanha em lote recorrente - Documentos do Marketo - Documentação do produto
 title: Programar uma campanha em lote recorrente
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 A recorrência permite executar uma campanha inteligente em lote em uma programação regular. Por exemplo, uma vez por semana, segunda-feira às 12:00 PM.
 
-1. Selecione a campanha, vá para a guia Schedule e clique em **Schedule Recurrence**.
+1. Selecione a campanha, vá para a guia Schedule e clique em **Agendar Recorrência**.
 
    ![](assets/recurrencehands-sendemail.png)
 

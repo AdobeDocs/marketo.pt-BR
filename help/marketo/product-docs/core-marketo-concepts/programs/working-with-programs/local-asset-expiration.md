@@ -4,7 +4,7 @@ title: Expiração de ativo local
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---

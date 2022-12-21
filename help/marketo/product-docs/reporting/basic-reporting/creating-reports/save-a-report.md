@@ -1,37 +1,36 @@
 ---
 unique-page-id: 7511980
-description: Salvar um relatório - Documentos do Marketing - Documentação do produto
+description: Salvar um relatório - Documentos do Marketo - Documentação do produto
 title: Salvar um relatório
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-
 # Salvar um relatório {#save-a-report}
 
-Às vezes, talvez seja necessário salvar um relatório padrão para a visualização novamente mais tarde. Veja como você pode fazer isso:
+Às vezes, pode ser necessário salvar um relatório padrão para exibi-lo novamente mais tarde. Veja como fazer isso:
 
-1. Vá para a área **Analytics**.
+1. Vá para o **Analytics** área.
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Selecione um tipo de relatório [a1/>.](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+1. Selecione um [tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. Clique em **Ações de relatório** e selecione **Salvar como**.
+1. Clique em **Ações de Relatório** e selecione **Salvar como**.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Salve** em um local e selecione uma  **pasta**.
+1. **Salvar em** um local e selecione um **Pasta**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Nomeie** o relatório e clique em  **Salvar**.
+1. **Nome** o relatório e clique em **Salvar**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 

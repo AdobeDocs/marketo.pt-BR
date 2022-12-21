@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2360035
-description: Detalhar em um Relatório de desempenho de pessoas - Documentos do Marketing - Documentação do produto
-title: Detalhar em um relatório de desempenho de pessoas
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Detalhar em um Relatório de desempenho de pessoas - Documentos do Marketo - Documentação do produto
+title: Detalhar em um Relatório de desempenho de pessoas
+exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Detalhar em um Relatório de desempenho de pessoas {#drill-down-in-a-people-performance-report}
 
-Faça o detalhamento em um Relatório de desempenho de pessoas para ver informações adicionais de pessoas.
+Detalhe em um Relatório de desempenho de pessoas para ver informações de pessoas adicionais.
 
-1. Clique na guia **Relatório** para visualização de qualquer relatório existente.
+1. Clique no botão **Relatório** para exibir qualquer relatório existente.
 
    ![](assets/one.png)
 
-1. Selecione uma linha no relatório sobre a qual você gostaria de saber mais.
+1. Selecione uma linha no relatório sobre a qual você deseja saber mais.
 
    ![](assets/two.png)
 
-1. Clique em **Detalhamento**.
+1. Clique em **Drill-Down**.
 
    ![](assets/three.png)
 
-1. Na pop-up **Detalhamento**, selecione o atributo no qual você deseja detalhar. Em seguida, clique em **Detalhamento**.
+1. No **Drill-Down** selecione o atributo que deseja detalhar. Em seguida, clique em **Drill-Down**.
 
    ![](assets/four.png)
 
-1. Ótimo trabalho! O relatório de detalhamento será aberto em uma nova guia. Agora você pode explorar o novo relatório.
+1. Muito bem! O relatório detalhado será aberto em uma nova guia. Agora você pode explorar o novo relatório.
 
    >[!TIP]
    >
@@ -39,6 +38,6 @@ Faça o detalhamento em um Relatório de desempenho de pessoas para ver informa�
 
    ![](assets/five.png)
 
-1. Para salvar seus resultados (opcional), clique no ícone **Exportar** na parte inferior esquerda.
+1. Para salvar os resultados (opcional), clique no botão **Exportar** ícone na parte inferior esquerda.
 
    ![](assets/six.png)

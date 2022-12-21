@@ -53,7 +53,7 @@ No cálculo de programas semelhantes, incluímos os seguintes fatores, entre out
 
 * Tipo de programa
 * Canal de programa
-* Tamanho do público-alvo
+* Tamanho do público
 * Marcas de programa
 * Duração desde a criação do evento até o início do evento
 * Duração do evento

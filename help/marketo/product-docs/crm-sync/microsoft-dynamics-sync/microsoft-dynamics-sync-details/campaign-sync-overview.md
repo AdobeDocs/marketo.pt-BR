@@ -2,7 +2,6 @@
 description: Visão geral da sincronização de campanha - Documentos do Marketo - Documentação do produto
 title: Visão geral da sincronização de campanha
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -12,7 +11,7 @@ ht-degree: 2%
 
 # Visão geral da sincronização de campanha {#campaign-sync-overview}
 
-Como parte da Sincronização de Campanha, os usuários podem configurar a automação para operar com a associação a uma campanha do Dynamics. Os leads qualificados para comportamentos ou demografia específicos podem ser parte de campanhas da Microsoft.
+Como parte da Sincronização de Campanha, os usuários podem configurar a automação para operar com a associação a uma campanha do Dynamics. Leads qualificados para comportamentos ou demografia específicos podem ser parte de campanhas do Microsoft.
 
 >[!PREREQUISITES]
 >
@@ -25,7 +24,7 @@ As seguintes ações de fluxo estão disponíveis:
 
 >[!NOTE]
 >
->**Remover do Microsoft** Campaign só removerá pessoas que foram adicionadas usando ações de fluxo no Marketo.
+>**Remover do Microsoft Campaign** O removerá apenas pessoas que foram adicionadas usando ações de fluxo no Marketo.
 
 Há também dois acionadores:
 

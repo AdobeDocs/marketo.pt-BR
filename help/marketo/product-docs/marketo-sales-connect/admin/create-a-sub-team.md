@@ -1,29 +1,28 @@
 ---
 unique-page-id: 14352406
-description: Criar um subgrupo - Documentos do marketing - Documentação do produto
-title: Criar um subgrupo
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Criar uma subequipe - Documentos da Marketo - Documentação do produto
+title: Criar uma subequipe
+exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
+# Criar uma subequipe {#create-a-sub-team}
 
-# Criar um Sub-grupo {#create-a-sub-team}
-
-## Criar um Sub-grupo {#create-a-sub-team-1}
+## Criar uma subequipe {#create-a-sub-team-1}
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/one-1.png)
 
-1. Em Configurações administrativas, selecione **Gerenciamento de equipe**.
+1. Em Configurações de administração, selecione **Gerenciamento de equipe**.
 
    ![](assets/two-1.png)
 
-1. Ao lado de Todas as equipes, clique em **+**.
+1. Ao lado de Todas as equipes, clique no botão **+**.
 
    ![](assets/three-1.png)
 
@@ -33,19 +32,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Agora você pode compartilhar modelos, campanhas e grupos com essa equipe.
+   >Agora você pode compartilhar modelos, campanhas e grupos com a equipe.
 
-## Adicionar pessoas ao seu subgrupo {#add-people-to-your-sub-team}
+## Adicionar pessoas à sua subequipe {#add-people-to-your-sub-team}
 
-1. Ainda no Gerenciamento de grupos, selecione o grupo **Todos**.
+1. Ainda no Gerenciamento de Equipe, selecione o **Todos** grupo.
 
    ![](assets/five-1.png)
 
-1. Localize os usuários que deseja adicionar ao seu subgrupo e marque a caixa de seleção.
+1. Localize os usuários que deseja adicionar à sua subequipe e marque a caixa de seleção.
 
    ![](assets/six.png)
 
-1. Clique em **Adicionar selecionados às equipes**.
+1. Clique em **Adicionar seleção às equipes**.
 
    ![](assets/seven.png)
 
@@ -53,6 +52,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Clique em **Adicionar a equipes** quando terminar.
+1. Clique em **Adicionar Às Equipes** quando concluído.
 
    ![](assets/nine.png)

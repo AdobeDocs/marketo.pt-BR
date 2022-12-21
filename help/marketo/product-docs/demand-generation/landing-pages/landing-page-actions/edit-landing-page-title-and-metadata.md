@@ -1,40 +1,39 @@
 ---
 unique-page-id: 2359726
-description: Editar título da Landing page e metadados - Documentos do Marketing - Documentação do produto
-title: Editar título e metadados da Landing page
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Editar título e metadados de página de aterrissagem - Documentos do Marketo - Documentação do produto
+title: Editar o título e os metadados da página de aterrissagem
+exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
+# Editar o título e os metadados da página de aterrissagem {#edit-landing-page-title-and-metadata}
 
-# Editar título de Landing page e metadados {#edit-landing-page-title-and-metadata}
+O Marketo permite editar sua landing page [meta tags para fins de SEO](https://www.w3schools.com/tags/tag_meta.asp) bem como personalizar o `<head>` parte do HTML.
 
-O Marketo permite que você edite suas tags meta [de landing page para fins de SEO](https://www.w3schools.com/tags/tag_meta.asp), bem como personalize a parte `<head>` do HTML.
-
-1. Selecione uma landing page e clique em **Editar rascunho**.
+1. Selecione uma página de aterrissagem e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
    >[!NOTE]
    >
-   >O designer de Landings page abrirá em uma nova janela.
+   >O designer da Landing page será aberto em uma nova janela.
 
-1. Em **Ações de Landing page**, clique em **Editar tags de meta de página**.
+1. Em **Ações da página de aterrissagem**, clique em **Editar Meta Tags De Página**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Digite **Title**, **Palavras-chave** e **Descrição** para a sua página. Selecione a opção **Robots** desejada e insira qualquer conteúdo personalizado que desejar para a seção HTML `<head>`. Clique em **Salvar**.
+1. Insira o **Título**, **Palavras-chave** e **Descrição** para a sua página. Selecione o **robôs** e insira qualquer conteúdo personalizado que desejar para o HTML `<head>` seção. Clique em **Salvar**.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**O que significa  [](https://www.robotstxt.org/meta.html) robôs?**
+   >**O que [robôs](https://www.robotstxt.org/meta.html) quer dizer?**
    >
-   >**índice**: é pesquisável na Web. **siga**: os mecanismos de pesquisa podem seguir links em páginas indexadas.
+   >**index**: é pesquisável na Web. **seguir**: os mecanismos de pesquisa podem seguir links em páginas indexadas.
 
 1. Edite as tags a qualquer momento e aprove a landing page.

@@ -3,7 +3,6 @@ unique-page-id: 8782024
 description: Download de momentos do Marketo - Documentos do Marketo - Documentação do produto
 title: Download de momentos do Marketo
 exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
@@ -13,11 +12,11 @@ ht-degree: 0%
 
 # Download de momentos do Marketo {#downloading-marketo-moments}
 
-Baixe os Momentos do Marketo da App Store ou do Google Play e da voila! Mágica Marketo na palma da mão.
+Baixe o Marketo Moments da App Store ou Google Play e voila! Mágica Marketo na palma da mão.
 
 ## Para iPhone {#for-iphone}
 
-1. Vá para a [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).
+1. Vá para o [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).
 
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
@@ -31,17 +30,17 @@ Baixe os Momentos do Marketo da App Store ou do Google Play e da voila! Mágica 
 
 ## Para Android {#for-android}
 
-1. Vá para [Google Play](https://play.google.com/store?hl=en).
+1. Ir para [Google Play](https://play.google.com/store?hl=en).
 
 1. Procure por Marketo Moments e toque para baixar.
 
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
-1. Toque em **Aceitar**.
+1. Toque **Aceitar**.
 
    ![](assets/image2015-7-7-16-3a41-3a47.png)
 
-1. Toque em **Instalar**.
+1. Toque **Instalar**.
 
    ![](assets/image2015-7-7-16-3a43-3a21.png)
 

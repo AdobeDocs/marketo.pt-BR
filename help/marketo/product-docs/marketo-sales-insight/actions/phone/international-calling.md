@@ -31,7 +31,7 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
   </tr> 
   <tr> 
    <td colspan="1">Áustria</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 436 9989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -47,19 +47,19 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
   </tr> 
   <tr> 
    <td colspan="1">Dinamarca </td> 
-   <td colspan="1">45º</td> 
+   <td colspan="1">45</td> 
   </tr> 
   <tr> 
    <td colspan="1">França</td> 
-   <td colspan="1">33º</td> 
+   <td colspan="1">33</td> 
   </tr> 
   <tr> 
    <td>Alemanha</td> 
-   <td>49º</td> 
+   <td>49</td> 
   </tr> 
   <tr> 
    <td>Grécia </td> 
-   <td>30.3021</td> 
+   <td>30, 3021</td> 
   </tr> 
   <tr> 
    <td>Hungria</td> 
@@ -75,7 +75,7 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
   </tr> 
   <tr> 
    <td colspan="1">Itália</td> 
-   <td colspan="1">39º</td> 
+   <td colspan="1">39</td> 
   </tr> 
   <tr> 
    <td colspan="1">Cazaquistão </td> 
@@ -99,11 +99,11 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
   </tr> 
   <tr> 
    <td>Holanda </td> 
-   <td>31º</td> 
+   <td>31</td> 
   </tr> 
   <tr> 
    <td colspan="1">Noruega </td> 
-   <td colspan="1">47º</td> 
+   <td colspan="1">47</td> 
   </tr> 
   <tr> 
    <td colspan="1">Peru </td> 
@@ -123,11 +123,11 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
   </tr> 
   <tr> 
    <td colspan="1">Espanha </td> 
-   <td colspan="1">34º</td> 
+   <td colspan="1">34</td> 
   </tr> 
   <tr> 
    <td colspan="1">Suécia </td> 
-   <td colspan="1">46º</td> 
+   <td colspan="1">46</td> 
   </tr> 
   <tr> 
    <td colspan="1">Reino Unido</td> 
@@ -135,7 +135,7 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
   </tr> 
   <tr> 
    <td>Estados Unidos</td> 
-   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>

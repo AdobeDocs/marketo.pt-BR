@@ -3,7 +3,6 @@ unique-page-id: 1147118
 description: Uso dos custos do período em um programa - Documentos da Marketo - Documentação do produto
 title: Uso de Custos de Período em um Programa
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Uso dos Custos do Período em um Programa {#using-period-costs-in-a-program}
+# Uso de Custos de Período em um Programa {#using-period-costs-in-a-program}
 
-Um [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) é a quantia gasta em um programa. Pode ser por um ou mais meses e é usado para relatar o ROI.
+A [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) é a quantia que você gastou em um programa. Pode ser por um ou mais meses e é usado para relatar o ROI.
 
-## Adicionar um Custo de Período {#add-a-period-cost}
+## Adicionar um Custo de Período  {#add-a-period-cost}
 
-1. Vá para a guia **Setup** do seu programa.
+1. Vá para o **Configuração** do seu programa.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Arraste e solte **Custo do Período** na tela.
+1. Arrastar e soltar **Custo do Período** na tela.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
@@ -49,11 +48,11 @@ Um [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs
 
 1. Se você gastar mais ou menos dinheiro do que o inicialmente projetado, poderá editar o custo do período.
 
-1. Vá para a guia **Setup** do seu programa.
+1. Vá para o **Configuração** do seu programa.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Clique com o botão direito do mouse no **Custo do Período**. Selecione **Editar**.
+1. Clique com o botão direito do mouse no **Custo do Período**. Selecionar **Editar**.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
@@ -63,15 +62,15 @@ Um [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs
 
 ## Excluir um Custo de Período {#delete-a-period-cost}
 
-1. Vá para a guia **Setup** do seu programa.
+1. Vá para o **Configuração** do seu programa.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Clique com o botão direito do mouse no **Custo do Período**. Selecione **Delete**.
+1. Clique com o botão direito do mouse no **Custo do Período**. Selecionar **Excluir**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Clique em **Delete** para confirmar.
+1. Clique em **Excluir** para confirmar.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 

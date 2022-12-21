@@ -1,32 +1,31 @@
 ---
 unique-page-id: 42762244
-description: Configuração de estrelas e chamas para registros de cliente potencial/contato - Documentos do marketing - Documentação do produto
-title: Configuração de estrelas e chamas para registros de cliente potencial/contato
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Configuração de estrelas e chamas para registros de lead/contato - Documentos da Marketo - Documentação do produto
+title: Configuração de estrelas e chamas para registros de lead/contato
+exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
+# Configuração de estrelas e chamas para registros de lead/contato {#setting-up-stars-and-flames-for-lead-contact-records}
 
-# Configuração de estrelas e chamas para registros de cliente potencial/contato {#setting-up-stars-and-flames-for-lead-contact-records}
+Estrelas e chamas em registros de cliente potencial/contato dependem de: Pontuação de lead, Pontuação relativa, Urgência e Campos de prioridade. Esses campos ficam disponíveis por padrão após a instalação e configuração da solução MSI. Se você não tiver estrelas e chamas, uma configuração/personalização anterior pode ter resultado na remoção. Siga as etapas abaixo para adicioná-las.
 
-As estrelas e as chamas nos registros de contato/lead dependem: Campos Pontuação principal, Pontuação relativa, Urgência e Prioridade. Esses campos estão disponíveis por padrão depois que você instala e configura a solução MSI. Se você não tiver estrelas e chamas, uma configuração/personalização anterior pode ter feito com que elas fossem removidas. Siga as etapas abaixo para adicioná-las.
+1. No Microsoft Dynamics, clique no menu suspenso Vendas e selecione **Configurações**. Clique em **Personalizações**, em seguida **Personalizar o sistema**.
 
-1. No Microsoft Dynamics, clique no menu suspenso Vendas e selecione **Configurações**. Clique em **Personalizações** e, em seguida, **Personalizar o sistema**.
+1. No painel do lado esquerdo, clique em **Entidades**.
 
-1. No painel esquerdo, clique em **Entidades**.
-
-1. Localize e clique em **Lead**, **Forms** e selecione o formulário que deseja editar.
+1. Localizar e clicar em **Líder**, em seguida **Forms** e, em seguida, selecione o formulário que deseja editar.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. Clique em **Marketing to Sales Insight** no painel esquerdo. No painel direito, clique no menu suspenso Filtro e selecione **Campos personalizados**.
+1. Clique em **Insight sobre vendas da Marketo** no painel do lado esquerdo. No painel direito, clique no menu suspenso Filtro e selecione **Campos personalizados**.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
-1. Arraste e solte o seguinte: Campos Pontuação principal, Pontuação relativa, Urgência e Prioridade. Organize-os de uma maneira que funcione melhor para você. Você também pode formatar qualquer campo clicando nele com o duplo.
+1. Arraste e solte o seguinte: Pontuação de lead, Pontuação relativa, Urgência e Campos de prioridade. Organize-os de uma maneira que funcione melhor para você. Você também pode formatar qualquer campo clicando duas vezes nele.
 
-1. Quando terminar, clique em **Salvar e Fechar**.
+1. Quando terminar, clique em **Salvar e fechar**.

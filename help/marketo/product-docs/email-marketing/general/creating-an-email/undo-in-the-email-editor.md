@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1900567
-description: Desfazer no Editor de e-mail - Documentos do Marketing - Documentação do produto
+description: Desfazer no Editor de email - Documentos do Marketo - Documentação do produto
 title: Desfazer no Editor de email
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-
 # Desfazer no Editor de email {#undo-in-the-email-editor}
 
-1. Para desfazer uma alteração, clique na seta para a esquerda.
+1. Para desfazer uma alteração, clique na seta Esquerda.
 
 ![](assets/one-2.png)
 
@@ -21,7 +20,7 @@ ht-degree: 0%
 >
 >Desfazer pode retornar até 50 alterações.
 
-1. Para refazer uma alteração, clique na seta para a direita.
+1. Para refazer uma alteração, clique na seta Direita.
 
    ![](assets/two-2.png)
 

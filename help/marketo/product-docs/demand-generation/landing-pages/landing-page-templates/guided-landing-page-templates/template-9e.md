@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 9E {#template-9e}
 
-Clique com o botão direito do mouse em [baixar Modelo 9E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
+Clique com o botão direito do mouse em para [baixar modelo 9E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
 
 ![](assets/image2015-7-28-15-3a33-3a3.png)
 

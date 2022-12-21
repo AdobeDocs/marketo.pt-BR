@@ -3,7 +3,6 @@ unique-page-id: 7516639
 description: Conceder aos usuários acesso ao aplicativo de check-in - Documentos do Marketo - Documentação do produto
 title: Conceder aos usuários acesso ao aplicativo de check-in
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
@@ -17,7 +16,7 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in do
 
 ## Criar uma nova função de usuário para dispositivos móveis {#create-a-new-user-role-for-mobile}
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
@@ -25,11 +24,11 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in do
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Clique na guia **Funções** e depois clique em **Nova Função**.
+1. Clique no botão **Funções** e, em seguida, clique em **Nova função**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Insira um nome para a nova função e uma descrição opcional. Marque a caixa **Acessar aplicativo móvel** e clique em **Criar**.
+1. Insira um nome para a nova função e uma descrição opcional. Verifique a **Acessar aplicativo móvel** e clique em **Criar**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -37,7 +36,7 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in do
 
 ## Convidar novos usuários para o aplicativo de check-in {#invite-new-users-for-the-check-in-app}
 
-1. Clique na guia **Users**.
+1. Clique no botão **Usuários** guia .
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 

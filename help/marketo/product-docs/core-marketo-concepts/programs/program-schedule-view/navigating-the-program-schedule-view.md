@@ -3,7 +3,6 @@ unique-page-id: 1147100
 description: Navegando pela exibição de programação - Documentos do Marketo - Documentação do produto
 title: Navegando pela Visualização de Programação de Programa
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
@@ -15,13 +14,13 @@ ht-degree: 0%
 
 Estas são as noções básicas para ajudá-lo a navegar na visualização do agendamento do programa.
 
-## Encontrar a Exibição de Programação {#find-the-schedule-view}
+## Localizar a Exibição de Programação {#find-the-schedule-view}
 
-1. Vá para **Marketing Activities**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione o programa. Clique no menu suspenso **View**. Selecione **Agendamento**.
+1. Selecione o programa. Clique no botão **Exibir** lista suspensa. Selecionar **Agendar**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -49,9 +48,9 @@ Estas são as noções básicas para ajudá-lo a navegar na visualização do ag
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
 
-## Alterar entre modos {#changing-between-modes}
+## Alteração Entre Modos {#changing-between-modes}
 
-1. Clicar em **3 Semanas** ou **Mês** alterará as datas visíveis na exibição.
+1. Clicando em **3 Semanas** ou **Mês** alterará as datas visíveis na exibição.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2360032
-description: Altere o tempo de expiração para URLS em emails de relatório - documentos de marketing - documentação do produto
+description: Alterar o tempo de expiração dos URLS em emails de relatório - Documentos do Marketo - Documentação do produto
 title: Alterar o tempo de expiração de URLS nos emails de relatório
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # Alterar o tempo de expiração de URLS nos emails de relatório {#change-the-expiration-time-for-urls-in-report-emails}
 
@@ -17,13 +16,13 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-Os links em seus emails de subscrição de relatório expiram após três dias. Para alterar o tempo de expiração desses links, siga estas etapas.
+Os links nos emails de assinatura do relatório expiram após três dias. Para alterar o tempo de expiração desses links, siga estas etapas.
 
-1. Em **Admin**, clique em **Definições de Início de Sessão**.
+1. Em **Administrador**, clique em **Configurações de logon**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Clique no botão **Editar expiração do URL**.
+1. Clique no botão **Editar expiração do URL** botão.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
@@ -31,8 +30,8 @@ Os links em seus emails de subscrição de relatório expiram após três dias. 
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 
-   Legal, você editou suas configurações de expiração de link de email.
+   Legal, você editou as configurações de expiração do link de email.
 
    >[!NOTE]
    >
-   >Lembre-se, esses apenas se aplicam a links em relatórios e alertas, não a emails de marketing.
+   >Lembre-se, elas se aplicam apenas aos links em relatórios e alertas, não aos emails de marketing.

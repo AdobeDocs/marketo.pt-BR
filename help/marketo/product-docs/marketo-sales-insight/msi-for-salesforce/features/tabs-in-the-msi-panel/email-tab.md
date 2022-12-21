@@ -1,14 +1,13 @@
 ---
-description: Guia Email - Documentos do Marketo - Documentação do produto
+description: Guia Email - Documentação do Marketo - Documentação do produto
 title: Guia Email
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Guia Email {#email-tab}
 
@@ -19,7 +18,7 @@ A guia email mostra uma lista de todos os emails enviados para um contato ou lea
 * Aberto
 * Clicado
 
-Um email com o ícone Marketo ao lado da linha de assunto indica que o email foi enviado do Marketo. Um email sem o ícone do Marketo indica que o email foi enviado do Sales Insight.
+Um email com o ícone do Marketo ao lado da linha de assunto indica que o email foi enviado do Marketo. Um email sem o ícone do Marketo indica que o email foi enviado do Sales Insight.
 
 Você pode clicar no botão &quot;Verificar status do delivery&quot; para abrir uma nova guia que mostra o status do delivery de emails:
 

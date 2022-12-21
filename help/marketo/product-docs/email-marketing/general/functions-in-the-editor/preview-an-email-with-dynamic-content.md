@@ -1,29 +1,28 @@
 ---
 unique-page-id: 1900548
-description: Pré-visualização de um e-mail com conteúdo dinâmico - Documentos do Marketing - Documentação do produto
-title: Pré-visualização de um email com conteúdo dinâmico
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Visualizar um email com conteúdo dinâmico - Documentos do Marketo - Documentação do produto
+title: Visualizar um email com conteúdo dinâmico
+exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
+# Visualizar um email com conteúdo dinâmico {#preview-an-email-with-dynamic-content}
 
-# Pré-visualização de um email com conteúdo dinâmico {#preview-an-email-with-dynamic-content}
+Visualize seu email após adicionar conteúdo dinâmico para verificá-lo.
 
-Pré-visualização seu email após adicionar conteúdo dinâmico para verificá-lo.
-
-1. Selecione seu email e clique em **Email de Pré-visualização**.
+1. Selecione seu email e clique em **Visualizar Email**.
 
    ![](assets/one-3.png)
 
-1. Clique na lista suspensa Visualização por e selecione o tipo de conteúdo dinâmico que deseja pré-visualização.
+1. Clique no menu suspenso Exibir por e selecione o tipo de conteúdo dinâmico que deseja visualizar.
 
    ![](assets/two-3.png)
 
-1. Uma nova lista suspensa é exibida. Clique nele e escolha o conteúdo específico.
+1. Uma nova lista suspensa é exibida. Clique e escolha o conteúdo específico.
 
    ![](assets/three-2.png)
 
@@ -31,14 +30,14 @@ Pré-visualização seu email após adicionar conteúdo dinâmico para verificá
 
    ![](assets/four-1.png)
 
-Você também pode pré-visualização conteúdo dinâmico diretamente no editor de email.
+Você também pode visualizar conteúdo dinâmico diretamente no editor de email.
 
-1. Em **Content**, clique na guia **Dinâmico**.
+1. Em **Conteúdo**, clique no botão **Dinâmico** guia .
 
    ![](assets/five-1.png)
 
-1. Clique no conteúdo que deseja pré-visualização.
+1. Clique no conteúdo que deseja visualizar.
 
    ![](assets/six.png)
 
-Ótimo! Pré-visualização seus e-mails para garantir que o conteúdo seja como você deseja.
+Ótimo! Visualize seus emails para garantir que o conteúdo seja a maneira desejada.

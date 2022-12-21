@@ -20,11 +20,11 @@ Este artigo mostra diferentes maneiras de visualizar uma campanha da Web e tamb�
 
 ## Visualizar uma campanha da Web na página de criação {#preview-a-web-campaign-on-the-creation-page}
 
-1. Vá para **Campanhas da Web**.
+1. Ir para **Campanhas da Web**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Clique em **Criar nova campanha da Web** ou no ícone para editar uma campanha existente.
+1. Clique em **Criar Nova Campanha da Web** ou o ícone para editar uma campanha existente.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -38,7 +38,7 @@ Este artigo mostra diferentes maneiras de visualizar uma campanha da Web e tamb�
 
    >[!NOTE]
    >
-   >Você também tem a opção de instalar um plug-in de navegador (ou [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obter a melhor experiência de visualizar sua campanha. Consulte a seção abaixo.
+   >Você também tem a opção de instalar um plug-in do navegador (ou [Cromo](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obter a melhor experiência em visualizar sua campanha. Consulte a seção abaixo.
 
 ## Visualizar uma campanha da Web na página de criação usando o plug-in do navegador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -52,11 +52,11 @@ Este artigo mostra diferentes maneiras de visualizar uma campanha da Web e tamb�
 
    ![](assets/five.png)
 
-1. Clique em **Adicionar Extensão**.
+1. Clique em **Adicionar extensão**.
 
    ![](assets/six.png)
 
-1. Volte para o Marketo. Adicione o URL da página e clique em **Preview**.
+1. Volte para o Marketo. Adicione o URL da página e clique em **Visualizar**.
 
    ![](assets/seven.png)
 
@@ -66,7 +66,7 @@ Este artigo mostra diferentes maneiras de visualizar uma campanha da Web e tamb�
 
 ## Visualizar uma campanha da Web na página de campanhas da Web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Ao examinar a listagem de suas campanhas da Web, basta escolher uma campanha e clicar no ícone **Preview**.
+1. Ao analisar a lista de suas campanhas da Web, basta escolher uma campanha e clicar no botão **Visualizar** ícone .
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -76,7 +76,7 @@ Este artigo mostra diferentes maneiras de visualizar uma campanha da Web e tamb�
 
 Crie um segmento e uma campanha sandbox.
 
-1. Vá para **Segmentos**.
+1. Ir para **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -86,7 +86,7 @@ Crie um segmento e uma campanha sandbox.
 
 1. Nomeie o segmento.
 
-1. Em Comportamento, arraste Incluir páginas para a tela. Adicione o valor *sandbox=1*. Clique em **Salvar e definir campanha**.
+1. Em Comportamento, arraste Incluir páginas para a tela. Adicione o valor &#42;sandbox=1&#42;. Clique em **Salvar e definir campanha**.
 
    ![](assets/segment.png)
 
@@ -94,7 +94,7 @@ Crie um segmento e uma campanha sandbox.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Complete a campanha criativa e clique em **Launch**.
+1. Complete o anúncio da campanha e clique em **Launch**.
 
    ![](assets/click-launch.jpg)
 
@@ -108,4 +108,4 @@ Crie um segmento e uma campanha sandbox.
 
 >[!NOTE]
 >
->Campanhas de redirecionamento não podem ser visualizadas. A única maneira de testá-los é usando um segmento de sandbox (que direciona por páginas específicas - *sandbox=redirect*)
+>Campanhas de redirecionamento não podem ser visualizadas. A única maneira de testá-los é usando um segmento de sandbox (direcionado por páginas específicas). &#42;sandbox=redirecionar&#42;)

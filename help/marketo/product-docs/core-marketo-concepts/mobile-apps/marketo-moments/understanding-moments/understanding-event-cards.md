@@ -3,7 +3,6 @@ unique-page-id: 8781974
 description: Noções básicas sobre cartões de evento - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre cartões de evento
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Como entender os cartões de evento {#understanding-event-cards}
+# Noções básicas sobre cartões de evento {#understanding-event-cards}
 
-Use o Marketo Moments para exibir seus programas de evento em seu telefone ou iPad.
+Use o Marketo Moments para visualizar seus programas de evento em seu telefone ou iPad.
 
 Ao tocar em qualquer cartão de Programa de email, você pode:
 

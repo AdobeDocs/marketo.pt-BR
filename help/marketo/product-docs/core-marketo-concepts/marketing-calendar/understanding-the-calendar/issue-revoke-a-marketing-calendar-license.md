@@ -3,7 +3,6 @@ unique-page-id: 1147255
 description: Emitir/Revogar uma Licença de Calendário de Marketing - Documentos do Marketo - Documentação do produto
 title: Emitir/Revogar uma Licença de Calendário de Marketing
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
@@ -17,9 +16,9 @@ ht-degree: 3%
 >
 >**Permissões de administrador necessárias**
 
-Para usar seus assentos de [Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md), é necessário emitir licenças para usuários que precisam de acesso. Veja como.
+Para utilizar o [Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) em, é necessário emitir licenças para usuários que precisam de acesso. Veja como.
 
-1. Vá para a seção **Admin**.
+1. Vá para o **Administrador** seção.
 
    ![](assets/adminhand.png)
 
@@ -27,7 +26,7 @@ Para usar seus assentos de [Calendário de marketing](/help/marketo/product-docs
 
    ![](assets/2.png)
 
-1. Selecione os usuários e clique em **Emitir Licença.**
+1. Selecione os usuários e clique em **Emita Licença.**
 
    >[!TIP]
    >
@@ -35,7 +34,7 @@ Para usar seus assentos de [Calendário de marketing](/help/marketo/product-docs
 
    ![](assets/3.png)
 
-1. Marque **Ativar Licença** e clique em **Salvar.**
+1. Verificar **Habilitar licença** e clique em **Salvar.**
 
    >[!NOTE]
    >

@@ -3,7 +3,6 @@ unique-page-id: 2953188
 description: Filtros inferidos - Documentação da Marketo - Documentação do produto
 title: Filtros Inferidos
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Filtros Inferidos {#inferred-filters}
 
-Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) os cookies e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas. Dê uma olhada.
+Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Os cookies e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas. Dê uma olhada.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -34,7 +33,7 @@ Quando você usa qualquer um desses filtros em uma lista inteligente, os resulta
 >Use esses filtros em um relatório de atividade da Web. Use os territórios dos representantes de vendas e assine-os em um relatório diário personalizado com visitantes do site nas últimas 24 horas. Eles vão adorar!
 >
 >* Página da Web Visitada - Últimas 24 horas
->* O Estado inferido é [selecione o seu território]
+>* Estado inferido é [selecione seu território]
 
 
 Esses visitantes anônimos são convertidos automaticamente em pessoas quando clicam em um link de email ou preenchem um formulário. No entanto, eles mantêm todas as informações inferidas.

@@ -3,11 +3,10 @@ unique-page-id: 1147084
 description: Remover do Fluxo - Documentos do Marketo - Documentação do produto
 title: Remover do fluxo
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -21,7 +20,7 @@ Imagine que você tem um fluxo de campanha inteligente que usa &quot;Enviar aler
 
 ## Visão geral {#overview}
 
-Você pode remover pessoas de um fluxo de campanha usando a etapa de fluxo **Remover do Fluxo**.
+Você pode remover pessoas de um fluxo de campanha usando a variável **Remover do Fluxo** etapa de fluxo.
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
@@ -33,7 +32,7 @@ Localize e selecione a campanha inteligente da qual deseja remover as pessoas.
 
 >[!NOTE]
 >
->Você pode escolher uma campanha inteligente específica ou escolher &quot;esta campanha&quot; no menu suspenso **Campaign** para selecionar a campanha na qual você está fisicamente no momento.
+>Você pode escolher uma campanha inteligente específica ou escolher &quot;esta campanha&quot; no **Campanha** para selecionar a campanha na qual você está fisicamente no momento.
 
 >[!NOTE]
 >

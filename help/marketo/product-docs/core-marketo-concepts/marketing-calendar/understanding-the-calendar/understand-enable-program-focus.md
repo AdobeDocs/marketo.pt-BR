@@ -3,7 +3,6 @@ unique-page-id: 2953364
 description: Entender/Ativar foco do programa - Documentos da Marketo - Documentação do produto
 title: Entender/ativar foco do programa
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Entender/ativar o foco do programa {#understand-enable-program-focus}
+# Entender/ativar foco do programa {#understand-enable-program-focus}
 
-O Calendário de marketing fornece uma visão de pássaro das coisas, mas também permite algumas interações. Você pode [criar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [excluir](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) e [confirmar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entradas. Para interagir com entradas, você deve se concentrar em um programa primeiro.
+O Calendário de marketing fornece uma visão de pássaro das coisas, mas também permite algumas interações. Você pode [criar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [excluir](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)e [confirmar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entradas. Para interagir com entradas, você deve se concentrar em um programa primeiro.
 
 1. Vá para o **Calendário de marketing**.
 

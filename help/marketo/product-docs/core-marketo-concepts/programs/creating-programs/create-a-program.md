@@ -3,7 +3,6 @@ unique-page-id: 1147095
 description: Criar um programa - Documentação da Marketo - Documentação do produto
 title: Criar um programa
 exl-id: 9767dacb-2b24-4700-ab23-c48998cb0063
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '68'
@@ -15,11 +14,11 @@ ht-degree: 0%
 
 Programas são um dos elementos mais importantes do Marketo. Você vai usá-los muito!
 
-1. Vá para **Marketing Activities.**
+1. Ir para **Atividades de marketing.**
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione a pasta do novo programa. Selecione **Novo** e clique em **Novo Programa**.
+1. Selecione a pasta do novo programa. Selecionar **Novo** e clique em **Novo programa**.
 
    ![](assets/leadlifecycle.jpg)
 

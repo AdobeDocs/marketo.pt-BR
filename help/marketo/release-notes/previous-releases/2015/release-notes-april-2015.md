@@ -22,7 +22,7 @@ Os seguintes recursos estão incluídos na versão de abril de 2015. Verifique s
 >
 >Esse recurso será lançado na terça-feira, 28 de abril.
 
-A nova [Página inicial do Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permite acesso rápido para executar relatórios ad hoc em tipos de relatórios disponíveis.
+O novo [Página inicial do Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permite acesso rápido para executar relatórios ad hoc em tipos de relatórios disponíveis.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -40,7 +40,7 @@ Com o Marketo Mobile Engagement, é fácil fornecer experiências móveis atraen
 
 [Integração com acelerador de leads do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Estenda sua estratégia de criação de clientes potenciais para exibição paga e anúncios sociais. A [integração de rede de publicidade](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) com o LinkedIn Lead Accelerator permite criar com segurança um segmento de público-alvo no LinkedIn com base nos membros de qualquer lista inteligente ou estática. Os membros em um segmento de público-alvo do LinkedIn podem ser criados com uma sequência de anúncios relevantes.
+Estenda sua estratégia de criação de clientes potenciais para exibição paga e anúncios sociais. O [integração de rede de publicidade](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) com o LinkedIn Lead Accelerator, é possível criar com segurança um segmento de público-alvo no LinkedIn com base nos membros de qualquer lista inteligente ou estática. Os membros em um segmento de público-alvo do LinkedIn podem ser criados com uma sequência de anúncios relevantes.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 

@@ -3,11 +3,10 @@ unique-page-id: 2360364
 description: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Enterprise/Unlimited) - Documentos do Marketo - Documentação do produto
 title: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -25,11 +24,11 @@ Neste artigo, você configurará permissões do usuário no perfil do Salesforce
 
 ## Criar um perfil {#create-a-profile}
 
-1. Clique em **Configurar**.
+1. Clique em **Configuração**.
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Digite &quot;profiles&quot; na barra de pesquisa de navegação e clique no link **Profiles**.
+1. Digite &quot;perfis&quot; na barra de pesquisa de navegação e clique no link **Perfis** link .
 
    ![](assets/sfdc-profiles-hands.png)
 
@@ -37,7 +36,7 @@ Neste artigo, você configurará permissões do usuário no perfil do Salesforce
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Selecione **Usuário padrão**, nomeie o perfil como &quot;Marketo-Salesforce Sync&quot; e clique em **Salvar**.
+1. Selecionar **Usuário padrão**, nomeie o perfil como &quot;Marketo-Salesforce Sync&quot; e clique em **Salvar**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -47,10 +46,10 @@ Neste artigo, você configurará permissões do usuário no perfil do Salesforce
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Na seção **Permissões administrativas**, verifique se as seguintes caixas estão marcadas:
+1. Em **Permissões administrativas** verifique se as seguintes caixas estão marcadas:
 
    * API habilitada
-   * Editar modelos HTML
+   * Editar modelos de HTML
    * Gerenciar documentos públicos
    * Gerenciar modelos públicos
 
@@ -58,7 +57,7 @@ Neste artigo, você configurará permissões do usuário no perfil do Salesforce
 
    >[!TIP]
    >
-   >Certifique-se de marcar a caixa **Password Never Expires**.
+   >Certifique-se de verificar a variável **A senha nunca expira** caixa.
 
 1. Na seção Permissões gerais do usuário , verifique se as seguintes caixas estão marcadas:
 
@@ -82,7 +81,7 @@ Neste artigo, você configurará permissões do usuário no perfil do Salesforce
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
-1. Quando terminar, clique em **Save** na parte inferior da página.
+1. Quando terminar, clique em **Salvar** na parte inferior da página.
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
@@ -94,7 +93,7 @@ Neste artigo, você configurará permissões do usuário no perfil do Salesforce
    >
    >Essa etapa impedirá que os campos que você não precisa sejam exibidos no Marketo, o que reduzirá a desordem e acelerará a sincronização.
 
-1. Na página de detalhes do perfil, vá para a seção **Segurança no nível do campo**. Clique em **Exibir** para editar a acessibilidade dos objetos:
+1. Na página de detalhes do perfil, acesse **Segurança no nível do campo** seção. Clique em **Exibir** para editar a acessibilidade dos objetos:
 
    * Lead
    * Contato
@@ -111,7 +110,7 @@ Neste artigo, você configurará permissões do usuário no perfil do Salesforce
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Localize os campos desnecessários, verifique se **Read Access** e **Edit Access** estão desmarcadas. Clique em **Salvar** quando terminar.
+1. Localize os campos desnecessários, verifique se **Acesso de Leitura** e **Editar acesso** estão desmarcadas. Clique em **Salvar** quando terminar.
 
    >[!NOTE]
    >
@@ -144,13 +143,13 @@ Neste artigo, você configurará permissões do usuário no perfil do Salesforce
 
 ![](assets/sfdc-check-the-boxes.png)
 
-## Criar Conta De Sincronização Marketo-Salesforce {#create-marketo-salesforce-sync-account}
+## Criar conta de sincronização Marketo-Salesforce {#create-marketo-salesforce-sync-account}
 
 >[!TIP]
 >
 >Crie uma conta dedicada do Salesforce (por exemplo, marketo@yourcompany.com) para distinguir as alterações feitas pelo Marketo de outros usuários do Salesforce.
 
-1. Digite &quot;Gerenciar usuários&quot; na barra de pesquisa de navegação e clique em **Usuários**. Clique em **Novo Usuário**.
+1. Digite &quot;Gerenciar usuários&quot; na barra de pesquisa de navegação e clique em **Usuários**. Clique em **Novo usuário**.
 
    ![](assets/sfdc-new-users.png)
 

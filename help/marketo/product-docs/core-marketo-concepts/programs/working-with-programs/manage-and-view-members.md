@@ -3,7 +3,6 @@ unique-page-id: 1147122
 description: Gerenciar e exibir membros - Documentos do Marketo - Documentação do produto
 title: Gerenciar e exibir membros
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
@@ -17,13 +16,13 @@ Você pode gerenciar e exibir seus membros em seus programas usando a guia Membe
 
 >[!NOTE]
 >
->Saiba mais sobre a [associação ao programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Aprofunde-se [associação ao programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Procurar um Membro {#search-for-a-member}
 
 Na parte inferior da seção Membros, use o campo de pesquisa para procurar membros do programa por nome, email, cargo ou empresa.
 
-1. Clique na guia **Members** do seu programa.
+1. Clique no botão **Membros** do seu programa.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -47,9 +46,9 @@ Clique com o botão direito do mouse no cabeçalho da coluna para classificar al
 
 ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## Escolha quais colunas estão visíveis na Grade {#choose-which-columns-are-visible-in-the-grid}
+## Escolher as colunas que estão visíveis na grade {#choose-which-columns-are-visible-in-the-grid}
 
-1. Clique no menu suspenso **View** e selecione **Create View**.
+1. Clique no botão **Exibir** e selecione **Criar exibição**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
@@ -61,9 +60,9 @@ Clique com o botão direito do mouse no cabeçalho da coluna para classificar al
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Filtrar a Grade de Membros {#filter-the-members-grid}
+## Filtrar a Grade de Membros  {#filter-the-members-grid}
 
-1. Clique no menu suspenso **Filter** e selecione uma etapa de progressão para classificar.
+1. Clique no botão **Filtro** e selecione uma etapa de progressão para classificar.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +70,11 @@ Clique com o botão direito do mouse no cabeçalho da coluna para classificar al
 
 Você pode alterar o status de suas pessoas dentro da grade de membros.
 
-1. Mantenha pressionada a tecla **Ctrl/Cmd** e selecione as pessoas.
+1. Manter pressionado **Ctrl/Cmd** e selecione as pessoas.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Clique no menu suspenso **Alterar status** e selecione um status.
+1. Clique no botão **Alterar Status** e selecione um status.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 

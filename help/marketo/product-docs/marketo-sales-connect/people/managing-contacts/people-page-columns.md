@@ -1,31 +1,30 @@
 ---
 unique-page-id: 30081307
-description: Colunas da página de pessoas - Documentos do marketing - Documentação do produto
-title: Colunas da página de pessoas
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Colunas da página Pessoas - Documentos do Marketo - Documentação do produto
+title: Colunas da Página de Pessoas
+exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-
-# Colunas de página de pessoas {#people-page-columns}
+# Colunas da Página de Pessoas {#people-page-columns}
 
 Você tem a opção de personalizar quais informações de contato você vê escolhendo quais colunas são exibidas.
 
 ## Como selecionar colunas {#how-to-select-columns}
 
-1. Na página Pessoas, clique no ícone Configurações de Lista.
+1. Na página Pessoas, clique no ícone Configurações da lista .
 
    ![](assets/one-5.png)
 
-1. Percorra e selecione as colunas desejadas (você também pode clicar em **Selecionar tudo** se desejar cada coluna). Clique fora da lista quando terminar.
+1. Percorra e selecione as colunas desejadas (também é possível clicar em **Selecionar tudo** se quiser cada coluna). Clique fora da lista quando terminar.
 
    ![](assets/two-4.png)
 
-## Descrições da coluna {#column-descriptions}
+## Descrições de colunas {#column-descriptions}
 
 <table> 
  <colgroup> 
@@ -38,7 +37,7 @@ Você tem a opção de personalizar quais informações de contato você vê esc
    <th>Descrição</th> 
   </tr> 
   <tr> 
-   <td>Nome (padrão)</td> 
+   <td>First Name (padrão)</td> 
    <td>Nome</td> 
   </tr> 
   <tr> 
@@ -51,67 +50,67 @@ Você tem a opção de personalizar quais informações de contato você vê esc
   </tr> 
   <tr> 
    <td colspan="1">Telefone</td> 
-   <td colspan="1">Telefone</td> 
+   <td colspan="1">Número de telefone</td> 
   </tr> 
   <tr> 
    <td colspan="1">Título (padrão)</td> 
-   <td colspan="1">Cargo</td> 
+   <td colspan="1">Nome do cargo</td> 
   </tr> 
   <tr> 
    <td>Empresa (padrão)</td> 
    <td>Nome da empresa</td> 
   </tr> 
   <tr> 
-   <td>Campanha (padrão)</td> 
-   <td>Campanha de vendas em que a pessoa está atualmente</td> 
+   <td>Campaign (padrão)</td> 
+   <td>Campanha de vendas em que a pessoa está no momento</td> 
   </tr> 
   <tr> 
-   <td># Campanhas</td> 
-   <td>O número total de campanhas de venda das quais a pessoa fez parte</td> 
+   <td>Nº de campanhas</td> 
+   <td>Número total de campanhas de vendas das quais a pessoa fez parte</td> 
   </tr> 
   <tr> 
-   <td># Chamadas</td> 
+   <td>Nº de chamadas</td> 
    <td>Número total de chamadas feitas para essa pessoa</td> 
   </tr> 
   <tr> 
-   <td># Emails</td> 
-   <td>Número total de emails enviados para esta pessoa</td> 
+   <td>Nº de e-mails</td> 
+   <td>Número total de emails enviados para essa pessoa</td> 
   </tr> 
   <tr> 
    <td>Data de vencimento da tarefa</td> 
    <td>Data de vencimento da tarefa</td> 
   </tr> 
   <tr> 
-   <td># Eventos (padrão)</td> 
-   <td>Número total de eventos de envolvimento por pessoa (Visualizações, cliques e respostas)</td> 
+   <td># Events (padrão)</td> 
+   <td>Número total de eventos de envolvimento por pessoa (Exibições, cliques e respostas)</td> 
   </tr> 
   <tr> 
-   <td># Atividade (padrão)</td> 
-   <td>Número total de atividades tiradas pelo usuário para este cliente potencial (emails, chamadas e tarefas)</td> 
+   <td># Atividades (padrão)</td> 
+   <td>Número total de atividades realizadas pelo usuário para esse lead (emails, chamadas e tarefas)</td> 
   </tr> 
   <tr> 
    <td>Consentimento</td> 
-   <td><p>Interesse legítimo, execução de um contrato, cumprimento da obrigação legal, proteção de interesses vitais, interesse público/autoridade oficial e outros</p></td> 
+   <td><p>Interesse legítimo, execução de um contrato, cumprimento da obrigação legal, proteção de interesses vitais, interesse público/autoridade pública e outros</p></td> 
   </tr> 
   <tr> 
-   <td>Abrir Tarefas</td> 
+   <td>Tarefas em aberto</td> 
    <td>Número de tarefas abertas para esta pessoa</td> 
   </tr> 
   <tr> 
-   <td># Visualizações</td> 
+   <td>Nº de exibições</td> 
    <td>Número total de visualizações por esta pessoa</td> 
   </tr> 
   <tr> 
-   <td># Cliques</td> 
+   <td>Nº de cliques</td> 
    <td>Número total de cliques por esta pessoa</td> 
   </tr> 
   <tr> 
-   <td># Respostas</td> 
+   <td>Nº de respostas</td> 
    <td>Número total de respostas desta pessoa</td> 
   </tr> 
   <tr> 
    <td>Última atualização</td> 
-   <td>A data em que o registro de pessoa foi atualizado pela última vez em</td> 
+   <td>Data em que o registro de pessoa foi atualizado pela última vez em</td> 
   </tr> 
   <tr> 
    <td>Criador</td> 
@@ -123,10 +122,10 @@ Você tem a opção de personalizar quais informações de contato você vê esc
   </tr> 
   <tr> 
    <td>Grupos (padrão)</td> 
-   <td>Agrupa que a pessoa faz parte de</td> 
+   <td>Grupos de que a pessoa faz parte</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Inscrito</td> 
+   <td colspan="1">Inscrição cancelada</td> 
    <td colspan="1">Status de cancelamento de assinatura de vendas</td> 
   </tr> 
  </tbody> 

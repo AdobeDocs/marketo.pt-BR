@@ -86,7 +86,7 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 | Marketo - URL da foto no perfil social do LinkedIn | Marketo - URL do perfil social do LinkedIn | Marketo - Alcance do perfil social do LinkedIn | Marketo - Inscrições por indicação no perfil social do LinkedIn | Marketo - Visitas por indicação no perfil social do LinkedIn |
 | Marketo - ID de distribuição social | Marketo - Total de inscrições por indicação em perfil social | Marketo - Total de visitas por indicação em perfil social | Marketo - Nome de exibição no perfil social do Twitter | ID social do Marketo no Twitter |
 | Marketo - URL da foto no perfil social do Twitter | Marketo - URL do perfil social do Twitter | Marketo - Alcance do perfil social do Twitter | Marketo - Inscrições por indicação no perfil social do Twitter | Marketo - Visitas por indicação no perfil social do Twitter |
-| Nome do meio | Número do celular | Núm. funcionários | Número de telefone | Código postal |
+| Segundo nome | Número do celular | Núm. funcionários | Número de telefone | Código postal |
 | Prioridade | Pontuação relativa | Função | Saudação | Código SIC |
 | Site | Estado | Inscrição cancelada | Motivo do cancelamento de inscr. | Atualizado em |
 | Urgência | Site |  |  |  |

@@ -1,7 +1,8 @@
 ---
 description: Conceder acesso aos usuários - Documentos do Marketo - Documentação do produto
 title: Conceder acesso aos usuários
-source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
+exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 Siga as etapas neste artigo para conceder aos usuários do Sales Connect acesso à conexão do Marketo. Isso desbloqueará recursos como Momentos interessantes no Feed ao vivo e o acesso às Campanhas de marketing.
 
-Você precisará convidar usuários para a Conexão de Vendas [aqui](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), antes que eles estejam visíveis na página Marketo > Acesso à Equipe (no Sales Connect), onde o acesso à conexão Marketo é concedido.
+Você precisará convidar usuários para o Sales Connect [here](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), antes de serem visíveis na página Marketo > Team Access (em Sales Connect), onde o acesso à conexão Marketo é concedido.
 
 >[!CAUTION]
 >
 >Aguarde dez minutos após a conexão do Sales Connect com a Marketo antes de executar essas etapas.
 
-1. Selecione um ou mais usuários e clique em **Conectar**.
+1. Selecione um ou mais usuários e clique em **Connect**.
 
    >[!NOTE]
    >

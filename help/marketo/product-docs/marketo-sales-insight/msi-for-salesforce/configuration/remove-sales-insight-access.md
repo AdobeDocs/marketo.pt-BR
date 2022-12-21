@@ -4,8 +4,8 @@ title: Remover Acesso ao Insight de Vendas
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '411'
+ht-degree: 7%
 
 ---
 
@@ -96,13 +96,13 @@ Use as etapas a seguir para remover o acesso aos recursos do Sales Insight no Sa
 
 1. Remova o acesso &quot;Ler, Criar, Editar, Excluir&quot; dos seguintes objetos:
 
-   * MelhorCache
+   * BestBetsCache
    * Detalhes de melhores opções
    * Melhores visualizações
    * EmailActivityCache
    * GetMethodArgus
    * GroupedWebActivityCache
-   * InteressanteMomentsCache
+   * InterestingMomentsCache
    * Config. do Marketo Sales Insight
    * ScoringCache
    * Valores

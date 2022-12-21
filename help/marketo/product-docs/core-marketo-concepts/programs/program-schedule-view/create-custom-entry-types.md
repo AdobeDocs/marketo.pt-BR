@@ -3,7 +3,6 @@ unique-page-id: 1147245
 description: Criar tipos de entrada personalizados - Documentos do Marketo - Documentação do produto
 title: Criar tipos de entrada personalizados
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
@@ -15,15 +14,15 @@ ht-degree: 0%
 
 Você pode criar tipos de entrada personalizados para usar na Exibição de programação do programa. Isso permitirá que você acompanhe todos os itens de agenda que não são da Marketo que afetam seu programa.
 
-1. Vá para a seção **Admin** e clique em **Tags**.
+1. Vá para o **Administrador** e clique em **Tags**.
 
    ![](assets/admintags.png)
 
-1. Clique em **Tipo de Entrada do Calendário**.
+1. Clique em **Tipo de entrada do calendário**.
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. Clique no menu suspenso **New** e selecione **Entry Type**.
+1. Clique no botão **Novo** e selecione **Tipo de entrada**.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,7 +30,7 @@ Você pode criar tipos de entrada personalizados para usar na Exibição de prog
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. Selecione uma **Cor de entrada**.
+1. Selecione um **Cor da entrada**.
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 

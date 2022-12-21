@@ -3,7 +3,6 @@ unique-page-id: 1147257
 description: Navegação no calendário de marketing - Documentos do Marketo - Documentação do produto
 title: Navegação no calendário de marketing
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
@@ -11,13 +10,13 @@ ht-degree: 1%
 
 ---
 
-# Navegação no Calendário de marketing {#navigating-the-marketing-calendar}
+# Navegação no calendário de marketing {#navigating-the-marketing-calendar}
 
 Navegar ao redor do Calendário de marketing é fácil como um, dois, três!
 
 >[!PREREQUISITES]
 >
->Certifique-se de ter uma [Licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md); caso contrário, o bloco do Calendário de marketing não aparecerá em Meu Marketo.
+>Certifique-se de que você tenha uma [Licença de calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - caso contrário, o bloco Calendário de marketing não será exibido em Meu Marketo.
 
 1. Vá para o **Calendário de marketing**.
 
@@ -29,7 +28,7 @@ Navegar ao redor do Calendário de marketing é fácil como um, dois, três!
 
 ## Alteração entre modos {#change-between-modes}
 
-1. Clique nas guias **3 semanas** ou **Mês** para alternar entre modos.
+1. Clique no botão **3 semanas** ou **Mês** guias para alternar entre modos.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -37,11 +36,11 @@ Navegar ao redor do Calendário de marketing é fácil como um, dois, três!
 
 A exibição Agenda exibe todas as suas entradas como uma lista.
 
-1. Clique no menu suspenso **Filter**.
+1. Clique no botão **Menu suspenso Filtro**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Selecione a visualização **Agenda**.
+1. Selecione o **Agenda** exibir.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -49,7 +48,7 @@ A exibição Agenda exibe todas as suas entradas como uma lista.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## Tempo de navegação {#navigate-through-time}
+## Navegar pelo tempo {#navigate-through-time}
 
 Sem um DeLorean! Basta clicar nos botões de navegação.
 

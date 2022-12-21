@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11378809
-description: Visão geral da conta nomeada - Documentos do Marketo - Documentação do produto
+description: Visão geral da conta nomeada - Documentação do Marketo - Documentação do produto
 title: Visão geral da conta nomeada
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
-
 
 # Visão geral da conta nomeada {#named-account-overview}
 
@@ -25,7 +24,7 @@ As contas nomeadas contêm as pessoas das empresas que você está direcionando.
 
 >[!NOTE]
 >
->O Marketo mostra todos os usuários do CRM sincronizados no Marketo como valores de filtro de &quot;Proprietário da conta&quot; ou &quot;Membro da equipe da conta&quot;.
+>O Marketo mostra todos os usuários do CRM sincronizados com o Marketo como valores de filtro de &quot;Proprietário da Conta&quot; ou &quot;Membro da Equipe da Conta&quot;.
 
 ## Atributos de conta nomeados {#named-account-attributes}
 
@@ -44,11 +43,11 @@ As contas nomeadas contêm as pessoas das empresas que você está direcionando.
    <td>Quantidade de pessoas atribuídas à Conta Nomeada</td> 
   </tr> 
   <tr> 
-   <td><strong>Pipeline</strong></td> 
+   <td><strong>Canal de processamento</strong></td> 
    <td>Soma de todas as oportunidades em seu sistema de CRM que não estão fechadas vencidas ou fechadas</td> 
   </tr> 
   <tr> 
-   <td><strong>Oportunidades Abertas</strong></td> 
+   <td><strong>Oportunidades abertas</strong></td> 
    <td>Todas as oportunidades em seu CRM que não são vencidas ou fechadas.</td> 
   </tr> 
   <tr> 
@@ -61,18 +60,18 @@ As contas nomeadas contêm as pessoas das empresas que você está direcionando.
   </tr> 
   <tr> 
    <td><strong>Código SIC</strong></td> 
-   <td><span><strong></strong>Classificação  <strong></strong>  <strong></strong>industrial padrão - código de quatro dígitos para classificar indústrias<br></span></td> 
+   <td><span><strong>S</strong>padrão <strong>I</strong>industrial <strong>C</strong>Classificação - código de quatro dígitos para classificar indústrias<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Receita</strong></td> 
    <td>As receitas anuais da empresa</td> 
   </tr> 
   <tr> 
-   <td><strong>Empregados</strong></td> 
+   <td><strong>Funcionários</strong></td> 
    <td>Número de funcionários atribuídos a uma Conta Nomeada</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Pontuação da conta</strong></td> 
+   <td colspan="1"><strong>Pontuação de contas</strong></td> 
    <td colspan="1">Agregação de pontuações de lead de vários leads para fornecer pontuação no nível da conta</td> 
   </tr> 
   <tr> 
@@ -80,7 +79,7 @@ As contas nomeadas contêm as pessoas das empresas que você está direcionando.
    <td colspan="1">Cidade da Conta Nomeada</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Estado/Região</strong></td> 
+   <td colspan="1"><strong>Estado/região</strong></td> 
    <td colspan="1">Estado ou região da Conta Nomeada</td> 
   </tr> 
   <tr> 
@@ -92,11 +91,11 @@ As contas nomeadas contêm as pessoas das empresas que você está direcionando.
    <td colspan="1">Data em que a Conta Nomeada foi criada</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Proprietário da Conta</strong></td> 
+   <td colspan="1"><strong>Proprietário da conta</strong></td> 
    <td colspan="1">Proprietário da conta especificada</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Membro da Equipe da Conta</strong></td> 
+   <td colspan="1"><strong>Membro da equipe da conta</strong></td> 
    <td colspan="1">Membro do grupo de partes interessadas que trabalham em conjunto em contas específicas</td> 
   </tr> 
  </tbody> 

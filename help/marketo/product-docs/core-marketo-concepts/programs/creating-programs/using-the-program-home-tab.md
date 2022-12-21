@@ -3,7 +3,6 @@ unique-page-id: 1147126
 description: Uso da guia Página inicial do programa - Documentos do Marketo - Documentação do produto
 title: Uso da guia Página inicial do programa
 exl-id: 04c36190-d853-4900-b566-973d08316e37
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Uso da guia Início do programa {#using-the-program-home-tab}
+# Uso da guia Página inicial do programa {#using-the-program-home-tab}
 
 A guia inicial do programa fornece uma visão de alto nível do que está acontecendo em seu programa.
 
-## Visualização de resumo {#summary-view}
+## Exibição do resumo {#summary-view}
 
-1. Vá para **Marketing Activities**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,13 +36,13 @@ A guia inicial do programa fornece uma visão de alto nível do que está aconte
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
-## Usado pela Exibição {#used-by-view}
+## Usado pela exibição {#used-by-view}
 
 1. Em Atividades de marketing, selecione um programa.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Clique no menu suspenso **View**. Selecione **Usado por**.
+1. Clique no botão **Exibir** lista suspensa. Selecionar **Usado por**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -51,13 +50,13 @@ A guia inicial do programa fornece uma visão de alto nível do que está aconte
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
-## Exibição de Associação {#membership-view}
+## Exibição de associação {#membership-view}
 
 1. Em Atividades de marketing, selecione um programa.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Clique no menu suspenso **View**. Selecione **Associação**.
+1. Clique no botão **Exibir** lista suspensa. Selecionar **Associação**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +66,7 @@ A guia inicial do programa fornece uma visão de alto nível do que está aconte
 
    >[!NOTE]
    >
-   >**** Historicamente, significa qualquer pessoa que já passou pelo programa, enquanto  **** atualmente inclui apenas pessoas que estão no programa.
+   >**Histórico** significa qualquer pessoa que já passou pelo programa, enquanto **Atual** inclui apenas pessoas que estão atualmente no programa.
 
    >[!MORELIKETHIS]
    >

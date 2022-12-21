@@ -1,19 +1,18 @@
 ---
 unique-page-id: 12978938
-description: Arquivar uma Campanha da Web - Documentos do Marketing - Documentação do produto
-title: Arquivar uma Campanha da Web
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Arquivar uma campanha da Web - Documentos do Marketo - Documentação do produto
+title: Arquivar uma campanha da Web
+exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
+# Arquivar uma campanha da Web {#archive-a-web-campaign}
 
-# Arquivar uma Campanha da Web {#archive-a-web-campaign}
-
-1. Vá para **Campanha**.
+1. Ir para **Campanhas da Web**.
 
    ![](assets/one.jpg)
 
@@ -23,8 +22,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Campanhas da Web arquivadas não serão exibidas no filtro padrão. Para vê-los, clique no ícone Filtro e, em **Status**, selecione a caixa de seleção **Arquivado** e clique em **Aplicar**.
+   >Campanhas da Web arquivadas não serão exibidas no filtro padrão. Para visualizá-los, clique no ícone Filtro e em **Status**, selecione o **Arquivado** caixa de seleção e clique em **Aplicar**.
 
 >[!MORELIKETHIS]
 >
->[Excluir uma Campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>[Excluir uma campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)

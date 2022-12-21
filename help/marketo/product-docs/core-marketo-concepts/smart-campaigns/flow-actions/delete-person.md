@@ -3,11 +3,10 @@ unique-page-id: 1147082
 description: Excluir pessoa - Documentos do Marketo - Documentação do produto
 title: Excluir pessoa
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -37,4 +36,4 @@ Você pode excluir do Marketo e não do seu CRM, assim:
 
 >[!NOTE]
 >
->A remoção da pessoa do seu CRM **só funciona com o Salesforce**. Se você excluir uma pessoa do Marketo e optar por mantê-la no Salesforce, ela será recriada no Marketo se o registro do Salesforce alguma vez for atualizado.
+>Remoção da pessoa do seu CRM **funciona somente com o Salesforce**. Se você excluir uma pessoa do Marketo e optar por mantê-la no Salesforce, ela será recriada no Marketo se o registro do Salesforce alguma vez for atualizado.

@@ -20,7 +20,7 @@ Agora você pode [excluir um espaço de trabalho não utilizado](/help/marketo/p
 
 ## Agendar primeira visita {#schedule-first-cast}
 
-Nos programas de envolvimento, você pode agendar a data para a [primeira conversão para executar](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Por exemplo, especifique a cadência a ser a cada 2 semanas e selecione a data da primeira conversão.
+Nos programas de envolvimento, você pode agendar a data para a variável [primeiro lançamento a ser executado](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Por exemplo, especifique a cadência a ser a cada 2 semanas e selecione a data da primeira conversão.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -32,7 +32,7 @@ Agora todos têm vários programas, fluxos e limites de comunicação.
 
 ## Rastreamento de link em emails de texto {#link-tracking-in-text-emails}
 
-[Adicione ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) colchetes duplos ao redor de URLs na versão de texto de seus emails para indicar quando os links devem ser convertidos em links de rastreamento Marketo redirecionados
+[Adicionar colchetes duplos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) sobre URLs na versão de texto de seus emails para indicar quando os links devem ser convertidos em links de rastreamento do Marketo redirecionados
 
 >[!NOTE]
 >
@@ -40,15 +40,15 @@ Agora todos têm vários programas, fluxos e limites de comunicação.
 >
 >`[[https://www.marketo.com]]`
 
-Por padrão, nenhum link será rastreado na versão de texto dos emails. Adicione esta nova sintaxe para indicar quando um link deve ser convertido em um link de rastreamento. O comportamento dos links HTML não é alterado.  Para adicionar links rastreados aos seus emails:
+Por padrão, nenhum link será rastreado na versão de texto dos emails. Adicione esta nova sintaxe para indicar quando um link deve ser convertido em um link de rastreamento. O comportamento dos links de HTML não é alterado.  Para adicionar links rastreados aos seus emails:
 
-* **Versão HTML:** basta inserir o link. Ele será rastreado por padrão.
-* **Versão do texto:** insira o URL cercado por colchetes duplos.
+* **Versão HTML:** Basta inserir seu link. Ele será rastreado por padrão.
+* **Versão do texto:** Insira o URL entre colchetes duplos.
 
 Para adicionar links não rastreados aos seus emails:
 
-* **Versão HTML:** insira seu link e adicione a classe &quot;mktNoTrack&quot; ao link.
-* **Versão do texto:** basta inserir o URL. Ele será desacompanhado por padrão.
+* **Versão HTML:** Insira seu link e adicione a classe &quot;mktNoTrack&quot; ao link.
+* **Versão do texto:** Basta inserir o URL. Ele será desacompanhado por padrão.
 
 ![](assets/image2014-9-22-12-3a1-3a34.png)
 
@@ -58,7 +58,7 @@ Veja como seus links se comportarão em emails com antecedência. Os emails de a
 
 ## Anular campanha {#abort-campaign}
 
-Não entre em pânico! Se você encontrar um erro, use o novo botão [abort campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) para interromper imediatamente as campanhas em seus rastreamentos. Você receberá uma notificação descrevendo quantos leads estavam pendentes em cada etapa do fluxo quando a campanha foi interrompida.
+Não entre em pânico! Se você encontrar um erro, use o novo [abortar campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) para interromper imediatamente as campanhas em suas faixas. Você receberá uma notificação descrevendo quantos leads estavam pendentes em cada etapa do fluxo quando a campanha foi interrompida.
 
 ## Informações sobre vendas em japonês, português e espanhol {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -68,11 +68,11 @@ Baixe a versão mais recente do Sales Insight do AppExchange para que seus agent
 
 ## Status do Programa e Cronograma de Sucesso na Análise de Associação do Programa {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Ver quantos [membros estão em cada Status do Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e quando mudaram para cada status, incluindo a data em que atingiram o Sucesso do Programa.
+Ver quantos [membros estão em cada Status do Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e quando mudaram para cada status, incluindo a data em que alcançaram o sucesso do programa.
 
 ## Emails de teste A/B na análise de email {#a-b-test-emails-in-email-analysis}
 
-Relate cada uma das [variantes de email de teste A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) na Análise de email.
+Relate cada um de seus [As variantes de email de teste A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) em Análise de email.
 
 ## Alterações no pacote do Analytics {#analytics-packaging-changes}
 

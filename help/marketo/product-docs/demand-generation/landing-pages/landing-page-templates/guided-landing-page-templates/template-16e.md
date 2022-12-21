@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 16-E {#template-16e}
 
-Clique com o botão direito do mouse em [baixar Modelo 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
+Clique com o botão direito do mouse em para [modelo de download 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 

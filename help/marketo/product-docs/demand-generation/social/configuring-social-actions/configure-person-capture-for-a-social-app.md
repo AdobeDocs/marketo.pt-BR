@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2950547
-description: Configurar a captura de pessoa para um aplicativo social - Documentos do Marketing - Documentação do produto
+description: Configurar a captura de pessoa para um aplicativo social - Documentos do Marketo - Documentação do produto
 title: Configurar captura de pessoa para um aplicativo social
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: bad8db26-bb1b-4d04-a80f-4d5ee3200335
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-
 # Configurar captura de pessoa para um aplicativo social {#configure-person-capture-for-a-social-app}
 
-Ao criar uma [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode configurar quais informações solicita e quais informações são necessárias para que as pessoas possam participar.
+Ao criar um [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), é possível configurar quais informações você solicita e quais informações você precisa das pessoas para participar.
 
 >[!NOTE]
 >
->As pessoas só serão solicitadas a fornecer essas informações se elas não as tiverem fornecido anteriormente.
+>As pessoas só serão solicitadas a fornecer essas informações se não as tiverem fornecido anteriormente.
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/ma-2.png)
 
@@ -27,27 +26,27 @@ Ao criar uma [oferta de referência](/help/marketo/product-docs/demand-generatio
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. No editor de aplicativos sociais, vá para **Fluxo de inscrição** > **Captura de pessoa**.
+1. No editor de aplicativos sociais, acesse **Fluxo de inscrição** > **Captura de pessoa**.
 
    ![](assets/three-1.png)
 
-1. Selecione as informações que você solicitará e indique os campos que são especificamente necessários para se inscrever para sua oferta.
+1. Selecione as informações que você solicitará e indique os campos especificamente necessários para se inscrever em sua oferta.
 
    ![](assets/image2014-9-22-10-58-24.png)
 
    Incluir opções de marketing:
 
-   * **opt out**: A pessoa está inscrita por padrão.
-   * **opt in**: A pessoa pode optar por assinar.
+   * **Recusar**: A pessoa é subscrita por padrão.
+   * **Aceitar**: A pessoa pode optar por assinar.
 
    >[!NOTE]
    >
-   >De qualquer forma, os participantes ainda receberão [_operacionais_ e-mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) da sua oferta.
+   >De qualquer forma, os participantes ainda receberão a variável [_operacional_ emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) da sua oferta.
 
-1. Na janela Visualização e edição, clique em **Mostrar edições** e edite as mensagens no prompt de compartilhamento.
+1. Na janela Exibir e editar , clique em **Mostrar edições** e edite as mensagens no prompt de compartilhamento.
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 
 >[!MORELIKETHIS]
 >
->Agora você pode [configurar o fluxo de inscrição social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) e editar as mensagens de compartilhamento que serão publicadas em cada rede social.
+>Agora você pode [configurar o fluxo de inscrição no social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) e edite as mensagens de compartilhamento que serão publicadas em cada rede social.

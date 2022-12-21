@@ -1,54 +1,53 @@
 ---
 unique-page-id: 37355758
-description: Adicionar membros a um Programa Evento - Documentos do Marketing - Documentação do produto
-title: Adicionar membros a um Programa Evento
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Adicionar membros a um programa de evento - Documentos da Marketo - Documentação do produto
+title: Adicionar membros a um programa de evento
+exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
+# Adicionar membros a um programa de evento {#adding-members-to-an-event-program}
 
-# Adicionar membros a um Programa de Evento {#adding-members-to-an-event-program}
-
-Este artigo se aplica somente aos usuários que utilizam o Evento Cap ou o Evento de Metas.
+Este artigo se aplica somente aos usuários que utilizam o Event Cap ou o Event Targets.
 
 >[!CAUTION]
 >
->Importar uma lista de pessoas diretamente para um Programa de Evento impedirá que esses registros sejam contados em registros reais no relatório de Rastreamento de metas e no relatório de Progressão de Evento. Siga as instruções abaixo para garantir que seus registros sejam contados.
+>Importar uma lista de pessoas diretamente para um Programa de Eventos impedirá que esses registros sejam contados em registros reais no relatório de Rastreamento de Meta e no relatório de Progressão de Limite de Eventos. Siga as instruções abaixo para garantir que seus registros sejam contados.
 
-1. Crie e [adicione pessoas a uma lista estática](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
+1. Criar e [adicionar pessoas a uma lista estática](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
 
-1. [Crie uma campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) inteligente.
+1. [Criar uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. Na Lista inteligente da Campanha inteligente criada na Etapa dois, localize e adicione o filtro **Membro da Lista**.
+1. Na Smart List (Lista inteligente) da campanha inteligente criada na etapa dois, encontre e adicione o **Membro da Lista** filtro.
 
    ![](assets/three.png)
 
-1. Localize e selecione a lista criada na Etapa Um.
+1. Localize e selecione a lista criada na Etapa um.
 
    ![](assets/four.png)
 
-1. No Fluxo, localize e adicione a etapa de fluxo **Alterar status do Programa**.
+1. No Fluxo, localize e adicione o **Alterar status do programa** etapa de fluxo.
 
    ![](assets/five.png)
 
-1. Localize e selecione seu Programa de Evento.
+1. Localize e selecione seu Programa de eventos.
 
    ![](assets/six.png)
 
-1. Escolha seu status desejado.
+1. Escolha o status desejado.
 
    ![](assets/seven.png)
 
-1. Na guia Agendamento, clique em **Executar uma vez**.
+1. Na guia Agendamento , clique em **Executar uma vez**.
 
    ![](assets/eight.png)
 
-1. Selecione **Executar agora** e clique em **Executar**.
+1. Selecionar **Executar agora** e clique em **Executar**.
 
    ![](assets/nine.png)
 
-1. Depois que a campanha inteligente for executada, os membros serão adicionados ao programa e contarão nos cálculos Rastreamento de metas e Progressão de Evento.
+1. Após a execução da campanha inteligente, os membros são adicionados ao programa e contarão nos cálculos Rastreamento de meta e Progressão de limite de evento .

@@ -299,7 +299,7 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da instânci
   <td>
   <p>Conta 
   <p>Contato 
-  <p>Líder 
+  <p>Lead 
   <p>Oportunidade</td>
   <td>Dados e hora</td>
  </tr>
@@ -309,7 +309,7 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da instânci
   <td>
   <p>Conta 
   <p>Contato 
-  <p>Líder 
+  <p>Lead 
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -319,7 +319,7 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da instânci
   <td>
   <p>Conta 
   <p>Contato 
-  <p>Líder 
+  <p>Lead 
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -329,7 +329,7 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da instânci
   <td>
   <p>Conta 
   <p>Contato 
-  <p>Líder 
+  <p>Lead 
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -339,7 +339,7 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da instânci
   <td>
   <p>Conta 
   <p>Contato 
-  <p>Líder 
+  <p>Lead 
   <p>Oportunidade</td>
   <td>Dados e hora</td>
  </tr>
@@ -349,7 +349,7 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da instânci
   <td>
   <p>Conta 
   <p>Contato 
-  <p>Líder 
+  <p>Lead 
   <p>Oportunidade</td>
   <td>Dados e hora</td>
  </tr>
@@ -359,7 +359,7 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da instânci
   <td>
   <p>Conta 
   <p>Contato 
-  <p>Líder 
+  <p>Lead 
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -369,7 +369,7 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da instânci
   <td>
   <p>Conta
   <p>Contato
-  <p>Líder
+  <p>Lead
   <p>Oportunidade</td>
   <td>Dados e hora</td>
  </tr>
@@ -379,7 +379,7 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da instânci
   <td>
   <p>Conta 
   <p>Contato 
-  <p>Líder 
+  <p>Lead 
   <p>Oportunidade</td>
   <td>Caixa de seleção</td>
  </tr>
@@ -397,7 +397,7 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da instânci
   <td>
   <p>Conta 
   <p>Contato 
-  <p>Líder 
+  <p>Lead 
   <p>Oportunidade</td>
  </tr>
  <tr>
@@ -405,21 +405,21 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da instânci
   <td>Adicionar às campanhas MSC do Salesforce</td>
   <td>
   <p>Contato
-  <p>Líder</td>
+  <p>Lead</td>
  </tr>
  <tr>
   <td>Encaminhar para MSC</td>
   <td>Encaminhar contato do Salesforce para o MSC</td>
   <td>
   <p>Contato
-  <p>Líder</td>
+  <p>Lead</td>
  </tr>
  <tr>
   <td>Chame com MSC</td>
   <td>Efetuar chamadas de vendas do Salesforce</td>
   <td>
   <p>Contato
-  <p>Líder</td>
+  <p>Lead</td>
  </tr>
 </table>
 
@@ -434,20 +434,20 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da instânci
   <td>Adicionar às campanhas MSC do Salesforce</td>
   <td>
   <p>Contato
-  <p>Líder</td>
+  <p>Lead</td>
  </tr>
  <tr>
   <td>Encaminhar para MSC</td>
   <td>Encaminhar contato do Salesforce para o MSC</td>
   <td>
   <p>Contato
-  <p>Líder</td>
+  <p>Lead</td>
  </tr>
  <tr>
   <td>E-mail com MSC</td>
   <td>E-mail com MSC do Salesforce</td>
   <td>
   <p>Contato
-  <p>Líder</td>
+  <p>Lead</td>
  </tr>
 </table>

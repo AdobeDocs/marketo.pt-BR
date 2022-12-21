@@ -4,8 +4,8 @@ title: Adicionar Conjunto de Permissões de Insight de Vendas
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '379'
+ht-degree: 4%
 
 ---
 

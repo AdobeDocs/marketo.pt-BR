@@ -3,7 +3,6 @@ unique-page-id: 1146937
 description: Exibir membros da campanha inteligente - Documentos do Marketo - Documentação do produto
 title: Exibir membros da campanha inteligente
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Exibir pessoas que já passaram pelo fluxo da campanha inteligente; ou seja, membros inteligentes da campanha.
 
-1. Vá para **Marketing Activities**.
+1. Ir para **Atividades de marketing**.
 
 ![](assets/login-marketing-activities.png)
 
@@ -27,7 +26,7 @@ Exibir pessoas que já passaram pelo fluxo da campanha inteligente; ou seja, mem
 >
 >Você pode visualizar membros da campanha de qualquer lugar dentro de uma campanha inteligente.
 
-1. A guia **Campaign Members** mostra pessoas que já foram executadas pelo fluxo de campanha inteligente.
+1. O **Membros da campanha** mostra pessoas que já passaram pelo fluxo da campanha inteligente.
 
    ![](assets/smartcampaignheader-complete.jpg)
 

@@ -1,47 +1,46 @@
 ---
 unique-page-id: 2359665
-description: Definir cadência de fluxo - Documentos do marketing - Documentação do produto
-title: Definir cadência de fluxo
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Definir cadência de fluxo - Documentos do Marketo - Documentação do produto
+title: Definir cadência das transmissões
+exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '378'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# Definir cadência das transmissões {#set-stream-cadence}
 
-# Definir cadência de fluxo {#set-stream-cadence}
-
-Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Por exemplo: uma vez por semana, ou a cada três terças-feiras do mês.
+Você pode enviar conteúdo de envolvimento em qualquer intervalo. Por exemplo: uma vez por semana, ou a cada três terças-feiras do mês.
 
 ## Definir cadência {#set-cadence}
 
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Localize e selecione seu programa de envolvimento, clique na guia **Streams** e, em seguida, clique em **Definir cadência de fluxo**.
+1. Localize e selecione seu programa de envolvimento, clique no botão **Fluxos** e, em seguida, clique em **Definir cadência de fluxo**.
 
    ![](assets/selectstreamcadence.jpg)
 
 1. Selecione a frequência com que deseja que a cadência ocorra novamente. Você pode escolher **Semanalmente** ou **Mensalmente**.
 
-## Semanalmente {#weekly}
+## Semanal {#weekly}
 
-1. Selecione **Semanalmente**.
+1. Selecionar **Semanalmente**.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >Selecionar **None** desligará o fluxo.
+   >Selecionar **Nenhum** desligará o fluxo.
 
 1. Escolha a data do primeiro elenco.
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. Agora escolha se você quer que a cadência ocorra toda semana ou mais espaçados. Vamos escolher a cada 2 semanas.
+1. Agora, escolha se você deseja que a cadência ocorra toda semana ou mais espaçada. Vamos escolher a cada 2 semanas.
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
@@ -51,29 +50,29 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
 
    >[!TIP]
    >
-   >Você pode definir sua cadência para ser executada todos os dias selecionando **Repetir: Semanalmente** / **A cada: 1 semana** / **Em**: todos os dias.
+   >Você pode definir sua cadência para ser executada todos os dias selecionando **Repete: Semanalmente** / **A cada: 1 Semana** / **Ligado**: todos os dias.
 
-   Agora escolham o Time. Marque a caixa se quiser usar [Fuso horário do Recipient](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (isto é, entregar de acordo com os fusos horários locais) e clique em **Salvar**.
+   Agora escolha a Hora. Marque a caixa se desejar usar [Fuso Horário do Recipient](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(ou seja, entregar de acordo com fusos horários locais), em seguida, clique em **Salvar**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
    >
-   >O conteúdo sairá na data selecionada para a primeira conversão, portanto, verifique se coincide com o dia da semana que você escolher; caso contrário, sairá duas vezes na primeira semana.
+   >O conteúdo será publicado na data selecionada para a primeira conversão, portanto, verifique se coincide com o dia da semana que você escolher; caso contrário, sairá duas vezes na primeira semana.
 
-1. Passe o mouse sobre a cadência. Você verá que dias as futuras castas sairão.
+1. Passe o mouse sobre a cadência. Você verá em que dias as futuras castas sairão.
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >Neste exemplo, um email será enviado na quinta-feira. Então pulamos uma semana e enviamos de novo na terça, quarta e quinta da semana seguinte. E depois repetimos.
+   >Neste exemplo, um email será enviado na quinta-feira. Então pulamos uma semana e enviamos novamente na terça, quarta e quinta da semana seguinte. E depois repetimos.
 
-É isso! Continue lendo se quiser configurar uma cadência mensal.
+Pronto! Continue lendo se quiser configurar uma cadência mensal.
 
-## Mensalmente {#monthly}
+## Mensal {#monthly}
 
-1. Selecione **Mensalmente** para saber com que frequência se repete.
+1. Selecionar **Mensalmente** com que frequência se repete.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -81,11 +80,11 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
 
    ![](assets/image2014-9-15-16-3a30-3a11.png)
 
-1. Selecione se quiser que seja a cada mês ou mais espaçado para fora... Vamos escolher a cada quatro meses.
+1. Selecione se deseja que ele seja espaçado todo mês ou mais... Vamos escolher a cada quatro meses.
 
    ![](assets/image2014-9-15-16-3a30-3a7.png)
 
-1. Escolha em qual dia do mês você especificou, neste caso, o dia 22 de cada quarto mês.
+1. Escolha o dia do mês especificado, neste caso, o dia 22 de cada quarto mês.
 
    ![](assets/image2014-9-15-16-3a29-3a51.png)
 
@@ -93,22 +92,22 @@ Você pode enviar conteúdo de envolvimento a qualquer intervalo que desejar. Po
    >
    >Como alternativa, você pode escolher o dia da semana.
 
-1. Escolha um **Hora** e clique em **Salvar**.
+1. Escolha uma **Hora** e clique em **Salvar**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. Passe o mouse sobre a cadência. Você verá que dias as futuras castas sairão.
+1. Passe o mouse sobre a cadência. Você verá em que dias as futuras castas sairão.
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 
    >[!CAUTION]
    >
-   >Se você decidir modificar sua cadência de fluxo de envolvimento posteriormente, verifique se a primeira conversão está definida como uma data futura.
+   >Se decidir modificar a cadência do fluxo de envolvimento posteriormente, verifique se a primeira conversão foi definida como uma data futura.
 
-Agora você sabe como configurar uma cadência de córrego!
+Agora você sabe como configurar uma cadência de fluxo!
 
 >[!MORELIKETHIS]
 >
->* [Noções básicas sobre o fuso horário do Recipient](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Agendar Programas de envolvimento com fuso horário do Recipient](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>* [Noções básicas sobre fuso horário do destinatário](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Programar programas de envolvimento com fuso horário do destinatário](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 

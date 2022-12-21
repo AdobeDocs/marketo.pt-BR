@@ -5,8 +5,8 @@ title: Alterar proprietário
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 source-git-commit: 44c134811242b4136a3137cdd60e60edeb838c8c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '170'
+ht-degree: 2%
 
 ---
 

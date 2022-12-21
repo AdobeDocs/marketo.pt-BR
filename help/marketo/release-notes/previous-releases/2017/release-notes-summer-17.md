@@ -42,7 +42,7 @@ A integração LeanData agora permite a correspondência de lead para conta no M
 
 **[Aprimoramentos de visualização de campanha](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-Agora, os profissionais de marketing podem garantir que suas campanhas da Web fiquem bem em qualquer dispositivo *antes de* inicializá-las. Com esses aprimoramentos, veja como suas campanhas da Web serão renderizadas em desktops, dispositivos móveis e tablets. O novo plug-in para Chrome também oferece visualizações mais consistentes e precisas.
+Agora, os profissionais de marketing podem garantir que suas campanhas da Web sejam ótimas em qualquer dispositivo *before* lançá-los. Com esses aprimoramentos, veja como suas campanhas da Web serão renderizadas em desktops, dispositivos móveis e tablets. O novo plug-in para Chrome também oferece visualizações mais consistentes e precisas.
 
 **[Aprimoramentos de campanha de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 

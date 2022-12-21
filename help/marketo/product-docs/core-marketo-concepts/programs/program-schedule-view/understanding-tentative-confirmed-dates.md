@@ -3,21 +3,20 @@ unique-page-id: 1147140
 description: Noções básicas sobre datas provisórias/confirmadas - Documentos do Marketo - Documentação do produto
 title: Compreender datas tentativas/confirmadas
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Noções Gerais de Datas Tentativas/Confirmadas {#understanding-tentative-confirmed-dates}
+# Compreender datas tentativas/confirmadas {#understanding-tentative-confirmed-dates}
 
-Campanhas inteligentes e programas de email têm um recurso poderoso para ser marcado como **Tentativa** ou **Confirmada**. Veja como eles funcionam.
+Campanhas inteligentes e programas de email têm um recurso poderoso de ser marcados como **Tentativa** ou **Confirmado**. Veja como eles funcionam.
 
 ## Tentativa {#tentative}
 
-Datas provisórias transmitem a intenção. Pense nisso como _penciling_ algo no calendário. Entradas não provisórias não serão executadas - são apenas marcadores de posição.
+Datas provisórias transmitem a intenção. Pense nisso como _lápis_ algo no calendário. Entradas não provisórias não serão executadas - são apenas marcadores de posição.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -39,7 +38,7 @@ Datas provisórias transmitem a intenção. Pense nisso como _penciling_ algo no
 >
 >Por que o cachorro? Ele é um Retriever. Ele está buscando seus dados.
 
-## Confirmado {#confirmed}
+## confirmada {#confirmed}
 
 As entradas confirmadas serão executadas definitivamente. Eles têm regras, ativos aprovados e uma data e hora confirmadas.
 
@@ -47,7 +46,7 @@ As entradas confirmadas serão executadas definitivamente. Eles têm regras, ati
 
 ## Concluído  {#finished}
 
-As entradas concluídas já foram executadas. Eles só podem estar no passado (obviamente). Depois que uma entrada é executada e é **Finished**, não é possível movê-la ou torná-la temporária. (Sem alterar a realidade e interromper o contínuo de fluxo de tempo.)
+As entradas concluídas já foram executadas. Eles só podem estar no passado (obviamente). Uma vez que uma entrada é executada e é **Concluído**, não é possível movê-lo ou torná-lo temporário. (Sem alterar a realidade e interromper o contínuo de fluxo de tempo.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

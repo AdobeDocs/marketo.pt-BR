@@ -3,7 +3,6 @@ unique-page-id: 557339
 description: Encontrar e mesclar pessoas duplicadas - Documentos do Marketo - Documentação do produto
 title: Localizar e mesclar pessoas duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
@@ -11,21 +10,21 @@ ht-degree: 0%
 
 ---
 
-# Encontrar e mesclar pessoas duplicadas {#find-and-merge-duplicate-people}
+# Localizar e mesclar pessoas duplicadas {#find-and-merge-duplicate-people}
 
 O Marketo remove a duplicação automaticamente quando novas pessoas entram no sistema. No entanto, seu CRM pode ter enviado inicialmente duplicatas para o Marketo. Aqui está como mesclá-los.
 
 >[!NOTE]
 >
->A Marketo não removerá automaticamente a duplicação em relação a uma sincronização do Salesforce ou do Microsoft Dynamics, ou quando você inserir pessoas manualmente.
+>A Marketo não deduplicará automaticamente em relação a uma sincronização do Salesforce ou do Microsoft Dynamics, ou quando você inserir pessoas manualmente.
 
 >[!PREREQUISITES]
 >
->Encontrar e mesclar duplicatas envolverá o uso de [listas inteligentes do sistema/incorporadas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Encontrar e mesclar duplicatas envolverá o uso de [listas inteligentes integradas/do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
-## Localizar Duplicidades {#find-duplicates}
+## Localizar duplicatas {#find-duplicates}
 
-1. Vá para a área **Database**.
+1. Vá para o **Banco de dados** área.
 
    ![](assets/db.png)
 
@@ -33,21 +32,21 @@ O Marketo remove a duplicação automaticamente quando novas pessoas entram no s
    >
    >A mesclagem de pessoas no Marketo pode não funcionar se você usar uma conta de pessoa do Salesforce. Mesclar os registros no Salesforce, se possível.
 
-1. Selecione a lista inteligente do sistema **Possíveis Duplicatas** e clique na guia **People**.
+1. Selecione o **Possíveis duplicatas** lista inteligente do sistema e clique no botão **Pessoas** guia .
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Você também pode [Localizar pessoas duplicadas com lógica personalizada](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >Você também pode [Localizar Pessoas Duplicadas com Lógica Personalizada](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
 
-## Mesclar pessoas manualmente {#merge-people-manually}
+## Unir Pessoas Manualmente {#merge-people-manually}
 
 >[!CAUTION]
 >
->Ao mesclar pessoas, se a pessoa perdedora tiver um objeto personalizado Marketo, ele **not** será reassociado à pessoa vencedora. Recoloque o objeto personalizado antes de executar a mesclagem.
+>Ao mesclar pessoas, se a pessoa perdedora tiver um objeto personalizado Marketo, ele **not** ser reassociado à pessoa vencedora. Recoloque o objeto personalizado antes de executar a mesclagem.
 
-1. Selecione as duplicatas mantendo Ctrl/Cmd pressionada e clicando em e depois em **Mesclar pessoas**.
+1. Selecione as duplicatas, mantendo pressionada a tecla Ctrl/Cmd e clicando em e, em seguida, clique em **Unir Pessoas**.
 
    ![](assets/three.png)
 
@@ -55,7 +54,7 @@ O Marketo remove a duplicação automaticamente quando novas pessoas entram no s
    >
    >Você pode ter duas ou mais duplicatas para a mesma pessoa - selecione-as todas de uma vez.
 
-1. Você verá os valores entre os registros que _não_ correspondem. Selecione o valor que deseja manter para cada campo. Clique em **Mesclar** quando terminar. Se você não quiser nenhum dos valores, poderá marcar **Custom** e inserir um valor de sua escolha.
+1. Você verá os valores entre os registros que _don&#39;t_ correspondência. Selecione o valor que deseja manter para cada campo. Clique em **Mesclar** quando concluído. Se não quiser nenhum dos valores, você poderá verificar **Personalizado** e insira um valor de sua escolha.
 
    ![](assets/four.png)
 

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 4718675
-description: Alteração do nome de um estágio - Documentos do marketing - Documentação do produto
+description: Alteração do nome de um palco - Documentos do Marketo - Documentação do produto
 title: Alteração do nome de um estágio
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Alteração do nome de um estágio {#changing-the-name-of-a-stage}
 
-Mudar de ideia? Não é um problema. É fácil renomear um estágio no modelador do ciclo de receita.
+Muda de ideia? Não é um problema. Renomear um estágio no modelador do ciclo de receita é fácil.
 
-1. Vá para a área **Analytics**.
+1. Vá para o **Analytics** área.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
@@ -31,4 +30,4 @@ Mudar de ideia? Não é um problema. É fácil renomear um estágio no modelador
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Veem? Calma! Lembre-se de [Aprovar seu Modelo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).
+   Viu? Fácil! Lembrar de [Aprovar o modelo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).

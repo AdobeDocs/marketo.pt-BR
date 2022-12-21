@@ -3,7 +3,6 @@ unique-page-id: 1147296
 description: Salvar uma definição de filtro no Calendário de marketing - Documentos do Marketo - Documentação do produto
 title: Salvar uma definição de filtro no Calendário de marketing
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
@@ -35,7 +34,7 @@ Salvar um filtro permite alternar entre diferentes definições de filtro.
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Se desejar, você pode [enviar uma cópia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md) da definição para outros usuários do Marketo.
+   Se quiser, você pode [enviar uma cópia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md) da definição para outros usuários do Marketo.
 
    >[!NOTE]
    >

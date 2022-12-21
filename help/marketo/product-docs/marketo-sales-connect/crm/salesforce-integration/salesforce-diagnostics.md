@@ -1,208 +1,207 @@
 ---
 unique-page-id: 14745730
-description: Salesforce Diagnostics - Documentos do Marketing - Documentação do produto
+description: Salesforce Diagnostics - Documentos do Marketo - Documentação do produto
 title: Salesforce Diagnostics
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1427'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Salesforce Diagnostics {#salesforce-diagnostics}
 
-Parte de nossa integração com o Salesforce inclui uma página de diagnóstico do Salesforce no aplicativo da Web. Esta página captura erros de registro de dados com falha para o Salesforce. Os erros podem ser úteis, mas nem sempre são legíveis. Assim, montamos uma folha de trapos que ajuda a explicar as mensagens de erro.
+Parte de nossa integração com o Salesforce inclui uma página de diagnóstico do Salesforce no aplicativo Web. Esta página captura erros do registro de dados com falha para o Salesforce. Os erros podem ser úteis, mas nem sempre podem ser lidos. Assim, montamos um gabarito que ajuda a explicar as mensagens de erro.
 
 **Erro:** API_CURRENTLY_DISABLED\
-**Categoria:** Acesso/Validação\
-**Mensagem:a** API está desativada para este usuário\
-**O que está acontecendo:** o usuário não tem acesso à API\
-**Etapas de solução de problemas: o administrador do** Salesforce precisa conceder acesso à API do usuário.
+**Categoria:** Acesso/validação\
+**Mensagem:** A API está desativada para este usuário\
+**O que está acontecendo:** O usuário não tem acesso à API\
+**Etapas de solução de problemas:** O administrador do Salesforce precisa conceder o acesso à API do usuário.
 
 <br> 
 
-**Erro:** AUTHENTICATION_FAILURE\
+**Erro:** AUTENTICATION_FAILURE\
 **Categoria:** Autenticação\
-**Mensagem:** inválido_concessão: falha de autenticação\
-**O que está acontecendo: falha na** autenticação\
-**Etapas de solução de problemas:** desconecte-se do Salesforce e reconecte-se.
+**Mensagem:** invalid_grant: falha de autenticação\
+**O que está acontecendo:** Falha na autenticação\
+**Etapas de solução de problemas:** Desconecte-se do Salesforce e reconecte-se.
 
 <br> 
 
-**Erro:** CANNOT_INSERT_UPDATE_ATIVATE_ENTITY\
-**Categoria:** Acesso/Validação\
-**Mensagem:** {&quot;errorCode&quot;:&quot;INVALID_SESSION_ID&quot;,&quot;mensagem&quot;:&quot;Sessão expirada ou inválida&quot;}\
+**Erro:** CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY\
+**Categoria:** Acesso/validação\
+**Mensagem:** {&quot;errorCode&quot;:&quot;INVALID_SESSION_ID&quot;,&quot;message&quot;:&quot;Sessão expirada ou inválida&quot;}\
 **O que está acontecendo:**
 
 1 - O código do acionador está causando falha na atualização.\
-2 - O usuário não tem permissões de gravação no nível do objeto no objeto em questão.
+2 - O usuário não tem permissões de gravação no nível do objeto em um determinado objeto.
 
 **Etapas de solução de problemas:**
 
 1 - Revise o acionador que está falhando.\
-2 - conceda acesso de gravação ao usuário para o objeto OU desative o recurso que está tentando gravar no objeto.
+2 - Conceda acesso de gravação ao usuário para o objeto OU desative o recurso que está tentando gravar no objeto.
 
 <br> 
 
 **Erro:** CANNOT_UPDATE_CONVERTED_LEAD\
-**Categoria:** Outro\
-**Mensagem:** não é possível referenciar cliente potencial convertido\
-**O que está acontecendo:** estamos tentando fazer logon em um cliente potencial convertido durante o logon de Atividade mais recente para Contatos e Clientes potenciais. Também vi alguns desses para pontos.\
-**Etapas de solução de problemas:** Informe todas as instâncias disso à nossa equipe [ de ](https://nation.marketo.com/t5/Support/ct-p/Support)suporte.
+**Categoria:** Outras\
+**Mensagem:** não é possível referenciar lead convertido\
+**O que está acontecendo:** Estamos tentando fazer logon em um lead convertido durante o Registro de atividade mais recente para contatos e leads. Também vi alguns desses para pontos.\
+**Etapas de solução de problemas:** Relate quaisquer instâncias disso à nossa [equipe de suporte](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 <br> 
 
 **Erro:** ENTITY_IS_LOCKED\
-**Categoria:** Acesso/Validação\
+**Categoria:** Acesso/validação\
 **Mensagem:** a entidade está bloqueada para edição\
-**O que está acontecendo:** o registro está em um processo de aprovação no qual está bloqueado de quaisquer edições adicionais até que seja aprovado ou negado por uma pessoa proprietária da aprovação.\
-**Etapas de solução de problemas:** consulte acima.
+**O que está acontecendo:** O registro está em um processo de aprovação em que é bloqueado de qualquer edição adicional até ser aprovado ou negado por uma pessoa que possui a aprovação.\
+**Etapas de solução de problemas:** Veja acima.
 
 <br> 
 
-**Erro:** EXPIRED_ACCESS 
-**Categoria:** Authentication 
-**Message:** invalid_Grant: token de acesso/atualização expirado 
-**O que está acontecendo:** o token de acesso ou atualização expirou. Os tokens expiram com base em [configurações de sessão no Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
-**Etapas de solução de problemas:** será necessário autenticar novamente. Desconecte a conexão do Salesforce e reconecte-se.
+**Erro:** EXPIRED_ACCESS
+**Categoria:** Autenticação
+**Mensagem:** invalid_grant: token de acesso/atualização expirado
+**O que está acontecendo:** O token de acesso ou atualização expirou. Os tokens expiram com base em [configurações de sessão no Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**Etapas de solução de problemas:** Você precisará autenticar novamente. Desconecte a conexão do Salesforce e reconecte.
 
 <br> 
 
 **Erro:** FAILED_WRITE\
 **Categoria:** Intermitente\
 **Mensagem:** fim do arquivo atingido\
-**O que está acontecendo: problema de** desempenho com o Salesforce, provavelmente devido a acionadores não ideais no lado do cliente.\
-**Etapas de solução de problemas: a lógica de** nova tentativa deve lidar com isso. Se ainda não estiver funcionando, entre em contato com o administrador do Salesforce para solucionar problemas em um acionador problemático.
+**O que está acontecendo:** Problema de desempenho com o Salesforce, provavelmente devido a acionadores com erros ideais no lado do cliente.\
+**Etapas de solução de problemas:** A lógica de repetição deve lidar com isso. Se ainda não estiver funcionando, trabalhe com o administrador do Salesforce para solucionar problemas em um acionador.
 
 <br> 
 
-**Erro:** FIELD_CUSTOM_VALIDATION_EXCEPTION 
-**Categoria:** Access/Validation 
-**Message:** Varia de cliente para cliente.
-**O que está acontecendo:** falha em uma regra de validação personalizada para o objeto.
-**Etapas de solução de problemas:** verifique a regra de validação personalizada que está causando esse erro. Dado que se trata de uma regra personalizada, o erro deve ser tratado numa base pontual.
+**Erro:** FIELD_CUSTOM_VALIDATION_EXCEPTION
+**Categoria:** Acesso/validação
+**Mensagem:** Varia de cliente para cliente.
+**O que está acontecendo:** Falha em uma regra de validação personalizada para o objeto.
+**Etapas de solução de problemas:** Verifique a regra de validação personalizada que está causando esse erro. Uma vez que se trata de uma regra personalizada, o erro deve ser tratado numa base pontual.
 
 <br> 
 
 **Erro:** FIELD_FILTER_VALIDATION_EXCEPTION\
-**Categoria:** Acesso/Validação\
-**Mensagem:** O valor não existe ou não corresponde aos critérios de filtragem\
-**O que está acontecendo: dados incorretos** existentes no Salesforce são aplicados na atualização.\
-**Etapas de solução de problemas:** consulte acima.
+**Categoria:** Acesso/validação\
+**Mensagem:** O valor não existe ou não corresponde aos critérios de filtro\
+**O que está acontecendo:** Dados incorretos existentes no Salesforce são aplicados após a atualização.\
+**Etapas de solução de problemas:** Veja acima.
 
 <br> 
 
 **Erro:** FIELD_INTEGRITY_EXCEPTION\
-**Categoria:** Acesso/Validação\
-**Mensagem:** O país/território existente não reconhece o valor do estado para o campo: Código do Estado/Província\
-**O que está acontecendo: dados incorretos** existentes no Salesforce são aplicados na atualização.\
-**Etapas de solução de problemas:** consulte acima.
+**Categoria:** Acesso/validação\
+**Mensagem:** O país/território existente não reconhece o valor do estado para o campo: Código de Estado/Província\
+**O que está acontecendo:** Dados incorretos existentes no Salesforce são aplicados após a atualização.\
+**Etapas de solução de problemas:** Veja acima.
 
 <br> 
 
 **Erro:** INATIVE_ORGANIZATION\
 **Categoria:** Autenticação\
-**Mensagem:** inválido_concessão: organização inativa\
-**O que está acontecendo:** sua organização Salesforce não está mais ativa.\
-**Etapas de solução de problemas:** desconecte e reconecte-se do Salesforce.
+**Mensagem:** invalid_grant: organização inativa\
+**O que está acontecendo:** Sua organização do Salesforce não está mais ativa.\
+**Etapas de solução de problemas:** Desconecte e reconecte do Salesforce.
 
-**Erro:** INATIVE_USER 
-**Categoria:** Authentication 
-**Message:** invalid_Grant: usuário inativo 
-**O que está acontecendo:** o usuário do Salesforce não está mais ativo 
-**Solução de problemas Etapas:** Desconectar e reconectar do Salesforce.
+**Erro:** INATIVE_USER
+**Categoria:** Autenticação
+**Mensagem:** invalid_grant: usuário inativo
+**O que está acontecendo:** O usuário do Salesforce não está mais ativo
+**Etapas de solução de problemas:** Desconecte e reconecte do Salesforce.
 
 **Erro:** INSERT_UPDATE_DELETE_NOT_ALLOWED_DURING_MAINTENANCE\
 **Categoria:** Intermitente\
-**Mensagem:** (nenhuma mensagem adicional)\
-**O que está acontecendo: a instância** do Salesforce está no modo de manutenção.\
-**Etapas de solução de problemas:** aguarde até que a manutenção do sistema seja concluída e tente novamente o registro.
+**Mensagem:** (sem mensagem adicional)\
+**O que está acontecendo:** A instância do Salesforce está em modo de manutenção.\
+**Etapas de solução de problemas:** Aguarde até que a manutenção do sistema seja concluída e tente novamente o registro.
 
-**Erro:** INSUFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY 
-**Categoria:** Access/Validation 
-**Mensagem:direitos de acesso** insuficientes na ID do objeto 
+**Erro:** INSUFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY
+**Categoria:** Acesso/validação
+**Mensagem:** direitos de acesso insuficientes na id do objeto
 **O que está acontecendo:** Sem acesso ao registro pai de uma tarefa.
-**Etapas de solução de problemas:** consulte acima.
+**Etapas de solução de problemas:** Veja acima.
 
 <br> 
 
 **Erro:** INSUFICIENT_ACCESS_OR_READONLY\
-**Categoria:** Acesso/
-**Mensagem de validação:direitos de acesso** insuficientes na ID do objeto 
-**O que está acontecendo: o registro de Atividades** mais recente não pode editar o registro específico porque o usuário não tem acesso de gravação a.\
-**Etapas de solução de problemas:** conceda ao usuário acesso no Salesforce OU desative o registro de Atividade mais recente para esse objeto para esse usuário.
+**Categoria:** Acesso/validação
+**Mensagem:** direitos de acesso insuficientes na id do objeto
+**O que está acontecendo:** O registro de atividades mais recentes não pode editar o registro específico porque o usuário não tem acesso de gravação para gravação.\
+**Etapas de solução de problemas:** Conceda ao usuário acesso no Salesforce OU desative o registro de atividades mais recentes para esse objeto para esse usuário.
 
 **Erro:** INVALID_FIELD\
 **Categoria:** Intermitente\
 **Mensagem:** Net::ReadTimeout\
-**O que está Acontecendo:** Solicitação está expirando. Isso é provavelmente resultado de muitas transações lentas.\
-**Etapas de solução de problemas:** analise as personalizações existentes para possíveis culpados de problemas de latência e/ou desative o registro de Atividade mais recente para um ou todos os objetos para reduzir a carga.
+**O que está acontecendo:** A solicitação está expirando. Isso provavelmente é resultado de muitas transações lentas.\
+**Etapas de solução de problemas:** Revise as personalizações existentes para possíveis culpados dos problemas de latência e/ou desative o registro de Atividades Mais Recentes para um ou todos os objetos para reduzir a carga.
 
 **Erro:** INVALID_FIELD_FOR_INSERT_UPDATE\
-**Categoria:** Acesso/Validação\
+**Categoria:** Acesso/validação\
 **Mensagem:** Não é possível criar/atualizar campos: ToutApp__Tout_Last_Replied__c. Verifique as configurações de segurança deste campo.
-**O que está acontecendo:** os usuários não têm acesso de gravação aos campos personalizados do Tout necessários para executar a transação de registro de Atividade mais recente. O grupo pode ter instalado o pacote, mas não habilitou os campos corretos para os usuários.\
-**Etapas de solução de problemas: o administrador do** Salesforce precisa conceder acesso aos campos personalizados OU desativar o registro de Atividades mais recentes.
+**O que está acontecendo:** Os usuários não têm acesso de gravação aos campos personalizados do Tout necessários para executar a transação de registro de atividade mais recente. O grupo pode ter instalado o pacote, mas não ativou os campos corretos para os usuários.\
+**Etapas de solução de problemas:** O administrador do Salesforce precisa conceder acesso aos campos personalizados OU desativar o registro de atividades mais recentes.
 
 **Erro:** INVALID_GRANT\
 **Categoria:** Autenticação\
-**Mensagem:** inválido_concessão: ip restrito\
-**O que está acontecendo:** estamos tentando acessar seu Salesforce, mas você tem Restrições de IP em vigor que estão nos impedindo de fazer isso.\
-**Etapas de solução de problemas:** seu administrador do Salesforce precisará lista de permissões nossos IPs. Os usuários devem entrar em contato com o Suporte para obter os endereços IP.
+**Mensagem:** invalid_grant: ip restrito\
+**O que está acontecendo:** Estamos tentando acessar seu Salesforce, mas você tem Restrições de IP em vigor que estão nos impedindo de fazê-lo.\
+**Etapas de solução de problemas:** Seu administrador do Salesforce precisará lista de permissões seus IPs. Os usuários devem entrar em contato com o Suporte para obter os endereços IP.
 
 **Erro:** INVALID_TYPE\
-**Categoria:** Acesso/Validação\
-**Mensagem:** CreatedDate, (SELECT Id FROM Tarefa) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sO tipo de objeto &#39;Lead&#39; não é suportado. Se você estiver tentando usar um objeto personalizado, certifique-se de anexar &#39;__c&#39; após o nome da entidade. Consulte seu WSDL ou a chamada de descrição para obter os nomes apropriados
-**O que está acontecendo:** Estamos tentando query um tipo de objeto do Salesforce ao qual o usuário não tem acesso. Provavelmente, isso está relacionado ao usuário que não tem o acesso correto ao Objeto principal.\
-**Etapas de solução de problemas:** conceda acesso de Leitura e Atualização ao objeto de cliente potencial no Salesforce ou desative o registro de e-mail e o registro de Atividades mais recentes para registros de cliente potencial.
+**Categoria:** Acesso/validação\
+**Mensagem:** CreatedDate, (SELECIONAR Id DE Tarefas) DO Lead ONDE Email=&#39;emailid&#39;^ERROR na Linha:1:Coluna:Tipo de objeto &#39;Lead&#39; 53s não é suportado. Caso queira usar um objeto personalizado, não deixe de anexar o &quot;__c&quot; após o nome da entidade. Consulte seu WSDL ou a chamada de descrição para os nomes apropriados
+**O que está acontecendo:** Estamos tentando consultar um tipo de objeto do Salesforce ao qual o usuário não tem acesso. Isso provavelmente está relacionado ao usuário que não tem o acesso correto ao Objeto de lead.\
+**Etapas de solução de problemas:** Conceda acesso de Leitura e Atualização ao objeto Lead no Salesforce ou desative o registro de e-mail e o registro de Atividade Mais Recente para registros de leads.
 
 **Erro:** QUERY_TIMEOUT\
 **Categoria:** Intermitente\
-**Mensagem:** sua solicitação de query estava sendo executada por muito tempo\
-**O que está acontecendo:** veja acima.\
-**Etapas de solução de problemas: a lógica de** nova tentativa deve lidar com isso. Se ainda não estiver funcionando, entre em contato com o administrador do Salesforce para solucionar problemas em um acionador problemático.
+**Mensagem:** Sua solicitação de consulta estava sendo executada por muito tempo\
+**O que está acontecendo:** Veja acima.\
+**Etapas de solução de problemas:** A lógica de repetição deve lidar com isso. Se ainda não estiver funcionando, trabalhe com o administrador do Salesforce para solucionar problemas em um acionador.
 
 **Erro:** REQUEST_LIMIT_EXCEEDED\
 **Categoria:** Intermitente\
 **Mensagem:**
-1 - Limite de ConcurrentPerOrgLongTxn excedido\
-2 - Limite TotalRequests excedido\
+1 - Limite ConcurrentPerOrgLongTxn excedido\
+2 - Limite de TotalRequests excedido\
 3 - ConcurrentRequest\
 **O que está acontecendo:**
-1 - o limite de solicitação concorrente foi excedido, provavelmente devido ao código de disparo ineficiente.\
-2 - Muitas integrações colocam a organização além da janela acumulada de 24 horas.\
+1 - O limite de solicitação concorrente foi excedido, provavelmente devido ao código de acionador ineficiente.\
+2 - Muitas integrações colocam a organização além da janela do acumulado de 24 horas.\
 **Etapas de solução de problemas:**
-1 - Revise acionadores existentes nos objetos afetados. Possivelmente desative o registro de roll-up para um ou mais objetos.\
-2 - Compre mais chamadas de API do Salesforce. Possivelmente desative o registro de roll-up para um ou mais objetos.
+1 - Revise os acionadores existentes nos objetos afetados. Possivelmente, desative o registro de roll-up de um ou mais objetos.\
+2 - Compre mais chamadas de API do Salesforce. Possivelmente, desative o registro de roll-up de um ou mais objetos.
 
-**Erro:** REQUIRED_FIELD_MISSING\
-**Categoria:** Acesso/Validação\
-**Mensagem:campos** obrigatórios estão ausentes:  `[Amount_Committed_Private_Capital__c]`
-**O que está acontecendo:** isso geralmente acontece no registro de Atividades mais recente. Campos personalizados foram configurados para serem obrigatórios, mas têm valores vazios neles. Isso pode acontecer se o registro tiver sido criado com um valor vazio do campo personalizado e, em seguida, for feito como obrigatório. A exigência é imposta quando estamos tentando atualizar o registro, mesmo que não estejamos tocando no campo personalizado.\
-**Etapas de solução de problemas:atualize** manualmente os valores dos campos ausentes. Em seguida, você pode repetir a mensagem do ToutApp.
+**Erro:** Required_FIELD_MISSING\
+**Categoria:** Acesso/validação\
+**Mensagem:** Campos obrigatórios estão ausentes: `[Amount_Committed_Private_Capital__c]`
+**O que está acontecendo:** Isso geralmente acontece no registro de atividades mais recentes. Campos personalizados foram configurados para serem obrigatórios, mas têm valores vazios. Isso pode acontecer se o registro tiver sido criado com um valor vazio do campo personalizado e tiver sido feito para ser obrigatório. O requisito é aplicado quando estamos tentando atualizar o registro, mesmo que não estejamos tocando no campo personalizado.\
+**Etapas de solução de problemas:** Atualize manualmente os valores dos campos ausentes. Em seguida, você pode repetir a mensagem do ToutApp.
 
 **Erro:** SERVER_UNAVAILABLE\
 **Categoria:** Intermitente\
 **Mensagem:** servidor muito ocupado\
-**O que está acontecendo: problema de** desempenho com o Salesforce, provavelmente devido a acionadores inadequados pelo cliente\
-**Etapas de solução de problemas: a lógica de** nova tentativa deve lidar com isso. Se ainda não estiver funcionando, trabalhe com seu administrador do Salesforce para solucionar problemas em um acionador problemático.
+**O que está acontecendo:** Problema de desempenho com o Salesforce, provavelmente devido a acionadores sub-ideais pelo cliente\
+**Etapas de solução de problemas:** A lógica de repetição deve lidar com isso. Se ainda não estiver funcionando, trabalhe com o administrador do Salesforce para solucionar problemas em um acionador problemático.
 
 **Erro:** TXN_SECURITY_NO_ACCESS\
-**Categoria:** Acesso/Validação\
-**Mensagem:** a operação solicitada não é permitida devido a uma política de segurança em sua organização. Entre em contato com o administrador.<br/>
-**O que está acontecendo:** algum tipo de restrição de segurança foi configurado - consulte https://developer.salesforce.com/forums/?id=&quot;record ID&quot;\
-**Etapas de solução de problemas:** converse com seu administrador do Salesforce e veja qual restrição específica pode ser.
+**Categoria:** Acesso/validação\
+**Mensagem:** A operação solicitada não é permitida devido a uma política de segurança na organização. Entre em contato com o administrador.<br/>
+**O que está acontecendo:** Algum tipo de restrição de segurança foi configurada - consulte https://developer.salesforce.com/forums/?id=&quot;ID de registro&quot;\
+**Etapas de solução de problemas:** Fale com o administrador do Salesforce e veja qual pode ser a restrição específica.
 
 **Erro:** UNABLE_TO_LOCK_ROW\
 **Categoria:** Intermitente\
-**Mensagem:** não é possível obter acesso exclusivo a este registro ou a 1 registros: &quot;record ID&quot;\
-**O que está acontecendo:** provavelmente há um acionador que está causando várias tentativas de acessar o mesmo registro, possivelmente no caso de um email de grupo.\
-**Etapas de solução de problemas: a lógica de** nova tentativa deve lidar com isso. Se ainda não estiver funcionando, entre em contato com o administrador do Salesforce para solucionar problemas em um acionador problemático.
+**Mensagem:** Impossível obter acesso exclusivo a este registro ou a 1 registros: &quot;record ID&quot;\
+**O que está acontecendo:** Provavelmente, há um acionador que está causando várias tentativas de acessar o mesmo registro, possivelmente no caso de um email de grupo.\
+**Etapas de solução de problemas:** A lógica de repetição deve lidar com isso. Se ainda não estiver funcionando, trabalhe com o administrador do Salesforce para solucionar problemas em um acionador.
 
-**Erro:** UNKNOWN_EXCEPTION 
-**Categoria:** Outro\
-**Mensagem:Exceção** Desconhecida\
-**O que está acontecendo: exceção** sem tratamento no Salesforce.\
-**Etapas de solução de problemas:** arquive um caso com o Salesforce e copie os valores numéricos na mensagem de erro. Este é o código do Salesforce que não está manipulando um erro corretamente.
+**Erro:** UNKNOWN_EXCEPTION
+**Categoria:** Outras\
+**Mensagem:** Ocorreu uma Exceção Desconhecida\
+**O que está acontecendo:** Exceção não tratada no Salesforce.\
+**Etapas de solução de problemas:** Registre um caso com o Salesforce e copie os valores numéricos na mensagem de erro. Este é o código Salesforce que não está manipulando um erro corretamente.

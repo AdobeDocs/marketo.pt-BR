@@ -3,7 +3,6 @@ unique-page-id: 1147138
 description: Reagendar um programa inteiro na exibição de agendamento - Documentos da Marketo - Documentação do produto
 title: Reprogramando um Programa Inteiro a partir da Exibição de Programação
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
@@ -11,7 +10,7 @@ ht-degree: 1%
 
 ---
 
-# Reagendando um Programa Inteiro a partir da Visualização de Programação {#rescheduling-an-entire-program-from-the-schedule-view}
+# Reprogramando um Programa Inteiro a partir da Exibição de Programação {#rescheduling-an-entire-program-from-the-schedule-view}
 
 Ao clonar um programa ou evento com datas, você provavelmente desejará reprogramar todas as datas de uma só vez. Veja como.
 
@@ -19,7 +18,7 @@ Ao clonar um programa ou evento com datas, você provavelmente desejará reprogr
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Selecione o menu suspenso Ação do evento . Escolha **Reprogramar Entradas**.
+1. Selecione o menu suspenso Ação do evento . Choose **Reprogramar Entradas**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 

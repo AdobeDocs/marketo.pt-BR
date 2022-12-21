@@ -3,7 +3,6 @@ unique-page-id: 10093192
 description: Criar objetos personalizados do Marketo - Documentos do Marketo - Documentação do produto
 title: Criar objetos personalizados do Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '710'
@@ -17,7 +16,7 @@ Use objetos personalizados no Marketo para rastrear métricas específicas de su
 
 >[!NOTE]
 >
->É possível configurar objetos personalizados para funcionarem de um para muitos ou muitos para muitos. O objeto inicial é criado da mesma forma, mas as etapas são diferentes quando você começa a adicionar campos ao objeto. Consulte [Entendendo objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obter mais informações.
+>É possível configurar objetos personalizados para funcionarem de um para muitos ou muitos para muitos. O objeto inicial é criado da mesma forma, mas as etapas são diferentes quando você começa a adicionar campos ao objeto. Consulte  [Como entender objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obter mais informações.
 
 >[!NOTE]
 >
@@ -27,11 +26,11 @@ Use objetos personalizados no Marketo para rastrear métricas específicas de su
 
 Este exemplo mostra um objeto personalizado Carro, para uso em uma estrutura um para muitos. Posteriormente, você criará um objeto personalizado de curso e um objeto intermediário para usar em uma estrutura muitos para muitos.
 
-1. Clique em **Admin** e, em **Gerenciamento de Banco de Dados** selecione **Marketo Custom Objects**.
+1. Clique em **Administrador** e em **Gerenciamento de banco de dados** select **Objetos personalizados do Marketo**.
 
    ![](assets/image2016-1-18-13-3a12-3a19.png)
 
-1. Clique em **Novo Objeto Personalizado**.
+1. Clique em **Novo objeto personalizado**.
 
    ![](assets/image2016-5-18-16-3a28-3a4.png)
 
@@ -45,9 +44,9 @@ Este exemplo mostra um objeto personalizado Carro, para uso em uma estrutura um 
 
    >[!NOTE]
    >
-   >Você pode editar esses campos ao criá-los, mas depois que eles forem salvos, você só poderá editar o campo Nome do Plural e o controle deslizante **Mostrar em Detalhe do Lead**.
+   >Você pode editar esses campos ao criá-los, mas depois que eles forem salvos, você só poderá editar o campo Nome do Plural e o campo **Mostrar em Detalhes do Cliente Potencial** controle deslizante.
 
-1. Puxe o controle deslizante **Mostrar em Detalhe do Lead** para exibir **Mostrar** se desejar exibir dados de objeto personalizado na página Banco de Dados do Lead. Clique em **Salvar**.
+1. Puxe a **Mostrar em Detalhes do Cliente Potencial** controle deslizante sobre a exibição **Mostrar** se quiser exibir dados de objeto personalizado na página Banco de Dados de Lead. Clique em **Salvar**.
 
    ![](assets/image2015-9-15-16-3a32-3a2.png)
 
@@ -55,11 +54,11 @@ Este exemplo mostra um objeto personalizado Carro, para uso em uma estrutura um 
 
    ![](assets/image2015-9-15-16-3a38-3a22.png)
 
-   A próxima etapa é adicionar campos a [criar o objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
+   A próxima etapa é adicionar campos ao [criar o objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
    >[!NOTE]
    >
-   >Você só pode preencher objetos personalizados do Marketo por meio de uma importação de lista ou da [API](https://developers.marketo.com/documentation/rest/).
+   >Você só pode preencher os Objetos Personalizados do Marketo por meio de uma importação de lista ou do [API](https://developers.marketo.com/documentation/rest/).
 
 ## Criar um objeto personalizado para uma estrutura de muitas para muitas {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -69,11 +68,11 @@ Este exemplo mostra um objeto personalizado de curso, que será usado para criar
 >
 >Para uma relação muitos para muitos, não é necessário criar um link no objeto personalizado. Em vez disso, você adicionará dois links ao objeto intermediário (veja abaixo).
 
-1. Clique em **Admin** e, em **Gerenciamento de Banco de Dados** selecione **Marketo Custom Objects**.
+1. Clique em **Administrador** e em **Gerenciamento de banco de dados** select **Objetos personalizados do Marketo**.
 
    ![](assets/image2016-1-18-13-3a16-3a25.png)
 
-1. Clique em **Novo Objeto Personalizado**.
+1. Clique em **Novo objeto personalizado**.
 
    ![](assets/image2016-5-18-16-3a32-3a42.png)
 
@@ -83,9 +82,9 @@ Este exemplo mostra um objeto personalizado de curso, que será usado para criar
 
    >[!NOTE]
    >
-   >Você pode editar esses campos ao criá-los, mas depois que eles forem salvos, você só poderá editar o campo Nome do Plural e o controle deslizante **Mostrar em Detalhe do Lead**.
+   >Você pode editar esses campos ao criá-los, mas depois que eles forem salvos, você só poderá editar o campo Nome do Plural e o campo **Mostrar em Detalhes do Cliente Potencial** controle deslizante.
 
-1. Puxe o controle deslizante **Mostrar em Detalhe do Lead** para exibir **Mostrar** se desejar exibir dados de objeto personalizado na página Banco de Dados do Lead. Clique em **Salvar**.
+1. Puxe a **Mostrar em Detalhes do Cliente Potencial** controle deslizante sobre a exibição **Mostrar** se quiser exibir dados de objeto personalizado na página Banco de Dados de Lead. Clique em **Salvar**.
 
    ![](assets/image2016-1-14-13-3a42-3a56.png)
 
@@ -95,7 +94,7 @@ Este exemplo mostra um objeto personalizado de curso, que será usado para criar
 
    >[!NOTE]
    >
-   >Você só pode preencher objetos personalizados do Marketo por meio de uma importação de lista ou da [API](https://developers.marketo.com/documentation/rest/).
+   >Você só pode preencher os Objetos Personalizados do Marketo por meio de uma importação de lista ou do [API](https://developers.marketo.com/documentation/rest/).
 
 A próxima etapa é criar o objeto intermediário (veja abaixo). Mas antes disso, é necessário criar um campo para vincular a com ele.
 
@@ -107,11 +106,11 @@ Use um objeto intermediário para conectar um objeto personalizado a pessoas ou 
 >
 >Não é necessário criar um objeto intermediário para uma estrutura de objeto personalizada de um para muitos.
 
-1. Clique em **Admin** e, em **Gerenciamento de Banco de Dados**, selecione **Marketo Custom Objects**.
+1. Clique em **Administrador** e em **Gerenciamento de banco de dados**, selecione **Objetos personalizados do Marketo**.
 
    ![](assets/image2016-1-18-13-3a17-3a40.png)
 
-1. Clique em **Novo Objeto Personalizado**.
+1. Clique em **Novo objeto personalizado**.
 
    ![](assets/image2016-5-18-16-3a33-3a16.png)
 
@@ -123,13 +122,13 @@ Use um objeto intermediário para conectar um objeto personalizado a pessoas ou 
    >
    >É possível editar esses campos ao criá-los, mas depois que eles forem salvos, você só poderá editar o campo Nome do Plural e o controle deslizante Mostrar em Detalhes do lead .
 
-1. Puxe o controle deslizante **Mostrar em Detalhe do Lead** para exibir **Mostrar** se desejar exibir dados de objeto personalizado na página Banco de Dados do Lead. Clique em **Salvar**.
+1. Puxe a **Mostrar em Detalhes do Cliente Potencial** controle deslizante sobre a exibição **Mostrar** se quiser exibir dados de objeto personalizado na página Banco de Dados de Lead. Clique em **Salvar**.
 
    ![](assets/image2016-1-14-14-3a12-3a49.png)
 
 1. As informações do objeto personalizado exibem o conteúdo inserido. Observe que está em um estado de Rascunho.
 
-   A próxima etapa é [adicionar campos de link](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) para conectar o objeto intermediário a uma pessoa/empresa e um objeto personalizado.
+   O próximo passo é [adicionar campos de link](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) para conectar seu objeto intermediário a uma pessoa/empresa e um objeto personalizado.
 
 >[!MORELIKETHIS]
 >

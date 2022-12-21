@@ -3,7 +3,6 @@ unique-page-id: 2949232
 description: SEO - Gerenciamento de listas - Documentos do Marketo - Documentação do produto
 title: SEO - Gerenciamento de listas
 exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 É possível adicionar itens a listas ao adicionar palavras-chave, páginas, problemas de página ou links de entrada. As listas ajudam você a se manter organizado e permitem que você filtre os relatórios para ver somente os dados nessa lista. Veja como fazê-los:
 
-1. Clique em **Adicionar Palavras-Chave**.
+1. Clique em **Adicionar palavras-chave**.
 
    >[!NOTE]
    >

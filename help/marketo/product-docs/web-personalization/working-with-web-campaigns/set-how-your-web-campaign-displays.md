@@ -1,21 +1,20 @@
 ---
 unique-page-id: 12978906
-description: Defina como sua Campanha da Web é exibida - Documentos do Marketing - Documentação do produto
-title: Defina como sua Campanha da Web é exibida
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Defina como sua campanha da Web será exibida - Documentos do Marketo - Documentação do produto
+title: Definir como sua campanha da Web é exibida
+exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Definir como sua campanha da Web é exibida {#set-how-your-web-campaign-displays}
 
-# Defina como sua Campanha da Web é exibida {#set-how-your-web-campaign-displays}
+Há vários métodos a serem utilizados quando a sua campanha da Web for exibida.
 
-Há vários métodos a serem utilizados quando se trata de quando/como sua campanha da Web é exibida.
-
-## Carregamento de página {#page-load}
+## Carregar página {#page-load}
 
 Selecionada por padrão, essa opção simplesmente exibe a campanha após o carregamento da página.
 
@@ -23,23 +22,23 @@ Selecionada por padrão, essa opção simplesmente exibe a campanha após o carr
 
 ## Atraso {#delay}
 
-Especifique um atraso (no total de segundos) para que as campanhas da Web reajam em seu site.
+Especifique um atraso de tempo (no total de segundos) para que as campanhas da Web reajam em seu site.
 
-1. Clique no menu suspenso **Exibir em** e selecione **Atraso**.
+1. Clique no botão **Exibir em** e selecione **Atraso**.
 
    ![](assets/d1.png)
 
-1. Clique na lista suspensa **Aguardar** e selecione a quantidade de tempo desejada.
+1. Clique no botão **Aguardar** e selecione a quantidade de tempo desejada.
 
    ![](assets/d2.png)
 
 ## Rolar {#scroll}
 
-1. Clique no menu suspenso **Exibir em** e selecione **Rolar**.
+1. Clique no botão **Exibir em** e selecione **Rolar**.
 
    ![](assets/s1.png)
 
-1. Clique na lista suspensa **Quando** e selecione quando deseja que a campanha da Web seja exibida.
+1. Clique no botão **When** e selecione quando deseja que sua campanha da Web seja exibida.
 
    ![](assets/s2.png)
 
@@ -47,10 +46,10 @@ Especifique um atraso (no total de segundos) para que as campanhas da Web reajam
  <tbody> 
   <tr> 
    <td><strong>Abaixo da dobra</strong></td> 
-   <td>Exibe a campanha quando o visitante rola abaixo da dobra. A campanha desaparece quando o visitante rola para trás acima da dobra.</td> 
+   <td>Exibe a campanha quando o visitante rola abaixo da dobra. A campanha desaparece quando o visitante rola para cima da dobra.</td> 
   </tr> 
   <tr> 
-   <td><strong>Porcentagem</strong></td> 
+   <td><strong>Percentual</strong></td> 
    <td>Exibe a campanha quando o visitante rola para uma porcentagem predeterminada da página.</td> 
   </tr> 
   <tr> 
@@ -60,18 +59,18 @@ Especifique um atraso (no total de segundos) para que as campanhas da Web reajam
  </tbody> 
 </table>
 
-## Propósito de saída {#exit-intent}
+## Intenção de sair {#exit-intent}
 
-O propósito de saída exibirá a campanha da Web quando o cursor do mouse sair do navegador.
+A intenção de saída exibirá a campanha da Web na saída do navegador do cursor do mouse.
 
-1. Clique no menu suspenso **Exibir em** e selecione **Propósito de saída**.
+1. Clique no botão **Exibir em** e selecione **Propósito de saída**.
 
    ![](assets/ei1.png)
 
-1. Uma mensagem é exibida lembrando que o Propósito de saída não é compatível com dispositivos móveis.
+1. Será exibida uma mensagem lembrando que a intenção de saída não é compatível com o dispositivo móvel.
 
    ![](assets/ei2.png)
 
 >[!TIP]
 >
->Quer ver como serão os efeitos escolhidos com antecedência? Confira-os por meio de uma Pré-visualização [Campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Quer ver como os seus efeitos escolhidos irão olhar com antecedência? Dê uma olhada [Visualização da campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

@@ -3,7 +3,6 @@ unique-page-id: 2360496
 description: Adicionar vários valores a um filtro de lista inteligente - Documentos do Marketo - Documentação do produto
 title: Adicionar vários valores a um filtro de lista inteligente
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
@@ -19,17 +18,17 @@ ht-degree: 0%
 >* [Localizar e adicionar filtros a uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
 
-Digamos que você deseja encontrar todos na Califórnia, mas pode estar armazenando ambos **Califórnia** e **CA** em seu banco de dados. Para incluir todas as pessoas aplicáveis, você pode usar dois filtros **State**, mas é mais fácil com um.
+Digamos que você quer encontrar todos na Califórnia, mas você pode estar armazenando os dois **Califórnia** e **CA** no seu banco de dados. Para incluir todas as pessoas aplicáveis, você pode usar dois **Estado** filtros, mas é mais fácil com um.
 
-1. Vá para **Marketing Activities**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Encontre e selecione uma lista inteligente e clique na guia **Smart List**.
+1. Encontre e selecione uma lista inteligente e clique no botão **Lista inteligente** guia .
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Clique em **+** no filtro.
+1. Clique no botão **+** no filtro.
 
    ![](assets/smartlist-plussignhand-.png)
 

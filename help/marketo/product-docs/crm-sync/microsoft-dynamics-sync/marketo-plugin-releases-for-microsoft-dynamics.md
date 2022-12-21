@@ -41,57 +41,57 @@ Ao sincronizar com o Microsoft Dynamics pela primeira vez, você baixa a versão
   </tr> 
   <tr> 
    <td colspan="1">5.0.1.1</td> 
-   <td colspan="1">04/02/21</td> 
+   <td colspan="1">02/04/21</td> 
    <td colspan="1">Suporte para sincronização de campos Multiselect Optionset (esse recurso está disponível somente para V9.X e superior). .</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.2.0.0</td> 
-   <td colspan="1">16/10/20</td> 
+   <td colspan="1">10/16/20</td> 
    <td colspan="1">Adição de Suporte para Sincronização do Campaign com o MS Dynamics.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
-   <td colspan="1">22/8/18</td> 
+   <td colspan="1">8/22/18</td> 
    <td colspan="1">Adição de suporte para lead pronto para uso para o processo de contato do Microsoft Dynamics versão 9.x.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.23</td> 
-   <td colspan="1">27/6/18</td> 
+   <td colspan="1">6/27/18</td> 
    <td colspan="1">Correção de erros: Erro no processo de negócios ao tentar instalar as soluções da Marketo para o Dynamics 2013.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.22</td> 
-   <td colspan="1">29/9/17</td> 
+   <td colspan="1">9/29/17</td> 
    <td colspan="1">Correção de erros: Revisão interna.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
-   <td colspan="1">9/11/16</td> 
+   <td colspan="1">11/9/16</td> 
    <td colspan="1">Correção de erros: O plug-in não assinou eventos que capturam a alteração de estado do objeto personalizado. Essa correção é específica do Dynamics CRM On Premise 2011. </td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
-   <td colspan="1">22/7/16</td> 
+   <td colspan="1">7/22/16</td> 
    <td colspan="1">Correção de erros: As atualizações da função de contato da oportunidade não foram capturadas completamente.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.19</td> 
-   <td colspan="1">28/6/16</td> 
+   <td colspan="1">6/28/16</td> 
    <td colspan="1"><p>Correção de erros: Uma transação de atualização desnecessária na função de oportunidade do cliente no log de marketing foi anotada quando a oportunidade foi criada. </p><p>Correção de erros: Uma transação de exclusão extra foi registrada ao excluir a entidade customeroportunityrole.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
-   <td colspan="1">31/5/16</td> 
+   <td colspan="1">5/31/16</td> 
    <td colspan="1">Correção de erros: Atualização e exclusão de objetos personalizados assíncronos.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.17</td> 
-   <td colspan="1">8/4/16</td> 
+   <td colspan="1">4/8/16</td> 
    <td colspan="1">Correção de erros: Quando o lead tinha um filtro de sincronização definido como NO e a oportunidade e o contato não tinham um filtro de sincronização, o log de criação não era gerado para o contato e a oportunidade quando o lead era qualificado.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.16</td> 
-   <td colspan="1">29/3/16</td> 
+   <td colspan="1">3/29/16</td> 
    <td>Correção de erros: Um evento Atribuir foi registrado quando o filtro de sincronização foi desativado.</td> 
   </tr> 
   <tr> 
@@ -101,17 +101,17 @@ Ao sincronizar com o Microsoft Dynamics pela primeira vez, você baixa a versão
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.14</td> 
-   <td colspan="1">18/1/16</td> 
+   <td colspan="1">1/18/16</td> 
    <td colspan="1">Correção de erros: Limites de acesso criados para usuários normais do Dynamics para lidar com questões de segurança.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.13</td> 
-   <td colspan="1">30/12/15</td> 
+   <td colspan="1">12/30/15</td> 
    <td>Correção de erros: As atualizações no Dynamics não estavam sincronizando o Marketo para etapas e imagens.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.12</td> 
-   <td colspan="1">12/11/15</td> 
+   <td colspan="1">11/12/15</td> 
    <td colspan="1">Correção de erros: Os registros de lead estavam sincronizando com o Marketo quando o filtro de sincronização estava definido como falso.</td> 
   </tr> 
  </tbody> 

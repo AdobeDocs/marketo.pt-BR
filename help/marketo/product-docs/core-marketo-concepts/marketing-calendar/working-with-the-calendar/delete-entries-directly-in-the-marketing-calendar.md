@@ -3,7 +3,6 @@ unique-page-id: 2953358
 description: Excluir Entradas Diretamente No Calendário De Marketing - Documentos Do Marketo - Documentação Do Produto
 title: Excluir Entradas Diretamente No Calendário De Marketing
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
@@ -11,9 +10,9 @@ ht-degree: 2%
 
 ---
 
-# Excluir entradas diretamente no calendário de marketing {#delete-entries-directly-in-the-marketing-calendar}
+# Excluir Entradas Diretamente No Calendário De Marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Além das entradas [criar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) e [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), você pode excluí-las diretamente no Calendário de marketing. Veja como.
+Além de [criação](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) e [edição](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) entradas, você pode excluí-las diretamente no Calendário de marketing. Veja como.
 
 1. Vá para o **Calendário**.
 

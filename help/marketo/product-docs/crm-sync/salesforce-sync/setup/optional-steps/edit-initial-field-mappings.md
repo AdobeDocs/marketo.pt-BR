@@ -3,7 +3,6 @@ unique-page-id: 4719287
 description: Editar mapeamentos de campo inicial - Documentos do Marketo - Documentação do produto
 title: Editar mapeamentos de campo inicial
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Editar Mapeamentos de Campo Iniciais {#edit-initial-field-mappings}
+# Editar mapeamentos de campo inicial {#edit-initial-field-mappings}
 
 >[!NOTE]
 >
->Esse recurso só pode ser acessado antes da sincronização inicial com o Salesforce! Depois que o botão **Sync Now** é pressionado, isso não pode mais ser feito.
+>Esse recurso só pode ser acessado antes da sincronização inicial com o Salesforce! Uma vez **Sincronizar agora** for pressionado, isso não poderá mais ser feito.
 
 Durante a sincronização inicial com o Salesforce, o Marketo combina automaticamente campos personalizados com nomes semelhantes em um único campo no lado do Marketo para garantir que os dados possam ser trocados com os objetos Lead e Contact no CRM. Este artigo explica como personalizar esses mapeamentos.
 
@@ -27,7 +26,7 @@ Ao visualizar um campo na pasta Campos não mapeados, significa que ele não est
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Abra a pasta **Campos personalizados não mapeados**.
+1. Abra o **Campos personalizados não mapeados** pasta.
 
    ![](assets/two.png)
 
@@ -51,7 +50,7 @@ Se você tiver campos com nomes semelhantes no objeto de lead e contato, o Marke
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
-1. Realce um campo mapeado e clique em **Break Mapping** para separar os campos.
+1. Realce um campo mapeado e clique em **Mapeamento de quebras** para separar os campos.
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 

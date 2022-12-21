@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2949279
-description: Atualizar o complemento de email do Marketo para Outlook - Documentos do Marketo - Documentação do produto
-title: Atualizar o Suplemento do Marketo Email para Outlook
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+description: Atualizar seu Suplemento de email do Marketo para Outlook - Documentos do Marketo - Documentação do produto
+title: Atualizar o Suplemento de Email do Marketo para Outlook
+exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '405'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
+# Atualizar o Suplemento de Email do Marketo para Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
-# Atualizar seu Suplemento de Email do Marketo para Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
-
-Quando uma nova versão do Suplemento de email do Marketo para Outlook estiver disponível, siga estas instruções para atualizar.
+Quando uma nova versão do Marketo Email Add-in for Outlook estiver disponível, siga estas instruções para atualizar.
 
 >[!NOTE]
 >
@@ -117,11 +116,11 @@ Baixe o instalador apropriado para sua versão do Microsoft Outlook.
  </tbody> 
 </table>
 
-*Versão do Office 365: Somente cliente Windows (no Windows 10, Enterprise ou Pro).
+&#42;Versão do Office 365: Somente cliente Windows (no Windows 10, Enterprise ou Pro).
 
 ## Atualizar {#upgrade}
 
-1. Identifique a sua [versão do Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+1. Identifique o [Versão do Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
 
 1. Selecione a versão na lista acima.
 
@@ -129,7 +128,7 @@ Baixe o instalador apropriado para sua versão do Microsoft Outlook.
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. Clique em **Next**.
+1. Clique em **Próximo**.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -141,7 +140,7 @@ Baixe o instalador apropriado para sua versão do Microsoft Outlook.
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. Você notará que todas as suas informações estão preenchidas previamente. Basta clicar em **Next**.
+1. Você notará que todas as suas informações estão preenchidas previamente. Basta clicar em **Próximo**.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -149,11 +148,11 @@ Baixe o instalador apropriado para sua versão do Microsoft Outlook.
    >
    >Se a instalação falhar, trabalhe com o departamento de TI para garantir que o tráfego HTTPS não seja bloqueado. O instalador requer que o tráfego HTTPS seja aberto.
 
-1. Clique em **Next** para instalar no local padrão.
+1. Clique em **Próximo** para instalar no local padrão.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Clique em **Next**.
+1. Clique em **Próximo**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
@@ -168,5 +167,5 @@ Baixe o instalador apropriado para sua versão do Microsoft Outlook.
 >[!MORELIKETHIS]
 >
 >* [Enviar e rastrear um email com o complemento de email do Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Enviar e rastrear a partir do Outlook usando um modelo de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Enviar e rastrear a partir do Outlook usando um modelo do Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 14352468
-description: Importar contatos via CSV - Documentos do Marketing - Documentação do produto
-title: Importar Contatos via CSV
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Importar contatos por CSV - Documentos do Marketo - Documentação do produto
+title: Importar contatos por CSV
+exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
+# Importar contatos por CSV {#import-contacts-via-csv}
 
-# Importar Contatos via CSV {#import-contacts-via-csv}
+Ter contatos na página Pessoas é importante porque é onde extraímos para preencher automaticamente informações personalizadas nos campos dinâmicos em seus modelos. Certifique-se de ter pelo menos um nome e um endereço de email para cada contato no CSV e mapear para esses campos.
 
-Ter contatos na página de Pessoas é importante porque é de onde passamos para preencher automaticamente informações personalizadas nos campos dinâmicos em seus modelos. Certifique-se de ter pelo menos um nome e um endereço de email para cada contato em seu CSV e mapear para esses campos.
-
-1. Selecione seu grupo (ou crie um novo) na guia Pessoas.
+1. Selecione o grupo (ou crie um novo) na guia Pessoas.
 
    ![](assets/one.png)
 
@@ -37,6 +36,6 @@ Ter contatos na página de Pessoas é importante porque é de onde passamos para
 
    ![](assets/four.png)
 
-1. Mapeie as colunas em seu CSV para seus respectivos campos no Sales Connect. Clique em **Próximo** quando terminar.
+1. Mapeie as colunas em seu CSV para seus respectivos campos no Sales Connect. Clique em **Próximo** quando concluído.
 
    ![](assets/five.png)

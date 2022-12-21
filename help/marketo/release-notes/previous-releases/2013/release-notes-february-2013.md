@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Notas de versão: Fevereiro de 2013 {#release-notes-february}
 
-A versão de fevereiro inclui um recurso altamente solicitado, suporte para o Apple Safari e outros pequenos aprimoramentos.
+A versão de fevereiro inclui um recurso altamente solicitado, suporte para o Apple Safari e outras pequenas melhorias.
 
 ## Suporte oficial para o Apple Safari {#official-support-for-apple-safari}
 
-As versões mais recentes do Apple Safari para Mac e Windows são totalmente compatíveis para uso com o Marketo Lead Management. Observação: O Safari no iOS não é totalmente compatível.
+As versões mais recentes do Apple Safari para Mac e Windows são totalmente compatíveis para uso com o Gerenciamento de clientes potenciais da Marketo. Observação: O Safari no iOS não é totalmente compatível.
 
 ## Aprimoramentos de Webhooks {#webhooks-enhancements}
 
@@ -32,4 +32,4 @@ As guias do facebook publicadas do Marketo detectarão dispositivos móveis e os
 
 ## Em breve: Suporte para vários modelos {#coming-soon-support-for-multiple-models}
 
-Estamos preparando o terreno para suportar vários modelos de ciclo de receita, votamos a ideia nº 1 para RCA na Comunidade, em uma versão futura. Nesta versão, você notará algumas alterações, incluindo [Filtros da Smart List e Adicionar escolhas nas etapas de fluxo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) para suportar a seleção de um modelo e estágio. Também estamos movendo os campos Estágio da receita do cliente potencial e Modelo do ciclo da receita do cliente potencial para fora da guia Grade de lead da lista inteligente.
+Estamos preparando o terreno para suportar vários modelos de ciclo de receita, votamos a ideia nº 1 para RCA na Comunidade, em uma versão futura. Nesta versão, você observará algumas alterações, incluindo [Filtros de Smart List e Adicionar Opções em Etapas de Fluxo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) apoiar a seleção de um modelo e de um estágio. Também estamos movendo os campos Estágio da receita do cliente potencial e Modelo do ciclo da receita do cliente potencial para fora da guia Grade de lead da lista inteligente.

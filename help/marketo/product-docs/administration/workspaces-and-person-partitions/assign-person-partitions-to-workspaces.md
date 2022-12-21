@@ -3,7 +3,6 @@ unique-page-id: 2360317
 description: Atribuir partições de pessoa a espaços de trabalho - Documentos do Marketo - Documentação do produto
 title: Atribuir Partições de Pessoa a Espaços de Trabalho
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
@@ -25,7 +24,7 @@ Veja como editar as atribuições de partição de pessoa/espaço de trabalho:
 
 >[!CAUTION]
 >
->Espaços de trabalho e Partições de pessoa podem ser complexos. Entre em contato com [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support) para obter ajuda na configuração.
+>Espaços de trabalho e Partições de pessoa podem ser complexos. Entre em contato  [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obter ajuda na sua configuração.
 
 1. Em Admin, clique em **Espaços de trabalho e partições**.
 
@@ -43,7 +42,7 @@ Veja como editar as atribuições de partição de pessoa/espaço de trabalho:
 
    ![](assets/three-3.png)
 
-   As partições de pessoa principal são o padrão em que todos os povos serão inseridos. Use [etapas de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou [regras de atribuição](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) para mover as pessoas.
+   As partições de pessoa principal são o padrão em que todos os povos serão inseridos. Use [etapas de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou [regras de atribuição](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) para movimentar pessoas.
 
 1. Clique em **Salvar**.
 
@@ -57,4 +56,4 @@ Parabéns! O espaço de trabalho foi editado com êxito!
 
 >[!MORELIKETHIS]
 >
->[Noções básicas sobre espaços de trabalho e partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>[Como entender espaços de trabalho e partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).

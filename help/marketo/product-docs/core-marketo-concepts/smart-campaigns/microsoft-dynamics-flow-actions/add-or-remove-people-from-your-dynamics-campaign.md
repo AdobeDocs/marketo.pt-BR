@@ -2,7 +2,6 @@
 description: Adicionar ou remover pessoas de sua campanha dinâmica - Documentos do Marketo - Documentação do produto
 title: Adicionar ou remover pessoas de sua campanha dinâmica
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '320'
@@ -12,9 +11,9 @@ ht-degree: 0%
 
 # Adicionar ou remover pessoas de sua campanha dinâmica {#add-or-remove-people-from-your-dynamics-campaign}
 
-## Adicionar à Campanha Dinâmica {#add-to-dynamics-campaign}
+## Adicionar ao Dynamics Campaign {#add-to-dynamics-campaign}
 
-Esta etapa do fluxo pode ser usada em Campanhas inteligentes do Marketo para adicionar pessoas como leads ou contatos em uma campanha da Microsoft. Se o lead ainda não existir no Dynamics, será sincronizado automaticamente e adicionado à campanha.
+Essa etapa do fluxo pode ser usada em Campanhas inteligentes do Marketo para adicionar pessoas como leads ou contatos em uma campanha do Microsoft. Se o lead ainda não existir no Dynamics, será sincronizado automaticamente e adicionado à campanha.
 
 >[!NOTE]
 >
@@ -32,13 +31,13 @@ Em sua campanha inteligente, encontre e selecione a campanha Dynamics à qual de
 >* A campanha não está ativa no Microsoft Dynamics
 
 
-O sistema cria automaticamente uma Lista de marketing estático específica da campanha, cada uma para leads e contatos, para adicioná-la. É uma ação única e, uma vez, para sincronizações subsequentes da campanha, a mesma Lista de marketing é usada. O padrão de nomenclatura adotado para o nome estático da Lista de marketing é `Mkto-leads-<uniqueID>` para leads e `Mkto-contacts-<uniqueID>` para contatos.
+O sistema cria automaticamente uma Lista de marketing estático específica da campanha, cada uma para leads e contatos, para adicioná-la. É uma ação única e, uma vez, para sincronizações subsequentes da campanha, a mesma Lista de marketing é usada. O padrão de nomenclatura adotado para o nome estático da Lista de marketing é `Mkto-leads-<uniqueID>` para clientes potenciais e `Mkto-contacts-<uniqueID>` para contatos.
 
 Associar essas listas de marketing geradas pelo Marketo a outras campanhas pode levar a comportamentos confusos. Por exemplo: adicionar a uma campanha também resultaria na adição à segunda campanha. Da mesma forma, não é recomendado dissociar a Lista de marketing gerada pela Marketo da Campanha no Dynamics.
 
 ## Remover do Dynamics Campaign {#remove-from-dynamics-campaign}
 
-Esta etapa do fluxo pode ser usada nas Campanhas inteligentes do Marketo para remover pessoas de uma campanha da Microsoft. Isso remove somente os leads de uma Campanha que foram adicionados anteriormente à Campanha por meio da ação de fluxo &quot;Adicionado ao Microsoft Campaign&quot;.
+Esta etapa do fluxo pode ser usada nas Campanhas inteligentes do Marketo para remover pessoas de uma campanha do Microsoft. Isso remove somente os leads de uma Campanha que foram adicionados anteriormente à Campanha por meio da ação de fluxo &quot;Adicionado ao Microsoft Campaign&quot;.
 
 >[!NOTE]
 >

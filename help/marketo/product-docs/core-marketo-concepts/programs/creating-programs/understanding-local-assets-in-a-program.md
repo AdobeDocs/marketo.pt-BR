@@ -3,7 +3,6 @@ unique-page-id: 1147093
 description: Noções básicas sobre ativos locais em um programa - Documentos da Marketo - Documentação do produto
 title: Noções básicas sobre ativos locais em um programa
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
@@ -11,7 +10,7 @@ ht-degree: 21%
 
 ---
 
-# Como entender os ativos locais em um programa {#understanding-local-assets-in-a-program}
+# Noções básicas sobre ativos locais em um programa {#understanding-local-assets-in-a-program}
 
 Os ativos locais são o conteúdo que compõe seu programa. Os ativos são personalizáveis e permitem que você crie iniciativas de marketing automatizadas. Veja a seguir a maioria dos ativos locais que você pode criar em um programa:
 
@@ -29,7 +28,7 @@ Os ativos locais são o conteúdo que compõe seu programa. Os ativos são perso
 * [E-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 * [Notificações por push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
 * [Página](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-* [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+* [Formulários](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 * [Grupo de teste](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
 * [Botão social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
 * [Vídeo do YouTube](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md)

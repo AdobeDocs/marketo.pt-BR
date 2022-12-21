@@ -1,33 +1,32 @@
 ---
 unique-page-id: 45416564
-description: Ativar a gravação de chamada - Documentos do marketing - Documentação do produto
-title: Ativar gravação de chamada
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Ativar registro de chamada - Documentos do Marketo - Documentação do produto
+title: Ativar registro de chamada
+exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
+# Ativar registro de chamada {#enable-call-recording}
 
-# Ativar a gravação de chamada {#enable-call-recording}
-
-Como administrador, você pode ativar a gravação de chamadas para suas chamadas do Sales Connect. Gravar as chamadas de sua equipe pode ser uma excelente maneira de instruir seus representantes de vendas sobre as melhores práticas de atendimento.
+Como administrador, você pode habilitar a gravação de chamadas para suas chamadas do Sales Connect. Gravar as ligações de sua equipe pode ser uma ótima maneira de instruir seus representantes de vendas sobre as melhores práticas de atendimento.
 
 1. Clique no ícone Configurações e selecione **Configurações**.
 
    ![](assets/one.png)
 
-1. Em Configurações administrativas, clique em **Geral**.
+1. Em Configurações de administração, clique em **Geral**.
 
    ![](assets/two.png)
 
-1. Role para baixo até Configurações de telefone do Connect de vendas e selecione a opção **Ativar gravação de chamada**.
+1. Role para baixo até Configurações de telefone da conexão de vendas e selecione o **Habilitar gravação de chamada** alternar.
 
    ![](assets/three.png)
 
-1. Se você quiser dar aos seus vendedores a capacidade de habilitar ou desabilitar a gravação de chamada para eles mesmos, clique em **Gravação opcional para todos os membros da equipe**. Se quiser que todas as chamadas sejam gravadas automaticamente, clique em **Registrar todas as chamadas**.
+1. Se quiser dar aos seus vendedores a capacidade de ativar ou desativar a gravação de chamada para si mesmos, clique em **Gravação opcional para todos os membros da equipe**. Se desejar que todas as chamadas sejam registradas automaticamente, clique em **Registrar todas as chamadas**.
 
    ![](assets/four.png)
 

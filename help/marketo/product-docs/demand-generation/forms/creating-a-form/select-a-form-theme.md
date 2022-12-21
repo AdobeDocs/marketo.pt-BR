@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359400
-description: Selecione um tema de formulário - Documentos do marketing - Documentação do produto
-title: Selecionar um tema de formulário
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Selecione um tema de formulário - Documentos do Marketo - Documentação do produto
+title: Selecionar um Tema de Formulário
+exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Selecionar um Tema de Formulário {#select-a-form-theme}
 
-# Selecione um tema de formulário {#select-a-form-theme}
+Fizemos um monte de temas bonitos para suas formas. De qual você gosta mais?
 
-Fizemos um monte de temas bonitos para seus formulários. De qual você mais gosta?
-
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,23 +22,23 @@ Fizemos um monte de temas bonitos para seus formulários. De qual você mais gos
 
    ![](assets/editform.png)
 
-1. Vá para **Configurações do formulário**.
+1. Ir para **Configurações do formulário**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Alterne para frente e para trás para escolher **Tema de formulário** do seu gosto.
+1. Alterne para frente e para trás para escolher a variável **Tema do formulário** do seu gosto.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
-   Atualmente, existem 7 temas incorporados:
+   Atualmente, há 7 temas incorporados:
 
    * Simples
-   * Inset
+   * Inserção
    * Brilho
-   * Round
+   * Redondo
    * Escuro
    * Sombra
-   * Simples
+   * Sem formatação
 
    >[!TIP]
    >
@@ -49,10 +48,10 @@ Fizemos um monte de temas bonitos para seus formulários. De qual você mais gos
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
-Quão fácil foi isso?! Você pode deixar seu livro HTML/CSS coletar poeira agora.
+Quão fácil foi isso?! Você pode deixar seu livro de HTML/CSS coletar poeira agora.
 
 >[!MORELIKETHIS]
 >
->* [Editar o CSS de um tema de formulário](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [Editar o CSS de um Tema de Formulário](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Adicionar um campo a um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
 

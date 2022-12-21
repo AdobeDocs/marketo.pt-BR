@@ -5,8 +5,8 @@ title: SEO - Adicionar um URL de link de entrada manualmente
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
 source-git-commit: 0957b4475cc27075b428c9514971353e31d0d89c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 2%
 
 ---
 

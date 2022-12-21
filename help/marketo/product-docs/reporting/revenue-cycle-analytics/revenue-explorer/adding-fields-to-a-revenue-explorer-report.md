@@ -1,17 +1,16 @@
 ---
 unique-page-id: 7504383
-description: Adicionar campos a um relatório do Revenue Explorer - Documentos do Marketing - Documentação do produto
-title: Adicionar campos a um relatório do Explorador de receita
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Adicionar campos a um relatório do explorador de receita - Documentos do Marketo - Documentação do produto
+title: Adicionando Campos a um Relatório do Explorador de Receita
+exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Adicionando campos a um relatório do Revenue Explorer {#adding-fields-to-a-revenue-explorer-report}
+# Adicionando Campos a um Relatório do Explorador de Receita {#adding-fields-to-a-revenue-explorer-report}
 
 Personalize relatórios do explorador de receita arrastando e soltando campos de dimensão e métrica na tela.
 
@@ -22,12 +21,12 @@ Personalize relatórios do explorador de receita arrastando e soltando campos de
    <th>Descrição</th> 
   </tr> 
   <tr> 
-   <td>Campo amarelo ou Dimension</td> 
-   <td><p>Campos amarelos são as dimensões (linhas e colunas) do seu relatório.</p><p>Por exemplo, você pode configurar um relatório que mostra o status do cliente potencial ou a data de criação em colunas.</p></td> 
+   <td>Campo ou Dimension amarelo</td> 
+   <td><p>Campos amarelos são as dimensões (linhas e colunas) do seu relatório.</p><p>Por exemplo, você pode configurar um relatório que mostre o status do lead ou a data de criação em colunas.</p></td> 
   </tr> 
   <tr> 
-   <td>Campo azul ou medida</td> 
-   <td><p>Campos azuis são métricas analisadas em seus dados.</p><p>Por exemplo, esta pode ser a pontuação de lead média para seus clientes potenciais, ou o número de dias em que um cliente potencial teve uma oportunidade.</p></td> 
+   <td>Campo ou medida azul</td> 
+   <td><p>Campos azuis são métricas analisadas em seus dados.</p><p>Por exemplo, essa pode ser a pontuação de lead média para seus leads, ou o número de dias em que um lead teve uma oportunidade.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -44,10 +43,10 @@ Personalize relatórios do explorador de receita arrastando e soltando campos de
 
    ![](assets/image2015-3-24-15-3a53-3a5.png)
 
-   Incrível! Agora você tem um relatório completo!
+   Ótimo! Agora você tem um relatório completo!
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 
 >[!MORELIKETHIS]
 >
->[Excluindo um campo em um relatório do Explorador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
+>[Excluindo um Campo em um Relatório do Explorador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)

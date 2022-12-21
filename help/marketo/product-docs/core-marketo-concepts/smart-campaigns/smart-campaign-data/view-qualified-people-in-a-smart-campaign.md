@@ -3,7 +3,6 @@ unique-page-id: 1146966
 description: Exibir pessoas qualificadas em uma campanha inteligente - Documentos do Marketo - Documentação do produto
 title: Exibir pessoas qualificadas em uma campanha inteligente
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -23,7 +22,7 @@ Exiba pessoas qualificadas para passar pelo fluxo ao executar uma campanha intel
 >
 >Acionar campanhas inteligentes não exibem pessoas qualificadas, pois são executadas com base em eventos ao vivo.
 
-1. A guia **Pessoas qualificadas** lista as pessoas que se qualificam para passar pelo fluxo quando a campanha é executada.
+1. O **Pessoas qualificadas** lista as pessoas que se qualificaram para passar pelo fluxo quando a campanha é executada.
 
    ![](assets/qualifiedpeople-tab.png)
 

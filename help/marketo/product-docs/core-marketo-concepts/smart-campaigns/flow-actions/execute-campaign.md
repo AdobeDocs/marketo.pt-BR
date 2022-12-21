@@ -1,7 +1,8 @@
 ---
 description: Execute Campaign - Marketo Docs - Documentação do produto
 title: Executar campanha
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 1%
@@ -22,7 +23,7 @@ Há muitas coisas que você pode fazer com uma Campanha Executável. Eles foram 
 
 Você também pode usá-los quando precisar executar um fluxo separado, mas precisar depender dos resultados desse fluxo nas opções de etapas de fluxo subsequentes (ou seja, se isso for necessário).
 
-Executar Campanha é uma melhoria em [Solicitar Campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), pois pode ser executada em série ou em paralelo, enquanto a última só é executada em paralelo.
+Executar Campanha é uma melhoria na [Solicitar campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), que pode ser executado em série ou em paralelo, enquanto que este só funciona em paralelo.
 
 >[!NOTE]
 >
@@ -30,17 +31,17 @@ Executar Campanha é uma melhoria em [Solicitar Campanha](/help/marketo/product-
 
 ## Como criar uma campanha executável {#how-to-create-an-executable-campaign}
 
-1. Clique com o botão direito do mouse no programa desejado e selecione **New Smart Campaign**.
+1. Clique com o botão direito do mouse no programa desejado e selecione **Nova Campanha Inteligente**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Dê um nome a ele, marque a caixa de seleção **Executable** e clique em **Create**.
+1. Dê um nome a ele, selecione o **Executável** e clique em **Criar**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Defina a Lista inteligente e o Fluxo, como qualquer outra Campanha inteligente.
 
-Você também pode clonar uma Campanha inteligente existente. Se clonar uma Campanha Executável existente, ainda será necessário marcar a caixa de seleção **Executable** após nomeá-la.
+Você também pode clonar uma Campanha inteligente existente. Se clonar uma Campanha Executável existente, ainda será necessário selecionar a variável **Executável** depois de nomeá-la.
 
 >[!NOTE]
 >
@@ -54,28 +55,28 @@ Quando definido como true, os seguintes contextos de token serão enviados para 
 * Tokens da campanha
 * Tokens de programa
 * Tokens de Membro
-* [Tokens de acionador](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)  (se forem chamados de uma campanha acionada)
+* [Tokens do acionador](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (se chamado de uma campanha acionada)
 
 **Interação da API**
 
-Ao usar Schedule ou Request Campaign [na API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), ambos permitem transmitir valores para Meus tokens, que substitui os valores definidos para esses tokens na campanha que você está chamando. Se essa Campanha executar outra campanha e definir &quot;Usar contexto pai para verdadeiro&quot;, ela usará os valores passados pela API, em vez dos valores definidos no aplicativo.
+Ao usar a Campanha agendar ou solicitar [na API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), ambos permitem transmitir valores para Meus tokens, que substitui os valores definidos para esses tokens na campanha que você está chamando. Se essa Campanha executar outra campanha e definir &quot;Usar contexto pai para verdadeiro&quot;, ela usará os valores passados pela API, em vez dos valores definidos no aplicativo.
 
 ## O que deve ser observado {#things-to-note}
 
 * A Smart List filtrará qualquer pessoa que não se qualificar. Se uma pessoa se qualificar, o registro de atividade de Campanha executada resultante os listará como &quot;Qualificado: TRUE&quot; (e FALSE se não)
 * As regras de qualificação de Programação de Campanha se aplicam (Configurações de Campanha Inteligente na guia Programação)
 * Campanhas executáveis não podem ser chamadas em espaços de trabalho
-* Se você usar a ação de fluxo [Remover do Fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direcionada a uma Campanha Executável, ela direcionará o filho e o pai
+* Se você usar a variável [Remover do Fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) ação de fluxo direcionada a uma Campanha Executável, direcionará o filho e o pai
 * Aproveitando a herança de token - por exemplo, se você tiver um único fluxo de pontuação comum acionado por vários ativos diferentes, poderá definir uma pontuação de Meu token padrão na campanha filho e na campanha pai, de modo que possa substituir o valor da campanha de pontuação filho para suas campanhas pai (consulte abaixo para obter um exemplo visual)
 * Campanhas executáveis podem ser chamadas com até três níveis de profundidade (por exemplo, Campanha pai > Filho > Filho)
 
 >[!CAUTION]
 >
->Nunca deixe suas listas inteligentes para campanhas executáveis inválidas, caso contrário **ninguém** se qualificará para elas. A prática recomendada é criar ativos de lista inteligente separados, defini-los completamente e garantir que sejam válidos. Em seguida, use o filtro &quot;Membro da Smart List&quot; na Campanha Executável para trocar a definição da lista inteligente.
+>Nunca deixe suas listas inteligentes para campanhas executáveis inválidas, caso contrário **nenhum** se qualificará para isso. A prática recomendada é criar ativos de lista inteligente separados, defini-los completamente e garantir que sejam válidos. Em seguida, use o filtro &quot;Membro da Smart List&quot; na Campanha Executável para trocar a definição da lista inteligente.
 
 ## Exemplo de herança de token {#token-inheritance-example}
 
-Abaixo está um exemplo visual de Herança de tokens em uma Campanha Executável e duas campanhas pai: um com contexto de token definido como **True**, o outro como **False**.
+Abaixo está um exemplo visual de Herança de tokens em uma Campanha Executável e duas campanhas pai: um com contexto de token definido como **Verdadeiro**, o outro **Falso**.
 
 Campanha filho com Pontuação de alteração tokens.
 
@@ -87,7 +88,7 @@ A campanha infantil é &quot;Meus Tokens&quot;.
 
 **Exemplo um - Verdadeiro**
 
-Na etapa Executar fluxo da campanha da primeira campanha pai, o &quot;Usar contexto de token de campanha pai&quot; é definido como **True**.
+Na etapa Executar fluxo da campanha do primeiro pai, o &quot;Usar contexto de token de campanha pai&quot; é definido como **Verdadeiro**.
 
 ![](assets/execute-campaign-5.png)
 
@@ -101,7 +102,7 @@ Os resultados: pontuação alterada por +10.
 
 **Exemplo dois: Falso**
 
-No filtro Executar campanha da segunda campanha pai, o &quot;Usar contexto de token de campanha pai&quot; é definido como **False**.
+No filtro Executar campanha da segunda campanha pai, o &quot;Usar contexto de token de campanha pai&quot; é definido como **Falso**.
 
 ![](assets/execute-campaign-8.png)
 

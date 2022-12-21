@@ -3,7 +3,6 @@ unique-page-id: 1147324
 description: Limpar valores de campo - Documentos do Marketo - Documentação do produto
 title: Limpar valores de campo
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Limpar valores do campo {#clear-field-values}
+# Limpar valores de campo {#clear-field-values}
 
-[Alterar ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valor de dados é ótimo, mas como você  __ remove o valor completamente? Boa pergunta!
+[Alterar valor de dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) é ótimo, mas como você _remove_ o valor completamente? Boa pergunta!
 
-1. Na etapa do fluxo, escolha o campo que deseja limpar e digite **NULL** (todas as maiúsculas) como o **Novo valor**.
+1. Na etapa de fluxo, escolha o campo que deseja limpar e digite **NULL** (maiúsculas) como **Novo valor**.
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 

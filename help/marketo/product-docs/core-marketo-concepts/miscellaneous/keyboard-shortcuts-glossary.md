@@ -3,7 +3,6 @@ unique-page-id: 1147318
 description: Glossário de atalhos de teclado - Documentos do Marketo - Documentação do produto
 title: Glossário de atalhos de teclado
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
@@ -21,7 +20,7 @@ Você é uma pessoa com atalhos do teclado? Nós te cobrimos!
 |---|---|
 | Alt/Opt + A | Análises |
 | Alt/Opt + C | Calendário |
-| Alt/Opt + D | Estúdio de desenvolv. |
+| Alt/Opt + D | Estúdio de desenvolvimento |
 | Alt/Opt + F | Pesquisa global |
 | Alt/Opt + L | Banco de dados |
 | Alt/Opt + M | Atividades de marketing |

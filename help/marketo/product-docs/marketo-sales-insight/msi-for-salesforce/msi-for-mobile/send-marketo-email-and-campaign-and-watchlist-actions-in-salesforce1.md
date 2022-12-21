@@ -1,29 +1,28 @@
 ---
 unique-page-id: 7511931
-description: Enviar ações de Campanha e email para marketing e lista de monitoramento no Salesforce1 - Documentos do Marketing - Documentação do produto
-title: Enviar ações de Campanha e email para marketing e lista de vigias no Salesforce1
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Enviar email do Marketo e ações de campanha e lista de favoritos no Salesforce1 - Documentos do Marketo - Documentação do produto
+title: Enviar email do Marketo e ações de campanha e lista de favoritos no Salesforce1
+exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
+# Enviar email do Marketo e ações de campanha e lista de favoritos no Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-# Enviar ações de Campanha e email para marketing e lista de monitoramento no Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
-
-1. Vá para a área Detalhes do cliente potencial no Salesforce1 e clique na guia **Relacionado**.
+1. Vá para a área Detalhes do lead no Salesforce1 e clique no link **Relacionado** guia .
 
    ![](assets/one-1.png)
 
-1. Clique no ponto (três pequenos pontos). Na parte inferior, você pode escolher: &quot;Adicionar à Campanha do Marketo&quot;, &quot;Enviar email para o Marketo&quot;, &quot;Visualização no Marketo&quot;, &quot;Adicionar/remover da lista de monitoramento&quot;.
+1. Clique nos dados (três pequenos pontos). Na parte inferior, você pode escolher: &quot;Adicionar ao Marketo Campaign&quot;, &quot;Enviar email do Marketo&quot;, &quot;Exibir no Marketo&quot;, &quot;Adicionar/remover da Lista de favoritos.&quot;
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >Que campanhas inteligentes aparecem? Aqueles com o acionador &quot;Campanha é solicitada&quot;. Saiba como configurar uma campanha [acionada usando &quot;Campanha is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Quais campanhas inteligentes aparecem? Aqueles com &quot;Campanha é solicitada&quot; são acionados. Saiba como configurar um [campanha acionada usando &quot;Campanha é solicitada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Legal, agora seus vendedores podem participar ativamente do esforço de marketing.
 
@@ -31,11 +30,9 @@ Legal, agora seus vendedores podem participar ativamente do esforço de marketin
 >
 >**Exemplo**
 >
->Campanhas inteligentes boas para solicitar podem parecer:
+>Boas campanhas inteligentes para solicitar podem parecer:
 >
->1. Enfermagem a longo prazo - quando eles não têm um orçamento este ano
->1. Ciclo de vendas ativo - quando o vendedor não quiser mensagens para o cliente potencial, exceto suas próprias (use o sinalizador suspenso de marketing para cancelá-las temporariamente)
-
+>1. Enfermeiro a longo prazo - quando não têm orçamento este ano
+>1. Ciclo de vendas ativo - quando o vendedor não quiser mensagens para o cliente potencial, exceto suas próprias (use o sinalizador de suspensão de marketing para cancelar a assinatura temporariamente)
 >
->
-Seja criativo. O que o vendedor gostaria de automatizar? Apenas pergunte a eles e conecte-os!
+>Seja criativo. O que o vendedor gostaria de automatizar? Só pergunte e ligue!

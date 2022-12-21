@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelo 7A {#template-7a}
 
-Clique com o botão direito do mouse em [baixar Modelo 7A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)
+Clique com o botão direito do mouse em para [modelo de download 7A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)
 
 ![](assets/image2015-7-29-14-3a22-3a54.png)
 

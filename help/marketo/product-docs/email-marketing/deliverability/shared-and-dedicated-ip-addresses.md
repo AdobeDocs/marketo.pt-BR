@@ -1,15 +1,14 @@
 ---
 unique-page-id: 10912085
-description: Endereços IP compartilhados e dedicados - Documentos do Marketing - Documentação do produto
+description: Endereços IP compartilhados e dedicados - Documentos do Marketo - Documentação do produto
 title: Endereços IP compartilhados e dedicados
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
-
 
 # Endereços IP compartilhados e dedicados {#shared-and-dedicated-ip-addresses}
 
@@ -25,40 +24,40 @@ Isso se refere a quando vários remetentes utilizam os mesmos endereços IP para
 
 Um endereço IP específico do usuário do qual somente um remetente envia.
 
-## Qual é melhor - compartilhado ou dedicado? {#which-is-better-shared-or-dedicated}
+## Qual é o melhor - Compartilhado ou dedicado? {#which-is-better-shared-or-dedicated}
 
-Como de costume, há prós e contras para ambas as opções.
+Como de costume, há vantagens e desvantagens em ambas as opções.
 
-**Prós e contras de um IP dedicado**
-
-_Prós_
-
-**Reputação**  - Você é o dono integral da sua reputação e capacidade de entrega.\
-**Monitoramento**  - O monitoramento do relatórios de entrega permite que você responda rapidamente às alterações nas métricas do delivery.\
-**Resolução**  de problemas - é mais fácil pesquisar, entender e resolver problemas de delivery.
-
-_Cons_
-
-**Alterações**  no volume - Os picos no volume podem afetar negativamente sua reputação e precisam ser gerenciados.\
-**Processo**  de aquecimento de IP - a reputação é construída ao longo do tempo. Alguns ISPs (Internet Provedores de serviço) reduzem endereços IP sem histórico de volume, portanto, você terá que criar uma reputação nas primeiras semanas (o Marketo pode ajudá-lo a orientá-lo).\
-**Custo**  - Geralmente há uma taxa adicional para enviar de um IP dedicado com qualquer provedor.
-
-**Prós e contras de um IP compartilhado**
+**Vantagens e desvantagens de um IP dedicado**
 
 _Prós_
 
-**Bons colegas**  de quarto - Se as pessoas que você compartilha seu IP seguirem as práticas recomendadas de envio, você se beneficiará.\
-**Frequência**  de envio - Não há uma frequência de envio mínima necessária para se qualificar para um IP compartilhado, ao contrário dos IPs dedicados.\
-**Custo**  - nunca há um encargo adicional para enviar de um IP compartilhado.
+**Reputação** - Você é totalmente o proprietário da sua reputação e capacidade de entrega.\
+**Monitoramento** - O monitoramento de sua capacidade de entrega permite que você responda rapidamente às alterações em suas métricas de entrega.\
+**Resolução de problemas** - É mais fácil pesquisar, entender e resolver problemas de entrega.
 
-_Cons_
+_Desvantagens_
 
-**Casos**  ruins - Se as pessoas com quem você compartilha seu IP se envolverem em práticas de envio insatisfatórias, suas campanhas de email poderão ser afetadas negativamente.\
-**Controle**  - você tem muito menos controle sobre sua reputação do remetente.\
-**Resolução**  de problemas - geralmente, pode ser mais difícil resolver um problema ao enviar de IPs compartilhados.
+**Alterações de volume** - Picos no volume podem afetar negativamente sua reputação e precisam ser gerenciados.\
+**Processo de aquecimento de IP** - A reputação é construída ao longo do tempo. Alguns provedores de serviços de Internet (ISPs) reduzem endereços IP sem histórico de volume, portanto, você terá que criar uma reputação durante as primeiras semanas (o Marketo pode ajudar a orientá-lo).\
+**Custo** - Geralmente há um encargo adicional para enviar de um IP dedicado com qualquer provedor.
+
+**Vantagens e desvantagens de um IP compartilhado**
+
+_Prós_
+
+**Bons colegas de quarto** - Se as pessoas com as quais você está compartilhando o IP seguirem as práticas recomendadas de envio, você se beneficiará.\
+**Frequência de mala direta** - Não há uma frequência de correspondência mínima necessária para se qualificar para um IP compartilhado, ao contrário dos IPs dedicados.\
+**Custo** - Nunca há um encargo adicional para enviar de um IP compartilhado.
+
+_Desvantagens_
+
+**Colegas de quarto ruins** - Se as pessoas que você está compartilhando seu IP com práticas de envio inadequadas, suas campanhas de email podem ser afetadas negativamente.\
+**Controle** - Você tem muito menos controle sobre a reputação do remetente.\
+**Resolução de Problemas** - Muitas vezes, pode ser mais difícil resolver um problema ao enviar a partir de IPs compartilhados.
 
 >[!NOTE]
 >
->Ao tomar uma decisão, há outro fator importante a ser considerado: volume de envio. Se você planeja enviar menos de 100.000 emails por mês, ou menos de duas correspondências em um mês, você provavelmente não se beneficiará de um IP dedicado. Enviar números como esses são considerados baixos, e seria difícil manter seu IP dedicado &quot;aquecido&quot; o suficiente para ser considerado seguro pelos ISPs principais. Basicamente, se você não enviar emails com frequência suficiente, os ISPs verão o correio como um &quot;aumento&quot; repentino da atividade, e podem acabar bloqueando como spam suspeito.
+>Ao tomar uma decisão, há outro fator importante a ser considerado: volume de envio. Se você planeja enviar menos de 100.000 emails por mês, ou menos de duas malas diretas em um mês, você provavelmente não se beneficiaria de um IP dedicado. Enviar números como esses são considerados baixos e seria difícil manter seu IP dedicado &quot;aquecido&quot; o suficiente para ser considerado seguro pelos ISPs principais. Basicamente, se você não enviar emails com frequência suficiente, os ISPs verão uma mala direta como uma súbita &quot;explosão&quot; de atividade e poderão acabar bloqueando como spam suspeito.
 
-Em caso de dúvidas ou se estiver interessado em configurar um IP dedicado, entre em contato com seu representante de vendas do Marketing Cloud.
+Em caso de dúvidas ou interesse em configurar um IP dedicado, entre em contato com o representante de vendas da Marketo.

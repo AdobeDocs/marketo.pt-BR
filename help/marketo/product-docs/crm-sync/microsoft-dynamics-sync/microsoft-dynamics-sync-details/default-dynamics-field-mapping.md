@@ -29,7 +29,7 @@ Ao sincronizar inicialmente sua conta do Marketo com o Microsoft, o Marketo faz 
     </tr>
     <tr>
       <td>Microsoft - Data de criação</td>
-      <td>Criado(a) em</td>
+      <td>Criado em</td>
       <td>createdon</td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@ Ao sincronizar inicialmente sua conta do Marketo com o Microsoft, o Marketo faz 
     <tr>
       <td>E-mail</td>
       <td>E-mail</td>
-      <td>email address1</td>
+      <td>emailaddress1</td>
     </tr>
     <tr>
       <td>Cargo</td>
@@ -65,7 +65,7 @@ Ao sincronizar inicialmente sua conta do Marketo com o Microsoft, o Marketo faz 
     <tr>
       <td>Telefone</td>
       <td>Telefone comercial</td>
-      <td>phone1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Celular</td>
@@ -165,7 +165,7 @@ Ao sincronizar inicialmente sua conta do Marketo com o Microsoft, o Marketo faz 
     <tr>
       <td>Microsoft - Telefone residencial</td>
       <td>Telefone residencial</td>
-      <td>Telefone2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Método De Contato Preferencial Da Microsoft</td>
@@ -269,7 +269,7 @@ Os campos de lead abaixo são sincronizados para uso interno.
     </tr>
     <tr>
       <td>Microsoft - Data de criação</td>
-      <td>Criado(a) em</td>
+      <td>Criado em</td>
       <td>createdon</td>
     </tr>
     <tr>
@@ -295,7 +295,7 @@ Os campos de lead abaixo são sincronizados para uso interno.
     <tr>
       <td>E-mail</td>
       <td>E-mail</td>
-      <td>email address1</td>
+      <td>emailaddress1</td>
     </tr>
     <tr>
       <td>Cargo</td>
@@ -305,7 +305,7 @@ Os campos de lead abaixo são sincronizados para uso interno.
     <tr>
       <td>Telefone</td>
       <td>Telefone comercial</td>
-      <td>phone1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Celular</td>
@@ -375,7 +375,7 @@ Os campos de lead abaixo são sincronizados para uso interno.
     <tr>
       <td>Microsoft - Telefone residencial</td>
       <td>Telefone residencial</td>
-      <td>Telefone2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Método De Contato Preferencial Da Microsoft</td>
@@ -524,7 +524,7 @@ Os campos Contact abaixo são sincronizados para uso interno.
     <tr>
       <td>Telefone principal</td>
       <td>Telefone principal</td>
-      <td>phone1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Tipo de negócio</td>
@@ -578,7 +578,7 @@ Os campos Contact abaixo são sincronizados para uso interno.
     </tr>
     <tr>
       <td>Empresa</td>
-      <td>nome</td>
+      <td>name</td>
       <td>Nome da conta</td>
     </tr>
     <tr>
@@ -644,7 +644,7 @@ Os campos Account abaixo são sincronizados para uso interno.
     <tr>
       <td>Nome</td>
       <td>Tópico</td>
-      <td>nome</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>Valor estimado</td>

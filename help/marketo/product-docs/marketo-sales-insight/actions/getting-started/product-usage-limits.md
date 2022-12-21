@@ -1,7 +1,8 @@
 ---
 description: Limites de uso do produto - Documentos do Marketo - Documentação do produto
 title: Limites de uso do produto
-source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
+exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
+source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 23%
@@ -19,7 +20,7 @@ Os limites a seguir estão em vigor para o uso dos recursos expandidos de envolv
  <tr>
   <td>Envio de email de vendas</td>
   <td>por usuário/por dia</td>
-  <td>1.000</td>
+  <td>1,000</td>
  </tr>
  <tr>
   <td>Email de vendas em massa</td>
@@ -29,7 +30,7 @@ Os limites a seguir estão em vigor para o uso dos recursos expandidos de envolv
  <tr>
   <td>Modelos de e-mail</td>
   <td>por instância</td>
-  <td>2.000</td>
+  <td>2,000</td>
  </tr>
  <tr>
   <td>Categorias de modelo de email</td>
@@ -73,12 +74,12 @@ Os limites a seguir estão em vigor para o uso dos recursos expandidos de envolv
  <tr>
   <td>Gravações de chamada</td>
   <td>por usuário/por mês (compartilhado na instância)</td>
-  <td>50º</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>Grupos</td>
   <td>por usuário</td>
-  <td>50º</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>Anexos carregados</td>
@@ -93,17 +94,17 @@ Os limites a seguir estão em vigor para o uso dos recursos expandidos de envolv
  <tr>
   <td>Equipes</td>
   <td>por instância</td>
-  <td>20º</td>
+  <td>20</td>
  </tr>
  <tr>
   <td>Resultados da chamada</td>
   <td>por instância</td>
-  <td>15.</td>
+  <td>15</td>
  </tr>
  <tr>
   <td>Motivos da chamada</td>
   <td>por instância</td>
-  <td>15.</td>
+  <td>15</td>
  </tr>
  <tr>
   <td>Avisos de registro de chamada</td>
@@ -113,7 +114,7 @@ Os limites a seguir estão em vigor para o uso dos recursos expandidos de envolv
  <tr>
   <td>Campos sincronizados do Marketo</td>
   <td>por instância</td>
-  <td>13º</td>
+  <td>13</td>
  </tr>
   <td>Identidades de email</td>
   <td>por usuário</td>

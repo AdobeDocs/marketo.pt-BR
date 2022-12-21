@@ -1,23 +1,22 @@
 ---
 unique-page-id: 7511725
-description: Como entender meus relatórios e relatórios de grupo - documentos do Marketing - Documentação do produto
+description: Como entender meus relatórios e relatórios de grupo - Documentos do Marketo - Documentação do produto
 title: Como entender meus relatórios e relatórios de grupo
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-
 # Como entender meus relatórios e relatórios de grupo {#understanding-my-reports-and-group-reports}
 
-Você pode criar **Meus relatórios** e **Relatórios de grupo** a partir de [Página inicial do Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
+Você pode criar **Meus relatórios** e **Relatórios de grupo** do [Página inicial do Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
 
-**Meus** relatórios só são visíveis para você.
+**Meus relatórios** são visíveis somente para você.
 
-**Os** Relatórios de grupo estão visíveis para todos os usuários nesse espaço de trabalho.
+**Relatórios de grupo** são visíveis para todos os usuários nesse espaço de trabalho.
 
 >[!NOTE]
 >
@@ -28,5 +27,5 @@ Você pode criar **Meus relatórios** e **Relatórios de grupo** a partir de [P�
 >[!MORELIKETHIS]
 >
 >* [Salvar um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
->* [Clonar um relatório para agrupar relatórios](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
+>* [Clonar um relatório em relatórios de grupo](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
 

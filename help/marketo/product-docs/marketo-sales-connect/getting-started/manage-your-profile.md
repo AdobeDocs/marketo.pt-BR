@@ -17,7 +17,7 @@ Na página Meu perfil, você pode atualizar seu nome, o idioma/localidade/fuso h
 
 Aqui é onde você pode atualizar seu nome e/ou senha.
 
-1. Clique no ícone de engrenagem e selecione **Settings**.
+1. Clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/manage-your-profile-1.png)
 
@@ -27,7 +27,7 @@ Aqui é onde você pode atualizar seu nome e/ou senha.
 
 >[!NOTE]
 >
->Seu endereço de email está definido para somente visualização. Se precisar de alterações, entre em contato com o [Suporte do Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Seu endereço de email está definido para somente visualização. Se também precisar de alterações, entre em contato com [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Também é possível alterar sua senha nesta seção. As etapas são descritas neste documento.
 
@@ -49,23 +49,23 @@ Veja como alterar o idioma, a localidade e/ou o fuso horário da sua conta.
 >
 >Idiomas suportados: Inglês, Francês, Alemão, Japonês, Português, Espanhol.
 
-1. Clique no ícone de engrenagem e selecione **Settings**.
+1. Clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Para alterar seu idioma, clique no menu suspenso **Language** e faça sua escolha.
+1. Para alterar seu idioma, clique no botão **Idioma** e faça sua escolha.
 
    ![](assets/manage-your-profile-5.png)
 
-1. A localidade aqui se refere à região na qual esse idioma é falado. Clique no menu suspenso **Locale** e faça sua escolha.
+1. A localidade aqui se refere à região na qual esse idioma é falado. Clique no botão **Localidade** e faça sua escolha.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Clique no menu suspenso **Your Timezone** e faça sua escolha.
+1. Clique no botão **Seu fuso horário** e faça sua escolha.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Clique em **Salvar** quando terminar.
+1. Clique em **Salvar** quando concluído.
 
    ![](assets/manage-your-profile-8.png)
 

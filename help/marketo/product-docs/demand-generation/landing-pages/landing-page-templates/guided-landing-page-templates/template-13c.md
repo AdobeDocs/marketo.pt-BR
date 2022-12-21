@@ -12,7 +12,7 @@ ht-degree: 3%
 
 # Modelo 13C {#template-13c}
 
-Clique com o botão direito do mouse em [baixar Modelo 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
+Clique com o botão direito do mouse em para [baixar modelo 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 

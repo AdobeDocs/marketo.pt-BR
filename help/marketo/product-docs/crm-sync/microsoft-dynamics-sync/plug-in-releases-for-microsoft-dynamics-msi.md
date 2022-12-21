@@ -63,52 +63,52 @@ E é isso! Após a atualização, você verá apenas uma Solução MSI.
    <th colspan="1">Observações</th> 
   </tr> 
   <tr> 
-   <td colspan="1">03/02/22</td> 
+   <td colspan="1">02/03/22</td> 
    <td colspan="1">2.0.0.27</td> 
    <td colspan="1">Layout da conta para insights: Momentos interessantes, mudanças de pontuação, atividades da Web, atividades de email</td> 
   </tr>
   <tr> 
-   <td colspan="1">05/01/22</td> 
+   <td colspan="1">01/05/22</td> 
    <td colspan="1">2.0.0.26</td> 
    <td colspan="1">Pontuação de adoção do programa para enviar email</td> 
   </tr>
   <tr> 
-   <td colspan="1">28/10/21</td> 
+   <td colspan="1">10/28/21</td> 
    <td colspan="1">2.0.0.25</td> 
    <td colspan="1">Métricas de pontuação da adoção do produto, novo painel global (Atividade da Web, Email, Melhores Melhores Melhores Melhores Melhores Melhores Melhores)</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/02/21</td> 
+   <td colspan="1">02/10/21</td> 
    <td colspan="1">2.0.0.22</td> 
    <td colspan="1">Remover auditoria automática ativada e alterações na documentação da solução MSI</td> 
   </tr>
   <tr> 
-   <td colspan="1">01/10/20</td> 
+   <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
    <td colspan="1">Correção de erros: Atribuir acesso aos campos de configuração da API MSI para usuários com a função Informações de vendas</td> 
   </tr> 
   <tr> 
-   <td colspan="1">20/07/20</td> 
+   <td colspan="1">07/20/20</td> 
    <td colspan="1">2.0.0.20</td> 
    <td colspan="1">Correção de erros: Adicionar uma mensagem de validação para registros não sincronizados</td> 
   </tr> 
   <tr> 
-   <td colspan="1">12/06/20</td> 
+   <td colspan="1">06/12/20</td> 
    <td colspan="1">2.0.0.19</td> 
    <td colspan="1">Correção de erros: Para ocultar a senha secreta MSI na configuração da API MSD</td> 
   </tr> 
   <tr> 
-   <td colspan="1">26/05/20</td> 
+   <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
    <td colspan="1">Correção de erros: Alteração da validação da ID da função MSI para exibição de botões MSI</td> 
   </tr> 
   <tr> 
-   <td colspan="1">21/05/20</td> 
+   <td colspan="1">05/21/20</td> 
    <td colspan="1">2.0.0.17</td> 
    <td colspan="1">Correção de erros: Mostrar campo do proprietário e tornar campos não obrigatórios</td> 
   </tr> 
   <tr> 
-   <td colspan="1">28/04/20</td> 
+   <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
    <td colspan="1">Correção de erros: Removendo a dependência de link da configuração do mapa de site do MSD CRM</td> 
   </tr> 

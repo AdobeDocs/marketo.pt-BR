@@ -3,7 +3,6 @@ unique-page-id: 8781911
 description: Noções básicas sobre cartões de programa de email - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre cartões de programa de email
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Como entender os cartões de programa de email {#understanding-email-program-cards}
+# Noções básicas sobre cartões de programa de email {#understanding-email-program-cards}
 
-Use o Marketo Moments para visualizar seus programas de email em seu telefone ou iPad.
+Use o Marketo Moments para visualizar seus programas de email pelo seu telefone ou iPad.
 
 ## Cartões de programa de email {#email-program-cards}
 
@@ -31,17 +30,17 @@ Após o envio do email, o cartão exibe outras informações valiosas, incluindo
 
 ![](assets/image2015-9-25-10-3a5-3a29.png)
 
-## Confirmação de uma placa de email {#confirming-an-email-card}
+## Confirmação de um cartão de email {#confirming-an-email-card}
 
 1. Para confirmar um cartão de email não confirmado, toque no menu de três pontos.
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Toque em **Confirmar**.
+1. Toque **Confirmar**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Toque em **Confirmar** para concluir o trabalho ou **Nunca se preocupe** se tiver pensamentos secundários.
+1. Toque **Confirmar** para terminar o trabalho, ou **Sem importância** se tiver pensamentos secundários.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -55,7 +54,7 @@ Após o envio do email, o cartão exibe outras informações valiosas, incluindo
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Toque em **Cancelar Envio**.
+1. Toque **Cancelar envio**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -71,7 +70,7 @@ Você pode reprogramar cartões de email confirmados ou não confirmados.
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Toque em **Reprogramar**.
+1. Toque **Reprogramar**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
@@ -89,19 +88,19 @@ Você pode compartilhar uma amostra de um momento de email diretamente com algu�
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Toque em **Enviar Amostra**.
+1. Toque **Enviar exemplo**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Insira um endereço de email e clique em **Enviar amostra**.
+1. Insira um endereço de email e clique em **Enviar exemplo**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
-## Pré-visualização de email {#previewing-an-email}
+## Visualização de um email {#previewing-an-email}
 
 Clique com o botão direito do mouse em um cartão de email para visualizá-lo.
 
-1. Toque em **Visualizar Email**.
+1. Toque **Visualizar Email**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 

@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352439
-description: Como adicionar um modelo - Documentos do marketing - Documentação do produto
+description: Como adicionar um modelo - Documentos do Marketo - Documentação do produto
 title: Como adicionar um modelo
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: b88cbca8-117c-4100-819d-90666b26b275
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
 
 ---
-
 
 # Como adicionar um modelo {#how-to-add-a-template}
 
@@ -21,4 +20,4 @@ ht-degree: 0%
    >
    >Fique à vontade para procurar seus modelos favoritos também.
 
-1. Pegue um modelo e personalize-o antes de enviar.
+1. Pegue um modelo e personalize-o antes de enviá-lo.

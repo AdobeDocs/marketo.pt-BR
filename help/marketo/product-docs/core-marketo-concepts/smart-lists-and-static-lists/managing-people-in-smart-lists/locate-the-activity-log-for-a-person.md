@@ -14,15 +14,15 @@ ht-degree: 0%
 
 O log de atividades é a fonte mais avançada de verdade. Esta é a história completa da jornada de uma pessoa no Marketo.
 
-1. Vá para o **Banco de Dados**.
+1. Vá para o **Banco de dados**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Selecione **Todas as Pessoas**.
+1. Selecionar **Todas as pessoas**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Clique na guia **People**. Selecione um número de pessoa **Id**.
+1. Clique no botão **Pessoas** guia . Selecionar uma pessoa **Id** número.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
@@ -48,4 +48,4 @@ Precisa exportar o log de atividades de uma pessoa para o Excel?
 
    >[!MORELIKETHIS]
    >
-   >Saiba mais sobre como [filtrar o log de atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) para ver atividades de pessoas específicas.
+   >Saiba mais sobre [filtrar o log de atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) para ver atividades específicas de pessoas.

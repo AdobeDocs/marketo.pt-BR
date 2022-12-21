@@ -3,7 +3,6 @@ unique-page-id: 2949218
 description: SEO - Adicionar/remover página da lista - Documentos do Marketo - Documentação do produto
 title: SEO - Adicionar/remover página da lista
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
@@ -17,11 +16,11 @@ Deseja gerenciar suas páginas? Você pode fazer isso facilmente criando uma lis
 
 ## Adicionar página a uma lista {#add-page-to-a-list}
 
-1. Vá para a seção **Pages**.
+1. Vá para o **Páginas** seção.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Passe o mouse sobre a página que deseja adicionar a uma lista. Clique em **Adicionar/Remover da Lista**.
+1. Passe o mouse sobre a página que deseja adicionar a uma lista. Clique em **Adicionar/remover da lista**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -49,7 +48,7 @@ Sim! Agora, sua página deve ser adicionada à lista.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Passe o mouse sobre a página que deseja remover. Clique em **Adicionar/Remover da Lista**.
+1. Passe o mouse sobre a página que deseja remover. Clique em **Adicionar/remover da lista**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
@@ -61,4 +60,4 @@ Sim! Agora, sua página deve ser adicionada à lista.
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-Pronto. Sua página é removida da lista.
+Feito. Sua página é removida da lista.

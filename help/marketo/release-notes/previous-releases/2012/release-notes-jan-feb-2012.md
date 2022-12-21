@@ -60,7 +60,7 @@ As empresas agora têm a capacidade de oferecer suporte a um logon contínuo no 
 
 Os Editores de email e de página de aterrissagem foram reprojetados com uma interface mais convidativa, navegação intuitiva e uma experiência do usuário significativamente melhorada, o que inclui:
 
-Um HTML lado a lado e uma exibição de texto
+HTML lado a lado e exibição de texto
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 

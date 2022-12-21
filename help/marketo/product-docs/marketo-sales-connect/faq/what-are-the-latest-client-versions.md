@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352422
-description: Quais são as versões mais recentes do cliente? - Documentos do Marketo - Documentação do produto
+description: Quais são as versões mais recentes do cliente? - Documentação do Marketo - Documentação do produto
 title: Quais são as versões mais recentes do cliente?
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 00f3537e-358d-4540-b569-085674c360a4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
-
 
 # Quais são as versões mais recentes do cliente? {#what-are-the-latest-client-versions}
 
@@ -22,7 +21,7 @@ Abaixo estão as versões mais recentes para todos os clientes do Sales Connect.
    <td>8.6.33</td> 
   </tr> 
   <tr> 
-   <td><strong>Cromo</strong></td> 
+   <td><strong>Chrome</strong></td> 
    <td>8.6.33</td> 
   </tr> 
   <tr> 

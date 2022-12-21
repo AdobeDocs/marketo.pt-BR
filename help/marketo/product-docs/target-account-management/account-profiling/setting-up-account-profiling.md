@@ -20,7 +20,7 @@ Siga estas etapas para começar a usar a Criação de perfil da conta.
 >
 >* Site
 >* Empresa
->* Email
+>* E-mail
 >* País
 >
 >Saiba como [mostrar um campo aqui](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).

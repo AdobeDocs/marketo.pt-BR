@@ -3,7 +3,6 @@ unique-page-id: 10100266
 description: Noções básicas sobre atividades personalizadas - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre atividades personalizadas
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
@@ -27,7 +26,7 @@ As atividades personalizadas ajudam a rastrear uma atividade que não está rela
 >
 >As atividades personalizadas diferem dos objetos personalizados. Use objetos personalizados quando o valor puder ser alterado (ou seja, &quot;cor do carro&quot; muda de azul para vermelho). Use atividades personalizadas ao rastrear momentos que ocorreram e seus detalhes não podem ser alterados (ou seja, &quot;carro comprado&quot;).
 
-**** CamposVocê pode adicionar campos  [ ](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) adicionais que deseja associar à atividade. Como o campo principal, eles podem ser usados como critérios de filtragem em uma lista inteligente.
+**Campos** Você pode adicionar [campos adicionais](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) que você deseja associar à atividade. Como o campo principal, eles podem ser usados como critérios de filtragem em uma lista inteligente.
 
 **Introdução**
 

@@ -51,7 +51,7 @@ Descrição de cada coluna da tabela abaixo:
   <td>mktosales_call_reason</td>
   <td>mktosales_call_reason_c</td>
   <td>Texto</td>
-  <td>50º</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>ID de presença local da chamada do Marketo Sales</td>

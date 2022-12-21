@@ -1,31 +1,30 @@
 ---
 unique-page-id: 7504051
-description: Gerenciar dados da pessoa - Documentos do marketing - Documentação do produto
-title: Gerenciar dados da pessoa
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Gerenciar dados de pessoa - Documentos do Marketo - Documentação do produto
+title: Gerenciar dados de pessoa
+exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
+# Gerenciar dados de pessoa {#manage-person-data}
 
-# Gerenciar dados da pessoa {#manage-person-data}
+Aproveite os dados de pessoa para personalização da Web selecionando campos de pessoa a serem usados em sua segmentação.
 
-Aproveite os dados pessoais para personalização na Web selecionando os campos de pessoa a serem usados na segmentação.
-
-1. Vá para **Configurações da conta**.
+1. Ir para **Configurações da conta**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Vá para **Banco de Dados**.
+1. Ir para **Banco de dados**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
-## Adicionando um campo Nova Pessoa {#adding-a-new-person-field}
+## Adição de um campo Nova pessoa {#adding-a-new-person-field}
 
-1. Selecione **Campo para adicionar** do menu suspenso para adicionar um campo de dados de pessoa à lista.
+1. Selecionar **Campo a ser adicionado** na lista suspensa para adicionar um campo de dados de pessoa à lista.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,18 +34,18 @@ Aproveite os dados pessoais para personalização na Web selecionando os campos 
 
 ## Excluindo um campo de pessoa {#deleting-a-person-field}
 
-1. Clique no ícone de exclusão ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) para remover um campo da lista. Clique em **Yes** para confirmar que deseja excluir o campo.
+1. Clique no ícone de exclusão ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) para remover um campo da lista. Clique em **Sim** para confirmar que deseja excluir o campo.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
    >[!NOTE]
    >
-   >**Gerenciando seus campos de Dados de pessoa**
+   >**Gerenciamento de campos de dados de pessoa**
    >
-   >* Somente os Campos de Dados de Pessoa podem ser incluídos
-   >* É possível adicionar até 30 Campos de Dados de Pessoa
-   >* A adição de novos campos pode levar até 24 horas para ser ativada
-   >* O comprimento máximo dos tipos de cadeia de caracteres é de 255 caracteres
+   >* Somente os Campos de dados de pessoa podem ser incluídos
+   >* É possível adicionar até 30 campos de dados de pessoa
+   >* A ativação de novos campos pode demorar até 24 horas
+   >* A extensão máxima dos tipos de sequências é de 255 caracteres
    >* Campos ocultos serão removidos automaticamente
 
 
@@ -55,7 +54,7 @@ Aproveite os dados pessoais para personalização na Web selecionando os campos 
   <tr> 
    <th><p>Nome da API REST</p></th> 
    <th><p>Nome da API SOAP</p></th> 
-   <th><p>Nome amigável</p></th> 
+   <th><p>Nome intuitivo</p></th> 
   </tr> 
   <tr> 
    <td><p>departamento</p></td> 
@@ -74,7 +73,7 @@ Aproveite os dados pessoais para personalização na Web selecionando os campos 
   </tr> 
   <tr> 
    <td><p>leadScore</p></td> 
-   <td><p>PontuaçãoPrincipal</p></td> 
+   <td><p>LeadScore</p></td> 
    <td><p>Pontuação</p></td> 
   </tr> 
   <tr> 
@@ -93,14 +92,14 @@ Aproveite os dados pessoais para personalização na Web selecionando os campos 
    <td><p>Função</p></td> 
   </tr> 
   <tr> 
-   <td><p>cancelado</p></td> 
-   <td><p>Inscrito</p></td> 
-   <td><p>Inscrito</p></td> 
+   <td><p>unsubscription</p></td> 
+   <td><p>Inscrição cancelada</p></td> 
+   <td><p>Inscrição cancelada</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-Os seguintes campos de cliente potencial são fornecidos da caixa para novas contas de Personalização da Web:
+Os seguintes campos de lead são fornecidos prontos para as novas contas de Personalização da Web:
 
 >[!MORELIKETHIS]
 >

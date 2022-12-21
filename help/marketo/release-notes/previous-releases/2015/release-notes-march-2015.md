@@ -26,7 +26,7 @@ Exiba as atividades de marketing de sua equipe com o novo modo de apresentação
 
 ## Integração ao Google AdWords {#google-adwords-integration}
 
-Vincule sua conta do [Google AdWords ao Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) para fazer upload automático de dados de conversão offline do Marketo para o Google AdWords. Em seguida, na interface do usuário do AdWords, você poderá ver facilmente quais cliques resultaram em leads qualificados, oportunidades e novos clientes (ou quais são os estágios de receita que deseja rastrear).
+Vincule seu [Conta do Google AdWords para a Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) para carregar automaticamente dados de conversão offline do Marketo para o Google AdWords. Em seguida, na interface do usuário do AdWords, você poderá ver facilmente quais cliques resultaram em leads qualificados, oportunidades e novos clientes (ou quais são os estágios de receita que deseja rastrear).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
@@ -42,14 +42,14 @@ Agora temos suporte para criar e editar emails, modelos, meus tokens, arquivos e
 
 ## Microsoft Dynamics 2015 No Local {#microsoft-dynamics-on-premise}
 
-Suportado com o instalador mais recente agora [acessível através do aplicativo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+Suportado com o instalador mais recente [acessível através do aplicativo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP - Envolvimento personalizado na Web com dados de leads {#rtp-personalized-web-engagement-with-lead-data}
 
-Aproveite os [campos de dados de lead](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) que você possui em seu banco de dados de lead do Marketo para criar campanhas de segmentação e conteúdo personalizado em tempo real. Gerencie os campos de dados de lead na RTP e adicione/exclua campos de lead relevantes.
+Aproveite a [campos de dados de cliente potencial](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) você está usando o banco de dados de clientes potenciais da Marketo para criar campanhas de segmentação e conteúdo personalizado em tempo real. Gerencie os campos de dados de lead na RTP e adicione/exclua campos de lead relevantes.
 
 ## RTP - Personalize o conteúdo on-line por nome de campanha de programa ou e-mail {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Continue a conversa com seu cliente potencial em todos os canais, de email para Web. [Personalize o conteúdo de entrada com base na campanha de email ou no ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) nome do programa usado nas Atividades de marketing do Marketo.
+Continue a conversa com seu cliente potencial em todos os canais, de email para Web. [Personalizar conteúdo de entrada com base em campanha ou programa de email](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) nome usado nas atividades de marketing da Marketo.

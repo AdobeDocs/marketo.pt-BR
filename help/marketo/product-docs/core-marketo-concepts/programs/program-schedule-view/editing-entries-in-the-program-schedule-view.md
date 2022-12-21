@@ -3,7 +3,6 @@ unique-page-id: 1147136
 description: Edição de entradas na exibição de programação do programa - Documentos do Marketo - Documentação do produto
 title: Editando entradas na exibição Programação do Programa
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Editar entradas na Visualização de programação {#editing-entries-in-the-program-schedule-view}
+# Editando entradas na exibição Programação do Programa {#editing-entries-in-the-program-schedule-view}
 
 Você pode fazer edições nos diferentes elementos do programa na visualização de programação.
 

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14746177
-description: Reinscrição de um cancelamento de assinatura - Documentos do Marketo - Documentação do produto
+description: Reinscrição e cancelamento de inscrição - Documentos do Marketo - Documentação do produto
 title: Subscrever uma Cancelamento de Subscrição
-translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-
-# Subscrever um Cancelamento de Assinatura {#resubscribing-an-unsubscribe}
+# Subscrever uma Cancelamento de Subscrição {#resubscribing-an-unsubscribe}
 
 Às vezes, as pessoas querem voltar a receber emails. Veja como tornar os cancelamentos de assinaturas endereçáveis novamente.
 
@@ -25,9 +24,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Se a sincronização de cancelamento de subscrição estiver ativada, você deve remover o cancelamento de subscrição do ToutApp e desmarcar a opção de não participação no Salesforce para que o registro de pessoa não sincronize novamente.
+>Se a sincronização de cancelamento de subscrição estiver ativada, você deve remover o cancelamento de inscrição do ToutApp e desmarcar a opção de não participação no Salesforce para que o registro de pessoa não sincronize novamente.
 
-1. Vá para a [aplicação Web](https://toutapp.com/login) e clique em **People**.
+1. Vá para o [aplicação web](https://toutapp.com/login) e clique em **Pessoas**.
 
 1. Selecione a pessoa para abrir a exibição de detalhes da pessoa.
 
@@ -37,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. Selecione o motivo pelo qual a pessoa está sendo incluída novamente para receber emails e clique em **Remover cancelamento de inscrição**.
+1. Selecione o motivo pelo qual a pessoa está sendo incluída novamente para receber emails e clique em **Remover Cancelamento de Assinatura**.
 
    ![](assets/four.png)
 

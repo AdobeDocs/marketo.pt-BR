@@ -22,17 +22,17 @@ O envio de um email nunca foi tão fácil. Use o novo [programa de email](/help/
 
 ![](assets/image2014-9-22-17-3a19-3a55.png)
 
-Além disso, verifique o novo [Painel de métricas de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md) para ver o desempenho do seu email.
+Veja também o novo [Painel Métricas de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md) para ver o desempenho do email.
 
 ![](assets/image2014-9-22-17-3a20-3a14.png)
 
 ## Teste A/B de e-mail {#email-a-b-testing}
 
-No novo Programa de email, execute um [teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) em uma porcentagem da população geral de envio de email. Escolha entre 4 tipos diferentes de testes: Linha de assunto, Endereço de origem, Data/hora e Email inteiro. Você pode até mesmo optar por promover manualmente o vencedor ou permitir que o sistema o promova com base em um critério vencedor predefinido. O novo programa de email, incluindo o teste A/B, pode ser aninhado em Eventos e no Programa padrão para tornar o envio de email tão simples!
+No novo Programa de email, execute um [Teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) em uma porcentagem da população geral de envio de email. Escolha entre 4 tipos diferentes de testes: Linha de assunto, Endereço de origem, Data/hora e Email inteiro. Você pode até mesmo optar por promover manualmente o vencedor ou permitir que o sistema o promova com base em um critério vencedor predefinido. O novo programa de email, incluindo o teste A/B, pode ser aninhado em Eventos e no Programa padrão para tornar o envio de email tão simples!
 
 ## Teste de campeão/desafiador de email {#email-champion-challenger-testing}
 
-[O ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) teste de Campeão/Desafiador é semelhante ao teste A/B, mas a diferença é que ele é usado para emails acionados e você não envia um vencedor automaticamente. Este teste permite desafiar uma maneira estabelecida de fazer algo, chamada Campeão, e você testa se ainda é o melhor apresentando um Desafiador. Além disso, os testes de e-mail de Campeão/Desafiador podem ser usados nos fluxos do programa de Envolvimento.
+[Teste de Campeão/Desafiador](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) é semelhante ao teste A/B, mas a diferença é que é usado para emails acionados e você não envia um vencedor automaticamente. Este teste permite desafiar uma maneira estabelecida de fazer algo, chamada Campeão, e você testa se ainda é o melhor apresentando um Desafiador. Além disso, os testes de e-mail de Campeão/Desafiador podem ser usados nos fluxos do programa de Envolvimento.
 
 ## Detalhes do lead na análise de e-mail {#lead-details-in-email-analysis}
 

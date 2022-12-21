@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7512460
-description: Editar notificação por push móvel - Documentos do Marketing - Documentação do produto
-title: Editar notificação por push móvel
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Editar notificação por push móvel - Documentos do Marketo - Documentação do produto
+title: Editar notificação por push para celular
+exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
+# Editar notificação por push para celular {#edit-mobile-push-notification}
 
-# Editar notificação por push móvel {#edit-mobile-push-notification}
-
-1. Vá para a área **Atividades de marketing**.
+1. Vá para o **Atividades de marketing** área.
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
@@ -23,4 +22,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->Saiba mais sobre [configurar notificações por push](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) aqui.
+>Saiba mais sobre [configuração de notificações por push](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) aqui.

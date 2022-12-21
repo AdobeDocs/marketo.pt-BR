@@ -12,11 +12,11 @@ ht-degree: 1%
 
 # Notas de versão: Janeiro de 2013 {#release-notes-january}
 
-A versão de janeiro expande nossa oferta social com **Ofertas de referência**. Além disso, os usuários do Marketo Lead Management podem definir o fuso horário, o idioma e a preferência de local. Observe que os recursos marcados com um * estão disponíveis somente na edição Selecionar.
+A versão de janeiro amplia nossa oferta social com **Ofertas de referência**. Além disso, os usuários do Marketo Lead Management podem definir o fuso horário, o idioma e a preferência de local. Observe que os recursos marcados com um &#42; estão disponíveis somente no Select Edition.
 
 ## Ofertas com indicação {#referral-offers}
 
-Uma **Oferta de referência** fornece aos leads um incentivo para referenciarem seus amigos. Crie metas e recompensas para referências bem-sucedidas. Você pode usá-lo em páginas de aterrissagem, seu site e até mesmo no Facebook.
+A **Oferta de referência** dá aos seus líderes um incentivo para indicarem os amigos deles. Crie metas e recompensas para referências bem-sucedidas. Você pode usá-lo em páginas de aterrissagem, seu site e até mesmo no Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 

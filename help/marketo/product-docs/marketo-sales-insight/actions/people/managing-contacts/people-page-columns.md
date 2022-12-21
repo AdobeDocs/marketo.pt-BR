@@ -3,10 +3,11 @@ description: Colunas da página Pessoas - Documentos do Marketo - Documentação
 title: Colunas da Página de Pessoas
 hide: true
 hidefromtoc: true
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 12%
+ht-degree: 11%
 
 ---
 
@@ -46,7 +47,7 @@ Você tem a opção de personalizar quais informações de contato você vê esc
   </tr> 
   <tr> 
    <td colspan="1">Email (padrão)</td> 
-   <td colspan="1">Endereço de e-mail</td> 
+   <td colspan="1">Endereço de email</td> 
   </tr> 
   <tr> 
    <td colspan="1">Telefone</td> 

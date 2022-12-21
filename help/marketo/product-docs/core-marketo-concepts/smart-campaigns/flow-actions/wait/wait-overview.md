@@ -3,23 +3,22 @@ unique-page-id: 1146950
 description: Wait - Marketo Docs - Documentação do produto
 title: Aguardar
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Espere {#wait}
+# Aguardar {#wait}
 
 ## Visão geral {#overview}
 
-Pause uma pessoa em um fluxo de campanha inteligente com o **passo de espera** prático.
+Pausar uma pessoa em um fluxo de campanha inteligente com o **etapa de espera**.
 
 ![](assets/wait-overview.png)
 
-Observe como você pode digitar em linguagem natural como &quot;4 horas&quot;. No entanto, faça **not** abreviando as palavras (ou seja, 4 horas). A campanha inteligente ainda seria executada, mas a etapa de espera seria ignorada.
+Observe como você pode digitar em linguagem natural como &quot;4 horas&quot;. Do **not**, no entanto, abreviar as palavras (ou seja, 4 horas). A campanha inteligente ainda seria executada, mas a etapa de espera seria ignorada.
 
 >[!CAUTION]
 >
@@ -27,7 +26,7 @@ Observe como você pode digitar em linguagem natural como &quot;4 horas&quot;. N
 
 >[!TIP]
 >
->Se você já tiver alguém em uma etapa de espera e não quiser que avance depois que o período de espera terminar, insira [remove from flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) logo após a etapa de espera. Especifique quem deseja remover usando a opção [adicionar escolha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md).
+>Se alguém já estiver em uma etapa de espera e você não quiser que avance depois que o período de espera terminar, insira [remover do fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) logo após a etapa de espera. Especifique quem deseja remover usando o [adicionar escolha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) opção.
 
 ## Uso {#usage}
 

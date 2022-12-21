@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359858
-description: Adicionar imagens e arquivos ao Marketo - Documentos do Marketing - Documentação do produto
+description: Adicionar imagens e arquivos ao Marketo - Documentos do Marketo - Documentação do produto
 title: Adicionar imagens e arquivos ao Marketo
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Adicionar imagens e arquivos ao Marketo {#add-images-and-files-to-marketo}
 
-É fácil adicionar várias imagens e arquivos ao mesmo tempo.
+É fácil adicionar várias imagens e arquivos de uma só vez.
 
 1. Vá para o **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Em **Novo**, clique em **Carregar imagem** ou **Ficheiro**.
+1. Em **Novo**, clique em **Carregar imagem** ou **Arquivo**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -35,23 +34,23 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. Expanda **Detalhes do arquivo** para verificar se você selecionou as imagens corretas e clique em **Carregar**.
+1. Expanda o **Detalhes do arquivo** para verificar se você selecionou as imagens corretas, clique em **Upload**.
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
    >[!NOTE]
    >
-   >Para remover os arquivos na fila antes de carregar, clique no x ao lado do nome do arquivo.
+   >Para remover arquivos em fila antes de fazer upload, clique no x ao lado do nome do arquivo.
 
    >[!TIP]
    >
-   >O Marketo verificará todos os arquivos antes de carregar; os arquivos infectados serão ignorados.
+   >O Marketo verificará todos os arquivos antes de fazer o upload; os arquivos infectados serão ignorados.
 
 1. Quando o upload for concluído, clique em **Concluir**.
 
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 
-1. Suas imagens estão disponíveis para uso em e-mails e landings page de campanha.
+1. Suas imagens agora estão disponíveis para uso em emails da campanha e landing pages.
 
    ![](assets/image2014-9-15-18-3a8-3a45.png)
 
@@ -59,7 +58,7 @@ Muito bem!
 
 >[!NOTE]
 >
->Embora o Marketo aceite todos os tipos de arquivos para upload, somente os principais tipos de imagem (JPG, PNG, GIF etc.) funcionará em nosso editor de e-mail.
+>Embora o Marketo aceite todos os tipos de arquivos para upload, somente os principais tipos de imagem (JPG, PNG, GIF, etc.) funcionará no editor de email.
 
 >[!MORELIKETHIS]
 >

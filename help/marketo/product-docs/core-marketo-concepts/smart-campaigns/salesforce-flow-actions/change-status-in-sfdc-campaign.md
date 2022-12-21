@@ -3,11 +3,10 @@ unique-page-id: 1147029
 description: Alterar status na campanha SFDC - Documentos Marketo - Documentação do produto
 title: Alterar status de campanha da SFDC
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 10%
+ht-degree: 12%
 
 ---
 
@@ -27,10 +26,10 @@ Se um lead ainda não existir no Salesforce ou não for membro da campanha, ele 
 
 ## Uso {#usage}
 
-1. Primeiro, localize e selecione o Salesforce **Campaign** em que o registro está.
+1. Primeiro, localize e selecione o Salesforce **Campanha** o registro está em.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Em seguida, selecione o **Novo Status** que deseja definir e você terminou!
+1. Em seguida, selecione o **Novo status** você quer definir e está pronto!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)

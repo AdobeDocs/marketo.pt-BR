@@ -6,7 +6,7 @@ exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 57%
+ht-degree: 58%
 
 ---
 
@@ -21,11 +21,11 @@ Quando você sincroniza inicialmente sua conta do Marketo com o Salesforce, a Ma
 | Receita anual | Receita anual |
 | Cidade | Cidade |
 | Empresa | Nome da empresa |
-| Data de conversão | SFDC - Data de conversão |
+| Data de conversão | Data de conversão do SFDC  |
 | País | País |
 | Data de criação | SFDC - Data de criação |
 | Descrição | Observações sobre a pessoa |
-| E-mail | Endereço de e-mail |
+| E-mail | Endereço de email |
 | Fax | Número de fax |
 | Nome | Nome |
 | Cancelamento de opção de e-mail | Inscrição cancelada |
@@ -54,7 +54,7 @@ Quando você sincroniza inicialmente sua conta do Marketo com o Salesforce, a Ma
 | Data de nascimento | Data de nascimento |
 | Data de criação | SFDC - Data de criação |
 | Descrição do contato | Observações sobre a pessoa |
-| E-mail | Endereço de e-mail |
+| E-mail | Endereço de email |
 | Fax comercial | Número de fax |
 | Nome | Nome |
 | Cancelamento de opção de e-mail | Inscrição cancelada |
@@ -90,7 +90,7 @@ Quando você sincroniza inicialmente sua conta do Marketo com o Salesforce, a Ma
 | Telefone da conta | Telefone principal |
 | Código SIC | Código SIC |
 | Site da conta | Site |
-| Tipo de conta | SFDC - Tipo |
+| Tipo de conta | Tipo do SFDC |
 | Site | Site |
 
 ## Campos do sistema relacionados ao Salesforce no Marketo (somente leitura) {#salesforce-related-system-fields-in-marketo-read-only}
@@ -100,6 +100,6 @@ Esses campos são criados no Marketo, mas não podem ser ajustados por clientes.
 | Campo | Descrição |
 |---|---|
 | SFDC - ID | A ID do Salesforce de 18 caracteres |
-| SFDC - Tipo | Líder ou Contato. Se estiver vazio, o lead existe apenas como uma pessoa no Marketo |
+| Tipo do SFDC | Líder ou Contato. Se estiver vazio, o lead existe apenas como uma pessoa no Marketo |
 | SFDC - Data de criação | Data de criação no SFDC (pode ser diferente de Criado no Marketo) |
 | SFDC Excluído | A pessoa estava no SFDC, mas foi excluída e agora vive somente no Marketo |

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 4720224
-description: Editar regiões - documentos do Marketo - Documentação do produto
+description: Editar regiões - Documentos do Marketo - Documentação do produto
 title: Editar regiões
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
 # Editar regiões {#edit-regions}
 
-Deseja alterar as configurações regionais do usuário para ver apenas os dados de sua região específica?
+Procurando alterar as configurações regionais do usuário para ver somente os dados de sua região específica?
 
-1. Vá para **Configurações do usuário**.
+1. Ir para **Configurações do usuário**.
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
@@ -27,4 +26,4 @@ Deseja alterar as configurações regionais do usuário para ver apenas os dados
 
 >[!NOTE]
 >
->Selecionar os Estados Unidos abrirá na parte inferior da página todas as opções de Estados Unidos a serem selecionadas.
+>Selecionar os Estados Unidos abrirá na parte inferior da página todas as opções de Estados dos EUA para selecionar.

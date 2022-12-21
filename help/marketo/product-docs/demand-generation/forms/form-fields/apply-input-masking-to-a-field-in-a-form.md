@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359667
-description: Aplicar o mascaramento de entrada a um campo em um formulário - Documentos do marketing - Documentação do produto
+description: Aplicar máscara de entrada a um campo em um formulário - Documentos do Marketo - Documentação do produto
 title: Aplicar máscara de entrada a um campo em um formulário
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
+# Aplicar máscara de entrada a um campo em um formulário {#apply-input-masking-to-a-field-in-a-form}
 
-# Aplicar o mascaramento de entrada a um campo em um formulário {#apply-input-masking-to-a-field-in-a-form}
+Você pode restringir a entrada do seu visitante usando uma máscara de entrada. Por exemplo, você pode querer que os visitantes digitem somente números de telefone em um formato específico.
 
-Você pode restringir a entrada do seu visitante usando uma máscara de entrada. Por exemplo, talvez você queira que os visitantes digitem apenas números de telefone em um formato específico.
-
-1. Vá para **Atividades de marketing**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,7 +22,7 @@ Você pode restringir a entrada do seu visitante usando uma máscara de entrada.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Selecione seu campo e verifique se **Tipo de campo** está definido como **Texto**.
+1. Selecione o campo e verifique se a variável **Tipo de campo** está definida como **Texto**.
 
    >[!NOTE]
    >
@@ -31,7 +30,7 @@ Você pode restringir a entrada do seu visitante usando uma máscara de entrada.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Clique no link **Mask Input**.
+1. Clique no botão **Entrada de máscara** link .
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
@@ -47,16 +46,16 @@ Você pode restringir a entrada do seu visitante usando uma máscara de entrada.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **Aprovar e fechar**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   Confira! Agora você está pedindo ao visitante para digitar números em um formato específico.
+   Dê uma olhada! Agora você está pedindo ao visitante para inserir números em um formato específico.
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 
    >[!NOTE]
    >
-   >O campo pode não exibir regiões predefinidas, conforme mostrado na imagem acima. Ele pode aparecer em branco até que os start do visitante insiram números, que, em seguida, aderirão automaticamente ao formato de entrada definido para o campo.
+   >O campo pode não exibir regiões predefinidas, como mostrado na imagem acima. Ele pode aparecer em branco até que o visitante comece a inserir números, o que irá automaticamente aderir ao formato de entrada definido para o campo.
 
-Muito legal, hein?
+Muito legal, não é?

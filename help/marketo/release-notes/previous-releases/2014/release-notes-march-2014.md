@@ -16,25 +16,25 @@ Os seguintes recursos estão incluídos na versão de março de 2014. Verifique 
 
 ## Botão Atualizar painel do programa de email {#email-program-dashboard-refresh-button}
 
-Use o [botão de atualização](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md) para obter métricas de email atualizadas sobre seu envio de email ou seu teste AB!
+Use o [botão atualizar](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md) para obter métricas de email atualizadas sobre seu envio de email ou seu teste AB!
 
 ![](assets/image2014-9-22-11-3a35-3a15.png)
 
 ## Desfazer/Refazer no Editor de email e no Editor de trechos {#undo-redo-in-the-email-editor-and-snippet-editor}
 
-[Desfazer ou ](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md) reagrupar até 50 ações para a sessão atual.
+[Desfazer ou refazer](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md) até 50 ações para a sessão atual.
 
 ![](assets/image2014-9-22-11-3a35-3a40.png)
 
 ## Colunas de status do programa do relatório de desempenho do programa {#program-status-columns-in-program-performance-report}
 
-Ao usar o [relatório de desempenho do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md), agora é possível ver quantas pessoas estão em quais status do programa.
+Ao usar a variável [relatório de desempenho do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md), agora é possível ver quantas pessoas estão em quais status de programa.
 
 ![](assets/image2014-9-22-11-3a36-3a13.png)
 
 ## Programas inclusivos e operacionais para análises {#inclusive-and-operational-programs-for-analytics}
 
-Agora é possível [incluir programas sem custos do período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) no Explorador de receita e nos Analisadores, definindo a opção Comportamento do Analytics como &quot;Inclusivo&quot; ao editar os Canais de programa. Também é possível excluir os programas operacionais do relatório juntos escolhendo &quot;Operacional&quot;.
+Agora você pode [incluir programas sem custos de período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) No Explorador de receita e nos Analisadores, definindo a opção Comportamento do Analytics como &quot;Inclusivo&quot; ao editar Canais de programa. Também é possível excluir os programas operacionais do relatório juntos escolhendo &quot;Operacional&quot;.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 
@@ -50,12 +50,12 @@ Como lembrete, essa configuração também altera as métricas de atribuição d
 
 ## Idioma Adicional do Usuário {#additional-user-language}
 
-Selecione Seu [Idioma do Aplicativo Marketo](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Visualize a interface do Marketo Lead Management no seu idioma preferido, agora com suporte para japonês.
+Selecione o seu [Idioma do aplicativo Marketo](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Visualize a interface do Marketo Lead Management no seu idioma preferido, agora com suporte para japonês.
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
 ## Blog de desenvolvedores do Marketo {#marketo-developer-blog}
 
-O [Marketo Developer blog](https://developers.marketo.com/blog/) é dedicado aos desenvolvedores da Web e engenheiros de software que oferecem suporte às necessidades em rápida evolução do profissional de marketing moderno. Você pode assinar anúncios sobre novas opções de integração, atualizações de versão da API e uma nova série de artigos práticos que incluem amostras de código e práticas recomendadas na integração com a plataforma Marketo.
+O [Blog do desenvolvedor do Marketo](https://developers.marketo.com/blog/) O é dedicado aos desenvolvedores da Web e engenheiros de software que suportam as necessidades do profissional de marketing moderno em rápida evolução. Você pode assinar anúncios sobre novas opções de integração, atualizações de versão da API e uma nova série de artigos práticos que incluem amostras de código e práticas recomendadas na integração com a plataforma Marketo.
 
-O [primeiro artigo](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) desta série guiará você por como recuperar com eficiência as informações sobre as pessoas (clientes/contatos/leads) que são armazenadas no Marketo usando a API.
+O [primeiro artigo](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) nesta série, você verá como recuperar com eficiência as informações sobre as pessoas (clientes/contatos/leads) armazenadas no Marketo usando a API.

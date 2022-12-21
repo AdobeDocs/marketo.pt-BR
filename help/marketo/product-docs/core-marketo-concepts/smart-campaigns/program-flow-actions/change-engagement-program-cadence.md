@@ -3,11 +3,10 @@ unique-page-id: 1147013
 description: Alterar a cadência do programa de envolvimento - Documentos do Marketo - Documentação do produto
 title: Alterar cadência do programa de envolvimento
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 7%
+ht-degree: 9%
 
 ---
 
@@ -29,8 +28,8 @@ ht-degree: 7%
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Selecione **Paused** como o **Novo valor** para impedir que a pessoa receba conteúdo.
+1. Selecionar **Em pausa** como **Novo valor** para impedir a pessoa de receber conteúdo.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-Você pode definir a pessoa de volta para **Normal** se quiser que ela comece a receber conteúdo novamente.
+Você pode definir a pessoa de volta para **Normal** se você quiser que eles comecem a receber conteúdo novamente.

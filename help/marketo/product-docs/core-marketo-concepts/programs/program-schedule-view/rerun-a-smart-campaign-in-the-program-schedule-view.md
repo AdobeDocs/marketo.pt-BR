@@ -3,7 +3,6 @@ unique-page-id: 2953331
 description: Executar novamente uma campanha inteligente na exibição de programação do programa - Documentos do Marketo - Documentação do produto
 title: Executar novamente uma Campanha Inteligente na Exibição de Programação do Programa
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Executar novamente uma campanha inteligente na Visualização de programação do programa {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# Executar novamente uma Campanha Inteligente na Exibição de Programação do Programa {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
 Você pode criar facilmente novas execuções de uma campanha inteligente existente diretamente da visualização do cronograma do programa.
 
-1. Vá para **Marketing Activities**.
+1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +32,6 @@ Você pode criar facilmente novas execuções de uma campanha inteligente existe
 
    >[!TIP]
    >
-   >Você também pode fazer isso a partir do [foco do programa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >Você também pode fazer isso com o [foco do programa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boom! Assim, você agendou outra corrida para aquela campanha inteligente. Se essa campanha inteligente continha etapas de envio de email, você também as verá!

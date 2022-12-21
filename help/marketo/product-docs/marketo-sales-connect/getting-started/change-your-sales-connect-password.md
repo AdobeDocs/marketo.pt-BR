@@ -1,30 +1,29 @@
 ---
 description: Alterar a senha da conexão de vendas - Documentos do Marketo - Documentação do produto
 title: Alterar a senha da conexão de vendas
-translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Alterar a senha da conexão de vendas {#change-your-sales-connect-password}
 
 Precisa alterar sua senha? Veja como.
 
-## Altere sua senha enquanto estiver conectado {#change-your-password-while-signed-in}
+## Alterar sua senha enquanto estiver conectado {#change-your-password-while-signed-in}
 
-1. Clique no ícone de engrenagem e selecione **Settings**.
+1. Clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. A página Meu perfil é aberta por padrão. Em Detalhes da conta, marque a caixa de seleção **Alterar senha**.
+1. A página Meu perfil é aberta por padrão. Em Detalhes da conta , selecione a **Alterar senha** caixa de seleção.
 
    ![](assets/change-your-sales-connect-password-2.png)
 
-1. Digite sua senha atual. Em seguida, insira o novo e digite-o novamente, certificando-se de que corresponda. Clique em **Salvar** quando terminar.
+1. Digite sua senha atual. Em seguida, insira o novo e digite-o novamente, certificando-se de que corresponda. Clique em **Salvar** quando concluído.
 
    ![](assets/change-your-sales-connect-password-3.png)
 
@@ -38,13 +37,13 @@ Precisa alterar sua senha? Veja como.
 >* Usar um caractere especial
 
 
-## Altere sua senha ao sair {#change-your-password-while-signed-out}
+## Alterar sua senha enquanto estiver desconectado {#change-your-password-while-signed-out}
 
-1. Navegue até a página [Logon da Conexão de Vendas](https://toutapp.com/login) e clique em **Esqueceu a senha**.
+1. Navegue até o [Logon no Sales Connect](https://toutapp.com/login) e clique em **Esqueceu a senha**.
 
    ![](assets/change-your-sales-connect-password-4.png)
 
-1. Insira o endereço de email associado à conta e clique em **Enviar email de redefinição**.
+1. Insira o endereço de email associado à conta e clique em **Enviar Redefinir Email**.
 
    ![](assets/change-your-sales-connect-password-5.png)
 
@@ -56,6 +55,6 @@ Precisa alterar sua senha? Veja como.
    >
    >Certifique-se de verificar a pasta de spam também, pois esse email pode, às vezes, acabar lá.
 
-1. Digite e confirme sua nova senha. Clique em **Definir senha** quando terminar.
+1. Digite e confirme sua nova senha. Clique em **Definir senha** quando concluído.
 
    ![](assets/change-your-sales-connect-password-7.png)

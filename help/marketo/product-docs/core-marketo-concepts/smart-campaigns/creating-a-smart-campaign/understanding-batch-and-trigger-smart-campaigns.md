@@ -3,7 +3,6 @@ unique-page-id: 2953132
 description: Noções básicas sobre campanhas inteligentes em lote e acionadoras - Documentos do Marketo - Documentação do produto
 title: Como entender campanhas inteligentes em lote e acionar
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Como entender as campanhas inteligentes em lote e acionar {#understanding-batch-and-trigger-smart-campaigns}
+# Como entender campanhas inteligentes em lote e acionar {#understanding-batch-and-trigger-smart-campaigns}
 
 Há dois tipos de campanhas inteligentes: Lote e Acionador.
 
@@ -27,18 +26,18 @@ As campanhas inteligentes em lote terão apenas filtros na seção da lista inte
 
 ![](assets/batch-filter.png)
 
-Clicar na guia **Schedule** confirmará que a campanha inteligente está definida como &quot;Lote&quot;.
+Clicar no **Agendar** A guia confirmará que a campanha inteligente está definida como &quot;Lote&quot;.
 
 ![](assets/batch-c4.png)
 
 **Campanhas inteligentes em lote**
 
 * Pode ser programado para recorrências, como diário, semanal e mensal. Você também pode executá-los apenas uma vez.
-* São visíveis no [modo de exibição do agendamento do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Qualquer coisa depois de uma etapa &quot;Aguardar&quot; na campanha inteligente não será incluída na visualização.
+* São visíveis no [exibição de programação do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Qualquer coisa depois de uma etapa &quot;Aguardar&quot; na campanha inteligente não será incluída na visualização.
 
 <br> 
 
-## Acionar Campanha Inteligente {#trigger-smart-campaign}
+## Acionar campanha inteligente {#trigger-smart-campaign}
 
 >[!NOTE]
 >
@@ -50,7 +49,7 @@ Se uma campanha inteligente usar pelo menos um acionador na seção da lista int
 
 ![](assets/trigger.png)
 
-Clicar na guia **Schedule** confirmará que a campanha inteligente está definida como &quot;Acionada&quot;.
+Clicar no **Agendar** A guia confirmará que a campanha inteligente está definida como &quot;Acionada&quot;.
 
 ![](assets/trigger2.png)
 

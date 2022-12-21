@@ -3,7 +3,6 @@ unique-page-id: 2949184
 description: SEO - Noções básicas sobre páginas - Documentos do Marketo - Documentação do produto
 title: SEO - Noções básicas sobre páginas
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
@@ -53,4 +52,4 @@ A guia Problemas identificará quais melhorias você pode fazer para aumentar su
 | Categoria | O tipo de problema que está sendo reportado. |
 | Status | A tarefa está concluída ou ainda está aberta. Depois que você e seu webmaster corrigirem o problema no site, o status deverá mudar para resolvido (verificação verde). |
 
-Incrível, agora que você sabe as noções básicas das páginas, confira o [artigo Detalhe da página Detalhar](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) para saber mais sobre coisas legais que você pode fazer.
+Incrível, agora que você sabe o básico das páginas, confira o [Artigo Detalhado da página Detalhamento da página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) para aprender coisas mais legais que você pode fazer.

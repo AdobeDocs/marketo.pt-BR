@@ -1,29 +1,28 @@
 ---
 unique-page-id: 18317338
-description: Domínios Bloqueados - Documentos do Marketing - Documentação do Produto
-title: Domínios Bloqueados
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Domínios bloqueados - Documentos do Marketo - Documentação do produto
+title: Domínios bloqueados
+exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Domínios bloqueados {#blocked-domains}
 
-# Domínios Bloqueados {#blocked-domains}
-
-Ajude a sua equipe de vendas a obter sucesso, impedindo-a de enviar concorrentes acidentalmente por email, armadilhas de spam conhecidas ou qualquer outro domínio que você não queira contactar.
+Ajude sua equipe de vendas a obter sucesso, evitando que ela envie emails acidentalmente de concorrentes, armadilhas de spam conhecidas ou qualquer outro domínio que você não deseja contatar.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. No aplicativo da Web, clique no ícone de engrenagem e selecione **Configurações**.
+1. No aplicativo Web, clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/one-3.png)
 
-1. Em Configurações administrativas, clique em **Geral**.
+1. Em Configurações de administração, clique em **Geral**.
 
    ![](assets/two-3.png)
 
@@ -33,4 +32,4 @@ Ajude a sua equipe de vendas a obter sucesso, impedindo-a de enviar concorrentes
 
    >[!NOTE]
    >
-   >Os emails que fazem parte de um envio [Email do Grupo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) que falhar devido ao envio para um domínio de email bloqueado falharão silenciosamente e não aparecerão na pasta de email que falhou.
+   >Emails que fazem parte de um [Email do grupo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) o envio que falhar devido ao ser enviado para um domínio de email bloqueado falhará silenciosamente e não será exibido na pasta de email com falha.

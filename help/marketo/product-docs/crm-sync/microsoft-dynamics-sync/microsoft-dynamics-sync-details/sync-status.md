@@ -3,7 +3,6 @@ unique-page-id: 10097584
 description: Status da sincronização - Documentação do Marketo - Documentação do produto
 title: Status da sincronização
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
@@ -17,11 +16,11 @@ Você pode manter guias na taxa de transferência atual e no backlog do processo
 
 ## Guia Status de Sincronização {#sync-status-tab}
 
-1. Clique em **Admin** e **Microsoft Dynamics**.
+1. Clique em **Administrador** e **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Clique na guia **Sync Status**.
+1. Clique no botão **Sincronizar Status** guia .
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +34,7 @@ Você pode manter guias na taxa de transferência atual e no backlog do processo
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Clique no menu suspenso **View:** e selecione **Last Hour** para exibir as informações de throughput.
+1. Clique no botão **Exibir:** e selecione **Última Hora** para exibir informações de taxa de transferência.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 

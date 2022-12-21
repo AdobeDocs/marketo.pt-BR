@@ -2,18 +2,17 @@
 unique-page-id: 2359862
 description: Pesquisar imagens e arquivos carregados - Documentos do Marketo - Documentação do produto
 title: Pesquisar imagens e arquivos carregados
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
 # Pesquisar imagens e arquivos carregados {#search-uploaded-images-and-files}
 
-No Marketo, encontrar imagens e arquivos é uma brisa.
+No Marketo, encontrar imagens e arquivos é uma tarefa fácil.
 
 1. Vá para o **Design Studio**.
 
@@ -23,15 +22,15 @@ No Marketo, encontrar imagens e arquivos é uma brisa.
 
    ![](assets/image2014-9-16-11-3a44-3a4.png)
 
-1. Na caixa **Localização Rápida** na parte inferior da tela, digite o nome do arquivo que você está procurando e clique em **Enter**.
+1. No **Localização Rápida** na parte inferior da tela, digite o nome do arquivo que você está procurando e clique em **Enter**.
 
    ![](assets/image2014-9-16-11-3a46-3a32.png)
 
 >[!TIP]
 >
->Para start de uma nova pesquisa, clique em **x** na caixa **Localização Rápida**.
+>Para iniciar uma nova pesquisa, clique no botão **x** no **Localização Rápida** caixa.
 
-Levantem os pés, acabaram!
+Levante os pés, acabou!
 
 >[!MORELIKETHIS]
 >
