@@ -3,9 +3,9 @@ unique-page-id: 2953188
 description: Filtros inferidos - Documentação da Marketo - Documentação do produto
 title: Filtros Inferidos
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: c045e9008bf0e9d145ac67866a1e0d7cb6e26069
+source-git-commit: e9a89fb17ca55961c1ee7962d5466b6cb76a9550
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administra
 
 >[!NOTE]
 >
->Para garantir que os valores de campo inferidos permaneçam atualizados, atualizamos periodicamente o banco de dados usado em pesquisas de endereço IP. As atualizações do banco de dados podem introduzir novos valores de campo inferidos que podem ser necessários adicionar às definições de filtro de lista inteligente.
+>Para garantir que os valores de campo inferidos permaneçam atualizados, atualizamos periodicamente o banco de dados usado em pesquisas de endereço IP. As atualizações do banco de dados podem introduzir novos valores de campo inferidos que podem ser necessários para adicionar às definições de filtro de lista inteligente.
 >
 >As atualizações do banco de dados podem ocorrer durante uma [Versão do produto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Quando uma atualização ocorre, a variável [Notas de versão do Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} conterá uma explicação de quaisquer alterações nos valores de campo inferidos.
 
