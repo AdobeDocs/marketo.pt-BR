@@ -74,7 +74,7 @@ Use o Analisador de programas para identificar seus programas mais e menos efica
 
    Ao adicionar **(FT) Ganho de Receita** Então vemos rapidamente que, enquanto a Expo de Origami adquiriu muitos novos nomes, resulta em uma receita relativamente baixa. Além disso, vemos que o programa Paper Fest 12 está recebendo menos nomes, mas nomes melhores, já que influencia mais ganhos de receita (bolha maior).
 
-1. Use o menu suspenso Cor para adicionar uma quarta métrica. Analisaremos a (FT) Receita para investimento.
+1. Use o menu suspenso Cor para adicionar uma quarta métrica. Analisaremos a (FT) Receita para Investimento.
 
    ![](assets/image2014-9-17-18-3a55-3a33.png)
 

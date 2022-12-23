@@ -32,7 +32,7 @@ Um dos recursos mais interessantes do Marketo é a capacidade de permitir que as
 
    ![](assets/campaignfilterdrag.png)
 
-1. As opções de origem indicam que tipo de solicitação será honrada. Para a funcionalidade do Salesforce, escolha **Vendas** **Insight**.
+1. As opções de origem indicam que tipo de solicitação será cumprida. Para a funcionalidade do Salesforce, escolha **Vendas** **Insight**.
 
    >[!TIP]
    >
