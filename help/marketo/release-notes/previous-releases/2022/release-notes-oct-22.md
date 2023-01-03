@@ -1,9 +1,9 @@
 ---
 description: Notas de versão - outubro de 2022 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - outubro de 2022
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '634'
 ht-degree: 5%
 
 ---
@@ -24,7 +24,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
 
 </br>
 
-* **Sincronização de Campo Personalizado do Membro do Programa**: Capacidade de sincronizar bidirecionalmente campos extensíveis capturados para um membro do programa (por exemplo, preferências do participante durante o registro do evento, como comida, sessões, faixas etc.)
+* **Sincronização de Campo Personalizado do Membro do Programa**: Capacidade de sincronizar bidirecionalmente campos extensíveis capturados para um membro do programa (por exemplo, preferências do participante durante o registro do evento, como comida, sessões, faixas etc.) com Campos do Membro do Campaign no Salesforce.
 
 <table> 
   <tr> 
