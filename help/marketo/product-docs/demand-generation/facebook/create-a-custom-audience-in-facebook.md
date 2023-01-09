@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Criar um público-alvo personalizado no Facebook - Documentos do Marketo - Documentação do produto
 title: Criar um público-alvo personalizado no Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Adicionar públicos-alvo personalizados do Facebook como um serviço do LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) na seção Admin .
->* [Aceite os termos de públicos-alvo personalizados do Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) na sua conta do Facebook.
->
+>* [Adicionar públicos-alvo personalizados do Facebook como um serviço do LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target=&quot;_blank&quot;} na seção de administração.
+>* [Aceite os termos de públicos-alvo personalizados do Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target=&quot;_blank&quot;} em sua conta do Facebook.
 
 
 >[!TIP]
 >
->Saiba mais sobre [públicos-alvo personalizados no Facebook](https://www.facebook.com/help/341425252616329).
+>Saiba mais sobre [públicos-alvo personalizados no Facebook](https://www.facebook.com/help/341425252616329){target=&quot;_blank&quot;}.
 
 1. Encontre e selecione a lista inteligente ou estática que contém os leads dos quais você deseja criar o público-alvo.
 
@@ -55,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   E é isso! No Facebook, você verá o novo público-alvo em **Gerenciador de anúncios > Públicos-alvo**.
+   E é isso! No Facebook, você verá o novo público-alvo em **Gerenciador de anúncios** > **Públicos-alvo**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
@@ -65,8 +64,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Consulte a [Caminho de aprendizagem do facebook para clientes do Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Ela aborda tudo o que você precisa saber, desde a criação de uma página do Facebook até o direcionamento de seus anúncios do Facebook usando integrações de rede de anúncios do Marketo.
+   >Consulte a [Caminho de aprendizagem do facebook para clientes do Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target=&quot;_blank&quot;}. Ela aborda tudo o que você precisa saber, desde a criação de uma página do Facebook até o direcionamento de seus anúncios do Facebook usando integrações de rede de anúncios do Marketo.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[Adicionar leads a um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

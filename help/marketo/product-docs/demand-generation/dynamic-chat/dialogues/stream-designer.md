@@ -2,9 +2,9 @@
 description: Stream Designer - Documentos do Marketo - Documentação do produto
 title: Designer de sequência
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '866'
 ht-degree: 2%
 
 ---
@@ -89,6 +89,10 @@ No canto superior direito do Designer de fluxo, você verá alguns ícones. Aqui
 1. Em Resposta do Chatbot, diga à sua pergunta como gostaria.
 
    ![](assets/stream-designer-8.png)
+
+   >[!TIP]
+   >
+   >Você pode personalizar a experiência de visitantes conhecidos do chat usando tokens (por exemplo: Hello `{{lead.leadFirstName:""}}`). Basta clicar no ícone de colchete à direita e fazer a seleção. Adicione um valor padrão entre as aspas se desejar que visitantes anônimos vejam algo genérico (por exemplo: Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
