@@ -3,16 +3,16 @@ description: Informações da API de exportação em massa - Documentos do Marke
 title: Informações da API de exportação em massa
 hide: true
 hidefromtoc: true
-source-git-commit: 54c6a3d3a9749abb39a1d74422b13cbdb260214a
+source-git-commit: 6cee35eaa7eaf1a55188720a0d11d4ae0059c223
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Informações da API de exportação em massa {#bulk-export-api-information}
 
-Saiba como verificar a capacidade de extração em massa que foi absorvida pela instância do Marketo Engage nos últimos sete dias.
+Saiba como verificar quanto [API de extração em massa](https://developers.marketo.com/rest-api/bulk-extract/)A capacidade {target=&quot;_blank&quot;} foi absorvida pela instância do Marketo Engage nos últimos sete dias.
 
 >[!NOTE]
 >
