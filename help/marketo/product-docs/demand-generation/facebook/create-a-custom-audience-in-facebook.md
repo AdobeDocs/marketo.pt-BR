@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Criar um público-alvo personalizado no Facebook - Documentos do Marketo - Documentação do produto
 title: Criar um público-alvo personalizado no Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ ht-degree: 0%
 1. Clique no botão **Público** e selecione **+ Novo público-alvo**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
+
+   >[!IMPORTANT]
+   >
+   >A API do Facebook permite até 500 públicos-alvo personalizados por conta de anúncio do Facebook.
 
 1. Digite um **Nome do público-alvo**. Clique em **Atualizar**.
 
