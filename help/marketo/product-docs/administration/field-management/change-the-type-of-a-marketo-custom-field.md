@@ -3,9 +3,9 @@ unique-page-id: 2360331
 description: Alterar o tipo de um campo personalizado do Marketo - Documentos do Marketo - Documentação do produto
 title: Alterar o tipo de um campo personalizado do Marketo
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,21 @@ ht-degree: 0%
 
 Veja como alterar o tipo de campo de um Campo personalizado.
 
-1. Ir para **Administrador** e clique em **Gerenciamento de campos**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-18-13-3a4-3a39.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
+
+1. Clique em **Gerenciamento de campos**.
+
+   ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
 1. Localize e selecione o campo desejado.
 
-   ![](assets/image2014-9-18-13-3a4-3a48.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
 1. No **Ações do campo** , clique em **Alterar tipo**.
 
-   ![](assets/image2014-9-18-13-3a4-3a57.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
 1. Selecione o novo tipo.
 
@@ -32,11 +36,11 @@ Veja como alterar o tipo de campo de um Campo personalizado.
    >
    >Os campos de pontuação e fórmula não podem ser alterados.
 
-   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
 1. Leia o aviso e clique em **Alterar** para confirmar.
 
-   ![](assets/image2014-9-18-13-3a5-3a23.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 
    >[!NOTE]
    >
