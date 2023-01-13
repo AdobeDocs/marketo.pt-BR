@@ -3,9 +3,9 @@ unique-page-id: 45417092
 description: Exportar dados usados por para um campo - Documentos do Marketo - Documentação do produto
 title: Exportar dados usados por para um campo
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -18,25 +18,25 @@ Como administrador, você pode exportar ativos relacionados de um campo para pod
 >
 >**Permissões de administrador necessárias**
 
-1. Clique em **Administrador**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/one.png)
+   ![](assets/export-used-by-data-for-a-field-1.png)
 
 1. Clique em **Gerenciamento de campos**.
 
-   ![](assets/two-3.png)
+   ![](assets/export-used-by-data-for-a-field-2.png)
 
 1. Encontre o campo desejado e selecione-o.
 
-   ![](assets/three.png)
+   ![](assets/export-used-by-data-for-a-field-3.png)
 
 1. Clique no botão **Ações do campo** e selecione **Exportar Usado Por**.
 
-   ![](assets/four.png)
+   ![](assets/export-used-by-data-for-a-field-4.png)
 
 1. Um arquivo Excel será exportado. Abra-o para exibir seu conteúdo.
 
-   ![](assets/five-1.png)
+   ![](assets/export-used-by-data-for-a-field-5.png)
 
    >[!TIP]
    >

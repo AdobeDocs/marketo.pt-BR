@@ -3,9 +3,9 @@ unique-page-id: 2360344
 description: Exibir mapeamentos de campo entre o Marketo e o Salesforce - Documentos do Marketo - Documentação do produto
 title: Exibir mapeamentos de campo entre o Marketo e o Salesforce
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,17 @@ Talvez você queira saber a quais campos do Salesforce um campo específico do M
 >
 >**Permissões de administrador necessárias**
 
-1. Ir para **Administrador** e clique em **Gerenciamento de campos**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-19-9-3a54-3a26.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
+
+1. Clique em **Gerenciamento de campos**.
+
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
 1. Encontre o campo que você está interessado em ver e clique no link **+** para expandir o mapeamento.
 
-   ![](assets/image2014-9-19-9-3a54-3a34.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ unique-page-id: 2360337
 description: Criar e usar um campo de string concatenada (fórmula) - Documentos do Marketo - Documentação do produto
 title: Criar e usar um campo de string concatenada (fórmula)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -14,29 +14,33 @@ ht-degree: 0%
 
 É possível combinar valores de vários campos ou criar um valor condicional usando um campo Fórmula do Marketo .
 
-1. Ir para **Administrador** e clique em **Gerenciamento de campos**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-19-9-3a44-3a58.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
+
+1. Clique em **Gerenciamento de campos**.
+
+   ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
 1. Clique em **Novo campo personalizado**.
 
-   ![](assets/image2014-9-19-9-3a45-3a8.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
 1. Selecionar **Fórmula** para **Tipo**.
 
-   ![](assets/image2014-9-19-9-3a45-3a17.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
 1. Insira um **Nome** no seu campo e clique em **Criar**.
 
-   ![](assets/image2014-9-19-9-3a46-3a0.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
 1. Encontre e selecione seu campo de fórmula e clique em **Editar regras**.
 
-   ![](assets/image2014-9-19-9-3a46-3a13.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
 1. Adicione duas opções e defina-as como a captura de tela abaixo.
 
-   ![](assets/image2014-9-19-9-3a46-3a25.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-7.png)
 
    >[!TIP]
    >
@@ -44,7 +48,7 @@ ht-degree: 0%
 
 1. Agora é possível adicionar o campo de fórmula como um token em um email.
 
-   ![](assets/seven.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-8.png)
 
 >[!NOTE]
 >
