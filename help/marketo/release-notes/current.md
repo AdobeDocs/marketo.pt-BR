@@ -2,9 +2,9 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 8cb8f1d564ccfba5c3861370c7624069a08be712
+source-git-commit: 591dff8db13e22eb129f6e30ecb90f3b7238652b
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '635'
 ht-degree: 9%
 
 ---
@@ -175,20 +175,6 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
 </table>
 
 * **Notificações por email de reunião agendadas para bate-papo dinâmico**: Quando uma reunião é reservada no calendário de um agente, o agente receberá uma notificação por email sobre a reserva, incluindo informações detalhadas sobre o envolvimento do Bate-papo dinâmico do visitante.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Atualizações de documentação</b></td>
-  </tr>
-  <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Relatório de participação no diálogo para bate-papo dinâmico**: Fornece uma visualização da participação na caixa de diálogo ao longo do tempo, incluindo a capacidade de filtrar por tipo de visitante e tipo de envolvimento.
 
 <table> 
   <tr> 
