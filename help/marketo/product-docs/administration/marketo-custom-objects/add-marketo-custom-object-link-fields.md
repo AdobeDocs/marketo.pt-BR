@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Adicionar campos de link de objeto personalizado do Marketo - Documentos do Marketo - Documentação do produto
 title: Adicionar campos de link de objeto personalizado do Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -21,21 +21,25 @@ Ao criar objetos personalizados, é necessário fornecer campos de link para con
 
 Veja como criar um campo de link em um objeto personalizado para uma estrutura de um para muitos.
 
-1. Clique em **Administrador** e em **Gerenciamento de banco de dados**, selecione **Objetos personalizados do Marketo**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2016-1-18-13-3a25-3a11.png)
+   ![](assets/add-marketo-custom-object-link-fields-1.png)
+
+1. Clique em **Objetos personalizados do Marketo**.
+
+   ![](assets/add-marketo-custom-object-link-fields-2.png)
 
 1. Selecione o objeto personalizado na lista.
 
-   ![](assets/image2016-1-14-15-3a6-3a2.png)
+   ![](assets/add-marketo-custom-object-link-fields-3.png)
 
 1. No **Campos** clique em **Novo campo**.
 
-   ![](assets/image2015-9-17-14-3a9-3a19.png)
+   ![](assets/add-marketo-custom-object-link-fields-4.png)
 
 1. Nomeie o campo de link e adicione uma descrição opcional. Certifique-se de selecionar o tipo de dados Link .
 
-   ![](assets/image2015-10-5-13-3a24-3a57.png)
+   ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
@@ -43,7 +47,7 @@ Veja como criar um campo de link em um objeto personalizado para uma estrutura d
 
 1. Selecione se o objeto de link é para um cliente potencial (pessoa) ou uma empresa.
 
-   ![](assets/image2015-10-5-13-3a28-3a1.png)
+   ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
@@ -53,7 +57,7 @@ Veja como criar um campo de link em um objeto personalizado para uma estrutura d
 
 1. Selecione o campo de link ao qual deseja se conectar como o pai do novo campo.
 
-   ![](assets/image2015-10-5-13-3a30-3a6.png)
+   ![](assets/add-marketo-custom-object-link-fields-7.png)
 
    >[!NOTE]
    >
@@ -61,7 +65,7 @@ Veja como criar um campo de link em um objeto personalizado para uma estrutura d
 
 1. Clique em **Salvar.**
 
-   ![](assets/image2015-10-5-13-3a34-3a0.png)
+   ![](assets/add-marketo-custom-object-link-fields-8.png)
 
 ## Criar um campo de link para uma estrutura de muitas para muitas {#create-a-link-field-for-a-many-to-many-structure}
 
@@ -71,21 +75,25 @@ Veja como criar um campo de link em um objeto intermediário para uso em uma est
 >
 >Você já deve ter criado o objeto intermediário e quaisquer objetos personalizados aos quais pretende vinculá-lo.
 
-1. Clique em **Administrador** e em **Gerenciamento de banco de dados**, selecione **Objetos personalizados do Marketo**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2016-1-18-9-3a8-3a14.png)
+   ![](assets/add-marketo-custom-object-link-fields-9.png)
+
+1. Clique em **Objetos personalizados do Marketo**.
+
+   ![](assets/add-marketo-custom-object-link-fields-10.png)
 
 1. Selecione o objeto intermediário ao qual deseja adicionar o campo.
 
-   ![](assets/image2016-1-18-9-3a10-3a29.png)
+   ![](assets/add-marketo-custom-object-link-fields-11.png)
 
 1. No **Campos** clique em **Novo campo**.
 
-   ![](assets/image2016-1-18-9-3a31-3a43.png)
+   ![](assets/add-marketo-custom-object-link-fields-12.png)
 
 1. É necessário criar dois campos de link. Crie um de cada vez. Primeiro, nomeie o campo para os membros da lista do banco de dados (leadID, por exemplo). Adicione uma descrição opcional. Certifique-se de selecionar o tipo de dados do link.
 
-   ![](assets/image2016-1-18-9-3a38-3a59.png)
+   ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
@@ -93,11 +101,11 @@ Veja como criar um campo de link em um objeto intermediário para uso em uma est
 
 1. Selecione o objeto de link do banco de dados, neste caso Lead.
 
-   ![](assets/image2016-1-18-9-3a50-3a48.png)
+   ![](assets/add-marketo-custom-object-link-fields-14.png)
 
 1. Selecione o campo de link ao qual você deseja se conectar, neste caso, Id.
 
-   ![](assets/image2016-1-18-9-3a53-3a54.png)
+   ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
@@ -105,11 +113,11 @@ Veja como criar um campo de link em um objeto intermediário para uso em uma est
 
 1. Clique em **Salvar.**
 
-   ![](assets/image2016-1-18-9-3a55-3a18.png)
+   ![](assets/add-marketo-custom-object-link-fields-16.png)
 
 1. Repita esse processo para o segundo link para o objeto personalizado, neste exemplo, CourseID. O Nome do objeto do link será exibido e o Campo do link será ID do curso. Como você já criou e aprovou o objeto personalizado do curso, essas seleções estão disponíveis nos menus suspensos.
 
-   ![](assets/image2016-1-18-9-3a57-3a46.png)
+   ![](assets/add-marketo-custom-object-link-fields-17.png)
 
 1. Crie quaisquer outros campos que você deseja usar no objeto intermediário, como enrollmentID ou grade.
 
@@ -117,7 +125,7 @@ Veja como criar um campo de link em um objeto intermediário para uso em uma est
 
 A próxima etapa é usar esses objetos personalizados em filtros em suas campanhas inteligentes. Com uma relação muitos para muitos, você pode selecionar várias pessoas/empresas e vários objetos personalizados. No exemplo abaixo, qualquer pessoa no banco de dados que corresponda a esses critérios será listada. O campo coursename vem do objeto personalizado do curso e o nível de inscrição vem do objeto intermediário.
 
-![](assets/image2016-1-14-15-3a57-3a59.png)
+![](assets/add-marketo-custom-object-link-fields-18.png)
 
 >[!MORELIKETHIS]
 >

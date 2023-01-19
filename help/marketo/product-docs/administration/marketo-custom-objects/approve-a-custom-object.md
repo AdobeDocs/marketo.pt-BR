@@ -3,9 +3,9 @@ unique-page-id: 10094188
 description: Aprovar um objeto personalizado - Documentos do Marketo - Documentação do produto
 title: Aprovar um objeto personalizado
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,25 @@ Você deve aprovar um objeto personalizado antes de usá-lo. O processo é um po
 
 Você criou um novo objeto personalizado. Aqui está como aprová-lo.
 
-1. Em Admin, clique em **Objetos personalizados do Marketo** e selecione um objeto que esteja em um estado de Rascunho.
+1. Vá para o **Administrador** área.
 
-   ![](assets/one.png)
+   ![](assets/approve-a-custom-object-1.png)
+
+1. Clique em **Objetos personalizados do Marketo**.
+
+   ![](assets/approve-a-custom-object-2.png)
+
+1. Selecione um objeto que esteja no estado Rascunho.
+
+   ![](assets/approve-a-custom-object-3.png)
 
 1. Clique no botão **Ações do objeto personalizado** e selecione **Aprovar objeto**.
 
-   ![](assets/two.png)
+   ![](assets/approve-a-custom-object-4.png)
 
 1. O estado é alterado para Approved.
 
-   ![](assets/three.png)
+   ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
@@ -48,12 +56,12 @@ Depois de editar um objeto personalizado aprovado, você deve aprovar o rascunho
 
 1. Ao editar um objeto personalizado já aprovado, ele recebe um estado Aprovado com Rascunho.
 
-   ![](assets/four.png)
+   ![](assets/approve-a-custom-object-6.png)
 
 1. Quando estiver pronto para aprovar o rascunho, clique no botão **Ações do objeto personalizado** e selecione **Aprovar objeto**.
 
-   ![](assets/five-1.png)
+   ![](assets/approve-a-custom-object-7.png)
 
 1. Uma visualização exibe os itens que foram alterados no rascunho. Clique em **Aprovar**.
 
-   ![](assets/six-1.png)
+   ![](assets/approve-a-custom-object-8.png)
