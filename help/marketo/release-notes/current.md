@@ -2,10 +2,10 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 591dff8db13e22eb129f6e30ecb90f3b7238652b
+source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 9%
+source-wordcount: '636'
+ht-degree: 8%
 
 ---
 
@@ -104,8 +104,8 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informações da API de exportação em massa</a></td>
   </tr>
   </tbody>
 </table>
