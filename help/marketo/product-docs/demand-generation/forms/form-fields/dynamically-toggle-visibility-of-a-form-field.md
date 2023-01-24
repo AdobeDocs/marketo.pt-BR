@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: Alternar dinamicamente a visibilidade de um campo de formulário - Documentos do Marketo - Documentação do produto
 title: Alternar dinamicamente a visibilidade de um campo de formulário
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0aa754bb3fb9057aaec87dc41743711fb15f8d62
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,9 @@ Um recurso muito interessante do Marketo forms é que você pode ocultar/mostrar
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 E é isso! Agora, quando as pessoas preencherem este formulário e selecionarem Estados Unidos para país, o campo Estado aparecerá dinamicamente com as opções especificadas.
+
+>[!IMPORTANT]
+>
+>O comportamento do campo de formulário funcionará perfeitamente quando os valores do campo forem definidos/atualizados por meio de um script personalizado usando [Funções da API](https://developers.marketo.com/javascript-api/forms/){target="_blank"} no Forms 2.0.
+>
+>Os campos condicionais podem não funcionar conforme o esperado se os valores de campo forem modificados por scripts externos diferentes da API JavaScript do Forms 2.0.
