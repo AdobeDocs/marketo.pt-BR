@@ -2,10 +2,10 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
+source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 9%
+source-wordcount: '597'
+ht-degree: 8%
 
 ---
 
@@ -126,8 +126,8 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
@@ -140,8 +140,8 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendário</a></td>
   </tr>
   </tbody>
 </table>
@@ -168,8 +168,8 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
@@ -182,8 +182,8 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Reuniões</a></td>
   </tr>
   </tbody>
 </table>
