@@ -2,9 +2,9 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '632'
 ht-degree: 8%
 
 ---
@@ -188,6 +188,8 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
   </tbody>
 </table>
 
-**_Webinar da versão do produto_**
+## Anúncios {#announcements}
 
-[Webinar de lançamento do Marketo Engage de outubro de 2022 e janeiro de 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **Alteração na API REST do Marketo**: Com a versão de outubro de 2022, introduzimos uma pequena alteração na mensagem de resposta da API REST do Marketo. Veja isto [Publicação da Nação do Marketo](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} para obter detalhes.
+
+* **_Webinar da versão do produto_**: [Webinar de lançamento do Marketo Engage de outubro de 2022 e janeiro de 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
