@@ -2,9 +2,9 @@
 description: Visão geral - Documentação do Marketo - Documentação do produto
 title: Visão geral
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---
@@ -30,8 +30,6 @@ No primeiro logon, uma pop-up será exibida, pronta para fornecer a você o lan�
 
 O tour te conduz por tudo o que você precisa saber!
 
-![](assets/overview-2.png)
-
 ## Novidades {#whats-new}
 
 Há muitas novas funcionalidades no UX moderno, todas projetadas para melhorar significativamente sua experiência de marketing.
@@ -40,7 +38,7 @@ Há muitas novas funcionalidades no UX moderno, todas projetadas para melhorar s
 
 Os novos recursos da interface melhoraram e expandiram a iconografia. Saiba mais sobre eles aqui: [Ícone Glossário](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
-![](assets/overview-new-icons.png)
+![](assets/overview-2.png)
 
 **Navegação global**
 
@@ -191,15 +189,12 @@ Dê uma olhada na nova navegação global.
    <td>Todos os itens de superbola anteriores listados</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Use-o para fornecer feedback sobre sua experiência</td> 
-  </tr>
   <tr>
-   <td>4</td> 
+   <td>3</td> 
    <td>Se você tiver várias assinaturas, clique em seu subnome para alternar facilmente para outro</td> 
   </tr>
   <tr>
-   <td>5</td> 
+   <td>4</td> 
    <td>Pesquisa global - agora você pode pesquisar sua instância inteira daqui</td> 
   </tr>
  </tbody>
