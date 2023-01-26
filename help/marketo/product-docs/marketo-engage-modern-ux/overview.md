@@ -2,9 +2,9 @@
 description: Visão geral - Documentação do Marketo - Documentação do produto
 title: Visão geral
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
+source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 2%
 
 ---
@@ -208,4 +208,4 @@ Dê uma olhada na nova navegação global.
 >
 >Usar a pesquisa na árvore só produzirá resultados da seção em que você está (por exemplo, Atividades de marketing). Se você quiser pesquisar sua instância inteira, use a pesquisa global.
 
-Aproveite a nova experiência do Marketo Engage e certifique-se de compartilhar seus comentários!
+Aproveite a nova experiência do Marketo Engage!
