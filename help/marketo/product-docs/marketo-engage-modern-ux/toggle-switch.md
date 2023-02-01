@@ -2,9 +2,9 @@
 description: Alternar Switch - Documentos do Marketo - Documentação do produto
 title: Alternar Switch
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '275'
 ht-degree: 1%
 
 ---
@@ -68,5 +68,9 @@ Os seguintes recursos estão disponíveis no UX moderno (com novos recursos adic
 * Exibição de detalhes da página de aterrissagem
 * Exibição de lista da página inicial
 * Detalhes do modelo da página de aterrissagem
+* Lista de modelos de página inicial
 * Exibição de detalhes do trecho
+* Exibição da lista de trechos
+
+
 

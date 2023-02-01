@@ -2,10 +2,10 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '632'
-ht-degree: 8%
+source-wordcount: '631'
+ht-degree: 7%
 
 ---
 
@@ -36,8 +36,8 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Alternar Switch</a></td>
   </tr>
   </tbody>
 </table>
