@@ -1,7 +1,7 @@
 ---
 description: Inspetor de campanha - Documentos do Marketo - Documentação do produto
 title: Inspetor de campanhas
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 4%
@@ -12,7 +12,7 @@ ht-degree: 4%
 
 Use o Inspetor de campanha para exibir/pesquisar todas as suas campanhas inteligentes em um único lugar.
 
-## Ativar Inspetor de Campanha {#activate-campaign-inspector}
+## Habilitar Inspetor de Campanha {#enable-campaign-inspector}
 
 1. Vá para o **Administrador** área.
 
