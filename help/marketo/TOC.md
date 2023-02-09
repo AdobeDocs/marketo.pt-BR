@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 3cc2fbff42aec23a96ccb09b3c14a90c7e8d39b9
+source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
 workflow-type: tm+mt
-source-wordcount: '8827'
+source-wordcount: '8829'
 ht-degree: 5%
 
 ---
@@ -181,6 +181,7 @@ ht-degree: 5%
          + [Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + Configurações {#settings}
          + [Informações da API de exportação em massa](product-docs/administration/settings/bulk-export-api-information.md)
+         + [Inspetor de campanhas](product-docs/administration/settings/campaign-inspector.md)
          + [Alterar configurações de atribuição do Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Alterar a senha do Marketo](product-docs/administration/settings/change-your-marketo-password.md)
          + [Alterar as definições de segurança de senha](product-docs/administration/settings/change-your-password-security-settings.md)
@@ -1124,7 +1125,7 @@ ht-degree: 5%
             + [Como instalar botões de conexão de vendas no Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)
             + [Importar uma ID do Salesforce para o Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [Instalar campos de evento do Sales Connect no histórico de atividades](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
-            + [Instalar a personalização do Salesforce para clientes Professional Edition](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
+            + [Instalar a personalização do Salesforce para clientes da Professional Edition](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
             + [Enviar por push ao Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Painéis de relatórios no Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [Personalizações de Conexão de Vendas para CRM](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

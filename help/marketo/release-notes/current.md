@@ -2,9 +2,9 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 681650249d0a8e4570b4c1e7222da6075b3db91b
+source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '631'
 ht-degree: 7%
 
 ---
@@ -68,8 +68,8 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
