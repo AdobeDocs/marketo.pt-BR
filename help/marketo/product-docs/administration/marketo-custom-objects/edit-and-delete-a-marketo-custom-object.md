@@ -3,9 +3,9 @@ unique-page-id: 10093690
 description: Editar e excluir um objeto personalizado do Marketo - Documentos do Marketo - Documentação do produto
 title: Editar e excluir um objeto personalizado do Marketo
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
-source-git-commit: 8f02503736ba1def4b2f4df79118eeb352b212a0
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,25 @@ ht-degree: 0%
 
 Use o menu Ações personalizadas do objeto para editar ou excluir um objeto personalizado.
 
-1. Clique em **Administrador** e em **Gerenciamento de banco de dados**, selecione **Objetos personalizados do Marketo**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2016-1-18-13-3a31-3a51.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
+
+1. Clique em **Objetos personalizados do Marketo**.
+
+   ![](assets/edit-and-delete-a-marketo-custom-object-2.png)
 
 1. Selecione o objeto personalizado que deseja editar à direita.
 
-   ![](assets/image2016-1-18-13-3a33-3a11.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
 1. Clique no botão **Ações do objeto personalizado** e clique em **Editar objeto**.
 
-   ![](assets/image2015-9-23-11-3a37-3a44.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
 1. Faça as alterações desejadas. Arraste o controle deslizante se desejar mostrar o objeto na página Detalhes do lead . Clique em **Salvar**.
 
-   ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
 1. Certifique-se de aprovar [o objeto editado](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
@@ -46,17 +50,21 @@ Use o menu Ações personalizadas do objeto para editar ou excluir um objeto per
 >
 >Não é possível restaurar um objeto personalizado após excluí-lo.
 
-1. Clique em **Administrador** e em **Gerenciamento de banco de dados**, selecione **Objetos personalizados do Marketo**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2016-1-18-13-3a36-3a0.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
+
+1. Clique em **Objetos personalizados do Marketo**.
+
+   ![](assets/edit-and-delete-a-marketo-custom-object-7.png)
 
 1. Selecione o objeto que deseja excluir.
 
-   ![](assets/image2015-9-23-16-3a29-3a5.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-8.png)
 
 1. Clique em **Ações do objeto personalizado** e selecione **Excluir objeto**.
 
-   ![](assets/image2015-9-23-11-3a39-3a5.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-9.png)
 
    >[!TIP]
    >
@@ -64,11 +72,11 @@ Use o menu Ações personalizadas do objeto para editar ou excluir um objeto per
 
 1. Se o objeto personalizado estiver em formato de rascunho, ainda não tiver sido aprovado, você receberá esse aviso. Se tiver certeza, clique em **Excluir**.
 
-   ![](assets/image2015-9-23-16-3a31-3a2.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
 1. Se o objeto personalizado já estiver aprovado, há maior risco se você excluí-lo. Então, você vai receber este aviso mais forte. Enter **Eu entendo**, marque a opção **Não é Possível Desfazer** e clique em **Excluir**.
 
-   ![](assets/image2016-1-15-9-3a49-3a38.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 
    >[!NOTE]
    >

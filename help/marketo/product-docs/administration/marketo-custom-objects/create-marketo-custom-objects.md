@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Criar objetos personalizados do Marketo - Documentos do Marketo - Documentação do produto
 title: Criar objetos personalizados do Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,17 @@ Use objetos personalizados no Marketo para rastrear métricas específicas de su
 
 Este exemplo mostra um objeto personalizado Carro, para uso em uma estrutura um para muitos. Posteriormente, você criará um objeto personalizado de curso e um objeto intermediário para usar em uma estrutura muitos para muitos.
 
-1. Clique em **Administrador** e em **Gerenciamento de banco de dados** select **Objetos personalizados do Marketo**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2016-1-18-13-3a12-3a19.png)
+   ![](assets/create-marketo-custom-objects-1.png)
+
+1. Clique em **Objetos personalizados do Marketo**.
+
+   ![](assets/create-marketo-custom-objects-2.png)
 
 1. Clique em **Novo objeto personalizado**.
 
-   ![](assets/image2016-5-18-16-3a28-3a4.png)
+   ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
@@ -40,19 +44,19 @@ Este exemplo mostra um objeto personalizado Carro, para uso em uma estrutura um 
 
 1. Insira um nome de exibição. O Nome da API e o Nome do Plural são preenchidos automaticamente. Insira uma descrição (opcional).
 
-   ![](assets/image2015-9-15-16-3a29-3a17.png)
+   ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
    >Você pode editar esses campos ao criá-los, mas depois que eles forem salvos, você só poderá editar o campo Nome do Plural e o campo **Mostrar em Detalhes do Cliente Potencial** controle deslizante.
 
-1. Puxe a **Mostrar em Detalhes do Cliente Potencial** controle deslizante sobre a exibição **Mostrar** se quiser exibir dados de objeto personalizado na página Banco de Dados de Lead. Clique em **Salvar**.
+1. Puxe a **Mostrar em Detalhes do Cliente Potencial** controle deslizante sobre a exibição **Mostrar** se desejar exibir dados de objeto personalizado na página Banco de dados. Clique em **Salvar**.
 
-   ![](assets/image2015-9-15-16-3a32-3a2.png)
+   ![](assets/create-marketo-custom-objects-5.png)
 
 1. As informações do objeto personalizado exibem o conteúdo inserido. Observe que está em um estado de Rascunho.
 
-   ![](assets/image2015-9-15-16-3a38-3a22.png)
+   ![](assets/create-marketo-custom-objects-6.png)
 
    A próxima etapa é adicionar campos ao [criar o objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
@@ -68,29 +72,33 @@ Este exemplo mostra um objeto personalizado de curso, que será usado para criar
 >
 >Para uma relação muitos para muitos, não é necessário criar um link no objeto personalizado. Em vez disso, você adicionará dois links ao objeto intermediário (veja abaixo).
 
-1. Clique em **Administrador** e em **Gerenciamento de banco de dados** select **Objetos personalizados do Marketo**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2016-1-18-13-3a16-3a25.png)
+   ![](assets/create-marketo-custom-objects-7.png)
+
+1. Clique em **Objetos personalizados do Marketo**.
+
+   ![](assets/create-marketo-custom-objects-8.png)
 
 1. Clique em **Novo objeto personalizado**.
 
-   ![](assets/image2016-5-18-16-3a32-3a42.png)
+   ![](assets/create-marketo-custom-objects-9.png)
 
 1. Insira um nome de exibição. O Nome da API e o Nome do Plural são preenchidos automaticamente. Insira uma descrição (opcional).
 
-   ![](assets/image2016-1-14-13-3a38-3a46.png)
+   ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
    >Você pode editar esses campos ao criá-los, mas depois que eles forem salvos, você só poderá editar o campo Nome do Plural e o campo **Mostrar em Detalhes do Cliente Potencial** controle deslizante.
 
-1. Puxe a **Mostrar em Detalhes do Cliente Potencial** controle deslizante sobre a exibição **Mostrar** se quiser exibir dados de objeto personalizado na página Banco de Dados de Lead. Clique em **Salvar**.
+1. Puxe a **Mostrar em Detalhes do Cliente Potencial** controle deslizante sobre a exibição **Mostrar** se desejar exibir dados de objeto personalizado na página Banco de dados. Clique em **Salvar**.
 
-   ![](assets/image2016-1-14-13-3a42-3a56.png)
+   ![](assets/create-marketo-custom-objects-11.png)
 
 1. As informações do objeto personalizado exibem o conteúdo inserido. Observe que está em um estado de Rascunho.
 
-   ![](assets/image2016-1-18-8-3a38-3a58.png)
+   ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
@@ -106,25 +114,29 @@ Use um objeto intermediário para conectar um objeto personalizado a pessoas ou 
 >
 >Não é necessário criar um objeto intermediário para uma estrutura de objeto personalizada de um para muitos.
 
-1. Clique em **Administrador** e em **Gerenciamento de banco de dados**, selecione **Objetos personalizados do Marketo**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2016-1-18-13-3a17-3a40.png)
+   ![](assets/create-marketo-custom-objects-13.png)
+
+1. Clique em **Objetos personalizados do Marketo**.
+
+   ![](assets/create-marketo-custom-objects-14.png)
 
 1. Clique em **Novo objeto personalizado**.
 
-   ![](assets/image2016-5-18-16-3a33-3a16.png)
+   ![](assets/create-marketo-custom-objects-15.png)
 
 1. Insira um nome de exibição. O Nome da API e o Nome do Plural são preenchidos automaticamente. Insira uma descrição (opcional).
 
-   ![](assets/image2016-1-14-14-3a10-3a44.png)
+   ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
    >É possível editar esses campos ao criá-los, mas depois que eles forem salvos, você só poderá editar o campo Nome do Plural e o controle deslizante Mostrar em Detalhes do lead .
 
-1. Puxe a **Mostrar em Detalhes do Cliente Potencial** controle deslizante sobre a exibição **Mostrar** se quiser exibir dados de objeto personalizado na página Banco de Dados de Lead. Clique em **Salvar**.
+1. Puxe a **Mostrar em Detalhes do Cliente Potencial** controle deslizante sobre a exibição **Mostrar** se desejar exibir dados de objeto personalizado na página Banco de dados. Clique em **Salvar**.
 
-   ![](assets/image2016-1-14-14-3a12-3a49.png)
+   ![](assets/create-marketo-custom-objects-17.png)
 
 1. As informações do objeto personalizado exibem o conteúdo inserido. Observe que está em um estado de Rascunho.
 

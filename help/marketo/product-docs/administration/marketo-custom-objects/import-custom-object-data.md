@@ -3,7 +3,7 @@ unique-page-id: 10099680
 description: Importar dados de objeto personalizado - Documentos do Marketo - Documentação do produto
 title: Importar dados de objeto personalizado
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 3%
@@ -16,23 +16,23 @@ ht-degree: 3%
 
 1. Em Meu Marketo, acesse **Banco de dados**.
 
-   ![](assets/db-1.png)
+   ![](assets/import-custom-object-data-1.png)
 
 1. Clique em **Novo** e selecione **Importar dados de objeto personalizado**.
 
-   ![](assets/image2016-4-7-10-6-54.png)
+   ![](assets/import-custom-object-data-2.png)
 
 1. Clique em **Procurar** para localizar o arquivo de dados. Selecione o formato de arquivo (Valores separados por vírgula neste exemplo).
 
-   ![](assets/image2016-4-13-14-3a21-3a53.png)
+   ![](assets/import-custom-object-data-3.png)
 
 1. Selecione o objeto personalizado.
 
-   ![](assets/image2016-4-13-14-3a24-3a54.png)
+   ![](assets/import-custom-object-data-4.png)
 
 1. Selecione o Modo de depuração no menu suspenso. Clique em **Próximo**.
 
-   ![](assets/image2016-4-13-14-3a28-3a7.png)
+   ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
@@ -40,7 +40,7 @@ ht-degree: 3%
 
 1. Mapeie cada coluna para um campo Marketo , selecionando-o no menu suspenso.
 
-   ![](assets/image2016-4-13-14-3a36-3a57.png)
+   ![](assets/import-custom-object-data-6.png)
 
    >[!NOTE]
    >
@@ -48,11 +48,11 @@ ht-degree: 3%
 
 1. Clique em **Próximo**.
 
-   ![](assets/image2016-4-13-14-3a38-3a41.png)
+   ![](assets/import-custom-object-data-7.png)
 
 1. Clique em **Importar**.
 
-   ![](assets/image2016-4-7-13-3a15-3a9.png)
+   ![](assets/import-custom-object-data-8.png)
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ ht-degree: 3%
 
 1. No canto superior direito da tela, você verá uma notificação enquanto a importação estiver em execução e os resultados finais quando for concluída.
 
-   ![](assets/image2016-4-13-14-3a41-3a1.png)
+   ![](assets/import-custom-object-data-9.png)
 
    Sim!
 
