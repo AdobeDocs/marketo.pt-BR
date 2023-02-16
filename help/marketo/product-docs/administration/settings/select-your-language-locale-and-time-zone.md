@@ -3,9 +3,9 @@ unique-page-id: 2359904
 description: Selecione seu idioma, local e fuso horário - Documentos do Marketo - Documentação do produto
 title: Selecione seu idioma, local e fuso horário
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '124'
 ht-degree: 6%
 
 ---
@@ -25,17 +25,21 @@ Inglês não é a sua primeira língua? Não se preocupe, nós cobrimos você. V
 
 ## Alterar idioma do usuário, localidade e fuso horário {#change-user-language-locale-and-time-zone}
 
-1. Faça logon no Marketo e, em seu nome, selecione **Minha conta**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/myaccount.png)
+   ![](assets/select-your-language-locale-and-time-zone-1.png)
+
+1. Selecionar **Minha conta**.
+
+   ![](assets/select-your-language-locale-and-time-zone-2.png)
 
 1. Em Minha conta, clique em **Editar configurações de localização**.
 
-   ![](assets/image2014-9-9-11-3a9-3a47.png)
+   ![](assets/select-your-language-locale-and-time-zone-3.png)
 
 1. Altere seu **Idioma**.
 
-   ![](assets/image2014-9-9-11-3a10-3a4.png)
+   ![](assets/select-your-language-locale-and-time-zone-4.png)
 
    >[!TIP]
    >
@@ -43,16 +47,16 @@ Inglês não é a sua primeira língua? Não se preocupe, nós cobrimos você. V
 
 1. Altere seu **Localidade**.
 
-   ![](assets/image2014-9-9-11-3a10-3a29.png)
+   ![](assets/select-your-language-locale-and-time-zone-5.png)
 
 1. Altere seu **Fuso Horário**.
 
-   ![](assets/image2014-9-9-11-3a10-3a56.png)
+   ![](assets/select-your-language-locale-and-time-zone-6.png)
 
 1. Clique em **Salvar**.
 
-   ![](assets/image2014-9-9-11-3a11-3a18.png)
+   ![](assets/select-your-language-locale-and-time-zone-7.png)
 
 Excelente! Seu navegador será atualizado e você deverá ver as alterações refletidas.
 
-![](assets/image2014-9-9-11-3a12-3a2.png)
+![](assets/select-your-language-locale-and-time-zone-8.png)

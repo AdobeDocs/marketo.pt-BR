@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Noções básicas sobre configurações de privacidade - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre configurações de privacidade
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -21,7 +21,7 @@ O Marketo fornece aos profissionais de marketing uma maneira de obter o consenti
 
 Ou o profissional de marketing pode rastrear usuários, mas usar um IP anônimo.
 
-Esses métodos podem afetar o valor e a funcionalidade da Marketo em áreas específicas. No entanto, se o profissional de marketing *não* altere qualquer coisa na configuração do Marketo, a funcionalidade do Marketo permanece a mesma.
+Esses métodos podem afetar o valor e a funcionalidade da Marketo em áreas específicas. No entanto, se o profissional de marketing *does not* altere qualquer coisa na configuração do Marketo, a funcionalidade do Marketo permanece a mesma.
 
 ## Configurações do navegador para Não rastrear {#browser-settings-for-do-not-track}
 
@@ -43,17 +43,17 @@ Abaixo estão exemplos de uma página da Web com um link para opção de não pa
 
 Aqui está uma página da Web com um botão com o parâmetro &quot;?marketo_opt_out=true&quot; no link para opção de não participação.
 
-![](assets/opt-out-1.png)
+![](assets/understanding-privacy-settings-1.png)
 
 Você pode criar e publicar uma landing page como uma página de acompanhamento de quando clicar no link com o parâmetro &quot;?marketo_opt_out=true&quot;.
 
-![](assets/opt-out-2.png)
+![](assets/understanding-privacy-settings-2.png)
 
 Quando o link é clicado, o Marketo adiciona um cookie chamado **mkto_opt_out** para o navegador do visitante que desativa o rastreamento do Munchkin para o visitante do site que clica no link com o parâmetro acima.
 
 Para validar se o cookie pode ser plantado, verifique se você é um lead cookie e clique no link . Em seguida, verifique os cookies do navegador para verificar se a variável **mkto_opt_out** foi adicionado.
 
-![](assets/opt-out-3.png)
+![](assets/understanding-privacy-settings-3.png)
 
 >[!NOTE]
 >

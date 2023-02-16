@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '8828'
+source-wordcount: '8827'
 ht-degree: 5%
 
 ---
@@ -194,7 +194,7 @@ ht-degree: 5%
          + [Cabeçalhos de link de rastreamento de email](product-docs/administration/settings/email-tracking-link-headers.md)
          + [Editar configurações de assinatura](product-docs/administration/settings/edit-subscription-settings.md)
          + [Ativar ou desativar recursos do tesouro](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
-         + [Ativar URLs personalizados para sua conta (Administração)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [Ativar URLs personalizados para sua conta](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [Regras globais de validação de formulário](product-docs/administration/settings/global-form-validation-rules.md)
          + [Cabeçalhos de página de aterrissagem](product-docs/administration/settings/landing-page-headers.md)
          + [Restringir logons do Marketo com base em IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
@@ -1125,7 +1125,7 @@ ht-degree: 5%
             + [Como instalar botões de conexão de vendas no Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)
             + [Importar uma ID do Salesforce para o Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [Instalar campos de evento do Sales Connect no histórico de atividades](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
-            + [Instalar a personalização do Salesforce para clientes da Professional Edition](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
+            + [Instalar a personalização do Salesforce para clientes Professional Edition](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
             + [Enviar por push ao Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Painéis de relatórios no Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [Personalizações de Conexão de Vendas para CRM](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
