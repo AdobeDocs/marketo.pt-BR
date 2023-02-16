@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossário do Marketo - Documentos do Marketo - Documentação do produto
 title: Glossário do Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 4%
@@ -171,7 +171,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
    <td colspan="1">No Marketo, você pode fazer duplicatas de vários tipos diferentes de entidades na sua instância. Você pode clonar <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programas</a>, um <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">ativo dentro de um programa</a>, a <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">fluxo</a>e muito mais.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">A parte frontal do seu URL. A única palavra (mais YourCompany.com) é chamada de CNAME (por exemplo, <em>informações</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -280,7 +280,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   </tr> 
   <tr> 
    <td colspan="1"><strong>Rascunho</strong></td> 
-   <td colspan="1"><p>Um <strong>email</strong> ou <strong>página de aterrissagem</strong> que não foi <strong>aprovado</strong> ainda. Os rascunhos não podem ser vistos publicamente até terem sido aprovados. Você pode enviar um rascunho como um email de teste (amostra), no entanto, ele não gravará nenhuma análise. <br></p></td> 
+   <td colspan="1"><p>Um <strong>email</strong> ou <strong>página de aterrissagem</strong> isso não foi <strong>aprovado</strong> ainda. Os rascunhos não podem ser vistos publicamente até terem sido aprovados. Você pode enviar um rascunho como um email de teste (amostra), no entanto, ele não gravará nenhuma análise. <br></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Campanha de Drips</strong></td> 
@@ -696,7 +696,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Reputação</strong></td> 
-   <td colspan="1"><p>Uma pontuação de desempenho ao longo do tempo, composta de vários sinais e/ou pontos de dados. A reputação pode estar vinculada ao domínio de um remetente, <strong>conteúdo</strong>ou endereço IP, e afeta <strong>deliverability</strong>.</p></td> 
+   <td colspan="1"><p>Uma pontuação de desempenho ao longo do tempo, composta de vários sinais e/ou pontos de dados. A reputação pode estar associada ao domínio de um remetente, <strong>conteúdo</strong>ou endereço IP, e afeta <strong>deliverability</strong>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Endereço do Caminho de Devolução</strong></td> 
