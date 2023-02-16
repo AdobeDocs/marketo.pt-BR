@@ -3,9 +3,9 @@ unique-page-id: 2359918
 description: Editar configurações de página de aterrissagem - Documentos do Marketo - Documentação do produto
 title: Editar configurações de página inicial
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 3%
 
 ---
@@ -18,15 +18,21 @@ ht-degree: 3%
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Administrador**, clique em **Páginas de aterrissagem**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-10-9-3a47-3a40.png)
+   ![](assets/edit-landing-page-settings-1.png)
+
+1. Clique em **Páginas de aterrissagem**.
+
+   ![](assets/edit-landing-page-settings-2.png)
 
 1. No **Páginas de aterrissagem** seção , clique em **Editar**.
 
-   ![](assets/image2014-9-10-9-3a47-3a12.png)
+   ![](assets/edit-landing-page-settings-3.png)
 
 1. Insira seu domínio e informações da página.
+
+   ![](assets/edit-landing-page-settings-4.png)
 
    | Termo | Definição |
    |---|---|
@@ -34,15 +40,13 @@ ht-degree: 3%
    | Página de fallback | Este é o local para onde ir se a landing page não existir ou estiver inativa. Saiba mais sobre [páginas de fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Página inicial | Insira o URL do site corporativo. |
 
-   ![](assets/three.png)
-
 1. Verifique a **Preenchimento do formulário** caixa de seleção para permitir que formulários preencham previamente informações para pessoas conhecidas (com cookies). Desmarque para bloquear.
 
-   ![](assets/four.png)
+   ![](assets/edit-landing-page-settings-5.png)
 
 1. Se você quiser impedir que um site mal-intencionado hospede seu conteúdo, verifique a **Não permitir que páginas do Marketo sejam incorporadas a páginas da Web externas** caixa de seleção.
 
-   ![](assets/five.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    >[!NOTE]
    >
@@ -52,6 +56,6 @@ ht-degree: 3%
 
 1. Depois de fazer suas seleções, clique em **Salvar.**
 
-   ![](assets/six.png)
+   ![](assets/edit-landing-page-settings-7.png)
 
    Muito bem! Suas landing pages agora têm as informações certas e devem começar a funcionar imediatamente.

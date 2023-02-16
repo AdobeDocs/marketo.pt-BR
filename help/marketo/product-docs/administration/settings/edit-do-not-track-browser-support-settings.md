@@ -3,7 +3,7 @@ unique-page-id: 6095047
 description: Editar as configurações de suporte do navegador "Não rastrear" - Documentos do Marketo - Documentação do produto
 title: Editar as configurações de suporte do navegador "Não rastrear"
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -24,23 +24,23 @@ ht-degree: 0%
 
 1. Clique em **Administrador**.
 
-   ![](assets/one.png)
+   ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
 1. Clique em **Munchkin**.
 
-   ![](assets/two.png)
+   ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
 1. Em **Rastreamento de pessoa**, clique em **Editar**.
 
-   ![](assets/three-2.png)
+   ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
 1. Selecionar **Suporte** e clique em **Salvar**.
 
-   ![](assets/four-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
    Depois de salvar as alterações, você verá a atualização.
 
-   ![](assets/five-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-5.png)
 
    >[!NOTE]
    >

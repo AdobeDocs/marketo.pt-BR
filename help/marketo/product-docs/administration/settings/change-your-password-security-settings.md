@@ -3,9 +3,9 @@ unique-page-id: 2360185
 description: Alterar as configurações de segurança de senha - Documentos do Marketo - Documentação do produto
 title: Alterar as definições de segurança de senha
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
@@ -18,21 +18,25 @@ Controlar a política de senha da sua assinatura. Veja como.
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Administrador**, clique em **Configurações de logon**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-16-12-3a41-3a40.png)
+   ![](assets/change-your-password-security-settings-1.png)
+
+1. Clique em **Configurações de logon**.
+
+   ![](assets/change-your-password-security-settings-2.png)
 
 1. Em **Configurações de segurança**, clique em **Editar**.
 
-   ![](assets/passwordsettings-hand.png)
+   ![](assets/change-your-password-security-settings-3.png)
 
 1. Selecione um **Modelo**. Para opções avançadas, clique no botão **Avançado** lista suspensa.
+
+   ![](assets/change-your-password-security-settings-4.png)
 
    >[!NOTE]
    >
    >Um modelo é apenas uma configuração pré-criada. Padrão é bom. A alta segurança é a mais forte. O personalizado permite que você faça o seu.
-
-   ![](assets/passwordstrength.png)
 
    >[!TIP]
    >
@@ -40,14 +44,12 @@ Controlar a política de senha da sua assinatura. Veja como.
 
 1. Defina as **Expiração**. Esse recurso exige automaticamente que os usuários redefinam suas senhas após um determinado período de tempo. Isso também inclui o usuário Administrador.
 
+   ![](assets/change-your-password-security-settings-5.png)
+
    >[!CAUTION]
    >
    >Os usuários existentes não serão notificados sobre as alterações. Definir **Expiração** para 30 dias primeiro para garantir que todos tenham atualizado para as novas configurações, em seguida, altere isso de volta para a cadência original.
 
-   ![](assets/expiration.png)
-
 1. Defina as **Tempo limite da sessão inativa**. Isso determina por quanto tempo um usuário pode ficar inativo antes de ter que fazer logon novamente no Marketo.
 
-   ![](assets/inactivesession.png)
-
-   A segurança é um negócio sério. Pegamos suas costas.
+   ![](assets/change-your-password-security-settings-6.png)

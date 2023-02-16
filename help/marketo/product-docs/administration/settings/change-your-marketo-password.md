@@ -3,9 +3,9 @@ unique-page-id: 2359916
 description: Alterar sua senha do Marketo - Documentos do Marketo - Documentação do produto
 title: Alterar a senha do Marketo
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,22 @@ ht-degree: 0%
 
 Altere sua senha do Marketo com estas etapas simples.
 
-1. Qualquer usuário do Marketo pode clicar em seu nome e **Minha conta**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2015-11-10-10-3a40-3a8.png)
+   ![](assets/change-your-marketo-password-1.png)
 
-1. Os administradores também podem clicar em **Administrador** e depois **Alterar senha** para alterar a senha do administrador.
+1. Clique em **Minha conta**.
 
-   ![](assets/image2014-9-10-9-3a43-3a47.png)
+   ![](assets/change-your-marketo-password-2.png)
 
-1. Digite a senha antiga e a nova senha e clique em **Salvar** quando a nova senha se ajustar a todos os requisitos.
+1. Clique em **Alterar senha**.
 
-   ![](assets/image2014-9-10-9-3a44-3a2.png)
+   ![](assets/change-your-marketo-password-3.png)
 
-   Mantenha segredo! Mantenha seguro!
+1. Digite a senha antiga e a nova senha e clique em **Salvar**.
 
-   >[!TIP]
+   ![](assets/change-your-marketo-password-4.png)
+
+   >[!NOTE]
    >
-   >O que é uma boa senha? Algo longo com muitas letras, números e símbolos como &quot;M@rk3to !$ Gre@t&quot;. Exceto, não aquele. Seja criativo e faça o seu.
+   >Anote os requisitos de senha ao fazer a atualização.
