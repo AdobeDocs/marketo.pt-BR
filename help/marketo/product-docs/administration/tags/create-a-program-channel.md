@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: Criar um canal do programa - Documentos do Marketo - Documentação do produto
 title: Criar um canal de programa
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,13 @@ Um programa é uma iniciativa específica de marketing. O canal deve ser o mecan
 >
 >Saiba mais sobre [programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), o elemento mais importante no Marketo.
 
-1. Em **Administrador** seção , clique em **Tags**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-24-12-3a57-3a27.png)
+   ![](assets/create-a-program-channel-1.png)
+
+1. Clique em **Tags**.
+
+   ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
@@ -32,11 +36,11 @@ Um programa é uma iniciativa específica de marketing. O canal deve ser o mecan
 
 1. Clique no botão **+** assinar ao lado de **Canal** para expandir e ver os canais existentes.
 
-   ![](assets/image2014-9-24-12-3a58-3a33.png)
+   ![](assets/create-a-program-channel-3.png)
 
 1. Em **Novo**, clique em **Novo canal**.
 
-   ![](assets/image2014-9-24-12-3a58-3a53.png)
+   ![](assets/create-a-program-channel-4.png)
 
    >[!NOTE]
    >
@@ -60,7 +64,7 @@ Um programa é uma iniciativa específica de marketing. O canal deve ser o mecan
 
 1. Vamos com o exemplo do canal de Partido. Dê um nome ao novo **Canal** e selecione o tipo de programa ao qual será aplicado.
 
-   ![](assets/image2014-9-24-13-3a0-3a17.png)
+   ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
@@ -70,12 +74,13 @@ Um programa é uma iniciativa específica de marketing. O canal deve ser o mecan
    >
    >Ao usar &quot;Evento com webinar&quot;, os mapeamentos do sistema serão bloqueados (conforme exigido pelas integrações do webinar) e não poderão ser editados.
 
-   Insira os dois primeiros nomes de status do programa e clique em Adicionar etapa.
-   ![](assets/image2014-9-24-15-3a37-3a0.png)
+1. Insira os dois primeiros nomes de Status do programa e clique em **Adicionar etapa**.
+
+   ![](assets/create-a-program-channel-6.png)
 
 1. Introduza outro programa **Status** e **Etapa** e clique em **Adicionar etapa**.
 
-   ![](assets/image2014-9-24-15-3a37-3a30.png)
+   ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
@@ -83,7 +88,7 @@ Um programa é uma iniciativa específica de marketing. O canal deve ser o mecan
 
 1. Inserir o último programa **Status** e **Etapa** número.
 
-   ![](assets/image2014-9-24-15-3a39-3a15.png)
+   ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
@@ -91,11 +96,11 @@ Um programa é uma iniciativa específica de marketing. O canal deve ser o mecan
 
 1. Escolha a **Status de Check-in Móvel** para **Registrado**.
 
-   ![](assets/image2014-9-24-15-3a39-3a43.png)
+   ![](assets/create-a-program-channel-9.png)
 
 1. Escolha a **Status de Check-in Móvel** para **Participante**.
 
-   ![](assets/image2014-9-24-15-3a40-3a21.png)
+   ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
@@ -111,6 +116,6 @@ Um programa é uma iniciativa específica de marketing. O canal deve ser o mecan
 
 1. Selecione o **Sucesso** status do programa, em seguida, clique em **Criar**.
 
-   ![](assets/image2014-9-24-15-3a42-3a54.png)
+   ![](assets/create-a-program-channel-11.png)
 
    Muito bem! Quando você faz um novo programa desse tipo, esse novo canal será uma das opções.

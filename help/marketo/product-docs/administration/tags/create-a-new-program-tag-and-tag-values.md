@@ -3,9 +3,9 @@ unique-page-id: 2360272
 description: Criar uma nova tag e valores de tag do programa - Documentos da Marketo - Documentação do produto
 title: Criar uma nova tag e valores de tag do programa
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -26,21 +26,25 @@ Você pode criar personalizados [tags](/help/marketo/product-docs/core-marketo-c
 >
 >Valor da etiqueta do programa: SMB, Enterprise, Mid-Market
 
-1. Em **Administrador**, clique em **Tags**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-24-12-3a10-3a32.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-1.png)
+
+1. Clique em **Tags**.
+
+   ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
 1. Clique em **Novo** e selecione **Novo tipo de tag**.
 
-   ![](assets/image2014-9-24-12-3a12-3a43.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
 1. Insira o **Tipo de tag** e uma tag **Valor**. Em seguida, clique em **Adicionar outro**.
 
-   ![](assets/image2014-9-24-12-3a16-3a55.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
 1. Insira quantos valores forem necessários. Selecione os tipos de programas aos quais você deseja que esta tag seja aplicada.
 
-   ![](assets/image2014-9-24-12-3a17-3a29.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-5.png)
 
    >[!TIP]
    >
@@ -48,12 +52,12 @@ Você pode criar personalizados [tags](/help/marketo/product-docs/core-marketo-c
 
 1. Verificar **Obrigatório** e clique em **Criar**.
 
-   ![](assets/image2014-9-24-12-3a18-3a33.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
    >Se o tipo de tag for **Obrigatório**, os usuários precisarão digitar um valor para a tag ao criar um novo programa.
 
-   ![](assets/image2014-9-24-12-3a19-3a17.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 
 Agora, quando os usuários criam um programa, eles precisam definir o valor personalizado da tag criada.
