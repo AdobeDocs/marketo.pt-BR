@@ -3,9 +3,9 @@ unique-page-id: 2360276
 description: Ocultar/mostrar um canal do programa - Documentos do Marketo - Documentação do produto
 title: Ocultar/mostrar um canal de programa
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,21 @@ Você pode [excluir um canal de programa](/help/marketo/product-docs/administrat
 
 ## Ocultar um canal de programa {#hide-a-program-channel}
 
-1. Em **Administrador**, clique em **Tags**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-24-15-3a45-3a7.png)
+   ![](assets/hide-unhide-a-program-channel-1.png)
+
+1. Clique em **Tags**.
+
+   ![](assets/hide-unhide-a-program-channel-2.png)
 
 1. Clique no botão **Canal** e selecione o **Canal** para esconder.
 
-   ![](assets/image2014-9-24-15-3a45-3a41.png)
+   ![](assets/hide-unhide-a-program-channel-3.png)
 
 1. Em **Ações de tag**, clique em **Ocultar**.
 
-   ![](assets/image2014-9-24-15-3a46-3a22.png)
+   ![](assets/hide-unhide-a-program-channel-4.png)
 
 Vem fácil, vai fácil!
 
@@ -38,4 +42,4 @@ Vem fácil, vai fácil!
 
 1. Revele um Canal de programa marcando a caixa de seleção Mostrar oculto .
 
-   ![](assets/image2014-9-24-15-3a47-3a24.png)
+   ![](assets/hide-unhide-a-program-channel-5.png)
