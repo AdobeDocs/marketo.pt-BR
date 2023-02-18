@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: Criar, excluir, editar e alterar uma função de usuário - Documentos do Marketo - Documentação do produto
 title: Criar, excluir, editar e alterar uma função de usuário
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-source-git-commit: bb8b8c309593e34b773b8ab1b9873df425989753
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '295'
 ht-degree: 2%
 
 ---
@@ -31,31 +31,39 @@ ht-degree: 2%
 
 ## Criar uma função {#create-a-role}
 
-1. Ir para **Administrador** e clique em **Usuários e funções**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-16-13-3a29-3a48.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-1.png)
+
+1. Clique em **Usuários e funções**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
 1. Vá para o **Guia Funções** e clique em **Nova função**.
 
-   ![](assets/image2014-9-16-13-3a30-3a0.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
 1. Nomeie sua nova função, verifique todas as permissões que deseja conceder aos usuários associados à função e clique em **Criar**.
 
-   ![](assets/image2014-9-16-13-3a31-3a19.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## Excluir uma função {#delete-a-role}
 
-1. Em **Administrador**, clique em **Usuários e funções**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-16-13-3a31-3a42.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-5.png)
+
+1. Clique em **Usuários e funções**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
 1. Em **Funções** selecione uma função e clique em **Excluir função**.
 
-   ![](assets/image2014-9-16-13-3a31-3a56.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
 1. Confirme a exclusão clicando em **Excluir**.
 
-   ![](assets/image2014-9-16-13-3a32-3a25.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-8.png)
 
 >[!NOTE]
 >
@@ -67,21 +75,25 @@ ht-degree: 2%
 >
 >Para editar sua própria função de usuário, você precisará fazer logon como outro usuário com direitos de Administrador.
 
-1. Ir para **Administrador** e clique em **Usuários e funções**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-16-13-3a34-3a2.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-9.png)
+
+1. Clique em **Usuários e funções**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
 1. Clique no botão **Funções** guia .
 
-   ![](assets/image2014-9-16-13-3a34-3a22.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
 1. Selecione a função que deseja editar e clique em **Editar função**.
 
-   ![](assets/image2014-9-16-13-3a34-3a37.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
 1. Faça todas as alterações necessárias e clique em **Salvar**.
 
-   ![](assets/image2014-9-16-13-3a35-3a16.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
    >[!NOTE]
    >
@@ -93,17 +105,21 @@ ht-degree: 2%
 
 ## Alterar a função de um usuário {#change-a-users-role}
 
-1. Ir para **Administrador** e clique em **Usuários e funções**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-16-13-3a35-3a49.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-14.png)
+
+1. Clique em **Usuários e funções**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 
 1. Selecione o usuário ao qual deseja atribuir uma função diferente e clique em **Editar usuário.**
 
-   ![](assets/image2014-9-16-13-36-8.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 
 1. Desmarque a função anterior, selecione a nova e clique em **Salvar**.
 
-   ![](assets/image2014-9-16-13-3a36-3a35.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-17.png)
 
 >[!NOTE]
 >
