@@ -1,24 +1,20 @@
 ---
 unique-page-id: 1147110
-description: Clonar um programa - Documentação da Marketo - Documentação do produto
+description: Clonar um programa - Documentação do Marketo - Documentação do produto
 title: Clonar um programa
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
 # Clonar um programa {#clone-a-program}
 
-Clonar de forma rápida e fácil todo um programa e todos os seus ativos em vez de reconstruir manualmente tudo.
+Clone de maneira rápida e fácil um programa inteiro e todos os seus ativos, em vez de reconstruir tudo manualmente.
 
->[!PREREQUISITES]
->
->Antes de entrar, saiba mais sobre [práticas recomendadas para evitar a corrupção em ativos clonados](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
-
-1. Localize e selecione o programa que deseja clonar, em seguida, em **Ações do programa** click **Clonar**.
+1. Localize e selecione o programa que deseja clonar e, em seguida, em **Ações do programa** click **Clonar**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -26,30 +22,30 @@ Clonar de forma rápida e fácil todo um programa e todos os seus ativos em vez 
 
    >[!NOTE]
    >
-   >Os programas podem ser clonados em [campanha](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [pastas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) ou [espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Certifique-se de compartilhar todos os ativos dependentes subjacentes (emails, trechos, templates de landing page etc.) com o espaço de trabalho de destino antes da clonagem.
+   >Os programas podem ser clonados em [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [pastas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) ou [espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Compartilhe todos os ativos subjacentes dependentes (emails, trechos, modelos de página de aterrissagem etc.) com o espaço de trabalho de destino antes da clonagem.
 
    ![](assets/cloneto.png)
 
    >[!NOTE]
    >
-   >Vê essa NOTA na captura de tela acima? Significa que, se você clonar um programa com 1000 ou mais pessoas em uma lista, a própria lista será clonada, mas estará vazia. Se você clonar um programa com uma lista que contenha 999 pessoas ou menos, essa lista, juntamente com todos os seus membros, aparecerá no programa clonado.
+   >Você vê essa NOTA na captura de tela acima? Isso significa que se você clonar um programa com 1000 ou mais pessoas em uma lista, a lista será clonada, mas estará vazia. Se você clonar um programa com uma lista que contenha 999 pessoas ou menos, essa lista, juntamente com todos os seus membros, será exibida no programa clonado.
 
 1. Insira um Nome.
 
    ![](assets/cloneprogramname.png)
 
-1. Escolha a pasta para a qual deseja clonar o programa.
+1. Escolha a pasta para a qual você deseja clonar o programa.
 
    ![](assets/choosefolderclone.png)
 
-1. Adicione uma descrição opcional e, em seguida, clique em **Criar**. Veja com que rapidez você conseguiu criar um novo programa com todos os seus ativos prontos para ir!
+1. Adicione uma descrição opcional e clique em **Criar**. Veja a rapidez com que você conseguiu criar um novo programa com todos os seus ativos prontos para uso.
 
    ![](assets/createclone.png)
 
    >[!TIP]
    >
-   >Use essa técnica junto com os tokens para fazer da criação do novo programa um salto.
+   >Use essa técnica junto com tokens para agilizar a criação de novos programas.
 
    >[!CAUTION]
    >
-   >Os custos do período não serão transferidos, portanto, adicione isso ao programa clonado se você tiver um definido no original.
+   >Os custos do período não serão transferidos, portanto, certifique-se de adicionar isso ao programa clonado, se você tiver um definido no original.
