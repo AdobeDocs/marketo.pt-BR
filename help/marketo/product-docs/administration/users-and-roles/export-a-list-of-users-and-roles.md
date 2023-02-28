@@ -3,7 +3,7 @@ unique-page-id: 2359912
 description: Exportar uma lista de usuários e funções - Documentos do Marketo - Documentação do produto
 title: Exportar uma lista de usuários e funções
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 2%
@@ -20,24 +20,24 @@ ht-degree: 2%
 
 1. Ir para **Administrador**.
 
-   ![](assets/adminhand.png)
+   ![](assets/export-a-list-of-users-and-roles-1.png)
 
 1. Clique em **Usuários e funções**.
 
-   ![](assets/image2014-9-10-9-3a25-3a27.png)
+   ![](assets/export-a-list-of-users-and-roles-2.png)
 
 1. Adicione/remova as colunas desejadas antes de exportar.
 
    >[!TIP]
    >
-   >Para exportar funções, acesse **Funções**** **guia primeiro e depois exportar.
+   >Para exportar funções, acesse **Funções** primeiro, depois exporte.
 
-   ![](assets/image2014-9-10-9-3a25-3a49.png)
+   ![](assets/export-a-list-of-users-and-roles-3.png)
 
 1. Clique no botão **Exportar** ícone .
 
-   ![](assets/image2014-9-10-9-3a26-3a3.png)
+   ![](assets/export-a-list-of-users-and-roles-4.png)
 
    E isso é tudo! Você deve estar baixando o novo arquivo do Excel.
 
-   ![](assets/image2014-9-10-9-3a26-3a17.png)
+   ![](assets/export-a-list-of-users-and-roles-5.png)

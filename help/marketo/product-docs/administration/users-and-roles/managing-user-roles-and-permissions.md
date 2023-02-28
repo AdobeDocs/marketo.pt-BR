@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: Gerenciamento de funções e permissões do usuário - Documentos do Marketo - Documentação do produto
 title: Gerenciando funções e permissões do usuário
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -38,17 +38,21 @@ Se estiver usando o Marketo com Adobe Identity, a lista de descrições do perfi
 
 Você pode atribuir funções a um usuário ao [criar usuários pela primeira vez](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) ou [editar um usuário existente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Para editar um usuário existente, acesse **Administrador** e clique em **Usuários e funções**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-9-18-3a7-3a32.png)
+   ![](assets/managing-user-roles-and-permissions-1.png)
+
+1. Clique em **Usuários e funções**.
+
+   ![](assets/managing-user-roles-and-permissions-2.png)
 
 1. Na lista, selecione o usuário que deseja editar e clique em **Editar usuário**.
 
-   ![](assets/image2014-9-9-18-3a7-3a42.png)
+   ![](assets/managing-user-roles-and-permissions-3.png)
 
 1. Em **Funções**, selecione as funções que deseja atribuir ao usuário com base nas permissões necessárias e clique em **Salvar**.
 
-   ![](assets/image2014-9-9-18-3a7-3a57.png)
+   ![](assets/managing-user-roles-and-permissions-4.png)
 
    >[!NOTE]
    >
@@ -58,41 +62,49 @@ Você pode atribuir funções a um usuário ao [criar usuários pela primeira ve
 
 Às vezes, sua organização tem funcionários em funções muito específicas que exigem uma combinação personalizada de permissões.
 
-1. Para criar uma nova função de usuário, vá para Admin e clique em **Usuários e funções**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-9-18-3a8-3a12.png)
+   ![](assets/managing-user-roles-and-permissions-5.png)
+
+1. Clique em **Usuários e funções**.
+
+   ![](assets/managing-user-roles-and-permissions-6.png)
 
 1. Clique no botão **Funções** guia .
 
-   ![](assets/image2014-9-9-18-3a8-3a22.png)
+   ![](assets/managing-user-roles-and-permissions-7.png)
 
 1. Clique em **Nova função**.
 
-   ![](assets/image2014-9-9-18-3a8-3a38.png)
+   ![](assets/managing-user-roles-and-permissions-8.png)
 
 1. Insira um **Nome da função**, a **Descrição** (opcional) e selecione as permissões necessárias para os usuários nessa função.
 
-   ![](assets/image2014-9-9-18-3a9-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-9.png)
 
 ## Editar uma função {#edit-a-role}
 
 Se precisar alterar as permissões associadas a uma função existente, edite a função.
 
-1. Ir para **Administrador** e clique em **Usuários e funções**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-9-18-3a9-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-10.png)
+
+1. Clique em **Usuários e funções**.
+
+   ![](assets/managing-user-roles-and-permissions-11.png)
 
 1. Clique no botão **Funções** guia .
 
-   ![](assets/image2014-9-9-18-3a9-3a26.png)
+   ![](assets/managing-user-roles-and-permissions-12.png)
 
 1. Na lista , selecione a função que deseja modificar e clique em **Editar função**.
 
-   ![](assets/image2014-9-9-18-3a9-3a40.png)
+   ![](assets/managing-user-roles-and-permissions-13.png)
 
 1. Altere o **Nome da função** e **Descrição** se necessário e, em seguida, altere a seleção de **Permissões**.
 
-   ![](assets/image2014-9-9-18-3a10-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-14.png)
 
    >[!NOTE]
    >
@@ -102,18 +114,22 @@ Se precisar alterar as permissões associadas a uma função existente, edite a 
 
 Se uma função se tornar desnecessária, você poderá excluí-la.
 
-1. Acesse Admin e clique em **Usuários e funções**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-9-18-3a10-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-15.png)
+
+1. Clique em **Usuários e funções**.
+
+   ![](assets/managing-user-roles-and-permissions-16.png)
 
 1. Clique no botão **Funções** guia .
 
-   ![](assets/image2014-9-9-18-3a10-3a27.png)
+   ![](assets/managing-user-roles-and-permissions-17.png)
 
 1. Na lista, selecione a função que deseja excluir e clique em **Excluir função**.
 
-   ![](assets/image2014-9-9-18-3a10-3a39.png)
+   ![](assets/managing-user-roles-and-permissions-18.png)
 
 1. Clique em **Excluir** para confirmar.
 
-   ![](assets/image2014-9-9-18-3a10-3a50.png)
+   ![](assets/managing-user-roles-and-permissions-19.png)
