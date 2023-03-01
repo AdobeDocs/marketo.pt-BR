@@ -5,7 +5,7 @@ title: Ativar a opção Sem rascunho para trechos
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -24,29 +24,25 @@ A opção Sem rascunho é ativada automaticamente para todas as funções de Adm
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **Admin** área.
+1. Ir para **Admin** e clique em **Usuários e funções**.
 
-   ![](assets/enable-no-draft-for-snippets-1.png)
-
-1. Clique em **Usuários e funções**.
-
-   ![](assets/enable-no-draft-for-snippets-2.png)
+   ![](assets/usersandroles.png)
 
 1. Vá para a **Funções** , selecione uma função e clique em **Editar Função**.
 
-   ![](assets/enable-no-draft-for-snippets-3.png)
+   ![](assets/editrole2.png)
 
 1. Expanda a **Acessar o Design Studio** opção.
 
-   ![](assets/enable-no-draft-for-snippets-4.png)
+   ![](assets/expanddesignstudio.png)
 
 1. Expanda a **Trecho de acesso** opção.
 
-   ![](assets/enable-no-draft-for-snippets-5.png)
+   ![](assets/expandsnippet.png)
 
 1. Expanda a **Aprovar trecho** e verifique a **Sem rascunho** caixa. Clique em **Salvar**.
 
-   ![](assets/enable-no-draft-for-snippets-6.png)
+   ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
