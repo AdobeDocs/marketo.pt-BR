@@ -1,38 +1,38 @@
 ---
 unique-page-id: 7512524
-description: Práticas recomendadas para Smart Lists - Documentos do Marketo - Documentação do produto
+description: Práticas recomendadas para Smart Lists - Documentação do Marketo - Documentação do produto
 title: Práticas recomendadas para Smart Lists
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f9394067e74868ace9896cfe087fa624e5eda62c
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
 
 # Práticas recomendadas para Smart Lists {#best-practices-for-smart-lists}
 
-As listas inteligentes são a ferramenta de query mais eficiente no universo de marketing. Eles encontram as pessoas que você está procurando com velocidade mágica e facilidade.
+As Smart Lists são a ferramenta de consulta mais avançada no universo de marketing. Eles encontram as pessoas que você procura com rapidez e facilidade mágicas.
 
-Para facilitar o trabalho e otimizar o desempenho, criamos uma lista de boas práticas. Aproveite!
+Para facilitar o trabalho e otimizar o desempenho, criamos uma lista de práticas recomendadas. Aproveite!
 
 >[!NOTE]
 >
->**Cada cliente é diferente.** Quanto maior o banco de dados, mais processamento acontece. Quanto mais atividades você tiver armazenado, mais tempo levará para pesquisá-las.
+>**Cada cliente é diferente.** Quanto maior o banco de dados, maior será o processamento. Quanto mais atividades você armazenar, mais tempo levará para pesquisá-las.
 >
->Se estiver passando por uma lentidão, tente as dicas abaixo. Se o problema persistir, entre em contato com o [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Se estiver com lentidão, experimente as dicas abaixo. Se o problema persistir, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. **Histórico limite -** Os filtros de histórico (também conhecidos como filtros de atividade) estão entre as operações mais demoradas e com uso intenso de recursos. Se precisar usá-los, tente limitar o intervalo de datas para o mais curto possível, o que reduziria o conjunto de dados pesquisável.
-1. **Limitar listas inteligentes aninhadas -** Ao criar uma nova lista inteligente, limite a quantidade de filtros &quot;Membro da Smart List&quot; usados. Isso é chamado de aninhamento de listas inteligentes, e cada lista inteligente referenciada aumentará o tempo de processamento. Em vez disso, faça referência a listas estáticas ou utilize [segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
-1. **Usar operadores positivos em vez de negativos -** Embora os filtros &quot;não&quot; estejam disponíveis, eles precisam pesquisar todo o conjunto de dados na sua instância, o que pode ser extremamente demorado. Filtros positivos &quot;is&quot; podem aproveitar algoritmos de pesquisa mais eficazes.
-1. **Evite &quot;contém&quot; -** Se você tiver apenas dados parciais, os qualificadores &quot;inicia com&quot; produzirão resultados muito mais rápidos do que &quot;contém&quot;. &quot;Is&quot; será executado ainda mais rápido. Evite usar &quot;contains&quot; com vários valores; os dois juntos podem atrasar uma campanha ainda mais.
-1. **Usar a amostra aleatória por si só -** Amostra aleatória é um filtro especial. Use-o por si só para colocar seu povo em listas pré-fabricadas. Em seguida, use &quot;Membro da lista&quot; para tornar sua lista inteligente super rápida. Amostra aleatória **NOT** trabalhe com Smart Lists aninhadas. O filtro Amostra aleatória não funcionará se for a Smart List que está sendo referenciada para o filtro &quot;Membro da Smart List&quot;.
-1. **Seja confiável com filtros de inatividade -** Filtros como &quot;Formulário não preenchido&quot; podem ser realmente úteis, mas exigem muito mais poder de processamento.
-1. **Tenha orgulho de colar em vários valores -** A seleção múltipla foi projetada para colar em dezenas ou possivelmente centenas de valores. No entanto, coloque demasiadas coisas e irá abrandar.
-1. **Seja confiante ao adicionar restrições -** Esses são os minúsculos detalhes de uma regra e valores relacionados. Quanto mais restrições você adicionar, mais lento será o tempo de processamento.
-1. **Simplifique suas campanhas -** Mais de 100 regras independentes (já vimos!) obviamente que levarão algum tempo para processar. Mantenha-o simples e você notará os ganhos de velocidade - além disso, será mais fácil para você entender.
-1. **Inclua o símbolo @ antes do nome de domínio ao usar o filtro Endereço de email** **-** Isso faz com que ele use uma consulta mais rápida. Exemplo: Em vez de usar _email contém &#39;somedomain.com&#39;_, use _email contém &#39;@somedomain.com_.&quot; Se estiver usando vários endereços de email com &quot;contém&quot;, TODOS eles devem começar com &quot;@.&quot;
+1. **Histórico de limite -** Os filtros de histórico (também conhecidos como filtros de atividade) estão entre as operações que consomem mais recursos e tempo. Se precisar usá-los, tente limitar o intervalo de datas para o mais curto possível, o que reduziria o conjunto de dados pesquisável. Além disso, os intervalos de datas não substituirão os períodos de retenção. Exemplo: se a atividade que você está consultando tiver um período de retenção de 90 dias e você escolher &quot;últimos 100 dias&quot;, somente os resultados dos últimos 90 dias serão retornados. Períodos de retenção de atividade [pode ser encontrado aqui](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}.
+1. **Limitar listas inteligentes aninhadas -** Ao criar uma nova lista inteligente, limite a quantidade de filtros &quot;Membro da lista inteligente&quot; usados. Isso é chamado de aninhamento de listas inteligentes e cada lista inteligente referenciada aumentará o tempo de processamento. Em vez disso, faça referência a listas estáticas ou utilize [segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md){target="_blank"}.
+1. **Usar operadores positivos sobre negativos -** Embora os filtros &quot;não&quot; estejam disponíveis, eles precisam pesquisar todo o conjunto de dados na sua instância, o que pode ser extremamente demorado. Os filtros positivos &quot;is&quot; são capazes de aproveitar algoritmos de pesquisa mais eficazes.
+1. **Evitar &quot;contém&quot; -** Se você tiver apenas dados parciais, os qualificadores &quot;começa com&quot; produzirão resultados muito mais rápidos que &quot;contém&quot;. &quot;Is&quot; será executado ainda mais rápido. Evite usar &quot;contains&quot; com vários valores; os dois juntos podem retardar ainda mais uma campanha.
+1. **Usar amostra aleatória sozinha -** Amostra aleatória é um filtro especial. Use-o sozinho para colocar seu pessoal em listas pré-fabricadas. Em seguida, use &quot;Membro da lista&quot; para tornar sua lista inteligente super rápida. Uma amostra aleatória **NOT** trabalhar com Smart Lists aninhadas. O filtro de Amostra aleatória não funcionará se for a Smart List que está sendo referenciada para o filtro &quot;Membro da Smart List&quot;.
+1. **Seja eficiente com filtros de inatividade -** Filtros como &quot;Formulário não preenchido&quot; podem ser realmente úteis, mas exigem muito mais poder de processamento.
+1. **Seja econômico ao colar em vários valores -** A seleção múltipla foi projetada para colar em dezenas ou possivelmente centenas de valores. Coloque muitas, no entanto, e vai desacelerar muito.
+1. **Seja econômico ao adicionar restrições -** Esses são os pequenos detalhes de uma regra e valores relacionados. Quanto mais restrições você adicionar, mais lento será o tempo de processamento.
+1. **Simplifique suas campanhas -** Mais de 100 regras independentes (já vimos!) obviamente, levarão algum tempo para serem processados. Mantenha-o simples e você perceberá os ganhos de velocidade - além disso, será mais fácil para você entender.
+1. **Inclua o símbolo @ antes do nome do domínio ao usar o filtro Endereço de email** **-** Isso faz com que ele use uma query mais rápida. Exemplo: em vez de usar _o email contém &#39;somedomain.com&#39;_, use _email contém &#39;@somedomain.com_.&quot; Se você estiver usando vários endereços de email com &quot;contém&quot;, TODOS eles deverão começar com &quot;@&quot;.
 
 >[!TIP]
 >
->O Marketo pode ser usado de muitas formas e determinadas técnicas são melhores para você e para sua empresa. Considere [Serviços profissionais da Marketo](https://pages2.marketo.com/72-hour-survival-guide.html) fazer seu investimento brilhar.
+>O Marketo pode ser usado de várias maneiras e determinadas técnicas são melhores para você e para sua empresa. Considere [Serviços profissionais da Marketo](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} para fazer seu investimento brilhar.
