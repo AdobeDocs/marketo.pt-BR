@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2360317
-description: Atribuir partições de pessoa a espaços de trabalho - Documentos do Marketo - Documentação do produto
+description: Atribuir partições de pessoas a espaços de trabalho - Documentação do Marketo - Documentação do produto
 title: Atribuir Partições de Pessoa a Espaços de Trabalho
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
 # Atribuir Partições de Pessoa a Espaços de Trabalho {#assign-person-partitions-to-workspaces}
 
-Veja como editar as atribuições de partição de pessoa/espaço de trabalho:
+Veja como editar a partição de pessoa/atribuições de espaço de trabalho:
 
 >[!NOTE]
 >
@@ -24,36 +24,41 @@ Veja como editar as atribuições de partição de pessoa/espaço de trabalho:
 
 >[!CAUTION]
 >
->Espaços de trabalho e Partições de pessoa podem ser complexos. Entre em contato  [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obter ajuda na sua configuração.
+>Os espaços de trabalho e as partições de pessoas podem ser complexos. Contate  [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obter ajuda com a configuração.
 
-1. Em Admin, clique em **Espaços de trabalho e partições**.
+1. Vá para a **Admin** área.
 
-![](assets/image2014-9-17-11-3a13-3a24.png)
+   ![](assets/assign-person-partitions-to-workspaces-1.png)
 
-1. Selecione seu espaço de trabalho e clique em **Editar espaço de trabalho**.
+1. Clique em **Espaços de trabalho e partições**.
 
-   ![](assets/two-3.png)
+   ![](assets/assign-person-partitions-to-workspaces-2.png)
+
+1. Selecione o espaço de trabalho e clique em **Editar espaço de trabalho**.
+
+   ![](assets/assign-person-partitions-to-workspaces-3.png)
 
 1. Edite as informações de partição de pessoa que deseja alterar.
 
+   ![](assets/assign-person-partitions-to-workspaces-4.png)
+
    >[!NOTE]
    >
-   >A caixa de seleção Todas as Partições de Pessoa indica que esse espaço de trabalho tem acesso a todas as partições de pessoa no sistema.
+   >* A caixa de seleção &quot;Todas as Partições de Pessoas&quot; indica que este espaço de trabalho tem acesso a todas as partições de pessoas no sistema.
+   >
+   >* As partições primárias de pessoas são o padrão em que todas as pessoas são inseridas. Uso [etapas de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou [regras de atribuição](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) para mover as pessoas.
 
-   ![](assets/three-3.png)
-
-   As partições de pessoa principal são o padrão em que todos os povos serão inseridos. Use [etapas de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou [regras de atribuição](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) para movimentar pessoas.
 
 1. Clique em **Salvar**.
 
-   ![](assets/four-3.png)
+   ![](assets/assign-person-partitions-to-workspaces-5.png)
 
-   Depois de salvar, você deve ver as alterações!
+Depois de salvar, você deve ver as alterações.
 
-   ![](assets/image2014-9-17-11-3a14-3a53.png)
+![](assets/assign-person-partitions-to-workspaces-6.png)
 
-Parabéns! O espaço de trabalho foi editado com êxito!
+Você editou seu espaço de trabalho com êxito!
 
 >[!MORELIKETHIS]
 >
->[Como entender espaços de trabalho e partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>[Noções Básicas sobre Espaços de Trabalho e Partições de Pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
