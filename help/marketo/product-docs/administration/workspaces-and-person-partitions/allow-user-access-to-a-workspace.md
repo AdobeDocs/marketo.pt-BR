@@ -3,7 +3,7 @@ unique-page-id: 2360325
 description: Permitir o acesso do usuário a um espaço de trabalho - Documentação do Marketo - Documentação do produto
 title: Permitir o acesso do usuário a um espaço de trabalho
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: a45732d3c09e7e3ca9e1a85c66aa7087c01eaa6f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Os espaços de trabalho podem ser usados por qualquer motivo (como separação d
    >
    >Você pode permitir que seus usuários tenham qualquer combinação de acesso aos espaços de trabalho.
 
-Depois de salvar as alterações, você deverá ver a atualização!
+Depois de salvar as alterações, você deverá ver a atualização.
 
 ![](assets/allow-user-access-to-a-workspace-5.png)
 
