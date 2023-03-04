@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: f249988baa444b5e48a497225128a0771660649e
+source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
 workflow-type: tm+mt
-source-wordcount: '8832'
+source-wordcount: '8836'
 ht-degree: 5%
 
 ---
@@ -1216,7 +1216,7 @@ ht-degree: 5%
          + [O Sales Connect é compatível com o Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Quais são os termos de serviço do Sales Connect?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [O que é a integração Sales Connect e Highspot?](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
-         + [Quais são as versões mais recentes do cliente?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
+         + [Quais navegadores e clientes de email são compatíveis com o Sales Connect?](product-docs/marketo-sales-connect/faq/which-browsers-and-email-clients-are-supported-with-sales-connect.md)
          + [Por que nenhum dos meus contatos está sendo encaminhado para o Sales Connect?](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [Por que não posso excluir um contato?](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [Por que todos os meus contatos não foram enviados para o Sales Connect?](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
