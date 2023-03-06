@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
 workflow-type: tm+mt
-source-wordcount: '8836'
+source-wordcount: '8829'
 ht-degree: 5%
 
 ---
@@ -239,6 +239,7 @@ ht-degree: 5%
       + [Configurar o mapeamento da organização do Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Sincronizar um público-alvo do Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importação de ativos com o Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [Visão geral do Unified Shell](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
    + Conceitos principais do Marketo {#core-marketo-concepts}
       + Campanhas inteligentes {#smart-campaigns}
          + [Noções básicas sobre campanhas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1200,7 +1201,6 @@ ht-degree: 5%
             + [Visão geral do cancelamento de inscrição](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + Usando a janela Compor {#using-the-compose-window}
             + [Adicionar um anexo ou conteúdo rastreável ao seu email](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-            + [Adicionar conteúdo de destaque ao seu email](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [Opções de envio em massa](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [Escrevendo emails em massa com Selecionar e enviar](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [Agendamento de um email](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
@@ -1377,7 +1377,7 @@ ht-degree: 5%
             + [Por que todos os meus contatos não foram encaminhados para as ações do Sales Insight?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Por que a atividade de rastreamento não é exibida na atividade do Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Integrações {#integrations}
-            + [Registrar e-mails em uma origem externa](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
+            + [Integração de pontos de acesso](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [Conceder acesso ao Marketo aos usuários](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Momentos interessantes nas ações do Sales Insight](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
