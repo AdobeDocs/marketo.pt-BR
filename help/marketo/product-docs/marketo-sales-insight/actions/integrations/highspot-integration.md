@@ -3,9 +3,9 @@ description: Integração de pontos de acesso - Documentação do Marketo - Docu
 title: Integração de pontos de acesso
 hide: true
 hidefromtoc: true
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
+source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,21 @@ A equipe de vendas pode acessar os recursos dos pontos mais altos em Ações do 
 >
 >Você deve ter privilégios de administrador para ativar o Highspot para sua instância de ações do Sales Insight.
 
-1. Selecionar configurações
+1. Clique no ícone de engrenagem e selecione **Configurações**.
 
-PICC
+   ![](assets/highspot-integration-1.png)
 
-1. Selecione as configurações gerais na barra lateral
+1. Em **Configurações do administrador**, selecione **Geral**.
 
-PICC
+   ![](assets/highspot-integration-2.png)
 
-1. Role até o cartão de integrações e ative o Highspot
+1. Navegue até **Integrações** e clique no controle deslizante para ativar o Highspot.
 
-PICC
+   ![](assets/highspot-integration-3.png)
 
-1. Agora os usuários verão uma opção para selecionar Realce ao selecionar o botão de upload de conteúdo na janela de composição, no editor de modelo e no editor de email da campanha.
+Agora os usuários verão uma opção para selecionar Realce ao selecionar o botão de upload de conteúdo na janela de composição, no editor de modelo e no editor de email da campanha.
 
-PICC
+![](assets/highspot-integration-4.png)
 
 ## Acesso a conteúdo de pontos de acesso e compartilhamento via e-mail {#accessing-highspot-content}
 
