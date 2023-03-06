@@ -1,11 +1,9 @@
 ---
 description: Integração de pontos de acesso - Documentação do Marketo - Documentação do produto
 title: Integração de pontos de acesso
-hide: true
-hidefromtoc: true
-source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
+source-git-commit: 4f919501ee93790105fae3800f1b0ddd96036dfa
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -52,7 +50,7 @@ Acesse o Highspot e adicione conteúdo aos seus emails da janela de composição
 
    ![](assets/highspot-integration-7.png)
 
-1. Faça login na sua conta do Highspot.
+1. Faça login na sua conta do Highspot (se você ainda não estiver logado).
 
    ![](assets/highspot-integration-8.png)
 
