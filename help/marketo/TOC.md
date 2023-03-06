@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
+source-git-commit: 375abb702f611d1e50b762606402ccdf1f9ca9c6
 workflow-type: tm+mt
 source-wordcount: '8829'
 ht-degree: 5%
@@ -1201,6 +1201,7 @@ ht-degree: 5%
             + [Visão geral do cancelamento de inscrição](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + Usando a janela Compor {#using-the-compose-window}
             + [Adicionar um anexo ou conteúdo rastreável ao seu email](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
+            + [Adicionar conteúdo de destaque ao seu email](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [Opções de envio em massa](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [Escrevendo emails em massa com Selecionar e enviar](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [Agendamento de um email](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
@@ -1352,7 +1353,6 @@ ht-degree: 5%
                + [Sincronização de cancelamentos de assinatura com o Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
             + Usando a janela Compor {#using-the-compose-window}
                + [Adicionar um anexo ou conteúdo rastreável ao seu email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-               + [Adicionar conteúdo de destaque ao seu email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
                + [Opções de email em massa](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [Escrevendo emails em massa com Selecionar e enviar](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Enviando Emails por Email de Grupo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
