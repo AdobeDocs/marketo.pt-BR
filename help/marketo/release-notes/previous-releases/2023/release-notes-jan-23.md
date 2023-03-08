@@ -1,10 +1,10 @@
 ---
 description: Notas de versão - Janeiro de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Janeiro de 2023
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 6%
+source-wordcount: '628'
+ht-degree: 5%
 
 ---
 
@@ -85,7 +85,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
    <td><i>Em breve</i></td>
   </tr>
   </tbody>
