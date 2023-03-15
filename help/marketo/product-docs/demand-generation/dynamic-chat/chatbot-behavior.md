@@ -2,7 +2,7 @@
 description: Comportamento do chatbot - Documentos do Marketo - Documentação do produto
 title: Comportamento do chatbot
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: af8896e8675ae3ded689583fb5a348aff95cba83
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -52,7 +52,7 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>Visitas V1 WP1</p>
       </td>
       <td>
-        <p>D1 será resolvido para V1 </p>
+        <p>D1 será resolvido para V1</p>
       </td>
       <td>A contagem de acionadores para D1 será aumentada em 1</td>
     </tr>
@@ -131,7 +131,7 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
       <td>
         <p>D1 destinado apenas a WP1, WP2</p>
         <p>V1 visita WP1 pela primeira vez</p>
-        <p>V1 clica em D1, mas não respondeu </p>
+        <p>V1 clica em D1, mas não respondeu</p>
         <p>V1 visitas WP2</p>
       </td>
       <td>
@@ -181,7 +181,7 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>D1 direcionado apenas para WP1</p>
         <p>D2 destinado apenas ao WP2</p>
         <p>V1 visita WP1 pela primeira vez</p>
-        <p>V1 clica em D1, mas não respondeu </p>
+        <p>V1 clica em D1, mas não respondeu</p>
         <p>V1 visitas WP2</p>
       </td>
       <td>D1 será resolvido no WP1<br/>
@@ -212,7 +212,7 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>V1 visita WP1 pela primeira vez</p>
         <p>V1 clica em D1 e completa D1</p>
         <p>V1 visitas WP2</p>
-        <p>Cliques V1 em D2 fornecem a primeira resposta </p>
+        <p>Cliques V1 em D2 fornecem a primeira resposta</p>
       </td>
       <td>D1 será resolvido no WP1 e no pós-conclusão<br/>O D2 será resolvido no WP2</td>
       <td>
@@ -255,7 +255,7 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
       <td>
         <p>D1 direcionado apenas para WP1</p>
         <p>V1 visita WP1 pela primeira vez</p>
-        <p>V1 com D1 </p>
+        <p>V1 com D1</p>
         <p>D1 não está publicado</p>
         <p>V1 atualiza WP1</p>
       </td>
@@ -300,7 +300,7 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
       </td>
       <td>
         <p>A contagem de acionadores para D1 será aumentada em 1</p>
-        <p>A contagem de engajamento para D1 será aumentada em 1 </p>
+        <p>A contagem de engajamento para D1 será aumentada em 1</p>
         <p>Após a atualização, como o D1 antigo aparecerá, portanto, nenhuma alteração na contagem de acionadores</p>
       </td>
     </tr>
@@ -325,7 +325,7 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
     <tr>
       <td>
         <p>D1 direcionado para WP1 com prioridade 1</p>
-        <p>D2 destinado ao WP1 com prioridade 2 </p>
+        <p>D2 destinado ao WP1 com prioridade 2</p>
         <p>V1 visita WP1 pela primeira vez</p>
         <p>V1 clica em D1 e completa D1</p>
         <p>V1 atualiza WP1 e vê D2<br/>V1 clica em D2 e completa D2</p>
