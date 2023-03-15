@@ -1,22 +1,22 @@
 ---
-description: Visão geral do Unified Shell - Documentação do Marketo - Documentação do produto
-title: Visão geral do Unified Shell
+description: Visão geral do shell unificado - Documentos do Marketo - Documentação do produto
+title: Visão geral de shell unificado
 hide: true
 hidefromtoc: true
-source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 0%
+source-wordcount: '355'
+ht-degree: 2%
 
 ---
 
-# Visão geral do Unified Shell {#unified-shell-overview}
+# Visão geral de shell unificado {#unified-shell-overview}
 
-O Unified Shell alinha a aparência do &quot;shell&quot; dos aplicativos e serviços da Adobe Experience Cloud. Mas é mais do que um novo design. É um aplicativo de página única que fornece experiência do usuário em uma única instância.
+O Unified Shell alinha a aparência &quot;shell&quot; de aplicativos e serviços da Adobe Experience Cloud. Mas é mais do que um novo design. É um aplicativo de página única que fornece experiência de usuário em uma única instância.
 
-## Fluxo de usuário {#user-flow}
+## Fluxo do usuário {#user-flow}
 
-**Fluxo de shell unificado**
+**Fluxo de Shell Unificado**
 
 Se você já estiver conectado a um produto Adobe Experience Cloud, clique no ícone do menu e selecione **[!DNL Marketo Measure]**.
 
@@ -24,9 +24,9 @@ PICC
 
 >[!NOTE]
 >
->O menu suspenso pode parecer diferente dependendo dos produtos da Adobe Experience Cloud aos quais você está inscrito.
+>O menu suspenso pode ser diferente dependendo dos produtos da Adobe Experience Cloud aos quais você está inscrito.
 
-Se você estiver _não_ já estiver conectado a um produto Adobe Experience Cloud, faça logon diretamente no [!DNL Marketo Engage] aqui: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
+Se você estiver _not_ já conectado a um produto Adobe Experience Cloud, faça logon diretamente em [!DNL Marketo Engage] aqui: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
 ## Novos recursos {#new-features}
 
@@ -40,19 +40,19 @@ PICC
 
 **Centro de ajuda integrado**
 
-Procure por artigos de suporte, envie tíquetes, forneça feedback, tudo dentro do [!DNL Marketo Engage] aplicação.
+Pesquise artigos de suporte, envie tíquetes, forneça feedback, tudo dentro da [!DNL Marketo Engage] aplicativo.
 
 PICC
 
 **Alternador de aplicativos**
 
-Aqueles com acesso a vários produtos de Adobe poderão alternar facilmente entre eles.
+Aqueles que têm acesso a vários produtos de Adobe poderão alternar facilmente entre eles.
 
 PICC
 
 **Notificações e anúncios**
 
-Visualize e interaja com notificações específicas de produtos e anúncios gerais de produtos do Adobe diretamente no aplicativo.
+Exiba e interaja com notificações específicas do produto e anúncios gerais de produtos do Adobe diretamente no aplicativo.
 
 PICC
 
@@ -60,28 +60,28 @@ PICC
 
 **Configurações do Adobe**
 
-Clique no ícone do perfil para alterar o idioma ou outras preferências do Adobe. Você também pode fazer [!DNL Marketo Engage]Alterações específicas do clicando em **Minhas configurações**.
+Clique no ícone do perfil para alterar seu idioma ou outras preferências de todo o Adobe. Você também pode [!DNL Marketo Engage]Alterações específicas clicando em **Minhas configurações**.
 
 PICC
 
 ## Perguntas frequentes {#faq}
 
-**Não consigo fazer login no [!DNL Marketo Engage] por meio do Unified Shell. Qual pode ser o problema?**
+**Não consigo fazer logon no [!DNL Marketo Engage] através do shell unificado. Qual pode ser o problema?**
 
-Se você conseguir fazer logon no Adobe Experience Cloud, mas visualizar uma página como a seguinte, o problema pode estar na guia [!DNL Marketo Engage] lado:
+Se você conseguir fazer logon no Adobe Experience Cloud, mas vir uma página como a seguinte, o problema pode estar no [!DNL Marketo Engage] lado:
 
 PICC
 
-Se você receber o erro acima, [entre em contato com o Suporte](https://nation.marketo.com/t5/support/ct-p/Support) para obter assistência.
+Se receber o erro acima, [entrar em contato com o suporte](https://nation.marketo.com/t5/support/ct-p/Support) para obter assistência.
 
-Veja o que está mudando para o Marketo:
+Notas de Steven
 
 O logon será feito por meio do Experience Cloud/IMS
 
-O acesso à instância do Marketo será feito por meio da &quot;Página do Marketo Launch&quot;, que terá um bloco para cada instância do Marketo à qual o usuário tem acesso na organização. Em seguida, é possível iniciar o Marketo clicando no bloco.
+O acesso à instância do Marketo será feito por meio da &quot;Página do Marketo Launch&quot; que terá um bloco para cada instância do Marketo à qual o usuário tem acesso em sua organização. Eles podem iniciar o Marketo clicando no bloco .
 
-Histórico do usuário, Pesquisa global, Notificações do Marketo e Bandeja de tarefas estão passando da barra superior para uma nova barra no lado esquerdo
+O Histórico do Usuário, a Pesquisa Global, as Notificações do Marketo e a Bandeja de Tarefas estão sendo movidos da barra superior para uma nova barra no lado esquerdo
 
-A árvore de histórico em Meu Marketo está desaparecendo
+Árvore histórica em Meu Marketo está desaparecendo
 
-Os marcadores não funcionarão (por enquanto). Não precisamos dar uma chamada agora, mas removê-la se estiver copiando algum texto do documento da Bizible (seus marcadores funcionam).
+Sem marcadores

@@ -1,33 +1,33 @@
 ---
-description: Notas de versão - Janeiro de 2023 - Documentação do Marketo - Documentação do produto
+description: Notas de versão - Janeiro de 2023 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - Janeiro de 2023
-source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '637'
 ht-degree: 5%
 
 ---
 
-# Notas de versão: janeiro de 2023 {#release-notes-jan-23}
+# Notas de versão: Janeiro de 2023 {#release-notes-jan-23}
 
-Abaixo você encontrará todos os recursos incluídos na versão de janeiro de 2023. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
+Abaixo você encontrará todos os recursos incluídos na versão de 23 de janeiro. Verifique sua edição do Adobe Marketo Engage para ver a disponibilidade dos recursos.
 
 >[!AVAILABILITY]
 >
->Recursos indicados por uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
+>Recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
 
-## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
+## Recursos do ciclo de versão padrão {#standard-release-cycle-features}
 
-Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **20 de janeiro de 2023**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique abaixo cada recurso para obter seu status.
+Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser lançados em **20 de janeiro de 2023**, com uma distribuição em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status abaixo de cada recurso.
 
-### Marketo Engage Modern UX {#modern-ux}
+### UX Moderno do Marketo Engage {#modern-ux}
 
 </br>
 
-* **Telas atualizadas no UX moderno**: no UX moderno (anteriormente conhecido como Experiência da próxima geração), estamos fornecendo telas adicionais e atualizadas que oferecem aprimoramentos atualizados de design e usabilidade, acessíveis por meio de um switch de alternância:
+* **Telas atualizadas no UX moderno**: Na UX moderna (anteriormente conhecida como Experiência da próxima geração), estamos fornecendo telas adicionais e atualizadas que oferecem aprimoramentos atualizados de design e usabilidade acessíveis por meio de alternador de alternância:
 
    * Exibição da lista de trechos
-   * Lista de modelos de landing page
+   * Lista de modelos de página inicial
 
    <table> 
   <tr> 
@@ -36,12 +36,12 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Alternar alternância</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Alternar Switch</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Aprimorado Usado pelo componente para detalhes do modelo de email e detalhes do trecho**: a guia Novo usado por interface fornece informações adicionais sobre cada um dos ativos usados por, como quando foi modificado pela última vez e por quem. Você pode facilmente realizar análises por meio dos recursos de pesquisa, classificação e filtragem. Esse novo componente da interface do usuário será incorporado a partir dos ativos Modelo de email e Trecho.
+* **Aprimorado Usado pelo Componente para Detalhes do modelo de email e Detalhes do trecho**: A guia Novo uso pela interface do usuário fornece informações adicionais sobre cada um dos ativos usados por , como quando foi modificado pela última vez e por quem. Você pode realizar análises facilmente por meio dos recursos de pesquisa, classificação e filtragem. Esse novo componente da interface do usuário será incorporado a partir do modelo de email e dos ativos de trecho.
 
 <table> 
   <tr> 
@@ -59,7 +59,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 </br>
 
-* **Modais reprojetados para ativos de relatório**: novo design para modelos de configuração de relatórios no UX moderno, oferecendo uma aparência atualizada, bem como acessibilidade aprimorada.
+* **Modos reprojetados para ativos de relatório**: Novo design para modelos de configuração de relatório no UX moderno que oferece uma aparência atualizada e acessibilidade aprimoradas.
 
 <table> 
   <tr> 
@@ -77,7 +77,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 </br>
 
-* **Marketo Measure Ultimate**: permite a atribuição B2B completa para empresas com várias instâncias de CRM e/ou Marketo Engage e diversas necessidades de dados de origem. Ele também fornece uma solução de atribuição B2B para Adobe RT-CDP por meio de dados compartilhados da AEP.
+* **Marketo Measure Ultimate**: Permite a atribuição B2B completa para empresas com várias instâncias de CRM e/ou Marketo Engage e diversas necessidades de dados de origem. Também fornece uma solução de atribuição B2B para RT-CDP do Adobe por meio de dados compartilhados da AEP.
 
 <table> 
   <tr> 
@@ -86,16 +86,16 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><i>Em breve</i></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
 
-### Aprimoramentos na API {#api-enhancements}
+### Melhorias da API {#api-enhancements}
 
 </br>
 
-* **Guia Serviços da Web aprimorada adicionando informações da API de exportação em massa**: Agora é possível visualizar a alocação diária de capacidade das assinaturas e a quantidade de alocação diária de capacidade usada nos últimos 7 dias.
+* **Guia Serviços Web aprimorados ao adicionar informações da API de exportação em massa**: Agora é possível visualizar a alocação de capacidade diária para suas subscrições e visualizar a quantidade de alocação de capacidade diária que foi usada nos últimos 7 dias.
 
 <table> 
   <tr> 
@@ -109,15 +109,15 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tbody>
 </table>
 
-## Recursos da versão Agile
+## Recursos da versão ágil
 
-Os seguintes recursos seguem um formato Agile e são lançados em várias datas antes ou depois da data de lançamento padrão. Verifique abaixo cada recurso para obter seu status.
+Os seguintes recursos seguem um formato Ágil e são lançados em várias datas, antes ou depois da data de lançamento padrão. Verifique o status abaixo de cada recurso.
 
 ### Bate-papo dinâmico {#dynamic-chat}
 
 </br>
 
-* **Definir Lista de opções no Cartão de Captura de Informações para o Dynamic Chat**: para ajudar a garantir a limpeza dos dados, é possível definir listas de opções para cartões de captura de informações, de modo que os visitantes possam selecionar apenas em uma lista predefinida de opções.
+* **Definir lista de opções no Cartão de captura de informações para bate-papo dinâmico**: Para ajudar a garantir a limpeza dos dados, você pode definir listas de separação para cartões de captura de informações para que os visitantes possam selecionar somente em uma lista predefinida de opções.
 
 <table> 
   <tr> 
@@ -131,7 +131,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Personalização na Confirmação de Reunião para o Dynamic Chat**: os agentes podem personalizar as confirmações de email de reserva de reunião usando os campos de pessoa e empresa do Marketo Engage para melhor se envolver com os visitantes (por exemplo: cumprimentar os visitantes com seu nome no email de notificação automatizada de reserva de reunião).
+* **Personalização na confirmação de reunião para bate-papo dinâmico**: Os agentes podem personalizar as confirmações por email de reserva da reunião usando campos Marketo Engage person e company para interagir melhor com os visitantes (por exemplo: saudar os visitantes pelo nome no email de notificação de reservas de reunião automatizada).
 
 <table> 
   <tr> 
@@ -145,7 +145,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Pesquisar no Stream Designer**: pesquise facilmente por conteúdo no Stream Designer para localizar rapidamente o conteúdo em todos os cartões/nós em um fluxo (por exemplo: pesquise &quot;SEO&quot; e ele destacará todos os nós que contêm essa cadeia de caracteres).
+* **Pesquisar no Designer de fluxo**: Procure facilmente conteúdo no Designer de fluxo para encontrar rapidamente conteúdo em todos os cartões/nós em um fluxo (por exemplo: pesquise &quot;SEO&quot; e ele destacará todos os nós que contêm essa string).
 
 <table> 
   <tr> 
@@ -159,7 +159,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Seletor de data/hora de Chatbot para Dynamic Chat**: Os visitantes da Web podem usar o seletor de calendário para escolher uma data e hora, em vez de inserir a data manualmente.
+* **Seletor de data/hora do chat dinâmico**: Os visitantes da Web podem usar o seletor de calendário para escolher uma data e hora, em vez de inserir a data manualmente.
 
 <table> 
   <tr> 
@@ -173,7 +173,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Notificações por email de reunião agendada para o Dynamic Chat**: quando uma reunião é agendada no calendário de um agente, ele receberá uma notificação por email sobre a agendamento, incluindo informações detalhadas sobre o envolvimento do Dynamic Chat do visitante.
+* **Notificações por email de reunião agendadas para bate-papo dinâmico**: Quando uma reunião é reservada no calendário de um agente, o agente receberá uma notificação por email sobre a reserva, incluindo informações detalhadas sobre o envolvimento do Bate-papo dinâmico do visitante.
 
 <table> 
   <tr> 
@@ -189,6 +189,6 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 ## Anúncios {#announcements}
 
-* **Alteração na API REST do Marketo**: com a versão de outubro de 2022, introduzimos uma pequena alteração na mensagem de resposta da API REST do Marketo. Consulte isto [Publicação do Marketo Nation](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} para obter mais detalhes.
+* **Alteração na API REST do Marketo**: Com a versão de outubro de 2022, introduzimos uma pequena alteração na mensagem de resposta da API REST do Marketo. Veja isto [Publicação da Nação do Marketo](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} para obter mais detalhes.
 
-* **_Webinário de lançamento do produto_**: [Webinário da versão de outubro de 2022 e janeiro de 2023 do Marketo Engage](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar da versão do produto_**: [Webinar de lançamento do Marketo Engage de outubro de 2022 e janeiro de 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

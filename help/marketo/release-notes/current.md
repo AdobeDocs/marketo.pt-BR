@@ -2,7 +2,7 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d744ef8f0798bfef540f49e2a6890eaa307569c4
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 9%
@@ -19,7 +19,7 @@ Abaixo você encontrará todos os recursos incluídos na versão de 23 de março
 
 ## Recursos do ciclo de versão padrão {#standard-release-cycle-features}
 
-Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser lançados em **24 de março de 2023**, com uma distribuição em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status abaixo de cada recurso.
+Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser lançados em **31 de março de 2023**, com uma distribuição em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status abaixo de cada recurso.
 
 ### UX Moderno do Marketo Engage {#modern-ux}
 
