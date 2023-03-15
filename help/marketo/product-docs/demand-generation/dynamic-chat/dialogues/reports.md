@@ -2,10 +2,10 @@
 description: Relatórios - Documentação do Marketo - Documentação do produto
 title: Relatórios
 exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
-source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
+source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 8%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 
@@ -21,7 +21,7 @@ Na guia Reports , visualize os dados dos últimos 90 dias. Cada categoria é def
  </tr>
  <tr>
   <td><strong>Envolvido</strong></td>
-  <td>Aumenta sempre que um visitante clica na âncora do chatbot para abrir a caixa de diálogo.</td>
+  <td>Incrementa quando um visitante interage com pelo menos um cartão em uma caixa de diálogo (por exemplo, Pergunta, Captura de informações etc.)</td>
  </tr>
  <tr>
   <td><strong>Concluído</strong></td>
@@ -43,7 +43,7 @@ Na guia Reports , visualize os dados dos últimos 90 dias. Cada categoria é def
 
 >[!MORELIKETHIS]
 >
->* [Criar uma caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [Critérios de público-alvo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
+>* [Criar uma caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [Designer de sequência](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* [Critérios de público](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 
