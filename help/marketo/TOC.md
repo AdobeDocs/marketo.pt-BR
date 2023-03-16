@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
+source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
 workflow-type: tm+mt
-source-wordcount: '8831'
+source-wordcount: '8843'
 ht-degree: 5%
 
 ---
@@ -1396,6 +1396,9 @@ ht-degree: 5%
                + [Gerenciar grupos](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Colunas da Página de Pessoas](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Telefone {#phone}
+            + [Resultados da chamada](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
+            + [Motivos da chamada](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
+            + [Motivos de chamada de registro e resultados de chamada para o Salesforce](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
             + [Ativar registro de chamada](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
             + [Chamada internacional](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Presença local](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
