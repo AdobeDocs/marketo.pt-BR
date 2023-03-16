@@ -2,9 +2,9 @@
 description: Visão geral do bate-papo dinâmico - Documentos do Marketo - Documentação do produto
 title: Visão geral do bate-papo dinâmico
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
+source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '857'
 ht-degree: 2%
 
 ---
@@ -33,23 +33,23 @@ O seguinte é sincronizado:
 
 ## Diálogos {#dialogues}
 
-As caixas de diálogo representam um único envolvimento de chat. Pense nele como um contêiner com tudo o que você precisa para ter um diálogo de bate-papo envolvente com os visitantes do seu site. Em cada caixa de diálogo, você pode especificar em quais páginas gostaria que a caixa de diálogo fosse exibida, para quem gostaria que ela fosse exibida e o conteúdo e fluxo da própria caixa de diálogo. Além disso, você pode encontrar métricas para ver o desempenho da caixa de diálogo. [Saiba mais sobre Diálogos](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
+As caixas de diálogo representam um único envolvimento de chat. Pense nele como um contêiner com tudo o que você precisa para ter um diálogo de bate-papo envolvente com os visitantes do seu site. Em cada caixa de diálogo, você pode especificar em quais páginas gostaria que a caixa de diálogo fosse exibida, para quem gostaria que ela fosse exibida e o conteúdo e fluxo da própria caixa de diálogo. Além disso, você pode encontrar métricas para ver o desempenho da caixa de diálogo. [Saiba mais sobre Diálogos](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
 
 ## Configuração {#configuration}
 
-Na guia Configuração , personalize a aparência das várias caixas de diálogo. Alterar fonte, cores, tempo de resposta e muito mais! [Saiba mais sobre a configuração](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target=&quot;_blank&quot;}.
+Na guia Configuração , personalize a aparência das várias caixas de diálogo. Alterar fonte, cores, tempo de resposta e muito mais! [Saiba mais sobre a configuração](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
 
 ## Calendário {#calendar}
 
-Conecte seu calendário do Outlook ou Gmail para usar na programação de compromissos no chatbot. [Saiba mais sobre o Calendário](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
+Conecte seu calendário do Outlook ou Gmail para usar na programação de compromissos no chatbot. [Saiba mais sobre o Calendário](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## Reuniões {#meetings}
 
-É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias Diálogos. [Saiba mais sobre Reuniões](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
+É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias Diálogos. [Saiba mais sobre Reuniões](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
 
 ## Roteamento {#routing}
 
-É aqui que você pode ver uma lista de todos os agentes que conectaram seus calendários, a ordem em que serão apresentados aos visitantes do site e criar regras de roteamento personalizadas. [Saiba mais sobre roteamento](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
+É aqui que você pode ver uma lista de todos os agentes que conectaram seus calendários, a ordem em que serão apresentados aos visitantes do site e criar regras de roteamento personalizadas. [Saiba mais sobre roteamento](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
 ## Perguntas frequentes {#faq}
 
@@ -111,8 +111,18 @@ Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto 
   <th>Limite</th>
  <tr>
   <td>Total de caixas de diálogo</td>
-  <td>Número total de Diálogos (publicados e rascunho)</td>
+  <td>Número de Diálogos (publicados e rascunho)</td>
   <td>500</td>
+ </tr>
+ <tr>
+  <td>Total de Calendários</td>
+  <td>Número de Calendários Ligados</td>
+  <td>25</td>
+ </tr>
+ <tr>
+  <td>Total de usuários (administradores e usuários de marketing)</td>
+  <td>Número de usuários combinados permitidos por instância do Dynamic Chat</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>Caixas de diálogo publicadas</td>
@@ -171,12 +181,12 @@ Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto 
  </tr>
  <tr>
   <td>Conversas Envolvidas</td>
-  <td>Número de conversas de bate-papo com as quais os visitantes da Web podem participar por dia</td>
-  <td>1,000</td>
+  <td>Número de conversas de bate-papo com as quais os visitantes da Web podem participar por mês</td>
+  <td>250</td>
  </tr>
  <tr>
   <td>Conversas Disparadas</td>
-  <td>Número de conversas de bate-papo que podem ser mostradas para visitantes da Web por dia</td>
+  <td>Número de conversas de bate-papo que podem ser mostradas para visitantes da Web por mês</td>
   <td>25,000</td>
  </tr>
 </table>
