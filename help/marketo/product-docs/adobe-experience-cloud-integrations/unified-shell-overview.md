@@ -3,10 +3,10 @@ description: Visão geral do shell unificado - Documentos do Marketo - Documenta
 title: Visão geral de shell unificado
 hide: true
 hidefromtoc: true
-source-git-commit: f48d0c91667072e5286604c0b7141296cba5542a
+source-git-commit: b4f0831ae98dd12a61d7ea5359586ca0b1a0971c
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,9 @@ O Unified Shell alinha a aparência &quot;shell&quot; de aplicativos e serviços
 
 **Fluxo de Shell Unificado**
 
-Se você já estiver conectado a um produto Adobe Experience Cloud, clique no ícone do menu e selecione **[!DNL Marketo Measure]**.
+Se você ainda não tiver feito logon em um produto da Adobe Experience Cloud, faça logon diretamente em [!DNL Marketo Engage] aqui: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
+
+Se você _são_ já conectado a um produto Adobe Experience Cloud, basta clicar no ícone de menu e selecionar **[!DNL Marketo Measure]**.
 
 ![](assets/unified-shell-overview-1.png)
 
@@ -26,60 +28,40 @@ Se você já estiver conectado a um produto Adobe Experience Cloud, clique no í
 >
 >O menu suspenso pode ser diferente dependendo dos produtos da Adobe Experience Cloud aos quais você está inscrito.
 
-Se você estiver _not_ já conectado a um produto Adobe Experience Cloud, faça logon diretamente em [!DNL Marketo Engage] aqui: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
-
 ## Novos recursos {#new-features}
 
 Além da aparência atualizada, você observará os seguintes recursos:
-
-**Gerenciamento de domínio**
-
-[Gerencie seu [!DNL Marketo Engage] domínios](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) sem a assistência de [!DNL Marketo Engage].
-
-PIC2
 
 **Centro de ajuda integrado**
 
 Pesquise artigos de suporte, envie tíquetes, forneça feedback, tudo dentro da [!DNL Marketo Engage] aplicativo.
 
-![](assets/unified-shell-overview-3.png)
+![](assets/unified-shell-overview-2.png)
 
 **Alternador de aplicativos**
 
 Aqueles que têm acesso a vários produtos de Adobe poderão alternar facilmente entre eles.
 
-PIC4
+![](assets/unified-shell-overview-3.png)
 
 **Notificações e anúncios**
 
 Exiba e interaja com notificações específicas do produto e anúncios gerais de produtos do Adobe diretamente no aplicativo.
 
-![](assets/unified-shell-overview-5.png)
+![](assets/unified-shell-overview-4.png)
 
 **Configurações do Adobe**
 
 Clique no ícone do perfil para alterar seu idioma ou outras preferências de todo o Adobe. Você também pode [!DNL Marketo Engage]Alterações específicas clicando em **Minhas configurações**.
 
-![](assets/unified-shell-overview-6.png)
+![](assets/unified-shell-overview-5.png)
 
 ## Perguntas frequentes {#faq}
 
 **Não consigo fazer logon no [!DNL Marketo Engage] através do shell unificado. Qual pode ser o problema?**
 
-Se você conseguir fazer logon no Adobe Experience Cloud, mas vir uma página como a seguinte, o problema pode estar no [!DNL Marketo Engage] lado:
+Se você conseguir fazer logon no Adobe Experience Cloud, mas vir o erro &quot;Falha ao carregar a página&quot;, o problema pode estar no [!DNL Marketo Engage] lado. Entre em contato [Suporte Marketo](https://nation.marketo.com/t5/support/ct-p/Support) para obter assistência.
 
-PIC7
+**Para onde foi o histórico do usuário, a pesquisa global, as notificações do Marketo e a bandeja de tarefas?**
 
-Se receber o erro acima, [entrar em contato com o suporte](https://nation.marketo.com/t5/support/ct-p/Support) para obter assistência.
-
-Notas de Steven
-
-O logon será feito por meio do Experience Cloud/IMS
-
-O acesso à instância do Marketo será feito por meio da &quot;Página do Marketo Launch&quot; que terá um bloco para cada instância do Marketo à qual o usuário tem acesso em sua organização. Eles podem iniciar o Marketo clicando no bloco .
-
-O Histórico do Usuário, a Pesquisa Global, as Notificações do Marketo e a Bandeja de Tarefas estão sendo movidos da barra superior para uma nova barra no lado esquerdo
-
-Árvore histórica em Meu Marketo está desaparecendo
-
-Sem marcadores
+Esses recursos foram movidos do início da navegação para uma nova barra no lado esquerdo da Unified Shell.
