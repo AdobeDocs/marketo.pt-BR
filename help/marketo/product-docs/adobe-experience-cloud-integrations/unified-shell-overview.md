@@ -3,10 +3,10 @@ description: Visão geral do shell unificado - Documentos do Marketo - Documenta
 title: Visão geral de shell unificado
 hide: true
 hidefromtoc: true
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: f48d0c91667072e5286604c0b7141296cba5542a
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 2%
+source-wordcount: '350'
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ O Unified Shell alinha a aparência &quot;shell&quot; de aplicativos e serviços
 
 Se você já estiver conectado a um produto Adobe Experience Cloud, clique no ícone do menu e selecione **[!DNL Marketo Measure]**.
 
-PICC
+![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
@@ -36,33 +36,31 @@ Além da aparência atualizada, você observará os seguintes recursos:
 
 [Gerencie seu [!DNL Marketo Engage] domínios](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) sem a assistência de [!DNL Marketo Engage].
 
-PICC
+PIC2
 
 **Centro de ajuda integrado**
 
 Pesquise artigos de suporte, envie tíquetes, forneça feedback, tudo dentro da [!DNL Marketo Engage] aplicativo.
 
-PICC
+![](assets/unified-shell-overview-3.png)
 
 **Alternador de aplicativos**
 
 Aqueles que têm acesso a vários produtos de Adobe poderão alternar facilmente entre eles.
 
-PICC
+PIC4
 
 **Notificações e anúncios**
 
 Exiba e interaja com notificações específicas do produto e anúncios gerais de produtos do Adobe diretamente no aplicativo.
 
-PICC
-
-PICC
+![](assets/unified-shell-overview-5.png)
 
 **Configurações do Adobe**
 
 Clique no ícone do perfil para alterar seu idioma ou outras preferências de todo o Adobe. Você também pode [!DNL Marketo Engage]Alterações específicas clicando em **Minhas configurações**.
 
-PICC
+![](assets/unified-shell-overview-6.png)
 
 ## Perguntas frequentes {#faq}
 
@@ -70,7 +68,7 @@ PICC
 
 Se você conseguir fazer logon no Adobe Experience Cloud, mas vir uma página como a seguinte, o problema pode estar no [!DNL Marketo Engage] lado:
 
-PICC
+PIC7
 
 Se receber o erro acima, [entrar em contato com o suporte](https://nation.marketo.com/t5/support/ct-p/Support) para obter assistência.
 
