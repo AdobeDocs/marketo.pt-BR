@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Configurar protocolos para Marketo - Documentos do Marketo - Documentação do produto
 title: Configurar protocolos para Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1021'
 ht-degree: 3%
 
 ---
@@ -20,13 +20,12 @@ Seu grupo de marketing está usando o Marketo para criar páginas de aterrissage
 
 Este artigo deve ser compartilhado com o departamento de TI da empresa que deseja implementar esses protocolos.
 
->[!NOTE]
->
->Se sua equipe de TI restringir o acesso à Web usando uma  lista de permissões, peça para adicionar os seguintes domínios (incluindo o asterisco) para permitir todos os recursos e websockets da Marketo:
+Se sua equipe de TI restringir o acesso à Web usando uma  lista de permissões, peça para adicionar os seguintes domínios (incluindo o asterisco) para permitir todos os recursos e websockets da Marketo:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
+* `*.experience.adobe.com`
 
 ## Etapa 1: Criar registros DNS para páginas de aterrissagem e email {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -40,7 +39,7 @@ Adicione o CNAME da landing page que eles enviaram para seu registro DNS, para q
 
 * Alias: Enter `[YourLandingPageCNAME]` (fornecido pela comercialização)
 * Tipo: CNAME
-* Aponte para: Enter `[MarketoAccountString].mktoweb.com` (fornecido pela comercialização)
+* Aponte para: Enter `[MunchkinID].mktoweb.com` (fornecido pela comercialização)
 
 `2` **Adicionar CNAME para links de rastreamento de email**
 
@@ -59,7 +58,7 @@ Por exemplo:
 
 Informe sua equipe de marketing quando tiver concluído esse processo.
 
-`4` **Contato [Suporte Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} para iniciar o processo de provisionamento de um certificado SSL.**
+`4` **Contato [Suporte Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para iniciar o processo de provisionamento de um certificado SSL.**
 
 Esse processo pode levar até 3 dias úteis para ser concluído.
 
@@ -104,7 +103,7 @@ Sua equipe de marketing também deve ter enviado informações do DKIM para adic
 
    `[DKIMDomain2]`: O Registro do Host é `[HostRecord2]` e o valor TXT é `[TXTValue2]`.
 
-   Copie o HostRecord e o TXTValue para cada DKIMDomain que você configurou depois de seguir a [instruções aqui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}. Não se esqueça de verificar cada domínio em Admin > Email > DKIM depois que sua equipe de TI concluir esta etapa.
+   Copie o HostRecord e o TXTValue para cada DKIMDomain que você configurou depois de seguir a [instruções aqui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Não se esqueça de verificar cada domínio em Admin > Email > DKIM depois que sua equipe de TI concluir esta etapa.
 
 ## Etapa 4: Configurar registros MX para seu domínio {#step-set-up-mx-records-for-your-domain}
 
@@ -116,11 +115,11 @@ Uma conexão de saída é feita pelo Marketo Engage para um servidor na Internet
 
 **Webhooks**
 
-Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;} são um mecanismo de integração de saída. Quando uma [Chame o Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)A ação de fluxo {target=&quot;_blank&quot;} é executada como parte de uma campanha inteligente, uma solicitação HTTP é feita para um serviço da Web externo. Se o editor do serviço da Web usar uma  lista de permissões no firewall da rede onde o serviço da Web externo está localizado, o editor deverá adicionar os blocos de endereço IP listados abaixo à lista de permissões.
+Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} a ação de fluxo é executada como parte de uma campanha inteligente, uma solicitação HTTP é feita para um serviço da Web externo. Se o editor do serviço da Web usar uma  lista de permissões no firewall da rede onde o serviço da Web externo está localizado, o editor deverá adicionar os blocos de endereço IP listados abaixo à lista de permissões.
 
 **Sincronização com CRM**
 
-Marketo Engage [Sincronização do Salesforce CRM](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;} e [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;} são mecanismos de integração que fazem solicitações HTTP de saída para APIs publicadas pelo seu fornecedor de CRM. Você deve garantir que sua organização de TI não bloqueie nenhum dos blocos de endereço IP abaixo de acessar suas APIs de fornecedor de CRM.
+Marketo Engage [Sincronização do Salesforce CRM](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} são mecanismos de integração que fazem solicitações HTTP de saída para APIs publicadas pelo seu fornecedor de CRM. Você deve garantir que sua organização de TI não bloqueie nenhum dos blocos de endereço IP abaixo de acessar suas APIs de fornecedor de CRM.
 
 **Blocos de endereço IP de saída do Marketo Engage**
 

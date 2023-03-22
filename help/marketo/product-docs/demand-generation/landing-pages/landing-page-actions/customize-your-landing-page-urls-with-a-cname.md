@@ -3,9 +3,9 @@ unique-page-id: 2359746
 description: Personalize seus URLs de página de aterrissagem com um CNAME - Documentos do Marketo - Documentação do produto
 title: Personalize seus URLs de página inicial com um CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '237'
 ht-degree: 1%
 
 ---
@@ -30,41 +30,47 @@ Escolha uma palavra para ir no início do URL de suas landing pages. É apenas u
 
 A única palavra (mais YourCompany.com) é chamada de CNAME. Você precisará disso mais tarde, então anote isso.
 
-## Encontre sua sequência de caracteres da conta {#find-your-account-string}
+## Encontrar a ID do Munchkin {#find-your-munchkin-id}
 
-1. Vá para o **Administrador** e clique em **Páginas de aterrissagem**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-18-16-3a2-3a45.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
+
+1. Clique em **Minha conta**.
+
+   ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
    >[!NOTE]
    >
    >**Permissões de administrador necessárias**
 
-1. Em **Aterrissagem** **Páginas** , copie a **Conta** **String** do **Configurações** seção.
+1. Role para baixo até &quot;Informações de suporte&quot; e copie a ID do Munchkin.
 
-   ![](assets/image2014-9-18-16-3a44-3a12.png)
-
-1. Você precisará mais tarde, portanto anote isso.
+   ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
 ## Enviar solicitação para TI {#send-request-to-it}
 
-Peça à equipe de TI para configurar o seguinte CNAME: (Substitua a palavra [CNAME] e [STRING DE CONTA] com o texto da etapa anterior.)
+Peça à equipe de TI para configurar o seguinte CNAME: (Substitua a palavra [CNAME] e [Munchkin ID] com o texto da etapa anterior.)
 
-[CNAME].YourCompany.com > [STRING DE CONTA].mktoweb.com
+[CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Concluir configuração CNAME {#complete-cname-setup}
 
-1. Depois que a TI criar o CNAME, acesse **Administrador** e clique em **Páginas de aterrissagem**.
+1. Depois que a TI criar o CNAME, acesse o **Administrador** área.
 
-   ![](assets/image2014-9-18-17-3a15-3a11.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Em **Configurações** , clique em **Editar**.
+1. Clique em **Páginas de aterrissagem**.
 
-   ![](assets/image2014-9-18-17-3a15-3a18.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
+
+1. Em **Configurações** seção , clique em **Editar**.
+
+   ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
 1. Insira seu CNAME em **Nome do domínio para páginas de aterrissagem**, insira **Página de fallback**, insira **Página inicial** e clique em **Salvar**.
 
-   ![](assets/image2014-9-18-17-3a15-3a25.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
 >[!NOTE]
 >

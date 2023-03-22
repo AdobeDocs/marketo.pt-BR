@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: Adicionar outros CNAMEs de página de aterrissagem - Documentos do Marketo - Documentação do produto
 title: Adicionar outros CNAMEs de página inicial
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -28,33 +28,37 @@ Você pode adicionar CNAMEs de página de aterrissagem para permitir URLs difere
 >
 >**Permissões de administrador necessárias**
 
-## Encontre sua sequência de caracteres da conta {#find-your-account-string}
+1. Vá para o **Administrador** área.
 
-1. Vá para o **Administrador** e clique em **Páginas de aterrissagem**.
+   ![](assets/add-additional-landing-page-cnames-1.png)
 
-   ![](assets/image2014-9-16-15-3a19-3a54.png)
+1. Clique em **Minha conta**.
 
-1. Copie o **Sequência de caracteres da conta** do **Configurações** seção.
+   ![](assets/add-additional-landing-page-cnames-2.png)
 
-   ![](assets/image2014-9-16-15-3a20-3a2.png)
+1. Role para baixo até &quot;Informações de suporte&quot; e copie a ID do Munchkin.
 
-1. Anote-o para a próxima etapa.
+   ![](assets/add-additional-landing-page-cnames-3.png)
 
 ## Enviar solicitação para TI {#send-request-to-it}
 
-1. Peça ao departamento de TI para configurar o seguinte CNAME: (Substitua a palavra [CNAME] com o CNAME de sua escolha e [STRING DE CONTA] com o texto da etapa anterior).
+1. Peça ao departamento de TI para configurar o seguinte CNAME: (Substitua a palavra [CNAME] com o CNAME de sua escolha e [Munchkin ID] com o texto da etapa anterior).
 
-   [CNAME].YourCompany.com > [STRING DE CONTA].mktoweb.com
+   [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Adicionar um novo CNAME {#add-a-new-cname}
 
-1. Depois que o departamento de TI criar o CNAME, acesse **Administrador** em seguida, clique em **Páginas de aterrissagem**.
+1. Depois que o departamento de TI criar o CNAME, acesse **Administrador** área.
 
-   ![](assets/image2014-9-16-15-3a20-3a20.png)
+   ![](assets/add-additional-landing-page-cnames-4.png)
+
+1. Clique em **Páginas de aterrissagem**.
+
+   ![](assets/add-additional-landing-page-cnames-5.png)
 
 1. Clique em **Novo** em seguida, selecione **Novo Alias de Domínio**.
 
-   ![](assets/image2014-9-16-15-3a20-3a28.png)
+   ![](assets/add-additional-landing-page-cnames-6.png)
 
 1. Insira seu **Alias de Domínio.** O **Página Padrão** é exibido se o visitante não colocar um URL. Insira para onde eles devem ir nesse caso.
 
@@ -62,10 +66,10 @@ Você pode adicionar CNAMEs de página de aterrissagem para permitir URLs difere
    >
    >Para a Página padrão, você pode selecionar uma página de aterrissagem ou um URL externo, como seu site público.
 
-   ![](assets/image2014-9-16-15-3a20-3a36.png)
+   ![](assets/add-additional-landing-page-cnames-7.png)
 
 1. Insira seu **Página Padrão** e clique em **Criar**.
 
-   ![](assets/image2014-9-16-15-3a20-3a43.png)
+   ![](assets/add-additional-landing-page-cnames-8.png)
 
 Legal! Agora você sabe o que fazer se quiser adicionar um CNAME.
