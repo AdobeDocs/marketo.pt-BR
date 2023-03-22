@@ -2,9 +2,9 @@
 description: Visão geral do Adobe Identity Management - Documentos do Marketo - Documentação do produto
 title: Visão geral do Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
+source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -122,6 +122,10 @@ Nº O fluxo de trabalho de Convite de usuário não está mais ativo quando uma 
 **Para o Adobe IMS, temos a opção de usar o Adobe ID, o Enterprise ID ou o Federated ID?**
 
 Sim, você determina o tipo de identidade para ter o suporte da organização. Mais informações podem ser encontradas aqui: [Visão geral da identidade](https://helpx.adobe.com/enterprise/using/identity.html) e aqui: [Configurar identidade](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+**Quais cartões de produto são compatíveis com a Adobe Admin Console?**
+
+Os cartões de produto compatíveis são: Ações Marketo Engage, Marketo Measure, Dynamic Chat para Marketo, Marketo Sales Connect e Marketo Sales Insight.
 
 >[!MORELIKETHIS]
 >
