@@ -2,7 +2,7 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 9%
@@ -27,7 +27,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
 
 * **Aprimorado Usado pelo Componente para Detalhes do modelo de página de aterrissagem e Detalhes do formulário**: A nova guia Usada pela interface do usuário fornece informações adicionais em Detalhes do modelo da página de aterrissagem e Detalhes do formulário, incluindo mais detalhes sobre os ativos que usaram um ativo selecionado. Execute análises em listas longas de ativos por meio dos recursos de pesquisa, classificação e filtragem.
 
-   <table> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -67,7 +67,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tbody>
 </table>
 
-### Melhorias da API {#api-enhancements}
+### Atualizações de integração {#integration-updates}
 
 </br>
 
