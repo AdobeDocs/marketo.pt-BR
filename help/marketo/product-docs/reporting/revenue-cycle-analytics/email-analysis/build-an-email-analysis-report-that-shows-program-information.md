@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Criar um relatório de análise de email que mostre informações do programa - Documentos da Marketo - Documentação do produto
 title: Criar um relatório de análise de email que mostre informações do programa
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '151'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Siga estas etapas para criar um Relatório de análise de email que mostrará in
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
+>Nem todos compraram esse recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter detalhes.
 
 1. Launch **Explorador de receita**.
 

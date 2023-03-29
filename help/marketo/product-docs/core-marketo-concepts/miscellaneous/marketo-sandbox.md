@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Sandbox da Marketo - Documentos do Marketo - Documentação do produto
 title: Sandbox da Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: c2dc3c337cb5ea1446a2ebd6233f570025d1d986
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Uma sandbox Marketo é uma instância adicional usada para fins de teste antes d
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram esse recurso. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
+>Nem todos compraram esse recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter detalhes.
 
 Uma sandbox do Marketo não pode ser sincronizada com seu CRM comum se já estiver sincronizada com sua instância de produção. Use a sandbox do seu CRM para a sincronização e siga todas as mesmas etapas da sincronização original.
 
 ## O que você deve saber sobre sandboxes {#things-to-know-about-sandboxes}
 
-* Depois que o Gerente de sucesso do cliente tiver sua sandbox configurada e enviar o convite a você, você deverá usar um endereço de email diferente para fazer logon da instância de produção do Marketo.
+* Depois que a Equipe da conta do Adobe tiver sua sandbox configurada e enviar o convite, você deverá usar um endereço de email diferente para fazer logon que a instância de produção do Marketo.
 * Se quiser adicionar usuários, o processo será o mesmo que [adicionar usuários em produção](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Novamente, eles devem usar um endereço de email diferente se já tiverem um logon do Marketo.
 * Sua sandbox do Marketo começará vazia, mas terá os mesmos recursos disponíveis que a instância de produção.
 * Se você criar um programa em sua sandbox e deseja movê-lo para a produção, é possível executar um [importação de programas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
@@ -30,7 +30,7 @@ Uma sandbox do Marketo não pode ser sincronizada com seu CRM comum se já estiv
 
 >[!CAUTION]
 >
->No momento, não oferecemos suporte à atualização da caixa de proteção para a Sincronização do Marketo Dynamics. Se você precisar atualizar a caixa de proteção do Dynamics CRM, será necessária uma nova caixa de proteção do Marketo. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
+>No momento, não oferecemos suporte à atualização da caixa de proteção para a Sincronização do Marketo Dynamics. Se você precisar atualizar a caixa de proteção do Dynamics CRM, será necessária uma nova caixa de proteção do Marketo. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 ## Cópia da instância {#instance-copy}
 

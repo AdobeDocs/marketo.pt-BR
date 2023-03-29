@@ -3,10 +3,10 @@ unique-page-id: 13795395
 description: Notas de versão - inverno de 18 - Documentos da Marketo - Documentação do produto
 title: Notas de versão - inverno de 18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 8%
+source-wordcount: '598'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,7 @@ Clique nos links de título para exibir os artigos detalhados de cada recurso. *
 
 A Marketo está aproveitando nossa grande arquitetura de dados para aumentar a taxa de transferência da campanha do acionador e melhorar o processamento da atividade da Web, para que você possa reagir mais rapidamente às ações do seu público-alvo.
 
-## Aprimoramentos na integração do Salesforce CRM da Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Melhorias na integração do Marketo ao CRM do Salesforce {#enhancements-to-marketo-s-salesforce-crm-integration}
 
 Temos duas melhorias na nossa Integração do Salesforce CRM:
 
@@ -34,7 +34,7 @@ Estas melhorias serão lançadas em 2018.
 
 >[!AVAILABILITY]
 >
->O Performance Insights é um produto complementar. Entre em contato com o Gerente de sucesso do cliente da Marketo ou o Executivo de conta para obter uma cotação.
+>O Performance Insights é um produto complementar. Entre em contato com seu Gerente de conta ou Executivo de conta da Marketo para obter uma cotação.
 
 Explore como suas campanhas e canais estão afetando os resultados comerciais com análises de atribuição, visualizações interativas e uma tabela de dados detalhada.
 

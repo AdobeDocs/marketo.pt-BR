@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: Insight de vendas para integrações não nativas do Salesforce - Documentos da Marketo - Documentação do produto
 title: Insight de vendas para integrações não nativas do Salesforce
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1400'
+source-wordcount: '1377'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,10 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao Salesforce por meio de
 
 >[!PREREQUISITES]
 >
->* O recurso &quot;MSI não nativo&quot; ativado para sua instância do Marketo antes de iniciar a configuração do MSI (se ele não for e você já tiver comprado o recurso), entre em contato com [Suporte Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} - se ainda não tiver comprado esse recurso, entre em contato com o Gerente de sucesso do cliente).
->* Uma conta do Salesforce com [Configuração do pacote MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}.
->* API REST do Marketo [configuração com êxito](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}. As APIs CRUD expostas serão a base para executar a sincronização não nativa.
->* Ler [esta postagem de blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target=&quot;_blank&quot;} para obter uma compreensão do objeto e dos relacionamentos.
+>* O recurso &quot;MSI não nativo&quot; ativado para sua instância do Marketo antes de começar a configurar o MSI. Se não for e você já comprou o recurso, entre em contato com [Suporte Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Se você ainda não adquiriu esse recurso, entre em contato com a Equipe da conta do Adobe (seu Gerente de conta).
+>* Uma conta do Salesforce com [Configuração do pacote MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+>* API REST do Marketo [configuração com êxito](https://developers.marketo.com/rest-api/){target="_blank"}. As APIs CRUD expostas serão a base para executar a sincronização não nativa.
+>* Ler [esta postagem de blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} para compreender o objeto e os relacionamentos.
 >* Configure objetos Salesforce para exibir o identificador global exclusivo com 18 caracteres, que não diferencia maiúsculas de minúsculas, em vez do identificador global exclusivo com 15 caracteres.
 
 
@@ -53,8 +53,8 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao Salesforce por meio de
     </tbody> 
    </table>
 
-   * Documentação da API da pessoa de vendas: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target=&quot;_blank&quot;}
-   * Documentação da API para sincronização da pessoa de vendas: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Pessoas/syncSalesPeopleUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Pessoas/syncSalesPeopleUsingPOST){target=&quot;_blank&quot;}
+   * Documentação da API da pessoa de vendas: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target="_blank"}
+   * Documentação da API para sincronização da pessoa de vendas: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Pessoas/syncSalesPeopleUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Pessoas/syncSalesPeopleUsingPOST){target="_blank"}
 
 1. Sincronizar as contas do Salesforce com o Marketo.
 
@@ -85,8 +85,8 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao Salesforce por meio de
     </tbody> 
    </table>
 
-   * Documentação da API para empresas: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target=&quot;_blank&quot;}
-   * Documentação da API para sincronização de empresas: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Empresas/syncEmpresasUsandoPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Empresas/syncEmpresasUsandoPOST){target=&quot;_blank&quot;}
+   * Documentação da API para empresas: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target="_blank"}
+   * Documentação da API para sincronização de empresas: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Empresas/syncEmpresasUsandoPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Empresas/syncEmpresasUsandoPOST){target="_blank"}
 
 1. Sincronize os leads/contatos do Salesforce com o Marketo.
 
@@ -159,8 +159,8 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao Salesforce por meio de
     </tbody> 
    </table>
 
-   * Documentação da API para Oportunidade: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target=&quot;_blank&quot;}
-   * Documentação da API para sincronização de Oportunidades: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Oportunidades/SyncOportunidadesUsandoPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Oportunidades/SyncOportunidadesUsandoPOST){target=&quot;_blank&quot;}
+   * Documentação da API para Oportunidade: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
+   * Documentação da API para sincronização de Oportunidades: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Oportunidades/SyncOportunidadesUsandoPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Oportunidades/SyncOportunidadesUsandoPOST){target="_blank"}
 
 1. Sincronizar funções de contato do Salesforce com o Marketo.
 
@@ -196,8 +196,8 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao Salesforce por meio de
     </tbody> 
    </table>
 
-   * Documentação da API para Oportunidade: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target=&quot;_blank&quot;}
-   * Documentação da API para sincronização de Oportunidades: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Oportunidades/SyncOportunidadesUsandoPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Oportunidades/SyncOportunidadesUsandoPOST){target=&quot;_blank&quot;}
+   * Documentação da API para Oportunidade: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
+   * Documentação da API para sincronização de Oportunidades: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Oportunidades/SyncOportunidadesUsandoPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Oportunidades/SyncOportunidadesUsandoPOST){target="_blank"}
 
 1. Sincronize os campos Último momento Interessante/Pontuação MSI para SFDC.
 
@@ -260,6 +260,6 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao Salesforce por meio de
     </tbody> 
    </table>
 
-   Documentação da API REST de cliente potencial: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target=&quot;_blank&quot;}.
+   Documentação da API REST de cliente potencial: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
 
-   O uso adequado dos campos externos é fundamental para uma sincronização não nativa bem-sucedida. Se você não conseguir ver os dados em algumas exibições, é provável que um determinado campo não tenha sido sincronizado corretamente. Por exemplo, se as atividades de um cliente potencial e os momentos interessantes não forem exibidos ao procurar no widget MSI em sua conta, é provável que a empresa do cliente potencial ou a conta não tenham sido sincronizadas corretamente. Executar uma solicitação GET para esse lead ao especificar os campos externos ajudará a verificar se o lead foi sincronizado corretamente. Além disso, o email da pessoa de vendas externa no Marketo deve corresponder ao email desse usuário no Salesforce. Os dados podem não ser exibidos na guia Marketo no Salesforce se os emails não corresponderem.
+   O uso adequado dos campos externos é fundamental para uma sincronização não nativa bem-sucedida. Se você não conseguir ver os dados em algumas exibições, é provável que um determinado campo não tenha sido sincronizado corretamente. Por exemplo, se as atividades de um cliente potencial e os momentos interessantes não forem exibidos ao procurar no widget MSI em sua Conta, é provável que a empresa do cliente potencial ou a Conta não tenham sido sincronizadas corretamente. Executar uma solicitação GET para esse lead ao especificar os campos externos ajudará a verificar se o lead foi sincronizado corretamente. Além disso, o email da pessoa de vendas externa no Marketo deve corresponder ao email desse usuário no Salesforce. Os dados podem não ser exibidos na guia Marketo no Salesforce se os emails não corresponderem.

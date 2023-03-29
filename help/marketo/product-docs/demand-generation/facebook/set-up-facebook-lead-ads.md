@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: Configurar anúncios de lead da Facebook - Documentos da Marketo - Documentação do produto
 title: Configurar anúncios de lead da Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Use [Anúncios de lead da facebook](https://www.facebook.com/business/a/lead-ads
 
 >[!AVAILABILITY]
 >
->Para adicionar os Anúncios de lead da Facebook à sua instância, entre em contato com o Gerente de sucesso do cliente.
+>Para obter os Anúncios de lead da Facebook adicionados à sua instância, entre em contato com a Equipe da conta do Adobe (seu Gerente de conta).
 
 1. Ir para o Marketo **Administrador**.
 

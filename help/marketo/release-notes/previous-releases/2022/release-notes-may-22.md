@@ -2,9 +2,9 @@
 description: Notas de versão - maio de 2022 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - maio de 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '826'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Os seguintes recursos começarão a ser lançados em **6 de maio de 2022**, com 
 
 ## Integração de CRM nativo {#native-crm-integration}
 
-**[Integração de CRM de Veeva Nativa](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;} (disponibilidade limitada)**: Melhore o envolvimento com os profissionais de saúde sincronizando a atividade entre o Veeva CRM e o Marketo Engage por meio da integração nativa. Essa integração permite que os profissionais de marketing criem experiências mais personalizadas e contínuas entre canais para os profissionais de saúde. Entre em contato com o Gerente de sucesso do cliente se estiver interessado em participar.
+**[Integração de CRM de Veeva Nativa](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (disponibilidade limitada)**: Melhore o envolvimento com os profissionais de saúde sincronizando a atividade entre o Veeva CRM e o Marketo Engage por meio da integração nativa. Essa integração permite que os profissionais de marketing criem experiências mais personalizadas e contínuas entre canais para os profissionais de saúde. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) se estiver interessado em participar.
 
 ## Orquestração entre canais {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ Os seguintes recursos começarão a ser lançados em **6 de maio de 2022**, com 
 
 **Excluir URLs para bate-papo dinâmico**: Controlar em quais de suas páginas da Web o Dynamic Chat é exibido com a capacidade de excluir URLs específicos dos critérios de direcionamento.
 
-**[Aprimoramentos na filtragem de atividade de bot de email](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: Continue a proteger a integridade de seu banco de dados com a capacidade de identificar o comportamento de bot com base em links ocultos, agentes do usuário ou IPs e padrões de proximidade, além da identificação de correspondência da lista IAB existente. Visualize estatísticas de atividades de bot que permitem compreender o número de atividades de bot identificadas para cada tipo.
+**[Aprimoramentos na filtragem de atividade de bot de email](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: Continue a proteger a integridade de seu banco de dados com a capacidade de identificar o comportamento de bot com base em links ocultos, agentes do usuário ou IPs e padrões de proximidade, além da identificação de correspondência da lista IAB existente. Visualize estatísticas de atividades de bot que permitem compreender o número de atividades de bot identificadas para cada tipo.
 
-**[Cabeçalho STS para links de rastreamento de email](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Atender às práticas recomendadas de segurança com a capacidade de aplicar cabeçalhos de Segurança de Transporte Seguro para garantir que o tráfego para links rastreados seja sempre seguro.
+**[Cabeçalho STS para links de rastreamento de email](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: Atender às práticas recomendadas de segurança com a capacidade de aplicar cabeçalhos de Segurança de Transporte Seguro para garantir que o tráfego para links rastreados seja sempre seguro.
 
 ## Experiência da próxima geração {#modern-ux}
 
@@ -63,10 +63,10 @@ Estamos fornecendo a Exibição de detalhes do modelo de email no Design Studio 
 
 **Verificação de email e exclusividade**: A partir de abril, a implementação da Verificação de email será iniciada. Nesse momento, os endereços de email de usuário do Marketo Engage exigirão verificação e exclusividade (isso não se aplica aos usuários somente de API). Os usuários autenticados do serviço de diretório terão seus emails verificados automaticamente quando sua assinatura for habilitada com a Verificação de email.
 
-Verificação de email para assinaturas usando o recurso &quot;Logon na caixa de diálogo de usuário do convite&quot; ou que tenham um único email associado a vários usuários coincidirá com a versão de maio. As assinaturas com um único email associado a vários usuários serão ativadas com a Verificação de email e exigirão que esses usuários resolvam o conflito e usem um email exclusivo por usuário. Quando o recurso &quot;Logon na caixa de diálogo de usuário do convite&quot; estiver ativado, os usuários convidados por meio desse recurso precisarão ter um endereço de email exclusivo. Para usuários somente de API convidados por meio desse recurso, o endereço de email não precisa ser exclusivo.
+Verificação de email para assinaturas usando o recurso &quot;Logon na caixa de diálogo de usuário do convite&quot; ou que tenham um único email associado a vários usuários coincidirá com a versão de maio. As assinaturas com um único email associado a vários usuários serão ativadas com a Verificação de email e exigirão que esses usuários resolvam o conflito e usem um email exclusivo por usuário. Quando o recurso &quot;Fazer logon na caixa de diálogo do usuário de convite&quot; estiver ativado, os usuários convidados por meio desse recurso precisarão ter um endereço de email exclusivo. Para usuários somente de API convidados por meio desse recurso, o endereço de email não precisa ser exclusivo.
 
-**Alteração no comportamento da pasta de arquivamento**: Com esta versão, a capacidade de criar novos ativos nas pastas de Arquivo não estará mais disponível nos menus de contexto de árvore. As opções de menu para criar novos ativos estarão ocultas para todos os ativos. [Saiba mais aqui](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
+**Alteração no comportamento da pasta de arquivamento**: Com esta versão, a capacidade de criar novos ativos nas pastas de Arquivo não estará mais disponível nos menus de contexto de árvore. As opções de menu para criar novos ativos estarão ocultas para todos os ativos. [Saiba mais aqui](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 
 **_Webinar da versão do produto_**
 
-[Webinar de lançamento do Marketo Engage de março e maio de 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+[Webinar de lançamento do Marketo Engage de março e maio de 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

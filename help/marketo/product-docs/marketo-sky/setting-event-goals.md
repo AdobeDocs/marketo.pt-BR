@@ -4,9 +4,9 @@ title: Definir metas de evento
 hide: true
 hidefromtoc: true
 exl-id: bc581336-e78b-4e0e-bdff-b62e1bd99fba
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 0%
 Atribua objetivos específicos aos seus eventos e veja como eles funcionam.
 
 >[!IMPORTANT]
->Nem todos os clientes compraram esse recurso. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
+>
+>Nem todos compraram esse recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter detalhes.
 
 1. Crie um programa de evento.
 

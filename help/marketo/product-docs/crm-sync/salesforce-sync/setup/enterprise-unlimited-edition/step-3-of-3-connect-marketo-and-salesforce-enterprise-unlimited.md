@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: Etapa 3 de 3 - Conectar o Marketo e o Salesforce (Enterprise/Unlimited) - Documentos do Marketo - Documentação do produto
 title: Etapa 3 de 3 - Conectar Marketo e Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância con
 
    >[!CAUTION]
    >
-   >Se você vir um botão &quot;Fazer logon no Salesforce&quot; em vez dos campos Nome de usuário/Senha/Token, sua assinatura do Marketo será ativada para OAuth. Por favor [consulte este artigo](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Assim que a sincronização começar a usar um conjunto de credenciais, **não há alternância de credenciais ou assinaturas do Salesforce**. Se quiser usar a Autenticação básica, entre em contato com o Gerente de sucesso do cliente.
+   >Se você vir um botão &quot;Fazer logon no Salesforce&quot; em vez dos campos Nome de usuário/Senha/Token, sua assinatura do Marketo será ativada para OAuth. Por favor [consulte este artigo](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Assim que a sincronização começar a usar um conjunto de credenciais, **não há alternância de credenciais ou assinaturas do Salesforce**. Se quiser usar a Autenticação Básica, entre em contato com a Equipe da Conta do Adobe (seu Gerente de Conta).
 
 1. Leia o aviso e clique em **Confirmar Credenciais**.
 

@@ -4,9 +4,9 @@ title: Introdução aos públicos preditivos
 hide: true
 hidefromtoc: true
 exl-id: d39afacc-30e0-4b7c-9b78-18fa95505553
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -26,10 +26,10 @@ O desempenho dos modelos de AI/ML depende dos dados na sua assinatura. Quanto ma
 
 ## Disponibilidade {#availability}
 
-O Predictive Audiences é incluído e ativado automaticamente para instâncias que utilizam pacotes de preços Prime ou Ultimate. Para saber mais sobre como obter acesso a esse recurso, entre em contato com o Gerente de sucesso do cliente.
+O Predictive Audiences é incluído e ativado automaticamente para instâncias que utilizam pacotes de preços Prime ou Ultimate. Para saber mais sobre como obter acesso a esse recurso, entre em contato com a equipe de conta do Adobe (seu gerente de conta).
 
 1. Depois que o recurso tiver sido adicionado à sua instância, navegue até o **[!UICONTROL Públicos-alvo preditivos]** na página **[!UICONTROL Administrador]** área de [!DNL Marketo Classic].
 
-1. Verificar **[!UICONTROL Ativar públicos-alvo preditivos]** para ativar o recurso. Observe que pode levar até 24 horas para que todos os processos concluam a configuração.
+1. Verificar **[!UICONTROL Ativar públicos-alvo preditivos]** para ativar o recurso. Observe que pode levar até 24 horas para que todos os processos concluam a configuração.
 
    ![Imagem Um](assets/getting-started-with-predictive-audiences-1.png)

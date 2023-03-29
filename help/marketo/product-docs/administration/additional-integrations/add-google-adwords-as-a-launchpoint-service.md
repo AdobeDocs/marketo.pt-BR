@@ -3,22 +3,22 @@ unique-page-id: 6095008
 description: Adicionar o Google AdWords as a LaunchPoint Service - Documentos da Marketo - Documentação do produto
 title: Adicionar o Google AdWords como um serviço do LaunchPoint
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '318'
 ht-degree: 2%
 
 ---
 
 # Adicionar o Google AdWords como um serviço do LaunchPoint {#add-google-adwords-as-a-launchpoint-service}
 
-Vincule sua conta do Google AdWords ao Marketo para fazer upload automático dos dados de conversão offline do Marketo para o Google AdWords. Em seguida, na interface do usuário do AdWords, você poderá ver facilmente quais cliques resultaram em leads qualificados, oportunidades e novos clientes (ou em quaisquer estágios de receita que deseja rastrear) após [adicionar colunas personalizadas](https://support.google.com/adwords/answer/3073556){target=&quot;_blank&quot;} no AdWords. Essas informações não são exibidas na interface do usuário do Marketo.
+Vincule sua conta do Google AdWords ao Marketo para fazer upload automático dos dados de conversão offline do Marketo para o Google AdWords. Em seguida, na interface do usuário do AdWords, você poderá ver facilmente quais cliques resultaram em leads qualificados, oportunidades e novos clientes (ou em quaisquer estágios de receita que deseja rastrear) após [adicionar colunas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} no AdWords. Essas informações não são exibidas na interface do usuário do Marketo.
 
-Saiba mais sobre [Recurso de importação de conversão offline da Google](https://support.google.com/adwords/answer/2998031?hl=en){target=&quot;_blank&quot;}.
+Saiba mais sobre [Recurso de importação de conversão offline do Google](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram esse recurso. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
+>Nem todos os clientes compraram esse recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter detalhes.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Saiba mais sobre [Recurso de importação de conversão offline da Google](https
 
 >[!NOTE]
 >
->Também é possível integrar uma [Google AdWords as a Launchpoint service with a manager account](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target=&quot;_blank&quot;}.
+>Também é possível integrar uma [Google AdWords as a Launchpoint service with a manager account](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
 1. Vá para o **Administrador** seção.
 
@@ -87,10 +87,10 @@ Saiba mais sobre [Recurso de importação de conversão offline da Google](https
 
    >[!NOTE]
    >
-   >[Marcação automática](https://support.google.com/adwords/answer/1752125?hl=en){target=&quot;_blank&quot;} deve ser selecionado para que esse recurso funcione. A desativação deve ser feita no AdWords.
+   >[Marcação automática](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} deve ser selecionado para que este recurso funcione. A desativação deve ser feita no AdWords.
 
 Ótimo! Agora consulte o artigo relacionado abaixo para saber como mapear conversões offline do AdWords em seu modelo de receita.
 
 >[!MORELIKETHIS]
 >
->[Definir conversões do Google AdWords no modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target=&quot;_blank&quot;}
+>[Definir conversões do Google AdWords no modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

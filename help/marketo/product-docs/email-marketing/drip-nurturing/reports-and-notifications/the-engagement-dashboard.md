@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: O Painel de engajamento - Documentos do Marketo - Documentação do produto
 title: O painel Envolvimento
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Mostra a pontuação de engajamento média ao longo do tempo e o impacto das edi
 
 >[!AVAILABILITY]
 >
->Esse recurso está disponível como um complemento para clientes que utilizam o Marketo Revenue Cycle Explorer. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
+>Esse recurso está disponível como um complemento para clientes que utilizam o Marketo Revenue Cycle Explorer. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

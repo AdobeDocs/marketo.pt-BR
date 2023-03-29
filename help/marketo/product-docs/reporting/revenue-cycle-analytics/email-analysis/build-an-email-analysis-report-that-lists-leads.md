@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: Criar um relatório de análise de email que lista clientes potenciais - Documentos do Marketo - Documentação do produto
 title: Criar um relatório de análise de email que lista clientes potenciais
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Siga estas etapas para criar um relatório de Análise de email que mostrará to
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
+>Nem todos compraram esse recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter detalhes.
 
 >[!NOTE]
 >

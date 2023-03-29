@@ -2,9 +2,9 @@
 description: Faça logon usando o OAuth 2.0 - Documentos do Marketo - Documentação do produto
 title: Fazer logon usando o OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-source-git-commit: c15753e0f2af199af8fd7e8bfe0924a915a39814
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,7 @@ O Salesforce usa o protocolo OAuth para permitir que os usuários de aplicativos
 
    >[!CAUTION]
    >
-   >Se você estiver vendo campos Nome de usuário/Senha/Token e não um botão &quot;Logon com Salesforce&quot;, sua assinatura do Marketo será ativada para Autenticação básica. Consulte [Configurar o Marketo com autenticação básica](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Depois que a sincronização começar a usar um conjunto de credenciais, não haverá alternância de credenciais ou assinaturas do Salesforce. Se quiser usar o Oauth 2.0, entre em contato com o Gerente de sucesso do cliente.
+   >Se você estiver vendo campos Nome de usuário/Senha/Token e não um botão &quot;Logon com Salesforce&quot;, sua assinatura do Marketo será ativada para Autenticação básica. Consulte [Configurar o Marketo com autenticação básica](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Depois que a sincronização começar a usar um conjunto de credenciais, não haverá alternância de credenciais ou assinaturas do Salesforce. Se quiser usar o Oauth 2.0, entre em contato com a Equipe de conta do Adobe (seu Gerente de conta).
 
 1. Um pop-up com a página de logon do salesforce será exibido. Chave em suas credenciais de &quot;Usuário do Marketo Sync&quot; e faça logon.
 

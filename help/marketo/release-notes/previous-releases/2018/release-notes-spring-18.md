@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Notas de versão - Primeiro trimestre de 2018 - Documentos da Marketo - Documentação do produto
 title: Notas de versão - Primavera de 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 9%
 
 ---
@@ -24,7 +24,7 @@ Clique nos links de título para exibir os artigos detalhados de cada recurso. O
 
 >[!AVAILABILITY]
 >
->O Sales Engage é um produto complementar. Entre em contato com o Gerente de sucesso do cliente da Marketo ou o Executivo de conta para obter uma cotação.
+>O Sales Engage é um produto complementar. Entre em contato com seu Gerente de conta ou Executivo de conta da Marketo para obter uma cotação.
 
 Impulsione mais pipeline e receita capacitando vendas com inteligência, conteúdo, playbooks e análises para converter mais de seus leads em oportunidades de vendas. O Sales Engage fornece às vendas e ao marketing uma plataforma unificada para envolvimento na jornada do cliente e permite uma melhor coordenação por meio de uma exibição compartilhada dos pontos de contato do cliente.
 

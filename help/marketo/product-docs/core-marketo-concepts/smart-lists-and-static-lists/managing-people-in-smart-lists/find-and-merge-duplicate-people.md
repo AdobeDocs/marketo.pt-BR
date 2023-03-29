@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Encontrar e mesclar pessoas duplicadas - Documentos do Marketo - Documentação do produto
 title: Localizar e mesclar pessoas duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,6 @@ Para obter detalhes específicos do comportamento do Salesforce ao mesclar leads
 
 ## Mesclagem em massa {#bulk-merging}
 
-Se você tiver muitas duplicatas para mesclar manualmente, entre em contato com o Gerente de sucesso do cliente para discutir suas opções.
+Se você tiver muitas duplicatas para mesclar manualmente, entre em contato com a Equipe da conta do Adobe (seu Gerente de conta) para discutir suas opções.
 
-Super! Se você estiver conectado a um CRM, os registros serão mesclados lá de acordo com as regras abaixo.
+Se você estiver conectado a um CRM, os registros serão mesclados lá de acordo com as regras abaixo.

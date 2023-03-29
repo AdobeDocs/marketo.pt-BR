@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Importação de ativos com o Adobe Experience Manager - Documentos do Marketo - Documentação do produto
 title: Importação de ativos com o Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e imp
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram esse recurso. Entre em contato com o Gerente de sucesso do cliente para obter detalhes.
+>Nem todos compraram esse recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter detalhes.
 
 >[!PREREQUISITES]
 >

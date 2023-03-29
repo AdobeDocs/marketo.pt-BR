@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Noções básicas sobre a sincronização dinâmica do Microsoft - Documentos do Marketo - Documentação do produto
 title: Noções básicas sobre a sincronização do Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ O Marketo e o Microsoft Dynamics estão juntos. Mantemos seus dados de vendas e 
 
 >[!CAUTION]
 >
->No momento, não oferecemos suporte à atualização da caixa de proteção para a Sincronização do Marketo Dynamics. Se você precisar atualizar a caixa de proteção do Dynamics CRM, será necessária uma nova caixa de proteção do Marketo. Entre em contato com o Gerente de sucesso do cliente para obter mais detalhes.
+>No momento, não oferecemos suporte à atualização da caixa de proteção para a Sincronização do Marketo Dynamics. Se você precisar atualizar a caixa de proteção do Dynamics CRM, será necessária uma nova caixa de proteção do Marketo. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 ## Como a sincronização funciona {#how-sync-works}
 
