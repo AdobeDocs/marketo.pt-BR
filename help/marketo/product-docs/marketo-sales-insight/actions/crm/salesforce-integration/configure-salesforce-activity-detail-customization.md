@@ -1,10 +1,8 @@
 ---
 description: Configurar a personalização de detalhes da atividade do Salesforce - Documentos do Marketo - Documentação do produto
 title: Configurar Personalização De Detalhes Da Atividade Do Salesforce
-hide: true
-hidefromtoc: true
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
-source-git-commit: 43878490538ad5485c9e6d7aa0c7f8f1b443ad8c
+source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 1%
