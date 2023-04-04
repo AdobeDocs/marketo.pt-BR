@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Editar um espaço de trabalho - Documentos do Marketo - Documentação do produto
 title: Editar um espaço de trabalho
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,17 @@ ht-degree: 0%
 >
 >Pincel para cima em espaços de trabalho com [Como entender espaços de trabalho e partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Em **Administrador**, clique em **Espaços de trabalho e partições**.
+1. Vá para o **Administrador** área.
 
-   ![](assets/image2014-9-17-11-3a59-3a11-1.png)
+   ![](assets/edit-a-workspace-1.png)
+
+1. Clique em **Espaços de trabalho e partições**.
+
+   ![](assets/edit-a-workspace-2.png)
 
 1. Selecione o espaço de trabalho que deseja editar e clique em **Editar espaço de trabalho**.
 
-   ![](assets/two-7.png)
+   ![](assets/edit-a-workspace-3.png)
 
 1. Você pode selecionar uma partição de lead diferente e escolher uma partição de pessoa primária diferente no menu suspenso.
 
@@ -36,7 +40,7 @@ ht-degree: 0%
    >
    >Você pode [criar mais partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) se precisar deles.
 
-   ![](assets/three-7.png)
+   ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
@@ -48,7 +52,7 @@ ht-degree: 0%
 
    Se você ativou vários domínios de marca, é possível alterar para um domínio de marca primária diferente. Clique em **Salvar**.
 
-   ![](assets/four-6.png)
+   ![](assets/edit-a-workspace-5.png)
 
    >[!NOTE]
    >

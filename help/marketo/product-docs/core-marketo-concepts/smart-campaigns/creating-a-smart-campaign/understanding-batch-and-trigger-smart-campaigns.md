@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Noções básicas sobre campanhas inteligentes em lote e acionadoras - Documentos do Marketo - Documentação do produto
 title: Como entender campanhas inteligentes em lote e acionar
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Há dois tipos de campanhas inteligentes: Lote e Acionador.
 
 As campanhas inteligentes em lote terão apenas filtros na seção da lista inteligente (ou seja, sem acionadores).
 
-![](assets/batch-filter.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
 Clicar no **Agendar** A guia confirmará que a campanha inteligente está definida como &quot;Lote&quot;.
 
-![](assets/batch-c4.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Campanhas inteligentes em lote**
 
@@ -47,11 +47,11 @@ Clicar no **Agendar** A guia confirmará que a campanha inteligente está defini
 
 Se uma campanha inteligente usar pelo menos um acionador na seção da lista inteligente, o modo será automaticamente definido como acionado.
 
-![](assets/trigger.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
 Clicar no **Agendar** A guia confirmará que a campanha inteligente está definida como &quot;Acionada&quot;.
 
-![](assets/trigger2.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Acionar campanhas inteligentes**
 

@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360311
-description: Criar um novo espaço de trabalho — Documentação do Marketo — Documentação do produto
+description: Criar um novo espaço de trabalho - Documentos do Marketo - Documentação do produto
 title: Criar um novo espaço de trabalho
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 # Criar um novo espaço de trabalho {#create-a-new-workspace}
 
-Os espaços de trabalho são úteis para subdividir a empresa. Os motivos para configurar espaços de trabalho incluem:
+Espaços de trabalho são úteis para dividir sua empresa. Os motivos para configurar espaços de trabalho incluem:
 
-* Geografia: Operações de marketing da Europa versus Operações de marketing da América do Norte
-* Unidade de negócios A vs. Unidade de negócios B
+* Geografia: Operações de marketing na Europa vs. operações de marketing na América do Norte
+* Unidade de Negócios A vs. Unidade de Negócios B
 
 Veja como criar um novo espaço de trabalho.
 
@@ -25,13 +25,13 @@ Veja como criar um novo espaço de trabalho.
 
 >[!NOTE]
 >
->Entenda primeiro com [Noções Básicas sobre Espaços de Trabalho e Partições de Pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Compreender primeiro com [Como entender espaços de trabalho e partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 >[!TIP]
 >
 >Para saber mais sobre as práticas recomendadas do Workspace, entre em contato com [Serviços profissionais da Marketo](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-1. Vá para a **Admin** área.
+1. Vá para o **Administrador** área.
 
    ![](assets/create-a-new-workspace-1.png)
 
@@ -43,20 +43,20 @@ Veja como criar um novo espaço de trabalho.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Insira um **Nome** e selecione a variável **Partições de pessoas** que você deseja usar. Escolha um **Partição de pessoa principal**. Verifique se [criar partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} se você ainda não tiver feito.
+1. Insira um **Nome** e selecione o **Partição(ões) de Pessoa** você deseja usar. Escolha um **Partição de Pessoa Primária**. Certifique-se de [criar partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} se você ainda não tiver.
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* A variável **Todas as partições de pessoas** caixa de seleção significa que este espaço de trabalho pode usar todas as partições de pessoas no sistema.
+   >* O **Todas as Partições de Pessoa** caixa de seleção significa que esse espaço de trabalho pode usar todas as partições de pessoa no sistema.
    >
-   >* A variável **partição de pessoa primária** O atua como padrão e é onde todas as pessoas serão atribuídas.
+   >* O **partição de pessoa principal** O atua como padrão e é onde todas as pessoas serão atribuídas.
 
 
    >[!IMPORTANT]
    >
-   >Se você ativou vários domínios com marca, deverá escolher um domínio com marca principal.
+   >Se você ativou vários domínios de marca, é necessário escolher um domínio de marca primária.
 
 1. Selecione o idioma do espaço de trabalho.
 
@@ -64,14 +64,14 @@ Veja como criar um novo espaço de trabalho.
 
    >[!NOTE]
    >
-   >Após a criação, a Marketo implantará ativos de amostra no espaço de trabalho. O idioma permite que esses objetos pré-implantados estejam em um idioma que não seja em inglês.
+   >Após a criação, a Marketo lançará ativos de amostra no espaço de trabalho. A linguagem permite que esses objetos pré-implantados estejam em um idioma diferente do inglês.
 
 1. Clique em **Criar**.
 
    ![](assets/create-a-new-workspace-6.png)
 
-Crie quantos espaços de trabalho forem necessários e atribua a(s) partição(ões) de pessoa apropriada(s) a eles.
+Crie quantos espaços de trabalho forem necessários e atribua as partições de pessoa apropriadas a elas.
 
-Depois de criar o espaço de trabalho, você deve ver a atualização.
+Depois de criar seu espaço de trabalho, você deve ver a atualização.
 
-![](assets/image2014-9-17-15-3a39-3a10.png)
+![](assets/create-a-new-workspace-7.png)
