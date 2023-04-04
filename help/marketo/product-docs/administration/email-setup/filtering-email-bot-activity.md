@@ -2,10 +2,10 @@
 description: Filtrar atividade de bot de email - Documentos do Marketo - Documentação do produto
 title: Filtrar atividade de bot de email
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: f5a4fa76510cc70fe5b4746d58c6e0d4daf93a72
+source-git-commit: 792db38ec0891d4a6de5a8d0bd746bd7bb429edb
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 0%
+source-wordcount: '416'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Usamos três métodos separados para confirmar a atividade de bot:
 
-* Corresponder a [Lista de bots do Interative Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}: As atividades que correspondem a qualquer coisa na lista IAB UA/IP (Agente do usuário/endereço IP) serão marcadas como bots.
+* Corresponder a [Lista de bots do Interative Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: As atividades que correspondem a qualquer coisa na lista IAB UA/IP (Agente do usuário/endereço IP) serão marcadas como bots.
 * Corresponder ao padrão de proximidade: Quando mais de duas atividades acontecem ao mesmo tempo (em menos de um segundo), elas são identificadas como bots. Os atributos considerados durante a comparação são:
    * ID de lead (deve ser a mesma)
    * Ativo de email (deve ser o mesmo)
@@ -53,3 +53,28 @@ Em relação ao clique em links de email e à atividade de abertura de email, os
 >[!TIP]
 >
 >Aproveite os dados de atividade de bot nas Smart Lists por meio do booleano &quot;Is Bot Activity&quot; (sim/não) e do &quot;Bot Activity Pattern&quot; nos filtros &quot;Clicked Link in Email&quot; e &quot;Open Email&quot; e dos acionadores &quot;Clicks Link in Email&quot; e &quot;Opens Email&quot;.
+
+##  Lista de bloqueios IP {#ip-blocklist}
+
+Compilamos uma lista de endereços IP responsáveis pela geração de milhões de envolvimentos falsos, pois esse engajamento recebido de qualquer um dos IPs a seguir é filtrado automaticamente e não adicionado à Instância do Marketo Engage. Isso pode resultar em uma redução de aberturas de email, cliques e outras atividades relacionadas. A lista abaixo pode ser atualizada periodicamente.
+
+* 209.222.82.126
+* 209.222.82.127
+* 209.222.82.128
+* 209.222.82.129
+* 209.222.82.138
+* 209.222.82.139
+* 209.222.82.140
+* 209.222.82.141
+* 209.222.82.228
+* 209.222.82.229
+* 209.222.82.230
+* 209.222.82.231
+* 209.222.82.232
+* 209.222.82.233
+* 209.222.82.234
+* 209.222.82.235
+
+>[!NOTE]
+>
+>Analisamos e analisamos meticulosamente cada endereço IP antes de adicioná-lo a essa lista, garantindo que apenas os IPs mais críticos e prejudiciais sejam bloqueados.
