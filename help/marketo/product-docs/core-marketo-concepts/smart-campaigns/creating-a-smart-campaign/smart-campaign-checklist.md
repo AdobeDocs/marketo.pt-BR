@@ -3,22 +3,22 @@ unique-page-id: 1147051
 description: Lista de verificação de campanha inteligente - Documentos do Marketo - Documentação do produto
 title: Lista de verificação de campanha inteligente
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Lista de verificação de campanha inteligente {#smart-campaign-checklist}
 
-Siga as etapas abaixo para garantir a execução sem problemas da campanha inteligente e evitar erros o máximo possível.
+Siga as etapas abaixo para garantir a execução sem problemas do Smart Campaign e evitar erros o máximo possível.
 
 ## Obter Rid de Erros de Smart List {#get-rid-of-smart-list-errors}
 
-Em sua campanha inteligente, clique em **Lista inteligente**. Livre-se de qualquer linha vermelha escancarada que você vê corrigindo os erros.
+Em sua Campanha inteligente, clique em **Lista inteligente**. Livre-se de qualquer linha vermelha escancarada que você vê corrigindo os erros.
 
-![](assets/image2014-9-22-16-3a9-3a13.png)
+![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
@@ -32,9 +32,9 @@ Em sua campanha inteligente, clique em **Lista inteligente**. Livre-se de qualqu
 
 ## Obter Rid de Erros de Fluxo {#get-rid-of-flow-errors}
 
-Em sua campanha inteligente, clique em **Fluxo**. Livre-se de qualquer linha vermelha escancarada que você vir corrigindo os erros.
+Em sua Campanha inteligente, clique em **Fluxo**. Livre-se de qualquer linha vermelha escancarada que você vir corrigindo os erros.
 
-![](assets/image2014-9-22-16-3a10-3a49.png)
+![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
@@ -42,24 +42,24 @@ Em sua campanha inteligente, clique em **Fluxo**. Livre-se de qualquer linha ver
 
 ## Revisar a guia Agendamento {#review-the-schedule-tab}
 
-No **Agendar** guia , verifique **Smart** **Lista** **Status** para qualquer erro na campanha inteligente que precise ser corrigido.
+No **Agendar** guia , verifique **Smart** **Lista** **Status** para qualquer erro no Smart Campaign que precise ser corrigido.
 
-![](assets/three.png)
+![](assets/smart-campaign-checklist-3.png)
 
 ## Verificar limite de restrições de pessoa {#check-person-restrictions-limit}
 
 No **Agendar** , verifique se o número de pessoas qualificadas não excede o limite de restrição de pessoa.
 
-![](assets/four.png)
+![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->Se necessário, é possível  [substituir restrições de pessoa em uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>Se necessário, é possível [substituir restrições de pessoa em uma Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**Restante**
 >
->Se sua campanha inteligente ainda falhar, aprenda a [entender as notificações](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) para descobrir o que deu errado e como corrigi-lo.
+>Se sua Campanha inteligente ainda falhar, saiba como [entender as notificações](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) para descobrir o que deu errado e como corrigi-lo.
 
-Muito bem! Mantenha essa lista de verificação acessível antes de executar uma campanha inteligente.
+Muito bem! Mantenha essa lista de verificação acessível antes de executar uma Campanha inteligente.

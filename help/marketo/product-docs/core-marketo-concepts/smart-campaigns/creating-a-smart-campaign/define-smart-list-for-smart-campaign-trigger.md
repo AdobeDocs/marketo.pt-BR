@@ -3,28 +3,28 @@ unique-page-id: 1146942
 description: Definir Smart List para Smart Campaign | Acionador - Documentação da Marketo - Documentação do produto
 title: Definir Smart List para Smart Campaign | Acionador
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Definir Smart List para Smart Campaign | Acionador {#define-smart-list-for-smart-campaign-trigger}
 
-Faça uma campanha inteligente ser executada em uma pessoa de cada vez com base em eventos ao vivo, adicionando acionadores.
+Faça uma Campanha inteligente executar em uma pessoa de cada vez com base em eventos ao vivo, adicionando acionadores.
 
-1. Na campanha inteligente, clique no botão **Lista inteligente** guia .
+1. Em sua Campanha inteligente, clique no botão **Lista inteligente** guia .
 
-   ![](assets/image2014-9-19-16-3a22-3a55.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
-1. Procure o acionador e arraste e solte o acionador na tela.
+1. Procure o acionador desejado e arraste-o e solte-o na tela.
 
-   ![](assets/image2014-9-19-16-3a23-3a24.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-2.png)
 
    >[!NOTE]
    >
-   >Uma campanha inteligente com acionadores é executada em **Acionador** modo. Ele é executado em uma pessoa de cada vez com base nos eventos acionados e em qualquer filtro adicional.
+   >Uma Campanha inteligente com acionadores é executada em **Acionador** modo. Ele é executado em uma pessoa de cada vez com base nos eventos acionados e em qualquer filtro adicional.
 
    >[!IMPORTANT]
    >
@@ -32,7 +32,7 @@ Faça uma campanha inteligente ser executada em uma pessoa de cada vez com base 
 
 1. Clique no menu suspenso e escolha um operador.
 
-   ![](assets/image2014-9-19-16-3a23-3a29.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-3.png)
 
    >[!CAUTION]
    >
@@ -40,11 +40,11 @@ Faça uma campanha inteligente ser executada em uma pessoa de cada vez com base 
 
    >[!TIP]
    >
-   >Em uma campanha inteligente com acionadores e filtros, os acionadores ficam na parte superior e, quando acionados, somente as pessoas que atendem aos critérios de filtragem passam pelo fluxo.
+   >Em uma Campanha inteligente com acionadores e filtros, os acionadores são acionados na parte superior e, quando acionados, somente as pessoas que atendem aos critérios de filtragem passam pelo fluxo.
 
 1. Defina o acionador.
 
-   ![](assets/image2014-9-19-16-3a24-3a36.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-4.png)
 
    >[!NOTE]
    >
