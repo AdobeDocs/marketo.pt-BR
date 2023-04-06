@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: Limpeza automática de campanha do acionador - Documentos do Marketo - Documentação do produto
 title: Limpeza de campanha com gatilho automático
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 3%
 
 ---
@@ -22,17 +22,17 @@ Uma vez por trimestre, o Marketo encontrará campanhas inteligentes que permanec
 
 Claro! Uma vez por trimestre, você receberá uma notificação uma semana antes mostrando cada campanha que planejamos desativar.
 
-1. Vá para o **Notificações** guia .
+1. Clique no botão **Notificações** ícone .
 
-   ![](assets/notifications.png)
+   ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
 1. Clique em **Limpeza de Campanha do Acionador Ocioso Programada**. Em seguida, clique no botão **Essas Campanhas de Acionador Ocioso serão desativadas** link .
 
-   ![](assets/image2015-4-27-20-3a48-3a35.png)
+   ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
    Você verá uma lista de campanhas inteligentes programadas para serem desativadas.
 
-   ![](assets/image2015-4-27-20-3a35-3a29.png)
+   ![](assets/automatic-trigger-campaign-cleanup-3.png)
 
 ## Quais campanhas serão desativadas? {#which-campaigns-will-be-deactivated}
 
@@ -53,8 +53,8 @@ Absolutamente - uma semana após a notificação original, desativaremos as camp
 
 1. Selecione o **Limpeza de Campanha do Acionador Ocioso Programada** notificação. Clique no botão **Essas Campanhas De Acionador Ocioso** link .
 
-   ![](assets/image2015-4-27-20-3a56-3a41.png)
+   ![](assets/automatic-trigger-campaign-cleanup-4.png)
 
 1. Você verá uma lista de campanhas desativadas.
 
-   ![](assets/image2015-4-27-20-3a58-3a38.png)
+   ![](assets/automatic-trigger-campaign-cleanup-5.png)
