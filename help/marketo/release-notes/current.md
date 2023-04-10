@@ -2,10 +2,10 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
+source-git-commit: 3c4f24edeba54a5275ae876e228388cf975438fb
 workflow-type: tm+mt
-source-wordcount: '622'
-ht-degree: 9%
+source-wordcount: '617'
+ht-degree: 8%
 
 ---
 
@@ -89,7 +89,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
 
 Os seguintes recursos seguem um formato Ágil e são lançados em várias datas, antes ou depois da data de lançamento padrão. Verifique o status abaixo de cada recurso.
 
-### Bate-papo dinâmico {#dynamic-chat}
+### Chat dinâmico {#dynamic-chat}
 
 </br>
 
@@ -115,8 +115,8 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
@@ -129,8 +129,8 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
@@ -143,8 +143,8 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
@@ -157,8 +157,8 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
@@ -171,8 +171,8 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
