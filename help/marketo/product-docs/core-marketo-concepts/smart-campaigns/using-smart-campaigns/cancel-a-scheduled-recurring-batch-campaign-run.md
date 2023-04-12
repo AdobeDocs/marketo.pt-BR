@@ -3,9 +3,9 @@ unique-page-id: 1147060
 description: Cancelar uma execução de campanha em lote recorrente programada - Documentos do Marketo - Documentação do produto
 title: Cancelar uma execução programada de campanha em lote recorrente
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '121'
 ht-degree: 1%
 
 ---
@@ -14,27 +14,27 @@ ht-degree: 1%
 
 Se você tiver uma campanha em lote recorrente que não deseja mais, é possível cancelar as execuções futuras. Veja como.
 
-1. Clique na campanha inteligente e depois na **Agendar** guia .
+1. Selecione a campanha inteligente e clique no botão **Agendar** guia .
 
-   ![](assets/image2014-9-22-16-3a44-3a51.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
 1. Clique em **Agendar Recorrência**.
 
-   ![](assets/image2014-9-22-16-3a44-3a55.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >Você pode cancelar uma única execução clicando em ![x vermelho](assets/image2014-9-22-16-3a45-3a42.png) ao lado dele. Saiba como [cancelar uma execução de campanha em lote agendada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
+   >Você pode cancelar uma única execução clicando no botão ![x vermelho](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) ao lado dele. Saiba como [cancelar uma execução de campanha em lote agendada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
 
-1. Definir Agendamento como **Nenhum** e depois **Salvar**.
+1. Definir Agendamento como **Nenhum** e clique em **Salvar**.
 
-   ![](assets/image2014-9-22-16-3a45-3a56.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
    Voila! Sua campanha inteligente não será mais executada.
 
    >[!CAUTION]
    >
-   >Isso cancela execuções futuras, mas se uma campanha inteligente estiver em execução, você não poderá cancelá-la.
+   >Isso cancela execuções futuras, mas se uma campanha inteligente estiver em andamento, você não poderá cancelá-la.
 
    >[!MORELIKETHIS]
    >
