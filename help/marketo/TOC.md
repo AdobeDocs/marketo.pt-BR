@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 21a0aea2d1daa6bbe3e1f4b08efc67ce1b217604
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
-source-wordcount: '8849'
+source-wordcount: '8868'
 ht-degree: 5%
 
 ---
@@ -613,7 +613,7 @@ ht-degree: 5%
          + [Adicionar a correspondência de clientes do Google como um serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Enviar uma lista para uma rede de anúncios](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
-      + Bate-papo dinâmico {#dynamic-chat}
+      + Chat dinâmico {#dynamic-chat}
          + [Visão geral do bate-papo dinâmico](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configuração inicial](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Adicionar ou remover usuários de bate-papo](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
@@ -663,6 +663,11 @@ ht-degree: 5%
                + [Noções básicas sobre os status do programa do webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + Webinars interativos {#interactive-webinars}
             + [Visão geral de webinars interativos](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
+            + [Gerenciamento de usuários de webinars interativos](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-user-management.md)
+            + [Criar um webinário interativo](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+            + [Criação de webinars interativos](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Editar ou excluir um webinar interativo](product-docs/demand-generation/events/interactive-webinars/edit-or-delete-an-interactive-webinar.md)
+            + [Fluxos de trabalho do evento](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}
          + [Adicionar leads a um público-alvo personalizado no Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Criar um público-alvo personalizado no Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)

@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: Triggers e filtros para campanhas inteligentes de dispositivos móveis - Documentos do Marketo - Documentação do produto
 title: Acionadores e filtros para campanhas inteligentes móveis
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 1%
@@ -28,13 +28,13 @@ Há apenas filtros para esta atividade:
 
 Procurar por **aplicativo móvel** no painel direito para listar todos os acionadores e filtros do aplicativo móvel.
 
-![](assets/image2015-8-12-17-3a25-3a18.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
 ## Restrições {#constraints}
 
 Use restrições com acionadores e filtros para classificar ainda mais os dados.
 
-![](assets/image2015-8-17-12-3a6-3a33.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
 Todos os acionadores e filtros, exceto para Notificação por push de envio, contêm essas duas restrições padrão:
 
@@ -70,7 +70,7 @@ Use este filtro para descobrir todas as pessoas que já tiveram seu aplicativo i
 
 **Restrições**: Tipo de dispositivo, plataforma, aplicativo móvel, versão do aplicativo móvel, tipo de dispositivo, fonte de instalação, está habilitado para push e local
 
-![](assets/image2015-8-21-13-3a33-3a54.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
@@ -86,7 +86,7 @@ O Aplicativo Móvel Está/Foi Instalado
 
 **Restrições**: Tipo de dispositivo, plataforma, versão do aplicativo, local e fonte de instalação
 
-![](assets/image2015-8-17-13-3a11-3a3.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
 O Aplicativo Móvel Foi/Foi Aberto
 
@@ -98,7 +98,7 @@ O Aplicativo Móvel Foi/Foi Aberto
 
 **Restrições**: Tipo de dispositivo e plataforma
 
-![](assets/image2015-8-17-13-3a13-3a55.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 Possui/teve atividade de aplicativo móvel
 
@@ -138,7 +138,7 @@ As restrições de Ação permitem usar o acionador e os filtros para rastrear a
 
 Veja como o filtro aparece no Marketo:
 
-![](assets/image2015-8-17-13-3a16-3a12.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 
 >[!NOTE]
 >
@@ -163,7 +163,7 @@ Veja como o filtro aparece no Marketo:
 
 **Restrições**: Tipo de dispositivo, plataforma e duração da sessão (segundos)
 
-![](assets/image2015-8-17-13-3a18-3a34.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
 Notificações por push com toques/toques
 
@@ -175,7 +175,7 @@ Notificações por push com toques/toques
 
 **Restrições**: Tipo de dispositivo, plataforma, versão do aplicativo móvel, notificação por push e versão da plataforma
 
-![](assets/image2015-8-21-14-3a2-3a24.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
@@ -189,7 +189,7 @@ Notificações por push com toques/toques
 
 **Restrições**: Notificação por push e aplicativo móvel
 
-![](assets/image2015-8-21-14-3a3-3a50.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
