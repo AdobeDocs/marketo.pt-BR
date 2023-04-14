@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
 workflow-type: tm+mt
-source-wordcount: '8868'
+source-wordcount: '8863'
 ht-degree: 5%
 
 ---
@@ -694,7 +694,7 @@ ht-degree: 5%
             + [Adicionar uma lista de seleção de país ao seu formulário](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [Adicionar rich text a um formulário](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
             + [Alterar a localidade de um formulário](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
-            + [Alterar o idioma da validação do formulário/mensagens de erro e o botão Enviar](product-docs/demand-generation/forms/form-actions/change-the-language-of-form-validation-error-messages-and-submit-button.md)
+            + [Alterar o idioma de um formulário](product-docs/demand-generation/forms/form-actions/change-the-language-of-a-form.md)
             + [Configurar a criação de perfis progressivos do formulário](product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md)
             + [Definir valores em um rádio ou campo selecionado em um formulário](product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.md)
             + [Excluir um formulário](product-docs/demand-generation/forms/form-actions/delete-a-form.md)
