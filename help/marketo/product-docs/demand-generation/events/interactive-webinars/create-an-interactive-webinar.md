@@ -4,10 +4,10 @@ title: Criar um webinário interativo
 hide: true
 hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: 06dab22b1785abc2ccca688dbb5bf3997d6c7fe0
+source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 1%
 
 ---
 
@@ -21,20 +21,30 @@ Introdução.
 
 1. Clique com o botão direito do mouse na pasta desejada e selecione **Novo programa**.
 
-PICC
+   ![](assets/create-an-interactive-webinar-2.png)
 
 1. Dê um nome ao evento. Em Tipo de programa, selecione **Evento**.
 
-PICC
+   ![](assets/create-an-interactive-webinar-3.png)
 
 1. Clique no menu suspenso Canal e selecione **Webinar**.
 
-PICC
+   ![](assets/create-an-interactive-webinar-4.png)
 
-1. Choose **Webinars interativos** e clique em **Criar**.
+1. Choose **Webinars interativos** e clique em **Próximo**.
 
-PICC
+   ![](assets/create-an-interactive-webinar-5.png)
 
->[!NOTE]
->
->Informações sobre webinários de parceiros podem ser encontradas aqui.
+   >[!NOTE]
+   >
+   >Informações sobre webinários de parceiros podem ser encontradas aqui.
+
+1. Defina o tamanho máximo do público-alvo para seu webinário e quanto tempo ele durará.
+
+   ![](assets/create-an-interactive-webinar-6.png)
+
+1. Programe a data/hora de seu webinário.
+
+   ![](assets/create-an-interactive-webinar-7.png)
+
+1. Texto
