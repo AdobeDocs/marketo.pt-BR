@@ -3,7 +3,7 @@ unique-page-id: 1146974
 description: Editar regras de qualificação em uma campanha inteligente - Documentos do Marketo - Documentação do produto
 title: Editar regras de qualificação em uma campanha inteligente
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -16,7 +16,7 @@ As regras de qualificação controlam quantas vezes alguém pode executar o flux
 
 1. Na campanha inteligente, clique no botão **Agendar** e depois **Editar configurações**.
 
-   ![](assets/programeditsettings-hands.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
@@ -24,7 +24,7 @@ As regras de qualificação controlam quantas vezes alguém pode executar o flux
 
 1. Escolha a frequência com que seu pessoal deve ser executado pelo fluxo de campanha inteligente: **somente uma vez**, **sempre** ou **uma vez a cada # days**/**semanas**/**meses**.
 
-   ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
