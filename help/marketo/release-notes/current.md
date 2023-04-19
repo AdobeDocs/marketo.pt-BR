@@ -2,16 +2,16 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3c4f24edeba54a5275ae876e228388cf975438fb
+source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '480'
 ht-degree: 8%
 
 ---
 
-# Notas de versão: Março de 2023 {#release-notes-mar-23}
+# Notas de versão: Maio de 2023 {#release-notes-may-23}
 
-Abaixo você encontrará todos os recursos incluídos na versão de 23 de março. Verifique sua edição do Adobe Marketo Engage para ver a disponibilidade dos recursos.
+Abaixo você encontrará todos os recursos incluídos na versão de 23 de maio. Verifique sua edição do Adobe Marketo Engage para ver a disponibilidade dos recursos.
 
 >[!AVAILABILITY]
 >
@@ -19,27 +19,13 @@ Abaixo você encontrará todos os recursos incluídos na versão de 23 de março
 
 ## Recursos do ciclo de versão padrão {#standard-release-cycle-features}
 
-Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser lançados em **31 de março de 2023**, com uma distribuição em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status abaixo de cada recurso.
+Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser lançados em **19 de maio de 2023**, com uma distribuição em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status abaixo de cada recurso.
 
 ### UX Moderno do Marketo Engage {#modern-ux}
 
 </br>
 
-* **Aprimorado Usado pelo Componente para Detalhes do modelo de página de aterrissagem e Detalhes do formulário**: A nova guia Usada pela interface do usuário fornece informações adicionais em Detalhes do modelo da página de aterrissagem e Detalhes do formulário, incluindo mais detalhes sobre os ativos que usaram um ativo selecionado. Execute análises em listas longas de ativos por meio dos recursos de pesquisa, classificação e filtragem.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Atualizações de documentação</b></td>
-  </tr>
-  <tr> 
-   <td>Remetido</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Remover Alternar Switch e Experiência Clássica das Páginas de Aterrissagem**: A desaprovação do Alternar Switch e da experiência clássica para páginas de aterrissagem ajudará você a adotar completamente a nova experiência. A nova experiência permite a utilização completa das funcionalidades fornecidas com esses ativos sem precisar depender da experiência antiga ou ter que alternar constantemente entre as duas experiências.
+* **Alternar atualizações de remoção de experiência clássica e do switch para UX moderno**: Remoção de páginas de detalhes para modelos de email, modelos de página de aterrissagem, Forms e trechos para garantir que a experiência moderna seja a única experiência disponível.
 
 <table> 
   <tr> 
@@ -53,7 +39,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tbody>
 </table>
 
-* **Melhorias no desempenho do nó de árvore**: Aqueles com um grande número de nós de árvore verão uma melhoria significativa no desempenho.
+* **Shell Unificado**: Alinha o Marketo Engage com o Experience Cloud para criar uma experiência de navegação consistente em várias soluções de Experience Cloud em uma única sessão de usuário.
 
 <table> 
   <tr> 
@@ -67,11 +53,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tbody>
 </table>
 
-### Atualizações de integração {#integration-updates}
-
-</br>
-
-* **Atualize a Integração do Marketo Facebook para usar a Atualização da API do Facebook Graph**: Com a atualização recente da Facebook para a API do Facebook Graph v15, agora há um limite de 500 públicos-alvo personalizados que podem ser criados para uma conta de anúncio específica.
+* **Central de ajuda do Marketo Engage**: O Centro de ajuda fornece aos usuários do Marketo Engage um local central para encontrar recursos de ajuda dentro do produto. Além disso, a Central de ajuda fornece aos usuários a capacidade de ativar guias no produto que explicam como aproveitar os principais recursos.
 
 <table> 
   <tr> 
@@ -89,11 +71,33 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
 
 Os seguintes recursos seguem um formato Ágil e são lançados em várias datas, antes ou depois da data de lançamento padrão. Verifique o status abaixo de cada recurso.
 
+### Orquestração entre canais {#cross-channel-orchestration}
+
+</br>
+
+* **Webinars interativos (disponibilidade limitada inicialmente)**:
+
+Webinars interativos aumentam a experiência existente de Eventos e Webinars, fornecendo uma experiência nativa e contínua para que os profissionais de marketing criem, gerenciem e entreguem eventos no Marketo Engage. Personalize webinars de acordo com o tipo de evento e até adicione apresentadores, se desejar. Obtenha insights avançados de engajamento por meio de recursos do Adobe Connect, como pesquisas ao vivo, bate-papo, sessões de perguntas e respostas, cliques em links da Web, downloads de documentos e muito mais. Recupere o registro do webinar diretamente no Marketo Engage e avalie seu desempenho por meio de métricas avançadas de painel.
+
+INFO DE INSCRIÇÃO EM BREVE
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Atualizações de documentação</b></td>
+  </tr>
+  <tr> 
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  </tbody>
+</table>
+
 ### Chat dinâmico {#dynamic-chat}
 
 </br>
 
-* **Relatório de participação no diálogo para bate-papo dinâmico**: Fornece uma visualização da participação na caixa de diálogo ao longo do tempo, incluindo a capacidade de filtrar por tipo de visitante e tipo de envolvimento para fornecer melhor visibilidade para os usuários.
+* **Atividades aprimoradas de bate-papo dinâmico**: As atividades, filtros e acionadores existentes do Dynamic Chat são aprimorados com atributos adicionais e uma convenção de nomenclatura padronizada.
 
 <table> 
   <tr> 
@@ -107,7 +111,7 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
   </tbody>
 </table>
 
-* **Funções e permissões para o bate-papo dinâmico**: Apresenta funções e permissões ao Dynamic Chat, permitindo que os administradores limitem a visibilidade e o uso de diferentes áreas do aplicativo para tipos de usuários selecionados.
+* **Fonte do chat para o bate-papo dinâmico**: O &quot;bate-papo&quot; agora é oferecido como uma fonte de novos registros pessoais e atividades. Essa fonte pode ser usada para ajudar os usuários a filtrar atividades em Smart Lists/Campaigns. A fonte também pode ser bloqueada por atualizações em campos.
 
 <table> 
   <tr> 
@@ -115,64 +119,8 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td>Remetido</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Bate-papo como canal do programa para bate-papo dinâmico**: Cria um novo Canal de programa de &quot;Bate-papo&quot; para acompanhar a progressão do programa para pessoas adquiridas pelo Bate-papo dinâmico. Por exemplo, um comerciante tem um programa associado a uma caixa de diálogo dinâmica de bate-papo para capturar novos leads. Agora, eles podem atribuir esse programa ao canal de Chat para que possam rastrear quando os leads são membros do programa e quando eles obtiveram sucesso.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Atualizações de documentação</b></td>
-  </tr>
-  <tr> 
-   <td>Remetido</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Atributos inferiores para o bate-papo dinâmico**: Garante que os dados IP inferidos (cidade, estado, país etc.) é gravada no registro de pessoa para novas pessoas adquiridas pelo Dynamic Chat.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Atualizações de documentação</b></td>
-  </tr>
-  <tr> 
-   <td>Remetido</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Suporte de idioma adicional para bate-papo dinâmico**: Agora é possível escolher entre nove idiomas compatíveis para exibir o conteúdo estático do Dynamic Chat no.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Atualizações de documentação</b></td>
-  </tr>
-  <tr> 
-   <td>Remetido</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Ir para Nó na Visualização do Stream Designer para Bate-papo Dinâmico**: Salte diretamente em um nó no Designer de fluxo no painel de visualização.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Atualizações de documentação</b></td>
-  </tr>
-  <tr> 
-   <td>Remetido</td>
-   <td>n/d</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
   </tr>
   </tbody>
 </table>
