@@ -3,9 +3,9 @@ unique-page-id: 1147066
 description: Substituir restrições de pessoa em uma campanha inteligente - Documentos do Marketo - Documentação do produto
 title: Substituir restrições de pessoa em uma campanha inteligente
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ O Marketo permite definir o número máximo de pessoas que podem se qualificar p
 
 1. Em Atividades de marketing, acesse sua campanha inteligente e clique em **Agendar**.
 
-   ![](assets/one.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
 1. Nas Configurações da campanha inteligente, clique em **Editar**.
 
-   ![](assets/two.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ O Marketo permite definir o número máximo de pessoas que podem se qualificar p
 
 1. Insira um novo limite e clique em **Salvar.**
 
-   ![](assets/three.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
    A campanha inteligente não será executada se o número de pessoas que se qualificam exceder o limite definido.
 
