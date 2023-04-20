@@ -4,16 +4,16 @@ title: Criar um webinário interativo
 hide: true
 hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
+source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 1%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
 # Criar um webinário interativo {#create-an-interactive-webinar}
 
-Introdução.
+Crie um Webinar interativo em algumas etapas fáceis.
 
 1. Ir para **Atividades de marketing**.
 
@@ -23,7 +23,7 @@ Introdução.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. Dê um nome ao evento. Em Tipo de programa, selecione **Evento**.
+1. Dê um nome ao programa. Em Tipo de programa, selecione **Evento**.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
@@ -43,8 +43,8 @@ Introdução.
 
    ![](assets/create-an-interactive-webinar-6.png)
 
-1. Programe a data/hora de seu webinário.
+1. Programe a data/hora de seu webinário e clique em **Criar**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-1. Texto
+Seu Webinar interativo é criado. Agora é hora de [criar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
