@@ -3,16 +3,16 @@ unique-page-id: 2360344
 description: Exibir mapeamentos de campo entre o Marketo e o Salesforce - Documentos do Marketo - Documentação do produto
 title: Exibir mapeamentos de campo entre o Marketo e o Salesforce
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: db68d63b6502822d4948485865edb26d10104a14
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 # Exibir mapeamentos de campo entre o Marketo e o Salesforce {#view-field-mappings-between-marketo-and-salesforce}
 
-Talvez você queira saber a quais campos do Salesforce um campo específico do Marketo está vinculado. Aqui está como fazer isso.
+Talvez você queira saber a quais campos do Salesforce um campo específico do Marketo está vinculado. Veja como verificar.
 
 >[!NOTE]
 >
@@ -34,4 +34,6 @@ Talvez você queira saber a quais campos do Salesforce um campo específico do M
 >
 >Isso está exibindo o nome da API do Salesforce, não o nome do rótulo.
 
-Bom trabalho! Agora você sabe como descobrir a quais campos do Salesforce seus campos do Marketo estão vinculados.
+>[!IMPORTANT]
+>
+>Os campos listados refletem dados somente do mapeamento inicial. Eles não são atualizados após a sincronização Marketo/Salesforce.

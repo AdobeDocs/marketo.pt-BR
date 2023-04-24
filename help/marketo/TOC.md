@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
+source-git-commit: db68d63b6502822d4948485865edb26d10104a14
 workflow-type: tm+mt
 source-wordcount: '8866'
 ht-degree: 5%
@@ -663,10 +663,10 @@ ht-degree: 5%
                + [Noções básicas sobre os status do programa do webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + Webinars interativos {#interactive-webinars}
             + [Visão geral de webinars interativos](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
-            + [Gerenciamento de usuários de webinars interativos](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-user-management.md)
+            + [Gerenciamento de usuários e licenças](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [Criar um webinário interativo](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Criação de webinars interativos](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
-            + [Editar ou excluir um webinar interativo](product-docs/demand-generation/events/interactive-webinars/edit-or-delete-an-interactive-webinar.md)
+            + [Modificar ou excluir um webinar interativo](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [Fluxos de trabalho do evento](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}
          + [Adicionar leads a um público-alvo personalizado no Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
