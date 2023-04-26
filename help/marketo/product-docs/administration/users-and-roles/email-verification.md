@@ -2,16 +2,16 @@
 description: Verificação de email - Documentação da Marketo - Documentação do produto
 title: Verificação de email
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: c45b3ab94b806b53768891613f15b8e9b694a440
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # Verificação de email {#email-verification}
 
-As assinaturas do Adobe Marketo Engage exigem que todos os usuários que não usam API, incluindo Marketo Engage Admins, verifiquem seu endereço de email. Os usuários de Logon único (SSO), aos quais não foi atribuída uma função de Administrador, terão o email verificado automaticamente quando a assinatura for ativada com o recurso Verificação de email.
+As assinaturas do Adobe Marketo Engage exigem que todos os usuários que não usam API, incluindo Administradores do Marketo Engage, verifiquem seu endereço de email. Usuários de Logon Único (SSO) que não recebem uma função de Administrador ou que recebem uma função com a permissão &#39;Ignorar SSO&#39; terão seu email verificado automaticamente quando sua assinatura for habilitada com o recurso Verificação de Email.
 
 **Convite de usuário**
 
