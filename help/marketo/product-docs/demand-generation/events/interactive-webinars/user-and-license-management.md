@@ -4,10 +4,10 @@ title: Gerenciamento de usuários e licenças
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 0%
+source-wordcount: '399'
+ht-degree: 1%
 
 ---
 
@@ -53,7 +53,7 @@ Introdução.
 
 ## Uso de licença {#license-usage}
 
-Toda vez que uma licença é adicionada, uma nova caixa de uso de licença é exibida.
+Webinars interativos oferecem licenças específicas para criar eventos do Adobe Connect. Toda vez que uma licença é adicionada, uma nova caixa de uso de licença é exibida. Os administradores do Marketo podem visualizar (não editar) as licenças seguindo as etapas abaixo. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter licenças adicionais.
 
 1. Vá para o **Administrador** área.
 
@@ -63,6 +63,48 @@ Toda vez que uma licença é adicionada, uma nova caixa de uso de licença é ex
 
    ![](assets/user-and-license-management-10.png)
 
-1. INFO
+1. Role para baixo até os cartões de uso de licença.
 
-PICC
+   ![](assets/user-and-license-management-11.png)
+
+<table> 
+  <tr> 
+   <td><b>Data de início</b></td>
+   <td>Data de início da licença.</td>
+  </tr>
+  <tr> 
+   <td><b>Data de validade</b></td>
+   <td>Data em que a licença expira.</td>
+  </tr>
+  <tr> 
+   <td><b>Tipo</b></td>
+   <td>O tipo de licença comprada. Há três tipos disponíveis: Licença de eventos compartilhados, licença de salas compartilhadas, licença adicional de armazenamento.</td>
+  </tr>
+  <tr> 
+   <td><b>Capacidade do evento</b></td>
+   <td>O número máximo de participantes que podem ser acomodados em um evento.</td>
+  </tr>
+  <tr> 
+   <td><b>Total de eventos</b></td>
+   <td>O número total de eventos que foram provisionados com esta licença.</td>
+  </tr>
+  <tr> 
+   <td><b>Eventos consumidos</b></td>
+   <td>O número total de eventos concluídos.</td>
+  </tr>
+  <tr> 
+   <td><b>Capacidade de armazenamento</b></td>
+   <td>Quantidade de armazenamento disponível para armazenar gravações, garantias, heros images, documentação e outros ativos.</td>
+  </tr>
+  </tbody>
+</table>
+
+**O que deve ser observado**
+
+* O tipo &quot;Licença de Armazenamento Adicional&quot; apenas fornece armazenamento, portanto, o valor em cada campo _Além_ A capacidade de armazenamento será listada simplesmente como &quot;-&quot;.
+
+* O tipo &quot;Licença de sala compartilhada&quot; tem eventos ilimitados e &quot;Licença de armazenamento adicional&quot; fornece apenas armazenamento, de modo que o campo Total de eventos para essas licenças será listado simplesmente como &quot;-&quot;.
+
+* Toda vez que um evento é criado, ele contará como &quot;consumido&quot; de sua respectiva licença (a menos que seja uma Licença de sala compartilhada). A preferência será dada à &quot;Licença de evento compartilhado&quot; se houver &quot;Licença de evento compartilhado&quot; e &quot;Licença de sala compartilhada&quot; da mesma capacidade. Se o evento não tiver sido entregue e se o Programa de eventos for excluído antes do horário agendado, a contagem de eventos será reposta subtraindo um evento de Eventos Consumidos.
+
+* Depois que uma licença é esgotada, seu bloco permanece na tela Webinars interativos no Administrador, com o total de eventos e eventos consumidos com o mesmo valor. Somente quando a licença expirar será removida da tela.
