@@ -2,7 +2,7 @@
 description: Sincronização de cancelamentos de assinatura com o Salesforce - Documentos do Marketo - Documentação do produto
 title: Sincronização de cancelamentos de assinatura com o Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 5%
@@ -23,7 +23,7 @@ Quando uma cancelamento de subscrição é coletada no Marketo Sales, a enviamos
 
 **Cancelar assinatura sincronizada**
 
-Ao ativar a sincronização de cancelamento de inscrição (Etapa 3 abaixo), você estará ativando a sincronização noturna. A sincronização ocorre uma vez por dia, por volta das 20:00 PST. Como alternativa, ele sincronizará todas as cancelamentos de assinatura no MSE/ToutApp com o campo Recusar no Salesforce.
+Ao ativar a sincronização de cancelamento de inscrição (Etapa 3 abaixo), você estará ativando a sincronização noturna. A sincronização ocorre uma vez por dia, por volta das 20:00 PST. Como alternativa, ela sincronizará todas as assinaturas canceladas no Marketo Sales com o campo Recusar no Salesforce.
 
 ## Configurar Unsubscribe Sync para Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
