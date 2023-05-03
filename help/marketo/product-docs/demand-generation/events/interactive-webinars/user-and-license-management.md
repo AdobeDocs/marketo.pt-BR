@@ -4,10 +4,10 @@ title: Gerenciamento de usuários e licenças
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -107,4 +107,4 @@ Webinars interativos oferecem licenças específicas para criar eventos do Adobe
 
 * Toda vez que um evento é criado, ele contará como &quot;consumido&quot; de sua respectiva licença (a menos que seja uma Licença de sala compartilhada). A preferência será dada à &quot;Licença de evento compartilhado&quot; se houver &quot;Licença de evento compartilhado&quot; e &quot;Licença de sala compartilhada&quot; da mesma capacidade. Se o evento não tiver sido entregue e se o Programa de eventos for excluído antes do horário agendado, a contagem de eventos será reposta subtraindo um evento de Eventos Consumidos.
 
-* Depois que uma licença é esgotada, seu bloco permanece na tela Webinars interativos no Administrador, com o total de eventos e eventos consumidos com o mesmo valor. Somente quando a licença expirar será removida da tela.
+* Depois que uma licença é esgotada, seu bloco permanece na tela Webinars interativos na seção Admin com &quot;Total de eventos&quot; e &quot;Eventos consumidos&quot; com o mesmo valor. Somente quando a licença expirar será removida da tela.

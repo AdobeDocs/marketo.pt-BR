@@ -4,16 +4,18 @@ title: Visão geral de webinars interativos
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Visão geral de webinars interativos {#interactive-webinars-overview}
 
 Saiba mais sobre a ferramenta Marketo Engage nativa para criar webinars em branco e eficazes.
+
+Um webinário do Adobe Connect é uma conferência online interativa em tempo real para vários usuários. A sala é um espaço virtual online persistente que você usa para realizar webinars. Ele inclui vários painéis de exibição (pods) e layouts. Há vários layouts de sala de reuniões pré-criados ou você pode criar e usar layouts personalizados adicionais para atender às suas necessidades. A sala permite que os participantes compartilhem telas ou arquivos de computadores, chat, áudio e vídeo de transmissão e participem de atividades online interativas.
 
 _O que são webinars interativos_
 

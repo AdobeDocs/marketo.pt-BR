@@ -4,7 +4,7 @@ title: Criação de webinars interativos
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Criação de webinars interativos {#designing-interactive-webinars}
 
-Introdução.
+Projete seu webinário de acordo com sua preferência.
 
 1. Selecione o evento e clique em **Webinar de design**.
 
@@ -25,7 +25,7 @@ Introdução.
 
    >[!NOTE]
    >
-   >Uma sala é um espaço online que você usará para realizar reuniões.
+   >Uma sala é um espaço online usado para realizar reuniões.
 
 1. Escolha um template.
 
@@ -51,23 +51,16 @@ Introdução.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Texto
+1. Para obter informações detalhadas sobre salas e modelos, consulte a seção &quot;Modelos e layouts das salas de reuniões&quot; de [este artigo de ajuda do Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
-https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings??????
+1. Quando terminar de criar seu webinário, clique em **Sala de saída**.
 
+   ![](assets/designing-interactive-webinars-9.png)
 
-Sala: (retirou isso da documentação do Connect para ser preciso) Fonte: https://helpx.adobe.com/in/adobe-connect/using/meeting-basics.html
+## Elementos de design {#design-elements}
 
-Um webinário do Adobe Connect é uma conferência online interativa em tempo real para vários usuários. A sala é um espaço virtual online persistente que você usa para realizar webinars. Ele inclui vários painéis de exibição (pods) e layouts. Há vários layouts de sala de reuniões pré-criados ou você pode criar e usar layouts personalizados adicionais para atender às suas necessidades. A sala permite que os participantes compartilhem telas ou arquivos de computadores, chat, áudio e vídeo de transmissão e participem de atividades online interativas.
+**Modelo**: Modelo é uma estrutura fornecida a uma sala com base no objetivo do webinário que está sendo entregue. Por exemplo, se você quiser agendar um webinar de exibição de produto, o compartilhamento de tela será um componente essencial para mostrar a demonstração. O modelo garante que os componentes essenciais necessários para um delivery eficaz de um tipo específico de webinário estejam em vigor durante a configuração da sala de webinar.
 
-Modelo:
+**Layout**: Layout refere-se a várias maneiras pelas quais vários componentes necessários para garantir o sucesso do webinário são organizados em um modelo específico. Um único modelo pode ter vários layouts para sua escolha. Os componentes essenciais do webinário permaneceriam os mesmos em todos os modelos. O arranjo que você selecionou seria mais adequado ao estilo/necessidades de você ou do apresentador que está entregando o webinário.
 
-Modelo é uma estrutura fornecida a uma sala com base no objetivo do webinário que está sendo entregue na sala. Por exemplo, se um profissional de marketing quiser agendar um webinar de exibição de produto, o compartilhamento de tela será um componente essencial para mostrar a demonstração em minúsculas. O modelo garante que os componentes essenciais necessários para um delivery eficaz de um tipo específico de webinário estejam em vigor durante a configuração da sala de webinar.
-
-Layout:
-
-Layout refere-se a várias maneiras pelas quais vários componentes necessários para garantir o sucesso do webinário são organizados em um modelo específico. Um único modelo pode ter vários layouts para o profissional de marketing escolher. Os componentes essenciais do webinário permaneceriam os mesmos nos modelos. O arranjo selecionado pelo profissional de marketing seria mais adequado às necessidades e ao estilo do profissional de marketing ou do apresentador que distribui o webinário.
-
-Pod:
-
-Pod refere-se a um componente dentro de um modelo que ajuda a executar uma atividade específica durante o webinário. Por exemplo, configurar e fornecer uma pesquisa para capturar as respostas dos participantes em uma atividade que pode ser realizada por um pod de pesquisa. Da mesma forma, conversar com os participantes para transmitir uma mensagem ou interagir casualmente com eles pode ser uma atividade oferecida pelo pod de bate-papo. Vários outros pods estão disponíveis no Connect, como Compartilhar, Notas, Vídeo, Chat, Lista de participantes, Arquivos, Links da Web, Pesquisas e P &amp; A.
+**Pod**: Pod refere-se a um componente dentro de um modelo que executa uma atividade específica durante o webinário. Por exemplo, configurar e fornecer uma pesquisa para capturar as respostas dos participantes em uma atividade que pode ser realizada por um pod de pesquisa. Da mesma forma, conversar com os participantes para transmitir uma mensagem ou interagir casualmente com eles pode ser uma atividade oferecida pelo pod de bate-papo. Vários outros pods estão disponíveis, como Compartilhar, Notas, Vídeo, Chat, Lista de participantes, Arquivos, Links da Web, Pesquisas e P &amp; A.

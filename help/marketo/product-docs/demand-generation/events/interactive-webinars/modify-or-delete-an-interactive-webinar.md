@@ -4,9 +4,9 @@ title: Modificar ou excluir um webinar interativo
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,25 @@ Saiba como fazer alterações em seu Webinar interativo.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. Texto
+1. O quarto vai carregar. Se quiser alterar a sala, selecione uma no menu suspenso Salas. Para atualizar seu modelo, clique em **Usar Sala**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
-???? para Nilesh - é normal não ser levado para a sala onde o Webinar já está? Em caso negativo, qual é a prática recomendada?
+>[!NOTE]
+>
+>Mudar de quarto é opcional e não é necessário atualizar seu modelo.
+
+1. Clique em **Refine Seu Webinar Agora**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-3.png)
+
+1. Selecione as preferências de áudio/vídeo e clique em **Entrar na sala**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-4.png)
+
+1. Quando terminar de fazer as modificações, clique em **Sala de saída**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## Reprogramar um webinar interativo {#reschedule-an-interactive-webinar}
 
@@ -58,6 +72,10 @@ PICC
 1. Clique em **Próximo**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!NOTE]
+   >
+   >Você só pode salvar um Webinar interativo clonado como um Webinar interativo no momento. Salvar um webinar clonado como um webinar de parceiro (por exemplo, Zoom, ON24, etc.) estará disponível em breve.
 
 1. Escolha as configurações do webinário clonado e clique em **Clonar**.
 
