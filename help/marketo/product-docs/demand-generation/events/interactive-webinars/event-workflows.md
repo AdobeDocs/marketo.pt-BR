@@ -4,35 +4,43 @@ title: Fluxos de trabalho do evento
 hide: true
 hidefromtoc: true
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: f7cbb624337ecd4d5bebaf69edd0ed9605e84575
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 0%
+source-wordcount: '186'
+ht-degree: 2%
 
 ---
 
 # Fluxos de trabalho do evento {#event-workflows}
 
-Introdução.
+Depois que o webinário for concluído, acesse a guia Dashboard para ver o desempenho agregado.
 
-O Painel de webinários interativos é uma visualização para os profissionais de marketing visualizarem o desempenho agregado do webinar realizado no Adobe Connect. Isso pode ser visto em uma guia separada, chamada de &quot;Painel&quot;, que aparece depois que o evento é concluído e os dados são obtidos do Adobe Connect. Se o evento não tiver sido realizado ou os dados não tiverem sido recebidos por qualquer motivo, a guia &quot;Painel&quot; não aparecerá na tela Programa de evento de webinar interativo . Os widgets no Painel não podem ser aprofundados ou exportados neste momento.
+![](assets/event-workflows-1.png)
 
-O painel consiste em 4 widgets:
+>[!NOTE]
+>
+>Se o webinar ainda não tiver sido concluído ou os dados não tiverem sido recebidos por qualquer motivo, a guia Painel ainda não estará disponível.
 
-1. Status do programa de evento:
+## Widgets do painel {#dashboard-widgets}
 
-   O widget Status do programa de eventos destaca o status de vários programas desse evento e o número de membros do programa que atualmente possuem esse valor de status do programa.
+O Painel consiste em quatro widgets.
 
-1. Participação:
+**Status do programa do evento**
 
-   O widget Participação destaca a duração da participação de vários membros que participaram do webinário em comparação à duração geral do webinário em termos de porcentagem.
+Mostra os vários status do programa para esse evento e o número de membros do programa que atualmente possuem esse valor de status do programa.
 
-1. Desempenho da Pesquisa:
+**Presença**
 
-   O widget Desempenho da pesquisa destaca as diversas pesquisas lançadas durante o webinário no Adobe Connect e a distribuição dos membros que participaram e responderam à pesquisa em cada uma das respostas.
+Destaca a duração da participação de vários membros que participaram do webinário em comparação à duração geral do webinário em termos de porcentagem.
 
-1. Clique e arquivo Baixar atividade:
+**Desempenho da pesquisa**
 
-   A Atividade de clique e download de arquivo destaca a contagem de downloads de arquivo e links da Web clicados durante o webinário no Adobe Connect por vários membros que participaram do webinário e realizaram essa ação específica.
+Exibe várias pesquisas iniciadas durante o webinário no Adobe Connect e a distribuição dos membros que participaram e responderam à pesquisa em cada uma das respostas.
+
+**Atividade de clique e download de arquivo**
+
+Fornece a contagem de download de arquivos e links da Web clicados durante o Webinar no Adobe Connect por vários membros que participaram do webinário e realizaram essa ação específica.
+
+## Triggers e filtros {#triggers-and-filters}
 
 Filtro e acionador no IW - &quot;Webinar&quot; nas Smart Lists
