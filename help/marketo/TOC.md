@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: cf6a0800737758d99a9ab07ffd783900332e3c32
+source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
 workflow-type: tm+mt
-source-wordcount: '8876'
+source-wordcount: '8884'
 ht-degree: 5%
 
 ---
@@ -484,6 +484,10 @@ ht-degree: 5%
          + [Noções básicas sobre pastas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Noções básicas das notificações](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Tipos de notificação](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Não Jornadas {#not-journeys}
+         + [Visão geral do nome](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
+         + [Guia Nome](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
+         + [Guia Configurações](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
       + Públicos-alvo preditivos {#predictive-audiences}
          + [Introdução aos públicos preditivos](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modelos e insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
