@@ -4,16 +4,16 @@ title: Criação de webinars interativos
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
 # Criação de webinars interativos {#designing-interactive-webinars}
 
-Projete seu webinário de acordo com sua preferência.
+Saiba como criar seu webinário para atender às suas necessidades.
 
 1. Selecione o evento e clique em **Webinar de design**.
 
