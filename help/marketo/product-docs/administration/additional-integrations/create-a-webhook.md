@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: Criar um Webhook - Documentos do Marketo - Documentação do produto
 title: Criar um Webhook
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: a498dcc5dc95bd7f732481d30db021485cf052c0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '221'
 ht-degree: 3%
 
 ---
@@ -40,7 +40,7 @@ Use webhooks para aproveitar os serviços da Web de terceiros para enviar mensag
 
    * **URL**: Insira o URL usado em sua solicitação para o serviço da Web. Para inserir um token, como o endereço de email da pessoa (**`{{lead.Email Address}}`**), na sua solicitação, clique em **Inserir Token**.
 
-   * **Modelo**: Se desejar transmitir informações no corpo do POST, insira o template. Use qualquer formato de dados compatível com HTTP POST, incluindo XML, JSON ou SOAP. Para inserir um token no modelo, clique em **Inserir Token**.
+   * **Modelo**: Se desejar transmitir informações no corpo da solicitação, insira através do modelo de carga. Modelos permitidos para os seguintes tipos de solicitação: POST, DELETE, PATCH ou PUT. Você pode usar formatos de dados, como JSON ou XML. Para inserir um token no modelo, clique em **Inserir Token**.
 
    * **Codificação do token de solicitação**: Se os valores de token incluírem caracteres especiais (como um E comercial (&amp;)), indique o formato da solicitação (**JSON** ou **Formulário/Url**).
 
