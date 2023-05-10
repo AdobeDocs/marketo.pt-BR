@@ -4,20 +4,20 @@ title: Visão geral de webinars interativos
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
 # Visão geral de webinars interativos {#interactive-webinars-overview}
 
-O recurso Webinar interativo permite criar, agendar, promover e fornecer webinars no Marketo Engage sem precisar usar ferramentas ou integrações adicionais.
+O recurso Webinars interativos é nossa plataforma de webinar integrada dentro do Marketo Engage. Não são necessárias ferramentas ou integrações adicionais.
 
 ## O que são webinars interativos? {#what-is-interactive-webinars}
 
-Webinars interativos é uma conferência online interativa disponível para vários usuários. Quando você [criar um webinar interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, há vários layouts de sala de reuniões pré-criados, que podem ser personalizados. Você também pode criar e usar layouts personalizados adicionais. Os participantes podem compartilhar telas/arquivos de computador, conversar por chat entre si, transmitir áudio e vídeo e participar de atividades online interativas.
+Webinars interativos aumentam a experiência existente de Eventos e Webinars fornecendo uma experiência nativa e contínua para que você crie, gerencie e entregue eventos no Marketo Engage. Quando você [criar um webinar interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, vários layouts pré-criados da sala de reuniões estão disponíveis para escolha, todos personalizáveis (você também pode criar e usar layouts personalizados adicionais). Os participantes podem compartilhar telas/arquivos de computador, conversar por chat entre si, transmitir áudio e vídeo e participar de atividades online interativas.
 
 Ofertas de webinars interativos [três licenças diferentes](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, cada um com várias funções e capacidades.
 

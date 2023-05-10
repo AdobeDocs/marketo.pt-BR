@@ -4,9 +4,9 @@ title: Criação de webinars interativos
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Saiba como criar seu webinário para atender às suas necessidades.
 
-1. Selecione o evento e clique em **Webinar de design**.
+1. Selecione o evento e clique em **Criar seu webinário**.
 
    ![](assets/designing-interactive-webinars-1.png)
 
@@ -59,8 +59,8 @@ Saiba como criar seu webinário para atender às suas necessidades.
 
 ## Elementos de design {#design-elements}
 
-**Modelo**: Modelo é uma estrutura fornecida a uma sala com base no objetivo do webinário que está sendo entregue. Por exemplo, se você quiser agendar um webinar de exibição de produto, o compartilhamento de tela será um componente essencial para mostrar a demonstração. O modelo garante que os componentes essenciais necessários para um delivery eficaz de um tipo específico de webinário estejam em vigor durante a configuração da sala de webinar.
+**Modelo**: Estrutura fornecida a uma sala com base no objetivo do webinário sendo entregue. Por exemplo, se você quiser agendar um webinar de exibição de produto, o compartilhamento de tela será um componente essencial para mostrar a demonstração. O modelo garante que os componentes essenciais necessários para um delivery eficaz de um tipo específico de webinário estejam em vigor durante a configuração da sala de webinar.
 
-**Layout**: Layout refere-se a várias maneiras pelas quais vários componentes necessários para garantir o sucesso do webinário são organizados em um modelo específico. Um único modelo pode ter vários layouts para sua escolha. Os componentes essenciais do webinário permaneceriam os mesmos em todos os modelos. O arranjo que você selecionou seria mais adequado ao estilo/necessidades de você ou do apresentador que está entregando o webinário.
+**Layout**: Refere-se a várias maneiras pelas quais os vários componentes necessários para garantir o sucesso do webinário são organizados em um modelo específico. Um único modelo pode ter vários layouts para sua escolha. Os componentes essenciais do webinário permaneceriam os mesmos em todos os modelos. O arranjo que você selecionou seria mais adequado ao estilo/necessidades de você ou do apresentador que está entregando o webinário.
 
-**Pod**: Pod refere-se a um componente dentro de um modelo que executa uma atividade específica durante o webinário. Por exemplo, configurar e fornecer uma pesquisa para capturar as respostas dos participantes em uma atividade que pode ser realizada por um pod de pesquisa. Da mesma forma, conversar com os participantes para transmitir uma mensagem ou interagir casualmente com eles pode ser uma atividade oferecida pelo pod de bate-papo. Vários outros pods estão disponíveis, como Compartilhar, Notas, Vídeo, Chat, Lista de participantes, Arquivos, Links da Web, Pesquisas e P &amp; A.
+**Pod**: Um componente dentro de um modelo que executa uma atividade específica durante o webinário. Por exemplo, configurar e fornecer uma pesquisa para capturar as respostas dos participantes em uma atividade que pode ser realizada por um pod de pesquisa. Da mesma forma, conversar com os participantes para transmitir uma mensagem ou interagir casualmente com eles pode ser uma atividade oferecida pelo pod de bate-papo. Vários outros pods estão disponíveis, como Compartilhar, Notas, Vídeo, Chat, Lista de participantes, Arquivos, Links da Web, Pesquisas e P &amp; A.
