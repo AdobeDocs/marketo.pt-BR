@@ -3,10 +3,10 @@ unique-page-id: 2949467
 description: O que é o Adobe Marketo Engage? - Documentação do Marketo - Documentação do produto
 title: O que é o Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: fe43f6dc6c4577972d947021930421ea67829526
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 9%
+source-wordcount: '289'
+ht-degree: 7%
 
 ---
 
@@ -43,10 +43,20 @@ Você não! É fácil começar no Marketo Engage, e vai evoluir com você. Você
 
 ## Preciso fazer alguma configuração? {#do-i-need-to-do-any-setup}
 
-Sim, fizemos uma [lista de verificação de coisas para fazer](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}.
+Sim, fizemos uma [lista de verificação de coisas para fazer](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}.
 
 ## Preciso esperar até que a configuração esteja concluída para aprender? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-Não! Fizemos um monte de tutoriais fáceis. [Comece já aqui](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}. Eles deveriam levar cerca de uma hora. Você pode começar a qualquer momento.
+Não! Fizemos um monte de tutoriais fáceis. [Comece já aqui](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. Eles deveriam levar cerca de uma hora. Você pode começar a qualquer momento.
+
+## Existe uma lista de coisas que cobrem limites, como quantos emails totais eu posso enviar em uma determinada semana? {#list-of-limits}
+
+Há. Limites estáticos (e outros parâmetros) descritos em [neste artigo](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#static-limits){target="_blank"}.
+
+## Por quanto tempo o Marketo mantém os meus dados? {#data-retention-policy}
+
+Revise [esta publicação da Nação](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-under-the-hood/ta-p/251191){target="_blank"} para obter detalhes.
+
+<br>
 
 Bem-vindo ao Marketo Engage! Estamos felizes por você estar aqui.
