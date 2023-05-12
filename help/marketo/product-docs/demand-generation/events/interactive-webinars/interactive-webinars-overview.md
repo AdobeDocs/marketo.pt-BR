@@ -4,9 +4,9 @@ title: Visão geral de webinars interativos
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ O recurso Webinars interativos é nossa plataforma de webinar integrada dentro d
 
 ## O que são webinars interativos? {#what-is-interactive-webinars}
 
-Webinars interativos aumentam a experiência existente de Eventos e Webinars fornecendo uma experiência nativa e contínua para que você crie, gerencie e entregue eventos no Marketo Engage. Quando você [criar um webinar interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, vários layouts pré-criados da sala de reuniões estão disponíveis para escolha, todos personalizáveis (você também pode criar e usar layouts personalizados adicionais). Os participantes podem compartilhar telas/arquivos de computador, conversar por chat entre si, transmitir áudio e vídeo e participar de atividades online interativas.
+Webinars interativos aumentam a experiência existente de Eventos e Webinars fornecendo uma experiência nativa e contínua para que você crie, gerencie e entregue eventos no Marketo Engage. Quando você [criar um webinar interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, vários modelos de reunião pré-criados estão disponíveis para escolha, todos personalizáveis (você também pode criar e usar modelos personalizados). Os participantes podem compartilhar telas/arquivos de computador, conversar por chat entre si, transmitir áudio e vídeo e participar de atividades online interativas.
 
 Ofertas de webinars interativos [três licenças diferentes](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, cada um com várias funções e capacidades.
 

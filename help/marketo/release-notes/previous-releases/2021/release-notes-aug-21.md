@@ -2,9 +2,9 @@
 description: Notas de versão - agosto de 2021 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - agosto de 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '925'
 ht-degree: 0%
 
 ---
@@ -63,18 +63,19 @@ Os seguintes recursos estão em um ciclo não trimestral e serão lançados nos 
 
 ![](assets/yellow-star.png)
 
-* **Integração Bizible LinkedIn Lead Gen Forms**: Os profissionais de marketing agora podem executar a atribuição de receita em conversões que ocorrem quando o LinkedIn captura formulários de preenchimentos por meio de suas unidades de anúncio Forms de Geração de lead. Esses insights podem ser usados para otimizar o desempenho do formulário e os investimentos em mídia paga. O linkedIn Lead Gen Forms é uma das ofertas de mídia paga de mais rápido crescimento da LinkedIn e esse novo recurso está incluído em nossa integração do LinkedIn Ads com a Bizible.   
+* **Integração Bizible LinkedIn Lead Gen Forms**: Os profissionais de marketing agora podem executar a atribuição de receita em conversões que ocorrem quando o LinkedIn captura formulários de preenchimentos por meio de suas unidades de anúncio Forms de Geração de lead. Esses insights podem ser usados para otimizar o desempenho do formulário e os investimentos em mídia paga. O linkedIn Lead Gen Forms é uma das ofertas de mídia paga de mais rápido crescimento da LinkedIn e esse novo recurso está incluído na nossa integração do LinkedIn Ads com a Bizible.
+
 * **Painel Velocity aprimorado**: Adicionamos uma nova métrica de velocidade e um filtro de painel para obter insights mais profundos. Esse painel é usado pelos profissionais de marketing para entender a velocidade de oportunidade e o avanço de cada estágio e a eficiência de diferentes formas de envolvimento de marketing e vendas.
 
 * **Novo painel de Jornada de cascata de coorte**: Isso permitirá que os profissionais de marketing visualizem a progressão de um coorte selecionado por meio de um conjunto clássico de &quot;cascata de demanda&quot;, fornecendo uma compreensão rápida das taxas de conversão e o nexo de causalidade de conversão de estágio implícito em cada estágio.
 
 ## Integração Bizible com o Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
 
-Esta seção inclui novos recursos para usuários Bizible que concluíram sua migração para o Adobe Identity Management System (IMS). Se tiver migrado, você verá seu novo Adobe ID em Configurações da Bizible na guia Adobe ID . Todas as contas devem ser migradas até o final de 2021.
+Esta seção inclui novos recursos para usuários Bizible que concluíram sua migração para o Adobe Identity Management System (IMS). Caso tenha migrado, você verá seu novo Adobe ID em Configurações da Bizible na guia Adobe ID . Todas as contas devem ser migradas até o final de 2021.
 
 * **Integração Bizible com o Adobe Privacy Service** (disponível em setembro de 2021): A integração da Bizible com o Privacy Service do Adobe centraliza a conformidade com as regulamentações críticas de privacidade de dados (como o GDPR) em todos os aplicativos Adobe Experience Cloud. Agora você pode aproveitar esse serviço e gerenciar todas as solicitações de privacidade centralmente para que as solicitações de alteração que entram na Bizible e outros produtos do Adobe sejam refletidas em todos os aplicativos.
 
-* **Bizible em Adobe Unified Shell**: A adoção do Adobe Unified Shell pela Bizible fornece aos usuários novos recursos que aparecerão na barra de cabeçalho do aplicativo Bizible e incluem melhor acesso a recursos de suporte e switching de aplicativos. O Adobe Unified Shell ajuda a criar uma experiência consistente entre a Bizible e outros aplicativos Adobe Experience Cloud.
+* **Bizible na interface do Adobe Experience Cloud**: A adoção da interface Adobe Experience Cloud pela Bizible fornece aos usuários novos recursos que aparecerão na barra de cabeçalho do aplicativo Bizible e incluem melhor acesso a recursos de suporte e switching de aplicativos. A interface do Experience Cloud ajuda a criar uma experiência consistente entre a Bizible e outros aplicativos Adobe Experience Cloud.
 
 * **Propriedade de domínio Bizible e autogerenciamento**: Os usuários da Bizible podem aproveitar o Adobe Admin Console para gerenciar os domínios que desejam que a Bizible rastreie. Isso oferece autoatendimento a um processo manual anterior e fornece uma experiência consistente em como a propriedade e o rastreamento de domínio são gerenciados nos aplicativos Adobe Experience Cloud.
 
