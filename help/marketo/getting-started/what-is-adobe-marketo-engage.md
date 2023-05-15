@@ -3,9 +3,9 @@ unique-page-id: 2949467
 description: O que é o Adobe Marketo Engage? - Documentação do Marketo - Documentação do produto
 title: O que é o Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: e6b585657b61f1d327cc6083bb3c4de44a130b3a
+source-git-commit: a433eb0496bc919f4e19361fbe68512b19f03879
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 7%
 
 ---
@@ -49,9 +49,9 @@ Sim, fizemos uma [lista de verificação de coisas para fazer](/help/marketo/get
 
 Não! Fizemos um monte de tutoriais fáceis. [Comece já aqui](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. Eles deveriam levar cerca de uma hora. Você pode começar a qualquer momento.
 
-## Existe uma lista de coisas que cobrem limites, como quantos emails totais eu posso enviar em uma determinada semana? {#list-of-limits}
+## Existe uma lista de coisas que cobre limites, como quantos emails totais eu posso enviar em uma semana? {#list-of-limits}
 
-Há. Limites estáticos (e outros parâmetros) descritos em [neste artigo](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Há. Os limites estáticos (e outros parâmetros) são descritos [neste artigo](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Por quanto tempo o Marketo mantém os meus dados? {#data-retention-policy}
 
