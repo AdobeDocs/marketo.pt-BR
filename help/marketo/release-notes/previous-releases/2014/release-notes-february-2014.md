@@ -3,7 +3,7 @@ unique-page-id: 2951048
 description: Notas de versão - fevereiro de 2014 - Documentação da Marketo - Documentação do produto
 title: Notas de versão - fevereiro de 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 3%
@@ -36,9 +36,9 @@ Os seguintes recursos foram incluídos na versão de fevereiro de 2014. Verifiqu
 
 [Exportar métricas de email para Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), incluindo dados de variante de teste AB.
 
-## Pontuação de engajamento no relatório de desempenho do fluxo de engajamento {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Pontuação de engajamento] em [!UICONTROL Desempenho do fluxo de envolvimento] Relatório {#engagement-score-in-engagement-stream-performance-report}
 
-Adicionamos a Pontuação de engajamento à [Relatório de desempenho do fluxo de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) para ajudá-lo a ver a eficácia do conteúdo em seu programa de engajamento.
+Adicionamos a Pontuação de engajamento à [[!UICONTROL Desempenho do fluxo de envolvimento] Relatório](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) para ajudá-lo a ver a eficácia do conteúdo em seu programa de engajamento.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
@@ -60,6 +60,6 @@ Os seguintes nomes de filtro e acionador foram atualizados:
 
 ## Melhorias de formulários 2.0 {#forms-enhancements}
 
-Fornecemos ao Forms 2.0 várias atualizações de &quot;qualidade de vida&quot; com esta versão. Além de ativar a criação progressiva de perfis em formulários incorporados, fizemos alterações no fluxo de trabalho e no UX que facilitarão o uso da funcionalidade mais avançada no editor, [incluindo as regras de visibilidade](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), páginas avançadas de agradecimento e campos ocultos.
+Fornecemos ao Forms 2.0 várias atualizações de &quot;qualidade de vida&quot; com esta versão. Além de ativar a criação de perfis progressiva em formulários incorporados, fizemos alterações no fluxo de trabalho e no UX que facilitarão o uso da funcionalidade mais avançada no editor, [incluindo as regras de visibilidade](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), páginas avançadas de agradecimento e campos ocultos.
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)

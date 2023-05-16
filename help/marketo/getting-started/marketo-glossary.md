@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossário do Marketo - Documentos do Marketo - Documentação do produto
 title: Glossário do Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 4%
@@ -28,7 +28,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
   </tr> 
   <tr> 
    <td colspan="1"><strong>Conta</strong></td> 
-   <td colspan="1">Este termo pode ter significados diferentes:<br>-Sua própria instância do Marketo pode ser chamada de conta do Marketo.<br>-Entrada <strong>TAM</strong>, a <strong>Conta nomeada</strong> é uma conta que o usuário determinou ser uma conta-alvo que deseja buscar.<br>-No TAM, uma conta CRM é uma conta mapeada de seu <strong>CRM</strong> (conta em <strong>Salesforce</strong>, <strong>MS Dynamics</strong> ou <strong>API</strong>).<br>-No seu CRM, as contas são a empresa/empresa à qual os clientes potenciais e os contatos estão associados.</td> 
+   <td colspan="1">Este termo pode ter significados diferentes:<br>-Sua própria instância do Marketo pode ser chamada de conta do Marketo.<br>-Entrada <strong>TAM</strong>, a <strong>Conta nomeada</strong> é uma conta que o usuário determinou ser uma conta-alvo que deseja buscar.<br>-No TAM, uma conta CRM é uma conta mapeada de seu <strong>CRM</strong> (conta em <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> ou <strong>API</strong>).<br>-No seu CRM, as contas são a empresa/empresa à qual os clientes potenciais e os contatos estão associados.</td> 
   </tr> 
   <tr> 
    <td><strong>Lista de contas</strong></td> 
@@ -306,7 +306,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>E-mail</strong></td> 
+   <td colspan="1"><strong>Email</strong></td> 
    <td colspan="1">No Marketo, uma das <strong>ativos</strong> disponível para uso para comunicação com seus clientes. Os emails podem ser HTML (gráficos, fonte personalizada etc.) ou Somente texto (mensagens de texto sem formatação especial). Somente emails de HTML podem gravar "aberturas".</td> 
   </tr> 
   <tr> 
@@ -904,7 +904,7 @@ Abaixo estão as definições para muitos dos termos que você pode encontrar ao
    <td>Um caractere (*) é usado em <strong>Personalização da Web</strong>) que é usada antes ou depois de uma string para substituir qualquer outro caractere em uma string.</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Área de trabalho</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Espaço de trabalho</a></strong></td> 
    <td>Uma área separada no Marketo que contém marketing <strong>ativos</strong>. Por exemplo, você pode ter um espaço de trabalho chamado "América do Norte" que é usado estritamente para marketing nessa região. Europa, Ásia, etc.</td> 
   </tr>  
  </tbody> 
