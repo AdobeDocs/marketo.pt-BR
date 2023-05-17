@@ -2,9 +2,9 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
+source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '424'
 ht-degree: 7%
 
 ---
@@ -65,7 +65,7 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
 
 Webinars interativos aumentam a experiência existente de Eventos e Webinars, fornecendo uma experiência nativa e contínua para que os profissionais de marketing criem, gerenciem e entreguem eventos no Marketo Engage. Personalize webinars de acordo com o tipo de evento e até adicione apresentadores, se desejar. Obtenha insights avançados de engajamento por meio de recursos do Adobe Connect, como pesquisas ao vivo, bate-papo, sessões de perguntas e respostas, cliques em links da Web, downloads de documentos e muito mais. Recupere o registro do webinar diretamente no Marketo Engage e avalie seu desempenho por meio de métricas avançadas de painel.
 
-INFO DE INSCRIÇÃO EM BREVE
+Você pode solicitar [acesso antecipado a esse recurso aqui](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
