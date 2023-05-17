@@ -2,9 +2,9 @@
 description: Sincronização de cancelamentos de assinatura com o Salesforce - Documentos do Marketo - Documentação do produto
 title: Sincronização de cancelamentos de assinatura com o Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
+source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '437'
 ht-degree: 5%
 
 ---
@@ -90,6 +90,6 @@ Recusar email é um campo padrão no Salesforce que está disponível para insta
 
 ## Cancelamento de inscrição no Marketo Sales Engage {#marketo-sales-opt-out}
 
-O campo Rejeição de vendas do Marketo é um campo personalizado disponível para usuários que instalaram as Personalizações de vendas do Marketo.
+O campo Rejeição de vendas do Marketo é um campo personalizado disponível para usuários que instalaram o pacote Marketo Sales Insight [da AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-Depois de instalar com sucesso as Personalizações de vendas da Marketo no Salesforce, você verá o campo Rejeição de vendas da Marketo disponível para você.
+Depois de instalar com sucesso o pacote Marketo Sales Insight, da AppExchange para o Salesforce, você verá o campo Marketo Sales Opt Out (Não participação nas vendas da) disponível para você.
