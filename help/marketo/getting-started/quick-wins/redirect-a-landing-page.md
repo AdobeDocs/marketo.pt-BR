@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359428
-description: Redirecionar uma página de aterrissagem - Documentos do Marketo - Documentação do produto
+description: Redirecionar uma página de aterrissagem - Documentação do Marketo - Documentação do produto
 title: Redirecionar uma página
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
-source-git-commit: 50fc46312d2c7c25556994fad4e118c01cf92fc0
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 28%
+source-wordcount: '139'
+ht-degree: 43%
 
 ---
 
@@ -20,39 +20,39 @@ ht-degree: 28%
 
 >[!PREREQUISITES]
 >
->* [Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
->* [Personalize o URL da página inicial com um CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target=&quot;_blank&quot;}
+>* [Página com formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [Personalize o URL da sua página de aterrissagem com um CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
 
 
 ## Etapa 1: iniciar uma nova regra de redirecionamento {#step-start-a-new-redirect-rule}
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/redirect-a-landing-page-1.png)
 
-1. Ir para **Páginas de aterrissagem**.
+1. Ir para **[!UICONTROL Landing Pages]**.
 
    ![](assets/redirect-a-landing-page-2.png)
 
-1. Clique no botão **Regras** e, em seguida, clique em **Novo** e **Nova regra de redirecionamento**.
+1. Clique em **[!UICONTROL Regras]** e clique em **[!UICONTROL Novo]** e **[!UICONTROL Nova regra de redirecionamento]**.
 
    ![](assets/redirect-a-landing-page-3.png)
 
 ## Etapa 2: definir a regra de redirecionamento {#step-define-the-redirect-rule}
 
-1. Clique no primeiro **URL original** e selecione seu CNAME do Marketo.
+1. Clique no primeiro **[!UICONTROL URL original]** e selecione seu CNAME do Marketo.
 
    ![](assets/redirect-a-landing-page-4.png)
 
    >[!NOTE]
    >
-   >Lembre-se, você só pode redirecionar as landing pages que começam com seu Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target=&quot;_blank&quot;}.
+   >Lembre-se: você só pode redirecionar páginas iniciadas com seu [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"} do Marketo.
 
-1. Clique no segundo **URL original** e selecione a landing page que deseja redirecionar.
+1. Clique no segundo **[!UICONTROL URL original]** e selecione a landing page que deseja redirecionar.
 
    ![](assets/redirect-a-landing-page-5.png)
 
-1. Para **Redirecionar URL** selecione a página que deseja redirecionar e clique em **Criar**.
+1. Para **[!UICONTROL URL de redirecionamento]** selecione a página que deseja redirecionar e clique em **[!UICONTROL Criar]**.
 
    ![](assets/redirect-a-landing-page-6.png)
 

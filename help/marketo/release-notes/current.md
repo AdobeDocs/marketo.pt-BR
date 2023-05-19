@@ -2,30 +2,30 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 7%
+source-wordcount: '431'
+ht-degree: 6%
 
 ---
 
-# Notas de versão: Maio de 2023 {#release-notes-may-23}
+# Notas de versão: maio de 2023 {#release-notes-may-23}
 
-Abaixo você encontrará todos os recursos incluídos na versão de 23 de maio. Verifique sua edição do Adobe Marketo Engage para ver a disponibilidade dos recursos.
+Abaixo você encontrará todos os recursos incluídos na versão de maio de 2023. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
 
 >[!AVAILABILITY]
 >
->Recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
+>Recursos indicados por uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
 
-## Recursos do ciclo de versão padrão {#standard-release-cycle-features}
+## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser lançados em **12 de maio de 2023**, com uma distribuição em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status abaixo de cada recurso.
+Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **12 de maio de 2023**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique abaixo cada recurso para obter seu status.
 
-### UX Moderno do Marketo Engage {#modern-ux}
+### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Interface da Adobe Experience Cloud**: Alinha o Marketo Engage com o Experience Cloud para criar uma experiência de navegação consistente em várias soluções de Experience Cloud em uma única sessão de usuário.
+* **Interface do Adobe Experience Cloud**: alinha o Marketo Engage com o Experience Cloud para criar uma experiência de navegação consistente em várias soluções de Experience Cloud em uma única sessão de usuário.
 
 <table> 
   <tr> 
@@ -39,7 +39,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tbody>
 </table>
 
-* **Central de ajuda do Marketo Engage**: O Centro de ajuda fornece aos usuários do Marketo Engage um local central para encontrar recursos de ajuda dentro do produto. Além disso, a Central de ajuda fornece aos usuários a capacidade de ativar guias no produto que explicam como aproveitar os principais recursos.
+* **Centro de ajuda do Marketo Engage**: o Centro de ajuda fornece aos usuários do Marketo Engage um local central para encontrar recursos de ajuda dentro do produto. Além disso, o Centro de ajuda oferece aos usuários a capacidade de ativar guias no produto que explicam como aproveitar os principais recursos.
 
 <table> 
   <tr> 
@@ -53,9 +53,9 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tbody>
 </table>
 
-## Recursos da versão ágil
+## Recursos da versão Agile
 
-Os seguintes recursos seguem um formato Ágil e são lançados em várias datas, antes ou depois da data de lançamento padrão. Verifique o status abaixo de cada recurso.
+Os seguintes recursos seguem um formato Agile e são lançados em várias datas antes ou depois da data de lançamento padrão. Verifique abaixo cada recurso para obter seu status.
 
 ### Orquestração entre canais {#cross-channel-orchestration}
 
@@ -63,9 +63,9 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
 
 * **Webinars interativos (disponibilidade limitada inicialmente)**:
 
-Webinars interativos aumentam a experiência existente de Eventos e Webinars, fornecendo uma experiência nativa e contínua para que os profissionais de marketing criem, gerenciem e entreguem eventos no Marketo Engage. Personalize webinars de acordo com o tipo de evento e até adicione apresentadores, se desejar. Obtenha insights avançados de engajamento por meio de recursos do Adobe Connect, como pesquisas ao vivo, bate-papo, sessões de perguntas e respostas, cliques em links da Web, downloads de documentos e muito mais. Recupere o registro do webinar diretamente no Marketo Engage e avalie seu desempenho por meio de métricas avançadas de painel.
+Webinars interativos aumentam a experiência existente de Eventos e Webinars, fornecendo uma experiência nativa e contínua para que os profissionais de marketing criem, gerenciem e entreguem eventos no Marketo Engage. Personalize webinars de acordo com o tipo de evento e até mesmo adicione apresentadores, se desejar. Obtenha insights avançados de engajamento por meio de recursos do Adobe Connect, como pesquisas ao vivo, bate-papo, sessões de perguntas e respostas, cliques em links da Web, downloads de documentos e muito mais. Recupere a gravação do webinário diretamente no Marketo Engage e avalie o desempenho por meio de métricas avançadas do painel.
 
-Você pode solicitar [acesso antecipado a esse recurso aqui](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+Os webinários interativos serão lançados gradualmente. Para solicitar acesso antecipado, preencha [este formulário](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
@@ -83,7 +83,7 @@ Você pode solicitar [acesso antecipado a esse recurso aqui](https://forms.offic
 
 </br>
 
-* **Fonte do chat para o bate-papo dinâmico**: O &quot;bate-papo&quot; agora é oferecido como uma fonte de novos registros pessoais e atividades. Essa fonte pode ser usada para ajudar os usuários a filtrar atividades em Smart Lists/Campaigns. A fonte também pode ser bloqueada por atualizações em campos.
+* **Fonte do chat para bate-papo dinâmico**: &quot;Chat&quot; agora é oferecido como uma fonte de novos registros e atividades de pessoas. Essa fonte pode ser usada para ajudar os usuários a filtrar atividades em Smart Lists/Campanhas. A origem também pode ser bloqueada contra atualizações nos campos.
 
 <table> 
   <tr> 
@@ -99,4 +99,4 @@ Você pode solicitar [acesso antecipado a esse recurso aqui](https://forms.offic
 
 ## Anúncios {#announcements}
 
-* **_Webinar da versão do produto_**: Junte-se a nós em 17 de maio de 2023, às 9h PT / 12h ET [para um webinário em tempo real](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} hospedado pela nossa equipe de produtos, onde você pode aprender a usar todas as mais recentes inovações de produtos lançadas em versões de março e maio de 23.
+* **_Webinário de lançamento do produto_**: Junte-se a nós em 17 de maio de 2023, às 9h (PT) / 12h (ET) [para um webinário ao vivo](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} Apresentado pela nossa equipe de produtos, onde você pode aprender a usar todas as inovações de produtos mais recentes fornecidas nas versões de março e maio de 2023.

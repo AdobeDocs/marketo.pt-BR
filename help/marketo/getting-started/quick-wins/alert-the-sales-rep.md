@@ -1,44 +1,44 @@
 ---
 unique-page-id: 2359424
-description: Alertar o representante de vendas - Documentos da Marketo - Documentação do produto
+description: Alertar o Representante de vendas - Documentação do Marketo - Documentação do produto
 title: Alertar o representante de vendas
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-source-git-commit: 1127928b43762086ed4d157719ff80d6c3de9ee3
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 23%
+source-wordcount: '396'
+ht-degree: 25%
 
 ---
 
 # Alertar o representante de vendas {#alert-the-sales-rep}
 
-## Missão: Alertar o representante de vendas quando uma pessoa preencher um formulário em seu site {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
+## Missão: alertar o representante de vendas quando uma pessoa preencher um formulário no seu site {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
-Para enviar automaticamente e-mails de alerta aos representantes de vendas, você só precisa de um e-mail de alerta e uma campanha de e-mail. Aqui está como fazê-lo.
+Para enviar automaticamente e-mails de alerta aos representantes de vendas, você só precisa de um e-mail de alerta e uma campanha de e-mail. Veja como fazer isso.
 
 >[!PREREQUISITES]
 >
->[Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
+>[Página com formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
-## Etapa 1: Criar um email de alerta {#step-create-an-alert-email}
+## Etapa 1: criar um email de alerta {#step-create-an-alert-email}
 
-1. Vá para o **Atividades de marketing** área.
+1. Vá para a **[!UICONTROL Atividades de marketing]** área.
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. Selecionar **Meu programa** criado na [Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vitória rápida, em seguida, em **Novo** click **Novo ativo local**.
+1. Selecionar **Meu programa** que você criou na [Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} vitória rápida, em seguida, em **[!UICONTROL Novo]** click **[!UICONTROL Novo ativo local]**.
 
    ![](assets/alert-the-sales-rep-2.png)
 
-1. Clique em **Email**.
+1. Clique em **[!UICONTROL E-mail]**.
 
    ![](assets/alert-the-sales-rep-3.png)
 
-1. **Nome** o email &quot;Meu alerta de email&quot;, selecione um modelo e clique em **Criar**.
+1. **Nome** o e-mail &quot;Meu alerta por e-mail&quot;, selecione um modelo e clique em **[!UICONTROL Criar]**.
 
    ![](assets/alert-the-sales-rep-4.png)
 
-1. Insira o **Nome do formulário**, **Do Email**, **Responder para** e **Assunto** que você deseja que sua equipe de vendas veja.
+1. Insira o **Do nome**, **Do e-mail**, **[!UICONTROL Responder para]**, e **[!UICONTROL Assunto]** que você deseja que sua equipe de vendas veja.
 
    ![](assets/alert-the-sales-rep-5.png)
 
@@ -50,71 +50,71 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
    ![](assets/alert-the-sales-rep-7.png)
 
-1. Coloque o cursor onde deseja inserir as informações de contato da pessoa e clique no link **Inserir Token** ícone .
+1. Coloque o cursor onde deseja inserir as informações de contato da pessoa e clique no **Inserir token** ícone.
 
    ![](assets/alert-the-sales-rep-8.png)
 
-1. Encontre e selecione o `{{SP_Send_Alert_Info}}` **Token** e clique em **Inserir**.
+1. Localize e selecione o `{{SP_Send_Alert_Info}}` **[!UICONTROL Token]** e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/alert-the-sales-rep-9.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} O é um token especial para emails de alerta. Consulte [Usar o token Enviar informações do alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;}{target=&quot;_blank&quot;} para saber mais.
+   >{{SP_Send_Alert_Info}} O é um token especial para emails de alerta. Consulte [Usar o token de envio de informações de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} para saber mais.
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. Clique no botão **Ações de email** e selecione **Aprovar e fechar**.
+1. Clique em **[!UICONTROL Ações de email]** e selecione **[!UICONTROL Aprovar e fechar]**.
 
    ![](assets/alert-the-sales-rep-11.png)
 
-## Etapa 2: Criar uma campanha de alerta e disparador {#step-create-an-alert-trigger-campaign}
+## Etapa 2: criar uma campanha de acionamento de alerta {#step-create-an-alert-trigger-campaign}
 
-1. Selecionar **Meu programa** criado anteriormente, em seguida, em **Novo** click **Nova Campanha Inteligente**.
+1. Selecionar **Meu programa** criado anteriormente, depois em **[!UICONTROL Novo]** click **[!UICONTROL Nova campanha inteligente]**.
 
    ![](assets/alert-the-sales-rep-12.png)
 
-1. **Nome** a campanha &quot;My Alert Campaign&quot; e clique em **Criar**.
+1. **Nome** a campanha &quot;Minha campanha de alerta&quot; e clique em **[!UICONTROL Criar]**.
 
    ![](assets/alert-the-sales-rep-13.png)
 
-1. Em **Lista inteligente** , localize e arraste a **Preenche Formulário** aciona para a tela.
+1. No **[!UICONTROL Lista inteligente]** , localize e arraste o **[!UICONTROL Preenche o formulário]** acione para a tela.
 
    ![](assets/alert-the-sales-rep-14.png)
 
-1. Selecione o formulário criado anteriormente.
+1. Selecione o formulário que criamos anteriormente.
 
    ![](assets/alert-the-sales-rep-15.png)
 
-1. Em **Fluxo** , localize e arraste a **Enviar alerta** fluxo de ação para a tela.
+1. No **[!UICONTROL Fluxo]** , localize e arraste o **[!UICONTROL Enviar alerta]** ação de fluxo para a tela.
 
    ![](assets/alert-the-sales-rep-16.png)
 
-1. Selecionar **Meu Email de Alerta** criado anteriormente e sair **Enviar para** as **Proprietário de Vendas**.
+1. Selecionar **[!UICONTROL Meu email de alerta]** criado anteriormente e sair **[!UICONTROL Enviar para]** as **[!UICONTROL Proprietário de vendas]**.
 
    ![](assets/alert-the-sales-rep-17.png)
 
-1. Digite seu endereço de e-mail no campo **Para outros e-mails.**
+1. Digite seu endereço de e-mail no campo **[!UICONTROL Para outros e-mails.]**
 
    ![](assets/alert-the-sales-rep-18.png)
 
-1. Vá para o **Agendar** e clique na guia **Ativar** botão.
+1. Vá para a **[!UICONTROL Agendar]** e clique na guia **[!UICONTROL Ativar]** botão.
 
    ![](assets/alert-the-sales-rep-19.png)
 
    >[!TIP]
    >
-   >Defina as **Regras de qualificação** para **sempre** (ao editar a Campanha inteligente) para permitir que a mesma pessoa acione alertas várias vezes.
+   >Defina o **[!UICONTROL Regras de qualificação]** para **[!UICONTROL sempre]** (editando a Campanha inteligente) para permitir que a mesma pessoa acione alertas várias vezes.
 
-1. Clique em **Ativar** na tela de confirmação.
+1. Clique em **[!UICONTROL Ativar]** na tela de confirmação.
 
    ![](assets/alert-the-sales-rep-20.png)
 
-## Etapa 3: Teste! {#step-test-it-out}
+## Etapa 3: Faça Um Teste! {#step-test-it-out}
 
-1. Selecione a landing page e clique em **Exibir página aprovada**.
+1. Selecione a landing page e clique em **[!UICONTROL Visualizar página aprovada]**.
 
    ![](assets/alert-the-sales-21.png)
 
@@ -122,7 +122,7 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
    >
    >Não esqueça de aprovar as páginas, pois elas só são disponibilizadas após a aprovação.
 
-1. Preencha o formulário e clique em **Enviar**.
+1. Preencha o formulário e clique em **[!UICONTROL Enviar]**.
 
    ![](assets/alert-the-sales-22.png)
 
@@ -130,7 +130,7 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
    >[!NOTE]
    >
-   >Clique no botão **Informações da pessoa** no Marketo para ver as informações de contato.
+   >Clique em **[!UICONTROL Informações da pessoa]** no Marketo para ver as informações de contato.
 
 ## Missão cumprida! {#mission-complete}
 
@@ -138,4 +138,4 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
 [◄ Missão 7: personalizar um e-mail](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[Missão 9: Atualizar dados de pessoa ►](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[Missão 9: Atualizar Dados Pessoais ►](/help/marketo/getting-started/quick-wins/update-person-data.md)

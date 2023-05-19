@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359422
-description: Personalizar um email - Documentos do Marketo - Documentação do produto
+description: Personalizar um email - Documentação do Marketo - Documentação do produto
 title: Personalizar um e-mail
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-source-git-commit: 8aa2f3069c0168f57ac00dfc7270484a9045584c
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 27%
+source-wordcount: '331'
+ht-degree: 30%
 
 ---
 
@@ -16,34 +16,34 @@ ht-degree: 27%
 
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [Enviar uma explosão de email](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}
->* [Depuração, Perfuração, Nurtura](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}
+>* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Enviar e-mail por meio de programa de envio](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}
+>* [Promoção gota a gota](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"}
 
 
 ## Etapa 1: selecionar um e-mail para personalizar {#step-select-an-email-to-personalize}
 
-1. Selecione um dos emails de criação criados no [vitória rápida anterior](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} e clique em **Criar rascunho**.
+1. Selecione um dos emails de criação criados na [vitória rápida anterior](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} e clique em **[!UICONTROL Criar rascunho]**.
 
    ![](assets/personalize-an-email-1.png)
 
    >[!NOTE]
    >
-   >Isso criará uma cópia do e-mail como rascunho. Lembre-se de aprovar o rascunho para que as alterações sejam ativadas.
+   >Isso criará uma cópia do e-mail como rascunho. Lembre-se de aprovar o rascunho para que as alterações entrem em vigor.
 
-Se você não tiver ativado um bloqueador de pop-ups, o editor de email será aberto em uma nova guia/janela. Caso contrário, clique em **Criar rascunho** duas vezes.
+Se você não tiver ativado um bloqueador de pop-ups, o editor de email será aberto em uma nova guia/janela. Caso contrário, clique **[!UICONTROL Criar rascunho]** duas vezes.
 
 ## Etapa 2: Transformar o Vendedor no Remetente {#step-make-the-salesperson-the-sender}
 
-1. Selecione o **De** campo, destaque e **excluir** o nome atual.
+1. Selecione o **[!UICONTROL De]** campo, destaque e **excluir** o nome atual.
 
    ![](assets/personalize-an-email-2.png)
 
-1. Clique no botão **Token** à direita do **De** campo.
+1. Clique em **Token** ícone à direita do **[!UICONTROL De]** campo.
 
    ![](assets/personalize-an-email-3.png)
 
-1. Encontre e selecione o **`{{lead.Lead Owner First Name}}`** token.
+1. Localize e selecione o **`{{lead.Lead Owner First Name}}`** token.
 
    ![](assets/personalize-an-email-4.png)
 
@@ -51,33 +51,33 @@ Se você não tiver ativado um bloqueador de pop-ups, o editor de email será ab
 
    ![](assets/personalize-an-email-5.png)
 
-1. Clique na barra de espaço no **De** , certificando-se de que o cursor esteja piscando um espaço após o token inserido. Em seguida, clique no botão **Token** ícone novamente.
+1. Aperte a barra de espaço no **[!UICONTROL De]** , certificando-se de que o cursor pisca um espaço após o token que você acabou de inserir. Em seguida, clique no link **Token** ícone novamente.
 
    ![](assets/personalize-an-email-6.png)
 
-1. Encontre e selecione o **`{{lead.Lead Owner Last Name}}`** token.
+1. Localize e selecione o **`{{lead.Lead Owner Last Name}}`** token.
 
    ![](assets/personalize-an-email-7.png)
 
-1. Digite &quot;Vendas&quot; para a **Valor padrão** e clique em **Inserir**.
+1. Digite &quot;Vendas&quot; para o **Valor padrão** e clique em **Inserir**.
 
    ![](assets/personalize-an-email-8.png)
 
 ## Etapa 3: adicionar o nome do lead ao e-mail {#step-add-the-leads-name-to-the-email}
 
-1. Selecione a seção editável superior, clique no ícone de engrenagem e selecione **Editar**.
+1. Selecione a seção editável superior, clique no ícone de engrenagem e selecione **[!UICONTROL Editar]**.
 
    ![](assets/personalize-an-email-9.png)
 
-1. Adicione um espaço depois de &quot;Hello&quot;, coloque o cursor na frente da vírgula e clique no botão **Inserir Token** ícone .
+1. Adicione um espaço após &quot;Hello&quot;, coloque o cursor na frente da vírgula e clique no botão **Inserir token** ícone.
 
    ![](assets/personalize-an-email-10.png)
 
-1. Encontre e selecione o **`{{lead.First Name}}`** token.
+1. Localize e selecione o **`{{lead.First Name}}`** token.
 
    ![](assets/personalize-an-email-11.png)
 
-1. Insira &quot;Amigo&quot; (ou qualquer rótulo que você desejar) no **Valor padrão** e clique em **Inserir**.
+1. Insira &quot;Friend&quot; (ou qualquer rótulo que desejar) na **[!UICONTROL Valor padrão]** e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/personalize-an-email-12.png)
 
@@ -85,17 +85,17 @@ Se você não tiver ativado um bloqueador de pop-ups, o editor de email será ab
    >
    >Sempre inclua um valor padrão para os tokens, pois isso garante que o valor padrão seja exibido no e-mail caso faltem algumas das informações pessoais.
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/personalize-an-email-13.png)
 
-1. Em **Ações de email** e selecione **Aprovar e fechar**.
+1. Em **[!UICONTROL Ações de email]** e selecione **[!UICONTROL Aprovar e fechar]**.
 
    ![](assets/personalize-an-email-14.png)
 
 >[!TIP]
 >
->Precisa de uma dica rápida para lembrar como enviar o e-mail para si mesmo? Consulte [Enviar uma explosão de email](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}.
+>Precisa de uma dica rápida para lembrar como enviar o e-mail para si mesmo? Consulte [Enviar uma explosão de e-mail](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}.
 
 ### Missão cumprida {#mission-complete}
 
