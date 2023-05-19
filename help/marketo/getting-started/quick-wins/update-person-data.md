@@ -1,34 +1,34 @@
 ---
 unique-page-id: 2359426
-description: Atualizar dados de pessoa - Documentos do Marketo - Documentação do produto
-title: Atualizar dados de pessoa
+description: Atualizar dados da pessoa - Documentação do Marketo - Documentação do produto
+title: Atualizar dados da pessoa
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 24%
+source-wordcount: '158'
+ht-degree: 26%
 
 ---
 
-# Atualizar dados de pessoa {#update-person-data}
+# Atualizar dados da pessoa {#update-person-data}
 
-## Missão: Atualizar as informações de contato de uma pessoa ou outros dados {#mission-update-a-persons-contact-info-or-other-data}
+## Missão: atualizar as informações de contato de uma pessoa ou outros dados {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
+>* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 
-Vamos imaginar que em sua apresentação comercial recente, uma pessoa lhe deu algumas informações de contato adicionais. Veja como atualizar os dados de pessoas.
+Imagine que, em sua recente feira de negócios, uma pessoa tenha fornecido informações adicionais de contato. Veja como atualizar os dados da pessoa.
 
 ## Encontre a pessoa que você precisa atualizar {#find-the-person-you-need-to-update}
 
-1. Vá para seu banco de dados.
+1. Vá para o **[!UICONTROL Banco de dados]**.
 
    ![](assets/update-person-data-1.png)
 
-1. Pesquise o nome ou o endereço de email da pessoa.
+1. Pesquise o nome ou endereço de email da pessoa.
 
    >[!TIP]
    >
@@ -36,15 +36,15 @@ Vamos imaginar que em sua apresentação comercial recente, uma pessoa lhe deu a
 
    ![](assets/update-person-data-2.png)
 
-1. Clique duas vezes para abrir o detalhe da pessoa.
+1. Clique duas vezes para abrir os detalhes da pessoa.
 
    ![](assets/update-person-data-3.png)
 
    >[!TIP]
    >
-   >Há muitas maneiras de atualizar dados de pessoas no Marketo. Consulte [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} e [Alterar valor de dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;}.
+   >Há várias maneiras de atualizar dados pessoais no Marketo. Consulte [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
-## Atualizar os dados de pessoa {#update-the-person-data}
+## Atualizar os dados da pessoa {#update-the-person-data}
 
 1. Digite as novas informações recebidas e feche a guia.
 

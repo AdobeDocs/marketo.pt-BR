@@ -2,10 +2,10 @@
 title: Documentos de produtos da Marketo
 description: Documentos de produtos da Marketo
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 25%
+source-wordcount: '49'
+ht-degree: 30%
 
 ---
 
@@ -17,18 +17,18 @@ ht-degree: 25%
 
 * [Etapas de configuração](/help/marketo/getting-started/setup/setup-steps.md)
 * [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
-* [Configurar protocolos para Marketo](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
+* [Configurar protocolos para o Marketo](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
 * [Glossário do Marketo](/help/marketo/getting-started/marketo-glossary.md)
 
 ## Artigos populares
 
-* [Noções básicas sobre a sincronização do Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [Compreender o [!DNL Salesforce] Sincronizar](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [Noções básicas sobre a sincronização do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [Compreender o [!DNL Microsoft Dynamics] Sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [Noções básicas sobre campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
-* [Visão geral da experiência do Adobe Marketo Engage Next Gen UX](/help/marketo/product-docs/marketo-engage-modern-ux/overview.md)
+* [Visão geral da experiência de UX da próxima geração da Adobe Marketo Engage](/help/marketo/product-docs/marketo-engage-modern-ux/overview.md)
 
 ## Notas de versão
 
