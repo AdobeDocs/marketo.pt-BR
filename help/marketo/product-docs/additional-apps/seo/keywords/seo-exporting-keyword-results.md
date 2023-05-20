@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2949210
-description: SEO - Exportação de resultados de palavras-chave - Documentos do Marketo - Documentação do produto
-title: SEO - Exportar resultados de palavra-chave
+description: SEO - Exportação de resultados de palavras-chave - Documentação do Marketo - Documentação do produto
+title: SEO - Exportação de Resultados de Palavras-chave
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%
 
 ---
 
-# SEO - Exportar resultados de palavra-chave {#seo-exporting-keyword-results}
+# SEO - Exportação de Resultados de Palavras-chave {#seo-exporting-keyword-results}
 
-Você pode exportar os resultados de palavras-chave para compartilhar com a sua equipe ou para criar um relatório.
+É possível exportar os resultados de palavras-chave para compartilhar com a equipe ou criar um relatório.
 
-1. Vá para o **Palavras-chave** seção.
+1. Vá para a **[!UICONTROL Palavras-chave]** seção.
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
-1. Clique em **Exportar**.
+1. Clique em **[!UICONTROL Exportar]**.
 
    ![](assets/image2014-9-18-12-3a51-3a25.png)
 
-   Sim, é realmente fácil.
+   Sim, é tão fácil assim.

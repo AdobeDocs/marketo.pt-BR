@@ -1,24 +1,24 @@
 ---
 unique-page-id: 2949206
-description: SEO - Importação de palavras-chave com um CSV - Documentos do Marketo - Documentação do produto
+description: SEO - Importação de palavras-chave com um CSV - Documentação do Marketo - Documentação do produto
 title: SEO - Importação de palavras-chave com um CSV
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # SEO - Importação de palavras-chave com um CSV {#seo-importing-keywords-with-a-csv}
 
-1. Você pode [adicionar palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obter sugestões de palavra-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e até mesmo importe palavras-chave de um arquivo CSV. Veja como fazer a importação.
+1. Você pode [adicionar palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obter sugestões de palavra-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e até mesmo importar palavras-chave de um arquivo CSV. Veja como fazer a importação.
 
-1. Vá para o **Palavras-chave** seção.
+1. Vá para a **[!UICONTROL Palavras-chave]** seção.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Clique em **Importar**.
+1. Clique em **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -26,26 +26,28 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Clique em **Escolher arquivo**.
+1. Clique em **[!UICONTROL Escolher arquivo]**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
    >[!NOTE]
    >
-   >Os limites de importação variam dependendo da sua assinatura. Entre em contato com seu representante de vendas para obter mais informações.
+   >Os limites de importação variam de acordo com sua assinatura. Entre em contato com seu representante de vendas para obter mais informações.
 
-1. Clique em **Importar**.
+1. Clique em **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
-   Você deve ver suas novas palavras-chave exibidas na lista de palavras-chave em ordem alfabética.
+   Você deve ver suas novas palavras-chave exibidas em ordem alfabética na lista de palavras-chave.
 
    ![](assets/image2014-9-18-11-3a45-3a30.png)
 
-   Pode levar alguns minutos para carregar todos os dados associados a cada palavra-chave. Medita sobre o significado da vida.
+   >[!NOTE]
+   >
+   >Pode levar alguns minutos para carregar todos os dados associados a cada palavra-chave.
 
    >[!MORELIKETHIS]
    >
-   >* [Compreensão de palavras-chave (Visualização de resumo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Adicionar/remover palavras-chave de uma lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [Noções básicas sobre palavras-chave (exibição de resumo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Adicionar/Remover Palavras-chave de uma Lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 

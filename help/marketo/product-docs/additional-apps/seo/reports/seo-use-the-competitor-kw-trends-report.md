@@ -1,30 +1,30 @@
 ---
 unique-page-id: 2949270
-description: SEO - Usar o relatório de tendências do KW do concorrente - Documentos da Marketo - Documentação do produto
-title: SEO - Usar o relatório de tendências do KW do concorrente
+description: SEO - Use o Relatório de tendências do KW do concorrente - Documentação do Marketo - Documentação do produto
+title: SEO - Uso do Relatório de Tendências do KW Concorrente
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '182'
 ht-degree: 3%
 
 ---
 
-# SEO - Usar o relatório de tendências do KW do concorrente {#seo-use-the-competitor-kw-trends-report}
+# SEO - Uso do Relatório de Tendências do KW Concorrente {#seo-use-the-competitor-kw-trends-report}
 
-Neste relatório, você pode ver como você e seus concorrentes são classificados com base em palavras-chave ao longo do tempo.
+Neste relatório, você pode ver como você e seus concorrentes são classificados em palavras-chave ao longo do tempo.
 
 ## Localizar Relatórios {#find-reports}
 
-1. Ir para **Relatórios**.
+1. Ir para **[!UICONTROL Relatórios]**.
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Clique em **Tendências da Classificação de KW Competitiva**.
+1. Clique em **[!UICONTROL Tendências de classificação do concorrente KW]**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
-## Gráfico de Tendências da Classificação KW {#kw-rank-trends-graph}
+## Gráfico de tendências de classificação do KW {#kw-rank-trends-graph}
 
 Este gráfico pode mostrar a porcentagem de suas palavras-chave classificadas em um intervalo especificado e como seus concorrentes se acumulam.
 
@@ -32,29 +32,27 @@ Este gráfico pode mostrar a porcentagem de suas palavras-chave classificadas em
 
 | Item | Descrição |
 |---|---|
-| Palavras-chave | O número de palavras-chave que você está rastreando. |
-| URLs de classificação | O número de URLs na classificação do seu site no intervalo definido. |
-| % na classificação | A porcentagem da classificação de palavras-chave no intervalo definido. |
-| Méd. pesquisas | O número médio de pesquisas nas palavras-chave que ocorreram durante o intervalo definido (nos últimos 30 dias, na pesquisa Google US) |
+| [!UICONTROL Palavras-chave] | O número de palavras-chave que você está rastreando. |
+| [!UICONTROL Classificar URLs] | O número de URLs na classificação do site no intervalo definido. |
+| [!UICONTROL % na classificação] | A porcentagem de classificação de palavras-chave no intervalo definido. |
+| [!UICONTROL Méd. pesquisas] | O número médio de pesquisas nessas palavras-chave que ocorreram durante o intervalo definido (nos últimos 30 dias, na pesquisa do Google nos EUA) |
 
 ## Filtrar dados {#filtering-data}
 
-1. Clique na lista suspensa e selecione o período de tempo desejado.
+1. Clique na lista suspensa e selecione o período desejado.
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Clique no botão **Classificação** lista suspensa para escolher o intervalo de classificação no qual deseja exibir as palavras-chave.
+1. Clique em **[!UICONTROL Classificação]** para escolher para qual intervalo de classificação você deseja exibir palavras-chave.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exportando dados  {#exporting-data}
+## Exportando dados {#exporting-data}
 
 >[!TIP]
 >
 >Você pode exportar este relatório para sua área de trabalho.
 
-1. Clique em **Exportar CSV** ou **Export PDF**.
+1. Clique em **[!UICONTROL Exportar CSV]** ou **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)
-
-   Um+ trabalho!

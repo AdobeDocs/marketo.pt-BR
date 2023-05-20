@@ -1,20 +1,20 @@
 ---
 unique-page-id: 2949243
-description: SEO - Adicionar/remover colunas da exibição de palavras-chave - Documentos do Marketo - Documentação do produto
-title: SEO - Adicionar/remover colunas da exibição de palavras-chave
+description: SEO - Adicionar/Remover Colunas Da Exibição De Palavras-Chave - Documentação Do Marketo - Documentação Do Produto
+title: SEO - Adicionar/Remover Colunas da Exibição de Palavras-chave
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 1%
 
 ---
 
-# SEO - Adicionar/remover colunas da exibição de palavras-chave {#seo-add-remove-columns-from-your-keywords-view}
+# SEO - Adicionar/Remover Colunas da Exibição de Palavras-chave {#seo-add-remove-columns-from-your-keywords-view}
 
-É possível ajustar a exibição de palavra-chave para exibir os dados em que você está mais interessado.
+Você pode ajustar a visualização de palavras-chave para exibir os dados nos quais está mais interessado.
 
-1. Vá para o **Palavras-chave** seção.
+1. Vá para a **[!UICONTROL Palavras-chave]** seção.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -26,14 +26,14 @@ ht-degree: 1%
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Selecione ou desmarque as colunas que deseja visualizar. Clique em **Salvar**.
+1. Selecione ou desmarque as colunas que deseja ver. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   Ótimo! Agora você personalizou sua exibição de palavra-chave.
+   Ótimo! Agora você personalizou sua visualização de palavra-chave.
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
    >[!MORELIKETHIS]
    >
-   >[Compreensão de palavras-chave - Visualização de resumo](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Noções básicas sobre palavras-chave - Exibição de resumo](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

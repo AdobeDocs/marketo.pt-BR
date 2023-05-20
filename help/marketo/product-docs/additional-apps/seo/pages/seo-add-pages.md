@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2949216
-description: SEO - Adicionar páginas - Documentos do Marketo - Documentação do produto
+description: SEO - Adicionar páginas - Documentação do Marketo - Documentação do produto
 title: SEO - Adicionar páginas
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -12,17 +12,17 @@ ht-degree: 0%
 
 # SEO - Adicionar páginas {#seo-add-pages}
 
-Você tem páginas! O SEO do Marketo rastreará automaticamente seu site e o rastreará. Caso tenha perdido alguns, coloque-os no aplicativo SEO da seguinte maneira:
+Você tem páginas! O SEO da Marketo rastreará automaticamente seu site e os rastreará. Caso tenhamos perdido alguns, coloque-os no aplicativo SEO desta forma:
 
-1. Vá para o **Páginas** seção.
+1. Vá para a **[!UICONTROL Páginas]** seção.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Clique em **Adicionar páginas**.
+1. Clique em **[!UICONTROL Adicionar páginas]**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Digite os URLs que deseja adicionar. Clique em **Adicionar**.
+1. Digite os URLs que você deseja adicionar. Clique em **[!UICONTROL Adicionar]**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
@@ -34,4 +34,4 @@ Você tem páginas! O SEO do Marketo rastreará automaticamente seu site e o ras
 
    ![](assets/image2014-9-18-12-3a57-3a10.png)
 
-   Agora você pode acompanhar o desempenho desta página na pesquisa.
+   Agora você pode rastrear o desempenho desta página na pesquisa.

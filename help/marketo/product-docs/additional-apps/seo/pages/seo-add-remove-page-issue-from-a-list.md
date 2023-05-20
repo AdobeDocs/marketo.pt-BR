@@ -1,48 +1,48 @@
 ---
 unique-page-id: 2949266
-description: SEO - Adicionar/remover problema de página de uma lista - Documentos do Marketo - Documentação do produto
-title: SEO - Adicionar/remover problema de página de uma lista
+description: SEO - Adicionar/remover problema de página de uma lista - Documentação do Marketo - Documentação do produto
+title: SEO - Adicionar/Remover Problema da Página de uma Lista
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# SEO - Adicionar/remover problema de página de uma lista {#seo-add-remove-page-issue-from-a-list}
+# SEO - Adicionar/Remover Problema da Página de uma Lista {#seo-add-remove-page-issue-from-a-list}
 
 Você pode organizar os problemas da página em listas. Você também pode remover problemas de página de uma lista.
 
 ## Adicionar problemas de página a uma lista {#add-page-issues-to-a-list}
 
-1. Vá para o **Páginas** seção.
+1. Vá para a **[!UICONTROL Páginas]** seção.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. Na guia Páginas , clique em **Problemas**.
+1. No **[!UICONTROL Páginas]** clique em **[!UICONTROL Problemas]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Passe o mouse sobre o problema de página que deseja adicionar. Clique em **Adicionar/remover da lista**.
+1. Passe o mouse sobre o problema de página que deseja adicionar. Clique em **[!UICONTROL Adicionar/Remover da Lista]**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
-   Clique na lista na qual você deseja adicionar o problema da página.
+   Clique na lista à qual você deseja adicionar um problema de página.
 
    ![](assets/image2014-9-18-14-3a3-3a44.png)
 
    >[!TIP]
    >
-   >Você também pode fazer uma nova lista para a palavra-chave ir. Basta digitar o nome desejado em Criar uma nova lista.
+   >Você também pode criar uma nova lista para sua palavra-chave. Basta digitar o nome desejado em **[!UICONTROL Criar uma nova lista]**.
 
 ## Remover problema de página de uma lista {#remove-page-issue-from-a-list}
 
-1. Vá para a seção Pages .
+1. Vá para a **[!UICONTROL Páginas]** seção.
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. Na guia páginas , clique em **Problemas**.
+1. Na guia Páginas, clique em **[!UICONTROL Problemas]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -50,12 +50,12 @@ Você pode organizar os problemas da página em listas. Você também pode remov
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Passe o mouse sobre o problema de página que deseja remover. Clique em **Adicionar/remover da lista**.
+1. Passe o mouse sobre o problema de página que deseja remover. Clique em **[!UICONTROL Adicionar/Remover da Lista]**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
-1. A lista que você gostaria de organizar deve ser verificada. Clique no nome da lista para remover o problema de página dessa lista.
+1. A lista que você deseja organizar deve ser verificada. Clique no nome da lista para remover o problema de página desta lista.
 
    ![](assets/image2014-9-18-14-3a4-3a52.png)
 
-Excelente! Atualize sua página e não a verá mais na lista.
+Excelente! Atualize a página e ela não aparecerá mais na lista.
