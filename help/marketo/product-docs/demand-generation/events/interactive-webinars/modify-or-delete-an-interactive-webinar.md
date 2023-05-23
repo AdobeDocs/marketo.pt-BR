@@ -1,35 +1,33 @@
 ---
-description: Modificar ou excluir um webinar interativo - Documentos do Marketo - Documentação do produto
-title: Modificar ou excluir um webinar interativo
-hide: true
-hidefromtoc: true
+description: Modificar ou excluir um webinário interativo - Documentação do Marketo - Documentação do produto
+title: Modificar ou excluir um webinário interativo
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
-# Modificar ou excluir um webinar interativo {#modify-or-delete-an-interactive-webinar}
+# Modificar ou excluir um webinário interativo {#modify-or-delete-an-interactive-webinar}
 
-Saiba como fazer alterações em seu Webinar interativo.
+Saiba como fazer alterações no webinário interativo.
 
-## Modificar um webinar interativo {#modify-an-interactive-webinar}
+## Modificar um webinário interativo {#modify-an-interactive-webinar}
 
-1. Selecione o Programa de evento desejado e clique em **Alterar Sala/Modelo**.
+1. Selecione o programa de evento desejado e clique em **Alterar Sala/Modelo**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. O quarto vai carregar. Se quiser alterar a sala, selecione uma no menu suspenso Salas. Para atualizar seu modelo, clique em **Usar Sala**.
+1. O quarto será carregado. Se quiser alterar a sala, selecione uma no menu suspenso Salas. Para apenas atualizar seu modelo, clique em **Usar sala**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
 >[!NOTE]
 >
->Mudar de quarto é opcional e não é necessário atualizar seu modelo.
+>Mudar sua sala é opcional e não é necessário para atualizar seu modelo.
 
-1. Clique em **Refine Seu Webinar Agora**.
+1. Clique em **Refine seu webinário agora**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-3.png)
 
@@ -41,9 +39,9 @@ Saiba como fazer alterações em seu Webinar interativo.
 
    ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
-## Reprogramar um webinar interativo {#reschedule-an-interactive-webinar}
+## Reprogramar um webinário interativo {#reschedule-an-interactive-webinar}
 
-1. Selecione o Programa de evento desejado e clique no ícone de lápis ao lado da data/hora programada no momento.
+1. Selecione o Programa de evento desejado e clique no ícone de lápis ao lado da data/hora agendada no momento.
 
    ![](assets/modify-or-delete-an-interactive-webinar-6.png)
 
@@ -63,25 +61,25 @@ Saiba como fazer alterações em seu Webinar interativo.
 
    >[!TIP]
    >
-   >Você também pode clicar com o botão direito do mouse no Programa de eventos na árvore e selecionar **Clonar** de lá.
+   >Além disso, é possível clicar com o botão direito do mouse no Programa de evento na árvore e selecionar **Clonar** a partir daí.
 
-1. Dê um nome ao programa clonado, defina o Espaço de trabalho e o Destino (se desejar que o programa viva em outro lugar) e clique em **Salvar**.
+1. Dê um nome ao programa clonado, defina o Espaço de trabalho e o Destino (se desejar que o programa fique em outro lugar) e clique em **Salvar**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
-1. Clique em **Próximo**.
+1. Clique em **Próxima**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
 
    >[!NOTE]
    >
-   >Você só pode salvar um Webinar interativo clonado como um Webinar interativo no momento. Salvar um webinar clonado como um webinar de parceiro (por exemplo, Zoom, ON24, etc.) estará disponível em breve.
+   >Você só pode salvar um Webinar interativo clonado como um Webinar interativo no momento. Salvar um webinário clonado como um webinário de parceiro (por exemplo, Zoom, ON24 etc.) estará disponível em breve.
 
 1. Escolha as configurações do webinário clonado e clique em **Clonar**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
-## Excluir um webinar interativo {#delete-an-interactive-webinar}
+## Excluir um webinário interativo {#delete-an-interactive-webinar}
 
 1. Selecione o Programa de evento desejado.
 
@@ -93,7 +91,7 @@ Saiba como fazer alterações em seu Webinar interativo.
 
    >[!TIP]
    >
-   >Você também pode clicar com o botão direito do mouse no Programa de eventos na árvore e selecionar **Excluir** de lá.
+   >Além disso, é possível clicar com o botão direito do mouse no Programa de evento na árvore e selecionar **Excluir** a partir daí.
 
 1. Clique em **Excluir**.
 
