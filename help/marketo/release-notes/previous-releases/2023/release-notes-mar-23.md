@@ -1,31 +1,31 @@
 ---
-description: Notas de versão - março de 2023 - Documentação da Marketo - Documentação do produto
+description: Notas de versão - março de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - março de 2023
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
+source-git-commit: 68752faf80abb93e84e4cc7190c7f5469e3f689c
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '613'
 ht-degree: 7%
 
 ---
 
-# Notas de versão: Março de 2023 {#release-notes-mar-23}
+# Notas de versão: março de 2023 {#release-notes-mar-23}
 
-Abaixo você encontrará todos os recursos incluídos na versão de 23 de março. Verifique sua edição do Adobe Marketo Engage para ver a disponibilidade dos recursos.
+Abaixo você encontrará todos os recursos incluídos na versão de março de 2023. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
 
 >[!AVAILABILITY]
 >
->Recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
+>Recursos indicados por uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
 
-## Recursos do ciclo de versão padrão {#standard-release-cycle-features}
+## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser lançados em **31 de março de 2023**, com uma distribuição em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status abaixo de cada recurso.
+Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **31 de março de 2023**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique abaixo cada recurso para obter seu status.
 
-### UX Moderno do Marketo Engage {#modern-ux}
+### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Aprimorado Usado pelo Componente para Detalhes do modelo de página de aterrissagem e Detalhes do formulário**: A nova guia Usada pela interface do usuário fornece informações adicionais em Detalhes do modelo da página de aterrissagem e Detalhes do formulário, incluindo mais detalhes sobre os ativos que usaram um ativo selecionado. Execute análises em listas longas de ativos por meio dos recursos de pesquisa, classificação e filtragem.
+* **Aprimorado Usado pelo componente para obter detalhes do modelo da página de aterrissagem e detalhes do formulário**: a guia Novo usado por fornece informações adicionais em Detalhes do modelo de página de aterrissagem e Detalhes do formulário, incluindo mais detalhes sobre os ativos que usaram um ativo selecionado. Faça análises em listas longas de ativos por meio dos recursos de pesquisa, classificação e filtragem.
 
 <table> 
   <tr> 
@@ -39,7 +39,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tbody>
 </table>
 
-* **Remover Alternar Switch e Experiência Clássica das Páginas de Aterrissagem**: A desaprovação do Alternar Switch e da experiência clássica para páginas de aterrissagem ajudará você a adotar completamente a nova experiência. A nova experiência permite a utilização completa das funcionalidades fornecidas com esses ativos sem precisar depender da experiência antiga ou ter que alternar constantemente entre as duas experiências.
+* **Remover alternância e experiência clássica das páginas de aterrissagem**: a desativação da opção de alternância e da experiência clássica para páginas de aterrissagem ajudará você a adotar completamente a nova experiência. A nova experiência permite a utilização completa das funcionalidades fornecidas com esses ativos sem precisar depender da experiência antiga ou alternar constantemente entre as duas experiências.
 
 <table> 
   <tr> 
@@ -53,7 +53,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tbody>
 </table>
 
-* **Melhorias no desempenho do nó de árvore**: Aqueles com um grande número de nós de árvore verão uma melhoria significativa no desempenho.
+* **Melhorias no desempenho dos nós de árvore**: aqueles com um grande número de nós de árvore observarão uma melhoria significativa no desempenho.
 
 <table> 
   <tr> 
@@ -71,7 +71,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
 
 </br>
 
-* **Atualize a Integração do Marketo Facebook para usar a Atualização da API do Facebook Graph**: Com a atualização recente da Facebook para a API do Facebook Graph v15, agora há um limite de 500 públicos-alvo personalizados que podem ser criados para uma conta de anúncio específica.
+* **Atualize a Integração do Marketo Facebook para usar a Atualização da API do Facebook Graph**: com a recente atualização do Facebook para a API Graph v15 da Facebook, agora há um limite de 500 públicos-alvo personalizados que podem ser criados para uma conta de anúncio específica.
 
 <table> 
   <tr> 
@@ -79,35 +79,21 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
 
-## Recursos da versão ágil
+## Recursos da versão Agile
 
-Os seguintes recursos seguem um formato Ágil e são lançados em várias datas, antes ou depois da data de lançamento padrão. Verifique o status abaixo de cada recurso.
+Os seguintes recursos seguem um formato Agile e são lançados em várias datas antes ou depois da data de lançamento padrão. Verifique abaixo cada recurso para obter seu status.
 
 ### Chat dinâmico {#dynamic-chat}
 
 </br>
 
-* **Relatório de participação no diálogo para bate-papo dinâmico**: Fornece uma visualização da participação na caixa de diálogo ao longo do tempo, incluindo a capacidade de filtrar por tipo de visitante e tipo de envolvimento para fornecer melhor visibilidade para os usuários.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Atualizações de documentação</b></td>
-  </tr>
-  <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Funções e permissões para o bate-papo dinâmico**: Apresenta funções e permissões ao Dynamic Chat, permitindo que os administradores limitem a visibilidade e o uso de diferentes áreas do aplicativo para tipos de usuários selecionados.
+* **Relatório de engajamento na caixa de diálogo do Dynamic Chat**: fornece uma visualização do envolvimento da caixa de diálogo ao longo do tempo, incluindo a capacidade de filtrar por tipo de visitante e tipo de envolvimento para fornecer melhor visibilidade aos usuários.
 
 <table> 
   <tr> 
@@ -121,7 +107,7 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
   </tbody>
 </table>
 
-* **Bate-papo como canal do programa para bate-papo dinâmico**: Cria um novo Canal de programa de &quot;Bate-papo&quot; para acompanhar a progressão do programa para pessoas adquiridas pelo Bate-papo dinâmico. Por exemplo, um comerciante tem um programa associado a uma caixa de diálogo dinâmica de bate-papo para capturar novos leads. Agora, eles podem atribuir esse programa ao canal de Chat para que possam rastrear quando os leads são membros do programa e quando eles obtiveram sucesso.
+* **Funções e permissões para o Dynamic Chat**: apresenta funções e permissões ao Dynamic Chat, permitindo que os administradores limitem a visibilidade e o uso de diferentes áreas do aplicativo para tipos de usuários selecionados.
 
 <table> 
   <tr> 
@@ -135,7 +121,7 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
   </tbody>
 </table>
 
-* **Atributos inferiores para o bate-papo dinâmico**: Garante que os dados IP inferidos (cidade, estado, país etc.) é gravada no registro de pessoa para novas pessoas adquiridas pelo Dynamic Chat.
+* **Bate-papo como um canal de programa para o Dynamic Chat**: cria um novo canal de programa &quot;Chat&quot; para rastrear a progressão do programa para as pessoas adquiridas pelo Dynamic Chat. Por exemplo, um profissional de marketing tem um programa associado a uma caixa de diálogo de chat dinâmica para capturar novos leads. Agora, eles podem atribuir esse programa ao canal de bate-papo para que possam rastrear quando os leads são membros do programa e quando eles alcançaram o sucesso.
 
 <table> 
   <tr> 
@@ -149,7 +135,7 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
   </tbody>
 </table>
 
-* **Suporte de idioma adicional para bate-papo dinâmico**: Agora é possível escolher entre nove idiomas compatíveis para exibir o conteúdo estático do Dynamic Chat no.
+* **Atributos inferidos para o bate-papo dinâmico**: garante que os dados de IP inferidos (cidade, estado, país etc.) é gravado no registro pessoal para novas pessoas adquiridas pelo Dynamic Chat.
 
 <table> 
   <tr> 
@@ -163,7 +149,21 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
   </tbody>
 </table>
 
-* **Ir para Nó na Visualização do Stream Designer para Bate-papo Dinâmico**: Salte diretamente em um nó no Designer de fluxo no painel de visualização.
+* **Suporte de idioma adicional para o Dynamic Chat**: agora você pode escolher entre nove idiomas compatíveis para exibir o conteúdo estático do Dynamic Chat no.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Atualizações de documentação</b></td>
+  </tr>
+  <tr> 
+   <td>Remetido</td>
+   <td>n/d</td>
+  </tr>
+  </tbody>
+</table>
+
+* **Ir para o nó na visualização do Stream Designer para o Dynamic Chat**: Salte diretamente para um nó no Stream Designer do painel de visualização.
 
 <table> 
   <tr> 
@@ -179,4 +179,4 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
 
 ## Anúncios {#announcements}
 
-* **_Webinar da versão do produto_**: Junte-se a nós em 17 de maio de 2023, às 9h PT / 12h ET [para um webinário em tempo real](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} hospedado pela nossa equipe de produtos, onde você pode aprender a usar todas as mais recentes inovações de produtos lançadas em versões de março e maio de 23.
+* **_Webinário de lançamento do produto_**: Junte-se a nós em 17 de maio de 2023, às 9h (PT) / 12h (ET) [para um webinário ao vivo](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} Apresentado pela nossa equipe de produtos, onde você pode aprender a usar todas as inovações de produtos mais recentes fornecidas nas versões de março e maio de 2023.

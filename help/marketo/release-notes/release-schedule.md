@@ -3,23 +3,23 @@ unique-page-id: 5472490
 description: Programação de lançamento - Documentação do Marketo - Documentação do produto
 title: Programação de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 68752faf80abb93e84e4cc7190c7f5469e3f689c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '136'
+ht-degree: 9%
 
 ---
 
 # Programação de lançamento {#release-schedule}
 
-**Versão**: O mês/ano de cada versão. Uma vez disponíveis, as notas de versão serão vinculadas na tabela abaixo.
+**Versão**: o mês/ano de cada versão. Uma vez disponíveis, as notas de versão serão vinculadas na tabela abaixo.
 
-**Data de lançamento**: A implantação normalmente começa na terça-feira da semana do lançamento, com a maior parte da atualização ocorrendo na noite de sexta-feira. Um email é enviado com datas específicas e detalhes de lançamento. A data listada é para a atualização de sexta-feira.
+**Data de lançamento**: a implantação normalmente começa na terça-feira da semana de lançamento, com a maior parte da atualização acontecendo na sexta-feira à noite. Um email é enviado com datas específicas e detalhes da versão. A data listada é para a atualização de sexta-feira.
 
 **Status**:
 
-* Conforme o cronograma - estamos planejando lançar os recursos e as melhorias na data indicada
-* Em andamento - Estamos no processo de lançamento dos recursos da versão
+* Dentro do Cronograma - Estamos planejando lançar os recursos e melhorias na data indicada.
+* Em andamento - Estamos no processo de implantação dos recursos da versão
 * Enviado - A versão está concluída
 
 _As datas de lançamento estão sujeitas a alterações_
@@ -42,34 +42,34 @@ _As datas de lançamento estão sujeitas a alterações_
    <td>Remetido</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-jan-23.md">Janeiro de 2023</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-jan-23.md">Janeiro de 23</a></td>
    <td>20 de janeiro de 2023</td>
    <td>Remetido</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-mar-23.md">Março de 23</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-mar-23.md">Março de 2023</a></td>
    <td>31 de março de 2023</td>
-   <td>em andamento</td>
+   <td>Remetido</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">Maio de 23</a></td>
    <td>12 de maio de 2023</td>
-   <td>Na Programação</td>
+   <td>em andamento</td>
   </tr>
   <tr> 
    <td>Julho de 23</td>
    <td>21 de julho de 2023</td>
-   <td>Na Programação</td>
+   <td>Dentro do Cronograma</td>
   </tr>
   <tr>
-   <td>Setembro de 2023</td>
+   <td>Setembro de 23</td>
    <td>8 de setembro de 2023</td>
-   <td>Na Programação</td>
+   <td>Dentro do Cronograma</td>
   </tr>
   <tr>
    <td>Outubro de 23</td>
    <td>20 de outubro de 2023</td>
-   <td>Na Programação</td>
+   <td>Dentro do Cronograma</td>
   </tr>
  </tbody>
 </table>
