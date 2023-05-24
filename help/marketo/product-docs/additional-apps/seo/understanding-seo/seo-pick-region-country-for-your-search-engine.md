@@ -1,32 +1,32 @@
 ---
 unique-page-id: 2949190
-description: SEO - Selecione Região/país para o seu mecanismo de pesquisa - Documentos do Marketo - Documentação do produto
-title: SEO - Selecione Região/país para o seu mecanismo de pesquisa
+description: SEO - Escolha a região/país do seu mecanismo de pesquisa - Documentação do Marketo - Documentação do produto
+title: SEO - Escolha a região/país para seu mecanismo de pesquisa
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
-# SEO - Selecione Região/país para o seu mecanismo de pesquisa {#seo-pick-region-country-for-your-search-engine}
+# SEO - Escolha a região/país para seu mecanismo de pesquisa {#seo-pick-region-country-for-your-search-engine}
 
-Os administradores de SEO poderão escolher a região do mecanismo de pesquisa para a qual você gostaria de obter informações de classificação de palavras-chave.
+Os administradores de SEO poderão escolher a região do mecanismo de pesquisa na qual você gostaria de obter informações sobre a classificação de palavras-chave.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para o **Administrador** seção.
+1. Vá para a **[!UICONTROL Admin]** seção.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Clique no botão **Mecanismos de pesquisa** guia .
+1. Clique em **[!UICONTROL Mecanismos de pesquisa]** guia.
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. Escolha o país/cidade para o qual deseja otimizar e clique em **Salvar**.
+1. Escolha o país/cidade que deseja otimizar e clique em **[!UICONTROL Salvar]**.
 
 >[!NOTE]
 >
@@ -34,12 +34,12 @@ Os administradores de SEO poderão escolher a região do mecanismo de pesquisa p
 
 ![](assets/image2014-9-17-21-3a8-3a8.png)
 
-Excelente trabalho. Agora você verá classificações de palavras-chave para o país ou cidade de sua escolha.
+Excelente trabalho. Agora você verá as classificações das palavras-chave para o país ou cidade de sua escolha.
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
 >[!MORELIKETHIS]
 >
->* [Entendendo o painel: Instantâneo de SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target=&quot;_blank&quot;}
->* [Entendendo o painel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target=&quot;_blank&quot;}
+>* [Noções básicas sobre o painel: Instantâneo SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
+>* [Noções básicas sobre o painel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}
 

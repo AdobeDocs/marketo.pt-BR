@@ -1,9 +1,7 @@
 ---
 description: Centro de ajuda - Documentação do Marketo - Documentação do produto
 title: Centro de ajuda
-hide: true
-hidefromtoc: true
-source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 5%
@@ -12,7 +10,7 @@ ht-degree: 5%
 
 # Centro de ajuda {#help-center}
 
-O Centro de ajuda do Marketo Engage funciona como um local centralizado para obter assistência. Além de se vincular a vários recursos (por exemplo, [documentação do produto](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketo Community](https://nation.marketo.com/){target="_blank"}), você pode acessar apresentações úteis no produto organizadas por nível de experiência.
+O Centro de ajuda do Marketo Engage funciona como um local centralizado para obter assistência. Além de se vincular a vários recursos (por exemplo, [documentação do produto](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}), você pode acessar apresentações úteis no produto organizadas por nível de experiência.
 
 ## Como acessar {#how-to-access}
 
@@ -26,25 +24,25 @@ Os guias servem como apresentações rápidas para recursos populares.
 
 ![](assets/help-center-2.png)
 
-Clique no guia desejado para visualizá-lo.
+1. Clique no guia desejado para visualizá-lo.
 
-![](assets/help-center-3.png)
+   ![](assets/help-center-3.png)
 
-Clique em **Introdução**.
+1. Clique em **Introdução**.
 
-![](assets/help-center-4.png)
+   ![](assets/help-center-4.png)
 
-Clique em **Próxima** para continuar.
+1. Clique em **Próxima** para continuar.
 
-![](assets/help-center-5.png)
+   ![](assets/help-center-5.png)
 
-Clique em **Concluído** para sair da apresentação.
+1. Clique em **Concluído** para sair da apresentação.
 
-![](assets/help-center-6.png)
+   ![](assets/help-center-6.png)
 
->[!TIP]
->
->Saia do guia a qualquer momento clicando em **Ignorar**.
+   >[!TIP]
+   >
+   >Saia do guia a qualquer momento clicando em **Ignorar**.
 
 ### Novidades {#whats-new}
 
