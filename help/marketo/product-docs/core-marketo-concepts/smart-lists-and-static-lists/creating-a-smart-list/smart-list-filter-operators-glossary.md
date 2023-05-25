@@ -1,45 +1,45 @@
 ---
 unique-page-id: 557312
-description: Glossário de operadores de filtro de lista inteligente - Documentos do Marketo - Documentação do produto
+description: Glossário de operadores de filtro de lista inteligente - Documentação do Marketo - Documentação do produto
 title: Glossário de operadores de filtro de lista inteligente
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5ffb1a1931ccbc945ba535f72898a1b73154e47a
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '605'
 ht-degree: 12%
 
 ---
 
 # Glossário de operadores de filtro de lista inteligente {#smart-list-filter-operators-glossary}
 
-Um operador faz parte da lista inteligente que ajuda a obter detalhes específicos. Ele permite descrever o filtro ou acionador em um idioma direto. Os operadores disponíveis são diferentes para cada tipo de campo.
+Um operador é parte da lista inteligente que ajuda você a se tornar específico. Ele permite descrever o filtro ou acionador em uma linguagem simples. Os operadores disponíveis são diferentes para cada tipo de campo.
 
-Este é um glossário descrevendo cada conjunto de operadores.
+Aqui está um glossário descrevendo cada conjunto de operadores.
 
 ## Campos de data {#date-fields}
 
 ![](assets/image2014-9-10-17-3a15-3a47.png)
 
-Ao escolher um operador, o lado direito será alterado dinamicamente.
+Quando você escolhe um operador, o lado direito muda dinamicamente.
 
 | Operador | Lado direito | Descrição |
 |---|---|---|
 | é | Data única | Correspondência de data exata |
 | não é | Data única | Qualquer data, EXCETO a especificada |
 | entre | Dois campos de data | Qualquer data incluindo e entre duas datas especificadas |
-| no passado | Entrada de Idioma Natural&#42; | Consulte o diagrama abaixo |
-| no passado antes de | Entrada de Idioma Natural&#42; | Consulte o diagrama abaixo |
-| no futuro | Entrada de Idioma Natural&#42; | Consulte o diagrama abaixo |
-| no futuro depois de | Entrada de Idioma Natural&#42; | Consulte o diagrama abaixo |
-| no período de tempo | Predefinições (último trimestre, ontem etc.) | Definido na lista de seleção |
+| no passado | Entrada de linguagem natural&#42; | Consulte o diagrama abaixo |
+| no passado antes de | Entrada de linguagem natural&#42; | Consulte o diagrama abaixo |
+| no futuro | Entrada de linguagem natural&#42; | Consulte o diagrama abaixo |
+| no futuro depois de | Entrada de linguagem natural&#42; | Consulte o diagrama abaixo |
+| no intervalo de tempo | Predefinições (último trimestre, ontem etc.) | Definido na lista de opções |
 | depois | Data única | Todos os registros após a data especificada |
 | antes | Data única | Todos os registros antes do especificado |
-| sobre ou depois de | Data única | Igual a &quot;depois&quot;, mas inclusivo |
-| em ou antes de | Data única | Igual a &quot;antes&quot;, mas inclusivo |
+| sobre ou depois de | Data única | O mesmo que &quot;depois&quot;, mas inclusivo |
+| em ou antes de | Data única | O mesmo que &quot;antes&quot;, mas inclusivo |
 | está vazio | Nenhum | Todos os registros sem data |
 | não está vazio | Nenhum | Todos os registros com qualquer data |
 
-&#42; A entrada de linguagem natural é legal. Estes são alguns dos padrões que você pode inserir:
+&#42; A entrada da linguagem natural é legal. Estes são alguns dos padrões que você pode inserir:
 
 * 1 hora
 * 82 dias
@@ -51,11 +51,11 @@ Basta digitar o número e a unidade juntos e vai funcionar!
 
 >[!NOTE]
 >
->&quot;No passado&quot; **does** incluir o dia (até a hora, não depois) em que você criar sua lista inteligente.
+>&quot;No passado&quot; **faz** inclua o dia (até a hora, não depois) em que você criou sua lista inteligente.
 
 >[!CAUTION]
 >
->Ao criar uma lista inteligente usando um filtro de campo de data (por exemplo, Data de nascimento, Data de criação do SFDC) e usar a variável **before** ou **em ou antes de** , a lista inteligente também incluirá pessoas que não têm valor nesse campo de data.
+>Ao criar uma lista inteligente usando um filtro de campo de data (por exemplo, Data de nascimento, Data de criação do SFDC) e usar as restrições **antes**, **em ou antes de** ou **no passado antes**, a lista inteligente também incluirá pessoas que não têm valor no campo de data mencionado.
 
 Use o diagrama a seguir para entender a diferença entre os operadores de data.
 
@@ -65,34 +65,34 @@ Use o diagrama a seguir para entender a diferença entre os operadores de data.
 >
 >**Exemplo**
 >
->Os campos de data podem ficar complicados quando você está trabalhando com eventos passados e futuros. Aqui estão alguns exemplos.
+>Os campos de data podem complicar quando você está trabalhando com eventos passados e futuros. Veja alguns exemplos.
 >
->**Anteriormente antes**
+>**No passado antes**
 >
->Para sua nova promoção, use esse operador para enviar emails somente para pessoas que não assinaram ou renovaram seu serviço em um ano ou que nunca foram assinantes.
+>Na nova promoção, use esse operador para enviar emails somente para pessoas que não assinaram ou renovaram seu serviço em um ano ou que nunca foram assinantes.
 >
 >**No futuro, após**
 >
->Digamos que você queira ver os clientes que estão prontos para a renovação em 90 dias. Você usaria dois filtros separados. Primeiro use &quot;No futuro após 90 dias&quot; e, segundo, &quot;No futuro, 91 dias&quot;. Isso capturaria quem tiver uma data daqui a 90 dias.
+>Digamos que você queira ver os clientes que estão prontos para renovação em 90 dias. Você usaria dois filtros separados. Primeiro use &quot;No futuro, após 90 dias&quot; e, segundo, &quot;No futuro, 91 dias&quot;. Isso capturaria quem tiver uma data daqui a 90 dias.
 
-## Campos de sequência {#string-fields}
+## Campos de string {#string-fields}
 
 ![](assets/image2014-9-10-17-3a16-3a6.png)
 
 | Operador | Descrição |
 |---|---|
 | é | Correspondência exata (não diferencia maiúsculas de minúsculas) |
-| não é | Qualquer coisa exceto correspondência exata |
-| inicia com | As primeiras letras de correspondência da string |
-| não inicia com | As primeiras letras da string NÃO correspondem |
-| contém | Todas as letras juntas na string correspondem (exemplo: califórnia, fortuna, para o efeito) |
-| não contém | Nenhuma letra junto na corda corresponde. (inverso de &quot;contém&quot;) |
+| não é | Qualquer coisa, EXCETO a correspondência exata |
+| inicia com | As primeiras letras da correspondência de sequência de caracteres |
+| não inicia com | As primeiras letras da sequência DE caracteres NÃO correspondem |
+| contém | Todas as letras juntas na correspondência de sequência de caracteres (exemplo: california, fortune, portanto) |
+| não contém | Nenhuma letra junto na sequência de caracteres corresponde. (reverso de &quot;contém&quot;) |
 | está vazio | Registros que não têm valor (NULL) |
-| não está vazio | Registros com QUALQUER valor |
+| não está vazio | Registros com qualquer valor |
 
 >[!TIP]
 >
->Use operadores positivos em vez de negativos. Os filtros &quot;Não é&quot; precisam pesquisar todo o conjunto de dados na sua instância, o que pode ser extremamente demorado. Filtros positivos &quot;is&quot; podem aproveitar algoritmos de pesquisa mais eficazes.
+>Use operadores positivos em vez de negativos. Os filtros &quot;Não é&quot; precisam pesquisar todo o conjunto de dados na sua instância, o que pode ser extremamente demorado. Os filtros positivos &quot;is&quot; podem utilizar algoritmos de pesquisa mais eficazes.
 
 ## Campos inteiros {#integer-fields}
 
@@ -108,11 +108,11 @@ Use o diagrama a seguir para entender a diferença entre os operadores de data.
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1">é</td> 
-   <td colspan="1" rowspan="1">Correspondência de número exato ( = 0 retornará ambos os leads com 0 <em>e</em> NULL)</td> 
+   <td colspan="1" rowspan="1">A correspondência exata do número ( = 0) retornará ambos os leads com 0 <em>e</em> NULL)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">não é</td> 
-   <td colspan="1" rowspan="1">Qualquer coisa exceto número exato corresponde</td> 
+   <td colspan="1" rowspan="1">Qualquer coisa, EXCETO o número exato, corresponde</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">entre</td> 
@@ -128,21 +128,21 @@ Use o diagrama a seguir para entender a diferença entre os operadores de data.
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">no mínimo</td> 
-   <td colspan="1" rowspan="1">Acima do especificado (inclusivo)</td> 
+   <td colspan="1" rowspan="1">Acima do especificado (inclusive)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">no máximo</td> 
-   <td colspan="1" rowspan="1">Menor que o especificado (inclusivo)</td> 
+   <td colspan="1" rowspan="1">Menor que o especificado (inclusive)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">está vazio</td> 
-   <td colspan="1" rowspan="1">Registros que não têm valor (NULL) - zero é um número, é <em>not</em> NULL</td> 
+   <td colspan="1" rowspan="1">Registros que não têm valor (NULL) - zero é um número, é <em>não</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">não está vazio</td> 
-   <td colspan="1" rowspan="1">Registros com QUALQUER valor (incluindo zero)</td> 
+   <td colspan="1" rowspan="1">Registros com qualquer valor (incluindo zero)</td> 
   </tr> 
  </tbody> 
 </table>
 
-Como você pode ver, esses operadores facilitam a conversa com o Marketo-ese com fluência!
+Como você pode ver, esses operadores facilitam a fala em Marketo com fluência!
