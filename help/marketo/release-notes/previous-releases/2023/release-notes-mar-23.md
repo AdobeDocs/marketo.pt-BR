@@ -2,9 +2,9 @@
 description: Notas de versão - março de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - março de 2023
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 68752faf80abb93e84e4cc7190c7f5469e3f689c
+source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '582'
 ht-degree: 7%
 
 ---
@@ -179,4 +179,4 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 ## Anúncios {#announcements}
 
-* **_Webinário de lançamento do produto_**: Junte-se a nós em 17 de maio de 2023, às 9h (PT) / 12h (ET) [para um webinário ao vivo](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} Apresentado pela nossa equipe de produtos, onde você pode aprender a usar todas as inovações de produtos mais recentes fornecidas nas versões de março e maio de 2023.
+* **_Webinário de lançamento do produto_**: [Webinário da versão de março e maio de 2023 do Marketo Engage](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

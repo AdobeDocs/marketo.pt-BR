@@ -2,10 +2,10 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 6%
+source-wordcount: '401'
+ht-degree: 7%
 
 ---
 
@@ -99,4 +99,4 @@ Os webinários interativos serão lançados gradualmente. Para solicitar acesso 
 
 ## Anúncios {#announcements}
 
-* **_Webinário de lançamento do produto_**: Junte-se a nós em 17 de maio de 2023, às 9h (PT) / 12h (ET) [para um webinário ao vivo](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} Apresentado pela nossa equipe de produtos, onde você pode aprender a usar todas as inovações de produtos mais recentes fornecidas nas versões de março e maio de 2023.
+* **_Webinário de lançamento do produto_**: [Webinário da versão de março e maio de 2023 do Marketo Engage](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
