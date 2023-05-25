@@ -1,24 +1,24 @@
 ---
 unique-page-id: 11378468
-description: Filtragem na trilha de auditoria - Documentos do Marketo - Documentação do produto
+description: Filtragem na Trilha de auditoria - Documentação do Marketo - Documentação do produto
 title: Filtragem na trilha de auditoria
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 # Filtragem na trilha de auditoria {#filtering-in-audit-trail}
 
-Filtre por período, tipo de ativo, usuários, ação executada e muito mais.
+Filtre por intervalo de tempo, tipo de ativo, usuários, ações realizadas e muito mais.
 
-1. Clique em **Administrador**.
+1. Clique em **[!UICONTROL Admin]**.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. Em **Segurança**, selecione **Trilha de auditoria**.
+1. Em **[!UICONTROL Segurança]**, selecione **[!UICONTROL Trilha de auditoria]**.
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -28,21 +28,21 @@ Filtre por período, tipo de ativo, usuários, ação executada e muito mais.
 
    >[!NOTE]
    >
-   >Há uma grande variedade de combinações de parâmetros de pesquisa possíveis. Neste exemplo, localizamos: _todos os emails - editados por qualquer pessoa - nos sete dias anteriores_.
+   >Há várias combinações possíveis de parâmetros de pesquisa. Neste exemplo, localizamos: _todos os emails - editados por qualquer pessoa - nos últimos sete dias_.
 
-1. Clique no botão **Período** e selecione **Últimos 7 Dias**.
+1. Clique em **[!UICONTROL Período]** e selecione **[!UICONTROL Últimos 7 dias]**.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. Clique no botão **Tipo de ativo** e selecione **Email**.
+1. Clique em **[!UICONTROL Tipo de ativo]** e selecione **[!UICONTROL E-mail]**.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Clique no botão **Ações** e selecione **Editar**.
+1. Clique em **Aações** e selecione **[!UICONTROL Editar]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
-1. Clique em **Aplicar**.
+1. Clique em **[!UICONTROL Aplicar]**.
 
    ![](assets/filtering-in-audit-trail-7.png)
 
@@ -54,8 +54,8 @@ Filtre por período, tipo de ativo, usuários, ação executada e muito mais.
 
    >[!NOTE]
    >
-   >Se tiver espaços de trabalho ativados, você verá dados de auditoria para todos os espaços de trabalho. Se você aplicar um filtro de espaço de trabalho, o Marketo lembrará o valor anterior do espaço de trabalho sempre que você usar a trilha de auditoria. As permissões do Workspace no nível do ativo são aplicadas.
+   >Se você tiver espaços de trabalho ativados, verá dados de auditoria para todos os espaços de trabalho. Se você aplicar um filtro de espaço de trabalho, o Marketo lembrará do valor anterior sempre que você usar a trilha de auditoria. As permissões do Espaço de trabalho no nível do ativo são aplicadas.
 
    >[!MORELIKETHIS]
    >
-   >[Alterar detalhes na trilha de auditoria](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[Detalhes da alteração na trilha de auditoria](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)

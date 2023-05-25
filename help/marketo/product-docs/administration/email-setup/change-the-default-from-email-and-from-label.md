@@ -1,32 +1,32 @@
 ---
 unique-page-id: 2360247
-description: Alterar o padrão do email e do rótulo - Documentos do Marketo - Documentação do produto
-title: Alterar o padrão do email e do rótulo
+description: Altere o padrão de Email e Rótulo de origem - Documentação do Marketo - Documentação do produto
+title: Alterar o padrão de email e rótulo de
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
-source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# Alterar o padrão do email e do rótulo {#change-the-default-from-email-and-from-label}
+# Alterar o padrão de email e rótulo de {#change-the-default-from-email-and-from-label}
 
-Cada usuário administrador tem a capacidade de alterar os valores padrão de **Do Email** e **Do Rótulo** para que, ao criar novos emails, esses padrões sejam usados.
+Cada usuário administrador tem a capacidade de alterar os valores padrão para **[!UICONTROL Do e-mail]** e **[!UICONTROL Do rótulo]** para que, quando eles criarem novos emails, esses padrões sejam usados.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para o **Administrador** seção.
+1. Vá para a **[!UICONTROL Admin]** seção.
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. Clique em **Email**.
+1. Clique em **[!UICONTROL E-mail]**.
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Insira os valores padrão desejados **Do Email** e **Do Rótulo** em seguida, clique em **Salvar alterações**.
+1. Insira os valores padrão desejados para **[!UICONTROL Do e-mail]** e **[!UICONTROL Do rótulo]** e clique em **[!UICONTROL Salvar alterações]**.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 
@@ -34,4 +34,4 @@ Cada usuário administrador tem a capacidade de alterar os valores padrão de **
 >
 >A alteração é aplicável somente a você e não a outros usuários do Marketo.
 
-Bom trabalho! Toda vez que você cria um novo email, os valores padrão definidos serão usados.
+Bom trabalho! Toda vez que criar um novo email, os valores padrão definidos serão usados.

@@ -1,64 +1,64 @@
 ---
-description: Filtrar atividade de bot de email - Documentos do Marketo - Documentação do produto
-title: Filtrar atividade de bot de email
+description: Atividade de filtragem de bot por email - Documentação do Marketo - Documentação do produto
+title: Filtrar atividade de bot por email
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 788084582a616b3cadd45f19d7a4779dad6f8c98
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 14%
 
 ---
 
-# Filtrar atividade de bot de email {#filtering-email-bot-activity}
+# Filtrar atividade de bot por email {#filtering-email-bot-activity}
 
-Às vezes, a atividade de bot de email pode aumentar erroneamente seus dados de aberturas e cliques de email. Siga as etapas abaixo para corrigir isso.
+Às vezes, a atividade de bot por email pode inflar erroneamente seus dados de aberturas e cliques de email. Siga as etapas abaixo para corrigir isso.
 
-Usamos três métodos separados para confirmar a atividade de bot:
+Usamos três métodos separados para confirmar a atividade do bot:
 
-* Corresponder a [Lista de bots do Interative Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: As atividades que correspondem a qualquer coisa na lista IAB UA/IP (Agente do usuário/endereço IP) serão marcadas como bots.
-* Corresponder ao padrão de proximidade: Quando mais de duas atividades acontecem ao mesmo tempo (em menos de um segundo), elas são identificadas como bots. Os atributos considerados durante a comparação são:
-   * ID de lead (deve ser a mesma)
+* Corresponder com [Lista de bot do Interative Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: atividades que correspondem a qualquer item na lista UA/IP (Agente do usuário/endereço IP) do IAB serão marcadas como bots.
+* Correspondência com o padrão de proximidade: quando mais de duas atividades acontecem ao mesmo tempo (em menos de um segundo), elas são identificadas como bots. Os atributos considerados durante a comparação são:
+   * ID do lead (deve ser o mesmo)
    * Ativo de email (deve ser o mesmo)
-   * Clique no link ou abra o email
+   * Clique em links ou e-mail aberto
    * Diferença de tempo (deve ser menor que um segundo)
 
-Em relação ao clique em links de email e à atividade de abertura de email, os novos atributos serão preenchidos com os valores abaixo:
+Em relação à atividade de clique em links de email e abertura de email, novos atributos serão preenchidos com os valores abaixo:
 
-* As atividades identificadas como bots terão &quot;Atividade de bot&quot; como &quot;Verdadeiro&quot; e &quot;Padrão de atividade de bot&quot; como o padrão/método identificado
+* As atividades identificadas como bots terão &quot;Atividade de bot&quot; como &quot;True&quot; e &quot;Padrão de atividade de bot&quot; como o padrão/método identificado
 * As atividades identificadas como não bots terão &quot;Atividade de bot&quot; como &quot;Falso&quot; e &quot;Padrão de atividade de bot&quot; como &quot;N/A&quot;
-* As atividades que ocorreram antes da introdução desses atributos terão &quot;Atividade de bot&quot; como &quot; (vazio) e &quot;Padrão de atividade de bot&quot; como &quot; &quot; (vazio)
+* As atividades que ocorreram antes da introdução desses atributos terão &quot;Atividade de bot&quot; como &quot; &quot; (vazio) e &quot;Padrão de atividade de bot&quot; como &quot; &quot; (vazio)
 
 ## Selecionar tipo de filtro {#select-filter-type}
 
-1. Clique em **Administrador**.
+1. Clique em **[!UICONTROL Admin]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Clique em **Email**.
+1. Clique em **[!UICONTROL E-mail]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Clique no botão **Atividade de bot** guia .
+1. Clique em **[!UICONTROL Atividade de bot]** guia.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Escolha para **Corresponder à Lista IAB**, **Corresponder ao padrão de proximidade** ou ambos. Escolha se deseja registrar a atividade bot _ou_ atividade de bot de filtro.
+1. Optar por **[!UICONTROL Corresponder com Lista IAB]**, **[!UICONTROL Corresponder com Padrão de Proximidade]**, ou ambos. Escolha se deseja [!UICONTROL registrar atividade de bot] _ou_ [!UICONTROL filtrar atividade de bot].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->Se você escolher Filtrar atividade do robô, poderá ver uma queda em aberturas de email e cliques como atividades falsas esgotadas.
+>Se você escolher [!UICONTROL Filtrar atividade de bot], você poderá ver uma queda nas aberturas e cliques no email, à medida que as atividades falsas forem eliminadas.
 
-**ETAPA OPCIONAL**: Para desativar esse recurso, basta desmarcar os controle deslizantes. Se você desativar, os dados não serão redefinidos.
+**ETAPA OPCIONAL**: para desativar esse recurso, basta desmarcar os controles deslizantes. Se você desativar, os dados não serão redefinidos.
 
 >[!TIP]
 >
->Aproveite os dados de atividade de bot nas Smart Lists por meio do booleano &quot;Is Bot Activity&quot; (sim/não) e do &quot;Bot Activity Pattern&quot; nos filtros &quot;Clicked Link in Email&quot; e &quot;Open Email&quot; e dos acionadores &quot;Clicks Link in Email&quot; e &quot;Opens Email&quot;.
+>Aproveite os dados de atividade de bot nas Smart Lists por meio das opções &quot;Is Bot Activity&quot; (sim/não) e &quot;Bot Activity Pattern&quot; nos filtros &quot;Link clicado no email&quot; e &quot;Abrir email&quot;, e &quot;Clicks Link no email&quot; e &quot;Abrir email&quot; acionadores.
 
-##  Lista de bloqueios IP {#ip-blocklist}
+## INCLUIR NA LISTA DE BLOQUEIOS IP {#ip-blocklist}
 
-Compilamos uma lista de endereços IP responsáveis pela geração de milhões de envolvimentos falsos, pois esse engajamento recebido de qualquer um dos IPs a seguir é filtrado automaticamente e não adicionado à Instância do Marketo Engage. Isso pode resultar em uma redução de aberturas de email, cliques e outras atividades relacionadas. A lista abaixo pode ser atualizada periodicamente.
+Compilamos uma lista de endereços IP responsáveis por gerar milhões de engajamentos falsos, já que esse engajamento recebido de qualquer um dos seguintes IPs é automaticamente filtrado e não adicionado à instância do Marketo Engage. Isso pode resultar em uma redução nas aberturas de email, cliques e outras atividades relacionadas. A lista a seguir apresentada pode ser atualizada periodicamente.
 
 * 40.94.34.52
 * 40.94.34.86
@@ -130,4 +130,4 @@ Compilamos uma lista de endereços IP responsáveis pela geração de milhões d
 
 >[!NOTE]
 >
->Analisamos e analisamos meticulosamente cada endereço IP antes de adicioná-lo a essa lista, garantindo que apenas os IPs mais críticos e prejudiciais sejam bloqueados.
+>Analisamos e examinamos meticulosamente cada endereço IP antes de adicioná-lo a esta lista, garantindo que apenas os IPs mais críticos e prejudiciais sejam bloqueados.
