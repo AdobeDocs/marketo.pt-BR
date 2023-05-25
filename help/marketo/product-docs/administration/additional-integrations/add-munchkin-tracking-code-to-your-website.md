@@ -1,38 +1,38 @@
 ---
 unique-page-id: 2360354
-description: Adicionar o código de rastreamento do Munchkin ao seu site - Documentos do Marketo - Documentação do produto
-title: Adicionar o código de rastreamento do Munchkin ao seu site
+description: "Adicionar [!DNL Munchkin] Código de rastreamento do seu site - Documentação do Marketo - Documentação do produto"
+title: "Adicionar [!DNL Munchkin] Código de rastreamento do seu site"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
-source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
 
-# Adicionar o código de rastreamento do Munchkin ao seu site {#add-munchkin-tracking-code-to-your-website}
+# Adicionar [!DNL Munchkin] Código de rastreamento para seu site {#add-munchkin-tracking-code-to-your-website}
 
-O código de rastreamento personalizado JavaScript do Marketo, chamado Munchkin, rastreia todos os indivíduos que visitam seu site para que você possa reagir às visitas com campanhas de marketing automatizadas. Até mesmo visitantes anônimos são rastreados junto com seus endereços IP e outras informações. **Sem esse código de rastreamento, você não poderá rastrear visitas ou outras atividades no seu site**!
+O código de rastreamento JavaScript personalizado do Marketo, chamado de [!DNL Munchkin]O rastreia todas as pessoas que visitam seu site para que você possa reagir às visitas com campanhas de marketing automatizadas. Até mesmo visitantes anônimos são rastreados junto com seus endereços IP e outras informações. **Sem esse código de rastreamento, você não poderá rastrear visitas ou outras atividades no seu site**!
 
 >[!PREREQUISITES]
 >
->Certifique-se de ter acesso a um desenvolvedor JavaScript experiente. O Suporte técnico da Marketo não está configurado para ajudar na solução de problemas do JavaScript personalizado.
+>Certifique-se de ter acesso a um desenvolvedor de JavaScript experiente. O Suporte técnico da Marketo não está configurado para ajudar na solução de problemas do JavaScript personalizado.
 
 ## Adicionar código de rastreamento ao seu site {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
->Os clientes do Adobe Experience Cloud também podem usar a integração do Marketo no Adobe Launch para incluir o script do Munchkin em suas páginas da Web. Obter o aplicativo [here](https://www.adobeexchange.com/experiencecloud.details.101054.html).
+>Os clientes da Adobe Experience Cloud também podem usar a integração do Marketo no Adobe Launch para incluir [!DNL Munchkin] em suas páginas da Web. Obter o aplicativo [aqui](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}.
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
-1. Clique em **Munchkin**.
+1. Clique em **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
-1. Selecione Assíncrono para Tipo de código de rastreamento.
+1. Selecionar **[!UICONTROL Assíncrono]** para **[!UICONTROL Tipo de código de rastreamento]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
@@ -40,7 +40,7 @@ O código de rastreamento personalizado JavaScript do Marketo, chamado Munchkin,
    >
    >Em quase todos os casos, você deve usar o código assíncrono. [Saiba mais](#types-of-munchkin-tracking-codes).
 
-1. Clique em e copie o código de rastreamento do Javascript a ser colocado no seu site.
+1. Clique em e copie o código de rastreamento do Javascript para colocar em seu site.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-4.png)
 
@@ -50,9 +50,9 @@ O código de rastreamento personalizado JavaScript do Marketo, chamado Munchkin,
 
    >[!TIP]
    >
-   >Coloque o código de rastreamento nas páginas da Web que deseja rastrear. Isso pode ser em todas as páginas para sites menores ou somente páginas-chave em sites que tenham muitas páginas da Web geradas dinamicamente, fóruns de usuários, e assim por diante.
+   >Coloque o código de rastreamento nas páginas da Web que deseja rastrear. Pode ser cada página de sites menores ou somente as páginas principais de sites com muitas páginas da Web geradas dinamicamente, fóruns de usuários etc.
 
-   Para obter melhores resultados, use o código assíncrono do Munchkin e coloque-o dentro do `<head>` elementos de suas páginas. Se você estiver usando o código simples (não recomendado), isso ocorrerá antes da variável `</body>` .
+   Para obter melhores resultados, use o [!DNL Munchkin] e coloque-o dentro da variável `<head>` elementos de suas páginas. Se estiver usando o código simples (não recomendado), ele será exibido antes da variável `</body>` tag.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-5.png)
 
@@ -62,29 +62,29 @@ O código de rastreamento personalizado JavaScript do Marketo, chamado Munchkin,
 
 ## Adicionar código de rastreamento ao usar vários espaços de trabalho {#add-tracking-code-when-using-multiple-workspaces}
 
-Se você estiver usando Espaços de trabalho na sua conta do Marketo, provavelmente também terá presenças da Web separadas que correspondem aos seus espaços de trabalho. Nesse caso, você pode usar o Javascript de rastreamento do Munchkin para atribuir suas pessoas anônimas ao espaço de trabalho e partição corretos.
+Se estiver usando espaços de trabalho na sua conta do Marketo, provavelmente você também terá presenças da Web separadas que correspondem aos espaços de trabalho. Nesse caso, você pode usar a variável [!DNL Munchkin] Javascript de rastreamento para atribuir suas pessoas anônimas ao espaço de trabalho e partição corretos.
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
-1. Clique em **Munchkin**.
+1. Clique em **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
-1. Selecione o espaço de trabalho apropriado para as páginas da Web que você deseja rastrear.
+1. Selecione o espaço de trabalho apropriado para as páginas da Web que deseja rastrear.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-8.png)
 
    >[!NOTE]
    >
-   >Se você não usar o código do espaço de trabalho especial Munchkin, as pessoas serão atribuídas à partição padrão que foi criada quando sua conta foi configurada. Ela é chamada de &quot;Padrão&quot; inicialmente, mas você pode ter alterado isso em sua conta do Marketo.
+   >Se você não usar o espaço de trabalho especial [!DNL Munchkin] , as pessoas serão atribuídas à partição padrão criada quando sua conta foi configurada. Ele se chama &quot;[!UICONTROL Padrão]&quot; inicialmente, mas você pode ter alterado isso em sua própria conta da Marketo.
 
-1. Selecionar **Assíncrono** para Tipo de código de rastreamento.
+1. Selecionar **[!UICONTROL Assíncrono]** para **[!UICONTROL Tipo de código de rastreamento]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
-1. Clique em e copie o código de rastreamento do JavaScript para colocar em seu site.
+1. Clique em e copie o código de rastreamento JavaScript para colocar em seu site.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-10.png)
 
@@ -92,52 +92,52 @@ Se você estiver usando Espaços de trabalho na sua conta do Marketo, provavelme
    >
    >Não use o código mostrado nesta captura de tela - você deve usar o código exclusivo que aparece em sua conta!
 
-1. Coloque o código de rastreamento nas páginas da Web no `<head>` elemento. Novas pessoas que visitarem esta página serão atribuídas a esta partição.
+1. Coloque o código de rastreamento em suas páginas da Web no `<head>` elemento. As novas pessoas que visitarem esta página serão atribuídas a esta partição.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-11.png)
 
    >[!CAUTION]
    >
-   >Você só pode usar um script de rastreamento Munchkin para uma única partição e espaço de trabalho em uma página. Não inclua scripts de rastreamento para várias partições/espaços de trabalho no site.
+   >Você só pode usar um [!DNL Munchkin] script de rastreamento para uma única partição e espaço de trabalho em uma página. Não inclua scripts de rastreamento para várias partições/espaços de trabalho em seu site.
 
    >[!NOTE]
    >
-   >As landing pages criadas no Marketo contêm automaticamente o código de rastreamento, portanto, não é necessário colocar esse código nelas.
+   >As landing pages criadas no Marketo contêm automaticamente um código de rastreamento, portanto, não é necessário colocar esse código nelas.
 
-## Tipos de códigos de rastreamento do Munchkin {#types-of-munchkin-tracking-codes}
+## Tipos de [!DNL Munchkin] Códigos de rastreamento {#types-of-munchkin-tracking-codes}
 
-Há três tipos de códigos de rastreamento do Munchkin que você pode escolher. Cada um afeta o tempo de carregamento da página da Web de forma diferente.
+Existem três tipos de [!DNL Munchkin] códigos de rastreamento que você pode escolher. Cada uma afeta o tempo de carregamento da página da Web de forma diferente.
 
-1. **Simples**: O tem menos linhas de código, mas não otimiza para o tempo de carregamento da página da Web. Este código carrega a biblioteca jQuery cada vez que uma página da Web é carregada.
-1. **Assíncrono**: reduz o tempo de carregamento da página da Web.
-1. **jQuery assíncrona**: reduz o tempo de carregamento da página da Web e também melhora o desempenho do sistema. Esse código pressupõe que você já tenha um jQuery e não verifica para carregá-lo.
+1. **[!UICONTROL Simples]**: tem o menor número de linhas de código, mas não otimiza o tempo de carregamento da página da Web. Este código carrega a biblioteca jQuery sempre que uma página da Web é carregada.
+1. **[!UICONTROL Assíncrono]**: reduz o tempo de carregamento da página da Web.
+1. **[!UICONTROL jQuery assíncrono]**: reduz o tempo de carregamento da página da Web e também melhora o desempenho do sistema. Esse código pressupõe que você já tenha o jQuery e não verifica se deve carregá-lo.
 
-## Teste se o código do Munchkin está funcionando {#test-if-your-munchkin-code-is-working}
+## Teste se seu [!DNL Munchkin] O código está funcionando {#test-if-your-munchkin-code-is-working}
 
-Para verificar se o código do Munchkin está funcionando depois de adicioná-lo:
+Para verificar se o seu [!DNL Munchkin] o código está funcionando depois de ter sido adicionado:
 
 1. Visite sua página da Web.
 
-1. Em Minha Marketo, clique no botão **Analytics** mosaico.
+1. No seu [!DNL My Marketo], clique no link **[!UICONTROL Analytics]** bloco.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 
-1. Clique em **Atividade da página da Web**.
+1. Clique em **[!UICONTROL Atividade da página da Web]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-13.png)
 
-1. Clique no botão **Configuração** guia , clique duas vezes **Fonte da atividade**.
+1. Clique em **[!UICONTROL Configuração]** clique duas vezes **[!UICONTROL Origem da atividade]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-1. Alterar a origem da atividade para **Visitantes anônimos (incluindo ISPs)** e clique em **Aplicar**.
+1. Altere o [!UICONTROL Origem da atividade] para **[!UICONTROL Visitantes anônimos (incluindo ISPs)]** e clique em **[!UICONTROL Aplicar]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
-1. Clique no botão **Relatório** guia .
+1. Clique em **[!UICONTROL Relatório]** guia.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
 
    >[!NOTE]
    >
-   >Se não vir nenhum dado, espere alguns minutos e clique no ícone de atualização na parte inferior.
+   >Se você não visualizar nenhum dado, aguarde alguns minutos e clique no ícone de atualização na parte inferior.

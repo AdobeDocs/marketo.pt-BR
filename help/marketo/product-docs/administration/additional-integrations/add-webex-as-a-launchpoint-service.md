@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7512272
-description: Adicionar o Webex as a LaunchPoint Service - Documentos da Marketo - Documentação do produto
-title: Adicionar Webex como um serviço do LaunchPoint
+description: "Adicionar [!DNL Webex] as a [!DNL LaunchPoint] Serviço - Documentação do Marketo - Documentação do produto"
+title: "Adicionar [!DNL Webex] as a [!DNL LaunchPoint] Serviço"
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
-source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '133'
 ht-degree: 1%
 
 ---
 
-# Adicionar Webex como um serviço do LaunchPoint {#add-webex-as-a-launchpoint-service}
+# Adicionar [!DNL Webex] as a [!DNL LaunchPoint] Serviço {#add-webex-as-a-launchpoint-service}
 
-O Marketo Engage gerencia o registro e a participação de seu webinário do Webex.
+O Marketo Engage gerencia o seu [!DNL Webex] inscrição e participação no webinário.
 
 >[!NOTE]
 >
@@ -20,44 +20,44 @@ O Marketo Engage gerencia o registro e a participação de seu webinário do Web
 
 >[!NOTE]
 >
->Uma assinatura existente para o Webex e direitos administrativos são necessários para esta etapa. Tenha as seguintes configurações em mãos: Nome de usuário, senha e nome do site.
+>Uma assinatura existente do [!DNL Webex] Os direitos de administração e do são necessários para essa etapa. Ter as seguintes configurações disponíveis: Nome de usuário, Senha e Nome do site.
 
 >[!NOTE]
 >
->O nome do site pode ser encontrado no final do URL usado para fazer logon no Webex. Por exemplo:
+>O nome do site pode ser encontrado no final do URL usado para fazer logon no [!DNL Webex]. Por exemplo:
 >
 >`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
->**Cuidado:** Não insira o URL inteiro neste campo; insira somente o nome do site!
+>**Atenção:** Não insira o URL inteiro neste campo; insira somente o nome do site!
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/add-webex-as-a-launchpoint-service-1.png)
 
-1. Clique em **LaunchPoint**.
+1. Clique em **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-2.png)
 
-1. Selecionar **Novo** e depois **Novo Serviço**.
+1. Selecionar **[!UICONTROL Novo]** e depois **[!UICONTROL Novo serviço]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
-1. Insira um **Nome de exibição**. Em **Serviço**, selecione **Webex**.
+1. Insira um **[!UICONTROL Nome de exibição]**. Em **[!UICONTROL Serviço]**, selecione **[!UICONTROL Webex]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
-1. Insira seu **Nome do usuário** e **Senha**.
+1. Insira seu **[!UICONTROL Nome de usuário]** e **[!UICONTROL Senha]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
-1. Complete o processo inserindo o **Nome do site** em seguida, clique em **Criar**.
+1. Conclua o processo inserindo o **[!UICONTROL Nome do site]** e clique em **[!UICONTROL Criar]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. Fenomenal! Seu **Webex** O agora é sincronizado com o Marketo.
+Seu **[!DNL Webex]** O agora está sincronizado com o Marketo.
 
-   ![](assets/add-webex-as-a-launchpoint-service-7.png)
+![](assets/add-webex-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->Saiba como [criar um evento com o Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target=&quot;_blank&quot;}.
+>Saiba como [criar um evento com [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.

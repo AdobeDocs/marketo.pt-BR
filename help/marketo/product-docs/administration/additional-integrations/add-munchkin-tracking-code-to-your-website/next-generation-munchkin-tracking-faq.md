@@ -1,93 +1,93 @@
 ---
 unique-page-id: 10096583
-description: Perguntas frequentes sobre o rastreamento do Munchkin de próxima geração - Documentos do Marketo - Documentação do produto
-title: Perguntas frequentes sobre o rastreamento do Munchkin de próxima geração
+description: "Próxima geração [!DNL Munchkin] Perguntas frequentes sobre rastreamento - Documentação do Marketo - Documentação do produto"
+title: "Próxima geração [!DNL Munchkin] Perguntas frequentes sobre rastreamento"
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '716'
 ht-degree: 0%
 
 ---
 
-# Perguntas frequentes sobre o rastreamento do Munchkin de próxima geração {#next-generation-munchkin-tracking-faq}
+# Próxima geração [!DNL Munchkin] Perguntas frequentes sobre rastreamento {#next-generation-munchkin-tracking-faq}
 
-Estamos animados em anunciar que em breve começaremos um lançamento em fases de nossa tecnologia de rastreamento Web de próxima geração.
+Estamos animados em anunciar que em breve iniciaremos uma implantação em fases da nossa tecnologia de rastreamento na web de última geração.
 
-Estas são as coisas mais importantes a saber:
+Estas são as informações mais importantes:
 
-* Estamos removendo o filtro Smart List &quot;Is Anonymous&quot; com nossa versão do primeiro trimestre (já concluída)
-* Estamos aumentando o número de eventos da Web (Visite a página da Web, Link clicado na página da Web) que podemos assimilar
-* Seu código do Munchkin não será alterado, portanto, nenhuma atualização em seu site é necessária
+* Estamos removendo o filtro &quot;Is Anonymous&quot; da Smart List com nossa versão do primeiro trimestre (já concluído)
+* Estamos aumentando o número de eventos da Web (Visitar página da Web, Link clicado na página da Web) que podem ser assimilados
+* Seu [!DNL Munchkin] o código não será alterado, portanto, não são necessárias atualizações em seu site
 
-## Quando minha assinatura do Marketo será no Munchkin V2? {#when-will-my-marketo-subscription-be-on-munchkin-v}
+## Quando minha assinatura do Marketo estará ativada [!DNL Munchkin] V2? {#when-will-my-marketo-subscription-be-on-munchkin-v}
 
-Ainda não temos uma data exata, mas confira aqui para obter atualizações.
+Ainda não temos uma data exata, mas verifique se há atualizações aqui.
 
-## Precisarei fazer alguma alteração no rastreamento do Munchkin no meu site? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
+## Será necessário fazer alterações no meu [!DNL Munchkin] rastrear no meu site? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-Nº O código de rastreamento do Munchkin permanece o mesmo. Não é necessário fazer alterações no seu site.
+Nº A variável [!DNL Munchkin] O código de rastreamento do permanece o mesmo. Não é necessário fazer alterações no site.
 
 >[!NOTE]
 >
->Essa alteração não afeta a Personalização da Web (Personalização em tempo real). Ela continua identificando visitantes da Web anônimos e conhecidos e personalizando o conteúdo em tempo real para esses visitantes.
+>Essa alteração não afeta a Personalização da Web (Personalização em tempo real). Ele continua a identificar visitantes anônimos e conhecidos da Web e personalizar o conteúdo em tempo real para esses visitantes.
 
 ## Por que o Marketo removeu o filtro &quot;É anônimo&quot; das Smart Lists? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
-Alteramos a forma como pessoas anônimas interagem com Campanhas Inteligentes. Antes, eles fluíam através de uma campanha inteligente, como pessoas conhecidas. O filtro &quot;Is Anonymous&quot; foi usado para especificar que apenas pessoas conhecidas ou anônimas fluem pela campanha.
+Alteramos a forma como as pessoas anônimas interagem com Campanhas inteligentes. Antes, eles fluíam através de uma campanha inteligente, assim como pessoas conhecidas. O filtro &quot;Is Anonymous&quot; foi usado para especificar que apenas pessoas conhecidas ou anônimas fluem pela campanha.
 
-Com o Munchkin V2, continuaremos a acompanhar todas as atividades anônimas; no entanto, não é mais possível aplicar filtros a pessoas anônimas. No ponto de conversão (quando a pessoa se torna conhecida no Marketo), todas as atividades que ocorreram quando a pessoa era anônima são anexadas ao registro de atividades da pessoa e, nesse momento, fluem pelas campanhas para as quais se qualificaram.
+Com [!DNL Munchkin] Na V2, continuaremos a rastrear todas as atividades anônimas; no entanto, você não poderá mais aplicar filtros a pessoas anônimas. No ponto de conversão (quando a pessoa se torna conhecida no Marketo), todas as atividades que ocorreram quando a pessoa era anônima são anexadas ao log de atividades da pessoa e, neste momento, elas fluem pelas campanhas para as quais se qualificam.
 
-Se você já estiver usando esse filtro em uma Smart List (por exemplo, em uma Campanha inteligente ou um Relatório), ele não será removido automaticamente da Smart List. Consulte abaixo para obter mais detalhes.
+Se você já estiver usando esse filtro em uma Smart List (por exemplo, em uma Campanha inteligente ou um Relatório), ele não será removido automaticamente da Smart List. Veja mais detalhes abaixo.
 
 >[!NOTE]
 >
->**Acionador**: Visitas Página da Web, Página da Web é Página de Preços\
+>**Acionador**: Página da Web de visitas, página da Web com preços\
 >**Fluxo**: Alterar pontuação +10 e momento interessante
->**Web**: Página Preços Visualizados
+>**Web**: Página de preços exibida
 >
->Com o Munchkin V2, se uma pessoa anônima visitar a página de preços, ela não entrará na campanha imediatamente. Quando a pessoa anônima se tornar conhecida, nós realizaremos esta campanha nela. Ela irá:
+>Com [!DNL Munchkin] V2, se uma pessoa anônima visitar a página de preços, ela não entrará na campanha imediatamente. Quando o anônimo se tornar conhecido, faremos essa campanha com ela. Ela vai:
 >
->* Obter uma pontuação de 10
+>* Obtenha uma pontuação de 10
 >
->* Ter a atividade Página da Web definida como a data certa (quando ela realmente visitou)
+>* Ter a atividade de página da Web definida para a data correta (quando ela realmente visitou)
 >
->* Tenha um momento interessante registrado para ela (com a data em que ela realmente visitou a página, não quando ela ficou conhecida)
+>* Registre um momento interessante para ela (com a data em que ela visitou a página, não quando se tornou conhecida)
 >
->* Tenha uma atividade &quot;Nova pessoa&quot; registrada, como está hoje
+>* Ter uma atividade &quot;Nova pessoa&quot; registrada, como está hoje
 
 
-## O que acontece com minhas Smart Lists que já têm o filtro &quot;Is Anonymous&quot;? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
+## O que acontece com minhas Smart Lists que já têm o filtro &quot;É anônimo&quot;? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 
-Depois da nossa versão de inverno de 16, se você tem campanhas inteligentes antigas com uma Smart List que tem o filtro &quot;Is Anonymous&quot; nela, uma das duas coisas acontecerão:
+Depois da nossa versão de inverno de 16, se você tiver campanhas inteligentes antigas com uma lista inteligente que contenha o filtro &quot;É anônimo&quot;, uma das duas coisas acontecerá:
 
-1. Se a Smart List tiver o filtro &quot;Is Anonymous = False&quot;, nada acontecerá. Nós vamos simplesmente ignorá-lo.
+1. Se a Smart List tiver o filtro &quot;Is Anonymous = False&quot;, nada acontecerá. Vamos simplesmente ignorá-lo.
 1. Se a Smart List tiver o filtro &quot;Is Anonymous = True&quot;, essa campanha falhará e você receberá uma notificação.
 
 ## Eu uso o Marketo há algum tempo. Como sei qual das minhas campanhas usa o filtro &quot;É anônimo&quot;? {#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}
 
-Antes de fazer essa alteração, enviamos várias notificações semanais para sua caixa de entrada de Notificações com uma lista de Smart Lists, Campanhas inteligentes e Relatórios que usam o filtro &quot;É anônimo&quot;. Isso pode ajudar a identificar onde você está usando esse filtro no momento.
+Antes de fazermos essa alteração, enviamos várias notificações semanais para sua caixa de entrada Notificações com uma lista de Smart Lists, Campanhas inteligentes e Relatórios que usam o filtro &quot;É anônimo&quot;. Isso pode ajudá-lo a identificar onde você está usando esse filtro no momento.
 
-Revise-as e identifique onde você tem &quot;Anônimo&quot; definido como Verdadeiro, pois essas são as campanhas afetadas. Na maioria das vezes, os clientes usam essa configuração para algum tipo de pontuação. Consulte o exemplo acima para entender como essas campanhas funcionarão agora.
+Revise-as e identifique onde &quot;É anônimo&quot; está definido como Verdadeiro, pois essas são as campanhas afetadas. Na maioria das vezes, os clientes usam essa configuração para algum tipo de pontuação. Consulte o exemplo acima para entender como essas campanhas funcionarão agora.
 
-## Gostaria de documentação mais detalhada. Onde posso encontrá-lo? {#id-like-more-detailed-documentation-where-can-i-find-it}
+## Eu gostaria de documentação mais detalhada. Onde posso encontrá-lo? {#id-like-more-detailed-documentation-where-can-i-find-it}
 
 Confira estes links:
 
-[Visão geral de atualizações de clientes potenciais anônimos](https://nation.marketo.com/docs/DOC-2937){target=&quot;_blank&quot;}
+[Visão geral de atualizações de clientes potenciais anônimos](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
 
-[Atualizações de clientes potenciais anônimos - Alterações na interface do usuário do Marketo](https://nation.marketo.com/docs/DOC-2938){target=&quot;_blank&quot;}
+[Atualizações de clientes potenciais anônimos - Alterações na interface do usuário do Marketo](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
 
-[Upgrades de clientes potenciais anônimos - Ação necessária do cliente](https://nation.marketo.com/docs/DOC-2939){target=&quot;_blank&quot;}
+[Atualizações de clientes potenciais anônimos - Ação do cliente necessária](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
-[Upgrades de clientes potenciais anônimos - Relatórios do Analytics](https://nation.marketo.com/docs/DOC-2940){target=&quot;_blank&quot;}
+[Atualizações de clientes potenciais anônimos - Relatórios do Analytics](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
 
-[Atualizações de lead anônimas - Programação de lançamento](https://nation.marketo.com/docs/DOC-2961){target=&quot;_blank&quot;}
+[Atualizações de clientes potenciais anônimos - Programação de lançamento](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
-[Upgrades De Lead Anônimos - Sob O Cabeça](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
+[Atualizações de leads anônimos - Por baixo dos panos](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
-[Promoção principal anônima ao cliente potencial conhecido - Comportamento do Munchkin V2](https://nation.marketo.com/docs/DOC-2963){target=&quot;_blank&quot;}
+[Promoção de lead anônimo para lead conhecido - [!DNL Munchkin] Comportamento V2](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
-## Tenho mais perguntas! Como obtenho respostas? {#i-have-more-questions-how-do-i-get-them-answered}
+## Eu tenho mais perguntas! Como posso respondê-los? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Entre em contato com o [comunidade](https://nation.marketo.com/){target=&quot;_blank&quot;}. Também é possível entrar em contato [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}. Eles ficarão felizes em responder suas perguntas.
+Entre em contato com o [comunidade](https://nation.marketo.com/){target="_blank"}. You can also contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}. Eles ficarão felizes em responder suas perguntas.
