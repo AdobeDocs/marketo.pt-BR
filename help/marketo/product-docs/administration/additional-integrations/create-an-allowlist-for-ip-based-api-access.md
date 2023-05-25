@@ -1,36 +1,36 @@
 ---
 unique-page-id: 10098433
-description: Criar uma  Lista de permissões para acesso à API baseado em IP - Documentos do Marketo - Documentação do produto
-title: Criar uma  Lista de permissões para acesso à API baseado em IP
+description: Criar um novo Incluo na lista de permissões para acesso à API com base em IP - Documentação do Marketo - Documentação do produto
+title: Criar uma Inclui na lista de permissões para Acesso à API com base em IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Criar uma  Lista de permissões para acesso à API baseado em IP {#create-an-allowlist-for-ip-based-api-access}
+# Criar uma Inclui na lista de permissões para Acesso à API com base em IP {#create-an-allowlist-for-ip-based-api-access}
 
-Às vezes, você deseja conceder acesso à API somente a um endereço IP específico ou a um intervalo de endereços. Para fazer isso, primeiro habilite as restrições e, em seguida, especifique os endereços IP que podem usar as APIs.
+Às vezes, você deseja conceder à API acesso somente a um endereço IP específico ou a um intervalo de endereços. Para fazer isso, primeiro habilite as restrições e, em seguida, especifique os endereços IP que podem usar as APIs.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. Clique em **Serviços Web**.
+1. Clique em **[!UICONTROL Serviços da Web]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. Na área Restrições de IP, clique em **Editar,** ou clique em **Editar restrições de IP** no canto superior esquerdo.
+1. No **[!UICONTROL Restrições de IP]** clique em **[!UICONTROL Editar],** ou clique em **[!UICONTROL Editar restrições de IP]** no canto superior esquerdo.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Verifique a **Habilitar restrições de IP** e insira os endereços IP que deseja lista de permissões.
+1. Verifique a **[!UICONTROL Habilitar restrições de IP]** lista de permissões e insira os endereços IP que deseja modificar.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
@@ -38,10 +38,10 @@ ht-degree: 0%
    >
    >Você pode inserir um único endereço IP ou um intervalo deles, ou usar um curinga.
 
-1. Clique em **Adicionar** para abrir campos adicionais e inserir mais endereços IP.
+1. Clique em **[!UICONTROL Adicionar]** para abrir campos adicionais e inserir mais endereços IP.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)

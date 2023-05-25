@@ -1,22 +1,22 @@
 ---
 unique-page-id: 2360350
-description: Criar um serviço personalizado para uso com a API ReST - Documentos do Marketo - Documentação do produto
-title: Criar um serviço personalizado para uso com a API ReST
+description: Criar um serviço personalizado para usar com a API ReST - Documentação do Marketo - Documentação do produto
+title: Criar um serviço personalizado para usar com a API ReST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 1%
 
 ---
 
-# Criar um serviço personalizado para uso com a API ReST {#create-a-custom-service-for-use-with-rest-api}
+# Criar um serviço personalizado para usar com a API ReST {#create-a-custom-service-for-use-with-rest-api}
 
-Se quiser integrar com o Marketo por meio da API ReST, crie um serviço personalizado. Veja como.
+Se quiser integrar ao Marketo por meio da API ReST, crie um serviço personalizado. Veja como.
 
 >[!PREREQUISITES]
 >
->* [Criar uma função de usuário somente de API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [Criar uma função de usuário somente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [Criar um usuário somente de API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
 
@@ -27,11 +27,11 @@ Se quiser integrar com o Marketo por meio da API ReST, crie um serviço personal
 
 >[!TIP]
 >
->Consulte a documentação de nossos desenvolvedores para obter detalhes sobre o [ReST API](https://developers.marketo.com/documentation/rest/). Também temos o [API SOAP](https://developers.marketo.com/documentation/soap/) se é disso que você precisa.
+>Consulte nossa documentação de desenvolvedores para obter detalhes sobre a [API ReST](https://developers.marketo.com/documentation/rest/). Também temos o [API SOAP](https://developers.marketo.com/documentation/soap/) se é isso que você precisa.
 
 ## Criar serviço personalizado {#create-custom-service}
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -39,46 +39,46 @@ Se quiser integrar com o Marketo por meio da API ReST, crie um serviço personal
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
-1. Selecionar **Novo** e depois **Novo Serviço**.
+1. Selecionar **[!UICONTROL Novo]** e depois **[!UICONTROL Novo serviço]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Insira um **Nome de exibição** para o serviço. Selecione o **Usuário somente API** [criado anteriormente](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Insira um **[!UICONTROL Nome de exibição]** para o serviço. Selecione o **[!UICONTROL Somente usuário da API]** [criado anteriormente](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
    >[!NOTE]
    >
-   >Observe que já temos integração nativa para serviços populares de webinar.
+   >Observe que já temos integração nativa para serviços populares de webinários.
 
-1. Clique em **Criar**.
+1. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
-   Sim! O serviço foi criado, vamos continuar e obter todas as credenciais para fornecer acesso.
+   Ah, sim! O serviço foi criado, vamos buscar todas as credenciais para fornecer o acesso.
 
-## Credenciais para o Acesso à API {#credentials-for-api-access}
+## Credenciais para acesso à API {#credentials-for-api-access}
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
-1. Clique em **LaunchPoint**.
+1. Clique em **[!UICONTROL LaunchPoint]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. Clique em **Exibir detalhes** para o serviço personalizado do LaunchPoint criado acima.
+1. Clique em **[!UICONTROL Exibir detalhes]** para o personalizado [!UICONTROL LaunchPoint] serviço criado acima.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
-1. Clique em **Obter token**.
+1. Clique em **[!UICONTROL Obter token]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
 
-1. Forneça a **ID do cliente**, **Segredo do cliente**, **Usuário autorizado** e **Token** à pessoa encarregada do estabelecimento da ligação.
+1. Forneça o **[!UICONTROL ID do cliente]**, **[!UICONTROL Segredo do cliente]**, **[!UICONTROL Usuário autorizado]**, e **[!UICONTROL Token]** à pessoa encarregada de estabelecer a ligação.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-10.png)
 
 >[!CAUTION]
 >
->Não compartilhe essas informações; é o backdoor para seus dados. Mantenha seguro!
+>Não compartilhe essa informação; é o segredo dos seus dados. Mantenha-o seguro!
