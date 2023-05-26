@@ -1,53 +1,53 @@
 ---
 unique-page-id: 2360335
-description: Bloquear atualizações de campo durante a importação de lista de fontes não confiáveis - Documentos do Marketo - Documentação do produto
-title: Bloquear Atualizações de Campo Durante a Importação de Lista de Fontes Não Confiáveis
+description: Bloquear atualizações de campo durante a importação de lista de fontes não confiáveis - Documentação do Marketo - Documentação do produto
+title: Bloquear atualizações de campo durante a importação de lista de fontes não confiáveis
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-# Bloquear Atualizações de Campo Durante a Importação de Lista de Fontes Não Confiáveis {#block-field-updates-during-list-import-from-untrusted-sources}
+# Bloquear atualizações de campo durante a importação de lista de fontes não confiáveis {#block-field-updates-during-list-import-from-untrusted-sources}
 
-Você pode confiar nos dados em algumas listas mais do que em outras. Às vezes, você pode ter dados questionáveis e desejar utilizá-los se o campo estiver em branco, mas não se houver um valor existente. Você pode fazer isso bloqueando atualizações de campo em campos principais.
+Você pode confiar mais nos dados de algumas listas do que de outras. Às vezes, você tem dados questionáveis e quer usá-los se o campo estiver em branco, mas não se houver um valor existente. Você pode fazer isso bloqueando as atualizações de campo em campos principais.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-## Bloqueio de atualizações de campo a partir de fontes não confiáveis {#blocking-field-updates-from-untrusted-sources}
+## Bloqueando Atualizações De Campo De Origens Não Confiáveis {#blocking-field-updates-from-untrusted-sources}
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
-1. Clique em **Gerenciamento de campos**.
+1. Clique em **[!UICONTROL Gerenciamento de campo]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. Encontre o campo desejado, selecione-o e, em seguida, em **Ações do campo**, clique em **Bloquear Atualizações de Campo**.
+1. Localize o campo desejado, selecione-o e, em **[!UICONTROL Ações de campo]**, clique em **[!UICONTROL Bloquear atualizações de campo]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 
-1. Verificar **Importar Lista de Origem Não Confiável** e clique em **Aplicar**.
+1. Marcar **[!UICONTROL Lista Importar origem não confiável]** e clique em **[!UICONTROL Aplicar]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->Você pode manter os campos seguros de todas as listas, confiáveis e não confiáveis, verificando também **Origem confiável de Importação de Lista**.
+>É possível manter os campos protegidos de todas as listas, confiáveis e não confiáveis, verificando também **[!UICONTROL Lista Importar origem confiável]**.
 
-Repita as etapas acima para qualquer outro campo que desejar manter seguro de listas não confiáveis.
+Repita as etapas acima para quaisquer outros campos que você queira manter a salvo de listas não confiáveis.
 
 ## Executando uma Importação de Lista Não Confiável {#running-an-untrusted-list-import}
 
-1. Ao executar a importação da lista, selecione **Não confiável** se quiser que todos os campos configurados na etapa anterior sejam seguros.
+1. Ao executar a importação da lista, selecione **[!UICONTROL Não confiável]** se quiser que todos os campos configurados na etapa anterior sejam seguros.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
-Para obter instruções detalhadas sobre importação de listas, consulte [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
+Para obter instruções detalhadas sobre como importar listas, consulte [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
-Bom trabalho! Agora você sabe como manter os campos principais seguros de listas não confiáveis.
+Bom trabalho! Agora você sabe como manter os campos principais protegidos contra listas não confiáveis.

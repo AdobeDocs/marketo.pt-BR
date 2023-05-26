@@ -1,43 +1,43 @@
 ---
 unique-page-id: 45417092
-description: Exportar dados usados por para um campo - Documentos do Marketo - Documentação do produto
+description: Exportação usada pelos dados para um campo - Documentação do Marketo - Documentação do produto
 title: Exportar dados usados por para um campo
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # Exportar dados usados por para um campo {#export-used-by-data-for-a-field}
 
-Como administrador, você pode exportar ativos relacionados de um campo para poder delegar sua desvinculação à sua equipe.
+Como administrador, você pode exportar ativos relacionados de um campo para que possa delegar a desvinculação deles à sua equipe.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. Clique em **Gerenciamento de campos**.
+1. Clique em **[!UICONTROL Gerenciamento de campo]**.
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
-1. Encontre o campo desejado e selecione-o.
+1. Localize o campo desejado e selecione-o.
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. Clique no botão **Ações do campo** e selecione **Exportar Usado Por**.
+1. Clique em **[!UICONTROL Ações de campo]** e selecione **[!UICONTROL Exportação Usada Por]**.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Um arquivo Excel será exportado. Abra-o para exibir seu conteúdo.
+1. Um [!DNL Excel] o arquivo será exportado. Abra-o para visualizar seu conteúdo.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 
    >[!TIP]
    >
-   >Cada ativo relacionado é um link que pode ser clicado e será aberto no Marketo.
+   >Cada ativo relacionado é um link que pode ser clicado e que será aberto no Marketo.

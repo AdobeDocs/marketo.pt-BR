@@ -1,39 +1,39 @@
 ---
 unique-page-id: 2360295
-description: Exportar uma lista de todos os nomes de campo da API do Marketo - Documentos do Marketo - Documentação do produto
-title: Exportar uma lista de todos os nomes de campo da API do Marketo
+description: Exportar uma lista de todos os nomes de campos da API do Marketo - Documentação do Marketo - Documentação do produto
+title: Exportar uma lista de todos os nomes de campos da API do Marketo
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# Exportar uma lista de todos os nomes de campo da API do Marketo {#export-a-list-of-all-marketo-api-field-names}
+# Exportar uma lista de todos os nomes de campos da API do Marketo {#export-a-list-of-all-marketo-api-field-names}
 
-Se estiver usando nossa API SOAP ou API do Munchkin, precisará de uma lista de todos os campos e nomes de API. Aqui está como obter esta lista.
+Se você estiver usando nosso [!DNL SOAP API] ou [!DNL Munchkin API] você precisará de uma lista de todos os seus campos e dos respectivos Nomes de API. Veja como obter esta lista.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-1.png)
 
-1. Clique em **Gerenciamento de campos**.
+1. Clique em **[!UICONTROL Gerenciamento de campo]**.
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-2.png)
 
-1. Clique em **Exportar nomes de campo** para baixar a planilha.
+1. Clique em **[!UICONTROL Exportar nomes de campo]** para baixar a planilha.
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 
-Legal! Agora você tem uma planilha com uma lista de todos os seus campos e seus Nomes de API.
+Legal! Agora você tem uma planilha com uma lista de todos os campos e seus Nomes de API.
 
 ![](assets/export-a-list-of-all-marketo-api-field-names-4.png)
 
 >[!NOTE]
 >
->O limite de caracteres para nomes de API MLM é 255.
+>O limite de caracteres para Nomes de API do MLM é de 255.
