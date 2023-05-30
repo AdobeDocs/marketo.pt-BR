@@ -1,9 +1,9 @@
 ---
 unique-page-id: 10098479
-description: Criar uma atividade personalizada - Documentos do Marketo - Documentação do produto
+description: Crie uma atividade personalizada - Documentação do Marketo - Documentação do produto
 title: Criar uma atividade personalizada
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -16,33 +16,33 @@ Siga estas etapas para criar uma nova atividade personalizada.
 
 >[!NOTE]
 >
->A maioria das subscrições tem um limite alocado de 10 tipos de Atividade personalizada.
+>A maioria das assinaturas tem um limite alocado de 10 tipos de atividades personalizadas.
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/create-a-custom-activity-1.png)
 
-1. Clique em **Atividades personalizadas do Marketo**.
+1. Clique em **[!UICONTROL Atividades personalizadas do Marketo]**.
 
    ![](assets/create-a-custom-activity-2.png)
 
-1. Clique em **Nova atividade personalizada**.
+1. Clique em **[!UICONTROL Nova atividade personalizada]**.
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. Insira um nome e uma descrição opcional, em seguida, clique em **Próximo**. O Nome da API é preenchido automaticamente, mas pode ser personalizado.
+1. Insira um nome e opcional [!UICONTROL Descrição]e, em seguida, clique em **[!UICONTROL Próxima]**. O Nome da API é preenchido automaticamente, mas pode ser personalizado.
 
    ![](assets/create-a-custom-activity-4.png)
 
    >[!CAUTION]
    >
-   >Se decidir alterar o nome da API, verifique se o nome não está em conflito com campos em outras atividades personalizadas.
+   >Se decidir alterar o nome da API, verifique se ele não está em conflito com campos em outras atividades personalizadas.
 
-1. Defina as **Filtro** e **Acionador** e clique em **Próximo**.
+1. Defina o seu [!UICONTROL Filtro] e [!UICONTROL Acionador] e clique em **[!UICONTROL Próxima]**.
 
    ![](assets/create-a-custom-activity-5.png)
 
-1. Dê um nome ao campo principal que resume o objetivo da atividade personalizada.
+1. Dê ao campo principal um nome que resuma o objetivo da atividade personalizada.
 
    ![](assets/create-a-custom-activity-6.png)
 

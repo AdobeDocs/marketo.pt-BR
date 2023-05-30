@@ -1,9 +1,9 @@
 ---
 unique-page-id: 10100269
-description: Editar uma atividade personalizada - Documentos do Marketo - Documentação do produto
+description: Editar uma atividade personalizada - Documentação do Marketo - Documentação do produto
 title: Editar uma atividade personalizada
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 1%
@@ -14,11 +14,11 @@ ht-degree: 1%
 
 Precisa fazer alterações em uma atividade personalizada que você já criou? Veja como.
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. Clique em **Atividades personalizadas do Marketo**.
+1. Clique em **[!UICONTROL Atividades personalizadas do Marketo]**.
 
    ![](assets/edit-a-custom-activity-2.png)
 
@@ -26,7 +26,7 @@ Precisa fazer alterações em uma atividade personalizada que você já criou? V
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. Clique em **Ações de atividade personalizada** e selecione **Editar atividade**.
+1. Clique em **[!UICONTROL Ações de atividade personalizadas]** e selecione **[!UICONTROL Editar atividade]**.
 
    ![](assets/edit-a-custom-activity-4.png)
 
@@ -34,12 +34,12 @@ Precisa fazer alterações em uma atividade personalizada que você já criou? V
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. Insira suas novas informações e clique em **Enviar**.
+1. Insira suas novas informações e clique em **[!UICONTROL Enviar]**.
 
    ![](assets/edit-a-custom-activity-6.png)
 
-   Sua atividade personalizada agora é editada!
+   Sua atividade personalizada foi editada.
 
    >[!NOTE]
    >
-   >Se sua atividade foi um rascunho no momento da edição, ela permanece um rascunho. Se foi publicado, o status muda para Publicado com rascunho.
+   >Se a atividade era um rascunho no momento da edição, ela permanece um rascunho. Se ele foi publicado, o status muda para Publicado com rascunho.
