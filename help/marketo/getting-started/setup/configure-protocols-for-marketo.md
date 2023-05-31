@@ -1,50 +1,50 @@
 ---
 unique-page-id: 4720433
-description: Configurar protocolos para Marketo - Documentos do Marketo - Documentação do produto
-title: Configurar protocolos para Marketo
+description: Configurar protocolos para o Marketo - Documentação do Marketo - Documentação do produto
+title: Configurar protocolos para o Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
+source-git-commit: 5a8fe88dec5f2bf9c94c0a08a5515b87bc6dcaa9
 workflow-type: tm+mt
-source-wordcount: '1021'
+source-wordcount: '1024'
 ht-degree: 3%
 
 ---
 
-# Configurar protocolos para Marketo {#configure-protocols-for-marketo}
+# Configurar protocolos para o Marketo {#configure-protocols-for-marketo}
 
-Se você ou sua organização usar configurações restritivas de firewall ou servidor proxy, talvez seja necessário lista de permissões o administrador da rede ou determinados domínios e intervalos de endereço IP para garantir que a Adobe Marketo Engage funcione conforme esperado.
+Lista de permissões Se você ou sua organização usarem configurações restritivas de firewall ou servidor proxy, talvez você ou o administrador de rede precise pesquisar determinados domínios e intervalos de endereço IP para garantir que o Adobe Marketo Engage funcione conforme esperado.
 
-## Páginas de aterrissagem e emails de campanha com marca {#branded-campaign-landing-pages-and-emails}
+## Páginas de aterrissagem e e-mails de campanha com marca {#branded-campaign-landing-pages-and-emails}
 
-Seu grupo de marketing está usando o Marketo para criar páginas de aterrissagem e emails de campanha de marca. Para garantir que essas landing pages e emails funcionem, eles precisam de uma pequena ajuda da TI. Configure os seguintes protocolos, com as informações que seu grupo de marketing deve ter enviado por email.
+Seu grupo de marketing está usando o Marketo para criar landing pages de campanha e emails com a marca. Para garantir que essas landing pages e emails funcionem, eles precisam de uma pequena ajuda da TI. Configure os seguintes protocolos, com as informações que o seu grupo de marketing deveria ter enviado por email.
 
 Este artigo deve ser compartilhado com o departamento de TI da empresa que deseja implementar esses protocolos.
 
-Se sua equipe de TI restringir o acesso à Web usando uma  lista de permissões, peça para adicionar os seguintes domínios (incluindo o asterisco) para permitir todos os recursos e websockets da Marketo:
+Se sua equipe de TI restringir o acesso à Web usando uma inclui na lista de permissões, peça que eles adicionem os seguintes domínios (incluindo o asterisco) para permitir todos os recursos e soquetes da Marketo:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
 * `*.experience.adobe.com`
 
-## Etapa 1: Criar registros DNS para páginas de aterrissagem e email {#step-create-dns-records-for-landing-pages-and-email}
+## Etapa 1: criar registros DNS para landing pages e email {#step-create-dns-records-for-landing-pages-and-email}
 
-**Rastreamento de CNAMEs de links**
+**Rastreamento de CNAMEs de link**
 
-Sua equipe de marketing deve ter enviado duas solicitações para novos registros CNAME. O primeiro é para URLs de página de aterrissagem, de modo que as páginas de aterrissagem sejam exibidas em URLs que reflitam seu domínio e não no Marketo (o host real). O segundo é para os links de rastreamento que estão incluídos nos emails enviados do Marketo.
+Sua equipe de marketing deve ter enviado duas solicitações para novos registros CNAME. O primeiro é para URLs de página de aterrissagem, para que as páginas de aterrissagem apareçam em URLs que refletem seu domínio, não o Marketo (o host real). O segundo é para os links de rastreamento incluídos nos emails enviados pelo Marketo.
 
-`1` **Adicionar CNAME para páginas de aterrissagem**
+`1` **Adicionar CNAME para landing pages**
 
-Adicione o CNAME da landing page que eles enviaram para seu registro DNS, para que `[YourLandingPageCNAME]` aponta para a sequência de caracteres de conta exclusiva atribuída às páginas de aterrissagem do Marketo. Faça logon no site do registrador de domínios e insira a página de aterrissagem CNAME e a Sequência de caracteres da conta. Normalmente, isso envolve três campos:
+Adicione a página de aterrissagem CNAME que eles enviaram para você ao registro DNS, para que `[YourLandingPageCNAME]` aponta para a Cadeia de caracteres da conta exclusiva atribuída às páginas de aterrissagem do Marketo. Faça logon no site do registrador de domínios e digite a página de aterrissagem CNAME e a sequência de caracteres da conta. Normalmente, isso envolve três campos:
 
-* Alias: Enter `[YourLandingPageCNAME]` (fornecido pela comercialização)
+* Alias: Enter `[YourLandingPageCNAME]` (fornecido por marketing)
 * Tipo: CNAME
-* Aponte para: Enter `[MunchkinID].mktoweb.com` (fornecido pela comercialização)
+* Apontar para: Inserir `[MunchkinID].mktoweb.com` (fornecido por marketing)
 
 `2` **Adicionar CNAME para links de rastreamento de email**
 
-Adicione o marketing CNAME do email enviado para que você `[YourEmailCNAME]` pontos a [MktoTrackingLink], o link de rastreamento padrão atribuído pelo Marketo, no formato:\
-`[YourEmailCNAME].[YourDomain].com` NO CNAME `[MktoTrackingLink]`
+Adicione o email CNAME marketing enviado a você, para que `[YourEmailCNAME]` aponta para [MktoTrackingLink], o link de rastreamento padrão atribuído pelo Marketo, no formato:\
+`[YourEmailCNAME].[YourDomain].com` EM CNAME `[MktoTrackingLink]`
 
 Por exemplo:
 
@@ -54,76 +54,85 @@ Por exemplo:
 >
 >`[MktoTrackingLink]` deve ser o Domínio de marca padrão.
 
-`3` **Notificar sua equipe de marketing**
+`3` **Notifique a sua equipe de marketing**
 
-Informe sua equipe de marketing quando tiver concluído esse processo.
+Notifique a equipe de marketing quando concluir esse processo.
 
-`4` **Contato [Suporte Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para iniciar o processo de provisionamento de um certificado SSL.**
+`4` **Contato [Suporte ao Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para iniciar o processo de provisionamento de um Certificado SSL.**
 
 Esse processo pode levar até 3 dias úteis para ser concluído.
 
-## Etapa 2: lista de permissões IPs do Marketo {#step-allowlist-marketo-ips}
+## Etapa 2: Marketo IPs da Lista de permissões {#step-allowlist-marketo-ips}
 
-Quando seu grupo de marketing usa o Marketo para enviar emails de teste (uma prática recomendada antes de enviar emails explícitos), os emails de teste às vezes são bloqueados por sistemas antisspam que dependem de endereços IP de remetente para verificar se o email é válido. Para garantir que esses emails de teste cheguem, adicione Marketo à sua lista de permissões.
+Quando seu grupo de marketing usa o Marketo para enviar emails de teste (uma prática recomendada antes de enviar propagações de email), os emails de teste às vezes são bloqueados por sistemas antisspam que dependem de endereços IP de remetente para verificar se o email é válido. Para garantir que esses emails de teste cheguem, adicione o Marketo ao seu incluo na lista de permissões de teste.
 
-Adicione esses endereços IP à  de lista de permissões corporativa:
+Lista de permissões Adicione esses endereços IP ao seu arquivo de pesquisa corporativo:
 
-199.15.212.0/22\
-192.28.144.0/20
-192.28.160.0/19\
-185.28.196.0/22\
-130.248.172.0/24\
-130.248.173.0/24\
-103.237.104.0/22\
 94.236.119.0/26
 
-Alguns sistemas antisspam usam o campo Return-Path de email em vez do endereço IP para permitir. Nesses casos, a melhor abordagem é lista de permissões &quot;&#42;.mktomail.com&#39;, pois o Marketo usa vários subdomínios de caixa de correio. Outros sistemas antisspam lista de permissões com base no endereço De. Nessas situações, certifique-se de incluir todos os domínios de envio (&#39;From&#39;) que seu grupo de marketing usa para se comunicar com pessoas/leads.
+103.237.104.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+130.248.244.88/29
+
+185.28.196.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+199.15.212.0/22
+
+Alguns sistemas antisspam usam o campo Return-Path do email em vez do endereço IP para incluir na lista de permissões. Nesses casos, a melhor abordagem é incluir na lista de permissões &quot;&#42;.mktomail.com&#39;, pois o Marketo usa vários subdomínios de caixa de correio. Outros sistemas antisspam incluem na lista de permissões com base no endereço Do. Nessas situações, inclua todos os domínios de envio (&quot;From&quot;) que seu grupo de marketing usa para se comunicar com pessoas/clientes potenciais.
 
 >[!NOTE]
 >
->A Postini emprega uma tecnologia exclusiva e requer intervalos IP de  incluir na lista de permissões. Consulte [inclua na lista de permissões com Postini](https://nation.marketo.com/docs/DOC-1066).
+>O Postini emprega uma tecnologia exclusiva e requer o incluir na lista de permissões de intervalos IP. Consulte [➡ Incluindo na lista de permissões com Postini](https://nation.marketo.com/docs/DOC-1066).
 
-## Etapa 3: Configurar SPF e DKIM {#step-set-up-spf-and-dkim}
+## Etapa 3: configurar SPF e DKIM {#step-set-up-spf-and-dkim}
 
-Sua equipe de marketing também deve ter enviado informações do DKIM para adicioná-las ao registro de recursos do DNS (também listado abaixo). Siga as etapas para configurar o DKIM e o SPF com sucesso e, em seguida, notifique sua equipe de marketing de que isso foi atualizado.
+Sua equipe de marketing também deve ter enviado informações DKIM para você serem adicionadas ao seu registro de recurso DNS (também listado abaixo). Siga as etapas para configurar com êxito o DKIM e o SPF e notifique sua equipe de marketing de que isso foi atualizado.
 
-1. Para configurar o SPF, adicione a seguinte linha às entradas de DNS:
+1. Para configurar o SPF, adicione a seguinte linha às suas entradas de DNS:
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   incluem: mktomail.com ~all
+   `[CompanyDomain]` EM TXT v=spf1 mx ip4:`[CorpIP]`\
+   incluir: mktomail.com ~all
 
-   Se já houver um registro SPF existente em nossa entrada DNS, basta adicionar o seguinte a ele:\
-   incluem: mktomail.com
+   Se já tivermos um registro SPF existente em nossa entrada DNS, basta adicionar o seguinte a ele:\
+   incluir: mktomail.com
 
-   Substitua CompanyDomain pelo domínio principal de seu site (por exemplo: &quot;`(company.com/)`&quot;) e CorpIP com o endereço IP do seu servidor de email corporativo (por exemplo, &quot;255.255.255.255&quot;). Caso envie emails de vários domínios por meio do Marketo, sua equipe de TI deve adicionar essa linha para cada domínio (em uma linha).
+   Substitua CompanyDomain pelo domínio principal do seu site (por exemplo: &quot;`(company.com/)`&quot;) e CorpIP com o endereço IP do seu servidor de email corporativo (por exemplo, &quot;255.255.255.255&quot;). Se você for enviar emails de vários domínios por meio do Marketo, a equipe de TI deve adicionar essa linha para cada domínio (em uma linha).
 
-1. Para DKIM, crie Registros de Recursos de DNS para cada domínio que gostaríamos de configurar. Abaixo estão os Registros de host e os Valores TXT para cada domínio que iremos assinar:
+1. Para DKIM, crie Registros de Recursos DNS para cada domínio que gostaríamos de configurar. Abaixo estão os Registros do host e Valores TXT para cada domínio que estaremos assinando:
 
-   `[DKIMDomain1]`: O Registro do Host é `[HostRecord1]` e o valor TXT é `[TXTValue1]`.
+   `[DKIMDomain1]`: o registro do host é `[HostRecord1]` e o Valor de TXT for `[TXTValue1]`.
 
-   `[DKIMDomain2]`: O Registro do Host é `[HostRecord2]` e o valor TXT é `[TXTValue2]`.
+   `[DKIMDomain2]`: o registro do host é `[HostRecord2]` e o Valor de TXT for `[TXTValue2]`.
 
-   Copie o HostRecord e o TXTValue para cada DKIMDomain que você configurou depois de seguir a [instruções aqui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Não se esqueça de verificar cada domínio em Admin > Email > DKIM depois que sua equipe de TI concluir esta etapa.
+   Copie o HostRecord e o TXTValue para cada DKIMDomain configurado após seguir o [instruções aqui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Não se esqueça de verificar cada domínio em Admin > Email > DKIM depois que sua equipe de TI concluir esta etapa.
 
-## Etapa 4: Configurar registros MX para seu domínio {#step-set-up-mx-records-for-your-domain}
+## Etapa 4: configurar registros MX para o seu domínio {#step-set-up-mx-records-for-your-domain}
 
-Um registro MX permite receber emails para o domínio do qual você está enviando emails para processar respostas e respondedores automáticos. Se você estiver enviando do seu domínio corporativo, provavelmente já terá isso configurado. Caso contrário, você geralmente pode configurá-lo para mapear para o registro MX do domínio corporativo.
+Um registro MX permite receber emails do domínio do qual você está enviando email para processar respostas e respostas automáticas. Se estiver enviando do domínio corporativo, provavelmente você já tem essa configuração. Caso contrário, geralmente é possível configurá-lo para mapear para o registro MX do domínio corporativo.
 
-## Endereços IP de saída {#outbound-ip-addresses}
+## Endereços IP de Saída {#outbound-ip-addresses}
 
-Uma conexão de saída é feita pelo Marketo Engage para um servidor na Internet em seu nome. Alguns parceiros/fornecedores com os quais você trabalha ou sua própria organização de TI podem usar listas de permissões para restringir o acesso aos servidores. Em caso positivo, forneça a eles blocos de endereço IP de saída do Marketo Engage para adicionar às lista de permissões.
+Uma conexão de saída é feita por Marketo Engage a um servidor na Internet em seu nome. Alguns parceiros/fornecedores com os quais você trabalha ou sua própria organização de TI podem usar as listas de permissões de para restringir o acesso aos servidores. Em caso positivo, você deve fornecer a eles blocos de endereço IP de saída Marketo Engage para adicionar às suas incluis na lista de permissões.
 
 **Webhooks**
 
-Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} a ação de fluxo é executada como parte de uma campanha inteligente, uma solicitação HTTP é feita para um serviço da Web externo. Se o editor do serviço da Web usar uma  lista de permissões no firewall da rede onde o serviço da Web externo está localizado, o editor deverá adicionar os blocos de endereço IP listados abaixo à lista de permissões.
+Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} A ação de fluxo é executada como parte de uma campanha inteligente, uma solicitação HTTP é feita a um serviço da web externo. Lista de permissões lista de permissões Se o editor de serviços da Web usar um arquivo de replicação na rede em que o serviço da Web externo está localizado, o editor deverá adicionar os blocos de endereço IP listados abaixo ao seu arquivo de replicação.
 
 **Sincronização com CRM**
 
-Marketo Engage [Sincronização do Salesforce CRM](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} são mecanismos de integração que fazem solicitações HTTP de saída para APIs publicadas pelo seu fornecedor de CRM. Você deve garantir que sua organização de TI não bloqueie nenhum dos blocos de endereço IP abaixo de acessar suas APIs de fornecedor de CRM.
+Marketo Engage [Sincronização do Salesforce CRM](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} são mecanismos de integração que fazem solicitações HTTP de saída para APIs publicadas pelo seu fornecedor de CRM. Você deve garantir que sua organização de TI não bloqueie o acesso das APIs do fornecedor de CRM a nenhum dos blocos de endereço IP abaixo.
 
-**Blocos de endereço IP de saída do Marketo Engage**
+**Blocos de Endereço IP de Saída Marketo Engage**
 
-As tabelas a seguir abrangem todos os servidores Marketo Engage que fazem chamadas de saída. Use as listas abaixo se estiver configurando qualquer  de lista de permissões IP, servidor, firewall, lista de controle de acesso, grupo de segurança ou serviço de terceiros para receber conexões de saída do Marketo Engage.
+As tabelas a seguir cobrem todos os servidores Marketo Engage que fazem chamadas de saída. Lista de permissões Use as listas abaixo se você estiver configurando um arquivo IP, servidor, firewall, lista de controle de acesso, grupo de segurança ou serviço de terceiros para receber conexões de saída do Marketo Engage.
 
 <table>
  <tbody>
@@ -131,16 +140,10 @@ As tabelas a seguir abrangem todos os servidores Marketo Engage que fazem chamad
    <th>Bloco IP (Notação CIDR)</th>
   </tr>
   <tr>
-   <td>192.28.144.0/20</td>
+   <td>94.236.119.0/26</td>
   </tr>
-   <tr>
-   <td>192.28.160.0/19</td>
-  </tr>
-   <tr>
-   <td>199.15.212.0/22</td>
-  </tr>
-   <tr>
-   <td>185.28.196.0/22</td>
+  <tr>
+   <td>103.237.104.0/22</td>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>
@@ -149,10 +152,19 @@ As tabelas a seguir abrangem todos os servidores Marketo Engage que fazem chamad
    <td>130.248.173.0/24</td>
   </tr>
   <tr>
-   <td>103.237.104.0/22</td>
+   <td>130.248.244.88/29</td>
   </tr>
   <tr>
-   <td>94.236.119.0/26</td>
+   <td>185.28.196.0/22</td>
+  </tr>
+  <tr>
+   <td>192.28.144.0/20</td>
+  </tr>
+  <tr>
+   <td>192.28.160.0/19</td>
+  </tr>
+  <tr>
+   <td>199.15.212.0/22</td>
   </tr>
  </tbody>
 </table>
