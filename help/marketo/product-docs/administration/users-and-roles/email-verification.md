@@ -2,9 +2,9 @@
 description: Verificação de email - Documentação do Marketo - Documentação do produto
 title: Verificação de email
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
+source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Quando um Administrador convida um usuário, ele é automaticamente verificado d
 
 ## Email de verificação {#verification-email}
 
-Os usuários convidados receberão o seguinte email:
+Os usuários receberão o seguinte email quando a verificação de email for ativada para uma assinatura ou se for acionada por um Administrador/usuário:
 
 ![](assets/email-verification-1.png)
 
