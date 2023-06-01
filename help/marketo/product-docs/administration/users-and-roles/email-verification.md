@@ -1,34 +1,51 @@
 ---
-description: Verificação de email - Documentação da Marketo - Documentação do produto
+description: Verificação de email - Documentação do Marketo - Documentação do produto
 title: Verificação de email
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: c45b3ab94b806b53768891613f15b8e9b694a440
+source-git-commit: 44cca5ebad831cc39babac87ac9ebbf53df6c795
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
 # Verificação de email {#email-verification}
 
-As assinaturas do Adobe Marketo Engage exigem que todos os usuários que não usam API, incluindo Administradores do Marketo Engage, verifiquem seu endereço de email. Usuários de Logon Único (SSO) que não recebem uma função de Administrador ou que recebem uma função com a permissão &#39;Ignorar SSO&#39; terão seu email verificado automaticamente quando sua assinatura for habilitada com o recurso Verificação de Email.
+As assinaturas do Adobe Marketo Engage exigem que todos os usuários que não sejam somente API, incluindo administradores de Marketo Engage, verifiquem seus endereços de email. Os usuários de Logon único (SSO) que não recebem uma função de Administrador ou que recebem uma função com a permissão &#39;Ignorar SSO&#39; terão seu email verificado automaticamente quando sua assinatura for habilitada com o recurso de Verificação de email.
 
-**Convite de usuário**
+## Convite de usuário {#user-invite}
 
-Quando um Administrador convida um usuário, ele é verificado automaticamente assim que ele clicar no link do convite. Os usuários do SSO, que não têm a função de Administrador, são verificados automaticamente.
+Quando um Administrador convida um usuário, ele é automaticamente verificado depois que clica no link de convite. Os usuários do SSO, sem a função de Administrador atribuída, são automaticamente verificados.
 
-**Alterar um endereço de email**
+## Alteração de um endereço de email {#changing-an-email-address}
 
-Quando o endereço de email de um usuário é alterado, ele se torna não verificado. Um email será enviado para eles permitindo a verificação novamente. Os usuários podem reenviar manualmente esse email clicando em **Reenviar verificação**.
+Quando o endereço de email de um usuário é alterado, ele não é verificado. Um email será enviado a eles, permitindo que eles verifiquem novamente. Os usuários podem reenviar manualmente esse email clicando em **Reenviar verificação**.
 
 ![](assets/email-verification-1.png)
 
 ![](assets/email-verification-2.png)
 
-**Usuários e funções**
+## Usuários e funções {#users-and-roles}
 
-Em Admin > Usuários e funções, a coluna Status de email mostra o status de verificação de cada usuário.
+Entrada **Admin** > **Usuários e funções**, a coluna Status de email mostra o status de verificação de cada usuário.
 
 ![](assets/email-verification-3.png)
 
-Para reenviar um email de verificação para um usuário não verificado, basta selecionar o registro e clicar no botão **Verificar Email** botão.
+## IDs de logon de vários usuários {#multiple-user-login-ids}
+
+Somente uma conta de usuário pode ser associada a um único endereço de email. Se houver várias contas de usuário associadas a um único endereço de email, o Marketo Engage exigirá que o conflito seja resolvido e exibirá todos os logons de usuário associados ao endereço de email, bem como três opções de resolução:<p>
+`1` Usar o email atual para a ID de logon de usuário atual<p>
+`2` Usar um novo email para a ID de logon de usuário atual<p>
+`3` Atrasar a decisão até o próximo logon
+
+![](assets/email-verification-4.png)
+
+## Email de verificação {#verification-email}
+
+Os usuários convidados receberão o seguinte email:
+
+![](assets/email-verification-5.png)
+
+>[!NOTE]
+>
+>Para reenviar um email de verificação a um usuário não verificado, basta selecionar o registro e clicar no link **Verificar email** botão.
