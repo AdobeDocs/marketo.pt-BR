@@ -1,34 +1,34 @@
 ---
 unique-page-id: 11378713
-description: Acionador de alterações no objeto personalizado - Documentos do Marketo - Documentação do produto
-title: Acionar Alterações no Objeto Personalizado
+description: Acionar Alterações De Objetos Personalizados - Documentação Do Marketo - Documentação Do Produto
+title: Acionar Alterações de Objeto Personalizado
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-# Acionar Alterações no Objeto Personalizado {#trigger-off-custom-object-changes}
+# Acionar Alterações de Objeto Personalizado {#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
 >Este recurso está disponível somente:
 >
->* Para clientes na infraestrutura Orion
->* Para uso somente com objetos personalizados do Marketo, não objetos personalizados sincronizados por meio da integração nativa do Salesforce ou do Microsoft Dynamics
->* Como acionador, não um filtro
+>* Para clientes no [!DNL Orion] infraestrutura
+>* Para uso somente com objetos personalizados do Marketo, não com objetos personalizados sincronizados por meio da [!DNL Salesforce] ou [!DNL Microsoft Dynamics] integração
+>* Como acionador, não como filtro
 >
->Entre em contato [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para ativar os Acionadores de alteração de objeto personalizado.
+>Contate [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para habilitar os Acionadores de Alteração de Objeto Personalizado.
 
-Na lista inteligente de uma campanha inteligente, é possível acionar uma ação de fluxo quando um objeto personalizado é adicionado a uma pessoa ou empresa. Você também pode criar uma lista inteligente que use uma *alterar* em um objeto personalizado como acionador. Por exemplo, use-o para enviar um email quando o nome de um curso for atualizado.
+Em uma lista inteligente de campanha inteligente, é possível acionar uma ação de fluxo quando um objeto personalizado é adicionado a uma pessoa ou empresa. Também é possível criar uma lista inteligente que use uma *alterar* em um objeto personalizado como um acionador. Por exemplo, use-o para enviar um email quando um nome de curso for atualizado.
 
 >[!NOTE]
 >
 >Uma entrada do log de atividades não é criada quando um registro de objeto personalizado é alterado.
 
-1. No Marketo, acesse **Atividades de marketing.**
+1. No Marketo Engage, acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -36,24 +36,24 @@ Na lista inteligente de uma campanha inteligente, é possível acionar uma açã
 
    ![](assets/trigger-off-custom-object-changes-2.png)
 
-1. Procure o acionador necessário e arraste-o para a tela.
+1. Procure o acionador necessário e arraste-o até a tela.
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Selecione o atributo do acionador.
+1. Selecione o [!UICONTROL atributo de acionador].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 
-1. Como opção, defina uma restrição.
+1. Opcionalmente, defina uma restrição.
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. E aí está. A alteração é salva automaticamente.
+1. E aí está você. A alteração é salva automaticamente.
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 
    >[!NOTE]
    >
    >* [Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >* [Como entender objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+   >* [Noções básicas sobre objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 

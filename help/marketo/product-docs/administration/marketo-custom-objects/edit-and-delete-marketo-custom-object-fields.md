@@ -1,16 +1,16 @@
 ---
 unique-page-id: 10095453
-description: Editar e excluir campos de objeto personalizados do Marketo - Documentos do Marketo - Documentação do produto
-title: Editar e excluir campos de objeto personalizados do Marketo
+description: Editar e excluir campos de objeto personalizado do Marketo - Documentação do Marketo - Documentação do produto
+title: Editar e excluir campos de objeto personalizado do Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# Editar e excluir campos de objeto personalizados do Marketo {#edit-and-delete-marketo-custom-object-fields}
+# Editar e excluir campos de objeto personalizado do Marketo {#edit-and-delete-marketo-custom-object-fields}
 
 ## Editar um campo {#edit-a-field}
 
@@ -20,17 +20,17 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. Na guia Campos , clique em **Ações do campo** e **Editar campo**.
+1. No [!UICONTROL Campos] clique em **[!UICONTROL Ações de campo]** e **[!UICONTROL Editar campo]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
-1. Faça as alterações e clique em **Salvar**.
+1. Faça as alterações e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
    >[!NOTE]
    >
-   >Não é possível editar o nome da API.
+   >Não é possível editar o Nome da API.
 
 1. As alterações são exibidas na lista Campos.
 
@@ -38,20 +38,20 @@ ht-degree: 0%
 
 ## Excluir um campo {#delete-a-field}
 
-Quando não precisar mais de um campo em um objeto personalizado, é possível excluí-lo.
+Quando não precisar mais de um campo em um objeto personalizado, você poderá excluí-lo.
 
-1. Na guia Campos , clique em **Ações do campo** e **Excluir campo**.
+1. Na guia Campos, clique em **[!UICONTROL Ações de campo]** e **[!UICONTROL Excluir campo]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-   Certifique-se de excluir o campo antes de puxar o acionador! Clique em **Excluir**.
+1. Certifique-se de que realmente deseja excluir o campo antes de puxar o gatilho! Clique em **[!UICONTROL Excluir]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-   Acabou!
+Se foi!
 
-   ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
+![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
-   >[!NOTE]
-   >
-   >[Adicionar campos de objeto personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>[!NOTE]
+>
+>[Adicionar campos de objeto personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
