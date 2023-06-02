@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 830cc26c647e31cb151aab6d78d2abb8d7840cb6
+source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
 workflow-type: tm+mt
-source-wordcount: '8888'
+source-wordcount: '8890'
 ht-degree: 5%
 
 ---
@@ -740,6 +740,7 @@ ht-degree: 5%
          + [Excluir uma imagem ou arquivo carregado](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [Localizar o URL de uma imagem ou arquivo carregado](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [Capturar as imagens de uma página da Web](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+         + [Editor de imagem](product-docs/demand-generation/images-and-files/image-editor.md)
          + [Organize suas imagens e arquivos usando pastas](product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
          + [Substituir uma imagem ou arquivo carregado](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Pesquisar imagens e arquivos carregados](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
