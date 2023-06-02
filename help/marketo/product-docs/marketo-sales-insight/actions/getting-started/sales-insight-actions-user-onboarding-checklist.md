@@ -1,19 +1,24 @@
 ---
-description: Lista de verificação de integração do usuário de ações de insight de vendas - Documentos do Marketo - Documentação do produto
-title: Lista de verificação de integração do usuário de ações de insight de vendas
-source-git-commit: 6e474bd49491744115a284342690f5140409590b
+description: Lista de verificação de integração do usuário das ações do Sales Insight - Documentação do Marketo - Documentação do produto
+title: Lista de verificação de integração do usuário de ações do Sales Insight
+exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-# Lista de verificação de integração do usuário de ações de insight de vendas {#sales-insight-actions-user-onboarding-checklist}
+# Lista de verificação de integração do usuário de ações do Sales Insight {#sales-insight-actions-user-onboarding-checklist}
 
-Se você estiver procurando recursos para começar a usar as Ações de informações de vendas da Marketo, [baixar a lista de verificação de integração](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
+Se estiver procurando recursos para começar a usar as ações do Marketo Sales Insight, [baixar a lista de verificação de integração](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
+
+>[!NOTE]
+>
+>As Ações do Marketo Sales Insight são um aplicativo baseado na Web que se integra à interface do usuário do Salesforce por meio da [Pacote do Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Às vezes, é chamado de &quot;Vendas do Marketo&quot; ou simplesmente &quot;Ações&quot;.
 
 [![](assets/sales-insight-actions-user-onboarding-checklist-1.png)](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)
 
 <br/>
 
-A lista de verificação ajudará você e sua equipe a coordenar a ativação, configuração e integração da nova instância de Ações de insight de vendas. Você precisará fazer atualizações nas Ações Marketo, Salesforce e Marketo Sales Insight para concluir a configuração, portanto, certifique-se de coordenar com administradores de cada sistema.
+A lista de verificação ajudará você e sua equipe a coordenar a ativação, a configuração e a integração da nova instância de Ações do Sales Insight. Você precisará fazer atualizações no Marketo, Salesforce e Marketo Sales Insight Actions para concluir a configuração. Portanto, certifique-se de coordenar com os administradores de cada sistema.

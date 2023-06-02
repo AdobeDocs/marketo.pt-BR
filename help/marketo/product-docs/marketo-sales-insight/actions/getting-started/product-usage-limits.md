@@ -1,29 +1,33 @@
 ---
-description: Limites de uso do produto - Documentos do Marketo - Documentação do produto
+description: Limites de uso de produtos - Documentação do Marketo - Documentação do produto
 title: Limites de uso do produto
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 22%
+source-wordcount: '231'
+ht-degree: 19%
 
 ---
 
 # Limites de uso do produto {#product-usage-limits}
 
-Os limites a seguir estão em vigor para o uso dos recursos expandidos de envolvimento de vendas disponíveis com as Ações de insight de vendas.
+Abaixo, você encontrará os limites estabelecidos para o uso dos recursos expandidos do contrato de vendas disponíveis com as Ações de insight de vendas.
+
+>[!NOTE]
+>
+>As Ações do Marketo Sales Insight são um aplicativo baseado na Web que se integra à interface do usuário do Salesforce por meio da [Pacote do Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Às vezes, é chamado de &quot;Vendas do Marketo&quot; ou simplesmente &quot;Ações&quot;.
 
 <table>
   <th>Funcionalidade</th>
   <th>Taxa</th>
   <th>Limite</th>
  <tr>
-  <td>Sincronização de Banco de Dados de Pessoas do Marketo</td>
+  <td>Sincronização do banco de dados de pessoas do Marketo</td>
   <td>em andamento</td>
   <td>1.500.000 pessoas</td>
  </tr>
  <tr>
-  <td>Envio de email de vendas</td>
+  <td>Envios de email de vendas</td>
   <td>por usuário/por dia</td>
   <td>1,000</td>
  </tr>
@@ -43,7 +47,7 @@ Os limites a seguir estão em vigor para o uso dos recursos expandidos de envolv
   <td>500</td>
  </tr>
  <tr>
-  <td>Pesquisas salvas por email</td>
+  <td>Pesquisas salvas de email</td>
   <td>por usuário</td>
   <td>50</td>
  </tr>
@@ -53,7 +57,7 @@ Os limites a seguir estão em vigor para o uso dos recursos expandidos de envolv
   <td>500</td>
  </tr>
  <tr>
-  <td>Lançamentos de campanha</td>
+  <td>Lançamentos do Campaign</td>
   <td>por usuário/por dia</td>
   <td>200</td>
  </tr>
@@ -77,7 +81,7 @@ Os limites a seguir estão em vigor para o uso dos recursos expandidos de envolv
   <td>50 minutos</td>
  </tr>
  <tr>
-  <td>Gravações de chamada</td>
+  <td>Gravações de Chamada</td>
   <td>por usuário/por mês (compartilhado na instância)</td>
   <td>50</td>
  </tr>
@@ -92,12 +96,12 @@ Os limites a seguir estão em vigor para o uso dos recursos expandidos de envolv
   <td>200</td>
  </tr>
  <tr>
-  <td>Anexos carregados</td>
+  <td>Anexos enviados</td>
   <td>por usuário</td>
   <td>25</td>
  </tr>
  <tr>
-  <td>Bancos do usuário</td>
+  <td>Vagas do usuário</td>
   <td>por instância</td>
   <td>100</td>
  </tr>
@@ -117,7 +121,7 @@ Os limites a seguir estão em vigor para o uso dos recursos expandidos de envolv
   <td>15</td>
  </tr>
  <tr>
-  <td>Avisos de registro de chamada</td>
+  <td>Avisos de Gravação de Chamadas</td>
   <td>por instância</td>
   <td>5</td>
  </tr>
@@ -131,12 +135,12 @@ Os limites a seguir estão em vigor para o uso dos recursos expandidos de envolv
   <td>2</td>
  </tr>
  <tr>
-  <td>Conexões do servidor SMTP de equipe</td>
+  <td>Conexões de servidor SMTP da equipe</td>
   <td>por instância</td>
   <td>1</td>
  </tr>
  <tr>
-  <td>Mensagens de cancelamento de assinatura da equipe</td>
+  <td>Mensagens de cancelamento de inscrição da equipe</td>
   <td>por instância</td>
   <td>1</td>
  </tr>
