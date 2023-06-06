@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 4959a5780ae89f7b715485e9106aa275f2b155a1
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '8900'
+source-wordcount: '8904'
 ht-degree: 5%
 
 ---
@@ -1310,7 +1310,6 @@ ht-degree: 5%
                + [Adicionar ou atualizar sua assinatura de email](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Adicionar identidade](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + Administrador {#admin}
-            + [Perguntas frequentes sobre a Sincronização de Dados de Ações](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
             + [Logon automático no Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [Domínios bloqueados](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Conectar novo administrador ao Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1320,6 +1319,7 @@ ht-degree: 5%
             + [Convidar usuários e administradores](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Configurações de gerenciamento de logon](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Configurações de compartilhamento](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+            + [Sincronizar dados de ação de vendas com o Marketo e o Salesforce](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [Detalhes de acesso do usuário](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analytics {#analytics}
             + [Visão geral da página do Analytics](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
