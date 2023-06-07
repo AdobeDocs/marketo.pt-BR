@@ -1,7 +1,7 @@
 ---
 description: Avisos de campo - Documentação do Marketo - Documentação do produto
 title: Prompts de campo
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Para adicionar um prompt de campo, digite o texto desejado. Coloque um ponto de 
 
 `{{! Add sentence that references their industry and role}}`
 
-Os usuários precisarão substituir esse texto por sua própria personalização antes que o email possa ser enviado.
+<p>Os usuários precisarão substituir esse texto por sua própria personalização antes que o email possa ser enviado.
 
 >[!NOTE]
 >
