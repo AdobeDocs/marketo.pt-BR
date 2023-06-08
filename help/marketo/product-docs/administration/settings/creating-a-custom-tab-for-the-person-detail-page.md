@@ -1,32 +1,32 @@
 ---
 unique-page-id: 2360305
-description: Criação de uma guia personalizada para a página de detalhes da pessoa - Documentos do Marketo - Documentação do produto
-title: Criação de uma guia personalizada para a página de detalhes da pessoa
+description: Criação de uma guia personalizada para a página de detalhes da pessoa - Documentação do Marketo - Documentação do produto
+title: Criando uma Guia Personalizada para a Página Detalhes da Pessoa
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-# Criação de uma guia personalizada para a página de detalhes da pessoa {#creating-a-custom-tab-for-the-person-detail-page}
+# Criando uma Guia Personalizada para a Página Detalhes da Pessoa {#creating-a-custom-tab-for-the-person-detail-page}
 
 Se você estiver procurando um conjunto específico de campos nos detalhes da pessoa repetidamente, considere criar um layout personalizado para facilitar as coisas.
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. Clique em **Gerenciamento de campos**.
+1. Clique em **[!UICONTROL Gerenciamento de campo]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Clique no botão **Designer de layout personalizado** guia .
+1. Clique em **[!UICONTROL Designer de layout personalizado]** guia.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
-1. Localize um campo que deseja adicionar e arraste-o e solte-o na tela.
+1. Localize um campo que deseja adicionar, em seguida, arraste e solte-o na tela.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-4.png)
 
@@ -38,10 +38,10 @@ Se você estiver procurando um conjunto específico de campos nos detalhes da pe
    >
    >Você tem duas colunas para trabalhar.
 
-   Se você decidir remover um campo, clique com o botão direito do mouse no campo que deseja remover e clique em **Excluir**.
+   Se decidir remover um campo, clique com o botão direito do mouse no campo que deseja remover e clique em **[!UICONTROL Excluir]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   Trabalho incrível! Agora, ao carregar os detalhes de uma pessoa, você pode usar o layout personalizado para acessar as informações importantes para você.
+   Ótimo trabalho! Agora, ao carregar os detalhes de uma pessoa, você pode usar o layout personalizado para acessar as informações importantes para você.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

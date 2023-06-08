@@ -1,24 +1,24 @@
 ---
 unique-page-id: 2359893
-description: Navegadores compatíveis - Documentos do Marketo - Documentação do produto
+description: Navegadores compatíveis - Documentação do Marketo - Documentação do produto
 title: Navegadores compatíveis
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
-source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 1%
+source-wordcount: '50'
+ht-degree: 2%
 
 ---
 
 # Navegadores compatíveis {#supported-browsers}
 
-Atualmente, o Marketo é compatível com os seguintes navegadores:
+O Marketo atualmente é compatível com os seguintes navegadores:
 
 | Navegador | Versões suportadas |
 |---|---|
-| [Google Chrome](https://www.google.com/intl/en/chrome/browser/){target=&quot;_blank&quot;} | mais recente |
-| [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/){target=&quot;_blank&quot;} | mais recente |
-| [Apple Safari](https://www.apple.com/safari/){target=&quot;_blank&quot;} | mais recente |
-| [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge){target=&quot;_blank&quot;} | mais recente |
+| [[!DNL Google Chrome]](https://www.google.com/intl/en/chrome/browser/){target="_blank"} | mais recente |
+| [[!DNL Mozilla Firefox]](https://www.mozilla.org/en-US/firefox/new/){target="_blank"} | mais recente |
+| [[!DNL Apple Safari]](https://www.apple.com/safari/){target="_blank"} | mais recente |
+| [[!DNL Microsoft Edge]](https://www.microsoft.com/en-us/windows/microsoft-edge){target="_blank"} | mais recente |
 
 Para obter a melhor experiência, **mantenha seu navegador atualizado**!

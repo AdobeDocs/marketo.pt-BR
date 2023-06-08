@@ -1,18 +1,18 @@
 ---
 unique-page-id: 6095047
-description: Editar as configurações de suporte do navegador "Não rastrear" - Documentos do Marketo - Documentação do produto
-title: Editar as configurações de suporte do navegador "Não rastrear"
+description: Edite As Configurações De Suporte Ao Navegador "Não Rastrear" - Documentação Do Marketo - Documentação Do Produto
+title: Editar as configurações de suporte a navegador do tipo "Não rastrear"
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Editar as configurações de suporte do navegador &quot;Não rastrear&quot; {#edit-do-not-track-browser-support-settings}
+# Editar as configurações de suporte a navegador do tipo &quot;Não rastrear&quot; {#edit-do-not-track-browser-support-settings}
 
-&quot;Não rastrear&quot; é uma solicitação de navegador para não ser rastreada em sistemas como o Marketo. Você pode atender a essa solicitação com as etapas a seguir.
+&quot;Do Not Track&quot; é uma solicitação de navegador para não ser rastreado em sistemas como o Marketo. Você pode atender a essa solicitação com as etapas a seguir.
 
 >[!NOTE]
 >
@@ -20,21 +20,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->&quot;Não rastrear&quot; será definido como Ignorar por padrão, portanto, se isso for o que você deseja, não será necessário executar nenhuma etapa.
+>&quot;Não rastrear&quot; será definido como Ignorar por padrão, portanto, se for isso que você deseja, não será necessário tomar nenhuma etapa.
 
-1. Clique em **Administrador**.
+1. Clique em **[!UICONTROL Admin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Clique em **Munchkin**.
+1. Clique em **[!UICONTROL Munchkin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. Em **Rastreamento de pessoa**, clique em **Editar**.
+1. Em **[!UICONTROL Rastreamento de pessoas]**, clique em **[!UICONTROL Editar]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Selecionar **Suporte** e clique em **Salvar**.
+1. Selecionar **[!UICONTROL Suporte]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
@@ -44,8 +44,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >A prática recomendada é suportar o recurso &quot;Não rastrear&quot;. Na Europa, é a lei!
+   >A prática recomendada é oferecer suporte ao recurso &quot;Não rastrear&quot;. Na Europa, é a lei!
 
    >[!TIP]
    >
-   >Para saber mais sobre &quot;Não rastrear&quot; e como ele funciona, visite [esta página](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Para saber mais sobre o &quot;Não rastrear&quot; e como ele funciona, visite [esta página](https://en.wikipedia.org/wiki/Do_Not_Track).

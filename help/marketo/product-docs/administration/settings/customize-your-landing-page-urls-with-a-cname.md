@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2360189
-description: Personalize os URLs de sua página de aterrissagem com um CNAME (Administração) - Documentos do Marketo - Documentação do produto
-title: Personalize os URLs de página de aterrissagem com um CNAME (Administração)
+description: Personalizar os URLs da sua página de aterrissagem com um CNAME (Administração) - Documentação do Marketo - Documentação do produto
+title: Personalizar os URLs da sua landing page com um CNAME (Administração)
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 3%
 
 ---
 
-# Personalize seus URLs de página inicial com um CNAME  {#customize-your-landing-page-urls-with-a-cname}
+# Personalizar os URLs da sua landing page com um CNAME  {#customize-your-landing-page-urls-with-a-cname}
 
-Mesmo que o Marketo hospede suas landing pages, o URL deve ser personalizado para sua empresa.
+Embora o Marketo hospede suas páginas de aterrissagem, o URL deve ser personalizado para sua empresa.
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ Mesmo que o Marketo hospede suas landing pages, o URL deve ser personalizado par
 >
 >https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html
 >
->CNAME de marca:
+>CNAME com marca:
 >
 >https://go.**Sua empresa**.com/UnsuscribePage.html
 
@@ -32,54 +32,54 @@ Vamos definir suas configurações!
 
 1. Escolha um CNAME.
 
-   É a parte frontal do URL. Exemplos:
+   É a parte frontal da URL. Exemplos:
 
-   * **go**.YourCompany.com/NameOfPage.html
+   * **ir**.YourCompany.com/NameOfPage.html
    * **informações**.YourCompany.com/NameOfPage.html
    * **páginas**.YourCompany.com/NameOfPage.html
 
-   A única palavra (mais YourCompany.com) é chamada de CNAME. Você precisará disso mais tarde, portanto anote isso.
+   A palavra (mais YourCompany.com) é chamada de CNAME. Você precisará disso mais tarde, então anote-o.
 
 1. Encontre sua sequência de caracteres da conta.
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Clique em **Páginas de aterrissagem**.
+1. Clique em **[!UICONTROL Landing Pages]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
-1. Em **Páginas de aterrissagem** , copie a Sequência de caracteres da conta na seção Configurações .
+1. No **[!UICONTROL Landing Pages]** , copie a sequência de caracteres da conta na seção Configurações.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
-1. Você também precisará disso mais tarde, portanto anote isso.
+1. Você também precisará disso mais tarde. Anote-o.
 
-1. Enviar solicitação para TI.
+1. Envie a solicitação para a TI.
 
-1. Solicite que sua equipe de TI configure o seguinte CNAME (substitua a palavra [CNAME] e [STRING DE CONTA] com o texto da etapa anterior):
+1. Peça à sua equipe de TI para configurar o seguinte CNAME (substitua a palavra [CNAME] e [SEQUÊNCIA DE CARACTERES DA CONTA] com o texto da etapa anterior):
 
-   [CNAME].YourCompany.com > [STRING DE CONTA].mktoweb.com
+   [CNAME].YourCompany.com > [SEQUÊNCIA DE CARACTERES DA CONTA].mktoweb.com
 
-1. Conclua a configuração CNAME.
+1. Conclua a configuração de CNAME.
 
-1. Depois que a TI criar o CNAME, volte para a **Administrador** área.
+1. Depois que o departamento de TI criar o CNAME, volte para a **[!UICONTROL Admin]** área.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Clique em **Páginas de aterrissagem**.
+1. Clique em **[!UICONTROL Landing Pages]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Em **Configurações** seção , clique em **Editar**.
+1. No **[!UICONTROL Configurações]** clique em **[!UICONTROL Editar]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Insira seu CNAME em **Nome do domínio para páginas de aterrissagem**, insira **Página de fallback**, insira **Página inicial** e clique em **Salvar**.
+1. Insira seu CNAME em **[!UICONTROL Nome de domínio para landing pages]**, insira seu **[!UICONTROL Página de fallback]**, insira seu **[!UICONTROL Página inicial]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
-Sua página de fallback é onde as pessoas serão redirecionadas se a página de aterrissagem do Marketo não estiver disponível.
+Sua página de fallback é o local para onde as pessoas serão redirecionadas se a sua página de aterrissagem do Marketo não estiver disponível.
 
-Excelente! Suas páginas de aterrissagem agora são marcadas com o domínio de sua empresa.
+Excelente! As páginas de aterrissagem agora são marcadas com o domínio da empresa.

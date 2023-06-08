@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2359916
-description: Alterar sua senha do Marketo - Documentos do Marketo - Documentação do produto
+description: Alterar a senha do Marketo - Documentação do Marketo - Documentação do produto
 title: Alterar a senha do Marketo
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 Altere sua senha do Marketo com estas etapas simples.
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/change-your-marketo-password-1.png)
 
-1. Clique em **Minha conta**.
+1. Clique em **[!UICONTROL Minha conta]**.
 
    ![](assets/change-your-marketo-password-2.png)
 
-1. Clique em **Alterar senha**.
+1. Clique em **[!UICONTROL Alterar senha]**.
 
    ![](assets/change-your-marketo-password-3.png)
 
-1. Digite a senha antiga e a nova senha e clique em **Salvar**.
+1. Digite a Senha antiga e a Nova senha e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/change-your-marketo-password-4.png)
 

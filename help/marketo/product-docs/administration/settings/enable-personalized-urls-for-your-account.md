@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360215
-description: Ativar URLs personalizados para sua conta - Documentos do Marketo - Documentação do produto
+description: Ativar URLs personalizados para sua conta - Documentação do Marketo - Documentação do produto
 title: Ativar URLs personalizados para sua conta
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 2%
@@ -12,30 +12,30 @@ ht-degree: 2%
 
 # Ativar URLs personalizados para sua conta {#enable-personalized-urls-for-your-account}
 
-URLs personalizados são ótimos para campanhas de email de impressão.
+URLs personalizados são excelentes para campanhas de email impresso.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
-1. Clique em **Páginas de aterrissagem**.
+1. Clique em **[!UICONTROL Landing Pages]**.
 
    ![](assets/enable-personalized-urls-for-your-account-2.png)
 
-1. Clique em **Editar**.
+1. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
-1. Verifique a **Ativar URLs personalizados** e clique em **Salvar**.
+1. Verifique a **[!UICONTROL Ativar URLs personalizados]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-Muito bem! Agora que você ativou PURLs para sua conta, é possível [habilitar para landing pages individuais](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+Excelente trabalho! Agora que você ativou os PURLs para sua conta, é possível [habilitá-los para páginas de aterrissagem individuais](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >
->Se houver duas pessoas com o mesmo Nome/Sobrenome, o sistema anexará automaticamente um número ao final.
+>Se houver duas pessoas com o mesmo nome/sobrenome, o sistema anexará automaticamente um número ao final.

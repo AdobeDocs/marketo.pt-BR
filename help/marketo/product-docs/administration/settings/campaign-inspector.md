@@ -1,7 +1,8 @@
 ---
-description: Inspetor de campanha - Documentos do Marketo - Documentação do produto
+description: Inspetor De Campanha - Documentação Do Marketo - Documentação Do Produto
 title: Inspetor de campanhas
-source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
+exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 3%
@@ -10,23 +11,23 @@ ht-degree: 3%
 
 # Inspetor de campanhas {#campaign-inspector}
 
-Use o Inspetor de campanha para exibir/pesquisar todas as suas campanhas inteligentes em um único lugar.
+Use o Inspetor de campanhas para exibir/pesquisar todas as suas Campanhas inteligentes em um único local.
 
-## Habilitar Inspetor de Campanha {#enable-campaign-inspector}
+## Ativar o Inspetor de campanha {#enable-campaign-inspector}
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/campaign-inspector-1.png)
 
-1. Clique em **Treasure Chest**.
+1. Clique em **[!UICONTROL Tórax Tesouro]**.
 
    ![](assets/campaign-inspector-2.png)
 
-1. Clique em **Editar** ao lado de Inspetor de campanha.
+1. Clique em **[!UICONTROL Editar]** ao lado de Inspetor de campanha.
 
    ![](assets/campaign-inspector-3.png)
 
-1. Selecione o **Ativado** caixa de seleção e clique em **Salvar**.
+1. Selecione o **[!UICONTROL Ativado]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/campaign-inspector-4.png)
 
@@ -36,14 +37,14 @@ Use o Inspetor de campanha para exibir/pesquisar todas as suas campanhas intelig
 
 ## Uso do Inspetor de campanha {#using-campaign-inspector}
 
-Depois de habilitada, a guia Inspetor de campanha pode ser encontrada ao lado da guia Atividades de marketing .
+Depois de habilitada, a guia Inspetor de campanha pode ser encontrada ao lado da guia Atividades de marketing.
 
 ![](assets/campaign-inspector-5.png)
 
-Clique no botão **Campanhas ativas** para filtrar por diferentes tipos de campanhas.
+Clique em **[!UICONTROL Campanhas ativas]** para filtrar por diferentes tipos de campanhas.
 
 ![](assets/campaign-inspector-6.png)
 
-Na parte inferior da página, acesse ferramentas úteis, como a barra de pesquisa ou a exportação dos resultados.
+Na parte inferior da página, acesse ferramentas úteis como a barra de pesquisa ou exporte os resultados.
 
 ![](assets/campaign-inspector-7.png)

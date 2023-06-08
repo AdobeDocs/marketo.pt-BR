@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Localizar e mesclar pessoas duplicadas - Documentação do Marketo - Documentação do produto
 title: Localizar e Mesclar Pessoas Duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 780071242a608706e06f3026150c43441a29faa5
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ O Marketo remove a duplicação automaticamente quando novas pessoas entram no s
 
 >[!PREREQUISITES]
 >
->A descoberta e a mesclagem de duplicatas envolverão o uso de [listas inteligentes integradas/do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>A descoberta e a mesclagem de duplicatas envolverão o uso de [listas inteligentes integradas/do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ O Marketo remove a duplicação automaticamente quando novas pessoas entram no s
 
    >[!NOTE]
    >
-   >Também é possível [Localizar pessoas duplicadas com lógica personalizada](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >Também é possível [Localizar pessoas duplicadas com lógica personalizada](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## Mesclar Pessoas Manualmente {#merge-people-manually}
 
@@ -79,11 +79,9 @@ Se você tiver a integração do Salesforce, há algumas observações sobre o e
 
 Para obter detalhes específicos do comportamento do Salesforce ao mesclar clientes em potencial ou contatos, verifique os seguintes documentos do Salesforce:
 
-* [Mesclando Clientes Potenciais Duplicados](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-* [Mesclando Contatos Duplicados](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [Mesclando Clientes Potenciais Duplicados](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
+* [Mesclando Contatos Duplicados](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## Mesclagem em Massa {#bulk-merging}
 
 Se você tiver muitas duplicatas para mesclar manualmente, entre em contato com a equipe de conta do Adobe (seu gerente de conta) para discutir suas opções.
-
-Se você estiver conectado a um CRM, os registros serão mesclados lá, de acordo com as regras abaixo.

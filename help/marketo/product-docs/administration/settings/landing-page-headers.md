@@ -1,45 +1,45 @@
 ---
-description: Cabeçalhos de página de aterrissagem - Documentos do Marketo - Documentação do produto
-title: Cabeçalhos de página de aterrissagem
+description: Cabeçalhos da página de aterrissagem - Documentação do Marketo - Documentação do produto
+title: Cabeçalhos da landing page
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
-source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-# Cabeçalhos de página de aterrissagem {#landing-page-headers}
+# Cabeçalhos da landing page {#landing-page-headers}
 
-Siga as etapas abaixo para personalizar alguns cabeçalhos HTTP nos domínios da Landing page.
+Siga as etapas abaixo para personalizar alguns dos cabeçalhos HTTP nos domínios da sua página de aterrissagem.
 
-1. No Marketo, clique em **Administrador**.
+1. No Marketo, clique em **[!UICONTROL Admin]**.
 
    ![](assets/landing-page-headers-1.png)
 
-1. Clique em **Páginas de aterrissagem**.
+1. Clique em **[!UICONTROL Landing Pages]**.
 
    ![](assets/landing-page-headers-2.png)
 
-1. Clique em **Editar** ao lado de Cabeçalhos HTTP de página inicial.
+1. Clique em **[!UICONTROL Editar]** ao lado de Cabeçalhos HTTP de landing page.
 
    ![](assets/landing-page-headers-3.png)
 
-1. Escolha as configurações desejadas e clique em **Salvar** quando concluído.
+1. Escolha as configurações desejadas e clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/landing-page-headers-4.png)
 
 <table>
  <tr>
-  <td><strong>Strict-Transport-Security</strong></td>
-  <td>Use essa opção para garantir que as conexões com as Páginas de aterrissagem sejam sempre veiculadas por HTTPS (só deve ser definido para assinaturas com Páginas de aterrissagem seguras por SSL)</td>
+  <td><strong>[!UICONTROL Segurança-Transporte-Restrita]</strong></td>
+  <td>Use isso para garantir que as conexões com as páginas de aterrissagem sempre sejam fornecidas por HTTPS (só deve ser definido para assinaturas com Páginas de aterrissagem protegidas por SSL)</td>
  </tr>
  <tr>
-  <td><strong>X-Frame-Options</strong></td>
-  <td>Permite definir se os ativos hospedados pelo Marketo Engage podem ou não ser incorporados em páginas da Web externas</td>
+  <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
+  <td>Permite definir se os ativos hospedados no Marketo Engage podem ou não ser incorporados em páginas externas da Web</td>
  </tr>
 </table>
 
 >[!CAUTION]
 >
->É importante analisar essas configurações com a equipe de TI para determinar a política da organização a ser definida. Configurações incorretas podem impedir que alguns visitantes acessem suas Páginas de aterrissagem.
+>É importante analisar essas configurações com a equipe de TI para determinar como a política da sua organização deve ser definida. Configurações incorretas podem impedir que alguns visitantes acessem suas Landing Pages.
