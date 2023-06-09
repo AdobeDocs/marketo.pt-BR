@@ -2,9 +2,9 @@
 description: Verificação de email - Documentação do Marketo - Documentação do produto
 title: Verificação de email
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Verificação de email {#email-verification}
 
 As assinaturas do Adobe Marketo Engage exigem que todos os usuários que não sejam somente API, incluindo administradores de Marketo Engage, verifiquem seus endereços de email. Os usuários de Logon único (SSO) que não recebem uma função de Administrador ou que recebem uma função com a permissão &#39;Ignorar SSO&#39; terão seu email verificado automaticamente quando sua assinatura for habilitada com o recurso de Verificação de email.
+
+## Por Que Esse Recurso Foi Introduzido {#why-this-feature-was-introduced}
+
+O Marketo Engage continua a implementação da Verificação de email como preparo para migrar clientes para a Plataforma comercial Adobe, incluindo a migração de usuários para IDs Adobe. Esse recurso melhora a segurança das contas de usuário Marketo Engage existentes. Para garantir que um usuário de Marketo Engage esteja associado ao Adobe ID adequado, os usuários existentes de Marketo Engage devem verificar seu endereço de email. Um usuário do Marketo Engage deve ter um endereço de email verificado para ser migrado para um Adobe ID. Se um usuário do Marketo Engage não verificar seu endereço de email, ele não poderá ser migrado para uma Adobe ID e perderá o acesso a uma assinatura do Marketo após a conclusão da migração do usuário para a assinatura.
 
 ## Convite de usuário {#user-invite}
 
@@ -49,7 +53,7 @@ Somente uma conta de usuário pode ser associada a um único endereço de email.
 * Usar um novo email para a ID de logon de usuário atual
 * Atrasar a decisão até o próximo logon
 
-   ![](assets/email-verification-5.png)
+  ![](assets/email-verification-5.png)
 
 >[!NOTE]
 >
