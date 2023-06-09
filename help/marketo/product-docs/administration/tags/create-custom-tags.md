@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2950660
-description: Criar tags personalizadas - Documentos do Marketo - Documentação do produto
+description: Criar tags personalizadas - Documentação do Marketo - Documentação do produto
 title: Criar tags personalizadas
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
-source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Criar tags personalizadas {#create-custom-tags}
 
-As tags ajudarão você a organizar seus programas, enquanto os canais ajudarão na coleta de dados para fins de relatório.
+As tags ajudarão você a organizar seus programas, enquanto os canais ajudarão a coletar dados para fins de relatório.
 
 >[!NOTE]
 >
->Veja [Compreensão de tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para obter mais informações.
+>Confira [Noções básicas sobre tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para obter mais informações.
 
 >[!NOTE]
 >
@@ -26,44 +26,43 @@ As tags ajudarão você a organizar seus programas, enquanto os canais ajudarão
 
 Para criar um novo tipo de tag:
 
-1. Vá para o **Administrador** seção.
+1. Vá para a **[!UICONTROL Admin]** seção.
 
    ![](assets/create-custom-tags-1.png)
 
-1. Clique em **Tags**.
+1. Clique em **[!UICONTROL Tags]**.
 
    ![](assets/create-custom-tags-2.png)
 
-1. Clique em **Novo** e selecione **Novo tipo de tag.**
+1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo tipo de tag]**.
 
    ![](assets/create-custom-tags-3.png)
 
-1. Insira um nome para o Tipo de tag.
+1. Digite um nome para o tipo de tag.
 
    ![](assets/create-custom-tags-4.png)
 
-1. Insira o valor desejado para o Tipo de tag. Clique em **Adicionar outro** para inserir valores adicionais.
+1. Insira o valor desejado para o Tipo de tag. Clique em **[!UICONTROL Adicionar outro]** para informar valores adicionais.
 
    ![](assets/create-custom-tags-5.png)
 
-1. Selecione a que tipo(s) de programa esta tag se aplica.
+1. Selecione a quais tipos de programas esta tag se aplica.
 
    ![](assets/create-custom-tags-6.png)
 
-1. Decida se essa tag deve ou não ser exigida para todos os tipos de programas listados.
+1. Decida se essa tag será ou não obrigatória para todos os tipos de programas listados.
 
    ![](assets/create-custom-tags-7.png)
 
    >[!NOTE]
    >
-   >* Selecione &quot;Obrigatório&quot; se desejar que essa tag seja adicionada sempre que um novo programa for criado.
-   >* A remoção de um tipo de programa da lista &quot;Aplica-se a&quot; excluirá a tag e seus valores de todos os programas existentes desse tipo. Se desejar preservar os valores de tag existentes e tornar essa tag opcional, avance para _all_ tipos de programa listados, deixe a caixa de seleção &quot;Obrigatório&quot; desmarcada.
-
+   >* Selecionar &quot;[!UICONTROL Obrigatório]&quot; se quiser que essa tag seja adicionada sempre que um novo programa for criado.
+   >* Removendo um tipo de programa do[!UICONTROL Aplicável a]A lista &#39; excluirá a tag e seus valores de todos os programas existentes desse tipo. Se você quiser preservar os valores de tag existentes e tornar essa tag opcional, prossiga para _all_ tipos de programas listados, deixe a caixa de seleção &quot;Obrigatório&quot; desmarcada.
 
    >[!TIP]
    >
-   >Se você quiser tornar uma tag semelhante necessária para alguns tipos de programa, mas opcional para outros, será necessário configurar duas tags separadas, cada uma aplicando-se a tipos de programa diferentes com uma com &quot;Obrigatório&quot; selecionado e a outra com &quot;Obrigatório&quot; não selecionado.
+   >Se você quiser que uma tag semelhante seja obrigatória para alguns tipos de programas, mas opcional para outros, será necessário configurar duas tags separadas, cada uma se aplicando a tipos de programas diferentes, com uma com &quot;[!UICONTROL Obrigatório]&quot; selecionado e o outro com &quot;[!UICONTROL Obrigatório]&quot; não selecionado.
 
-1. Clique em **Criar**.
+1. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/create-custom-tags-8.png)

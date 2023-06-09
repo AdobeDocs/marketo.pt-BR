@@ -3,7 +3,7 @@ unique-page-id: 10095636
 description: Ativar a opção Sem rascunho para trechos - Documentação do Marketo - Documentação do produto
 title: Ativar a opção Sem rascunho para trechos
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-source-git-commit: 247452f2149dee1680bb15800a39f6686aa324f2
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -24,34 +24,34 @@ A opção Sem rascunho é ativada automaticamente para todas as funções de Adm
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **Admin** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
-1. Clique em **Usuários e funções**.
+1. Clique em **[!UICONTROL Usuários e funções]**.
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. Vá para a **Funções** , selecione uma função e clique em **Editar Função**.
+1. Vá para a **[!UICONTROL Funções]** , selecione uma função e clique em **[!UICONTROL Editar Função]**.
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
-1. Expanda a **Acessar o Design Studio** opção.
+1. Expanda a **[!UICONTROL Acessar o Design Studio]** opção.
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. Expanda a **Trecho de acesso** opção.
+1. Expanda a **[!UICONTROL Trecho de acesso]** opção.
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. Expanda a **Aprovar trecho** e verifique a **Sem rascunho** caixa. Clique em **Salvar**.
+1. Expanda a **[!UICONTROL Aprovar trecho]** e verifique a **[!UICONTROL Sem rascunho]** caixa. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->Para desativar a opção Sem rascunho, siga as etapas de 1 a 4 acima, desmarque a caixa de seleção Sem rascunho e clique em **Salvar**.
+>Para desativar a opção Sem rascunho, siga as etapas de 1 a 4 acima, desmarque a caixa de seleção Sem rascunho e clique em **[!UICONTROL Salvar]**.
 
 >[!MORELIKETHIS]
 >
->[Aprovar um trecho sem rascunho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[Aprovar um trecho sem rascunho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}

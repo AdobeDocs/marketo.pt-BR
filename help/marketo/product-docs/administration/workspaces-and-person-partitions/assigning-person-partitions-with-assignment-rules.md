@@ -3,7 +3,7 @@ unique-page-id: 2360327
 description: Atribuição de partições de pessoa com regras de atribuição - Documentação do Marketo - Documentação do produto
 title: Atribuindo Partições de Pessoa com Regras de Atribuição
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -26,19 +26,19 @@ Ao usar partições de pessoa, configure regras de atribuição para rotear as p
 >
 >Somente as pessoas criadas no Marketo pelo seu CRM e pela API SOAP terão regras de atribuição aplicadas a elas.
 
-1. Vá para a **Admin** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. Clique em **Espaços de trabalho e partições**.
+1. Clique em **[!UICONTROL Espaços de trabalho e partições]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. No **Partições de pessoas** clique em **Regras de atribuição**.
+1. No **[!UICONTROL Partições de pessoas]** clique em **[!UICONTROL Regras de atribuição]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. Clique em **Adicionar seleção** para adicionar condições para rotear pessoas para partições de pessoas.
+1. Clique em **[!UICONTROL Adicionar seleção]** para adicionar condições para rotear pessoas para partições de pessoas.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -58,7 +58,7 @@ Ao usar partições de pessoa, configure regras de atribuição para rotear as p
    >
    >Você pode adicionar quantas escolhas desejar.
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

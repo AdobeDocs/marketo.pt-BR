@@ -3,7 +3,7 @@ unique-page-id: 2360313
 description: Excluir um espaço de trabalho - Documentação do Marketo - Documentação do produto
 title: Excluir um espaço de trabalho
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -20,18 +20,18 @@ ht-degree: 0%
 >
 >Não é possível excluir o espaço de trabalho padrão no Marketo.
 
-1. Vá para a **Admin** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/delete-a-workspace-1.png)
 
-1. Clique em **Espaços de trabalho e partições**.
+1. Clique em **[!UICONTROL Espaços de trabalho e partições]**.
 
    ![](assets/delete-a-workspace-2.png)
 
-1. Selecione um espaço de trabalho e clique em **Excluir espaço de trabalho**.
+1. Selecione um espaço de trabalho e clique em **[!UICONTROL Excluir espaço de trabalho]**.
 
    ![](assets/delete-a-workspace-3.png)
 
-1. Confirme o número de ativos que você está prestes a excluir (ele está listado para você ao lado do &quot;total de ativos&quot;) e selecione a **Não é possível desfazer** e clique em **Excluir**.
+1. Confirme o número de ativos que você está prestes a excluir (ele está listado para você ao lado de &quot;[!UICONTROL total de ativos]&quot;), selecione a variável **[!UICONTROL Não é possível desfazer]** e clique em **[!UICONTROL Excluir]**.
 
    ![](assets/delete-a-workspace-4.png)

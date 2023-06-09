@@ -2,7 +2,7 @@
 description: Verificação de email - Documentação do Marketo - Documentação do produto
 title: Verificação de email
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Os usuários receberão o seguinte email quando a verificação de email for ati
 
 >[!NOTE]
 >
->Para reenviar um email de verificação a um usuário não verificado, basta selecionar o registro e clicar no link **Verificar email** botão.
+>Para reenviar um email de verificação a um usuário não verificado, basta selecionar o registro e clicar no link **[!UICONTROL Verificar email]** botão.
 
 ## Alteração de um endereço de email {#changing-an-email-address}
 
-Quando o endereço de email de um usuário é alterado, ele não é verificado. Um email será enviado a eles, permitindo que eles verifiquem novamente. Os usuários podem reenviar manualmente esse email clicando em **Reenviar verificação**.
+Quando o endereço de email de um usuário é alterado, ele não é verificado. Um email será enviado a eles, permitindo que eles verifiquem novamente. Os usuários podem reenviar manualmente esse email clicando em **[!UICONTROL Reenviar verificação]**.
 
 ![](assets/email-verification-2.png)
 
@@ -41,7 +41,7 @@ Quando o endereço de email de um usuário é alterado, ele não é verificado. 
 
 ## Usuários e funções {#users-and-roles}
 
-Entrada **Admin** > **Usuários e funções**, a coluna Status de email mostra o status de verificação de cada usuário.
+Entrada **[!UICONTROL Admin]** > **[!UICONTROL Usuários e funções]**, a coluna Status de email mostra o status de verificação de cada usuário.
 
 ![](assets/email-verification-4.png)
 

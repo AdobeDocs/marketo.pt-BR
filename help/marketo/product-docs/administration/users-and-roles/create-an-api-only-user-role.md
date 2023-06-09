@@ -1,43 +1,43 @@
 ---
 unique-page-id: 2360203
-description: Criar uma função de usuário somente de API - Documentos do Marketo - Documentação do produto
-title: Criar uma função de usuário somente de API
+description: Criar uma função de usuário somente API - Marketo Docs - Documentação do produto
+title: Criar uma função de usuário somente API
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
-source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
 
-# Criar uma função de usuário somente de API {#create-an-api-only-user-role}
+# Criar uma função de usuário somente API {#create-an-api-only-user-role}
 
-Se quiser integrar com o Marketo por meio da variável [REST API](https://developers.marketo.com/documentation/rest/), a melhor prática é [atribuir a um usuário a função Somente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) e depois [criar um serviço personalizado para uso com a ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Veja como criar a função de usuário somente API.
+Se quiser integrar ao Marketo por meio da [REST API](https://developers.marketo.com/documentation/rest/), a prática recomendada é [atribuir a um usuário a função Somente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) e depois [criar um serviço personalizado para usar com a API ReST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Veja como criar a função de usuário Somente API.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/create-an-api-only-user-role-1.png)
 
-1. Clique em **Usuários e funções**.
+1. Clique em **[!UICONTROL Usuários e funções]**.
 
    ![](assets/create-an-api-only-user-role-2.png)
 
-1. Clique no botão **Funções** e depois **Nova função**.
+1. Clique em **[!UICONTROL Funções]** e depois **[!UICONTROL Nova Função]**.
 
    ![](assets/create-an-api-only-user-role-3.png)
 
-1. Insira um Nome de função, selecione as Permissões de acesso à API que deseja conceder e clique em **Criar.**
+1. Insira um Nome de função, selecione as Permissões de acesso à API que deseja conceder e clique em **[!UICONTROL Criar]**.
 
    ![](assets/create-an-api-only-user-role-4.png)
 
 >[!TIP]
 >
->É sempre uma boa ideia conceder apenas as permissões mínimas necessárias.
+>É sempre uma boa ideia conceder somente as permissões mínimas necessárias.
 
 >[!MORELIKETHIS]
 >
->Muito bem! Agora vamos [criar um usuário somente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+>Ok, muito bem! Agora vamos [criar um usuário Somente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).

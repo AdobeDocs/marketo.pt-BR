@@ -1,48 +1,48 @@
 ---
 unique-page-id: 2360272
-description: Criar uma nova tag e valores de tag do programa - Documentos da Marketo - Documentação do produto
-title: Criar uma nova tag e valores de tag do programa
+description: Criar uma nova tag de programa e valores de tag - Documentação do Marketo - Documentação do produto
+title: Criar uma nova tag de programa e valores de tag
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
-source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Criar uma nova tag e valores de tag do programa {#create-a-new-program-tag-and-tag-values}
+# Criar uma nova tag de programa e valores de tag {#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-Você pode criar personalizados [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para seus programas e atribua valores à tag .
+Você pode criar relatórios [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para seus programas e atribuir valores à tag.
 
 >[!NOTE]
 >
 >**Exemplo**
 >
->Etiqueta do programa: Público-alvo
+>Tag de programa: Público-alvo
 >
 >Valor da etiqueta do programa: SMB, Enterprise, Mid-Market
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. Clique em **Tags**.
+1. Clique em **[!UICONTROL Tags]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Clique em **Novo** e selecione **Novo tipo de tag**.
+1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo tipo de tag]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. Insira o **Tipo de tag** e uma tag **Valor**. Em seguida, clique em **Adicionar outro**.
+1. Insira o **[!UICONTROL Tipo de tag]** e uma tag **[!UICONTROL Valor]**. Clique em **[!UICONTROL Adicionar outro]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
-1. Insira quantos valores forem necessários. Selecione os tipos de programas aos quais você deseja que esta tag seja aplicada.
+1. Insira quantos valores forem necessários. Selecione a quais tipos de programas você deseja aplicar esta tag.
 
    ![](assets/create-a-new-program-tag-and-tag-values-5.png)
 
@@ -50,14 +50,14 @@ Você pode criar personalizados [tags](/help/marketo/product-docs/core-marketo-c
    >
    >Você pode selecionar vários tipos de programas. Quando um novo programa for criado, esse tipo de tag estará disponível.
 
-1. Verificar **Obrigatório** e clique em **Criar**.
+1. Marcar **[!UICONTROL Obrigatório]** e clique em **[!UICONTROL Criar]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >Se o tipo de tag for **Obrigatório**, os usuários precisarão digitar um valor para a tag ao criar um novo programa.
+   >Se o tipo de tag for **[!UICONTROL Obrigatório]**, os usuários deverão inserir um valor para a tag ao criar um novo programa.
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 
-Agora, quando os usuários criam um programa, eles precisam definir o valor personalizado da tag criada.
+Agora, quando os usuários criarem um programa, precisarão definir o valor personalizado para a tag criada.

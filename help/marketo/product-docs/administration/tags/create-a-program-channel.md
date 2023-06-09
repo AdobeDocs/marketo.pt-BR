@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2950682
-description: Criar um canal do programa - Documentos do Marketo - Documentação do produto
+description: Criar um canal de programa - Documentação do Marketo - Documentação do produto
 title: Criar um canal de programa
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Criar um canal de programa {#create-a-program-channel}
 
-Um programa é uma iniciativa específica de marketing. O canal deve ser o mecanismo de entrega, como Webinar ou Sponsorship ou Anúncio online.
+Um programa é uma iniciativa de marketing específica. O canal deve ser o mecanismo de entrega, como Webinar ou Patrocínio ou Anúncio online.
 
 >[!NOTE]
 >
@@ -20,25 +20,25 @@ Um programa é uma iniciativa específica de marketing. O canal deve ser o mecan
 
 >[!NOTE]
 >
->Saiba mais sobre [programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), o elemento mais importante no Marketo.
+>Saiba mais sobre [programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), o elemento mais importante do Marketo.
 
-1. Vá para o **Administrador** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/create-a-program-channel-1.png)
 
-1. Clique em **Tags**.
+1. Clique em **[!UICONTROL Tags]**.
 
    ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
-   >Por que tags? Um canal é uma maneira de descrever um programa, assim como outras tags. O canal tem apenas recursos extras especiais.
+   >Por que tags? Um canal é uma maneira de descrever um programa, como outras tags. O canal tem apenas recursos extras especiais.
 
-1. Clique no botão **+** assinar ao lado de **Canal** para expandir e ver os canais existentes.
+1. Clique em **+** assinar ao lado de [!UICONTROL Canal] para expandir e ver os canais existentes.
 
    ![](assets/create-a-program-channel-3.png)
 
-1. Em **Novo**, clique em **Novo canal**.
+1. Em **[!UICONTROL Novo]**, clique em **[!UICONTROL Novo canal]**.
 
    ![](assets/create-a-program-channel-4.png)
 
@@ -49,73 +49,71 @@ Um programa é uma iniciativa específica de marketing. O canal deve ser o mecan
    >Canal: Outdoor
    >
    >* Aplicar a: Padrão
-   >* Progressão: Membro, Envolvido (em caso de dúvida, funcionam bem)
+   >* Progressão: Membro, Envolvido (em caso de dúvida, esses trabalhos funcionam bem)
    >* Sucesso: Envolvido
-
    >
-   >Canal: Parte
+   >Canal: Festa
    >
    >* Aplicar a: Evento
-   >* Progressão: Convidado, Registrado, Sem Programa e Participado
-   >* Sucesso: Participante
-
+   >* Progressão: Convidado, Inscrito, Sem Apresentação e Presente
+   >* Sucesso: Participou
    >
-   >Confira os Progressos dos canais existentes para ter uma ideia de como usá-los.
+   >Confira as Progressões dos canais existentes para ter uma ideia de como usá-los.
 
-1. Vamos com o exemplo do canal de Partido. Dê um nome ao novo **Canal** e selecione o tipo de programa ao qual será aplicado.
+1. Vamos seguir o exemplo do Canal de partido. Dê um nome ao seu novo **Canal** e selecione o tipo de programa ao qual ele será aplicado.
 
    ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
-   >Aplicar a quê? Existem vários tipos de programas. Corresponda o canal ao tipo correto. Em caso de dúvida, escolha **Padrão**.
+   >Aplicar a quê? Existem vários tipos de programas. Corresponda o canal ao tipo certo. Em caso de dúvida, escolha **[!UICONTROL Padrão]**.
 
    >[!NOTE]
    >
-   >Ao usar &quot;Evento com webinar&quot;, os mapeamentos do sistema serão bloqueados (conforme exigido pelas integrações do webinar) e não poderão ser editados.
+   >Ao usar &quot;[!UICONTROL Evento com webinário],&quot; os mapeamentos do sistema serão bloqueados (conforme exigido pelas integrações do webinário) e não poderão ser editados.
 
-1. Insira os dois primeiros nomes de Status do programa e clique em **Adicionar etapa**.
+1. Insira os dois primeiros nomes de Status do programa e clique em **[!UICONTROL Adicionar etapa]**.
 
    ![](assets/create-a-program-channel-6.png)
 
-1. Introduza outro programa **Status** e **Etapa** e clique em **Adicionar etapa**.
+1. Inserir outro programa **[!UICONTROL Status]** e **[!UICONTROL Etapa]** e clique em **[!UICONTROL Adicionar etapa]**.
 
    ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
-   >O **Etapa** é usado para classificar os status do programa. Lembre-se de que as pessoas não podem retroceder nessas etapas de progressão. Eles só podem alterar o status para um status de valor maior ou igual. Use os valores iguais quando os status forem destinados a alternar para frente e para trás em vez de uma progressão.
+   >A variável **[!UICONTROL Etapa]** O número é usado para classificar os status do programa. Lembre-se de que as pessoas não podem retroceder nesses passos de progressão. Eles só podem alterar o status para um status de valor maior ou igual. Use os valores iguais quando os status pretenderem alternar entre si, em vez de uma progressão.
 
-1. Inserir o último programa **Status** e **Etapa** número.
+1. Inserir o último programa **[!UICONTROL Status]** e **[!UICONTROL Etapa]** número.
 
    ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
-   >Ao usar o tipo &quot;Evento&quot;, é necessário o mapeamento de sistema para os status Registrado, Lista de Espera e Participado. Dessa forma, esses status não podem ser ocultos.
+   >Ao usar o tipo &quot;[!UICONTROL Evento],&quot; para os status Registrado, Em lista de espera e Participou. Sendo assim, esses status não podem ser ocultos.
 
-1. Escolha a **Status de Check-in Móvel** para **Registrado**.
+1. Escolha o **[!UICONTROL Status do check-in para dispositivos móveis]** para **[!UICONTROL Registrado]**.
 
    ![](assets/create-a-program-channel-9.png)
 
-1. Escolha a **Status de Check-in Móvel** para **Participante**.
+1. Escolha o **[!UICONTROL Status do check-in para dispositivos móveis]** para **[!UICONTROL Participou]**.
 
    ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
-   >**Status de Check-in Móvel**** **as opções só estarão disponíveis se o canal for para programas de eventos.
+   >**[!UICONTROL Status do check-in para dispositivos móveis]** as opções só estarão disponíveis se o canal for para programas de evento.
 
    >[!NOTE]
    >
-   >Somente pessoas com uma **Status de Check-in Móvel** de **Registrado** e **Participante** estará visível no [Aplicativos de check-in para dispositivos móveis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
+   >Somente pessoas com um **[!UICONTROL Status do check-in para dispositivos móveis]** de **[!UICONTROL Registrado]** e **[!UICONTROL Participou]** estará visível no [Aplicativos de check-in para dispositivos móveis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
-   >Se uma nova pessoa for criada no aplicativo de check-in móvel, ela será definida como Registrado no programa de eventos. Se uma pessoa for verificada no evento no aplicativo, ela será definida como Participada no programa de eventos.
+   >Se uma nova pessoa for criada no aplicativo de check-in para dispositivos móveis, ela será definida como Registrada no programa de evento. Se uma pessoa estiver inscrita no evento no aplicativo, ele será definido como Participou no programa de evento.
 
-1. Selecione o **Sucesso** status do programa, em seguida, clique em **Criar**.
+1. Selecione o **[!UICONTROL Sucesso]** status do programa e clique em **[!UICONTROL Criar]**.
 
    ![](assets/create-a-program-channel-11.png)
 
-   Muito bem! Quando você faz um novo programa desse tipo, esse novo canal será uma das opções.
+   Muito bem! Quando você cria um novo programa desse tipo, esse novo canal será uma das opções.

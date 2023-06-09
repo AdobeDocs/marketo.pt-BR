@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Noções básicas sobre espaços de trabalho e partições de pessoas - Documentação do Marketo - Documentação do produto
 title: Noções Básicas sobre Espaços de Trabalho e Partições de Pessoas
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '517'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,7 @@ Os espaços de trabalho são áreas separadas no Marketo que contêm ativos de m
 >Alguns motivos para usar um espaço de trabalho:
 >
 >* Geografia: Os departamentos de marketing da Europa, Ásia e América do Norte recebem um espaço de trabalho
->* Unidade de negócios: Quicken, Quickbooks e TurboTax cada um obtém um espaço de trabalho
+>* Unidade de negócios: [!DNL Quicken], [!DNL Quickbooks] e [!DNL TurboTax] cada obtenha um espaço de trabalho
 >
 >Em cada caso, a separação ocorre porque os ativos de marketing são completamente diferentes. Se eles compartilharem ativos de marketing, os espaços de trabalho podem não ser a ferramenta certa para você.
 
@@ -43,15 +43,15 @@ Veja como compartilhar ativos entre espaços de trabalho. Funciona da mesma form
 >
 >A pasta principal que contém seus ativos é a única pasta que pode ser compartilhada, não as pastas secundárias.
 
-1. Clique em Banco de Dados.
+1. Clique em **[!UICONTROL Banco de dados]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Clique com o botão direito do mouse na pasta Segmentação e clique em **Nova pasta**.
+1. Clique com o botão direito do mouse na pasta Segmentação e clique em **[!UICONTROL Nova pasta]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. Nomeie sua pasta e clique em **Criar**.
+1. Nomeie sua pasta e clique em **[!UICONTROL Criar]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -59,11 +59,11 @@ Veja como compartilhar ativos entre espaços de trabalho. Funciona da mesma form
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Clique com o botão direito do mouse e selecione **Compartilhar pasta**.
+1. Clique com o botão direito do mouse e selecione **[!UICONTROL Compartilhar pasta]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Selecione os espaços de trabalho com os quais deseja compartilhar a pasta e clique em **Salvar**. A caixa de diálogo Compartilhar pasta exibirá somente os espaços de trabalho que você tem permissão para visualizar.
+1. Selecione os espaços de trabalho com os quais deseja compartilhar a pasta e clique em **[!UICONTROL Salvar]**. A caixa de diálogo Compartilhar pasta exibirá somente os espaços de trabalho que você tem permissão para visualizar.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -118,7 +118,6 @@ Você pode atribuir partições de pessoa a  [espaços de trabalho](create-a-new
 >
 >* Seus espaços de trabalho não só têm ativos diferentes, como também não compartilham pessoas
 >* Você deseja duplicações por outros motivos comerciais
-
 
 >[!CAUTION]
 >

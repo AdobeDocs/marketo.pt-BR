@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Descrições das permissões de função - Documentação do Marketo - Documentação do produto
 title: Descrições de permissões de função
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1137'
 ht-degree: 19%
 
 ---
@@ -33,8 +33,8 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Acessar trilha de auditoria - Dá aos usuários acesso à trilha de auditoria do ativo e à trilha de auditoria do administrador.
 * Canais de acesso - Concede aos usuários acesso somente para modificar a tag de Canal, não a outras tags personalizadas
 * Limite de comunicação de acesso - Concede aos usuários acesso para ativar um limite de comunicação no Administrador
-* Acessar CRM - Concede aos usuários acesso ao CRM, como Salesforce ou Microsoft Dynamics, no Admin
-* Access [Data.com](https://Data.com) - Concede aos usuários acesso à ação de fluxo Data.com
+* Acessar o CRM - Concede aos usuários acesso ao CRM, como [!DNL Salesforce] ou [!DNL Microsoft Dynamics], no Admin
+* Access [[!DNL Data.com]](https://Data.com) - Concede aos usuários acesso à ação de fluxo Data.com
 * Acessar administrador de email - Dá aos usuários o Administrador de email para alterar as configurações padrão, como domínios de cancelamento de inscrição e identidade visual
 * Parceiros de evento de acesso - Fornece aos usuários acesso ao LaunchPoint no Administrador
 * Gerenciamento de campos de acesso - Concede aos usuários acesso ao Gerenciamento de campos no Administrador
@@ -45,7 +45,7 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Acessar configurações de logon - Dá aos usuários acesso às Configurações de logon nas configurações de Administração para segurança, Restrições de IP e Relatórios de lista inteligente
 * Acessar a atividade personalizada do Marketo - Concede aos usuários acesso às Atividades personalizadas do Marketo no Administrador
 * Acessar objeto personalizado do Marketo - Concede aos usuários acesso aos Objetos personalizados do Marketo no Administrador
-* Acessar o Munchkin - Dá aos usuários do GI o acesso ao Munchkin no Admin, para configurar o código de rastreamento, o rastreamento de pessoas e ativar a configuração da API
+* Access [!DNL Munchkin] - Concede aos usuários acesso a [!DNL Munchkin] em Administração, para definir o código de rastreamento, o rastreamento de pessoas e ativar a configuração da API
 * Acessar o Revenue Cycle Analytics - Dá aos usuários acesso ao Revenue Cycle Analytics no Admin para a configuração Sincronizar resumo e atribuição
 * Funções de acesso - concede aos usuários acesso para gerenciar e editar funções, mas não aos usuários
 * Acessar o Sales Insight - Dá aos usuários acesso para gerenciar o Sales Insight no Admin, para definir o status, a configuração da API, a pontuação de pessoas e outras configurações

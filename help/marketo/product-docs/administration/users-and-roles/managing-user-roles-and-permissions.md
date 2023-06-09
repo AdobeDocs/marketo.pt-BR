@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: Gerenciamento de funções e permissões do usuário - Documentação do Marketo - Documentação do produto
 title: Gerenciamento de funções e permissões de usuário
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -38,19 +38,19 @@ Se estiver usando o Marketo com Adobe Identity, a lista de descrições de perfi
 
 Você pode atribuir funções a um usuário quando [criar usuários pela primeira vez](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) ou por [editar um usuário existente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Vá para a **Admin** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
-1. Clique em **Usuários e funções**.
+1. Clique em **[!UICONTROL Usuários e funções]**.
 
    ![](assets/managing-user-roles-and-permissions-2.png)
 
-1. Na lista, selecione o usuário que deseja editar e clique em **Editar Usuário**.
+1. Na lista, selecione o usuário que deseja editar e clique em **[!UICONTROL Editar Usuário]**.
 
    ![](assets/managing-user-roles-and-permissions-3.png)
 
-1. Em **Funções**, selecione as funções que deseja atribuir ao usuário com base nas permissões necessárias e clique em **Salvar**.
+1. Em **[!UICONTROL Funções]**, selecione as funções que deseja atribuir ao usuário com base nas permissões necessárias e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/managing-user-roles-and-permissions-4.png)
 
@@ -62,23 +62,23 @@ Você pode atribuir funções a um usuário quando [criar usuários pela primeir
 
 Às vezes, sua organização tem funcionários em funções muito específicas que exigem uma combinação personalizada de permissões.
 
-1. Vá para a **Admin** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
-1. Clique em **Usuários e funções**.
+1. Clique em **[!UICONTROL Usuários e funções]**.
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
-1. Clique em **Funções** guia.
+1. Clique em **[!UICONTROL Funções]** guia.
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
-1. Clique em **Nova Função**.
+1. Clique em **[!UICONTROL Nova Função]**.
 
    ![](assets/managing-user-roles-and-permissions-8.png)
 
-1. Insira um **Nome da função**, um **Descrição** (opcional) e selecione as permissões que os usuários nesta função precisarão.
+1. Insira um **[!UICONTROL Nome da função]**, um **[!UICONTROL Descrição]** (opcional) e selecione as permissões que os usuários nesta função precisarão.
 
    ![](assets/managing-user-roles-and-permissions-9.png)
 
@@ -86,23 +86,23 @@ Você pode atribuir funções a um usuário quando [criar usuários pela primeir
 
 Se você precisar alterar as permissões associadas a uma função existente, edite a função.
 
-1. Vá para a **Admin** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
-1. Clique em **Usuários e funções**.
+1. Clique em **[!UICONTROL Usuários e funções]**.
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
-1. Clique em **Funções** guia.
+1. Clique em **[!UICONTROL Funções]** guia.
 
    ![](assets/managing-user-roles-and-permissions-12.png)
 
-1. Na lista, selecione a função que deseja modificar e clique em **Editar Função**.
+1. Na lista, selecione a função que deseja modificar e clique em **[!UICONTROL Editar Função]**.
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. Altere o **Nome da função** e **Descrição** se necessário, e altere a seleção de associados **Permissões**.
+1. Altere o **[!UICONTROL Nome da função]** e **[!UICONTROL Descrição]** se necessário, e altere a seleção de associados **[!UICONTROL Permissões]**.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
@@ -114,22 +114,22 @@ Se você precisar alterar as permissões associadas a uma função existente, ed
 
 Se uma função se tornar desnecessária, você poderá excluí-la.
 
-1. Vá para a **Admin** área.
+1. Vá para a **[!UICONTROL Admin]** área.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
-1. Clique em **Usuários e funções**.
+1. Clique em **[!UICONTROL Usuários e funções]**.
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 
-1. Clique em **Funções** guia.
+1. Clique em **[!UICONTROL Funções]** guia.
 
    ![](assets/managing-user-roles-and-permissions-17.png)
 
-1. Na lista, selecione a função que deseja excluir e clique em **Excluir Função**.
+1. Na lista, selecione a função que deseja excluir e clique em **[!UICONTROL Excluir Função]**.
 
    ![](assets/managing-user-roles-and-permissions-18.png)
 
-1. Clique em **Excluir** para confirmar.
+1. Clique em **[!UICONTROL Excluir]** para confirmar.
 
    ![](assets/managing-user-roles-and-permissions-19.png)
