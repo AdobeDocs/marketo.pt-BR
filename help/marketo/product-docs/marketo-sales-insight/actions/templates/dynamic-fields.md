@@ -2,9 +2,9 @@
 description: Campos dinâmicos - Documentação do Marketo - Documentação do produto
 title: Campos dinâmicos
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 6d4a093d0ce0158028177cc4a4088526ccf79f9d
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '487'
 ht-degree: 1%
 
 ---
@@ -37,13 +37,13 @@ Basta copiá-los e colá-los manualmente no campo de assunto de um email, tomand
 
 Ao adicionar campos dinâmicos a seus modelos de email, você pode adicionar um valor padrão para o qual o campo dinâmico resolverá se não houver outro valor disponível.
 
-Para fazer isso, adicione &quot;|&quot; após o rótulo do campo dinâmico e, em seguida, adicione &quot;default:&quot;. Em seguida, adicione o valor para o qual deseja que o campo seja resolvido se nenhum outro valor puder ser encontrado.
+Para fazer isso, adicione &quot;|&quot; após o rótulo do campo dinâmico e, em seguida, adicione &quot;default:&quot; (ambos sem aspas). Em seguida, adicione o valor para o qual deseja que o campo resolva (entre aspas) se nenhum outro valor puder ser encontrado.
 
 **Exemplo:**
 
-`{{first name | default: loyal customer}}`
+`{{first name | default: "loyal customer"}}`
 
-`{{sfdc_contact_account_name | default: your company}}`
+`{{sfdc_contact_account_name | default: "your company"}}`
 
 ## Glossário de campos dinâmicos {#dynamic-fields-glossary}
 
