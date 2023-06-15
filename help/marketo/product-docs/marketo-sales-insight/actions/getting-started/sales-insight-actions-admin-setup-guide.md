@@ -2,7 +2,7 @@
 description: Guia de configuração do administrador de ações do Sales Insight - Documentação do Marketo - Documentação do produto
 title: Guia de configuração do administrador de ações do Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 7249a7e7cd1879d35fedef0a6e3568fbc2872ef9
+source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 1%
@@ -19,7 +19,6 @@ ht-degree: 1%
 >
 >* Confirme com a Equipe de conta do Adobe (seu Gerente de conta) que as Ações MSI foram habilitadas para sua conta Marketo Engage (se você não tiver um Gerente de conta, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
 >* A sincronização do Marketo/Salesforce deve ser configurada.
-
 
 <table>
  <tr>
@@ -190,4 +189,4 @@ Você receberá uma mensagem de confirmação assim que os convites forem enviad
 
 >[!NOTE]
 >
->Depois disso, você poderá atualizar seu pacote MSI existente ou instalar um novo e seguir para [configuração de ações MSI no Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
+>Depois disso, você poderá atualizar seu pacote MSI existente ou instalar um novo e seguir para [configuração de ações MSI no Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
