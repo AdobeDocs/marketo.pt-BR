@@ -1,10 +1,10 @@
 ---
-description: Por que meus campos dinâmicos não estão sendo preenchidos - Documentação do Marketo - Documentação do produto
+description: Por que meus campos dinâmicos não estão sendo preenchidos? - Documentação do Marketo - Documentação do produto
 title: Por que meus campos dinâmicos não estão sendo preenchidos?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -15,13 +15,13 @@ Os campos dinâmicos só funcionarão quando você estiver usando um modelo. Ema
 
 ## O que verificar {#what-to-check}
 
-Há três tipos de campos dinâmicos em Ações do Sales Insight: Básico, Personalizado e Salesforce. Básico e personalizado, ambos procuram obter informações do [aplicativo web](https://toutapp.com/login). Se as informações não existirem no aplicativo web, os campos estarão em branco. Os campos do Salesforce extraem informações de [Salesforce.com](https://salesforce.com).
+Há três tipos de campos dinâmicos em Ações do Sales Insight: Básico, Personalizado e Salesforce. Básico e personalizado, ambos procuram obter informações do [aplicativo web](https://toutapp.com/login){target="_blank"}. If the information does not exist in the web application, the fields will be blank. Salesforce fields pull information from [Salesforce.com](https://salesforce.com){target="_blank"}.
 
 **Solução de problemas de campos do Salesforce**
 
 Campos do Salesforce: ex. `{{sfdc_account_name}}`
 
-* Verifique se ele está conectado corretamente às Ações do Sales Insight. Vá para a [Configurações](https://toutapp.com/login) e clique em **Gerenciar** ao lado do seu CRM.
+* Verifique se ele está conectado corretamente às Ações do Sales Insight. Vá para a [Configurações](https://toutapp.com/login{target="_blank"} e clique em **Gerenciar** ao lado do seu CRM.
 
 **Solução de problemas de campos básicos e personalizados**
 
@@ -29,7 +29,7 @@ Campos básicos de ações do Marketo Sales Insight: por exemplo, `{{company}}`
 
 Campos personalizados de ações do Marketo Sales Insight: por exemplo, `{{custom_field_favorite_movie}}`
 
-* O campo correspondente precisa ser salvo para o contato na variável [Página Pessoas](https://toutapp.com/next#relationships) para que nosso campo dinâmico faça referência. Por exemplo, se você estiver enviando um email para Mary e estiver usando o `{{company}}` mas seu registro de contato não lista uma empresa, não poderemos preencher isso.
+* O campo correspondente precisa ser salvo para o contato na variável [Página Pessoas](https://toutapp.com/next#relationships){target="_blank"} para que nosso campo dinâmico faça referência. Por exemplo, se você estiver enviando um email para Mary e estiver usando o `{{company}}` mas seu registro de contato não lista uma empresa, não poderemos preencher isso.
 
 ## Por Que Meu Email Foi Enviado Sem Preencher Todos Os Campos Dinâmicos? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 

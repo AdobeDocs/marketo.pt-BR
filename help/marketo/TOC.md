@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '8920'
+source-wordcount: '8933'
 ht-degree: 5%
 
 ---
@@ -544,7 +544,7 @@ ht-degree: 5%
             + [Microsoft Dynamics Sync: Sincronização de usuários](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [Status da sincronização](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [Visão geral da sincronização do Campaign](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
-            + [Ativar sincronização de campanhas](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
+            + [Habilitar sincronização de campanhas](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
          + Detalhes do Filtro de Sincronização Personalizado do Dynamics {#custom-dynmaics-sync-filter-details}
             + [Criar um filtro de sincronização personalizado do Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Regras de Filtro de Sincronização Personalizada para um Endereço de Email](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
@@ -1345,7 +1345,7 @@ ht-degree: 5%
                + [Desconectar Salesforce Das Ações Do Sales Insight](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Registro de respostas](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Diagnósticos do Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
-               + [Configurações de sincronização do Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+               + [Sincronizar atividades de vendas com o Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Configuração do pacote do Salesforce {#salesforce-package-configuration}
                + [Registrando Atributos de Atividade de Vendas no Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Configuração das ações do Sales Insight no Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
@@ -1395,6 +1395,7 @@ ht-degree: 5%
             + [Quais são os termos de serviço das ações do Sales Insight?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [Por que nenhum dos meus contatos está sendo encaminhado para as ações do Sales Insight?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [Por que meus campos dinâmicos não estão sendo preenchidos?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
+            + [Por que minhas atividades de vendas e meus campos de atividade não estão sendo sincronizados com o Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [Por que não posso excluir um contato?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Por que todos os meus contatos não foram encaminhados para as ações do Sales Insight?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Por que a atividade de rastreamento não é exibida na atividade do Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
@@ -1486,7 +1487,7 @@ ht-degree: 5%
          + Recursos {#features}
             + [Visão geral do recurso MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Visão geral do recurso Painel de insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + [Integração dinâmica de chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
+            + [Integração do Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [Enviar um email para vários registros no Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Ações no painel MSI {#actions-in-the-msi-panel}
                + [Escolher uma ação no Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
