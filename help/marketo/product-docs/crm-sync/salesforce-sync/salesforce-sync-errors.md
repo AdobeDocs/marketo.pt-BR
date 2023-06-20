@@ -1,56 +1,56 @@
 ---
-description: Erros de sincronização do Salesforce - Documentos do Marketo - Documentação do produto
-title: Erros de Sincronização do Salesforce
+description: Erros de sincronização do Salesforce - Documentação do Marketo - Documentação do produto
+title: Erros de sincronização do Salesforce
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 3%
 
 ---
 
-# Erros de Sincronização do Salesforce {#salesforce-sync-errors}
+# Erros de sincronização do Salesforce {#salesforce-sync-errors}
 
-Visualize um resumo dos erros enfrentados durante o processo de sincronização. Isso inclui erros causados por falhas de sincronização de dados incompatíveis.
+Visualize um resumo dos erros encontrados durante o processo de sincronização. Isso inclui erros causados por falhas na sincronização de dados incompatíveis.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-## Exibir erros de sincronização {#view-sync-errors}
+## Exibir Erros de Sincronização {#view-sync-errors}
 
-1. Clique em **Administrador**.
+1. Clique em **Admin**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. Em Integração, clique em **Salesforce**, em seguida, o **Erros de sincronização** guia .
+1. Em Integração, clique em **Salesforce**, depois o **Erros de sincronização** guia.
 
    ![](assets/salesforce-sync-errors-2.png)
 
 >[!NOTE]
 >
->Os erros listados variam do tempo atual até cinco dias antes da sincronização atual.
+>Os erros listados variam da hora atual até cinco dias antes da sincronização atual.
 
 | Campo | Descrição |
 |---|---|
 | Falha em | Nível de registro _ou_ Nível da tarefa |
 | Data/hora da falha | Detalhes do erro |
-| Tipo de erro | Mensagem de retorno SFDC |
+| Tipo de erro | Mensagem de retorno do SFDC |
 
 >[!TIP]
 >
->Clicar no registro de nível de registro mostra as IDs da Marketo e do Salesforce do objeto relacionado. Em alguns casos, a mensagem no registro e os erros de nível de trabalho são diretamente do Salesforce. Pesquisá-los online pode fornecer detalhes adicionais.
+>Clicar no registro de nível de registro mostra as IDs do Marketo e do Salesforce do objeto relacionado. Em alguns casos, a mensagem no registro e os erros de nível de trabalho são diretamente do Salesforce. A pesquisa on-line pode fornecer detalhes adicionais.
 
-## Erros de Sincronização de Filtro {#filter-sync-errors}
+## Filtrar erros de sincronização {#filter-sync-errors}
 
 1. Para filtrar os dados, clique no ícone de filtro na extremidade direita da página.
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Selecione sua data e intervalo de tempo e filtre por Tipo de Erro (Nível da Tarefa ou Nível de Registro). Clique em **Aplicar** quando concluído.
+1. Selecione o intervalo de data e hora e filtre por Tipo de erro (Nível da tarefa ou Nível de registro). Clique em **Aplicar** quando terminar.
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**Etapa opcional**: Para exportar erros de sincronização, clique em **Exportar**. Os dados serão exportados como um CSV.
+**ETAPA OPCIONAL**: para exportar erros de sincronização, clique em **Exportar**. Os dados serão exportados como um CSV.
 
 ![](assets/salesforce-sync-errors-5.png)

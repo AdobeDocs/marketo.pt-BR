@@ -1,8 +1,8 @@
 ---
-description: Status de sincronização do Salesforce - Documentos do Marketo - Documentação do produto
+description: Status de sincronização do Salesforce - Documentação do Marketo - Documentação do produto
 title: Status da sincronização do Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 13%
@@ -11,35 +11,35 @@ ht-degree: 13%
 
 # Status da sincronização do Salesforce {#salesforce-sync-status}
 
-Use o Painel de status de sincronização para exibir as estatísticas de sincronização como parte das etapas de sincronização e seu status de sucesso.
+Use o Painel de Status da Sincronização para exibir as estatísticas de sincronização como parte das etapas de sincronização e seu status de sucesso.
 
-As etapas de sincronização refletem operações de push ou pull por cada tipo de objeto para o esquema de objeto e os próprios dados. As estatísticas abordam novos registros, atualizações, exclusões e contagens de falhas durante a sincronização. Os usuários podem filtrar por data, tipo de operação ou tipo de objeto. O Painel de Status de Sincronização mostra o status dos ciclos de sincronização dos últimos cinco dias.
+As etapas de Sincronização refletem as operações de push ou pull por cada tipo de objeto para o esquema de objeto e os próprios dados. As estatísticas abrangem novos registros, atualizações, exclusões e contagens de falhas durante a sincronização. Os usuários podem filtrar por data, tipo de operação ou tipo de objeto. Painel de Status da Sincronização mostra o status dos ciclos de sincronização dos últimos cinco dias.
 
 >[!NOTE]
 >
 >Permissões de administrador necessárias
 
-## Ver Estado de Sincronização {#view-sync-status}
+## Exibir Status de Sincronização {#view-sync-status}
 
-1. Clique em **Administrador**.
+1. Clique em **Admin**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Em Integração, clique em Salesforce e, em seguida, na guia Status de sincronização .
+1. Em Integração, clique em Salesforce e, em seguida, na guia Status de sincronização.
 
    ![](assets/salesforce-sync-status-2.png)
 
-Por padrão, as estatísticas serão classificadas pela mais recente. Você pode classificar por Iniciado em ou Encerrado em — do mais recente ao mais antigo — clicando no ícone de classificação.
+Por padrão, as estatísticas serão classificadas pela última vez em que foram iniciadas. Você pode classificar por Iniciado em ou Terminado em — do mais recente para o mais antigo — clicando no ícone de classificação.
 
 ![](assets/salesforce-sync-status-3.png)
 
-## Filtrar Status de Sincronização {#filter-sync-status}
+## Filtrar status de sincronização {#filter-sync-status}
 
 1. Para filtrar os dados, clique no ícone de filtro na extremidade direita da página.
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Selecione a data e o intervalo de tempo e clique nas listas suspensas para filtrar por Tipo de objeto, Tipo de operação e/ou Tipo de status.
+1. Selecione o intervalo de data e hora e clique no(s) menu(s) suspenso(s) para filtrar por Tipo de objeto, Tipo de operação e/ou Tipo de status.
 
    ![](assets/salesforce-sync-status-5.png)
 
@@ -47,7 +47,7 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Etapa opcional**: Para exportar erros de sincronização, clique em **Exportar**. Os dados serão exportados como um CSV.
+**ETAPA OPCIONAL**: para exportar erros de sincronização, clique em **Exportar**. Os dados serão exportados como um CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -63,7 +63,7 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
   <tr> 
    <th>Campo</th> 
    <th>Descrição</th> 
-   <th>Valores de Enum</th> 
+   <th>Valores de Enumeração</th> 
   </tr> 
   <tr> 
    <td colspan="1">Iniciado em</td> 
@@ -72,23 +72,23 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
   </tr>  
   <tr> 
    <td colspan="1">Encerrado em</td> 
-   <td colspan="1">A data/hora de término do ciclo de sincronização (fuso horário do usuário)</td> 
+   <td colspan="1">A data/hora final do ciclo de sincronização (fuso horário do usuário)</td> 
    <td colspan="1"></td> 
   </tr> 
   <tr> 
    <td colspan="1">Objeto</td> 
    <td colspan="1">Tipo de objeto</td> 
-   <td colspan="1">Contato, Pessoa, Tarefa, Oportunidade, Lead, Outros como abaixo</td> 
+   <td colspan="1">Contato, Pessoa, Tarefa, Oportunidade, Cliente Potencial, Outros conforme abaixo</td> 
   </tr>  
   <tr> 
    <td colspan="1">Operação</td> 
    <td colspan="1">Tipo de operação</td> 
-   <td colspan="1">Tipos de operação abaixo</td> 
+   <td colspan="1">Tipos de operação conforme abaixo</td> 
   </tr>  
   <tr> 
    <td colspan="1">Status</td> 
    <td colspan="1">Status do lote</td> 
-   <td colspan="1">Êxito, Falha, Incompleto, Em Andamento, Limpo*</td> 
+   <td colspan="1">Êxito, Falha, Incompleto, Em andamento, Limpo*</td> 
   </tr>
   <tr> 
    <td colspan="1">Novo</td> 
@@ -112,13 +112,13 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
   </tr>  
   <tr> 
    <td colspan="1">Ignorado</td> 
-   <td colspan="1">Contagem de registros ignorados porque não houve alterações em campos de interesse para a Sincronização</td> 
+   <td colspan="1">Contagem de registros ignorados porque não houve alterações nos campos de interesse para a sincronização</td> 
    <td colspan="1"></td> 
   </tr>  
  </tbody> 
 </table>
 
-&#42;Os dados foram revertidos para o estado de integridade anterior após a falha da etapa de sincronização.
+&#42;Dados revertidos para o estado anterior de integridade após falha da etapa de sincronização.
 
 ## Tipo de objeto {#object-type}
 
@@ -134,7 +134,7 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
    <td colspan="1">Tipo de conta</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Objetos personalizados</td> 
+   <td colspan="1">objetos  personalizados</td> 
   </tr>  
   <tr> 
    <td colspan="1">Campanha</td> 
@@ -181,50 +181,50 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
  <tbody> 
   <tr> 
    <th>Tipo de operação</th> 
-   <th>Encontrado em relação a esses objetos</th> 
+   <th>Encontrado nesses Objetos</th> 
    <th>Observações</th> 
    <th>Tipo de operação</th>
   </tr> 
   <tr> 
-   <td colspan="1">Iniciar link com Programa</td> 
+   <td colspan="1">Iniciar link com o programa</td> 
    <td colspan="1">Campanha</td> 
-   <td colspan="1">Vincular campanhas a programas</td> 
+   <td colspan="1">Vinculando campanhas a programas</td> 
    <td colspan="1">Atualizar</td>
   </tr>  
   <tr> 
    <td colspan="1">Extrair conversões</td> 
    <td colspan="1">Pessoa (lead)*</td> 
-   <td colspan="1">Puxe as ações de conversão do SFDC para o Marketo. Unidades (números) são leads convertendo em Contatos</td> 
-   <td colspan="1">Atualização, Item com Falha ou Ignorado</td>
+   <td colspan="1">Extrair ações de conversão do SFDC para o Marketo. Unidades (números) são clientes em potencial que convertem em Contatos</td> 
+   <td colspan="1">Atualização, item com falha ou ignorado</td>
   </tr> 
   <tr> 
    <td colspan="1">Extrair exclusões</td> 
-   <td colspan="1">Contato, Pessoa (Lead), Oportunidade, Campanha, Membros da Campanha, Contato da Oportunidade, Objetos Personalizados, Campanhas, Status do Membro da Campanha, Função do Contato da Oportunidade</td> 
-   <td colspan="1">Registros excluídos do SFDC que estão sendo sincronizados com o Marketo</td> 
-   <td colspan="1">Excluído, com falha de item ou ignorado</td>
+   <td colspan="1">Contato, Pessoa (Cliente Potencial), Oportunidade, Campanha, Membros Da Campanha, Contato Da Oportunidade, Objetos Personalizados, Campanhas, Status Do Membro Da Campanha, Função Do Contato Da Oportunidade</td> 
+   <td colspan="1">Registros excluídos do SFDC que está sendo sincronizado com o Marketo</td> 
+   <td colspan="1">Excluído, item com falha ou ignorado</td>
   </tr>  
   <tr> 
    <td colspan="1">Extrair atualizações</td> 
-   <td colspan="1">Tarefa, Pessoa (Lead), Fila de Pessoa (Lead), Contato, Evento, Oportunidade, Conta, Tipo de Conta, Membros da Campanha, Objetos Personalizados, Campanhas, Status de Membro da Campanha, Eventos, Status de Pessoa, Oportunidade, Função de Contato de Oportunidade</td> 
-   <td colspan="1">Atualizações ou Novos registros no SFDC sincronizados com o Marketo, Extrair eventos como atividades</td> 
-   <td colspan="1">Novo, Atualizado, Falha no Item ou Ignorado</td>
+   <td colspan="1">Tarefa, Pessoa (Lead), Fila De Pessoa (Lead), Contato, Evento, Oportunidade, Conta, Tipo De Conta, Membros Da Campanha, Objetos Personalizados, Campanhas, Status De Membro Da Campanha, Eventos, Status De Pessoa, Oportunidade, Função De Contato Da Oportunidade</td> 
+   <td colspan="1">Atualizações ou novos registros no SFDC sincronizados com o Marketo, obtenha eventos como atividades</td> 
+   <td colspan="1">Novo, atualizado, item com falha ou ignorado</td>
   </tr>  
   <tr> 
    <td colspan="1">Enviar novo(a)s</td> 
-   <td colspan="1">Tarefas, modelos de email</td> 
-   <td colspan="1">Tarefas de push (atividades)</td> 
+   <td colspan="1">Tarefas, Modelos de email</td> 
+   <td colspan="1">Tarefas por push (atividades)</td> 
    <td colspan="1"></td>
   </tr>
   <tr> 
    <td colspan="1">Enviar atualizações</td> 
    <td colspan="1">Tarefas, Modelos de email, Pessoa, Contato, Campanhas</td> 
-   <td colspan="1">Envio de atualizações para o SFDC e também exclui</td> 
-   <td colspan="1">Atualização, Item com Falha ou Ignorado</td>
+   <td colspan="1">Envio de atualizações ao SFDC e também exclusões</td> 
+   <td colspan="1">Atualização, item com falha ou ignorado</td>
   </tr>  
   <tr> 
    <td colspan="1">Sincronizar esquemas</td> 
-   <td colspan="1">Membros Da Campanha, Objetos Personalizados, Campanhas, Status Do Membro Da Campanha, Tarefas, Pessoa, Oportunidade, Função De Contato Da Oportunidade, Usuários</td> 
-   <td colspan="1">Sincroniza metadados para diferentes objetos, para decidir quais novos campos serão sincronizados no próximo ciclo</td> 
+   <td colspan="1">Membros da campanha, Objetos personalizados, Campanhas, Status do membro da campanha, Tarefas, Pessoa, Oportunidade, Função de contato da oportunidade, Usuários</td> 
+   <td colspan="1">Sincroniza metadados para objetos diferentes, para decidir quais novos campos serão sincronizados no próximo ciclo</td> 
    <td colspan="1"></td>
   </tr>  
   <tr> 
@@ -236,16 +236,16 @@ Por padrão, as estatísticas serão classificadas pela mais recente. Você pode
   <tr> 
    <td colspan="1">Atualizar atividades</td> 
    <td colspan="1">Tarefas</td> 
-   <td colspan="1">Retirar atividades do Salesforce</td> 
+   <td colspan="1">Extração de atividades do Salesforce</td> 
    <td colspan="1"></td>
   </tr>  
   <tr> 
    <td colspan="1">Atualizar FKS</td> 
    <td colspan="1">Tudo</td> 
-   <td colspan="1">Atualizar chave externa de todos os objetos</td> 
+   <td colspan="1">Atualizar chave estrangeira de todos os objetos</td> 
    <td colspan="1">N/D</td>
   </tr>  
  </tbody> 
 </table>
 
-&#42;A configuração de marca no nível da assinatura decide o rótulo - &quot;Lead&quot; ou &quot;Pessoa&quot; no relatório.
+&#42;A configuração da marca no nível de assinatura decide o rótulo - &quot;Líder&quot; ou &quot;Pessoa&quot; no relatório.
