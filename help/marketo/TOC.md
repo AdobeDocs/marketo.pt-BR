@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
 workflow-type: tm+mt
-source-wordcount: '8958'
+source-wordcount: '8961'
 ht-degree: 5%
 
 ---
@@ -1491,7 +1491,7 @@ ht-degree: 5%
          + Recursos {#features}
             + [Visão geral do recurso MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Visão geral do recurso Painel de insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + [Integração dinâmica de chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
+            + [Integração do Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [Enviar um email para vários registros no Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Ações no painel MSI {#actions-in-the-msi-panel}
                + [Escolher uma ação no Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
@@ -1908,6 +1908,7 @@ ht-degree: 5%
       + 2023 {#2023}
          + [Notas de versão: janeiro de 2023](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Notas de versão: março de 2023](release-notes/previous-releases/2023/release-notes-mar-23.md)
+         + [Notas de versão: maio de 2023](release-notes/previous-releases/2023/release-notes-may-23.md)
       + 2022 {#2022}
          + [Notas de versão: janeiro de 2022](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [Notas de versão: março de 2022](release-notes/previous-releases/2022/release-notes-mar-22.md)
