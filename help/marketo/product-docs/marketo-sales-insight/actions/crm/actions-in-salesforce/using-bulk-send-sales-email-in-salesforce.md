@@ -1,7 +1,7 @@
 ---
 description: Uso do envio de email de vendas em massa no Salesforce - Documentação do Marketo - Documentação do produto
 title: Utilização do email de vendas de envio em massa no Salesforce
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -67,6 +67,8 @@ Saiba como enviar emails em massa no Salesforce para ajudar a dimensionar a comu
    >Você pode criar uma nova visualização clicando em Criar nova visualização e configurando os filtros disponíveis para restringir a lista de quem você está adicionando a uma Campanha de vendas.
 
 1. Escolha a lista de clientes potenciais ou contatos desejada e clique no botão **Enviar email de vendas** botão.
+
+   ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
 1. Você será direcionado para a janela de composição Ações com os destinatários selecionados na janela de composição.
 
