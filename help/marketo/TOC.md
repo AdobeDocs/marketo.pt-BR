@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
 workflow-type: tm+mt
-source-wordcount: '8961'
+source-wordcount: '8963'
 ht-degree: 5%
 
 ---
@@ -485,10 +485,10 @@ ht-degree: 5%
          + [Noções básicas sobre pastas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Noções básicas das notificações](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Tipos de notificação](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + Não Jornadas {#not-journeys}
-         + [Visão geral do nome](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
-         + [Guia Nome](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
-         + [Guia Configurações](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
+      + Tela de Engajamento {#engagement-canvas}
+         + [Visão geral da tela de engajamento](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
+         + [Guia Tela de participação](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
+         + [Guia Configurações](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
       + Públicos preditivos {#predictive-audiences}
          + [Introdução aos públicos preditivos](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modelos e insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
@@ -1491,7 +1491,7 @@ ht-degree: 5%
          + Recursos {#features}
             + [Visão geral do recurso MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Visão geral do recurso Painel de insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + [Integração do Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
+            + [Integração dinâmica de chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [Enviar um email para vários registros no Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Ações no painel MSI {#actions-in-the-msi-panel}
                + [Escolher uma ação no Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
