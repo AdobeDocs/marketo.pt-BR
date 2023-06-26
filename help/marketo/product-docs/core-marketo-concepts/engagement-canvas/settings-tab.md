@@ -4,22 +4,24 @@ title: Guia Configurações
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '258'
 ht-degree: 2%
 
 ---
 
 # Guia Configurações {#settings-tab}
 
-A guia Configurações é um balcão único que inclui todas as configurações da campanha. Inclui os mesmos conjuntos de permissões e acesso que a guia Agendamento. Isso não interromperá nenhuma configuração de campanha existente. Ela inclui três seções e os modais correspondentes para editar cada seção.
+A guia Settings é a página inicial de todas as configurações da campanha, incluindo os mesmos conjuntos de permissões e o acesso da guia Schedule. ALTERAÇÕES NESTA GUIA??? Isso não interromperá nenhuma configuração de campanha existente.
 
-Regras de qualificação que determinam quantas vezes cada pessoa pode executar pelo fluxo da Campanha inteligente
+Ele inclui as três seções a seguir.
 
-Execuções individuais que podem ser usadas para programar execuções únicas imediatamente ou no futuro
+* **Regras de qualificação**: determina quantas vezes cada pessoa pode executar pelo fluxo do Smart Campaign.
 
-Recorrência que é usada para agendar recorrências diárias, semanais ou mensais
+* **Execuções Individuais**: pode ser usado para agendar execuções únicas imediatamente ou no futuro.
+
+* **Recorrência**: usado para agendar uma recorrência diária, semanal ou mensal.
 
 CAPTURA DE TELA
 

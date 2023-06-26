@@ -1,54 +1,81 @@
 ---
-description: Visão geral do nome - Documentação do Marketo - Documentação do produto
-title: Visão geral do nome
+description: Visão geral da tela de engajamento - Documentação do Marketo - Documentação do produto
+title: Visão geral da tela de engajamento
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '524'
 ht-degree: 0%
 
 ---
 
-# Visão geral do nome {#name-overview}
+# Visão geral da tela de engajamento {#engagement-canvas-overview}
 
-É possível visualizar o Smart Campaign com Jornadas. O valor das Jornadas está na capacidade de criar campanhas reutilizáveis com o auxílio de visuais intuitivos. Ele oferece compatibilidade com versões anteriores com todas as Campanhas inteligentes de Marketo Engage existentes sem perda de recursos atuais.
+>[!AVAILABILITY]
+>
+>Esse recurso está disponível no momento para Campanhas inteligentes. Não está disponível para Programas.
 
-Acesso às Jornadas: você pode navegar para qualquer campanha existente e clicar no botão &quot;Criar na Jornada&quot; para acessar a guia Jornada
+A Tela de engajamento permite criar Campanhas inteligentes reutilizáveis com a ajuda de visuais intuitivos. Ele oferece total compatibilidade com versões anteriores de todas as Campanhas inteligentes Marketo Engage existentes, sem a perda de nenhum recurso atual.
 
-Acionadores: cada campanha incluirá um cartão &quot;Visão geral do acionador&quot;. Um clique nele expandirá simultaneamente para mostrar o cartão &quot;Detalhes do acionador&quot;, bem como um painel deslizante com mais informações sobre os acionadores.
+CAPTURA DE TELA
 
-Filtros: cada campanha incluirá um cartão &quot;Visão geral do filtro&quot;. Ao clicar nele, você será exibido um painel deslizante com mais informações sobre os Filtros.
+## Tela de acesso ao engajamento {#accessing-engagement-canvas}
 
-Etapas de fluxo: cada campanha incluirá um cartão de &quot;Fluxo&quot; em série. Se você clicar nele, será exibido um painel deslizante com mais informações sobre o Fluxo. Se a etapa Fluxo tiver opções, clicar no cartão Fluxo expandirá simultaneamente para mostrar o cartão &quot;Opção&quot;, bem como o painel deslizante com mais informações sobre a etapa Fluxo.
+Navegue até qualquer campanha existente e clique no link **Tela de engajamento** botão.
 
-Opções: Se uma etapa de Fluxo incluir uma ou mais opções, clicar no cartão de fluxo expandirá simultaneamente para mostrar o cartão de opções, bem como o painel deslizante com mais informações sobre as opções incluídas na etapa de fluxo.
+CAPTURA DE TELA
 
-Campanhas aninhadas:
+Uma vez na Tela de engajamento, você verá duas guias: [Tela de engajamento](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md){target="_blank"}.
 
-Se uma campanha incluir a etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo expandirá simultaneamente para mostrar detalhes da campanha que está sendo chamada de slide, bem como no painel Externo com mais informações sobre a etapa de Fluxo. A campanha aninhada também incluirá uma pílula de fechamento. Clicar nessa opção recolherá os cartões associados à campanha aninhada.
+CAPTURA DE TELA
 
-Se uma campanha incluir a etapa Solicitar ou Executar fluxo da campanha com opções, clicar no cartão de fluxo expandirá simultaneamente para mostrar o cartão de opções, bem como o painel deslizante com mais informações sobre as opções incluídas na etapa de fluxo. Clicar em cada cartão de opção expande simultaneamente para mostrar detalhes da campanha sendo chamada de slide, bem como o painel de saída com mais informações sobre o cartão de opção
+CABEÇALHO
 
-Além disso, se qualquer uma das campanhas aninhadas tiver uma etapa de fluxo Solicitar ou Executar campanha, clicar no cartão de fluxo expandirá para mostrar detalhes da campanha. O mesmo é aplicável quando a etapa de fluxo inclui opções.
+**Triggers**: em campanhas que incluem acionadores, a tela terá um cartão &quot;Visão geral do acionador&quot;. Clicar nesse ícone revelará um cartão para cada acionador, bem como um painel deslizante com informações adicionais.
 
-Navegação superior
+**Filtros**: em campanhas que incluem filtros, a tela conterá um cartão para cada um. Clicar neles revelará um painel deslizante com informações adicionais.
+
+**Etapas de fluxo**: cada campanha incluirá um cartão para cada etapa do fluxo. Clicar neles revelará um painel deslizante com informações adicionais.
+
+**Opções**: se uma etapa de fluxo incluir uma ou mais opções, clicar no cartão de fluxo revelará um cartão para cada escolha, bem como um painel deslizante com informações adicionais.
+
+## Campanhas aninhadas {#nested-campaigns}
+
+* Se uma campanha incluir uma etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo mostrará detalhes da campanha que está sendo chamada, bem como um painel deslizante com informações adicionais. (A campanha aninhada também incluirá um comprimido de fechamento. Clicar nele recolherá as cartas associadas à campanha aninhada.) !!!!!!!!!!!! - REESCREVER OU REMOVER
+
+* Se uma campanha incluir uma etapa do fluxo Solicitar ou Executar Campanha com opções, clicar no cartão de fluxo mostrará um cartão de opções, bem como um painel deslizante com mais informações sobre as opções. Clicar em cada cartão de opção mostrará detalhes da campanha sendo chamada, bem como um painel deslizante com mais informações.
+
+* Além disso, se qualquer uma das campanhas aninhadas tiver uma etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo mostrará detalhes da campanha. O mesmo é aplicável quando a etapa do fluxo inclui opções.
+
+## Navegação superior {#top-navigation}
+
+CAPTURA DE TELA
 
 A navegação superior inclui os seguintes recursos:
 
-Nome da campanha e acesso à modal &quot;Editar campanha&quot;, você pode editar o nome e a descrição da campanha aqui.
+!!!!! CONFIRMAÇÃO DE GRAMÁTICA E CAPTURA DE TELA DESATUALIZADA
 
-O status e o tipo da campanha serão refletidos abaixo do nome
+* Nome da campanha e acesso à modal &quot;Editar campanha&quot;, você pode editar o nome e a descrição da campanha aqui.
 
-Botão Ativar/Desativar para acionar campanhas
+* O status e o tipo da campanha serão refletidos abaixo do nome
 
-Editar lista inteligente - você será direcionado para a interface da lista inteligente em uma nova guia, na qual poderá adicionar ou editar sua lista inteligente
+* Botão Ativar/Desativar para acionar campanhas
 
-Editar fluxo - você será direcionado para a interface de Fluxo em uma nova guia, na qual poderá adicionar ou editar sua lista inteligente
+* Editar lista inteligente - você será direcionado para a interface da lista inteligente em uma nova guia, na qual poderá adicionar ou editar sua lista inteligente
 
-Exportar — essa ação baixará uma imagem da visualização da campanha. A versão baixada refletirá todas as ramificações expandidas
+* Editar fluxo - você será direcionado para a interface de Fluxo em uma nova guia, na qual poderá adicionar ou editar sua lista inteligente
 
-Exibir Membros da Campanha - Isso abrirá uma nova guia com detalhes do Membro da Campanha.
+* Exportar — essa ação baixará uma imagem da visualização da campanha. A versão baixada refletirá todas as ramificações expandidas
 
-Observação: as alterações feitas em uma guia Smart List e Fluxo aberta serão refletidas na guia Jornadas após a atualização. Ele não será atualizado automaticamente.
+* Exibir Membros da Campanha - Isso abrirá uma nova guia com detalhes do Membro da Campanha.
+
+>[!NOTE]
+>
+>As alterações feitas em uma guia Smart List e Fluxo aberta serão refletidas na guia Tela de engajamento após a atualização. Ele não será atualizado automaticamente. As atualizações e edições salvas automaticamente serão refletidas.
+
+>[!MORELIKETHIS]
+>
+>* [Guia Tela de participação](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md){target="_blank"}
+>* [Guia Configurações](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md){target="_blank"}

@@ -1,117 +1,104 @@
 ---
-description: Guia Nome - Documentação do Marketo - Documentação do produto
-title: Guia Nome
+description: Guia Tela de engajamento - Documentação do Marketo - Documentação do produto
+title: Guia Tela de participação
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '973'
 ht-degree: 0%
 
 ---
 
-# Guia Nome {#name-tab}
+# Guia Tela de participação {#engagement-canvas-tab}
 
-O Jornada é representado por meio de uma série de acionadores, filtros e cartões de fluxo. Clicar em cada um desses cartões abrirá o painel deslizante correspondente.
+A Tela de engajamento é representada por meio de uma série de acionadores, filtros e cartões de fluxo. Clicar em cada cartão revelará informações adicionais.
 
-Visão geral do acionador: o cartão mostra o número de acionadores na campanha específica. Clicar nesse cartão também expandirá para mostrar os cartões de detalhes do acionador e, simultaneamente, abrirá o painel deslizante com as seguintes informações:
+Visão geral do acionador: este cartão mostra o número de acionadores em sua campanha. Clicar nele revelará um cartão para cada acionador, bem como um painel deslizante com as seguintes informações:
 
-Campanha à qual o acionador pertence
-
-Botão Editar acionador para acessar a guia de lista inteligente
-
-Lista de nomes de acionadores
+* Campanha à qual o acionador pertence
+* Lista de nomes de acionadores
+* Botão &quot;Editar acionador&quot;
 
 CAPTURA DE TELA
 
-Detalhe do acionador: o cartão mostra o nome do acionador. Clicar nesse cartão abrirá o painel deslizante com as seguintes informações:
+Trigger Detail: esse cartão mostra o nome do acionador. Ao clicar nele, um painel deslizante será exibido com as seguintes informações:
 
-Campanha à qual o acionador pertence
-
-Botão Editar acionador para acessar a guia de lista inteligente
-
-Lista de restrições associadas ao acionador
+* Campanha à qual o acionador pertence
+* Lista de restrições associadas ao acionador
+* Botão &quot;Editar acionador&quot;
 
 CAPTURA DE TELA
 
-Filtros: ao clicar neste cartão, o painel deslizante será aberto com as seguintes informações:
+Filtro: ao clicar neste cartão, será exibido um painel deslizante com as seguintes informações:
 
-Campanha à qual o acionador pertence
-
-Botão Editar filtro para acessar a guia lista inteligente
-
-Número estimado de pessoas qualificadas para o filtro
-
-Lista de filtros e suas respectivas restrições
+* Campanha à qual o acionador pertence
+* Número estimado de pessoas qualificadas para o filtro
+* Lista de filtros e suas respectivas restrições
+* Botão &quot;Editar filtro&quot;
 
 CAPTURA DE TELA
 
-Etapas de fluxo: Se uma etapa de fluxo não incluir nenhuma opção, o cartão mostrará os atributos associados à etapa de fluxo. Ao clicar no cartão, o painel deslizante será aberto com as seguintes informações:
+Etapas de fluxo: Se uma etapa de fluxo incluir opções, este cartão mostrará o nome da etapa de fluxo. Ao clicar nele, um painel deslizante será exibido com as seguintes informações:
 
-Campanha à qual a etapa de Fluxo pertence
-
-Botão Editar fluxo para acessar a guia Fluxo
-
-Lista de atributos associados à etapa do fluxo
+* Campanha à qual a etapa de Fluxo pertence
+* Lista de condições de escolha associadas à etapa do fluxo
+* Botão &quot;Editar fluxo&quot;
 
 CAPTURA DE TELA
 
-Etapas de fluxo: Se uma etapa de fluxo incluir opções, o cartão mostrará o nome da etapa de fluxo. Ao clicar no cartão, o painel deslizante será aberto com as seguintes informações:
+Etapas de fluxo: se uma etapa de fluxo não _não_ inclua quaisquer opções, este cartão mostrará os atributos associados à etapa do fluxo. Ao clicar nele, um painel deslizante será exibido com as seguintes informações:
 
-Campanha à qual a etapa de Fluxo pertence
-
-Botão Editar fluxo para acessar a guia Fluxo
-
-Lista de condições de escolha associadas à etapa do fluxo
+* Campanha à qual a etapa de Fluxo pertence
+* Lista de atributos associados à etapa do fluxo
+* Botão &quot;Editar fluxo&quot;
 
 CAPTURA DE TELA
 
-Etapa de fluxo para Campanhas de execução e solicitação:
+## Etapa de fluxo para executar e solicitar campanhas {#flow-step-for-execute-and-request-campaigns}
 
-Se a etapa Executar ou Solicitar fluxo de campanha não incluir opções, o cartão mostrará o nome da campanha. Ao clicar no cartão, o painel deslizante será aberto com as seguintes informações:
+* Se a etapa de fluxo Executar ou Solicitar campanha não incluir opções, o cartão mostrará o nome da campanha. Clicar no cartão revelará um painel deslizante com as seguintes informações:
 
-Campanha à qual a etapa de fluxo pertence
+   * Campanha à qual a etapa de fluxo pertence
+   * Botão &quot;Editar fluxo&quot;
+   * Lista de atributos associados à etapa do fluxo
+   * Botão &quot;Exibir lista&quot;, que abre uma lista de campanhas que usam a Campanha de Solicitação/Execução específica
 
-Botão Editar fluxo para acessar a guia Fluxo
-
-Lista de atributos associados à etapa do fluxo
-
-Botão Exibir lista que abre uma lista de campanhas que usam a solicitação específica ou executam a campanha
-
-Observação: você pode editar a etapa de fluxo de uma campanha principal. Para editar campanhas aninhadas, é necessário navegar até a campanha através do hiperlink no painel deslizante.
+>[!NOTE]
+>
+>Você pode editar as etapas do fluxo de uma campanha principal. Para editar campanhas aninhadas, é necessário navegar até a campanha através do link no painel deslizante.
 
 CAPTURA DE TELA
 
 CAPTURA DE TELA
 
-Se Executar ou Solicitar etapa do fluxo da campanha incluir opções, o cartão mostrará o nome da campanha. Ao clicar no cartão, o painel deslizante será aberto com as seguintes informações:
+* Se a etapa de fluxo Executar ou Solicitar campanha incluir opções, o cartão mostrará o nome da campanha. Clicar no cartão revelará um painel deslizante com as seguintes informações:
 
-Campanha à qual a etapa de fluxo pertence
-
-Botão Editar fluxo para acessar a guia Fluxo
-
-Lista de condições de escolha associadas à etapa do fluxo
+   * Campanha à qual a etapa de fluxo pertence
+   * Lista de condições de escolha associadas à etapa do fluxo
+   * Botão &quot;Editar fluxo&quot;
 
 CAPTURA DE TELA
 
 CAPTURA DE TELA
 
-Se uma campanha de execução ou solicitação incluir opções, clicar no cartão de fluxo expandirá para mostrar todas as opções em cartões individuais.
+* Se uma Campanha Executar ou Solicitar incluir opções, clicar no cartão de fluxo expandirá para mostrar todas as opções em cartões individuais. Clicar no cartão de opção expandirá a campanha associada à opção específica e abrirá simultaneamente o painel deslizante com as seguintes informações:
 
-Clicar no cartão de opção expandirá a campanha associada à opção específica e abrirá simultaneamente o painel deslizante com as seguintes informações:
+!!!!!!! SEGUNDA FRASE DA CORREÇÃO GRAMATICAL
 
-Campanha à qual a escolha pertence
-
-Botão Editar escolha para acessar a guia Fluxo
-
-Lista de condições de escolha associadas à etapa do fluxo
-
-Botão Exibir lista que abre uma lista de campanhas que usam a solicitação específica ou executam a campanha
+* Campanha à qual a escolha pertence
+* Botão &quot;Editar opção&quot;
+* Lista de condições de escolha associadas à etapa do fluxo
+* Botão &quot;Exibir lista&quot;, que abre uma lista de campanhas que usam a Campanha de Solicitação/Execução específica
 
 CAPTURA DE TELA
 
-Visualização da campanha de execução aninhada (nova seção)
+!!!!!!!!!!!!!!! ABAIXO - adicionar &quot;a&quot; antes de Aninhado?
+
+## Visualização de Campanha de Execução Aninhada {#visualizing-nested-execute-campaign}
+
+EDIÇÃO INTERROMPIDA AQUI
 
 Executar campanhas executadas em série com a campanha principal, ou seja, clientes potenciais qualificados para uma campanha executável concluem todas as etapas do fluxo da campanha e retornam à campanha principal para continuar pelas etapas do fluxo desta campanha.
 
@@ -119,13 +106,10 @@ Este é um exemplo de uma &quot;Campanha A&quot; de campanha inteligente que inc
 
 CAPTURA DE TELA
 
-Clicar no cartão de fluxo executar campanha expandirá para mostrar detalhes da &quot;Campanha B&quot;
-
-A Campanha B inclui um filtro que se ramifica em um público não qualificado e qualificado.
-
-O público qualificado passa pelas etapas de fluxo associadas à &quot;Campanha B&quot;
-
-Todo o público (qualificado e não qualificado) retorna para a &quot;Campanha A&quot; e avança para a próxima etapa do fluxo
+1. Clicar no cartão de fluxo executar campanha expandirá para mostrar detalhes da &quot;Campanha B&quot;.
+1. A Campanha B inclui um filtro que se ramifica em um público não qualificado e qualificado.
+1. O público qualificado passa pelas etapas de fluxo associadas à &quot;Campanha B&quot;.
+1. Todo o público (qualificado e não qualificado) retorna para a &quot;Campanha A&quot; e avança para a próxima etapa do fluxo.
 
 CAPTURA DE TELA
 
@@ -133,7 +117,7 @@ Você pode clicar na etapa Executar fluxo da campanha na &quot;Campanha B&quot;,
 
 CAPTURA DE TELA
 
-Visualização da campanha de solicitação (nova seção)
+## Visualização da campanha de solicitação {#visualizing-request-campaign}
 
 As campanhas de solicitação são executadas em paralelo com a campanha principal, ou seja, clientes potenciais qualificados para uma campanha de solicitação concluem todas as etapas de fluxo da campanha e saem dela. Paralelamente, o mesmo conjunto de clientes potenciais também passará pelas etapas de fluxo da campanha principal
 
@@ -141,13 +125,10 @@ Este é um exemplo de uma campanha inteligente &quot;Campanha A&quot; que inclui
 
 CAPTURA DE TELA
 
-Clicar no cartão de fluxo de campanha de solicitação expandirá para mostrar detalhes da &quot;Campanha B&quot;
-
-A Campanha B inclui um filtro que se ramifica para o público qualificado.
-
-O público qualificado passa pelas etapas de fluxo associadas à &quot;Campanha B&quot;
-
-Paralelamente, todo o público-alvo passa para as próximas etapas de fluxo na &quot;Campanha A&quot;
+1. Clicar no cartão de fluxo de campanha de solicitação expandirá para mostrar detalhes da &quot;Campanha B&quot;
+1. A Campanha B inclui um filtro que se ramifica para o público qualificado.
+1. O público qualificado passa pelas etapas de fluxo associadas à &quot;Campanha B&quot;
+1. Paralelamente, todo o público-alvo passa para as próximas etapas de fluxo na &quot;Campanha A&quot;
 
 CAPTURA DE TELA
 
@@ -159,7 +140,7 @@ Este é um exemplo de campanha de solicitação com opções.
 
 CAPTURA DE TELA
 
-Tratamento de erros:
+## Tratamento de erros {#error-handling}
 
 Os erros na lista inteligente e nas etapas de fluxo serão destacados por meio do ícone de erro no cartão. Além disso, a mensagem de erro correspondente será refletida no painel deslizante.
 
