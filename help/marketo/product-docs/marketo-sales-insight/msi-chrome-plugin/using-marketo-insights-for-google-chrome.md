@@ -1,42 +1,46 @@
 ---
 unique-page-id: 7512944
-description: Uso do Marketo Insights para o Google Chrome - Documentos do Marketo - Documentação do produto
-title: Uso do Marketo Insights para o Google Chrome
+description: Uso do Marketo Insights para Google Chrome - Documentação do Marketo - Documentação do produto
+title: Uso do Marketo Insights para Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
-# Uso do Marketo Insights para o Google Chrome {#using-marketo-insights-for-google-chrome}
+# Uso do Marketo Insights para Google Chrome {#using-marketo-insights-for-google-chrome}
 
-Envie e rastreie qualquer email do Google com o Marketo Insights para o Google Chrome.
+Envie e rastreie qualquer email do Google com o Marketo Insights para Google Chrome.
 
 >[!PREREQUISITES]
 >
 >[Instalar o Marketo Insights para o Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
+>[!NOTE]
+>
+>Os recursos de Ações do Sales Insight, incluindo Enviar email de vendas, Adicionar à campanha de vendas e Tarefas, não estão disponíveis nos plug-ins de email do Sales Insight para Gmail e Outlook. No momento, os usuários só têm a capacidade de enviar um email rastreável com ou sem um modelo de email do Marketo por meio de seu cliente de email ao usar os plug-ins de email do Sales Insight.
+
 ## Enviar um email com o Marketo Insights {#send-an-email-with-marketo-insights}
 
-1. Na janela Compor, clique no ícone Marketo .
+1. Na janela Compor, clique no ícone Marketo.
 
    ![](assets/image2015-10-5-14-3a57-3a53.png)
 
-1. O botão Enviar tornou o Marketo roxo! Esse email agora será enviado com o Marketo, todos os links serão rastreados e um pixel de rastreamento será inserido no email. Isso será registrado como uma atividade Enviar email de vendas .
+1. O botão Enviar tornou o Marketo roxo! Esse email agora será enviado com o Marketo, todos os links serão rastreados e um pixel de rastreamento será inserido no email. Isso será registrado como uma atividade Enviada por email de vendas.
 
    ![](assets/image2015-10-5-15-3a2-3a21.png)
 
    >[!NOTE]
    >
-   >Um pixel de rastreamento permite saber quem abriu o email.
+   >Um pixel de rastreamento permite saber quem abriu seu email.
 
    >[!TIP]
    >
-   >Como opção, clique na seta dupla para expandir para uma visualização em tela cheia.
+   >Como opção, clique na seta dupla para expandir para uma exibição em tela cheia.
 
-1. Se desejar preencher previamente seu email com um modelo do Marketo publicado, clique em **Mais opções** e selecione **Carregar modelo do Marketo**.
+1. Se quiser preencher previamente o email com um modelo publicado do Marketo, clique em **Mais opções** e selecione **Carregar modelo do Marketo**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
@@ -52,24 +56,23 @@ Envie e rastreie qualquer email do Google com o Marketo Insights para o Google C
    >
    >As mensagens são rastreadas somente quando a variável **Enviar** botão é roxo.
 
-1. O email será exibido em breve no Marketo Sales Insight e as aberturas e cliques serão rastreados.
+1. O email logo aparecerá no Marketo Sales Insight e todas as aberturas e cliques serão rastreados.
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
 ## Registrar respostas de email com o Marketo {#log-email-replies-with-marketo}
 
-Você pode registrar respostas e atividades antigas no histórico de atividades de um cliente potencial.
+Você pode registrar respostas e atividades antigas no histórico de atividades de um lead.
 
-1. No painel de visualização do Google Mail, clique em **Faça logon com o Marketo**.
+1. No painel de visualização do Google Mail, clique em **Fazer logon com o Marketo**.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
-1. Isso é tudo! O email será exibido em breve no Marketo Sales Insight.
+1. Isso é tudo! O email aparecerá em breve no Marketo Sales Insight.
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
    >[!MORELIKETHIS]
    >
    >* [Instalar o Marketo Insights para o Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
-   >* [Exibir informações de pessoa e conta e atividades no Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
-
+   >* [Exibir informações e atividades de pessoas e contas no Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

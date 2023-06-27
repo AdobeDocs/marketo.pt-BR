@@ -2,9 +2,9 @@
 description: Guia de configuração do administrador de ações do Sales Insight - Documentação do Marketo - Documentação do produto
 title: Guia de configuração do administrador de ações do Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '660'
 ht-degree: 1%
 
 ---
@@ -60,6 +60,10 @@ ht-degree: 1%
 1. No Marketo, clique em **Admin**.
 
    ![](assets/msi-actions-admin-guide-1.png)
+
+   >[!NOTE]
+   >
+   >Se você não estiver vendo uma ID do cliente e um Segredo do cliente no cartão de Informações de integração, ative a instância das Ações convidando o primeiro usuário e verá a ID do cliente e o Segredo do cliente aparecerem.
 
 1. Clique em **Sales Insight**, depois **Configuração de ações**. Selecione de uma lista de administradores do Marketo a serem convidados e clique em **Enviar convite**.
 

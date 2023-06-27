@@ -1,19 +1,23 @@
 ---
-description: Adicionar identidade - Documentos do Marketo - Documentação do produto
+description: Adicionar identidade - Documentação do Marketo - Documentação do produto
 title: Adicionar identidade
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 4%
+source-wordcount: '182'
+ht-degree: 2%
 
 ---
 
 # Adicionar identidade {#add-identity}
 
-Adicione uma identidade quando tiver vários endereços de email para enviar.
+Adicione uma identidade quando tiver vários endereços de email dos quais enviar.
 
-1. Clique no ícone Configurações .
+>[!NOTE]
+>
+>O uso de várias identidades não é compatível com os canais de entrega do Gmail ou Outlook/Exchange. O Gmail e o Outlook/Exchange são autenticados no nível do usuário, de modo que somente os emails do endereço de email conectado serão enviados. Para usar várias identidades com endereços de email diferentes, será necessário conectar um provedor SMTP de terceiros (canal de delivery de email) que permita registrar domínios de email dos quais enviar. Isso permite que os usuários se conectem ao canal de delivery SMTP e enviem de qualquer endereço de email, desde que sejam um domínio registrado.
+
+1. Clique no ícone Configurações.
 
    ![](assets/add-identity-1.png)
 
@@ -25,11 +29,11 @@ Adicione uma identidade quando tiver vários endereços de email para enviar.
 
    ![](assets/add-identity-3.png)
 
-1. Insira as informações (e-mail e nome são campos obrigatórios) e clique em **Criar**.
+1. Insira as informações (email e nome são campos obrigatórios) e clique em **Criar**.
 
    ![](assets/add-identity-4.png)
 
-1. Em seguida, você receberá um email &quot;Verifique o endereço de email&quot;. Para verificar, clique em **Verificar endereço de email**.
+1. Você receberá um email &quot;Verifique o endereço de email&quot;. Para verificar, clique em **Verificar endereço de email**.
 
    ![](assets/add-identity-5.png)
 

@@ -4,16 +4,16 @@ title: Guia Configurações
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '267'
 ht-degree: 2%
 
 ---
 
 # Guia Configurações {#settings-tab}
 
-A guia Settings é a página inicial de todas as configurações da campanha, incluindo os mesmos conjuntos de permissões e o acesso da guia Schedule. ALTERAÇÕES NESTA GUIA??? Isso não interromperá nenhuma configuração de campanha existente.
+A guia Settings é a página inicial de todas as configurações da campanha, incluindo os mesmos conjuntos de permissões e o acesso da guia Schedule. AS ALTERAÇÕES NESTA GUIA NÃO INTERROMPERÃO??? Isso não interromperá nenhuma configuração de campanha existente.
 
 Ele inclui as três seções a seguir.
 
@@ -27,36 +27,31 @@ CAPTURA DE TELA
 
 As regras de qualificação estarão disponíveis para todas as campanhas (acionador e lote) e incluem as seguintes configurações:
 
-Você pode escolher quantas vezes uma pessoa passa por uma campanha
-
-Capacidade de bloquear campanhas não operacionais se a pessoa estiver acima do limite de comunicação
-
-Capacidade de definir o limite de pessoas da campanha de anulação
+* Você pode determinar quantas vezes uma pessoa passa por uma campanha
+* A capacidade de bloquear uma campanha não operacional se a pessoa estiver acima do limite de comunicação
+* A capacidade de definir um limite de pessoas de campanha abortada
 
 CAPTURA DE TELA
 
-As execuções individuais podem ser usadas para executar uma campanha imediatamente ou para configurar algumas execuções pontuais no futuro. Lembre-se: é mais fácil usar o modal de recorrência se você estiver agendando uma série de campanhas
+As execuções individuais podem ser usadas para executar uma campanha imediatamente ou para configurar algumas execuções pontuais no futuro.
+
+>[!TIP]
+>
+>É mais fácil usar o modal de recorrência se você estiver agendando uma série de campanhas.
 
 CAPTURA DE TELA
 
-O modal de Recorrência inclui a capacidade de configurar uma programação recorrente diária, semanal ou mensal. Após a configuração, você poderá ver as próximas 3 execuções na guia de configurações
+O modal de recorrência inclui a capacidade de configurar um agendamento recorrente em uma base diária, semanal ou mensal. Depois de configurado, você poderá ver as próximas três execuções na guia Configurações.
 
 CAPTURA DE TELA
 
-A guia Configurações também inclui uma visão geral rápida da lista inteligente. Ele inclui o seguinte:
+A guia Configurações também inclui uma visão geral rápida da sua lista inteligente. Ele inclui o seguinte:
 
-Status da campanha
-
-Criado(a) em
-
-Última modificação
-
-Modo de lista inteligente
-
-Status da lista inteligente:
-
-Estimativa de pessoas que serão afetadas
-
-Pessoas estimadas que estão bloqueadas de emails
-
-Estimativa de pessoas que estão na etapa de espera
+* Status da campanha
+* Criado(a) em
+* Última modificação
+* Modo de lista inteligente
+* Status da lista inteligente:
+   * Estimativa de pessoas que serão afetadas
+   * Pessoas estimadas que estão bloqueadas de emails
+   * Pessoas estimadas que estão em uma etapa de espera
