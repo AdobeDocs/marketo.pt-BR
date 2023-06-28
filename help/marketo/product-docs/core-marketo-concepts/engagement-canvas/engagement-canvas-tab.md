@@ -4,9 +4,9 @@ title: Guia Tela de participação
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '973'
+source-wordcount: '970'
 ht-degree: 0%
 
 ---
@@ -83,22 +83,18 @@ CAPTURA DE TELA
 
 CAPTURA DE TELA
 
-* Se uma Campanha Executar ou Solicitar incluir opções, clicar no cartão de fluxo expandirá para mostrar todas as opções em cartões individuais. Clicar no cartão de opção expandirá a campanha associada à opção específica e abrirá simultaneamente o painel deslizante com as seguintes informações:
+* Se uma Campanha Executar ou Solicitar incluir opções, clicar no cartão de fluxo expandirá para mostrar todas as opções em cartões individuais. Clicar no cartão de opção expandirá a campanha associada à escolha específica, bem como revelará um painel deslizante com as seguintes informações:
 
-!!!!!!! SEGUNDA FRASE DA CORREÇÃO GRAMATICAL
-
-* Campanha à qual a escolha pertence
-* Botão &quot;Editar opção&quot;
-* Lista de condições de escolha associadas à etapa do fluxo
-* Botão &quot;Exibir lista&quot;, que abre uma lista de campanhas que usam a Campanha de Solicitação/Execução específica
+   * Campanha à qual a escolha pertence
+   * Botão &quot;Editar opção&quot;
+   * Lista de condições de escolha associadas à etapa do fluxo
+   * Botão &quot;Exibir lista&quot;, que abre uma lista de campanhas que usam a Campanha de Solicitação/Execução específica
 
 CAPTURA DE TELA
 
-!!!!!!!!!!!!!!! ABAIXO - adicionar &quot;a&quot; antes de Aninhado?
+## Visualização de uma campanha de execução aninhada {#visualizing-a-nested-execute-campaign}
 
-## Visualização de Campanha de Execução Aninhada {#visualizing-nested-execute-campaign}
-
-EDIÇÃO INTERROMPIDA AQUI
+EDIÇÃO INTERROMPIDA AQUI - SELECIONAR APÓS DESLIGAMENTO
 
 Executar campanhas executadas em série com a campanha principal, ou seja, clientes potenciais qualificados para uma campanha executável concluem todas as etapas do fluxo da campanha e retornam à campanha principal para continuar pelas etapas do fluxo desta campanha.
 

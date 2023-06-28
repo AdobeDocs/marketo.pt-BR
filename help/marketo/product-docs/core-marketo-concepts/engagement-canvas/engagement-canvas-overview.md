@@ -4,9 +4,9 @@ title: Visão geral da tela de engajamento
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Uma vez na Tela de engajamento, você verá duas guias: [Tela de engajamento](/h
 
 CAPTURA DE TELA
 
-CABEÇALHO
+CABEÇALHO - DESCRIÇÕES DO CARTÃO? - LOPA CONFIRMARÁ
 
 **Triggers**: em campanhas que incluem acionadores, a tela terá um cartão &quot;Visão geral do acionador&quot;. Clicar nesse ícone revelará um cartão para cada acionador, bem como um painel deslizante com informações adicionais.
 
@@ -43,7 +43,7 @@ CABEÇALHO
 
 ## Campanhas aninhadas {#nested-campaigns}
 
-* Se uma campanha incluir uma etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo mostrará detalhes da campanha que está sendo chamada, bem como um painel deslizante com informações adicionais. (A campanha aninhada também incluirá um comprimido de fechamento. Clicar nele recolherá as cartas associadas à campanha aninhada.) !!!!!!!!!!!! - REESCREVER OU REMOVER
+* Se uma campanha incluir uma etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo mostrará detalhes da campanha que está sendo chamada, bem como um painel deslizante com informações adicionais. (A campanha aninhada também incluirá um comprimido de fechamento. Clicar nele recolherá as cartas associadas à campanha aninhada.) !!!!!!!!!!!! - REESCREVER OU REMOVER - LOPA CONFIRMARÁ
 
 * Se uma campanha incluir uma etapa do fluxo Solicitar ou Executar Campanha com opções, clicar no cartão de fluxo mostrará um cartão de opções, bem como um painel deslizante com mais informações sobre as opções. Clicar em cada cartão de opção mostrará detalhes da campanha sendo chamada, bem como um painel deslizante com mais informações.
 
@@ -55,7 +55,7 @@ CAPTURA DE TELA
 
 A navegação superior inclui os seguintes recursos:
 
-!!!!! CONFIRMAÇÃO DE GRAMÁTICA E CAPTURA DE TELA DESATUALIZADA
+!!!!! A CAPTURA DE TELA ESTÁ DESATUALIZADA - PEGUE UMA NOVA
 
 * Nome da campanha e acesso à modal &quot;Editar campanha&quot;, você pode editar o nome e a descrição da campanha aqui.
 
@@ -74,6 +74,10 @@ A navegação superior inclui os seguintes recursos:
 >[!NOTE]
 >
 >As alterações feitas em uma guia Smart List e Fluxo aberta serão refletidas na guia Tela de engajamento após a atualização. Ele não será atualizado automaticamente. As atualizações e edições salvas automaticamente serão refletidas.
+
+## Perguntas frequentes {#faq}
+
+LOPA FORNECERÁ
 
 >[!MORELIKETHIS]
 >
