@@ -2,7 +2,7 @@
 description: Atividade de filtragem de bot por email - Documentação do Marketo - Documentação do produto
 title: Filtrar atividade de bot por email
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: eeeff565e11cf98585bc6fef98f51d1c1f74199c
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 14%
@@ -13,7 +13,7 @@ ht-degree: 14%
 
 Às vezes, a atividade de bot por email pode inflar erroneamente seus dados de aberturas e cliques de email. Siga as etapas abaixo para corrigir isso.
 
-Usamos três métodos separados para confirmar a atividade do bot:
+Usamos dois métodos separados para confirmar a atividade do bot:
 
 * Corresponder com [Lista de bot do Interative Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: atividades que correspondem a qualquer item na lista UA/IP (Agente do usuário/endereço IP) do IAB serão marcadas como bots.
 * Correspondência com o padrão de proximidade: quando mais de duas atividades acontecem ao mesmo tempo (em menos de um segundo), elas são identificadas como bots. Os atributos considerados durante a comparação são:
