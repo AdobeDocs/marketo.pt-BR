@@ -2,9 +2,9 @@
 description: Fluxos de trabalho do evento - Documentação do Marketo - Documentação do produto
 title: Fluxos de trabalho de evento
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ O Painel consiste em quatro widgets.
 
 **Presença**: destaca a duração da participação de vários membros que participaram do webinário em comparação à duração geral do webinário em termos de porcentagem.
 
-**Desempenho da pesquisa**: exibe várias pesquisas iniciadas durante o webinário no Adobe Connect e a distribuição dos membros que participaram e responderam à pesquisa em cada uma das respostas.
+**Desempenho da pesquisa**: exibe várias pesquisas iniciadas durante o webinário realizado pelo Adobe Connect e a distribuição dos membros que participaram e responderam à pesquisa em cada uma das respostas.
 
-**Atividade de download de clique e arquivo**: fornece a contagem de download do arquivo e dos links da Web clicados durante o Webinar no Adobe Connect por vários membros que participaram do webinário e executaram essa ação específica.
+**Atividade de download de clique e arquivo**: fornece a contagem de download do arquivo e dos links da Web clicados durante o webinário realizado pelo Adobe Connect por vários membros que participaram do webinário e executaram essa ação específica.
 
 ## Acionadores e filtros {#triggers-and-filters}
 

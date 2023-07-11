@@ -2,9 +2,9 @@
 description: Visão geral de webinários interativos - Documentação do Marketo - Documentação do produto
 title: Visão geral de webinários interativos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obte
 
 Sim, você pode controlar quais usuários do Marketo têm permissão para criar e fornecer Webinars interativos. Essa informação pode ser acessada por meio da seção Webinars interativos na área Administrador da instância do Adobe Marketo Engage.
 
-**Preciso associar o webinário do Adobe Connect ao Programa de evento de webinário interativo, como aos Programas de evento de ponto de inicialização?**
+**Preciso associar o webinário fornecido pela Adobe Connect ao programa de evento de webinário interativo, como aos programas de evento do Launchpoint?**
 
 Não, os Programas de evento de webinário interativo fazem a associação para você.
