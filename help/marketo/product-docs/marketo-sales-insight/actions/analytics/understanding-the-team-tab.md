@@ -1,30 +1,28 @@
 ---
-description: Guia Equipe - Documentação da Marketo - Documentação do produto
-title: Noções básicas sobre a guia Equipe
-hide: true
-hidefromtoc: true
+description: Guia Equipe - Documentação do Marketo - Documentação do produto
+title: Guia Grupo
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# Noções básicas sobre a guia Equipe {#understanding-the-team-tab}
+# Guia Grupo {#understanding-the-team-tab}
 
-Na guia Equipe , destacamos três métricas importantes.
+Na guia Equipe destacamos três métricas importantes.
 
 ## Emails enviados com modelo {#emails-sent-with-template}
 
 Dos emails enviados, quantos utilizaram um modelo.
 
-## Hora de pico do envolvimento {#peak-time-of-engagement}
+## Horário de pico do engajamento {#peak-time-of-engagement}
 
-Em todo o quadro, propagamos o horário de pico do engajamento, que indica a hora do dia em que sua equipe está obtendo mais atividade (exibições, cliques, respostas). Sua equipe pode agendar emails ou planejar enviar emails estrategicamente dessa vez.
+Em todos os aspectos, aumentamos o horário de pico do engajamento, o que indica a hora do dia em que sua equipe está recebendo mais atividade (visualizações, cliques, respostas). Sua equipe pode agendar emails ou planejar enviar emails estrategicamente por volta desse horário.
 
-## Contratos fechados {#deals-closed}
+## Transações fechadas {#deals-closed}
 
-Isso se baseia no ciclo de vendas e no número de transações fechadas no mês atual.
+Isso se baseia no andamento das vendas e em quantas negociações foram fechadas no mês atual.
 
-Como bônus, obtemos o envolvimento com a taxa de visualização de sua equipe. Nesta guia, você também pode ver o Quadro de líderes do Rep. Estatísticas de email para cada pessoa em sua equipe são exibidas aqui.
+Como bônus, totalizamos o engajamento da sua equipe na taxa de visualização. Nesta guia, você também pode ver o Quadro de classificação de representantes. As estatísticas de email de cada pessoa da sua equipe são exibidas aqui.

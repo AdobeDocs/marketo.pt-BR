@@ -2,7 +2,7 @@
 description: Uso de um modelo na janela Compor - Documentação do Marketo - Documentação do produto
 title: Usando um modelo na janela Compor
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -24,10 +24,6 @@ ht-degree: 0%
 1. Clique no ícone de pesquisa na seção template para abrir o campo de pesquisa do template.
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
-
-   >[!TIP]
-   >
-   >Recomendamos fixar a categoria &quot;Todos&quot; para fornecer acesso rápido à pesquisa em toda a biblioteca de modelos, já que geralmente é necessário pesquisar em todos os modelos para encontrar o que está procurando. Quando você tiver uma categoria fixada selecionada e clicar no ícone de pesquisa, a pesquisa assumirá como padrão a pesquisa dentro da categoria fixada selecionada.
 
 1. Selecione uma categoria para pesquisar (ou selecione Tudo para pesquisar em todas as categorias).
 
@@ -56,6 +52,10 @@ Favorito **até cinco** categorias de modelo específicas para obter acesso ráp
 1. Clique em **Fixar uma Categoria** e selecione a categoria desejada.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
+
+   >[!TIP]
+   >
+   >Recomendamos fixar a categoria &quot;Todos&quot; para fornecer acesso rápido à pesquisa em toda a biblioteca de modelos, já que geralmente é necessário pesquisar em todos os modelos para encontrar o que está procurando. Quando você tiver uma categoria fixada selecionada e clicar no ícone de pesquisa, a pesquisa assumirá como padrão a pesquisa dentro da categoria fixada selecionada.
 
 1. Clique em **Salvar alterações** quando terminar (opcional: repita a Etapa 3 para adicionar mais).
 

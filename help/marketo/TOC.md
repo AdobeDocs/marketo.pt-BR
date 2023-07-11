@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
-source-wordcount: '8963'
+source-wordcount: '8989'
 ht-degree: 5%
 
 ---
@@ -1332,7 +1332,6 @@ ht-degree: 5%
             + [A campanha terminou](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [Criar uma campanha de vendas](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
             + [Configurações da campanha de vendas](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
-            + [Opções de envio da campanha de vendas para etapas de email](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [Tipos de Etapa de Campanha de Vendas e Tarefas de Lembrete](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [Noções básicas sobre as opções de envio do Sales Campaign para etapas de email](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [Exibir a lista de campanhas como outro usuário](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
@@ -1387,6 +1386,7 @@ ht-degree: 5%
             + [Posso Recuperar um Contato ou Grupo que Excluí?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Posso rastrear vários recipients com CC/Cco?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Perguntas frequentes sobre conteúdo e anexo de arquivo](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [As exibições, os cliques e as respostas dos destinatários listados na seção CC e CCO do email são rastreados?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
             + [As ações do Sales Insight têm um aplicativo iPhone ou Android?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [Como posso Incluir na lista de permissões ações do Sales Insight em meu servidor?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Como corrijo a situação de &quot;Não foi possível autenticar sua solicitação&quot; ao me conectar ao Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1402,6 +1402,8 @@ ht-degree: 5%
             + [Por que minhas atividades de vendas e meus campos de atividade não estão sendo sincronizados com o Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [Por que não posso excluir um contato?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Por que todos os meus contatos não foram encaminhados para as ações do Sales Insight?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
+            + [Por que meus emails são marcados como spam?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
+            + [Por Que Minha Campanha Terminou?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [Por que a atividade de rastreamento não é exibida na atividade do Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Integrações {#integrations}
             + [Integração de pontos de acesso](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
