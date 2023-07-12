@@ -2,9 +2,9 @@
 description: Visão geral de webinários interativos - Documentação do Marketo - Documentação do produto
 title: Visão geral de webinários interativos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
+source-git-commit: 95751fc45efb135f13fdcc3f57806f9c669e76ad
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -23,25 +23,13 @@ Após o webinário, acesse [análise de desempenho de evento](/help/marketo/prod
 
 ## Perguntas frequentes {#faq}
 
-**Preciso de uma licença separada do Adobe Connect para usar Webinars interativos?**
+**Preciso de uma assinatura separada para usar os Webinars interativos?**
 
 Nº Somente uma assinatura de Marketo Engage ativa é necessária para usar Webinars interativos.
 
-**Quais são as diferentes licenças do Webinário interativo?**
-
-Os webinars interativos têm três tipos de licenças.
-
-`1.` Licença de eventos compartilhados - Esta licença está disponível em diferentes capacidades dos participantes: 500, 1000 e 1500. Ele contém um número limitado de webinars que podem ser utilizados e 3 GB de armazenamento.
-
-`2.` Licença de quartos compartilhados - Esta licença está disponível em diferentes capacidades dos participantes: 200, 500, 1000 e 1500. Ele contém um número ilimitado de webinars que podem ser utilizados e armazenamento ilimitado.
-
-`3.` Licença de armazenamento adicional - Esta licença contém armazenamento adicional (100 GB ou 1 TB) que pode ser usado em várias licenças de eventos compartilhados onde o limite de armazenamento foi excedido.
-
-Você pode adquirir qualquer combinação dessas licenças.
-
 **Eu esgotei meu número incluído de Webinars interativos. Como posso obter mais sessões ou mais capacidade?**
 
-Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter assistência.
+Você precisará entrar em contato com a equipe da conta do Adobe (seu gerente de conta) para obter assistência.
 
 **Como administrador do Marketo, posso controlar quais dos meus usuários do Marketo podem criar Webinars interativos?**
 
