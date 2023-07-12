@@ -1,11 +1,11 @@
 ---
 unique-page-id: 1147296
-description: Salvar uma definição de filtro no Calendário de marketing - Documentos do Marketo - Documentação do produto
+description: Salvar uma definição de filtro no Calendário de marketing - Documentação do Marketo - Documentação do produto
 title: Salvar uma definição de filtro no Calendário de marketing
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -16,26 +16,26 @@ Salvar um filtro permite alternar entre diferentes definições de filtro.
 
 >[!PREREQUISITES]
 >
->[Filtrar o calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>[Filtrar o calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
 
 1. Defina o filtro.
 
    ![](assets/image2014-9-24-10-3a50-3a49.png)
 
-1. Clique no ícone Save .
+1. Clique no ícone salvar.
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
-1. Nomeie o filtro. Clique em **Salvar**.
+1. Nomeie o filtro. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
-   Acalme-se! O filtro agora é salvo.
+   O filtro agora é salvo.
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Se quiser, você pode [enviar uma cópia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md) da definição para outros usuários do Marketo.
+   Se desejar, você pode [enviar uma cópia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} da definição para outros usuários do Marketo.
 
    >[!NOTE]
    >
-   >[Compartilhamento de uma definição de filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
+   >[Compartilhamento de uma definição de filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

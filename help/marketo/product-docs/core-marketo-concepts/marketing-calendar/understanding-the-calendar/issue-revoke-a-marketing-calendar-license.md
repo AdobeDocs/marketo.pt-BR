@@ -1,40 +1,40 @@
 ---
 unique-page-id: 1147255
-description: Emitir/Revogar uma Licença de Calendário de Marketing - Documentos do Marketo - Documentação do produto
-title: Emitir/Revogar uma Licença de Calendário de Marketing
+description: Emitir/Revogar uma licença do Calendário de marketing - Documentação do Marketo - Documentação do produto
+title: Emitir/Revogar uma licença do Calendário de marketing
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '101'
 ht-degree: 3%
 
 ---
 
-# Emitir/Revogar uma Licença de Calendário de Marketing {#issue-revoke-a-marketing-calendar-license}
+# Emitir/Revogar uma licença do Calendário de marketing {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-Para utilizar o [Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) em, é necessário emitir licenças para usuários que precisam de acesso. Veja como.
+Para usar o seu [Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} assentos, é necessário emitir licenças para usuários que precisam de acesso. Veja como.
 
-1. Vá para o **Administrador** seção.
+1. Vá para a **[!UICONTROL Admin]** seção.
 
    ![](assets/adminhand.png)
 
-1. Clique em **Usuários e funções**.
+1. Clique em **[!UICONTROL Usuários e funções]**.
 
    ![](assets/2.png)
 
-1. Selecione os usuários e clique em **Emita Licença.**
+1. Selecione os usuários e clique em **[!UICONTROL Emitir licença]**.
 
    >[!TIP]
    >
-   >Use **Ctrl/Cmd+clique** para selecionar vários usuários de uma só vez.
+   >Uso **Ctrl/Cmd+clique** para selecionar vários usuários de uma só vez.
 
    ![](assets/3.png)
 
-1. Verificar **Habilitar licença** e clique em **Salvar.**
+1. Marcar **[!UICONTROL Ativar licença]** e clique em **[!UICONTROL Salvar]**.
 
    >[!NOTE]
    >
@@ -42,8 +42,6 @@ Para utilizar o [Calendário de marketing](/help/marketo/product-docs/core-marke
 
    ![](assets/4.png)
 
-   Muito bem! Consulte a marca de seleção verde em &quot;Calendário?&quot;
+   Muito bem! Veja a marca de seleção verde em &#39;Calendário?&#39;
 
    ![](assets/5.png)
-
-Awesome - Você está pronto para começar a agendar!

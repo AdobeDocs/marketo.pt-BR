@@ -1,32 +1,32 @@
 ---
 unique-page-id: 2953352
-description: Editar entradas diretamente no calendário de marketing - Documentos do Marketo - Documentação do produto
-title: Editar entradas diretamente no calendário de marketing
+description: Editar entradas diretamente no Calendário de marketing - Documentação do Marketo - Documentação do produto
+title: Editar Entradas Diretamente no Calendário de Marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 1%
 
 ---
 
-# Editar entradas diretamente no calendário de marketing {#edit-entries-directly-in-the-marketing-calendar}
+# Editar Entradas Diretamente no Calendário de Marketing {#edit-entries-directly-in-the-marketing-calendar}
 
-Uma vez no modo de foco do programa, você pode fazer alterações rapidamente nas entradas do calendário. Veja como.
+Quando estiver no modo de foco do programa, você poderá fazer rapidamente alterações nas entradas do calendário. Veja como.
 
 ## Ativar foco do programa {#enable-program-focus}
 
-1. Vá para o **Calendário**.
+1. Clique em **[!UICONTROL Calendário]** bloco.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Selecione uma entrada que pertence ao programa em que você deseja se concentrar e clique em **Mostrar foco do programa**.
+1. Selecione uma entrada que pertença ao programa no qual deseja se concentrar e clique em **[!UICONTROL Mostrar foco do programa]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
 ## Reprogramar Entrada {#reschedule-entry}
 
-1. Basta arrastar e soltar uma entrada para reprogramá-la.
+1. Basta arrastar e soltar uma entrada para reagendá-la.
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
@@ -48,15 +48,15 @@ Uma vez no modo de foco do programa, você pode fazer alterações rapidamente n
 
 ## Converter tipo de entrada {#convert-entry-type}
 
-Depois que você rapidamente clicar em suas entradas básicas, é possível convertê-las em seu formulário final.
+Depois de ter desenhado rapidamente as suas entradas básicas, você poderá convertê-las para a sua forma final.
 
-1. Localize e selecione a entrada básica que deseja converter e altere seu tipo.
+1. Localize e selecione a entrada básica que deseja converter e alterar seu tipo.
 
    ![](assets/image2014-10-20-13-3a18-3a38.png)
 
-## Editar detalhes de entrada {#edit-entry-details}
+## Editar detalhes da entrada {#edit-entry-details}
 
-Você pode obter acesso rapidamente a diferentes áreas de suas entradas para edição.
+Você pode obter acesso rápido a diferentes áreas de suas entradas para edição.
 
 1. Clique com o botão direito do mouse em uma entrada e selecione a área que deseja editar.
 
@@ -66,4 +66,4 @@ Pronto! Como você pode ver, há muitas coisas que você pode fazer diretamente 
 
 >[!MORELIKETHIS]
 >
->[Excluir Entradas Diretamente No Calendário De Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>[Excluir Entradas Diretamente no Calendário de Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}

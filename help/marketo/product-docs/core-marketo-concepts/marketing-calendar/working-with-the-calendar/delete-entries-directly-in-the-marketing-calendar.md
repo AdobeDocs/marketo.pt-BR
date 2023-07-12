@@ -1,24 +1,24 @@
 ---
 unique-page-id: 2953358
-description: Excluir Entradas Diretamente No Calendário De Marketing - Documentos Do Marketo - Documentação Do Produto
-title: Excluir Entradas Diretamente No Calendário De Marketing
+description: Excluir entradas diretamente no Calendário de marketing - Documentação do Marketo - Documentação do produto
+title: Excluir Entradas Diretamente no Calendário de Marketing
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '83'
 ht-degree: 2%
 
 ---
 
-# Excluir Entradas Diretamente No Calendário De Marketing {#delete-entries-directly-in-the-marketing-calendar}
+# Excluir Entradas Diretamente no Calendário de Marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Além de [criação](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) e [edição](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) entradas, você pode excluí-las diretamente no Calendário de marketing. Veja como.
+Além de [criando](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} entradas, você pode excluí-las diretamente no Calendário de marketing. Veja como.
 
-1. Vá para o **Calendário**.
+1. Clique em **MU** bloco.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. Selecione a entrada que deseja excluir e clique em **Mostrar foco do programa**.
+1. Selecione a entrada que deseja deletar e clique em **[!UICONTROL Mostrar foco do programa]**.
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
@@ -26,8 +26,8 @@ Além de [criação](/help/marketo/product-docs/core-marketo-concepts/marketing-
 
    ![](assets/image2014-10-20-13-3a20-3a42.png)
 
-Dependendo da entrada, talvez seja necessário confirmar a exclusão. Mas é isso! Calma.
+Dependendo da entrada, talvez seja necessário confirmar a exclusão. Mas é isso!
 
 >[!MORELIKETHIS]
 >
->[Confirmar Entradas Diretamente No Calendário De Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
+>[Confirmar Entradas Diretamente no Calendário de Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}

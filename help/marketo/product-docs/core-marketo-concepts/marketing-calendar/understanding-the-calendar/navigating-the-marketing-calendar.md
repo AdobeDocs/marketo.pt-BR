@@ -1,46 +1,46 @@
 ---
 unique-page-id: 1147257
-description: Navegação no calendário de marketing - Documentos do Marketo - Documentação do produto
-title: Navegação no calendário de marketing
+description: Navegação no calendário de marketing - Documentação do Marketo - Documentação do produto
+title: Navegar pelo calendário de marketing
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 1%
 
 ---
 
-# Navegação no calendário de marketing {#navigating-the-marketing-calendar}
+# Navegar pelo calendário de marketing {#navigating-the-marketing-calendar}
 
-Navegar ao redor do Calendário de marketing é fácil como um, dois, três!
+Navegar pelo Calendário de marketing é fácil como um, dois, três!
 
 >[!PREREQUISITES]
 >
->Certifique-se de que você tenha uma [Licença de calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - caso contrário, o bloco Calendário de marketing não será exibido em Meu Marketo.
+>Verifique se você tem um [Licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - caso contrário, o bloco Calendário de marketing não será exibido em Minha Marketo.
 
-1. Vá para o **Calendário de marketing**.
+1. Vá para a **Calendário de marketing**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Essa é uma exibição de pássaro dos ativos agendados em sua instância do Marketo.
+1. Esta é uma visão geral dos ativos agendados na instância do Marketo.
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
 ## Alteração entre modos {#change-between-modes}
 
-1. Clique no botão **3 semanas** ou **Mês** guias para alternar entre modos.
+1. Clique em **[!UICONTROL 3 semanas]** ou **[!UICONTROL Month]** para alternar entre os modos.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## Usar a Exibição de Agenda {#use-the-agenda-view}
+## Usar a exibição Agenda {#use-the-agenda-view}
 
-A exibição Agenda exibe todas as suas entradas como uma lista.
+A exibição Agenda exibe todas as entradas como uma lista.
 
-1. Clique no botão **Menu suspenso Filtro**.
+1. Clique em **[!UICONTROL Filtro]** menu suspenso.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Selecione o **Agenda** exibir.
+1. Selecione o **[!UICONTROL Agenda]** exibição.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -54,16 +54,16 @@ Sem um DeLorean! Basta clicar nos botões de navegação.
 
 ![](assets/image2014-9-26-10-3a31-3a25.png)
 
-Também é possível usar esses atalhos de teclado.
+Você também pode usar esses atalhos de teclado.
 
 | Ação | Atalho de teclado |
 |---|---|
 | Voltar no tempo | alt/opt + up |
-| Avançar no tempo | alt/opt + down |
+| Encaminhar no tempo | alt/opt + down |
 | Ir para &quot;hoje&quot; | alt/opt + t |
 
-Ótimo! Estas são as noções básicas. Você também pode personalizar sua visualização usando filtros.
+Ótimo! Estas são as noções básicas. Você também pode personalizar a visualização usando filtros.
 
 >[!MORELIKETHIS]
 >
->[Filtrar o calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>[Filtrar o calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
