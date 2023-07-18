@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
-source-wordcount: '8989'
+source-wordcount: '8996'
 ht-degree: 5%
 
 ---
@@ -1344,6 +1344,7 @@ ht-degree: 5%
                + [Desconectar Salesforce Das Ações Do Sales Insight](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Registro de respostas](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Diagnósticos do Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
+               + [Configurar uma sandbox de ações de insights de vendas](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [Sincronizar atividades de vendas com o Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Configuração do pacote do Salesforce {#salesforce-package-configuration}
                + [Configuração das ações do Sales Insight no Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
@@ -1493,7 +1494,7 @@ ht-degree: 5%
          + Recursos {#features}
             + [Visão geral do recurso MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Visão geral do recurso Painel de insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + [Integração dinâmica de chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
+            + [Integração do Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [Enviar um email para vários registros no Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Ações no painel MSI {#actions-in-the-msi-panel}
                + [Escolher uma ação no Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)

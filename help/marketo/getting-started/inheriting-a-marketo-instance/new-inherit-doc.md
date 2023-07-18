@@ -3,16 +3,16 @@ description: Herdar documento - Documentação do Marketo - Documentação do pr
 title: Herdar Doc
 hide: true
 hidefromtoc: true
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '188'
 ht-degree: 55%
 
 ---
 
 # Herdar Doc {#inherit-doc}
 
-Você herdou uma instância de Marketo Engage existente de outro administrador? Em caso afirmativo, este guia destina-se a você.
+Você herdou uma instância de Marketo Engage existente de outro administrador? Em caso afirmativo, este artigo é para você.
 
 >[!TIP]
 >
