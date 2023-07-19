@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 5%
@@ -400,7 +400,7 @@ ht-degree: 5%
             + [Usando Custos do Período em um Programa](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Biblioteca de programas {#program-library}
             + [Visão geral da biblioteca de importação do programa](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Modelo do programa de gerenciamento de conteúdo](product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md)
+            + [Exemplo de programa de gerenciamento de conteúdo](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
          + Relatório de desempenho do programa {#program-performance-report}
             + [Criar um relatório de desempenho do programa](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Adicionar colunas de status de programa a um relatório de programa](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -1494,7 +1494,7 @@ ht-degree: 5%
          + Recursos {#features}
             + [Visão geral do recurso MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Visão geral do recurso Painel de insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + [Integração dinâmica de chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
+            + [Integração do Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [Enviar um email para vários registros no Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Ações no painel MSI {#actions-in-the-msi-panel}
                + [Escolher uma ação no Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
