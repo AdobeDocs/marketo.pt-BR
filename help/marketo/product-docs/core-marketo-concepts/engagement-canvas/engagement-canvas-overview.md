@@ -4,7 +4,7 @@ title: Visão geral da tela de engajamento
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 60b3abf6639e4a257b37fd3ace3cb5a3a6c318fb
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -43,7 +43,7 @@ CABEÇALHO - DESCRIÇÕES DO CARTÃO? - LOPA CONFIRMARÁ
 
 ## Campanhas aninhadas {#nested-campaigns}
 
-* Se uma campanha incluir uma etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo mostrará detalhes da campanha que está sendo chamada, bem como um painel deslizante com informações adicionais. (A campanha aninhada também incluirá um comprimido de fechamento. Clicar nele recolherá as cartas associadas à campanha aninhada.) !!!!!!!!!!!! - REESCREVER OU REMOVER - LOPA CONFIRMARÁ
+* Se uma campanha incluir uma etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo mostrará detalhes da campanha que está sendo chamada, bem como um painel deslizante com informações adicionais. (A campanha aninhada também incluirá um comprimido de fechamento. Clicar nele recolherá as cartas associadas à campanha aninhada.) !!!!!!!!!!! - REESCREVER OU REMOVER - LOPA CONFIRMARÁ
 
 * Se uma campanha incluir uma etapa do fluxo Solicitar ou Executar Campanha com opções, clicar no cartão de fluxo mostrará um cartão de opções, bem como um painel deslizante com mais informações sobre as opções. Clicar em cada cartão de opção mostrará detalhes da campanha sendo chamada, bem como um painel deslizante com mais informações.
 
