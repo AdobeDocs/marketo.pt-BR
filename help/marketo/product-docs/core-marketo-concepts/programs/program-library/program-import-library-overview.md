@@ -1,24 +1,25 @@
 ---
-description: Visão geral da biblioteca de importação de programas - Documentos do Marketo - Documentação do produto
-title: Visão geral da biblioteca de importação de programas
+description: Visão geral da biblioteca de importação do programa - Documentação do Marketo - Documentação do produto
+title: Visão geral da biblioteca de importação do programa
 hide: true
 hidefromtoc: true
-source-git-commit: aa40c14f1c781b43db224bc4b47df16f00e70122
+exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Visão geral da biblioteca de importação de programas {#program-import-library-overview}
+# Visão geral da biblioteca de importação do programa {#program-import-library-overview}
 
 Texto de introdução.
 
-—Informações da Biblioteca de Importação do Programa Marketo Engage aqui—
+—Marketo Engage Importar informações da biblioteca aqui—
 
-* [Gerenciamento de consentimento OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md){target="_blank"}
+* [Gerenciamento de conteúdo OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md){target="_blank"}
 
-* Gerenciamento da capacidade de entrega de OP
+* Gerenciamento de Entregabilidade OP
 
 * Gerenciamento de dados OP
 
@@ -26,28 +27,28 @@ Texto de introdução.
 
 * Pontuação OP-Demográfica
 
-* Comportamento da Pontuação de OP
+* OP-Scoring-Behavior
 
-* Gerenciamento de clientes potenciais
+* Gerenciamento OP-Lead
 
-* Solicitação de demonstração WR-AAAA-MM com perfil progressivo
+* Solicitação de demonstração WR-YYYY-MM com criação de perfil progressiva
 
-* Envio de email EM-AAAA-MM-DD
+* Envio de EM-YYYY-MM-DD-Email
 
-* NL-AAAA-MM-Newsletter
+* NL-YYYY-MM-Newsletter
 
-* EV-AAAA-MM-DD-Evento
+* Evento DD-MM-EV-YYYY
 
-* TS-AAAA-MM-DD-Transmissão
+* TS-AAAA-MM-DD-Tradeshow
 
-* WBN-AAAA-MM-DD-Webinar
+* WBN-YYYY-MM-DD-Webinário
 
-* Publicidade online OA-AAAA com página de aterrissagem do Marketo
+* Publicidade on-line OA-YYYY-MM com a página de aterrissagem do Marketo
 
-* NUR-AAAA-MM - Infraestrutura Simples
+* NUR-AAAA-MM-Enfermagem Simples
 
-* NUR-AAAA-MM-Infraestrutura Avançada de Unidades
+* NUR-YYYY-MM-Aprofundamento Avançado
 
-* CT-AAAA-MM-Conteúdo na página de aterrissagem do Marketo
+* Conteúdo de CT-YYYY-MM na página de aterrissagem do Marketo
 
-* CT-AAAA-MM-Landing Page Não-Marketo
+* Página de aterrissagem de conteúdo não Marketo CT-YYYY-MM

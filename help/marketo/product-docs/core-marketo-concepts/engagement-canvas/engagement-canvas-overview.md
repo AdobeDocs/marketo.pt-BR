@@ -4,9 +4,9 @@ title: Visão geral da tela de engajamento
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,35 @@ A navegação superior inclui os seguintes recursos:
 
 ## Perguntas frequentes {#faq}
 
-LOPA FORNECERÁ
+**Preciso reconstruir todas as minhas campanhas na Tela de engajamento?**
+
+Nº A tela de engajamento tem total compatibilidade com versões anteriores. Com apenas um clique, você poderá ver cada uma de suas campanhas existentes na interface visual da tela de engajamento.
+
+**Ter a Tela de engajamento no Marketo Engage significa que perderei o acesso à estrutura de pastas e precisarei reaprender a criar uma Campanha inteligente?**
+
+Nº A grande vantagem da Tela de engajamento é que ela oferece o melhor dos dois mundos; complementa a maneira atual de criar campanhas. Você pode escolher se deseja usar a interface existente ou criar/visualizar na nova interface. Todos os usuários ainda receberão um conjunto de recursos avançados de Marketo Engage, agora complementado por uma ferramenta de criação visual.
+
+**A Tela de engajamento é um complemento pago?**
+
+Nº Todos os usuários existentes e novos do Marketo Engage em todas as assinaturas terão acesso a esse recurso complementar.
+
+**Como administrador de Marketo Engage, sou responsável por ativar/desativar a Tela de engajamento?**
+
+Nº A Tela de engajamento estará disponível para todos os usuários em suas instâncias. Você não poderá ativá-lo/desativá-lo para determinados usuários, espaços de trabalho, etc.
+
+**Tudo o que está disponível atualmente nas Campanhas inteligentes também está disponível na Tela de engajamento?**
+
+Sim. A Tela de engajamento tem paridade de recursos total com as Campanhas inteligentes.
+
+**Como isso é diferente de outros construtores visuais?**
+
+Há três itens principais que diferenciam a Tela de engajamento:
+
+* Flexibilidade: gerencie e valide facilmente campanhas interconectadas ou profundamente aninhadas com visualização.
+
+* Funcionalidade: todos os visuais estão prontos para uso, facilitando sua utilização; a estrutura aninhada permite que você mergulhe e obtenha a imagem completa.
+
+* Potência: você mantém toda a sofisticação existente do Marketo Engage, agora em um formato visual.
 
 >[!MORELIKETHIS]
 >
