@@ -1,8 +1,9 @@
 ---
 description: Noções básicas sobre as opções de envio do Sales Campaign para as etapas de e-mail - Documentação do Marketo - Documentação do produto
 title: Noções básicas sobre as opções de envio do Sales Campaign para etapas de email
+feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 1934cbd4a941fdfc1110c6934da66e58042aa572
+source-git-commit: 3e1db4c113df7278eadcf1b61ee225989e70452b
 workflow-type: tm+mt
 source-wordcount: '681'
 ht-degree: 2%
