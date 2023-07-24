@@ -2,9 +2,9 @@
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: d232da08e8637a33ff76d63e7984d794a1e18e16
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '713'
 ht-degree: 8%
 
 ---
@@ -172,3 +172,5 @@ Há duas melhorias chegando para a Personalização em tempo real do Marketo Eng
 >Faça parceria com sua equipe de desenvolvimento na Web para determinar se seu site está carregando sua própria biblioteca de consulta JQ ou utilizando a versão padrão carregada da tag JavaScript RTP de personalização da Web.
 
 * **Atualizar para Google Analytics 4**: o Marketo suportava anteriormente o Universal Analytics, que deixará de gravar dados até 1º de julho de 2023. Os usuários do RTP precisarão seguir o processo de migração no painel de Google Analytics para concluir o suporte à integração Google Analytics 4 no RTP. Além disso, os usuários terão uma tag alfanumérica exclusiva (localizada na `<head>` do html) nas páginas de aterrissagem que permite que o Marketo envie dados para o Google Analytics.
+
+* **_Webinário de lançamento do produto_**: Junte-se a nós em 6 de setembro de 2023, às 9:00 (PT) / 12:00 (ET) para um [webinário ao vivo](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} Apresentado pela nossa equipe de produtos, onde você verá como usar todas as inovações de produto mais recentes.
