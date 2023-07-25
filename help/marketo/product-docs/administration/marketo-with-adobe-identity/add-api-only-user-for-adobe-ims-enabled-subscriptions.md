@@ -24,7 +24,7 @@ As etapas abaixo descrevem como adicionar um usuário somente API no Marketo Eng
 
    ![](assets/add-api-only-user-for-adobe-ims-2.png)
 
-1. Insira um [!UICONTROL E-mail], [!UICONTROL Nome], e [!UICONTROL Sobrenome] somente para o usuário da API. Selecione o [!UICONTROL Somente API] Função que você deseja atribuir ao usuário. Clique em **[!UICONTROL Criar somente usuário da API]** quando terminar.
+1. Insira um [!UICONTROL E-mail], [!UICONTROL Nome], e [!UICONTROL Sobrenome] somente para o usuário da API. Selecione o [!UICONTROL Somente API] Função que você deseja atribuir ao usuário. Clique em **[!UICONTROL Criar usuário somente API]** quando terminar.
 
    ![](assets/add-api-only-user-for-adobe-ims-3.png)
 

@@ -136,7 +136,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Atributos inferidos para o bate-papo dinâmico**: garante que os dados de IP inferidos (cidade, estado, país etc.) é gravado no registro de pessoa para novas pessoas adquiridas pela Dynamic Chat.
+* **Atributos inferidos para o Dynamic Chat**: garante que os dados de IP inferidos (cidade, estado, país etc.) é gravado no registro pessoal para novas pessoas adquiridas pelo Dynamic Chat.
 
 <table> 
   <tr> 
@@ -150,7 +150,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Suporte de idioma adicional para o Dynamic Chat**: agora você pode escolher entre nove idiomas compatíveis para exibir o conteúdo estático do Dynamic Chat no.
+* **Suporte de idioma adicional para o Dynamic Chat**: Agora é possível escolher entre nove idiomas compatíveis para exibir o conteúdo de Dynamic Chat estático no.
 
 <table> 
   <tr> 
@@ -164,7 +164,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Ir para o nó na visualização do Stream Designer para o Dynamic Chat**: Salte diretamente para um nó no Stream Designer do painel de visualização.
+* **Ir para o nó na visualização do Stream Designer para Dynamic Chat**: Salte diretamente para um nó no Stream Designer do painel de visualização.
 
 <table> 
   <tr> 

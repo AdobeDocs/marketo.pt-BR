@@ -136,7 +136,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integração dinâmica de chat</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integração do Dynamic Chat</a></td>
   </tr>
   </tbody>
 </table>

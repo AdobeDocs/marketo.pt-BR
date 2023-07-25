@@ -46,7 +46,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 </br>
 
-* **Fonte de chat para Dynamic Chat**: &quot;Chat&quot; agora é oferecido como uma fonte de novos registros e atividades de pessoas. Essa fonte pode ser usada para ajudar os usuários a filtrar atividades em Smart Lists/Campanhas. A origem também pode ser bloqueada contra atualizações nos campos.
+* **Fonte do chat para bate-papo dinâmico**: &quot;Chat&quot; agora é oferecido como uma fonte de novos registros e atividades de pessoas. Essa fonte pode ser usada para ajudar os usuários a filtrar atividades em Smart Lists/Campanhas. A origem também pode ser bloqueada contra atualizações nos campos.
 
 <table> 
   <tr> 

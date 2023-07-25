@@ -24,7 +24,7 @@ Os recursos a seguir começarão a ser lançados em **11 de março de 2022**, co
 
 ## Orquestração entre canais {#cross-channel-orchestration}
 
-* **Dynamic Chat**: maximize todas as oportunidades em seu site direcionando clientes potenciais e contas com conversas proativas, envolventes e personalizadas 1:1. [Bate-papo dinâmico](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} O permite que os usuários do Marketo Engage comecem a aproveitar o chat como parte essencial das experiências integradas entre canais para casos de uso de marketing e vendas B2B. Os recursos incluem: a capacidade de reservar reuniões diretamente no chat, roteamento de leads, modelos iniciais, criação de conversas com o método arrastar-e-soltar e muito mais. O Dynamic Chat está incluído em todos os pacotes de Marketo Engage e será lançado para todos os usuários Marketo Engage este ano.
+* **Dynamic Chat**: maximize todas as oportunidades em seu site direcionando clientes potenciais e contas com conversas proativas, envolventes e personalizadas 1:1. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} O permite que os usuários do Marketo Engage comecem a aproveitar o chat como parte essencial das experiências integradas entre canais para casos de uso de marketing e vendas B2B. Os recursos incluem: a capacidade de reservar reuniões diretamente no chat, roteamento de leads, modelos iniciais, criação de conversas com o método arrastar-e-soltar e muito mais. O Dynamic Chat está incluído em todos os pacotes de Marketo Engage e será lançado para todos os usuários Marketo Engage este ano.
 
 * **Aprimoramento da filtragem de atividade de bot por email**: como um aprimoramento do lançado anteriormente [Filtragem de atividade de bot por email](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} recurso, agora é possível aceitar atividades de registro identificadas como bots. Em seguida, você pode filtrar e acionar ações com base em atividades identificadas como executadas por bots.
 
@@ -74,7 +74,7 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 ## Anúncios {#announcements}
 
-* **Descontinuação do Marketo Sky**: em março, o Marketo Sky não estará mais disponível à medida que focalizarmos nossos recursos no fornecimento da experiência de usuário da próxima geração. Em um esforço para manter o acesso à funcionalidade exclusiva do Marketo Sky hoje, estamos trazendo a Expiração de ativos e a Substituição de prioridade da Campanha inteligente para a experiência Clássica. [Clique aqui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) para saber mais.
+* **Descontinuação do Marketo Sky**: em março, o Marketo Sky não estará mais disponível à medida que focalizarmos nossos recursos no fornecimento da próxima geração de experiência do usuário. Em um esforço para manter o acesso à funcionalidade exclusiva do Marketo Sky hoje, estamos trazendo a Expiração de ativos e a Substituição de prioridade da Campanha inteligente para a experiência Clássica. [Clique aqui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) para saber mais.
 
 **_Webinário de lançamento do produto_**
 

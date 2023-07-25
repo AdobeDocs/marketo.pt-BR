@@ -51,7 +51,7 @@ Se você quiser enviar somente emails de texto, veja como criar um email que ser
    >
    >Também é possível editar um email existente e alterar essa configuração. Não esqueça de aprovar o rascunho.
 
-1. Desmarque a opção **Copiar automaticamente do HTML** caixa de seleção
+1. Desmarque a **Copiar automaticamente do HTML** caixa de seleção
 
    ![](assets/seven.png)
 

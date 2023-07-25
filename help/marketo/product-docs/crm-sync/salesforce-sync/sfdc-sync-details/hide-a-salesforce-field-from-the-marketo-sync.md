@@ -39,7 +39,7 @@ Nem todos os campos no Salesforce são úteis para Marketing. Você pode otimiza
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Desmarque a **Visível** ao lado do campo que você deseja ocultar. Clique em **Salvar**.
+1. Desmarque a opção **Visível** ao lado do campo que você deseja ocultar. Clique em **Salvar**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 

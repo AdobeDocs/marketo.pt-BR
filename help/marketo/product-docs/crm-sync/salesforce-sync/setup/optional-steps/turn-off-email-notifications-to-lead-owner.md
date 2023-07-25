@@ -27,6 +27,6 @@ Você pode desativar as notificações por email automáticas enviadas aos propr
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Desmarque a opção **Enviar notificação por email ao proprietário no Salesforce após atribuição de cliente potencial** caixa. Clique em **Salvar**.
+1. Desmarque a **Enviar notificação por email ao proprietário no Salesforce após atribuição de cliente potencial** caixa. Clique em **Salvar**.
 
    ![](assets/new-screen.png)

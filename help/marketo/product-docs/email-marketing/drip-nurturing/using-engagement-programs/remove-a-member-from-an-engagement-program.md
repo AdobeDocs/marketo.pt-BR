@@ -17,7 +17,7 @@ Ih! Como essas pessoas entraram lá? Você pode remover membros de um programa d
 
 >[!TIP]
 >
->Não use isso para pausar conteúdo para uma pessoa. Isso eliminará todas as atribuições no Analytics. Saiba mais sobre [pausar pessoas em um programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
+>Não use isso para pausar conteúdo para uma pessoa. Isso eliminará todas as atribuições no Analytics. Saiba como [pausar pessoas em um programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
 ## Etapa do fluxo {#flow-step}
 

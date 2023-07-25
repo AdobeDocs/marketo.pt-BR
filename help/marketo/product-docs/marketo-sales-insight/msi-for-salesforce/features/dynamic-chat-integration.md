@@ -1,6 +1,6 @@
 ---
 description: Integração de Dynamic Chat - Documentação do Marketo - Documentação do produto
-title: Integração do Dynamic Chat
+title: Integração dinâmica de chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -10,7 +10,7 @@ ht-degree: 5%
 
 ---
 
-# Integração do Dynamic Chat {#dynamic-chat-integration}
+# Integração dinâmica de chat {#dynamic-chat-integration}
 
 Saiba mais sobre a integração do Dynamic Chat com o Sales Insight.
 
