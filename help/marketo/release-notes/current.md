@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7e0d78810cce1c35918a15ad29c1f3863128c1dd
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
-source-wordcount: '713'
-ht-degree: 8%
+source-wordcount: '780'
+ht-degree: 7%
 
 ---
 
@@ -24,7 +24,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 </br>
 
-* **Tela de engajamento**: a Tela de engajamento é uma ferramenta visual que permite criar e organizar campanhas reutilizáveis. É completamente compatível com versões anteriores, de modo que todas as campanhas existentes podem ser visualizadas nessa nova estrutura com apenas um clique. As telas podem ser baixadas e compartilhadas.
+* **Mapa de engajamento**: o Mapa de engajamento é uma ferramenta visual que permite criar e organizar campanhas reutilizáveis. É completamente compatível com versões anteriores, de modo que todas as campanhas existentes podem ser visualizadas nessa nova estrutura com apenas um clique. As telas podem ser baixadas e compartilhadas.
 
 <table> 
   <tr> 
@@ -34,6 +34,20 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   <tr> 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Notificações - Erro de serviços da Web**: a notificação de erro de serviços da Web agora inclui o nome da assinatura, o que facilita o gerenciamento de várias instâncias de Marketo Engage. Também adicionamos uma coluna &quot;Usuário&quot; à tabela que contém Códigos de erro e Contagens, para que você possa identificar facilmente qual Usuário da API foi responsável por gerar um erro específico ao chamar a API REST do Marketo.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Atualizações de documentação</b></td>
+  </tr>
+  <tr> 
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
