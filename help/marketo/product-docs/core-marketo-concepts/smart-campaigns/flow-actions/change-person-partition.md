@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147078
-description: Alterar partição de pessoa - Documentos do Marketo - Documentação do produto
+description: Alterar partição de pessoa - Documentação do Marketo - Documentação do produto
 title: Alterar partição de pessoas
 exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 16%
@@ -14,14 +15,14 @@ ht-degree: 16%
 
 ## Visão geral {#overview}
 
-Se estiver usando [espaços de trabalho e partições](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md), crie campanhas inteligentes para mover pessoas de uma partição para outra.
+Se você estiver usando [espaços de trabalho e partições](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md), você desejará criar campanhas inteligentes para mover pessoas de uma partição para outra.
 
 ![](assets/one-3.png)
 
 ## Uso {#usage}
 
-1. Selecione a Partição para a qual deseja mover suas pessoas.
+1. Selecione a Partição para a qual deseja mover as pessoas.
 
 ![](assets/two-3.png)
 
-É tão fácil!
+É fácil assim!

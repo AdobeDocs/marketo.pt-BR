@@ -1,16 +1,17 @@
 ---
 unique-page-id: 4719306
-description: Ocultar um campo do Salesforce a partir da sincronização do Marketo - Documentos do Marketo - Documentação do produto
-title: Ocultar um campo do Salesforce na sincronização do Marketo
+description: Ocultar um campo do Salesforce na sincronização do Marketo - Documentação do Marketo - Documentação do produto
+title: Ocultar um campo do Salesforce da sincronização com o Marketo
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# Ocultar um campo do Salesforce na sincronização do Marketo {#hide-a-salesforce-field-from-the-marketo-sync}
+# Ocultar um campo do Salesforce da sincronização com o Marketo {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -18,19 +19,19 @@ ht-degree: 0%
 
 Nem todos os campos no Salesforce são úteis para Marketing. Você pode otimizar o desempenho da sincronização incluindo apenas os campos necessários. Veja como ocultar um campo do Marketo.
 
-1. Clique no menu de nome e selecione **Configuração**.
+1. Clique no menu do seu nome e selecione **Configuração**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Enter **perfis** na barra de pesquisa e clique em **Perfis** under **Gerenciar usuários**.
+1. Enter **perfis** na barra de pesquisa e clique em **Perfis** em **Gerenciar usuários**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
-1. Clique no perfil do usuário de sincronização.
+1. Clique em sincronizar perfil do usuário.
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Em **Segurança no nível do campo** seção , clique em **Exibir** ao lado do objeto que contém o campo target .
+1. No **Segurança em nível de campo** clique em **Exibir** ao lado do objeto que contém o campo target.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
@@ -38,16 +39,16 @@ Nem todos os campos no Salesforce são úteis para Marketing. Você pode otimiza
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Desmarque a opção **Visível** caixa de seleção ao lado do campo que deseja ocultar. Clique em **Salvar**.
+1. Desmarque a **Visível** ao lado do campo que você deseja ocultar. Clique em **Salvar**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
    >[!NOTE]
    >
-   >Se o campo oculto no Salesforce já tiver sido sincronizado com o Marketo, você também precisará ocultá-lo no Marketo se não quiser usá-lo.
+   >Se o campo ocultado no Salesforce já tiver sido sincronizado com o Marketo, será necessário ocultá-lo no Marketo, também se você não quiser usá-lo.
 
-   Pronto! Esse campo não será mais exibido no Marketo após a conclusão da próxima sincronização.
+   Pronto! Você não verá mais esse campo no Marketo após a conclusão da próxima sincronização.
 
    >[!MORELIKETHIS]
    >
-   >[Ocultar e mostrar um campo](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
+   >[Ocultar e reexibir um campo](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)

@@ -1,29 +1,30 @@
 ---
-description: Adicionar conjunto de permissões de insight de vendas - Documentos da Marketo - Documentação do produto
-title: Adicionar Conjunto de Permissões de Insight de Vendas
+description: Adicionar conjunto de permissões do Sales Insight - Documentação do Marketo - Documentação do produto
+title: Adicionar conjunto de permissões do Sales Insight
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '375'
 ht-degree: 4%
 
 ---
 
-# Adicionar Conjunto de Permissões de Insight de Vendas {#add-sales-insight-permission-set}
+# Adicionar conjunto de permissões do Sales Insight {#add-sales-insight-permission-set}
 
-Use as etapas a seguir para adicionar acesso aos recursos do Sales Insight no Salesforce. Aplicável ao Salesforce Classic e ao Iluminação
+Use as etapas a seguir para adicionar acesso aos recursos do Sales Insight no Salesforce. Aplicável ao Salesforce Classic e Lighining
 
 >[!PREREQUISITES]
 >
->[Atualize seu pacote do Sales Insight Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target=&quot;_blank&quot;} para a versão 1.8000 ou superior para usar esse recurso.
+>[Atualize seu pacote Sales Insight Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} para a versão 1.8000 ou superior para usar este recurso.
 
 >[!IMPORTANT]
 >
->Se você já concedeu acesso ao Sales Insight a todos os perfis e/ou implementou o Sales Insight para todos os usuários, é necessário [remover acesso de nível de perfil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;} para usar esse conjunto de permissões.
+>Se você já tiver concedido acesso ao Sales Insight a todos os perfis e/ou implementado o Sales Insight para todos os usuários, será necessário [remover acesso em nível de perfil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} para usar este conjunto de permissões.
 
 ## Visão geral {#overview}
 
-A permissão &quot;Aplicativo Marketo&quot; é parte do pacote Sales Insight Salesforce . Ele inclui acesso aos objetos mencionados abaixo, às classes de ápice e às páginas de força visual. Eles são necessários para acessar todos os recursos do Sales Insight.
+A permissão &quot;Aplicativo Marketo&quot; faz parte do pacote Sales Insight Salesforce. Inclui acesso aos objetos mencionados abaixo, classes apex e páginas de força visual. Elas são necessárias para acessar todos os recursos do Sales Insight.
 
 **Configurações do objeto**
 
@@ -31,56 +32,56 @@ A permissão &quot;Aplicativo Marketo&quot; é parte do pacote Sales Insight Sal
  <tbody> 
  <tr> 
    <td>BestBetsCache</td> 
-   <td>Ler, Criar, Editar, Excluir, Exibir todos, Modificar tudo</td> 
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
   </tr> 
   <tr> 
    <td>Detalhes de melhores opções</td> 
-   <td>Ler, Criar, Editar, Excluir, Exibir todos, Modificar tudo</td> 
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
   </tr> 
   <tr> 
-   <td>Melhores visualizações</td> 
-   <td>Ler, Criar, Editar, Excluir, Exibir todos, Modificar tudo</td> 
+   <td>Exibições de Melhores Opções</td> 
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
   </tr> 
   <tr> 
    <td>EmailActivityCache</td> 
-   <td>Ler, Criar, Editar, Excluir, Exibir todos, Modificar tudo</td> 
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
   </tr> 
   <tr> 
    <td>GetMethodArgus</td> 
-   <td>Ler, Criar, Editar, Excluir, Exibir todos, Modificar tudo</td> 
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
   </tr> 
   <tr> 
    <td>GroupedWebActivityCache</td> 
-   <td>Ler, Criar, Editar, Excluir, Exibir todos, Modificar tudo</td> 
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
   </tr> 
   <tr> 
    <td>InterestingMomentsCache</td> 
-   <td>Ler, Criar, Editar, Excluir, Exibir todos, Modificar tudo</td> 
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
   </tr> 
   <tr> 
    <td>Config. do Marketo Sales Insight</td> 
-   <td>Ler, Criar, Editar, Excluir, Exibir todos, Modificar tudo</td> 
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
   </tr> 
   <tr> 
    <td>ScoringCache</td> 
-   <td>Ler, Criar, Editar, Excluir, Exibir todos, Modificar tudo</td> 
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
   </tr> 
   <tr> 
    <td>Valores</td> 
-   <td>Ler, Criar, Editar, Excluir, Exibir todos, Modificar tudo</td> 
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
   </tr> 
   <tr> 
    <td>WebActivityCache</td> 
-   <td>Ler, Criar, Editar, Excluir, Exibir todos, Modificar tudo</td> 
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
   </tr> 
  </tbody> 
 </table>
 
-* Acesso à classe do anexo: 159 Classes de Apex que começam com &quot;mkto_si&quot;
-* Forçar acesso à página: 64 Páginas de força de visita que começam com &quot;mkto_si&quot;
-* Definições de Configuração Personalizada: mkto_si.Configurações do Marketo e mkto_si.Preferências do usuário
+* Acesso à classe Apex: 159 classes Apex que começam com &quot;mkto_si&quot;
+* Acesso à página do Visualforce: 64 páginas do Visualforce que começam com &quot;mkto_si&quot;
+* Definições de configuração personalizada: mkto_si.Configurações do Marketo &amp; mkto_si.Preferências do usuário
 
-## Adicionar conjunto de permissões do aplicativo Marketo aos usuários {#adding-marketo-app-permission-set-to-users}
+## Adicionar o conjunto de permissões do aplicativo Marketo aos usuários {#adding-marketo-app-permission-set-to-users}
 
 1. Faça logon em sua conta do Salesforce.
 
@@ -88,11 +89,11 @@ A permissão &quot;Aplicativo Marketo&quot; é parte do pacote Sales Insight Sal
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
-1. Em Administrador, clique em para desfazer **Gerenciar usuários**, em seguida **Usuários**.
+1. Em Administrador, clique para desfazer a navegação **Gerenciar usuários**, depois **Usuários**.
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
-1. Em Todos os usuários, selecione o usuário ao qual deseja fornecer acesso e clique em **Atribuições do Conjunto de Permissões**.
+1. Em Todos os usuários, selecione o usuário ao qual deseja fornecer acesso e clique em **Atribuições do conjunto de permissões**.
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
@@ -100,16 +101,16 @@ A permissão &quot;Aplicativo Marketo&quot; é parte do pacote Sales Insight Sal
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. Selecionar **Acesso ao aplicativo Marketo** dos conjuntos de permissões disponíveis, em seguida **Adicionar**. Clique em **Salvar**.
+1. Selecionar **Acesso ao aplicativo Marketo** nos conjuntos de permissões disponíveis, em seguida, **Adicionar**. Clique em **Salvar**.
 
    ![](assets/add-sales-insight-permission-set-5.png)
 
-1. Agora, ao rolar a página Detalhes do usuário, você verá &quot;Acesso ao aplicativo do Marketo&quot; em Atribuições do conjunto de permissões.
+1. Agora, ao rolar para baixo na página Detalhes do usuário, você verá &quot;Acesso ao aplicativo Marketo&quot; em Atribuições de conjunto de permissões.
 
    ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
->Os usuários que não têm acesso ao Sales Insight verão esta mensagem: &quot;Você não tem privilégios suficientes para acessar esta guia.&quot;
+>Os usuários que não têm acesso ao Sales Insight verão esta mensagem: &quot;Você não tem privilégios suficientes para acessar esta guia&quot;.
 
-Pronto! Você adicionou com êxito o acesso ao Sales Insight. Repita as mesmas etapas para qualquer outro perfil que você queira adicionar acesso.
+Pronto! Você adicionou com sucesso o acesso ao Sales Insight. Repita as mesmas etapas para qualquer outro perfil ao qual deseje adicionar acesso.

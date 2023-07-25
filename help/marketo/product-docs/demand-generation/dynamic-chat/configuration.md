@@ -2,7 +2,8 @@
 description: Configuração - Documentação do Marketo - Documentação do produto
 title: Configuração
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 1%
@@ -25,25 +26,25 @@ Há várias opções de personalização diferentes.
 
 ### Estilo {#style}
 
-É aqui que você definirá a aparência do chatbot onde suas Caixas de Diálogo serão exibidas, incluindo: cores, fontes, posicionamento do widget de bot e o nome/avatar do chatbot.
+É aqui que você irá definir a aparência e comportamento do chatbot onde os seus Diálogos serão apresentados, incluindo: cores, fontes, posicionamento do widget do bot e o nome/avatar do chatbot.
 
-A cor de cada categoria é determinada por uma [valor de cor hexadecimal](https://color.adobe.com/create/color-wheel) (por exemplo, branco = #ffff, vermelho = #bf1932, etc.).
+A cor de cada categoria é determinada por um [valor de cor hexadecimal](https://color.adobe.com/create/color-wheel) (por exemplo, branco = #ffffff, vermelho = #bf1932 etc.).
 
 ![](assets/configuration-3.png)
 
-A Âncora permite que o visitante do site abra/feche a caixa de diálogo. Você pode escolher se deseja que o ícone apareça na parte inferior direita ou inferior esquerda. Você também pode aumentar/diminuir o preenchimento (a quantidade de espaço entre o ícone e a parte inferior da página da Web).
+A Âncora permite que o visitante do site abra/feche a caixa de diálogo. Você pode escolher se deseja que esse ícone apareça na parte inferior direita ou inferior esquerda. Você também pode aumentar/diminuir o preenchimento (a quantidade de espaço entre o ícone e a parte inferior da página da Web).
 
 ![](assets/configuration-4.png)
 
 ### Configurações do agente {#agent-settings}
 
-Em Configurações do agente, você pode adicionar um rótulo à sua caixa de diálogo (por exemplo: &quot;Adobe Bot&quot;) que aparecerá na parte superior. Você também pode determinar o atraso da resposta (em segundos) e alterar o avatar do chat. Para fazer upload de sua própria imagem de avatar, clique no link **+** botão.
+Nas Configurações do agente, você pode adicionar um rótulo à sua caixa de bate-papo (por exemplo: &quot;Adobe Bot&quot;) que aparecerá na parte superior. Você também pode determinar o atraso de resposta (em segundos) e alterar o avatar do bate-papo. Para carregar sua própria imagem de avatar, clique no link **+** botão.
 
 ![](assets/configuration-5.png)
 
 >[!NOTE]
 >
->Os avatares personalizados devem ser imagens quadradas com menos de 256 kb e menores que 200 x 200 px. Os tipos de arquivos suportados incluem: .jpg, .png, .gif, .webp, .svg.
+>Os avatares personalizados devem ser imagens quadradas com menos de 256 kb e menores de 200x200 px. Os tipos de arquivos suportados incluem: .jpg, .png, .gif, .webp, .svg.
 
 Quando terminar de fazer alterações, lembre-se de clicar em **Salvar**.
 
@@ -51,25 +52,24 @@ Quando terminar de fazer alterações, lembre-se de clicar em **Salvar**.
 
 ## Guia Privacidade {#privacy-tab}
 
-Clique no botão **Privacidade** para adicionar/editar o URL da política de privacidade do seu site (opcional).
+Clique em **Privacidade** para adicionar/editar o URL da política de privacidade do site (opcional).
 
 ![](assets/configuration-7.png)
 
 ## Guia Instalação {#installation-tab}
 
-Para que o chatbot apareça no seu site, primeiro será necessário instalar o snippet do Dynamic Chat JavaScript. Clique nessa guia para localizar/copiar o código necessário. Se não estiver familiarizado com esta operação, entre em contato com a equipe da Web ou o departamento de TI para obter assistência.
+Para que o chatbot apareça em seu site, primeiro será necessário instalar o trecho de JavaScript do Dynamic Chat. Clique nessa guia para localizar/copiar o código necessário. Se você não estiver familiarizado com essa operação, entre em contato com a equipe da Web ou o departamento de TI para obter assistência.
 
 ![](assets/configuration-8.png)
 
 >[!TIP]
 >
->Se seu site utilizar uma Política de segurança de conteúdo, talvez seja necessário adicionar os seguintes URLs à lista de permissões para que o chatbot funcione conforme esperado:
+>Se o site utilizar uma Política de segurança de conteúdo, talvez seja necessário adicionar os seguintes URLs à lista de permissões para que o chatbot funcione conforme esperado:
 >
 >* `*.adoberesources.net`
 >* `*.adobe.io`
 >* `*.typekit.net`
 
-
 >[!NOTE]
 >
->O Suporte da Marketo não está configurado para ajudar no HTML de solução de problemas. Para obter assistência para o HTML, consulte um desenvolvedor da Web.
+>O Suporte da Marketo não está configurado para ajudar na solução de problemas do HTML. Para obter assistência para o HTML, consulte um desenvolvedor da Web.

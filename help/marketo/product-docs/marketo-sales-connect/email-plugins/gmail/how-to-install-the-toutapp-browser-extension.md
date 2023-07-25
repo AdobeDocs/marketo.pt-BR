@@ -1,18 +1,19 @@
 ---
 unique-page-id: 14352450
-description: Como instalar a extensão do navegador ToutApp - Documentos do Marketo - Documentação do produto
-title: Como instalar a extensão do navegador ToutApp
+description: Como instalar a extensão do navegador ToutApp - Documentação do Marketo - Documentação do produto
+title: Como instalar a extensão ToutApp Browser
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Como instalar a extensão do navegador ToutApp {#how-to-install-the-toutapp-browser-extension}
+# Como instalar a extensão ToutApp Browser {#how-to-install-the-toutapp-browser-extension}
 
-1. Clique em **Configurações** no [aplicação web](https://toutapp.com/next#settings).
+1. Clique em **Configurações** no [aplicativo web](https://toutapp.com/next#settings).
 
 1. Em Minha conta, clique em **Configurações de email**.
 

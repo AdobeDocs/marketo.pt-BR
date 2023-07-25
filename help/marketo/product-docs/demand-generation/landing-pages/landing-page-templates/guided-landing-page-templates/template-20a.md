@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10092905
-description: Modelo 20A - Documentos do Marketo - Documentação do produto
+description: Modelo 20A - Documentação do Marketo - Documentação do produto
 title: Modelo 20A
 exl-id: 0a535a43-c7c4-4a07-8562-da85ed4b8d5d
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Modelo 20A {#template-20a}
 
-Clique com o botão direito do mouse em para [modelo de download 20A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
+Clique com o botão direito do mouse para [baixar modelo 20A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
 Esse template inclui o seguinte conteúdo:
 
-* Uma seção primária
+* Uma seção principal
 
-   * inclui o título do herói e o texto do herói
+   * inclui título e texto herói
 
-* Quatro seções de corpo (opcional)
+* Quatro seções do corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

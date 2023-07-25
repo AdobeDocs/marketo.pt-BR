@@ -1,47 +1,48 @@
 ---
 unique-page-id: 1147053
-description: Abortar uma campanha inteligente - Documentos do Marketo - Documentação do produto
-title: Abortar uma campanha inteligente
+description: Anular uma campanha inteligente - Documentação do Marketo - Documentação do produto
+title: Anular uma campanha inteligente
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
-source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-# Abortar uma campanha inteligente {#abort-a-smart-campaign}
+# Anular uma campanha inteligente {#abort-a-smart-campaign}
 
 >[!CAUTION]
 >
->Apenas para utilização em situações de emergência
+>Apenas para uso de emergência
 
-Às vezes, você inicia uma Campanha Inteligente e imediatamente percebe que foi um erro. Aqui está como puxar o freio de emergência e parar a campanha inteligente no meio da corrida.
+Às vezes, você inicia uma Campanha Inteligente e percebe imediatamente que foi um erro. Aqui está como puxar o freio de emergência e parar a Campanha Inteligente no meio do percurso.
 
-1. Escolha a Campanha Inteligente desejada e clique no botão **Agendar** guia .
+1. Escolha a Campanha inteligente desejada e clique no link **Agendar** guia.
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. Clique no botão **Ações da campanha** lista suspensa. Selecionar **Abortar campanha**.
+1. Clique em **Ações da campanha** menu suspenso. Selecionar **Anular campanha**.
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. Clique em **Abortar** para confirmar.
+1. Clique em **Anular** para confirmar.
 
    ![](assets/abort-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
-   >Abortar não desfaz as etapas já concluídas, apenas impede que mais aconteçam (por exemplo: emails não podem ser desentregues).
+   >A anulação não desfaz etapas já concluídas, apenas impede que mais etapas ocorram (por exemplo: os emails não podem ser entregues de forma cancelada).
 
    ![](assets/abort-a-smart-campaign-4.png)
 
    >[!NOTE]
    >
-   >Dê uma olhada no **Resultados** da Campanha inteligente para ver quais ações ocorreram antes da interrupção. Você também encontrará um  [notificação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) com detalhes adicionais.
+   >Dê uma olhada no **Resultados** da Campanha inteligente para ver quais ações ocorreram antes da anulação. Você também encontrará uma  [notificação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) com detalhes adicionais.
 
    >[!TIP]
    >
-   >Deseja remover uma pessoa do fluxo em uma campanha acionadora? Veja [Remover do Fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >Deseja remover uma pessoa do fluxo em uma campanha de acionador? Confira [Remover do fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
-Verifique sempre o seu trabalho, mas este travão de emergência poderá vir a ser útil no futuro.
+Sempre verifique o seu trabalho, mas este freio de emergência pode vir a ser útil no futuro.

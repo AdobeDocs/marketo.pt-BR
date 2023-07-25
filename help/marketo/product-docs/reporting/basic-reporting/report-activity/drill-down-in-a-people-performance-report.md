@@ -1,20 +1,21 @@
 ---
 unique-page-id: 2360035
-description: Detalhar em um Relatório de desempenho de pessoas - Documentos do Marketo - Documentação do produto
-title: Detalhar em um Relatório de desempenho de pessoas
+description: Detalhamento em um Relatório de desempenho de pessoas - Documentação do Marketo - Documentação do produto
+title: Detalhar um Relatório de Desempenho de Pessoas
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 1%
 
 ---
 
-# Detalhar em um Relatório de desempenho de pessoas {#drill-down-in-a-people-performance-report}
+# Detalhar um Relatório de Desempenho de Pessoas {#drill-down-in-a-people-performance-report}
 
-Detalhe em um Relatório de desempenho de pessoas para ver informações de pessoas adicionais.
+Detalhe um Relatório de Desempenho de Pessoas para ver informações adicionais sobre pessoas.
 
-1. Clique no botão **Relatório** para exibir qualquer relatório existente.
+1. Clique em **Relatório** para exibir qualquer relatório existente.
 
    ![](assets/one.png)
 
@@ -26,18 +27,18 @@ Detalhe em um Relatório de desempenho de pessoas para ver informações de pess
 
    ![](assets/three.png)
 
-1. No **Drill-Down** selecione o atributo que deseja detalhar. Em seguida, clique em **Drill-Down**.
+1. No **Drill-Down** selecione o atributo que deseja detalhar. Clique em **Drill-Down**.
 
    ![](assets/four.png)
 
-1. Muito bem! O relatório detalhado será aberto em uma nova guia. Agora você pode explorar o novo relatório.
+1. Excelente trabalho! O relatório detalhado será aberto em uma nova guia. Agora você pode explorar o novo relatório.
 
    >[!TIP]
    >
-   >Se você não vir uma nova guia de relatório aberta, seu navegador pode estar bloqueando pop-ups. Altere as configurações do navegador para permitir isso.
+   >Se você não visualizar uma nova guia de relatório aberta, seu navegador pode estar bloqueando pop-ups. Altere as configurações do navegador para permitir.
 
    ![](assets/five.png)
 
-1. Para salvar os resultados (opcional), clique no botão **Exportar** ícone na parte inferior esquerda.
+1. Para salvar os resultados (opcional), clique no link **Exportar** no canto inferior esquerdo.
 
    ![](assets/six.png)

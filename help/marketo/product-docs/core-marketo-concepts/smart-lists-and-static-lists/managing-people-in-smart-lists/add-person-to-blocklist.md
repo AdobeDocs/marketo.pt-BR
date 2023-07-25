@@ -1,24 +1,25 @@
 ---
 unique-page-id: 9438139
-description: Adicionar pessoa ao Lista de bloqueios - Documentos da Marketo - Documentação do produto
-title: Adicionar Pessoa à  Lista de bloqueios
+description: Adicionar pessoa ao Incluo na lista de bloqueios - Documentação do Marketo - Documentação do produto
+title: Adicionar pessoa à Inclui na lista de bloqueios
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-# Adicionar Pessoa à  Lista de bloqueios {#add-person-to-blocklist}
+# Adicionar pessoa à Inclui na lista de bloqueios {#add-person-to-blocklist}
 
-Adicionar pessoas à sua Lista de bloqueios impede que elas recebam sua correspondência.
+Adicionar pessoas à sua Inclui na lista de bloqueios as impede de receber sua correspondência.
 
 >[!NOTE]
 >
->A Marketo está mudando termos como Blacklist e Whitelist para Lista de bloqueios e Lista de permissões em nosso produto. Durante essa atualização, você pode ver os termos antigos em nossa interface do usuário e capturas de tela da documentação, bem como os novos termos em nosso texto de documentação. Pedimos desculpas por qualquer confusão.
+>A Marketo está mudando termos como lista negra e lista de permissões para Incluir na lista de bloqueios e Incluir na lista de permissões em nosso produto. Durante essa atualização, você pode ver os termos antigos em nossa interface do usuário e capturas de tela da documentação, e os novos termos em nosso texto de documentação. Pedimos desculpas por qualquer confusão.
 
-1. [Criar um novo programa padrão](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) e nomeá-lo **Adicionar à  Lista de bloqueios**.
+1. [Criar um novo programa padrão](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) e nomeie-o **Adicionar à Inclui na lista de bloqueios**.
 
 1. Clique em **Novo** e selecione **Novo ativo local**.
 
@@ -28,23 +29,23 @@ Adicionar pessoas à sua Lista de bloqueios impede que elas recebam sua correspo
 
    ![](assets/image2015-8-14-11-3a2-3a26.png)
 
-1. Adicionar todas as pessoas à sua **Lista inteligente** você deseja adicioná-lo à sua Lista de bloqueios.
+1. Adicione todas as pessoas ao seu **Lista inteligente** que você deseja adicionar ao seu Incluo na lista de bloqueios.
 
    >[!NOTE]
    >
-   >As pessoas na sua Lista de bloqueios não receberão emails operacionais.
+   >As pessoas na sua Inclui na lista de bloqueios não receberão emails operacionais.
 
    ![](assets/three-6.png)
 
-1. Clique em **Novo** e selecione **Nova Campanha Inteligente**.
+1. Clique em **Novo** e selecione **Nova campanha inteligente**.
 
    ![](assets/image2015-8-14-11-3a12-3a35.png)
 
-1. Nomeie a função **Nova Campanha Inteligente**. Clique em **Criar**.
+1. Nomeie o **Nova campanha inteligente**. Clique em **Criar**.
 
    ![](assets/image2015-8-14-11-3a13-3a36.png)
 
-1. Arrastar e soltar **Membro da Smart List**.
+1. Arrastar e soltar **Membro da lista inteligente**.
 
    ![](assets/image2015-8-14-11-3a16-3a34.png)
 
@@ -52,15 +53,15 @@ Adicionar pessoas à sua Lista de bloqueios impede que elas recebam sua correspo
 
    ![](assets/image2015-8-14-11-3a17-3a5.png)
 
-1. Arrastar e soltar **Alterar valor de dados**.
+1. Arrastar e soltar **Alterar valor dos dados**.
 
    ![](assets/image2015-8-14-11-3a18-3a41.png)
 
-1. Para o **Fluxo**, insira **Bloqueio listado** para **Atributo** e definir **Novo valor** para **true**.
+1. Para o **Fluxo**, insira **Bloco listado** para o **Atributo** e defina **Novo Valor** para **true**.
 
    ![](assets/image2015-8-14-11-3a21-3a1.png)
 
-1. No **Agendar** guia , selecione **Executar uma vez**.
+1. No **Agendar** selecione **Executar uma vez**.
 
    ![](assets/ten.png)
 
@@ -68,8 +69,8 @@ Adicionar pessoas à sua Lista de bloqueios impede que elas recebam sua correspo
 
    ![](assets/image2015-8-14-11-3a24-3a50.png)
 
-   YAY! Essas pessoas não receberão mais emails.
+   É! Essas pessoas não receberão mais emails.
 
    >[!TIP]
    >
-   >Crie um [acionar campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) usar **Alterar valor de dados** com **Bloqueio Listado é verdadeiro** para todas as pessoas no futuro que tenham atributos com capacidade de  lista de bloqueios.
+   >Criar um [acionar campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) usar **Alterar valor dos dados** com **Bloco listado é verdadeiro** para todas as pessoas no futuro que tiverem atributos habilitados para inclui na lista de bloqueios.

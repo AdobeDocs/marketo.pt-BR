@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437559
-description: Modelo 11B - Documentos do Marketo - Documentação do produto
+description: Modelo 11B - Documentação do Marketo - Documentação do produto
 title: Modelo 11B
 exl-id: 5ea47f4a-b0a3-41ba-8066-b1469ae2b3c9
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -12,18 +13,18 @@ ht-degree: 0%
 
 # Modelo 11B {#template-11b}
 
-Clique com o botão direito do mouse em para [baixar modelo 11B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
+Clique com o botão direito do mouse para [baixar Modelo 11B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
 
 ![](assets/image2015-8-4-11-3a2-3a54.png)
 
 Esse template inclui o seguinte conteúdo:
 
 * Um cabeçalho (opcional)
-* Uma seção primária
+* Uma seção principal
 
-   * inclui título de herói, texto de herói e imagem de herói
+   * inclui título herói, texto herói e imagem herói
 
-* Quatro seções de corpo (opcional)
+* Quatro seções do corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

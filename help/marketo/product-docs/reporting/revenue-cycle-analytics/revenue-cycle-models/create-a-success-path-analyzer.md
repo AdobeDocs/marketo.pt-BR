@@ -1,36 +1,37 @@
 ---
 unique-page-id: 2360411
-description: Criar um Analisador de caminho de sucesso - Documentos do Marketo - Documentação do produto
-title: Criar um Analisador de caminho bem-sucedido
+description: Criar um Analisador de caminho de sucesso - Documentação do Marketo - Documentação do produto
+title: Criar um Analisador de caminho de sucesso
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# Criar um Analisador de caminho bem-sucedido {#create-a-success-path-analyzer}
+# Criar um Analisador de caminho de sucesso {#create-a-success-path-analyzer}
 
-Obtenha uma representação visual da velocidade e flua pelo seu Modelo de ciclo de receita.
+Obtenha uma representação visual da velocidade e do fluxo em seu modelo de ciclo de receita.
 
 >[!PREREQUISITES]
 >
 >[Criar um novo modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-1. Clique no botão **Analytics** mosaico.
+1. Clique em **Analytics** bloco.
 
    ![](assets/one.png)
 
-1. Clique no botão **Analisador de caminho bem-sucedido** ícone .
+1. Clique em **Analisador de caminho de sucesso** ícone.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Se você receber um aviso de que nenhum dado foi encontrado no intervalo de tempo especificado, basta clicar em **Fechar** para alterar seu intervalo de tempo. Se você não for solicitado, mas quiser alterar seu intervalo de tempo, acesse **Configuração** e clique duas vezes **Intervalo de tempo**.
+   >Se você receber um aviso de que nenhum dado foi encontrado no intervalo de tempo especificado, basta clicar em **Fechar** para alterar o intervalo de tempo. Se você não for solicitado, mas quiser alterar o intervalo de tempo, acesse **Configuração** e clique duas vezes em **Intervalo de tempo**.
 
-1. Se você não tiver dados ou estiver alterando seu intervalo de tempo, selecione um no menu suspenso e clique em Salvar.
+1. Se você não tiver dados ou estiver alterando o intervalo de tempo, selecione um na lista suspensa e clique em Salvar.
 
    ![](assets/timeframe.png)
 
@@ -38,7 +39,7 @@ Obtenha uma representação visual da velocidade e flua pelo seu Modelo de ciclo
    >
    >Para selecionar um intervalo específico, selecione **Personalizado** e use o **De** e **Para** campos.
 
-1. Se você tiver mais de um Modelo de Ciclo de Receita, selecione aquele que desejar no **Configuração** guia .
+1. Se você tiver mais de um Modelo de ciclo de receita, selecione aquele que você deseja na lista **Configuração** guia.
 
    ![](assets/four.png)
 
@@ -46,7 +47,7 @@ Obtenha uma representação visual da velocidade e flua pelo seu Modelo de ciclo
 
    ![](assets/five.png)
 
-1. Clique no botão **Analisador de caminho bem-sucedido** guia .
+1. Clique em **Analisador de caminho de sucesso** guia.
 
    ![](assets/success-tab.png)
 
@@ -54,7 +55,7 @@ Agora você pode explorar o movimento de cada estágio para o próximo!
 
 >[!TIP]
 >
->Quer salvar seu relatório? Clique no botão **Ações do Analyzer** e selecione **Salvar como**.
+>Quer salvar seu relatório? Clique em **Ações do analisador** e selecione **Salvar como**.
 
 >[!MORELIKETHIS]
 >

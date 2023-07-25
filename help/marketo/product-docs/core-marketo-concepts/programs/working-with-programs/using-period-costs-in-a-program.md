@@ -1,22 +1,23 @@
 ---
 unique-page-id: 1147118
-description: Uso dos custos do período em um programa - Documentos da Marketo - Documentação do produto
-title: Uso de Custos de Período em um Programa
+description: Uso de Custos do Período em um Programa - Marketo Docs - Documentação do Produto
+title: Usando Custos do Período em um Programa
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
-# Uso de Custos de Período em um Programa {#using-period-costs-in-a-program}
+# Usando Custos do Período em um Programa {#using-period-costs-in-a-program}
 
-A [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) é a quantia que você gastou em um programa. Pode ser por um ou mais meses e é usado para relatar o ROI.
+A [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) é o valor gasto em um programa. Pode ser por um ou mais meses e é usado para informar o ROI.
 
-## Adicionar um Custo de Período  {#add-a-period-cost}
+## Adicionar um Custo do Período  {#add-a-period-cost}
 
-1. Vá para o **Configuração** do seu programa.
+1. Vá para a **Configuração** do seu programa.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
@@ -28,11 +29,11 @@ A [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs/
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Insira um **Custo do Período** (sem decimais ou vírgulas). Clique em **Salvar**.
+1. Insira um **Custo do Período** (sem casas decimais ou vírgulas). Clique em **Salvar**.
 
    >[!NOTE]
    >
-   >Pode ser uma estimativa. Você sempre pode editar um custo de período depois de saber o valor exato (consulte a próxima seção).
+   >Isso pode ser uma estimativa. Você sempre pode editar o custo de um período depois de saber a quantidade exata (consulte a próxima seção).
 
    ![](assets/image2016-4-1-8-3a54-3a30.png)
 
@@ -42,13 +43,13 @@ A [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs/
 
    >[!TIP]
    >
-   >Você pode arrastar e soltar vários custos de período na tela. Isso permite atribuir vários meses com custos de período diferentes ao programa.
+   >Você pode arrastar e soltar vários custos do período na tela. Isso permite que você atribua vários meses com custos de período diferentes ao seu programa.
 
-## Editar um Custo de Período {#edit-a-period-cost}
+## Editar um Custo do Período {#edit-a-period-cost}
 
-1. Se você gastar mais ou menos dinheiro do que o inicialmente projetado, poderá editar o custo do período.
+1. Se você gastar mais ou menos dinheiro do que o projetado originalmente, poderá editar o custo do período.
 
-1. Vá para o **Configuração** do seu programa.
+1. Vá para a **Configuração** do seu programa.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
@@ -60,9 +61,9 @@ A [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs/
 
    ![](assets/image2014-9-18-14-3a3-3a41.png)
 
-## Excluir um Custo de Período {#delete-a-period-cost}
+## Excluir um Custo do Período {#delete-a-period-cost}
 
-1. Vá para o **Configuração** do seu programa.
+1. Vá para a **Configuração** do seu programa.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
@@ -76,6 +77,5 @@ A [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs/
 
 >[!MORELIKETHIS]
 >
->* [Noções básicas sobre custos de período](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
->* [Filtrar um Relatório de Programa por Custo de Período](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
+>* [Noções Básicas sobre Custos do Período](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
+>* [Filtrar um Relatório de Programa por Custo do Período](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)

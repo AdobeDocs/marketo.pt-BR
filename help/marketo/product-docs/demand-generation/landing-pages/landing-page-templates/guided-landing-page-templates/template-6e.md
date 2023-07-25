@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8783938
-description: Modelo 6E - Documentos do Marketo - Documentação do produto
+description: Modelo 6E - Documentação do Marketo - Documentação do produto
 title: Modelo 6E
 exl-id: 5b02bc9e-9c8c-4255-a339-81d90cf116aa
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Modelo 6E {#template-6e}
 
-Clique com o botão direito do mouse em para [modelo de download 6E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html)
+Clique com o botão direito do mouse para [baixar modelo 6E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html)
 
 ![](assets/image2015-7-29-14-3a8-3a54.png)
 
 Esse template inclui o seguinte conteúdo:
 
-* Uma seção primária
+* Uma seção principal
 
-   * inclui a imagem e o botão do herói.
+   * inclui imagem herói e botão.
 
-* Quatro seções de corpo (opcional)
+* Quatro seções do corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

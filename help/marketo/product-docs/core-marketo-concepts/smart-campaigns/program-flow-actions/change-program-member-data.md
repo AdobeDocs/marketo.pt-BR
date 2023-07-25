@@ -1,8 +1,9 @@
 ---
-description: Alterar dados do membro do programa - Documentos do Marketo - Documentação do produto
+description: Alterar dados dos membros do programa - Documentação do Marketo - Documentação do produto
 title: Alterar dados dos membros do programa
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 5%
@@ -11,21 +12,21 @@ ht-degree: 5%
 
 # Alterar dados dos membros do programa {#change-program-member-data}
 
-Você pode usar o Marketo para atualizar o valor de um campo utilizando a ação de fluxo Alterar valor de dados .
+Você pode usar o Marketo para atualizar o valor de um campo utilizando a ação de fluxo Alterar valor dos dados.
 
 >[!NOTE]
 >
 >Também é possível bloquear a atualização de um campo. Consulte Bloquear atualizações de um campo para obter detalhes.
 
-1. Na guia Fluxo da Campanha inteligente , substitua o **Alterar Dados do Membro do Programa** etapa de fluxo e escolha o programa desejado.
+1. Na guia Fluxo do Smart Campaign, passe o **Alterar dados dos membros do programa** e escolha o programa desejado.
 
    ![](assets/change-program-member-data-1.png)
 
-1. Localize e selecione o atributo que deseja alterar o valor de.
+1. Localize e selecione o atributo do qual deseja alterar o valor.
 
    ![](assets/change-program-member-data-2.png)
 
-1. Insira o valor do Atributo desejado.
+1. Informe o valor do Atributo desejado.
 
    ![](assets/change-program-member-data-3.png)
 
@@ -33,14 +34,13 @@ Você pode usar o Marketo para atualizar o valor de um campo utilizando a ação
 >
 >Também é possível usar tokens em Novo valor.
 
-Agora, execute a Campanha inteligente e termine!
+Agora basta executar a Campanha Inteligente e pronto!
 
 >[!TIP]
 >
->Se quiser limpar os campos, em vez de atualizá-los, você pode inserir &quot;NULL&quot; (sem aspas, todas maiúsculas) como o Novo valor.
+>Se desejar limpar os campos em vez de atualizá-los, você pode informar &quot;NULL&quot; (sem aspas, todas em maiúsculas) como o Novo valor.
 
 >[!MORELIKETHIS]
 >
->* [Usar tokens em etapas do fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
+>* [Usar tokens em etapas de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
 >* [Anexar dados a um campo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
-

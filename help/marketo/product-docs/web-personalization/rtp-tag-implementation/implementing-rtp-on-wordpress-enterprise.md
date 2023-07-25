@@ -1,22 +1,23 @@
 ---
 unique-page-id: 4720215
-description: Implementação da RTP no Wordpress Enterprise - Documentos do Marketo - Documentação do produto
-title: Implementação da RTP na Wordpress Enterprise
+description: Implementação do RTP no Wordpress Enterprise - Documentação do Marketo - Documentação do produto
+title: Implementação do RTP no Wordpress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-# Implementação da RTP na Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
+# Implementação do RTP no Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
 Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
 1. Ir para **Configurações da conta**.
 
-   a. Se você já recebeu sua tag JavaScript do Suporte - continue para a etapa 3.
+   a. Se você já tiver recebido a tag JavaScript do Suporte - continue para a etapa 3.
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
@@ -24,12 +25,12 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
-1. Copie a tag do JavaScript RTP.
+1. Copie a tag JavaScript RTP.
 
-1. Faça logon em sua conta do WordPress como usuário administrador
+1. Faça logon na sua conta do WordPress como usuário administrador
 
-   a. Em **Aparência**, vá para **JavaScript personalizado**.
-b. Cole a tag do Javascript RTP logo após o código existente.
+   a. No **Aparência**, vá para **JavaScript personalizado**.
+b. Cole a tag RTP Javascript logo após o código existente.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
 
@@ -41,8 +42,7 @@ b. Cole a tag do Javascript RTP logo após o código existente.
    >* `<script type='text/javascript'>`
    >* `</script>`
    >* `<!-- End of RTP tag -->`
-
    >
-   >Insira o script SOMENTE.
+   >Insira SOMENTE o próprio script.
 
 1. Clique em **Atualizar**.

@@ -1,30 +1,32 @@
 ---
-description: Notas de versão - outubro de 2022 - Documentação da Marketo - Documentação do produto
+description: Notas de versão - outubro de 2022 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - outubro de 2022
-source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
+exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 5%
 
 ---
 
-# Notas de versão: Outubro de 2022 {#release-notes-oct-22}
+# Notas de versão: outubro de 2022 {#release-notes-oct-22}
 
-Abaixo você encontrará todos os recursos incluídos na versão de 22 de outubro. Verifique sua edição do Adobe Marketo Engage para ver a disponibilidade dos recursos.
+Abaixo você encontrará todos os recursos incluídos na versão de outubro de 2022. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
 
 >[!AVAILABILITY]
 >
->Recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante de Marketo Engage para saber mais.
+>Recursos indicados por uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
 
-## Recursos do ciclo de versão padrão {#standard-release-cycle-features}
+## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser lançados em **14 de outubro de 2022**, com uma distribuição em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status abaixo de cada recurso.
+Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **14 de outubro de 2022**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique abaixo cada recurso para obter seu status.
 
 ### Ambiente de dados de marketing {#marketing-data-environment}
 
 </br>
 
-* **Sincronização de Campo Personalizado do Membro do Programa**: Capacidade de sincronizar bidirecionalmente campos extensíveis capturados para um membro do programa (por exemplo, preferências do participante durante o registro do evento, como comida, sessões, faixas etc.) com Campos do Membro do Campaign no Salesforce.
+* **Sincronização de Campo Personalizado de Membro do Programa**: capacidade de sincronizar bidirecionalmente campos extensíveis capturados para um membro do programa (por exemplo, preferências do participante durante o registro do evento, como comida, sessões, controles etc.) com campos de membro do Campaign no Salesforce.
 
 <table> 
   <tr> 
@@ -33,12 +35,12 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronização de Campo Personalizado do Membro do Programa</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronização de Campo Personalizado de Membro do Programa</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Integração do Adobe Privacy Service**: Faça a harmonização com o Privacy Service para automatizar a conformidade com as regulamentações de privacidade de dados em produtos de Experience Cloud. Atualmente, esse serviço está disponível somente para clientes do Marketo Engage que se conectaram ao Adobe Identity Management System.
+* **Integração de Privacy Service Adobe**: Harmonize com o Privacy Service para automatizar a conformidade com as regulamentações de privacidade de dados em produtos Experience Cloud. Atualmente, esse serviço está disponível apenas para clientes do Marketo Engage que integraram ao sistema Adobe Identity Management.
 
 <table> 
   <tr> 
@@ -56,9 +58,9 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
 
 </br>
 
-* **Telas atualizadas na experiência de próxima geração**: Estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração que oferecem melhorias atualizadas de design e usabilidade acessíveis por meio do switch de alternância:
+* **Telas atualizadas na experiência da próxima geração**: estamos fornecendo telas adicionais e atualizadas na experiência de última geração que oferecem um design atualizado e melhorias de usabilidade acessíveis por meio de uma chave de alternância:
 
-   * Detalhes do modelo da página de aterrissagem
+   * Detalhes do modelo de landing page
    * Lista de modelos de email
 
 <table> 
@@ -68,12 +70,12 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Alternar Switch</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Alternar alternância</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Aprimorado usado por guia em Detalhes do modelo de email**: Na nova experiência, você verá informações adicionais relacionadas aos ativos usando o modelo de email, incluindo Status do ativo, Última modificação e Última modificação por. Também é possível pesquisar, classificar e filtrar a lista de ativos usados por ativos.
+* **Aprimorado Usado pela guia em Detalhes do modelo de email**: na nova experiência do, você verá informações adicionais relacionadas aos ativos que usam o modelo de email, incluindo Status do ativo, Última modificação e Última modificação por. Também é possível pesquisar, classificar e filtrar a lista de usados por ativos.
 
 <table> 
   <tr> 
@@ -87,7 +89,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tbody>
 </table>
 
-* **Modos de Filtro de Ativo de Relatório**: Novo design para modais de configuração de relatório que exibem uma nova árvore de ativos no menu de configuração e um filtro para Data de criação e modificação.
+* **Relatar Modais de Filtro de Ativos**: Novo design para modelos de configuração de relatório que exibem uma nova árvore de ativos no menu de configuração e um filtro para Data de criação e modificação.
 
 <table> 
   <tr> 
@@ -101,11 +103,11 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tbody>
 </table>
 
-### Melhorias da API {#api-enhancements}
+### Aprimoramentos na API {#api-enhancements}
 
 </br>
 
-* **Importação de leads em massa: Associação de Vendedores**: Paridade com a API REST de lead para poder associar leads com vendedores durante o processo de importação de lead em massa, reduzindo a complexidade e o número de chamadas de API necessárias.
+* **Importação de Cliente Potencial em Massa: Associação de Vendedor**: paridade com a API REST do cliente potencial para associar clientes potenciais a vendedores durante o processo de importação de clientes potenciais em massa, reduzindo a complexidade e o número de chamadas de API necessárias.
 
 <table> 
   <tr> 
@@ -125,7 +127,7 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
 
 ![(estrela)](assets/yellow-star.png)
 
-* **Integração de informações de vendas com o bate-papo dinâmico**: O Painel de insights agora inclui atividades de Bate-papo dinâmico na Grade inteligente, juntamente com um resumo semanal e cartões de detalhes.
+* **Integração do Sales Insight com o Dynamic Chat**: o Painel de insights agora inclui atividades do Dynamic Chat na Grade inteligente, juntamente com um resumo semanal e cartões de detalhes.
 
 <table> 
   <tr> 
@@ -139,11 +141,11 @@ Os seguintes recursos estão no ciclo de lançamento padrão e começarão a ser
   </tbody>
 </table>
 
-## Recursos da versão ágil
+## Recursos da versão Agile
 
-Os seguintes recursos seguem um formato Ágil e são lançados em várias datas, antes ou depois da data de lançamento padrão. Verifique o status abaixo de cada recurso.
+Os seguintes recursos seguem um formato Agile e são lançados em várias datas antes ou depois da data de lançamento padrão. Verifique abaixo cada recurso para obter seu status.
 
-* **Organizar automaticamente fluxos de diálogo para bate-papo dinâmico**: Melhore sua tela de diálogo lotada organizando tudo na tela em um formato limpo e fácil de ler com a impressão de um botão por meio da Auto Arrange.
+* **Organizar fluxos de diálogo automaticamente para o Dynamic Chat**: Melhore sua tela de diálogo lotada, organizando tudo na tela em um formato limpo e fácil de ler com o pressionamento de um botão por meio da opção Organizar automaticamente.
 
 <table> 
   <tr> 
@@ -157,7 +159,7 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
   </tbody>
 </table>
 
-* **Links de reunião para bate-papo dinâmico**: Opção para incluir automaticamente um link de Equipes ou Encontrar para Google e Outlook em cada convite de calendário enviado para visitantes.
+* **Links de Reunião para Dynamic Chat**: opção para incluir automaticamente um link de Equipes ou Reunião para o Google e Outlook em cada convite de calendário enviado aos visitantes.
 
 <table> 
   <tr> 
@@ -171,7 +173,7 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
   </tbody>
 </table>
 
-* **Suporte a tipos de dados adicionais para o Dynamic Chat**: Três novos tipos de dados (booleano, inteiro, flutuante) permitem aproveitar mais campos de Marketo Engage existentes no Dynamic Chat para coisas como direcionamento com base em pontuações ou fazer perguntas de sim/não aos visitantes.
+* **Suporte a tipos de dados adicionais para Dynamic Chat**: três novos tipos de dados (booleano, inteiro, flutuante) permitem que você aproveite mais campos de Marketo Engage existentes no Dynamic Chat para coisas como direcionamento com base em pontuações ou fazer perguntas aos visitantes sim/não.
 
 <table> 
   <tr> 
@@ -187,6 +189,6 @@ Os seguintes recursos seguem um formato Ágil e são lançados em várias datas,
 
 ## Anúncios {#announcements}
 
-* **Forms 1.0**: A desativação do Forms 1.0 será concluída com a versão de outubro. Os ativos do Forms 1.0 não poderão mais enviar dados para o Marketo Engage e retornarão erros se tentarem.
+* **Forms 1.0**: a desativação do Forms 1.0 será concluída com a versão de outubro. Os ativos do Forms 1.0 não poderão mais enviar dados para o Marketo Engage e retornarão erros se forem tentados.
 
-* **Forms sem script**: O Forms não funcionará mais quando o Javascript estiver desativado no navegador. O envio de formulário exigirá a ativação do Javascript.
+* **Sem Script Forms**: o Forms não funcionará mais quando o Javascript estiver desativado no navegador. O envio do formulário exigirá que o Javascript esteja habilitado.

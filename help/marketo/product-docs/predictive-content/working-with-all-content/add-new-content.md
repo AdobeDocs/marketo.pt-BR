@@ -3,7 +3,8 @@ unique-page-id: 11384651
 description: Adicionar novo conteúdo - Documentação do Marketo - Documentação do produto
 title: Adicionar novo conteúdo
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 6%
@@ -12,17 +13,17 @@ ht-degree: 6%
 
 # Adicionar novo conteúdo {#add-new-content}
 
-Você pode adicionar conteúdo manualmente com facilidade à página Todo o conteúdo .
+É possível adicionar conteúdo manualmente à página Todo o conteúdo com facilidade.
 
-1. Clique no botão **Adicionar conteúdo** e selecione **Adicionar conteúdo**.
+1. Clique em **Adicionar conteúdo** e selecione **Adicionar conteúdo**.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
-1. Insira um título e URL, e um URL de imagem, se necessário.
+1. Insira um título e um URL, além de um URL de imagem, se necessário.
 
    ![](assets/add-new-content-updated-pencils.png)
 
-1. Para adicionar categorias, clique no campo e selecione no menu suspenso .
+1. Para adicionar categorias, clique no campo e selecione no menu suspenso.
 
    ![](assets/add-new-content-categories-updated-hands.png)
 

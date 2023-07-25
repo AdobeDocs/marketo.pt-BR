@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10092896
-description: Modelo 19C - Documentos do Marketo - Documentação do produto
+description: Modelo 19C - Documentação do Marketo - Documentação do produto
 title: Modelo 19C
 exl-id: 9f518caf-2270-46d8-b9ce-3b11b10af338
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Modelo 19C {#template-19c}
 
-Clique com o botão direito do mouse em para [modelo de download 19C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
+Clique com o botão direito do mouse para [baixar modelo 19C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
 Esse template inclui o seguinte conteúdo:
 
-* Uma seção primária
+* Uma seção principal
 
    * inclui título de herói, texto de herói, pesquisa de herói
 
-* Cinco seções do corpo (opcional)
+* Cinco seções de corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

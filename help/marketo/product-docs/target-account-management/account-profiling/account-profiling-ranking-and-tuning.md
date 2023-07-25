@@ -1,26 +1,27 @@
 ---
 unique-page-id: 15695924
-description: Classificação e ajuste do perfil da conta - Documentos do Marketo - Documentação do produto
-title: Classificação e ajuste do perfil da conta
+description: Classificação e ajuste do perfil da conta - Documentação do Marketo - Documentação do produto
+title: Classificação e ajuste da criação de perfil da conta
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 3%
 
 ---
 
-# Classificação e ajuste do perfil da conta {#account-profiling-ranking-and-tuning}
+# Classificação e ajuste da criação de perfil da conta {#account-profiling-ranking-and-tuning}
 
-A criação de perfil de conta identifica o ICP (Perfil do cliente ideal), classifica empresas no banco de dados com base no ICP e adiciona dados do indicador ICP a contas promovidas como contas nomeadas.
+O Account Profiling identifica o seu perfil de cliente ideal (ICP), classifica as empresas no seu banco de dados com base no ICP e adiciona os dados do indicador ICP às contas promovidas como contas nomeadas.
 
 ## Resultados do modelo {#model-results}
 
-Os resultados mostram todas as suas contas conhecidas detalhadas por grau. A é o grau mais alto, D é o mais baixo.
+Os resultados mostram todas as suas contas conhecidas detalhadas por nível. A é o grau mais alto, D é o mais baixo.
 
 ![](assets/results.png)
 
-Embora seja opcional, recomendamos marcar a caixa de seleção Promover automaticamente , pois isso economizará muito tempo. No entanto, se você quiser passar por cada conta e [adicioná-los manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), deixe a caixa desmarcada.
+Embora seja opcional, recomendamos marcar a caixa de seleção Promover automaticamente, pois economizará muito tempo. No entanto, se você quiser analisar cada conta e [adicioná-los manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), basta deixar a caixa desmarcada.
 
 <table> 
  <tbody> 
@@ -28,14 +29,14 @@ Embora seja opcional, recomendamos marcar a caixa de seleção Promover automati
    <td><strong>Categoria</strong></td> 
    <td> 
     <div>
-      Classificação da conta com base no Perfil ideal do cliente. A é o melhor ajuste, D é o menos adequado. 
+      Classificação da conta com base no Perfil de cliente ideal. A é o melhor ajuste, D é o menor ajuste. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Propensão</strong></td> 
    <td> 
     <div>
-      Aumento estimado na taxa de conversão em comparação com uma seleção de contas não baseada em ICP. 
+      Aumento estimado na taxa de conversão em comparação a uma seleção de contas não baseada em ICP. 
     </div></td> 
   </tr> 
   <tr> 
@@ -49,7 +50,7 @@ Embora seja opcional, recomendamos marcar a caixa de seleção Promover automati
    <td><strong>% de Base de Modelo</strong></td> 
    <td> 
     <div>
-      Porcentagem de contas com base em modelo que têm essa classificação. 
+      Porcentagem de contas na base de modelo que têm essa classificação. 
     </div></td> 
   </tr> 
  </tbody> 
@@ -73,35 +74,35 @@ Há várias guias para escolher, permitindo uma personalização detalhada.
    <td><strong>Conformidade</strong></td> 
    <td> 
     <div>
-      Certificações, posições relacionadas com a conformidade/contratação. 
+      Certificações, posições/contratação relacionadas à conformidade. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Operações</strong></td> 
    <td> 
     <div>
-      Posições/contratação relacionadas com operações. 
+      Posições/contratação relacionadas a operações. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>HR</strong></td> 
    <td> 
     <div>
-      Software de RH ou Folha de Pagamento, posições relacionadas com RH/contratação.
+      Software de RH ou Folha de Pagamento, posições/admissão relacionadas a RH.
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Engenharia</strong></td> 
    <td> 
     <div>
-      Tecnologias, quadros, posições relacionadas com a engenharia/contratação. 
+      Tecnologias, estruturas, cargos relacionados à engenharia/contratação. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Vendas</strong></td> 
    <td> 
     <div>
-      Soluções e software para vendas, posições relacionadas às vendas/contratação. 
+      Soluções e software para vendas, posições/contratações relacionadas a vendas. 
     </div></td> 
   </tr> 
   <tr> 
@@ -115,35 +116,35 @@ Há várias guias para escolher, permitindo uma personalização detalhada.
    <td><strong>IT</strong></td> 
    <td> 
     <div>
-      Soluções de hardware e software, tecnologias, posições relacionadas à TI/contratação.
+      Soluções de hardware e software, tecnologias, posições/contratações relacionadas à TI.
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Finanças</strong></td> 
    <td> 
     <div>
-      Software financeiro, posições financeiras/contratação. 
+      Software financeiro, posições/contratação relacionadas a finanças. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Marketing</strong></td> 
    <td> 
     <div>
-      Tecnologias e software de marketing, posições relacionadas ao marketing/contratação. 
+      Tecnologias de marketing e software, cargos/contratações relacionados a marketing. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Empresa</strong></td> 
    <td> 
     <div>
-      Listas da Forbes ou Inc. ou parcerias de negócios. 
+      Listagens da Forbes ou Inc ou parcerias comerciais. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Experiência e relações com o cliente</strong></td> 
    <td> 
     <div>
-      Posições/contratações de sucesso e relações com o cliente.
+      Posições/contratações de relações com o cliente e sucesso do cliente.
     </div></td> 
   </tr> 
  </tbody> 
@@ -157,7 +158,7 @@ Clique na lista suspensa Adicionar indicador ICP para inserir indicadores adicio
 
 ![](assets/add-icp.png)
 
-Marcar a caixa Exportar permite ver o indicador ICP na página Detalhes da conta nomeada, bem como usar o indicador ICP selecionado como restrições em [filtros de conta nomeados](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Marcar a caixa Exportar permite que você veja o indicador ICP na página Detalhes da conta nomeada, bem como usar o indicador ICP selecionado como restrições no [filtros de conta nomeados](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
@@ -165,14 +166,14 @@ Marcar a caixa Exportar permite ver o indicador ICP na página Detalhes da conta
 >
 >Os indicadores ICP são incluídos como restrições em **Membro da Conta Nomeada** Filtros e acionadores.
 
-Peso do indicador é o que controla o nível de importância que cada indicador recebe no modelo.
+Indicador Peso é o que controla o nível de importância que cada indicador recebe em seu modelo.
 
 ![](assets/weightage.png)
 
-Clique em Atualizar modelo para que essas alterações entrem em vigor.
+Clique em Refresh Model para que as alterações entrem em vigor.
 
 ![](assets/refresh-button.png)
 
-Quando terminar de ajustar o modelo (depois de atualizá-lo), volte para a guia Resultados do modelo e clique em **Salvar e aplicar classificações**.
+Quando terminar de ajustar o modelo (depois de atualizá-lo), volte para a guia Resultados do Modelo e clique em **Salvar e aplicar classificações**.
 
 ![](assets/ranks.png)

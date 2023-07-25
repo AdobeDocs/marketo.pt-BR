@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7512432
-description: Configuração do acesso por push para aplicativos móveis Android - Documentos do Marketo - Documentação do produto
+description: Configurar o acesso por push do Android para aplicativos móveis - Documentação do Marketo - Documentação do produto
 title: Configurar o acesso por push do Android para aplicativos móveis
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Configurar o acesso por push do Android para aplicativos móveis {#configure-mobile-app-android-push-access}
 
-1. Clique em **Administrador**.
+1. Clique em **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -30,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Você precisará de um **Chave da API do servidor** e **Número do projeto** do desenvolvedor de aplicativos móveis. O desenvolvedor as recebe fazendo logon no Console do desenvolvedor do Google Play para registrar seu aplicativo e ativar as mensagens em nuvem.
+   >Você precisará de um **Chave da API do servidor** e **Número do Projeto** do desenvolvedor de aplicativos móveis. O desenvolvedor recebe isso fazendo logon no Google Play Developer Console para registrar seu aplicativo e ativar as mensagens na nuvem.
 
 1. Insira a chave da API do servidor e o número do projeto. Clique em **Salvar**.
 

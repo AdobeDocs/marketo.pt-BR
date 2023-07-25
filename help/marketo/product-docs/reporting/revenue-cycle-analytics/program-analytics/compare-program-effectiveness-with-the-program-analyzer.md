@@ -1,48 +1,49 @@
 ---
 unique-page-id: 2360403
-description: Comparar a eficácia do programa com o Analisador de programas - Documentos da Marketo - Documentação do produto
-title: Comparar a eficácia do programa com o Analisador de programas
+description: Compare a eficácia do programa com o Analisador de programa - Documentação do Marketo - Documentação do produto
+title: Compare a eficácia do programa com o Analisador de programa
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
 
 ---
 
-# Comparar a eficácia do programa com o Analisador de programas {#compare-program-effectiveness-with-the-program-analyzer}
+# Compare a eficácia do programa com o Analisador de programa {#compare-program-effectiveness-with-the-program-analyzer}
 
 Use o Analisador de programas para identificar seus programas mais e menos eficazes, comparando os custos do programa, a aquisição de membros, o pipeline e a receita.
 
 >[!PREREQUISITES]
 >
->[Criar um analisador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Criar um analisador de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 1. Clique em **Analytics**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
-1. Selecione o Analisador de programas.
+1. Selecione o Analisador de programa.
 
    ![](assets/image2014-9-17-18-3a50-3a37.png)
 
-1. Altere a opção Exibir em Por Programa.
+1. Altere a exibição para Por programa.
 
    ![](assets/image2014-9-17-18-3a50-3a44.png)
 
-1. Use o Filtro de canal para reduzir a exibição para apenas um ou dois canais. Por enquanto, vamos olhar para programas no canal de feiras.
+1. Use o Filtro de canal para reduzir a exibição para apenas um ou dois canais. Por enquanto, observaremos os programas no canal Tradeshow.
 
    ![](assets/image2014-9-17-18-3a51-3a2.png)
 
    >[!TIP]
    >
-   >Uma maneira rápida de filtrar programas para apenas um canal é selecionar **Exibir** > **Por canal**, clique na bolha desse canal e, em seguida, clique no nome do canal na caixa de diálogo pop-up.
+   >Uma maneira rápida de filtrar programas para apenas um canal é selecionar **Exibir** > **Por canal**, clique na bolha desse canal e clique no nome do canal na caixa de diálogo pop-up.
 
-1. Use o menu suspenso Eixo X para escolher uma métrica para o eixo horizontal. Começaremos com o Custo do Programa.
+1. Use o menu suspenso Eixo X para escolher uma métrica para o eixo horizontal. Começaremos com o Custo do programa.
 
    ![](assets/image2014-9-17-18-3a52-3a16.png)
 
-1. Use o menu suspenso Eixo Y para escolher uma métrica para o eixo vertical. Vamos escolher Novos Nomes para encontrar programas que sejam bons em capturar novos leads.
+1. Use o menu suspenso Eixo Y para escolher uma métrica para o eixo vertical. Vamos escolher Novos nomes para encontrar programas que sejam bons em capturar novos leads.
 
    ![](assets/image2014-9-17-18-3a52-3a26.png)
 
@@ -52,37 +53,37 @@ Use o Analisador de programas para identificar seus programas mais e menos efica
 
    >[!TIP]
    >
-   >Você também pode tentar melhorar sua visualização mudando de uma escala linear para uma escala logarítmica, ou vice-versa. Use o **Escala** na parte superior.
+   >Você também pode tentar melhorar a visualização alterando de uma escala linear para logarítmica, ou vice-versa. Use o **Escala** na parte superior.
 
 1. Explore o gráfico resultante.
 
    ![](assets/image2014-9-17-18-3a53-3a49.png)
 
-   Em nosso exemplo, aprendemos que a Origami Expo é muito melhor do que todos os outros programas naquele canal, capturando novos nomes, e a um custo médio. Mas essa não é a história toda. Adicionaremos mais duas métricas para obter uma compreensão mais profunda.
+   Em nosso exemplo, aprendemos que a Origami Expo é muito melhor do que todos os outros programas nesse canal para capturar novos nomes, e a um custo médio. Mas essa não é a história toda. Adicionaremos mais duas métricas para obter uma compreensão mais profunda.
 
-1. Use o menu suspenso Tamanho da bolha para escolher uma métrica para comparar com o tamanho das bolhas. Escolheremos (FT) Receita vencedora para nosso exemplo.
+1. Use a lista suspensa Tamanho da bolha para escolher uma métrica para comparar pelo tamanho das bolhas. Escolheremos Receita Ganha (FT) como nosso exemplo.
 
    ![](assets/image2014-9-17-18-3a54-3a25.png)
 
    >[!NOTE]
    >
-   >Muitas das métricas que você pode escolher no analisador de programas estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante entender a variável [diferença entre atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Muitas das métricas que você pode escolher no analisador de programa estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante compreender a [diferença entre atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Observe que as bolhas mudam de tamanho no seu gráfico.
+1. Veja as bolhas mudarem de tamanho no gráfico.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   Ao adicionar **(FT) Ganho de Receita** Então vemos rapidamente que, enquanto a Expo de Origami adquiriu muitos novos nomes, resulta em uma receita relativamente baixa. Além disso, vemos que o programa Paper Fest 12 está recebendo menos nomes, mas nomes melhores, já que influencia mais ganhos de receita (bolha maior).
+   Ao adicionar **(FT) Receitas obtidas** No entanto, vemos rapidamente que, embora a Origami Expo tenha adquirido muitos nomes novos, isso resulta em relativamente pouca receita. Além disso, vemos que o programa Paper Fest 12 está recebendo menos, mas nomes melhores, já que influencia mais receita conquistada (bolha maior).
 
-1. Use o menu suspenso Cor para adicionar uma quarta métrica. Analisaremos a (FT) Receita para Investimento.
+1. Use o menu suspenso Cor para adicionar uma quarta métrica. Examinaremos a receita (FT) para investimento.
 
    ![](assets/image2014-9-17-18-3a55-3a33.png)
 
-1. Observe as cores mudarem no seu gráfico.
+1. Veja as cores mudarem no seu gráfico.
 
    ![](assets/image2014-9-17-18-3a55-3a47.png)
 
-Vemos que o programa Paper Fest 12 não só influencia mais receitas (bolha maior), como, apesar do seu custo relativamente elevado do programa (no lado mais direito), tem o melhor retorno para o investimento (bolha mais verde) de todos os programas do canal Tradicional.
+Vemos que o programa Paper Fest 12 não só influencia mais receita (bolha maior), mas, apesar de seu custo de programa relativamente alto (no lado direito), tem o melhor retorno ao investimento (bolha mais verde) de todos os programas no canal Tradeshow.
 
 >[!TIP]
 >
@@ -90,6 +91,5 @@ Vemos que o programa Paper Fest 12 não só influencia mais receitas (bolha maio
 
 >[!MORELIKETHIS]
 >
->* [Explore os detalhes do programa e do canal com o Analisador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Compare a eficácia do canal com o analisador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
-
+>* [Explore detalhes do programa e do canal com o Analisador de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Comparar a eficácia do canal com o Analisador de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)

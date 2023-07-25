@@ -1,8 +1,9 @@
 ---
-description: Gerenciar seu perfil - Documentação da Marketo - Documentação do produto
+description: Gerencie Seu Perfil - Documentação Do Marketo - Documentação Do Produto
 title: Gerenciar seu perfil
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 2%
@@ -11,11 +12,11 @@ ht-degree: 2%
 
 # Gerenciar seu perfil {#manage-your-profile}
 
-Na página Meu perfil, você pode atualizar seu nome, o idioma/localidade/fuso horário de sua conta e também alterar sua senha.
+Na página Meu perfil, você pode atualizar seu nome, o idioma/local/fuso horário de sua conta e também alterar sua senha.
 
 ## Detalhes da conta {#account-details}
 
-Aqui é onde você pode atualizar seu nome e/ou senha.
+Aqui você pode atualizar seu nome e/ou senha.
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
@@ -27,46 +28,46 @@ Aqui é onde você pode atualizar seu nome e/ou senha.
 
 >[!NOTE]
 >
->Seu endereço de email está definido para somente visualização. Se também precisar de alterações, entre em contato com [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Seu endereço de email está definido para exibição somente. Se você também precisar alterar isso, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-Também é possível alterar sua senha nesta seção. As etapas são descritas neste documento.
+Você também pode alterar sua senha nesta seção. As etapas são descritas neste documento.
 
 ## Suas integrações {#your-integrations}
 
-No lado direito da página, a seção Suas integrações fornece o status de todas as conexões da sua conta.
+No lado direito da página, a seção Suas integrações fornece o status de todas as conexões da conta.
 
 ![](assets/manage-your-profile-3.png)
 
 >[!NOTE]
 >
->Se você estiver usando o Exchange On Prem com Sales Connect, ele não atualizará as verificações de integridade da integração do Canal de entrega (item de primeira linha) ou Rastreamento de resposta (item de segunda linha). Estamos trabalhando para dar suporte a isso em uma versão futura.
+>Se você estiver usando o Exchange no local com o Sales Connect, ele não atualizará as verificações de integridade da integração do Canal de entrega (primeiro item de linha) ou do Rastreamento de resposta (segundo item de linha). Estamos trabalhando para oferecer suporte a isso em uma versão futura.
 
 ## Fuso horário {#time-zone}
 
-Veja como alterar o idioma, a localidade e/ou o fuso horário da sua conta.
+Veja como alterar o idioma, a localidade e/ou o fuso horário de sua conta.
 
 >[!NOTE]
 >
->Idiomas suportados: Inglês, Francês, Alemão, Japonês, Português, Espanhol.
+>Idiomas suportados: inglês, francês, alemão, japonês, português, espanhol.
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Para alterar seu idioma, clique no botão **Idioma** e faça sua escolha.
+1. Para alterar o idioma, clique no link **Idioma** e faça sua escolha.
 
    ![](assets/manage-your-profile-5.png)
 
-1. A localidade aqui se refere à região na qual esse idioma é falado. Clique no botão **Localidade** e faça sua escolha.
+1. Localidade aqui refere-se à região em que o idioma é falado. Clique em **Localidade** e faça sua escolha.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Clique no botão **Seu fuso horário** e faça sua escolha.
+1. Clique em **Seu fuso horário** e faça sua escolha.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Clique em **Salvar** quando concluído.
+1. Clique em **Salvar** quando terminar.
 
    ![](assets/manage-your-profile-8.png)
 
-Coma voilà!
+Et voilà!

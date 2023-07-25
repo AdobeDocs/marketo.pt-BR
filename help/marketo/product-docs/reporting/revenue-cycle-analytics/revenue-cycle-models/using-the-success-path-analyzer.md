@@ -1,9 +1,10 @@
 ---
 unique-page-id: 3571886
-description: Uso do Analisador de caminho de sucesso - Documentação da Marketo - Documentação do produto
+description: Uso do Analisador de caminho de sucesso - Documentação do Marketo - Documentação do produto
 title: Uso do Analisador de caminho de sucesso
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -12,27 +13,27 @@ ht-degree: 0%
 
 # Uso do Analisador de caminho de sucesso {#using-the-success-path-analyzer}
 
-Use o Analisador de caminho de sucesso para explorar os detalhes específicos que refletem o fluxo (quantidade) e a velocidade (velocidade, em termos de dias) das pessoas durante os estágios de seu [Modelo do ciclo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+Use um Analisador de caminho de sucesso para explorar os detalhes específicos que refletem o fluxo (quantidade) e a velocidade (velocidade, em termos de dias) das pessoas pelos estágios da sua [Modelo de ciclo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
->[Criar um Analisador de caminho bem-sucedido](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+>[Criar um Analisador de caminho de sucesso](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
-1. Ir para **Analytics** e selecione seu **Analisador de caminho bem-sucedido**.
+1. Ir para **Analytics** e selecione o **Analisador de caminho de sucesso**.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
-   O gráfico à direita reflete os dados no botão selecionado à esquerda. Por padrão, é Saldo.
+   O gráfico à direita reflete os dados no botão selecionado à esquerda. Por padrão, esse é Saldo.
 
-1. Clique em **Em fluxo** para registrar o número de pessoas que entraram no palco durante o período selecionado.
+1. Clique em **Fluxo de entrada** para gerar um gráfico de quantas pessoas entraram no estágio durante o período selecionado.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
-   * Clique em Fluxo de saída para criar um gráfico de quantas pessoas saíram do palco.
-   * Clique em Conv % para fazer o gráfico da taxa de conversão desta etapa para a próxima etapa.
-   * Clique em Tempo médio para ver quanto tempo as pessoas passaram neste estágio antes de passar para o próximo estágio.
+   * Clique em Fluxo de saída para criar um gráfico com o número de pessoas que saíram do estágio.
+   * Clique em Conv % para criar um gráfico da taxa de conversão desta fase para a próxima.
+   * Clique em Tempo Médio para ver quanto tempo as pessoas passaram nesse estágio antes de passar para o próximo estágio.
 
-1. Clique em **Ações do gráfico** > Comparar período para comparar os dados com um intervalo de tempo diferente e com comprimento igual.
+1. Clique em **Ações do gráfico** > Comparar Período para comparar os dados a um intervalo de tempo diferente de duração igual.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
@@ -40,7 +41,7 @@ Use o Analisador de caminho de sucesso para explorar os detalhes específicos qu
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   O **Para** é automaticamente definida para corresponder à duração do período original.
+   A variável **Para** A data é automaticamente definida para corresponder à duração do período original.
 
 1. Clique em **Comparar**.
 
@@ -50,21 +51,21 @@ Use o Analisador de caminho de sucesso para explorar os detalhes específicos qu
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Para alterar a escala de tempo do gráfico, clique em uma das **Gráfico por** botões: diariamente (padrão), semanalmente e mensalmente
+1. Para alterar a escala de tempo do gráfico, clique em uma das opções **Gráfico por** botões: diário (padrão), semanal e mensal
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Para palcos com SLAs (Service-Level Agreements, contratos de nível de serviço), clique em **Ações do gráfico** > **Mostrar SLA Vencido** para mostrar todas as pessoas que já perderam um destino de SLA dentro do intervalo de tempo especificado.
+1. Para estágios com SLAs (Contratos de nível de serviço), clique em **Ações do gráfico** > **Mostrar vencimento do SLA** para mostrar todas as pessoas que perderam um destino de SLA dentro do intervalo de tempo especificado.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
-1. O gráfico é atualizado para refletir quantos SLAs devem estar em cada nó, em laranja.
+1. O gráfico é atualizado para refletir quantos SLAs estavam vencidos em cada nó, em laranja.
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   As pessoas mostradas em laranja podem *ou podem não* ainda estará no estágio de SLA.
+   As pessoas mostradas em laranja podem *ou talvez não* ainda estar no estágio de SLA.
 
-1. Clique em **Ações do gráfico** > **Mostrar SLA Vencida** para mostrar todas as pessoas com alvos de SLA expirados que ainda estejam no estágio de SLA no final do período de tempo especificado.
+1. Clique em **Ações do gráfico** > **Mostrar SLA em Atraso** para mostrar todas as pessoas com metas de SLA expiradas que ainda estão no estágio de SLA no final do período especificado.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -80,4 +81,4 @@ Use o Analisador de caminho de sucesso para explorar os detalhes específicos qu
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
-O analisador está aqui para ajudá-lo a entender o movimento através do seu modelo. À medida que você se torna mais avançado, isso se tornará realmente importante para estrategizar seus esforços de marketing.
+O analisador está aqui para ajudá-lo a entender o movimento pelo seu modelo. À medida que você se torna mais avançado, isso se tornará realmente importante para criar estratégias de esforços de marketing.

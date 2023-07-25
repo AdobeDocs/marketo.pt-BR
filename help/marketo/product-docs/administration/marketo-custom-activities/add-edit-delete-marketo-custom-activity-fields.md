@@ -3,7 +3,8 @@ unique-page-id: 10100275
 description: Adicionar/Editar/Excluir Campos De Atividade Personalizados Do Marketo - Documentação Do Marketo - Documentação Do Produto
 title: Adicionar/Editar/Excluir campos de atividade personalizados do Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
+feature: Custom Activities
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%

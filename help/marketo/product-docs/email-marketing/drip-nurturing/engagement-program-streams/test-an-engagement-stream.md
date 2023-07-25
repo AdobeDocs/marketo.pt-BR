@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359839
-description: Teste um fluxo de envolvimento - Documentos do Marketo - Documentação do produto
+description: Testar um fluxo de engajamento - Documentação do Marketo - Documentação do produto
 title: Testar um fluxo de envolvimento
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 5%
@@ -12,13 +13,13 @@ ht-degree: 5%
 
 # Testar um fluxo de envolvimento {#test-an-engagement-stream}
 
-Depois de adicionar todo o conteúdo a um fluxo, você pode testá-los uma parte de cada vez.
+Depois de adicionar todo o conteúdo a um fluxo, você pode testá-los um pedaço por vez.
 
 1. Ir para **Atividades de marketing**.
 
    ![](assets/one.png)
 
-1. Selecione seu programa de envolvimento.
+1. Selecione seu programa de engajamento.
 
    ![](assets/two.png)
 
@@ -26,7 +27,7 @@ Depois de adicionar todo o conteúdo a um fluxo, você pode testá-los uma parte
 
    ![](assets/three.png)
 
-1. Selecione sua pessoa no **Pessoa de teste** lista suspensa. Lembre-se que o conteúdo será exibido, portanto, lembre-se disso ao escolher.
+1. Selecione sua pessoa na lista **Pessoa de teste** menu suspenso. Lembre-se, o conteúdo realmente será enviado, portanto, lembre-se disso ao escolher.
 
    ![](assets/four-rubix.png)
 
@@ -36,12 +37,12 @@ Depois de adicionar todo o conteúdo a um fluxo, você pode testá-los uma parte
 
    >[!TIP]
    >
-   >Se a pessoa de teste que você está procurando não existir, use o **Criar pessoa** para criar uma em tempo real.
+   >Se a pessoa de teste que você está procurando não existir, use o **Criar pessoa** opção para criar um em tempo real.
 
-   Clique em Fluxo inicial, selecione o fluxo que deseja testar e clique em Executar transmissão.
+   Clique em Initial Stream (Fluxo inicial), selecione o fluxo que deseja testar e clique em Run Cast (Executar conversão).
    ![](assets/five-rubiks.png)
 
-1. Depois que a pessoa passa pelo [regras de transição](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) Se tiver configurado anteriormente, clique no ícone Atualizar .
+1. Depois que a pessoa passa pelo [regras de transição](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) que você configurou anteriormente, clique no ícone Atualizar.
 
    ![](assets/six-rubiks.png)
 
@@ -53,4 +54,4 @@ Depois de adicionar todo o conteúdo a um fluxo, você pode testá-los uma parte
 
    >[!NOTE]
    >
-   >Nenhum outro conteúdo será enviado, a menos que você clique em **Executar Cast novamente**.
+   >Nenhum outro conteúdo será enviado, a menos que você clique em **Executar conversão novamente**.

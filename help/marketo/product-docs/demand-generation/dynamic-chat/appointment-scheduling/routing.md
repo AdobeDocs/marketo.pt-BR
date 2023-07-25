@@ -2,7 +2,8 @@
 description: Roteamento - Documentação do Marketo - Documentação do produto
 title: Roteamento
 exl-id: 9515c264-7d9b-4613-a245-15620c846a5c
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%
@@ -11,21 +12,21 @@ ht-degree: 1%
 
 # Roteamento {#routing}
 
-As reuniões reservadas no Dynamic Chat podem ser roteadas de duas maneiras. Arredondar o robin ou usar uma regra personalizada.
+As reuniões reservadas no Dynamic Chat podem ser encaminhadas de duas maneiras. Round robin ou usando uma regra personalizada.
 
-Round robin: As reuniões são atribuídas aos agentes sequencialmente. Então se você tem cinco agentes e o agente três tomou a última reunião, o agente quatro terá a próxima, seguido pelo agente cinco, e então de volta ao agente um.
+Round robin: as reuniões são atribuídas a agentes sequencialmente. Então, se você tiver cinco agentes e o agente três tiver realizado a última reunião, o agente quatro terá a próxima reunião, seguido do agente cinco, e então voltará para o agente um.
 
-Regra personalizada: Você pode escolher agentes específicos para receber reuniões com base nos atributos selecionados.
+Regra personalizada: você pode escolher agentes específicos para receber reuniões com base nos atributos selecionados.
 
 ## Criar uma regra personalizada {#create-a-custom-rule}
 
 Neste exemplo, estamos enviando todas as reuniões dos estados inferidos de CA, OR e WA para o agente John.
 
-1. Em Bate-papo dinâmico, selecione **Roteamento**.
+1. No Dynamic Chat, selecione **Roteamento**.
 
    ![](assets/routing-1.png)
 
-1. Clique no botão **Regras personalizadas** guia .
+1. Clique em **Regras personalizadas** guia.
 
    ![](assets/routing-2.png)
 
@@ -33,7 +34,7 @@ Neste exemplo, estamos enviando todas as reuniões dos estados inferidos de CA, 
 
    ![](assets/routing-3.png)
 
-1. Dê um nome a sua regra e clique em **Próximo**.
+1. Dê um nome à regra e clique em **Próxima**.
 
    ![](assets/routing-4.png)
 

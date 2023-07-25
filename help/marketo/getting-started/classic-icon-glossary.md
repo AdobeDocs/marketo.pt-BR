@@ -1,18 +1,19 @@
 ---
 unique-page-id: 4720476
-description: Glossário de ícones clássico - Documentos do Marketo - Documentação do produto
-title: Ícone Clássico Glossário
+description: Glossário de ícones clássico - Documentação do Marketo - Documentação do produto
+title: Glossário de ícone do Classic
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '562'
 ht-degree: 34%
 
 ---
 
-# Ícone Clássico Glossário {#classic-icon-glossary}
+# Glossário de ícone do Classic {#classic-icon-glossary}
 
-Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícones pode ser [encontrado aqui](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target=&quot;_blank&quot;}.
+Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícones pode ser [encontrado aqui](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target="_blank"}.
 
 **Ícones gerais**
 
@@ -52,42 +53,42 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-9-9-3a20-3a42.png"> 
     </div></td> 
-   <td>Editar/Renomear Nome da Pasta</td> 
+   <td>Editar/renomear nome da pasta</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
-   <td colspan="1">A pasta de origem que você compartilhou com outro espaço de trabalho</td> 
+   <td colspan="1">A pasta de origem compartilhada com outro espaço de trabalho</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Pasta de destino que foi compartilhada de outro espaço de trabalho <br>(cadeado indica que não é possível fazer edições)</td> 
+   <td colspan="1">Pasta de destino que foi compartilhada de outro espaço de trabalho <br>(o cadeado indica que não é possível fazer edições)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td>Arquivar pasta ou Converter em pasta de arquivamento (isso pode aparecer para qualquer pasta e programas arquivados)</td> 
+   <td>Arquivar pasta ou Converter em pasta de arquivamento (pode aparecer para qualquer pasta e Programas arquivados)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>Sucesso!(Frequentemente mostrado como Sucesso do Programa, Execução bem-sucedida ou Ativo)</td> 
+   <td>Sucesso!(Frequentemente mostrado como Sucesso do programa, Execução bem-sucedida ou Ativo)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a34-3a57.png"> 
     </div></td> 
-   <td>Filtrar, Exibir, Exibir Tudo</td> 
+   <td>Filtro, Exibir, Exibir tudo</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -141,7 +142,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
  </tbody> 
 </table>
 
-## Ícones de administração {#admin-icons}
+## Ícones de administrador {#admin-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -203,7 +204,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-8-16-3a38-3a39.png"> 
     </div></td> 
-   <td>E-mail</td> 
+   <td>Email</td> 
   </tr> 
   <tr> 
    <td> 
@@ -280,7 +281,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-8-18-3a46-3a13.png"> 
     </div></td> 
-   <td>Tags - Atributo do programa</td> 
+   <td>Tags - Atributo de programa</td> 
   </tr> 
   <tr> 
    <td> 
@@ -333,7 +334,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-11-3a9-3a4.png"> 
     </div></td> 
-   <td>Programa - Tipo Padrão</td> 
+   <td>Programa - Tipo padrão</td> 
   </tr> 
   <tr> 
    <td> 
@@ -361,14 +362,14 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </div></td> 
-   <td>Alterar cadência de envolvimento (pausado, normal)</td> 
+   <td>Alterar cadência de engajamento (pausado, normal)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a42-3a5.png"> 
     </div></td> 
-   <td>Alterar fluxo de envolvimento</td> 
+   <td>Alterar fluxo de engajamento</td> 
   </tr> 
   <tr> 
    <td> 
@@ -382,21 +383,21 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>Campanha inteligente solicitada (por insight de vendas ou ação de fluxo do Marketo)</td> 
+   <td>Campanha inteligente solicitada (por Sales Insight ou ação de fluxo do Marketo)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </div></td> 
-   <td>Campanha inteligente - Lote(já foi executado antes)</td> 
+   <td>Campanha inteligente - Lote (foi executado antes)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a43-3a30.png"> 
     </div></td> 
-   <td>Campanha inteligente - Inativa ou nunca executada</td> 
+   <td>Campanha inteligente - inativa ou nunca executada</td> 
   </tr> 
   <tr> 
    <td> 
@@ -410,21 +411,21 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>Programa de email <br>(Sinalizador vermelho desativado = email ainda não enviado)</td> 
+   <td>Programa de e-mail <br>(Sinalizador vermelho desativado = email ainda não enviado)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
-   <td colspan="1">Programa de email agendado com Início do cabeçalho</td> 
+   <td colspan="1">Programa de email agendado com o Head Start</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a51-3a1.png"> 
     </div></td> 
-   <td>Campanha inteligente - Lote agendado (A marca de seleção indica que ele foi executado antes)</td> 
+   <td>Campanha inteligente - Lote agendado (a marca de seleção indica que foi executado antes)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -480,14 +481,14 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-9-14-3a42-3a29.png"> 
     </div></td> 
-   <td>Social</td> 
+   <td>Redes sociais</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a43-3a17.png"> 
     </div></td> 
-   <td>Ações dos botões sociais</td> 
+   <td>Ações do botão Social</td> 
   </tr> 
   <tr> 
    <td> 
@@ -501,7 +502,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-9-14-3a45-3a45.png"> 
     </div></td> 
-   <td>Visualizar</td> 
+   <td>Visualização</td> 
   </tr> 
   <tr> 
    <td> 
@@ -543,7 +544,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-9-14-3a55-3a51.png"> 
     </div></td> 
-   <td>Visualizar</td> 
+   <td>Visualização</td> 
   </tr> 
   <tr> 
    <td> 
@@ -571,7 +572,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-9-15-3a15-3a42.png"> 
     </div></td> 
-   <td>Ações de sorteio</td> 
+   <td>Ações do Sweepstakes</td> 
   </tr> 
   <tr> 
    <td> 
@@ -585,7 +586,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-9-15-3a17-3a24.png"> 
     </div></td> 
-   <td>Visualizar</td> 
+   <td>Visualização</td> 
   </tr> 
   <tr> 
    <td> 
@@ -662,7 +663,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a56.png"> 
     </div></td> 
-   <td colspan="1">Visualizar</td> 
+   <td colspan="1">Visualização</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -708,7 +709,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-12-10-3a56-3a42.png"> 
     </div></td> 
-   <td>Visualizar</td> 
+   <td>Visualização</td> 
   </tr> 
   <tr> 
    <td> 
@@ -771,21 +772,21 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-12-3a38-3a15.png"> 
     </div></td> 
-   <td>Página de aterrissagem - Aprovado</td> 
+   <td>Página de aterrissagem - aprovada</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a41-3a12.png"> 
     </div></td> 
-   <td>Página de aterrissagem/Modelo de email - Não aprovado</td> 
+   <td>Modelo de página de aterrissagem/email - Não aprovado</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a43-3a21.png"> 
     </div></td> 
-   <td>Página de aterrissagem/Modelo de email - Aprovado</td> 
+   <td>Modelo de página de aterrissagem/email - Aprovado</td> 
   </tr> 
   <tr> 
    <td> 
@@ -799,7 +800,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-12-3a46-3a24.png"> 
     </div></td> 
-   <td>Email Aprovado</td> 
+   <td>Email aprovado</td> 
   </tr> 
   <tr> 
    <td> 
@@ -820,7 +821,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </div></td> 
-   <td>Rascunho de um Ativo Aprovado (não ativo até que Rascunho seja Aprovado)</td> 
+   <td>Rascunho de um ativo aprovado (não disponível até que o rascunho seja aprovado)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -834,14 +835,14 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-13-3a11-3a50.png"> 
     </div></td> 
-   <td>Trecho - Não aprovado ou rascunho</td> 
+   <td>Trecho - Não Aprovado ou Rascunho</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-13-3a29-3a18.png"> 
     </div></td> 
-   <td>Snippet - Aprovado</td> 
+   <td>Trecho - Aprovado</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -887,21 +888,21 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-9-9-3a55-3a4.png"> 
     </div></td> 
-   <td>Modelo do ciclo de receita (RCM) - Não aprovado</td> 
+   <td>Modelo de ciclo de receita (RCM) - Não aprovado</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a56-3a30.png"> 
     </div></td> 
-   <td>Modelo do ciclo de receita (RCM) - Aprovado</td> 
+   <td>Modelo de ciclo de receita (RCM) - Aprovado</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </div></td> 
-   <td>Modelo do ciclo de receita (RCM) - Aprovado com rascunho</td> 
+   <td>Modelo de ciclo de receita (RCM) - Aprovado com rascunho</td> 
   </tr> 
   <tr> 
    <td> 
@@ -936,14 +937,14 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-9-12-3a58-3a53.png"> 
     </div></td> 
-   <td>Exibir lead qualificado</td> 
+   <td>Exibir cliente em potencial qualificado</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-15-3a46-3a10.png"> 
     </div></td> 
-   <td>Visão geral dos momentos interessantes</td> 
+   <td>Visão geral de momentos interessantes</td> 
   </tr> 
   <tr> 
    <td> 
@@ -964,7 +965,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-9-13-3a43-3a15.png"> 
     </div></td> 
-   <td>Clientes Potenciais Por</td> 
+   <td>Cliente Potencial do Grupo por</td> 
   </tr> 
   <tr> 
    <td> 
@@ -976,7 +977,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
  </tbody> 
 </table>
 
-### Ícones de Meus Tokens {#my-tokens-icons}
+### Ícones de Meus tokens {#my-tokens-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -989,7 +990,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-13-3a53-3a27.png"> 
     </div></td> 
-   <td>Calendar ICS - iCalendars, (Calendários Integrados)</td> 
+   <td>Calendário ICS - iCalendars, (Calendários Integrados)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1017,7 +1018,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-15-3a44-3a30.png"> 
     </div></td> 
-   <td>Programe a campanha inteligente para ser executada uma vez</td> 
+   <td>Programar a campanha inteligente para execução única</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1031,19 +1032,19 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-15-3a47-3a48.png"> 
     </div></td> 
-   <td>Atualizar (Geralmente Executar Contagem, Relatório, Smart List)</td> 
+   <td>Atualizar (Geralmente Contagem De Execução, Relatório, Smart List)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
-   <td>Exibir membros inteligentes (anteriormente qualificados e atuais)</td> 
+   <td>Exibir Membros Inteligentes (Qualificados anteriormente e atuais)</td> 
   </tr> 
  </tbody> 
 </table>
 
-### Menus da campanha {#campaign-menus}
+### Menus de Campanha {#campaign-menus}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -1056,14 +1057,14 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-15-3a18-3a8.png"> 
     </div></td> 
-   <td>Agendar recorrência da campanha (várias execuções)</td> 
+   <td>Agendar Recorrência da Campanha (Várias Execuções)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-15-3a21-3a29.png"> 
     </div></td> 
-   <td>Cancelar a execução, a ação ou a exclusão</td> 
+   <td>Cancelar Execução, Ação ou Exclusão</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1112,12 +1113,12 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-14-3a48-3a34.png"> 
     </div></td> 
-   <td>Data - Formatada como "MM-DD-AAAA"</td> 
+   <td>Data - Formatado como "MM-DD-AAAA"</td> 
   </tr> 
  </tbody> 
 </table>
 
-### Ícones do banco de dados {#database-icons}
+### Ícones de Banco de Dados {#database-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -1137,7 +1138,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-16-3a27-3a35.png"> 
     </div></td> 
-   <td>Smart List - em cache</td> 
+   <td>Lista inteligente - Em cache</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1151,7 +1152,7 @@ Abaixo estão os ícones antigos do Marketo Classic. O novo glossário de ícone
     <div> 
      <img src="assets/image2015-1-5-16-3a39-3a5.png"> 
     </div></td> 
-   <td>Segmentação ou segmento - Aprovado ou rascunho</td> 
+   <td>Segmentação Ou Segmento - Aprovado ou Rascunho</td> 
   </tr> 
   <tr> 
    <td> 

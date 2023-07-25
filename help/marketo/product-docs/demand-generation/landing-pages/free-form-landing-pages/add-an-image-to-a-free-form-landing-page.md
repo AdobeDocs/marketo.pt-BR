@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359703
-description: Adicionar uma imagem a uma página de aterrissagem de forma livre - Documentos do Marketo - Documentação do produto
+description: Adicionar uma imagem a uma página de aterrissagem de formato livre - Documentação do Marketo - Documentação do produto
 title: Adicionar uma imagem a uma página de aterrissagem de forma livre
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 2%
@@ -16,11 +17,11 @@ ht-degree: 2%
 >
 >[Adicionar imagens e arquivos ao Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. Selecione a landing page do formulário gratuito e clique em **Editar** **Rascunho**.
+1. Selecione a página de aterrissagem de formato livre e clique em **Editar** **Rascunho**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. No editor, arraste o **Imagem** elemento.
+1. No editor, arraste sobre o **Imagem** elemento.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -32,6 +33,6 @@ ht-degree: 2%
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   Muito bem! Você acabou de adicionar uma imagem à página de aterrissagem de forma livre.
+   Excelente trabalho! Você acabou de adicionar uma imagem à sua página de aterrissagem de forma livre.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)

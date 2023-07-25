@@ -1,24 +1,25 @@
 ---
 unique-page-id: 2953188
-description: Filtros inferidos - Documentação da Marketo - Documentação do produto
-title: Filtros Inferidos
+description: Filtros inferidos - Documentação do Marketo - Documentação do produto
+title: Filtros inferidos
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: e9a89fb17ca55961c1ee7962d5466b6cb76a9550
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-# Filtros Inferidos {#inferred-filters}
+# Filtros inferidos {#inferred-filters}
 
-Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Os cookies e os coloca no sistema. Procuramos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
+Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) os cookies e os coloca no sistema. Pesquisamos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
 
 >[!NOTE]
 >
->Para garantir que os valores de campo inferidos permaneçam atualizados, atualizamos periodicamente o banco de dados usado em pesquisas de endereço IP. As atualizações do banco de dados podem introduzir novos valores de campo inferidos que podem ser necessários para adicionar às definições de filtro de lista inteligente.
+>Para garantir que os valores de campo inferidos permaneçam atualizados, atualizamos periodicamente o banco de dados usado para pesquisas de endereço IP. As atualizações do banco de dados podem apresentar novos valores de campo inferidos que podem ser necessários para adicionar às definições de filtro da lista inteligente.
 >
->As atualizações do banco de dados podem ocorrer durante uma [Versão do produto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Quando uma atualização ocorre, a variável [Notas de versão do Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} conterá uma explicação de quaisquer alterações nos valores de campo inferidos.
+>As atualizações do banco de dados podem ocorrer durante um [versão do produto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} conterá uma explicação de quaisquer alterações nos valores de campo inferidos.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -32,18 +33,17 @@ Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administra
 
 ![](assets/image2015-4-27-13-3a30-3a48.png)
 
-Quando você usa qualquer um desses filtros em uma lista inteligente, os resultados geram pessoas com essas informações inferidas.
+Ao usar qualquer um desses filtros em uma lista inteligente, os resultados produzirão pessoas com essa informação inferida.
 
 >[!TIP]
 >
->Use esses filtros em um relatório de atividade da Web. Use os territórios dos representantes de vendas e assine-os em um relatório diário personalizado com visitantes do site nas últimas 24 horas. Eles vão adorar!
+>Use esses filtros em um relatório de atividades da Web. Use os territórios dos representantes de vendas e inscreva-os em um relatório diário personalizado com os visitantes do site nas últimas 24 horas. Eles vão adorar!
 >
->* Página da Web Visitada - Últimas 24 horas
->* Estado inferido é [selecione seu território]
+>* Página da Web visitada - Últimas 24 horas
+>* O estado inferido é [selecionar seu território]
 
-
-Esses visitantes anônimos são convertidos automaticamente em pessoas quando clicam em um link de email ou preenchem um formulário. No entanto, eles mantêm todas as informações inferidas.
+Esses visitantes anônimos são convertidos automaticamente em pessoas quando clicam em um link de email ou preenchem um formulário. No entanto, elas mantêm todas as informações inferidas.
 
 >[!NOTE]
 >
->Saiba mais sobre [atividade anônima e leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Saiba mais sobre [atividade anônima e clientes potenciais](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).

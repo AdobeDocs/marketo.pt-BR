@@ -1,23 +1,24 @@
 ---
-description: Ativar registro de chamada - Documentos do Marketo - Documentação do produto
-title: Ativar registro de chamada
+description: Habilitar Registro de Chamada - Documentação do Marketo - Documentação do Produto
+title: Habilitar Gravação de Chamadas
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-# Ativar registro de chamada {#enable-call-recording}
+# Habilitar Gravação de Chamadas {#enable-call-recording}
 
-Como administrador, você pode habilitar a gravação de chamadas para suas chamadas de Ações de insight de vendas. Gravar as ligações de sua equipe pode ser uma ótima maneira de instruir seus representantes de vendas sobre as melhores práticas de atendimento.
+Como administrador, você pode ativar a gravação de chamadas para suas chamadas do Sales Insight Actions. Registrar as chamadas de sua equipe pode ser uma ótima maneira de orientar seus representantes de vendas sobre as melhores práticas de chamada.
 
 1. Clique no ícone Configurações e selecione **Configurações**.
 
    ![](assets/enable-call-recording-1.png)
 
-1. Em Configurações de administração, clique em **Discador**.
+1. Em Configurações do administrador, clique em **Discador**.
 
    ![](assets/enable-call-recording-2.png)
 
@@ -25,10 +26,10 @@ Como administrador, você pode habilitar a gravação de chamadas para suas cham
 
    ![](assets/enable-call-recording-3.png)
 
-1. Se quiser dar aos seus vendedores a capacidade de ativar ou desativar a gravação de chamada para si mesmos, clique em **Gravação opcional para todos os membros da equipe**. Se desejar que todas as chamadas sejam registradas automaticamente, clique em **Registrar todas as chamadas**.
+1. Se desejar que seus vendedores possam ativar ou desativar a gravação de chamadas, clique em **Gravação opcional para todos os membros da equipe**. Se quiser que todas as chamadas sejam gravadas automaticamente, clique em **Registrar todas as chamadas**.
 
    ![](assets/enable-call-recording-4.png)
 
 >[!MORELIKETHIS]
 >
->[Configurações de consentimento de duas partes](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
+>[Configurações de consentimento de dois participantes](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)

@@ -1,17 +1,18 @@
 ---
-description: Conecte sua conta de ações de insight de vendas ao Salesforce - Documentos da Marketo - Documentação do produto
-title: Conecte sua conta de ações de insight de vendas ao Salesforce
+description: Conecte sua conta de ações do Sales Insight ao Salesforce - Documentação do Marketo - Documentação do produto
+title: Conecte sua conta de ações do Sales Insight ao Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
-source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# Conecte sua conta de ações de insight de vendas ao Salesforce {#connect-your-sales-insight-actions-account-to-salesforce}
+# Conecte sua conta de ações do Sales Insight ao Salesforce {#connect-your-sales-insight-actions-account-to-salesforce}
 
-Siga estas etapas simples para conectar a conta Ações de insight de vendas ao Salesforce.
+Siga estas etapas simples para conectar a conta de Ações do Sales Insight ao Salesforce.
 
 ## Como se conectar como administrador {#how-to-connect-as-an-admin}
 
@@ -19,11 +20,11 @@ Siga estas etapas simples para conectar a conta Ações de insight de vendas ao 
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-1.png)
 
-1. Em Configurações de administração, clique em **Salesforce**.
+1. Em Configurações do administrador, clique em **Salesforce**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. Na guia Conexões e personalizações , clique em **Salesforce** then **Connect**.
+1. Na guia Conexões e personalizações, clique em **Salesforce** depois **Conectar**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
@@ -31,9 +32,9 @@ Siga estas etapas simples para conectar a conta Ações de insight de vendas ao 
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
-1. Se já estiver conectado ao Salesforce, você estará conectado. Se não estiver, você será solicitado a fazer logon.
+1. Se você já estiver conectado ao Salesforce, você será conectado. Caso não esteja, você será solicitado a fazer logon.
 
-## Como se conectar como um usuário não administrativo {#how-to-connect-as-a-non-admin}
+## Como se conectar como um não administrador {#how-to-connect-as-a-non-admin}
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
@@ -41,7 +42,7 @@ Siga estas etapas simples para conectar a conta Ações de insight de vendas ao 
 
 1. Em Minha conta, selecione **Salesforce**.
 
-1. Na guia Conexões e personalizações , clique em **Salesforce** then **Connect**.
+1. Na guia Conexões e personalizações, clique em **Salesforce** depois **Conectar**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
@@ -49,4 +50,4 @@ Siga estas etapas simples para conectar a conta Ações de insight de vendas ao 
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 
-1. Se já estiver conectado ao Salesforce, você estará conectado. Se não estiver, você será solicitado a fazer logon.
+1. Se você já estiver conectado ao Salesforce, você será conectado. Caso não esteja, você será solicitado a fazer logon.

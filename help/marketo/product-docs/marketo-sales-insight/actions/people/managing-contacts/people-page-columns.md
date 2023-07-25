@@ -1,31 +1,32 @@
 ---
-description: Colunas da página Pessoas - Documentos do Marketo - Documentação do produto
-title: Colunas da Página de Pessoas
+description: Colunas De Página De Pessoas - Documentação Do Marketo - Documentação Do Produto
+title: Colunas da página de pessoas
 hide: true
 hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 11%
+ht-degree: 12%
 
 ---
 
-# Colunas da Página de Pessoas {#people-page-columns}
+# Colunas da página de pessoas {#people-page-columns}
 
-Você tem a opção de personalizar quais informações de contato você vê escolhendo quais colunas são exibidas.
+Você tem a opção de personalizar quais informações de contato você vê escolhendo quais colunas serão exibidas.
 
 ## Como selecionar colunas {#how-to-select-columns}
 
-1. Na página Pessoas, clique no ícone Configurações da lista .
+1. Na página Pessoas, clique no ícone Configurações da lista.
 
    ![](assets/people-page-columns-1.png)
 
-1. Percorra e selecione as colunas desejadas (também é possível clicar em **Selecionar tudo** se quiser cada coluna). Clique fora da lista quando terminar.
+1. Role pela tela e selecione as colunas desejadas (você também pode clicar em **Selecionar tudo** se desejar cada coluna). Clique em fora da lista ao concluir.
 
    ![](assets/people-page-columns-2.png)
 
-## Descrições de colunas {#column-descriptions}
+## Descrições da coluna {#column-descriptions}
 
 <table> 
  <colgroup> 
@@ -38,7 +39,7 @@ Você tem a opção de personalizar quais informações de contato você vê esc
    <th>Descrição</th> 
   </tr> 
   <tr> 
-   <td>First Name (padrão)</td> 
+   <td>Nome (padrão)</td> 
    <td>Nome</td> 
   </tr> 
   <tr> 
@@ -62,16 +63,16 @@ Você tem a opção de personalizar quais informações de contato você vê esc
    <td>Nome da empresa</td> 
   </tr> 
   <tr> 
-   <td>Campaign (padrão)</td> 
-   <td>Campanha de vendas em que a pessoa está no momento</td> 
+   <td>Campaign (default) (Campanha (padrão))</td> 
+   <td>Campanha de vendas da pessoa no momento</td> 
   </tr> 
   <tr> 
-   <td>Nº de campanhas</td> 
+   <td># Campanhas</td> 
    <td>Número total de campanhas de vendas das quais a pessoa fez parte</td> 
   </tr> 
   <tr> 
    <td>Nº de chamadas</td> 
-   <td>Número total de chamadas feitas para essa pessoa</td> 
+   <td>Número total de chamadas feitas para esta pessoa</td> 
   </tr> 
   <tr> 
    <td>Nº de e-mails</td> 
@@ -79,55 +80,55 @@ Você tem a opção de personalizar quais informações de contato você vê esc
   </tr> 
   <tr> 
    <td>Data de vencimento da tarefa</td> 
-   <td>Data de vencimento da tarefa</td> 
+   <td>Data final da tarefa</td> 
   </tr> 
   <tr> 
-   <td># Events (padrão)</td> 
-   <td>Número total de eventos de envolvimento por pessoa (Exibições, cliques e respostas)</td> 
+   <td># Eventos (padrão)</td> 
+   <td>Número total de eventos de engajamento pela pessoa (exibições, cliques e respostas)</td> 
   </tr> 
   <tr> 
-   <td># Atividades (padrão)</td> 
-   <td>Número total de atividades realizadas pelo usuário para esse lead (emails, chamadas e tarefas)</td> 
+   <td>Nº de Atividades (padrão)</td> 
+   <td>Número total de atividades realizadas pelo usuário para este cliente potencial (emails, chamadas e tarefas)</td> 
   </tr> 
   <tr> 
    <td>Consentimento</td> 
-   <td><p>Interesse legítimo, execução de um contrato, cumprimento da obrigação legal, proteção de interesses vitais, interesse público/autoridade pública e outros</p></td> 
+   <td><p>Interesse legítimo, Execução de um contrato, Cumprimento da Obrigação Legal, Proteção de Interesses Vitais, Interesse Público/Autoridade Oficial e Outros</p></td> 
   </tr> 
   <tr> 
    <td>Tarefas em aberto</td> 
    <td>Número de tarefas abertas para esta pessoa</td> 
   </tr> 
   <tr> 
-   <td>Nº de exibições</td> 
-   <td>Número total de visualizações por esta pessoa</td> 
+   <td># Exibições</td> 
+   <td>Número total de visualizações por essa pessoa</td> 
   </tr> 
   <tr> 
-   <td>Nº de cliques</td> 
-   <td>Número total de cliques por esta pessoa</td> 
+   <td># Cliques</td> 
+   <td>Número total de cliques por essa pessoa</td> 
   </tr> 
   <tr> 
    <td>Nº de respostas</td> 
-   <td>Número total de respostas desta pessoa</td> 
+   <td>Número total de respostas por esta pessoa</td> 
   </tr> 
   <tr> 
    <td>Última atualização</td> 
-   <td>Data em que o registro de pessoa foi atualizado pela última vez em</td> 
+   <td>Data em que o registro da pessoa foi atualizado pela última vez</td> 
   </tr> 
   <tr> 
    <td>Criador</td> 
    <td>Nome do usuário que criou a pessoa</td> 
   </tr> 
   <tr> 
-   <td>Fonte</td> 
-   <td>Fonte de onde a pessoa foi criada</td> 
+   <td>Origem</td> 
+   <td>Origem de onde a pessoa foi criada</td> 
   </tr> 
   <tr> 
    <td>Grupos (padrão)</td> 
-   <td>Grupos de que a pessoa faz parte</td> 
+   <td>Grupos dos quais a pessoa faz parte</td> 
   </tr> 
   <tr> 
    <td colspan="1">Inscrição cancelada</td> 
-   <td colspan="1">Status de cancelamento de assinatura de vendas</td> 
+   <td colspan="1">Status de cancelamento de inscrição de venda</td> 
   </tr> 
  </tbody> 
 </table>

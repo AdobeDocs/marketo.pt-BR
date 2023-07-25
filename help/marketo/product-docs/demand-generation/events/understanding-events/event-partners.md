@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2949777
-description: Parceiros de eventos - Documentos da Marketo - Documentação do produto
+description: Parceiros de evento - Documentação do Marketo - Documentação do produto
 title: Parceiros de evento
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
-source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 10%
@@ -12,14 +13,14 @@ ht-degree: 10%
 
 # Parceiros de evento {#event-partners}
 
-Conecte o Marketo a um Parceiro de eventos para automatizar seus eventos online. Ao conectá-los, você pode:
+Conecte o Marketo a um parceiro de evento para automatizar seus eventos online. Ao conectá-los, você pode:
 
-* Gerenciar seus eventos do webinário
-* Enviar informações de registro capturadas em uma página de aterrissagem do Marketo para o Parceiro de eventos configurado
-* Extrair informações de presença automaticamente em um evento do Marketo
-* Capturar o status das pessoas como membros do programa
+* Gerenciar os eventos do webinário
+* Enviar informações de registro capturadas em uma página de aterrissagem do Marketo para o Parceiro de evento configurado
+* Transferir informações de participação automaticamente para um evento do Marketo
+* Registrar o status das pessoas como membros do programa
 
-Consulte as instruções para integrar seus eventos online do Marketo com seu parceiro de evento:
+Consulte as instruções sobre como integrar seus eventos da Marketo online ao seu parceiro de evento:
 
 * [Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
 * [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)

@@ -1,28 +1,29 @@
 ---
 unique-page-id: 1147134
-description: Movimentação de entradas na exibição de agendamento do programa - Documentos do Marketo - Documentação do produto
-title: Movendo Entradas na Visualização de Programação de Programa
+description: Movimentação de entradas na exibição de programação do programa - Documentação do Marketo - Documentação do produto
+title: Movendo Entradas na Visualização de Programação do Programa
 exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Movendo Entradas na Visualização de Programação de Programa {#moving-entries-in-the-program-schedule-view}
+# Movendo Entradas na Visualização de Programação do Programa {#moving-entries-in-the-program-schedule-view}
 
-Mover entradas na exibição de programação automaticamente as reprogramará.
+Mover entradas na visualização de agendamento as reagendará automaticamente.
 
 >[!NOTE]
 >
->Não é possível mover uma campanha inteligente já executada, um programa de engajamento ou uma explosão de email.
+>Não é possível mover uma campanha inteligente, um programa de envolvimento ou uma explosão de email já executados.
 
-1. Selecione sua entrada. Arraste e solte-o em uma data diferente.
+1. Selecione sua entrada. Arraste-o e solte-o em uma data diferente.
 
    ![](assets/image2014-9-18-17-3a47-3a23.png)
 
-1. Nossa recuperação de dados então não aprova, altera a data e reaprova o ativo. Ele é legal assim.
+1. Nosso recuperador de dados cancela a aprovação, altera a data e reaprova o ativo. Ele é legal assim.
 
    ![](assets/image2014-9-18-17-3a47-3a35.png)
 

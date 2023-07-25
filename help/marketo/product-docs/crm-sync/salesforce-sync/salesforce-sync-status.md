@@ -2,7 +2,8 @@
 description: Status de sincronização do Salesforce - Documentação do Marketo - Documentação do produto
 title: Status da sincronização do Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+feature: Salesforce Integration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 13%
@@ -169,7 +170,7 @@ Por padrão, as estatísticas serão classificadas pela última vez em que foram
  </tbody> 
 </table>
 
-## Operação Tipo {#operation-type}
+## Tipo de operação {#operation-type}
 
 <table> 
  <colgroup> 

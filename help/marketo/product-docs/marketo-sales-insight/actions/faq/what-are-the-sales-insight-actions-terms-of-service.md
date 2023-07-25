@@ -1,18 +1,19 @@
 ---
-description: Quais são os termos de serviço das ações de insight de vendas? - Documentação do Marketo - Documentação do produto
-title: Quais são os termos de serviço das ações de insight de vendas?
+description: Quais são os termos de serviço das ações do Sales Insight? - Documentação do Marketo - Documentação do produto
+title: Quais são os termos de serviço das ações do Sales Insight?
 exl-id: 5a5409a0-2a26-4d5b-b1c9-89841255059d
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# Quais são os termos de serviço das ações de insight de vendas? {#what-are-the-sales-insight-actions-terms-of-service}
+# Quais são os termos de serviço das ações do Sales Insight? {#what-are-the-sales-insight-actions-terms-of-service}
 
-Os Termos de Serviço das Ações de Insight de Vendas podem ser encontrados [here](https://documents.marketo.com/toutapp/terms).
+É possível encontrar os Termos de serviço das Ações do Sales Insight [aqui](https://documents.marketo.com/toutapp/terms).
 
 >[!NOTE]
 >
->&quot;ToutApp&quot; é o nome original de Ações de insight de vendas.
+>&quot;ToutApp&quot; é o nome original de Ações do Sales Insight.

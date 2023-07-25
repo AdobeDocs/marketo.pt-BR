@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8162243
-description: Modelo 5A - Documentos do Marketo - Documentação do produto
+description: Modelo 5A - Documentação do Marketo - Documentação do produto
 title: Modelo 5A
 exl-id: 85f9732c-0968-44bc-b59f-d39207f12dd7
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -12,18 +13,18 @@ ht-degree: 0%
 
 # Modelo 5A {#template-5a}
 
-Clique com o botão direito do mouse em para [modelo de download 5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
+Clique com o botão direito do mouse para [baixar modelo 5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
 
 ![](assets/image2015-6-29-16-3a9-3a32.png)
 
 Esse template inclui o seguinte conteúdo:
 
 * Um cabeçalho (opcional)
-* Uma seção primária
+* Uma seção principal
 
-   * inclui imagens herói, título do herói e 3 marcadores de descrição.
+   * inclui imagem herói, título herói e 3 marcadores de descrição.
 
-* Três seções de corpo (opcional)
+* Três seções do corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

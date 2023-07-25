@@ -1,36 +1,37 @@
 ---
 unique-page-id: 4719308
-description: Adicionar um campo Salesforce existente ao Marketo Sync - Marketo Docs - Documentação do produto
-title: Adicionar um campo Salesforce existente à sincronização do Marketo
+description: Adicionar um campo existente do Salesforce à sincronização do Marketo - Documentação do Marketo - Documentação do produto
+title: Adicionar um campo existente do Salesforce à sincronização do Marketo
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
-source-git-commit: 81bc90bcccc8073511c9f331471c0cda9f4147cb
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-# Adicionar um campo Salesforce existente à sincronização do Marketo {#add-an-existing-salesforce-field-to-the-marketo-sync}
+# Adicionar um campo existente do Salesforce à sincronização do Marketo {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-Normalmente, os novos campos personalizados no Salesforce são sincronizados automaticamente com o Marketo. Caso contrário, os campos podem não estar visíveis para o usuário do Marketo Sync. Veja como você pode consertar isso.
+Normalmente, novos campos personalizados no Salesforce são sincronizados com o Marketo automaticamente. Caso contrário, os campos podem não estar visíveis para o usuário do Marketo Sync. Veja como você pode corrigir isso.
 
 1. Clique no seu nome e selecione **Configuração**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. Enter **perfil** na barra de pesquisa esquerda e clique em **Perfis** under **Gerenciar usuários**.
+1. Enter **perfil** na barra de pesquisa à esquerda e clique em **Perfis** em **Gerenciar usuários**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
-1. Clique no perfil do usuário de sincronização.
+1. Clique em sincronizar perfil do usuário.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
-1. Em **Segurança no nível do campo** seção , clique em **Exibir** ao lado do objeto que contém o campo .
+1. No **Segurança em nível de campo** clique em **Exibir** ao lado do objeto que contém o campo.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
@@ -46,4 +47,4 @@ Normalmente, os novos campos personalizados no Salesforce são sincronizados aut
 
    >[!NOTE]
    >
-   > Se o campo já tiver valores no Salesforce, esses valores não serão sincronizados com o Marketo até que o próximo registro seja atualizado.
+   > Se o campo já tiver valores no Salesforce, esses valores não serão sincronizados com o Marketo até a próxima atualização de registro.

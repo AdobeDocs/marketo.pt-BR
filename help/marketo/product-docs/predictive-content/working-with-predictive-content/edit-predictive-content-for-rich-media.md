@@ -1,22 +1,23 @@
 ---
 unique-page-id: 11385940
-description: Editar conteúdo preditivo para mídias avançadas - Documentos do Marketo - Documentação do produto
-title: Editar conteúdo preditivo para mídias avançadas
+description: Editar conteúdo preditivo para mídia avançada - Documentação do Marketo - Documentação do produto
+title: Editar conteúdo preditivo para mídia avançada
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-# Editar conteúdo preditivo para mídias avançadas {#edit-predictive-content-for-rich-media}
+# Editar conteúdo preditivo para mídia avançada {#edit-predictive-content-for-rich-media}
 
-Veja como configurar seu conteúdo preditivo para Rich Media.
+Veja como configurar seu conteúdo preditivo para mídia avançada.
 
 >[!PREREQUISITES]
 >
->O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página Todo o conteúdo .
+>O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página Todo o conteúdo.
 
 1. No **Conteúdo preditivo** clique em um título para abrir o editor.
 
@@ -26,27 +27,27 @@ Veja como configurar seu conteúdo preditivo para Rich Media.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
-1. Você notará que pode ter imagens separadas para Email e Rich Media. Para adicionar/alterar a imagem, cole o URL da imagem em sua caixa de texto.
+1. Você perceberá que pode ter imagens separadas para Email e Mídia avançada. Para adicionar/alterar a imagem, cole o URL da imagem na caixa de texto.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. Digite uma **Descrição**.
+1. Digite um **Descrição**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Clique no botão **Categorias** caixa para selecionar/adicionar [categorias que você já configurou](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (opcional).
+1. Clique em **Categorias** caixa para selecionar/adicionar [categorias já configuradas](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (opcional).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
    >[!NOTE]
    >
-   >Use categorias para agrupar o conteúdo de um modelo de recomendação de Mídia avançada específico. Deixe a categoria em branco para aplicar o conteúdo a todos os templates de recomendação (recomendado).
+   >Use categorias para agrupar conteúdo para um modelo de recomendação específico de Mídia avançada. Deixe a categoria vazia para aplicar o conteúdo a todos os templates de recomendação (recomendado).
    >
-   >No entanto, se desejar recomendar apenas o conteúdo específico para um modelo de Mídia avançada, adicione uma categoria para o conteúdo e associe essa categoria ao modelo de recomendação.
+   >No entanto, se você quiser recomendar apenas conteúdo específico para um modelo de Mídia avançada, adicione uma categoria para o conteúdo e associe essa categoria ao modelo de recomendação.
    >
    >Por exemplo, categorize o conteúdo relevante de acordo com as seções do seu site (produtos ou soluções).
 
-1. Marque a caixa para ativar Conteúdo preditivo em mídias avançadas.
+1. Marque a caixa para ativar o conteúdo preditivo em mídia avançada.
 
    ![](assets/six-1.png)
 

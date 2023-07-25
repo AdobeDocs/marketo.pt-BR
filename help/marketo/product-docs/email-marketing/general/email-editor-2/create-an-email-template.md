@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10096400
-description: Criar um modelo de email - Documentos do Marketo - Documentação do produto
+description: Criar um modelo de email - Documentação do Marketo - Documentação do produto
 title: Criar um modelo de email
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
-source-git-commit: 1a3c22db02bb7c26380d58c816baef4b40a357ac
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -16,11 +17,11 @@ Siga estas etapas para criar um novo template de email.
 
 >[!NOTE]
 >
->O Suporte da Marketo não está configurado para ajudar na solução de problemas do HTML personalizado. Para obter assistência para o HTML, consulte um desenvolvedor da Web.
+>O Suporte da Marketo não está configurado para ajudar na solução de problemas de HTML personalizado. Para obter assistência para o HTML, consulte um desenvolvedor da Web.
 
 >[!CAUTION]
 >
->O editor que usamos converte os valores das propriedades CSS de cor e de cor de fundo em minúsculas, portanto, evite usar maiúsculas e minúsculas e use hifens.
+>O editor que usamos converte os valores das propriedades CSS color e background-color em minúsculas, portanto, evite usar camel case e use nomes em minúsculas ou hifens.
 
 ## Criar um novo modelo de email {#create-a-new-email-template}
 
@@ -28,7 +29,7 @@ Siga estas etapas para criar um novo template de email.
 
    ![](assets/designstudio.png)
 
-1. Clique em **Novo**, em seguida selecione **Novo modelo de email**.
+1. Clique em **Novo** e selecione **Novo Modelo de email**.
 
    ![](assets/ds-two.png)
 
@@ -42,7 +43,7 @@ Siga estas etapas para criar um novo template de email.
 
    >[!CAUTION]
    >
-   >Embora não haja limite rígido, uma vez que um template de email seja usado por mais de 500 emails, a reaprovação desse template após uma atualização pode resultar em problemas de desempenho. Recomendamos que, uma vez que um template de email tenha 500 emails associados a ele, crie um novo template.
+   >Embora não haja limite rígido, uma vez que um modelo de email seja usado por mais de 500 emails, reaprovar esse modelo após uma atualização pode resultar em problemas de desempenho. Recomendamos que, uma vez que um modelo de email tenha 500 emails associados a ele, você crie um novo modelo.
 
 ## Salvar um email como modelo {#save-an-email-as-a-template}
 
@@ -52,15 +53,15 @@ Se você criou um email que gostaria de salvar como modelo para uso futuro, siga
 
    ![](assets/one.png)
 
-1. Encontre e selecione seu email e clique em **Editar rascunho**.
+1. Localize e selecione seu email e clique em **Editar rascunho**.
 
    ![](assets/two-1.png)
 
-1. Clique no botão **Ações de email** e selecione **Salvar como modelo**.
+1. Clique em **Ações de email** e selecione **Salvar como modelo**.
 
    ![](assets/four-1.png)
 
-1. Clique no botão **Pasta** , selecione onde deseja que o modelo fique ativo e clique em **Salvar**.
+1. Clique em **Pasta** selecione onde deseja que o modelo fique e clique em **Salvar**.
 
    ![](assets/five-1.png)
 
@@ -68,9 +69,9 @@ Se você criou um email que gostaria de salvar como modelo para uso futuro, siga
 
    >[!CAUTION]
    >
-   >Ao salvar um email como modelo, os valores de variável não serão transferidos. As variáveis continuarão a usar os padrões especificados no modelo subjacente. Os módulos disponíveis no email também não serão transferidos, a menos que tenham sido inseridos no corpo do email.
+   >Ao salvar um email como template, os valores de variável não serão transferidos. As variáveis continuarão a usar os padrões especificados no modelo subjacente. Os módulos disponíveis no email também não serão transferidos, a menos que tenham sido inseridos no corpo do email.
 
-Para personalizar seu modelo de email, confira o artigo abaixo.
+Para personalizar seu template de email, confira o artigo abaixo.
 
 >[!MORELIKETHIS]
 >

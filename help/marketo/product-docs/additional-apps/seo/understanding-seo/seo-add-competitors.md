@@ -3,7 +3,8 @@ unique-page-id: 2949192
 description: SEO - Adicionar concorrentes - Documentação do Marketo - Documentação do produto
 title: SEO - Adicionar concorrentes
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -42,4 +43,3 @@ Adicionar concorrentes permitirá que você acompanhe seu desempenho nas mesmas 
    >
    >* [Adicionar palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target="_blank"}
    >* [Noções Básicas sobre Palavras-chave (Exibição do Concorrente)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
-

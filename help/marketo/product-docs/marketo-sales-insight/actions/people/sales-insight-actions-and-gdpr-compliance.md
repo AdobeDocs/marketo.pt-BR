@@ -1,58 +1,59 @@
 ---
-description: Ações de insight de vendas e conformidade com o GDPR - Documentos da Marketo - Documentação do produto
-title: Ações de insight de vendas e conformidade com o GDPR
+description: Ações do Sales Insight e conformidade com o GDPR - Documentação da Marketo - Documentação do produto
+title: Ações do Sales Insight e conformidade com o GDPR
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1396'
 ht-degree: 3%
 
 ---
 
-# Ações de insight de vendas e conformidade com o GDPR {#sales-insight-actions-and-gdpr-compliance}
+# Ações do Sales Insight e conformidade com o GDPR {#sales-insight-actions-and-gdpr-compliance}
 
-O Regulamento Geral sobre a Proteção de Dados (GDPR) foi a legislação da União Europeia que entrou em vigor em 25 de maio de 2018.
+O Regulamento Geral sobre a Proteção de Dados (GDPR) é uma legislação da União Europeia que entrou em vigor em 25 de maio de 2018.
 
 ## Visão geral {#overview}
 
-O seu objetivo é reforçar os direitos das pessoas em causa na União Europeia (UE) e no Espaço Econômico Europeu (EEE) no que respeita à forma como os seus dados pessoais são utilizados e protegidos. &quot;Dados pessoais&quot; refere-se a qualquer informação relacionada com uma pessoa singular identificada ou identificável.
+O seu objetivo é reforçar os direitos dos titulares de dados na União Europeia (UE) e no Espaço Econômico Europeu (EEE) no que diz respeito à forma como os seus dados pessoais são utilizados e protegidos. &quot;Dados pessoais&quot; refere-se a qualquer informação que diga respeito a uma pessoa singular identificada ou identificável.
 
-O GDPR está estruturado em torno de seis princípios - chave (detalhados no artigo 5. º da legislação):
+O RGPD está estruturado em torno de seis princípios fundamentais (pormenorizados no artigo 5. º da legislação):
 
-1. Transparência sobre a forma como os dados serão utilizados e para que serão utilizados.
+1. Transparência na forma como os dados serão utilizados e para que serão utilizados.
 1. Garantir que os dados recolhidos sejam utilizados apenas para os fins explicitamente especificados no momento da recolha.
-1. Limitar a coleta de dados ao necessário para atingir a finalidade para a qual foi coletada.
+1. Limitar a coleta de dados ao necessário para atender à finalidade para a qual foram coletados.
 1. Garantir a precisão dos dados.
-1. Armazenar os dados somente pelo tempo necessário dentro do objetivo pretendido.
-1. Prevenção contra a utilização não autorizada ou perda acidental dos dados através da aplicação de medidas de segurança adequadas.
+1. Armazenar os dados somente pelo tempo necessário dentro da finalidade pretendida.
+1. Prevenção contra o uso não autorizado ou a perda acidental de dados por meio da implantação de medidas de segurança apropriadas.
 
-Além disso, há um novo requisito de responsabilidade para poder demonstrar como a conformidade está sendo gerenciada e rastreada. Isso significa manter registros de como e por que os dados pessoais foram coletados, bem como a documentação dos processos implementados para protegê-los.
+Além disso, há um novo requisito de responsabilidade para poder demonstrar como a conformidade está sendo gerenciada e controlada. Isso significa manter registros de como e por que os dados pessoais foram coletados, bem como a documentação dos processos implementados para protegê-los.
 
 ## A Quem Se Aplica? {#to-whom-does-it-apply}
 
-O GDPR aplica-se a qualquer organização dentro ou fora da UE que comercialize bens ou serviços para e/ou rastreie o comportamento de titulares de dados na UE e no EEE. Se você faz negócios com titulares de dados na Europa que envolvem o processamento de seus dados pessoais, esta legislação se aplica a você. As sanções por incumprimento são significativas, com multas elevadas para os que violam o regulamento; a coima máxima por uma única infração é de 20 milhões de euros ou 4% do volume de negócios anual a nível mundial, consoante o que for mais elevado.
+O RGPD aplica-se a qualquer organização dentro ou fora da UE que comercialize bens ou serviços para titulares de dados na UE e no EEE e/ou que acompanhe os seus comportamentos. Se você faz negócios com titulares de dados na Europa que envolvem o processamento de seus dados pessoais, esta legislação se aplica a você. As penalidades por não conformidade são significativas, com multas elevadas para aqueles que violam o regulamento; a multa máxima por uma única violação é de 20 milhões de euros ou 4% do volume de negócios mundial anual, o que for maior.
 
-## Implicações para marketing {#implications-for-marketing}
+## Implicações para o marketing {#implications-for-marketing}
 
-Os profissionais de marketing têm como objetivo criar experiências de clientes que sejam pessoais e humanas, baseadas em confiança e fornecidas com cuidado. Embora o GDPR não use esses termos, as metas são as mesmas: respeitar os direitos dos clientes e ganhar a confiança deles. Para criar e manter essa confiança, os profissionais de marketing devem estar atentos a como, quando e por que seus clientes desejam participar. É importante que as preferências do cliente sejam respeitadas, não apenas como um requisito legal, mas como a base das práticas de engajamento focadas no cliente.
+Os profissionais de marketing têm como objetivo criar experiências de clientes que se sentem pessoais e humanas, fundadas em confiança e fornecidas com cuidado. Embora o GDPR não use esses termos, as metas são as mesmas: respeitar os direitos dos clientes e ganhar a confiança deles. Para criar e manter essa confiança, os profissionais de marketing devem estar sintonizados com o como, quando e por que seus clientes desejam se envolver. É essencial que as preferências do cliente sejam respeitadas, não apenas como um requisito legal, mas como a base das práticas de envolvimento voltadas para o cliente.
 
-Como os profissionais de marketing lidam com essas expectativas mais altas em relação à coleta, ao uso e à segurança dos dados pessoais que são usados regularmente durante seu trabalho é fundamental, e o Marketo pode ajudar a atender a essas expectativas.
+A maneira como os profissionais de marketing abordam essas expectativas mais altas em relação à coleta, ao uso e à segurança dos dados pessoais usados regularmente no curso de seu trabalho é fundamental, e o Marketo pode ajudar a atender a essas expectativas.
 
-Há dois aspectos principais do GDPR: os profissionais de marketing precisam analisar as práticas anteriores, atuais e futuras. O primeiro é o consentimento do indivíduo para processar seus dados pessoais, e o segundo é a responsabilidade, nomeadamente ser capaz de demonstrar como os princípios do GDPR estão sendo seguidos.
+Há dois aspectos principais do GDPR em que os profissionais de marketing precisam analisar práticas passadas, atuais e futuras. O primeiro é o consentimento do indivíduo para processar seus dados pessoais, e o segundo é a responsabilidade, ou seja, poder demonstrar como os princípios do GDPR estão sendo seguidos.
 
-Fornecemos amplas informações sobre consentimento e responsabilidade na plataforma Marketo em nosso e-book, [O GDPR e o profissional de marketing](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). No entanto, neste artigo, vamos nos concentrar especificamente nos novos recursos nas Ações de insight de vendas que ajudarão sua organização a aderir às regras do GDPR.
+Fornecemos informações abrangentes sobre consentimento e responsabilidade na plataforma Marketo em nosso e-book, [GDPR e o profissional de marketing](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). No entanto, neste artigo, vamos nos concentrar especificamente nos novos recursos das Ações de insights de vendas que ajudarão sua organização a seguir as regras do GDPR.
 
-## Conformidade com o GDPR em ações de insight de vendas {#gdpr-compliance-in-marketo-sales-connect}
+## Conformidade com o GDPR em ações do Sales Insight {#gdpr-compliance-in-marketo-sales-connect}
 
-As Ações de insight de vendas são um aplicativo poderoso — parte da Marketo Engagement Platform — que fornece um único fluxo de trabalho e visualização para vendas e marketing para impulsionar coletivamente o pipeline mais rapidamente por meio de envolvimento colaborativo. Uma nova funcionalidade em Ações de insight de vendas foi criada especificamente tendo em mente a conformidade com o GDPR. Descreveremos todas as três funções e explicaremos como elas, quando usadas corretamente, ajudarão seus esforços de conformidade com o GDPR de sua organização.
+As Ações de insight de vendas são um aplicativo eficiente — parte da Plataforma de envolvimento da Marketo — que fornece um fluxo de trabalho e uma visualização únicos para vendas e marketing, a fim de impulsionar coletivamente o pipeline por meio do envolvimento colaborativo. A nova funcionalidade em Ações do Sales Insight foi criada especificamente com a conformidade do GDPR em mente. Descreveremos todas as três funções e explicaremos como elas, quando usadas corretamente, ajudarão nos esforços de conformidade do GDPR da sua organização.
 
 ## Cartão de conformidade {#compliance-card}
 
-As Ações de insight de vendas incluem um cartão de conformidade na Exibição de detalhes da pessoa para fornecer informações-chave sobre o Tipo de autorização de um contato, bem como seu Tipo de origem. Isso permite que os usuários adicionem e rastreiem facilmente informações críticas à privacidade de dados e os ajuda a tomar decisões mais informadas sobre a estratégia de campanha/alcance.
+As Ações do Sales Insight incluem um Cartão de Conformidade na Exibição de Detalhes da Pessoa para fornecer informações-chave sobre o Tipo de Autorização de um contato, bem como seu Tipo de Origem. Isso permite que os usuários adicionem e rastreiem facilmente informações essenciais à privacidade dos dados e os ajuda a tomar decisões mais informadas sobre a estratégia de campanha/alcance.
 
 **Tipo de Autorização de Contato**
 
-No Cartão de conformidade, os usuários podem rastrear a base jurídica para o processamento dos dados pessoais de um contato por meio do menu suspenso Autorização . Compreender o tipo de autorização de um contato ajuda os usuários das Ações de insight de vendas a tomarem decisões mais informadas sobre práticas de alcance geral, garantindo que cada campanha ou envolvimento seja legal e apropriado.
+No Cartão de conformidade, os usuários podem rastrear a base legal para processar os dados pessoais de um contato por meio do menu suspenso Autorização. Entender o tipo de autorização de um contato ajuda os usuários das Ações de Insight de vendas a tomar decisões mais conscientes em relação às práticas de alcance, garantindo que cada campanha ou envolvimento seja legal e apropriado.
 
 Os usuários têm várias opções para escolher, incluindo:
 
@@ -64,9 +65,9 @@ Os usuários têm várias opções para escolher, incluindo:
 * Interesse público/Autoridade oficial
 * Outro
 
-**Tipo de Fonte de Contato**
+**Tipo de fonte de contato**
 
-No novo Cartão de conformidade, os usuários podem rastrear a origem de um contato. O Tipo de Origem define de onde as informações de um contato vieram quando foram carregadas inicialmente nas Ações de Insight de Vendas. Compreender o tipo de origem de um contato também ajuda nas decisões relacionadas às práticas de alcance geral, bem como determinar quais outros sistemas ou locais os dados pessoais são armazenados, garantindo que cada envolvimento esteja em conformidade com a legislação do GDPR.
+No novo Cartão de conformidade, os usuários podem rastrear a origem de um contato. O Tipo de origem define de onde vieram as informações de um contato quando carregadas inicialmente nas Ações do Sales Insight. Entender o tipo de origem de um contato também ajuda nas decisões relacionadas às práticas de alcance, bem como determinar quais outros sistemas ou locais os dados pessoais são armazenados, garantindo que cada envolvimento esteja em conformidade com a legislação do GDPR.
 
 Novamente, os usuários têm várias opções suspensas para escolher, incluindo:
 
@@ -76,51 +77,51 @@ Novamente, os usuários têm várias opções suspensas para escolher, incluindo
 * Extensão do Chrome
 * Outro
 
-**Edição do cartão de conformidade**
+**Editar o cartão de conformidade**
 
-Quando a Exibição de detalhes da pessoa estiver aberta, clique em **Editar** no Cartão de conformidade.
+Quando a Exibição de Detalhes da Pessoa estiver aberta, clique em **Editar** no Cartão de conformidade.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
 
-Você verá dois menus suspensos: Tipo de Autorização e Tipo de Origem.
+Você verá dois menus suspensos: Tipo de autorização e Tipo de origem.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 
-Se você escolher &quot;Consentimento&quot; como o Tipo de autorização, dois campos obrigatórios: &quot;Data do consentimento&quot; e &quot;Finalidade do processamento&quot; serão exibidas. Esses dois campos não se aplicam a outras opções.
+Se você escolher &quot;Consentimento&quot; como o Tipo de autorização, dois campos obrigatórios: &quot;Data de consentimento&quot; e &quot;Finalidade do processamento&quot; serão exibidos. Esses dois campos não se aplicam a outras opções.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-3.png)
 
-Se &quot;Outro&quot; for escolhido para o Tipo de Autorização ou Tipo de Origem, você poderá digitar um texto para descrever o Tipo de Origem.
+Se &quot;Outro&quot; for escolhido como Tipo de Autorização ou Tipo de Origem, você poderá inserir texto para descrever o Tipo de Origem.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-4.png)
 
 **Ações em massa**
 
-As ações Sales Insight também permitem a atualização da Autorização e dos tipos de origem de um contato em massa, economizando tempo valioso no processo de conformidade.
+As Ações de Insight de vendas também permitem atualizar os tipos de Autorização e Origem de um contato em massa, economizando tempo valioso no processo de conformidade.
 
-Quando você seleciona um ou mais contatos da página Pessoas, um ponto (menu de três pontos) é exibido à direita. Clique nele e você verá as opções Autorização e Origem são . Você pode definir a Autorização ou a Fonte de vários contatos simultaneamente.
+Ao selecionar um ou mais contatos na página Pessoas, um dado (menu de três pontos) é exibido à direita. Clique nele e você verá Autorização e Origem como opções. Você pode definir a Autorização ou Origem de vários contatos simultaneamente.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
-Quando você clica no modal Autorização, é exibido um pop-up com opções suspensas que correspondem às do Cartão de conformidade.
+Ao clicar no modal Autorização, um pop-up com opções suspensas que correspondem às do Cartão de conformidade é exibido.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-6.png)
 
-Depois que o Tipo de autorização for atualizado, você receberá um pop-up de confirmação e poderá ver os detalhes atualizados no Cartão de conformidade na Exibição de detalhes da pessoa.
+Depois que o Tipo de autorização for atualizado, você receberá uma janela pop-up de confirmação e poderá ver os detalhes atualizados no Cartão de conformidade na Exibição de detalhes da pessoa.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-7.png)
 
-Da mesma forma, o Tipo de Fonte pode ser atualizado em massa também clicando no modal Origem.
+Da mesma forma, o Tipo de origem pode ser atualizado em massa também clicando no modal Origem.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-8.png)
 
-Após selecionar o Tipo de Origem correto para os contatos selecionados, uma janela de confirmação será exibida para confirmar a atualização bem-sucedida.
+Depois de selecionar o Tipo de origem correto para os contatos selecionados, uma janela de confirmação será exibida para confirmar a atualização bem-sucedida.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-9.png)
 
-## Exportar dados de contato de ações de insight de vendas {#exporting-contact-data-from-marketo-sales-connect}
+## Exportar Dados De Contato Das Ações Do Sales Insight {#exporting-contact-data-from-marketo-sales-connect}
 
-Você pode exportar informações de contato da Exibição de detalhes da pessoa. A exportação baixará um arquivo .CSV com as seguintes colunas:
+Você pode exportar informações de contato da Exibição de Detalhes da Pessoa. A exportação baixará um arquivo .CSV com as seguintes colunas:
 
 <table> 
  <colgroup> 
@@ -164,27 +165,27 @@ Você pode exportar informações de contato da Exibição de detalhes da pessoa
 
 >[!NOTE]
 >
->Isso só pode ser feito em um contato por vez. No momento, não há funcionalidade que permita exportações em massa de contatos.
+>Isso só pode ser feito em um contato por vez. No momento, não há nenhuma funcionalidade que permita exportações em massa de contatos.
 
-Para exportar informações de contato, clique nos três pontos verticais no Cabeçalho de Exibição de Detalhes da Pessoa e selecione **Exportar**. O arquivo .CSV será baixado automaticamente.
+Para exportar informações de contato, clique nos três pontos verticais no Cabeçalho da Exibição de Detalhes da Pessoa e selecione **Exportar**. O arquivo .CSV será baixado automaticamente.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-10.png)
 
 >[!NOTE]
 >
->O GDPR também requer a capacidade de excluir contatos da interface do usuário, mas as Ações de insight de vendas já possuem essa funcionalidade.
+>O GDPR também requer a capacidade de excluir contatos da interface do usuário, mas as Ações do Sales Insight já possuem essa funcionalidade.
 
 ## Cancelamentos de inscrição {#unsubscribes}
 
-Uma área geralmente mal compreendida do GDPR envolve contatos que cancelam a assinatura do banco de dados da organização. Para aderir às novas regras sobre a proteção de dados daqueles que optam por cancelar a assinatura, a seguinte funcionalidade foi incluída em Ações de informações de vendas:
+Uma área do GDPR comumente mal compreendida envolve contatos que cancelam a inscrição no banco de dados da organização. Para aderir às novas regras de proteção de dados daqueles que optam por cancelar a inscrição, a seguinte funcionalidade foi incluída nas Ações do Sales Insight:
 
-**Cancelar assinatura de links:** Os links de cancelamento de inscrição serão anexados automaticamente a todos os emails enviados do aplicativo web Sales Connect para garantir que os contatos tenham uma maneira acessível de recusar.\
-**Cancelar assinatura da sincronização:** Os usuários podem sincronizar cancelamentos de subscrições de e para seu CRM (Salesforce) para garantir que as recusas estejam atualizadas.\
-**Histórico de Cancelamento de Assinatura:** Os usuários podem ver opções de não participação e opções históricas na Exibição de detalhes da pessoa.\
-**Cancelamento de inscrição:** A opção de retornar um contato cancelado requer que o usuário tenha privilégios de administrador e demonstre que o contato deu novo consentimento para contatá-los.
+**Links para cancelar inscrição:** Os links de cancelamento de inscrição serão anexados automaticamente a todos os emails enviados pelo aplicativo Web do Sales Connect para garantir que os contatos tenham uma maneira acessível de recusar.\
+**Cancelar assinatura da sincronização:** Os usuários podem sincronizar cancelamentos de assinatura de e para seu CRM (Salesforce) para garantir que os cancelamentos estejam atualizados.\
+**Cancelar inscrição no histórico:** Os usuários podem ver recusas e recusas históricas na Exibição de detalhes da pessoa.\
+**Cancelar inscrição da remoção:** A aceitação de um contato não assinado de volta requer que o usuário tenha privilégios de administrador e demonstre que o contato deu novo consentimento para entrar em contato com ele.
 
 ## Atualizações futuras {#future-updates}
 
-Como um entusiasta defensor do poder e da centricidade do cliente na economia de engajamento, a Marketo entende a importância de colocar a privacidade e a proteção de dados nas mãos do titular dos dados. Assim como em outras leis de proteção de dados, a conformidade com o GDPR exige o compromisso da Marketo e de nossos clientes. Este artigo tem como objetivo ajudá-lo a usar o Marketo de maneira adequada para respaldar a conformidade da sua organização com o GDPR.
+Como uma defensora entusiasmada da potência e da centralização do cliente na economia do engajamento, a Marketo entende a importância de colocar a privacidade e a proteção de dados nas mãos do titular dos dados. Assim como em outras leis de proteção de dados, a conformidade com o GDPR requer o compromisso da Marketo e de nossos clientes. Este artigo tem como objetivo ajudar você a usar o Marketo de maneira apropriada para oferecer suporte à conformidade com o GDPR da sua organização.
 
-Continuaremos a acompanhar de perto as orientações do GDPR aplicáveis emitidas pelas autoridades reguladoras e legislação relacionada. As atualizações serão publicadas em nosso Centro de Confiança em [trust.marketo.com](https://trust.marketo.com).
+Continuaremos a acompanhar de perto as orientações do GDPR aplicáveis emitidas pelas autoridades reguladoras e pela legislação relacionada. As atualizações serão publicadas em nossa Central de Confiabilidade em [trust.marketo.com](https://trust.marketo.com).

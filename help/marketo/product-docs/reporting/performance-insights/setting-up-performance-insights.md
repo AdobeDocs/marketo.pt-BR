@@ -1,9 +1,10 @@
 ---
 unique-page-id: 12981145
-description: Configuração de insights de desempenho - Documentos do Marketo - Documentação do produto
+description: Configuração do Performance Insights - Documentação do Marketo - Documentação do produto
 title: Configuração de insights de desempenho
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 3%
@@ -14,9 +15,9 @@ ht-degree: 3%
 
 Siga as etapas abaixo para configurar a MPI.
 
-## Configuração da Oportunidade {#opportunity-setup}
+## Configuração da oportunidade {#opportunity-setup}
 
-1. Clique em **Administrador**.
+1. Clique em **Admin**.
 
    ![](assets/admin.png)
 
@@ -26,7 +27,7 @@ Siga as etapas abaixo para configurar a MPI.
 
    >[!NOTE]
    >
-   >Se você não tiver RCA, precisará selecionar **Análise de programa** para a Etapa 2.
+   >Se você não tiver a RCA, precisará selecionar **Análise do programa** para a Etapa 2.
 
 1. Em Atribuição, clique em **Editar**.
 
@@ -36,25 +37,24 @@ Siga as etapas abaixo para configurar a MPI.
 
    ![](assets/four-2.png)
 
-   Se a Atribuição for explícita, verifique se a Função de Contato da Oportunidade foi preenchida (por meio do endpoint Função da Oportunidade ou por meio da integração CRM).
+   Se a Atribuição for explícita, verifique se a Função de contato da oportunidade foi preenchida (por meio do endpoint da Função da oportunidade ou pela integração do CRM).
 
-   Se a Atribuição estiver implícita, verifique se o campo da empresa no cliente potencial/contato é o mesmo que o Nome da conta da oportunidade.
+   Se a Atribuição estiver implícita, verifique se o campo da empresa no cliente potencial/contato é igual ao Nome da conta da oportunidade.
 
    >[!NOTE]
    >
-   >Verifique se todas as oportunidades têm os campos apropriados preenchidos:
+   >Certifique-se de que todas as oportunidades tenham os campos apropriados preenchidos:
    >
    >* Valor da oportunidade
    >* É fechado
    >* É obtido
-   >* Data de criação (talvez não seja definida em seu caso)
-   >* Data de fechamento (talvez não seja definida no seu caso)
+   >* Data de criação (não pode ser definida no seu caso)
+   >* Data de fechamento (não pode ser definida no seu caso)
    >* Tipo de oportunidade
-
 
 ## Configuração de programa {#program-setup}
 
-Atualize os custos do programa por pelo menos 12 meses. Você pode fazer isso manualmente ou usando a API do programa. Neste exemplo, fazemos isso manualmente.
+Atualizar os custos do programa por, pelo menos, 12 meses. Você pode fazer isso manualmente ou usando a API do programa. Neste exemplo, fazemos isso manualmente.
 
 1. Clique em **Atividades de marketing**.
 
@@ -64,15 +64,15 @@ Atualize os custos do programa por pelo menos 12 meses. Você pode fazer isso ma
 
    ![](assets/select-program.png)
 
-1. Clique no botão **Configuração** guia .
+1. Clique em **Configuração** guia.
 
    ![](assets/setup-tab.png)
 
-1. Arrastar **Custo do Período** na tela.
+1. Arrastar **Custo do Período** sobre a tela.
 
    ![](assets/period-cost.png)
 
-1. Configure o Mês do Programa para pelo menos 12 meses atrás e clique em **Ok**.
+1. Defina o Mês do programa para pelo menos 12 meses atrás e clique em **Ok**.
 
    ![](assets/set-period.png)
 
@@ -80,9 +80,9 @@ Atualize os custos do programa por pelo menos 12 meses. Você pode fazer isso ma
 
    ![](assets/set-cost.png)
 
-Em seguida, analise o comportamento do analytics para indicar se um canal específico deve ser incluído no analytics. Defina o comportamento do Analytics (Normal, Inclusivo, Operacional).
+Em seguida, revise o comportamento do Analytics para indicar se um canal específico deve ser incluído no Analytics. Defina o comportamento do Analytics (Normal, Inclusivo, Operacional).
 
-1. Clique em **Administrador**.
+1. Clique em **Admin**.
 
    ![](assets/admin.png)
 
@@ -90,7 +90,7 @@ Em seguida, analise o comportamento do analytics para indicar se um canal espec�
 
    ![](assets/tags.png)
 
-1. Clique no botão **+** para expandir a lista Canal.
+1. Clique em **+** para expandir a Lista de canais.
 
    ![](assets/channel.png)
 
@@ -98,7 +98,7 @@ Em seguida, analise o comportamento do analytics para indicar se um canal espec�
 
    ![](assets/channel-click.png)
 
-1. Clique no botão **Comportamento do Analytics** e selecione o comportamento desejado.
+1. Clique em **Comportamento do Analytics** e selecione o comportamento desejado.
 
    ![](assets/edit-channel.png)
 
@@ -113,8 +113,8 @@ Em seguida, analise o comportamento do analytics para indicar se um canal espec�
 ## Vincular o programa à pessoa {#tie-the-program-to-the-person}
 
 1. Verifique se o Programa de aquisição e a Data de aquisição foram definidos para cada pessoa no banco de dados para que a Atribuição de primeiro contato funcione.
-1. Certifique-se de que os seus programas estejam a definir estados de sucesso para o seu pessoal.
+1. Certifique-se de que seus programas estejam definindo estados de sucesso para sua equipe.
 
 >[!NOTE]
 >
->As alterações efetuadas não são instantâneas. É necessário um período overnight antes de as alterações entrarem em vigor.
+>As alterações feitas não são instantâneas. É necessário um período noturno antes de as alterações entrarem em vigor.

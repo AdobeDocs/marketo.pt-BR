@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7512434
-description: Configurar o acesso por push do iOS para aplicativos móveis - Documentos do Marketo - Documentação do produto
+description: Configurar o acesso por push do iOS para aplicativos móveis - Documentação do Marketo - Documentação do produto
 title: Configurar o acesso por push do iOS para aplicativos móveis
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 1%
@@ -12,7 +13,7 @@ ht-degree: 1%
 
 # Configurar o acesso por push do iOS para aplicativos móveis {#configure-mobile-app-ios-push-access}
 
-1. Clique em **Administrador**.
+1. Clique em **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -24,19 +25,19 @@ ht-degree: 1%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Em Tipo de acesso de push, selecione iOS e clique em **Configurar**.
+1. Em Tipo de acesso por push, selecione iOS e clique em **Configurar**.
 
    ![](assets/image2016-6-10-11-3a37-3a9.png)
 
    >[!NOTE]
    >
-   >Você precisará de um **Certificado** e **Senha** do desenvolvedor de aplicativos móveis. O desenvolvedor os recebe fazendo logon no Apple Developer Member Center, configurando e baixando um certificado de notificação por push para seu aplicativo e exportando o conteúdo. O desenvolvedor define a senha ao fazer a exportação. **IMPORTANTE**: O certificado deve ser adequado para o tipo de ambiente que você está usando — Sandbox ou Produção. Verifique isso com o administrador do Marketo ou desenvolvedor de aplicativos móveis.
+   >Você precisará de um **Certificado** e **Senha** do desenvolvedor de aplicativos móveis. O desenvolvedor recebe isso ao fazer logon no Centro de membros do desenvolvedor do Apple, configurar e baixar um certificado de notificação por push para seu aplicativo e exportar o conteúdo. O desenvolvedor define a senha ao fazer a exportação. **IMPORTANTE**: o certificado deve ser apropriado para o tipo de ambiente que você está usando — sandbox ou produção. Verifique isso com o administrador do Marketo ou com o desenvolvedor de aplicativos móveis.
 
-1. Selecione seu Certificado, digite sua Senha e clique em **Salvar**.
+1. Selecione o Certificado, digite a Senha e clique em **Salvar**.
 
    ![](assets/image2015-4-22-17-3a19-3a18.png)
 
-Muito bem! Certifique-se de configurar também o aplicativo com Android.
+Muito bem! Configure também o aplicativo com o Android.
 
 >[!MORELIKETHIS]
 >

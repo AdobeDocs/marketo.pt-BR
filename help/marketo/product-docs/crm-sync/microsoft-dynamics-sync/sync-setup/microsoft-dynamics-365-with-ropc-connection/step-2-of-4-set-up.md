@@ -1,21 +1,22 @@
 ---
-description: Etapa 2 de 4 - Configurar a solução Marketo com Conexão de Controle de Senha do Proprietário de Recursos - Documentos Marketo - Documentação do produto
-title: Etapa 2 de 4 - Configurar a solução Marketo com a conexão de controle de senha do proprietário de recursos
+description: Etapa 2 de 4 - Configurar a solução da Marketo com a conexão de controle de senha de proprietário de recurso - Documentação da Marketo - Documentação do produto
+title: Etapa 2 de 4 - Configurar a Solução da Marketo com a Conexão de Controle de Senha do Proprietário do Recurso
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
-source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
 
 ---
 
-# Etapa 2 de 4: Configurar a solução Marketo com a conexão de controle de senha do proprietário de recursos {#step-2-of-4-set-up-the-marketo-solution-ropc}
+# Etapa 2 de 4: Configurar a Solução da Marketo com a Conexão de Controle de Senha do Proprietário do Recurso {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
 Vamos começar criando uma conta de usuário.
 
 >[!PREREQUISITES]
 >
->[Etapa 1 de 4: Instale a solução Marketo com a conexão de controle de senha do proprietário de recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+>[Etapa 1 de 4: instalar a solução Marketo com a conexão de controle de senha de proprietário de recurso](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
 
 ## Criar um novo usuário {#create-a-new-user}
 
@@ -35,11 +36,11 @@ Vamos começar criando uma conta de usuário.
 
    ![](assets/four.png)
 
-1. Clique em **Adicionar e Licenciar Usuários** na nova janela.
+1. Clique em **Adicionar e licenciar usuários** na nova janela.
 
    ![](assets/five.png)
 
-1. Uma nova guia é aberta. Clique em **Administrador** na parte superior da página.
+1. Uma nova guia é aberta. Clique em **Admin** na parte superior da página.
 
    ![](assets/six.png)
 
@@ -57,80 +58,80 @@ Vamos começar criando uma conta de usuário.
 
    >[!NOTE]
    >
-   >Esse nome deve ser um usuário de sincronização dedicado e não uma conta de usuário do CRM existente. Não precisa ser um endereço de email real.
+   >Esse nome deve ser um usuário de sincronização dedicado e não uma conta existente de usuário do CRM. Não precisa ser um endereço de email real.
 
-1. Digite o email para receber as novas credenciais do usuário e clique em **Enviar e-mail e fechar**.
+1. Insira o email para receber as novas credenciais de usuário e clique em **Enviar e-mail e fechar**.
 
    ![](assets/nine.png)
 
 ## Atribuir Função de Usuário de Sincronização {#assign-sync-user-role}
 
-Atribua a função Usuário de sincronização do Marketo somente ao usuário de sincronização do Marketo. Não é necessário atribuí-lo a nenhum outro usuário.
+Atribua a função de Usuário de sincronização do Marketo somente ao usuário de sincronização do Marketo. Você não precisa atribuí-lo a nenhum outro usuário.
 
 >[!NOTE]
 >
->Isso se aplica ao Marketo versão 4.0.0.14 e posterior. Para versões anteriores, todos os usuários devem ter a função de sincronização do usuário. Para atualizar o Marketo, consulte [Atualizar a solução Marketo para o Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>Isso se aplica à versão 4.0.0.14 e posterior do Marketo. Para versões anteriores, todos os usuários devem ter a função de usuário sincronizar. Para atualizar o Marketo, consulte [Atualizar a solução Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
 >A configuração de idioma do Usuário de sincronização [deve ser definido como inglês](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
 
-1. Volte para a guia Usuários ativados e atualize a lista de usuários.
+1. Volte para a guia Usuários Ativados e atualize a lista de usuários.
 
    ![](assets/ten.png)
 
-1. Passe o mouse sobre o usuário recém-criado do Marketo Sync , e uma caixa de seleção será exibida. Clique em para selecioná-lo.
+1. Passe o mouse ao lado do usuário recém-criado do Marketo Sync e uma caixa de seleção será exibida. Clique para selecioná-la.
 
    ![](assets/eleven.png)
 
-1. Clique em **Gerenciar funções**.
+1. Clique em **Gerenciar Funções**.
 
    ![](assets/twelve.png)
 
-1. Verificar **Usuário do Marketo Sync** e clique em **OK**.
+1. Marcar **Usuário de sincronização do Marketo** e clique em **OK**.
 
    ![](assets/thirteen.png)
 
    >[!NOTE]
    >
-   >Qualquer atualização feita em seu CRM pelo Usuário de sincronização **not** ser sincronizado de volta ao Marketo.
+   >Quaisquer atualizações feitas em seu CRM pelo Usuário do Sync **não** ser sincronizado com o Marketo.
 
-## Configurar a solução Marketo {#configure-marketo-solution}
+## Configurar a solução da Marketo {#configure-marketo-solution}
 
-Quase lá! Resta informar a Marketo Solution sobre o novo usuário criado.
+Quase lá! Tudo o que resta é informar a solução Marketo sobre o novo usuário criado.
 
-1. Volte para a seção Configurações avançadas e clique no botão ![](assets/image2015-5-13-15-3a49-3a19.png) ícone ao lado de Configurações e selecione **Configuração do Marketo**.
+1. Volte para a seção Advanced Settings e clique no link ![](assets/image2015-5-13-15-3a49-3a19.png) ícone ao lado de Configurações e selecione **Configuração do Marketo**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Se você não vir **Configuração do Marketo** no menu Configurações , atualize a página. Se isso não funcionar, tente [publicar a solução Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) novamente ou faça logoff e volte.
+   >Se você não vir **Configuração do Marketo** no menu Configurações, atualize a página. Se isso não funcionar, tente [publicar a solução da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) novamente ou faça logout e login novamente.
 
 1. Clique em **Padrão**.
 
    ![](assets/fifteen.png)
 
-1. Clique no botão de pesquisa na **Usuário do Marketo** e selecione o usuário de sincronização que você criou.
+1. Clique no botão de pesquisa na guia **Usuário do Marketo** e selecione o usuário de sincronização criado.
 
    ![](assets/sixteen.png)
 
-1. Clique no botão ![](assets/image2015-3-13-15-3a10-3a11.png) no canto inferior direito para salvar as alterações.
+1. Clique em ![](assets/image2015-3-13-15-3a10-3a11.png) no canto inferior direito para salvar as alterações.
 
    ![](assets/image2015-3-13-15-3a3-3a3.png)
 
-1. Clique no botão **X** no canto superior direito para fechar a tela.
+1. Clique em **X** no canto superior direito para fechar a tela.
 
    ![](assets/seventeen.png)
 
-1. Clique no botão ![](assets/image2015-5-13-15-3a49-3a19-1.png) ícone ao lado de Configurações e selecione **Soluções**.
+1. Clique em ![](assets/image2015-5-13-15-3a49-3a19-1.png) ícone ao lado de Configurações e selecione **Soluções**.
 
    ![](assets/eighteen.png)
 
-1. Clique no botão **Publicar todas as personalizações** botão.
+1. Clique em **Publicar todas as personalizações** botão.
 
    ![](assets/nineteen.png)
 
 >[!MORELIKETHIS]
 >
->[Etapa 3 de 4: Conecte a solução Marketo com a conexão de controle de senha do proprietário de recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+>[Etapa 3 de 4: Conectar a Solução da Marketo com a Conexão de Controle de Senha do Proprietário do Recurso](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)

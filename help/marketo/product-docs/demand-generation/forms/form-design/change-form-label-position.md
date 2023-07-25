@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359612
-description: Alterar posição do rótulo do formulário - Documentos do Marketo - Documentação do produto
-title: Alterar posição do rótulo do formulário
+description: Alterar a posição do rótulo do formulário - Documentação do Marketo - Documentação do produto
+title: Alterar a posição do rótulo do formulário
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 2%
 
 ---
 
-# Alterar posição do rótulo do formulário {#change-form-label-position}
+# Alterar a posição do rótulo do formulário {#change-form-label-position}
 
-When [criação de um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), é possível alterar o posicionamento dos rótulos do campo de formulário com facilidade. Veja como.
+Quando [criação de um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), é possível alterar o posicionamento dos rótulos dos campos de formulário com muita facilidade. Veja como.
 
 1. Ir para **Atividades de marketing**.
 
@@ -30,9 +31,9 @@ When [criação de um formulário](/help/marketo/product-docs/demand-generation/
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
-   Atualmente, você tem duas opções:
+   No momento, você tem duas opções:
 
-   * Left (padrão)
+   * Esquerda (padrão)
    * Acima
 
 1. Clique em **Concluir**.
@@ -43,16 +44,16 @@ When [criação de um formulário](/help/marketo/product-docs/demand-generation/
 
    >[!NOTE]
    >
-   >O formulário deve ser aprovado para ser usado nas landing pages.
+   >O formulário deve ser aprovado para ser usado em landing pages.
 
    ![](assets/image2014-9-15-16-3a17-3a12.png)
 
    >[!NOTE]
    >
-   >Lembre-se de aprovar o rascunho da landing page criado pelas alterações do formulário.
+   >Lembre-se de aprovar o rascunho da página de aterrissagem criado pelas alterações do formulário.
 
-Muito bem! Veja como foi fácil alterar as posições das etiquetas em um formulário? Vamos ver o que podemos fazer em relação à alteração da fonte dos rótulos do formulário.
+Muito bem! Você vê como foi fácil alterar as posições das etiquetas em um formulário? OK, vamos ver o que podemos fazer sobre a alteração da fonte dos rótulos do formulário.
 
 >[!MORELIKETHIS]
 >
->[Alterar a família de fontes de formulário](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
+>[Alterar a Família de Fontes do Formulário](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)

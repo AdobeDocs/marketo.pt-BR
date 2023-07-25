@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7512463
-description: Excluir notificação por push para dispositivos móveis - Documentos do Marketo - Documentação do produto
+description: Excluir notificação por push de dispositivos móveis - Documentação do Marketo - Documentação do produto
 title: Excluir notificação por push para celular
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 11%
@@ -12,11 +13,11 @@ ht-degree: 11%
 
 # Excluir notificação por push para celular {#delete-mobile-push-notification}
 
-1. Vá para o **Atividades de marketing** área.
+1. Vá para a **Atividades de marketing** área.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
-1. Encontre e selecione sua notificação por push móvel.
+1. Localize e selecione sua notificação por push móvel.
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
@@ -30,4 +31,4 @@ ht-degree: 11%
 
    >[!NOTE]
    >
-   >Se a Notificação por push móvel estiver sendo usada por outros ativos, você não poderá excluí-la. Você precisa ir e removê-lo dos ativos.
+   >Se a Notificação por push de dispositivos móveis estiver sendo usada por outros ativos, você não poderá excluí-la. Você precisa removê-lo dos ativos.

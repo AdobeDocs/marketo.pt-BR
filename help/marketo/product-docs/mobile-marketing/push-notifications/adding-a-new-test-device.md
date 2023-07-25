@@ -1,16 +1,17 @@
 ---
 unique-page-id: 8783146
-description: Adicionar um novo dispositivo de teste - Documentos do Marketo - Documentação do produto
-title: Adicionar um novo dispositivo de teste
+description: Adição de um novo dispositivo de teste - Documentação do Marketo - Documentação do produto
+title: Adicionando um novo dispositivo de teste
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%
 
 ---
 
-# Adicionar um novo dispositivo de teste {#adding-a-new-test-device}
+# Adicionando um novo dispositivo de teste {#adding-a-new-test-device}
 
 É fácil adicionar um novo dispositivo de teste para enviar notificações.
 
@@ -18,11 +19,11 @@ ht-degree: 1%
 >
 >**Permissões de administrador necessárias**
 
-1. Clique em **Administrador** e depois a **Aplicativos móveis** link .
+1. Clique em **Admin** e, em seguida, o **Aplicativos móveis** link.
 
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Clique no botão **Dispositivos de teste** e **Novo dispositivo de teste**.
+1. Clique em **Testar dispositivos** e **Novo dispositivo de teste**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -36,11 +37,11 @@ ht-degree: 1%
 
    ![](assets/image2015-7-20-11-3a27-3a2.png)
 
-   Ou, com a segunda opção, clique no segundo botão e verifique o código QR com seu dispositivo.
+   Ou, com a segunda opção, clique no segundo botão e digitalize o código QR com seu dispositivo.
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. O aplicativo é aberto. Nomeie o dispositivo e toque **Sim**.
+1. O aplicativo abre. Nomeie o dispositivo e toque em **Sim**.
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 
@@ -48,6 +49,6 @@ ht-degree: 1%
 
    ![](assets/image2015-7-17-17-3a33-3a5.png)
 
-1. O Status é atualizado para mostrar que o dispositivo é adicionado. Parabéns!  
+1. As Atualizações de status para mostrar o dispositivo são adicionadas. Parabéns!
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)

@@ -1,31 +1,31 @@
 ---
-description: Encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo - Documentos do Marketo - Documentação do produto
+description: Encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo - Documentação do Marketo - Documentação do produto
 title: Encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+feature: Static Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
 
 # Encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
-Esse recurso permite que você envie segmentos localizados no Adobe Experience Platform para o Marketo no formato de uma lista estática.
+Esse recurso permite enviar segmentos localizados no Adobe Experience Platform para o Marketo no formato de uma lista estática.
 
 >[!PREREQUISITES]
 >
->* [Editar a função da API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) para garantir que tenha o **Pessoa de Leitura-Escrita** permissão (encontrada no menu suspenso API de acesso ).
->* [Criar um usuário de API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) no Marketo.
->* Ir para **Administrador** > **Launchpoint**. Encontre o nome da função que acabou de criar e clique em **Exibir detalhes**. Copie e salve as informações em **ID do cliente** e **Segredo do cliente**, pois pode ser necessário para a Etapa 7.
->* No Marketo, crie uma lista estática ou localize e selecione uma que já tenha criado. Você precisará da ID dele.
+>* [Editar a função da API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) para garantir que tenha a **Pessoa de leitura-gravação** permissão (encontrada no menu suspenso Access API).
+>* [Criar um usuário da API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) no Marketo.
+>* Ir para **Admin** > **Launchpoint**. Encontre o nome da função que acabou de criar e clique em **Exibir detalhes**. Copiar e salvar as informações em **ID do cliente** e **Segredo do cliente**, pois pode ser necessário para a Etapa 7.
+>* No Marketo, crie uma lista estática ou localize e selecione uma que você já criou. Você precisará da ID dele.
 
-
-1. Faça logon em [Adobe Experience Platform](https://experience.adobe.com/).
+1. Efetue logon no [Adobe Experience Platform](https://experience.adobe.com/).
 
    ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
-1. Clique no ícone de grade e selecione **Experience Platform**.
+1. Clique no ícone da grade e selecione **Experience Platform**.
 
    ![](assets/push-an-adobe-experience-platform-segment-2.png)
 
@@ -37,7 +37,7 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. Encontre o Marketo Engage e clique em **Ativar**.
+1. Localize o bloco Marketo Engage e clique em **Ativar**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -46,35 +46,35 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
    ![](assets/push-an-adobe-experience-platform-segment-6.png)
 
 
-1. Em Tipo de conta, selecione o botão de opção Conta existente ou nova (neste exemplo, estamos escolhendo **Conta existente**). Clique no ícone Selecionar conta .
+1. Em Tipo de conta, selecione o botão de opção Conta existente ou Nova conta (neste exemplo, estamos escolhendo **Conta existente**). Clique no ícone Selecionar conta.
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
    >[!NOTE]
    >
-   >Se você estiver escolhendo Nova conta, poderá encontrar sua ID do Munchkin acessando **Administrador** > **Munchkin** (também faz parte do URL do Marketo depois de conectado). ID do cliente/Segredo é necessário seguir os pré-requisitos na parte superior deste artigo.
+   >Se você estiver escolhendo Nova conta, poderá encontrar sua ID do Munchkin acessando **Admin** > **Munchkin** (também faz parte do URL do Marketo depois de conectado). ID/segredo do cliente que você deve ter seguindo os pré-requisitos na parte superior deste artigo.
 
 1. Escolha a conta de destino e clique em **Selecionar**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Inserir um destino **Nome** e uma Descrição opcional. Clique no menu suspenso Criação de pessoa e escolha &quot;Corresponder pessoas existentes do Marketo e Criar pessoas ausentes no Marketo&quot; _ou_ &quot;Corresponder somente pessoas existentes do Marketo&quot; (neste exemplo, estamos escolhendo a primeira). Você também deve escolher uma **Workspace**.
+1. Inserir um destino **Nome** e uma Descrição opcional. Clique na lista suspensa Criação de pessoas e escolha &quot;Corresponder pessoas existentes do Marketo e Criar pessoas ausentes no Marketo&quot; _ou_ &quot;Corresponder somente a pessoas existentes do Marketo&quot; (neste exemplo, estamos escolhendo o anterior). Você também deve escolher um **Workspace**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
    >[!NOTE]
    >
-   >Se você escolher &quot;Corresponder somente pessoas existentes do Marketo&quot;, será necessário mapear o Email e/ou a ECID para que seja possível ignorar as Etapas 13 a 16.
+   >Se você escolher &quot;Corresponder somente a pessoas existentes do Marketo&quot;, será necessário mapear o email e/ou a ECID, para que possa pular as etapas 13 a 16.
 
 1. Esta seção é opcional. Clique em **Criar** para ignorar.
 
    ![](assets/push-an-adobe-experience-platform-segment-10.png)
 
-1. Selecione o destino criado e clique em **Próximo**.
+1. Selecione o destino criado e clique em **Próxima**.
 
    ![](assets/push-an-adobe-experience-platform-segment-11.png)
 
-1. Escolha o segmento que deseja enviar para o Marketo e clique em **Próximo**.
+1. Escolha o segmento que deseja enviar para o Marketo e clique em **Próxima**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
 
@@ -84,9 +84,9 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 
    >[!IMPORTANT]
    >
-   >Depois que um segmento é ativado para o destino do Marketo pela primeira vez, os perfis de preenchimento retroativo que já existiam no segmento antes da ativação do destino do Marketo podem receber **até 24 horas**. A partir de agora, sempre que perfis forem adicionados ao segmento, eles serão adicionados ao Marketo imediatamente.
+   >Depois que um segmento é ativado para o destino do Marketo pela primeira vez, os perfis de preenchimento retroativo que já existiam no segmento antes da ativação do destino do Marketo podem levar **até 24 horas**. A partir de agora, sempre que perfis forem adicionados ao segmento, eles serão adicionados ao Marketo imediatamente.
 
-1. Clique em **Adicionar novo mapeamento**.
+1. Clique em **Adicionar Novo Mapeamento**.
 
    ![](assets/push-an-adobe-experience-platform-segment-13.png)
 
@@ -94,19 +94,19 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. Escolha os atributos desejados e clique em **Selecionar**. Neste exemplo, estamos escolhendo nome, sobrenome e endereço de email.
+1. Escolha o(s) atributo(s) desejado(s) e clique em **Selecionar**. Neste exemplo, estamos escolhendo nome, sobrenome e endereço de email.
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
    >[!NOTE]
    >
-   >Você pode mapear atributos do Experience Platform para qualquer um dos atributos aos quais sua organização tem acesso no Marketo Engage. Use o [Descrever solicitação da API](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;} para recuperar campos de atributo aos quais sua organização tem acesso.
+   >Você pode mapear atributos do Experience Platform para qualquer um dos atributos aos quais sua organização tem acesso no Marketo Engage. Use o [Descrever solicitação de API](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} para recuperar campos de atributo aos quais sua organização tem acesso.
 
-1. Mapeie o sobrenome e o nome da empresa clicando em **Adicionar novo mapeamento** novamente e repetindo a Etapa 15 duas vezes, escolhendo **lastName** e depois **companyName**.
+1. Mapeie o Sobrenome e o Nome da empresa clicando em **Adicionar Novo Mapeamento** novamente e repetindo a Etapa 15 duas vezes, escolhendo **lastName** e depois **companyName**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
-1. Agora é hora de mapear o endereço de email. Clique em **Adicionar novo mapeamento** novamente.
+1. Agora é hora de mapear o endereço de email. Clique em **Adicionar Novo Mapeamento** novamente.
 
    ![](assets/push-an-adobe-experience-platform-segment-17.png)
 
@@ -114,38 +114,38 @@ Esse recurso permite que você envie segmentos localizados no Adobe Experience P
 
    ![](assets/push-an-adobe-experience-platform-segment-18.png)
 
-1. Clique no botão de opção Selecionar namespace de identidade e escolha  **Email**, depois clique em **Selecionar**.
+1. Clique no botão de opção Selecionar namespace de identidade e escolha  **E-mail** e, em seguida, clique em **Selecionar**.
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
    >[!IMPORTANT]
    >
-   >Mapeamento de email e/ou ECID do **Namespace de identidade** A guia é a coisa mais importante a se fazer para garantir que a pessoa seja comparada no Marketo. Mapear email garantirá a maior taxa de correspondência.
+   >Mapeamento de email e/ou ECID do **Namespace de identidade** A guia é a coisa mais importante a ser feita para garantir que a pessoa corresponda no Marketo. O mapeamento de email garantirá a mais alta taxa de correspondência.
 
-1. Agora é hora de escolher os campos de origem. Para email, clique no ícone do cursor.
+1. Agora é hora de escolher os campos de origem. Para email, clique no ícone de cursor.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
 
-1. Clique no botão de opção Selecionar namespace de identidade , localize e selecione **Email**, depois clique em **Selecionar**.
+1. Clique no botão de opção Selecionar namespace de identidade, localize e selecione **E-mail** e, em seguida, clique em **Selecionar**.
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-1. Para escolher o campo de origem Nome da empresa , clique no ícone do cursor na linha.
+1. Para escolher o campo de origem Nome da empresa, clique no ícone de cursor em sua linha.
 
    ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
-1. Deixe o botão de opção Selecionar atributos marcado. Procure por &quot;empresa&quot; e selecione **companyName**, depois clique em **Selecionar**.
+1. Deixe marcado o botão de opção Selecionar atributos. Procure por &quot;empresa&quot; e selecione **companyName** e, em seguida, clique em **Selecionar**.
 
    ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-1. Mapeie os campos de origem para Sobrenome e Nome clicando no ícone de cursor para cada um e repetindo a Etapa 23 duas vezes, escolhendo **lastName** e depois **firstName**.
+1. Mapeie os campos de origem para Sobrenome e Nome clicando no ícone do cursor para cada um e repita a Etapa 23 duas vezes, escolhendo **lastName** e depois **firstName**.
 
    ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. Clique em **Próximo**.
+1. Clique em **Próxima**.
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Revise suas alterações e clique em **Concluir**.
+1. Revise as alterações e clique em **Concluir**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)

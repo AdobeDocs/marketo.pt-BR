@@ -3,7 +3,8 @@ unique-page-id: 2360253
 description: Edite a mensagem "Exibir como página da Web" - Documentação do Marketo - Documentação do produto
 title: Edite a mensagem "Exibir como página da Web"
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 5%
@@ -46,7 +47,6 @@ Se precisar editar o &quot;[Visualizar como página da Web](/help/marketo/produc
 >
 >* Adicionar URLs adicionais a qualquer uma das caixas HTML
 >* Inserção do HTML na versão de texto
-
 
 É isso aí. Envie emails de teste para garantir a formatação.
 

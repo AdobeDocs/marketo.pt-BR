@@ -1,24 +1,25 @@
 ---
 unique-page-id: 557331
-description: Encontre todas as pessoas em um estágio de receita - Documentos do Marketo - Documentação do produto
-title: Localizar todas as pessoas em um estágio de receita
+description: Encontre todas as pessoas em um estágio de receita - Documentação do Marketo - Documentação do produto
+title: Encontrar todas as pessoas em um estágio de receita
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-# Localizar todas as pessoas em um estágio de receita {#find-all-people-in-a-revenue-stage}
+# Encontrar todas as pessoas em um estágio de receita {#find-all-people-in-a-revenue-stage}
 
 >[!PREREQUISITES]
 >
 >[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-## Localizar Todos os Membros de um Estágio de Receita Específico {#find-all-members-of-a-specific-revenue-stage}
+## Localizar todos os membros de um estágio de receita específico {#find-all-members-of-a-specific-revenue-stage}
 
-1. Em uma lista inteligente, clique no botão **Lista inteligente** , localize a **Estágio da receita** e arraste-o para a tela.
+1. Em uma lista inteligente, clique no link **Lista inteligente** , localize o **Estágio da receita** e arraste-o para a tela.
 
    ![](assets/draginrevenuefilter.png)
 
@@ -26,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two.jpg)
 
-1. Vá para o **Pessoas** para visualizar os resultados.
+1. Vá para a **Pessoas** para exibir os resultados.
 
    ![](assets/peopleresults.jpg)
 
@@ -34,8 +35,8 @@ ht-degree: 0%
 
 Agora que você sabe quais pessoas estão em quais estágios de receita, você pode vender diretamente para elas. Além de escolher **Estágio da receita** como um filtro de lista inteligente, você também pode escolhê-lo como um filtro &quot;if&quot; no fluxo.
 
-1. Na etapa de fluxo desejada, clique em **Adicionar escolha** e selecione **Estágio da receita** no menu suspenso .
+1. Na etapa de fluxo desejada, clique em **Adicionar seleção** e selecione **Estágio da receita** no menu suspenso.
 
    ![](assets/six.png)
 
-   A partir daí, você pode escolher quais membros serão afetados por qual aspecto da etapa do fluxo. Divertido!
+   A partir daí, você pode escolher quais membros são afetados por qual aspecto da etapa de fluxo. Divertido!

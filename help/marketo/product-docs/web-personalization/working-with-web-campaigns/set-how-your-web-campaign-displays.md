@@ -1,44 +1,45 @@
 ---
 unique-page-id: 12978906
-description: Defina como sua campanha da Web será exibida - Documentos do Marketo - Documentação do produto
-title: Definir como sua campanha da Web é exibida
+description: Defina Como A Campanha Da Web Será Exibida - Documentação Do Marketo - Documentação Do Produto
+title: Defina Como A Campanha Da Web Será Exibida
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 4%
 
 ---
 
-# Definir como sua campanha da Web é exibida {#set-how-your-web-campaign-displays}
+# Defina Como A Campanha Da Web Será Exibida {#set-how-your-web-campaign-displays}
 
-Há vários métodos a serem utilizados quando a sua campanha da Web for exibida.
+Há vários métodos para utilizar quando/como sua campanha da Web é exibida.
 
 ## Carregar página {#page-load}
 
-Selecionada por padrão, essa opção simplesmente exibe a campanha após o carregamento da página.
+Selecionada por padrão, essa opção simplesmente exibe a campanha no carregamento da página.
 
 ![](assets/pl1.png)
 
 ## Atraso {#delay}
 
-Especifique um atraso de tempo (no total de segundos) para que as campanhas da Web reajam em seu site.
+Especifique um atraso (em total de segundos) para que as campanhas da Web reajam no site.
 
-1. Clique no botão **Exibir em** e selecione **Atraso**.
+1. Clique em **Exibir em** e selecione **Atraso**.
 
    ![](assets/d1.png)
 
-1. Clique no botão **Aguardar** e selecione a quantidade de tempo desejada.
+1. Clique em **Aguardar** e selecione o tempo desejado.
 
    ![](assets/d2.png)
 
 ## Rolar {#scroll}
 
-1. Clique no botão **Exibir em** e selecione **Rolar**.
+1. Clique em **Exibir em** e selecione **Rolagem**.
 
    ![](assets/s1.png)
 
-1. Clique no botão **When** e selecione quando deseja que sua campanha da Web seja exibida.
+1. Clique em **Quando** e selecione quando deseja que sua campanha da web seja exibida.
 
    ![](assets/s2.png)
 
@@ -46,11 +47,11 @@ Especifique um atraso de tempo (no total de segundos) para que as campanhas da W
  <tbody> 
   <tr> 
    <td><strong>Abaixo da dobra</strong></td> 
-   <td>Exibe a campanha quando o visitante rola abaixo da dobra. A campanha desaparece quando o visitante rola para cima da dobra.</td> 
+   <td>Exibe a campanha quando o visitante rola abaixo da dobra. A campanha desaparece quando o visitante rola de volta acima da dobra.</td> 
   </tr> 
   <tr> 
    <td><strong>Percentual</strong></td> 
-   <td>Exibe a campanha quando o visitante rola para uma porcentagem predeterminada da página.</td> 
+   <td>Exibe a campanha quando o visitante rola para a porcentagem predeterminada da página.</td> 
   </tr> 
   <tr> 
    <td><strong>Pixel</strong></td> 
@@ -61,16 +62,16 @@ Especifique um atraso de tempo (no total de segundos) para que as campanhas da W
 
 ## Intenção de sair {#exit-intent}
 
-A intenção de saída exibirá a campanha da Web na saída do navegador do cursor do mouse.
+A intenção de saída exibirá a campanha da Web ao sair do navegador com o cursor do mouse.
 
-1. Clique no botão **Exibir em** e selecione **Propósito de saída**.
+1. Clique em **Exibir em** e selecione **Intenção de saída**.
 
    ![](assets/ei1.png)
 
-1. Será exibida uma mensagem lembrando que a intenção de saída não é compatível com o dispositivo móvel.
+1. Será exibida uma mensagem lembrando que a intenção de saída não é compatível com dispositivos móveis.
 
    ![](assets/ei2.png)
 
 >[!TIP]
 >
->Quer ver como os seus efeitos escolhidos irão olhar com antecedência? Dê uma olhada [Visualização da campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Quer ver como seus efeitos escolhidos serão antecipados? Confira por meio de um [Visualização da campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

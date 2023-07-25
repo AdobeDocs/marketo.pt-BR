@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2949857
-description: Editar um canal de evento - Documentos do Marketo - Documentação do produto
+description: Editar um canal de evento - Documentação do Marketo - Documentação do produto
 title: Editar um canal de evento
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Editar um canal de evento {#edit-an-event-channel}
 
-É possível editar o tipo de canal no **Resumo** ou da sua **Configuração** guia .
+É possível editar o tipo de canal no do evento **Resumo** ou de sua **Configuração** guia.
 
 >[!NOTE]
 >
@@ -20,19 +21,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Um programa é uma iniciativa específica de marketing. O **canal** O é destinado ao mecanismo de delivery, como Webinar, Transmissão ou Anúncio online. Você pode ver diferentes opções de canal na lista suspensa, dependendo do que está disponível em sua própria instância. Você também pode  [criar seu próprio canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+>Um programa é uma iniciativa de marketing específica. A variável **channel** O deve ser o mecanismo de entrega, como webinário, feira de negócios ou anúncio online. Você pode ver diferentes opções de canal no menu suspenso, dependendo do que está disponível em sua própria instância. Também é possível  [criar seu próprio canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
-## Na guia Resumo {#from-the-summary-tab}
+## Na guia Summary {#from-the-summary-tab}
 
 1. De **Atividades de marketing**, selecione o evento na árvore.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navegue até o **Resumo** exibir.
+1. Navegue até a **Resumo** exibição.
 
    ![](assets/eventprogramsummary.png)
 
-1. Em **Configurações** , selecione a categoria atual **Canal** exibido como um hiperlink.
+1. No **Configurações** categoria, selecione a categoria atual **Canal** exibido como um hiperlink.
 
    ![](assets/channeltypeevent.png)
 
@@ -46,13 +47,13 @@ ht-degree: 0%
 
 ## Na guia Configuração {#from-the-setup-tab}
 
-Um novo tipo de canal também pode ser atribuído no **Configuração** guia .
+Um novo tipo de canal também pode ser atribuído a partir do **Configuração** guia.
 
 1. Selecione o evento na árvore.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navegue até o **Configuração** guia . Clique duas vezes no botão atual **Canal**.
+1. Navegue até a **Configuração** guia. Clique duas vezes no atual **Canal**.
 
    ![](assets/setuptabchangechannel.png)
 

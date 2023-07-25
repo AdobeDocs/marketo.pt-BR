@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7504840
-description: Abortar programa de email - Documentos do Marketo - Documentação do produto
+description: Anular programa de email - Documentação do Marketo - Documentação do produto
 title: Anular programa de e-mail
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 7%
@@ -12,26 +13,26 @@ ht-degree: 7%
 
 # Anular programa de e-mail {#abort-email-program}
 
-Ih! Aperte os freios! Este programa de e-mail não deve sair.
+Ih! Acerte os freios! Esse programa de email não deve ser enviado.
 
 >[!NOTE]
 >
->Este artigo tem como objetivo ajudá-lo a evitar que os emails sejam enviados antes de serem enviados. Não há como recuperar emails enviados.
+>Este artigo tem como objetivo ajudar você a impedir que os emails saiam antes de serem enviados. Não há como recuperar emails enviados.
 
-1. Em um programa de email, clique em **Abortar programa**.
+1. Em um programa de email, clique em **Anular programa**.
 
    ![](assets/dashboardleads.jpg)
 
-1. Clique em **Abortar** para confirmação completa.
+1. Clique em **Anular** para confirmação completa.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 
-1. Um cabeçalho de alerta será exibido informando que este programa de email foi abortado.
+1. Um cabeçalho de alerta será exibido informando que este programa de e-mail foi abortado.
 
    ![](assets/dashboardleadchange2.jpg)
 
    >[!CAUTION]
    >
-   >Depois que o programa de email é abortado, ele não pode ser reagendado.
+   >Depois que o programa de email for abortado, ele não poderá ser reagendado.
 
-Uau! Você não está feliz por poder evitar esses erros caros?
+Ufa! Você não está feliz por poder evitar esses erros dispendiosos?

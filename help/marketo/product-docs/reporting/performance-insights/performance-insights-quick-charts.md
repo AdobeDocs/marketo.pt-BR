@@ -1,9 +1,10 @@
 ---
 unique-page-id: 12980873
-description: Gráficos rápidos do Performance Insights - Documentos do Marketo - Documentação do produto
+description: Gráficos rápidos do Performance Insights - Documentação do Marketo - Documentação do produto
 title: Gráficos rápidos do Performance Insights
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Gráficos rápidos do Performance Insights {#performance-insights-quick-charts}
 
-Os Gráficos Rápidos são miniaturas que você personaliza e salva, fornecendo uma visualização rápida dos gráficos que você mais usa.
+Gráficos rápidos são miniaturas que você personaliza e salva, fornecendo uma visualização rápida dos gráficos que você mais usa.
 
-## Criar um novo gráfico rápido {#create-a-new-quick-chart}
+## Criar um Novo Gráfico Rápido {#create-a-new-quick-chart}
 
-Os Gráficos rápidos se originam de dados especificados. Neste exemplo, nós escolheremos: **novas oportunidades (primeiro contato), tipo de oportunidade = novos negócios, ano até a data atual**.
+Os Gráficos Rápidos derivam dos dados especificados. Neste exemplo, escolheremos: **novas oportunidades (primeiro contato), tipo de oportunidade = novos negócios, acumulado no ano atual**.
 
 1. Clique no filtro de datas e escolha **Ano Atual (YTD)**.
 
    ![](assets/1-2.png)
 
-1. Clique no botão **+** e selecione seu critério.
+1. Clique em **+** e selecione seus critérios.
 
    ![](assets/2-2.png)
 
@@ -30,37 +31,37 @@ Os Gráficos rápidos se originam de dados especificados. Neste exemplo, nós es
 
    ![](assets/3-3.png)
 
-1. Clique no ícone Exportar e selecione **Salvar como gráfico rápido**.
+1. Clique no ícone Exportar e selecione **Salvar como Gráfico Rápido**.
 
    ![](assets/4-2.png)
 
-1. Dê um nome ao seu Gráfico rápido e clique em **Salvar**.
+1. Nomeie o Gráfico rápido e clique em **Salvar**.
 
    ![](assets/5-3.png)
 
-O Gráfico Rápido agora está com os outros.
+O Gráfico rápido agora está com os outros.
 
 ![](assets/6-3.png)
 
 >[!NOTE]
 >
->Você pode ter até 20 gráficos rápidos. Eles podem ser excluídos e substituídos.
+>Você pode ter até 20 Gráficos Rápidos. Elas podem ser excluídas e substituídas.
 
-## Visualizar gráficos rápidos existentes {#view-existing-quick-charts}
+## Exibir Gráficos Rápidos Existentes {#view-existing-quick-charts}
 
-1. Para exibir seus Gráficos Rápidos existentes, basta clicar no botão **Gráficos rápidos** ícone .
+1. Para exibir os Gráficos Rápidos existentes, basta clicar no link **Gráficos rápidos** ícone.
 
    ![](assets/7-1.png)
 
-## Excluir um gráfico rápido {#delete-a-quick-chart}
+## Excluir um Gráfico Rápido {#delete-a-quick-chart}
 
 Se precisar excluir um Gráfico Rápido, siga estas etapas simples.
 
-1. Clique no botão **Gráficos rápidos** ícone .
+1. Clique em **Gráficos rápidos** ícone.
 
    ![](assets/8-1.png)
 
-1. Passe o mouse sobre o gráfico desejado, mas não clique nele. Ao passar o cursor do mouse, um X será exibido. Clique no botão **X**.
+1. Passe o mouse sobre o gráfico desejado, mas não clique nele. Ao passar o cursor do mouse, um X será exibido. Clique em **X**.
 
    ![](assets/9-2.png)
 

@@ -1,26 +1,27 @@
 ---
 unique-page-id: 14352530
 description: Visão geral do Command Center - Documentação do Marketo - Documentação do produto
-title: Visão geral do Centro de comandos
+title: Visão geral do Command Center
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 2%
 
 ---
 
-# Visão geral do Centro de comandos {#command-center-overview}
+# Visão geral do Command Center {#command-center-overview}
 
-O Centro de comentários é uma visão única e unificada que ajuda você a descobrir seu próximo passo, garantindo que nada caiba nas fendas.
+O Centro de recomendações é uma visualização única e unificada que ajuda você a descobrir o próximo passo e, ao mesmo tempo, garantir que nada caia pelas rachaduras.
 
 ## Gerenciar emails {#manage-emails}
 
-A seção de email do Centro de comando é onde você pode gerenciar todas as suas atividades de email. Considere isso como sua caixa de saída de email para revisar emails que foram enviados do Sales Connect. Gerencie seus emails agendados, veja quem tem se envolvido com seus emails, verifique se houve problemas com seus emails sendo entregues e muito mais.
+A seção de e-mail do Centro de comando é onde você pode gerenciar todas as atividades de e-mail. Pense nisso como sua caixa de saída de email para analisar emails enviados pelo Sales Connect. Gerencie emails agendados, veja quem está se envolvendo com seus emails, verifique se houve problemas com seus emails sendo entregues e muito mais.
 
 ![](assets/command-center-overview-1.png)
 
-A seção de email oferece uma visualização de pássaros em todos os emails e simplifica a organização com guias e subguias primárias que atuam como pastas onde seus emails são armazenados automaticamente com base em seu status.
+A seção email oferece uma visualização rápida de todos os seus emails e simplifica a organização com guias e subguias principais que atuam como pastas, onde seus emails são armazenados automaticamente com base em seu status.
 
 <table> 
  <colgroup> 
@@ -36,7 +37,7 @@ A seção de email oferece uma visualização de pássaros em todos os emails e 
   </tr> 
   <tr> 
    <td title="Cor do plano de fundo : Azul"><strong title="">Enviado</strong></td> 
-   <td title="Cor do plano de fundo : Azul">Entregue</td> 
+   <td title="Cor do plano de fundo : Azul">Entregues</td> 
    <td title="Cor do plano de fundo : Azul">Emails que foram entregues ao recipient.</td> 
   </tr> 
   <tr> 
@@ -47,53 +48,52 @@ A seção de email oferece uma visualização de pássaros em todos os emails e 
   <tr> 
    <td title="Cor do plano de fundo : Cinza"><strong title="">Pendente</strong></td> 
    <td title="Cor do plano de fundo : Cinza">Agendado</td> 
-   <td title="Cor do plano de fundo : Cinza">Emails que estão agendados para sair. Depois que um email for enviado, ele será movido para a pasta de entrega.</td> 
+   <td title="Cor do plano de fundo : Cinza">Emails programados para serem enviados no momento. Depois que um email é enviado, ele é movido para a pasta entregue.</td> 
   </tr> 
   <tr> 
    <td title="Cor do plano de fundo : Cinza"><br></td> 
    <td title="Cor do plano de fundo : Cinza">Rascunho</td> 
-   <td title="Cor do plano de fundo : Cinza"><p>Emails que foram salvos como rascunho.<br><strong>Observação:</strong> Somente emails únicos podem ser salvos como rascunhos. Os emails em massa (Selecionar e enviar emails e emails de grupo) não serão salvos como rascunhos.</p></td> 
+   <td title="Cor do plano de fundo : Cinza"><p>Emails que foram salvos como rascunho.<br><strong>Nota:</strong> Somente emails únicos podem ser salvos como rascunhos. Os emails em massa (Selecionar e enviar emails e emails de grupo) não serão salvos como rascunhos.</p></td> 
   </tr> 
   <tr> 
    <td title="Cor do plano de fundo : Cinza"><br></td> 
    <td title="Cor do plano de fundo : Cinza">em andamento</td> 
-   <td title="Cor do plano de fundo : Cinza">Esse é um estado intermediário no qual os emails são inseridos quando estão no movimento de envio. Os emails só devem estar em andamento por alguns instantes.</td> 
+   <td title="Cor do plano de fundo : Cinza">Esse é um estado intermediário em que os emails entram quando estão no movimento de envio. Os emails devem estar em andamento por alguns instantes.</td> 
   </tr> 
   <tr> 
    <td title="Cor do plano de fundo : Azul"><strong title="">Não entregue(s)</strong></td> 
    <td title="Cor do plano de fundo : Azul">Falha</td> 
-   <td title="Cor do plano de fundo : Azul">Emails que não foram entregues.</td> 
+   <td title="Cor do plano de fundo : Azul">Emails que falharam na entrega.</td> 
   </tr> 
   <tr> 
    <td title="Cor do plano de fundo : Azul"><br></td> 
    <td title="Cor do plano de fundo : Azul">Devolvido</td> 
-   <td title="Cor do plano de fundo : Azul"><p>Emails que foram rejeitados do servidor de email dos recipients. <br><strong>Observação:</strong> Isso só será detectado se você for um usuário herdado do ToutApp e tiver acesso aos Servidores MSC como canal de entrega.</p></td> 
+   <td title="Cor do plano de fundo : Azul"><p>Emails que foram rejeitados do servidor de email dos recipients. <br><strong>Nota:</strong> Isso só será detectado se você for um usuário ToutApp herdado e tiver acesso aos servidores MSC como um canal de entrega.</p></td> 
   </tr> 
   <tr> 
    <td title="Cor do plano de fundo : Azul"><br></td> 
    <td title="Cor do plano de fundo : Azul">Spam</td> 
-   <td title="Cor do plano de fundo : Azul"><p>Emails que foram marcados manualmente como spam pelo recipient.<br><strong>Observação:</strong> Isso só será detectado se você for um usuário herdado do ToutApp e tiver acesso aos Servidores MSC como canal de entrega.</p></td> 
+   <td title="Cor do plano de fundo : Azul"><p>Emails que foram marcados manualmente como spam pelo recipient.<br><strong>Nota:</strong> Isso só será detectado se você for um usuário ToutApp herdado e tiver acesso aos servidores MSC como um canal de entrega.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Gerenciar tarefas {#manage-tasks}
 
-A seção de tarefas é o seu balcão único para gerenciar e concluir tarefas. Aqui você pode gerenciar suas tarefas com facilidade para aumentar sua produtividade e manter o foco nos itens mais relevantes.
+A seção de tarefas é o seu balcão central para gerenciar e concluir tarefas. Aqui, você pode gerenciar suas tarefas com facilidade para aumentar sua produtividade e manter o foco nos itens mais relevantes.
 
 ![](assets/command-center-overview-2.png)
 
-## Acompanhamento com prospetos envolvidos {#follow-up-with-engaged-prospects}
+## Acompanhamento com clientes potenciais envolvidos {#follow-up-with-engaged-prospects}
 
-Depois de começar a se envolver com seus prospetos por meio da janela de composição ou campanhas, você pode começar a direcionar novamente os prospetos mais envolvidos utilizando a funcionalidade de pesquisa avançada.
+Depois de começar a interagir com seus clientes potenciais por meio da janela de composição ou de campanhas, você pode começar a redirecionar os clientes potenciais mais envolvidos usando a funcionalidade de pesquisa avançada.
 
-Por exemplo, se você adicionar 100 pessoas a uma campanha no MSC, talvez queira direcionar novamente as pessoas que visualizaram e clicaram em seu email, mas não responderam a ele. Para fazer isso, você pode utilizar o filtro Campanha junto com os filtros Exibir e Clicar status Atividade para identificar uma lista de pessoas para serem direcionadas novamente.
+Por exemplo, se você adicionar 100 pessoas a uma campanha no MSC, será possível direcionar novamente as pessoas que visualizaram e clicaram no email, mas não responderam a ele. Para fazer isso, você pode utilizar o filtro Campaign junto com os filtros Exibir e Clicar status Atividade para identificar uma lista de pessoas para redirecionar.
 
-Bônus: Se você salvar sua pesquisa avançada, ela funcionará como uma lista dinâmica e adicionará emails que atendem aos critérios de envolvimento depois que o recipient exibir ou clicar no seu email.
+Bônus: se você salvar sua pesquisa avançada, ela funcionará como uma lista dinâmica e adicionará emails que atendem aos critérios de engajamento depois que o recipient visualizar ou clicar em seu email.
 
 >[!MORELIKETHIS]
 >
 >* [Tarefas](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
 >* [Visão geral da pesquisa avançada](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
->* [Composição de emails em massa com Selecionar e enviar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
-
+>* [Escrevendo emails em massa com Selecionar e enviar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)

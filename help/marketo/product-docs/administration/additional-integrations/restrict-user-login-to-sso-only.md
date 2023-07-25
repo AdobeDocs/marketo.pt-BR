@@ -3,7 +3,8 @@ unique-page-id: 2360358
 description: Restringir o logon do usuário somente ao SSO - Documentação do Marketo - Documentação do produto
 title: Login de usuário restrito apenas a SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 5%
@@ -57,4 +58,3 @@ Pronto! Agora todos os usuários (exceto os usuários com permissão para ignora
 >* [Adicionar Logon Único a um Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [Uso de uma Universal ID para logon de assinatura](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
 >* [Convidar usuários do Marketo para duas instâncias com Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
-

@@ -1,18 +1,19 @@
 ---
 unique-page-id: 1147066
-description: Substituir restrições de pessoa em uma campanha inteligente - Documentos do Marketo - Documentação do produto
+description: Substituir restrições de pessoa em uma campanha inteligente - Documentação do Marketo - Documentação do produto
 title: Substituir restrições de pessoa em uma campanha inteligente
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
 # Substituir restrições de pessoa em uma campanha inteligente {#override-person-restrictions-in-a-smart-campaign}
 
-O Marketo permite definir o número máximo de pessoas que podem se qualificar para uma campanha inteligente; isso ajuda a evitar o envio acidental de todo o banco de dados. Se desejar _override_ este limite, veja como.
+O Marketo permite que você defina o número máximo de pessoas que podem se qualificar para uma campanha inteligente; isso ajuda a evitar enviar um email para todo o banco de dados acidentalmente. Se você quiser _substituir_ esse limite, veja como.
 
 >[!PREREQUISITES]
 >
@@ -22,20 +23,20 @@ O Marketo permite definir o número máximo de pessoas que podem se qualificar p
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. Nas Configurações da campanha inteligente, clique em **Editar**.
+1. Em Configurações do Smart Campaign, clique em **Editar**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
-   >O limite padrão é aquele definido em Admin.
+   >O limite padrão é o definido em Admin.
 
-1. Insira um novo limite e clique em **Salvar.**
+1. Insira um novo limite e clique em **Salve.**
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
-   A campanha inteligente não será executada se o número de pessoas que se qualificam exceder o limite definido.
+   A campanha inteligente não será executada se o número de pessoas qualificadas exceder o limite definido.
 
    >[!CAUTION]
    >
-   >Tenha cuidado com esse recurso para não incluir acidentalmente muitas pessoas.
+   >Tenha cuidado com esse recurso para que você não inclua muitas pessoas acidentalmente.

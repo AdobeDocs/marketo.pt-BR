@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10100642
-description: Criar texto de mensagem no aplicativo - Documentos do Marketo - Documentação do produto
+description: Criar texto de mensagem no aplicativo - Documentação do Marketo - Documentação do produto
 title: Criar texto de mensagem no aplicativo
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 # Criar texto de mensagem no aplicativo {#create-in-app-message-text}
 
-Clique na área de texto para trabalhar no estilo e no conteúdo do texto.
+Clique na área de texto para trabalhar com seu estilo de texto e conteúdo.
 
 1. Clique no Texto principal para editar em linha.
 
    ![](assets/image2016-5-6-9-3a56-3a56.png)
 
-1. Escolha a cor do texto clicando nela ou inserindo os números Hex ou RGB no seletor de cores.
+1. Escolha a cor do texto clicando nela ou digitando os números hexadecimais ou de RGB no seletor de cores.
 
    ![](assets/image2016-5-6-9-3a59-3a1.png)
 
@@ -28,21 +29,21 @@ Clique na área de texto para trabalhar no estilo e no conteúdo do texto.
 
    >[!CAUTION]
    >
-   >Um tamanho de texto muito grande pode empurrar o conteúdo além de no máximo três linhas visíveis.
+   >Um tamanho de texto muito grande pode ultrapassar o máximo de três linhas visíveis de texto.
 
-1. Escolha um estilo de tipo opcional, para ênfase: **Negrito**, _Itálico_ ou Sublinhado.
+1. Escolha um estilo de texto opcional, para ênfase: **Negrito**, _Itálico_, ou Sublinhado.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
-1. Escolha o alinhamento do texto: Esquerda, Centrada, Direita. Centralizado é o padrão.
+1. Escolha o alinhamento do texto: Esquerda, Centralizado, Direita. Centralizado é o padrão.
 
    ![](assets/image2016-5-6-10-3a18-3a45.png)
 
    >[!NOTE]
    >
-   >A fonte de texto que é renderizada no anúncio é a fonte padrão para cada plataforma: Helvetica para Apple e Roboto para Android
+   >A fonte de texto renderizada no anúncio é a padrão para cada plataforma: Helvetica para Apple e Roboto para Android
 
-1. Marque a caixa para selecionar a ação Toque em texto .
+1. Marque a caixa para selecionar a ação de toque de Texto.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
@@ -52,9 +53,9 @@ Clique na área de texto para trabalhar no estilo e no conteúdo do texto.
 
    >[!NOTE]
    >
-   >Para ações de toque, você pode configurar ações diferentes para plataformas Apple e Android. Por exemplo, os deep links são tratados de forma diferente para Apple e Android. Se a mensagem for enviada apenas para uma plataforma ou para a outra, você pode deixar a outra na configuração padrão ou selecionar Nenhuma.
+   >Para ações de toque, é possível configurar diferentes ações para plataformas Apple e Android. Por exemplo, deep links são tratados de forma diferente para Apple e Android. Se a mensagem for para apenas uma plataforma ou outra, é possível deixar a outra na configuração padrão ou selecionar Nenhuma.
 
-1. Clique em Texto de suporte para editá-lo em linha. Funciona da mesma forma que editar o texto Principal, mas o tamanho de texto padrão é menor.
+1. Clique no Texto de suporte para editá-lo em linha. Funciona da mesma forma que editar o texto principal, mas o tamanho padrão do texto é menor.
 
    ![](assets/image2016-5-6-10-3a26-3a27.png)
 
@@ -62,24 +63,23 @@ Clique na área de texto para trabalhar no estilo e no conteúdo do texto.
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Selecione Meu token no menu suspenso, adicione um valor padrão e clique em **Inserir**.
+1. Selecione um Meu token no menu suspenso, adicione um valor padrão e clique em **Inserir**.
 
    ![](assets/mytoken.png)
 
    >[!NOTE]
    >
-   >Somente Meus tokens estão disponíveis como opções. Se nenhum My Tokens tiver sido configurado no programa, o menu suspenso Token ficará vazio.
+   >Somente Meus tokens estão disponíveis como opções. Se Meus tokens não tiverem sido configurados no programa, o menu suspenso de tokens estará vazio.
 
    >[!TIP]
    >
-   >Considere o comprimento dos caracteres que um token resolverá quando visualizado pelo seu público-alvo. Deixe espaço suficiente para contabilizar valores potencialmente mais longos, para evitar que sejam cortados.
+   >Considere o comprimento de caracteres que um token resolverá ao ser visualizado pelo público-alvo. Deixe espaço suficiente para levar em conta valores potencialmente mais longos, para evitar que sejam cortados.
 
-   Quaisquer alterações feitas em tokens usados em um programa de mensagem no aplicativo aprovado não entrarão em vigor na mensagem no aplicativo até que o programa seja pausado e retomado.
+   As alterações feitas nos tokens usados em um programa de mensagens no aplicativo aprovado não entrarão em vigor na mensagem no aplicativo até que o programa seja pausado e retomado.
 
-Você está de ouro. Em seguida, você precisa [configurar o botão de mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+Você é dourado. Em seguida, é necessário [configurar o botão de mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
->* [Como entender as mensagens no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Noções básicas sobre mensagens no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Escolha um layout para a mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-

@@ -1,27 +1,28 @@
 ---
 unique-page-id: 12976776
-description: Usar filtros e acionadores de formulário do líder LinkedIn em uma campanha inteligente - Documentos do Marketo - Documentação do produto
-title: Usar filtros e acionadores de formulário do líder do LinkedIn em uma campanha inteligente
+description: Usar filtros de formulário e acionadores da geração de clientes potenciais da LinkedIn em uma campanha inteligente - Documentação do Marketo - Documentação do produto
+title: Usar acionadores e filtros de formulário de geração de lead da LinkedIn em uma campanha inteligente
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Usar filtros e acionadores de formulário do líder do LinkedIn em uma campanha inteligente {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
+# Usar acionadores e filtros de formulário de geração de lead da LinkedIn em uma campanha inteligente {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
-Ao ativar o LinkedIn Lead Gen Forms, você pode usá-los como filtros e acionadores em suas campanhas inteligentes.
+Quando tiver ativado o LinkedIn Lead Gen Forms, você poderá usá-los como filtros e acionadores em suas campanhas inteligentes.
 
 >[!NOTE]
 >
->Quando as pessoas enviam suas informações em um Formulário de formulário de lead para LinkedIn, essas informações são enviadas para o Marketo imediatamente, tornando o formulário disponível no menu suspenso Nome do formulário de lead. Os nomes dos formulários não estarão visíveis até que pelo menos uma pessoa tenha enviado o formulário.
+>Quando as pessoas enviam suas informações em um Formulário do Lead Gen da LinkedIn, essas informações são enviadas para a Marketo imediatamente, disponibilizando o formulário no menu suspenso Nome do formulário do Lead Gen. Os nomes dos formulários não estarão visíveis até que pelo menos uma pessoa tenha enviado o formulário.
 
-1. Use o **Preenche o Formulário de Gerente de lead do LinkedIn** acionar a ação imediatamente ou **Preenchido o Formulário de Gerente de lead para LinkedIn** filtrar por campanhas em lote programadas ou filtragem de listas inteligentes padrão.
+1. Use o **Preenche O Formulário De Geração De Clientes Potenciais Da LinkedIn** acione a ação imediatamente ou o **Formulário de geração de clientes potenciais da LinkedIn preenchido** filtrar para campanhas em lote agendadas ou filtragem de lista inteligente padrão.
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 
-1. Adicione restrições para limitar ainda mais seus resultados.
+1. Adicione restrições para limitar ainda mais os resultados.
 
    ![](assets/lead-gen-constraints.png)

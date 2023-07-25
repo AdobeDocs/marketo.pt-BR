@@ -1,29 +1,30 @@
 ---
 unique-page-id: 14352541
-description: Sincronização de tarefas de conexão de vendas com o Salesforce pela primeira vez - Documentos do Marketo - Documentação do produto
-title: Sincronização de Tarefas de Conexão de Vendas com o Salesforce pela Primeira Vez
+description: Sincronizando as tarefas do Sales Connect com o Salesforce pela primeira vez - Documentação do Marketo - Documentação do produto
+title: Sincronizando pela primeira vez as tarefas do Sales Connect com o Salesforce
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
-# Sincronização de Tarefas de Conexão de Vendas com o Salesforce pela Primeira Vez {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
+# Sincronizando pela primeira vez as tarefas do Sales Connect com o Salesforce {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Quando você ativa a sincronização entre as tarefas do Sales Connect e do Salesforce pela primeira vez, importamos suas tarefas do Salesforce. Nós vamos **not** passe o mouse sobre qualquer tarefa atual que você tenha no Sales Connect para o Salesforce. Para reduzir a desordem e as duplicatas, as únicas tarefas sincronizadas do Sales Connect no Salesforce são tarefas criadas *after* sincronize o Sales Connect com o SFDC.
+Quando você ativa a sincronização entre as tarefas do Sales Connect e do Salesforce pela primeira vez, importamos suas tarefas do Salesforce. Iremos **não** insira todas as tarefas atuais que você tem no Sales Connect para o Salesforce. Para reduzir a desordem e as duplicatas, as únicas tarefas sincronizadas do Sales Connect no Salesforce são as tarefas criadas *após* Você sincroniza o Sales Connect com o SFDC.
 
 Veja o que acontece quando você sincroniza tarefas do Sales Connect e do SFDC:
 
-- Assim que você clicar em salvar na sincronização de tarefas, eles começarão a sincronizar. Isso levará algum tempo inicialmente.
+- Assim que você clicar em salvar na sincronização de tarefas, elas começarão a sincronizar. Isso levará algum tempo inicialmente.
 
-- Todos os lembretes que foram atualizados ou criados nas últimas 24 horas serão transferidos do SFDC para o Sales Connect. A sincronização é baseada na data de vencimento e todas essas tarefas serão sincronizadas no back-end, mas no Centro de comando, você só verá tarefas que vencem hoje e amanhã.
+- Qualquer lembrete que tenha sido atualizado ou criado nas últimas 24 horas será enviado do SFDC para o Sales Connect. A sincronização é baseada na data de conclusão e todas essas tarefas serão sincronizadas no back-end, mas no Command Center, você só verá tarefas com data de conclusão para hoje e amanhã.
 
-- Se a sincronização tiver sido ativada anteriormente e você excluir qualquer tarefa no SFDC, qualquer coisa que tenha sido excluída nos últimos 15 dias será excluída do Centro de Comando.
+- Se a sincronização tiver sido ativada anteriormente e você excluir qualquer tarefa no SFDC, qualquer item que tiver sido excluído nos últimos 15 dias será excluído do Centro de comando.
 
-- Sincronizaremos tarefas constantemente entre o Sales Connect e o SFDC, desde que a sincronização esteja ativada.
+- Sincronizaremos constantemente as tarefas entre o Sales Connect e o SFDC enquanto a sincronização estiver habilitada.
 
-Após a sincronização inicial, qualquer tarefa que você criar, editar, concluir ou excluir no Sales Connect será sincronizada com a lista de tarefas no Salesforce. E qualquer item criado, editado, concluído ou excluído no Salesforce atualizará sua lista de tarefas no Sales Connect.
+Após a sincronização inicial, todas as tarefas que você criar, editar, concluir ou excluir no Sales Connect serão sincronizadas com sua lista de tarefas no Salesforce. Qualquer ação criada, editada, concluída ou excluída no Salesforce atualizará sua lista de tarefas no Sales Connect.
 
-Para ativar essa sincronização, basta marcar a caixa de sincronização em seu [Página Configurações](https://toutapp.com/login) na aplicação web.
+Para ativar esta sincronização, marque a caixa de sincronização no [Página Configurações](https://toutapp.com/login) no aplicativo web.

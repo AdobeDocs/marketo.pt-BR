@@ -1,8 +1,9 @@
 ---
-description: Verificar seu email - Documentos do Marketo - Documentação do produto
+description: Verifique Seu Email - Documentação Do Marketo - Documentação Do Produto
 title: Verificar seu e-mail
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 5%
@@ -11,7 +12,7 @@ ht-degree: 5%
 
 # Verificar seu e-mail {#verify-your-email}
 
-Se você tiver uma identidade de email que não tenha sido verificada, siga as etapas abaixo.
+Se você tiver uma identidade de email que não foi verificada, siga as etapas abaixo.
 
 1. Clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
@@ -21,7 +22,7 @@ Se você tiver uma identidade de email que não tenha sido verificada, siga as e
 
    ![](assets/verify-your-email-2.png)
 
-1. Em Endereço e assinatura, encontre o email que deseja verificar e clique em **Reenviar Email de Verificação**. Um novo email de verificação será enviado.
+1. Em Endereço e assinatura, localize o email que deseja verificar e clique em **Reenviar email de verificação**. Um novo email de verificação será enviado.
 
    ![](assets/verify-your-email-3.png)
 
@@ -35,4 +36,4 @@ Se você tiver uma identidade de email que não tenha sido verificada, siga as e
 
 >[!NOTE]
 >
->Se você não receber o email de verificação, verifique sua pasta de spam. Se não estiver lá, entre em contato [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Se você não receber o email de verificação, verifique sua pasta de spam. Se não estiver lá, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).

@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2360418
-description: Relatório de Pessoas por Estágio da Receita - Documentos do Marketo - Documentação do Produto
-title: Relatório de Pessoas por Estágio de Receita
+description: Relatório de pessoas por estágio de receita - Documentação do Marketo - Documentação do produto
+title: Relatório de pessoas por estágio de receita
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# Relatório de Pessoas por Estágio de Receita {#people-by-revenue-stage-report}
+# Relatório de pessoas por estágio de receita {#people-by-revenue-stage-report}
 
-Você pode criar um relatório mostrando em qual estágio do modelo de ciclo de receita as pessoas estão. O relatório inclui qualquer estágio do modelo especificado, desde que haja um saldo de pessoa para o intervalo de datas especificado do relatório.
+Você pode criar um relatório que mostra em qual estágio do Modelo de ciclo de receita sua equipe está. O relatório inclui qualquer estágio do modelo especificado, desde que haja um saldo de pessoa para o intervalo de datas especificado do relatório.
 
 >[!AVAILABILITY]
 >
@@ -22,18 +23,18 @@ Você pode criar um relatório mostrando em qual estágio do modelo de ciclo de 
 
    ![](assets/image2017-3-27-15-3a43-3a55.png)
 
-1. Clique no relatório para **Pessoas por Estágio de Receita**.
+1. Clique no relatório para **Pessoas por estágio de receita**.
 
    ![](assets/image2017-3-27-15-3a46-3a27.png)
 
-1. Clique no botão **Configuração** guia . Clique duas vezes no botão **Pessoa Criada Em** para definir o período de tempo desejado para o relatório.
+1. Clique em **Configuração** guia. Clique duas vezes no ícone **Pessoa Criada Em** para definir o intervalo de tempo desejado para o relatório.
 
    ![](assets/image2017-3-28-8-3a6-3a23.png)
 
-1. Edite o período de tempo e clique em **Salvar**.
+1. Edite o intervalo de tempo e clique em **Salvar**.
 
    ![](assets/image2015-4-29-12-3a11-3a31.png)
 
-1. Clique no botão **Relatório** guia . Agora você pode ver em qual estágio do modelo de receita suas pessoas estão e se concentrar em qualquer gargalo.
+1. Clique em **Relatório** guia. Agora você pode ver em qual estágio do modelo de receita sua equipe está e se concentrar em qualquer gargalo.
 
    ![](assets/image2017-3-28-8-3a6-3a48.png)

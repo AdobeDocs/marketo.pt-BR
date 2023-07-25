@@ -1,20 +1,21 @@
 ---
 unique-page-id: 2360205
-description: Compartilhar um modelo em espaços de trabalho - Documentos do Marketo - Documentação do produto
-title: Compartilhar um modelo em espaços de trabalho
+description: Compartilhar um modelo entre espaços de trabalho - Documentação do Marketo - Documentação do produto
+title: Compartilhar um modelo entre espaços de trabalho
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 1%
 
 ---
 
-# Compartilhar um modelo em espaços de trabalho {#share-a-model-across-workspaces}
+# Compartilhar um modelo entre espaços de trabalho {#share-a-model-across-workspaces}
 
-O Marketo oferece a capacidade de compartilhar modelos em espaços de trabalho. Veja como.
+O Marketo oferece a capacidade de compartilhar modelos entre espaços de trabalho. Veja como.
 
-1. Vá para o **Analytics** seção.
+1. Vá para a **Analytics** seção.
 
    ![](assets/analytics.png)
 
@@ -42,4 +43,4 @@ O Marketo oferece a capacidade de compartilhar modelos em espaços de trabalho. 
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-É tão fácil! Agora, as pessoas de outros espaços de trabalho podem se mover pelo modelo compartilhado.
+É fácil assim! Agora, as pessoas de outros espaços de trabalho podem percorrer o modelo compartilhado.

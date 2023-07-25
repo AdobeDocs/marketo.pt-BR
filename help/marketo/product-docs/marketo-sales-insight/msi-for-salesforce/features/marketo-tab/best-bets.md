@@ -1,8 +1,9 @@
 ---
-description: Melhores vantagens - Documentação da Marketo - Documentação do produto
+description: Melhores Opções - Documentação do Marketo - Documentação do produto
 title: Melhores opções
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 7%
@@ -11,26 +12,26 @@ ht-degree: 7%
 
 # Melhores opções {#best-bets}
 
-A guia Melhores Apostas inclui uma lista de todos os leads ativos com base em sua prioridade, calculada usando urgência e pontuação relativa.
+A guia Melhores Opções inclui uma lista de todos os seus clientes potenciais ativos com base em sua prioridade, calculada usando urgência e pontuação relativa.
 
 **Opções de filtro**
 
-Você pode clicar em cada um dos seguintes botões para ver Melhores Melhores Melhores Melhores:
+Você pode clicar em cada um dos seguintes botões para ver as Melhores Opções:
 
-* Clientes potenciais: Você pode ver Melhores Propostas para todos os leads atribuídos a você no CRM
-* Contatos: Você pode ver Melhores Opções para todos os contatos atribuídos a você no CRM
-* Contatos da conta: Você pode ver Melhores Opções para todos os contatos que pertencem a Contas atribuídas a você no CRM, mesmo se o contato em si não estiver atribuído a você
-* Contatos da Oportunidade: Você pode ver Melhores Opções para todos os contatos que pertencem a Oportunidades atribuídas a você no CRM, mesmo se o contato em si não estiver atribuído a você
+* Clientes potenciais: você pode ver as Melhores Opções para todos os clientes potenciais atribuídos a você no CRM
+* Contatos: você pode ver as Melhores Opções de todos os contatos atribuídos a você no CRM
+* Contatos da conta: você pode ver as Melhores Opções para todos os contatos que pertencem a contas atribuídas a você no CRM, mesmo que o contato em si não esteja atribuído a você
+* Contatos da Oportunidade: você pode ver as Melhores Opções para todos os contatos que pertencem a Oportunidades atribuídas a você no CRM, mesmo que o contato em si não esteja atribuído a você
 
-**O que deve ser observado**
+**Itens a Observar**
 
-Os botões de lead &amp; contact são selecionados por padrão. É possível selecionar uma ou mais opções de filtro e, no mínimo, uma das quatro opções terá de ser sempre selecionada.
+Os botões Cliente Potencial e Contato são selecionados por padrão. É possível selecionar uma ou mais opções de filtro, e no mínimo uma das quatro opções sempre deverá ser selecionada.
 
 Não é possível &quot;Ocultar&quot; um cliente potencial ou contato que você não possui.
 
-**Envolvimento em linha**
+**Engajamento em linha**
 
-Ao clicar no menu de dados na coluna Ações , é possível entrar em contato com um cliente potencial ou contato específico usando as seguintes opções de envolvimento:
+Ao clicar no menu de dados na coluna Ações, você pode acessar um cliente potencial ou contato específico usando as seguintes opções de envolvimento:
 
 * Enviar e-mail do Marketo
 * Adicionar à campanha do Marketo
@@ -41,7 +42,7 @@ Ao clicar no menu de dados na coluna Ações , é possível entrar em contato co
 
 **Ações em massa**
 
-Você pode selecionar um ou mais leads ou contatos da página Melhores Melhores Melhores usando a caixa de seleção e acessá-los como um grupo usando as seguintes opções de envolvimento:
+Você pode selecionar um ou mais clientes potenciais ou contatos da página de Melhores Opções usando a caixa de seleção e contatá-los como um grupo usando as seguintes opções de envolvimento:
 
 * Enviar e-mail do Marketo
 * Adicionar à campanha do Marketo

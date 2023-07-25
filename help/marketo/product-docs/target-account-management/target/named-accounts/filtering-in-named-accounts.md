@@ -1,9 +1,10 @@
 ---
 unique-page-id: 12615804
-description: Filtragem em contas nomeadas - Documentos do Marketo - Documentação do produto
+description: Filtragem em contas nomeadas - Documentação do Marketo - Documentação do produto
 title: Filtragem em contas nomeadas
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -12,11 +13,11 @@ ht-degree: 0%
 
 # Filtragem em contas nomeadas {#filtering-in-named-accounts}
 
-A filtragem é uma ótima maneira de limitar os dados rapidamente.
+A filtragem é uma ótima maneira de restringir os dados rapidamente.
 
 >[!NOTE]
 >
->Os dados nos menus suspensos do filtro refletem todos os campos disponíveis no CRM que foram sincronizados com o Marketo.
+>Os dados nos menus suspensos de filtro refletem todos os campos disponíveis em seu CRM que foram sincronizados com o Marketo.
 
 1. Clique no ícone de filtro.
 
@@ -24,17 +25,17 @@ A filtragem é uma ótima maneira de limitar os dados rapidamente.
 
    >[!NOTE]
    >
-   >Há várias combinações de parâmetros de pesquisa. Neste exemplo, localizamos: _Setor = Bancária, País = Estados Unidos, Máx. de Funcionários = 10000_.
+   >Há várias combinações de parâmetros de pesquisa. Neste exemplo, localizamos: _Setor = Bancário, País = Estados Unidos, Máximo de Funcionários = 10.000_.
 
-1. Clique no botão **Setor** e selecione **Banca**.
+1. Clique em **Setor** e selecione **Setor bancário**.
 
    ![](assets/filter-2.png)
 
-1. Clique no botão **País** e selecione **Estados Unidos**.
+1. Clique em **País** e selecione **Estados Unidos**.
 
    ![](assets/filter-3.png)
 
-1. Em **Empregados**, digite &quot;0&quot; no **Versão mín** , &quot;10000&quot; na variável **Max** e clique em **Aplicar**.
+1. Em **Funcionários**, digite &quot;0&quot; na caixa **Min** campo, &quot;10000&quot; no campo **Máx** e clique em **Aplicar**.
 
    ![](assets/four-2.png)
 
@@ -42,4 +43,4 @@ A filtragem é uma ótima maneira de limitar os dados rapidamente.
 
    >[!NOTE]
    >
-   >Para adicionar mais filtros para escolher, clique em **Adicionar filtro** na parte inferior esquerda do formulário.
+   >Para adicionar mais filtros, clique em **Adicionar filtro** na parte inferior esquerda do formulário.

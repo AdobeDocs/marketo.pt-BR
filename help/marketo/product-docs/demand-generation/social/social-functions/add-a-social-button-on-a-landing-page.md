@@ -1,55 +1,56 @@
 ---
 unique-page-id: 2359757
-description: Adicionar um botão social em uma página de aterrissagem - Documentos do Marketo - Documentação do produto
-title: Adicionar um botão Social em uma página de aterrissagem
+description: Adicionar um botão do Social em uma página de aterrissagem - Documentação do Marketo - Documentação do produto
+title: Adicionar um botão do Social em uma landing page
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 2%
 
 ---
 
-# Adicionar um botão Social em uma página de aterrissagem {#add-a-social-button-on-a-landing-page}
+# Adicionar um botão do Social em uma landing page {#add-a-social-button-on-a-landing-page}
 
-Um botão social incentiva as pessoas a compartilharem seu conteúdo com seus amigos. Solte-o em landing pages, Facebook e site.
+Um botão social incentiva as pessoas a compartilharem seu conteúdo com os amigos. Solte-o nas landing pages, no Facebook e no seu site.
 
 >[!AVAILABILITY]
 >
 >Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
 
-1. Navegue até a página de aterrissagem e clique em **Editar rascunho**.
+1. Navegue até a página de destino e clique em **Editar rascunho**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Arraste para o **Botão Social** dos elementos à direita.
+1. Arraste sobre o **Botão Social** dos elementos à direita.
 
    ![](assets/image2014-9-17-10-3a35-3a6.png)
 
-1. Selecionar **Botões Sociais (com Analytics)**.
+1. Selecionar **Botões Sociais (com o Analytics)**.
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Quando a landing page estiver ativa, consulte a atividade gerada pelo **Botão Social** (com o Analytics) na [Painel Social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   Quando a landing page estiver ativa, consulte a atividade gerada pelo **Botão Social** (com o Analytics) no [Painel social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
-   Se você adicionar um **Botão Curtir/Recomendar (Lite)** em vez disso, veja o número de compartilhamentos no [relatório de desempenho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
+   Se você adicionar um **Botão Curtir/Recomendar (Lite)** em vez disso, consulte o número de compartilhamentos no [relatório de desempenho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
-1. Selecionar **Criar novo** no menu suspenso .
+1. Selecionar **Criar novo** no menu suspenso.
 
    >[!NOTE]
    >
    >Você também pode criar um botão social dentro de um programa selecionando **Novo** > **Novo ativo local**.
 
-1. Nomeie seu botão social , selecione **Nenhum** from **Clonar** **De** e clique em **Inserir**.
+1. Nomeie o botão de redes sociais e selecione **Nenhum** de **Clonar** **De** e clique em **Inserir**.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
-Parabéns! Você adicionou um botão social à página de aterrissagem. Certifique-se de aprovar a landing page. Você também pode [publicar a landing page no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [coloque o botão social em seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Parabéns! Você adicionou um botão de rede social à página de aterrissagem. Certifique-se de aprovar a landing page. Também é possível [publicar a landing page no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [coloque o botão social no seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
->Para economizar tempo, você pode usar a variável **Clonar de** opção para copiar todas as configurações de um botão social existente.
+>Para economizar tempo, você pode usar o **Clonar de** opção para copiar todas as configurações de um botão de rede social existente.
 
 >[!MORELIKETHIS]
 >
->Você terminou, mas pode alterar as configurações do botão social, se necessário. Comece com [personalização do estilo de botão](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) e [editar as mensagens de compartilhamento](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) apresenta.
+>Você concluiu, mas pode alterar as configurações do botão de redes sociais, se necessário. Iniciar com [personalização do estilo do botão](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) e [editar as mensagens compartilhadas](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) ele apresenta.

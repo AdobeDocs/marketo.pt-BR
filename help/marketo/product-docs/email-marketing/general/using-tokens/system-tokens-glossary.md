@@ -1,11 +1,12 @@
 ---
 unique-page-id: 1147344
-description: Glossário de tokens do sistema - Documentos do Marketo - Documentação do produto
+description: Glossário de tokens do sistema - Documentação do Marketo - Documentação do produto
 title: Glossário de tokens do sistema
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
-source-git-commit: 93032a016a67fe0edf7a8093633d6b06ec25c18d
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -16,61 +17,61 @@ Além dos tokens de pessoa, você pode usar alguns tokens de sistema muito legai
 
 >[!NOTE]
 >
->As configurações de fuso horário da conta afetam quando tokens de data e hora são executados.
+>As configurações de fuso horário da conta afetam quando os tokens de data e hora são executados.
 
 ## system.date {#system-date}
 
-O `{{system.date}}` o token renderizará a data atual no tempo de execução da seguinte maneira: **08 de agosto de 2013**
+A variável `{{system.date}}` O token renderizará a data atual no tempo de execução da seguinte forma: **8 de agosto de 2013**
 
 **Funciona em:**
 
-* [Alterar valor de dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;} etapa de fluxo
-* [Momento interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target=&quot;_blank&quot;} etapa de fluxo
-* [Criar tarefa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target=&quot;_blank&quot;} etapa de fluxo
+* [Alterar valor dos dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"} etapa do fluxo
+* [Momento interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} etapa do fluxo
+* [Criar tarefa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} etapa do fluxo
 * O corpo de um email ou modelo
 
 ## system.time {#system-time}
 
-O `{{system.time}}` o token renderizará o tempo atual no tempo de execução da seguinte maneira: **16:34 (GMT -0700)**
+A variável `{{system.time}}` O token renderizará a hora atual no tempo de execução da seguinte forma: **16H34 (GMT -0700)**
 
 **Funciona em:**
 
-* [Alterar valor de dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;} etapa de fluxo
-* [Momento interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target=&quot;_blank&quot;} etapa de fluxo
-* [Criar tarefa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target=&quot;_blank&quot;} etapa de fluxo
+* [Alterar valor dos dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"} etapa do fluxo
+* [Momento interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} etapa do fluxo
+* [Criar tarefa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} etapa do fluxo
 * O corpo de um email ou modelo
 
 ## system.dateTime {#system-datetime}
 
-O `{{system.dateTime}}` o token renderizará a data e a hora atuais no tempo de execução da seguinte maneira: **2013-08-08 16:36:13º**
+A variável `{{system.dateTime}}` O token renderizará a data e a hora atuais no tempo de execução da seguinte maneira: **08-08-2013 16:36:13**
 
 **Funciona em:**
 
-* [Alterar valor de dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;} etapa de fluxo
-* [Momento interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target=&quot;_blank&quot;} etapa de fluxo
-* [Criar tarefa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target=&quot;_blank&quot;} etapa de fluxo
+* [Alterar valor dos dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"} etapa do fluxo
+* [Momento interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} etapa do fluxo
+* [Criar tarefa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} etapa do fluxo
 * O corpo de um email ou modelo
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-O `{{system.forwardToFriendLink}}` permite controlar a posição do [&#39;Encaminhar para um Link Amigo&#39; em Emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target=&quot;_blank&quot;}.
+A variável `{{system.forwardToFriendLink}}` permite controlar o posicionamento do [&#39;Encaminhar para um link de amigo&#39; em emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target="_blank"}.
 
 **Funciona em:**
 
-* [Adicionar um token de sistema como um link em um email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} ou modelo
+* [Adicionar um token do sistema como um link em um email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} ou modelo
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
-O `{{system.unsubscribeLink}}` permite controlar a disposição do link de cancelamento de inscrição em um email.
+A variável `{{system.unsubscribeLink}}` permite controlar a disposição do link para cancelar inscrição em um email.
 
 **Funciona em:**
 
-* [Adicionar um token de sistema como um link em um email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} ou modelo
+* [Adicionar um token do sistema como um link em um email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} ou modelo
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
-O `{{system.viewAsWebpageLink}}` permite controlar o posicionamento do link Exibir como página da Web em um email.
+A variável `{{system.viewAsWebpageLink}}` permite controlar a colocação do link Exibir como página da Web em um email.
 
 **Funciona com:**
 
-* [Adicionar um token de sistema como um link em um email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} ou modelo
+* [Adicionar um token do sistema como um link em um email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} ou modelo

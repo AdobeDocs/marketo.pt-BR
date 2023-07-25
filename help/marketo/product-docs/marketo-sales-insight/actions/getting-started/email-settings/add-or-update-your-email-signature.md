@@ -1,8 +1,9 @@
 ---
-description: Adicionar ou atualizar sua assinatura de email - Documentos do Marketo - Documentação do produto
+description: Adicionar ou atualizar sua assinatura de email - Documentação do Marketo - Documentação do produto
 title: Adicionar ou atualizar sua assinatura de email
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # Adicionar ou atualizar sua assinatura de email {#add-or-update-your-email-signature}
 
-Queremos que o envio de emails do Marketo Sales sinta uma experiência contínua ao enviar por seu próprio cliente de email. Uma ótima maneira de fazer isso é adicionar sua assinatura de email.
+Queremos que o envio por email do setor de Vendas Marketo seja uma experiência perfeita ao ser enviado por seu próprio cliente de email. Uma ótima maneira de fazer isso é adicionar sua assinatura de email.
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
@@ -21,18 +22,18 @@ Queremos que o envio de emails do Marketo Sales sinta uma experiência contínua
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
-1. No **Endereço e assinatura** selecione a identidade do email para a qual deseja criar uma assinatura.
+1. No **Endereço e Assinatura** selecione a identidade de email para a qual deseja criar uma assinatura.
 
    ![](assets/add-or-update-your-email-signature-3.png)
 
-1. No cartão de assinatura, clique em **Editar**.
+1. No cartão Assinatura, clique em **Editar**.
 
    ![](assets/add-or-update-your-email-signature-4.png)
 
-1. Insira o texto desejado (ou imagens) e clique em **Salvar**.
+1. Insira o texto (ou imagens) desejado e clique em **Salvar**.
 
    ![](assets/add-or-update-your-email-signature-5.png)
 
    >[!TIP]
    >
-   >Certifique-se de que sua assinatura na tela de composição seja semelhante à assinatura listada no seu cliente de email.
+   >Verifique se a assinatura na tela de composição é semelhante à assinatura listada no cliente de email.

@@ -1,20 +1,21 @@
 ---
 unique-page-id: 1147126
-description: Uso da guia Página inicial do programa - Documentos do Marketo - Documentação do produto
-title: Uso da guia Página inicial do programa
+description: Uso da guia Início do programa - Documentação do Marketo - Documentação do produto
+title: Usando a guia Início do programa
 exl-id: 04c36190-d853-4900-b566-973d08316e37
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-# Uso da guia Página inicial do programa {#using-the-program-home-tab}
+# Usando a guia Início do programa {#using-the-program-home-tab}
 
-A guia inicial do programa fornece uma visão de alto nível do que está acontecendo em seu programa.
+A guia Página inicial do programa fornece uma visão geral do que está acontecendo em seu programa.
 
-## Exibição do resumo {#summary-view}
+## Exibição de resumo {#summary-view}
 
 1. Ir para **Atividades de marketing**.
 
@@ -26,13 +27,13 @@ A guia inicial do programa fornece uma visão de alto nível do que está aconte
 
    >[!NOTE]
    >
-   >Essa é a exibição padrão. Ele fornece informações sobre suas Configurações, Programação, Resultados e Status do Programa dos Membros.
+   >Essa é a visualização padrão. Ela fornece informações sobre suas Configurações, Calendário, Resultados e Status do Programa de Membros.
 
-1. Clique em elementos sublinhados para fazer alterações ou exibir mais informações.
+1. Clique nos elementos sublinhados para fazer alterações ou exibir mais informações.
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Clique em **Exportar** na parte inferior do Resumo para baixar o relatório.
+1. Clique em **Exportar** na parte inferior do relatório Resumo a ser baixado.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -42,11 +43,11 @@ A guia inicial do programa fornece uma visão de alto nível do que está aconte
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Clique no botão **Exibir** lista suspensa. Selecionar **Usado por**.
+1. Clique em **Exibir** menu suspenso. Selecionar **Usado por**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
-   Esta exibição mostra quais campanhas inteligentes estão sendo usadas.
+   Esta exibição mostra quais campanhas inteligentes estão em uso.
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
@@ -56,18 +57,18 @@ A guia inicial do programa fornece uma visão de alto nível do que está aconte
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Clique no botão **Exibir** lista suspensa. Selecionar **Associação**.
+1. Clique em **Exibir** menu suspenso. Selecionar **Associação**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
-   Isso mostra um gráfico de onde os membros estão à medida que se movem pelos status do programa.
+   Isso mostra um gráfico onde os membros estão conforme passam pelos status do programa.
 
    ![](assets/image2014-9-18-17-3a8-3a1.png)
 
    >[!NOTE]
    >
-   >**Histórico** significa qualquer pessoa que já passou pelo programa, enquanto **Atual** inclui apenas pessoas que estão atualmente no programa.
+   >**Histórico** significa qualquer pessoa que já passou pelo programa, enquanto **Atual** inclui somente as pessoas que estão no programa.
 
    >[!MORELIKETHIS]
    >
-   >[Compreensão da assinatura do programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[Noções básicas sobre a associação ao programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)

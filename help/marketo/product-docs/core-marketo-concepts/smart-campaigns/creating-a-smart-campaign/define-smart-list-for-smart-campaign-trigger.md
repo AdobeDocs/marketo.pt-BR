@@ -1,20 +1,21 @@
 ---
 unique-page-id: 1146942
-description: Definir Smart List para Smart Campaign | Acionador - Documentação da Marketo - Documentação do produto
-title: Definir Smart List para Smart Campaign | Acionador
+description: Definir lista inteligente para o Smart Campaign | Acionador - Documentação do Marketo - Documentação do produto
+title: Definir lista inteligente para o Smart Campaign | Acionador
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
-# Definir Smart List para Smart Campaign | Acionador {#define-smart-list-for-smart-campaign-trigger}
+# Definir lista inteligente para o Smart Campaign | Acionador {#define-smart-list-for-smart-campaign-trigger}
 
-Faça uma Campanha inteligente executar em uma pessoa de cada vez com base em eventos ao vivo, adicionando acionadores.
+Faça uma Campanha inteligente ser executada em uma pessoa por vez com base em eventos ao vivo adicionando acionadores.
 
-1. Em sua Campanha inteligente, clique no botão **Lista inteligente** guia .
+1. Na Campanha inteligente, clique na guia **Lista inteligente** guia.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -24,23 +25,23 @@ Faça uma Campanha inteligente executar em uma pessoa de cada vez com base em ev
 
    >[!NOTE]
    >
-   >Uma Campanha inteligente com acionadores é executada em **Acionador** modo. Ele é executado em uma pessoa de cada vez com base nos eventos acionados e em qualquer filtro adicional.
+   >Uma campanha inteligente com acionadores é executada no **Acionador** modo. Ele é executado em uma pessoa por vez com base em eventos acionados e em filtros adicionais.
 
    >[!IMPORTANT]
    >
-   >Ao usar um campo booleano em uma lista inteligente de campanha de acionador, você deve defini-lo explicitamente como &quot;false&quot; para que o campo seja avaliado adequadamente durante a execução da campanha.
+   >Ao usar um campo booleano em uma lista inteligente de campanha de acionadores, você deve defini-lo explicitamente como &quot;false&quot; para que o campo seja avaliado corretamente durante a execução da campanha.
 
-1. Clique no menu suspenso e escolha um operador.
+1. Clique na lista suspensa e escolha um operador.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-3.png)
 
    >[!CAUTION]
    >
-   >Linhas vermelhas roxas indicam erros ou informações ausentes. Se não for corrigida, a campanha será inválida e não será executada.
+   >Linhas vermelhas sinuosas indicam erros ou informações ausentes. Se não for corrigida, a campanha será inválida e não será executada.
 
    >[!TIP]
    >
-   >Em uma Campanha inteligente com acionadores e filtros, os acionadores são acionados na parte superior e, quando acionados, somente as pessoas que atendem aos critérios de filtragem passam pelo fluxo.
+   >Em uma Campanha inteligente com acionadores e filtros, os acionadores vão para a parte superior e, quando acionados, somente as pessoas que atendem aos critérios do filtro passam pelo fluxo.
 
 1. Defina o acionador.
 
@@ -48,9 +49,9 @@ Faça uma Campanha inteligente executar em uma pessoa de cada vez com base em ev
 
    >[!NOTE]
    >
-   >Com vários acionadores, uma pessoa passa pelo fluxo se **ANY** um dos acionadores é ativado.
+   >Com vários acionadores, uma pessoa passa pelo fluxo se **QUALQUER** um dos acionadores é ativado.
 
-Para executar a campanha em um conjunto de pessoas ao mesmo tempo, aprenda a [Definir Smart List para Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+Para executar a campanha em um conjunto de pessoas ao mesmo tempo, saiba como [Definir lista inteligente para o Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
 >[!MORELIKETHIS]
 >

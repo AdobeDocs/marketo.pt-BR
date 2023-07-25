@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352436
-description: Presença Local Do Telefone De Vendas - Documentos Do Marketo - Documentação Do Produto
+description: Presença local no telefone de vendas - Documentação do Marketo - Documentação do produto
 title: Presença Local do Telefone de Vendas
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -12,22 +13,22 @@ ht-degree: 0%
 
 # Presença Local do Telefone de Vendas {#sales-phone-local-presence}
 
-Quando quiser parecer que você está chamando do mesmo código de área de alguém, basta verificar a variável **Presença local** antes de fazer a chamada.
+Quando quiser parecer que está chamando do mesmo código de área de alguém, basta marcar a caixa de seleção **Presença local** antes de fazer a chamada.
 
-## Perguntas frequentes sobre presença local {#local-presence-faq}
+## Perguntas frequentes sobre Presença Local {#local-presence-faq}
 
-**Meu contato pode me ligar de volta neste novo número?**
+**Meu contato pode me ligar de volta para este novo número?**
 
-Não, a presença local só funciona para chamadas de saída. O chamador não pode chamá-lo de volta para este número &quot;novo&quot;.
+Não, a presença local só funciona para chamadas de saída. O chamador não pode ligar de volta para este &quot;novo&quot; número.
 
 **Posso ligar para qualquer lugar com Presença Local?**
 
-Oferecemos todas as funcionalidades de Telefone de Vendas somente para chamadas nos EUA.
+Oferecemos todas as funcionalidades de telefone de vendas para chamadas somente nos Estados Unidos.
 
 **O número de presença local é sempre o mesmo quando chamo um código de área?**
 
-O número provavelmente será sempre o mesmo quando você estiver chamando um código de área.
+O número provavelmente sempre será o mesmo ao chamar um código de área.
 
-**Meu número inteiro muda ou apenas o código de área ao usar a presença local?**
+**O meu número inteiro muda ou apenas o código de área ao usar presença local?**
 
-O número inteiro mudará.
+Seu número inteiro será alterado.

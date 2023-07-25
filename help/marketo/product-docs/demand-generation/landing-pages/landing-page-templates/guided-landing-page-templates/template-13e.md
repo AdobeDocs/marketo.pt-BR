@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437798
-description: Modelo 13E - Documentos do Marketo - Documentação do produto
+description: Modelo 13E - Documentação do Marketo - Documentação do produto
 title: Modelo 13E
 exl-id: ef1a78ac-1422-4f48-9686-b1d77081787c
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Modelo 13E {#template-13e}
 
-Clique com o botão direito do mouse em para [baixar modelo 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+Clique com o botão direito do mouse para [baixar modelo 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
 
 ![](assets/image2015-8-11-14-3a33-3a18.png)
 
 Esse template inclui o seguinte conteúdo:
 
-* Uma seção primária
+* Uma seção principal
 
-   * inclui a imagem principal e o botão Saiba mais
+   * inclui imagem herói e o botão Saiba mais
 
-* Cinco seções do corpo (opcional)
+* Cinco seções de corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

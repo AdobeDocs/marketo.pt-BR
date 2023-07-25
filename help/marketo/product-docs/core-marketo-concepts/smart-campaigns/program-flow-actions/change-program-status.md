@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147007
-description: Alterar o status do programa - Documentação da Marketo - Documentação do produto
+description: Alterar status do programa - Documentação do Marketo - Documentação do produto
 title: Alterar status do programa
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 5%
@@ -22,18 +23,18 @@ Os status do programa ajudam você a acompanhar o progresso das pessoas em um pr
 
 ## Uso {#usage}
 
-1. Arraste no **Alterar status do programa** etapa de fluxo.
+1. Arraste no **Alterar status do programa** etapa do fluxo.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Selecione o **Novo status** você deseja definir. A pessoa também se tornará membro do programa se ainda não o tiver feito.
+1. Selecione o **Novo Status** que deseja definir. A pessoa também se tornará membro do programa se ainda não o foi.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
-As opções estão limitadas a status válidos para esse programa.
+As opções são limitadas aos status válidos para esse programa.
 
 >[!NOTE]
 >
->Uma pessoa não pode retroceder para um status de programa anterior, conforme definido no Editor de canais em Admin.
+>Uma pessoa não consegue voltar para um status anterior do programa, conforme definido no Editor de canais em Admin.
 
-Os status são ferramentas poderosas para acompanhar as pessoas e para gerar relatórios. Vale a pena o seu tempo.
+Os status são ferramentas eficientes para monitorar pessoas e gerar relatórios. Vale o seu tempo.

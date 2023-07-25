@@ -1,30 +1,31 @@
 ---
 unique-page-id: 2359953
-description: Pessoas que têm conteúdo esgotado - Documentos do Marketo - Documentação do produto
-title: Pessoas que têm conteúdo esgotado
+description: Pessoas Com Conteúdo Esgotado - Documentação Do Marketo - Documentação Do Produto
+title: Pessoas com conteúdo esgotado
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Pessoas que têm conteúdo esgotado {#people-who-have-exhausted-content}
+# Pessoas com conteúdo esgotado {#people-who-have-exhausted-content}
 
-Quando uma pessoa recebe cada parte do conteúdo em um fluxo, ela esgotou todas as possibilidades e aguardará inativa até que mais seja adicionado. Você pode encontrar pessoas que estão &quot;exaustas&quot; de várias maneiras.
+Quando uma pessoa recebe cada parte do conteúdo em um fluxo, ela esgotou todas as possibilidades e aguardará ociosa até que mais seja adicionado. Você pode encontrar pessoas que estão &quot;exaustas&quot; de várias maneiras.
 
-## Filtro Programa de Envolvimento do Membro {#member-of-engagement-program-filter}
+## Filtro Membro do programa de engajamento {#member-of-engagement-program-filter}
 
-1. Crie uma nova lista inteligente e, em seguida, localize e arraste a **Membro do Programa de Envolvimento** filtro.
+1. Crie uma nova lista inteligente, localize e arraste no **Membro do programa de engajamento** filtro.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
-1. Localize e selecione o programa de envolvimento no qual encontrar pessoas esgotadas.
+1. Localize e selecione o programa de envolvimento no qual encontrar pessoas exaustas.
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Em **Adicionar restrição**, selecione **Conteúdo esgotado**.
+1. Em **Adicionar Restrição**, selecione **Conteúdo esgotado**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
@@ -40,7 +41,7 @@ Quando uma pessoa recebe cada parte do conteúdo em um fluxo, ela esgotou todas 
 
    ![](assets/ma.png)
 
-1. Selecione seu programa de envolvimento e acesse **Membros** guia .
+1. Selecione seu programa de engajamento e vá para a **Membros** guia.
 
    ![](assets/memberstab.jpg)
 
@@ -48,14 +49,14 @@ Quando uma pessoa recebe cada parte do conteúdo em um fluxo, ela esgotou todas 
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
-   Isso mostra pessoas que esgotaram todo o conteúdo e aquelas que não esgotaram.
+   Isso mostra pessoas que esgotaram todo o conteúdo e aquelas que não o esgotaram.
 
 ## Fluxo {#stream}
 
-1. Você também pode ver o total de pessoas que esgotaram o conteúdo na guia Streams do próprio fluxo.
+1. Você também pode ver o total de pessoas que esgotaram o conteúdo na guia Streams no próprio fluxo.
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 
    >[!NOTE]
    >
-   >Esse número será atualizado imediatamente após cada conversão.
+   >Esse número será atualizado imediatamente após cada elenco.

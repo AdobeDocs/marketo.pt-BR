@@ -1,38 +1,39 @@
 ---
 unique-page-id: 10096679
-description: Exemplo de integração de evento ON24 - Documentos do Marketo - Documentação do produto
+description: Exemplo de integração de evento ON24 - Documentação do Marketo - Documentação do produto
 title: Exemplo de integração de evento ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '385'
 ht-degree: 1%
 
 ---
 
 # Exemplo de integração de evento ON24 {#example-on-event-integration}
 
-Este é um exemplo de evento, incluindo campanhas, para um webinário ON24. Ao criar seu evento, certifique-se de testar suas campanhas antes de executá-las.
+Este é um evento de amostra, incluindo campanhas, para um webinário ON24. Ao criar seu evento, certifique-se de testar suas campanhas antes de executá-las.
 
-## Criar um novo evento nas atividades de marketing {#create-a-new-event-in-marketing-activities}
+## Criar um novo evento em atividades de marketing {#create-a-new-event-in-marketing-activities}
 
 1. Selecionar **Novo** > **Novo programa**.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Selecione um **Pasta da campanha** onde o evento viverá.
+1. Selecione um **Pasta do Campaign** onde o evento irá viver.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Insira um **Nome** para o evento .
+1. Insira um **Nome** para o evento.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Selecionar **Evento** como **Tipo de programa**.
+1. Selecionar **Evento** como o **Tipo de programa**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Selecionar **Webinar** como **Canal** para o evento .
+1. Selecionar **Webinário** como o **Canal** para o evento.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
@@ -45,51 +46,51 @@ Este é um exemplo de evento, incluindo campanhas, para um webinário ON24. Ao c
 * **Lista inteligente** - Defina quem você convidará para o evento.
 * **Fluxo**
 
-   * Enviar email - Se esse for um email de ativo local, ele terá a seguinte convenção de nomenclatura: EventName.EmailName. Também é possível usar emails globais.
-   * Alterar status em progressão - Defina como webinar > Convidado.
+   * Enviar email - Se esse for um email de ativo local, ele terá a seguinte convenção de nomenclatura: EventName.EmailName. Você também pode usar emails globais.
+   * Alterar status na progressão - Defina como Webinar > Convidado.
 
-* **Agendar** - Defina a data para o envio do convite.
+* **Agendar** - Defina a data para o convite a ser enviado.
 
-## Registro/Confirmação (Campanha do Acionador) {#registration-confirmation-trigger-campaign}
+## Registro/Confirmação (Acionar Campanha) {#registration-confirmation-trigger-campaign}
 
 * **Lista inteligente**
 
-   * Acione a campanha com base em **Preenche Formulário**. Certifique-se de incluir a landing page na qual o formulário reside usando **Adicionar restrição**, especialmente se o formulário for usado em várias landing pages.
+   * Acionar a campanha com base em **Preenche o formulário**. Certifique-se de incluir a página de aterrissagem em que o formulário está usando **Adicionar Restrição**, especialmente se o formulário for usado em várias landings pages.
 
 >[!CAUTION]
 >
->Você deve usar um formulário Marketo para registrar pessoas para o evento ou um formulário que não seja da Marketo com a integração de API adequada para enviar dados de registro para o Marketo. Isso é essencial para o sucesso da integração do Parceiro de eventos. **OBSERVAÇÃO**: Se você estiver usando um formulário Marketo em uma página de aterrissagem que não seja a Marketo, o acionador será **Preenche Formulário** com o Nome do formulário.
+>Você deve usar um formulário do Marketo para registrar pessoas para o evento ou um formulário que não seja do Marketo com a integração de API adequada para enviar dados de registro para o Marketo. Isso é essencial para o sucesso da integração do Parceiro de evento. **NOTA**: se estiver usando um formulário do Marketo em uma página de aterrissagem que não seja da Marketo, seu acionador será **Preenche o formulário** com o Nome do formulário.
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
 * **Fluxo**
 
-   * **Alterar Status em Progressão** - Defina como Webinar > Registrado. **CUIDADO**: Essa etapa do fluxo é necessária ao configurar a campanha filho. Quando o status da progressão de uma pessoa muda para **Registrado**, o Marketo envia as informações de registro para ON24.
+   * **Alterar status na progressão** - Defina como Webinar > Registrado. **CUIDADO**: essa etapa do fluxo é necessária ao configurar a campanha filho. Quando o status de progressão de uma pessoa muda para **Registrado**, o Marketo envia as informações de registro para o ON24.
 
-   * **Enviar Email** - Email de confirmação (definido como **Operacional** para que as pessoas que se inscreveram ainda recebam o registro).
+   * **Enviar e-mail** - Email de confirmação (definido como **Operacional** para que as pessoas não inscritas que se registraram ainda recebam).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
-**OBSERVAÇÃO**: Se a pessoa for retornada com um erro de registro, ela não receberá a confirmação do email.
+**NOTA**: se a pessoa for retornada com um erro de registro, não receberá a confirmação do email.
 
-## Lembrete (Campanha em lote) {#reminder-batch-campaign}
+## Lembrete (Campanha em Lote) {#reminder-batch-campaign}
 
 * **Lista inteligente** - Filtrar usando **Membro do Programa** e defina o status como **Registrado**.
 
-* **Fluxo** - Enviar Email (Email do Lembrete).
+* **Fluxo** - Enviar email (email de lembrete).
 
-**OBSERVAÇÃO**: Você pode usar uma campanha semelhante para enviar uma *different* e-mail de acompanhamento para pessoas que foram convidadas mas que ainda não se registraram.
+**NOTA**: você pode usar uma campanha semelhante para enviar um *diferente* email de acompanhamento para pessoas convidadas, mas que ainda não se registraram.
 
-## Campanha de acompanhamento (Campanha em lote ou acionadora) {#follow-up-campaign-batch-or-trigger-campaign}
+## Campanha de acompanhamento (campanha em lote ou de acionador) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **Lista inteligente** - Acionador com base em alterações no status do programa.
+* **Lista inteligente** - Acionar com base em alterações no status do programa.
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
-* **Fluxo** - Enviar Email. Use opções para enviar diferentes emails com base no status do programa.
+* **Fluxo** - Enviar email. Use opções para enviar emails diferentes com base no status do programa.
 
 ![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
->[Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

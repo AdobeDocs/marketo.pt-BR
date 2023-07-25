@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7504163
-description: Adicionar públicos-alvo correspondentes do LinkedIn as a LaunchPoint Service - Documentos do Marketo - Documentação do produto
+description: Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint - Documentação do Marketo - Documentação do produto
 title: Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 2%
@@ -16,9 +17,9 @@ ht-degree: 2%
 >
 >**Permissões de administrador necessárias**
 
-Conecte sua conta do Marketo com públicos-alvo correspondentes da LinkedIn para usar uma lista estática ou uma lista inteligente do Marketo como um segmento de público-alvo da LinkedIn.
+Conecte sua conta do Marketo com o LinkedIn Matched Audiences para usar uma lista estática ou lista inteligente do Marketo como um segmento de público do LinkedIn.
 
-1. Vá para o **Administrador** seção.
+1. Vá para a **Admin** seção.
 
    ![](assets/admin.png)
 
@@ -26,11 +27,11 @@ Conecte sua conta do Marketo com públicos-alvo correspondentes da LinkedIn para
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecionar **Novo** e **Novo Serviço**.
+1. Selecionar **Novo** e **Novo serviço**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Insira um **Nome de exibição** e escolha **Públicos-alvo correspondentes ao linkedIn**. Clique em **Criar**.
+1. Insira um **Nome de exibição** e escolha **Públicos-alvo correspondentes do linkedIn**. Clique em **Criar**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -40,9 +41,9 @@ Conecte sua conta do Marketo com públicos-alvo correspondentes da LinkedIn para
 
    >[!CAUTION]
    >
-   >Para que o Marketo envie públicos-alvo por várias contas de anúncios do LinkedIn, o usuário do LinkedIn autorizado nas etapas a seguir precisa ter acesso ao *all* dessas contas de anúncios em seu Gerente de campanha.
+   >Para que o Marketo envie públicos-alvo em várias contas de anúncio do LinkedIn, o usuário do LinkedIn autorizado nas etapas a seguir precisa ter acesso a *all* dessas contas de anúncio no Gerenciador de campanhas.
 
-1. O linkedIn é aberto em uma nova guia. A partir daqui, faça logon em sua conta LinkedIn.
+1. O linkedIn abre em uma nova guia. Aqui, faça logon na sua conta do LinkedIn.
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
@@ -54,10 +55,10 @@ Conecte sua conta do Marketo com públicos-alvo correspondentes da LinkedIn para
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   Ótimo! Agora, você verá Públicos-alvo correspondentes da LinkedIn listados como um serviço do LaunchPoint na guia Serviços instalados .
+   Ótimo! Agora você verá o LinkedIn Matched Audiences listado como um serviço do LaunchPoint na guia Serviços instalados.
 
    ![](assets/bartholomew2.png)
 
 >[!MORELIKETHIS]
 >
->[Usar uma Lista Marketo ou Lista inteligente como um segmento de público-alvo da LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Usar uma lista Marketo ou uma lista inteligente como um segmento de público-alvo do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

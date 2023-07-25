@@ -1,36 +1,37 @@
 ---
-description: Envie sua mensagem no aplicativo - Documentos do Marketo - Documentação do produto
-title: Enviar mensagem no aplicativo
+description: Enviar A Mensagem No Aplicativo - Documentação Do Marketo - Documentação Do Produto
+title: Enviar A Mensagem No Aplicativo
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 2%
 
 ---
 
-# Enviar mensagem no aplicativo {#send-your-in-app-message}
+# Enviar A Mensagem No Aplicativo {#send-your-in-app-message}
 
 Depois de criar a mensagem no aplicativo, é hora de enviá-la. Estas são as etapas:
 
 >[!NOTE]
 >
->Ao testar uma mensagem no aplicativo acionada pela opção Abrir aplicativo, baixe o aplicativo no telefone, abra-o e feche-o. Isso inicializa o código do SDK. Na próxima vez que você abrir o aplicativo, a mensagem no aplicativo será exibida. Os eventos personalizados são acionados na primeira vez que o aplicativo é aberto.
+>Quando estiver testando uma mensagem no aplicativo acionada pela opção Abrir aplicativo, baixe o aplicativo no telefone, abra-o e feche-o. Isso inicializa o código do SDK. Na próxima vez que você abrir o aplicativo, a mensagem no aplicativo será exibida. Os eventos personalizados são acionados na primeira vez que o aplicativo é aberto.
 
 1. Em Atividades de marketing, clique na pasta onde deseja que o programa fique ativo e escolha **Novo programa**.
 
-   ![Imagem Um](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
+   ![Imagem um](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
 
 1. Insira um nome.
 
    ![Imagem dois](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-2.png)
 
-1. Selecione o tipo de programa no aplicativo na lista suspensa e clique em **Criar**.
+1. Selecione o tipo de programa no aplicativo no menu suspenso e clique em **Criar**.
 
-   ![Imagem Três](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
+   ![Imagem três](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
 
-1. Use o Painel de controle do Campaign para definir quem, o que e quando da mensagem no aplicativo e quando terminar, aprove. Há um artigo separado para cada etapa.
+1. Use o Painel de controle do Campaign para definir o quê, quem e quando da mensagem no aplicativo e, quando terminar, aprove-a. Há um artigo separado para cada etapa.
 
    ![Imagem quatro](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Pronto(a)s? Comece com [definição do público](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Pronto(a)s? Iniciar com [definição do público](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).

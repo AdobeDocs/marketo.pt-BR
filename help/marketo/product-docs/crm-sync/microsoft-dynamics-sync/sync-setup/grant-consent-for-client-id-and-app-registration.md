@@ -1,19 +1,20 @@
 ---
-description: Conceder consentimento para ID do cliente e registro do aplicativo - Documentos do Marketo - Documentação do produto
-title: Conceder consentimento para ID do cliente e registro de aplicativo
+description: Conceder consentimento para registro da ID do cliente e do aplicativo - Documentação do Marketo - Documentação do produto
+title: Conceder consentimento para a ID do cliente e o registro do aplicativo
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
-source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
-# Conceder consentimento para ID do cliente e registro de aplicativo {#grant-consent-for-client-id-and-app-registration}
+# Conceder consentimento para a ID do cliente e o registro do aplicativo {#grant-consent-for-client-id-and-app-registration}
 
 ## Conceder permissões de usuário delegado para o usuário de sincronização {#grant-delegated-user-permissions-for-the-sync-user}
 
-1. Use um programa de texto limpo (Bloco de notas para Windows, Edição de texto para Mac) para criar um URI (Uniform Resource Identifier) para autorização colando o texto abaixo e substituindo os valores client_id, redirect_uri e state .
+1. Use um programa de texto limpo (Bloco de notas para Windows, Edição de texto para Mac) para criar um URI (Uniform Resource Identifier) para autorização, colando o texto abaixo e substituindo os valores client_id, redirect_uri e state.
 
    ```
    https://login.microsoftonline.com/common/oauth2/authorize?
@@ -38,8 +39,8 @@ ht-degree: 0%
       <td>deve ser a client_id gerada no processo de registro do aplicativo</td> 
      </tr> 
      <tr> 
-      <td><strong>valor de redirect_uri</strong></td> 
-      <td>deve ser igual ao valor inserido no momento do registro do aplicativo &gt; URIs de redirecionamento</td> 
+      <td><strong>valor redirect_uri</strong></td> 
+      <td>deve ser o mesmo que o valor inserido no momento do registro do aplicativo &gt; Redirecionar URIs</td> 
      </tr> 
      <tr> 
       <td><strong>valor do estado</strong></td> 
@@ -50,7 +51,7 @@ ht-degree: 0%
 
    O URL final deve ser semelhante a: `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`
 
-1. Abra o URI criado em qualquer navegador.
+1. Abra o URI que você criou em qualquer navegador.
 
    ![](assets/grant-consent-for-client-id-app-registration-1.png)
 
@@ -60,23 +61,23 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se você já estiver conectado ao Azure como administrador em outra guia, precisará usar um navegador ou modo Incógnito diferente para fazer logon como o usuário de sincronização.
+   >Se você já estiver conectado ao Azure como um Administrador em outra guia, precisará usar um navegador diferente ou modo Incógnito para fazer logon como o Usuário da sincronização.
 
 1. Clique em **Aceitar**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
-## Conceder consentimento para todos os usuários {#grant-consent-for-all-users}
+## Conceder consentimento a todos os usuários {#grant-consent-for-all-users}
 
-Como administrador, você também pode consentir com as permissões delegadas de um aplicativo em nome de todos os usuários do seu locatário. O consentimento administrativo impede que a caixa de diálogo de consentimento seja exibida para cada usuário no locatário e pode ser feita no portal do Azure por usuários com a função de administrador. Saiba quais funções de administrador podem [consentimento para permissões delegadas aqui](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+Como administrador, você também pode consentir com as permissões delegadas de um aplicativo em nome de todos os usuários em seu locatário. O consentimento administrativo impede que a caixa de diálogo de consentimento apareça para cada usuário no locatário e pode ser feito no portal do Azure por usuários com a função de administrador. Saiba quais funções de administrador podem [consentimento para permissões delegadas aqui](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
 1. No portal do Azure, navegue até a página inicial do aplicativo.
 
-1. Em Gerenciar , clique em **Permissões de API**.
+1. Em Gerenciar, clique em **Permissões de API**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Clique no botão **Conceder consentimento administrativo** botão (para locatário).
+1. Clique em **Dar consentimento administrativo** (para locatário) botão.
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 

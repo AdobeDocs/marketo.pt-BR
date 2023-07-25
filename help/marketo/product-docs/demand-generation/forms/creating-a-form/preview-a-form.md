@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359575
-description: Visualizar um formulário - Documentos do Marketo - Documentação do produto
+description: Visualizar um formulário - Documentação do Marketo - Documentação do produto
 title: Visualizar um formulário
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 # Visualizar um formulário {#preview-a-form}
 
-Antes de publicar, é possível ver o formulário nesse visualizador de formulário rápido e simples.
+Antes de publicar, você pode ver o formulário neste pré-visualizador de formulário rápido e simples.
 
 1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Localize e selecione o formulário.
+1. Localize e selecione seu formulário.
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
@@ -26,11 +27,11 @@ Antes de publicar, é possível ver o formulário nesse visualizador de formulá
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. O editor de formulários será aberto em **visualização** modo.
+1. O editor de formulários será aberto no **pré-visualização** modo.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Clique em **Editar rascunho** para voltar a **editar** modo.
+1. Clique em **Editar rascunho** voltar para **editar** modo.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 

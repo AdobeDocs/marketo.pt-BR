@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2950545
-description: Adicionar sua política de privacidade a um aplicativo social - Documentos do Marketo - Documentação do produto
+description: Adicionar sua política de privacidade a um aplicativo social - Documentação do Marketo - Documentação do produto
 title: Adicionar sua política de privacidade a um aplicativo social
 exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 1%
@@ -12,7 +13,7 @@ ht-degree: 1%
 
 # Adicionar sua política de privacidade a um aplicativo social {#add-your-privacy-policy-to-a-social-app}
 
-Ao criar um aplicativo social, você pode adicionar um link à política de privacidade da sua empresa.
+Ao criar um aplicativo social, você pode adicionar um link para a política de privacidade da sua empresa.
 
 1. Ir para **Atividades de marketing**.
 
@@ -22,7 +23,7 @@ Ao criar um aplicativo social, você pode adicionar um link à política de priv
 
    ![](assets/image2014-9-22-10-3a50-3a22.png)
 
-1. No editor de aplicativos sociais, acesse **Configurações do aplicativo** > **Opções avançadas**.
+1. No editor de aplicativo social, acesse **Configurações do aplicativo** > **Opções avançadas**.
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
@@ -34,8 +35,8 @@ Ao criar um aplicativo social, você pode adicionar um link à política de priv
    >
    >Nessa tela, você também pode adicionar um link para as regras (termos e condições) da sua oferta. Consulte [Criar uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
-1. O link da política de privacidade (e o link de regras) será exibido na parte inferior das telas de mensagem de compartilhamento. Por exemplo:
+1. O link da política de privacidade (e o link de regras) aparecerá na parte inferior das telas de mensagem de compartilhamento. Por exemplo:
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-Em seguida, você pode [configurar o fluxo de inscrição e compartilhamento do social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) do seu aplicativo.
+Em seguida, é possível [configurar o fluxo de compartilhamento e inscrição social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) do seu aplicativo.

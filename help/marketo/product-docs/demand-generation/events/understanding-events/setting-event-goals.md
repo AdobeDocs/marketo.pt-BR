@@ -1,48 +1,49 @@
 ---
-description: Definir metas de evento - Documentos do Marketo - Documentação do produto
-title: Definir metas de evento
+description: Definição de metas do evento - Documentação do Marketo - Documentação do produto
+title: Definição de Objetivos de Evento
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# Definir metas de evento {#setting-event-goals}
+# Definição de Objetivos de Evento {#setting-event-goals}
 
-Atribua objetivos específicos aos seus eventos e veja como eles funcionam.
+Atribua metas específicas aos eventos e veja o desempenho deles.
 
 >[!IMPORTANT]
 >
->Nem todos compraram esse recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter detalhes.
+>Nem todos compraram este recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
-1. Crie um programa de evento.
+1. Criar um programa de evento.
 
    ![](assets/setting-event-goals-1.png)
 
-1. Escolha a [!UICONTROL Pasta da campanha], dê um [!UICONTROL Nome], selecione o [!UICONTROL Tipo de programa] e [!UICONTROL Canal]. Clique em **[!UICONTROL Criar]** quando concluído.
+1. Escolha o [!UICONTROL Pasta do Campaign], dê ao seu evento um [!UICONTROL Nome], selecione o [!UICONTROL Tipo de programa] e [!UICONTROL Canal]. Clique em **[!UICONTROL Criar]** quando terminar.
 
    ![](assets/setting-event-goals-2.png)
 
-1. No seu caso, clique no botão **[!UICONTROL Relatórios]** guia .
+1. No seu evento, clique no link **[!UICONTROL Relatórios]** guia.
 
    ![](assets/setting-event-goals-3.png)
 
-1. Insira a meta para [!UICONTROL Registrado] clicando em **[!UICONTROL Definir uma meta]**. Digite o número em e pressione enter.
+1. Inserir a meta para [!UICONTROL Registrado] clicando em **[!UICONTROL Definir uma meta]**. Digite o número em e pressione Enter.
 
    ![](assets/setting-event-goals-4.png)
 
    ![](assets/setting-event-goals-5.png)
 
-1. Repita as mesmas etapas para [!UICONTROL Participante].
+1. Repita as mesmas etapas para [!UICONTROL Participou].
 
    ![](assets/setting-event-goals-6.png)
 
 >[!NOTE]
 >
->Não é possível definir metas para um evento depois que ele foi iniciado.
+>Você não pode definir metas para um evento após seu início.
 
-E é isso! Verifique o status da meta do evento clicando em [!UICONTROL Relatórios] guia .
+E é isso! Verifique o status da meta do evento clicando no link [!UICONTROL Relatórios] guia.

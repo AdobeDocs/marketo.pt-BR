@@ -3,7 +3,8 @@ unique-page-id: 2949253
 description: SEO - Remover/excluir um URL de link de entrada - Documentação do Marketo - Documentação do produto
 title: SEO - Remover/Excluir um URL de link de entrada
 exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 3%

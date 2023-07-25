@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10094647
-description: Definir um prefixo de campo personalizado padrão - Documentos do Marketo - Documentação do produto
+description: Definir um prefixo de campo personalizado padrão - Documentação do Marketo - Documentação do produto
 title: Definir um prefixo de campo personalizado padrão
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -38,4 +39,4 @@ O prefixo padrão do Microsoft Dynamics para campos personalizados deve ser **no
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 
-1. Agora, crie seus campos personalizados. Após concluí-los, reverta o prefixo para o original.
+1. Agora, crie seus campos personalizados. Depois de concluí-los, reverta o prefixo para o original.

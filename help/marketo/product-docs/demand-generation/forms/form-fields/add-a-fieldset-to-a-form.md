@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359594
-description: Adicionar um conjunto de campos a um formulário - Documentos do Marketo - Documentação do produto
+description: Adicionar um conjunto de campos a um formulário - Documentação do Marketo - Documentação do produto
 title: Adicionar um conjunto de campos a um formulário
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Adicionar um conjunto de campos a um formulário {#add-a-fieldset-to-a-form}
 
-Campos são legais. Eles agrupam vários campos juntos. Você pode controlar um bloco inteiro de uma só vez também!
+Os conjuntos de campos são legais. Eles agrupam vários campos. Você também pode controlar um bloco inteiro de uma só vez!
 
 1. Ir para **Atividades de marketing**.
 
@@ -22,7 +23,7 @@ Campos são legais. Eles agrupam vários campos juntos. Você pode controlar um 
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Clique no botão **+** assinar e selecionar **Fieldset**.
+1. Clique em **+** assinar e selecionar **Fieldset**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
@@ -30,16 +31,16 @@ Campos são legais. Eles agrupam vários campos juntos. Você pode controlar um 
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. Arraste os campos que deseja para a **fieldset**.
+1. Arraste os campos desejados para a **fieldset**.
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. Aqui está como deve ser quando feito.
+1. Veja como deveria parecer quando concluído.
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
 
-Aí está!
+É isso aí!
 
 >[!TIP]
 >
->É possível ocultar/mostrar dinamicamente todo o conjunto de campos, dependendo de outro campo. Saiba mais sobre [regras de visibilidade](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>Dependendo de outro campo, é possível ocultar/mostrar dinamicamente todo o conjunto de campos. Saiba mais sobre [regras de visibilidade](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

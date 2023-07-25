@@ -1,42 +1,43 @@
 ---
 unique-page-id: 10094959
-description: Uso de painéis no Explorador de receita - Documentos do Marketo - Documentação do produto
-title: Uso de painéis no Explorador de receita
+description: Uso de painéis no Gerenciador de receita - Documentação do Marketo - Documentação do produto
+title: Utilização de painéis no Gerenciador de receita
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
-# Uso de painéis no Explorador de receita {#using-dashboards-in-revenue-explorer}
+# Utilização de painéis no Gerenciador de receita {#using-dashboards-in-revenue-explorer}
 
 Um painel é uma combinação de relatórios do Revenue Explorer para obter uma visão geral rápida de seus leads, campanhas, oportunidades e/ou modelos.
 
 ## Criar um novo painel {#creating-a-new-dashboard}
 
-1. Clique em **Explorador de receita**.
+1. Clique em **Gerenciador de Receita**.
 
    ![](assets/one.png)
 
-1. Clique em **Criar novo**, em seguida **Painel**.
+1. Clique em **Criar novo**, depois **Painel**.
 
    ![](assets/two.png)
 
-1. Na parte inferior da página, Modelos serão selecionados por padrão. Clique no layout que deseja usar. &quot;2 Coluna&quot; é usada aqui.
+1. Na parte inferior da página, os Modelos serão selecionados por padrão. Clique no layout que deseja usar. &quot;2 colunas&quot; é usado aqui.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Você pode personalizar ainda mais a aparência do seu painel clicando em **Temas** e escolher o seu favorito.
+   >É possível personalizar ainda mais a aparência do painel clicando em **Temas** e escolhendo seu favorito.
 
-1. Na primeira seção do painel, clique no botão **Inserir** e selecione **Arquivo**.
+1. Na primeira seção do painel, clique na guia **Inserir** e selecione **Arquivo**.
 
    ![](assets/four.png)
 
-1. Clique duas vezes **Explorador de receita**.
+1. Clique duas vezes **Gerenciador de Receita**.
 
    ![](assets/five.png)
 
@@ -44,7 +45,7 @@ Um painel é uma combinação de relatórios do Revenue Explorer para obter uma 
 
    ![](assets/six.png)
 
-1. Clique duas vezes na pasta que contém o relatório que deseja usar.
+1. Clique duas vezes na pasta que abriga o relatório que deseja usar.
 
    ![](assets/seven.png)
 
@@ -52,25 +53,25 @@ Um painel é uma combinação de relatórios do Revenue Explorer para obter uma 
 
    ![](assets/eight.png)
 
-1. O relatório será então preenchido. Repita as etapas de 4 a 8 para cada seção restante.
+1. O relatório será preenchido. Repita as etapas 4 a 8 para cada seção restante.
 
    ![](assets/nine.png)
 
-1. Para renomear uma seção, clique nela para selecioná-la, digite o nome desejado em Título e clique em **Aplicar**. Repita para cada seção.
+1. Para renomear uma seção, clique nela para selecioná-la, digite o nome desejado em Título e clique em **Aplicar**. Repita o procedimento para cada seção.
 
    ![](assets/ten.png)
 
-1. Para salvar, clique no ícone Salvar , insira um nome de arquivo, clique duas vezes na pasta Explorador de receita até chegar à pasta desejada para o painel e clique em **Salvar**.
+1. Para salvar, clique no ícone Salvar, insira um nome de arquivo, clique duas vezes na pasta Gerenciador de receita até chegar à pasta desejada para seu painel e clique em **Salvar**.
 
    ![](assets/eleven.png)
 
 ## Editar um painel {#editing-a-dashboard}
 
-1. Clique em **Explorador de receita**.
+1. Clique em **Gerenciador de Receita**.
 
    ![](assets/one.png)
 
-1. Clique duas vezes no botão **Explorador de receita** pasta. Navegue até o local onde seu painel está.
+1. Clique duas vezes no ícone **Gerenciador de Receita** pasta. Navegue até o local em que se encontra o painel.
 
    ![](assets/thirteen.png)
 
@@ -80,14 +81,14 @@ Um painel é uma combinação de relatórios do Revenue Explorer para obter uma 
 
 ## Excluir um painel {#deleting-a-dashboard}
 
-1. Clique em **Explorador de receita**.
+1. Clique em **Gerenciador de Receita**.
 
    ![](assets/one.png)
 
-1. Clique duas vezes no botão **Explorador de receita** pasta. Navegue até o local onde seu painel está.
+1. Clique duas vezes no ícone **Gerenciador de Receita** pasta. Navegue até o local em que se encontra o painel.
 
    ![](assets/thirteen.png)
 
-1. Selecione o painel que deseja excluir e clique em **Mover para a lixeira**.
+1. Selecione o painel que deseja excluir e clique em **Mover para o Lixo**.
 
    ![](assets/fifteen.png)

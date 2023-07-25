@@ -1,9 +1,10 @@
 ---
 unique-page-id: 11380778
-description: Permissões - Documentos do Marketo - Documentação do produto
+description: Permissões — Documentação do Marketo — Documentação do produto
 title: Permissões
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 2%
@@ -14,7 +15,7 @@ ht-degree: 2%
 
 Você precisará configurar permissões para que seus usuários possam usar o TAM. Veja como.
 
-1. Clique em **Administrador**.
+1. Clique em **Admin**.
 
    ![](assets/one-2.png)
 
@@ -24,17 +25,17 @@ Você precisará configurar permissões para que seus usuários possam usar o TA
 
    >[!NOTE]
    >
-   >Você pode adicionar permissões de TAM para uma função existente ou criar uma nova. Esse exemplo usa uma nova função.
+   >Você pode adicionar permissões TAM para uma função existente, ou criar uma nova. Este exemplo usa uma nova função.
 
-1. Clique em **Funções**, em seguida **Nova função**.
+1. Clique em **Funções**, depois **Nova Função**.
 
    ![](assets/three-2.png)
 
-1. Insira um Nome de função e clique no botão **+** ícone ao lado da caixa de seleção Acessar gerenciamento de conta do Target .
+1. Insira um Nome de Função e clique no botão **+** ícone ao lado da caixa de seleção Acessar Gerenciamento de Conta de Destino.
 
    ![](assets/permissions-4.png)
 
-1. Para selecionar _all_ , basta verificar a **Acessar o gerenciamento de contas do Target** caixa de seleção.
+1. Para selecionar _all_ permissões, basta verificar a **Gerenciamento de contas de acesso do Target** caixa de seleção
 
    ![](assets/permissions-5.png)
 
@@ -42,7 +43,7 @@ Você precisará configurar permissões para que seus usuários possam usar o TA
    >
    >Você também tem a opção de selecionar apenas algumas das opções. Faça isso marcando cada caixa de seleção individualmente.
 
-1. Clique no botão **+** para abrir o menu Admin de acesso. Verifique a **Acessar o administrador do ABM** caixa de seleção (ABM é o nome anterior para TAM) e clique em **Criar**.
+1. Clique em **+** para abrir o menu Acessar administrador. Verifique a **Acessar administrador ABM** (ABM é o nome anterior do TAM) e clique em **Criar**.
 
    ![](assets/permissions-6.png)
 

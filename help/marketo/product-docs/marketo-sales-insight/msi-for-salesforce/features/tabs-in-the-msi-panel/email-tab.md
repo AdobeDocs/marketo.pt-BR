@@ -1,17 +1,18 @@
 ---
 description: Guia Email - Documentação do Marketo - Documentação do produto
-title: Guia Email
+title: Guia E-mail
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%
 
 ---
 
-# Guia Email {#email-tab}
+# Guia E-mail {#email-tab}
 
-A guia email mostra uma lista de todos os emails enviados para um contato ou lead. Ele inclui as seguintes colunas:
+A guia email mostra uma lista de todos os emails enviados para um contato ou lead. Inclui as seguintes colunas:
 
 * Assunto
 * Data
@@ -26,17 +27,16 @@ Você pode clicar no botão &quot;Verificar status do delivery&quot; para abrir 
  <tbody>
   <tr>
    <td><strong>Emails enviados do Marketo</strong></td>
-   <td>Enviado, Entregue, Rejeitado, Rejeitado Suave</td>
+   <td>Enviado, Entregue, Devolvido, Devolução suave</td>
   </tr>
   <tr>
-   <td><strong>Emails enviados do Sales Insight</strong></td>
-   <td>Enviado, Rejeitado</td>
+   <td><strong>Emails enviados pelo Sales Insight</strong></td>
+   <td>Enviado, Devolvido</td>
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->* O status do delivery para emails enviados pelo Sales Insight do Salesforce CRM não está disponível.
->* Essa guia reflete o nome do modelo para emails enviados do Marketo e a linha de assunto para emails enviados do Sales Insight. Abra o modo de visualização para ver a linha de assunto dos emails enviados ou consulte a guia email no painel de lead/contato/conta/oportunidade.
-
+>* O status do delivery de emails enviados do Sales Insight do Salesforce CRM não está disponível.
+>* Essa guia reflete o nome do modelo para emails enviados do Marketo e a linha de assunto para emails enviados do Sales Insight. Abra o no modo de visualização para ver a linha de assunto dos emails enviados ou consulte a guia email no painel lead/contact/account/opportunity.

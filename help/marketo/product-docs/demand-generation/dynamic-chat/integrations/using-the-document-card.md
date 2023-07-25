@@ -1,25 +1,26 @@
 ---
-description: Uso da placa de documento - Documentação da Marketo - Documentação do produto
-title: Usando a placa de documento
+description: Uso do cartão de documento - Documentação do Marketo - Documentação do produto
+title: Uso do Cartão de Documento
 exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# Usando a placa de documento {#using-the-document-card}
+# Uso do Cartão de Documento {#using-the-document-card}
 
-O Cartão de documento permite que você incorpore documentos PDF em Caixas de diálogo e rastreie a atividade de envolvimento de documentos dos visitantes. Veja como configurar.
+O cartão Documento permite incorporar documentos PDF em caixas de diálogo e rastrear a atividade de engajamento de documentos dos visitantes. Veja como configurar isso.
 
-1. Navegar para [API de incorporação do Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target=&quot;_blank&quot;}.
+1. Navegue até [API incorporada do Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. Clique em **Obter Credenciais**.
+1. Clique em **Obter credenciais**.
 
    ![](assets/using-the-document-card-1.png)
 
-1. Faça logon na sua conta do Adobe.
+1. Faça logon em sua conta Adobe.
 
    ![](assets/using-the-document-card-2.png)
 
@@ -29,13 +30,13 @@ O Cartão de documento permite que você incorpore documentos PDF em Caixas de d
 
    >[!IMPORTANT]
    >
-   >Você precisará usar o domínio no qual hospedará o chatbot (por exemplo, se estiver hospedando o chatbot em mycompany.com, certifique-se de inserir isso na Etapa 4).
+   >Você precisará usar o domínio em que hospedará o chatbot (por exemplo, se estiver hospedando o chatbot em mycompany.com, insira isso na Etapa 4).
 
 1. Clique em **Copiar** para copiar a ID do cliente.
 
    ![](assets/using-the-document-card-4.png)
 
-1. De volta ao bate-papo dinâmico, clique em **Integrações**. No cartão Adobe PDF Embed API , clique em **Ativar**.
+1. De volta ao Dynamic Chat, clique em **Integrações**. No cartão de API incorporado do Adobe PDF, clique em **Ativar**.
 
    ![](assets/using-the-document-card-5.png)
 
@@ -43,4 +44,4 @@ O Cartão de documento permite que você incorpore documentos PDF em Caixas de d
 
    ![](assets/using-the-document-card-6.png)
 
-Agora você pode usar o cartão de documento em suas caixas de diálogo&#39; [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)!
+Agora você pode usar o Cartão de documento nas caixas de diálogo [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)!

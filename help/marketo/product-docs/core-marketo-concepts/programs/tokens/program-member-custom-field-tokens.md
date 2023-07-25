@@ -1,37 +1,37 @@
 ---
 unique-page-id: 1147114
-description: Tokens de campo personalizado do membro do programa - Documentos do Marketo - Documentação do produto
-title: Tokens de campo personalizado do membro do programa
+description: Tokens de campo personalizado de membros do programa - Documentação do Marketo - Documentação do produto
+title: Tokens de campo personalizado de membros do programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 2%
 
 ---
 
-# Tokens de campo personalizado do membro do programa {#program-member-custom-field-tokens}
+# Tokens de campo personalizado de membros do programa {#program-member-custom-field-tokens}
 
-## Suporte de token para campos personalizados do membro do programa {#token-support-for-program-member-custom-fields}
+## Suporte a token para campos personalizados de membros do programa {#token-support-for-program-member-custom-fields}
 
-Na parte de trás dos recursos Campos personalizados do membro do programa, o suporte está sendo estendido para os Campos personalizados do membro do programa nas estruturas de token.
+Com o apoio dos recursos de Campos personalizados de membros do programa, o suporte para Campos personalizados de membros do programa está sendo estendido em estruturas de token.
 
-Os tokens PMCF serão suportados no domínio membro da família de tokens.
+Os tokens PMCF terão suporte no domínio membro da família de tokens.
 
-Tokens de Membro são usados para campos do escopo do Membro do Programa. A partir do estado atual, Tokens de Membro também são usados para inserir valores exclusivos de parceiros de serviços integrados. `{{member.webinar url}}` O token resolve automaticamente o URL de confirmação exclusivo da pessoa gerado pelo provedor de serviços. {{member.registration code}} resolve o código de registro fornecido pelo provedor de serviços.
+Os tokens de membro são usados para campos no escopo de Membro do programa. A partir do estado atual, os Tokens de membro também são usados para inserir valores exclusivos de parceiros de serviços integrados. `{{member.webinar url}}` O token resolve automaticamente o URL de confirmação exclusivo da pessoa gerado pelo provedor de serviços. {{member.registration code}} resolve para o código de registro fornecido pelo provedor de serviços.
 
 >[!NOTE]
 >
->* Os Campos Personalizados do Membro do Programa podem ser usados somente no contexto de um programa.
->* Os tokens de campos personalizados do membro do programa não podem ser usados em: pré-cabeçalho de email, tokens de data em etapas de espera ou trechos.
+>* Os campos personalizados do membro do programa podem ser usados somente no contexto de um programa.
+>* Os tokens de campos personalizados do membro do programa não podem ser usados no: pré-cabeçalho de email, tokens de data em etapas de espera ou trechos.
 >* O Status de Membro do Programa não é suportado em Tokens de Membro.
 
+## Utilização de tokens de campo personalizado de membro do programa no Assets {#using-program-member-custom-field-tokens-in-assets}
 
-## Uso de tokens de campo personalizados de membro do programa em ativos {#using-program-member-custom-field-tokens-in-assets}
+Você pode inserir tokens de campos personalizados do membro do programa em emails, landing pages, SMS, notificações por push e webhooks.
 
-Você pode inserir tokens de campos personalizados de membros do programa em emails, páginas de aterrissagem, SMS, notificações por push e Webhooks.
-
-**e-mails**
+**E-mails**
 
 1. Selecione o email desejado e clique em **Editar rascunho**.
 
@@ -41,7 +41,7 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Encontre e selecione o Token de Campo Personalizado do Membro do Programa desejado, insira um valor padrão e clique em **Inserir**.
+1. Localize e selecione o Token do campo personalizado de membro do programa desejado, insira um valor padrão e clique em **Inserir**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
@@ -51,11 +51,11 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 
 >[!NOTE]
 >
->Não se esqueça de aprovar seu email.
+>Não se esqueça de aprovar seu e-mail.
 
 **Páginas**
 
-1. Selecione sua página de aterrissagem e clique em **Editar rascunho**.
+1. Selecione a Landing Page e clique em **Editar rascunho**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -67,7 +67,7 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 
    ![](assets/program-member-custom-field-tokens-6.png)
 
-1. Clique no local em que deseja que o token fique e clique no ícone Inserir token.
+1. Clique no local em que deseja inserir o token e, em seguida, clique no ícone Inserir token.
 
    ![](assets/program-member-custom-field-tokens-7.png)
 
@@ -89,11 +89,11 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Clique no botão **`{{ Token`** botão.
+1. Clique em **`{{ Token`** botão.
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Localize e selecione o Token de campo personalizado do membro do programa desejado. Insira um valor padrão e clique em Insert.
+1. Localize e selecione o Token do campo personalizado de membro do programa desejado. Insira um valor padrão e clique em Insert.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
@@ -111,28 +111,28 @@ Você pode inserir tokens de campos personalizados de membros do programa em ema
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Clique na mensagem no editor e clique no botão `{{` para obter o seletor de token.
+1. Clique na mensagem no editor e clique no botão `{{` botão para obter o seletor de token.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Localize e selecione o Token de campo personalizado do membro do programa desejado. Insira um valor padrão e clique em **Inserir**.
+1. Localize e selecione o Token do campo personalizado de membro do programa desejado. Insira um valor padrão e clique em **Inserir**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Clique em **Concluir** para salvar e sair (ou **Próximo** para revisar primeiro).
+1. Clique em **Concluir** para salvar e sair (ou **Próxima** para revisar primeiro).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 
 >[!NOTE]
 >
->Se o Campo Personalizado do Membro do Programa para um Membro do programa não tiver valor, o token será substituído pelo valor padrão se tiver sido fornecido.
+>Se o Campo personalizado Membro do programa para um Membro do programa não tiver valor, o token será substituído pelo valor padrão se ele tiver sido fornecido.
 
-## Utilização de tokens de campo personalizados de membro do programa em campanhas {#using-program-member-custom-field-tokens-in-campaigns}
+## Utilização de tokens de campo personalizado de membro do programa em campanhas {#using-program-member-custom-field-tokens-in-campaigns}
 
-Tokens de campo personalizado de membro do programa podem ser usados em:
+Os tokens de campo personalizado do membro do programa podem ser usados em:
 
 * Criar tarefa
 * Criar tarefa no Microsoft
 * Momentos interessantes
-* Alterar ações de fluxo do valor de dados
+* Ações de Alteração do Fluxo de Valor de Dados
 * Webhooks

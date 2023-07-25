@@ -1,18 +1,19 @@
 ---
 unique-page-id: 11378845
-description: Adicionar o Vibes as a LaunchPoint Service - Documentos do Marketo - Documentação do produto
-title: Adicionar Vibes como um Serviço do LaunchPoint
+description: Adicionar Vibes as a LaunchPoint Service - Documentação do Marketo - Documentação do produto
+title: Adicionar vibrações como um serviço do LaunchPoint
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 1%
 
 ---
 
-# Adicionar Vibes como um Serviço do LaunchPoint {#add-vibes-as-a-launchpoint-service}
+# Adicionar vibrações como um serviço do LaunchPoint {#add-vibes-as-a-launchpoint-service}
 
-Você pode enviar mensagens SMS para as pessoas em suas listas de Vibes e usar a atividade de SMS para acionar e filtrar campanhas. Primeiro, é necessário adicionar Vibes como um serviço do LaunchPoint.
+Você pode enviar mensagens SMS para as pessoas em suas listas do Vibes e usar a atividade SMS para acionar e filtrar campanhas. Primeiro, é necessário adicionar Vibes como um serviço do LaunchPoint.
 
 >[!NOTE]
 >
@@ -20,17 +21,17 @@ Você pode enviar mensagens SMS para as pessoas em suas listas de Vibes e usar a
 
 >[!NOTE]
 >
->Você precisa de permissões de administrador do Marketo e de uma conta ativa do Vibes para concluir essa configuração. As credenciais solicitadas na Etapa 4 abaixo são as credenciais da sua conta do Vibes.
+>Você precisa de permissões de administrador do Marketo e de uma conta ativa do Vibes para concluir esta configuração. As credenciais solicitadas na Etapa 4 abaixo são as credenciais da sua conta do Vibes.
 
-1. Em Minha Marketo, clique em **Administrador** e depois **LaunchPoint**.
+1. Em Meu Marketo, clique em **Admin** e depois **LaunchPoint**.
 
    ![](assets/image2016-7-27-9-3a31-3a17.png)
 
-1. Clique em **Novo** e **Novo Serviço**.
+1. Clique em **Novo** e **Novo serviço**.
 
    ![](assets/image2016-7-27-9-3a34-3a25.png)
 
-1. Insira um nome de exibição e, na lista suspensa, selecione **Víbias**.
+1. Insira um nome de exibição e, no menu suspenso, selecione **Vibrações**.
 
    ![](assets/new-service-vibes.png)
 
@@ -38,6 +39,6 @@ Você pode enviar mensagens SMS para as pessoas em suas listas de Vibes e usar a
 
    ![](assets/new-service-vibes-settings-2.png)
 
-   O novo serviço SMS agora aparece na lista de Serviços instalados.
+   O novo serviço SMS agora aparece na lista Serviços instalados.
 
    ![](assets/image2016-7-27-9-3a45-3a1.png)

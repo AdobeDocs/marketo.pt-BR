@@ -1,9 +1,10 @@
 ---
 unique-page-id: 11371065
-description: Adicionar módulos ao seu email - Documentos do Marketo - Documentação do produto
+description: Adicionar módulos ao seu email - Documentação do Marketo - Documentação do produto
 title: Adicionar módulos ao seu email
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Adicionar módulos ao seu email {#add-modules-to-your-email}
 
-No Editor de email 2.0, um módulo é uma seção do email definida no modelo. Os módulos podem conter qualquer combinação de elementos, variáveis e outro conteúdo de HTML. Adicioná-los ao seu email é fácil.
+No Editor de email 2.0, um módulo é uma seção do seu email definida no modelo. Os módulos podem conter qualquer combinação de elementos, variáveis e outro conteúdo de HTML. Adicioná-los ao seu email é fácil.
 
 1. Crie um email. Certifique-se de escolher (ou criar) um modelo que contenha módulos.
 
@@ -20,17 +21,17 @@ No Editor de email 2.0, um módulo é uma seção do email definida no modelo. O
 
    >[!NOTE]
    >
-   >A maioria dos Modelos iniciais do Marketo contém Módulos. Você também pode [crie seu próprio](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >A maioria dos Modelos iniciais do Marketo contém Módulos. Você também pode [crie o seu próprio](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
 1. Na extremidade direita do email, clique em **Módulos**.
 
    ![](assets/two-3.png)
 
-1. Escolha o módulo que deseja adicionar e arraste-o para o email.
+1. Escolha o módulo que deseja adicionar e arraste-o para seu email.
 
    ![](assets/three-3.png)
 
-1. Ao arrastar o módulo sobre ele, você verá a mensagem &quot;Solte aqui&quot; entre os outros módulos. Solte seu novo módulo onde desejar.
+1. Ao arrastar o módulo sobre você verá &quot;Solte aqui&quot; aparecer entre os outros módulos. Solte o novo módulo onde deseja.
 
    ![](assets/four-2.png)
 
@@ -42,11 +43,11 @@ No Editor de email 2.0, um módulo é uma seção do email definida no modelo. O
 
 Há duas maneiras de mover um módulo.
 
-1. Identifique o módulo que deseja mover. Se não tiver certeza do que é chamado, passe o mouse sobre ele e ele será destacado à direita.
+1. Identifique o módulo que deseja mover. Se não tiver certeza do nome, passe o mouse sobre ele e ele ficará realçado à direita.
 
    ![](assets/six-2.png)
 
-1. Passe o mouse sobre o módulo à direita para revelar a alça. Pegue-o...
+1. Passe o mouse sobre o módulo à direita para revelar a alça. Pegue...
 
    ![](assets/seven-2.png)
 
@@ -54,11 +55,11 @@ Há duas maneiras de mover um módulo.
 
    ![](assets/eight-2.png)
 
-1. O outro método é clicar no módulo do email para selecioná-lo, revelando o ícone de engrenagem.
+1. O outro método é clicar no módulo no email para selecioná-lo, revelando o ícone de engrenagem.
 
    ![](assets/nine-2.png)
 
-1. Clique no ícone de engrenagem e selecione **Mover para cima** ou **Mover para baixo**, dependendo para onde deseja que o módulo vá.
+1. Clique no ícone de engrenagem e selecione **Mover para cima** ou **Mover para baixo**, dependendo de onde você deseja que o módulo seja enviado.
 
    ![](assets/ten-2.png)
 

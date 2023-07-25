@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2951167
-description: Exibir resultados do programa de email - Documentos da Marketo - Documentação do produto
-title: Exibir resultados de programas de email
+description: Exibir resultados do programa de e-mail - Documentação do Marketo - Documentação do produto
+title: Exibir resultados do programa de e-mail
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# Exibir resultados de programas de email {#view-email-program-results}
+# Exibir resultados do programa de e-mail {#view-email-program-results}
 
-Assim como a guia Resultados em campanhas inteligentes, você pode ver as mesmas informações em programas de email.
+Assim como na guia Results das campanhas inteligentes, você pode ver as mesmas informações nos programas de email.
 
 1. Ir para **Atividades de marketing**.
 
@@ -24,16 +25,16 @@ Assim como a guia Resultados em campanhas inteligentes, você pode ver as mesmas
 
    >[!NOTE]
    >
-   >Se o programa de email já tiver sido executado, você será levado diretamente ao painel do programa de email.
+   >Se o programa de email já tiver sido executado, você será direcionado diretamente ao painel do programa de email.
 
 1. Em **Exibir**, selecione **Painel de controle do Campaign**.
 
    ![](assets/controlpanelview.jpg)
 
-1. Em **Público** bloco, clique em **Exibir resultados**.
+1. No **Público** bloco, clique em **Exibir resultados**.
 
    ![](assets/audiencetile.jpg)
 
-   Aí está!
+   É isso aí!
 
    ![](assets/image2014-9-22-11-3a15-3a49.png)

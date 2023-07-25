@@ -1,20 +1,21 @@
 ---
 unique-page-id: 10095239
-description: Usar filtros e acionadores de anúncios de lead em uma campanha inteligente - Documentos do Marketo - Documentação do produto
-title: Usar filtros e acionadores de anúncios de lead em uma campanha inteligente
+description: Usar filtros e acionadores de anúncios principais em uma campanha inteligente - Documentação do Marketo - Documentação do produto
+title: Usar filtros e acionadores de anúncios principais em uma campanha inteligente
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# Usar filtros e acionadores de anúncios de lead em uma campanha inteligente {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
+# Usar filtros e acionadores de anúncios principais em uma campanha inteligente {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
 
-Ao ativar os Anúncios de leads do Facebook, você pode usá-los em suas campanhas inteligentes para ver o sucesso do programa. Quando as pessoas enviam suas informações em uma unidade de Anúncio de lead da Facebook, as informações são enviadas para a Marketo imediatamente.
+Quando você tiver ativado os anúncios de clientes potenciais da Facebook, poderá usá-los em suas campanhas inteligentes para ver o sucesso do programa. Quando as pessoas enviam suas informações em uma unidade de Anúncios de cliente potencial da Facebook, elas são enviadas para a Marketo imediatamente.
 
-1. Use o **Preenche o Formulário de Anúncios de leads** filtro ou acionador.
+1. Use o **Preenche O Formulário De Anúncios De Cliente Potencial** filtro ou acionador.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 

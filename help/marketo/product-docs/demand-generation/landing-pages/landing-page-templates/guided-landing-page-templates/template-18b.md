@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9438209
-description: Modelo 18B - Documentos do Marketo - Documentação do produto
+description: Modelo 18B - Documentação do Marketo - Documentação do produto
 title: Modelo 18B
 exl-id: a0bb1104-a905-4285-895b-df515449db89
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -12,18 +13,18 @@ ht-degree: 0%
 
 # Modelo 18B {#template-18b}
 
-Clique com o botão direito do mouse em para [modelo de download 18B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
+Clique com o botão direito do mouse para [baixar modelo 18B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
 
 ![](assets/image2015-8-17-18-3a6-3a30.png)
 
 Esse template inclui o seguinte conteúdo:
 
 * Um cabeçalho (opcional)
-* Uma seção primária
+* Uma seção principal
 
    * inclui texto herói e um vídeo
 
-* Cinco seções do corpo (opcional)
+* Cinco seções de corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

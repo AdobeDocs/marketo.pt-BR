@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2951252
-description: Classificar campanhas da Web por mais recente ou de melhor desempenho - Documentos do Marketo - Documentação do produto
-title: Classificar campanhas da Web por desempenho mais recente ou superior
+description: Classifique as campanhas da Web pelo desempenho mais recente ou superior - Documentação do Marketo - Documentação do produto
+title: Classifique as campanhas da Web pelo desempenho mais recente ou superior
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 1%
 
 ---
 
-# Classificar campanhas da Web por desempenho mais recente ou superior {#sort-web-campaigns-by-latest-or-top-performing}
+# Classifique as campanhas da Web pelo desempenho mais recente ou superior {#sort-web-campaigns-by-latest-or-top-performing}
 
-Você pode classificar suas campanhas da Web de duas maneiras diferentes.
+Você pode classificar suas campanhas da Web de várias maneiras diferentes.
 
 1. Ir para **Campanhas da Web**.
 
@@ -24,10 +25,10 @@ Você pode classificar suas campanhas da Web de duas maneiras diferentes.
    >
    >**Definição**
    >
-   >**Mais recentes** - será classificada com base na data em que a campanha foi criada. A campanha mais recente no topo.
+   >**Mais recentes** - será classificado com base na data em que a campanha foi criada. A mais nova campanha no topo.
    >
-   >**Desempenho superior** - organizará campanhas com base na taxa de cliques. Clique mais alto na parte superior.
+   >**Melhor desempenho** - classificará as campanhas com base na taxa de cliques. Cliques mais altos na parte superior.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 
-   Sim, é realmente fácil.
+   Sim, é tão fácil assim.

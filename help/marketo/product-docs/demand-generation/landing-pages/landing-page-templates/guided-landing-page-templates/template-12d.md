@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437583
-description: Modelo 12D - Documentos do Marketo - Documentação do produto
+description: Modelo 12D - Documentação do Marketo - Documentação do produto
 title: Modelo 12D
 exl-id: 5aae050c-2b88-4a4e-9d98-f23e9314adf7
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -12,18 +13,18 @@ ht-degree: 0%
 
 # Modelo 12D {#template-12d}
 
-Clique com o botão direito do mouse em para [baixar modelo 12D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html)
+Clique com o botão direito do mouse para [baixar modelo 12D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html)
 
 ![](assets/image2015-8-4-14-3a42-3a2.png)
 
 Esse template inclui o seguinte conteúdo:
 
 * Um cabeçalho (opcional)
-* Uma seção primária
+* Uma seção principal
 
    * inclui título de herói, texto de herói e formulário
 
-* Seis seções do corpo (opcional)
+* Seis seções da carroçaria (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

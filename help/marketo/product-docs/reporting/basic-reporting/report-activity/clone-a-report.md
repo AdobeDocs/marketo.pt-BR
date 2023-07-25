@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2360028
-description: Clonar um relatório - Documentos do Marketo - Documentação do produto
+description: Clonar um relatório - Documentação do Marketo - Documentação do produto
 title: Clonar um relatório
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -12,9 +13,9 @@ ht-degree: 0%
 
 # Clonar um relatório {#clone-a-report}
 
-Crie uma duplicata do relatório para personalizá-lo ainda mais sem alterar o original.
+Crie uma duplicata do seu relatório para personalizá-lo ainda mais sem alterar o original.
 
-1. Ir para **Atividades de marketing** ou **Analytics**).
+1. Ir para **Atividades de marketing** (ou **Analytics**).
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
@@ -24,13 +25,13 @@ Crie uma duplicata do relatório para personalizá-lo ainda mais sem alterar o o
 
    >[!TIP]
    >
-   >Também é possível clonar um relatório clicando com o botão direito do mouse nele na árvore.
+   >Também é possível clonar um relatório clicando com o botão direito do mouse na árvore.
 
-1. Dê um nome ao clone do relatório.
+1. Dê um nome ao clone do seu relatório.
 
    ![](assets/image2014-9-16-14-3a23-3a57.png)
 
-   Pronto. Você está pronto para começar a personalizar seu clone!
+   Pronto - você está pronto para começar a personalizar seu clone!
 
    >[!MORELIKETHIS]
    >

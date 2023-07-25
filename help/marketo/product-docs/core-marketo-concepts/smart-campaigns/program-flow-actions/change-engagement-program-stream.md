@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147015
-description: Alterar fluxo do programa de envolvimento - Documentos do Marketo - Documentação do produto
+description: Fluxo do programa de engajamento de alteração - Documentação do Marketo - Documentação do produto
 title: Alterar fluxo do programa de envolvimento
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 10%
@@ -14,21 +15,21 @@ ht-degree: 10%
 
 ## Visão geral {#overview}
 
-Normalmente, você usaria [regras de transição de fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para conseguir isso, mas se você deseja mover manualmente as pessoas de um fluxo para outro, esta é a etapa de fluxo a ser usada.
+Normalmente, você usaria [regras de transição de fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para fazer isso, mas se você quiser mover pessoas manualmente de um fluxo para outro, esta é a etapa do fluxo a ser usada.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
 ## Uso {#usage}
 
-1. Selecione o programa de envolvimento para o qual deseja mover a pessoa.
+1. Selecione o programa de envolvimento para o qual você deseja mover a pessoa.
 
    >[!NOTE]
    >
-   >Se você selecionar um programa diferente, ele deixará a pessoa em seu fluxo atual, bem como as adicionará ao novo.
+   >Se você selecionar um programa diferente, ele deixará a pessoa em seu fluxo atual, bem como a adicionará ao novo.
 
    ![](assets/image2014-9-22-14-3a52-3a50.png)
 
-1. Selecione o fluxo ao qual deseja adicionar suas pessoas.
+1. Selecione o fluxo ao qual você deseja adicionar suas pessoas.
 
    ![](assets/image2014-9-22-14-3a52-3a59.png)
 

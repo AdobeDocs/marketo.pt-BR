@@ -1,29 +1,30 @@
 ---
 unique-page-id: 10096409
-description: Evite enviar conteúdo duplicado - Documentos do Marketo - Documentação do produto
-title: Evite enviar conteúdo duplicado
+description: Evitar o envio de conteúdo duplicado - Documentação do Marketo - Documentação do produto
+title: Evitar o envio de conteúdo duplicado
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
-source-git-commit: daaf3dc9b4da95db743409c6e2a6c426ed00e9c7
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 3%
 
 ---
 
-# Evite enviar conteúdo duplicado {#avoid-sending-duplicate-content}
+# Evitar o envio de conteúdo duplicado {#avoid-sending-duplicate-content}
 
-Você já recebeu o mesmo email duas vezes? Irritante, não é?
+Você já recebeu o mesmo e-mail duas vezes? Irritante, não é?
 
-Aqui estão sete cenários possíveis e resultados que devem ser levados em consideração para impedir o envio de uma mesma mensagem duas vezes com programas de engajamento.
+Estes são sete cenários e resultados possíveis que devem ser considerados para evitar o envio da mesma mensagem a alguém duas vezes com programas de engajamento.
 
 ## Cenários {#scenarios}
 
-| O email é enviado de | A pessoa é | A pessoa recebe email |
+| O email é enviado de | A pessoa está | A pessoa recebe email |
 |---|---|---|
-| Uma campanha em um programa padrão separado, independente | Não é membro do programa padrão | Sim |
-| Uma campanha em um programa padrão separado, independente | Um membro do programa padrão | Não |
-| Uma campanha dentro de um programa padrão que é acionada por um elenco dentro da variável **same** Programa CEE | Um membro do programa padrão | Não |
-| Uma campanha dentro de um programa padrão que é acionada por um elenco dentro da variável **same** Programa CEE | Não é membro do programa padrão | Sim |
-| Uma campanha dentro de um programa padrão que é acionada por um elenco dentro de um **different** Programa CEE | Um membro do programa padrão | Não |
-| Uma campanha dentro de um programa padrão que é acionada por um elenco dentro de um **different** Programa CEE | Não é membro do programa padrão | Sim |
-| A **different** Programa CEE utilizando um fluxo inteligente | Membro de ambos os programas CEE | Não |
+| Uma campanha em um programa padrão separado e independente | Não é membro do programa padrão | Sim |
+| Uma campanha em um programa padrão separado e independente | Um membro do programa padrão | Não |
+| Uma campanha em um programa padrão acionada a partir de uma conversão na variável **igual** Programa CEE | Um membro do programa padrão | Não |
+| Uma campanha em um programa padrão acionada a partir de uma conversão na variável **igual** Programa CEE | Não é membro do programa padrão | Sim |
+| Uma campanha em um programa padrão que é acionada a partir de uma conversão em um **diferente** Programa CEE | Um membro do programa padrão | Não |
+| Uma campanha em um programa padrão que é acionada a partir de uma conversão em um **diferente** Programa CEE | Não é membro do programa padrão | Sim |
+| A **diferente** Programa CEE usando um fluxo inteligente | Um membro de ambos os programas da CEE | Não |

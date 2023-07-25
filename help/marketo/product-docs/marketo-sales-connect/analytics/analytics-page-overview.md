@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352416
-description: Visão geral da página do Analytics - Documentos do Marketo - Documentação do produto
+description: Visão geral da página do Analytics - Documentação do Marketo - Documentação do produto
 title: Visão geral da página do Analytics
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Visão geral da página do Analytics {#analytics-page-overview}
 
-A guia Analytics é onde você vê dados sobre o envolvimento de seus emails. Os dados individuais e da equipe são exibidos. Os administradores também podem filtrar pelo usuário na guia Me .
+A guia Analytics é onde você vê os dados relativos ao engajamento dos seus emails. Os dados individuais e de equipe são exibidos. Os administradores também podem filtrar pelo usuário na guia Eu.
 
 ## Com que frequência ele é atualizado? {#how-often-does-it-update}
 
@@ -20,30 +21,30 @@ A página de análise é atualizada a cada dez minutos.
 
 ## O que significam os números? {#what-do-the-numbers-mean}
 
-Os números nos radiais calculam o número total de eventos em todos os emails enviados. Portanto, se um mesmo email for visualizado cinco vezes, ele adicionará cinco visualizações a esse número. A mesma ideia é aplicada aos cliques e respostas contadas dentro do círculo.
+Os números nos radicais estão calculando o número total de eventos em todos os emails enviados. Portanto, se um único mesmo email for visualizado cinco vezes, ele adicionará cinco visualizações a esse número. A mesma ideia é aplicada aos cliques e respostas contados dentro do círculo.
 
-Todas as estatísticas mantidas dentro da tabela serão calculadas observando as exibições exclusivas, cliques e respostas aos seus emails. Se um email for visualizado cinco vezes, contaremos como uma visualização. É por isso que você pode ver uma grande diferença nos números nas tabelas versus os números no radial.
+Todas as estatísticas mantidas na tabela serão calculadas observando as exibições exclusivas, os cliques e as respostas aos seus emails. Se um email for visualizado cinco vezes, contaremos isso como uma visualização. É por isso que você pode ver uma grande diferença nos números nas tabelas versus os números no radial.
 
-## Guias do Analytics {#analytic-tabs}
+## Guias Analíticas {#analytic-tabs}
 
-Dividimos suas estatísticas em três guias separadas: Eu, Equipe e Conteúdo. Você pode usar cada um para obter uma perspectiva diferente sobre o insight que fornecemos.
+Dividimos suas estatísticas em três guias separadas: Eu, Equipe e Conteúdo. Você pode usar cada um deles para obter uma perspectiva diferente sobre o insight que fornecemos.
 
-Ao ir de guia para guia na página de análise, é possível classificar as estatísticas clicando nos ícones de exibição, clique ou resposta.
+Ao ir de guia a guia na página do Analytics, você pode classificar suas estatísticas clicando nos ícones exibir, clicar ou responder.
 
-Nas guias Me e Equipe , você verá informações sobre ofertas fechadas. Esse número é controlado pela quantidade de vezes que pessoas em sua equipe tocam o gongo.
+Nas guias Eu e Equipe, você verá informações sobre ofertas fechadas. Esse número é controlado por quantas vezes as pessoas em sua equipe tocam o gongo.
 
-## Guia Me {#me-tab}
+## Guia Eu {#me-tab}
 
-A guia Me é um excelente local para verificar a participação de seus emails, modelos e links. Se você for um administrador no Sales Connect, poderá filtrar por qualquer usuário em sua equipe para visualizar suas estatísticas.
+A guia Eu é um ótimo local para verificar o engajamento de seus emails, modelos e links. Se você for um administrador no Sales Connect, é possível filtrar por qualquer usuário da sua equipe para ver as estatísticas.
 
 ## Guia Equipe {#team-tab}
 
-Aqui você pode ver estatísticas e classificações de toda sua equipe. Também é possível filtrar por subequipes criadas.
+Aqui você pode ver as estatísticas e classificações de toda a sua equipe. Também é possível filtrar por qualquer subequipe criada.
 
 ## Guia Conteúdo {#content-tab}
 
-A guia content contém estatísticas sobre modelos, conteúdo e links. Você pode filtrar por todos ou por equipes criadas por seus administradores.
+A guia Content contém estatísticas sobre templates, conteúdo e links. Você pode filtrar por todos ou por equipes criadas por seus administradores.
 
-Se vir texto azul na coluna de assunto, significa que o modelo é compartilhado. Você pode clicar no texto azul a ser levado para esse modelo. Visualize seu uso clicando em **Análise de modelo**.
+Se você vir texto azul na coluna de assunto, significa que o modelo é compartilhado. Você pode clicar no texto azul a ser levado para esse modelo. Visualize seu uso clicando em **Análise de modelo**.
 
-&quot;Cliques no conteúdo&quot; são contados quando um recipient clica em um link em seu email.
+Os &quot;cliques no conteúdo&quot; são contados quando um recipient clica em um link em seu email.

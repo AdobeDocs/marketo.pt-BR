@@ -1,9 +1,10 @@
 ---
 unique-page-id: 11372054
-description: Editar a versão de texto de um email - Documentos do Marketo - Documentação do produto
+description: Editar a versão em texto de um email - Documentação do Marketo - Documentação do produto
 title: Editar a versão de texto de um email
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Editar a versão de texto de um email {#edit-the-text-version-of-an-email}
 
-Ao criar um email, talvez você queira que a versão dele seja redigida de forma diferente da versão do HTML. Por padrão, o Marketo copia automaticamente o conteúdo de texto de qualquer elemento de rich text que esteja no seu email para a versão de texto. Veja como editá-lo.
+Ao criar um email, você pode desejar que sua versão de texto seja redigida de forma diferente da versão de HTML. Por padrão, o Marketo copia automaticamente o conteúdo do texto de qualquer elemento rich text contido no email para a versão do texto. Veja como editá-lo.
 
 >[!NOTE]
 >
@@ -34,7 +35,7 @@ Ao criar um email, talvez você queira que a versão dele seja redigida de forma
 
    ![](assets/four-4.png)
 
-   Se você tiver apenas conteúdo estático, o texto poderá ser editado em um bloco grande (visto na Etapa 3). Se você tiver conteúdo dinâmico, o texto será dividido em diferentes seções editáveis, como mostrado abaixo.
+   Se você tiver apenas conteúdo estático, o texto será editável em um bloco grande (visto na Etapa 3). Se você tiver conteúdo dinâmico, o texto será dividido em diferentes seções editáveis, como visto abaixo.
 
    ![](assets/five-3.png)
 

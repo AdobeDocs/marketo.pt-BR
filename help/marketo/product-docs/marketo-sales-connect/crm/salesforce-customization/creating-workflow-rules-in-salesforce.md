@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14745823
-description: Criação de regras de fluxo de trabalho no Salesforce - Documentos do Marketo - Documentação do produto
+description: Criação de regras de fluxo de trabalho no Salesforce - Documentação do Marketo - Documentação do produto
 title: Criação de regras de fluxo de trabalho no Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Criação de regras de fluxo de trabalho no Salesforce {#creating-workflow-rules-in-salesforce}
 
-Ao usar o Marketo Sales Insight (MSI) e a Marketo Sales Connect (MSC) em paralelo, o recurso MSI Best Bets (Melhores Melhores Ocorrências) no Salesforce não será atualizado. Todos os outros recursos MSI funcionam como de costume (visualizando momentos interessantes no iFrame, enviando email, adicionando a campanhas etc.). Este artigo oferece uma solução alternativa para que as Melhores Propostas funcionem novamente.
+Ao usar o Marketo Sales Insight (MSI) e o Marketo Sales Connect (MSC) em paralelo, o recurso Melhores opções de MSI no Salesforce não será atualizado. Todos os outros recursos do MSI funcionam como de costume (visualizar momentos interessantes no iFrame, enviar email, adicionar a campanhas etc.). Este artigo oferece uma solução alternativa para fazer com que as Melhores Opções funcionem novamente.
 
 >[!NOTE]
 >
->Isso afeta apenas os clientes que usam **both** MSI e MSE, e que desejam usar o recurso Melhores Propostas no MSI. Se você não precisar/usar as Melhores Práticas, poderá ignorar.
+>Isso afetará somente os clientes que estão usando o **ambos** MSI e MSE, e que desejam usar o recurso Melhores Opções no MSI. Se não precisar/usar as Melhores Opções, você poderá desconsiderá-las.
 
 ## Introdução {#getting-started}
 
-A solução alternativa inclui a criação de novas regras de fluxo de trabalho para copiar valores de novos campos MSE para campos MSI antigos. Você precisará criar quatro regras de workflow para o objeto Contact e as mesmas quatro regras de workflow para o objeto Lead na sua própria instância do Salesforce. Isso pode exigir que você tenha direitos de administrador do CRM (dependendo de sua função e configuração no CRM).
+A solução alternativa inclui a criação de novas regras de fluxo de trabalho para copiar valores de novos campos do MSE para os campos do MSI antigos. Você precisará criar quatro regras de fluxo de trabalho para o objeto Contact e as mesmas quatro regras de fluxo de trabalho para o objeto Lead em sua própria instância do Salesforce. Isso pode exigir que você tenha direitos de Administrador do CRM (dependendo de sua função e configuração no CRM).
 
-Abaixo estão os nomes recomendados das regras de fluxo de trabalho e a descrição de cada uma. Isso se aplica ao objeto Contato e Cliente Potencial:
+Abaixo estão os nomes recomendados das regras de workflow e a descrição de cada uma. Isso se aplica aos objetos Contato e Cliente Potencial:
 
 <table> 
  <colgroup> 
@@ -31,27 +32,27 @@ Abaixo estão os nomes recomendados das regras de fluxo de trabalho e a descriç
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Atualizar Campo Desc de Momento Interessante</td> 
-   <td><p>Copiar de: Último Desc de Envolvimento do Marketo<br>Copiar para: Desc do último momento interessante</p></td> 
+   <td>Atualizar Campo Desc. Momento Interessante</td> 
+   <td><p>Copiar de: Última descrição do envolvimento com a Marketo<br>Copiar para: Última descrição de momento interessante</p></td> 
   </tr> 
   <tr> 
-   <td>Campo Atualizar Tipo de Momento Interessante</td> 
-   <td><p>Copiar de: Último tipo de envolvimento do Marketo<br>Copiar para: Tipo de Último Momento Interessante</p></td> 
+   <td>Atualizar campo Tipo de momento interessante</td> 
+   <td><p>Copiar de: Último tipo de envolvimento do Marketo<br>Copiar para: Último tipo de momento interessante</p></td> 
   </tr> 
   <tr> 
-   <td>Atualizar campo Origem de Momento Interessante</td> 
-   <td><p>Copiar de: Última origem de envolvimento do Marketo<br>Copiar para: Fonte do Último Momento Interessante</p></td> 
+   <td>Atualizar campo Origem de momento interessante</td> 
+   <td><p>Copiar de: Última fonte de engajamento do Marketo<br>Copiar para: Última origem de momento interessante</p></td> 
   </tr> 
   <tr> 
    <td>Atualizar campo Data de Momento Interessante</td> 
-   <td><p>Copiar de: Última data de envolvimento do Marketo<br>Copiar para: Data do Último Momento Interessante</p></td> 
+   <td><p>Copiar de: última data de compromisso do Marketo<br>Copiar para: Última data de momento interessante</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Instruções {#instructions}
 
-1. Depois de clicar **Configuração**, pesquisar por **Fluxo de trabalho** e selecione **Regras de fluxo de trabalho**.
+1. Depois de clicar em **Configuração**, pesquisar **Fluxo de trabalho** e selecione **Regras de fluxo de trabalho**.
 
    ![](assets/one-1.png)
 
@@ -59,35 +60,35 @@ Abaixo estão os nomes recomendados das regras de fluxo de trabalho e a descriç
 
    ![](assets/two-1.png)
 
-1. Clique no menu suspenso Objeto e selecione **Líder**, depois clique em **Próximo**.
+1. Clique na lista suspensa Objeto e selecione **Lead** e, em seguida, clique em **Próxima**.
 
    ![](assets/three-1.png)
 
-1. Insira &quot;Update Interesting Moment Desc Field&quot; como o Nome da regra. Selecione o botão de opção **criado e sempre que for editado**. Na lista suspensa Critérios da regra , selecione **fórmula resulta em verdadeiro**. Procure e selecione a função ISCHANGED . Em seguida, realce o valor padrão do campo e clique em **Inserir campo**.
+1. Insira &quot;Atualizar campo Desc. Momento Interessante&quot; como o Nome da regra. Selecionar o botão de opção **criado e sempre que for editado**. Na lista suspensa Critérios da regra, selecione **a fórmula é avaliada como verdadeira**. Procure e selecione a função ISCHANGED. Em seguida, destaque o valor de campo padrão e clique em **Inserir campo**.
 
    ![](assets/four-1.png)
 
-1. Na janela pop-up &quot;Inserir campo&quot;, escolha **Último Desc de Envolvimento do Marketo** e clique em **Inserir**.
+1. No pop-up &quot;Inserir campo&quot;, escolha **Descrição do último envolvimento com a Marketo** e clique em **Inserir**.
 
    ![](assets/five-1.png)
 
-1. Clique em **Salvar e Próximo**.
+1. Clique em **Salvar e Avançar**.
 
    ![](assets/6.png)
 
-1. Na lista suspensa Adicionar ação do fluxo de trabalho , selecione **Nova atualização de campo**.
+1. No menu suspenso Adicionar ação de workflow, selecione **Nova atualização de campo**.
 
    ![](assets/seven.png)
 
-1. No campo Nome , digite &quot;Atualizar campo de descrição do momento interessante&quot; (o nome exclusivo será gerado automaticamente). No menu suspenso Field to Update (Campo a ser atualizado), escolha **Desc do último momento interessante**. Selecione o **Usar uma fórmula para definir um novo valor** botão de opção, em seguida, clique em **Mostrar Editor de Fórmulas**.
+1. No campo Nome, digite &quot;Atualizar campo de descrição do momento interessante&quot; (nome exclusivo será gerado automaticamente). No menu suspenso Campo a ser atualizado, escolha **Última Descrição de Momento Interessante**. Selecione o **Usar uma fórmula para definir novo valor** e, em seguida, clique em **Mostrar Editor de Fórmulas**.
 
    ![](assets/eight.png)
 
-1. Clique no botão **Inserir campo** botão.
+1. Clique em **Inserir campo** botão.
 
    ![](assets/9a.png)
 
-1. Selecionar **Último Desc de Envolvimento do Marketo** e clique em **Inserir**. Na próxima página, clique em **Salvar**.
+1. Selecionar **Descrição do último envolvimento com a Marketo** e clique em **Inserir**. Na próxima página, clique em **Salvar**.
 
    ![](assets/nine.png)
 
@@ -95,8 +96,8 @@ Abaixo estão os nomes recomendados das regras de fluxo de trabalho e a descriç
 
    ![](assets/twelve.png)
 
-1. Clique em **Ativar** para ativar a regra de fluxo de trabalho.
+1. Clique em **Ativar** para ativar a regra de workflow.
 
    ![](assets/thirteen.png)
 
-   Após a última etapa, você pode optar por clonar a regra de fluxo de trabalho para os outros campos listados na seção Introdução : Desc, Tipo, Fonte, Data. Depois de concluir as quatro regras de fluxo de trabalho no objeto Contato, repita o mesmo para o objeto Lead.
+   Após a última etapa, você pode optar por clonar a regra de fluxo de trabalho para os outros campos listados na seção Introdução: Descrição, Tipo, Origem e Data. Depois de concluir as quatro regras de fluxo de trabalho no objeto Contact, repita o mesmo procedimento para o objeto Lead.

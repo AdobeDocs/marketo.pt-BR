@@ -1,23 +1,24 @@
 ---
 unique-page-id: 45417322
-description: Exclusão de um lead ou contato - Documentos da Marketo - Documentação do produto
-title: Excluindo um Lead ou Contato
+description: Exclusão de um cliente em potencial ou contato - Documentação do Marketo - Documentação do produto
+title: Excluindo um Cliente Potencial ou Contato
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-# Excluindo um Lead ou Contato {#deleting-a-lead-or-contact}
+# Excluindo um Cliente Potencial ou Contato {#deleting-a-lead-or-contact}
 
-Há algumas coisas a saber quando se trata de excluir leads/contatos no Microsoft Dynamics.
+Há algumas coisas a saber quando se trata de excluir clientes potenciais/contatos no Microsoft Dynamics.
 
-* O Marketo não exclui automaticamente pessoas apenas porque os leads foram excluídos no Dynamics. Em vez disso, um sinalizador de campo &quot;Microsoft é Excluído&quot; é definido como true. Você pode acionar esse campo para excluir o registro no Marketo, se desejar.
+* O Marketo não exclui pessoas automaticamente apenas porque os clientes em potencial foram excluídos no Dynamics. Em vez disso, o sinalizador do campo &quot;Microsoft foi excluído&quot; está definido como verdadeiro. É possível acionar esse campo para excluir o registro no Marketo, se desejado.
 
-* Ação do fluxo &quot;Excluir pessoa&quot;: Isso exclui apenas uma pessoa no Marketo (uma opção para também excluí-la no Dynamics não está disponível).
+* Ação de fluxo &quot;Excluir pessoa&quot;: exclui apenas uma pessoa no Marketo (não há uma opção disponível para excluí-la no Dynamics).
 
-* Se um lead for excluído no Marketo (mas não no Dynamics) e for atualizado no Dynamics depois disso, ele criará uma nova pessoa no Marketo (mesmo endereço de email, ID de nova pessoa).
+* Se um cliente potencial for excluído no Marketo (mas não no Dynamics) e atualizado no Dynamics depois disso, ele criará uma nova pessoa no Marketo (mesmo endereço de email, nova ID de pessoa).
 
-* Se um lead for excluído no Dynamics (mas não no Marketo) e, em seguida, for executado pela ação de fluxo &quot;Sincronizar pessoa para Microsoft&quot;, ele criará um novo lead no Dynamics.
+* Se um cliente potencial for excluído no Dynamics (mas não no Marketo) e executado subsequentemente pela ação de fluxo &quot;Sincronizar pessoa com o Microsoft&quot;, ele criará um novo cliente potencial no Dynamics.

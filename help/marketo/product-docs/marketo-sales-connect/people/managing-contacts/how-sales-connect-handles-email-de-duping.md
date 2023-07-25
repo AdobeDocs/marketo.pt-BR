@@ -1,21 +1,22 @@
 ---
 unique-page-id: 14352514
-description: Como o Sales Connect lida com a remoção de e-mails - Documentos da Marketo - Documentação do produto
-title: Como o Sales Connect lida com a remoção de e-mails
+description: Como O Sales Connect Lida Com A Eliminação Da Duplicação De Email - Documentação Do Marketo - Documentação Do Produto
+title: Como o Sales Connect lida com a eliminação da duplicação de email
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
-# Como o Sales Connect lida com a remoção de e-mails {#how-sales-connect-handles-email-de-duping}
+# Como o Sales Connect lida com a eliminação da duplicação de email {#how-sales-connect-handles-email-de-duping}
 
-Quando você estiver [upload de um CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) no Sales Connect, unimos todos os contatos semelhantes no CSV antes que a importação ocorra.
+Quando você estiver [upload de um CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) no Sales Connect, mesclamos todos os contatos semelhantes no CSV antes da importação.
 
-Fazemos isso com base no mesmo endereço de email. Portanto, se houver dois endereços de email idênticos, os mesclamos em um único contato.
+Fazemos isso com base em endereços de email semelhantes. Portanto, se houver dois endereços de email idênticos, nós os mesclamos em um contato.
 
 Posteriormente, se você tentar adicionar/carregar manualmente o mesmo contato, não o mesclaremos.
 
-Se tentar adicionar um contato que já esteja no banco de dados, impediremos que você o adicione.
+Se você tentar adicionar um contato que já está em seu banco de dados, impediremos que você o adicione.

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359474
-description: Editar uma segmentação - Documentos do Marketo - Documentação do produto
+description: Editar uma segmentação - Documentação do Marketo - Documentação do produto
 title: Editar uma segmentação
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Segmentation
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -12,19 +13,19 @@ ht-degree: 0%
 
 # Editar uma segmentação {#edit-a-segmentation}
 
-Fazer alterações em suas segmentações existentes é fácil. Aqui está o baixo.
+Fazer alterações em suas segmentações existentes é fácil. Aqui está a baixa.
 
 ## Criar um rascunho de segmentação {#create-a-segmentation-draft}
 
-1. Vá para o **Banco de dados**.
+1. Vá para a **Banco de dados**.
 
    ![](assets/db.png)
 
-1. Na Segmentação, clique em **Ações de segmentação** e depois **Criar rascunho**.
+1. Na segmentação, clique em **Ações de segmentação** e depois **Criar rascunho**.
 
    ![](assets/two.png)
 
-1. O **Status** alterações em Aprovado com rascunho. A **Rascunho** é criada na segmentação.
+1. A variável **Status** alterações em Aprovado com rascunho. A **Rascunho** é criada na sua segmentação.
 
    ![](assets/three.png)
 
@@ -36,35 +37,35 @@ Fazer alterações em suas segmentações existentes é fácil. Aqui está o bai
 
    >[!NOTE]
    >
-   >Você só pode Editar segmentos de um rascunho e não a Segmentação aprovada.
+   >Você só pode Editar segmentos de um rascunho e não da Segmentação aprovada.
 
-1. **Adicionar segmento**, **Editar** existente (renomear ou alterar a ordem) ou **Excluir** qualquer segmento.
+1. **Adicionar segmento**, **Editar** existente (renomeie ou altere o pedido) ou **Excluir** qualquer segmento.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
    >[!NOTE]
    >
-   >É necessário selecionar um Segmento antes de editá-lo ou excluí-lo.
+   >Você precisa selecionar um segmento antes de poder editá-lo ou excluí-lo.
 
    >[!CAUTION]
    >
-   >A exclusão afeta todo o conteúdo dinâmico associado em emails, páginas de aterrissagem e trechos. **Não é possível desfazer**. Verifique a **Usado por** para ver o que usa esse segmento.
+   >A exclusão afeta todo o conteúdo dinâmico associado em emails, landing pages e trechos. **Não há opção para desfazer**. Verifique a **Usado por** para ver o que usa esse segmento.
 
 ## Editar regras de segmento {#edit-segment-rules}
 
-1. No seu rascunho **Segmento**, vá para **Lista inteligente**. Aplicar regras semelhantes a [Como definir regras de segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. No rascunho **Segmento**, vá para **Lista inteligente**. Aplicar regras semelhantes a [Definição de regras de segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
    >[!NOTE]
    >
-   >Não é possível editar os segmentos aprovados. Clique em Segmentos na pasta Rascunho para editá-los.
+   >Não é possível editar os Segmentos aprovados. Clique em Segmentos na pasta Rascunho para editá-los.
 
    >[!NOTE]
    >
    >Lembre-se de aprovar o rascunho de segmentação.
 
-Experimente livremente as segmentações que não são usadas no conteúdo dinâmico.
+Experimente as segmentações que não são usadas no conteúdo dinâmico.
 
 >[!MORELIKETHIS]
 >

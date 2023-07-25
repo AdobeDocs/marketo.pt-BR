@@ -1,7 +1,9 @@
 ---
-description: Motivos da chamada - Documentos do Marketo - Documentação do produto
+description: Motivos de chamada - Documentação do Marketo - Documentação do produto
 title: Motivos da chamada
-source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
+exl-id: 82533d6b-a373-49c7-9cee-271e36916111
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -16,35 +18,35 @@ Permita que suas equipes de vendas selecionem os motivos das chamadas ao fazer c
 >
 >**Permissões de administrador necessárias**
 
-## Ativar Motivos da Chamada {#enable-call-reasons}
+## Habilitar Motivos de Chamada {#enable-call-reasons}
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/call-reasons-1.png)
 
-1. Em Configurações de administração , selecione **Discador**.
+1. Em Configurações do administrador, selecione **Discador**.
 
    ![](assets/call-reasons-2.png)
 
-1. Selecionar **Ativar Motivos da Chamada**.
+1. Selecionar **Habilitar Motivos de Chamada**.
 
    ![](assets/call-reasons-3.png)
 
-1. Escolha o requisito do motivo da chamada desejado.
+1. Escolha o requisito de motivo de chamada desejado.
 
    ![](assets/call-reasons-4.png)
 
-## Criar Motivo da Chamada {#create-call}
+## Criar motivo da chamada {#create-call}
 
 >[!NOTE]
 >
->É possível criar um máximo de 15 Razões da chamada.
+>Você pode criar no máximo 15 Motivos de chamada.
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/call-reasons-5.png)
 
-1. Em Configurações de administração , selecione **Discador**.
+1. Em Configurações do administrador, selecione **Discador**.
 
    ![](assets/call-reasons-6.png)
 
@@ -56,15 +58,15 @@ Permita que suas equipes de vendas selecionem os motivos das chamadas ao fazer c
 
    ![](assets/call-reasons-8.png)
 
-## Selecionar um Motivo da Chamada {#select-a-call-reason}
+## Selecionar um motivo de chamada {#select-a-call-reason}
 
-Depois que os motivos da chamada forem ativados. Os usuários podem selecionar uma enquanto fazem uma chamada.
+Após habilitar os motivos da chamada. Os usuários podem selecionar um enquanto fazem uma chamada.
 
 1. Clique no botão de chamada para iniciar o discador.
 
    ![](assets/call-reasons-9.png)
 
-1. Insira as informações da chamada no discador e clique em **Chame**.
+1. Insira as informações de chamada no discador e clique em **Chame**.
 
    ![](assets/call-reasons-10.png)
 
@@ -72,16 +74,15 @@ Depois que os motivos da chamada forem ativados. Os usuários podem selecionar u
 
    ![](assets/call-reasons-11.png)
 
-1. Encerre a chamada .
+1. Encerre a chamada.
 
    ![](assets/call-reasons-12.png)
 
-1. Registre a chamada .
+1. Registre a chamada.
 
    ![](assets/call-reasons-13.png)
 
 >[!MORELIKETHIS]
 >
->* [Motivos de chamada de registro e resultados de chamada para o Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Registrar os motivos da chamada e os resultados da chamada no Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Resultados da chamada](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
-

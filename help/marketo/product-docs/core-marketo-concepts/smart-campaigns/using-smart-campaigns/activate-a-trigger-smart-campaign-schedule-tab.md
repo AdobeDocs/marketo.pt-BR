@@ -1,20 +1,21 @@
 ---
 unique-page-id: 1146935
-description: Ativar uma campanha inteligente de acionador | Guia Agendamento - Documentos do Marketo - Documentação do produto
-title: Ativar uma campanha inteligente de acionador | Guia Programação
+description: Ativar um acionador da campanha inteligente | Guia Programação - Documentação do Marketo - Documentação do produto
+title: Ativar um acionador da campanha inteligente Guia Programação
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
-source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# Ativar uma campanha inteligente de acionador | Guia Programação {#activate-a-trigger-smart-campaign-schedule-tab}
+# Ativar um acionador da campanha inteligente Guia Programação {#activate-a-trigger-smart-campaign-schedule-tab}
 
-Ativar um acionador do Smart Campaign é como ativá-lo. Aqui está o que fazer.
+Ativar um acionador do Smart Campaign é como ativá-lo. Veja o que fazer.
 
-1. No **Agendar** clique em **Ativar**.
+1. No da Campanha inteligente **Agendar** clique em **Ativar**.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
@@ -28,6 +29,6 @@ Ativar um acionador do Smart Campaign é como ativá-lo. Aqui está o que fazer.
 
    >[!CAUTION]
    >
-   >Certifique-se de que a campanha esteja pronta antes de ativar!
+   >Verifique se a campanha está pronta antes da ativação.
 
-A partir desse momento, qualquer pessoa que se qualificar para a Smart List passará pelo fluxo definido pela sua Campanha inteligente.
+A partir deste momento, qualquer um que se qualificar para a Smart List passará pelo fluxo definido pela sua Campanha Inteligente.

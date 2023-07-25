@@ -1,53 +1,54 @@
 ---
-description: Serviço da etapa de fluxo - Documentação da Marketo - Documentação do produto
-title: Serviço de Etapa de Fluxo
+description: Serviço de etapa de fluxo - Documentação do Marketo - Documentação do produto
+title: Serviço de etapa de fluxo
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1220'
 ht-degree: 0%
 
 ---
 
-# Serviço de Etapa de Fluxo {#flow-step-service}
+# Serviço de etapa de fluxo {#flow-step-service}
 
-Etapas de fluxo de autoatendimento é uma estrutura e um conjunto de recursos para criação, publicação e integração de serviços da Web em Campanhas inteligentes do Adobe Marketo Engage. Este guia destina-se aos usuários do Marketo Engage end que desejam instalar e usar serviços que já foram criados e publicados. Para obter informações sobre criação e publicação de seu próprio serviço, consulte o [Repositório GitHub para a interface do provedor de serviços](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Etapas de fluxo de autoatendimento é uma estrutura e um conjunto de recursos para criação, publicação e integração de serviços da Web nas Campanhas inteligentes do Adobe Marketo Engage. Este guia destina-se aos usuários finais do Marketo Engage que desejam instalar e usar serviços que já foram criados e publicados. Para obter informações sobre a criação e a publicação de seu próprio serviço, consulte o [Repositório GitHub para a Interface do provedor de serviços](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
-## Integração e gerenciamento de serviços {#onboarding-and-managing-services}
+## Serviços de integração e gerenciamento {#onboarding-and-managing-services}
 
-A instalação de uma etapa de fluxo personalizada requer permissões de administrador no Marketo (**Gerenciar Webhooks** na versão de 21 de janeiro, alterada na versão de 11 de março). Além do URL de instalação, todos os outros aspectos de um serviço pode ser editados após a conclusão da integração inicial, fazendo o drill-down na tela de detalhes do serviço na grade Provedores de serviços.
+A instalação de uma etapa de fluxo personalizada requer permissões de administrador no Marketo (**Gerenciar Webhooks** na versão de 21 de janeiro, Alteração na versão de 11 de março). Além do URL de instalação, todos os outros aspectos de um serviço podem ser editados após a conclusão da integração inicial, detalhando a tela de detalhes do serviço na grade Provedores de serviços.
 
 ## URL de instalação {#installation-url}
 
-Para iniciar a instalação, primeiro você precisará obter o URL do documento OpenAPI que define seu serviço. Seu provedor de serviços deve ser capaz de fornecer isso a você e geralmente terá um URL terminando em `/openapi.json`. URLs completos terão algo semelhante a `https://www.example.com/OpenAPI.json`. Depois de ter esse URL, acesse o menu Provedores de serviços na Seção de administração.
+Para iniciar a instalação, primeiro obtenha o URL do documento OpenAPI que define seu serviço. Seu provedor de serviços deve ser capaz de fornecer isso a você e geralmente terá um URL que termina em `/openapi.json`. URLs completos serão parecidos com `https://www.example.com/OpenAPI.json`. Depois de ter esse URL, acesse o menu Provedores de serviços na Seção de administradores.
 
-Clique em **Próximo** para acessar a seção Inserir Credenciais de Serviço.
+Clique em **Próxima** para acessar a seção Inserir Credenciais de Serviço.
 
 ![](assets/flow-step-service-1.png)
 
-## Inserir Credenciais de Serviço {#enter-service-credentials}
+## Inserir credenciais de serviço {#enter-service-credentials}
 
-Para acessar o serviço que está sendo instalado, o Marketo deve ter credenciais de API válidas. Essas credenciais devem ser fornecidas a você pelo seu provedor de serviços. Os serviços têm três opções de autenticação diferentes; portanto, você pode ver uma das três solicitações diferentes de credenciais: **Chave da API** que tem apenas um campo de entrada, **Autenticação básica** que requer um nome de usuário e senha e também pode exigir um campo chamado Realm, e **OAuth2** usando o _Credenciais do Cliente_ subvenção, que requer um _ID do cliente_ e _Segredo do cliente_.
+Para acessar o serviço que está sendo instalado, o Marketo deve ter credenciais de API válidas. Essas credenciais devem ser fornecidas a você pelo seu provedor de serviços. Os serviços têm três opções de autenticação diferentes, portanto, você pode ver um dos três prompts diferentes para as credenciais: **Chave de API** que tem apenas um campo de entrada, **Autenticação básica** que requer um nome de usuário e senha e também pode exigir um campo chamado Realm, e **OAuth2** usando o _Credenciais do cliente_ subvenção, que exige uma _ID do cliente_ e _Segredo do cliente_.
 
-Ao salvar suas credenciais, a Marketo tentará chamar o endpoint de status do serviço para verificar se elas são válidas. Se as credenciais fornecidas forem inválidas, você verá um erro indicando isso.
+Quando você salvar suas credenciais, o Marketo tentará chamar o endpoint de status do serviço para verificar se elas são válidas. Se as credenciais fornecidas forem inválidas, você verá um erro indicando isso.
 
 ## Guia de integração (opcional) {#onboarding-guide}
 
-Alguns provedores de serviços incluirão uma etapa opcional do Guia de integração. Esta etapa incluirá todas as instruções adicionais para concluir a integração de serviço específicas a esse serviço.
+Alguns provedores de serviços incluirão uma etapa opcional do Guia de integração. Esta etapa incluirá instruções adicionais para concluir a integração de serviço específicas para esse serviço.
 
 ## Mapeamento de campos {#field-mapping}
 
-Para receber ou retornar dados de um campo de lead específico, esse campo deve ser mapeado. Embora o mapeamento seja uma etapa necessária durante a integração, você sempre pode retornar para alterar os mapeamentos posteriormente. Há dois tipos de mapeamentos configurados em telas separadas: **Campos de saída**, que são enviados para o serviço quando o Marketo chama a etapa de fluxo, e **Campos de entrada** que são campos que podem receber dados do serviço quando retorna dados para o Marketo.
+Para receber ou retornar dados de um campo de cliente potencial específico, esse campo deve ser mapeado. Embora o mapeamento seja uma etapa necessária durante a integração, você sempre pode retornar para alterar os mapeamentos posteriormente. Há dois tipos de mapeamentos configurados em telas separadas: **Campos de saída**, que são enviados para o serviço quando o Marketo invoca a etapa de fluxo, e **Campos de entrada** que são campos que podem receber dados do serviço quando ele retorna dados para o Marketo.
 
 >[!NOTE]
 >
->Ao mapear um campo de saída, você concede à Marketo permissão para transmitir dados desse campo relacionados a leads que são processados pelo serviço associado. Certifique-se de ter a legitimidade e a autoridade apropriadas para transmitir esses dados ao seu provedor de serviços, pois esses campos podem incluir Informações de identificação pessoal cobertas pelas Leis de Privacidade de dados, Proteção e Localidade.
+>Ao mapear um campo de saída, você dá à Marketo permissão para transmitir dados desse campo relacionados a clientes potenciais processados pelo serviço associado. Certifique-se de que você tenha a autoridade e a autoridade legal apropriadas para transmitir esses dados ao seu provedor de serviços, pois esses campos podem incluir Informações de identificação pessoal cobertas pelas leis de Privacidade de dados, Proteção e Arrendamento.
 
-Os mapeamentos de campo opcionais podem ser desativados sem interrupção do serviço, mas os mapeamentos necessários não podem ser removidos ou desativados completamente.
+Os mapeamentos de campo opcionais podem ser desativados sem interromper o serviço, mas os mapeamentos necessários podem não ser removidos ou desativados completamente.
 
-## Mapeamentos orientados por serviços {#service-driven-mappings}
+## Mapeamentos orientados por serviço {#service-driven-mappings}
 
-Os serviços que têm um conjunto fixo de entradas e saídas, como uma etapa de fluxo de registro de eventos, usam **Mapeamentos orientados por serviços**. Para esse tipo de mapeamento, o provedor de serviços fornecerá um tipo de dados e uma dica no formato de um nome de API. Se a dica corresponder ao nome da API de um campo de lead existente, esse campo será preenchido automaticamente na seção de mapeamento. Para campos sem uma dica correspondente, será necessário preencher o mapeamento manualmente da lista de campos com o tipo de dados correspondente. Os mapeamentos necessários devem ser preenchidos para concluir a integração.
+Os serviços que têm um conjunto fixo de entradas e saídas, como uma etapa do fluxo de registro de eventos, usam **Mapeamentos orientados por serviço**. Para esse tipo de mapeamento, o provedor de serviços fornecerá um tipo de dados e uma dica na forma de um nome de API. Se a dica corresponder ao nome da API de um campo de cliente potencial existente, esse campo será preenchido automaticamente na seção de mapeamento. Para campos sem uma dica correspondente, será necessário preencher o mapeamento manualmente a partir da lista de campos com o tipo de dados correspondente. Os mapeamentos necessários devem ser preenchidos para concluir a integração.
 
 ![](assets/flow-step-service-2.png)
 
@@ -59,48 +60,48 @@ Os serviços que não têm um conjunto fixo de entradas e saídas, como um servi
 
 ## Campos de saída {#outgoing-fields}
 
-Campos de saída são aqueles que são enviados para o Serviço de Etapa de Fluxo quando essa etapa de fluxo é usada em uma campanha inteligente.
+Os campos de saída são aqueles enviados para o Serviço de etapa do fluxo quando essa etapa do fluxo é usada em uma campanha inteligente.
 
 ## Campos de entrada {#incoming-fields}
 
-Os campos de entrada são aqueles para os quais o Serviço de Etapa de Fluxo tem permissão para gravar dados.
+Os campos de entrada são aqueles nos quais o Serviço de etapa do fluxo tem permissão para gravar dados.
 
 ## Opções de configuração (opcional) {#configuration-options}
 
-Alguns serviços têm opções de configuração global opcionais ou obrigatórias. Se alguma opção for necessária, então um valor deve ser definido para todas as opções necessárias antes de salvar ou concluir a integração. Os parâmetros cujos nomes estão em itálico são enviados para o serviço chamado como cabeçalhos.
+Alguns serviços têm opções de configuração global opcionais ou obrigatórias. Se alguma opção for necessária, um valor deverá ser definido para todas as opções necessárias antes de salvar ou concluir a integração. Os parâmetros cujos nomes estão em itálico são enviados para o serviço chamado como cabeçalhos.
 
 ![](assets/flow-step-service-4.png)
 
-## Aposentar um Serviço {#retiring-a-service}
+## Retirando um Serviço {#retiring-a-service}
 
-Para facilitar as transições para versões novas ou alternativas de um serviço, sem interromper o uso ativo, os serviços podem ser removidos do menu Provedores de serviços . **Aposentar um Serviço** remove a etapa de fluxo correspondente da paleta Fluxo de campanha inteligente, de modo que não é possível criar novos usos dela. Na maioria dos casos, você deve ter um serviço de substituição pronto para substituir o existente quando optar por desativar um serviço.
+Para facilitar as transições para versões novas ou alternativas de um serviço, sem interromper o uso ativo, os serviços podem ser removidos do menu Provedores de serviços. **Retirando um Serviço** O remove a etapa de fluxo correspondente da Paleta de fluxo do Smart Campaign, para que nenhum uso novo possa ser criado. Na maioria dos casos, você deve ter um serviço de substituição pronto para substituir o existente ao optar por desativar um serviço.
 
-## Substituição de Serviço {#service-deprecation}
+## Descontinuação de serviço {#service-deprecation}
 
-Às vezes, os provedores de serviços precisarão descontinuar os serviços de etapas de fluxo como parte normal do ciclo de vida do software. Quando um provedor de serviços anuncia isso, a Data de descontinuação e a Mensagem serão preenchidas na exibição de grade Provedores de serviços. Continuar a usar um serviço que foi descontinuado pode resultar em interrupção do serviço se ele não responder mais da maneira esperada ou parar de aceitar solicitações do Marketo Smart Campaigns, portanto, você deve prestar muita atenção a quaisquer notificações de descontinuação de serviço recebidas e tomar as medidas apropriadas para desativar ou substituir quaisquer etapas do serviço que ainda estejam em uso.
+Às vezes, os provedores de serviços precisarão descontinuar os serviços de etapa de fluxo como parte normal do ciclo de vida do software. Quando um provedor de serviços anunciar isso, a Data de desativação e a Mensagem serão preenchidas na exibição de grade Provedores de serviços. Continuar a usar um serviço que foi descontinuado pode resultar na interrupção do serviço se ele não responder mais da maneira esperada ou parar de aceitar solicitações do Marketo Smart Campaigns, portanto, você deve prestar muita atenção a qualquer notificação de Descontinuação de serviço recebida e tomar as medidas apropriadas para desativar ou substituir qualquer etapa do serviço que ainda esteja em uso.
 
-## Uso de etapas de fluxo personalizadas e de terceiros {#using-third-party-and-custom-flow-steps}
+## Etapas de fluxo personalizadas e de terceiros {#using-third-party-and-custom-flow-steps}
 
-As etapas de fluxo instaladas podem ser usadas em grande parte da mesma maneira que as etapas de fluxo padrão. Todos os parâmetros de fluxo definidos pelo serviço são apresentados aos usuários finais.
+Os degraus de fluxo instalados podem ser utilizados em grande medida da mesma forma que os degraus de fluxo padrão. Todos os parâmetros de fluxo definidos pelo serviço são apresentados aos usuários finais.
 
-## Atualizando Listas de Seleção {#refreshing-picklists}
+## Atualizando listas de opções {#refreshing-picklists}
 
-A Marketo atualizará as opções da lista de opções para serviços todas as noites, mas há momentos em que você precisa de novas opções disponíveis, como a criação da campanha. Você pode atualizá-los facilmente de qualquer instância da sua etapa do fluxo usando o botão atualizar ou indo até o menu Admin > Provedores de serviço e clicando em Atualizar lista de opções depois de selecionar seu serviço.
+O Marketo atualizará as opções de lista de opções de serviços todas as noites, mas há momentos em que você precisará de novas opções disponíveis, como a criação de campanhas. É possível atualizá-los facilmente a partir de qualquer instância da etapa do fluxo usando o botão atualizar ou acessando o menu Admin > Provedores de serviço e clicando em Atualizar lista de opções depois de selecionar o serviço.
 
-## Verificando campos de entrada {#checking-incoming-fields}
+## Verificação de campos de entrada {#checking-incoming-fields}
 
-Você pode verificar quais campos de entrada estão configurados para uma determinada etapa do fluxo ao passar o mouse sobre o ícone de dica de ferramenta. Isso é útil para determinar quais campos podem mudar quando um lead flui por meio dele, de modo que você possa configurar opções em etapas subsequentes usando esses campos.
+Você pode verificar quais campos de entrada são configurados para uma determinada etapa do fluxo, passando o mouse sobre o ícone de dica de ferramenta. Isso é útil para determinar quais campos podem mudar quando um lead flui por ele, de modo que você possa configurar as opções nas etapas subsequentes usando esses campos.
 
 ![](assets/flow-step-service-5.png)
 
 ## Campos de entrada e alterações no valor de dados {#incoming-fields-and-data-value-changes}
 
-Ao contrário da maioria das outras etapas de fluxo, as implementadas com a estrutura do SSFS podem gravar dados de volta em campos de lead que são mapeados por um administrador e registrar essas alterações como atividades de Alteração de valor de dados.  Quando uma etapa do fluxo grava dados dessa maneira, todas essas alterações serão concluídas antes que a Campanha inteligente passe para qualquer etapa subsequente, para que todos os dados gravados sejam confiáveis nas opções subsequentes da etapa do fluxo.
+Ao contrário da maioria das outras etapas de fluxo, as implementadas com a estrutura SSFS podem gravar dados nos campos de cliente potencial que são mapeados por um administrador e registrar essas alterações como atividades de Alteração do valor dos dados.  Quando uma etapa de fluxo grava dados dessa maneira, todas essas alterações são concluídas antes que a Campanha inteligente passe para qualquer etapa subsequente, para que todos os dados gravados sejam confiáveis nas opções de etapa de fluxo subsequentes.
 
-## Logs de serviço e estatísticas {#service-logs-and-statistics}
+## Logs e estatísticas do serviço {#service-logs-and-statistics}
 
-Cada Serviço de Etapa de Fluxo tem vários tipos de registro associados a ele para ajudar a monitorar a integridade e solucionar problemas relacionados à integração.
+Cada Serviço de etapa de fluxo tem vários tipos de registro associados a ele para ajudar a monitorar a integridade e solucionar problemas relacionados à integração.
 
-## Estatísticas do Serviço {#service-statistics}
+## Estatísticas de serviço {#service-statistics}
 
-O log de estatísticas do serviço agrega os resultados de invocações e retornos de chamada para cada serviço. Eles são agrupados por tempo, nível (pedaço ou registro) e código, e fornecem contagens e a mensagem de log mais recente para cada código recebido. Este painel foi projetado principalmente para auxiliar no monitoramento da saúde do serviço.
+O log de estatísticas do serviço agrega os resultados de chamadas e retornos de chamada de cada serviço. Eles são agrupados por tempo, nível (bloco ou registro) e código e fornecem contagens e a mensagem de log mais recente para cada código recebido. Esse painel foi projetado principalmente para auxiliar no monitoramento da integridade do serviço.

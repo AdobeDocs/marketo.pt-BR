@@ -1,24 +1,25 @@
 ---
 unique-page-id: 12980661
-description: Adicionar a correspondência de clientes do Google as a LaunchPoint Service - Documentos do Marketo - Documentação do produto
-title: Adicionar a correspondência de clientes do Google como um serviço do LaunchPoint
+description: Adicionar a correspondência do cliente do Google as a LaunchPoint Service - Documentação do Marketo - Documentação do produto
+title: Adicionar a correspondência do cliente do Google como um serviço do LaunchPoint
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
-source-git-commit: df14ed3fb815a6d4fa0fe30435ff076c05798e39
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 2%
 
 ---
 
-# Adicionar a correspondência de clientes do Google como um serviço do LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
+# Adicionar a correspondência do cliente do Google como um serviço do LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
 
-Com essa integração, você pode enviar um público-alvo do Marketo para o Google para ser direcionado usando o Google AdWords, bem como direcionar novamente os públicos-alvo através do YouTube, Search e Gmail.
+Com essa integração, você pode enviar um público-alvo do Marketo para o Google para ser direcionado usando o Google AdWords, bem como redirecionar públicos-alvo no YouTube, Search e Gmail.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Ir para **Administrador**.
+1. Ir para **Admin**.
 
    ![](assets/admin.png)
 
@@ -26,11 +27,11 @@ Com essa integração, você pode enviar um público-alvo do Marketo para o Goog
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecionar **Novo** then **Novo Serviço**.
+1. Selecionar **Novo** depois **Novo serviço**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Insira um **Nome de exibição** e selecione **Correspondência de cliente do Google** do **Serviço** lista suspensa. Clique em **Criar**.
+1. Insira um **Nome de exibição** e selecione **Correspondência de cliente do Google** do **Serviço** menu suspenso. Clique em **Criar**.
 
    ![](assets/chooseservice.png)
 
@@ -38,11 +39,11 @@ Com essa integração, você pode enviar um público-alvo do Marketo para o Goog
 
    ![](assets/authorizeaccount-1.png)
 
-1. O Google é aberto em uma nova guia. A partir daqui, faça logon em sua conta Google AdWords .
+1. O Google abre em uma nova guia. Aqui, faça logon na sua conta do Google AdWords.
 
    >[!CAUTION]
    >
-   >Para que o Marketo envie públicos por várias contas do AdWords, o usuário do Google autorizado nas etapas a seguir precisa ter acesso ao _all_ dessas contas.
+   >Para que o Marketo envie públicos-alvo em várias contas do AdWords, o usuário do Google autorizado nas etapas a seguir precisa ter acesso a _all_ dessas contas.
 
    ![](assets/chooseaccount.png)
 
@@ -54,8 +55,8 @@ Com essa integração, você pode enviar um público-alvo do Marketo para o Goog
 
    ![](assets/authorizesuccess.png)
 
-   Ótimo! Agora, você verá Públicos-alvo correspondentes da Google listados como um serviço do LaunchPoint na guia Serviços instalados .
+   Ótimo! Agora você verá o Google Matched Audiences listado como um serviço do LaunchPoint na guia Serviços instalados.
 
 >[!NOTE]
 >
->A integração de Correspondência de clientes da Google só pode acomodar uma conta de gerente e todas as subcontas nessa conta de gerente. Não há suporte para várias contas de gerente.
+>A integração de Correspondência de clientes do Google só pode acomodar uma conta de gerente e todas as subcontas dentro dessa conta de gerente. Não há suporte para várias contas de gerente.

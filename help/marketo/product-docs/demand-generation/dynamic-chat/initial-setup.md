@@ -2,7 +2,8 @@
 description: Configuração inicial - Documentação do Marketo - Documentação do produto
 title: Configuração inicial
 exl-id: 72c20e8f-879d-4490-a87f-3d8e2ba1f263
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -13,22 +14,22 @@ ht-degree: 0%
 
 ## Admin Console de acesso {#access-admin-console}
 
-Siga as etapas abaixo para configurar o Bate-papo dinâmico.
+Siga as etapas abaixo para configurar o Dynamic Chat.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias.**
 
-1. Depois que o Dynamic Chat for ativado para sua instância do Marketo, o Administrador do sistema designado receberá um email de boas-vindas. Nesse email, clique em **Introdução**.
+1. Depois que o Dynamic Chat for ativado para a instância do Marketo, o administrador do sistema designado receberá um email de boas-vindas. Nesse email, clique em **Introdução**.
 
    ![](assets/initial-setup-1.png)
 
-1. Se você acessou anteriormente um aplicativo com uma Adobe ID, você será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configurar sua Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Adobe Admin Console. Caso contrário, [configurar seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
    ![](assets/initial-setup-2.png)
 
 ## Adicionar usuários {#add-users}
 
-1. Depois de fazer logon no Admin Console, a próxima coisa a fazer é adicionar usuários. Temos esse processo [documentado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
+1. Depois de fazer logon no Admin Console, a próxima ação a ser executada é adicionar usuários. Nós temos esse processo [documentado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
 Em seguida, é hora de [conectar o Dynamic Chat ao Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md).

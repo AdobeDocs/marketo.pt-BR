@@ -1,65 +1,66 @@
 ---
 unique-page-id: 1147051
-description: Lista de verificação de campanha inteligente - Documentos do Marketo - Documentação do produto
-title: Lista de verificação de campanha inteligente
+description: Lista de verificação do Smart Campaign - Documentação do Marketo - Documentação do produto
+title: Lista de verificação do Smart Campaign
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
-source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '246'
+ht-degree: 1%
 
 ---
 
-# Lista de verificação de campanha inteligente {#smart-campaign-checklist}
+# Lista de verificação do Smart Campaign {#smart-campaign-checklist}
 
-Siga as etapas abaixo para garantir a execução sem problemas do Smart Campaign e evitar erros o máximo possível.
+Siga as etapas abaixo para garantir a execução perfeita da Campanha inteligente e evitar erros o máximo possível.
 
-## Obter Rid de Erros de Smart List {#get-rid-of-smart-list-errors}
+## Livrar-se dos erros da lista inteligente {#get-rid-of-smart-list-errors}
 
-Em sua Campanha inteligente, clique em **Lista inteligente**. Livre-se de qualquer linha vermelha escancarada que você vê corrigindo os erros.
+Na Campanha inteligente, clique em **Lista inteligente**. Livre-se de linhas vermelhas sinuosas que você vê corrigindo os erros.
 
 ![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
->Linhas vermelhas roxas indicam erros ou informações ausentes. Se não for corrigida, a campanha será inválida e não será executada.
+>Linhas vermelhas sinuosas indicam erros ou informações ausentes. Se não for corrigida, a campanha será inválida e não será executada.
 >
->Além disso, **simplificar as coisas**. Se você tem dezenas ou centenas de filtros, é difícil mantê-los e rastreá-los. Também é mais rápido carregar menos filtros.
+>Além disso, **mantenha as coisas simples**. Se você tem dezenas ou centenas de filtros, é difícil mantê-los e rastreá-los. Menos filtros também são mais rápidos de carregar.
 
 >[!NOTE]
 >
->Usando **Membro da Smart List** pode ter erros nessa outra lista. Olha lá também.
+>Usar **Membro da lista inteligente** poderia ter erros nessa outra lista. Verifique lá também.
 
-## Obter Rid de Erros de Fluxo {#get-rid-of-flow-errors}
+## Livrar-se de erros de fluxo {#get-rid-of-flow-errors}
 
-Em sua Campanha inteligente, clique em **Fluxo**. Livre-se de qualquer linha vermelha escancarada que você vir corrigindo os erros.
+Na Campanha inteligente, clique em **Fluxo**. Livre-se de linhas vermelhas sinuosas vistas corrigindo os erros.
 
 ![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
->Passe o mouse sobre a linha vermelha esmaecida para ver os detalhes do erro.
+>Passe o mouse sobre a linha vermelha rajada para ver detalhes do erro.
 
-## Revisar a guia Agendamento {#review-the-schedule-tab}
+## Revise a Guia Programação {#review-the-schedule-tab}
 
-No **Agendar** guia , verifique **Smart** **Lista** **Status** para qualquer erro no Smart Campaign que precise ser corrigido.
+No **Agendar** , marque **Smart** **Lista** **Status** para verificar se há erros na Campanha inteligente que precisam ser corrigidos.
 
 ![](assets/smart-campaign-checklist-3.png)
 
-## Verificar limite de restrições de pessoa {#check-person-restrictions-limit}
+## Verificar Limite de Restrições de Pessoa {#check-person-restrictions-limit}
 
-No **Agendar** , verifique se o número de pessoas qualificadas não excede o limite de restrição de pessoa.
+No **Agendar** verifique se o número de pessoas qualificadas não excede o limite de restrição de pessoas.
 
 ![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->Se necessário, é possível [substituir restrições de pessoa em uma Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>Se necessário, você pode [substituir restrições de pessoa em uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**Restante**
 >
->Se sua Campanha inteligente ainda falhar, saiba como [entender as notificações](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) para descobrir o que deu errado e como corrigi-lo.
+>Se a Campanha inteligente ainda falhar, saiba como [compreender notificações](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) para descobrir o que deu errado e como corrigi-lo.
 
-Muito bem! Mantenha essa lista de verificação acessível antes de executar uma Campanha inteligente.
+Excelente trabalho! Mantenha essa lista de verificação acessível antes de executar uma Campanha inteligente.

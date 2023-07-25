@@ -2,7 +2,8 @@
 description: Configuração do administrador de produto - Documentação do Marketo - Documentação do produto
 title: Configuração do administrador do produto
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Marketo with Adobe Identity
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
    ![](assets/admin-setup-7.png)
 
-1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Adobe Admin Console. Caso contrário, [configurar seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configurar seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-8.png)
 

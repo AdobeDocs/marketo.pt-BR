@@ -3,7 +3,8 @@ unique-page-id: 2949471
 description: Lista de verificação de configuração - Documentação do Marketo - Documentação do produto
 title: Lista de verificação de configuração
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 2%

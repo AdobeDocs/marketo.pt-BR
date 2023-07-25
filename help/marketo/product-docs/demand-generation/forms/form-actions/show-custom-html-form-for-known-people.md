@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359644
-description: Mostrar formulário de HTML personalizado para pessoas conhecidas - Documentos do Marketo - Documentação do produto
+description: Mostrar formulário de HTML personalizado para pessoas conhecidas - Documentação do Marketo - Documentação do produto
 title: Mostrar formulário de HTML personalizado para pessoas conhecidas
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 1%
@@ -12,7 +13,7 @@ ht-degree: 1%
 
 # Mostrar formulário de HTML personalizado para pessoas conhecidas {#show-custom-html-form-for-known-people}
 
-Se um visitante estiver em cookie (pessoa conhecida que forneceu um endereço de email no passado), por que se preocupar com o formulário? Dê a eles o botão de download. Veja como.
+Se um visitante é diagnosticado (pessoa conhecida que forneceu um endereço de email no passado), por que se preocupar com o formulário? Dê a eles o botão de download. Veja como.
 
 1. Ir para **Atividades de marketing**.
 
@@ -26,15 +27,15 @@ Se um visitante estiver em cookie (pessoa conhecida que forneceu um endereço de
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Definir Se **Visitante conhecido, Programa**: para **HTML personalizado**.
+1. Definir Se **Visitante conhecido, Mostrar**: para **HTML personalizado**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Clique no botão ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar o **HTML personalizado** isso será mostrado para pessoas conhecidas.
+1. Clique em ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar o **HTML personalizado** isso será mostrado para pessoas conhecidas.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
-1. Há algum conteúdo padrão, mas sinta-se à vontade para alterá-lo.
+1. Há conteúdo padrão, mas fique à vontade para alterá-lo.
 
    ![](assets/image2014-9-15-12-3a25-3a49.png)
 
@@ -44,12 +45,12 @@ Se um visitante estiver em cookie (pessoa conhecida que forneceu um endereço de
    |---|---|
    | `{{lead.FirstName}}` | Isso exibirá o nome da pessoa. |
    | `{{lead.LastName}}` | Isso exibirá o sobrenome da pessoa. |
-   | `{{form.Button:default=Download}}` | Isso exibirá o botão de formulário. Substitua a área após a variável `=` para alterar o texto do botão. |
-   | `{{form.NotYou:default=Not you?}}` | Isso exibirá um link caso a pessoa seja outra. Substitua a área após a variável `=` para alterar o texto do link. |
+   | `{{form.Button:default=Download}}` | Isso exibirá o botão de formulário. Substitua a área após a tag `=` para alterar o texto do botão. |
+   | `{{form.NotYou:default=Not you?}}` | Isso exibirá um link caso a pessoa seja outra pessoa. Substitua a área após a tag `=` para alterar o texto do link. |
 
    >[!CAUTION]
    >
-   >Somente os quatro tokens acima podem ser usados. Qualquer outro token não funcionará aqui.
+   >Somente os quatro tokens acima podem ser usados. Nenhum outro token funcionará aqui.
 
 1. Clique em **Concluir**.
 
@@ -59,18 +60,18 @@ Se um visitante estiver em cookie (pessoa conhecida que forneceu um endereço de
 
    >[!NOTE]
    >
-   >O formulário deve ser aprovado para ser usado nas landing pages.
+   >O formulário deve ser aprovado para ser usado em landing pages.
 
    ![](assets/image2014-9-15-12-3a27-3a53.png)
 
    >[!NOTE]
    >
-   >Lembrar de [aprovar o rascunho da landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações do formulário.
+   >Lembre-se de [aprovar o rascunho da página de destino](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
-   Pedaço de bolo! Veja o que uma pessoa veria se voltasse para o mesmo formulário:
+   Pedaço de bolo! Confira o que uma pessoa veria se voltasse ao mesmo formulário:
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
    >[!TIP]
    >
-   >Você pode direcionar o clique do botão para o ativo configurando a página de acompanhamento do formulário para o URL do arquivo.
+   >Você pode direcionar o clique do botão para o ativo definindo a página de acompanhamento do formulário para o URL do arquivo.

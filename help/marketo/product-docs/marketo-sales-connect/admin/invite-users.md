@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352402
-description: Convidar usuários - Documentos do Marketo - Documentação do produto
+description: Convidar usuários - Documentação do Marketo - Documentação do produto
 title: Convidar usuários
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 6%
@@ -18,7 +19,7 @@ Adicionar usuários é rápido e fácil!
 
    ![](assets/one.png)
 
-1. Em Configurações de administração, selecione **Gerenciamento de usuários**.
+1. Em Configurações do administrador, selecione **User Management**.
 
    ![](assets/invite-team-members-2.png)
 
@@ -26,7 +27,7 @@ Adicionar usuários é rápido e fácil!
 
    ![](assets/invite-team-members-3.png)
 
-1. Insira os endereços de email dos indivíduos que deseja adicionar e clique em **Próximo**.
+1. Insira os endereços de email das pessoas físicas que deseja adicionar e clique em **Próxima**.
 
    ![](assets/four.png)
 

@@ -1,20 +1,21 @@
 ---
 unique-page-id: 1900573
-description: Adicionar um token do sistema como um link em um email - Documentos do Marketo - Documentação do produto
-title: Adicionar um token de sistema como um link em um email
+description: Adicionar um token do sistema como um link em um email - Documentação do Marketo - Documentação do produto
+title: Adicionar um token do sistema como um link em um email
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
-source-git-commit: 65caed388ac33fc9f3142102343fe43ebc186e6e
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# Adicionar um token de sistema como um link em um email {#add-a-system-token-as-a-link-in-an-email}
+# Adicionar um token do sistema como um link em um email {#add-a-system-token-as-a-link-in-an-email}
 
-Você pode usar esses tokens do sistema para personalizar a posição de links especiais em seus emails.
+Você pode usar esses tokens do sistema para personalizar a posição dos links especiais em seus emails.
 
-Os seguintes tokens podem ser usados como links em um email ou modelo de email:
+Os seguintes tokens podem ser usados como links em um email ou template de email:
 
 * `{{system.forwardToFriendLink}}`
 * `{{system.unsubscribeLink}}`
@@ -22,11 +23,11 @@ Os seguintes tokens podem ser usados como links em um email ou modelo de email:
 
 >[!NOTE]
 >
->Esses tokens **not** ser clicável, a menos que dentro de um link de âncora. Além disso, eles podem **not** ser incorporado em um Meu token.
+>Esses tokens serão **não** ser clicável, a menos que esteja dentro de um link de âncora. Além disso, elas podem **não** ser incorporado em um Meu token.
 
 Veja como adicioná-los a um email:
 
-1. Encontre e selecione seu email e clique em **Editar rascunho**.
+1. Localize e selecione seu email e clique em **Editar rascunho**.
 
    ![](assets/one-1.png)
 
@@ -34,7 +35,7 @@ Veja como adicioná-los a um email:
 
    ![](assets/two-1.png)
 
-1. Realce o texto que deseja converter em um link que terá o token e clique no botão **Inserir/Editar link** botão.
+1. Realce o texto que deseja converter em um link que terá o token e clique no link **Inserir/Editar link** botão.
 
    ![](assets/three-1.png)
 
@@ -52,10 +53,10 @@ Veja como adicioná-los a um email:
 
 >[!IMPORTANT]
 >
->Se estiver usando essa abordagem para adicionar o token de sistema &quot;viewAsWebpageLink&quot;, você poderá **not** substituí-lo usando tokens. Em vez disso, use [Adicionar uma Exibição como Link da Página da Web a um Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) abordagem que permite substituir &quot;viewAsWebPageLink&quot; usando tokens.
+>Se estiver usando essa abordagem para adicionar o token do sistema &quot;viewAsWebpageLink&quot;, você poderá **não** substituí-lo usando tokens. Em vez disso, use [Adicionar um link Exibir como página da Web a um email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) que permite substituir &quot;viewAsWebPageLink&quot; usando tokens.
 
 >[!NOTE]
 >
->Não se esqueça de [aprove seu email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) quando concluído.
+>Não se esqueça de [aprovar seu email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) quando terminar.
 
-Muito bem! Agora você sabe como adicionar um token de sistema como um link em um email.
+Muito bem! Agora você sabe como adicionar um token do sistema como um link em um email.

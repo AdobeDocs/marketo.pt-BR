@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437801
-description: Modelo 14A - Documentos do Marketo - Documentação do produto
+description: Modelo 14A - Documentação do Marketo - Documentação do produto
 title: Modelo 14A
 exl-id: bf096c89-b583-4618-aba9-8bfb7653af16
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -12,18 +13,18 @@ ht-degree: 0%
 
 # Modelo 14A {#template-14a}
 
-Clique com o botão direito do mouse em para [modelo de download 14A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)
+Clique com o botão direito do mouse para [baixar modelo 14A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)
 
 ![](assets/image2015-8-11-15-3a9-3a52.png)
 
 Esse template inclui o seguinte conteúdo:
 
 * Um cabeçalho (opcional)
-* Uma seção primária
+* Uma seção principal
 
-   * Inclui o título do herói e o texto do herói
+   * Inclui título e texto herói
 
-* Cinco seções do corpo (opcional)
+* Cinco seções de corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

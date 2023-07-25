@@ -1,8 +1,9 @@
 ---
-description: Opções de email em massa - Documentos do Marketo - Documentação do produto
+description: Opções De Email Em Massa - Documentação Do Marketo - Documentação Do Produto
 title: Opções de email em massa
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 3%
@@ -11,9 +12,9 @@ ht-degree: 3%
 
 # Opções de email em massa {#bulk-emailing-options}
 
-Enviar emails em massa é uma ótima maneira de acelerar seu envolvimento com prospecto. O Marketo Sales oferece duas maneiras de enviar emails em massa: **Emails de grupo** e **Selecionar e enviar**. Os emails de grupo são uma ótima maneira de enviar rapidamente centenas de emails para um grupo direcionado. Usar Selecionar e enviar significa diminuir os limites de email, mas oferece mais oportunidades de personalização ao usuário.
+O envio de emails em massa é uma ótima maneira de acelerar o engajamento do cliente potencial. O Marketo Sales oferece duas maneiras de enviar emails em massa: **Emails de grupo** e **Selecionar e enviar**. Emails de grupo são uma ótima maneira de enviar rapidamente centenas de emails para um grupo direcionado. Usar Select e Send significa limites de email mais baixos, mas oferece mais oportunidades de personalização para o usuário.
 
-**Agrupar Email vs. Selecionar e Enviar**
+**Email de grupo vs. Selecionar e enviar**
 
 <table> 
  <colgroup> 
@@ -26,17 +27,17 @@ Enviar emails em massa é uma ótima maneira de acelerar seu envolvimento com pr
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Enviar tipo</th> 
+   <th>Tipo de envio</th> 
    <th>Número máximo de emails</th> 
-   <th>Enviar por Iniciado</th> 
-   <th>Emails de edição em massa</th> 
+   <th>Envio iniciado por</th> 
+   <th>Editar emails em massa</th> 
    <th>Editar cada email exclusivamente</th> 
-   <th>Suporte a modelo e campo dinâmico</th> 
+   <th>Suporte a modelos e campos dinâmicos</th> 
   </tr> 
   <tr> 
-   <td>Email do grupo</td> 
+   <td>E-mail grupal</td> 
    <td>1,000</td> 
-   <td>Selecione um grupo e clique no botão "Ações do grupo" ou digite o nome do grupo no campo Para.</td> 
+   <td>Selecione um grupo e clique no botão "Ações de grupo", ou digite o nome do grupo no campo Para.</td> 
    <td>Sim</td> 
    <td>Não</td> 
    <td>Sim</td> 
@@ -44,7 +45,7 @@ Enviar emails em massa é uma ótima maneira de acelerar seu envolvimento com pr
   <tr> 
    <td>Selecionar e enviar</td> 
    <td>200</td> 
-   <td>Selecione pessoas na grade e clique no botão "Email Seleted" na barra de ações ou digite recipients na barra lateral do email em massa.</td> 
+   <td>Selecione as pessoas na grade e clique no botão "Email selecionado" na barra de ações, ou digite os recipients na barra lateral do email em massa.</td> 
    <td>Sim</td> 
    <td>Sim</td> 
    <td>Sim</td> 
@@ -54,14 +55,13 @@ Enviar emails em massa é uma ótima maneira de acelerar seu envolvimento com pr
 
 **Usando email de grupo**
 
-Você pode visualizar cada email na lista para ver se os campos dinâmicos estão sendo preenchidos corretamente e pode editar em massa o modelo que deseja enviar. No entanto, não é possível fazer edições &quot;por usuário&quot; exclusivas.
+Você pode visualizar cada email na lista para ver se os campos dinâmicos estão sendo preenchidos corretamente e pode editar o modelo que deseja enviar em massa. No entanto, não é possível fazer edições únicas &quot;por usuário&quot;.
 
-**Usar Selecionar e enviar**
+**Utilização do Select e Send**
 
-Por padrão, você estará editando para todos os recipients. Mas também é possível selecionar cada email individual para fazer edições personalizadas. Isso pode ser ótimo para adicionar uma ou mais linhas exclusivas de personalização aos recipients com os quais você deseja adotar uma abordagem mais personalizada.
+Por padrão, você editará para todos os destinatários. Mas você também pode selecionar cada email individual para fazer edições personalizadas. Isso pode ser ótimo para adicionar uma ou mais linhas exclusivas de personalização a recipients com os quais você deseja fazer uma abordagem mais personalizada.
 
 >[!MORELIKETHIS]
 >
->* [Composição de emails em massa com Selecionar e enviar](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
->* [Enviar emails por email de grupo](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
-
+>* [Escrevendo emails em massa com Selecionar e enviar](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Enviando Emails por Email de Grupo](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)

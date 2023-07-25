@@ -1,28 +1,29 @@
 ---
 unique-page-id: 2360018
-description: Adicionar colunas de oportunidade a um relatório de oportunidade potencial - Documentos do Marketo - Documentação do produto
-title: Adicionar colunas de oportunidade a um relatório de oportunidade potencial
+description: Adicionar colunas de oportunidade a um relatório de cliente potencial - Documentação do Marketo - Documentação do produto
+title: Adicionar Colunas de Oportunidade a um Relatório de Cliente Potencial
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 14%
 
 ---
 
-# Adicionar colunas de oportunidade a um relatório de oportunidade potencial {#add-opportunity-columns-to-a-lead-report}
+# Adicionar Colunas de Oportunidade a um Relatório de Cliente Potencial {#add-opportunity-columns-to-a-lead-report}
 
-Para ver as estatísticas sobre oportunidades nos seus relatórios pessoais, você pode adicionar colunas de oportunidade.
+Para ver as estatísticas de oportunidades nos relatórios de pessoa, você pode adicionar colunas de oportunidade.
 
-1. Vá para o **Atividades de marketing** área.
+1. Vá para a **Atividades de marketing** área.
 
    ![](assets/ma.png)
 
-1. Selecione seu relatório na árvore de navegação e clique no botão **Configuração** guia .
+1. Selecione seu relatório na árvore de navegação e clique no link **Configuração** guia.
 
    ![](assets/two.png)
 
-1. Clique duas vezes **Colunas da Oportunidade**.
+1. Clique duas vezes **Colunas de Oportunidade**.
 
    ![](assets/three.png)
 
@@ -30,7 +31,7 @@ Para ver as estatísticas sobre oportunidades nos seus relatórios pessoais, voc
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Clique no botão **Relatório** para ver seu relatório com as métricas de oportunidade.
+1. Clique em **Relatório** para ver seu relatório com as métricas de oportunidade.
 
    ![](assets/five.png)
 
@@ -50,21 +51,21 @@ Para ver as estatísticas sobre oportunidades nos seus relatórios pessoais, voc
 
    | Coluna | Descrição |
    |---|---|
-   | Nenhuma oportunidade | Número de pessoas que são *not* um contato de oportunidade principal. |
-   | Dias - Nenhuma oportunidade | Idade média, em dias, das pessoas que são *not* um contato principal. |
+   | Nenhuma oportunidade | Número de pessoas que estão *não* um contato de oportunidade principal. |
+   | Dias - Nenhuma oportunidade | Idade média, em dias, das pessoas que *não* um contato principal. |
    | Possui oportunidade | Número de pessoas que são um contato de oportunidade principal. |
    | Possui oportunidade - % | Porcentagem de pessoas que são um contato de oportunidade principal. |
-   | Dias até a oportunidade | Número médio de dias para conversão de pessoa para contato de oportunidade principal. |
+   | Dias até a oportunidade | Número médio de dias para conversão de pessoa em contato de oportunidade principal. |
    | Valor total da oportunidade | Soma de todos os valores de oportunidade. |
-   | Valor médio da oportunidade | Soma das quantidades de oportunidade, dividida pelo número de oportunidades. |
+   | Valor médio da oportunidade | Soma dos valores de oportunidade, dividida pelo número de oportunidades. |
    | Total de oportunidades | Número de todas as oportunidades. |
-   | Fechado | Número de oportunidades que foram fechadas, vencidas ou perdidas. |
-   | Obtido | Número de oportunidades que foram ganhas. |
-   | % obtida | Porcentagem de oportunidades que foram ganhas. |
-   | Valor total obtido | Soma de quantias de oportunidade vencidas. |
+   | Fechado | Número de oportunidades que foram fechadas, ganhas ou perdidas. |
+   | Obtido | Número de oportunidades que foram conquistadas. |
+   | % obtida | Porcentagem de oportunidades que foram conquistadas. |
+   | Valor total obtido | Soma dos valores de oportunidade conquistada. |
    | Dias para fechamento | Número médio de dias para fechar oportunidades. |
-   | Dias em vendas | Comprimento médio do ciclo de vendas (Dias até a oportunidade + Dias para fechar). |
+   | Dias em vendas | Duração média do ciclo de vendas (Dias até a Oportunidade + Dias para Fechar). |
 
    >[!MORELIKETHIS]
    >
-   >Saiba como [gerenciar o tamanho do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >Saiba como [gerenciar o tamanho do relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

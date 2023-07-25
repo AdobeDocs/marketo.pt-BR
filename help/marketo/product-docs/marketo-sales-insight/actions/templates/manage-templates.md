@@ -2,7 +2,8 @@
 description: Gerenciar modelos - Documentação do Marketo - Documentação do produto
 title: Gerenciar modelos
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 1%
@@ -13,7 +14,7 @@ ht-degree: 1%
 
 ## Criar um modelo {#create-a-new-template}
 
-1. Navegue até o **Modelos** guia .
+1. Navegue até a **Modelos** guia.
 
    ![](assets/manage-templates-1.png)
 
@@ -21,19 +22,19 @@ ht-degree: 1%
 
    ![](assets/manage-templates-2.png)
 
-1. Escolha um **Nome** e **Categoria** para seu modelo de email, clique em **Criar**.
+1. Escolha um **Nome** e **Categoria** para seu modelo de email, depois clique em **Criar**.
 
    ![](assets/manage-templates-3.png)
 
-1. No editor de modelos, crie uma linha de assunto para seu email e digite a mensagem desejada. Use as ferramentas de edição (fonte, tamanho do texto etc.) para personalizar a aparência. Clique em **Salvar** para finalizar as alterações.
+1. No editor de modelos, crie uma linha de assunto para o email e digite a mensagem desejada. Usar as ferramentas de edição (fonte, tamanho do texto etc.) para personalizar a aparência. Clique em **Salvar** para finalizar as alterações.
 
    ![](assets/manage-templates-4.png)
 
 >[!TIP]
 >
->Sempre digite texto diretamente no modelo ou copie de um editor de texto simples (por exemplo, Bloco de notas ou Edição de texto). Copiar e colar de um editor de rich text (por exemplo, MS Word) pode causar irregularidades na formatação.
+>Sempre digite o texto diretamente no modelo ou copie de um editor de texto simples (por exemplo, Notepad ou TextEdit). Copiar e colar de um editor de rich text (por exemplo, MS Word) pode causar irregularidades na formatação.
 
-## Exibir detalhes do modelo {#view-template-details}
+## Exibir Detalhes do Modelo {#view-template-details}
 
 A área Detalhes do modelo contém várias guias.
 
@@ -42,27 +43,27 @@ A área Detalhes do modelo contém várias guias.
 <table>
  <tr>
   <td><strong>Modelo</strong></td>
-  <td>Revise e faça edições, configure critérios para tornar o modelo um modelo recomendado, adicione observações</td>
+  <td>Revise e faça edições, configure critérios para tornar o modelo um modelo recomendado e adicione observações</td>
  </tr>
  <tr>
-  <td><strong>Análises</strong></td>
-  <td>Analise as análises de envolvimento do modelo. Realize uma pesquisa filtrada.</td>
+  <td><strong>Analytics</strong></td>
+  <td>Revise as análises de envolvimento para o modelo. Executar uma pesquisa filtrada.</td>
  </tr>
  <tr>
   <td><strong>E-mails</strong></td>
-  <td>Exibir todos os emails que foram enviados usando esse template. Realize uma pesquisa filtrada.</td>
+  <td>Exibir todos os emails enviados usando este modelo. Executar uma pesquisa filtrada.</td>
  </tr>
  <tr>
   <td><strong>Campanhas</strong></td>
-  <td>Veja em quais Campanhas o modelo está sendo usado.</td>
+  <td>Veja em quais campanhas o modelo está sendo usado.</td>
  </tr>
 </table>
 
 ## Compartilhar um modelo {#share-a-template}
 
-Se você estiver usando uma de nossas contas de equipe, todos os modelos ainda serão privados por padrão.
+Se você estiver usando uma de nossas contas da equipe, todos os seus modelos ainda serão privados por padrão.
 
-1. Navegue até o **Modelos** guia .
+1. Navegue até a **Modelos** guia.
 
    ![](assets/manage-templates-5.png)
 
@@ -70,53 +71,53 @@ Se você estiver usando uma de nossas contas de equipe, todos os modelos ainda s
 
    ![](assets/manage-templates-6.png)
 
-1. Clique no botão **Compartilhar** botão.
+1. Clique em **Compartilhar** botão.
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >Os modelos que foram compartilhados com você serão exibidos no **Modelos de equipe** no lado esquerdo da página Modelos. As equipes só estão disponíveis para usuários do Premium.
+   >Os modelos que foram compartilhados com você serão exibidos na **Modelos de Equipe** no lado esquerdo da página Modelos. As equipes só estão disponíveis para usuários Premium.
 
-1. Clique no menu suspenso Compartilhar com e selecione as equipes com as quais deseja compartilhar.
+1. Clique na lista suspensa Compartilhar com e selecione as equipes com as quais você deseja compartilhar.
 
    ![](assets/manage-templates-8.png)
 
-1. Você tem a opção de manter o modelo na categoria atual ou movê-lo para um diferente. Neste exemplo, nós o mantemos no atual. Clique em **Compartilhar** quando concluído.
+1. Você tem a opção de manter o modelo na categoria atual ou movê-lo para uma categoria diferente. Neste exemplo, estamos mantendo-o no atual. Clique em **Compartilhar** quando terminar.
 
    ![](assets/manage-templates-9.png)
 
-## Adicionar um modelo como favorito {#favorite-a-template}
+## Marcar um modelo como favorito {#favorite-a-template}
 
-Você pode adicionar modelos de qualquer categoria à sua lista de Favoritos. Isso gera automaticamente uma nova categoria na parte superior da lista, para que você possa acessar rapidamente os modelos que mais usa.
+É possível adicionar modelos de qualquer categoria à lista Favoritos. Isso gera automaticamente uma nova categoria na parte superior da lista para que você possa acessar rapidamente os modelos que mais usa.
 
-1. Navegue até o **Modelos** guia .
+1. Navegue até a **Modelos** guia.
 
    ![](assets/manage-templates-10.png)
 
-1. Encontre o modelo desejado e passe o mouse sobre ele. Clique na estrela que aparece à esquerda do nome do modelo.
+1. Localize o modelo desejado e passe o mouse sobre ele. Clique na estrela que aparece à esquerda do nome do modelo.
 
    ![](assets/manage-templates-11.png)
 
-   Depois de ser favorita, a estrela ficará.
+   Depois de ser escolhida como favorita, a estrela permanecerá.
 
    ![](assets/manage-templates-12.png)
 
 ## Personalizar exibição de modelo {#customize-template-view}
 
-No **Exibir** , você pode optar por ver: todos os modelos, seus modelos, modelos favoritos, modelos compartilhados, modelos não compartilhados ou modelos não utilizados (modelos que não foram usados nos últimos 90 dias).
+No **Exibir** , você pode optar por ver: todos os modelos, seus modelos, modelos favoritos, modelos compartilhados, modelos não compartilhados ou modelos não usados (modelos que não foram usados nos últimos 90 dias).
 
 ![](assets/manage-templates-13.png)
 
 >[!NOTE]
 >
->Além disso, é possível adicionar/remover colunas na exibição de modelo clicando no ícone de configurações à direita do menu suspenso de exibição.
+>Além disso, você pode adicionar/remover colunas na visualização de modelo clicando no ícone de configurações à direita do menu suspenso de visualização.
 
 ## Arquivar um modelo {#archive-a-template}
 
-Arquive modelos para manter o conteúdo de vendas organizado e focalizado, sem perder os dados do modelo.
+Arquive modelos para manter o conteúdo de vendas organizado e focalizado sem perder nenhum dado de modelo.
 
-1. Marque a caixa ao lado do template que deseja arquivar.
+1. Marque a caixa ao lado do modelo que deseja arquivar.
 
    ![](assets/manage-templates-14.png)
 
@@ -130,9 +131,9 @@ Arquive modelos para manter o conteúdo de vendas organizado e focalizado, sem p
 
 >[!NOTE]
 >
->Depois que um modelo é arquivado, ele não pode ser editado ou usado. Para usá-lo novamente, mova o modelo para fora do Arquivo e para qualquer outra categoria.
+>Depois que um modelo é arquivado, ele não pode ser editado ou usado. Para usá-lo novamente, mova o modelo para fora de Arquivar e para qualquer outra categoria.
 
-Você também pode selecionar o filtro Não usado para exibir e arquivar modelos que não foram usados em mais de 90 dias.
+Você também pode selecionar o filtro Não usado para exibir e arquivar modelos que não são usados há mais de 90 dias.
 
 ## Excluir um modelo {#delete-a-template}
 
@@ -142,7 +143,7 @@ Siga as etapas abaixo para excluir um modelo.
 >
 >A exclusão de um modelo também excluirá TODO o rastreamento e as análises associadas a ele.
 
-1. Marque a caixa ao lado do template que deseja excluir.
+1. Marque a caixa ao lado do modelo que deseja excluir.
 
    ![](assets/manage-templates-17.png)
 

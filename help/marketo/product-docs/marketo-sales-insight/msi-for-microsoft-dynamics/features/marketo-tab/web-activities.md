@@ -1,8 +1,9 @@
 ---
-description: Atividades da Web - Documentos do Marketo - Documentação do produto
+description: Atividades da Web - Documentação do Marketo - Documentação do produto
 title: Atividades da Web
 exl-id: dca3f5ca-72b4-4c9c-a0fc-d9dee37c8ad6
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -11,11 +12,11 @@ ht-degree: 0%
 
 # Atividades da Web {#web-activities}
 
-A guia Web Activities mostra as atividades da Web dos leads/contatos.
-Revise as atividades da Web mais recentes do seu cliente potencial, citando a contagem de visitas à página e as respectivas contas. Você pode filtrar os resultados para limitar o número especificado de páginas.
+A guia Atividades da Web mostra as atividades da Web de clientes potenciais/contatos.
+Revise as atividades da Web mais recentes do seu cliente potencial, citando a contagem de visitas à página e as respectivas contas. Você pode filtrar os resultados para limitar ao número especificado de páginas.
 
 ![](assets/web-activities-1.png)
 
-## Atividades Anônimas da Web {#anonymous-web-activities}
+## Atividades da Web anônimas {#anonymous-web-activities}
 
-A guia Atividades Web Anônimas mostra todas as **anonymous** atividades da Web do visitante da página da Web. Revise as atividades da Web mais recentes e cite a contagem de visitas da página.
+A guia Anonymous Web Activities mostra todas **anônimo** atividades da web de visitantes da página da web. Revise as atividades da Web mais recentes citando a contagem de visitas à página.

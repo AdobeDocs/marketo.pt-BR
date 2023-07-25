@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147249
-description: Uso de uma sobreposição global - Documentos do Marketo - Documentação do produto
+description: Uso de uma sobreposição global - Documentação do Marketo - Documentação do produto
 title: Uso de uma sobreposição global
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -12,15 +13,15 @@ ht-degree: 0%
 
 # Uso de uma sobreposição global {#using-a-global-overlay}
 
-A sobreposição global na exibição de programação do programa permite visualizar o programa em relação a outros ativos programados.
+A sobreposição global na visualização de programação do programa permite que você veja o programa em relação a outros ativos agendados.
 
 >[!PREREQUISITES]
 >
->Você deve ter um [Licença de calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esse recurso.
+>Você deve ter um [Licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esse recurso.
 
 ## Usar a sobreposição global {#use-the-global-overlay}
 
-1. Selecione o programa.
+1. Selecione seu programa.
 
    ![](assets/image2014-9-24-10-16-4.png)
 
@@ -28,19 +29,19 @@ A sobreposição global na exibição de programação do programa permite visua
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
-1. Os blocos sólidos representam entradas nessa data. Clique em para ver detalhes.
+1. Os blocos sólidos representam entradas nessa data. Clique para ver os detalhes.
 
    ![](assets/image2014-9-24-10-3a16-3a14.png)
 
-   Os detalhes de entrada para itens de sobreposição serão somente leitura. Clique no programa principal para fazer alterações.
+   Os detalhes da entrada para itens de sobreposição serão somente leitura. Clique no programa pai para fazer alterações.
 
    ![](assets/image2014-9-24-10-3a16-3a19.png)
 
-## Usar um filtro salvo como uma sobreposição {#use-a-saved-filter-as-an-overlay}
+## Usar um filtro salvo como sobreposição {#use-a-saved-filter-as-an-overlay}
 
-Se você tiver [salvou um filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), é possível usá-lo como uma sobreposição na exibição do agendamento do programa.
+Se você tiver [salvou um filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), você pode usá-lo como uma sobreposição na exibição de cronograma do programa.
 
-1. Clique no botão **Sobreposição** e selecione a definição de filtro.
+1. Clique em **Sobreposição** e selecione a definição do filtro.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
@@ -50,4 +51,4 @@ Se você tiver [salvou um filtro no Calendário de marketing](/help/marketo/prod
 
    >[!MORELIKETHIS]
    >
-   >[Criação de sobreposições personalizadas na exibição Programação de programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
+   >[Criação de sobreposições personalizadas na visualização de programação](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)

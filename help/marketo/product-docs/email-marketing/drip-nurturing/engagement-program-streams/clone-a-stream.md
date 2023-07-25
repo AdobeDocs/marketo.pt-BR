@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359789
-description: Clonar um fluxo - Documentos do Marketo - Documentação do produto
+description: Clonar um fluxo - Documentação do Marketo - Documentação do produto
 title: Clonar um fluxo
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 2%
@@ -12,9 +13,9 @@ ht-degree: 2%
 
 # Clonar um fluxo {#clone-a-stream}
 
-Clonar um fluxo por vários motivos, incluindo o teste de diferentes pedidos e cadências diferentes.
+Clonar um fluxo por vários motivos, incluindo o teste de diferentes ordens e diferentes cadências.
 
-1. Selecione seu programa de envolvimento e acesse **Fluxos** guia .
+1. Selecione seu programa de engajamento e vá para a **Fluxos** guia.
 
    ![](assets/cloneasteam.jpg)
 
@@ -24,7 +25,7 @@ Clonar um fluxo por vários motivos, incluindo o teste de diferentes pedidos e c
 
    >[!NOTE]
    >
-   >Você pode ter até 25 fluxos por programa de engajamento.
+   >É possível ter até 25 fluxos por programa de engajamento.
 
    Muito bem! Você não ama coisas que tornam sua vida mais fácil?
 
@@ -32,4 +33,4 @@ Clonar um fluxo por vários motivos, incluindo o teste de diferentes pedidos e c
 
    >[!CAUTION]
    >
-   >Tudo no fluxo é clonado exceto pela Cadência. Lembre-se de configurá-lo.
+   >Tudo no fluxo é clonado, exceto a Cadência. Lembre-se de configurá-lo.

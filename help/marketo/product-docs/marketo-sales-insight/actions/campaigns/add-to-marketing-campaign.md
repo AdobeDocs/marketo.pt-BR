@@ -1,10 +1,11 @@
 ---
-description: Adicionar à campanha de marketing - Documentos do Marketo - Documentação do produto
+description: Adicionar à campanha de marketing - Documentação do Marketo - Documentação do produto
 title: Adicionar à campanha de marketing
 hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -21,9 +22,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Para adicionar uma pessoa a uma Campanha Marketo a partir da Conexão de Vendas, a Conexão de Vendas deve ter a ID de cliente potencial Marketo da pessoa.
+>Para adicionar uma pessoa a uma campanha do Marketo a partir do Sales Connect, o Sales Connect deve ter a ID de cliente potencial do Marketo da pessoa.
 
-1. Clique no botão **Pessoas** Guia.
+1. Clique em **Pessoas** Guia.
 
    ![](assets/add-to-marketing-campaign-1.png)
 
@@ -31,15 +32,15 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-2.png)
 
-1. Clique na caixa de seleção para selecionar seus contatos e clique em **Adicionar seleção à campanha**.
+1. Clique na caixa de seleção para selecionar seus contatos e clique em **Adicionar selecionados ao Campaign**.
 
    ![](assets/add-to-marketing-campaign-3.png)
 
-1. PASSO AQUI
+1. PASSAR AQUI
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. Como você está adicionando a uma campanha de marketing, ignore a seleção de um endereço &quot;de&quot;. No entanto, você pode optar por adicionar mais contatos. Se você optar por usar o , clique em Individuais e digite-os. Clique em **Próximo** quando concluído.
+1. Como você está adicionando a uma campanha de marketing, pule a seleção de um endereço &quot;de&quot;. No entanto, você pode optar por adicionar mais contatos. Se desejar, clique em Indivíduos e digite-os. Clique em **Próxima** quando terminar.
 
    ![](assets/add-to-marketing-campaign-5.png)
 
@@ -47,25 +48,25 @@ ht-degree: 0%
 
 PICC
 
-1. Clique na lista suspensa Espaços de trabalho e escolha o espaço de trabalho que contém a campanha à qual deseja adicionar o grupo.
+1. Clique na lista suspensa Espaços de trabalho e escolha o espaço de trabalho que contém a campanha à qual você deseja adicionar o grupo.
 
 PICC
 
 >[!NOTE]
 >
->Se você não visualizar o espaço de trabalho desejado, verifique se o Administrador o provisiona por meio da página Acesso à equipe da Marketo.
+>Se você não vir o espaço de trabalho desejado, verifique se o Administrador o provisiona por meio da página Acesso à equipe da Marketo.
 
-1. Selecione a campanha desejada e clique em **Próximo**.
+1. Selecione a campanha desejada e clique em **Próxima**.
 
 PICC
 
-1. Você recebe os contatos qualificados. Clique em **Iniciar** para adicioná-los.
+1. Você verá os contatos que se qualificam. Clique em **Início** para adicioná-los.
 
 PICC
 
 ## Adicionar um grupo a uma campanha {#add-a-group-to-a-campaign}
 
-1. Clique no botão **Pessoas** Guia.
+1. Clique em **Pessoas** Guia.
 
 PICC
 
@@ -73,11 +74,11 @@ PICC
 
 PICC
 
-1. Clique em **Adicionar grupo ao Campaign**.
+1. Clique em **Adicionar grupo à campanha**.
 
 PICC
 
-1. Como você está adicionando a uma campanha de marketing, ignore a seleção de um endereço &quot;de&quot;. No entanto, você pode optar por adicionar mais contatos. Se você optar por usar o , clique em Individuais e digite-os. Clique em **Próximo** quando concluído.
+1. Como você está adicionando a uma campanha de marketing, pule a seleção de um endereço &quot;de&quot;. No entanto, você pode optar por adicionar mais contatos. Se desejar, clique em Indivíduos e digite-os. Clique em **Próxima** quando terminar.
 
 PICC
 
@@ -87,20 +88,20 @@ PICC
 
 >[!NOTE]
 >
->Para adicionar uma pessoa a uma Campanha Marketo a partir da Conexão de Vendas, a Conexão de Vendas deve ter a ID de cliente potencial Marketo da pessoa.
+>Para adicionar uma pessoa a uma campanha do Marketo a partir do Sales Connect, o Sales Connect deve ter a ID de cliente potencial do Marketo da pessoa.
 
-1. Clique na lista suspensa Espaços de trabalho e escolha o espaço de trabalho que contém a campanha à qual deseja adicionar o grupo.
+1. Clique na lista suspensa Espaços de trabalho e escolha o espaço de trabalho que contém a campanha à qual você deseja adicionar o grupo.
 
 PICC
 
 >[!NOTE]
 >
->Se você não visualizar o espaço de trabalho desejado, verifique se o Administrador o provisiona por meio da página Acesso à equipe da Marketo.
+>Se você não vir o espaço de trabalho desejado, verifique se o Administrador o provisiona por meio da página Acesso à equipe da Marketo.
 
-1. Selecione a campanha desejada e clique em **Próximo**.
+1. Selecione a campanha desejada e clique em **Próxima**.
 
 PICC
 
-1. Você recebe os contatos qualificados. Clique em **Iniciar** para adicioná-los.
+1. Você verá os contatos que se qualificam. Clique em **Início** para adicioná-los.
 
 PICC

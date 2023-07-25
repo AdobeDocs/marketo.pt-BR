@@ -1,19 +1,20 @@
 ---
 unique-page-id: 14352411
-description: Nunca recebeu um email de verificação - Documentos do Marketo - Documentação do produto
-title: Nunca recebeu um email de verificação
+description: Nunca recebi um email de verificação - Documentação do Marketo - Documentação do produto
+title: Nunca recebi um email de verificação
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Nunca recebeu um email de verificação {#never-received-a-verification-email}
+# Nunca recebi um email de verificação {#never-received-a-verification-email}
 
 Não recebeu o email de verificação de nós?
 
-Primeiro, verifique se não está na pasta de spam.
+Primeiro, verifique se ele não está na sua pasta de spam.
 
-Se você não encontrar o email, entre em contato com [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+Se você não encontrar o email lá, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).

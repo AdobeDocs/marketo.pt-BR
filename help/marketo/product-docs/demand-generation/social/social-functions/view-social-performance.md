@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359763
-description: Exibir o desempenho social - Documentos do Marketo - Documentação do produto
-title: Exibir o desempenho social
+description: Exibir desempenho social - Documentação do Marketo - Documentação do produto
+title: Exibir desempenho social
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 1%
 
 ---
 
-# Exibir o desempenho social {#view-social-performance}
+# Exibir desempenho social {#view-social-performance}
 
-Veja as atividades sociais geradas pelos seus aplicativos sociais. O Painel Social fornece informações sobre as várias interações sociais geradas pelos aplicativos sociais e permite que você acompanhe o desempenho de um aplicativo social.
+Veja as atividades sociais geradas pelos seus aplicativos sociais. O Painel social fornece informações sobre as várias interações sociais geradas pelos seus aplicativos sociais e permite rastrear o desempenho de um aplicativo social.
 
 >[!AVAILABILITY]
 >
@@ -36,39 +37,39 @@ Veja as atividades sociais geradas pelos seus aplicativos sociais. O Painel Soci
 
    >[!NOTE]
    >
-   >Se você selecionar **Últimas 24 horas**, as métricas são calculadas a cada hora, na parte superior da hora. Para todos os outros intervalos, as métricas são executadas diariamente, à meia-noite do dia anterior.
+   >Se você selecionar **Últimas 24 horas**, as métricas são calculadas por hora, no topo da hora. Para todos os outros intervalos, as métricas são executadas diariamente, à meia-noite do dia anterior.
 
-1. Use o **Funil social** para revisar a progressão social e a eficácia de sua promoção.
+1. Use o **Funil social** para analisar a progressão social e a eficácia de sua promoção.
 
-   * **Visitas da campanha**: O número de vezes que o prospeto carrega uma página que contém seu aplicativo social.
-   * **Interações**: O número de vezes que os clientes potenciais interagiram com o aplicativo social, como se inscrever em um [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), votando numa [enquete](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), [compartilhamento de um vídeo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), etc.
-   * **Compartilhamentos**: O número de vezes que os clientes em potencial compartilham uma mensagem em sua rede social pelo aplicativo social.
-   * **Cliques Resultantes**: O número de vezes que os prospetos clicaram em links em compartilhamentos do aplicativo social.
-   * **Registro**: O número de prospetos que se inscrevem na promoção após seguir um link compartilhado de volta ao aplicativo.
+   * **Visitas da campanha**: o número de vezes que os clientes potenciais carregam uma página que contém seu aplicativo social.
+   * **Interações**: O número de vezes que os clientes potenciais interagiram com seu aplicativo social, como ao se inscreverem em um [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), votando em [enquete](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), [compartilhamento de um vídeo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), etc.
+   * **Compartilhamento**: o número de vezes que os clientes potenciais compartilham uma mensagem com a rede social do aplicativo social.
+   * **Cliques resultantes**: o número de vezes que os clientes potenciais clicaram em links em compartilhamentos do aplicativo social.
+   * **Registro**: o número de prospetos que se inscrevem na promoção depois de seguir um link compartilhado de volta para o aplicativo.
 
    >[!NOTE]
    >
-   >Visitas a uma página com vários aplicativos sociais contam como uma visita para cada. Visitas a várias páginas no mesmo aplicativo contam como uma visita. Visitas após mais de 30 minutos, ou uma reinicialização do navegador, são contadas como novas.
+   >As visitas a uma página com vários aplicativos sociais contam como uma visita para cada. Visitas a várias páginas no mesmo aplicativo contam como uma visita. As visitas após mais de 30 minutos ou a reinicialização do navegador são contadas como novas.
 
    ![](assets/image2014-9-23-17-3a11-3a16.png)
 
-1. Use o **Público** painel para analisar como seus prospetos estão ajudando você a obter a palavra.
+1. Use o **Público** painel para analisar como seus clientes potenciais estão ajudando você a divulgar o que foi dito.
 
-   * **Total de perfis**: O número total de prospetos que entraram em redes sociais pelo aplicativo social.
-   * **Influenciadores**: O número de clientes potenciais que geraram pelo menos um clique resultante de um compartilhamento de aplicativo.
-   * **Alcance social**: A soma de todas as conexões de clientes potenciais. Para clientes potenciais que compartilham com as redes sociais, esse é o número de amigos que eles têm no momento em que compartilharam do aplicativo social. Para compartilhamento de email, esse é o número de recipients do email gerado pelo aplicativo.
-   * **Impressões sociais**: O número total de vezes que seu aplicativo social foi exibido nos feeds de conexões de prospetos.
+   * **Total de perfis**: o número total de clientes potenciais que entraram em redes sociais pelo aplicativo social.
+   * **Influenciadores**: o número de clientes potenciais que geraram pelo menos um clique resultante de um compartilhamento de aplicativo.
+   * **Alcance social**: a soma de todas as conexões do cliente potencial. Para prospetos que compartilham em redes sociais, esse é o número de amigos que eles têm no momento em que compartilharam do seu aplicativo social. Para compartilhamento de email, esse é o número de recipients do email que eles geram pelo seu aplicativo.
+   * **Impressões sociais**: o número total de vezes que o aplicativo social apareceu nos feeds das conexões de prospetos.
 
    ![](assets/image2014-9-23-17-3a11-3a26.png)
 
 1. Use o **Compartilhar métricas** painel para analisar a atividade social agregada gerada pelo aplicativo social.
 
-   * **Taxa de compartilhamento**: A porcentagem de visitas ao seu aplicativo que geram um compartilhamento.
-   * **Taxa de Clickback**: O número de cliques resultantes por compartilhamento.
-   * **Incentivo social**: A proporção de visitas ao seu aplicativo (proveniente do link em compartilhamentos) com o número de visitas não sociais (de fontes diferentes do aplicativo social).
+   * **Taxa de participação**: a porcentagem de visitas ao aplicativo que gera um compartilhamento.
+   * **Taxa de cliques**: O número de cliques resultantes por ação.
+   * **Lift Social**: a proporção de visitas ao aplicativo (provenientes do link em compartilhamentos) para o número de visitas não sociais (de fontes diferentes do aplicativo social).
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 
 >[!MORELIKETHIS]
 >
->Você também pode usar acionadores e filtros para ver quem está compartilhando seu conteúdo e interagindo com seus aplicativos sociais, para que você possa agir com essas interações. Consulte [Usar acionadores e filtros para atividades sociais](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+>Você também pode usar acionadores e filtros para ver quem está compartilhando seu conteúdo e interagindo com seus aplicativos sociais para que você possa agir nessas interações. Consulte [Usar acionadores e filtros para atividades sociais](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).

@@ -1,24 +1,25 @@
 ---
 unique-page-id: 12980785
-description: Notas de versão - Aprimoramentos do ABM de agosto de 2017 - Documentos do Marketo - Documentação do produto
-title: Notas de versão - Aprimoramentos do ABM em agosto de 2017
+description: Notas de versão - Aprimoramentos do ABM de agosto de 17 - Documentação do Marketo - Documentação do produto
+title: Notas de versão - Aprimoramentos do ABM de agosto de 2017
 exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 2%
 
 ---
 
-# Notas de versão: Aprimoramentos do ABM em 17 de agosto {#release-notes-august-abm-enhancements}
+# Notas de versão: aprimoramentos da ABM de agosto de 2017 {#release-notes-august-abm-enhancements}
 
-Os seguintes recursos estão incluídos na versão de aprimoramento do ABM de 17 de agosto. Verifique sua edição do Marketo para ver a disponibilidade dos recursos.
+Os recursos a seguir estão incluídos na versão de aprimoramento da ABM de agosto de 2017. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 
-Clique nos links de título para exibir os artigos detalhados de cada recurso.
+Clique nos links de título para exibir artigos detalhados para cada recurso.
 
 ## Account Insight {#account-insight}
 
-**[Insight da conta](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** O é um plug-in do Google Chrome que exibe o ABM acionável e os insights da conta para suas equipes de vendas, permitindo que elas trabalhem em conjunto com o marketing para envolver as contas de maneira eficaz. As equipes de vendas obterão visibilidade sobre os dados e insights gerados para cada uma das contas nomeadas de sua propriedade. Isso incluirá percentis de pontuação de conta, uma lista priorizada de suas Contas Nomeadas, pessoas envolvidas nessas contas e um fluxo de atividades ativas de atividades recentes da conta.
+**[Insight da conta](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** O é um plug-in do Google Chrome que apresenta ABM e insights de conta acionáveis às suas equipes de vendas, permitindo que elas trabalhem em conjunto com o marketing para envolver contas de maneira eficaz. As equipes de vendas terão visibilidade dos dados e insights gerados para cada uma das contas nomeadas que possuem. Isso incluirá percentis de pontuação da conta, uma lista priorizada de suas contas nomeadas, pessoas engajadas nessas contas e um fluxo de atividades online de atividades recentes da conta.
 
 ![](assets/image001.png) ![](assets/image002.png)
 
@@ -26,6 +27,6 @@ Clique nos links de título para exibir os artigos detalhados de cada recurso.
 
 ## [Listas dinâmicas de contas](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
 
-Estamos adicionando uma nova maneira de criar listas de conta no ABM. Além das listas de contas existentes, agora é possível criar listas de contas dinâmicas que são geradas a partir de Exibições de conta CRM públicas. Uma Exibição de conta do CRM é um conjunto de regras que atua como um filtro ao exibir contas. Por exemplo, você pode usá-lo para encontrar contas em que a Indústria é da Saúde _e_ A receita está acima de US$ 100 milhões.
+Estamos adicionando uma nova maneira de criar listas de contas no ABM. Além das listas de contas existentes, agora é possível criar listas de contas dinâmicas geradas de Exibições de Contas públicas do CRM. Uma Exibição de conta do CRM é um conjunto de regras que atua como filtro ao exibir contas. Por exemplo, você pode usá-lo para encontrar contas em que o setor é da área de saúde _e_ A receita é superior a US$ 100 milhões.
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147009
-description: Mudar o sucesso do programa - Documentos do Marketo - Documentação do produto
+description: Sucesso do programa de alterações - Documentação do Marketo - Documentação do produto
 title: Alterar sucesso do programa
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 6%
@@ -14,7 +15,7 @@ ht-degree: 6%
 
 ## Visão geral {#overview}
 
-Se você tiver um grupo de pessoas marcadas com Êxito do programa acidentalmente, poderá usar esta etapa do fluxo para definir o sucesso como verdadeiro ou falso.
+Se você tiver um grupo de pessoas marcadas com Êxito do programa acidentalmente, poderá usar essa etapa do fluxo para definir o sucesso como verdadeiro ou falso.
 
 ![](assets/image2014-9-22-14-3a45-3a8.png)
 
@@ -24,24 +25,24 @@ Se você tiver um grupo de pessoas marcadas com Êxito do programa acidentalment
 
    >[!NOTE]
    >
-   >Apenas os membros do programa serão afetados.
+   >Somente os membros do programa serão afetados.
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Selecionar **Sucesso** ou **Data de sucesso** como Atributo.
+1. Selecionar **Sucesso** ou **Data de sucesso** como o Atributo.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
    >[!NOTE]
    >
-   >Configurar a Data de sucesso para qualquer item que define o Sucesso automaticamente como true. Configurar Sucesso como true automaticamente define a Data de Sucesso como a data atual.
+   >Configurar a data de sucesso como qualquer valor define automaticamente a data de sucesso como verdadeira. Configurar Êxito como verdadeiro define automaticamente a Data de Êxito como a data atual.
 
-1. Defina as **Novo valor** para **Verdadeiro** ou **Falso**.
+1. Defina o **Novo Valor** para **True** ou **Falso**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 
    >[!TIP]
    >
-   >Você pode usar a etapa de fluxo duas vezes para definir o sinalizador de sucesso e a data.
+   >Você pode usar a etapa de fluxo duas vezes para definir o sinalizador Sucesso, bem como a data.
 
 Ótimo! Agora você sabe como desfazer e forçar o sucesso.

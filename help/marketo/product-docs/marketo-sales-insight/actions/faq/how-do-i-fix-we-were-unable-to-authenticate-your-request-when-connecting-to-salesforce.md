@@ -1,31 +1,32 @@
 ---
-description: Como Corrigir "Não Conseguimos Autenticar Sua Solicitação" Ao Conectar-Se Ao Salesforce - Documentos Marketo - Documentação Do Produto
-title: Como Corrigir "Não Foi Possível Autenticar Sua Solicitação" Ao Conectar-Se Ao Salesforce
+description: Como corrijo "Não foi possível autenticar sua solicitação" ao me conectar ao Salesforce - Documentação do Marketo - Documentação do produto
+title: Como corrijo "Não foi possível autenticar sua solicitação" ao me conectar ao Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-# Como Corrigir &quot;Não Foi Possível Autenticar Sua Solicitação&quot; Ao Conectar-Se Ao Salesforce {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
+# Como corrijo &quot;Não foi possível autenticar sua solicitação&quot; ao me conectar ao Salesforce {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-Se você receber a mensagem de erro &quot;Não foi possível autenticar sua solicitação&quot; ao tentar conectar Ações do Sales Insight ao Salesforce, pode haver uma restrição no acesso à API do Salesforce. Verifique com seu administrador do Salesforce para garantir que os itens a seguir estejam em vigor.
+Se você receber a mensagem de erro &quot;Não foi possível autenticar sua solicitação&quot; ao tentar conectar as ações do Sales Insight ao Salesforce, poderá haver uma restrição no seu acesso à API do Salesforce. Consulte o administrador do Salesforce para verificar se os itens a seguir estão em vigor.
 
-## Habilitar API nas Permissões do usuário {#enable-api-in-user-permissions}
+## Habilitar API em Permissões do usuário {#enable-api-in-user-permissions}
 
-1. Faça logon de Administrador do Salesforce no SFDC.
+1. Peça a um administrador do Salesforce que faça logon no SFDC.
 1. Selecionar **Configuração**.
 1. Selecionar **Gerenciar usuários**.
 1. Selecionar **Perfis**.
-1. Encontre o Perfil em que os usuários do ToutApp estão e clique em **Editar**.
-1. Role para baixo até **Permissões administrativas** e **API habilitada** está marcada.
+1. Localize o Perfil em que estão os usuários do ToutApp e clique em **Editar**.
+1. Role para baixo até **Permissões administrativas** e verifique se **API habilitada** está marcado.
 
-## Verifique se o Salesforce está bloqueando a conexão de ações de insight de vendas {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
+## Verifique se o Salesforce está bloqueando a conexão das ações do Sales Insight {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
 
-1. Faça logon de Administrador do Salesforce no SFDC.
+1. Peça a um administrador do Salesforce que faça logon no SFDC.
 1. Selecionar **Configuração**.
 1. Selecionar **Gerenciar aplicativos**.
-1. Selecionar **Uso de OAuth para aplicativos conectados**.
-1. Certifique-se de que as Ações de insight de vendas mostram &quot;Bloco&quot; ao lado dele. Se você vir &quot;Desbloquear&quot;, clique no botão para desbloquear o acesso das Ações de insight de vendas ao Salesforce.
+1. Selecionar **Uso do OAuth de aplicativos conectados**.
+1. Certifique-se de que as Ações do Sales Insight mostrem &quot;Bloquear&quot; ao lado dele. Se você vir &quot;Desbloquear&quot;, clique no botão para desbloquear o acesso das Ações do Sales Insight ao Salesforce.

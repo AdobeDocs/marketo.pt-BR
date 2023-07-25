@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7511980
-description: Salvar um relatório - Documentos do Marketo - Documentação do produto
+description: Salvar um relatório - Documentação do Marketo - Documentação do produto
 title: Salvar um relatório
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -12,9 +13,9 @@ ht-degree: 0%
 
 # Salvar um relatório {#save-a-report}
 
-Às vezes, pode ser necessário salvar um relatório padrão para exibi-lo novamente mais tarde. Veja como fazer isso:
+Às vezes, pode ser necessário salvar um relatório padrão para visualizá-lo novamente mais tarde. Veja como fazer isso:
 
-1. Vá para o **Analytics** área.
+1. Vá para a **Analytics** área.
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
-   Legal! Seu relatório salvo será exibido na árvore.
+   Legal! O relatório salvo agora aparecerá na árvore.
 
    ![](assets/image2015-4-21-11-3a12-3a40.png)
 

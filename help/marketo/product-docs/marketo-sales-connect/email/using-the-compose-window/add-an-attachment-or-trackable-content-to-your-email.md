@@ -1,9 +1,10 @@
 ---
 unique-page-id: 37356587
-description: Adicionar um anexo ou conteúdo rastreável ao seu email - Documentos do Marketo - Documentação do produto
+description: Adicionar um anexo ou conteúdo rastreável ao seu email - Documentação do Marketo - Documentação do produto
 title: Adicionar um anexo ou conteúdo rastreável ao seu email
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -16,15 +17,15 @@ Ao enviar um email por meio do Sales Connect, você tem a opção de adicionar u
 
 >[!NOTE]
 >
->Normalmente, qualquer arquivo acima de 20 MB será muito grande para ser entregue. O tamanho de um anexo que pode ser enviado por email varia dependendo do canal de delivery de email que você está usando.
+>Normalmente, qualquer arquivo com mais de 20 MB será muito grande para ser entregue. O tamanho de um anexo que você pode enviar por email varia de acordo com o canal de delivery de email que você está usando.
 
 ## Adicionar um anexo {#add-an-attachment}
 
-1. Criar seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
+1. Criar seu rascunho de email (há várias maneiras de fazer isso, neste exemplo estamos escolhendo **Compor** no cabeçalho).
 
    ![](assets/one-4.png)
 
-1. Preencha o campo Para e insira um Assunto.
+1. Preencha o campo Para e informe um Assunto.
 
    ![](assets/attach-two.png)
 
@@ -38,23 +39,23 @@ Ao enviar um email por meio do Sales Connect, você tem a opção de adicionar u
 
    >[!NOTE]
    >
-   >Se precisar fazer upload de um arquivo, clique no botão **Upload de conteúdo** no canto superior direito da janela.
+   >Se precisar fazer upload de um arquivo, clique no link **Fazer upload de conteúdo** no canto superior direito da janela.
 
    ![](assets/attach-five.png)
 
-O anexo é exibido na parte inferior do email.
+O anexo aparece na parte inferior do email.
 
 ## Adicionar conteúdo rastreável {#add-trackable-content}
 
-1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo a janela Compor).
+1. Criar seu rascunho de email (há várias maneiras de fazer isso; neste exemplo, estamos escolhendo a janela Compor ).
 
    ![](assets/one-4.png)
 
-1. Preencha o campo Para e insira um Assunto.
+1. Preencha o campo Para e informe um Assunto.
 
    ![](assets/two-4.png)
 
-1. Clique no ponto do email em que deseja que o conteúdo rastreável seja exibido e clique no ícone de anexo.
+1. Clique no ponto no e-mail em que deseja que o conteúdo rastreável apareça e clique no ícone de anexo.
 
    ![](assets/three-4.png)
 
@@ -64,12 +65,12 @@ O anexo é exibido na parte inferior do email.
 
    >[!NOTE]
    >
-   >Se precisar fazer upload de um arquivo, clique no botão **Upload de conteúdo** no canto superior direito da janela.
+   >Se precisar fazer upload de um arquivo, clique no link **Fazer upload de conteúdo** no canto superior direito da janela.
 
-   O conteúdo aparece como um link no seu email. O recipient pode clicar no link para baixar o conteúdo.
+   O conteúdo aparece como um link em seu email. O recipient pode clicar no link para baixar o conteúdo.
 
    ![](assets/five-2.png)
 
    >[!NOTE]
    >
-   >Os usuários serão notificados no Feed ativo quando as pessoas estiverem visualizando seu conteúdo rastreado. Os usuários também podem ver o conteúdo de maior desempenho na seção de conteúdo da página do Analytics.
+   >Os usuários serão notificados no Feed ao vivo quando as pessoas estiverem visualizando o conteúdo rastreado. Os usuários também podem ver o conteúdo de maior desempenho na seção de conteúdo da página do Analytics.

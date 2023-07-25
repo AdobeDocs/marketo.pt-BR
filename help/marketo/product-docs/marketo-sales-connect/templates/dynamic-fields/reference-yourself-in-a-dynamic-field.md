@@ -1,19 +1,20 @@
 ---
 unique-page-id: 14352601
-description: Referencie-se em um campo dinâmico - Documentos do Marketo - Documentação do produto
-title: Referencie-se em um campo dinâmico
+description: Faça referência a si mesmo em um campo dinâmico - Documentação do Marketo - Documentação do produto
+title: Fazer referência a si mesmo em um campo dinâmico
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-# Referencie-se em um campo dinâmico {#reference-yourself-in-a-dynamic-field}
+# Fazer referência a si mesmo em um campo dinâmico {#reference-yourself-in-a-dynamic-field}
 
 Campos dinâmicos são nossa forma de mala direta.
 
-Nós permitimos que você personalize seus modelos de email com atributos predefinidos, como `{{my_name}}` ou `{{my_title}}`. Esses campos permitem que você faça referência a si mesmo rapidamente em seus modelos de email.
+Permitimos personalizar seus modelos de email com atributos predefinidos, como `{{my_name}}` ou `{{my_title}}`. Esses campos permitem que você faça referência a si mesmo rapidamente nos modelos de email.
 
-Para adicionar um campo dinâmico de autoreferência a um modelo, basta selecionar o campo que deseja usar no **Campos dinâmicos do MSE** no editor de modelos.
+Para adicionar um campo dinâmico autorreferenciável a um modelo, basta selecionar aquele que deseja usar na lista suspensa **Campos dinâmicos do MSE** no editor de modelos.

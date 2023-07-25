@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359654
-description: Alterar o idioma de um formulário - Documentos do Marketo - Documentação do produto
+description: Alterar o idioma de um formulário - Documentação do Marketo - Documentação do produto
 title: Alterar o idioma de um formulário
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
-source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -26,11 +27,11 @@ Saiba como alterar o idioma do formulário.
 
    ![](assets/change-the-language-of-a-form-3.png)
 
-1. Selecione o **Idioma do formulário**.
+1. Selecione o desejado **Idioma do formulário**.
 
    ![](assets/change-the-language-of-a-form-4.png)
 
-   ETAPA OPCIONAL: Escolha a Localidade/Região do idioma selecionado.
+   ETAPA OPCIONAL: escolha a localidade/região do idioma selecionado.
 
    ![](assets/change-the-language-of-a-form-5.png)
 
@@ -44,13 +45,13 @@ Saiba como alterar o idioma do formulário.
 
    >[!NOTE]
    >
-   >O formulário deve ser aprovado para ser usado nas landing pages.
+   >O formulário deve ser aprovado para ser usado em landing pages.
 
    >[!TIP]
    >
-   >Lembrar de [aprovar a landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) rascunho criado pelas alterações de formulário.
+   >Lembre-se de [aprovar a landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) rascunho criado pelas alterações de formulário.
 
-O formulário agora refletirá o idioma selecionado.
+O formulário refletirá o idioma selecionado.
 
 ![](assets/change-the-language-of-a-form-8.png)
 

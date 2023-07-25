@@ -1,17 +1,18 @@
 ---
 unique-page-id: 14352549
-description: O Gmail Não Está Recebendo Assinatura De Conexão De Vendas - Documentos Do Marketo - Documentação Do Produto
-title: O Gmail Não Puxa A Assinatura Da Conexão De Vendas
+description: O Gmail Não Está Recebendo A Assinatura Do Sales Connect - Documentação Do Marketo - Documentação Do Produto
+title: O Gmail Não Está Recebendo A Assinatura Do Sales Connect
 exl-id: 33edf360-58bf-4d5a-a7a5-4912b717865f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# O Gmail Não Puxa A Assinatura Da Conexão De Vendas {#gmail-not-pulling-in-sales-connect-signature}
+# O Gmail Não Está Recebendo A Assinatura Do Sales Connect {#gmail-not-pulling-in-sales-connect-signature}
 
-Na verdade, usamos sua assinatura Gmail no Gmail, em vez de inserir seu [Assinatura da Conexão de Vendas](https://toutapp.com/next#settings).
+Na verdade, usamos sua assinatura do Gmail no Gmail, em vez de inserir sua [Assinatura do Sales Connect](https://toutapp.com/next#settings).
 
-Você pode editar sua assinatura no Gmail [here](https://mail.google.com/mail/u/0/#settings/general).
+Você pode editar sua assinatura no Gmail [aqui](https://mail.google.com/mail/u/0/#settings/general).

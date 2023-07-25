@@ -1,8 +1,9 @@
 ---
-description: Domínios bloqueados - Documentos do Marketo - Documentação do produto
+description: Domínios bloqueados - Documentação do Marketo - Documentação do produto
 title: Domínios bloqueados
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 4%
@@ -11,17 +12,17 @@ ht-degree: 4%
 
 # Domínios bloqueados {#blocked-domains}
 
-Ajude sua equipe de vendas a obter sucesso, evitando que ela envie emails acidentalmente de concorrentes, armadilhas de spam conhecidas ou qualquer outro domínio que você não deseja contatar.
+Ajude sua equipe de vendas a obter sucesso, evitando que ela envie emails para concorrentes, interceptações de spam conhecidas ou qualquer outro domínio que você não queira contatar.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. No aplicativo Web, clique no ícone de engrenagem e selecione **Configurações**.
+1. No aplicativo web, clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/blocked-domains-1.png)
 
-1. Em Configurações de administração, clique em **Geral**.
+1. Em Configurações do administrador, clique em **Geral**.
 
    ![](assets/blocked-domains-2.png)
 
@@ -31,4 +32,4 @@ Ajude sua equipe de vendas a obter sucesso, evitando que ela envie emails aciden
 
    >[!NOTE]
    >
-   >Os emails que fazem parte de um envio de email de grupo que falhar devido ao envio para um domínio de email bloqueado falharão silenciosamente e não aparecerão na pasta de email com falha.
+   >Os e-mails que fazem parte de um envio de E-mail de grupo que falhar devido ao envio para um domínio de e-mail bloqueado falharão silenciosamente e não aparecerão na pasta de e-mails com falha.

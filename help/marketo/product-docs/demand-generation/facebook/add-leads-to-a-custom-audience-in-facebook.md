@@ -1,48 +1,48 @@
 ---
 unique-page-id: 11376700
-description: Adicionar leads a um público-alvo personalizado no Facebook - Documentos do Marketo - Documentação do produto
-title: Adicionar leads a um público-alvo personalizado no Facebook
+description: Adicionar clientes em potencial a um público-alvo personalizado no Facebook - Documentação do Marketo - Documentação do produto
+title: Adicionar clientes em potencial a um público-alvo personalizado no Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 1%
 
 ---
 
-# Adicionar leads a um público-alvo personalizado no Facebook {#add-leads-to-a-custom-audience-in-facebook}
+# Adicionar clientes em potencial a um público-alvo personalizado no Facebook {#add-leads-to-a-custom-audience-in-facebook}
 
 Já tem um público-alvo personalizado no Facebook e deseja adicionar mais leads a ele? Veja como.
 
 >[!PREREQUISITES]
 >
 >* [Criar um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [Aceitar termos de público-alvo personalizados do Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) na sua conta do Facebook.
+>* [Aceitar os termos de públicos-alvo personalizados da Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) na sua conta do Facebook.
 >
 
-
-1. Localize e selecione a lista inteligente ou estática que contém os leads que você deseja adicionar.
+1. Localize e selecione a lista inteligente ou estática que contém os clientes em potencial que deseja adicionar.
 
    ![](assets/one.png)
 
-1. Selecione o **Clientes potenciais** e, em seguida, clique na guia **Enviar via Ad Bridge** na parte inferior.
+1. Selecione o **Clientes potenciais** e, em seguida, clique na guia **Enviar via Ponte de Anúncios** ícone na parte inferior.
 
    ![](assets/two-1.png)
 
-1. Selecionar **Facebook** e clique em **Próximo**.
+1. Selecionar **Facebook** e clique em **Próxima**.
 
    ![](assets/three.png)
 
-1. Clique no botão **Público** , selecione o público-alvo ao qual deseja adicionar os leads e clique em **Atualizar**.
+1. Clique em **Público** selecione o público ao qual deseja adicionar os leads e clique em **Atualizar**.
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**Adicionar leads ao público-alvo**: somente os públicos-alvo da Facebook com um subtipo personalizado estarão disponíveis.\
-   >**Remover leads do público**: remove os leads em sua lista estática ou inteligente de um público-alvo da Facebook.
+   >**Adicionar clientes em potencial ao público**: somente os públicos-alvo da Facebook com um subtipo personalizado estarão disponíveis.\
+   >**Remover clientes em potencial do público**: remove os clientes em potencial na sua lista estática ou inteligente de um público-alvo do Facebook.
 
-1. Quando concluído, o status será atualizado.
+1. Quando terminar, o status será atualizado.
 
    ![](assets/five-1.png)
 

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 18317367
-description: Exibir a lista de campanhas como outro usuário - Documentos do Marketo - Documentação do produto
+description: Visualizar a lista de campanhas como outro usuário - Documentação do Marketo - Documentação do produto
 title: Exibir a lista de campanhas como outro usuário
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Exibir a lista de campanhas como outro usuário {#view-campaigns-list-as-another-user}
 
-Como Administrador, você pode visualizar as campanhas como qualquer usuário.
+Como administrador, você pode visualizar campanhas como qualquer usuário.
 
 >[!NOTE]
 >
@@ -22,7 +23,7 @@ Como Administrador, você pode visualizar as campanhas como qualquer usuário.
 
    ![](assets/one-5.png)
 
-1. Clique no botão **Exibir como** e selecione o usuário desejado.
+1. Clique em **Exibir como** e selecione o usuário desejado.
 
    ![](assets/two-4.png)
 

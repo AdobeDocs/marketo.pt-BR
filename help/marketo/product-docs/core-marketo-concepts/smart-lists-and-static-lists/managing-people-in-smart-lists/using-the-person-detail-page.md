@@ -1,30 +1,30 @@
 ---
 unique-page-id: 2953415
-description: Usar a página de detalhes da pessoa - Documentos do Marketo - Documentação do produto
-title: Usando a Página de detalhes da pessoa
+description: Uso da página de detalhes da pessoa - Documentação do Marketo - Documentação do produto
+title: Usando a Página Detalhes da Pessoa
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 49%
 
 ---
 
-# Usando a Página de detalhes da pessoa {#using-the-person-detail-page}
+# Usando a Página Detalhes da Pessoa {#using-the-person-detail-page}
 
-A página de detalhes da pessoa contém todas as informações que a Marketo conhece sobre uma pessoa. Você pode editar dados diretamente desta página.
+A página de detalhes da pessoa contém todas as informações que o Marketo sabe sobre uma pessoa. É possível editar dados diretamente nesta página.
 
-## Página de detalhes da pessoa {#getting-to-person-detail-page}
+## Página de Detalhes da Pessoa {#getting-to-person-detail-page}
 
-Há muitas maneiras de abrir pessoas específicas. Alguns exemplos:
+Há muitas maneiras de abrir pessoas específicas. Alguns exemplos são:
 
-* No **Banco de dados**, você pode pesquisar na Localização rápida
-* Qualquer inteligente **lista** ou lista
-* **Membros** guia de um programa
-* **Exibir membros da campanha** em uma Campanha inteligente
-* Algumas **relatórios**
-
-   <br> 
+* No **Banco de dados**, você pode pesquisar na Localização Rápida
+* Qualquer **lista** ou lista
+* **Membros** de um programa
+* **Exibir membros da campanha** em uma campanha inteligente
+* Alguns **relatórios**
+  <br> 
 
 1. Clique duas vezes em qualquer pessoa ou clique uma vez na ID à esquerda.
 
@@ -34,46 +34,46 @@ Há muitas maneiras de abrir pessoas específicas. Alguns exemplos:
 
    ![](assets/two-5.png)
 
-## Organização de página - Salesforce {#page-organization-salesforce}
+## Organização da página - Salesforce {#page-organization-salesforce}
 
 As informações de pessoa são categorizadas nas seguintes guias:
 
-| Tabulação | Descrição |
+| Guia | Descrição |
 |---|---|
 | Informações | Informações de contato e campos personalizados sobre uma pessoa. |
 | Informações da empresa | Informações e endereço da empresa da pessoa. |
-| Informações da oportunidades | Informações de oportunidade sincronizadas do Salesforce. |
-| SFDC - Campo do lead | Campos incorporados do Salesforce. |
-| Campo Personalizado SFDC | Campos personalizados do Salesforce. |
+| Informações da oportunidades | Informações da oportunidade sincronizadas do Salesforce. |
+| SFDC - Campo do lead | Campos Salesforce integrados. |
+| Campo personalizado SFDC | Campos personalizados do Salesforce. |
 | Registro de atividades | Todas as atividades relacionadas à pessoa. |
 
-## Organização de página - Microsoft Dynamics {#page-organization-microsoft-dynamics}
+## Organização da página - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
-| Tabulação | Descrição |
+| Guia | Descrição |
 |---|---|
 | Informações | Informações de contato e campos personalizados sobre uma pessoa. |
 | Informações da empresa | Informações e endereço da empresa da pessoa. |
 | Informações da oportunidades | Informações da oportunidade sincronizadas do Microsoft. |
-| Campos personalizados da Microsoft | Campos Microsoft personalizados. |
+| Campos personalizados da Microsoft | Campos personalizados do Microsoft. |
 | Campo de leads da Microsoft | Campos integrados do Microsoft. |
 | Registro de atividades | Todas as atividades relacionadas à pessoa. |
 
 >[!NOTE]
 >
->Você também pode ver informações da Oportunidade [inserido via API](https://developers.marketo.com/rest-api/lead-database/opportunities/) para instâncias que não estão sincronizadas com um CRM.
+>Você também pode ver as informações da oportunidade [inserido por meio da API](https://developers.marketo.com/rest-api/lead-database/opportunities/) para instâncias não sincronizadas com um CRM.
 
-## Editar um campo {#editing-a-field}
+## Edição de um campo {#editing-a-field}
 
 Muitos campos são editáveis. Para atualizar as informações de uma pessoa, digite um novo valor e clique fora do campo para salvar.
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## Campos padrão do Marketo anteriores à sincronização do CRM {#marketo-default-fields-prior-to-crm-sync}
+## Campos Padrão do Marketo Antes da Sincronização com o CRM {#marketo-default-fields-prior-to-crm-sync}
 
-|  |  |  |  |  |
+|   |  |  |  |  |
 |---|---|---|---|---|
 | Endereço | Receita anual | IP anônimo | Endereço de cobrança | Cidade de cobrança |
-| País de cobrança | Código postal de cobrança | Estado de cobrança | Cidade | Nome da empresa |
+| País de faturamento | Código postal de faturamento | Estado de faturamento | Cidade | Nome da empresa |
 | País | Criado em | Data de nascimento | Departamento | Não ligar |
 | Motivo para não ligar | Motivo para não ligar | Endereço de e-mail | E-mail inválido | Motivo do e-mail inválido |
 | ID da empresa externa | ID da pessoa de vendas da empresa externa | Número de fax | Nome | Nome completo |
@@ -93,15 +93,15 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 
 >[!NOTE]
 >
->Alguns campos são _not_ editável:
+>Alguns campos são _não_ editável:
 >
 >* Registro de atividades
->* Informações da empresa
->* Oportunidades para os contatos da SFDC
+>* Informações da Empresa
+>* Oportunidades para Contatos SFDC
 >* Determinados campos específicos do Marketo, como Data de criação e Tipo de origem original.
 >
->Saiba mais sobre [Campos gerenciados pelo sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Saiba mais sobre [Campos Gerenciados pelo Sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
->[Criação de uma guia personalizada para a página de detalhes da pessoa](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[Criando uma Guia Personalizada para a Página Detalhes da Pessoa](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)

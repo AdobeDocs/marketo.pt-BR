@@ -1,29 +1,30 @@
 ---
 unique-page-id: 11385183
-description: Relatório de vendas da TAM - Documentos da Marketo - Documentação do produto
-title: Relatório de Vendas TAM
+description: Relatório de vendas do TAM - Documentação do Marketo - Documentação do produto
+title: Relatório de vendas TAM
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 4%
 
 ---
 
-# Relatório de Vendas TAM {#tam-sales-report}
+# Relatório de vendas TAM {#tam-sales-report}
 
 Receba um email semanal contendo suas principais contas e suas tendências semanais.
 
 >[!NOTE]
 >
->Saiba como configurar este relatório [here](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
+>Saiba como configurar este relatório [aqui](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 O relatório compartilha:
 
 * Contas nomeadas classificadas pela pontuação de conta escolhida
-* Pessoas mais envolvidas
-* Tendências principais e momentos interessantes
-* Um link para baixar um arquivo CSV contendo detalhes adicionais
+* Pessoas mais engajadas
+* Principais tendências e momentos interessantes
+* Um link para baixar um arquivo CSV com detalhes adicionais
 
 ![](assets/tam-sales-report-1.png)
 
@@ -35,21 +36,21 @@ O relatório compartilha:
    <td><strong>Pontuação de contas</strong></td> 
    <td> 
     <div>
-      Tendência semanal por pontuação da conta (selecionada na configuração), seguida pela pontuação da conta atual 
+      Tendência semanal por pontuação de conta (selecionada na configuração), seguida pela pontuação de conta atual 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Pipeline de Vendas</strong></td> 
+   <td><strong>Pipeline de vendas</strong></td> 
    <td> 
     <div>
-      Tendência semanal por pipeline, seguida do pipeline atual total e número de oportunidades abertas 
+      Tendência semanal por pipeline, seguida pelo pipeline atual total e pelo número de oportunidades em aberto 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Visualizações de página</strong></td> 
    <td> 
     <div>
-      Tendência semanal das exibições de página, seguida pelo total de exibições de página e pelo número de visitantes únicos 
+      Tendência semanal de exibições de página, seguida pelo total de exibições de página e pelo número de visitantes únicos 
     </div></td> 
   </tr> 
   <tr> 

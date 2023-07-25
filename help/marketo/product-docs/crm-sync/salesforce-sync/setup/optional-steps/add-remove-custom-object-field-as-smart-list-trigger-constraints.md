@@ -1,32 +1,33 @@
 ---
 unique-page-id: 4719300
-description: Adicionar/remover campo de objeto personalizado como restrições de lista inteligente/acionador - Documentos do Marketo - Documentação do produto
-title: Adicionar/remover campo de objeto personalizado como restrições de lista inteligente/acionador
+description: Adicionar/remover campo de objeto personalizado como lista inteligente/restrições do acionador - Documentação do Marketo - Documentação do produto
+title: Adicionar/Remover Campo de Objeto Personalizado como Smart List/Restrições do Acionador
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-# Adicionar/remover campo de objeto personalizado como restrições de lista inteligente/acionador {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# Adicionar/Remover Campo de Objeto Personalizado como Smart List/Restrições do Acionador {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-O Marketo fornece controle de fundo sobre a sincronização de objetos personalizados do Salesforce. Isso permite selecionar os campos disponíveis como restrições em filtros de objetos personalizados e usá-los como disparadores em campanhas inteligentes.
+O Marketo fornece controle detalhado sobre a sincronização de objetos personalizados do Salesforce. Isso permite selecionar os campos disponíveis como restrições em filtros de objeto personalizados e usá-los como acionadores em campanhas inteligentes.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Clique em **Administrador**
+1. Clique em **Admin.**
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Clique em **Administrador** e depois **Sincronização de objetos do Salesforce.**
+1. Clique em **Admin** e depois **Sincronização de objetos do Salesforce.**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **Sincronização de Objetos do Salesforce** aparece na coluna da esquerda.
+1. **Sincronização de objetos do Salesforce** aparecerá na coluna à esquerda.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -38,32 +39,32 @@ O Marketo fornece controle de fundo sobre a sincronização de objetos personali
 
    >[!TIP]
    >
-   >Se a variável **Editar campos visíveis** estiver acinzentado, o objeto está sendo usado em uma lista inteligente ou campanha inteligente. Remova todas as associações para continuar.
+   >Se a variável **Editar campos visíveis** estiver acinzentado, o objeto está sendo usado atualmente em uma lista inteligente ou campanha inteligente. Remova todas as associações para continuar.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. Se a sincronização global estiver ativada, clique em **Desativar Sincronização Global**.
+1. Se a sincronização global estiver ativada, clique em **Desabilitar Sincronização Global**.
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. Marque as caixas ao lado das restrições de filtro/disparo necessárias e clique em **Salvar**.
+1. Marque as caixas ao lado das restrições de filtro/acionador necessárias e clique em **Salvar**.
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
    >[!NOTE]
    >
-   >Todos os campos são selecionados por padrão para serem restrições em filtros.
+   >Por padrão, todos os campos são selecionados para serem restrições em filtros.
 
-1. Clique no botão **Campos** para confirmar as alterações.
+1. Clique no link **Campos** para confirmar as alterações.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 
    >[!NOTE]
    >
-   >Não se esqueça de reativar sua sincronização global!
+   >Não se esqueça de reativar a sincronização global.
 
 Uau! Agora, suas listas inteligentes e campanhas inteligentes têm ainda mais poder.
 
 >[!MORELIKETHIS]
 >
->[Ativar/Desativar Sincronização de Objeto Personalizado](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
+>[Habilitar/Desabilitar a Sincronização de Objetos Personalizados](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)

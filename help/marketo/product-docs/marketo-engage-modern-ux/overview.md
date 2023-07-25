@@ -2,7 +2,8 @@
 description: Visão geral - Documentação do Marketo - Documentação do produto
 title: Visão geral
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 2%
@@ -11,38 +12,37 @@ ht-degree: 2%
 
 # Visão geral {#overview}
 
-Bem-vindo ao Adobe Marketo Engage Modern UX (experiência do usuário), uma interface atualizada que oferece usabilidade aprimorada, além de uma nova aparência na plataforma Marketo Engage.
+Bem-vindo ao Adobe Marketo Engage Modern UX (experiência do usuário), uma interface atualizada que oferece usabilidade aprimorada, juntamente com uma nova aparência na plataforma Marketo Engage.
 
 >[!PREREQUISITES]
 >
->Se sua equipe de TI restringir o acesso à Web usando uma  lista de permissões, peça para adicionar os seguintes domínios (incluindo o asterisco) para permitir todos os recursos e websockets da Marketo:
+>Se sua equipe de TI restringir o acesso à Web usando uma inclui na lista de permissões, peça que eles adicionem os seguintes domínios (incluindo o asterisco) para permitir todos os recursos e soquetes da Marketo:
 >
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
 
-
 ## Faça o tour {#take-the-tour}
 
-No primeiro logon, uma pop-up será exibida, pronta para fornecer a você o lançamento da nova experiência. Se você optar por ignorá-lo, ele irá **not** estará disponível mais tarde.
+No primeiro logon, uma janela pop-up será exibida, pronta para fornecer o resumo da nova experiência. Atenção, se você optar por ignorá-lo, ele **não** estar disponíveis posteriormente.
 
 ![](assets/overview-1.png)
 
-O tour te conduz por tudo o que você precisa saber!
+O tour o guiará por tudo o que você precisa saber!
 
 ## Novidades {#whats-new}
 
-Há muitas novas funcionalidades no UX moderno, todas projetadas para melhorar significativamente sua experiência de marketing.
+Há uma série de novas funcionalidades no UX moderno, todas projetadas para melhorar significativamente sua experiência de marketing.
 
 **Ícones**
 
-Os novos recursos da interface melhoraram e expandiram a iconografia. Saiba mais sobre eles aqui: [Ícone Glossário](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
+A nova interface apresenta uma iconografia melhorada e expandida. Saiba mais sobre eles aqui: [Ícone do Glossário](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
 ![](assets/overview-2.png)
 
 **Navegação global**
 
-Adeus superbola. Agora você tem acesso rápido a todas as seções principais do Marketo Engage.
+Adeus super bola. Agora você tem acesso rápido a todas as seções principais do Marketo Engage.
 
 ![](assets/overview-5.png)
 
@@ -52,15 +52,15 @@ Você também tem acesso rápido à sua ID do munchkin, que agora é refletida n
 
 ![](assets/overview-6.png)
 
-## Opções de Nova Árvore {#new-tree-options}
+## Novas opções de árvore {#new-tree-options}
 
-Há muitos novos recursos de árvore disponíveis.
+Há muitos recursos novos de árvore disponíveis.
 
 >[!NOTE]
 >
->Realizar uma pesquisa na árvore exibirá apenas os primeiros 250 resultados. Se, após uma pesquisa, você não conseguir localizar seu ativo, use a variável [Pesquisa global](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) .
+>Fazer uma pesquisa na árvore exibirá apenas os primeiros 250 resultados. Se, após uma pesquisa, você não conseguir localizar seu ativo, use o [Pesquisa global](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) função.
 
-**Marketo Classic em comparação ao novo Marketo**
+**Marketo Classic versus a nova Marketo**
 
 <table> 
  <tbody>
@@ -75,17 +75,17 @@ Há muitos novos recursos de árvore disponíveis.
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Rascunho e nó da árvore de aprovação combinados</td> 
+   <td>Nó de árvore de rascunho e aprovação combinado</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Criar ativos locais em pastas de programa</td> 
+   <td>Criar ativos locais em pastas de programas</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Clique duas vezes para expandir/recolher nós de árvore</td> 
+   <td>Clique duas vezes para expandir/recolher os nós de árvore</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td>  
   </tr>
@@ -105,7 +105,7 @@ Há muitos novos recursos de árvore disponíveis.
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Destaque o plano de fundo para mostrar a hierarquia no estado de foco</td> 
+   <td>Realçar plano de fundo para mostrar hierarquia no estado de foco</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -120,7 +120,7 @@ Há muitos novos recursos de árvore disponíveis.
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Estado do mouse sobre nós de árvore</td> 
+   <td>Estado de passagem do mouse dos nós de árvore</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -130,7 +130,7 @@ Há muitos novos recursos de árvore disponíveis.
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Recolher rapidamente no nó raiz</td> 
+   <td>Recolher rapidamente para o nó raiz</td> 
    <td></td> 
    <td><strong>X</strong></td>  
   </tr>
@@ -145,12 +145,12 @@ Há muitos novos recursos de árvore disponíveis.
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>Pesquisar em pastas arquivadas</td> 
+   <td>Pesquisar nas pastas arquivadas</td> 
    <td></td> 
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Sequência de pesquisa salva ao inserir a pesquisa global a partir da pesquisa em árvore</td> 
+   <td>String de pesquisa salva ao inserir pesquisa global da pesquisa em árvore</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -165,7 +165,7 @@ Há muitos novos recursos de árvore disponíveis.
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>Lógica de pesquisa 'Palavra começa com'</td> 
+   <td>Lógica de pesquisa "O Word começa com"</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -174,7 +174,7 @@ Há muitos novos recursos de árvore disponíveis.
 
 ## Navegação global {#global-nav}
 
-Dê uma olhada na nova navegação global.
+Dê uma olhada na nova Navegação Global.
 
 ![](assets/overview-7.png)
 
@@ -182,30 +182,30 @@ Dê uma olhada na nova navegação global.
  <tbody>
   <tr>
    <td>1</td> 
-   <td>Acabou o menu suspenso da superbola</td> 
+   <td>Sem mais lista suspensa de superbolas</td> 
   </tr>
   <tr>
    <td>2</td> 
-   <td>Todos os itens de superbola anteriores listados</td> 
+   <td>Todos os itens de superball anteriores listados</td> 
   </tr>
   <tr>
   <tr>
    <td>3</td> 
-   <td>Se você tiver várias assinaturas, clique em seu subnome para alternar facilmente para outro</td> 
+   <td>Se você tiver várias assinaturas, clique no seu sub-nome para mudar facilmente para outro</td> 
   </tr>
   <tr>
    <td>4</td> 
-   <td>Pesquisa global - agora você pode pesquisar sua instância inteira daqui</td> 
+   <td>Pesquisa global - agora é possível pesquisar toda a instância aqui</td> 
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->Tudo o que costumava viver no menu suspenso da superbola ainda está disponível como um mosaico em Meu Marketo.
+>Tudo o que costumava viver no menu suspenso do superball ainda está disponível como um bloco em My Marketo.
 
 >[!TIP]
 >
->Usar a pesquisa na árvore só produzirá resultados da seção em que você está (por exemplo, Atividades de marketing). Se você quiser pesquisar sua instância inteira, use a pesquisa global.
+>Usar a pesquisa na árvore só produzirá resultados da seção em que você está (por exemplo, Atividades de marketing). Se quiser pesquisar toda a instância, use a pesquisa global.
 
-Aproveite a nova experiência do Marketo Engage!
+Aproveite a nova experiência com o Marketo Engage!

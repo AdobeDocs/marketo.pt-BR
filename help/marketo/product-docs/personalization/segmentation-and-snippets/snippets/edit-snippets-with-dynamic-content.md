@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359466
-description: Editar trechos com conteúdo dinâmico - Documentos do Marketo - Documentação do produto
+description: Editar trechos com conteúdo dinâmico - Documentação do Marketo - Documentação do produto
 title: Editar trechos com conteúdo dinâmico
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -17,16 +18,15 @@ ht-degree: 0%
 >* [Criar uma segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Criar um trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-
-Use a segmentação em trechos para gerenciar facilmente o conteúdo dinâmico em seus emails e landing pages.
+Use a Segmentação em trechos para gerenciar facilmente o conteúdo dinâmico em seus emails e landing pages.
 
 ## Adicionar segmentação {#add-segmentation}
 
-1. Vá para o **Design Studio**.
+1. Vá para a **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Clique no seu **Snippet** e depois **Editar rascunho**.
+1. Clique no seu **Trecho** e depois **Editar rascunho**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
@@ -46,12 +46,11 @@ Use a segmentação em trechos para gerenciar facilmente o conteúdo dinâmico e
 
 >[!NOTE]
 >
->Lembre-se de aprovar seu trecho antes de usá-lo.
+>Lembre-se de aprovar o trecho antes de usá-lo.
 
-Não foi simples? Agora, todos estão configurados para usar esses trechos em emails e páginas de aterrissagem.
+Não foi simples? Agora você está pronto para usar esses trechos em Emails e Landing Pages.
 
 >[!MORELIKETHIS]
 >
 >* [Adicionar um trecho a um email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
->* [Adicionar um trecho a uma página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
-
+>* [Adicionar um snippet a uma landing page](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)

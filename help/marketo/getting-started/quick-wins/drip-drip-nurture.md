@@ -3,7 +3,8 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture — Documentação do Marketo — Documentação do produto
 title: Promoção gota a gota
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 28%
@@ -20,7 +21,6 @@ Você pode criar facilmente um sistema de nutrição avançado e sofisticado no 
 >
 >* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
-
 
 ## Etapa 1: &#x200B;criar um programa de envolvimento {#step-create-an-engagement-program}
 
@@ -60,7 +60,7 @@ Você pode criar facilmente um sistema de nutrição avançado e sofisticado no 
    >
    >Não está vendo o editor de e-mail? Seu navegador provavelmente bloqueou a janela. Ativar pop-ups de `app.marketo.com` no navegador e clique em **[!UICONTROL Editar rascunho]** na barra de menu superior.
 
-1. Insira um assunto.
+1. Digite o assunto.
 
    ![](assets/drip-drip-nurture-8.png)
 

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 4718664
-description: Noções sobre o caminho de sucesso do modelo de receita - Documentos do Marketo - Documentação do produto
+description: Noções básicas sobre o caminho de sucesso do modelo de receita - Documentação do Marketo - Documentação do produto
 title: Noções sobre o caminho de sucesso do modelo de receita
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 4%
@@ -12,39 +13,39 @@ ht-degree: 4%
 
 # Noções sobre o caminho de sucesso do modelo de receita {#understanding-revenue-model-success-path}
 
-## Caminho bem-sucedido {#success-path}
+## Caminho de sucesso {#success-path}
 
-No modelo, o caminho verde também é **Caminho bem-sucedido** é o caminho ideal de como um cliente potencial transita linearmente para um negócio fechado/vencido.
+No modelo, o caminho verde também conhecido como **Caminho de sucesso** é o caminho ideal de como um lead faz a transição linear para uma empresa fechada/conquistada.
 
 ![--](assets/image2015-6-12-17-3a12-3a18.png)
 
-Exemplo de etapas em um caminho bem-sucedido:
+Exemplo de estágios em um caminho de sucesso:
 
-| **NOME DO ESTÁGIO DE CAMINHO DE SUCESSO** | **DEFINIÇÃO** |
+| **NOME DO ESTÁGIO DO CAMINHO DE SUCESSO** | **DEFINIÇÃO** |
 |---|---|
 | **Revisar novos nomes** | Revisar se novos nomes são qualificados |
-| **Cliente em potencial** | Clientes potenciais qualificados que ainda não estejam prontos para vendas |
-| **Lead** | leads qualificados para marketing (&quot;vendas prontas&quot;) |
-| **Oportunidade** | Vendas aceitas leads, trabalho ativo |
-| **Cliente** | Negociações de Won Fechadas |
+| **Cliente em potencial** | Clientes potenciais qualificados que ainda não estão prontos para vendas |
+| **Lead** | Clientes potenciais qualificados de marketing (&quot;prontos para vendas&quot;) |
+| **Oportunidade** | Clientes potenciais aceitos pelas vendas, trabalhando ativamente |
+| **Cliente** | Transações conquistadas fechadas |
 
 >[!TIP]
 >
->Verde é por dinheiro. Tudo no caminho do verde está no caminho do sucesso! É por isso que há apenas setas verdes no [Analisador de caminho bem-sucedido](using-the-success-path-analyzer.md).
+>Verde é por dinheiro. Tudo no caminho do verde está no caminho do sucesso! É por isso que há apenas setas verdes no [Analisador de caminho de sucesso](using-the-success-path-analyzer.md).
 
-## Detenções {#detours}
+## Desvios {#detours}
 
-Reconhecendo que nem todos os leads seguem um &quot;caminho de sucesso&quot; linear, você também deve definir seus &quot;estágios de desvio&quot; para capturar leads que não são qualificados ou que exigem algumas rodadas de nutrição antes de se tornarem prontos. Por exemplo:
+Reconhecendo que nem todos os leads seguem um &quot;caminho de sucesso&quot; linear, você também deve definir seus &quot;estágios de desvio&quot; para capturar leads que não são qualificados ou que exigem algumas rodadas de carinho antes de se tornarem prontos. Por exemplo:
 
-| **DETOUR STAGE NAME** | **DEFINIÇÃO** |
+| **NOME DO ESTÁGIO DE DESVIO** | **DEFINIÇÃO** |
 |---|---|
-| **Desqualificado** | Nomes marcados como perfil não interno |
-| **Inativo** | Perspectivas que não responderam |
-| **Reciclado** | Qualificado, mas precisa de mais nutrição (vinculado ao Prospecto) |
-| **Perdida** | Oportunidades perdidas (nutrição contínua) |
+| **Desqualificado** | Nomes marcados como perfil não incluído |
+| **Inativo** | Clientes potenciais que deixaram de responder |
+| **Reciclado** | Qualificado, mas precisa de mais carinho (vinculado ao cliente potencial) |
+| **Perdida** | Perda de oportunidades (cuidados contínuos) |
 
 >[!TIP]
 >
->Estes não estão no caminho verde. Esses estágios não serão mostrados no Analisador de caminho de sucesso.
+>Eles não estão no caminho verde. Esses estágios não serão mostrados no Analisador de caminho de sucesso.
 
-Ver como os leads fluirão no futuro será muito mais fácil! Diz olá ao teu novo amigo.
+Ver como os leads fluirão no futuro será muito mais fácil! Diga olá para o seu novo amiguinho.

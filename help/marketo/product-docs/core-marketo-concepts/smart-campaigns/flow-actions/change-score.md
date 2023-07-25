@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1146962
-description: Pontuação de alterações - Documentos do Marketo - Documentação do produto
+description: Pontuação de alterações - Documentação do Marketo - Documentação do produto
 title: Alterar pontuação
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
-source-git-commit: 0b1c7c7f7cd0becc17ec7636977f34a7d23ca448
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 6%
@@ -14,7 +15,7 @@ ht-degree: 6%
 
 ## Visão geral {#overview}
 
-As pessoas com pontuação são fáceis e eficientes para ajudar sua equipe de vendas a priorizar.
+Marcar pessoas é fácil e eficiente para ajudar sua equipe de vendas a priorizar.
 
 ![](assets/flowstep-changescore.png)
 
@@ -34,9 +35,9 @@ As pessoas com pontuação são fáceis e eficientes para ajudar sua equipe de v
 
    Alterações:
 
-   * **+5** incremento
-   * **-5** decremento (números negativos permitidos)
-   * **=5** fará a pontuação do número exato
-   * **=-5** fará a pontuação que representa um número negativo exato
+   * **+5** para incrementar
+   * **-5** diminuirá (números negativos permitidos)
+   * **=5** fará com que a pontuação seja o número exato
+   * **=-5** fará com que a pontuação seja exatamente um número negativo
 
 Obtenha uma pontuação básica rapidamente e ajuste os resultados ao longo do tempo. Foi o que fizemos!

@@ -1,36 +1,37 @@
 ---
 unique-page-id: 7515107
-description: Adicionar um formulário a uma página de aterrissagem guiada - Documentos do Marketo - Documentação do produto
-title: Adicionar um formulário a uma página de aterrissagem guiada
+description: Adicionar um formulário a uma página de aterrissagem guiada - Documentação do Marketo - Documentação do produto
+title: Adicionar um formulário a uma landing page guiada
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 1%
 
 ---
 
-# Adicionar um formulário a uma página de aterrissagem guiada {#add-a-form-to-a-guided-landing-page}
+# Adicionar um formulário a uma landing page guiada {#add-a-form-to-a-guided-landing-page}
 
-Formulário, atende à landing page. Landing page, formulário de encontros.
+Formulário, página de aterrissagem de reuniões. Página de aterrissagem, formulário de atendimento.
 
 >[!PREREQUISITES]
 >
->[Criar uma página de aterrissagem guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+>[Criar uma landing page guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Vá para o **Atividades de marketing** área.
+1. Vá para a **Atividades de marketing** área.
 
    ![](assets/one.png)
 
-1. Encontre e selecione sua landing page e clique em **Editar rascunho**.
+1. Localize e selecione sua página de aterrissagem e clique em **Editar rascunho**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Os elementos disponíveis nas páginas de aterrissagem guiadas são definidos pelo modelo . Se um formulário não for exibido no painel Elementos, selecione um novo modelo ou converse com o criador do modelo.
+   >Os elementos disponíveis nas páginas de aterrissagem guiadas são definidos pelo template. Se você não vir um formulário no painel Elementos, selecione um novo modelo ou fale com o criador do modelo.
 
-1. Clique duas vezes no botão **Formulário** no painel de elementos.
+1. Clique duas vezes no ícone **Formulário** no painel elemento.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -38,15 +39,15 @@ Formulário, atende à landing page. Landing page, formulário de encontros.
 
    ![](assets/image2015-5-20-15-3a44-3a35.png)
 
-1. Você tem três opções ao escolher sua página de acompanhamento:
+1. Você tem três opções ao escolher a página de acompanhamento:
 
-   * Página de aterrissagem - escolha uma página de aterrissagem do Marketo
-   * URL externo - escolha qualquer URL que desejar
-   * Definido pelo formulário - use as configurações definidas no nível do formulário
+   * Página inicial - escolha uma página inicial do Marketo
+   * External URL - escolha o URL desejado
+   * Formulário definido - use as configurações definidas no nível do formulário
 
    >[!NOTE]
    >
-   >A página de acompanhamento é a página que as pessoas verão depois de enviarem o formulário.
+   >A página de acompanhamento é a página que as pessoas verão depois de enviar o formulário.
 
 1. Neste exemplo, usaremos Formulário definido. Clique em **Inserir**.
 
@@ -56,4 +57,4 @@ Formulário, atende à landing page. Landing page, formulário de encontros.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Agora feche o editor de landing page e [aprovar o rascunho da landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Agora basta fechar o editor de landing page e [aprovar o rascunho da página de destino](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

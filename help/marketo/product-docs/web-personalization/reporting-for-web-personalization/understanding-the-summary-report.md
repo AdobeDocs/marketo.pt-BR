@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9438258
-description: Noções básicas sobre o relatório de resumo - Documentos do Marketo - Documentação do produto
+description: Noções básicas sobre o relatório de resumo - Documentação do Marketo - Documentação do produto
 title: Noções básicas sobre o relatório de resumo
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -12,44 +13,44 @@ ht-degree: 0%
 
 # Noções básicas sobre o relatório de resumo {#understanding-the-summary-report}
 
-O relatório de Resumo é uma visualização mensal de todas as campanhas e do desempenho de conteúdo recomendado. É baseado no número de cliques e no número de leads (diretos ou assistidos) que participaram da campanha personalizada ou do conteúdo recomendado e se tornaram um cliente potencial conhecido. O relatório compara os resultados com o mês anterior.
+O relatório de Resumo é uma exibição mensal de todas as campanhas e do desempenho do conteúdo recomendado. É baseado no número de cliques e no número de leads (diretos ou assistidos) que interagiram com a campanha personalizada ou o conteúdo recomendado e, em seguida, se tornaram um lead conhecido. O relatório compara os resultados do mês anterior.
 
 >[!NOTE]
 >
 >**Definição**
 >
->Conversão direta: Um visitante da Web que clica em uma campanha personalizada ou em um ativo de conteúdo recomendado e, na mesma sessão de visita, continua preenchendo qualquer formulário no site com seu endereço de email.
+>Conversão direta: um visitante da Web que clica em uma campanha personalizada ou ativo de conteúdo recomendado e na mesma sessão de visita continua a preencher qualquer formulário no site com seu endereço de email.
 >
->Conversão assistida: Um visitante da Web que preenche qualquer formulário no site e deixa seu endereço de email que, em uma visita anterior (nos últimos 6 meses), clicou em uma campanha personalizada ou em um ativo de conteúdo recomendado.
+>Conversão assistida: um visitante da Web que preenche qualquer formulário do site e deixa o endereço de email, que em uma visita anterior (nos últimos 6 meses) clicou em uma campanha personalizada ou ativo de conteúdo recomendado.
 
-Na Personalização da Web, acesse **Analytics** e **Relatório de Resumo**.
+Na Personalização da Web, acesse **Analytics** e **Relatório de resumo**.
 
 ![](assets/image2016-4-6-10-3a15-3a58.png)
 
-Selecionar **Mês** e clique em **Mostrar relatório**.
+Selecionar **Month** e clique em **Mostrar relatório**.
 
 ![](assets/2.png)
 
-A primeira parte do relatório está relacionada às campanhas Personalizadas de Personalização da Web e exibe:
+A primeira parte do relatório está relacionada às campanhas e exibições de Personalização da Web:
 
-* **Cliques** - todos os cliques em campanhas de Personalização da Web
+* **Cliques** - todos os cliques nas campanhas de Personalização da Web
 * **Conversões diretas** - todos os visitantes que clicaram em uma campanha de Personalização da Web durante a visita e preencheram um formulário
-* **Taxa de conversão direta** - a porcentagem de visitantes que se tornaram líderes diretos após clicar em uma campanha de Personalização da Web. leads diretos divididos por cliques
+* **Taxa de conversão direta** - a porcentagem de visitantes que se tornaram um lead direto depois de clicar em uma campanha de Personalização da Web. Cliques em potencial diretos divididos por cliques
 * **Conversões assistidas** - todos os visitantes que preencheram um formulário e clicaram em uma campanha de Personalização da Web em uma visita anterior (nos últimos 6 meses)
-* **Dicas** - Dicas para otimizar os desempenhos da campanha de Personalização da Web
-* **Principais campanhas** - as campanhas com melhor desempenho durante o período de tempo selecionado, ordenadas por número de cliques
+* **Dicas** - dicas para otimizar os desempenhos da campanha de Personalização da Web
+* **Principais campanhas** - as campanhas com melhor desempenho durante o período selecionado, ordenadas pelo número de cliques
 
 ![](assets/3.png)
 
-A segunda parte do relatório está relacionada ao Conteúdo recomendado no mecanismo de recomendação de conteúdo da Personalização da Web. Ele exibe:
+A segunda parte do relatório está relacionada ao Conteúdo recomendado do mecanismo de recomendação de conteúdo da Personalização da Web. Ele exibe:
 
 * **Cliques** - todos os cliques no conteúdo recomendado de Personalização da Web
 * **Conversões diretas** - todos os visitantes que clicaram no conteúdo recomendado durante a visita e preencheram um formulário
-* **Taxa de conversão direta** - a porcentagem de visitantes que se tornaram um cliente potencial direto após clicar no conteúdo recomendado. leads diretos divididos por cliques
+* **Taxa de conversão direta** - a porcentagem de visitantes que se tornaram um lead direto depois de clicar no conteúdo recomendado. Cliques em potencial diretos divididos por cliques
 * **Conversões assistidas** - todos os visitantes que preencheram um formulário e clicaram no conteúdo recomendado em uma visita anterior (nos últimos 6 meses)
-* **Dicas** - dicas para otimizar usando o mecanismo de recomendação de conteúdo
-* **Top Recommendations** - o conteúdo recomendado de melhor desempenho durante o período de tempo selecionado, ordenado por número de cliques
+* **Dicas** - dicas para otimizar usando o Mecanismo de recomendação de conteúdo
+* **Principais Recommendations** - o conteúdo recomendado com melhor desempenho durante o período selecionado, ordenado pelo número de cliques
 
 >[!NOTE]
 >
->A Personalização da Web do Marketo captura o endereço de email do visitante da Web para qualquer formulário preenchido no site. Isso é exibido na página Web Personalization Leads e é o lead usado no relatório Summary.
+>A Personalização da Web do Marketo captura o endereço de email do visitante da Web para qualquer formulário preenchido no site. Exibido na página de clientes potenciais de personalização da Web, é o cliente potencial usado no relatório de Resumo.

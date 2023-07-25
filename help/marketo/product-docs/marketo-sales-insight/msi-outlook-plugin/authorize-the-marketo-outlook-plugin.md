@@ -1,9 +1,10 @@
 ---
 unique-page-id: 11377640
-description: Autorizar o plug-in do Marketo Outlook - Marketo Docs - Documentação do produto
+description: Autorizar o plug-in do Marketo Outlook - Documentação do Marketo - Documentação do produto
 title: Autorizar o plug-in do Marketo Outlook
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Autorizar o plug-in do Marketo Outlook {#authorize-the-marketo-outlook-plugin}
 
-Para usar o plug-in Marketo MSI no Outlook, é necessário autorizá-lo.
+Para usar o plug-in MSI do Marketo no Outlook, é necessário autorizá-lo.
 
 >[!PREREQUISITES]
 >
->O plug-in já deve estar instalado e você deve ser autorizado como usuário do plug-in pelo administrador do Marketo.
+>O plug-in já deve estar instalado e você deve ser autorizado como usuário de plug-in pelo administrador do Marketo.
 
-1. Clique em um dos botões de mensagem Marketo.
+1. Clique em qualquer um dos botões de Mensagem Marketo.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Quando a caixa de diálogo Autorizar plug-in do Marketo for exibida, clique em **Código de solicitação**.
+1. Quando a caixa de diálogo Autorizar plug-in do Marketo for exibida, clique em **Código da solicitação**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
@@ -30,7 +31,7 @@ Para usar o plug-in Marketo MSI no Outlook, é necessário autorizá-lo.
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. Se o seu endereço de email padrão da conta do Outlook sair, você receberá uma chave de registro. Insira-o na janela pop-up e clique em **Enviar**.
+1. Se o email da sua conta padrão do Outlook for verificado, você receberá uma chave de registro. Insira-o na janela pop-up e clique em **Enviar**.
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 

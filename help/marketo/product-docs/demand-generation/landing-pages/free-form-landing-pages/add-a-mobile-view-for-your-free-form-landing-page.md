@@ -1,28 +1,29 @@
 ---
 unique-page-id: 4720856
-description: Adicionar uma exibição móvel para sua página de aterrissagem de forma livre - Documentos do Marketo - Documentação do produto
-title: Adicionar uma exibição móvel para sua página de aterrissagem de forma livre
+description: Adicionar uma visualização móvel para sua página de aterrissagem de formato livre - Documentação do Marketo - Documentação do produto
+title: Adicionar uma visualização móvel para sua página de aterrissagem de forma livre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 2%
 
 ---
 
-# Adicionar uma exibição móvel para sua página de aterrissagem de forma livre {#add-a-mobile-view-for-your-free-form-landing-page}
+# Adicionar uma visualização móvel para sua página de aterrissagem de forma livre {#add-a-mobile-view-for-your-free-form-landing-page}
 
-É fácil tornar suas landing pages de forma livre ótimas em um smartphone.
+É fácil fazer suas páginas de aterrissagem de forma livre parecerem ótimas em um smartphone.
 
 >[!NOTE]
 >
->A exibição móvel funciona em telas com largura de 480px (ou menos). Em outras palavras, smartphones. Veja mais [informações sobre resoluções de dispositivo](https://www.mydevice.io/).
+>A visualização móvel funciona em telas com 480 px de largura (ou menos). Em outras palavras, smartphones. Veja mais [informações sobre resoluções do dispositivo](https://www.mydevice.io/).
 
 1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecione uma landing page de formulário gratuito.
+1. Selecione uma página de aterrissagem de formato livre.
 
    ![](assets/choose-landing-page.jpg)
 
@@ -30,7 +31,7 @@ ht-degree: 2%
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Clique no botão **Celular** guia .
+1. Clique em **Dispositivo móvel** guia.
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
@@ -40,9 +41,9 @@ ht-degree: 2%
 
    >[!CAUTION]
    >
-   >Talvez seja necessário atualizar o template de forma livre. Se vir essa mensagem, leia rapidamente sobre como [tornar compatível um modelo de página de aterrissagem de forma livre existente](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
+   >Talvez seja necessário atualizar o modelo de forma livre. Se você vir essa mensagem, leia rapidamente sobre como [tornar compatível um modelo de página de aterrissagem de formato livre existente para dispositivos móveis](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. Ótimo! Agora você ativou a versão móvel da landing page. Clique em **Fechar**.
+1. Ótimo! Você ativou a versão móvel da página de aterrissagem. Clique em **Fechar**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

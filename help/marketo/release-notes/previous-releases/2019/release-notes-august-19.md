@@ -1,52 +1,53 @@
 ---
 unique-page-id: 27656786
-description: Notas de versão - agosto de 2019 - Documentos da Marketo - Documentação do produto
-title: Notas de versão - agosto de 19
+description: Notas de versão - 19 de agosto - Documentação do Marketo - Documentação do produto
+title: Notas de versão - agosto de 2019
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 4%
 
 ---
 
-# Notas de versão: Agosto de 19 {#release-notes-august}
+# Notas de versão: agosto de 19 {#release-notes-august}
 
-Os seguintes recursos estão incluídos na versão de agosto de 19. Verifique sua edição do Marketo para ver a disponibilidade dos recursos.
+Os seguintes recursos estão incluídos na versão de agosto de 2019. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 
 **_Versões trimestrais_**
 
-Os seguintes recursos foram lançados em 16 de agosto de 2019.
+Os recursos a seguir foram lançados em 16 de agosto de 2019.
 
 ## Marketo Engage principal {#core-marketo-engage}
 
-* **Estrutura de webinar extensível**: Economize tempo com a nova estrutura de webinários pronta para uso da Marketo (introduzida nas notas de versão do Winter 19) que transmite dados de provedores de webinários perfeitamente para o Marketo e vice-versa. O Crescimento e o Zoom agora estão disponíveis nessa nova estrutura.
-* **Atualização da API do Smart Campaign**: Gerencie os recursos de ciclo de vida da campanha inteligente ao concluir a interface CRUD (criar, ler, atualizar, excluir).
-* **Atualizar alteração na API de cabeçalhos de email**: A API Update Email Header não requer mais um email para ter um modelo anexado para atualizar campos de cabeçalho, como linha de assunto.
+* **Estrutura de webinar extensível**: economize tempo com a nova estrutura de webinário pronta para uso da Marketo (introduzida nas notas de versão do Winter ‘19 ) que transmite diretamente os dados dos provedores de webinários para o Marketo e vice-versa. Evento e Zoom agora estão disponíveis nessa nova estrutura.
+* **Atualização da API do Campaign inteligente**: gerencie os recursos inteligentes de ciclo de vida da campanha enquanto completamos a interface CRUD (create, read, update, delete).
+* **Atualizar Alteração na API dos Cabeçalhos de Email**: a API Atualizar cabeçalho de email não exige mais que um email tenha um modelo anexado para atualizar campos de cabeçalho, como linha de assunto.
 
 **Account-Based Marketing** ![(estrela)](assets/yellow-star.png)
 
-* **Correspondência de contas do linkedIn**, anteriormente em beta, agora está disponível no geral.
-* **AccountAI** está sendo oficialmente reformulado como **Criação de perfil da conta**.
+* **Correspondência de contas do linkedIn**, anteriormente em beta, agora está disponível no mercado.
+* **AccountAI** O está sendo oficialmente reformulado como **Criação de perfil da conta**.
 
 <br> 
 
-**_Lançamento em todo o trimestre_**
+**_Lançamento durante todo o trimestre_**
 
-Os seguintes recursos encontram-se num ciclo não trimestral e serão publicados ao longo do terceiro trimestre civil e no início do quarto trimestre de 2019.
+Os recursos a seguir estão em um ciclo não trimestral e serão lançados durante o terceiro trimestre e até o início do quarto trimestre de 2019.
 
 **Marketo Sales Connect** ![(estrela)](assets/yellow-star.png)
 
-* **Aprimoramento do layout da página Pessoas:** Gerencie pessoas e grupos por meio de importações de lista e ações em massa no novo layout de página de pessoas.
+* **Aprimoramento do layout da página de pessoas:** Gerencie pessoas e grupos por meio de importações de lista e ações em massa no novo layout da página de pessoas.
 
 >[!AVAILABILITY]
 >
->Recursos indicados por uma estrela ( ![(estrela)](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo para saber mais.
+>Recursos indicados por uma estrela ( ![(estrela)](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo para obter mais informações.
 
 >[!NOTE]
 >
->**Substituição de TLS 1.0 e 1.1**: Para nos alinharmos ao padrão de classe mundial da Adobe para segurança, estaremos descontinuando o suporte para o Transport Layer Security (TLS) 1.0 e 1.1 a partir de 13 de dezembro de 2019. A integração de sistemas com o Marketo que não são compatíveis com o protocolo 1.2 pode perder o acesso aos serviços do Marketo Engage.
+>**Substituição de TLS 1.0 e 1.1**: para alinhar-se ao padrão de classe mundial de segurança do Adobe, descontinuaremos o suporte ao TLS 1.0 e 1.1 a partir de 13 de dezembro de 2019. Os sistemas integrados com Marketo que não estiverem em conformidade com o protocolo 1.2 podem perder o acesso aos serviços de Marketo Engage.
 >
->**Para manter o acesso ao Marketo Engage, verifique se todos os sistemas clientes são compatíveis com TLS 1.2 antes de 13 de dezembro de 2019**. Você encontra informações mais detalhadas [aqui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>**Para manter o acesso ao Marketo Engage, verifique se todos os sistemas cliente são compatíveis com TLS 1.2 antes de 13 de dezembro de 2019**. Você encontra informações mais detalhadas [aqui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Webinar da versão do produto_** [Junte-se a nós](https://engage.marketo.com/August_19_Release_Webinar.html) em 28 de agosto, às 13:00PM PT / 4:00PM ET, para obter um webinário em tempo real hospedado pela nossa equipe de produtos e saber mais sobre os recursos incluídos nesta versão.
+**_Webinário de lançamento do produto_** [Junte-se a nós](https://engage.marketo.com/August_19_Release_Webinar.html) em 28 de agosto às 13h (PT) / 16h (ET) para um webinário ao vivo hospedado por nossa equipe de produtos e saiba mais sobre os recursos incluídos nesta versão.

@@ -1,18 +1,19 @@
 ---
 unique-page-id: 37357302
-description: Colunas de email e layout de página de email - Documentos do Marketo - Documentação do produto
-title: Colunas de email e layout da página de email
+description: Layout de colunas e páginas de e-mail - Documentação do Marketo - Documentação do produto
+title: Colunas de e-mail e layout da página de e-mail
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '506'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
-# Colunas de email e layout da página de email {#email-columns-and-email-page-layout}
+# Colunas de e-mail e layout da página de e-mail {#email-columns-and-email-page-layout}
 
-Você pode configurar qualquer uma das colunas disponíveis para ficarem visíveis na seção de email do Centro de comando. As configurações serão salvas para cada subpasta de email (por exemplo, Delivered, Failed, Scheduled, etc.).
+Você pode configurar qualquer uma das colunas disponíveis para ficarem visíveis na seção de email do Centro de comando. Suas configurações serão salvas para cada subpasta de email (por exemplo, Entregue, Com falha, Agendado etc.).
 
 ## Colunas de email {#email-columns}
 
@@ -40,7 +41,7 @@ Você pode configurar qualquer uma das colunas disponíveis para ficarem visíve
   </tr> 
   <tr> 
    <td>Campanha</td> 
-   <td>Se o email foi enviado como parte de uma campanha, isso mostrará o nome da campanha. Clicar neste campo o levará à página de configuração dessa campanha.</td> 
+   <td>Se o email foi enviado como parte de uma campanha, mostrará o nome da campanha. Clicar nesse campo o levará à página de configuração dessa campanha.</td> 
   </tr> 
   <tr> 
    <td>Modelo</td> 
@@ -56,15 +57,15 @@ Você pode configurar qualquer uma das colunas disponíveis para ficarem visíve
   </tr> 
   <tr> 
    <td>Cargo</td> 
-   <td>Título do recipient de email.</td> 
+   <td>Título do destinatário do email.</td> 
   </tr> 
   <tr> 
    <td>Empresa</td> 
-   <td>Empresa do recipient de email.</td> 
+   <td>Empresa do destinatário do email.</td> 
   </tr> 
   <tr> 
    <td>Status do e-mail</td> 
-   <td>Status em que o email está. Os status incluem: Rascunho, Programado, Em Andamento, Spam, Rejeitado, Falha, Enviado. Os emails enviados mostrarão um fluxo de atividade que mostra quantas exibições, cliques e respostas ocorreram nesse email.</td> 
+   <td>Status em que o email está. Os status incluem: Rascunho, Programado, Em andamento, Spam, Devolvido, Com falha, Enviado. Os emails enviados mostrarão um fluxo de atividade que mostra quantas visualizações, cliques e respostas ocorreram nesse email.</td> 
   </tr> 
   <tr> 
    <td>Data de criação</td> 
@@ -72,15 +73,15 @@ Você pode configurar qualquer uma das colunas disponíveis para ficarem visíve
   </tr> 
   <tr> 
    <td>Última atualização</td> 
-   <td>Data em que o email foi atualizado pela última vez.</td> 
+   <td>Data da última atualização do email.</td> 
   </tr> 
   <tr> 
    <td>Canal de entrega</td> 
-   <td>O nome do canal de delivery usado para enviar o email.</td> 
+   <td>O nome do canal de entrega usado para enviar o email.</td> 
   </tr> 
   <tr> 
    <td>Última atividade</td> 
-   <td>O último envolvimento do recipient de email (por exemplo, exibir, clicar ou responder).</td> 
+   <td>O último envolvimento do destinatário do email (por exemplo, exibir, clicar ou responder).</td> 
   </tr> 
   <tr> 
    <td>Data do envio</td> 
@@ -88,34 +89,34 @@ Você pode configurar qualquer uma das colunas disponíveis para ficarem visíve
   </tr> 
   <tr> 
    <td>Ações de acompanhamento</td> 
-   <td>Botões de ação rápida que podem ser usados para acompanhamento por email, telefone, InMail ou tarefa.</td> 
+   <td>Botões de ação rápida que podem ser usados para acompanhamento por email, telefone, inMail ou tarefa.</td> 
   </tr> 
   <tr> 
-   <td>Email do grupo</td> 
+   <td>E-mail grupal</td> 
    <td>Exibe uma marca de seleção se o email foi enviado como parte de um Email de grupo.</td> 
   </tr> 
   <tr> 
    <td>Data de vencimento da tarefa</td> 
-   <td>Mostra a data de vencimento das tarefas relacionadas ao email. As tarefas podem ser relacionadas a um email ao ser criadas a partir dos botões de ação rápida na lista de email.</td> 
+   <td>Mostra a data de conclusão das tarefas relacionadas ao email. As tarefas podem ser relacionadas a um email sendo criadas a partir dos botões de ação rápida na lista de email.</td> 
   </tr> 
   <tr> 
-   <td>Ação de email</td> 
-   <td>Botões de ação rápida que podem ser usados para realizar ações no email. Dependendo do status do email, as seguintes ações podem estar disponíveis: Arquivar, Ter Sucesso, Excluir, Repetir Enviar, Desarquivar.</td> 
+   <td>Ação de e-mail</td> 
+   <td>Botões de ação rápida que podem ser usados para executar ações no email. Dependendo do status do email, as seguintes ações podem estar disponíveis: Arquivar, Êxito, Excluir, Repetir envio, Desarquivar.</td> 
   </tr> 
   <tr> 
    <td>Tipo de tarefa</td> 
-   <td>Mostra o tipo de tarefa de uma tarefa relacionada ao email. As tarefas podem ser relacionadas a um email ao ser criadas a partir dos botões de ação rápida na lista de email.</td> 
+   <td>Mostra o tipo de tarefa de uma tarefa relacionada ao email. As tarefas podem ser relacionadas a um email sendo criadas a partir dos botões de ação rápida na lista de email.</td> 
   </tr> 
   <tr> 
-   <td>Data de falha</td> 
+   <td>Data da falha</td> 
    <td>Mostra a data em que o email falhou se o email não foi entregue.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Configurações de layout da página de email {#email-page-layout-settings}
+## Configurações de layout de página de e-mail {#email-page-layout-settings}
 
-Você pode configurar o layout seguindo essas etapas.
+Você pode configurar o layout seguindo estas etapas.
 
 1. Vá para o Centro de comando.
 
@@ -125,7 +126,7 @@ Você pode configurar o layout seguindo essas etapas.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
-1. Clique no botão de configuração. Suas opções incluem: escolher quantas linhas deseja, selecionar quais campos deseja exibir e selecionar se deseja que os emails do grupo sejam acumulados em um único item na grade (ou se deseja que todos os emails que fazem parte de uma grade de email sejam exibidos como um único item).
+1. Clique no botão de configuração. Suas opções incluem: escolher quantas linhas você deseja, selecionar quais campos deseja exibir e selecionar se deseja que os emails de grupo sejam acumulados em um único item na grade (ou se deseja que todos os emails que fazem parte de uma grade de email sejam exibidos como um único item).
 
    ![](assets/email-columns-and-email-grid-layout-3.png)
 

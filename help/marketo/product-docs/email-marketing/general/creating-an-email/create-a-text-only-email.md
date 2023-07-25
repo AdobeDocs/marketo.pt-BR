@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1900556
-description: Criar um email somente texto - Documentos do Marketo - Documentação do produto
+description: Criar um email somente de texto - Documentação do Marketo - Documentação do produto
 title: Criar um email somente texto
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -12,21 +13,21 @@ ht-degree: 0%
 
 # Criar um email somente texto {#create-a-text-only-email}
 
-Se desejar enviar apenas emails de texto, veja a seguir como criar um email que será enviado sem nenhum conteúdo de HTML.
+Se você quiser enviar somente emails de texto, veja como criar um email que será enviado sem nenhum conteúdo em HTML.
 
 >[!NOTE]
 >
->Como as aberturas são rastreadas pelo recipient que baixa as imagens do email (o que inclui um pixel de rastreamento invisível), as aberturas são **not** pode ser acompanhado por emails somente texto.
+>Como as aberturas são rastreadas pelo recipient que está baixando as imagens do email (o que inclui um pixel de rastreamento invisível), as aberturas são **não** rastreável para emails somente texto.
 
-1. Vá para o **Atividades de marketing** área.
+1. Vá para a **Atividades de marketing** área.
 
    ![](assets/one-1.png)
 
-1. Selecione o programa, clique no botão **Novo** e selecione **Novo ativo local**.
+1. Selecione seu programa, clique no botão **Novo** e selecione **Novo ativo local**.
 
    ![](assets/two-1.png)
 
-1. Selecionar **Email**.
+1. Selecionar **E-mail**.
 
    ![](assets/three-1.png)
 
@@ -38,19 +39,19 @@ Se desejar enviar apenas emails de texto, veja a seguir como criar um email que 
 
    ![](assets/five.png)
 
-1. Verificar **Somente texto** e clique em **Salvar**.
+1. Marcar **Somente texto** e clique em **Salvar**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >Os links não são rastreados automaticamente em emails somente de texto. Veja como [Adicionar links rastreados a um email de texto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Os links não são rastreados automaticamente em emails somente texto. Veja como [Adicionar links rastreados a um email de texto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
-   >Também é possível editar um email existente e alterar essa configuração. Não se esqueça de aprovar o rascunho.
+   >Também é possível editar um email existente e alterar essa configuração. Não esqueça de aprovar o rascunho.
 
-1. Desmarque a opção **Copiar automaticamente do HTML** caixa de seleção.
+1. Desmarque a opção **Copiar automaticamente do HTML** caixa de seleção
 
    ![](assets/seven.png)
 
@@ -66,4 +67,4 @@ Se desejar enviar apenas emails de texto, veja a seguir como criar um email que 
 
    ![](assets/nine.png)
 
-É tão fácil assim.
+É tão fácil quanto isso.

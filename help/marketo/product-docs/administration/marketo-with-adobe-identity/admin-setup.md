@@ -2,7 +2,8 @@
 description: Configuração do administrador - Documentação do Marketo - Documentação do produto
 title: Configuração de administração
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Marketo with Adobe Identity
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -19,7 +20,7 @@ Depois de adicionado como um administrador de sistema do Adobe para o Marketo En
 
    ![](assets/admin-setup-1.png)
 
-1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configurar seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Adobe Admin Console. Caso contrário, [configurar seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 

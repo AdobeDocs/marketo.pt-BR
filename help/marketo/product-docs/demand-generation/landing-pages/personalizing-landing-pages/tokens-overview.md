@@ -3,7 +3,8 @@ unique-page-id: 2950799
 description: Visão geral de tokens - Documentação do Marketo - Documentação do produto
 title: Visão geral de tokens
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
-source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 1%
@@ -12,25 +13,25 @@ ht-degree: 1%
 
 # Visão geral de tokens {#tokens-overview}
 
-Um token é uma variável que pode ser usada em etapas do fluxo da campanha inteligente do Marketo, emails, páginas de aterrissagem, trechos e campanhas da Web.
+Um token é uma variável que pode ser usada em etapas de fluxo de campanha inteligente do Marketo, emails, páginas de aterrissagem, trechos e campanhas da Web.
 
-## Como entender os valores padrão {#understanding-default-values}
+## Noções básicas sobre valores padrão {#understanding-default-values}
 
-Quando você usa um token, também deseja fornecer um valor padrão. Este é o texto que mostra se uma pessoa não tem um valor para o campo que você está referenciando.
+Ao usar um token, você também deseja fornecer um valor padrão. Este é o texto que mostra se uma pessoa não tem um valor para o campo que você está referenciando.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 
-Neste exemplo, o e-mail dirá &quot;Greetings, (nome)&quot; ou &quot;Greetings, Minhoca&quot; (valor padrão).
+Neste exemplo, o email dirá &quot;Greetings, (first name)&quot; ou &quot;Greetings, earth&quot; (valor padrão).
 
 ![](assets/two.png)
 
 >[!CAUTION]
 >
->Os tokens não funcionam no pré-cabeçalho ao usar o editor de email do Marketo. Para usar um token no pré-cabeçalho, ele deve ser via seu próprio HTML em um template de email.
+>Os tokens não funcionam no pré-cabeçalho ao usar o editor de email do Marketo. Para usar um token no pré-cabeçalho, ele deve ser enviado por meio de seu próprio HTML em um template de email.
 
 >[!NOTE]
 >
->Esta lista não é exaustiva. Tokens também são criados para cada campo personalizado que você tem no Marketo.
+>Esta lista não é exaustiva. Os tokens também são criados para cada campo personalizado existente no Marketo.
 
 ## Tokens de pessoa {#person-tokens}
 
@@ -86,9 +87,9 @@ Neste exemplo, o e-mail dirá &quot;Greetings, (nome)&quot; ou &quot;Greetings, 
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* Os campos de pessoa personalizados também funcionam se você usar seu nome de exibição, por exemplo, `{{lead.Custom Field Name}}`
+* Os campos de pessoa personalizados também funcionam se você usar seu nome para exibição, por exemplo, `{{lead.Custom Field Name}}`
 
-## Tokens da empresa {#company-tokens}
+## Tokens de empresa {#company-tokens}
 
 * `{{Company.Account Owner Email Address}}`
 * `{{Company.Address}}`
@@ -109,9 +110,9 @@ Neste exemplo, o e-mail dirá &quot;Greetings, (nome)&quot; ou &quot;Greetings, 
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* Campos personalizados da empresa também funcionam se você usar o nome de exibição ex. `{{Company.Custom Field Name}}`
+* Campos personalizados da empresa também funcionam se você usar o nome de exibição, por exemplo, `{{Company.Custom Field Name}}`
 
-## Tokens da campanha {#campaign-tokens}
+## Tokens de campanha {#campaign-tokens}
 
 * `{{campaign.name}}`
 * `{{campaign.id}}`
@@ -130,7 +131,7 @@ Neste exemplo, o e-mail dirá &quot;Greetings, (nome)&quot; ou &quot;Greetings, 
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## Tokens do acionador {#trigger-tokens}
+## Tokens de acionador {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -148,7 +149,7 @@ Neste exemplo, o e-mail dirá &quot;Greetings, (nome)&quot; ou &quot;Greetings, 
 
 >[!NOTE]
 >
->Encontre mais detalhes sobre [tokens para momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) com base em acionadores usados em uma campanha inteligente.
+>Encontre mais detalhes sobre [tokens para momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) com base nos acionadores usados em uma campanha inteligente.
 
 ## Tokens de programa {#program-tokens}
 
@@ -160,12 +161,12 @@ Neste exemplo, o e-mail dirá &quot;Greetings, (nome)&quot; ou &quot;Greetings, 
 
 Meus tokens são definidos em um programa e começam com `{{my.` seguido pelo nome que você criou para o token. Saiba mais sobre [Meus tokens em um programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
-## Token de Membro {#member-token}
+## Token de membro {#member-token}
 
-Tokens de membro são usados para inserir valores exclusivos de parceiros de serviços integrados. Um uso comum de tokens de membro é para URLs exclusivos para participantes de webinários. Cada pessoa tem um URL exclusivo para acessar o webinário que pode ser inserido usando um `{{member.webinar url}}` token. O `{{member.webinar url}}` O token resolve automaticamente o URL de confirmação exclusivo da pessoa gerado pelo provedor de serviços.
+Os Tokens de membro são usados para inserir valores exclusivos de parceiros de serviços integrados. Um uso comum de Tokens de membros é para URLs exclusivos para participantes do webinário. Cada pessoa tem um URL exclusivo para acessar o webinário que pode ser inserido usando um `{{member.webinar url}}` token. A variável `{{member.webinar url}}` O token resolve automaticamente o URL de confirmação exclusivo da pessoa gerado pelo provedor de serviços.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->O `{{member.webinar url}}` O token só será preenchido se a campanha inteligente que envia o email for um ativo filho do Programa de eventos.
+>A variável `{{member.webinar url}}` O token só será preenchido se a campanha inteligente que envia o email for um ativo filho do Programa de evento.

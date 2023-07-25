@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359620
-description: Alterar estilo e cor do botão de envio - Documentos do Marketo - Documentação do produto
-title: Alterar estilo e cor do botão de envio
+description: Alterar o estilo e a cor do botão Enviar - Documentação do Marketo - Documentação do produto
+title: Alterar o estilo e a cor do botão Enviar
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
-# Alterar estilo e cor do botão de envio {#change-submit-button-style-and-color}
+# Alterar o estilo e a cor do botão Enviar {#change-submit-button-style-and-color}
 
-Se o botão Enviar padrão estiver vazio ou se precisar de algo mais atraente, sinta-se à vontade para escolher entre uma grande variedade de estilos de botão prontos para uso.
+Se você achar o botão de envio padrão maçante, ou se precisar de algo mais sofisticado, sinta-se à vontade para escolher entre uma grande variedade de estilos de botão prontos para uso.
 
 1. Ir para **Atividades de marketing**.
 
@@ -28,13 +29,13 @@ Se o botão Enviar padrão estiver vazio ou se precisar de algo mais atraente, s
 
    >[!TIP]
    >
-   >Você sabia que pode arrastar o botão Enviar para a esquerda ou para a direita para alterar sua posição? É tão fácil assim. Experimente!
+   >Você sabia que pode arrastar o botão de envio para a esquerda ou direita para alterar sua posição? É fácil assim. Experimente!
 
-1. Escolha o estilo de botão que desejar (rolar para cima/para baixo).
+1. Escolha o estilo de botão desejado (role para cima/para baixo).
 
    ![](assets/image2014-9-15-16-3a55-3a30.png)
 
-1. Você pode deixar a cor como padrão ou personalizá-la.
+1. É possível deixar a cor como padrão ou personalizá-la.
 
    ![](assets/image2014-9-15-16-3a56-3a0.png)
 
@@ -60,4 +61,4 @@ Se o botão Enviar padrão estiver vazio ou se precisar de algo mais atraente, s
 
    >[!NOTE]
    >
-   >Como muitos elementos gráficos, o botão pode parecer diferente dependendo do navegador usado.
+   >Como muitos elementos gráficos, o botão pode parecer diferente dependendo do navegador que você está usando.

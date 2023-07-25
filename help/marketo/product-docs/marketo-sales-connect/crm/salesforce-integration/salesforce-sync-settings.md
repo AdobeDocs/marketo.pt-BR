@@ -1,9 +1,10 @@
 ---
 unique-page-id: 18317669
-description: Configurações de sincronização do Salesforce - Documentos do Marketo - Documentação do produto
+description: Configurações De Sincronização Do Salesforce - Documentação Do Marketo - Documentação Do Produto
 title: Configurações de sincronização do Salesforce
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 3%
@@ -12,23 +13,23 @@ ht-degree: 3%
 
 # Configurações de sincronização do Salesforce {#salesforce-sync-settings}
 
-## Logs de atividade de email no Salesforce via API {#logging-email-activity-to-salesforce-via-api}
+## Registrar atividade de email no Salesforce via API {#logging-email-activity-to-salesforce-via-api}
 
-Essa funcionalidade exige que você esteja na edição Enterprise/Unlimited do Salesforce ou na edição Professional se tiver comprado Integração via API de serviços da Web.
+Essa funcionalidade exige que você esteja na edição Enterprise/Unlimited do Salesforce ou na edição Professional se tiver adquirido a Integração por meio da API dos Serviços da Web.
 
 >[!PREREQUISITES]
 >
->O Salesforce e o Sales Connect devem ser conectados.
+>O Salesforce e o Sales Connect devem estar conectados.
 
-1. Em Sales Connect (Conexão de vendas), clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
+1. Em Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
    ![](assets/one-2.png)
 
-1. Em Minha conta (Configurações de administrador, se você for um administrador), clique em **Salesforce**.
+1. Em Minha conta (Configurações do administrador, se você for um administrador), clique em **Salesforce**.
 
    ![](assets/two-2.png)
 
-1. Clique no botão **Sincronizar configurações** guia .
+1. Clique em **Configurações de sincronização** guia.
 
    ![](assets/three-1.png)
 
@@ -36,58 +37,58 @@ Essa funcionalidade exige que você esteja na edição Enterprise/Unlimited do S
 
    ![](assets/four-1.png)
 
-1. Clique no botão **API do Salesforce** guia . Neste cartão, você pode configurar sua preferência para registrar informações no Salesforce. Clique em **Salvar** quando concluído.
+1. Clique em **API do Salesforce** guia. Neste cartão, você pode configurar sua preferência para registrar informações no Salesforce. Clique em **Salvar** quando terminar.
 
    ![](assets/five.png)
 
-## Registro da atividade de email no Salesforce via email para o Salesforce (Cco) {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
+## Registrar atividade de email no Salesforce por email para o Salesforce (Cco) {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
-Depois de ativar o &quot;Email to Salesforce (Cco)&quot;, você receberá uma CCO dos emails de vendas e seus emails serão registrados como atividades em oportunidades, clientes potenciais e contatos.
+Depois de ativar &quot;Enviar email para o Salesforce (Cco)&quot;, você receberá um CCO de seus emails de vendas e seus emails serão registrados como atividades em oportunidades, clientes potenciais e contatos.
 
 >[!PREREQUISITES]
 >
->O Salesforce e o Sales Connect devem ser conectados.
+>O Salesforce e o Sales Connect devem estar conectados.
 
-**Para registrar seus emails no Salesforce via Email (Cco)**
+**Para registrar seus emails no Salesforce por email (Cco)**
 
-1. Em Sales Connect (Conexão de vendas), clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
+1. Em Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
    ![](assets/one-3.png)
 
-1. Em Minha conta (Configurações de administrador, se você for um administrador), clique em **Salesforce**.
+1. Em Minha conta (Configurações do administrador, se você for um administrador), clique em **Salesforce**.
 
    ![](assets/two-3.png)
 
-1. Clique no botão **Sincronizar configurações** guia .
+1. Clique em **Configurações de sincronização** guia.
 
    ![](assets/three-1.png)
 
-1. Clique no botão **Email para Salesforce (Cco)** e clique em **Ativar**.
+1. Clique em **Enviar email para o Salesforce (Cco)** e clique em **Ativar**.
 
    ![](assets/six-2.png)
 
-Se, por algum motivo, seu endereço de email para o Salesforce não entrar, siga estas etapas para ativar o recurso Cco em sua conta do Salesforce:
+Se, por algum motivo, seu endereço de email para o Salesforce não for recebido, siga estas etapas para ativar o recurso CCO em sua conta do Salesforce:
 
-1. Faça logon na instância do Salesforce.
-1. Encontre o nome de usuário no canto superior direito e selecione a barra suspensa.
+1. Faça logon na sua instância do Salesforce.
+1. Encontre seu nome de usuário no canto superior direito e selecione a barra suspensa.
 1. Selecionar **Minhas configurações**.
-1. Selecionar **Email**.
+1. Selecionar **E-mail**.
 1. Selecionar **Meu email para o Salesforce**.
-1. Nesta página, você verá um campo denominado &quot;Email to Salesforce Address&quot;. Se não houver nada preenchido ao lado dele, role para baixo até &quot;Meus endereços de email aceitos&quot;.
-1. Insira os endereços de email que você deseja usar com Cco.
+1. Nessa página, você verá um campo chamado &quot;Endereço de email do Salesforce&quot;. Se não houver nada preenchido ao lado dele, role até &quot;Meus endereços de email aceitáveis&quot;.
+1. Digite o(s) endereço(s) de email que deseja Cco.
 1. Clique em **Salvar alterações**.
 
-**Não é possível localizar meu email no Salesforce em Minhas configurações**
+**Não consigo encontrar meu email para o Salesforce em Minhas configurações**
 
-Se você não vir Meu email para o Salesforce em suas Configurações, seu Administrador pode não tê-lo ativado. Isso pode acontecer se sua equipe for nova no Salesforce ou se a equipe nunca tiver usado o endereço CCO fornecido pelo Salesforce.
+Se você não vir Meu email para o Salesforce em suas Configurações, talvez o Administrador não o tenha ativado. Isso pode acontecer se sua equipe for nova no Salesforce ou se ela nunca tiver usado o endereço CCO fornecido pelo Salesforce.
 
 >[!NOTE]
 >
 >Você precisará de privilégios de administrador para configurar isso.
 
 1. Clique em **Configuração**.
-1. Clique em **Administração de email**.
-1. Clique em **Email no Salesforce**.
+1. Clique em **Administração de e-mail**.
+1. Clique em **Enviar email para o Salesforce**.
 1. Clique em **Editar**.
 1. Marque a caixa ao lado de &quot;Ativo&quot;.
 1. Clique em **Salvar**.
@@ -98,18 +99,18 @@ Se você não vir Meu email para o Salesforce em suas Configurações, seu Admin
 
    ![](assets/one-3.png)
 
-1. Em Minha conta (Configurações de administrador, se você for um administrador), clique em **Salesforce**.
+1. Em Minha conta (Configurações do administrador, se você for um administrador), clique em **Salesforce**.
 
    ![](assets/two-2.png)
 
-1. Clique no botão **Sincronizar configurações** guia .
+1. Clique em **Configurações de sincronização** guia.
 
    ![](assets/three-1.png)
 
-1. Clique na seta ao lado de Sincronizar tarefas/lembretes de conexão de vendas para tarefas do Salesforce.
+1. Clique na seta ao lado de Sincronizar tarefas/lembretes de conexão de vendas com tarefas do Salesforce.
 
    ![](assets/seven-2.png)
 
-1. Escolha a opção desejada (&quot;Não sincronizar com tarefas do Salesforce&quot; está selecionada por padrão).
+1. Escolha a opção desejada (&quot;Não sincronizar com tarefas do Salesforce&quot; é selecionado por padrão).
 
    ![](assets/eight.png)

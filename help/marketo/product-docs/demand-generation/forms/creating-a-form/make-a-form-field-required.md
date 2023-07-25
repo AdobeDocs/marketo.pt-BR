@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359569
-description: Torne um campo de formulário obrigatório - Documentos do Marketo - Documentação do produto
-title: Torne um campo de formulário obrigatório
+description: Tornar um campo de formulário obrigatório - Documentação do Marketo - Documentação do produto
+title: Tornar um campo de formulário obrigatório
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 3%
 
 ---
 
-# Torne um campo de formulário obrigatório {#make-a-form-field-required}
+# Tornar um campo de formulário obrigatório {#make-a-form-field-required}
 
-When [adição de campos a um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) você pode desejar que alguns deles sejam obrigatórios para a pessoa que os preenche. Veja como.
+Quando [adição de campos a um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) talvez você queira que algumas delas sejam necessárias para a pessoa que as preencheu. Veja como.
 
 1. Ir para **Atividades de marketing**.
 
@@ -36,6 +37,6 @@ When [adição de campos a um formulário](/help/marketo/product-docs/demand-gen
 
 >[!NOTE]
 >
->Não se esqueça de [aprovar qualquer página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) este formulário continua vivo para as mudanças entrarem em vigor.
+>Não se esqueça de [aprovar qualquer landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) este formulário continua em vigor para que as alterações sejam ativadas.
 
 Você precisa [reordenar os campos adicionados ao formulário](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?

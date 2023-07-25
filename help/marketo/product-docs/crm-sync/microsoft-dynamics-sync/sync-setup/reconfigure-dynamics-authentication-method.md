@@ -1,39 +1,39 @@
 ---
-description: Reconfigure o método de autenticação do Dynamics - Documentos do Marketo - Documentação do produto
-title: Reconfigure o método de autenticação do Dynamics
+description: Reconfigurar método de autenticação do Dynamics - Documentação do Marketo - Documentação do produto
+title: Reconfigurar Método de Autenticação do Dynamics
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-# Reconfigure o método de autenticação do Dynamics {#reconfigure-dynamics-authentication-method}
+# Reconfigurar Método de Autenticação do Dynamics {#reconfigure-dynamics-authentication-method}
 
-Siga as etapas abaixo para atualizar seu método de autenticação do Dynamics.
+Siga as etapas abaixo para atualizar seu Método de Autenticação do Dynamics.
 
 >[!PREREQUISITES]
 >
->Configure o aplicativo no Microsoft Dynamics e no Ative Diretory (Azure AD/ADFS) usando o método de autenticação desejado de um dos seguintes artigos:
+>Configure o aplicativo no Microsoft Dynamics e no Ative Diretory (Azure AD/ADFS) usando o método de autenticação desejado em um dos seguintes artigos:
 >
->* [Etapa 2 de 3: Configurar a solução Marketo com conexão de servidor para servidor](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
->* [Etapa 2 de 4: Configurar a solução Marketo com a conexão de controle de senha do proprietário de recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
+>* [Etapa 2 de 3: Configurar a solução da Marketo com conexão de servidor a servidor](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [Etapa 2 de 4: Configurar a Solução da Marketo com a Conexão de Controle de Senha do Proprietário do Recurso](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
 
-
-1. No Marketo, clique em **Administrador**.
+1. No Marketo, clique em **Admin**.
 
    ![](assets/reconfigure-dynamics-authentication-method-1.png)
 
-1. Clique em **Microsoft Dynamics**, em seguida **Desativar Sincronização**.
+1. Clique em **Microsoft Dynamics**, depois **Desativar sincronização**.
 
    ![](assets/reconfigure-dynamics-authentication-method-2.png)
 
    >[!NOTE]
    >
-   >Você deve desativar temporariamente a sincronização global para atualizar o Método de autenticação.
+   >Você deve desativar a sincronização global temporariamente para atualizar o Método de autenticação.
 
-1. Clique no botão **Reconfigurar Novo Método de Autenticação** guia .
+1. Clique em **Reconfigurar novo método de autenticação** guia.
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 
@@ -48,22 +48,21 @@ Siga as etapas abaixo para atualizar seu método de autenticação do Dynamics.
    >[!NOTE]
    >
    >* Os campos específicos variam de acordo com o método de autenticação escolhido e o formulário será atualizado automaticamente, dependendo do método de autenticação anterior.
-   >* Se você tiver sincronizado antes, os dados no formulário acima poderão ser preenchidos previamente. Insira novamente todas as credenciais para garantir os valores corretos.
+   >* Se você já tiver sincronizado antes, os dados no formulário acima podem estar pré-preenchidos. Insira novamente todas as credenciais para garantir os valores corretos.
 
-
-1. Se tudo estiver bem, a Validar Sincronização gerará todas as marcas de seleção verdes ![](assets/green-check.png). Revise a mensagem e clique em **Switch** para atualizar o Método de autenticação.
+1. Se tudo estiver bem, a opção Validar sincronização gerará todas as marcas de seleção verdes ![](assets/green-check.png). Revise a mensagem e clique em **Alternar** para atualizar o Método de autenticação.
 
    ![](assets/reconfigure-dynamics-authentication-method-6.png)
 
    >[!NOTE]
    >
-   >Se você vir um ![](assets/red-x.png), essa etapa tem um problema. Consulte [Corrigir problemas de sincronização de validação do Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) para identificar e corrigir o(s) problema(s). Em seguida, execute novamente as etapas de validação de sincronização até que o resultado se pareça com a imagem acima.
+   >Se você vir um ![](assets/red-x.png), essa etapa tem um problema. Consulte [Corrigir Problemas de Sincronização de Validação do Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) para identificar e corrigir o(s) problema(s). Em seguida, execute novamente as etapas de validação de sincronização até que o resultado se pareça com a imagem acima.
 
-1. Clique em **Confirmar** para continuar.
+1. Clique em **Confirmar o** para continuar.
 
    ![](assets/reconfigure-dynamics-authentication-method-7.png)
 
-1. Clique em **Confirmar** novamente.
+1. Clique em **Confirmar o** novamente.
 
    ![](assets/reconfigure-dynamics-authentication-method-8.png)
 
@@ -71,4 +70,4 @@ Siga as etapas abaixo para atualizar seu método de autenticação do Dynamics.
 
    >[!IMPORTANT]
    >
-   >O sistema leva 15 minutos para aceitar o novo modo de autenticação. Aguarde 15 minutos a partir do momento do comutador antes de reativar a sincronização.
+   >O sistema leva 15 minutos para aceitar o novo modo de autenticação. Aguarde 15 minutos a partir da hora do comutador antes de reativar a sincronização.

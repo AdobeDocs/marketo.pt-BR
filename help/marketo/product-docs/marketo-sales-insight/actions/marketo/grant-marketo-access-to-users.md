@@ -1,8 +1,9 @@
 ---
-description: Conceder acesso ao Marketo para usuários - Documentos do Marketo - Documentação do produto
+description: Conceder acesso ao Marketo a usuários - Documentação do Marketo - Documentação do produto
 title: Conceder acesso ao Marketo aos usuários
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -11,9 +12,9 @@ ht-degree: 0%
 
 # Conceder acesso ao Marketo aos usuários {#grant-marketo-access-to-users}
 
-Siga as etapas neste artigo para conceder acesso aos usuários das Ações de insight de vendas para a conexão do Marketo. Isso desbloqueará recursos como Momentos interessantes no Feed ao vivo e o acesso às Campanhas de marketing.
+Siga as etapas deste artigo para conceder aos usuários das Ações do Sales Insight acesso à conexão do Marketo. Isso desbloqueará recursos como Momentos interessantes no Feed ao vivo e acesso a Campanhas de marketing.
 
-Você precisará convidar usuários para [Ações de insight de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) antes de serem visíveis na página Marketo > Acesso à equipe (em Ações de insight de vendas), onde o acesso à conexão do Marketo é concedido.
+Você precisará convidar usuários para [Ações do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) antes de ficarem visíveis na página Marketo > Acesso à equipe (em Ações do Sales Insight), onde o acesso à conexão do Marketo é concedido.
 
 >[!CAUTION]
 >
@@ -23,27 +24,27 @@ Você precisará convidar usuários para [Ações de insight de vendas](/help/ma
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. Em Configurações de administração, clique em **Marketo**.
+1. Em Configurações do administrador, clique em **Marketo**.
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. Clique no botão **Acesso do usuário** guia . Selecione um ou mais usuários e clique em **Connect**.
+1. Clique em **Acesso do usuário** guia. Selecione um ou mais usuários e clique em **Conectar**.
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
    >[!NOTE]
    >
-   >Você só pode fazer a atribuição do espaço de trabalho uma vez no momento da concessão de acesso aos usuários. Depois que estiver definido, você terá que desconectar o usuário para alterá-lo.
+   >Você só pode fazer a atribuição do espaço de trabalho uma vez no momento da concessão de acesso aos usuários. Depois de definido, é necessário desconectar o usuário para alterá-lo.
 
-1. Se a assinatura do Marketo tiver espaços de trabalho ativados, você poderá atribuir espaços de trabalho a cada usuário ou conjunto de usuários em massa. Se nenhum espaço de trabalho for selecionado, nós os atribuiremos ao espaço de trabalho Padrão do Marketo.
+1. Se a assinatura do Marketo tiver espaços de trabalho habilitados, você poderá atribuir espaços de trabalho a cada usuário ou conjunto de usuários em massa. Se nenhum espaço de trabalho for selecionado, nós os atribuiremos ao espaço de trabalho Padrão do Marketo.
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **ETAPA OPCIONAL**: Clique na lista suspensa Espaço de trabalho e selecione os espaços de trabalho desejados.
+   **ETAPA OPCIONAL**: clique na lista suspensa Espaço de trabalho e selecione os espaços de trabalho desejados.
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. Clique em **Connect**.
+1. Clique em **Conectar**.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 

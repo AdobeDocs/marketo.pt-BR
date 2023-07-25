@@ -1,30 +1,31 @@
 ---
-description: Stream Designer - Documentos do Marketo - Documentação do produto
-title: Designer de sequência
+description: Stream Designer - Documentação do Marketo - Documentação do produto
+title: Designer de fluxo
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '852'
 ht-degree: 2%
 
 ---
 
-# Designer de sequência {#stream-designer}
+# Designer de fluxo {#stream-designer}
 
-Existem _many_ combinações de fluxo possíveis. Este artigo contém um exemplo em que o profissional de marketing pergunta ao visitante do site se ele tem alguma dúvida sobre o produto. Em caso positivo, o visitante pode agendar um compromisso. Se não, o visitante recebe a opção de ingressar em uma lista de endereços para correspondência futura. Eles também têm PDF grátis. O objetivo final é agendar um compromisso ou coletar o email do visitante.
+Há _muitos_ combinações de fluxo possíveis. Este artigo contém um exemplo em que o profissional de marketing pergunta ao visitante do site se ele tem alguma pergunta sobre o produto. Em caso positivo, o visitante pode agendar um compromisso. Se não, o visitante terá a opção de ingressar em uma lista de endereçamento para correspondência futura. Eles também recebem um PDF gratuito. O objetivo final é agendar um compromisso ou coletar o email do visitante.
 
 >[!PREREQUISITES]
 >
->Antes de poder usar o Cartão de documento, você deve primeiro [configurar](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;} em sua conta do Adobe.
+>Antes de usar o cartão Documento, você deve [configurar](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} na sua conta Adobe.
 
-## Cartões do Designer de fluxo {#stream-designer-cards}
+## Cartões de Designer de Stream {#stream-designer-cards}
 
-O designer de fluxo contém vários cartões que podem ser adicionados para moldar a conversa de bate-papo.
+O designer de fluxo contém vários cartões que você pode adicionar para moldar a conversa de chat.
 
 <table>
  <tr>
   <td><strong>Mensagem</strong></td>
-  <td>Use quando quiser fazer uma declaração sem nenhuma resposta necessária (por exemplo: "Oi! Todos os itens estão 25% de desconto hoje com código SAVE25").
+  <td>Use quando quiser fazer uma declaração sem precisar de resposta (por exemplo: "Olá! Todos os itens têm 25% de desconto hoje com o código SAVE25").
 </td>
  </tr>
  <tr>
@@ -33,25 +34,25 @@ O designer de fluxo contém vários cartões que podem ser adicionados para mold
  </tr>
  <tr>
   <td><strong>Documento</strong></td>
-  <td>Permite incorporar documentos do PDF em Caixas de diálogo e rastrear a atividade de envolvimento de documentos dos visitantes (quantas páginas foram visualizadas, se o documento foi baixado e/ou quaisquer termos de pesquisa que foram usados).</td>
+  <td>Permite incorporar documentos PDF em caixas de diálogo e rastrear a atividade de envolvimento de documentos dos visitantes (quantas páginas foram visualizadas, se o documento foi baixado e/ou quaisquer termos de pesquisa usados).</td>
  </tr>
  <tr>
-  <td><strong>Captura de dados</strong></td>
-  <td>Use quando desejar coletar informações. Os três campos a serem escolhidos são Endereço de email, Número de telefone e Texto (o que permite que o visitante grave sua própria mensagem).</td>
+  <td><strong>Captura de informações</strong></td>
+  <td>Use quando quiser coletar informações. Os três campos para escolher são Endereço de email, Número de telefone e Texto (o que permite que o visitante escreva sua própria mensagem).</td>
  </tr>
  <tr>
-  <td><strong>Scheduler de compromissos</strong></td>
-  <td>Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">o próximo agente em linha</a>.</td>
+  <td><strong>Agendador de compromissos</strong></td>
+  <td>Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">o próximo agente na linha</a>.</td>
  </tr>
  <tr>
   <td><strong>Meta</strong></td>
-  <td>Este é o único cartão que os visitantes não verão. Cabe a você determinar em qual ponto uma meta é alcançada dentro do chat específico (por exemplo: se coletar o email do visitante for sua meta, coloque o cartão Meta imediatamente após Captura de informações no stream).</td>
+  <td>Essa é a única carta que os visitantes não verão. Cabe a você determinar em qual ponto uma meta é alcançada no chat específico (por exemplo: se coletar o email do visitante for a sua meta, coloque o cartão de Meta imediatamente após a Captura de informações no stream).</td>
  </tr>
 </table>
 
 ## Ícones do Designer de fluxo {#stream-designer-icons}
 
-No canto superior direito do Designer de fluxo, você verá alguns ícones. Aqui está o que eles fazem.
+No canto superior direito do Stream Designer, você verá vários ícones. Aqui está o que eles fazem.
 
 <table>
  <tr>
@@ -68,45 +69,45 @@ No canto superior direito do Designer de fluxo, você verá alguns ícones. Aqui
  </tr>
  <tr>
   <td><img src="assets/stream-designer-4.png"></td>
-  <td>Abre uma janela para testar o chat (pressione o mesmo botão para fechar)</td>
+  <td>Abre uma janela para que você teste o seu bate- papo (pressione o mesmo botão para fechar)</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
-  <td>Organiza todas as placas em seu fluxo</td>
+  <td>Organiza todos os cartões em seu stream</td>
  </tr>
 </table>
 
 ## Criar um fluxo {#create-a-stream}
 
-1. Depois de ter [criou a caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, clique no link **Designer de fluxo** guia .
+1. Depois de ter [criou seu diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, clique no link **Designer de fluxo** guia.
 
    ![](assets/stream-designer-6.png)
 
-1. Arraste e solte o cartão Pergunta .
+1. Arraste e solte o cartão Pergunta.
 
    ![](assets/stream-designer-7.png)
 
-1. Em Resposta do Chatbot, diga à sua pergunta como gostaria.
+1. Em Resposta do Chatbot, escreva sua pergunta como você gostaria.
 
    ![](assets/stream-designer-8.png)
 
    >[!TIP]
    >
-   >Você pode personalizar a experiência de visitantes conhecidos do chat usando tokens (por exemplo: Hello `{{lead.leadFirstName:""}}`). Basta clicar no ícone de colchete à direita e fazer a seleção. Adicione um valor padrão entre as aspas se desejar que visitantes anônimos vejam algo genérico (por exemplo: Hello `{{lead.leadFirstName:"there"}}`).
+   >Você pode personalizar a experiência de visitantes de bate-papo conhecidos usando tokens (por exemplo: Hello `{{lead.leadFirstName:""}}`). Basta clicar no ícone de chave à direita e fazer a seleção. Adicione um valor padrão entre as aspas se quiser que visitantes anônimos vejam algo genérico (por exemplo: Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
-   >O poke é definido para ativado por padrão, o que exibe a pergunta de abertura ao lado do ícone de chat sem que o visitante precise clicar nele para vê-la. O Poke só está disponível no primeiro cartão da conversa.
+   >O Poke está definido como ativado por padrão, o que exibe a pergunta de abertura ao lado do ícone do chat sem que o visitante precise clicar nele para vê-lo. O Poke só está disponível no primeiro cartão da conversa.
 
-1. Insira suas Respostas do Usuário e clique em **Salvar**.
+1. Insira suas respostas de usuário e clique em **Salvar**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**Editar valores armazenados** é uma etapa opcional para quem gostaria de armazenar um valor diferente no banco de dados do que está sendo exibido para os visitantes no chatbot para atributos mapeados no Cartão de perguntas (por exemplo: O visitante vê &quot;Otimização do mecanismo de pesquisa&quot;, você armazena esse valor como &quot;SEO&quot;).
+   >**Editar valores armazenados** é uma etapa opcional para quem gostaria de armazenar um valor diferente no banco de dados do que está sendo exibido para os visitantes no chatbot para atributos mapeados no cartão de Pergunta (por exemplo: o visitante vê &quot;Otimização do mecanismo de pesquisa&quot;, você armazena esse valor como &quot;SEO&quot;).
 
-1. Para &quot;Sim&quot;, queremos agendar um compromisso, portanto, abaixo dessa opção, arraste sobre o cartão do Agendador de Compromissos.
+1. Para &quot;Sim&quot;, queremos agendar um compromisso. Portanto, abaixo dessa opção, arraste o cartão Agendador de Compromissos.
 
    ![](assets/stream-designer-10.png)
 
@@ -114,7 +115,7 @@ No canto superior direito do Designer de fluxo, você verá alguns ícones. Aqui
 
    ![](assets/stream-designer-11.png)
 
-1. Como essa é uma meta, arraste o cartão Meta abaixo do Agendador de Compromissos.
+1. Como essa é uma meta, arraste o cartão Meta para baixo do Agendador de Compromissos.
 
    ![](assets/stream-designer-12.png)
 
@@ -122,11 +123,11 @@ No canto superior direito do Designer de fluxo, você verá alguns ícones. Aqui
 
    ![](assets/stream-designer-13.png)
 
-1. Para o &quot;Não&quot;, queremos ver se eles irão ingressar na lista de endereçamento, portanto, abaixo dessa opção, arraste sobre outro Cartão de Perguntas.
+1. Para &quot;Não&quot; queremos ver se eles vão se juntar à lista de discussão, então abaixo dessa opção arraste sobre outro cartão Pergunta.
 
    ![](assets/stream-designer-14.png)
 
-1. Insira sua resposta e adicione opções de resposta para o visitante. Clique em **Salvar** quando concluído.
+1. Insira sua resposta e adicione opções de resposta para o visitante. Clique em **Salvar** quando terminar.
 
    ![](assets/stream-designer-15.png)
 
@@ -134,11 +135,11 @@ No canto superior direito do Designer de fluxo, você verá alguns ícones. Aqui
    >
    >Você pode adicionar mais respostas clicando em **Adicionar resposta**.
 
-1. Abaixo da resposta &quot;Sim&quot;, arraste o cartão Captura de informações para coletar o email do visitante.
+1. Abaixo da resposta &quot;Sim&quot;, arraste o cartão Captura de informações para poder coletar o email do visitante.
 
    ![](assets/stream-designer-16.png)
 
-1. Clique no botão **Tipo** e selecione **Email**.
+1. Clique em **Tipo** e selecione **E-mail**.
 
    ![](assets/stream-designer-17.png)
 
@@ -157,15 +158,15 @@ No canto superior direito do Designer de fluxo, você verá alguns ícones. Aqui
     </tr>
     <tr>
      <td><strong>Espaço reservado</strong></td>
-     <td>Exemplo de texto que ajuda o visitante a ver o que inserir.</td>
+     <td>Texto de amostra que ajuda o visitante a ver o que inserir.</td>
     </tr>
     <tr>
      <td><strong>Mapear resposta ao atributo</strong></td>
-     <td>Permite sincronizar a resposta do visitante com o campo correspondente em seu registro de Pessoa em sua assinatura do Marketo.</td>
+     <td>Permite sincronizar a resposta do visitante ao campo correspondente no registro Person na sua assinatura do Marketo.</td>
     </tr>
    </table>
 
-1. Como coletar seus emails é uma meta, arraste o cartão Meta abaixo de Captura de Informações.
+1. Como coletar o email é um objetivo, arraste o cartão de Objetivo abaixo de Captura de Informações.
 
    ![](assets/stream-designer-19.png)
 
@@ -173,30 +174,29 @@ No canto superior direito do Designer de fluxo, você verá alguns ícones. Aqui
 
    ![](assets/stream-designer-20.png)
 
-1. Lembre-se de adicionar uma resposta se eles disserem &quot;Não&quot;. Uma opção é arrastar um cartão de mensagem abaixo e dizer &quot;obrigado mesmo assim&quot;. Mas neste exemplo, nós lhes forneceremos um documento de PDF gratuito.
+1. Lembre-se de adicionar uma resposta se eles responderem &quot;Não&quot;. Uma opção é arrastar um cartão de mensagem abaixo e dizer &quot;obrigado mesmo assim&quot;. Mas, neste exemplo, forneceremos a eles um documento PDF gratuito.
 
    ![](assets/stream-designer-21.png)
 
-1. Neste exemplo, criaremos um novo documento. Dê um nome a ele, insira o URL do PDF já hospedado e clique em **Salvar**.
+1. Neste exemplo, criaremos um novo documento. Nomeie, insira o URL do PDF que você já hospedou e clique em **Salvar**.
 
    ![](assets/stream-designer-22.png)
 
-1. Selecione o **Visualizar** alterne para visualizar sua caixa de diálogo.
+1. Selecione o **Visualizar** alternar para visualizar sua caixa de diálogo.
 
    ![](assets/stream-designer-23.png)
 
-1. Quando estiver pronto para ativar sua caixa de diálogo, clique em **Publicar**.
+1. Quando estiver pronto para ativar sua caixa de diálogo, clique em **Publish**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Antes de clicar em Publicar, lembre-se de ter certeza de que você [introduziu o(s) URL(s) de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}.
+>Antes de clicar em Publicar, lembre-se de ter certeza de que [inseriu o(s) URL(s) de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Criar uma caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Critérios de público-alvo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
->* [Relatórios](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
->* [Usando a placa de documento](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;}
-
+>* [Criar uma caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [Critérios de público](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
+>* [Relatórios](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
+>* [Uso do Cartão de Documento](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}

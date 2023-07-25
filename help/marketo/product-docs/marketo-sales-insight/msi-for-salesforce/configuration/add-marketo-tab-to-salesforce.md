@@ -1,8 +1,9 @@
 ---
-description: Guia Adicionar Marketo ao Salesforce - Documentos Marketo - Documentação do produto
+description: Adicionar a guia Marketo ao Salesforce - Documentação do Marketo - Documentação do produto
 title: Adicionar a guia Marketo ao Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
-source-git-commit: a268bd275f1aeb2aff7c3f7f90a8fd557a1c408d
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -11,18 +12,18 @@ ht-degree: 0%
 
 # Adicionar a guia Marketo ao Salesforce {#add-marketo-tab-to-salesforce}
 
-1. No Salesforce, clique em **+** e clique em **Personalizar Minhas Guias**.
+1. No Salesforce, clique em **+** e clique em **Personalizar minhas guias**.
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. Selecione Marketo na lista à esquerda. Em seguida, clique em **Adicionar** para adicioná-lo ao **Guias Selecionadas**.
+1. Selecione Marketo na lista à esquerda. Clique em **Adicionar** para adicioná-lo à **Guias Selecionadas**.
 
    >[!TIP]
    >
-   >Use o **Up** e **Down** para reordenar as guias.
+   >Use o **Para cima** e **Para baixo** seta para reordenar as guias.
 
    ![](assets/add-marketo-tab-to-salesforce-2.png)
 
-   E aqui está sua guia Marketo!
+   E aqui está sua guia Marketo.
 
    ![](assets/add-marketo-tab-to-salesforce-3.png)

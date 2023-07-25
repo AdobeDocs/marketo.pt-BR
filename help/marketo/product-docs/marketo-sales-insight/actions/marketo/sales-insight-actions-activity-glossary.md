@@ -2,10 +2,11 @@
 description: Glossário de atividades de ações do Sales Insight - Documentação do Marketo - Documentação do produto
 title: Glossário de atividades de ações do Sales Insight
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '554'
-ht-degree: 16%
+ht-degree: 17%
 
 ---
 
@@ -23,7 +24,7 @@ As atividades abaixo serão registradas no Marketo a partir das Ações do Sales
 
 <table>
  <tr>
-  <th>Atividade de Vendas</th>
+  <th>Atividade de vendas</th>
   <th>Atributo</th>
  </tr>
  <tr>

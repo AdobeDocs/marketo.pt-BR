@@ -1,63 +1,64 @@
 ---
-description: Conectar o bate-papo dinâmico ao Marketo - Documentos do Marketo - Documentação do produto
-title: Conectar o bate-papo dinâmico ao Marketo
+description: Conecte o Dynamic Chat ao Marketo - Documentação do Marketo - Documentação do produto
+title: Conectar o Dynamic Chat ao Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
-# Conectar o bate-papo dinâmico ao Marketo {#connect-dynamic-chat-to-marketo}
+# Conectar o Dynamic Chat ao Marketo {#connect-dynamic-chat-to-marketo}
 
-## Conexão do chat dinâmico {#connecting-dynamic-chat}
+## Conectando o Dynamic Chat {#connecting-dynamic-chat}
 
-Depois de concluir o [configuração inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}, é hora de executar a sincronização única que conecta o Dynamic Chat à sua assinatura do Marketo.
+Depois de concluir o [configuração inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}, é hora de executar o Dynamic Chat de conexão de sincronização única com sua assinatura do Marketo.
 
-1. Em Minha Marketo, clique no botão **Bate-papo dinâmico** mosaico.
+1. Em Meu Marketo, clique no link **Bate-papo dinâmico** bloco.
 
    ![](assets/connect-dynamic-chat-to-marketo-1.png)
 
    >[!NOTE]
    >
-   >Caso não veja o bloco, entre em contato com o administrador do Marketo.
+   >Se você não vir o bloco, entre em contato com o administrador do Marketo.
 
-1. Se você acessou anteriormente um aplicativo com uma Adobe ID, você será direcionado diretamente para o Bate-papo dinâmico. Caso contrário, [configurar sua Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}.
+1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Dynamic Chat. Caso contrário, [configurar seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
-1. Para conectar a instância do Marketo, selecione **Integrações**.
+1. Para conectar sua instância do Marketo, selecione **Integrações**.
 
    ![](assets/connect-dynamic-chat-to-marketo-2.png)
 
-1. No cartão Marketo , clique em **Iniciar Sincronização**.
+1. No cartão Marketo, clique em **Iniciar sincronização**.
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
-1. Selecione até 50 atributos (campos padrão ou personalizados) da instância do Marketo para sincronizar com o Dynamic Chat para uso no direcionamento de público-alvo, mapeamento de dados e personalização. Clique em **Próximo** quando concluído.
+1. Selecione até 50 atributos (campos padrão ou personalizados) da sua instância do Marketo para sincronizar com o Dynamic Chat para uso no direcionamento de público, mapeamento de dados e personalização. Clique em **Próxima** quando terminar.
 
    ![](assets/connect-dynamic-chat-to-marketo-4.png)
 
-1. Revise suas seleções. Clique em **Confirmar** para iniciar a sincronização.
+1. Revise suas seleções. Clique em **Confirmar o** para iniciar a sincronização.
 
    ![](assets/connect-dynamic-chat-to-marketo-5.png)
 
 >[!NOTE]
 >
->Pode levar de 2 a 24 horas para a sincronização ser concluída, dependendo do tamanho do banco de dados.
+>Pode levar de 2 a 24 horas para que a sincronização seja concluída, dependendo do tamanho do banco de dados.
 
 ## Adicionar um atributo {#add-an-attribute}
 
-Após a sincronização inicial, veja como adicionar atributos adicionais.
+Após a sincronização inicial, veja como adicionar outros atributos.
 
-1. Em **Integrações**, certifique-se de que **Adobe Marketo Engage** está selecionada e clique em **Adicionar atributo**.
+1. Entrada **Integrações**, verifique se **Adobe Marketo Engage** for selecionada e clique em **Adicionar atributo**.
 
    ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
-1. Selecione os atributos que deseja adicionar e clique em **Próximo**.
+1. Selecione os atributos que deseja adicionar e clique em **Próxima**.
 
    ![](assets/connect-dynamic-chat-to-marketo-7.png)
 
-1. Revise suas seleções e clique em **Confirmar**.
+1. Revise suas seleções e clique em **Confirmar o**.
 
    ![](assets/connect-dynamic-chat-to-marketo-8.png)
 
@@ -67,9 +68,9 @@ Após a sincronização inicial, veja como remover um atributo.
 
 >[!NOTE]
 >
->Você verá a opção de remover um atributo somente se ele não estiver em uso por nenhuma caixa de diálogo.
+>Você só verá a opção para remover um atributo se ele não estiver sendo usado atualmente por nenhuma caixa de diálogo.
 
-1. Em **Integrações**, certifique-se de que **Adobe Marketo Engage** for selecionada e clique no atributo que deseja remover.
+1. Entrada **Integrações**, verifique se **Adobe Marketo Engage** for selecionada e clicar no atributo que deseja remover.
 
    ![](assets/connect-dynamic-chat-to-marketo-9.png)
 
@@ -79,4 +80,4 @@ Após a sincronização inicial, veja como remover um atributo.
 
 >[!MORELIKETHIS]
 >
->[Configuração inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}
+>[Configuração inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}

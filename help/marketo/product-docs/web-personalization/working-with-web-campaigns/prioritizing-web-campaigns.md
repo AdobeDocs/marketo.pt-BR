@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8782266
-description: Priorização de campanhas da Web - Documentos do Marketo - Documentação do produto
+description: Priorização De Campanhas Da Web - Documentação Do Marketo - Documentação Do Produto
 title: Priorização de campanhas da Web
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -12,20 +13,20 @@ ht-degree: 0%
 
 # Priorização de campanhas da Web {#prioritizing-web-campaigns}
 
-Priorize suas campanhas da Web quando duas ou mais campanhas da Web se sobrepuserem, definindo uma Pontuação de prioridade.
+Priorize suas campanhas da Web quando duas ou mais campanhas se sobrepuserem, definindo uma Pontuação de prioridade.
 
 >[!NOTE]
 >
->**Sobreposição de campanhas**
+>**Campanhas sobrepostas**
 >
 >Uma sobreposição de campanha da Web ocorre quando:
 >
->* Duas ou mais campanhas de widgets e/ou caixa de diálogo reagem ao mesmo tempo na mesma página
->* Duas ou mais Em regiões com a mesma id de zona reagem ao mesmo tempo na mesma página da Web
+>* Duas ou mais campanhas de Widgets e/ou diálogo reagem ao mesmo tempo na mesma página
+>* Dois ou mais Em regiões com a mesma ID de zona reagem ao mesmo tempo na mesma página da Web
 >
->Uma campanha Na zona e uma campanha (Widget ou caixa de diálogo) podem reagir na mesma página.
+>Uma campanha Na zona e uma campanha (Widget ou Caixa de diálogo) podem reagir na mesma página.
 
-1. Acesse Campanhas da Web.
+1. Vá para Campanhas da Web.
 
    ![](assets/web-campaigns-hand-6.jpg)
 
@@ -33,16 +34,16 @@ Priorize suas campanhas da Web quando duas ou mais campanhas da Web se sobrepuse
    >
    >Para facilitar a localização da campanha da Web desejada, use o [recurso de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Na Página Editar Campanha, defina a Pontuação de Prioridade (9999 = Prioridade Mais Alta 1 = Prioridade Mais Baixa).
+1. Na página Editar campanha, defina a Pontuação de prioridade (9999 = Prioridade mais alta 1 = Prioridade mais baixa).
 
    ![](assets/image2015-7-9-20-3a20-3a58.png)
 
    >[!TIP]
    >
-   >Recomendamos que você use a Pontuação de prioridade da campanha somente se houver uma sobreposição de campanha potencial, com uma importância maior de uma das campanhas. Você não precisa definir uma prioridade para cada campanha.
+   >Recomendamos que você use a Pontuação de prioridade da campanha somente se houver uma sobreposição potencial de campanha, com uma importância maior de uma das campanhas. Você não precisa definir uma prioridade para cada campanha.
 
-1. Salve ou inicie a campanha.
+1. Salvar ou iniciar a campanha.
 
-1. Consulte a Pontuação de prioridade exibida na página Campanhas da Web .
+1. Consulte a Pontuação de prioridade exibida na página Campanhas da Web.
 
 ![](assets/web-campaign-priority-score.jpg)

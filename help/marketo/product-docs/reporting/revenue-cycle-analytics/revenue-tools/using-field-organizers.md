@@ -1,26 +1,27 @@
 ---
 unique-page-id: 3571892
-description: Uso de Organizadores de campo - Documentos do Marketo - Documentação do produto
-title: Uso de Organizadores de Campo
+description: Uso de organizadores de campo - Documentação do Marketo - Documentação do produto
+title: Utilização de Organizadores de Campo
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 1%
 
 ---
 
-# Uso de Organizadores de Campo {#using-field-organizers}
+# Utilização de Organizadores de Campo {#using-field-organizers}
 
-Os organizadores de campos ajudam você a especificar determinados campos de todos os valores possíveis. Por exemplo, você pode criar agrupamentos significativos, como a Costa Oeste e a Costa Leste, para o campo Território. Isso ajuda a executar os relatórios mais rapidamente.
+Os organizadores de campos ajudam você a especificar determinados campos de todos os valores possíveis. Por exemplo, você pode criar agrupamentos significativos, como Costa Oeste e Costa Leste, para o campo Território. Isso ajuda a executar os relatórios mais rapidamente.
 
-Os organizadores de campo são semelhantes às segmentações, que são usadas genericamente, mas os organizadores de campo são usados para gerar relatórios no nível de campo.
+Os organizadores de campo são semelhantes às segmentações, que são usadas genericamente, mas os organizadores de campo são usados para relatórios no nível do campo.
 
 É possível ter até três segmentações personalizadas em uma lista de campos.
 
 Não há um relatório específico de Organizadores de campo.
 
-Organizadores de campo são usados na Análise de desempenho do modelo.
+Os Organizadores de campo são usados na Análise de desempenho do modelo.
 
 ## Como criar organizadores de campo {#how-to-create-field-organizers}
 
@@ -44,7 +45,7 @@ Organizadores de campo são usados na Análise de desempenho do modelo.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 
-Crie mais organizadores de campo da mesma maneira, se precisar. E aí está.
+Crie mais organizadores de campo da mesma maneira, se necessário. E aí está você.
 
 >[!MORELIKETHIS]
 >

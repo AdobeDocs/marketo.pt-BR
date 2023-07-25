@@ -1,87 +1,87 @@
 ---
-description: Sincronização de campo personalizado do membro do programa - Documentos do Marketo - Documentação do produto
-title: Sincronização de Campo Personalizado do Membro do Programa
+description: Sincronização de campo personalizado do membro do programa - Documentação do Marketo - Documentação do produto
+title: Sincronização de Campo Personalizado de Membro do Programa
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 6%
+source-wordcount: '355'
+ht-degree: 7%
 
 ---
 
-# Sincronização de Campo Personalizado do Membro do Programa {#program-member-custom-field-sync}
+# Sincronização de Campo Personalizado de Membro do Programa {#program-member-custom-field-sync}
 
 >[!PREREQUISITES]
 >
->* Criação de [Campos personalizados do membro do programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target=&quot;_blank&quot;}
->* [Sincronizar uma campanha do Salesforce com um programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target=&quot;_blank&quot;}
-
+>* Criação de [Campos Personalizados de Membros do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* [Sincronizar uma campanha do Salesforce com um programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
 >O objeto Membro do programa pode ter até 20 campos personalizados. Esses campos estão disponíveis para qualquer programa.
 
-## Mapear campos do Salesforce para campos personalizados do membro do programa {#map-salesforce-fields-to-program-member-custom-fields}
+## Mapear campos do Salesforce para campos personalizados de membros do programa {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. No Marketo, clique em **Administrador**.
+1. No Marketo, clique em **Admin**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Clique em **Salesforce**, depois clique em **Editar** ao lado de Sincronização de campo personalizado do membro do programa.
+1. Clique em **Salesforce** e, em seguida, clique em **Editar** ao lado de Sincronização de campo personalizado do membro do programa.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. Use a caixa de pesquisa para localizar os campos do Salesforce que deseja mapear. Neste exemplo, estamos usando Não chamar.
+1. Use a caixa de pesquisa para localizar os campos do Salesforce que deseja mapear. Neste exemplo, estamos usando Do Not Call.
 
    ![](assets/program-member-custom-field-sync-3.png)
 
-1. Clique no menu suspenso .
+1. Clique na lista suspensa.
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. Escolha o Campo Personalizado do Membro do Programa Marketo desejado para mapear.
+1. Escolha o Campo Personalizado de Membro do Programa Marketo que deseja mapear.
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >A lista suspensa mostrará apenas os Campos Personalizados do Membro do Programa que correspondem ao tipo de dados do campo Salesforce .
+   >O menu suspenso mostrará apenas os Campos personalizados do membro do programa que correspondem ao tipo de dados do campo Salesforce.
 
 1. Para mapeamentos de campo adicionais, desmarque a caixa de pesquisa e repita as etapas de 3 a 5.
 
-1. Clique em **Salvar** quando concluído.
+1. Clique em **Salvar** quando terminar.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
    >[!IMPORTANT]
    >
-   >As alterações nos dados do membro do programa nos campos mapeados serão sincronizadas entre o Marketo e o Salesforce a partir de agora.
+   >As alterações nos dados dos membros do programa nos campos mapeados serão sincronizadas entre o Marketo e o Salesforce a partir de agora.
 
    >[!NOTE]
    >
-   >Se você renomear ou alterar o tipo de dados de um campo no Salesforce, removeremos qualquer mapeamento desse campo com o Campo Personalizado do Membro do Programa. Mas você pode remapeá-lo com o novo campo após a revisão.
+   >Se você renomear ou alterar o tipo de dados de um campo no Salesforce, removeremos qualquer mapeamento desse campo com o Campo personalizado do membro do programa. Mas você pode remapeá-lo com o novo campo após a revisão.
 
-## Desmapear Campos do Salesforce a partir de Campos Personalizados do Membro do Programa {#unmap-salesforce-fields-from-program-member-custom-fields}
+## Desmapear campos do Salesforce dos campos personalizados do membro do programa {#unmap-salesforce-fields-from-program-member-custom-fields}
 
-Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteração geral, é necessário realizar um desmapeamento primeiro. Veja como.
+Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteração geral, execute um cancelamento de mapeamento primeiro. Veja como.
 
-1. No Marketo, clique em **Administrador**.
+1. No Marketo, clique em **Admin**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Clique em **Salesforce**, depois clique em **Editar** ao lado de Sincronização de campo personalizado do membro do programa.
+1. Clique em **Salesforce** e, em seguida, clique em **Editar** ao lado de Sincronização de campo personalizado do membro do programa.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
-1. Use a caixa de pesquisa para localizar os campos que deseja desmapear. Neste exemplo, estamos usando Não chamar.
+1. Use a caixa de pesquisa para localizar os campos que deseja desmapear. Neste exemplo, estamos usando Do Not Call.
 
    ![](assets/program-member-custom-field-sync-9.png)
 
    >[!TIP]
    >
-   >Você pode selecionar a variável **Mapeado** caixa de seleção para ver apenas os campos mapeados.
+   >É possível selecionar a variável **Mapeado** para ver apenas os campos mapeados.
 
-1. Desmapeie clicando no botão **X** ao lado do campo .
+1. Desmapeie clicando no ícone **X** ao lado do campo.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
@@ -110,7 +110,7 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
       <td>Sequência de caracteres</td>
     </tr>
     <tr>
-      <td>Lista de opções de seleção múltipla</td>
+      <td>Seleção múltipla da lista de opções</td>
       <td>Sequência de caracteres</td>
     </tr>
     <tr>
@@ -118,7 +118,7 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
       <td>Sequência de caracteres</td>
     </tr>
     <tr>
-      <td>E-mail</td>
+      <td>Email</td>
       <td>Sequência de caracteres</td>
     </tr>
     <tr>
@@ -158,7 +158,6 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
 
 >[!MORELIKETHIS]
 >
->* [Alterar Dados do Membro do Programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target=&quot;_blank&quot;}
->* [Exibir dados na grade Membro do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target=&quot;_blank&quot;}
->* [Sincronização SFDC - Sincronização de Campanha](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target=&quot;_blank&quot;}
-
+>* [Alterar dados dos membros do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [Exibir dados na grade de Membros do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [Sincronização do SFDC - Sincronização do Campaign](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

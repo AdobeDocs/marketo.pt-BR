@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147023
-description: Chame o Webhook - Documentos do Marketo - Documentação do produto
+description: Chamar Webhook - Documentação do Marketo - Documentação do produto
 title: Chamar webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 7%
@@ -18,7 +19,7 @@ ht-degree: 7%
 
 ## Visão geral {#overview}
 
-Os Webhooks permitem que você interaja com serviços de terceiros. Envie/receba informações ao chamar um webhook em um fluxo de campanha inteligente.
+Os webhooks permitem interagir com serviços de terceiros. Envie/receba informações chamando um webhook em um fluxo de campanha inteligente.
 
 ![](assets/image2014-9-22-15-3a4-3a7.png)
 
@@ -28,11 +29,11 @@ Os Webhooks permitem que você interaja com serviços de terceiros. Envie/receba
 
 ## Uso {#usage}
 
-Selecione um **Webhook** no menu suspenso .
+Selecione um **Webhook** no menu suspenso.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
-Isso é tudo! Seu webhook agora será chamado sempre que as pessoas entrarem no fluxo da campanha inteligente.
+Isso é tudo! Seu webhook agora será chamado sempre que as pessoas entrarem no fluxo de campanha inteligente.
 
 >[!MORELIKETHIS]
 >

@@ -1,8 +1,9 @@
 ---
-description: Detalhes de acesso do usuário - Documentos do Marketo - Documentação do produto
+description: Detalhes de acesso do usuário - Documentação do Marketo - Documentação do produto
 title: Detalhes de acesso do usuário
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -11,15 +12,15 @@ ht-degree: 0%
 
 # Detalhes de acesso do usuário {#user-access-details}
 
-Ao que os administradores e não administradores têm acesso?
+A que administradores e não administradores têm acesso?
 
 ## Permissões de usuário administrador {#admin-user-permissions}
 
-Administradores podem [exibir todos os modelos](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
+Os administradores podem [exibir todos os modelos](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/user-access-details-1.png)
 
-Administradores podem [exibir todas as campanhas](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+Os administradores podem [exibir todas as campanhas](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/user-access-details-2.png)
 
@@ -27,38 +28,38 @@ Os administradores podem exibir todas as atividades de email.
 
 ![](assets/user-access-details-3.png)
 
-Administradores podem ver todas as pessoas em uma campanha em execução.
+Administradores podem ver todas as pessoas em uma campanha em andamento.
 
 ![](assets/user-access-details-4.png)
 
-Os administradores podem ver campanhas de usuários e categorias de campanha com o menu suspenso Exibir como .
+Os administradores podem ver as campanhas dos usuários e as categorias da campanha com o menu suspenso Exibir como.
 
 ![](assets/user-access-details-5.png)
 
-Os administradores podem interromper campanhas em nome dos usuários.
+Os administradores podem interromper as campanhas em nome dos usuários.
 
-## Permissões de usuário não administrador {#non-admin-user-permissions}
+## Permissões de usuário não administrativo {#non-admin-user-permissions}
 
-* Análises:
+* Analytics:
 
    * Os usuários podem ver a análise de equipe
-   * Os usuários podem detalhar somente as equipes às quais pertencem
-   * Os usuários podem analisar suas próprias análises
+   * Os usuários podem detalhar apenas as equipes às quais pertencem
+   * Os usuários podem examinar suas próprias análises
 
-* Página Pessoas:
+* Página de pessoas:
 
    * Os usuários podem compartilhar grupos com todos
    * Os usuários podem compartilhar grupos apenas com as equipes às quais pertencem
-   * Os usuários terão visibilidade para todas as pessoas no banco de dados de Ações
-   * Quando um usuário é excluído, seus contatos compartilhados transferem a propriedade para o administrador Principal que excluiu o usuário
+   * Os usuários terão visibilidade de todas as pessoas em seu banco de dados de Ações
+   * Quando um usuário é excluído, seus contatos compartilhados transferem a propriedade para o Administrador Principal que excluiu o usuário
 
-* Página Gerenciamento de Equipe:
+* Página Gerenciamento da Equipe:
 
-   * Não é possível visualizar
+   * Não é possível exibir
 
 * Página Modelos:
 
    * Os usuários podem compartilhar modelos com todos
-   * Os usuários podem compartilhar modelos em categorias que seus administradores permitem
-   * Quando um usuário é removido de um grupo, seus modelos não são compartilhados com esse grupo
-   * Quando um usuário é excluído de uma equipe, seus modelos transferem a propriedade para o administrador Principal que excluiu o usuário
+   * Os usuários podem compartilhar modelos em categorias que os administradores permitem
+   * Quando um usuário é removido de uma equipe, seus modelos não são compartilhados com essa equipe
+   * Quando um usuário é excluído de uma equipe, seus modelos transferem a propriedade para o Administrador Principal que excluiu o usuário

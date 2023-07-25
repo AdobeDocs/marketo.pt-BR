@@ -2,7 +2,8 @@
 description: Visão geral do recurso de ações do Sales Insight - Documentação do Marketo - Documentação do produto
 title: Visão geral do recurso Ações do Sales Insight
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '1392'
 ht-degree: 1%
@@ -130,7 +131,7 @@ As seguintes ações em massa estão disponíveis no menu suspenso da guia Melho
 * Enviar email de vendas - Capacidade de enviar emails personalizados ou com modelos com rastreamento de exibição, clique e resposta
 * Enviar campanha de vendas - Adicionar leads aos manuais de vendas, que são uma sequência de emails e tarefas
 
-   ![](assets/sales-insight-actions-feature-overview-4.png)
+  ![](assets/sales-insight-actions-feature-overview-4.png)
 
 As seguintes ações embutidas estão disponíveis para clientes potenciais/contatos individuais na guia Melhores Opções:
 
@@ -139,7 +140,7 @@ As seguintes ações embutidas estão disponíveis para clientes potenciais/cont
 * Discador de vendas - Efetue chamadas de vendas usando o discador no CRM
 * Adicionar tarefa - Crie tarefas de email, chamada, cliente ou Linkedin para clientes potenciais potenciais
 
-   ![](assets/sales-insight-actions-feature-overview-5.png)
+  ![](assets/sales-insight-actions-feature-overview-5.png)
 
 **Guia E-mail**
 
@@ -160,7 +161,7 @@ As seguintes ações embutidas estão disponíveis para clientes potenciais/cont
 * Sincronizar tarefas com o Salesforce
 * Registrar tarefas na seção Histórico de atividades do Salesforce
 
-   ![](assets/sales-insight-actions-feature-overview-6.png)
+  ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **Feed ativo**
 
@@ -189,4 +190,4 @@ Os filtros e acionadores incluem:
 * Adicionado à Campanha de vendas
 * Removido da campanha de vendas
 
-   ![](assets/sales-insight-actions-feature-overview-7.png)
+  ![](assets/sales-insight-actions-feature-overview-7.png)

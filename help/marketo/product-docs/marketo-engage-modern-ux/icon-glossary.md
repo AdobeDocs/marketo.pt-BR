@@ -1,17 +1,18 @@
 ---
-description: Ícone Glossário - Documentos do Marketo - Documentação do produto
-title: Ícone Glossário
+description: Ícone Glossário - Documentação do Marketo - Documentação do produto
+title: Ícone do Glossário
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 53%
 
 ---
 
-# Ícone Glossário {#new-icon-glossary}
+# Ícone do Glossário {#new-icon-glossary}
 
-Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se você precisar fazer referência aos ícones do Marketo Classic, eles poderão ser [encontrado aqui](/help/marketo/getting-started/classic-icon-glossary.md).
+Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se você precisar referenciar os ícones do Marketo Classic, eles poderão ser [encontrado aqui](/help/marketo/getting-started/classic-icon-glossary.md).
 
 ## Ícones gerais {#general-icons}
 
@@ -45,7 +46,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se você pre
   <tr>
    <td><img src="assets/classic-email.png"></td> 
    <td><img src="assets/email.png"></td> 
-   <td>E-mail</td> 
+   <td>Email</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
@@ -130,7 +131,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se você pre
   <tr>
    <td><img src="assets/classic-landing-page-template.png"></td> 
    <td><img src="assets/landing-page-template.png"></td> 
-   <td>Modelo de página</td> 
+   <td>Modelo de página de destino</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-revenue-cycle-model-unapproved.png"></td> 
@@ -175,7 +176,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se você pre
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td> 
    <td><img src="assets/smart-list-cached.png"></td> 
-   <td>Smart List - em cache</td> 
+   <td>Lista inteligente - em cache</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-sms-message.png"></td> 
@@ -220,7 +221,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se você pre
   <tr>
    <td><img src="assets/classic-workspace.png"></td> 
    <td><img src="assets/workspace.png"></td> 
-   <td>Área de trabalho</td> 
+   <td>Espaço de trabalho</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-youtube.png"></td> 
@@ -267,12 +268,12 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se você pre
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled-again.png"></td> 
    <td><img src="assets/scheduled-to-run-again.png"></td> 
-   <td>Programado para ser executado novamente</td> 
+   <td>Agendado para ser executado novamente</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td> 
    <td><img src="assets/used-by-nurture.png"></td> 
-   <td>Usada Pela Cultura</td> 
+   <td>Usado pelo Nurture</td> 
   </tr>
  </tbody>
 </table>
@@ -444,7 +445,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se você pre
   <tr>
    <td><strong>n/d</strong></td> 
    <td><img src="assets/approved-under-recalculation.png"></td> 
-   <td>Aprovado - sob recálculo</td> 
+   <td>Aprovado - em recálculo</td> 
   </tr>
   <tr>
    <td><strong>n/d</strong></td> 

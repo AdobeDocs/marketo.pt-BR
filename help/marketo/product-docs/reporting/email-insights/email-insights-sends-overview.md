@@ -1,44 +1,45 @@
 ---
 unique-page-id: 10099413
-description: Visão geral dos envios de insights de email - Documentos do Marketo - Documentação do produto
-title: Visão geral dos envios de insights de email
+description: Visão geral dos envios de insights de email - Documentação do Marketo - Documentação do produto
+title: Visão geral dos envios do Email Insights
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# Visão geral dos envios de insights de email {#email-insights-sends-overview}
+# Visão geral dos envios do Email Insights {#email-insights-sends-overview}
 
-Na página Envios , examine as características da comunicação por email recente.
+Na página Envios, examine as características das comunicações recentes por email.
 
 ![](assets/one.png)
 
-Use [filtragem](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) para especificar quais emails deseja ver.
+Uso [filtragem](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) para especificar os emails que deseja ver.
 
 ![](assets/filtering.png)
 
-No lado direito da página, há várias informações relacionadas aos emails enviados.
+No lado direito da página há várias informações sobre os emails enviados.
 
 ![](assets/two-1.png)
 
 **Tipo** indica o tipo de ativo usado.
 **Recipient** número é quantas pessoas receberam o email.
-**Métricas de entrega** O fornece uma visualização rápida de quantos emails foram entregues, estão pendentes ou retornaram.\
-**Métricas de envolvimento** fornece uma visualização rápida de quantos recipients abriram, clicaram e cancelaram a assinatura de um email.
-**Pontuação** é o seu email [Pontuação de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**Métricas de entrega** fornece uma visualização rápida de quantos emails foram entregues, estão pendentes ou foram rejeitados.\
+**Métricas de engajamento** fornece uma visualização rápida de quantos recipients abriram, clicaram e cancelaram a inscrição de um email.
+**Pontuação** é do seu email [Pontuação de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-Por padrão, seus emails são classificados pelo mais recente, mas você pode classificá-los por qualquer métrica disponível.
+Por padrão, seus emails são classificados pelos mais recentes, mas você pode classificá-los por qualquer métrica disponível.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->Os emails são listados por nome do programa ou da campanha (parte superior) e nome do ativo de email (parte inferior).
+>Os emails são listados por nome de programa ou campanha (parte superior) e nome de ativo de email (parte inferior).
 
-Se desejar visualizar as estatísticas do email no Analytics, passe o mouse ao lado de Score e clique no ícone do gráfico.
+Se quiser exibir as estatísticas de seu email no Analytics, passe o mouse ao lado de Pontuação e clique no ícone do gráfico.
 
 ![](assets/five.png)
 
@@ -46,4 +47,4 @@ Coisa legal!
 
 >[!MORELIKETHIS]
 >
->[Visão geral da análise de insights de email](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>[Visão geral do Email Insights Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)

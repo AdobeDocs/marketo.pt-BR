@@ -1,8 +1,9 @@
 ---
-description: Introdução aos públicos preditivos - Documentos do Marketo - Documentação do produto
+description: Introdução aos públicos preditivos - Documentação do Marketo - Documentação do produto
 title: Introdução aos públicos preditivos
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Predictive Audiences
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -11,26 +12,26 @@ ht-degree: 0%
 
 # Introdução aos públicos preditivos {#getting-started-with-predictive-audiences}
 
-O Predictive Audiences (PA) utiliza a IA e o aprendizado de máquina para permitir que você direcione públicos de maneira mais eficaz e tome etapas proativas para atingir suas metas de marketing.
+O Predictive Audiences (PA) usa IA e aprendizado de máquina para permitir que você direcione públicos com mais eficiência e tome etapas proativas para atingir suas metas de marketing.
 
 O PA inclui os seguintes recursos:
 
-* Valores de Probabilidade de Registro e Presença para cada lead em um programa de evento
+* Valores de probabilidade de inscrição e presença para cada cliente potencial em um programa de evento
 * [Filtros preditivos](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
-* [Modelos e fatores de influência](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
+* [Modelos e fatores que influenciam](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
 * Insights baseados em IA/ML
-* Rastreamento de meta e registros projetados - (o Rastreamento de meta só está disponível para aqueles que têm a alternância de UX moderna ativada para programas de evento)
+* Rastreamento de metas e Registros projetados - (o Rastreamento de metas está disponível somente para aqueles que têm a alternância de UX moderno ativada para Programas de evento)
 
 >[!NOTE]
 >
->O rastreamento de metas e os registros projetados são aplicáveis somente àqueles que têm a alternância UX moderna ativada para Programas de eventos.
+>O rastreamento de metas e os registros projetados só se aplicam àqueles que têm a alternância de UX moderno ativada para Programas de evento.
 
-O desempenho dos modelos de AI/ML depende dos dados na sua assinatura. Quanto mais frequentemente um modelo for usado, mais ajustado ele se tornará aos seus dados de assinatura e negócios específicos.
+O desempenho dos modelos de IA/ML depende dos dados em sua assinatura. Quanto mais frequentemente um modelo for usado, mais ajustado ele se tornará aos dados de assinatura e negócios específicos.
 
 ## Disponibilidade
 
-O Predictive Audiences é incluído e ativado automaticamente para instâncias que utilizam pacotes de preços Prime ou Ultimate. Para saber mais sobre como obter acesso a esse recurso, entre em contato com a equipe de conta do Adobe (seu gerente de conta).
+O Predictive Audiences é incluído e ativado automaticamente para instâncias que utilizam pacotes de preços Prime ou Ultimate. Para saber mais sobre como obter acesso a esse recurso, entre em contato com a Equipe de conta do Adobe (seu gerente de conta).
 
-1. Depois que o recurso tiver sido adicionado à sua instância, navegue até o **[!UICONTROL Públicos-alvo preditivos]** na página **[!UICONTROL Administrador]** área do Marketo.
+1. Depois que o recurso for adicionado à sua instância, navegue até o **[!UICONTROL Públicos preditivos]** página no **[!UICONTROL Admin]** área do Marketo.
 
-1. Verificar **[!UICONTROL Ativar públicos-alvo preditivos]** para ativar o recurso. Observe que pode levar até 24 horas para que todos os processos concluam a configuração.
+1. Marcar **[!UICONTROL Habilitar públicos preditivos]** para ativar o recurso. Observe que pode levar até 24 horas para que todos os processos concluam a configuração.

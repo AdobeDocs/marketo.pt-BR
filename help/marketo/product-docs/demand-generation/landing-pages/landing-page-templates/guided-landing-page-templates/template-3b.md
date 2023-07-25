@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8159325
-description: Modelo 3B - Documentos do Marketo - Documentação do produto
+description: Modelo 3B - Documentação do Marketo - Documentação do produto
 title: Modelo 3B
 exl-id: 28cd87fa-8ded-449a-8a5d-0e7c7241b49e
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -12,18 +13,18 @@ ht-degree: 0%
 
 # Modelo 3B {#template-3b}
 
-Clique com o botão direito do mouse em para [baixar modelo 3B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
+Clique com o botão direito do mouse para [baixar Modelo 3B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
 
 ![](assets/image2015-6-15-11-3a11-3a30.png)
 
 Esse template inclui o seguinte conteúdo:
 
 * Um cabeçalho com logotipo e 3 botões (opcional)
-* Uma seção primária
+* Uma seção principal
 
    * inclui texto e vídeo herói.
 
-* Três seções de corpo (opcional)
+* Três seções do corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359657
-description: Alterar a localidade de um formulário - Documentos do Marketo - Documentação do produto
+description: Alterar a localidade de um formulário - Documentação do Marketo - Documentação do produto
 title: Alterar a localidade de um formulário
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Alterar a localidade de um formulário {#change-a-forms-locale}
 
-Ao lidar com formulários internacionais, você desejará exibir datas/horas nos formatos corretos. A Marketo fará isso automaticamente para você, tudo o que você precisa fazer é definir a localidade do formulário e cuidar do resto.
+Ao lidar com formulários internacionais, será necessário exibir datas/horas nos formatos corretos. O Marketo fará isso automaticamente para você. Tudo o que você precisa fazer é definir o local do formulário e nós cuidaremos do resto.
 
 1. Ir para **Atividades de marketing**.
 
@@ -38,14 +39,14 @@ Ao lidar com formulários internacionais, você desejará exibir datas/horas nos
 
    >[!NOTE]
    >
-   >O formulário deve ser aprovado para ser usado nas landing pages.
+   >O formulário deve ser aprovado para ser usado em landing pages.
 
    ![](assets/image2014-9-15-12-3a53-3a52.png)
 
    >[!NOTE]
    >
-   >Lembrar de [aprovar o rascunho da landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações do formulário.
+   >Lembre-se de [aprovar o rascunho da página de destino](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
-   É isso! As pessoas podem ver a data/hora sendo exibida na localidade correta.
+   É isso aí! As pessoas podem ver a data/hora sendo exibida no local correto.
 
    ![](assets/image2014-9-15-12-3a53-3a59.png)

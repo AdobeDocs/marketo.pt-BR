@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147025
-description: Usar um Webhook em uma campanha inteligente - Documentos do Marketo - Documentação do produto
+description: Usar um Webhook em uma campanha inteligente - Documentação do Marketo - Documentação do produto
 title: Usar um Webhook em uma campanha inteligente
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 5%
@@ -12,7 +13,7 @@ ht-degree: 5%
 
 # Usar um Webhook em uma campanha inteligente {#use-a-webhook-in-a-smart-campaign}
 
-Para usar um [webhook](https://developers.marketo.com/documentation/webhooks/), adicione-o a um [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) como uma ação de fluxo.
+Para usar uma [webhook](https://developers.marketo.com/documentation/webhooks/), adicione-o a um [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) como uma ação de fluxo.
 
 >[!AVAILABILITY]
 >
@@ -22,9 +23,9 @@ Para usar um [webhook](https://developers.marketo.com/documentation/webhooks/), 
 
    >[!NOTE]
    >
-   >Os Webhooks só podem ser usados em campanhas do acionador.
+   >Os webhooks só podem ser usados em campanhas de acionador.
 
-1. Vá para o **Fluxo** e arraste para a **Chame o Webhook** ação de fluxo.
+1. Vá para a **Fluxo** e arraste na guia **Chamar Webhook** ação de fluxo.
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 
@@ -36,6 +37,6 @@ Para usar um [webhook](https://developers.marketo.com/documentation/webhooks/), 
 
    ![](assets/2017-05-02-10-54-38.png)
 
-1. Por fim, você pode usar Webhooks no **Adicionar escolha** em uma etapa de fluxo.
+1. Por fim, é possível usar Webhooks no **Adicionar seleção** em uma etapa de fluxo.
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)

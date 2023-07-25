@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359606
-description: Excluir um campo em um formulário - Documentos do Marketo - Documentação do produto
+description: Excluir um campo em um formulário - Documentação do Marketo - Documentação do produto
 title: Excluir um campo em um formulário
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 2%
@@ -12,7 +13,7 @@ ht-degree: 2%
 
 # Excluir um campo em um formulário {#delete-a-field-in-a-form}
 
-Se houver um campo que não seja mais necessário no formulário, ele poderá ser facilmente excluído. Veja como.
+Se houver um campo que não é mais necessário no formulário, ele poderá ser facilmente excluído. Veja como.
 
 1. Ir para **Atividades de marketing**.
 
@@ -22,7 +23,7 @@ Se houver um campo que não seja mais necessário no formulário, ele poderá se
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Selecione o campo e clique no botão **excluir** ícone .
+1. Selecione o campo e clique no botão **excluir** ícone.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 
@@ -36,4 +37,4 @@ Se houver um campo que não seja mais necessário no formulário, ele poderá se
 
 >[!NOTE]
 >
->Não se esqueça de [aprovar o rascunho da landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações do formulário.
+>Não se esqueça de [aprovar o rascunho da página de destino](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.

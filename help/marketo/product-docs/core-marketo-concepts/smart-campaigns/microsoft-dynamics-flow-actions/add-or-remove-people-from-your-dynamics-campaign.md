@@ -1,49 +1,49 @@
 ---
-description: Adicionar ou remover pessoas de sua campanha dinâmica - Documentos do Marketo - Documentação do produto
-title: Adicionar ou remover pessoas de sua campanha dinâmica
+description: Adicionar ou remover pessoas do Dynamics Campaign - Documentação do Marketo - Documentação do produto
+title: Adicionar ou Remover Pessoas do Dynamics Campaign
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Microsoft Dynamics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-# Adicionar ou remover pessoas de sua campanha dinâmica {#add-or-remove-people-from-your-dynamics-campaign}
+# Adicionar ou Remover Pessoas do Dynamics Campaign {#add-or-remove-people-from-your-dynamics-campaign}
 
 ## Adicionar ao Dynamics Campaign {#add-to-dynamics-campaign}
 
-Essa etapa do fluxo pode ser usada em Campanhas inteligentes do Marketo para adicionar pessoas como leads ou contatos em uma campanha do Microsoft. Se o lead ainda não existir no Dynamics, será sincronizado automaticamente e adicionado à campanha.
+Essa etapa do fluxo pode ser usada em Campanhas inteligentes do Marketo para adicionar pessoas como leads ou contatos em uma campanha do Microsoft. Se o lead ainda não existir no Dynamics, ele será sincronizado automaticamente e será adicionado à campanha.
 
 >[!NOTE]
 >
 >Essa ação de fluxo está disponível somente para Campanhas de acionador.
 
-Em sua campanha inteligente, encontre e selecione a campanha Dynamics à qual deseja adicionar suas pessoas.
+Em sua campanha inteligente, localize e selecione a campanha do Dynamics à qual deseja adicionar seus funcionários.
 
 ![](assets/add-or-remove-people-from-your-dynamics-campaign-1.png)
 
 >[!NOTE]
 >
->Se você não conseguir ver uma campanha do Dynamics na lista de campanhas:
+>Se não for possível ver uma campanha do Dynamics na lista de campanhas:
 >
->* Verifique se a Sincronização de campanha está funcional
+>* Verifique se a Sincronização do Campaign está funcional
 >* A campanha não está ativa no Microsoft Dynamics
 
+O sistema cria automaticamente uma Lista de marketing estática específica da campanha, cada uma para leads e contatos, à qual a pessoa será adicionada. É uma ação única e, uma vez para sincronizações subsequentes da campanha, a mesma Lista de marketing é usada. O padrão de nomenclatura adotado para o nome estático da Lista de marketing é `Mkto-leads-<uniqueID>` para clientes potenciais e `Mkto-contacts-<uniqueID>` para contatos.
 
-O sistema cria automaticamente uma Lista de marketing estático específica da campanha, cada uma para leads e contatos, para adicioná-la. É uma ação única e, uma vez, para sincronizações subsequentes da campanha, a mesma Lista de marketing é usada. O padrão de nomenclatura adotado para o nome estático da Lista de marketing é `Mkto-leads-<uniqueID>` para clientes potenciais e `Mkto-contacts-<uniqueID>` para contatos.
-
-Associar essas listas de marketing geradas pelo Marketo a outras campanhas pode levar a comportamentos confusos. Por exemplo: adicionar a uma campanha também resultaria na adição à segunda campanha. Da mesma forma, não é recomendado dissociar a Lista de marketing gerada pela Marketo da Campanha no Dynamics.
+Associar essas Listas de marketing geradas pela Marketo a outras campanhas pode levar a um comportamento confuso. Por exemplo: adicionar a uma campanha também resultaria em adicionar à segunda campanha. Da mesma forma, não é recomendado dissociar a Lista de marketing gerada pela Marketo da Campanha no Dynamics.
 
 ## Remover do Dynamics Campaign {#remove-from-dynamics-campaign}
 
-Esta etapa do fluxo pode ser usada nas Campanhas inteligentes do Marketo para remover pessoas de uma campanha do Microsoft. Isso remove somente os leads de uma Campanha que foram adicionados anteriormente à Campanha por meio da ação de fluxo &quot;Adicionado ao Microsoft Campaign&quot;.
+Essa etapa do fluxo pode ser usada em Campanhas inteligentes do Marketo para remover pessoas de uma campanha do Microsoft. Isso remove apenas os clientes em potencial de uma Campanha que foram adicionados anteriormente à Campanha por meio da ação de fluxo &quot;Adicionado à Campanha do Microsoft&quot;.
 
 >[!NOTE]
 >
 >Essa ação de fluxo está disponível somente para Campanhas de acionador.
 
-Em sua campanha inteligente, encontre e selecione a campanha Dynamics da qual deseja remover suas pessoas.
+Em sua campanha inteligente, localize e selecione a campanha do Dynamics da qual deseja remover seus funcionários.
 
 ![](assets/add-or-remove-people-from-your-dynamics-campaign-2.png)
 
@@ -51,6 +51,5 @@ Em sua campanha inteligente, encontre e selecione a campanha Dynamics da qual de
 >
 >Se você não vir uma campanha do Dynamics na lista de campanhas:
 >
->* Verifique se a Sincronização de campanha está funcional
+>* Verifique se a Sincronização do Campaign está funcional
 >* A campanha não está ativa no Microsoft Dynamics
-

@@ -3,7 +3,8 @@ unique-page-id: 2949243
 description: SEO - Adicionar/Remover Colunas Da Exibição De Palavras-Chave - Documentação Do Marketo - Documentação Do Produto
 title: SEO - Adicionar/Remover Colunas da Exibição de Palavras-chave
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 1%

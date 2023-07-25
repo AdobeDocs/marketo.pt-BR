@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2950553
-description: Personalizar o fluxo de compartilhamento de vídeo - Documentos do Marketo - Documentação do produto
-title: Personalizar o fluxo de compartilhamento de vídeo
+description: Personalizar fluxo de compartilhamento de vídeo - Documentação do Marketo - Documentação do produto
+title: Personalizar fluxo de compartilhamento de vídeo
 exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Personalizar o fluxo de compartilhamento de vídeo {#customize-video-share-flow}
+# Personalizar fluxo de compartilhamento de vídeo {#customize-video-share-flow}
 
-Quando você [criar um compartilhamento de vídeo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), é possível personalizar quando e onde o prompt de compartilhamento é exibido.
+Quando você [criar um compartilhamento de vídeo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), você pode personalizar quando e onde o prompt de compartilhamento será exibido.
 
 1. Ir para **Atividades de marketing**.
 

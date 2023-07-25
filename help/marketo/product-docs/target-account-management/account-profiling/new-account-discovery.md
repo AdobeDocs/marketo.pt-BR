@@ -1,44 +1,45 @@
 ---
 unique-page-id: 37355609
-description: New Account Discovery - Marketo Docs - Product Documentation
-title: Nova Detecção de Contas
+description: Descoberta de nova conta - Documentação do Marketo - Documentação do produto
+title: Descoberta de Nova Conta
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
-source-git-commit: 90b2f0f251f0c5805188731d0a2e4deedf720d70
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
 
-# Nova Detecção de Contas {#new-account-discovery}
+# Descoberta de Nova Conta {#new-account-discovery}
 
-A New Account Discovery pode ajudar você a encontrar novas contas para segmentar usando recomendações alimentadas por IA do perfil ideal do cliente.
+A Nova descoberta de conta pode ajudar você a encontrar novas contas para direcionar usando recomendações habilitadas por IA do perfil de cliente ideal.
 
 >[!PREREQUISITES]
 >
->[Configurar criação de perfis da conta](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+>[Configurar o perfil da conta](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
->É recomendável pressionar a tecla **Atualizar contas existentes** antes de executar uma nova pesquisa de conta para garantir que você esteja visualizando os dados mais recentes. Essa atualização pode levar até 24 horas.
+>É recomendável pressionar a &lt;barra de espaço> **Atualizar contas existentes** antes de executar uma nova pesquisa de conta para garantir que você esteja observando os dados mais recentes. Esta atualização pode levar até 24 horas.
 
-1. Em Minha Marketo, clique em **Gerenciamento de conta do Target**.
+1. Em Meu Marketo, clique em **Gerenciamento de conta do Target**.
 
    ![](assets/new-account-discovery-1.png)
 
-1. Clique no botão **Criação de perfil da conta** guia .
+1. Clique em **Criação de perfil da conta** guia.
 
    ![](assets/two-2.png)
 
-1. Clique no botão **Novas contas** guia .
+1. Clique em **Novas contas** guia.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Novas contas mostra uma lista de contas que ainda não são suas no TAM. São contas que têm o potencial de serem novas para você com base em filtros selecionados.
+   >Novas contas mostra uma lista de contas que ainda não são suas no TAM. São contas com potencial para serem novas para você com base nos filtros que você selecionar.
 
-1. Selecione todos os filtros aplicáveis (esta parte é altamente personalizável, a seguir há apenas um exemplo para demonstrar a filtragem).
+1. Selecione todos os filtros aplicáveis (esta parte é altamente personalizável, veja a seguir apenas um exemplo para demonstrar a filtragem).
 
    ![](assets/four-1.png)
 
@@ -48,15 +49,15 @@ A New Account Discovery pode ajudar você a encontrar novas contas para segmenta
 
    >[!NOTE]
    >
-   >Se você só vir algumas contas desejadas, tem a opção de clicar em contas individuais e clicar em **Salvar contas selecionadas** quando concluído.
+   >Se você só vir algumas contas que deseja, você tem a opção de clicar em contas individuais e em **Salvar contas selecionadas** quando terminar.
 
-1. Você pode tornar sua lista sua própria Lista de contas ou adicioná-la a uma existente. Neste exemplo, criaremos um novo.
+1. Você pode tornar sua lista sua própria nova Lista de contas ou adicioná-la a uma existente. Neste exemplo, criaremos um novo.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Para salvá-lo em uma Lista de Contas existente, selecione essa opção, clique na lista suspensa e selecione a Lista de Contas desejada e clique em **Próximo**.
+   >Para salvá-la em uma Lista de contas existente, selecione essa opção, clique no menu suspenso e selecione a Lista de contas desejada e clique em **Próxima**.
 
 1. Clique em **Salvar**.
 
@@ -64,7 +65,7 @@ A New Account Discovery pode ajudar você a encontrar novas contas para segmenta
 
    >[!NOTE]
    >
-   >Você só pode salvar até 5.000 contas por vez. Se sua pesquisa gerar 10.000 resultados, você terá que salvar os primeiros (principais) 5.000, redefinir os filtros e salvar os próximos 5.000. O **total** o limite da conta é de um milhão.
+   >Você só pode salvar até 5.000 contas de cada vez. Se a sua pesquisa produzir 10.000 resultados, você terá que salvar os primeiros 5.000, redefinir os filtros e salvar os próximos 5.000. A variável **total** o limite da conta é de um milhão.
 
 1. Clique em **OK**.
 
@@ -72,4 +73,4 @@ A New Account Discovery pode ajudar você a encontrar novas contas para segmenta
 
    >[!TIP]
    >
-   >Depois que suas contas forem salvas, você poderá usar um [público-alvo correspondente no LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) para direcioná-los.
+   >Depois que suas contas forem salvas, você poderá usar um [público correspondente no LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) para direcioná-los.

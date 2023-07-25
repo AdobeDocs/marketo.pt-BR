@@ -1,70 +1,71 @@
 ---
 unique-page-id: 18874822
-description: Notas de versão - junho de 2019 - Documentação da Marketo - Documentação do produto
+description: Notas de versão - 19 de junho - Documentação do Marketo - Documentação do produto
 title: Notas de versão - junho de 2019
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 2%
 
 ---
 
-# Notas de versão: Junho de 19 {#release-notes-june}
+# Notas de versão: junho de 19 {#release-notes-june}
 
-Os seguintes recursos estão incluídos na versão de 19 de junho. Verifique sua edição do Marketo para ver a disponibilidade dos recursos.
+Os seguintes recursos estão incluídos na versão de junho de 2019. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 
 **_Versões trimestrais_**
 
-Os seguintes recursos foram lançados em 14 de junho de 2019.
+Os recursos a seguir foram lançados em 14 de junho de 2019.
 
 ## Principais serviços do Marketo {#marketo-core-services}
 
-* **Soma de Verificação de Arquivo de Extração em Massa**: Verifique se um arquivo completo foi recuperado, comparando seu hash de arquivo com a string de soma de verificação dos trabalhos de extração concluídos.
-* **Migração automatizada do email 1.0 para o email 2.0**: O email 2.0 é totalmente compatível com emails e modelos do Email 1.0. Aproveite os novos recursos, como a capacidade de agrupar elementos de conteúdo (imagens, texto etc.) em módulos, defina variáveis como String, Color, Image etc. em modelos e aproveite os modelos iniciais totalmente responsivos. Também inclui um seletor visual de modelo de email.
+* **Soma de Verificação de Arquivo de Extração em Massa**: verifique se um arquivo completo foi recuperado comparando o hash do arquivo à cadeia de caracteres de soma de verificação dos trabalhos de extração concluídos.
+* **Migração automatizada do Email 1.0 para o Email 2.0**: o Email 2.0 é totalmente compatível com emails e modelos do Email 1.0. Aproveite novos recursos, como a capacidade de agrupar elementos de conteúdo (imagens, texto etc.) nos módulos, defina variáveis como String, Cor, Imagem, etc. modelos e utilize modelos iniciais totalmente responsivos. Também inclui um Seletor visual de modelo de email.
 
 >[!CAUTION]
 >
->A partir de 18 de junho de 2019, o Email 1.0 não estará mais disponível. Saiba mais sobre Email 2.0 e a desativação do Email 1.0 [here](https://nation.marketo.com/docs/DOC-7038).
+>A partir de 18 de junho de 2019, o Email 1.0 não estará mais disponível. Você pode saber mais sobre o Email 2.0 e a desativação do Email 1.0 [aqui](https://nation.marketo.com/docs/DOC-7038).
 
 ## Marketing baseado em contas {#account-based-marketing}
 
-* **Correspondência de contas do linkedIn (BETA)** : Um novo recurso do ABM agora está disponível na versão beta, oferecendo a capacidade de enviar listas de contas conhecidas e de espaços em branco diretamente da Marketo para o LinkedIn. Essa funcionalidade é incluída automaticamente para todos os clientes Marketo ABM.
+* **Correspondência de conta da linkedIn (BETA)** : um novo recurso ABM agora está disponível na versão beta, oferecendo a capacidade de enviar listas de contas conhecidas e de espaços em branco diretamente do Marketo para o LinkedIn. Essa funcionalidade é incluída automaticamente para todos os clientes do Marketo ABM.
 
 <br> 
 
-**_Lançamento em todo o trimestre_**
+**_Lançamento durante todo o trimestre_**
 
-Espera - se que as seguintes características sejam divulgadas ao longo do segundo trimestre e no início do terceiro trimestre de 2019.
+Espera-se que os seguintes recursos sejam lançados ao longo do segundo trimestre e até ao início do terceiro trimestre de 2019.
 
 ## Marketo Sky {#marketo-sky}
 
-* **Limites do evento** e **Metas de evento** geralmente estão disponíveis no Marketo Sky sob o complemento Eventos Premium.
+* **Limites de evento** e **Metas do evento** geralmente estão disponíveis no Marketo Sky sob o complemento Eventos premium.
 
-   * Limites do evento: Otimize a experiência do cliente para seus eventos e webinars com limites de registro, redirecionamentos de página e funcionalidade de lista de espera.
-   * Metas do evento: Defina as metas de registro de eventos e presença e rastreie o progresso em tempo real.
+   * Limites de evento: otimize a experiência do cliente para seus eventos e webinários com limites de registro, redirecionamentos de página e funcionalidade de lista de espera.
+   * Metas do evento: defina metas de registro e participação no evento e acompanhe o progresso em tempo real.
 
-* **Links de navegação completos**: Ativamos a navegação para todos os aplicativos com permissão, como Hootsuite, Calendário e muito mais.
-* **Exibições de email, página de aterrissagem, trecho, formulário, imagem e lista de arquivos**: Exiba, pesquise e execute ações em massa em qualquer um dos seus ativos no Design Studio.
-* **Página de detalhes de imagem, arquivo e trecho**: Obtenha detalhes rápidos sobre seus ativos com metadados como _criado em/por_ e ações como _excluir_ e _aprovar_.
-* **Widget de postagens do blog da comunidade**: Acesse publicações recentes da Comunidade em Meu Marketo.
-* **Widget em breve de expiração**: Adicione o widget &quot;Expirando em breve&quot; ao painel Meu Marketo para ver quais campanhas e páginas de aterrissagem serão definidas para expirar em seguida.
-* **Mais cartões de Smart List**: Segmente e direcione adequadamente com cartões de lista inteligente adicionais, incluindo a etapa de fluxo &quot;Criar tarefa&quot;, regras de lista inteligente de CRM e muito mais.
-* **Página de detalhes do campeão de email/desafiador**: Consulte dados como critérios vencedores, criados em etc. dos seus testes de campeão/desafiante de e-mail.
+* **Links de navegação completa**: Ativamos a navegação para todos os aplicativos com permissões, como Hootsuite, Calendário e muito mais.
+* **Exibições de email, página de aterrissagem, trecho, formulário, imagem e lista de arquivos**: visualize, pesquise e execute ações em massa em qualquer um de seus ativos no Design Studio.
+* **Página Detalhes da Imagem, Arquivo e Snippet**: obtenha detalhes rápidos sobre seus ativos com metadados como _criado em/por_ e ações como _excluir_ e _aprovar_.
+* **Widget de publicações do blog da comunidade**: acesse publicações recentes da Comunidade no My Marketo.
+* **Widget de expiração em breve**: adicione o widget &quot;Expirando em breve&quot; ao painel Meu Marketo para ver quais campanhas e páginas de aterrissagem estão definidas para expirar em seguida.
+* **Mais cartões de lista inteligente**: segmente e direcione adequadamente com cartões de lista inteligente adicionais, incluindo a etapa de fluxo &quot;Criar tarefa&quot;, regras de lista inteligente do CRM e muito mais.
+* **Página de detalhes do e-mail Champion/Challenger**: veja dados como critérios de vitória, criados em, etc. dos testes de campeão/desafiante por email.
 
 ## Marketo Sales Connect {#marketo-sales-connect}
 
-* **Ações em massa na personalização do Salesforce**: Maximize a produtividade enviando emails e adicionando contatos a campanhas em massa com a Personalização do Salesforce.
-* **Configurações - Página do Salesforce para Administração e Não Admin**: Gerencie a instância do Sales Connect com uma visualização clara da instância do Salesforce conectada ao Sales Connect, bem como as atualizações do My Email to Salesforce . As configurações de sincronização aprimoradas para Administradores, Não administradores e Sincronização em toda a equipe serão lançadas nos próximos meses.
-* **Configurações - Página de integração**: Um balcão único para todas as suas integrações, para que você possa aproveitar ao máximo nosso ecossistema aberto.
-* **Configurações - Página de perfil**: Visualize e atualize seus detalhes de conta, altere sua senha e verifique o status da implementação da sua instância nesta nova página de perfil.
+* **Ações em massa na personalização do Salesforce**: maximize a produtividade enviando emails e adicionando contatos a campanhas em massa com a Personalização do Salesforce.
+* **Configurações - Página do Salesforce para administradores e não administradores**: gerencie sua instância do Sales Connect com uma exibição clara da instância do Salesforce conectada ao Sales Connect, bem como minhas atualizações do Email para o Salesforce. As configurações aprimoradas de sincronização para administradores, não administradores e toda a equipe de sincronização serão lançadas nos próximos meses.
+* **Configurações - Página de integração**: um balcão único para todas as suas integrações, para que você possa aproveitar ao máximo o nosso ecossistema aberto.
+* **Configurações - Página de perfil**: visualize e atualize os detalhes da sua conta, altere sua senha e verifique o status da implementação da sua instância nesta nova página de perfil.
 
-* **Modelos de email do sistema**: Recursos atualizados de design, agilidade e internacionalização.
+* **Modelos de email do sistema**: recursos atualizados de design, capacidade de resposta e internacionalização.
 
 ## Bizible do Marketo {#bizible-by-marketo}
 
-* **Suporte a várias moedas para o Dynamics**: A Bizible agora se adapta às tabelas monetárias do Microsoft Dynamics, para que você possa alternar facilmente entre moedas corporativas e locais. (Observação: O suporte para SFDC foi lançado no primeiro trimestre de 2019.)
-* **Integração de Drift**: Entenda como as conversas por Drift afetam a jornada de seu cliente. A Bizible também extrairá endereços de email de conversas para criar um novo lead ou conectar o ponto de contato a um lead existente.
-* **Localização**: A Bizible agora está disponível em todos os idiomas compatíveis com o Marketo (inglês, japonês, alemão, espanhol, francês e português).
+* **Suporte a várias moedas para Dynamics**: a Bizible agora se adapta às tabelas de moeda do Microsoft Dynamics, para que você possa alternar facilmente entre moedas corporativas e locais. (Observação: o suporte ao SFDC foi lançado no primeiro trimestre de 2019.)
+* **Integração de Deriva**: entenda como as conversas sobre o Drift afetam a jornada do cliente. A Bizible também extrairá endereços de email de conversas para criar um novo lead ou conectar o ponto de contato a um lead existente.
+* **Localização**: a Bizible agora está disponível em todos os idiomas com suporte no Marketo (inglês, japonês, alemão, espanhol, francês e português).
 
-***Webinar da versão do produto*** Assista à gravação do nosso webinário de inovações da versão de junho de 1919 [here](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+***Webinário de lançamento do produto*** Assista à gravação do nosso webinário sobre inovações na versão de junho de 1919 [aqui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

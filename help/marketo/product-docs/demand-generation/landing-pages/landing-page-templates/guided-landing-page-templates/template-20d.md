@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10092919
-description: Modelo 20D - Documentos do Marketo - Documentação do produto
+description: Modelo 20D - Documentação do Marketo - Documentação do produto
 title: Modelo 20D
 exl-id: b6fdc927-a469-463a-808e-a08a52c6cfa2
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Modelo 20D {#template-20d}
 
-Clique com o botão direito do mouse em para [modelo de download 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+Clique com o botão direito do mouse para [baixar modelo 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
 
 ![](assets/template-20d.png)
 
 Esse template inclui o seguinte conteúdo:
 
-* Uma seção primária
+* Uma seção principal
 
-   * inclui sorteios de heróis e texto
+   * inclui sorteios e texto de herói
 
-* Quatro seções de corpo (opcional)
+* Quatro seções do corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

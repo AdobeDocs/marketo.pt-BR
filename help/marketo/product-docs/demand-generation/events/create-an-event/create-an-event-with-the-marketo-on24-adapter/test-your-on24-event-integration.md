@@ -1,39 +1,39 @@
 ---
 unique-page-id: 10096677
-description: Teste sua integração de evento ON24 - Documentos da Marketo - Documentação do produto
-title: Teste sua integração de evento ON24
+description: Teste a integração do evento ON24 - Documentação do Marketo - Documentação do produto
+title: Teste a integração do evento ON24
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# Teste sua integração de evento ON24 {#test-your-on-event-integration}
+# Teste a integração do evento ON24 {#test-your-on-event-integration}
 
-Teste a integração do evento completamente.
+Certifique-se de testar completamente a integração do evento.
 
-## Sequência De Teste Recomendada Antes De Executar Sua Primeira Campanha {#recommended-test-sequence-before-running-your-first-campaign}
+## Sequência De Teste Recomendada Antes De Executar A Primeira Campanha {#recommended-test-sequence-before-running-your-first-campaign}
 
 1. Preencha o formulário de registro do evento e use um endereço de email válido para testar.
-1. Confirme se o nome do teste é exibido com uma **Registrado** na grade Associação do evento do Marketo.
-1. Confirme se o nome do teste também é exibido como **Registrado** em ON24.
-1. Confirme se o endereço de email válido usado para registrar o nome de teste recebeu um email de confirmação para o Evento e se o URL exclusivo foi resolvido no email.
+1. Confirme se o nome do teste é exibido com um **Registrado** na grade Associação do seu evento Marketo.
+1. Confirmar se o nome do teste também é exibido como **Registrado** no ON24.
+1. Confirme se o endereço de email válido que você usou para registrar o nome de teste recebeu um email de confirmação para o Evento e se o URL exclusivo foi resolvido no email.
 
    >[!NOTE]
    >
-   >Você deve usar o `{{member.webinar url}}` token no email de confirmação para que o URL único seja exibido no email de cada registrando.
+   >Você deve usar o `{{member.webinar url}}` token no email de confirmação para que o URL exclusivo seja exibido no email de cada inscrito.
 
 ## Após o evento {#after-the-event}
 
-Veja como os dados são atualizados após o evento ocorrer:
+Veja como os dados são atualizados após a ocorrência do evento:
 
-* O Marketo recupera dados de participantes do ON24 todas as noites.
-* Depois que os dados do participante forem sincronizados entre o Marketo e o ON24, a Marketo atualizará o status de associação para Participado, Participado sob demanda ou Sem programa. No **Resumo** , o status do evento é atualizado para **Evento concluído**.
+* O Marketo recupera os dados dos participantes do ON24 todas as noites.
+* Depois que os dados do participante forem sincronizados entre o Marketo e o ON24, o Marketo atualizará o status da associação para Participou, Participou sob demanda ou Não apareceu. No do evento **Resumo** , o status do evento é atualizado para **Evento concluído**.
 
 >[!MORELIKETHIS]
 >
->* [Exemplo de integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
->* [Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
-
+>* [Exemplo de integração de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

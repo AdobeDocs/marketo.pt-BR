@@ -1,66 +1,66 @@
 ---
 unique-page-id: 13796471
 description: Visão geral do feed ao vivo - Documentação do Marketo - Documentação do produto
-title: Visão geral do feed ao vivo
+title: Visão geral do Live Feed
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-# Visão geral do feed ao vivo {#live-feed-overview}
+# Visão geral do Live Feed {#live-feed-overview}
 
-O Feed ao vivo é uma janela flutuante que pode ser iniciada a partir do aplicativo web ou do plug-in Gmail e oferece uma visão em tempo real do envolvimento de prospecto.
+O Feed ao vivo é uma janela flutuante que pode ser iniciada a partir da aplicação web ou do plug-in do Gmail e oferece uma visão em tempo real do envolvimento do cliente potencial.
 
 ## Guia Envolvimento {#engagement-tab}
 
 ![](assets/engagement.jpg)
 
-Veja o envolvimento (visualizações, cliques e respostas) com seus emails do MSE em tempo real.
+Veja o engajamento (visualizações, cliques e respostas) com seus emails do MSE em tempo real.
 
-As pessoas marcadas com roxo estão se envolvendo com seu conteúdo de marketing. Estas pessoas podem não existir no MSE. Você pode clicar na seta para baixo para adicioná-las e obter uma lista de outras ações rápidas.
+As pessoas marcadas com roxo estão se envolvendo com seu conteúdo de marketing. Essas pessoas podem não existir no MSE. Você pode clicar na seta para baixo para adicioná-las e obter uma lista de outras ações rápidas.
 
 ![](assets/purple.png)
 
-As pessoas marcadas com uma linha azul representam o envolvimento com emails enviados pelo MSE.
+As pessoas marcadas com uma linha azul representam o engajamento com emails enviados pelo MSE.
 
 >[!NOTE]
 >
->Em geral, determinamos os locais com a maior precisão possível, com base no rastreamento de IP. Infelizmente, não é uma ciência exata. Se a localização estiver incorreta para um de seus recipients, veja algumas opções sobre o que pode ter acontecido:
+>Em geral, determinamos os locais com a maior precisão possível com base no rastreamento de IP. Infelizmente, não é uma ciência exata. Se obtivermos a localização errada para um de seus recipients, aqui estão algumas opções sobre o que pode ter acontecido:
 >
->* Se o seu destinatário estiver conectado à rede sem fio de uma empresa que tenha a sua sede de TI em outra cidade ou país, registraríamos esse local em vez da localidade atual do destinatário.
->* Se o seu email foi encaminhado ou aberto por alguém no campo CC/CCO, tentamos exibir com precisão a localização dessas pessoas.
-
+>* Se o seu recipient estivesse conectado à rede sem fio de uma empresa que tem sua sede de TI em outra cidade ou país, registraríamos esse local, em vez da localidade atual do recipient.
+>* Se o email foi encaminhado ou aberto por alguém no campo CC/Cco, tentamos exibir com precisão a localização dessas pessoas.
 
 ## Guia Tarefas {#tasks-tab}
 
 ![](assets/task.jpg)
 
-Verifique rapidamente sua lista de itens a fazer diretamente do Feed em tempo real.
+Verifique rapidamente sua lista de tarefas diretamente do Feed ativo.
 
-Crie ou gerencie tarefas abertas.
+Criar novas tarefas ou gerenciar tarefas abertas.
 
-Filtrar hoje, amanhã, hoje *e* amanhã ou nos próximos 7 dias.
+Filtre hoje, amanhã e hoje *e* amanhã ou nos próximos 7 dias.
 
 >[!NOTE]
 >
->Não é possível usar o filtro de data personalizado no Feed em tempo real, mas é possível no aplicativo da Web.
+>Não é possível usar o filtro de data personalizado no Feed ativo, mas você pode no aplicativo web.
 
-Use botões de ação rápida para fazer uma chamada rápida, enviar um email ou navegar até o perfil do Linkedin de uma pessoa.
+Use os botões de ação rápida para fazer uma chamada rapidamente, enviar um email ou navegar até o perfil do Linkedin de uma pessoa.
 
-## Guia Target {#target-tab}
+## Guia Destino {#target-tab}
 
 ![](assets/target.jpg)
 
-Veja suas principais pessoas (ordenadas do mais alto para o mais baixo) classificadas por pontuação de lead. A pontuação de lead é obtida da instância do Marketo.
+Veja suas principais pessoas (ordenadas da mais alta para a mais baixa) classificadas por pontuação de lead. A pontuação do lead é retirada da instância do Marketo.
 
-* Os leads são gerados quando a pontuação da pessoa aumenta no Marketo.
-* Mostramos os 50 principais leads.
+* Os clientes em potencial serão gerados quando a pontuação da pessoa aumentar no Marketo.
+* Mostramos as 50 melhores pistas.
 * Você só verá as pessoas que foram atribuídas a você no Salesforce.
 
-## Ícone Glossário {#icon-glossary}
+## Ícone do Glossário {#icon-glossary}
 
 <table> 
  <colgroup> 
@@ -80,7 +80,7 @@ Veja suas principais pessoas (ordenadas do mais alto para o mais baixo) classifi
     <div> 
      <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td><p>Alguém clicou em um link no seu email</p></td> 
+   <td><p>Alguém clicou em um link em seu email</p></td> 
   </tr> 
   <tr> 
    <td> 
@@ -94,11 +94,11 @@ Veja suas principais pessoas (ordenadas do mais alto para o mais baixo) classifi
     <div> 
      <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td colspan="1">Qualquer notificação listada em Momentos interessantes, incluindo Email, Web e Marcos</td> 
+   <td colspan="1">Qualquer notificação listada em Momentos interessantes, incluindo email, Web e etapas</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->Se você estiver vendo alguém exibir seu email repetidamente no Feed ativo, ele poderá ter encaminhado o email para recipients adicionais. Provavelmente, esse será o caso se você perceber que o local começa a mudar para essas exibições.
+>Se você está vendo alguém visualizar seu email várias vezes no seu Feed ao vivo, ele pode ter encaminhado o email para recipients adicionais. Esse é o caso mais provável se você observar a localização começar a mudar para essas exibições.

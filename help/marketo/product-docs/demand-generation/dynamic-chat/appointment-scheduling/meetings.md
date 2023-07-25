@@ -1,8 +1,9 @@
 ---
-description: Reuniões - Documentos do Marketo - Documentação do produto
+description: Reuniões - Documentação do Marketo - Documentação do produto
 title: Reuniões
 exl-id: b1eeb482-dace-402b-be4f-2fa15e61fa03
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 2%
@@ -11,10 +12,10 @@ ht-degree: 2%
 
 # Reuniões {#meetings}
 
-É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias Diálogos. Aqui você encontrará o endereço de e-mail da pessoa que reservou o compromisso, com qual agente eles reservaram o compromisso, quando o compromisso está agendado para ocorrer e se o horário agendado da reunião foi ou não ultrapassado.
+É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias Caixas de Diálogo. Aqui você encontrará o endereço de email da pessoa que reservou o compromisso, com qual agente ele reservou o compromisso, quando o compromisso está agendado para ocorrer e se o horário agendado para a reunião já passou ou não.
 
 ![](assets/meetings-1.png)
 
 >[!NOTE]
 >
->Quando uma reunião é reservada no calendário de um agente, o agente receberá uma notificação por email sobre a reserva, incluindo informações detalhadas sobre o envolvimento do Bate-papo dinâmico do visitante.
+>Quando uma reunião é reservada no calendário de um agente, ele receberá uma notificação por email sobre a reserva, incluindo informações detalhadas sobre o engajamento do Dynamic Chat do visitante.

@@ -1,19 +1,20 @@
 ---
-description: Adicionar ou remover usuários de bate-papo - Documentos do Marketo - Documentação do produto
-title: Adicionar ou remover usuários de bate-papo
+description: Adicionar ou remover usuários do chat - Documentação do Marketo - Documentação do produto
+title: Adicionar ou Remover Usuários do Chat
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
-# Adicionar ou remover usuários de bate-papo {#add-or-remove-chat-users}
+# Adicionar ou Remover Usuários do Chat {#add-or-remove-chat-users}
 
 Siga as etapas abaixo para adicionar ou remover usuários do chat.
 
-## Adicionar um usuário de bate-papo {#add-a-chat-user}
+## Adicionar um usuário do chat {#add-a-chat-user}
 
 1. Faça logon no [Adobe Admin Console](https://adminconsole.adobe.com/).
 
@@ -27,19 +28,19 @@ Siga as etapas abaixo para adicionar ou remover usuários do chat.
    >
    >Se você tiver mais de uma assinatura do Marketo, selecione a desejada antes da próxima etapa.
 
-1. Clique no botão **Usuários** guia .
+1. Clique em **Usuários** guia.
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. Clique no botão **Adicionar usuário** botão.
+1. Clique em **Adicionar usuário** botão.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. Insira o nome, o grupo de usuários ou o endereço de email do usuário que você deseja adicionar. O nome e o sobrenome são opcionais.
+1. Insira o nome, o grupo de usuários ou o endereço de email do usuário que deseja adicionar. O nome e o sobrenome são opcionais.
 
    ![](assets/add-or-remove-chat-users-5.png)
 
-1. Clique no botão **+** e selecione o perfil de produto desejado.
+1. Clique em **+** e selecione o perfil de produto desejado.
 
    ![](assets/add-or-remove-chat-users-6.png)
 
@@ -47,27 +48,27 @@ Siga as etapas abaixo para adicionar ou remover usuários do chat.
 
    ![](assets/add-or-remove-chat-users-7.png)
 
-## Adicionar acesso dinâmico de bate-papo à função Marketo {#add-dynamic-chat-access-to-marketo-role}
+## Adicionar acesso de Dynamic Chat à função Marketo {#add-dynamic-chat-access-to-marketo-role}
 
-Se a função Marketo do usuário recém-adicionada Chat ainda não tiver a permissão Bate-papo dinâmico, veja a seguir como adicioná-la.
+Se a função Marketo do usuário de bate-papo recém-adicionada ainda não tiver a permissão Dynamic Chat, veja como adicioná-la.
 
-1. No Marketo, clique em **Administrador** e selecione **Usuários e funções**.
+1. No Marketo, clique em **Admin** e selecione **Usuários e funções**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. Clique no botão **Funções** guia .
+1. Clique em **Funções** guia.
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. Na lista , selecione a função que deseja modificar e clique em **Editar função**.
+1. Na lista, selecione a função que deseja modificar e clique em **Editar Função**.
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Selecionar **Acessar o bate-papo dinâmico** e clique em **Salvar**.
+1. Selecionar **Dynamic Chat de acesso** e clique em **Salvar**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
-## Remover um usuário de bate-papo {#remove-a-chat-user}
+## Remover um usuário do chat {#remove-a-chat-user}
 
 1. Faça logon no [Adobe Admin Console](https://adminconsole.adobe.com/).
 
@@ -79,9 +80,9 @@ Se a função Marketo do usuário recém-adicionada Chat ainda não tiver a perm
 
    >[!NOTE]
    >
-   >Se tiver mais de uma assinatura do Marketo, selecione a desejada antes da próxima etapa).
+   >Se você tiver mais de uma assinatura do Marketo, selecione a desejada antes da próxima etapa).
 
-1. Clique no botão **Usuários** guia .
+1. Clique em **Usuários** guia.
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -89,7 +90,7 @@ Se a função Marketo do usuário recém-adicionada Chat ainda não tiver a perm
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. Clique no botão **Remover usuário** botão.
+1. Clique em **Remover usuário** botão.
 
    ![](assets/add-or-remove-chat-users-16.png)
 
@@ -101,4 +102,3 @@ Se a função Marketo do usuário recém-adicionada Chat ainda não tiver a perm
 >
 >* [Usuários do Adobe Admin Console](https://helpx.adobe.com/enterprise/using/users.html)
 >* [Gerenciar usuários individualmente](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
-

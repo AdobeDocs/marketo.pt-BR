@@ -1,35 +1,35 @@
 ---
 unique-page-id: 7511877
-description: Momentos interessantes no Salesforce1 - Documentos da Marketo - Documentação do produto
-title: Momentos interessantes em Salesforce1
+description: Momentos interessantes no Salesforce1 - Documentação do Marketo - Documentação do produto
+title: Momentos interessantes no Salesforce1
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
-source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 2%
 
 ---
 
-# Momentos interessantes em Salesforce1 {#interesting-moments-in-salesforce}
+# Momentos interessantes no Salesforce1 {#interesting-moments-in-salesforce}
 
-[Uso de momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) é a chave para se comunicar com sua equipe de vendas por meio do aplicativo Marketo Sales Insight. Agora, com o Marketo Sales Insight for Salesforce1, você pode fazer o mesmo com seu smartphone!
+[Usar momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) O é a chave para se comunicar com sua equipe de vendas por meio do aplicativo Marketo Sales Insight. Agora, com o Marketo Sales Insight for Salesforce1, você pode fazer o mesmo com seu smartphone!
 
 >[!AVAILABILITY]
 >
 >Eles estão disponíveis somente para clientes do Marketo Sales Insight.
 
-1. No seu smartphone, abra o aplicativo Salesforce .
+1. Em seu smartphone, abra o aplicativo Salesforce.
 
-1. Navegue até um lead.
+1. Navegue até um cliente potencial.
 
    ![](assets/one.png)
 
-1. Clique no botão **Relacionado** para ver Momentos interessantes, Atividade da Web, Email e Pontuação.
+1. Clique em **Relacionados** para ver Momentos interessantes, Atividade da Web, Email e Pontuação.
 
    ![](assets/two.png)
 
 >[!MORELIKETHIS]
 >
 >* [Momento interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
->* [Tokens para Momentos Interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
-
+>* [Tokens de momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)

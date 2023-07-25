@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359868
-description: Fazer upload de imagens e arquivos da caixa - Documentos do Marketo - Documentação do produto
-title: Fazer upload de imagens e arquivos da caixa
+description: Fazer upload de imagens e arquivos do Box - Documentação do Marketo - Documentação do produto
+title: Fazer upload de imagens e arquivos do Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Image Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Fazer upload de imagens e arquivos da caixa {#upload-images-and-files-from-box}
+# Fazer upload de imagens e arquivos do Box {#upload-images-and-files-from-box}
 
-Você pode fazer upload de arquivos da Caixa para usar em landing pages e emails.
+Você pode fazer upload de arquivos do Box para usá-los em landing pages e emails.
 
 1. Ir para **Design Studio**.
 
@@ -26,15 +27,15 @@ Você pode fazer upload de arquivos da Caixa para usar em landing pages e emails
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
-1. Digite o login da caixa.
+1. Insira seu login do Box.
 
    ![](assets/image2014-9-16-12-3a51-3a10.png)
 
-1. Permita que o Marketo acesse sua conta da Caixa.
+1. Permita que o Marketo acesse sua conta do Box.
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Escolha onde deseja salvar os arquivos. Em seguida, selecione o **Caixa** pasta da qual deseja fazer upload. Clique em **Próximo**.
+1. Escolha onde deseja salvar os arquivos. Em seguida, selecione o **Caixa** pasta da qual você deseja fazer upload. Clique em **Próxima**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
@@ -42,4 +43,4 @@ Você pode fazer upload de arquivos da Caixa para usar em landing pages e emails
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 
-Seus arquivos agora estão prontos para serem usados em suas landing pages e emails!
+Seus arquivos agora estão prontos para serem usados em suas páginas de aterrissagem e emails!
