@@ -1,44 +1,45 @@
 ---
 unique-page-id: 11375827
-description: Campos obrigatórios para sincronizar o Marketo com o Dynamics - Marketo Docs - Documentação do produto
-title: Campos obrigatórios para sincronizar o Marketo com o Dynamics
+description: Campos obrigatórios para sincronização do Marketo com o Dynamics - Documentação do Marketo - Documentação do produto
+title: Campos obrigatórios para sincronização do Marketo com o Dynamics
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 2%
 
 ---
 
-# Campos obrigatórios para sincronizar o Marketo com o Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
+# Campos obrigatórios para sincronização do Marketo com o Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-Esses campos *must* ser sincronizado com a Marketo para que o Lead e o Contato para o Insight de vendas funcionem:
+Esses campos *deve* ser sincronizado com a Marketo para que o cliente potencial e o contato do Sales Insight funcionem:
 
 * Prioridade
 * Urgência
 * Pontuação relativa
 
-Se algum desses campos estiver ausente, você verá uma mensagem de erro no Marketo com o nome dos campos ausentes. Para corrigir isso, verifique em sua instância para ter certeza de que os campos estão sincronizados para ambos **Líder** e **Contato**. Caso contrário, adicione-os.
+Se algum desses campos estiver ausente, você verá uma mensagem de erro no Marketo com o nome dos campos ausentes. Para corrigir isso, verifique em sua instância se os campos estão sincronizados para **Lead** e **Contato**. Caso contrário, adicione-os.
 
 Veja como verificar e adicionar campos de sincronização.
 
-1. Acesse Admin e clique em **Microsoft Dynamics**.
+1. Acesse Administrador e clique em **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Clique em **Editar** em Detalhes de sincronização de campo.
+1. Clique em **Editar** em Detalhes da sincronização de campo.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Em Lead, marque a caixa de seleção Prioridade .
+1. Em Lead, marque a caixa de seleção Prioridade.
 
    ![](assets/image2016-6-8-13-3a33-3a50.png)
 
-1. Agora, role para baixo e marque a caixa de seleção Urgência ...
+1. Agora, role para baixo e marque a caixa de seleção Urgência...
 
    ![](assets/image2016-6-8-13-3a35-3a22.png)
 
-1. ...e a caixa de seleção Pontuação relativa .
+1. ...e a caixa de seleção Pontuação relativa.
 
    ![](assets/image2016-6-8-13-3a36-3a1.png)
 
@@ -52,8 +53,8 @@ Veja como verificar e adicionar campos de sincronização.
 
 >[!NOTE]
 >
->Aguarde pelo menos 10 minutos para que a sincronização seja executada antes de verificar se você corrigiu o problema.
+>Aguarde pelo menos 10 minutos para que uma sincronização seja executada antes de verificar se você corrigiu o problema.
 
 >[!MORELIKETHIS]
 >
->[Configuração de estrelas e chamas para registros de lead/contato](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[Configuração de Estrelas e Chamas para Registros de Cliente Potencial/Contato](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

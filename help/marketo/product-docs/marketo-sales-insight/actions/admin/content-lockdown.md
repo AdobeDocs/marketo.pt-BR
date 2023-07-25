@@ -1,8 +1,9 @@
 ---
-description: Bloqueio de conteúdo - Documentos do Marketo - Documentação do produto
+description: Bloqueio de conteúdo - Documentação do Marketo - Documentação do produto
 title: Bloqueio de conteúdo
 exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 4%
@@ -11,7 +12,7 @@ ht-degree: 4%
 
 # Bloqueio de conteúdo {#content-lockdown}
 
-Ao ativar o bloqueio de conteúdo, restrinja usuários não administradores de editar modelos e/ou campanhas. Os usuários não poderão: compartilhar, clonar, editar ou excluir conteúdo. Eles também não terão a opção de arquivar modelos.
+Ao ativar o bloqueio de conteúdo, impeça que usuários não administradores editem modelos e/ou campanhas. Os usuários não poderão: compartilhar, clonar, editar ou excluir conteúdo. Eles também não terão a opção de arquivar modelos.
 
 >[!NOTE]
 >
@@ -21,10 +22,10 @@ Ao ativar o bloqueio de conteúdo, restrinja usuários não administradores de e
 
    ![](assets/content-lockdown-1.png)
 
-1. Em Configurações de administração, clique em **Geral**.
+1. Em Configurações do administrador, clique em **Geral**.
 
    ![](assets/content-lockdown-2.png)
 
-1. Role para baixo até Bloqueio de conteúdo. Ativar qualquer controle deslizante desativará a capacidade dos membros da equipe de criar/editar modelos e/ou campanhas.
+1. Role para baixo até Bloqueio de conteúdo. Ativar qualquer um dos controles deslizantes desativará a capacidade dos membros da equipe de criar/editar modelos e/ou campanhas.
 
    ![](assets/content-lockdown-3.png)

@@ -1,22 +1,23 @@
 ---
 unique-page-id: 557337
-description: Criar e alterar exibições para listas e Smart List - Documentos do Marketo - Documentação do produto
-title: Criar e alterar visualizações de listas e Smart List
+description: Criar e alterar exibições para listas e lista inteligente - Documentação do Marketo - Documentação do produto
+title: Criar e Alterar Exibições para Listas e Smart Lists
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-# Criar e alterar visualizações de listas e Smart List {#create-and-change-views-for-lists-and-smart-list}
+# Criar e Alterar Exibições para Listas e Smart Lists {#create-and-change-views-for-lists-and-smart-list}
 
-Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que podia editar essas colunas no conteúdo do seu coração? Veja como.
+Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que podia editar essas colunas ao conteúdo do seu coração? Veja como.
 
-## Criar uma exibição {#create-a-view}
+## Criar uma visualização {#create-a-view}
 
-1. Vá para uma lista ou lista inteligente, clique no botão **Pessoas** e clique em **Criar** **Exibir** nos termos do **Exibir** lista suspensa.
+1. Vá para uma lista ou lista inteligente, clique no link **Pessoas** e clique em **Criar** **Exibir** no **Exibir** menu suspenso.
 
    ![](assets/smartlist-createview.png)
 
@@ -32,23 +33,23 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que podi
 >
 >Para pesquisar rapidamente, use o **Localizar** caixa.
 
-## Alternar visualizações {#switch-views}
+## Alternar Exibições {#switch-views}
 
-1. Clique no botão **Exibir** selecione a exibição desejada. Alterne entre exibições conforme necessário.
+1. Clique em **Exibir** e selecione a exibição desejada. Alterne entre as visualizações conforme necessário.
 
    ![](assets/smartlist-customviewchoose.png)
 
 >[!NOTE]
 >
-> Primeiro, você deve criar uma segunda visualização, além da exibição padrão, para alternar entre as exibições.
+> Primeiro, você deve criar uma segunda exibição, além da exibição padrão, para alternar entre as exibições.
 
-## Editar uma exibição {#edit-a-view}
+## Editar uma Exibição {#edit-a-view}
 
-1. Certifique-se de que a exibição que deseja editar esteja selecionada na **Exibir** lista suspensa.
+1. Verifique se a exibição que você deseja editar está selecionada no **Exibir** menu suspenso.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Clique no botão **Editar** opção.
+1. Clique em **Editar** opção.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -56,9 +57,9 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que podi
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-## Excluir uma exibição {#delete-a-view}
+## Excluir uma visualização {#delete-a-view}
 
-1. Selecione o **Editar** para a exibição que você deseja excluir do **Exibir** lista suspensa.
+1. Selecione o **Editar** opção para a exibição que você deseja excluir da lista **Exibir** menu suspenso.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -66,10 +67,9 @@ Uma lista inteligente exibe um conjunto padrão de colunas. Você sabia que podi
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
-Somente você pode ver as exibições personalizadas criadas na lista suspensa Exibição , portanto, informe aos amigos que eles precisam criar as suas próprias!
+Somente você pode ver as exibições personalizadas que você cria no menu suspenso Exibir. Portanto, informe aos seus amigos que eles precisam criar as suas próprias exibições!
 
 >[!MORELIKETHIS]
 >
->* [Usar Smart Lists integradas/do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [Usar Smart Lists Integradas/do Sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
 >* [Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-

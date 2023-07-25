@@ -1,26 +1,27 @@
 ---
 unique-page-id: 10095429
-description: Corrigir problemas de sincronização de validação do Dynamics - Documentos do Marketo - Documentação do produto
-title: Corrigir problemas de sincronização de validação do Dynamics
+description: Corrigir Problemas De Sincronização De Validação Do Dynamics - Documentação Do Marketo - Documentação Do Produto
+title: Corrigir Problemas de Sincronização de Validação do Dynamics
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 6%
 
 ---
 
-# Corrigir problemas de sincronização de validação do Dynamics {#fix-dynamics-validation-sync-issues}
+# Corrigir Problemas de Sincronização de Validação do Dynamics {#fix-dynamics-validation-sync-issues}
 
-## Validar os resultados da ferramenta de sincronização {#validate-sync-tool-results}
+## Validar Resultados da Ferramenta de Sincronização {#validate-sync-tool-results}
 
-Quando você executa a Sincronização do Dynamics Validate, ela gera um relatório. Se houver um ![x](assets/delete.png) ao lado de uma etapa, consulte as opções abaixo para identificar e corrigir o problema. Em seguida, execute novamente as etapas de validação de sincronização até que o resultado não mostre nada além das marcas de seleção verdes.
+Quando você executa a Sincronização de validação do Dynamics, ela gera um relatório. Se houver uma ![x](assets/delete.png) ao lado de uma etapa, consulte as opções abaixo para identificar e corrigir o problema. Em seguida, execute novamente as etapas de validação de sincronização até que o resultado não mostre nada além de marcas de seleção verdes.
 
 ![](assets/image2015-9-22-15-3a58-3a12.png)
 
 ## URL válido {#url-is-valid}
 
-Se você tiver uma ![x](assets/delete.png) aqui, verifique se o URL é válido. Localize-o aqui em Recursos do desenvolvedor e veja o Serviço de organização. O URL pode ser inválido por vários motivos.
+Se você tiver uma ![x](assets/delete.png) aqui, verifique se o URL é válido. Encontre-o aqui em Recursos do desenvolvedor e veja o Serviço da organização. O URL pode estar inválido por vários motivos.
 
 1. Faça logon no Dynamics. Clique no ícone Configurações e selecione **Configurações avançadas**.
 
@@ -34,19 +35,19 @@ Se você tiver uma ![x](assets/delete.png) aqui, verifique se o URL é válido. 
 
    ![](assets/three.png)
 
-1. O URL do Serviço de Organização pode ser encontrado em Endpoints de Serviço.
+1. A URL de Serviço da Organização pode ser encontrada em Pontos de Extremidade de Serviço.
 
    ![](assets/four.png)
 
 ## Nome de usuário e senha válidos {#username-and-password-are-valid}
 
-Se você tiver uma ![x](assets/delete.png) aqui, verifique se suas credenciais do Microsoft Dynamics são válidas. Para autenticação S2S da API da Web, o nome de usuário no Marketo deve corresponder ao nome da API da Web [endereço de email](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) do Usuário do aplicativo no CRM. Para outros tipos, deve corresponder ao nome de usuário para o Usuário de sincronização.
+Se você tiver uma ![x](assets/delete.png) verifique aqui se suas credenciais do Microsoft Dynamics são válidas. Para autenticação S2S da API da Web, o nome de usuário no Marketo deve corresponder ao [endereço de email](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) do usuário do aplicativo no CRM. Para outros tipos, deve corresponder ao nome de usuário do Usuário de sincronização.
 
 ## O usuário de sincronização é atribuído à função Usuário de sincronização do Marketo {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-Se você tiver uma ![x](assets/delete.png) aqui, pode ser um dos três problemas abaixo.
+Se você tiver uma ![x](assets/delete.png) aqui, pode ser uma das três questões abaixo.
 
-**Opção 1 - Verifique se a função de usuário de sincronização Marketo está marcada no Microsoft Dynamics**:
+**Opção um - Verificar se a função de usuário de sincronização do Marketo está marcada no Microsoft Dynamics**:
 
 1. No Dynamics, clique no ícone Configurações e selecione **Configurações avançadas**.
 
@@ -64,25 +65,25 @@ Se você tiver uma ![x](assets/delete.png) aqui, pode ser um dos três problemas
 
    ![](assets/seven.png)
 
-1. Clique em **Gerenciar funções**.
+1. Clique em **Gerenciar Funções**.
 
    ![](assets/eight.png)
 
-1. Verifique se a função Usuário de sincronização do Marketo está marcada. Caso contrário, marque-a e clique em **Ok.**
+1. Verifique se a função Usuário de sincronização do Marketo está marcada. Caso contrário, marque-a e clique em **OK.**
 
    ![](assets/image2015-9-24-9-3a59-3a21.png)
 
-**Opção 2 - Confirmar o consentimento da concessão**:
+**Opção dois - Confirmar o consentimento da concessão**:
 
-1. Revise o [Conceder consentimento para ID do cliente e registro de aplicativo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) para confirmar que o aplicativo tem consentimento administrativo para chamar APIs.
+1. Revise o [Conceder consentimento para a ID do cliente e o registro do aplicativo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) para confirmar se o aplicativo tem consentimento administrativo para chamar APIs.
 
-**Opção 3 - Sincronizar usuário**:
+**Opção três - Sincronizar usuário**:
 
-1. Verifique se o usuário de sincronização foi adicionado à Configuração do Marketo.
+1. Verifique se o usuário de sincronização foi adicionado à configuração do Marketo.
 
 ## A solução Marketo foi devidamente instalada {#marketo-solution-is-properly-installed}
 
-Se você tiver uma ![x](assets/delete.png) aqui, vá para Microsoft Dynamics para verificar se a instalação do Marketo está lá. Consulte a Etapa 1 da documentação de configuração do Microsoft Dynamics.
+Se você tiver uma ![x](assets/delete.png) aqui, acesse Microsoft Dynamics para verificar se a instalação do Marketo está lá. Consulte a Etapa 1 da documentação de configuração do Microsoft Dynamics.
 
 1. No Dynamics, clique no ícone Configurações e selecione **Configurações avançadas**.
 
@@ -118,7 +119,7 @@ Se você tiver uma ![x](assets/delete.png) aqui, verifique se o usuário Sincron
 
 ## O usuário de sincronização corresponde ao nome de usuário e à senha {#sync-user-matches-username-and-password}
 
-Se você tiver uma ![x](assets/delete.png) aqui, atribua o usuário de sincronização adequado no campo Usuário do Marketo na etapa de configuração Padrão da configuração do Marketo no Microsoft Dynamics.
+Se você tiver uma ![x](assets/delete.png) aqui, atribua o usuário de sincronização apropriado no campo Usuário do Marketo na etapa de configuração padrão do Marketo no Microsoft Dynamics.
 
 >[!MORELIKETHIS]
 >

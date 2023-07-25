@@ -1,32 +1,33 @@
 ---
 unique-page-id: 1147140
-description: Noções básicas sobre datas provisórias/confirmadas - Documentos do Marketo - Documentação do produto
-title: Compreender datas tentativas/confirmadas
+description: Noções básicas sobre datas provisórias/confirmadas - Documentação do Marketo - Documentação do produto
+title: Noções básicas sobre datas provisórias/confirmadas
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 1%
 
 ---
 
-# Compreender datas tentativas/confirmadas {#understanding-tentative-confirmed-dates}
+# Noções básicas sobre datas provisórias/confirmadas {#understanding-tentative-confirmed-dates}
 
-Campanhas inteligentes e programas de email têm um recurso poderoso de ser marcados como **Tentativa** ou **Confirmado**. Veja como eles funcionam.
+Campanhas inteligentes e programas de e-mail têm um recurso poderoso para serem marcados como **Tentativa** ou **Confirmado**. É assim que funcionam.
 
 ## Tentativa {#tentative}
 
-Datas provisórias transmitem a intenção. Pense nisso como _lápis_ algo no calendário. Entradas não provisórias não serão executadas - são apenas marcadores de posição.
+Datas não confirmadas transmitem a intenção. Pense nisso como _lápis_ algo no calendário. As entradas provisórias não serão executadas - elas são somente marcadores de posição.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
 >[!NOTE]
 >
->Somente campanhas inteligentes em lote e programas de email podem ser preliminares.
+>Somente campanhas inteligentes em lote e programas de email podem ser experimentais.
 
-## Confirmação de Entradas {#confirming-entries}
+## Confirmando Entradas {#confirming-entries}
 
-É como aprovar um ativo, portanto, as entradas precisam ser totalmente configuradas antes que você possa confirmá-las. Assim que todos os seus patos estiverem em uma linha, você poderá confirmar as entradas deslizando a guia tentativa para a direita.
+É como aprovar um ativo, portanto, as entradas precisam ser totalmente configuradas antes de você poder confirmá-las. Uma vez que todos os seus patos estão em uma linha, você pode confirmar as entradas deslizando a guia tentativa para a direita.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 
@@ -36,18 +37,18 @@ Datas provisórias transmitem a intenção. Pense nisso como _lápis_ algo no ca
 
 >[!NOTE]
 >
->Por que o cachorro? Ele é um Retriever. Ele está buscando seus dados.
+>Por que o cachorro? Ele é um recuperador. Ele está buscando seus dados.
 
 ## confirmada {#confirmed}
 
-As entradas confirmadas serão executadas definitivamente. Eles têm regras, ativos aprovados e uma data e hora confirmadas.
+As entradas confirmadas serão definitivamente executadas. Eles têm regras, ativos aprovados e uma data e hora confirmadas.
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
 ## Concluído  {#finished}
 
-As entradas concluídas já foram executadas. Eles só podem estar no passado (obviamente). Uma vez que uma entrada é executada e é **Concluído**, não é possível movê-lo ou torná-lo temporário. (Sem alterar a realidade e interromper o contínuo de fluxo de tempo.)
+As entradas concluídas já foram executadas. Eles só podem estar no passado (obviamente). Quando uma entrada é executada e **Concluído**, não é possível movê-lo ou torná-lo tentativo. (Sem alterar a realidade e interromper o fluxo contínuo de tempo.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-Esses estados são ferramentas poderosas. Ao clonar um programa, todas as datas da campanha inteligente e do programa de email serão preliminares. Todos podem ser confirmados diretamente na exibição de agendamento. Legal, certo?
+Esses estados são ferramentas poderosas. Ao clonar um programa, todas as datas da campanha inteligente e do programa de email serão provisórias. Elas podem ser confirmadas diretamente na exibição de agendamento. Legal, não é?

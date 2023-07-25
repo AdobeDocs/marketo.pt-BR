@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359965
-description: Visão geral do tipo de relatório - Documentos do Marketo - Documentação do produto
+description: Visão geral do tipo de relatório - Documentação do Marketo - Documentação do produto
 title: Visão geral do tipo de relatório
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 11%
@@ -25,61 +26,61 @@ Quando você [criar um relatório em um programa](/help/marketo/product-docs/rep
  </thead> 
  <tbody> 
   <tr> 
-   <td><strong>  <a href="people-performance-report.md">Relatório de desempenho de pessoas</a>  </strong></td> 
-   <td>Agrupe pessoas por qualquer atributo e inclua informações de oportunidade. Detalhe e explore.</td> 
+   <td><strong>  <a href="people-performance-report.md">Relatório de Desempenho de Pessoas</a>  </strong></td> 
+   <td>Agrupe as pessoas por qualquer atributo e inclua informações da oportunidade. Detalhe e explore.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md">Desempenho do link do e-mail</a>  </strong></td> 
-   <td>Estatísticas dos links individuais nos seus emails.</td> 
+   <td>Estatísticas de links individuais em seus emails.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md">Desempenho do e-mail</a>  </strong></td> 
-   <td>Revise as interações com seus emails: entregues ou devolvidas, abertas, clicadas, canceladas a subscrição, etc.</td> 
+   <td>Revise as interações com seus emails: entregues ou devolvidos, abertos, clicados, cancelados, etc.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">Desempenho de e-mails do Sales Insight</a>  </strong></td> 
-   <td>Revise as interações com seus emails enviados pelo Marketo Sales Insight no Salesforce, Microsoft Dynamics e o plug-in Outlook e Gmail.</td> 
+   <td>Revise as interações com seus emails enviados por meio do Marketo Sales Insight no Salesforce, Microsoft Dynamics e do plug-in Outlook e Gmail.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="people-by-status-report.md">Relatório de Pessoas por Status</a>  </strong></td> 
-   <td>Relatório automático com base no campo Status da pessoa .</td> 
+   <td><strong>  <a href="people-by-status-report.md">Relatório de pessoas por status</a>  </strong></td> 
+   <td>Geração automática de relatórios com base no campo Status da Pessoa.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Relatório de Pessoas por Estágio de Receita</a>  </strong></td> 
-   <td>Relatórios básicos para sua <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Modelo de receita</a>. Consulte <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Análise do ciclo de receita</a> para relatórios mais aprofundados.</td> 
+   <td><strong>  <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Relatório de pessoas por estágio de receita</a>  </strong></td> 
+   <td>Relatórios básicos para o seu <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Modelo de receita</a>. Consulte <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Análise do ciclo de receita</a> para obter relatórios mais profundos.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Desempenho da página</a>  </strong></td> 
-   <td>Não é um substituto para Google Analytics, mas ainda é uma boa informação.</td> 
+   <td>Não é um substituto para Google Analytics, mas ainda assim uma informação muito boa.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Desempenho do programa</a>  </strong></td> 
-   <td>Métricas básicas do programa, como membros e sucesso. Consulte <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Análise do ciclo de receita</a> para relatórios mais aprofundados.</td> 
+   <td>Métricas básicas do programa, como membros e sucesso. Consulte <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Análise do ciclo de receita</a> para obter relatórios mais profundos.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">Atividade da empresa na Web</a>  </strong></td> 
-   <td>Relate a atividade da Web em suas landing pages e site público, agrupadas por empresa.</td> 
+   <td>Relatório sobre a atividade da Web para suas páginas de aterrissagem e sites públicos, agrupados por empresa.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="web-page-activity-report.md">Atividade de página da Web</a>  </strong></td> 
-   <td>Relate a atividade da Web para suas landing pages e site público.</td> 
+   <td>Relate a atividade da Web para suas páginas de aterrissagem e site público.</td> 
   </tr> 
   <tr> 
    <td><strong>Influência social</strong></td> 
-   <td>Analise a atividade social que você está gerando e veja com que frequência suas pessoas contam aos amigos sobre você.</td> 
+   <td>Revise a atividade social que você está gerando e veja com que frequência suas pessoas falam com os amigos sobre você.</td> 
   </tr> 
   <tr> 
-   <td><strong> <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Relatório de desempenho do fluxo de envolvimento</a> </strong></td> 
-   <td><p>Veja como sua <a href="https://docs.marketo.com/display/docs/drip+nurturing">programa de participação</a> O está funcionando.</p></td> 
+   <td><strong> <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Relatório de Desempenho de Fluxo de Envolvimento</a> </strong></td> 
+   <td><p>Veja como o seu <a href="https://docs.marketo.com/display/docs/drip+nurturing">programa de envolvimento</a> está funcionando.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Relatórios diversos {#miscellaneous-reports}
 
-Não é tão útil quanto os tipos de relatório acima, mas ainda está disponível.
+Não tão útil quanto os tipos de relatório acima, mas ainda disponível.
 
 | Relatório | Descrição |
 |---|---|
-| [Atividade da campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) | Estatísticas de processamento do Smart Campaign. |
-| [Desempenho de e-mail da campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) | Desempenho de email, agrupado por Campanhas inteligentes. |
+| [Atividade da campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) | Estatísticas de processamento de Campanha inteligente. |
+| [Desempenho de e-mail da campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) | Desempenho do email, agrupado por Campanhas inteligentes. |

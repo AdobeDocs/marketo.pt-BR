@@ -1,30 +1,31 @@
 ---
 unique-page-id: 10093348
-description: Noções básicas sobre cartões de campanha inteligente - Documentos do Marketo - Documentação do produto
-title: Como entender os cartões de campanha inteligente
+description: Entendendo os cartões do Smart Campaign - Documentação do Marketo - Documentação do produto
+title: Compreensão de cartões do Smart Campaign
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
-# Como entender os cartões de campanha inteligente {#understanding-smart-campaign-cards}
+# Compreensão de cartões do Smart Campaign {#understanding-smart-campaign-cards}
 
-Use os Momentos do Marketo para visualizar cada execução de suas campanhas inteligentes de seu smartphone ou iPad. O cartão de campanha inteligente Moments do Marketo representa uma única execução de uma campanha; um novo cartão é exibido sempre que a campanha inteligente é executada. Os cartões de campanha inteligentes são marcados com uma lâmpada no canto superior esquerdo.
+Use o Marketo Moments para exibir cada execução de suas campanhas inteligentes do seu smartphone ou iPad. O cartão de campanha inteligente Momentos do Marketo representa uma única execução de uma campanha; um novo cartão é exibido toda vez que a campanha inteligente é executada. Os cartões de campanha inteligentes estão marcados com uma lâmpada no canto superior esquerdo.
 
-Para futuras campanhas inteligentes programadas, mas ainda não executadas, o cartão de Momentos do Marketo ainda não exibe as estatísticas da campanha. Eles aparecerão em uma versão futura.
+Para campanhas inteligentes futuras programadas, mas que ainda não foram executadas, o cartão Momentos da Marketo ainda não exibe nenhuma estatística da campanha. Eles aparecerão em uma versão futura.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
-## Cartões de campanha inteligente {#smart-campaign-cards}
+## Cartões de campanha inteligentes {#smart-campaign-cards}
 
 1. Toque no cartão para abrir o cartão de detalhes.
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
-1. O cartão de detalhes fornece acesso a informações sobre os filtros Smart List, Fluxo e Resumo de email.
+1. O cartão de detalhes fornece acesso às informações sobre os filtros da Smart List, Fluxo e Resumo de email.
 
 1. Toque **Lista inteligente**.
 
@@ -38,61 +39,61 @@ Para futuras campanhas inteligentes programadas, mas ainda não executadas, o ca
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
-1. Agora, você verá o fluxo da Campanha inteligente. Essa campanha tem apenas uma etapa do fluxo, mas pode haver várias.
+1. Agora, você verá o fluxo da Campanha inteligente. Esta campanha tem apenas uma etapa de fluxo, mas pode haver várias.
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Clique em **Resumo do email**.
+1. Clique em **Resumo de email**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
-1. Agora, é possível ver a resposta do recipient em cada email, por número e porcentagem.
+1. Agora, você pode ver a resposta do recipient a cada email, por número e porcentagem.
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. Vê aqueles dois pontos no fundo? Eles indicam que há dois emails conectados a essa campanha inteligente. Para visualizar os resultados do outro email, passe a tela para a esquerda. Veja os resultados do segundo email.
+1. Vê aqueles dois pontos na base? Eles indicam que há dois emails conectados a essa campanha inteligente. Para visualizar os resultados do outro email, passe o dedo para a tela à esquerda. Estes são os resultados do segundo email.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
    >[!NOTE]
    >
-   >Observe que o outro ponto está destacado agora.
+   >Observe que o outro ponto é realçado agora.
 
 ## Criação de amostras e visualizações de email {#creating-email-samples-and-previews}
 
-É uma boa ideia dar uma olhada em um e-mail antes que ele saia. Ou envie uma amostra para outra pessoa para ter um segundo conjunto de olhos nela.
+É uma boa ideia dar uma olhada em um email antes que ele seja enviado. Ou envie uma amostra para outra pessoa para obter um segundo conjunto de olhos nela.
 
 1. Toque no menu de ação de três pontos em um email.
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Toque [Enviar exemplo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) ou [Visualizar Email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (clique nesses links para obter detalhes).
+1. Toque [Enviar amostra](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) ou [Visualizar email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (clique nesses links para obter detalhes).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
-## Confirmação de uma execução de campanha inteligente {#confirming-a-smart-campaign-run}
+## Confirmação de uma execução da campanha inteligente {#confirming-a-smart-campaign-run}
 
-Os cartões para campanhas inteligentes não confirmadas são cinza até que você os confirme. Então elas ficam laranja.
+Os cartões para campanhas inteligentes não confirmadas ficam em cinza até que você os confirme. Então, eles ficam alaranjados.
 
 1. Para confirmar um cartão de campanha inteligente não confirmado, toque no menu de ação de três pontos.
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Toque **Confirmar**.
+1. Toque **Confirmar o**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Toque **Confirmar** para terminar o trabalho, ou **Sem importância** se tiver pensamentos secundários.
+1. Toque **Confirmar o** para concluir o trabalho, ou **Não importa** se você tem dúvidas.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
    >[!NOTE]
    >
-   >Agora seu cartão vai ficar laranja!
+   >Agora seu cartão ficará laranja!
 
 ## Cancelar uma execução de campanha inteligente {#canceling-a-smart-campaign-run}
 
-Você pode cancelar uma execução de campanha inteligente confirmada e agendada.
+Você pode cancelar uma execução de campanha inteligente confirmada e programada.
 
 1. Toque no menu de ação de três pontos.
 
@@ -102,13 +103,13 @@ Você pode cancelar uma execução de campanha inteligente confirmada e agendada
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Toque **Cancelar execução**. Se decidir não cancelar a execução no último minuto, toque em **Sem importância** e a campanha inteligente será executada conforme agendado.
+1. Toque **Cancelar execução**. Se decidir no último minuto não cancelar a execução, toque em **Não importa** e a campanha inteligente será executada conforme programado.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
-## Reprogramação de uma campanha inteligente {#rescheduling-a-smart-campaign}
+## Reprogramar uma campanha inteligente {#rescheduling-a-smart-campaign}
 
-Você pode reprogramar uma campanha inteligente confirmada que ainda não foi executada.
+Você pode reagendar uma campanha inteligente confirmada que ainda não foi executada.
 
 1. Toque no menu de ação de três pontos.
 
@@ -124,20 +125,20 @@ Você pode reprogramar uma campanha inteligente confirmada que ainda não foi ex
 
    Pedaço de bolo!
 
-## Outras ações da campanha inteligente {#other-smart-campaign-actions}
+## Outras ações do Smart Campaign {#other-smart-campaign-actions}
 
-Assim como em outros cartões de Momentos do Marketo, você pode tocar nos três pontos em qualquer cartão do Smart Campaign ou em um cartão de detalhes para:
+Assim como em outros cartões Marketo Moments, você pode tocar nos três pontos em qualquer cartão do Smart Campaign ou cartão de detalhes para:
 
-* [Torne-o um favorito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Marque como concluído](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Compartilhar](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Tornar um favorito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Marcar como concluído](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Compartilhá-lo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
 >[!NOTE]
 >
->Também é possível tocar no botão **Compartilhar** ícone em um cartão do Smart Campaign para compartilhar e o **Concluído** e **Favorito** no cartão de detalhes.
+>Você também pode tocar no **Compartilhar** em um cartão do Smart Campaign para compartilhar, e o **Concluído** e **Favorito** ícones no cartão de detalhes.
 
 ## Excluir rapidamente um cartão de campanha inteligente {#quickly-delete-a-smart-campaign-card}
 
-Se você tiver um cartão que não precisa mais, talvez um que tenha usado para testar, você pode se livrar dele com um deslize rápido para a esquerda ou para a direita.
+Se você tiver um cartão que não precisa mais, talvez um que tenha usado para testes, poderá se livrar dele com um rápido deslizamento para a esquerda ou para a direita.

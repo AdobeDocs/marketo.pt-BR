@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359463
-description: Aprovar um trecho - Documentos do Marketo - Documentação do produto
+description: Aprovar um trecho - Documentação do Marketo - Documentação do produto
 title: Aprovar um trecho
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -16,17 +17,17 @@ ht-degree: 0%
 >
 >[Adicionar conteúdo a um trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
-É necessário aprovar um trecho antes de utilizar.
+Um trecho precisa ser aprovado antes do uso.
 
-1. Vá para o **Design Studio**.
+1. Vá para a **Design Studio**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Clique no seu **Snippet**. Em **Ações de trecho**, clique em **Aprovar**.
+1. Clique no seu **Trecho**. Em **Ações do trecho**, clique em **Aprovar**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-Pronto! O status do trecho muda de Rascunho para Aprovado.
+Pronto! O status do seu trecho muda de Rascunho para Aprovado.
 
 >[!MORELIKETHIS]
 >

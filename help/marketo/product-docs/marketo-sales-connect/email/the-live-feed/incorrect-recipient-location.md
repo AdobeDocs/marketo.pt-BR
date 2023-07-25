@@ -1,21 +1,22 @@
 ---
 unique-page-id: 14352543
-description: Localização incorreta do destinatário - Documentos do Marketo - Documentação do produto
-title: Localização incorreta do destinatário
+description: Localização Incorreta Do Recipient — Documentação Do Marketo — Documentação Do Produto
+title: Local de Destinatário Incorreto
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-# Localização incorreta do destinatário {#incorrect-recipient-location}
+# Local de Destinatário Incorreto {#incorrect-recipient-location}
 
-Se a localização estiver errada para os seus destinatários, há três possibilidades para o que pode ter acontecido:
+Se erramos na localização de seus recipients, há três possibilidades para o que pode ter acontecido:
 
--Se o destinatário tiver feito logon na rede sem fio de uma empresa que tenha a sua sede de TI em outra cidade ou país, registraríamos esse local em vez da localidade atual.
+-Se o seu destinatário estivesse conectado à rede sem fio de uma empresa que tem sua sede de TI em outra cidade ou país, registraríamos esse local, em vez do local atual.
 
--Se o seu email foi encaminhado ou aberto por alguém no campo CC ou CCO, tentamos exibir com precisão o local dessas pessoas.
+- Se o seu e-mail foi encaminhado ou aberto por alguém no campo CC ou CCO, tentamos exibir com precisão a localização dessas pessoas.
 
-Em geral, vamos determinar os locais com a maior precisão possível com base no rastreamento de IP, mas infelizmente não é uma ciência exata.
+No geral, determinaremos os locais com a maior precisão possível com base no rastreamento de IP, mas infelizmente não é uma ciência exata.

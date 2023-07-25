@@ -1,30 +1,30 @@
 ---
 unique-page-id: 7512457
-description: Enviar uma notificação por push móvel - Documentos do Marketo - Documentação do produto
-title: Enviar uma notificação por push para dispositivos móveis
+description: Enviar uma notificação por push para dispositivos móveis - Documentação do Marketo - Documentação do produto
+title: Enviar uma notificação por push em dispositivo móvel
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# Enviar uma notificação por push para dispositivos móveis {#send-a-mobile-push-notification}
+# Enviar uma notificação por push em dispositivo móvel {#send-a-mobile-push-notification}
 
-Enviar uma notificação por push para pessoas usando seu aplicativo móvel.
+Envie uma notificação por push às pessoas que usam seu aplicativo móvel.
 
 >[!PREREQUISITES]
 >
 >* [Criar uma nova campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Criar uma notificação por push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-
-1. Vá para o **Atividades de marketing** área.
+1. Vá para a **Atividades de marketing** área.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Selecione sua campanha inteligente e clique em **Lista inteligente**.
+1. Selecione a campanha inteligente e clique em **Lista inteligente**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
@@ -38,7 +38,7 @@ Enviar uma notificação por push para pessoas usando seu aplicativo móvel.
 
    >[!NOTE]
    >
-   >A notificação por push deve ser aprovada antes de ser exibida no menu suspenso.
+   >A notificação por push deve ser aprovada antes de aparecer no menu suspenso.
 
 1. Clique em **Executar uma vez**.
 
@@ -48,4 +48,4 @@ Enviar uma notificação por push para pessoas usando seu aplicativo móvel.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
-Sente-se e aguarde até que sua notificação por push seja enviada.
+Sente-se e aguarde sua notificação por push ser enviada.

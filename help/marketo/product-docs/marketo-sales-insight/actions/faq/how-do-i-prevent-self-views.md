@@ -1,29 +1,30 @@
 ---
-description: Como impedir autoexibições - Documentos do Marketo - Documentação do produto
-title: Como impedir autoexibições
+description: Como impedir a auto visualização - Documentação do Marketo - Documentação do produto
+title: Como evitar auto visualizações
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-# Como Impedir Visualizações Automáticas? {#how-do-i-prevent-self-views}
+# Como impedir a auto visualização? {#how-do-i-prevent-self-views}
 
-Obter falsos positivos no rastreamento de visualização pode levar a inconsistências no relatório. Isso geralmente ocorre quando os usuários do Marketo Sales acidentalmente chamam o pixel de rastreamento do cliente de email (chamamos isso de autovisualização). Abaixo estão algumas dicas sobre redução significativa e até mesmo eliminação de autovisões.
+Obter falsos positivos no rastreamento de visualização pode gerar inconsistências de relatório. Isso geralmente ocorre quando os usuários do Marketo Sales invocam acidentalmente o pixel de rastreamento de seu cliente de email (chamamos isso de visualização automática). Abaixo estão algumas dicas sobre como reduzir significativamente e até mesmo eliminar as autovisualizações.
 
 ## Web (Outlook Web App e Gmail) {#web-outlook-web-app-and-gmail}
 
-O Marketo Sales armazenará um cookie em seu navegador para impedir que as exibições sejam rastreadas ao abrir seus emails do Outlook Web App e Gmail. Se você ainda estiver recebendo autovisualizações, recomendamos fazer o seguinte:
+O Marketo Sales armazenará um cookie em seu navegador para impedir que as exibições sejam rastreadas ao abrir seus emails do Outlook Web App e do Gmail. Se você ainda estiver recebendo visualizações pessoais, recomendamos fazer o seguinte:
 
 * Verifique se os cookies estão ativados no computador.
 
-* Se estiver usando um novo computador ou dispositivo móvel, verifique se você fez logon no aplicativo da Web. Isso nos permitirá reconhecer seu computador/dispositivo a partir de agora.
+* Se estiver usando um novo computador ou dispositivo móvel, verifique se você fez logon no aplicativo web. Isso nos permitirá reconhecer seu computador/dispositivo a partir de agora.
 
-## Desktop (Windows) {#desktop-windows}
+## Área de trabalho (Windows) {#desktop-windows}
 
-As exibições são acompanhadas pelo download de um pequeno pixel de imagem invisível no seu cliente de email. Você pode reduzir significativamente a quantidade de autoexibições no Outlook, desativando as imagens a serem baixadas automaticamente. Abaixo estão os passos como.
+As visualizações são rastreadas baixando um pequeno pixel de imagem invisível em seu cliente de email. Você pode reduzir significativamente a quantidade de visualizações automáticas no Outlook ao desabilitar o download automático de imagens. Abaixo estão as etapas como.
 
 1. No Outlook, clique em **Arquivo** na barra de menus.
 
@@ -37,15 +38,15 @@ As exibições são acompanhadas pelo download de um pequeno pixel de imagem inv
 
    ![](assets/how-do-i-prevent-self-views-3.png)
 
-1. Em Microsoft Outlook Trust Center, clique em **Configurações da Central de Confiança**.
+1. Em Central de Confiabilidade do Microsoft Outlook, clique em **Configurações da Central de Confiabilidade**.
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. Clique em Download automático no menu à esquerda e selecione o **Não faça o download automático de imagens no HTML email ou em itens RSS** caixa de seleção.
+1. Clique em Download automático no menu à esquerda e selecione a **Não baixar imagens automaticamente no email HTML ou em itens RSS** caixa de seleção
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. Clique em **OK** na caixa de diálogo Central de Confiança.
+1. Clique em **OK** na caixa de diálogo Central de Confiabilidade.
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
@@ -55,16 +56,16 @@ As exibições são acompanhadas pelo download de um pequeno pixel de imagem inv
 
 ## Desktop (Mac) {#desktop-mac}
 
-As exibições são acompanhadas pelo download de um pequeno pixel de imagem invisível no seu cliente de email. Você pode reduzir significativamente a quantidade de autoexibições no Outlook, desativando as imagens a serem baixadas automaticamente. Abaixo estão os passos como.
+As visualizações são rastreadas baixando um pequeno pixel de imagem invisível em seu cliente de email. Você pode reduzir significativamente a quantidade de visualizações automáticas no Outlook ao desabilitar o download automático de imagens. Abaixo estão as etapas como.
 
 1. No Outlook, clique em **Outlook** na barra de menus e selecione **Preferências**.
 
    ![](assets/how-do-i-prevent-self-views-8.png)
 
-1. Em Email, escolha **Leitura**.
+1. Em Email, escolha **Lendo**.
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. Em Segurança, clique no botão **Nunca** botão de opção.
+1. Em Segurança, clique na guia **Nunca** botão de opção.
 
    ![](assets/how-do-i-prevent-self-views-10.png)

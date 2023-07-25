@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8783917
-description: Modelo 5B - Documentos do Marketo - Documentação do produto
+description: Modelo 5B - Documentação do Marketo - Documentação do produto
 title: Modelo 5B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -12,18 +13,18 @@ ht-degree: 0%
 
 # Modelo 5B {#template-5b}
 
-Clique com o botão direito do mouse em para [baixar modelo 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+Clique com o botão direito do mouse para [baixar modelo 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
 ![](assets/template-5b.png)
 
 Esse template inclui o seguinte conteúdo:
 
 * Um cabeçalho (opcional)
-* Uma seção primária
+* Uma seção principal
 
-   * inclui o título do herói e o texto do herói.
+   * inclui título e texto herói.
 
-* Cinco seções do corpo (opcional)
+* Cinco seções de corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

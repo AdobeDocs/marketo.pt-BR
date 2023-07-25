@@ -1,44 +1,45 @@
 ---
 unique-page-id: 5472402
-description: Editar seu modelo aprovado - Documentos do Marketo - Documentação do produto
-title: Editar o modelo aprovado
+description: Editar o modelo aprovado - Documentação do Marketo - Documentação do produto
+title: Editar seu modelo aprovado
 exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
-# Editar o modelo aprovado {#editing-your-approved-model}
+# Editar seu modelo aprovado {#editing-your-approved-model}
 
 ## Editar seu modelo {#editing-your-model}
 
-1. Selecione o modelo para o qual deseja fazer alterações na seção Analytics e clique em **Editar rascunho**.
+1. Selecione o modelo que deseja alterar na seção Analytics e clique em **Editar rascunho**.
 
    ![](assets/one.png)
 
-1. Não é possível excluir estágios ao editar um modelo de rascunho (após o modelo ter sido aprovado). Em vez disso, você pode mesclar esse palco com outro no modelo. Clique com o botão direito do mouse no palco que deseja mesclar e clique em **Mesclar**.
+1. Não é possível excluir estágios ao editar um modelo de rascunho (após a aprovação do modelo). Em vez disso, você pode mesclar esse estágio com outro no modelo. Clique com o botão direito do mouse no estágio que deseja mesclar e clique em **Mesclar**.
 
    ![](assets/two.png)
 
-1. Escolha o novo estágio para leads atualmente no selecionado ou selecione **Nenhum** para remover os leads do seu modelo. Quando terminar, clique em **Mesclar**.
+1. Escolha o novo estágio para clientes potenciais atualmente no estágio selecionado ou selecione **Nenhum** para remover os clientes em potencial do modelo. Quando terminar, clique em **Mesclar**.
 
    ![](assets/three.png)
 
-1. Quando terminar de fazer alterações no modelo, aprove-o novamente selecionando **Aprovar rascunho do modelo** no **Ações do modelo** menu.
+1. Quando terminar de fazer alterações no modelo, reaprove-o selecionando **Aprovar modelo de rascunho** no **Ações do modelo** menu.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Se você fizer alterações em seus estágios, como adicioná-los ou mesclá-los, altere suas Regras de atribuição e Fases para refletir suas edições.
+   >Se você fizer alterações nos estágios, como adicioná-las ou intercalá-las, altere as Regras de Atribuição e as Fases para refletir as edições.
 
-## Cancelar a aprovação do modelo {#unapproving-your-model}
+## Desaprovar seu modelo {#unapproving-your-model}
 
 >[!CAUTION]
 >
->Se você não aprovar seu modelo, todos os leads serão removidos e o histórico deles no modelo será excluído. Considere editar seu modelo em vez de cancelar a aprovação.
+>Se você cancelar a aprovação do modelo, todos os clientes em potencial serão removidos e o histórico no modelo será excluído. Considere editar seu modelo em vez de desaprová-lo.
 
 1. Selecione o modelo que deseja cancelar a aprovação. No **Ações do modelo** selecione **Cancelar aprovação do modelo**.
 
@@ -50,11 +51,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Se quiser reaprovar esse modelo, primeiro será necessário reatribuir os leads aos estágios.
+>Se quiser aprovar novamente esse modelo, primeiro será necessário reatribuir leads aos estágios.
 
 ## Criação de mais modelos {#creating-more-models}
 
-Você só pode ter um modelo aprovado por vez. Se quiser aprovar um modelo, mas já tiver um aprovado, será necessário cancelar a aprovação do modelo atual primeiro. Se possível, tente editar seu modelo em vez de criar um novo.
+Você pode ter somente um modelo aprovado por vez. Se você quiser aprovar um modelo, mas já tiver um aprovado, será necessário cancelar a aprovação do modelo atual primeiro. Se possível, tente editar seu modelo em vez de criar um novo.
 
 >[!MORELIKETHIS]
 >

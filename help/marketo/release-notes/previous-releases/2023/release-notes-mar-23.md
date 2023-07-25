@@ -2,7 +2,8 @@
 description: Notas de versão - março de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - março de 2023
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 7%
@@ -121,7 +122,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Bate-papo como um canal de programa para o Dynamic Chat**: cria um novo canal de programa &quot;Chat&quot; para rastrear a progressão do programa para as pessoas adquiridas pelo Dynamic Chat. Por exemplo, um profissional de marketing tem um programa associado a uma caixa de diálogo de chat dinâmica para capturar novos leads. Agora, eles podem atribuir esse programa ao canal de bate-papo para que possam rastrear quando os leads são membros do programa e quando eles alcançaram o sucesso.
+* **Bate-papo como canal do programa para o Dynamic Chat**: cria um novo canal de programa &quot;Chat&quot; para rastrear a progressão do programa para as pessoas adquiridas pelo Dynamic Chat. Por exemplo, um profissional de marketing tem um programa associado a uma caixa de diálogo do Dynamic Chat para capturar novos leads. Agora, eles podem atribuir esse programa ao canal de bate-papo para que possam rastrear quando os leads são membros do programa e quando eles alcançaram o sucesso.
 
 <table> 
   <tr> 
@@ -135,7 +136,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Atributos inferidos para o bate-papo dinâmico**: garante que os dados de IP inferidos (cidade, estado, país etc.) é gravado no registro pessoal para novas pessoas adquiridas pelo Dynamic Chat.
+* **Atributos inferidos para o bate-papo dinâmico**: garante que os dados de IP inferidos (cidade, estado, país etc.) é gravado no registro de pessoa para novas pessoas adquiridas pela Dynamic Chat.
 
 <table> 
   <tr> 

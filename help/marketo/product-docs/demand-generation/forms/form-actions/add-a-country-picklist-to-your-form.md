@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2949966
-description: Adicionar uma lista de seleção de país ao seu formulário - Documentos da Marketo - Documentação do produto
-title: Adicionar uma lista de seleção de país ao seu formulário
+description: Adicionar uma lista de opções do país ao seu formulário - Documentação do Marketo - Documentação do produto
+title: Adicionar uma lista de opções de país ao formulário
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 1%
 
 ---
 
-# Adicionar uma lista de seleção de país ao seu formulário {#add-a-country-picklist-to-your-form}
+# Adicionar uma lista de opções de país ao formulário {#add-a-country-picklist-to-your-form}
 
-Siga estas instruções para converter o campo do país em uma lista suspensa com todos os países.
+Siga estas instruções para converter o campo País em um menu suspenso com uma lista de todos os países.
 
 1. Ir para **Atividades de marketing**.
 
@@ -22,7 +23,7 @@ Siga estas instruções para converter o campo do país em uma lista suspensa co
 
    ![](assets/editform-1.png)
 
-1. Clique no botão **+** sinal.
+1. Clique em **+** assinatura.
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
@@ -30,11 +31,11 @@ Siga estas instruções para converter o campo do país em uma lista suspensa co
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Com o **País** campo selecionado altera a **Tipo de campo** para **Selecionar**.
+1. Com o **País** campo selecionado altere o **Tipo de campo** para **Selecionar**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Editar** o **Valores** para adicionar a lista de países, os usuários podem escolher.
+1. **Editar** o **Valores** para adicionar a lista de países que os usuários podem escolher.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
@@ -54,7 +55,7 @@ Siga estas instruções para converter o campo do país em uma lista suspensa co
 
    >[!TIP]
    >
-   >Você pode editar a lista ou usar qualquer outra lista.
+   >Sinta-se à vontade para editar a lista ou usar qualquer outra lista.
 
 1. Clique em **Salvar**.
 
@@ -68,11 +69,11 @@ Siga estas instruções para converter o campo do país em uma lista suspensa co
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   Muito bem! Agora, quando uma pessoa preenche seu formulário, ela pode selecionar na lista de países fornecidos.
+   Muito bem! Agora, quando uma pessoa preenche o formulário, ela pode escolher na lista de países fornecida.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
 
-Uma vez que isso foi tão fácil, por que não fazer mais? Que tal mostrar dinamicamente o campo Estado quando um usuário seleciona Estados Unidos como o país na lista? Confira o artigo relacionado abaixo para descobrir como fazer isso.
+Como isso foi tão fácil, por que não fazer mais? Que tal mostrar dinamicamente o campo Estado quando um usuário seleciona Estados Unidos como o país na lista? Confira o artigo relacionado abaixo para descobrir como fazer isso.
 
 >[!MORELIKETHIS]
 >

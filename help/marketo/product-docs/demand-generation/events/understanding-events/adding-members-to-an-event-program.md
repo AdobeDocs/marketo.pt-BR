@@ -1,9 +1,10 @@
 ---
 unique-page-id: 37355758
-description: Adicionar membros a um programa de evento - Documentos da Marketo - Documentação do produto
+description: Adicionar membros a um programa de evento - Documentação do Marketo - Documentação do produto
 title: Adicionar membros a um programa de evento
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -12,29 +13,29 @@ ht-degree: 0%
 
 # Adicionar membros a um programa de evento {#adding-members-to-an-event-program}
 
-Este artigo se aplica somente aos usuários que utilizam o Event Cap ou o Event Targets.
+Este artigo se aplica somente aos usuários que utilizam Limite de evento ou Metas de evento.
 
 >[!CAUTION]
 >
->Importar uma lista de pessoas diretamente para um Programa de Eventos impedirá que esses registros sejam contados em registros reais no relatório de Rastreamento de Meta e no relatório de Progressão de Limite de Eventos. Siga as instruções abaixo para garantir que seus registros sejam contados.
+>Importar uma lista de pessoas diretamente para um Programa de evento impedirá que esses registros sejam contados em registros reais no relatório Rastreamento de meta e no relatório Progressão de limite do evento. Siga as instruções abaixo para garantir que seus registros sejam contados.
 
 1. Criar e [adicionar pessoas a uma lista estática](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
 
 1. [Criar uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. Na Smart List (Lista inteligente) da campanha inteligente criada na etapa dois, encontre e adicione o **Membro da Lista** filtro.
+1. Na Smart List da Campanha inteligente criada na Etapa dois, localize e adicione o **Membro da lista** filtro.
 
    ![](assets/three.png)
 
-1. Localize e selecione a lista criada na Etapa um.
+1. Localize e selecione a lista criada na Etapa Um.
 
    ![](assets/four.png)
 
-1. No Fluxo, localize e adicione o **Alterar status do programa** etapa de fluxo.
+1. No Fluxo, localize e adicione a variável **Alterar status do programa** etapa do fluxo.
 
    ![](assets/five.png)
 
-1. Localize e selecione seu Programa de eventos.
+1. Localize e selecione seu Programa de evento.
 
    ![](assets/six.png)
 
@@ -42,7 +43,7 @@ Este artigo se aplica somente aos usuários que utilizam o Event Cap ou o Event 
 
    ![](assets/seven.png)
 
-1. Na guia Agendamento , clique em **Executar uma vez**.
+1. Na guia Schedule, clique em **Executar uma vez**.
 
    ![](assets/eight.png)
 
@@ -50,4 +51,4 @@ Este artigo se aplica somente aos usuários que utilizam o Event Cap ou o Event 
 
    ![](assets/nine.png)
 
-1. Após a execução da campanha inteligente, os membros são adicionados ao programa e contarão nos cálculos Rastreamento de meta e Progressão de limite de evento .
+1. Depois que a campanha inteligente for executada, os membros serão adicionados ao programa e contarão nos cálculos de Rastreamento de meta e Progressão de limite de evento.

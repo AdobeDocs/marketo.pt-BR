@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437577
-description: Modelo 12B - Documentos do Marketo - Documentação do produto
+description: Modelo 12B - Documentação do Marketo - Documentação do produto
 title: Modelo 12B
 exl-id: 47d18c27-ff60-4f22-b590-8739e6352b13
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -12,18 +13,18 @@ ht-degree: 0%
 
 # Modelo 12B {#template-12b}
 
-Clique com o botão direito do mouse em para [baixar modelo 12B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
+Clique com o botão direito do mouse para [baixar modelo 12B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
 
 ![](assets/image2015-8-4-14-3a32-3a21.png)
 
 Esse template inclui o seguinte conteúdo:
 
 * Um cabeçalho (opcional)
-* Uma seção primária
+* Uma seção principal
 
-   * inclui o título do herói, o texto do herói e a imagem do herói
+   * inclui título herói, texto herói e imagem herói
 
-* Seis seções do corpo (opcional)
+* Seis seções da carroçaria (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 11380734
-description: Acionadores da conta - Documentos do Marketo - Documentação do produto
+description: Acionadores de conta - Documentação do Marketo - Documentação do produto
 title: Acionadores da conta
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 2%
@@ -12,9 +13,9 @@ ht-degree: 2%
 
 # Acionadores da conta {#account-triggers}
 
-Analise e aja em atividades comportamentais importantes no nível da conta em diferentes canais (por exemplo, email, Web, anúncios) usando acionadores no nível da conta.
+Ouça e aja em atividades comportamentais importantes no nível da conta em diferentes canais (por exemplo, email, Web, anúncios) usando acionadores no nível da conta.
 
-Selecione sua campanha inteligente e clique em **[!UICONTROL Lista inteligente]**.
+Selecione a campanha inteligente e clique em **[!UICONTROL Lista inteligente]**.
 
 ![](assets/one-1.png)
 
@@ -22,7 +23,7 @@ Digite &quot;Conta nomeada&quot; na caixa de pesquisa para localizar os acionado
 
 ![](assets/two-1.png)
 
-Arraste o acionador que deseja para a tela. Neste exemplo, estamos usando _Adicionado à Conta Nomeada_.
+Arraste o acionador desejado para a tela. Neste exemplo, estamos usando _Adicionado à conta nomeada_.
 
 ![](assets/three-1.png)
 
@@ -30,15 +31,15 @@ Escolha um qualificador.
 
 ![](assets/four-1.png)
 
-Clique no menu suspenso da conta nomeada...
+Clique na lista suspensa de contas nomeadas...
 
 ![](assets/five-1.png)
 
-...e escolha as contas nomeadas desejadas.
+...e escolha sua(s) conta(s) nomeada(s) desejada(s).
 
 ![](assets/six-1.png)
 
-Pronto! Depois de concluir o resto de sua campanha inteligente, lembre-se de ativá-la.
+Pronto! Depois de concluir o restante da campanha inteligente, lembre-se de ativá-la.
 
 >[!MORELIKETHIS]
 >

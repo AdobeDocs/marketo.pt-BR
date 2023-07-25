@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359991
-description: Gerenciar assinaturas de relatório - Documentos do Marketo - Documentação do produto
+description: Gerenciar assinaturas de relatório - Documentação do Marketo - Documentação do produto
 title: Gerenciar assinaturas de relatório
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -12,21 +13,21 @@ ht-degree: 0%
 
 # Gerenciar assinaturas de relatório {#manage-report-subscriptions}
 
-Configure e exclua assinaturas de relatório.
+Configurar e excluir assinaturas de relatório.
 
-1. Vá para o **Analytics** área.
+1. Vá para a **Analytics** área.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. Clique no botão **Subscrições** guia .
+1. Clique em **Assinaturas** guia.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Esta página exibe as assinaturas de todos os relatórios em sua conta, agrupadas por [tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Isso inclui [assinaturas de relatórios básicos](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) e aos relatórios do Revenue Cycle Explorer.
+   Essa página exibe as assinaturas de todos os relatórios na sua conta, agrupadas por [tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Isso inclui [assinaturas para relatórios básicos](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) e nos relatórios do Revenue Cycle Explorer.
 
    >[!TIP]
    >
-   >Também é possível gerenciar assinaturas de um relatório individual em **Atividades de marketing**. Selecione o relatório e clique no botão **Subscrições** guia .
+   >Também é possível gerenciar assinaturas para um relatório individual no **Atividades de marketing**. Selecione o relatório e clique no link **Assinaturas** guia.
 
    Para alterar a frequência com que um relatório é enviado por email, clique no campo Frequency e selecione uma nova opção no menu suspenso.
 
@@ -39,18 +40,17 @@ Configure e exclua assinaturas de relatório.
    >[!TIP]
    >
    >* Use vírgulas entre endereços de email.
-   >* Para salvar suas edições, clique em uma área _outside_ a lista de assinaturas.
+   >* Para salvar suas edições, clique em uma área _fora_ a lista de assinaturas.
 
+   Também é possível:
 
-   Você também pode:
-
-   * Clique no botão **Exibir** para abrir um relatório.
-   * Desmarque a opção **Ativo** caixa de seleção para desativar a assinatura.
-   * Clique em e edite o **Resumo** para alterar quantas linhas de visualização serão exibidas no email.
+   * Clique em **Exibir** botão para abrir um relatório.
+   * Desmarque a opção **Ativo** para desativar a subscrição.
+   * Clique em e edite o **Resumo** para alterar quantas linhas de visualização aparecem no email.
    * Desmarque a opção **Excel** caixa de seleção para enviar resumos de relatórios sem o anexo da planilha.
-   * Clique no botão **Enviar** para enviar o email do relatório imediatamente.
+   * Clique em **Enviar** botão para enviar o relatório por email imediatamente.
 
-1. Para excluir uma assinatura completamente, selecione a linha e clique em **Excluir assinatura**.
+1. Para excluir uma assinatura completamente, selecione a linha e clique em **Excluir Assinatura**.
 
    ![](assets/image2014-9-16-10-3a36-3a38.png)
 
@@ -60,6 +60,5 @@ Configure e exclua assinaturas de relatório.
 
    >[!MORELIKETHIS]
    >
-   >* [Inscrever-se em um relatório básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-   >* [Inscrever-se em um Relatório do Explorador de Receitas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-
+   >* [Assinar um relatório básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [Assinar um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

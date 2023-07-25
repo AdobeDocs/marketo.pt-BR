@@ -1,8 +1,9 @@
 ---
-description: Configuração de exibições MSI - Documentos do Marketo - Documentação do produto
+description: Configuração de visualizações do MSI - Documentação do Marketo - Documentação do produto
 title: Configuração de exibições MSI
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -11,35 +12,35 @@ ht-degree: 0%
 
 # Configuração de exibições MSI {#setting-up-msi-views}
 
-Instalar o plug-in Sales Insight no Dynamics adiciona automaticamente as Melhores Melhores Propostas e painéis relacionados no Mapa do Site. Se, por algum motivo, os painéis não forem adicionados, veja a seguir como adicioná-los manualmente.
+A instalação do plug-in Sales Insight no Dynamics adiciona automaticamente as Melhores Opções e os painéis relacionados no Mapa do site. Se, por algum motivo, os painéis não forem adicionados, veja como adicioná-los manualmente.
 
-1. Em Dinâmicas, clique no ícone de engrenagem e selecione **Configurações avançadas** no menu suspenso .
+1. No Dynamics, clique no ícone de engrenagem e selecione **Configurações avançadas** no menu suspenso.
 
 1. No canto superior esquerdo da tela, clique em **Configurações**. Em Personalização, escolha **Personalizações**.
 
 1. Clique em **Personalizar o sistema**.
 
-1. Na árvore à esquerda, clique em **Extensões de cliente** e clique duas vezes **Mapa do site**.
+1. Na árvore à esquerda, clique em **Extensões do cliente** e clique duas vezes em **Mapa do site**.
 
-1. Clique na seta para a direita para ir para a próxima página. Em Vendas, você deve ver a Marketo. Caso contrário, certifique-se de ter importado o pacote corretamente.
+1. Clique na seta direita para ir para a próxima página. Em Vendas, você deve ver Marketo. Caso contrário, certifique-se de ter importado o pacote corretamente.
 
    >[!NOTE]
    >
-   >Em Marketo, você deve ter: Melhores vantagens, Meu email, Atividade da Web e Atividade Anônima da Web. Se algum desses painéis estiver ausente, clique no sinal + acima de Vendas e adicione-o como uma Subárea.
+   >No Marketo, você deve ter: Melhores opções, Meu email, Atividade da Web e Atividade anônima da Web. Se algum desses painéis estiver ausente, clique no sinal + acima de Vendas e adicione-os como uma Subárea.
 
-1. Clique em um painel para selecioná-lo. Na coluna à direita, insira as respectivas informações abaixo para cada uma. É possível ignorar qualquer categoria não listada.
+1. Clique em um painel para selecioná-lo. Na coluna à direita, insira as respectivas informações abaixo para cada uma. Você pode ignorar quaisquer categorias não listadas.
 
-   **Melhores Propostas**</br>
+   **Melhores Opções**</br>
 URL: MainviewBestbets.html</br>
 Ícone: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
 ID: marketo_bestbets</br>
-Título: Melhores Propostas
+Título: Melhores Opções
 
-   **Meu Email**</br>
+   **Meu email**</br>
 URL: mkt_/MainViewMyEmail.html</br>
 Ícone: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
 ID: marketo_myemail</br>
-Título: Meu Email
+Título: Meu email
 
    **Atividade da Web**</br>
 URL: mkt_/MainViewWebActivity.html</br>
@@ -47,10 +48,10 @@ URL: mkt_/MainViewWebActivity.html</br>
 ID: marketo_webactivity</br>
 Título: Atividade da Web
 
-   **Atividade Anônima da Web**</br>
+   **Atividade da Web Anônima**</br>
 URL: mkt_/MainViewWebActivity.html</br>
 Ícone: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
 ID: marketo_anonymous_webactivity</br>
-Título: Atividade Anônima da Web
+Title: Atividade Anônima Na Web
 
-1. Clique em **Salvar** quando concluído.
+1. Clique em **Salvar** quando terminar.

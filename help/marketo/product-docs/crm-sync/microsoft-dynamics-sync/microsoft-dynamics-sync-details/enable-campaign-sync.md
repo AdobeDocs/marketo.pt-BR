@@ -1,15 +1,16 @@
 ---
-description: Ativar sincronização de campanha - Documentos do Marketo - Documentação do produto
-title: Ativar sincronização de campanhas
+description: Habilitar a Sincronização do Campaign - Documentação do Marketo - Documentação do produto
+title: Habilitar sincronização de campanhas
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 5%
 
 ---
 
-# Ativar sincronização de campanhas {#enable-campaign-sync}
+# Habilitar sincronização de campanhas {#enable-campaign-sync}
 
 Essa opção permite que o Marketo adicione e remova membros do MS Dynamics Campaign.
 
@@ -21,7 +22,7 @@ Essa opção permite que o Marketo adicione e remova membros do MS Dynamics Camp
 >
 >**Permissões de administrador necessárias**
 
-1. Em Minha Marketo, clique em **Administrador**.
+1. Em Meu Marketo, clique em **Admin**.
 
    ![](assets/enable-campaign-sync-1.png)
 
@@ -33,12 +34,12 @@ Essa opção permite que o Marketo adicione e remova membros do MS Dynamics Camp
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Selecione o **Ativar a sincronização de campanha do Microsoft Dynamics** caixa de seleção e clique em **Salvar**.
+1. Selecione o **Habilitar a sincronização de campanha do Microsoft Dynamics** e clique em **Salvar**.
 
    ![](assets/enable-campaign-sync-4.png)
 
-Aí está. Basta dar à sincronização algum tempo para obter os dados do Microsoft Dynamics e você está pronto para ir.
+É isso aí. Dê algum tempo à sincronização para obter os dados do Microsoft Dynamics e você está pronto para começar.
 
 >[!NOTE]
 >
->A redefinição da caixa de seleção Sincronização de campanha dinâmica atualizará todos os dados da campanha sincronizados anteriormente e as associações com as Listas de marketing no Dynamics.
+>Redefinir a caixa de seleção Sincronização de campanha do Dynamics atualizará todos os dados da campanha sincronizados anteriormente e as associações com as Listas de marketing no Dynamics.

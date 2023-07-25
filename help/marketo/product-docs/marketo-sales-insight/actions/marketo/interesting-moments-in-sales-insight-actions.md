@@ -1,33 +1,34 @@
 ---
-description: Momentos interessantes em ações de insight de vendas - Documentos da Marketo - Documentação do produto
-title: Momentos interessantes em ações de insight de vendas
+description: Momentos interessantes nas ações do Sales Insight - Documentação do Marketo - Documentação do produto
+title: Momentos interessantes nas ações do Sales Insight
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
-# Momentos interessantes em ações de insight de vendas {#interesting-moments-in-sales-insight-actions}
+# Momentos interessantes nas ações do Sales Insight {#interesting-moments-in-sales-insight-actions}
 
-Os momentos interessantes são a chave para se comunicar com sua equipe de vendas por meio das Ações de informações de vendas da Marketo.
+Momentos interessantes são a chave para se comunicar com sua equipe de vendas por meio das ações do Marketo Sales Insight.
 
 ## O que é um momento interessante? {#what-is-an-interesting-moment}
 
-Isso depende de você! Você decide quais informações são relevantes para sua equipe de vendas. Sua equipe de vendas pode desejar saber quando um cliente potencial:
+Isso depende de você! Você decide quais informações são relevantes para sua equipe de vendas. Sua equipe de vendas pode querer saber quando um lead:
 
-* Visita a página de preços em seu site
-* Clica em um link em um novo email de anúncio de produto
-* Solicita uma demonstração de produto
+* Visita a página de preços no seu site
+* Cliques em um link em um novo email de anúncio do produto
+* Solicita uma demonstração do produto
 
 ## Como criar um momento interessante? {#how-do-i-create-an-interesting-moment}
 
-1. Escolha um [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target=&quot;_blank&quot;}, preferencialmente uma de suas equipes de vendas acharia interessante se fosse acionado.
+1. Escolha um [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, de preferência uma equipe de vendas achará interessante se acionada.
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. Arraste para o **Momentos interessantes** etapa de fluxo.
+1. Arraste sobre o **Momentos interessantes** etapa do fluxo.
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
@@ -35,22 +36,22 @@ Isso depende de você! Você decide quais informações são relevantes para sua
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. Escreva uma mensagem para sua equipe de vendas no **Descrição** que explica a importância desta ação.
+1. Escreva uma mensagem para sua equipe de vendas no **Descrição** que explica por que essa ação é importante.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
    >[!NOTE]
    >
-   >A Marketo também adicionará a data de ocorrência e como o momento interessante foi adicionado (ou seja, ação de lead > etapa de fluxo, API SOAP).
+   >O Marketo também adicionará a data em que ocorreu e como o momento interessante foi adicionado (ou seja, ação de lead > etapa de fluxo, API SOAP).
 
-## Como é um momento interessante no Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
+## Como se parece um momento interessante no Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Os momentos interessantes serão exibidos em um [log de atividades do lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target=&quot;_blank&quot;}.
+Momentos interessantes serão exibidos em uma [log de atividades do cliente potencial](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 
-## Como é um momento interessante nas Ações de insight de vendas? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+## Como se parece um momento interessante nas Ações de insights de vendas? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-Momentos interessantes serão exibidos em tempo real no Feed ao vivo de um usuário. Usamos a ID do proprietário principal no Salesforce para mostrar aos usuários momentos interessantes de leads relevantes dos quais eles são proprietários. Os usuários podem acompanhar rapidamente os clientes potenciais por email/telefone/campanha de vendas clicando na lista suspensa ao lado do nome do cliente potencial.
+Momentos interessantes serão exibidos em tempo real no Feed ativo de um usuário. Utilizamos a ID de proprietário do lead no Salesforce para mostrar aos usuários momentos interessantes de clientes potenciais relevantes dos quais eles são proprietários. Os usuários podem acompanhar rapidamente com clientes potenciais por email/telefone/campanha de vendas clicando na lista suspensa ao lado do nome do cliente potencial.
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)

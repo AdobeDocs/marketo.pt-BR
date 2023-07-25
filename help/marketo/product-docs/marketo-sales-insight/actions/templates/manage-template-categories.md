@@ -1,25 +1,26 @@
 ---
-description: Gerenciar categorias de modelo - Documentos do Marketo - Documentação do produto
-title: Gerenciar Categorias de Modelos
+description: Gerenciar Categorias De Modelo - Documentação Do Marketo - Documentação Do Produto
+title: Gerenciar categorias de modelo
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Sales Insight Actions
+source-git-commit: 7e0708db6abbdf5c151fe05647da7a7b0b3cbd13
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-# Gerenciar Categorias de Modelos {#manage-template-categories}
+# Gerenciar categorias de modelo {#manage-template-categories}
 
 ## Criar uma categoria {#create-a-category}
 
-1. Clique no botão **Modelos** guia .
+1. Clique em **Modelos** guia.
 
    ![](assets/manage-template-categories-1.png)
 
-1. Clique no botão **+** ícone ao lado de **Categorias**.
+1. Clique em **+** ícone ao lado de **Categorias**.
 
    ![](assets/manage-template-categories-2.png)
 
@@ -29,25 +30,25 @@ ht-degree: 0%
 
 ## Renomear uma categoria de modelo {#rename-a-template-category}
 
-1. Clique no botão **Modelos** guia .
+1. Clique em **Modelos** guia.
 
    ![](assets/manage-template-categories-4.png)
 
-1. Passe o mouse sobre o modelo que deseja renomear e clique no dota (três pontos). Selecionar **Renomear**.
+1. Passe o mouse sobre o modelo que deseja renomear e clique nos dados (três pontos). Selecionar **Renomear**.
 
    ![](assets/manage-template-categories-5.png)
 
-1. Digite o novo nome. Pressione Enter (ou apenas clique em outro lugar na tela) para salvar.
+1. Digite o novo nome. Pressione Enter (ou apenas clique em qualquer outro lugar na tela) para salvar.
 
    ![](assets/manage-template-categories-6.png)
 
 ## Excluir uma categoria de modelo {#delete-a-template-category}
 
-1. Clique no botão **Modelos** guia .
+1. Clique em **Modelos** guia.
 
    ![](assets/manage-template-categories-7.png)
 
-1. Passe o mouse sobre o modelo que deseja renomear e clique no dota (três pontos). Selecionar **Excluir**.
+1. Passe o mouse sobre o modelo que deseja renomear e clique nos dados (três pontos). Selecionar **Excluir**.
 
    ![](assets/manage-template-categories-8.png)
 
@@ -57,4 +58,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->As categorias não podem ser excluídas se ainda tiverem modelos. Mova ou exclua todos os modelos antes de excluir uma categoria.
+>As categorias não podem ser excluídas se contiverem modelos. Mova ou exclua todos os modelos antes de excluir uma categoria.

@@ -1,22 +1,23 @@
 ---
 unique-page-id: 2359646
-description: Configurar a criação de perfis progressivos do formulário - Documentos do Marketo - Documentação do produto
-title: Configurar a criação de perfis progressivos do formulário
+description: Configurar Criação Progressiva De Perfil Do Formulário - Documentação Do Marketo - Documentação Do Produto
+title: Configurar o formulário de criação de perfil progressiva
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 1%
 
 ---
 
-# Configurar a criação de perfis progressivos do formulário {#configure-form-progressive-profiling}
+# Configurar o formulário de criação de perfil progressiva {#configure-form-progressive-profiling}
 
-As formas curtas são boas! Quando alguém volta a um formulário, é possível apresentar novos campos e preencher progressivamente o perfil do visitante. Veja como.
+Formas curtas são boas! Quando alguém retorna a um formulário, é possível apresentar novos campos e preencher progressivamente o perfil do visitante. Veja como.
 
 >[!NOTE]
 >
->Para que esse recurso funcione corretamente, verifique se o Preenchimento prévio do formulário está ativado para campos visíveis e [desativado](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) para campos ocultos.
+>Para que esse recurso funcione corretamente, verifique se o Preenchimento prévio de formulário está ativado para campos visíveis e [desabilitado](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) para campos ocultos.
 
 1. Ir para **Atividades de marketing**.
 
@@ -30,7 +31,7 @@ As formas curtas são boas! Quando alguém volta a um formulário, é possível 
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Definir **Criação de perfis progressiva** para **Ativado**.
+1. Definir **Definição de perfil progressiva** para **Ativado**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
@@ -42,51 +43,48 @@ As formas curtas são boas! Quando alguém volta a um formulário, é possível 
 
    ![](assets/image2014-9-15-12-3a32-3a3.png)
 
-1. Quando terminar de mover todos os campos, ele deverá ter esta aparência:
+1. Quando terminar de mover todos os campos, deverá ser semelhante a:
 
    ![](assets/image2014-9-15-12-3a32-3a12.png)
 
    >[!NOTE]
    >
-   >Os campos fora do **Criação de perfis progressiva** sempre serão mostradas no formulário, mesmo que estejam preenchidas.
+   >Os campos fora do **Definição de perfil progressiva** sempre será exibido no formulário, mesmo se estiverem preenchidos.
 
-1. Selecione o **Criação de perfis progressiva** caixa.
+1. Selecione o **Definição de perfil progressiva** caixa.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
    >[!CAUTION]
    >
-   >Tenha cuidado ao usar campos obrigatórios na criação de perfis progressivos. Esses campos ainda podem ser deixados em branco se o visitante digitar um novo endereço de email (o que criaria uma nova pessoa) depois de enviar dados anteriormente para os outros campos, como seriam suprimidos no formulário mais recente.
+   >Tenha cuidado ao usar campos obrigatórios na Criação de perfil progressiva. Esses campos ainda podem ser deixados em branco se o visitante inserir um novo endereço de email (que criaria uma nova pessoa) após enviar dados anteriormente para os outros campos, pois seriam suprimidos no formulário mais recente.
 
-1. Agora escolha quantos campos em branco você deseja que as pessoas vejam da **Criação de perfis progressiva** em qualquer momento.
+1. Agora escolha quantos campos em branco você deseja que as pessoas vejam no **Definição de perfil progressiva** a qualquer momento.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
    >[!NOTE]
    >
-   >Se você escolher **Número** **de** **Em branco** **Campos** como 1, o visitante verá o seguinte na primeira vez que visualizar este formulário:
+   >Se você escolher **Número** **de** **Em branco** **Campos** como 1, o visitante verá o seguinte na primeira vez que vir este formulário:
    >
-   >* First Name (empty)
+   >* Nome (vazio)
    >* Sobrenome (vazio)
    >* Endereço de email (vazio)
    >* Número de telefone (vazio)
-
    >
-   >Supondo que eles preencham cada campo, na segunda vez que visitarem, eles verão:
+   >Supondo que eles preencham cada campo, na segunda vez que visitarem, verão:
    >
    >* Nome (pré-preenchido)
    >* Sobrenome (pré-preenchido)
    >* Endereço de email (pré-preenchido)
    >* Número de telefone celular (vazio)
-
    >
-   >Supondo que eles preencham o Número do telefone celular, na terceira vez que visitarem o site, eles verão:
+   >Supondo que eles preencham o Número de Telefone Celular, a terceira vez que visitarem eles verão:
    >
    >* Nome (pré-preenchido)
    >* Sobrenome (pré-preenchido)
    >* Endereço de email (pré-preenchido)
    >* País (vazio)
-
 
 1. Clique em **Concluir**.
 
@@ -96,6 +94,6 @@ As formas curtas são boas! Quando alguém volta a um formulário, é possível 
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
-Excelente! O trabalho que você acabou de fazer vai pagar.
+Excelente! O trabalho que você acabou de fazer compensará.
 
-Experimente este recurso e certifique-se de testar. É avançado, mas você pode tornar seus formulários muito dinâmicos dessa forma.
+Experimente esse recurso e certifique-se de testar. É avançado, mas você pode tornar seus formulários muito dinâmicos dessa maneira.

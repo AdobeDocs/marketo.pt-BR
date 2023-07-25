@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10092902
-description: Modelo 19E - Documentos do Marketo - Documentação do produto
+description: Modelo 19E - Documentação do Marketo - Documentação do produto
 title: Modelo 19E
 exl-id: ab318a92-76b5-4ca6-bb51-6633ad498221
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Modelo 19E {#template-19e}
 
-Clique com o botão direito do mouse em para [modelo de download 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
+Clique com o botão direito do mouse para [baixar modelo 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
 
 ![](assets/image2015-9-16-17-3a4-3a14.png)
 
 Esse template inclui o seguinte conteúdo:
 
-* Uma seção primária
+* Uma seção principal
 
-   * inclui a imagem herói
+   * inclui imagem herói
 
-* Cinco seções do corpo (opcional)
+* Cinco seções de corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

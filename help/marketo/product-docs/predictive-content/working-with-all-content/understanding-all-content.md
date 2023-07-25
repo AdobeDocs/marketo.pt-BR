@@ -1,16 +1,17 @@
 ---
 unique-page-id: 11384645
-description: Como entender todo o conteúdo - Documentos do Marketo - Documentação do produto
-title: Como entender todo o conteúdo
+description: Entendendo todo o conteúdo - Documentação do Marketo - Documentação do produto
+title: Entender todo o conteúdo
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 1%
 
 ---
 
-# Como entender todo o conteúdo {#understanding-all-content}
+# Entender todo o conteúdo {#understanding-all-content}
 
 A página Todo o conteúdo exibe todo o conteúdo que foi descoberto ou adicionado manualmente.
 
@@ -19,19 +20,19 @@ A página Todo o conteúdo exibe todo o conteúdo que foi descoberto ou adiciona
 Os campos de página incluem:
 
 * **Título**: O nome do conteúdo
-* **Categorias**: Criado por você e usado para agrupar seus resultados preditivos para Web ou email
-* **Exibições**: Total de cliques no conteúdo da Web descoberto (incluindo todas as fontes)
-* **Conversões**: O número de visitantes que visualizaram um conteúdo e preencheram um formulário na mesma visita
-* **Índice de conversão**: Uma porcentagem calculada pelas conversões diretas divididas por cliques
-* **Aprovar para preditivo**: Ícone é exibido se o conteúdo for aprovado
+* **Categorias**: criado por você e usado para agrupar seus resultados preditivos para web ou email
+* **Visualizações**: Total de cliques no conteúdo da Web descoberto (incluindo todas as fontes)
+* **Conversões**: o número de visitantes que visualizaram um conteúdo e preencheram um formulário na mesma visita
+* **Índice de conversão**: uma porcentagem calculada por conversões diretas divididas por cliques
+* **Aprovar para preditivo**: O ícone é exibido se o conteúdo for aprovado
 
-Você pode adicionar um novo conteúdo e rastreá-lo, remover um conteúdo ou aprovar um conteúdo. Após aprovar o conteúdo, você pode editá-lo na página Conteúdo preditivo .
+Você pode adicionar um novo conteúdo e rastreá-lo, remover um conteúdo ou aprovar um conteúdo. Após aprovar o conteúdo, você pode editá-lo na página Conteúdo preditivo.
 
 ## Filtrar conteúdo por categorias  {#filter-content-by-categories}
 
-Filtre o conteúdo selecionando uma ou mais categorias. Em seguida, configure a data ou o intervalo de datas para a análise de conteúdo, usando as configurações padrão ou personalizadas.
+Filtre o conteúdo selecionando uma ou mais categorias. Em seguida, configure a data ou o intervalo de datas para a análise de conteúdo, usando configurações padrão ou personalizadas.
 
-1. No **Todo o conteúdo** clique no ícone de filtro e em **Categoria**, selecione uma ou mais categorias de conteúdo.
+1. No **Todo o conteúdo** clique no ícone de filtro e, em **Categoria**, selecione uma ou mais categorias de conteúdo.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -39,9 +40,9 @@ Filtre o conteúdo selecionando uma ou mais categorias. Em seguida, configure a 
 
    ![](assets/image2017-10-3-9-3a6-3a23.png)
 
-## Exibir análises para um intervalo de datas ou data {#display-analytics-for-a-date-or-date-range}
+## Exibir análises para uma data ou um intervalo de datas {#display-analytics-for-a-date-or-date-range}
 
-1. Para exibir dados de uma data ou intervalo de datas específico, clique no ícone do calendário e selecione no painel esquerdo. Para um intervalo de datas personalizado, clique no primeiro e no último dia do intervalo de datas no calendário (como mostrado). Clique em **Aplicar**.
+1. Para exibir dados de uma data ou intervalo de datas específico, clique no ícone de calendário e selecione no painel esquerdo. Para um intervalo de datas personalizado, clique no primeiro e no último dia do intervalo de datas no calendário (como mostrado). Clique em **Aplicar**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 
@@ -53,4 +54,3 @@ Filtre o conteúdo selecionando uma ou mais categorias. Em seguida, configure a 
 >* [Excluir conteúdo](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
 >* [Aprovar um título para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 >* [Cancelar aprovação de um título para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
-

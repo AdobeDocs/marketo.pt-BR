@@ -1,17 +1,18 @@
 ---
-description: Mapeamento de campo Veva padrão - Documentos do Marketo - Documentação do produto
-title: Mapeamento de Campo de Veeva Padrão
+description: Mapeamento De Campo Padrão Do Veeva - Documentação Do Marketo - Documentação Do Produto
+title: Mapeamento de campo Veeva padrão
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 42%
 
 ---
 
-# Mapeamento de Campo de Veeva Padrão {#default-veeva-field-mapping}
+# Mapeamento de campo Veeva padrão {#default-veeva-field-mapping}
 
-Quando você sincroniza inicialmente sua conta do Marketo Engage com Veeva, a Marketo faz automaticamente essas associações entre seus campos Veeva e Marketo incorporados. O Marketo também sincronizará os campos personalizados nas Contas e Contatos.
+Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Marketo faz automaticamente essas associações entre seus campos Veeva e Marketo incorporados. O Marketo também sincronizará os campos personalizados em suas Contas e Contatos.
 
 ## Campos de contato {#contact-fields}
 
@@ -23,7 +24,7 @@ Quando você sincroniza inicialmente sua conta do Marketo Engage com Veeva, a Ma
   <thead>
     <tr>
       <th>Campo SFDC</th>
-      <th>Campo Marketo</th>
+      <th>Campo do Marketo</th>
     </tr>
   </thead>
   <tbody>
@@ -40,7 +41,7 @@ Quando você sincroniza inicialmente sua conta do Marketo Engage com Veeva, a Ma
       <td>Observações sobre a pessoa</td>
     </tr>
     <tr>
-      <td>E-mail</td>
+      <td>Email</td>
       <td>Endereço de email</td>
     </tr>
     <tr>
@@ -65,26 +66,26 @@ Quando você sincroniza inicialmente sua conta do Marketo Engage com Veeva, a Ma
     </tr>
     <tr>
       <td>Fonte do lead</td>
-      <td>Fonte</td>
+      <td>Origem</td>
     </tr>
     <tr>
       <td>Pontuação do lead</td>
       <td>Pontuação</td>
     </tr>
     <tr>
-      <td>Cidade de correspondência</td>
+      <td>CidadeDeEndereçamento</td>
       <td>Cidade</td>
     </tr>
     <tr>
-      <td>PaísCorrespondente</td>
+      <td>PaísDeEndereçamento</td>
       <td>País</td>
     </tr>
     <tr>
-      <td>CEPodeCorreio</td>
+      <td>MailingPostalCode</td>
       <td>Código postal</td>
     </tr>
     <tr>
-      <td>EstadoCorrespondente</td>
+      <td>MailingState</td>
       <td>Estado</td>
     </tr>
     <tr>
@@ -120,7 +121,7 @@ Quando você sincroniza inicialmente sua conta do Marketo Engage com Veeva, a Ma
   <thead>
     <tr>
       <th>Campo SFDC</th>
-      <th>Campo Marketo</th>
+      <th>Campo do Marketo</th>
     </tr>
   </thead>
   <tbody>
@@ -129,24 +130,24 @@ Quando você sincroniza inicialmente sua conta do Marketo Engage com Veeva, a Ma
       <td>Receita anual</td>
     </tr>
     <tr>
-      <td>Cidade de cobrança</td>
-      <td>Cidade de cobrança</td>
+      <td>Cidade de faturamento</td>
+      <td>Cidade de faturamento</td>
     </tr>
     <tr>
-      <td>País de cobrança</td>
-      <td>País de cobrança</td>
+      <td>País de faturamento</td>
+      <td>País de faturamento</td>
     </tr>
     <tr>
       <td>Código postal/CEP de cobrança</td>
-      <td>Código postal de cobrança</td>
+      <td>Código postal de faturamento</td>
     </tr>
     <tr>
-      <td>Estado/Província de Faturamento</td>
-      <td>Estado de cobrança</td>
+      <td>Estado/Província de Cobrança</td>
+      <td>Estado de faturamento</td>
     </tr>
     <tr>
-      <td>Rua de Faturamento</td>
-      <td>Endereço de cobrança</td>
+      <td>Rua de Cobrança</td>
+      <td>Endereço de faturamento</td>
     </tr>
     <tr>
       <td>Descrição da conta</td>
@@ -191,7 +192,7 @@ Quando você sincroniza inicialmente sua conta do Marketo Engage com Veeva, a Ma
   </tbody>
 </table>
 
-## Campos do sistema relacionados a Veeva no Marketo (somente leitura) {#veeva-related-system-fields-in-marketo}
+## Campos de sistema relacionados ao Veeva no Marketo (somente leitura) {#veeva-related-system-fields-in-marketo}
 
 Esses campos são criados no Marketo, mas não podem ser ajustados pelos clientes.
 
@@ -212,16 +213,16 @@ Esses campos são criados no Marketo, mas não podem ser ajustados pelos cliente
       <td>A ID do Salesforce de 18 caracteres</td>
     </tr>
     <tr>
-      <td>Tipo Veeva</td>
-      <td>Contato. Se estiver vazio, o lead existe apenas como uma pessoa no Marketo</td>
+      <td>Veeva Type</td>
+      <td>Contato. Se estiver vazio, o lead existirá somente como uma pessoa no Marketo</td>
     </tr>
     <tr>
       <td>Data de criação da Veeva</td>
       <td>Data de criação no SFDC (pode ser diferente de Criado no Marketo)</td>
     </tr>
     <tr>
-      <td>Veeva é Excluída</td>
-      <td>A pessoa estava no SFDC, mas foi excluída e agora vive somente no Marketo</td>
+      <td>Veeva é excluído</td>
+      <td>A pessoa costumava estar no SFDC, mas foi excluída e agora reside somente no Marketo</td>
     </tr>
   </tbody>
 </table>

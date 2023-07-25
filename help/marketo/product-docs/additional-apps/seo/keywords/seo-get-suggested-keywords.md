@@ -3,7 +3,8 @@ unique-page-id: 2949202
 description: SEO - Palavras-chave sugeridas - Documentação do Marketo - Documentação do produto
 title: SEO - Obter Palavras-chave Sugeridas
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -76,4 +77,3 @@ A SEO da Marketo pode sugerir quais palavras-chave você deve rastrear. Podemos 
 >
 >* [Noções básicas sobre palavras-chave (exibição de resumo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 >* [Adicionar/Remover Palavras-chave de uma Lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
-

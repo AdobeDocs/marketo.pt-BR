@@ -1,9 +1,10 @@
 ---
 unique-page-id: 15368208
-description: Como instalar personalizações em sua sandbox do Salesforce - Documentos do Marketo - Documentação do produto
+description: Como instalar personalizações em sua sandbox do Salesforce - Documentação do Marketo - Documentação do produto
 title: Como instalar personalizações em sua sandbox do Salesforce
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -18,13 +19,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Conecte-se ao setor de vendas ao seu Sandbox do Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
+>[Conecte as vendas Conecte-se à sua sandbox do Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. Em Sales Connect (Conexão de vendas), clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
+1. Em Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
    ![](assets/one-3.png)
 
-1. Em Configurações de administração , clique em **Salesforce.**
+1. Em Configurações do administrador, clique em **Salesforce.**
 
    ![](assets/two-3.png)
 
@@ -32,4 +33,4 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   Em seguida, siga as etapas da instalação da personalização da mesma maneira que faria em uma conta regular do Salesforce.
+   Em seguida, siga as etapas de instalação da personalização como faria em uma conta normal do Salesforce.

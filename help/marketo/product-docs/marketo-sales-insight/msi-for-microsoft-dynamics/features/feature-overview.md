@@ -1,82 +1,83 @@
 ---
 unique-page-id: 37357043
 description: Visão geral dos recursos - Documentação do Marketo - Documentação do produto
-title: Visão geral dos recursos
+title: Visão geral do recurso
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
-source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 30%
 
 ---
 
-# Visão geral dos recursos {#feature-overview}
+# Visão geral do recurso {#feature-overview}
 
-Os seguintes recursos estão disponíveis na nova MSI MSD Solution.
+Os seguintes recursos estão disponíveis na nova solução MSI MSD.
 
-## Painel de informações de vendas da Marketo no layout de clientes potenciais  {#marketo-sales-insight-panel-in-lead-layout}
+## Painel Marketo Sales Insight no layout de clientes potenciais  {#marketo-sales-insight-panel-in-lead-layout}
 
 * Estrelas e chamas
 * Momento interessante
 * Atividade na Web
 * Pontuação
-* Email (abra e clique)
+* Email (abrir e clicar)
 
-## Campos personalizados do Marketo Sales Insight no layout de lead  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## Campos personalizados do Marketo Sales Insight no layout de clientes potenciais  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * Pontuação do lead
 * Pontuação relativa
 * Prioridade
 * Urgência
 
-## Chamada do Marketo Sales Insight para o botão de ação no layout de lead  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## Botão de chamada para ação do Marketo Sales Insight no layout de clientes potenciais  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Adicionar à campanha do Marketo
 * Enviar e-mail do Marketo
 
-## Botão de ação em massa do Marketo Sales Insight na exibição da lista de lead  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## Botão de ação em massa do Marketo Sales Insight na exibição da lista de clientes potenciais  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * Adicionar à campanha do Marketo
 * Enviar e-mail do Marketo
 
-## Painel Marketo Sales Insight no layout Contato  {#marketo-sales-insight-panel-in-contact-layout}
+## Painel Marketo Sales Insight no layout de contato  {#marketo-sales-insight-panel-in-contact-layout}
 
 * Estrelas e chamas
 * Momento interessante
 * Atividade na Web
 * Pontuação
-* Email (abra e clique)
+* Email (abrir e clicar)
 
-## Campos personalizados do Marketo Sales Insight no layout Contato  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## Campos personalizados do Marketo Sales Insight no layout de contato  {#marketo-sales-insight-custom-fields-in-contact-layout}
 
 * Pontuação do lead
 * Pontuação relativa
 * Prioridade
 * Urgência
 
-## Chamada do Marketo Sales Insight para o botão de ação no layout Contato  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## Botão de chamada para ação do Marketo Sales Insight no layout de contato  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * Adicionar à campanha do Marketo
 * Enviar e-mail do Marketo
 
-## Botão de ação em massa do Marketo Sales Insight na exibição da lista de contatos  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## Botão de ação em massa do Marketo Sales Insight na exibição da Lista de contatos  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * Adicionar à campanha do Marketo
 * Enviar e-mail do Marketo
 
-## Painel Marketo Sales Insight no layout da conta {#marketo-sales-insight-panel-in-account-layout}
+## Painel Marketo Sales Insight no Layout da conta {#marketo-sales-insight-panel-in-account-layout}
 
 * Estrelas e chamas
 * Momento interessante
 * Atividade na Web
 * Pontuação
-* Email (abra e clique)
+* Email (abrir e clicar)
 
-## Página Melhores Melhores Opções do Marketo {#marketo-best-bets-page}
+## Página de melhores opções do Marketo {#marketo-best-bets-page}
 
-* Prioridade (estrelas e chamas)
-* Nome (Hipervinculado à página Lead/Contato)
+* Prioridade (Estrelas e Chamas)
+* Nome (hiperlink para a página Cliente Potencial/Contato)
 * Conta
 * Momento interessante
 * Status
-* Feed de clientes potenciais - Inclui a capacidade de assinar mensagens instantâneas
+* Feed principal - Inclui a capacidade de assinar mensagens instantâneas

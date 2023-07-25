@@ -3,7 +3,8 @@ unique-page-id: 2949680
 description: SEO - Gráfico de tendências de palavras-chave - Documentação do Marketo - Documentação do produto
 title: SEO - Gráfico de Tendências de Palavras-chave
 exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%

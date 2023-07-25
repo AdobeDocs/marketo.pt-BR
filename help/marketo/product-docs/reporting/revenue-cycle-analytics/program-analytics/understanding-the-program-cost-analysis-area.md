@@ -1,18 +1,19 @@
 ---
 unique-page-id: 4718636
-description: Noções básicas sobre a área de análise de custo do programa - Documentos da Marketo - Documentação do produto
-title: Noções Gerais da Área de Análise de Custo do Programa
+description: Noções básicas da área de análise de custo do programa - Documentação do Marketo - Documentação do produto
+title: Como entender a área de análise de custo do programa
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 21%
 
 ---
 
-# Noções Gerais da Área de Análise de Custo do Programa {#understanding-the-program-cost-analysis-area}
+# Como entender a área de análise de custo do programa {#understanding-the-program-cost-analysis-area}
 
-A área Análise de custo do programa permite analisar a eficácia de programas individuais ou ver resultados resumidos por canal em um determinado período.
+A área Análise de custo do programa permite analisar a eficácia de programas individuais ou ver resultados resumidos por canal para um determinado período de tempo.
 
 ## Exemplo de perguntas comerciais {#example-business-questions}
 
@@ -20,19 +21,19 @@ Quantos novos nomes cada canal gerou por mês?
 
 ![](assets/image2015-5-6-14-3a13-3a47.png)
 
-Qual foi o meu custo por novo nome por canal, por mês?
+Qual era meu custo por novo nome por canal e por mês?
 
 ![](assets/image2015-5-6-14-3a16-3a28.png)
 
-Qual porcentagem dos novos nomes gerados que obteve sucesso em um programa?
+Que porcentagem dos novos nomes gerados alcançou sucesso em um programa?
 
 ![](assets/image2015-5-6-14-3a31-3a15.png)
 
-Quanto gastei por programa por mês?
+Quanto eu gastei por programa por mês?
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimension e medidas de análise de custo do Programa {#program-cost-analysis-dimensions-and-measures}
+## Dimension e Medidas da Análise de Custo do Programa {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -43,9 +44,9 @@ Quanto gastei por programa por mês?
 | Medir | Descrição |
 |---|---|
 | Custo por membro | Custo médio por membro do programa |
-| Custo por novo nome | Custo médio por cliente potencial adquirido pelo programa |
-| Custo por sucesso | Custo médio por cliente potencial que obteve sucesso na progressão de um programa |
-| Custo por sucesso (novos nomes) | Custo médio por cliente potencial adquirido pelo programa E obtido êxito na progressão do programa |
+| Custo por novo nome | Custo médio por lead adquirido pelo programa |
+| Custo por sucesso | Custo médio por lead que obteve êxito no progresso de um programa |
+| Custo por sucesso (novos nomes) | Custo médio por lead adquirido pelo programa E êxito alcançado na progressão do programa |
 | Custo do programa | Custo total do período do programa |
 
 ## Associação {#membership}
@@ -58,11 +59,11 @@ Quanto gastei por programa por mês?
   </tr> 
   <tr> 
    <td>% de novos nomes</td> 
-   <td>Porcentagem de leads adquiridos por um programa</td> 
+   <td>Porcentagem de clientes potenciais adquiridos por um programa</td> 
   </tr> 
   <tr> 
    <td>Membros</td> 
-   <td>Total de leads em um programa</td> 
+   <td>Total de clientes em potencial em um programa</td> 
   </tr> 
   <tr> 
    <td>Novos nomes</td> 
@@ -78,20 +79,20 @@ Quanto gastei por programa por mês?
 | Canal do programa | Canal do programa |
 | Nome do programa | Nome do programa |
 
-## Cronograma de custo do programa {#program-cost-timeframe}
+## Período do custo do programa {#program-cost-timeframe}
 
 | Dimensão | Descrição |
 |---|---|
-| Ano | Período de tempo do custo do programa |
-| Trimestre | Período de tempo de custo do programa |
-| Mês | Período de tempo do custo do programa |
+| Ano | Período do custo do programa |
+| Trimestre | Período de tempo do Custo do Programa |
+| Mês | Período do custo do programa |
 
 ## Marcas do programa {#program-tags}
 
 | Medir | Descrição |
 |---|---|
 | Setor | Marca de programa |
-| Linha de produto | Marca de programa |
+| Linha de produtos | Marca de programa |
 | Proprietário do programa | Marca de programa |
 | Região  | Marca de programa |
 
@@ -99,7 +100,7 @@ Quanto gastei por programa por mês?
 
 | Medir | Descrição |
 |---|---|
-| % de sucesso (novos nomes) | Porcentagem de leads adquiridos pelo programa E que tiveram sucesso na progressão do programa |
-| % de sucesso (total) | Porcentagem de leads que obtiveram sucesso na progressão de um programa |
-| Sucesso (novos nomes) | Número total de novos nomes que obtiveram sucesso na progressão de um programa |
-| Sucesso (total) | Número total de clientes potenciais que obtiveram êxito na progressão de um programa |
+| % de sucesso (novos nomes) | Porcentagem de clientes potenciais adquiridos pelo programa E que tiveram êxito na progressão do programa |
+| % de sucesso (total) | Porcentagem de clientes potenciais que obtiveram êxito na progressão de um programa |
+| Sucesso (novos nomes) | Número total de novos nomes que obtiveram êxito na progressão de um programa |
+| Sucesso (total) | Número total de clientes potenciais que obtiveram êxito no progresso de um programa |

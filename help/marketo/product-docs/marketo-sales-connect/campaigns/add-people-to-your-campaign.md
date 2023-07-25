@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352613
-description: Adicionar pessoas à sua campanha - Documentos do Marketo - Documentação do produto
+description: Adicionar pessoas à sua campanha - Documentação do Marketo - Documentação do produto
 title: Adicionar pessoas à sua campanha
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -12,16 +13,16 @@ ht-degree: 0%
 
 # Adicionar pessoas à sua campanha {#add-people-to-your-campaign}
 
-Há várias maneiras de adicionar alguém a uma Campanha.
+Há várias maneiras de adicionar alguém a uma campanha.
 
-Se você estiver iniciando a comunicação com um cliente potencial ou cliente, poderá usar Adicionar ao Campaign em qualquer página em nosso aplicativo Web ou no Salesforce.
+Se estiver iniciando a comunicação com um cliente potencial ou cliente, você pode usar Adicionar ao Campaign em qualquer página do nosso aplicativo web ou do Salesforce.
 
-Esse fluxo permitirá que você visualize, edite e programe seu primeiro email na Campanha e, se sua Campanha começar com uma tarefa, essas tarefas serão enfileiradas para você na lista de Tarefas em nosso aplicativo Web e no Salesforce.
+Esse fluxo permitirá que você visualize, edite e programe seu primeiro email no Campaign. Se a campanha começar com uma tarefa, essas tarefas serão enfileiradas para você na lista Tarefas no nosso aplicativo web e no Salesforce.
 
-Você pode fazer isso na guia Campaigns no aplicativo web.
+Você pode fazer isso na guia Campaigns no nosso aplicativo web.
 
-Você pode encontrar o botão Adicionar à campanha nas páginas Conversas e Pessoas em nosso aplicativo da Web.
+Você pode encontrar o botão Adicionar ao Campaign nas páginas Conversas e Pessoas em nossa aplicação web.
 
-Se você estiver acompanhando um prospecto ou cliente da caixa de entrada do Gmail ou Outlook, poderá adicioná-los a uma Campanha por meio da janela de composição ao acompanhar com eles (se a primeira etapa da Campanha for um Email).
+Se você estiver fazendo o acompanhamento de um cliente em potencial ou da caixa de entrada do Gmail ou Outlook, poderá adicioná-los a uma campanha por meio da janela de composição ao fazer o acompanhamento (se a primeira etapa da campanha for um email).
 
-Basta responder ao email e escolher uma Campanha no plug-in.
+Basta responder ao email deles e escolher uma Campanha no nosso plug-in.

@@ -1,46 +1,47 @@
 ---
 unique-page-id: 10099411
-description: Visão geral da análise do Email Insights - Documentos do Marketo - Documentação do produto
-title: Visão geral da análise de insights de email
+description: Visão geral do Email Insights Analytics - Documentação do Marketo - Documentação do produto
+title: Visão geral do Email Insights Analytics
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-# Visão geral da análise de insights de email {#email-insights-analytics-overview}
+# Visão geral do Email Insights Analytics {#email-insights-analytics-overview}
 
-No Analytics, explore dados agregados para entrega e envolvimento de emails. Use o gráfico à esquerda para explorar dados, os insights à direita para uma experiência mais guiada.
+No Analytics, explore dados agregados para entrega e engajamento de email. Use o gráfico à esquerda para explorar dados, os insights à direita para obter uma experiência mais guiada.
 
 ![](assets/emailanalytics-1.jpg)
 
-[Filtragem](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) O está disponível para ajudar você a fazer busca detalhada de métricas específicas.
+[Filtragem](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) O está disponível para ajudar você a se aprofundar em métricas específicas.
 
 ![](assets/filter-field.png)
 
-Os blocos de Pontos principais de interesse (KPI) fornecem uma visão rápida das métricas mais populares.
+Os blocos de Principais pontos de interesse (KPI) fornecem uma olhada rápida nas métricas mais populares.
 
 ![](assets/kpi.png)
 
-Passe o mouse sobre os blocos KPI para obter detalhes..
+Passe o mouse sobre os blocos de KPI para obter detalhes...
 
 ![](assets/kpi-hover.png)
 
-...ou veja os detalhes sem precisar passar o mouse expandindo sua janela do navegador (em telas maiores).
+...ou ver detalhes sem precisar passar o mouse, expandindo a janela do navegador (em telas maiores).
 
 ![](assets/kpi-wide.png)
 
 >[!TIP]
 >
->Essas cores significam algo! Verde indica uma boa mudança, vermelho significa uma mudança ruim, cinza significa que nada mudou. Isso se baseia no período de comparação escolhido na filtragem.
+>Essas cores significam alguma coisa! Verde indica uma boa mudança, vermelho significa uma má mudança, cinza significa que nada mudou. Isso se baseia no período de comparação escolhido na filtragem.
 
-O gráfico exibe seus critérios filtrados. Para ocultar um dos filtros, basta clicar na barra de cores...
+O gráfico exibe os critérios filtrados. Para ocultar um dos filtros, basta clicar na barra de cores...
 
 ![](assets/chart1.png)
 
-...e a métrica desaparece do gráfico. Clique na barra de cores novamente para fazê-la reaparecer.
+... e a métrica desaparecerá do gráfico. Clique na barra de cores novamente para que ela reapareça.
 
 ![](assets/chart2.png)
 
@@ -48,18 +49,18 @@ Se você criar um gráfico que gostaria de usar novamente, torne-o um [gráfico 
 
 ![](assets/quick-chart.png)
 
-No lado direito da página, as métricas guiadas ajudam você a descobrir drivers relevantes. Clique em qualquer métrica para vê-la no gráfico no lado esquerdo da página.
+No lado direito da página, as métricas guiadas ajudam a descobrir drivers relevantes. Clique em qualquer métrica para vê-la no gráfico no lado esquerdo da página.
 
 ![](assets/guided-metrics-ps.png)
 
 >[!NOTE]
 >
->Vê aquele item Refresh no canto superior direito? Ao visualizá-lo, será necessário clicar manualmente nele para atualizar o módulo Insights. Somente mostramos isso quando você faz uma alteração em filtros que invalidariam os valores atuais.
+>Você vê a opção Refresh no canto superior direito? Ao visualizá-lo, será necessário clicar manualmente nele para atualizar o módulo Insights. Só a mostramos quando você tiver feito uma alteração nos filtros que invalidariam os valores atuais.
 
-Também é possível especificar o que você vê (da esquerda para a direita): Tudo, público-alvo, conteúdo e plataforma.
+Você também pode especificar o que vê (da esquerda para a direita): Tudo, Público-alvo, Conteúdo e Plataforma.
 
 ![](assets/guided-bar.png)
 
 >[!MORELIKETHIS]
 >
->[Visão geral dos envios de insights de email](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[Visão geral dos envios do Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

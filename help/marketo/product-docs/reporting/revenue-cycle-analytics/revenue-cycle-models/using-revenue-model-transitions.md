@@ -1,16 +1,17 @@
 ---
 unique-page-id: 4718672
-description: Uso de transições do modelo de receita - Documentos do Marketo - Documentação do produto
-title: Uso de transições de modelo de receita
+description: Uso de transições de modelo de receita - Documentação do Marketo - Documentação do produto
+title: Uso de transições do modelo de receita
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-# Uso de transições de modelo de receita {#using-revenue-model-transitions}
+# Uso de transições do modelo de receita {#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
 >
@@ -20,31 +21,31 @@ Ao criar seu modelo e selecionar e organizar seus estágios de inventário, é h
 
 ![](assets/one-2.png)
 
-1. Clique com o botão direito do mouse (também é possível clicar duas vezes) em uma das setas para começar e selecione **Editar transição**.
+1. Clique com o botão direito do mouse (você também pode clicar duas vezes) em uma das setas para começar e selecione **Editar transição**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >As regras de transição &quot;anônimas ∙ conhecidas&quot; não podem ser editadas.
+   >As regras de transição &#39;Anônimo ^ Conhecido&#39; não podem ser editadas.
 
 1. Uma nova guia será aberta para a transição selecionada.
 
    ![](assets/three-1.png)
 
-1. As transições controlam como os leads se movem entre os estágios. Arraste o acionador (ou filtro) de sua escolha da direita e solte em qualquer lugar na tela. Neste exemplo, vamos selecionar o acionador Preencher formulário.
+1. As transições controlam como os leads se movem entre estágios. Arraste o acionador (ou filtro) de sua escolha da direita e solte-o em qualquer lugar na tela de desenho. Neste exemplo, selecionaremos o acionador Preencher formulário.
 
    >[!TIP]
    >
-   >Como o modelador de receita está configurando você para relatórios, recomenda-se que as transições sempre incluam acionadores. Dessa forma, seus relatórios refletirão a velocidade real do fluxo do modelo/estágio. Filtros podem ser adicionados com os acionadores para restrições adicionais.
+   >Como o modelador de receita está configurando você para relatórios, recomenda-se que as transições sempre incluam acionadores. Dessa forma, seus relatórios refletirão a verdadeira velocidade do fluxo do modelo/estágio. Filtros podem ser adicionados com os acionadores para restrições adicionais.
 
    ![](assets/four-2.png)
 
-1. Escolha os parâmetros para o acionador/filtro selecionado.
+1. Escolha o(s) parâmetro(s) do acionador/filtro selecionado.
 
    ![](assets/five-2.png)
 
-1. Para voltar ao modelo, clique em **Modelador**.
+1. Para voltar ao seu modelo, clique em **Modeler**.
 
    ![](assets/six.png)
 
@@ -60,7 +61,7 @@ Ao criar seu modelo e selecionar e organizar seus estágios de inventário, é h
 
    ![](assets/nine.png)
 
-Muito bem! Você modificou suas transições de modelo com êxito.
+Muito bem! Você modificou com êxito as transições de modelo.
 
 >[!MORELIKETHIS]
 >

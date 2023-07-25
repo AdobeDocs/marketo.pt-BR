@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437792
-description: Modelo 13C - Documentos do Marketo - Documentação do produto
+description: Modelo 13C - Documentação do Marketo - Documentação do produto
 title: Modelo 13C
 exl-id: 05624f86-03ab-45ab-8daa-61cf4f2b44ba
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 3%
@@ -12,17 +13,17 @@ ht-degree: 3%
 
 # Modelo 13C {#template-13c}
 
-Clique com o botão direito do mouse em para [baixar modelo 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
+Clique com o botão direito do mouse para [baixar modelo 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 
 Esse template inclui o seguinte conteúdo:
 
-* Uma seção primária
+* Uma seção principal
 
-   * inclui título de herói e pesquisa
+   * inclui título de herói e enquete
 
-* Cinco seções do corpo (opcional)
+* Cinco seções de corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

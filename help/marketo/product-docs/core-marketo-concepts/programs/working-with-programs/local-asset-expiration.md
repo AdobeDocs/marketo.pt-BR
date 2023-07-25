@@ -2,7 +2,8 @@
 description: Expiração de ativo local - Documentação do Marketo - Documentação do produto
 title: Expiração do ativo local
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
-source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -56,7 +57,6 @@ Antes de agendar a expiração de um ativo, a função Marketo deve ter a permis
 >* Para editar uma data de expiração existente, basta verificar o(s) ativo(s) e clicar em **[!UICONTROL Definir Expiração]**.
 >* Depois que um ativo expirar, ele não será mais exibido na grade Expiration. A grade exibirá somente landing pages publicadas, campanhas de acionador ativas e campanhas de lote recorrentes.
 >* As expirações programadas serão removidas se o ativo for movido para outro programa.
-
 
 ## Remover uma data de expiração {#remove-an-expiration-date}
 

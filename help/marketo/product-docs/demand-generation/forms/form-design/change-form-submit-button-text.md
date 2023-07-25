@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359649
-description: Alterar texto do botão de envio de formulário - Documentos do Marketo - Documentação do produto
-title: Alterar o texto do botão de envio de formulário
+description: Texto do botão Enviar do formulário de alteração - Documentação do Marketo - Documentação do produto
+title: Alterar texto do botão Enviar do formulário
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 2%
 
 ---
 
-# Alterar o texto do botão de envio de formulário {#change-form-submit-button-text}
+# Alterar texto do botão Enviar do formulário {#change-form-submit-button-text}
 
-Você pode alterar de forma rápida e fácil um botão de formulário de &quot;Enviar&quot; para qualquer outra palavra. Veja como.
+Você pode alterar rápida e facilmente um botão de formulários de &quot;Enviar&quot; para qualquer outra palavra. Veja como.
 
 1. Ir para **Atividades de marketing**.
 
@@ -28,7 +29,7 @@ Você pode alterar de forma rápida e fácil um botão de formulário de &quot;E
 
    >[!TIP]
    >
-   >Observe que você também pode alterar o Rótulo de espera. Isso é exibido depois que o botão é clicado e antes da conclusão da ação de envio do formulário.
+   >Observe que você também pode alterar o Rótulo de espera. É exibido depois que o botão é clicado e antes da conclusão da ação de envio do formulário.
 
 1. Clique em **Concluir**.
 

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147120
-description: Importar membros de uma planilha para um programa - Documentos do Marketo - Documentação do produto
+description: Importar membros de uma planilha para um programa - Documentação do Marketo - Documentação do produto
 title: Importar Membros de uma Planilha para um Programa
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -12,11 +13,11 @@ ht-degree: 0%
 
 # Importar Membros de uma Planilha para um Programa {#import-members-from-a-spreadsheet-into-a-program}
 
-É possível importar uma lista de pessoas que automaticamente se tornam membros de um programa. Aqui está o que fazer.
+Você pode importar uma lista de pessoas que se tornam automaticamente membros de um programa. Veja o que fazer.
 
 ## Preparar seu arquivo CSV {#prepare-your-csv-file}
 
-1. Crie um arquivo CSV padrão no Excel, como o exemplo abaixo.
+1. Crie um arquivo CSV padrão no Excel, como no exemplo abaixo.
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 
@@ -24,29 +25,29 @@ ht-degree: 0%
    >
    >Ao importar uma data em um campo de data, use este formato: 29/9/13 (Mês/Dia/Ano).
 
-## Importe seu CSV para o Marketo {#import-your-csv-into-marketo}
+## Importar seu CSV para o Marketo {#import-your-csv-into-marketo}
 
-1. No seu programa, acesse **Membros** seção.
+1. No seu programa, acesse o **Membros** seção.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Clique em **Importar Membros**.
+1. Clique em **Importar membros**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Selecione o CSV e clique em **Próximo**.
+1. Selecione o CSV e clique em **Próxima**.
 
    ![](assets/importlist1.png)
 
-1. Mapeie os valores de dados da lista para os Campos do Marketo correspondentes e clique em **Próximo**.
+1. Mapeie os valores de dados da lista para os Campos Marketo correspondentes e clique em **Próxima**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >Se houver campos que você não queira importar, selecione **IGNORAR** no menu suspenso Campo do Marketo .
+   >Se houver campos que você não deseja importar, selecione **IGNORAR** no menu suspenso Marketo Field.
 
-1. Selecione o **Estado-Membro** para sua lista.
+1. Selecione o **Status do membro** para a sua lista.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
@@ -64,4 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Gerenciar e exibir membros](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
+>[Gerenciar e Exibir Membros](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)

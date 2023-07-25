@@ -1,22 +1,23 @@
 ---
 unique-page-id: 2359679
-description: Editar o CSS de um Tema de formulário - Documentos do Marketo - Documentação do produto
-title: Editar o CSS de um Tema de Formulário
+description: Editar o CSS de um tema de formulário - Documentação do Marketo - Documentação do produto
+title: Editar o CSS de um tema de formulário
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 2%
 
 ---
 
-# Editar o CSS de um Tema de Formulário {#edit-the-css-of-a-form-theme}
+# Editar o CSS de um tema de formulário {#edit-the-css-of-a-form-theme}
 
-Você tem alguns pré-criados [temas que você pode escolher](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mas se você ama editar o CSS, pode fazer as alterações desejadas. Veja como.
+Você tem alguns pré-construídos [temas que você pode escolher](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mas se você adora editar o CSS, é possível fazer as alterações desejadas. Veja como.
 
 >[!NOTE]
 >
->Verifique se você sabe o CSS se deseja tentar isso, pois o Suporte da Marketo não está configurado para auxiliar no código personalizado. Além disso, todas as alterações feitas serão aplicadas somente ao formulário que você está editando no momento.
+>Certifique-se de saber o CSS se quiser tentar isso, pois o Suporte do Marketo não está configurado para auxiliar na codificação personalizada. Além disso, as alterações feitas serão aplicadas somente ao formulário que você está editando atualmente.
 
 1. Ir para **Atividades de marketing**.
 
@@ -34,11 +35,11 @@ Você tem alguns pré-criados [temas que você pode escolher](/help/marketo/prod
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. No ícone de engrenagem, clique em **Exibir CSS do Tema**.
+1. No ícone de engrenagem, clique em **Exibir tema CSS**.
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. Você pode cortar/colar esse CSS em seu próprio editor. É somente leitura, portanto, você só precisará do CSS de substituição.
+1. Você pode recortar/colar esse CSS em seu próprio editor. Ele é somente leitura, portanto, você só precisará da substituição do CSS.
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -46,11 +47,11 @@ Você tem alguns pré-criados [temas que você pode escolher](/help/marketo/prod
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. No ícone de engrenagem, clique em **Editar CSS Personalizado**.
+1. No ícone de engrenagem, clique em **Editar CSS personalizado**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
-1. Insira seu CSS personalizado. Você não precisa de tudo, apenas as partes que são diferentes.
+1. Insira seu CSS personalizado. Você não precisa de tudo isso, apenas as partes que são diferentes.
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 

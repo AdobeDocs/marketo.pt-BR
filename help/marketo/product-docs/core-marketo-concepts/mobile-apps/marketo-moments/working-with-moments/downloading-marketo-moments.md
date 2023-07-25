@@ -1,30 +1,31 @@
 ---
 unique-page-id: 8782024
-description: Download de momentos do Marketo - Documentos do Marketo - Documentação do produto
-title: Download de momentos do Marketo
+description: Download de Marketo Moments - Documentação do Marketo - Documentação do produto
+title: Baixando Momentos do Marketo
 exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-# Download de momentos do Marketo {#downloading-marketo-moments}
+# Baixando Momentos do Marketo {#downloading-marketo-moments}
 
-Baixe o Marketo Moments da App Store ou Google Play e voila! Mágica Marketo na palma da mão.
+Baixe o Marketo Moments no App Store ou no Google Play e clique em. Marketo magia na palma da sua mão.
 
 ## Para iPhone {#for-iphone}
 
-1. Vá para o [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).
+1. Vá para a [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).
 
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
-1. Procure por Marketo Moments e selecione-a.
+1. Procure por Marketo Moments e selecione-o.
 
    ![](assets/image2015-7-7-17-3a19-3a7.png)
 
-1. Em seguida, toque em **Abrir**.
+1. Em seguida, toque em **Abertura**.
 
    ![](assets/image2015-7-7-17-3a20-3a51.png)
 
@@ -50,8 +51,8 @@ Aproveite!
 >
 >Faça logon com o logon e a senha normais do Marketo.
 >
->O logon único com a Linguagem de marcação de asserção de segurança (SAML) não é compatível com os Momentos do Marketo.
+>O logon único com SAML (Security Assertion Markup Language) não é compatível com o Marketo Moments.
 
 >[!MORELIKETHIS]
 >
->[Noções básicas sobre os momentos do Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>[Noções básicas sobre o Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)

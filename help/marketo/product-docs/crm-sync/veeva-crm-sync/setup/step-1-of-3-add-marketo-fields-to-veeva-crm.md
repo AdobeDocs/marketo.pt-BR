@@ -1,39 +1,40 @@
 ---
-description: Etapa 1 de 3 - Adicionar campos do Marketo a todos os documentos do CRM - Marketo - Documentação do produto
-title: Etapa 1 de 3 - Adicionar campos do Marketo a cada CRM
+description: Etapa 1 de 3 - Adicionar campos do Marketo ao Veeva CRM - Documentação do Marketo - Documentação do produto
+title: Etapa 1 de 3 - Adicionar campos do Marketo ao Veeva CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 7%
 
 ---
 
-# Etapa 1 de 3: Adicionar campos do Marketo a cada CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
+# Etapa 1 de 3: Adicionar campos do Marketo ao Veeva CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
 >
->Sua instância de Veva CRM deve ter acesso às APIs do Salesforce para sincronizar dados entre o Marketo Engage e Veeva CRM.
+>Sua instância do Veeva CRM deve ter acesso às APIs do Salesforce para sincronizar dados entre o Marketo Engage e o Veeva CRM.
 
-O Marketo Engage usa um conjunto de campos para capturar determinados tipos de informações relacionadas ao marketing. Se você desejar esses dados no Veeva CRM, siga as instruções abaixo.
+O Marketo Engage usa um conjunto de campos para capturar determinados tipos de informações relacionadas a marketing. Se você quiser esses dados em Veeva CRM, por favor, siga as instruções abaixo.
 
-`1.` Crie um campo personalizado em Veeva CRM nos objetos de contato: Pontuação
+`1.` Criar um campo personalizado no Veeva CRM nos objetos de contato: Pontuação
 
-`2.` Se desejar, é possível criar campos adicionais (consulte a tabela abaixo).
+`2.` Você pode criar campos adicionais, se desejar (consulte a tabela abaixo).
 
-Todos esses campos personalizados são opcionais e não são necessários para sincronizar o Marketo Engage e Veeva CRM.
+Todos esses campos personalizados são opcionais e não são necessários para sincronizar Marketo Engage e Veeva CRM.
 
-## Adicionar campos do Marketo a cada CRM {#add-marketo-fields-to-veeva-crm}
+## Adicionar campos do Marketo ao Veeva CRM {#add-marketo-fields-to-veeva-crm}
 
-Adicione um campo personalizado nos objetos lead e contact em Veeva CRM listados acima. Se desejar adicionar mais, consulte a tabela de campos disponíveis no final desta seção.
+Adicione um campo personalizado ao cliente potencial e aos objetos de contato no Veeva CRM listados acima. Se quiser adicionar mais, consulte a tabela de campos disponíveis no final desta seção.
 
-Execute as etapas a seguir para o campo Score para adicioná-lo.
+Execute as seguintes etapas para que o campo Score o adicione.
 
-1. Faça logon no CRM de Veeva e clique em **Configuração**.
+1. Faça logon no Veeva CRM e clique em **Configuração**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. Clique em Objetos e campos e selecione Gerenciador de objetos.
+1. Clique em Objetos e Campos e selecione Gerenciador de Objetos.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
@@ -41,7 +42,7 @@ Execute as etapas a seguir para o campo Score para adicioná-lo.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Clique no objeto Contact .
+1. Clique no objeto Contato.
 
 1. Selecione Campos e Relações.
 
@@ -49,15 +50,15 @@ Execute as etapas a seguir para o campo Score para adicioná-lo.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
-1. Escolha o tipo de campo apropriado (para Pontuação — número).
+1. Escolha o tipo de campo apropriado (para Pontuação - número).
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. Clique em **Próximo**.
+1. Clique em **Próxima**.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. Insira o Rótulo do campo, o Comprimento e o Nome do campo, conforme mostrado na tabela abaixo.
+1. Insira o Rótulo do campo, Comprimento e Nome do campo do campo, conforme mostrado na tabela abaixo.
 
 <table>
  <tbody>
@@ -79,40 +80,40 @@ Casas decimais 0</td>
 
 >[!NOTE]
 >
->Cada CRM anexa __c aos Nomes de Campo quando os usa para criar Nomes de API.
+>O Veeva CRM anexa __c a Nomes de campos quando os usa para criar Nomes de API.
 
 ![](assets/step-1-of-3-add-marketo-fields-7.png)
 
 >[!NOTE]
 >
->Os campos de texto e número exigem um comprimento, mas os campos de Data/Hora não o exigem. Uma descrição é opcional.
+>Os campos de texto e número exigem comprimento, mas os campos de Data/Hora não. Uma descrição é opcional.
 
-1. Clique em **Próximo**.
+1. Clique em **Próxima**.
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. Especifique as configurações de acesso e clique em **Próximo**.
+1. Especifique as configurações de acesso e clique em **Próxima**.
 
 1. Defina todas as funções como Visível e Somente leitura.
 
-1. Desmarque a caixa de seleção Somente leitura do perfil do usuário de sincronização:
+1. Desmarque a caixa de seleção Somente leitura para o perfil do seu usuário de sincronização:
 
-* Se você tiver um usuário com o perfil de um Administrador do sistema como o usuário de sincronização, desmarque a caixa de seleção Somente leitura do perfil Administrador do sistema (como mostrado abaixo).
+* Se você tiver um usuário com o perfil de Administrador do sistema como o usuário de sincronização, desmarque a caixa de seleção Somente leitura do perfil de Administrador do sistema (como mostrado abaixo).
 * Se você criou um perfil personalizado para o usuário de sincronização, desmarque a caixa de seleção Somente leitura desse perfil personalizado.
 
-   ![](assets/step-1-of-3-add-marketo-fields-9.png)
+  ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
-1. Escolha os layouts de página que devem exibir o campo .
+1. Escolha os layouts de página que devem exibir o campo.
 
-1. Clique em **Salvar e Novo** para voltar e criar cada um dos outros dois campos personalizados.
+1. Clique em **Salvar e novo** para voltar e criar cada um dos outros dois campos personalizados.
 
-1. Clique em **Salvar** quando terminar com os três.
+1. Clique em **Salvar** quando terminar com todos os três.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 
 >[!NOTE]
 >
->Ao adicionar o campo ao objeto Contato , eles também são adicionados ao objeto Conta de pessoa.
+>Ao adicionar o campo ao objeto de Contato, eles também são adicionados ao objeto de Conta de pessoa.
 
 OPCIONAL: Use o procedimento acima para qualquer campo personalizado adicional da tabela abaixo.
 
@@ -126,7 +127,7 @@ OPCIONAL: Use o procedimento acima para qualquer campo personalizado adicional d
   </tr>
   <tr>
    <td>Cidade inferida</td>
-   <td>mkto71_Inferred_City</td>
+   <td>mkto71_Cidade_inferida</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
@@ -171,4 +172,4 @@ OPCIONAL: Use o procedimento acima para qualquer campo personalizado adicional d
 
 >[!NOTE]
 >
->Os valores nos campos atribuídos automaticamente pelo Marketo não estarão disponíveis imediatamente em Veeva CRM quando o novo campo for criado. A Marketo sincronizará os dados com Veeva CRM na próxima atualização do registro em qualquer sistema (ou seja, uma atualização para qualquer um dos campos sincronizados entre o Marketo e Veeva CRM).
+>Os valores nos campos atribuídos automaticamente pelo Marketo não estarão imediatamente disponíveis no Veeva CRM quando o novo campo for criado. O Marketo sincronizará os dados com o Veeva CRM na próxima atualização do registro em qualquer sistema (ou seja, uma atualização para qualquer um dos campos sincronizados entre o Marketo e o Veeva CRM).

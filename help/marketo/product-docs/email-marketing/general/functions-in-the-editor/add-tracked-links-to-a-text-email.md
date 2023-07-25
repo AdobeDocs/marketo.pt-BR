@@ -1,12 +1,13 @@
 ---
 unique-page-id: 1900589
-description: Adicionar links rastreados a um email de texto - Documentos do Marketo - Documentação do produto
+description: Adicionar links rastreados a um email de texto - Documentação do Marketo - Documentação do produto
 title: Adicionar links rastreados a um email de texto
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,8 +18,7 @@ ht-degree: 0%
 >* [Criar um email somente texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
 >* [Editar elementos em um email](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
-
-Os links de email de texto podem ser rastreados no Marketo. Vamos ver como funciona. 1. Selecione seu email e clique em Editar rascunho.
+Os links de texto de email podem ser rastreados no Marketo. Vamos ver como funciona. 1. Selecione seu email e clique em Editar Rascunho.
 
 ![](assets/one-9.png)
 
@@ -26,7 +26,7 @@ Os links de email de texto podem ser rastreados no Marketo. Vamos ver como funci
 
    ![](assets/two-8.png)
 
-1. Insira o URL com colchetes, desta forma: `[[www.domain.com/path/page.html]]`.
+1. Insira o URL com colchetes duplos, desta forma: `[[www.domain.com/path/page.html]]`.
 
    ![](assets/three-8.png)
 
@@ -36,10 +36,10 @@ Os links de email de texto podem ser rastreados no Marketo. Vamos ver como funci
 
 >[!NOTE]
 >
->A funcionalidade da classe mktNoTok não funciona com links rastreáveis em emails de texto. Somente para emails do HTML.
+>A funcionalidade da classe mktNoTok não funciona com links rastreáveis em emails de texto. Somente para emails de HTML.
 
 >[!TIP]
 >
->Teste para verificar novamente. Certifique-se de ter inserido os colchetes corretamente.
+>Teste para verificar novamente. Verifique se os colchetes foram inseridos corretamente.
 
 Bom trabalho!

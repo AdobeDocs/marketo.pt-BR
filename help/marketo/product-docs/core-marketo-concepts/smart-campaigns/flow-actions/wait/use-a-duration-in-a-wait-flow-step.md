@@ -1,24 +1,25 @@
 ---
 unique-page-id: 1146978
-description: Usar uma duração em uma etapa do fluxo de espera - Documentos do Marketo - Documentação do produto
-title: Usar uma duração em uma etapa do fluxo de espera
+description: Use uma duração em uma etapa de fluxo de espera - Documentação do Marketo - Documentação do produto
+title: Usar uma duração em uma etapa de fluxo de espera
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Usar uma duração em uma etapa do fluxo de espera {#use-a-duration-in-a-wait-flow-step}
+# Usar uma duração em uma etapa de fluxo de espera {#use-a-duration-in-a-wait-flow-step}
 
-Você pode usar a etapa Fluxo de espera para pausar a jornada de uma pessoa por meio de uma campanha inteligente por um determinado período de tempo. Você também pode especificar critérios para o dia da semana e a hora em que ele termina.
+Você pode usar a etapa Wait flow para pausar a jornada de uma pessoa por uma campanha inteligente por uma determinada duração de tempo. Você também pode especificar critérios para o dia da semana e a hora em que ela termina.
 
-1. Em sua campanha inteligente **Fluxo** arraste sobre a guia **Aguardar** etapa de fluxo.
+1. Em sua campanha inteligente **Fluxo** arraste sobre a guia **Aguardar** etapa do fluxo.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
-1. Insira quanto tempo você deseja pausar.
+1. Insira por quanto tempo você deseja pausar.
 
    ![](assets/image2014-9-22-11-3a54-3a0.png)
 
@@ -30,7 +31,7 @@ Você pode usar a etapa Fluxo de espera para pausar a jornada de uma pessoa por 
 
    ![](assets/image2014-9-22-11-3a54-3a10.png)
 
-1. Como opção, especifique a hora. Clique em **Salvar**.
+1. Opcionalmente, especifique a hora. Clique em **Salvar**.
 
    ![](assets/image2014-9-22-11-3a54-3a35.png)
 
@@ -38,16 +39,15 @@ Você pode usar a etapa Fluxo de espera para pausar a jornada de uma pessoa por 
    >
    >**Exemplo**
    >
-   >Uma pessoa dispara uma campanha inteligente na sexta-feira às 17h. A etapa de espera é avançada: 48 horas e deve terminar em segunda-feira às 9h.
+   >Uma pessoa dispara uma campanha inteligente na sexta-feira às 17h. A etapa de espera está avançada: 48 horas e deve terminar de segunda a sexta às 9h.
    >
-   >O resultado seria que a pessoa continuaria no fluxo de **Segunda-feira, 9h**. Esta é a primeira data M-F após 48 horas.
+   >O resultado seria que a pessoa continuaria no fluxo em **Segunda-feira, 9h**. Esta é a primeira data M-F depois de 48 horas.
 
    >[!NOTE]
    >
-   >A duração, as datas, os horários e os dias usados são baseados no fuso horário da sua assinatura.
+   >A duração, as datas, as horas e os dias usados são baseados no fuso horário de sua assinatura.
 
    >[!MORELIKETHIS]
    >
    >* [Usar uma Data Específica em uma Etapa de Fluxo de Espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
    >* [Usar um token de data em uma etapa de fluxo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
-

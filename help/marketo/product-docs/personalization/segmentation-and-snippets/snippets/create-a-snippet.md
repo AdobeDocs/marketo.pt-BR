@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359459
-description: Criar um trecho - Documentos do Marketo - Documentação do produto
+description: Criar um trecho - Documentação do Marketo - Documentação do produto
 title: Criar um trecho
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -12,9 +13,9 @@ ht-degree: 0%
 
 # Criar um trecho {#create-a-snippet}
 
-Os trechos podem ser usados como blocos de conteúdo dinâmico em **emails** e **páginas de aterrissagem**.
+Os trechos podem ser usados como blocos de conteúdo dinâmico em **emails** e **landing pages**.
 
-1. Vá para o **Design Studio.**
+1. Vá para a **Design Studio.**
 
    ![](assets/designstudio.png)
 
@@ -26,10 +27,9 @@ Os trechos podem ser usados como blocos de conteúdo dinâmico em **emails** e *
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Bom trabalho! Simplifique o seu trabalho criando trechos para o seu conteúdo dinâmico. Agora pode avançar e [adicionar conteúdo ao novo trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+Bom trabalho! Simplifique o seu trabalho criando trechos para o seu conteúdo dinâmico. Agora você pode seguir em frente e [adicionar conteúdo ao novo trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
 >* [Adicionar conteúdo a um trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
->* [Como entender o conteúdo dinâmico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
-
+>* [Compreensão do conteúdo dinâmico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)

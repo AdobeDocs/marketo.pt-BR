@@ -1,19 +1,20 @@
 ---
-description: Uso da pesquisa global - Documentos do Marketo - Documentação do produto
-title: Usando a pesquisa global
+description: Uso da Pesquisa global - Documentação do Marketo - Documentação do produto
+title: Usando a Pesquisa global
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
 
 ---
 
-# Usando a pesquisa global {#using-the-global-search}
+# Usando a Pesquisa global {#using-the-global-search}
 
-A pesquisa global poderosa oferece muitas opções sem limite para os resultados exibidos.
+A poderosa pesquisa global oferece muitas opções sem limite nos resultados exibidos.
 
-## Realizar uma pesquisa {#performing-a-search}
+## Realizando uma pesquisa {#performing-a-search}
 
 1. Na Navegação global, clique no ícone de pesquisa.
 
@@ -23,15 +24,15 @@ A pesquisa global poderosa oferece muitas opções sem limite para os resultados
 
    ![](assets/using-the-global-search-2.png)
 
-1. Os resultados da pesquisa são exibidos. Você pode clicar em qualquer local em qualquer navegação estrutural a ser levada diretamente para esse item.
+1. Os resultados da pesquisa são exibidos. Você pode clicar em qualquer lugar em qualquer uma das navegações estruturais para ser levado diretamente a esse item.
 
    ![](assets/using-the-global-search-3.png)
 
-1. Neste exemplo, estamos escolhendo ser levados diretamente para o email que estamos procurando. Clique no nome do email.
+1. Neste exemplo, optamos por receber diretamente o email que estamos procurando. Clique no nome do email.
 
    ![](assets/using-the-global-search-4.png)
 
-Você é direcionado para o email desejado.
+Você é levado diretamente ao email desejado.
 
 ![](assets/using-the-global-search-5.png)
 
@@ -59,11 +60,11 @@ Você é direcionado para o email desejado.
   </tr>
   <tr>
    <td>5</td> 
-   <td>Implementar filtros focalizados para restringir os resultados da pesquisa</td> 
+   <td>Implementar filtros focados para limitar os resultados da pesquisa</td> 
   </tr>
  </tbody>
 </table>
 
-**ETAPA OPCIONAL**: Para utilizar a filtragem, basta selecionar as opções desejadas.
+**ETAPA OPCIONAL**: para utilizar a filtragem, basta selecionar as opções desejadas.
 
 ![](assets/using-the-global-search-7.png)

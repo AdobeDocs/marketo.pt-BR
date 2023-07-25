@@ -1,20 +1,21 @@
 ---
 unique-page-id: 4719304
-description: Ações Implementadas Do Salesforce - Documentos Do Marketo - Documentação Do Produto
-title: Ações do Salesforce Implementadas
+description: Ações Implícitas Do Salesforce - Documentação Do Marketo - Documentação Do Produto
+title: Ações implícitas do Salesforce
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 21%
 
 ---
 
-# Ações do Salesforce Implementadas {#implied-salesforce-actions}
+# Ações implícitas do Salesforce {#implied-salesforce-actions}
 
-Quando uma etapa de fluxo específica do Salesforce é executada, às vezes etapas extras são executadas automaticamente. Estas são as regras, para que você saiba:
+Quando uma etapa de fluxo específica do Salesforce é executada, às vezes etapas adicionais são executadas automaticamente. Estas são as regras, então você sabe:
 
-Estas regras serão aplicáveis _quando a pessoa não está no momento [Salesforce.com](https://Salesforce.com)_ como contato ou cliente potencial.
+Estas regras serão aplicadas _quando a pessoa não estiver atualmente em [Salesforce.com](https://Salesforce.com)_ como um contato ou lead.
 
 <table> 
  <thead> 
@@ -30,7 +31,7 @@ Estas regras serão aplicáveis _quando a pessoa não está no momento [Salesfor
   </tr> 
   <tr> 
    <td>Alterar status de campanha da SFDC</td> 
-   <td>Sincronizar pessoa com o SFDC<br>Adicionar à campanha SFDC</td> 
+   <td>Sincronizar pessoa ao SFDC<br>Adicionar à campanha SFDC</td> 
   </tr> 
   <tr> 
    <td>Alterar proprietário</td> 
@@ -47,6 +48,6 @@ Estas regras serão aplicáveis _quando a pessoa não está no momento [Salesfor
  </tbody> 
 </table>
 
-Você pode filtrar os registros SFDC em uma Smart List usando o **Tipo SFDC** O filtro com o operador definido como &quot;não está vazio&quot;. Todos os registros SFDC têm um valor neste campo.
+Você pode filtrar registros SFDC em uma Smart List usando o **Tipo SFDC** O filtro com o operador definido como &quot;não está vazio&quot;. Todos os registros SFDC têm um valor nesse campo.
 
-Lembre-se, essas ações automáticas só acontecem se o lead não estiver no momento [Salesforce.com](https://salesforce.com)
+Lembre-se de que essas ações automáticas só ocorrerão se o lead não estiver em [Salesforce.com](https://salesforce.com)

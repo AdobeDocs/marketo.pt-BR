@@ -1,48 +1,48 @@
 ---
 unique-page-id: 1146901
-description: Usar a lógica de regra da Smart List avançada - Documentos do Marketo - Documentação do produto
-title: Usando a Lógica de Regra de Smart List Avançada
+description: Utilização Da Lógica De Regra Avançada Da Smart List - Documentação Do Marketo - Documentação Do Produto
+title: Utilização da Lógica de Regra Avançada da Smart List
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
-# Usando a Lógica de Regra de Smart List Avançada {#using-advanced-smart-list-rule-logic}
+# Utilização da Lógica de Regra Avançada da Smart List {#using-advanced-smart-list-rule-logic}
 
-Você pode encontrar as pessoas exatas de que precisa ao aplicar a lógica da regra da lista inteligente a vários filtros em uma lista inteligente. Veja como.
+Você pode encontrar as pessoas exatas de que precisa aplicando a lógica da regra de lista inteligente a vários filtros em uma lista inteligente. Veja como.
 
 >[!PREREQUISITES]
 >
 >* [Localizar e adicionar filtros a uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Definir Filtros da Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
+>* [Definir filtros da lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 >[!NOTE]
 >
->A lógica de filtro avançada só estará disponível se houver três ou mais filtros em sua lista inteligente.
+>A lógica de filtro avançada só estará disponível se houver três ou mais filtros na lista inteligente.
 
 ## Adicionar lógica a uma lista inteligente {#add-logic-to-a-smart-list}
 
-Por padrão, sua lista inteligente encontrará as pessoas que correspondem **TODAS** filtros (filtros 1) _e_ 2 _e_ 3). Você pode alterar a lógica da regra para encontrar pessoas que correspondam a ela **ANY** dos filtros definidos (filtros 1 _ou_ 2 _ou_ 3) ou usar filtros avançados (filtros 1 _e_ 2 _ou_ 3).
+Por padrão, sua lista inteligente encontrará as pessoas que correspondem **TODOS** filtros (filtros 1) _e_ 2 _e_ 3). É possível alterar a lógica da regra para encontrar pessoas que correspondam **QUALQUER** dos filtros definidos (filtros 1 _ou_ 2 _ou_ 3), ou use filtros avançados (filtros 1 _e_ 2 _ou_ 3).
 
-Neste exemplo, digamos que você queira encontrar pessoas na Califórnia _e_ com uma pontuação de pelo menos 50 pontos _ou_ com status de &quot;Vendas qualificadas&quot;.
+Neste exemplo, digamos que você queira encontrar pessoas na Califórnia _e_ com uma pontuação de pelo menos 50 pontos _ou_ com um status de &quot;Vendas qualificadas&quot;.
 
-1. Selecionar **Usar filtros avançados** no menu suspenso .
+1. Selecionar **Usar filtros avançados** no menu suspenso.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >Usando **Avançado** filtros reduz a necessidade de criar listas inteligentes com o filtro Membro da Smart List. Isso ajuda a otimizar o desempenho.
+   >Usar **Avançado** O filtro reduz a necessidade de criar smart lists com o filtro Membro da Smart List. Isso ajuda a otimizar o desempenho.
 
-1. O **Filtros avançados** a caixa de texto exibirá &quot;e&quot; como o valor padrão entre todos os filtros.
+1. A variável **Filtros avançados** A caixa de texto exibirá &quot;e&quot; como o valor padrão entre todos os filtros.
 
    ![](assets/two-2.png)
 
-1. Digite um par de parênteses em torno de &quot;2 e 3&quot;.
+1. Digite um par de parênteses ao redor de &quot;2 e 3&quot;.
 
    ![](assets/three-2.png)
 
@@ -54,9 +54,9 @@ Neste exemplo, digamos que você queira encontrar pessoas na Califórnia _e_ com
 
    ![](assets/four-1.png)
 
-## Usar parênteses ao misturar &quot;E&quot; e &quot;Ou {#use-parentheses-when-mixing-and-and-or}
+## Use parênteses ao misturar &quot;And&quot; e &quot;Or&quot; {#use-parentheses-when-mixing-and-and-or}
 
-Misturar a lógica &quot;e&quot; e &quot;ou&quot; requer parênteses para esclarecer sua intenção.
+A combinação da lógica &quot;and&quot; e &quot;or&quot; exige parênteses para deixar sua intenção clara.
 
 ![](assets/advancedfilters-parent.png)
 
@@ -68,4 +68,4 @@ Dependendo da sua intenção, talvez seja necessário adicionar parênteses anin
 
 >[!TIP]
 >
->Se você inserir uma regra inválida, verá uma linha vermelha sendo exibida na regra. Role sobre o texto para ver a mensagem de erro relacionada.
+>Se você inserir uma regra inválida, verá uma linha vermelha exibida abaixo da regra. Role sobre o texto para ver a mensagem de erro relacionada.

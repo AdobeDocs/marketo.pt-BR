@@ -1,9 +1,10 @@
 ---
 unique-page-id: 4720314
-description: Relatório de desempenho de email do Sales Insight - Documentos da Marketo - Documentação do produto
+description: Relatório de desempenho de e-mail do Sales Insight - Documentação do Marketo - Documentação do produto
 title: Relatório de desempenho de e-mails do Sales Insight
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 7%
@@ -12,7 +13,7 @@ ht-degree: 7%
 
 # Relatório de desempenho de e-mails do Sales Insight {#sales-insight-email-performance-report}
 
-Visualize o desempenho de emails enviados por meio do Salesforce, Microsoft Dynamics ou por um plug-in Gmail ou Outlook.
+Visualize o desempenho de emails enviados por meio do Salesforce, Microsoft Dynamics ou de um plug-in do Gmail ou Outlook.
 
 ## Gerar um relatório {#generate-a-report}
 
@@ -20,37 +21,37 @@ Visualize o desempenho de emails enviados por meio do Salesforce, Microsoft Dyna
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Clique em **Desempenho de Email do Sales Insight**.
+1. Clique em **Desempenho de e-mail do Sales Insight**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Clique no botão **Configuração** e escolha os valores desejados.
+1. Clique em **Configuração** e escolha os valores desejados.
 
    ![](assets/three.png)
 
-1. Clique no botão **Relatório** guia .
+1. Clique em **Relatório** guia.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
-   Ótimo! Agora você pode ver o desempenho de seus emails enviados da equipe de vendas.
+   Ótimo! Agora você pode ver o desempenho de seus emails enviados pela equipe de vendas.
 
    >[!NOTE]
    >
-   >O status do delivery não é capturado para emails enviados via Sales Insight e não será incluído nesse relatório ou nos logs de atividades.
+   >O status de Entregue não é capturado para emails enviados pelo Sales Insight e não será incluído neste relatório ou logs de atividades.
 
 >[!TIP]
 >
->Clique no nome de um email para abri-lo no Visualizador de email.
+>Clique no nome de um email para abri-lo no Pré-visualizador de email.
 
 ## Agrupar por Representante de Vendas {#group-by-sales-rep}
 
-É possível visualizar esse relatório agrupado pelo representante de vendas alterando suas configurações.
+Você pode exibir este relatório agrupado por Representante de vendas alterando suas configurações.
 
-1. Clique em **Configuração**. Clique duas vezes **Email**.
+1. Clique em **Configuração**. Clique duas vezes **E-mail**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Selecionar Emails de Grupo por **Representante de vendas**.
+1. Selecionar emails do grupo por **Representante de Vendas**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
@@ -58,8 +59,8 @@ Visualize o desempenho de emails enviados por meio do Salesforce, Microsoft Dyna
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Clique no botão **Relatório** guia .
+1. Clique em **Relatório** guia.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
-   Muito legal, não é? Agora você pode ver o desempenho de emails agrupados por representante de vendas.
+   Muito legal, não é? Agora é possível ver o desempenho dos emails agrupados por representante de vendas.

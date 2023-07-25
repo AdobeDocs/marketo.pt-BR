@@ -1,32 +1,33 @@
 ---
 unique-page-id: 4719398
-description: Criar uma nova campanha Web de diálogo - Documentos do Marketo - Documentação do produto
-title: Criar uma nova campanha Web de diálogo
+description: Criar uma nova caixa de diálogo Campanha da Web - Documentação do Marketo - Documentação do produto
+title: Criar uma nova caixa de diálogo da campanha da Web
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '748'
 ht-degree: 2%
 
 ---
 
-# Criar uma nova campanha Web de diálogo {#create-a-new-dialog-web-campaign}
+# Criar uma nova caixa de diálogo da campanha da Web {#create-a-new-dialog-web-campaign}
 
-## Criar uma campanha Web de diálogo {#create-a-dialog-web-campaign}
+## Criar uma caixa de diálogo da campanha da Web {#create-a-dialog-web-campaign}
 
-Crie uma campanha da Web para personalizar seu conteúdo da Web em tempo real e fornecer a mensagem certa ao usuário certo na hora certa.
+Crie uma campanha da Web para personalizar o conteúdo da Web em tempo real e forneça a mensagem certa ao usuário certo, na hora certa.
 
-Uma campanha da Web é uma reação personalizada associada a um segmento específico. A reação pode ser uma caixa de diálogo no seu site, um [na substituição da zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), a [recurso de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) ou um alerta por email.
+Uma campanha da Web é uma reação personalizada associada a um segmento específico. A reação pode ser uma caixa de diálogo no seu site, uma [em substituição de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), um [recurso de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) ou um alerta por email.
 
 1. Ir para **Campanhas da Web**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Selecionar **Criar Nova Campanha da Web**.
+1. Selecionar **Criar nova campanha da Web**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Selecione o **Diálogo** tipo de campanha da web. Projete e adicione seu anúncio no editor. Clique em **Visualizar** para ver como a campanha da web reagirá em seu site.
+1. Selecione o **Caixa de diálogo** tipo de campanha da web. Crie e adicione seu criativo no editor. Clique em **Visualizar** para ver como a campanha da web reagirá no site.
 
    ![](assets/new-3.png)
 
@@ -40,21 +41,21 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Exibir em</strong></td> 
-   <td colspan="1">Permite que você <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personalizar quando e como</a> sua campanha da Web é exibida.</td> 
+   <td colspan="1">Permite que você <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personalizar quando e como</a> a campanha da web é exibida.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Estilo da caixa de diálogo</strong></td> 
    <td colspan="1" rowspan="1"> 
     <ul> 
-     <li>Aparar moderno - Um diálogo elegante e distinto com cantos pretos e arredondados semitransparentes</li> 
-     <li>Versão moderna II - Um diálogo estilizado e distinto com uma sombra fina e cantos arredondados e um botão de fechamento</li> 
-     <li>Transparente - uma caixa de diálogo totalmente transparente, ideal para imagens transparentes (png) para sua chamada para ações. </li> 
-     <li>Básico - uma caixa de diálogo de estilo simples, com um espaço de cabeçalho de título mais espesso que atenda às necessidades básicas da caixa de diálogo.</li> 
+     <li>Corte moderno - Um diálogo elegante e distinto com acabamento preto semitransparente e cantos arredondados</li> 
+     <li>Modern Trim II - Um diálogo elegante e distinto com um acabamento de sombra clara e cantos arredondados e botão de fechamento</li> 
+     <li>Transparente - Uma caixa de diálogo totalmente transparente, ideal para imagens transparentes (png) para suas chamadas para ações. </li> 
+     <li>Básico - Uma caixa de diálogo de estilo simples, com espaço de cabeçalho de título mais grosso, que atende às suas necessidades básicas de caixa de diálogo.</li> 
     </ul></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Animar Entrada/Saída</strong></td> 
-   <td colspan="1">Definir na entrada e/ou saída da caixa de diálogo. Selecione o efeito (queda, cego, slide, esmaecimento, sem efeito), a duração (em segundos) e a direção (para cima, para baixo, para a esquerda, para a direita).</td> 
+   <td colspan="1"><strong>Animar entrada/saída</strong></td> 
+   <td colspan="1">Defina na entrada e/ou saída da caixa de diálogo. Selecione o efeito (soltar, às cegas, deslizar, esmaecer, sem efeito), a duração (em segundos) e a direção (para cima, para baixo, para a esquerda, para a direita).</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Posição</strong></p></td> 
@@ -62,24 +63,24 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Por coordenadas</strong></p><p><br></p></td> 
-   <td colspan="1" rowspan="1">Para opções adicionais de posicionamento da caixa de diálogo, marque a caixa de seleção "Coordenadas de posição" e insira as coordenadas exatas da tela (horizontal, vertical), onde deseja que a caixa de diálogo seja exibida.</td> 
+   <td colspan="1" rowspan="1">Para opções adicionais de posicionamento da caixa de diálogo, marque a caixa de seleção "Coordenadas de posição" e insira as coordenadas exatas da tela (Horizontal, Vertical) onde deseja que a caixa de diálogo apareça.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Preenchimento do botão</strong></td> 
-   <td colspan="1">Personalize o botão de fechamento da modal usando cor, estilo e posição. Você também pode usar seu próprio botão, vinculando-o à caixa Image URL .</td> 
+   <td colspan="1">Personalize o botão Fechar da modal usando cor, estilo e posição. Você também pode usar seu próprio botão vinculando a ele na caixa Image URL.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Fixo
 </strong></td> 
-   <td colspan="1">Ao marcar a caixa de seleção adesiva, a caixa de diálogo permanece em posição, sem limite de tempo, até ser fechada pelo usuário e será exibida em todas as páginas durante a sessão do visitante.</td> 
+   <td colspan="1">Ao marcar a caixa de seleção fixa, a caixa de diálogo permanece na posição, sem limite de tempo, até ser fechada pelo usuário e será exibida em todas as páginas durante a sessão do visitante.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Modal</strong></td> 
-   <td colspan="1">Fornece mais foco na caixa de diálogo e a inicia com um plano de fundo escurecido atrás da janela de diálogo, aumentando o conhecimento do usuário sobre a caixa de diálogo.</td> 
+   <td colspan="1">Fornece mais foco na caixa de diálogo e a inicia com um plano de fundo escuro atrás da janela de diálogo, aumentando a percepção do usuário sobre a caixa de diálogo.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Cor modal</strong></td> 
-   <td colspan="1">Personalize a cor da modal e a opacidade.</td> 
+   <td colspan="1">Personalize a cor e a opacidade do modal.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Tempo limite </strong></td> 
@@ -87,11 +88,11 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Cor do cabeçalho</strong></td> 
-   <td colspan="1">Defina a barra de cabeçalho da caixa de diálogo com a cor de sua preferência. A cor pode ser escolhida em um gráfico de cores ou inserida como um código de cor hexadecimal. </td> 
+   <td colspan="1">Configura a barra de cabeçalho da janela com a sua cor preferida. A cor pode ser escolhida em um gráfico de cores ou inserida como um código de cor hexadecimal. </td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Cor de fundo do conteúdo </strong></td> 
-   <td colspan="1">Defina a cor de plano de fundo da caixa de diálogo com a cor de sua preferência. A cor pode ser escolhida em um gráfico de cores ou inserida como um código de cor hexadecimal. </td> 
+   <td colspan="1"><strong>Cor do plano de fundo do conteúdo </strong></td> 
+   <td colspan="1">Defina a cor de fundo da caixa de diálogo com a cor de sua preferência. A cor pode ser escolhida em um gráfico de cores ou inserida como um código de cor hexadecimal. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Título da caixa de diálogo</strong></td> 
@@ -115,12 +116,12 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
   </tr> 
   <tr> 
    <td colspan="1"><strong>Visualizar no site</strong></td> 
-   <td colspan="1">Visualize campanhas antes de serem iniciadas.<br> 
+   <td colspan="1">Visualize as campanhas antes de iniciá-las.<br> 
     <ul> 
-     <li>URL - Insira um exemplo de URL onde a campanha seria executada para ver um exemplo de visualização de como a campanha seria ao vivo.</li> 
-     <li>Dispositivo - Visualize como sua campanha será exibida por dispositivo: Desktop, Retrato Móvel, Paisagem Móvel, Retrato do Tablet, Paisagem Retrato.<br></li> 
-     <li>Visualizar - Clique <strong>Visualizar </strong>para abrir uma nova janela do URL de exemplo e ver como a campanha reage. </li> 
-     <li>Compartilhar - Use o botão Compartilhar para enviar um e-mail a um colega com um link para ver a campanha de proxy.</li> 
+     <li>URL - Insira um URL de exemplo, no qual a campanha seria executada para ver um exemplo de visualização de como a campanha seria exibida.</li> 
+     <li>Dispositivo - Visualize como sua campanha será exibida por dispositivo: Desktop, Retrato móvel, Paisagem móvel, Retrato de tablet, Paisagem de retrato.<br></li> 
+     <li>Visualização - Clique <strong>Visualizar </strong>para abrir uma nova janela do URL de exemplo e ver como a campanha reage. </li> 
+     <li>Compartilhar - Use o botão Compartilhar para enviar um email a um colega com um link para ver a campanha de proxy.</li> 
     </ul></td> 
   </tr> 
  </tbody> 
@@ -128,11 +129,11 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
 >[!TIP]
 >
->Acelere e simplifique o processo de criação de campanha usando nosso [modelos incorporados](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) ou [salvar sua campanha existente](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) como modelo para reutilização.
+>Acelere e simplifique o processo de criação de campanha usando nossa [modelos integrados](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) ou por [salvar sua campanha existente](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) como modelo para reutilização.
 
 ## Editar uma campanha da Web {#edit-a-web-campaign}
 
-1. No **Campanhas da Web** página, clique em **Editar** na campanha da web.
+1. No **Campanhas da Web** clique em **Editar** na campanha da web.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
@@ -140,9 +141,9 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 >
 >Para facilitar a localização da campanha da Web desejada, use o [recurso de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-## Visualizar uma campanha da Web {#preview-a-web-campaign}
+## Pré-visualizar uma campanha da Web {#preview-a-web-campaign}
 
-1. No **Campanhas da Web** página, clique em **Visualizar** na campanha da web que você deseja visualizar.
+1. No **Campanhas da Web** clique em **Visualizar** na campanha da web que deseja exibir.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
@@ -152,7 +153,7 @@ Consulte [Clonar uma campanha da Web](/help/marketo/product-docs/web-personaliza
 
 ## Excluir uma campanha da Web {#delete-a-web-campaign}
 
-1. No **Campanhas da Web** página, clique em **Excluir** na campanha da web que você deseja excluir.
+1. No **Campanhas da Web** clique em **Excluir** na campanha da web que deseja excluir.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
@@ -160,6 +161,5 @@ Consulte [Clonar uma campanha da Web](/help/marketo/product-docs/web-personaliza
 
 >[!MORELIKETHIS]
 >
->* [Criar uma Campanha RTP na Zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Criar uma RTP na campanha de região](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Criar uma campanha de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

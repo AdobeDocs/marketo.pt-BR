@@ -1,20 +1,21 @@
 ---
 unique-page-id: 2953325
-description: Exibir detalhes da entrada - Documentação do Marketo - Documentação do produto
-title: Exibir detalhes da entrada
+description: Exibir detalhes de entrada - Documentação do Marketo - Documentação do produto
+title: Exibir Detalhes da Entrada
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketing Calendar
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-# Exibir detalhes da entrada {#view-entry-details}
+# Exibir Detalhes da Entrada {#view-entry-details}
 
-Ao visualizar detalhes de entrada no Calendário de marketing, você pode ver todos os tipos de coisas legais sobre uma entrada.
+Ao visualizar os detalhes da entrada no Calendário de marketing, você pode ver todos os tipos de coisas legais sobre uma entrada.
 
-1. Selecione uma entrada no calendário.
+1. Selecione uma entrada do calendário.
 
    ![](assets/image2014-9-26-10-3a30-3a44.png)
 
@@ -24,4 +25,4 @@ Ao visualizar detalhes de entrada no Calendário de marketing, você pode ver to
 
 >[!TIP]
 >
->Tente clicar com o botão direito do mouse nos detalhes à direita. Você pode ver menus para navegar ou exibir os editores. Bom, certo?
+>Tente clicar com o botão direito do mouse nos detalhes à direita. É possível ver menus para navegar ou exibir os editores. Legal, não é?

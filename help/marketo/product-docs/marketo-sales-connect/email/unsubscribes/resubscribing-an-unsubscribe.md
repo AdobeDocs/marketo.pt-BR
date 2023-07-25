@@ -1,18 +1,19 @@
 ---
 unique-page-id: 14746177
-description: Reinscrição e cancelamento de inscrição - Documentos do Marketo - Documentação do produto
-title: Subscrever uma Cancelamento de Subscrição
+description: Cancelar assinatura novamente - Documentação do Marketo - Documentação do produto
+title: Cancelar assinatura novamente
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-# Subscrever uma Cancelamento de Subscrição {#resubscribing-an-unsubscribe}
+# Cancelar assinatura novamente {#resubscribing-an-unsubscribe}
 
-Às vezes, as pessoas querem voltar a receber emails. Veja como tornar os cancelamentos de assinaturas endereçáveis novamente.
+Às vezes, as pessoas querem optar por receber emails novamente. Veja como tornar as cancelamentos de assinatura acessíveis novamente.
 
 >[!NOTE]
 >
@@ -24,22 +25,22 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Se a sincronização de cancelamento de subscrição estiver ativada, você deve remover o cancelamento de inscrição do ToutApp e desmarcar a opção de não participação no Salesforce para que o registro de pessoa não sincronize novamente.
+>Se a sincronização de cancelamento de inscrição estiver ativada, remova o cancelamento de inscrição do ToutApp e desmarque a opção de não participação no Salesforce para que o registro de pessoa não seja sincronizado novamente.
 
-1. Vá para o [aplicação web](https://toutapp.com/login) e clique em **Pessoas**.
+1. Vá para a [aplicativo web](https://toutapp.com/login) e clique em **Pessoas**.
 
 1. Selecione a pessoa para abrir a exibição de detalhes da pessoa.
 
    ![](assets/two.png)
 
-1. Clique nos três pontos na exibição de detalhes da pessoa e selecione **Remover Cancelamento de Assinatura**.
+1. Clique nos três pontos na exibição de detalhes da pessoa e selecione **Remover cancelamento de inscrição**.
 
    ![](assets/three.png)
 
-1. Selecione o motivo pelo qual a pessoa está sendo incluída novamente para receber emails e clique em **Remover Cancelamento de Assinatura**.
+1. Selecione o motivo pelo qual a pessoa está aceitando receber emails novamente e clique em **Remover cancelamento de inscrição**.
 
    ![](assets/four.png)
 
 >[!NOTE]
 >
->Se a sincronização de cancelamento de inscrição estiver ativada, você deverá desmarcar a caixa de rejeição no registro no Salesforce também ou a sincronização noturna cancelará a assinatura da pessoa no Sales Connect, pois ela detectará que a pessoa foi rejeitada no Salesforce. Se qualquer um dos registros for cancelado/cancelado, a sincronização marcará o registro vinculado como tal.
+>Se a sincronização de cancelamento de inscrição estiver ativada, você deverá desmarcar a caixa de opção de não participação no registro no Salesforce também, ou a sincronização noturna cancelará a inscrição da pessoa no Sales Connect, pois detectará que a pessoa recusou a inscrição no Salesforce. Se um dos registros for recusado/cancelado, a sincronização marcará o registro vinculado como tal.

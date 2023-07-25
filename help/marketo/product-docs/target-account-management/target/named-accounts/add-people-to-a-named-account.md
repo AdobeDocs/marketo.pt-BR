@@ -1,9 +1,10 @@
 ---
 unique-page-id: 11378816
-description: Adicionar pessoas a uma conta nomeada - Documentos do Marketo - Documentação do produto
+description: Adicionar pessoas a uma conta nomeada - Documentação do Marketo - Documentação do produto
 title: Adicionar pessoas a uma conta nomeada
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 2%
@@ -12,7 +13,7 @@ ht-degree: 2%
 
 # Adicionar pessoas a uma conta nomeada {#add-people-to-a-named-account}
 
-Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomeada no TAM.
+Há três maneiras diferentes de adicionar pessoas manualmente a uma conta nomeada no TAM.
 
 ## Ação de fluxo único {#single-flow-action}
 
@@ -20,21 +21,21 @@ Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomea
 
    ![](assets/one-2.png)
 
-1. Insira o endereço de email da pessoa e pressione enter.
+1. Insira o endereço de email da pessoa e pressione Enter.
 
    ![](assets/two.png)
 
-1. Clique na pessoa para selecioná-la. Clique no botão **Ações da pessoa** , clique em **Marketing** e selecione **Adicionar à Conta Nomeada**.
+1. Clique na pessoa para selecioná-la. Clique em **Ações da pessoa** , clique em **Marketing** e selecione **Adicionar à Conta Nomeada**.
 
    ![](assets/three.png)
 
-1. Clique no botão **Conta nomeada** , selecione a Conta nomeada desejada e clique em **Executar agora**.
+1. Clique em **Conta nomeada** selecione a Conta nomeada desejada e clique em **Executar agora**.
 
    ![](assets/four.png)
 
 ## Etapa de fluxo de campanha inteligente {#smart-campaign-flow-step}
 
-1. Selecione sua Campanha inteligente e clique em **Fluxo**.
+1. Selecione a Campanha inteligente e clique em **Fluxo**.
 
    ![](assets/five.png)
 
@@ -42,11 +43,11 @@ Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomea
 
    ![](assets/six.png)
 
-1. Arraste o filtro para a tela.
+1. Arraste o filtro até a tela de desenho.
 
    ![](assets/seven.png)
 
-1. Clique no botão **Conta nomeada** e selecione a Conta nomeada desejada.
+1. Clique em **Conta nomeada** e selecione a Conta nomeada desejada.
 
    ![](assets/eight.png)
 
@@ -54,15 +55,15 @@ Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomea
 
 ## Importação de lista {#list-import}
 
-1. Selecione a lista e clique no botão **Ações de lista** e selecione **Importar Lista**.
+1. Selecione sua lista, clique no botão **Ações da lista** e selecione **Importar lista**.
 
    ![](assets/nine.png)
 
-1. Depois de escolher seu arquivo e configurações, clique em **Próximo**.
+1. Depois de escolher o arquivo e as configurações, clique em **Próxima**.
 
    ![](assets/ten.png)
 
-1. Mapeie os campos desejados. Certifique-se de que o **Conta nomeada** é mapeado.
+1. Mapeie os campos desejados. Verifique se **Conta nomeada** o campo é mapeado.
 
    ![](assets/eleven.png)
 
@@ -72,4 +73,4 @@ Há três maneiras diferentes de adicionar manualmente pessoas a uma conta nomea
 
 >[!MORELIKETHIS]
 >
->[Lead para a correspondência da conta](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[Lead para Correspondência de Conta](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

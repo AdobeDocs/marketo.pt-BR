@@ -1,9 +1,10 @@
 ---
 unique-page-id: 17728023
-description: Criar um evento com Zoom - Documentos do Marketo - Documentação do produto
+description: Criar um evento com zoom - Documentação do Marketo - Documentação do produto
 title: Criar um evento com zoom
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
-source-git-commit: 8b0625a7192a80986bc4295726cd13473493ddd7
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '560'
 ht-degree: 0%
@@ -18,46 +19,45 @@ ht-degree: 0%
 >* [Criar um novo programa de evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Defina as [ações de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)para rastrear o envolvimento
 
+Primeiro, crie seu webinário em Zoom. Certas configurações na criação do Zoom são usadas pelo Marketo e algumas somente são usadas pelo Zoom.
 
-Primeiro crie seu webinário em Zoom. Determinadas configurações na criação do Zoom são usadas pelo Marketo e algumas são usadas apenas pelo Zoom.
+Depois de criar um evento do Marketo e associar um webinário Zoom a ele, os sistemas poderão compartilhar informações de registro e presença. Para obter ajuda sobre como criar um webinário, consulte  [Introdução aos webinários de zoom](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
 
-Depois de criar um evento do Marketo e associar um webinário de Zoom a ele, os sistemas poderão compartilhar informações de registro e presença. Para obter ajuda para criar um webinário, consulte  [Introdução aos webinars de Zoom](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
-
-Digite as seguintes informações para o seu webinário que será extraído para o Marketo através do adaptador. Se você fizer alterações nessas informações, clique no link &quot;Atualizar do provedor de webinar&quot; em Ações de evento, para que o Marketo possa ver as alterações.
+Insira as seguintes informações para seu webinário, que será extraído para o Marketo por meio do adaptador. Se você fizer alterações nessas informações, deverá clicar no link &quot;Atualizar do provedor de webinários&quot; em Ações de evento para que o Marketo veja as alterações.
 
 **Título e descrição**
 
-* **Nome do webinar** - Insira o nome do webinário. Esse nome estará visível no Marketo.
+* **Nome do webinário** - Digite o nome do webinário. Esse nome poderá ser visto no Marketo.
 
-* **Descrição** (opcional) - insira a descrição do webinário. A descrição estará visível no Marketo.
+* **Descrição** (opcional) - Insira a descrição do webinário. A descrição será exibida no Marketo.
 
 **Data e hora**
 
-* **Data de início** - Insira a data de início. Isso estará visível no Marketo.
+* **Data inicial** - Insira a data de início. Ele poderá ser visto no Marketo.
 
-* **Hora de início** - Insira a hora de início. Isso estará visível no Marketo.
+* **Hora de início** - Insira a hora de início. Ele poderá ser visto no Marketo.
 
-* **Duração** - Informe a duração. A hora de início e de término estarão disponíveis no Marketo.
+* **Duração** - Insira a duração. A hora de início e a hora de término serão exibidas no Marketo.
 
-* **Fuso Horário** - Selecione o fuso horário aplicável. Isso estará visível no Marketo.
+* **Fuso Horário** - Selecione o fuso horário aplicável. Ele poderá ser visto no Marketo.
 
-* **Webinar recorrente**- Mantenha a opção desmarcada.
+* **Webinar recorrente**- Mantenha desmarcado.
 
-* **Registro** - Marque esta caixa para tornar o registro obrigatório. Você usará um formulário/landing page do Marketo para capturar informações de registro que serão enviadas para Zoom.
+* **Registro** - Marque esta caixa para tornar o registro obrigatório. Você usará um formulário/página de aterrissagem do Marketo para capturar as informações de registro que serão encaminhadas para o Zoom.
 
 >[!NOTE]
 >
->No momento, a Marketo não oferece suporte a webinars recorrentes. Você deve configurar uma única sessão entre cada evento do Marketo e o webinário de Zoom.
+>No momento, o Marketo não oferece suporte a webinários recorrentes. Você deve configurar uma única sessão entre cada Evento do Marketo e o webinário de Zoom.
 
 ![](assets/overview2.png)
 
 >[!TIP]
 >
->Há campos adicionais que você configurará no Zoom que NÃO afetarão a integração. Consulte a [Centro de ajuda do Webinar de zoom](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) para obter informações adicionais sobre esses campos.
+>No Zoom, você configurará outros campos que NÃO afetarão a integração. Consulte a [Centro de ajuda do webinário Zoom](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) para obter informações adicionais sobre esses campos.
 
-Agora vamos entrar no Marketo!
+Agora, vamos mergulhar no Marketo!
 
-1. Selecione um evento. Clique em **Ações do evento** e escolha **Configurações do evento**.
+1. Selecione um evento. Clique em **Ações de evento** e escolha **Configurações do evento**.
 
    ![](assets/image2015-5-14-14-3a53-3a10-1.png)
 
@@ -65,7 +65,7 @@ Agora vamos entrar no Marketo!
    >
    >O tipo de canal do evento selecionado deve ser **webinário**.
 
-1. Choose **Zoom** do **Evento** **Parceiro** Lista.
+1. Escolher **Zoom** do **Evento** **Parceiro** Lista.
 
    ![](assets/eventsettings1.png)
 
@@ -81,26 +81,26 @@ Agora vamos entrar no Marketo!
 
    ![](assets/eventsettingssave.png)
 
-   Excelente! Agora, o evento é sincronizado e agendado por Zoom.
+   Excelente! Agora o evento é sincronizado e agendado pelo Zoom.
 
    >[!NOTE]
    >
-   >Os campos que o Marketo envia são: Nome, Sobrenome, Endereço De Email.
+   >Os campos que o Marketo envia são: Nome, Sobrenome, Endereço de email.
 
    >[!TIP]
    >
-   >Para preencher o email de confirmação com esse URL exclusivo, use o seguinte token no email: `{{member.webinar url}}`. Quando o URL de confirmação é enviado, esse token é automaticamente resolvido para o URL de confirmação exclusivo da pessoa.
+   >Para preencher o email de confirmação com esse URL exclusivo, use o seguinte token no email: `{{member.webinar url}}`. Quando o URL de confirmação é enviado, esse token é resolvido automaticamente para o URL de confirmação exclusivo da pessoa.
    >
-   >Defina seu email de confirmação para **Operacional** para garantir que as pessoas que se registram e podem ser canceladas ainda recebam as informações de confirmação.
+   >Defina seu email de confirmação como **Operacional** para garantir que as pessoas que se registram e podem ter a inscrição cancelada ainda recebam suas informações de confirmação.
 
-   As pessoas que se inscreverem no seu webinário serão encaminhadas para o seu provedor de webinars por meio do **Alterar status do programa** etapa de fluxo quando o Novo status é definido como &quot;Registrado&quot;. Nenhum outro status empurrará a pessoa. Além disso, certifique-se de **Alterar status do programa** etapa de fluxo nº 1 e **Enviar Email** etapa de fluxo nº 2.
+   As pessoas que se inscreverem no seu webinário serão enviadas ao seu provedor de webinário por meio do **Alterar status do programa** etapa do fluxo quando o Novo status é definido como &quot;Registrado&quot;. Nenhum outro status enviará a pessoa. Além disso, certifique-se de **Alterar status do programa** etapa de fluxo #1, e **Enviar e-mail** etapa de fluxo #2.
 
    ![](assets/goto-webinar-1.png)
 
    >[!CAUTION]
    >
-   >Evite usar programas de email aninhados para enviar seus emails de confirmação. Em vez disso, use a campanha inteligente do programa de eventos, conforme mostrado acima.
+   >Evite usar programas de email aninhados para enviar emails de confirmação. Em vez disso, use a campanha inteligente do programa do evento, como mostrado acima.
 
    >[!TIP]
    >
-   >Pode levar até 48 horas para que os dados apareçam no Marketo. Se, depois de esperar tanto tempo que você ainda não vir nada, selecione **Atualizar do provedor de webinar** no menu Ações do evento na **Resumo** do seu evento.
+   >Pode levar até 48 horas para que os dados sejam exibidos no Marketo. Se, após esse tempo de espera, você ainda não visualizar nada, selecione **Atualizar do provedor do webinário** no menu Ações de evento na caixa de diálogo **Resumo** do evento.

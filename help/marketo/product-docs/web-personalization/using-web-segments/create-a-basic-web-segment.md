@@ -1,9 +1,10 @@
 ---
 unique-page-id: 4719344
-description: Criar um segmento básico da Web - Documentos do Marketo - Documentação do produto
+description: Criar um segmento básico da Web - Documentação do Marketo - Documentação do produto
 title: Criar um segmento básico da Web
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -26,11 +27,11 @@ Vamos criar um segmento básico direcionado a todos os visitantes da Web dos EUA
 
    ![](assets/segment-name.png)
 
-1. Arrastar **Localização** no menu à direita e solte-o no editor de segmentos.
+1. Arrastar **Localização** no menu direito e solte-o no editor de segmentos.
 
    ![](assets/location-drag-hand.jpg)
 
-1. Selecione um país a ser adicionado na lista suspensa. Selecione o **Estados Unidos**.
+1. Selecione um país para adicionar no menu suspenso. Selecione o **Estados Unidos**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -38,21 +39,21 @@ Vamos criar um segmento básico direcionado a todos os visitantes da Web dos EUA
    >
    >O número de cidades é limitado a 300 por segmento.
 
-1. Arrastar **Setores** no menu à direita e solte-o no editor de segmentos.
+1. Arrastar **Setores** no menu direito e solte-o no editor de segmentos.
 
    ![](assets/industries-hand.jpg)
 
-1. Selecione Setores para adicionar no menu suspenso. Selecione o **Setor de Serviços Financeiros**.
+1. Selecione Setores a serem adicionados no menu suspenso. Selecione o **Setor de serviços financeiros**.
 
    ![](assets/segment-industries.png)
 
-   Agora você configurou um segmento básico para todos os clientes potenciais que visitam seu site dos EUA e da Indústria de Finanças.
+   Agora você configurou um segmento básico para todos os prospetos que visitam seu site nos EUA e no Setor Financeiro.
 
-1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir campanha** para acessar a página Campanhas .
+1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir a campanha** para acessar a página Campanhas.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Agora você segmentou seus visitantes dos Estados Unidos, vá em frente e adicione o setor de serviços financeiros.
+Agora que segmentou seus visitantes dos Estados Unidos, você pode adicionar o setor de serviços financeiros.
 
 >[!MORELIKETHIS]
 >

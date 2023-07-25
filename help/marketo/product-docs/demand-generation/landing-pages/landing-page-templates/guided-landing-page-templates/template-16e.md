@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437846
-description: Modelo 16-E - Documentos do Marketo - Documentação do produto
+description: Modelo 16-E - Documentação do Marketo - Documentação do produto
 title: Modelo 16-E
 exl-id: 063cd16b-e697-4631-9c53-5bde216f9d98
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -12,18 +13,18 @@ ht-degree: 0%
 
 # Modelo 16-E {#template-16e}
 
-Clique com o botão direito do mouse em para [modelo de download 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
+Clique com o botão direito do mouse para [baixar modelo 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 
 Esse template inclui o seguinte conteúdo:
 
 * Um cabeçalho (opcional)
-* Uma seção primária
+* Uma seção principal
 
-   * inclui a imagem principal e o botão Saiba mais
+   * inclui imagem herói e o botão Saiba mais
 
-* Seis seções do corpo (opcional)
+* Seis seções da carroçaria (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359677
-description: Usar um formulário em um Lightbox - Documentos do Marketo - Documentação do produto
+description: Usar um formulário em um Lightbox - Documentação do Marketo - Documentação do produto
 title: Usar um formulário em um Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 3%
@@ -12,21 +13,21 @@ ht-degree: 3%
 
 # Usar um formulário em um Lightbox {#use-a-form-in-a-lightbox}
 
-Um Lightbox é uma técnica que abre um formulário na frente do seu conteúdo quando você quiser que ele seja exibido. Veja como.
+Uma Lightbox é uma técnica que abre um formulário na frente do conteúdo quando você deseja que ele seja exibido. Veja como.
 
 1. Ir para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Localize e selecione o formulário.
+1. Localize e selecione seu formulário.
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Em **Ações do formulário**, clique em **Código incorporado**.
+1. Em **Ações do formulário**, clique em **Código de inserção**.
 
    >[!NOTE]
    >
-   >O formulário deve ser aprovado para que o item de código incorporado seja visível/utilizável.
+   >O formulário deve ser aprovado para que o item de código incorporado fique visível/utilizável.
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
@@ -38,6 +39,6 @@ Um Lightbox é uma técnica que abre um formulário na frente do seu conteúdo q
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
-Passe o código para o desenvolvedor da Web e faça com que ele o adicione ao site.
+Entregue o código ao desenvolvedor da Web e solicite que ele o adicione ao seu site.
 
 Ótimo!

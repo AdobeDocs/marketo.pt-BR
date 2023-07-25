@@ -1,16 +1,17 @@
 ---
 unique-page-id: 4719396
-description: Encontre campanhas da Web que estão usando um segmento específico - Documentos do Marketo - Documentação do produto
-title: Encontrar campanhas da Web que estão usando um segmento específico
+description: Encontrar campanhas da Web que estão usando um segmento específico - Documentação do Marketo - Documentação do produto
+title: Localizar campanhas da Web que estão usando um segmento específico
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-# Encontrar campanhas da Web que estão usando um segmento específico {#find-web-campaigns-that-are-using-a-specific-segment}
+# Localizar campanhas da Web que estão usando um segmento específico {#find-web-campaigns-that-are-using-a-specific-segment}
 
 Procurando campanhas da Web que usam um segmento específico?
 
@@ -18,11 +19,11 @@ Procurando campanhas da Web que usam um segmento específico?
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Pesquisar por um **Segmento**. Selecione o **Nome do segmento**. No painel direito, clique em **Campanhas Associadas** para visualizar as campanhas associadas a este segmento específico.
+1. Pesquisar por um **Segmento**. Selecione o **Nome do segmento**. No painel direito, clique em **Campanhas associadas** para exibir as campanhas associadas a esse segmento específico.
 
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. Visualize o **Campanhas** associado ao segmento selecionado.
+1. Exibir o **Campanhas** associado ao segmento selecionado.
 
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 

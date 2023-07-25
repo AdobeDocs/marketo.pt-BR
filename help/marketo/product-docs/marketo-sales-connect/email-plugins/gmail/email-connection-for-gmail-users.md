@@ -1,22 +1,23 @@
 ---
 unique-page-id: 17728401
-description: Conexão de email para usuários do Gmail - Documentos do Marketo - Documentação do produto
+description: Conexão de email para usuários do Gmail - Documentação do Marketo - Documentação do produto
 title: Conexão de email para usuários do Gmail
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
-source-git-commit: 84da081b1484daf0c6c7e5ae4799c4c0b549d0e3
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
 # Conexão de email para usuários do Gmail {#email-connection-for-gmail-users}
 
-Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, o acesso ao canal de delivery do Gmail, a capacidade de agendar emails no Gmail e enviar conformidade.
+Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, o acesso ao canal de entrega do Gmail, a capacidade de agendar emails no Gmail e enviar informações de conformidade.
 
 >[!CAUTION]
 >
->Se você estiver [usar filtros](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target=&quot;_blank&quot;} ou regras em sua conta Gmail para marcar automaticamente os emails como lidos, isso pode causar problemas no rastreamento de resposta. Recomendamos desativar qualquer regra que marque automaticamente emails como lidos ao usar o rastreamento de resposta com Gmail.
+>Se você estiver [uso de filtros](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} Se as regras na sua conta do Gmail marcarem automaticamente os emails como lidos, isso poderá causar problemas no rastreamento de respostas. Recomendamos desativar todas as regras que marcam automaticamente os emails como lidos ao usar o rastreamento de resposta com o Gmail.
 
 1. No Sales Connect, clique no ícone de engrenagem e selecione **Configurações**.
 
@@ -26,7 +27,7 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
    ![](assets/two.png)
 
-1. Clique no botão **Conexão de email** guia .
+1. Clique em **Conexão de email** guia.
 
    ![](assets/three.png)
 
@@ -34,7 +35,7 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
    ![](assets/four.png)
 
-1. Selecionar **Eu uso o Gmail para enviar emails** e clique em **Próximo**.
+1. Selecionar **Eu uso o Gmail para enviar emails** e clique em **Próxima**.
 
    ![](assets/five.png)
 
@@ -42,11 +43,11 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
    ![](assets/six.png)
 
-1. Se você já tiver feito logon no Gmail, escolha a conta à qual deseja se conectar. Caso contrário, digite seu endereço Gmail e clique em **Próximo**. Neste exemplo, ainda não estamos conectados.
+1. Se você já fez logon no Gmail, escolha a conta à qual deseja se conectar. Caso contrário, digite seu endereço do Gmail e clique em **Próxima**. Neste exemplo, ainda não estamos conectados.
 
    ![](assets/seven.png)
 
-1. Digite sua senha e clique em **Próximo**.
+1. Digite sua senha e clique em **Próxima**.
 
    ![](assets/eight.png)
 

@@ -1,26 +1,27 @@
 ---
 unique-page-id: 37355569
-description: Campos personalizados do membro do programa - Documentos do Marketo - Documentação do produto
-title: Campos personalizados do membro do programa
+description: Campos personalizados de membros do programa - Documentação do Marketo - Documentação do produto
+title: Campos Personalizados de Membros do Programa
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '411'
 ht-degree: 1%
 
 ---
 
-# Campos personalizados do membro do programa {#program-member-custom-fields}
+# Campos Personalizados de Membros do Programa {#program-member-custom-fields}
 
-Os campos personalizados Membro do programa permitem coletar dados específicos do programa para cada membro. Eles podem ser usados em: Formulários Marketo, filtros e acionadores da Smart List e ações de fluxo do Smart Campaign. Os dados podem ser visualizados na guia Membros do programa.
+Os campos personalizados do Membro do Programa permitem coletar dados específicos do programa para cada membro. Eles podem ser usados em: formulários Marketo, filtros e acionadores de Smart List e ações de fluxo do Smart Campaign. Os dados podem ser visualizados na guia Membros do programa.
 
 ## Criar um campo personalizado de membro do programa {#create-a-program-member-custom-field}
 
-1. No Marketo, clique em **Administrador**.
+1. No Marketo, clique em **Admin**.
 
    ![](assets/one.png)
 
-1. Clique em **Gerenciamento de campos**.
+1. Clique em **Gerenciamento de campo**.
 
    ![](assets/two.png)
 
@@ -34,7 +35,7 @@ Os campos personalizados Membro do programa permitem coletar dados específicos 
 
    >[!NOTE]
    >
-   >Os campos personalizados Pessoa e Membro do Programa não podem compartilhar o mesmo nome.
+   >Campos personalizados de Pessoa e Membro do Programa não podem compartilhar o mesmo nome.
 
 1. Preencha os campos restantes e clique em **Criar**.
 
@@ -42,39 +43,38 @@ Os campos personalizados Membro do programa permitem coletar dados específicos 
 
    >[!NOTE]
    >
-   >Os tipos suportados para campos personalizados Membro do Programa são: booleano, data, datetime, float, inteiro, string, URL. [Saiba mais sobre tipos de campo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target=&quot;_blank&quot;}.
+   >Os tipos suportados para campos personalizados de Membro do programa são: booleano, data, data e hora, flutuação, número inteiro, sequência, URL. [Saiba mais sobre tipos de campo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
-## Descrições do objeto {#object-descriptions}
+## Descrições de objeto {#object-descriptions}
 
 | Objeto | Descrição |
 |---|---|
 | Empresa | O nome da empresa associada à pessoa. |
-| Oportunidade | Uma oportunidade pode ser associada a uma pessoa ou conta como uma possível venda futura. Normalmente, eles entram no Marketo por meio de um CRM ou por meio de uma API. |
-| Pessoa | Um indivíduo no banco de dados do Marketo com o qual você está se relacionando por meio de campanhas de marketing. |
+| Oportunidade | Uma oportunidade pode ser associada a uma pessoa ou conta como uma possível venda futura. Normalmente, entram no Marketo por meio de um CRM ou por meio da API. |
+| Pessoa | Um indivíduo no banco de dados do Marketo com o qual você está se envolvendo por meio de campanhas de marketing. |
 | Membro de programa | Pessoa que também é membro de um programa |
 
-## Triggers e filtros {#triggers-and-filters}
+## Acionadores e filtros {#triggers-and-filters}
 
-Você pode aproveitar esses dados específicos do programa em listas inteligentes por meio de [acionadores](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target=&quot;_blank&quot;} e/ou [filtros](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target=&quot;_blank&quot;}.
+Você pode aproveitar esses dados específicos do programa em listas inteligentes via [acionadores](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
-## O que saber {#things-to-know}
+## O que você deve saber {#things-to-know}
 
-* Os campos personalizados Membro do programa estão disponíveis somente em ativos locais. Eles não são suportados no Design Studio porque não há como vinculá-lo a um programa específico.
-* Não é possível clonar/mover um formulário (ou uma landing page com um formulário) que contenha campos personalizados do Membro do Programa para o Design Studio.
-* [Você pode sincronizar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;} são os Campos Personalizados do Membro do Programa com Campos Personalizados do Membro da Campanha.
+* Os campos personalizados dos membros do programa estão disponíveis somente em ativos locais. Eles não são compatíveis com o Design Studio porque não há como vinculá-los a um programa específico.
+* Não é possível clonar/mover um formulário (ou uma página de aterrissagem com um formulário) que contenha campos personalizados de Membro do programa para o Design Studio.
+* [Você pode sincronizar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} os Campos personalizados do membro do programa com Campos personalizados do membro da campanha.
 * O objeto Membro do programa pode ter até 20 campos personalizados. Esses campos estão disponíveis para qualquer programa.
-* Ao remover um membro de um programa, se ele tiver dados no campo personalizado Membro do programa, os dados serão depurados desse campo.
-* Para exibir os dados, clique na guia Membros no programa e crie uma visualização personalizada que inclua os campos mencionados.
-* Importar e exportar via [lista](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} e [API](https://developers.marketo.com/){target=&quot;_blank&quot;} são compatíveis. As exportações funcionam somente em listas de membros do programa, não em listas estáticas.
-* Quando você mesclar duas pessoas, os dados do campo personalizado Membro do programa vencedor serão usados. Mas se o vencedor não tiver, o valor do perdedor será usado.
-* O tipo de alteração não é permitido nos campos Informações do Membro do Programa.
-* A restrição &quot;contains&quot; Smart List não é suportada para campos personalizados Membro do Programa.
+* Ao remover um membro de um programa, se ele tiver dados em seu campo personalizado Membro do programa, os dados serão removidos desse campo.
+* Para exibir os dados, clique na guia Membros no programa e crie uma exibição personalizada que inclua esses campos.
+* Importar e exportar via [lista](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} são compatíveis. As exportações funcionam somente em listas de Membros do programa, não em listas estáticas.
+* Quando você mescla duas pessoas, os dados do campo personalizado do Membro do programa do vencedor são usados. Mas se o vencedor não tiver nenhum, o valor do perdedor será usado.
+* O tipo de alteração não é permitido em campos de Informações do membro do programa.
+* A restrição &quot;contém&quot; Smart List não é compatível com campos personalizados de Membro do Programa.
 
 >[!MORELIKETHIS]
 >
->* [Criar um campo personalizado no Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>* [Criar um campo personalizado no Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
 >
->* [Sincronização de Campo Personalizado do Membro do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}
-
+>* [Sincronização de Campo Personalizado de Membro do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}

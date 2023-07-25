@@ -1,52 +1,53 @@
 ---
 unique-page-id: 4720758
-description: Notas de versão - Janeiro de 2015 - Documentação da Marketo - Documentação do produto
+description: Notas de versão - Janeiro de 2015 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Janeiro de 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 4%
 
 ---
 
-# Notas de versão: Janeiro de 2015 {#release-notes-january}
+# Notas de versão: janeiro de 2015 {#release-notes-january}
 
-Os seguintes recursos estão incluídos na versão de janeiro de 2015. Verifique sua Marketo Edition para ver a disponibilidade dos recursos. Após o lançamento, volte para encontrar links para artigos detalhados de cada recurso!
+Os recursos a seguir estão incluídos na versão de janeiro de 2015. Verifique a disponibilidade de recursos na sua Marketo Edition. Após o lançamento, não deixe de acessar os links para artigos detalhados de cada recurso.
 
-## Atualizações da automação de marketing {#marketing-automation-updates}
+## Atualizações de automação de marketing {#marketing-automation-updates}
 
-**Páginas de aterrissagem para dispositivos móveis**
+**Páginas de aterrissagem amigáveis para dispositivos móveis**
 
-Agora você pode [criar visualizações móveis para landing pages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) no editor de landing page. Entregue sua mensagem de maneira eficaz, independentemente do dispositivo, e aumente o engajamento, adaptando seu conteúdo para facilitar o consumo em qualquer lugar. Esse recurso será implantado gradualmente durante a semana seguinte ao lançamento.
+Agora você pode [criar exibições móveis para páginas de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) no editor de páginas de destino. Forneça sua mensagem de maneira eficaz, independentemente do dispositivo, e aumente o engajamento personalizando seu conteúdo para facilitar o consumo em qualquer lugar. Esse recurso será implantado gradualmente durante a semana seguinte ao lançamento.
 
-[-Vídeo de apresentação da página de aterrissagem-](https://youtu.be/aPQHlG2X6c0)
+[-Vídeo passo a passo da página inicial-](https://youtu.be/aPQHlG2X6c0)
 
-**Novas chamadas à API Rest**
+**Novas chamadas de API Rest**
 
-Três novas chamadas para a API ReST de lead &amp; atividade:
+Três novas chamadas para a API ReST de lead e atividade:
 
 * Excluir lead
-* Obter leads por ID de programa
-* Obter leads excluídos
+* Obter clientes em potencial por ID de programa
+* Obter Clientes Potenciais Excluídos
 
-Além disso, há uma nova opção para Sincronizar lead, para gravar a alteração de lead de forma assíncrona para uma chamada de API mais rápida. Os detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com)
+Além disso, há uma nova opção para Sincronizar lead, para gravar a alteração do lead de forma assíncrona para uma chamada de API mais rápida. Detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com)
 
 **Suporte a objeto personalizado de script de e-mail**
 
-Agora acesse objetos personalizados associados ao objeto Conta a partir de scripts de email!
+Agora acesse objetos personalizados associados ao objeto Conta de dentro de scripts de email!
 
 ## Personalização em tempo real {#real-time-personalization}
 
 **Remarketing personalizado para Google e Facebook**
 
-O remarketing mostra anúncios para pessoas que visitaram seu site. Agora você pode personalizar suas campanhas de remarketing em [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) e [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) uso de dados da personalização em tempo real. Compre para públicos-alvo de diferentes setores, listas de conta nomeadas, tamanhos de empresa ou quaisquer dados de leads conhecidos.
+O remarketing mostra anúncios para pessoas que visitaram seu site. Agora você pode personalizar suas campanhas de remarketing no [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) e [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) usando dados da Personalização em tempo real. Remarketing para públicos de diferentes setores, listas de contas nomeadas, tamanhos de empresa ou quaisquer dados de clientes potenciais conhecidos.
 
-[Módulo de lista de contas nomeado](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
+[Módulo da lista de contas nomeadas](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
-Os aprimoramentos no módulo Contas nomeadas melhorarão as taxas de correspondência e as validações para os usuários. As adições incluem:
+As melhorias no módulo Contas nomeadas melhorarão as taxas de correspondência e as validações para os usuários. As adições incluem:
 
-* Organizações correspondentes da sua lista Conta nomeada usando o endereço de email do Cliente potencial (também para clientes somente RTP)
+* Organizações correspondentes da sua lista de Contas nomeadas usando o endereço de email do lead (também para clientes somente RTP)
 * Suporte para até 100 mil registros por conta
 * Modelo de arquivo CSV para exibir e baixar
 
@@ -61,6 +62,6 @@ As opções de Tag RTP em Configurações da conta foram atualizadas para inclui
 1. Tag assíncrona sem CDN
 1. Tag síncrona sem CDN
 
-Para melhor desempenho, é recomendável colocar a tag na parte superior do cabeçalho da página da Web após `<head>`. Todas as tags permitem o uso da variável [API RTP](https://developers.marketo.com/documentation/websites/rtp-js-api/). Para obter informações sobre como implantar a Tag RTP, consulte [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para obter o melhor desempenho, é recomendável colocar a tag na parte superior do cabeçalho da página da Web depois de `<head>`. Todas as tags permitem o uso da variável [API RTP](https://developers.marketo.com/documentation/websites/rtp-js-api/). Para obter informações sobre como implantar a tag RTP, consulte [aqui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

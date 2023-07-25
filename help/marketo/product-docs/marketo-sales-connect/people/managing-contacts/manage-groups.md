@@ -1,9 +1,10 @@
 ---
 unique-page-id: 30081250
-description: Gerenciar grupos - Documentos do Marketo - Documentação do produto
+description: Gerenciar grupos - Documentação do Marketo - Documentação do produto
 title: Gerenciar grupos
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -12,15 +13,15 @@ ht-degree: 0%
 
 # Gerenciar grupos {#manage-groups}
 
-Saiba como gerenciar seus grupos no Sales Connect.
+Saiba como gerenciar grupos no Sales Connect.
 
 ## Criar um grupo {#create-a-group}
 
-1. Na página Pessoas, clique no botão **+** ao lado de Grupos.
+1. Na página Pessoas, clique na guia **+** ao lado de Grupos.
 
    ![](assets/one-4.png)
 
-1. Nomeie seu grupo e clique em **Criar**.
+1. Nomeie o grupo e clique em **Criar**.
 
    ![](assets/two-3.png)
 
@@ -38,17 +39,17 @@ Saiba como gerenciar seus grupos no Sales Connect.
 
    >[!NOTE]
    >
-   >Isso adicionará um contato de cada vez. Para adicionar vários contatos ao mesmo tempo, siga [essas etapas](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >Isso adicionará um contato de cada vez. Para adicionar vários contatos ao mesmo tempo, siga [estas etapas](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Preencha as informações do contato e clique em **Criar** ou **Criar e adicionar novos** para adicionar outro).
+1. Preencha as informações do contato e clique em **Criar** (ou **Criar e adicionar novo** para adicionar outro).
 
    ![](assets/five-3.png)
 
-   E você acabou!
+   E pronto!
 
    >[!NOTE]
    >
-   >Talvez seja necessário clicar em atualizar para ver novos contatos adicionados.
+   >Talvez seja necessário clicar em atualizar para ver os novos contatos adicionados.
 
 ## Compartilhar um grupo {#share-a-group}
 
@@ -56,11 +57,11 @@ Saiba como gerenciar seus grupos no Sales Connect.
 
    ![](assets/six.png)
 
-1. Clique no ponto (três pontos verticais) e selecione **Compartilhar**.
+1. Clique nos dados (três pontos verticais) e selecione **Compartilhar**.
 
    ![](assets/seven.png)
 
-1. Clique na lista suspensa e escolha a equipe com a qual deseja compartilhar o grupo.
+1. Clique no menu suspenso e escolha a equipe com a qual deseja compartilhar o grupo.
 
    ![](assets/eight.png)
 
@@ -68,23 +69,23 @@ Saiba como gerenciar seus grupos no Sales Connect.
 
    ![](assets/nine.png)
 
-   Você ainda é o proprietário do grupo, mas ele será exibido em Grupos de equipe.
+   Você ainda é o proprietário do grupo, mas ele agora aparecerá em Grupos de Equipe.
 
-## Cancelar compartilhamento de um grupo {#unshare-a-group}
+## Deixar de compartilhar um grupo {#unshare-a-group}
 
 1. Na página Pessoas, localize e selecione o grupo que deseja cancelar o compartilhamento.
 
    ![](assets/ten.png)
 
-1. Clique no ponto (três pontos verticais) e selecione **Compartilhar**.
+1. Clique nos dados (três pontos verticais) e selecione **Compartilhar**.
 
    ![](assets/eleven.png)
 
-1. Clique no botão **X** ao lado da equipe com a qual você compartilhou o grupo, em seguida, clique em fora da modal.
+1. Clique em **X** ao lado da equipe com a qual você compartilhou o grupo, clique em fora da modal.
 
    ![](assets/twelve.png)
 
-   O grupo agora não é compartilhado.
+   O grupo agora não está compartilhado.
 
 ## Renomear um grupo {#rename-a-group}
 
@@ -92,7 +93,7 @@ Saiba como gerenciar seus grupos no Sales Connect.
 
    ![](assets/six.png)
 
-1. Clique no ponto (três pontos verticais) e selecione **Renomear**.
+1. Clique nos dados (três pontos verticais) e selecione **Renomear**.
 
    ![](assets/thirteen.png)
 
@@ -106,7 +107,7 @@ Saiba como gerenciar seus grupos no Sales Connect.
 
    ![](assets/fifteen.png)
 
-1. Clique no ponto (três pontos verticais) e selecione **Excluir**.
+1. Clique nos dados (três pontos verticais) e selecione **Excluir**.
 
    ![](assets/sixteen.png)
 

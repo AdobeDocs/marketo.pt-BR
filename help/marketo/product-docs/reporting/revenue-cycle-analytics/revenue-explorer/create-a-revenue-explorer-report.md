@@ -1,16 +1,17 @@
 ---
 unique-page-id: 7504047
-description: Criar um relatório do explorador de receita - Documentos do Marketo - Documentação do produto
-title: Criar um relatório do explorador de receita
+description: Criar um relatório do Revenue Explorer - Documentação do Marketo - Documentação do produto
+title: Criar um relatório do Gerenciador de receita
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 7%
 
 ---
 
-# Criar um relatório do explorador de receita {#create-a-revenue-explorer-report}
+# Criar um relatório do Gerenciador de receita {#create-a-revenue-explorer-report}
 
 O relatório Explorador de receita permite rastrear o ROI em suas iniciativas de marketing.
 
@@ -18,11 +19,11 @@ O relatório Explorador de receita permite rastrear o ROI em suas iniciativas de
 >
 >Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
 
-1. Vá para o **Explorador de receita** área.
+1. Vá para a **Gerenciador de Receita** área.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Clique em **Criar novo** e depois selecione **Relatório**.
+1. Clique em **Criar novo** e selecione **Relatório**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
@@ -30,11 +31,11 @@ O relatório Explorador de receita permite rastrear o ROI em suas iniciativas de
 
    ![](assets/image2015-3-24-14-3a22-3a32.png)
 
-   Ótimo! Você criou oficialmente um relatório. Tempo para personalizar adicionando alguns campos!
+   Ótimo! Você criou oficialmente um relatório. Hora de personalizar adicionando alguns campos!
 
    ![](assets/image2015-3-24-13-3a26-3a8.png)
 
 >[!MORELIKETHIS]
 >
->[Adicionando Campos a um Relatório do Explorador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->[Adicionando Medidas Personalizadas a um Relatório do Explorador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>[Adicionar campos a um relatório do Gerenciador de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>[Adição de Medidas Personalizadas a um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

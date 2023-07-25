@@ -1,9 +1,10 @@
 ---
 unique-page-id: 4719294
-description: Personalizar sincronização de atividades - Documentos do Marketo - Documentação do produto
+description: Personalizar sincronização de atividades - Documentação do Marketo - Documentação do produto
 title: Personalizar sincronização de atividades
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 12%
@@ -12,13 +13,13 @@ ht-degree: 12%
 
 # Personalizar sincronização de atividades {#customize-activities-sync}
 
-Se você não usar o Marketo Sales Insight, a Marketo poderá criar Registros do Histórico de Atividades do Salesforce para determinados eventos. Veja como habilitá-los.
+Se você não usar o Marketo Sales Insight, a Marketo poderá criar registros do histórico de atividades do Salesforce para determinados eventos. Veja como ativá-los.
 
-1. Ir para **Administrador**.
+1. Ir para **Admin**.
 
    ![](assets/admin.png)
 
-1. Clique em **Salesforce**, depois clique em **Editar opções de sincronização**.
+1. Clique em **Salesforce** e, em seguida, clique em **Editar Opções de Sincronização**.
 
    ![](assets/two-1.png)
 
@@ -28,7 +29,7 @@ Se você não usar o Marketo Sales Insight, a Marketo poderá criar Registros do
 
    >[!NOTE]
    >
-   >Depois de habilitado, o Marketo enviará um histórico de atividades equivalente a três meses. Dependendo da quantidade de dados, _isso pode levar vários dias para ser concluído_. As atualizações que ocorrem durante o push inicial de Atividades podem ser adiadas até que a sincronização inicial de Atividades seja concluída.
+   >Depois de habilitado, o Marketo enviará o histórico de atividades correspondente a três meses. Dependendo da quantidade de dados, _isso pode levar vários dias para ser concluído_. As atualizações que ocorrem durante o push inicial de Atividades podem ser atrasadas até que a sincronização inicial de Atividades seja concluída.
 
 <table> 
  <colgroup> 
@@ -44,23 +45,23 @@ Se você não usar o Marketo Sales Insight, a Marketo poderá criar Registros do
  <tbody> 
   <tr> 
    <td>Preencheu formulário</td> 
-   <td>Preenchido qualquer formulário Marketo</td> 
+   <td>Preencheu qualquer formulário do Marketo</td> 
   </tr> 
   <tr> 
    <td>Adicionado à lista</td> 
-   <td><p>Etapa de fluxo: Foi adicionado a uma lista estática</p></td> 
+   <td><p>Etapa de fluxo: foi adicionado a uma lista estática</p></td> 
   </tr> 
   <tr> 
    <td>E-mail enviado</td> 
-   <td>Etapa de fluxo: Foi enviado um email</td> 
+   <td>Etapa de fluxo: email enviado</td> 
   </tr> 
   <tr> 
    <td>E-mail enviado</td> 
-   <td>Recebido um email (não devolvido)</td> 
+   <td>Recebeu um email (não rejeitado)</td> 
   </tr> 
   <tr> 
    <td>E-mail aberto</td> 
-   <td>Aberto um email (sem bloquear imagens)</td> 
+   <td>Abertura de um email (sem bloqueio de imagens)</td> 
   </tr> 
   <tr> 
    <td>Clicou em link de e-mail</td> 
@@ -68,7 +69,7 @@ Se você não usar o Marketo Sales Insight, a Marketo poderá criar Registros do
   </tr> 
   <tr> 
    <td>Removido da lista</td> 
-   <td>Etapa de fluxo: Foi removido de uma lista estática</td> 
+   <td>Etapa de fluxo: foi removido de uma lista estática</td> 
   </tr> 
   <tr> 
    <td>Remover do fluxo</td> 
@@ -76,7 +77,7 @@ Se você não usar o Marketo Sales Insight, a Marketo poderá criar Registros do
   </tr> 
   <tr> 
    <td>E-mail de vendas enviado</td> 
-   <td>Foi enviado um email por meio do Marketo Sales Insight</td> 
+   <td>Recebeu um email por meio do Marketo Sales Insight</td> 
   </tr> 
   <tr> 
    <td>E-mail de vendas aberto</td> 
@@ -95,8 +96,8 @@ Se você não usar o Marketo Sales Insight, a Marketo poderá criar Registros do
 
 >[!NOTE]
 >
->&quot;Email de vendas recebido&quot; faz **not** média entregue. O status do delivery não é capturado para emails enviados via Sales Insight.
+>&quot;Email de vendas recebido&quot; faz **não** média de entrega. O status de Entregue não é capturado para emails enviados pelo Sales Insight.
 
 >[!TIP]
 >
->Se você estiver interessado em obter mais informações da Marketo no Salesforce, confira nossa [Insight sobre vendas da Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) produto.
+>Se você estiver interessado em obter mais informações sobre o Marketo no Salesforce, consulte nossa [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) produto.

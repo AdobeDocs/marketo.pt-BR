@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2950555
-description: Editar configurações de rich post do Facebook - Documentos do Marketo - Documentação do produto
+description: Editar configurações avançadas de publicação do Facebook - Documentação do Marketo - Documentação do produto
 title: Editar configurações de publicação avançada do Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 1%
@@ -18,45 +19,45 @@ Personalize publicações quando as pessoas compartilharem você no Facebook.
 >
 >Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
 
-Marketo [aplicativos sociais](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) permita que seus leads compartilhem suas landing pages com suas conexões em redes sociais, como Facebook, Twitter etc. Tags do facebook OpenGraph (tags OG) permitem especificar quais informações da sua página inicial estão incluídas em publicações do Facebook.
+Marketo [aplicativos sociais](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) permitir que seus clientes em potencial compartilhem suas páginas de aterrissagem com as conexões deles em redes sociais, como Facebook, Twitter etc. As tags do facebook OpenGraph (tags OG) permitem especificar quais informações da página de aterrissagem são incluídas em publicações do Facebook.
 
 ## Selecionar opções de publicação avançadas {#select-rich-post-options}
 
-Você pode especificar os tipos de informações de página a serem usadas nas postagens avançadas do Facebook geradas por compartilhamentos de sua página de aterrissagem.
+Você pode especificar os tipos de informações de página a serem usados nas publicações avançadas do Facebook geradas por compartilhamentos da sua página de aterrissagem.
 
-1. Selecionar **Mensagem facebook** no editor do **YouTube** vídeo ou botão social.
+1. Selecionar **Mensagem do facebook** no editor do seu **YouTube** vídeo ou botão social.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. Selecione uma das opções a seguir para sua mensagem do Facebook.
+1. Selecione entre as seguintes opções para a mensagem do Facebook.
 
-   * Adicionar conteúdo estático: Selecione essa opção para inserir o título, a legenda e a descrição manualmente.
+   * Adicionar conteúdo estático: selecione essa opção para inserir o título, a legenda e a descrição manualmente.
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Adicionar conteúdo dinâmico: Seu aplicativo social pode usar o `<TITLE>`, `<CAPTION>`e `<DESCRIPTION>` tags para preencher sua publicação avançada.
+   * Adicionar conteúdo dinâmico: seu aplicativo social pode usar a da sua landing page `<TITLE>`, `<CAPTION>`, e `<DESCRIPTION>` para preencher sua publicação avançada.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
    >[!NOTE]
    >
-   >Eles já devem existir na origem da página, mas para ter mais controle, você pode adicionar tags OG específicas da Facebook à página inicial.
+   >Eles já devem existir na fonte da página, mas, para obter mais controle, é possível adicionar tags OG da Facebook específicas à página de aterrissagem.
 
-   * Não adicione conteúdo rico: Limita as publicações do Facebook da página de aterrissagem a apenas a mensagem principal e o link.
+   * Não adicionar conteúdo avançado: limita as publicações do Facebook da página de aterrissagem somente à mensagem e ao link principais.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
 ## Adicionar tags OG da Facebook a uma página de aterrissagem {#add-facebook-og-tags-to-a-landing-page}
 
-Para controlar os elementos da página que serão incluídos nos compartilhamentos da Facebook de sua página inicial, você pode adicionar tags OG (Gráfico aberto) da Facebook para título, legenda e descrição para sua página inicial.
+Para controlar os elementos de página que serão incluídos nos compartilhamentos da Facebook a partir da página de aterrissagem, é possível adicionar tags OG (Open Graph) da Facebook para título, legenda e descrição à página de aterrissagem.
 
-1. Abra a landing page que contém a **Vídeo YouTube** ou social.
+1. Abra a landing page que contém seu **Vídeo do YouTube** ou social.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   O **Designer de página de aterrissagem** abre em uma nova janela.
+   A variável **Designer de landing page** abre em uma nova janela.
 
-1. Selecionar **Ações da página de aterrissagem** > **Editar Meta Tags De Página**.
+1. Selecionar **Ações da landing page** > **Editar metatags de página**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

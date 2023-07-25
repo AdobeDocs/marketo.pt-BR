@@ -1,28 +1,29 @@
 ---
 unique-page-id: 4718683
-description: Aprovação de estágios e atribuição de leads a um modelo de receita - Documentos da Marketo - Documentação do produto
-title: Aprovação de estágios e atribuição de leads a um modelo de receita
+description: Aprovação de estágios e atribuição de leads a um modelo de receita - Documentação do Marketo - Documentação do produto
+title: Aprovando Estágios e Atribuindo Clientes Potenciais a um Modelo de Receita
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
 
 ---
 
-# Aprovação de estágios e atribuição de leads a um modelo de receita {#approving-stages-and-assigning-leads-to-a-revenue-model}
+# Aprovando Estágios e Atribuindo Clientes Potenciais a um Modelo de Receita {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
-Obtenha seus **Modelo de receita** para funcionar e executar adicionando leads existentes, criando regras de atribuição para quaisquer novos leads.
+Obtenha o seu **Modelo de receita** em execução adicionando clientes potenciais existentes, criando regras de atribuição para quaisquer novos clientes potenciais.
 
 ## Aprovando estágios {#approving-stages}
 
-Vamos aprovar as etapas do modelo antes de adicionar leads.
+Vamos aprovar os estágios do seu modelo antes de adicionar qualquer cliente em potencial.
 
-1. Vá para o **Analytics** área.
+1. Vá para a **Analytics** área.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
-1. Selecione o modelo cujos estágios deseja aprovar.
+1. Selecione o modelo cujos estágios você deseja aprovar.
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
@@ -30,51 +31,51 @@ Vamos aprovar as etapas do modelo antes de adicionar leads.
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
-1. Você será recebido com um alerta. click **Atribuir leads**.
+1. Você receberá um alerta; clique em **Atribuir clientes em potencial**.
 
    ![](assets/image2015-4-28-17-3a5-3a39.png)
 
-Excelente! Vamos continuar e atribuir esses leads.
+Excelente! Vamos seguir em frente e atribuir esses leads.
 
-## Atribuição de leads existentes {#assigning-existing-leads}
+## Atribuição de Clientes Potenciais Existentes {#assigning-existing-leads}
 
-[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para identificar os leads de um estágio do seu modelo no banco de dados de lead.
+[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para identificar os clientes em potencial para um estágio do seu modelo no Banco de Dados de Clientes Potenciais.
 
-1. Uma vez que você tiver [criou a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), clique no botão **Clientes potenciais** guia .
+1. Depois de ter [criou sua lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), clique no link **Clientes potenciais** guia.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
-1. Clique em **Selecionar tudo** para selecionar os leads.
+1. Clique em **Selecionar tudo** para selecionar os clientes em potencial.
 
    ![](assets/image2015-4-29-11-3a39-3a39.png)
 
-1. Abra o **Ações de lead** e selecione **Especial**. Clique em **Alterar Estágio de Receita**.
+1. Abra o **Ações de cliente potencial** e selecione **Especial**. Clique em **Alterar estágio de receita**.
 
    ![](assets/image2015-4-29-11-3a40-3a38.png)
 
-1. Selecione as opções corretas **Modelo** e as **Fase**. Clique em **Executar agora**.
+1. Selecione o correto **Modelo** e o correto **Estágio**. Clique em **Executar agora**.
 
    ![](assets/image2015-4-29-11-3a43-3a41.png)
 
-1. Repita até que todos os leads sejam atribuídos aos vários estágios do modelo.
+1. Repita até que todos os clientes em potencial sejam atribuídos aos vários estágios do modelo.
 
-Ótimo! Para especificar como novos leads são atribuídos a palcos, crie regras de atribuição.
+Ótimo! Para especificar como os novos leads são atribuídos aos estágios, crie regras de atribuição.
 
 >[!NOTE]
 >
->Se o modelo estiver no estado Estágios Aprovados, você não verá nenhum evento Alterar Estágio da Receita nos logs de atividade dos leads. Se o modelo estiver totalmente aprovado, essa etapa do fluxo será ignorada se você mover um lead para o mesmo estágio em que ele está no momento.
+>Se o modelo estiver no estado Estágios aprovados, você não verá eventos de Alterar estágio de receita nos logs de atividade dos clientes potenciais. Se seu modelo for totalmente aprovado, esta etapa do fluxo será ignorada se você mover um cliente em potencial para o mesmo estágio em que ele está no momento.
 
-## Novos clientes potenciais: Criar Regras de Atribuição  {#new-leads-create-assignment-rules}
+## Novos Clientes Potenciais: Criar Regras De Atribuição  {#new-leads-create-assignment-rules}
 
 1. Clique em **Página inicial do Marketo** novamente e selecione **Analytics**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
-1. Clique no modelo na árvore e, em seguida, na guia **Ações do modelo** , selecionando **Regras de atribuição**.
+1. Clique no modelo na árvore e depois na **Ações do modelo** menu, seleção **Regras de atribuição**.
 
    ![](assets/image2015-4-29-11-3a52-3a17.png)
 
-1. Se suas regras de atribuição contiverem mais de um clique de escolha padrão **Fase**, faça sua seleção e clique em **Adicionar escolha**.
+1. Se suas regras de atribuição contiverem mais de uma opção padrão, clique em **Estágio**, faça a seleção e clique em **Adicionar seleção**.
 
    ![](assets/image2015-4-29-12-3a5-3a46.png)
 
@@ -82,11 +83,11 @@ Excelente! Vamos continuar e atribuir esses leads.
 
 Crie uma regra de Pontuação de lead para atribuir os novos leads com uma pontuação mínima a uma etapa apropriada.
 
-1. Em **If**, selecione **Pontuação de lead**. Em seguida, escolha **pelo menos**.
+1. Em **Se**, selecione **Pontuação do lead**. Em seguida, escolha **pelo menos**.
 
    ![](assets/image2015-4-29-13-3a27-3a8.png)
 
-1. Enter **40º** no campo e selecione **Líder de Vendas** como um Palco. Clique em **Salvar** para concluir.
+1. Enter **40** no campo e selecione **Vendas Potenciais** como um Palco. Clique em **Salvar** para concluir.
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 

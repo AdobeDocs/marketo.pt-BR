@@ -1,29 +1,30 @@
 ---
-description: Alterar a senha da conexão de vendas - Documentos do Marketo - Documentação do produto
-title: Alterar a senha da conexão de vendas
+description: Altere a senha do Sales Connect - Documentação do Marketo - Documentação do produto
+title: Alterar a senha do Sales Connect
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
 
 ---
 
-# Alterar a senha da conexão de vendas {#change-your-sales-connect-password}
+# Alterar a senha do Sales Connect {#change-your-sales-connect-password}
 
 Precisa alterar sua senha? Veja como.
 
-## Alterar sua senha enquanto estiver conectado {#change-your-password-while-signed-in}
+## Alterar Sua Senha Ao Entrar {#change-your-password-while-signed-in}
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. A página Meu perfil é aberta por padrão. Em Detalhes da conta , selecione a **Alterar senha** caixa de seleção.
+1. A página Meu perfil é aberta por padrão. Em Detalhes da conta, selecione a variável **Alterar senha** caixa de seleção
 
    ![](assets/change-your-sales-connect-password-2.png)
 
-1. Digite sua senha atual. Em seguida, insira o novo e digite-o novamente, certificando-se de que corresponda. Clique em **Salvar** quando concluído.
+1. Digite sua senha atual. Em seguida, insira o novo e digite-o novamente, certificando-se de que ele corresponde. Clique em **Salvar** quando terminar.
 
    ![](assets/change-your-sales-connect-password-3.png)
 
@@ -32,18 +33,17 @@ Precisa alterar sua senha? Veja como.
 >As senhas devem:
 >
 >* Ter pelo menos nove caracteres
->* Usar letras maiúsculas e minúsculas misturadas (UPPER e lower)
+>* Usar mistura de maiúsculas e minúsculas (tanto MAIÚSCULAS quanto MINÚSCULAS)
 >* Incluir um número
 >* Usar um caractere especial
 
+## Alterar a senha ao sair {#change-your-password-while-signed-out}
 
-## Alterar sua senha enquanto estiver desconectado {#change-your-password-while-signed-out}
-
-1. Navegue até o [Logon no Sales Connect](https://toutapp.com/login) e clique em **Esqueceu a senha**.
+1. Navegue até a [Login do Sales Connect](https://toutapp.com/login) e clique em **Esqueceu a senha**.
 
    ![](assets/change-your-sales-connect-password-4.png)
 
-1. Insira o endereço de email associado à conta e clique em **Enviar Redefinir Email**.
+1. Insira o endereço de email associado à conta e clique em **Enviar e-mail de redefinição**.
 
    ![](assets/change-your-sales-connect-password-5.png)
 
@@ -53,8 +53,8 @@ Precisa alterar sua senha? Veja como.
 
    >[!NOTE]
    >
-   >Certifique-se de verificar a pasta de spam também, pois esse email pode, às vezes, acabar lá.
+   >Certifique-se de verificar sua pasta de spam também, pois esse e-mail pode, às vezes, acabar lá.
 
-1. Digite e confirme sua nova senha. Clique em **Definir senha** quando concluído.
+1. Digite e confirme sua nova senha. Clique em **Definir senha** quando terminar.
 
    ![](assets/change-your-sales-connect-password-7.png)

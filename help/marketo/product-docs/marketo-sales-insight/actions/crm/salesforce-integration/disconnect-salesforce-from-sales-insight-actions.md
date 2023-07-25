@@ -1,37 +1,38 @@
 ---
-description: Desconecte O Salesforce Das Ações De Insight De Vendas - Documentos Da Marketo - Documentação Do Produto
-title: Desconecte O Salesforce Das Ações De Insight De Vendas
+description: Desconecte O Salesforce Das Ações Do Sales Insight - Documentação Do Marketo - Documentação Do Produto
+title: Desconectar Salesforce Das Ações Do Sales Insight
 hide: true
 hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 1%
 
 ---
 
-# Desconecte O Salesforce Das Ações De Insight De Vendas {#disconnect-salesforce-from-sales-insight-actions}
+# Desconectar Salesforce Das Ações Do Sales Insight {#disconnect-salesforce-from-sales-insight-actions}
 
-Às vezes, pode ser necessário desconectar sua conta do Salesforce de sua conta de Ações de insight de vendas. Veja como.
+Às vezes, pode ser necessário desconectar sua conta do Salesforce da conta do Sales Insight Actions. Veja como.
 
 ## Como se desconectar do Salesforce como administrador {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. Em Ações de insight de vendas, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
+1. Em Ações do Sales Insight, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
-1. Em Configurações de administração, clique em **Salesforce**.
+1. Em Configurações do administrador, clique em **Salesforce**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. Na guia Conexões e personalizações , clique em **Desconectar**.
+1. Na guia Conexões e personalizações, clique em **Desconectar**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
-## Como desconectar-se do Salesforce como um não administrador {#how-to-disconnect-from-salesforce-as-a-non-admin}
+## Como se desconectar do Salesforce como um usuário não administrativo {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. Em Ações de insight de vendas, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
+1. Em Ações do Sales Insight, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
@@ -39,6 +40,6 @@ ht-degree: 1%
 
 PICC
 
-1. Na guia Conexões e personalizações , clique em **Desconectar**.
+1. Na guia Conexões e personalizações, clique em **Desconectar**.
 
 PICC

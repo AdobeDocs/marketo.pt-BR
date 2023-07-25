@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359608
-description: Alterar a família de fontes de formulários - Documentos do Marketo - Documentação do produto
-title: Alterar a família de fontes de formulário
+description: Alterar a família de fontes do formulário - Documentação do Marketo - Documentação do produto
+title: Alterar a Família de Fontes do Formulário
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-# Alterar a família de fontes de formulário {#change-the-form-font-family}
+# Alterar a Família de Fontes do Formulário {#change-the-form-font-family}
 
-As fontes do Google são incríveis e nós as criamos diretamente no editor de formulários. Dê uma olhada!
+As Google Fonts são incríveis, e as criamos no editor de formulários. Dê uma olhada!
 
 >[!NOTE]
 >
@@ -30,11 +31,11 @@ As fontes do Google são incríveis e nós as criamos diretamente no editor de f
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Selecione o **Família de fontes** você quer.
+1. Selecione o **Família da fonte** você quer.
 
    >[!TIP]
    >
-   >Um monte de [Fontes Google](https://www.google.com/fonts) estão disponíveis para uso.
+   >Um monte de [Google Fonts](https://www.google.com/fonts) estão disponíveis para uso.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -46,17 +47,17 @@ As fontes do Google são incríveis e nós as criamos diretamente no editor de f
 
    >[!NOTE]
    >
-   >O formulário deve ser aprovado para ser usado nas landing pages.
+   >O formulário deve ser aprovado para ser usado em landing pages.
 
    ![](assets/image2014-9-15-16-3a1-3a28.png)
 
    >[!NOTE]
    >
-   >Lembre-se de aprovar o rascunho da landing page criado pelas alterações do formulário.
+   >Lembre-se de aprovar o rascunho da página de aterrissagem criado pelas alterações do formulário.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
 
-Veja como foi fácil alterar a família de fontes em um formulário? Legal, agora que isso foi feito, vamos aprender como alterar o tamanho da fonte do formulário.
+Você vê como foi fácil alterar a família de fontes em um formulário? Legal, agora que isso está feito, vamos aprender a alterar o tamanho da fonte do formulário.
 
 >[!MORELIKETHIS]
 >

@@ -1,18 +1,19 @@
 ---
 unique-page-id: 11379928
-description: Detalhes da alteração na trilha de auditoria - Documentos do Marketo - Documentação do produto
-title: Alterar detalhes na trilha de auditoria
+description: Detalhes das alterações na trilha de auditoria — Documentação do Marketo — Documentação do produto
+title: Detalhes da alteração na trilha de auditoria
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Audit Trail
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1913'
 ht-degree: 15%
 
 ---
 
-# Alterar detalhes na trilha de auditoria {#change-details-in-audit-trail}
+# Detalhes da alteração na trilha de auditoria {#change-details-in-audit-trail}
 
-A Trilha de auditoria oferece uma grande variedade de informações sobre quem está fazendo o que em sua assinatura do Marketo. Aqui estão os detalhes.
+A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na sua assinatura do Marketo. Aqui estão os detalhes.
 
 ## Trilha de auditoria de ativos {#asset-audit-trail}
 
@@ -24,7 +25,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
  </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">Ativo/Tipo</th> 
+   <th colspan="1">Ativo/tipo</th> 
    <th colspan="1">Ação</th> 
    <th colspan="1">Detalhes da alteração</th> 
   </tr> 
@@ -39,7 +40,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Localização "Pasta de campanha" ou "programa de envolvimento" <br>Nome do programa clonado "novo nome"</td> 
+   <td>Clonado para o "nome do espaço de trabalho" do espaço de trabalho <br>Local "Pasta da campanha" ou "programa de engajamento" <br>Nome de programa clonado "novo nome"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -47,31 +48,31 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar canal</td> 
-   <td>Novo canal "nome do novo canal" Canal antigo "nome do canal antigo" </td> 
+   <td>Novo canal "novo nome do canal" Canal antigo "nome do canal antigo" </td> 
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
-   <td>Adicione o token "nome do token" valor "valor do token"</td> 
+   <td>Adicionar o valor "token name" do token "token value"</td> 
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
-   <td>Edite o token "token name" novo valor "new value" valor antigo "old value"</td> 
+   <td>Editar o token "nome do token" novo valor "novo valor" valor antigo "valor antigo"</td> 
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
-   <td>Excluir token "nome do token"</td> 
+   <td>Excluir o token "nome do token"</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Adicionar o comportamento do analytics "nome do comportamento"</td> 
+   <td>Adicionar o "nome do comportamento" do comportamento de análise</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td><p>Editar o comportamento do analytics "nome do comportamento"</p><p>Comportamento antigo "nome do comportamento"</p></td> 
+   <td><p>Editar o "nome do comportamento" do comportamento de análise</p><p>Antigo "nome de comportamento" de comportamento</p></td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Excluir o comportamento do analytics "nome do comportamento"</td> 
+   <td>Excluir o "nome do comportamento" do comportamento de análise</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
@@ -79,18 +80,18 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Editar custo do período Novo valor de custo "#", Novo mês do programa "yyyy-mm", Valor de custo antigo "#", Mês do programa antigo "yyyy-mm"</td> 
+   <td colspan="1">Custo do período de edição Novo valor de custo "#", Mês do novo programa "aaaa-mm", Valor de custo antigo "#", Mês do programa antigo "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Excluir custo no período. Valor "#" mês do programa "yyyy-mm"</td> 
+   <td colspan="1">Excluir custo no período. Valor "#" mês do programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
-   <td rowspan="19"><strong>E-mail</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>Email</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Criar</td> 
    <td>Criado usando o modelo "nome do modelo" <br>ou <br>Clonado de "nome do ativo"</td> 
   </tr> 
@@ -100,7 +101,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Atualização de "De email" para "newemail@name.com"</td> 
+   <td>Atualização de "Do email" para "newemail@name.com"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -112,7 +113,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Adição de segmentação "nome_da_segmentação"</td> 
+   <td>Segmentação "segmentation_name" adicionada</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -120,7 +121,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Adição do snippet "snippet_name"</td> 
+   <td>Adição do trecho "snippet_name"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -128,15 +129,15 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Edições quebraram o email do modelo "template_name" (NOTA: isso acontece hoje se você editar o código diretamente)</td> 
+   <td>Edita e-mails corrompidos do modelo "template_name" (OBSERVAÇÃO: isso acontece hoje, se você editar o código diretamente)</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Nova descrição "descrição nova" Descrição antiga "descrição antiga"</td> 
+   <td>Nova descrição "nova descrição" Descrição antiga "descrição antiga"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Editar módulo <code>"<module name>" <attribute></code> para "valor"</td> 
+   <td>Editar módulo <module name><attribute> para "value"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -148,11 +149,11 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado em "Design studio" na pasta "folderName" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" em "nome do programa"<br>Nome do ativo clonado "name"</td> 
+   <td>Clonado para "Design studio" na pasta "foldername" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa"<br>Nome do ativo clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Movido para "Design studio" na pasta "nome da pasta"<br>ou<br>Movido para "Atividades de marketing" no "nome do programa"</td> 
+   <td>Movido para o "Design studio" na pasta "nome da pasta"<br>ou<br>Transferido para "Atividades de marketing" para "Nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Aprovar</td> 
@@ -164,7 +165,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Rascunho</td> 
-   <td>O email foi criado porque o trecho "nome do trecho" foi aprovado<br>ou<br>O email foi criado porque o modelo "nome do modelo" foi aprovado</td> 
+   <td>O email foi redigido porque o trecho "snippet name" foi aprovado<br>ou<br>O email foi redigido porque o modelo "nome do modelo" foi aprovado</td> 
   </tr> 
    <td rowspan="17">Programa de e-mail</td> 
    <td>Criar</td> 
@@ -176,7 +177,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Localização "Pasta de campanha ou programa de envolvimento" <br>Nome do programa clonado "novo nome"</td> 
+   <td>Clonado para o "nome do espaço de trabalho" do espaço de trabalho <br>Local "Pasta da campanha ou programa de engajamento" <br>Nome de programa clonado "novo nome"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -192,35 +193,35 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
-   <td>Adicione o token "nome do token" valor "valor do token"</td> 
+   <td>Adicionar o valor "token name" do token "token value"</td> 
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
-   <td>Editar token "token name" Novo valor "new value" Valor antigo "old value"</td> 
+   <td>Editar token "nome do token" Novo valor "novo valor" valor antigo "valor antigo"</td> 
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
-   <td>Excluir token "nome do token"</td> 
+   <td>Excluir o token "nome do token"</td> 
   </tr> 
   <tr> 
    <td>Modificar programação</td> 
-   <td>Defina o agendamento para iniciar em "data inicial, hora inicial" e terminar por "data final, hora final"</td> 
+   <td>Definir programação para iniciar em "data inicial, hora inicial" e terminar em "data final, hora final"</td> 
   </tr> 
   <tr> 
    <td>Modificar programação</td> 
-   <td>Alteração do agendamento para "nova data, nova hora"</td> 
+   <td>Alteração do cronograma para "nova data, nova hora"</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Adicionar o comportamento do analytics "nome do comportamento"</td> 
+   <td>Adicionar o "nome do comportamento" do comportamento de análise</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Editar o comportamento do analytics "nome do comportamento"<br>Comportamento antigo "nome do comportamento"</td> 
+   <td>Editar o "nome do comportamento" do comportamento de análise<br>Antigo "nome de comportamento" de comportamento</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Excluir o comportamento do analytics "nome do comportamento"</td> 
+   <td>Excluir o "nome do comportamento" do comportamento de análise</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
@@ -228,16 +229,16 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Editar custo do período Novo valor de custo "#", Novo mês do programa "yyyy-mm", Valor de custo antigo "#", Mês do programa antigo "yyyy-mm"</td> 
+   <td colspan="1">Custo do período de edição Novo valor de custo "#", Mês do novo programa "aaaa-mm", Valor de custo antigo "#", Mês do programa antigo "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Excluir custo no período. Valor "#" mês do programa "yyyy-mm"</td> 
+   <td colspan="1">Excluir custo no período. Valor "#" mês do programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td rowspan="8">Modelo de e-mail</td> 
    <td>Criar</td> 
-   <td>Em branco ou Clonado a partir de "nome do modelo"</td> 
+   <td>Em branco ou clonado de "nome do modelo"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -245,7 +246,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>HTML Editado</td> 
+   <td>HTML editado</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -278,7 +279,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Localização "Pasta de campanha ou programa de envolvimento" <br>Nome do programa clonado "novo nome"</td> 
+   <td>Clonado para o "nome do espaço de trabalho" do espaço de trabalho <br>Local "Pasta da campanha ou programa de engajamento" <br>Nome de programa clonado "novo nome"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -289,56 +290,56 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
    <td>Novo canal "novo canal" Canal antigo "canal antigo"</td> 
   </tr> 
   <tr> 
-   <td>Modificar fluxo do programa</td> 
-   <td><p>Adicionar fluxo</p><p>Nomear "nome" Posicionamento "#"</p></td> 
+   <td>Modificar fluxo de programas</td> 
+   <td><p>Adicionar fluxo</p><p>Nome "name" Posicionamento "#"</p></td> 
   </tr> 
   <tr> 
-   <td>Modificar fluxo do programa</td> 
-   <td><p>Editar fluxo</p><p>Novo nome do fluxo: "new name" Nome antigo do fluxo: "nome antigo"</p><p>Nova disposição: "new #" Disposição antiga: "old #"</p></td> 
+   <td>Modificar fluxo de programas</td> 
+   <td><p>Editar fluxo</p><p>Novo nome do fluxo: "novo nome" Nome do fluxo antigo: "nome antigo"</p><p>Novo posicionamento: "novo #" Posicionamento antigo: "antigo #"</p></td> 
   </tr> 
   <tr> 
-   <td>Modificar fluxo do programa</td> 
-   <td>Excluir o nome do fluxo "name"</td> 
+   <td>Modificar fluxo de programas</td> 
+   <td>Excluir nome do fluxo "name"</td> 
   </tr> 
   <tr> 
-   <td>Modificar fluxo do programa</td> 
-   <td>Adicionar conteúdo<br>Nome do fluxo "nome do fluxo"<br>Digite "Email" ou "Programa"<br>Nome "email name" ou "program name"<br>Campanha inteligente "nome da campanha inteligente"</td> 
+   <td>Modificar fluxo de programas</td> 
+   <td>Adicionar conteúdo<br>Nome do fluxo "nome do fluxo"<br>Digite "Email" ou "Programa"<br>Nome "nome de email" ou "nome do programa"<br>Campanha inteligente "nome da campanha inteligente"</td> 
   </tr> 
   <tr> 
-   <td>Modificar fluxo do programa</td> 
+   <td>Modificar fluxo de programas</td> 
    <td>Ativar conteúdo<br>Nome do fluxo "nome do fluxo"<br>Nome do conteúdo "nome do email" ou "nome do programa"</td> 
   </tr> 
   <tr> 
-   <td>Modificar fluxo do programa</td> 
+   <td>Modificar fluxo de programas</td> 
    <td>Desativar conteúdo<br>Nome do fluxo "nome do fluxo"<br>Nome do conteúdo "nome do email" ou "nome do programa"</td> 
   </tr> 
   <tr> 
-   <td>Modificar fluxo do programa</td> 
+   <td>Modificar fluxo de programas</td> 
    <td>Remover conteúdo<br>Nome do fluxo "nome do fluxo"<br>Nome do conteúdo "nome do email" ou "nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
-   <td>Adicione o token "nome do token" valor "valor do token"</td> 
+   <td>Adicionar o valor "token name" do token "token value"</td> 
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
-   <td>Editar token "token name" Novo valor "new value" Valor antigo "old value"</td> 
+   <td>Editar token "nome do token" Novo valor "novo valor" valor antigo "valor antigo"</td> 
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
-   <td>Excluir token "nome do token"</td> 
+   <td>Excluir o token "nome do token"</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Adicionar o comportamento do analytics "nome do comportamento"</td> 
+   <td>Adicionar o "nome do comportamento" do comportamento de análise</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Editar o comportamento do analytics "nome do comportamento"<br>Comportamento antigo "nome do comportamento"</td> 
+   <td>Editar o "nome do comportamento" do comportamento de análise<br>Antigo "nome de comportamento" de comportamento</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Excluir o comportamento do analytics "nome do comportamento"</td> 
+   <td>Excluir o "nome do comportamento" do comportamento de análise</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
@@ -350,11 +351,11 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Editar custo do período Novo valor de custo "#", Novo mês do programa "yyyy-mm", Valor de custo antigo "#", Mês do programa antigo "yyyy-mm"</td> 
+   <td colspan="1">Custo do período de edição Novo valor de custo "#", Mês do novo programa "aaaa-mm", Valor de custo antigo "#", Mês do programa antigo "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Excluir custo no período. Valor "#" mês do programa "yyyy-mm"</td> 
+   <td colspan="1">Excluir custo no período. Valor "#" mês do programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
@@ -375,7 +376,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Localização "pasta de campanha" ou "programa de engajamento" <br>Nome do programa clonado "novo nome"</td> 
+   <td>Clonado para o "nome do espaço de trabalho" do espaço de trabalho <br>Local "pasta da campanha" ou "programa de envolvimento" <br>Nome de programa clonado "novo nome"</td> 
   </tr> 
   <tr> 
    <td>Editar canal</td> 
@@ -383,35 +384,35 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
-   <td>Adicione o token "nome do token" valor "valor do token"</td> 
+   <td>Adicionar o valor "token name" do token "token value"</td> 
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
-   <td>Editar token "token name" Novo valor "new value" Valor antigo "old value"</td> 
+   <td>Editar token "nome do token" Novo valor "novo valor" valor antigo "valor antigo"</td> 
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
-   <td>Excluir token "nome do token"</td> 
+   <td>Excluir o token "nome do token"</td> 
   </tr> 
   <tr> 
    <td>Modificar programação</td> 
-   <td>Defina o agendamento para iniciar em "data inicial, hora inicial" e terminar por "data final, hora final"</td> 
+   <td>Definir programação para iniciar em "data inicial, hora inicial" e terminar em "data final, hora final"</td> 
   </tr> 
   <tr> 
    <td>Modificar programação</td> 
-   <td>Alteração do agendamento para "nova data, nova hora"</td> 
+   <td>Alteração do cronograma para "nova data, nova hora"</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Adicionar o comportamento do analytics "nome do comportamento"</td> 
+   <td>Adicionar o "nome do comportamento" do comportamento de análise</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Editar o comportamento do analytics "nome do comportamento"<br>Comportamento antigo "nome do comportamento"</td> 
+   <td>Editar o "nome do comportamento" do comportamento de análise<br>Antigo "nome de comportamento" de comportamento</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Excluir o comportamento do analytics "nome do comportamento"</td> 
+   <td>Excluir comportamento do Analytics "nome do comportamento"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
@@ -419,15 +420,15 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Editar custo do período Novo valor de custo "#", Novo mês do programa "yyyy-mm", Valor de custo antigo "#", Mês do programa antigo "yyyy-mm"</td> 
+   <td colspan="1">Custo do período de edição Novo valor de custo "#", Mês do novo programa "aaaa-mm", Valor de custo antigo "#", Mês do programa antigo "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Excluir custo no período. Valor "#" mês do programa "yyyy-mm"</td> 
+   <td colspan="1">Excluir custo no período. Valor "#" mês do programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modificar configuração do programa</td> 
-   <td colspan="1">Adição do parceiro de evento "partner_name"</td> 
+   <td colspan="1">Adição do parceiro de evento ‘partner_name’</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
@@ -448,16 +449,16 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Token editado "token_name" novo valor "token_value" valor antigo "old_token_value"</td> 
+   <td>Token "token_name" novo valor "token_value" valor antigo "old_token_value" editado</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Token excluído "token_name"</td> 
+   <td>Token "token_name" excluído</td> 
   </tr> 
   <tr> 
    <td rowspan="8">Formulários</td> 
    <td>Criar</td> 
-   <td>Em breve. Saiba mais ou Clonado em "nome do formulário"</td> 
+   <td>Em breve. Saiba mais ou Clonado de "nome do formulário"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -469,7 +470,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Nova descrição "descrição nova" Descrição antiga "descrição antiga"</td> 
+   <td>Nova descrição "nova descrição" Descrição antiga "descrição antiga"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -481,16 +482,16 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado em "Design studio" na pasta "folderName" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" em "nome do programa"<br>Nome do ativo clonado "name"</td> 
+   <td>Clonado para "Design studio" na pasta "foldername" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa"<br>Nome do ativo clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Movido para "Design studio" na pasta "nome da pasta"<br>ou<br>Movido para "Atividades de marketing" no "nome do programa"</td> 
+   <td>Movido para o "Design studio" na pasta "nome da pasta"<br>ou<br>Transferido para "Atividades de marketing" para "Nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Formulários</td> 
    <td>Aprovar</td> 
-   <td>Usado por # assets </td> 
+   <td>Usado por # ativos </td> 
   </tr> 
   <tr> 
    <td rowspan="9">Página</td> 
@@ -511,19 +512,19 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Adição De "Imagem", "Imagem" Removida, Componente Imagem Editada</td> 
+   <td>Adição De "Imagem", Remoção De "Imagem", Componente De Imagem Editado</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Adição de "Rich Text", Remoção de "Rich Text", Componente Rich Text Editado</td> 
+   <td>Adição De "Rich Text", Remoção De "Rich Text", Edição De Componente Rich Text</td> 
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado em "Design studio" na pasta "folderName"<br>Nome do ativo clonado "name"<br>URL de ativo clonado "www.url.com"<br>ou<br>Clonado para "Atividades de marketing" em "nome do programa" <br>Nome do ativo clonado "name"<br>URL de ativo clonado "www.url.com"</td> 
+   <td>Clonado para "Design studio" na pasta "foldername"<br>Nome do ativo clonado "name"<br>URL de ativo clonado "www.url.com"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa" <br>Nome do ativo clonado "name"<br>URL de ativo clonado "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Movido para "Design studio" na pasta "nome da pasta"<br> ou<br> Movido para "Atividades de marketing" no "nome do programa"</td> 
+   <td>Movido para o "Design studio" na pasta "nome da pasta"<br> ou<br> Transferido para "Atividades de marketing" para "Nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Aprovar</td> 
@@ -531,14 +532,14 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Rascunho</td> 
-   <td>A página de aterrissagem foi criada porque o modelo "nome do modelo" foi aprovado</td> 
+   <td>A página de aterrissagem foi rascunhada porque o modelo "nome do modelo" foi aprovado</td> 
   </tr> 
   <tr> 
    <td>Cancelar aprovação</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Modelo de página</td> 
+   <td rowspan="8">Modelo de página de destino</td> 
    <td>Criar</td> 
    <td><p>Em branco<br>ou<br>Clonado de "nome do ativo"</p></td> 
   </tr> 
@@ -564,7 +565,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Aprovar</td> 
-   <td>Usado por # assets </td> 
+   <td>Usado por # ativos </td> 
   </tr> 
   <tr> 
    <td>Cancelar aprovação</td> 
@@ -581,7 +582,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Banco de dados de pessoa" na pasta "nome da pasta" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" em "nome do programa"<br>Nome do ativo clonado "name"</td> 
+   <td>Clonado para "Banco de dados de pessoas" na pasta "foldername" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa"<br>Nome do ativo clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -610,7 +611,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Movido para "Programas" em "nome do programa"<br>ou<br>Movido para "Pastas" na pasta "nome da pasta"</td> 
+   <td>Movido para "Programas" no "nome do programa"<br>ou<br>Movido para "Pastas" na pasta "nome da pasta"</td> 
   </tr> 
   <tr> 
    <td>Renomear</td> 
@@ -626,19 +627,19 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Programas" em "nome do programa" <br>Nome do ativo clonado "name"<br>ou<br>Clonado em "Pasta" na pasta "nome da pasta"<br>Nome do ativo clonado "name"</td> 
+   <td>Clonado para "Programas" no "nome do programa" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Pasta" na pasta "nome da pasta"<br>Nome do ativo clonado "name"</td> 
   </tr> 
   <tr> 
-   <td>Modificar configuração da lista inteligente</td> 
-   <td>Mostra instantâneo do estado atual, incluindo nomes e valores de filtros e acionadores</td> 
+   <td>Modificar a configuração da lista inteligente</td> 
+   <td>Mostra um instantâneo do estado atual, incluindo nomes e valores de filtros e acionadores</td> 
   </tr> 
   <tr> 
-   <td>Modificar programação de campanha</td> 
+   <td>Modificar programação da campanha</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
    <td>Modificar ação da etapa do fluxo</td> 
-   <td>Mostra o instantâneo do estado atual, incluindo nomes e valores de cada etapa do fluxo</td> 
+   <td>Mostra um instantâneo do estado atual, incluindo nomes e valores de cada etapa do fluxo</td> 
   </tr> 
   <tr> 
    <td rowspan="7">Lista inteligente</td> 
@@ -663,20 +664,20 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Banco de dados de pessoa" na pasta "nome da pasta" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" em "nome do programa" <br>Nome do ativo clonado "name"</td> 
+   <td>Clonado para "Banco de dados de pessoas" na pasta "foldername" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa" <br>Nome do ativo clonado "name"</td> 
   </tr> 
   <tr> 
-   <td>Modificar configuração da lista inteligente</td> 
-   <td>Mostra instantâneo do estado atual, incluindo nomes e valores de filtros e acionadores </td> 
+   <td>Modificar a configuração da lista inteligente</td> 
+   <td>Mostra um instantâneo do estado atual, incluindo nomes e valores de filtros e acionadores </td> 
   </tr> 
   <tr> 
    <td rowspan="11">Bloco de conteúdo</td> 
    <td>Criar</td> 
-   <td><p>Em branco<br>ou<br>Clonado de "nome do trecho"</p></td> 
+   <td><p>Em branco<br>ou<br>Clonado de "snippet name"</p></td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Adição de segmentação "nome_da_segmentação"</td> 
+   <td>Segmentação "segmentation_name" adicionada</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -700,11 +701,11 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "nome da pasta" <br>Nome do trecho clonado "nome"</td> 
+   <td>Clonado para "nome da pasta" <br>Nome de trecho clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Aprovar</td> 
-   <td>Usado por # assets</td> 
+   <td>Usado por # ativos</td> 
   </tr> 
   <tr> 
    <td>Aprovar com Sem requisição</td> 
@@ -734,7 +735,7 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   <tr> 
    <td>Restrições de IP</td> 
    <td>Editar</td> 
-   <td>Restrições de IP editadas para o seguinte: "Bloco" Permitido/Bloqueado, Endereço IP "#", Restrições de IP Desativadas ""</td> 
+   <td>Restrições de IP editadas para o seguinte: Permitido/Bloqueado "bloco", Endereço IP "#", Restrições de IP desativadas ""</td> 
   </tr> 
   <tr> 
    <td rowspan="2">Partição</td> 
@@ -748,57 +749,57 @@ A Trilha de auditoria oferece uma grande variedade de informações sobre quem e
   <tr> 
    <td>Grau de segurança da senha</td> 
    <td>Editar</td> 
-   <td>Segurança de senha alterada para modelo: Segurança padrão, duração mínima: #, lower-upper: #, número: #, mistura de maiúsculas e minúsculas: # , expiração : #, tempo limite da sessão: #</td> 
+   <td>Segurança de senha alterada para modelo: Segurança padrão, comprimento mínimo: #, inferior-superior: #, número: #, misto de maiúsculas e minúsculas: # , expiração: #, tempo limite da sessão: #</td> 
   </tr> 
   <tr> 
    <td rowspan="3">Função<br><br></td> 
    <td>Criar</td> 
-   <td>Função criada com "nome da função" (NOTA: se precisar de detalhes sobre permissões adicionadas, entre em contato com o suporte) - <br>mostra um instantâneo das permissões atribuídas à função</td> 
+   <td>Função criada com "nome da função" (OBSERVAÇÃO: se precisar de detalhes sobre permissões adicionadas, entre em contato com o suporte) - <br>mostra um instantâneo das permissões atribuídas à função</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td>A função "Nome da função" foi eliminada</td> 
+   <td>Função "Nome da função" excluída</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Função Editada de "nome anterior" para "novo nome" (NOTA: se precisar de detalhes sobre permissões editadas, entre em contato com o suporte) - <br>mostra um instantâneo das permissões atribuídas à função<br></td> 
+   <td>Função editada de "nome anterior" para "novo nome" (OBSERVAÇÃO: se você precisar de detalhes sobre permissões editadas, entre em contato com o suporte) - <br>mostra um instantâneo das permissões atribuídas à função<br></td> 
   </tr> 
   <tr> 
    <td>Relatório da lista inteligente</td> 
    <td>Editar</td> 
-   <td>SmarList editado para logon para download: "true ou false"</td> 
+   <td>SmartList editado para fazer logon no download: "true ou false"</td> 
   </tr> 
   <tr> 
    <td rowspan="7">Usuário<br><br><br><br></td> 
    <td>Criar (convite)</td> 
-   <td>Convidado pelo Usuário com: Email "endereço de email", Nome "nome e sobrenome", Acesso Expira "em branco ou com uma data", Usuário da API "verdadeiro ou falso" - <br>mostra um instantâneo de funções e espaços de trabalho atribuídos ao usuário</td> 
+   <td>Usuário convidado com: Email "endereço de email", Nome "nome e sobrenome", Acesso expira "em branco ou com data", Usuário da API "verdadeiro ou falso" - <br>mostra um instantâneo de funções e espaços de trabalho atribuídos ao usuário</td> 
   </tr> 
   <tr> 
    <td colspan="1">Excluir</td> 
-   <td colspan="1">"nome de usuário" excluído</td> 
+   <td colspan="1">usuário "user name" excluído</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>O usuário foi renomeado de "nome antigo" para "novo nome" com email: "email", apiUser: O acesso "true ou false" expira: "em branco ou com data"</td> 
+   <td>O usuário foi renomeado de "nome antigo" para "novo nome" com email: "email", apiUser: "verdadeiro ou falso" acesso expira: "em branco ou com uma data"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>O usuário foi editado para email: "email", apiUser: "true ou false", o acesso expira: "em branco ou com data"</td> 
+   <td>O usuário foi editado para email: "email", apiUser: "true ou false", acesso expira: "em branco ou com uma data"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Editar</td> 
-   <td colspan="1">Mostra o instantâneo do estado atual, incluindo funções e espaços de trabalho atribuídos ao usuário</td> 
+   <td colspan="1">Mostra um instantâneo do estado atual, incluindo funções e espaços de trabalho atribuídos ao usuário</td> 
   </tr> 
   <tr> 
    <td>Problema</td> 
-   <td>Licença de calendário emitida para email: nome do "email do usuário": "nome do usuário"</td> 
+   <td>Licença de calendário emitida para o email: "email do usuário" nome: "nome do usuário"</td> 
   </tr> 
   <tr> 
    <td>Redefinir</td> 
-   <td>Redefinição de senha para nome "nome" e email "email"</td> 
+   <td>Redefinição de senha para nome "name" e email "email"</td> 
   </tr> 
   <tr> 
-   <td rowspan="2">Área de trabalho</td> 
+   <td rowspan="2">Espaço de trabalho</td> 
    <td>Criar</td> 
    <td>Espaço de trabalho criado com o nome "nome do espaço de trabalho"</td> 
   </tr> 

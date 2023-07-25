@@ -1,17 +1,18 @@
 ---
-description: Visão geral da pesquisa avançada - Documentos do Marketo - Documentação do produto
+description: Visão geral da pesquisa avançada - Documentação do Marketo - Documentação do produto
 title: Visão geral da pesquisa avançada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
 # Visão geral da pesquisa avançada {#advanced-search-overview}
 
-Ao utilizar a pesquisa avançada para direcionar os clientes potenciais que visualizaram, clicaram ou responderam a emails, você pode criar uma lista direcionada dos clientes potenciais mais envolvidos.
+Ao utilizar a pesquisa avançada para direcionar clientes potenciais que visualizaram, clicaram ou responderam a emails, é possível criar uma lista direcionada dos seus clientes potenciais mais envolvidos.
 
 ## Como acessar a pesquisa avançada {#how-to-access-advanced-search}
 
@@ -35,31 +36,31 @@ Ao utilizar a pesquisa avançada para direcionar os clientes potenciais que visu
 
 **Data**
 
-Escolha o intervalo de datas para sua pesquisa. As datas predefinidas são atualizadas dependendo do status do email escolhido (Enviado, Não entregue, Pendente).
+Escolha o intervalo de datas da pesquisa. As datas predefinidas são atualizadas dependendo do status do email que você escolher (Enviado, Não entregue, Pendente).
 
 ![](assets/advanced-search-overview-5.png)
 
 **Quem**
 
-Filtre por recipient/remetente de email na seção Quem .
+Filtre por destinatário/remetente de email na seção Quem.
 
 ![](assets/advanced-search-overview-6.png)
 
 <table>
  <tr>
-  <td><strong>Lista suspensa</strong></td>
+  <td><strong>Suspenso</strong></td>
   <td><strong>Descrição</strong></td>
  </tr>
  <tr>
   <td><strong>Exibir como</strong></td>
-  <td>Filtrar por um remetente específico na instância do Sales Connect (essa opção está disponível somente para Administradores).</td>
+  <td>Filtrar por um remetente específico na instância do Sales Connect (essa opção está disponível somente para administradores).</td>
  </tr>
  <tr>
   <td><strong>Por grupo</strong></td>
   <td>Filtre emails por um grupo específico de recipients.</td>
  </tr>
  <tr>
-  <td><strong>Por Pessoa</strong></td>
+  <td><strong>Por pessoa</strong></td>
   <td>Filtrar por um recipient específico.</td>
  </tr>
 </table>
@@ -72,13 +73,13 @@ Escolha por data de criação, data de entrega, data de falha ou data programada
 
 **Campanhas**
 
-Filtre emails por participação de campanha.
+Filtrar emails por participação na campanha.
 
 ![](assets/advanced-search-overview-8.png)
 
 **Status**
 
-Há três status de email para escolher. As opções de tipo/atividade são alteradas com base no status selecionado.
+Há três status de email para escolher. As opções de tipo/atividade mudam com base no status selecionado.
 
 ![](assets/advanced-search-overview-9.png)
 
@@ -86,9 +87,9 @@ _**Status: Enviado**_
 
 ![](assets/advanced-search-overview-10.png)
 
-Filtros por atividade de email enviada. Você pode escolher exibições/nenhuma exibição, cliques/nenhum clique e/ou respostas/nenhuma resposta.
+Filtros de acordo com a atividade de email enviada. Você pode escolher exibições/sem exibições, cliques/sem cliques e/ou respostas/sem respostas.
 
-_**Status: Pending**_
+_**Status: Pendente**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -101,23 +102,23 @@ Filtra por todos os emails pendentes.
  </tr>
  <tr>
   <td><strong>Agendado</strong></td>
-  <td>Emails que foram agendados a partir da janela de composição (Salesforce ou o Web App), plug-ins de email ou uma campanha.</td>
+  <td>Emails que foram agendados na janela de composição (Salesforce ou Web App), plug-ins de email ou uma campanha.</td>
  </tr>
  <tr>
   <td><strong>Rascunhos</strong></td>
-  <td>Emails que estão atualmente no estado de rascunho. Os emails exigem uma linha de assunto e um recipient para serem salvos como rascunho.</td>
+  <td>Emails que estão atualmente em estado de rascunho. Os emails exigem uma linha de assunto e um recipient para serem salvos como rascunho.</td>
  </tr>
  <tr>
   <td><strong>em andamento</strong></td>
-  <td>Emails que estão sendo enviados. Os emails não devem permanecer nesse estado por mais de alguns segundos.</td>
+  <td>Emails que estão sendo enviados. Os emails não devem permanecer nesse estado por mais do que alguns segundos.</td>
  </tr>
 </table>
 
-_**Status: Não entregue**_
+_**Status: não entregue**_
 
 ![](assets/advanced-search-overview-12.png)
 
-Filtros por emails que nunca foram entregues.
+Filtra por emails que nunca foram entregues.
 
 <table>
  <tr>
@@ -126,15 +127,15 @@ Filtros por emails que nunca foram entregues.
  </tr>
  <tr>
   <td><strong>Falha</strong></td>
-  <td>Quando um email não é enviado do Sales Connect (os motivos comuns incluem: emails sendo enviados para contatos cancelados/bloqueados ou se houver um problema ao preencher os campos dinâmicos).</td>
+  <td>Quando um email não é enviado pelo Sales Connect (motivos comuns incluem: emails sendo enviados para contatos com assinatura cancelada/bloqueados ou se houve um problema ao preencher os campos dinâmicos).</td>
  </tr>
  <tr>
   <td><strong>Devolvido</strong></td>
-  <td>Um email é marcado como retornado quando é rejeitado pelo servidor do recipient. Somente emails que foram enviados via servidores do Sales Connect serão mostrados aqui.</td>
+  <td>Um email é marcado como rejeitado quando for rejeitado pelo servidor do destinatário. Somente os emails enviados pelos servidores do Sales Connect serão mostrados aqui.</td>
  </tr>
  <tr>
   <td><strong>Spam</strong></td>
-  <td>Quando o email foi marcado como spam (termo comum para email não solicitado) pelo recipient. Somente emails que foram enviados via servidores do Sales Connect serão mostrados aqui.</td>
+  <td>Quando o email foi marcado como spam (termo comum para email não solicitado) pelo recipient. Somente os emails enviados pelos servidores do Sales Connect serão mostrados aqui.</td>
  </tr>
 </table>
 
@@ -142,7 +143,7 @@ Filtros por emails que nunca foram entregues.
 
 Veja como criar uma pesquisa salva.
 
-1. Depois que todos os filtros estiverem em vigor, clique em **Salvar filtros como**.
+1. Depois que todos os filtros estiverem no lugar, clique em **Salvar filtros como**.
 
    ![](assets/advanced-search-overview-13.png)
 

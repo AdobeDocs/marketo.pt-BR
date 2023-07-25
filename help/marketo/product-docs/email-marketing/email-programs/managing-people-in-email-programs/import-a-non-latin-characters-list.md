@@ -1,9 +1,10 @@
 ---
 unique-page-id: 5472678
-description: Importar uma lista de caracteres não latinos - Documentos do Marketo - Documentação do produto
+description: Importar uma lista de caracteres não latinos - Documentação do Marketo - Documentação do produto
 title: Importar uma lista de caracteres não latinos
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -12,21 +13,21 @@ ht-degree: 0%
 
 # Importar uma lista de caracteres não latinos {#import-a-non-latin-characters-list}
 
-Tentando importar um arquivo que não esteja em inglês? A lista parece perfeita quando você a abre com o Excel.
+Tentando importar um arquivo que não está em inglês? A lista parece perfeita quando você a abre com o Excel.
 
 ![](assets/image2015-2-10-9-3a34-3a57.png)
 
-Mas ao importá-lo para o Marketo, você pode observar que os caracteres que não são em inglês não são coletados corretamente.
+Porém, ao importá-lo para o Marketo, você poderá observar que os caracteres que não estão em inglês não são selecionados corretamente.
 
 ![](assets/image2015-2-10-9-3a35-3a49.png)
 
-Isso ocorre porque o arquivo não é salvo corretamente para que o Marketo reconheça todos os caracteres não latinos. A boa notícia é que há alguns passos simples que você pode seguir para corrigi-la.
+Isso ocorre porque o arquivo não foi salvo corretamente para que o Marketo reconheça todos os caracteres não latinos. A boa notícia é que há algumas etapas simples que você pode seguir para corrigi-lo.
 
 1. Selecionar **Salvar como...** do **Arquivo** no Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Choose **UTF-16 Texto Unicode (.txt)** como **Formato** opção. Isso codificará o arquivo da maneira que o Marketo pode exibi-los.
+1. Escolher **Texto Unicode UTF-16 (.txt)** como o **Formato** opção. Isso codificará o arquivo da maneira que o Marketo puder exibi-los.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -34,11 +35,11 @@ Isso ocorre porque o arquivo não é salvo corretamente para que o Marketo recon
    >
    >O Marketo também é compatível com UTF-8, Shift-JIS ou EUC-JP.
 
-1. O Excel salvará o novo arquivo como um Arquivo de texto com uma extensão .txt. Mas também converte todas as vírgulas no arquivo em guias. Precisamos mudar de volta.
+1. O Excel salvará o novo arquivo como um Arquivo de Texto com uma extensão .txt. Mas ela também converte todas as vírgulas no arquivo em guias. Precisamos mudá-la de volta.
 
    >[!TIP]
    >
-   >Você pode abrir o arquivo de texto usando **Bloco de notas** se estiver usando o Windows ou **TextEdit** se estiver usando uma Mac.
+   >É possível abrir o arquivo de texto usando **Bloco de notas** se você estiver usando o Windows ou **EdiçãoDeTexto** se você estiver usando uma Mac.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -46,7 +47,7 @@ Isso ocorre porque o arquivo não é salvo corretamente para que o Marketo recon
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Selecionar **Localizar e Substituir...** do **Editar** menu.
+1. Selecionar **Localizar e substituir...** do **Editar** menu.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
@@ -58,16 +59,16 @@ Isso ocorre porque o arquivo não é salvo corretamente para que o Marketo recon
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 
-1. E voila, todas as vírgulas voltaram e estamos prontos para rodar.
+1. E voila, todas as vírgulas estão de volta e estamos prontos para rolar.
 
    ![](assets/image2015-2-10-10-3a14-3a45.png)
 
-1. Importe o novo arquivo para o Marketo e as informações devem ser exibidas corretamente desta vez.
+1. Importe o novo arquivo para o Marketo e as informações deverão ser exibidas corretamente desta vez.
 
    ![](assets/image2015-2-10-10-3a16-3a9.png)
 
    >[!NOTE]
    >
-   >Todos os campos de data/hora que estão sendo importados são tratados como Hora central. Se você tiver campos de data/hora em um fuso horário diferente, poderá usar uma fórmula do Excel para transformá-la em Hora Central (América/Chicago).
+   >Qualquer campo de data/hora que for importado será tratado como Hora central. Se você tiver campos de data/hora em um fuso horário diferente, poderá usar uma fórmula do Excel para transformá-la na Hora Central (América/Chicago).
 
-Sabemos que isso é estranho, mas funciona. Feliz importação!
+Sabemos que isso é estranho, mas funciona. Feliz Importação!

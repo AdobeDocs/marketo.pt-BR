@@ -1,32 +1,33 @@
 ---
 unique-page-id: 7516460
-description: Prepare o insight de vendas para suporte multilíngue no Salesforce - Documentos do Marketo - Documentação do produto
-title: Preparar informações de vendas para suporte multilíngue no Salesforce
+description: Prepare o Sales Insight para suporte multilíngue no Salesforce - Documentação do Marketo - Documentação do produto
+title: Prepare o Sales Insight para suporte multilíngue no Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 2%
 
 ---
 
-# Preparar informações de vendas para suporte multilíngue no Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
+# Prepare o Sales Insight para suporte multilíngue no Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-O Marketo Sales Insight é armazenado por idioma. Portanto, se você quiser que ele funcione para mais de uma língua, você terá que inserir as credenciais separadamente para cada língua.
+O Marketo Sales Insight é armazenado por idioma. Portanto, se você quiser que ele funcione em mais de um idioma, insira as credenciais separadamente para cada idioma.
 
 >[!NOTE]
 >
->O Sales Insight atualmente suporta:
+>O Sales Insight oferece suporte atualmente a:
 >
 >* Inglês
 >* Francês
 >* Alemão
 >
->Qualquer outro idioma é padronizado como inglês.
+>Qualquer outro idioma toma como padrão o inglês.
 
 ## Adicionar um novo idioma para o Marketo Sales Insight {#adding-a-new-language-for-marketo-sales-insight}
 
@@ -46,7 +47,7 @@ O Marketo Sales Insight é armazenado por idioma. Portanto, se você quiser que 
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. A interface do Salesforce agora está no idioma selecionado. Você pode clicar no botão **+** para ver todas as guias disponíveis.
+1. Sua interface do Salesforce agora está no idioma selecionado. Você pode clicar no link **+** ícone para ver todas as guias disponíveis.
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
@@ -54,7 +55,7 @@ O Marketo Sales Insight é armazenado por idioma. Portanto, se você quiser que 
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Ir para Marketo. Localize o [Insight sobre vendas da Marketo **Configuração da API** detalhes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Ir para Marketo. Localize seu [Marketo Sales Insight **Configuração da API** detalhes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
@@ -62,19 +63,19 @@ O Marketo Sales Insight é armazenado por idioma. Portanto, se você quiser que 
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
-## Alterar o Salesforce de volta para inglês {#change-salesforce-back-to-english}
+## Alterar Salesforce para inglês {#change-salesforce-back-to-english}
 
-Quando você terminar de personalizar sua organização do Salesforce, veja a seguir como retornar sua configuração pessoal para o inglês.
+Quando terminar de personalizar sua organização do Salesforce, veja como retornar sua configuração pessoal para inglês.
 
 >[!NOTE]
 >
->As capturas de tela a seguir estão em francês com instruções em inglês.  Você verá as mesmas telas com texto no idioma selecionado na etapa anterior.
+>As seguintes capturas de tela estão em francês, com instruções em inglês.  Você verá as mesmas telas com texto no idioma selecionado na etapa anterior.
 
 1. Em seu nome, clique em **Configuração**.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Clique em **Informações pessoais** under **Minhas informações pessoais**.
+1. Clique em **Informações pessoais** em **Minhas informações pessoais**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
@@ -86,4 +87,4 @@ Quando você terminar de personalizar sua organização do Salesforce, veja a se
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 
-   Agora seu Salesforce está de volta em inglês!
+   Agora, seu Salesforce está de volta em inglês!

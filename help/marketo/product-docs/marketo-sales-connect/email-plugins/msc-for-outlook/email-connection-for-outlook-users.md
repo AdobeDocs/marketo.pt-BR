@@ -1,26 +1,27 @@
 ---
 unique-page-id: 17727591
-description: Conexão de email para usuários do Outlook - Documentos do Marketo - Documentação do produto
+description: Conexão de email para usuários do Outlook - Documentação do Marketo - Documentação do produto
 title: Conexão de email para usuários do Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '352'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Conexão de email para usuários do Outlook {#email-connection-for-outlook-users}
 
-Saiba como conectar sua conta do Sales Connect com o Outlook.
+Saiba como conectar sua conta do Sales Connect ao Outlook.
 
 >[!NOTE]
 >
->Cada usuário precisa se conectar ao Outlook a partir de sua conta de Conexão de Vendas.
+>Cada usuário precisa se conectar ao Outlook a partir de sua conta do Sales Connect.
 
-## Ligar ao Outlook Online {#connecting-to-outlook-online}
+## Conectando ao Outlook Online {#connecting-to-outlook-online}
 
-Conectar-se ao Outlook significa que você receberá o rastreamento de respostas, o acesso ao canal de delivery do Outlook, a capacidade de agendar emails no Outlook e enviar conformidade.
+Conectar-se ao Outlook significa que você receberá rastreamento de resposta, acesso ao canal de entrega do Outlook, a capacidade de agendar emails no Outlook e enviar conformidade.
 
 1. No Sales Connect, clique no ícone de engrenagem e selecione **Configurações**.
 
@@ -30,7 +31,7 @@ Conectar-se ao Outlook significa que você receberá o rastreamento de respostas
 
    ![](assets/two.png)
 
-1. Clique no botão **Conexão de email** guia .
+1. Clique em **Conexão de email** guia.
 
    ![](assets/three.png)
 
@@ -38,11 +39,11 @@ Conectar-se ao Outlook significa que você receberá o rastreamento de respostas
 
    ![](assets/four.png)
 
-1. Selecionar **Eu uso o Outlook para enviar emails** e clique em **Próximo**.
+1. Selecionar **Eu uso o Outlook para enviar emails** e clique em **Próxima**.
 
    ![](assets/five-a.png)
 
-1. Selecione a versão do Outlook que está a utilizar e clique em **Próximo**. Neste exemplo, estamos escolhendo o Outlook Online.
+1. Selecione a versão do Outlook que você está usando e clique em **Próxima**. Neste exemplo, estamos escolhendo Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -61,13 +62,13 @@ Conectar-se ao Outlook significa que você receberá o rastreamento de respostas
 
    >[!NOTE]
    >
-   >A Marketo não oferece suporte a contas híbridas do Exchange no momento.
+   >No momento, a Marketo não oferece suporte a contas híbridas do Exchange.
 
 1. Clique em **OK**.
 
    ![](assets/seven-a.png)
 
-1. Se você não estiver conectado ao Outlook, insira as informações de logon e clique em **Próximo**. Se estiver, escolha a conta à qual deseja se conectar e clique em **Próximo**. Neste exemplo, já estamos conectados.
+1. Se você não estiver conectado ao Outlook, insira suas informações de logon e clique em **Próxima**. Se estiver, escolha a conta à qual deseja se conectar e clique em **Próxima**. Neste exemplo, já estamos conectados.
 
    ![](assets/eight-a.png)
 
@@ -81,9 +82,9 @@ Conectar-se ao Outlook significa que você receberá o rastreamento de respostas
    >
    >O Outlook Online (Office365) impõe seus próprios limites de envio. [Saiba mais aqui](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
-## Conexão com o Exchange no local {#connecting-to-exchange-on-premise}
+## Conectando-se ao Exchange no local {#connecting-to-exchange-on-premise}
 
-Conectar-se ao Exchange no local significa que você receberá o rastreamento de respostas, o acesso ao canal de delivery do Outlook, a capacidade de agendar emails no Outlook e enviar conformidade.
+Conectar-se ao Exchange no local significa que você receberá rastreamento de resposta, acesso ao canal de entrega do Outlook, a capacidade de agendar emails no Outlook e enviar conformidade.
 
 1. No Sales Connect, clique no ícone de engrenagem e selecione **Configurações**.
 
@@ -93,7 +94,7 @@ Conectar-se ao Exchange no local significa que você receberá o rastreamento de
 
    ![](assets/two.png)
 
-1. Clique no botão **Conexão de email** guia .
+1. Clique em **Conexão de email** guia.
 
    ![](assets/three.png)
 
@@ -101,11 +102,11 @@ Conectar-se ao Exchange no local significa que você receberá o rastreamento de
 
    ![](assets/four.png)
 
-1. Selecionar **Eu uso o Outlook para enviar emails** e clique em **Próximo**.
+1. Selecionar **Eu uso o Outlook para enviar emails** e clique em **Próxima**.
 
    ![](assets/five-a.png)
 
-1. Selecione a versão do Outlook que está a utilizar e clique em **Próximo**. Neste exemplo, estamos escolhendo Exchange no local.
+1. Selecione a versão do Outlook que você está usando e clique em **Próxima**. Neste exemplo, estamos escolhendo Exchange no local.
 
    ![](assets/six-b.png)
 
@@ -122,13 +123,13 @@ Conectar-se ao Exchange no local significa que você receberá o rastreamento de
     </tbody>
    </table>
 
-1. Insira suas credenciais e clique em **Connect**.
+1. Insira suas credenciais e clique em **Conectar**.
 
    ![](assets/seven-b.png)
 
    >[!NOTE]
    >
-   >Se você desativar o Autodiscover no menu suspenso Versão do Exchange, precisará solicitar ao departamento de TI o URL do Exchange.
+   >Se você desativar a Descoberta Automática no menu suspenso Versão do Exchange, será necessário solicitar ao departamento de TI a URL do Exchange.
 
    Você pode usar essa conexão para rastrear emails e também como um canal de delivery.
 

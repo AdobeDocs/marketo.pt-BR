@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359610
-description: Alterar o tamanho da fonte do formulário - Documentos do Marketo - Documentação do produto
+description: Altere o tamanho da fonte do formulário - Marketo Docs - Documentação do produto
 title: Alterar o tamanho da fonte do formulário
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 1%
@@ -12,11 +13,11 @@ ht-degree: 1%
 
 # Alterar o tamanho da fonte do formulário {#change-the-form-font-size}
 
-O Marketo facilita a personalização da aparência de seus formulários. Uma coisa que você pode querer fazer é alterar o tamanho da fonte. Veja como.
+O Marketo facilita a personalização da aparência dos formulários. Talvez você queira alterar o tamanho da fonte. Veja como.
 
 >[!TIP]
 >
->Essa configuração afeta o rótulo do formulário, o texto de entrada e o texto do botão Enviar.
+>Essa configuração afeta o rótulo do formulário, o texto de entrada e o texto do botão de envio.
 
 1. Ir para **Atividades de marketing**.
 
@@ -26,7 +27,7 @@ O Marketo facilita a personalização da aparência de seus formulários. Uma co
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Em **Configurações do formulário**, Selecione **Configurações**.
+1. Em **Configurações do formulário**, Selecionar **Configurações**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
@@ -42,13 +43,13 @@ O Marketo facilita a personalização da aparência de seus formulários. Uma co
 
    >[!NOTE]
    >
-   >O formulário deve ser aprovado para ser usado nas landing pages.
+   >O formulário deve ser aprovado para ser usado em landing pages.
 
    ![](assets/image2014-9-15-16-3a11-3a17.png)
 
    >[!NOTE]
    >
-   >Lembre-se de aprovar o rascunho da landing page criado pelas alterações do formulário.
+   >Lembre-se de aprovar o rascunho da página de aterrissagem criado pelas alterações do formulário.
 
    ![](assets/image2014-9-15-16-3a11-3a42.png)
 

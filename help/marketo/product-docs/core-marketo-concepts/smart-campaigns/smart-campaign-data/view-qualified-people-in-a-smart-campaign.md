@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1146966
-description: Exibir pessoas qualificadas em uma campanha inteligente - Documentos do Marketo - Documentação do produto
+description: Exibir pessoas qualificadas em uma campanha inteligente - Documentação do Marketo - Documentação do produto
 title: Exibir pessoas qualificadas em uma campanha inteligente
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -12,23 +13,23 @@ ht-degree: 0%
 
 # Exibir pessoas qualificadas em uma campanha inteligente {#view-qualified-people-in-a-smart-campaign}
 
-Exiba pessoas qualificadas para passar pelo fluxo ao executar uma campanha inteligente.
+Visualize pessoas qualificadas para passar pelo fluxo ao executar uma campanha inteligente.
 
-1. Em sua campanha inteligente, clique em Schedule (Agendar). No Status da Smart List, clique no primeiro link.
+1. Na campanha inteligente, clique em Schedule. No Status da Smart List, clique no primeiro link.
 
 ![](assets/qualifedpeople-hands.png)
 
 >[!NOTE]
 >
->Acionar campanhas inteligentes não exibem pessoas qualificadas, pois são executadas com base em eventos ao vivo.
+>Os acionadores de campanhas inteligentes não exibem pessoas qualificadas, pois são executadas com base em eventos dinâmicos.
 
-1. O **Pessoas qualificadas** lista as pessoas que se qualificaram para passar pelo fluxo quando a campanha é executada.
+1. A variável **Pessoas qualificadas** A guia lista as pessoas qualificadas para passar pelo fluxo quando a campanha é executada.
 
    ![](assets/qualifiedpeople-tab.png)
 
    >[!CAUTION]
    >
-   >A lista de Pessoas Qualificadas não contabiliza pessoas que estão bloqueadas ou atingiram seus limites de comunicação.
+   >A lista Pessoas Qualificadas não leva em conta as pessoas que estão bloqueadas ou atingiram seus limites de comunicação.
 
    >[!NOTE]
    >
@@ -38,7 +39,6 @@ Doce! Você pode usar essa lista para verificar quais pessoas podem passar pelo 
 
 >[!MORELIKETHIS]
 >
->* [Exibir membros da campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+>* [Exibir membros do Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
 >* [Exibir pessoas bloqueadas em uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
 >* [Adicionar uma etapa de fluxo a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-

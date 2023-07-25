@@ -1,27 +1,28 @@
 ---
-description: Uso do HTML - Documentação da Marketo - Documentação do produto
-title: Uso do HTML
+description: Uso do HTML - Documentação do Marketo - Documentação do produto
+title: Utilização do HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
-# Uso do HTML {#using-html}
+# Utilização do HTML {#using-html}
 
-1. Copie o código-fonte de seus emails na ferramenta usada para criar emails no HTML (por exemplo, Editor de email do Marketo).
+1. Copie o código-fonte de seus emails na ferramenta usada para criar emails no HTML (por exemplo, o Editor de email do Marketo).
 
 1. Selecione o modelo ao qual deseja adicionar o HTML.
 
    ![](assets/using-html-1.png)
 
-1. No cartão do Editor de modelos, clique em **Editar**.
+1. No cartão Editor de modelo, clique em **Editar**.
 
    ![](assets/using-html-2.png)
 
-1. Clique no botão **Origem** no editor de modelos.
+1. Clique em **Origem** no editor de modelos.
 
    ![](assets/using-html-3.png)
 
@@ -31,4 +32,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Se você vir o erro &quot;Erro - para remover as tags style/java/html&quot;, significa que você tem algum estilo que não oferecemos suporte. Você deve pesquisar o código-fonte para o estilo da palavra e excluir tudo do `<style>` through `</style>`.
+>Se você vir o erro &quot;Erro - para remover as tags style/java/html&quot;, significa que você tem algum estilo não compatível. Você deve pesquisar o estilo da palavra no código-fonte e excluir tudo de `<style>` até `</style>`.

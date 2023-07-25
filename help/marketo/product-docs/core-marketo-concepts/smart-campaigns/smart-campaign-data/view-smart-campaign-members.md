@@ -1,38 +1,39 @@
 ---
 unique-page-id: 1146937
-description: Exibir membros da campanha inteligente - Documentos do Marketo - Documentação do produto
-title: Exibir membros da campanha inteligente
+description: Exibir membros do Smart Campaign - Documentação do Marketo - Documentação do produto
+title: Exibir membros do Smart Campaign
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# Exibir membros da campanha inteligente {#view-smart-campaign-members}
+# Exibir membros do Smart Campaign {#view-smart-campaign-members}
 
-Exibir pessoas que já passaram pelo fluxo da campanha inteligente; ou seja, membros inteligentes da campanha.
+Visualize pessoas que já executaram o fluxo de campanha inteligente; ou seja, membros de campanha inteligentes.
 
 1. Ir para **Atividades de marketing**.
 
 ![](assets/login-marketing-activities.png)
 
-1. Em sua campanha inteligente, clique em **Exibir membros da campanha**.
+1. Na campanha inteligente, clique em **Exibir membros da campanha**.
 
    ![](assets/changescore-hands.png)
 
 >[!TIP]
 >
->Você pode visualizar membros da campanha de qualquer lugar dentro de uma campanha inteligente.
+>Você pode visualizar membros da campanha de qualquer lugar em uma campanha inteligente.
 
-1. O **Membros da campanha** mostra pessoas que já passaram pelo fluxo da campanha inteligente.
+1. A variável **Membros da campanha** mostra pessoas que já passaram pelo fluxo de campanha inteligente.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
    >[!NOTE]
    >
-   >A lista Membros da campanha estará inicialmente vazia quando a campanha inteligente não tiver sido executada em nenhuma pessoa.
+   >A lista de Membros da campanha estará inicialmente vazia quando a campanha inteligente não for executada em nenhuma pessoa.
 
    >[!MORELIKETHIS]
    >

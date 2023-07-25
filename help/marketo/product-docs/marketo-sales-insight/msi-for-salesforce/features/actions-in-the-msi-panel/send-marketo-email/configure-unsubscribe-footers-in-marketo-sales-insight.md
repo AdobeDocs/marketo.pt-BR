@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2953373
-description: Configurar rodapés de cancelamento de inscrição no Marketo Sales Insight - Documentos da Marketo - Documentação do produto
-title: Configurar rodapés de cancelamento de inscrição no Marketo Sales Insight
+description: Configurar os rodapés de cancelamento de inscrição no Marketo Sales Insight - Documentação do Marketo - Documentação do produto
+title: Configurar o cancelamento de inscrição de rodapés no Marketo Sales Insight
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
 
-# Configurar rodapés de cancelamento de inscrição no Marketo Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
+# Configurar o cancelamento de inscrição de rodapés no Marketo Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
-Os emails de vendas colocam automaticamente o rodapé de cancelamento de inscrição na parte inferior. No entanto, você pode ajustar as configurações para atender às suas necessidades.
+Emails de vendas colocam automaticamente o rodapé de cancelamento de inscrição na parte inferior. No entanto, você pode ajustar as configurações para atender às suas necessidades.
 
 >[!NOTE]
 >
@@ -22,38 +23,38 @@ Os emails de vendas colocam automaticamente o rodapé de cancelamento de inscri�
 >
 >**Definição**
 >
->**Emails de vendas** são enviadas do Sales Insight (não inclui as enviadas pelo plug-in do Marketo Outlook).
+>**Emails de vendas** são os enviados do Sales Insight (não inclui os enviados do plug-in do Marketo Outlook).
 
-1. Vá para o **Administrador** área.
+1. Vá para a **Admin** área.
 
    ![](assets/one-1.png)
 
-1. Clique em **Insight de vendas**, em seguida **Editar configurações**.
+1. Clique em **Sales Insight**, depois **Editar configurações**.
 
    ![](assets/two-1.png)
 
-   Há várias opções. Primeiro vamos analisar os tipos de emails para os quais você pode alterar as configurações.
+   Há várias opções. Primeiro, vamos analisar os tipos de emails para os quais você pode alterar as configurações.
 
    ![](assets/three-1.png)
 
-   * **Sem modelo** - Composto manualmente pelo usuário de vendas.
-   * **Email padrão** - Emails com base em um template.
-   * **Email operacional** - Emails que ignoram a assinatura cancelada, o marketing suspenso e os limites de comunicação (eles enviam independentemente do que for).
+   * **Nenhum modelo** - Composto manualmente pelo usuário de vendas.
+   * **Email Padrão** - Emails com base em um modelo.
+   * **E-mail operacional** - Emails que ignoram os limites de cancelamento de assinatura, suspensão de marketing e comunicação (enviam independentemente do que for).
 
    Você tem a opção de definir comportamentos diferentes para cada tipo.
 
    >[!CAUTION]
    >
-   >**Respeitar configurações de cancelamento de inscrição**: os leads cancelados NÃO receberão o email mesmo se o email publicado for &quot;operacional&quot;
+   >**Respeitar as configurações de cancelamento de inscrição**: os clientes potenciais com assinatura cancelada NÃO receberão o email mesmo se o email publicado for &quot;operacional&quot;
    >
-   >**Ignorar configurações de cancelamento de inscrição**: os leads não subscritos receberão o email
+   >**Ignorar configurações de cancelamento de inscrição**: clientes potenciais com assinatura cancelada RECEBERÃO o email
 
 1. Faça as alterações desejadas e clique em **Salvar**.
 
    >[!TIP]
    >
-   >As duas últimas opções permitem incluir/excluir dinamicamente o rodapé de cancelamento de inscrição, dependendo do número de recipients (maior que 1 ou maior que 5).
+   >As duas últimas opções permitem incluir/excluir dinamicamente o rodapé de cancelamento de inscrição, dependendo do número de recipients (maiores que 1 ou maiores que 5).
 
    ![](assets/four-1.png)
 
-Uau! Um pouco complicado, mas bastante flexível, certo?
+Ufa! Um pouco complicado, mas muito flexível, certo?

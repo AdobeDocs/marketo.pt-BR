@@ -1,26 +1,27 @@
 ---
 unique-page-id: 4720377
-description: Referência a uma lista ou lista inteligente em espaços de trabalho - Documentos do Marketo - Documentação do produto
-title: Referência a uma lista ou lista inteligente em espaços de trabalho
+description: Fazer referência a uma lista ou lista inteligente em espaços de trabalho - Documentação do Marketo - Documentação do produto
+title: Fazer referência a uma lista ou lista inteligente em espaços de trabalho
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# Referência a uma lista ou lista inteligente em espaços de trabalho {#reference-a-list-or-smart-list-across-workspaces}
+# Fazer referência a uma lista ou lista inteligente em espaços de trabalho {#reference-a-list-or-smart-list-across-workspaces}
 
-Listas e listas inteligentes podem ser compartilhadas e referenciadas em espaços de trabalho para fácil reutilização do Banco de Dados.
+Listas e listas inteligentes podem ser compartilhadas e referenciadas em espaços de trabalho para fácil reutilização do banco de dados.
 
 >[!NOTE]
 >
->As regras de partição da pessoa são aplicadas (listas inteligentes e listas estáticas em um espaço de trabalho mostram apenas pessoas que são membros da lista *e* membros do espaço de trabalho atual).
+>As regras de partição de pessoa se aplicam (listas inteligentes e listas estáticas em um espaço de trabalho) e mostram apenas as pessoas que são membros da lista *e* membros do espaço de trabalho atual).
 
 ## Compartilhar uma lista ou lista inteligente  {#share-a-list-or-smart-list}
 
-1. Vá para o **Banco de dados**.
+1. Vá para a **Banco de dados**.
 
    ![](assets/db-1.png)
 
@@ -28,7 +29,7 @@ Listas e listas inteligentes podem ser compartilhadas e referenciadas em espaço
 
    >[!NOTE]
    >
-   >Os ativos só podem ser compartilhados em espaços de trabalho se estiverem aninhados em uma pasta.
+   >Os ativos só podem ser compartilhados entre espaços de trabalho se estiverem aninhados em uma pasta.
 
    ![](assets/two-4.png)
 
@@ -40,7 +41,7 @@ Listas e listas inteligentes podem ser compartilhadas e referenciadas em espaço
 
    ![](assets/four-3.png)
 
-1. Escolha um **Workspace** compartilhar com o . Selecionar **Salvar**.
+1. Escolha um **Workspace** para compartilhar com a. Selecionar **Salvar**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -48,4 +49,4 @@ Listas e listas inteligentes podem ser compartilhadas e referenciadas em espaço
 
    >[!NOTE]
    >
-   >Nas Atividades de marketing, você só pode compartilhar pastas de nível superior. No Banco de dados, você pode compartilhar pastas de nível superior e um nível abaixo.
+   >Em Atividades de marketing, você só pode compartilhar pastas de nível superior. No Banco de Dados, você pode compartilhar pastas de nível superior e de nível inferior.

@@ -1,21 +1,22 @@
 ---
 unique-page-id: 2949281
-description: Emita uma licença do Marketo Email Add-in - Marketo Docs - Documentação do produto
-title: Emitir uma licença do complemento de email do Marketo
+description: Emita uma licença do complemento de email do Marketo - Documentação do Marketo - Documentação do produto
+title: Emitir uma licença do Marketo Email Add-in
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 2%
 
 ---
 
-# Emitir uma licença do complemento de email do Marketo {#issue-a-marketo-email-add-in-license}
+# Emitir uma licença do Marketo Email Add-in {#issue-a-marketo-email-add-in-license}
 
-Qualquer pessoa que deseje usar o Suplemento Marketo Email Outlook deve primeiro receber uma licença. Há duas maneiras de fornecer a licença.
+Qualquer pessoa que quiser usar o Suplemento de Email do Outlook para Marketo deve receber uma licença primeiro. Há duas maneiras de fornecer a licença.
 
-* **[Instalação da chave da empresa](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**: Use esse método quando os representantes de vendas não tiverem direitos de administrador para seus laptops corporativos e não puderem instalar plug-ins, software etc. sobre isso. Nesse caso, o Administrador do Marketo emite licenças para uma lista de usuários autorizados. Em seguida, a equipe de TI implanta remotamente o plug-in em todos os computadores dos usuários autorizados usando a chave empresarial. O usuário do plug-in o autoriza.
-* **[Instalação do código de registro](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**: Use esse método quando os representantes de vendas tiverem direitos de administrador em seu laptop corporativo e puderem instalar plug-ins, software etc. sobre isso. Para esse processo, o administrador do Marketo emite licenças para uma lista de usuários autorizados e envia emails de registro diretamente com links de download. O representante de vendas recebe um email com um link de download de plug-in e um URL de registro exclusivo.
+* **[Instalação da Chave Corporativa](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**: use esse método quando os representantes de vendas não tiverem direitos de administrador em seus laptops corporativos e não puderem instalar plug-ins, softwares, etc. nele. Nesse caso, o administrador do Marketo emite licenças para uma lista de usuários autorizados. Em seguida, a equipe de TI implanta remotamente o plug-in nos computadores de todos os usuários autorizados usando a chave corporativa. O usuário do plug-in o autoriza.
+* **[Instalação do código de registro](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**: use esse método quando os representantes de vendas tiverem direitos de administrador no laptop corporativo e puderem instalar plug-ins, software, etc. nele. Para esse processo, o administrador do Marketo emite licenças para uma lista de usuários autorizados e envia emails de registro diretamente com links de download. O representante de vendas recebe um email com um link de download de plug-in e um URL de registro exclusivo.
 
 >[!AVAILABILITY]
 >
@@ -25,11 +26,11 @@ Qualquer pessoa que deseje usar o Suplemento Marketo Email Outlook deve primeiro
 >
 >**Permissões de administrador necessárias**
 
-1. Em Minha Marketo, clique em Admin e, em seguida, em Sales Insight.
+1. Em Meu Marketo, clique em Admin e, em seguida, em Sales Insight.
 
 ![](assets/image2015-7-20-17-3a48-3a17.png)
 
-1. Em **Suplemento de email** clique em **Emitir licença**.
+1. No **Suplemento de email** clique em **Emitir licença**.
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 
@@ -39,17 +40,16 @@ Qualquer pessoa que deseje usar o Suplemento Marketo Email Outlook deve primeiro
 
    >[!TIP]
    >
-   >É possível inserir vários endereços de email separados por vírgula.
+   >É possível inserir vários endereços de email, separados por vírgula.
 
    >[!NOTE]
    >
    >Para instalar o plug-in remotamente, deixe a caixa de seleção desmarcada e envie sua equipe de TI para [Chave da empresa](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >Se seus representantes de vendas tiverem acesso de administrador aos computadores, marque a caixa e você acabou!
+   >Se os seus representantes de vendas tiverem acesso de administrador aos computadores deles, marque a caixa e pronto!
 
 >[!MORELIKETHIS]
 >
->* [Instalar o complemento Marketo para Outlook com uma chave corporativa](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
->* [Instalar o Suplemento de Email do Marketo para Outlook com um Código de Registro](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
+>* [Instalar o Suplemento Marketo para Outlook com uma Chave Empresarial](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
+>* [Instale o Suplemento de email do Marketo para Outlook com um código de registro](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
 >* [Atualizar o Suplemento de Email do Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
-

@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359537
-description: Adicionar um trecho a uma página de aterrissagem - Documentos do Marketo - Documentação do produto
-title: Adicionar um trecho a uma página de aterrissagem
+description: Adicionar um trecho a uma página de aterrissagem - Documentação do Marketo - Documentação do produto
+title: Adicionar um snippet a uma landing page
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-# Adicionar um trecho a uma página de aterrissagem {#add-a-snippet-to-a-landing-page}
+# Adicionar um snippet a uma landing page {#add-a-snippet-to-a-landing-page}
 
-Os trechos são pequenos pedaços de HTML que podem seguir regras e conter conteúdo personalizado.
+Os snippets são pequenos bits de HTML que podem seguir regras e manter conteúdo personalizado.
 
 >[!PREREQUISITES]
 >
@@ -22,11 +23,11 @@ Os trechos são pequenos pedaços de HTML que podem seguir regras e conter conte
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. No editor de landing page, arraste o **Snippet** elemento.
+1. No editor de páginas de destino, arraste sobre a **Trecho** elemento.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. Encontre o trecho, selecione-o e clique em **Salvar**.
+1. Localize o trecho, selecione-o e clique em **Salvar**.
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 
@@ -36,6 +37,6 @@ Os trechos são pequenos pedaços de HTML que podem seguir regras e conter conte
 
    >[!NOTE]
    >
-   >Se você deseja adicionar um trecho a uma página de aterrissagem guiada, consulte [este artigo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Se quiser adicionar um trecho a uma landing page guiada, consulte [este artigo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
-Um ótimo trabalho! Agora você sabe como adicionar trechos às suas páginas de aterrissagem.
+Ótimo trabalho! Agora você sabe como adicionar trechos às suas páginas de aterrissagem.
