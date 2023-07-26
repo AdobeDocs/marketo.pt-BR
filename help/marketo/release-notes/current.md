@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
 workflow-type: tm+mt
-source-wordcount: '780'
-ht-degree: 7%
+source-wordcount: '667'
+ht-degree: 9%
 
 ---
 
@@ -56,11 +56,11 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 Os seguintes recursos seguem um formato Agile e são lançados em várias datas antes ou depois da data de lançamento padrão. Verifique abaixo cada recurso para obter seu status.
 
-### Chat dinâmico {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Fonte do chat para bate-papo dinâmico**: &quot;Chat&quot; agora é oferecido como uma fonte de novos registros e atividades de pessoas. Essa fonte pode ser usada para ajudar os usuários a filtrar atividades em Smart Lists/Campanhas. A origem também pode ser bloqueada contra atualizações nos campos.
+* **Fonte de chat para Dynamic Chat**: &quot;Chat&quot; agora é oferecido como uma fonte de novos registros e atividades de pessoas. Essa fonte pode ser usada para ajudar os usuários a filtrar atividades em Smart Lists/Campanhas. A origem também pode ser bloqueada contra atualizações nos campos.
 
 <table> 
   <tr> 
@@ -177,14 +177,6 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 </table>
 
 ## Anúncios {#announcements}
-
-Há duas melhorias chegando para a Personalização em tempo real do Marketo Engage.
-
-* **Atualização para jQuery 3.7**: para melhorar a segurança e a estabilidade, o Marketo está atualizando para jQuery 3.7.0. Os usuários do RTP que não carregam seu próprio jQuery não serão afetados negativamente, pois o Marketo está alterando a versão padrão carregada de rtp.js. No entanto, se você for um usuário RTP com uma versão do jQuery anterior a 3.0.0, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para obter ajuda com a implementação de uma versão personalizada do rtp.js que atenderá às suas necessidades.
-
->[!NOTE]
->
->Faça parceria com sua equipe de desenvolvimento na Web para determinar se seu site está carregando sua própria biblioteca de consulta JQ ou utilizando a versão padrão carregada da tag JavaScript RTP de personalização da Web.
 
 * **Atualizar para Google Analytics 4**: o Marketo suportava anteriormente o Universal Analytics, que deixará de gravar dados até 1º de julho de 2023. Os usuários do RTP precisarão seguir o processo de migração no painel de Google Analytics para concluir o suporte à integração Google Analytics 4 no RTP. Além disso, os usuários terão uma tag alfanumérica exclusiva (localizada na `<head>` do html) nas páginas de aterrissagem que permite que o Marketo envie dados para o Google Analytics.
 
