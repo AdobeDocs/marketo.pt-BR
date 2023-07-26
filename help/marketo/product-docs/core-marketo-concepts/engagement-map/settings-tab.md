@@ -4,16 +4,16 @@ title: Guia Configurações
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '333'
 ht-degree: 1%
 
 ---
 
 # Guia Configurações {#settings-tab}
 
-A guia Settings é a página inicial de todas as configurações da campanha, incluindo os mesmos conjuntos de permissões e o acesso da guia Schedule. VISITAR ESTA GUIA NÃO IRÁ INTERROMPER??? CONSIDERE DESCARTAR OU REFORMULAR - LOPA CONFIRMARÁ - Não interromperá nenhuma configuração de campanha existente.
+A guia Settings é o local de todas as configurações da campanha, incluindo os mesmos conjuntos de permissões e acesso que a guia Schedule em Smart Campaigns.
 
 Ele inclui as três seções a seguir.
 
@@ -58,9 +58,13 @@ A guia Configurações também inclui uma visão geral rápida da sua lista inte
 
 Conjuntos de permissões e erros na guia Configurações:
 
-Todos os conjuntos de permissões existentes serão aplicáveis na guia Configurações. Se o botão Editar estiver acinzentado, significa que você não tem permissões para executar edições e precisaria entrar em contato com o administrador do Marketo.
+Todos os conjuntos de permissões existentes serão aplicáveis na guia Configurações. Se o botão Editar estiver acinzentado, clique no ícone de ajuda para descobrir o motivo.
 
-ADICIONAR DESCRIÇÃO SOBRE COMO CANCELAR EXECUÇÕES PROGRAMADAS - CONFIRMAR COM LOPA APÓS ENCERRAR —> Se um usuário não tiver acesso para editar configurações da campanha, ele também não terá acesso para cancelar nenhuma execução programada.
+>[!NOTE]
+>
+>Se, depois de clicar no ícone de ajuda, você visualizar &quot;Permissão adicional necessária&quot;, entre em contato com o administrador do Marketo.
+
+REDUNDANTE CONFORME EXPLICADO ACIMA, PODEMOS REMOVER —> Se um usuário não tiver acesso para editar configurações da campanha, ele também não terá acesso para cancelar nenhuma execução programada.
 
 ![](assets/settings-tab-5.png)
 

@@ -4,9 +4,9 @@ title: Visão geral do mapa de engajamento
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Navegue até qualquer campanha existente e clique no link **Mapa de engajamento*
 
 CAPTURA DE TELA
 
-Uma vez no Mapa de engajamento, você verá duas guias: [Mapa de engajamento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}.
+Uma vez no Mapa de engajamento, você verá duas guias: [Mapa de engajamento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 CAPTURA DE TELA
 
-CABEÇALHO - DESCRIÇÕES DO CARTÃO? - LOPA CONFIRMARÁ
+## Descrições do cartão {#card-descriptions}
 
 **Triggers**: em campanhas que incluem acionadores, o mapa terá um cartão &quot;Visão geral do acionador&quot;. Clicar nesse ícone revelará um cartão para cada acionador, bem como um painel deslizante com informações adicionais.
 
@@ -43,7 +43,7 @@ CABEÇALHO - DESCRIÇÕES DO CARTÃO? - LOPA CONFIRMARÁ
 
 ## Campanhas aninhadas {#nested-campaigns}
 
-* Se uma campanha incluir uma etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo mostrará detalhes da campanha que está sendo chamada, bem como um painel deslizante com informações adicionais. (A campanha aninhada também incluirá um comprimido de fechamento. Clicar nele recolherá as cartas associadas à campanha aninhada.) !!!!!!!!!!! - REESCREVER OU REMOVER - LOPA CONFIRMARÁ
+* Se uma campanha incluir uma etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo mostrará detalhes da campanha que está sendo chamada, bem como um painel deslizante com informações adicionais.
 
 * Se uma campanha incluir uma etapa do fluxo Solicitar ou Executar Campanha com opções, clicar no cartão de fluxo mostrará um cartão de opções, bem como um painel deslizante com mais informações sobre as opções. Clicar em cada cartão de opção mostrará detalhes da campanha sendo chamada, bem como um painel deslizante com mais informações.
 
@@ -65,7 +65,7 @@ A navegação superior inclui os seguintes recursos:
 
 * Editar lista inteligente - você será direcionado para a interface da lista inteligente em uma nova guia, na qual poderá adicionar ou editar sua lista inteligente
 
-* Editar fluxo - você será direcionado para a interface de Fluxo em uma nova guia, na qual poderá adicionar ou editar sua lista inteligente
+* Editar fluxo - você será direcionado para a interface de Fluxo em uma nova guia, na qual poderá adicionar ou editar sua Lista inteligente
 
 * Exportar — essa ação baixará uma imagem da visualização da campanha. A versão baixada refletirá todas as ramificações expandidas
 

@@ -4,9 +4,9 @@ title: Guia Mapa de engajamento
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '965'
 ht-degree: 0%
 
 ---
@@ -94,72 +94,72 @@ Etapas de fluxo: se uma etapa de fluxo não _não_ inclua quaisquer opções, es
 
 ## Visualização de uma campanha de execução aninhada {#visualizing-a-nested-execute-campaign}
 
-EDIÇÃO ESCOLHIDA DE VOLTA AQUI—
+Executar campanhas executadas em série com a campanha principal. As pessoas qualificadas para uma campanha executável concluem todas as etapas de fluxo da campanha e retornam à campanha principal para continuar pelas etapas de fluxo desta campanha.
 
-Executar campanhas executadas em série com os pais da campanha - pessoas qualificadas para uma campanha executável concluem todas as etapas do fluxo da campanha e retornam à campanha principal para continuar pelas etapas do fluxo desta campanha.
-
-Veja abaixo um exemplo de uma campanha inteligente, &quot;Campanha A&quot;, que inclui uma etapa para executar o fluxo da campanha. Pense na &quot;Campanha A&quot; como sua campanha principal.
+Veja abaixo um exemplo de uma Campanha inteligente, &quot;Campanha A&quot;, que inclui uma etapa para executar o fluxo da campanha. Pense na &quot;Campanha A&quot; como sua campanha principal.
 
 ![](assets/engagement-map-tab-11.png)
 
 1. Clicar no cartão de fluxo executar campanha expandirá para mostrar detalhes da &quot;Campanha B&quot;.
-1. A &quot;Campanha B&quot; inclui um filtro que se ramifica em público qualificado e não qualificado.
+1. A &quot;Campanha B&quot; inclui um filtro que divide o público em dois grupos: qualificado e não qualificado.
 1. O público qualificado passa pelas etapas de fluxo associadas à &quot;Campanha B&quot;.
 1. Todo o público (qualificado e não qualificado) retorna para a &quot;Campanha A&quot; e avança para a próxima etapa do fluxo.
 
-EDIÇÃO INTERROMPIDA AQUI—
+   ![](assets/engagement-map-tab-12.png)
 
-![](assets/engagement-map-tab-12.png)
-
-Você pode clicar na etapa Executar fluxo de campanha na &quot;Campanha B&quot;, que se expandirá para mostrar cartões de escolha e campanha associados a cada escolha.
+Você pode clicar na etapa Executar fluxo da campanha na &quot;Campanha B&quot;, que se expandirá para mostrar os cartões de escolha e a campanha associada a cada escolha.
 
 ![](assets/engagement-map-tab-13.png)
 
 ## Visualização da campanha de solicitação {#visualizing-request-campaign}
 
-As campanhas de solicitação são executadas em paralelo com a campanha principal, ou seja, clientes potenciais qualificados para uma campanha de solicitação concluem todas as etapas de fluxo da campanha e saem dela. Paralelamente, o mesmo conjunto de clientes potenciais também passará pelas etapas de fluxo da campanha principal
+As campanhas de solicitação são executadas em paralelo com a campanha principal. As pessoas qualificadas para uma campanha de solicitação concluem todas as etapas de fluxo da campanha e saem da campanha. Simultaneamente, o mesmo conjunto de pessoas passa pelas etapas de fluxo da campanha principal.
 
-Este é um exemplo de uma campanha inteligente &quot;Campanha A&quot; que inclui uma etapa de solicitação de fluxo de campanha. Pense na &quot;Campanha A&quot; como a campanha principal.
+Este é um exemplo de uma Campanha inteligente, &quot;Campanha A&quot;, que inclui uma etapa de solicitação de fluxo de campanha. Pense na &quot;Campanha A&quot; como sua campanha principal.
 
 ![](assets/engagement-map-tab-14.png)
 
-1. Clicar no cartão de fluxo de campanha de solicitação expandirá para mostrar detalhes da &quot;Campanha B&quot;
-1. A Campanha B inclui um filtro que se ramifica para o público qualificado.
-1. O público qualificado passa pelas etapas de fluxo associadas à &quot;Campanha B&quot;
-1. Paralelamente, todo o público-alvo passa para as próximas etapas de fluxo na &quot;Campanha A&quot;
+1. Clicar no cartão de fluxo de campanha de solicitação se expandirá para mostrar os detalhes da &quot;Campanha B&quot;
+1. A &quot;Campanha B&quot; inclui um filtro que divide o público em dois grupos: qualificado e não qualificado.
+1. O público qualificado passa pelas etapas de fluxo associadas à &quot;Campanha B&quot;.
+1. Ao mesmo tempo, todo o público-alvo passa para as próximas etapas do fluxo na &quot;Campanha A&quot;.
 
    ![](assets/engagement-map-tab-15.png)
 
-Você pode se aprofundar em campanhas aninhadas, se qualquer uma das etapas do fluxo incluir mais uma campanha de solicitação clicando no cartão de fluxo para exibir detalhes da campanha
+Você pode se aprofundar em suas campanhas aninhadas se qualquer uma das etapas do fluxo incluir outra campanha de solicitação clicando no cartão de fluxo para visualizar os detalhes da campanha.
 
 ![](assets/engagement-map-tab-16.png)
 
-Este é um exemplo de campanha de solicitação com opções.
+Este é um exemplo de uma campanha de solicitação com opções.
 
 ![](assets/engagement-map-tab-17.png)
 
 ## Tratamento de erros {#error-handling}
 
-Os erros na lista inteligente e nas etapas de fluxo serão destacados por meio do ícone de erro no cartão. Além disso, a mensagem de erro correspondente será refletida no painel deslizante.
+Os erros nas Smart Lists e nas etapas de fluxo serão destacados por meio de um ícone de erro no cartão. Além disso, uma mensagem de erro correspondente será refletida no painel deslizante.
 
-Este é um exemplo de erro no acionador que será indicado no cartão de visão geral do acionador, no painel deslizante e no cartão de acionador detalhado
+Veja abaixo um exemplo de erro em um acionador que aparece no cartão de visão geral do acionador, no painel deslizante e no cartão de acionador detalhado.
 
 ![](assets/engagement-map-tab-18.png)
 
 ![](assets/engagement-map-tab-19.png)
 
-O erro no cartão de filtro pode incluir
+**Os erros nos cartões de filtro podem incluir:**
 
-Erro na lista inteligente que resultará na não exibição do público qualificado
+* Um erro na Smart List que resultará na não exibição do público qualificado
 
-Erro na lógica do filtro
+* Um erro na lógica do filtro
 
-Erro em restrições ou falta delas em um ou mais filtros
+* Um erro em restrições (ou falta delas) em um ou mais filtros
 
-![](assets/engagement-map-tab-20.png)
+  ![](assets/engagement-map-tab-20.png)
 
-Não inserir valores (atributos) não será sinalizado como erro, continuará a funcionar como na guia Fluxo. Portanto, as campanhas existentes não serão interrompidas. No entanto, quando as etapas de fluxo não incluírem atributos, eles serão exibidos como avisos.
+Não inserir valores (atributos) não resultará em erro, ele continuará a funcionar como na guia Fluxo. Portanto, as campanhas existentes não serão interrompidas. No entanto, quando as etapas de fluxo não incluírem atributos, eles serão exibidos como avisos.
+
+^^^ PRECISAMOS MESMO DISSO? O CLIENTE NÃO VERÁ UM AVISO??
 
 ![](assets/engagement-map-tab-21.png)
 
-Observação: os erros em uma campanha aninhada não estarão visíveis até que você clique para expandir a campanha aninhada
+>[!NOTE]
+>
+>Os erros em uma campanha aninhada não estarão visíveis até que você clique para expandir a campanha aninhada.
