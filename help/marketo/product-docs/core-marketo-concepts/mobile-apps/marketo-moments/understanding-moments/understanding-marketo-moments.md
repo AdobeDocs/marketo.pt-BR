@@ -4,9 +4,9 @@ description: Noções básicas sobre o Marketo Moments - Documentação do Marke
 title: Noções básicas sobre o Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 5%
 
 ---
@@ -15,10 +15,13 @@ ht-degree: 5%
 
 A força do Marketo agora está literalmente nas suas mãos! Visualize e reagende e-mails diretamente de seu celular ou iPad.
 
->[!AVAILABILITY]
->
+>[!NOTE]
 >
 >A permissão para acessar aplicativos móveis é necessária. Entre em contato com o administrador do Marketo para [atualizar sua função](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
+>[!AVAILABILITY]
+>
+>Este aplicativo não é compatível com [Autenticação de identidade Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} neste momento.
 
 ## Fluxos {#streams}
 
@@ -125,7 +128,7 @@ Os cartões Momento do Analytics mostram como seus emails e eventos estão se sa
 
 ## Cartões de execução de campanha inteligente {#smart-campaign-run-cards}
 
-Os cartões de campanha inteligentes representam uma única execução de uma campanha. Um novo cartão é exibido toda vez que a campanha inteligente é executada. Toque para ver os filtros de lista inteligente usados, o fluxo da campanha e cada um dos emails usados na campanha.
+Os cartões de campanha inteligentes representam uma única execução de uma campanha. Um novo cartão é exibido toda vez que a campanha inteligente é executada. Toque para ver os filtros da lista inteligente usados, o fluxo da campanha e cada um dos emails usados na campanha.
 
 ![](assets/image2015-9-23-11-3a0-3a54.png)
 
