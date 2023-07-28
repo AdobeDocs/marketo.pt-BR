@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: 5b52f8fb9a7d2f19e271ec3f48d0f3499e2ef00f
 workflow-type: tm+mt
-source-wordcount: '8996'
+source-wordcount: '9001'
 ht-degree: 5%
 
 ---
@@ -305,7 +305,7 @@ ht-degree: 5%
                + [Usar uma duração em uma etapa de fluxo de espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
                + [Usar uma Data Específica em uma Etapa de Fluxo de Espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
          + Ações de fluxo do programa {#program-flow-actions}
-            + [Adicionar ao programa de envolvimento](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
+            + [Adicionar ao programa de engajamento](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
             + [Alterar cadência do programa de envolvimento](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)
             + [Alterar fluxo do programa de envolvimento](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
             + [Alterar status do programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
@@ -317,7 +317,7 @@ ht-degree: 5%
             + [Criar tarefa no Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [Sincronizar pessoa com a Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
          + Ações de fluxo do Salesforce {#salesforce-flow-actions}
-            + [Adicionar à campanha da SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
+            + [Adicionar à campanha do SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
             + [Alterar proprietário](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
             + [Alterar status de campanha da SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)
             + [Criar tarefa](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
@@ -621,14 +621,14 @@ ht-degree: 5%
          + [Adicionar a correspondência do cliente do Google como um serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Enviar uma lista para uma rede de publicidade](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
-      + Chat dinâmico {#dynamic-chat}
+      + Dynamic Chat {#dynamic-chat}
          + [Visão geral do Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configuração inicial](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Adicionar ou Remover Usuários do Chat](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Notificações do navegador](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Configuração](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Comportamento do Chatbot](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Atividades de chat dinâmicas](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Atividades Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Agendamento de Compromissos {#appointment-scheduling}
             + [Calendário](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Reuniões](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
@@ -927,7 +927,7 @@ ht-degree: 5%
             + [Enviar email de preenchimento de oferta de referência](product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)
             + [Especificar Meta para Oferta de Referência](product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
          + Funções sociais {#social-functions}
-            + [Adicionar um botão do Social em uma landing page](product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)
+            + [Adicionar um botão do Social em uma página de aterrissagem](product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)
             + [Adicionar um vídeo](product-docs/demand-generation/social/social-functions/add-a-video.md)
             + [Adicionar sua política de privacidade a um aplicativo social](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
             + [Escolha o URL de compartilhamento para um aplicativo social](product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)
@@ -958,6 +958,8 @@ ht-degree: 5%
          + [Endereços IP Compartilhados e Dedicados](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [Noções básicas sobre o cancelamento de inscrição](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [Use seus endereços IP dedicados para enviar emails](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
+         + Rastreador de caixa de entrada {#inbox-tracker}
+            + [Tutorials do rastreador da caixa de entrada](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
       + Alimentação por Gotejamento {#drip-nurturing}
          + Criação de um programa de engajamento {#creating-an-engagement-program}
             + [Adicionar um fluxo](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
@@ -1494,7 +1496,7 @@ ht-degree: 5%
          + Recursos {#features}
             + [Visão geral do recurso MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Visão geral do recurso Painel de insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + [Integração dinâmica de chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
+            + [Integração do Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [Enviar um email para vários registros no Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Ações no painel MSI {#actions-in-the-msi-panel}
                + [Escolher uma ação no Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
