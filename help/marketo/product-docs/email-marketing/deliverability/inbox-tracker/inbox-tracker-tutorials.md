@@ -1,23 +1,21 @@
 ---
 description: Tutorials do Rastreador de caixa de entrada - Documentação do Marketo - Documentação do produto
 title: Tutorials do rastreador da caixa de entrada
-hide: true
-hidefromtoc: true
 feature: Deliverability
-source-git-commit: 95eb2ddf7ecb94a930c59cad57f39d45465bb9c2
+source-git-commit: 1f55f6ae17f4c5a059a7e937f9c115a79514e8db
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # Tutorials do rastreador da caixa de entrada {#inbox-tracker-tutorials.md}
 
-O Rastreador de caixa de entrada, da MessageBird, é uma ferramenta poderosa de terceiros...
+Teste, monitore e entenda os problemas de capacidade de entrega com o Powerpack de capacidade de entrega de email da Marketo, disponibilizado pela plataforma MessageBird&#39;s Inbox Tracker. O Rastreador de caixa de entrada é um aplicativo único que combina a inteligência de seu programa e a previsão de renderização/teste de caixa de entrada de email para maximizar o desempenho de seus emails.
 
-O MessageBird criou vários vídeos de treinamento para ajudá-lo a navegar na plataforma.
+![](assets/inbox-tracker-tutorials-1.png)
 
-CAPTURA DE TELA
+O MessageBird criou vários vídeos de treinamento para ajudá-lo a aproveitar ao máximo essa ferramenta poderosa.
 
 ## Visão geral do rastreador da caixa de entrada {#inbox-tracker-overview}
 
@@ -28,6 +26,8 @@ CAPTURA DE TELA
 [Intelliseed (Configurar e baixar)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## Seção Entregabilidade do Rastreador da Caixa de Entrada {#inbox-tracker-deliverability-section}
+
+![](assets/inbox-tracker-tutorials-2.png)
 
 [Visão geral do painel](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
@@ -62,5 +62,7 @@ CAPTURA DE TELA
 [Ferramentas de postmaster do Google](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 
 ## Design Tracker {#design-tracker}
+
+![](assets/inbox-tracker-tutorials-3.png)
 
 [Design Tracker](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
