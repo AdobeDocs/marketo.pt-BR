@@ -4,7 +4,7 @@ title: Visão geral do mapa de engajamento
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Visão geral do mapa de engajamento {#engagement-map-overview}
 
->[!AVAILABILITY]
->
->Esse recurso está disponível no momento para Campanhas inteligentes. Não está disponível para Programas.
-
 O Mapa de engajamento permite criar Campanhas inteligentes reutilizáveis com a ajuda de visuais intuitivos. Ele oferece total compatibilidade com versões anteriores de todas as Campanhas inteligentes Marketo Engage existentes, sem a perda de nenhum recurso atual.
+
+>[!NOTE]
+>
+>O Mapa de engajamento está disponível atualmente em Campanhas inteligentes. Não está disponível em Programas.
 
 ![](assets/engagement-map-overview-1.png)
 
