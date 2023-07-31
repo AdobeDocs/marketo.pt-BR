@@ -4,9 +4,9 @@ title: Guia Configurações
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -63,8 +63,6 @@ Todos os conjuntos de permissões existentes serão aplicáveis na guia Configur
 >[!NOTE]
 >
 >Se, depois de clicar no ícone de ajuda, você visualizar &quot;Permissão adicional necessária&quot;, entre em contato com o administrador do Marketo.
-
-REDUNDANTE CONFORME EXPLICADO ACIMA, PODEMOS REMOVER —> Se um usuário não tiver acesso para editar configurações da campanha, ele também não terá acesso para cancelar nenhuma execução programada.
 
 ![](assets/settings-tab-5.png)
 

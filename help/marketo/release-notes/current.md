@@ -3,7 +3,7 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 9%
@@ -24,7 +24,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 </br>
 
-* **Mapa de engajamento**: o Mapa de engajamento é uma ferramenta visual que permite criar e organizar campanhas reutilizáveis. É completamente compatível com versões anteriores, de modo que todas as campanhas existentes podem ser visualizadas nessa nova estrutura com apenas um clique. As telas podem ser baixadas e compartilhadas.
+* **Mapa de engajamento**: o Mapa de engajamento é uma ferramenta visual que permite criar e organizar campanhas reutilizáveis. É completamente compatível com versões anteriores, de modo que todas as campanhas existentes podem ser visualizadas nessa nova estrutura com apenas um clique. Os mapas podem ser baixados e compartilhados.
 
 <table> 
   <tr> 

@@ -4,9 +4,9 @@ title: Visão geral do mapa de engajamento
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 O Mapa de engajamento permite criar Campanhas inteligentes reutilizáveis com a ajuda de visuais intuitivos. Ele oferece total compatibilidade com versões anteriores de todas as Campanhas inteligentes Marketo Engage existentes, sem a perda de nenhum recurso atual.
 
-CAPTURA DE TELA
+![](assets/engagement-map-overview-1.png)
 
 ## Acesso ao Mapa de engajamento {#accessing-engagement-map}
 
 Navegue até qualquer campanha existente e clique no link **Mapa de engajamento** botão.
 
-CAPTURA DE TELA
+![](assets/engagement-map-overview-2.png)
 
 Uma vez no Mapa de engajamento, você verá duas guias: [Mapa de engajamento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
-CAPTURA DE TELA
+![](assets/engagement-map-overview-3.png)
 
 ## Descrições do cartão {#card-descriptions}
 
@@ -51,11 +51,7 @@ CAPTURA DE TELA
 
 ## Navegação superior {#top-navigation}
 
-CAPTURA DE TELA
-
 A navegação superior inclui os seguintes recursos:
-
-!!!!! A CAPTURA DE TELA ESTÁ DESATUALIZADA - PEGUE UMA NOVA
 
 * Nome da campanha e acesso à modal &quot;Editar campanha&quot;, você pode editar o nome e a descrição da campanha aqui.
 

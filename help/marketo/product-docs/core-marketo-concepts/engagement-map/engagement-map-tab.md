@@ -4,9 +4,9 @@ title: Guia Mapa de engajamento
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -153,12 +153,6 @@ Veja abaixo um exemplo de erro em um acionador que aparece no cartão de visão 
 * Um erro em restrições (ou falta delas) em um ou mais filtros
 
   ![](assets/engagement-map-tab-20.png)
-
-Não inserir valores (atributos) não resultará em erro, ele continuará a funcionar como na guia Fluxo. Portanto, as campanhas existentes não serão interrompidas. No entanto, quando as etapas de fluxo não incluírem atributos, eles serão exibidos como avisos.
-
-^^^ PRECISAMOS MESMO DISSO? O CLIENTE NÃO VERÁ UM AVISO??
-
-![](assets/engagement-map-tab-21.png)
 
 >[!NOTE]
 >

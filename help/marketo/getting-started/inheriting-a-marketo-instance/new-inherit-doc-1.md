@@ -3,14 +3,16 @@ description: Herdar documento 1 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: fe18bd1c759bd7442723a1a6326b786203c62fd0
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 55%
+source-wordcount: '443'
+ht-degree: 21%
 
 ---
 
 # Herdar Doc 1 {#inherit-doc-1}
+
+A auditoria de uma instância herdada pode parecer uma
 
 Você herdou uma instância de Marketo Engage existente de outro administrador? Em caso afirmativo, este artigo é para você.
 
@@ -23,24 +25,41 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
    <th>Coluna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Usuários</td> 
+   <td><li>Há quantos usuários?</li>
+<li>Há usuários que devem ser expirados?</li>
+<li>Sua empresa tem políticas para excluir usuários?</li> 
+<li>Quantos usuários têm permissões de administrador?</li>
+<li>Algum desses usuários deve ser alterado para outras funções?</li> 
+<li>Quem são os usuários da API nessa instância?</li></td>
+   <td>3.1</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Funções</td> 
+   <td><li>Quantas funções existem?</li>  
+<li>Que permissões/acesso cada função tem? Algum deve ser ajustado?</li>
+<li>Há quantos usuários por função?</li>
+<li>Com que frequência os usuários fazem logon?</li>
+<li>Cada usuário da API tem sua própria função de usuário? Caso contrário, considere implementar isso para facilitar a solução de problemas.</li> 
+<li>As suas funções e permissões de usuário estão alinhadas às suas políticas corporativas de privacidade de dados?</li></td>
+   <td>3.2</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Documentação interna</td> 
+   <td><li>Os usuários e as funções estão claramente definidos em sua organização?</li>
+<li>Qual é o seu processo para adicionar um novo usuário/administrador?</li></td>
+   <td>3.3</td>
+  </tr>
+  <tr> 
+   <td>Sandbox (se aplicável)</td> 
+   <td><li>Você tem uma instância de sandbox? Em caso afirmativo, revise as categorias acima para sua sandbox.</li>
+<li>A Importação de programa está vinculada à sua sandbox?</li></td>
+   <td>3.4</td>
   </tr>
  </tbody> 
 </table>
@@ -50,24 +69,14 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
    <th>Coluna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Trila de auditoria</td> 
+   <td><li>Quem está trabalhando na instância?</li></td>
+   <td>3.1</td>
   </tr>
  </tbody> 
 </table>
@@ -77,23 +86,23 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
    <th>Coluna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Espaços de trabalho e partições</td> 
+   <td><li>Quantos espaços de trabalho e/ou partições você tem?</li>
+<li>Qual é o objetivo principal de cada espaço de trabalho e partição?</li>
+<li>Eles precisam ser auditados ou alterados?</li>
+<li>Qual é a relação entre seus espaços de trabalho e partições?</li>
+<li>Quantos usuários têm acesso a cada espaço de trabalho?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Documentação interna</td> 
+   <td><li>Como os espaços de trabalho e as partições são definidos?</li>
+<li>Qual é o seu processo para adicionar espaços de trabalho à sua instância ou adicionar usuários a um espaço de trabalho?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -104,23 +113,14 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
    <th>Coluna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Configurações da campanha inteligente</td> 
+   <td><li>Há limites em vigor? Sua empresa tem políticas em que os limites de comunicação podem ser necessários?</li>
+<li>A Adobe recomenda limitar sua comunicação a 1 por dia e 3 por 7 dias com emails não operacionais bloqueados.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -131,8 +131,8 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
    <th>Coluna 3</th>
   </tr> 
   <tr> 
@@ -158,8 +158,8 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
    <th>Coluna 3</th>
   </tr> 
   <tr> 
@@ -185,8 +185,8 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
    <th>Coluna 3</th>
   </tr> 
   <tr> 
@@ -212,8 +212,8 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
    <th>Coluna 3</th>
   </tr> 
   <tr> 
@@ -239,8 +239,8 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
    <th>Coluna 3</th>
   </tr> 
   <tr> 
@@ -266,8 +266,8 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
    <th>Coluna 3</th>
   </tr> 
   <tr> 
