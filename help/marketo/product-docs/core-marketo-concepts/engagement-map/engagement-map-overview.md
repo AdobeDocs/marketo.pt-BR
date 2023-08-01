@@ -1,12 +1,10 @@
 ---
 description: Visão geral do mapa de engajamento - Documentação do Marketo - Documentação do produto
 title: Visão geral do mapa de engajamento
-hide: true
-hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -35,7 +33,7 @@ Uma vez no Mapa de engajamento, você verá duas guias: [Mapa de engajamento](/h
 
 **Triggers**: em campanhas que incluem acionadores, o mapa terá um cartão &quot;Visão geral do acionador&quot;. Clicar nesse ícone revelará um cartão para cada acionador, bem como um painel deslizante com informações adicionais.
 
-**Filtros**: em campanhas que incluem filtros, o mapa conterá um cartão para cada um. Clicar neles revelará um painel deslizante com informações adicionais.
+**Filtros**: em campanhas que incluem filtros, o mapa conterá um cartão Visão geral do filtro. Clicar nele revelará um painel deslizante com informações adicionais sobre cada filtro.
 
 **Etapas de fluxo**: cada campanha incluirá um cartão para cada etapa do fluxo. Clicar neles revelará um painel deslizante com informações adicionais.
 
@@ -45,7 +43,7 @@ Uma vez no Mapa de engajamento, você verá duas guias: [Mapa de engajamento](/h
 
 * Se uma campanha incluir uma etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo mostrará detalhes da campanha que está sendo chamada, bem como um painel deslizante com informações adicionais.
 
-* Se uma campanha incluir uma etapa do fluxo Solicitar ou Executar Campanha com opções, clicar no cartão de fluxo mostrará um cartão de opções, bem como um painel deslizante com mais informações sobre as opções. Clicar em cada cartão de opção mostrará detalhes da campanha sendo chamada, bem como um painel deslizante com mais informações.
+* Se uma campanha incluir uma etapa do fluxo Solicitar ou Executar Campanha com opções, clicar no cartão de fluxo mostrará um cartão para cada escolha, bem como um painel deslizante com mais informações sobre as opções. Clicar em cada cartão de opção mostrará detalhes da campanha sendo chamada, bem como um painel deslizante com mais informações.
 
 * Além disso, se qualquer uma das campanhas aninhadas tiver uma etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo mostrará detalhes da campanha. O mesmo é aplicável quando a etapa do fluxo inclui opções.
 
@@ -59,9 +57,9 @@ A navegação superior inclui os seguintes recursos:
 
 * Botão Ativar/Desativar para acionar campanhas
 
-* Editar lista inteligente - você será direcionado para a interface da lista inteligente em uma nova guia, na qual poderá adicionar ou editar sua lista inteligente
+* Editar lista inteligente - você será direcionado para a interface da lista inteligente em uma nova guia, na qual poderá adicionar ou editar as Etapas de fluxo
 
-* Editar fluxo - você será direcionado para a interface de Fluxo em uma nova guia, na qual poderá adicionar ou editar sua Lista inteligente
+* Editar fluxo - você será direcionado para a interface de Fluxo em uma nova guia, na qual poderá adicionar ou editar sua Smart List
 
 * Exportar — essa ação baixará uma imagem da visualização da campanha. A versão baixada refletirá todas as ramificações expandidas
 
@@ -69,7 +67,7 @@ A navegação superior inclui os seguintes recursos:
 
 >[!NOTE]
 >
->As alterações feitas em uma guia Smart List e Fluxo aberta serão refletidas na guia Mapa de engajamento após a atualização. Ele não será atualizado automaticamente. As atualizações e edições salvas automaticamente serão refletidas.
+>As alterações feitas em uma guia Smart List e Fluxo aberta serão refletidas na guia Mapa de engajamento após a atualização. Ele não será atualizado automaticamente. As atualizações e edições salvas automaticamente serão refletidas na atualização da guia Mapa de engajamento.
 
 ## Perguntas frequentes {#faq}
 
