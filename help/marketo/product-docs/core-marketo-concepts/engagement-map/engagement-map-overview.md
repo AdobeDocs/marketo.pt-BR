@@ -2,9 +2,9 @@
 description: Visão geral do mapa de engajamento - Documentação do Marketo - Documentação do produto
 title: Visão geral do mapa de engajamento
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,9 @@ A navegação superior inclui os seguintes recursos:
 
 * Botão Ativar/Desativar para acionar campanhas
 
-* Editar lista inteligente - você será direcionado para a interface da lista inteligente em uma nova guia, na qual poderá adicionar ou editar as Etapas de fluxo
+* Editar lista inteligente - você será direcionado para a interface da lista inteligente em uma nova guia, na qual poderá adicionar ou editar filtros e/ou acionadores
 
-* Editar fluxo - você será direcionado para a interface de Fluxo em uma nova guia, na qual poderá adicionar ou editar sua Smart List
+* Editar fluxo - você será direcionado para a interface Fluxo em uma nova guia, na qual poderá adicionar ou editar suas Etapas de fluxo
 
 * Exportar — essa ação baixará uma imagem da visualização da campanha. A versão baixada refletirá todas as ramificações expandidas
 

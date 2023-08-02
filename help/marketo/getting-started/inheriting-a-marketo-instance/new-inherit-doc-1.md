@@ -3,10 +3,10 @@ description: Herdar documento 1 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 21%
+source-wordcount: '804'
+ht-degree: 10%
 
 ---
 
@@ -119,8 +119,8 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr> 
   <tr> 
    <td>Configurações da campanha inteligente</td> 
-   <td><li>Há limites em vigor? Sua empresa tem políticas em que os limites de comunicação podem ser necessários?</li>
-<li>A Adobe recomenda limitar sua comunicação a 1 por dia e 3 por 7 dias com emails não operacionais bloqueados.</li></td>
+   <td><li>Você tem uma restrição no tamanho da Campanha inteligente?</li>
+<li>Caso contrário, considere adicionar um. Recomendamos limitar os limites da campanha inteligente para 25% do banco de dados para evitar comunicação excessiva ou processar todo o banco de dados em workflows. Isso não apenas protege a marca, mas ajuda a proteger o desempenho da instância.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -136,18 +136,9 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <th>Coluna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Limites de comunicação</td> 
+   <td><li>Há limites em vigor? Sua empresa tem políticas em que os limites de comunicação podem ser necessários?</li>
+<li>A Adobe recomenda limitar sua comunicação a 1 por dia e 3 por 7 dias, com emails não operacionais bloqueados.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,18 +154,24 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <th>Coluna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Tags</td> 
+   <td><li>Quantas tags há? Quantas tags estão em uso? É necessário adicionar alguma?</li>
+<li>As tags são necessárias em seus programas?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Canais</td> 
+   <td><li>Há quantos canais? Quantas estão em uso?</li>
+<li>Todos os status dos programas de canal são apropriados? Eles mostram progressão dentro do programa?</li>
+<li>Seus canais estão relacionados a tipos de programas específicos?</li>
+<li>Quais status são considerados bem-sucedidos para cada canal? Eles se alinham às suas metas de marketing?</li>
+<li>O canal Operacional está sendo usado adequadamente?</li>
+<li>Para o Advanced Report Builder (Revenue Cycle Explorer\RCE), o comportamento da análise do seu canal está definido para ser alinhado às práticas do seu programa que incorporam o custo do período?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Calendário de marketing (se aplicável)</td> 
+   <td><li>Há quantos tipos de entrada de calendário? Elas ainda são relevantes?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,18 +187,27 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <th>Coluna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Gerenciamento de campos</td> 
+   <td><li>Há quantos campos? Clique em "Exportar nomes de campo" para revisar uma lista de campos, campos personalizados e seus nomes de API.</li>
+<li>Quantos campos personalizados há?</li>
+<li>Quantos campos estão sendo usados? Selecione "Exportar usado por" no menu suspenso Ações de campo para revisar ativos relacionados de um campo.</li>
+<li>Quantos são sincronizados entre o Marketo Engage e o seu CRM?</li>
+<li>Os campos do CRM estão sincronizados com os objetos apropriados?</li>
+<li>Há um conjunto de exibições personalizado para detalhes da pessoa? Deveria haver?</li>
+<li>Você tem uma convenção de nomenclatura para seus campos com base na origem? Caso contrário, considere implementar isso.</li>
+<li>Há campos bloqueados? Certifique-se de entender por que eles estão.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Atividades personalizadas</td> 
+   <td><li>Há atividades personalizadas?</li>
+<li>Em caso afirmativo, clique nessas atividades para entender quais atividades não estão relacionadas a um formulário, email ou página de aterrissagem do Marketo.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>objetos  personalizados</td> 
+   <td><li>Quantos objetos personalizados há? Como eles são sincronizados ao seu CRM?</li>
+<li>Como esses objetos personalizados estão sendo utilizados pelos seus programas e consultas de lista?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -229,6 +235,19 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   <tr> 
    <td>1</td> 
    <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>1</td> 
+   <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Marketo Sales Insight (se aplicável)</td> 
+   <td><li>O pacote MSI foi instalado?</li>
+<li>Você atualizou para a versão mais recente do Sales Insight?</li>
+<li>Você concluiu a configuração do Sales Insight?</li>
+<li>Você deu acesso aos seus usuários com base no número de vagas que adquiriu?</li></td>
    <td>3</td>
   </tr>
  </tbody> 

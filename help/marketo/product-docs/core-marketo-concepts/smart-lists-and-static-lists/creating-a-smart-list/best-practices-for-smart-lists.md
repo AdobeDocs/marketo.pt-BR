@@ -4,9 +4,9 @@ description: Práticas recomendadas para Smart Lists - Documentação do Marketo
 title: Práticas recomendadas para Smart Lists
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ Para facilitar o trabalho e otimizar o desempenho, criamos uma lista de prática
 
 >[!TIP]
 >
->O Marketo pode ser usado de várias maneiras e determinadas técnicas são melhores para você e para sua empresa. Considere [Serviços profissionais da Marketo](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} para fazer seu investimento brilhar.
+>O Marketo Engage pode ser usado de várias maneiras e determinadas técnicas são melhores para você e para sua empresa. Entre em contato com o representante de vendas da Adobe Professional Services se desejar obter ajuda para aproveitar ao máximo o seu investimento.
