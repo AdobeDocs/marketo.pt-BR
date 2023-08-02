@@ -3,18 +3,20 @@ description: Herdar documento 1 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
+source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 10%
+source-wordcount: '1140'
+ht-degree: 7%
 
 ---
 
 # Herdar Doc 1 {#inherit-doc-1}
 
-A auditoria de uma instância herdada pode parecer uma
+A auditoria de uma instância herdada pode parecer um...
 
-Você herdou uma instância de Marketo Engage existente de outro administrador? Em caso afirmativo, este artigo é para você.
+Você herdou uma instância de Marketo Engage existente de outro administrador? Em caso afirmativo, este artigo é para você...
+
+A lista de verificação abaixo foi colocada junto com a entrada de especialistas do Marketo para ajudar você a se atualizar rapidamente em sua instância herdada...
 
 >[!TIP]
 >
@@ -37,7 +39,7 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <li>Quantos usuários têm permissões de administrador?</li>
 <li>Algum desses usuários deve ser alterado para outras funções?</li> 
 <li>Quem são os usuários da API nessa instância?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Funções</td> 
@@ -47,19 +49,19 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <li>Com que frequência os usuários fazem logon?</li>
 <li>Cada usuário da API tem sua própria função de usuário? Caso contrário, considere implementar isso para facilitar a solução de problemas.</li> 
 <li>As suas funções e permissões de usuário estão alinhadas às suas políticas corporativas de privacidade de dados?</li></td>
-   <td>3.2</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Documentação interna</td> 
    <td><li>Os usuários e as funções estão claramente definidos em sua organização?</li>
 <li>Qual é o seu processo para adicionar um novo usuário/administrador?</li></td>
-   <td>3.3</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Sandbox (se aplicável)</td> 
    <td><li>Você tem uma instância de sandbox? Em caso afirmativo, revise as categorias acima para sua sandbox.</li>
 <li>A Importação de programa está vinculada à sua sandbox?</li></td>
-   <td>3.4</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -76,7 +78,7 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   <tr> 
    <td>Trila de auditoria</td> 
    <td><li>Quem está trabalhando na instância?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -225,23 +227,34 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   <tr> 
    <td>CRM</td> 
    <td><li>A qual CRM você está sincronizando? Salesforce? MS Dynamics? Veeva?</li>
-<li>A sincronização personalizada ou bidirecional? (KG: corrigir gramática e verificar importância)</li>
+<li>A sincronização personalizada ou bidirecional? (KG: CORRIGIR GRAMÁTICA E VERIFICAR IMPORTÂNCIA)</li>
 <li>[Somente Salesforce] Sua instância tem Filtros de sincronização personalizados implementados? Entre em contato com o Suporte da Marketo para identificar Filtros de sincronização personalizados ou solicitar que uma regra de sincronização personalizada seja implementada.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Páginas</td> 
+   <td><li>Como o domínio é definido?</li>
+<li>Como o fallback foi definido?</li>
+<li>Como é definida a página inicial?</li>
+<li>O preenchimento prévio do formulário está ativado?</li>
+<li>Os URLs personalizados estão habilitados?</li>
+<li>Há regras configuradas para redirecionamentos?</li>
+<li>Você tem aliases de domínio em vigor? Você está rastreando por meio da documentação como está utilizando seus aliases de domínio?</li>
+<li>Os domínios seguros para páginas de aterrissagem estão ativados? Confirme se os ativos da página de aterrissagem contêm um URL "http".</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Munchkin</td> 
+   <td><li>O seu código de rastreamento do Munchkin está no seu site (não no Marketo)?</li>
+<li>Uma solicitação de navegador "Não rastrear" está ativada?</li>
+<li>Sua API do Munchkin está configurada? Se você não tiver uma documentação sobre onde está o código do Munchkin no seu site, comece com uma visualização rápida usando o "Relatório do Web Analytics" no "Analytics" básico para entender onde o código do Munchkin é colocado em seu site.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Serviços da Web</td> 
+   <td><li>As Restrições de IP estão habilitadas? Deveriam ser?</li>
+<li>Quais usuários/aplicativos estão fazendo chamadas de API em sua instância?</li>
+<li>Você está atingindo ou perto de atingir o limite da API? Nesse caso, considere aumentá-lo ou auditar sua instância para desativar essas chamadas de API.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -265,18 +278,15 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <th>Coluna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Baú do tesouro</td> 
+   <td><li>O que está ligado no Baú do Tesouro?</li>
+<li>Há recursos que devem ser ativados ou desativados?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Inspetor de campanhas</td> 
+   <td><li>O Inspetor de Campanha está ativado?</li>
+<li>Caso contrário, considere ativá-la para identificar facilmente quais campanhas estão ativas, sincronizando com seu CRM e/ou excluindo registros.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -292,18 +302,24 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <th>Coluna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Atualizações de status do Marketo Engage</td> 
+   <td><li>Sua instância está inscrita para atualizações de status do Marketo Engage?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Contatos autorizados</td> 
+   <td><li>Você configurou os contatos autorizados apropriados no Portal de suporte?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Alertas</td> 
+   <td><li>Algum alerta ativo está sendo enviado para equipes internas do Marketo Engage?</li>
+<li>Em caso afirmativo, esses alertas estão funcionando adequadamente?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Notificações</td> 
+   <td><li>Você está inscrito nas notificações administrativas apropriadas?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
