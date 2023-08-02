@@ -3,9 +3,9 @@ description: Herdar documento 1 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 10%
 
 ---
@@ -223,8 +223,10 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <th>Coluna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>CRM</td> 
+   <td><li>A qual CRM você está sincronizando? Salesforce? MS Dynamics? Veeva?</li>
+<li>A sincronização personalizada ou bidirecional? (KG: corrigir gramática e verificar importância)</li>
+<li>[Somente Salesforce] Sua instância tem Filtros de sincronização personalizados implementados? Entre em contato com o Suporte da Marketo para identificar Filtros de sincronização personalizados ou solicitar que uma regra de sincronização personalizada seja implementada.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -244,10 +246,10 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr>
   <tr> 
    <td>Marketo Sales Insight (se aplicável)</td> 
-   <td><li>O pacote MSI foi instalado?</li>
-<li>Você atualizou para a versão mais recente do Sales Insight?</li>
+   <td><li>Tem o <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">Pacote MSI instalado</a>?</li>
+<li>Você <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">atualizado para a versão mais recente do Sales Insight</a>?</li>
 <li>Você concluiu a configuração do Sales Insight?</li>
-<li>Você deu acesso aos seus usuários com base no número de vagas que adquiriu?</li></td>
+<li>Você <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">acesso concedido aos usuários</a> com base no número de vagas que você comprou?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
