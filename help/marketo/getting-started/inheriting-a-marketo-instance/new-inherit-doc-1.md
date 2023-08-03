@@ -3,9 +3,9 @@ description: Herdar documento 1 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
+source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
 workflow-type: tm+mt
-source-wordcount: '1140'
+source-wordcount: '1149'
 ht-degree: 7%
 
 ---
@@ -261,7 +261,7 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
    <td>Marketo Sales Insight (se aplicável)</td> 
    <td><li>Tem o <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">Pacote MSI instalado</a>?</li>
 <li>Você <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">atualizado para a versão mais recente do Sales Insight</a>?</li>
-<li>Você concluiu a configuração do Sales Insight?</li>
+<li>Você concluiu a configuração do Sales Insight? Usuários Enterprise/Unlimited <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">clique aqui</a>, Usuários profissionais <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">clique aqui</a>.</li>
 <li>Você <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">acesso concedido aos usuários</a> com base no número de vagas que você comprou?</li></td>
    <td>3</td>
   </tr>
