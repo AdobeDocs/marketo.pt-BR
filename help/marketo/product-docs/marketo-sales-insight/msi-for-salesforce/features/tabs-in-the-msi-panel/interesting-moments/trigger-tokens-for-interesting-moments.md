@@ -4,10 +4,10 @@ description: Tokens de acionador para momentos interessantes - Documentação do
 title: Tokens de acionador para momentos interessantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 96ba23e53e395f3e07b6f636f6acf7e6b94e1392
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 30%
+source-wordcount: '480'
+ht-degree: 27%
 
 ---
 
@@ -29,7 +29,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
 * `{{trigger.Name}}` é o nome do ativo que acionou a campanha. Por exemplo: o link de cliques na página da Web é o próprio URL, assunto dos acionadores do Salesforce etc.
 * Os acionadores adicionais estão disponíveis com base nas restrições, que estão listadas abaixo.
 
-**Acionadores de email**
+### Acionadores de email {#email-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -152,7 +152,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
    <td><br></td>
   </tr> 
     <tr> 
-   <td>Recebeu e-mail de "Encaminhar para amigo"</td> 
+   <td>Email Encaminhar para amigo recebido</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -169,7 +169,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
    <td><br></td>
   </tr> 
     <tr> 
-   <td>Enviou e-mail de "Encaminhar para amigo"</td> 
+   <td>Email Encaminhar para amigo enviado</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -205,7 +205,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
  </tbody> 
 </table>
 
-**Salesforce Triggers**
+### Salesforce Triggers {#salesforce-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -534,7 +534,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
  </tbody> 
 </table>
 
-**Acionadores da conexão de vendas**
+### Acionadores da conexão de vendas {#sales-connect-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -711,7 +711,113 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
  </tbody> 
 </table>
 
-**Diversos**
+### Tokens de acionador de Dynamic Chat {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Envolvido com uma caixa de diálogo</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Reunião agendada em uma caixa de diálogo</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Meta da caixa de diálogo alcançada</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>Interagiu com o documento na caixa de diálogo</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+### Diversos {#miscellaneous}
 
 <table style="table-layout:auto"> 
  <colgroup> 
