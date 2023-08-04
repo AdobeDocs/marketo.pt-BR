@@ -3,9 +3,9 @@ description: Herdar documento 1 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
+source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1220'
 ht-degree: 7%
 
 ---
@@ -24,7 +24,7 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
 
 ## Usuários e funções {#users-and-roles}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th>Área</th> 
@@ -33,22 +33,22 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr> 
   <tr> 
    <td>Usuários</td> 
-   <td><li>Há quantos usuários?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Quantos usuários</a> existem?</li>
 <li>Há usuários que devem ser expirados?</li>
 <li>Sua empresa tem políticas para excluir usuários?</li> 
-<li>Quantos usuários têm permissões de administrador?</li>
-<li>Algum desses usuários deve ser alterado para outras funções?</li> 
+<li>Quantos usuários <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Permissões de administrador</a>?</li>
+<li>Se algum desses usuários for alterado para <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">outras funções?</a></li> 
 <li>Quem são os usuários da API nessa instância?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Funções</td> 
    <td><li>Quantas funções existem?</li>  
-<li>Que permissões/acesso cada função tem? Algum deve ser ajustado?</li>
+<li>O que <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">permissões/acesso</a> cada função tem? Algum deve ser ajustado?</li>
 <li>Há quantos usuários por função?</li>
-<li>Com que frequência os usuários fazem logon?</li>
-<li>Cada usuário da API tem sua própria função de usuário? Caso contrário, considere implementar isso para facilitar a solução de problemas.</li> 
-<li>As suas funções e permissões de usuário estão alinhadas às suas políticas corporativas de privacidade de dados?</li></td>
+<li>Com que frequência os usuários <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">efetuando login</a>?</li>
+<li>Cada usuário da API tem sua <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">função de usuário própria</a>? Caso contrário, considere implementar isso para facilitar a solução de problemas.</li> 
+<li>As funções e permissões do usuário estão alinhadas aos dados corporativos? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">políticas de privacidade</a>?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -59,8 +59,8 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr>
   <tr> 
    <td>Sandbox (se aplicável)</td> 
-   <td><li>Você tem uma instância de sandbox? Em caso afirmativo, revise as categorias acima para sua sandbox.</li>
-<li>A Importação de programa está vinculada à sua sandbox?</li></td>
+   <td><li>Você tem um <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">instância de sandbox</a>? Em caso afirmativo, revise as categorias acima para sua sandbox.</li>
+<li>É <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Importação do programa</a> vinculado à sua sandbox?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -77,7 +77,7 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr> 
   <tr> 
    <td>Trila de auditoria</td> 
-   <td><li>Quem está trabalhando na instância?</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Quem está trabalhando</a> no caso?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -263,6 +263,25 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
 <li>Você <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">atualizado para a versão mais recente do Sales Insight</a>?</li>
 <li>Você concluiu a configuração do Sales Insight? Usuários Enterprise/Unlimited <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">clique aqui</a>, Usuários profissionais <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">clique aqui</a>.</li>
 <li>Você <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">acesso concedido aos usuários</a> com base no número de vagas que você comprou?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Ponto de lançamento (se aplicável)</td> 
+   <td><li>Quais serviços você configurou (webinário, publicidade etc.)? Algum está próximo da expiração?</li>
+<li>Quantas chamadas de API suas integrações estão usando?</li>
+<li>Você tem as integrações certas em vigor para seus casos de uso?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Webhooks (se aplicável)</td> 
+   <td><li>Que conexões você configurou?</li>
+<li>Não estão mais em uso?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Aplicativos móveis (se aplicável)</td> 
+   <td><li>Quais aplicativos móveis você tem?</li>
+<li>Quais dispositivos de teste foram adicionados?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
