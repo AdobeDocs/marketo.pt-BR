@@ -3,9 +3,9 @@ description: Herdar documento 1 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
+source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1225'
 ht-degree: 7%
 
 ---
@@ -94,11 +94,11 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr> 
   <tr> 
    <td>Espaços de trabalho e partições</td> 
-   <td><li>Quantos espaços de trabalho e/ou partições você tem?</li>
+   <td><li>Quantas <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">espaços de trabalho e/ou partições</a> você tem?</li>
 <li>Qual é o objetivo principal de cada espaço de trabalho e partição?</li>
-<li>Eles precisam ser auditados ou alterados?</li>
+<li>Faça o seu <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Espaços de trabalho</a> ou <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partições</a> precisa ser auditada/alterada?</li>
 <li>Qual é a relação entre seus espaços de trabalho e partições?</li>
-<li>Quantos usuários têm acesso a cada espaço de trabalho?</li></td>
+<li>Quantos usuários <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">ter acesso</a> para cada espaço de trabalho?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -121,7 +121,7 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr> 
   <tr> 
    <td>Configurações da campanha inteligente</td> 
-   <td><li>Você tem uma restrição no tamanho da Campanha inteligente?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Você tem uma restrição?</a> no tamanho do Smart Campaign?</li>
 <li>Caso contrário, considere adicionar um. Recomendamos limitar os limites da campanha inteligente para 25% do banco de dados para evitar comunicação excessiva ou processar todo o banco de dados em workflows. Isso não apenas protege a marca, mas ajuda a proteger o desempenho da instância.</li></td>
    <td>3</td>
   </tr>
@@ -139,8 +139,8 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr> 
   <tr> 
    <td>Limites de comunicação</td> 
-   <td><li>Há limites em vigor? Sua empresa tem políticas em que os limites de comunicação podem ser necessários?</li>
-<li>A Adobe recomenda limitar sua comunicação a 1 por dia e 3 por 7 dias, com emails não operacionais bloqueados.</li></td>
+   <td><li>Há <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">limites de comunicação</a> em vigor? Sua empresa tem políticas em que os limites de comunicação podem ser necessários?</li>
+<li>A Adobe recomenda limitar sua comunicação a 1 por dia e 3 por 7 dias, com <b>não</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operacional</a> emails bloqueados.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,8 +163,8 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr>
   <tr> 
    <td>Canais</td> 
-   <td><li>Há quantos canais? Quantas estão em uso?</li>
-<li>Todos os status dos programas de canal são apropriados? Eles mostram progressão dentro do programa?</li>
+   <td><li>Quantas <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">canais</a> existem? Quantas estão em uso?</li>
+<li>São todos <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">status do programa do canal apropriado</a>? Eles mostram progressão dentro do programa?</li>
 <li>Seus canais estão relacionados a tipos de programas específicos?</li>
 <li>Quais status são considerados bem-sucedidos para cada canal? Eles se alinham às suas metas de marketing?</li>
 <li>O canal Operacional está sendo usado adequadamente?</li>
