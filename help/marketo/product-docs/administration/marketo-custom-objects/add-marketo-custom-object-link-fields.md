@@ -4,9 +4,9 @@ description: Adicionar campos de link de objeto personalizado do Marketo - Docum
 title: Adicionar campos de link de objeto personalizado do Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Ao criar objetos personalizados, você deve fornecer campos de link para conecta
 
 * Para uma estrutura personalizada de um para muitos, use o campo de link no objeto personalizado para conectá-lo a uma pessoa ou empresa.
 * Para uma estrutura muitos para muitos, você usa dois campos de link, conectados de um objeto intermediário criado separadamente (que também é um tipo de objeto personalizado). Um link se conecta a pessoas ou empresas no banco de dados e o outro se conecta ao objeto personalizado. Nesse caso, o campo de link não está localizado no próprio objeto personalizado.
+
+>[!IMPORTANT]
+>
+>O Marketo Engage suporta apenas um único objeto de borda para cada objeto de ponte no relacionamento Muitos para Muitos. Na amostra apresentada abaixo, cada inscrição só pode ser vinculada a um único curso. No entanto, pode haver muitos objetos de ponte para cada objeto de borda, assim como há muitas inscrições de alunos para cada curso (relacionamento muitos para um). Se você tiver seus dados de objeto personalizado estruturados de modo que haja mais de um registro de objeto de borda para cada registro de objeto de ponte (um para muitos ou muitos para muitos), poderá criar vários registros de objeto de ponte que se referem a um único registro de objeto de borda para representar esses dados no Marketo.
 
 ## Criar um campo de link para uma estrutura de um para muitos {#create-a-link-field-for-a-one-to-many-structure}
 

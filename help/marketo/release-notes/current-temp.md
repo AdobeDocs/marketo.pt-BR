@@ -4,9 +4,9 @@ title: Temp. das notas de versão atuais
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '929'
 ht-degree: 11%
 
 ---
@@ -313,7 +313,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Tokens de acionador para novas atividades**: novos tokens de acionamento para oferecer suporte às novas atividades do Dynamic Chat.
+* **Tokens de acionador para novas atividades**: novos tokens de acionador estão disponíveis para oferecer suporte às novas atividades do Dynamic Chat.
 
 <table> 
   <tr> 
