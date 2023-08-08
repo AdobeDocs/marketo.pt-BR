@@ -3,7 +3,7 @@ description: Herdar documento 1 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
 workflow-type: tm+mt
 source-wordcount: '1225'
 ht-degree: 7%
@@ -157,13 +157,13 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr> 
   <tr> 
    <td>Tags</td> 
-   <td><li>Quantas tags há? Quantas tags estão em uso? É necessário adicionar alguma?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">Quantas tags</a> existem? Quantas tags estão em uso? É necessário adicionar alguma?</li>
 <li>As tags são necessárias em seus programas?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Canais</td> 
-   <td><li>Quantas <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">canais</a> existem? Quantas estão em uso?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">Quantos canais</a> existem? Quantas estão em uso?</li>
 <li>São todos <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">status do programa do canal apropriado</a>? Eles mostram progressão dentro do programa?</li>
 <li>Seus canais estão relacionados a tipos de programas específicos?</li>
 <li>Quais status são considerados bem-sucedidos para cada canal? Eles se alinham às suas metas de marketing?</li>
@@ -173,7 +173,7 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr>
   <tr> 
    <td>Calendário de marketing (se aplicável)</td> 
-   <td><li>Há quantos tipos de entrada de calendário? Elas ainda são relevantes?</li></td>
+   <td><li>Quantas <a href="/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md" target="_blank">tipos de entrada de calendário</a> existem? Elas ainda são relevantes?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,25 +190,25 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr> 
   <tr> 
    <td>Gerenciamento de campos</td> 
-   <td><li>Há quantos campos? Clique em "Exportar nomes de campo" para revisar uma lista de campos, campos personalizados e seus nomes de API.</li>
-<li>Quantos campos personalizados há?</li>
-<li>Quantos campos estão sendo usados? Selecione "Exportar usado por" no menu suspenso Ações de campo para revisar ativos relacionados de um campo.</li>
+   <td><li>Há quantos campos? Clique em <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Exportar nomes de campo</a> para revisar uma lista de campos, campos personalizados e seus nomes de API.</li>
+<li>Quantas <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campos personalizados</a> existem?</li>
+<li>Quantos campos estão sendo usados? Selecionar <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exportação Usada Por</a> no menu suspenso Ações de campo para revisar ativos relacionados de um campo.</li>
 <li>Quantos são sincronizados entre o Marketo Engage e o seu CRM?</li>
 <li>Os campos do CRM estão sincronizados com os objetos apropriados?</li>
-<li>Há um conjunto de exibições personalizado para detalhes da pessoa? Deveria haver?</li>
+<li>Existe um <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">conjunto de exibição personalizado</a> para detalhes da pessoa? Deveria haver?</li>
 <li>Você tem uma convenção de nomenclatura para seus campos com base na origem? Caso contrário, considere implementar isso.</li>
-<li>Há campos bloqueados? Certifique-se de entender por que eles estão.</li></td>
+<li>Há algum campo <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">bloqueado</a>? Certifique-se de entender por que eles estão.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Atividades personalizadas</td> 
-   <td><li>Há atividades personalizadas?</li>
+   <td><li>Há algum <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">atividades personalizadas</a>?</li>
 <li>Em caso afirmativo, clique nessas atividades para entender quais atividades não estão relacionadas a um formulário, email ou página de aterrissagem do Marketo.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>objetos  personalizados</td> 
-   <td><li>Quantos objetos personalizados há? Como eles são sincronizados ao seu CRM?</li>
+   <td><li>Quantas <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">objetos personalizados</a> existem? Como eles são sincronizados ao seu CRM?</li>
 <li>Como esses objetos personalizados estão sendo utilizados pelos seus programas e consultas de lista?</li></td>
    <td>3</td>
   </tr>

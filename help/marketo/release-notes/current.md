@@ -3,7 +3,7 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas de versão atuais
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
+source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 12%
@@ -26,7 +26,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Biblioteca de referência da Marketo**: a Biblioteca de referência do programa Marketo Engage permite que os usuários importem programas de &quot;exemplo&quot; e outros ativos que representam as práticas recomendadas pelo Adobe. Nossa equipe de gerenciamento de produtos atualizou completamente a biblioteca, fornecendo ferramentas mais valiosas para aqueles que desejam iniciar seu programa rapidamente.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -40,7 +40,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Usado pela coluna Contagem para ativos do Design Studio**: a coluna Usado pela contagem para exibições de lista no Design Studio destaca a contagem/número de ativos que estão usando o ativo em consideração. Isso se aplica a trechos, modelos de email, Forms e modelos de página de aterrissagem.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -54,7 +54,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Usado por aprimoramentos de guias para o Design Studio Assets**: a guia Usado pelo aprimoramento fornece uma exibição mais detalhada do tipo e do nome de um ativo, juntamente com onde ele está sendo usado. Isso é aplicável para detalhes de email e detalhes de imagens e arquivos.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -68,7 +68,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Serviço da Etapa de Fluxo de Cálculo de Fórmula**: A Fórmula de Cálculo é um Serviço de Etapa de Fluxo criado na plataforma de Tempo de Execução de Adobe para uso com Campanhas Inteligentes de Marketo Engage. Os clientes Adobe com tempo de execução de E/S podem implantar o serviço e instalá-lo nas assinaturas Marketo Engage, permitindo que calculem fórmulas semelhantes às do Excel nas Campanhas inteligentes do Marketo.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -86,7 +86,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Integração Marketo + Workfront**: para aqueles que têm o Marketo e o Workfront, agora é possível usar os Modelos do Workfront Fusion para integrar os dois produtos e desbloquear novos workflows de automação para simplificar a execução da campanha.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -104,7 +104,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Cartão de Ação no Stream Designer**: os profissionais de marketing podem usar cartões de ação no fluxo de diálogo para transmitir valores ocultos para o registro de pessoa de Marketo Engage quando os visitantes se envolvem com uma caixa de diálogo.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -118,7 +118,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Página de ativos de fluxo de conversa**: A página Ativo do Design Studio agora lista Fluxos de conversa de Dynamic Chat. Veja quais Fluxos podem ser integrados em ativos Marketo Engage e fazer deep links diretamente para o editor.
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -132,7 +132,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Conversação do Forms com o Marketo Engage Forms**: Tornar o Marketo Engage Forms conversacional, integrando-os aos Fluxos de conversa do Dynamic Chat. Qualifique clientes potenciais instantaneamente usando dados de formulário ou associação à Smart List para reservas de reuniões, links de white papers ou metas personalizadas.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -146,7 +146,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **SDK de conversas**: transforme qualquer formulário, página de aterrissagem ou quase qualquer página da Web em experiências envolventes de reserva de reunião.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -160,7 +160,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Configurações Personalizadas de Reserva de Reunião**: os agentes podem definir configurações personalizadas de reserva de reunião, como disponibilidade, duração da reunião e &quot;tempo de buffer&quot; entre as reuniões.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -174,7 +174,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Configurações de fallback**: os administradores podem definir configurações personalizadas de fallback para definir o que os visitantes verão quando os agentes não estiverem disponíveis para bate-papo.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -188,7 +188,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Painel de Desempenho Global**: veja o desempenho de suas Caixas de diálogo, incluindo métricas de engajamento e desempenho (total e ao longo de um tempo), páginas de melhor desempenho e Caixas de diálogo de melhor desempenho.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -202,7 +202,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Bate-papo ao vivo**: os visitantes da Web podem conversar com agentes de vendas em tempo real para obter respostas às suas perguntas.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -216,7 +216,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Painel de Desempenho do Bate-papo ao Vivo**: visualize quantas conversas seus agentes de vendas ao vivo tiveram e quais equipes estão tendo o melhor desempenho.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -230,7 +230,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Direcionamento da lista inteligente do Marketo Engage**: os profissionais de marketing podem direcionar membros das Smart Lists do Marketo Engage nos critérios de público-alvo do diálogo.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -244,7 +244,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Painel de Desempenho da Reunião**: veja quantas reuniões estão sendo marcadas e com quem elas estão sendo marcadas.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -258,7 +258,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Novas atividades do Dynamic Chat**: novas atividades para oferecer suporte a Fluxos de conversa, Bate-papo ao vivo e outros novos recursos.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -272,7 +272,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Notificações de chat em tempo real ao vivo**: quando os visitantes solicitam o bate-papo ao vivo, os agentes recebem notificações do navegador e no aplicativo em tempo real.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -286,7 +286,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Notificações de Ações de Insight de Vendas**: os agentes com ações de Insight de vendas receberão notificações de solicitação de chat em tempo real no painel Ações de Insight de vendas.
 
-<table>
+<table width="400">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -300,7 +300,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Equipes**: crie equipes de agentes para as quais os visitantes podem ser encaminhados para participar de bate-papos ao vivo ou de reservas de reuniões.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -314,7 +314,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Tokens de acionador para novas atividades**: novos tokens de acionador estão disponíveis para oferecer suporte às novas atividades do Dynamic Chat.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
