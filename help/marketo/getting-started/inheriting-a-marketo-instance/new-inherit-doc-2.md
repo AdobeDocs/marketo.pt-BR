@@ -3,10 +3,10 @@ description: Herdar documento 2 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: fe18bd1c759bd7442723a1a6326b786203c62fd0
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 55%
+source-wordcount: '295'
+ht-degree: 15%
 
 ---
 
@@ -18,272 +18,116 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 >
 >Se você for um novo usuário de Marketo Engage e não estiver familiarizado com muitos dos termos, verifique a [Glossário do Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
-## Usuários e funções {#users-and-roles}
+## Listas inteligentes do sistema {#system-smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
-   <th>Coluna 3</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Todas as pessoas</td> 
+   <td><li>Quantas pessoas existem no banco de dados?</li>
+<li>Se o banco de dados estiver quase cheio, a política da empresa recomenda expandir o tamanho do banco de dados ou limpar os dados históricos?</li>
+<li>Seu banco de dados geral é no mínimo 85% comercializável? Se o seu estiver abaixo desse limite, verifique as outras listas inteligentes do sistema (Inclui na lista de bloqueios, Marketing suspenso, Duplicatas, Cancelar inscrição) com maior escrutínio.</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Pessoas que cancelaram a inscrição</td> 
+   <td><li>Quais são seus critérios para Pessoas que não se inscreveram? Há muitas pessoas não inscritas?</li>
+<li>Os métodos de cancelamento de inscrição estão alinhados aos requisitos de privacidade de dados?</li>
+<li>Sua preferência de cancelamento de inscrição está atualizada? Por quanto tempo os registros permaneceram no banco de dados como não comercializáveis?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Marketing suspenso</td> 
+   <td><li>Quais são seus critérios para a Suspensão de marketing? Há muitas pessoas com suspensão de marketing?</li>
+<li>Por quanto tempo os registros permaneceram no status de suspensão de marketing?</li>
+<p>Exemplo de caso de uso de suspensão de marketing: registros que estão ativamente envolvidos com vendas em oportunidades de estágio posterior para as quais você deseja suprimir comunicações de marketing.</td>
+  </tr>
+   <tr> 
+   <td>Lista de bloqueios</td> 
+   <td><li>Quais são seus critérios para a Inclui na lista de bloqueios? Incluir na lista de bloqueios Há pessoas demais que são revoltadas?</li></td>
+  </tr>
+  <tr> 
+   <td>Endereços de email com mensagens rejeitadas</td> 
+   <td><li>Texto</li></td>
+  </tr>
+  <tr> 
+   <td>Possíveis duplicatas</td> 
+   <td><li>Quantos registros potencialmente duplicados existem? Considere excluí-los ou mesclá-los.</li></td>
+  </tr>
+   <tr> 
+   <td>Nenhum programa de aquisição</td> 
+   <td><li>Quantas pessoas não têm um programa de aquisição? Se há muito, considere investigar o porquê.</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Trila de auditoria {#audit-trail}
+## Agrupar listas inteligentes {#group-smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
-   <th>Coluna 3</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
   </tr> 
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
 
-## Espaços de trabalho e partições {#workspaces-and-partitions}
+## Agrupar listas {#group-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
-   <th>Coluna 3</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
   </tr> 
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
 
-## Campanhas inteligentes {#smart-campaigns}
+## Segmentações {#segmentations}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
-   <th>Coluna 3</th>
+   <th>Área</th> 
+   <th>Revisar foco</th>
   </tr> 
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Limites de comunicação {#communication-limits}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
-   <th>Coluna 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Tags {#tags}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
-   <th>Coluna 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Gerenciamento de bancos de dados {#database-management}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
-   <th>Coluna 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Integrações {#integrations}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
-   <th>Coluna 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Baú do tesouro {#treasure-chest}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
-   <th>Coluna 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Diversos {#miscellaneous}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Coluna 1</th> 
-   <th>Coluna 2</th>
-   <th>Coluna 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>

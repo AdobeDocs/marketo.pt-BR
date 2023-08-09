@@ -3,10 +3,10 @@ description: Herdar documento 1 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '1225'
-ht-degree: 7%
+source-wordcount: '1240'
+ht-degree: 6%
 
 ---
 
@@ -233,26 +233,26 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr>
   <tr> 
    <td>Páginas</td> 
-   <td><li>Como o domínio é definido?</li>
-<li>Como o fallback foi definido?</li>
-<li>Como é definida a página inicial?</li>
+   <td><li>O que é o <a href="/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md" target="_blank">domínio definido como</a>?</li>
+   <li>Como é definida a página inicial?</li>
+<li>O que é o <a href="/help/marketo/product-docs/administration/settings/set-a-fallback-page.md" target="_blank">fallback definido como</a>?</li>
 <li>O preenchimento prévio do formulário está ativado?</li>
-<li>Os URLs personalizados estão habilitados?</li>
-<li>Há regras configuradas para redirecionamentos?</li>
+<li>São <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">URLs personalizados</a> habilitado?</li>
+<li>Há regras configuradas para <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirecionamentos</a>?</li>
 <li>Você tem aliases de domínio em vigor? Você está rastreando por meio da documentação como está utilizando seus aliases de domínio?</li>
-<li>Os domínios seguros para páginas de aterrissagem estão ativados? Confirme se os ativos da página de aterrissagem contêm um URL "http".</li></td>
+<li>É <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Domínios seguros para páginas de aterrissagem</a> habilitado? Confirme se os ativos da página de aterrissagem contêm um URL "http".</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
-   <td><li>O seu código de rastreamento do Munchkin está no seu site (não no Marketo)?</li>
-<li>Uma solicitação de navegador "Não rastrear" está ativada?</li>
-<li>Sua API do Munchkin está configurada? Se você não tiver uma documentação sobre onde está o código do Munchkin no seu site, comece com uma visualização rápida usando o "Relatório do Web Analytics" no "Analytics" básico para entender onde o código do Munchkin é colocado em seu site.</li></td>
+   <td><li>É seu <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Código de rastreamento do Munchkin</a> no seu site (não no Marketo)?</li>
+<li>É um <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track (Não rastrear)</a> Solicitação de navegador ativada?</li>
+<li>É seu <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">API do Munchkin</a> configurado? Se você não tiver uma documentação sobre onde está o código do Munchkin no seu site, comece com uma visualização rápida usando o "Relatório do Web Analytics" no "Analytics" básico para entender onde o código do Munchkin é colocado em seu site.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Serviços da Web</td> 
-   <td><li>As Restrições de IP estão habilitadas? Deveriam ser?</li>
+   <td><li>São <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">Restrições de IP</a> habilitado? Deveriam ser?</li>
 <li>Quais usuários/aplicativos estão fazendo chamadas de API em sua instância?</li>
 <li>Você está atingindo ou perto de atingir o limite da API? Nesse caso, considere aumentá-lo ou auditar sua instância para desativar essas chamadas de API.</li></td>
    <td>3</td>
@@ -267,21 +267,21 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr>
   <tr> 
    <td>Ponto de lançamento (se aplicável)</td> 
-   <td><li>Quais serviços você configurou (webinário, publicidade etc.)? Algum está próximo da expiração?</li>
-<li>Quantas chamadas de API suas integrações estão usando?</li>
+   <td><li>Quais serviços você configurou (por exemplo, <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">Zoom</a>, etc.)? Algum está próximo da expiração?</li>
+<li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">Quantas chamadas de API</a> suas integrações estão usando o?</li>
 <li>Você tem as integrações certas em vigor para seus casos de uso?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Webhooks (se aplicável)</td> 
-   <td><li>Que conexões você configurou?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">Quais conexões</a> você configurou o?</li>
 <li>Não estão mais em uso?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Aplicativos móveis (se aplicável)</td> 
-   <td><li>Quais aplicativos móveis você tem?</li>
-<li>Quais dispositivos de teste foram adicionados?</li></td>
+   <td><li>Qual <a href="/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md" target="_blank">aplicativos móveis</a> você tem?</li>
+<li>Possuir <a href="/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md" target="_blank">dispositivos de teste</a>  foi adicionado?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -298,13 +298,13 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr> 
   <tr> 
    <td>Baú do tesouro</td> 
-   <td><li>O que está ligado no Baú do Tesouro?</li>
+   <td><li>O que está ativado no <a href="/help/marketo/product-docs/administration/settings/enable-or-disable-treasure-chest-features.md" target="_blank">Tórax Tesouro</a>?</li>
 <li>Há recursos que devem ser ativados ou desativados?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Inspetor de campanhas</td> 
-   <td><li>O Inspetor de Campanha está ativado?</li>
+   <td><li>É <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Inspetor de campanha</a> ligado?</li>
 <li>Caso contrário, considere ativá-la para identificar facilmente quais campanhas estão ativas, sincronizando com seu CRM e/ou excluindo registros.</li></td>
    <td>3</td>
   </tr>
@@ -318,28 +318,23 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <th>Área</th> 
    <th>Revisar foco</th>
-   <th>Coluna 3</th>
   </tr> 
   <tr> 
    <td>Atualizações de status do Marketo Engage</td> 
-   <td><li>Sua instância está inscrita para atualizações de status do Marketo Engage?</li></td>
-   <td>3</td>
+   <td><li>Sua instância está inscrita para <a href="https://status.adobe.com/" target="_blank">Atualizações de status do Marketo Engage</a>?</li></td>
   </tr>
   <tr> 
    <td>Contatos autorizados</td> 
-   <td><li>Você configurou os contatos autorizados apropriados no Portal de suporte?</li></td>
-   <td>3</td>
+   <td><li>Você configurou o <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contatos autorizados</a> no Portal de suporte?</li></td>
   </tr>
   <tr> 
    <td>Alertas</td> 
-   <td><li>Algum alerta ativo está sendo enviado para equipes internas do Marketo Engage?</li>
+   <td><li>Há algum <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">alertas ativos</a> sendo enviado para equipes internas do Marketo Engage?</li>
 <li>Em caso afirmativo, esses alertas estão funcionando adequadamente?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Notificações</td> 
-   <td><li>Você está inscrito nas notificações administrativas apropriadas?</li></td>
-   <td>3</td>
+   <td><li>Você está inscrito no administrador apropriado? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md" target="_blank">notificações</a>?</li></td>
   </tr>
  </tbody> 
 </table>
