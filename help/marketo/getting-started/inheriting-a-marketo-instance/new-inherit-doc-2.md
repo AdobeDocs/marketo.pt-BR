@@ -3,10 +3,10 @@ description: Herdar documento 2 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 15%
+source-wordcount: '383'
+ht-degree: 9%
 
 ---
 
@@ -28,13 +28,13 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr> 
   <tr> 
    <td>Todas as pessoas</td> 
-   <td><li>Quantas pessoas existem no banco de dados?</li>
+   <td><li>Quantas pessoas existem na <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">banco de dados</a>?</li>
 <li>Se o banco de dados estiver quase cheio, a política da empresa recomenda expandir o tamanho do banco de dados ou limpar os dados históricos?</li>
 <li>Seu banco de dados geral é no mínimo 85% comercializável? Se o seu estiver abaixo desse limite, verifique as outras listas inteligentes do sistema (Inclui na lista de bloqueios, Marketing suspenso, Duplicatas, Cancelar inscrição) com maior escrutínio.</li></td>
   </tr>
   <tr> 
    <td>Pessoas que cancelaram a inscrição</td> 
-   <td><li>Quais são seus critérios para Pessoas que não se inscreveram? Há muitas pessoas não inscritas?</li>
+   <td><li>Quais são seus critérios para <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">pessoas não inscritas</a>? Há muitas pessoas não inscritas?</li>
 <li>Os métodos de cancelamento de inscrição estão alinhados aos requisitos de privacidade de dados?</li>
 <li>Sua preferência de cancelamento de inscrição está atualizada? Por quanto tempo os registros permaneceram no banco de dados como não comercializáveis?</li></td>
   </tr>
@@ -72,16 +72,10 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Agrupar listas inteligentes</td> 
+   <td><li>Quais grupos de listas inteligentes existem? Como eles são usados nessa instância?</li>
+<li>As listas estão organizadas em uma estrutura de pastas coesa? Se você tiver listas órfãs, considere organizar sua árvore para que os ativos sejam fáceis de encontrar.</li>
+<p>Dica: arquive listas inteligentes de grupos que não são mais necessárias para consulta, relatórios ou referência para ajudar na organização e no desempenho.</td>
   </tr>
  </tbody> 
 </table>
@@ -95,16 +89,9 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Agrupar listas</td> 
+   <td><li>Quais listas de grupos existem?</li>
+<li>Como eles são usados nessa instância?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -118,16 +105,10 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Segmentações</td> 
+   <td><li>Qual <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentações</a> existem? Como eles estão sendo usados?</li>
+<li>Há muitas pessoas em <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segmentos padrão</a>?</li>
+<li>Há uma segmentação para o público comercializável? Caso contrário, considere a criação de um.</li></td>
   </tr>
  </tbody> 
 </table>
