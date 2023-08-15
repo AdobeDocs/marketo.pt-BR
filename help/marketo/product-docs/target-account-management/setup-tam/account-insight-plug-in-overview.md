@@ -4,9 +4,9 @@ description: Visão geral do plug-in Insight da conta - Documentação do Market
 title: Visão geral do plug-in Insight da conta
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ O Account Insight é um plug-in do Chrome que revela TAM acionável e insights d
 
 >[!AVAILABILITY]
 >
->O Account Insight está incluído para todos os clientes que têm o TAM e o Marketo Sales Insight. Para clientes que possuem apenas o TAM, o Account Insight está disponível como um complemento adquirido. Cada cliente está limitado a 250 estações do Account Insight. Entre em contato com seu representante de vendas para obter mais detalhes. Ele não está disponível para clientes que não têm TAM.
+>* O Account Insight está incluído para todos os clientes que têm o TAM e o Marketo Sales Insight. Para clientes que possuem apenas o TAM, o Account Insight está disponível como um complemento adquirido. Cada cliente está limitado a 250 estações do Account Insight. Entre em contato com seu representante de vendas para obter mais detalhes. Ele não está disponível para clientes que não têm TAM.
+>
+>* Este plug-in não é compatível com o [Autenticação de identidade Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} neste momento.
 
 >[!CAUTION]
 >
