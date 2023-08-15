@@ -4,9 +4,9 @@ description: Editar configurações da página de aterrissagem - Documentação 
 title: Editar configurações da página de aterrissagem
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '231'
 ht-degree: 3%
 
 ---
@@ -45,10 +45,6 @@ ht-degree: 3%
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. Se quiser impedir que um site mal-intencionado aparentemente hospede seu conteúdo, verifique a **[!UICONTROL Não permitir que as páginas do Marketo sejam incorporadas em páginas externas da Web]** caixa de seleção
-
-   ![](assets/edit-landing-page-settings-6.png)
-
    >[!NOTE]
    >
    >Se desejar preencher `<script>` para aparecer no final da variável `<head>` no código, verifique a **[!UICONTROL Inserir script de preenchimento prévio no final do cabeçalho]** caixa. Deixe desmarcado se quiser que ele apareça no início.
@@ -57,6 +53,6 @@ ht-degree: 3%
 
 1. Depois de fazer suas seleções, clique em **[!UICONTROL Salvar]**.
 
-   ![](assets/edit-landing-page-settings-7.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    Excelente trabalho! Suas landing pages agora têm as informações certas e devem começar a funcionar imediatamente.
