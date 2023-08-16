@@ -3,9 +3,9 @@ description: Visão geral - Documentação do Marketo - Documentação do produt
 title: Visão geral
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '434'
 ht-degree: 2%
 
 ---
@@ -21,14 +21,6 @@ Bem-vindo ao Adobe Marketo Engage Modern UX (experiência do usuário), uma inte
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
-
-## Faça o tour {#take-the-tour}
-
-No primeiro logon, uma janela pop-up será exibida, pronta para fornecer o resumo da nova experiência. Atenção, se você optar por ignorá-lo, ele **não** estar disponíveis posteriormente.
-
-![](assets/overview-1.png)
-
-O tour o guiará por tudo o que você precisa saber!
 
 ## Novidades {#whats-new}
 

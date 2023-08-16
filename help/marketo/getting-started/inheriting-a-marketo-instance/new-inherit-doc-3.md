@@ -3,7 +3,7 @@ description: Herdar Doc 3 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 2%
@@ -28,19 +28,19 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr> 
   <tr> 
    <td>Convenções de nomenclatura</td> 
-   <td><li>Seus programas têm uma convenção de nomenclatura consistente?</li></td>
+   <td><li>Seus programas têm um desempenho consistente? <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#naming-schemes" target="_blank">convenção de nomenclatura</a>?</li></td>
   </tr>
   <tr> 
    <td>Estrutura de pastas</td> 
-   <td><li>Você tem uma estrutura de pastas consistente e fácil de navegar?</li></td>
+   <td><li>Você tem uma infraestrutura consistente e fácil de navegar? <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#folders" target="_blank">estrutura de pastas</a>?</li></td>
   </tr>
   <tr> 
    <td>Programas</td> 
    <td><li>Existe um Centro de Excelência com modelos de programa? Em caso afirmativo, os modelos de programa fazem sentido para os casos de uso das equipes?</li>
-<li>Os tipos de programas semelhantes são estruturados de forma consistente?</li>
-<li>Os custos do período estão implementados?</li>
-<li>Todos os programas estão sincronizados com as Campanhas do SFDC (se aplicável)?</li>
-<li>Você tem etapas de fluxo que atribuem um programa de aquisição a pessoas?</li></td>
+<li>São tipos de programas semelhantes <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">estruturado de forma consistente</a>?</li>
+<li>São <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">custos do período</a> colocado em prática?</li>
+<li>Todos os programas <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">sincronizado com campanhas do SFDC</a> (se aplicável)?</li>
+<li>Você tem etapas de fluxo atribuindo um <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programa de aquisição</a> para as pessoas?</li></td>
   </tr>
   <tr> 
    <td>Arquivar</td> 
