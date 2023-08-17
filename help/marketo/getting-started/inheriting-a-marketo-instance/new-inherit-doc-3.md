@@ -3,9 +3,9 @@ description: Herdar Doc 3 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '833'
 ht-degree: 2%
 
 ---
@@ -71,7 +71,7 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr> 
   <tr> 
    <td>Tokens</td> 
-   <td><li>Os tokens estão sendo usados em tipos de programas usados regularmente? KG - SIGNIFICADO DE VERIFICAÇÃO DUPLA Se não, você deve considerar usá-los para aumentar a eficiência.</li>
+   <td><li>Os tokens estão sendo usados nos tipos de programas mais usados? Caso contrário, você deve considerar usá-los para aumentar a eficiência.</li>
 <li>Se os tokens forem implementados, há tokens de pasta global? Como eles estão sendo usados?</li></td>
   </tr>
   <tr> 

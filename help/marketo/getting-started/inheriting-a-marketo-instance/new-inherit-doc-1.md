@@ -3,10 +3,10 @@ description: Herdar documento 1 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '1240'
-ht-degree: 6%
+source-wordcount: '1206'
+ht-degree: 4%
 
 ---
 
@@ -29,7 +29,6 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <th>Área</th> 
    <th>Revisar foco</th>
-   <th>Coluna 3</th>
   </tr> 
   <tr> 
    <td>Usuários</td> 
@@ -39,7 +38,6 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
 <li>Quantos usuários <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Permissões de administrador</a>?</li>
 <li>Se algum desses usuários for alterado para <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">outras funções?</a></li> 
 <li>Quem são os usuários da API nessa instância?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Funções</td> 
@@ -49,19 +47,16 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
 <li>Com que frequência os usuários <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">efetuando login</a>?</li>
 <li>Cada usuário da API tem sua <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">função de usuário própria</a>? Caso contrário, considere implementar isso para facilitar a solução de problemas.</li> 
 <li>As funções e permissões do usuário estão alinhadas aos dados corporativos? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">políticas de privacidade</a>?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Documentação interna</td> 
    <td><li>Os usuários e as funções estão claramente definidos em sua organização?</li>
 <li>Qual é o seu processo para adicionar um novo usuário/administrador?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Sandbox (se aplicável)</td> 
    <td><li>Você tem um <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">instância de sandbox</a>? Em caso afirmativo, revise as categorias acima para sua sandbox.</li>
 <li>É <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Importação do programa</a> vinculado à sua sandbox?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -73,12 +68,10 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <th>Área</th> 
    <th>Revisar foco</th>
-   <th>Coluna 3</th>
   </tr> 
   <tr> 
    <td>Trila de auditoria</td> 
    <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Quem está trabalhando</a> no caso?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -90,7 +83,6 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <th>Área</th> 
    <th>Revisar foco</th>
-   <th>Coluna 3</th>
   </tr> 
   <tr> 
    <td>Espaços de trabalho e partições</td> 
@@ -99,13 +91,11 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
 <li>Faça o seu <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Espaços de trabalho</a> ou <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partições</a> precisa ser auditada/alterada?</li>
 <li>Qual é a relação entre seus espaços de trabalho e partições?</li>
 <li>Quantos usuários <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">ter acesso</a> para cada espaço de trabalho?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Documentação interna</td> 
    <td><li>Como os espaços de trabalho e as partições são definidos?</li>
 <li>Qual é o seu processo para adicionar espaços de trabalho à sua instância ou adicionar usuários a um espaço de trabalho?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -117,13 +107,11 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <th>Área</th> 
    <th>Revisar foco</th>
-   <th>Coluna 3</th>
   </tr> 
   <tr> 
    <td>Configurações da campanha inteligente</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Você tem uma restrição?</a> no tamanho do Smart Campaign?</li>
 <li>Caso contrário, considere adicionar um. Recomendamos limitar os limites da campanha inteligente para 25% do banco de dados para evitar comunicação excessiva ou processar todo o banco de dados em workflows. Isso não apenas protege a marca, mas ajuda a proteger o desempenho da instância.</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -135,13 +123,11 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <th>Área</th> 
    <th>Revisar foco</th>
-   <th>Coluna 3</th>
   </tr> 
   <tr> 
    <td>Limites de comunicação</td> 
    <td><li>Há <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">limites de comunicação</a> em vigor? Sua empresa tem políticas em que os limites de comunicação podem ser necessários?</li>
 <li>A Adobe recomenda limitar sua comunicação a 1 por dia e 3 por 7 dias, com <b>não</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operacional</a> emails bloqueados.</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -153,13 +139,11 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <th>Área</th> 
    <th>Revisar foco</th>
-   <th>Coluna 3</th>
   </tr> 
   <tr> 
    <td>Tags</td> 
    <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">Quantas tags</a> existem? Quantas tags estão em uso? É necessário adicionar alguma?</li>
 <li>As tags são necessárias em seus programas?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Canais</td> 
@@ -168,13 +152,11 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
 <li>Seus canais estão relacionados a tipos de programas específicos?</li>
 <li>Quais status são considerados bem-sucedidos para cada canal? Eles se alinham às suas metas de marketing?</li>
 <li>O canal Operacional está sendo usado adequadamente?</li>
-<li>Para o Advanced Report Builder (Revenue Cycle Explorer\RCE), o comportamento da análise do seu canal está definido para ser alinhado às práticas do seu programa que incorporam o custo do período?</li></td>
-   <td>3</td>
+<li>Para o Advanced Report Builder (Revenue Cycle Explorer/RCE), o comportamento da análise do seu canal está definido para ser alinhado às práticas do seu programa que incorporam o custo do período?</li></td>
   </tr>
   <tr> 
    <td>Calendário de marketing (se aplicável)</td> 
    <td><li>Quantas <a href="/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md" target="_blank">tipos de entrada de calendário</a> existem? Elas ainda são relevantes?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -186,7 +168,6 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <th>Área</th> 
    <th>Revisar foco</th>
-   <th>Coluna 3</th>
   </tr> 
   <tr> 
    <td>Gerenciamento de campos</td> 
@@ -198,19 +179,16 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
 <li>Existe um <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">conjunto de exibição personalizado</a> para detalhes da pessoa? Deveria haver?</li>
 <li>Você tem uma convenção de nomenclatura para seus campos com base na origem? Caso contrário, considere implementar isso.</li>
 <li>Há algum campo <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">bloqueado</a>? Certifique-se de entender por que eles estão.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Atividades personalizadas</td> 
    <td><li>Há algum <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">atividades personalizadas</a>?</li>
 <li>Em caso afirmativo, clique nessas atividades para entender quais atividades não estão relacionadas a um formulário, email ou página de aterrissagem do Marketo.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>objetos  personalizados</td> 
    <td><li>Quantas <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">objetos personalizados</a> existem? Como eles são sincronizados ao seu CRM?</li>
 <li>Como esses objetos personalizados estão sendo utilizados pelos seus programas e consultas de lista?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -222,14 +200,12 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <th>Área</th> 
    <th>Revisar foco</th>
-   <th>Coluna 3</th>
   </tr> 
   <tr> 
    <td>CRM</td> 
    <td><li>A qual CRM você está sincronizando? Salesforce? MS Dynamics? Veeva?</li>
 <li>A sincronização personalizada ou bidirecional? (KG: CORRIGIR GRAMÁTICA E VERIFICAR IMPORTÂNCIA)</li>
 <li>[Somente Salesforce] Sua instância tem Filtros de sincronização personalizados implementados? Entre em contato com o Suporte da Marketo para identificar Filtros de sincronização personalizados ou solicitar que uma regra de sincronização personalizada seja implementada.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Páginas</td> 
@@ -241,21 +217,18 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
 <li>Há regras configuradas para <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirecionamentos</a>?</li>
 <li>Você tem aliases de domínio em vigor? Você está rastreando por meio da documentação como está utilizando seus aliases de domínio?</li>
 <li>É <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Domínios seguros para páginas de aterrissagem</a> habilitado? Confirme se os ativos da página de aterrissagem contêm um URL "http".</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
    <td><li>É seu <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Código de rastreamento do Munchkin</a> no seu site (não no Marketo)?</li>
 <li>É um <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track (Não rastrear)</a> Solicitação de navegador ativada?</li>
 <li>É seu <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">API do Munchkin</a> configurado? Se você não tiver uma documentação sobre onde está o código do Munchkin no seu site, comece com uma visualização rápida usando o "Relatório do Web Analytics" no "Analytics" básico para entender onde o código do Munchkin é colocado em seu site.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Serviços da Web</td> 
    <td><li>São <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">Restrições de IP</a> habilitado? Deveriam ser?</li>
 <li>Quais usuários/aplicativos estão fazendo chamadas de API em sua instância?</li>
 <li>Você está atingindo ou perto de atingir o limite da API? Nesse caso, considere aumentá-lo ou auditar sua instância para desativar essas chamadas de API.</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight (se aplicável)</td> 
@@ -263,26 +236,22 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
 <li>Você <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">atualizado para a versão mais recente do Sales Insight</a>?</li>
 <li>Você concluiu a configuração do Sales Insight? Usuários Enterprise/Unlimited <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">clique aqui</a>, Usuários profissionais <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">clique aqui</a>.</li>
 <li>Você <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">acesso concedido aos usuários</a> com base no número de vagas que você comprou?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Ponto de lançamento (se aplicável)</td> 
    <td><li>Quais serviços você configurou (por exemplo, <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">Zoom</a>, etc.)? Algum está próximo da expiração?</li>
 <li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">Quantas chamadas de API</a> suas integrações estão usando o?</li>
 <li>Você tem as integrações certas em vigor para seus casos de uso?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Webhooks (se aplicável)</td> 
    <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">Quais conexões</a> você configurou o?</li>
 <li>Não estão mais em uso?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Aplicativos móveis (se aplicável)</td> 
    <td><li>Qual <a href="/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md" target="_blank">aplicativos móveis</a> você tem?</li>
 <li>Possuir <a href="/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md" target="_blank">dispositivos de teste</a>  foi adicionado?</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -294,19 +263,16 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <th>Área</th> 
    <th>Revisar foco</th>
-   <th>Coluna 3</th>
   </tr> 
   <tr> 
    <td>Baú do tesouro</td> 
    <td><li>O que está ativado no <a href="/help/marketo/product-docs/administration/settings/enable-or-disable-treasure-chest-features.md" target="_blank">Tórax Tesouro</a>?</li>
 <li>Há recursos que devem ser ativados ou desativados?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Inspetor de campanhas</td> 
    <td><li>É <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Inspetor de campanha</a> ligado?</li>
 <li>Caso contrário, considere ativá-la para identificar facilmente quais campanhas estão ativas, sincronizando com seu CRM e/ou excluindo registros.</li></td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>

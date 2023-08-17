@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: cb45578229c50300840660fc2a5629341ecfa98e
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
 source-wordcount: '9012'
 ht-degree: 5%
@@ -243,7 +243,7 @@ ht-degree: 5%
       + [Configurar o mapeamento da organização do Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Sincronizar um público-alvo do Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importação de ativos com o Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Visão geral da interface do Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + [Visão geral da interface da Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Conceitos principais do Marketo {#core-marketo-concepts}
       + Campanhas inteligentes {#smart-campaigns}
          + [Noções básicas sobre campanhas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -403,7 +403,7 @@ ht-degree: 5%
             + [Usando Custos do Período em um Programa](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Biblioteca de programas {#program-library}
             + [Visão geral da biblioteca de importação do programa](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Exemplo de programa de gerenciamento de conteúdo](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
+            + [Exemplo de programa de gerenciamento de consentimento](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md)
          + Relatório de desempenho do programa {#program-performance-report}
             + [Criar um relatório de desempenho do programa](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Adicionar colunas de status de programa a um relatório de programa](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -1947,7 +1947,7 @@ ht-degree: 5%
          + [Notas de versão: inverno de 18](release-notes/previous-releases/2018/release-notes-winter-18.md)
       + 2017 {#2017}
          + [Notas de versão: Aprimoramentos da ABM de abril de 2017](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
-         + [Notas de versão: aprimoramentos da ABM de agosto de 2017](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
+         + [Notas de versão: aprimoramentos da ABM de agosto de 17](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
          + [Notas de versão: outono de 17](release-notes/previous-releases/2017/release-notes-fall-17.md)
          + [Notas de versão: primavera de 17](release-notes/previous-releases/2017/release-notes-spring-17.md)
          + [Notas de versão: Verão de 17](release-notes/previous-releases/2017/release-notes-summer-17.md)
