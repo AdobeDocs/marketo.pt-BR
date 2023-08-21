@@ -3,7 +3,7 @@ description: Herdar Doc 4 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 4
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 5%
@@ -64,7 +64,8 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr>
   <tr> 
    <td>Privacidade e conformidade</td> 
-   <td><li>Sua estratégia de formulários está alinhada à privacidade de dados corporativos e aos requisitos de aceitação? Considere <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regulamento Geral sobre a Proteção de Dados (GDPR)</a>, CASL (Lei Anti-Spam do Canadá), Lei de Controle de Ataques a Pornografia e Marketing Não Solicitados de 2003 (CAN-SPAM), Lei de Privacidade do Consumidor da Califórnia (CCPA) etc. para conformidade com as regulamentações.</li>
+   <td><li>Sua estratégia de formulários está alinhada à privacidade de dados corporativos e aos requisitos de aceitação? 
+   <br/>Considere <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regulamento Geral sobre a Proteção de Dados (GDPR)</a>, CASL (Lei Anti-Spam do Canadá), Lei de Controle de Ataques a Pornografia e Marketing Não Solicitados de 2003 (CAN-SPAM), Lei de Privacidade do Consumidor da Califórnia (CCPA) etc. para conformidade com as regulamentações.</li>
 <p>Dica: lembre-se de sempre consultar a equipe jurídica sobre esses problemas. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
   </tr>
  </tbody> 
@@ -104,7 +105,8 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr> 
   <tr> 
    <td>Blocos de conteúdo</td> 
-   <td><li>Quantas <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">trechos</a> existem? Eles estão sendo usados? Caso contrário, considere usá-los para <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">landing page</a> conteúdo do rodapé, logotipos e muito mais.</li></td>
+   <td><li>Quantas <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">trechos</a> existem? Eles estão sendo usados? 
+   <br/>Caso contrário, considere usá-los para <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landing Page</a> conteúdo do rodapé, logotipos e muito mais.</li></td>
   </tr>
  </tbody> 
 </table>

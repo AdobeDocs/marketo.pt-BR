@@ -3,9 +3,9 @@ description: Herdar Doc 3 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '843'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,8 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr>
   <tr> 
    <td>Programas</td> 
-   <td><li>KG - ISTO AINDA É RELEVANTE <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Centro de excelência</a> com modelos de programa? Em caso afirmativo, os modelos de programa fazem sentido para os casos de uso das equipes?</li>
+   <td><li>KG - ISTO AINDA É RELEVANTE <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Centro de excelência</a> com modelos de programa? 
+   <br/>Em caso afirmativo, os modelos de programa fazem sentido para os casos de uso das equipes?</li>
 <li>São tipos de programas semelhantes <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">estruturado de forma consistente</a>?</li>
 <li>São <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">custos do período</a> colocado em prática?</li>
 <li>Todos os programas <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">sincronizado com campanhas do SFDC</a> (se aplicável)?</li>
@@ -44,7 +45,8 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr>
   <tr> 
    <td>Arquivar</td> 
-   <td><li>São programas mais antigos <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">arquivado</a>? A prática recomendada é revisar todo ano.</li>
+   <td><li>São programas mais antigos <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">arquivado</a>? 
+   <br/>A prática recomendada é revisar todo ano. KG - ISSO É VERDADE?</li>
 <li>Com que frequência sua empresa analisa e arquiva programas antigos?</li></td>
   </tr>
   <tr> 
@@ -56,7 +58,7 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <td>Assinaturas da lista inteligente 
    <br/>(guia Marketing Activities/Subscriptions)</td> 
    <td><li>Há relatórios em andamento <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Assinaturas da lista inteligente</a> em sua instância? Em caso afirmativo, a quem eles se destinam?</li>
-<p>Dica: considere configurar assinaturas de Smart List para acessar um alias de equipe em vez de um indivíduo. Isso abrange você caso os indivíduos estejam de férias ou de licença.</td>
+<p>Dica: considere configurar assinaturas de Smart List para acessar um alias de equipe em vez de um indivíduo. Isso abrange você caso os indivíduos estejam fora do escritório.</td>
   </tr>
  </tbody> 
 </table>
@@ -71,14 +73,17 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr> 
   <tr> 
    <td>Tokens</td> 
-   <td><li>Os tokens estão sendo usados nos tipos de programas mais usados? Caso contrário, você deve considerar usá-los para aumentar a eficiência.</li>
+   <td><li>Os tokens estão sendo usados nos tipos de programas mais usados? 
+   <br/>Caso contrário, você deve considerar usá-los para aumentar a eficiência.</li>
 <li>Se os tokens forem implementados, há tokens de pasta global? Como eles estão sendo usados?</li></td>
   </tr>
   <tr> 
    <td>Programas de envolvimento</td> 
    <td><li>Há eventos ao vivo <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Programas de envolvimento</a> correndo?</li>
-<li>Quantas <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">as pessoas estão exaustas</a>? Se houver muitas pessoas exaustas, considere adicionar conteúdo.</li>
-<li>As pessoas estão se envolvendo com o conteúdo? Caso contrário, considere atualizá-lo e/ou realizar um teste A/B.</li>
+<li>Quantas <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">as pessoas estão exaustas</a>? 
+<br/>Se houver muitas pessoas exaustas, considere adicionar conteúdo.</li>
+<li>As pessoas estão se envolvendo com o conteúdo? 
+<br/>Caso contrário, considere atualizá-lo e/ou realizar um teste A/B.</li>
 <li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">Quantas pessoas</a> KG - EXISTE UMA MANEIRA DE VER TODOS OS PROGRAMAS DE UMA SÓ VEZ? NÃO ACHA QUE SIM, MAS CERTIFIQUE-SE de que o esteja em mais de um programa de engajamento? Eles devem ser múltiplos?</li></td>
   </tr>
   <tr> 
@@ -96,16 +101,16 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <td>Forms local</td> 
    <td><li>Quantos programas têm recursos locais <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulários</a>? Esses formulários devem ser transformados em formulários globais?</li>
 <li>Eles estão capturando dados apropriados para suas equipes de marketing e vendas?</li>
-<p>Dica: limitar o número de formulários locais para facilitar a atualização e o alinhamento com as alterações nas políticas de privacidade de dados, aceitação/recusa? Considere ao criar um formulário quais perguntas precisam ser feitas se as informações coletadas não mudarem e a funcionalidade avançada do formulário não mudar. Considere um formulário global em vez de um formulário local.</td>
+<p>Dica: limite o número de formulários locais para facilitar a atualização e o alinhamento com as alterações com as políticas de privacidade de dados e de aceitação/recusa. Considere ao criar um formulário quais perguntas precisam ser feitas? Se as informações coletadas não mudarem e a funcionalidade avançada de formulário não mudar, considere um formulário global em vez de um formulário local. KG - VERIFICAR ISTO</td>
   </tr>
   <tr> 
    <td>Formulários globais</td> 
-   <td><li>Onde você usa <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">formulários globais</a>? (Páginas de aterrissagem do Marketo versus páginas de aterrissagem que não sejam da Marketo)</li>
-<li>Como seus formulários globais apontam os usuários para uma <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">página de agradecimento</a>? (por meio do campo de formulário oculto ou no modelo de página do CMS)</li>
+   <td><li>Onde você usa <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">formulários globais</a>? (Páginas de aterrissagem de Marketo Engage vs. páginas de aterrissagem que não são de Marketo Engage)</li>
+<li>Como seus formulários globais apontam os usuários para uma <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">página de agradecimento</a> (por meio do campo de formulário oculto ou no modelo de página do CMS)?</li>
 <li>Há campos de formulário que você deva considerar adicionar ou remover?</li>
 <li>Há valores de lista de opções que você deve alterar?</li>
 <li>Você precisa considerar <a href="/help/marketo/product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md" target="_blank">criação progressiva de perfis</a>?</li>
-<li>Todos os campos obrigatórios para sincronização de CRM e necessidades de marketing estão incluídos?</li>
+<li>Todos os campos obrigatórios para necessidades de sincronização e marketing de CRM estão incluídos?</li>
 <li>Seus formulários globais consideram a privacidade de dados e os requisitos legais para a estratégia e o gerenciamento de aceitação?</li></td>
   </tr>
  </tbody> 
@@ -127,7 +132,7 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   <tr> 
    <td>Fonte de pessoas</td> 
    <td><li>Você tem um programa centralizado que atribui valores a campos de origem de pessoa?</li>
-<p>Observação: o Marketo Engage reúne dados automaticamente em um campo de Origem, independentemente dos programas operacionais.</td>
+<p>Observação: o Marketo Engage reúne dados automaticamente em um campo de origem, independentemente dos programas operacionais.</td>
   </tr>
   <tr> 
    <td>Padronização de dados</td> 
@@ -139,13 +144,14 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr>
   <tr> 
    <td>Privacidade e conformidade</td> 
-   <td><li>Você tem programas para garantir a conformidade com as leis de spam e privacidade de dados? Considere <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA etc.</li>
+   <td><li>Você tem programas para garantir a conformidade com as leis de spam e privacidade de dados? 
+   <br/>Considere <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA etc.</li>
 <p>Dica: lembre-se de sempre consultar a equipe jurídica sobre esses problemas. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
   </tr>
   <tr> 
    <td>Ciclo de vida</td> 
    <td><li>Você tem um programa para mover as pessoas pelo seu ciclo de vida?</li>
-<li>Quais valores estão disponíveis para Status de pessoa?</li></td>
+<li>Quais valores estão disponíveis para o status de pessoa?</li></td>
   </tr>
   <tr> 
    <td>Possibilidade de entrega de e-mails</td> 

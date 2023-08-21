@@ -3,7 +3,7 @@ description: Herdar documento 1 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '1223'
 ht-degree: 4%
@@ -55,7 +55,7 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr>
   <tr> 
    <td>Sandbox (se aplicável)</td> 
-   <td><li>Você tem um <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">instância de sandbox</a>? 
+   <td><li>Você tem um <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">instância de sandbox</a>?
    <br/>Em caso afirmativo, revise as categorias acima para sua sandbox.</li>
 <li>É <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Importação do programa</a> vinculado à sua sandbox?</li></td>
   </tr>
@@ -187,8 +187,8 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr>
   <tr> 
    <td>Atividades personalizadas</td> 
-   <td><li>Há algum <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">atividades personalizadas</a>?</li>
-<br/>Em caso afirmativo, clique nessas atividades para entender quais atividades não estão relacionadas a um formulário, email ou página de aterrissagem do Marketo.</td>
+   <td><li>Há algum <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">atividades personalizadas</a>?
+<br/>Em caso afirmativo, clique nessas atividades para entender quais atividades não estão relacionadas a um formulário, email ou página de aterrissagem do Marketo.</li></td>
   </tr>
   <tr> 
    <td>objetos  personalizados</td> 
@@ -280,8 +280,8 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr>
   <tr> 
    <td>Inspetor de campanhas</td> 
-   <td><li>É <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Inspetor de campanha</a> ligado?</li>
-<br/>Caso contrário, considere ativá-la para identificar facilmente quais campanhas são: ativas, sincronizando com seu CRM e/ou excluindo registros.</td>
+   <td><li>É <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Inspetor de campanha</a> ligado?
+<br/>Caso contrário, considere ativá-la para identificar facilmente quais campanhas são: ativas, sincronizando com seu CRM e/ou excluindo registros.</li></td>
   </tr>
  </tbody> 
 </table>
