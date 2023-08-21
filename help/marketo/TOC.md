@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
 workflow-type: tm+mt
-source-wordcount: '9021'
+source-wordcount: '9027'
 ht-degree: 5%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 5%
       + [Redirecionar uma página](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatizar um Alerta para Possíveis Pessoas Duplicadas](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Herdar uma instância do Marketo {#inheriting-a-marketo-instance}
+      + [Nova visão geral de herança](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
       + [Ajuda! Herdei uma instância do Marketo existente](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Itens para Check-off](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [O que analisar: principais habilidades](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
@@ -46,6 +47,7 @@ ht-degree: 5%
       + [Novo Documento Herdado 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
       + [Novo Documento Herdado 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
       + [Novo Documento Herdado 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+      + [Novo Documento Herdado 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 + Documentação do produto {#product-docs}
    + Aplicativos adicionais {#additional-apps}
       + SEO {#seo}
