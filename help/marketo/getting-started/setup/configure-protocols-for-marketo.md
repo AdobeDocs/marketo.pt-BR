@@ -4,16 +4,16 @@ description: Configurar protocolos para o Marketo - Documentação do Marketo - 
 title: Configurar protocolos para o Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
 source-wordcount: '1024'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
 # Configurar protocolos para o Marketo {#configure-protocols-for-marketo}
 
-Lista de permissões Se você ou sua organização usarem configurações restritivas de firewall ou servidor proxy, talvez você ou o administrador de rede precise pesquisar determinados domínios e intervalos de endereço IP para garantir que o Adobe Marketo Engage funcione conforme esperado.
+Incluir na lista de permissões Se você ou sua organização usarem configurações restritivas de firewall ou servidor proxy, talvez você ou o administrador de rede precise pesquisar determinados domínios e intervalos de endereço IP para garantir que o Adobe Marketo Engage funcione conforme esperado.
 
 ## Páginas de aterrissagem e e-mails de campanha com marca {#branded-campaign-landing-pages-and-emails}
 
@@ -27,6 +27,7 @@ Se sua equipe de TI restringir o acesso à Web usando uma inclui na lista de per
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
 * `*.experience.adobe.com`
+* `*.adobe.net`
 
 ## Etapa 1: criar registros DNS para landing pages e email {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -63,11 +64,11 @@ Notifique a equipe de marketing quando concluir esse processo.
 
 Esse processo pode levar até 3 dias úteis para ser concluído.
 
-## Etapa 2: Marketo IPs da Lista de permissões {#step-allowlist-marketo-ips}
+## Etapa 2: Marketo IPs da Incluir na lista de permissões {#step-allowlist-marketo-ips}
 
 Quando seu grupo de marketing usa o Marketo para enviar emails de teste (uma prática recomendada antes de enviar propagações de email), os emails de teste às vezes são bloqueados por sistemas antisspam que dependem de endereços IP de remetente para verificar se o email é válido. Para garantir que esses emails de teste cheguem, adicione o Marketo ao seu incluo na lista de permissões de teste.
 
-Lista de permissões Adicione esses endereços IP ao seu arquivo de pesquisa corporativo:
+Incluir na lista de permissões Adicione esses endereços IP ao seu arquivo de pesquisa corporativo:
 
 94.236.119.0/26
 
@@ -125,7 +126,7 @@ Uma conexão de saída é feita por Marketo Engage a um servidor na Internet em 
 
 **Webhooks**
 
-Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} A ação de fluxo é executada como parte de uma campanha inteligente, uma solicitação HTTP é feita a um serviço da web externo. Lista de permissões lista de permissões Se o editor de serviços da Web usar um arquivo de replicação na rede em que o serviço da Web externo está localizado, o editor deverá adicionar os blocos de endereço IP listados abaixo ao seu arquivo de replicação.
+Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} A ação de fluxo é executada como parte de uma campanha inteligente, uma solicitação HTTP é feita a um serviço da web externo. Incluir na lista de permissões incluir na lista de permissões Se o editor de serviços da Web usar um arquivo de replicação na rede em que o serviço da Web externo está localizado, o editor deverá adicionar os blocos de endereço IP listados abaixo ao seu arquivo de replicação.
 
 **Sincronização com CRM**
 
@@ -133,7 +134,7 @@ Marketo Engage [Sincronização do Salesforce CRM](/help/marketo/product-docs/cr
 
 **Blocos de Endereço IP de Saída Marketo Engage**
 
-As tabelas a seguir cobrem todos os servidores Marketo Engage que fazem chamadas de saída. Lista de permissões Use as listas abaixo se você estiver configurando um arquivo IP, servidor, firewall, lista de controle de acesso, grupo de segurança ou serviço de terceiros para receber conexões de saída do Marketo Engage.
+As tabelas a seguir cobrem todos os servidores Marketo Engage que fazem chamadas de saída. Incluir na lista de permissões Use as listas abaixo se você estiver configurando um arquivo IP, servidor, firewall, lista de controle de acesso, grupo de segurança ou serviço de terceiros para receber conexões de saída do Marketo Engage.
 
 <table>
  <tbody>
