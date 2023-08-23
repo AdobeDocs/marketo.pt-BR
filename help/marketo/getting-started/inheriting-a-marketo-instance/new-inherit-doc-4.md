@@ -3,20 +3,16 @@ description: Herdar Doc 4 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 4
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '506'
 ht-degree: 5%
 
 ---
 
 # Herdar Doc 4 {#inherit-doc-4}
 
-Você herdou uma instância de Marketo Engage existente de outro administrador? Em caso afirmativo, este artigo é para você.
-
->[!TIP]
->
->Se você for um novo usuário de Marketo Engage e não estiver familiarizado com muitos dos termos, verifique a [Glossário do Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Estruturar modelos e criar formulários globais, trechos e imagens e arquivos ajudará a minimizar erros de dados, bem como simplificar o fluxo de trabalho da criação do seu programa.
 
 ## Páginas {#landing-pages}
 
@@ -35,6 +31,10 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <td><li>Quantas <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Modelos de landing page</a> existem? Eles estão sendo aproveitados?</li></td>
   </tr>
   <tr> 
+   <td>Grupos de teste</td> 
+   <td><li>Quantas <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">Grupos de teste de landing page</a> eles são? Elas ainda são relevantes?</li></td>
+  </tr>
+   <tr> 
    <td>Privacidade e conformidade</td> 
    <td><li>Todas as páginas de aterrissagem têm os rodapés apropriados?</li></td>
   </tr>
@@ -88,6 +88,10 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
    <td><li>Quantas <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">modelos de email</a> existem? Eles estão sendo aproveitados?</li></td>
   </tr>
   <tr> 
+   <td>Teste de email</td> 
+   <td><li>Como você está usando o <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">teste de email</a>? Seu método ainda é eficaz?</li></td>
+  </tr>
+  <tr> 
    <td>Privacidade e conformidade</td> 
    <td><li>Todos os seus emails têm os rodapés apropriados? Considere o GDPR, CASL, CAN-SPAM, CCPA etc. para implicações de conformidade.</li>
 <p>Dica: lembre-se de sempre consultar a equipe jurídica sobre esses problemas de conformidade. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
@@ -135,3 +139,30 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr>
  </tbody> 
 </table>
+
+## Todos os ativos {#all-assets}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th>Área</th> 
+   <th>Revisar foco</th>
+  </tr> 
+  <tr> 
+   <td>Status do ativo</td> 
+   <td><li>Quantos ativos há no <i>Rascunho</i> e <i>Aprovado com rascunho</i> Status?
+   <br/>Se houver muitos, considere excluí-los ou aprová-los.</li></td>
+  </tr>
+  <tr> 
+   <td>Compartilhamento de ativos</td> 
+   <td><li>Quais ativos são <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">compartilhado entre espaços de trabalho</a>?</li>
+   <p>Observação: é importante saber isso, pois as ações realizadas em um espaço de trabalho podem levar a um ativo inacessível em um espaço de trabalho diferente para outro usuário.</td>
+  </tr>
+ </tbody> 
+</table>
+
+<br> 
+
+[► Auditoria de uma instância herdada: Atividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+
+[Auditoria de uma instância herdada: documentar sua configuração de instância herdada ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
