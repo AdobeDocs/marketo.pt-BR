@@ -2,9 +2,9 @@
 description: Guia Mapa de engajamento - Documentação do Marketo - Documentação do produto
 title: Guia Mapa de engajamento
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -122,9 +122,17 @@ Este é um exemplo de uma campanha de solicitação com opções.
 
 ## Tratamento de erros {#error-handling}
 
-Os erros nas Smart Lists e Etapas de fluxo serão destacados por meio de um ícone de erro no cartão. Além disso, uma mensagem de erro correspondente será refletida no painel deslizante.
+Os erros nas Smart Lists e nas etapas de fluxo serão destacados por meio de um ícone vermelho no cartão. Além disso, uma mensagem de erro correspondente será refletida no painel deslizante.
 
-Veja abaixo um exemplo de erro em um acionador que aparece no cartão de visão geral do acionador, no painel deslizante e no cartão de acionador detalhado.
+Os avisos em Smart Lists e Etapas de fluxo serão destacados por meio de um ícone laranja no cartão. Além disso, uma mensagem de aviso correspondente será refletida no painel deslizante.
+
+Abaixo está um exemplo de um aviso em um cartão Opção, que é exibido no cartão de etapa Executar fluxo do Campaign, no painel deslizante e no cartão Opção padrão.
+
+![](assets/engagement-map-tab-18.png)
+
+>[!NOTE]
+>
+>Os avisos são recomendações a serem analisadas, mas não indicam erros na Campanha inteligente.
 
 **Os erros nos cartões de filtro podem incluir:**
 
