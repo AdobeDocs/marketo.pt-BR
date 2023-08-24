@@ -3,16 +3,16 @@ description: Herdar Doc 5 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: dcfbd50df5ef642c3c94b96be938a43f30e8288b
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 4%
+source-wordcount: '228'
+ht-degree: 2%
 
 ---
 
 # Herdar Doc 5 {#inherit-doc-5}
 
-Texto
+Agora que você aprendeu as principais áreas do produto para auditar ao herdar uma instância estabelecida, a próxima etapa é criar/atualizar a documentação na configuração da instância e na pilha técnica. Ao criá-la por meio de uma planilha ou um aplicativo de gerenciamento de projeto, sua documentação é um excelente recurso para rastrear o progresso e registrar os detalhes.
 
 ## Dados {#data}
 
@@ -51,7 +51,7 @@ Texto
   <tr> 
    <td>Organização</td> 
     <td><li>Você tem uma documentação robusta sobre como a sua instância do Marketo Engage está organizada e por quê?</li>
-   <p>Item de ação: criar a documentação que contém a estrutura de pastas, a convenção de nomenclatura e os canais/status KG - ESTATUTOS? usada na sua instância.</td>
+   <p>Item de ação: crie a documentação que contém a estrutura de pastas, a convenção de nomenclatura e os canais usados na sua instância.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -69,3 +69,5 @@ Texto
   </tr>
  </tbody> 
 </table>
+
+[} Auditoria de uma instância herdada: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

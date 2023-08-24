@@ -3,20 +3,16 @@ description: Herdar Doc 3 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '801'
 ht-degree: 2%
 
 ---
 
 # Herdar Doc 3 {#inherit-doc-3}
 
-Você herdou uma instância de Marketo Engage existente de outro administrador? Em caso afirmativo, este artigo é para você.
-
->[!TIP]
->
->Se você for um novo usuário de Marketo Engage e não estiver familiarizado com muitos dos termos, verifique a [Glossário do Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+As Atividades de marketing são o local onde sua equipe de marketing pode criar Campanhas inteligentes, criar ativos criativos (por exemplo, emails e Páginas de aterrissagem) e visualizar o desempenho dos ativos.
 
 ## Organização {#organization}
 
@@ -45,9 +41,9 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr>
   <tr> 
    <td>Arquivar</td> 
-   <td><li>São programas mais antigos <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">arquivado</a>? 
-   <br/>A prática recomendada é revisar todo ano. KG - ISSO É VERDADE?</li>
-<li>Com que frequência sua empresa analisa e arquiva programas antigos?</li></td>
+   <td><li>São programas mais antigos <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">arquivado</a>?</li>
+<li>Com que frequência sua empresa analisa e arquiva programas antigos?</li>
+<p>Dica: É bom fazer uma análise a cada ano.</td>
   </tr>
   <tr> 
    <td>Notificações</td> 
@@ -78,13 +74,12 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
 <li>Se os tokens forem implementados, há tokens de pasta global? Como eles estão sendo usados?</li></td>
   </tr>
   <tr> 
-   <td>Programas de envolvimento</td> 
+   <td>Programas de engajamento</td> 
    <td><li>Há eventos ao vivo <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Programas de envolvimento</a> correndo?</li>
 <li>Quantas <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">as pessoas estão exaustas</a>? 
 <br/>Se houver muitas pessoas exaustas, considere adicionar conteúdo.</li>
 <li>As pessoas estão se envolvendo com o conteúdo? 
-<br/>Caso contrário, considere atualizá-lo e/ou realizar um teste A/B.</li>
-<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">Quantas pessoas</a> KG - EXISTE UMA MANEIRA DE VER TODOS OS PROGRAMAS DE UMA SÓ VEZ? NÃO ACHA QUE SIM, MAS CERTIFIQUE-SE de que o esteja em mais de um programa de engajamento? Eles devem ser múltiplos?</li></td>
+<br/>Caso contrário, considere atualizá-lo e/ou realizar um teste A/B.</li></td>
   </tr>
   <tr> 
    <td>Campanhas em lote</td> 
@@ -169,3 +164,9 @@ Você herdou uma instância de Marketo Engage existente de outro administrador? 
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[► Auditoria de uma Instância Herdada: Banco de Dados](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+
+[Auditoria de uma instância herdada: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

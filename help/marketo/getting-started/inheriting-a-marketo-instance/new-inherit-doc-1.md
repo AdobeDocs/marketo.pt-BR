@@ -3,20 +3,18 @@ description: Herdar documento 1 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '1223'
+source-wordcount: '1229'
 ht-degree: 4%
 
 ---
 
 # Herdar Doc 1 {#inherit-doc-1}
 
-A auditoria de uma instância herdada pode parecer um...
+Como novo administrador do Adobe Marketo Engage, há várias tarefas que você desejará executar para verificar a integridade e a viabilidade da sua instância herdada.
 
-Você herdou uma instância de Marketo Engage existente de outro administrador? Em caso afirmativo, este artigo é para você...
-
-A lista de verificação abaixo foi colocada junto com a entrada de especialistas do Marketo para ajudar você a se atualizar rapidamente em sua instância herdada...
+As listas de verificação abaixo (listas de verificação subsequentes vinculadas na parte inferior de cada artigo) foram colocadas junto com a entrada de especialistas do Marketo para ajudar você a se familiarizar rapidamente. Documente seu progresso na Lista de verificação de instância herdada do Marketo Engage.
 
 >[!TIP]
 >
@@ -112,7 +110,7 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <td>Configurações da campanha inteligente</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Você tem uma restrição?</a> no tamanho do Smart Campaign? 
-   <br/>Caso contrário, considere adicionar um. Recomendamos limitar os limites da campanha inteligente para 25% do banco de dados para evitar comunicação excessiva ou processar todo o banco de dados em workflows. Isso não apenas protege a marca, mas ajuda a proteger o desempenho da instância. KG - ISSO É PRECISO?</li></td>
+   <br/>Caso contrário, considere adicionar um. Recomendamos limitar os limites do Smart Campaign a 25% do seu banco de dados para evitar comunicação excessiva ou o processamento de todo o seu banco de dados em workflows. Isso não só protege a sua marca, mas ajuda a proteger o desempenho da sua instância.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -128,7 +126,7 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <td>Limites de comunicação</td> 
    <td><li>Há <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">limites de comunicação</a> em vigor? Sua empresa tem políticas em que os limites de comunicação podem ser necessários?</li>
-<p>Observação: a Adobe recomenda limitar sua comunicação a 1 por dia e 3 por 7 dias, com <b>não</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operacional</a> emails bloqueados. KG - ISSO É PRECISO?</td>
+<p>Observação: a Adobe recomenda limitar sua comunicação a 1 por dia e 3 por 7 dias, com <b>não</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operacional</a> emails bloqueados.</td>
   </tr>
  </tbody> 
 </table>
@@ -209,9 +207,9 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   <tr> 
    <td>CRM</td> 
    <td><li>A qual CRM você está sincronizando? Salesforce? MS Dynamics? Veeva?</li>
-<li>A sincronização personalizada ou bidirecional? (KG: CORRIGIR GRAMÁTICA E VERIFICAR IMPORTÂNCIA)</li>
+<li>Você está utilizando uma sincronização personalizada?</li>
 <li>[Somente Salesforce] Sua instância tem Filtros de sincronização personalizados implementados? 
-<p>Observação: entre em contato com o Suporte da Marketo para identificar Filtros de sincronização personalizados ou solicitar a implementação de uma regra de sincronização personalizada.</li></td>
+<p>Observação: entre em contato com o Suporte da Marketo para identificar Filtros de sincronização personalizados ou solicitar a implementação de uma Regra de sincronização personalizada.</li></td>
   </tr>
   <tr> 
    <td>Páginas</td> 
@@ -313,3 +311,7 @@ A lista de verificação abaixo foi colocada junto com a entrada de especialista
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[Auditoria de uma instância herdada: Base de dados ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)

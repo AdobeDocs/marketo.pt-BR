@@ -3,9 +3,9 @@ description: Saiba como otimizar e dimensionar uma instância de Marketo Engage 
 title: Iniciar com o Jumpstart uma instância de Marketo Engage herdada
 hide: true
 hidefromtoc: true
-source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '335'
 ht-degree: 1%
 
 ---
@@ -55,5 +55,3 @@ Precisa de mais ajuda? Conecte-se conosco ou com outros usuários do Marketo Eng
 * Conecte-se e aprenda com outros usuários do Marketo Engage na **[Nação de marketing](https://nation.marketo.com/){target="_blank"}**.
 
 * Para obter assistência prática para aproveitar ao máximo a instância do Marketo Engage, entre em contato com **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
-
-* Para aprimorar suas habilidades em Marketo Engage, navegue pelo **[Catálogo de cursos do Marketo Engage](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.
