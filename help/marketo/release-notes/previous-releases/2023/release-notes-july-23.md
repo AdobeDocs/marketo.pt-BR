@@ -2,9 +2,9 @@
 description: Notas de versão - julho de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - julho de 2023
 feature: Release Information
-source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
+source-git-commit: 45e092f7b7e7beeef9712869b62ba4e022c2bf3d
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '664'
 ht-degree: 6%
 
 ---
@@ -67,8 +67,8 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
@@ -81,8 +81,8 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
