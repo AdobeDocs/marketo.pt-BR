@@ -3,9 +3,9 @@ description: Herdar Doc 3 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '788'
 ht-degree: 2%
 
 ---
@@ -96,7 +96,7 @@ As Atividades de marketing são o local onde sua equipe de marketing pode criar 
    <td>Forms local</td> 
    <td><li>Quantos programas têm recursos locais <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulários</a>? Esses formulários devem ser transformados em formulários globais?</li>
 <li>Eles estão capturando dados apropriados para suas equipes de marketing e vendas?</li>
-<p>Dica: limite o número de formulários locais para facilitar a atualização e o alinhamento com as alterações com as políticas de privacidade de dados e de aceitação/recusa. Considere ao criar um formulário quais perguntas precisam ser feitas? Se as informações coletadas não mudarem e a funcionalidade avançada de formulário não mudar, considere um formulário global em vez de um formulário local. KG - VERIFICAR ISTO</td>
+<p>Dica: limite o número de formulários locais para facilitar a atualização e o alinhamento com as alterações com as políticas de privacidade de dados e de aceitação/recusa. Ao criar um formulário, que perguntas precisam ser feitas? Se as informações coletadas não mudarem e a funcionalidade avançada de formulário não mudar, considere um formulário global em vez de um formulário local.</td>
   </tr>
   <tr> 
    <td>Formulários globais</td> 
@@ -131,11 +131,11 @@ As Atividades de marketing são o local onde sua equipe de marketing pode criar 
   </tr>
   <tr> 
    <td>Padronização de dados</td> 
-   <td><li>Você tem um programa centralizado em vigor para padronizar os dados recebidos? KG - DOUBLECHECK THIS</li></td>
+   <td><li>Você tem um programa centralizado em vigor para padronizar os dados recebidos?</li></td>
   </tr>
   <tr> 
    <td>Gerenciamento de rejeição</td> 
-   <td><li>Você tem um programa centralizado para lidar com <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">pessoas que rejeitam</a>? KG - ESTE ARTIGO DE 2017 AINDA É RELEVANTE?</li></td>
+   <td><li>Você tem um programa centralizado para lidar com <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">pessoas que rejeitam</a>?</li></td>
   </tr>
   <tr> 
    <td>Privacidade e conformidade</td> 
