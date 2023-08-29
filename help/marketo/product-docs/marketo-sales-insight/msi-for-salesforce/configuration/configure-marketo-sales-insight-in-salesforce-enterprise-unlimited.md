@@ -4,10 +4,10 @@ description: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimit
 title: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
+source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
 workflow-type: tm+mt
-source-wordcount: '847'
-ht-degree: 12%
+source-wordcount: '937'
+ht-degree: 10%
 
 ---
 
@@ -80,6 +80,20 @@ Estas são as etapas necessárias para configurar o Marketo Sales Insight no Sal
    >[!NOTE]
    >
    >_Você_ escolha o seu **Nome do local remoto** (MarketoAPI é usada aqui). A variável **URL do local remoto** Você pode ser encontrado no campo Host do Marketo da caixa de diálogo Editar configuração da API na Etapa 3 da seção &quot;Configurar o Sales Insight no Marketo&quot;.
+
+## Conceder aos usuários do Sales Insight acesso aos objetos padrão do Salesforce {#grant-sales-insight-users-profile-access}
+
+Devido aos aprimoramentos de segurança do Salesforce, os pacotes do App Exchange não podem mais conceder permissão a objetos padrão, e o acesso precisará ser concedido aos objetos relevantes do Salesforce no perfil do usuário do Salesforce.  Siga as etapas abaixo para conceder as permissões necessárias.
+
+1. Clique em **Configuração**.
+
+1. Pesquise &quot;Perfis&quot; em Localização rápida.
+
+1. Clique em **Editar** ao lado do perfil que seus usuários do Salesforce estão usando.
+
+1. Na seção Permissão de objeto padrão, habilite o acesso de leitura para os seguintes objetos: cliente em potencial, contato, conta e oportunidade.
+
+1. Clique em **Salvar**.
 
 ## Personalizar Layouts de Página {#customize-page-layouts}
 
