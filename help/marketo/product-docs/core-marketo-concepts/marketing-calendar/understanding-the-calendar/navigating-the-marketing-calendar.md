@@ -4,20 +4,24 @@ description: Navegação no calendário de marketing - Documentação do Marketo
 title: Navegar pelo calendário de marketing
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 1%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
 # Navegar pelo calendário de marketing {#navigating-the-marketing-calendar}
 
-Navegar pelo Calendário de marketing é fácil como um, dois, três!
+Navegar pelo Calendário de marketing é fácil. Veja como.
 
 >[!PREREQUISITES]
 >
 >Verifique se você tem um [Licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - caso contrário, o bloco Calendário de marketing não será exibido em Minha Marketo.
+
+>[!NOTE]
+>
+>Campanhas inteligentes recorrentes não são suportadas no Calendário de marketing.
 
 1. Vá para a **Calendário de marketing**.
 

@@ -4,16 +4,20 @@ description: Tipos de entrada de exibição de cronograma do programa - Document
 title: Tipos de Entrada de Exibição de Calendário do Programa
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 16%
+source-wordcount: '152'
+ht-degree: 15%
 
 ---
 
 # Tipos de Entrada de Exibição de Calendário do Programa {#program-schedule-view-entry-types}
 
 Há oito tipos de entrada incorporados diferentes que estarão visíveis e disponíveis para uso na visualização do cronograma do programa. Também é possível [criar tipos de entrada personalizados](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) na seção Admin.
+
+>[!NOTE]
+>
+>As campanhas inteligentes recorrentes são **não** compatível com a exibição de agendamento.
 
 <table> 
  <thead> 
@@ -29,7 +33,7 @@ Há oito tipos de entrada incorporados diferentes que estarão visíveis e dispo
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Campanha inteligente <img alt="--" src="assets/image2014-9-24-10-3a5-3a2.png" data-linked-resource-id="3082716" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">Campanha inteligente agendada sem etapa do fluxo Enviar email.</td> 
+   <td colspan="1" rowspan="1">Campanha inteligente programada sem etapa do fluxo Enviar email.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Campanha inteligente com e-mail <img alt="--" src="assets/image2014-9-24-10-3a5-3a14.png" data-linked-resource-id="3082717" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
