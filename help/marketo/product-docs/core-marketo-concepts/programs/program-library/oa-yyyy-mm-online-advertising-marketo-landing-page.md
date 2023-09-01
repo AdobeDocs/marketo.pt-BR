@@ -4,7 +4,7 @@ title: Página de aterrissagem OA-YYYY-MM-Online Advertising Marketo
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 17%
@@ -110,8 +110,6 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
  </tbody> 
 </table>
 
-IMAGEM DO PROGRAMA
-
 ## Meus tokens incluídos {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -169,6 +167,8 @@ IMAGEM DO PROGRAMA
   </tr>
  </tbody> 
 </table>
+
+IMAGEM DO PROGRAMA
 
 ## Regras de conflito {#conflict-rules}
 
