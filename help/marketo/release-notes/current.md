@@ -1,11 +1,11 @@
 ---
 description: Notas de versão atuais — Documentação do Marketo — Documentação do produto
-title: Notas de versão atuais
+title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: d87c05212afbc916bd11cf681a4375e31f46550c
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '941'
 ht-degree: 12%
 
 ---
@@ -92,8 +92,8 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Revisar e aprovar blueprint</a></td>
   </tr>
   </tbody>
 </table>
