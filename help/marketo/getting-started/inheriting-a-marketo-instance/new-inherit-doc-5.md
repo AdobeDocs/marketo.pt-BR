@@ -3,9 +3,9 @@ description: Herdar Doc 5 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '237'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
   <tr> 
    <td>Dicionário de dados</td> 
    <td><li>Há um dicionário de dados separado que explique os campos disponíveis?
-   <br/>     Caso contrário, considere a criação de um.</li></td>
+   <br/>     Caso contrário, considere criar um em uma pasta acessível à sua equipe de Operações de marketing.</li></td>
   </tr>
   <tr> 
    <td>Organização</td> 

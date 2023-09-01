@@ -3,10 +3,10 @@ description: Herdar documento 2 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 9%
+source-wordcount: '365'
+ht-degree: 8%
 
 ---
 
@@ -47,7 +47,7 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
   </tr>
   <tr> 
    <td>Endereços de email com mensagens rejeitadas</td> 
-   <td><li>Texto</li></td>
+   <td><li>KG - AGUARDANDO ENTREGABILIDADE</li></td>
   </tr>
   <tr> 
    <td>Possíveis duplicatas</td> 
