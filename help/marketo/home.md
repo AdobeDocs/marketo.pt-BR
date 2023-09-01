@@ -1,15 +1,15 @@
 ---
 title: Documentos de produtos da Marketo
-description: Documentos de produtos da Marketo
+description: Documentação do produto Marketo Engage
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 30%
+source-wordcount: '52'
+ht-degree: 17%
 
 ---
 
-# Documentos de produtos da Marketo
+# Documentação do produto Marketo Engage
 
 ![](assets/marketo-docs-banner.jpg)
 
@@ -18,7 +18,7 @@ ht-degree: 30%
 * [Etapas de configuração](/help/marketo/getting-started/setup/setup-steps.md)
 * [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Configurar protocolos para o Marketo](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
-* [Glossário do Marketo](/help/marketo/getting-started/marketo-glossary.md)
+* [Glossário do Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md)
 
 ## Artigos populares
 
