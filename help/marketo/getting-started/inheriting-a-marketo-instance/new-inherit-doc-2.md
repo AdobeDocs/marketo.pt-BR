@@ -3,7 +3,7 @@ description: Herdar documento 2 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 699b213157a8a621a1f2f8544c6f4995fad930cd
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 9%
@@ -19,7 +19,7 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
@@ -27,7 +27,7 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
    <td><li>Quantas pessoas existem na <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">banco de dados</a>?</li>
 <li>Se o banco de dados estiver quase cheio, a política da empresa recomenda expandir o tamanho do banco de dados ou limpar os dados históricos?</li>
 <li>Seu banco de dados geral é no mínimo 85% comercializável? 
-<br/>Se o seu estiver abaixo desse limite, verifique as outras listas inteligentes do sistema (Inclui na lista de bloqueios, Marketing suspenso, Duplicatas, Cancelar inscrição) com mais escrutínio.</li></td>
+<br/>     Se o seu estiver abaixo desse limite, verifique as outras listas inteligentes do sistema (Inclui na lista de bloqueios, Marketing suspenso, Duplicatas, Cancelar inscrição) com mais escrutínio.</li></td>
   </tr>
   <tr> 
    <td>Pessoas que cancelaram a inscrição</td> 
@@ -52,12 +52,12 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
   <tr> 
    <td>Possíveis duplicatas</td> 
    <td><li>Quantas <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">registros possivelmente duplicados</a> existem?
-   <br/>Considere excluí-los ou mesclá-los.</li></td>
+   <br/>     Considere excluí-los ou mesclá-los.</li></td>
   </tr>
    <tr> 
    <td>Nenhum programa de aquisição</td> 
    <td><li>Quantas pessoas não têm um <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programa de aquisição</a>?
-   <br/>Se há muito, considere investigar o porquê.</li></td>
+   <br/>     Se há muito, considere investigar o porquê.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -67,13 +67,14 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
    <td>Listas inteligentes</td> 
    <td><li>Quantas <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart Lists</a> existem? Como eles são usados nessa instância?</li>
-<li>As listas estão organizadas em uma estrutura de pastas coesa? <br/>Se você tiver listas órfãs, considere organizar sua árvore para que os ativos sejam fáceis de encontrar.</li>
+<li>As listas estão organizadas em uma estrutura de pastas coesa? 
+<br/>     Se você tiver listas órfãs, considere organizar sua árvore para que os ativos sejam fáceis de encontrar.</li>
 <p>Dica: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Arquivamento</a> As Smart Lists desnecessárias ajudarão na organização e no desempenho.</td>
   </tr>
  </tbody> 
@@ -84,7 +85,7 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
@@ -99,7 +100,7 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
@@ -107,7 +108,7 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
    <td><li>Qual <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentações</a> existem? Como eles estão sendo usados?</li>
 <li>Há muitas pessoas em <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segmentos padrão</a>?</li>
 <li>Há uma segmentação para o público comercializável? 
-<br/>Caso contrário, considere a criação de um.</li></td>
+<br/>     Caso contrário, considere a criação de um.</li></td>
   </tr>
  </tbody> 
 </table>

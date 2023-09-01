@@ -3,7 +3,7 @@ description: Herdar Doc 5 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 2%
@@ -19,7 +19,7 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
@@ -40,13 +40,13 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
    <td>Dicionário de dados</td> 
    <td><li>Há um dicionário de dados separado que explique os campos disponíveis?
-   <br/>Caso contrário, considere a criação de um.</li></td>
+   <br/>     Caso contrário, considere a criação de um.</li></td>
   </tr>
   <tr> 
    <td>Organização</td> 
@@ -60,7 +60,7 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
   <tr> 
    <td>Playbooks</td> 
     <td><li>Sua organização tem um manual do usuário ou do administrador? 
-    <br/>Em caso afirmativo, atualize-os de acordo.</li></td>
+    <br/>     Em caso afirmativo, atualize-os de acordo.</li></td>
   </tr>
   <tr> 
    <td>Conversas com partes interessadas internas</td> 

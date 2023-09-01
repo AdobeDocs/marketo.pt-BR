@@ -3,9 +3,9 @@ description: Herdar Doc 4 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 4
 hide: true
 hidefromtoc: true
-source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '513'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
@@ -46,7 +46,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
@@ -65,7 +65,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
   <tr> 
    <td>Privacidade e conformidade</td> 
    <td><li>Sua estratégia de formulários está alinhada à privacidade de dados corporativos e aos requisitos de aceitação? 
-   <br/>Considere <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regulamento Geral sobre a Proteção de Dados (GDPR)</a>, CASL (Lei Anti-Spam do Canadá), Lei de Controle de Ataques a Pornografia e Marketing Não Solicitados de 2003 (CAN-SPAM), Lei de Privacidade do Consumidor da Califórnia (CCPA) etc. para conformidade com as regulamentações.</li>
+   <br/>     Considere <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regulamento Geral sobre a Proteção de Dados (GDPR)</a>, Lei Anti-Spam do Canadá (CASL), Lei de Controle de Ataques a Pornografia e Marketing Não Solicitados de 2003 (CAN-SPAM), Lei de Privacidade do Consumidor da Califórnia (CCPA) etc. para conformidade com as regulamentações.</li>
 <p>Dica: lembre-se de sempre consultar a equipe jurídica sobre esses problemas. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
   </tr>
  </tbody> 
@@ -76,7 +76,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
@@ -104,13 +104,13 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
    <td>Blocos de conteúdo</td> 
    <td><li>Quantas <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">trechos</a> existem? Eles estão sendo usados? 
-   <br/>Caso contrário, considere usá-los para <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landing Page</a> conteúdo do rodapé, logotipos e muito mais.</li></td>
+   <br/>     Caso contrário, considere usá-los para <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landing Page</a> conteúdo do rodapé, logotipos e muito mais.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -120,7 +120,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
@@ -134,7 +134,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
   <tr> 
    <td>Imagens e arquivos</td> 
    <td><li>Fazer imagens ou arquivos <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">referenciado nas páginas da web</a> precisa ser atualizado? 
-   <p>Exemplo: a estrutura de URL codificada pode precisar ser atualizada, como <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Exemplo: a estrutura de URL codificada <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">pode precisar ser atualizado</a>, como <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>Trabalhe com o desenvolvedor da Web para determinar onde pode ser necessário fazer atualizações.</li></td>
   </tr>
  </tbody> 
@@ -145,13 +145,13 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar foco</th>
   </tr> 
   <tr> 
    <td>Status do ativo</td> 
    <td><li>Quantos ativos há no <i>Rascunho</i> e <i>Aprovado com rascunho</i> Status?
-   <br/>Se houver muitos, considere excluí-los ou aprová-los.</li></td>
+   <br/>     Se houver muitos, considere excluí-los ou aprová-los.</li></td>
   </tr>
   <tr> 
    <td>Compartilhamento de ativos</td> 
