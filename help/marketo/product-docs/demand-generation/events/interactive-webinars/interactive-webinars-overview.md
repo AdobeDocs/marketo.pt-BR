@@ -3,9 +3,9 @@ description: Visão geral de webinários interativos - Documentação do Marketo
 title: Visão geral de webinários interativos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c38f2361edcf8ed04aff28b25ea5f5fb757fb5ab
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Visão geral de webinários interativos {#interactive-webinars-overview}
 
 O recurso Webinars interativos é nossa plataforma de webinário integrada no Marketo Engage. Não são necessárias ferramentas ou integrações adicionais.
+
+>[!IMPORTANT]
+>
+>Webinars interativos viabilizados pelo Adobe Connect são um recurso com integração incorporada ao Adobe Connect. Seu uso de Webinars interativos estará sujeito a termos e condições adicionais.  Revise seu contrato ou entre em contato com a Adobe para saber sobre os termos e condições adicionais.
 
 ## O que são webinários interativos? {#what-is-interactive-webinars}
 
