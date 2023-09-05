@@ -4,9 +4,9 @@ title: Programa de webinário WBN-YYYY-MM-DD
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '581'
 ht-degree: 19%
 
 ---
@@ -53,37 +53,37 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr> 
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>01 - Email - Convite</td>
   </tr>
    <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>02 - Email - Lembrete de convite</td>
   </tr>
    <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>03 - Email - Lembrete de convite - Última chance</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>04 - Email - Confirmação de registro</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>05 - Email - Lembrete de participação</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>06 -E-mail - Acompanhamento - Participou</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>07 - Email - Acompanhamento - Sem exibição </td>
   </tr>
   <tr>
@@ -94,17 +94,17 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr>
   <tr> 
    <td>Página</td> 
-   <td>Modelo de LP de Início Rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>01 - LP - Registro</td>
   </tr>
   <tr> 
    <td>Página</td> 
-   <td>Modelo de LP de Início Rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>02 - LP - Obrigado</td>
   </tr>
   <tr> 
    <td>Página</td> 
-   <td>Modelo de LP de Início Rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>03 - PA - Sob Demanda</td>
   </tr>
   <tr> 
@@ -150,17 +150,12 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Campanha inteligente</td> 
    <td> </td>
-   <td>04 - Participou (êxito do programa)</td>
+   <td>04 - Enviar Emails de Acompanhamento</td>
   </tr>
   <tr> 
    <td>Campanha inteligente</td> 
    <td> </td>
-   <td>05 - Enviar Emails de Acompanhamento</td>
-  </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
-   <td> </td>
-   <td>06 - Participou sob demanda (êxito do programa)</td>
+   <td>05 - Participou sob demanda (êxito do programa)</td>
   </tr>
   <tr> 
    <td>Pasta</td> 
@@ -333,7 +328,7 @@ CAPTURA DE TELA DAS REGRAS DE CONFLITO
 
 >[!TIP]
 >
->Não se esqueça de ativar as campanhas &quot;04-Attended (Program Success)&quot; e &quot;06-Attended On-Demand (Program Success)&quot; para rastrear o sucesso! Faça isso _antes_ seus emails serão enviados.
+>Não se esqueça de ativar a campanha &quot;05 - Participou (Sucesso do programa)&quot; para rastrear o sucesso! Faça isso _antes_ seus emails serão enviados.
 
 >[!IMPORTANT]
 >

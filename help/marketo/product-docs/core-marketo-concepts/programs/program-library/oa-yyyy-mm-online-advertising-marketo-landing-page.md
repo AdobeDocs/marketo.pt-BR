@@ -4,9 +4,9 @@ title: Página de aterrissagem OA-YYYY-MM-Online Advertising Marketo
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '480'
 ht-degree: 17%
 
 ---
@@ -29,8 +29,8 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr> 
   <tr> 
    <td>Publicidade on-line</td> 
-   <td>01-Membro 
-<br/>02-Envolvido-Sucesso</td>
+   <td>01 - Membro 
+<br/>02 - Envolvido - Sucesso</td>
    <td>Inclusivo</td>
    <td>Padrão</td>
   </tr>
@@ -53,17 +53,17 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>01-Email-Obrigado</td>
   </tr>
   <tr> 
    <td>Página</td> 
-   <td>Modelo de LP de Início Rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>01 - LP - Registro</td>
   </tr>
    <tr> 
    <td>Página</td> 
-   <td>Modelo de LP de Início Rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>02 - LP - Obrigado</td>
   </tr>
    <tr> 
@@ -84,12 +84,12 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Campanha inteligente</td> 
    <td> </td>
-   <td>01-Formulário Preenchido</td>
+   <td>01 - Formulário preenchido</td>
   </tr>
   <tr> 
    <td>Campanha inteligente</td> 
    <td> </td>
-   <td>02-Envolvido (Sucesso do programa)</td>
+   <td>02 - Envolvido (Sucesso do programa)</td>
   </tr>
   <tr> 
    <td>Pasta</td> 
@@ -207,7 +207,7 @@ CAPTURA DE TELA DAS REGRAS DE CONFLITO
 
 >[!TIP]
 >
->Não se esqueça de ativar a Campanha &quot;02-Engajado&quot; para rastreamento do sucesso! Faça isso _antes_ o formulário está disponível e os emails são enviados.
+>Não se esqueça de ativar a campanha &quot;02 - Envolvido (Sucesso do programa)&quot; para rastrear o sucesso! Faça isso _antes_ o formulário está disponível e os emails são enviados.
 
 >[!IMPORTANT]
 >

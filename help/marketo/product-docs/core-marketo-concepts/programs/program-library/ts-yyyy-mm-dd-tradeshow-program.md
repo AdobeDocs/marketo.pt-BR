@@ -4,9 +4,9 @@ title: Programa de feiras de vendas em DD/MM/TS-YYYY
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '416'
 ht-degree: 20%
 
 ---
@@ -52,12 +52,12 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr> 
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>01-Email-Obrigado</td>
   </tr>
    <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>02a- Email - Convite</td>
   </tr>
   <tr>
@@ -84,17 +84,12 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <tr> 
    <td>Campanha inteligente</td> 
    <td> </td>
-   <td>02 - Envolvido no Programa (Sucesso)</td>
+   <td>02 - Enviar emails de acompanhamento</td>
   </tr>
    <tr> 
    <td>Campanha inteligente</td> 
    <td> </td>
-   <td>03 - Enviar Emails de Acompanhamento</td>
-  </tr>
-   <tr> 
-   <td>Campanha inteligente</td> 
-   <td> </td>
-   <td>04 - Envolvido pelo email de acompanhamento (Sucesso)</td>
+   <td>03 - Envolvido pelo email de acompanhamento (Sucesso)</td>
   </tr>
   <tr> 
    <td>Pasta</td> 
@@ -219,7 +214,7 @@ CAPTURA DE TELA DAS REGRAS DE CONFLITO
 
 >[!TIP]
 >
->Não se esqueça de ativar as campanhas &quot;02-Envolvido no Show (Sucesso do Programa)&quot; e &quot;04-Envolvido pelo Email de Acompanhamento (Sucesso do Programa)&quot; para rastrear o sucesso! Faça isso _antes_ seus emails serão enviados.
+>Não se esqueça de ativar a campanha &quot;03 - Engajado pelo e-mail de acompanhamento (sucesso do programa)&quot; para rastrear o sucesso! Faça isso _antes_ seus emails serão enviados.
 
 >[!IMPORTANT]
 >

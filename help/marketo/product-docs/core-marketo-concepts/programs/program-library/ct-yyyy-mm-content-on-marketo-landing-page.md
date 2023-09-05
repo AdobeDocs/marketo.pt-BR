@@ -4,9 +4,9 @@ title: Conteúdo de CT-YYYY-MM na página de aterrissagem do Marketo
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '479'
 ht-degree: 17%
 
 ---
@@ -48,23 +48,23 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr> 
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>01-Email-Obrigado</td>
   </tr>
   <tr> 
    <td>Página</td> 
-   <td>Modelo de LP de Início Rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>01 - LP - Registro</td>
   </tr>
   <tr> 
    <td>Página</td> 
-   <td>Modelo de LP de Início Rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>02 - LP - Obrigado</td>
   </tr>
   <tr> 
    <td>Formulário</td> 
    <td> </td>
-   <td>Formulário de registro de conteúdo</td>
+   <td>FM - Formulário de registro de conteúdo</td>
   </tr>
   <tr> 
    <td>Relatório local</td> 
@@ -76,21 +76,26 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <td> </td>
    <td>Desempenho da página</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Campanha inteligente</td> 
    <td> </td>
-   <td>01-Formulário Preenchido</td>
+   <td>00 - Programa de aquisição de captura</td>
   </tr>
   <tr> 
    <td>Campanha inteligente</td> 
    <td> </td>
-   <td>02-Envolvido (Sucesso do programa)</td>
+   <td>01 - Formulário preenchido</td>
+  </tr>
+  <tr> 
+   <td>Campanha inteligente</td> 
+   <td> </td>
+   <td>02 - Envolvido (Sucesso do programa)</td>
   </tr>
   <tr> 
    <td>Pasta</td> 
    <td> </td>
    <td>Ativos - hospeda todos os ativos criativos 
-<br/>(subpastas para páginas de e-mail e de aterrissagem)  </td>
+<br/>(subpastas para emails, landing pages e Forms)  </td>
   </tr>
   <tr> 
    <td>Pasta</td> 
