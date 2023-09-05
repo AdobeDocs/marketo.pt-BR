@@ -4,7 +4,7 @@ title: Página de aterrissagem de conteúdo não Marketo CT-YYYY-MM
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 17%
@@ -48,7 +48,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr> 
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>01-Email-Obrigado</td>
   </tr>
   <tr> 

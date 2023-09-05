@@ -4,7 +4,7 @@ title: Gerenciamento OP-Lead
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 19%
@@ -61,7 +61,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>01 - E-mail - ALERTA - MQL</td>
   </tr>
   <tr> 

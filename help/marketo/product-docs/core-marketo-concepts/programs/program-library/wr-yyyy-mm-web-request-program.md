@@ -4,7 +4,7 @@ title: Programa de solicitação da Web WR-YYYY-MM
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '409'
 ht-degree: 18%
@@ -52,17 +52,17 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>Alert-WebRequest</td>
   </tr>
   <tr> 
    <td>Página</td> 
-   <td>Modelo de LP de Início Rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>01 - LP - Solicitação</td>
   </tr>
   <tr> 
    <td>Página</td> 
-   <td>Modelo de LP de Início Rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>02 - LP - Obrigado</td>
   </tr>
   <tr> 

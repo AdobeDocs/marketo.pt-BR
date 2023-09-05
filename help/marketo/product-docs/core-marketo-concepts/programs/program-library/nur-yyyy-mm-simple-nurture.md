@@ -4,7 +4,7 @@ title: NUR-AAAA-MM-Enfermagem Simples
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 21%
@@ -48,17 +48,17 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr> 
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>01 - Email</td>
   </tr>
    <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>02 - Email</td>
   </tr>
    <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>03 - Email</td>
   </tr>
   <tr> 

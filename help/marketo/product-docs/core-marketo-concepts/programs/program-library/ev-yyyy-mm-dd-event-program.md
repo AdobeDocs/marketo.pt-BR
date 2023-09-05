@@ -4,7 +4,7 @@ title: Programa de eventos EV-AAAA-MM-DD
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 20%
@@ -51,47 +51,47 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr> 
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>01-Email-Obrigado</td>
   </tr>
    <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>02a- Email - Convite</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>02b - Email - Lembrete de convite</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>02c- Email - Lembrete de Convite Última Chance</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>03 - Email - Lembrete de participação</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>04a - Email - Acompanhamento - Participou</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Modelo de e-mail de início rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>04b - Email - Acompanhamento - NãoMostrar</td>
   </tr>
   <tr> 
    <td>Página</td> 
-   <td>Modelo de LP de Início Rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>01a - LP - Registro</td>
   </tr>
   <tr> 
    <td>Página</td> 
-   <td>Modelo de LP de Início Rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>01b - LP - Obrigado</td>
   </tr>
   <tr> 

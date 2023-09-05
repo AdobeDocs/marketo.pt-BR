@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
+source-git-commit: 69c2dc58f8ca609702f6e39543d8d72cba6b439c
 workflow-type: tm+mt
-source-wordcount: '9064'
+source-wordcount: '9073'
 ht-degree: 5%
 
 ---
@@ -425,6 +425,8 @@ ht-degree: 5%
             + [Pontuação OP-Demográfica](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
             + [API de aquisição OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
             + [Gerenciamento de Entregabilidade OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
+            + [Modelo de e-mail de início rápido](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md)
+            + [Modelo de página de aterrissagem de início rápido](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md)
          + Relatório de desempenho do programa {#program-performance-report}
             + [Criar um relatório de desempenho do programa](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Adicionar colunas de status de programa a um relatório de programa](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
