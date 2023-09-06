@@ -3,9 +3,9 @@ description: Herdar documento 2 - Documentação do Marketo - Documentação do 
 title: Herdar Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 8%
 
 ---
@@ -75,7 +75,7 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
    <td><li>Quantas <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart Lists</a> existem? Como eles são usados nessa instância?</li>
 <li>As listas estão organizadas em uma estrutura de pastas coesa? 
 <br/>     Se você tiver listas órfãs, considere organizar sua árvore para que os ativos sejam fáceis de encontrar.</li>
-<p>Dica: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Arquivamento</a> As Smart Lists desnecessárias ajudarão na organização e no desempenho.</td>
+<p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Arquivamento</a> As Smart Lists desnecessárias ajudarão na organização e no desempenho.</td>
   </tr>
  </tbody> 
 </table>

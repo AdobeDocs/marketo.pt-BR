@@ -3,9 +3,9 @@ description: Herdar Doc 3 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '806'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,7 @@ Organize corretamente a seção de Atividades de marketing para ajudar outras pe
    <td>Arquivar</td> 
    <td><li>São programas mais antigos <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">arquivado</a>?</li>
 <li>Com que frequência sua empresa analisa e arquiva programas antigos?</li>
-<p>Dica: É bom fazer uma análise a cada ano.</td>
+<p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: É bom fazer uma análise a cada ano.</td>
   </tr>
   <tr> 
    <td>Notificações</td> 
@@ -54,7 +54,7 @@ Organize corretamente a seção de Atividades de marketing para ajudar outras pe
    <td>Assinaturas da lista inteligente 
    <br/>(guia Marketing Activities/Subscriptions)</td> 
    <td><li>Há relatórios em andamento <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Assinaturas da lista inteligente</a> em sua instância? Em caso afirmativo, a quem eles se destinam?</li>
-<p>Dica: considere configurar assinaturas de Smart List para acessar um alias de equipe em vez de um indivíduo. Isso abrange você caso os indivíduos estejam fora do escritório.</td>
+<p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: Considere configurar assinaturas de Smart List para acessar um alias de equipe em vez de um indivíduo. Isso abrange você caso os indivíduos estejam fora do escritório.</td>
   </tr>
  </tbody> 
 </table>
@@ -96,7 +96,7 @@ Organize corretamente a seção de Atividades de marketing para ajudar outras pe
    <td>Forms local</td> 
    <td><li>Quantos programas têm recursos locais <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulários</a>? Esses formulários devem ser transformados em formulários globais?</li>
 <li>Eles estão capturando dados apropriados para suas equipes de marketing e vendas?</li>
-<p>Dica: limite o número de formulários locais para facilitar a atualização e o alinhamento com as alterações com as políticas de privacidade de dados e de aceitação/recusa. Ao criar um formulário, que perguntas precisam ser feitas? Se as informações coletadas não mudarem e a funcionalidade avançada de formulário não mudar, considere um formulário global em vez de um formulário local.</td>
+<p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: limite o número de formulários locais para facilitar a atualização e o alinhamento às alterações com as políticas de privacidade de dados e de aceitação/recusa. Ao criar um formulário, que perguntas precisam ser feitas? Se as informações coletadas não mudarem e a funcionalidade avançada de formulário não mudar, considere um formulário global em vez de um formulário local.</td>
   </tr>
   <tr> 
    <td>Formulários globais</td> 
@@ -127,7 +127,7 @@ Organize corretamente a seção de Atividades de marketing para ajudar outras pe
   <tr> 
    <td>Fonte de pessoas</td> 
    <td><li>Você tem um programa centralizado que atribui valores a campos de origem de pessoa?</li>
-<p>Observação: o Marketo Engage reúne dados automaticamente em um campo de origem, independentemente dos programas operacionais.</td>
+<p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: o Marketo Engage reúne dados automaticamente em um campo de origem, independentemente dos programas operacionais.</td>
   </tr>
   <tr> 
    <td>Padronização de dados</td> 
@@ -141,7 +141,7 @@ Organize corretamente a seção de Atividades de marketing para ajudar outras pe
    <td>Privacidade e conformidade</td> 
    <td><li>Você tem programas para garantir a conformidade com as leis de spam e privacidade de dados? 
    <br/>     Considere <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA etc.</li>
-<p>Dica: lembre-se de sempre consultar a equipe jurídica sobre esses problemas. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
+<p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: lembre-se de sempre consultar a equipe jurídica sobre esses problemas. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
   </tr>
   <tr> 
    <td>Ciclo de vida</td> 

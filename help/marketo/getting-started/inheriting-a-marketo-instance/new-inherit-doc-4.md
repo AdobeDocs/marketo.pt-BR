@@ -3,9 +3,9 @@ description: Herdar Doc 4 - Documentação do Marketo - Documentação do produt
 title: Herdar Doc 4
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '521'
 ht-degree: 5%
 
 ---
@@ -60,13 +60,13 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
   <tr> 
    <td>Padronização de dados</td> 
    <td><li>São seus <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">campos de formulário</a> principalmente listas de opções ou campos de texto abertos?</li>
-<p>Dica: se forem campos de texto abertos, considere trocá-los por listas de opções para evitar dados confusos.</td>
+<p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: se forem campos de texto abertos, considere trocá-los por listas de opções para evitar dados confusos.</td>
   </tr>
   <tr> 
    <td>Privacidade e conformidade</td> 
    <td><li>Sua estratégia de formulários está alinhada à privacidade de dados corporativos e aos requisitos de aceitação? 
    <br/>     Considere <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regulamento Geral sobre a Proteção de Dados (GDPR)</a>, Lei Anti-Spam do Canadá (CASL), Lei de Controle de Ataques a Pornografia e Marketing Não Solicitados de 2003 (CAN-SPAM), Lei de Privacidade do Consumidor da Califórnia (CCPA) etc. para conformidade com as regulamentações.</li>
-<p>Dica: lembre-se de sempre consultar a equipe jurídica sobre esses problemas. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
+<p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: lembre-se de sempre consultar a equipe jurídica sobre esses problemas. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
   </tr>
  </tbody> 
 </table>
@@ -94,7 +94,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
   <tr> 
    <td>Privacidade e conformidade</td> 
    <td><li>Todos os seus emails têm os rodapés apropriados? Considere o GDPR, CASL, CAN-SPAM, CCPA etc. para implicações de conformidade.</li>
-<p>Dica: lembre-se de sempre consultar a equipe jurídica sobre esses problemas de conformidade. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
+<p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: lembre-se de sempre consultar a equipe jurídica sobre esses problemas de conformidade. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
   </tr>
  </tbody> 
 </table>
@@ -156,7 +156,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
   <tr> 
    <td>Compartilhamento de ativos</td> 
    <td><li>Quais ativos são <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">compartilhado entre espaços de trabalho</a>?</li>
-   <p>Observação: é importante saber isso, pois as ações realizadas em um espaço de trabalho podem levar a um ativo inacessível em um espaço de trabalho diferente para outro usuário.</td>
+   <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: é importante saber isso, pois as ações realizadas em um espaço de trabalho podem levar a um ativo inacessível em um espaço de trabalho diferente para outro usuário.</td>
   </tr>
  </tbody> 
 </table>

@@ -4,9 +4,9 @@ title: Modelo de e-mail de início rápido
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '577'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Preenchimento inferior do módulo
    * Cor de fundo do módulo
    * Alinhamento do logotipo
-* PICC
+* ![](assets/quick-start-email-template-1.png)
 
 ### Módulo de imagem {#image-module}
 
@@ -46,7 +46,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Preenchimento superior do módulo
    * Preenchimento inferior do módulo
    * Cor de fundo do módulo
-* PICC
+* ![](assets/quick-start-email-template-2.png)
 
 ### Módulo do título {#headline-module}
 
@@ -58,7 +58,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Tamanho da fonte do título (isso também pode ser editado no editor de rich text)
    * Cor da fonte do título (isso também pode ser editado no editor de rich text)
    * Alinhamento do texto do título (isso também pode ser editado no editor de rich text)
-* PICC
+* ![](assets/quick-start-email-template-3.png)
 
 ### Módulo de subtítulo {#subheadline-module}
 
@@ -70,7 +70,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Tamanho da fonte do subtítulo (também pode ser editado no editor de rich text)
    * Cor da fonte do subtítulo (isso também pode ser editado no editor de rich text)
    * Alinhamento do texto do subtítulo (isso também pode ser editado no editor de rich text)
-* PICC
+* ![](assets/quick-start-email-template-4.png)
 
 ### Módulo de texto livre {#free-text-module}
 
@@ -82,7 +82,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Tamanho da fonte do texto (isso também pode ser editado no editor de rich text)
    * Cor da fonte do texto (isso também pode ser editado no editor de rich text)
    * Alinhamento do texto (isso também pode ser editado no editor de rich text)
-* PICC
+* ![](assets/quick-start-email-template-5.png)
 
 ### Módulo CTA {#cta-module}
 
@@ -97,7 +97,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * URL CTA
    * Texto CTA
    * Alinhamento CTA
-* PICC
+* ![](assets/quick-start-email-template-6.png)
 
 ### Módulo divisor {#divider-module}
 
@@ -108,7 +108,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Cor do divisor
    * Altura do divisor (em pixels)
    * Largura do divisor (em %)
-* PICC
+* ![](assets/quick-start-email-template-7.png)
 
 ### Módulo de Rodapé {#footer-module}
 
@@ -120,4 +120,4 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Cor de fundo do módulo
    * Cor do texto
    * Alinhamento de conteúdo
-* PICC
+* ![](assets/quick-start-email-template-8.png)

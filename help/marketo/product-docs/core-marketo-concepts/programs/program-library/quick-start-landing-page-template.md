@@ -4,9 +4,9 @@ title: Modelo de página de aterrissagem de início rápido
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Mostrar ou ocultar a seção
    * Preenchimento superior da seção
    * Preenchimento inferior da seção
-* PICC
+* ![](assets/quick-start-landing-page-template-1.png)
 
 ### Seção Imagem {#image-section}
 
@@ -42,7 +42,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * O link da imagem do banner
    * A largura do banner - um dos switches na parte inferior direita permite que você transforme a imagem na largura do container de conteúdo ou na largura do navegador inteiro
    * Mostrar ou ocultar a seção
-* PICC
+* ![](assets/quick-start-landing-page-template-2.png)
 
 ### Texto de 2 colunas à esquerda, Seção Formulário à direita {#two-col-left-form-right}
 
@@ -56,7 +56,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Mostrar ou ocultar a seção inteira
    * Mostrar ou ocultar apenas o formulário (ocultar o formulário faz com que o texto na coluna à esquerda preencha a largura da página. Isso pode ser usado para uma página de agradecimento ou confirmação em que um formulário não está presente.)
    * Mostrar ou ocultar o texto da política de privacidade
-* PICC
+* ![](assets/quick-start-landing-page-template-3.png)
 
 ### Seção de vídeo {#video-section}
 
@@ -66,7 +66,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Código de inserção de vídeo
    * Mostrar/ocultar título do vídeo
    * Mostrar/ocultar vídeo
-* PICC
+* ![](assets/quick-start-landing-page-template-4.png)
 
 ### Seção de Rodapé {#footer-section}
 
@@ -76,7 +76,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Cor do plano de fundo da seção
    * Cor dos ícones sociais
    * Mostrar/ocultar seção
-* PICC
+* ![](assets/quick-start-landing-page-template-5.png)
 
 ### Variáveis adicionais {#additional-variables}
 
