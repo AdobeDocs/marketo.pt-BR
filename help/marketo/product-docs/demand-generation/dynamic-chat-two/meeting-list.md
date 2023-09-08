@@ -1,16 +1,22 @@
 ---
-description: Doc - Documentação do Marketo - Documentação do produto
-title: Doc
+description: Lista de reuniões - Documentação do Marketo - Documentação do produto
+title: Lista de Reuniões
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 2e18242afb1600ca0e63f9ab777a7ba4ad1e5fbc
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
-source-wordcount: '9'
-ht-degree: 22%
+source-wordcount: '95'
+ht-degree: 0%
 
 ---
 
-# Doc {#doc}
+# Lista de Reuniões {#meeting-list}
 
-Em breve
+É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias Caixas de Diálogo. Aqui você encontrará o endereço de email da pessoa que reservou o compromisso, com qual agente ele reservou o compromisso, quando o compromisso está agendado para ocorrer e se o horário agendado para a reunião já passou ou não.
+
+![](assets/meeting-list-1.png)
+
+>[!NOTE]
+>
+>Quando uma reunião é reservada no calendário de um agente, ele receberá uma notificação por email sobre a reserva, incluindo informações detalhadas sobre o engajamento do Dynamic Chat do visitante.

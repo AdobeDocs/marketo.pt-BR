@@ -3,7 +3,7 @@ description: Adicionar ou remover usuários do chat - Documentação do Marketo 
 title: Adicionar ou Remover Usuários do Chat
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Siga as etapas abaixo para adicionar ou remover usuários do chat.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. Clique em **Bate-papo dinâmico**.
+1. Clique em **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -74,13 +74,13 @@ Se a função Marketo do usuário de bate-papo recém-adicionada ainda não tive
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. Clique em **Bate-papo dinâmico**.
+1. Clique em **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
    >[!NOTE]
    >
-   >Se você tiver mais de uma assinatura do Marketo, selecione a desejada antes da próxima etapa).
+   >Se você tiver mais de uma assinatura do Marketo, selecione a desejada antes da próxima etapa.
 
 1. Clique em **Usuários** guia.
 
