@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 69c2dc58f8ca609702f6e39543d8d72cba6b439c
+source-git-commit: 5d2c7f39805473a94f9d67dd829faf37d87631b1
 workflow-type: tm+mt
-source-wordcount: '9073'
+source-wordcount: '9083'
 ht-degree: 5%
 
 ---
@@ -647,7 +647,11 @@ ht-degree: 5%
          + [Adicionar a correspondência do cliente do Google como um serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Enviar uma lista para uma rede de publicidade](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + Dynamic Chat Dois {#dynamic-chat-two}
+         + Chat automatizado {#automated-chat}
+            + [Configurações de fluxo de conversa](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
       + Dynamic Chat {#dynamic-chat}
+         + [Liberar Inserções](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Visão geral do Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configuração inicial](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Adicionar ou Remover Usuários do Chat](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
