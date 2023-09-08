@@ -4,10 +4,10 @@ title: API de aquisição OP
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 26%
+source-wordcount: '171'
+ht-degree: 27%
 
 ---
 
@@ -61,7 +61,7 @@ Este programa de exemplo é para processos operacionais para rastrear a aquisiç
  </tbody> 
 </table>
 
-IMAGEM DO PROGRAMA
+![](assets/op-acquisition-api-1.png)
 
 ## Regras de conflito {#conflict-rules}
 
@@ -80,8 +80,6 @@ IMAGEM DO PROGRAMA
 * **Modelos de e-mail com o mesmo nome**
    * Manter ambos os modelos - _Recomendado_
    * Substituir modelo existente
-
-CAPTURA DE TELA DAS REGRAS DE CONFLITO
 
 ## Práticas recomendadas {#best-practices}
 

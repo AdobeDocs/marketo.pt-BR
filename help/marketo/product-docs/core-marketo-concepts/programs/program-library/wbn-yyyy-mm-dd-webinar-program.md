@@ -4,9 +4,9 @@ title: Programa de webinário WBN-YYYY-MM-DD
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '574'
 ht-degree: 19%
 
 ---
@@ -176,6 +176,8 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
  </tbody> 
 </table>
 
+![](assets/wbn-yyyy-mm-dd-webinar-program-1.png)
+
 ## Meus tokens incluídos {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -289,8 +291,6 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
  </tbody> 
 </table>
 
-IMAGEM DO PROGRAMA
-
 ## Regras de conflito {#conflict-rules}
 
 * **Marcas de programa**
@@ -308,8 +308,6 @@ IMAGEM DO PROGRAMA
 * **Modelos de e-mail com o mesmo nome**
    * Manter ambos os modelos
    * Substituir modelo existente - _Recomendado_
-
-CAPTURA DE TELA DAS REGRAS DE CONFLITO
 
 ## Práticas recomendadas {#best-practices}
 

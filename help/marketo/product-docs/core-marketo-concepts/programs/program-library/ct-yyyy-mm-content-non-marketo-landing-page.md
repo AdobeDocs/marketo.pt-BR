@@ -4,10 +4,10 @@ title: Página de aterrissagem de conteúdo não Marketo CT-YYYY-MM
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 17%
+source-wordcount: '400'
+ht-degree: 18%
 
 ---
 
@@ -95,6 +95,8 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
  </tbody> 
 </table>
 
+![](assets/ct-yyyy-mm-content-non-marketo-landing-page-1.png)
+
 ## Meus tokens incluídos {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -137,8 +139,6 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
  </tbody> 
 </table>
 
-IMAGEM DO PROGRAMA
-
 ## Regras de conflito {#conflict-rules}
 
 * **Marcas de programa**
@@ -156,8 +156,6 @@ IMAGEM DO PROGRAMA
 * **Modelos de e-mail com o mesmo nome**
    * Manter ambos os modelos
    * Substituir modelo existente - _Recomendado_
-
-CAPTURA DE TELA DAS REGRAS DE CONFLITO
 
 ## Práticas recomendadas {#best-practices}
 

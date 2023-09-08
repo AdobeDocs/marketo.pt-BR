@@ -4,9 +4,9 @@ title: Gerenciamento OP-Lead
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '266'
 ht-degree: 19%
 
 ---
@@ -77,7 +77,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
  </tbody> 
 </table>
 
-IMAGEM DO PROGRAMA
+![](assets/op-lead-management-1.png)
 
 ## Regras de conflito {#conflict-rules}
 
@@ -96,8 +96,6 @@ IMAGEM DO PROGRAMA
 * **Modelos de e-mail com o mesmo nome**
    * Manter ambos os modelos - _Recomendado_
    * Substituir modelo existente
-
-CAPTURA DE TELA DAS REGRAS DE CONFLITO
 
 ## Práticas recomendadas {#best-practices}
 
