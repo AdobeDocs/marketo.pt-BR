@@ -4,10 +4,10 @@ title: Visão geral do Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 2%
+source-wordcount: '876'
+ht-degree: 3%
 
 ---
 
@@ -52,6 +52,10 @@ Conecte seu calendário do Outlook ou Gmail para usar no agendamento de compromi
 ## Roteamento {#routing}
 
 É aqui que você pode ver uma lista de todos os agentes que conectaram seus calendários, que ordem eles serão apresentados aos visitantes do site e criar regras de roteamento personalizadas. [Saiba mais sobre Roteamento](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+
+## Chat ao vivo {#live-chat}
+
+Ofereça aos visitantes da Web qualificados para se conectarem com seus representantes de vendas via chat ao vivo. LINK PARA DOCUMENTO
 
 ## Perguntas frequentes {#faq}
 

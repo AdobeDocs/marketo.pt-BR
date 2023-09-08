@@ -4,9 +4,9 @@ title: Designer de fluxo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '980'
 ht-degree: 2%
 
 ---
@@ -48,6 +48,16 @@ O designer de fluxo contém vários cartões que você pode adicionar para molda
  <tr>
   <td><strong>Meta</strong></td>
   <td>Essa é a única carta que os visitantes não verão. Cabe a você determinar em qual ponto uma meta é alcançada no chat específico (por exemplo: se coletar o email do visitante for a sua meta, coloque o cartão de Meta imediatamente após a Captura de informações no stream).</td>
+ </tr>
+ <tr>
+  <td><strong>Ação</strong></td>
+  <td>Semelhante aos campos ocultos em um formulário, com o cartão de ação é possível preencher qualquer atributo de cliente potencial ou de empresa com valores implícitos que você gostaria de capturar em um registro de cliente potencial. Você pode adicionar o cartão de ação em qualquer ponto da conversa e atualizar os respectivos atributos com um valor ou tokens nativos que preenchem automaticamente o respectivo valor.</td>
+ </tr>
+ <tr>
+  <td><strong>Chat ao vivo</strong></td>
+  <td>Use o cartão de chat ao vivo quando quiser que os visitantes conversem com um agente ao vivo.
+  <li>O cartão de chat ao vivo deve ser o último cartão na ramificação</li>
+  <li>Os visitantes serão encaminhados para um agente assim que chegarem a este cartão no stream, portanto, é recomendável preceder este cartão com um cartão de perguntas perguntando aos visitantes se eles gostariam de conversar com um agente ativo</li></td>
  </tr>
 </table>
 
