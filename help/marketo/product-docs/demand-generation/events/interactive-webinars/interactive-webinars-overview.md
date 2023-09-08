@@ -3,9 +3,9 @@ description: Visão geral de webinários interativos - Documentação do Marketo
 title: Visão geral de webinários interativos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7e1f289cb074e016308b75b913a3faeafe149404
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '394'
 ht-degree: 2%
 
 ---
@@ -31,6 +31,10 @@ Após o webinário, acesse [análise de desempenho de evento](/help/marketo/prod
 **Preciso de uma assinatura separada para usar os Webinars interativos?**
 
 Nº Somente uma assinatura de Marketo Engage ativa é necessária para usar Webinars interativos.
+
+**Quais idiomas estão disponíveis para webinários interativos?**
+
+Webinars interativos estão disponíveis em todos os seis idiomas suportados pela Marketo: inglês, francês, alemão, japonês, português e espanhol. Os mesmos idiomas são compatíveis com o Adobe Connect, bem como durante a entrega do webinário por meio de Webinars interativos.
 
 **Eu esgotei meu número incluído de Webinars interativos. Como posso obter mais sessões ou mais capacidade?**
 

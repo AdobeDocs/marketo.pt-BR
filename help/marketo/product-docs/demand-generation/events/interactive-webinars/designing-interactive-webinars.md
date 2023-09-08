@@ -3,9 +3,9 @@ description: Criação De Webinars Interativos - Documentação Do Marketo - Doc
 title: Criação de webinários interativos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Saiba como projetar seu webinário para atender às suas necessidades.
 1. Sua visualização do webinário será exibida.
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!TIP]
+   >
+   >Seu webinário será definido como o idioma padrão na instância do Marketo Engage, mas você tem a opção de alterar os idiomas por webinário usando o menu suspenso acima da visualização.
 
 1. É possível selecionar diferentes layouts para visualização. Para continuar, clique em **Usar modelo**.
 

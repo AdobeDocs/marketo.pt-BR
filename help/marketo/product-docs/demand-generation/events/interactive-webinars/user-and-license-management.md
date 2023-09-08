@@ -3,10 +3,10 @@ description: Gerenciamento de usuários e licenças - Documentação do Marketo 
 title: Gerenciamento de usuários e licenças
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 1%
+source-wordcount: '703'
+ht-degree: 0%
 
 ---
 
@@ -107,3 +107,15 @@ Webinars interativos oferecem licenças específicas para criar eventos viabiliz
 * Toda vez que um evento for criado, ele contará como &quot;consumido&quot; de sua respectiva licença (a menos que seja uma Licença de sala compartilhada). Será dada preferência à &quot;Licença de evento compartilhado&quot; se houver a &quot;Licença de evento compartilhado&quot; e a &quot;Licença de quarto compartilhado&quot; com a mesma capacidade. Se o evento não tiver sido entregue e o Programa de evento for excluído antes do horário agendado, a contagem de eventos será reposta subtraindo-se um evento de Eventos consumidos.
 
 * Depois que uma licença for esgotada, seu bloco permanecerá na tela Webinars interativos na seção de Administrador com &quot;Total de eventos&quot; e &quot;Eventos consumidos&quot; tendo o mesmo valor. Somente quando a licença expirar ela será removida da tela.
+
+## Acesso de usuário {#user-access}
+
+Os Webinars interativos têm a funcionalidade de regular o uso, dando permissões aos usuários do Marketo Engage para criar e fornecer Webinars interativos. No entanto, um usuário do Webinar interativo (ou não usuário) ainda poderia ter acesso de leitura/edição aos programas de eventos de Webinars interativos criados por outros usuários.
+
+Os usuários do Marketo que receberam permissões de Webinars interativos e são proprietários de um Programa de evento de Webinars interativos específico poderiam executar todas as funções do Webinar interativo relacionadas a esse programa. Isso inclui: criar, acessar, modificar, clonar, mover e excluir esse programa. No entanto, uma vez que esse usuário não é mais um usuário de webinário interativo, o proprietário do programa poderá acessar e mover o programa, mas não executar outras funções.
+
+Usuários do Marketo que receberam permissões de webinários interativos e que _não_ os proprietários de um Programa de evento de webinários interativos específico poderiam executar funções limitadas nesses programas. Os usuários não administradores do Marketo poderão acessar e clonar o programa, mas não poderão executar outras funções se tiverem permissões para Webinars interativos. No entanto, os usuários administradores do Marketo _irá_ ser capaz de executar todas as funções, como acessar, modificar, clonar, mover e excluir esse programa (desde que tenham permissões para Webinars interativos). Quando essa permissão for revogada para usuários administradores e não administradores do Marketo, eles poderão acessar somente o Programa de evento de webinário interativo e não poderão executar outras funções.
+
+A restrição de funções acionáveis seria indicada por um botão de ação esmaecido e uma mensagem de mouse. Alguns exemplos dos botões de ação esmaecidos são &quot;Projetar o webinário&quot; ou &quot;Inserir o webinário&quot;. Para funções não acionáveis, será fornecida uma mensagem destacando as restrições. Veja o exemplo abaixo:
+
+![](assets/user-and-license-management-12.png)
