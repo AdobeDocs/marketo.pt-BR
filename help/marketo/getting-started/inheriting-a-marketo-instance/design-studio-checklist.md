@@ -3,7 +3,7 @@ description: Lista de verificação herdada do Instance Design Studio - Document
 title: Lista de Verificação do Instance Design Studio Herdada
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 5%
@@ -163,6 +163,6 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 
 <br> 
 
-[► Auditoria de uma instância herdada: Atividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+[► Auditoria de uma instância herdada: Atividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
 
-[Auditoria de uma instância herdada: documentar sua configuração de instância herdada ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+[Auditoria de uma instância herdada: documentar sua configuração de instância herdada ►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)

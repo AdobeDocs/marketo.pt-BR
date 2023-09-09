@@ -3,9 +3,9 @@ description: Documento de instância herdado em sua configuração - Documentaç
 title: Configuração do documento de instância herdado
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '252'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
    <td>Entrada</td> 
    <td><li>Quais sistemas alimentam dados no Marketo Engage?</li>
    <li>Eles estão carregando dados em programas ou no banco de dados? Se são programas, quais?</li>
-   <p>Item de ação: crie um dicionário de dados/tabela de mapeamento de campos entre sistemas.</td>
+   <p><img src="assets/action-item-icon.png" alt="ícone de item de ação">Item de ação: crie um dicionário de dados/tabela de mapeamento de campos entre sistemas.</td>
   </tr>
   <tr> 
    <td>Output</td> 
@@ -51,7 +51,7 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
   <tr> 
    <td>Organização</td> 
     <td><li>Você tem uma documentação robusta sobre como a sua instância do Marketo Engage está organizada e por quê?</li>
-   <p>Item de ação: crie a documentação que contém a estrutura de pastas, a convenção de nomenclatura e os canais usados na sua instância.</td>
+   <p><p><img src="assets/action-item-icon.png" alt="ícone de item de ação">Item de ação: crie a documentação que contém a estrutura de pastas, a convenção de nomenclatura e os canais usados na sua instância.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -70,4 +70,4 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
  </tbody> 
 </table>
 
-[} Auditoria de uma instância herdada: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[} Auditoria de uma instância herdada: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)

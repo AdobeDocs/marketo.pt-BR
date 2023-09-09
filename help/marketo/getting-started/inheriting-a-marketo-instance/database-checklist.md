@@ -3,7 +3,7 @@ description: Lista de verificação do banco de dados da instância herdada - Do
 title: Lista de Verificação do Banco de Dados da Instância Herdada
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 8%
@@ -116,6 +116,6 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
 
 <br> 
 
-[► Auditoria de uma instância herdada: Administrador](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+[► Auditoria de uma instância herdada: Administrador](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-[Auditoria de uma instância herdada: Atividades de marketing ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+[Auditoria de uma instância herdada: Atividades de marketing ►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)

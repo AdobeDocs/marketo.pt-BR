@@ -3,7 +3,7 @@ description: Saiba como otimizar e dimensionar uma instância de Marketo Engage 
 title: Iniciar com o Jumpstart uma instância de Marketo Engage herdada
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 1%
@@ -36,15 +36,15 @@ As listas de verificação abaixo foram colocadas junto com a entrada de especia
 
 Você também pode baixar as listas de verificação no formato de planilha.
 
-* [Seção de administração](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+* [Seção de administração](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-* [Banco de dados](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+* [Banco de dados](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
 
-* [Atividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+* [Atividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
 
-* [Estúdio de desenvolvimento](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+* [Estúdio de desenvolvimento](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
 
-* [Documentar a configuração de instância herdada](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+* [Documentar a configuração de instância herdada](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 
 ## Maneiras de obter ajuda {#ways-to-get-help}
 
