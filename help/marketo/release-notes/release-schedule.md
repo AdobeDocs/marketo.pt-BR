@@ -4,10 +4,10 @@ description: Programação de lançamento - Documentação do Marketo - Document
 title: Programação de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 69d3dad7837ae4b5a65889c10c0fcb23c46591c1
+source-git-commit: 52ef77889e307ecba514bcfd22066c45b1812306
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 10%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
@@ -58,14 +58,14 @@ _As datas de lançamento estão sujeitas a alterações_
    <td>Remetido</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Julho de 23</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-july-23.md">Julho de 23</a></td>
    <td>21 de julho de 2023</td>
-   <td>em andamento</td>
+   <td>Remetido</td>
   </tr>
   <tr>
-   <td>Setembro de 23</td>
+   <td><a href="/help/marketo/release-notes/current.md">Setembro de 23</a></td>
    <td>8 de setembro de 2023</td>
-   <td>Dentro do Cronograma</td>
+   <td>em andamento</td>
   </tr>
   <tr>
    <td>Outubro de 23</td>
