@@ -4,9 +4,9 @@ description: Guia Configuração do Marketo Sales Insight no Salesforce - Docume
 title: Guia Configuração do Marketo Sales Insight no Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -63,11 +63,17 @@ As configurações são aplicáveis a todos os usuários MSI e não são especí
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
+## Configurações de suporte {#support-settings}
+
+Marcar essa caixa de seleção habilitará o Log de depuração na instância do Salesforce. Ele pode ajudá-lo a solucionar problemas.
+
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
 ## Redefinir Insight de vendas do Marketo {#reset-marketo-sales-insight}
 
 Se você optar por fazer isso, todas as configurações no SFDC serão apagadas e não poderão ser restauradas. Será necessário reconfigurar tudo novamente.
 
-![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-6.png)
 
 >[!IMPORTANT]
 >

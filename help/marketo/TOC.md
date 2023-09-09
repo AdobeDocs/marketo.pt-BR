@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 5084013638c4131ebf4c5812e3e4d485ca94419c
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '9086'
+source-wordcount: '9095'
 ht-degree: 5%
 
 ---
@@ -43,11 +43,11 @@ ht-degree: 5%
       + [Itens para Check-off](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [O que analisar: principais habilidades](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Maneiras de obter ajuda](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [Novo Documento Herdado 1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
-      + [Novo Documento Herdado 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
-      + [Novo Documento Herdado 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
-      + [Novo Documento Herdado 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
-      + [Novo Documento Herdado 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+      + [Instância herdada: lista de verificação da seção do administrador](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+      + [Instância Herdada: Lista de Verificação do Banco de Dados](getting-started/inheriting-a-marketo-instance/database-checklist.md)
+      + [Instância herdada: lista de verificação de atividades de marketing](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+      + [Instância herdada: lista de verificação do Design Studio](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+      + [Instância herdada: documentar sua configuração](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 + Documentação do produto {#product-docs}
    + Aplicativos adicionais {#additional-apps}
       + SEO {#seo}
