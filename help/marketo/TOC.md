@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: a2830942e6e51e754d313bd79a00f87713c2db8c
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
 source-wordcount: '9153'
 ht-degree: 5%
@@ -651,14 +651,14 @@ ht-degree: 5%
          + [Visão geral do Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
          + [Comportamento do Chatbot](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
          + [Lista de Reuniões](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
-         + [Atividades Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activites.md)
+         + [Atividades Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + Chat automatizado {#automated-chat}
             + [Visão geral dos fluxos de conversa](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [Criar um Fluxo de Conversa](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
             + [Configurações de fluxo de conversa](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
             + [SDK de conversas](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
-            + [Visão geral da caixa de diálogo](product-docs/demand-generation/dynamic-chat-two/automated-chat/doc.md)
+            + [Visão geral da caixa de diálogo](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [Criar uma caixa de diálogo](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
             + [Critérios de público](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
             + [Designer de fluxo](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
