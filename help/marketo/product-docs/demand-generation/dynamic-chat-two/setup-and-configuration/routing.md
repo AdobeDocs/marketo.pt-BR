@@ -4,9 +4,9 @@ title: Roteamento
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Regra personalizada: você pode escolher agentes específicos para receber reuni
 
 Neste exemplo, estamos enviando todas as reuniões dos estados inferidos de CA, OR e WA para o agente John.
 
-1. No Dynamic Chat, selecione **Roteamento**.
+1. Em Configuração, clique em **Regras de Encaminhamento**.
 
    ![](assets/routing-1.png)
 
@@ -35,7 +35,7 @@ Neste exemplo, estamos enviando todas as reuniões dos estados inferidos de CA, 
 
    ![](assets/routing-3.png)
 
-1. Dê um nome à regra e clique em **Próxima**.
+1. Dê um nome à regra. Como opção, você pode adicionar uma descrição e definir seu nível de prioridade. Clique em **Próxima**.
 
    ![](assets/routing-4.png)
 
@@ -54,3 +54,14 @@ Neste exemplo, estamos enviando todas as reuniões dos estados inferidos de CA, 
 1. Quando todos os valores desejados forem selecionados, clique em **Salvar**.
 
    ![](assets/routing-8.png)
+
+
+## Roteamento de Conta {#account-routing}
+
+Identifique e faça upload da sua conta de público alvo e respectivos proprietários de vendas e encaminhe os visitantes provenientes dessas contas diretamente para o respectivo proprietário da conta.
+
+![](assets/routing-9.png)
+
+Roteamento da equipe
+
+Membro do roteamento de lista inteligente

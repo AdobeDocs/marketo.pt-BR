@@ -4,10 +4,10 @@ title: Visão geral do Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '873'
-ht-degree: 3%
+source-wordcount: '665'
+ht-degree: 2%
 
 ---
 
@@ -109,90 +109,29 @@ Siga estas etapas para alterar o idioma do Dynamic Chat.
 
 Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto as palavras que você preencheu pessoalmente (por exemplo, respostas de transmissão).
 
-## Limites no Dynamic Chat {#limits-in-dynamic-chat}
+## Limites de retenção de dados Dynamic Chat {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>Parâmetro</th>
-  <th>Descrição</th>
-  <th>Limite</th>
+  <th>Tipo de dados</th>
+  <th>Período de retenção</th>
  <tr>
-  <td>Total de caixas de diálogo</td>
-  <td>Número de caixas de diálogo (publicadas e de rascunho)</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Total de Calendários</td>
-  <td>Número de calendários conectados</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>Total de usuários (administradores e usuários de marketing)</td>
-  <td>Número de usuários combinados permitidos por instância de Dynamic Chat</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>Caixas de diálogo publicadas</td>
-  <td>Número de caixas de diálogo publicadas salvas</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>URLs de destino por diálogo</td>
-  <td>Número de URLs do Target que podem ser adicionados a uma única caixa de diálogo</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>Atributos por caixa de diálogo</td>
-  <td>Número de atributos que podem ser adicionados aos critérios de público para uma única caixa de diálogo</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Grupos</td>
-  <td>Número de grupos que podem ser adicionados a uma única caixa de diálogo</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Atributos por grupo</td>
-  <td>Número de atributos que podem ser adicionados a um grupo</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Cartões</td>
-  <td>Número de cartões que podem ser adicionados à tela por caixa de diálogo</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Período de retenção de dados de cliente potencial anônimo</td>
-  <td>Duração da retenção das informações de um cliente potencial anônimo sem qualquer compromisso</td>
+  <td>Cliente Potencial Anônimo Sem Qualquer Compromisso</td>
   <td>90 dias</td>
  </tr>
  <tr>
-  <td>Período de Retenção da Atividade da Meta</td>
-  <td>Tempo de retenção dos dados de atividade da meta</td>
+  <td>Atividade da meta</td>
   <td>24 meses</td>
  </tr>
  <tr>
-  <td>Período de Retenção de Atividade do Documento</td>
-  <td>Tempo de retenção dos dados de atividade do documento</td>
+  <td>Atividade do documento</td>
   <td>24 meses</td>
  </tr>
  <tr>
-  <td>Interação com o período de retenção da atividade de diálogo</td>
-  <td>Tempo de interação com os dados de atividade da caixa de diálogo retido</td>
+  <td>Interagiu com a atividade de diálogo</td>
   <td>90 dias</td>
  </tr>
  <tr>
-  <td>Período de Retenção de Atividade de Reserva de Reunião</td>
-  <td>Quantidade de tempo que a atividade de reserva de reunião será armazenada no Dynamic Chat</td>
+  <td>Atividade de Reserva de Reunião</td>
   <td>24 meses</td>
- </tr>
- <tr>
-  <td>Conversas engajadas</td>
-  <td>Número de conversas de chat com as quais os visitantes da Web podem participar por mês</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>Conversas Acionadas</td>
-  <td>Número de conversas de bate-papo que podem ser exibidas para visitantes da Web por mês</td>
-  <td>25,000</td>
  </tr>
 </table>

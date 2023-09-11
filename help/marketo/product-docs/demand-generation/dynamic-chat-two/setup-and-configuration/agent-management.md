@@ -4,9 +4,9 @@ title: Gerenciamento de agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ No Gerenciamento de agentes, visualize uma lista de agentes na instância do Dyn
 
 Essa guia lista todos os agentes na instância do Dynamic Chat e inclui informações como nome, endereço de email, status do chat ao vivo e muito mais.
 
-PICC2 - PRECISA DE UMA CAPTURA DE TELA DE RAPAZES
+![](assets/agent-management-2.png)
 
 ## Equipes {#teams}
 
