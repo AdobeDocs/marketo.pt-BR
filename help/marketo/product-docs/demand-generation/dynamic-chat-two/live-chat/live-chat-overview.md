@@ -4,7 +4,7 @@ title: Visão geral do bate-papo ao vivo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 3%
@@ -26,7 +26,7 @@ Use o cartão de chat ao vivo no [designer de fluxo](/help/marketo/product-docs/
 **Práticas recomendadas**
 
 * Use um cartão de perguntas antes do cartão de chat ao vivo perguntando ao visitante se ele deseja se conectar.
-* Depois que o visitante concordar em se conectar, use o cartão de captura de informações para obter algumas informações, como nome/sobrenome, endereço de email, cargo etc. (é recomendável solicitar pelo menos o nome e o endereço de email)
+* Depois que o visitante concordar em se conectar, use o cartão de captura de informações para coletar algumas informações, como nome/sobrenome, endereço de email, cargo etc. (é recomendável solicitar pelo menos o nome e o endereço de email).
 
 ## Opções de Cartão de Bate-papo ao Vivo {#live-chat-card-options}
 

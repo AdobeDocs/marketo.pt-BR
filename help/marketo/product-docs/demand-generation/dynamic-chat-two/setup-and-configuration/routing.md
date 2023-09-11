@@ -4,7 +4,7 @@ title: Roteamento
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 1%
@@ -54,7 +54,6 @@ Neste exemplo, estamos enviando todas as reuniões dos estados inferidos de CA, 
 1. Quando todos os valores desejados forem selecionados, clique em **Salvar**.
 
    ![](assets/routing-8.png)
-
 
 ## Roteamento de Conta {#account-routing}
 

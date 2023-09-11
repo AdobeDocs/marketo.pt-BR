@@ -4,9 +4,9 @@ title: Designer de fluxo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '1024'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,11 @@ O designer de fluxo contém vários cartões que você pode adicionar para molda
  </tr>
  <tr>
   <td><strong>Agendador de compromissos</strong></td>
-  <td>Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">o próximo agente na linha</a>.</td>
+  <td>Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">o próximo agente na linha</a>. Também há uma opção para transmitir atributos como o nome ou endereço de email do agente.</td>
+ </tr>
+ <tr>
+  <td><strong>Reserva de Reunião</strong></td>
+  <td>Fornece ao visitante um calendário de datas disponíveis para agendar uma reunião. Escolha a disponibilidade do calendário por meio do round robin, de um agente específico ou usando regras personalizadas.</td>
  </tr>
  <tr>
   <td><strong>Meta</strong></td>
@@ -68,19 +72,19 @@ No canto superior direito do Stream Designer, você verá vários ícones. Aqui 
 <table>
  <tr>
   <td><img src="assets/stream-designer-1.png"></td>
-  <td>Adiciona uma grade ao plano de fundo para quem prefere essa visualização</td>
- </tr>
- <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
   <td>Aumenta o zoom, criando cartões maiores</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td><img src="assets/stream-designer-2.png"></td>
   <td>Diminui o zoom, criando cartões menores</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td><img src="assets/stream-designer-3.png"></td>
   <td>Abre uma janela para que você teste o seu bate- papo (pressione o mesmo botão para fechar)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Permite pesquisar tipos de cartão ou conteúdo em seu fluxo</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
@@ -211,4 +215,3 @@ No canto superior direito do Stream Designer, você verá vários ícones. Aqui 
 >* [Critérios de público](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [Relatórios](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
 >* [Uso do Cartão de Documento](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
-

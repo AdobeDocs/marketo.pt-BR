@@ -4,9 +4,9 @@ title: Critérios de público
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -23,8 +23,6 @@ A prioridade determina qual diálogo um lead recebe caso se qualifique para mais
 
 ## Eventos {#events}
 
-![](assets/audience-criteria-2.png)
-
 Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em que estão na sua página/site. No exemplo abaixo, direcionamos os visitantes que estão em uma página específica há mais de 20 segundos.
 
 1. Pegue o **Tempo na página** e arraste-o para a direita.
@@ -40,8 +38,6 @@ Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em 
    ![](assets/audience-criteria-5.png)
 
 ## Atributos {#attributes}
-
-![](assets/audience-criteria-6.png)
 
 **Pessoas conhecidas**
 
@@ -96,6 +92,18 @@ Há uma maneira fácil de direcionar especificamente as pessoas que ainda não e
 1. _É_ é definido por padrão. No campo Selecionar valores, digite NY (também é possível clicar no menu suspenso e selecionar na lista).
 
    ![](assets/audience-criteria-15.png)
+
+## Associação {#membership}
+
+Use as Smart Lists do Marketo Engage para o público-alvo da sua caixa de diálogo.
+
+1. Em Associação, capture **Membro da lista inteligente** e solte-o na tela.
+
+   ![](assets/audience-criteria-15a.png)
+
+1. Selecione a lista inteligente desejada.
+
+   ![](assets/audience-criteria-15b.png)
 
 ## Adicionar grupos {#add-groups}
 
