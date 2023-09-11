@@ -4,20 +4,24 @@ title: Configurações do agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 3%
+source-wordcount: '479'
+ht-degree: 2%
 
 ---
 
 # Configurações do agente {#agent-settings}
 
-Na guia Configuração do calendário, conecte seu calendário do Outlook ou Gmail para uso na programação de compromissos no chatbot.
+Configure seu calendário e defina a disponibilidade da reunião/bate-papo ao vivo.
+
+![](assets/agent-settings-1.png)
 
 ## Conectar calendário {#connect-calendar}
 
-![](assets/agent-settings-1.png)
+Na guia Configuração do calendário, conecte seu calendário do Outlook ou Gmail para uso na programação de compromissos no chatbot.
+
+![](assets/agent-settings-2.png)
 
 Assim que o calendário de um usuário for conectado ao Dynamic Chat, ele será adicionado à fila e seu calendário estará disponível para os visitantes do site agendarem compromissos no.
 
@@ -27,7 +31,7 @@ Assim que o calendário de um usuário for conectado ao Dynamic Chat, ele será 
 
 Os usuários também podem personalizar o corpo do convite enviado ao visitante ao agendar um compromisso no calendário do usuário. Eles também podem marcar a caixa de seleção na parte inferior para incluir um link Google Meet ou Microsoft Teams (dependendo de qual calendário foi conectado).
 
-![](assets/agent-settings-2.png)
+![](assets/agent-settings-3.png)
 
 >[!TIP]
 >
@@ -52,12 +56,39 @@ A configuração com o Google concede as seguintes permissões ao Dynamic Chat:
 
 ## Disponibilidade de Reserva de Reunião {#meeting-booking-availability}
 
-Texto
+Defina o fuso horário e a disponibilidade de hora/dia da semana para receber reservas de reuniões.
 
-## Duração da Reunião e Tempo de Buffer {#meeting-length-and-buffer-time}
+![](assets/agent-settings-4.png)
 
-Texto
+<table> 
+ <tbody> 
+  <tr> 
+   <td><b>Duração da reunião</b></td>
+   <td>Duração máxima da reunião. - O QUE ACONTECE? ENCERRAMENTO AUTOMÁTICO?</td>
+  </tr> 
+  <tr> 
+   <td><b>Tempo de buffer entre reuniões</b></td>
+   <td>Tempo definido como buffer após a reunião. Se você a marcar por 30 minutos, ninguém poderá marcar uma reunião com você até 31 minutos após o fim agendado de uma reunião em seu calendário. - 31 ou 30??????????</td>
+  </tr>
+ </tbody> 
+</table>
+
+>[!TIP]
+>
+>Você pode selecionar vários blocos de tempo no mesmo dia (por exemplo, sexta-feira das 8a-12p _e_ 1p-5p) clicando no link **+** assine à direita.
 
 ## Disponibilidade do bate-papo ao vivo {#live-chat-availability}
 
-Texto
+Defina seu fuso horário e disponibilidade de hora/dia da semana para receber bate-papos ao vivo.
+
+![](assets/agent-settings-5.png)
+
+Se você estiver conectado ao aplicativo, receberá uma notificação no aplicativo de um chat recebido. Se você não estiver conectado, receberá uma notificação do navegador (no Google Chrome).
+
+>[!IMPORTANT]
+>
+>A variável [alternância de disponibilidade](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} na Caixa de entrada do agente **substituirá** o que você insere na guia Disponibilidade do chat ao vivo. Portanto, se você estiver programado como disponível de 1p a 5p, mas precisar fazer uma pausa rápida em 3p, não será necessário alterar as configurações do agente. O status de alternância de disponibilidade permanecerá até que você o alterne manualmente ou até que o próximo bloco de tempo em sua disponibilidade seja atingido.
+
+>[!TIP]
+>
+>Você pode selecionar vários blocos de tempo no mesmo dia (por exemplo, sexta-feira das 8a-12p _e_ 1p-5p) clicando no link **+** assine à direita.

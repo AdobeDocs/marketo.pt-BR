@@ -4,10 +4,10 @@ title: Caixa de entrada do agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 4d5f0c1c2fa050d4da38daaff1a1be3725bda1d7
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 3%
+source-wordcount: '319'
+ht-degree: 2%
 
 ---
 
@@ -27,6 +27,10 @@ No lado superior direito da tela Caixa de entrada do agente, você tem a opção
 >
 >**Isso substituirá** o [disponibilidade do chat ao vivo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) estabelecido em Configurações do agente. O status permanecerá até que você o alterne de volta ou para o próximo bloco de tempo em sua disponibilidade.
 
+>[!NOTE]
+>
+>Configurar seu status como indisponível não afetará nenhum bate-papo ativo.
+
 ## Aceitar um bate-papo ao vivo {#accepting-a-live-chat}
 
 Quando um chat ao vivo for roteado para o agente, ele verá um banner azul na parte superior da tela pedindo que ele aceite.
@@ -36,7 +40,6 @@ Quando um chat ao vivo for roteado para o agente, ele verá um banner azul na pa
 ### Itens a Observar {#things-to-note}
 
 * Os agentes têm 45 segundos para responder antes que a mensagem &quot;Accept chat&quot; expire.
-* BROWSER TIDBIT
 * No momento, há um limite de 10 bate-papos ao vivo por agente
 
 ## Conversas {#conversations}
@@ -44,6 +47,10 @@ Quando um chat ao vivo for roteado para o agente, ele verá um banner azul na pa
 No lado esquerdo da tela da Caixa de entrada do agente, você pode optar por exibir somente as conversas ativas, ou todas elas.
 
 ![](assets/agent-inbox-4.png)
+
+>[!NOTE]
+>
+>Embora você possa ver conversas passadas (inativas) de você mesmo e de outros agentes, você só poderá ver suas próprias conversas ativas.
 
 ## Informações sobre os visitantes {#visitor-information}
 
@@ -61,4 +68,18 @@ Abaixo das informações do visitante está o histórico de atividades. Visualiz
 >
 >As informações são exibidas somente para os últimos 90 dias.
 
-Conversas ativas- Todas as conversas- Compartilhamento de calendários Informações do visitante- Atividades recentes do Dynamic Chat
+## Compartilhamento de calendário {#calendar-sharing}
+
+Na parte inferior da janela de bate-papo ao vivo há um ícone que permite compartilhar o calendário do ou de outro agente com o visitante do bate-papo.
+
+1. Clique no ícone do calendário.
+
+   ![](assets/agent-inbox-7.png)
+
+1. Escolha o calendário do agente desejado e clique em **Enviar**.
+
+   ![](assets/agent-inbox-8.png)
+
+1. O visitante do chat poderá agendar uma reunião.
+
+   ![](assets/agent-inbox-9.png)

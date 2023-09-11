@@ -4,9 +4,9 @@ title: Gerenciamento de agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ No Gerenciamento de agentes, visualize uma lista de agentes na instância do Dyn
 
 ## Agentes {#agents}
 
-Essa guia lista todos os agentes na instância do Dynamic Chat e inclui informações como nome, endereço de email, status do Bate-papo ao vivo e muito mais.
+Essa guia lista todos os agentes na instância do Dynamic Chat e inclui informações como nome, endereço de email, status do chat ao vivo e muito mais.
 
 PICC2 - PRECISA DE UMA CAPTURA DE TELA DE RAPAZES
 
@@ -63,7 +63,7 @@ Selecione uma mensagem padrão (sistema) ou escreva uma personalizada para os vi
 
 >[!NOTE]
 >
->Selecionar o **Incluir Opção de Reserva de Reunião** A caixa de seleção gerará um widget de reserva de reunião para o visitante do chat.
+>Selecionar o **Incluir Opção de Reserva de Reunião** a caixa de seleção dará ao visitante do chat a opção de agendar uma reunião quando nenhum agente estiver disponível para o chat ao vivo.
 
 >[!TIP]
 >
