@@ -4,7 +4,7 @@ title: Designer de fluxo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 2%
@@ -56,8 +56,8 @@ O designer de fluxo contém vários cartões que você pode adicionar para molda
  <tr>
   <td><strong>Chat ao vivo</strong></td>
   <td>Use o cartão de chat ao vivo quando quiser que os visitantes conversem com um agente ao vivo.
-  <li>O cartão de chat ao vivo deve ser o último cartão na ramificação</li>
-  <li>Os visitantes serão encaminhados para um agente assim que chegarem a este cartão no stream, portanto, é recomendável preceder este cartão com um cartão de perguntas perguntando aos visitantes se eles gostariam de conversar com um agente ativo</li></td>
+  <li>O cartão de chat ao vivo deve ser o último cartão na ramificação.</li>
+  <li>Os visitantes serão encaminhados para um agente assim que chegarem a este cartão no stream, portanto, é recomendável preceder este cartão com um cartão de perguntas perguntando aos visitantes se eles gostariam de conversar com um agente ao vivo.</li></td>
  </tr>
 </table>
 

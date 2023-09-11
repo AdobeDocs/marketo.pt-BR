@@ -4,9 +4,9 @@ title: Gerenciamento de agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ce4daadc8351faaeb6537e75ec7d9f96bd835e5c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -60,6 +60,10 @@ Selecione uma mensagem padrão (sistema) ou escreva uma personalizada para os vi
 Selecione uma mensagem padrão (sistema) ou escreva uma personalizada para os visitantes verem quando o bate-papo ao vivo estiver indisponível.
 
 ![](assets/agent-management-9.png)
+
+>[!NOTE]
+>
+>Selecionar o **Incluir Opção de Reserva de Reunião** A caixa de seleção gerará um widget de reserva de reunião para o visitante do chat.
 
 >[!TIP]
 >
