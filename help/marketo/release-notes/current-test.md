@@ -4,9 +4,9 @@ title: Teste das notas de versão atuais
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1209'
 ht-degree: 10%
 
 ---
@@ -41,8 +41,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 <table>
   <tr> 
-   <td><b>Recurso</b></td>
-   <td><strong>Usado pela coluna Contagem para ativos do Design Studio</strong>: a Biblioteca de referência do programa Marketo Engage permite que os usuários importem programas de "exemplo" e outros ativos que representam as práticas recomendadas pelo Adobe. Nossa equipe de gerenciamento de produtos atualizou completamente a biblioteca, fornecendo ferramentas mais valiosas para aqueles que desejam iniciar seu programa rapidamente.</td>
+   <td style="width:20%"><b>Recurso</b></td>
+   <td style="width:80%"><strong>Usado pela coluna Contagem para ativos do Design Studio</strong>: a Biblioteca de referência do programa Marketo Engage permite que os usuários importem programas de "exemplo" e outros ativos que representam as práticas recomendadas pelo Adobe. Nossa equipe de gerenciamento de produtos atualizou completamente a biblioteca, fornecendo ferramentas mais valiosas para aqueles que desejam iniciar seu programa rapidamente.</td>
   </tr>
   <tr> 
    <td><b>Status</b></td>
@@ -58,9 +58,9 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Recurso</th> 
-   <th>Status</th>
-   <th>Documentação</th>
+   <th style="width:70%">Recurso</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:15%">Documentação</th>
   </tr> 
   <tr> 
    <td><strong>Biblioteca de referência da Marketo</strong>: a Biblioteca de referência do programa Marketo Engage permite que os usuários importem programas de "exemplo" e outros ativos que representam as práticas recomendadas pelo Adobe. Nossa equipe de gerenciamento de produtos atualizou completamente a biblioteca, fornecendo ferramentas mais valiosas para aqueles que desejam iniciar seu programa rapidamente.</td> 
@@ -80,9 +80,44 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
  </tbody> 
 </table>
 
+* espaço
 
+* espaço
 
+* mais espaço
 
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Recurso</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:20%">Documentação</th>
+  </tr> 
+  <tr> 
+   <td><strong>Biblioteca de referência da Marketo</strong>: a Biblioteca de referência do programa Marketo Engage permite que os usuários importem programas de "exemplo" e outros ativos que representam as práticas recomendadas pelo Adobe. Nossa equipe de gerenciamento de produtos atualizou completamente a biblioteca, fornecendo ferramentas mais valiosas para aqueles que desejam iniciar seu programa rapidamente.</td> 
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Visão geral da biblioteca de importação do programa</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Usado pela coluna Contagem para ativos do Design Studio</strong>: a Biblioteca de referência do programa Marketo Engage permite que os usuários importem programas de "exemplo" e outros ativos que representam as práticas recomendadas pelo Adobe. Nossa equipe de gerenciamento de produtos atualizou completamente a biblioteca, fornecendo ferramentas mais valiosas para aqueles que desejam iniciar seu programa rapidamente.</td> 
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+ </tbody> 
+</table>
+
+* espaço
+
+* espaço
+
+* mais espaço
+
+* fim do teste... POR ENQUANTO
 
 * **Usado pela coluna Contagem para ativos do Design Studio**:
 

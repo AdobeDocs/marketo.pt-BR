@@ -4,9 +4,9 @@ title: Designer de fluxo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1084'
 ht-degree: 2%
 
 ---
@@ -39,15 +39,11 @@ O designer de fluxo contém vários cartões que você pode adicionar para molda
  </tr>
  <tr>
   <td><strong>Captura de informações</strong></td>
-  <td>Use quando quiser coletar informações. Os três campos para escolher são Endereço de email, Número de telefone e Texto (o que permite que o visitante escreva sua própria mensagem).</td>
- </tr>
- <tr>
-  <td><strong>Agendador de compromissos</strong></td>
-  <td>Fornece ao visitante um calendário de datas disponíveis para agendar um acompanhamento. A disponibilidade do calendário reflete <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">o próximo agente na linha</a>. Também há uma opção para transmitir atributos como o nome ou endereço de email do agente.</td>
+  <td>Use quando quiser coletar informações (por exemplo, nome, endereço de email, cargo etc.). Depois de escolher a qual campo atribuir sua resposta, você pode escolher entre permitir que o visitante digite sua resposta ou selecionar opções de uma lista de opções determinada (dica: esta última pode ajudar na limpeza do banco de dados). Você também pode optar por substituir os dados listados atualmente para eles com a resposta ou ignorar a pergunta totalmente se você já tiver um valor para eles.</td>
  </tr>
  <tr>
   <td><strong>Reserva de Reunião</strong></td>
-  <td>Fornece ao visitante um calendário de datas disponíveis para agendar uma reunião. Escolha a disponibilidade do calendário por meio do round robin, de um agente específico ou usando regras personalizadas.</td>
+  <td>Fornece ao visitante um calendário de datas disponíveis para agendar uma reunião. Escolha a disponibilidade do calendário por meio de rodízio, de um agente específico ou usando regras personalizadas. Clique em <b>Adicionar atributo</b> se desejar capturar o nome ou endereço de email do agente e atribuí-lo ao registro pessoal do visitante do chat para consulta futura (dica: crie um <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizado</a> para mapear as informações do agente como para não substituir um campo Marketo Engage padrão).</td>
  </tr>
  <tr>
   <td><strong>Meta</strong></td>
