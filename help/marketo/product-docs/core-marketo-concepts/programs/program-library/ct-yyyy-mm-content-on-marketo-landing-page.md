@@ -1,10 +1,8 @@
 ---
 description: Conteúdo CT-YYYY-MM na página de aterrissagem do Marketo - Documentação do Marketo - Documentação do produto
 title: Conteúdo de CT-YYYY-MM na página de aterrissagem do Marketo
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 17%

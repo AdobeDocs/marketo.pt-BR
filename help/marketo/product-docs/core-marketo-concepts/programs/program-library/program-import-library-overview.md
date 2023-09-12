@@ -1,11 +1,9 @@
 ---
 description: Visão geral da biblioteca de importação do programa - Documentação do Marketo - Documentação do produto
 title: Visão geral da biblioteca de importação do programa
-hide: true
-hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%

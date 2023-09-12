@@ -4,10 +4,10 @@ title: Configurações de segurança
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 5%
+source-wordcount: '63'
+ht-degree: 6%
 
 ---
 
@@ -22,10 +22,6 @@ Nas configurações de segurança, você pode adicionar domínios a uma lista de
 1. Selecione o **Ativar validação** controle deslizante para ativar a inclui na lista de bloqueios. Insira até 50 domínios e clique em **Salvar**.
 
    ![](assets/security-settings-2.png)
-
->[!CAUTION]
->
->Certifique-se **NOT** para adicionar `adobeeventlab.com` para a lista de bloqueios ou irá??? DESABILITAR CHAT???
 
 ## Domínios permitidos {#allowed-domains}
 

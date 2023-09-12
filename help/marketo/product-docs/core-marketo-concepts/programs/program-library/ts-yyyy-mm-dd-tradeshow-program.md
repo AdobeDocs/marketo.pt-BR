@@ -1,10 +1,8 @@
 ---
 description: Programa de feiras de vendas TS-YYYY-MM-DD-Marketo Docs - Documentação do produto
 title: Programa de feiras de vendas em DD/MM/TS-YYYY
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '409'
 ht-degree: 20%

@@ -1,10 +1,8 @@
 ---
 description: Página de aterrissagem da Marketo de publicidade online OA-YYYY-MM-Marketo Docs - Documentação do produto
 title: Página de aterrissagem OA-YYYY-MM-Online Advertising Marketo
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 17%

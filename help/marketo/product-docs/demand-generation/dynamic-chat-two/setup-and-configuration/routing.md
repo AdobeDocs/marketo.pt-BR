@@ -4,9 +4,9 @@ title: Roteamento
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '195'
 ht-degree: 1%
 
 ---
@@ -61,6 +61,6 @@ Identifique e faça upload da sua conta de público alvo e respectivos propriet�
 
 ![](assets/routing-9.png)
 
-Roteamento da equipe
+Roteamento de equipe - DELETE ESTAS REFERÊNCIAS PARA AGORA
 
-Membro do roteamento de lista inteligente
+Membro de roteamento de Smart List - POSSIVELMENTE ATRASADO
