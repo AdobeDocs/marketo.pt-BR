@@ -3,20 +3,16 @@ description: Visão geral do Dynamic Chat - Documentação do Marketo - Document
 title: Visão geral do Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 2%
+source-wordcount: '826'
+ht-degree: 3%
 
 ---
 
 # Visão geral do Dynamic Chat {#dynamic-chat-overview}
 
 O Dynamic Chat permite utilizar uma interface fácil de usar para direcionar pessoas e contas que visitam seu site. Colete conteúdo relevante, como nome, informações de contato e texto livre. Os visitantes do site também podem marcar reuniões com a equipe de vendas. Os dados de atividade e engajamento do Dynamic Chat podem ser usados para adicionar membros a programas do Marketo e acionar atividades entre canais.
-
->[!NOTE]
->
->O Dynamic Chat está em processo de implantação gradual e está atualmente com disponibilidade limitada. Esta página será atualizada com os detalhes de disponibilidade geral (GA) conforme forem disponibilizados.
 
 >[!TIP]
 >
