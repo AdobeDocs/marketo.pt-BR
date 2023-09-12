@@ -4,7 +4,7 @@ title: Teste das notas de versão atuais
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: bca573d47314ce8017cbe8a3834c01618ccf601f
+source-git-commit: 8c0a62806d6ef24e75d1e6e2eafe2640a3ebb6e5
 workflow-type: tm+mt
 source-wordcount: '897'
 ht-degree: 5%
@@ -22,6 +22,7 @@ Abaixo você encontrará todos os recursos incluídos na versão de setembro de 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
 Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **8 de setembro de 2023**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
+
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -85,6 +86,7 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
  </tbody> 
 </table>
+</br>
 
 ### Dynamic Chat {#dynamic-chat}
 
