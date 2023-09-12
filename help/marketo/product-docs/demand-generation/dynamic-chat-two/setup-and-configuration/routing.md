@@ -4,9 +4,9 @@ title: Roteamento
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: df719d0db50009180e707b88b53115d4a62f35bf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ As reuniões reservadas no Dynamic Chat podem ser encaminhadas de duas maneiras.
 Round robin: as reuniões são atribuídas a agentes sequencialmente. Então, se você tiver cinco agentes e o agente três tiver realizado a última reunião, o agente quatro terá a próxima reunião, seguido do agente cinco, e então voltará para o agente um.
 
 Regra personalizada: você pode escolher agentes específicos para receber reuniões com base nos atributos selecionados.
+
+>[!NOTE]
+>
+>O Roteamento de conta recebe a prioridade mais alta. Quando um visitante atinge o ponto na conversa para marcar uma reunião ou iniciar um chat ao vivo, [Roteamento de Conta](#account-routing) é marcado primeiro antes que outras opções de roteamento sejam consideradas.
 
 ## Criar uma regra personalizada {#create-a-custom-rule}
 
