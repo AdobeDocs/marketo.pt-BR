@@ -4,9 +4,9 @@ title: Configurações do agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 5c99dd3394ad09a48b5adbb022a9c4e63b619c81
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---
@@ -64,7 +64,7 @@ Defina o fuso horário e a disponibilidade de hora/dia da semana para receber re
  <tbody> 
   <tr> 
    <td><b>Duração da reunião</b></td>
-   <td>Duração máxima da reunião. - O QUE ACONTECE? PARADAS AUTOMÁTICAS COMO ZOOM?</td>
+   <td>Determina o período de tempo que os visitantes verão em seus slots de reunião disponíveis.</td>
   </tr> 
   <tr> 
    <td><b>Tempo de buffer entre reuniões</b></td>
