@@ -4,9 +4,9 @@ title: Caixa de entrada do agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '367'
 ht-degree: 2%
 
 ---
@@ -25,17 +25,24 @@ No lado superior direito da tela Caixa de entrada do agente, você tem a opção
 
 >[!IMPORTANT]
 >
->**Isso substituirá** o [disponibilidade do chat ao vivo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) estabelecido em Configurações do agente. O status permanecerá até que você o alterne de volta ou para o próximo bloco de tempo em sua disponibilidade.
+>**Isso substituirá** o [disponibilidade do chat ao vivo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} estabelecido em Configurações do agente. O status permanecerá até que você o alterne de volta ou para o próximo bloco de tempo em sua disponibilidade.
 
 >[!NOTE]
 >
 >Configurar seu status como indisponível não afetará nenhum bate-papo ativo.
 
-## Aceitar um bate-papo ao vivo {#accepting-a-live-chat}
+## Notificações de bate-papo ao vivo {#live-chat-notifications}
 
-Quando um chat ao vivo for roteado para o agente, ele verá um banner azul na parte superior da tela pedindo que ele aceite.
+Quando um chat ao vivo for roteado para um agente, ele verá um banner azul na parte superior da tela pedindo que ele aceite.
 
 ![](assets/agent-inbox-3.png)
+
+>[!TIP]
+>
+>Você também tem a opção de configurar notificações do navegador, que o alertará caso não esteja conectado ao Dynamic Chat.
+>
+>* Ativar notificações do navegador no [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Ativar notificações do navegador no [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Itens a Observar {#things-to-note}
 
