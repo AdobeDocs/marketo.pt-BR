@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: c2a3e2915c8a205f03c4bf578e6b2479af1206b3
 workflow-type: tm+mt
-source-wordcount: '9160'
+source-wordcount: '9159'
 ht-degree: 5%
 
 ---
@@ -668,7 +668,6 @@ ht-degree: 5%
          + Chat ao vivo {#live-chat}
             + [Visão geral do bate-papo ao vivo](product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md)
             + [Caixa de entrada do agente](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
-            + [Notificações](product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md)
          + Instalação e configuração {#setup-and-configuration}
             + [Configuração inicial](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md)
             + [Adicionar ou Remover Usuários do Chat](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md)
