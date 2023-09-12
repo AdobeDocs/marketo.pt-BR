@@ -3,9 +3,9 @@ description: Saiba como otimizar e dimensionar uma instância de Marketo Engage 
 title: Iniciar com o Jumpstart uma instância de Marketo Engage herdada
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '318'
 ht-degree: 1%
 
 ---
@@ -14,21 +14,23 @@ ht-degree: 1%
 
 Iniciar um novo trabalho ou assumir o controle de uma instância existente de outro administrador? Assumir o controle de uma instância ativa que está em execução há algum tempo pode parecer um pouco intimidador, mas este guia ajudará você a começar a usá-la rapidamente.
 
-## Itens para Check-off {#items-to-check-off}
+## Configurar na Nação de marketing {#get-set-up-in-the-marketing-nation}
 
-Verifique se você está configurado corretamente com os tipos certos de acesso e informações.
+Verifique se você está configurado corretamente na Comunidade do Marketo.
 
-* Assista a uma breve visão geral do **o que a Marketo faz** - KG - ENCONTRE UM VÍDEO MELHOR OU DELETE
+* **[Configurar seu perfil]**(https://nation.marketo.com/){target="_blank"}.
 
-* **Configurar seu perfil** no [**Nação de marketing**](https://nation.marketo.com/){target="_blank"} comunidade (nome de usuário e senha necessários).
+* [**Configurar seu perfil**](https://nation.marketo.com/){target="_blank"}.
 
-* Leia em [**Diretrizes da comunidade de marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* **[Configurar seu perfil](https://nation.marketo.com/)**{target="_blank"}.
+
+* **[Configurar seu perfil](https://nation.marketo.com/){target="_blank"}**.
+
+* Leia em [**Diretrizes da Comunidade de marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Clique em **[!UICONTROL Seus locais]** no perfil da comunidade Marketo Nation para verificar a página de conta da sua empresa.
 
 * Saiba como [**enviar um caso de suporte**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
-
-* [**Gerenciar usuários**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} e exclua aqueles que deixaram sua empresa.
 
 ## Guias de auditoria de instâncias herdadas {#inherited-instance-audit-guides}
 
