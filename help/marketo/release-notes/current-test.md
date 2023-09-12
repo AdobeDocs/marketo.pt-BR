@@ -4,10 +4,10 @@ title: Teste das notas de versão atuais
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
+source-git-commit: bca573d47314ce8017cbe8a3834c01618ccf601f
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 9%
+source-wordcount: '897'
+ht-degree: 5%
 
 ---
 
@@ -70,7 +70,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 ## Recursos da versão Agile {#agile-release-features}
 
 Todos os recursos abaixo seguem um formato Agile e são lançados em várias datas antes ou depois da data de lançamento padrão. Verifique o status ao lado de cada recurso.
-</br>
+
 <table style="border: none">
  <tbody> 
   <tr> 
@@ -97,8 +97,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr> 
   <tr> 
    <td><strong>Cartão de Ação no Stream Designer</strong>: os profissionais de marketing podem usar cartões de ação no fluxo de diálogo para transmitir valores ocultos para o registro de pessoa de Marketo Engage quando os visitantes se envolvem com uma caixa de diálogo.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">Cartões de Designer de Stream</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -107,8 +107,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
    <tr> 
    <td><strong>Conversação do Forms com o Marketo Engage Forms</strong>: Tornar o Marketo Engage Forms conversacional, integrando-os aos Fluxos de conversa do Dynamic Chat. Qualifique clientes potenciais instantaneamente usando dados de formulário ou associação à Smart List para reservas de reuniões, links de white papers ou metas personalizadas.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Formulários de conversação</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -117,8 +117,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
     <tr> 
    <td><strong>SDK de conversas</strong>: transforme qualquer formulário, página de aterrissagem ou quase qualquer página da Web em experiências envolventes de reserva de reunião.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">SDK de conversas</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -127,8 +127,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
   <tr> 
    <td><strong>Configurações Personalizadas de Reserva de Reunião</strong>: os agentes podem definir configurações personalizadas de reserva de reunião, como disponibilidade, duração da reunião e "tempo de buffer" entre as reuniões.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">Configurações Personalizadas de Reserva de Reunião</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -137,8 +137,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
    <tr> 
    <td><strong>Configurações de fallback</strong>: os administradores podem definir configurações personalizadas de fallback para definir o que os visitantes verão quando os agentes não estiverem disponíveis para bate-papo.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">Regras de Fallback</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -147,8 +147,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
     <tr> 
    <td><strong>Painel de Desempenho Global</strong>: veja o desempenho de suas Caixas de diálogo, incluindo métricas de engajamento e desempenho (total e ao longo de um tempo), páginas de melhor desempenho e Caixas de diálogo de melhor desempenho.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#global-performance-dashboard" target="_blank">Painel de Desempenho Global</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -157,8 +157,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
    <tr> 
    <td><strong>Bate-papo ao vivo</strong>: os visitantes da Web podem conversar com agentes de vendas em tempo real para obter respostas às suas perguntas.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md" target="_blank">Visão geral do bate-papo ao vivo</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -167,8 +167,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
    <tr> 
    <td><strong>Painel de Desempenho do Bate-papo ao Vivo</strong>: visualize quantas conversas seus agentes de vendas ao vivo tiveram e quais equipes estão tendo o melhor desempenho.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#live-chat-performance-dashboard" target="_blank">Painel de Desempenho do Bate-papo ao Vivo</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -177,8 +177,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
     <tr> 
    <td><strong>Direcionamento da lista inteligente do Marketo Engage</strong>: os profissionais de marketing podem direcionar membros das Smart Lists do Marketo Engage nos critérios de público-alvo do diálogo.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md#membership" target="_blank">Associação</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -187,8 +187,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
   <tr> 
    <td><strong>Painel de Desempenho da Reunião</strong>: veja quantas reuniões estão sendo marcadas e com quem elas estão sendo marcadas.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#meeting-performance-dashboard" target="_blank">Painel de Desempenho da Reunião</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -197,8 +197,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
    <tr> 
    <td><strong>Novas atividades do Dynamic Chat</strong>: novas atividades para oferecer suporte a Fluxos de conversa, Bate-papo ao vivo e outros novos recursos.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md" target="_blank">Atividades Dynamic Chat</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -207,8 +207,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
     <tr> 
    <td><strong>Notificações de chat em tempo real ao vivo</strong>: quando os visitantes solicitam o bate-papo ao vivo, os agentes recebem notificações do navegador e no aplicativo em tempo real.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">Notificações de bate-papo ao vivo</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -217,8 +217,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
     <tr> 
    <td><strong>Equipes</strong>: crie equipes de agentes para as quais os visitantes podem ser encaminhados para participar de bate-papos ao vivo ou de reservas de reuniões.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#teams" target="_blank">Equipes</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -227,8 +227,8 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   </tr>
     <tr> 
    <td><strong>Tokens de acionador para novas atividades</strong>: novos tokens de acionador estão disponíveis para oferecer suporte às novas atividades do Dynamic Chat.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Tokens de acionador de Dynamic Chat</a></td>
   </tr>
   <tr> 
    <td> </td> 
