@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 515821580741449f71df31dbd0652498fd744783
+source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
 workflow-type: tm+mt
-source-wordcount: '941'
-ht-degree: 12%
+source-wordcount: '942'
+ht-degree: 11%
 
 ---
 
@@ -32,8 +32,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Visão geral da biblioteca de importação do programa</a></td>
   </tr>
   </tbody>
 </table>
