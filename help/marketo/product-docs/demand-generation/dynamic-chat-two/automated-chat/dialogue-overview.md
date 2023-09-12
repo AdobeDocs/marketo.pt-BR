@@ -4,10 +4,10 @@ title: Visão geral da caixa de diálogo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 3%
+source-wordcount: '254'
+ht-degree: 5%
 
 ---
 
@@ -17,13 +17,13 @@ As caixas de diálogo são conversas individuais. Em cada caixa de diálogo, voc
 
 ## Critérios de público {#audience-criteria}
 
-A variável [Critérios de público-alvo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"} seção de uma caixa de diálogo é onde você definirá onde e para quem sua conversa será exibida
+A variável [Critérios de público-alvo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md){target="_blank"} seção de uma caixa de diálogo é onde você definirá onde e para quem sua conversa será exibida
 
 ![](assets/dialogue-overview-1.png)
 
 ## Designer de fluxo {#stream-designer}
 
-A variável [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"} seção de uma caixa de diálogo é onde você projetará a conversa que deseja ter com os visitantes do site.
+A variável [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} seção de uma caixa de diálogo é onde você projetará a conversa que deseja ter com os visitantes do site.
 
 ![](assets/dialogue-overview-2.png)
 
@@ -32,6 +32,34 @@ A variável [Designer de fluxo](/help/marketo/product-docs/demand-generation/dyn
 A guia Relatórios é onde você poderá ver as métricas sobre o desempenho da caixa de diálogo.
 
 ![](assets/dialogue-overview-3.png)
+
+<table>
+ <tr>
+  <td><strong>Total de acionados</strong></td>
+  <td>Incrementa sempre que um visitante se qualifica para/recebe uma caixa de diálogo.
+</td>
+ </tr>
+ <tr>
+  <td><strong>Envolvido</strong></td>
+  <td>Incrementa quando um visitante interage com pelo menos um cartão em uma caixa de diálogo (por exemplo, Pergunta, Captura de informações etc.)</td>
+ </tr>
+ <tr>
+  <td><strong>Concluído</strong></td>
+  <td>Incrementa toda vez que um visitante atinge o final de qualquer ramificação em uma caixa de diálogo.</td>
+ </tr>
+ <tr>
+  <td><strong>As pessoas adquiriram</strong></td>
+  <td>Incrementa sempre que um visitante fornece um endereço de email válido em um Fluxo de diálogo.</td>
+ </tr>
+ <tr>
+  <td><strong>Reuniões reservadas</strong></td>
+  <td>Incrementa toda vez que um visitante agenda com êxito um compromisso por meio do chatbot.</td>
+ </tr>
+ <tr>
+  <td><strong>Metas alcançadas</strong></td>
+  <td>Incrementa toda vez que um visitante atinge uma meta em qualquer fluxo de diálogo.</td>
+ </tr>
+</table>
 
 ## Desabilitar/Habilitar todas as caixas de diálogo {#disable-enable-all-dialogues}
 
@@ -44,4 +72,3 @@ Você pode desativar (e reativar) todas as caixas de diálogo publicadas ao mesm
 1. Alterne a **Chat habilitado** desligue para desativar (e ligue novamente para reativar) todas as caixas de diálogo.
 
    ![](assets/dialogue-overview-5.png)
-

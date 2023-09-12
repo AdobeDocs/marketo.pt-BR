@@ -4,10 +4,10 @@ title: Criar uma caixa de diálogo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '79'
+ht-degree: 5%
 
 ---
 
@@ -31,10 +31,9 @@ Veja como criar uma nova caixa de diálogo.
 >
 >A prioridade determina qual caixa de diálogo será exibida a um visitante quando ele se qualificar para várias caixas de diálogo simultaneamente.
 
-Em seguida, saiba como [criar um fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#create-a-stream){target="_blank"}.
+Em seguida, saiba como [criar um fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Critérios de público](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
->* [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
->* [Relatórios](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
+>* [Critérios de público](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md){target="_blank"}
+>* [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}

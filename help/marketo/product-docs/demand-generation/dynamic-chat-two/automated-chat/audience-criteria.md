@@ -4,9 +4,9 @@ title: Critérios de público
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Semelhante às Smart Lists do Marketo Engage, os atributos de Critérios de púb
 
 ## Prioridade {#priority}
 
-A prioridade determina qual diálogo um lead recebe caso se qualifique para mais de um. É estabelecido quando você [criar sua caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. Você pode alterar a prioridade de uma caixa de diálogo existente abrindo-a e acessando **Detalhes da caixa de diálogo** na guia Critérios de público-alvo.
+A prioridade determina qual diálogo um lead recebe caso se qualifique para mais de um. É estabelecido quando você [criar sua caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}. Você pode alterar a prioridade de uma caixa de diálogo existente abrindo-a e acessando **Detalhes da caixa de diálogo** na guia Critérios de público-alvo.
 
 ![](assets/audience-criteria-1.png)
 
@@ -87,7 +87,7 @@ Há uma maneira fácil de direcionar especificamente as pessoas que ainda não e
 
    >[!NOTE]
    >
-   >Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) os cookies e os coloca no sistema. Pesquisamos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
+   >Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} os cookies e os coloca no sistema. Pesquisamos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
 
 1. _É_ é definido por padrão. No campo Selecionar valores, digite NY (também é possível clicar no menu suspenso e selecionar na lista).
 
@@ -136,7 +136,5 @@ Use exclusões para garantir que a caixa de diálogo **não** são exibidos em u
 
 >[!MORELIKETHIS]
 >
->* [Criar uma caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
->* [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
->* [Relatórios](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
-
+>* [Criar uma caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}
