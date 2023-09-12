@@ -4,9 +4,9 @@ title: Teste das notas de versão atuais
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1212'
 ht-degree: 10%
 
 ---
@@ -117,11 +117,9 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * mais espaço
 
-* fim do teste... POR ENQUANTO
-
 * **Usado pela coluna Contagem para ativos do Design Studio**:
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -135,7 +133,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Usado por aprimoramentos de guias para o Design Studio Assets**: a guia Usado pelo aprimoramento fornece uma exibição mais detalhada do tipo e do nome de um ativo, juntamente com onde ele está sendo usado. Isso é aplicável para detalhes de email e detalhes de imagens e arquivos.
 
-<table> 
+<table width="400px">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
@@ -146,6 +144,12 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   </tbody>
 </table>
+
+* espaço
+
+* mais espaço
+
+* fim do teste... POR ENQUANTO
 
 * **Serviço da Etapa de Fluxo de Cálculo de Fórmula**: A Fórmula de Cálculo é um Serviço de Etapa de Fluxo criado na plataforma de Tempo de Execução de Adobe para uso com Campanhas Inteligentes de Marketo Engage. Os clientes Adobe com tempo de execução de E/S podem implantar o serviço e instalá-lo nas assinaturas Marketo Engage, permitindo que calculem fórmulas semelhantes às do Excel nas Campanhas inteligentes do Marketo.
 
