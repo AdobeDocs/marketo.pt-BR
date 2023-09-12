@@ -4,16 +4,16 @@ title: Visão geral do bate-papo ao vivo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 3%
 
 ---
 
 # Visão geral do bate-papo ao vivo {#live-chat-overview}
 
-Use o cartão de chat ao vivo no [designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} quando quiser que os visitantes conversem com um agente em tempo real.
+Use o cartão de chat ao vivo no [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} quando quiser que os visitantes conversem com um agente em tempo real.
 
 ## Usar o cartão de chat ao vivo {#using-the-live-chat-card}
 
@@ -23,7 +23,7 @@ Use o cartão de chat ao vivo no [designer de fluxo](/help/marketo/product-docs/
 >
 >O cartão de chat ao vivo deve ser sempre o último cartão na ramificação. Se a placa for colocada em um ponto aleatório na ramificação, o visitante poderá se surpreender ao conectá-la repentinamente a um agente.
 
-**Práticas recomendadas**
+### Práticas recomendadas {#best-practices}
 
 * Use um cartão de perguntas antes do cartão de chat ao vivo perguntando ao visitante se ele deseja se conectar.
 * Depois que o visitante concordar em se conectar, use o cartão de captura de informações para coletar algumas informações, como nome/sobrenome, endereço de email, cargo etc. (é recomendável solicitar pelo menos o nome e o endereço de email).
@@ -46,7 +46,7 @@ Clicar no cartão de chat ao vivo no stream permite escolher como o visitante é
   </tr>
     <tr> 
    <td><b>Regras personalizadas</b></td>
-   <td>Todas as regras personalizadas serão percorridas ao considerar para onde encaminhar o visitante. Se o visitante não atender a nenhum dos critérios, ele vai REGRA DE FALLBACK???</td>
+   <td>Todas as regras personalizadas serão percorridas ao considerar para onde encaminhar o visitante. Se o visitante não se qualificar para nenhuma regra personalizada, ele receberá a <a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">mensagem de fallback do chat ao vivo</a>.</td>
   </tr> 
   <tr> 
    <td><b>Equipe</b></td>

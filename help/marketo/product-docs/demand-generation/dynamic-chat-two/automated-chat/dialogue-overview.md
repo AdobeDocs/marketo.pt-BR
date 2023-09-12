@@ -4,9 +4,9 @@ title: Visão geral da caixa de diálogo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ A variável [Designer de fluxo](/help/marketo/product-docs/demand-generation/dyn
 
 ## Relatórios {#reports}
 
-A variável [Relatórios](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} de uma caixa de diálogo é onde você poderá ver as métricas sobre o desempenho da caixa de diálogo.
+A guia Relatórios é onde você poderá ver as métricas sobre o desempenho da caixa de diálogo.
 
 ![](assets/dialogue-overview-3.png)
 

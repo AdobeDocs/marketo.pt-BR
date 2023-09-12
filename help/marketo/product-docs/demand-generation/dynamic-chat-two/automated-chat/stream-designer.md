@@ -4,9 +4,9 @@ title: Designer de fluxo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1102'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Há _muitos_ combinações de fluxo possíveis. Este artigo contém um exemplo e
 
 >[!PREREQUISITES]
 >
->Antes de usar o cartão Documento, você deve [configurar](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} na sua conta Adobe.
+>Antes de usar o cartão Documento, você deve [configurar](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md){target="_blank"} na sua conta Adobe.
 
 ## Cartões de Designer de Stream {#stream-designer-cards}
 
@@ -89,6 +89,8 @@ No canto superior direito do Stream Designer, você verá vários ícones. Aqui 
 </table>
 
 ## Criar um fluxo {#create-a-stream}
+
+É possível criar fluxos para caixas de diálogo ou [Forms de conversa](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}. Neste exemplo, criaremos um para uma caixa de diálogo.
 
 1. Depois de ter [criou seu diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, clique no link **Designer de fluxo** guia.
 

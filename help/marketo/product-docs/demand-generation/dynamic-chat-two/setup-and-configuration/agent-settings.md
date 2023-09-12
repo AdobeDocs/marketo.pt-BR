@@ -4,9 +4,9 @@ title: Configurações do agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '482'
 ht-degree: 2%
 
 ---
@@ -64,11 +64,11 @@ Defina o fuso horário e a disponibilidade de hora/dia da semana para receber re
  <tbody> 
   <tr> 
    <td><b>Duração da reunião</b></td>
-   <td>Duração máxima da reunião. - O QUE ACONTECE? ENCERRAMENTO AUTOMÁTICO?</td>
+   <td>Duração máxima da reunião. - O QUE ACONTECE? PARADAS AUTOMÁTICAS COMO ZOOM?</td>
   </tr> 
   <tr> 
    <td><b>Tempo de buffer entre reuniões</b></td>
-   <td>Tempo definido como buffer após a reunião. Se você a marcar por 30 minutos, ninguém poderá marcar uma reunião com você até 31 minutos após o fim agendado de uma reunião em seu calendário. - 31 ou 30??????????</td>
+   <td>Tempo definido como buffer após a reunião. Se você a marcar por 30 minutos, ninguém poderá marcar uma reunião com você até 30 minutos após o fim agendado de uma reunião em seu calendário.</td>
   </tr>
  </tbody> 
 </table>
@@ -83,11 +83,11 @@ Defina seu fuso horário e disponibilidade de hora/dia da semana para receber ba
 
 ![](assets/agent-settings-5.png)
 
-Se você estiver conectado ao aplicativo, receberá uma notificação no aplicativo de um chat recebido. Se você não estiver conectado, receberá uma notificação do navegador.
+Se você estiver conectado ao aplicativo, receberá uma notificação no aplicativo de um chat recebido. Se você não estiver conectado, receberá uma notificação do navegador (se tiver [configurar](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->A variável [alternância de disponibilidade](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} na Caixa de entrada do agente **substituirá** o que você insere na guia Disponibilidade do chat ao vivo. Portanto, se você estiver programado como disponível de 1p a 5p, mas precisar fazer uma pausa rápida em 3p, não será necessário alterar as configurações do agente. O status de alternância de disponibilidade permanecerá até que você o alterne manualmente ou até que o próximo bloco de tempo em sua disponibilidade seja atingido.
+>A variável [alternância de disponibilidade](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} na Caixa de entrada do agente **substituirá** o que você insere na guia Disponibilidade do chat ao vivo. Portanto, se você estiver programado como disponível de 1p a 5p, mas precisar fazer uma pausa rápida em 3p, não será necessário alterar as configurações do agente. O status de alternância de disponibilidade permanecerá até que você o altere manualmente ou até que o próximo bloco de tempo em sua disponibilidade seja atingido.
 
 >[!TIP]
 >

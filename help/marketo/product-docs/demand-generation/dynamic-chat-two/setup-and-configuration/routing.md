@@ -4,10 +4,10 @@ title: Roteamento
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '231'
+ht-degree: 0%
 
 ---
 
@@ -61,6 +61,18 @@ Identifique e faça upload da sua conta de público alvo e respectivos propriet�
 
 ![](assets/routing-9.png)
 
-Roteamento de equipe - DELETE ESTAS REFERÊNCIAS PARA AGORA
+### Adicionar uma conta {#add-an-account}
 
-Membro de roteamento de Smart List - POSSIVELMENTE ATRASADO
+Neste exemplo, direcionaremos todos os funcionários da Lego diretamente para o agente Steven.
+
+1. Na guia Roteamento de conta, clique em **+ Adicionar conta**.
+
+   ![](assets/routing-10.png)
+
+   >[!TIP]
+   >
+   >É possível criar várias contas de uma só vez, basta clicar em **Carregar lista de contas** e fazendo upload de um CSV.
+
+1. Insira o nome da empresa, o domínio e selecione o agente desejado.
+
+   ![](assets/routing-11.png)

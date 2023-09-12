@@ -4,16 +4,16 @@ title: Critérios de público
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 2%
 
 ---
 
 # Critérios de público {#audience-criteria}
 
-Semelhante às Smart Lists do Marketo, os atributos de Critérios de público-alvo permitem definir o público-alvo. Você pode direcionar pessoas conhecidas ou desconhecidas usando atributos inferidos, de pessoa ou de empresa (ou uma combinação desses atributos).
+Semelhante às Smart Lists do Marketo Engage, os atributos de Critérios de público-alvo permitem definir o público-alvo. Você pode direcionar pessoas conhecidas ou desconhecidas usando atributos inferidos, de pessoa ou de empresa (ou uma combinação desses atributos).
 
 ## Prioridade {#priority}
 
