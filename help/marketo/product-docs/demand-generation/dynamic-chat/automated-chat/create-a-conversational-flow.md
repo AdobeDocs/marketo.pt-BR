@@ -2,7 +2,7 @@
 description: Criar um fluxo de conversa - Documentação do Marketo - Documentação do produto
 title: Criar um Fluxo de Conversa
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -25,9 +25,9 @@ Veja como criar um novo Fluxo de conversa.
 
    ![](assets/create-a-conversational-flow-3.png)
 
->[!NOTE]
->
->Isso alterará somente o idioma do texto do sistema. Você é responsável pela tradução do conteúdo.
+   >[!NOTE]
+   >
+   >Isso alterará somente o idioma do texto do sistema. Você é responsável pela tradução do conteúdo.
 
 1. Assim como nos Diálogos, neste momento é hora de [criar um fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
