@@ -3,7 +3,7 @@ description: Notas de versão - Janeiro de 2023 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a977597ccf15520bae32a4b65538a55c3930f36a
 workflow-type: tm+mt
 source-wordcount: '637'
 ht-degree: 5%
@@ -115,7 +115,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 Os seguintes recursos seguem um formato Agile e são lançados em várias datas antes ou depois da data de lançamento padrão. Verifique abaixo cada recurso para obter seu status.
 
-### Chat dinâmico {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
@@ -142,7 +142,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendário</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendário</a></td>
   </tr>
   </tbody>
 </table>
@@ -184,7 +184,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Reuniões</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/demand-generation/dynamic-chat/meeting-list.md">Reuniões</a></td>
   </tr>
   </tbody>
 </table>
