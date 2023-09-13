@@ -3,7 +3,7 @@ description: Notas de versão - outubro de 2022 - Documentação do Marketo - Do
 title: Notas de versão - outubro de 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: a977597ccf15520bae32a4b65538a55c3930f36a
+source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 5%
@@ -154,7 +154,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer#stream-designer-icons">Ícones do Designer de fluxo</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Ícones do Designer de fluxo</a></td>
   </tr>
   </tbody>
 </table>

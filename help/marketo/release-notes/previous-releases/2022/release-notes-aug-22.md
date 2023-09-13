@@ -3,7 +3,7 @@ description: Notas de versão - agosto de 2022 - Documentação do Marketo - Doc
 title: Notas de versão - agosto de 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Abaixo você encontrará todos os recursos incluídos na versão de agosto de 20
 
 Os recursos a seguir iniciaram uma implantação em fases em **26 de agosto de 2022**.
 
-## Orquestração entre canais {#cross-channel-orchestration}
+## Orquestração entre canais {#cross-channel-orchestration}
 
-* **[Ativar/desativar todas as caixas de diálogo publicadas de uma só vez para o Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**: ative/desative globalmente todas as caixas de diálogo publicadas de uma só vez na página Configuração, pressionando um botão.
+* **[Ativar/desativar todas as caixas de diálogo publicadas de uma só vez para o Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**: ative/desative globalmente todas as caixas de diálogo publicadas de uma só vez na página Configuração, pressionando um botão.
 
-* **[Avatares personalizados para o Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target="_blank"}**: carregue um avatar de chatbot personalizado para que ele possa ser personalizado para sua marca.
+* **[Avatares personalizados para o Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#agent-settings){target="_blank"}**: carregue um avatar de chatbot personalizado para que ele possa ser personalizado para sua marca.
 
 * **Transcrições de chat para Dynamic Chat**: visualize as transcrições do chat de cada conversa para obter informações mais detalhadas sobre o interesse de cada visitante da Web.
 
