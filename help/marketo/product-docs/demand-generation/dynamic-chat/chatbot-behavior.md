@@ -1,9 +1,8 @@
 ---
 description: Comportamento Do Chatbot - Documentação Do Marketo - Documentação Do Produto
 title: Comportamento do Chatbot
-exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -406,3 +405,4 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
     </tr>
   </tbody>
 </table>
+

@@ -4,10 +4,10 @@ description: Tokens de acionador para momentos interessantes - Documentação do
 title: Tokens de acionador para momentos interessantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 96ba23e53e395f3e07b6f636f6acf7e6b94e1392
+source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 27%
+source-wordcount: '546'
+ht-degree: 23%
 
 ---
 
@@ -713,108 +713,253 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
 
 ### Tokens de acionador de Dynamic Chat {#dynamic-chat-trigger-tokens}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col>
-  <col>
-  <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Page URL}}</code></th> 
-   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
-   <th><code>{{trigger.Conversation Status}}</code></th> 
-   <th><code>{{trigger.Agent Name}}</code></th> 
-   <th><code>{{trigger.Agent Email}}</code></th> 
-   <th><code>{{trigger.Scheduled For}}</code></th> 
-   <th><code>{{trigger.Goal name}}</code></th> 
-   <th><code>{{trigger.Document Name}}</code></th> 
-   <th><code>{{trigger.Document URL}}</code></th>
-   <th><code>{{trigger.Document Opened}}</code></th>
-   <th><code>{{trigger.Document Downloaded}}</code></th>
-  </tr> 
-  <tr> 
-   <td>Envolvido com uma caixa de diálogo</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Reunião agendada em uma caixa de diálogo</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Meta da caixa de diálogo alcançada</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
+<table>
+<thead>
+  <tr>
+    <th> </th>
+    <th><code>{{trigger.Agent Email}}</code></th>
+    <th><code>{{trigger.Agent Name}}</code></th>
+    <th><code>{{trigger.Conversation Status}}</code></th>
+    <th><code>{{trigger.Conversation Summary}}</code></th>
+    <th><code>{{trigger.Conversation Transcript}}</code></th>
+    <th><code>{{trigger.Document Downloaded}}</code></th>
+    <th><code>{{trigger.Document Name}}</code></th>
+    <th><code>{{trigger.Document Opened}}</code></th>
+    <th><code>{{trigger.Document URL}}</code></th>
+    <th><code>{{trigger.Goal name}}</code></th>
+    <th><code>{{trigger.meeting status}}</code></th>
+    <th><code>{{trigger.Name}}</code></th>
+    <th><code>{{trigger.Page URL}}</code></th>
+    <th><code>{{trigger.routing queue name}}</code></th>
+    <th><code>{{trigger.Scheduled For}}</code></th>
+    <th><code>{{trigger.source name}}</code></th>
+    <th><code>{{trigger.source type}}</code></th>
+    <th><code>{{trigger.Trigger Name}}</code></th>
+    <th><code>{{trigger.ui type}}</code></th>
   </tr>
-  <tr> 
-   <td>Interagiu com o documento na caixa de diálogo</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-  </tr> 
- </tbody> 
+</thead>
+<tbody>
+  <tr>
+    <td>Envolvido com uma caixa de diálogo</td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Envolvido com um Formulário de Conversação</td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+  </tr>
+  <tr>
+    <td>Envolvido com um Agente em Diálogo</td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Envolvido com um agente em forma de conversa</td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Reunião agendada na caixa de diálogo</td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Reunião agendada em formato de conversa</td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Meta da caixa de diálogo alcançada</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Meta de formulários de conversação atingida</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Interagiu com o documento na caixa de diálogo</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Interagiu com o documento em um formulário de conversa</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
 </table>
 
 ### Diversos {#miscellaneous}
