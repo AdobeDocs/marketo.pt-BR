@@ -3,9 +3,9 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: 0dce393742df841af88b71614b55c4946c081814
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '902'
 ht-degree: 6%
 
 ---
@@ -41,8 +41,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr> 
    <td><strong>Usado pela coluna Contagem para ativos do Design Studio</strong>: a Biblioteca de referência do programa Marketo Engage permite que os usuários importem programas de "exemplo" e outros ativos que representam as práticas recomendadas pelo Adobe. Nossa equipe de gerenciamento de produtos atualizou completamente a biblioteca, fornecendo ferramentas mais valiosas para aqueles que desejam iniciar seu programa rapidamente.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
    <tr> 
    <td> </td> 
@@ -51,8 +51,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
    <tr> 
    <td><strong>Usado por aprimoramentos de guias para o Design Studio Assets</strong>: a guia Usado pelo aprimoramento fornece uma exibição mais detalhada do tipo e do nome de um ativo, juntamente com onde ele está sendo usado. Isso é aplicável para detalhes de email e detalhes de imagens e arquivos.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
    <tr> 
    <td> </td> 
