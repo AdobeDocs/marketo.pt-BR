@@ -3,22 +3,26 @@ description: Lista de verificação de administrador de instância herdada - Doc
 title: Lista de Verificação de Administração de Instância Herdada
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '1444'
-ht-degree: 4%
+source-wordcount: '1566'
+ht-degree: 3%
 
 ---
 
 # Instância herdada: lista de verificação da seção do administrador {#inherited-instance-admin-section-checklist}
 
-As listas de verificação abaixo (listas de verificação subsequentes vinculadas na parte inferior de cada artigo) foram colocadas junto com a entrada de especialistas do Marketo para ajudar você a se familiarizar rapidamente. Você também pode baixar as listas de verificação e acompanhar o progresso.
+As listas de verificação abaixo (listas de verificação subsequentes vinculadas na parte inferior de cada artigo) foram criadas pelo Adobe Professional Services com a entrada de especialistas do Marketo para ajudar você a se familiarizar rapidamente. Você também pode baixar as listas de verificação e acompanhar o progresso.
 
 >[!TIP]
 >
 >Se você for um novo usuário de Marketo Engage e não estiver familiarizado com muitos dos termos, verifique a [Glossário do Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
+
+>[!NOTE]
+>
+>Isso só se aplica a assinaturas integradas no [Sistema Adobe Identity Management (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} em Marketo Engage > Administrador > Usuários e funções.
 
 <table> 
  <tbody> 
@@ -28,23 +32,22 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
   </tr> 
   <tr> 
    <td>Assinatura</td> 
-   <td><li>Sua assinatura do Marketo Engage está ativada? <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Sistema Adobe Identity Management</a> (Adobe IMS) ainda? 
-<br/>     Em caso afirmativo, você recebeu uma função de "Administrador de produto do Adobe Admin Console" por seu "Administrador de sistema do Adobe Admin Console"? Se você não tem certeza de quem na sua organização tem privilégios de administrador no console, entre em contato com <a href="https://helpx.adobe.com/contact.html" target="_blank">Atendimento ao cliente Adobe</a>.  
-<br/>     Caso contrário, você prosseguirá com a <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">experiência de funções e permissões do usuário herdadas</a> em Marketo Engage &gt; Admin &gt; Usuários e funções até que sua assinatura seja renovada.</li></td>
+   <td><li>Sua assinatura do Marketo Engage foi migrada para <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> ainda? 
+<br/>     Em caso afirmativo, você recebeu uma função de "Administrador de produto do Adobe Admin Console" por seu "Administrador de sistema do Adobe Admin Console"? Se você não tem certeza de quem na sua organização tem privilégios de administrador no console, entre em contato com <a href="https://helpx.adobe.com/contact.html" target="_blank">Atendimento ao cliente Adobe</a>.</li>
+<li>Você aceitou o convite 'Marketo Engage Product Admin'? O email é enviado quando a função é atribuída na Adobe Admin Console.
+<br/>     Caso contrário, procure a variável <a href="//help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">email de boas-vindas</a> na sua caixa de entrada e aceite o convite para ativar sua Adobe ID.</li></td>
   </tr>
   <tr> 
    <td>Perfil do produto</td> 
-   <td>(Assinaturas no Adobe IMS <b>somente</b>)
-<p>
-<li>Você recebeu uma função de "Administrador de produto do Marketo Engage" em Marketo Engage/Administrador/Usuários e funções?</li> 
-<li>Você atribuiu o Marketo Engage a todos os perfis de produto dos usuários apropriados na Adobe Admin Console?
-<br/>     Caso contrário, certifique-se de atribuir o Marketo Engage ao perfil de produto do Adobe IMS antes de atribuir suas funções no Marketo Engage/Admin/Usuários e funções.</li>
-<p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: se sua assinatura tiver mais de 75 usuários e tiver acabado de migrar para o Adobe IMS, você terá a opção de selecionar usuários para migrar em lotes e administrar sua identificação de Adobe em grupos ou todos de uma só vez. Leia mais sobre o que esperar do <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Dia da migração do Adobe IMS</a>.</td>
+   <td><li>Todos os usuários apropriados estão atribuídos ao perfil de produto Marketo Engage no Adobe Admin Console?
+<br/>     Caso contrário, verifique se <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">adicionar e/ou remover usuários</a> dos perfis de produto Marketo Engage na Adobe Admin Console. Não é possível atribuir funções de usuários em Marketo Engage &gt; Admin &gt; Usuários e funções se eles forem adicionados a um Perfil de produto.</li>
+<p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: se um usuário indesejável for adicionado a vários perfis de produto, você deverá remover o usuário de todos os perfis de produto. Caso contrário, eles ainda terão acesso ao Marketo Engage.</td>
   </tr>
   <tr> 
    <td>API de gerenciamento de usuários</td> 
-   <td><li>Sua assinatura do usou alguma API de gerenciamento de usuários do Marketo?
-<br/>     Em caso afirmativo, será necessário usar <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">APIs do Adobe IMS</a> para convidar, atualizar e excluir usuários daqui em diante.</li></td>
+   <td><li>Sua assinatura usa alguma API de gerenciamento de usuários do Marketo?
+<br/>     Em caso afirmativo, será necessário usar <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">APIs do Adobe IMS</a> para convidar, atualizar e excluir usuários daqui em diante.</li>
+<p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: o "Gerenciamento de funções" permanece no Marketo Engage e as APIs de gerenciamento de usuários do Marketo ainda podem ser usadas para gerenciamento de funções.</td>
   </tr>
  </tbody> 
 </table>
@@ -59,8 +62,10 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
   </tr> 
   <tr> 
    <td>Usuários</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Quantos usuários</a> existem?</li>
-<li>Há usuários que devem ser removidos?</li>
+   <td><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: se sua assinatura já estiver no Adobe IMS, prossiga para a seguinte revisão do gerenciamento de usuários no Adobe Admin Console. Caso contrário, acesse Administrador &gt; Usuários e funções &gt; Usuários no Marketo Engage.
+   <p>
+   <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Quantos usuários</a> existem?</li>
+<li>Há usuários que devem ser <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">removido</a>?</li>
 <li>Sua empresa tem políticas para excluir usuários?</li> 
 <li>Quantos usuários <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Permissões de administrador</a>?</li>
 <li>Se algum desses usuários for alterado para <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">outras funções?</a></li> 
@@ -68,12 +73,13 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
   </tr>
   <tr> 
    <td>Funções</td> 
-   <td><li>Quantas funções existem?</li>  
+   <td><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: se você usa o Marketo com o Adobe Identity ou não, prossiga com a revisão das permissões de função no Marketo Engage em Admin &gt; Usuários e funções &gt; Funções.
+   <p><li>Quantas funções existem?</li>  
 <li>O que <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">permissões/acesso</a> cada função tem? Algum deve ser ajustado?</li>
 <li>Há quantos usuários por função?</li>
 <li>Com que frequência os usuários <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">efetuando login</a>?</li>
 <li>Cada usuário da API tem sua <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">função de usuário própria</a>? Caso contrário, considere implementar isso para facilitar a solução de problemas.</li> 
-<li>As funções e permissões do usuário estão alinhadas aos dados corporativos? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">políticas de privacidade</a>?</li></td>
+<li>As suas funções e permissões de usuário estão alinhadas às suas políticas corporativas de privacidade de dados para fins de conformidade normativa (por exemplo, <a href="https://gdpr-info.eu/" target="_blank">GDPR</a>)? Os dados corporativos <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">políticas de privacidade</a> permitir que os usuários baixem e compartilhem dados de usuários do Marketo Engage? O negócio de permissão é necessário?</li></td>
   </tr>
   <tr> 
    <td>Usuários de suporte</td> 

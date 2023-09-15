@@ -3,9 +3,9 @@ description: Saiba como otimizar e dimensionar uma instância de Marketo Engage 
 title: Iniciar com o Jumpstart uma instância de Marketo Engage herdada
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 1%
 
 ---
@@ -16,15 +16,9 @@ Iniciar um novo trabalho ou assumir o controle de uma instância existente de ou
 
 ## Configurar na Nação de marketing {#get-set-up-in-the-marketing-nation}
 
-Verifique se você está configurado corretamente na Comunidade do Marketo.
-
-* **[Configurar seu perfil]**(https://nation.marketo.com/){target="_blank"}.
+Verifique se você está configurado corretamente na Comunidade da Nação de marketing.
 
 * [**Configurar seu perfil**](https://nation.marketo.com/){target="_blank"}.
-
-* **[Configurar seu perfil](https://nation.marketo.com/)**{target="_blank"}.
-
-* **[Configurar seu perfil](https://nation.marketo.com/){target="_blank"}**.
 
 * Leia em [**Diretrizes da Comunidade de marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
@@ -32,9 +26,9 @@ Verifique se você está configurado corretamente na Comunidade do Marketo.
 
 * Saiba como [**enviar um caso de suporte**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
-## Guias de auditoria de instâncias herdadas {#inherited-instance-audit-guides}
+## Auditoria de instância herdada  {#audit-your-inherited-instance}
 
-As listas de verificação abaixo foram colocadas junto com a entrada de especialistas da Marketo para ajudar você a se atualizar rapidamente. Saiba como navegar pelas diferentes áreas do Marketo Engage e executar as várias tarefas necessárias para executar uma auditoria, com links para a documentação de ajuda recomendada incluída.
+A Adobe Professional Services (com a entrada de especialistas da Marketo) reuniu várias Listas de verificação de auditoria de instância herdada do Marketo Engage para ajudar você a se familiarizar rapidamente. Saiba como navegar pelas diferentes áreas do Marketo Engage e executar as várias tarefas necessárias para executar uma auditoria, com links para a documentação de ajuda recomendada incluída.
 
 Você também pode baixar as listas de verificação no formato de planilha.
 
