@@ -3,9 +3,9 @@ description: Criar um webinário interativo - Documentação do Marketo - Docume
 title: Criar um webinário interativo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0ee9bd4bc9639c452219f9445a88b552617a785f
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,13 @@ Crie um Webinário interativo em algumas etapas fáceis.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Clique na lista suspensa Canal e selecione **Webinário**.
+1. Clique na lista suspensa Canal e selecione qualquer canal que tenha _Evento com webinário_ na coluna &quot;Aplica-se a&quot;. Neste exemplo, estamos escolhendo **Webinário**.
 
    ![](assets/create-an-interactive-webinar-4.png)
+
+   >[!NOTE]
+   >
+   >Para ver a quais canais se aplicam _Evento com webinário_, vá para **Admin** > **Tags**. &quot;Aplica-se a&quot; deve ser a coluna do meio. Saiba mais sobre &quot;Aplica-se a&quot; na Etapa 5 do [este artigo](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 1. Escolher **Webinars interativos** e clique em **Próxima**.
 
@@ -46,6 +50,6 @@ Crie um Webinário interativo em algumas etapas fáceis.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Seu webinário interativo é criado. Agora é hora de [criar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+Seu webinário interativo é criado. Agora é hora de [criar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 ![](assets/create-an-interactive-webinar-8.png)
