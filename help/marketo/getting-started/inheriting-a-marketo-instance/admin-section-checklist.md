@@ -3,9 +3,9 @@ description: Lista de verificação de administrador de instância herdada - Doc
 title: Lista de Verificação de Administração de Instância Herdada
 hide: true
 hidefromtoc: true
-source-git-commit: ea0e8368e83168dd3f14f815f387f8dead0fff11
+source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
 workflow-type: tm+mt
-source-wordcount: '1560'
+source-wordcount: '1564'
 ht-degree: 3%
 
 ---
@@ -31,7 +31,7 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
    <th>Revisar foco</th>
   </tr> 
   <tr> 
-   <td>Assinatura</td> 
+   <td>Administrador de assinatura e produto Marketo Engage</td> 
    <td><li>Sua assinatura do Marketo Engage foi migrada para <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> ainda? 
 <br/>     Em caso afirmativo, você recebeu uma função de "Administrador de produto do Adobe Admin Console" por seu "Administrador de sistema do Adobe Admin Console"? Se você não tem certeza de quem na sua organização tem privilégios de administrador no console, entre em contato com <a href="https://helpx.adobe.com/contact.html" target="_blank">Atendimento ao cliente Adobe</a>.</li>
 <li>Você aceitou o convite 'Marketo Engage Product Admin'? O email é enviado quando a função é atribuída na Adobe Admin Console.
