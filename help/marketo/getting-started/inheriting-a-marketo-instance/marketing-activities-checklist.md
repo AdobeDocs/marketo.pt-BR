@@ -3,7 +3,7 @@ description: Lista de verificação de atividades de marketing de instância her
 title: Lista de Verificação de Atividades de Marketing de Instância Herdada
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 2%
@@ -16,11 +16,11 @@ Organize corretamente a seção de Atividades de marketing para ajudar outras pe
 
 ## Organização {#organization}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Área</th> 
-   <th style="width:80%">Revisar foco</th>
+   <th style="width:30%">Área</th> 
+   <th style="width:70%">Revisar foco</th>
   </tr> 
   <tr> 
    <td>Convenções de nomenclatura</td> 
@@ -61,12 +61,12 @@ Organize corretamente a seção de Atividades de marketing para ajudar outras pe
 
 ## Ativos {#assets}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
-  <tr> 
-   <th style="width:20%">Área</th> 
-   <th style="width:80%">Revisar foco</th>
-  </tr> 
+  <tr>
+   <th style="width:30%">Área</th>
+   <th style="width:70%">Revisar foco</th>
+  </tr>
   <tr> 
    <td>Tokens</td> 
    <td><li>São <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">tokens</a> sendo usados nos tipos de programas mais usados? 
@@ -114,12 +114,12 @@ Organize corretamente a seção de Atividades de marketing para ajudar outras pe
 
 ## Programas Operacionais {#operational-programs}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Área</th> 
-   <th style="width:80%">Revisar foco</th>
-  </tr> 
+   <th style="width:30%">Área</th> 
+   <th style="width:70%">Revisar foco</th>
+  </tr>
   <tr> 
    <td>Pontuação de pessoa</td> 
    <td><li>Você tem um <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">pontuação da pessoa</a> programa em vigor?</li>

@@ -2,7 +2,7 @@
 description: Promover um webinário interativo - Documentação do Marketo - Documentação do produto
 title: Promover um webinário interativo
 feature: Interactive Webinars
-source-git-commit: 346e159bdc2bb8e28cbf87764f4f71577177b636
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Promover um webinário interativo {#promoting-an-interactive-webinar}
 
-A promoção de um webinário interativo é semelhante à promoção de um webinário de parceiro por meio do Launchpoint. Ao criar um programa de evento Webinar interativo, você pode adicionar membros a um programa executando uma campanha ou importando membros para o programa. Para verificar os membros que foram adicionados ao Programa de evento de webinários interativos, clique na Guia Membros.
+A promoção de um webinário interativo é semelhante à promoção de um webinário de parceiro por meio do Launchpoint. Ao criar um programa de evento Webinar interativo, você pode adicionar membros a um programa executando uma campanha ou importando membros para o programa. Para verificar os membros que foram adicionados ao Programa de evento de webinários interativos, clique na guia Membros.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 

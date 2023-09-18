@@ -3,10 +3,10 @@ description: Lista de verificação herdada do Instance Design Studio - Document
 title: Lista de Verificação do Instance Design Studio Herdada
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 5%
+source-wordcount: '553'
+ht-degree: 4%
 
 ---
 
@@ -55,7 +55,11 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 <li>A maioria dos programas usa formulários globais ou locais?</li>
 <li>Todos os formulários estão coletando os dados corretos para Marketing e Vendas?</li>
 <li>Os valores ocultos são aproveitados adequadamente?</li>
-<li>Há algum formulário de Marketo Engage sendo usado em seu site (não as páginas de aterrissagem de Marketo Engage)?</li></td>
+<li>Algum formulário de Marketo Engage está sendo usado em páginas de aterrissagem que não sejam de Marketo Engage? Como eles estão sendo referenciados?</li>
+<p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: atualize as páginas em que você incorpora formulários do Marketo Engage com o novo código incorporado introduzido (requer páginas de aterrissagem seguras).
+<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+</td>
   </tr>
   <tr> 
    <td>Padronização de dados</td> 
