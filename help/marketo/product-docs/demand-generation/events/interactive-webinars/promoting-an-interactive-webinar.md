@@ -1,12 +1,10 @@
 ---
 description: Promover um webinário interativo - Documentação do Marketo - Documentação do produto
 title: Promover um webinário interativo
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d747305b4571cfbf8e40c46824d1e4bc148fca7e
+source-git-commit: 346e159bdc2bb8e28cbf87764f4f71577177b636
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -33,4 +31,6 @@ Após alguns minutos do registro, o URL do webinário do membro é preenchido na
 
 Você pode usar tokens para incluir o URL do webinário para membros individuais em uma campanha de email para comunicar que foram registrados no evento e usar o URL de ingresso para entrar no webinário no horário agendado. Os tokens de calendário podem ser usados na mesma campanha de email para garantir que a programação do webinário possa ser adicionada aos calendários dos membros.
 
-Foram fornecidos links no [Página de visão geral](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) para criar uma Landing Page e uma campanha de email. O restante das promoções relacionadas a um evento permanecem as mesmas que webinários de parceiros usando a integração do Launchpoint.
+Os links estão disponíveis no lado direito da guia Visão geral no Programa de evento para criar uma Página de aterrissagem, bem como uma campanha de email. O restante das promoções relacionadas a um evento permanecem as mesmas que webinários de parceiros usando a integração do Launchpoint.
+
+![](assets/promoting-an-interactive-webinar-2.png)
