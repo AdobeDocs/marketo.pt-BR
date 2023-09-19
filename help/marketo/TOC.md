@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
 workflow-type: tm+mt
-source-wordcount: '9114'
+source-wordcount: '9098'
 ht-degree: 5%
 
 ---
@@ -37,17 +37,14 @@ ht-degree: 5%
       + [Atualizar dados da pessoa](getting-started/quick-wins/update-person-data.md)
       + [Redirecionar uma página](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatizar um Alerta para Possíveis Pessoas Duplicadas](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
-   + Herdar uma instância do Marketo {#inheriting-a-marketo-instance}
-      + [Nova visão geral de herança](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
-      + [Ajuda! Herdei uma instância do Marketo existente](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
-      + [Itens para Check-off](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
-      + [O que analisar: principais habilidades](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
-      + [Maneiras de obter ajuda](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [Instância herdada: lista de verificação da seção do administrador](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
-      + [Instância Herdada: Lista de Verificação do Banco de Dados](getting-started/inheriting-a-marketo-instance/database-checklist.md)
-      + [Instância herdada: lista de verificação de atividades de marketing](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
-      + [Instância herdada: lista de verificação do Design Studio](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
-      + [Instância herdada: documentar sua configuração](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+   + Herdar uma instância do Marketo Engage {#inheriting-a-marketo-engage-instance}
+      + [Onde começar](getting-started/inheriting-a-marketo-engage-instance/new-inherit-overview.md)
+      + [Instância herdada: lista de verificação da seção do administrador](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+      + [Instância Herdada: Lista de Verificação do Banco de Dados](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
+      + [Instância herdada: lista de verificação de atividades de marketing](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+      + [Instância herdada: lista de verificação do Design Studio](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [Instância herdada: documentar sua configuração](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+      + [Revisão das principais habilidades](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Documentação do produto {#product-docs}
    + Aplicativos adicionais {#additional-apps}
       + SEO {#seo}
