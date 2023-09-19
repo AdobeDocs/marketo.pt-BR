@@ -3,10 +3,10 @@ description: Lista de verificação do banco de dados da instância herdada - Do
 title: Lista de Verificação do Banco de Dados da Instância Herdada
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 8%
+source-wordcount: '421'
+ht-degree: 7%
 
 ---
 
@@ -74,6 +74,7 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
   <tr> 
    <td>Listas inteligentes</td> 
    <td><li>Quantas <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart Lists</a> existem? Como eles são usados nessa instância?</li>
+   <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: Na seção Banco de Dados, as Smart Lists de Grupo são geradas pelo usuário e as Smart Lists de Sistema são listas default criadas por Marketo Engage.
 <li>As listas estão organizadas em uma estrutura de pastas coesa? 
 <br/>     Se você tiver listas órfãs, considere organizar sua árvore para que os ativos sejam fáceis de encontrar.</li>
 <p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Arquivamento</a> As Smart Lists desnecessárias ajudarão na organização e no desempenho.</td>
@@ -91,7 +92,8 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
   </tr> 
   <tr> 
    <td>Listas estáticas</td> 
-   <td><li>Quantas <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Listas Estáticas</a> existem? Como eles são usados nessa instância?</li></td>
+   <td><li>Quantas <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Listas Estáticas</a> existem? Como eles são usados nessa instância?</li>
+   <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: Na seção Banco de Dados, Listas de Grupos são Listas Estáticas.</td>
   </tr>
  </tbody> 
 </table>

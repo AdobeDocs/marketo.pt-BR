@@ -3,9 +3,9 @@ description: Documento de instância herdado em sua configuração - Documentaç
 title: Configuração do documento de instância herdado
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '305'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
   <tr> 
    <td>Changelog</td> 
     <td><li>Você tem um changelog no qual pode documentar o que está mudando em sua instância e por quê?</li>
-    <p><img src="assets/action-item-icon.png" alt="ícone de item de ação">Item de ação: baixe este exemplo para criar um changelog e alterações no documento para a configuração da instância.</td>
+    <p><img src="assets/action-item-icon.png" alt="ícone de item de ação">Item de ação: crie um changelog e registre as alterações feitas na configuração da sua instância.</td>
   </tr>
   <tr> 
    <td>Playbooks</td> 
@@ -67,7 +67,7 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
    <td>Conversas com partes interessadas internas</td> 
     <td><li>Quais são as expectativas internas da equipe de marketing da sua empresa? Eles correspondem ao que o Marketo Engage está fornecendo?</li>
    <li>Quais equipes são as partes interessadas na sua instância do Marketo Engage?</li>
-   <p><img src="assets/action-item-icon.png" alt="ícone de item de ação">Item de Ação: Baixar <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Modelo do Guia interno de comunicações das partes interessadas</a> para documentar os objetivos e as expectativas das principais partes interessadas.</td>
+   <p><img src="assets/action-item-icon.png" alt="ícone de item de ação">Item de ação: documente as metas e as expectativas das principais partes interessadas e atualize-as ao fazer check-in com seus colegas ao longo do ano.</td>
   </tr>
  </tbody> 
 </table>

@@ -3,9 +3,9 @@ description: Lista de verificação de administrador de instância herdada - Doc
 title: Lista de Verificação de Administração de Instância Herdada
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1592'
 ht-degree: 3%
 
 ---
@@ -231,6 +231,21 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
    <td>objetos  personalizados</td> 
    <td><li>Quantas <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">objetos personalizados</a> existem? Como eles são sincronizados ao seu CRM?</li>
 <li>Como esses objetos personalizados estão sendo utilizados pelos seus programas e consultas de lista?</li></td>
+  </tr>
+ </tbody> 
+</table>
+
+## Email {#email}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">Área</th>
+   <th>Revisar foco</th>
+  </tr> 
+  <tr> 
+   <td>Configurações padrão de email</td> 
+   <td><li>Em Admin &gt; Email, todas as configurações padrão estão atualizadas (por exemplo, <a href="/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md" target="_blank">email/rótulo "de"</a>, <a href="/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md" target="_blank">domínio de marca</a>, <a href="/help/marketo/product-docs/administration/email-setup/edit-the-unsubscribe-message.md" target="_blank">mensagem de cancelamento de inscrição</a>, etc.)?</li></td>
   </tr>
  </tbody> 
 </table>
