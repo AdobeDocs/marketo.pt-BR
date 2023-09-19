@@ -3,9 +3,9 @@ description: Lista de verificação herdada do Instance Design Studio - Document
 title: Lista de Verificação do Instance Design Studio Herdada
 hide: true
 hidefromtoc: true
-source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
+source-git-commit: e859c6b7c968f93b11bbd8dc281661824236fbaf
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '580'
 ht-degree: 4%
 
 ---
@@ -24,7 +24,9 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
   </tr> 
   <tr> 
    <td>Páginas globais</td> 
-   <td><li>Quantas ações globais <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Landing Pages</a> existem? Eles estão sendo usados por programas?</li></td>
+   <td><li>Quantas ações globais <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Landing Pages</a> existem? Eles estão sendo usados por programas?</li>
+   <li>Você tem um <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">central de assinaturas</a> configurar?
+   <br/>     Caso contrário, considere a criação de um.</li></td>
   </tr>
   <tr> 
    <td>Modelos</td> 
@@ -82,8 +84,9 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 <li>Os valores ocultos são aproveitados adequadamente?</li>
 <li>Algum formulário de Marketo Engage está sendo usado em páginas de aterrissagem que não sejam de Marketo Engage? Como eles estão sendo referenciados?</li>
 <p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: atualize as páginas em que você incorpora formulários do Marketo Engage com o novo código incorporado introduzido (requer páginas de aterrissagem seguras).
-<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
-<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
+<br/><textarea style="width: 100%; max-width: 100%; height: 80px;"><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<form id="mktoForm_1"></form>
+<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></textarea>
 </td>
   </tr>
   <tr> 
