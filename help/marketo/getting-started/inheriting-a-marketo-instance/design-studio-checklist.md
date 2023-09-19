@@ -3,7 +3,7 @@ description: Lista de verificação herdada do Instance Design Studio - Document
 title: Lista de Verificação do Instance Design Studio Herdada
 hide: true
 hidefromtoc: true
-source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 4%
@@ -30,7 +30,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
   </tr>
   <tr> 
    <td>Modelos</td> 
-   <td><li>Quantas <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Modelos de landing page</a> existem? Eles estão sendo aproveitados?</li></td>
+   <td><li>Quantas <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">Modelos de landing page</a> existem? Eles estão sendo aproveitados?</li></td>
   </tr>
   <tr> 
    <td>Grupos de teste</td> 
@@ -84,7 +84,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 <li>Os valores ocultos são aproveitados adequadamente?</li>
 <li>Algum formulário de Marketo Engage está sendo usado em páginas de aterrissagem que não sejam de Marketo Engage? Como eles estão sendo referenciados?</li>
 <p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: atualize as páginas em que você incorpora formulários do Marketo Engage com o novo código incorporado introduzido (requer páginas de aterrissagem seguras).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="miniatura de código"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="miniatura de código"></a>
 </td>
   </tr>
   <tr> 

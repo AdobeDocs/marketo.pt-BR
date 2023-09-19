@@ -3,7 +3,7 @@ description: Lista de verificação de administrador de instância herdada - Doc
 title: Lista de Verificação de Administração de Instância Herdada
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 3%
@@ -12,7 +12,7 @@ ht-degree: 3%
 
 # Instância herdada: lista de verificação da seção do administrador {#inherited-instance-admin-section-checklist}
 
-As listas de verificação abaixo (listas de verificação subsequentes vinculadas na parte inferior de cada artigo) foram criadas pelo Adobe Professional Services com a entrada de especialistas do Marketo para ajudar você a se familiarizar rapidamente. Você também pode baixar as listas de verificação e acompanhar o progresso.
+As listas de verificação abaixo (listas de verificação subsequentes vinculadas na parte inferior de cada artigo) foram criadas pelo Adobe Professional Services com a entrada de especialistas do Marketo para ajudar você a se familiarizar rapidamente. Também é possível [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) e acompanhe seu progresso.
 
 >[!TIP]
 >
