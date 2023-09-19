@@ -2,7 +2,7 @@
 description: Lista de verificação herdada do Instance Design Studio - Documentação do Marketo - Documentação do produto
 title: Lista de Verificação do Instance Design Studio Herdada
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 4%
@@ -11,7 +11,7 @@ ht-degree: 4%
 
 # Instância herdada: lista de verificação do Design Studio {#inherited-instance-design-studio-checklist}
 
-Estruturar modelos e criar formulários globais, trechos e imagens e arquivos ajudará a minimizar erros de dados, bem como simplificar o fluxo de trabalho da criação do seu programa. Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e acompanhe seu progresso.
+Estruturar modelos e criar formulários globais, trechos e imagens e arquivos ajudará a minimizar erros de dados, bem como simplificar o fluxo de trabalho da criação do seu programa. Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e acompanhe seu progresso.
 
 ## Páginas {#landing-pages}
 
@@ -83,7 +83,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 <li>Os valores ocultos são aproveitados adequadamente?</li>
 <li>Algum formulário de Marketo Engage está sendo usado em páginas de aterrissagem que não sejam de Marketo Engage? Como eles estão sendo referenciados?</li>
 <p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: atualize as páginas em que você incorpora formulários do Marketo Engage com o novo código incorporado introduzido (requer páginas de aterrissagem seguras).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="miniatura de código"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="miniatura de código"></a>
 </td>
   </tr>
   <tr> 
@@ -168,6 +168,6 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 
 <br> 
 
-[► Auditoria de uma instância herdada: Atividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[► Auditoria de uma instância herdada: Atividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-[Auditoria de uma instância herdada: documentar sua configuração de instância herdada ►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+[Auditoria de uma instância herdada: documentar sua configuração de instância herdada ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)

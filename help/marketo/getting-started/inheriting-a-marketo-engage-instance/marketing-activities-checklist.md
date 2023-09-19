@@ -2,7 +2,7 @@
 description: Lista de verificação de atividades de marketing de instância herdada - Documentação do Marketo - Documentação do produto
 title: Lista de Verificação de Atividades de Marketing de Instância Herdada
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 2%
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 # Instância herdada: lista de verificação de atividades de marketing {#inherited-instance-marketing-activities-checklist}
 
-Organize corretamente a seção de Atividades de marketing para ajudar outras pessoas a encontrar e gerenciar vários programas na instância do Marketo Engage e garantir que as pessoas sejam processadas para passar de Marketing para Vendas. Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e acompanhe seu progresso.
+Organize corretamente a seção de Atividades de marketing para ajudar outras pessoas a encontrar e gerenciar vários programas na instância do Marketo Engage e garantir que as pessoas sejam processadas para passar de Marketing para Vendas. Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e acompanhe seu progresso.
 
 ## Organização {#organization}
 
@@ -167,6 +167,6 @@ Organize corretamente a seção de Atividades de marketing para ajudar outras pe
 
 <br> 
 
-[► Auditoria de uma Instância Herdada: Banco de Dados](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[► Auditoria de uma Instância Herdada: Banco de Dados](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-[Auditoria de uma instância herdada: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[Auditoria de uma instância herdada: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

@@ -2,7 +2,7 @@
 description: Lista de verificação do banco de dados da instância herdada - Documentação do Marketo - Documentação do produto
 title: Lista de Verificação do Banco de Dados da Instância Herdada
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 7%
@@ -11,7 +11,7 @@ ht-degree: 7%
 
 # Instância Herdada: Lista de Verificação do Banco de Dados {#inherited-instance-database-checklist}
 
-Entenda o número total de pessoas, pessoas comercializáveis e as principais fontes de aquisição de pessoas na sua assinatura. Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e acompanhe seu progresso.
+Entenda o número total de pessoas, pessoas comercializáveis e as principais fontes de aquisição de pessoas na sua assinatura. Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e acompanhe seu progresso.
 
 ## Listas inteligentes do sistema {#system-smart-lists}
 
@@ -117,6 +117,6 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
 
 <br> 
 
-[► Auditoria de uma instância herdada: Administrador](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+[► Auditoria de uma instância herdada: Administrador](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-[Auditoria de uma instância herdada: Atividades de marketing ►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[Auditoria de uma instância herdada: Atividades de marketing ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
