@@ -2,9 +2,9 @@
 description: Notas de versão - setembro de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - setembro de 2023
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '849'
 ht-degree: 5%
 
 ---
@@ -39,7 +39,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Usado pela coluna Contagem para ativos do Design Studio</strong>: a Biblioteca de referência do programa Marketo Engage permite que os usuários importem programas de "exemplo" e outros ativos que representam as práticas recomendadas pelo Adobe. Nossa equipe de gerenciamento de produtos atualizou completamente a biblioteca, fornecendo ferramentas mais valiosas para aqueles que desejam iniciar seu programa rapidamente.</td> 
+   <td><strong>Usado pela coluna Contagem para ativos do Design Studio</strong>: a coluna Usado pela contagem para exibições de lista no Design Studio destaca o número de ativos que estão sendo usados. Isso se aplica a trechos, modelos de email, Forms e modelos de página de aterrissagem.</td> 
    <td>Remetido</td>
    <td>n/d</td>
   </tr>

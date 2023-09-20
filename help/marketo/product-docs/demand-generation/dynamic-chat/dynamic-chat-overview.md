@@ -2,9 +2,9 @@
 description: Visão geral do Dynamic Chat - Documentação do Marketo - Documentação do produto
 title: Visão geral do Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '641'
 ht-degree: 2%
 
 ---
@@ -64,10 +64,6 @@ O snippet de JavaScript Dynamic Chat pode ser instalado em qualquer site, bem co
 **Por quanto tempo os dados são armazenados para relatórios?**
 
 90 dias.
-
-**O Dynamic Chat permite o bate-papo ao vivo?**
-
-Não, ele utiliza apenas respostas predeterminadas.
 
 **O Dynamic Chat suporta outros idiomas além do inglês?**
 
