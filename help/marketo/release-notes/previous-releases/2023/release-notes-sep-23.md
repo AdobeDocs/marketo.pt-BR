@@ -2,9 +2,9 @@
 description: Notas de versão - setembro de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - setembro de 2023
 feature: Release Information
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '793'
 ht-degree: 5%
 
 ---
@@ -52,16 +52,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><strong>Usado por aprimoramentos de guias para o Design Studio Assets</strong>: a guia Usado pelo aprimoramento fornece uma exibição mais detalhada do tipo e do nome de um ativo, juntamente com onde ele está sendo usado. Isso é aplicável para detalhes de email e detalhes de imagens e arquivos.</td> 
    <td>Remetido</td>
    <td>n/d</td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>Serviço da Etapa de Fluxo de Cálculo de Fórmula</strong>: A Fórmula de Cálculo é um Serviço de Etapa de Fluxo criado na plataforma de Tempo de Execução de Adobe para uso com Campanhas Inteligentes de Marketo Engage. Os clientes Adobe com tempo de execução de E/S podem implantar o serviço e instalá-lo nas assinaturas Marketo Engage, permitindo que calculem fórmulas semelhantes às do Excel nas Campanhas inteligentes do Marketo.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
   </tr>
  </tbody> 
 </table>
