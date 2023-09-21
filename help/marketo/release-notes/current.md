@@ -3,7 +3,7 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 362aba77e372ff5ae09878c6a57d6ce97b019421
+source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 8%
@@ -20,7 +20,7 @@ Abaixo você encontrará todos os recursos incluídos na versão de outubro de 2
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **13 de outubro de 2023**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
+Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **6 de outubro de 2023**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
 
 <table style="table-layout:auto"> 
  <tbody> 
