@@ -2,9 +2,9 @@
 description: Notas de versão - setembro de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - setembro de 2023
 feature: Release Information
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '872'
 ht-degree: 5%
 
 ---
@@ -52,6 +52,26 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><strong>Usado por aprimoramentos de guias para o Design Studio Assets</strong>: a guia Usado pelo aprimoramento fornece uma exibição mais detalhada do tipo e do nome de um ativo, juntamente com onde ele está sendo usado. Isso é aplicável para detalhes de email e detalhes de imagens e arquivos.</td> 
    <td>Remetido</td>
    <td>n/d</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Localização de webinários interativos</strong>: permite exibir os detalhes do Programa de evento do webinário interativo do Marketo no idioma desejado, bem como escolher o idioma de entrega para que possa ser diferente do idioma do usuário do Marketo que criou o Programa de evento.</td> 
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Perguntas frequentes sobre webinários interativos</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Gerenciamento de acesso do usuário para webinários interativos</strong>: o Gerenciamento de acesso do usuário permite que os usuários dos Webinars interativos acessem apenas os Programas de evento aos quais têm permissão, ajudando a impedir o acesso não autorizado.</td> 
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">Acesso de usuário</a></td>
   </tr>
  </tbody> 
 </table>
