@@ -2,9 +2,9 @@
 description: Visão geral do Dynamic Chat - Documentação do Marketo - Documentação do produto
 title: Visão geral do Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: 5e413f280b44691336bd724ddc20936e88d53764
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '689'
 ht-degree: 2%
 
 ---
@@ -55,28 +55,6 @@ Ofereça aos visitantes da Web qualificados para se conectarem com seus represen
 
 [Criar uma conversa](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} que pode ser acionado por um visitante com base em uma ação designada (por exemplo, preencher um formulário, clicar em um link etc.).
 
-## Perguntas frequentes {#faq}
-
-**É possível instalar o Dynamic Chat em qualquer lugar no site da empresa ou ele funciona somente nas páginas de aterrissagem do Marketo?**
-
-O snippet de JavaScript Dynamic Chat pode ser instalado em qualquer site, bem como nas landing pages do Marketo.
-
-**Por quanto tempo os dados são armazenados para relatórios?**
-
-90 dias.
-
-**O Dynamic Chat suporta outros idiomas além do inglês?**
-
-Sim. O Dynamic Chat é compatível com os seguintes idiomas: francês, alemão, japonês, espanhol, italiano, português brasileiro, coreano, chinês simplificado e chinês tradicional. Saiba mais na [seção abaixo](#changing-the-language).
-
-**Você suporta a funcionalidade AI/NLP?**
-
-Não oferecemos suporte à funcionalidade AI/NLP.
-
-**Como posso segmentar pessoas anônimas?**
-
-Na caixa de diálogo, seria necessário usar o _O e-mail da pessoa está vazio_ atributo.
-
 ## Alteração do idioma {#changing-the-language}
 
 Siga estas etapas para alterar o idioma do Dynamic Chat.
@@ -105,6 +83,8 @@ Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto 
 
 ## Limites de retenção de dados Dynamic Chat {#dynamic-chat-data-retention-limits}
 
+Abaixo estão apenas alguns dos limites/parâmetros dentro do Dynamic Chat. Para obter uma lista completa, consulte o Marketo Engage [Página de descrição do produto](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+
 <table>
   <th>Tipo de dados</th>
   <th>Período de retenção</th>
@@ -129,3 +109,25 @@ Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto 
   <td>24 meses</td>
  </tr>
 </table>
+
+## Perguntas frequentes {#faq}
+
+**É possível instalar o Dynamic Chat em qualquer lugar no site da empresa ou ele funciona somente nas páginas de aterrissagem do Marketo?**
+
+O snippet de JavaScript Dynamic Chat pode ser instalado em qualquer site, bem como nas landing pages do Marketo.
+
+**Por quanto tempo os dados são armazenados para relatórios?**
+
+90 dias. Para obter uma lista completa de limites/parâmetros, visite o Marketo Engage [Página de descrição do produto](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+
+**O Dynamic Chat suporta outros idiomas além do inglês?**
+
+Sim. O Dynamic Chat é compatível com os seguintes idiomas: francês, alemão, japonês, espanhol, italiano, português brasileiro, coreano, chinês simplificado e chinês tradicional. Saiba mais na [seção abaixo](#changing-the-language).
+
+**Você suporta a funcionalidade AI/NLP?**
+
+Não oferecemos suporte à funcionalidade AI/NLP.
+
+**Como posso segmentar pessoas anônimas?**
+
+Na caixa de diálogo, seria necessário usar o _O e-mail da pessoa está vazio_ atributo.
