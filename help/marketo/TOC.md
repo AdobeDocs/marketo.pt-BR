@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '9106'
+source-wordcount: '9107'
 ht-degree: 5%
 
 ---
@@ -667,6 +667,7 @@ ht-degree: 5%
          + Instalação e configuração {#setup-and-configuration}
             + [Configuração inicial](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [Adicionar ou Remover Usuários do Chat](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Permissões](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
             + [Configuração](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
             + [Configurações do agente](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [Gerenciamento de agente](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
@@ -980,7 +981,7 @@ ht-degree: 5%
             + [Publicar um Sweepstakes](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Selecionar vencedores do sorteio](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + Marketing por e-mail {#email-marketing}
-      + Entregabilidade {#deliverability}
+      + Avaliação do delivery {#deliverability}
          + [Cancelamento de assinatura durável](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Power Pack de capacidade de entrega de email: como importar uma lista de seeds](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Rejeições permanentes e temporárias no email](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -1832,7 +1833,7 @@ ht-degree: 5%
          + [Configurar insight da conta](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Visão geral do plug-in Insight da conta](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Convidar usuários a acessar o Account Insight](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Destino {#target}
+      + Target {#target}
          + Contas nomeadas {#named-accounts}
             + [Visão Geral da Conta Nomeada](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Importar contas nomeadas](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
