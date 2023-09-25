@@ -2,18 +2,20 @@
 description: Visão geral do Live Chat - Documentação do Marketo - Documentação do produto
 title: Visão geral do bate-papo ao vivo
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '254'
 ht-degree: 3%
 
 ---
 
 # Visão geral do bate-papo ao vivo {#live-chat-overview}
 
-Use o cartão de chat ao vivo no [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} quando quiser que os visitantes conversem com um agente em tempo real.
+O bate-papo ao vivo permite que os visitantes do site se envolvam em conversas de bate-papo em tempo real com seus agentes de vendas.
 
 ## Usar o cartão de chat ao vivo {#using-the-live-chat-card}
+
+Use o cartão de chat ao vivo no [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} quando quiser que os visitantes conversem com um agente em tempo real.
 
 ![](assets/live-chat-overview-1.png)
 

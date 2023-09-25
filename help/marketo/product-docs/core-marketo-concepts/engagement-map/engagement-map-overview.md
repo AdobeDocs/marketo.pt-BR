@@ -2,16 +2,16 @@
 description: Visão geral do mapa de engajamento - Documentação do Marketo - Documentação do produto
 title: Visão geral do mapa de engajamento
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
 
 # Visão geral do mapa de engajamento {#engagement-map-overview}
 
-O Mapa de engajamento permite criar Campanhas inteligentes reutilizáveis com a ajuda de visuais intuitivos. Ele oferece total compatibilidade com versões anteriores de todas as Campanhas inteligentes Marketo Engage existentes, sem a perda de nenhum recurso atual.
+O Mapa de engajamento permite visualizar intuitivamente suas Campanhas inteligentes. Ele oferece total compatibilidade com versões anteriores de todas as Campanhas inteligentes Marketo Engage existentes, sem a perda de nenhum recurso atual.
 
 >[!NOTE]
 >
@@ -77,7 +77,7 @@ Nº O Mapa de engajamento tem compatibilidade total com versões anteriores. Com
 
 **Ter o Mapa de engajamento no Marketo Engage significa que perderei o acesso à estrutura de pastas e precisarei reaprender a criar uma Campanha inteligente?**
 
-Nº O melhor do mapa de engajamento é que ele oferece o melhor dos dois mundos; complementa a maneira atual de criar campanhas. Você pode escolher se deseja usar a interface existente ou criar/visualizar na nova interface. Todos os usuários ainda receberão um conjunto de recursos avançados de Marketo Engage, agora complementado por uma ferramenta de criação visual.
+Nº O melhor do mapa de engajamento é que ele oferece o melhor dos dois mundos; complementa a maneira atual de criar campanhas. Todos os usuários ainda receberão o conjunto de recursos avançados do Marketo Engage, agora complementado por visuais claros.
 
 **O Mapa de engajamento é um complemento pago?**
 
@@ -86,10 +86,6 @@ Nº Todos os usuários existentes e novos do Marketo Engage em todas as assinatu
 **Como administrador de Marketo Engage, sou responsável por ativar/desativar o Mapa de engajamento?**
 
 Nº O Mapa de engajamento estará disponível para todos os usuários em suas instâncias. Você não poderá ativá-lo/desativá-lo para determinados usuários, espaços de trabalho, etc.
-
-**Tudo o que está disponível atualmente nas Campanhas inteligentes também está disponível no Mapa de engajamento?**
-
-Sim. O Mapa de engajamento tem total paridade de recursos com as Campanhas inteligentes.
 
 **Como isso é diferente de outros construtores visuais?**
 
