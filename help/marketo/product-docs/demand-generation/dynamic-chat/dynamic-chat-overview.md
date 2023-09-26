@@ -2,16 +2,16 @@
 description: Visão geral do Dynamic Chat - Documentação do Marketo - Documentação do produto
 title: Visão geral do Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: 5e413f280b44691336bd724ddc20936e88d53764
+source-git-commit: 0bc016e63626c880238316ff2130f12a31fdd717
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '696'
 ht-degree: 2%
 
 ---
 
 # Visão geral do Dynamic Chat {#dynamic-chat-overview}
 
-O Dynamic Chat permite utilizar uma interface fácil de usar para direcionar pessoas e contas que visitam seu site. Colete conteúdo relevante, como nome, informações de contato e texto livre. Os visitantes do site também podem marcar reuniões com a equipe de vendas. Os dados de atividade e engajamento do Dynamic Chat podem ser usados para adicionar membros a programas do Marketo e acionar atividades entre canais.
+O Dynamic Chat permite utilizar uma interface fácil de usar para direcionar pessoas e contas que visitam seu site. Colete conteúdo relevante, como nome, informações de contato e texto livre. Os visitantes do site também podem conversar com um agente ao vivo e até mesmo marcar reuniões com a equipe de vendas. Os dados de atividade e engajamento do Dynamic Chat podem ser usados para adicionar membros a programas do Marketo e acionar atividades entre canais.
 
 >[!TIP]
 >
@@ -122,7 +122,7 @@ O snippet de JavaScript Dynamic Chat pode ser instalado em qualquer site, bem co
 
 **O Dynamic Chat suporta outros idiomas além do inglês?**
 
-Sim. O Dynamic Chat é compatível com os seguintes idiomas: francês, alemão, japonês, espanhol, italiano, português brasileiro, coreano, chinês simplificado e chinês tradicional. Saiba mais na [seção abaixo](#changing-the-language).
+Sim. O Dynamic Chat é compatível com os seguintes idiomas: francês, alemão, japonês, espanhol, italiano, português brasileiro, coreano, chinês simplificado e chinês tradicional. Saiba mais em [Alteração do idioma](#changing-the-language).
 
 **Você suporta a funcionalidade AI/NLP?**
 
