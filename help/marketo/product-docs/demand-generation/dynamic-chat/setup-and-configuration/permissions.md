@@ -2,9 +2,9 @@
 description: Permissões — Documentação do Marketo — Documentação do produto
 title: Permissões
 feature: Dynamic Chat
-source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
+source-git-commit: d60b506f0c84fc2883054be628817374d3a1a09b
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '397'
 ht-degree: 4%
 
 ---
@@ -43,7 +43,7 @@ Há cinco perfis padrão com permissões predefinidas que podem ser editadas no 
 
    ![](assets/permissions-6.png)
 
-Agora você pode repetir esse processo para qualquer outra área de Dynamic Chat.
+Agora é possível repetir esse processo para qualquer/todas as outras áreas de Dynamic Chat.
 
 ![](assets/permissions-7.png)
 
@@ -75,7 +75,7 @@ Abaixo você encontrará uma lista de todas as permissões disponíveis para cad
 <table>
 <thead>
   <tr>
-    <th>Área de Dynamic Chat</th>
+    <th style="width:30%">Área de Dynamic Chat</th>
     <th>Permissões</th>
   </tr>
 </thead>
