@@ -2,16 +2,22 @@
 description: Visão geral do Live Chat - Documentação do Marketo - Documentação do produto
 title: Visão geral do bate-papo ao vivo
 feature: Dynamic Chat
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 3%
+source-wordcount: '322'
+ht-degree: 2%
 
 ---
 
 # Visão geral do bate-papo ao vivo {#live-chat-overview}
 
 O bate-papo ao vivo permite que os visitantes do site se envolvam em conversas de bate-papo em tempo real com seus agentes de vendas.
+
+## Adicionar agentes de bate-papo ao vivo {#add-live-chat-agents}
+
+Para começar a usar o chat ao vivo, será necessário adicionar seus agentes de chat ao vivo como [usuários na Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. Depois disso, você pode adicionar um [chat ao vivo](#using-the-live-chat-card) para uma caixa de diálogo nova ou existente.
+
+Quando os visitantes solicitarem o chat com um agente por meio da Caixa de diálogo, os agentes terão vários [opções de notificação](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} onde eles podem começar a conversar com o visitante.
 
 ## Usar o cartão de chat ao vivo {#using-the-live-chat-card}
 

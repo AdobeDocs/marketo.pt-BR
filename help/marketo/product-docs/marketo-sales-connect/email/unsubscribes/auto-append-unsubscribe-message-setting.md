@@ -4,7 +4,7 @@ title: Configuração de Mensagem de Cancelamento de Inscrição de Anexação A
 hide: true
 hidefromtoc: true
 feature: Marketo Sales Connect
-source-git-commit: b0f62abfe04efd8e72ed8e92442d4a46ea118f33
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -37,4 +37,4 @@ Certifique-se de que cada email enviado inclua uma mensagem de cancelamento de i
 
 >[!TIP]
 >
->Se você desativar a configuração Anexar mensagem de cancelamento de inscrição, recomendamos adicionar um rodapé de cancelamento de inscrição aos modelos para garantir que a comunicação tenha uma opção de recusa. Você pode fazer isso adicionando sua própria mensagem personalizada a cada modelo ou usando `{{team_unsubscribe}}` campo dinâmico.
+>Se você desativar a configuração Anexar mensagem de cancelamento de inscrição, recomendamos adicionar um rodapé de cancelamento de inscrição aos modelos para garantir que a comunicação tenha uma opção de recusa. Você pode fazer isso adicionando sua própria mensagem personalizada a cada modelo ou usando `{{team_unsubscribe}}` [campo dinâmico](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.
