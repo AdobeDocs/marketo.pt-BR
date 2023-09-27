@@ -2,9 +2,9 @@
 description: Notas de versão - setembro de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - setembro de 2023
 feature: Release Information
-source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
+source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '889'
 ht-degree: 5%
 
 ---
@@ -267,3 +267,5 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
 ## Anúncios {#announcements}
 
 * **Desativação do botão Alternar para o Design Studio Assets**: o switch que permite que os usuários alternem entre a interface clássica e a experiência de UX moderno para o Design Studio será descontinuado, juntamente com a versão antiga da experiência do Design Studio, permitindo que os usuários migrem completamente para a experiência de UX moderno. [Saiba mais aqui](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
+
+* **_Webinário de lançamento do produto_**: [Webinário da versão de Marketo Engage de julho e setembro de 2023](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
