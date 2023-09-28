@@ -2,10 +2,11 @@
 description: Roteamento - Documentação do Marketo - Documentação do produto
 title: Roteamento
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -37,7 +38,7 @@ Neste exemplo, estamos enviando todas as reuniões dos estados inferidos de CA, 
 
    ![](assets/routing-3.png)
 
-1. Dê um nome à regra. Como opção, você pode adicionar uma descrição e definir seu nível de prioridade. Clique em **Próxima**.
+1. Dê um nome à regra. Como opção, você pode adicionar uma descrição e definir seu nível de prioridade. Clique em **Próximo**.
 
    ![](assets/routing-4.png)
 

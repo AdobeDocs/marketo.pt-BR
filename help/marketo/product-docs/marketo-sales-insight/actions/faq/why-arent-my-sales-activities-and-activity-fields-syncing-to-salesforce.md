@@ -1,7 +1,8 @@
 ---
 description: Por que minhas atividades de vendas e meus campos de atividade não estão sendo sincronizados com o Salesforce? - Documentação do Marketo - Documentação do produto
 title: Por que minhas atividades de vendas e meus campos de atividade não estão sendo sincronizados com o Salesforce?
-source-git-commit: c50f0f08914076a440026fb368bf38763b282bbf
+exl-id: 0836876d-1b89-4464-a841-81320a6e45fd
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%

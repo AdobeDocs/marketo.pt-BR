@@ -1,10 +1,11 @@
 ---
 description: Notas de versão - maio de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - maio de 2023
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+exl-id: e647fefc-e4f1-46e5-b688-887989f5feea
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -33,7 +34,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Visão geral da interface do Experience Cloud</a></td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Visão geral da interface da Experience Cloud</a></td>
   </tr>
   </tbody>
 </table>

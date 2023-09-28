@@ -2,7 +2,8 @@
 description: Página de aterrissagem de conteúdo não-Marketo para CT-YYYY-MM - Documentação do Marketo - Documentação do produto
 title: Página de aterrissagem de conteúdo não Marketo CT-YYYY-MM
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 22b53312-ac62-4172-a719-c98fe1547d45
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 18%

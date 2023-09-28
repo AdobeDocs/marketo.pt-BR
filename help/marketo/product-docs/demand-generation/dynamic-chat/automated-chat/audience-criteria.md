@@ -2,7 +2,8 @@
 description: Critérios de público-alvo - Documentação do Marketo - Documentação do produto
 title: Critérios de público
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: ffe62cb7-707d-4b6d-8a66-9240d111191a
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 2%
@@ -111,7 +112,7 @@ Você tem a opção de agrupar atributos também, caso queira ter todos os atrib
 
 ![](assets/audience-criteria-17.png)
 
-## Destino {#target}
+## Target {#target}
 
 Aqui é onde você insere o( s) URL( s) que você deseja que uma caixa de diálogo específica seja exibida. Você também tem a opção de adicionar exclusões.
 

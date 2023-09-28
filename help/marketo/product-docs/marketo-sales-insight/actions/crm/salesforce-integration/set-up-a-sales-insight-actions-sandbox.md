@@ -1,7 +1,8 @@
 ---
 description: Configurar uma sandbox de ações do Sales Insight - Documentação do Marketo - Documentação do produto
 title: Configurar uma sandbox de ações de insights de vendas
-source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
+exl-id: 58af77ef-93ea-4149-be91-f86cdc8f7476
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
