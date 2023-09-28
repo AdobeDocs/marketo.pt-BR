@@ -3,7 +3,7 @@ description: Permissões — Documentação do Marketo — Documentação do pro
 title: Permissões
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 4%
@@ -67,7 +67,6 @@ Agora é possível repetir esse processo para qualquer/todas as outras áreas de
    ![](assets/permissions-11.png)
 
 1. Agora, siga as etapas 3 a 6 do [seção acima](#edit-existing-permissions) para cada área desejada.
-
 
 ## Lista de permissões {#list-of-permissions}
 

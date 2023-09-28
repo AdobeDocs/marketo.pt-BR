@@ -3,7 +3,7 @@ description: Mapeamento de campo padrão do Dynamics - Documentação do Marketo
 title: Mapeamento de campos padrão do Dynamics
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 42%
@@ -60,7 +60,7 @@ Inicialmente, ao sincronizar sua conta do Marketo com o Microsoft, o Marketo faz
     </tr>
     <tr>
       <td>Cargo</td>
-      <td>Nome do cargo</td>
+      <td>Cargo</td>
       <td>título do trabalho</td>
     </tr>
     <tr>
@@ -579,8 +579,8 @@ Os campos Contato abaixo são sincronizados para uso interno.
     </tr>
     <tr>
       <td>Empresa</td>
-      <td>name</td>
       <td>Nome da conta</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>Núm. funcionários</td>
