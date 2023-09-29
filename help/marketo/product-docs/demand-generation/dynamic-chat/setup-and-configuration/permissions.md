@@ -3,7 +3,7 @@ description: Permissões — Documentação do Marketo — Documentação do pro
 title: Permissões
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
+source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 11%
@@ -148,7 +148,6 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
   <tr>
     <td>Usuário de campanha de marketing</td>
     <td><i>Gerenciamento de Conversas</i>
-    <p>
     <li>Exibir caixas de diálogo</li>
     <li>Gerenciar caixas de diálogo (criar, excluir)</li>
     <li>Caixas de diálogo de publicação</li>
@@ -156,21 +155,21 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <li>Gerenciar Fluxos de Conversação (criar, excluir)</li>
     <li>Publicar Fluxos de Conversação</li>
     <p>
-    <p><i>Chat ao vivo</i></p>
+    <i>Chat ao vivo</i>
     <li>n/d</li>
     <p>
-    <p><i>Reuniões</i></p>
+    <br/><i>Reuniões</i>
     <li>n/d</li>
     <p>
-    <p><i>Analytics</i></p>
+    <br/><i>Analytics</i>
     <li>Exibir Relatórios de Desempenho Global</li>
     <li>Exibir Relatórios de Bate-papo ao Vivo</li>
     <li>Exibir Relatórios de Reuniões</li>
     <p>
-    <p><i>Configurações do agente</i></p>
+    <br/><i>Configurações do agente</i>
     <li>n/d</li>
     <p>
-    <p><i>Configurações de admin</i></p>
+    <br/><i>Configurações de admin</i>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
     <li>Exibir lista de contas <b>*</b></li>
