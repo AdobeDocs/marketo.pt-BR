@@ -3,7 +3,7 @@ description: Permissões — Documentação do Marketo — Documentação do pro
 title: Permissões
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
+source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 10%
@@ -154,22 +154,22 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <li>Exibir Fluxos de Conversa</li>
     <li>Gerenciar Fluxos de Conversação (criar, excluir)</li>
     <li>Publicar Fluxos de Conversação</li>
-    <br/>
-    <br/>
+    <br>
     <i>Chat ao vivo</i>
     <li>n/d</li>
     <br>
-    <br/><i>Encontros</i>
+    <i>Encontros</i>
     <li>n/d</li>
     <br>
-    <br><i>Analytics</i>
+    <i>Analytics</i>
     <li>Exibir Relatórios de Desempenho Global</li>
     <li>Exibir Relatórios de Bate-papo ao Vivo</li>
     <li>Exibir Relatórios de Reuniões</li>
     <br>
-    <br><i>Configurações do agente</i>
+    <i>Configurações do agente</i>
     <li>n/d</li>
-    <br><i>Configurações de admin</i>
+    <br>
+    <i>Configurações de admin</i>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
     <li>Exibir lista de contas <b>*</b></li>
@@ -179,27 +179,26 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
   <tr>
     <td><b>LiveAgent</b></td>
     <td><i>Gerenciamento de Conversas</i>
-    <p>
     <li>Exibir caixas de diálogo</li>
     <li>Exibir Fluxos de Conversa</li>
-    <p>
-    <p><i>Chat ao vivo</i></p>
+    <br>
+    <i>Chat ao vivo</i>
     <li>Exibir minhas conversas</li>
-    <p>
-    <p><i>Reuniões</i></p>
+    <br>
+    <i>Encontros</i>
     <li>n/d</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Exibir Relatórios de Desempenho Global</li>
     <li>Exibir Relatórios de Bate-papo ao Vivo</li>
     <li>Exibir Relatórios de Reuniões</li>
-    <p>
-    <p><i>Configurações do agente</i></p>
+    <br>
+    <i>Configurações do agente</i>
     <li>Gerenciar Disponibilidade do Live Chat</li>
     <li>Conectar seu calendário</li>
     <li>Gerenciar Disponibilidade de Calendário</li>
-    <p>
-    <p><i>Configurações de admin</i></p>
+    <br>
+    <i>Configurações de admin</i>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
     <li>Exibir lista de contas <b>*</b></li>
@@ -209,26 +208,25 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
   <tr>
     <td><b>Agente de calendário</b></td>
     <td><i>Gerenciamento de Conversas</i>
-    <p>
     <li>Exibir caixas de diálogo</li>
     <li>Exibir Fluxos de Conversa</li>
-    <p>
-    <p><i>Chat ao vivo</i></p>
+    <br>
+    <i>Chat ao vivo</i>
     <li>n/d</li>
-    <p>
-    <p><i>Reuniões</i></p>
+    <br>
+    <i>Encontros</i>
     <li>n/d</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Exibir Relatórios de Desempenho Global</li>
     <li>Exibir Relatórios de Bate-papo ao Vivo</li>
     <li>Exibir Relatórios de Reuniões</li>
-    <p>
-    <p><i>Configurações do agente</i></p>
+    <br>
+    <i>Configurações do agente</i>
     <li>Conectar seu calendário</li>
     <li>Gerenciar Disponibilidade de Calendário</li>
-    <p>
-    <p><i>Configurações de admin</i></p>
+    <br>
+    <i>Configurações de admin</i>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
     <li>Exibir lista de contas <b>*</b></li>
@@ -238,30 +236,29 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
   <tr>
     <td><b>Administrador de marketing</b></td>
     <td><i>Gerenciamento de Conversas</i>
-    <p>
     <li>Exibir caixas de diálogo</li>
     <li>Gerenciar caixas de diálogo (criar, excluir)</li>
     <li>Caixas de diálogo de publicação</li>
     <li>Exibir Fluxos de Conversa</li>
     <li>Gerenciar Fluxos de Conversação (criar, excluir)</li>
     <li>Publicar Fluxos de Conversação</li>
-    <p>
-    <p><i>Chat ao vivo</i></p>
+    <br>
+    <i>Chat ao vivo</i>
     <li>n/d</li>
-    <p>
-    <p><i>Reuniões</i></p>
+    <br>
+    <i>Encontros</i>
     <li>n/d</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Exibir Relatórios de Desempenho Global</li>
     <li>Exibir Relatórios de Bate-papo ao Vivo</li>
     <li>Exibir Relatórios de Reuniões</li>
     <li>Exportar relatórios</li>
-    <p>
-    <p><i>Configurações do agente</i></p>
+    <br>
+    <i>Configurações do agente</i>
     <li>n/d</li>
-    <p>
-    <p><i>Configurações de admin</i></p>
+    <br>
+    <i>Configurações de admin</i>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
     <li>Gerenciar regras personalizadas (adicionar, editar, excluir)</li>
@@ -277,29 +274,28 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
   <tr>
     <td><b>Administrador de Vendas</b></td>
     <td><i>Gerenciamento de Conversas</i>
-    <p>
     <li>Exibir caixas de diálogo</li>
     <li>Exibir Fluxos de Conversa</li>
-    <p>
-    <p><i>Chat ao vivo</i></p>
+    <br>
+    <i>Chat ao vivo</i>
     <li>Exibir minhas conversas</li>
     <li>Exibir Todas as Conversas</li>
-    <p>
-    <p><i>Reuniões</i></p>
+    <br>
+    <i>Encontros</i>
     <li>Gerenciar Todas as Reuniões</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Exibir Relatórios de Desempenho Global</li>
     <li>Exibir Relatórios de Bate-papo ao Vivo</li>
     <li>Exibir Relatórios de Reuniões</li>
     <li>Exportar relatórios</li>
-    <p>
-    <p><i>Configurações do agente</i></p>
+    <br>
+    <i>Configurações do agente</i>
     <li>Gerenciar Disponibilidade do Live Chat</li>
     <li>Conectar seu Calendário</li>
     <li>Gerenciar Disponibilidade de Calendário</li>
-    <p>
-    <p><i>Configurações de admin</i></p>
+    <br>
+    <i>Configurações de admin</i>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
     <li>Gerenciar regras personalizadas (adicionar, editar, excluir)</li>
