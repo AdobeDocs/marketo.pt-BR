@@ -3,10 +3,10 @@ description: Permissões — Documentação do Marketo — Documentação do pro
 title: Permissões
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
+source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 11%
+ht-degree: 10%
 
 ---
 
@@ -75,7 +75,7 @@ Abaixo você encontrará uma lista de todas as permissões disponíveis para cad
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Área de Dynamic Chat</th>
+    <th style="width:25%">Área de Dynamic Chat</th>
     <th>Permissões</th>
   </tr>
 </thead>
@@ -140,7 +140,7 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Perfil</th>
+    <th style="width:25%">Perfil</th>
     <th>Permissões padrão</th>
   </tr>
 </thead>
@@ -154,22 +154,22 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <li>Exibir Fluxos de Conversa</li>
     <li>Gerenciar Fluxos de Conversação (criar, excluir)</li>
     <li>Publicar Fluxos de Conversação</li>
-    <p>
+    <br/>
+    <br/>
     <i>Chat ao vivo</i>
     <li>n/d</li>
-    <p>
-    <br/><i>Reuniões</i>
+    <br>
+    <br/><i>Encontros</i>
     <li>n/d</li>
-    <p>
-    <br/><i>Analytics</i>
+    <br>
+    <br><i>Analytics</i>
     <li>Exibir Relatórios de Desempenho Global</li>
     <li>Exibir Relatórios de Bate-papo ao Vivo</li>
     <li>Exibir Relatórios de Reuniões</li>
-    <p>
-    <br/><i>Configurações do agente</i>
+    <br>
+    <br><i>Configurações do agente</i>
     <li>n/d</li>
-    <p>
-    <br/><i>Configurações de admin</i>
+    <br><i>Configurações de admin</i>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
     <li>Exibir lista de contas <b>*</b></li>
