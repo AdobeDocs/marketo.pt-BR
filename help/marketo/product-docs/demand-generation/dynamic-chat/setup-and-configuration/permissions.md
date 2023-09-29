@@ -3,10 +3,10 @@ description: Permissões — Documentação do Marketo — Documentação do pro
 title: Permissões
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 4%
+source-wordcount: '724'
+ht-degree: 11%
 
 ---
 
@@ -91,16 +91,12 @@ Abaixo você encontrará uma lista de todas as permissões disponíveis para cad
   </tr>
   <tr>
     <td>Chat ao vivo</td>
-    <td><li>Caixa de entrada do agente</li>
-    <li>Exibir minhas conversas</li>
+    <td><li>Exibir minhas conversas</li>
     <li>Exibir Todas as Conversas</li>
-    <li>Exibir Resumo da Conversa <b>*</b></li>
-    <li>Exibir Respostas Assistidas <b>*</b></li></td>
   </tr>
   <tr>
     <td>Reuniões</td>
     <td><li>Gerenciar Todas as Reuniões</li>
-    <li>Gerenciar minhas reuniões</li></td>
   </tr>
   <tr>
     <td>Analytics</td>
@@ -117,8 +113,156 @@ Abaixo você encontrará uma lista de todas as permissões disponíveis para cad
   </tr>
   <tr>
     <td>Configurações de admin</td>
-    <td><li>Exibir espaços de trabalho <b>*</b></li>
-    <li>Gerenciar espaços de trabalho (criar, editar, excluir) <b>*</b></li>
+    <td><li>Exibir Round-robin</li>
+    <li>Exibir Regras Personalizadas</li>
+    <li>Gerenciar regras personalizadas (adicionar, editar, excluir)</li>
+    <li>Exibir lista de contas <b>*</b></li>
+    <li>Gerenciar contas (adicionar, editar, excluir) <b>*</b></li>
+    <li>Gerenciar configurações de Chatbot</li>
+    <li>Gerenciar configurações de fluxos de conversa</li>
+    <li>Gerenciar privacidade e segurança</li>
+    <li>Gerenciar integrações</li>
+    <li>Gerenciar agentes</li>
+    <li>Exibir equipes de agentes <b>*</b></li>
+    <li>Gerenciar equipes de agentes (adicionar, editar, excluir) <b>*</b></li></td>
+  </tr>
+</tbody>
+</table>
+
+**&#42;** Atualmente disponível apenas para usuários do Dynamic Prime
+
+<p>
+
+## Permissões de perfil padrão {#default-profile-permissions}
+
+Abaixo estão os cinco perfis padrão e as permissões que são ativadas por padrão.
+
+<table>
+<thead>
+  <tr>
+    <th style="width:30%">Perfil</th>
+    <th>Permissões padrão</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Usuário de campanha de marketing</td>
+    <td><i>Gerenciamento de Conversas</i>
+    <p>
+    <li>Exibir caixas de diálogo</li>
+    <li>Gerenciar caixas de diálogo (criar, excluir)</li>
+    <li>Caixas de diálogo de publicação</li>
+    <li>Exibir Fluxos de Conversa</li>
+    <li>Gerenciar Fluxos de Conversação (criar, excluir)</li>
+    <li>Publicar Fluxos de Conversação</li>
+    <p>
+    <p><i>Chat ao vivo</i></p>
+    <li>n/d</li>
+    <p>
+    <p><i>Reuniões</i></p>
+    <li>n/d</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Exibir Relatórios de Desempenho Global</li>
+    <li>Exibir Relatórios de Bate-papo ao Vivo</li>
+    <li>Exibir Relatórios de Reuniões</li>
+    <p>
+    <p><i>Configurações do agente</i></p>
+    <li>n/d</li>
+    <p>
+    <p><i>Configurações de admin</i></p>
+    <li>Exibir Round-robin</li>
+    <li>Exibir Regras Personalizadas</li>
+    <li>Exibir lista de contas <b>*</b></li>
+    <li>Exibir equipes de agentes <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>LiveAgent</b></td>
+    <td><i>Gerenciamento de Conversas</i>
+    <p>
+    <li>Exibir caixas de diálogo</li>
+    <li>Exibir Fluxos de Conversa</li>
+    <p>
+    <p><i>Chat ao vivo</i></p>
+    <li>Exibir minhas conversas</li>
+    <p>
+    <p><i>Reuniões</i></p>
+    <li>n/d</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Exibir Relatórios de Desempenho Global</li>
+    <li>Exibir Relatórios de Bate-papo ao Vivo</li>
+    <li>Exibir Relatórios de Reuniões</li>
+    <p>
+    <p><i>Configurações do agente</i></p>
+    <li>Gerenciar Disponibilidade do Live Chat</li>
+    <li>Conectar seu calendário</li>
+    <li>Gerenciar Disponibilidade de Calendário</li>
+    <p>
+    <p><i>Configurações de admin</i></p>
+    <li>Exibir Round-robin</li>
+    <li>Exibir Regras Personalizadas</li>
+    <li>Exibir lista de contas <b>*</b></li>
+    <li>Exibir equipes de agentes <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Agente de calendário</b></td>
+    <td><i>Gerenciamento de Conversas</i>
+    <p>
+    <li>Exibir caixas de diálogo</li>
+    <li>Exibir Fluxos de Conversa</li>
+    <p>
+    <p><i>Chat ao vivo</i></p>
+    <li>n/d</li>
+    <p>
+    <p><i>Reuniões</i></p>
+    <li>n/d</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Exibir Relatórios de Desempenho Global</li>
+    <li>Exibir Relatórios de Bate-papo ao Vivo</li>
+    <li>Exibir Relatórios de Reuniões</li>
+    <p>
+    <p><i>Configurações do agente</i></p>
+    <li>Conectar seu calendário</li>
+    <li>Gerenciar Disponibilidade de Calendário</li>
+    <p>
+    <p><i>Configurações de admin</i></p>
+    <li>Exibir Round-robin</li>
+    <li>Exibir Regras Personalizadas</li>
+    <li>Exibir lista de contas <b>*</b></li>
+    <li>Exibir equipes de agentes <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Administrador de marketing</b></td>
+    <td><i>Gerenciamento de Conversas</i>
+    <p>
+    <li>Exibir caixas de diálogo</li>
+    <li>Gerenciar caixas de diálogo (criar, excluir)</li>
+    <li>Caixas de diálogo de publicação</li>
+    <li>Exibir Fluxos de Conversa</li>
+    <li>Gerenciar Fluxos de Conversação (criar, excluir)</li>
+    <li>Publicar Fluxos de Conversação</li>
+    <p>
+    <p><i>Chat ao vivo</i></p>
+    <li>n/d</li>
+    <p>
+    <p><i>Reuniões</i></p>
+    <li>n/d</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Exibir Relatórios de Desempenho Global</li>
+    <li>Exibir Relatórios de Bate-papo ao Vivo</li>
+    <li>Exibir Relatórios de Reuniões</li>
+    <li>Exportar relatórios</li>
+    <p>
+    <p><i>Configurações do agente</i></p>
+    <li>n/d</li>
+    <p>
+    <p><i>Configurações de admin</i></p>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
     <li>Gerenciar regras personalizadas (adicionar, editar, excluir)</li>
@@ -128,11 +272,44 @@ Abaixo você encontrará uma lista de todas as permissões disponíveis para cad
     <li>Gerenciar configurações de fluxos de conversa</li>
     <li>Gerenciar privacidade e segurança</li>
     <li>Gerenciar integrações</li>
-    <li>Gerenciar idiomas <b>*</b></li>
+    <li>Exibir equipes de agentes <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Administrador de Vendas</b></td>
+    <td><i>Gerenciamento de Conversas</i>
+    <p>
+    <li>Exibir caixas de diálogo</li>
+    <li>Exibir Fluxos de Conversa</li>
+    <p>
+    <p><i>Chat ao vivo</i></p>
+    <li>Exibir minhas conversas</li>
+    <li>Exibir Todas as Conversas</li>
+    <p>
+    <p><i>Reuniões</i></p>
+    <li>Gerenciar Todas as Reuniões</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Exibir Relatórios de Desempenho Global</li>
+    <li>Exibir Relatórios de Bate-papo ao Vivo</li>
+    <li>Exibir Relatórios de Reuniões</li>
+    <li>Exportar relatórios</li>
+    <p>
+    <p><i>Configurações do agente</i></p>
+    <li>Gerenciar Disponibilidade do Live Chat</li>
+    <li>Conectar seu Calendário</li>
+    <li>Gerenciar Disponibilidade de Calendário</li>
+    <p>
+    <p><i>Configurações de admin</i></p>
+    <li>Exibir Round-robin</li>
+    <li>Exibir Regras Personalizadas</li>
+    <li>Gerenciar regras personalizadas (adicionar, editar, excluir)</li>
+    <li>Exibir lista de contas <b>*</b></li>
+    <li>Gerenciar contas (adicionar, editar, excluir) <b>*</b></li>
     <li>Gerenciar agentes</li>
     <li>Exibir equipes de agentes <b>*</b></li>
-    <li>Gerenciar equipes de agentes (adicionar, editar, excluir) <b>*</b></li>
-    <li>Visualizar limites de uso</li></td>
+    <li>Gerenciar equipes de agentes <b>*</b></li>
+    </td>
   </tr>
 </tbody>
 </table>
