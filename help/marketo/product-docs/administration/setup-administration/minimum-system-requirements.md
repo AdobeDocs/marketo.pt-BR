@@ -4,16 +4,16 @@ description: Requisitos mínimos do sistema - Documentação do Marketo - Docume
 title: Requisitos mínimos do sistema
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # Requisitos mínimos do sistema {#minimum-system-requirements}
 
-Se você estiver se perguntando o que precisa para fazer logon e usar o Marketo, veja as informações que está procurando.
+Se você está se perguntando o que precisa para fazer login e usar o Marketo Engage, veja aqui as informações que está procurando.
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ Se você estiver se perguntando o que precisa para fazer logon e usar o Marketo,
 
 >[!NOTE]
 >
->Se sua equipe de TI restringir o acesso à Web usando uma inclui na lista de permissões, peça para eles adicionarem `*.marketo.com` para permitir todos os recursos e websockets do Marketo.
+>Se sua equipe de TI restringir o acesso à Web usando uma inclui na lista de permissões, peça para eles adicionarem `*.marketo.com`, `*.adobe.com`, e `*.adobe.net` para permitir todos os recursos de Marketo Engage e websockets.
