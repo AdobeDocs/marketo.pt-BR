@@ -4,9 +4,9 @@ title: Modelos de email de vendas transacionais
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
+source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -25,34 +25,32 @@ Se sua equipe estiver enviando emails transacionais ou não comerciais, você po
 
 1. No cabeçalho, clique em **Modelos**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-1.png)
 
-1. Procure o template que deseja atualizar.
+1. Localize e selecione o template que deseja atualizar.
 
-PICC
-
-1. Selecione o template.
-
-PICC
+   ![](assets/transactional-sales-email-templates-2.png)
 
 1. Ative a opção de email não comercial em Configurações do modelo.
 
-PICC
+   ![](assets/transactional-sales-email-templates-3.png)
 
 ## Enviar um email não comercial {#send-a-non-commercial-email}
 
-Quando uma pessoa não inscrita for selecionada, ela será realçada em laranja.
+>[!NOTE]
+>
+>Quando uma pessoa não inscrita for selecionada, ela será realçada em laranja.
 
-1. Na janela de composição, selecione o template não comercial que deseja ver.
+1. No cabeçalho, clique em **Compor**. Localize e selecione o modelo não comercial desejado.
 
-PICC
+   ![](assets/transactional-sales-email-templates-4.png)
 
-1. Os usuários verão um banner mostrando que selecionaram atualmente um template de email não comercial.
+1. Os usuários verão um banner mostrando que selecionaram um template de email não comercial.
 
-PICC
+   ![](assets/transactional-sales-email-templates-5.png)
 
 1. Clique em **Enviar**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-6.png)
 
 O email ainda será enviado mesmo se a inscrição da pessoa for cancelada.
