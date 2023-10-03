@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
+source-git-commit: 6746f49d4ea4a19e2d1e99d3ddda34bb4ac6d2d6
 workflow-type: tm+mt
-source-wordcount: '9104'
+source-wordcount: '9101'
 ht-degree: 5%
 
 ---
@@ -490,7 +490,6 @@ ht-degree: 5%
                + [Compreensão de cartões do Smart Campaign](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
             + Trabalhar com momentos {#working-with-moments}
                + [Criação de um favorito](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-               + [Baixando Momentos do Marketo](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/downloading-marketo-moments.md)
                + [Marcando como Concluído](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
                + [Personalização de momentos do Marketo](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/personalizing-marketo-moments.md)
                + [Pré-visualização de email](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
