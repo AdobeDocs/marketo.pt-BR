@@ -4,7 +4,7 @@ description: Configurar o tablet com iPad ou Android - Documentação do Marketo
 title: Configurar o tablet iPad ou Android
 exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -31,11 +31,11 @@ Se o aplicativo Marketo Events ainda não estiver instalado no iPad, veja como o
 
 1. Abra o iPad e inicie o App Store.
 
-   ![](assets/image2016-4-14-15-3a52-3a19.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-1.png)
 
 1. Na caixa de pesquisa, digite **Marketo** e, em Sugestões, toque em **eventos do marketo**.
 
-   ![](assets/image2016-4-14-16-3a0-3a3.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-2.png)
 
 1. Siga os procedimentos para baixar e instalar o aplicativo em sua iPad.
 
@@ -47,7 +47,7 @@ Se o tablet Android ainda não tiver o aplicativo Marketo Events instalado, veja
 1. Na caixa Pesquisar, digite **Marketo** e toque em **Retornar**.
 1. Nos resultados da Pesquisa, toque no **Eventos da Marketo** aplicativo.
 
-   ![](assets/image2016-4-15-14-3a42-3a11.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-3.png)
 
 1. Siga os procedimentos para baixar e instalar o aplicativo no tablet.
 
@@ -58,7 +58,7 @@ Antes de atribuir iPads ou tablets à equipe da feira de negócios, confirme se 
 1. Siga os procedimentos de logon do iPad ou tablet para fazer logon.
 1. Confirme se o evento aparece na tela inicial. Lembre-se de que ele só será exibido se as datas estiverem uma semana antes e uma semana depois da data atual.
 
-   ![](assets/image2016-4-15-15-3a29-3a0.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-4.png)
 
    >[!NOTE]
    >
@@ -73,11 +73,11 @@ Sincronize para ter certeza de que as pessoas adicionadas estão lá.
 
    **iPad**
 
-   ![](assets/image2016-4-12-14-3a25-3a13.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-5.png)
 
    **Android**
 
-   ![](assets/screenshot-2016-04-15-14-14-08-sync-button.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-6.png)
 
 ## Confirmar se os check-ins estão funcionando {#confirm-check-ins-are-working}
 
@@ -87,11 +87,11 @@ Certifique-se de confirmar se os check-ins estão funcionando no iPad ou tablet 
 1. Toque no **Sincronizar** ícone para sincronizar o aplicativo.
 1. No Marketo, abra o evento e clique em **Membros**.
 
-   ![](assets/image2016-4-15-15-3a32-3a42.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-7.png)
 
 1. Confirmar se o status da pessoa foi alterado para **Participou** e Success (Sucesso) está marcado.
 
-   ![](assets/image2016-4-18-14-3a11-3a36.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-8.png)
 
    >[!TIP]
    >
