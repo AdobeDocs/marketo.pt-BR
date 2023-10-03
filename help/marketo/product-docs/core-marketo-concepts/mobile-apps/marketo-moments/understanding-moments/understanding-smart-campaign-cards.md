@@ -4,18 +4,22 @@ description: Entendendo os cartões do Smart Campaign - Documentação do Market
 title: Compreensão de cartões do Smart Campaign
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
 
 # Compreensão de cartões do Smart Campaign {#understanding-smart-campaign-cards}
 
-Use o Marketo Moments para exibir cada execução de suas campanhas inteligentes do seu smartphone ou iPad. O cartão de campanha inteligente Momentos do Marketo representa uma única execução de uma campanha; um novo cartão é exibido toda vez que a campanha inteligente é executada. Os cartões de campanha inteligentes estão marcados com uma lâmpada no canto superior esquerdo.
+Use o Marketo Moments para exibir cada execução das Campanhas inteligentes do seu smartphone ou iPad. O cartão Campanha inteligente do Marketo Moments representa uma única execução de uma campanha; um novo cartão é exibido sempre que a Campanha inteligente é executada. Os cartões Smart Campaign estão marcados com uma lâmpada no canto superior esquerdo.
 
-Para campanhas inteligentes futuras programadas, mas que ainda não foram executadas, o cartão Momentos da Marketo ainda não exibe nenhuma estatística da campanha. Eles aparecerão em uma versão futura.
+>[!IMPORTANT]
+>
+>Em 2 de outubro de 2023, o Adobe removeu o aplicativo Marketo Moments de todas as lojas de aplicativos. Se você já tiver o aplicativo instalado no tablet/dispositivo móvel, poderá continuar usando-o por enquanto. Depois que a instância do Marketo Engage for migrada para a Identidade do Adobe para autenticação do Marketo, você não poderá mais acessar o aplicativo. [Saiba mais](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
+Para campanhas inteligentes futuras que estão programadas, mas ainda não foram executadas, o cartão Momentos da Marketo ainda não exibe nenhuma estatística da campanha. Eles aparecerão em uma versão futura.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -51,7 +55,7 @@ Para campanhas inteligentes futuras programadas, mas que ainda não foram execut
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. Vê aqueles dois pontos na base? Eles indicam que há dois emails conectados a essa campanha inteligente. Para visualizar os resultados do outro email, passe o dedo para a tela à esquerda. Estes são os resultados do segundo email.
+1. Vê aqueles dois pontos na base? Eles indicam que há dois emails conectados a essa Campanha inteligente. Para visualizar os resultados do outro email, passe o dedo para a tela à esquerda. Estes são os resultados do segundo email.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -73,9 +77,9 @@ Para campanhas inteligentes futuras programadas, mas que ainda não foram execut
 
 ## Confirmação de uma execução da campanha inteligente {#confirming-a-smart-campaign-run}
 
-Os cartões para campanhas inteligentes não confirmadas ficam em cinza até que você os confirme. Então, eles ficam alaranjados.
+Os cartões para Campanhas inteligentes não confirmadas ficam em cinza até que você os confirme. Então, eles ficam alaranjados.
 
-1. Para confirmar um cartão de campanha inteligente não confirmado, toque no menu de ação de três pontos.
+1. Para confirmar um cartão do Smart Campaign não confirmado, toque no menu de ação de três pontos.
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
@@ -93,7 +97,7 @@ Os cartões para campanhas inteligentes não confirmadas ficam em cinza até que
 
 ## Cancelar uma execução de campanha inteligente {#canceling-a-smart-campaign-run}
 
-Você pode cancelar uma execução de campanha inteligente confirmada e programada.
+Você pode cancelar uma execução confirmada e programada do Smart Campaign.
 
 1. Toque no menu de ação de três pontos.
 
@@ -103,13 +107,13 @@ Você pode cancelar uma execução de campanha inteligente confirmada e programa
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Toque **Cancelar execução**. Se decidir no último minuto não cancelar a execução, toque em **Não importa** e a campanha inteligente será executada conforme programado.
+1. Toque **Cancelar execução**. Se decidir no último minuto não cancelar a execução, toque em **Não importa** e a Campanha inteligente será executada conforme programado.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
 ## Reprogramar uma campanha inteligente {#rescheduling-a-smart-campaign}
 
-Você pode reagendar uma campanha inteligente confirmada que ainda não foi executada.
+Você pode reagendar uma Campanha inteligente confirmada que ainda não foi executada.
 
 1. Toque no menu de ação de três pontos.
 

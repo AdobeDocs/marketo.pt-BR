@@ -4,9 +4,9 @@ description: Placas do Analytics - Documentação do Marketo - Documentação do
 title: Compreensão de cartões do Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '288'
 ht-degree: 1%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 1%
 # Compreensão de cartões do Analytics {#understanding-analytics-cards}
 
 No início de cada mês, o Marketo Moments fornece três cartões de relatório diferentes: Clientes potenciais adquiridos, Novos clientes potenciais e Cancelamentos de assinatura. Cada um mostra o desempenho mensal e a tendência ao longo de um período de seis meses.
+
+>[!IMPORTANT]
+>
+>Em 2 de outubro de 2023, o Adobe removeu o aplicativo Marketo Moments de todas as lojas de aplicativos. Se você já tiver o aplicativo instalado no tablet/dispositivo móvel, poderá continuar usando-o por enquanto. Depois que a instância do Marketo Engage for migrada para a Identidade do Adobe para autenticação do Marketo, você não poderá mais acessar o aplicativo. [Saiba mais](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Cartões do Analytics {#analytics-cards}
 
