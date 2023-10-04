@@ -3,9 +3,9 @@ description: Noções básicas sobre a assinatura do Marketo e a migração de u
 title: Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: c3214b440a1bfc9d54551f50e364935d66286764
+source-git-commit: c871be92ce61c37e9a8d198c1b3bae6588f6a94f
 workflow-type: tm+mt
-source-wordcount: '1121'
+source-wordcount: '1172'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 O Adobe está aprimorando a forma como você gerencia as assinaturas e os usuários da Adobe Marketo Engage, aumentando a produtividade para você e para a sua organização. Como parte dessa alteração, o Adobe está migrando suas assinaturas de Marketo Engage e usuários para o Adobe Admin Console. Essa é uma migração necessária e não afetará nenhum fluxo de trabalho de marketing, conteúdo, integrações ou ativos.
 
-Saiba como você pode usar o Adobe Admin Console para gerenciar os direitos de Adobe em toda a organização com o [Guia do administrador de equipes e empresas](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
+Saiba como você pode usar o Adobe Admin Console para gerenciar os direitos de Adobe em toda a organização com o [Guia do administrador de equipes e empresas](https://helpx.adobe.com/br/enterprise/admin-guide.html){target="_blank"}.
 
 ## O que está mudando? {#what-is-changing}
 
@@ -67,13 +67,17 @@ Os administradores de produto do Marketo irão:
 
 Como administrador de produto do Marketo, é recomendável garantir que todos os usuários estejam preparados para o dia da migração.
 
-* Verifique o status de verificação de email de todos os usuários na área de Administração do Marketo. Incentive os usuários que não verificaram seus endereços de email a fazê-lo e ajude-os a resolver quaisquer desafios na conclusão do processo de verificação.
+* Marcar [verificação de email](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"} Status de todos os usuários na área de administração do Marketo. Incentive os usuários que não verificaram seus endereços de email a fazê-lo e ajude-os a resolver quaisquer desafios na conclusão do processo de verificação.
 
 * Prepare todos os usuários para a migração futura para o Adobe Identity.
 
 >[!NOTE]
 >
 >À medida que os usuários migram, eles recebem um email do Adobe notificando-os sobre a alteração na maneira como fazem logon no Marketo. Os usuários serão convidados a aceitar um convite para fazer logon usando a Identidade do Adobe pela primeira vez, seja fazendo logon com uma Adobe ID existente ou configurando uma nova com o mesmo endereço de email.
+
+>[!IMPORTANT]
+>
+>Se um usuário do Marketo Engage não verificar seu endereço de email, ele não será migrado para uma Adobe ID e perderá o acesso à assinatura do Marketo após a conclusão da migração para a assinatura. Para recuperar o acesso, um administrador de produto do Marketo precisaria adicioná-los como um novo usuário.
 
 ### O que esperar no dia da migração {#what-to-expect-on-migration-day}
 
@@ -89,7 +93,7 @@ A migração de usuários será iniciada à meia-noite do fuso horário definido
 >
 >Não haverá perda de acesso ao produto durante a migração do usuário. Se um usuário fizer logon durante o tempo em que for migrado, ele será desconectado e receberá uma solicitação para fazer logon novamente em minutos usando a Identidade do Adobe após a conclusão da migração.
 
-À medida que os usuários são migrados, eles recebem um email do Adobe notificando-os sobre a alteração na maneira como fazem logon no Marketo. Os usuários serão convidados a aceitar um convite para fazer logon usando a Identidade do Adobe pela primeira vez, seja fazendo logon com uma Adobe ID existente ou configurando uma nova Adobe ID usando o mesmo endereço de email. Mais informações podem ser encontradas em nosso [Logon do usuário com o Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md) artigo.
+À medida que os usuários são migrados, eles recebem um email do Adobe notificando-os sobre a alteração na maneira como fazem logon no Marketo. Os usuários serão convidados a aceitar um convite para fazer logon usando a Identidade do Adobe pela primeira vez, seja fazendo logon com uma Adobe ID existente ou configurando uma nova Adobe ID usando o mesmo endereço de email. Mais informações podem ser encontradas em nosso [Logon do usuário com o Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} artigo.
 
 ## Migração de usuário concluída {#user-migration-complete}
 
