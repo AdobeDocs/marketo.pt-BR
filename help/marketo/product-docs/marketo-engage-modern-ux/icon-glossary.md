@@ -3,10 +3,10 @@ description: Ícone Glossário - Documentação do Marketo - Documentação do p
 title: Ícone do Glossário
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b635cecbdca47944dd92127b668a956fdc8c9509
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 53%
+source-wordcount: '239'
+ht-degree: 52%
 
 ---
 
@@ -61,7 +61,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se você pre
   <tr>
    <td><img src="assets/classic-engagement-program.png"></td> 
    <td><img src="assets/engagement-program.png"></td> 
-   <td>Programa de envolvimento</td> 
+   <td>Programa de engajamento</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-event-program.png"></td> 
@@ -99,6 +99,11 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se você pre
    <td>Pasta - arquivada</td> 
   </tr>
   <tr>
+   <td><img src="assets/classic-folder-shared.png"></td> 
+   <td><img src="assets/folder-shared.png"></td> 
+   <td>Pasta - compartilhada</td> 
+  </tr>
+  <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td> 
    <td><img src="assets/folder-locked.png"></td> 
    <td>Pasta - bloqueada</td> 
@@ -126,7 +131,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se você pre
   <tr>
    <td><img src="assets/classic-landing-page.png"></td> 
    <td><img src="assets/landing-page.png"></td> 
-   <td>Página</td> 
+   <td>Página de destino</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-landing-page-template.png"></td> 
@@ -337,12 +342,12 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se você pre
   <tr>
    <td><img src="assets/classic-email-program-scheduled.png"></td> 
    <td><img src="assets/scheduled.png"></td> 
-   <td>Agendado</td> 
+   <td>Programado</td> 
   </tr>
  </tbody>
 </table>
 
-## Programas de envolvimento {#engagement-programs}
+## Programas de engajamento {#engagement-programs}
 
 <table> 
  <tbody>
