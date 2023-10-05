@@ -3,9 +3,9 @@ description: Campos dinâmicos - Documentação do Marketo - Documentação do p
 title: Campos dinâmicos
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '559'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ Esta ferramenta é usada para `auto-personalize your email` e poupe muito tempo 
 * A diferença entre `{{company}}` e `{{company_friendly}}` é isso `{{company_friendly}}` removerá qualquer título formal, como Inc., LLC., etc., do nome da empresa do seu contato.
 * Ao usar `{{company_friendly}}`, separe a Inc. ou a Co. com uma vírgula nos detalhes de contato. É assim que as Ações de Insight de vendas sabem o que remover ao obter o valor.
 * Permitimos personalizar seus modelos de email com atributos predefinidos, como `{{my_name}}` ou `{{my_title}}`. Esses campos permitem que você faça referência a si mesmo rapidamente nos modelos de email.
-* Se você usar o `{{my_signature}}` dinâmico, o sistema não anexará automaticamente a assinatura do usuário para evitar duplicações.
+* O sistema anexa automaticamente a assinatura do usuário a cada email enviado. Se o usuário estiver usando um modelo com a variável `{{my_signature}}` dinâmico, o sistema preencherá a assinatura onde a variável `{{my_signature}}` o campo dinâmico foi colocado. Ele só é adicionado lá para evitar duplicação. O sistema tratará `{{team_unsubscribe}}` da mesma forma que quando a configuração global de cancelamento de inscrição de acréscimo está ativada.
 
 >[!TIP]
 >
