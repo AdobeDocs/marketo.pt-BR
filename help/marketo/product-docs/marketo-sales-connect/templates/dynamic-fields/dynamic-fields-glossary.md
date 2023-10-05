@@ -4,10 +4,10 @@ description: Glossário de campos dinâmicos - Documentação do Marketo - Docum
 title: Glossário de campos dinâmicos
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 2%
+source-wordcount: '208'
+ht-degree: 1%
 
 ---
 
@@ -22,8 +22,10 @@ Esta ferramenta é usada para `auto-personalize your email` e poupe muito tempo 
 | `{{company}}` | Adobe |
 | `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | Se você não quiser ouvir mais nada, por favor, avise-me |
+| `{{team_unsubscribe}}` | Se você não deseja mais receber emails conosco, clique aqui |
+| `{{friendly_unsubscribe}}` | Cansado de todos os emails? Por favor, avise-me aqui |
 | `{{my_name}}` | Keith Flynn |
+| `{{my_signature}}` | Keith Flynn, Escritor Técnico Sênior - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Escritor técnico sênior |
 | `{{work_website}}` | https://www.adobe.com |
@@ -33,6 +35,7 @@ Esta ferramenta é usada para `auto-personalize your email` e poupe muito tempo 
 * Se as informações de um contato forem inseridas incorretamente ou estiverem ausentes na página Pessoas, elas não serão inseridas corretamente no modelo.
 * A diferença entre `{{company}}` e `{{company_friendly}}` é isso `{{company_friendly}}` removerá qualquer título formal, como Inc., LLC., etc., do nome da empresa do seu contato.
 * Ao usar `{{company_friendly}}`, separe a Inc. ou a Co. com uma vírgula nos detalhes de contato. É assim que o Sales Connect sabe o que remover ao obter o valor.
+* Se você usar o `{{my_signature}}` dinâmico, o sistema não anexará automaticamente a assinatura do usuário para evitar duplicações.
 
 >[!TIP]
 >
