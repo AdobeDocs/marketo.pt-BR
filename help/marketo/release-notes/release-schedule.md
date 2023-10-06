@@ -4,10 +4,10 @@ description: Programação de lançamento - Documentação do Marketo - Document
 title: Programação de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 72845f270a3490f273cd833c05ad9aec0549c84c
+source-git-commit: aa7008300a32e3e6e311224ece73200add708e65
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 7%
+source-wordcount: '131'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 **Versão**: o mês/ano de cada versão. Uma vez disponíveis, as notas de versão serão vinculadas na tabela abaixo.
 
-**Data de lançamento**: a implantação normalmente começa na terça-feira da semana de lançamento, com a maior parte da atualização acontecendo na sexta-feira à noite. Um email é enviado com datas específicas e detalhes da versão. A data listada é para a atualização de sexta-feira.
+**Data de lançamento**: a implantação normalmente começa na terça-feira da semana de lançamento, com mais da atualização acontecendo na sexta-feira à noite. A data listada é para a atualização de sexta-feira.
 
 **Status**:
 
@@ -23,7 +23,7 @@ ht-degree: 7%
 * Em andamento - Estamos no processo de implantação dos recursos da versão
 * Enviado - A versão está concluída
 
-_As datas de lançamento estão sujeitas a alterações_
+_As datas/recursos de lançamento estão sujeitos a alterações_
 
 <table> 
  <colgroup> 
