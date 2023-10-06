@@ -4,10 +4,10 @@ description: Programação de lançamento - Documentação do Marketo - Document
 title: Programação de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
+source-git-commit: 72845f270a3490f273cd833c05ad9aec0549c84c
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '142'
+ht-degree: 7%
 
 ---
 
@@ -37,39 +37,45 @@ _As datas de lançamento estão sujeitas a alterações_
    <th width="250px">Data de lançamento</th>
    <th width="250px">Status</th>
   </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">Outubro de 22</a></td>
-   <td>14 de outubro de 2022</td>
-   <td>Remetido</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-jan-23.md">Janeiro de 23</a></td>
-   <td>20 de janeiro de 2023</td>
-   <td>Remetido</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-mar-23.md">Março de 2023</a></td>
-   <td>31 de março de 2023</td>
-   <td>Remetido</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-may-23.md">Maio de 23</a></td>
-   <td>12 de maio de 2023</td>
-   <td>Remetido</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-july-23.md">Julho de 23</a></td>
-   <td>21 de julho de 2023</td>
-   <td>Remetido</td>
-  </tr>
-  <tr>
+
+<tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">Setembro de 23</a></td>
    <td>8 de setembro de 2023</td>
-   <td>em andamento</td>
+   <td>Remetido</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">Outubro de 23</a></td>
    <td>6 de outubro de 2023</td>
+   <td>em andamento</td>
+  </tr>
+  <tr> 
+   <td>Janeiro de 24</td>
+   <td>12 de janeiro de 2024</td>
+   <td>Dentro do Cronograma</td>
+  </tr>
+  <tr> 
+   <td>Março de 24</td>
+   <td>8 de março de 2024</td>
+   <td>Dentro do Cronograma</td>
+  </tr>
+  <tr> 
+   <td>Abril de 24</td>
+   <td>26 de abril de 2024</td>
+   <td>Dentro do Cronograma</td>
+  </tr>
+  <tr>
+   <td>Junho de 24</td>
+   <td>7 de junho de 2024</td>
+   <td>Dentro do Cronograma</td>
+  </tr>
+  <tr> 
+   <td>Agosto de 24</td>
+   <td>9 de agosto de 2024</td>
+   <td>Dentro do Cronograma</td>
+  </tr>
+  <tr> 
+   <td>Outubro de 24</td>
+   <td>4 de outubro de 2024</td>
    <td>Dentro do Cronograma</td>
   </tr>
  </tbody>
