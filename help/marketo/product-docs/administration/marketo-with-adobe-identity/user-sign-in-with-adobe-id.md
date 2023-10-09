@@ -3,18 +3,18 @@ description: Logon do usuário com o Adobe ID - Documentação do Marketo - Docu
 title: Logon do usuário com o Adobe ID
 exl-id: d17f4de3-491c-45a7-b4b8-f68b9bd35124
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: d1ea45826d9ddf55a67d615b757b6deb9b5c6fc2
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Logon do usuário com o Adobe ID {#user-sign-in-with-adobe-id}
 
-Quando um usuário com a Identidade do Adobe precisa fazer logon no aplicativo Marketo Engage, ele deve fazer logon por meio do link de logon do Adobe ID, em vez do logon típico na página de logon do Marketo. Ao clicar no link, o usuário será direcionado para o Aplicativo Marketo Engage.
+Quando um usuário com a Identidade do Adobe precisa fazer logon no aplicativo Marketo Engage, ele deve fazer logon por meio do link de logon da AdobeID, em vez do logon típico na página de logon do Marketo Engage. Ao clicar no link, o usuário será direcionado para o Aplicativo Marketo Engage.
 
-1. Clique em **[!UICONTROL Fazer logon com uma Adobe ID]** na página de logon do Marketo.
+1. Clique em **[!UICONTROL Continuar com a AdobeID]** na página de logon do Marketo Engage.
 
    ![](assets/user-sign-in-with-adobe-id-1.png)
 
