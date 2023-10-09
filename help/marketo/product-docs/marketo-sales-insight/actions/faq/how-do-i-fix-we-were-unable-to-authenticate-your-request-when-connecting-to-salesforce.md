@@ -3,29 +3,50 @@ description: Como corrijo "Não foi possível autenticar sua solicitação" ao m
 title: Como corrijo "Não foi possível autenticar sua solicitação" ao me conectar ao Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b09bff5fe72e5cce86ab4664e264edb181fa3e5c
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # Como corrijo &quot;Não foi possível autenticar sua solicitação&quot; ao me conectar ao Salesforce {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-Se você receber a mensagem de erro &quot;Não foi possível autenticar sua solicitação&quot; ao tentar conectar as ações do Sales Insight ao Salesforce, poderá haver uma restrição no seu acesso à API do Salesforce. Consulte o administrador do Salesforce para verificar se os itens a seguir estão em vigor.
+Se você estiver tentando conectar sua instância do Marketo Sales ao Salesforce e estiver vendo o erro &quot;Não foi possível autenticar sua solicitação&quot;, provavelmente está relacionado à configuração da instância do Salesforce.
 
-## Habilitar API em Permissões do usuário {#enable-api-in-user-permissions}
+Há dois tipos de erros que podem estar produzindo esta página de autenticação com falha.
 
-1. Peça a um administrador do Salesforce que faça logon no SFDC.
+* Domínio restrito por erro de logon
+* Aplicativo Oauth Bloqueado
+
+Você pode identificar o tipo que está recebendo verificando o URL.
+
+![](assets/how-do-i-fix-we-were-unable-to-authenticate-1.png)
+
+![](assets/how-do-i-fix-we-were-unable-to-authenticate-2.png)
+
+## Resolver domínio restrito com erro de logon {#resolve-login-error-restricted-domain}
+
+Normalmente, esse erro indica que você tem um domínio personalizado para o qual não podemos rotear. Para resolver esse erro, tente fazer logon na instância do Salesforce à qual você deseja se conectar primeiro. Em seguida, siga as etapas para se conectar ao Salesforce.
+
+Se a instância à qual você está tentando se conectar for um domínio de sandbox do Salesforce e você estiver recebendo um erro, será necessário executar etapas adicionais para atualizar sua instância para que seja compatível com o Salesforce Sandbox. [Saiba mais](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
+
+## Resolver o aplicativo Oauth bloqueado e outros tipos de erro {#resolve-oauth-app-blocked-and-other-error-types}
+
+Se você receber a mensagem de erro &quot;Não foi possível autenticar sua solicitação&quot; com o tipo de erro Oauth App Blocked ou outro tipo no URL, poderá haver uma restrição no seu acesso à API do Salesforce. Consulte o administrador do Salesforce para verificar se os itens a seguir estão em vigor.
+
+### Habilitar API em Permissões do usuário {#enable-api-in-user-permissions}
+
+1. Peça a um administrador do Salesforce para fazer logon no Salesforce.
 1. Selecionar **Configuração**.
 1. Selecionar **Gerenciar usuários**.
 1. Selecionar **Perfis**.
 1. Localize o Perfil em que estão os usuários do ToutApp e clique em **Editar**.
 1. Role para baixo até **Permissões administrativas** e verifique se **API habilitada** está marcado.
 
-## Verifique se o Salesforce está bloqueando a conexão das ações do Sales Insight {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
+### Verifique se o Salesforce está bloqueando a conexão das ações do Sales Insight {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
 
-1. Peça a um administrador do Salesforce que faça logon no SFDC.
+1. Peça a um administrador do Salesforce para fazer logon no Salesforce.
 1. Selecionar **Configuração**.
 1. Selecionar **Gerenciar aplicativos**.
 1. Selecionar **Uso do OAuth de aplicativos conectados**.
