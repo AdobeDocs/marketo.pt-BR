@@ -4,7 +4,7 @@ description: Utilização Da Lógica Padrão De Regras Da Smart List - Documenta
 title: Utilização da Lógica Padrão de Regras de Smart List
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -13,28 +13,28 @@ ht-degree: 0%
 
 # Utilização da Lógica Padrão de Regras de Smart List {#using-standard-smart-list-rule-logic}
 
-Você pode ter notado a opção &quot;Usar filtros&quot; ao criar listas inteligentes de campanha. Essa configuração permite decidir se os filtros precisam ser avaliados com um operador AND ou OR.
+Você pode ter notado a opção &quot;Usar filtros&quot; ao criar Smart Lists do Campaign. Essa configuração permite decidir se os filtros precisam ser avaliados com um operador AND ou OR.
 
-![](assets/image2014-9-22-14-3a12-3a42.png)
+![](assets/using-standard-smart-list-rule-logic-1.png)
 
 >[!NOTE]
 >
 >A alteração da lógica da regra da lista inteligente se aplica somente a filtros, **não** acionadores.
 
-Os acionadores são sempre avaliados como OU, mesmo se a configuração acima estiver definida como ALL.  Veja um exemplo:
+Os acionadores são sempre avaliados como OU, mesmo se a configuração acima estiver definida como ALL. Veja um exemplo:
 
-![](assets/image2014-9-22-14-3a12-3a57.png)
+![](assets/using-standard-smart-list-rule-logic-2.png)
 
 A lista inteligente acima em palavras:
 
 ```box
-IF person fills out My Form
+IF person fills out Great Form
 OR
-IF person visits My Page 
+IF person visits Keith's Landing Page 
 AND 
-Industry is Marketing 
+Industry is Energy 
 AND 
-Country is USA 
+Country is US 
 THEN follow the campaign's flow step(s)
 ```
 

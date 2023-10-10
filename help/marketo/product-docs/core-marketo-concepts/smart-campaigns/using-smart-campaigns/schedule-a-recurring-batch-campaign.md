@@ -4,43 +4,45 @@ description: Programar uma campanha em lote recorrente - Documentação do Marke
 title: Programar uma campanha em lote recorrente
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 # Programar uma campanha em lote recorrente {#schedule-a-recurring-batch-campaign}
 
-A recorrência permite executar uma campanha inteligente em lote de acordo com uma programação regular. Por exemplo, uma vez por semana, às segundas-feiras às 12h.
+A Recorrência permite executar uma Campanha em Lote regularmente. Por exemplo - uma vez por semana, às terças-feiras às 10h.
 
-1. Selecione a campanha, vá para a guia Schedule e clique em **Agendar Recorrência**.
+1. Selecione a Campanha inteligente, vá para a página **Agendar** e clique em **Agendar Recorrência**.
 
-   ![](assets/recurrencehands-sendemail.png)
+   ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. Clique na lista suspensa Agendar e selecione **Semanalmente**.
+1. Clique em **Agendar** e selecione **Semanalmente**.
 
-   ![](assets/image2014-9-22-11-3a41-3a42.png)
+   ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
-1. Clique no ícone do calendário e selecione o dia da primeira execução. Para este exemplo, estamos usando a próxima segunda-feira disponível.
+1. Clique no ícone do calendário e selecione o dia desejado para a primeira execução.
 
-   ![](assets/image2014-9-22-11-3a41-3a46.png)
+   ![](assets/schedule-a-recurring-batch-campaign-3.png)
 
 1. Selecione a hora em que ele deve ser executado.
 
-   ![](assets/image2014-9-22-11-3a41-3a49.png)
+   ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Deixe Repetir a cada como 1, selecione Segunda-feira e clique em **Salvar**.
+1. Deixe Repetir a cada como 1, selecione Terça-feira e clique **Salvar**.
 
-   ![](assets/image2014-9-22-11-3a41-3a53.png)
+   ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
-1. Você pode ver as recorrências agendadas na guia Schedule para validar.
+   >[!NOTE]
+   >
+   >Para uma duração de execução específica, você pode clicar no ícone de calendário ao lado de **Encerra em** e escolha a data final.
 
-   ![](assets/recurrence.jpg)
+As recorrências agendadas são exibidas na parte inferior da guia Schedule.
+
+![](assets/schedule-a-recurring-batch-campaign-6.png)
 
 >[!NOTE]
 >
->A guia Schedule mostrará as próximas três ocorrências para referência.
-
-E é isso! Sua campanha em lote agora será executada toda segunda-feira ao meio-dia.
+>A guia Schedule mostrará as próximas três ocorrências para referência. Clicar no vermelho **X** cancelará essa execução específica.

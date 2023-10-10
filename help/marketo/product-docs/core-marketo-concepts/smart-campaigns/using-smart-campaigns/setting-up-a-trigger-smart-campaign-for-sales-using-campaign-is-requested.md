@@ -4,9 +4,9 @@ description: Configuração de um acionador de campanha inteligente para vendas 
 title: Configurar um acionador de campanha inteligente para vendas usando "A campanha é solicitada"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -26,24 +26,24 @@ Um dos recursos mais interessantes do Marketo é a capacidade de permitir que os
 
 1. Criar um **Campanha inteligente.**
 
-   ![](assets/image2015-5-20-16-3a3-3a25.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Localizar e arrastar **A campanha é solicitada** para a tela.
+1. Localize e arraste o **A campanha é solicitada** acione para a tela.
 
-   ![](assets/campaignfilterdrag.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
 1. As opções de origem indicam que tipo de solicitação será atendida. Para a funcionalidade do Salesforce, escolha **Vendas** **Insight**.
 
    >[!TIP]
    >
-   >Os operadores de origem são para segurança. Você pode restringir a campanha a solicitações feitas apenas por fontes específicas, como outras campanhas inteligentes ou desenvolvedores. Escolher **É Qualquer** na primeira caixa se desejar permitir solicitações de todas as fontes.
+   >Os operadores de origem são para segurança. Você pode restringir a campanha a solicitações feitas apenas por fontes específicas, como outras Campanhas inteligentes ou desenvolvedores. Escolher **É Qualquer** na primeira caixa se desejar permitir solicitações de todas as fontes.
    >
    >**Lembrar** Em seguida, ao escolher Sales Insight, ele será exibido magicamente na caixa para vendas. Não exagere. Muitos serão ignorados por eles.
 
-   ![](assets/image2015-5-20-17-3a56-3a56.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
 Essa é uma ótima maneira de estender o alcance de marketing para outros departamentos. Configure todos os tipos de campanhas para automatizar.
 
 >[!TIP]
 >
->Não se esqueça de nomear suas campanhas inteligentes com clareza. Eles aparecerão no Sales Insight exatamente como você os nomeia.
+>Não se esqueça de nomear suas Campanhas inteligentes com clareza. Eles aparecerão no Sales Insight exatamente como você os nomeia.
