@@ -3,7 +3,7 @@ description: Como corrijo "Não foi possível autenticar sua solicitação" ao m
 title: Como corrijo "Não foi possível autenticar sua solicitação" ao me conectar ao Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
+source-git-commit: 0899b8cf9c97953d7212e79164d26d2f42dfeb23
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Se a instância à qual você está tentando se conectar for um domínio de sand
 
 ## Resolver Aplicativo Oauth Bloqueado {#resolve-oauth-app-blocked}
 
-Se você receber a mensagem de erro &quot;Não foi possível autenticar sua solicitação&quot; com o tipo de erro Oauth App Blocked ou outro tipo no URL, poderá haver uma restrição no seu acesso à API do Salesforce. Consulte o administrador do Salesforce para verificar se os itens a seguir estão em vigor.
+Se você receber a mensagem de erro &quot;Não foi possível autenticar sua solicitação&quot; com o tipo de erro Bloqueado do aplicativo OAuth (ou outro tipo) no URL, poderá haver uma restrição no acesso à API do Salesforce. Consulte seu administrador do Salesforce para verificar se os itens abaixo estão em vigor.
 
 ### Habilitar API em Permissões do usuário {#enable-api-in-user-permissions}
 
