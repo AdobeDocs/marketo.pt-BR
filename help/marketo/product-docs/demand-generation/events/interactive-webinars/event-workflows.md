@@ -3,9 +3,9 @@ description: Fluxos de trabalho do evento - Documentação do Marketo - Document
 title: Fluxos de trabalho de evento
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -32,30 +32,41 @@ O Painel consiste em quatro widgets.
 
 **Atividade de download de clique e arquivo**: fornece a contagem de download do arquivo e dos links da Web clicados durante o webinário realizado pelo Adobe Connect por vários membros que participaram do webinário e executaram essa ação específica.
 
+## Gravação do webinário {#webinar-recording}
+
+Acesse a guia Visão geral para exibir o webinário gravado, obter o link para compartilhá-lo e até mesmo baixar uma cópia.
+
+![](assets/event-workflows-2.png)
+
+>[!NOTE]
+>
+>* A gravação é baixada no formato MP4.
+>* Ao compartilhar a gravação, ela poderá ser visualizada por qualquer pessoa que tenha o link. Portanto, verifique se ela está compartilhada com o público-alvo desejado.
+
 ## Acionadores e filtros {#triggers-and-filters}
 
 Use acionadores e filtros interativos relacionados ao webinário para localizar grupos específicos de pessoas no Programa de evento.
 
-![](assets/event-workflows-2.png)
+![](assets/event-workflows-3.png)
 
 Cada acionador/filtro vem com restrições adicionais, permitindo capturar um subconjunto focado desse grupo.
 
 **Faz perguntas durante o evento** (Versão do filtro: perguntas feitas durante o evento)
 
-![](assets/event-workflows-3.png)
+![](assets/event-workflows-4.png)
 
 **Participa do evento** (Versão do filtro: tem evento de participação)
 
-![](assets/event-workflows-4.png)
+![](assets/event-workflows-5.png)
 
 **Cliques em um link** (Versão do filtro: Clicou em um link)
 
-![](assets/event-workflows-5.png)
+![](assets/event-workflows-6.png)
 
 **Baixa um ativo** (Versão do filtro: Baixou um ativo)
 
-![](assets/event-workflows-6.png)
+![](assets/event-workflows-7.png)
 
 **Responde a uma enquete** (Versão do filtro: Respondido a uma enquete)
 
-![](assets/event-workflows-7.png)
+![](assets/event-workflows-8.png)

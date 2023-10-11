@@ -3,9 +3,9 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 215f32a43715b0e2d3794890e245675265748f09
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '340'
 ht-degree: 7%
 
 ---
@@ -53,8 +53,9 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
    <tr> 
    <td><strong>Baixe a gravação e atribua o co-host nos webinários interativos</strong>: agora você pode adicionar um co-host externo para seu webinário, caso o host original não esteja disponível. Agora você também pode baixar a gravação do webinário.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Baixar gravação</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Criar um webinário interativo</a></li></td>
   </tr>
  </tbody> 
 </table>
