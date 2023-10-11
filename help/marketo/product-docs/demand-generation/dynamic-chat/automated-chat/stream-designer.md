@@ -2,10 +2,10 @@
 description: Stream Designer - Documentação do Marketo - Documentação do produto
 title: Designer de fluxo
 feature: Dynamic Chat
-exl-id: 5afc7abd-a57b-467a-9356-5332964f997c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
+source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
 workflow-type: tm+mt
-source-wordcount: '1101'
+source-wordcount: '1107'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ O designer de fluxo contém vários cartões que você pode adicionar para molda
  </tr>
  <tr>
   <td><strong>Ação</strong></td>
-  <td>Semelhante aos campos ocultos em um formulário, com o cartão de ação é possível preencher qualquer atributo de cliente potencial ou de empresa com valores implícitos que você gostaria de capturar em um registro de cliente potencial. Você pode adicionar o cartão de ação em qualquer ponto da conversa e atualizar os respectivos atributos com um valor ou tokens nativos que preenchem automaticamente o respectivo valor.</td>
+  <td>Semelhante aos campos ocultos em um formulário, com o cartão de ação você pode preencher qualquer atributo de cliente potencial ou de empresa (que tenha um <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">tipo de dados string</a>) com valores implícitos que você gostaria de capturar em um registro de lead. Você pode adicionar o cartão de ação em qualquer ponto da conversa e atualizar os respectivos atributos com um valor ou tokens nativos que preenchem automaticamente o respectivo valor.</td>
  </tr>
  <tr>
   <td><strong>Chat ao vivo</strong></td>
