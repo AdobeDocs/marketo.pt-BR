@@ -1,24 +1,26 @@
 ---
 description: Integração de Dynamic Chat - Documentação do Marketo - Documentação do produto
-title: Integração dinâmica de chat
+title: Integração do Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '396'
 ht-degree: 5%
 
 ---
 
-# Integração dinâmica de chat {#dynamic-chat-integration}
+# Integração do Dynamic Chat {#dynamic-chat-integration}
 
 Saiba mais sobre a integração do Dynamic Chat com o Sales Insight.
 
 >[!PREREQUISITES]
 >
->* Seu pacote SFDC do Sales Insight deve ser da versão [1.9 ou superior](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Seu pacote SFDC do Sales Insight deve ser da versão [2.4.0 ou superior](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
 >* Você deve ter o [integração de Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} configurar
+>
+>* Verifique em seu Sales Insight [Configurações Operacionais](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
 ## Guia Configuração do Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
 
@@ -82,7 +84,7 @@ Da mesma forma, os painéis Conta e Oportunidade incluem as colunas Nome, Tipo d
 
 A guia Chat também está incluída na guia Global Marketo. Ele inclui três tipos de atividades (Caixa de diálogo envolvida, Compromisso agendado, Meta atingida), juntamente com as seguintes colunas:
 
-* Pessoa
+* Pessoa do 
 * Conta
 * Tipo de atividade (caixa de diálogo envolvida, compromisso agendado, meta atingida)
 * Nome do diálogo
