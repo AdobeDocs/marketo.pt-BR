@@ -3,7 +3,7 @@ description: Fluxos de trabalho do evento - Documentação do Marketo - Document
 title: Fluxos de trabalho de evento
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -34,7 +34,7 @@ O Painel consiste em quatro widgets.
 
 ## Gravação do webinário {#webinar-recording}
 
-Acesse a guia Visão geral para exibir o webinário gravado, obter o link para compartilhá-lo e até mesmo baixar uma cópia.
+Acesse a guia Visão geral para exibir o webinário gravado, obtenha o link para compartilhá-lo e até mesmo baixe uma cópia.
 
 ![](assets/event-workflows-2.png)
 
