@@ -4,16 +4,16 @@ description: Conceder aos usuários acesso ao aplicativo de check-in - Documenta
 title: Conceder aos usuários acesso ao aplicativo de check-in
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
 # Conceder aos usuários acesso ao aplicativo de check-in {#grant-users-access-to-the-check-in-app}
 
-O Marketo tem uma função de usuário especial para o aplicativo de check-in de eventos. Veja como criar uma nova função com permissão para usar o aplicativo.
+O Marketo Engage tem uma função de usuário especial para o aplicativo de check-in de eventos. Veja como criar uma nova função com permissão para usar o aplicativo.
 
 >[!IMPORTANT]
 >
@@ -21,19 +21,19 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in de
 
 ## Criar uma nova função de usuário para dispositivos móveis {#create-a-new-user-role-for-mobile}
 
-1. Clique em **Admin**.
+1. Clique em **[!UICONTROL Admin]**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. Clique em **Usuários e funções**.
+1. Clique em **[!UICONTROL Usuários e funções]**.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Clique em **Funções** e clique em **Nova Função**.
+1. Clique em **[!UICONTROL Funções]** e clique em **[!UICONTROL Nova Função]**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Digite um nome para a nova função e uma descrição opcional. Verifique a **Acessar aplicativo móvel** e clique em **Criar**.
+1. Digite um nome para a nova função e uma descrição opcional. Verifique a **[!UICONTROL Acessar aplicativo móvel]** e clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -41,15 +41,15 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in de
 
 ## Convidar novos usuários para o aplicativo de check-in {#invite-new-users-for-the-check-in-app}
 
-1. Clique em **Usuários** guia.
+1. Clique em **[!UICONTROL Usuários]** guia.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Clique em **Convidar novo usuário**.
+1. Clique em **[!UICONTROL Convidar novo usuário]**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Insira as informações do novo usuário. Marque as caixas de seleção de todas as funções apropriadas e a nova função com a permissão para acessar o aplicativo móvel. Clique em **Convidar** quando terminar.
+1. Insira as informações do novo usuário. Marque as caixas de seleção de todas as funções apropriadas e a nova função com a permissão para acessar o aplicativo móvel. Clique em **[!UICONTROL Convidar]** quando terminar.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

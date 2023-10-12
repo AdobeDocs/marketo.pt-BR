@@ -1,75 +1,74 @@
 ---
-description: Solicitações de privacidade - Documentos do Marketo - Documentação do produto
+description: Solicitações de privacidade - Documentação do Marketo - Documentação do produto
 title: Solicitações de privacidade
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 1%
+source-wordcount: '354'
+ht-degree: 3%
 
 ---
 
 # Solicitações de privacidade {#privacy-requests}
 
-Este documento fornece uma visão geral do gerenciamento de solicitações individuais de privacidade de dados que você pode enviar para o Marketo Engage por meio da interface do usuário do Privacy Service e da API do Privacy Service.
+Este documento fornece uma visão geral do gerenciamento de solicitações individuais de privacidade de dados que você pode enviar para o Marketo Engage por meio da interface do usuário do Privacy Service e da API Privacy Service.
 
 >[!NOTE]
 >
->As solicitações de privacidade enviadas por meio da interface do usuário do Privacy Service ou da API do Marketo Engage aplicam-se somente ao seguinte:
+>As solicitações de privacidade enviadas por meio da interface do usuário ou da API do Privacy Service para Marketo Engage se aplicam apenas ao seguinte:
 >
->* Usuários do Marketo Engage que se conectaram ao Adobe Identity Management System
+>* Usuários do Marketo Engage que integraram ao sistema Adobe Identity Management
 >
 >**-ou-**
 >
->* Usuários do Marketo Engage que utilizam outro Experience Cloud já no Adobe Identity Management System (por exemplo, RT-CDP, B2B e B2P Editions, Audience Manager).
+>* Usuários de Marketo Engage que utilizam outro produto de Experience Cloud que já está no sistema Adobe Identity Management (por exemplo, RT-CDP, edições B2B e B2P, Audience Manager).
 
+Você pode enviar solicitações individuais para acessar e excluir dados do consumidor do Marketo Engage de duas maneiras:
 
-Você pode enviar solicitações individuais para acessar e excluir dados do consumidor do Marketo Engage de duas formas:
+* Por meio da [IU DO PRIVACY SERVICE](https://privacyui.cloud.adobe.io/). Consulte a documentação [aqui](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=pt-BR){target="_blank"}.
+* Por meio da API de Privacy Service. Consulte a documentação [aqui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-* Por meio da [Interface do usuário do Privacy Service](https://privacyui.cloud.adobe.io/). Veja a documentação [here](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target=&quot;_blank&quot;}.
-* Pela API do Privacy Service. Veja a documentação [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} e informações da API [here](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
+A variável [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} O oferece suporte a dois tipos de solicitações: acesso aos dados e exclusão de dados.
 
-O [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target=&quot;_blank&quot;} oferece suporte a dois tipos de solicitações: acesso aos dados e exclusão dos dados.
+Saiba como criar solicitações de Acesso e Exclusão.
 
-Vamos ver como criar solicitações de acesso e exclusão.
+## Configuração necessária para enviar solicitações para Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
-## Configuração necessária para enviar solicitações para o Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
-
-Para fazer solicitações de acesso e exclusão de dados para o Marketo Engage, você deve:
+Para fazer solicitações de Acesso e Exclusão de dados para o Marketo Engage, você deve:
 
 1. Identifique o seguinte:
 
-   a. ID organizacional IMS<br/>
-b. Endereço de email da pessoa em quem você deseja agir
+   a. ID de organização IMS<br/>
+b. Endereço de e-mail da pessoa sobre a qual deseja agir
 
-   Uma ID de organização IMS é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema do Adobe não souber a ID de organização IMS, entre em contato com o Atendimento ao cliente da Adobe em gdprsupport@adobe.com. Você precisa da ID de organização IMS para enviar solicitações à API de privacidade.
+   Uma ID de organização IMS é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a equipe de marketing ou o administrador interno do sistema Adobe não souber a ID de organização IMS, entre em contato com o Atendimento ao cliente da Adobe em `gdprsupport@adobe.com`. Você precisa da ID de organização IMS para enviar solicitações à API de privacidade.
 
-1. No Privacy Service, você pode enviar solicitações de Acesso e Exclusão para o Marketo Engage e verificar o status das solicitações existentes.
+1. No Privacy Service, você pode enviar solicitações de Acesso e Exclusão ao Marketo Engage e verificar o status das solicitações existentes.
 
-## Valores de campo obrigatórios em solicitações Marketo Engage JSON {#required-field-values-in-marketo-engage-json-requests}
+## Valores de campo obrigatórios em solicitações JSON do Marketo Engage {#required-field-values-in-marketo-engage-json-requests}
 
 &quot;companyContexts&quot;:
 
 * &quot;namespace&quot;: **imsOrgID**
-* “Valor”: `<Your IMS Org ID Value>`
+* &quot;valor&quot;: `<Your IMS Org ID Value>`
 
-“usuários”:
+&quot;usuários&quot;:
 
-* &quot;Ação&quot;: ou **access** ou **excluir**
-* &quot;userIDs&quot;:
+* &quot;action&quot;: **acesso** ou **excluir**
+* &quot;userIDs&quot;
    * &quot;namespace&quot;: **email**
    * &quot;type&quot;: **padrão**
-   * “Valor”: `<Data Subject’s Email Address>`
+   * &quot;valor&quot;: `<Data Subject's Email Address>`
 
 &quot;include&quot;:
 
-* **marketo** (que é o Adobe product que se aplica à solicitação)
+* **marketo** (que é o produto Adobe que se aplica à solicitação)
 
-&quot;regulamento&quot;:
+&quot;Regulamentação&quot;:
 
 * **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** ou **nzpa_nzl**  (que é o regulamento de privacidade que se aplica à solicitação)
 
-## Exemplo Um: Solicitação de exclusão do RGPD {#gdpr-delete-request}
+## Exemplo um: solicitação de exclusão do GDPR {#gdpr-delete-request}
 
 Solicitação JSON
 
@@ -132,7 +131,7 @@ Resposta JSON
 }
 ```
 
-## Exemplo dois: Solicitação de acesso à CCPA {#ccpa-access-request}
+## Exemplo dois: solicitação de acesso ao CCPA {#ccpa-access-request}
 
 Solicitação JSON
 

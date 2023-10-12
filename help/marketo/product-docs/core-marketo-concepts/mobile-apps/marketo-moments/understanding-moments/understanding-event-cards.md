@@ -4,9 +4,9 @@ description: Noções básicas sobre cartões de evento - Documentação do Mark
 title: Compreensão de cartões de evento
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 1%
 
 ---
@@ -25,11 +25,9 @@ Ao tocar em qualquer cartão do Programa de email, você pode:
 * [Marcar um evento como concluído](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Compartilhar um cartão de momento de evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Há dois cartões de evento. O cartão no convés, enviado algumas horas antes do evento, mostra quantas pessoas estão inscritas. O cartão Resultados, enviado posteriormente, exibe quantos realmente compareceram.
+Há dois cartões de evento. A variável [!UICONTROL No convés] enviado algumas horas antes do evento, mostra quantas pessoas estão inscritas. A variável [!UICONTROL Resultados] , enviado posteriormente, exibe quantos realmente participaram.
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
-
-Você é bom!
 
 >[!MORELIKETHIS]
 >

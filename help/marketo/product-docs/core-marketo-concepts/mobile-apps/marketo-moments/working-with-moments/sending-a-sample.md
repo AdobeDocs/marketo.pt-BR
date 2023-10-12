@@ -4,9 +4,9 @@ description: Envio de uma amostra - Documentação do Marketo - Documentação d
 title: Envio de uma amostra
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
@@ -25,11 +25,11 @@ Você pode compartilhar uma amostra de um momento de email diretamente com algu�
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Toque **Enviar amostra**.
+1. Toque **[!UICONTROL Enviar amostra]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Insira um endereço de email e clique em **Enviar amostra**.
+1. Insira um endereço de email e clique em **[!UICONTROL Enviar amostra]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -38,5 +38,3 @@ Você pode compartilhar uma amostra de um momento de email diretamente com algu�
 1. Toque no ícone de avião de papel na tela de Visualização de email para enviar uma amostra diretamente da visualização.
 
    ![](assets/image2015-9-25-10-3a28-3a47.png)
-
-Missão cumprida!

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953243
-description: Tipos de notificação - Documentos do Marketo - Documentação do produto
+description: Tipos de notificação - Documentação do Marketo - Documentação do produto
 title: Tipos de notificação
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 6%
+source-wordcount: '243'
+ht-degree: 5%
 
 ---
 
@@ -16,48 +16,48 @@ Há vários tipos de notificação.
 
 ## Falha na campanha  {#campaign-failure}
 
-As falhas da campanha notificam você sobre erros em suas campanhas inteligentes.
+As falhas de campanha notificam você sobre erros em suas campanhas inteligentes.
 
 ## Sincronização com CRM {#crm-sync}
 
-As notificações de sincronização do CRM alertam você sobre problemas críticos encontrados com a sincronização do CRM, como permissões incorretas ou a sincronização que está sendo desativada.
+As notificações de sincronização do CRM alertam sobre problemas críticos encontrados com a sincronização do CRM, como permissões incorretas ou o fato de a sincronização estar inativa.
 
-**Microsoft Dynamics**
+**[!DNL Microsoft Dynamics]**
 
-As notificações do Dynamics são enviadas uma vez a cada 24 horas e contêm leads que falharam na sincronização nesse período de tempo. Os motivos típicos para falha são erros duplicados de lead (como acima) ou incompatibilidade de comprimento de campo.
+As notificações do Dynamics são enviadas uma vez a cada 24 horas e contêm leads que não foram sincronizados nesse período. Os motivos típicos de falha são leads duplicados (como acima) ou erros de incompatibilidade de comprimento de campo.
 
 ![](assets/image2016-1-20-11-3a19-3a58.png)
 
-**Salesforce**
+**[!DNL Salesforce]**
 
-Se você usar o Salesforce, as notificações de erro de sincronização serão semelhantes às abaixo. Erros típicos incluem credenciais expiradas e limites de API excedidos.
+Se você usa o Salesforce, as notificações de erro de sincronização são parecidas com as abaixo. Os erros típicos incluem credenciais expiradas e limites de API excedidos.
 
 ![](assets/salesforcesyncerror.png)
 
-Envolvimento
+## Envolvimento {#engagement}
 
-Quando os leads se esgotam em um fluxo, enviamos uma notificação.  A notificação inclui o número de clientes potenciais que se esgotaram e algumas outras informações.
+Quando as pessoas ficam exaustas em um riacho, enviamos uma notificação. A notificação inclui o número de pessoas que se exauriram e algumas outras informações.
 
 ![](assets/image2014-10-14-10-3a57-3a9.png)
 
-Facebook
+## Facebook {#facebook}
 
-Se você tentar enviar leads para a Facebook sem aceitar os Termos de serviço, ou se tentar enviar leads para a Facebook após remover o aplicativo Marketo.
+Se você tentar enviar pessoas para a Facebook sem aceitar os Termos de serviço, ou se tentar enviar pessoas para a Facebook após remover o aplicativo Marketo.
 
-Limpeza de campanha com gatilho ociosa
+## Limpeza de campanha com gatilho ociosa {#idle-trigger-campaign-cleanup}
 
-Desative as Campanhas inteligentes acionadas que não têm mais atividade. Saiba mais sobre  [ativação automática da limpeza da campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Desative Campanhas inteligentes acionadas que não recebem mais nenhuma atividade. Saiba mais sobre  [limpeza automática do acionador da campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
-LinkedIn
+## LinkedIn {#linkedin}
 
-Quando o Marketo não puder criar um novo público-alvo, fazer logon ou enviar emails para o LinkedIn após três tentativas.
+Quando o Marketo não consegue criar um novo público-alvo, fazer logon ou enviar emails para o LinkedIn após três tentativas.
 
 ![](assets/linkedin.png)
 
-Serviços da Web
+## Serviços da Web {#web-services}
 
-Você será notificado quando atingir sua cota diária. A cota é redefinida todas as noites à meia-noite, horário central.
+Você será notificado quando atingir sua cota diária. A cota é redefinida a cada noite à meia-noite, horário central.
 
 >[!NOTE]
 >
->Alguns dos códigos de erro que você pode receber são descritos em [Documentação do desenvolvedor](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
+>Alguns códigos de erro que você pode receber estão descritos em nosso [Documentação do desenvolvedor](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).

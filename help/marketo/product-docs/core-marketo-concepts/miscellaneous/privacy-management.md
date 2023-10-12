@@ -1,10 +1,10 @@
 ---
-description: Gerenciamento de privacidade - Documentação da Marketo - Documentação do produto
+description: Gerenciamento de privacidade - Documentação do Marketo - Documentação do produto
 title: Gerenciamento de privacidade
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -15,32 +15,31 @@ O Marketo Engage oferece um conjunto de ferramentas para ajudar você a cumprir 
 
 >[!NOTE]
 >
->As solicitações de privacidade enviadas por meio da interface do usuário do Privacy Service ou da API do Marketo Engage aplicam-se somente ao seguinte:
+>As solicitações de privacidade enviadas por meio da interface do usuário ou da API do Privacy Service para Marketo Engage se aplicam apenas ao seguinte:
 >
->* Usuários do Marketo Engage que se conectaram ao Adobe Identity Management System
+>* Usuários do Marketo Engage que integraram ao sistema Adobe Identity Management
 >
 >**-ou-**
 >
->* Usuários do Marketo Engage que utilizam outro Experience Cloud já no Adobe Identity Management System (por exemplo, RT-CDP, B2B e B2P Editions, Audience Manager).
+>* Usuários de Marketo Engage que utilizam outro produto de Experience Cloud que já está no sistema Adobe Identity Management (por exemplo, RT-CDP, edições B2B e B2P, Audience Manager).
 
+## Regulamentos sobre a gestão da privacidade {#regulations-on-privacy-management}
 
-## Regulamentos sobre o Gerenciamento de privacidade {#regulations-on-privacy-management}
+Os recursos do Marketo Engage ajudam você a cumprir os seguintes requisitos:
 
-Os recursos do Marketo Engage ajudam você a cumprir os seguintes regulamentos:
+* **[!DNL GDPR]** [Regulamento Geral sobre a Proteção de Dados](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) A é a lei de privacidade da União Europeia (UE) que adequa e moderniza os requisitos de proteção de dados para os países da UE.
+* **[!DNL CCPA]** [California Consumer Privacy Act](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.81.5.&amp;part=4.&amp;chapter=&amp;article=) O fornece aos residentes da Califórnia direitos no que diz respeito a suas informações pessoais e impõe responsabilidades de proteção de dados a determinadas entidades que realizam negócios na Califórnia.
+* **[!DNL PDPA]** [Lei de Proteção de Dados Pessoais](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) O é a lei de privacidade que adequa e moderniza os requisitos de proteção de dados na Tailândia.
+* **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) a partir do início de 2021 para todas as empresas que recolhem ou tratam dados pessoais no Brasil.
+* **[!DNL NZPA]** [Lei de privacidade de 2020](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/) O é a lei de privacidade que adequa e moderniza os requisitos de proteção de dados na Nova Zelândia.
 
-* **RGPD** [Regulamento Geral sobre a Proteção de Dados](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) é a lei de privacidade da União Europeia (UE) que harmoniza e moderniza os requisitos de proteção de dados para os países da UE.
-* **CCPA** [Lei de Privacidade do Consumidor da Califórnia](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.81.5.&amp;part=4.&amp;chapter=&amp;article=) O fornece aos residentes da Califórnia direitos no que diz respeito a suas informações pessoais e impõe responsabilidades de proteção de dados a determinadas entidades que realizam negócios na Califórnia.
-* **PDPA** [Lei de Proteção de Dados Pessoais](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) é a lei de privacidade que harmoniza e moderniza os requisitos de proteção de dados da Tailândia.
-* **LGPD** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) a partir do início de 2021 para todas as empresas que coletam ou processam dados pessoais no Brasil.
-* **NZPA** [Lei de Privacidade de 2020](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/) é a lei de privacidade que harmoniza e moderniza os requisitos de proteção de dados para a Nova Zelândia.
-
-Todos os regulamentos acima se aplicam a clientes do Marketo Engage que detêm dados para residentes nas respectivas regiões ou países mencionados acima (UE, Califórnia, Tailândia, Brasil, Nova Zelândia).
+Todos os regulamentos acima se aplicam a clientes Marketo Engage que detêm dados para residentes nas respectivas regiões ou países mencionados acima (UE, Califórnia, Tailândia, Brasil, Nova Zelândia).
 
 ## Direito de acesso e Direito ao esquecimento {#right-to-access-and-right-to-be-forgotten}
 
-Para ajudar você a se preparar para as medidas de privacidade, o Marketo Engage permite manipular **access** e **excluir** solicitações.
+Para ajudar você a se preparar para as medidas de privacidade, o Marketo Engage permite manipular **acesso** e **excluir** solicitações.
 
-* O **Direito de acesso** é o direito do Titular de dados de obter a confirmação do Controlador de dados, caso os dados relativos a ele estejam sendo processados, onde e com que finalidade. O Controlador de dados deve fornecer uma cópia gratuita dos dados pessoais em formato eletrônico.
+* A variável **Direito de acesso** O é o direito do Titular de dados de obter a confirmação do Controlador de dados, caso os dados relativos a ele estiverem sendo processados, onde e com qual finalidade. O controlador de dados deve fornecer uma cópia gratuita dos dados pessoais em formato eletrônico.
 * Também conhecido como Eliminação de dados, o **Direito ao esquecimento** (solicitação de exclusão) autoriza o Titular de dados a fazer com que o Controlador de dados apague seus dados pessoais, interrompa a divulgação dos dados e possivelmente o processamento dos dados por parte de terceiros.
 
-Para saber como criar solicitações de acesso/exclusão e como processá-las, consulte [este artigo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+Para saber como criar solicitações de acesso/exclusão e como as processamos, consulte [este artigo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).

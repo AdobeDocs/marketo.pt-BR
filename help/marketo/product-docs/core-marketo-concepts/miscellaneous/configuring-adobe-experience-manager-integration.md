@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Configure o Adobe Experience Manager (AEM) para poder acessar, selecionar e impo
 
    ![](assets/two.png)
 
-1. Entrada **Ferramentas**, clique em **Operações** e selecione **Console da Web**.
+1. Entrada **[!UICONTROL Ferramentas]**, clique em **[!UICONTROL Operações]** e selecione **[!UICONTROL Console da Web]**.
 
    ![](assets/2a.png)
 
@@ -47,34 +47,34 @@ Configure o Adobe Experience Manager (AEM) para poder acessar, selecionar e impo
 
    ![](assets/four.png)
 
-1. No **Origens permitidas (Regexp)** caixa de texto, digite `https://.*\.marketo\.com` e clique em **Salvar**.
+1. No **[!UICONTROL Origens permitidas (Regexp)]** caixa de texto, digite `https://.*\.marketo\.com` e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/five-psd.png)
 
-1. No cabeçalho na parte superior da página, clique em **Console da Web** e selecione **Informações do sistema**.
+1. No cabeçalho na parte superior da página, clique em **[!UICONTROL Console da Web]** e selecione **[!UICONTROL Informações do sistema]**.
 
    ![](assets/six.png)
 
-1. Em Informações do servidor, clique na guia **Restart** botão.
+1. Em Informações do servidor, clique na guia **[!UICONTROL Restart]** botão.
 
    ![](assets/seven.png)
 
-1. Clique em **OK** para confirmar.
+1. Clique em **[!UICONTROL OK]** para confirmar.
 
    ![](assets/eight.png)
 
-1. No Marketo Engage, clique em **Admin**.
+1. No Marketo Engage, clique em **[!UICONTROL Admin]**.
 
    ![](assets/nine.png)
 
-1. Em Integração, selecione **Adobe Experience Manager**.
+1. Em Integração, selecione **[!UICONTROL Adobe Experience Manager]**.
 
    ![](assets/ten.png)
 
-1. Clique em **Editar**.
+1. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/eleven.png)
 
-1. Insira o URL do AEM e clique em **OK**.
+1. Insira o URL do AEM e clique em **[!UICONTROL OK]**.
 
    ![](assets/twelve.png)

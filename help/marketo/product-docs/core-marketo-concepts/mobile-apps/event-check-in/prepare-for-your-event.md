@@ -4,9 +4,9 @@ description: Prepare-se para o seu evento - Documentação do Marketo - Document
 title: Prepare-se para o seu evento
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Há várias coisas que você precisa fazer para se preparar para o evento.
 
 ## Criar uma nova função do Marketo {#create-a-new-marketo-role}
 
-O Marketo tem uma função de usuário especial para o aplicativo de check-in de eventos. [Criar uma nova função do Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) para usuários do iPad ou Android, com permissão para acessar o aplicativo móvel.
+O Marketo tem uma função de usuário especial para o aplicativo de check-in de eventos. [Criar uma nova função do Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) para [!DNL iPad] ou [!DNL Android] usuários, com permissão para acessar o aplicativo móvel.
 
 ## Convidar novos usuários do Tablet para o evento {#invite-new-tablet-users-to-the-event}
 
@@ -39,7 +39,7 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in de
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Deslizar sobre para alterar **Tentativa** para **Confirmado**.
+1. Deslizar sobre para alterar **[!UICONTROL Tentativa]** para **[!UICONTROL Confirmado]**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -49,29 +49,29 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in de
 
 ## Adicionar pessoas ao seu evento {#add-people-to-your-event}
 
-Agora que você sabe o *quando*, é hora de adicionar o *quem*.
+Agora que você sabe o _quando_, é hora de adicionar o *quem*.
 
-1. Se você já tiver uma lista de pessoas, em Meu Marketo, clique no link **Banco de dados** bloco.
+1. Se você já tiver uma lista de pessoas, em Meu Marketo, clique no link **[!UICONTROL Banco de dados]** bloco.
 
    ![](assets/db.png)
 
-1. Selecione uma lista com pessoas e clique no botão **Pessoas** guia.
+1. Selecione uma lista com pessoas e clique no botão **[!UICONTROL Pessoas]** guia.
 
    ![](assets/four.png)
 
-1. Selecione as pessoas para o seu evento na lista. Uso **Ctrl** (ou **Comando** em uma Mac) para clicar em várias pessoas, ou **Selecionar tudo** para marcar todos eles.
+1. Selecione as pessoas para o seu evento na lista. Uso **[!UICONTROL Ctrl]** (ou **[!UICONTROL Comando]** em uma Mac) para clicar em várias pessoas, ou **[!UICONTROL Selecionar tudo]** para marcar todos eles.
 
    ![](assets/five.png)
 
-1. Clique em **Ações da pessoa**, passe o mouse sobre **Programas** e selecione **Alterar status do programa**.
+1. Clique em **[!UICONTROL Ações da pessoa]**, passe o mouse sobre **[!UICONTROL Programas]** e selecione **[!UICONTROL Alterar status do programa]**.
 
    ![](assets/six.png)
 
-1. Clique em **Programa** e selecione o evento.
+1. Clique em **[!UICONTROL Programa]** e selecione o evento.
 
    ![](assets/seven.png)
 
-1. Clique em **Novo Status** e selecione **Roadshow > Registrado**. Clique em **Executar agora**.
+1. Clique em **[!UICONTROL Novo Status]** e selecione **[!UICONTROL Roadshow] > [!UICONTROL Registrado]**. Clique em **[!UICONTROL Executar agora]**.
 
    ![](assets/eight.png)
 

@@ -1,34 +1,33 @@
 ---
 unique-page-id: 1147318
-description: Glossário de atalhos de teclado - Documentos do Marketo - Documentação do produto
+description: Glossário de atalhos de teclado - Documentação do Marketo - Documentação do produto
 title: Glossário de atalhos de teclado
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 12%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
 # Glossário de atalhos de teclado {#keyboard-shortcuts-glossary}
 
-Você é uma pessoa com atalhos do teclado? Nós te cobrimos!
+Você é uma pessoa que usa atalhos de teclado? Nós temos você coberto!
 
-## Navegação de área: {#area-navigation}
+## Navegação de área {#area-navigation}
 
 | Atalho de teclado | Área |
 |---|---|
-| Alt/Opt + A | Análises |
+| Alt/Opt + A | Analytics |
 | Alt/Opt + C | Calendário |
 | Alt/Opt + D | Estúdio de desenvolvimento |
 | Alt/Opt + F | Pesquisa global |
 | Alt/Opt + L | Banco de dados |
 | Alt/Opt + M | Atividades de marketing |
-| Opt + N | Administrador |
-| Opt + O | Meu Marketo |
-| Alt/Opt + S | Menu suspenso Superball |
+| Opt+N | Administrador |
+| Opt+O | Meu Marketo |
 
-## Navegação da Exibição de Calendário/Programação:  {#calendar-schedule-view-navigation}
+## Navegação de Exibição de Calendário/Calendário  {#calendar-schedule-view-navigation}
 
 | Atalho de teclado | Ação |
 |---|---|
@@ -36,10 +35,10 @@ Você é uma pessoa com atalhos do teclado? Nós te cobrimos!
 | Alt/Opt + Seta para baixo | Avançar no tempo |
 | Alt/Opt + T | Ir para &#39;Hoje&#39; |
 
-## Diversos: {#miscellaneous}
+## Diversos {#miscellaneous}
 
 | Atalho de teclado | Ação |
 |---|---|
 | ESC | Fechar pop-up |
-| Retorno/Entrada | Enviar pop-up |
-| Ctrl + Alt/Opt + H | Ocultar/ocultar um campo no editor de formulários |
+| Devolver/Inserir | Enviar pop-up |
+| Ctrl + Alt/Opt + H | Ocultar/reexibir um campo no editor de formulários |

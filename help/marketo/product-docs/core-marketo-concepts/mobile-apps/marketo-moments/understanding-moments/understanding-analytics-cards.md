@@ -4,9 +4,9 @@ description: Placas do Analytics - Documentação do Marketo - Documentação do
 title: Compreensão de cartões do Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '285'
 ht-degree: 1%
 
 ---
@@ -51,17 +51,15 @@ A variável **Clientes potenciais adquiridos** O cartão mostra um relatório de
 
 ## Novos leads {#new-leads}
 
-A variável **Novos clientes em potencial** O cartão mostra um relatório de tendência mês a mês do número total de novos leads em sua instância nos últimos seis meses.
+A variável **[!UICONTROL Novos clientes em potencial]** O cartão mostra um relatório de tendência mês a mês do número total de novos leads em sua instância nos últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Cancelamentos de inscrição {#unsubscribes}
 
-A variável **Cancelamentos de assinatura** O cartão mostra um relatório de tendências mês a mês da taxa de cancelamento de inscrição nos últimos seis meses.
+A variável **[!UICONTROL Cancelamentos de assinatura]** O cartão mostra um relatório de tendências mês a mês da taxa de cancelamento de inscrição nos últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
-
-Agora você sabe.
 
 >[!MORELIKETHIS]
 >

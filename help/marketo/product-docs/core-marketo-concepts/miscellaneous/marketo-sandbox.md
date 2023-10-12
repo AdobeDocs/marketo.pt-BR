@@ -1,41 +1,41 @@
 ---
 unique-page-id: 11386358
-description: Sandbox da Marketo - Documentos do Marketo - Documentação do produto
-title: Sandbox da Marketo
+description: Marketo Sandbox — Documentação do Marketo — Documentação do produto
+title: Sandbox Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-# Sandbox da Marketo {#marketo-sandbox}
+# Sandbox Marketo {#marketo-sandbox}
 
-Uma sandbox Marketo é uma instância adicional usada para fins de teste antes da implementação no ambiente de produção.
+Uma sandbox Marketo Engage é uma instância adicional usada para fins de teste antes da implementação no ambiente de produção.
 
 >[!AVAILABILITY]
 >
->Nem todos compraram esse recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter detalhes.
+>Nem todos compraram este recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
-Uma sandbox do Marketo não pode ser sincronizada com seu CRM comum se já estiver sincronizada com sua instância de produção. Use a sandbox do seu CRM para a sincronização e siga todas as mesmas etapas da sincronização original.
+Uma sandbox da Marketo não pode ser sincronizada com o seu CRM normal se já estiver sincronizada com a sua instância de produção. Use a sandbox do CRM para a sincronização e siga as mesmas etapas da sincronização original.
 
 ## O que você deve saber sobre sandboxes {#things-to-know-about-sandboxes}
 
-* Depois que a Equipe da conta do Adobe tiver sua sandbox configurada e enviar o convite, você deverá usar um endereço de email diferente para fazer logon que a instância de produção do Marketo.
-* Se quiser adicionar usuários, o processo será o mesmo que [adicionar usuários em produção](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Novamente, eles devem usar um endereço de email diferente se já tiverem um logon do Marketo.
-* Sua sandbox do Marketo começará vazia, mas terá os mesmos recursos disponíveis que a instância de produção.
-* Se você criar um programa em sua sandbox e deseja movê-lo para a produção, é possível executar um [importação de programas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
-* As sandboxes são limitadas, de modo que as instâncias de produção não sejam afetadas negativamente pelos ambientes de teste. Você pode enviar até 20 emails por execução de campanha.
+* Depois que a equipe de conta do Adobe configurar sua sandbox e enviar o convite, você deverá usar um endereço de email de logon diferente da instância de produção do Marketo.
+* Se quiser adicionar usuários, o processo será o mesmo que [adição de usuários na produção](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Novamente, eles devem usar um endereço de email diferente se já tiverem um logon no Marketo.
+* A sandbox da Marketo começará vazia, mas terá os mesmos recursos disponíveis que a instância de produção.
+* Se você criar um programa em sua sandbox e quiser movê-lo para a produção, é possível executar um [importação de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
+* As sandboxes são limitadas para que as instâncias de produção não sejam afetadas negativamente pelos ambientes de teste. Você pode enviar até 20 emails por execução de campanha.
 
 >[!CAUTION]
 >
->No momento, não oferecemos suporte à atualização da caixa de proteção para a Sincronização do Marketo Dynamics. Se você precisar atualizar a caixa de proteção do Dynamics CRM, será necessária uma nova caixa de proteção do Marketo. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>No momento, não oferecemos suporte à atualização de sandbox para o Marketo Dynamics Sync. Se você precisar atualizar sua sandbox do Dynamics CRM, uma nova sandbox do Marketo será necessária. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 ## Cópia da instância {#instance-copy}
 
-Você pode enviar um caso de suporte solicitando uma cópia de instância única para preencher a sandbox. A cópia da instância não será trazida _all_, no entanto. Consulte [Suporte Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obter detalhes.
+É possível enviar um caso de suporte solicitando uma cópia de instância única para preencher sua sandbox. A cópia da instância não trará _tudo_ No entanto. Consulte [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obter detalhes.
 
 >[!NOTE]
 >
->Se você estiver alterando seu CRM nativo, uma nova instância do Marketo será necessária e uma cópia da instância para a nova instância do Marketo não será possível. Em vez disso, trabalhe com o Suporte da Marketo para explorar a funcionalidade do Programa de Importação.
+>Se você estiver alterando seu CRM nativo, será necessária uma nova instância do Marketo e não será possível fazer uma cópia da instância para a nova instância do Marketo. Em vez disso, trabalhe com o Suporte da Marketo para explorar a funcionalidade do Programa de importação.

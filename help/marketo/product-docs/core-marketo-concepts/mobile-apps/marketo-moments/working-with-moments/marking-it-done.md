@@ -4,16 +4,16 @@ description: Marcando a conclusão - Documentação do Marketo - Documentação 
 title: Marcando como Concluído
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
 
 # Marcando como Concluído {#marking-it-done}
 
-Marque um programa de email, evento ou cartão de análise como Concluído para removê-lo do fluxo. Há duas maneiras de fazer isso.
+Marcar um programa de email, evento ou cartão de análise como [!UICONTROL Concluído] para removê-lo do seu fluxo. Há duas maneiras de fazer isso.
 
 >[!IMPORTANT]
 >
@@ -23,7 +23,7 @@ Marque um programa de email, evento ou cartão de análise como Concluído para 
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. Toque **Concluído**.
+1. Toque **[!UICONTROL Concluído]**.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
@@ -34,5 +34,3 @@ Marque um programa de email, evento ou cartão de análise como Concluído para 
    >[!NOTE]
    >
    >Marcar um cartão como Concluído não exclui o email, o evento ou a campanha inteligente. Ele só o move do fluxo Momentos/Depois para o fluxo Concluído.
-
-Pedaço de bolo!
