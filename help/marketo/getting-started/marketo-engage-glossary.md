@@ -4,7 +4,7 @@ description: Glossário do Marketo Engage - Documentação do Marketo - Document
 title: Glossário do Marketo Engage
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
 workflow-type: tm+mt
 source-wordcount: '4176'
 ht-degree: 4%
@@ -24,7 +24,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">Teste A/B</a></strong></td>
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">Teste A/B do </a></strong></td>
    <td colspan="1">Permite modificar componentes do email (por exemplo, linha de assunto, endereço de, etc.) e definir critérios de teste para determinar qual conjunto de conteúdo tem melhor desempenho.</td> 
   </tr> 
   <tr> 
@@ -172,7 +172,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
    <td colspan="1">No Marketo, você pode fazer duplicatas de vários tipos diferentes de entidades na sua instância. Você pode clonar <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programas</a>, um <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">ativo em um programa</a>, um <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">fluxo</a>e muito mais.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">A parte frontal do URL. A palavra (mais YourCompany.com) é chamada de CNAME (por exemplo, <em>informações</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -252,7 +252,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
    <td colspan="1">Um tipo de programa no Marketo. Um programa genérico que você usará quando um email, evento ou programa de engajamento não for relevante. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Entregabilidade</strong></td> 
+   <td colspan="1"><strong>Avaliação do delivery</strong></td> 
    <td colspan="1">A capacidade de uma mensagem de email de alcançar a caixa de entrada do destinatário pretendido, que pode ser afetada pelo <strong>spam</strong> e filtros do cliente. Diferente de "Entregue", que indica apenas que o email foi entregue ao servidor do recipient.</td> 
   </tr> 
   <tr> 
@@ -468,7 +468,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
   <tr> 
    <td> 
     <div> 
-     <p><strong>Página</strong></p> 
+     <p><strong>Página de destino</strong></p> 
     </div></td> 
    <td>Uma página hospedada pela Marketo que permite exibir <strong>conteúdo</strong> e rastrear visitantes. Há dois tipos diferentes: Forma livre e Guiado. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Páginas de aterrissagem de forma livre</a> permite que você arraste e solte qualquer conteúdo que desejar, onde quiser. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Páginas de aterrissagem guiadas</a> são mais rigorosas, com um layout/estrutura predefinido determinado pelo <strong>modelo</strong>.</td> 
   </tr> 
@@ -477,7 +477,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
    <td>Página inicial das melhores soluções integradas da Marketo, com centenas de parceiros de tecnologia e serviços digitais.</td> 
   </tr> 
   <tr> 
-   <td><strong>Cliente potencial</strong></td> 
+   <td><strong>Lead</strong></td> 
    <td>Entrada <strong>Adobe Marketo Engage</strong>, lead é o termo anterior (substituído por <strong>pessoa</strong>) usado para descrever um indivíduo no seu Marketo <strong>banco de dados</strong> que você está usando em suas campanhas de marketing. No seu <strong>CRM</strong>, um lead pode representar um conceito diferente (ou seja, um indivíduo associado a um <strong>oportunidade</strong>), independentemente da funcionalidade da Marketo.</td> 
   </tr> 
   <tr> 
@@ -631,7 +631,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
    <td colspan="1">Anteriormente conhecido como Marketo Performance Insights (MPI). Um recurso complementar de análise que usa várias ferramentas para ajudar você a descobrir tendências e identificar estratégias vencedoras consistentes.</td> 
   </tr> 
   <tr> 
-   <td><strong>Pessoa</strong></td> 
+   <td><strong>Pessoa do </strong></td> 
    <td>Um indivíduo em sua Marketo <strong>banco de dados</strong> com o qual você está se envolvendo por meio de campanhas de marketing.</td> 
   </tr> 
   <tr> 
@@ -755,7 +755,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
    <td colspan="1">(consulte <a href="#l"><strong>Lista</strong></a>)</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" rel="nofollow">Bloco de conteúdo</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" rel="nofollow">Trecho</a></strong></td> 
    <td colspan="1">Um bloco de <strong>conteúdo</strong> (texto, imagem) que podem ser pré-criados e inseridos rapidamente em <strong>landing pages</strong>/<strong>emails</strong> daqui para frente.</td> 
   </tr> 
   <tr> 
