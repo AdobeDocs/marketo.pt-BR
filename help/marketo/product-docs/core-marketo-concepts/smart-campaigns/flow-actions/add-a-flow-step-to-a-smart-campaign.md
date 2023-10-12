@@ -4,36 +4,32 @@ description: Adicionar uma etapa de fluxo a uma campanha inteligente - Documenta
 title: Adicionar uma etapa de fluxo a uma campanha inteligente
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5c146729757bc5f6b503ecde611c25dcdb0ad5b5
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 # Adicionar uma etapa de fluxo a uma campanha inteligente {#add-a-flow-step-to-a-smart-campaign}
 
-As etapas de fluxo informam à Marketo o que você deseja que aconteça com um grupo de pessoas que se qualificam. Elas são as suas instruções, e a campanha inteligente vai fazer o seu lance!
+As etapas de fluxo informam à Marketo o que você deseja que aconteça com um grupo de pessoas que se qualificam. Elas são as suas instruções e a Campanha Inteligente dará o seu lance!
 
 1. Ir para **Atividades de marketing**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
-1. Selecione a campanha inteligente e clique em **Fluxo**.
+1. Selecione a Campanha inteligente e clique em **Fluxo**.
 
-   ![](assets/image2014-9-19-16-3a27-3a1.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 
-   Digite para procurar uma etapa de fluxo, em seguida, arraste e solte-a na tela. Você pode adicionar várias etapas de fluxo - repita isso com cada etapa que deseja que a campanha execute.
+1. Digite para procurar uma etapa de fluxo, em seguida, arraste e solte-a na tela. Você pode adicionar várias etapas de fluxo - repita isso com cada etapa que deseja que a campanha execute.
 
-   ![](assets/image2014-9-19-16-3a27-3a7.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-3.png)
 
-1. Clique na lista suspensa e escolha uma opção apropriada.
+1. Clique na opção e no valor desejados.
 
-   ![](assets/four-1.png)
-
-1. Insira o valor.
-
-   ![](assets/changescorevalue-cursor.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-4.png)
 
 >[!NOTE]
 >
@@ -43,7 +39,7 @@ As etapas de fluxo informam à Marketo o que você deseja que aconteça com um g
 >
 >Uma linha vermelha rajada é exibida no caso de uma entrada inválida. Passe o mouse sobre a linha para ver como corrigi-la.
 
-Ótimo! Certifique-se de [revisar e validar a campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) antes de agendar ou ativar.
+Ótimo! Certifique-se de [revisar e validar a Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) antes de agendar ou ativar.
 
 >[!MORELIKETHIS]
 >
