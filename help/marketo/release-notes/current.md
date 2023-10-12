@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
+source-git-commit: a69c6955f0390f791d8e45056967e8f0eb4699d7
 workflow-type: tm+mt
-source-wordcount: '340'
-ht-degree: 7%
+source-wordcount: '347'
+ht-degree: 6%
 
 ---
 
@@ -42,8 +42,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
    <tr> 
    <td><strong>Serviço da Etapa de Fluxo de Cálculo de Fórmula</strong>: O serviço Compute Formula é um serviço de Etapa de Fluxo criado na plataforma Adobe IO Runtime para uso com Campanhas inteligentes Marketo Engage. Aqueles com tempo de execução de E/S podem implantar o serviço e instalá-lo em suas assinaturas de Marketo Engage, permitindo que calculem fórmulas semelhantes às do Excel em Campanhas inteligentes de Marketo Engage.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Guia do Usuário de Fórmula de Cálculo</a></td>
   </tr>
   <tr> 
    <td> </td> 
