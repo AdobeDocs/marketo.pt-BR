@@ -4,7 +4,7 @@ description: Entendendo meus tokens em um programa - Documentação do Marketo -
 title: Compreender meus tokens em um programa
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 3%
@@ -15,11 +15,11 @@ ht-degree: 3%
 
 Um token é uma variável que pode ser usada em emails, landing pages e campanhas inteligentes para facilitar sua vida.
 
-Além de Meus tokens, também é possível usar qualquer um dos tokens incorporados em seus programas. Confira o [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+Além de Meus tokens, também é possível usar qualquer um dos tokens incorporados em seus programas. Confira o [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Meus tokens  {#my-tokens}
 
-Meus tokens são variáveis personalizadas que podem ser criadas por qualquer pessoa. Eles são [criado](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) nas pastas de campanha ou nos programas.
+Meus tokens são variáveis personalizadas que podem ser criadas por qualquer pessoa. Eles são [criado](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} nas pastas de campanha ou nos programas.
 
 Meus tokens são exibidos assim: `{{my.Name Of Token}}`
 
@@ -61,7 +61,7 @@ Exemplos:
    <td>Use este token na <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">alterar etapa do fluxo de pontuação</a>. </td> 
   </tr> 
   <tr> 
-   <td colspan="1">SFDC - Campanha <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
+   <td colspan="1">Campanha do SFDC <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
    <td colspan="1">Use esse token para permitir que clientes potenciais que se tornarem parte de um programa do Marketo também sejam adicionados a qualquer campanha do SFDC que for adicionada.</td> 
   </tr> 
   <tr> 
@@ -93,5 +93,5 @@ A movimentação de programas e pastas também afeta tokens. Sempre verifique se
 
 >[!MORELIKETHIS]
 >
->* [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
->* [Gerenciamento de meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+>* [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [Gerenciamento de meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

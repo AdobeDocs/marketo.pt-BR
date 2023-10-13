@@ -4,7 +4,7 @@ description: Reprogramar um programa inteiro na exibição de programação - Do
 title: Reprogramando um Programa Inteiro na View Programação
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 1%
@@ -19,7 +19,7 @@ Ao clonar um programa ou evento com datas, você provavelmente desejará reagend
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Selecione o menu suspenso Ação de evento. Escolher **Reprogramar Entradas**.
+1. Selecione o menu suspenso Ação de evento. Escolher **[!UICONTROL Reprogramar Entradas]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +31,7 @@ Ao clonar um programa ou evento com datas, você provavelmente desejará reagend
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Clique em **Reprogramar**.
+1. Clique em **[!UICONTROL Reprogramar]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

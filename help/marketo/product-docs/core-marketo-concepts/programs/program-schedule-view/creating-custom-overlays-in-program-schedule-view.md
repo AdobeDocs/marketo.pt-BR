@@ -4,7 +4,7 @@ description: Criação de sobreposições personalizadas na exibição de progra
 title: Criação de sobreposições personalizadas na exibição de programação
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 1%
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 É possível criar sobreposições personalizadas para exibir entradas relevantes às suas necessidades.
 
-1. Clique em **Agenda** menu suspenso.
+1. Clique em **[!UICONTROL Agenda]** menu suspenso.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. Selecionar **Sobreposições**.
+1. Selecionar **[!UICONTROL Sobreposições]**.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Também é possível filtrar por [tags de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. Também é possível filtrar por [tags de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md){target="_blank"}.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

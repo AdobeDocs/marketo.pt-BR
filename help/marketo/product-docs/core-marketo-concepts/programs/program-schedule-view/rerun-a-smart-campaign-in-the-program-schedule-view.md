@@ -4,7 +4,7 @@ description: Execute novamente uma Campanha inteligente na Exibição de program
 title: Executar novamente uma Campanha Inteligente na Exibição de Programação do Programa
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Executar novamente uma Campanha Inteligente na Exibição de Programação do Programa {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
-Você pode criar facilmente novas execuções de uma campanha inteligente existente diretamente da exibição de programação do programa.
+Você pode criar facilmente novas execuções de uma Campanha inteligente existente diretamente da visualização do cronograma do programa.
 
-1. Ir para **Atividades de marketing**.
+1. Ir para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecione um programa que contenha sua campanha inteligente.
+1. Selecione um programa que contenha sua Campanha inteligente.
 
    ![](assets/image2015-4-16-14-3a40-3a11.png)
 
@@ -27,7 +27,7 @@ Você pode criar facilmente novas execuções de uma campanha inteligente existe
 
    ![](assets/image2015-4-16-14-3a42-3a0.png)
 
-1. Selecione o menu suspenso de menu de tipo de entrada e escolha a campanha inteligente que deseja executar novamente.
+1. Selecione o menu suspenso de tipo de entrada e escolha a Campanha inteligente que deseja executar novamente.
 
    ![](assets/image2015-4-16-15-3a26-3a33.png)
 
@@ -35,4 +35,4 @@ Você pode criar facilmente novas execuções de uma campanha inteligente existe
    >
    >Também é possível fazer isso no [foco do programa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
-Boom! Assim, você marcou outra corrida para essa campanha inteligente. Se essa campanha inteligente continha etapas de envio de email, você também as verá!
+Boom! Assim, você agendou outra execução para essa Campanha Inteligente. Se essa Campanha inteligente continha etapas de envio de email, você as verá também.

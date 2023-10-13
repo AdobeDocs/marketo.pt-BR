@@ -4,7 +4,7 @@ description: Noções básicas sobre datas provisórias/confirmadas - Documenta�
 title: Noções básicas sobre datas provisórias/confirmadas
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Noções básicas sobre datas provisórias/confirmadas {#understanding-tentative-confirmed-dates}
 
-Campanhas inteligentes e programas de e-mail têm um recurso poderoso para serem marcados como **Tentativa** ou **Confirmado**. É assim que funcionam.
+Campanhas inteligentes e programas de e-mail têm um recurso poderoso para serem marcados como **[!UICONTROL Tentativa]** ou **[!UICONTROL Confirmado]**. É assim que funcionam.
 
 ## Tentativa {#tentative}
 
@@ -47,7 +47,7 @@ As entradas confirmadas serão definitivamente executadas. Eles têm regras, ati
 
 ## Concluído  {#finished}
 
-As entradas concluídas já foram executadas. Eles só podem estar no passado (obviamente). Quando uma entrada é executada e **Concluído**, não é possível movê-lo ou torná-lo tentativo. (Sem alterar a realidade e interromper o fluxo contínuo de tempo.)
+As entradas concluídas já foram executadas. Eles só podem estar no passado (obviamente). Quando uma entrada é executada e **[!UICONTROL Concluído]**, não é possível movê-lo ou torná-lo tentativo. (Sem alterar a realidade e interromper o fluxo contínuo de tempo.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

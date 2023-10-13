@@ -4,9 +4,9 @@ description: Uso de uma sobreposição global - Documentação do Marketo - Docu
 title: Uso de uma sobreposição global
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ A sobreposição global na visualização de programação do programa permite q
 
 >[!PREREQUISITES]
 >
->Você deve ter um [Licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esse recurso.
+>Você deve ter um [Licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} para utilizar esse recurso.
 
 ## Usar a sobreposição global {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ A sobreposição global na visualização de programação do programa permite q
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Selecionar **Sobreposição** no canto inferior direito.
+1. Selecionar **[!UICONTROL Sobreposição]** no canto inferior direito.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,16 +39,16 @@ A sobreposição global na visualização de programação do programa permite q
 
 ## Usar um filtro salvo como sobreposição {#use-a-saved-filter-as-an-overlay}
 
-Se você tiver [salvou um filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), você pode usá-lo como uma sobreposição na exibição de cronograma do programa.
+Se você tiver [salvou um filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}, você pode usá-lo como uma sobreposição na exibição de cronograma do programa.
 
-1. Clique em **Sobreposição** e selecione a definição do filtro.
+1. Clique em **[!UICONTROL Sobreposição]** e selecione a definição do filtro.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
-   Que fácil! Agora você verá uma sobreposição definida pelo filtro salvo e selecionado.
+   Agora você verá uma sobreposição definida pelo filtro salvo e selecionado.
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
    >[!MORELIKETHIS]
    >
-   >[Criação de sobreposições personalizadas na visualização de programação](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
+   >[Criação de sobreposições personalizadas na visualização de programação](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}

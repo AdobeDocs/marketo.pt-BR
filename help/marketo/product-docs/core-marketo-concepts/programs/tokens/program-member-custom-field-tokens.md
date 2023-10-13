@@ -4,10 +4,10 @@ description: Tokens de campo personalizado de membros do programa - Documentaç�
 title: Tokens de campo personalizado de membros do programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
 **E-mails**
 
-1. Selecione o email desejado e clique em **Editar rascunho**.
+1. Selecione o email desejado e clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,11 +41,11 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Localize e selecione o Token do campo personalizado de membro do programa desejado, insira um valor padrão e clique em **Inserir**.
+1. Localize e selecione o Token do campo personalizado de membro do programa desejado, insira um valor padrão e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -55,7 +55,7 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
 **Páginas**
 
-1. Selecione a Landing Page e clique em **Editar rascunho**.
+1. Selecione a Landing Page e clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,17 +75,17 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. Insira um valor padrão e clique em **Inserir**.
+1. Insira um valor padrão e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **SMS**
 
-1. Selecione o SMS desejado e clique em **Editar rascunho**.
+1. Selecione o SMS desejado e clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
@@ -97,17 +97,17 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Clique no menu suspenso Ações de SMS e selecione **Aprovar e fechar**.
+1. Clique no menu suspenso Ações de SMS e selecione **[!UICONTROL Aprovar e fechar]**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **Notificações por push**
 
-1. Selecione a notificação por push desejada e clique em **Editar rascunho**.
+1. Selecione a notificação por push desejada e clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Clique em **Notificação por push**.
+1. Clique em **[!UICONTROL Notificação por push]**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
@@ -115,11 +115,11 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Localize e selecione o Token do campo personalizado de membro do programa desejado. Insira um valor padrão e clique em **Inserir**.
+1. Localize e selecione o Token do campo personalizado de membro do programa desejado. Insira um valor padrão e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Clique em **Concluir** para salvar e sair (ou **Próxima** para revisar primeiro).
+1. Clique em **[!UICONTROL Concluir]** para salvar e sair (ou **[!UICONTROL Próxima]** para revisar primeiro).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

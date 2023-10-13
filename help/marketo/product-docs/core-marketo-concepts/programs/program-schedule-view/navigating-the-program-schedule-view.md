@@ -4,7 +4,7 @@ description: Navegação na exibição de programação do programa - Documenta�
 title: Navegando na Exibição de Programação do Programa
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Estas são as noções básicas para ajudá-lo a navegar na exibição de progra
 
 ## Localizar a Exibição de Agendamento {#find-the-schedule-view}
 
-1. Ir para **Atividades de marketing**.
+1. Ir para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu programa. Clique em **Exibir** menu suspenso. Selecionar **Agendar**.
+1. Selecione seu programa. Clique em **[!UICONTROL Exibir]** menu suspenso. Selecionar **[!UICONTROL Agendar]**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ Estas são as noções básicas para ajudá-lo a navegar na exibição de progra
 
 ## Alteração entre modos {#changing-between-modes}
 
-1. Clicando em **3 Semanas** ou **Month** alterará as datas visíveis na exibição.
+1. Clicando em **[!UICONTROL 3 Semanas]** ou **[!UICONTROL Month]** alterará as datas visíveis na exibição.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -65,4 +65,4 @@ Estas são as noções básicas para ajudá-lo a navegar na exibição de progra
 
 >[!MORELIKETHIS]
 >
->[Criando uma Entrada na Exibição da Programação do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
+>[Criando uma Entrada na Exibição da Programação do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}
