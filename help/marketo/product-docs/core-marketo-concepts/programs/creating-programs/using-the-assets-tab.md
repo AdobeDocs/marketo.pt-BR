@@ -4,20 +4,20 @@ description: Uso da guia Ativos - Documentação do Marketo - Documentação do 
 title: Uso da guia Ativos
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '137'
 ht-degree: 4%
 
 ---
 
 # Uso da guia Ativos {#using-the-assets-tab}
 
-A tela de ativos é uma representação visual do seu programa. Você pode usá-lo para adicionar ativos locais, bem como para interagir com os existentes.
+A tela do ativo é uma representação visual do programa de evento ou padrão. Você pode usá-lo para adicionar ativos locais, bem como para interagir com os existentes.
 
 ## Adicionar ativos {#adding-assets}
 
-No **Atividades de marketing** clique na guia **Assets** guia. Escolha qualquer um dos ativos abaixo e adicione-os ao seu programa.
+Clique em **[!UICONTROL Assets]** no programa desejado. Escolha qualquer um dos ativos abaixo e adicione-os ao seu programa.
 
 ![](assets/programassets.png)
 

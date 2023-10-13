@@ -3,7 +3,7 @@ description: Noções básicas sobre rastreamento de meta e registros projetados
 title: Noções básicas sobre rastreamento de metas e registros projetados
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Noções básicas sobre rastreamento de metas e registros projetados {#understanding-goal-tracking-and-projected-registrations}
 
-Veja como rastrear o progresso de sua meta e entender as previsões da Marketo.
+Veja como rastrear o progresso de suas metas e entender as previsões da Marketo.
 
 >[!PREREQUISITES]
 >
@@ -44,17 +44,17 @@ Se você não ativou o switch de alternância, veja como ele aparecerá na inter
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
-Todos os membros (registrados e ainda não registrados) são categorizados com base em sua probabilidade de registro. Passe o mouse sobre o ícone de informações para ver como essas categorias de probabilidade são definidas.
+Todos os membros (registrados e ainda não registrados) são categorizados com base em sua probabilidade de registro. Passe o mouse sobre o ícone de informações para ver como essas categorias de probabilidade são definidas.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
->Os números de previsão são atualizados a cada 24 horas até o dia do evento. Todos os membros listados como _Processando_ serão incluídos no próximo ciclo de cálculo.
+>Os números de previsão são atualizados a cada 24 horas até o dia do evento. Todos os membros listados como _Processando_ serão incluídos no próximo ciclo de cálculo.
 
 ## Programas semelhantes
 
-Você pode obter alguns insights sobre seu evento atual observando o desempenho passado de programas semelhantes. Esta seção mostra até 5 programas semelhantes dos últimos 6 meses, com o número/porcentagem de membros que foram _Registrado_ ou superior.
+Você pode obter alguns insights sobre seu evento atual observando o desempenho passado de programas semelhantes. Esta seção mostra até 5 programas semelhantes dos últimos 6 meses, com o número/porcentagem de membros que foram _Registrado_ ou superior.
 
 Ao calcular programas semelhantes, incluímos os seguintes fatores, entre outros:
 
@@ -69,13 +69,13 @@ Ao calcular programas semelhantes, incluímos os seguintes fatores, entre outros
 
 ## Recomendações
 
-Na parte superior da página Relatórios, você pode encontrar recomendações orientadas por IA/ML com base em seu progresso. Verifique periodicamente se há dicas e insights úteis.
+Na parte superior do [!UICONTROL Relatórios] Você pode encontrar recomendações orientadas por IA/ML com base em seu progresso. Verifique periodicamente se há dicas e insights úteis.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Previsões no Nível da Pessoa
 
-Clique em **[!UICONTROL Membros]** para exibir todos os membros do programa. Passe o mouse sobre **[!UICONTROL Probabilidade de registro]** ou **[!UICONTROL Probabilidade de presença]** para ver porcentagens e categorizações exatas. Em seguida, você pode executar ações em membros de uma categoria específica (por exemplo, todos na categoria &quot;Menos provável&quot; de registro) e direcioná-los especificamente para aumentar potencialmente seus números de registro.
+Clique em **[!UICONTROL Membros]** para exibir todos os membros do programa. Passe o mouse sobre **[!UICONTROL Probabilidade de registro]** ou **[!UICONTROL Probabilidade de presença]** para ver porcentagens e categorizações exatas. Em seguida, você pode executar ações em membros de uma categoria específica (por exemplo, todos na categoria &quot;Menos provável&quot; de registro) e direcioná-los especificamente para aumentar potencialmente seus números de registro.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
