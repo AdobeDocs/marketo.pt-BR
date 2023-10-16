@@ -4,7 +4,7 @@ description: Pontuação da conta - Documentação do Marketo - Documentação d
 title: Pontuação de contas
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 1%
@@ -19,7 +19,7 @@ A Pontuação de conta é uma parte vital do Gerenciamento de conta do Target. I
 
 É uma abordagem sistemática projetada para ajudar as equipes de vendas e marketing a identificar e priorizar as empresas (incluindo clientes potenciais) com maior probabilidade de fazer uma compra.
 
-No mundo complexo de processos de compra B2B, é raro que um único indivíduo tome uma decisão de compra. Muitas vezes, há várias funções envolvidas, cada uma com suas próprias necessidades. A pontuação baseada em conta leva isso em consideração, agregando as pontuações de lead de vários leads e fornecendo uma pontuação em um nível de conta.
+No mundo complexo dos processos de compra B2B, é raro que um único indivíduo tome uma decisão de compra. Muitas vezes, há várias funções envolvidas, cada uma com suas próprias necessidades. A pontuação baseada em conta leva isso em consideração, agregando as pontuações de lead de vários leads e fornecendo uma pontuação em um nível de conta.
 
 ## Exemplos comuns {#common-examples}
 
@@ -59,7 +59,7 @@ Depois de configurar a pontuação de lead, continue seguindo as etapas abaixo.
 
 1. Clique em **Admin**.
 
-   ![](assets/one-1.png)
+   ![](assets/account-score-1.png)
 
 1. Clique em **Gerenciamento de conta do Target**.
 
@@ -75,12 +75,12 @@ Depois de configurar a pontuação de lead, continue seguindo as etapas abaixo.
 
 1. Insira o nome da Pontuação da conta, clique no ícone **Selecionar pontuação de pessoa** e selecione a pontuação correspondente.
 
-   ![](assets/four.png)
+   ![](assets/account-score-4.png)
 
 1. Clique em **+Adicionar** para adicionar mais pontuações.
 
-   ![](assets/five.png)
+   ![](assets/account-score-5.png)
 
 1. Adicione todas as pontuações desejadas. Clique em **Salvar** quando terminar.
 
-   ![](assets/six.png)
+   ![](assets/account-score-6.png)

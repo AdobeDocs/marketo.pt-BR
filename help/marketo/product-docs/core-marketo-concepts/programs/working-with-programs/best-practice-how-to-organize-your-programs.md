@@ -4,9 +4,9 @@ description: Prática recomendada - Como organizar seus programas - Documentaç�
 title: Prática recomendada - Como organizar seus programas
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '844'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Há muitas maneiras de organizar a árvore em Atividades de marketing, bem como 
 
 >[!TIP]
 >
->Um dia, (quando você é promovido!) outra pessoa tentará dar sentido aos seus programas. Uma boa organização os ajudará a se tornarem produtivos rapidamente.
+>Um dia (quando você for promovido!), outra pessoa tentará dar sentido aos seus programas. Uma boa organização os ajudará a se tornarem produtivos rapidamente.
 
 ## Pastas {#folders}
 
@@ -29,12 +29,12 @@ Em Atividades de marketing, você deve usar pastas para organizar seus programas
 >
 >* Programas de marketing ativos
 >   * E-mails
->   * Eventos
+>   * Eventos do 
 >      * Eventos ao vivo/Roadshows
 >      * Feiras de Negócios
 >      * Webinars
 >   * Boletins informativos
->   * Promoção
+>   * Nutrição
 >   * Conteúdo da Web
 >   * Formulários da Web
 >* Aprendizagem
@@ -55,7 +55,7 @@ Cada um desses mencionados no exemplo é uma pasta. Observe como todos eles são
 
 >[!TIP]
 >
->A pasta &quot;Arquivar&quot; é um tipo especial de pasta projetada para remover itens de listas selecionadas, bem como relatórios. Isso ajudará o seu sistema a ser executado mais rapidamente. Saiba mais [mais sobre pastas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>A pasta &quot;Arquivar&quot; é um tipo especial de pasta projetada para remover itens de listas selecionadas, bem como relatórios. Isso ajudará o seu sistema a ser executado mais rapidamente. Saiba mais [mais sobre pastas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 Você certamente pode adicionar mais pastas conforme desejar. Lembre-se de que as futuras gerações de profissionais de marketing em sua empresa estarão de acordo com suas decisões sobre como nomear/organizar itens.
 
@@ -75,7 +75,7 @@ A nomenclatura é essencial, pois todos os recursos do Marketo usam uma linguage
 >1. Newsletter NL 2015-06
 >1. Tópico do webinário da WBN 2015-12-01 aqui
 
-Os nomes dos programas precisam ser exclusivos em sua assinatura, mesmo em [espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Para os ativos locais dentro de programas, a regra é **mantenha o nome simples**. Basta nomear um convite como &quot;Convite&quot;, em vez de &quot;Convite para webinário de junho de 2015&quot;. Como estão em um programa, o programa principal faz parte automaticamente do nome ao selecioná-lo em outro lugar. Em outras palavras, os ativos locais só precisam ser exclusivos dentro do programa. Você pode ter centenas de ativos chamados &quot;Convidar&quot;, cada um em um programa diferente e isso não vai atrapalhar você.
+Os nomes dos programas precisam ser exclusivos em sua assinatura, mesmo em [espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  Para os ativos locais dentro de programas, a regra é **mantenha o nome simples**. Basta nomear um convite como &quot;Convite&quot;, em vez de &quot;Convite para webinário de junho de 2015&quot;. Como estão em um programa, o programa principal faz parte automaticamente do nome ao selecioná-lo em outro lugar. Em outras palavras, os ativos locais só precisam ser exclusivos dentro do programa. Você pode ter centenas de ativos chamados &quot;Convidar&quot;, cada um em um programa diferente e isso não vai atrapalhar você.
 
 ## Tokens {#tokens}
 
@@ -89,15 +89,15 @@ A organização mencionada acima permite que você coloque tokens na pasta Event
 >
 >**Seu endereço corporativo**. Use um token em vez de gravá-lo sempre. Dessa forma, você pode atualizá-lo em um local sem precisar criar muitos rascunhos. Em seguida, substitua o token, conforme necessário, em uma pasta de nível inferior.
 
-## Eventos {#events}
+## Eventos do  {#events}
 
 Um Evento geralmente tem muitas partes móveis, incluindo: convites, páginas de aterrissagem, formulários, widgets sociais e campanhas inteligentes. A prática recomendada para organizá-los para facilitar o uso é na fase do Evento. Este é um exemplo de como a árvore de pastas deve procurar um Evento.
 
 ![](assets/capture.png)
 
-## Programas de envolvimento {#engagement-programs}
+## Programas de engajamento {#engagement-programs}
 
-Saiba mais [tudo sobre programas de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). A melhor maneira de organizar seu programa de engajamento é com pastas. Crie uma pasta para cada fluxo e coloque os emails ou programas nessa pasta. Inclua uma pasta de arquivamento em cada fluxo quando o conteúdo se tornar obsoleto e você quiser removê-lo.
+Saiba mais [tudo sobre programas de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. A melhor maneira de organizar seu programa de engajamento é com pastas. Crie uma pasta para cada fluxo e coloque os emails ou programas nessa pasta. Inclua uma pasta de arquivamento em cada fluxo quando o conteúdo se tornar obsoleto e você quiser removê-lo.
 
 ## Programas Operacionais {#operational-programs}
 
@@ -121,4 +121,4 @@ Algumas pessoas até abstraem a maior parte do texto nos emails e landing pages 
 
 ## Resumo {#summary}
 
-Como você pode ver, há muito poder no Marketo. Abordamos as noções básicas aqui, mas considere algumas [serviços adicionais de especialistas da Marketo](https://www.marketo.com/services/) para ajustar e preparar-se para o sucesso.
+Como você pode ver, há muito poder no Marketo. Abordamos as noções básicas aqui, mas considere os serviços adicionais da [especialistas do Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} para ajustar e preparar-se para o sucesso.

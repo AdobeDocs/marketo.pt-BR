@@ -4,9 +4,9 @@ description: Clonar um programa - Documentação do Marketo - Documentação do 
 title: Clonar um programa
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Clone de maneira rápida e fácil um programa inteiro e todos os seus ativos, em vez de reconstruir tudo manualmente.
 
-1. Localize e selecione o programa que deseja clonar e, em seguida, em **Ações do programa** click **Clonar**.
+1. Localize e selecione o programa que deseja clonar. No **[!UICONTROL Ações do programa]** , clique em **[!UICONTROL Clonar]**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -31,7 +31,7 @@ Clone de maneira rápida e fácil um programa inteiro e todos os seus ativos, em
    >
    >Você vê essa NOTA na captura de tela acima? Isso significa que se você clonar um programa com 1000 ou mais pessoas em uma lista, a lista será clonada, mas estará vazia. Se você clonar um programa com uma lista que contenha 999 pessoas ou menos, essa lista, juntamente com todos os seus membros, será exibida no programa clonado.
 
-1. Insira um Nome.
+1. Insira um [!UICONTROL Nome].
 
    ![](assets/cloneprogramname.png)
 
@@ -39,7 +39,7 @@ Clone de maneira rápida e fácil um programa inteiro e todos os seus ativos, em
 
    ![](assets/choosefolderclone.png)
 
-1. Adicione uma descrição opcional e clique em **Criar**. Veja a rapidez com que você conseguiu criar um novo programa com todos os seus ativos prontos para uso.
+1. Adicione uma descrição opcional e clique em **[!UICONTROL Criar]**. Veja a rapidez com que você conseguiu criar um novo programa com todos os seus ativos prontos para uso.
 
    ![](assets/createclone.png)
 

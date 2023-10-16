@@ -4,7 +4,7 @@ description: Importar membros de uma planilha para um programa - Documentação 
 title: Importar Membros de uma Planilha para um Programa
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,35 +23,35 @@ Você pode importar uma lista de pessoas que se tornam automaticamente membros d
 
    >[!CAUTION]
    >
-   >Ao importar uma data em um campo de data, use este formato: 29/9/13 (Mês/Dia/Ano).
+   >Ao importar uma data em um campo de data, use este formato: 29/9/24 (Mês/Dia/Ano).
 
 ## Importar seu CSV para o Marketo {#import-your-csv-into-marketo}
 
-1. No seu programa, acesse o **Membros** seção.
+1. No seu programa, acesse o **[!UICONTROL Membros]** seção.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Clique em **Importar membros**.
+1. Clique em **[!UICONTROL Importar membros]**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Selecione o CSV e clique em **Próxima**.
+1. Selecione o CSV e clique em **[!UICONTROL Próxima]**.
 
    ![](assets/importlist1.png)
 
-1. Mapeie os valores de dados da lista para os Campos Marketo correspondentes e clique em **Próxima**.
+1. Mapeie os valores de dados da lista para os Campos Marketo correspondentes e clique em **[!UICONTROL Próxima]**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >Se houver campos que você não deseja importar, selecione **IGNORAR** no menu suspenso Marketo Field.
+   >Se houver campos que você não deseja importar, selecione **[!UICONTROL IGNORAR]** no menu suspenso Marketo Field.
 
-1. Selecione o **Status do membro** para a sua lista.
+1. Selecione o **[!UICONTROL Status do membro]** para a sua lista.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Clique em **Importar**.
+1. Clique em **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
@@ -65,4 +65,4 @@ Você pode importar uma lista de pessoas que se tornam automaticamente membros d
 
 >[!MORELIKETHIS]
 >
->[Gerenciar e Exibir Membros](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
+>[Gerenciar e Exibir Membros](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}

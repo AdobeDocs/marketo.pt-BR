@@ -4,9 +4,9 @@ description: Excluir um programa - Documentação do Marketo - Documentação do
 title: Excluir um programa
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -19,19 +19,19 @@ Você pode arquivar um programa, mas às vezes só quer se livrar dele permanent
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Clique em **Ações do programa**. Clique em **Excluir**.
+1. Clique em **[!UICONTROL Ações do programa]** e selecione **[!UICONTROL Excluir]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Selecione a opção Excluir tudo. Revise os efeitos colaterais da exclusão do programa e clique em **Excluir** para confirmar.
+1. Selecione o botão de opção &quot;Excluir tudo...&quot;. Analise os efeitos da exclusão do programa e clique em **[!UICONTROL Excluir]** para confirmar.
 
 >[!TIP]
 >
->**Programas de arquivamento** mantém os dados do programa, mas coloca o programa fora do seu caminho. Selecione essa opção e clique em **Próxima** para ver mais detalhes sobre arquivamento.
+>Programas de arquivamento mantêm os dados do programa, mas o coloca fora do seu caminho. Selecione essa opção e clique em **[!UICONTROL Próxima]** para ver mais detalhes sobre arquivamento.
 
 ![](assets/2017-05-05-15-04-15.png)
 
-Feito. É como se o programa nunca tivesse existido.
+Concluído. É como se o programa nunca tivesse existido.
 
 ## Por que não posso excluir meu programa? {#why-cant-i-delete-my-program}
 
@@ -43,7 +43,7 @@ Para corrigir o problema, talvez seja necessário detalhar e cancelar a aprovaç
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Clique em **Usado por** para ver onde o ativo está em uso.
+1. Clique em **[!UICONTROL Usado por]** para ver onde o ativo está em uso.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

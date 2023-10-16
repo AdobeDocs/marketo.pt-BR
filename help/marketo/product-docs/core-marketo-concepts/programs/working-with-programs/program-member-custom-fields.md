@@ -4,7 +4,7 @@ description: Campos personalizados de membros do programa - Documentação do Ma
 title: Campos Personalizados de Membros do Programa
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 1%
@@ -17,15 +17,15 @@ Os campos personalizados do Membro do Programa permitem coletar dados específic
 
 ## Criar um campo personalizado de membro do programa {#create-a-program-member-custom-field}
 
-1. No Marketo, clique em **Admin**.
+1. No Marketo, clique em **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Clique em **Gerenciamento de campo**.
+1. Clique em **[!UICONTROL Gerenciamento de campo]**.
 
    ![](assets/two.png)
 
-1. Clique em **Novo campo personalizado**.
+1. Clique em **[!UICONTROL Novo campo personalizado]**.
 
    ![](assets/three.png)
 
@@ -37,7 +37,7 @@ Os campos personalizados do Membro do Programa permitem coletar dados específic
    >
    >Campos personalizados de Pessoa e Membro do Programa não podem compartilhar o mesmo nome.
 
-1. Preencha os campos restantes e clique em **Criar**.
+1. Preencha os campos restantes e clique em **[!UICONTROL Criar]**.
 
    ![](assets/five.png)
 
@@ -51,7 +51,7 @@ Os campos personalizados do Membro do Programa permitem coletar dados específic
 |---|---|
 | Empresa | O nome da empresa associada à pessoa. |
 | Oportunidade | Uma oportunidade pode ser associada a uma pessoa ou conta como uma possível venda futura. Normalmente, entram no Marketo por meio de um CRM ou por meio da API. |
-| Pessoa | Um indivíduo no banco de dados do Marketo com o qual você está se envolvendo por meio de campanhas de marketing. |
+| Pessoa do  | Um indivíduo no banco de dados do Marketo com o qual você está se envolvendo por meio de campanhas de marketing. |
 | Membro de programa | Pessoa que também é membro de um programa |
 
 ## Acionadores e filtros {#triggers-and-filters}

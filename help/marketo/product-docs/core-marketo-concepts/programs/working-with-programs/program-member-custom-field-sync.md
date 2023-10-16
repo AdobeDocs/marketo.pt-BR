@@ -3,10 +3,10 @@ description: Sincronização de campo personalizado do membro do programa - Docu
 title: Sincronização de Campo Personalizado de Membro do Programa
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 7%
+source-wordcount: '353'
+ht-degree: 8%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 7%
 
 ## Mapear campos do Salesforce para campos personalizados de membros do programa {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. No Marketo, clique em **Admin**.
+1. No Marketo, clique em **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Clique em **Salesforce** e, em seguida, clique em **Editar** ao lado de Sincronização de campo personalizado do membro do programa.
+1. Clique em **[!DNL Salesforce]** e, em seguida, clique em **[!UICONTROL Editar]** ao lado de Sincronização de campo personalizado do membro do programa.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 7%
 
 1. Para mapeamentos de campo adicionais, desmarque a caixa de pesquisa e repita as etapas de 3 a 5.
 
-1. Clique em **Salvar** quando terminar.
+1. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 7%
 
 Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteração geral, execute um cancelamento de mapeamento primeiro. Veja como.
 
-1. No Marketo, clique em **Admin**.
+1. No Marketo, clique em **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Clique em **Salesforce** e, em seguida, clique em **Editar** ao lado de Sincronização de campo personalizado do membro do programa.
+1. Clique em **[!DNL Salesforce]** e, em seguida, clique em **[!UICONTROL Editar]** ao lado de Sincronização de campo personalizado do membro do programa.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,13 +79,13 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
 
    >[!TIP]
    >
-   >É possível selecionar a variável **Mapeado** para ver apenas os campos mapeados.
+   >É possível selecionar a variável **[!UICONTROL Mapeado]** para ver apenas os campos mapeados.
 
 1. Desmapeie clicando no ícone **X** ao lado do campo.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. O mapeamento foi removido. Clique em **Salvar**.
+1. O mapeamento foi removido. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/program-member-custom-field-sync-11.png)
 

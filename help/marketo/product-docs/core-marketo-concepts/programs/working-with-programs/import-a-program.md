@@ -4,7 +4,7 @@ description: Importar um programa - Documentação do Marketo - Documentação d
 title: Importar um programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Um programa pode ser importado de uma assinatura do Marketo para outra. Por exem
 
 ## Importando um programa {#importing-a-program}
 
-1. Ir para **Atividades de marketing**.
+1. Ir para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/import-a-program-1.png)
 
-1. Clique em **Novo** e selecione **Importar programa**.
+1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Importar programa]**.
 
    ![](assets/import-a-program-2.png)
 
@@ -31,19 +31,19 @@ Um programa pode ser importado de uma assinatura do Marketo para outra. Por exem
    >
    >Para conectar uma conta de sandbox à sua assinatura live, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Selecionar um Marketo **Inscrição** e um programa para importar. Clique em **Próximo**.
+1. Selecionar um Marketo **[!UICONTROL Inscrição]** e um programa para importar. Clique em **[!UICONTROL Próximo]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Especificar um **Pasta do Campaign** para o programa importado. Clique em **Próximo.**
+1. Especificar um **[!UICONTROL Pasta do Campaign]** para o programa importado. Clique em **[!UICONTROL Próximo]**.
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >Verifique se **Usar conflito padrão** regras está selecionada. As regras de conflito são necessárias ao importar programas para uma instância que tenha ativos com o mesmo nome.
+   >Verifique se **[!UICONTROL Usar conflito padrão]** regras está selecionada. As regras de conflito são necessárias ao importar programas para uma instância que tenha ativos com o mesmo nome.
 
-1. Escolha os Detalhes do Conflito desejados e clique em **Próxima**.
+1. Escolha os Detalhes do Conflito desejados e clique em **[!UICONTROL Próxima]**.
 
    ![](assets/import-a-program-5.png)
 
@@ -51,7 +51,7 @@ Um programa pode ser importado de uma assinatura do Marketo para outra. Por exem
    >
    >Ao importar um programa que use Etapas de fluxo personalizadas ou regras de Smart List derivadas de um Serviço de Etapa de Fluxo para uma instância de destino em que haja mais de um provedor de serviços compatível, o usuário importador será solicitado a atribuir etapas ou regras ao provedor de serviços correto na instância de destino.
 
-1. Visualizar detalhes e **Importar** programa.
+1. Visualizar detalhes e **[!UICONTROL Importar]** programa.
 
    ![](assets/import-a-program-6.png)
 
@@ -75,7 +75,7 @@ Os programas usam ativos externos, como modelos de email, modelos de landing pag
 
 >[!CAUTION]
 >
->Meus tokens de tipo de imagem não são compatíveis com importações de programas. Se um programa com tipo de imagem de meus tokens for importado, **não** tokens aparecerão.
+>Meus tokens de tipo de imagem não são compatíveis com importações de programas. Se um programa com tipo de imagem de meus tokens for importado, _não_ tokens aparecerão.
 
 **Tags do programa:** Você pode usar regras de conflito para controlar como as tags de programa que não existem na conta de destino serão tratadas. Usar a regra padrão criará as tags do programa ou você poderá optar por ignorá-las.
 
