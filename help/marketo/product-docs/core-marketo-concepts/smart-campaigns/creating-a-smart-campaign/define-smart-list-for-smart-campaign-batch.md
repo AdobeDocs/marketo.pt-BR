@@ -4,18 +4,18 @@ description: Definir lista inteligente para o Smart Campaign | Lote - Documenta�
 title: Definir lista inteligente para o Smart Campaign | Lote
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # Definir lista inteligente para o Smart Campaign | Lote {#define-smart-list-for-smart-campaign-batch}
 
-As Smart Lists são o mecanismo usado no Marketo para definir &quot;quem&quot; (quais pessoas) incluir, seja um relatório, uma lista ou uma Campanha inteligente. Veja como definir uma Smart List para uma campanha em lote.
+As Smart Lists são o mecanismo usado no Marketo Engage para definir &quot;quem&quot; (quais pessoas) incluir, seja um relatório, uma lista ou uma Campanha inteligente. Veja como definir uma Smart List para uma campanha em lote.
 
-1. Escolha uma Campanha inteligente e clique em **Lista inteligente**.
+1. Escolha uma Campanha inteligente e clique em **[!UICONTROL Lista inteligente]**.
 
    ![](assets/define-smart-list-for-smart-campaign-batch-1.png)
 
@@ -25,11 +25,11 @@ As Smart Lists são o mecanismo usado no Marketo para definir &quot;quem&quot; (
 
    >[!NOTE]
    >
-   >Uma campanha inteligente com apenas filtros é executada no **Lote** modo. Ele encontra pessoas no banco de dados que se qualificam com base nos filtros e executa todas elas ao mesmo tempo pelo fluxo.
+   >Uma campanha inteligente com apenas filtros é executada no _Lote_ modo. Ele encontra pessoas no banco de dados que se qualificam com base nos filtros e executa todas elas pelo fluxo de uma vez.
 
    >[!NOTE]
    >
-   >Você pode fazer com que uma Campanha inteligente seja executada em uma pessoa de cada vez com base em eventos ao vivo adicionando acionadores, o que coloca a Campanha inteligente no estado **Acionador** modo.
+   >Você pode fazer com que uma Campanha inteligente seja executada em uma pessoa de cada vez com base em eventos ao vivo adicionando acionadores, o que coloca a Campanha inteligente no estado _Acionador_ modo.
 
 1. Clique na lista suspensa e escolha um operador de filtro para o filtro escolhido.
 
@@ -45,11 +45,11 @@ As Smart Lists são o mecanismo usado no Marketo para definir &quot;quem&quot; (
 
    >[!NOTE]
    >
-   >Por padrão, as pessoas que atendem a TODAS as regras da Smart List são qualificadas. Isso pode ser modificado para atender às suas necessidades de campanha. Confira  [Regras da lista inteligente para lógica complexa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) para saber mais.
+   >Por padrão, as pessoas que atendem a TODAS as regras da Smart List são qualificadas. Isso pode ser modificado para atender às suas necessidades de campanha. Confira  [Regras da lista inteligente para lógica complexa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"} para saber mais.
 
-   Para acionar em eventos ao vivo uma pessoa por vez, saiba como [Definir lista inteligente para o Smart Campaign | Acionador](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md).
+   Para acionar em eventos ao vivo uma pessoa por vez, saiba como [Definir lista inteligente para o Smart Campaign | Acionador](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >
-   >* [Definir lista inteligente para o Smart Campaign | Acionador](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
-   >* [Adicionar uma etapa de fluxo a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Definir lista inteligente para o Smart Campaign | Acionador](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [Adicionar uma etapa de fluxo a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

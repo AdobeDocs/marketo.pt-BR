@@ -4,7 +4,7 @@ description: Anexar dados a um campo - Documentação do Marketo - Documentaçã
 title: Anexar dados a um campo
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 1%
@@ -17,13 +17,13 @@ Há uma maneira fácil de anexar dados a um campo. Veja como.
 
 >[!PREREQUISITES]
 >
->[Criar uma campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[Criar uma campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
 
 >[!NOTE]
 >
->As etapas abaixo também se aplicam a [Alterar dados dos membros do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
+>As etapas abaixo também se aplicam a [Alterar dados dos membros do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
 
-1. No **Fluxo** arraste na guia **Alterar valor dos dados** etapa do fluxo.
+1. No **[!UICONTROL Fluxo]** arraste na guia **[!UICONTROL Alterar valor dos dados]** etapa do fluxo.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 

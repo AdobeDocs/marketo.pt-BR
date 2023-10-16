@@ -3,7 +3,7 @@ description: Guia rápido - Documentação do Marketo - Documentação do produt
 title: Guia rápido
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 2%
@@ -46,4 +46,4 @@ Somente API Marketo Engage Os usuários devem ser criados e gerenciados no Marke
 
 ## Perguntas frequentes {#faq}
 
-[Perguntas frequentes](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#faq){target="_blank"}
+[Perguntas frequentes](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

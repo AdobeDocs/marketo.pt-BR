@@ -4,9 +4,9 @@ description: Criar uma nova campanha inteligente - Documentação do Marketo - D
 title: Criar uma nova campanha inteligente
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ As Campanhas inteligentes são a ferramenta mais importante do Marketo Engage. E
 >
 >Saiba mais sobre [Campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. Ir para **Atividades de marketing**.
+1. Ir para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. Clique com o botão direito no programa desejado e selecione **Nova campanha inteligente**.
+1. Clique com o botão direito no programa desejado e selecione **[!UICONTROL Nova campanha inteligente]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -31,7 +31,7 @@ As Campanhas inteligentes são a ferramenta mais importante do Marketo Engage. E
    >
    >Você pode criar Campanhas inteligentes como ativos locais de qualquer programa.
 
-1. Insira o nome da Campanha inteligente e clique em **Criar**.
+1. Insira o nome da Campanha inteligente e clique em **[!UICONTROL Criar]**.
 
    ![](assets/create-a-new-smart-campaign-3.png)
 

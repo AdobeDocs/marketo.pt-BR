@@ -4,7 +4,7 @@ description: Definir lista inteligente para o Smart Campaign | Acionador - Docum
 title: Definir lista inteligente para o Smart Campaign | Acionador
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Faça uma Campanha inteligente ser executada em uma pessoa por vez com base em eventos ao vivo adicionando acionadores.
 
-1. Na Campanha inteligente, clique na guia **Lista inteligente** guia.
+1. Na Campanha inteligente, clique na guia **[!UICONTROL Lista inteligente]** guia.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -25,11 +25,11 @@ Faça uma Campanha inteligente ser executada em uma pessoa por vez com base em e
 
    >[!NOTE]
    >
-   >Uma campanha inteligente com acionadores é executada no **Acionador** modo. Ele é executado em uma pessoa por vez com base em eventos acionados e em filtros adicionais.
+   >Uma campanha inteligente com acionadores é executada no _Acionador_ modo. Ele é executado em uma pessoa por vez com base em eventos acionados e em filtros adicionais.
 
    >[!IMPORTANT]
    >
-   >Ao usar um campo booleano em uma lista inteligente de campanha de acionadores, você deve defini-lo explicitamente como &quot;false&quot; para que o campo seja avaliado corretamente durante a execução da campanha.
+   >Ao usar um campo booleano em uma Smart List de campanha de acionador, você deve defini-lo explicitamente como &quot;false&quot; para que o campo seja avaliado corretamente durante a execução da campanha.
 
 1. Clique na lista suspensa e escolha um operador.
 
@@ -49,10 +49,10 @@ Faça uma Campanha inteligente ser executada em uma pessoa por vez com base em e
 
    >[!NOTE]
    >
-   >Com vários acionadores, uma pessoa passa pelo fluxo se **QUALQUER** um dos acionadores é ativado.
+   >Com vários acionadores, uma pessoa passa pelo fluxo se _QUALQUER_ um dos acionadores é ativado.
 
-Para executar a campanha em um conjunto de pessoas ao mesmo tempo, saiba como [Definir lista inteligente para o Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+Para executar a campanha em um conjunto de pessoas ao mesmo tempo, saiba como [Definir lista inteligente para o Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Adicionar uma etapa de fluxo a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Adicionar uma etapa de fluxo a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

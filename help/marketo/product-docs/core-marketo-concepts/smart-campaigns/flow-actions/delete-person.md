@@ -4,9 +4,9 @@ description: Excluir pessoa - Documentação do Marketo - Documentação do prod
 title: Excluir pessoa
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Pessoas erradas às vezes entram no banco de dados. A etapa de fluxo Excluir pes
 
 ## Visão geral {#overview}
 
-Use a etapa de fluxo em uma campanha inteligente.
+Use a etapa de fluxo em uma Campanha inteligente.
 
 ![](assets/one-4.png)
 
@@ -31,10 +31,10 @@ Ao arrastar na etapa de fluxo, ele também será automaticamente definido para e
 
 ![](assets/two-4.png)
 
-Você pode excluir do Marketo e não do seu CRM, da seguinte maneira:
+Você pode excluir do Marketo Engage e não do CRM, da seguinte maneira:
 
 ![](assets/three-3.png)
 
 >[!NOTE]
 >
->Removendo a pessoa do seu CRM **funciona somente com o Salesforce**. Se você excluir uma pessoa do Marketo e optar por mantê-la no Salesforce, ela será recriada no Marketo se o registro do Salesforce for atualizado.
+>Removendo a pessoa do seu CRM _só funciona com[!DNL Salesforce]_. Se você excluir uma pessoa do Marketo e optar por mantê-la [!DNL Salesforce], eles serão recriados no Marketo se seus [!DNL Salesforce] registro é atualizado.

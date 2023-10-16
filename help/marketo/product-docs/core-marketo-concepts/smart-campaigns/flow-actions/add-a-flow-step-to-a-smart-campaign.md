@@ -4,22 +4,22 @@ description: Adicionar uma etapa de fluxo a uma campanha inteligente - Documenta
 title: Adicionar uma etapa de fluxo a uma campanha inteligente
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 5c146729757bc5f6b503ecde611c25dcdb0ad5b5
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # Adicionar uma etapa de fluxo a uma campanha inteligente {#add-a-flow-step-to-a-smart-campaign}
 
-As etapas de fluxo informam à Marketo o que você deseja que aconteça com um grupo de pessoas que se qualificam. Elas são as suas instruções e a Campanha Inteligente dará o seu lance!
+Etapas de fluxo informam ao Marketo Engage o que você deseja que aconteça com um grupo de pessoas que se qualificam.
 
-1. Ir para **Atividades de marketing**.
+1. Ir para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
-1. Selecione a Campanha inteligente e clique em **Fluxo**.
+1. Selecione a Campanha inteligente e clique em **[!UICONTROL Fluxo]**.
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 
@@ -33,15 +33,15 @@ As etapas de fluxo informam à Marketo o que você deseja que aconteça com um g
 
 >[!NOTE]
 >
->As etapas de fluxo são executadas na ordem em que são listadas.  [Reordenar as etapas do fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) para garantir que estejam na sequência correta.
+>As etapas de fluxo são executadas na ordem em que são listadas. [Reordenar as etapas do fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} para garantir que estejam na sequência correta.
 
 >[!TIP]
 >
 >Uma linha vermelha rajada é exibida no caso de uma entrada inválida. Passe o mouse sobre a linha para ver como corrigi-la.
 
-Ótimo! Certifique-se de [revisar e validar a Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) antes de agendar ou ativar.
+Ótimo! Certifique-se de [revisar e validar a Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} antes de agendar ou ativar.
 
 >[!MORELIKETHIS]
 >
->* [Usar Adicionar escolha em uma etapa de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
->* [Reordenar as etapas de fluxo em uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
+>* [Usar Adicionar escolha em uma etapa de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
+>* [Reordenar as etapas de fluxo em uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}

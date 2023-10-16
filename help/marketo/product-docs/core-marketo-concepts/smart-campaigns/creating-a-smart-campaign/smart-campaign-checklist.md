@@ -4,7 +4,7 @@ description: Lista de verificação do Smart Campaign - Documentação do Market
 title: Lista de verificação do Smart Campaign
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Siga as etapas abaixo para garantir a execução perfeita da Campanha inteligent
 
 ## Livrar-se dos erros da lista inteligente {#get-rid-of-smart-list-errors}
 
-Na Campanha inteligente, clique em **Lista inteligente**. Livre-se de linhas vermelhas sinuosas que você vê corrigindo os erros.
+Na Campanha inteligente, clique em **[!UICONTROL Lista inteligente]**. Livre-se de linhas vermelhas sinuosas que você vê corrigindo os erros.
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -25,15 +25,15 @@ Na Campanha inteligente, clique em **Lista inteligente**. Livre-se de linhas ver
 >
 >Linhas vermelhas sinuosas indicam erros ou informações ausentes. Se não for corrigida, a campanha será inválida e não será executada.
 >
->Além disso, **mantenha as coisas simples**. Se você tem dezenas ou centenas de filtros, é difícil mantê-los e rastreá-los. Menos filtros também são mais rápidos de carregar.
+>Além disso, mantenha as coisas simples. Se você tem dezenas ou centenas de filtros, é difícil mantê-los e rastreá-los. Menos filtros também são mais rápidos de carregar.
 
 >[!NOTE]
 >
->Usar **Membro da lista inteligente** poderia ter erros nessa outra lista. Verifique lá também.
+>Usar **[!UICONTROL Membro da lista inteligente]** poderia ter erros nessa outra lista. Verifique lá também.
 
 ## Livrar-se de erros de fluxo {#get-rid-of-flow-errors}
 
-Na Campanha inteligente, clique em **Fluxo**. Livre-se de linhas vermelhas sinuosas vistas corrigindo os erros.
+Na Campanha inteligente, clique em **[!UICONTROL Fluxo]**. Livre-se de linhas vermelhas sinuosas vistas corrigindo os erros.
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,13 +43,13 @@ Na Campanha inteligente, clique em **Fluxo**. Livre-se de linhas vermelhas sinuo
 
 ## Revise a Guia Programação {#review-the-schedule-tab}
 
-No **Agendar** , marque **Smart** **Lista** **Status** para verificar se há erros na Campanha inteligente que precisam ser corrigidos.
+No **[!UICONTROL Agendar]** , marque **[!UICONTROL Status da lista inteligente]** para verificar se há erros na Campanha inteligente que precisam ser corrigidos.
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## Verificar Limite de Restrições de Pessoa {#check-person-restrictions-limit}
 
-No **Agendar** verifique se o número de pessoas qualificadas não excede o limite de restrição de pessoas.
+No **[!UICONTROL Agendar]** verifique se o número de pessoas qualificadas não excede o limite de restrição de pessoas.
 
 ![](assets/smart-campaign-checklist-4.png)
 
