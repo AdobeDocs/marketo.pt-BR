@@ -4,10 +4,10 @@ description: SEO - Adicionar um site/Excluir um site - Documentação do Marketo
 title: SEO - Adicionar um site/Excluir um site
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 3%
+source-wordcount: '196'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Para que o Marketo extraia dados (links de entrada e recomendações) relevantes
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 ## [!UICONTROL Adicionar um site] {#add-a-site}
 

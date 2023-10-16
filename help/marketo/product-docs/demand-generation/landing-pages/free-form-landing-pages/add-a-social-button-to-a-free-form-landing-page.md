@@ -4,10 +4,10 @@ description: Adicionar um botão Social a uma página de aterrissagem de forma l
 title: Adicionar um botão Social a uma página de aterrissagem de forma livre
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 2%
+source-wordcount: '249'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Um botão social incentiva as pessoas a compartilharem seu conteúdo com os amig
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Navegue até a página de aterrissagem de formato livre e clique em **Editar rascunho**.
 

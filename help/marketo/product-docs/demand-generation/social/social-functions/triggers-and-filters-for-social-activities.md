@@ -4,10 +4,10 @@ description: Acionadores e filtros para atividades sociais - Documentação do M
 title: Acionadores e filtros para atividades sociais
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 28%
+source-wordcount: '164'
+ht-degree: 23%
 
 ---
 
@@ -17,7 +17,7 @@ Os aplicativos sociais no Marketo têm seus próprios acionadores e filtros espe
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Para usar o social _acionadores_, selecione a campanha inteligente e clique no link **Lista inteligente** guia. À direita, clique no sinal de + para expandir **Triggers**, depois **Social**.
 

@@ -4,10 +4,10 @@ description: Exibir desempenho social - Documentação do Marketo - Documentaç�
 title: Exibir desempenho social
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 1%
+source-wordcount: '482'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Veja as atividades sociais geradas pelos seus aplicativos sociais. O Painel soci
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Ir para **Atividades de marketing**.
 

@@ -4,10 +4,10 @@ description: Adicionar um vídeo - Documentação do Marketo - Documentação do
 title: Adicionar um vídeo
 exl-id: e704ec2c-07d7-430f-9514-3ee2a4ab66d9
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 3%
+source-wordcount: '200'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Coloque vídeos com opções de compartilhamento em redes sociais nas páginas d
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Navegue até a página de destino e clique em **Editar rascunho**.
 

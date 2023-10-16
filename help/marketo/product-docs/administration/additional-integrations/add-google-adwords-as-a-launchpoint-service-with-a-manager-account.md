@@ -4,10 +4,10 @@ description: "Adicionar [!DNL Google AdWords] as a [!DNL Launchpoint] Serviço c
 title: "Adicionar [!DNL Google AdWords] as a [!DNL Launchpoint] Serviço com uma conta de gerente"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 2%
+source-wordcount: '322'
+ht-degree: 3%
 
 ---
 
@@ -21,7 +21,7 @@ Saiba mais sobre [Recurso de importação de conversão offline do Google](https
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram esse recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ Saiba mais sobre [Recurso de importação de conversão offline do Google](https
    >
    >[Marcação automática](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} deve ser selecionado para que este recurso funcione. Deve ser ativado dentro de [!DNL AdWords].
 
-1. Clique em **[!UICONTROL Próxima]**.
+1. Clique em **[!UICONTROL Próximo]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 

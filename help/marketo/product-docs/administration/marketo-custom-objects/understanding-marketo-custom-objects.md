@@ -4,10 +4,10 @@ description: Noções básicas sobre objetos personalizados do Marketo - Documen
 title: Noções básicas sobre objetos personalizados do Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 2%
+source-wordcount: '678'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Use objetos personalizados para rastrear métricas específicas para sua empresa
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 Use objetos personalizados como filtros e acionadores em suas campanhas inteligentes. Por exemplo:
 
@@ -93,7 +93,7 @@ Um objeto personalizado vinculado à empresa funciona melhor se você sincroniza
 
 Se você tiver várias pessoas no Marketo que sejam registros no CRM ou em registros somente Marketo, um objeto personalizado vinculado a uma empresa não será associado a mais de um registro individual. Isso ocorre porque uma empresa com várias pessoas abaixo dele é compatível somente quando as empresas são sincronizadas do CRM ou se você usar uma API para criar empresas explicitamente.
 
-Os objetos personalizados só podem ser vinculados diretamente a um único registro. Isso significa que quando seu tipo de objeto personalizado é vinculado pelo campo da empresa, você deve garantir que seus registros de pessoa estejam associados a uma empresa usando a conversão de contatos em seu CRM ou usando o campo externalCompanyId, se você gerenciar empresas usando as REST APIs da Marketo. Para registros de pessoas que não estão vinculados explicitamente a registros de empresas, os objetos personalizados vinculados usando a empresa serão vinculados aleatoriamente a um único registro, mesmo se o valor do campo da empresa for compartilhado entre muitas pessoas.
+Os objetos personalizados só podem ser vinculados diretamente a um único registro. Isso significa que quando seu tipo de objeto personalizado é vinculado pelo campo da empresa, você deve garantir que seus registros de pessoa estejam associados a uma empresa usando a conversão de contatos em seu CRM ou usando o campo externalCompanyId, se você gerenciar empresas usando as REST APIs da Marketo. Para registros de pessoas que não estão vinculados explicitamente a registros de empresas, os objetos personalizados vinculados usando empresa serão vinculados aleatoriamente a um único registro, mesmo se o valor do campo de empresa for compartilhado entre muitas pessoas.
 
 Consulte [Importar dados do objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) para obter mais informações.
 

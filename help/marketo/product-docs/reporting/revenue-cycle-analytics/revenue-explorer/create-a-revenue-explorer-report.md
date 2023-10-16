@@ -4,10 +4,10 @@ description: Criar um relatório do Revenue Explorer - Documentação do Marketo
 title: Criar um relatório do Gerenciador de receita
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 7%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ O relatório Explorador de receita permite rastrear o ROI em suas iniciativas de
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Vá para a **Gerenciador de Receita** área.
 

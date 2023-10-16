@@ -4,10 +4,10 @@ description: Emita uma licença do complemento de email do Marketo - Documentaç
 title: Emitir uma licença do Marketo Email Add-in
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 2%
+source-wordcount: '302'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ Qualquer pessoa que quiser usar o Suplemento de Email do Outlook para Marketo de
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 >[!NOTE]
 >

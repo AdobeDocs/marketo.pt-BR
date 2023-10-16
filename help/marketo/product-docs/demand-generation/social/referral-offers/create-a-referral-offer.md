@@ -4,10 +4,10 @@ description: Criar uma oferta de referência - Documentação do Marketo - Docum
 title: Criar uma oferta de referência
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 2%
+source-wordcount: '270'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ As ofertas de indicação oferecem às pessoas um incentivo para encaminhar seus
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Dentro do seu programa, selecione **Novo** > **Novo ativo local**.
 

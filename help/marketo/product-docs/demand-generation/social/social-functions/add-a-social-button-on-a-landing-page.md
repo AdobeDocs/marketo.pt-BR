@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359757
 description: Adicionar um botão do Social em uma página de aterrissagem - Documentação do Marketo - Documentação do produto
-title: Adicionar um botão do Social em uma landing page
+title: Adicionar um botão do Social em uma página de aterrissagem
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 2%
+source-wordcount: '248'
+ht-degree: 0%
 
 ---
 
-# Adicionar um botão do Social em uma landing page {#add-a-social-button-on-a-landing-page}
+# Adicionar um botão do Social em uma página de aterrissagem {#add-a-social-button-on-a-landing-page}
 
 Um botão social incentiva as pessoas a compartilharem seu conteúdo com os amigos. Solte-o nas landing pages, no Facebook e no seu site.
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Navegue até a página de destino e clique em **Editar rascunho**.
 

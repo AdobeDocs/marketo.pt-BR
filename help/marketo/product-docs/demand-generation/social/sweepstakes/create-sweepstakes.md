@@ -1,40 +1,40 @@
 ---
 unique-page-id: 2359795
-description: Criar sorteios - Documentos do Marketo - Documentação do produto
+description: Criar Sweepstakes - Documentação do Marketo - Documentação do produto
 title: Criar sorteios
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 3%
+source-wordcount: '299'
+ht-degree: 1%
 
 ---
 
 # Criar sorteios {#create-sweepstakes}
 
-Os sorteios dão às pessoas a chance de ganhar um prêmio em troca de contar aos amigos sobre você. Você pode soltá-lo em páginas de aterrissagem, seu site e até mesmo no Facebook.
+Um sorteio dá às pessoas a chance de ganhar um prêmio em troca de contar aos amigos sobre você. Você pode soltá-lo em landing pages, em seu site e até mesmo no Facebook.
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
-1. No seu programa, selecione **Novo** > **Novo ativo local**.
+1. Dentro do seu programa, selecione **Novo** > **Novo ativo local**.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
-1. Na Galeria de ativos locais, clique em **Sorteio**.
+1. Na Galeria de ativos locais, clique em **Sorteios**.
 
    ![](assets/image2014-9-25-17-3a29-3a31.png)
 
-1. Dê um nome aos sorteios.
+1. Dê um nome aos seus sorteios.
 
    ![](assets/image2014-9-25-17-3a29-3a50.png)
 
    >[!TIP]
    >
-   >Para economizar tempo, você pode usar a variável **Clonar de** para copiar todas as configurações de um sorteio existente.
+   >Para economizar tempo, você pode usar o **Clonar de** opção para copiar todas as configurações de um sorteio existente.
 
-   O editor de sorteios é aberto em uma nova janela. As configurações padrão estão todas boas, mas você ainda precisa configurar alguns detalhes. Mostraremos como nas próximas etapas.
+   O editor de sorteios é aberto em uma nova janela. As configurações padrão estão corretas, mas ainda é necessário configurar alguns detalhes. Mostraremos como nas próximas etapas.
 
 1. Clique em **Detalhes do sorteio**.
 
@@ -46,21 +46,21 @@ Os sorteios dão às pessoas a chance de ganhar um prêmio em troca de contar ao
 
    >[!NOTE]
    >
-   >Para desenhos diários e semanais, os horários de início e de fim são fixados, respectivamente, às 12h e às 11h59. Para um desenho único, você pode escolher seus próprios horários de início e término.
+   >Para desenhos diários e semanais, as horas de início e término são fixadas às 12h e 23h59, respectivamente. Para um desenho único, você pode escolher suas próprias horas de início e término.
 
 1. Clique em **Opções avançadas**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
-1. Adicione um link às regras de seus sorteios. Insira o URL. Este link é necessário.
+1. Adicione um link às regras do sorteio. Insira o URL. Este link é obrigatório.
 
    ![](assets/image2014-9-25-17-3a33-3a30.png)
 
-   O link será exibido na parte inferior das telas de mensagem de compartilhamento.
+   O link aparecerá na parte inferior das telas de mensagem de compartilhamento.
 
    >[!NOTE]
    >
-   >Nessa tela, você também pode adicionar um link de política de privacidade. Consulte [Adicionar sua política de privacidade a um aplicativo social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >Nesta tela, você também pode adicionar um link de política de privacidade. Consulte [Adicionar sua política de privacidade a um aplicativo social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. Clique em **Concluir**.
 
@@ -72,12 +72,12 @@ Os sorteios dão às pessoas a chance de ganhar um prêmio em troca de contar ao
 
    >[!TIP]
    >
-   >Para alterar qualquer um dos padrões em seus sorteios, clique em **Voltar**. Para salvar seu trabalho para mais tarde sem aprovação, clique em **Fechar**.
+   >Para alterar os padrões em seus sorteios, clique em **Voltar**. Para salvar seu trabalho para posteriormente sem aprovação, clique em **Fechar**.
 
-Se houver algum problema nos sorteios, você será solicitado a resolvê-los antes que os sorteios sejam aprovados.
+Se houver algum problema no sorteio, você será solicitado a resolvê-lo antes que o sorteio seja aprovado.
 
-Parabéns! Você criou sorteios.
+Parabéns! Você criou um sorteio.
 
 >[!MORELIKETHIS]
 >
->O próximo passo é [publicar seus sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), mas você pode alterar a aparência e as configurações dos sorteios. Comece com [personalização dos estilos de sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).
+>O próximo passo é [publicar seus sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), mas você pode alterar a aparência e as configurações dos sorteios. Iniciar com [personalização de estilos de sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).

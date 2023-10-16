@@ -4,10 +4,10 @@ description: Adicionar um vídeo a uma página de aterrissagem de formato livre 
 title: Adicionar um vídeo a uma página de aterrissagem de forma livre
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 2%
+source-wordcount: '240'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Coloque vídeos com opções de compartilhamento em redes sociais nas páginas d
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Navegue até a página de aterrissagem de formato livre e clique em **Editar rascunho**.
 

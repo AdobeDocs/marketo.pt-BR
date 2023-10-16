@@ -4,9 +4,9 @@ description: Power Pack de capacidade de entrega de email - Como importar uma li
 title: Power Pack de capacidade de entrega de email - Como importar uma lista de seeds
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Uma Seed List é uma lista de contas de email em vários provedores de caixa de 
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Entre em contato com seu representante de vendas para obter mais detalhes.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 ## Importar uma lista de seeds {#import-a-seed-list}
 

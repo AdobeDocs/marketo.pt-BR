@@ -1,32 +1,32 @@
 ---
 unique-page-id: 2359807
-description: Personalizar estilos de sorteio - Documentos do Marketo - Documentação do produto
-title: Personalizar estilos de sorteio
+description: Personalizar estilos de sorteios - Documentação do Marketo - Documentação do produto
+title: Personalizar estilos de sorteios
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 3%
+source-wordcount: '160'
+ht-degree: 0%
 
 ---
 
-# Personalizar estilos de sorteio {#customize-sweepstakes-styles}
+# Personalizar estilos de sorteios {#customize-sweepstakes-styles}
 
-Quando você [criar sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode personalizar a aparência dele na página de aterrissagem.
+Quando você [criar um sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode personalizar a aparência na sua landing page.
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Ir para **Atividades de marketing**.
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Selecione os sorteios e clique em **Editar rascunho**.
+1. Selecione o sorteio e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. No editor Sorteios, vá para **Configurações do aplicativo** > **Aparência**.
+1. No editor do Sweepstakes, acesse **Configurações do aplicativo** > **Aparência**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -38,24 +38,24 @@ Quando você [criar sorteios](/help/marketo/product-docs/demand-generation/socia
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Exemplo de CSS para **Botão Inserir**:
+   Exemplo de CSS para **Botão Enter**:
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>`
 
-   Exemplo de imagem para **Botão Inserir**:
+   Exemplo de imagem para **Botão Enter**:
    `<pre>background:url(https://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >Se você usar uma imagem com texto, lembre-se de remover o texto da **Botão Inserir** em Texto acima.
+   >Se você usar uma imagem com texto, lembre-se de remover o texto da tag **Botão Enter** em Texto acima.
 
-1. À medida que você faz cada alteração, o resultado é exibido na visualização Exibir e editar .
+1. À medida que você faz cada alteração, o resultado é exibido na pré-visualização Exibir e editar.
 
    ![](assets/image2014-9-25-17-3a55-3a3.png)
 
    >[!NOTE]
    >
-   >Teste seu botão em vários navegadores diferentes, incluindo versões anteriores.
+   >Teste seu botão em vários navegadores diferentes, incluindo versões mais antigas.
 
    >[!MORELIKETHIS]
    >
-   >A próxima etapa é adicionar [inscrever-se e preencher emails para seus sorteios](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >A próxima etapa é adicionar [emails de inscrição e preenchimento para o sorteio](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).

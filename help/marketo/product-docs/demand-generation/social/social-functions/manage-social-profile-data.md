@@ -4,10 +4,10 @@ description: Gerenciar dados do perfil social - Documentação do Marketo - Docu
 title: Gerenciar dados do perfil social
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 8%
+source-wordcount: '310'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ O preenchimento de formulário social e os aplicativos sociais capturam conjunto
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 ## Capturado pelo aplicativo social {#captured-via-social-app}
 
@@ -29,7 +29,7 @@ Dependendo das configurações de privacidade da rede e do usuário, um ou mais 
 >
 >As informações adicionais das redes sociais são exibidas na página Detalhes da pessoa cerca de cinco minutos após a pessoa autorizar.
 
-## No Twitter: {#from-twitter}
+## Do Twitter: {#from-twitter}
 
 * Nome (analisado a partir do Nome de exibição)
 * Sobrenome (analisado a partir do Nome de exibição)
@@ -58,7 +58,7 @@ Dependendo das configurações de privacidade da rede e do usuário, um ou mais 
 >
 >Os dados capturados pelo preenchimento de formulário social substituem os campos correspondentes, a menos que você [bloquear atualizações nesses campos no nível do formulário](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
-## No Twitter: {#from-twitter-1}
+## Do Twitter: {#from-twitter-1}
 
 * Nome (analisado a partir do Nome de exibição)
 * Sobrenome (analisado a partir do Nome de exibição)

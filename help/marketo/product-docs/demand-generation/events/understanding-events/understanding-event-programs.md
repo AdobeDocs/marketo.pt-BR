@@ -4,10 +4,10 @@ description: Noções básicas sobre programas de evento - Documentação do Mar
 title: Noções básicas sobre programas de evento
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 9%
+source-wordcount: '98'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 >[!AVAILABILITY]
 >
->Nem todos os clientes compraram essa funcionalidade. Confira os detalhes com seu representante de vendas.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 ## Visão geral {#overview}
 
