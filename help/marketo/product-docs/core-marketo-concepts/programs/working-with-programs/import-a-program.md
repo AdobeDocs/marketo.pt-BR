@@ -4,34 +4,34 @@ description: Importar um programa - Documentação do Marketo - Documentação d
 title: Importar um programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
 
 # Importar um programa {#import-a-program}
 
-Um programa pode ser importado de uma assinatura do Marketo para outra. Por exemplo, você pode criar um programa em uma sandbox e importá-lo para a sua assinatura em tempo real. Além disso, você pode importar um programa pré-criado da Biblioteca de programas da Marketo.
+Um programa pode ser importado de uma assinatura do Marketo para outra. Por exemplo, você pode criar um programa em uma sandbox e importá-lo para a sua assinatura em tempo real. Além disso, é possível importar um programa pré-criado da [Biblioteca de programas da Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 ## Importando um programa {#importing-a-program}
 
-1. Ir para **Atividades de marketing.**
+1. Ir para **Atividades de marketing**.
 
    ![](assets/import-a-program-1.png)
 
-1. Clique em **Novo** lista suspensa. Selecionar **Importar programa**.
+1. Clique em **Novo** e selecione **Importar programa**.
 
    ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
-   >A Importação de programa só está disponível para usuários com as funções com a permissão Importar programa habilitada. Saiba mais sobre [gerenciamento de funções e permissões de usuário](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >A Importação de programa só está disponível para usuários com as funções com a permissão Importar programa habilitada. Saiba mais sobre [gerenciamento de funções e permissões de usuário](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >Para conectar uma conta de sandbox à sua assinatura live, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Para conectar uma conta de sandbox à sua assinatura live, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Selecionar um Marketo **Inscrição** e um programa para importar. Clique em **Próxima**.
+1. Selecionar um Marketo **Inscrição** e um programa para importar. Clique em **Próximo**.
 
    ![](assets/import-a-program-3.png)
 
@@ -63,13 +63,13 @@ Você receberá uma confirmação por email após a conclusão da importação.
 
 ## Impacto nos ativos externos durante as importações de programa {#impact-on-external-assets-during-program-imports}
 
-Os programas usam ativos externos, como modelos de email, modelos de página de aterrissagem, imagens, formulários, tokens e tags de programa. Você pode configurar como os modelos de página de aterrissagem e as tags de programa são tratados, e o Marketo gerencia o restante automaticamente.
+Os programas usam ativos externos, como modelos de email, modelos de landing page, imagens, formulários, tokens e tags de programa. Você pode configurar como os modelos de página de aterrissagem e as tags de programa são tratados, e o Marketo gerencia o restante automaticamente.
 
 **Modelos de email/página de aterrissagem:** Os modelos de email/landing page são importados para o Design Studio. Você pode usar as regras de conflito para configurar o comportamento quando existir um modelo com o mesmo nome. Usando a regra padrão, um número será anexado a um modelo se existir um com o mesmo nome. Por exemplo, se você já tiver um modelo chamado &quot;Modelo padrão&quot;, o novo será chamado de &quot;Modelo padrão - 1&quot;.
 
-**Landing Pages/Forms:** Se existir um formulário ou uma landing page com o mesmo nome no Design Studio, eles ainda serão importados, mas com um número anexado ao nome (por exemplo: Landing Page - 1).
+**Landing Pages/Forms:** Se existir um formulário ou uma Landing page com o mesmo nome no Design Studio, eles ainda serão importados, mas com um número anexado ao nome (por exemplo: Landing Page - 1).
 
-**Imagens:** Imagens usadas por landing pages são importadas para o design studio, a menos que exista uma com o mesmo nome.
+**Imagens:** Imagens usadas por Landing Pages são importadas para o design studio, a menos que exista uma com o mesmo nome.
 
 **Tokens:** Os tokens localizados fora de um programa serão convertidos em tokens locais durante o processo de importação.
 
@@ -81,4 +81,4 @@ Os programas usam ativos externos, como modelos de email, modelos de página de 
 
 >[!CAUTION]
 >
->Ao importar um programa, os emails/landing pages que contêm [conteúdo dinâmico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) serão ignorados.
+>Ao importar um programa, os emails/Landing Pages que contêm [conteúdo dinâmico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} serão ignorados.
