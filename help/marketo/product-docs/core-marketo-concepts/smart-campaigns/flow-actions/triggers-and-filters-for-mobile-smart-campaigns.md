@@ -4,18 +4,18 @@ description: Acionadores e filtros para campanhas inteligentes para dispositivos
 title: Acionadores e filtros para campanhas inteligentes para dispositivos móveis
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '823'
+source-wordcount: '820'
 ht-degree: 1%
 
 ---
 
 # Acionadores e filtros para campanhas inteligentes para dispositivos móveis {#triggers-and-filters-for-mobile-smart-campaigns}
 
-Você pode configurar acionadores e filtros para uma campanha inteligente do aplicativo móvel.
+É possível configurar acionadores e filtros para uma Campanha inteligente para aplicativos móveis.
 
-Para a maioria das atividades, há um acionador, um filtro e um filtro de inatividade. Use filtros de inatividade para rastrear uma ação, como tocar em uma notificação por push, que *não* acontecem.
+Para a maioria das atividades, há um acionador, um filtro e um filtro de inatividade. Use filtros de inatividade para rastrear uma ação, como tocar em uma notificação por push, que _não_ acontecem.
 
 * O Aplicativo Móvel Está/Foi Instalado
 * O Aplicativo Móvel Está/Foi Aberto
@@ -27,7 +27,7 @@ Há apenas filtros para esta atividade:
 
 * Notificação por push enviada - filtro e filtro de inatividade
 
-Pesquisar por **aplicativo móvel** no painel direito para listar todos os acionadores e filtros do aplicativo móvel.
+Procure por &quot;aplicativo móvel&quot; no painel direito para listar todos os acionadores e filtros do aplicativo móvel.
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
@@ -103,7 +103,7 @@ O Aplicativo Móvel Está/Foi Aberto
 
 Teve/Teve Atividade De Aplicativo Móvel
 
-Eles fornecem uma maneira avançada de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento [para Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [para iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Eles fornecem uma maneira avançada de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento [para Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
 
 * Tem atividade de aplicativo móvel - acionador
 
@@ -192,5 +192,5 @@ Notificação por push de toques/toques
 
 >[!MORELIKETHIS]
 >
->* [Adicionar uma restrição a um filtro de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Usar filtros de inatividade em uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Adicionar uma restrição a um filtro de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Usar filtros de inatividade em uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

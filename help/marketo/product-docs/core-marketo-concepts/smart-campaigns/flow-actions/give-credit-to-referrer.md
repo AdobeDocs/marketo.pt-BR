@@ -4,9 +4,9 @@ description: Dar crédito ao referenciador - Documentação do Marketo - Documen
 title: Conceder crédito ao responsável pela indicação
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '134'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 ## Visão geral {#overview}
 
-Ao executar um [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou um [sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode dar crédito ao referenciador usando diferentes métodos:
+Ao executar um [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"} or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}, você pode dar crédito ao referenciador usando diferentes métodos:
 
 * Visitas indicadas
 * Inscrições indicadas
@@ -34,6 +34,6 @@ Se você optou por usar a variável **Acionador da lista inteligente** para espe
 
    >[!NOTE]
    >
-   >Verifique se o aplicativo social está configurado para usar o Acionador de lista inteligente. Consulte  [Especificar Meta para Oferta de Referência](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) para obter detalhes.
+   >Verifique se o aplicativo social está configurado para usar o Acionador de lista inteligente. Consulte [Especificar Meta para Oferta de Referência](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"} para obter detalhes.
 
 Excelente! Qualquer pessoa processada por essa etapa do fluxo agora dará crédito a seu referenciador.

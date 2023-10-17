@@ -4,9 +4,9 @@ description: Reordenar opção de adição em uma etapa de fluxo - Documentaçã
 title: Reordenar Adicionar Escolha em uma Etapa de Fluxo
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '174'
 ht-degree: 1%
 
 ---
@@ -19,20 +19,20 @@ Como apenas a primeira opção de correspondência se aplica a uma pessoa, a ord
 
    ![](assets/one.png)
 
-1. Vamos mover a opção 3 para cima da opção 2. Clique em **Opção 3** e clique em **Mover para cima**.
-
-   >[!NOTE]
-   >
-   >Ao reordenar, é possível **Mover para cima**, **Mover para baixo** ou **Mover para**.
+1. Neste exemplo, vamos mover a Opção 3 para acima da Opção 2. Clique em **[!UICONTROL Opção 3]** e clique em **[!UICONTROL Mover para cima]**.
 
    ![](assets/two.png)
 
-   Excelente! Agora você sabe como mover uma opção para cima/para baixo por incrementos únicos. Pronto! É fácil reorganizar a ordem de suas escolhas de degraus de fluxo.
+   >[!NOTE]
+   >
+   >Ao reordenar, é possível **[!UICONTROL Mover para cima]**, **[!UICONTROL Mover para baixo]** ou **[!UICONTROL Mover para]**.
+
+   Excelente! Agora você sabe como mover uma opção para cima/para baixo por incrementos únicos.
 
    ![](assets/three.png)
 
-1. Se você tiver muitas opções e precisar mover vários níveis para cima ou para baixo, poderá usar esse método alternativo para economizar tempo. Clique na escolha que deseja mover e, em seguida, em **Mover para**, arraste o controle deslizante até a posição para a qual deseja mover a escolha.
+**ETAPA OPCIONAL**: Se você tiver muitas opções e precisar mover um múltiplo de níveis para cima ou para baixo, poderá usar esse método alternativo para economizar tempo. Clique na escolha que deseja mover e, em seguida, em **[!UICONTROL Mover para]**, arraste o controle deslizante até a posição para a qual deseja mover a escolha.
 
-   ![](assets/four.png)
+![](assets/four.png)
 
 É fácil reorganizar a ordem de suas escolhas de degraus de fluxo.

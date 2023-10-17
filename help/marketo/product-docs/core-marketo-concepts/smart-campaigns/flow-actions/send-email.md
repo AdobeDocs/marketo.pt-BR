@@ -4,7 +4,7 @@ description: Enviar email - Documentação do Marketo - Documentação do produt
 title: Enviar e-mail
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 6%
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 ## Visão geral {#overview}
 
-A variável **Enviar e-mail** a etapa de fluxo pode ser usada como parte de campanhas ou como uma única etapa de fluxo para enviar emails para sua equipe.
+O &quot;[!UICONTROL Enviar e-mail]&quot;a etapa de fluxo pode ser usada como parte de campanhas ou como uma única etapa de fluxo para enviar emails para sua equipe.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 

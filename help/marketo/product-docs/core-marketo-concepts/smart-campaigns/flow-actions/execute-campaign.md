@@ -3,7 +3,7 @@ description: Executar o Campaign - Documentação do Marketo - Documentação do
 title: Executar campanha
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 1%
@@ -32,17 +32,17 @@ Executar o Campaign é uma melhoria em relação [Solicitar campanha](/help/mark
 
 ## Como criar uma campanha executável {#how-to-create-an-executable-campaign}
 
-1. Clique com o botão direito do mouse no programa desejado e selecione **Nova campanha inteligente**.
+1. Clique com o botão direito do mouse no programa desejado e selecione **[!UICONTROL Nova campanha inteligente]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Dê um nome a ele, selecione a variável **Executável** e clique em **Criar**.
+1. Dê um nome a ele, selecione a variável **[!UICONTROL Executável]** e clique em **[!UICONTROL Criar]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Defina a Smart List e o Fluxo como qualquer outra Campanha inteligente.
 
-Também é possível clonar uma Campanha inteligente existente. Se você clonar uma Campanha Executável existente, ainda será necessário selecionar o **Executável** depois de nomeá-la.
+Também é possível clonar uma Campanha inteligente existente. Se você clonar uma Campanha Executável existente, ainda será necessário selecionar o **[!UICONTROL Executável]** depois de nomeá-la.
 
 >[!NOTE]
 >
@@ -73,11 +73,11 @@ Ao usar Programar ou Solicitar campanha [na API](https://developers.marketo.com/
 
 >[!CAUTION]
 >
->Nunca deixe suas smart lists para Campanhas Executáveis inválidas, caso contrário **ninguém** se qualificará para ele. A prática recomendada é criar ativos de lista inteligente separados, defini-los completamente e garantir que sejam válidos. Em seguida, use o filtro &quot;Membro da Smart List&quot; na Campanha Executável para trocar a definição da sua smart list.
+>Nunca deixe suas smart lists para Campanhas Executáveis inválidas, caso contrário _ninguém_ se qualificará para ele. A prática recomendada é criar ativos de lista inteligente separados, defini-los completamente e garantir que sejam válidos. Em seguida, use o filtro &quot;Membro da Smart List&quot; na Campanha Executável para trocar a definição da sua smart list.
 
 ## Exemplo de herança do token {#token-inheritance-example}
 
-Abaixo está um exemplo visual de Herança de tokens em uma Campanha Executável e duas campanhas pai: uma com contexto de token definido como **True**, o outro para **Falso**.
+Abaixo está um exemplo visual de Herança de tokens em uma Campanha Executável e duas campanhas pai: uma com contexto de token definido como **[!UICONTROL True]**, o outro para **[!UICONTROL Falso]**.
 
 Campanha filho com uma Pontuação de alteração tokenizada.
 
@@ -87,7 +87,7 @@ A campanha infantil é Meus Tokens.
 
 ![](assets/execute-campaign-4.png)
 
-**Exemplo um - Verdadeiro**
+### Exemplo um - Verdadeiro {#example-one-true}
 
 Na etapa Executar fluxo de campanha da primeira campanha principal, o &quot;Usar contexto do token de campanha principal&quot; está definido como **True**.
 
@@ -101,7 +101,7 @@ Os resultados: pontuação alterada em +10.
 
 ![](assets/execute-campaign-7.png)
 
-**Exemplo dois: falso**
+### Exemplo dois: falso {#example-two-false}
 
 Na etapa Executar fluxo de campanha da segunda campanha principal, o &quot;Usar contexto do token de campanha principal&quot; está definido como **Falso**.
 

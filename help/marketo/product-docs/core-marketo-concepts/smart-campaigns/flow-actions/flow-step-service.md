@@ -3,9 +3,9 @@ description: Serviço de etapa de fluxo - Documentação do Marketo - Documenta�
 title: Serviço de etapa de fluxo
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1207'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Etapas de fluxo de autoatendimento é uma estrutura e um conjunto de recursos pa
 
 ## Serviços de integração e gerenciamento {#onboarding-and-managing-services}
 
-A instalação de uma etapa de fluxo personalizada requer permissões de administrador no Marketo (**Gerenciar Webhooks** na versão de 21 de janeiro, Alteração na versão de 11 de março). Além do URL de instalação, todos os outros aspectos de um serviço podem ser editados após a conclusão da integração inicial, detalhando a tela de detalhes do serviço na grade Provedores de serviços.
+A instalação de uma etapa de fluxo personalizada requer permissões de administrador no Marketo. Além do URL de instalação, todos os outros aspectos de um serviço podem ser editados após a conclusão da integração inicial, detalhando a tela de detalhes do serviço na grade Provedores de serviços.
 
 ## URL de instalação {#installation-url}
 
 Para iniciar a instalação, primeiro obtenha o URL do documento OpenAPI que define seu serviço. Seu provedor de serviços deve ser capaz de fornecer isso a você e geralmente terá um URL que termina em `/openapi.json`. URLs completos serão parecidos com `https://www.example.com/OpenAPI.json`. Depois de ter esse URL, acesse o menu Provedores de serviços na Seção de administradores.
 
-Clique em **Próxima** para acessar a seção Inserir Credenciais de Serviço.
+Clique em **[!UICONTROL Próxima]** para acessar a seção Inserir Credenciais de Serviço.
 
 ![](assets/flow-step-service-1.png)
 
