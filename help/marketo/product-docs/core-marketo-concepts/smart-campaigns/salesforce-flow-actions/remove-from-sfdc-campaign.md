@@ -4,26 +4,22 @@ description: Remover do SFDC Campaign - Documentação do Marketo - Documentaç�
 title: Remover da campanha da SFDC
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 9%
+source-wordcount: '100'
+ht-degree: 8%
 
 ---
 
 # Remover da campanha da SFDC {#remove-from-sfdc-campaign}
 
->[!NOTE]
->
->Disponível somente quando integrado ao Salesforce.
-
-## Visão geral {#overview}
-
-Assim como você pode [Adicionar à campanha SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md) e [Alterar status na campanha SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md), você também pode remover pessoas ou clientes em potencial de uma campanha do Salesforce.
+Assim como você pode [Adicionar à campanha SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} and [Change Status in SFDC Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}, você também pode remover pessoas ou clientes em potencial de uma campanha do Salesforce.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
-## Uso {#usage}
+>[!NOTE]
+>
+>Disponível somente quando integrado ao Salesforce.
 
 1. Depois de arrastar para a etapa de fluxo, localize e selecione a campanha do Salesforce da qual deseja remover a pessoa ou o cliente em potencial.
 

@@ -4,26 +4,26 @@ description: Exibir pessoas qualificadas em uma campanha inteligente - Documenta
 title: Exibir pessoas qualificadas em uma campanha inteligente
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
 # Exibir pessoas qualificadas em uma campanha inteligente {#view-qualified-people-in-a-smart-campaign}
 
-Visualize pessoas qualificadas para passar pelo fluxo ao executar uma campanha inteligente.
+Exibir pessoas qualificadas para passar pelo fluxo ao executar uma Campanha Inteligente.
 
-1. Na campanha inteligente, clique em Schedule. No Status da Smart List, clique no primeiro link.
+1. Na Campanha inteligente, clique na guia **[!UICONTROL Agendar]** guia. No Status da Smart List, clique no primeiro link.
 
 ![](assets/qualifedpeople-hands.png)
 
 >[!NOTE]
 >
->Os acionadores de campanhas inteligentes não exibem pessoas qualificadas, pois são executadas com base em eventos dinâmicos.
+>As Campanhas de acionador não exibem pessoas qualificadas, pois são executadas com base em eventos ao vivo.
 
-1. A variável **Pessoas qualificadas** A guia lista as pessoas qualificadas para passar pelo fluxo quando a campanha é executada.
+1. A variável **[!UICONTROL Pessoas qualificadas]** A guia lista as pessoas qualificadas para passar pelo fluxo quando a campanha é executada.
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,12 +33,12 @@ Visualize pessoas qualificadas para passar pelo fluxo ao executar uma campanha i
 
    >[!NOTE]
    >
-   >O número de pessoas qualificadas também depende das regras de qualificação da campanha inteligente. Saiba como [editar regras de qualificação](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
+   >O número de pessoas qualificadas também depende das regras de qualificação do Smart Campaign. Saiba como [editar regras de qualificação](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}.
 
-Doce! Você pode usar essa lista para verificar quais pessoas podem passar pelo fluxo antes de executar uma campanha inteligente.
+Legal! Você pode usar essa lista para verificar quais pessoas podem passar pelo fluxo antes de executar uma Campanha inteligente.
 
 >[!MORELIKETHIS]
 >
->* [Exibir membros do Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
->* [Exibir pessoas bloqueadas em uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
->* [Adicionar uma etapa de fluxo a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>* [Exibir membros do Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
+>* [Exibir pessoas bloqueadas em uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
+>* [Adicionar uma etapa de fluxo a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

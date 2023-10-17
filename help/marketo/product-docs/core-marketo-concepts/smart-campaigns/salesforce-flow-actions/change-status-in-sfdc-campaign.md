@@ -4,22 +4,20 @@ description: Alterar status na campanha SFDC - Documentação do Marketo - Docum
 title: Alterar status de campanha da SFDC
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 12%
+source-wordcount: '95'
+ht-degree: 11%
 
 ---
 
 # Alterar status de campanha da SFDC {#change-status-in-sfdc-campaign}
 
+Essa etapa do fluxo permite alterar o status dos clientes potenciais dos membros da campanha do Salesforce.
+
 >[!NOTE]
 >
 >Disponível somente quando integrado ao Salesforce.
-
-## Visão geral {#overview}
-
-Essa etapa do fluxo permite alterar o status dos clientes potenciais dos membros da campanha do Salesforce.
 
 Se um cliente em potencial não existir no Salesforce ou ainda não for membro da campanha, ele será sincronizado automaticamente e adicionado à campanha do Salesforce com o status apropriado.
 
@@ -27,10 +25,10 @@ Se um cliente em potencial não existir no Salesforce ou ainda não for membro d
 
 ## Uso {#usage}
 
-1. Primeiro, localize e selecione o Salesforce **Campaign** o registro está em.
+1. Primeiro, localize e selecione o Salesforce **[!UICONTROL Campaign]** o registro está em.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Em seguida, selecione o **Novo Status** você quer configurar e está pronto!
+1. Em seguida, selecione o **[!UICONTROL Novo Status]** você quer configurar e está pronto!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)

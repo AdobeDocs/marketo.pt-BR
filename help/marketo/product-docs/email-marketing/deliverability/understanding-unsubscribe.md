@@ -4,9 +4,9 @@ description: Noções básicas sobre o cancelamento de inscrição - Documentaç
 title: Noções básicas sobre o cancelamento de inscrição
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '217'
 ht-degree: 2%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 2%
 # Noções básicas sobre o cancelamento de inscrição {#understanding-unsubscribe}
 
 Na verdade, há vários tipos diferentes de cancelamentos de assinatura integrados no Marketo. Todos são representados por campos no objeto pessoa, como Nome.
-
->[!NOTE]
->
->A Marketo está mudando termos como lista negra e lista de permissões para Incluir na lista de bloqueios e Incluir na lista de permissões em nosso produto. Durante essa atualização, você pode ver os termos antigos em nossa interface do usuário e capturas de tela da documentação, e os novos termos em nosso texto de documentação. Pedimos desculpas por qualquer confusão.
 
 Todos esses campos são incorporados à sua assinatura do Marketo. Todos são do tipo booleano (caixa de seleção). Eles podem ser usados no Forms ou [Alterar valor dos dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) etapas de fluxo.
 

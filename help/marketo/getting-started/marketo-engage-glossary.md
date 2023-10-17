@@ -4,9 +4,9 @@ description: Glossário do Marketo Engage - Documentação do Marketo - Document
 title: Glossário do Marketo Engage
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '4176'
+source-wordcount: '4128'
 ht-degree: 4%
 
 ---
@@ -118,10 +118,6 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->A Marketo está mudando termos como lista negra e lista de permissões para Incluir na lista de bloqueios e Incluir na lista de permissões em nosso produto. Durante essa atualização, você pode ver os termos antigos em nossa interface do usuário e capturas de tela da documentação, e os novos termos em nosso texto de documentação. Pedimos desculpas por qualquer confusão.
 
 ## C {#c}
 

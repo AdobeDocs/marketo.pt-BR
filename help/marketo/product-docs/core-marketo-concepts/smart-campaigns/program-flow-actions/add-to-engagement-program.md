@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147011
 description: Adicionar ao programa de engajamento - Documentação do Marketo - Documentação do produto
-title: Adicionar ao programa de envolvimento
+title: Adicionar ao programa de engajamento
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 14%
 
 ---
 
-# Adicionar ao programa de envolvimento {#add-to-engagement-program}
+# Adicionar ao programa de engajamento {#add-to-engagement-program}
 
 ## Visão geral {#overview}
 
-A campanha inteligente que você cria com essa etapa de fluxo será o gateway para o seu programa de engajamento.
+A Campanha inteligente que você criar com essa etapa de fluxo será o gateway para o seu programa de engajamento.
 
 ![](assets/image2014-9-22-14-3a47-3a32.png)
 

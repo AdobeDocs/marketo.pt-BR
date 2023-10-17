@@ -4,10 +4,10 @@ description: Alterar status do programa - Documentação do Marketo - Documenta�
 title: Alterar status do programa
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 5%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 ## Visão geral {#overview}
 
-Os status do programa ajudam você a acompanhar o progresso das pessoas em um programa ou evento. Encontre mais informações em [Personalizar, Criar E Gerenciar Canais](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+Os status do programa ajudam você a acompanhar o progresso das pessoas em um programa ou evento. Encontre mais informações em [Personalizar, Criar E Gerenciar Canais](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 >[!CAUTION]
 >
@@ -23,11 +23,11 @@ Os status do programa ajudam você a acompanhar o progresso das pessoas em um pr
 
 ## Uso {#usage}
 
-1. Arraste no **Alterar status do programa** etapa do fluxo.
+1. Arraste no **[!UICONTROL Alterar status do programa]** etapa do fluxo.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Selecione o **Novo Status** que deseja definir. A pessoa também se tornará membro do programa se ainda não o foi.
+1. Selecione o **[!UICONTROL Novo Status]** que deseja definir. A pessoa também se tornará membro do programa se ainda não o foi.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
@@ -37,4 +37,4 @@ As opções são limitadas aos status válidos para esse programa.
 >
 >Uma pessoa não consegue voltar para um status anterior do programa, conforme definido no Editor de canais em Admin.
 
-Os status são ferramentas eficientes para monitorar pessoas e gerar relatórios. Vale o seu tempo.
+Os status são ferramentas eficientes para monitorar pessoas e gerar relatórios.

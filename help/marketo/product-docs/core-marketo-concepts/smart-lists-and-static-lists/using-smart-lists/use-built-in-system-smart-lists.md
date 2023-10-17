@@ -4,20 +4,16 @@ description: Usar Smart Lists Integradas/Do Sistema - Documentação Do Marketo 
 title: Usar Smart Lists Integradas/do Sistema
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 6%
+source-wordcount: '194'
+ht-degree: 7%
 
 ---
 
 # Usar Smart Lists Integradas/do Sistema {#use-built-in-system-smart-lists}
 
 O Marketo tem algumas listas inteligentes integradas muito úteis. Vamos dar uma olhada!
-
->[!NOTE]
->
->A Marketo está mudando termos como lista negra e lista de permissões para Incluir na lista de bloqueios e Incluir na lista de permissões em nosso produto. Durante essa atualização, você pode ver os termos antigos em nossa interface do usuário e capturas de tela da documentação, e os novos termos em nosso texto de documentação. Pedimos desculpas por qualquer confusão.
 
 1. Vá para a **Banco de dados**.
 
@@ -40,10 +36,10 @@ Este é um resumo do que as listas inteligentes integradas fazem:
 | Nome da lista | Descrição |
 |---|---|
 | Todas as pessoas | Todas as pessoas no banco de dados do Marketo |
-| Pessoas com inscrição cancelada | Essas pessoas só podem receber emails operacionais; isso geralmente é controlado pela própria pessoa. |
+| Pessoas que cancelaram a inscrição | Essas pessoas só podem receber emails operacionais; isso geralmente é controlado pela própria pessoa. |
 | Marketing suspenso | Essas pessoas só podem receber emails operacionais; geralmente, isso é controlado por você, o profissional de marketing. |
 | Lista de bloqueios | Essas pessoas não receberão nenhum email. |
-| Endereços de e-mail com mensagens devolvidas | Pessoas com um endereço de email não entregue ou que rejeitam seu email. |
+| Endereços de email com mensagens rejeitadas | Pessoas com um endereço de email não entregue ou que rejeitam seu email. |
 | Possíveis duplicatas | Pessoas que podem ser duplicadas no banco de dados do Marketo. |
 
 >[!NOTE]

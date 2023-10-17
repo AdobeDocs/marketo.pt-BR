@@ -4,7 +4,7 @@ description: Excluir pessoa do SFDC - Documentação do Marketo - Documentação
 title: Excluir pessoa da SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 5%
@@ -13,21 +13,21 @@ ht-degree: 5%
 
 # Excluir pessoa da SFDC {#delete-person-from-sfdc}
 
-Se você precisar remover um conjunto específico de clientes potenciais do Salesforce, mas deixá-los como pessoas no Marketo, poderá usar a ação de fluxo Excluir pessoa do SFDC.
+Se você precisar remover um conjunto específico de clientes potenciais do Salesforce, mas deixá-los como pessoas no Marketo Engage, poderá usar a ação de fluxo Excluir pessoa do SFDC.
 
 >[!NOTE]
 >
 >Disponível somente quando integrado ao Salesforce.
 
-1. No Banco de dados, clique na pessoa que deseja remover do Salesforce. Clique em **Ações da pessoa** e selecione **Salesforce**.
+1. No Banco de dados, clique na pessoa que deseja remover do Salesforce. Clique em **[!UICONTROL Ações da pessoa]** e selecione **[!DNL Salesforce]**.
 
    ![](assets/person-actions-salesforce.png)
 
-1. Selecionar **Excluir pessoa do SFDC**.
+1. Selecionar **[!UICONTROL Excluir pessoa do SFDC]**.
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Verifique se **Excluir no Marketo** a configuração é **false** e, em seguida, clique em **Executar agora**.
+1. Verifique se **[!UICONTROL Excluir no Marketo]** a configuração é **[!UICONTROL false]** e, em seguida, clique em **[!UICONTROL Executar agora]**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
@@ -35,4 +35,4 @@ Se você precisar remover um conjunto específico de clientes potenciais do Sale
 
    >[!CAUTION]
    >
-   >Se você definir **Excluir no Marketo** para **true** e excluir as pessoas do Marketo e os clientes em potencial do Salesforce, eles desaparecem para sempre. Essa ação não pode ser desfeita.
+   >Se você definir **[!UICONTROL Excluir no Marketo]** para **[!UICONTROL true]** e excluir as pessoas do Marketo e os clientes em potencial do Salesforce, eles desaparecem para sempre. Essa ação não pode ser desfeita.
