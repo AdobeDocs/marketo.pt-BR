@@ -4,7 +4,7 @@ description: Editar regras de qualificação em uma campanha inteligente - Docum
 title: Editar regras de qualificação em uma campanha inteligente
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Editar regras de qualificação em uma campanha inteligente {#edit-qualification-rules-in-a-smart-campaign}
 
-As regras de qualificação controlam quantas vezes alguém pode executar o fluxo em uma campanha inteligente. Por padrão, mesmo que alguém acione uma campanha inteligente várias vezes, ele só será enviado pelo fluxo uma vez. Veja como modificar essas configurações.
+As regras de qualificação controlam quantas vezes alguém pode passar pelo fluxo em uma Campanha inteligente. Por padrão, mesmo que alguém acione uma Campanha inteligente várias vezes, ele só será enviado pelo fluxo uma vez. Veja como modificar essas configurações.
 
-1. Na campanha inteligente, clique no link **Agendar** e depois **Editar configurações**.
+1. Na Campanha inteligente, clique na guia **[!UICONTROL Agendar]** e depois **[!UICONTROL Editar configurações]**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
-   >Você também pode clicar em **Editar** à direita de &quot;Configurações do Smart Campaign&quot;.
+   >Você também pode clicar em **[!UICONTROL Editar]** à direita de &quot;Configurações do Smart Campaign&quot;.
 
-1. Escolha a frequência com que seus funcionários devem ser conduzidos pelo fluxo de campanha inteligente: **apenas uma vez**, **sempre** ou **uma vez a cada # dias**/**semanas**/**meses**.
+1. Escolha a frequência com que seus funcionários devem passar pelo fluxo do Campaign Inteligente: **[!UICONTROL apenas uma vez]**, **[!UICONTROL sempre]** ou **uma vez a cada # dias**/**semanas**/**meses**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
@@ -33,10 +33,10 @@ As regras de qualificação controlam quantas vezes alguém pode executar o flux
 
    >[!NOTE]
    >
-   >Os limites de comunicação não são aplicados a campanhas inteligentes por padrão. Saiba como [aplicar limites de comunicação a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
+   >Os limites de comunicação não são aplicados a Campanhas inteligentes por padrão. Saiba como [aplicar limites de comunicação a uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >[Aplicar limites de comunicação a campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+   >[Aplicar limites de comunicação a campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}
 
-Missão cumprida! Agora você sabe como controlar regras de qualificação em uma campanha inteligente.
+Missão cumprida! Agora você sabe como controlar regras de qualificação em uma Campanha inteligente.

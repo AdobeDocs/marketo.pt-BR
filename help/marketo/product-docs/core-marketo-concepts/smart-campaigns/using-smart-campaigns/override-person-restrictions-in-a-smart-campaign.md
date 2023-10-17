@@ -4,26 +4,26 @@ description: Substituir restrições de pessoa em uma campanha inteligente - Doc
 title: Substituir restrições de pessoa em uma campanha inteligente
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 # Substituir restrições de pessoa em uma campanha inteligente {#override-person-restrictions-in-a-smart-campaign}
 
-O Marketo permite que você defina o número máximo de pessoas que podem se qualificar para uma campanha inteligente; isso ajuda a evitar enviar um email para todo o banco de dados acidentalmente. Se você quiser _substituir_ esse limite, veja como.
+O Marketo Engage permite que você defina o número máximo de pessoas que podem se qualificar para uma Campanha Inteligente; isso ajuda a evitar enviar um email para todo o banco de dados acidentalmente. Se você quiser _substituir_ esse limite, veja como.
 
 >[!PREREQUISITES]
 >
->Certifique-se de [ativar restrições de pessoa para campanhas inteligentes](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) no Marketo Admin.
+>Certifique-se de [ativar restrições de pessoa para Campanhas inteligentes](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} no Marketo Admin.
 
-1. Em Atividades de marketing, acesse sua campanha inteligente e clique em **Agendar**.
+1. Em Atividades de marketing, acesse sua Campanha inteligente e clique em **Agendar**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. Em Configurações do Smart Campaign, clique em **Editar**.
+1. Em Configurações do Smart Campaign, clique em **[!UICONTROL Editar]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
@@ -31,11 +31,11 @@ O Marketo permite que você defina o número máximo de pessoas que podem se qua
    >
    >O limite padrão é o definido em Admin.
 
-1. Insira um novo limite e clique em **Salve.**
+1. Insira um novo limite e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
-   A campanha inteligente não será executada se o número de pessoas qualificadas exceder o limite definido.
+   A Campanha inteligente não será executada se o número de pessoas qualificadas exceder o limite definido.
 
    >[!CAUTION]
    >

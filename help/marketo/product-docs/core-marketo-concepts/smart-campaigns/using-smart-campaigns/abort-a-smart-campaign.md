@@ -4,9 +4,9 @@ description: Anular uma campanha inteligente - Documentação do Marketo - Docum
 title: Anular uma campanha inteligente
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Às vezes, você inicia uma Campanha Inteligente e percebe imediatamente que foi um erro. Aqui está como puxar o freio de emergência e parar a Campanha Inteligente no meio do percurso.
 
-1. Escolha a Campanha inteligente desejada e clique no link **Agendar** guia.
+1. Escolha a Campanha inteligente desejada e clique no link **[!UICONTROL Agendar]** guia.
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. Clique em **Ações da campanha** menu suspenso. Selecionar **Anular campanha**.
+1. Clique em **[!UICONTROL Ações da campanha]** menu suspenso. Selecionar **[!UICONTROL Anular campanha]**.
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. Clique em **Anular** para confirmar.
+1. Clique em **[!UICONTROL Anular]** para confirmar.
 
    ![](assets/abort-a-smart-campaign-3.png)
 
@@ -39,10 +39,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Dê uma olhada no **Resultados** da Campanha inteligente para ver quais ações ocorreram antes da anulação. Você também encontrará uma  [notificação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) com detalhes adicionais.
+   >Dê uma olhada no **[!UICONTROL Resultados]** da Campanha inteligente para ver quais ações ocorreram antes da anulação. Você também encontrará uma  [notificação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} com detalhes adicionais.
 
    >[!TIP]
    >
-   >Deseja remover uma pessoa do fluxo em uma campanha de acionador? Confira [Remover do fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >Deseja remover uma pessoa do fluxo em uma campanha de acionador? Confira [Remover do fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
 
-Sempre verifique o seu trabalho, mas este freio de emergência pode vir a ser útil no futuro.
+Sempre verifique o seu trabalho, mas este freio de emergência pode ser útil.

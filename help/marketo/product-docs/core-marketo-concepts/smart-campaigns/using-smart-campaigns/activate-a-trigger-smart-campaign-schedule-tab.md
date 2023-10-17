@@ -4,7 +4,7 @@ description: Ativar um acionador da campanha inteligente | Guia Programação - 
 title: Ativar um acionador da campanha inteligente Guia Programação
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ativar um acionador do Smart Campaign é como ativá-lo. Veja o que fazer.
 
-1. No da Campanha inteligente **Agendar** clique em **Ativar**.
+1. No da Campanha inteligente **[!UICONTROL Agendar]** clique em **[!UICONTROL Ativar]**.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
@@ -23,11 +23,11 @@ Ativar um acionador do Smart Campaign é como ativá-lo. Veja o que fazer.
    >
    >Revise a Campanha inteligente antes de ativar.
 
-1. Clique em **Ativar** novamente.
+1. Clique em **[!UICONTROL Ativar]** novamente.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-   >[!CAUTION]
+   >[!TIP]
    >
    >Verifique se a campanha está pronta antes da ativação.
 
