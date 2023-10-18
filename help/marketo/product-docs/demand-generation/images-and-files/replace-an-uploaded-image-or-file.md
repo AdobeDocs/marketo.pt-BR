@@ -4,9 +4,9 @@ description: Substituir uma imagem ou arquivo carregado - Documentação do Mark
 title: Substituir uma imagem ou arquivo carregado
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-1. Arraste e solte ou procure o arquivo de substituição no computador.
+1. Arraste e solte ou procure a imagem/arquivo de substituição no computador.
 
    ![](assets/replace-an-uploaded-image-or-file-4.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >O tipo de arquivo de substituição deve ser o mesmo do original (por exemplo, .jpg)
 
-1. Após selecionar o arquivo de substituição, clique em **[!UICONTROL Substituir]**.
+1. Após selecionar a imagem/arquivo de substituição, clique em **[!UICONTROL Substituir]**.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 
