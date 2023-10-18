@@ -4,22 +4,22 @@ description: Pesquisar imagens e arquivos carregados - Documentação do Marketo
 title: Pesquisar imagens e arquivos carregados
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 929d2eff975c491b29b93cef96a5c59a1f833474
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 # Pesquisar imagens e arquivos carregados {#search-uploaded-images-and-files}
 
-No Marketo, é fácil encontrar imagens e arquivos.
+Saiba como realizar uma pesquisa para uma imagem ou arquivo.
 
-1. Vá para a **Design Studio**.
+1. Vá para a **[!UICONTROL Design Studio]**.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Clique em **Imagens e arquivos** para obter a lista completa de todos os arquivos carregados.
+1. Clique em **[!UICONTROL Imagens e arquivos]** para obter a lista completa de todos os arquivos carregados.
 
    ![](assets/search-uploaded-images-and-files-2.png)
 

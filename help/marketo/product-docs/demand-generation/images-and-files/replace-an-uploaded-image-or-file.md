@@ -4,50 +4,46 @@ description: Substituir uma imagem ou arquivo carregado - Documentação do Mark
 title: Substituir uma imagem ou arquivo carregado
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 # Substituir uma imagem ou arquivo carregado {#replace-an-uploaded-image-or-file}
 
-1. Vá para a **Design Studio**.
+1. Vá para a **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-6.png)
+   ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. Clique em **Imagens e arquivos**, em seguida, selecione o arquivo que deseja substituir.
+1. Clique em **[!UICONTROL Imagens e arquivos]**.
 
-   ![](assets/image2014-9-16-11-3a21-3a48.png)
+   ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-   >[!TIP]
-   >
-   >Também é possível [pesquisar imagens ou arquivos carregados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
+1. Selecione o ativo que deseja substituir. Clique em **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Substituir imagem ou arquivo]**.
 
-1. Clique em **Ações do arquivo** e selecione **Substituir imagem ou arquivo**.
+   ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-   ![](assets/image2014-9-16-11-3a21-3a55.png)
+1. Arraste e solte ou procure o arquivo de substituição no computador.
 
-1. Procure o arquivo no computador que substituirá o arquivo atual e selecione-o.
-
-   ![](assets/image2014-9-16-11-3a22-3a2.png)
+   ![](assets/replace-an-uploaded-image-or-file-4.png)
 
    >[!NOTE]
    >
-   >Se não conseguir selecionar um arquivo de uma pasta compartilhada, salve esse arquivo no disco rígido e escolha-o nessa opção.
+   >O tipo de arquivo de substituição deve ser o mesmo do original (por exemplo, .jpg)
 
-1. Verifique se o arquivo foi exibido ao lado de **Escolher arquivo** estiver correto e clique em **Substituir**.
+1. Após selecionar o arquivo de substituição, clique em **[!UICONTROL Substituir]**.
 
-   ![](assets/image2014-9-16-11-3a22-3a12.png)
+   ![](assets/replace-an-uploaded-image-or-file-5.png)
 
->[!NOTE]
->
->O nome do arquivo de substituição será alterado para corresponder ao nome do arquivo anterior.
+   >[!NOTE]
+   >
+   >O nome do arquivo de substituição será alterado para corresponder ao nome do arquivo anterior.
 
-Você conseguiu!
+Bom trabalho!
 
 >[!MORELIKETHIS]
 >
->* [Pesquisar imagens e arquivos carregados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [Localizar o URL de uma imagem ou arquivo carregado](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Pesquisar imagens e arquivos carregados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [Localizar o URL de uma imagem ou arquivo carregado](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
