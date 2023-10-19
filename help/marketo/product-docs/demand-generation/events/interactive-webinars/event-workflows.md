@@ -3,9 +3,9 @@ description: Fluxos de trabalho do evento - Documentação do Marketo - Document
 title: Fluxos de trabalho de evento
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ Acesse a guia Visão geral para exibir o webinário gravado, obtenha o link para
 
 >[!NOTE]
 >
+>* Os webinars interativos não são registrados automaticamente. Depois que o webinário começar, clique na lista suspensa ao lado do nome do webinário e selecione **Gravar sessão**.
 >* A gravação é baixada no formato MP4.
 >* Ao compartilhar a gravação, ela poderá ser visualizada por qualquer pessoa que tenha o link. Portanto, verifique se ela está compartilhada com o público-alvo desejado.
 

@@ -3,10 +3,10 @@ description: Visão geral de webinários interativos - Documentação do Marketo
 title: Visão geral de webinários interativos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 2%
+source-wordcount: '421'
+ht-degree: 1%
 
 ---
 
@@ -47,3 +47,7 @@ Sim, você pode controlar quais usuários do Marketo têm permissão para criar 
 **Preciso associar o webinário fornecido pela Adobe Connect ao programa de evento de webinário interativo, como aos programas de evento do Launchpoint?**
 
 Não, os Programas de evento de webinário interativo fazem a associação para você.
+
+**Meus Webinars interativos são registrados automaticamente?**
+
+Não são. Depois que o webinário começar, clique na lista suspensa ao lado do nome do webinário e selecione **Gravar sessão**.
