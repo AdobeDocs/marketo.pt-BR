@@ -4,7 +4,7 @@ description: Glossário de operadores de filtro de lista inteligente - Documenta
 title: Glossário de operadores de filtro de lista inteligente
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 12%
@@ -13,7 +13,7 @@ ht-degree: 12%
 
 # Glossário de operadores de filtro de lista inteligente {#smart-list-filter-operators-glossary}
 
-Um operador é parte da lista inteligente que ajuda você a se tornar específico. Ele permite descrever o filtro ou acionador em uma linguagem simples. Os operadores disponíveis são diferentes para cada tipo de campo.
+Um operador é parte da Smart List que ajuda a obter informações específicas. Ele permite descrever o filtro ou acionador em uma linguagem simples. Os operadores disponíveis são diferentes para cada tipo de campo.
 
 Aqui está um glossário descrevendo cada conjunto de operadores.
 
@@ -35,7 +35,7 @@ Quando você escolhe um operador, o lado direito muda dinamicamente.
 | no intervalo de tempo | Predefinições (último trimestre, ontem etc.) | Definido na lista de opções |
 | depois | Data única | Todos os registros após a data especificada |
 | antes | Data única | Todos os registros antes do especificado |
-| sobre ou depois de | Data única | O mesmo que &quot;depois&quot;, mas inclusivo |
+| em ou depois de | Data única | O mesmo que &quot;depois&quot;, mas inclusivo |
 | em ou antes de | Data única | O mesmo que &quot;antes&quot;, mas inclusivo |
 | está vazio | Nenhum | Todos os registros sem data |
 | não está vazio | Nenhum | Todos os registros com qualquer data |
@@ -52,11 +52,11 @@ Basta digitar o número e a unidade juntos e vai funcionar!
 
 >[!NOTE]
 >
->&quot;No passado&quot; **faz** inclua o dia (até a hora, não depois) em que você criou sua lista inteligente.
+>&quot;No passado&quot; _faz_ inclua o dia (até a hora, não depois) em que você criou sua Smart List.
 
 >[!CAUTION]
 >
->Ao criar uma lista inteligente usando um filtro de campo de data (por exemplo, Data de nascimento, Data de criação do SFDC) e usar as restrições **antes**, **em ou antes de** ou **no passado antes**, a lista inteligente também incluirá pessoas que não têm valor no campo de data mencionado.
+>Ao criar uma Smart List usando um filtro de campo de data (por exemplo, Data de nascimento, Data de criação do SFDC) e usar as restrições **[!UICONTROL antes]**, **[!UICONTROL em ou antes de]** ou **[!UICONTROL no passado antes]**, a Smart List também incluirá pessoas que não têm valor no campo de data.
 
 Use o diagrama a seguir para entender a diferença entre os operadores de data.
 
@@ -68,11 +68,11 @@ Use o diagrama a seguir para entender a diferença entre os operadores de data.
 >
 >Os campos de data podem complicar quando você está trabalhando com eventos passados e futuros. Veja alguns exemplos.
 >
->**No passado antes**
+>**[!UICONTROL No passado antes]**
 >
 >Na nova promoção, use esse operador para enviar emails somente para pessoas que não assinaram ou renovaram seu serviço em um ano ou que nunca foram assinantes.
 >
->**No futuro, após**
+>**[!UICONTROL No futuro, após]**
 >
 >Digamos que você queira ver os clientes que estão prontos para renovação em 90 dias. Você usaria dois filtros separados. Primeiro use &quot;No futuro, após 90 dias&quot; e, segundo, &quot;No futuro, 91 dias&quot;. Isso capturaria quem tiver uma data daqui a 90 dias.
 
