@@ -4,7 +4,7 @@ description: Configuração de um acionador de campanha inteligente para vendas 
 title: Configurar um acionador de campanha inteligente para vendas usando "A campanha é solicitada"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -24,21 +24,21 @@ Um dos recursos mais interessantes do Marketo é a capacidade de permitir que os
 >
 >Seja criativo. O que o vendedor gostaria de automatizar? Basta pedir-lhes e ligá-lo!
 
-1. Criar um **Campanha inteligente.**
+1. Crie uma campanha inteligente.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Localize e arraste o **A campanha é solicitada** acione para a tela.
+1. Localize e arraste o **[!UICONTROL A campanha é solicitada]** acione para a tela.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. As opções de origem indicam que tipo de solicitação será atendida. Para a funcionalidade do Salesforce, escolha **Vendas** **Insight**.
+1. As opções de origem indicam que tipo de solicitação será atendida. Para a funcionalidade do Salesforce, escolha **[!UICONTROL Sales Insight]**.
 
    >[!TIP]
    >
-   >Os operadores de origem são para segurança. Você pode restringir a campanha a solicitações feitas apenas por fontes específicas, como outras Campanhas inteligentes ou desenvolvedores. Escolher **É Qualquer** na primeira caixa se desejar permitir solicitações de todas as fontes.
+   >Os operadores de origem são para segurança. Você pode restringir a campanha a solicitações feitas apenas por fontes específicas, como outras Campanhas inteligentes ou desenvolvedores. Escolher **[!UICONTROL É Qualquer]** na primeira caixa se desejar permitir solicitações de todas as fontes.
    >
-   >**Lembrar** Em seguida, ao escolher Sales Insight, ele será exibido magicamente na caixa para vendas. Não exagere. Muitos serão ignorados por eles.
+   >_Lembrar_ Em seguida, ao escolher Sales Insight, ele será exibido magicamente na caixa para vendas. Não exagere. Muitos serão ignorados por eles.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 

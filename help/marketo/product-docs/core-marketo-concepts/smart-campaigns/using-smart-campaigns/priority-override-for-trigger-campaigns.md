@@ -3,20 +3,20 @@ description: Substituição de prioridade para campanhas do acionador - Document
 title: Substituição de prioridade para campanhas do acionador
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 8%
+source-wordcount: '247'
+ht-degree: 1%
 
 ---
 
 # Substituição de prioridade para campanhas do acionador {#priority-override-for-trigger-campaigns}
 
-Os administradores podem substituir a prioridade determinada pelo Marketo para acionar campanhas definindo prioridades que melhor se alinhem com os objetivos do negócio.
+Os administradores podem substituir a prioridade determinada de Marketo Engage para que as Campanhas de acionador definam prioridades que se alinhem melhor aos objetivos de negócios.
 
 >[!NOTE]
 >
->Esse recurso só está disponível para campanhas de acionador e para usuários que receberam a permissão [Permissão &quot;Editar Prioridade de Campanha do Acionador&quot;](#grant-priority-override-access).
+>Esse recurso só está disponível para Campanhas de acionador e para usuários que receberam a [Permissão &quot;Editar Prioridade de Campanha do Acionador&quot;](#grant-priority-override-access).
 
 >[!CAUTION]
 >
@@ -42,7 +42,7 @@ Os administradores podem substituir a prioridade determinada pelo Marketo para a
 
 ## Substituir prioridade {#override-priority}
 
-1. Localize sua campanha de acionadores. Clique com o botão direito do mouse e selecione **[!UICONTROL Substituir prioridade da campanha]**.
+1. Localize seu Trigger Campaign. Clique com o botão direito do mouse e selecione **[!UICONTROL Substituir prioridade da campanha]**.
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
@@ -58,4 +58,4 @@ Os administradores podem substituir a prioridade determinada pelo Marketo para a
 >
 >* Você pode visualizar a prioridade padrão da sua campanha no [!UICONTROL Fila de campanha] em [!UICONTROL Atividades de marketing]. Para aumentar a taxa de execução, recomendamos definir a prioridade da campanha para um nível superior ao padrão.
 >* A prioridade definida pelo usuário se aplica somente a novas pessoas que se qualificam para a campanha; as pessoas que já estão na fila não serão afetadas.
->* As sobreposições de prioridade são capturadas em [Trilha de auditoria](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
+>* As sobreposições de prioridade são capturadas em [Trilha de auditoria](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.

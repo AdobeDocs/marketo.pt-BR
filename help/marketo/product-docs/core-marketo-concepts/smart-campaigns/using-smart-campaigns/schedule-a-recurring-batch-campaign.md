@@ -4,7 +4,7 @@ description: Programar uma campanha em lote recorrente - Documentação do Marke
 title: Programar uma campanha em lote recorrente
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 A Recorrência permite executar uma Campanha em Lote regularmente. Por exemplo - uma vez por semana, às terças-feiras às 10h.
 
-1. Selecione a Campanha inteligente, vá para a página **Agendar** e clique em **Agendar Recorrência**.
+1. Selecione a Campanha inteligente, vá para a página **[!UICONTROL Agendar]** e clique em **[!UICONTROL Agendar Recorrência]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. Clique em **Agendar** e selecione **Semanalmente**.
+1. Clique em **[!UICONTROL Agendar]** e selecione **[!UICONTROL Semanalmente]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
@@ -31,13 +31,13 @@ A Recorrência permite executar uma Campanha em Lote regularmente. Por exemplo -
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Deixe Repetir a cada como 1, selecione Terça-feira e clique **Salvar**.
+1. Sair &quot;[!UICONTROL Repetir a cada]&quot; como 1, selecione Terça-feira e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
    >[!NOTE]
    >
-   >Para uma duração de execução específica, você pode clicar no ícone de calendário ao lado de **Encerra em** e escolha a data final.
+   >Para uma duração de execução específica, você pode clicar no ícone de calendário ao lado de **[!UICONTROL Encerra em]** e escolha a data final.
 
 As recorrências agendadas são exibidas na parte inferior da guia Schedule.
 

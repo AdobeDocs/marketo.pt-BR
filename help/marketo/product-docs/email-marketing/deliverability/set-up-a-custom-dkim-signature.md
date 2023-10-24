@@ -4,7 +4,7 @@ description: Configurar uma assinatura DKIM personalizada - Documentação do Ma
 title: Configurar uma assinatura DKIM personalizada
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -57,6 +57,8 @@ Você pode personalizar a assinatura DKIM para refletir os domínios de sua esco
    </tr>
    </tbody>
    </table>
+
+   <p>
 
 1. Envie o **Registro de host** e **Valor TXT** para a sua TI. Peça a eles que criem o registro para você e verifique se ele se propaga para todos os servidores de nomes associados ao domínio do. A verificação DKIM do Marketo exige que a chave DKIM seja propagada para todos os servidores de nomes associados ao domínio que está sendo assinado pelo DKIM.
 

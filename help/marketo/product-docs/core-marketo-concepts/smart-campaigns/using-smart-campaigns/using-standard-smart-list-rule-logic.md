@@ -4,7 +4,7 @@ description: Utilização Da Lógica Padrão De Regras Da Smart List - Documenta
 title: Utilização da Lógica Padrão de Regras de Smart List
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Você pode ter notado a opção &quot;Usar filtros&quot; ao criar Smart Lists do
 
 >[!NOTE]
 >
->A alteração da lógica da regra da lista inteligente se aplica somente a filtros, **não** acionadores.
+>A alteração da lógica da regra da lista inteligente se aplica somente a filtros, _não_ acionadores.
 
 Os acionadores são sempre avaliados como OU, mesmo se a configuração acima estiver definida como ALL. Veja um exemplo:
 
@@ -38,8 +38,8 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-Então, se uma pessoa preenche o formulário **ou** visita a página, a campanha avaliará essa pessoa com base em **all** ou **qualquer** dos filtros subsequentes, dependendo da configuração usada.
+Então, se uma pessoa preenche o formulário _ou_ visita a página, a campanha avaliará essa pessoa com base em _all_ ou _qualquer_ dos filtros subsequentes, dependendo da configuração usada.
 
 >[!MORELIKETHIS]
 >
->[Utilização da Lógica de Regra Avançada da Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
+>[Utilização da Lógica de Regra Avançada da Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}
