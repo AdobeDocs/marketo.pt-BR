@@ -4,7 +4,7 @@ description: Utilização Da Lógica De Regra Avançada Da Smart List - Document
 title: Utilização da Lógica de Regra Avançada da Smart List
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -13,32 +13,32 @@ ht-degree: 0%
 
 # Utilização da Lógica de Regra Avançada da Smart List {#using-advanced-smart-list-rule-logic}
 
-Você pode encontrar as pessoas exatas de que precisa aplicando a lógica da regra de lista inteligente a vários filtros em uma lista inteligente. Veja como.
+Você pode encontrar as pessoas exatas de que precisa aplicando a lógica da regra de Smart List a vários filtros em uma Smart List. Veja como.
 
 >[!PREREQUISITES]
 >
->* [Localizar e adicionar filtros a uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Definir filtros da lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
+>* [Localizar e adicionar filtros a uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+>* [Definir filtros da lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 >[!NOTE]
 >
->A lógica de filtro avançada só estará disponível se houver três ou mais filtros na lista inteligente.
+>A lógica de filtro avançada só estará disponível se houver três ou mais filtros na Smart List.
 
 ## Adicionar lógica a uma lista inteligente {#add-logic-to-a-smart-list}
 
-Por padrão, sua lista inteligente encontrará as pessoas que correspondem **TODOS** filtros (filtros 1) _e_ 2 _e_ 3). É possível alterar a lógica da regra para encontrar pessoas que correspondam **QUALQUER** dos filtros definidos (filtros 1 _ou_ 2 _ou_ 3), ou use filtros avançados (filtros 1 _e_ 2 _ou_ 3).
+Por padrão, sua lista inteligente encontrará as pessoas que correspondem **[!UICONTROL TODOS]** filtros (filtros 1) _e_ 2 _e_ 3). É possível alterar a lógica da regra para encontrar pessoas que correspondam **[!UICONTROL QUALQUER]** dos filtros definidos (filtros 1 _ou_ 2 _ou_ 3), ou use filtros avançados (filtros 1 _e_ 2 _ou_ 3).
 
 Neste exemplo, digamos que você queira encontrar pessoas na Califórnia _e_ com uma pontuação de pelo menos 50 pontos _ou_ com um status de &quot;Vendas qualificadas&quot;.
 
-1. Selecionar **Usar filtros avançados** no menu suspenso.
+1. Selecionar **[!UICONTROL Usar filtros avançados]** no menu suspenso.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >Usar **Avançado** O filtro reduz a necessidade de criar smart lists com o filtro Membro da Smart List. Isso ajuda a otimizar o desempenho.
+   >Usar **[!UICONTROL Avançado]** Os filtros reduzem a necessidade de criar Smart Lists com o filtro Membro da Smart List. Isso ajuda a otimizar o desempenho.
 
-1. A variável **Filtros avançados** A caixa de texto exibirá &quot;e&quot; como o valor padrão entre todos os filtros.
+1. A variável **[!UICONTROL Filtros avançados]** A caixa de texto exibirá &quot;e&quot; como o valor padrão entre todos os filtros.
 
    ![](assets/two-2.png)
 

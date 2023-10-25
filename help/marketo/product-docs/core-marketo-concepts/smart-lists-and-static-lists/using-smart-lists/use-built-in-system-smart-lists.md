@@ -4,34 +4,34 @@ description: Usar Smart Lists Integradas/Do Sistema - Documentação Do Marketo 
 title: Usar Smart Lists Integradas/do Sistema
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '195'
 ht-degree: 7%
 
 ---
 
 # Usar Smart Lists Integradas/do Sistema {#use-built-in-system-smart-lists}
 
-O Marketo tem algumas listas inteligentes integradas muito úteis. Vamos dar uma olhada!
+O Marketo Engage tem algumas Smart Lists integradas muito úteis. Vamos dar uma olhada!
 
-1. Vá para a **Banco de dados**.
+1. Vá para a **[!UICONTROL Banco de dados]**.
 
    ![](assets/db.png)
 
-1. Abra o **Listas inteligentes do sistema** pasta para revelar a coleção.
+1. Abra o **[!UICONTROL Listas inteligentes do sistema]** pasta para revelar a coleção.
 
    ![](assets/two.png)
 
-1. Para ver um exemplo: Selecione **Todas as pessoas** e, em seguida, clique na guia **Pessoas** guia.
+1. Para ver um exemplo: Selecione **[!UICONTROL Todas as pessoas]** e, em seguida, clique na guia **[!UICONTROL Pessoas]** guia.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Os filtros em listas inteligentes do sistema não precisam ser aplicados a cada lista/campanha inteligente. Seu conteúdo é reconhecido automaticamente.
+   >Os filtros em Smart Lists do sistema não precisam ser aplicados a cada Smart List/Campanha. Seu conteúdo é reconhecido automaticamente.
 
-Este é um resumo do que as listas inteligentes integradas fazem:
+Aqui está um resumo do que as Smart Lists integradas fazem:
 
 | Nome da lista | Descrição |
 |---|---|
@@ -48,4 +48,4 @@ Este é um resumo do que as listas inteligentes integradas fazem:
 
 >[!MORELIKETHIS]
 >
->[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

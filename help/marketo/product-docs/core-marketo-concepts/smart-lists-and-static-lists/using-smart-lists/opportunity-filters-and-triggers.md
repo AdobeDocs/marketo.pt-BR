@@ -4,7 +4,7 @@ description: Filtros e acionadores da oportunidade - Documentação do Marketo -
 title: Filtros e acionadores da oportunidade
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 5%
@@ -13,11 +13,11 @@ ht-degree: 5%
 
 # Filtros e acionadores da oportunidade {#opportunity-filters-and-triggers}
 
-Os filtros e acionadores de oportunidade permitem rastrear eventos de oportunidade do Salesforce. Eles são um pouco diferentes em comparação a outros filtros e acionadores.
+Os filtros e acionadores de oportunidade permitem rastrear eventos de oportunidade do Salesforce. Eles são um pouco diferentes se comparados a outros filtros e acionadores.
 
 ## Filtros de oportunidade {#opportunity-filters}
 
-Os filtros de oportunidade permitem que você se aprofunde em seus clientes potenciais do Salesforce que têm oportunidades. Você pode encontrá-las na pasta Oportunidades da Paleta ao editar uma lista inteligente. Eles vêm em alguns sabores.
+Os filtros de oportunidade permitem que você se aprofunde em seus clientes potenciais do Salesforce que têm oportunidades. Você pode encontrá-las na pasta Oportunidades da Paleta ao editar uma Smart List. Eles vêm em alguns sabores.
 
 * Número de oport
 * Valor total da oport.
