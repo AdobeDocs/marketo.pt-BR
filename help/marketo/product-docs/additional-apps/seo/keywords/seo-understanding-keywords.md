@@ -4,9 +4,9 @@ description: SEO - Noções básicas sobre palavras-chave - Documentação do Ma
 title: SEO - Noções básicas sobre palavras-chave
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,10 @@ A variável [!UICONTROL Palavras-chave] mostrará o sucesso do seu site em ating
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>Os dados são exibidos somente para palavras-chave classificadas entre 1 e 100.
 
 ## [!UICONTROL Palavras-chave] - Visão do Concorrente {#keywords-competitor-view}
 

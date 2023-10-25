@@ -4,9 +4,9 @@ description: Noções básicas sobre o painel de SEO - Instantâneo SEO - Docume
 title: Noções básicas sobre o painel de SEO - Instantâneo SEO
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '253'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Para descobrir em que se concentrar para melhorar seus esforços de SEO, use o [
 
 ## [!UICONTROL Resumo de classificação de palavra-chave] {#keyword-rank-summary}
 
-Esta seção mostra como seu site é classificado para a [palavras-chave que você está direcionando](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Esta seção mostra como seu site está classificado para a [palavras-chave que você está direcionando](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -35,7 +35,9 @@ Esta seção mostra como seu site é classificado para a [palavras-chave que voc
 >
 >Também é possível visualizar como uma [lista específica](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de palavras-chave está sendo executado. Clique na lista suspensa e selecione qual deles lhe interessa.
 
-Vamos lá! Vamos continuar andando.
+>[!NOTE]
+>
+>Os dados são exibidos somente para palavras-chave classificadas entre 1 e 100.
 
 ## [!UICONTROL Pontuação média de otimização de página] {#average-page-optimization-score}
 
