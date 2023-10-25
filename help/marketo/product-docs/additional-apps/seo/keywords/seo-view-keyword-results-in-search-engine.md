@@ -4,14 +4,14 @@ description: SEO - Exibir resultados de palavras-chave no mecanismo de pesquisa 
 title: SEO - Exibir resultados de palavras-chave no mecanismo de pesquisa
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-# SEO - Exibir resultados de palavras-chave no mecanismo de pesquisa {#seo-view-keyword-results-in-search-engine}
+# SEO - Exibir resultados de palavras-chave em um mecanismo de pesquisa {#seo-view-keyword-results-in-search-engine}
 
 Se você quiser ver como o conteúdo ficará dentro de um mecanismo de pesquisa, adicionamos um pequeno atalho útil.
 
