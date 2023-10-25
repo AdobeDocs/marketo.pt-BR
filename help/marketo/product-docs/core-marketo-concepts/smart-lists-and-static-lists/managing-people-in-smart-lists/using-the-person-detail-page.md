@@ -4,7 +4,7 @@ description: Uso da página de detalhes da pessoa - Documentação do Marketo - 
 title: Usando a Página Detalhes da Pessoa
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 49%
@@ -20,7 +20,7 @@ A página de detalhes da pessoa contém todas as informações que o Marketo sab
 Há muitas maneiras de abrir pessoas específicas. Alguns exemplos são:
 
 * No **Banco de dados**, você pode pesquisar na Localização Rápida
-* Qualquer **lista** ou lista
+* Qualquer **Lista inteligente** ou lista
 * **Membros** de um programa
 * **Exibir membros da campanha** em uma campanha inteligente
 * Alguns **relatórios**
@@ -100,8 +100,8 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 >* Oportunidades para Contatos SFDC
 >* Determinados campos específicos do Marketo, como Data de criação e Tipo de origem original.
 >
->Saiba mais sobre [Campos Gerenciados pelo Sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Saiba mais sobre [Campos Gerenciados pelo Sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Criando uma Guia Personalizada para a Página Detalhes da Pessoa](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[Criando uma Guia Personalizada para a Página Detalhes da Pessoa](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

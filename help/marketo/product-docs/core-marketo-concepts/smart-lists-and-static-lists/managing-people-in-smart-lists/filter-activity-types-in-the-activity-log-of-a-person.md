@@ -4,10 +4,10 @@ description: Filtrar tipos de atividade no Log de atividades de uma pessoa - Doc
 title: Filtrar tipos de atividade no registro de atividades de uma pessoa
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,27 +17,27 @@ Procure atividades que são mais importantes para você no registro de atividade
 
 >[!NOTE]
 >
->Saiba mais sobre [o registro de atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
+>Saiba mais sobre [o registro de atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
 
-1. Vá para a **Detalhes da pessoa** página. Clique em **Log de atividades** guia.
+1. Vá para a página Detalhes da Pessoa. Clique em **[!UICONTROL Log de atividades]** guia.
 
    ![](assets/one.png)
 
-1. Selecione o **Filtro** menu suspenso.
+1. Selecione o **[!UICONTROL Filtro]** menu suspenso.
 
    ![](assets/two-3.png)
 
 ## Criação de filtros personalizados {#creating-custom-filters}
 
-1. Clique em **Filtro** menu suspenso. Selecionar **Personalizado**.
+1. Clique em **[!UICONTROL Filtro]** menu suspenso. Selecionar **[!UICONTROL Personalizado]**.
 
    ![](assets/three-3.png)
 
-1. Selecione atividades para filtrar. Clique em **Salvar como**.
+1. Selecione atividades para filtrar. Clique em **[!UICONTROL Salvar como]**.
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Insira um **nome do filtro personalizado**. Clique em **Salvar**.
+1. Insira um **[!UICONTROL nome do filtro personalizado]**. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ Procure atividades que são mais importantes para você no registro de atividade
 
 ## Filtros salvos de referência {#reference-saved-filters}
 
-Filtros salvos podem ser acessados no **Filtro** menu suspenso.
+Filtros salvos podem ser acessados no [!UICONTROL Filtro] menu suspenso.
 
-1. Clique em **Filtros** menu suspenso. Selecionar **Personalizado**.
+1. Clique em **[!UICONTROL Filtros]** menu suspenso. Selecionar **[!UICONTROL Personalizado]**.
 
    ![](assets/seven-1.png)
 
-1. Clique em **Filtros salvos**. Os filtros salvos estão listados abaixo.
+1. Clique em **[!UICONTROL Filtros salvos]**. Os filtros salvos estão listados abaixo.
 
    ![](assets/eight.png)

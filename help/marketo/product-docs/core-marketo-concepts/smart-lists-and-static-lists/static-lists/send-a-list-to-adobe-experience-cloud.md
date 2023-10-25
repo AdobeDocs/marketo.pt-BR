@@ -4,9 +4,9 @@ description: Enviar uma lista para o Adobe Experience Cloud - Documentação do 
 title: Enviar uma lista para o Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Uma implantação pronta para HIPAA de uma instância do Marketo não pode usar esse recurso.
+>Uma implantação pronta para HIPAA de uma instância de Marketo Engage não pode usar esse recurso.
 
 >[!PREREQUISITES]
 >
@@ -24,7 +24,7 @@ ht-degree: 1%
 ## Aplicativos de destino suportados {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* ADOBE ANALYTICS (**somente** se você tiver uma licença do Adobe Audience Manager)
+* ADOBE ANALYTICS (_somente_ se você tiver uma licença do Adobe Audience Manager)
 * Adobe Audience Manager
 * Adobe Experience Manager
 * Adobe Real-time Customer Data Platform
@@ -34,19 +34,19 @@ ht-degree: 1%
 
 Uma lista estática é exatamente isso, estática. Nenhuma alteração ocorrerá na lista no Adobe Experience Cloud, a menos que você as faça manualmente.
 
-1. No Marketo, encontre a lista que deseja exportar. Clique com o botão direito do mouse e selecione **Enviar para o Experience Cloud**.
+1. No Marketo, encontre a lista que deseja exportar. Clique com o botão direito do mouse e selecione **[!UICONTROL Enviar para o Experience Cloud]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Clique em **Pasta Audience Manager** e selecione a pasta de destino desejada no Experience Cloud.
+1. Clique em **[!UICONTROL Pasta Audience Manager]** e selecione a pasta de destino desejada no Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
-1. Escolha se deseja criar um novo público ou substituir um já existente (neste exemplo, estamos criando um novo). Insira o novo nome de público e clique em **Enviar**.
+1. Escolha se deseja criar um novo público ou substituir um já existente (neste exemplo, estamos criando um novo). Insira o novo nome de público e clique em **[!UICONTROL Enviar]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
-1. Clique em **OK**.
+1. Clique em **[!UICONTROL OK]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
@@ -58,15 +58,15 @@ Uma lista estática é exatamente isso, estática. Nenhuma alteração ocorrerá
 
 Sincronizar uma lista significa que, sempre que você atualiza uma lista no Marketo, essa alteração é sincronizada automaticamente com o público-alvo no Adobe Experience Cloud.
 
-1. No Marketo, encontre a lista que deseja exportar. Clique com o botão direito do mouse e selecione **Enviar para o Experience Cloud**.
+1. No Marketo, encontre a lista que deseja exportar. Clique com o botão direito do mouse e selecione **[!UICONTROL Enviar para o Experience Cloud]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
-1. Clique em **Pasta da biblioteca de público-alvo** e selecione a pasta de destino desejada no Experience Cloud.
+1. Clique em **[!UICONTROL Pasta da biblioteca de público-alvo]** e selecione a pasta de destino desejada no Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
-1. Escolha se deseja criar um novo público ou substituir um já existente (neste exemplo, estamos criando um novo). Insira o novo nome de público-alvo, verifique a **Manter a associação de público-alvo em sincronia** e clique em **Enviar**.
+1. Escolha se deseja criar um novo público ou substituir um já existente (neste exemplo, estamos criando um novo). Insira o novo nome de público-alvo, verifique a **[!UICONTROL Manter a associação de público-alvo em sincronia]** e clique em **[!UICONTROL Enviar]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
@@ -78,15 +78,15 @@ Sincronizar uma lista significa que, sempre que você atualiza uma lista no Mark
 
 Você pode interromper a sincronização da sua lista a qualquer momento.
 
-1. No Marketo, localize e clique com o botão direito do mouse na lista que deseja interromper a sincronização. Clique em **Parar Sincronização de Lista**.
+1. No Marketo, localize e clique com o botão direito do mouse na lista que deseja interromper a sincronização. Clique em **[!UICONTROL Parar Sincronização de Lista]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
 
-1. Selecione os públicos que você deseja parar de sincronizar e clique em **Parar**.
+1. Selecione os públicos que você deseja parar de sincronizar e clique em **[!UICONTROL Parar]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
 
-1. Clique em **Parar** para confirmar.
+1. Clique em **[!UICONTROL Parar]** para confirmar.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
@@ -94,7 +94,7 @@ Você pode interromper a sincronização da sua lista a qualquer momento.
 
 **Compartilhamento no Adobe Analytics**
 
-Para clientes que possuem o Adobe Audience Manager e o Adobe Analytics, essa integração permitirá que os públicos-alvo sejam compartilhados do Marketo com seus Conjuntos de relatórios do Adobe Analytics. No entanto, há algumas etapas de configurações adicionais que precisam ser executadas no Adobe Audience Manager para habilitar isso. Consulte a documentação da Adobe Audience Manager para obter mais informações sobre como configurar isso: [https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Para clientes que possuem o Adobe Audience Manager e o Adobe Analytics, essa integração permitirá que os públicos-alvo sejam compartilhados do Marketo com seus Conjuntos de relatórios do Adobe Analytics. No entanto, há algumas etapas de configurações adicionais que precisam ser executadas no Adobe Audience Manager para habilitar isso. Revise [Documentação da Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} para obter mais informações sobre como configurar isso.
 
 **Uso de características para clientes do Adobe Audience Manager**
 
@@ -114,7 +114,7 @@ Por baixo dos panos, a integração do público-alvo funciona sincronizando os c
 
 Quando a sincronização de cookies estiver ativada para sua assinatura do Marketo, o munchkin.js da Marketo tentará capturar e armazenar ECIDs de Adobe para a Organização IMS da Adobe especificada durante a configuração de integração e corresponderá essas ECIDs ao identificador de cookie do Marketo correspondente. Isso permite que perfis de usuários anônimos da Marketo sejam enriquecidos com Adobe ECIDs.
 
-Uma outra etapa é necessária para associar o perfil de usuário anônimo a um Perfil principal, que é identificado usando um email de texto sem formatação. Exatamente como isso funciona é [descrito aqui](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+Uma outra etapa é necessária para associar o perfil de usuário anônimo a um Perfil principal, que é identificado usando um email de texto sem formatação. Exatamente como isso funciona é [descrito aqui](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Que informações são compartilhadas?**
 

@@ -4,7 +4,7 @@ description: Localizar e mesclar pessoas duplicadas - Documentação do Marketo 
 title: Localizar e Mesclar Pessoas Duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Localizar e Mesclar Pessoas Duplicadas {#find-and-merge-duplicate-people}
 
-O Marketo remove a duplicação automaticamente quando novas pessoas entram no sistema. No entanto, seu CRM pode ter enviado inicialmente duplicatas para o Marketo. Veja como uni-los.
+O Marketo Engage remove a duplicação automaticamente quando novas pessoas entram no sistema. No entanto, seu CRM pode ter enviado inicialmente duplicatas. Veja como uni-los.
 
 >[!CAUTION]
 >
@@ -21,7 +21,7 @@ O Marketo remove a duplicação automaticamente quando novas pessoas entram no s
 
 >[!PREREQUISITES]
 >
->A descoberta e a mesclagem de duplicatas envolverão o uso de [listas inteligentes integradas/do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>A descoberta e a mesclagem de duplicatas envolverão o uso de [Smart Lists integradas/do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ O Marketo remove a duplicação automaticamente quando novas pessoas entram no s
 
 ## Localizar duplicados {#find-duplicates}
 
-1. Vá para a **Banco de dados** área.
+1. Vá para a **[!UICONTROL Banco de dados]** área.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,7 +37,7 @@ O Marketo remove a duplicação automaticamente quando novas pessoas entram no s
    >
    >A mesclagem de pessoas no Marketo pode não funcionar se você usar uma conta pessoal do Salesforce. Mescle os registros no Salesforce, se possível.
 
-1. Selecione o **Possíveis duplicatas** lista inteligente do sistema e clique no botão **Pessoas** guia.
+1. Selecione o **[!UICONTROL Possíveis duplicatas]** System Smart List (Lista inteligente do sistema) e clique no botão **[!UICONTROL Pessoas]** guia.
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
@@ -49,9 +49,9 @@ O Marketo remove a duplicação automaticamente quando novas pessoas entram no s
 
 >[!CAUTION]
 >
->Ao mesclar pessoas, se a pessoa perdida tiver um objeto personalizado do Marketo, isso **não** seja reassociado à pessoa vencedora. Reordene o objeto personalizado antes de executar a mesclagem.
+>Ao mesclar pessoas, se a pessoa perdida tiver um objeto personalizado do Marketo, isso _não_ seja reassociado à pessoa vencedora. Reordene o objeto personalizado antes de executar a mesclagem.
 
-1. Selecione as duplicatas mantendo pressionada a tecla Ctrl/Cmd e clicando em e, em seguida, clique em **Mesclar pessoas**.
+1. Selecione as duplicatas mantendo pressionada a tecla Ctrl/Cmd e clicando em e, em seguida, clique em **[!UICONTROL Mesclar pessoas]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ O Marketo remove a duplicação automaticamente quando novas pessoas entram no s
    >
    >Você pode ter duas ou mais duplicatas para a mesma pessoa - selecione-as todas de uma vez.
 
-1. Você verá os valores entre os registros _não_ corresponde. Selecione o valor que deseja manter para cada campo. Clique em **Mesclar** quando terminar. Se você não quiser nenhum valor, verifique **Personalizado** e insira um valor de sua escolha.
+1. Você verá os valores entre os registros _não_ corresponde. Selecione o valor que deseja manter para cada campo. Clique em **[!UICONTROL Mesclar]** quando terminar. Se você não quiser nenhum valor, verifique **[!UICONTROL Personalizado]** e insira um valor de sua escolha.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 

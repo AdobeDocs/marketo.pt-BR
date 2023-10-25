@@ -4,7 +4,7 @@ description: Painel de banco de dados - Documentação do Marketo - Documentaç�
 title: Painel do Banco de Dados
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -19,7 +19,7 @@ O Painel de controle do banco de dados serve como um instantâneo para ajudá-lo
 >
 >Cada espaço de trabalho tem seu próprio painel de banco de dados.
 
-Para chegar lá, selecione **Banco de dados** do seu Marketo.
+Para chegar lá, selecione **[!UICONTROL Banco de dados]** do seu Marketo.
 
 ![](assets/database-dashboard-1.png)
 
@@ -29,7 +29,7 @@ Os gráficos indicam o número total de pessoas, o número de pessoas comerciali
 
 >[!TIP]
 >
->Deseja obter informações mais específicas ou oportunas sobre seu pessoal? Experimente um [Relatório de Desempenho de Pessoas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>Deseja obter informações mais específicas ou oportunas sobre seu pessoal? Experimente um [Relatório de Desempenho de Pessoas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
 **Total de pessoas:** O número total de pessoas do espaço de trabalho listado.
 

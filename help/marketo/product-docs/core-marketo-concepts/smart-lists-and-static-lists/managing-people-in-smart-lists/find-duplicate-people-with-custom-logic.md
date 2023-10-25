@@ -4,30 +4,30 @@ description: Localizar pessoas duplicadas com lógica personalizada - Documenta�
 title: Localizar pessoas duplicadas com lógica personalizada
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '138'
 ht-degree: 6%
 
 ---
 
 # Localizar pessoas duplicadas com lógica personalizada {#find-duplicate-people-with-custom-logic}
 
-O Marketo tem uma lista inteligente do sistema que encontra pessoas duplicadas ao corresponder seus endereços de email. Se quiser usar outro campo para localizar duplicatas, veja como.
+O Marketo Engage tem uma Lista inteligente do sistema que encontra pessoas duplicadas ao corresponder seus endereços de email. Se quiser usar outro campo para localizar duplicatas, veja como.
 
 >[!PREREQUISITES]
 >
->[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Vá para a **Atividades de marketing** área.
+1. Vá para a **[!UICONTROL Atividades de marketing]** área.
 
 ![](assets/ma-2.png)
 
-1. Selecione sua lista inteligente, clique no botão **Lista inteligente** guia.
+1. Selecione sua lista inteligente, clique no botão **[!UICONTROL Lista inteligente]** guia.
 
    ![](assets/two-4.png)
 
-1. Localize e arraste o **Duplicar campos** filtro na tela de desenho.
+1. Localize e arraste o **[!UICONTROL Duplicar campos]** filtro na tela de desenho.
 
    ![](assets/three-4.png)
 
@@ -44,4 +44,4 @@ O Marketo tem uma lista inteligente do sistema que encontra pessoas duplicadas a
 
    ![](assets/four-2.png)
 
-   Feito! Execute a lista inteligente para encontrar pessoas com o mesmo valor no campo selecionado anteriormente.
+   Concluído! Execute a Smart List para localizar pessoas com o mesmo valor no campo selecionado anteriormente.
