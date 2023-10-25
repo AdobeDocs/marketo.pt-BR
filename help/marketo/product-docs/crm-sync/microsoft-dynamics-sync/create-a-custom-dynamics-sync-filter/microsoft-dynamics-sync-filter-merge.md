@@ -4,7 +4,7 @@ description: Filtro de sincronização do Microsoft Dynamics - Mesclar - Documen
 title: Filtro de sincronização do Microsoft Dynamics - Mesclar
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 4%
@@ -22,6 +22,6 @@ Os registros de lead tornam-se verdadeiros ou falsos com base nas regras de flux
 | Se o filtro de sincronização do registro perdido for: | e o filtro de sincronização do registro vencedor é: | Este é o resultado no Marketo |
 |---|---|---|
 | True | True | O registro vencedor continua a sincronização com o Marketo |
-| Falso | Falso | O recorde de vitórias continua a **não** sincronizar com o Marketo |
+| Falso | Falso | O recorde de vitórias continua a _não_ sincronizar com o Marketo |
 | Falso | True | O registro vencedor será sincronizado com o Marketo |
 | True | Falso | O registro vencedor não será sincronizado com o Marketo |

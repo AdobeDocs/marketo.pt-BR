@@ -4,16 +4,16 @@ description: Microsoft Dynamics Sync — Sincronização de conta — Documenta�
 title: Microsoft Dynamics Sync - Sincronização de conta
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
 # Microsoft Dynamics Sync: Sincronização de Conta {#microsoft-dynamics-sync-account-sync}
 
-Você sabia que o Marketo sincroniza todo o seu banco de dados com o Dynamics? Ele sincroniza, depois aguarda 5 minutos e depois sincroniza novamente, o dia todo, todos os dias. Estes são alguns detalhes sobre como o Marketo trata especificamente contas do Dynamics.
+Você sabia que o Marketo Engage sincroniza todo o banco de dados com o Dynamics? Ele sincroniza, depois aguarda 5 minutos e depois sincroniza novamente, o dia todo, todos os dias. Estes são alguns detalhes sobre como o Marketo trata especificamente contas do Dynamics.
 
 ## De que forma as informações são sincronizadas? {#which-way-does-the-information-sync}
 
@@ -25,11 +25,11 @@ Se você atualizar um campo Conta para um contato no Marketo, os valores de todo
 
 ## Posso criar uma conta usando o Marketo? {#can-i-create-an-account-using-marketo}
 
-Nº O Marketo não pode criar contas no Dynamics.
+Não. O Marketo não pode criar contas no Dynamics.
 
 ## Quais campos serão sincronizados com o Marketo? {#which-fields-will-sync-to-marketo}
 
-Você pode [selecionar campos para sincronização](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) durante a configuração. Mas o Marketo só sincronizará os campos aos quais o usuário de sincronização do Dynamics tem acesso.
+Você pode [selecionar campos para sincronização](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} durante a configuração. Mas o Marketo só sincronizará os campos aos quais o usuário de sincronização do Dynamics tem acesso.
 
 ## Uma alteração em um campo de conta no Dynamics resulta em um log de atividade Alterar valor de dados para cada contato?  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 

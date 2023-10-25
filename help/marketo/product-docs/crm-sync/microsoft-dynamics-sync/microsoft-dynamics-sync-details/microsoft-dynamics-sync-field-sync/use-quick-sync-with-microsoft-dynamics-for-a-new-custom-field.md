@@ -4,10 +4,10 @@ description: Usar a sincronização rápida com o Microsoft Dynamics para um nov
 title: Usar a sincronização rápida com o Microsoft Dynamics para um novo campo personalizado
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 0%
+source-wordcount: '354'
+ht-degree: 1%
 
 ---
 
@@ -23,19 +23,19 @@ A Sincronização Rápida pode sincronizar valores nulos. Por exemplo, se você 
 
 Veja como usar a Sincronização rápida para ressincronizar novos campos.
 
-1. No Marketo, clique em **Admin**.
+1. No Marketo Engage, clique em **[!UICONTROL Admin]**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Clique em **Microsoft Dynamics**.
+1. Clique em **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. Em Detalhes da sincronização de campo, clique em **Editar**.
+1. Em Detalhes da sincronização de campo, clique em **[!UICONTROL Editar]**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
-1. Selecione os campos para sincronização rápida e clique em **Salvar**.
+1. Selecione os campos para sincronização rápida e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2016-8-25-15-3a26-3a11.png)
 
@@ -55,7 +55,7 @@ Veja como usar a Sincronização rápida para ressincronizar novos campos.
 
 E se você quiser sincronizar um campo existente, mas isso apenas para um conjunto limitado de dados? Veja como.
 
-1. Desmarque a caixa de seleção de um campo existente. Clique em **Salvar**.
+1. Desmarque a caixa de seleção de um campo existente. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2016-8-25-16-3a16-3a32.png)
 
@@ -63,11 +63,11 @@ E se você quiser sincronizar um campo existente, mas isso apenas para um conjun
 
    ![](assets/select-field-reselect-hand.png)
 
-1. Clique em **Sincronização avançada**.
+1. Clique em **[!UICONTROL Sincronização avançada]**.
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Escolher **Atualizado** e selecione um intervalo de datas usando os seletores de data. Clique em **Salvar**.
+1. Escolher **[!UICONTROL Atualizado]** e selecione um intervalo de datas usando os seletores de data. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -77,11 +77,11 @@ E se você quiser sincronizar um campo existente, mas isso apenas para um conjun
 
 No raro caso em que um campo do Dynamics e do Marketo está fora de sincronia, há uma maneira rápida e fácil de ressincronizá-los.
 
-1. Desmarque o campo e clique em **Salvar**.
+1. Desmarque o campo e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
-1. Selecione o campo novamente e clique em **Salvar**. Isso é tudo!
+1. Selecione o campo novamente e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
