@@ -4,9 +4,9 @@ description: Configurar protocolos para o Marketo - Documentação do Marketo - 
 title: Configurar protocolos para o Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '968'
 ht-degree: 4%
 
 ---
@@ -15,13 +15,7 @@ ht-degree: 4%
 
 Incluir na lista de permissões Se você ou sua organização usarem configurações restritivas de firewall ou servidor proxy, talvez você ou o administrador de rede precise pesquisar determinados domínios e intervalos de endereço IP para garantir que o Adobe Marketo Engage funcione conforme esperado.
 
-## Páginas de aterrissagem e e-mails de campanha com marca {#branded-campaign-landing-pages-and-emails}
-
-Seu grupo de marketing está usando o Marketo para criar landing pages de campanha e emails com a marca. Para garantir que essas landing pages e emails funcionem, eles precisam de uma pequena ajuda da TI. Configure os seguintes protocolos, com as informações que o seu grupo de marketing deveria ter enviado por email.
-
-Este artigo deve ser compartilhado com o departamento de TI da empresa que deseja implementar esses protocolos.
-
-Se sua equipe de TI restringir o acesso à Web usando uma inclui na lista de permissões, peça que eles adicionem os seguintes domínios (incluindo o asterisco) para permitir todos os recursos e soquetes da Marketo:
+Para obter ajuda sobre como implementar os protocolos abaixo, compartilhe este artigo com seu departamento de TI. Se eles restringirem o acesso à Web usando um incluo na lista de permissões, verifique se adicionaram os seguintes domínios (incluindo o asterisco) para permitir todos os recursos e websockets do Marketo:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
