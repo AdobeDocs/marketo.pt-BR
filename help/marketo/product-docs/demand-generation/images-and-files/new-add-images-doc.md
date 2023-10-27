@@ -4,10 +4,10 @@ title: Novo Documento Adicionar Imagens
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
+source-git-commit: 100a12a2d9cafe73b6ce62cecee177da604332d3
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 10%
+source-wordcount: '262'
+ht-degree: 7%
 
 ---
 
@@ -51,11 +51,15 @@ Texto
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. Selecione o **Web** opção.
+1. Selecione o **[!UICONTROL Web]** e clique em **[!UICONTROL Próxima]**.
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. Texto
+1. Digite ou cole o URL para a imagem desejada e clique em **Próxima**.
+
+PICC
+
+1. Clique em BRANCO.
 
 PICC
 
@@ -67,9 +71,27 @@ Texto
 
 1. Clique em **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Importar imagem ou arquivo]**.
 
-PICC
+   ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. Texto
+1. Selecione o **[!UICONTROL Caixa]** e clique em **[!UICONTROL Próxima]**.
+
+   ![](assets/add-images-and-files-to-marketo-11.png)
+
+   >[!NOTE]
+   >
+   >Se ainda não tiver feito isso, você será solicitado a fazer logon em sua conta do Box para conceder acesso.
+
+1. Selecione a pasta Caixa desejada e clique em **[!UICONTROL Próxima]**.
+
+   ![](assets/add-images-and-files-to-marketo-12.png)
+
+1. Selecione as imagens desejadas e clique em **[!UICONTROL Próxima]**.
+
+   ![](assets/add-images-and-files-to-marketo-13.png)
+
+1. Selecione a pasta Marketo Engage na qual você deseja que a imagem seja salva. Neste exemplo, vamos deixá-lo como Imagens e arquivos (padrão). Clique em **Importar**.
+
+   ![](assets/add-images-and-files-to-marketo-14.png)
 
 ### Importar do Adobe Experience Manager {#import-from-adobe-experience-manager}
 
@@ -78,6 +100,18 @@ Texto
 1. Siga as etapas 1 e 2 [de cima](#upload-image-or-file).
 
 1. Clique em **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Importar imagem ou arquivo]**.
+
+   ![](assets/add-images-and-files-to-marketo-15.png)
+
+1. Texto
+
+PICC
+
+1. Texto
+
+PICC
+
+1. Texto
 
 PICC
 
