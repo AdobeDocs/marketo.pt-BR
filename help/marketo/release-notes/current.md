@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a69c6955f0390f791d8e45056967e8f0eb4699d7
+source-git-commit: d0302459ac521d6b0dc6dc699fa7d99b38b9f058
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 6%
+source-wordcount: '346'
+ht-degree: 5%
 
 ---
 
@@ -31,8 +31,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr> 
   <tr> 
    <td><strong>Novo design para configuração de relatório em UX moderno</strong>: ao configurar um ativo de relatório, você terá uma <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nova árvore de ativos</a> no menu de configuração, bem como a capacidade de filtrar por data de criação e modificação.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
    <tr> 
    <td> </td> 
