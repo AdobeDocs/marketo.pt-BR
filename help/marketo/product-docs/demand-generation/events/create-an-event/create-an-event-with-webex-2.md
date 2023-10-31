@@ -4,14 +4,16 @@ title: Criar um evento com o Webex
 hide: true
 hidefromtoc: true
 feature: Events
-source-git-commit: 286e1b7b563be70e932206adec6f80b4877b7953
+source-git-commit: eb7bea86a5696ff2699b38b27291deeb5cbe7ab2
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '602'
 ht-degree: 1%
 
 ---
 
 # Criar um evento com o Webex {#create-an-event-with-webex}
+
+Depois de criar um webinário no Webex, será necessário sincronizar o evento com o Marketo Engage.
 
 >[!PREREQUISITES]
 >
@@ -19,13 +21,9 @@ ht-degree: 1%
 >* [Criar um novo programa de evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Defina as [ações de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) para rastrear o envolvimento
 
-## Programar um webinário {#schedule-a-webinar}
+## Agendar Seu Webinário {#schedule-your-webinar}
 
-Primeiro, crie um webinário no [Webex](https://www.webex.com/){target="_blank"}. Marketo Engage only uses specific settings and fields for your integration, which we'll go through shortly. For additional information, please see the [Webex Webinars Help Documentation](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
-
->[!NOTE]
->
->Você escolhe suas configurações preferidas no Webex, mas somente as seguintes informações são visualizadas no Marketo Engage: nome do webinário, data e hora de início/término, fuso horário e descrição.
+Agende o evento e escolha as configurações de sua preferência no [Webex](https://www.webex.com/){target="_blank"}. Only the following information is viewable in Marketo: webinar name, start/end date & time, time zone, and description. Additional information about Webex Webinars [can be found here](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
 ### Informações básicas {#basic-information}
 
@@ -71,11 +69,9 @@ Primeiro, crie um webinário no [Webex](https://www.webex.com/){target="_blank"}
 >
 >A integração Marketo-Webex não oferece suporte ao envio de emails de confirmação do Webex. A confirmação deve ser enviada via Marketo. Depois de programar o evento, copie as informações do evento no email de confirmação do Marketo e defina o email como _Operacional_.
 
-Agora estamos prontos para entrar no Marketo Engage!
-
 ## Sincronizar o evento com o Marketo Engage {#sync-your-event-with-marketo-engage}
 
-1. No Marketo, localize e selecione o Programa de evento que você criou. No **Ações de evento** selecione **Configurações do evento**.
+1. No Marketo, localize e selecione o Programa de evento desejado. No **Ações de evento** selecione **Configurações do evento**.
 
    ![](assets/create-an-event-with-webex-5.png)
 
@@ -99,7 +95,7 @@ Agora estamos prontos para entrar no Marketo Engage!
 
    ![](assets/create-an-event-with-webex-9.png)
 
-Seu evento Webex agora está sincronizado com seu evento do Marketo. As pessoas que se inscreverem no seu webinário serão enviadas ao seu provedor de webinário por meio do _Alterar status do programa_ etapa do fluxo quando o Novo status é definido como &quot;Registrado&quot;. Nenhum outro status enviará a pessoa. Certifique-se de _Alterar status do programa_ etapa de fluxo #1, e _Enviar e-mail_ etapa de fluxo #2.
+Seu evento Webex agora está sincronizado com seu Programa de evento do Marketo. As pessoas que se inscreverem no seu webinário serão enviadas ao seu provedor de webinário por meio do _Alterar status do programa_ etapa do fluxo quando o novo status é definido como &quot;Registrado&quot;. Nenhum outro status enviará a pessoa. Certifique-se de _Alterar status do programa_ etapa de fluxo #1, e _Enviar e-mail_ etapa de fluxo #2.
 
 ## Itens a Observar {#things-to-note}
 
