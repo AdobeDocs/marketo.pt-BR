@@ -4,9 +4,9 @@ description: Filtrar ativos em relatórios de email de campanha - Documentação
 title: Filtrar ativos em relatórios de email de uma campanha
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Filtrar ativos em relatórios de email de uma campanha {#filter-assets-in-a-campaign-email-reports}
 
 Concentre seus [Desempenho do email da campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) relatório sobre [campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) em seus programas (&#39;ativos locais&#39;) ou naqueles que foram arquivados.
+
+>[!NOTE]
+>
+>A filtragem de ativos em relatórios não é compatível com o modo satélite (o ícone &quot;abrir em uma nova janela&quot; à direita da página de detalhes do ativo).
 
 1. Ir para **Analytics** (ou **Atividades de marketing**).
 

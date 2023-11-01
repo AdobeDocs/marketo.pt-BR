@@ -4,9 +4,9 @@ description: Filtrar um relatório de atividade de campanha - Documentação do 
 title: Filtrar um relatório de atividade de campanha
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Filtrar um relatório de atividade de campanha {#filter-a-campaign-activity-report}
 
 Concentre seus [Relatório de atividades de campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)em [campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+
+>[!NOTE]
+>
+>A filtragem de ativos em relatórios não é compatível com o modo satélite (o ícone &quot;abrir em uma nova janela&quot; à direita da página de detalhes do ativo).
 
 1. Ir para **Atividades de marketing** (ou **Analytics**) e selecione o relatório de atividades da campanha.
 
