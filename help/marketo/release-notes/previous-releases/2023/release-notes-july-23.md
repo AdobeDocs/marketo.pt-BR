@@ -2,11 +2,11 @@
 description: Notas de versão - julho de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - julho de 2023
 feature: Release Information
-exl-id: bda861e3-24a1-4325-9b4c-f65a046d7696
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4056353c-4125-4849-8350-59c58afb9e66
+source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
 workflow-type: tm+mt
-source-wordcount: '641'
-ht-degree: 6%
+source-wordcount: '654'
+ht-degree: 5%
 
 ---
 
@@ -92,7 +92,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 </br>
 
-* **Cancelar inscrição das configurações de acréscimo**: Agora você tem mais controle sobre as mensagens de cancelamento de inscrição com novas opções de configuração para Cancelar inscrição anexado. Novos recursos fornecem aos administradores controle sobre quando, onde e quais mensagens de cancelamento de inscrição aparecerão em seus emails de vendas.
+* **Cancelar inscrição das configurações de acréscimo para ações de insights de vendas**: Agora você tem mais controle sobre as mensagens de cancelamento de inscrição com novas opções de configuração para Cancelar inscrição anexado. Novos recursos fornecem aos administradores controle sobre quando, onde e quais mensagens de cancelamento de inscrição aparecerão em seus emails de vendas.
 
 <table> 
   <tr> 
@@ -100,13 +100,13 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Configuração de Mensagem de Cancelamento de Inscrição de Anexação Automática</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Prompts de campo dinâmico**: Agora você pode solicitar que sua equipe de vendas personalize partes específicas de um email ainda mais com novos Avisos de campo disponíveis para serem adicionados aos modelos de email em Ações de insights de vendas.
+* **Prompts de campo dinâmico para ações de insight de vendas**: Agora você pode solicitar que sua equipe de vendas personalize partes específicas de um email ainda mais com novos Avisos de campo disponíveis para serem adicionados aos modelos de email em Ações de insights de vendas.
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Campos dinâmicos padrão**: os Campos dinâmicos padrão permitem configurar um valor de fallback que um Campo dinâmico pode resolver se não houver um valor disponível para preenchimento. Isso ajuda a garantir que os emails sejam enviados com toda a personalização preenchida.
+* **Campos dinâmicos padrão para ações de insight de vendas**: os Campos dinâmicos padrão permitem configurar um valor de fallback que um Campo dinâmico pode resolver se não houver um valor disponível para preenchimento. Isso ajuda a garantir que os emails sejam enviados com toda a personalização preenchida.
 
 <table> 
   <tr> 
