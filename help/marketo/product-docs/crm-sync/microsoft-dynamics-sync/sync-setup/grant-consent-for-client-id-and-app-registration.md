@@ -3,14 +3,16 @@ description: Conceder consentimento para registro da ID do cliente e do aplicati
 title: Conceder consentimento para a ID do cliente e o registro do aplicativo
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # Conceder consentimento para a ID do cliente e o registro do aplicativo {#grant-consent-for-client-id-and-app-registration}
+
+Siga as etapas abaixo para saber como conceder o consentimento/as permissões necessárias.
 
 ## Conceder permissões de usuário delegado para o usuário de sincronização {#grant-delegated-user-permissions-for-the-sync-user}
 
@@ -63,7 +65,7 @@ ht-degree: 0%
    >
    >Se você já estiver conectado ao Azure como um Administrador em outra guia, precisará usar um navegador diferente ou modo Incógnito para fazer logon como o Usuário da sincronização.
 
-1. Clique em **Aceitar**.
+1. Clique em **[!UICONTROL Aceitar]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
@@ -73,15 +75,14 @@ Como administrador, você também pode consentir com as permissões delegadas de
 
 1. No portal do Azure, navegue até a página inicial do aplicativo.
 
-1. Em Gerenciar, clique em **Permissões de API**.
+1. Em Gerenciar, clique em **[!UICONTROL Permissões de API]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Clique em **Dar consentimento administrativo** (para locatário) botão.
+1. Clique em **[!UICONTROL Dar consentimento administrativo]** (para locatário) botão.
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Clique em **Sim** para confirmar.
+1. Clique em **[!UICONTROL Sim]** para confirmar.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
-
