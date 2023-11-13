@@ -3,9 +3,9 @@ description: Noções básicas sobre a assinatura do Marketo e a migração de u
 title: Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: cc7f5880dba926349ddf763e5b28fc4a922aa26d
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '1169'
+source-wordcount: '1189'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Como parte da migração, sua assinatura e o gerenciamento de usuários passarã
 * **Os usuários entrarão com a Identidade do Adobe**. O Adobe migrará os usuários existentes para o Adobe Admin Console. Os usuários farão logon nas assinaturas do Marketo usando sua nova Identidade de Adobe - seja um Adobe ID ou Adobe Federated ID (SSO).
 
 * **Não há alterações na maneira como você gerencia todas as outras funcionalidades** no próprio aplicativo Marketo Engage, incluindo gerenciamento de recursos, funções de usuário, espaços de trabalho, funcionalidade e comportamento.
-
 
 ## Cronograma da Jornada de migração {#migration-journey-timeline}
 
@@ -81,7 +80,7 @@ Como administrador de produto do Marketo, é recomendável garantir que todos os
 
 ### O que esperar no dia da migração {#what-to-expect-on-migration-day}
 
-A migração do usuário será iniciada à meia-noite, hora padrão do Pacífico da data de início da migração.
+Todas as assinaturas do Marketo com fuso horário dos EUA serão migradas a partir da meia-noite, hora padrão do Pacífico, da data de início da migração. A migração de usuário para todas as outras assinaturas começará à meia-noite do fuso horário especificado da assinatura.
 
 **O Adobe migra automaticamente os administradores do Marketo primeiro**. Quando os administradores do Marketo migrarem para a Identidade do Adobe, eles receberão a função de administrador de produto do Adobe no aplicativo do Marketo, juntamente com quaisquer outras funções que tenham tido anteriormente.
 
@@ -93,7 +92,9 @@ A migração do usuário será iniciada à meia-noite, hora padrão do Pacífico
 >
 >Não haverá perda de acesso ao produto durante a migração do usuário. Se um usuário fizer logon durante o tempo em que for migrado, ele será desconectado e receberá uma solicitação para fazer logon novamente em minutos usando a Identidade do Adobe após a conclusão da migração.
 
-À medida que os usuários são migrados, eles recebem um email do Adobe notificando-os sobre a alteração na maneira como fazem logon no Marketo. Os usuários serão convidados a aceitar um convite para fazer logon usando a Identidade do Adobe pela primeira vez, seja fazendo logon com uma Adobe ID existente ou configurando uma nova Adobe ID usando o mesmo endereço de email. Mais informações podem ser encontradas em nosso [Logon do usuário com o Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} artigo.
+À medida que os usuários são migrados, eles recebem um email do Adobe notificando-os sobre a alteração na maneira como fazem logon no Marketo. Os usuários serão convidados a aceitar um convite para fazer logon usando a Identidade do Adobe pela primeira vez, seja fazendo logon com uma Adobe ID existente ou configurando uma nova Adobe ID usando o mesmo endereço de email.
+
+Mais informações podem ser encontradas em [Logon do usuário com o Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 ## Migração de usuário concluída {#user-migration-complete}
 

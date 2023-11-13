@@ -3,14 +3,14 @@ description: Perguntas frequentes sobre o Adobe Identity Management - Documenta�
 title: Perguntas frequentes sobre o Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '780'
-ht-degree: 2%
+source-wordcount: '783'
+ht-degree: 3%
 
 ---
 
-# Perguntas frequentes {#faq}
+# Perguntas frequentes sobre o Adobe Identity Management {#adobe-identity-management-faq}
 
 **O que é a Identidade Adobe?**
 
@@ -48,7 +48,7 @@ Mesmo se você tiver outros produtos Adobe, não poderá acessar o Marketo com A
 
 **As funções de usuário do Marketo (em espaços de trabalho) são gerenciadas no Adobe Admin Console?**
 
-Nº O gerenciamento de Função do usuário (em espaços de trabalho) é concluído no Marketo Engage.
+Não. O gerenciamento de Função do usuário (em espaços de trabalho) é concluído no Marketo Engage.
 
 **Sou um Administrador do Marketo em uma assinatura integrada do IMS e não tenho acesso ao Admin Console. Como faço para obter acesso?**
 
@@ -72,7 +72,7 @@ Os integrados à identidade Adobe podem acessar todas as assinaturas habilitadas
 
 **Isso funciona com SSO?**
 
-Sim. A integração do Marketo com o Adobe IMS é compatível com usuários da Universal ID e SSO. O SSO agora é orientado pelo Adobe IMS e é configurado no nível da organização na Adobe Admin Console. [Saiba mais aqui](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+Sim. A integração do Marketo com o Adobe IMS é compatível com usuários da Universal ID e SSO. O SSO agora é orientado pelo Adobe IMS e é configurado no nível da organização na Adobe Admin Console. [Saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Como funciona a autorização do dispositivo?**
 
@@ -80,11 +80,11 @@ No momento, o Adobe IMS não oferece suporte a nada como o recurso de autorizaç
 
 **Ainda é possível usar o recurso &quot;Logon na caixa de diálogo Convidar usuário&quot; para tornar o logon de um usuário exclusivo em seu email?**
 
-Nº O fluxo de trabalho do Convite de usuário não está mais ativo quando uma assinatura é habilitada para IMS, portanto, o recurso não é mais válido. A identidade Adobe exige que a identidade de um usuário seja orientada por seu email.
+Não. O fluxo de trabalho do Convite de usuário não está mais ativo quando uma assinatura é habilitada para IMS, portanto, o recurso não é mais válido. A identidade Adobe exige que a identidade de um usuário seja orientada por seu email.
 
 **Para o Adobe IMS, temos a opção de usar Adobe ID, Enterprise ID ou Federated ID?**
 
-Sim, você determina o tipo de identidade para ter o suporte da sua organização. Mais informações podem ser encontradas aqui: [Visão geral da identidade](https://helpx.adobe.com/enterprise/using/identity.html) e aqui: [Configurar identidade](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+Sim, você determina o tipo de identidade para ter o suporte da sua organização. Mais informações podem ser encontradas aqui: [Visão geral da identidade](https://helpx.adobe.com/enterprise/using/identity.html) e aqui: [Configurar identidade](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Quais cartões de produto são compatíveis com o Adobe Admin Console?**
 
