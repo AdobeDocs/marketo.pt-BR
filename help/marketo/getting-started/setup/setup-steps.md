@@ -4,9 +4,9 @@ description: Etapas De Configuração - Documentação Do Marketo - Documentaç�
 title: Etapas de configuração
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a5cda002c4b8805d3ecd0adb0a08128ce7c91629
 workflow-type: tm+mt
-source-wordcount: '2043'
+source-wordcount: '2062'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Essas etapas incluem:
 
 >[!NOTE]
 >
->Você só precisará fazer essas etapas se a empresa estiver **novo no Marketo**. Caso contrário, talvez a configuração já esteja concluída.
+>Você só precisará fazer essas etapas se a empresa estiver **novo no Marketo**. Caso contrário, a configuração pode já ter sido feita.
 
 Algumas etapas exigem a ajuda da sua equipe de TI.
 
@@ -35,6 +35,10 @@ Algumas etapas exigem a ajuda da sua equipe de TI.
 >Se você [imprimir esta lista de verificação](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}, você pode desmarcar os itens ao concluí-los.
 
 ## Fazer logon e criar usuários adicionais do Marketo {#log-in-and-create-additional-marketo-users}
+
+>[!IMPORTANT]
+>
+>Se sua assinatura do Marketo foi criada em/após 31 de julho de 2023 ou já foi migrada para [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, the steps for adding a user outlined below will not apply to you. Please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} em vez disso.
 
 Fazer logon no Marketo [aqui](https://app.marketo.com/){target="_blank"} usando as credenciais recebidas por email.
 
@@ -62,7 +66,7 @@ Clique em **[!UICONTROL Convidar novo usuário]**.
 
 ![](assets/setup-steps-4.png)
 
-Preencha o endereço de email do colega, nome e sobrenome. _Definir uma data de expiração de acesso é opcional_. Clique em **[!UICONTROL Próxima]**.
+Preencha o endereço de email do colega, nome e sobrenome. _Definir uma data de expiração de acesso é opcional_. Clique em **[!UICONTROL Próximo]**.
 
 ![](assets/setup-steps-5.png)
 
@@ -218,7 +222,7 @@ Agora, nossa Equipe de marketing está usando a plataforma Marketo para se comun
 
 `2)` Para os links de rastreamento no email, adicione uma Entrada de DNS (CNAME) para **[EmailTrackingCNAME]**.**[Domínio da empresa]**.com, apontando para **[MktoTrackingLink]**.
 
-`3)` Lista de permissões navegar no Marketo.
+`3)` Incluir na lista de permissões navegar no Marketo.
 
     * Se usarmos endereços IP em nosso arquivo de Inclui na lista de permissões de email, adicione os IPs listados abaixo:
     199.15.212.0/22
@@ -239,7 +243,7 @@ Agora, nossa Equipe de marketing está usando a plataforma Marketo para se comun
 
 >[!NOTE]
 >
->Entre em contato com o Suporte da Marketo lista de permissões se desejar obter uma lista abreviada de IPs para resolver problemas específicos de seu ambiente.
+>Entre em contato com o Suporte da Marketo incluir na lista de permissões se desejar obter uma lista abreviada de IPs para resolver problemas específicos de seu ambiente.
 
     * Se nosso sistema antisspam usa Domínios From, adicione estes:
 
