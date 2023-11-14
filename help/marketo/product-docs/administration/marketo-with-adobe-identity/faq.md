@@ -3,10 +3,10 @@ description: Perguntas frequentes sobre o Adobe Identity Management - Documenta�
 title: Perguntas frequentes sobre o Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: eca77d8426c8f696dc35dbfb9e20abcb46e53127
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 3%
+source-wordcount: '1180'
+ht-degree: 2%
 
 ---
 
@@ -89,3 +89,23 @@ Sim, você determina o tipo de identidade para ter o suporte da sua organizaçã
 **Quais cartões de produto são compatíveis com o Adobe Admin Console?**
 
 As placas de produto compatíveis são: Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect e Marketo Sales Insight Actions.
+
+**E se meu logon de usuário não corresponder ao meu email quando eu for migrado para uma Identidade Adobe?**
+
+Os usuários atuais do Marketo com logons diferentes de seus endereços de email não farão mais logon com essa credencial depois de migrados para uma Identidade Adobe. As identidades Adobe sempre são autenticadas com o endereço de email de um usuário.
+
+**O que acontece após a migração da Identidade do Adobe se minha assinatura usar configurações de restrição de IP?**
+
+Quando as assinaturas são integradas à Identidade do Adobe, as configurações de restrição de IP não são migradas para o Adobe Admin Console. As configurações de restrição de IP da Marketo incluem permitir somente o acesso de endereços IP específicos e bloquear o acesso de endereços IP específicos. No momento, o Adobe Identity Management System não oferece suporte aos recursos de restrição de IP.
+
+A partir de 2024, o Adobe Identity Management System lançará um recurso para oferecer suporte somente a endereços IP específicos, oferecendo suporte a uma transição para usuários do Marketo que atualmente utilizam esse recurso. Aqueles que atualmente usam esse recurso não serão submetidos à migração do usuário até que o recurso seja lançado. Depois que o recurso for entregue, os usuários serão notificados sobre a migração que está sendo agendada. Mais informações sobre o recurso serão fornecidas quando disponíveis.
+
+Os usuários que atualmente usam a restrição de IP, bloqueando endereços específicos do acesso, não poderão mais usar esse recurso após serem migrados para a Identidade do Adobe, pois ele não é compatível com o Sistema Adobe Identity Management.
+
+**O que acontece após a migração de identidade do Adobe se eu tiver usuários com uma função com a opção de &#39;Ignorar logon único&#39;?**
+
+Quando as assinaturas são integradas à Identidade do Adobe, o Logon único (SSO) é configurado no nível da Organização do Adobe para todos os usuários. Quando o SSO estiver configurado, ele será aplicado a todos os usuários do Marketo/todas as instâncias do Marketo nessa Adobe Org. Anteriormente, o Marketo permitia que uma função de usuário fosse configurada para ter a opção de &#39;Ignorar logon único&#39;. Isso não é suportado pelo sistema Adobe Identity Management.
+
+**Tenho mais de uma assinatura, mas nem todas estão habilitadas para Logon único. O que acontece após a migração de identidade do Adobe?**
+
+Quando as assinaturas são integradas à Identidade do Adobe, o Logon único (SSO) é configurado no nível da Organização do Adobe. Isso significa que o SSO se aplica a todas as instâncias de produto na Adobe Org. Quando o SSO estiver configurado, ele será aplicado a todas as instâncias do Marketo nessa Adobe Org. Anteriormente, o Marketo oferecia suporte a essa configuração no nível da instância. Isso não é suportado pelo sistema Adobe Identity Management.
