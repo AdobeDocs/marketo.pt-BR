@@ -3,16 +3,16 @@ description: Verificação de email - Documentação do Marketo - Documentação
 title: Verificação de email
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: f4d2e7acaaf1ad59d716c831c7b1a2ed340a5a24
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
 
 # Verificação de email {#email-verification}
 
-As assinaturas do Adobe Marketo Engage exigem que todos os usuários que não sejam somente API, incluindo administradores de Marketo Engage, verifiquem seus endereços de email. Os usuários de Logon único (SSO) que não recebem uma função de Administrador ou que recebem uma função com a permissão &#39;Ignorar SSO&#39; terão seu email verificado automaticamente quando sua assinatura for habilitada com o recurso de Verificação de email.
+As assinaturas do Adobe Marketo Engage exigem que todos os usuários que não sejam somente API, incluindo administradores de Marketo Engage, verifiquem seus endereços de email.
 
 ## Por Que Esse Recurso Foi Introduzido {#why-this-feature-was-introduced}
 
@@ -20,7 +20,7 @@ O Marketo Engage continua a implementação da Verificação de email como prepa
 
 ## Convite de usuário {#user-invite}
 
-Quando um Administrador convida um usuário, ele é automaticamente verificado depois que clica no link de convite. Os usuários do SSO, sem a função de Administrador atribuída, são automaticamente verificados.
+Quando um Administrador convida um usuário, ele é automaticamente verificado depois que clica no link de convite.
 
 ## Email de verificação {#verification-email}
 
