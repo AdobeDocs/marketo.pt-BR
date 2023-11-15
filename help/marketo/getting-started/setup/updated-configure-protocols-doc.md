@@ -4,7 +4,7 @@ title: Documento Configurar Protocolos Atualizado
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
+source-git-commit: 10458ed8bc6553e11686d00dacc1ba36d683ab56
 workflow-type: tm+mt
 source-wordcount: '2104'
 ht-degree: 3%
@@ -257,7 +257,7 @@ Há dois tipos de alinhamento para DMARC — alinhamento DKIM e alinhamento SPF.
 
 * DMARC alinhado ao DKIM — Para configurar DMARC alinhado ao DKIM, você deve:
 
-   * Configurar DKIM para o FROM: domínio da mensagem. Use as instruções [neste artigo](help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Configurar DKIM para o FROM: domínio da mensagem. Use as instruções [neste artigo](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Configurar DMARC para o domínio FROM:/DKIM que foi configurado anteriormente
 
 * SPF alinhado ao DMARC — Para configurar o SPF alinhado ao DMARC por meio do caminho de retorno com marca, você deve:
