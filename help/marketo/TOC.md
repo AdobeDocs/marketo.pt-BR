@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
+source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9103'
 ht-degree: 5%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 5%
       + [Etapas de configuração](getting-started/setup/setup-steps.md)
       + [Lista de verificação de configuração](getting-started/setup/setup-checklist.md)
       + [Configurar protocolos para o Marketo](getting-started/setup/configure-protocols-for-marketo.md)
+      + [Documento Configurar Protocolos Atualizado](getting-started/setup/updated-configure-protocols-doc.md)
    + Vitórias rápidas {#quick-wins}
       + [Configurar e adicionar uma pessoa](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Enviar um e-mail](getting-started/quick-wins/send-an-email.md)
@@ -776,7 +777,7 @@ ht-degree: 5%
          + [Substituir uma imagem ou arquivo carregado](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Pesquisar imagens e arquivos carregados](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Fazer upload de imagens e arquivos do Box](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + Páginas {#landing-pages}
+      + Páginas de aterrissagem {#landing-pages}
          + Noções básicas sobre landing pages {#understanding-landing-pages}
             + [Aprovar, cancelar aprovação ou excluir uma página de aterrissagem](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Relatório de desempenho da landing page](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
