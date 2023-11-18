@@ -3,9 +3,9 @@ description: Status de sincronização do Salesforce - Documentação do Marketo
 title: Status da sincronização do Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '554'
 ht-degree: 13%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 13%
 
 Use o Painel de Status da Sincronização para exibir as estatísticas de sincronização como parte das etapas de sincronização e seu status de sucesso.
 
-As etapas de Sincronização refletem as operações de push ou pull por cada tipo de objeto para o esquema de objeto e os próprios dados. As estatísticas abrangem novos registros, atualizações, exclusões e contagens de falhas durante a sincronização. Os usuários podem filtrar por data, tipo de operação ou tipo de objeto. Painel de Status da Sincronização mostra o status dos ciclos de sincronização dos últimos cinco dias.
+As etapas de Sincronização refletem as operações de push ou pull por cada tipo de objeto para o esquema de objeto e os próprios dados. As estatísticas abrangem novos registros, atualizações, exclusões e contagens de falhas durante a sincronização. Os usuários podem filtrar por data, tipo de operação ou tipo de objeto. Painel de Status da Sincronização mostra o status dos ciclos de sincronização dos últimos cinco dias.
 
 >[!NOTE]
 >
@@ -22,15 +22,15 @@ As etapas de Sincronização refletem as operações de push ou pull por cada ti
 
 ## Exibir Status de Sincronização {#view-sync-status}
 
-1. Clique em **Admin**.
+1. Clique em **[!UICONTROL Admin]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Em Integração, clique em Salesforce e, em seguida, na guia Status de sincronização.
+1. Em [!UICONTROL Integração], clique em **Salesforce**, depois o **[!UICONTROL Status da sincronização]** guia.
 
    ![](assets/salesforce-sync-status-2.png)
 
-Por padrão, as estatísticas serão classificadas pela última vez em que foram iniciadas. Você pode classificar por Iniciado em ou Terminado em — do mais recente para o mais antigo — clicando no ícone de classificação.
+Por padrão, as estatísticas serão classificadas pela última vez em que foram iniciadas. Você pode classificar por Iniciado em ou Encerrado em (do mais recente para o mais antigo) clicando no ícone de classificação.
 
 ![](assets/salesforce-sync-status-3.png)
 
@@ -40,15 +40,15 @@ Por padrão, as estatísticas serão classificadas pela última vez em que foram
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Selecione o intervalo de data e hora e clique no(s) menu(s) suspenso(s) para filtrar por Tipo de objeto, Tipo de operação e/ou Tipo de status.
+1. Selecione o intervalo de data e hora e clique nas listas suspensas para filtrar por [!UICONTROL Tipo de objeto], [!UICONTROL Tipo de operação], e/ou [!UICONTROL Tipo de Status].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Clique em **Aplicar**.
+1. Clique em **[!UICONTROL Aplicar]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**ETAPA OPCIONAL**: para exportar erros de sincronização, clique em **Exportar**. Os dados serão exportados como um CSV.
+**ETAPA OPCIONAL**: para exportar erros de sincronização, clique em **[!UICONTROL Exportar]**. Os dados serão exportados como um CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -141,13 +141,13 @@ Por padrão, as estatísticas serão classificadas pela última vez em que foram
    <td colspan="1">Campanha</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Status de membro de campanha</td> 
+   <td colspan="1">Membro de campanha Status</td> 
   </tr>
   <tr> 
    <td colspan="1">Contato</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Modelo de e-mail</td> 
+   <td colspan="1">Modelo de email</td> 
   </tr>  
   <tr> 
    <td colspan="1">Evento</td> 
@@ -159,7 +159,7 @@ Por padrão, as estatísticas serão classificadas pela última vez em que foram
    <td colspan="1">Oportunidade</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Função de contato em oportunidades</td> 
+   <td colspan="1">Função de contato de oportunidade</td> 
   </tr>  
   <tr> 
    <td colspan="1">Tarefa</td> 
@@ -190,7 +190,7 @@ Por padrão, as estatísticas serão classificadas pela última vez em que foram
    <td colspan="1">Iniciar link com o programa</td> 
    <td colspan="1">Campanha</td> 
    <td colspan="1">Vinculando campanhas a programas</td> 
-   <td colspan="1">Atualizar</td>
+   <td colspan="1">Atualização</td>
   </tr>  
   <tr> 
    <td colspan="1">Extrair conversões</td> 
@@ -242,7 +242,7 @@ Por padrão, as estatísticas serão classificadas pela última vez em que foram
   </tr>  
   <tr> 
    <td colspan="1">Atualizar FKS</td> 
-   <td colspan="1">Tudo</td> 
+   <td colspan="1">Todos</td> 
    <td colspan="1">Atualizar chave estrangeira de todos os objetos</td> 
    <td colspan="1">N/D</td>
   </tr>  

@@ -4,9 +4,9 @@ description: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Enterp
 title: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '416'
 ht-degree: 4%
 
 ---
@@ -19,35 +19,35 @@ ht-degree: 4%
 
 >[!PREREQUISITES]
 >
->[Etapa 1 de 3: Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>[Etapa 1 de 3: Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 
 Neste artigo, você configurará as permissões do usuário no perfil do Salesforce e criará uma conta de integração Marketo-Salesforce.
 
 ## Criar um perfil {#create-a-profile}
 
-1. Clique em **Configuração**.
+1. Clique em **[!UICONTROL Configuração]**.
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Digite &quot;perfis&quot; na barra de pesquisa de navegação e clique no link **Perfis** link.
+1. Digite &quot;perfis&quot; na barra de pesquisa de navegação e clique no link **[!UICONTROL Perfis]** link.
 
    ![](assets/sfdc-profiles-hands.png)
 
-1. Clique em **Novo**.
+1. Clique em **[!UICONTROL Novo]**.
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Selecionar **Usuário padrão**, nomeie o perfil como &quot;Marketo-Salesforce Sync&quot; e clique em **Salvar**.
+1. Selecionar **[!UICONTROL Usuário padrão]**, nomeie o perfil como &quot;Marketo-Salesforce Sync&quot; e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
 ## Definir permissões de perfil {#set-profile-permissions}
 
-1. Clique em **Editar** para definir as permissões de segurança.
+1. Clique em **[!UICONTROL Editar]** para definir as permissões de segurança.
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. No **Permissões administrativas** verifique se as seguintes caixas estão marcadas:
+1. No **[!UICONTROL Permissões administrativas]** verifique se as seguintes caixas estão marcadas:
 
    * API habilitada
    * Editar modelos de HTML
@@ -58,7 +58,7 @@ Neste artigo, você configurará as permissões do usuário no perfil do Salesfo
 
    >[!TIP]
    >
-   >Certifique-se de verificar a **A senha nunca expira** caixa.
+   >Certifique-se de verificar a **[!UICONTROL A senha nunca expira]** caixa.
 
 1. Na seção Permissões gerais de usuário, verifique se as seguintes caixas estão marcadas:
 
@@ -82,7 +82,7 @@ Neste artigo, você configurará as permissões do usuário no perfil do Salesfo
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
-1. Quando terminar, clique em **Salvar** na parte inferior da página.
+1. Quando terminar, clique em **[!UICONTROL Salvar]** na parte inferior da página.
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
@@ -94,7 +94,7 @@ Neste artigo, você configurará as permissões do usuário no perfil do Salesfo
    >
    >Essa etapa impedirá que campos desnecessários sejam exibidos no Marketo, o que reduzirá a desordem e acelerará a sincronização.
 
-1. Na página de detalhes do perfil, acesse **Segurança em nível de campo** seção. Clique em **Exibir** para editar a acessibilidade dos objetos:
+1. Na página de detalhes do perfil, acesse **[!UICONTROL Segurança em nível de campo]** seção. Clique em **[!UICONTROL Exibir]** para editar a acessibilidade dos objetos:
 
    * Lead
    * Contato
@@ -107,11 +107,11 @@ Neste artigo, você configurará as permissões do usuário no perfil do Salesfo
 
    ![](assets/image2014-12-9-9-3a20-3a14.png)
 
-1. Para cada objeto, clique em **Editar**.
+1. Para cada objeto, clique em **[!UICONTROL Editar]**.
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Localize os campos desnecessários, verifique se **Acesso de leitura** e **Editar Acesso** estão desmarcadas. Clique em **Salvar** quando terminar.
+1. Localize os campos desnecessários, verifique se **[!UICONTROL Acesso de leitura]** e **[!UICONTROL Editar Acesso]** estão desmarcadas. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ Neste artigo, você configurará as permissões do usuário no perfil do Salesfo
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Depois de terminar de desabilitar todos os campos desnecessários, você deve marcar **Acesso de leitura e acesso de edição** para os seguintes campos de objeto. Clique em **Salvar** quando terminar.
+1. Depois de terminar de desabilitar todos os campos desnecessários, você deve marcar **[!UICONTROL Acesso de leitura e acesso de edição]** para os seguintes campos de objeto. Clique em **[!UICONTROL Salvar]** quando terminar.
 
 <table> 
  <tbody> 
@@ -148,13 +148,13 @@ Neste artigo, você configurará as permissões do usuário no perfil do Salesfo
 
 >[!TIP]
 >
->Crie uma conta dedicada do Salesforce (por exemplo, marketo@yourcompany.com) para distinguir as alterações feitas pelo Marketo de outros usuários do Salesforce.
+>Crie uma conta dedicada do Salesforce (por exemplo, `marketo@yourcompany.com`) para distinguir as alterações feitas pelo Marketo de outros usuários do Salesforce.
 
-1. Digite &quot;Gerenciar usuários&quot; na barra de pesquisa de navegação e clique em **Usuários**. Clique em **Novo usuário**.
+1. Digite &quot;Gerenciar usuários&quot; na barra de pesquisa de navegação e clique em **[!UICONTROL Usuários]**. Clique em **[!UICONTROL Novo usuário]**.
 
    ![](assets/sfdc-new-users.png)
 
-1. Preencha os campos obrigatórios. Em seguida, selecione o **Licença de usuário: Salesforce** e o Perfil criado anteriormente. Clique em **Salvar** quando terminar.
+1. Preencha os campos obrigatórios. Em seguida, selecione o **[!UICONTROL Licença de usuário: Salesforce]** e o Perfil criado anteriormente. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
@@ -162,4 +162,4 @@ A etapa 2 de 2 foi concluída.
 
 >[!NOTE]
 >
->[Etapa 3 de 3: Conectar o Marketo e o Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>[Etapa 3 de 3: Conectar o Marketo e o Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}

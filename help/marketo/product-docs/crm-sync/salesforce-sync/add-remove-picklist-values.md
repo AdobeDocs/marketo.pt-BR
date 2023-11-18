@@ -4,9 +4,9 @@ description: Adicionar/Remover Valores Da Lista De Opções - Documentação Do 
 title: Adicionar/Remover Valores da Lista de Seleção
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Estas são algumas informações que você deve saber sobre como adicionar e rem
 
 ## Adição De Valores De Lista De Opções {#adding-picklist-values}
 
-1. Se um valor adicional for adicionado no Salesforce a um tipo de campo de lista de opções, você receberá uma [notificação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identificando quais formulários serão afetados.
+1. Se um valor adicional for adicionado no Salesforce a um tipo de campo de lista de opções, você receberá uma [notificação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} identificando quais formulários serão afetados.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Vá para o editor de formulários e [adicione o valor adicional](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) à lista de sugestões.
+1. Vá para o editor de formulários e [adicione o valor adicional](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} à lista de sugestões.
 
 ## Remover Valores da Lista de Seleção {#remove-picklist-values}
 
@@ -29,7 +29,7 @@ Quando um valor de lista de opções é removido de um campo no Salesforce, voc�
 
 >[!NOTE]
 >
->Se um campo de cliente potencial e um campo de contato no Salesforce tiverem valores diferentes, os valores em comum estarão disponíveis para uso no Marketo.
+>Se um campo de cliente potencial e um campo de contato no Salesforce tiverem valores diferentes, os valores em comum estarão disponíveis para uso no Marketo Engage.
 
 Se um campo de cliente potencial e um campo de contato no Salesforce tiverem valores diferentes:
 

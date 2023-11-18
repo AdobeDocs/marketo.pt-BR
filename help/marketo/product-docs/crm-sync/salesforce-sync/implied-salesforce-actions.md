@@ -4,7 +4,7 @@ description: Ações Implícitas Do Salesforce - Documentação Do Marketo - Doc
 title: Ações implícitas do Salesforce
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 21%
@@ -15,7 +15,7 @@ ht-degree: 21%
 
 Quando uma etapa de fluxo específica do Salesforce é executada, às vezes etapas adicionais são executadas automaticamente. Estas são as regras, então você sabe:
 
-Estas regras serão aplicadas _quando a pessoa não estiver atualmente em [Salesforce.com](https://Salesforce.com)_ como um contato ou lead.
+Estas regras serão aplicadas quando a pessoa não estiver atualmente em [Salesforce.com](https://Salesforce.com){target="_blank"} como um contato ou lead.
 
 <table> 
  <thead> 
@@ -26,7 +26,7 @@ Estas regras serão aplicadas _quando a pessoa não estiver atualmente em [Sales
  </thead> 
  <tbody> 
   <tr> 
-   <td>Adicionar à campanha da SFDC</td> 
+   <td>Adicionar à campanha do SFDC</td> 
    <td>Sincronizar pessoa à SFDC</td> 
   </tr> 
   <tr> 
@@ -48,6 +48,6 @@ Estas regras serão aplicadas _quando a pessoa não estiver atualmente em [Sales
  </tbody> 
 </table>
 
-Você pode filtrar registros SFDC em uma Smart List usando o **Tipo SFDC** O filtro com o operador definido como &quot;não está vazio&quot;. Todos os registros SFDC têm um valor nesse campo.
+Você pode filtrar registros SFDC em uma Smart List usando o **[!UICONTROL Tipo SFDC]** O filtro com o operador definido como &quot;não está vazio&quot;. Todos os registros SFDC têm um valor nesse campo.
 
-Lembre-se de que essas ações automáticas só ocorrerão se o lead não estiver em [Salesforce.com](https://salesforce.com)
+Lembre-se de que essas ações automáticas só ocorrerão se o lead não estiver em [Salesforce.com](https://salesforce.com){target="_blank"}
