@@ -4,7 +4,7 @@ description: Personalizar sincronização de atividades - Documentação do Mark
 title: Personalizar sincronização de atividades
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 12%
@@ -13,17 +13,17 @@ ht-degree: 12%
 
 # Personalizar sincronização de atividades {#customize-activities-sync}
 
-Se você não usar o Marketo Sales Insight, a Marketo poderá criar registros do histórico de atividades do Salesforce para determinados eventos. Veja como ativá-los.
+Se você não usar o Marketo Sales Insight, o Marketo Engage poderá criar registros do histórico de atividades do Salesforce para determinados eventos. Veja como ativá-los.
 
-1. Ir para **Admin**.
+1. Ir para **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Clique em **Salesforce** e, em seguida, clique em **Editar Opções de Sincronização**.
+1. Clique em **[!DNL Salesforce]** e, em seguida, clique em **[!UICONTROL Editar Opções de Sincronização]**.
 
    ![](assets/two-1.png)
 
-1. Marque as caixas ao lado das atividades que você deseja que o Marketo envie para o Salesforce e clique em **Salvar**.
+1. Marque as caixas ao lado das atividades que você deseja que o Marketo envie para o Salesforce e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/three-1.png)
 
@@ -44,7 +44,7 @@ Se você não usar o Marketo Sales Insight, a Marketo poderá criar registros do
  </thead> 
  <tbody> 
   <tr> 
-   <td>Preencheu formulário</td> 
+   <td>Formulário preenchido</td> 
    <td>Preencheu qualquer formulário do Marketo</td> 
   </tr> 
   <tr> 
@@ -64,7 +64,7 @@ Se você não usar o Marketo Sales Insight, a Marketo poderá criar registros do
    <td>Abertura de um email (sem bloqueio de imagens)</td> 
   </tr> 
   <tr> 
-   <td>Clicou em link de e-mail</td> 
+   <td>Clicou no link no email</td> 
    <td>Clicou em um link em um email enviado pelo Marketo</td> 
   </tr> 
   <tr> 
@@ -96,8 +96,8 @@ Se você não usar o Marketo Sales Insight, a Marketo poderá criar registros do
 
 >[!NOTE]
 >
->&quot;Email de vendas recebido&quot; faz **não** média de entrega. O status de Entregue não é capturado para emails enviados pelo Sales Insight.
+>&quot;E-mail de vendas recebido&quot; faz _não_ média de entrega. O status de Entregue não é capturado para emails enviados pelo Sales Insight.
 
 >[!TIP]
 >
->Se você estiver interessado em obter mais informações sobre o Marketo no Salesforce, consulte nossa [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) produto.
+>Se você estiver interessado em obter mais informações sobre o Marketo no Salesforce, consulte nossa [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} produto.

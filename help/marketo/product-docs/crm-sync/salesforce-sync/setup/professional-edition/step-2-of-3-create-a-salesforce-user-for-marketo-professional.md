@@ -4,7 +4,7 @@ description: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Profes
 title: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 9%
@@ -15,11 +15,11 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->Essas etapas devem ser concluídas por um administrador do Salesforce
+>Essas etapas devem ser concluídas por um administrador do Salesforce.
 
 >[!PREREQUISITES]
 >
->[Etapa 1 de 3: Adicionar campos do Marketo ao Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>[Etapa 1 de 3: Adicionar campos do Marketo ao Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
 Neste artigo, você personalizará permissões de campo com um Layout de página do Salesforce e criará um usuário de sincronização Marketo-Salesforce.
 
@@ -27,23 +27,23 @@ Neste artigo, você personalizará permissões de campo com um Layout de página
 
 O Salesforce Professional define a acessibilidade em nível de campo com Layouts de página, em vez dos Perfis do Salesforce Enterprise/Unlimited. Seguir essas etapas permitirá que o usuário de sincronização do Marketo atualize os campos personalizados.
 
-1. Tipo **layouts de página** na barra de pesquisa de navegação sem pressionar **Enter** e clique em **Layout da página** em **Clientes potenciais**.
+1. Tipo &quot;[!UICONTROL layouts de página]&quot; na barra de pesquisa de navegação sem pressionar **[!UICONTROL Enter]** e clique em **[!UICONTROL Layout da página]** em **[!UICONTROL Clientes potenciais]**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Clique em **Editar** ao lado de Layout de cliente em potencial.
+1. Clique em **[!UICONTROL Editar]** ao lado de Layout de cliente em potencial.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
-1. Clique e arraste um novo **Seção** no layout da página.
+1. Clique e arraste um novo **[!UICONTROL Seção]** no layout da página.
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Insira &quot;Marketo&quot; para **Nome da seção** e clique em **OK**.
+1. Insira &quot;Marketo&quot; para **[!UICONTROL Nome da seção]** e clique em **[!UICONTROL OK]**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Clique e arraste o campo **Data de aquisição** no **Marketo** seção.
+1. Clique e arraste o campo **[!UICONTROL Data de aquisição]** no **Marketo** seção.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -74,21 +74,21 @@ O Salesforce Professional define a acessibilidade em nível de campo com Layouts
    >
    >Crie duas colunas para os campos arrastando para o lado direito da página. Você pode mover campos de um lado para o outro para equilibrar os comprimentos de coluna.
 
-1. Clique em **Salvar** quando terminar de adicionar campos.
+1. Clique em **[!UICONTROL Salvar]** quando terminar de adicionar campos.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Repita todas as etapas acima para o Salesforce **Layout da página de contato**.
+1. Repita todas as etapas acima para o Salesforce **[!UICONTROL Layout da página de contato]**.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Lembre-se de clicar **Salvar** quando terminar com o **Layout da página de contato**.
+1. Lembre-se de clicar **[!UICONTROL Salvar]** quando terminar com o **[!UICONTROL Layout da página de contato]**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
    >[!NOTE]
    >
-   >Certifique-se de que a variável **Evento de dia inteiro** O campo foi adicionado à variável **Layout da página de eventos**.
+   >Certifique-se de que a variável **[!UICONTROL Evento de dia inteiro]** O campo foi adicionado à variável **[!UICONTROL Layout da página de eventos]**.
 
 ## Criar usuário de sincronização {#create-sync-user}
 
@@ -96,17 +96,17 @@ O Marketo exige credenciais para acessar o Salesforce. Isso é melhor feito com 
 
 >[!NOTE]
 >
->Se sua organização não tiver licenças adicionais do Salesforce, você poderá usar uma licença existente **Usuário de marketing** com o **Administrador do sistema** perfil.
+>Se sua organização não tiver licenças adicionais do Salesforce, você poderá usar um usuário de marketing existente com o perfil de administrador do sistema.
 
-1. Digite &quot;usuários&quot; na barra de pesquisa de navegação e clique em **Usuários** em **Gerenciar usuários**.
+1. Digite &quot;usuários&quot; na barra de pesquisa de navegação e clique em **[!UICONTROL Usuários]** em **[!UICONTROL Gerenciar usuários]**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. Clique em **Novo usuário**.
+1. Clique em **[!UICONTROL Novo usuário]**.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Preencha os campos obrigatórios, selecione a variável **Licença de usuário: Salesforce**, defina o **Perfil: Administrador do Sistema**, verificar **Usuário de marketing** e clique em **Salvar**.
+1. Preencha os campos obrigatórios, selecione a variável **[!UICONTROL Licença de usuário: Salesforce]**, defina o **[!UICONTROL Perfil: Administrador do Sistema]**, verificar **[!UICONTROL Usuário de marketing]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
@@ -118,4 +118,4 @@ Excelente! Agora você tem uma conta que o Marketo pode usar para se conectar ao
 
 >[!MORELIKETHIS]
 >
->[Etapa 3 de 3: Conectar o Marketo e o Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
+>[Etapa 3 de 3: Conectar o Marketo e o Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}
