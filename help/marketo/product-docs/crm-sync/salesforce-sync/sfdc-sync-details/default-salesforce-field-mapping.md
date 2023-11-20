@@ -4,16 +4,16 @@ description: Mapeamento de campo padrão do Salesforce - Documentação do Marke
 title: Mapeamento de campos padrão do Salesforce
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 58%
+source-wordcount: '363'
+ht-degree: 57%
 
 ---
 
 # Mapeamento de campos padrão do Salesforce {#default-salesforce-field-mapping}
 
-Inicialmente, ao sincronizar sua conta do Marketo com o Salesforce, a Marketo faz automaticamente essas associações entre seus campos integrados do Salesforce e do Marketo. O Marketo também sincronizará seus campos personalizados em clientes potenciais, contas, oportunidades e contatos.
+Inicialmente, ao sincronizar sua conta do Marketo Engage com o Salesforce, a Marketo faz automaticamente essas associações entre seus campos integrados do Salesforce e do Marketo. O Marketo também sincronizará seus campos personalizados em clientes potenciais, contas, oportunidades e contatos.
 
 ## Campos de lead {#lead-fields}
 

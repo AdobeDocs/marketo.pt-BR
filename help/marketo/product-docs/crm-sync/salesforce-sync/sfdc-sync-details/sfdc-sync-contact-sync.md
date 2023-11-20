@@ -4,16 +4,16 @@ description: Sincronização do SFDC - Sincronização de contatos - Documentaç
 title: Sincronização do SFDC - Sincronização de Contatos
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
 # Sincronização do SFDC: Sincronização de Contatos {#sfdc-sync-contact-sync}
 
-Você sabia que o Marketo sincroniza todo o seu banco de dados com o Salesforce? Ele sincroniza, depois aguarda 5 minutos e depois sincroniza novamente, o dia todo, todos os dias. Estes são alguns detalhes sobre como o Marketo trata os contatos do Salesforce especificamente.
+Você sabia que o Marketo Engage sincroniza todo o seu banco de dados com o Salesforce? Ele sincroniza, depois aguarda 5 minutos e depois sincroniza novamente, o dia todo, todos os dias. Estes são alguns detalhes sobre como o Marketo trata os contatos do Salesforce especificamente.
 
 ## Direção da sincronização {#sync-direction}
 
@@ -25,7 +25,7 @@ Somos bons e deixamos a Salesforce ganhar. É raro ocorrer esse tipo de colisão
 
 ## Posso converter uma pessoa em um contato no Marketo? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-Sim, use o **[Converter pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** ação de fluxo.
+Sim, use o **[Converter pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}** ação de fluxo.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Sim, use o **[Converter pessoa](/help/marketo/product-docs/core-marketo-concepts
 
 ## Posso forçar manualmente uma sincronização de um contato? {#can-i-manually-force-a-sync-of-a-contact}
 
-Sim, use o **[Sincronizar pessoa ao SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** fluxo e será sincronizado em tempo real.
+Sim, use o **[Sincronizar pessoa ao SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}** fluxo e será sincronizado em tempo real.
 
 ## Cada campo padrão é sincronizado com o Marketo? {#does-every-single-standard-field-sync-to-marketo}
 

@@ -4,7 +4,7 @@ description: Como fazer a correspondência entre os status do programa e os stat
 title: Como fazer a correspondência entre os status do programa e os status da campanha do Salesforce antes da sincronização
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Nessa mensagem de erro, você pode optar por:
 1. Você pode cancelar, corrigir os erros de status e tentar sincronizar depois que os erros forem reparados. Para corrigir os erros de status, siga um destes procedimentos:
 
    * Faça logon no Salesforce e remova ou renomeie os Status de Membros da Campanha incompatíveis para mapear para os Status do Programa Marketo usados para o tipo de canal associado ao seu Programa Marketo.
-   * Modifique os status do programa no Marketo para mapear para os status de membro da campanha do Salesforce que você tem em vigor. Esta é uma função de administrador do Marketo. Para obter detalhes, consulte [Criar um canal de programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+   * Modifique os status do programa no Marketo para mapear para os status de membro da campanha do Salesforce que você tem em vigor. Esta é uma função de administrador do Marketo. Para obter detalhes, consulte [Criar um canal de programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.

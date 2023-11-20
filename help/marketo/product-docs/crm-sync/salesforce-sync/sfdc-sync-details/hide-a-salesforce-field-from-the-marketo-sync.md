@@ -4,10 +4,10 @@ description: Ocultar um campo do Salesforce na sincronização do Marketo - Docu
 title: Ocultar um campo do Salesforce da sincronização com o Marketo
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-Nem todos os campos no Salesforce são úteis para Marketing. Você pode otimizar o desempenho da sincronização incluindo apenas os campos necessários. Veja como ocultar um campo do Marketo.
+Nem todos os campos no Salesforce são úteis para Marketing. Você pode otimizar o desempenho da sincronização incluindo apenas os campos necessários. Veja como ocultar um campo do Marketo Engage.
 
-1. Clique no menu do seu nome e selecione **Configuração**.
+1. Clique no menu do seu nome e selecione **[!UICONTROL Configuração]**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Enter **perfis** na barra de pesquisa e clique em **Perfis** em **Gerenciar usuários**.
+1. Digite &quot;perfis&quot; na barra de pesquisa e clique em **[!UICONTROL Perfis]** em **[!UICONTROL Gerenciar usuários]**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,15 +31,15 @@ Nem todos os campos no Salesforce são úteis para Marketing. Você pode otimiza
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. No **Segurança em nível de campo** clique em **Exibir** ao lado do objeto que contém o campo target.
+1. No **[!UICONTROL Segurança em nível de campo]** clique em **[!UICONTROL Exibir]** ao lado do objeto que contém o campo target.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
-1. Clique em **Editar**.
+1. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Desmarque a opção **Visível** ao lado do campo que você deseja ocultar. Clique em **Salvar**.
+1. Desmarque a opção **[!UICONTROL Visível]** ao lado do campo que você deseja ocultar. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
@@ -51,4 +51,4 @@ Nem todos os campos no Salesforce são úteis para Marketing. Você pode otimiza
 
    >[!MORELIKETHIS]
    >
-   >[Ocultar e reexibir um campo](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
+   >[Ocultar e reexibir um campo](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}
