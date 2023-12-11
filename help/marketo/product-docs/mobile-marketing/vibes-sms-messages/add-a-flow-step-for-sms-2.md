@@ -4,20 +4,34 @@ title: Adicionar uma etapa de fluxo para SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 0%
+source-wordcount: '377'
+ht-degree: 2%
 
 ---
 
 # Adicionar uma etapa de fluxo para SMS {#add-a-flow-step-for-sms}
 
-O Marketo Engage tem três etapas de fluxo que você pode usar nas Campanhas inteligentes de SMS:
+O Marketo Engage tem três Etapas de fluxo que você pode usar em suas Campanhas inteligentes de SMS:
 
-* **Enviar mensagem SMS** - Essa ação de fluxo envia mensagens para pessoas da Smart List do Marketo que estão inscritas em uma lista de inscrição de vibrações de opt-in do usuário. Ele não inicia o processo de assinatura.
-* **Inscrever-se na lista de visibilidade** - Essa ação de fluxo inicia o processo de assinatura do SMS por meio de uma campanha de aquisição do Vibes selecionada pelo usuário. A Vibes envia uma mensagem de confirmação; o recipient deve responder &quot;Y&quot; a ele para confirmar a aceitação em 24 horas. Depois que o usuário aceitar, ele se tornará membro da lista de inscrição do Vibes associada.
-* **Cancelar inscrição na lista de vibrações** - Essa ação de fluxo cancela a assinatura de cada pessoa em uma lista de assinaturas de Vibes de opt-in do usuário. Quando um usuário digita &quot;stop&quot; para o seu código, o registro pessoal dele é atualizado para refletir que não é mais membro da lista de assinaturas do Vibes.
+<table>
+<tbody>
+  <tr>
+    <td style="width:25%">Enviar mensagem de SMS</td>
+    <td>Essa ação de fluxo envia mensagens para pessoas da Smart List do Marketo que estão inscritas em uma lista de inscrição de vibrações de opt-in do usuário. Ele não inicia o processo de assinatura. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">Saiba mais</a>.</td>
+  </tr>
+
+<tr>
+    <td style="width:25%">Assinar a lista do Vibes</td>
+    <td>Essa ação de fluxo inicia o processo de assinatura do SMS por meio de uma campanha de aquisição de Vibes selecionada pelo usuário. A Vibes envia uma mensagem de confirmação, e o recipient deve responder com "Y" dentro de 24 horas para confirmar a aceitação. Depois que o usuário aceitar, ele se tornará membro da lista de inscrição do Vibes associada.</td>
+  </tr>
+  <tr>
+    <td style="width:25%">Cancelar inscrição da lista do Vibes</td>
+    <td>Essa ação de fluxo cancela a assinatura de cada pessoa em uma lista de assinaturas de Vibes de opt-in do usuário. Quando um usuário envia um texto "PARAR" para o seu código, o registro pessoal dele é atualizado para refletir que não é mais membro da lista de assinaturas do Vibes.</td>
+  </tr>
+  </tbody>
+</table>
 
 >[!NOTE]
 >

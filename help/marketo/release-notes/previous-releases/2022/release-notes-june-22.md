@@ -3,9 +3,9 @@ description: Notas de versão - junho de 2022 - Documentação do Marketo - Docu
 title: Notas de versão - junho de 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '640'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Os recursos a seguir começarão a ser lançados em **24 de junho de 2022**, com
 
 * **Expor campos CreatedAt/UpdatedAt para objetos personalizados**: oferece a capacidade de inspecionar esses campos na tela Detalhes da pessoa para obter informações adicionais.
 
-## Orquestração entre canais {#cross-channel-orchestration}
+## Orquestração entre canais {#cross-channel-orchestration}
 
 * **Usabilidade aprimorada do Stream Designer para Dynamic Chat**: adicione cartões diretamente da tela do Stream Designer sem a necessidade de arrastar e soltar. A interface Dynamic Chat também foi aprimorada para oferecer melhor visibilidade do conteúdo em cartões individuais.
 
@@ -59,7 +59,7 @@ Os recursos a seguir começarão a ser lançados em **24 de junho de 2022**, com
 
 * **Atualização do meu bloco do Marketo - Ações do Sales Insight**: os administradores do Marketo (e os usuários que eles designarem) agora podem navegar rapidamente para a instância de Ações do Sales Insight por meio de um novo bloco Ações do Sales Insight localizado na página Meu Marketo.
 
-## SalesConnect {#sales-connect}
+## Conexão de vendas {#sales-connect}
 
 ![(estrela)](assets/yellow-star.png)
 
