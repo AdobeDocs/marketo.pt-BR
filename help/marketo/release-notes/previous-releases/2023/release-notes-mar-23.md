@@ -1,9 +1,9 @@
 ---
 description: Notas de versão - março de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - março de 2023
-exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
+exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d4bd94b22b4f9da993150a94d2757014cbf87d80
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 7%
@@ -90,7 +90,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 Os seguintes recursos seguem um formato Agile e são lançados em várias datas antes ou depois da data de lançamento padrão. Verifique abaixo cada recurso para obter seu status.
 
-### Chat dinâmico {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
@@ -136,7 +136,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Atributos inferidos para o Dynamic Chat**: garante que os dados de IP inferidos (cidade, estado, país etc.) é gravado no registro pessoal para novas pessoas adquiridas pelo Dynamic Chat.
+* **Atributos inferidos para o Dynamic Chat**: garante que os dados de IP inferidos (cidade, estado, país etc.) é gravado no registro de pessoa para novas pessoas adquiridas pela Dynamic Chat.
 
 <table> 
   <tr> 
