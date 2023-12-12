@@ -4,9 +4,9 @@ title: Usar mensagens SMS de vibrações em acionadores e filtros de lista intel
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
+source-git-commit: 6b8c54dbe95c7bc6e2f68a48de11306f3f678cb6
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 NOVO DOCUMENTO
 
-Depois que você [criar uma mensagem SMS do Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, você deverá usar os acionadores e filtros de Smart List em uma Campanha inteligente para obter os benefícios. Veja como.
+Depois que você [criar uma mensagem SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, você deverá usar os acionadores e filtros de Smart List em uma Campanha inteligente para obter os benefícios. Veja como.
 
 1. Em Meu Marketo, clique em **Atividades de marketing**.
 
