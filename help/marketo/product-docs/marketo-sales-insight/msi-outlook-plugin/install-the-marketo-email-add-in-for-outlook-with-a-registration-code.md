@@ -4,10 +4,10 @@ description: Instale o Suplemento de email do Marketo para Outlook com um códig
 title: Instale o Suplemento de email do Marketo para Outlook com um código de registro
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '516'
-ht-degree: 5%
+source-wordcount: '491'
+ht-degree: 4%
 
 ---
 
@@ -53,6 +53,10 @@ Se não tiver recebido um email de convite, peça ao administrador do Marketo pa
    | Office 365* | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
 
    *Versão do Office 365: somente cliente Windows (no Windows 10, Enterprise ou Pro).
+
+   >[!IMPORTANT]
+   >
+   >A Microsoft lançou um [nova versão do Outlook para Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## Copie seu código de registro {#copy-your-registration-code}
 
