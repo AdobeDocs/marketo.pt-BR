@@ -4,16 +4,16 @@ title: Relatórios de SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 96bc28212ef275920fb106d69293958522cb4eb0
+source-git-commit: b9973d8bc5bf7d9e6944d05e6cf084966a31fcdb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 4%
 
 ---
 
 # Relatórios de SMS {#sms-reporting}
 
-O Painel de mensagens SMS fornece análises de relatório úteis sobre suas mensagens.
+O Painel de mensagens SMS fornece análises úteis sobre suas mensagens.
 
 ## Acessar o painel {#access-the-dashboard}
 
