@@ -4,9 +4,9 @@ description: Noções básicas sobre espaços de trabalho e partições de pesso
 title: Noções Básicas sobre Espaços de Trabalho e Partições de Pessoas
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '538'
 ht-degree: 3%
 
 ---
@@ -84,12 +84,16 @@ Você pode compartilhar esses itens entre espaços de trabalho.
 
 ## Clonagem entre espaços de trabalho {#cloning-across-workspaces}
 
-Para ativos que não são modelos, é melhor cloná-los como ativos locais dentro de um programa.  Com o nível de acesso apropriado, você pode arrastar e soltar esses ativos em outro espaço de trabalho:
+Para ativos que não são modelos, é melhor cloná-los como ativos locais dentro de um programa. Com o nível de acesso apropriado, você pode arrastar e soltar esses ativos em outro espaço de trabalho:
 
 * Programas
 * E-mails
-* Páginas
+* Páginas de aterrissagem
 * Formulários
+
+>[!IMPORTANT]
+>
+>Embora todos os itens listados acima possam ser clonados entre espaços de trabalho, emails, formulários e páginas de aterrissagem _deve estar dentro de um programa_ no momento da clonagem.
 
 >[!NOTE]
 >
