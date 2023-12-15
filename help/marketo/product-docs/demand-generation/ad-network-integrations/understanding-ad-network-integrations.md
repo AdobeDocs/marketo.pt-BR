@@ -4,10 +4,10 @@ description: Noções básicas sobre integrações de rede de anúncios - Docume
 title: Noções básicas sobre integrações de rede de anúncios
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 9%
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 9%
 
 ## Como funcionam as integrações de rede de anúncios {#how-ad-network-integrations-work}
 
-As integrações da rede de publicidade conectam os dados de públicos exclusivos do Marketo aos seus sistemas pagos de mídia, permitindo a execução de campanhas publicitárias digitais mais personalizadas e direcionadas. Essas integrações funcionam atualmente com o Facebook, o LinkedIn e o Google.
+As integrações de rede de anúncios conectam os dados exclusivos de público-alvo da Marketo aos seus sistemas de mídia paga, para que você possa executar campanhas de anúncios digitais mais direcionadas e personalizadas. Essas integrações funcionam atualmente com o Facebook, o LinkedIn e o Google.
 
 Os recursos incluem:
 
@@ -36,7 +36,7 @@ Os recursos incluem:
 
    * Por exemplo, uma pessoa pesquisa, vê e clica em um anúncio e preenche um formulário online. Depois disso, ele recebe uma demonstração offline e se torna uma oportunidade de CRM. É onde o anunciante o direciona
 
-* Redirecionamento de visitantes do site, usando [Personalização da Web](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md), para direcioná-los de volta ao seu site
+* Redirecionamento de visitantes do site, usando [Personalização da Web](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, para direcioná-los de volta ao seu site
 
    * Personalizar por segmento ou vertical
 
@@ -44,14 +44,14 @@ Os recursos incluem:
 
 É possível usar integrações para:
 
-* [Adicionar o Google AdWords como um serviço LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [Adicionar clientes em potencial a um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [Criar um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [Configurar conversões offline do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [Usar uma lista Marketo ou uma lista inteligente como um segmento de público-alvo do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [Adicionar o Google AdWords como um serviço LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
+* [Adicionar clientes em potencial a um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
+* [Criar um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
+* [Configurar conversões offline do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
+* [Usar uma lista Marketo ou uma lista inteligente como um segmento de público-alvo do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
 
 |   | Dados de público-alvo | Assimilação de lead | Conversão offline |
 |---|---|---|---|
-| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
-| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
-| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |
+| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
+| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
+| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |

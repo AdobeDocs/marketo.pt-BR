@@ -4,38 +4,38 @@ description: Adicionar a correspondência do cliente do Google as a LaunchPoint 
 title: Adicionar a correspondência do cliente do Google como um serviço do LaunchPoint
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 2%
+source-wordcount: '196'
+ht-degree: 0%
 
 ---
 
 # Adicionar a correspondência do cliente do Google como um serviço do LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
 
-Com essa integração, você pode enviar um público-alvo do Marketo para o Google para ser direcionado usando o Google AdWords, bem como redirecionar públicos-alvo no YouTube, Search e Gmail.
+Com essa integração, você pode enviar um público-alvo Marketo Engage para o Google para ser direcionado usando o Google AdWords, bem como redirecionar públicos-alvo no YouTube, Search e Gmail.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Ir para **Admin**.
+1. Ir para **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Clique em **LaunchPoint**.
+1. Clique em **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecionar **Novo** depois **Novo serviço**.
+1. Selecionar **[!UICONTROL Novo]** depois **[!UICONTROL Novo serviço]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Insira um **Nome de exibição** e selecione **Correspondência de cliente do Google** do **Serviço** menu suspenso. Clique em **Criar**.
+1. Insira um **[!UICONTROL Nome de exibição]** e selecione **[!UICONTROL Correspondência de cliente do Google]** do **[!UICONTROL Serviço]** menu suspenso. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/chooseservice.png)
 
-1. Para conectar uma conta do Google AdWords, clique em **Autorizar**.
+1. Para conectar uma conta do Google AdWords, clique em **[!UICONTROL Autorizar]**.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -47,15 +47,15 @@ Com essa integração, você pode enviar um público-alvo do Marketo para o Goog
 
    ![](assets/chooseaccount.png)
 
-1. Revise as permissões solicitadas e clique em **Permitir**.
+1. Revise as permissões solicitadas e clique em **[!UICONTROL Permitir]**.
 
    ![](assets/reviewpermissions.png)
 
-1. Sua conta do Google AdWords agora está conectada ao Marketo. Clique em **Criar**.
+1. Sua conta do Google AdWords agora está conectada ao Marketo. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/authorizesuccess.png)
 
-   Ótimo! Agora você verá o Google Matched Audiences listado como um serviço do LaunchPoint na guia Serviços instalados.
+   Fantástico! Agora você verá o Google Matched Audiences listado como um serviço do LaunchPoint na guia Serviços instalados.
 
 >[!NOTE]
 >

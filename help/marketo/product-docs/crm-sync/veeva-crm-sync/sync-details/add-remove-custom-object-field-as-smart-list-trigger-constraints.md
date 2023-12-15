@@ -3,7 +3,7 @@ description: Adicionar/remover campo de objeto personalizado como lista intelige
 title: Adicionar/Remover Campo de Objeto Personalizado como Smart List/Restrições do Acionador
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Marketo Engage fornece controle específico sobre a sincronização de objetos p
 >
 >**Permissões de administrador necessárias**
 
-1. Clique em **Admin**, depois **Sincronização de objetos Veeva**.
+1. Clique em **[!UICONTROL Admin]**, depois **[!UICONTROL Sincronização de objetos Veeva]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-1.png)
 
@@ -26,19 +26,19 @@ Marketo Engage fornece controle específico sobre a sincronização de objetos p
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-2.png)
 
-1. Clique em **Editar campos visíveis**.
+1. Clique em **[!UICONTROL Editar campos visíveis]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-3.png)
 
    >[!TIP]
    >
-   >Se o botão Editar campos visíveis estiver acinzentado, o objeto está sendo usado atualmente em uma lista inteligente ou campanha inteligente. Remova todas as associações para continuar.
+   >Se o botão Editar campos visíveis estiver acinzentado, o objeto está atualmente em uso em uma Smart List ou Campanha inteligente. Remova todas as associações para continuar.
 
-1. Se a sincronização global estiver ativada, clique em **Desabilitar Sincronização Global**.
+1. Se a sincronização global estiver ativada, clique em **[!UICONTROL Desabilitar Sincronização Global]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
-1. Marque as caixas ao lado das restrições de filtro/acionador desejadas e clique em **Salvar**.
+1. Marque as caixas ao lado das restrições de filtro/acionador desejadas e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-5.png)
 
@@ -46,7 +46,7 @@ Marketo Engage fornece controle específico sobre a sincronização de objetos p
    >
    >Por padrão, todos os campos são selecionados para serem restrições em filtros.
 
-1. Clique na guia Campos para confirmar as alterações.
+1. Clique no link **[!UICONTROL Campos]** para confirmar as alterações.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-6.png)
 
@@ -54,7 +54,7 @@ Marketo Engage fornece controle específico sobre a sincronização de objetos p
 >
 >Não se esqueça de reativar a sincronização global.
 
-Agora, suas listas inteligentes e campanhas inteligentes têm ainda mais poder.
+Agora, suas Smart Lists e Campanhas inteligentes têm ainda mais poder.
 
 >[!MORELIKETHIS]
 >

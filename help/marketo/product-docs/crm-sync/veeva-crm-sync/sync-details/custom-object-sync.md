@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Sincronização de objeto personalizado {#custom-object-sync}
 
-Objetos personalizados criados em sua instância do Veeva CRM também podem fazer parte do Marketo Engage. Veja como configurar.
+Objetos personalizados criados em sua instância do Veeva CRM também podem fazer parte do Marketo Engage. Veja como configurar isso.
 
 >[!NOTE]
 >
@@ -26,15 +26,15 @@ Objetos personalizados criados em sua instância do Veeva CRM também podem faze
 
 ## Habilitar objeto personalizado {#enable-custom-object}
 
-1. No Marketo, clique em **Admin**, depois **Sincronização de objetos Veeva**.
+1. No Marketo, clique em **[!UICONTROL Admin]**, depois **[!UICONTROL Sincronização de objetos Veeva]**.
 
    ![](assets/custom-object-sync-1.png)
 
-1. Se este for seu primeiro Objeto Personalizado, clique em **Esquema de sincronização**.
+1. Se este for seu primeiro Objeto Personalizado, clique em **[!UICONTROL Esquema de sincronização]**.
 
    ![](assets/custom-object-sync-2.png)
 
-1. Clique em **Desabilitar Sincronização Global**.
+1. Clique em **[!UICONTROL Desabilitar Sincronização Global]**.
 
    ![](assets/custom-object-sync-3.png)
 
@@ -50,23 +50,23 @@ Objetos personalizados criados em sua instância do Veeva CRM também podem faze
    >
    >Os objetos personalizados devem ter nomes exclusivos. O Marketo não oferece suporte a dois objetos personalizados diferentes com o mesmo nome.
 
-1. Clique em **Habilitar sincronização**.
+1. Clique em **[!UICONTROL Habilitar sincronização]**.
 
    ![](assets/custom-object-sync-5.png)
 
-1. Clique em **Habilitar sincronização** novamente.
+1. Clique em **[!UICONTROL Habilitar sincronização]** novamente.
 
    ![](assets/custom-object-sync-6.png)
 
-1. Volte para o **Veeva** guia.
+1. Volte para o **[!UICONTROL Veeva]** guia.
 
    ![](assets/custom-object-sync-7.png)
 
-1. Clique em **Habilitar sincronização**.
+1. Clique em **[!UICONTROL Habilitar sincronização]**.
 
    ![](assets/custom-object-sync-8.png)
 
-1. Para exibir todos os objetos personalizados Veeva, clique em Admin e Veeva Objects Sync.
+1. Para exibir todos os objetos personalizados Veeva, clique em **[!UICONTROL Admin]** e **[!UICONTROL Sincronização de objetos Veeva]**.
 
    ![](assets/custom-object-sync-9.png)
 

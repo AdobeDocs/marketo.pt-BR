@@ -3,7 +3,7 @@ description: Ativar/desativar a sincronização de objetos personalizados - Docu
 title: Habilitar/Desabilitar a Sincronização de Objetos Personalizados
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Habilitar/Desabilitar a Sincronização de Objetos Personalizados {#enable-disable-custom-object-sync}
 
-Objetos personalizados criados em sua instância do Veeva CRM também podem fazer parte do Marketo Engage. Veja como configurar.
+Objetos personalizados criados em sua instância do Veeva CRM também podem fazer parte do Marketo Engage. Veja como configurar isso.
 
 ## Ativar ou desativar a sincronização de objetos personalizados {#enable-or-disable-the-custom-object-sync}
 
@@ -20,15 +20,15 @@ Objetos personalizados criados em sua instância do Veeva CRM também podem faze
 >
 >**Permissões de administrador necessárias**
 
-1. No Marketo, clique em **Admin**, depois **Sincronização de objetos Veeva**.
+1. No Marketo, clique em **[!UICONTROL Admin]**, depois **[!UICONTROL Sincronização de objetos Veeva]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. Se este for seu primeiro Objeto personalizado, clique em Sincronizar esquema. Caso contrário, clique em **Atualizar esquema** para garantir que você tenha a versão mais recente.
+1. Se este for seu primeiro Objeto personalizado, clique em Sincronizar esquema. Caso contrário, clique em **[!UICONTROL Atualizar esquema]** para garantir que você tenha a versão mais recente.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. Se sua sincronização global estiver em execução, desative-a clicando em **Desabilitar Sincronização Global**.
+1. Se sua sincronização global estiver em execução, desative-a clicando em **[!UICONTROL Desabilitar Sincronização Global]**.
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
@@ -36,7 +36,7 @@ Objetos personalizados criados em sua instância do Veeva CRM também podem faze
    >
    >Uma sincronização do esquema de objeto personalizado Veeva pode levar alguns minutos.
 
-1. Clique em **Atualizar esquema**.
+1. Clique em **[!UICONTROL Atualizar esquema]**.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
@@ -48,11 +48,11 @@ Selecione o objeto que deseja sincronizar e clique em Habilitar Sincronização.
 >
 >O Marketo só pode sincronizar um objeto personalizado se tiver uma relação direta com o objeto Contato ou Conta no Veeva CRM.
 
-1. Clique em **Habilitar sincronização** novamente.
+1. Clique em **[!UICONTROL Habilitar sincronização]** novamente.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Volte para a guia Veeva e clique em **Habilitar sincronização**.
+1. Volte para a guia Veeva e clique em **[!UICONTROL Habilitar sincronização]**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -62,7 +62,7 @@ Selecione o objeto que deseja sincronizar e clique em Habilitar Sincronização.
 >
 >Não é possível usar objetos personalizados em campanhas inteligentes com acionadores.
 
-1. Em sua Smart List, arraste sobre o filtro &quot;Tem oportunidade&quot; e defina como **True**.
+1. Em sua Smart List, arraste sobre o filtro &quot;Tem oportunidade&quot; e defina como **[!UICONTROL True]**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 

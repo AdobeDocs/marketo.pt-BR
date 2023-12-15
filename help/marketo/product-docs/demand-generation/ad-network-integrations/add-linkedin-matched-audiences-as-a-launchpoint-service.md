@@ -4,10 +4,10 @@ description: Adicionar públicos-alvo correspondentes do LinkedIn como um servi�
 title: Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 2%
+source-wordcount: '179'
+ht-degree: 0%
 
 ---
 
@@ -17,25 +17,25 @@ ht-degree: 2%
 >
 >**Permissões de administrador necessárias**
 
-Conecte sua conta do Marketo com o LinkedIn Matched Audiences para usar uma lista estática ou lista inteligente do Marketo como um segmento de público do LinkedIn.
+Conecte sua conta Marketo Engage com o LinkedIn Matched Audiences para usar uma lista estática do Marketo ou uma Smart List como um segmento de público do LinkedIn.
 
-1. Vá para a **Admin** seção.
+1. Vá para a **[!UICONTROL Admin]** seção.
 
    ![](assets/admin.png)
 
-1. Selecionar **Launchpoint**.
+1. Selecionar **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecionar **Novo** e **Novo serviço**.
+1. Selecionar **[!UICONTROL Novo]** e **[!UICONTROL Novo serviço]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Insira um **Nome de exibição** e escolha **Públicos-alvo correspondentes do linkedIn**. Clique em **Criar**.
+1. Insira um **[!UICONTROL Nome de exibição]** e escolha **[!UICONTROL Públicos-alvo correspondentes do linkedIn]**. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. Para conectar uma conta do LinkedIn, clique em **Autorizar**.
+1. Para conectar uma conta do LinkedIn, clique em **[!UICONTROL Autorizar]**.
 
    ![](assets/authorizeaccount.png)
 
@@ -47,18 +47,18 @@ Conecte sua conta do Marketo com o LinkedIn Matched Audiences para usar uma list
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. Revise as permissões solicitadas e clique em **Permitir**.
+1. Revise as permissões solicitadas e clique em **[!UICONTROL Permitir]**.
 
    ![](assets/li-permissions.png)
 
-1. Sua conta do LinkedIn agora está conectada ao Marketo. Clique em **Criar**.
+1. Sua conta do LinkedIn agora está conectada ao Marketo. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   Ótimo! Agora você verá o LinkedIn Matched Audiences listado como um serviço do LaunchPoint na guia Serviços instalados.
+   Fantástico! Agora você verá o LinkedIn Matched Audiences listado como um serviço do LaunchPoint na guia Serviços instalados.
 
    ![](assets/bartholomew2.png)
 
 >[!MORELIKETHIS]
 >
->[Usar uma lista Marketo ou uma lista inteligente como um segmento de público-alvo do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Usar uma lista Marketo ou uma lista inteligente como um segmento de público-alvo do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
