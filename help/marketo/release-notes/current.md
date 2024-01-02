@@ -3,7 +3,7 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: e33b6f995ca8535d69505cf38e9b03f2aff09149
+source-git-commit: 6e121b10c38517aabc9dd46235aed3103525a551
 workflow-type: tm+mt
 source-wordcount: '649'
 ht-degree: 9%
@@ -59,6 +59,18 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Atualização em massa da API de importação de clientes potenciais</strong>: um pequeno ajuste foi feito no comportamento da API de importação de leads em massa quando <b>id</b> é especificado como o <b>lookupField</b> durante a criação do emprego. Se um registro de pessoa vinculado ao <b>id</b> não for encontrado no banco de dados Marketo Engage, nenhuma atualização de registro ocorrerá, pois o registro não poderá ser localizado. O comportamento atualizado agora inclui o aumento da contagem no <b>numOfRowsFailed</b> na resposta, indicando que a operação falhou nesses casos.</td> 
+   <td><i>Em breve</i></td>
+   <td>n/d</td>
+  </tr>
  </tbody> 
 </table>
 <br/>
@@ -83,18 +95,6 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
    <td><strong>Janela de composição expansível</strong>: a janela redigir email agora compacta automaticamente o espaço não usado, permitindo mais espaço no editor. Além disso, a janela poderá sair e expandir ainda mais, dando aos usuários tanto espaço quanto for necessário para fazer edições em seus emails.</td> 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>Atualização em massa da API de importação de clientes potenciais</strong>: um pequeno ajuste foi feito no comportamento da API de importação de leads em massa quando <b>id</b> é especificado como o <b>lookupField</b> durante a criação do emprego. Se um registro de pessoa vinculado ao <b>id</b> não for encontrado no banco de dados Marketo Engage, nenhuma atualização de registro ocorrerá, pois o registro não poderá ser localizado. O comportamento atualizado agora inclui o aumento da contagem no <b>numOfRowsFailed</b> na resposta, indicando que a operação falhou nesses casos.</td> 
-   <td><i>Em breve</i></td>
-   <td>n/d</td>
   </tr>
  </tbody> 
 </table>
