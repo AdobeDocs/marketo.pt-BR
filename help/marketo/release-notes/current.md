@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b51f12d1f2526c5fa8ec9fc97621f3f55330a808
+source-git-commit: e33b6f995ca8535d69505cf38e9b03f2aff09149
 workflow-type: tm+mt
-source-wordcount: '565'
-ht-degree: 10%
+source-wordcount: '649'
+ht-degree: 9%
 
 ---
 
@@ -84,6 +84,21 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Atualização em massa da API de importação de clientes potenciais</strong>: um pequeno ajuste foi feito no comportamento da API de importação de leads em massa quando <b>id</b> é especificado como o <b>lookupField</b> durante a criação do emprego. Se um registro de pessoa vinculado ao <b>id</b> não for encontrado no banco de dados Marketo Engage, nenhuma atualização de registro ocorrerá, pois o registro não poderá ser localizado. O comportamento atualizado agora inclui o aumento da contagem no <b>numOfRowsFailed</b> na resposta, indicando que a operação falhou nesses casos.</td> 
+   <td><i>Em breve</i></td>
+   <td>n/d</td>
+  </tr>
+ </tbody> 
+</table>
+<br/>
   </tbody> 
 </table>
 
