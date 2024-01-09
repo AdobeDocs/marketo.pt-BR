@@ -3,9 +3,9 @@ description: Visão geral do Live Chat - Documentação do Marketo - Documentaç
 title: Visão geral do bate-papo ao vivo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
+source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '550'
 ht-degree: 1%
 
 ---
@@ -68,20 +68,9 @@ Clicar no cartão de chat ao vivo no stream permite escolher como o visitante é
 
 ## Notificações de bate-papo ao vivo {#live-chat-notifications}
 
-Quando um chat ao vivo for roteado para um agente, ele verá um banner azul na parte superior da tela pedindo que ele aceite.
-
-![](assets/live-chat-overview-3.png)
-
->[!TIP]
->
->Você também tem a opção de configurar notificações do navegador, que o alertará caso não esteja conectado ao Dynamic Chat.
->
->* Ativar notificações do navegador no [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* Ativar notificações do navegador no [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### Ativar notificações
-
 Para receber notificações do navegador para bate-papo ao vivo, todos os agentes de bate-papo ao vivo devem ativar as notificações do navegador para Dynamic Chat quando solicitado.
+
+### Ativar notificações {#enabling-notifications}
 
 Os agentes de bate-papo ao vivo verão um banner na parte superior da tela quando fizerem logon com a mensagem &quot;Ative as notificações do navegador para receber notificações de bate-papo ao vivo&quot;. Clique em **Ativar**.
 
@@ -96,6 +85,19 @@ Se os agentes não receberem notificações do navegador mesmo depois de permiti
 [Etapas para o Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
 [Etapas para Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### Quando um bate-papo ao vivo é roteado para um agente {#when-a-live-chat-is-routed-to-an-agent}
+
+Quando um chat ao vivo for roteado para um agente, ele verá um banner azul na parte superior da tela pedindo que ele aceite.
+
+![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>Você também tem a opção de configurar notificações do navegador, que o alertará caso não esteja conectado ao Dynamic Chat.
+>
+>* Ativar notificações do navegador no [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Ativar notificações do navegador no [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Itens a Observar {#things-to-note}
 
