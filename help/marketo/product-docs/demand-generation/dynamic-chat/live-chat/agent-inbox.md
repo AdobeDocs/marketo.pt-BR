@@ -2,11 +2,11 @@
 description: Caixa de entrada do agente - Documentação do Marketo - Documentação do produto
 title: Caixa de entrada do agente
 feature: Dynamic Chat
-exl-id: 656f8716-d982-4c02-8311-17add0fcd924
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 2%
+source-wordcount: '277'
+ht-degree: 3%
 
 ---
 
@@ -32,21 +32,7 @@ No lado superior direito da tela Caixa de entrada do agente, você tem a opção
 
 ## Notificações de bate-papo ao vivo {#live-chat-notifications}
 
-Quando um chat ao vivo for roteado para um agente, ele verá um banner azul na parte superior da tela pedindo que ele aceite.
-
-![](assets/agent-inbox-3.png)
-
->[!TIP]
->
->Você também tem a opção de configurar notificações do navegador, que o alertará caso não esteja conectado ao Dynamic Chat.
->
->* Ativar notificações do navegador no [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* Ativar notificações do navegador no [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### Itens a Observar {#things-to-note}
-
-* Os agentes têm 45 segundos para responder antes que a mensagem &quot;Accept chat&quot; expire.
-* No momento, há um limite de 10 bate-papos ao vivo por agente
+Saiba mais sobre notificações na [Visão geral do bate-papo ao vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversas {#conversations}
 

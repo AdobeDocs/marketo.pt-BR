@@ -3,10 +3,10 @@ description: Visão geral do Live Chat - Documentação do Marketo - Documentaç
 title: Visão geral do bate-papo ao vivo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 2%
+source-wordcount: '541'
+ht-degree: 1%
 
 ---
 
@@ -65,6 +65,42 @@ Clicar no cartão de chat ao vivo no stream permite escolher como o visitante é
   </tr>
  </tbody> 
 </table>
+
+## Notificações de bate-papo ao vivo {#live-chat-notifications}
+
+Quando um chat ao vivo for roteado para um agente, ele verá um banner azul na parte superior da tela pedindo que ele aceite.
+
+![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>Você também tem a opção de configurar notificações do navegador, que o alertará caso não esteja conectado ao Dynamic Chat.
+>
+>* Ativar notificações do navegador no [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Ativar notificações do navegador no [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### Ativar notificações
+
+Para receber notificações do navegador para bate-papo ao vivo, todos os agentes de bate-papo ao vivo devem ativar as notificações do navegador para Dynamic Chat quando solicitado.
+
+Os agentes de bate-papo ao vivo verão um banner na parte superior da tela quando fizerem logon com a mensagem &quot;Ative as notificações do navegador para receber notificações de bate-papo ao vivo&quot;. Clique em **Ativar**.
+
+![](assets/live-chat-overview-4.png)
+
+Os agentes de bate-papo ao vivo serão solicitados pelo navegador a mostrar as notificações. Clique em **Permitir**.
+
+![](assets/live-chat-overview-5.png)
+
+Se os agentes não receberem notificações do navegador mesmo depois de permitirem no navegador, talvez seja necessário ativar as notificações para o navegador nas configurações de notificação do SO:
+
+[Etapas para o Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+
+[Etapas para Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### Itens a Observar {#things-to-note}
+
+* Os agentes têm 45 segundos para responder antes que a mensagem &quot;Accept chat&quot; expire
+* No momento, há um limite de 10 bate-papos ao vivo por agente
 
 >[!MORELIKETHIS]
 >
