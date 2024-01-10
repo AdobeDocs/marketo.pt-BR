@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '9298'
 ht-degree: 3%
@@ -136,7 +136,8 @@ ht-degree: 3%
          + [Ativar limites de comunicação](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Ativar restrições de pessoa para campanhas inteligentes](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [Filtrar atividade de bot por email](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [Remova o texto de cancelamento de inscrição da seção &quot;Admin -> Email&quot;](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [Filtragem TEMP da atividade de bot por email](product-docs/administration/email-setup/filtering-email-bot-activity-temp.md)
+         + [Remover Texto de Cancelamento de Assinatura](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Gerenciamento de campo {#field-management}
          + [Bloquear atualizações de campo durante a importação de lista de fontes não confiáveis](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [Bloquear atualizações em um campo](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -256,20 +257,20 @@ ht-degree: 3%
             + [Lista de verificação do Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
          + Uso de campanhas inteligentes {#using-smart-campaigns}
             + [Anular uma campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
-            + [Ativar um acionador da campanha inteligente Guia Programação](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
+            + [Ativar um acionador da campanha inteligente | Guia Programação](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
             + [Aplicar limites de comunicação à campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
             + [Limpeza de campanha com gatilho automático](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
             + [Ações da campanha: clonar uma campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-clone-a-smart-campaign.md)
             + [Ações da campanha: excluir uma campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-delete-a-smart-campaign.md)
             + [Cancelar uma execução de campanha em lote agendada](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
             + [Cancelar uma execução de campanha em lote recorrente agendada](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run.md)
-            + [Desativar um acionador da campanha inteligente Guia Programação](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
+            + [Desativar um acionador da campanha inteligente | Guia Programação](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
             + [Editar regras de qualificação em uma campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [Mover uma campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [Substituir restrições de pessoa em uma campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
             + [Substituição de prioridade para campanhas do acionador](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/priority-override-for-trigger-campaigns.md)
             + [Renomear uma campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/rename-a-smart-campaign.md)
-            + [Executar uma campanha inteligente em lote agora Guia Programação](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
+            + [Executar uma campanha inteligente em lote agora | Guia Programação](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [Agendar uma campanha inteligente em lote para execução posterior](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [Programar uma campanha em lote recorrente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
             + [Configurar um acionador de campanha inteligente para vendas usando &quot;A campanha é solicitada&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)

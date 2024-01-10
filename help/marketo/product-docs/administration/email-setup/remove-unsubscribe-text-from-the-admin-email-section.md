@@ -4,14 +4,14 @@ description: Remova o texto de cancelamento de inscrição da seção de email d
 title: Remover o texto de cancelamento de inscrição da seção de email do administrador
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# Remover o texto de cancelamento de inscrição da seção de email do administrador {#remove-unsubscribe-text-from-the-admin-email-section}
+# Remova o texto de cancelamento de inscrição da seção Admin > Email {#remove-unsubscribe-text-from-the-admin-email-section}
 
 A única razão pela qual você deve remover completamente o conteúdo de cancelamento de inscrição da **[!UICONTROL Admin]** > **[!UICONTROL E-mail]** é se você optar por criar o link de cancelamento de inscrição nos próprios modelos de email. A caixa de texto tem uma validação que não permite salvar sem conteúdo. Você pode contornar isso adicionando um pequeno comentário HTML. O comentário HTML não será exibido no cliente de email, pois está renderizando o email no HTML e os comentários são omitidos. Veja como fazer isso.
 
