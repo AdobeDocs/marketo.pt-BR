@@ -4,16 +4,16 @@ description: Criar e usar um campo de string concatenada (fórmula) - Documenta�
 title: Criar e usar um campo de string concatenada (fórmula)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # Criar e usar um campo de string concatenada (fórmula) {#create-and-use-a-concatenated-string-formula-field}
 
-Você pode combinar valores de vários campos ou criar um valor condicional usando um campo Fórmula do Marketo.
+Você pode combinar valores de vários campos ou criar um valor condicional usando um campo de fórmula Marketo Engage.
 
 1. Vá para a **[!UICONTROL Admin]** área.
 
@@ -53,6 +53,6 @@ Você pode combinar valores de vários campos ou criar um valor condicional usan
 
 >[!NOTE]
 >
->Os campos de fórmula podem ser usados em páginas iniciais, emails e colunas de smart list (eles não são exportados). Os emails com campos de fórmula podem _não_ ser enviado usando uma campanha em lote. Use um [token de script de email](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) neste cenário.
+>Os campos de fórmula podem ser usados em Landing Pages, emails e colunas de Smart List. Os emails com campos de fórmula podem _não_ ser enviado usando uma campanha em lote. Use um [token de script de email](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) neste cenário.
 
 Bom trabalho! Agora você tem um campo inteligente que sabe que saudação incluir com base no gênero. Divirta-se com isso e seja criativo.
