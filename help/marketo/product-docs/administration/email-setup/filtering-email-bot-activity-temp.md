@@ -4,9 +4,9 @@ title: Filtrar atividade de bot por email
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 0e0db640e8a54773adc0c643af7aedd9e34e8be0
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,23 @@ Em relação à atividade de clique em links de email e abertura de email, novos
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Optar por **[!UICONTROL Corresponder com Lista IAB]**, **[!UICONTROL Corresponder com Padrão de Proximidade]**, ou ambos. Escolha se deseja [!UICONTROL registrar atividade de bot] _ou_ [!UICONTROL filtrar atividade de bot]. Definir a quantidade de segundos para **Duração entre atividades** de 0 a 3 segundos de duração (o padrão é 0).
+1. Há dois controles deslizantes para escolher. Você pode ativar apenas um ou ambos. Se você habilitar **[!UICONTROL Corresponder com Lista IAB]**, escolha se deseja [!UICONTROL registrar atividade de bot] _ou_ [!UICONTROL filtrar atividade de bot].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
+
+1. Se você habilitar **[!UICONTROL Corresponder com Padrão de Proximidade]**, escolha se deseja [!UICONTROL registrar atividade de bot] _ou_ [!UICONTROL filtrar atividade de bot]. Você também pode definir a quantidade de segundos para **Duração entre atividades** (o padrão é 0, o máximo é 3).
+
+   ![](assets/filtering-email-bot-activity-temp-5.png)
 
 >[!NOTE]
 >
 >Com **Duração entre atividades** definido como 0 segundos, identificaremos as atividades de email que estão ocorrendo exatamente no mesmo segundo. Se várias atividades de email ocorrerem dentro da quantidade designada de segundos, elas serão identificadas como atividade de bot.
 
->[!NOTE]
+>[!IMPORTANT]
 >
 >* Se você escolher [!UICONTROL Filtrar atividade de bot], você poderá ver uma queda nas aberturas e cliques no email, à medida que as atividades falsas forem eliminadas.
 
-**ETAPA OPCIONAL**: para desativar esse recurso, basta desmarcar os controles deslizantes. Se você desativar, os dados não serão redefinidos.
+**ETAPA OPCIONAL**: Para desativar qualquer um dos recursos, basta desmarcar o respectivo controle deslizante. Se você fizer isso, os dados não serão redefinidos.
 
 >[!TIP]
 >
