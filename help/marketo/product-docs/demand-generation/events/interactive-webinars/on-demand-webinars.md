@@ -4,9 +4,9 @@ title: Webinários sob demanda
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe Connect, a tecnologia que habilita Webinars interativos, rastreia a visita
 
 O Marketo fornece as estatísticas de observação para webinários sob demanda na guia Painel de controle com a ajuda dos seguintes widgets:
 
-* Resumo sob demanda: fornece um resumo diário da contagem de visitantes (não exibições) que assistem à gravação após o evento.
+* Resumo sob demanda: fornece um resumo da contagem de visitantes (não exibições) que assistem à gravação após o evento em um determinado dia
 
 * Estatísticas por demanda: esse widget fornece informações sobre:
    * Dias em que a gravação sob demanda está disponível para exibição — Ajuda os profissionais de marketing a executar ações, como executar campanhas de email próximas ao final da duração da disponibilidade de gravação de 30 dias.

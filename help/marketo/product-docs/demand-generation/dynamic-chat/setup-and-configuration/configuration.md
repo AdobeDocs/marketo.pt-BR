@@ -3,10 +3,10 @@ description: Configuração - Documentação do Marketo - Documentação do prod
 title: Configuração
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 1%
+source-wordcount: '310'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Saiba como personalizar a aparência da janela de diálogo do chatbot.
 
-Para começar, clique em **Configuração**.
+Para começar, clique em **Configurações do Chatbot** em **Configuração**.
 
 ![](assets/configuration-1.png)
 
@@ -36,9 +36,9 @@ A Âncora permite que o visitante do site abra/feche a caixa de diálogo. Você 
 
 ![](assets/configuration-4.png)
 
-### Configurações do agente {#agent-settings}
+### Configurações de bot {#agent-settings}
 
-Nas Configurações do agente, você pode adicionar um rótulo à sua caixa de bate-papo (por exemplo: &quot;Adobe Bot&quot;) que aparecerá na parte superior. Você também pode determinar o atraso de resposta (em segundos) e alterar o avatar do bate-papo. Para carregar sua própria imagem de avatar, clique no link **+** botão.
+Nas Configurações de bot, você pode adicionar um rótulo à sua caixa de bate-papo (por exemplo: &quot;Assistente de Adobe&quot;) que aparecerá na parte superior. Você também pode determinar o atraso de resposta (em segundos) e alterar o avatar do bate-papo. Para carregar sua própria imagem de avatar, clique no link **+** botão.
 
 ![](assets/configuration-5.png)
 
@@ -64,11 +64,7 @@ Para que o chatbot seja exibido no seu site, primeiro será necessário instalar
 
 >[!TIP]
 >
->Incluir na lista de permissões Se o site utilizar uma Política de segurança de conteúdo, talvez seja necessário pesquisar os seguintes URLs para que o chatbot funcione conforme esperado:
->
->* `*.adoberesources.net`
->* `*.adobe.io`
->* `*.typekit.net`
+>Olhe abaixo o código para saber o que adicionar se o site usar a Política de segurança de conteúdo (CSP).
 
 >[!NOTE]
 >
