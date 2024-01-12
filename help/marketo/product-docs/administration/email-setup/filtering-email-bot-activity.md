@@ -3,10 +3,10 @@ description: Atividade de filtragem de bot por email - Documentação do Marketo
 title: Filtrar atividade de bot por email
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 11%
+source-wordcount: '534'
+ht-degree: 0%
 
 ---
 
@@ -43,15 +43,23 @@ Em relação à atividade de clique em links de email e abertura de email, novos
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Optar por **[!UICONTROL Corresponder com Lista IAB]**, **[!UICONTROL Corresponder com Padrão de Proximidade]**, ou ambos. Escolha se deseja [!UICONTROL registrar atividade de bot] _ou_ [!UICONTROL filtrar atividade de bot].
+1. Há dois controles deslizantes para escolher. Você pode ativar apenas um ou ambos. Se você habilitar **[!UICONTROL Corresponder com Lista IAB]**, escolha se deseja [!UICONTROL registrar atividade de bot] _ou_ [!UICONTROL filtrar atividade de bot].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
+1. Se você habilitar **[!UICONTROL Corresponder com Padrão de Proximidade]**, escolha se deseja [!UICONTROL registrar atividade de bot] _ou_ [!UICONTROL filtrar atividade de bot]. Você também pode definir a quantidade de segundos para **Duração entre atividades** (o padrão é 0, o máximo é 3).
+
+   ![](assets/filtering-email-bot-activity-5.png)
+
 >[!NOTE]
 >
->Se você escolher [!UICONTROL Filtrar atividade de bot], você poderá ver uma queda nas aberturas e cliques no email, à medida que as atividades falsas forem eliminadas.
+>Com **Duração entre atividades** definido como 0 segundos, identificaremos as atividades de email que estão ocorrendo exatamente no mesmo segundo. Se várias atividades de email ocorrerem dentro da quantidade designada de segundos, elas serão identificadas como atividade de bot.
 
-**ETAPA OPCIONAL**: para desativar esse recurso, basta desmarcar os controles deslizantes. Se você desativar, os dados não serão redefinidos.
+>[!IMPORTANT]
+>
+>* Se você escolher [!UICONTROL Filtrar atividade de bot], você poderá ver uma queda nas aberturas e cliques no email, à medida que as atividades falsas forem eliminadas.
+
+**ETAPA OPCIONAL**: Para desativar qualquer um dos recursos, basta desmarcar o respectivo controle deslizante. Se você fizer isso, os dados não serão redefinidos.
 
 >[!TIP]
 >
@@ -65,41 +73,41 @@ Compilamos uma lista de endereços IP responsáveis por gerar milhões de engaja
 * 40.94.34.86
 * 52.34.76.65
 * 54.70.53.60
-* 54.71.187.124
+* 54 71 187 124
 * 60.28.2.248
-* 64.235.150.252
-* 64.235.153.10
-* 64.235.153.2
-* 64.235.154.105
-* 64.235.154.109
-* 64.235.154.140
+* 64 235 150 252
+* 64 235 153 10
+* 64 235 153 2
+* 64 235 154 105
+* 64 235 154 109
+* 64 235 154 140
 * 64.74.215.1
-* 64.74.215.100
-* 64.74.215.138
-* 64.74.215.139
-* 64.74.215.142
-* 64.74.215.146
+* 64 74 215 100
+* 64 74 215 138
+* 64 74 215 139
+* 64 74 215 142
+* 64 74 215 146
 * 64.74.215.150
-* 64.74.215.154
-* 64.74.215.158
-* 64.74.215.162
-* 64.74.215.164
-* 64.74.215.166
+* 64 74 215 154
+* 64 74 215 158
+* 64 74 215 162
+* 64 74 215 164
+* 64 74 215 166
 * 64.74.215.170
-* 64.74.215.174
-* 64.74.215.176
+* 64 74 215 174
+* 64 74 215 176
 * 64.74.215.178
-* 64.74.215.51
-* 64.74.215.56
-* 64.74.215.58
-* 64.74.215.59
-* 64.74.215.86
+* 64 74 215 51
+* 64 74 215 56
+* 64 74 215 58
+* 64.74.215,59
+* 64 74 215 86
 * 64.74.215.98
-* 65.154.226.101
-* 66.249.91.149
+* 65 154 226 101
+* 66 249 91 149
 * 70.42.131.106
-* 74.125.217.116
-* 74.217.90.250
+* 74 125 217 116
+* 74 217 90 250
 * 104.129.41.4
 * 104.47.55.126
 * 104.47.58.126
@@ -110,7 +118,7 @@ Compilamos uma lista de endereços IP responsáveis por gerar milhões de engaja
 * 128.220.160.1
 * 155.70.39.101
 * 162.129.251.14
-* 162.129.251.42
+* 162 129 251 42
 * 208.52.157.204
 
 >[!NOTE]

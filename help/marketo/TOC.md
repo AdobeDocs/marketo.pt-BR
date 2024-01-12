@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '9300'
+source-wordcount: '9295'
 ht-degree: 3%
 
 ---
@@ -136,7 +136,6 @@ ht-degree: 3%
          + [Ativar limites de comunicação](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Ativar restrições de pessoa para campanhas inteligentes](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [Filtrar atividade de bot por email](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [Filtragem TEMP da atividade de bot por email](product-docs/administration/email-setup/filtering-email-bot-activity-temp.md)
          + [Remover Texto de Cancelamento de Assinatura](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Gerenciamento de campo {#field-management}
          + [Bloquear atualizações de campo durante a importação de lista de fontes não confiáveis](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
