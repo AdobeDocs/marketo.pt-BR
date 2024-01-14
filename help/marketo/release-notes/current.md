@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 0180723fdbe8dbf4855666b5c465ce17709afda4
+source-git-commit: 5f44192438ace61e234925a756def6ca88004cff
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 8%
+source-wordcount: '650'
+ht-degree: 7%
 
 ---
 
@@ -32,7 +32,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
     <tr> 
    <td><strong>Webinars sob demanda para webinars interativos</strong>: webinários sob demanda permitem publicar a gravação do webinário, bem como rastrear as visitas/relógios. Isso ajudará você a obter mais leads por meio de inscritos que não participaram do webinário (não comparência), mas ainda estão interessados em saber mais detalhes e visualizar a gravação.</td> 
-   <td>Remetido</td>
+   <td>Envio hoje</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">Webinários sob demanda</a></td>
   </tr>
    <tr> 
@@ -56,7 +56,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    </tr>
     <tr> 
    <td><strong>Filtrar atividade de bot por email</strong>: melhora a captura da atividade de bot para envolvimento de email, permitindo que você escolha a agressividade desejada para a filtragem de identificação da atividade de bot.</td> 
-   <td>Remetido</td>
+   <td>Envio hoje</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrar atividade de bot por email</a></td>
   </tr>
   <tr> 
@@ -125,7 +125,7 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
    </tr>
     <tr> 
    <td><strong>Opções de cor da fonte do Chatbot</strong>: personalize as cores da fonte em uma configuração de chatbot.</td> 
-   <td>Remetido</td>
+   <td>Envio hoje</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#style" target="_blank">Configuração</a></td>
   </tr>
   <tr> 
@@ -147,7 +147,7 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
     </tr>
     <tr> 
    <td><strong>Encerramento manual do bate-papo ao vivo</strong>: agora, visitantes e agentes podem encerrar manualmente uma sessão de chat ao vivo.</td> 
-   <td>Remetido</td>
+   <td>Envio hoje</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Caixa de entrada do agente</a></td>
   </tr>
   <tr> 
