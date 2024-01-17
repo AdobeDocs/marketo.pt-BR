@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+source-git-commit: c38af227139a1c34be5f59f63e8b71f63b930da5
 workflow-type: tm+mt
-source-wordcount: '9295'
+source-wordcount: '9299'
 ht-degree: 3%
 
 ---
@@ -182,9 +182,10 @@ ht-degree: 3%
          + [Adicionar ou remover um administrador de produto](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Adicionar ou remover um usuário](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Perguntas frequentes](product-docs/administration/marketo-with-adobe-identity/faq.md)
-         + [Migrar para a identidade do Adobe](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
          + [Logon do usuário com o Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + [Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
+         + Assinatura e migração de usuários {#subscription-and-user-migration}
+            + [Migrar para a identidade do Adobe](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
       + Configurações {#settings}
          + [Informações da API de exportação em massa](product-docs/administration/settings/bulk-export-api-information.md)
          + [Inspetor de campanhas](product-docs/administration/settings/campaign-inspector.md)
