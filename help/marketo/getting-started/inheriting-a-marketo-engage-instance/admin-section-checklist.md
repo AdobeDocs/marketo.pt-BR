@@ -3,9 +3,9 @@ description: Lista de verificação de administrador de instância herdada - Doc
 title: Lista de Verificação de Administração de Instância Herdada
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '1832'
+source-wordcount: '1817'
 ht-degree: 3%
 
 ---
@@ -298,18 +298,17 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
 <li>Você adicionou o <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">usuários desejados</a> ao perfil de produto Dynamic Chat no Adobe Admin Console?
 <ul>
 <li>Certifique-se de que os usuários qualificados tenham o Perfil de produto Dynamic Chat adicionado à sua Identidade Adobe. Não é possível atribuir funções de "Dynamic Chat de acesso" em Marketo Engage &gt; Administrador &gt; Usuários e funções se eles forem adicionados a um Perfil de produto.</li>
-<li>Na guia "Perfis de produto", as Permissões de perfil padrão estão alinhadas com o que sua organização precisa?<br/> 
+<li>Na guia "Perfis de produto", as Permissões de perfil padrão estão alinhadas às necessidades da sua organização?<br/> 
 Caso contrário, edite as permissões para o perfil específico. </li>
 <li>Se você tiver mais de uma assinatura, seus usuários estão sendo adicionados às assinaturas corretas?</li>
 </ul>
 </li>
 Quando terminar de auditar as configurações Usuários e funções, faça logon no Dynamic Chat para continuar sua auditoria.  
-<li>Na guia "Integrações", a sincronização de Marketo Engage e Dynamic Chat ainda está ativada?</li>
+<li>Você <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">conectou sua instância do Marketo Engage</a> para o Dynamic Chat?</li>
 <li>Os cinco perfis padrão com permissões predefinidas se aplicam à sua organização?<br/> 
      Caso contrário, você pode <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">editá-los no Dynamic Chat</a>. Também é possível <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">criar um perfil personalizado</a> com um conjunto personalizado de permissões.</li>
 <li>Para fornecer aos usuários acesso ao Dynamic Chat, você marcou a opção "Dynamic Chat de acesso" à função de Marketo Engage aplicável em Admin &gt; Usuários e funções &gt; Funções?
 <br/><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: as funções de "Administrador" e "Usuário de marketing" devem ter acesso ao Dynamic Chat.</li>
-<li>Você <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">conectou sua instância do Marketo Engage</a> para o Dynamic Chat?</li>
 </td>
   </tr>
   <td>Marketo Sales Insight (se aplicável)</td> 
