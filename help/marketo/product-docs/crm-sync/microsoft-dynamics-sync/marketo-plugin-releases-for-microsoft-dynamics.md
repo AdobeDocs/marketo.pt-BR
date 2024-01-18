@@ -4,7 +4,7 @@ description: Versões de plug-in do Marketo para Microsoft Dynamics - Documenta�
 title: Versões de plug-ins do Marketo para o Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 0%
@@ -36,9 +36,9 @@ Ao sincronizar pela primeira vez com o Microsoft Dynamics, você baixa a versão
 <table> 
  <tbody> 
   <tr> 
-   <th>Versão</th> 
-   <th>Data de lançamento</th> 
-   <th>Observações</th> 
+   <th style="width:15%">Versão</th> 
+   <th style="width:20%">Data de lançamento</th> 
+   <th style="width:65%">Observações</th> 
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
