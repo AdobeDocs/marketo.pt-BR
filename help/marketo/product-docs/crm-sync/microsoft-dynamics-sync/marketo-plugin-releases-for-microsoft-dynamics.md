@@ -4,9 +4,9 @@ description: Versões de plug-in do Marketo para Microsoft Dynamics - Documenta�
 title: Versões de plug-ins do Marketo para o Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
+source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Ao sincronizar pela primeira vez com o Microsoft Dynamics, você baixa a versão
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
-   <td>13/10/23</td> 
+   <td>19/01/24</td> 
    <td>Correção de erros: foram corrigidos erros relacionados à sincronização de entidades personalizadas.</td> 
   </tr> 
   <tr> 
@@ -53,7 +53,9 @@ Ao sincronizar pela primeira vez com o Microsoft Dynamics, você baixa a versão
   <tr> 
    <td>5.0.1.8</td> 
    <td>27/03/23</td> 
-   <td>Correção de erros: impede que o plug-in substitua outras personalizações nos elementos da interface no MS Dynamics.</td> 
+   <td>Correção de erros: impede que o plug-in substitua outras personalizações nos elementos da interface no MS Dynamics.
+   <p>
+   Correção de erros: Foram restabelecidos os blocos de navegação que estavam ausentes na 5.0.1.1.</td> 
   </tr> 
   <tr> 
    <td>5.0.1.1</td> 
