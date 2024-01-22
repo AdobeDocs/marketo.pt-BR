@@ -1,10 +1,8 @@
 ---
 description: Uso das opções de SMS em uma campanha inteligente - Documentação do Marketo - Documentação do produto
 title: Utilização das opções de SMS em uma campanha inteligente
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 2%
@@ -17,11 +15,11 @@ Depois que você [criar uma mensagem SMS](/help/marketo/product-docs/mobile-mark
 
 >[!NOTE]
 >
->Se você deseja enviar uma mensagem SMS, temos uma [artigo específico](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md) por isso.
+>Se você deseja enviar uma mensagem SMS, temos uma [artigo específico](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} por isso.
 
 >[!PREREQUISITES]
 >
->Os acionadores/filtros de SMS só aparecerão se a variável [O serviço Vibes foi ativado](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md).
+>Os acionadores/filtros de SMS só aparecerão se a variável [O serviço Vibes foi ativado](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## Acionadores de SMS {#sms-triggers}
 
@@ -87,6 +85,6 @@ Há três etapas de fluxo de SMS para escolher.
 
 >[!MORELIKETHIS]
 >
->* [Enviar uma mensagem SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
->* [Definir lista inteligente para o Smart Campaign | Acionador](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Definir lista inteligente para o Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+>* [Enviar uma mensagem SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [Definir lista inteligente para o Smart Campaign | Acionador](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [Definir lista inteligente para o Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

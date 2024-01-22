@@ -1,19 +1,17 @@
 ---
 description: Enviar uma mensagem SMS - Documentação do Marketo - Documentação do produto
 title: Enviar uma mensagem SMS
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 6731d6fca4b6547f1f709e45f32f766e0e0e30b4
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
 # Enviar uma mensagem SMS {#send-a-vibes-sms-message}
 
-Você tem [criou sua mensagem SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md), agora é hora de enviá-lo. Você pode enviá-lo por Lote ou Acionar a campanha.
+Você tem [criou sua mensagem SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, agora é hora de enviá-lo. Você pode enviá-lo por Lote ou Acionar a campanha.
 
 >[!NOTE]
 >
@@ -77,6 +75,5 @@ Você tem [criou sua mensagem SMS](/help/marketo/product-docs/mobile-marketing/v
 
 >[!MORELIKETHIS]
 >
->* [Criar uma mensagem de vibrações](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
->* Etapas de fluxo das vibrações
-
+>* [Criar uma mensagem de vibrações](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [Utilização das opções de SMS em uma campanha inteligente](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}
