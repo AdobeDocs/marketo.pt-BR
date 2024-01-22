@@ -4,10 +4,10 @@ description: Notas de versão - Verão de 16 - Documentação do Marketo - Docum
 title: Notas de versão - Verão de 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '783'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -39,7 +39,7 @@ A trilha de auditoria fornece um histórico abrangente das alterações feitas n
 
 ![](assets/audit-trail.png)
 
-## [Integração do Marketo-Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Integração do Marketo-Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Crie facilmente mensagens SMS diretamente no Marketo. Personalize e direcione sua mensagem usando seus dados avançados do Marketo e monitore facilmente o desempenho usando o painel de mensagens SMS.
 
@@ -98,7 +98,7 @@ Especifique um atraso para que as campanhas da Web reajam no site.
 
 ## [Exportação de conteúdo do Analytics e do Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
-Exibição offline de dados de análises e recomendações de conteúdo.
+Exibir dados de análises de conteúdo e recomendações offline.
 
 ## [Suporte a API do Editor do E-mail 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 

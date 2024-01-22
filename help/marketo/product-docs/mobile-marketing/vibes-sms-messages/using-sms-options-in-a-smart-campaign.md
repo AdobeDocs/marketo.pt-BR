@@ -2,7 +2,7 @@
 description: Uso das opções de SMS em uma campanha inteligente - Documentação do Marketo - Documentação do produto
 title: Utilização das opções de SMS em uma campanha inteligente
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 2%
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 # Utilização das opções de SMS em uma campanha inteligente {#using-sms-options-in-a-smart-campaign}
 
-Depois que você [criar uma mensagem SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md){target="_blank"}, você deverá usar os acionadores e filtros de Smart List em uma Campanha inteligente para obter os benefícios.
+Depois que você [criar uma mensagem SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, você deverá usar os acionadores e filtros de Smart List em uma Campanha inteligente para obter os benefícios.
 
 >[!NOTE]
 >
