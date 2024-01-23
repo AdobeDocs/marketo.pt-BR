@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 4cde82d9c9af243db698e11c2f91e9969062921e
+source-git-commit: 368e857c276e4dc19599b5169e82f578ce9becb0
 workflow-type: tm+mt
-source-wordcount: '2269'
+source-wordcount: '2270'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Na seção Verificação de email do usuário, um administrador pode encontrar o
 
 Um administrador pode exibir o status de verificação de email da assinatura, a porcentagem de usuários na assinatura que concluíram a verificação de email e o número de usuários que foram marcados como ignorados. O status será relatado com base no status do estado de verificação de email de todos os usuários na assinatura. O administrador pode clicar no número de usuários ignorados e navegará até a guia Migração de usuários para exibir esses usuários.
 
-O email de verificação pode ser reenviado por um administrador na guia Migração de usuários do Console de migração e na guia Usuário e funções na área Administrador do Marketo, ou pelo usuário em suas Configurações da conta. Como emails de convite de usuário, o link no email de verificação expira em 3 dias. Mais informações sobre verificação de email podem ser encontradas no [Comunidade](nation.marketo.com) e no [documentação de verificação de email](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
+O email de verificação pode ser reenviado por um administrador na guia Migração de usuários do Console de migração e na guia Usuário e funções na área Administrador do Marketo, ou pelo usuário em suas Configurações da conta. Como emails de convite de usuário, o link no email de verificação expira em 3 dias. Mais informações sobre verificação de email podem ser encontradas no [Comunidade](https://nation.marketo.com/) e no [documentação de verificação de email](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
 >[!IMPORTANT]
 >
