@@ -4,10 +4,10 @@ description: Gerenciamento de usuários do Marketo - Documentação do Marketo -
 title: Gerenciamento de usuários do Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 0%
+source-wordcount: '378'
+ht-degree: 1%
 
 ---
 
@@ -68,6 +68,10 @@ ht-degree: 0%
 O novo usuário agora está listado na guia Usuários e receberá um email com instruções sobre como ativar sua conta.
 
 ## Excluir usuários {#delete-users}
+
+>[!NOTE]
+>
+>Se o usuário que você deseja excluir também for um usuário Dynamic Chat, é necessário [remova-os do Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) no Admin Console antes de poder excluí-los no Marketo Engage.
 
 1. Vá para a **[!UICONTROL Admin]** área.
 

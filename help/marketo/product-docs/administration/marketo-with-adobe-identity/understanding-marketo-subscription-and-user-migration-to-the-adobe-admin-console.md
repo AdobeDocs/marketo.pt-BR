@@ -3,9 +3,9 @@ description: Noções básicas sobre a assinatura do Marketo e a migração de u
 title: Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '1189'
+source-wordcount: '1289'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,11 @@ Os administradores de sistema podem precisar concluir algumas etapas necessária
 
 * Se você já gerencia outros produtos Adobe no seu Adobe Admin Console, o Adobe pode solicitar seu consentimento para migrar automaticamente os usuários para o seu console existente. Clique no botão &quot;Introdução&quot; no email para navegar até a página de consentimento.
 
-Não há alterações no gerenciamento de usuários no momento. Os administradores do Marketo continuarão a gerenciar usuários na área de administração do Marketo e os usuários continuarão a fazer logon com sua identidade da Marketo até que a migração de usuários seja concluída.
+Não há alterações no gerenciamento de usuários no momento. Embora os produtos da Marketo apareçam no Admin Console, os administradores do Marketo continuarão a gerenciar usuários na área de administração do Marketo e os usuários continuarão a fazer logon com sua identidade da Marketo até que a migração de usuários seja concluída. Durante esse período, os produtos Marketo não podem ser administrados no Admin Console até que a migração do usuário comece. Isso inclui a instância de Dynamic Chat associada à assinatura.
+
+>[!NOTE]
+>
+>Se você não usa SSO atualmente, mas está pensando em implementá-lo, sugerimos fazê-lo antes que a migração de usuário ocorra. Se você quiser implementar o Logon único e sua assinatura tiver sido integrada ao Adobe Identity sem o SSO implementado na Adobe Org, envie um tíquete para [Suporte ao Marketo](https://nation.marketo.com/){target="_blank"} e especifique o tópico como &quot;Marketo no Admin Console, implementação de SSO&quot;.
 
 ### Agendar migração de usuário {#schedule-user-migration}
 

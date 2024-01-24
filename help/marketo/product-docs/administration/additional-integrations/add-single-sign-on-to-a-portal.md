@@ -4,10 +4,10 @@ description: Adicionar logon único a um portal - Documentação do Marketo - Do
 title: Adicionar Logon Único a um Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 1%
+source-wordcount: '546'
+ht-degree: 0%
 
 ---
 
@@ -23,6 +23,10 @@ Quando o SSO está ativado, o IdP pode validar as credenciais de um usuário. Qu
 >
 >**Permissões de administrador necessárias**
 
+>[!IMPORTANT]
+>
+>Isso não se aplica a assinaturas integradas à Identidade do Adobe. Para assinaturas integradas à Identidade do Adobe, o Logon único é configurado no nível da Organização Adobe no Adobe Admin Console. [Saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
+
 >[!NOTE]
 >
 >Você é um [!DNL Microsoft Azure] usuário? Confira o [tutorial de integração](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
@@ -30,7 +34,7 @@ Quando o SSO está ativado, o IdP pode validar as credenciais de um usuário. Qu
 ## Como enviar a solicitação {#how-to-send-the-request}
 
 * Enviar a solicitação de SSO, que é uma resposta SAML, para `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Como o URL do público-alvo do SP. Usar `http://saml.marketo.com/sp`
+* Como o URL do público-alvo do SP. Uso `http://saml.marketo.com/sp`
 * Se você estiver usando o atributo SPNameQualifier, defina o elemento NameID para Subject como `http://saml.marketo.com/sp`
 * Se você estiver federando várias assinaturas do Marketo para o mesmo provedor SSO, poderá usar URLs exclusivos de SP para cada subconjunto do Marketo com o formato `http://saml.marketo.com/sp/<munchkin_id>`
 
@@ -53,7 +57,7 @@ Quando o SSO está ativado, o IdP pode validar as credenciais de um usuário. Qu
 
 ## Atualizar Configurações SAML {#update-saml-settings}
 
-O SSO está desativado por padrão. Siga estas etapas para habilitar o SAML e configurá-lo.
+O SSO está desativado por padrão. Siga estas etapas para ativar o SAML e configurá-lo.
 
 1. Vá para a **[!UICONTROL Admin]** área.
 
@@ -112,5 +116,5 @@ O SSO está desativado por padrão. Siga estas etapas para habilitar o SAML e co
 >[!MORELIKETHIS]
 >
 >* [Uso de uma Universal ID para logon de assinatura](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
->* [Login de usuário restrito apenas a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Restringir o logon do usuário somente ao SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
 >* [Convidar usuários do Marketo para duas instâncias com Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
