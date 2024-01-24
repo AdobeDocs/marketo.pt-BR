@@ -3,7 +3,7 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
+source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 7%
@@ -183,4 +183,4 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
 
 * **Verificação de email para usuários somente SSO**: somente usuários do SSO costumavam ser verificados automaticamente, permitindo que usassem uma conta de email inacessível. A partir de meados de janeiro, todos os usuários existentes com SSO somente ficarão sem verificação e serão solicitados a verificar novamente seus emails por meio de um link que enviamos para a conta de email. Todos os novos usuários com SSO Apenas precisarão verificar seus endereços de email a partir de agora.
 
-* Assista ao [Webinário da versão de janeiro de 2024 do Marketo Engage](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* Assista ao [Webinário da versão de janeiro de 2024 do Marketo Engage](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
