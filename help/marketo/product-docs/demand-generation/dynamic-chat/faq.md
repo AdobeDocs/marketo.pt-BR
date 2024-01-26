@@ -3,7 +3,7 @@ description: Perguntas frequentes sobre o Dynamic Chat - Documentação do Marke
 title: Perguntas frequentes sobre o Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -89,9 +89,10 @@ Sim. [Saiba como](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat
 **O que significam exatamente termos como &quot;Engajado&quot; ou &quot;Pessoas adquiridas&quot;?**
 
 Há vários termos usados no Dynamic Chat. As definições para muitos deles podem ser encontradas nos artigos de ajuda de suas respectivas áreas.
-* Termos do Analytics, como &quot;Pessoas adquiridas&quot; [pode ser encontrado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
-* Definições de Acionador/Filtro da Smart List [pode ser encontrado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
-* Descrições dos vários cartões do Stream Designer [pode ser encontrado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
+* Termos do Analytics, como &quot;Pessoas adquiridas&quot; [pode ser encontrado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Definições de Acionador/Filtro da Smart List [pode ser encontrado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* Descrições dos vários cartões do Stream Designer [pode ser encontrado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **Posso usar Dynamic Chat sem Marketo Engage?**
 

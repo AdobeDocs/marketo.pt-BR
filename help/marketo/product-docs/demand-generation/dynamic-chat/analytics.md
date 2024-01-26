@@ -3,7 +3,7 @@ description: Analytics - Documentação do Marketo - Documentação do produto
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 2%
@@ -54,12 +54,12 @@ Exibir caixas de diálogo, fluxos de conversa ou todos. Selecione uma predefini�
 <thead>
 <tbody>
   <tr>
-    <td><b>Concluído</b></td>
+    <td style="width:25%"><b>Concluído</b></td>
     <td>Um evento concluído ocorre quando um visitante atinge o último prompt em uma conversa <i>ou</i> quando um visitante esgota todo o conteúdo em uma conversa.
     <br>Um evento concluído por visitante, por sessão.</td>
   </tr>
   <tr>
-    <td><b>As pessoas adquiriram</b></td>
+    <td style="width:25%"><b>As pessoas adquiriram</b></td>
     <td>Ocorre quando um visitante envia seu endereço de email.
     <br>Uma aquisição por visitante, por sessão.</td>
   </tr>
