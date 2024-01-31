@@ -3,9 +3,9 @@ description: Verificação de email - Documentação do Marketo - Documentação
 title: Verificação de email
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: f4d2e7acaaf1ad59d716c831c7b1a2ed340a5a24
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ O Marketo Engage continua a implementação da Verificação de email como prepa
 ## Convite de usuário {#user-invite}
 
 Quando um Administrador convida um usuário, ele é automaticamente verificado depois que clica no link de convite.
+
+>[!IMPORTANT]
+>
+>A exceção ao acima é que, em uma assinatura somente SSO, os administradores receberão um novo convite do usuário, mas os não administradores não receberão. Os não administradores devem passar pelo processo de verificação de email para garantir a migração de seus registros de usuário. Um Administrador pode enviar o link de verificação de email clicando no link **Reenviar verificação de email** ao lado do nome de usuário.
 
 ## Email de verificação {#verification-email}
 
