@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
+source-git-commit: b5e10b2820c3091a648510e131e16c03ffe9c564
 workflow-type: tm+mt
 source-wordcount: '2249'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Em seguida, há três seções do Status exibidas para o administrador.
 * **Migração e ativação de usuários**: migração e ativação do usuário (migração e direito ao produto Marketo Engage) status dos usuários na assinatura.
 * **Confirmação de migração**: status de conclusão da migração da assinatura.
 
-**Verificação de email do usuário**
+#### Verificação de email do usuário {#user-email-verification}
 
 Na seção Verificação de email do usuário, um administrador pode encontrar o status atual da verificação de email para os usuários na assinatura, antes da migração para a Identidade do Adobe.
 
@@ -87,13 +87,13 @@ O email de verificação pode ser reenviado por um administrador na guia Migraç
 >
 >Se um usuário do Marketo Engage não verificar seu endereço de email, ele não poderá ser migrado para uma Adobe ID e perderá o acesso à assinatura do Marketo após a conclusão da migração. Para recuperar o acesso, um administrador de produto do Marketo precisaria adicioná-los como um novo usuário.
 
-**Migração e ativação de usuários**
+#### Migração e ativação de usuários {#user-migration-and-activation}
 
 Na seção Migração e ativação de usuários, um Administrador pode encontrar o status atual do total de migrações de usuários e os direitos ao Sistema Adobe Identity Management.
 
 Um administrador pode exibir a porcentagem de usuários em sua assinatura que foram migrados para uma Adobe ID ou marcados como Ignorados. O status será relatado com base no status do estado de migração de todos os usuários para uma Adobe ID na assinatura, ou marcado como Ignorado e não será migrado. À medida que os usuários são migrados e têm direito ao Marketo Engage, ou são ignorados, esse status é atualizado.
 
-**Confirmação de migração**
+#### Confirmação de migração {#migration-confirmation}
 
 Na seção Confirmação de Migração, um administrador precisará confirmar se a migração de usuário foi concluída para a assinatura.
 
