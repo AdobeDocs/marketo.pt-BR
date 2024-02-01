@@ -4,9 +4,9 @@ description: Alterar o URL da página de aterrissagem — Documentação do Mark
 title: Alterar o URL da landing page
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,17 @@ ht-degree: 0%
 
 Você pode modificar o URL de uma landing page. Isso pode ajudar a tornar o URL mais fácil de lembrar e melhorar o SEO.
 
-1. Selecione sua landing page. Clique em **Ações da landing page** lista suspensa, role até **Ferramentas de URL** e selecione **Editar configurações de URL**.
+1. Localize e selecione a Landing page desejada.
 
-   ![](assets/one.png)
+   ![](assets/change-the-landing-page-url-1.png)
+
+1. Clique em **Ações da landing page** lista suspensa, role até **Ferramentas de URL** e selecione **Configurações de URL**.
+
+   ![](assets/change-the-landing-page-url-2.png)
 
 1. Insira o **Novo URL**, opte por descartar ou redirecionar o URL antigo e clique em **Salvar**.
 
-   ![](assets/two.png)
+   ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
