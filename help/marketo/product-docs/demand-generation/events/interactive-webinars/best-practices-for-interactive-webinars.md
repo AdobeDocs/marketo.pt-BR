@@ -4,9 +4,9 @@ title: Práticas recomendadas para webinários interativos
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1650'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 
 * Pods personalizados são aplicativos de terceiros que podem ser usados para estender a funcionalidade de uma sala do Adobe Connect. Os pods personalizados podem ser baixados de `apps.adobeconnect.com` como arquivos .pod ou .zip que podem ser compartilhados no pod Compartilhar.
    * Alguns pods personalizados populares são: Tempo de contagem regressiva, Relógio, Tesoura de papel de pedra, Word Cloud, Titler.
-   * Clique aqui para ver um vídeo curto sobre como usar pods personalizados.
+   * [Clique aqui](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} para assistir a um vídeo curto sobre como usar pods personalizados.
 
 **Privacidade: para manter a confidencialidade das informações do participante, verifique as configurações abaixo:**
 

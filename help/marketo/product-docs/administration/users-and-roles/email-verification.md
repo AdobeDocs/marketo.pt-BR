@@ -3,9 +3,9 @@ description: Verificação de email - Documentação do Marketo - Documentação
 title: Verificação de email
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,19 @@ Quando um Administrador convida um usuário, ele é automaticamente verificado d
 
 >[!IMPORTANT]
 >
->A exceção ao acima é que, em uma assinatura somente SSO, os administradores receberão um novo convite do usuário, mas os não administradores não receberão. Os não administradores devem passar pelo processo de verificação de email para garantir a migração de seus registros de usuário. Um Administrador pode enviar o link de verificação de email clicando no link **Reenviar verificação de email** ao lado do nome de usuário.
-
-## Email de verificação {#verification-email}
-
-Os usuários receberão o seguinte email quando a verificação de email for ativada para uma assinatura ou se for acionada por um Administrador/usuário:
+>A exceção acima é, _em uma assinatura somente SSO_ No entanto, os administradores receberão um novo convite do usuário, mas os usuários não administradores não receberão. Os usuários que não são administradores ainda devem passar pelo processo de verificação de email para garantir a migração de seus registros. Os usuários podem enviar a si mesmos o link de verificação de email acessando **Admin** > **Minha conta** > **Configurações da conta** e clicando em **Reenviar verificação**.
 
 ![](assets/email-verification-1.png)
 
->[!NOTE]
+## Email de verificação {#verification-email}
+
+Os usuários receberão o email abaixo quando a verificação de email for ativada para uma assinatura ou se for acionada por um Administrador/usuário.
+
+Uma sessão de usuário ativa é necessária para o sucesso da Verificação de email. O usuário deve primeiro fazer logon na assinatura do Marketo usando a URL do provedor de identidade (IdP). Uma vez estabelecida uma sessão, eles _depois_ clique em **Verificar endereço de email** no email.
+
+![](assets/email-verification-2.png)
+
+>[!TIP]
 >
 >Para reenviar um email de verificação a um usuário não verificado, basta selecionar o registro e clicar no link **[!UICONTROL Verificar email]** botão.
 
@@ -40,15 +44,15 @@ Os usuários receberão o seguinte email quando a verificação de email for ati
 
 Quando o endereço de email de um usuário é alterado, ele não é verificado. Um email será enviado a eles, permitindo que eles verifiquem novamente. Os usuários podem reenviar manualmente esse email clicando em **[!UICONTROL Reenviar verificação]**.
 
-![](assets/email-verification-2.png)
-
 ![](assets/email-verification-3.png)
+
+![](assets/email-verification-4.png)
 
 ## Usuários e funções {#users-and-roles}
 
 Entrada **[!UICONTROL Admin]** > **[!UICONTROL Usuários e funções]**, a coluna Status de email mostra o status de verificação de cada usuário.
 
-![](assets/email-verification-4.png)
+![](assets/email-verification-5.png)
 
 ## IDs de logon de vários usuários {#multiple-user-login-ids}
 
@@ -58,7 +62,7 @@ Somente uma conta de usuário pode ser associada a um único endereço de email.
 * Usar um novo email para a ID de logon de usuário atual
 * Atrasar a decisão até o próximo logon
 
-  ![](assets/email-verification-5.png)
+  ![](assets/email-verification-6.png)
 
 >[!NOTE]
 >
