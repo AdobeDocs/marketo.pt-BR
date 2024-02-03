@@ -3,7 +3,7 @@ description: Visão geral do Adobe Identity Management - Documentação do Marke
 title: Visão geral do Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: 6f9790c2243407f2622970d228c9de6be7697df6
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Todas as novas assinaturas do Adobe Marketo Engage (31 de julho de 2023 ou poste
 
 >[!NOTE]
 >
->O Suporte da Marketo não pode fornecer atualizações relacionadas à migração do Adobe IMS. A equipe da conta do Adobe entrará em contato com a linha do tempo estimada para os próximos meses. Para obter mais informações, consulte [este artigo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>O Suporte da Marketo não pode fornecer atualizações relacionadas à migração do Adobe IMS. A equipe da conta do Adobe entrará em contato com a linha do tempo estimada para os próximos meses. Para obter mais informações, consulte [este artigo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 Para assinaturas integradas à identidade do Adobe, o Adobe Admin Console é usado para gerenciamento de usuários. Os conceitos relacionados à identidade, como Logon único, também são gerenciados no Admin Console.
 
