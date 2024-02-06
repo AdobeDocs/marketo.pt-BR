@@ -4,9 +4,9 @@ description: Restringir logons do Marketo com base em IP - Documentação do Mar
 title: Restringir logons do Marketo com base no IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
@@ -19,9 +19,9 @@ Você pode restringir ou permitir que os usuários acessem o Marketo com base em
 >
 >**Permissões de administrador necessárias**
 
->[!NOTE]
+>[!IMPORTANT]
 >
->As informações neste artigo se aplicam apenas aos logons diretos em login.marketo.com. Não é possível impor restrições de IP em logons de logon único (SSO) no momento.
+>As informações neste artigo são para usuários que fazem logon diretamente em login.marketo.com e não se aplicam a usuários que se autenticam com o Adobe ID. Não é possível impor restrições de IP em logons de logon único (SSO) neste momento.
 
 1. Vá para a **[!UICONTROL Admin]** área.
 
