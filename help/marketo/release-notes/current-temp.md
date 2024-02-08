@@ -4,9 +4,9 @@ title: Notas da versão atual
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
+source-git-commit: 83cd2466d7be84d3f1dceb7fae17ca0cb53d7408
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '260'
 ht-degree: 11%
 
 ---
@@ -30,6 +30,27 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentação</th>
   </tr>
+  <tr> 
+   <td><strong>Lógica de Fluxo de Conversação Avançada</strong>: adicione campos adicionais para avaliação em uma única escolha para acompanhamento do Fluxo de conversa.</td> 
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Reordenar Lógica de Fluxo de Conversação</strong>: no Marketo Engage Forms, agora é possível reordenar as opções de Fluxo de conversa, em vez de precisar excluir e adicionar novamente.</td> 
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
     <tr> 
    <td><strong>Modelos personalizados em webinários interativos</strong>: Agora você pode criar modelos personalizados para layouts de sala em Webinars interativos.</td> 
    <td><i>Em breve</i></td>
@@ -49,42 +70,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 </table>
 <br/>
 
-## Recursos da versão Agile {#agile-release-features}
-
-Todos os recursos abaixo seguem um formato Agile e são lançados em várias datas antes ou depois da data de lançamento padrão. Verifique o status ao lado de cada recurso.
-
-### Dynamic Chat {#dynamic-chat}
-
-<table style="border: 0px">
- <tbody> 
-  <tr> 
-   <th style="width:65%">Recurso</th> 
-   <th style="width:15%">Status</th>
-   <th style="width:20%">Documentação</th>
-  </tr> 
-  </tr>
-    <tr> 
-   <td><strong>Lógica de Fluxo de Conversação Avançada</strong>: adicione campos adicionais para avaliação em uma única escolha para acompanhamento do Fluxo de conversa.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>Reordenar Lógica de Fluxo de Conversação</strong>: agora você pode reordenar a lógica na qual a lógica condicional para Fluxos de conversa está configurada, em vez de precisar excluir e ler.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-   </tr>
- </tbody> 
-</table>
-<br/>
-
 ## Anúncios {#announcements}
 
-* **Substituição do plug-in do navegador do Insight da conta**: o Adobe está removendo o [Plug-in de navegador do Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md) da loja na web do Chrome em 18 de março de 2024. Usuários existentes: você pode continuar a usar o plug-in até migrar a instância do Marketo Engage para a Identidade e Admin Console do Adobe.
-
-{target="_blank"}
+* **Substituição do plug-in do navegador do Insight da conta**: o Adobe está removendo o Gerenciamento de conta do Target [Plug-in de navegador do Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} da loja na web do Chrome em 18 de março de 2024. Usuários existentes: você pode continuar a usar o plug-in até migrar a instância do Marketo Engage para a Identidade e Admin Console do Adobe.
