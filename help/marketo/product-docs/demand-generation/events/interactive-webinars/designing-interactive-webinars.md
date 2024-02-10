@@ -3,9 +3,9 @@ description: Criação De Webinars Interativos - Documentação Do Marketo - Doc
 title: Criação de webinários interativos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: 815fd7a67d65588c4a0a56ba1f478bd1844d7ee3
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Saiba como projetar seu webinário para atender às suas necessidades.
 1. Sua visualização do webinário será exibida.
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!NOTE]
+   >
+   >Por padrão, o nome da sala indicado no campo &quot;Nome da sala do webinário interativo&quot; é o mesmo nome do Programa de evento do webinário interativo. Você tem a opção de alterá-lo para refletir o título do próprio webinário, já que esse nome é visível para seu público-alvo.
 
    >[!TIP]
    >
