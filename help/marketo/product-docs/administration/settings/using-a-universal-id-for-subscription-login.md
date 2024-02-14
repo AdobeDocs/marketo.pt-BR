@@ -4,10 +4,10 @@ description: Uso de uma Universal ID para logon de assinatura - Documentação d
 title: Uso de uma Universal ID para logon de assinatura
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
+source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 1%
+source-wordcount: '576'
+ht-degree: 0%
 
 ---
 
@@ -27,11 +27,11 @@ Todas as assinaturas do Marketo vêm com o recurso opcional de Universal ID. De 
 >
 >Se você tiver várias IDs de logon de assinatura, também poderá ter vários perfis de comunidade. Certifique-se de escolher a ID da Universal ID conectada ao perfil que você deseja usar para a instância de produção e não para a sandbox.
 
-## Conectando {#logging-in}
+## Efetuando Login {#logging-in}
 
 Ao fazer logon para aceitar um convite para uma segunda assinatura usando uma Universal ID, você verá a página de logon de Opt-in. Aqui, você deve marcar uma caixa de seleção para aceitar os termos e condições. Depois de aceitar, você verá a página de redefinição normal, não esta, para os logons subsequentes. Ao aceitar os termos e condições, você permite que a Marketo distribua seus dados básicos de perfil (como nome, sobrenome e endereço de email) para os data centers em diferentes locais onde sua assinatura está hospedada.
 
-![](assets/new-login-reduced-hands-name.png)
+![](assets/using-a-universal-id-for-subscription-login-1.png)
 
 >[!TIP]
 >
@@ -51,7 +51,7 @@ Com uma Universal ID para várias assinaturas, somente você pode alterar a senh
 
 Usando uma Universal ID, você pode ver a assinatura à qual está conectado e selecionar outras assinaturas às quais você tem acesso de logon. Na maioria dos casos, você pode alternar entre elas sem precisar fazer logoff e logon novamente.
 
-![](assets/image2016-11-3-15-3a10-3a16.png)
+![](assets/using-a-universal-id-for-subscription-login-2.png)
 
 Ao fazer logout e fazer logon novamente, o Marketo automaticamente faz logon na assinatura na qual você fez logon pela última vez. Você pode alternar para uma assinatura diferente, se necessário.
 
@@ -66,5 +66,5 @@ Os usuários com Universal ID podem ver seus dados no [Momentos do Marketo](/hel
 >[!MORELIKETHIS]
 >
 >* [Adicionar Logon Único a um Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
->* [Login de usuário restrito apenas a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Restringir o logon do usuário somente ao SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
 >* [Convidar usuários do Marketo para duas instâncias com Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
