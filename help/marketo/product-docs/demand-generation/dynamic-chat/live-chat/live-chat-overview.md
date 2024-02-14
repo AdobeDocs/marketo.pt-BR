@@ -3,9 +3,9 @@ description: Visão geral do Live Chat - Documentação do Marketo - Documentaç
 title: Visão geral do bate-papo ao vivo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: b05ae6f1b5a63cdf5a0d5da1cb1a6a3641d973c1
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -105,8 +105,8 @@ Quando um chat ao vivo for roteado para um agente, ele verá um banner azul na p
 
 ### Itens a Observar {#things-to-note}
 
-* Os agentes têm 45 segundos para responder antes que a mensagem &quot;Accept chat&quot; expire
-* No momento, há um limite de 10 bate-papos ao vivo por agente
+* Os agentes têm 45 segundos para responder antes que a mensagem &quot;Accept chat&quot; expire. Depois disso, os visitantes receberão a [mensagem de fallback](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Para assinantes do Dynamic Prime que têm a opção de roteamento definida como **Equipe**, mais um agente será tentado antes que a mensagem de fallback seja exibida.
+* No momento, há um limite de 10 bate-papos ao vivo por agente.
 
 >[!MORELIKETHIS]
 >
