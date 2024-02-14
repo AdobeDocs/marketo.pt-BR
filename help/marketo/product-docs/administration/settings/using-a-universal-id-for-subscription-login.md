@@ -4,9 +4,9 @@ description: Uso de uma Universal ID para logon de assinatura - Documentação d
 title: Uso de uma Universal ID para logon de assinatura
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -58,10 +58,6 @@ Ao fazer logout e fazer logon novamente, o Marketo automaticamente faz logon na 
 ## Perfis da comunidade {#community-profiles}
 
 Se você tiver várias assinaturas, poderá ter vários perfis de comunidade. Recomendamos que você escolha o login vinculado ao seu perfil da comunidade mais ativo.
-
-## Plataforma móvel {#mobile-platform}
-
-Os usuários com Universal ID podem ver seus dados no [Momentos do Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} da assinatura na qual fizeram logon pela última vez. Não é possível alterar assinaturas da própria plataforma móvel.
 
 >[!MORELIKETHIS]
 >
