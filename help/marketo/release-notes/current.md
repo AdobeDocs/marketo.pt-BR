@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2967e2214b8f1988f8a8482569cbb041381b1b6b
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 11%
+source-wordcount: '236'
+ht-degree: 10%
 
 ---
 
@@ -46,16 +46,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><i>Em breve</i></td>
    </tr>
   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-    <tr> 
-   <td><strong>Modelos personalizados em webinários interativos</strong>: Agora você pode criar modelos personalizados para layouts de sala em Webinars interativos.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-   <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
