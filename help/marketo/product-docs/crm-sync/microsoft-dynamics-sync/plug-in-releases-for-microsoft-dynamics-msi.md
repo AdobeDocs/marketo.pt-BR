@@ -4,10 +4,10 @@ description: Versões de plug-in do Microsoft Dynamics MSI - Documentação do M
 title: Versões de plug-in do MSI do Microsoft Dynamics
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 8%
+source-wordcount: '400'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ Se você estiver usando a solução de sincronização do CRM nativa da Marketo 
 >
 >Exemplo: se seu Dynamics CRM tiver a versão 2.0.0.20 e a versão mais recente for 2.0.0.21, você importaria _sobre_ versão 2.0.0.20.
 
-1. Clique em **[!UICONTROL Próximo]**.
+1. Clique em **[!UICONTROL Próxima]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
@@ -39,7 +39,7 @@ Se você estiver usando a solução de sincronização do CRM nativa da Marketo 
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. Clique em **[!UICONTROL Próximo]**.
+1. Clique em **[!UICONTROL Próxima]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -52,66 +52,83 @@ E é isso! Após a atualização, você verá apenas uma Solução MSI.
 ## Atualizações de versão {#version-updates}
 
 <table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">Data de lançamento</th> 
-   <th colspan="1">Versão</th> 
-   <th colspan="1">Observações</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1">02/03/22</td> 
-   <td colspan="1">2.0.0.27</td> 
-   <td colspan="1">Layout de conta para Insights: momentos interessantes, alterações de pontuação, atividades da Web, atividades de email</td> 
+   <th>Data de lançamento</th> 
+   <th>Versão</th> 
+   <th>Observações</th> 
   </tr>
   <tr> 
-   <td colspan="1">01/05/22</td> 
-   <td colspan="1">2.0.0.26</td> 
-   <td colspan="1">Pontuação de adoção de programa para enviar email</td> 
+   <td>14/02/24</td> 
+   <td>2.00.31</td> 
+   <td>Alterações na paginação em atividade da Web anônima.
+   <p>
+   Criptografar informações da chave secreta da visualização do usuário. A senha precisa ser alterada após a importação do novo pacote para que a criptografia ocorra.</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/28/21</td> 
-   <td colspan="1">2.0.0.25</td> 
-   <td colspan="1">Métricas de pontuação de adoção de produtos, novo Painel global (Atividade da Web, Email, Melhores opções)</td> 
+   <td>18/10/23</td> 
+   <td>2.00.30</td> 
+   <td>Consolidação do registro de erros MSI e remoção de notificações de informações para exibição na entidade de erro do Marketo.</td> 
   </tr>
   <tr> 
-   <td colspan="1">02/10/21</td> 
-   <td colspan="1">2.0.0.22</td> 
-   <td colspan="1">Remoção da Auditoria automática ativada e alterações na documentação da solução MSI</td> 
+   <td>19/05/23</td> 
+   <td>2.00.29</td> 
+   <td>Correção de problemas de paginação de Atividade da Web e Momentos interessantes no painel global.</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/01/20</td> 
-   <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">Correção de erros: atribuição de acesso aos campos de configuração da API MSI para usuários com a função Sales Insight</td> 
+   <td>23/03/23</td> 
+   <td>2.00.28</td> 
+   <td>Criou um <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">novo pacote</a> para MSI para conexões não nativas com o CRM.</td> 
+  </tr>
+  <tr> 
+   <td>03/02/22</td> 
+   <td>2.0.0.27</td> 
+   <td>Layout de conta para Insights: momentos interessantes, alterações de pontuação, atividades da Web, atividades de email.</td> 
+  </tr>
+  <tr> 
+   <td>05/01/22</td> 
+   <td>2.0.0.26</td> 
+   <td>Pontuação de adoção de programa para enviar email.</td> 
+  </tr>
+  <tr> 
+   <td>28/10/21</td> 
+   <td>2.0.0.25</td> 
+   <td>Métricas de pontuação de adoção de produtos, novo Painel global (Atividade da Web, Email, Melhores opções).</td> 
+  </tr>
+  <tr> 
+   <td>10/02/21</td> 
+   <td>2.0.0.22</td> 
+   <td>Remova a Auditoria automática ativada e as alterações na documentação na solução MSI.</td> 
+  </tr>
+  <tr> 
+   <td>01/10/20</td> 
+   <td>2.0.0.21</td> 
+   <td>Correção de erros: atribuição de acesso aos campos de configuração da API MSI para usuários com a função Sales Insight.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">07/20/20</td> 
-   <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">Correção de erros: adicionar uma mensagem de validação para registros não sincronizados</td> 
+   <td>20/07/20</td> 
+   <td>2.0.0.20</td> 
+   <td>Correção de erros: adicione uma mensagem de validação para registros não sincronizados.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">06/12/20</td> 
-   <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">Correção de erros: para ocultar a senha secreta MSI na configuração da API MSD</td> 
+   <td>12/06/20</td> 
+   <td>2.0.0.19</td> 
+   <td>Correção de erros: para ocultar a senha secreta MSI na configuração da API MSD.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/26/20</td> 
-   <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">Correção de erros: Para alterar a validação da ID de atribuição do MSI para exibir botões do MSI</td> 
+   <td>26/05/20</td> 
+   <td>2.0.0.18</td> 
+   <td>Correção de erros: Para alterar a validação da ID de atribuição do MSI para exibir botões MSI.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/21/20</td> 
-   <td colspan="1">2.0.0.17</td> 
-   <td colspan="1">Correção de erros: reexiba o campo do proprietário e torne os campos não obrigatórios</td> 
+   <td>21/05/20</td> 
+   <td>2.0.0.17</td> 
+   <td>Correção de erros: reexiba o campo do proprietário e torne os campos não obrigatórios.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">04/28/20</td> 
-   <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">Correção de erros: Remoção da dependência do link de configuração do mapa de site do CRM MSD</td> 
+   <td>28/04/20</td> 
+   <td>2.0.0.16</td> 
+   <td>Correção de erros: removendo a dependência do link de configuração do mapa de site do CRM MSD.</td> 
   </tr> 
  </tbody> 
 </table>
