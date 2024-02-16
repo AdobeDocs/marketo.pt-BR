@@ -4,9 +4,9 @@ description: Acionar Alterações De Objetos Personalizados - Documentação Do 
 title: Acionar Alterações de Objeto Personalizado
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,12 @@ ht-degree: 0%
 >
 >Este recurso está disponível somente:
 >
->* Para clientes no [!DNL Orion] infraestrutura
 >* Para uso somente com objetos personalizados do Marketo, não com objetos personalizados sincronizados por meio da [!DNL Salesforce] ou [!DNL Microsoft Dynamics] integração
 >* Como acionador, não como filtro
 >
 >Contate [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para habilitar os Acionadores de Alteração de Objeto Personalizado.
 
-Em uma lista inteligente de campanha inteligente, é possível acionar uma ação de fluxo quando um objeto personalizado é adicionado a uma pessoa ou empresa. Também é possível criar uma lista inteligente que use uma *alterar* em um objeto personalizado como um acionador. Por exemplo, use-o para enviar um email quando um nome de curso for atualizado.
+Em uma lista inteligente de campanha inteligente, é possível acionar uma ação de fluxo quando um objeto personalizado é adicionado a uma pessoa ou empresa. Também é possível criar uma lista inteligente que use uma _alterar_ em um objeto personalizado como um acionador. Por exemplo, use-o para enviar um email quando um nome de curso for atualizado.
 
 >[!NOTE]
 >
