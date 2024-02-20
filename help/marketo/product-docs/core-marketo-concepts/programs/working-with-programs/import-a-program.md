@@ -4,16 +4,20 @@ description: Importar um programa - Documentação do Marketo - Documentação d
 title: Importar um programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
 
 # Importar um programa {#import-a-program}
 
-Um programa pode ser importado de uma assinatura do Marketo para outra. Por exemplo, você pode criar um programa em uma sandbox e importá-lo para a sua assinatura em tempo real. Além disso, é possível importar um programa pré-criado da [Biblioteca de programas da Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+Um programa pode ser importado de uma assinatura de Marketo Engage para outra. Por exemplo, você pode criar um programa em uma sandbox e importá-lo para a sua assinatura em tempo real. Além disso, é possível importar um programa pré-criado da [Biblioteca de programas da Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+
+>[!CAUTION]
+>
+>Programas que possuem Smart Lists contendo um acionador &quot;Objeto personalizado atualizado&quot; farão com que a importação falhe. Remova esse acionador de todas as Smart Lists antes de seguir as etapas descritas abaixo.
 
 ## Importando um programa {#importing-a-program}
 
@@ -27,15 +31,15 @@ Um programa pode ser importado de uma assinatura do Marketo para outra. Por exem
 
    >[!NOTE]
    >
-   >A Importação de programa só está disponível para usuários com as funções com a permissão Importar programa habilitada. Saiba mais sobre [gerenciamento de funções e permissões de usuário](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+   >* A Importação de programa só está disponível para usuários com as funções com a permissão Importar programa habilitada. Saiba mais sobre [gerenciamento de funções e permissões de usuário](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >Para conectar uma conta de sandbox à sua assinatura live, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Para conectar uma conta de sandbox à sua assinatura live, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Selecionar um Marketo **[!UICONTROL Inscrição]** e um programa para importar. Clique em **[!UICONTROL Próximo]**.
+1. Selecionar um Marketo **[!UICONTROL Inscrição]** e um programa para importar. Clique em **[!UICONTROL Próxima]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Especificar um **[!UICONTROL Pasta do Campaign]** para o programa importado. Clique em **[!UICONTROL Próximo]**.
+1. Especificar um **[!UICONTROL Pasta do Campaign]** para o programa importado. Clique em **[!UICONTROL Próxima]**.
 
    ![](assets/import-a-program-4.png)
 
