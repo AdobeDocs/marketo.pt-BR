@@ -4,9 +4,9 @@ description: Ocultar e reexibir um campo - Documentação do Marketo - Documenta
 title: Ocultar e reexibir um campo
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
+source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '177'
 ht-degree: 2%
 
 ---
@@ -37,6 +37,7 @@ Se você não tiver mais uso para um campo no Marketo Engage, poderá ocultá-lo
    >
    >* Para ocultar um campo, ele não deve estar associado a outros ativos (incluindo os arquivados). Remova o campo de todas as Smart Lists, opções de etapas de fluxo, formulários, emails, etc., antes de ocultar.
    >* Não é possível ocultar campos padrão (sistema).
+   >* Não é possível ocultar campos de informações da oportunidade.
 
 1. Clique em **[!UICONTROL Ocultar]** para confirmar.
 
