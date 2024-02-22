@@ -4,9 +4,9 @@ description: "Adicionar [!DNL Munchkin] Código de rastreamento do seu site - Do
 title: "Adicionar [!DNL Munchkin] Código de rastreamento do seu site"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ O código de rastreamento JavaScript personalizado do Marketo, chamado de [!DNL 
 
 >[!NOTE]
 >
->Os clientes da Adobe Experience Cloud também podem usar a integração do Marketo no Adobe Launch para incluir [!DNL Munchkin] em suas páginas da Web. Obter o aplicativo [aqui](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}.
+>Os usuários do Adobe Experience Cloud também podem usar [Integração do Marketo no Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} para incluir [!DNL Munchkin] em suas páginas da Web. Se você usar o Adobe Launch, _o [!DNL Munchkin] o script é adicionado automaticamente_, portanto, não é necessário adicioná-lo você mesmo.
 
 1. Vá para a **[!UICONTROL Admin]** área.
 
@@ -59,7 +59,7 @@ O código de rastreamento JavaScript personalizado do Marketo, chamado de [!DNL 
 
    >[!TIP]
    >
-   >Para sites que visualizam um alto volume de tráfego (ou seja, centenas de milhares de visitas por mês), recomendamos que você opte por não rastrear pessoas anônimas. [Saiba mais](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+   >Para sites que visualizam um alto volume de tráfego (ou seja, centenas de milhares de visitas por mês), recomendamos que você opte por não rastrear pessoas anônimas. [Saiba mais](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
 
 ## Adicionar código de rastreamento ao usar vários espaços de trabalho {#add-tracking-code-when-using-multiple-workspaces}
 
