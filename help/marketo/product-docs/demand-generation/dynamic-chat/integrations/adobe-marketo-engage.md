@@ -3,9 +3,9 @@ description: Adobe Marketo Engage - Documentação do Marketo - Documentação d
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: a8369dc36d5d2baae1091b2417615d1e642e364f
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '273'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ Depois de concluir o [configuração inicial](/help/marketo/product-docs/demand-
 >
 >O Dynamic Chat suporta sincronização [Marketo nativo](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} e campos de pessoa personalizados e campos de empresa.
 
-1. Em Meu Marketo, clique no link **Dynamic Chat** bloco.
+1. Em Meu Marketo, clique no link **[!UICONTROL Dynamic Chat]** bloco.
 
    ![](assets/adobe-marketo-engage-1.png)
 
@@ -30,19 +30,19 @@ Depois de concluir o [configuração inicial](/help/marketo/product-docs/demand-
 
 1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Dynamic Chat. Caso contrário, [configurar seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
-1. Para conectar sua instância do Marketo, selecione **Integrações**.
+1. Para conectar sua instância do Marketo, selecione **[!UICONTROL Integrações]**.
 
    ![](assets/adobe-marketo-engage-2.png)
 
-1. No cartão Marketo, clique em **Iniciar sincronização**.
+1. No cartão Marketo, clique em **[!UICONTROL Iniciar sincronização]**.
 
    ![](assets/adobe-marketo-engage-3.png)
 
-1. Selecione até 50 atributos (campos padrão ou personalizados) da sua instância do Marketo para sincronizar com o Dynamic Chat para uso no direcionamento de público, mapeamento de dados e personalização. Clique em **Próxima** quando terminar.
+1. Selecione até 50 atributos (campos padrão ou personalizados) da sua instância do Marketo para sincronizar com o Dynamic Chat para uso no direcionamento de público, mapeamento de dados e personalização. Clique em **[!UICONTROL Próxima]** quando terminar.
 
    ![](assets/adobe-marketo-engage-4.png)
 
-1. Revise suas seleções. Clique em **Confirmar o** para iniciar a sincronização.
+1. Revise suas seleções. Clique em **[!UICONTROL Confirmar o]** para iniciar a sincronização.
 
    ![](assets/adobe-marketo-engage-5.png)
 
@@ -54,15 +54,15 @@ Depois de concluir o [configuração inicial](/help/marketo/product-docs/demand-
 
 Após a sincronização inicial, veja como adicionar outros atributos.
 
-1. Entrada **Integrações**, verifique se **Adobe Marketo Engage** for selecionada e clique em **Adicionar atributo**.
+1. Entrada **[!UICONTROL Integrações]**, verifique se **[!UICONTROL Adobe Marketo Engage]** for selecionada e clique em **[!UICONTROL Adicionar atributo]**.
 
    ![](assets/adobe-marketo-engage-6.png)
 
-1. Selecione os atributos que deseja adicionar e clique em **Próxima**.
+1. Selecione os atributos que deseja adicionar e clique em **[!UICONTROL Próxima]**.
 
    ![](assets/adobe-marketo-engage-7.png)
 
-1. Revise suas seleções e clique em **Confirmar o**.
+1. Revise suas seleções e clique em **[!UICONTROL Confirmar o]**.
 
    ![](assets/adobe-marketo-engage-8.png)
 
@@ -74,11 +74,11 @@ Após a sincronização inicial, veja como remover um atributo.
 >
 >Você só verá a opção para remover um atributo se ele não estiver sendo usado atualmente por nenhuma caixa de diálogo.
 
-1. Entrada **Integrações**, verifique se **Adobe Marketo Engage** for selecionada e clicar no atributo que deseja remover.
+1. Entrada **[!UICONTROL Integrações]**, verifique se **[!UICONTROL Adobe Marketo Engage]** for selecionada e clicar no atributo que deseja remover.
 
    ![](assets/adobe-marketo-engage-9.png)
 
-1. Clique em **Remover atributo**.
+1. Clique em **[!UICONTROL Remover atributo]**.
 
    ![](assets/adobe-marketo-engage-10.png)
 

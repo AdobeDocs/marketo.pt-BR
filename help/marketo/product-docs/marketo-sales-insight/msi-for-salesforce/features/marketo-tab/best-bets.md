@@ -3,16 +3,20 @@ description: Melhores Opções - Documentação do Marketo - Documentação do p
 title: Melhores opções
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 7%
+source-wordcount: '314'
+ht-degree: 6%
 
 ---
 
 # Melhores opções {#best-bets}
 
 A guia Melhores Opções inclui uma lista de todos os seus clientes potenciais ativos com base em sua prioridade, calculada usando urgência e pontuação relativa.
+
+>[!CAUTION]
+>
+>Tenha cuidado para não exceder 1.000 Melhores Opções, caso contrário, a página poderá parar de carregar. Se isso ocorrer, use os filtros para restringir o número total de Melhores Opções.
 
 **Opções de filtro**
 

@@ -3,7 +3,7 @@ description: Stream Designer - Documentação do Marketo - Documentação do pro
 title: Designer de fluxo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '1108'
 ht-degree: 1%
@@ -91,15 +91,15 @@ No canto superior direito do Stream Designer, você verá vários ícones. Aqui 
 
 É possível criar fluxos para caixas de diálogo ou [Forms de conversa](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. Neste exemplo, criaremos um para uma caixa de diálogo.
 
-1. Depois de ter [criou seu diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, clique no link **Designer de fluxo** guia.
+1. Depois de ter [criou seu diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, clique no link **[!UICONTROL Designer de fluxo]** guia.
 
    ![](assets/stream-designer-6.png)
 
-1. Arraste e solte o cartão Pergunta.
+1. Arraste e solte a [!UICONTROL Pergunta] cartão.
 
    ![](assets/stream-designer-7.png)
 
-1. Em Resposta do Chatbot, escreva sua pergunta como você gostaria.
+1. Em [!UICONTROL Resposta do Chatbot]Então, responda à sua pergunta como deseja.
 
    ![](assets/stream-designer-8.png)
 
@@ -111,51 +111,51 @@ No canto superior direito do Stream Designer, você verá vários ícones. Aqui 
    >
    >O Poke está definido como ativado por padrão, o que exibe a pergunta de abertura ao lado do ícone do chat sem que o visitante precise clicar nele para vê-lo. O Poke só está disponível no primeiro cartão da conversa.
 
-1. Insira suas respostas de usuário e clique em **Salvar**.
+1. Insira suas respostas de usuário e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**Editar valores armazenados** é uma etapa opcional para quem gostaria de armazenar um valor diferente no banco de dados do que está sendo exibido para os visitantes no chatbot para atributos mapeados no cartão de Pergunta (por exemplo: o visitante vê &quot;Otimização do mecanismo de pesquisa&quot;, você armazena esse valor como &quot;SEO&quot;).
+   >**[!UICONTROL Editar valores armazenados]** é uma etapa opcional para quem gostaria de armazenar um valor diferente no banco de dados do que está sendo exibido para os visitantes no chatbot para atributos mapeados no cartão de Pergunta (por exemplo: o visitante vê &quot;Otimização do mecanismo de pesquisa&quot;, você armazena esse valor como &quot;SEO&quot;).
 
 1. Para &quot;Sim&quot;, queremos agendar um compromisso. Portanto, abaixo dessa opção, arraste o cartão Agendador de Compromissos.
 
    ![](assets/stream-designer-10.png)
 
-1. Na coluna à direita, clique em **Salvar**.
+1. Na coluna à direita, clique em **[!UICONTROL Salvar]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Como essa é uma meta, arraste o cartão Meta para baixo do Agendador de Compromissos.
+1. Como essa é uma meta, arraste o [!UICONTROL Meta] abaixo do Agendador de Compromissos.
 
    ![](assets/stream-designer-12.png)
 
-1. Nomeie sua meta (ou escolha uma existente) e clique em **Salvar**.
+1. Nomeie sua meta (ou escolha uma existente) e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/stream-designer-13.png)
 
-1. Para &quot;Não&quot; queremos ver se eles vão se juntar à lista de discussão, então abaixo dessa opção arraste sobre outro cartão Pergunta.
+1. Para &quot;Não&quot; queremos ver se eles vão se juntar à lista de discussão, então abaixo dessa opção arraste sobre outro [!UICONTROL Pergunta] cartão.
 
    ![](assets/stream-designer-14.png)
 
-1. Insira sua resposta e adicione opções de resposta para o visitante. Clique em **Salvar** quando terminar.
+1. Insira sua resposta e adicione opções de resposta para o visitante. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >Você pode adicionar mais respostas clicando em **Adicionar resposta**.
+   >Você pode adicionar mais respostas clicando em **[!UICONTROL Adicionar resposta]**.
 
 1. Abaixo da resposta &quot;Sim&quot;, arraste o cartão Captura de informações para poder coletar o email do visitante.
 
    ![](assets/stream-designer-16.png)
 
-1. Clique em **Tipo** e selecione **E-mail**.
+1. Clique em **[!UICONTROL Tipo]** e selecione **[!UICONTROL E-mail]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Insira uma mensagem de chatbot e um espaço reservado. Verifique se o atributo está mapeado para o campo apropriado no Marketo e clique em **Salvar**.
+1. Insira uma mensagem de chatbot e um espaço reservado. Verifique se o atributo está mapeado para o campo apropriado no Marketo e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -178,11 +178,11 @@ No canto superior direito do Stream Designer, você verá vários ícones. Aqui 
     </tr>
    </table>
 
-1. Como coletar o email é um objetivo, arraste o cartão de Objetivo abaixo de Captura de Informações.
+1. Como coletar o email é uma meta, arraste o [!UICONTROL Meta] abaixo de Captura de informações.
 
    ![](assets/stream-designer-19.png)
 
-1. Nomeie sua meta (ou escolha uma existente) e clique em **Salvar**.
+1. Nomeie sua meta (ou escolha uma existente) e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/stream-designer-20.png)
 
@@ -190,21 +190,21 @@ No canto superior direito do Stream Designer, você verá vários ícones. Aqui 
 
    ![](assets/stream-designer-21.png)
 
-1. Neste exemplo, criaremos um novo documento. Nomeie, insira o URL do PDF que você já hospedou e clique em **Salvar**.
+1. Neste exemplo, criaremos um novo documento. Nomeie, insira o URL do PDF que você já hospedou e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Selecione o **Visualizar** alternar para visualizar sua caixa de diálogo.
+1. Selecione o **[!UICONTROL Visualizar]** alternar para visualizar sua caixa de diálogo.
 
    ![](assets/stream-designer-23.png)
 
-1. Quando estiver pronto para ativar sua caixa de diálogo, clique em **Publish**.
+1. Quando estiver pronto para ativar sua caixa de diálogo, clique em **[!UICONTROL Publish]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Antes de clicar em Publicar, lembre-se de ter certeza de que [inseriu o(s) URL(s) de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Antes de clicar em [!UICONTROL Publish], lembre-se de se certificar de que você [inseriu o(s) URL(s) de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

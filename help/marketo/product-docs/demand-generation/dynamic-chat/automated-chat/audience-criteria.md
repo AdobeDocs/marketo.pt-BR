@@ -3,10 +3,10 @@ description: Critérios de público-alvo - Documentação do Marketo - Documenta
 title: Critérios de público
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '593'
-ht-degree: 2%
+source-wordcount: '597'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Semelhante às Smart Lists do Marketo Engage, os atributos de Critérios de púb
 
 ## Prioridade {#priority}
 
-A prioridade determina qual diálogo um lead recebe caso se qualifique para mais de um. É estabelecido quando você [criar sua caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Você pode alterar a prioridade de uma caixa de diálogo existente abrindo-a e acessando **Detalhes da caixa de diálogo** na guia Critérios de público-alvo.
+A prioridade determina qual diálogo um lead recebe caso se qualifique para mais de um. É estabelecido quando você [criar sua caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Você pode alterar a prioridade de uma caixa de diálogo existente abrindo-a e acessando **[!UICONTROL Detalhes da caixa de diálogo]** na guia Critérios de público-alvo.
 
 ![](assets/audience-criteria-1.png)
 
@@ -24,7 +24,7 @@ A prioridade determina qual diálogo um lead recebe caso se qualifique para mais
 
 Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em que estão na sua página/site. No exemplo abaixo, direcionamos os visitantes que estão em uma página específica há mais de 20 segundos.
 
-1. Pegue o **Tempo na página** e arraste-o para a direita.
+1. Pegue o **[!UICONTROL Tempo na página]** e arraste-o para a direita.
 
    ![](assets/audience-criteria-3.png)
 
@@ -40,9 +40,9 @@ Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em 
 
 **Pessoas conhecidas**
 
-Há _muitos_ combinações de atributos para escolher. No exemplo abaixo, estamos direcionando todos os **pessoas conhecidas** na Califórnia, que trabalham em uma empresa com mais de 50 funcionários.
+Há _muitos_ combinações de atributos para escolher. No exemplo abaixo, estamos direcionando todas as pessoas conhecidas na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
 
-1. Pegue o **Estado da pessoa** e arraste-o para a direita.
+1. Pegue o **[!UICONTROL Estado da pessoa]** e arraste-o para a direita.
 
    ![](assets/audience-criteria-7.png)
 
@@ -50,7 +50,7 @@ Há _muitos_ combinações de atributos para escolher. No exemplo abaixo, estamo
 
    ![](assets/audience-criteria-8.png)
 
-1. Pegue o **Tamanho da empresa** atributo e arraste-o para onde diz _arraste e solte um atributo aqui_.
+1. Pegue o **[!UICONTROL Tamanho da empresa]** atributo e arraste-o para onde diz _arraste e solte um atributo aqui_.
 
    ![](assets/audience-criteria-9.png)
 
@@ -58,7 +58,7 @@ Há _muitos_ combinações de atributos para escolher. No exemplo abaixo, estamo
    >
    >Você também pode escolher um atributo clicando em seu **+** ícone.
 
-1. Clique no menu suspenso do operador e selecione **Maior que**.
+1. Clique no menu suspenso do operador e selecione **[!UICONTROL Maior que]**.
 
    ![](assets/audience-criteria-10.png)
 
@@ -70,17 +70,17 @@ E é isso!
 
 **Pessoas anônimas**
 
-Há uma maneira fácil de direcionar especificamente as pessoas que ainda não estão no banco de dados. Neste exemplo, estamos direcionando todos os **pessoas anônimas** localizado na área de Nova York.
+Há uma maneira fácil de direcionar especificamente as pessoas que ainda não estão no banco de dados. Neste exemplo, estamos direcionando todas as pessoas anônimas localizadas na área de Nova York.
 
-1. Pegue o **Email da pessoa** e arraste-o para a direita.
+1. Pegue o **[!UICONTROL Email da pessoa]** e arraste-o para a direita.
 
    ![](assets/audience-criteria-12.png)
 
-1. Clique no menu suspenso do operador e selecione **Está vazio**.
+1. Clique no menu suspenso do operador e selecione **[!UICONTROL Está vazio]**.
 
    ![](assets/audience-criteria-13.png)
 
-1. Pegue o **Estado inferido** atributo e arraste-o para onde diz _arraste e solte um atributo aqui_.
+1. Pegue o **[!UICONTROL Estado inferido]** atributo e arraste-o para onde diz _arraste e solte um atributo aqui_.
 
    ![](assets/audience-criteria-14.png)
 
@@ -100,7 +100,7 @@ Use as Smart Lists do Marketo Engage para o público-alvo da sua caixa de diálo
 >
 >Os critérios de Membro da Smart List ou Membro da Lista exigem o Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
-1. Em Associação, capture **Membro da lista inteligente** e solte-o na tela.
+1. Em Associação, capture **[!UICONTROL Membro da lista inteligente]** e solte-o na tela.
 
    ![](assets/audience-criteria-15a.png)
 
@@ -133,7 +133,7 @@ Formatos aceitáveis:
 
 **Exclusões**
 
-Use exclusões para garantir que a caixa de diálogo **não** são exibidos em uma página/área específica do site. As exclusões seguem o mesmo formato que as inclusões.
+Use exclusões para garantir que a caixa de diálogo _não_ são exibidos em uma página/área específica do site. As exclusões seguem o mesmo formato que as inclusões.
 
 ![](assets/audience-criteria-18.png)
 
