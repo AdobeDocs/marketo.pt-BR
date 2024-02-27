@@ -4,9 +4,9 @@ description: Adicionar logon único a um portal - Documentação do Marketo - Do
 title: Adicionar Logon Único a um Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: f8fa8781d2b1e96ffda038f2f2e28cd242dcfead
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,7 @@ Quando o SSO está ativado, o IdP pode validar as credenciais de um usuário. Qu
 >[!NOTE]
 >
 >Você é um [!DNL Microsoft Azure] usuário? Confira o [tutorial de integração](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
+Para sua informação, há um erro de digitação na Etapa 5c do tutorial. Use `https://<munchkinid>.mktoweb.com`, _não_ `https://<munchkinid>.marketo.com`.
 
 ## Como enviar a solicitação {#how-to-send-the-request}
 
