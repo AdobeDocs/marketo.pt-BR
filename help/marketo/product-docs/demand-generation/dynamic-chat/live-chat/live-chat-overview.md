@@ -3,7 +3,7 @@ description: Visão geral do Live Chat - Documentação do Marketo - Documentaç
 title: Visão geral do bate-papo ao vivo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: a1341ab39690190fa203bf320543e9b5f5e20e66
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -72,7 +72,9 @@ Clicar no cartão de chat ao vivo no stream permite escolher como o visitante é
 
 ## Notificações de bate-papo ao vivo {#live-chat-notifications}
 
-Para receber notificações do navegador para bate-papo ao vivo, todos os agentes de bate-papo ao vivo devem ativar as notificações do navegador para Dynamic Chat quando solicitado.
+>[!IMPORTANT]
+>
+>Para receber notificações do navegador para bate-papo ao vivo, todos os agentes de bate-papo ao vivo devem ativar as notificações do navegador para Dynamic Chat quando solicitado.
 
 ### Ativar notificações {#enabling-notifications}
 
