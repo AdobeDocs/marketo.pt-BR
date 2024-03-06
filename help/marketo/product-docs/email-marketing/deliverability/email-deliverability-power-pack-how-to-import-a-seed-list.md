@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099077
-description: Power Pack de capacidade de entrega de email - Como importar uma lista de propagação - Documentação do Marketo - Documentação do produto
+description: Saiba como importar uma lista de propagação para sua instância do Marketo Engage.
 title: Power Pack de capacidade de entrega de email - Como importar uma lista de seeds
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # Power Pack de capacidade de entrega de email: como importar uma lista de seeds {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-Uma Seed List é uma lista de contas de email em vários provedores de caixa de correio, incluindo Google Apps, Hotmail, Yahoo!, etc., usados para aproximar a taxa de entrega da caixa de entrada versus a pasta de spam. Veja como inserir essa lista na sua instância do Marketo.
+Uma Seed List é uma lista de contas de email em vários provedores de caixa de correio, incluindo Google Apps, Hotmail, Yahoo!, etc., usados para aproximar a taxa de entrega da caixa de entrada versus a pasta de spam. Abaixo estão as etapas para obter essa lista na instância do Marketo Engage.
 
 >[!IMPORTANT]
 >
