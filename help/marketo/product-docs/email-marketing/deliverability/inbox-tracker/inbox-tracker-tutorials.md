@@ -1,20 +1,24 @@
 ---
-description: Tutorials do Rastreador de caixa de entrada - Documentação do Marketo - Documentação do produto
+description: Teste, monitore e entenda os problemas de capacidade de entrega com o Powerpack de capacidade de entrega de email do Marketo Engage.
 title: Tutorials do rastreador da caixa de entrada
 feature: Deliverability
-exl-id: b7c0c315-5255-4b16-b50d-241f018a7da9
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# Tutorials do rastreador da caixa de entrada {#inbox-tracker-tutorials.md}
+# Tutorials do rastreador da caixa de entrada {#inbox-tracker-tutorials}
 
-Teste, monitore e entenda os problemas de capacidade de entrega com o Powerpack de capacidade de entrega de email da Marketo, disponibilizado pela plataforma MessageBird&#39;s Inbox Tracker. O Rastreador de caixa de entrada é um aplicativo único que combina a inteligência de seu programa e a previsão de renderização/teste de caixa de entrada de email para maximizar o desempenho de seus emails.
+Teste, monitore e entenda os problemas de capacidade de entrega com o Powerpack de capacidade de entrega de email do Marketo Engage, desenvolvido pela plataforma do Rastreador de caixa de entrada Bird (antigo MessageBird). O Rastreador de caixa de entrada é um aplicativo único que combina a inteligência de seu programa e a previsão de renderização/teste de caixa de entrada de email para maximizar o desempenho de seus emails.
 
-O MessageBird criou vários vídeos de treinamento para ajudá-lo a aproveitar ao máximo essa ferramenta poderosa.
+>[!AVAILABILITY]
+>
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+
+Bird criou vários vídeos de treinamento para ajudá-lo a aproveitar ao máximo esta ferramenta poderosa.
 
 ## Visão geral do rastreador da caixa de entrada {#inbox-tracker-overview}
 

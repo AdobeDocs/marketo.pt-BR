@@ -4,9 +4,9 @@ description: Adicionar a correspondência do cliente do Google as a LaunchPoint 
 title: Adicionar a correspondência do cliente do Google como um serviço do LaunchPoint
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Adicionar a correspondência do cliente do Google como um serviço do LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
 
 Com essa integração, você pode enviar um público-alvo Marketo Engage para o Google para ser direcionado usando o Google AdWords, bem como redirecionar públicos-alvo no YouTube, Search e Gmail.
+
+>[!IMPORTANT]
+>
+>Devido à atualização recente da API de anúncios do Google, a funcionalidade de sincronização entre o Adobe e o Google está temporariamente desativada.  No momento, a Adobe está revisando os requisitos da Google relacionados à atualização.
 
 >[!NOTE]
 >
