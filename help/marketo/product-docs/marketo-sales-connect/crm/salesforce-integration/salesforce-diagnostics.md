@@ -4,9 +4,9 @@ description: Diagnósticos do Salesforce - Documentação do Marketo - Documenta
 title: Diagnósticos do Salesforce
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1427'
+source-wordcount: '1354'
 ht-degree: 1%
 
 ---
@@ -154,7 +154,7 @@ Parte de nossa integração com o Salesforce inclui uma página de Diagnóstico 
 
 **Erro:** INVALID_TYPE\
 **Categoria:** Acesso/validação\
-**Mensagem:** Data de Criação, (SELECIONAR ID das Tarefas) DO Cliente Potencial ONDE Email=&#39;emailid&#39;^ERRO na Linha:1:Coluna:53sTipo de objeto &#39;Lead&#39; não suportado. Caso queira usar um objeto personalizado, não deixe de anexar o &quot;__c&quot; após o nome da entidade. Consulte seu WSDL ou descreva a chamada para obter os nomes apropriados
+**Mensagem:** CreatedDate, (SELECIONE a ID das tarefas) DO lead ONDE Email=&#39;emailid&#39;^ERRO em `Row:1:Column:53sObject` O tipo &#39;Lead&#39; não é suportado. Caso queira usar um objeto personalizado, não deixe de anexar o &quot;__c&quot; após o nome da entidade. Consulte seu WSDL ou descreva a chamada para obter os nomes apropriados
 **O que está acontecendo:** Estamos tentando consultar um tipo de objeto do Salesforce ao qual o usuário não tem acesso. Provavelmente, isso está relacionado ao fato de o usuário não ter o acesso correto ao Objeto principal.\
 **Etapas de solução de problemas:** Conceda acesso de Leitura e Atualização ao objeto de cliente potencial no Salesforce ou desative o registro em log de emails e o registro em log de Atividades Mais Recentes para os registros de cliente potencial.
 

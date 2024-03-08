@@ -3,9 +3,9 @@ description: Diagnósticos do Salesforce - Documentação do Marketo - Documenta
 title: Diagnósticos do Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1445'
+source-wordcount: '1374'
 ht-degree: 1%
 
 ---
@@ -143,7 +143,7 @@ Parte de nossa integração com o Salesforce inclui uma página de Diagnóstico 
 
 **Erro:** INVALID_TYPE\
 **Categoria:** Acesso/validação\
-**Mensagem:** Data de Criação, (SELECIONAR ID das Tarefas) DO Cliente Potencial ONDE Email=&#39;emailid&#39;^ERRO na Linha:1:Coluna:53sTipo de objeto &#39;Lead&#39; não suportado. Caso queira usar um objeto personalizado, não deixe de anexar o &quot;__c&quot; após o nome da entidade. Consulte seu WSDL ou descreva a chamada para obter os nomes apropriados
+**Mensagem:** CreatedDate, (SELECIONE a ID das tarefas) DO lead ONDE Email=&#39;emailid&#39;^ERRO em `Row:1:Column:53sObject` O tipo &#39;Lead&#39; não é suportado. Caso queira usar um objeto personalizado, não deixe de anexar o &quot;__c&quot; após o nome da entidade. Consulte seu WSDL ou descreva a chamada para obter os nomes apropriados
 **O que está acontecendo:** Estamos tentando consultar um tipo de objeto do Salesforce ao qual o usuário não tem acesso. Provavelmente, isso está relacionado ao fato de o usuário não ter o acesso correto ao Objeto principal.\
 **Etapas de solução de problemas:** Conceda acesso de Leitura e Atualização ao objeto de cliente potencial no Salesforce ou desative o registro em log de emails e o registro em log de Atividades Mais Recentes para os registros de cliente potencial.
 
@@ -180,7 +180,7 @@ Parte de nossa integração com o Salesforce inclui uma página de Diagnóstico 
 
 **Erro:** TXN_SECURITY_NO_ACCESS\
 **Categoria:** Acesso/validação\
-**Mensagem:** A operação solicitada não é permitida devido a uma política de segurança em sua organização. Entre em contato com a administração.
+**Mensagem:** A operação solicitada não é permitida devido a uma política de segurança em sua organização. Entre em contato com o administrador.
 **O que está acontecendo:** Algum tipo de restrição de segurança foi configurada - consulte https://developer.salesforce.com/forums/?id=&quot;record ID&quot;\
 **Etapas de solução de problemas:** Converse com o administrador do Salesforce e veja qual pode ser a restrição específica.
 
