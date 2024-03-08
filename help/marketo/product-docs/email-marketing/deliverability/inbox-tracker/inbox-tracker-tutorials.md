@@ -1,18 +1,18 @@
 ---
-description: Teste, monitore e entenda os problemas de capacidade de entrega com o Powerpack de capacidade de entrega de email do Marketo Engage.
+description: Teste, monitore e entenda os problemas de capacidade de delivery com o Rastreador de caixa de entrada.
 title: Tutorials do rastreador da caixa de entrada
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 # Tutorials do rastreador da caixa de entrada {#inbox-tracker-tutorials}
 
-Teste, monitore e entenda os problemas de capacidade de entrega com o Powerpack de capacidade de entrega de email do Marketo Engage, desenvolvido pela plataforma do Rastreador de caixa de entrada Bird (antigo MessageBird). O Rastreador de caixa de entrada é um aplicativo único que combina a inteligência de seu programa e a previsão de renderização/teste de caixa de entrada de email para maximizar o desempenho de seus emails.
+Teste, monitore e entenda os problemas de capacidade de entrega com as Ferramentas de capacidade de entrega de email viabilizadas pela plataforma do Rastreador de caixa de entrada Bird (antigo MessageBird). O Rastreador de caixa de entrada é um aplicativo único que combina a inteligência de seu programa e a previsão de renderização/teste de caixa de entrada de email para maximizar o desempenho de seus emails.
 
 >[!AVAILABILITY]
 >

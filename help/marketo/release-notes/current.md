@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 12%
+source-wordcount: '216'
+ht-degree: 8%
 
 ---
 
@@ -31,8 +31,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr> 
    <td><strong>Lógica de Fluxo de Conversação Avançada</strong>: adicione campos adicionais para avaliação em uma única escolha para acompanhamento do Fluxo de conversa.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Configurações de fluxo de conversa para Marketo Engage Forms</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -42,8 +42,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    </tr>
     <tr> 
    <td><strong>Reordenar Lógica de Fluxo de Conversação</strong>: no Marketo Engage Forms, agora é possível reordenar as opções de Fluxo de conversa, em vez de precisar excluir e adicionar novamente.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Configurações de fluxo de conversa para Marketo Engage Forms</a></td>
    </tr>
   <tr> 
    <td> </td> 
