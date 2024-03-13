@@ -4,10 +4,10 @@ description: Notas de versão - Segundo trimestre de 2018 - Documentação do Ma
 title: Notas de versão - primavera de 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 9%
+source-wordcount: '466'
+ht-degree: 4%
 
 ---
 
@@ -49,23 +49,23 @@ Acesse o Marketo Sky open beta para obter acesso a mais de 100 novos recursos de
 
 [Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
-**Comparação entre períodos (neste ano e no ano anterior)**
+**Comparação do Período Ano a Ano**
 
 Obtenha insights mais relevantes comparando os resultados com o mesmo período do ano anterior.
 
-**Detecção de tendências em vários canais**
+**Tendência para vários canais**
 
 Compare o desempenho de vários canais ao longo do tempo.
 
-**Sincronização e filtragem de campos personalizados de oportunidades**
+**Sincronização e filtragem de campo personalizado de oportunidade**
 
 Filtrar resultados por Campos personalizados de oportunidade, como uma região de vendas específica. Para campos numéricos ou de moeda, defina valores mínimos e máximos, como um valor mínimo de Oportunidade, e gere insights para intervalos de dados específicos.
 
-**Gráficos rápidos compartilhados**
+**Gráficos Rápidos Compartilhados**
 
 Compartilhe facilmente seus Gráficos Rápidos com outros usuários do Performance Insights.
 
-**Melhorias de usabilidade**
+**Aprimoramentos de usabilidade**
 
 A navegação otimizada e os fluxos de trabalho aprimorados dão a você visibilidade dos critérios de sucesso do Programa e acesso aos detalhes do Programa.
 
@@ -76,10 +76,6 @@ A navegação otimizada e os fluxos de trabalho aprimorados dão a você visibil
 Defina o objetivo do algoritmo de otimização da IA de conteúdo para gerar mais exibições, cliques ou conversões.
 
 ## Integração e APIs {#integration-and-apis}
-
-[Integração do facebook Workplace](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-
-Envie notificações do sistema e momentos interessantes para o Facebook Workplace.
 
 [APIs de lista estática](https://developers.marketo.com/rest-api/assets/static-lists/)
 
