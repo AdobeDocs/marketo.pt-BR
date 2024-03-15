@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 8%
+source-wordcount: '296'
+ht-degree: 6%
 
 ---
 
@@ -60,5 +60,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 <br/>
 
 ## Anúncios {#announcements}
+
+* **Obter correção da API do membro do programa**: uma alteração foi feita recentemente para corrigir o comportamento do [Obter membros do programa](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} terminal. Anteriormente, ao utilizar o tipo de filtro updatedAt para especificar um intervalo de datas, havia uma chance de que os registros de associação de programa atualizados nesse intervalo não fossem incluídos na resposta. Além disso, havia uma chance de os registros de associação ao programa serem atualizados fora do intervalo de datas especificado e incluídos incorretamente na resposta. Ambos os problemas foram resolvidos.
 
 * **Substituição do plug-in do navegador do Insight da conta**: o Adobe está removendo o Gerenciamento de conta do Target [Plug-in de navegador do Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on March 18, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
