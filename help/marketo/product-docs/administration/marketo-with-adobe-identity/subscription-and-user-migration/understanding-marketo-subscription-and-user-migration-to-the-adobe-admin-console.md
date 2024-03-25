@@ -3,9 +3,9 @@ description: Noções básicas sobre a assinatura do Marketo e a migração de u
 title: Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
+source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
 workflow-type: tm+mt
-source-wordcount: '1323'
+source-wordcount: '1327'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,9 @@ ht-degree: 0%
 
 O Adobe está aprimorando a forma como você gerencia as assinaturas e os usuários da Adobe Marketo Engage, aumentando a produtividade para você e para a sua organização. Como parte dessa alteração, o Adobe está migrando suas assinaturas de Marketo Engage e usuários para o Adobe Admin Console. Essa é uma migração necessária e não afetará nenhum fluxo de trabalho de marketing, conteúdo, integrações ou ativos.
 
-Saiba como você pode usar o Adobe Admin Console para gerenciar os direitos de Adobe em toda a organização com o [Guia do administrador de equipes e empresas](https://helpx.adobe.com/br/enterprise/admin-guide.html){target="_blank"}.
+>[!TIP]
+>
+>Saiba como você pode usar o Adobe Admin Console para gerenciar os direitos de Adobe em toda a organização com o [Guia do administrador de equipes e empresas](https://helpx.adobe.com/br/enterprise/admin-guide.html){target="_blank"}.
 
 ## O que está mudando? {#what-is-changing}
 
@@ -26,11 +28,15 @@ Como parte da migração, sua assinatura e o gerenciamento de usuários passarã
 
 * **Os usuários entrarão com a Identidade do Adobe**. O Adobe migrará os usuários existentes para o Adobe Admin Console. Os usuários farão logon nas assinaturas do Marketo usando sua nova Identidade de Adobe - seja um Adobe ID ou Adobe Federated ID (SSO).
 
+## O que não está mudando? {#what-is-not-changing}
+
 * **Não há alterações na maneira como você gerencia todas as outras funcionalidades** no próprio aplicativo Marketo Engage, incluindo gerenciamento de recursos, funções de usuário, espaços de trabalho, funcionalidade e comportamento.
 
 ## Cronograma da Jornada de migração {#migration-journey-timeline}
 
 Primeiro, o Adobe migrará suas assinaturas do Marketo Engage para o Adobe Admin Console e, em seguida, migrará todos os usuários existentes com endereços de email verificados. Se você for um Administrador do sistema ou um Administrador de produto do Marketo, receberá emails orientando sobre a jornada de migração. Esta é uma linha do tempo do que você pode esperar:
+
+![](assets/understanding-marketo-subscription-and-user-migration-1.png)
 
 ### Migração de assinatura concluída {#subscription-migration-complete}
 
