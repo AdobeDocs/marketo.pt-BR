@@ -4,9 +4,9 @@ description: Champion/Challenger — E-mails completos — Documentação do Mar
 title: Champion/Challenger - e-mails inteiros
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,9 @@ Testar emails inteiros entre si. Quando o teste terminar, envie o executor super
    >
    >**Exemplo**
    >
-   >Na distribuição mostrada acima, 15% do público total especificado na lista inteligente recebe um dos emails desafiantes e 85% recebe o email campeão. Vários emails de desafiantes compartilham os 15% igualmente. Quando o teste terminar, você poderá declarar um vencedor manualmente. A partir daí, todas as futuras pessoas receberão o conteúdo com melhor desempenho.
+   >Na distribuição mostrada acima, 15% do público total especificado na Smart List recebe um dos emails desafiantes e 85% recebe o email campeão. Vários emails de desafiantes compartilham os 15% igualmente. Quando o teste terminar, você poderá declarar um vencedor manualmente. A partir daí, todas as futuras pessoas receberão o conteúdo com melhor desempenho. Em Campanhas de acionador, a porcentagem realizada pode ser diferente da porcentagem selecionada, pois a distribuição pode não se alinhar precisamente com as porcentagens escolhidas. Isso pode acontecer quando uma variante processa um número significativo de pessoas não inscritas ou quando uma variante é um email operacional, enquanto as outras não são.
 
    Para obter confiança estatística, verifique se a porcentagem atribuída aos desafiantes inclui pessoas suficientes para que o teste seja válido. Não se deixe enganar por resultados inconclusivos.
-
-   [Mais informações do que você jamais quis sobre a confiança estatística](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Clique em **Próxima**.
 

@@ -4,9 +4,9 @@ description: Champion/Challenger — Linha de assunto — Marketo Docs — Docum
 title: Champion/Challenger - linha de assunto
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,9 @@ ht-degree: 0%
    >
    >**Exemplo**
    >
-   >Na distribuição mostrada acima, 10% do público total especificado na lista inteligente recebe um dos emails com a linha de assunto do desafiante e 90% recebe emails com a linha de assunto do campeão. Emails com várias linhas de assunto desafiantes compartilham os 10% igualmente. Quando o teste terminar, você poderá declarar um vencedor manualmente. A partir daí, todas as futuras pessoas receberão o conteúdo com melhor desempenho.
+   >Na distribuição mostrada acima, 10% do público total especificado na Smart List recebe um dos emails com a linha de assunto do desafiante e 90% recebe emails com a linha de assunto do campeão. Emails com várias linhas de assunto desafiantes compartilham os 10% igualmente. Quando o teste terminar, você poderá declarar um vencedor manualmente. A partir daí, todas as futuras pessoas receberão o conteúdo com melhor desempenho. Em Campanhas de acionador, a porcentagem realizada pode ser diferente da porcentagem selecionada, pois a distribuição pode não se alinhar precisamente com as porcentagens escolhidas. Isso pode acontecer quando uma variante processa um número significativo de pessoas não inscritas ou quando uma variante é um email operacional, enquanto as outras não são.
 
-   Para obter confiança estatística, verifique se a porcentagem escolhida inclui pessoas suficientes para que o teste seja válido. Não se deixe enganar por resultados inconclusivos. [Mais informações do que você jamais quis sobre a confiança estatística](https://en.wikipedia.org/wiki/Confidence_interval).
+   Para obter confiança estatística, verifique se a porcentagem escolhida inclui pessoas suficientes para que o teste seja válido. Não se deixe enganar por resultados inconclusivos.
 
 1. Clique em **Próxima**.
 
