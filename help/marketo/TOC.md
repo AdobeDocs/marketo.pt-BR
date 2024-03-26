@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: abfdda5b42df9d01e1ad723c58fe6128048d4023
+source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
 workflow-type: tm+mt
-source-wordcount: '9282'
+source-wordcount: '9286'
 ht-degree: 3%
 
 ---
@@ -190,7 +190,7 @@ ht-degree: 3%
             + [Migrar para a identidade do Adobe](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
             + [Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + Configurações {#settings}
-         + [Informações da API de exportação em massa](product-docs/administration/settings/bulk-export-api-information.md)
+         + [Dados da API de exportação em massa](product-docs/administration/settings/bulk-export-api-information.md)
          + [Inspetor de campanhas](product-docs/administration/settings/campaign-inspector.md)
          + [Alterar configurações de atribuição do Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Alterar a senha do Marketo](product-docs/administration/settings/change-your-marketo-password.md)
@@ -204,7 +204,7 @@ ht-degree: 3%
          + [Editar Configurações de Assinatura](product-docs/administration/settings/edit-subscription-settings.md)
          + [Ativar ou desativar os recursos do Treasure Chest](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Ativar URLs personalizados para sua conta](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
-         + [Regras de validação do formulário global](product-docs/administration/settings/global-form-validation-rules.md)
+         + [Regras globais de validação de formulários](product-docs/administration/settings/global-form-validation-rules.md)
          + [Cabeçalhos da landing page](product-docs/administration/settings/landing-page-headers.md)
          + [Restringir logons do Marketo com base no IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Selecione seu idioma, localidade e fuso horário](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
@@ -313,7 +313,7 @@ ht-degree: 3%
                + [Usar uma duração em uma etapa de fluxo de espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
                + [Usar uma Data Específica em uma Etapa de Fluxo de Espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
          + Ações de fluxo do programa {#program-flow-actions}
-            + [Adicionar ao programa de engajamento](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
+            + [Adicionar ao programa de envolvimento](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
             + [Alterar cadência do programa de envolvimento](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)
             + [Alterar fluxo do programa de envolvimento](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
             + [Alterar status do programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
@@ -321,11 +321,11 @@ ht-degree: 3%
             + [Alterar dados dos membros do programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
          + Ações de fluxo do Microsoft Dynamics {#microsoft-dynamics-flow-actions}
             + [Adicionar ou Remover Pessoas do Dynamics Campaign](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
-            + [Alterar proprietário no Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
+            + [Alterar proprietário na Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Criar tarefa no Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [Sincronizar pessoa com a Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
          + Ações de fluxo do Salesforce {#salesforce-flow-actions}
-            + [Adicionar à campanha do SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
+            + [Adicionar à campanha da SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
             + [Alterar proprietário](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
             + [Alterar status de campanha da SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)
             + [Criar tarefa](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
@@ -400,7 +400,7 @@ ht-degree: 3%
             + [Expiração do ativo local](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [Gerenciar e Exibir Membros](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [Campos Personalizados de Membros do Programa](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
-            + [Sincronização de Campo Personalizado de Membro do Programa](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
+            + [Sincronizar campos personalizados de membros de programas](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
             + [Sincronizar uma campanha SFDC com um programa](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [Noções Básicas sobre Custos do Período](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [Noções básicas sobre tags](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
@@ -649,7 +649,7 @@ ht-degree: 3%
          + [Visão geral do Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Comportamento do Chatbot](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Lista de Reuniões](product-docs/demand-generation/dynamic-chat/meeting-list.md)
-         + [Atividades Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Atividades dinâmicas de chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Perguntas frequentes](product-docs/demand-generation/dynamic-chat/faq.md)
          + Chat automatizado {#automated-chat}
@@ -1540,7 +1540,7 @@ ht-degree: 3%
          + Recursos {#features}
             + [Visão geral do recurso MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Visão geral do recurso Painel de insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + [Integração do Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
+            + [Integração ao Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [Enviar um email para vários registros no Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Ações no painel MSI {#actions-in-the-msi-panel}
                + [Escolher uma ação no Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
@@ -1957,6 +1957,7 @@ ht-degree: 3%
    + Versões anteriores {#previous-releases}
       + 2024 {#2024}
          + [Notas de versão: janeiro de 2024](release-notes/previous-releases/2024/release-notes-jan-24.md)
+         + [Notas de versão: março de 2024](release-notes/previous-releases/2024/release-notes-mar-24.md)
       + 2023 {#2023}
          + [Notas de versão: janeiro de 2023](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Notas de versão: março de 2023](release-notes/previous-releases/2023/release-notes-mar-23.md)

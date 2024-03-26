@@ -4,7 +4,7 @@ description: Programação de lançamento - Documentação do Marketo - Document
 title: Programação de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 8%
@@ -43,12 +43,12 @@ _As datas/recursos de lançamento estão sujeitos a alterações_
    <td>Remetido</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Março de 24</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-mar-24.md">Março de 24</a></td>
    <td>8 de março de 2024</td>
    <td>Em andamento</td>
   </tr>
   <tr> 
-   <td>Abril de 24</td>
+   <td><a href="/help/marketo/release-notes/current.md">Abril de 24</td>
    <td>26 de abril de 2024</td>
    <td>Dentro do Cronograma</td>
   </tr>
