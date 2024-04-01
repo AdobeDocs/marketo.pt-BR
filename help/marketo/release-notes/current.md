@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 10%
+source-wordcount: '380'
+ht-degree: 14%
 
 ---
 
@@ -68,3 +68,70 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
  </tbody> 
 </table>
 <br/>
+
+## Anúncios {#announcements}
+
+* **Atualização da API de atividades**: No dia 26 de abril, adicionamos vários novos atributos às atividades baseadas na Web e baseadas em email que são retornados quando você recupera atividades usando o [API REST DO MARKETO](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} endpoint para analisar detalhes do atributo de cada atividade.
+
+**Atividades baseadas na Web**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Atividade</th> 
+   <th style="width:70%">Atributos recém-adicionados</th>
+   </tr>
+  <tr> 
+   <td>Visit Webpage</td> 
+   <td>Navegador, plataforma, dispositivo</td>
+  </tr>
+   <tr> 
+   <td>Preenchimento de formulário</td> 
+   <td>Navegador, plataforma, dispositivo</td>
+  </tr>
+  <tr> 
+   <td>Clicar em link</td> 
+   <td>Navegador, plataforma, dispositivo</td>
+  </tr>
+ </tbody> 
+</table>
+
+**Atividades baseadas em email**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Atividade</th> 
+   <th style="width:70%">Atributos recém-adicionados</th>
+  </tr>
+   <tr> 
+   <td>Enviar e-mail</td> 
+   <td>Navegador, Plataforma, Dispositivo, Agente do Usuário</td>
+  </tr>
+   </tr>
+  <tr> 
+   <td>E-mail enviado</td> 
+   <td>Navegador, Plataforma, Dispositivo, Agente do Usuário</td>
+  </tr>
+   <tr> 
+   <td>E-mail foi devolvido</td> 
+   <td>Navegador, Plataforma, Dispositivo, Agente do Usuário</td>
+  </tr>
+  <tr> 
+   <td>Cancelamento de inscrição do email</td> 
+   <td>Navegador, plataforma, dispositivo</td>
+  </tr>
+  <tr> 
+   <td>Abertura de email</td> 
+   <td>Navegador</td>
+  </tr>
+   <tr> 
+   <td>Cliques em email</td> 
+   <td>Navegador</td>
+  </tr>
+  <tr> 
+   <td>E-mail foi devolvido temporariamente</td> 
+   <td>Navegador, Plataforma, Dispositivo, Agente do Usuário</td>
+  </tr>
+ </tbody> 
+</table>

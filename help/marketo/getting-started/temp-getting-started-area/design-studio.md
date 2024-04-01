@@ -4,7 +4,7 @@ title: NOVO ESTÚDIO DE DESIGN DE ÁREA
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 11%
@@ -141,7 +141,7 @@ TABELA
 <tbody>
   <tr>
     <td>Estrutura de pastas</td>
-    <td><li>Crie subpastas para cada tipo de ativo e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">organizar ativos globais</a>(ou seja, modelos de email, emails, formulários, imagens e arquivos, modelos de página de aterrissagem e de página de aterrissagem) de forma adequada e fácil de pesquisar.</li></td>
+    <td><li>Crie subpastas para cada tipo de ativo e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">organizar ativos globais</a> (ou seja, modelos de email, emails, formulários, imagens e arquivos, modelos de página de aterrissagem e de página de aterrissagem) de forma adequada e fácil de pesquisar.</li></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">Organize suas imagens e arquivos usando pastas</a></td>
   </tr>
 </tbody>
