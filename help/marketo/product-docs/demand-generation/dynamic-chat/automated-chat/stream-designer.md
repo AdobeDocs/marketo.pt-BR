@@ -3,9 +3,9 @@ description: Stream Designer - Documentação do Marketo - Documentação do pro
 title: Designer de fluxo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
+source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1128'
 ht-degree: 1%
 
 ---
@@ -156,7 +156,7 @@ No canto superior direito do Stream Designer, você verá vários ícones. Aqui 
 
    ![](assets/stream-designer-17.png)
 
-1. Insira uma mensagem de chatbot e um espaço reservado. Verifique se o atributo está mapeado para o campo apropriado no Marketo e clique em **[!UICONTROL Salvar]**.
+1. Insira uma mensagem de chatbot e um espaço reservado. Verifique se o atributo está mapeado para o campo apropriado no Marketo Engage e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -175,7 +175,7 @@ No canto superior direito do Stream Designer, você verá vários ícones. Aqui 
     </tr>
     <tr>
      <td style="width:30%"><strong>Mapear resposta ao atributo</strong></td>
-     <td>Permite sincronizar a resposta do visitante ao campo correspondente no registro Person na sua assinatura do Marketo.</td>
+     <td>Permite sincronizar a resposta do visitante ao campo correspondente em seu registro de Pessoa na sua assinatura Marketo Engage.</td>
     </tr>
    </table>
 
