@@ -3,10 +3,10 @@ description: Perguntas frequentes sobre a sincronização de dados de ações - 
 title: Perguntas frequentes sobre a Sincronização de Dados de Ações
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 7ee5e8e3a32de5d4ff4022361f0d23d1d828ef74
+source-git-commit: 26173379c89393596b3ece18c7f7e945a79588d9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1054'
+ht-degree: 3%
 
 ---
 
@@ -99,7 +99,7 @@ Veja abaixo uma lista das atividades que fazem logon no Marketo:
 * Enviar e-mail de vendas
 * Abrir e-mail de vendas
 * Clicar em e-mail de vendas
-* Respondido para o e-mail de vendas
+* Respondeu ao e-mail de vendas
 * E-mail de vendas foi devolvido
 * Chamada de vendas recebida
 * Adicionar a campanha de vendas
@@ -118,7 +118,8 @@ O diagrama acima mostra quais informações estão registradas no Salesforce. At
 >[!MORELIKETHIS]
 >
 >* [Sincronização de cancelamentos de assinatura com o Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
->* [Verificação de cancelamentos de inscrições no Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+>* [Verificação de cancelamento de inscrição no Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Configurações de sincronização do Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Lembrete de sincronização de tarefas com o Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Iniciar Sincronização de Dados](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
+
