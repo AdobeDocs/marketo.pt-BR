@@ -3,7 +3,7 @@ description: Stream Designer - Documentação do Marketo - Documentação do pro
 title: Designer de fluxo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
+source-git-commit: e2914b37e4557ad20007884f0a17ca88ef85491b
 workflow-type: tm+mt
 source-wordcount: '1128'
 ht-degree: 1%
@@ -49,9 +49,9 @@ O Designer de Stream contém vários cartões que você pode adicionar para mold
   <td>Essa é a única carta que os visitantes não verão. Cabe a você determinar em qual ponto uma meta é alcançada no chat específico (por exemplo: se coletar o email do visitante for a sua meta, coloque o cartão de Meta imediatamente após a Captura de informações no stream).</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Ação</strong></td>
+  <td style="width:25%"><strong>Ação*</strong></td>
   <td>Semelhante aos campos ocultos em um formulário, com o cartão de ação você pode preencher qualquer atributo de cliente potencial ou de empresa (que tenha um <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">tipo de dados string</a>) com valores implícitos que você gostaria de capturar em um registro de lead. Você pode adicionar o cartão de ação em qualquer ponto da conversa e atualizar os respectivos atributos com um valor ou tokens nativos que preenchem automaticamente o respectivo valor.
-  <p><i>O cartão Ação requer o Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.</i></td>
+  <p>* <i>O cartão Ação requer o Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Chat ao vivo</strong></td>
