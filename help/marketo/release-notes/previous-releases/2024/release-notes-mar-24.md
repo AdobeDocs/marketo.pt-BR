@@ -2,7 +2,8 @@
 description: Notas de versão - março de 2024 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - março de 2024
 feature: Release Information
-source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
+exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
+source-git-commit: fd92f5307880019f54bb2f1778093c110a53ed2c
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 3%
@@ -62,4 +63,4 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Obter correção da API do membro do programa**: uma alteração foi feita recentemente para corrigir o comportamento do [Obter membros do programa](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} terminal. Anteriormente, ao utilizar a variável `updatedAt` tipo de filtro para especificar um intervalo de datas. Houve uma chance de os registros de associação de programa atualizados nesse intervalo não serem incluídos na resposta. Além disso, havia uma chance de os registros de associação ao programa serem atualizados fora do intervalo de datas especificado e incluídos incorretamente na resposta. Ambos os problemas foram resolvidos.
 
-* **Substituição do plug-in do navegador do Insight da conta**: o Adobe está removendo o Gerenciamento de conta do Target [Plug-in de navegador do Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on March 18, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
+* **Substituição do plug-in do navegador do Insight da conta**: o Adobe está removendo o Gerenciamento de conta do Target [Plug-in de navegador do Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on April 8, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
