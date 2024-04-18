@@ -3,9 +3,9 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '356'
 ht-degree: 14%
 
 ---
@@ -29,17 +29,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentação</th>
   </tr>
-   <tr> 
-   <td><strong>Modelos para webinários interativos</strong>: economize tempo criando modelos personalizados para layouts de salas com especificações que se ajustam à sua organização.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
      <tr> 
    <td><strong>Melhorias nos webinários interativos</strong>: agora você pode fornecer aos hosts e apresentadores a capacidade de adicionar um título de webinário, renomear uma sala e sincronizar manualmente os dados de engajamento após a entrega do evento.</td> 
    <td><i>Em breve</i></td>

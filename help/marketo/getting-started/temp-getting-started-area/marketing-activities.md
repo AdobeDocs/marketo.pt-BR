@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c9bde944-1724-4521-a57a-e8cef4adb5c8
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 3%
@@ -135,7 +135,7 @@ As Atividades de marketing abrigam todos os ativos e conteúdos que compõem seu
   <tr>
     <td>Privacidade e conformidade</td>
     <td><li>Crie programas para garantir a conformidade com a privacidade de dados e as leis de spam, como <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html">GDPR, CASL, CAN-SPAM, CCPA etc.</a></li>
-    <br>Observação: lembre-se sempre de consultar sua equipe jurídica sobre essas questões. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração. </td>
+    <br>Observação: lembre-se sempre de consultar sua equipe jurídica sobre essas questões. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
   </tr>
   <tr>
     <td>Ciclo de vida</td>
